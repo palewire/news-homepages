@@ -1,5 +1,5 @@
 {
-  "created": 1657109458,
+  "created": 1657154384,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/27/items/kccinews-2022",
@@ -5964,31 +5964,73 @@
       "sha1": "56b648cd31ca9aa48e6b0914bb11f4d86e97e1e4"
     },
     {
+      "name": "kccinews-2022-07-06T09:39:05.566054-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657118354",
+      "size": "25659",
+      "md5": "1a883053ff5e8d4be5351a75741cdfa4",
+      "crc32": "e058d46d",
+      "sha1": "10637360d53d2016d5d5faa9598891dedfedb00d",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-07-06T09:39:05.566054-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657118356",
+      "size": "24870",
+      "md5": "84642f364c6180a466c3a2a84b56908f",
+      "crc32": "eb27f7a5",
+      "sha1": "a0398b877094766ead4b40826d841c2c83a919c0",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-07-06T09:39:05.566054-05:00.jpg",
+      "source": "original",
+      "mtime": "1657118352",
+      "size": "304740",
+      "md5": "58a270723d914f533ab5646f6abdef8f",
+      "crc32": "2ca3d056",
+      "sha1": "15b6bd7c33bbdac087732796b8418438fff043d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kccinews-2022-07-06T09:39:05.566054-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kccinews-2022-07-06T09:39:05.566054-05:00.jpg",
+      "mtime": "1657118435",
+      "size": "10518",
+      "md5": "5cbaac07fdbea5f183e8a967e49cadff",
+      "crc32": "b0a70df9",
+      "sha1": "0b461f13ee3ae817ba1b30b4f7bb16e86c2f20c3"
+    },
+    {
       "name": "kccinews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "65522815a7704fa82b75f6f17db1df0e69eae24e",
-      "mtime": "1657073228",
-      "size": "121042",
-      "md5": "798cfc22aa33f0e4d707907969a82ed1",
-      "crc32": "facf9537",
-      "sha1": "3b332b8bd70ead89a9fc373a0e00a3119e9642b0",
+      "btih": "07e93981b373b2e893834e35ca6790580c932428",
+      "mtime": "1657118478",
+      "size": "121872",
+      "md5": "5410e9259af48709934ead280bfb7e9e",
+      "crc32": "770b20fb",
+      "sha1": "af6e5ef4bdd3403029990dbafb5827e16e8cc1f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kccinews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "17deb9708f6decfdaf8ebdad1b3a5d18",
+      "md5": "29070ad1615f4e516e46d49220a2f716",
       "summation": "md5"
     },
     {
       "name": "kccinews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657073038",
-      "size": "659456",
-      "md5": "d3ef47f516cf374fd39b95362ab7ed3d",
-      "crc32": "07d00067",
-      "sha1": "f76a41a96dddcab4198980876636027a91f61c9c",
+      "mtime": "1657118360",
+      "size": "663552",
+      "md5": "0cccebbbbbf314fac271352fab3cdb68",
+      "crc32": "c762db12",
+      "sha1": "1d947c8213e7e7a70e0985a934f2b2a46e7afa44",
       "format": "Metadata"
     },
     {
@@ -6002,16 +6044,16 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 571,
-  "item_last_updated": 1657073228,
-  "item_size": 53082279,
+  "files_count": 575,
+  "item_last_updated": 1657118478,
+  "item_size": 53452992,
   "kccinews-2022": [
     {
       "text": "Skip to content",
       "url": "#"
     },
     {
-      "text": "\n        \n            \n                NOWCAST\n                KCCI News at 6pm Weekday Evening\n            \n            \n                \n                    \n                \n\n                \n                                            Watch on Demand\n                                    \n            \n        \n    ",
+      "text": "\n        \n            \n                NOWCAST\n                KCCI News at 6am Weekday Morning\n            \n            \n                \n                    \n                \n\n                \n                                            Watch on Demand\n                                    \n            \n        \n    ",
       "url": "/nowcast"
     },
     {
@@ -6187,39 +6229,35 @@
       "url": "/"
     },
     {
-      "text": "73\u00b0Weather",
+      "text": "72\u00b0Weather",
       "url": "/weather"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tSevere Weather\n\t\t\t\t\t\t\n\t\t\t\t\t\tThere are currently 2 active weather alerts\n\t\t\t\t\t",
-      "url": "/alerts"
     },
     {
       "text": "\n\t\t\t\t\tMORE\n\t\t\t\t\t\n\t\t\t\t",
       "url": "/weather"
     },
     {
+      "text": "Sign Up to Get Future Alerts",
+      "url": "https://www.kcci.com/subscribe"
+    },
+    {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/iowa-supreme-court-denies-governors-kim-reynolds-request-to-rehear-24-hour-abortion-waiting-period/40518985"
+      "url": "/article/bondurant-amazon-facility-was-evacuated-due-to-threats/40522906"
     },
     {
-      "text": "\n\t\t\tIowa Supreme Court denies governor's request to rehear 24-hour abortion waiting period\n\t\t",
-      "url": "/article/iowa-supreme-court-denies-governors-kim-reynolds-request-to-rehear-24-hour-abortion-waiting-period/40518985"
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tNicole Tam\n\t\t\t\t",
+      "url": "/news-team/d13e6477-338c-4620-a02b-885d66828255"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/article/iowa-supreme-court-denies-governors-kim-reynolds-request-to-rehear-24-hour-abortion-waiting-period/40518985"
-    },
-    {
-      "text": "Weather Alerts (2)",
-      "url": "alerts"
+      "text": "\n\t\t\tAmazon facility in Bondurant was evacuated due to threats \n\t\t",
+      "url": "/article/bondurant-amazon-facility-was-evacuated-due-to-threats/40522906"
     },
     {
       "text": "Des Moines, IA 50309",
       "url": "/weather"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t73\n\t\t\t\t\t\t\u00b0\n\t\t\t\t\t\tF\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t72\n\t\t\t\t\t\t\u00b0\n\t\t\t\t\t\tF\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
       "url": "/weather"
     },
     {
@@ -6227,20 +6265,24 @@
       "url": "weather/radar"
     },
     {
-      "text": "Chris Gloninger",
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tChris Gloninger\n\t\t\t\t",
       "url": "/news-team/28c849fe-920f-41cf-943e-2c018f4899fb"
     },
     {
-      "text": "Anne Campolongo",
-      "url": "/news-team/9265f218-ee93-4a24-a5bb-95b4e564cf9a"
+      "text": "\n\t\t\tHigh temps and storms in the metro\n\t\t",
+      "url": "/article/iowa-weather-central-iowa-july-5-2022/40512668"
     },
     {
-      "text": "\n\t\t\tTracking storms in the Midwest\n\t\t",
-      "url": "/article/iowa-weather-central-iowa-july-5-2022/40512668"
+      "text": "Iowa Supreme Court denies governor's request to rehear 24-hour abortion waiting period",
+      "url": "/article/iowa-supreme-court-denies-governors-kim-reynolds-request-to-rehear-24-hour-abortion-waiting-period/40518985"
     },
     {
       "text": "Boone Scenic Valley Railroad to offer 'rail bikes' this month",
       "url": "/article/iowa-boone-scenic-valley-railroad-to-offer-rail-bikes-this-month/40517658"
+    },
+    {
+      "text": "Authorities: Monroe County man killed wife before shooting himself",
+      "url": "/article/murder-suicide-investigation-underway-in-iowa-community-monroe-county/40505478"
     },
     {
       "text": "Authorities release identity of body recovered at North Twin Lake",
@@ -6251,36 +6293,28 @@
       "url": "/article/van-meter-iowa-officials-close-part-of-racoon-river-after-tubing-death/40518732"
     },
     {
-      "text": "Authorities release identity of body recovered near Rock Valley",
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
       "url": "/article/iowa-19-year-old-victim-identified-after-drowning-incident-near-rock-valley/40515959"
     },
     {
-      "text": "Marion County authorities looking for man who abandoned vehicle on train tracks",
-      "url": "/article/marion-county-authorities-looking-for-man-who-abandoned-vehicle-on-train-tracks/40518399"
-    },
-    {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/july-4-parade-shooting-illinois/40500999"
-    },
-    {
-      "text": "\n\t\t\tIllinois July 4 parade shooting suspect charged with 7 counts of first-degree murder\n\t\t",
-      "url": "/article/july-4-parade-shooting-illinois/40500999"
+      "text": "\n\t\t\tAuthorities release identity of body recovered near Rock Valley\n\t\t",
+      "url": "/article/iowa-19-year-old-victim-identified-after-drowning-incident-near-rock-valley/40515959"
     },
     {
       "text": "Justice Department sues Arizona over new election law requiring proof of citizenship",
       "url": "/article/justice-department-sues-arizona-election-law-proof-citizenship/40518098"
     },
     {
-      "text": "Damage caused by fireworks across the metro area",
-      "url": "/article/fourth-of-july-fireworks-cause-mixed-feelings-and-damage-across-the-metro-area/40517577"
+      "text": "Here's what we know about the victims of the Highland Park parade shooting",
+      "url": "/article/victims-july-fourth-chicago-parade-shooting/40510981"
+    },
+    {
+      "text": "Road rage get the best of you? Here's how to keep your cool while driving",
+      "url": "/article/road-rage-can-overcome-even-the-best-drivers-here-s-how-to-keep-your-cool-while-driving/40508642"
     },
     {
       "text": "What we know about the Highland Park July 4 parade shooting suspect",
       "url": "/article/what-we-know-about-the-highland-park-july-4-parade-shooting-suspect/40511055"
-    },
-    {
-      "text": "Former NFL star's family says he had CTE at time of death",
-      "url": "/article/nfl-demaryius-thomas-family-cte/40515830"
     },
     {
       "text": "US stocks, crude oil prices fall as markets extend slump",
@@ -6288,11 +6322,15 @@
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/murder-suicide-investigation-underway-in-iowa-community-monroe-county/40505478"
+      "url": "/article/iowa-reports-of-storm-damage-throughout-iowa-after-tuesdays-severe-weather/40513473"
     },
     {
-      "text": "\n\t\t\tPolice identify husband and wife in homicide investigation\n\t\t",
-      "url": "/article/murder-suicide-investigation-underway-in-iowa-community-monroe-county/40505478"
+      "text": "\n\t\t\t\t\t\n\t\t\t\t\tBy\n\t\t\t\t\tAndrew Mollenbeck\n\t\t\t\t",
+      "url": "/news-team/72835fd5-127e-44da-89bd-f59d48cce257"
+    },
+    {
+      "text": "\n\t\t\tReports of storm damage throughout Iowa after Tuesday's severe weather\n\t\t",
+      "url": "/article/iowa-reports-of-storm-damage-throughout-iowa-after-tuesdays-severe-weather/40513473"
     },
     {
       "text": "\n\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\t",
@@ -6320,31 +6358,31 @@
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/it-represents-our-family-military-widows-statue-returned-three-years-after-it-was-stolen/40509810"
+      "url": "/article/carlos-santana-collapses-on-stage-during-concert-in-michigan/40521327"
     },
     {
-      "text": "\n\t\t\t'It represents our family': Military widow's statue returned three years after it was stolen\n\t\t",
-      "url": "/article/it-represents-our-family-military-widows-statue-returned-three-years-after-it-was-stolen/40509810"
+      "text": "\n\t\t\tCarlos Santana collapses on stage during concert in Michigan\n\t\t",
+      "url": "/article/carlos-santana-collapses-on-stage-during-concert-in-michigan/40521327"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/climate-protesters-glue-themselves-to-200-year-old-masterpiece/40507317"
+      "url": "/article/how-to-safely-dispose-and-store-fireworks-for-later-holiday-seasons/40522679"
     },
     {
-      "text": "\n\t\t\tClimate protesters glue themselves to 200-year-old masterpiece\n\t\t",
-      "url": "/article/climate-protesters-glue-themselves-to-200-year-old-masterpiece/40507317"
+      "text": "\n\t\t\tHow to safely dispose and store fireworks for later holiday seasons\n\t\t",
+      "url": "/article/how-to-safely-dispose-and-store-fireworks-for-later-holiday-seasons/40522679"
     },
     {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tHere's what we know about the victims of the Highland Park parade shooting\n\t\n\n\n\t\t\t\n\n          \n                  CNN\n              \n    \n              \n                      1 HR\n                  \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/victims-july-fourth-chicago-parade-shooting/40510981"
+      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t'It was so close': Family survives July 4 mass shooting in Highland Park, Illinois\n\t\n\n\n\t\t\t\n\n          \n                  WCVB\n              \n    \n              \n                      1 HR\n                  \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
+      "url": "/article/massachusetts-family-survives-july-4-highland-park-shooting/40525517"
     },
     {
       "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tStitch TV: Food & how it connects us\n\t\n\n\n\t\t\t\n\n          \n                  KCCI\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
       "url": "/article/stitch-tv-food-and-how-it-connects-us/40484664"
     },
     {
-      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t'People just falling and falling': Witnesses describe terror at Illinois parade shooting\n\t\n\n\n\t\t\t\n\n          \n                  CNN\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
-      "url": "/article/witnesses-describe-terror-at-illinois-parade-shooting/40503452"
+      "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tRossen Reports: I bought store brand groceries and saved this much\n\t\n\n\n\t\t\t\n\n          \n                  KCCI\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
+      "url": "/article/rossen-reports-store-brand-groceries-savings/40516830"
     },
     {
       "text": "\n\t\t\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\tElderly woman tells suspicious men who entered her home in scam attempt to 'get out right now'\n\t\n\n\n\t\t\t\n\n          \n                  WPBF\n              \n    \n      \n      \n    \n\n\n\t\t\t\t\t\n\t\t\t",
@@ -6383,32 +6421,32 @@
       "url": "https://www.goodhousekeeping.com/appliances/coffee-maker-reviews/a28552704/bialetti-moka-stove-top-coffee-maker-review/?utm_source=kcci&utm_medium=referral&utm_campaign=htv-kcci-feed"
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t",
-      "url": "/article/law-enforcement-officers-shot-july-fourth-philadelphia/40505519"
+      "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
+      "url": "/article/highland-park-illinois-july-4-parade-shooting/40521596"
     },
     {
-      "text": "\n\t\t\t2 law enforcement officers shot during a July Fourth festival in Philadelphia\n\t\t",
-      "url": "/article/law-enforcement-officers-shot-july-fourth-philadelphia/40505519"
+      "text": "\n\t\t\tIllinois July 4 parade shooting suspect to appear in court; faces 7 counts of first-degree murder\n\t\t",
+      "url": "/article/highland-park-illinois-july-4-parade-shooting/40521596"
     },
     {
       "text": "\n\t\t\t\t\n\n\n\n\t\n\n\n\n\n\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t",
-      "url": "/article/bidens-shocked-chicago-area-shooting-white-house-marks-july-fourth/40504385"
+      "url": "/article/judge-denies-abortion-clinics-request-to-block-mississippi-trigger-law/40513705"
     },
     {
-      "text": "\n\t\t\tBidens 'shocked' by Chicago-area shooting as White House marks July Fourth\n\t\t",
-      "url": "/article/bidens-shocked-chicago-area-shooting-white-house-marks-july-fourth/40504385"
+      "text": "\n\t\t\tJudge denies abortion clinic's request to block Mississippi trigger law\n\t\t",
+      "url": "/article/judge-denies-abortion-clinics-request-to-block-mississippi-trigger-law/40513705"
     },
     {
       "text": "What we know about the July 4 parade shooting in Highland Park, Illinois",
-      "url": "/article/highland-park-illinois-parade-shooting-july-4/40502186"
+      "url": "/article/highland-park-illinois-parade-shooting-what-we-know/40523471"
     },
     {
-      "text": "Road rage get the best of you? Here's how to keep your cool while driving",
-      "url": "/article/road-rage-can-overcome-even-the-best-drivers-here-s-how-to-keep-your-cool-while-driving/40508642"
+      "text": "DNA technology solves cold cases",
+      "url": "/article/hometown-tragedy-crime-briefs-dna-technology/39981758"
     },
     {
-      "text": "Trying to avoid flight delays and cancellations? Here are some tips",
-      "url": "/article/travel-professional-offers-advice-for-booking-flights/40519389"
+      "text": "Twitter launches legal challenge in India over orders to block content",
+      "url": "/article/twitter-launches-legal-challenge-in-india-over-orders-to-block-content/40523645"
     },
     {
       "text": "New York overhauls handgun licensing rules in effort to preserve some limits",
@@ -6675,10 +6713,10 @@
     "publicdate": "2022-03-25 03:36:10",
     "addeddate": "2022-03-25 03:36:10"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 925741160,
+  "server": "ia802501.us.archive.org",
+  "uniq": 610495216,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

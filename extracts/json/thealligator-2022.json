@@ -1,5 +1,5 @@
 {
-  "created": 1657109774,
+  "created": 1657154583,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/0/items/thealligator-2022",
@@ -1644,31 +1644,73 @@
       "sha1": "e5d978eaa5d44c7c9b53716d909c17ff9f41771e"
     },
     {
+      "name": "thealligator-2022-07-06T13:01:38.235516-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657126907",
+      "size": "32382",
+      "md5": "e58cb60a315bad6cfce3f2e7ac38223c",
+      "crc32": "abfe99fa",
+      "sha1": "f1fcaf89f80da91a5002199a0bf5217045cb50ee",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-07-06T13:01:38.235516-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657126909",
+      "size": "24356",
+      "md5": "c69cb71f61698f5c2c407d24d5fd92a4",
+      "crc32": "c9599441",
+      "sha1": "d3478e7d0e3adf3577b684e8e36137b8dd6d58b0",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-07-06T13:01:38.235516-04:00.jpg",
+      "source": "original",
+      "mtime": "1657126903",
+      "size": "327875",
+      "md5": "8215c66e0d171e8920794036296f99c0",
+      "crc32": "3280b7d8",
+      "sha1": "03ae0a8047c5c02bb4a89c650f9e5653d3129fe8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thealligator-2022-07-06T13:01:38.235516-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thealligator-2022-07-06T13:01:38.235516-04:00.jpg",
+      "mtime": "1657127068",
+      "size": "10101",
+      "md5": "1d53bc3eac3d01b304bf373516b69ccd",
+      "crc32": "0536fcdf",
+      "sha1": "38440c2d200a5372069f9acfe01950bda5b83a52"
+    },
+    {
       "name": "thealligator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d6b9b2e9f4d48ea2909d02fef04491d2285beb27",
-      "mtime": "1657080089",
-      "size": "34994",
-      "md5": "e6840a157429e5391b70b75273d636fd",
-      "crc32": "05d58545",
-      "sha1": "1ded1f8cecc0aadec76c3fb068760965e3abbed4",
+      "btih": "b97e9ae2aa00129ae5749a30ab51eb60d357d10e",
+      "mtime": "1657127072",
+      "size": "35840",
+      "md5": "75038bbab27703f4099fcf34ef349de8",
+      "crc32": "b796268b",
+      "sha1": "f9fae14df0288fbb865463c6a6b8ec94e5c73cd6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thealligator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf21849be2f772a87ec39ee0ceb90c0b",
+      "md5": "080f89550c0c0dc84e3bdf33b5768185",
       "summation": "md5"
     },
     {
       "name": "thealligator-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657079998",
-      "size": "200704",
-      "md5": "64d0e6503850b8588ec2f891088a0e1d",
-      "crc32": "9076ad23",
-      "sha1": "780cf3dbdd02abf33dcf9125021105968b2c080e",
+      "mtime": "1657126935",
+      "size": "204800",
+      "md5": "bdbfa436fddc2e2a4505f68985026840",
+      "crc32": "f916a75a",
+      "sha1": "4659b0734387caf9c6a39315006e6dc071aee341",
       "format": "Metadata"
     },
     {
@@ -1682,9 +1724,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 160,
-  "item_last_updated": 1657080089,
-  "item_size": 14746434,
+  "files_count": 164,
+  "item_last_updated": 1657127072,
+  "item_size": 15146090,
   "metadata": {
     "identifier": "thealligator-2022",
     "collection": [
@@ -2016,8 +2058,12 @@
       "url": "https://www.alligator.org/article/2022/07/cancer-hospitals"
     },
     {
+      "text": "NEWS",
+      "url": "https://www.alligator.org/section/news"
+    },
+    {
       "text": "CAMPUS",
-      "url": "https://www.alligator.org/section/campus"
+      "url": "https://www.alligator.org/section/news/campus"
     },
     {
       "text": "UF Health receives state support, national recognition",
@@ -2052,8 +2098,12 @@
       "url": "https://www.alligator.org/article/2022/07/marston-library-begins-renovations"
     },
     {
+      "text": "NEWS",
+      "url": "https://www.alligator.org/section/news"
+    },
+    {
       "text": "CAMPUS",
-      "url": "https://www.alligator.org/section/campus"
+      "url": "https://www.alligator.org/section/news/campus"
     },
     {
       "text": "Marston Library begins renovations",
@@ -2512,7 +2562,7 @@
       "url": "https://getsnworks.com"
     }
   ],
-  "uniq": 1904752714,
+  "uniq": 186035434,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1657068094,
+  "created": 1657113733,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/2/items/espn-2022",
@@ -226,31 +226,73 @@
       "sha1": "e4ce7519dca36eb958f03e71d59946f409d1e4c1"
     },
     {
+      "name": "espn-2022-07-06T09:07:30.391045-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657112858",
+      "size": "39875",
+      "md5": "e32f8f834e0d0155b29591b99a26758f",
+      "crc32": "66f32064",
+      "sha1": "4d552a6e06a5d9e2a7f2b5fef3827661ebd1eb7a",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-07-06T09:07:30.391045-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657112861",
+      "size": "118119",
+      "md5": "496ba2cf8a9f1ea108f26218cafceedb",
+      "crc32": "b616b831",
+      "sha1": "fc096991926f3546237b31ea567ffca506f82f02",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-07-06T09:07:30.391045-04:00.jpg",
+      "source": "original",
+      "mtime": "1657112853",
+      "size": "82545",
+      "md5": "e39a87a3bc60aa7f805be172252de665",
+      "crc32": "955a2bda",
+      "sha1": "c08dee445807f3c5b3a5822c60fb974e4421bbf0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-07-06T09:07:30.391045-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-07-06T09:07:30.391045-04:00.jpg",
+      "mtime": "1657113469",
+      "size": "6151",
+      "md5": "4c0c31d47c350fecfbabe817d1c6347d",
+      "crc32": "4abe4685",
+      "sha1": "8afa1a04780f042aa6d45109d7aa784b8a24e289"
+    },
+    {
       "name": "espn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07479bada7db6a69c39f4a2f4c6615460a0455a1",
-      "mtime": "1657068081",
-      "size": "5689",
-      "md5": "4ff0912021cc3ea68bb2dc7aa5b35452",
-      "crc32": "1fdb67b9",
-      "sha1": "3d6b804502994f1861b67abd871dd31081411e7d",
+      "btih": "9ac15a07cc554f0fc38193ac474142f2b1b43be9",
+      "mtime": "1657113650",
+      "size": "6522",
+      "md5": "cd554b9ffe893083f7e36f2ebc4de4af",
+      "crc32": "284e0c42",
+      "sha1": "efd0484cffdca27413e182e9dc462b8109bc1855",
       "format": "Archive BitTorrent"
     },
     {
       "name": "espn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc700087140eefa82647a5a91c64be4f",
+      "md5": "b5265414367cb7ed2e72e9a8ee75b658",
       "summation": "md5"
     },
     {
       "name": "espn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657068019",
-      "size": "40960",
-      "md5": "a35b0520ba4ab376c09fcb81390654d5",
-      "crc32": "938b652f",
-      "sha1": "f2ffef491737a0450e5651f92eea2b1f2cc09242",
+      "mtime": "1657112949",
+      "size": "45056",
+      "md5": "9a8ae447fca02c92e13b728b9b75a2e2",
+      "crc32": "7d68decf",
+      "sha1": "b590a75a946a2219d582f52adf47c521ff7b4514",
       "format": "Metadata"
     },
     {
@@ -264,9 +306,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 25,
-  "item_last_updated": 1657068081,
-  "item_size": 1351750,
+  "files_count": 29,
+  "item_last_updated": 1657113650,
+  "item_size": 1603369,
   "metadata": {
     "identifier": "espn-2022",
     "collection": [
@@ -283,10 +325,10 @@
     "publicdate": "2022-07-04 20:48:15",
     "addeddate": "2022-07-04 20:48:15"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 1102478911,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1258747742,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

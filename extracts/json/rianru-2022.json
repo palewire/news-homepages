@@ -1,5 +1,5 @@
 {
-  "created": 1657077385,
+  "created": 1657124888,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/19/items/rianru-2022",
@@ -3208,31 +3208,63 @@
       "sha1": "13d58f7897db0b6643b6bb7affad3c6b6e4214c9"
     },
     {
+      "name": "rianru-2022-07-06T19:24:52.502093+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657124700",
+      "size": "66978",
+      "md5": "af15aedfc04e708fd27b9e5b9bb63ffd",
+      "crc32": "9faeafd8",
+      "sha1": "37ff6848c3bef2e77120fd9e94bc880a50c7e002",
+      "format": "JSON"
+    },
+    {
+      "name": "rianru-2022-07-06T19:24:52.502093+03:00.jpg",
+      "source": "original",
+      "mtime": "1657124694",
+      "size": "209181",
+      "md5": "8195a9a0ee474b520d644dea3afa3fe8",
+      "crc32": "f1309715",
+      "sha1": "dffa8f9c31198151391239a8a53a9f14e0135d3b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rianru-2022-07-06T19:24:52.502093+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rianru-2022-07-06T19:24:52.502093+03:00.jpg",
+      "mtime": "1657124791",
+      "size": "8590",
+      "md5": "649fd8776fac49078a50f5be555c4651",
+      "crc32": "3671ceb2",
+      "sha1": "d22b733455196b8fdae4022393d19992c6bdb655"
+    },
+    {
       "name": "rianru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4731dd82ff0749b27589b8f956440d04d8f470b6",
-      "mtime": "1657077379",
-      "size": "65046",
-      "md5": "6bab25280f525a6caf8f56fb366b3a76",
-      "crc32": "13cd9c27",
-      "sha1": "83e2fb8820f0afbfd489f14f260373684cc6504b",
+      "btih": "5bd95d40b1cc6974a0e544a7afb406a9c8037bb8",
+      "mtime": "1657124849",
+      "size": "65658",
+      "md5": "1571fdba9f68267e66c162140b64b476",
+      "crc32": "375645cc",
+      "sha1": "0612135b4a2967deee5f8db4b1925c64c4b2db64",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rianru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ca8f65a67d58f90f1c3ae2e5c83a4ac",
+      "md5": "c51b85e79690bdc2ecad9f5625b8d4a7",
       "summation": "md5"
     },
     {
       "name": "rianru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657077330",
-      "size": "368640",
-      "md5": "e15f637b3dcdd2eeca924c9efdf1bd73",
-      "crc32": "ecf15acf",
-      "sha1": "bb283bd66eeabb17654c7b1add5d7ff69952c7f0",
+      "mtime": "1657124703",
+      "size": "372736",
+      "md5": "50c021e2ca424b4d46461b647ffecbe7",
+      "crc32": "ce5b9cf9",
+      "sha1": "e8693b60b6c103e0d7a9d3a71faaf256f286b3d0",
       "format": "Metadata"
     },
     {
@@ -3246,9 +3278,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 309,
-  "item_last_updated": 1657077379,
-  "item_size": 27518507,
+  "files_count": 312,
+  "item_last_updated": 1657124849,
+  "item_size": 27807964,
   "metadata": {
     "identifier": "rianru-2022",
     "collection": [
@@ -3265,10 +3297,10 @@
     "publicdate": "2022-03-23 02:09:28",
     "addeddate": "2022-03-23 02:09:28"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 564088768,
+  "server": "ia902508.us.archive.org",
+  "uniq": 518662090,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }
