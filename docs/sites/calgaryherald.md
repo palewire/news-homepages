@@ -17,7 +17,7 @@ orphan: true
 | Location       | Calgary                                                                 |
 | Timezone       | America/Edmonton                                                                 |
 
-The archiving routine has captured 19 screenshots stored at the Internet Archive.
+The archiving routine has captured 21 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

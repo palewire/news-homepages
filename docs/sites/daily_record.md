@@ -17,7 +17,8 @@ orphan: true
 | Location       | Glasgow                                                                 |
 | Timezone       | Europe/London                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[daily_record-2022](https://archive.org/details/daily_record-2022)|

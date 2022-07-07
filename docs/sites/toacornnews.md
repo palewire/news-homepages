@@ -17,7 +17,7 @@ orphan: true
 | Location       | Thousand Oaks                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 66 screenshots stored at the Internet Archive.
+The archiving routine has captured 68 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
