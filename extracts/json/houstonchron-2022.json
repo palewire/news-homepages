@@ -1,5 +1,5 @@
 {
-  "created": 1657154360,
+  "created": 1657196299,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/25/items/houstonchron-2022",
@@ -226,31 +226,73 @@
       "sha1": "5f074f758a3e2b45efa1b020699174433c5ec450"
     },
     {
+      "name": "houstonchron-2022-07-06T21:01:23.201957-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657159286",
+      "size": "61936",
+      "md5": "834e82b03b7abe10a05d1d6300ba3662",
+      "crc32": "6c29404e",
+      "sha1": "f22da769b1c2baa6889b1252b660699ce1245edc",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-07-06T21:01:23.201957-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657159288",
+      "size": "77555",
+      "md5": "afe70fdc325d4371c6aa61e7b9ebf2c3",
+      "crc32": "11bde9f8",
+      "sha1": "a3c56bf26d9e338e939b7e04100b861bd11de053",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-07-06T21:01:23.201957-05:00.jpg",
+      "source": "original",
+      "mtime": "1657159284",
+      "size": "222980",
+      "md5": "2b0a143d33d1bbbd98e460dcca9796ba",
+      "crc32": "4d5e7913",
+      "sha1": "c6476f6f7d15cbae03202df32ce99cdc70d20fac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houstonchron-2022-07-06T21:01:23.201957-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houstonchron-2022-07-06T21:01:23.201957-05:00.jpg",
+      "mtime": "1657159422",
+      "size": "8714",
+      "md5": "4154873d17efa2627371e189dd464c5e",
+      "crc32": "0eb6697e",
+      "sha1": "444e2b52b5e3c6c5bbcc95a41bdd73751a458c73"
+    },
+    {
       "name": "houstonchron-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d8ac6bdcb9c9da8e19aff5fa86e6a1fdd3e2b062",
-      "mtime": "1657118005",
-      "size": "5947",
-      "md5": "8bf491e6aa777732ecfbba597e11366c",
-      "crc32": "28dad54c",
-      "sha1": "228011d597f5f69e1534b37a186212ded15f4bb9",
+      "btih": "90d36e419375948ec495888641ef5e7be139fb1e",
+      "mtime": "1657159432",
+      "size": "6813",
+      "md5": "208e409d35f75c2f905c71e3ad8bb76f",
+      "crc32": "6b72f35a",
+      "sha1": "ab5ba0f172ae523f25e8b9947d9d03639b03ac14",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houstonchron-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "90e55e8f42225d5d7548f7f7f6b4b318",
+      "md5": "c62efd11c5cf728e6482692588f5d3e7",
       "summation": "md5"
     },
     {
       "name": "houstonchron-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657117947",
-      "size": "40960",
-      "md5": "ec720bfb4507c8113880b0e529264bf2",
-      "crc32": "5039ba9f",
-      "sha1": "a7d493630167856c1eb693d8a65d92ab7f874b0d",
+      "mtime": "1657159327",
+      "size": "45056",
+      "md5": "df67086488b3455959c06ad49ac9d63b",
+      "crc32": "f4c42a4f",
+      "sha1": "ccb8166d98e3da537baa3e1006e31fac0d87d8d4",
       "format": "Metadata"
     },
     {
@@ -264,7 +306,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 25,
+  "files_count": 29,
   "houstonchron-2022": [
     {
       "text": "Skip to main content",
@@ -276,11 +318,11 @@
     },
     {
       "text": "Subscribe",
-      "url": "https://subscription.houstonchronicle.com/offers?offerid=642&origin=button&ipid=indma&variant=july_2022&returnUrl=https://www.houstonchronicle.com/"
+      "url": "https://subscription.houstonchronicle.com/checkout/642/1385?origin=button&ipid=outofdma&variant=july_2022&returnUrl=https://www.houstonchronicle.com/"
     },
     {
       "text": "\n \n \n  SUMMER SAVINGS: \n  6 months for 99\u00a2\n \n",
-      "url": "https://subscription.houstonchronicle.com/offers?offerid=642&origin=button&ipid=indma&variant=july_2022&returnUrl=https://www.houstonchronicle.com/"
+      "url": "https://subscription.houstonchronicle.com/checkout/642/1385?origin=button&ipid=outofdma&variant=july_2022&returnUrl=https://www.houstonchronicle.com/"
     },
     {
       "text": "e-Edition",
@@ -1471,6 +1513,10 @@
       "url": "https://www.houstonchronicle.com/archive/search/subscriber/"
     },
     {
+      "text": "\n        6 MONTHS FOR 99\u00a2: Get cool summer savings.6 MONTHS FOR 99\u00a2 ACT NOW\n        ",
+      "url": "https://subscription.houstonchronicle.com/checkout/642/1385?origin=header&ipid=banner&variant=july_2022"
+    },
+    {
       "text": "COVID",
       "url": "/coronavirus/"
     },
@@ -1528,163 +1574,159 @@
     },
     {
       "text": "",
-      "url": "/texas-sports-nation/rockets/article/Griner-sends-letter-to-President-Biden-pleading-17287178.php"
+      "url": "/news/houston-texas/crime/article/District-clerk-Marilyn-Burgess-subpoenaed-17288454.php"
     },
     {
-      "text": "White House: Biden has read Brittney Griner's letter",
-      "url": "/texas-sports-nation/rockets/article/Griner-sends-letter-to-President-Biden-pleading-17287178.php"
+      "text": "Harris County district clerk subpoenaed following mistrial sparked by  'Jury Appreciation Week'",
+      "url": "/news/houston-texas/crime/article/District-clerk-Marilyn-Burgess-subpoenaed-17288454.php"
     },
     {
       "text": "",
-      "url": "/lifestyle/renew-houston/health/article/Houston-s-Asthma-Air-Aware-Day-warnings-Here-s-17279902.php"
+      "url": "/news/houston-texas/houston/article/Aldine-residents-begged-for-a-chance-to-stop-a-17288823.php"
     },
     {
-      "text": "If you're seeing more text alerts on Houston air quality, you're not alone. Here's what to know.",
-      "url": "/lifestyle/renew-houston/health/article/Houston-s-Asthma-Air-Aware-Day-warnings-Here-s-17279902.php"
+      "text": "Aldine residents sought to stop a concrete plant. It was too late.",
+      "url": "/news/houston-texas/houston/article/Aldine-residents-begged-for-a-chance-to-stop-a-17288823.php"
     },
     {
       "text": "TOP NEWS",
       "url": "https://www.houstonchronicle.com/newsletters/afternoon-report/"
     },
     {
-      "text": "Cowboys criticized over deal with gun-themed coffee company",
-      "url": "/news/article/Cowboys-criticized-over-deal-with-gun-themed-17285896.php"
+      "text": "League City couple found dead in suspected murder-suicide",
+      "url": "/news/houston-texas/crime/article/Divorced-League-City-couple-found-dead-in-17288806.php"
     },
     {
-      "text": "Everything you need to know about 713 Day",
-      "url": "/news/houston-texas/trending/article/713-day-what-to-know-17284954.php"
+      "text": "John Oliver vows to destroy dolls that keep appearing on Texas beach",
+      "url": "/news/houston-texas/trending/article/John-Oliver-vows-to-pay-10k-to-destroy-the-17288238.php"
     },
     {
-      "text": "Your guide to having the Best Day Ever in Old Katy",
+      "text": "Eight people in Houston test positive for monkeypox",
+      "url": "/news/houston-texas/health/article/Monkeypox-outbreak-in-Texas-swells-to-20-17288468.php"
+    },
+    {
+      "text": "Manning's commitment is attracting top recruits to Texas football",
+      "url": "/texas-sports-nation/college/article/Arch-Manning-effect-Texas-recruiting-17288822.php"
+    },
+    {
+      "text": "Video shows Northshore-area home set on fire by fireworks",
+      "url": "/news/houston-texas/article/Video-shows-Northshore-area-home-lit-aflame-by-17288180.php"
+    },
+    {
+      "text": "HPD asks for help finding killers of 5-year-old girl",
+      "url": "/news/houston-texas/crime/article/Houston-police-ask-for-public-s-help-finding-17288419.php"
+    },
+    {
+      "text": "Poll: Majority of Texas voters want this when it comes to gun control laws",
+      "url": "/politics/texas/article/Majority-of-Texas-voters-want-tighter-gun-control-17287412.php"
+    },
+    {
+      "text": "Peanut butter, baby formula and other items that have seen shortages",
+      "url": "https://www.houstonchronicle.com/projects/lifestyle/shortages-supply-chain-issues/"
+    },
+    {
+      "text": "\n                                                                                                                                                                                                \n                                                \n                                                \n                                                \n                                                \n                                                \n                                            \n                                                                                                                                        ",
       "url": "https://www.houstonchronicle.com/projects/2022/best-day-ever-old-katy/"
     },
     {
-      "text": "James Harden spotted working out at giant gym near Houston",
-      "url": "/texas-sports-nation/rockets/article/harden-spotted-mo-city-gym-17285033.php"
+      "text": "Katy",
+      "url": "/neighborhood/katy/"
     },
     {
-      "text": "Beto O\u2019Rourke jumps on stage with Willie Nelson in Austin",
-      "url": "/politics/texas/article/Beto-O-Rourke-and-son-jump-on-stage-with-Willie-17285015.php"
+      "text": "                                Is it possible to have the Best Day Ever in Old Katy? See for yourself.\n                            ",
+      "url": "https://www.houstonchronicle.com/projects/2022/best-day-ever-old-katy/"
     },
     {
-      "text": "Fact check: Have any Planned Parenthood clinics closed?",
-      "url": "/politics/texas/politifact/article/Fact-check-No-Planned-Parenthood-clinics-have-17287110.php"
+      "text": "                                    Here's everything you need to know to hit Old Katy's icons, hot spots, historical districts and more.\n                                ",
+      "url": "https://www.houstonchronicle.com/projects/2022/best-day-ever-old-katy/"
     },
     {
-      "text": "Photos: Look inside Shaq's 'swanky' new Texas mansion",
-      "url": "/news/houston-texas/texas/article/shaq-texas-mansion-17285215.php"
-    },
-    {
-      "text": "Taco Bell pulls Big Cheez-It Tostada after huge demand",
-      "url": "/food-culture/article/Taco-Bell-pulls-Big-Cheez-It-Tostada-and-Big-17285083.php"
-    },
-    {
-      "text": "Where do Houston neighborhoods begin and end?",
-      "url": "/neighborhood/article/houston-boundaries-17258643.php"
-    },
-    {
-      "text": "\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                            \n                                                                                                                                        ",
-      "url": "/texas-sports-nation/astros/article/Astros-beat-Royals-rough-up-Zack-Greinke-return-17286600.php"
-    },
-    {
-      "text": "Astros",
-      "url": "/texas-sports-nation/astros/"
-    },
-    {
-      "text": "                                Zack attacked: Astros pound old teammate Greinke, Royals\n                            ",
-      "url": "/texas-sports-nation/astros/article/Astros-beat-Royals-rough-up-Zack-Greinke-return-17286600.php"
-    },
-    {
-      "text": "                                    The Astros roughed up old teammate Zack Greinke in his return to Minute Maid Park in beating the Royals for their eighth straight win.\n                                ",
-      "url": "/texas-sports-nation/astros/article/Astros-beat-Royals-rough-up-Zack-Greinke-return-17286600.php"
-    },
-    {
-      "text": "                                                                Korey Lee's first step to becoming Astros' catcher of future\n                            ",
-      "url": "/texas-sports-nation/astros/article/Astros-Korey-Lee-first-start-17286291.php"
-    },
-    {
-      "text": "                                                                Yordan Alvarez mulling over invitation to Home Run Derby\n                            ",
-      "url": "/texas-sports-nation/astros/article/Yordan-Alvarez-All-Star-Home-Run-Derby-17286715.php"
+      "text": "                                                                Your guide to having the best day ever in Galveston\n                            ",
+      "url": "https://www.houstonchronicle.com/projects/2022/best-day-ever-galveston/"
     },
     {
       "text": "\n                                                                                                                                                      \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/news/houston-texas/trending/article/TikTok-Rat-infestation-Taco-Cabana-17285677.php"
+      "url": "/news/houston-texas/texas/article/Uvalde-officer-asked-permission-to-shoot-gunman-17288011.php"
     },
     {
-      "text": "Trending",
-      "url": "/news/houston-texas/trending/"
+      "text": "Texas",
+      "url": "/news/houston-texas/texas/"
     },
     {
-      "text": "                                A modern-day 'Ratatouille'? Viral TikTok shows a swarm of rats at a Texas Taco Cabana\n                            ",
-      "url": "/news/houston-texas/trending/article/TikTok-Rat-infestation-Taco-Cabana-17285677.php"
+      "text": "                                Uvalde officer asked permission to shoot gunman but got no answer\n                            ",
+      "url": "/news/houston-texas/texas/article/Uvalde-officer-asked-permission-to-shoot-gunman-17288011.php"
     },
     {
-      "text": "                                    A video of rats emerging from beneath a grill at a Taco Cabana has garnered more than 65,000 views on TikTok. Taco Cabana wrote that this was an \"isolated incident\" and the restaurant worked \"swiftly and efficiently\" to address and eliminate the pest situation.\n                                ",
-      "url": "/news/houston-texas/trending/article/TikTok-Rat-infestation-Taco-Cabana-17285677.php"
+      "text": "                                    An Uvalde police officer asked for a supervisor\u2019s permission to shoot the gunman at Robb Elementary School, but the supervisor did not hear the request or responded too late, according to a report released Wednesday evaluating the law enforcement response to the shooting.\n                                ",
+      "url": "/news/houston-texas/texas/article/Uvalde-officer-asked-permission-to-shoot-gunman-17288011.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/politics/texas/article/Texas-border-county-leaders-declare-17286042.php"
+      "url": "/politics/texas/article/Texas-Republicans-still-leading-polls-despite-17288786.php"
     },
     {
       "text": "Texas Politics",
       "url": "/politics/texas/"
     },
     {
-      "text": "                                Texas border county leaders declare \u2018invasion,\u2019 urge Abbott to expel migrants\n                            ",
-      "url": "/politics/texas/article/Texas-border-county-leaders-declare-17286042.php"
+      "text": "                                Texas GOP still leading polls despite lack of public support on guns, abortion\n                            ",
+      "url": "/politics/texas/article/Texas-Republicans-still-leading-polls-despite-17288786.php"
     },
     {
-      "text": "                                    The move aligns with conservative activists who have privately urged Abbott to begin unilaterally enforcing federal immigration laws.\n                                ",
-      "url": "/politics/texas/article/Texas-border-county-leaders-declare-17286042.php"
+      "text": "                                    The mass shooting in Uvalde and the Supreme Court ruling on abortion have triggered massive public outrage and protests throughout Texas, but public polling shows it\u2019s not doing much to change the political dynamics.\n                                ",
+      "url": "/politics/texas/article/Texas-Republicans-still-leading-polls-despite-17288786.php"
     },
     {
       "text": "\n                                                                                                                                                      \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/news/houston-texas/crime/article/Most-of-Deshaun-Watson-s-civil-lawsuits-were-17286166.php"
+      "url": "/food-culture/restaurants-bars/article/Revelry-on-Richmond-to-close-July-31-after-eight-17287629.php"
     },
     {
-      "text": "Crime",
-      "url": "/news/houston-texas/crime/"
+      "text": "Restaurants & Bars",
+      "url": "/food-culture/restaurants-bars/"
     },
     {
-      "text": "                                Here's what's left of the Deshaun Watson lawsuits\n                            ",
-      "url": "/news/houston-texas/crime/article/Most-of-Deshaun-Watson-s-civil-lawsuits-were-17286166.php"
+      "text": "                                Richmond Ave. sports bar to close its doors\n                            ",
+      "url": "/food-culture/restaurants-bars/article/Revelry-on-Richmond-to-close-July-31-after-eight-17287629.php"
     },
     {
-      "text": "                                    Four lawsuits alleging sexual assault by Deshaun Watson during massage sessions continue in the courts.\n                                ",
-      "url": "/news/houston-texas/crime/article/Most-of-Deshaun-Watson-s-civil-lawsuits-were-17286166.php"
-    },
-    {
-      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/business/economy/article/Texas-Bond-King-was-right-on-inflation-when-the-17285485.php"
-    },
-    {
-      "text": "Economy",
-      "url": "/business/economy/"
-    },
-    {
-      "text": "                                Texas Bond King was right about inflation. Here's what he thinks about a recession.\n                            ",
-      "url": "/business/economy/article/Texas-Bond-King-was-right-on-inflation-when-the-17285485.php"
-    },
-    {
-      "text": "                                    Gilbert Garcia, of Houston\u2019s Garcia Hamilton Associates, laid out his case in November. Seven months later, inflation has climbed to a 40-year high and stocks crossed into a bear market.\n                                ",
-      "url": "/business/economy/article/Texas-Bond-King-was-right-on-inflation-when-the-17285485.php"
+      "text": "                                    The owner of the popular Houston sports bar and patio announced he is not renewing his lease at 1613 Richmond.\n                                ",
+      "url": "/food-culture/restaurants-bars/article/Revelry-on-Richmond-to-close-July-31-after-eight-17287629.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/news/houston-texas/houston/article/Midtown-club-opens-without-exotic-animals-after-17285934.php"
+      "url": "/news/houston-texas/texas/article/texas-fireworks-death-17287995.php"
     },
     {
-      "text": "Houston",
-      "url": "/news/houston-texas/houston/"
+      "text": "Texas",
+      "url": "/news/houston-texas/texas/"
     },
     {
-      "text": "                                Midtown club's plans for live animals stopped by animal control\n                            ",
-      "url": "/news/houston-texas/houston/article/Midtown-club-opens-without-exotic-animals-after-17285934.php"
+      "text": "                                Texas man dies after lighting firework on his head\n                            ",
+      "url": "/news/houston-texas/texas/article/texas-fireworks-death-17287995.php"
     },
     {
-      "text": "                                    Shortly after a new Midtown club boasted that it would have a live zebra and camel at its opening last weekend, the city\u2019s animal control department stepped in with a message: It would need a permit for that.\n                                ",
-      "url": "/news/houston-texas/houston/article/Midtown-club-opens-without-exotic-animals-after-17285934.php"
+      "text": "                                    The San Antonio man and his friends were drinking and shooting off fireworks when he decided to light a mortar-type firework from the top of his head, police said.\n                                ",
+      "url": "/news/houston-texas/texas/article/texas-fireworks-death-17287995.php"
+    },
+    {
+      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
+      "url": "/politics/texas/article/Justice-Department-is-investigating-Texas-17287171.php"
+    },
+    {
+      "text": "Texas Politics",
+      "url": "/politics/texas/"
+    },
+    {
+      "text": "                                Texas\u2019 Operation Lone Star under investigation for alleged violations, records say\n                            ",
+      "url": "/politics/texas/article/Justice-Department-is-investigating-Texas-17287171.php"
+    },
+    {
+      "text": "                                    Emails obtained by The Texas Tribune and ProPublica confirm that federal authorities are probing discrimination claims involving Gov. Greg Abbott\u2019s multibillion-dollar border initiative.\n                                ",
+      "url": "/politics/texas/article/Justice-Department-is-investigating-Texas-17287171.php"
+    },
+    {
+      "text": "                                                                Texas urges appeals court to end protections for DACA residents\n                            ",
+      "url": "/politics/texas/article/Texas-urges-federal-appeals-court-to-end-17287934.php"
     },
     {
       "text": "MOST POPULAR",
@@ -1692,11 +1734,19 @@
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/business/energy/article/Gasoline-prices-in-Houston-and-the-nation-plunge-17285129.php"
+      "url": "/news/houston-texas/trending/article/TikTok-Rat-infestation-Taco-Cabana-17285677.php"
     },
     {
-      "text": "Houston gas prices and in U.S. plunge, saving consumers millions",
-      "url": "/business/energy/article/Gasoline-prices-in-Houston-and-the-nation-plunge-17285129.php"
+      "text": "TikTok video shows rat infestation inside a Taco Cabana in Texas",
+      "url": "/news/houston-texas/trending/article/TikTok-Rat-infestation-Taco-Cabana-17285677.php"
+    },
+    {
+      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
+      "url": "/politics/texas/article/Beto-O-Rourke-and-son-jump-on-stage-with-Willie-17285015.php"
+    },
+    {
+      "text": "Beto O\u2019Rourke jumps on stage with Willie Nelson in Austin",
+      "url": "/politics/texas/article/Beto-O-Rourke-and-son-jump-on-stage-with-Willie-17285015.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
@@ -1708,31 +1758,15 @@
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/business/article/We-need-an-executor-for-our-estate-Should-we-17283509.php"
+      "url": "/business/energy/article/Gasoline-prices-in-Houston-and-the-nation-plunge-17285129.php"
     },
     {
-      "text": "We need an executor. Should we name a family friend?",
-      "url": "/business/article/We-need-an-executor-for-our-estate-Should-we-17283509.php"
-    },
-    {
-      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/texas-sports-nation/rockets/article/Jabari-Smith-Jr-makes-a-strong-first-impression-17286158.php"
-    },
-    {
-      "text": "Jabari Smith Jr. makes a strong first impression on Rockets",
-      "url": "/texas-sports-nation/rockets/article/Jabari-Smith-Jr-makes-a-strong-first-impression-17286158.php"
+      "text": "Houston gas prices and in U.S. plunge, saving consumers millions",
+      "url": "/business/energy/article/Gasoline-prices-in-Houston-and-the-nation-plunge-17285129.php"
     },
     {
       "text": "FEATURED INTERACTIVES",
       "url": "https://www.houstonchronicle.com/news/interactives/"
-    },
-    {
-      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "https://www.houstonchronicle.com/projects/2022/migrant-trailer-victims/"
-    },
-    {
-      "text": "Who were the victims of the migrant trailer tragedy?",
-      "url": "https://www.houstonchronicle.com/projects/2022/migrant-trailer-victims/"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
@@ -1741,6 +1775,14 @@
     {
       "text": "Houston celebrates July 4 with parades, Freedom over Texas",
       "url": "https://www.houstonchronicle.com/projects/2022/visuals/houston-july-4th/"
+    },
+    {
+      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
+      "url": "https://www.houstonchronicle.com/projects/2022/migrant-trailer-victims/"
+    },
+    {
+      "text": "Who were the victims of the migrant trailer tragedy?",
+      "url": "https://www.houstonchronicle.com/projects/2022/migrant-trailer-victims/"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
@@ -1771,16 +1813,16 @@
       "url": "https://www.houstonchronicle.com/projects/2022/roe-opinion-annotated/"
     },
     {
-      "text": "BEST DAY EVER",
-      "url": "https://www.houstonchronicle.com/news/interactives/"
+      "text": "HOUSTON NEIGHBORHOODS",
+      "url": "https://www.houstonchronicle.com/projects/visuals/houston-neighborhood-names/"
     },
     {
       "text": "\n                        \n                \n                    \n                    \n                \n            \n                    ",
-      "url": "https://www.houstonchronicle.com/projects/2022/best-day-ever-galveston/"
+      "url": "https://www.houstonchronicle.com/neighborhood/article/houston-boundaries-17258643.php"
     },
     {
-      "text": "\n            Your guide to Galveston's top places to eat and things to do        ",
-      "url": "https://www.houstonchronicle.com/projects/2022/best-day-ever-galveston/"
+      "text": "\n            Houston's neighborhood boundaries are confusing. Here's why.        ",
+      "url": "https://www.houstonchronicle.com/neighborhood/article/houston-boundaries-17258643.php"
     },
     {
       "text": "Terms of use",
@@ -1793,6 +1835,190 @@
     {
       "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Investigations                    \n                        Investigations                        Texas Chapter 313 is dead, but loopholes still cost billions\n                                                    Instead of shutting down the program immediately, they let it fade away over the course of a year. A tidal wave of applicants has now rushed to seek billions of additional dollars in last-minute tax breaks.\n\n                                                                            \n                                By Eric Dexheimer and Mike Morris\n                            \n                                            \n                \n            \n        ",
       "url": "https://www.houstonchronicle.com/news/investigations/article/Texas-Chapter-313-cost-billions-17251395.php"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.houstonchronicle.com/opinion"
+    },
+    {
+      "text": "",
+      "url": "/opinion/outlook/article/Opinion-Texas-legislators-prove-you-are-17287957.php"
+    },
+    {
+      "text": "Opinion: How Texas should prepare for more kids with disabilities",
+      "url": "/opinion/outlook/article/Opinion-Texas-legislators-prove-you-are-17287957.php"
+    },
+    {
+      "text": "",
+      "url": "/opinion/editorials/article/Editorial-The-fate-of-DACA-should-be-up-to-17286297.php"
+    },
+    {
+      "text": "Editorial: Congress must act on Dreamers\u2019 fate",
+      "url": "/opinion/editorials/article/Editorial-The-fate-of-DACA-should-be-up-to-17286297.php"
+    },
+    {
+      "text": "",
+      "url": "/opinion/letters/article/Opinion-A-July-4-shooting-God-help-America-17286153.php"
+    },
+    {
+      "text": "Opinion: A July 4 shooting? God help America.",
+      "url": "/opinion/letters/article/Opinion-A-July-4-shooting-God-help-America-17286153.php"
+    },
+    {
+      "text": "",
+      "url": "/opinion/outlook/article/Opinion-Keep-czars-far-away-in-Moscow-or-17286035.php"
+    },
+    {
+      "text": "Opinion: Keep czars far away, in Moscow or Mar-a-Lago",
+      "url": "/opinion/outlook/article/Opinion-Keep-czars-far-away-in-Moscow-or-17286035.php"
+    },
+    {
+      "text": "",
+      "url": "/opinion/outlook/article/Opinion-Yes-it-s-easier-to-get-a-gun-than-a-17284963.php"
+    },
+    {
+      "text": "Opinion: Yes, it\u2019s easier to get a gun than a job at Domino\u2019s",
+      "url": "/opinion/outlook/article/Opinion-Yes-it-s-easier-to-get-a-gun-than-a-17284963.php"
+    },
+    {
+      "text": "Michael Lindenberger",
+      "url": "/author/michael-lindenberger/"
+    },
+    {
+      "text": "            Essay: After Roe, is it Clarence Thomas\u2019s court now?\n        ",
+      "url": "/opinion/outlook/article/Essay-After-Roe-are-the-rights-to-gay-marriage-17172290.php"
+    },
+    {
+      "text": "                                Long overlooked, his dissenting opinion 19 years ago provides a key to understanding just how vulnerable other rights are \u2014 including the right to...\n            ",
+      "url": "/opinion/outlook/article/Essay-After-Roe-are-the-rights-to-gay-marriage-17172290.php"
+    },
+    {
+      "text": "Kenny Wiley",
+      "url": "/author/kenny-wiley/"
+    },
+    {
+      "text": "            Wiley: A comfortable education is dangerous. Challenge kids...\n        ",
+      "url": "/opinion/outlook/article/Kenny-Wiley-Save-America-Give-kids-books-that-16595396.php"
+    },
+    {
+      "text": "                                The current push to challenge books \u2014 because they center the experiences of LGBTQ folks, or talk honestly about racism, or help young people...\n            ",
+      "url": "/opinion/outlook/article/Kenny-Wiley-Save-America-Give-kids-books-that-16595396.php"
+    },
+    {
+      "text": "Texas Sports Nation",
+      "url": "https://www.houstonchronicle.com/texas-sports-nation/"
+    },
+    {
+      "text": "",
+      "url": "/texas-sports-nation/college/article/University-of-Houston-to-Big-12-Football-looks-17287980.php"
+    },
+    {
+      "text": "When UH moves to Big 12, will football fans come?",
+      "url": "/texas-sports-nation/college/article/University-of-Houston-to-Big-12-Football-looks-17287980.php"
+    },
+    {
+      "text": "",
+      "url": "/texas-sports-nation/brian-t-smith/article/NCAA-realignment-chaos-Big-Ten-SEC-Big-12-17288702.php"
+    },
+    {
+      "text": "Smith: College sports need a real commissioner",
+      "url": "/texas-sports-nation/brian-t-smith/article/NCAA-realignment-chaos-Big-Ten-SEC-Big-12-17288702.php"
+    },
+    {
+      "text": "",
+      "url": "/texas-sports-nation/rockets/article/Houston-Rockets-NBA-summer-league-preview-17288013.php"
+    },
+    {
+      "text": "Summer school for Rockets rookies: learn now, win later",
+      "url": "/texas-sports-nation/rockets/article/Houston-Rockets-NBA-summer-league-preview-17288013.php"
+    },
+    {
+      "text": "",
+      "url": "/texas-sports-nation/rockets/article/Jabari-Smith-Jr-makes-a-strong-first-impression-17286158.php"
+    },
+    {
+      "text": "Jabari Smith Jr. makes a strong first impression on Rockets",
+      "url": "/texas-sports-nation/rockets/article/Jabari-Smith-Jr-makes-a-strong-first-impression-17286158.php"
+    },
+    {
+      "text": "",
+      "url": "/texas-sports-nation/astros/article/Yordan-Alvarez-MVP-candidacy-Astros-beat-Royals-17286697.php"
+    },
+    {
+      "text": "Astros insider: Yordan Alvarez building case for his MVP chants",
+      "url": "/texas-sports-nation/astros/article/Yordan-Alvarez-MVP-candidacy-Astros-beat-Royals-17286697.php"
+    },
+    {
+      "text": "Jerome Solomon",
+      "url": "/author/jerome-solomon/"
+    },
+    {
+      "text": "            Solomon: Dusty Baker was right. These Astros are good.\n        ",
+      "url": "/texas-sports-nation/jerome-solomon/article/Solomon-Dusty-Baker-was-right-These-Astros-are-17281701.php"
+    },
+    {
+      "text": "                                Now that the bats are getting untracked, Houston is doing what its manager had predicted all along.\n            ",
+      "url": "/texas-sports-nation/jerome-solomon/article/Solomon-Dusty-Baker-was-right-These-Astros-are-17281701.php"
+    },
+    {
+      "text": "Brian T. Smith",
+      "url": "/author/brian-t-smith/"
+    },
+    {
+      "text": "            Smith: Astros-Yanks would be an October delight\n        ",
+      "url": "/texas-sports-nation/brian-t-smith/article/Smith-Already-fun-now-Astros-Yankees-would-be-17275185.php"
+    },
+    {
+      "text": "                                There are still three regular-season meetings to savor, including Thursday\u2019s at Minute Maid Park, but it\u2019s hard not to think about a fourth playoff...\n            ",
+      "url": "/texas-sports-nation/brian-t-smith/article/Smith-Already-fun-now-Astros-Yankees-would-be-17275185.php"
+    },
+    {
+      "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Juneteenth                    \n                        Juneteenth                        A Black cowboy learned his friend's family enslaved his ancestors. Now they're even closer.\n                                                    Ahead of Juneteenth, one of Texas' last Black cowboys spent the night at a plantation owned by his longtime friend. The pair recently discovered they're distant cousins because of slavery.\n\n                                                                            \n                                By Ryan Nickerson\n                            \n                                            \n                \n            \n        ",
+      "url": "/juneteenth/article/black-cowboy-friend-slavery-17245646.php"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.houstonchronicle.com/politics"
+    },
+    {
+      "text": "",
+      "url": "/politics/texas/politifact/article/Fact-check-No-Planned-Parenthood-clinics-have-17287110.php"
+    },
+    {
+      "text": "Fact check: Have any Planned Parenthood clinics closed?",
+      "url": "/politics/texas/politifact/article/Fact-check-No-Planned-Parenthood-clinics-have-17287110.php"
+    },
+    {
+      "text": "",
+      "url": "/politics/texas/article/Texas-border-county-leaders-declare-17286042.php"
+    },
+    {
+      "text": "Texas border counties declare \u2018invasion,\u2019 urge Abbott to expel...",
+      "url": "/politics/texas/article/Texas-border-county-leaders-declare-17286042.php"
+    },
+    {
+      "text": "",
+      "url": "/politics/texas/article/abortion-tweets-analysis-17283640.php"
+    },
+    {
+      "text": "How Texas lawmakers tweet about abortion and what it means",
+      "url": "/politics/texas/article/abortion-tweets-analysis-17283640.php"
+    },
+    {
+      "text": "",
+      "url": "/politics/texas/article/Beto-O-Rourke-and-son-jump-on-stage-with-Willie-17285015.php"
+    },
+    {
+      "text": "Beto O\u2019Rourke jumps on stage with Willie Nelson in Austin",
+      "url": "/politics/texas/article/Beto-O-Rourke-and-son-jump-on-stage-with-Willie-17285015.php"
+    },
+    {
+      "text": "",
+      "url": "/politics/texas/politifact/article/plan-b-fact-check-17283900.php"
+    },
+    {
+      "text": "Fact-checking the false claim that Plan B causes abortions",
+      "url": "/politics/texas/politifact/article/plan-b-fact-check-17283900.php"
     },
     {
       "text": "Business",
@@ -1955,8 +2181,28 @@
       "url": "/business/real-estate/looped-in/article/Podcast-Why-downtown-Houston-will-never-be-the-17192528.php"
     },
     {
+      "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Brian T. Smith                    \n                        Brian T. Smith                        Smith: World Cup a historic breakthrough for Houston\n                                                    It was a national breakthrough for America\u2019s fourth-largest city, which has been the home site for Super Bowls and Final Fours but spent years working toward official World Cup status.\n\n                                                                            \n                                By Brian T. Smith\n                            \n                                            \n                \n            \n        ",
+      "url": "/texas-sports-nation/brian-t-smith/article/World-Cup-historic-breakthrough-for-Houston-17247178.php"
+    },
+    {
       "text": "Local",
       "url": "https://www.houstonchronicle.com/local"
+    },
+    {
+      "text": "",
+      "url": "/news/houston-texas/crime/article/Operation-North-Star-leads-to-152-fugitive-17288494.php"
+    },
+    {
+      "text": "Operation North Star nets 152 fugitive arrests in southeast Texas",
+      "url": "/news/houston-texas/crime/article/Operation-North-Star-leads-to-152-fugitive-17288494.php"
+    },
+    {
+      "text": "",
+      "url": "/news/houston-texas/immigration/article/texas-immigrants-smuggling-17287693.php"
+    },
+    {
+      "text": "5 rigs caught illegally ferrying immigrants in Texas this year",
+      "url": "/news/houston-texas/immigration/article/texas-immigrants-smuggling-17287693.php"
     },
     {
       "text": "",
@@ -1968,35 +2214,19 @@
     },
     {
       "text": "",
-      "url": "/news/houston-texas/article/Six-year-old-boy-drowns-in-La-Marque-pool-police-17286597.php"
+      "url": "/news/houston-texas/trending/article/713-day-what-to-know-17284954.php"
     },
     {
-      "text": "Six-year-old boy drowns in La Marque pool, police say",
-      "url": "/news/houston-texas/article/Six-year-old-boy-drowns-in-La-Marque-pool-police-17286597.php"
-    },
-    {
-      "text": "",
-      "url": "/news/houston-texas/crime/article/Teenager-shot-multiple-times-in-northwest-Harris-17286465.php"
-    },
-    {
-      "text": "Teen shot multiple times in northwest Harris County",
-      "url": "/news/houston-texas/crime/article/Teenager-shot-multiple-times-in-northwest-Harris-17286465.php"
+      "text": "Everything you need to know about 713 Day",
+      "url": "/news/houston-texas/trending/article/713-day-what-to-know-17284954.php"
     },
     {
       "text": "",
-      "url": "/news/houston-texas/houston/article/Harris-County-picks-new-elections-administrator-17286337.php"
+      "url": "/news/houston-texas/crime/article/Most-of-Deshaun-Watson-s-civil-lawsuits-were-17286166.php"
     },
     {
-      "text": "Harris County picks new elections administrator, with voting four months...",
-      "url": "/news/houston-texas/houston/article/Harris-County-picks-new-elections-administrator-17286337.php"
-    },
-    {
-      "text": "",
-      "url": "/news/houston-texas/crime/article/Houston-police-SWAT-team-surrounding-home-in-17286289.php"
-    },
-    {
-      "text": "Man surrenders to police after SWAT called to southeast Houston",
-      "url": "/news/houston-texas/crime/article/Houston-police-SWAT-team-surrounding-home-in-17286289.php"
+      "text": "Here's what's left of the Deshaun Watson lawsuits",
+      "url": "/news/houston-texas/crime/article/Most-of-Deshaun-Watson-s-civil-lawsuits-were-17286166.php"
     },
     {
       "text": "LATEST INVESTIGATIONS",
@@ -2011,108 +2241,40 @@
       "url": "/news/investigations/article/At-SBC-meeting-victims-confronting-leaders-17251536.php"
     },
     {
-      "text": "Local Newsletters",
-      "url": "http://link.chron.com/join/5dh/hcp-newsletter-sign-up-20170808&hash=bc6fcdde2cb600d877f3aa99136b00f7"
-    },
-    {
-      "text": "Sign up for our Morning Report newsletter",
-      "url": "/newsletters/houston-morning-report/"
-    },
-    {
-      "text": "\n                                \n                                                                            \n                                        \n                                        \n                                                                    \n                            ",
-      "url": "/newsletters/houston-morning-report/"
-    },
-    {
-      "text": "Keep up on our biggest investigations with Must Reads",
-      "url": "/newsletters/must-reads/"
-    },
-    {
-      "text": "\n                                \n                                                                            \n                                        \n                                        \n                                                                    \n                            ",
-      "url": "/newsletters/must-reads/"
-    },
-    {
-      "text": "Get breaking news sent directly to your inbox",
-      "url": "/newsletters/breaking-news/"
-    },
-    {
-      "text": "\n                                \n                                                                            \n                                        \n                                        \n                                                                    \n                            ",
-      "url": "/newsletters/breaking-news/"
-    },
-    {
-      "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Juneteenth                    \n                        Juneteenth                        A Black cowboy learned his friend's family enslaved his ancestors. Now they're even closer.\n                                                    Ahead of Juneteenth, one of Texas' last Black cowboys spent the night at a plantation owned by his longtime friend. The pair recently discovered they're distant cousins because of slavery.\n\n                                                                            \n                                By Ryan Nickerson\n                            \n                                            \n                \n            \n        ",
-      "url": "/juneteenth/article/black-cowboy-friend-slavery-17245646.php"
-    },
-    {
-      "text": "Texas Sports Nation",
-      "url": "https://www.houstonchronicle.com/texas-sports-nation/"
-    },
-    {
-      "text": "",
-      "url": "/texas-sports-nation/astros/article/Yordan-Alvarez-MVP-candidacy-Astros-beat-Royals-17286697.php"
-    },
-    {
-      "text": "Astros insider: Yordan Alvarez building case for his MVP chants",
-      "url": "/texas-sports-nation/astros/article/Yordan-Alvarez-MVP-candidacy-Astros-beat-Royals-17286697.php"
-    },
-    {
-      "text": "",
-      "url": "/texas-sports-nation/astros/article/Astros-beat-Royals-rough-up-Zack-Greinke-return-17286600.php"
-    },
-    {
-      "text": "Zack attacked: Astros pound old teammate Greinke, Royals",
-      "url": "/texas-sports-nation/astros/article/Astros-beat-Royals-rough-up-Zack-Greinke-return-17286600.php"
-    },
-    {
-      "text": "",
-      "url": "/texas-sports-nation/astros/article/Astros-Korey-Lee-first-start-17286291.php"
-    },
-    {
-      "text": "Korey Lee's first step to becoming Astros' catcher of future",
-      "url": "/texas-sports-nation/astros/article/Astros-Korey-Lee-first-start-17286291.php"
-    },
-    {
-      "text": "",
-      "url": "/texas-sports-nation/rockets/article/Jabari-Smith-Jr-makes-a-strong-first-impression-17286158.php"
-    },
-    {
-      "text": "Jabari Smith Jr. makes a strong first impression on Rockets",
-      "url": "/texas-sports-nation/rockets/article/Jabari-Smith-Jr-makes-a-strong-first-impression-17286158.php"
-    },
-    {
-      "text": "",
-      "url": "/texas-sports-nation/college/article/University-of-Houston-to-the-Big-12-The-17286199.php"
-    },
-    {
-      "text": "University of Houston to the Big 12: The scheduling maze",
-      "url": "/texas-sports-nation/college/article/University-of-Houston-to-the-Big-12-The-17286199.php"
-    },
-    {
-      "text": "Jerome Solomon",
-      "url": "/author/jerome-solomon/"
-    },
-    {
-      "text": "            Solomon: Dusty Baker was right. These Astros are good.\n        ",
-      "url": "/texas-sports-nation/jerome-solomon/article/Solomon-Dusty-Baker-was-right-These-Astros-are-17281701.php"
-    },
-    {
-      "text": "                                Now that the bats are getting untracked, Houston is doing what its manager had predicted all along.\n            ",
-      "url": "/texas-sports-nation/jerome-solomon/article/Solomon-Dusty-Baker-was-right-These-Astros-are-17281701.php"
-    },
-    {
-      "text": "Brian T. Smith",
-      "url": "/author/brian-t-smith/"
-    },
-    {
-      "text": "            Smith: Astros-Yanks would be an October delight\n        ",
-      "url": "/texas-sports-nation/brian-t-smith/article/Smith-Already-fun-now-Astros-Yankees-would-be-17275185.php"
-    },
-    {
-      "text": "                                There are still three regular-season meetings to savor, including Thursday\u2019s at Minute Maid Park, but it\u2019s hard not to think about a fourth playoff...\n            ",
-      "url": "/texas-sports-nation/brian-t-smith/article/Smith-Already-fun-now-Astros-Yankees-would-be-17275185.php"
-    },
-    {
       "text": "PREVIEW",
       "url": "https://preview.houstonchronicle.com/"
+    },
+    {
+      "text": "",
+      "url": "https://preview.houstonchronicle.com/movies-tv/interview-taika-waititi-takes-a-hammer-to-thor-17288684"
+    },
+    {
+      "text": "Interview: Taika Waititi takes a hammer to Thor in \u2018Love & Thunder\u2019",
+      "url": "https://preview.houstonchronicle.com/movies-tv/interview-taika-waititi-takes-a-hammer-to-thor-17288684"
+    },
+    {
+      "text": "",
+      "url": "https://preview.houstonchronicle.com/theater/tuts-will-premiere-the-musical-version-of-michael-17288406"
+    },
+    {
+      "text": "TUTS will premiere musical version of Michael J. Fox film",
+      "url": "https://preview.houstonchronicle.com/theater/tuts-will-premiere-the-musical-version-of-michael-17288406"
+    },
+    {
+      "text": "",
+      "url": "https://preview.houstonchronicle.com/music/purity-ring-hanson-swimwear-department-among-17287894"
+    },
+    {
+      "text": "Waterparks, Swimwear Department among 35+ Houston concerts this w",
+      "url": "https://preview.houstonchronicle.com/music/purity-ring-hanson-swimwear-department-among-17287894"
+    },
+    {
+      "text": "",
+      "url": "https://preview.houstonchronicle.com/movies-tv/why-strange-new-worlds-is-the-star-17287631"
+    },
+    {
+      "text": "Why \u2018Strange New Worlds\u2019 is the \u2018Star Trek\u2019 you need now",
+      "url": "https://preview.houstonchronicle.com/movies-tv/why-strange-new-worlds-is-the-star-17287631"
     },
     {
       "text": "",
@@ -2123,104 +2285,72 @@
       "url": "https://preview.houstonchronicle.com/families/summer-block-parties-a-taste-of-nigeria-festival-17287161"
     },
     {
-      "text": "",
-      "url": "https://preview.houstonchronicle.com/special-events/hanson-sound-of-music-among-our-critics-17287122"
-    },
-    {
-      "text": "Hanson, \u2018Sound of Music\u2019 among our critics\u2019 picks",
-      "url": "https://preview.houstonchronicle.com/special-events/hanson-sound-of-music-among-our-critics-17287122"
-    },
-    {
-      "text": "",
-      "url": "https://preview.houstonchronicle.com/movies-tv/thor-the-sea-beast-top-the-list-of-17287069"
-    },
-    {
-      "text": "\u2018Thor,\u2019 \u2018The Sea Beast\u2019 top the list of new movies",
-      "url": "https://preview.houstonchronicle.com/movies-tv/thor-the-sea-beast-top-the-list-of-17287069"
-    },
-    {
-      "text": "",
-      "url": "https://preview.houstonchronicle.com/books/in-this-debut-novel-family-ties-bind-even-from-17285639"
-    },
-    {
-      "text": "In this debut novel, family ties bind, even from afar",
-      "url": "https://preview.houstonchronicle.com/books/in-this-debut-novel-family-ties-bind-even-from-17285639"
-    },
-    {
-      "text": "",
-      "url": "https://preview.houstonchronicle.com/movies-tv/highland-park-has-formed-backdrop-for-iconic-17285801"
-    },
-    {
-      "text": "Highland Park has formed backdrop for iconic \u201880s movies, from \u2018Risky...",
-      "url": "https://preview.houstonchronicle.com/movies-tv/highland-park-has-formed-backdrop-for-iconic-17285801"
-    },
-    {
       "text": "FOOD & CULTURE",
       "url": "https://www.houstonchronicle.com/lifestyle/"
     },
     {
       "text": "",
-      "url": "/food-culture/restaurants-bars/article/New-Common-Bond-opens-on-the-go-location-in-17287220.php"
+      "url": "/lifestyle/renew-houston/fitness/article/Battling-mental-health-and-Harvey-wreckage-she-17287809.php"
     },
     {
-      "text": "New Common Bond opens on-the-go location in Energy Corridor",
-      "url": "/food-culture/restaurants-bars/article/New-Common-Bond-opens-on-the-go-location-in-17287220.php"
-    },
-    {
-      "text": "",
-      "url": "/lifestyle/renew-houston/health/article/Houston-s-Asthma-Air-Aware-Day-warnings-Here-s-17279902.php"
-    },
-    {
-      "text": "Seeing more text alerts on Houston air quality? You're not alone.",
-      "url": "/lifestyle/renew-houston/health/article/Houston-s-Asthma-Air-Aware-Day-warnings-Here-s-17279902.php"
+      "text": "One step at a time. How this woman dropped 200 pounds.",
+      "url": "/lifestyle/renew-houston/fitness/article/Battling-mental-health-and-Harvey-wreckage-she-17287809.php"
     },
     {
       "text": "",
-      "url": "/lifestyle/article/You-ll-be-hearing-more-from-HGO-s-new-17264353.php"
+      "url": "/food-culture/article/Creamy-yogurt-sauce-turn-purple-potatoes-into-17287538.php"
     },
     {
-      "text": "HGO's resident composer experiments with music",
-      "url": "/lifestyle/article/You-ll-be-hearing-more-from-HGO-s-new-17264353.php"
-    },
-    {
-      "text": "",
-      "url": "/food-culture/restaurants-bars/article/Burns-Original-Bar-B-Que-in-expansion-mode-with-17285651.php"
-    },
-    {
-      "text": "Burns Original BBQ expands with new Pearland outpost",
-      "url": "/food-culture/restaurants-bars/article/Burns-Original-Bar-B-Que-in-expansion-mode-with-17285651.php"
+      "text": "Creamy yogurt sauce turns purple potatoes into flavorful chaat",
+      "url": "/food-culture/article/Creamy-yogurt-sauce-turn-purple-potatoes-into-17287538.php"
     },
     {
       "text": "",
-      "url": "/food-culture/article/Taco-Bell-pulls-Big-Cheez-It-Tostada-and-Big-17285083.php"
+      "url": "/food-culture/restaurants-bars/article/Revelry-on-Richmond-to-close-July-31-after-eight-17287629.php"
     },
     {
-      "text": "Taco Bell pulls Big Cheez-It Tostada after huge demand",
-      "url": "/food-culture/article/Taco-Bell-pulls-Big-Cheez-It-Tostada-and-Big-17285083.php"
+      "text": "After 8 years, Revelry on Richmond will close on July 31",
+      "url": "/food-culture/restaurants-bars/article/Revelry-on-Richmond-to-close-July-31-after-eight-17287629.php"
+    },
+    {
+      "text": "",
+      "url": "https://www.houstonchronicle.com/projects/lifestyle/shortages-supply-chain-issues/"
+    },
+    {
+      "text": "Shortages have hurt these products and industries the most",
+      "url": "https://www.houstonchronicle.com/projects/lifestyle/shortages-supply-chain-issues/"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/hcmagazine/article/Hate-small-talk-Try-deep-talk-17287384.php"
+    },
+    {
+      "text": "Hate small talk? Try deep talk",
+      "url": "/lifestyle/hcmagazine/article/Hate-small-talk-Try-deep-talk-17287384.php"
     },
     {
       "text": "Joey Guerra",
       "url": "/author/joey-guerra/"
     },
     {
-      "text": "            Friends remember Robert Mainor, owner of Galveston gay bar\n        ",
-      "url": "/news/houston-texas/galveston/article/Friends-remember-Robert-Mainor-the-owner-of-17285027.php"
+      "text": "            TUTS will premiere musical version of Michael J. Fox film\n        ",
+      "url": "https://preview.houstonchronicle.com/theater/tuts-will-premiere-the-musical-version-of-michael-17288406"
     },
     {
-      "text": "                                Mainor, 83, was featured in the documentary 'Before You Know It' about gay senior citizens.\n            ",
-      "url": "/news/houston-texas/galveston/article/Friends-remember-Robert-Mainor-the-owner-of-17285027.php"
+      "text": "                                The musical based on the '80s film will replace 'The Griswolds\u2019 Broadway Vacation.'\n            ",
+      "url": "https://preview.houstonchronicle.com/theater/tuts-will-premiere-the-musical-version-of-michael-17288406"
     },
     {
       "text": "Greg Morago",
       "url": "/author/greg-morago/"
     },
     {
-      "text": "            New Common Bond opens on-the-go location in Energy Corridor\n        ",
-      "url": "/food-culture/restaurants-bars/article/New-Common-Bond-opens-on-the-go-location-in-17287220.php"
+      "text": "            After 8 years, Revelry on Richmond will close on July 31\n        ",
+      "url": "/food-culture/restaurants-bars/article/Revelry-on-Richmond-to-close-July-31-after-eight-17287629.php"
     },
     {
-      "text": "                                The growing bakery and caf\u00e9 opens its seventh casual, on-the-go location at 1127 Eldridge Parkway\n            ",
-      "url": "/food-culture/restaurants-bars/article/New-Common-Bond-opens-on-the-go-location-in-17287220.php"
+      "text": "                                The owner of the popular Houston sports bar and patio announced he is not renewing his lease at 1613 Richmond.\n            ",
+      "url": "/food-culture/restaurants-bars/article/Revelry-on-Richmond-to-close-July-31-after-eight-17287629.php"
     },
     {
       "text": "Andrew Dansby",
@@ -2257,122 +2387,6 @@
     {
       "text": "                                Alison Cook tries crickets and cr\u00e9mant\u00a0at Street to Kitchen Thai in Houston's East End.\n            ",
       "url": "/food-culture/restaurants-bars/reviews/article/I-ate-crickets-and-didn-t-hate-them-17253707.php"
-    },
-    {
-      "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Brian T. Smith                    \n                        Brian T. Smith                        Smith: World Cup a historic breakthrough for Houston\n                                                    It was a national breakthrough for America\u2019s fourth-largest city, which has been the home site for Super Bowls and Final Fours but spent years working toward official World Cup status.\n\n                                                                            \n                                By Brian T. Smith\n                            \n                                            \n                \n            \n        ",
-      "url": "/texas-sports-nation/brian-t-smith/article/World-Cup-historic-breakthrough-for-Houston-17247178.php"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.houstonchronicle.com/politics"
-    },
-    {
-      "text": "",
-      "url": "/politics/texas/article/abortion-tweets-analysis-17283640.php"
-    },
-    {
-      "text": "How Texas lawmakers tweet about abortion and what it means",
-      "url": "/politics/texas/article/abortion-tweets-analysis-17283640.php"
-    },
-    {
-      "text": "",
-      "url": "/politics/texas/politifact/article/plan-b-fact-check-17283900.php"
-    },
-    {
-      "text": "Fact-checking the false claim that Plan B causes abortions",
-      "url": "/politics/texas/politifact/article/plan-b-fact-check-17283900.php"
-    },
-    {
-      "text": "",
-      "url": "/politics/texas/article/Deal-on-historic-gun-law-shows-Sen-John-Cornyn-17279174.php"
-    },
-    {
-      "text": "Deal on historic gun law shows Sen. John Cornyn in his element",
-      "url": "/politics/texas/article/Deal-on-historic-gun-law-shows-Sen-John-Cornyn-17279174.php"
-    },
-    {
-      "text": "",
-      "url": "/politics/texas/politifact/article/Fact-check-No-the-viral-Facebook-image-of-a-17282231.php"
-    },
-    {
-      "text": "Fact check: Did a pilot spot a UFO in Texas? No, it's an old meme",
-      "url": "/politics/texas/politifact/article/Fact-check-No-the-viral-Facebook-image-of-a-17282231.php"
-    },
-    {
-      "text": "",
-      "url": "/politics/texas/article/Texas-Legislature-looks-to-boost-funding-for-17279893.php"
-    },
-    {
-      "text": "Texas looks to boost funding for alternatives to abortion",
-      "url": "/politics/texas/article/Texas-Legislature-looks-to-boost-funding-for-17279893.php"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.houstonchronicle.com/opinion"
-    },
-    {
-      "text": "",
-      "url": "/opinion/editorials/article/Editorial-The-fate-of-DACA-should-be-up-to-17286297.php"
-    },
-    {
-      "text": "Editorial: Congress must act on Dreamers\u2019 fate",
-      "url": "/opinion/editorials/article/Editorial-The-fate-of-DACA-should-be-up-to-17286297.php"
-    },
-    {
-      "text": "",
-      "url": "/opinion/letters/article/Opinion-A-July-4-shooting-God-help-America-17286153.php"
-    },
-    {
-      "text": "Opinion: A July 4 shooting? God help America.",
-      "url": "/opinion/letters/article/Opinion-A-July-4-shooting-God-help-America-17286153.php"
-    },
-    {
-      "text": "",
-      "url": "/opinion/outlook/article/Opinion-Keep-czars-far-away-in-Moscow-or-17286035.php"
-    },
-    {
-      "text": "Opinion: Keep czars far away, in Moscow or Mar-a-Lago",
-      "url": "/opinion/outlook/article/Opinion-Keep-czars-far-away-in-Moscow-or-17286035.php"
-    },
-    {
-      "text": "",
-      "url": "/opinion/outlook/article/Opinion-Yes-it-s-easier-to-get-a-gun-than-a-17284963.php"
-    },
-    {
-      "text": "Opinion: Yes, it\u2019s easier to get a gun than a job at Domino\u2019s",
-      "url": "/opinion/outlook/article/Opinion-Yes-it-s-easier-to-get-a-gun-than-a-17284963.php"
-    },
-    {
-      "text": "",
-      "url": "/opinion/letters/article/Opinion-Orwell-s-Newspeak-is-alive-and-17280447.php"
-    },
-    {
-      "text": "Opinion: Orwell\u2019s \u2018Newspeak\u2019 is alive and well in 2022",
-      "url": "/opinion/letters/article/Opinion-Orwell-s-Newspeak-is-alive-and-17280447.php"
-    },
-    {
-      "text": "Michael Lindenberger",
-      "url": "/author/michael-lindenberger/"
-    },
-    {
-      "text": "            Essay: After Roe, is it Clarence Thomas\u2019s court now?\n        ",
-      "url": "/opinion/outlook/article/Essay-After-Roe-are-the-rights-to-gay-marriage-17172290.php"
-    },
-    {
-      "text": "                                Long overlooked, his dissenting opinion 19 years ago provides a key to understanding just how vulnerable other rights are \u2014 including the right to...\n            ",
-      "url": "/opinion/outlook/article/Essay-After-Roe-are-the-rights-to-gay-marriage-17172290.php"
-    },
-    {
-      "text": "Kenny Wiley",
-      "url": "/author/kenny-wiley/"
-    },
-    {
-      "text": "            Wiley: A comfortable education is dangerous. Challenge kids...\n        ",
-      "url": "/opinion/outlook/article/Kenny-Wiley-Save-America-Give-kids-books-that-16595396.php"
-    },
-    {
-      "text": "                                The current push to challenge books \u2014 because they center the experiences of LGBTQ folks, or talk honestly about racism, or help young people...\n            ",
-      "url": "/opinion/outlook/article/Kenny-Wiley-Save-America-Give-kids-books-that-16595396.php"
     },
     {
       "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Investigations                    \n                        Investigations                        \u2018The hunter is now the hunted\u2019: Southern Baptists vow to do more to stop sexual abuse\n                                                    Bart Barber, the new president of the Southern Baptist Convention, vowed Wednesday to make the nation\u2019s second-largest faith group a \u201cdangerous place\u201d for sexual abusers.\n\n                                                                            \n                                By Robert Downen and John Tedesco\n                            \n                                            \n                \n            \n        ",
@@ -2581,10 +2595,14 @@
     {
       "text": " ",
       "url": "javascript:void(0)"
+    },
+    {
+      "text": "",
+      "url": "javascript:;"
     }
   ],
-  "item_last_updated": 1657118005,
-  "item_size": 1959891,
+  "item_last_updated": 1657159432,
+  "item_size": 2336038,
   "metadata": {
     "identifier": "houstonchron-2022",
     "collection": [
@@ -2602,7 +2620,7 @@
     "addeddate": "2022-07-04 21:54:16"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 1370279003,
+  "uniq": 1783506118,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

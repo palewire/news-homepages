@@ -1,5 +1,5 @@
 {
-  "created": 1657154316,
+  "created": 1657196255,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/31/items/fox29philly-2022",
@@ -394,31 +394,73 @@
       "sha1": "cd88c54f7ec43afa45be8baf110c84683ad2b089"
     },
     {
+      "name": "fox29philly-2022-07-06T22:00:24.383784-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657159227",
+      "size": "43400",
+      "md5": "46fa8e4ddfd3bb05e6be2b7679dddc77",
+      "crc32": "dfeed2ee",
+      "sha1": "afb597f1392acd055d5f3f2fa217ddd2a6977b66",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-07-06T22:00:24.383784-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657159230",
+      "size": "40031",
+      "md5": "cddda904000696613dc668f8284bb0b3",
+      "crc32": "0fe1db15",
+      "sha1": "723754c848c8148af55e57fb034bfa3d4cf01d25",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-07-06T22:00:24.383784-04:00.jpg",
+      "source": "original",
+      "mtime": "1657159225",
+      "size": "334855",
+      "md5": "4ff41f8e95284395a2596eb0a5ce6ee7",
+      "crc32": "2b442af1",
+      "sha1": "beb48500d19daaa73ce888e17bccf5507d875c7d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox29philly-2022-07-06T22:00:24.383784-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox29philly-2022-07-06T22:00:24.383784-04:00.jpg",
+      "mtime": "1657159400",
+      "size": "10441",
+      "md5": "bf15d0b4b8ccec4e1d8b06819c0bca4b",
+      "crc32": "919a65eb",
+      "sha1": "937409b48936023408ed89325bb10cb298ca0693"
+    },
+    {
       "name": "fox29philly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4880ed327d60673a3b902c59ff6eaddd8603cca",
-      "mtime": "1657117865",
-      "size": "9372",
-      "md5": "dabb10c3f68ec2aadf154bf5a6432b1c",
-      "crc32": "00f20391",
-      "sha1": "713339dff9190ad87e1e36dfc1eb46a698d8bb58",
+      "btih": "204ef29809958813ad181d0408f715903e68ab31",
+      "mtime": "1657159424",
+      "size": "10234",
+      "md5": "eb5d850a74b63a71b9d37415b1fa9317",
+      "crc32": "acec2cfa",
+      "sha1": "60eb0d325ec6766e764ef5d6903d6734a550c24e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox29philly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "12428064894d3144f486f72d7488d064",
+      "md5": "0851c0b673c647a53d8860a849e33f8b",
       "summation": "md5"
     },
     {
       "name": "fox29philly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657117621",
-      "size": "57344",
-      "md5": "5f1baf52f6a02d215ef0be3f040995a4",
-      "crc32": "356790f8",
-      "sha1": "1bd2e0e9da9b92840be74d9573f5f345dc7800d3",
+      "mtime": "1657159238",
+      "size": "61440",
+      "md5": "ba8eda66fcfc233a6e10788cff4d9dce",
+      "crc32": "616c2ee3",
+      "sha1": "1724c608bfca1f3f129eea451dc304e3e551c810",
       "format": "Metadata"
     },
     {
@@ -432,7 +474,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 41,
+  "files_count": 45,
   "fox29philly-2022": [
     {
       "text": " ",
@@ -840,6 +882,30 @@
     },
     {
       "text": "  ",
+      "url": "/news/philadelphia-officials-officers-injured-4th-july-shooting-grazed-bullets-same-gun"
+    },
+    {
+      "text": "Officers injured on 4th of July in Philadelphia were grazed by bullets from same gun, officials say",
+      "url": "/news/philadelphia-officials-officers-injured-4th-july-shooting-grazed-bullets-same-gun"
+    },
+    {
+      "text": "  ",
+      "url": "/news/police-suspect-sough-in-center-city-sexual-assault"
+    },
+    {
+      "text": "'Violent sexual predator': Police looking for man after woman sexually assaulted in Center City office",
+      "url": "/news/police-suspect-sough-in-center-city-sexual-assault"
+    },
+    {
+      "text": "  ",
+      "url": "/news/suspect-arrested-in-philadelphia-bar-shooting-that-killed-innocent-woman-police-say"
+    },
+    {
+      "text": "Suspect arrested in Philadelphia bar shooting that killed innocent woman, police say",
+      "url": "/news/suspect-arrested-in-philadelphia-bar-shooting-that-killed-innocent-woman-police-say"
+    },
+    {
+      "text": "  ",
       "url": "/news/witnesses-claim-lifeguards-at-bensalem-pool-were-reluctant-to-search-murky-water-for-drown-teen"
     },
     {
@@ -856,6 +922,14 @@
     },
     {
       "text": "  ",
+      "url": "/news/germantown-double-shooting-kills-1-man-critically-injures-a-second-man-police-say"
+    },
+    {
+      "text": "Germantown double shooting kills 1 man, critically injures a second man, police say",
+      "url": "/news/germantown-double-shooting-kills-1-man-critically-injures-a-second-man-police-say"
+    },
+    {
+      "text": "  ",
       "url": "/news/moment-of-frustration-kenney-responds-to-own-looking-forward-to-no-longer-being-mayor-comment"
     },
     {
@@ -864,27 +938,35 @@
     },
     {
       "text": "  ",
-      "url": "/news/2-officers-shot-near-4th-of-july-concert-fireworks-in-philadelphia-sources-say"
+      "url": "/news/6-year-old-boy-goes-viral-on-tiktok-after-enthusiastic-reaction-to-getting-phillies-tickets"
     },
     {
-      "text": "Officers shot during Fourth of July fireworks show in Philadelphia identified",
-      "url": "/news/2-officers-shot-near-4th-of-july-concert-fireworks-in-philadelphia-sources-say"
-    },
-    {
-      "text": "  ",
-      "url": "/news/septa-police-chief-thomas-nestel-ousted-as-violent-attacks-rise-sources-say"
-    },
-    {
-      "text": "SEPTA announces retirement of Police Chief Thomas Nestel 'effective immediately'",
-      "url": "/news/septa-police-chief-thomas-nestel-ousted-as-violent-attacks-rise-sources-say"
+      "text": "6-year-old boy goes viral on TikTok after enthusiastic reaction to getting Phillies tickets",
+      "url": "/news/6-year-old-boy-goes-viral-on-tiktok-after-enthusiastic-reaction-to-getting-phillies-tickets"
     },
     {
       "text": "  ",
-      "url": "/news/governor-phil-murphy-signs-7-new-bills-gun-laws-new-jersey"
+      "url": "/news/officials-man-stabbed-coworker-in-winslow-twp-charged-with-attempted-murder"
     },
     {
-      "text": "Governor Phil Murphy signs 7 new bills aimed at tightening gun laws in New Jersey",
-      "url": "/news/governor-phil-murphy-signs-7-new-bills-gun-laws-new-jersey"
+      "text": "Officials: Man stabbed coworker in Winslow Twp.; charged with attempted murder",
+      "url": "/news/officials-man-stabbed-coworker-in-winslow-twp-charged-with-attempted-murder"
+    },
+    {
+      "text": "  ",
+      "url": "/news/police-looking-for-man-accused-of-shooting-woman-while-she-slept-in-germantown-apartment"
+    },
+    {
+      "text": "Police: Suspect sought after woman shot in her sleep inside Germantown apartment",
+      "url": "/news/police-looking-for-man-accused-of-shooting-woman-while-she-slept-in-germantown-apartment"
+    },
+    {
+      "text": "  ",
+      "url": "/news/bystanders-being-shot-at-random-with-toy-guns-for-tiktok-challenge-police-warn"
+    },
+    {
+      "text": "Bystanders being shot at random with toy guns in 'dangerous' TikTok challenge, police warn",
+      "url": "/news/bystanders-being-shot-at-random-with-toy-guns-for-tiktok-challenge-police-warn"
     },
     {
       "text": "  ",
@@ -896,51 +978,11 @@
     },
     {
       "text": "  ",
-      "url": "/news/funeral-mass-card-of-philadelphia-police-chaplain-with-bullet-found-inside-officers-hat-after-july-4-shooting"
+      "url": "/weather/weather-authority-spotty-showers-across-delaware-valley-into-the-weekend"
     },
     {
-      "text": "Philadelphia July 4th shooting: Police chaplain funeral card found with bullet lodged in officer's hat",
-      "url": "/news/funeral-mass-card-of-philadelphia-police-chaplain-with-bullet-found-inside-officers-hat-after-july-4-shooting"
-    },
-    {
-      "text": "  ",
-      "url": "/news/nj-murphy-signs-new-gun-laws"
-    },
-    {
-      "text": "New Jersey enacts stricter gun laws; Murphy: violence not 'price of living in U.S.'",
-      "url": "/news/nj-murphy-signs-new-gun-laws"
-    },
-    {
-      "text": "  ",
-      "url": "/news/stratford-community-joins-avid-walker-on-his-final-neighborhood-stroll"
-    },
-    {
-      "text": "Stratford community joins avid walker on his final neighborhood stroll",
-      "url": "/news/stratford-community-joins-avid-walker-on-his-final-neighborhood-stroll"
-    },
-    {
-      "text": "  ",
-      "url": "/news/community-members-and-city-officials-respond-to-4th-of-july-fireworks-show-shooting"
-    },
-    {
-      "text": "Community members and city officials respond to 4th of July fireworks show shooting",
-      "url": "/news/community-members-and-city-officials-respond-to-4th-of-july-fireworks-show-shooting"
-    },
-    {
-      "text": "  ",
-      "url": "/weather/weather-authority-tuesdays-spotty-storms-will-lead-into-hot-humid-wednesday"
-    },
-    {
-      "text": "Weather Authority: Humidity returns to the Delaware Valley Wednesday",
-      "url": "/weather/weather-authority-tuesdays-spotty-storms-will-lead-into-hot-humid-wednesday"
-    },
-    {
-      "text": "  ",
-      "url": "/news/fop-lodge-5-offering-reward-info-philadelphia-4th-july-shooting-injured-police-officers"
-    },
-    {
-      "text": "FOP Lodge 5 offering $20K reward for info on Philadelphia 4th of July shooting that injured 2 police officers",
-      "url": "/news/fop-lodge-5-offering-reward-info-philadelphia-4th-july-shooting-injured-police-officers"
+      "text": "Weather Authority: Spotty showers across Delaware Valley into the weekend",
+      "url": "/weather/weather-authority-spotty-showers-across-delaware-valley-into-the-weekend"
     },
     {
       "text": "Philadelphia",
@@ -948,51 +990,51 @@
     },
     {
       "text": "  video",
-      "url": "/video/1089551"
+      "url": "/video/1089784"
     },
     {
-      "text": "Philadelphia fitness studio tries out a Kardashian workout",
-      "url": "/video/1089551"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1089549"
-    },
-    {
-      "text": "Philly River Stroll: Tuesday series bringing food, beverage specials with live entertainment",
-      "url": "/video/1089549"
+      "text": "Philadelphia Police looking for man after woman sexually assaulted in Center City office",
+      "url": "/video/1089784"
     },
     {
       "text": "  video",
-      "url": "/video/1089543"
+      "url": "/video/1089775"
     },
     {
-      "text": "Local candle company features the scents of Philadelphia",
-      "url": "/video/1089543"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1089538"
-    },
-    {
-      "text": "Tips to keep your kids safe at large public events",
-      "url": "/video/1089538"
+      "text": "Doctors fear new omicron subvariant could cause 6th wave of infections",
+      "url": "/video/1089775"
     },
     {
       "text": "  video",
-      "url": "/video/1089531"
+      "url": "/video/1089769"
     },
     {
-      "text": "Preston & Steve: Woman donates a kidney to her cheating boyfriend",
-      "url": "/video/1089531"
+      "text": "DA: Officials investigating death of a prisoner at Yeadon police station",
+      "url": "/video/1089769"
     },
     {
       "text": "  video",
-      "url": "/video/1089530"
+      "url": "/video/1089758"
     },
     {
-      "text": "New City Fitness opens in East Passyunk",
-      "url": "/video/1089530"
+      "text": "Weather Authority: 5 p.m. Wednesday forecast",
+      "url": "/video/1089758"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1089749"
+    },
+    {
+      "text": "6-year-old boy goes viral on TikTok after enthusiastic reaction to getting Phillies tickets",
+      "url": "/video/1089749"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1089747"
+    },
+    {
+      "text": "Officers injured on 4th of July in Philadelphia were grazed by bullets from same gun, officials say",
+      "url": "/video/1089747"
     },
     {
       "text": "\n          Subscribe to FOX 29 on YouTube\n        ",
@@ -1044,6 +1086,14 @@
     },
     {
       "text": "  ",
+      "url": "/news/covid-19-endemic-stage-could-be-two-years-away"
+    },
+    {
+      "text": "COVID-19 endemic stage could be two years away",
+      "url": "/news/covid-19-endemic-stage-could-be-two-years-away"
+    },
+    {
+      "text": "  ",
       "url": "/news/florida-man-lifts-overturned-jeep-to-rescue-toddler-after-accident"
     },
     {
@@ -1083,14 +1133,6 @@
       "url": "/news/biden-visits-covid-19-vaccine-clinic-as-kids-6-months-and-up-receive-their-1st-shot"
     },
     {
-      "text": "  ",
-      "url": "/news/pennsylvania-ready-to-vaccinate-kids-under-5-next-week-health-department-says"
-    },
-    {
-      "text": "Pennsylvania, NJ prepare for COVID-19 vaccine rollout for kids under 5",
-      "url": "/news/pennsylvania-ready-to-vaccinate-kids-under-5-next-week-health-department-says"
-    },
-    {
       "text": "Local News",
       "url": "/local-news"
     },
@@ -1100,51 +1142,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/man-found-shot-behind-la-fitness-in-northeast-philadelphia-dies-police-say"
+      "url": "/news/officer-injured-during-4th-of-july-fireworks-in-philadelphia-shares-his-experience"
     },
     {
-      "text": "Man found shot behind LA Fitness in Northeast Philadelphia dies, police say",
-      "url": "/news/man-found-shot-behind-la-fitness-in-northeast-philadelphia-dies-police-say"
-    },
-    {
-      "text": "  ",
-      "url": "/news/officials-murder-suspect-dies-in-delaware-prison-medical-unit"
-    },
-    {
-      "text": "Officials: Murder suspect dies in Delaware prison medical unit",
-      "url": "/news/officials-murder-suspect-dies-in-delaware-prison-medical-unit"
+      "text": "Officer injured during 4th of July fireworks in Philadelphia shares his experience",
+      "url": "/news/officer-injured-during-4th-of-july-fireworks-in-philadelphia-shares-his-experience"
     },
     {
       "text": "  ",
-      "url": "/news/police-man-killed-near-his-east-germantown-home-after-being-shot-at-10-times"
+      "url": "/news/suspect-arrested-in-philadelphia-bar-shooting-that-killed-innocent-woman-police-say"
     },
     {
-      "text": "Police: Man killed near his East Germantown home after being shot at 10 times",
-      "url": "/news/police-man-killed-near-his-east-germantown-home-after-being-shot-at-10-times"
-    },
-    {
-      "text": "  ",
-      "url": "/news/moment-of-frustration-kenney-responds-to-own-looking-forward-to-no-longer-being-mayor-comment"
-    },
-    {
-      "text": "'Moment of frustration': Mayor Kenney responds to own comment about being 'happy' to leave office",
-      "url": "/news/moment-of-frustration-kenney-responds-to-own-looking-forward-to-no-longer-being-mayor-comment"
+      "text": "Suspect arrested in Philadelphia bar shooting that killed innocent woman, police say",
+      "url": "/news/suspect-arrested-in-philadelphia-bar-shooting-that-killed-innocent-woman-police-say"
     },
     {
       "text": "  ",
-      "url": "/news/community-members-and-city-officials-respond-to-4th-of-july-fireworks-show-shooting"
+      "url": "/news/6-year-old-boy-goes-viral-on-tiktok-after-enthusiastic-reaction-to-getting-phillies-tickets"
     },
     {
-      "text": "Community members and city officials respond to 4th of July fireworks show shooting",
-      "url": "/news/community-members-and-city-officials-respond-to-4th-of-july-fireworks-show-shooting"
+      "text": "6-year-old boy goes viral on TikTok after enthusiastic reaction to getting Phillies tickets",
+      "url": "/news/6-year-old-boy-goes-viral-on-tiktok-after-enthusiastic-reaction-to-getting-phillies-tickets"
     },
     {
       "text": "  ",
-      "url": "/news/septa-police-chief-thomas-nestel-ousted-as-violent-attacks-rise-sources-say"
+      "url": "/news/da-officials-investigating-death-of-a-prisoner-at-yeadon-police-station"
     },
     {
-      "text": "SEPTA announces retirement of Police Chief Thomas Nestel 'effective immediately'",
-      "url": "/news/septa-police-chief-thomas-nestel-ousted-as-violent-attacks-rise-sources-say"
+      "text": "DA: Officials investigating death of a prisoner at Yeadon police station",
+      "url": "/news/da-officials-investigating-death-of-a-prisoner-at-yeadon-police-station"
+    },
+    {
+      "text": "  ",
+      "url": "/news/philadelphia-officials-officers-injured-4th-july-shooting-grazed-bullets-same-gun"
+    },
+    {
+      "text": "Officers injured on 4th of July in Philadelphia were grazed by bullets from same gun, officials say",
+      "url": "/news/philadelphia-officials-officers-injured-4th-july-shooting-grazed-bullets-same-gun"
+    },
+    {
+      "text": "  ",
+      "url": "/news/front-of-two-homes-in-west-oak-lane-collapse-no-injuries-reported"
+    },
+    {
+      "text": "Front of two homes in West Oak Lane collapse; no injuries reported",
+      "url": "/news/front-of-two-homes-in-west-oak-lane-collapse-no-injuries-reported"
     },
     {
       "text": "Good Day Philadelphia",
@@ -1153,6 +1195,22 @@
     {
       "text": "View More",
       "url": "/shows/good-day"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1089595"
+    },
+    {
+      "text": "Kids experience all the summer fun at sleep away Camp Saginaw in Chester County",
+      "url": "/video/1089595"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1089570"
+    },
+    {
+      "text": "Philadelphia Flyers Community Caravan kicks off next week",
+      "url": "/video/1089570"
     },
     {
       "text": "  video",
@@ -1187,28 +1245,20 @@
       "url": "/video/1089531"
     },
     {
-      "text": "  video",
-      "url": "/video/1089530"
-    },
-    {
-      "text": "New City Fitness opens in East Passyunk",
-      "url": "/video/1089530"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1089529"
-    },
-    {
-      "text": "Philadelphia councilmembers respond to Mayor Jim Kenney's comments",
-      "url": "/video/1089529"
-    },
-    {
       "text": "Russia-Ukraine",
       "url": "/tag/russia-ukraine"
     },
     {
       "text": "View More",
       "url": "/tag/russia-ukraine"
+    },
+    {
+      "text": "  ",
+      "url": "/news/biden-tells-brittney-griners-wife-hes-working-to-get-her-home"
+    },
+    {
+      "text": "Biden tells Brittney Griner's wife he's working to get her home",
+      "url": "/news/biden-tells-brittney-griners-wife-hes-working-to-get-her-home"
     },
     {
       "text": "  video",
@@ -1249,14 +1299,6 @@
     {
       "text": "Ukraine mall airstrike: Stunning video shows debris raining from sky as locals seek cover",
       "url": "/news/ukraine-mall-airstrike-kremenchuk-video"
-    },
-    {
-      "text": "  ",
-      "url": "/news/nato-summit-madrid-2022-biden-russia-china-june-30"
-    },
-    {
-      "text": "NATO Summit: Russia, China slam Western military alliance after leaders raise alarm",
-      "url": "/news/nato-summit-madrid-2022-biden-russia-china-june-30"
     },
     {
       "text": "Save Our Streets",
@@ -1324,6 +1366,14 @@
     },
     {
       "text": "  ",
+      "url": "/news/nationwide-abortion-ban-could-raise-maternal-death-rate-by-24-study-suggests"
+    },
+    {
+      "text": "Nationwide abortion ban could raise maternal death rate by 24%, study suggests",
+      "url": "/news/nationwide-abortion-ban-could-raise-maternal-death-rate-by-24-study-suggests"
+    },
+    {
+      "text": "  ",
       "url": "/news/state-capitol-quiet-during-5th-day-without-new-pennsylvania-budget"
     },
     {
@@ -1361,14 +1411,6 @@
     {
       "text": "US companies could face hurdles covering abortion travel costs",
       "url": "/news/us-companies-hurdles-covering-abortion-travel-costs-roe-v-wade-overturned"
-    },
-    {
-      "text": "  ",
-      "url": "/news/no-party-for-america-pro-choice-rallies-held-at-the-yard-of-independence-mall-on-the-4th-of-july"
-    },
-    {
-      "text": "'No party for America': Pro-choice rallies held at the yard of Independence Mall on the 4th of July",
-      "url": "/news/no-party-for-america-pro-choice-rallies-held-at-the-yard-of-independence-mall-on-the-4th-of-july"
     },
     {
       "text": "Coronavirus Vaccine",
@@ -1436,6 +1478,30 @@
     },
     {
       "text": "  ",
+      "url": "/news/6-year-old-boy-goes-viral-on-tiktok-after-enthusiastic-reaction-to-getting-phillies-tickets"
+    },
+    {
+      "text": "6-year-old boy goes viral on TikTok after enthusiastic reaction to getting Phillies tickets",
+      "url": "/news/6-year-old-boy-goes-viral-on-tiktok-after-enthusiastic-reaction-to-getting-phillies-tickets"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/browns-trade-baker-mayfield-to-panthers"
+    },
+    {
+      "text": "Browns trade QB Baker Mayfield to Panthers",
+      "url": "/sports/browns-trade-baker-mayfield-to-panthers"
+    },
+    {
+      "text": "  ",
+      "url": "/news/former-usa-softball-president-john-gouveia-charged-sexual-abuse-minor-released-bail"
+    },
+    {
+      "text": "Former USA Softball president John Gouveia charged with sexual abuse of a minor, released on bail months ago",
+      "url": "/news/former-usa-softball-president-john-gouveia-charged-sexual-abuse-minor-released-bail"
+    },
+    {
+      "text": "  ",
       "url": "/news/schwarber-homers-twice-in-phillies-11-0-romp-past-nationals-1"
     },
     {
@@ -1459,30 +1525,6 @@
       "url": "/news/harper-vows-to-play-this-year-but-no-date-for-return"
     },
     {
-      "text": "  ",
-      "url": "/sports/sharks-hire-mike-grier-as-nhls-first-black-general-manager"
-    },
-    {
-      "text": "Sharks hire Mike Grier as NHL\u2019s first Black general manager",
-      "url": "/sports/sharks-hire-mike-grier-as-nhls-first-black-general-manager"
-    },
-    {
-      "text": "  ",
-      "url": "/news/nfl-georgia-tech-football-player-demaryius-thomas-had-stage-2-cte-researchers-say"
-    },
-    {
-      "text": "Late NFL, Georgia Tech football player Demaryius Thomas had Stage 2 CTE, researchers say",
-      "url": "/news/nfl-georgia-tech-football-player-demaryius-thomas-had-stage-2-cte-researchers-say"
-    },
-    {
-      "text": "  ",
-      "url": "/news/please-dont-forget-about-me-brittney-griner-writes-open-letter-to-biden"
-    },
-    {
-      "text": "'Please don't forget about me': Brittney Griner writes open letter to Biden as her trial begins",
-      "url": "/news/please-dont-forget-about-me-brittney-griner-writes-open-letter-to-biden"
-    },
-    {
       "text": "U.S. & World News",
       "url": "/national-news"
     },
@@ -1492,51 +1534,51 @@
     },
     {
       "text": "  ",
+      "url": "/news/supreme-court-immunity-defense-alleged-sex-traffickers-death"
+    },
+    {
+      "text": "Wisconsin Supreme Court OKs sex trafficking as homicide defense",
+      "url": "/news/supreme-court-immunity-defense-alleged-sex-traffickers-death"
+    },
+    {
+      "text": "  ",
+      "url": "/news/georgia-guidestones-explosion-elberton"
+    },
+    {
+      "text": "The Georgia Guidestones demolished after explosion 'destroyed' portion, GBI says",
+      "url": "/news/georgia-guidestones-explosion-elberton"
+    },
+    {
+      "text": "  ",
+      "url": "/news/former-cheer-star-jerry-harris-sentenced-to-12-years-in-prison-on-child-porn-solicitation-charges"
+    },
+    {
+      "text": "Former \u2018Cheer\u2019 star Jerry Harris sentenced to 12 years in prison on child porn, solicitation charges",
+      "url": "/news/former-cheer-star-jerry-harris-sentenced-to-12-years-in-prison-on-child-porn-solicitation-charges"
+    },
+    {
+      "text": "  ",
+      "url": "/news/nj-cops-pull-man-from-burning-car"
+    },
+    {
+      "text": "Dramatic video shows NJ cops pulling man from burning car",
+      "url": "/news/nj-cops-pull-man-from-burning-car"
+    },
+    {
+      "text": "  ",
+      "url": "/news/richmond-mass-shooting-thwarted"
+    },
+    {
+      "text": "Richmond police: 2 men arrested in July 4 mass shooting plot; guns, 223 rounds of ammo found in home",
+      "url": "/news/richmond-mass-shooting-thwarted"
+    },
+    {
+      "text": "  ",
       "url": "/news/highland-park-shooter-bond-court"
     },
     {
-      "text": "Accused Highland Park gunman expected in bond court Wednesday",
+      "text": "Highland Park shooting suspect contemplated 2nd shooting, confessed to police",
       "url": "/news/highland-park-shooter-bond-court"
-    },
-    {
-      "text": "  ",
-      "url": "/news/state-capitol-quiet-during-5th-day-without-new-pennsylvania-budget"
-    },
-    {
-      "text": "State Capitol quiet during 5th day without new Pennsylvania budget",
-      "url": "/news/state-capitol-quiet-during-5th-day-without-new-pennsylvania-budget"
-    },
-    {
-      "text": "  ",
-      "url": "/news/highland-park-4th-of-july-shooting-person-of-interest-who-is-robert-crimo"
-    },
-    {
-      "text": "Highland Park shooting suspect: Who is Robert E. Crimo III?",
-      "url": "/news/highland-park-4th-of-july-shooting-person-of-interest-who-is-robert-crimo"
-    },
-    {
-      "text": "  ",
-      "url": "/news/babys-hearing-damaged-on-one-side-after-aerial-fireworks-were-reportedly-shot-into-a-home"
-    },
-    {
-      "text": "Baby's hearing damaged on one side after aerial fireworks were reportedly shot into a home",
-      "url": "/news/babys-hearing-damaged-on-one-side-after-aerial-fireworks-were-reportedly-shot-into-a-home"
-    },
-    {
-      "text": "  ",
-      "url": "/news/stratford-community-joins-avid-walker-on-his-final-neighborhood-stroll"
-    },
-    {
-      "text": "Stratford community joins avid walker on his final neighborhood stroll",
-      "url": "/news/stratford-community-joins-avid-walker-on-his-final-neighborhood-stroll"
-    },
-    {
-      "text": "  ",
-      "url": "/news/parents-of-boy-found-alone-after-highland-park-parade-shooting-were-among-those-killed"
-    },
-    {
-      "text": "Parents of boy found alone after Highland Park parade shooting were among those killed",
-      "url": "/news/parents-of-boy-found-alone-after-highland-park-parade-shooting-were-among-those-killed"
     },
     {
       "text": "Money",
@@ -1545,6 +1587,38 @@
     {
       "text": "View More",
       "url": "/money"
+    },
+    {
+      "text": "  ",
+      "url": "/news/amazon-grubhub-free-delivery-prime-members"
+    },
+    {
+      "text": "Amazon teams up with Grubhub to offer free delivery to Prime members",
+      "url": "/news/amazon-grubhub-free-delivery-prime-members"
+    },
+    {
+      "text": "  ",
+      "url": "/news/biden-heads-to-ohio-to-tout-pension-plan-for-millions-deliver-remarks-on-economy"
+    },
+    {
+      "text": "'We've done something about it': Biden touts rule which aims to rescue pensions for millions",
+      "url": "/news/biden-heads-to-ohio-to-tout-pension-plan-for-millions-deliver-remarks-on-economy"
+    },
+    {
+      "text": "  ",
+      "url": "/news/enjoy-life-issues-recall-baked-snacks"
+    },
+    {
+      "text": "Enjoy Life issues recall of select baked snacks due to possible plastic pieces",
+      "url": "/news/enjoy-life-issues-recall-baked-snacks"
+    },
+    {
+      "text": "  ",
+      "url": "/news/rihanna-net-worth-youngest-woman-billionaire"
+    },
+    {
+      "text": "Rihanna becomes youngest woman billionaire after hitting $1.4B net worth",
+      "url": "/news/rihanna-net-worth-youngest-woman-billionaire"
     },
     {
       "text": "  ",
@@ -1563,38 +1637,6 @@
       "url": "/news/average-car-payment-hits-record-712-month-as-new-used-car-prices-continue-to-climb"
     },
     {
-      "text": "  ",
-      "url": "/news/amazon-union-organizing-policy-shift"
-    },
-    {
-      "text": "Amazon announces policy shift for off-duty workers that could impact union efforts",
-      "url": "/news/amazon-union-organizing-policy-shift"
-    },
-    {
-      "text": "  ",
-      "url": "/news/worker-disappears-accidentally-paid-300-times-his-salary"
-    },
-    {
-      "text": "Worker disappears after he was accidentally paid more than 300 times his salary",
-      "url": "/news/worker-disappears-accidentally-paid-300-times-his-salary"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1088543"
-    },
-    {
-      "text": "Cashing In: Tips on saving for retirement",
-      "url": "/video/1088543"
-    },
-    {
-      "text": "  ",
-      "url": "/news/flight-delays-cancellations-july-fourth-travel"
-    },
-    {
-      "text": "July 4th travel: Thousands of flights canceled on busy holiday weekend; more expected",
-      "url": "/news/flight-delays-cancellations-july-fourth-travel"
-    },
-    {
       "text": "Entertainment",
       "url": "/tag/entertainment"
     },
@@ -1604,11 +1646,27 @@
     },
     {
       "text": "  ",
-      "url": "/news/joey-chestnut-regrets-putting-berkeley-protester-in-chokehold-at-hot-dog-contest"
+      "url": "/news/nipsey-hussle-verdict-eric-holder-trial"
     },
     {
-      "text": "Joey Chestnut regrets putting Berkeley protester in chokehold at hot dog contest",
-      "url": "/news/joey-chestnut-regrets-putting-berkeley-protester-in-chokehold-at-hot-dog-contest"
+      "text": "Nipsey Hussle murder: Eric Holder Jr. found guilty of first-degree murder",
+      "url": "/news/nipsey-hussle-verdict-eric-holder-trial"
+    },
+    {
+      "text": "  ",
+      "url": "/news/thor-love-and-thunder-review-a-surprisingly-bittersweet-romp"
+    },
+    {
+      "text": "\u2018Thor: Love and Thunder\u2019 review: A surprisingly bittersweet romp",
+      "url": "/news/thor-love-and-thunder-review-a-surprisingly-bittersweet-romp"
+    },
+    {
+      "text": "  ",
+      "url": "/news/rihanna-net-worth-youngest-woman-billionaire"
+    },
+    {
+      "text": "Rihanna becomes youngest woman billionaire after hitting $1.4B net worth",
+      "url": "/news/rihanna-net-worth-youngest-woman-billionaire"
     },
     {
       "text": "  ",
@@ -1620,35 +1678,19 @@
     },
     {
       "text": "  ",
+      "url": "/news/joey-chestnut-regrets-putting-berkeley-protester-in-chokehold-at-hot-dog-contest"
+    },
+    {
+      "text": "Joey Chestnut regrets putting Berkeley protester in chokehold at hot dog contest",
+      "url": "/news/joey-chestnut-regrets-putting-berkeley-protester-in-chokehold-at-hot-dog-contest"
+    },
+    {
+      "text": "  ",
       "url": "/news/bette-midler-macy-gray-face-backlash-over-comments-criticized-as-transphobic"
     },
     {
       "text": "Bette Midler, Macy Gray face backlash over comments criticized as transphobic",
       "url": "/news/bette-midler-macy-gray-face-backlash-over-comments-criticized-as-transphobic"
-    },
-    {
-      "text": "  ",
-      "url": "/news/get-paid-to-binge-watch-reality-tv-shows-about-love"
-    },
-    {
-      "text": "Calling all reality TV buffs: Get paid to watch people fall in love",
-      "url": "/news/get-paid-to-binge-watch-reality-tv-shows-about-love"
-    },
-    {
-      "text": "  ",
-      "url": "/news/r-kelly-off-suicide-watch"
-    },
-    {
-      "text": "R. Kelly off suicide watch",
-      "url": "/news/r-kelly-off-suicide-watch"
-    },
-    {
-      "text": "  ",
-      "url": "/news/amber-heard-johnny-depp-defamation-trial-throw-out-verdict"
-    },
-    {
-      "text": "Amber Heard seeks to throw out verdict in Johnny Depp defamation trial",
-      "url": "/news/amber-heard-johnny-depp-defamation-trial-throw-out-verdict"
     },
     {
       "text": "News",
@@ -2071,8 +2113,8 @@
       "url": "/contact-us"
     }
   ],
-  "item_last_updated": 1657117865,
-  "item_size": 3801415,
+  "item_last_updated": 1657159424,
+  "item_size": 4235100,
   "metadata": {
     "identifier": "fox29philly-2022",
     "collection": [
@@ -2090,7 +2132,7 @@
     "addeddate": "2022-07-03 15:52:47"
   },
   "server": "ia601501.us.archive.org",
-  "uniq": 201475626,
+  "uniq": 1155337766,
   "workable_servers": [
     "ia601501.us.archive.org",
     "ia801501.us.archive.org"

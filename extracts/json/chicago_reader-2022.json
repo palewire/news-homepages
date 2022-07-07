@@ -1,5 +1,5 @@
 {
-  "created": 1657112890,
+  "created": 1657154461,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/17/items/chicago_reader-2022",
@@ -1906,31 +1906,73 @@
       "sha1": "76b01ffb95ffb316a898fa57a9cc50f216efccb6"
     },
     {
+      "name": "chicago_reader-2022-07-06T19:39:12.146912-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657154354",
+      "size": "25896",
+      "md5": "a2c827f8cd8de656a0932cc675ccd13a",
+      "crc32": "407987f2",
+      "sha1": "8abbc4a63a692697121f29130e0e75dfc5c7d10a",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-07-06T19:39:12.146912-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657154356",
+      "size": "39527",
+      "md5": "d30d8cd001167407b71367978ac64e66",
+      "crc32": "573e5de7",
+      "sha1": "efe12a734a0f37d604fb07a2b66033e9181536e9",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-07-06T19:39:12.146912-05:00.jpg",
+      "source": "original",
+      "mtime": "1657154353",
+      "size": "233828",
+      "md5": "b34cbabe6de90426be0859e0cefa4018",
+      "crc32": "dc542221",
+      "sha1": "d342d61db98328d4b066f315fdde0118745ceeb8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicago_reader-2022-07-06T19:39:12.146912-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicago_reader-2022-07-06T19:39:12.146912-05:00.jpg",
+      "mtime": "1657154432",
+      "size": "9177",
+      "md5": "5e19f988726e601720ec2303886b33e6",
+      "crc32": "8c9b7fb8",
+      "sha1": "fdcbb7a4fc528f782e9ae7cc7e31a302b97674f2"
+    },
+    {
       "name": "chicago_reader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e953d536b91227703ab8cb7e2398f53fdf02025e",
-      "mtime": "1657112767",
-      "size": "40551",
-      "md5": "faa8b30b0c271649d134dd9a5655f789",
-      "crc32": "f25b39c9",
-      "sha1": "96318f6dcff5d9609c74e0b4e1552a9d75b409ac",
+      "btih": "0548fc3d0668c7aefeefaa3bf819b795fadcc228",
+      "mtime": "1657154439",
+      "size": "41424",
+      "md5": "3812e83a1b335dc19942021a1cf71aff",
+      "crc32": "00bb8921",
+      "sha1": "d05ce6c4be367dea8ab0fcc155df8617970c52f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicago_reader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "065d680597f59984753c106f5b8bb71d",
+      "md5": "3504394913c7ca2d6fb4b9210bb3da7b",
       "summation": "md5"
     },
     {
       "name": "chicago_reader-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657112544",
-      "size": "229376",
-      "md5": "5c3277ec4584548868ed267f6b68ca4e",
-      "crc32": "5074cec3",
-      "sha1": "cd9085fc1961a4c7cce8715110f6b6ad6b9b47b8",
+      "mtime": "1657154359",
+      "size": "233472",
+      "md5": "9ecd7004a900c4426ff08e305522df66",
+      "crc32": "5628871f",
+      "sha1": "e7cce614bc0503b9f8f4809767b2986f1802051d",
       "format": "Metadata"
     },
     {
@@ -1944,9 +1986,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 185,
-  "item_last_updated": 1657112767,
-  "item_size": 13581975,
+  "files_count": 189,
+  "item_last_updated": 1657154439,
+  "item_size": 13895372,
   "metadata": {
     "identifier": "chicago_reader-2022",
     "collection": [
@@ -1963,10 +2005,10 @@
     "publicdate": "2022-06-24 22:53:23",
     "addeddate": "2022-06-24 22:53:23"
   },
-  "server": "ia601402.us.archive.org",
-  "uniq": 2117804949,
+  "server": "ia801402.us.archive.org",
+  "uniq": 1211515091,
   "workable_servers": [
-    "ia601402.us.archive.org",
-    "ia801402.us.archive.org"
+    "ia801402.us.archive.org",
+    "ia601402.us.archive.org"
   ]
 }

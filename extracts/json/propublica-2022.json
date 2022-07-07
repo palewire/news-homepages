@@ -1,5 +1,5 @@
 {
-  "created": 1657154517,
+  "created": 1657196527,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/31/items/propublica-2022",
@@ -3122,31 +3122,73 @@
       "sha1": "096b0dedaa19bbe41ae07ab759f173b723cfb875"
     },
     {
+      "name": "propublica-2022-07-06T23:17:21.445367-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657163848",
+      "size": "50185",
+      "md5": "6bc2abc851bc22a6b2c81c049da4a704",
+      "crc32": "252f2588",
+      "sha1": "ff8fab90899fc158bdbc5fd70e82921da4160e73",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-07-06T23:17:21.445367-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657163850",
+      "size": "20492",
+      "md5": "2778fa56a1442342d63a9cc36925366e",
+      "crc32": "3ed07ec5",
+      "sha1": "ff2288dd0fce270740a36ee4f2ed959d3c45019e",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-07-06T23:17:21.445367-04:00.jpg",
+      "source": "original",
+      "mtime": "1657163846",
+      "size": "335393",
+      "md5": "225b71b56d9a09995b9c616213ad849c",
+      "crc32": "e3484ec0",
+      "sha1": "d0f59370c3d760ed5cdef9c77ded1c11acf92d57",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "propublica-2022-07-06T23:17:21.445367-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "propublica-2022-07-06T23:17:21.445367-04:00.jpg",
+      "mtime": "1657163914",
+      "size": "10231",
+      "md5": "d611c040100ed6dfa935d6c025aee8f7",
+      "crc32": "158bcd78",
+      "sha1": "7a04ae4cc47c8bfb914f161b379a99ce3a67b225"
+    },
+    {
       "name": "propublica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "71772336049cff732492c2b9d55130a0dae048ea",
-      "mtime": "1657124661",
-      "size": "64717",
-      "md5": "c357ffa1428229186c802dc4214cf7da",
-      "crc32": "04215140",
-      "sha1": "bba4e6ea5aeccc805204fe5ad0d2a756ee9b35c6",
+      "btih": "bfce49e91848259c62ba2604ae9326862bfaa499",
+      "mtime": "1657163939",
+      "size": "65575",
+      "md5": "ca0ba22a7b10ddf30daca26ec4d1b03c",
+      "crc32": "e4bef31e",
+      "sha1": "550dade392d0766683505721889102148b049114",
       "format": "Archive BitTorrent"
     },
     {
       "name": "propublica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6daf21f5e271b5c91a2c7baa7af8470a",
+      "md5": "c20d389f78b3f18d91d55d76a4fee23f",
       "summation": "md5"
     },
     {
       "name": "propublica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657124553",
-      "size": "364544",
-      "md5": "02a3e3f0342040c2529e961ab4a6f583",
-      "crc32": "4428111c",
-      "sha1": "7ebd5d4b3b794893bfd6aeb1ab8f0617d77757da",
+      "mtime": "1657163854",
+      "size": "368640",
+      "md5": "cd2b59478134379732b570f3e2bbb40f",
+      "crc32": "a2cc4532",
+      "sha1": "abb2d2da073e17c2c9ff6a9daefe048220182b40",
       "format": "Metadata"
     },
     {
@@ -3160,9 +3202,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 301,
-  "item_last_updated": 1657124661,
-  "item_size": 28757972,
+  "files_count": 305,
+  "item_last_updated": 1657163939,
+  "item_size": 29179227,
   "metadata": {
     "identifier": "propublica-2022",
     "collection": [
@@ -3637,20 +3679,12 @@
       "url": "https://www.propublica.org/article/fishing-new-bedford-private-equity"
     },
     {
+      "text": "The Last Person You\u2019d Expect to Die in Childbirth",
+      "url": "https://www.propublica.org/article/die-in-childbirth-maternal-death-rate-health-care-system"
+    },
+    {
       "text": "DOJ Investigating Texas\u2019 Operation Lone Star for Alleged Civil Rights Violations",
       "url": "https://www.propublica.org/article/operation-lone-star-doj-investigation-abbott"
-    },
-    {
-      "text": "The Supreme Court\u2019s EPA Decision Could Hamper Regulators\u2019 Ability to Protect the Public",
-      "url": "https://www.propublica.org/article/scotus-epa-climate-greenhouse-clean-air-act"
-    },
-    {
-      "text": "The Hidden Fees Making Your Bananas, and Everything Else, Cost More",
-      "url": "https://www.propublica.org/article/ocean-freight-shipping-costs-inflation"
-    },
-    {
-      "text": "Federal Patient Privacy Law Does Not Cover Most Period-Tracking Apps",
-      "url": "https://www.propublica.org/article/period-app-privacy-hipaa"
     },
     {
       "text": "Child Porn Possession Investigation Into South Dakota Billionaire Closed With No Charges",
@@ -3661,16 +3695,24 @@
       "url": "https://www.propublica.org/article/scotus-epa-climate-greenhouse-clean-air-act"
     },
     {
-      "text": "Meet the Billionaire and Rising GOP Mega-Donor Who\u2019s Gaming the Tax System",
-      "url": "https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance"
+      "text": "How Foreign Private Equity Hooked New England\u2019s Fishing Industry",
+      "url": "https://www.propublica.org/article/fishing-new-bedford-private-equity"
+    },
+    {
+      "text": "Child Porn Possession Investigation Into South Dakota Billionaire Closed With No Charges",
+      "url": "https://www.propublica.org/article/denny-sanford-child-porn-no-charges"
+    },
+    {
+      "text": "DOJ Investigating Texas\u2019 Operation Lone Star for Alleged Civil Rights Violations",
+      "url": "https://www.propublica.org/article/operation-lone-star-doj-investigation-abbott"
+    },
+    {
+      "text": "The Supreme Court\u2019s EPA Decision Could Hamper Regulators\u2019 Ability to Protect the Public",
+      "url": "https://www.propublica.org/article/scotus-epa-climate-greenhouse-clean-air-act"
     },
     {
       "text": "Federal Patient Privacy Law Does Not Cover Most Period-Tracking Apps",
       "url": "https://www.propublica.org/article/period-app-privacy-hipaa"
-    },
-    {
-      "text": "The Other Cancel Culture: How a Public University Is Bowing to a Conservative Crusade",
-      "url": "https://www.propublica.org/article/idaho-crt-boise-state-university"
     },
     {
       "text": "\n                    \n    ProPublica\n    \n\n                ",
@@ -3825,10 +3867,10 @@
       "url": "/support/other-ways-to-give/"
     }
   ],
-  "server": "ia601504.us.archive.org",
-  "uniq": 1729736411,
+  "server": "ia801504.us.archive.org",
+  "uniq": 1542601491,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }

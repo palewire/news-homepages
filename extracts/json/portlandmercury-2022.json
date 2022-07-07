@@ -1,5 +1,5 @@
 {
-  "created": 1657124763,
+  "created": 1657196515,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -160,31 +160,63 @@
       "format": "JSON"
     },
     {
+      "name": "portlandmercury-2022-07-06T20:17:12.038222-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657163836",
+      "size": "17156",
+      "md5": "3e0ef165f8c7918f8b9b6808e7104d80",
+      "crc32": "17a3b0ca",
+      "sha1": "08fb9261dde13c9ebe82851c529de11565a500ec",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-07-06T20:17:12.038222-07:00.jpg",
+      "source": "original",
+      "mtime": "1657163834",
+      "size": "216607",
+      "md5": "b07067e593e0621feefee16801b382ce",
+      "crc32": "ca5b13a3",
+      "sha1": "5496f59836647029b54e06f2e959f17ba7df17d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portlandmercury-2022-07-06T20:17:12.038222-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portlandmercury-2022-07-06T20:17:12.038222-07:00.jpg",
+      "mtime": "1657163911",
+      "size": "8215",
+      "md5": "0e80eb250c579ae200526f1f22e40d4b",
+      "crc32": "54bb6d34",
+      "sha1": "c1251324ac36fb5f5db700489917ef363560e348"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3a705299d131f702415f618517b8b6bdb8cb123c",
-      "mtime": "1657124708",
-      "size": "4740",
-      "md5": "019f18c4289f310ce51ed9eee50ed8ef",
-      "crc32": "34a13ec9",
-      "sha1": "ba70ac05fd45c0b2cdf321fac6e664f9cb3c7119",
+      "btih": "504fe4d47bd33c2cd0b26d868b2ef7f6de20c71e",
+      "mtime": "1657163932",
+      "size": "5379",
+      "md5": "330710dcf96d71d0ae2ca99b1e92ed7d",
+      "crc32": "8fa99073",
+      "sha1": "5128792003ed3c70ee11e767b94be6d15bfd2f2c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec6a4ef03eac1c866bb3948c6f5d4acf",
+      "md5": "9d23ca98eac3555d7917f774255d0922",
       "summation": "md5"
     },
     {
       "name": "portlandmercury-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657124673",
-      "size": "36864",
-      "md5": "2581fbddd94747ee17c9d291fdcdee0f",
-      "crc32": "df8206ef",
-      "sha1": "317e584ca179bda6d8cdf2e5dfdba1c2df6cefdd",
+      "mtime": "1657163839",
+      "size": "40960",
+      "md5": "4b3f33a4fa48fba8f16d9ca6b476aa88",
+      "crc32": "b4535e6f",
+      "sha1": "248c0567eded81ba83f04f82141675e42440ff36",
       "format": "Metadata"
     },
     {
@@ -198,9 +230,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1657124708,
-  "item_size": 738597,
+  "files_count": 22,
+  "item_last_updated": 1657163932,
+  "item_size": 985310,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -217,8 +249,686 @@
     "publicdate": "2022-07-04 21:51:34",
     "addeddate": "2022-07-04 21:51:34"
   },
+  "portlandmercury-2022": {
+    "role": "WebArea",
+    "name": "Portland Mercury: News. Entertainment. Trouble.",
+    "children": [
+      {
+        "role": "link",
+        "name": "PORTLAND MERCURY"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "THE STRANGER"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "EVEROUT"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "SAVAGE LOVE"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "HUMP"
+      },
+      {
+        "role": "link",
+        "name": "Portland Mercury"
+      },
+      {
+        "role": "link",
+        "name": "THINGS TO READ"
+      },
+      {
+        "role": "link",
+        "name": "THINGS TO DO"
+      },
+      {
+        "role": "link",
+        "name": "SUPPORT THE MERCURY"
+      },
+      {
+        "role": "link",
+        "name": "\uf2be"
+      },
+      {
+        "role": "link",
+        "name": "\uf002"
+      },
+      {
+        "role": "link",
+        "name": "\uf005PATIO PAGES!\uf005"
+      },
+      {
+        "role": "heading",
+        "name": "TOP STORIES",
+        "level": 1
+      },
+      {
+        "role": "link",
+        "name": "Good Afternoon, News: A Sketchy Plan to Curb Gun Violence, Punishing Runaway Republicans, and Trump Lawyer to Spill His Guts"
+      },
+      {
+        "role": "heading",
+        "name": "by Wm. Steven Humphrey",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "heading",
+        "name": "UPDATES",
+        "level": 2
+      },
+      {
+        "role": "text",
+        "name": "SPONSORED"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Skip the Fire, Love your Lungs!"
+      },
+      {
+        "role": "heading",
+        "name": "Wood smoke is a health hazard & adds to air pollution. Learn about wood smoke in Multnomah County.",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Police Oversight Group Will Ask Council to Adopt Controversial Gunshot-Detecting Technology"
+      },
+      {
+        "role": "heading",
+        "name": "by Alex Zielinski",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Hear Ye! Hear Ye! The Delicious Fun of the Mercury's NACHO WEEK Starts July 11!"
+      },
+      {
+        "role": "heading",
+        "name": "by Wm. Steven Humphrey",
+        "level": 4
+      },
+      {
+        "role": "text",
+        "name": "SPONSORED"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "BRING ON THE MUSIC CITYWIDE with \u201cInspirations & Influences\u201d"
+      },
+      {
+        "role": "heading",
+        "name": "Chamber Music Northwest\u2019s Summer Festival with 28 performances, 100 artists, and tons of free concerts!",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Savage Love: Quickies"
+      },
+      {
+        "role": "heading",
+        "name": "by Dan Savage",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "THE TRASH REPORT: Courts! Cruises! Crackers! COVID!"
+      },
+      {
+        "role": "heading",
+        "name": "by Elinor Jones",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Portland Moves to Restrict Expansion of Fossil Fuel Infrastructure\u2014Yet Again"
+      },
+      {
+        "role": "heading",
+        "name": "by Isabella Garcia",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Portland Remains Out of Compliance With DOJ Settlement"
+      },
+      {
+        "role": "heading",
+        "name": "by Alex Zielinski",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Portland-Area Golf Tournament Makes Saudi Human Rights Issues Oregon's Problem"
+      },
+      {
+        "role": "heading",
+        "name": "by Abe Asher",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Hear in Portland: Every One of Us Brings Madgesdiq-CEG to the Square, Return of the Day Fade And\u2014Once Again\u2014Raving about Fountaine"
+      },
+      {
+        "role": "heading",
+        "name": "by Mac Smiff",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Audit Finds Accountability and Diversity Lacking in Portland Fire Bureau"
+      },
+      {
+        "role": "heading",
+        "name": "by Alex Zielinski",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Oregon Needs to Make Legislative Changes to Tackle Its Opioid Misuse, Audit Finds"
+      },
+      {
+        "role": "heading",
+        "name": "by Isabella Garcia",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "The Creeping Catharsis of the 2022 Portland Horror Film Festival is Available in the Theater and Online"
+      },
+      {
+        "role": "heading",
+        "name": "by Chase Hutchinson",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Lidia Yuknavitch Q & A: Portland's Proud Misfit Author on Her Novel Thrust, Climate Change, and Keeping Creativity Flowing"
+      },
+      {
+        "role": "heading",
+        "name": "by Emma Pattee",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Free AC Units, Worker Protections, and Climate Investments\u2014Here\u2019s What\u2019s Changed Since 2021\u2019s Deadly Heatwave"
+      },
+      {
+        "role": "heading",
+        "name": "by Isabella Garcia",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "How You Can Help People Who Just Lost Access to Abortion"
+      },
+      {
+        "role": "heading",
+        "name": "by Isabella Garcia",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "THE LATEST"
+      },
+      {
+        "role": "link",
+        "name": "Good Afternoon, News: A Sketchy Plan to Curb Gun Violence, Punishing Runaway Republicans, and Trump Lawyer to Spill His Guts"
+      },
+      {
+        "role": "link",
+        "name": "Police Oversight Group Will Ask Council to Adopt Controversial Gunshot-Detecting Technology"
+      },
+      {
+        "role": "link",
+        "name": "Hear Ye! Hear Ye! The Delicious Fun of the Mercury's NACHO WEEK Starts July 11!"
+      },
+      {
+        "role": "link",
+        "name": "More \u2192"
+      },
+      {
+        "role": "heading",
+        "name": "FEATURED",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "I, Anonymous Blog"
+      },
+      {
+        "role": "heading",
+        "name": "Read & Submit Rants Here!",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Savage Love: Quickies"
+      },
+      {
+        "role": "heading",
+        "name": "by Dan Savage",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "THE TRASH REPORT: Courts! Cruises! Crackers! COVID!"
+      },
+      {
+        "role": "heading",
+        "name": "by Elinor Jones",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Hear in Portland: Every One of Us Brings Madgesdiq-CEG to the Square, Return of the Day Fade And\u2014Once Again\u2014Raving about Fountaine"
+      },
+      {
+        "role": "heading",
+        "name": "by Mac Smiff",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "POP QUIZ PDX: Sassy-Ass Trivia About Local Scandals, Monkeypox, and Sword-Fighting Skeletons!"
+      },
+      {
+        "role": "heading",
+        "name": "by Wm. Steven Humphrey",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "QUEER GUIDE 2022 \u00bb"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "The Portland Mercury's 2022 Queer Guide: Making Waves!"
+      },
+      {
+        "role": "heading",
+        "name": "by Suzette Smith",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Portland Queer Icons Jumping from Stage to the Screen: Jinkx Monsoon, House of Ada, and More!"
+      },
+      {
+        "role": "heading",
+        "name": "by Andrew Jankowski",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "A New True Crime Podcast from KGW Carefully Tells the Story of Murdered Trans Vancouver Teen Nikki Kuhnhausen"
+      },
+      {
+        "role": "heading",
+        "name": "by Alex Zielinski",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Kimber K. Shade and Isaiah Esquire Created Blackout as a Place to Be Queer and Unapologetically Black"
+      },
+      {
+        "role": "heading",
+        "name": "by Mx. Dahlia Belle",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "NEWS \u00bb"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Police Oversight Group Will Ask Council to Adopt Controversial Gunshot-Detecting Technology"
+      },
+      {
+        "role": "heading",
+        "name": "by Alex Zielinski",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Portland Moves to Restrict Expansion of Fossil Fuel Infrastructure\u2014Yet Again"
+      },
+      {
+        "role": "heading",
+        "name": "by Isabella Garcia",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Portland Remains Out of Compliance With DOJ Settlement"
+      },
+      {
+        "role": "heading",
+        "name": "by Alex Zielinski",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Portland-Area Golf Tournament Makes Saudi Human Rights Issues Oregon's Problem"
+      },
+      {
+        "role": "heading",
+        "name": "by Abe Asher",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "FOOD & DRINK \u00bb"
+      },
+      {
+        "role": "link",
+        "name": "\uf073 Food & Drink Events \u00bb"
+      },
+      {
+        "role": "link",
+        "name": "\uf073 Restaurants \u00bb"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Hear Ye! Hear Ye! The Delicious Fun of the Mercury's NACHO WEEK Starts July 11!"
+      },
+      {
+        "role": "heading",
+        "name": "by Wm. Steven Humphrey",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Alert! Alert! The Oh-So-Delicious Mercury's SANDWICH WEEK Ends SUNDAY!"
+      },
+      {
+        "role": "heading",
+        "name": "by Wm. Steven Humphrey",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Sandwich Week Is NOW! Take a Look at These Delicious Sandies!"
+      },
+      {
+        "role": "heading",
+        "name": "by Wm. Steven Humphrey",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Hurrah! The Mercury's SANDWICH WEEK Is Happening... NOW!"
+      },
+      {
+        "role": "heading",
+        "name": "by Wm. Steven Humphrey",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "EVEROUT PORTLAND \u00bb"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "The Top 47 Events in Portland This Week: July 5-10, 2022"
+      },
+      {
+        "role": "heading",
+        "name": "by EverOut Staff",
+        "level": 4
+      },
+      {
+        "role": "heading",
+        "name": "The Portland Mercury in your inbox",
+        "level": 2
+      },
+      {
+        "role": "textbox",
+        "name": "The Portland Mercury in your inbox",
+        "required": true,
+        "invalid": "true"
+      },
+      {
+        "role": "button",
+        "name": "Subscribe"
+      },
+      {
+        "role": "heading",
+        "name": "PUBLICATION INFO",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Masthead"
+      },
+      {
+        "role": "link",
+        "name": "Ad Info & Rates"
+      },
+      {
+        "role": "link",
+        "name": "Jobs at Portland Mercury"
+      },
+      {
+        "role": "link",
+        "name": "Contact"
+      },
+      {
+        "role": "link",
+        "name": "EverOut"
+      },
+      {
+        "role": "link",
+        "name": "Contribute"
+      },
+      {
+        "role": "heading",
+        "name": "CHECK IT OUT",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "EverOut PDX"
+      },
+      {
+        "role": "link",
+        "name": "Mercury Tickets"
+      },
+      {
+        "role": "heading",
+        "name": "FOLLOW US",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "\uf09e RSS"
+      },
+      {
+        "role": "link",
+        "name": "\uf09a Facebook"
+      },
+      {
+        "role": "link",
+        "name": "\uf099 Twitter"
+      },
+      {
+        "role": "link",
+        "name": "\uf16d Instagram"
+      },
+      {
+        "role": "link",
+        "name": "\uf0e0 Newsletters"
+      },
+      {
+        "role": "link",
+        "name": "Portland Mercury"
+      },
+      {
+        "role": "text",
+        "name": "All contents \u00a9 Index Newspapers LLC"
+      },
+      {
+        "role": "text",
+        "name": "PO Box 86208, Portland, OR 97286"
+      },
+      {
+        "role": "link",
+        "name": "Contact"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "Privacy Policy"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "Terms of Use"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "link",
+        "name": "Takedown Policy"
+      }
+    ]
+  },
   "server": "ia801408.us.archive.org",
-  "uniq": 118480274,
+  "uniq": 1247205982,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"
