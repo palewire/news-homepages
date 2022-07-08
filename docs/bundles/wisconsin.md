@@ -85,7 +85,7 @@ The most recent homepages from 9 news sites in this bundle.
 
 </div>
 
-### About this bundle
+## About this bundle
 
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
@@ -94,7 +94,7 @@ The most recent homepages from 9 news sites in this bundle.
 | Location        | Milwaukee                                                               |
 | Timezone        | America/Chicago                                                               |
 
-### Site directory
+## Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

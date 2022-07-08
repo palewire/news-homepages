@@ -61,7 +61,7 @@ The most recent homepages from 6 news sites in this bundle.
 
 </div>
 
-### About this bundle
+## About this bundle
 
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
@@ -70,7 +70,7 @@ The most recent homepages from 6 news sites in this bundle.
 | Location        | Kiev                                                               |
 | Timezone        | Europe/Kiev                                                               |
 
-### Site directory
+## Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

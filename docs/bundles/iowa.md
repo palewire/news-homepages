@@ -125,7 +125,7 @@ The most recent homepages from 14 news sites in this bundle.
 
 </div>
 
-### About this bundle
+## About this bundle
 
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
@@ -134,7 +134,7 @@ The most recent homepages from 14 news sites in this bundle.
 | Location        | Iowa City                                                               |
 | Timezone        | America/Chicago                                                               |
 
-### Site directory
+## Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

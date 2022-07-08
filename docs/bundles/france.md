@@ -109,7 +109,7 @@ The most recent homepages from 12 news sites in this bundle.
 
 </div>
 
-### About this bundle
+## About this bundle
 
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
@@ -118,7 +118,7 @@ The most recent homepages from 12 news sites in this bundle.
 | Location        | Paris                                                               |
 | Timezone        | Europe/Paris                                                               |
 
-### Site directory
+## Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |

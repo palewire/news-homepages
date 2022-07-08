@@ -45,7 +45,7 @@ The most recent homepages from 4 news sites in this bundle.
 
 </div>
 
-### About this bundle
+## About this bundle
 
 | Attribute       | Value                                                                               |
 | :-------------  | :---------------------------------------------------------------------------------- |
@@ -54,7 +54,7 @@ The most recent homepages from 4 news sites in this bundle.
 | Location        | Glasgow                                                               |
 | Timezone        | Europe/London                                                               |
 
-### Site directory
+## Site directory
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
