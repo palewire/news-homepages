@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 27 bundles of sites.
+The archiving routine is currently organized into 28 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -21,6 +21,7 @@ The archiving routine is currently organized into 27 bundles of sites.
 |[Minnesota](https://palewi.re/docs/news-homepages/bundles/minnesota.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/minnesota.xml)|
 |[Missouri](https://palewi.re/docs/news-homepages/bundles/missouri.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/missouri.xml)|
 |[New Mexico](https://palewi.re/docs/news-homepages/bundles/new-mexico.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-mexico.xml)|
+|[New York City](https://palewi.re/docs/news-homepages/bundles/new-york-city.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-york-city.xml)|
 |[North Carolina](https://palewi.re/docs/news-homepages/bundles/north-carolina.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/north-carolina.xml)|
 |[Oregon](https://palewi.re/docs/news-homepages/bundles/oregon.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/oregon.xml)|
 |[Philadelphia](https://palewi.re/docs/news-homepages/bundles/philadelphia.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/philadelphia.xml)|

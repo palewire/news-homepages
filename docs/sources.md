@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 311 sites.
+The archiving routine is currently capturing 314 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -171,6 +171,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Mashable](https://palewi.re/docs/news-homepages/sites/mashable.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mashable.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mashable.xml)|
 |[Meduza](https://palewi.re/docs/news-homepages/sites/meduzaproject.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/meduzaproject.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/meduzaproject.xml)|
 |[Mercury News](https://palewi.re/docs/news-homepages/sites/mercnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mercnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mercnews.xml)|
+|[Miami Herald](https://palewi.re/docs/news-homepages/sites/miamiherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miamiherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/miamiherald.xml)|
 |[Milwaukee Journal Sentinel](https://palewi.re/docs/news-homepages/sites/journalsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/journalsentinel.xml)|
 |[Minneapolis Star Tribune](https://palewi.re/docs/news-homepages/sites/startribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/startribune.xml)|
 |[MinnPost](https://palewi.re/docs/news-homepages/sites/minnpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/minnpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/minnpost.xml)|
@@ -238,6 +239,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Riverside Press-Enterprise](https://palewi.re/docs/news-homepages/sites/pressenterprise.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pressenterprise.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pressenterprise.xml)|
 |[Roll Call](https://palewi.re/docs/news-homepages/sites/rollcall.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollcall.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rollcall.xml)|
 |[Rolling Stone](https://palewi.re/docs/news-homepages/sites/rollingstone.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollingstone.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rollingstone.xml)|
+|[Sacramento Bee](https://palewi.re/docs/news-homepages/sites/sacbee_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sacbee_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sacbee_news.xml)|
 |[Sahan Journal](https://palewi.re/docs/news-homepages/sites/sahanjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sahanjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sahanjournal.xml)|
 |[San Antonio Express-News](https://palewi.re/docs/news-homepages/sites/expressnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/expressnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/expressnews.xml)|
 |[San Diego Union Tribune](https://palewi.re/docs/news-homepages/sites/sdut.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sdut.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sdut.xml)|
@@ -308,6 +310,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[VT Digger](https://palewi.re/docs/news-homepages/sites/vtdigger.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vtdigger.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/vtdigger.xml)|
 |[Wall Street Journal](https://palewi.re/docs/news-homepages/sites/wsj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wsj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wsj.xml)|
 |[Washington Examiner](https://palewi.re/docs/news-homepages/sites/dcexaminer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dcexaminer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dcexaminer.xml)|
+|[Washington Post](https://palewi.re/docs/news-homepages/sites/washingtonpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/washingtonpost.xml)|
 |[Washington Times](https://palewi.re/docs/news-homepages/sites/washtimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washtimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/washtimes.xml)|
 |[Waterloo-Cedar Falls Courier](https://palewi.re/docs/news-homepages/sites/wcfcourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wcfcourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wcfcourier.xml)|
 |[Wausau Daily Herald](https://palewi.re/docs/news-homepages/sites/wausauherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wausauherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wausauherald.xml)|

@@ -17,7 +17,7 @@ orphan: true
 | Location       | Mexico City                                                                 |
 | Timezone       | America/Mexico_City                                                                 |
 
-The archiving routine has captured 421 screenshots stored at the Internet Archive.
+The archiving routine has captured 422 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

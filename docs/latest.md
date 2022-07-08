@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 311 news sites.
+The most recent homepages captured from 314 news sites.
 
 <div class="latest-parent">
 
@@ -1304,6 +1304,14 @@ The most recent homepages captured from 311 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/miamiherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miamiherald.jpg"
+     alt="Miami Herald"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/journalsentinel.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalsentinel.jpg"
      alt="Milwaukee Journal Sentinel"
@@ -1835,6 +1843,14 @@ The most recent homepages captured from 311 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/rollingstone.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollingstone.jpg"
      alt="Rolling Stone"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sacbee_news.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sacbee_news.jpg"
+     alt="Sacramento Bee"
      loading="lazy">
  </a>
 </div>
@@ -2395,6 +2411,14 @@ The most recent homepages captured from 311 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/dcexaminer.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dcexaminer.jpg"
      alt="Washington Examiner"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/washingtonpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg"
+     alt="Washington Post"
      loading="lazy">
  </a>
 </div>

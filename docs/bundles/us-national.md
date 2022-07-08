@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. national news
 
-The most recent homepages from 12 news sites in this bundle.
+The most recent homepages from 15 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -15,6 +15,22 @@ The most recent homepages from 12 news sites in this bundle.
  <a href="https://palewi.re/docs/news-homepages/sites/abc.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abc.jpg"
      alt="ABC News"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ap.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ap.jpg"
+     alt="Associated Press"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/business.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/business.jpg"
+     alt="Bloomberg"
      loading="lazy">
  </a>
 </div>
@@ -107,6 +123,14 @@ The most recent homepages from 12 news sites in this bundle.
  </a>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/washingtonpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg"
+     alt="Washington Post"
+     loading="lazy">
+ </a>
+</div>
+
 </div>
 
 ### About this bundle
@@ -123,6 +147,8 @@ The most recent homepages from 12 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[ABC News](https://palewi.re/docs/news-homepages/sites/abc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abc.xml)|
+|[Associated Press](https://palewi.re/docs/news-homepages/sites/ap.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ap.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ap.xml)|
+|[Bloomberg](https://palewi.re/docs/news-homepages/sites/business.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/business.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/business.xml)|
 |[CBS News](https://palewi.re/docs/news-homepages/sites/cbsnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbsnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cbsnews.xml)|
 |[CNN](https://palewi.re/docs/news-homepages/sites/cnn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cnn.xml)|
 |[Fox News](https://palewi.re/docs/news-homepages/sites/foxnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foxnews.xml)|
@@ -134,3 +160,4 @@ The most recent homepages from 12 news sites in this bundle.
 |[USA Today](https://palewi.re/docs/news-homepages/sites/usatoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usatoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/usatoday.xml)|
 |[Wall Street Journal](https://palewi.re/docs/news-homepages/sites/wsj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wsj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wsj.xml)|
 |[Yahoo! News](https://palewi.re/docs/news-homepages/sites/yahoonews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yahoonews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yahoonews.xml)|
+|[Washington Post](https://palewi.re/docs/news-homepages/sites/washingtonpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/washingtonpost.xml)|

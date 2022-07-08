@@ -7,7 +7,7 @@ orphan: true
 
 # California Bay Area
 
-The most recent homepages from 8 news sites in this bundle.
+The most recent homepages from 9 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -68,6 +68,14 @@ The most recent homepages from 8 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sacbee_news.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sacbee_news.jpg"
+     alt="Sacramento Bee"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/sfchronicle.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sfchronicle.jpg"
      alt="San Francisco Chronicle"
@@ -97,4 +105,5 @@ The most recent homepages from 8 news sites in this bundle.
 |[The Oaklandside](https://palewi.re/docs/news-homepages/sites/oaklandside.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oaklandside.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oaklandside.xml)|
 |[Peninsula Press](https://palewi.re/docs/news-homepages/sites/peninsupress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/peninsupress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/peninsupress.xml)|
 |[Point Reyes Light](https://palewi.re/docs/news-homepages/sites/pointreyeslight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pointreyeslight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pointreyeslight.xml)|
+|[Sacramento Bee](https://palewi.re/docs/news-homepages/sites/sacbee_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sacbee_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sacbee_news.xml)|
 |[San Francisco Chronicle](https://palewi.re/docs/news-homepages/sites/sfchronicle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sfchronicle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sfchronicle.xml)|
