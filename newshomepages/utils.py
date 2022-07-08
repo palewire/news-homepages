@@ -82,10 +82,9 @@ def get_screenshot_list():
     with open(EXTRACT_DIR / "csv" / "screenshot-files.csv") as fh:
         site_reader = csv.DictReader(fh)
         obj_list = list(site_reader)
-    tz = pytz.timezone("US/Pacific")
     for obj in obj_list:
         dt = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
-        obj["mtime"] = tz.localize(dt).astimezone(pytz.utc)
+        obj["mtime"] = dt.astimezone(pytz.utc)
     return obj_list
 
 
