@@ -1,5 +1,5 @@
 {
-  "created": 1657239927,
+  "created": 1657282487,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -1780,31 +1780,73 @@
       "sha1": "6a1bc5e07b696917fd3ebadaf537a1203e4cf223"
     },
     {
+      "name": "politifact-2022-07-07T23:12:09.815560-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657249934",
+      "size": "35454",
+      "md5": "7f4b629db4fd2f504bafef6e2b610d1d",
+      "crc32": "fa801a85",
+      "sha1": "a4a3055aefd723188bea562b31d1fadc96c9631e",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-07T23:12:09.815560-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657249937",
+      "size": "22494",
+      "md5": "c04e2789d3f7654b1b1b581c6784226e",
+      "crc32": "a0b79cfc",
+      "sha1": "786abb024f2e14de1554791fd13439ac5e5b7102",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-07T23:12:09.815560-04:00.jpg",
+      "source": "original",
+      "mtime": "1657249931",
+      "size": "186981",
+      "md5": "3bd06d4b6dc6f7a99ecb06e0d1842f7b",
+      "crc32": "bf15f927",
+      "sha1": "ae97ea784963db79041dd812326a46233545641c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-07-07T23:12:09.815560-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-07T23:12:09.815560-04:00.jpg",
+      "mtime": "1657250045",
+      "size": "8943",
+      "md5": "68a6daf650d7d9dc438945257e9aa9ad",
+      "crc32": "ee6fe4cd",
+      "sha1": "baf6c77c21e41b890cf4730b5e077129273e3d98"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74030453bea65167a650cac4d1444c3429cb2be4",
-      "mtime": "1657211012",
-      "size": "37260",
-      "md5": "c9381ebdaad38b856e79cec642059621",
-      "crc32": "067e8cd5",
-      "sha1": "2919b81dabe0c1415606b84ed9759b86cd73aa9e",
+      "btih": "cdd4e9a2045526a6dd199de99f73540860f10265",
+      "mtime": "1657250051",
+      "size": "38097",
+      "md5": "c83b420f5594483e904d0385ebb05db6",
+      "crc32": "147ab62b",
+      "sha1": "59de42926cf44109751f1cfbce5c77eb57cb47db",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a30a889e18a723773251ad03e6e3f1ad",
+      "md5": "31365782e570b0f29245ee4053d70403",
       "summation": "md5"
     },
     {
       "name": "politifact-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657210935",
-      "size": "212992",
-      "md5": "5ebb4e6b8fed45b03e3adc6870a56601",
-      "crc32": "31b26708",
-      "sha1": "d57b5d75c23fead4a5f7071badc314966480a80a",
+      "mtime": "1657249940",
+      "size": "217088",
+      "md5": "d8949c2942f5fe787cbaf08f8a3f349b",
+      "crc32": "bae80fd1",
+      "sha1": "da0daf0bdc6351fb7e0669dd15b0df56d7f848e7",
       "format": "Metadata"
     },
     {
@@ -1818,9 +1860,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 173,
-  "item_last_updated": 1657211012,
-  "item_size": 12120661,
+  "files_count": 177,
+  "item_last_updated": 1657250051,
+  "item_size": 12379466,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -2159,6 +2201,46 @@
       "url": "/factchecks/2022/jun/28/instagram-posts/headline-about-texas-lawmakers-anti-abortion-bill-/"
     },
     {
+      "text": "\nStephen King\n",
+      "url": "/personalities/stephen-king/"
+    },
+    {
+      "text": "\nFlorida Gov. Ron DeSantis \u201csigns bill requiring Florida students, professors to register political views with (the) state.\u201d\n",
+      "url": "/factchecks/2022/jul/07/stephen-king/florida-not-requiring-professors-students-register/"
+    },
+    {
+      "text": "\nFacebook posts\n",
+      "url": "/personalities/facebook-posts/"
+    },
+    {
+      "text": "\n\"Fox offers Chris Wallace's Sunday Spot to Candace Owens.\"\n",
+      "url": "/factchecks/2022/jul/07/facebook-posts/no-fox-news-did-not-offer-chris-wallaces-old-sunda/"
+    },
+    {
+      "text": "\nViral image\n",
+      "url": "/personalities/viral-image/"
+    },
+    {
+      "text": "\nA video shows Joe Biden speaking slowly and slurring on the Fourth of July.\n",
+      "url": "/factchecks/2022/jul/07/viral-image/video-joe-biden-slowed-down-his-speech/"
+    },
+    {
+      "text": "\nNational Republican Senatorial Committee\n",
+      "url": "/personalities/national-republican-senatorial-committee/"
+    },
+    {
+      "text": "\nCheri Beasley voted to reverse the conviction of an armed kidnapper, release a double murderer early.\n",
+      "url": "/factchecks/2022/jul/07/national-republican-senatorial-committee/checking-beasley-votes-armed-kidnapper-and-double-/"
+    },
+    {
+      "text": "\nFacebook posts\n",
+      "url": "/personalities/facebook-posts/"
+    },
+    {
+      "text": "\nImages show Highland Park shooter had antifa connection\n",
+      "url": "/factchecks/2022/jul/07/facebook-posts/no-evidence-ties-highland-park-shooter-antifa/"
+    },
+    {
       "text": "\nFacebook posts\n",
       "url": "/personalities/facebook-posts/"
     },
@@ -2199,48 +2281,24 @@
       "url": "/factchecks/2022/jul/06/facebook-posts/there-was-no-mass-shooting-harrisburg-fourth-july-/"
     },
     {
-      "text": "\nViral image\n",
-      "url": "/personalities/viral-image/"
-    },
-    {
-      "text": "\nVideo shows Russian artillery tanks \u201ccompletely destroyed by Bayraktar TB2 drones\u201d on July 2.\n",
-      "url": "/factchecks/2022/jul/06/viral-image/post-shows-video-game-footage-not-war-ukraine/"
-    },
-    {
-      "text": "\nMarjorie Taylor Greene\n",
-      "url": "/personalities/marjorie-taylor-greene/"
-    },
-    {
-      "text": "\nSays an image shows the Highland Park shooting suspect \"in jail or rehab or a psychiatric center\" before the shooting.\n",
-      "url": "/factchecks/2022/jul/05/marjorie-taylor-greene/marjorie-taylor-greene-shared-edited-image-highlan/"
-    },
-    {
-      "text": "\nNikki Fried\n",
-      "url": "/personalities/nikki-fried/"
-    },
-    {
-      "text": "\n\u201cCharlie Crist is pro-life.\u201d\n",
-      "url": "/factchecks/2022/jul/05/nikki-fried/nikki-frieds-ad-misleads-crists-position-abortion-/"
-    },
-    {
-      "text": "\nFacebook posts\n",
-      "url": "/personalities/facebook-posts/"
-    },
-    {
-      "text": "\nPlanned Parenthood clinics are \u201cclosing down all over the country\u201d because Roe v. Wade was overturned.\n",
-      "url": "/factchecks/2022/jul/05/facebook-posts/no-planned-parenthood-clinics-have-closed-abortion/"
-    },
-    {
-      "text": "\nViral image\n",
-      "url": "/personalities/viral-image/"
-    },
-    {
-      "text": "\nSays Marjorie Taylor Greene said \u201c246 years ago Jesus Christ performed his miracle of making a single days worth of bullets last 8 days.\u201d\n",
-      "url": "/factchecks/2022/jul/05/viral-image/no-marjorie-taylor-greene-didnt-tweet-july-4/"
-    },
-    {
       "text": "View all",
       "url": "/factchecks/list/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "/article/2022/jul/07/how-strong-are-hipaa-protections-post-roe-world/"
+    },
+    {
+      "text": "\nHow strong are HIPAA protections in a post-Roe world?\n",
+      "url": "/article/2022/jul/07/how-strong-are-hipaa-protections-post-roe-world/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "/article/2022/jul/07/explaining-supreme-court-immigration-ruling-remain/"
+    },
+    {
+      "text": "\nExplaining the Supreme Court immigration ruling on \u2018Remain in Mexico\u2019\n",
+      "url": "/article/2022/jul/07/explaining-supreme-court-immigration-ruling-remain/"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -2271,7 +2329,7 @@
       "url": "/article/2022/jul/05/evers-o-meter-update-gov-tony-evers-campaign-promi/"
     },
     {
-      "text": "\nEvers-O-Meter update of Gov. Tony Evers campaign promises\n",
+      "text": "\nEvers-O-Meter update of Gov. Tony Evers campaign promises\n ",
       "url": "/article/2022/jul/05/evers-o-meter-update-gov-tony-evers-campaign-promi/"
     },
     {
@@ -2283,7 +2341,7 @@
       "url": "/article/2022/jul/01/why-does-federal-law-make-it-easier-18-year-olds-b/"
     },
     {
-      "text": "\n\n\n\n\n\n \n",
+      "text": "\n\n\n\n\n\n\n",
       "url": "/article/2022/jun/30/ad-watch-val-demings-ad-attacks-rubio-abortion/"
     },
     {
@@ -2299,28 +2357,12 @@
       "url": "/article/2022/jun/30/how-treatment-ectopic-pregnancy-fits-post-roe-medi/"
     },
     {
-      "text": "\n\n\n\n\n\n\n ",
+      "text": "\n\n\n\n\n\n\n",
       "url": "/article/2022/jun/30/what-boyfriend-loophole-and-how-does-new-law-close/"
     },
     {
       "text": "\nWhat is the \u2018boyfriend loophole,\u2019 and how does the new gun law close it?\n",
       "url": "/article/2022/jun/30/what-boyfriend-loophole-and-how-does-new-law-close/"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "/article/2022/jun/29/can-states-punish-women-traveling-get-abortion/"
-    },
-    {
-      "text": "\nCan states punish women for traveling out of state to get an abortion?\n",
-      "url": "/article/2022/jun/29/can-states-punish-women-traveling-get-abortion/"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "/article/2022/jun/29/fact-checking-conspiracy-theories-about-death-mich/"
-    },
-    {
-      "text": "\nFact-checking conspiracy theories about the death of Michael Stenger, former Senate sergeant-at-arms\n",
-      "url": "/article/2022/jun/29/fact-checking-conspiracy-theories-about-death-mich/"
     },
     {
       "text": "View all",
@@ -2427,44 +2469,44 @@
       "url": "#"
     },
     {
-      "text": "\n\n\n\n \n",
-      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/06/fact-check-clip-plane-crashing-video-game/7754979001/"
+      "text": "\n\n\n\n\n",
+      "url": "https://www.reuters.com/article/factcheck-mtg-july/fact-check-no-evidence-rep-marjorie-taylor-greene-posted-4th-of-july-tweet-idUSL1N2YO1IQ"
     },
     {
-      "text": "\nClip of plane crashing is from a video game\n",
-      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/06/fact-check-clip-plane-crashing-video-game/7754979001/"
+      "text": "\nNo evidence Rep. Marjorie Taylor Greene posted 4th of July tweet\n",
+      "url": "https://www.reuters.com/article/factcheck-mtg-july/fact-check-no-evidence-rep-marjorie-taylor-greene-posted-4th-of-july-tweet-idUSL1N2YO1IQ"
     },
     {
       "text": "\n\n\n\n\n",
-      "url": "https://www.dw.com/en/fact-check-imposter-content-targets-dw-bbc-and-other-international-media-outlets/a-62381229"
+      "url": "https://www.reuters.com/article/factcheck-lesko-grandchildren/fact-check-statement-from-republican-rep-debbie-lesko-on-protecting-her-grandchildren-is-missing-context-idUSL1N2YO1NC"
     },
     {
-      "text": "\nImposter content targets DW, BBC and other international media outlets\n",
-      "url": "https://www.dw.com/en/fact-check-imposter-content-targets-dw-bbc-and-other-international-media-outlets/a-62381229"
-    },
-    {
-      "text": "\n\n\n\n\n",
-      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/05/fact-check-fake-tweet-wrongly-attributed-j-k-rowling/7776437001/"
-    },
-    {
-      "text": "\nFake abortion-related post wrongly attributed to J.K. Rowling\n",
-      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/05/fact-check-fake-tweet-wrongly-attributed-j-k-rowling/7776437001/"
-    },
-    {
-      "text": "\n\n \n\n\n",
-      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/05/fact-check-birth-records-young-uvalde-victims-arent-public/7770760001/"
-    },
-    {
-      "text": "\nVideo falsely claims to demonstrate lack of birth records for Uvalde victims\n",
-      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/05/fact-check-birth-records-young-uvalde-victims-arent-public/7770760001/"
+      "text": "\nStatement from Republican Rep. Debbie Lesko on protecting her grandchildren is missing context\n",
+      "url": "https://www.reuters.com/article/factcheck-lesko-grandchildren/fact-check-statement-from-republican-rep-debbie-lesko-on-protecting-her-grandchildren-is-missing-context-idUSL1N2YO1NC"
     },
     {
       "text": "\n\n\n\n\n",
-      "url": "https://www.factcheck.org/2022/07/fabricated-fourth-of-july-tweet-was-not-from-rep-marjorie-taylor-greene/"
+      "url": "https://www.reuters.com/article/factcheck-climate-plymouth/fact-check-plymouth-rock-cannot-provide-an-accurate-measure-of-sea-level-idUSL1N2YO1O0"
     },
     {
-      "text": "\nFabricated Fourth of July Tweet Was Not from Rep. Marjorie Taylor Greene\n",
-      "url": "https://www.factcheck.org/2022/07/fabricated-fourth-of-july-tweet-was-not-from-rep-marjorie-taylor-greene/"
+      "text": "\nPlymouth Rock cannot provide an accurate measure of sea level\n",
+      "url": "https://www.reuters.com/article/factcheck-climate-plymouth/fact-check-plymouth-rock-cannot-provide-an-accurate-measure-of-sea-level-idUSL1N2YO1O0"
+    },
+    {
+      "text": "\n\n\n\n\n",
+      "url": "https://www.reuters.com/article/factcheck-nasa-climate/fact-check-nasa-did-not-announce-that-climate-change-is-only-driven-by-variations-to-earths-orbital-position-relative-to-the-sun-idUSL1N2YO23I"
+    },
+    {
+      "text": "\nNASA did not announce that climate change is only driven by variations to Earth\u2019s orbital position relative to the sun\n",
+      "url": "https://www.reuters.com/article/factcheck-nasa-climate/fact-check-nasa-did-not-announce-that-climate-change-is-only-driven-by-variations-to-earths-orbital-position-relative-to-the-sun-idUSL1N2YO23I"
+    },
+    {
+      "text": "\n\n\n\n\n",
+      "url": "https://www.factcheck.org/2022/07/abortion-is-sometimes-medically-necessary-contrary-to-facebook-posts/"
+    },
+    {
+      "text": "\nAbortion Is Sometimes Medically Necessary, Contrary to Facebook Posts\n",
+      "url": "https://www.factcheck.org/2022/07/abortion-is-sometimes-medically-necessary-contrary-to-facebook-posts/"
     },
     {
       "text": "View more",
@@ -2636,7 +2678,7 @@
     }
   ],
   "server": "ia801407.us.archive.org",
-  "uniq": 1875370316,
+  "uniq": 1392869116,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

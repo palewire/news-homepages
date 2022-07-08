@@ -1,5 +1,5 @@
 {
-  "created": 1657219412,
+  "created": 1657245604,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/globeandmail-2022",
@@ -982,31 +982,73 @@
       "sha1": "cfaefb9939df3de30ee75cf547587eeb77b34766"
     },
     {
+      "name": "globeandmail-2022-07-07T21:58:51.251486-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657245534",
+      "size": "33278",
+      "md5": "2b8871194d8f78dd21b708269ac0941b",
+      "crc32": "c5c0f3f6",
+      "sha1": "d6761697cd0c9ff5e101747b22c9fd7f97e2842a",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-07-07T21:58:51.251486-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657245535",
+      "size": "36405",
+      "md5": "24daf9c457ddc445b8d30560f5876d31",
+      "crc32": "58dc8e37",
+      "sha1": "a38fb91d14f9de643c93f5393f28b7d894c0f54c",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-07-07T21:58:51.251486-04:00.jpg",
+      "source": "original",
+      "mtime": "1657245532",
+      "size": "273882",
+      "md5": "2aab502e7d5b5b2c81f11d2a0d2c3782",
+      "crc32": "a7714749",
+      "sha1": "14ba163c52a4d41aaf349ad03bf85a687c5bb277",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "globeandmail-2022-07-07T21:58:51.251486-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globeandmail-2022-07-07T21:58:51.251486-04:00.jpg",
+      "mtime": "1657245583",
+      "size": "9140",
+      "md5": "a3a8edf154e8fb9b877a290e7364c41a",
+      "crc32": "a5002c28",
+      "sha1": "99eabbd813a564f3b768f088f1bccf0543b03f90"
+    },
+    {
       "name": "globeandmail-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9ed61944936800d808040c6f4de74b9e6e26fbec",
-      "mtime": "1657213102",
-      "size": "21396",
-      "md5": "5c3e9825fdf2c3b79740d0fb66b994ac",
-      "crc32": "82423330",
-      "sha1": "bded214e3ebfbf561b5851a1041d5f7c4fef65e6",
+      "btih": "128262680c5fff5a63642c37ea566759439d816b",
+      "mtime": "1657245594",
+      "size": "22261",
+      "md5": "0c6459639d8895c2971b6de5fa1ac4bb",
+      "crc32": "945a0282",
+      "sha1": "e3675a11e61d10df65099cd2ab0b485c3453c502",
       "format": "Archive BitTorrent"
     },
     {
       "name": "globeandmail-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f0228ebb72e3493cc53d4fc531cea5f8",
+      "md5": "27ffd0b5fe728e2f878dcba1549696b8",
       "summation": "md5"
     },
     {
       "name": "globeandmail-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657212931",
-      "size": "131072",
-      "md5": "96be2a64313c70ac9cc011e5083f173b",
-      "crc32": "c759225d",
-      "sha1": "54cdf95a9c865790647d37757c42425c739d180e",
+      "mtime": "1657245539",
+      "size": "135168",
+      "md5": "c1f948e7fa31ccc0dee931114b95ce93",
+      "crc32": "94c49e98",
+      "sha1": "e15001eb29d1d16413a7a4922fd597d33886603a",
       "format": "Metadata"
     },
     {
@@ -1020,9 +1062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 97,
-  "item_last_updated": 1657213102,
-  "item_size": 8180279,
+  "files_count": 101,
+  "item_last_updated": 1657245594,
+  "item_size": 8537945,
   "metadata": {
     "identifier": "globeandmail-2022",
     "collection": [
@@ -1040,7 +1082,7 @@
     "addeddate": "2022-06-30 22:35:43"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 1461417199,
+  "uniq": 1766125922,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

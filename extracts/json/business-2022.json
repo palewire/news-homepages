@@ -1,5 +1,5 @@
 {
-  "created": 1657221911,
+  "created": 1657241078,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/22/items/business-2022",
@@ -2682,31 +2682,73 @@
       "sha1": "a17b7ce66f31d5c8cc218925d93d3cb4ac5308f2"
     },
     {
+      "name": "business-2022-07-07T20:41:44.357476-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657240910",
+      "size": "1816",
+      "md5": "61f0eebb18ef14842e02b1c2047b5532",
+      "crc32": "3f00eb98",
+      "sha1": "6ac0c2d9cd2fc3ea1559a11b8c5b05166ffb7afd",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-07-07T20:41:44.357476-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657240912",
+      "size": "274",
+      "md5": "77223effe9230863b00decc793f2f6c7",
+      "crc32": "22a9ab35",
+      "sha1": "36ae2e4276ab83eeeab6218f03aad1e1bcce38c8",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-07-07T20:41:44.357476-04:00.jpg",
+      "source": "original",
+      "mtime": "1657240907",
+      "size": "335292",
+      "md5": "baef344f01abfee77f1d1e21d30c3da4",
+      "crc32": "d531cf6e",
+      "sha1": "30b156e7350f690cc6df115000cbe3b93c3aa04e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "business-2022-07-07T20:41:44.357476-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "business-2022-07-07T20:41:44.357476-04:00.jpg",
+      "mtime": "1657241004",
+      "size": "10121",
+      "md5": "d5fcb725ed17f1164039d16c67730499",
+      "crc32": "55aa4ec7",
+      "sha1": "4e3e1827931f2f341f8e506d73e118d1fea451e8"
+    },
+    {
       "name": "business-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c644178f0f8cfcdbf00e08af912fb0ca7ed4dd21",
-      "mtime": "1657198756",
-      "size": "55050",
-      "md5": "d09d3516174af35eb9293df7a02b0d3d",
-      "crc32": "9f09e197",
-      "sha1": "973670c82b0ec80d49b37048d7c4563cd41bbe0d",
+      "btih": "39c590742b98a681d17f0299aae27fb86c23722e",
+      "mtime": "1657241049",
+      "size": "55897",
+      "md5": "62a622f00fa095f7f13b58ccccf61c56",
+      "crc32": "1d1bfb78",
+      "sha1": "4c84095267025523f6132bca3b29e31efb2a00bf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "business-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d63ef484ff5ca7bc83893e86f4bc6da",
+      "md5": "9ad65a1cf734312ceb2308dd033bf211",
       "summation": "md5"
     },
     {
       "name": "business-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657198624",
-      "size": "311296",
-      "md5": "379b050265ab9d3c080f3c13a7b33193",
-      "crc32": "938fa15f",
-      "sha1": "5d5424bfcda0f391dfa2ab1bf6b5f76071aa4db0",
+      "mtime": "1657240917",
+      "size": "315392",
+      "md5": "3475f3230a305829e7716b47f3477744",
+      "crc32": "ffeb19aa",
+      "sha1": "11bb1473e69bcd5693339ed6a46020486e360615",
       "format": "Metadata"
     },
     {
@@ -2720,9 +2762,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 259,
-  "item_last_updated": 1657198756,
-  "item_size": 23929779,
+  "files_count": 263,
+  "item_last_updated": 1657241049,
+  "item_size": 24282225,
   "metadata": {
     "identifier": "business-2022",
     "collection": [
@@ -2739,10 +2781,10 @@
     "publicdate": "2022-06-19 23:23:29",
     "addeddate": "2022-06-19 23:23:29"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 795895223,
+  "server": "ia601405.us.archive.org",
+  "uniq": 2084476211,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

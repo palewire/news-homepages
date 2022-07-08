@@ -1,5 +1,5 @@
 {
-  "created": 1657239775,
+  "created": 1657282339,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/14/items/ledevoir-2022",
@@ -982,31 +982,73 @@
       "sha1": "f150dabb4067254b26dbe84da059df86cecc1d46"
     },
     {
+      "name": "ledevoir-2022-07-07T22:01:06.254923-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657245670",
+      "size": "42806",
+      "md5": "5c371d5d465c682a426328e2b2fe2e5d",
+      "crc32": "c427f317",
+      "sha1": "5dcc731ddd75e2650adeb8fc45fd376d48c7d590",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-07-07T22:01:06.254923-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657245672",
+      "size": "119053",
+      "md5": "45ba38598c6c22ab669190d2b0bbaafd",
+      "crc32": "4972a9d1",
+      "sha1": "952decc2189e8f4f1f68437a02a90b85271df90b",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-07-07T22:01:06.254923-04:00.jpg",
+      "source": "original",
+      "mtime": "1657245668",
+      "size": "269977",
+      "md5": "08cf23536a8cfcb7378febd4d3492eed",
+      "crc32": "667043d0",
+      "sha1": "cc73f79193ff3c4668dc0d60b60e45fa98ea5061",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledevoir-2022-07-07T22:01:06.254923-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledevoir-2022-07-07T22:01:06.254923-04:00.jpg",
+      "mtime": "1657245734",
+      "size": "9317",
+      "md5": "dcd5d77cf31b3237adadd4b5281793db",
+      "crc32": "a3f54404",
+      "sha1": "faa4ab8bc601bb50f4ff798805edf3d6fae88c8b"
+    },
+    {
       "name": "ledevoir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "028908eec09fad5b7b140764cbc0baf733933af5",
-      "mtime": "1657213061",
-      "size": "21118",
-      "md5": "8eb811c0fe3a04b7ff8ff76267c0f45c",
-      "crc32": "cba0258e",
-      "sha1": "b2c1bc73bd103d38e227120345493ae1e745e481",
+      "btih": "5d6ff8fb841d26122729d6df02ed51045af40041",
+      "mtime": "1657245746",
+      "size": "21968",
+      "md5": "176d3ac5e3413de1fb67428b4d965a5c",
+      "crc32": "be71713f",
+      "sha1": "d0b6ef9f799f661094d452c645ca9a9f49c9fdcf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledevoir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de1dee298a6b147d15b09ae359e60209",
+      "md5": "a422091f5ae944a353f74c2f7874acc0",
       "summation": "md5"
     },
     {
       "name": "ledevoir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657212916",
-      "size": "131072",
-      "md5": "9471c85e69100952f20c07f34828b032",
-      "crc32": "35b3d93e",
-      "sha1": "fd411fdfed15ae5700165779c95e181a874e98c7",
+      "mtime": "1657245675",
+      "size": "135168",
+      "md5": "d3b7ad7331618006006fbfe6b08ea9dc",
+      "crc32": "aa258e0b",
+      "sha1": "79237076d809fc2b66e59023032ce8410199de80",
       "format": "Metadata"
     },
     {
@@ -1020,9 +1062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 97,
-  "item_last_updated": 1657213061,
-  "item_size": 10597347,
+  "files_count": 101,
+  "item_last_updated": 1657245746,
+  "item_size": 11043446,
   "ledevoir-2022": [
     {
       "text": "\n                                        Je m'abonne au Devoir\n                ",
@@ -1357,44 +1399,56 @@
       "url": "#"
     },
     {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                \u00abPour moi, on est dans une septi\u00e8me vague\u00bb de COVID-19, confirme Luc Boileau            \n    \n                            \n                                \n        Qu\u00e9bec fait \u00e9tat d'une hausse des hospitalisations et de 16 d\u00e9c\u00e8s suppl\u00e9mentaires attribu\u00e9s au coronavirus.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
-      "url": "/societe/730953/luc-boileau-fait-le-point-sur-la-covid-19-au-quebec"
+      "text": "8",
+      "url": "#"
     },
     {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Boris Johnson quitte le pouvoir            \n    \n                            \n                                \n        Us\u00e9 par les scandales, il a annonc\u00e9 sa d\u00e9mission comme chef du parti conservateur.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
-      "url": "/monde/730959/royaume-uni-boris-johnson-annoncerait-sa-demission-en-tant-que-chef-du-parti-conservateur"
-    },
-    {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Donald Trump sera-t-il candidat h\u00e2tif \u00e0 la pr\u00e9sidentielle de 2024?            \n    \n                            \n                                \n           Analyse\nPour d\u00e9jouer les poursuites et nuire \u00e0 ses successeurs, il pourrait entrer dans la course plus t\u00f4t que plus tard.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
-      "url": "/monde/etats-unis/730776/analyse-donald-trump-sera-t-il-candidat-hatif-a-la-presidentielle-de-2024"
-    },
-    {
-      "text": "Gaz naturel liqu\u00e9fi\u00e9",
-      "url": "/environnement/730899/exportation-de-gaz-naturel-porte-ouverte-a-l-exportation-de-gaz-naturel-dans-l-est-du-canada"
+      "text": "COVID-19",
+      "url": "/societe/sante/730953/luc-boileau-fait-le-point-sur-la-covid-19-au-quebec"
     },
     {
       "text": "\n                \n            ",
-      "url": "/environnement/730899/exportation-de-gaz-naturel-porte-ouverte-a-l-exportation-de-gaz-naturel-dans-l-est-du-canada"
+      "url": "/societe/sante/730953/luc-boileau-fait-le-point-sur-la-covid-19-au-quebec"
     },
     {
-      "text": "\n        \n            \n                Porte ouverte \u00e0 l'exportation de \u200bgaz naturel dans l\u2019est du Canada            \n    \n                                                        \n                    \n    ",
-      "url": "/environnement/730899/exportation-de-gaz-naturel-porte-ouverte-a-l-exportation-de-gaz-naturel-dans-l-est-du-canada"
+      "text": "\n        \n            \n                Qu\u00e9bec pr\u00e9voit une nouvelle campagne de vaccination \u00e0 la mi-ao\u00fbt            \n    \n                                                        \n                                \n        Il faut se pr\u00e9parer pour la rentr\u00e9e des classes, plaide Fran\u00e7ois Legault.    \n                    \n    ",
+      "url": "/societe/sante/730953/luc-boileau-fait-le-point-sur-la-covid-19-au-quebec"
     },
     {
-      "text": "Justice",
-      "url": "/societe/730896/justice-l-absolution-ou-la-prison-pour-simon-houle"
+      "text": "\n        \n            \n                Les conseils des experts pour affronter la septi\u00e8me vague            \n    \n                                                        \n                    \n    ",
+      "url": "/societe/sante/731310/coronavirus-les-conseils-des-experts-pour-affronter-la-septieme-vague"
+    },
+    {
+      "text": "\n                \n            \n                Le succ\u00e8s de Bixi cr\u00e9e des frustrations \u00e0 Montr\u00e9al            \n    \n                            \n                                \n        Des usagers du v\u00e9lo en libre-service se heurtent r\u00e9guli\u00e8rement \u00e0 des stations vides dans les quartiers centraux.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
+      "url": "/societe/731295/le-succes-de-bixi-cree-des-frustrations"
+    },
+    {
+      "text": "\n                            \n                    \n                    \t                \n                \n            \n                James Caan, l\u2019irr\u00e9sistible mauvais gar\u00e7on du cin\u00e9ma am\u00e9ricain, n\u2019est plus            \n    \n                            \n                                \n        Vedette de \u00abThe Godfather\u00bb et de \u00abMisery\u00bb, il fut l\u2019un des acteurs les plus populaires des ann\u00e9es\u00a01970.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
+      "url": "/culture/cinema/731085/l-acteur-james-caan-est-decede"
+    },
+    {
+      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Le Canadien de Montr\u00e9al choisit Juraj Slafkovsky au premier rang            \n    \n                            \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
+      "url": "/sports/730968/repechage-lnh-2022-canadien-de-montreal"
+    },
+    {
+      "text": "Guerre en Ukraine",
+      "url": "/monde/731103/les-occidentaux-veulent-defaire-la-russie-qu-ils-essaient-lance-poutine"
     },
     {
       "text": "\n                \n            ",
-      "url": "/societe/730896/justice-l-absolution-ou-la-prison-pour-simon-houle"
+      "url": "/monde/731103/les-occidentaux-veulent-defaire-la-russie-qu-ils-essaient-lance-poutine"
     },
     {
-      "text": "\n        \n            \n                L\u2019absolution ou la prison pour Simon Houle?            \n    \n                                                        \n                                \n        Des experts d\u00e9cortiquent la d\u00e9cision du juge Poliquin qui a absous un ing\u00e9nieur condamn\u00e9 pour agression sexuelle.    \n                    \n    ",
-      "url": "/societe/730896/justice-l-absolution-ou-la-prison-pour-simon-houle"
+      "text": "\n        \n            \n                Les Occidentaux veulent d\u00e9faire la Russie? \u00abQu\u2019ils essaient\u00bb, lance Poutine            \n    \n                                                        \n                    \n    ",
+      "url": "/monde/731103/les-occidentaux-veulent-defaire-la-russie-qu-ils-essaient-lance-poutine"
     },
     {
-      "text": "\n        \n            \n                \u00c9ditorial Un jugement indigne            \n    \n                                                        \n                    \n    ",
-      "url": "/opinion/editoriaux/730812/agression-sexuelle-un-jugement-indigne"
+      "text": "\n        \n            \n                Bombardements intenses dans l\u2019est de l\u2019Ukraine            \n    \n                                                        \n                    \n    ",
+      "url": "/monde/731016/bombardements-intenses-dans-l-est-de-l-ukraine"
+    },
+    {
+      "text": "\n        \n            \n                La Finlande amende ses lois pour renforcer sa fronti\u00e8re avec la Russie            \n    \n                                                        \n                    \n    ",
+      "url": "/monde/731058/la-finlande-amende-ses-lois-pour-renforcer-sa-frontiere-avec-la-russie"
     },
     {
       "text": "Opinion",
@@ -1425,40 +1479,76 @@
       "url": "/opinion/chroniques/730863/saine-correction-immobiliere"
     },
     {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Les \u00e9missions d\u2019arsenic de la fonderie Horne ne sont \u00abpas tol\u00e9rables\u00bb, dit le Dr\u00a0Boileau            \n    \n                            \n                                \n        Si rien n\u2019est fait, la population de Rouyn-Noranda pourrait d\u00e9velopper jusqu\u2019\u00e0 14 cancers du poumon de plus.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
-      "url": "/politique/quebec/730686/fonderie-horne-un-niveau-d-emissions-d-arsenic-pas-tolerable"
-    },
-    {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Sp\u00e9culation et manque de fonds menacent des logements sociaux sur la Rive-Sud            \n    \n                            \n                                \n        La patience des groupes communautaires est mise \u00e0 rude \u00e9preuve dans un secteur en plein boom immobilier.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
-      "url": "/societe/730737/speculation-et-manque-de-fonds-menacent-des-logements-sociaux-sur-la-rive-sud"
-    },
-    {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                La Cour supr\u00eame refuse d\u2019entendre une contestation de Pierre Karl P\u00e9ladeau            \n    \n                            \n                                \n        Les fr\u00e8res P\u00e9ladeau perdent leur dernier recours dans cette affaire concernant l\u2019h\u00e9ritage de leur p\u00e8re.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
-      "url": "/societe/731007/la-cour-supreme-refuse-d-entendre-une-contestation-de-pierre-karl-peladeau"
-    },
-    {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                La peine f\u00e9d\u00e9rale de Derek Chauvin pour le meurtre de George Floyd prononc\u00e9e aujourd'hui            \n    \n                            \n                                \n        Chauvin a accept\u00e9 une peine de 20 \u00e0 25\u00a0ans de prison, mais c\u2019est un juge de district qui prend la d\u00e9cision finale.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
+      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Le policier qui a tu\u00e9 George Floyd condamn\u00e9 \u00e0 21 ans de prison par la justice f\u00e9d\u00e9rale            \n    \n                            \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
       "url": "/monde/etats-unis/730962/meurtre-george-floyd-peine-derek-chauvin"
+    },
+    {
+      "text": "Justice",
+      "url": "/politique/731064/une-action-eclair-contre-la-decision-du-juge-poliquin"
+    },
+    {
+      "text": "\n                \n            ",
+      "url": "/politique/731064/une-action-eclair-contre-la-decision-du-juge-poliquin"
+    },
+    {
+      "text": "\n        \n            \n                Une \u00abaction \u00e9clair\u00bb contre la d\u00e9cision du juge Poliquin d\u2019absoudre un agresseur sexuel            \n    \n                                                        \n                    \n    ",
+      "url": "/politique/731064/une-action-eclair-contre-la-decision-du-juge-poliquin"
+    },
+    {
+      "text": "\n        \n            \n                L\u2019absolution ou la prison pour Simon Houle?            \n    \n                                                        \n                    \n    ",
+      "url": "/societe/730896/justice-l-absolution-ou-la-prison-pour-simon-houle"
+    },
+    {
+      "text": "\n        \n            \n                \u00c9ditorial Un jugement indigne            \n    \n                                                        \n                    \n    ",
+      "url": "/opinion/editoriaux/730812/agression-sexuelle-un-jugement-indigne"
+    },
+    {
+      "text": "D\u00e9part de Boris Johnson",
+      "url": "/monde/europe/730959/royaume-uni-boris-johnson-annoncerait-sa-demission-en-tant-que-chef-du-parti-conservateur"
+    },
+    {
+      "text": "\n                \n            ",
+      "url": "/monde/europe/730959/royaume-uni-boris-johnson-annoncerait-sa-demission-en-tant-que-chef-du-parti-conservateur"
+    },
+    {
+      "text": "\n        \n            \n                La chute de Boris Johnson            \n    \n                                                        \n                                \n        Il se r\u00eavait en politicien plus grand que nature, mais le premier ministre n\u2019a pas surv\u00e9cu \u00e0 une s\u00e9rie de scandales.    \n                    \n    ",
+      "url": "/monde/europe/730959/royaume-uni-boris-johnson-annoncerait-sa-demission-en-tant-que-chef-du-parti-conservateur"
+    },
+    {
+      "text": "\n        \n            \n                L\u2019\u00e9viction de Johnson n\u2019aurait pas d\u2019impact pour les n\u00e9gociations du libre-\u00e9change            \n    \n                                                        \n                    \n    ",
+      "url": "/economie/731355/l-eviction-de-johnson-n-aurait-pas-d-impact-pour-les-negociations-du-libre-echange"
+    },
+    {
+      "text": "\n                            \n                    \n                    \t                \n                \n            \n                La cimenterie de Port-Daniel multiplie les rejets de contaminants            \n    \n                            \n                                \n        Plus de 80 signalements \u00e0 Urgence-Environnement li\u00e9s \u00e0 l\u2019usine ont \u00e9t\u00e9 recens\u00e9s depuis 2017.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
+      "url": "/environnement/731121/la-cimenterie-de-port-daniel-multiplie-les-rejets-de-contaminants"
+    },
+    {
+      "text": "Course \u00e0 la chefferie du PCC",
+      "url": "/politique/731379/le-commissaire-aux-elections-federales-invite-a-se-pencher-sur-l-affaire-brown"
+    },
+    {
+      "text": "\n                \n            ",
+      "url": "/politique/731379/le-commissaire-aux-elections-federales-invite-a-se-pencher-sur-l-affaire-brown"
+    },
+    {
+      "text": "\n        \n            \n                Le commissaire aux \u00e9lections f\u00e9d\u00e9rales invit\u00e9 \u00e0 se pencher sur l\u2019affaire Brown            \n    \n                                                        \n                                \n        Des all\u00e9gations proviennent de l\u2019\u00e9quipe m\u00eame du candidat \u00e0 la direction du Parti conservateur.    \n                    \n    ",
+      "url": "/politique/731379/le-commissaire-aux-elections-federales-invite-a-se-pencher-sur-l-affaire-brown"
+    },
+    {
+      "text": "\n        \n            \n                Patrick Brown cherche un moyen de revenir dans la course \u00e0 la direction du PCC            \n    \n                                                        \n                    \n    ",
+      "url": "/politique/canada/730866/chefferie-du-pcc-charest-devra-redoubler-d-efforts-apres-l-expulsion-de-brown"
+    },
+    {
+      "text": "\n                \n            \n                Donald Trump sera-t-il candidat h\u00e2tif \u00e0 la pr\u00e9sidentielle de 2024?            \n    \n                            \n                                \n           Analyse\nPour d\u00e9jouer les poursuites et nuire \u00e0 ses successeurs, il pourrait entrer dans la course plus t\u00f4t que plus tard.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
+      "url": "/monde/etats-unis/730776/analyse-donald-trump-sera-t-il-candidat-hatif-a-la-presidentielle-de-2024"
     },
     {
       "text": "\n        \n                            \n                                            \n                                        \t        \n                    \n                \n            \n                Identit\u00e9 | Piloter sur le Saint-Laurent            \n    \n                                \n        Rencontre avec Simon Lebrun qui guide les navires \u00e9trangers et canadiens dans des sections difficiles du fleuve.    \n                    \n    ",
       "url": "/videos/730878/identite-piloter-sur-le-saint-laurent"
     },
     {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Bombardements intenses dans l\u2019est de l\u2019Ukraine            \n    \n                            \n                                \n        Les forces russes cherchent \u00e0 conqu\u00e9rir la province de Donetsk, pour occuper l\u2019int\u00e9gralit\u00e9 du Donbass.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
-      "url": "/monde/731016/bombardements-intenses-dans-l-est-de-l-ukraine"
-    },
-    {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Clap de fin pour \u00abLes jours heureux\u00bb            \n    \n                            \n                                \n        Chlo\u00e9 Robichaud boucle le tournage de son troisi\u00e8me long m\u00e9trage, o\u00f9 elle explore l\u2019univers de la musique classique.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
-      "url": "/culture/cinema/730881/cinema-clap-de-fin-pour-les-jours-heureux"
-    },
-    {
       "text": "\n                            \n                    \n                    \t                \n                \n            \n                \u00abLignes de fuite\u00bb,\u00a0une soir\u00e9e presque parfaite            \n    \n                            \n                                \n           Critique\n\u00abLignes de fuite\u00bb met en sc\u00e8ne des retrouvailles entre amis qui d\u00e9g\u00e9n\u00e8rent.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
       "url": "/culture/cinema/730893/critique-cinema-lignes-de-fuite-une-soiree-presque-parfaite"
-    },
-    {
-      "text": "\n                \n            \n                Acc\u00e8s aux garderies subventionn\u00e9es pour les demandeurs d\u2019asile: Qu\u00e9bec en appelle d\u2019une d\u00e9cision            \n    \n                            \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
-      "url": "/societe/730596/quebec-en-appelle-de-la-decision-qui-donnait-acces-aux-garderies-aux-demandeurs-d-asile"
     },
     {
       "text": "Festival international de Jazz de Montr\u00e9al",
@@ -1477,28 +1567,32 @@
       "url": "/culture/730926/robert-glasper-au-fijm-la-science-du-rap-au-service-du-jazz"
     },
     {
-      "text": "\n                            1\n                                                        \u00abPour moi, on est dans une septi\u00e8me vague\u00bb de COVID-19, confirme Luc Boileau\n                        ",
-      "url": "/societe/730953/luc-boileau-fait-le-point-sur-la-covid-19-au-quebec"
+      "text": "\n                \n            \n                Clap de fin pour \u00abLes jours heureux\u00bb            \n    \n                            \n                                \n        Chlo\u00e9 Robichaud boucle le tournage de son troisi\u00e8me long m\u00e9trage, o\u00f9 elle explore l\u2019univers de la musique classique.    \n                        \n        \n                    \n                \n                \n                            \n                \n                ",
+      "url": "/culture/cinema/730881/cinema-clap-de-fin-pour-les-jours-heureux"
     },
     {
-      "text": "\n                            2\n                                                        Une r\u00e9serve d\u2019or bleu cach\u00e9e sous terre \u00e0 Montr\u00e9al\n                        ",
+      "text": "\n                            1\n                                                        Qu\u00e9bec pr\u00e9voit une nouvelle campagne de vaccination \u00e0 la mi-ao\u00fbt\n                        ",
+      "url": "/societe/sante/730953/luc-boileau-fait-le-point-sur-la-covid-19-au-quebec"
+    },
+    {
+      "text": "\n                            2\n                                                        Les conseils des experts pour affronter la septi\u00e8me vague\n                        ",
+      "url": "/societe/sante/731310/coronavirus-les-conseils-des-experts-pour-affronter-la-septieme-vague"
+    },
+    {
+      "text": "\n                            3\n                                                        Une r\u00e9serve d\u2019or bleu cach\u00e9e sous terre \u00e0 Montr\u00e9al\n                        ",
       "url": "/environnement/730389/montreal-une-reserve-d-or-bleu-cachee-sous-terre-a-montreal"
     },
     {
-      "text": "\n                            3\n                                                        La Cour supr\u00eame refuse d\u2019entendre une contestation de Pierre Karl P\u00e9ladeau\n                        ",
-      "url": "/societe/731007/la-cour-supreme-refuse-d-entendre-une-contestation-de-pierre-karl-peladeau"
+      "text": "\n                            4\n                                                        Les Occidentaux veulent d\u00e9faire la Russie? \u00abQu\u2019ils essaient\u00bb, lance Poutine\n                        ",
+      "url": "/monde/731103/les-occidentaux-veulent-defaire-la-russie-qu-ils-essaient-lance-poutine"
     },
     {
-      "text": "\n                            4\n                                                            Chronique\n                                                        Du f\u00e9minisme carc\u00e9ral\n                        ",
-      "url": "/opinion/chroniques/730734/chronique-du-feminisme-carceral"
-    },
-    {
-      "text": "\n                            5\n                                                            Analyse\n                                                        Donald Trump sera-t-il candidat h\u00e2tif \u00e0 la pr\u00e9sidentielle de 2024?\n                        ",
-      "url": "/monde/etats-unis/730776/analyse-donald-trump-sera-t-il-candidat-hatif-a-la-presidentielle-de-2024"
+      "text": "\n                            5\n                                                        James Caan, l\u2019irr\u00e9sistible mauvais gar\u00e7on du cin\u00e9ma am\u00e9ricain, n\u2019est plus\n                        ",
+      "url": "/culture/cinema/731085/l-acteur-james-caan-est-decede"
     },
     {
       "text": "\n                    \t\t\t\t\t\t\n                    \t\t\t\t\t    ",
-      "url": "https://www.ledevoir.com/cahier-plaisirs?utm_source=autopromo&utm_medium=site_web&utm_campaign=plaisirs&utm_term=big_box_GIF&utm_content=Voyage_1"
+      "url": "https://www.ledevoir.com/cahier-plaisirs?utm_source=autopromo&utm_medium=site_web&utm_campaign=plaisirs&utm_term=big_box_statique&utm_content=gastronomie"
     },
     {
       "text": "\n                \n            \n                Les v\u00e9los-cargos \u00e9lectriques \u00e0 l\u2019assaut de Montr\u00e9al            \n    \n                                                        \n                                \n        Si 260\u00a0000 colis ont \u00e9t\u00e9 livr\u00e9s sans \u00e9mission de carbone en 2021, la Ville veut hausser ce total \u00e0 500\u00a0000 d\u2019ici 2023.    \n                                        \n                    Lire la suite\n                \n            \n        \n                \n                ",
@@ -1549,8 +1643,8 @@
       "url": "/politique/730752/ottawa-doit-doit-mettre-ses-culottes-pour-remettre-au-pas-le-crtc-dit-la-ministre-roy"
     },
     {
-      "text": "\n                \n            \n                Patrick Brown cherche un moyen de revenir dans la course \u00e0 la direction du PCC            \n    \n                            \n                                \n        Le candidat ontarien a jug\u00e9 \u00ab\u00a0antid\u00e9mocratique\u00a0\u00bb sa disqualification de la course par le parti.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
-      "url": "/politique/canada/730866/chefferie-du-pcc-charest-devra-redoubler-d-efforts-apres-l-expulsion-de-brown"
+      "text": "\n                \n            \n                Les \u00e9missions d\u2019arsenic de la fonderie Horne ne sont \u00abpas tol\u00e9rables\u00bb, dit le Dr\u00a0Boileau            \n    \n                            \n                                \n        Si rien n\u2019est fait, la population de Rouyn-Noranda pourrait d\u00e9velopper jusqu\u2019\u00e0 14 cancers du poumon de plus.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
+      "url": "/politique/quebec/730686/fonderie-horne-un-niveau-d-emissions-d-arsenic-pas-tolerable"
     },
     {
       "text": "\n                            \n                    \n                    \t                \n                \n            \n                Jolin-Barrette choqu\u00e9 par l\u2019absolution d\u2019un agresseur sexuel            \n    \n                            \n                                \n        Le ministre de la Justice souligne l\u2019importance de r\u00e9tablir la confiance des victimes dans le syst\u00e8me judiciaire.    \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
@@ -1593,6 +1687,10 @@
       "url": "/culture/theatre"
     },
     {
+      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Ottawa press\u00e9 d\u2019agir contre la contrefa\u00e7on d\u2019art autochtone            \n    \n                            \n                                \n        Un flot de contrefa\u00e7ons produites en Asie et en Europe de l\u2019Est exploite la culture autochtone, d\u00e9plorent les artistes.    \n                        \n        \n                    \n                                    \n                        13 h 16                    \n                \n                \n                            \n                \n                ",
+      "url": "/culture/731067/ottawa-presse-d-agir-contre-la-contrefacon-d-art-autochtone"
+    },
+    {
       "text": "\n                            \n                    \n                    \t                \n                \n            \n                Gab Paquet, ce grand s\u00e9ducteur            \n    \n                            \n                                \n        Le ph\u00e9nom\u00e8ne pop \u00ab\u00e9rotico-spirituel\u00bb occupera la sc\u00e8ne samedi au Festival d\u2019\u00e9t\u00e9 de Qu\u00e9bec.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/culture/musique/730872/festival-d-ete-de-quebec-gab-paquet-ce-grand-seducteur"
     },
@@ -1601,16 +1699,12 @@
       "url": "/culture/730932/barka-joyeux-bordel"
     },
     {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Gilles Carignan nomm\u00e9 chef \u00e0 l\u2019information \u00e0 Qu\u00e9bec            \n    \n                            \n                                \n        Il remplace Caroline Gaudreault, qui a d\u00e9missionn\u00e9 apr\u00e8s les r\u00e9v\u00e9lations de climat de travail \u00abtoxique\u00bb dans la station.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
+      "text": "\n                \n            \n                Gilles Carignan nomm\u00e9 chef \u00e0 l\u2019information \u00e0 Qu\u00e9bec            \n    \n                            \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/culture/medias/730641/gilles-carignan-nomme-chef-a-l-information-de-radio-canada-a-quebec"
     },
     {
       "text": "\n                \n            \n                Julien Lacroix annonce un retour sur sc\u00e8ne            \n    \n                            \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/culture/730353/julien-lacroix-annonce-un-retour-sur-scene"
-    },
-    {
-      "text": "\n                \n            \n                Le \u00abChief\u00bb qu\u2019on veut suivre            \n    \n                            \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
-      "url": "/culture/musique/730482/critique-concert-le-chief-qu-on-veut-suivre"
     },
     {
       "text": "Opinion",
@@ -2297,6 +2391,10 @@
       "url": "/environnement"
     },
     {
+      "text": "\n                            \n                    \n                    \t        \n                    \n                \n            \n                Porte ouverte \u00e0 l'exportation de \u200bgaz naturel dans l\u2019est du Canada            \n    \n                            \n                                \n        Le gouvernement Trudeau est favorable \u00e0 de nouveaux projets qui s\u2019inscriraient dans la \u00ab\u00a0transition \u00e9nerg\u00e9tique\u00a0\u00bb.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
+      "url": "/environnement/730899/exportation-de-gaz-naturel-porte-ouverte-a-l-exportation-de-gaz-naturel-dans-l-est-du-canada"
+    },
+    {
       "text": "\n                            \n                    \n                    \t                \n                \n            \n                Y a-t-il suffisamment de ressources\u00a0sur la plan\u00e8te pour \u00e9lectrifier les transports?            \n    \n                            \n                                \n        Si la production de lithium restait au niveau de 2020, il y en aurait assez pour 1345 ans.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/environnement/730506/les-ressources-minieres-sont-elles-illimitees-pour-produire-des-vehicules-electriques"
     },
@@ -2305,16 +2403,12 @@
       "url": "/environnement/730389/montreal-une-reserve-d-or-bleu-cachee-sous-terre-a-montreal"
     },
     {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Une deuxi\u00e8me baleine noire emp\u00eatr\u00e9e aper\u00e7ue dans le golfe du Saint-Laurent            \n    \n                            \n                                \n        L\u2019esp\u00e8ce menac\u00e9e fr\u00e9quente plus que jamais le large de la Gasp\u00e9sie et du Nouveau-Brunswick.    \n                        \n        \n                    \n                                    \n                        5 juillet 2022                    \n                \n                \n                            \n                \n                ",
+      "text": "\n                \n            \n                Une deuxi\u00e8me baleine noire emp\u00eatr\u00e9e aper\u00e7ue dans le golfe du Saint-Laurent            \n    \n                            \n                        \n        \n                    \n                                    \n                        5 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/environnement/730242/une-deuxieme-baleine-noire-empetree-apercue-dans-le-golfe-du-saint-laurent"
     },
     {
       "text": "\n                \n            \n                Le f\u00e9d\u00e9ral se dit pr\u00e9occup\u00e9 par la tonte au \u00abChamp des monarques\u00bb            \n    \n                            \n                        \n        \n                    \n                                    \n                        5 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/environnement/730311/le-federal-se-dit-preoccupe-des-coupes-effectuees-au-champ-des-monarques"
-    },
-    {
-      "text": "\n                \n            \n                Des groupes \u00e9cologistes d\u00e9noncent la tonte du \u00abChamp des monarques\u00bb            \n    \n                            \n                        \n        \n                    \n                                    \n                        5 juillet 2022                    \n                \n                \n                            \n                \n                ",
-      "url": "/environnement/729990/environnement-des-groupes-ecologistes-denoncent-la-tonte-du-champ-des-monarques"
     },
     {
       "text": "Soci\u00e9t\u00e9",
@@ -2349,24 +2443,24 @@
       "url": "/societe/transports-urbanisme"
     },
     {
+      "text": "\n                            \n                    \n                    \t                \n                \n            \n                La Cour supr\u00eame refuse d\u2019entendre une contestation de Pierre Karl P\u00e9ladeau            \n    \n                            \n                                \n        Les fr\u00e8res P\u00e9ladeau perdent leur dernier recours dans cette affaire concernant l\u2019h\u00e9ritage de leur p\u00e8re.    \n                        \n        \n                    \n                                    \n                        12 h 13                    \n                \n                \n                            \n                \n                ",
+      "url": "/societe/731007/la-cour-supreme-refuse-d-entendre-une-contestation-de-pierre-karl-peladeau"
+    },
+    {
       "text": "\n                            \n                    \n                    \t        \n                    \n                \n            \n                La COVID-19 a infect\u00e9 65\u00a0% des jeunes adultes au Canada            \n    \n                            \n                                \n        Environ 100\u00a0000 cas d\u2019infection par jour touchent les Canadiens depuis le 15\u00a0d\u00e9cembre.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/societe/sante/730578/omicron-a-infecte-65-des-jeunes-adultes-au-pays"
     },
     {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                La dignit\u00e9 de plusieurs \u00e9l\u00e8ves-athl\u00e8tes compromise \u00e0 l\u2019\u00e9cole St-Laurent            \n    \n                            \n                                \n        Un rapport rel\u00e8ve d\u2019\u00abimportantes lacunes\u00bb dans le programme dont trois entra\u00eeneurs ont \u00e9t\u00e9 arr\u00eat\u00e9s pour crimes sexuels.    \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
+      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Acc\u00e8s aux garderies subventionn\u00e9es pour les demandeurs d\u2019asile: Qu\u00e9bec en appelle d\u2019une d\u00e9cision            \n    \n                            \n                                \n        L'annonce suscite l\u2019ire d\u2019organismes mobilis\u00e9s pour que les familles vis\u00e9es puissent r\u00e9cup\u00e9rer ce droit.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
+      "url": "/societe/730596/quebec-en-appelle-de-la-decision-qui-donnait-acces-aux-garderies-aux-demandeurs-d-asile"
+    },
+    {
+      "text": "\n                \n            \n                Sp\u00e9culation et manque de fonds menacent des logements sociaux sur la Rive-Sud            \n    \n                            \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
+      "url": "/societe/730737/speculation-et-manque-de-fonds-menacent-des-logements-sociaux-sur-la-rive-sud"
+    },
+    {
+      "text": "\n                \n            \n                La dignit\u00e9 de plusieurs \u00e9l\u00e8ves-athl\u00e8tes compromise \u00e0 l\u2019\u00e9cole St-Laurent            \n    \n                            \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/societe/730632/la-dignite-de-plusieurs-eleves-athletes-compromise-a-l-ecole-st-laurent"
-    },
-    {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Arsenic dans l\u2019air \u00e0 Rouyn-Noranda\u00a0: jusqu\u2019\u00e0 14 cancers de plus avec le statu quo            \n    \n                            \n                                \n        Plus la diminution sera rapide et importante, plus il y aura un gain pour la sant\u00e9 publique selon l\u2019INSPQ.    \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
-      "url": "/societe/730593/arsenic-dans-l-air-a-rouyn-noranda-jusqu-a-14-cancers-de-plus-avec-le-statu-quo"
-    },
-    {
-      "text": "\n                \n            \n                Les traitements s\u2019av\u00e8rent efficaces contre la maladie de Lyme            \n    \n                            \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
-      "url": "/societe/science/730443/sante-les-traitements-s-averent-efficaces-contre-la-maladie-de-lyme"
-    },
-    {
-      "text": "\n                \n            \n                Une vague de COVID-19 qui passe sous silence            \n    \n                            \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
-      "url": "/societe/730359/une-vague-de-covid-19-qui-passe-sous-silence"
     },
     {
       "text": "Monde",
@@ -2401,24 +2495,24 @@
       "url": "/conflit-ukraine"
     },
     {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                L\u2019\u00e9vacuation de Sloviansk se poursuit en Ukraine            \n    \n                            \n                                \n        Les forces russes tentent de conqu\u00e9rir la totalit\u00e9 du Donbass, une priorit\u00e9 apr\u00e8s quatre mois et demi de conflit.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
+      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Ghislaine Maxwell fait appel de sa condamnation \u00e0 20 ans de prison pour trafic sexuel de mineures            \n    \n                            \n                                \n        Le document ne d\u00e9taille pas les arguments de ses avocats    \n                        \n        \n                    \n                                    \n                        19 h 18                    \n                \n                \n                            \n                \n                ",
+      "url": "/monde/etats-unis/731313/ghislaine-maxwell-fait-appel-de-sa-condamnation-a-20-ans-de-prison-pour-trafic-sexuel-de-mineures"
+    },
+    {
+      "text": "\n                            \n                    \n                    \t                \n                \n            \n                L\u2019avortement interdit au Mississippi, au coeur de la volte-face de la Cour supr\u00eame            \n    \n                            \n                                \n        La seule clinique de l\u2019\u00c9tat \u00e0 en pratiquer recevait ses derni\u00e8res patientes jeudi.    \n                        \n        \n                    \n                                    \n                        17 h 34                    \n                \n                \n                            \n                \n                ",
+      "url": "/monde/etats-unis/731271/l-avortement-interdit-au-mississippi-au-coeur-de-la-volte-face-de-la-cour-supreme"
+    },
+    {
+      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Un candidat r\u00e9publicain s\u2019attaque \u00e0 des \u00ab\u00a0d\u00e9mocrates du KKK\u00a0\u00bb dans une vid\u00e9o            \n    \n                            \n                                \n        La vid\u00e9o promotionnelle virale du candidat Jerone Davison suscite bien des r\u00e9actions.    \n                        \n        \n                    \n                                    \n                        17 h 06                    \n                \n                \n                            \n                \n                ",
+      "url": "/monde/etats-unis/731226/etats-unis-un-candidat-republicain-s-attaque-a-des-democrates-du-kkk-dans-une-video"
+    },
+    {
+      "text": "\n                \n            \n                Musk affirme \u00ab\u00a0faire de son mieux pour combattre la crise de sous-population\u00a0\u00bb            \n    \n                            \n                        \n        \n                    \n                                    \n                        12 h 59                    \n                \n                \n                            \n                \n                ",
+      "url": "/monde/731055/musk-affirme-faire-de-son-mieux-pour-combattre-la-crise-de-sous-population"
+    },
+    {
+      "text": "\n                \n            \n                L\u2019\u00e9vacuation de Sloviansk se poursuit en Ukraine            \n    \n                            \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/monde/europe/730521/poursuite-de-l-evacuation-de-sloviansk-face-aux-avancees-russes"
-    },
-    {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Le tireur du 4\u00a0juillet a envisag\u00e9 une seconde attaque            \n    \n                            \n                                \n        Il a fait 7 morts et plus de 30 bless\u00e9s lors d\u2019un d\u00e9fil\u00e9 de la f\u00eate nationale en banlieue de Chicago.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
-      "url": "/monde/etats-unis/730803/le-tireur-du-4-juillet-a-envisage-une-seconde-attaque-pendant-sa-fuite"
-    },
-    {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Boris Johnson s\u2019accroche au pouvoir envers et contre tous            \n    \n                            \n                                \n        Une quarantaine de membres de son gouvernement ont annonc\u00e9 leur d\u00e9mission ces derni\u00e8res heures.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
-      "url": "/monde/europe/730587/accule-par-les-defections-boris-johnson-s-accroche-a-son-poste"
-    },
-    {
-      "text": "\n                \n            \n                Une attaque au couteau en Su\u00e8de fait un mort lors d\u2019un \u00e9v\u00e9nement politique            \n    \n                            \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
-      "url": "/monde/europe/730728/une-attaque-au-couteau-en-suede-fait-un-mort-lors-d-un-evenement-politique"
-    },
-    {
-      "text": "\n                \n            \n                La France veut renationaliser \u00e0 100% la compagnie d\u2019\u00e9lectricit\u00e9 EDF            \n    \n                            \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
-      "url": "/monde/europe/730659/la-france-veut-renationaliser-a-100-la-compagnie-d-electricite-edf"
     },
     {
       "text": "\u00c9conomie",
@@ -2433,6 +2527,10 @@
       "url": "/crise-du-logement"
     },
     {
+      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Le Canada se dirigerait vers une \u00abcourte\u00bb r\u00e9cession \u00abmod\u00e9r\u00e9e\u00bb            \n    \n                            \n                                \n        La Banque Royale dit s\u2019attendre \u00e0 ce que le taux de ch\u00f4mage atteigne 6,6% l\u2019an prochain.    \n                        \n        \n                    \n                                    \n                        18 h 49                    \n                \n                \n                            \n                \n                ",
+      "url": "/economie/731049/le-canada-se-dirigerait-vers-une-courte-recession-moderee-en-2023-selon-rbc"
+    },
+    {
       "text": "\n                            \n                    \n                    \t                \n                \n            \n                Le propri\u00e9taire de Domtar acquiert R\u00e9solu pour 2,7 milliards            \n    \n                            \n                                \n        La nouvelle filiale poursuivra ses activit\u00e9s \u00e0 Montr\u00e9al et sous la m\u00eame d\u00e9nomination.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/economie/730542/papier-excellence-acquiert-produits-forestiers-resolu"
     },
@@ -2441,16 +2539,12 @@
       "url": "/economie/730794/vols-retardes-air-canada-et-pearson-encore-champion-des-vols-retardes"
     },
     {
-      "text": "\n                            \n                    \n                    \t                \n                \n            \n                Le prix du p\u00e9trole poursuit sa chute            \n    \n                            \n                                \n        Les craintes qu\u2019une r\u00e9cession ne d\u00e9truise davantage la demande entra\u00eeneraient cette baisse.    \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
+      "text": "\n                \n            \n                Le prix du p\u00e9trole poursuit sa chute            \n    \n                            \n                        \n        \n                    \n                                    \n                        7 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/economie/730839/energie-fossile-le-prix-du-petrole-poursuit-sa-chute"
     },
     {
       "text": "\n                \n            \n                Le march\u00e9 immobilier se mod\u00e8re dans la grande r\u00e9gion de Montr\u00e9al            \n    \n                            \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
       "url": "/economie/730824/le-marche-immobilier-se-modere-dans-la-grande-region-de-montreal"
-    },
-    {
-      "text": "\n                \n            \n                Le petit abattoir commencera ses activit\u00e9s en ao\u00fbt            \n    \n                            \n                        \n        \n                    \n                                    \n                        6 juillet 2022                    \n                \n                \n                            \n                \n                ",
-      "url": "/economie/730395/agriculture-de-proximite-le-petit-abattoir-commencera-ses-activites-en-aout"
     },
     {
       "text": "Lire",
@@ -2973,44 +3067,44 @@
       "url": "/contenu-commandite/588822/quartier-general-vivre-a-griffintown-ouest"
     },
     {
-      "text": "\n                                                1\n                                                                                                \u00abPour moi, on est dans une septi\u00e8me vague\u00bb de COVID-19, confirme Luc Boileau\n                                            ",
-      "url": "/societe/730953/luc-boileau-fait-le-point-sur-la-covid-19-au-quebec"
+      "text": "\n                                                1\n                                                                                                Qu\u00e9bec pr\u00e9voit une nouvelle campagne de vaccination \u00e0 la mi-ao\u00fbt\n                                            ",
+      "url": "/societe/sante/730953/luc-boileau-fait-le-point-sur-la-covid-19-au-quebec"
     },
     {
-      "text": "\n                                                2\n                                                                                                Une r\u00e9serve d\u2019or bleu cach\u00e9e sous terre \u00e0 Montr\u00e9al\n                                            ",
+      "text": "\n                                                2\n                                                                                                Les conseils des experts pour affronter la septi\u00e8me vague\n                                            ",
+      "url": "/societe/sante/731310/coronavirus-les-conseils-des-experts-pour-affronter-la-septieme-vague"
+    },
+    {
+      "text": "\n                                                3\n                                                                                                Une r\u00e9serve d\u2019or bleu cach\u00e9e sous terre \u00e0 Montr\u00e9al\n                                            ",
       "url": "/environnement/730389/montreal-une-reserve-d-or-bleu-cachee-sous-terre-a-montreal"
     },
     {
-      "text": "\n                                                3\n                                                                                                La Cour supr\u00eame refuse d\u2019entendre une contestation de Pierre Karl P\u00e9ladeau\n                                            ",
-      "url": "/societe/731007/la-cour-supreme-refuse-d-entendre-une-contestation-de-pierre-karl-peladeau"
+      "text": "\n                                                4\n                                                                                                Les Occidentaux veulent d\u00e9faire la Russie? \u00abQu\u2019ils essaient\u00bb, lance Poutine\n                                            ",
+      "url": "/monde/731103/les-occidentaux-veulent-defaire-la-russie-qu-ils-essaient-lance-poutine"
     },
     {
-      "text": "\n                                                4\n                                                                                                    Chronique\n                                                                                                Du f\u00e9minisme carc\u00e9ral\n                                            ",
+      "text": "\n                                                5\n                                                                                                James Caan, l\u2019irr\u00e9sistible mauvais gar\u00e7on du cin\u00e9ma am\u00e9ricain, n\u2019est plus\n                                            ",
+      "url": "/culture/cinema/731085/l-acteur-james-caan-est-decede"
+    },
+    {
+      "text": "\n                                                6\n                                                                                                Le Canadien de Montr\u00e9al choisit Juraj Slafkovsky au premier rang\n                                            ",
+      "url": "/sports/730968/repechage-lnh-2022-canadien-de-montreal"
+    },
+    {
+      "text": "\n                                                7\n                                                                                                    Chronique\n                                                                                                Du f\u00e9minisme carc\u00e9ral\n                                            ",
       "url": "/opinion/chroniques/730734/chronique-du-feminisme-carceral"
     },
     {
-      "text": "\n                                                5\n                                                                                                    Analyse\n                                                                                                Donald Trump sera-t-il candidat h\u00e2tif \u00e0 la pr\u00e9sidentielle de 2024?\n                                            ",
-      "url": "/monde/etats-unis/730776/analyse-donald-trump-sera-t-il-candidat-hatif-a-la-presidentielle-de-2024"
+      "text": "\n                                                8\n                                                                                                Une vague de COVID-19 qui passe sous silence\n                                            ",
+      "url": "/societe/730359/une-vague-de-covid-19-qui-passe-sous-silence"
     },
     {
-      "text": "\n                                                6\n                                                                                                L\u2019absolution ou la prison pour Simon Houle?\n                                            ",
-      "url": "/societe/730896/justice-l-absolution-ou-la-prison-pour-simon-houle"
+      "text": "\n                                                9\n                                                                                                La Cour supr\u00eame refuse d\u2019entendre une contestation de Pierre Karl P\u00e9ladeau\n                                            ",
+      "url": "/societe/731007/la-cour-supreme-refuse-d-entendre-une-contestation-de-pierre-karl-peladeau"
     },
     {
-      "text": "\n                                                7\n                                                                                                Boris Johnson quitte le pouvoir\n                                            ",
-      "url": "/monde/730959/royaume-uni-boris-johnson-annoncerait-sa-demission-en-tant-que-chef-du-parti-conservateur"
-    },
-    {
-      "text": "\n                                                8\n                                                                                                Les v\u00e9los-cargos \u00e9lectriques \u00e0 l\u2019assaut de Montr\u00e9al\n                                            ",
-      "url": "/societe/transports-urbanisme/730827/les-velos-cargos-electriques-a-l-assaut-de-montreal"
-    },
-    {
-      "text": "\n                                                9\n                                                                                                Une r\u00e9cession semble maintenant in\u00e9vitable au Canada\n                                            ",
-      "url": "/economie/730380/economie-une-recession-semble-maintenant-inevitable-au-canada"
-    },
-    {
-      "text": "\n                                                10\n                                                                                                Porte ouverte \u00e0 l'exportation de \u200bgaz naturel dans l\u2019est du Canada\n                                            ",
-      "url": "/environnement/730899/exportation-de-gaz-naturel-porte-ouverte-a-l-exportation-de-gaz-naturel-dans-l-est-du-canada"
+      "text": "\n                                                10\n                                                                                                Identit\u00e9 | Piloter sur le Saint-Laurent\n                                            ",
+      "url": "/videos/730878/identite-piloter-sur-le-saint-laurent"
     },
     {
       "text": "Cahiers sp\u00e9ciaux",
@@ -3209,10 +3303,10 @@
     "publicdate": "2022-06-30 22:35:31",
     "addeddate": "2022-06-30 22:35:31"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 789326575,
+  "server": "ia802504.us.archive.org",
+  "uniq": 295243210,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1657239949,
+  "created": 1657282509,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/10/items/pucknews-2022",
@@ -2998,31 +2998,73 @@
       "sha1": "513f10dafc68c90613dcc8f50c9fb25df7b7231f"
     },
     {
+      "name": "pucknews-2022-07-07T23:12:36.925221-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657249961",
+      "size": "15233",
+      "md5": "052a556f93952ec060e8442fec144187",
+      "crc32": "ff343341",
+      "sha1": "2b3930eba22d047bc29bc89b5d172f43cce03587",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-07-07T23:12:36.925221-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657249964",
+      "size": "11850",
+      "md5": "ad18940d06dbf004ea58684804db771c",
+      "crc32": "0ec53271",
+      "sha1": "c7457144b64296dcdb2097553af6cbd21825cf3f",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-07-07T23:12:36.925221-04:00.jpg",
+      "source": "original",
+      "mtime": "1657249959",
+      "size": "160355",
+      "md5": "026d2b1f6f082827eef906efe635eba6",
+      "crc32": "f824df43",
+      "sha1": "a75a47341c08f1bdb990a89dfedef793e3cd0af9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-07-07T23:12:36.925221-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-07-07T23:12:36.925221-04:00.jpg",
+      "mtime": "1657250010",
+      "size": "8055",
+      "md5": "9595b3a00b087fed2425b6ab67910fbd",
+      "crc32": "ac5a9c11",
+      "sha1": "7a0674f862765082bed2d72864cc776e20fe1e21"
+    },
+    {
       "name": "pucknews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e0ea29a5421e5c8d79013890ece113ec39ea0fe",
-      "mtime": "1657211115",
-      "size": "61047",
-      "md5": "878e4d1685586bf5fff61d9bcbabafe0",
-      "crc32": "192e4b30",
-      "sha1": "933d0318aeaa602b293ac37f48029bee284fe0a1",
+      "btih": "1476de2372558182b7c2a37b9594e8bad65c2b30",
+      "mtime": "1657250014",
+      "size": "61896",
+      "md5": "0375fbb2812345ac7ac8db20303d5795",
+      "crc32": "c463f52e",
+      "sha1": "e340282d023c8a3079964be44593b1ae87917325",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pucknews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8fe46deb6aa3b5f48b1cac5ca7c2e693",
+      "md5": "e7c413a44ddba9a31e4c03cda02f6b1f",
       "summation": "md5"
     },
     {
       "name": "pucknews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657210995",
-      "size": "344064",
-      "md5": "df61ac95c4fa3b8a48bea2f660c3d6a7",
-      "crc32": "0c7a7239",
-      "sha1": "c4204592a26482123088d7979a869efa321035dd",
+      "mtime": "1657249968",
+      "size": "352256",
+      "md5": "25e89817eae29f68b2fd58b81025e116",
+      "crc32": "dc6cdcb0",
+      "sha1": "5afcad098a10ab4a50275a06ac37e4c91a1c8743",
       "format": "Metadata"
     },
     {
@@ -3036,9 +3078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 289,
-  "item_last_updated": 1657211115,
-  "item_size": 15121624,
+  "files_count": 293,
+  "item_last_updated": 1657250014,
+  "item_size": 15326158,
   "metadata": {
     "identifier": "pucknews-2022",
     "collection": [
@@ -3073,16 +3115,16 @@
       "url": "https://puck.news/category/washington/"
     },
     {
+      "text": "\n                      \n                      Matthew Belloni\n                    ",
+      "url": "https://puck.news/author/matthew-belloni/"
+    },
+    {
+      "text": "\n                      \n                      Tara Palmeri\n                    ",
+      "url": "https://puck.news/author/tara-palmeri/"
+    },
+    {
       "text": "\n                      \n                      Tina Nguyen\n                    ",
       "url": "https://puck.news/author/tina-nguyen/"
-    },
-    {
-      "text": "\n                      \n                      Dylan Byers\n                    ",
-      "url": "https://puck.news/author/dylan-byers/"
-    },
-    {
-      "text": "\n                      \n                      William D. Cohan\n                    ",
-      "url": "https://puck.news/author/william-cohan/"
     },
     {
       "text": "Join Puck",
@@ -3113,8 +3155,8 @@
       "url": "https://puck.news/subscribe/"
     },
     {
-      "text": "\n          \n            Who\u2019s Afraid of Ginni Thomas?\n          \n\n          \n            \n              \n                \n              \n            \n\n            \n              \n                                  \n                    \n                  \n                  \n                    Tina Nguyen\n                    \n                  \n                              \n\n              The SCOTUS conservative majority\u2019s unofficial First Lady has driven liberals berserk with her Trumpism, January 6th adjacency, and anti-Roe activism. It\u2019s enough to make some in this town wonder if her Facebook posts narrate her husband\u2019s internal monologue.\n              READ FULL STORY\n            \n          \n        ",
-      "url": "https://puck.news/whos-afraid-of-ginni-thomas/"
+      "text": "\n          \n            ICM Agents Are Lawyering Up\n          \n\n          \n            \n              \n                \n              \n            \n\n            \n              \n                                  \n                    \n                  \n                  \n                    Matthew Belloni\n                    \n                  \n                              \n\n              As CAA says goodbye to ICM agents in the wake of its $750 million acquisition, the situation has devolved to the point where several of the ousted ICM people have hired a top litigator. \n              READ FULL STORY\n            \n          \n        ",
+      "url": "https://puck.news/icm-agents-are-lawyering-up/"
     },
     {
       "text": "\n                  \n                    Eriq Gardner\n                                        \u2022\n                    July 5, 2022\n                  \n\n                  The Brangelina Ros\u00e9 Suit from Hell\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      A few weeks ago, at the height of the Johnny Depp trial, a legal world source reached out to turn my attention to another, perhaps even more litigious celebrity split. \u201cTake a look at Brad Pitt and Angelina Jolie,\u201d this person suggested. \u201cThe Depp stuff is child\u2019s play compared to that.\u201d Bold words, but after [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
@@ -3141,24 +3183,24 @@
       "url": "https://puck.news/category/wall-street/"
     },
     {
-      "text": "\n                  \n                    Julia Ioffe\n                                        \u2022\n                    July 5, 2022\n                  \n\n                  Europe Braces for Life After Biden\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      Last week was a big one in the world of foreign policy. It began with the Group of Seven meeting in the Bavarian Alps, during which President Joe Biden, along with other G7 leaders, announced a $600 billion global infrastructure initiative to counter China\u2019s controversial Belt and Road Initiative. (If you can get infrastructure done [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
-      "url": "https://puck.news/europe-braces-for-life-after-biden/"
+      "text": "\n                  \n                    Tara Palmeri\n                                        \u2022\n                    July 7, 2022\n                  \n\n                  The WaPo\u2019s Momentous Non-Bennet-Quake\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      One of the funny observations about life inside the imperial jewels of American journalism is just how much their cultures resemble official Washington. Perhaps this isn\u2019t a surprise, given that journalism, like government, is largely the province of people who went to elite schools, aren\u2019t financially obsessed, and presumably spent their formative years toiling in [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
+      "url": "https://puck.news/the-wapos-momentous-non-bennet-quake/"
     },
     {
       "text": "MORE WASHINGTON STORIES",
       "url": "https://puck.news/category/washington/"
     },
     {
+      "text": "\n          \n            Dylan Byers\n          \n          \u2022\n          July 6, 2022\n          Fast Times at Sun Valley High\n        ",
+      "url": "https://puck.news/fast-times-at-sun-valley-high/"
+    },
+    {
+      "text": "\n          \n            William D. Cohan\n          \n          \u2022\n          July 6, 2022\n          The Bull Case for Netflix\n        ",
+      "url": "https://puck.news/the-bull-case-for-netflix/"
+    },
+    {
       "text": "\n          \n            Julia Ioffe\n          \n          \u2022\n          July 5, 2022\n          Europe Braces for Life After Biden\n        ",
       "url": "https://puck.news/europe-braces-for-life-after-biden/"
-    },
-    {
-      "text": "\n          \n            Theodore Schleifer\n          \n          \u2022\n          July 5, 2022\n          The Passion of S.B.F. & The Next MacKenzie\n        ",
-      "url": "https://puck.news/the-passion-of-s-b-f-the-next-mackenzie/"
-    },
-    {
-      "text": "\n          \n            Tara Palmeri\n          \n          \u2022\n          June 30, 2022\n          WaPo Sweepstakes & The Cassidy Hutchinson Market\n        ",
-      "url": "https://puck.news/wapo-sweepstakes-the-cassidy-hutchinson-market/"
     },
     {
       "text": "listen To Our Podcasts",
@@ -3282,7 +3324,7 @@
     }
   ],
   "server": "ia902501.us.archive.org",
-  "uniq": 1287784270,
+  "uniq": 1574236013,
   "workable_servers": [
     "ia902501.us.archive.org",
     "ia802501.us.archive.org"

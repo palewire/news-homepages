@@ -1,5 +1,5 @@
 {
-  "created": 1657240051,
+  "created": 1657282637,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/theonion-2022",
@@ -4188,31 +4188,53 @@
       "sha1": "13346046c1359c55e7855cb5ed84f44a3eff92ed"
     },
     {
+      "name": "theonion-2022-07-07T22:55:46.345119-05:00.jpg",
+      "source": "original",
+      "mtime": "1657252547",
+      "size": "318546",
+      "md5": "9fe3bdda712bd93787de0a6c37737cba",
+      "crc32": "6020719e",
+      "sha1": "39f2ecd93dfdca5bf435426c6d3421ea4fcc9b01",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-07-07T22:55:46.345119-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-07-07T22:55:46.345119-05:00.jpg",
+      "mtime": "1657252627",
+      "size": "10388",
+      "md5": "3fc1c56cd70100e84c04f4011959d482",
+      "crc32": "e2d2fef6",
+      "sha1": "4f4351f27af0ee626420113fad34e7316728a915"
+    },
+    {
       "name": "theonion-2022_archive.torrent",
       "source": "metadata",
-      "btih": "33e915cd70cc8ec038a52b131820505e184bda47",
-      "mtime": "1657214096",
-      "size": "85248",
-      "md5": "9aa3db2bcc3165659cd26654babc1014",
-      "crc32": "f4181af5",
-      "sha1": "2139537a410e199a0f3a88d6bb9c5e5655904286",
+      "btih": "bce11ec20797b3e556d34c4a67bbddcb0bc468d2",
+      "mtime": "1657252632",
+      "size": "85673",
+      "md5": "29ab50a0329755ee70b29126b4e83904",
+      "crc32": "c891109f",
+      "sha1": "60fd11c9f3f3cc23195eff0809456c7494fa0327",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theonion-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "27eddaa505644f02c2b5473ab2d1dc6e",
+      "md5": "fae45321af38924d69b250134197c7b8",
       "summation": "md5"
     },
     {
       "name": "theonion-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657213910",
+      "mtime": "1657252551",
       "size": "471040",
-      "md5": "3ffc1ae0f007e49b2fb914cfe2b7e8dd",
-      "crc32": "6cf259c8",
-      "sha1": "35409d02ecf6c837c1e155c7a603256ba33e4df9",
+      "md5": "9ac50a9b955de7f84790d8b740959aa5",
+      "crc32": "523d7c0f",
+      "sha1": "cc616c3394f798eef696d30ddb57e925ef33260a",
       "format": "Metadata"
     },
     {
@@ -4226,9 +4248,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 402,
-  "item_last_updated": 1657214096,
-  "item_size": 34444881,
+  "files_count": 404,
+  "item_last_updated": 1657252632,
+  "item_size": 34774240,
   "metadata": {
     "identifier": "theonion-2022",
     "collection": [
@@ -4245,7 +4267,7 @@
     "publicdate": "2022-05-25 16:00:43",
     "addeddate": "2022-05-25 16:00:43"
   },
-  "server": "ia801502.us.archive.org",
+  "server": "ia601502.us.archive.org",
   "theonion-2022": [
     {
       "text": "Wings In Basket From 3 Chickens Who Were Friends",
@@ -4744,9 +4766,9 @@
       "url": "https://www.theonion.com/point-counterpoint-president-trump-went-too-far-on-jan-1849076212"
     }
   ],
-  "uniq": 121857214,
+  "uniq": 1409682784,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }
