@@ -1,5 +1,5 @@
 {
-  "created": 1657196669,
+  "created": 1657228728,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/4/items/usatoday-2022",
@@ -10344,31 +10344,157 @@
       "sha1": "0dda156b0543131fe4ab02f7824a0df8effcfe10"
     },
     {
+      "name": "usatoday-2022-07-07T12:12:50.539432-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657210374",
+      "size": "30087",
+      "md5": "c03e126ee63b5fc010c305af1e496d99",
+      "crc32": "a9f28eb3",
+      "sha1": "4018d2d669ebadebb575fe7fe9583303e60affb3",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-07T12:12:50.539432-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657210377",
+      "size": "36043",
+      "md5": "37230bdad3875508f3805b151ff35f93",
+      "crc32": "03be03bb",
+      "sha1": "a459aaaa1b597ead4fa003107c05115a5f55d7e7",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-07T12:12:50.539432-04:00.jpg",
+      "source": "original",
+      "mtime": "1657210372",
+      "size": "294124",
+      "md5": "41fae1f715fe3119d2421d332c06a581",
+      "crc32": "ff04f410",
+      "sha1": "df279412826573c733870a16cb87bfeab932e07a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-07-07T12:12:50.539432-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-07-07T12:12:50.539432-04:00.jpg",
+      "mtime": "1657210482",
+      "size": "9599",
+      "md5": "b6a688386c60f5cd075a1d183a1c0675",
+      "crc32": "7b9210b2",
+      "sha1": "7109c751b62eb412a8f2f67a72ae216047a2cf46"
+    },
+    {
+      "name": "usatoday-2022-07-07T13:03:47.904585-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657213432",
+      "size": "31335",
+      "md5": "132e095777496b554c67eba968fe2a7c",
+      "crc32": "b5cb78b5",
+      "sha1": "ea749da3699cb288cd59597ff6f1f3aa53e2125f",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-07T13:03:47.904585-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657213435",
+      "size": "39506",
+      "md5": "fd7440f1a655c53f596a986c70b7fd86",
+      "crc32": "88afc869",
+      "sha1": "279cfa7ed4994d97dd3f2f428330ec8ad1bdc642",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-07T13:03:47.904585-04:00.jpg",
+      "source": "original",
+      "mtime": "1657213430",
+      "size": "307554",
+      "md5": "8df14d586bf43d778d86c2543acc6e10",
+      "crc32": "2a50a880",
+      "sha1": "a0856617b57365097d5d91538debad153379e990",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-07-07T13:03:47.904585-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-07-07T13:03:47.904585-04:00.jpg",
+      "mtime": "1657213778",
+      "size": "9589",
+      "md5": "fda063e411f1e1010fa63f0eb7866d32",
+      "crc32": "642bdf27",
+      "sha1": "1f06585a4abb97a4d311a543245291924ecf6f7b"
+    },
+    {
+      "name": "usatoday-2022-07-07T17:11:04.550634-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657228271",
+      "size": "30572",
+      "md5": "97be68bf83605408966d1e0769f498e8",
+      "crc32": "57622538",
+      "sha1": "b406d50123f616a794f4b7cb6742fde6a0a0381c",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-07T17:11:04.550634-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657228276",
+      "size": "21690",
+      "md5": "248907e117743c5ce349df5065780530",
+      "crc32": "3a09a450",
+      "sha1": "8721078ca02abac10df987de988c26d1ffd7b4ef",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-07T17:11:04.550634-04:00.jpg",
+      "source": "original",
+      "mtime": "1657228267",
+      "size": "306192",
+      "md5": "17966871afbb9f1bbcdf75abd188afe9",
+      "crc32": "23646c0e",
+      "sha1": "97aa0cd32308e042bbb361fb1936e96f66bf6f2f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-07-07T17:11:04.550634-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-07-07T17:11:04.550634-04:00.jpg",
+      "mtime": "1657228537",
+      "size": "9715",
+      "md5": "ce84c3585312afdb83f5939c3662cc9f",
+      "crc32": "a0cbd1fe",
+      "sha1": "b1a4264833c267671c9b3c65f2903b30f4350dc1"
+    },
+    {
       "name": "usatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af98702bdc7b1b53de20503a38808c6f15d25bf3",
-      "mtime": "1657166782",
-      "size": "208945",
-      "md5": "fb7dfd640f7dfc8d3a536004b5890b21",
-      "crc32": "4cdc811d",
-      "sha1": "31beafbdc4cf526cc07f5a4d8e074e3a961d0fff",
+      "btih": "405f8906f8de8cd7e24141d0c7f95fde1c7c1337",
+      "mtime": "1657228580",
+      "size": "211472",
+      "md5": "2db719f8db898a9ca2e812cdd3448420",
+      "crc32": "d4470a3a",
+      "sha1": "20eb4dc0c9188a962478ab47e7e897042ef9ab39",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "06af1d5ad2c3cca9cd1588c6f2f1e54b",
+      "md5": "47e16071b1fd2337a2d803b094c4bf72",
       "summation": "md5"
     },
     {
       "name": "usatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657166630",
-      "size": "1122304",
-      "md5": "5135e0a5640a16d93885eedbbce505f3",
-      "crc32": "f3514b4d",
-      "sha1": "1724bd2412ac8ccc195c3d0f39b6f8a2b264c4e6",
+      "mtime": "1657228427",
+      "size": "1138688",
+      "md5": "fe9934df4d93223f02a12366c69408a9",
+      "crc32": "278fe119",
+      "sha1": "5026cdbbd909cd09cd7bbc3906561164487f1ded",
       "format": "Metadata"
     },
     {
@@ -10382,9 +10508,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 987,
-  "item_last_updated": 1657166782,
-  "item_size": 104558893,
+  "files_count": 999,
+  "item_last_updated": 1657228580,
+  "item_size": 105703810,
   "metadata": {
     "identifier": "usatoday-2022",
     "collection": [
@@ -10402,801 +10528,7 @@
     "addeddate": "2022-03-23 12:05:23"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 5435580,
-  "usatoday-2022": [
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "Start the day smarter \u2600\ufe0f",
-      "url": "https://profile.usatoday.com/newsletters/daily-briefing/"
-    },
-    {
-      "text": "Abortion news",
-      "url": "https://www.usatoday.com/news/abortion/"
-    },
-    {
-      "text": "What you should know",
-      "url": "https://www.usatoday.com/story/travel/advice/2022/07/03/flight-canceled-what-to-do-if-stuck/7778597001/"
-    },
-    {
-      "text": "Take our heat risks quiz",
-      "url": "https://www.usatoday.com/storytelling/quiz/featured-news-quizzes/summer-safety-people-pets-quiz/"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.usatoday.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022MIDSUMMER&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.usatoday.com%2F"
-    },
-    {
-      "text": "News",
-      "url": "/news/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/entertainment/"
-    },
-    {
-      "text": "Life",
-      "url": "/life/"
-    },
-    {
-      "text": "Money",
-      "url": "/money/"
-    },
-    {
-      "text": "Tech",
-      "url": "/tech/"
-    },
-    {
-      "text": "Travel",
-      "url": "/travel/"
-    },
-    {
-      "text": "Opinion",
-      "url": "/opinion/"
-    },
-    {
-      "text": "",
-      "url": "/search/"
-    },
-    {
-      "text": "",
-      "url": "/weather/"
-    },
-    {
-      "text": "",
-      "url": "https://subscribe.usatoday.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022MIDSUMMER&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.usatoday.com%2F"
-    },
-    {
-      "text": "",
-      "url": "https://login.usatoday.com/USAT-GUP/authenticate/?success-url=https%3A%2F%2Fwww.usatoday.com%2F&cancel-url=https%3A%2F%2Fwww.usatoday.com%2F"
-    },
-    {
-      "text": "Highland Park suspect confessed to rampage, contemplated 2nd shooting: Updates",
-      "url": "/story/news/nation/2022/07/06/highland-park-parade-shooting-updates/7818463001/"
-    },
-    {
-      "text": "Minnesota mom drowns 3 kids in triple murder-suicide, police say",
-      "url": "/story/news/nation/2022/07/06/minnesota-mother-drowns-children/7820411001/"
-    },
-    {
-      "text": "Last Mississippi abortion clinic closes its doors as state ban takes effect Thursday",
-      "url": "/story/news/nation/2022/07/06/mississippi-abortion-ban-clinic-state-ban/7826582001/"
-    },
-    {
-      "text": " 'Cheer' star Jerry Harris sentenced to 12 years in prison for sex crimes",
-      "url": "/story/news/investigations/2022/07/06/netflix-cheer-jerry-harris-sentenced-federal-prison-sex-crimes/7808938001/"
-    },
-    {
-      "text": "Police arrest two men involved in Richmond, Va. July 4th shooting plot",
-      "url": "/story/news/nation/2022/07/06/planned-shooting-richmond-va-july-4-thwarted-two-men-arrested/7821139001/"
-    },
-    {
-      "text": "America failed child orphaned in Highland Park parade shootingRex Huppke\u00a0",
-      "url": "/story/opinion/columnist/2022/07/06/highland-park-shooting-orphan-toddler-aiden-mccarthy/7823967001/"
-    },
-    {
-      "text": "Brad Pitt says he has prosopagnosia. What is that, and what do experts say about it?",
-      "url": "/story/life/health-wellness/2022/07/06/brad-pitt-prosopagnosia-face-blindness/7788618001/"
-    },
-    {
-      "text": " 3 Michael Jackson songs were removed to 'move beyond'\u2026",
-      "url": "/story/entertainment/music/2022/07/06/michael-jackson-songs-removed-from-streaming-services-fake-vocals-claims/7825327001/"
-    },
-    {
-      "text": " Nipsey Hussle: Jury finds man guilty of first-degree\u2026",
-      "url": "/story/entertainment/celebrities/2022/07/06/nipsey-hussle-murder-trial-verdict/7823029001/"
-    },
-    {
-      "text": " NASA restores contact with $32.7M Capstone headed to the\u2026",
-      "url": "/story/tech/science/2022/07/06/nasa-loses-contact-capstone-moon-spacecraft/7818599001/"
-    },
-    {
-      "text": " Former White House counsel Pat Cipollone to testify at\u2026",
-      "url": "/story/news/politics/2022/07/06/house-jan-6-committee-pat-cipollone-testify/7821055001/"
-    },
-    {
-      "text": " Amazon Prime Day starts July 12\u2014shop the 40+ best early\u2026",
-      "url": "/story/money/reviewed/2022/07/06/amazon-prime-day-sale-deals-july-12-2022/7819128001/"
-    },
-    {
-      "text": " Wimbledon controversy: Doubles team halts match after\u2026",
-      "url": "/story/sports/tennis/2022/07/06/hawkeye-controversy-wimbledon-doubles-team-halts-play-after-line-call/7820717001/"
-    },
-    {
-      "text": " How to decipher confusing food labels at the grocery\u2026",
-      "url": "/story/life/food-dining/2022/07/06/what-sell-by-best-by-date-labels-food-really-mean/7827058001/"
-    },
-    {
-      "text": " Body pulled out of lake at SoFi Stadium, home of 2022\u2026",
-      "url": "/story/news/nation/2022/07/06/sofi-stadium-lake-body/7825628001/"
-    },
-    {
-      "text": " Rural Georgia monument that some call satanic damaged in\u2026",
-      "url": "/story/news/nation/2022/07/06/georgia-guidestones-explosion-police-say-monument-damaged-bombing/7823958001/"
-    },
-    {
-      "text": " Metallica 'blown away' by pivotal use of song in\u2026",
-      "url": "/story/entertainment/music/2022/07/06/stranger-things-metallica-master-puppets/7820723001/"
-    },
-    {
-      "text": " Hayden Panettiere opens about addiction, postpartum\u2026",
-      "url": "/story/entertainment/celebrities/2022/07/06/hayden-panettiere-addiction-postpartum-depression/7818825001/"
-    },
-    {
-      "text": " Joe Rogan says he's declined having Trump on his podcast\u2026",
-      "url": "/story/news/nation/2022/07/06/joe-rogan-donald-trump-podcast/7820879001/"
-    },
-    {
-      "text": " Title IX: Falling short at 50\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://www.usatoday.com/in-depth/news/investigations/2022/05/26/title-ix-falling-short-50-exposes-how-colleges-still-fail-women/9722521002/"
-    },
-    {
-      "text": " Community heroes wanted!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://acommunitythrives.mightycause.com/giving-events/act22/home?gps-source=BRLMSVCPDGXXACTH&utm_source=usatl&utm_medium=onsite-discover&utm_campaign=acth-bnm-l&utm_content=static&utm_term=act1"
-    },
-    {
-      "text": " Ukraine before and after the war\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
-      "url": "https://www.usatoday.com/in-depth/graphics/2022/03/16/ukraine-before-and-after-war-images-show-ukraines-devastated-residential-areas/9430530002/"
-    },
-    {
-      "text": "Kissinger: The world needs better leaders. Will they arrive in time? ",
-      "url": "/story/news/politics/2022/07/05/henry-kissinger-sees-painful-need-better-leaders-exclusive/7713226001/"
-    },
-    {
-      "text": "Free milkshake for proof of vasectomy ",
-      "url": "/videos/news/2022/07/07/just-had-vasectomy-hit-up-hot-dog-shop-sweet-reward/7827227001/"
-    },
-    {
-      "text": "Last Mississippi abortion clinic closes its doors\u2026",
-      "url": "/story/news/nation/2022/07/06/mississippi-abortion-ban-clinic-state-ban/7826582001/"
-    },
-    {
-      "text": "Abortion activists fight for control of state\u2026",
-      "url": "/story/news/nation/2022/07/02/abortion-rights-could-key-issue-2022-midterms-and-state-races/7775030001/"
-    },
-    {
-      "text": "What was the point of Phoebe Bridgers, Megan\u2026",
-      "url": "/story/life/health-wellness/2022/07/03/celebrities-support-abortion-rights-why-matters/7771488001/"
-    },
-    {
-      "text": "More in Abortion news",
-      "url": "/news/abortion/"
-    },
-    {
-      "text": "Baker Mayfield trade winners, losers: Who made\u2026 ",
-      "url": "/story/sports/nfl/2022/07/06/baker-mayfield-trade-winners-losers-browns-panthers/7824327001/"
-    },
-    {
-      "text": "Ultrarunner proposes to girlfriend after\u2026",
-      "url": "/story/sports/2022/07/06/ultrarunner-proposes-girlfriend-after-3-000-mile-east-coast-journey/7821449001/"
-    },
-    {
-      "text": "What are next moves for Big Ten, Pac-12 in\u2026",
-      "url": "/story/sports/ncaaf/2022/07/06/big-ten-pac-12-big-12-acc-sec-football-expansion/7820057001/"
-    },
-    {
-      "text": "Nick Kyrgios reaches Wimbledon semis, career\u2026",
-      "url": "/story/sports/columnist/dan-wolken/2022/07/06/nick-kyrgios-wimbledon-semifinals-rafael-nadal/7825429001/"
-    },
-    {
-      "text": "More in Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "Nicki Minaj's husband on house arrest for not\u2026 ",
-      "url": "/story/entertainment/celebrities/2022/07/06/nicki-minaj-husband-kenneth-petty-probation-not-registering-sex-offender/7827490001/"
-    },
-    {
-      "text": "Breaking down 'The Flash' actor Ezra Miller's\u2026",
-      "url": "/story/entertainment/celebrities/2022/07/05/ezra-miller-the-flash-grooming-allegations-arrests/7814860001/"
-    },
-    {
-      "text": "See Kim Kardashian and North West at Paris\u2026",
-      "url": "/picture-gallery/entertainment/celebrities/2022/07/05/paris-fashion-week-haute-couture-2022/7808455001/"
-    },
-    {
-      "text": "Man found guilty in Nipsey Hussle murder trial",
-      "url": "/videos/entertainment/2022/07/07/nipsey-hussle-murder-trial-verdict-jury-finds-eric-holder-guilty/7827195001/"
-    },
-    {
-      "text": "More in Entertainment",
-      "url": "/entertainment/"
-    },
-    {
-      "text": "Is sports betting a wise investment in a bear\u2026 ",
-      "url": "/story/sports/sports-betting/2022/07/06/stock-market-crypto-sports-betting/7759449001/"
-    },
-    {
-      "text": "1 big reason to pick another investment account\u2026",
-      "url": "/story/money/personalfinance/retirement/2022/07/06/401-k-without-enough-investment-options-alternatives/50457455/"
-    },
-    {
-      "text": "Target back-to-school plan: More discounts for\u2026",
-      "url": "/story/money/shopping/2022/07/06/target-discounts-school-students-teachers/7820250001/"
-    },
-    {
-      "text": "Biden hopes historic release from oil reserve\u2026",
-      "url": "/story/money/2022/03/31/strategic-petroleum-reserve-explained/7229717001/"
-    },
-    {
-      "text": "More in Money",
-      "url": "/money/"
-    },
-    {
-      "text": "Amazon Prime Day starts July 12\u2014shop the 40+ best\u2026 ",
-      "url": "/story/money/reviewed/2022/07/06/amazon-prime-day-sale-deals-july-12-2022/7819128001/"
-    },
-    {
-      "text": "The Nordstrom Anniversary pre-sale is live\u2014shop\u2026",
-      "url": "/story/money/reviewed/2022/07/06/nordstrom-anniversary-sale-2022-deals/7813721001/"
-    },
-    {
-      "text": "Shop Athleta's semi-annual sale and save up to\u2026",
-      "url": "/story/money/reviewed/2022/07/06/athleta-semi-annual-sale-save-up-60-leggings-swim-and-more/7820210001/"
-    },
-    {
-      "text": "HexClad's first line of cutlery is Gordon\u2026",
-      "url": "https://www.reviewed.com/cutlery/features/hexclad-and-gordon-ramsay-launch-japanese-damascus-steel-knives?utm_source=usat&utm_medium=referral&utm_campaign=collab"
-    },
-    {
-      "text": "More in Reviewed",
-      "url": "/tech/reviewedcom/"
-    },
-    {
-      "text": "Inside the investigation of Jerry Harris and\u2026 ",
-      "url": "/in-depth/news/investigations/2022/01/12/cheer-netflix-season-2-jerry-harris-charges/9188009002/"
-    },
-    {
-      "text": "'Life,' 'women' and abortion: Analyzing 2022\u2026",
-      "url": "/in-depth/news/investigations/2022/06/30/2022-election-rhetoric-supreme-court-roe-abortion/7762332001/"
-    },
-    {
-      "text": "Abortion help: Social media offers resources\u2026",
-      "url": "/story/news/investigations/2022/06/28/supreme-court-roe-abortion-help-funds-instagram-tiktok/7728639001/"
-    },
-    {
-      "text": "House panel: EPA should cancel popular Seresto\u2026",
-      "url": "/story/news/investigations/2022/06/15/congress-epa-must-cancel-seresto-collar-over-link-pet-deaths/7581966001/"
-    },
-    {
-      "text": "More in Investigations",
-      "url": "/news/investigations/"
-    },
-    {
-      "text": "Four family members were shot during the Highland\u2026 ",
-      "url": "/story/news/nation/2022/07/06/highland-park-shooting-survivors-kolpack-family/7809639001/"
-    },
-    {
-      "text": "What to expect when traveling this summer",
-      "url": "https://www.usatoday.com/web-stories/what-to-expect-when-traveling-this-summer/"
-    },
-    {
-      "text": "Minnesota mom drowns 3 kids in triple\u2026",
-      "url": "/story/news/nation/2022/07/06/minnesota-mother-drowns-children/7820411001/"
-    },
-    {
-      "text": "Report into Uvalde school shooting details police\u2026",
-      "url": "/story/news/2022/07/06/uvalde-school-shooting-report-police-missteps/7825989001/"
-    },
-    {
-      "text": "More in News",
-      "url": "/news/"
-    },
-    {
-      "text": "How to make cold brew coffee at home ",
-      "url": "https://www.usatoday.com/web-stories/how-to-make-cold-brew-coffee-at-home/"
-    },
-    {
-      "text": "How to decipher confusing food labels at the\u2026",
-      "url": "/story/life/food-dining/2022/07/06/what-sell-by-best-by-date-labels-food-really-mean/7827058001/"
-    },
-    {
-      "text": "Keeping It Together: A newsletter to help you cope",
-      "url": "/story/life/2020/04/10/staying-apart-together-newsletter-help-us-cope-coronavirus/2953992001/"
-    },
-    {
-      "text": "Pride celebration evolves and grows",
-      "url": "https://usatodayspecial-va.newsmemory.com/?special=LGBTQ&date=20220604"
-    },
-    {
-      "text": "More in Life",
-      "url": "/life/"
-    },
-    {
-      "text": "Companies that will cover abortion travel costs\u2026 ",
-      "url": "/story/money/business/2022/07/06/abortion-travel-costs-paid-employers-some-state-want-stop/7820446001/"
-    },
-    {
-      "text": "Man faces 30 years for PPP fraud",
-      "url": "/story/money/economy/2022/07/06/maine-resident-faces-30-years-prison-ppp-fraud/7821340001/"
-    },
-    {
-      "text": "Poll finds Americans less likely to use virtual\u2026",
-      "url": "/story/money/retail/2022/07/06/virtual-services-less-essential-post-covid/7812095001/"
-    },
-    {
-      "text": "New perks for Amazon Prime include one-year\u2026",
-      "url": "/story/tech/2022/07/06/amazon-prime-perks-grubhub/7808853001/"
-    },
-    {
-      "text": "More in Tech",
-      "url": "/tech/"
-    },
-    {
-      "text": "How long should you cook a chicken breast in an\u2026 ",
-      "url": "/story/experience/america/foodie/2022/07/06/airfry-chicken-breast-cook-time/7748948001/"
-    },
-    {
-      "text": "Are FAA staffing shortages causing flight delays\u2026",
-      "url": "/story/travel/airline-news/2022/07/05/faa-staff-shortage-airline-delays/7812112001/"
-    },
-    {
-      "text": "Norwegian is ending pre-cruising testing where\u2026",
-      "url": "/story/travel/cruises/2022/07/06/norwegian-cruise-covid-testing-end/7819328001/"
-    },
-    {
-      "text": "After a 2-year COVID pause, cruising is back \u2013\u2026",
-      "url": "/story/travel/cruises/2022/07/06/cruise-industry-news-post-covid/7548282001/"
-    },
-    {
-      "text": "More in Travel",
-      "url": "/travel/"
-    },
-    {
-      "text": "America failed child orphaned in Highland Park\u2026 ",
-      "url": "/story/opinion/columnist/2022/07/06/highland-park-shooting-orphan-toddler-aiden-mccarthy/7823967001/"
-    },
-    {
-      "text": "Covering mass shootings has become routine but\u2026",
-      "url": "/story/opinion/2022/07/06/mass-shooting-coverage-reporting/7815333001/"
-    },
-    {
-      "text": "The school choice state: Arizona puts parents\u2026",
-      "url": "/story/opinion/columnist/2022/07/06/republican-party-doug-ducey-arizona-school-choice/7776112001/"
-    },
-    {
-      "text": "R. Kelly deserves the prison sentence he got",
-      "url": "/story/opinion/contributors/2022/07/06/r-kelly-prison-sentence-human-trafficking/7777561001/"
-    },
-    {
-      "text": "More in Opinion",
-      "url": "/opinion/"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "",
-      "url": "https://popup.taboola.com/"
-    },
-    {
-      "text": "Doctors Perspective",
-      "url": "https://news.doctors-perspective.com/129935a6-9602-4103-ab3b-3a5ca3f37770?utm_source=taboola&utm_medium=referral&site=usatodaydemo&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDg01ko84Kgso2Fp8XPAQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDg01ko84Kgso2Fp8XPAQ"
-    },
-    {
-      "text": "Snoring? This New Invention Gives Hope To All Those Suffering from SnoringDoctors Perspective|",
-      "url": "https://news.doctors-perspective.com/129935a6-9602-4103-ab3b-3a5ca3f37770?utm_source=taboola&utm_medium=referral&site=usatodaydemo&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDg01ko84Kgso2Fp8XPAQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDg01ko84Kgso2Fp8XPAQ"
-    },
-    {
-      "text": "",
-      "url": "https://news.doctors-perspective.com/129935a6-9602-4103-ab3b-3a5ca3f37770?utm_source=taboola&utm_medium=referral&site=usatodaydemo&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDg01ko84Kgso2Fp8XPAQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDg01ko84Kgso2Fp8XPAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Online Bank Account | Search Ads",
-      "url": "https://myfirsttab.com/api/redirect-search?sid=21970&cid=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCB500ok8Ke5YuGrNmiAQ&subid=SUBID&title=High+Interest+Savings+Accounts+That+Could+Earn+You+A+Small+Fortune&campaign=18343729&site=usatodaydemo&gclid=3421452104&pubid=1168&utm_source=taboola&utm_medium=referral#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCB500ok8Ke5YuGrNmiAQ"
-    },
-    {
-      "text": "High Interest Savings Accounts That Could Earn You A Small FortuneOnline Bank Account | Search Ads|",
-      "url": "https://myfirsttab.com/api/redirect-search?sid=21970&cid=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCB500ok8Ke5YuGrNmiAQ&subid=SUBID&title=High+Interest+Savings+Accounts+That+Could+Earn+You+A+Small+Fortune&campaign=18343729&site=usatodaydemo&gclid=3421452104&pubid=1168&utm_source=taboola&utm_medium=referral#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCB500ok8Ke5YuGrNmiAQ"
-    },
-    {
-      "text": "",
-      "url": "https://myfirsttab.com/api/redirect-search?sid=21970&cid=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCB500ok8Ke5YuGrNmiAQ&subid=SUBID&title=High+Interest+Savings+Accounts+That+Could+Earn+You+A+Small+Fortune&campaign=18343729&site=usatodaydemo&gclid=3421452104&pubid=1168&utm_source=taboola&utm_medium=referral#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCB500ok8Ke5YuGrNmiAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Rex MD",
-      "url": "https://track.rexmd.com/81045041-eace-460f-8e36-6ea55407888c?site=usatodaydemo&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F82c8792fee24e2140f405f3d9ab44063.jpg&title=How+Guys+Are+Getting+Their+%E2%80%9CSpark%E2%80%9D+Back&c4=Desktop&campaign_id=18977002&c6=%7Bcampaign_title_id%7D&campaign_item_id=3430701380&utm_source=taboola&utm_medium=referral&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDm_lMo49i1-NeCz575AQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDm_lMo49i1-NeCz575AQ"
-    },
-    {
-      "text": "How Guys Are Getting Their \u201cSpark\u201d BackRex MD prescribes ED meds online, directly to you, up to 85% cheaper than the other guys. Speak to a board-certified physician & claim your starter pack today!Rex MD|",
-      "url": "https://track.rexmd.com/81045041-eace-460f-8e36-6ea55407888c?site=usatodaydemo&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F82c8792fee24e2140f405f3d9ab44063.jpg&title=How+Guys+Are+Getting+Their+%E2%80%9CSpark%E2%80%9D+Back&c4=Desktop&campaign_id=18977002&c6=%7Bcampaign_title_id%7D&campaign_item_id=3430701380&utm_source=taboola&utm_medium=referral&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDm_lMo49i1-NeCz575AQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDm_lMo49i1-NeCz575AQ"
-    },
-    {
-      "text": "",
-      "url": "https://track.rexmd.com/81045041-eace-460f-8e36-6ea55407888c?site=usatodaydemo&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F82c8792fee24e2140f405f3d9ab44063.jpg&title=How+Guys+Are+Getting+Their+%E2%80%9CSpark%E2%80%9D+Back&c4=Desktop&campaign_id=18977002&c6=%7Bcampaign_title_id%7D&campaign_item_id=3430701380&utm_source=taboola&utm_medium=referral&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDm_lMo49i1-NeCz575AQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDm_lMo49i1-NeCz575AQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Get Offer",
-      "url": "https://trc.taboola.com/usatodaydemo/log/3/click?pi=%2F&ri=54974645fb1232322e86a011541a0c9a&sd=v2_d510e863fc1af971efef8f00c766c83f_b022bf94-34a1-44dd-946f-562a17516931-tuct9bfdb44_1657165252_1657165252_CIi3jgYQkAkYkI38tZ0wIAEoATDhATiRpA5AsOUPSKTL2QNQ_wNYAGAAaPrm9JDJxumNNHAB&ui=b022bf94-34a1-44dd-946f-562a17516931-tuct9bfdb44&it=text&ii=~~V1~~-613709974112704364~~2pyLs-5r0eoUy5G-KyilB86E_P9GhqE5diigJf2_oFL6nH0OabNJtzzP-ddPU2nvK8Bm7FKD2NW1M1BCiW1-kuMDMqg65-jJbi04eURsbtqeHe1S9jo_X4timp5pCZhQIKiYZmEl3RMjJoyLcF9x2L7I5MK7B1QpyhF1wERuIDVo2Oq0RS2DNJwFtQu2bmIxurOygszEKnfPoVz8jrMGT7UUOYaedWlbOJYUWAL9t0Xd8lH21J5XpULLLsFrZXFBXGatlADV7C-sGoDyzvnQGo85jdU9w2fcW1Gnp3o1p2dCd3vT9BTqsc3eu3LaT0CduEjIn6p3dLxd4EFkAMUwlg&pt=home&li=rbox-h2v&sig=6ee51e677457f2013c0c75470b2e1eb8e8ccddac8a4f&redir=https%3A%2F%2Ftrack.rexmd.com%2F81045041-eace-460f-8e36-6ea55407888c%3Fsite%3Dusatodaydemo%26thumbnail%3Dhttp%253A%252F%252Fcdn.taboola.com%252Flibtrc%252Fstatic%252Fthumbnails%252F82c8792fee24e2140f405f3d9ab44063.jpg%26title%3DHow%2BGuys%2BAre%2BGetting%2BTheir%2B%25E2%2580%259CSpark%25E2%2580%259D%2BBack%26c4%3DDesktop%26campaign_id%3D18977002%26c6%3D%257Bcampaign_title_id%257D%26campaign_item_id%3D3430701380%26utm_source%3Dtaboola%26utm_medium%3Dreferral%26tblci%3DGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDm_lMo49i1-NeCz575AQ%23tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDm_lMo49i1-NeCz575AQ&vi=1657165252240&p=lifemd-rexmd-sc&r=75&tvi2=7830&lti=vignette-disabled-on-storage-issue_var&ppb=COUD&cpb=Ek8yMDIyMDYyOC00X2I2LVBSLTQ2MDI0LURFVi0xMTM2OTctcG9zc2libGUtdmlnbmV0dGUtaXNzdWVzLTlhZDMxYWExYWFjLVNOQVBTSE9UGI8BINnfGioZdXMudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMTAyMjY4gPqcoAFAkaQOSLDlD1Cky9kDWP8DYwjsLRCWPRgCZGMI1xYQ1R8YI2RjCOz__________wEQ7P__________ARgUZGMI6v__________ARDq__________8BGBZkYwjSAxDgBhgIZGMIlhQQmBwYGGRjCLUUEMIcGAlkYwiLLRCdPhgqZGMI5C4QtT4YCmRjCNkUEPkcGB1kYwj0FBCeHRgfZGMIpCcQgzUYL2R4AYAB____________AYgB____________AQ&cta=true"
-    },
-    {
-      "text": "Senior Deal Finder | Search Ads",
-      "url": "https://popularsearches.net/index.php?rgid=169258&gclid=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yC9qVYowN_Rjfn787k0#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yC9qVYowN_Rjfn787k0"
-    },
-    {
-      "text": "New Mobility Scooters Finally On SaleSenior Deal Finder | Search Ads|",
-      "url": "https://popularsearches.net/index.php?rgid=169258&gclid=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yC9qVYowN_Rjfn787k0#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yC9qVYowN_Rjfn787k0"
-    },
-    {
-      "text": "",
-      "url": "https://popularsearches.net/index.php?rgid=169258&gclid=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yC9qVYowN_Rjfn787k0#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yC9qVYowN_Rjfn787k0"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Easy Breathe CPAP Company",
-      "url": "https://blog.easybreathe.com/free-cpap-prescription-refill-with-airsense-11-auto-cpap/?utm_source=taboola&utm_medium=AirSense11CPAPRx_Product&utm_content=usatodaydemo_TB_AirSense11CPAPRx_Product&utm_keyword=usatodaydemo_TB_AirSense11CPAPRx_Product#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDVjkAokIuFzNOFqajGAQ"
-    },
-    {
-      "text": "Get the World's Smartest CPAP From the Safety of Your HomeEasy Breathe CPAP Company|",
-      "url": "https://blog.easybreathe.com/free-cpap-prescription-refill-with-airsense-11-auto-cpap/?utm_source=taboola&utm_medium=AirSense11CPAPRx_Product&utm_content=usatodaydemo_TB_AirSense11CPAPRx_Product&utm_keyword=usatodaydemo_TB_AirSense11CPAPRx_Product#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDVjkAokIuFzNOFqajGAQ"
-    },
-    {
-      "text": "",
-      "url": "https://blog.easybreathe.com/free-cpap-prescription-refill-with-airsense-11-auto-cpap/?utm_source=taboola&utm_medium=AirSense11CPAPRx_Product&utm_content=usatodaydemo_TB_AirSense11CPAPRx_Product&utm_keyword=usatodaydemo_TB_AirSense11CPAPRx_Product#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yDVjkAokIuFzNOFqajGAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "thepennyhoarder.com",
-      "url": "https://partners.thepennyhoarder.com/worried-about-inflation-prt/?aff_id=5&utm_source=taboola&utm_medium=paidnative&aff_sub3=worried-about-inflation&aff_unique1=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCPoj0ojrPW9fDh78XGAQ&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCPoj0ojrPW9fDh78XGAQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCPoj0ojrPW9fDh78XGAQ"
-    },
-    {
-      "text": "Worried About Inflation? Here Are 5 Ways to Pay Less For Everything (Legally)thepennyhoarder.com|",
-      "url": "https://partners.thepennyhoarder.com/worried-about-inflation-prt/?aff_id=5&utm_source=taboola&utm_medium=paidnative&aff_sub3=worried-about-inflation&aff_unique1=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCPoj0ojrPW9fDh78XGAQ&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCPoj0ojrPW9fDh78XGAQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCPoj0ojrPW9fDh78XGAQ"
-    },
-    {
-      "text": "",
-      "url": "https://partners.thepennyhoarder.com/worried-about-inflation-prt/?aff_id=5&utm_source=taboola&utm_medium=paidnative&aff_sub3=worried-about-inflation&aff_unique1=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCPoj0ojrPW9fDh78XGAQ&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCPoj0ojrPW9fDh78XGAQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCPoj0ojrPW9fDh78XGAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-original-05:Homepage Feed - Feed Redesign | Card 1:"
-    },
-    {
-      "text": "Particle for Men",
-      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=usatodaydemo#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCc4EkolZqTqpir8tz5AQ"
-    },
-    {
-      "text": "10 Reasons Men Are Jumping on This Groundbreaking Product that Fights Hair LossParticle for Men|",
-      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=usatodaydemo#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCc4EkolZqTqpir8tz5AQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.particleformen.com/list/10-reasons-why-men-are-jumping-on-particles-hair-revival-kit-video-tb/?utm_source=Prospecting-HAIRKIT-BROAD-USA-Desktop&utm_medium=Taboola&utm_term=usatodaydemo#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCc4EkolZqTqpir8tz5AQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-desktop-05:Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-desktop-05:Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Wolf &amp; Shepherd",
-      "url": "https://wolfandshepherd.com/collections/swiftknits/products/swiftknit-derby?variant=39392269533257&utm_source=taboola&utm_medium=native&utm_campaign=taboola_prosp_menshoed_broad_swiftknit&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCrhEEovJTJtePs7-OTAQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCrhEEovJTJtePs7-OTAQ"
-    },
-    {
-      "text": "Thousands of Men Love  these Simple Pair of Men's ShoesFormer Adidas designer transforms street shoes with hybrid high performance sneaker technology. Industry-leading comfort from shoes zoned to provide comfort, flexibility and stability.Wolf & Shepherd|",
-      "url": "https://wolfandshepherd.com/collections/swiftknits/products/swiftknit-derby?variant=39392269533257&utm_source=taboola&utm_medium=native&utm_campaign=taboola_prosp_menshoed_broad_swiftknit&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCrhEEovJTJtePs7-OTAQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCrhEEovJTJtePs7-OTAQ"
-    },
-    {
-      "text": "",
-      "url": "https://wolfandshepherd.com/collections/swiftknits/products/swiftknit-derby?variant=39392269533257&utm_source=taboola&utm_medium=native&utm_campaign=taboola_prosp_menshoed_broad_swiftknit&tblci=GiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCrhEEovJTJtePs7-OTAQ#tblciGiCxZxfqX1r2t_3nPrmn_YYvJAZE7Siq8fjiI3Z33Ga5-yCrhEEovJTJtePs7-OTAQ"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-desktop-05:Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Ad",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=usatodaydemo&utm_medium=referral&utm_content=thumbnails-feed-desktop-05:Homepage Feed - Feed Redesign | Card 2:"
-    },
-    {
-      "text": "Report into Uvalde school shooting details police missteps",
-      "url": "/story/news/2022/07/06/uvalde-school-shooting-report-police-missteps/7825989001/"
-    },
-    {
-      "text": "Covering mass shootings has become routine but not easier",
-      "url": "/story/opinion/2022/07/06/mass-shooting-coverage-reporting/7815333001/"
-    },
-    {
-      "text": "Who will be the permanent 'Jeopardy!' host? Here's everything we know.",
-      "url": "/story/entertainment/tv/2022/07/06/jeopardy-who-host-quiz-show-mayim-bialik-ken-jennings/7810883001/"
-    },
-    {
-      "text": "Four family members were shot during the Highland Park shooting. Here's how they survived",
-      "url": "/story/news/nation/2022/07/06/highland-park-shooting-survivors-kolpack-family/7809639001/"
-    },
-    {
-      "text": "Baker Mayfield trade winners, losers: Who made out best in QB deal?",
-      "url": "/story/sports/nfl/2022/07/06/baker-mayfield-trade-winners-losers-browns-panthers/7824327001/"
-    },
-    {
-      "text": "Interstate travel bans for abortions could be the next legal battle",
-      "url": "/story/money/business/2022/07/06/interstate-abortion-travel-bans/7748723001/"
-    },
-    {
-      "text": "The school choice state: Arizona puts parents in control of education",
-      "url": "/story/opinion/columnist/2022/07/06/republican-party-doug-ducey-arizona-school-choice/7776112001/"
-    },
-    {
-      "text": "How to talk to friends and family about climate denial",
-      "url": "/story/news/nation/2022/07/06/climate-change-cause-difficult-discussions/7821813001/"
-    },
-    {
-      "text": "",
-      "url": "https://profile.usatoday.com/newsletters/Daily-Briefing/"
-    },
-    {
-      "text": "",
-      "url": "https://cm.usatoday.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.usatoday.com%2F&marketName=usatoday&cta=Right-Rail"
-    },
-    {
-      "text": "About Us",
-      "url": "https://marketing.usatoday.com/about/"
-    },
-    {
-      "text": "Newsroom Staff",
-      "url": "/contact/staff/"
-    },
-    {
-      "text": "Ethical Principles",
-      "url": "https://cm.usatoday.com/ethical-conduct/"
-    },
-    {
-      "text": "Request a Correction",
-      "url": "/story/news/2022/01/02/corrections-clarifications-2022/8883854002/"
-    },
-    {
-      "text": "Press Releases",
-      "url": "/pr/"
-    },
-    {
-      "text": "Accessibility",
-      "url": "https://cm.usatoday.com/accessibility/"
-    },
-    {
-      "text": "Sitemap",
-      "url": "/sitemap/"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://cm.usatoday.com/terms/"
-    },
-    {
-      "text": "Your California Privacy Rights/Privacy Policy",
-      "url": "https://cm.usatoday.com/privacy-policy"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://cm.usatoday.com/privacy"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://help.usatoday.com/contact-us"
-    },
-    {
-      "text": "Help Center",
-      "url": "https://help.usatoday.com/"
-    },
-    {
-      "text": "My Account",
-      "url": "https://account.usatoday.com/"
-    },
-    {
-      "text": "Give Feedback",
-      "url": "https://cm.usatoday.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.usatoday.com%2F&marketName=usatoday&cta=Footer"
-    },
-    {
-      "text": "Get Home Delivery",
-      "url": "https://offers.usatoday.com/FOOTERLINK?opm_position=footer&opm_creative=link&opm_name=get-home-delivery&opm_id=65&keycode=w6azn"
-    },
-    {
-      "text": "eNewspaper",
-      "url": "https://user.usatoday.com/user/enewspaper"
-    },
-    {
-      "text": "USA TODAY Shop",
-      "url": "https://usatodaystore.com/p/usa-today?gps-source=BRNMSVCPLPXXSTOR&utm_source=usat&utm_medium=onsite-footer"
-    },
-    {
-      "text": "USA TODAY Print Editions",
-      "url": "https://onlinestore.usatoday.com/storefront.aspx?utm_source=usat&utm_medium=onsite-footer&utm_term=usatp"
-    },
-    {
-      "text": "Licensing & Reprints",
-      "url": "https://imagn.com/licensing-reprints/"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://marketing.usatoday.com/programmatic-advertising/"
-    },
-    {
-      "text": "Careers",
-      "url": "http://www.gannett.com/careers/"
-    },
-    {
-      "text": "Internships",
-      "url": "http://internships.usatoday.com/"
-    },
-    {
-      "text": "Support Local Business",
-      "url": "https://supportlocal.usatoday.com/"
-    },
-    {
-      "text": "News Tips",
-      "url": "https://newstips.usatoday.com/"
-    },
-    {
-      "text": "Submitting letters to the editor",
-      "url": "/story/opinion/2019/12/04/submit-letters-columns-and-comment-social/2608825001/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/pages/interactives/podcasts/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://profile.usatoday.com/newsletters/manage/"
-    },
-    {
-      "text": "Mobile Apps",
-      "url": "http://static.usatoday.com/mobile-apps/"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/usatoday"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://www.twitter.com/usatoday"
-    },
-    {
-      "text": "Instagram",
-      "url": "https://www.instagram.com/usatoday"
-    },
-    {
-      "text": "LinkedIn",
-      "url": "http://www.linkedin.com/company/usa-today"
-    },
-    {
-      "text": "Pinterest",
-      "url": "https://www.pinterest.com/usatoday/"
-    },
-    {
-      "text": "YouTube",
-      "url": "https://www.youtube.com/USATODAY"
-    },
-    {
-      "text": "Reddit",
-      "url": "https://www.reddit.com/user/usatoday"
-    },
-    {
-      "text": "Flipboard",
-      "url": "https://flipboard.com/@USAToday?utm_source=USAToday&utm_medium=follow&utm_campaign=publisher"
-    },
-    {
-      "text": "RSS",
-      "url": "https://feeds.feedblitz.com/usatoday-NewsTopStories"
-    },
-    {
-      "text": "10Best",
-      "url": "https://www.10best.com/"
-    },
-    {
-      "text": "Reviewed",
-      "url": "https://www.reviewed.com/"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://www.usatoday.com/jobs/"
-    },
-    {
-      "text": "Moonlighting",
-      "url": "https://www.gomnlt.com/gci/usa-today/?utm_source=usa-today&utm_medium=navweblink&utm_campaign=GCI"
-    },
-    {
-      "text": "Sports Weekly",
-      "url": "https://cm.usatoday.com/sportsweekly"
-    },
-    {
-      "text": "Studio Gannett",
-      "url": "https://www.studiogci.com/"
-    },
-    {
-      "text": "USA TODAY Sports+",
-      "url": "https://www.usatodaysportsplus.com/"
-    },
-    {
-      "text": "Classifieds",
-      "url": "http://classifieds.usatoday.com/"
-    },
-    {
-      "text": "Coupons",
-      "url": "https://coupons.usatoday.com/"
-    },
-    {
-      "text": "The City",
-      "url": "https://www.thecitypodcast.com/"
-    },
-    {
-      "text": "The Wall",
-      "url": "/border-wall/"
-    },
-    {
-      "text": "Storytellers",
-      "url": "https://www.storytellersproject.com/"
-    }
-  ],
+  "uniq": 1518908533,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"
