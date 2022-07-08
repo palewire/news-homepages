@@ -1,5 +1,5 @@
 {
-  "created": 1657282157,
+  "created": 1657295621,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/25/items/fivethirtyeight-2022",
@@ -2724,31 +2724,73 @@
       "sha1": "c4f929aa7fc15a7b97eb9b74b48a59c652fb4377"
     },
     {
+      "name": "fivethirtyeight-2022-07-08T08:40:11.901636-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657284015",
+      "size": "18691",
+      "md5": "e622010e2e0a1bde4248c277375360c7",
+      "crc32": "b7c12d39",
+      "sha1": "af7b2800a23b1689ae696ea0ad2ffd909abbdcd0",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-08T08:40:11.901636-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657284016",
+      "size": "21804",
+      "md5": "96b12923b35ea9a1d401a49bc9f5ba3d",
+      "crc32": "abfa3e0b",
+      "sha1": "922c14c3941b60877707fc0e839145ed7c4540b9",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-08T08:40:11.901636-04:00.jpg",
+      "source": "original",
+      "mtime": "1657284013",
+      "size": "271450",
+      "md5": "da8286b44eeb78c83c207795f3b742f6",
+      "crc32": "f32a88b5",
+      "sha1": "7772d7895c66db625e1f930f05c79537c363dddc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-08T08:40:11.901636-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-07-08T08:40:11.901636-04:00.jpg",
+      "mtime": "1657295571",
+      "size": "9074",
+      "md5": "ead06c19ca23a61585791950eb0a3152",
+      "crc32": "78216681",
+      "sha1": "aaf59a6f4375798303733c8f6d073dfcba79ddd2"
+    },
+    {
       "name": "fivethirtyeight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1c055450f408eb79fe0e4ba8a723eade30f65399",
-      "mtime": "1657241199",
-      "size": "57738",
-      "md5": "a835fec070684b561f76f4967472fa5c",
-      "crc32": "da472ee0",
-      "sha1": "7645a700c4dde43899126450ef74c2eebb7f838c",
+      "btih": "fcb1089a0076cba399be8b746d6192c5507e8400",
+      "mtime": "1657295590",
+      "size": "58615",
+      "md5": "1d884a15e47aee26dc7ce23eb5a266cb",
+      "crc32": "ddb97b5c",
+      "sha1": "09b5a6efeed5970238f6e5688776599d74d75ddc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fivethirtyeight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "462a8564f9d2c64453d27785cf6736b8",
+      "md5": "6ae12f0af1c043715ef5bb530fd6a20a",
       "summation": "md5"
     },
     {
       "name": "fivethirtyeight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657241102",
-      "size": "319488",
-      "md5": "2906644364274d3258d245c49fa54897",
-      "crc32": "efac45d7",
-      "sha1": "3d7f6e853dd8ac3cb142992117885db55fa7141b",
+      "mtime": "1657284022",
+      "size": "327680",
+      "md5": "0fbfb11b451301f87587075d9beb73e0",
+      "crc32": "95ef8220",
+      "sha1": "dd2ee460f7a97aaf1db196198804531b55012f01",
       "format": "Metadata"
     },
     {
@@ -2762,515 +2804,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 263,
-  "fivethirtyeight-2022": [
-    {
-      "text": "Skip to main content",
-      "url": "#content"
-    },
-    {
-      "text": "\n\t\t\t\t\tFiveThirtyEight\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
-      "url": "/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\tABC News\n\t\t\t",
-      "url": "https://abcnews.go.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tPolitics\t\t\t\t\t",
-      "url": "https://fivethirtyeight.com/politics/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tSports\t\t\t\t\t",
-      "url": "https://fivethirtyeight.com/sports/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tScience\t\t\t\t\t",
-      "url": "https://fivethirtyeight.com/science/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tPodcasts\t\t\t\t\t",
-      "url": "https://fivethirtyeight.com/podcasts/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tVideo\t\t\t\t\t",
-      "url": "https://fivethirtyeight.com/videos/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tABC News\t\t\t\t\t",
-      "url": "https://abcnews.go.com/"
-    },
-    {
-      "text": "\n\t\n\t\t\n\t\t\t\t\t\n\n\t\tNEW: Republicans Are Favored To Win The House In November\n\n\t\t\t\n\t\t\t\t\t\n\t\t",
-      "url": "https://projects.fivethirtyeight.com/2022-election-forecast/"
-    },
-    {
-      "text": "\n",
-      "url": "https://fivethirtyeight.com/features/how-the-supreme-court-could-turbocharge-gerrymandering-just-in-time-for-2024/"
-    },
-    {
-      "text": "Supreme Court",
-      "url": "https://fivethirtyeight.com/tag/supreme-court/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWhat It Would Mean For Elections If The Supreme Court Embraces An Extreme Legal Theory\t\t\t",
-      "url": "https://fivethirtyeight.com/features/how-the-supreme-court-could-turbocharge-gerrymandering-just-in-time-for-2024/"
-    },
-    {
-      "text": "Amelia Thomson-DeVeaux",
-      "url": "https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/"
-    },
-    {
-      "text": "Nathaniel Rakich",
-      "url": "https://fivethirtyeight.com/contributors/nathaniel-rakich/"
-    },
-    {
-      "text": "Abortion",
-      "url": "https://fivethirtyeight.com/tag/abortion/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tWhy Abortion Is A Civil Rights Issue for Black Voters\t\t\t\t\t",
-      "url": "https://fivethirtyeight.com/features/why-abortion-is-a-civil-rights-issue-for-black-voters/"
-    },
-    {
-      "text": "Alex Samuels",
-      "url": "https://fivethirtyeight.com/contributors/alex-samuels/"
-    },
-    {
-      "text": "\n",
-      "url": "https://fivethirtyeight.com/features/why-abortion-is-a-civil-rights-issue-for-black-voters/"
-    },
-    {
-      "text": "NBA",
-      "url": "https://fivethirtyeight.com/tag/nba/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tThe NBA Teams That Leveled Up \u2014 And Found Bargains \u2014 In Free Agency\t\t\t\t\t",
-      "url": "https://fivethirtyeight.com/features/the-nba-teams-that-leveled-up-and-found-bargains-in-free-agency/"
-    },
-    {
-      "text": "Jared Dubin",
-      "url": "https://fivethirtyeight.com/contributors/jared-dubin/"
-    },
-    {
-      "text": "\n",
-      "url": "https://fivethirtyeight.com/features/the-nba-teams-that-leveled-up-and-found-bargains-in-free-agency/"
-    },
-    {
-      "text": "2022 Election",
-      "url": "https://fivethirtyeight.com/tag/2022-election/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tWhy Democratic Appeals To The \u2018Working Class\u2019 Are Unlikely to Work\t\t\t\t\t",
-      "url": "https://fivethirtyeight.com/features/why-democratic-appeals-to-the-working-class-are-unlikely-to-work/"
-    },
-    {
-      "text": "Monica Potts",
-      "url": "https://fivethirtyeight.com/contributors/monica-potts/"
-    },
-    {
-      "text": "\n",
-      "url": "https://fivethirtyeight.com/features/why-democratic-appeals-to-the-working-class-are-unlikely-to-work/"
-    },
-    {
-      "text": "\n\t\t\tThe NBA Teams That Leveled Up \u2014 And Found Bargains \u2014 In Free Agency\t\t",
-      "url": "https://fivethirtyeight.com/features/the-nba-teams-that-leveled-up-and-found-bargains-in-free-agency/"
-    },
-    {
-      "text": "\n\t\t\tWhy Abortion Is A Civil Rights Issue for Black Voters\t\t",
-      "url": "https://fivethirtyeight.com/features/why-abortion-is-a-civil-rights-issue-for-black-voters/"
-    },
-    {
-      "text": "\n\t\t\tHow The Supreme Court Could Turbocharge Gerrymandering \u2014 Just In Time for 2024\t\t",
-      "url": "https://fivethirtyeight.com/features/how-the-supreme-court-could-turbocharge-gerrymandering-just-in-time-for-2024/"
-    },
-    {
-      "text": "\n\t\t\tThe Datasets We\u2019re Looking At This Week\t\t",
-      "url": "https://fivethirtyeight.com/features/the-datasets-were-looking-at-this-week-8/"
-    },
-    {
-      "text": "\n\t\t\tThe Hawks, T-Wolves And Knicks Made Moves With Clear Upsides \u2014 And Downsides\t\t",
-      "url": "https://fivethirtyeight.com/features/the-hawks-t-wolves-and-knicks-made-moves-with-clear-upsides-and-downsides/"
-    },
-    {
-      "text": "\n\t\t\tWhy Democratic Appeals To The \u2018Working Class\u2019 Are Unlikely to Work\t\t",
-      "url": "https://fivethirtyeight.com/features/why-democratic-appeals-to-the-working-class-are-unlikely-to-work/"
-    },
-    {
-      "text": "\n\t\t\tHow The Latest Jan. 6 Hearing Testimony Will Affect Midterm Votes\t\t",
-      "url": "https://fivethirtyeight.com/videos/how-the-latest-jan-6-hearing-testimony-will-affect-midterm-votes/"
-    },
-    {
-      "text": "\n\t\t\tPolitics Podcast: Does DeSantis\u2019s Strength Spell Trouble For Trump?\t\t",
-      "url": "https://fivethirtyeight.com/features/politics-podcast-does-desantiss-strength-spell-trouble-for-trump/"
-    },
-    {
-      "text": "All stories",
-      "url": "https://fivethirtyeight.com/features/"
-    },
-    {
-      "text": "\n",
-      "url": "https://fivethirtyeight.com/features/the-hawks-t-wolves-and-knicks-made-moves-with-clear-upsides-and-downsides/"
-    },
-    {
-      "text": "NBA",
-      "url": "https://fivethirtyeight.com/tag/nba/"
-    },
-    {
-      "text": "\n\t\t\t\t\tThe Hawks, T-Wolves And Knicks Made Moves With Clear Upsides \u2014 And Downsides\t\t\t\t",
-      "url": "https://fivethirtyeight.com/features/the-hawks-t-wolves-and-knicks-made-moves-with-clear-upsides-and-downsides/"
-    },
-    {
-      "text": "Jared Dubin",
-      "url": "https://fivethirtyeight.com/contributors/jared-dubin/"
-    },
-    {
-      "text": "\n",
-      "url": "https://fivethirtyeight.com/features/the-supreme-courts-partisan-divide-hasnt-been-this-sharp-in-generations/"
-    },
-    {
-      "text": "Supreme Court",
-      "url": "https://fivethirtyeight.com/tag/supreme-court/"
-    },
-    {
-      "text": "\n\t\t\t\t\tJust How Sharp Was The Supreme Court\u2019s Rightward Turn This Term?\t\t\t\t",
-      "url": "https://fivethirtyeight.com/features/the-supreme-courts-partisan-divide-hasnt-been-this-sharp-in-generations/"
-    },
-    {
-      "text": "Amelia Thomson-DeVeaux",
-      "url": "https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/"
-    },
-    {
-      "text": "Laura Bronner",
-      "url": "https://fivethirtyeight.com/contributors/laura-bronner/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
-      "url": "https://fivethirtyeight.com/videos/how-the-latest-jan-6-hearing-testimony-will-affect-midterm-votes/?cid=rrfeaturedvideo"
-    },
-    {
-      "text": "Politics Podcast",
-      "url": "https://fivethirtyeight.com/tag/politics-podcast/"
-    },
-    {
-      "text": "\n\t\t\t\t\tHow The Latest Jan. 6 Hearing Testimony Will Affect Midterm Votes\t\t\t\t",
-      "url": "https://fivethirtyeight.com/videos/how-the-latest-jan-6-hearing-testimony-will-affect-midterm-votes/"
-    },
-    {
-      "text": "\n",
-      "url": "https://fivethirtyeight.com/features/the-datasets-were-looking-at-this-week-8/"
-    },
-    {
-      "text": "Data Is Plural",
-      "url": "https://fivethirtyeight.com/tag/data-is-plural/"
-    },
-    {
-      "text": "\n\t\t\t\t\tThe Datasets We\u2019re Looking At This Week\t\t\t\t",
-      "url": "https://fivethirtyeight.com/features/the-datasets-were-looking-at-this-week-8/"
-    },
-    {
-      "text": "Jeremy Singer-Vine",
-      "url": "https://fivethirtyeight.com/contributors/jeremy-singer-vine/"
-    },
-    {
-      "text": "\n",
-      "url": "https://fivethirtyeight.com/features/what-do-older-progressive-voters-want/"
-    },
-    {
-      "text": "Political Outliers",
-      "url": "https://fivethirtyeight.com/tag/political-outliers/"
-    },
-    {
-      "text": "\n\t\t\t\t\tMeet The Silent Generation Progressives\t\t\t\t",
-      "url": "https://fivethirtyeight.com/features/what-do-older-progressive-voters-want/"
-    },
-    {
-      "text": "Alex Samuels",
-      "url": "https://fivethirtyeight.com/contributors/alex-samuels/"
-    },
-    {
-      "text": "\n",
-      "url": "https://fivethirtyeight.com/features/outdoor-tennis-could-be-sports-first-big-climate-change-casualty/"
-    },
-    {
-      "text": "Tennis",
-      "url": "https://fivethirtyeight.com/tag/tennis/"
-    },
-    {
-      "text": "\n\t\t\t\t\tOutdoor Tennis Could Be Sports\u2019 First Big Climate Change Casualty\t\t\t\t",
-      "url": "https://fivethirtyeight.com/features/outdoor-tennis-could-be-sports-first-big-climate-change-casualty/"
-    },
-    {
-      "text": "Jonathon Braden",
-      "url": "https://fivethirtyeight.com/contributors/jonathon-braden/"
-    },
-    {
-      "text": "Matt Fitzpatrick",
-      "url": "https://fivethirtyeight.com/contributors/matt-fitzpatrick/"
-    },
-    {
-      "text": "\n",
-      "url": "https://projects.fivethirtyeight.com/2022-election-forecast/"
-    },
-    {
-      "text": "2022 Election Forecast",
-      "url": "https://fivethirtyeight.com/tag/2022-election-forecast/"
-    },
-    {
-      "text": "\n\t\t\t\t\t2022 Election Forecast\t\t\t\t",
-      "url": "https://projects.fivethirtyeight.com/2022-election-forecast/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
-      "url": "https://fivethirtyeight.com/videos/do-you-buy-that-the-gop-will-win-the-senate-in-2022/?cid=rrfeaturedvideo"
-    },
-    {
-      "text": "Do You Buy That",
-      "url": "https://fivethirtyeight.com/tag/do-you-buy-that/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWill The GOP Win The Senate In 2022?\t\t\t\t",
-      "url": "https://fivethirtyeight.com/videos/do-you-buy-that-the-gop-will-win-the-senate-in-2022/"
-    },
-    {
-      "text": "Nate Silver",
-      "url": "https://fivethirtyeight.com/contributors/nate-silver/"
-    },
-    {
-      "text": "\n",
-      "url": "https://projects.fivethirtyeight.com/gun-control-polling-2022/"
-    },
-    {
-      "text": "Gun Control",
-      "url": "https://fivethirtyeight.com/tag/gun-control/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWhere Democrats And Republicans Differ On Gun Control\t\t\t\t",
-      "url": "https://projects.fivethirtyeight.com/gun-control-polling-2022/"
-    },
-    {
-      "text": "Ryan Best",
-      "url": "https://fivethirtyeight.com/contributors/ryan-best/"
-    },
-    {
-      "text": "Kaleigh Rogers",
-      "url": "https://fivethirtyeight.com/contributors/kaleigh-rogers/"
-    },
-    {
-      "text": "Mary Radcliffe",
-      "url": "https://fivethirtyeight.com/contributors/mary-radcliffe/"
-    },
-    {
-      "text": "More >",
-      "url": "https://fivethirtyeight.com/features/"
-    },
-    {
-      "text": "Politics Podcast",
-      "url": "https://fivethirtyeight.com/tag/politics-podcast/"
-    },
-    {
-      "text": "How The Latest Jan. 6 Hearing Testimony Will Affect Midterm Votes",
-      "url": "https://fivethirtyeight.com/videos/how-the-latest-jan-6-hearing-testimony-will-affect-midterm-votes/"
-    },
-    {
-      "text": "Subscribe on YouTube",
-      "url": "https://www.youtube.com/FiveThirtyEight?sub_confirmation=1"
-    },
-    {
-      "text": "All videos",
-      "url": "https://fivethirtyeight.com/videos/"
-    },
-    {
-      "text": "Sponsored Links by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
-    },
-    {
-      "text": "Sponsored Links by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
-    },
-    {
-      "text": "Promoted Links",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
-    },
-    {
-      "text": "Promoted Links",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
-    },
-    {
-      "text": "Online Shopping Tools",
-      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=abcnews-fivethirtyeight&title=Do+This+On+Amazon+%28Wait+And+Watch%29&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3440456460&campaign=19603838&click_id=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCD-_lMo0fTo9br52acm&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCD-_lMo0fTo9br52acm#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCD-_lMo0fTo9br52acm&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Online Shopping ToolsDo This On Amazon (Wait And Watch)",
-      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=abcnews-fivethirtyeight&title=Do+This+On+Amazon+%28Wait+And+Watch%29&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3440456460&campaign=19603838&click_id=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCD-_lMo0fTo9br52acm&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCD-_lMo0fTo9br52acm#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCD-_lMo0fTo9br52acm&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Forge Of Empires",
-      "url": "https://om.forgeofempires.com/foe/us/?ref=tab_us_us_wl_broad&external_param=3008480516&pid=abcnews-fivethirtyeight&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F856fdf72c9e06346d00110d524fcce5e.jpeg&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDJqD8ooq3YwIT39YTCAQ#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDJqD8ooq3YwIT39YTCAQ&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Forge Of EmpiresIf You Spend Time on Your Computer, this Vintage Game is a Must-Have. No Install.",
-      "url": "https://om.forgeofempires.com/foe/us/?ref=tab_us_us_wl_broad&external_param=3008480516&pid=abcnews-fivethirtyeight&bid=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F856fdf72c9e06346d00110d524fcce5e.jpeg&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDJqD8ooq3YwIT39YTCAQ#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDJqD8ooq3YwIT39YTCAQ&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Wellnessfully",
-      "url": "https://wellnessfully.com/constipation/lp1/?click_id=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDj7U8ozseX_YOw9oWdAQ&site=abcnews-fivethirtyeight&site_id=1184468&title=Doctor%3A+Do+This+To+Correct+Constipation&platform=Desktop&campaign_id=17828616&campaign_item_id=3295091059&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fa1a8e6f5f51f7f130e9dc55eb210e749.jpeg&timestamp=2022-07-08+00%3A39%3A26&domain=fivethirtyeight.com&campaign_name=digest&cpid=9055d5ee-41ae-4596-a475-fc162a1f70ac&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDj7U8ozseX_YOw9oWdAQ#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDj7U8ozseX_YOw9oWdAQ&cid=referral_taboola_paid"
-    },
-    {
-      "text": "WellnessfullyDoctor: Do This To Correct Constipation",
-      "url": "https://wellnessfully.com/constipation/lp1/?click_id=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDj7U8ozseX_YOw9oWdAQ&site=abcnews-fivethirtyeight&site_id=1184468&title=Doctor%3A+Do+This+To+Correct+Constipation&platform=Desktop&campaign_id=17828616&campaign_item_id=3295091059&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fa1a8e6f5f51f7f130e9dc55eb210e749.jpeg&timestamp=2022-07-08+00%3A39%3A26&domain=fivethirtyeight.com&campaign_name=digest&cpid=9055d5ee-41ae-4596-a475-fc162a1f70ac&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDj7U8ozseX_YOw9oWdAQ#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDj7U8ozseX_YOw9oWdAQ&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Wolf &amp; Shepherd",
-      "url": "https://wolfandshepherd.com/collections/swiftknits/products/swiftknit-derby?variant=39392269533257&utm_source=taboola&utm_medium=native&utm_campaign=taboola_prosp_menshoed_broad_swiftknit&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCCrhEEo8q_Wh5K-qbl3#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCCrhEEo8q_Wh5K-qbl3&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Wolf & ShepherdThousands of Men Love  these Simple Pair of Men's Shoes",
-      "url": "https://wolfandshepherd.com/collections/swiftknits/products/swiftknit-derby?variant=39392269533257&utm_source=taboola&utm_medium=native&utm_campaign=taboola_prosp_menshoed_broad_swiftknit&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCCrhEEo8q_Wh5K-qbl3#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCCrhEEo8q_Wh5K-qbl3&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Baldwin Shavers",
-      "url": "http://go.click2run.me/5619/5305/?clickid=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCCRxVEopL2c0rGI6OkS&pub=Taboola_abcnews-fivethirtyeight&extra=Baldwin_US_TOF_DSK_13.03.22_LF+6.5.22+-+TCPA+45&sub_pub_id=%2016947970_fivethirtyeight.com_1184468&utm_source=Taboola&utm_medium=cpc&keyword=fivethirtyeight.com_Bald+Men+Are+Losing+It+Over+This+New+Head+Shaver%C2%A0&ad_content=Bald+Men+Are+Losing+It+Over+This+New+Head+Shaver%C2%A0&bp=boxes3&apg=0&order=cr&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCCRxVEopL2c0rGI6OkS#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCCRxVEopL2c0rGI6OkS&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Baldwin ShaversBald Men Are Losing It Over This New Head Shaver\u00a0",
-      "url": "http://go.click2run.me/5619/5305/?clickid=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCCRxVEopL2c0rGI6OkS&pub=Taboola_abcnews-fivethirtyeight&extra=Baldwin_US_TOF_DSK_13.03.22_LF+6.5.22+-+TCPA+45&sub_pub_id=%2016947970_fivethirtyeight.com_1184468&utm_source=Taboola&utm_medium=cpc&keyword=fivethirtyeight.com_Bald+Men+Are+Losing+It+Over+This+New+Head+Shaver%C2%A0&ad_content=Bald+Men+Are+Losing+It+Over+This+New+Head+Shaver%C2%A0&bp=boxes3&apg=0&order=cr&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCCRxVEopL2c0rGI6OkS#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCCRxVEopL2c0rGI6OkS&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Smart Lifestyle Trends",
-      "url": "https://tracking.smartestlifestyletrends.com/b1c2a3a9-7dac-43d4-8d31-8f3e27cbab84?site=abcnews-fivethirtyeight&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F8b622f3e0635c7807b73ad95f1e886a9.jpg&title=California+Seniors+with+No+Life+Insurance+Can+Get+up+to+a+%24250k+Policy+for+%2418%2Fmonth&campaign_id=17411269&campaign_item_id=3188551883&siteid=1184468&click_id=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDrilIowMuZ0Nmqgb5-&utm_source=taboola&utm_medium=referral&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDrilIowMuZ0Nmqgb5-#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDrilIowMuZ0Nmqgb5-&cid=referral_taboola_paid"
-    },
-    {
-      "text": "Smart Lifestyle TrendsCalifornia Seniors with No Life Insurance Can Get up to a $250k Policy for $18/month",
-      "url": "https://tracking.smartestlifestyletrends.com/b1c2a3a9-7dac-43d4-8d31-8f3e27cbab84?site=abcnews-fivethirtyeight&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F8b622f3e0635c7807b73ad95f1e886a9.jpg&title=California+Seniors+with+No+Life+Insurance+Can+Get+up+to+a+%24250k+Policy+for+%2418%2Fmonth&campaign_id=17411269&campaign_item_id=3188551883&siteid=1184468&click_id=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDrilIowMuZ0Nmqgb5-&utm_source=taboola&utm_medium=referral&tblci=GiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDrilIowMuZ0Nmqgb5-#tblciGiCRkNqVQqW_osasPQDXXQn7C8461gAeFjAHd3fgw51rkCDrilIowMuZ0Nmqgb5-&cid=referral_taboola_paid"
-    },
-    {
-      "text": "CCPA Notice",
-      "url": "https://ccparequest.taboola.com/"
-    },
-    {
-      "text": "See all newsletters",
-      "url": "https://fivethirtyeight.com/newsletters/"
-    },
-    {
-      "text": "Store",
-      "url": "https://cottonbureau.com/stores/fivethirtyeight#/shop"
-    },
-    {
-      "text": "Newsletter",
-      "url": "https://fivethirtyeight.com/newsletter/"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/fivethirtyeight"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/fivethirtyeight"
-    },
-    {
-      "text": "Data",
-      "url": "https://data.fivethirtyeight.com/"
-    },
-    {
-      "text": "RSS",
-      "url": "https://fivethirtyeight.com/features/fear-not-readers-we-have-rss-feeds/"
-    },
-    {
-      "text": "About Us",
-      "url": "https://fivethirtyeight.com/about-us/"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://fivethirtyeight.com/tag/fivethirtyeight-jobs/"
-    },
-    {
-      "text": "Masthead",
-      "url": "https://fivethirtyeight.com/masthead/"
-    },
-    {
-      "text": "Pitch FiveThirtyEight",
-      "url": "https://fivethirtyeight.com/how-to-pitch-fivethirtyeight/"
-    },
-    {
-      "text": "Advertise With Us",
-      "url": "https://disneyadsales.com/our-brands/abc-news/"
-    },
-    {
-      "text": "About Nielsen Measurement",
-      "url": "http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html"
-    },
-    {
-      "text": "WordPress VIP",
-      "url": "https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=fivethirtyeight.com"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://disneytermsofuse.com/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://disneyprivacycenter.com/"
-    },
-    {
-      "text": "Do Not Sell My Personal Information",
-      "url": "#"
-    },
-    {
-      "text": "Your California Privacy Rights",
-      "url": "https://disneyprivacycenter.com/notice-to-california-residents/"
-    },
-    {
-      "text": "Children's Online Privacy Policy",
-      "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/"
-    },
-    {
-      "text": "Interest-Based Ads",
-      "url": "https://preferences-mgr.truste.com/?type=abcnews&affiliateId=11&cid=clicksource_4380645_footer_interestbasedads"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://disneytermsofuse.com/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://disneyprivacycenter.com/"
-    },
-    {
-      "text": "Your California Privacy Rights",
-      "url": "https://disneyprivacycenter.com/notice-to-california-residents/"
-    },
-    {
-      "text": "Children's Online Privacy Policy",
-      "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/"
-    },
-    {
-      "text": "Interest-Based Ads",
-      "url": "https://preferences-mgr.truste.com/?type=abcnews&affiliateId=11&cid=clicksource_4380645_footer_interestbasedads"
-    },
-    {
-      "text": "Cookie Policy",
-      "url": "https://disneyprivacycenter.com/cookies-policy-translations/cookies-policy/"
-    },
-    {
-      "text": "Your California Privacy Rights",
-      "url": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/"
-    },
-    {
-      "text": "link",
-      "url": "https://www.iabprivacy.com/optout.html"
-    },
-    {
-      "text": "Do Not Sell My Personal Information Rights",
-      "url": "https://privacy.thewaltdisneycompany.com/en/dnsmi/"
-    },
-    {
-      "text": "",
-      "url": "https://www.onetrust.com/products/cookie-consent/"
-    }
-  ],
-  "item_last_updated": 1657241199,
-  "item_size": 20438175,
+  "files_count": 267,
+  "item_last_updated": 1657295590,
+  "item_size": 20768263,
   "metadata": {
     "identifier": "fivethirtyeight-2022",
     "collection": [
@@ -3288,7 +2824,7 @@
     "addeddate": "2022-06-19 23:24:21"
   },
   "server": "ia601501.us.archive.org",
-  "uniq": 31837210,
+  "uniq": 1444743223,
   "workable_servers": [
     "ia601501.us.archive.org",
     "ia801501.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1657282509,
+  "created": 1657309345,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/10/items/pucknews-2022",
@@ -3040,31 +3040,73 @@
       "sha1": "7a0674f862765082bed2d72864cc776e20fe1e21"
     },
     {
+      "name": "pucknews-2022-07-08T11:48:12.581286-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657295296",
+      "size": "15233",
+      "md5": "052a556f93952ec060e8442fec144187",
+      "crc32": "ff343341",
+      "sha1": "2b3930eba22d047bc29bc89b5d172f43cce03587",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-07-08T11:48:12.581286-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657295298",
+      "size": "11838",
+      "md5": "50a7b191465a1d16a1e89dba065c36e3",
+      "crc32": "c809ff42",
+      "sha1": "cca9eed6043426267c35abcb355f1263ea3130e7",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-07-08T11:48:12.581286-04:00.jpg",
+      "source": "original",
+      "mtime": "1657295294",
+      "size": "160355",
+      "md5": "026d2b1f6f082827eef906efe635eba6",
+      "crc32": "f824df43",
+      "sha1": "a75a47341c08f1bdb990a89dfedef793e3cd0af9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-07-08T11:48:12.581286-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-07-08T11:48:12.581286-04:00.jpg",
+      "mtime": "1657303757",
+      "size": "8055",
+      "md5": "9595b3a00b087fed2425b6ab67910fbd",
+      "crc32": "ac5a9c11",
+      "sha1": "7a0674f862765082bed2d72864cc776e20fe1e21"
+    },
+    {
       "name": "pucknews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1476de2372558182b7c2a37b9594e8bad65c2b30",
-      "mtime": "1657250014",
-      "size": "61896",
-      "md5": "0375fbb2812345ac7ac8db20303d5795",
-      "crc32": "c463f52e",
-      "sha1": "e340282d023c8a3079964be44593b1ae87917325",
+      "btih": "92892a1571610eef2dd4fed4a7cb6aa20687cbe8",
+      "mtime": "1657303812",
+      "size": "62725",
+      "md5": "aae1eedf0ce3dda83638d67163376632",
+      "crc32": "39197e38",
+      "sha1": "7508b3efc9847650ba6eeee6ee105ae4a713cbcb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pucknews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e7c413a44ddba9a31e4c03cda02f6b1f",
+      "md5": "4030e7ffa55d6605c6cdd382281b4ff4",
       "summation": "md5"
     },
     {
       "name": "pucknews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657249968",
-      "size": "352256",
-      "md5": "25e89817eae29f68b2fd58b81025e116",
-      "crc32": "dc6cdcb0",
-      "sha1": "5afcad098a10ab4a50275a06ac37e4c91a1c8743",
+      "mtime": "1657295301",
+      "size": "356352",
+      "md5": "f9f73d7c29bcbd2639068a924991d307",
+      "crc32": "00cbf7aa",
+      "sha1": "668a019fd1c76a7a39c7232bbbdb1577d9e1a47b",
       "format": "Metadata"
     },
     {
@@ -3078,9 +3120,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 293,
-  "item_last_updated": 1657250014,
-  "item_size": 15326158,
+  "files_count": 297,
+  "item_last_updated": 1657303812,
+  "item_size": 15526564,
   "metadata": {
     "identifier": "pucknews-2022",
     "collection": [
@@ -3115,16 +3157,16 @@
       "url": "https://puck.news/category/washington/"
     },
     {
+      "text": "\n                      \n                      Dylan Byers\n                    ",
+      "url": "https://puck.news/author/dylan-byers/"
+    },
+    {
       "text": "\n                      \n                      Matthew Belloni\n                    ",
       "url": "https://puck.news/author/matthew-belloni/"
     },
     {
       "text": "\n                      \n                      Tara Palmeri\n                    ",
       "url": "https://puck.news/author/tara-palmeri/"
-    },
-    {
-      "text": "\n                      \n                      Tina Nguyen\n                    ",
-      "url": "https://puck.news/author/tina-nguyen/"
     },
     {
       "text": "Join Puck",
@@ -3155,12 +3197,12 @@
       "url": "https://puck.news/subscribe/"
     },
     {
-      "text": "\n          \n            ICM Agents Are Lawyering Up\n          \n\n          \n            \n              \n                \n              \n            \n\n            \n              \n                                  \n                    \n                  \n                  \n                    Matthew Belloni\n                    \n                  \n                              \n\n              As CAA says goodbye to ICM agents in the wake of its $750 million acquisition, the situation has devolved to the point where several of the ousted ICM people have hired a top litigator. \n              READ FULL STORY\n            \n          \n        ",
-      "url": "https://puck.news/icm-agents-are-lawyering-up/"
+      "text": "\n          \n            The Oracle of Sun Valley\n          \n\n          \n            \n              \n                \n              \n            \n\n            \n              \n                                  \n                    \n                  \n                  \n                    Dylan Byers\n                    \n                  \n                              \n\n              Inside the Lodge at this year\u2019s Allen & Co. conference, the conversation among the media-tech-finance elite has been dominated by two omnipresent obsessions: recession and the man who has predicted it, Larry Summers. \n              READ FULL STORY\n            \n          \n        ",
+      "url": "https://puck.news/the-oracle-of-sun-valley/"
     },
     {
-      "text": "\n                  \n                    Eriq Gardner\n                                        \u2022\n                    July 5, 2022\n                  \n\n                  The Brangelina Ros\u00e9 Suit from Hell\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      A few weeks ago, at the height of the Johnny Depp trial, a legal world source reached out to turn my attention to another, perhaps even more litigious celebrity split. \u201cTake a look at Brad Pitt and Angelina Jolie,\u201d this person suggested. \u201cThe Depp stuff is child\u2019s play compared to that.\u201d Bold words, but after [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
-      "url": "https://puck.news/the-brangelina-rose-suit-from-hell/"
+      "text": "\n                  \n                    Matthew Belloni\n                                        \u2022\n                    July 7, 2022\n                  \n\n                  ICM Agents Are Lawyering Up\n\n                  \n                    \n                      \n                        \n                      \n                    \n                    \n                      I know, nobody feels an ounce of sympathy for Hollywood agents. To many, they\u2019re parasitic mercenaries who will lie and obfuscate to secure their clients a few more peanut M&Ms in their trailers. That stereotype is not totally true, of course, and to the extent that it is, so what? Agents extract value in a [\u2026]\n                      READ FULL STORY\n                    \n                  \n                ",
+      "url": "https://puck.news/icm-agents-are-lawyering-up/"
     },
     {
       "text": "MORE HOLLYWOOD STORIES",
@@ -3323,10 +3365,10 @@
       "url": "/wp-login.php?redirect_to=%2F&connection=apple"
     }
   ],
-  "server": "ia902501.us.archive.org",
-  "uniq": 1574236013,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1436476401,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }
