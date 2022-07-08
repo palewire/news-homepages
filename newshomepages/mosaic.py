@@ -22,7 +22,7 @@ def jpg(input_dir: str, output_dir: str):
     # Get a list of images
     input_path = Path(input_dir)
     input_path.mkdir(parents=True, exist_ok=True)
-    image_paths = list(input_path.glob("*.jpg"))
+    image_paths = sorted(list(input_path.glob("*.jpg")))
     click.echo(f"{len(image_paths)} images discovered in {input_path}")
 
     # Set the output path
