@@ -17,7 +17,7 @@ orphan: true
 | Location       | Bogota                                                                 |
 | Timezone       | America/Bogota                                                                 |
 
-The archiving routine has captured 44 screenshots stored at the Internet Archive.
+The archiving routine has captured 45 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

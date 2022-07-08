@@ -17,7 +17,8 @@ orphan: true
 | Location       | Sacramento                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 13 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[sacbee_news-2022](https://archive.org/details/sacbee_news-2022)|
