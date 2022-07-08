@@ -83,7 +83,7 @@ The most recent homepages from 8 news sites in this bundle.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-york-city.xml)         |
 | Twitter hashtag | [#newyorkcity](https://twitter.com/search?q=%23newyorkcity%20from%3A%40newshomepages)           |
-| Location        | Times Squarew                                                               |
+| Location        | Times Square                                                               |
 | Timezone        | America/New_York                                                               |
 
 ## Site directory
