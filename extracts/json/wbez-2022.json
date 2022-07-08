@@ -1,5 +1,5 @@
 {
-  "created": 1657282698,
+  "created": 1657309450,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/wbez-2022",
@@ -2000,31 +2000,115 @@
       "sha1": "b4f35bc90c3c7f339413ea1345ee14f7456bad42"
     },
     {
+      "name": "wbez-2022-07-08T11:52:14.667220-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657299139",
+      "size": "16972",
+      "md5": "7139f30c25d6b21e5f4d66341cdbe0e6",
+      "crc32": "34c11300",
+      "sha1": "b4258244445406f7c86094f42f73a89e2da42495",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-08T11:52:14.667220-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657299140",
+      "size": "13124",
+      "md5": "082d6849a2d1c9fd11d34ff5e6eedb78",
+      "crc32": "adc45d97",
+      "sha1": "0ae6593324de8a0ed627fb38c901d4f2d63d8616",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-08T11:52:14.667220-05:00.jpg",
+      "source": "original",
+      "mtime": "1657299137",
+      "size": "333285",
+      "md5": "9d4333617e2f4802c826cc7942ce6958",
+      "crc32": "904c6d92",
+      "sha1": "e5bea066210334b51dfafbd0c19b98c1b2434222",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbez-2022-07-08T11:52:14.667220-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-07-08T11:52:14.667220-05:00.jpg",
+      "mtime": "1657299241",
+      "size": "9805",
+      "md5": "7683481a047a1dffb2f5120120a98f48",
+      "crc32": "8fce1817",
+      "sha1": "a821f8fe5b16afa5db33a030f849e4d5a6f53a08"
+    },
+    {
+      "name": "wbez-2022-07-08T11:53:32.864287-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657299216",
+      "size": "16949",
+      "md5": "6497feea878f806ee67877031ef07851",
+      "crc32": "452eede1",
+      "sha1": "27036a65cf7eec6061c4086bdb8f8d410a94f1ab",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-08T11:53:32.864287-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657299217",
+      "size": "13124",
+      "md5": "082d6849a2d1c9fd11d34ff5e6eedb78",
+      "crc32": "adc45d97",
+      "sha1": "0ae6593324de8a0ed627fb38c901d4f2d63d8616",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-08T11:53:32.864287-05:00.jpg",
+      "source": "original",
+      "mtime": "1657299214",
+      "size": "335004",
+      "md5": "77869bdc57df575480b5a64f135a8b36",
+      "crc32": "2122a371",
+      "sha1": "c8c4b5add2f2c4af81b04f7e5486686f1cb26873",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbez-2022-07-08T11:53:32.864287-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-07-08T11:53:32.864287-05:00.jpg",
+      "mtime": "1657306554",
+      "size": "9824",
+      "md5": "7e3354249882f8425aa9791d088984ff",
+      "crc32": "a051f0fb",
+      "sha1": "ae11c0f53acc2e89b7d7767b02595331ad4b36ce"
+    },
+    {
       "name": "wbez-2022_archive.torrent",
       "source": "metadata",
-      "btih": "20ed316583fe1b39990e84198e0fd7720dd720c0",
-      "mtime": "1657252714",
-      "size": "40667",
-      "md5": "a415accb9c1210c94f1f52f96b9e6ffe",
-      "crc32": "c2a06feb",
-      "sha1": "4b9970e5b590517bb1689810d58f8dd1b9673e6b",
+      "btih": "32372ccd018041fe4ed5413fd465c2598aab87af",
+      "mtime": "1657306581",
+      "size": "42313",
+      "md5": "85c553d10bfbddfd41d0c8c45911348c",
+      "crc32": "c7504db6",
+      "sha1": "10a9dac41af4123019e5903ad65eef68bba93df4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wbez-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b9a36096316dad9bc2e79b25d3ab0f37",
+      "md5": "cd273ca1118e03862a99682b7513f3f6",
       "summation": "md5"
     },
     {
       "name": "wbez-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657252620",
-      "size": "237568",
-      "md5": "433132037a1d88ce24b94a09cb523871",
-      "crc32": "57d10889",
-      "sha1": "843cf53924aaaa2d47dee602f248fb7dbec00a82",
+      "mtime": "1657299257",
+      "size": "249856",
+      "md5": "bf05b6377928f1f1ff0fae23d0d39b4f",
+      "crc32": "a36f8492",
+      "sha1": "a712e923f1a4a3b13fd0a1fc58225289c4390ca4",
       "format": "Metadata"
     },
     {
@@ -2038,9 +2122,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 194,
-  "item_last_updated": 1657252714,
-  "item_size": 16452309,
+  "files_count": 202,
+  "item_last_updated": 1657306581,
+  "item_size": 17214330,
   "metadata": {
     "identifier": "wbez-2022",
     "collection": [
@@ -2057,8 +2141,8 @@
     "publicdate": "2022-06-24 23:03:38",
     "addeddate": "2022-06-24 23:03:38"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 828907076,
+  "server": "ia802505.us.archive.org",
+  "uniq": 910005738,
   "wbez-2022": [
     {
       "text": "\n      Skip to main content\n    ",
@@ -2101,12 +2185,20 @@
       "url": "/#menu"
     },
     {
-      "text": "\n        Why it\u2019s time to rethink the \u2018last place you\u2019d expect a shooting\u2019 narrative\n      ",
-      "url": "/stories/why-its-time-to-rethink-the-last-place-youd-expect-a-shooting-narrative/204322ea-3013-4a05-80d3-ac18d0885ec2"
+      "text": "\n        The lives lost in Highland Park July 4 parade mass shooting\n      ",
+      "url": "/stories/the-lives-lost-in-highland-park-parade-mass-shooting/729b3171-b8ca-47a2-81d1-ad4a375eef5d"
+    },
+    {
+      "text": "\n        How to help those impacted by the Highland Park parade shooting \n      ",
+      "url": "/stories/how-to-help-those-impacted-by-the-highland-park-parade-shooting/9bbc11cd-4653-4907-bc06-07cb0b0c183f"
     },
     {
       "text": "\n        PHOTOS: Highland Park gathers at vigils to remember mass shooting victims\n      ",
       "url": "/stories/highland-park-gathers-at-vigils-to-remember-mass-shooting-victims/5ee6c769-e7cf-4726-b218-6e558178d8f3"
+    },
+    {
+      "text": "\n        Cook County officials want to offer $300 million in loans to suburban towns to pay bills\n      ",
+      "url": "/stories/cook-county-wants-to-loan-suburban-towns-300-million/4d105900-65be-4140-ba70-e7c4f26bedf9"
     },
     {
       "text": "\n        A new ballet for children draws inspiration from Puerto Rico, skyscrapers and Beyonc\u00e9\n      ",
@@ -2117,16 +2209,8 @@
       "url": "/stories/chicago-free-things-to-do-summer-music-concerts-theater-dance-neighborhood-festivals/e418f574-41ce-41ed-b6f1-13307e6b7404"
     },
     {
-      "text": "\n        Cook County officials want to offer $300 million in loans to suburban towns to pay bills\n      ",
-      "url": "/stories/cook-county-wants-to-loan-suburban-towns-300-million/4d105900-65be-4140-ba70-e7c4f26bedf9"
-    },
-    {
-      "text": "\n        Illinois State Police director defends decision to give suspected Highland Park killer a gun permit in 2020\n      ",
-      "url": "/stories/isp-director-defends-giving-suspected-highland-park-killer-a-gun-permit/704060bf-1337-468d-8efa-e2b95a505bbf"
-    },
-    {
-      "text": "\n        Highland Park suspect confessed to firing more than 80 shots, prosecutors say\n      ",
-      "url": "/stories/highland-park-suspect-confessed-to-firing-more-than-80-shots-prosecutors-say/0cae8496-0eb7-4708-bb6b-32cc7c3e9913"
+      "text": "\n        Governors offer Democrats more aggressive replies on issues from gun control to abortion access\n      ",
+      "url": "/stories/governors-offer-democrats-aggressive-reply-on-guns-abortion/96b0a888-da6b-461d-82a3-5cf8ba153b45"
     },
     {
       "text": "\n      Consider donating today\n    ",
@@ -2141,16 +2225,16 @@
       "url": "/stories/resources-for-families-to-cope-after-mass-shooting/da2b524b-3417-4d45-93ea-2b658a8eaf9d"
     },
     {
-      "text": "\n        With Roe v. Wade overturned, Chicago area residents share their perspectives on abortion\n      ",
-      "url": "/stories/abortion-perspectives-from-chicago-area-residents/6ce5f5d1-9bae-42bb-85e1-ae56e9962d76"
-    },
-    {
       "text": "\n        Updated: The WBEZ guide to 80-plus summer farmers\u2019 markets in Chicago and the suburbs\n      ",
       "url": "/stories/2022-farmers-markets-in-chicago-and-suburbs/9be36896-1eda-46f9-a42c-63c39ffa64dd"
     },
     {
-      "text": "\n        Celebrated all-boys charter school in Chicago cited by CPS for \u2018dismal\u2019 financial management\n      ",
-      "url": "/stories/celebrated-all-boys-charter-school-in-chicago-cited-by-cps-for-dismal-financial-management/784432ac-1269-4fdc-8638-e04e85578500"
+      "text": "\n        With Roe v. Wade overturned, Chicago area residents share their perspectives on abortion\n      ",
+      "url": "/stories/abortion-perspectives-from-chicago-area-residents/6ce5f5d1-9bae-42bb-85e1-ae56e9962d76"
+    },
+    {
+      "text": "\n        My first year sober: Why I did it and what I\u2019ve learned\n      ",
+      "url": "/stories/my-first-year-sober-why-i-did-it-and-what-ive-learned/431fbe7b-c3af-4c43-a0e3-9719e17ad75d"
     },
     {
       "text": "\n          Highland Park shooting\n        ",
@@ -2167,6 +2251,14 @@
     {
       "text": "\n        Highland Park parade shooting victim Stephen Straus \u2018tried to live every day to its fullest\u2019\n      ",
       "url": "/stories/highland-park-fourth-of-july-shooting-victim-stephen-straus/f7356ded-7aae-44cb-9caf-b01f9c013fd3"
+    },
+    {
+      "text": "\n        Criminal Justice\n      ",
+      "url": "/topics/criminal-justice/ffa74088-0ab8-406a-b1f9-b15dd6d39880"
+    },
+    {
+      "text": "\n        Illinois State Police director defends decision to give suspected Highland Park killer a gun permit in 2020\n      ",
+      "url": "/stories/isp-director-defends-giving-suspected-highland-park-killer-a-gun-permit/704060bf-1337-468d-8efa-e2b95a505bbf"
     },
     {
       "text": "\n        Curious City\n        ",
@@ -2189,20 +2281,20 @@
       "url": "/stories/why-the-highland-park-suspect-represents-a-different-kind-of-violent-extremism/3f237b6c-ace3-4da1-8eec-55310db5442e"
     },
     {
-      "text": "\n        Politics\n      ",
-      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
-    },
-    {
-      "text": "\n        Patrick Daley Thompson sentenced to four months in federal prison\n      ",
-      "url": "/stories/patrick-daley-thompson-sentenced-to-4-months-in-federal-prison/4e2718d7-31dc-4ec0-8443-6ee32ef8cdc8"
-    },
-    {
       "text": "\n        Crying in the Bathroom with Erika S\u00e1nchez and Mar\u00eda In\u00e9s Zamudio\n      ",
       "url": "/events/crying-in-the-bathroom-with-erika-sanchez-and-maria-ines-zamudio/187"
     },
     {
       "text": "\n        More events \u2192\n      ",
       "url": "/events"
+    },
+    {
+      "text": "\n        Politics\n      ",
+      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
+    },
+    {
+      "text": "\n        Patrick Daley Thompson sentenced to four months in federal prison\n      ",
+      "url": "/stories/patrick-daley-thompson-sentenced-to-4-months-in-federal-prison/4e2718d7-31dc-4ec0-8443-6ee32ef8cdc8"
     },
     {
       "text": "\n        Education\n      ",
@@ -2279,18 +2371,6 @@
     {
       "text": "\n        Traveling parties are part of a queer Chicago culture of partying as resistance\n      ",
       "url": "/stories/the-history-of-executive-sweet-parties-in-chicago/70a6f9e4-16cf-4c5a-8206-9837397bfe85"
-    },
-    {
-      "text": "\n        Politics\n      ",
-      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
-    },
-    {
-      "text": "\n        Gov. JB Pritzker is not gloating about Griffin\u2019s losses after Tuesday\u2019s primary\n      ",
-      "url": "/stories/pritzker-not-gloating-about-griffins-election-losses/ca94ce4e-0d09-4bc3-8b1f-bca7998eac9a"
-    },
-    {
-      "text": "\n        My first year sober: Why I did it and what I\u2019ve learned\n      ",
-      "url": "/stories/my-first-year-sober-why-i-did-it-and-what-ive-learned/431fbe7b-c3af-4c43-a0e3-9719e17ad75d"
     },
     {
       "text": "\n      DONATE NOW\n    ",
@@ -2426,7 +2506,7 @@
     }
   ],
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. national news
 
-The most recent homepages from 15 news sites in this bundle.
+The most recent homepages from 16 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -55,6 +55,14 @@ The most recent homepages from 15 news sites in this bundle.
  <a href="https://palewi.re/docs/news-homepages/sites/foxnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxnews.jpg"
      alt="Fox News"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/huffpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpost.jpg"
+     alt="Huffington Post"
      loading="lazy">
  </a>
 </div>
@@ -152,6 +160,7 @@ The most recent homepages from 15 news sites in this bundle.
 |[CBS News](https://palewi.re/docs/news-homepages/sites/cbsnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbsnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cbsnews.xml)|
 |[CNN](https://palewi.re/docs/news-homepages/sites/cnn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cnn.xml)|
 |[Fox News](https://palewi.re/docs/news-homepages/sites/foxnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foxnews.xml)|
+|[Huffington Post](https://palewi.re/docs/news-homepages/sites/huffpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/huffpost.xml)|
 |[MSNBC](https://palewi.re/docs/news-homepages/sites/msnbc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msnbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/msnbc.xml)|
 |[NBC News](https://palewi.re/docs/news-homepages/sites/nbcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcnews.xml)|
 |[PBS News Hour](https://palewi.re/docs/news-homepages/sites/newshour.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newshour.xml)|

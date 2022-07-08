@@ -1,5 +1,5 @@
 {
-  "created": 1657282450,
+  "created": 1657308877,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/35/items/nytimes-2022",
@@ -30618,31 +30618,146 @@
       "sha1": "a975448802b144efd5fd052053d6a332e3836ae4"
     },
     {
+      "name": "nytimes-2022-07-08T11:42:48.082602-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657294984",
+      "size": "22426",
+      "md5": "33fecfd0aaf3e65acb0931e27de4e641",
+      "crc32": "c4ddf122",
+      "sha1": "2f805570111b3cf447ea49a6c4bccd5363688e39",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-08T11:42:48.082602-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657294985",
+      "size": "28525",
+      "md5": "5466d462a5450956f05cf51e91c8b733",
+      "crc32": "c5b41fa1",
+      "sha1": "4dd7e7f0d444fb77beb9c964a670c5965dd8ca09",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-08T11:42:48.082602-04:00.jpg",
+      "source": "original",
+      "mtime": "1657294981",
+      "size": "351434",
+      "md5": "f3f101d6950ef2518f7f990e8a178884",
+      "crc32": "7eb29529",
+      "sha1": "dacb34e45cef81bc816d9507d6caaaec8754ae0e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-07-08T11:42:48.082602-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-07-08T11:42:48.082602-04:00.jpg",
+      "mtime": "1657298442",
+      "size": "10177",
+      "md5": "17fe7aaeea67e5ff64dc224fa4e93475",
+      "crc32": "d5338b7c",
+      "sha1": "3f6c514d291671631464bc5227208ad683473440"
+    },
+    {
+      "name": "nytimes-2022-07-08T12:38:08.324711-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657298293",
+      "size": "22989",
+      "md5": "77a88f912bb99e8a6b6aeb51464bab73",
+      "crc32": "70f709c5",
+      "sha1": "22b10ab998e9e0ad7cbe47c9ad5e071f346932fc",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-08T12:38:08.324711-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657298296",
+      "size": "28629",
+      "md5": "b6f7482f67451c1c6956f7f91721951a",
+      "crc32": "a41f0ff2",
+      "sha1": "34c3f59dd5c28e7b316efb8c6c74071398e24652",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-08T12:38:08.324711-04:00.jpg",
+      "source": "original",
+      "mtime": "1657298290",
+      "size": "357531",
+      "md5": "0cd94db527ae41b058ff23837bced110",
+      "crc32": "f6a152b7",
+      "sha1": "05b91e34578e635dd8b68c698db364b222140c55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-07-08T12:38:08.324711-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-07-08T12:38:08.324711-04:00.jpg",
+      "mtime": "1657306770",
+      "size": "10257",
+      "md5": "d73d442a571063dfe9ea50c47200e2d6",
+      "crc32": "8bdc0b6e",
+      "sha1": "e64dfbe090b3a05c8a99de4754564b67495cb644"
+    },
+    {
+      "name": "nytimes-2022-07-08T15:32:44.953614-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657308770",
+      "size": "21924",
+      "md5": "e16ed20d546e06022b01b3c8aacd7b86",
+      "crc32": "0370db3f",
+      "sha1": "e94683d513351f5e25160356248a9672a5426681",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-08T15:32:44.953614-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657308772",
+      "size": "28614",
+      "md5": "d38374a82a8fc9eb4a2d754b71295392",
+      "crc32": "4c163982",
+      "sha1": "f8661fb2ee478000a7019c2cb7725d62db0667f4",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-08T15:32:44.953614-04:00.jpg",
+      "source": "original",
+      "mtime": "1657308767",
+      "size": "317477",
+      "md5": "26666b9bd21cb7831dd5f3bae9ad517f",
+      "crc32": "9ab6449b",
+      "sha1": "96edbf05cb4c967df9e9adcc2db80d2be5478c90",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
       "name": "nytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8e3e6e2fc4398b284476f4c34709acc4793c271c",
-      "mtime": "1657250142",
-      "size": "613183",
-      "md5": "c07ab95465f6abd4961cce0ad4caace4",
-      "crc32": "81951ac5",
-      "sha1": "471daed5b1985c192c5084fa6139a2085d78901e",
+      "btih": "69d7430cf1e0b226d0ff2ed4fd4a026506768408",
+      "mtime": "1657308872",
+      "size": "615497",
+      "md5": "b6b3dc9bfb2fe40f7496fac4d9e715b0",
+      "crc32": "de1728d2",
+      "sha1": "fc6ee1d3b7e75080fd458a956584ffd8e5f5c665",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "97e8ae4f73a8d1a311a03dfb94e82dfc",
+      "md5": "f27ef66a2b640f0854840d4e559d04b7",
       "summation": "md5"
     },
     {
       "name": "nytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657249838",
-      "size": "3280896",
-      "md5": "00b23895af148c46e041b7c9184aea32",
-      "crc32": "e8ad6ee7",
-      "sha1": "833c5d1bbf0ea9a55c24c9ecce3123d3ca7e0ba9",
+      "mtime": "1657308776",
+      "size": "3293184",
+      "md5": "34ae03bf7dddc2ed336c9331a18935c4",
+      "crc32": "3d40a5c0",
+      "sha1": "b2c60dd02a700ee223cb48fc41ab5abec395eefd",
       "format": "Metadata"
     },
     {
@@ -30656,9 +30771,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2914,
-  "item_last_updated": 1657250142,
-  "item_size": 305908438,
+  "files_count": 2925,
+  "item_last_updated": 1657308872,
+  "item_size": 307123023,
   "metadata": {
     "identifier": "nytimes-2022",
     "collection": [
@@ -30675,720 +30790,21 @@
     "publicdate": "2022-03-23 00:46:07",
     "addeddate": "2022-03-23 00:46:07"
   },
-  "nytimes-2022": [
-    {
-      "text": "Continue reading the main story",
-      "url": "#after-dfp-ad-top"
-    },
-    {
-      "text": "Skip to content",
-      "url": "#site-content"
-    },
-    {
-      "text": "Skip to site index",
-      "url": "#site-index"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "U.S.",
-      "url": "/"
-    },
-    {
-      "text": "International",
-      "url": "/international/?action=click&region=Editions&pgtype=Homepage"
-    },
-    {
-      "text": "Canada",
-      "url": "/ca/?action=click&region=Editions&pgtype=Homepage"
-    },
-    {
-      "text": "Espa\u00f1ol",
-      "url": "https://www.nytimes.com/es/"
-    },
-    {
-      "text": "\u4e2d\u6587",
-      "url": "https://cn.nytimes.com"
-    },
-    {
-      "text": "Subscribe for $1/week",
-      "url": "https://www.nytimes.com/subscription?campaignId=79FKF"
-    },
-    {
-      "text": "Log in",
-      "url": "https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fonboarding-offer%3FcampaignId%3D7JFJX%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F&asset=masthead"
-    },
-    {
-      "text": "",
-      "url": "https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fonboarding-offer%3FcampaignId%3D7JFJX%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F&asset=masthead"
-    },
-    {
-      "text": "Today\u2019s Paper",
-      "url": "https://www.nytimes.com/section/todayspaper"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "World",
-      "url": "/section/world"
-    },
-    {
-      "text": "U.S.",
-      "url": "/section/us"
-    },
-    {
-      "text": "Politics",
-      "url": "/section/politics"
-    },
-    {
-      "text": "N.Y.",
-      "url": "/section/nyregion"
-    },
-    {
-      "text": "Business",
-      "url": "/section/business"
-    },
-    {
-      "text": "Opinion",
-      "url": "/section/opinion"
-    },
-    {
-      "text": "Tech",
-      "url": "/section/technology"
-    },
-    {
-      "text": "Science",
-      "url": "/section/science"
-    },
-    {
-      "text": "Health",
-      "url": "/section/health"
-    },
-    {
-      "text": "Sports",
-      "url": "/section/sports"
-    },
-    {
-      "text": "Arts",
-      "url": "/section/arts"
-    },
-    {
-      "text": "Books",
-      "url": "/section/books"
-    },
-    {
-      "text": "Style",
-      "url": "/section/style"
-    },
-    {
-      "text": "Food",
-      "url": "/section/food"
-    },
-    {
-      "text": "Travel",
-      "url": "/section/travel"
-    },
-    {
-      "text": "Magazine",
-      "url": "/section/magazine"
-    },
-    {
-      "text": "T Magazine",
-      "url": "/section/t-magazine"
-    },
-    {
-      "text": "Real Estate",
-      "url": "/section/realestate"
-    },
-    {
-      "text": "Video",
-      "url": "/video"
-    },
-    {
-      "text": "World",
-      "url": "/section/world"
-    },
-    {
-      "text": "U.S.",
-      "url": "/section/us"
-    },
-    {
-      "text": "Politics",
-      "url": "/section/politics"
-    },
-    {
-      "text": "N.Y.",
-      "url": "/section/nyregion"
-    },
-    {
-      "text": "Business",
-      "url": "/section/business"
-    },
-    {
-      "text": "Opinion",
-      "url": "/section/opinion"
-    },
-    {
-      "text": "Tech",
-      "url": "/section/technology"
-    },
-    {
-      "text": "Science",
-      "url": "/section/science"
-    },
-    {
-      "text": "Health",
-      "url": "/section/health"
-    },
-    {
-      "text": "Sports",
-      "url": "/section/sports"
-    },
-    {
-      "text": "Arts",
-      "url": "/section/arts"
-    },
-    {
-      "text": "Books",
-      "url": "/section/books"
-    },
-    {
-      "text": "Style",
-      "url": "/section/style"
-    },
-    {
-      "text": "Food",
-      "url": "/section/food"
-    },
-    {
-      "text": "Travel",
-      "url": "/section/travel"
-    },
-    {
-      "text": "Magazine",
-      "url": "/section/magazine"
-    },
-    {
-      "text": "T Magazine",
-      "url": "/section/t-magazine"
-    },
-    {
-      "text": "Real Estate",
-      "url": "/section/realestate"
-    },
-    {
-      "text": "Video",
-      "url": "/video"
-    },
-    {
-      "text": "Analysis: For Boris Johnson, a Tumultuous Tenure Ends With a Messy ExitIn announcing his resignation, Britain\u2019s prime minister found one of the few times in his career where he was unable to bend the narrative to his advantage.Ultimately, his risk-taking bravado wasn\u2019t enough to compensate for his shortcomings, or to overcome a severe loss of support in the Conservative Party.",
-      "url": "https://www.nytimes.com/2022/07/07/world/europe/uk-prime-minister-johnson-resign.html"
-    },
-    {
-      "text": "Boris Johnson Quits, Bowing to Pressure After Latest ScandalConservative Party lawmakers who once defended the prime minister turned against him. Some are now vying to replace him.",
-      "url": "https://www.nytimes.com/2022/07/07/world/europe/boris-johnson-resignation-britain.html"
-    },
-    {
-      "text": "Tolga Akmen/EPA, via Shutterstock",
-      "url": "https://www.nytimes.com/2022/07/07/world/europe/uk-prime-minister-johnson-resign.html"
-    },
-    {
-      "text": "Boris Johnson plans to remain on as prime minister until a successor is chosen. Catch up on the resignation.",
-      "url": "https://www.nytimes.com/live/2022/07/07/world/boris-johnson-resign-news"
-    },
-    {
-      "text": "Here are some of the major controversies that have dogged Boris Johnson\u2019s three-year tenure.",
-      "url": "https://www.nytimes.com/live/2022/07/07/world/boris-johnson-resign-news/some-of-the-scandals-that-have-battered-johnson-politically"
-    },
-    {
-      "text": "I.R.S. Asks for Review of James Comey and Andrew McCabe AuditsThe agency said its commissioner asked the Treasury Department\u2019s inspector general to look into the audits after The Times raised questions about them.",
-      "url": "https://www.nytimes.com/2022/07/07/us/politics/irs-comey-mccabe.html"
-    },
-    {
-      "text": "How unlikely is it that the audits of James Comey and Andrew McCabe were a coincidence?",
-      "url": "https://www.nytimes.com/2022/07/07/upshot/comey-mccabe-tax-audits.html"
-    },
-    {
-      "text": "Monica Jorge for The New York Times",
-      "url": "https://www.nytimes.com/2022/07/07/us/politics/irs-comey-mccabe.html"
-    },
-    {
-      "text": "Russia-Ukraine War",
-      "url": "https://www.nytimes.com/news-event/ukraine-russia"
-    },
-    {
-      "text": "Updates",
-      "url": "https://www.nytimes.com/live/2022/07/07/world/russia-ukraine-war-news"
-    },
-    {
-      "text": "Ukraine\u2019s War Dead",
-      "url": "https://www.nytimes.com/live/2022/06/18/world/ukraine-russia-news-deaths"
-    },
-    {
-      "text": "Maps: Russia's Invasion",
-      "url": "https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html"
-    },
-    {
-      "text": "Photos",
-      "url": "https://www.nytimes.com/article/russia-invades-ukraine-photos.html"
-    },
-    {
-      "text": "Attacks on Civilians",
-      "url": "https://www.nytimes.com/2022/07/02/world/europe/russian-civilian-attacks-ukraine.html"
-    },
-    {
-      "text": "LIVEAfter Russian Strikes in Donetsk, Officials Warn of Fuller AssaultExperts said the strikes that pummeled towns in Ukraine\u2019s Donbas region are most likely a prelude to a full-scale attack. Follow updates on the war.",
-      "url": "https://www.nytimes.com/live/2022/07/07/world/russia-ukraine-war-news"
-    },
-    {
-      "text": "Brittney Griner Pleads Guilty to Drug Charges in Russian Court\u201cThere was no intent,\u201d the American basketball star said, as any resolution of the highly politicized case appeared to shift toward the diplomatic arena.",
-      "url": "https://www.nytimes.com/2022/07/07/world/europe/brittney-griner-russia.html"
-    },
-    {
-      "text": "Brittney Griner\u2019s supporters said they were still determined to bring her home.",
-      "url": "https://www.nytimes.com/2022/07/07/sports/basketball/brittney-griner-supporters-wife-wnba.html"
-    },
-    {
-      "text": "Alexander Zemlianichenko/Associated Press",
-      "url": "https://www.nytimes.com/2022/07/07/world/europe/brittney-griner-russia.html"
-    },
-    {
-      "text": "James Caan, Actor Who Won Fame in \u2018The Godfather,\u2019 Dies at 82A Bronx native, he starred in countless movies and TV shows, but was most closely identified with the volatile character Sonny Corleone.",
-      "url": "https://www.nytimes.com/2022/07/07/movies/james-caan-dead.html"
-    },
-    {
-      "text": "Who else could star in both \u201cThe Godfather\u201d and \u201cElf\u201d? Here are nine James Caan movies to stream right now.",
-      "url": "https://www.nytimes.com/2022/07/07/movies/james-caan-movies-streaming.html"
-    },
-    {
-      "text": "CBS via Getty Images",
-      "url": "https://www.nytimes.com/2022/07/07/movies/james-caan-dead.html"
-    },
-    {
-      "text": "Democrats Propose Raising Taxes on Some High Earners to Bolster MedicareThe draft plan, which is expected to be unveiled in the coming days, is part of talks over how to salvage pieces of President Biden\u2019s domestic agenda.Anna Rose Layden for The New York Times",
-      "url": "https://www.nytimes.com/2022/07/07/us/politics/medicare-solvency-taxes.html"
-    },
-    {
-      "text": "Jobs Aplenty, but a Shortage of Care Keeps Many Women From BenefitingA lack of child care and elder care options has forced some women to limit their hours or sidelined them altogether, hurting their career prospects.Jimena Peck for The New York Times",
-      "url": "https://www.nytimes.com/2022/07/07/business/economy/women-labor-caregiving.html"
-    },
-    {
-      "text": "What the BA.5 Subvariant Could Mean for the United StatesThe most transmissible variant yet is threatening a fresh wave of infections in the United States, even among those who have recovered fairly recently.",
-      "url": "https://www.nytimes.com/interactive/2022/07/07/us/ba5-covid-omicron-subvariant.html"
-    },
-    {
-      "text": "The pandemic has eroded Americans\u2019 trust in experts and elected leaders alike, a survey found. Follow Covid updates.",
-      "url": "https://www.nytimes.com/live/2022/07/07/world/covid-19-mandates-vaccine-cases"
-    },
-    {
-      "text": "",
-      "url": "https://www.nytimes.com/interactive/2022/07/07/us/ba5-covid-omicron-subvariant.html"
-    },
-    {
-      "text": "Tracking the Coronavirus \u203a",
-      "url": "https://www.nytimes.com/interactive/2021/us/covid-cases.html"
-    },
-    {
-      "text": "United States\u00a0\u203a United States\u00a0\u203a United StatesAvg. on Jul. 7 14-day change New\u00a0cases 107,811 +8%  Hospitalized 34,800 +13%  New\u00a0deaths 321 \u20132%  ",
-      "url": "https://www.nytimes.com/interactive/2021/us/covid-cases.html"
-    },
-    {
-      "text": "U.S. hot spots \u203a  ",
-      "url": "https://www.nytimes.com/interactive/2021/us/covid-cases.html"
-    },
-    {
-      "text": "Vaccinations \u203a  ",
-      "url": "https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html"
-    },
-    {
-      "text": "Global hot spots \u203a  ",
-      "url": "https://www.nytimes.com/interactive/2021/world/covid-cases.html"
-    },
-    {
-      "text": "Conn.",
-      "url": "https://www.nytimes.com/interactive/2021/us/connecticut-covid-cases.html"
-    },
-    {
-      "text": "Ark.",
-      "url": "https://www.nytimes.com/interactive/2021/us/arkansas-covid-cases.html"
-    },
-    {
-      "text": "Pa.",
-      "url": "https://www.nytimes.com/interactive/2021/us/pennsylvania-covid-cases.html"
-    },
-    {
-      "text": "Okla.",
-      "url": "https://www.nytimes.com/interactive/2021/us/oklahoma-covid-cases.html"
-    },
-    {
-      "text": "County lookup",
-      "url": "https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html"
-    },
-    {
-      "text": "Conn.",
-      "url": "https://www.nytimes.com/interactive/2021/us/connecticut-covid-cases.html"
-    },
-    {
-      "text": "Ark.",
-      "url": "https://www.nytimes.com/interactive/2021/us/arkansas-covid-cases.html"
-    },
-    {
-      "text": "Pa.",
-      "url": "https://www.nytimes.com/interactive/2021/us/pennsylvania-covid-cases.html"
-    },
-    {
-      "text": "Okla.",
-      "url": "https://www.nytimes.com/interactive/2021/us/oklahoma-covid-cases.html"
-    },
-    {
-      "text": "County lookup",
-      "url": "https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html"
-    },
-    {
-      "text": "Global vaccinations",
-      "url": "https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html"
-    },
-    {
-      "text": "Rafael Nadal Withdraws From Wimbledon Ahead of Semifinal MatchNadal, the 22-time Grand Slam champion, pulled out of his semifinal match against Nick Kyrgios after tearing a muscle in his abdomen.Hannah Mckay/Reuters",
-      "url": "https://www.nytimes.com/2022/07/07/sports/tennis/nadal-wimbledon.html"
-    },
-    {
-      "text": "Monkeypox",
-      "url": "https://www.nytimes.com/spotlight/monkeypox"
-    },
-    {
-      "text": "What to Know",
-      "url": "https://www.nytimes.com/article/what-is-monkeypox.html"
-    },
-    {
-      "text": "How Serious Is the Virus?",
-      "url": "https://www.nytimes.com/article/monkeypox-virus-covid.html"
-    },
-    {
-      "text": "Vaccine Supply Concerns",
-      "url": "https://www.nytimes.com/2022/07/01/health/monkeypox-vaccine-bavarian-nordic.html"
-    },
-    {
-      "text": "Who Has Immunity?",
-      "url": "https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html"
-    },
-    {
-      "text": "The Outbreak\u2019s Origins",
-      "url": "https://www.nytimes.com/2022/06/23/health/monkeypox-origin-mutations.html"
-    },
-    {
-      "text": "Monkeypox Vaccine Rollout Is Marred by Glitches in New York CityThe city has struggled to respond to a growing monkeypox outbreak, the first major public health crisis since the Covid pandemic began.Hiram Dur\u00e1n for The New York Times",
-      "url": "https://www.nytimes.com/2022/07/07/nyregion/monkeypox-vaccine-rollout.html"
-    },
-    {
-      "text": "Decoding the Defiance of Henry VIII\u2019s First WifeUsing a process she called \u201cearly modern Wordle,\u201d a scholar claims to have uncovered a hidden message from Catherine of Aragon in a book of jewelry designs.",
-      "url": "https://www.nytimes.com/2022/07/07/arts/ciphers-henry-viii-catherine.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.nytimes.com/2022/07/07/arts/ciphers-henry-viii-catherine.html"
-    },
-    {
-      "text": "\u00a9 2022 The Josef and Anni Albers Foundation/Artists Rights Society (ARS), New YorkWhy Are We Still Talking About Black Mountain College?In 1933, a handful of renegade teachers opened a school in rural North Carolina that would shape American art and art education for decades to come.",
-      "url": "https://www.nytimes.com/2022/07/07/t-magazine/black-mountain-college.html"
-    },
-    {
-      "text": "He was looking for a studio in Manhattan for less than $500,000. Which would you choose?",
-      "url": "https://www.nytimes.com/interactive/2022/07/07/realestate/11hunt-gimbel.html"
-    },
-    {
-      "text": "Catch up on Miami\u2019s newest attractions after its pandemic-fueled boom.",
-      "url": "https://www.nytimes.com/2022/07/07/travel/things-to-do-miami.html"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.nytimes.com/section/opinion"
-    },
-    {
-      "text": "Michelle GoldbergBoris Johnson Is Going Down The Way Trump Should Have",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/boris-johnson-resignation.html"
-    },
-    {
-      "text": "Quiz: The Sex Ed Questions Everyone Should Know the Answers ToThe New York Times",
-      "url": "https://www.nytimes.com/interactive/2022/07/07/opinion/sex-education-quiz.html"
-    },
-    {
-      "text": "Paul KrugmanThat Was the Stagflation That Was",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/inflation-recession-the-fed.html"
-    },
-    {
-      "text": "David BrooksWhy Mass Shooters Do the Evil They Do",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/mass-shooters-motive.html"
-    },
-    {
-      "text": "\u2018First Person\u2019In Russia, Gay People Are Routinely Targeted. That\u2019s Why This Ukrainian Soldier Is Fighting.",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/gay-ukrainian-soldier-fights-for-ukraine.html"
-    },
-    {
-      "text": "Aaron E. CarrollWhat\u2019s Wrong With Health Insurance? Deductibles Are Ridiculous, for Starters.",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/medical-debt-health-care-cost.html"
-    },
-    {
-      "text": "Frank BruniJoe Biden Better Watch His Back",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/joe-biden-better-watch-his-back.html"
-    },
-    {
-      "text": "Tim KreiderIt\u2019s Time to Stop Living the American Scam",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/work-busy-trap-millennials.html"
-    },
-    {
-      "text": "Martha GillBoris Johnson Made a Terrible Mistake: He Apologized",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/boris-johnson-britain-resignations.html"
-    },
-    {
-      "text": "Jay Caspian KangThe Nihilism of the Minions",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/minions-movie-nihilism.html"
-    },
-    {
-      "text": "Noah MillmanRepublicans May Have Set Themselves Up for a Showdown With the Supreme Court",
-      "url": "https://www.nytimes.com/2022/07/06/opinion/republicans-supreme-court-administrative-state.html"
-    },
-    {
-      "text": "Letters From Our ReadersAn American \u2018Dystopia,\u2019 After Roe",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/letters/abortion-roe-v-wade-dobbs.html"
-    },
-    {
-      "text": "Jessica GroseThese New Breastfeeding Guidelines Ignore the Reality of Many American Moms",
-      "url": "https://www.nytimes.com/2022/07/06/opinion/breastfeeding-guidelines.html"
-    },
-    {
-      "text": "Charles M. BlowShow the Carnage",
-      "url": "https://www.nytimes.com/2022/07/06/opinion/show-photos-mass-shootings.html"
-    },
-    {
-      "text": "Sarah MilovThe End of the Illusion That Smoking Is a Choice",
-      "url": "https://www.nytimes.com/2022/07/06/opinion/nicotine-smoking-cigarettes.html"
-    },
-    {
-      "text": "Melissa MurrayAmericans Are Losing Their Right to Not Conform",
-      "url": "https://www.nytimes.com/2022/07/06/opinion/dobbs-griswold-abortion-rights-conformity.html"
-    },
-    {
-      "text": "Continue reading the main story",
-      "url": "#after-dfp-ad-mid1"
-    },
-    {
-      "text": "Your Thursday Evening BriefingHere\u2019s what you need to know at the end of the day.",
-      "url": "https://www.nytimes.com/2022/07/07/briefing/boris-johnson-james-comey-whales.html"
-    },
-    {
-      "text": "Read The Veggie NewsletterEat well in the great outdoors.",
-      "url": "https://www.nytimes.com/2022/07/07/dining/eating-well-in-the-great-outdoors.html"
-    },
-    {
-      "text": "Listen to \u2018Popcast\u2019What\u2019s next for Jack Harlow?",
-      "url": "https://www.nytimes.com/2022/07/07/arts/music/popcast-jack-harlow.html"
-    },
-    {
-      "text": "\u6d77\u5916\u534e\u4eba\u672d\u8bb0 | TikTok\u518d\u6b21\u9ebb\u70e6\u7f20\u8eab\uff0c\u4e0b\u4e00\u4e2a\u88ab\u201c\u76ef\u4e0a\u201c\u7684\u4f1a\u662f\u8c01\uff1fRead our Chinese-language newsletter.",
-      "url": "https://www.nytimes.com/zh-hans/2022/07/07/world/asia/tiktok-china-us-national-security.html"
-    },
-    {
-      "text": "Killer of George Floyd Sentenced to 21 Years for Violating Civil RightsDerek Chauvin, who is serving over 22 years in prison, pleaded guilty to federal charges that he used excessive force against Mr. Floyd and a 14-year-old boy.",
-      "url": "https://www.nytimes.com/2022/07/07/us/derek-chauvin-george-floyd-sentence.html"
-    },
-    {
-      "text": "Texas Governor Orders State Police to Return Migrants to BorderThe order by Gov. Greg Abbott calls for the state authorities to take on an immigration role that is typically the purview of the federal government.",
-      "url": "https://www.nytimes.com/2022/07/07/us/abbott-texas-migrants.html"
-    },
-    {
-      "text": "After Roe, South Carolina Considers More Restrictions on AbortionThe state legislature was the first to step into a post-Roe world, clearing the path for full bans in other conservative states.",
-      "url": "https://www.nytimes.com/2022/07/07/us/south-carolina-abortion.html"
-    },
-    {
-      "text": "Ed Mann/National Park ServiceFirst, the Fish Fell From the Sky. Then They Washed Ashore.In the past month, dead anchovies have been spotted on San Francisco\u2019s streets. Last week, thousands appeared at the edge of a lagoon about 30 miles north.",
-      "url": "https://www.nytimes.com/2022/07/07/us/anchovy-dead-falling-from-sky-california.html"
-    },
-    {
-      "text": "Former No. 2 Executive at Theranos Found Guilty of 12 Counts of Fraud",
-      "url": "https://www.nytimes.com/2022/07/07/technology/ramesh-balwani-theranos-fraud.html"
-    },
-    {
-      "text": "Raiders Make N.F.L. History With Team President Hire",
-      "url": "https://www.nytimes.com/2022/07/07/sports/football/sandra-douglass-morgan-raiders.html"
-    },
-    {
-      "text": "\u2018This Is America\u2019: Biden Honors 17 With Presidential Medal of Freedom",
-      "url": "https://www.nytimes.com/2022/07/07/us/politics/presidential-medal-of-freedom-biles-mccain.html"
-    },
-    {
-      "text": "Secret Service Director to Step Down and Join Maker of Snapchat",
-      "url": "https://www.nytimes.com/2022/07/07/us/politics/james-murray-secret-service.html"
-    },
-    {
-      "text": "Cleveland Officer Who Killed Tamir Rice Swiftly Exits New Police Job",
-      "url": "https://www.nytimes.com/2022/07/07/us/tamir-rice-timothy-loehmann-pennsylvania.html"
-    },
-    {
-      "text": "Rotterdam Won\u2019t Dismantle Bridge to Allow Jeff Bezos\u2019 Superyacht Through",
-      "url": "https://www.nytimes.com/2022/07/07/world/europe/bezos-yacht-rotterdam-bridge.html"
-    },
-    {
-      "text": "Spirit Airlines Again Puts Off Vote on Frontier Offer as It Mulls JetBlue\u2019s",
-      "url": "https://www.nytimes.com/2022/07/07/business/spirit-airlines-frontier-jetblue.html"
-    },
-    {
-      "text": "Dallas Cowboys Face Criticism After Partnership With Black Rifle Coffee",
-      "url": "https://www.nytimes.com/2022/07/07/us/dallas-cowboys-black-rifle-coffee.html"
-    },
-    {
-      "text": "Continue reading the main story",
-      "url": "#after-dfp-ad-mid2"
-    },
-    {
-      "text": "Vanessa Leroy for The New York TimesThe Healing Power of Strength Training",
-      "url": "https://www.nytimes.com/2022/07/07/well/move/weight-lifting-ptsd-trauma.html"
-    },
-    {
-      "text": "Logan Lynette for The New York TimesThe Mental Health Benefits of an Inclusive Outdoor Escape",
-      "url": "https://www.nytimes.com/2022/07/07/well/mind/ecotherapy-mental-health-diversity.html"
-    },
-    {
-      "text": "Getty ImagesWhat Is Prosopagnosia?",
-      "url": "https://www.nytimes.com/2022/07/06/well/mind/prosopagnosia-face-blindness.html"
-    },
-    {
-      "text": "Getty ImagesWhen to Take a \u2018Sad Day\u2019",
-      "url": "https://www.nytimes.com/2021/07/29/well/mind/mental-health-day.html"
-    },
-    {
-      "text": "Robert NicolThe Secret to Aging Well? Contentment.",
-      "url": "https://www.nytimes.com/2018/10/02/well/live/the-secret-to-aging-well-contentment.html"
-    },
-    {
-      "text": " Jasin Boland/Marvel Studios/Disney\u2018Thor: Love and Thunder\u2019 Review: A God\u2019s Comic TwilightThe director Taika Waititi injects silliness into this Marvel franchise starring Chris Hemsworth, who swings a mighty hammer and flexes mightier muscles. ",
-      "url": "https://www.nytimes.com/2022/07/07/movies/thor-love-and-thunder-review.html"
-    },
-    {
-      "text": "Violette Franchi for The New York TimesTobias Kratzer Leads Opera\u2019s Next Generation of DirectorsWith concurrent productions in France that are fresh yet faithful, Mr. Kratzer is \u201crenewing opera, but renewing it intelligently,\u201d says one colleague.",
-      "url": "https://www.nytimes.com/2022/07/06/arts/music/tobias-kratzer-director.html"
-    },
-    {
-      "text": "Photo illustration by Mark WeaverThe Rise of the Professional-Athlete PodcastDoes getting game analyses straight from the source take away some of the magic?",
-      "url": "https://www.nytimes.com/2022/07/06/magazine/professional-athlete-podcast.html"
-    },
-    {
-      "text": "Martin Chan/South China Morning Post via Getty ImagesNi Kuang, Hong Kong Novelist and Screenwriter, Dies at 87Best known for fantastical thrillers that doubled as political allegories, he also wrote hundreds of martial arts films for Bruce Lee and others.",
-      "url": "https://www.nytimes.com/2022/07/07/books/ni-kuang-dead.html"
-    },
-    {
-      "text": "AbramoramaIn \u2018Living Wine,\u2019 Natural Wine Transcends the Clich\u00e9sForget funkiness. The focus of this documentary is farming, culture, the environment, climate change and great-tasting wine.",
-      "url": "https://www.nytimes.com/2022/07/07/dining/drinks/living-wine-documentary.html"
-    },
-    {
-      "text": "Continue reading the main story",
-      "url": "#after-dfp-ad-mid3"
-    },
-    {
-      "text": "Spelling BeeHow many words can you make with 7 letters?",
-      "url": "https://www.nytimes.com/puzzles/spelling-bee"
-    },
-    {
-      "text": "The CrosswordGet clued in with wordplay, every day.",
-      "url": "https://www.nytimes.com/crosswords"
-    },
-    {
-      "text": "Chess ReplayPlay historic chess games.",
-      "url": "https://nytimes.com/spotlight/chess-puzzles"
-    },
-    {
-      "text": "Letter BoxedCreate words using letters around the square.",
-      "url": "https://www.nytimes.com/puzzles/letter-boxed"
-    },
-    {
-      "text": "TilesMatch visual elements and keep your chain going.",
-      "url": "https://www.nytimes.com/puzzles/tiles"
-    },
-    {
-      "text": "VertexConnect the dots to reveal the hidden picture.",
-      "url": "https://www.nytimes.com/puzzles/vertex"
-    },
-    {
-      "text": "Continue reading the main story",
-      "url": "#after-dfp-ad-bottom"
-    },
-    {
-      "text": "\u00a9\u00a02022\u00a0The New York Times Company",
-      "url": "https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice"
-    },
-    {
-      "text": "NYTCo",
-      "url": "https://www.nytco.com/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us"
-    },
-    {
-      "text": "Accessibility",
-      "url": "https://help.nytimes.com/hc/en-us/articles/115015727108-Accessibility"
-    },
-    {
-      "text": "Work with us",
-      "url": "https://www.nytco.com/careers/"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://nytmediakit.com/"
-    },
-    {
-      "text": "T Brand Studio",
-      "url": "https://www.tbrandstudio.com/"
-    },
-    {
-      "text": "Your Ad Choices",
-      "url": "https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.nytimes.com/privacy/privacy-policy"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service"
-    },
-    {
-      "text": "Terms of Sale",
-      "url": "https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale"
-    },
-    {
-      "text": "Site Map",
-      "url": "/sitemap/"
-    },
-    {
-      "text": "Canada",
-      "url": "https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage"
-    },
-    {
-      "text": "International",
-      "url": "https://www.nytimes.com/international/?action=click&region=Footer&pgtype=Homepage"
-    },
-    {
-      "text": "Help",
-      "url": "https://help.nytimes.com/hc/en-us"
-    },
-    {
-      "text": "Subscriptions",
-      "url": "https://www.nytimes.com/subscription?campaignId=37WXW"
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3325311078,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "server": "ia801401.us.archive.org",
-  "uniq": 2026581045,
+  "uniq": 1367590878,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

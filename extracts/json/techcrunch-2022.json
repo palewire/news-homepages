@@ -1,5 +1,5 @@
 {
-  "created": 1657266413,
+  "created": 1657309400,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/techcrunch-2022",
@@ -2494,31 +2494,177 @@
       "sha1": "5460de1811eb3d96831f21d5262ad7b3fa131469"
     },
     {
+      "name": "techcrunch-2022-07-08T09:49:18.918894-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657298961",
+      "size": "28582",
+      "md5": "36077385770172c29b7e777dfcfdc7d2",
+      "crc32": "26548c4d",
+      "sha1": "433ab9cc4ffc9322371055a78d2f30c69ccdb362",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-08T09:49:18.918894-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657298963",
+      "size": "12223",
+      "md5": "1520c9df736134704a478959e1aa9ca0",
+      "crc32": "a4ee580f",
+      "sha1": "52b07c39827898248e94986382dcc853c117afe5",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-08T09:49:18.918894-07:00.jpg",
+      "source": "original",
+      "mtime": "1657298960",
+      "size": "218775",
+      "md5": "3ac585a204e93fb98d65a83679ff0141",
+      "crc32": "02c17f58",
+      "sha1": "5640d5dd63e731986cb7470db63719beab14aef6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-07-08T09:49:18.918894-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-07-08T09:49:18.918894-07:00.jpg",
+      "mtime": "1657304142",
+      "size": "8373",
+      "md5": "dfe711b4bdbc2747d9ac7b3459d4b0ef",
+      "crc32": "fdbd931e",
+      "sha1": "9889259ba36233fae21163ad9f1c53308b848066"
+    },
+    {
+      "name": "techcrunch-2022-07-08T09:49:24.590814-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657298967",
+      "size": "28582",
+      "md5": "36077385770172c29b7e777dfcfdc7d2",
+      "crc32": "26548c4d",
+      "sha1": "433ab9cc4ffc9322371055a78d2f30c69ccdb362",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-08T09:49:24.590814-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657298969",
+      "size": "12223",
+      "md5": "1520c9df736134704a478959e1aa9ca0",
+      "crc32": "a4ee580f",
+      "sha1": "52b07c39827898248e94986382dcc853c117afe5",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-08T09:49:24.590814-07:00.jpg",
+      "source": "original",
+      "mtime": "1657298966",
+      "size": "218775",
+      "md5": "3ac585a204e93fb98d65a83679ff0141",
+      "crc32": "02c17f58",
+      "sha1": "5640d5dd63e731986cb7470db63719beab14aef6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-07-08T09:49:24.590814-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-07-08T09:49:24.590814-07:00.jpg",
+      "mtime": "1657304146",
+      "size": "8373",
+      "md5": "dfe711b4bdbc2747d9ac7b3459d4b0ef",
+      "crc32": "fdbd931e",
+      "sha1": "9889259ba36233fae21163ad9f1c53308b848066"
+    },
+    {
+      "name": "techcrunch-2022-07-08T11:14:51.347261-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657304097",
+      "size": "29166",
+      "md5": "b31763056724ed47d2d056d9dee7bd3e",
+      "crc32": "7c737678",
+      "sha1": "05b7489ca06599b9464463ce725c377f01b7921e",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-08T11:14:51.347261-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657304099",
+      "size": "12474",
+      "md5": "86f9473c2b4ef5be39827b3f54087d13",
+      "crc32": "69b9d2b0",
+      "sha1": "f47cc4e75f5b978e841d789120f31a65f82d48d8",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-08T11:14:51.347261-07:00.jpg",
+      "source": "original",
+      "mtime": "1657304094",
+      "size": "233100",
+      "md5": "bbee3562007bea09a627df386905965d",
+      "crc32": "0f7dc393",
+      "sha1": "c8ead343132a0e9f4fa32f2c895bdda2ce0eb814",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-07-08T11:15:01.894101-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657304109",
+      "size": "29166",
+      "md5": "b31763056724ed47d2d056d9dee7bd3e",
+      "crc32": "7c737678",
+      "sha1": "05b7489ca06599b9464463ce725c377f01b7921e",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-08T11:15:01.894101-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657304114",
+      "size": "12474",
+      "md5": "86f9473c2b4ef5be39827b3f54087d13",
+      "crc32": "69b9d2b0",
+      "sha1": "f47cc4e75f5b978e841d789120f31a65f82d48d8",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-08T11:15:01.894101-07:00.jpg",
+      "source": "original",
+      "mtime": "1657304106",
+      "size": "233100",
+      "md5": "bbee3562007bea09a627df386905965d",
+      "crc32": "0f7dc393",
+      "sha1": "c8ead343132a0e9f4fa32f2c895bdda2ce0eb814",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
       "name": "techcrunch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "595de512a1c76affbe9dc9791746468eeb13f49a",
-      "mtime": "1657252550",
-      "size": "51649",
-      "md5": "0896208a50903de73bcc243a69bc3a0b",
-      "crc32": "836032a5",
-      "sha1": "868cb0e7be7a6c6b5c3341fd59f84f796fda2617",
+      "btih": "64229c21fbe0edafd30f5d3032dd295c8b29b43f",
+      "mtime": "1657304246",
+      "size": "54625",
+      "md5": "b96e8bd9f8b2e36360b71a77ce689ec9",
+      "crc32": "cbbd23dc",
+      "sha1": "b4a19815d7ef686e8341286e50ae53bc4beff1f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techcrunch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04168e796ba3fa08f5c41272e1303385",
+      "md5": "6b0c2804d884a2a6d95bdf5f4f3cdab3",
       "summation": "md5"
     },
     {
       "name": "techcrunch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657252480",
-      "size": "290816",
-      "md5": "a7e30b28b4f182b4ab8817d66fbd066f",
-      "crc32": "8b7bff30",
-      "sha1": "d4090273d2885afb0428c15619972e0d6e9ba1e6",
+      "mtime": "1657304241",
+      "size": "307200",
+      "md5": "2ff2b6a24f612fde32a056441b24470c",
+      "crc32": "573b8a8a",
+      "sha1": "58057defb06093597612cfde6c92d7ffa22b41ee",
       "format": "Metadata"
     },
     {
@@ -2532,9 +2678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 241,
-  "item_last_updated": 1657252550,
-  "item_size": 16459516,
+  "files_count": 255,
+  "item_last_updated": 1657304246,
+  "item_size": 17564262,
   "metadata": {
     "identifier": "techcrunch-2022",
     "collection": [
@@ -2551,10 +2697,475 @@
     "publicdate": "2022-06-24 23:01:49",
     "addeddate": "2022-06-24 23:01:49"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1060153739,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3325243768,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "techcrunch-2022": [
+    {
+      "text": "TechCrunch",
+      "url": "https://techcrunch.com/"
+    },
+    {
+      "text": "Login",
+      "url": "https://oidc.techcrunch.com/login/?prompt=login&dest=https%3A%2F%2Ftechcrunch.com%2F"
+    },
+    {
+      "text": "Join TechCrunch+",
+      "url": "/subscribe?tpcc=homepagetout"
+    },
+    {
+      "text": "TC Sessions: Robotics",
+      "url": "/events/tc-sessions-robotics-2022/"
+    },
+    {
+      "text": "Startups",
+      "url": "/category/startups/"
+    },
+    {
+      "text": "TechCrunch+",
+      "url": "/techcrunchplus/?tpcc=ecleftnav"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/pages/podcasts/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters"
+    },
+    {
+      "text": "Startup Battlefield",
+      "url": "/events/tc-disrupt-2022/startup-battlefield-200/"
+    },
+    {
+      "text": "Advertise",
+      "url": "/pages/advertisement-events-calendar/"
+    },
+    {
+      "text": "Events",
+      "url": "/events/"
+    },
+    {
+      "text": "More",
+      "url": "/"
+    },
+    {
+      "text": "Another fatal Tesla crash is being investigated by US safety regulators",
+      "url": "/2022/07/07/another-fatal-tesla-crash-is-being-investigated-by-u-s-safety-regulators/"
+    },
+    {
+      "text": "Kirsten Korosec",
+      "url": "/author/kirsten-korosec/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/07/another-fatal-tesla-crash-is-being-investigated-by-u-s-safety-regulators/"
+    },
+    {
+      "text": "Ford, VW-backed Argo AI lays off 150 workers, slows hiring",
+      "url": "/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/"
+    },
+    {
+      "text": "Kirsten Korosec",
+      "url": "/author/kirsten-korosec/"
+    },
+    {
+      "text": "Sequoia wants to invest $1 million in your idea, then teach you how to really sell it",
+      "url": "/2022/07/07/sequoia-wants-to-invest-1-million-in-your-idea-then-teach-you-how-to-really-sell-it/"
+    },
+    {
+      "text": "Connie Loizos",
+      "url": "/author/connie-loizos/"
+    },
+    {
+      "text": "TechCrunch Live with Forerunner Ventures and Attabotics",
+      "url": "/events/techcrunch-live-with-forerunner-ventures-and-attabotics/"
+    },
+    {
+      "text": "How to use grants and partnerships to fund early stage robotic startups",
+      "url": "/2022/07/07/how-to-use-grants-and-partnerships-to-fund-early-stage-robotic-startups/"
+    },
+    {
+      "text": "Matt Burns",
+      "url": "/author/matt-burns/"
+    },
+    {
+      "text": "TechCrunch",
+      "url": "/"
+    },
+    {
+      "text": "Market Analysis",
+      "url": "/techcrunchplus/market-analysis/"
+    },
+    {
+      "text": "So are we in a startup recession or what?",
+      "url": "/2022/07/07/so-are-we-in-a-startup-recession-or-what/"
+    },
+    {
+      "text": "Alex Wilhelm",
+      "url": "/author/alex-wilhelm/"
+    },
+    {
+      "text": "Fundraising",
+      "url": "/techcrunchplus/fundraising/"
+    },
+    {
+      "text": "VCs slow Latin American investments after blowout 2021",
+      "url": "/2022/07/08/vcs-slow-latin-american-investments-after-blowout-2021/"
+    },
+    {
+      "text": "Alex Wilhelm",
+      "url": "/author/alex-wilhelm/"
+    },
+    {
+      "text": "Anna Heim",
+      "url": "/author/anna-heim/"
+    },
+    {
+      "text": "TechCrunch+ roundup: Abortion ban\u2019s hiring impact, 3 e-commerce trends, how to pivot a startup",
+      "url": "/2022/07/08/techcrunch-roundup-abortion-bans-hiring-impact-3-e-commerce-trends-how-to-pivot-a-startup/"
+    },
+    {
+      "text": "Walter Thompson",
+      "url": "/author/walter-thompson/"
+    },
+    {
+      "text": "TechCrunch",
+      "url": "/"
+    },
+    {
+      "text": "Fundraising",
+      "url": "/techcrunchplus/fundraising/"
+    },
+    {
+      "text": "7 ways investors can gain clarity while conducting technical due diligence",
+      "url": "/2022/07/08/7-ways-investors-can-gain-clarity-while-conducting-technical-due-diligence/"
+    },
+    {
+      "text": "Roger Hurwitz",
+      "url": "/author/roger-hurwitz/"
+    },
+    {
+      "text": "TechCrunch",
+      "url": "/"
+    },
+    {
+      "text": "Market Analysis",
+      "url": "/techcrunchplus/market-analysis/"
+    },
+    {
+      "text": "Massive Facebook survey shows climate investors have more sway on public opinion than you think",
+      "url": "/2022/07/08/massive-facebook-survey-shows-climate-investors-have-more-sway-on-public-opinion-than-you-think/"
+    },
+    {
+      "text": "Tim De Chant",
+      "url": "/author/tim-de-chant/"
+    },
+    {
+      "text": "TechCrunch Disrupt 2022",
+      "url": "/events/tc-disrupt-2022/"
+    },
+    {
+      "text": "Solana founder Anatoly Yakovenko discusses the crypto downturn at Disrupt",
+      "url": "/2022/07/08/solana-founder-anatoly-yakovenko-discusses-the-crypto-downturn-at-disrupt/"
+    },
+    {
+      "text": "Lauren Simonds",
+      "url": "/author/lauren-simonds-2/"
+    },
+    {
+      "text": "White House: Tesla to expand its US Supercharger network to other EVs in late 2022",
+      "url": "/2022/07/08/white-house-tesla-to-expand-its-u-s-supercharger-network-to-other-evs-in-late-2022/"
+    },
+    {
+      "text": "Jaclyn Trop",
+      "url": "/author/jaclyn-trop/"
+    },
+    {
+      "text": "Cauldrons, Bolts and sour markets: Welcome to Halloween in July",
+      "url": "/2022/07/08/cauldrons-bolts-and-sour-markets-welcome-to-halloween-in-july/"
+    },
+    {
+      "text": "Natasha Mascarenhas",
+      "url": "/author/natasha-mascarenhas/"
+    },
+    {
+      "text": "Alex Wilhelm",
+      "url": "/author/alex-wilhelm/"
+    },
+    {
+      "text": "Mary Ann Azevedo",
+      "url": "/author/mary-ann-azevedo-2/"
+    },
+    {
+      "text": "Universal Music Group signs licensing deal with African streaming service Mdundo",
+      "url": "/2022/07/08/universal-music-group-signs-licensing-deal-with-african-streaming-service-mdundo/"
+    },
+    {
+      "text": "Annie Njanja",
+      "url": "/author/annie-njanja/"
+    },
+    {
+      "text": "TechCrunchTechCrunch Disrupt 2022Oct 18 - 20Time to sign up for the most iconic startup ecosystem conference in the worldEarly Bird Pricing Available Nowcarat-rightBuy Now",
+      "url": "/events/tc-disrupt-2022/"
+    },
+    {
+      "text": "Butler shows hundreds of employees the door after raising $50M for room service delivery",
+      "url": "/2022/07/08/butler-shows-hundreds-of-employees-the-door-after-raising-50m-for-room-service-delivery/"
+    },
+    {
+      "text": "Kyle Wiggers",
+      "url": "/author/kyle-wiggers/"
+    },
+    {
+      "text": "See all newsletters(opens in a new window)",
+      "url": "https://link.techcrunch.com/join/134/signup-all-newsletters"
+    },
+    {
+      "text": "DEUNA enters Latin America\u2019s crowded one-click checkout sector flush with $37M",
+      "url": "/2022/07/08/deuna-latin-americas-one-click-checkout-series-a/"
+    },
+    {
+      "text": "Christine Hall",
+      "url": "/author/christine-hall/"
+    },
+    {
+      "text": "TechCrunch Live with Forerunner Ventures and Attabotics",
+      "url": "/events/techcrunch-live-with-forerunner-ventures-and-attabotics/"
+    },
+    {
+      "text": "Register",
+      "url": "/events/techcrunch-live-with-forerunner-ventures-and-attabotics/#tickets"
+    },
+    {
+      "text": "Be a Sponsor",
+      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
+    },
+    {
+      "text": "TC Sessions: Robotics 2022",
+      "url": "/events/tc-sessions-robotics-2022/"
+    },
+    {
+      "text": "Sign Up",
+      "url": "/events/tc-sessions-robotics-2022/#tickets"
+    },
+    {
+      "text": "Be a Sponsor",
+      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
+    },
+    {
+      "text": "TechCrunch Live with Underscore VC and Hi Marley",
+      "url": "/events/techcrunch-live-with-underscore-vc-and-hi-marley/"
+    },
+    {
+      "text": "Register",
+      "url": "/events/techcrunch-live-with-underscore-vc-and-hi-marley/#tickets"
+    },
+    {
+      "text": "Be a Sponsor",
+      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
+    },
+    {
+      "text": "TechCrunch Disrupt 2022",
+      "url": "/events/tc-disrupt-2022/"
+    },
+    {
+      "text": "Buy Tickets",
+      "url": "/events/tc-disrupt-2022/tickets/"
+    },
+    {
+      "text": "Be a Sponsor",
+      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
+    },
+    {
+      "text": "TC Sessions: Space 2022",
+      "url": "/events/tc-sessions-space-2022/"
+    },
+    {
+      "text": "Buy Tickets",
+      "url": "/events/tc-sessions-space-2022/#tickets"
+    },
+    {
+      "text": "Be a Sponsor",
+      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
+    },
+    {
+      "text": "TechCrunch",
+      "url": "/"
+    },
+    {
+      "text": "Market Analysis",
+      "url": "/techcrunchplus/market-analysis/"
+    },
+    {
+      "text": "EV charging sucks because it hasn\u2019t found the right business model",
+      "url": "/2022/07/08/ev-charging-sucks-because-it-hasnt-found-the-right-business-model/"
+    },
+    {
+      "text": "Tim De Chant",
+      "url": "/author/tim-de-chant/"
+    },
+    {
+      "text": "This startup hopes to get us to net zero via its platform to construct wooden buildings",
+      "url": "/2022/07/08/this-startup-hopes-to-get-us-to-net-zero-via-its-platform-to-construct-wooden-buildings/"
+    },
+    {
+      "text": "Mike Butcher",
+      "url": "/author/mike-butcher/"
+    },
+    {
+      "text": "Cyber insurance startup Coalition plots global expansion as valuation hits $5B",
+      "url": "/2022/07/08/coalition-insurance-cyber/"
+    },
+    {
+      "text": "Carly Page",
+      "url": "/author/carly-page/"
+    },
+    {
+      "text": "Sequoia wants to invest $1 million in your idea, then teach you how to really sell it",
+      "url": "/2022/07/07/sequoia-wants-to-invest-1-million-in-your-idea-then-teach-you-how-to-really-sell-it/"
+    },
+    {
+      "text": "Connie Loizos",
+      "url": "/author/connie-loizos/"
+    },
+    {
+      "text": "Starlink on your yacht, so hot",
+      "url": "/2022/07/07/starlink-on-your-yacht-so-hot/"
+    },
+    {
+      "text": "Andrew Mendez",
+      "url": "/author/andrew-mendez/"
+    },
+    {
+      "text": "Ford, VW-backed Argo AI lays off 150 workers, slows hiring",
+      "url": "/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/"
+    },
+    {
+      "text": "Kirsten Korosec",
+      "url": "/author/kirsten-korosec/"
+    },
+    {
+      "text": "Another fatal Tesla crash is being investigated by US safety regulators",
+      "url": "/2022/07/07/another-fatal-tesla-crash-is-being-investigated-by-u-s-safety-regulators/"
+    },
+    {
+      "text": "Kirsten Korosec",
+      "url": "/author/kirsten-korosec/"
+    },
+    {
+      "text": "It sounds like Elon Musk is still trying to get out of his own Twitter deal",
+      "url": "/2022/07/07/elon-musk-twitter-deal-wapo-report/"
+    },
+    {
+      "text": "Taylor Hatmaker",
+      "url": "/author/taylor-hatmaker/"
+    },
+    {
+      "text": "Daily Crunch: China criticizes India for \u2018frequent investigations\u2019 of local Chinese firms",
+      "url": "/2022/07/07/daily-crunch-china-criticizes-india-for-frequent-investigations-of-local-chinese-firms/"
+    },
+    {
+      "text": "Christine Hall",
+      "url": "/author/christine-hall/"
+    },
+    {
+      "text": "Why OSOM went web3",
+      "url": "/2022/07/07/why-osom-went-web3/"
+    },
+    {
+      "text": "Brian Heater",
+      "url": "/author/brian-heater/"
+    },
+    {
+      "text": "About",
+      "url": "/"
+    },
+    {
+      "text": "TechCrunch",
+      "url": "/"
+    },
+    {
+      "text": "Staff",
+      "url": "/pages/about-techcrunch"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/pages/contact-us/"
+    },
+    {
+      "text": "Advertise",
+      "url": "/pages/advertisement-events-calendar/"
+    },
+    {
+      "text": "Crunchboard Jobs",
+      "url": "https://www.crunchboard.com/"
+    },
+    {
+      "text": "Legal",
+      "url": "/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/index.html"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html"
+    },
+    {
+      "text": "TechCrunch+ Terms",
+      "url": "/pages/extra-crunch-terms-of-service/"
+    },
+    {
+      "text": "Privacy Dashboard",
+      "url": "https://guce.techcrunch.com/privacy-dashboard?locale=en-US"
+    },
+    {
+      "text": "Code of Conduct",
+      "url": "/pages/code-of-conduct/"
+    },
+    {
+      "text": "About Our Ads",
+      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
+    },
+    {
+      "text": "FacebookFacebook(opens in a new window)",
+      "url": "https://www.facebook.com//techcrunch"
+    },
+    {
+      "text": "TwitterTwitter(opens in a new window)",
+      "url": "https://twitter.com/techcrunch"
+    },
+    {
+      "text": "YouTubeYouTube(opens in a new window)",
+      "url": "http://www.youtube.com/user/techcrunch"
+    },
+    {
+      "text": "InstagramInstagram(opens in a new window)",
+      "url": "http://instagram.com/techcrunch"
+    },
+    {
+      "text": "LinkedInLinkedIn(opens in a new window)",
+      "url": "http://www.linkedin.com/company/techcrunch"
+    },
+    {
+      "text": "WordPress VIP(opens in a new window)",
+      "url": "https://vip.wordpress.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit"
+    }
+  ],
+  "uniq": 66888871,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }
