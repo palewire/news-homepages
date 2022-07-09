@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 414 news sites.
+The most recent homepages captured from 412 news sites.
 
 <div class="latest-parent">
 
@@ -329,6 +329,15 @@ The most recent homepages captured from 414 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/bbc.html">BBC</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bellingcat.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bellingcat.jpg"
+     alt="Bellingcat"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/bellingcat.html">Bellingcat</a></p>
 </div>
 
 <div class="latest-child">
@@ -1229,15 +1238,6 @@ The most recent homepages captured from 414 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/florida_bulldog.html">Florida Bulldog</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/fcir.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fcir.jpg"
-     alt="Florida Center for Investigative Reporting"
-     loading="lazy">
- </a>
- <p><a href="./sites/fcir.html">Florida Center for Investigative Reporting</a></p>
 </div>
 
 <div class="latest-child">
@@ -3014,15 +3014,6 @@ The most recent homepages captured from 414 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/sludge.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sludge.jpg"
-     alt="Sludge"
-     loading="lazy">
- </a>
- <p><a href="./sites/sludge.html">Sludge</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/source_nm.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/source_nm.jpg"
      alt="Source New Mexico"
@@ -3119,15 +3110,6 @@ The most recent homepages captured from 414 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/sltimes.html">Storm Lake Times</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/techcrunch.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techcrunch.jpg"
-     alt="Tech Crunch"
-     loading="lazy">
- </a>
- <p><a href="./sites/techcrunch.html">Tech Crunch</a></p>
 </div>
 
 <div class="latest-child">
