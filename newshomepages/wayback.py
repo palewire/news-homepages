@@ -50,7 +50,6 @@ def _curl_url(url):
         f"'url={url}'",
         "https://web.archive.org/save",
     ]
-    click.echo(f"Archiving {url}\n")
     os.system(" ".join(command_list))
 
 
