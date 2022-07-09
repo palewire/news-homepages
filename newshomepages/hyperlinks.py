@@ -74,6 +74,7 @@ def _get_links(data: dict) -> list[dict]:
         # Add to big list
         data_list.append(d)
 
+    # Return the result
     return data_list
 
 
