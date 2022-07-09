@@ -1,4 +1,3 @@
-import logging
 import subprocess
 import typing
 from pathlib import Path
@@ -6,8 +5,6 @@ from pathlib import Path
 import click
 
 from . import utils
-
-logger = logging.getLogger(__name__)
 
 
 @click.command()

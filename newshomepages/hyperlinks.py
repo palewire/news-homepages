@@ -1,5 +1,4 @@
 import json
-import logging
 from pathlib import Path
 
 import click
@@ -7,8 +6,6 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
 from . import utils
-
-logger = logging.getLogger(__name__)
 
 
 @click.command()
