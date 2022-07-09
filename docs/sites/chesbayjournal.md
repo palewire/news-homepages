@@ -17,7 +17,8 @@ orphan: true
 | Location       | Mayo                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[chesbayjournal-2022](https://archive.org/details/chesbayjournal-2022)|

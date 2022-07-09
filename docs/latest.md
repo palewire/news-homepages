@@ -1458,7 +1458,7 @@ The most recent homepages captured from 414 news sites.
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/jijicom.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jijicom.jpg"
-     alt="Jijji"
+     alt="Jiji"
      loading="lazy">
  </a>
 </div>

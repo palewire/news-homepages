@@ -17,7 +17,8 @@ orphan: true
 | Location       | Santa Cruz                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[scsentinel-2022](https://archive.org/details/scsentinel-2022)|

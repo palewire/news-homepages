@@ -17,7 +17,8 @@ orphan: true
 | Location       | Kansas City                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[kcur-2022](https://archive.org/details/kcur-2022)|

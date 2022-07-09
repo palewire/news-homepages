@@ -17,7 +17,8 @@ orphan: true
 | Location       | Oak Park                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[gcm_nf-2022](https://archive.org/details/gcm_nf-2022)|
