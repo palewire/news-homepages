@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 405 news sites.
+The most recent homepages captured from 414 news sites.
 
 <div class="latest-parent">
 
@@ -179,6 +179,14 @@ The most recent homepages captured from 405 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/arstechnica.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/arstechnica.jpg"
      alt="Ars Technica"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/asahi.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/asahi.jpg"
+     alt="Asahi Shimbun"
      loading="lazy">
  </a>
 </div>
@@ -576,6 +584,14 @@ The most recent homepages captured from 405 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/chunichi_denhen.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chunichi_denhen.jpg"
+     alt="Chunichi Shimbun"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/ciceronoticias.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ciceronoticias.jpg"
      alt="Cicero Independiente"
@@ -963,6 +979,14 @@ The most recent homepages captured from 405 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/edsource.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/edsource.jpg"
      alt="EdSource"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/elpaisuy.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elpaisuy.jpg"
+     alt="El Pais"
      loading="lazy">
  </a>
 </div>
@@ -1427,6 +1451,14 @@ The most recent homepages captured from 405 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/jewishcurrents.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jewishcurrents.jpg"
      alt="Jewish Currents"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jijicom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jijicom.jpg"
+     alt="Jijji"
      loading="lazy">
  </a>
 </div>
@@ -2088,6 +2120,22 @@ The most recent homepages captured from 405 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nhk_news.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhk_news.jpg"
+     alt="NHK"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nikkei.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nikkei.jpg"
+     alt="Nikkei"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/npr.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/npr.jpg"
      alt="NPR"
@@ -2536,6 +2584,14 @@ The most recent homepages captured from 405 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sankei_news.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sankei_news.jpg"
+     alt="Sankei Shimbun"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/scsentinel.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scsentinel.jpg"
      alt="Santa Cruz Sentinel"
@@ -2587,6 +2643,14 @@ The most recent homepages captured from 405 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/seattletimes.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/seattletimes.jpg"
      alt="Seattle Times"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/seikyoofficial.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/seikyoofficial.jpg"
+     alt="Seikyo Shimbun"
      loading="lazy">
  </a>
 </div>
@@ -3235,6 +3299,14 @@ The most recent homepages captured from 405 news sites.
  <a href="https://palewi.re/docs/news-homepages/sites/yahoonews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yahoonews.jpg"
      alt="Yahoo! News"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jn_japanese.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jn_japanese.jpg"
+     alt="Yomiuri shinbun"
      loading="lazy">
  </a>
 </div>
