@@ -53,7 +53,7 @@ The most recent homepages from 8 news sites in this bundle.
      alt="Jiji"
      loading="lazy">
  </a>
- <p><a href="../sites/jijicom.html">Jijji</a></p>
+ <p><a href="../sites/jijicom.html">Jiji</a></p>
 </div>
 
 <div class="latest-child">

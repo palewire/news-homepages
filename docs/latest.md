@@ -1642,7 +1642,7 @@ The most recent homepages captured from 414 news sites.
      alt="Jiji"
      loading="lazy">
  </a>
- <p><a href="./sites/jijicom.html">Jijji</a></p>
+ <p><a href="./sites/jijicom.html">Jiji</a></p>
 </div>
 
 <div class="latest-child">
