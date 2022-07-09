@@ -75,6 +75,10 @@ def _screenshot(site: typing.Dict, output_dir: str):
                 "--v=1",
             ],
             user_agent=utils.get_user_agent(),
+            viewport={
+                "width": int(site["width"] or DEFAULT_WIDTH),
+                "height": int(site["height"] or DEFAULT_HEIGHT),
+            },
         )
 
         # Wait for adguard filters to load
@@ -83,14 +87,6 @@ def _screenshot(site: typing.Dict, output_dir: str):
 
         # Create an empty tab
         page = context.new_page()
-
-        # Set the window size
-        page.set_viewport_size(
-            {
-                "width": int(site["width"] or DEFAULT_WIDTH),
-                "height": int(site["height"] or DEFAULT_HEIGHT),
-            }
-        )
 
         # Open the page
         click.echo(f"Opening {site['url']}")
