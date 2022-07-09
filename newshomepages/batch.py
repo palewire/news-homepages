@@ -1,12 +1,9 @@
 import json
-import logging
 import typing
 
 import click
 
 from . import utils
-
-logger = logging.getLogger(__name__)
 
 
 @click.group()

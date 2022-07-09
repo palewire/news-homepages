@@ -1,5 +1,4 @@
 import json
-import logging
 import tempfile
 import time
 import typing
@@ -13,8 +12,6 @@ from . import utils
 DEFAULT_WIDTH = "1300"
 DEFAULT_HEIGHT = "1600"
 DEFAULT_WAIT = "5000"
-
-logger = logging.getLogger(__name__)
 
 
 @click.group()
