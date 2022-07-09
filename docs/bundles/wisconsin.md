@@ -7,7 +7,7 @@ orphan: true
 
 # Wisconsin
 
-The most recent homepages from 9 news sites in this bundle.
+The most recent homepages from 12 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -83,6 +83,30 @@ The most recent homepages from 9 news sites in this bundle.
  </a>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/doorcountyknock.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/doorcountyknock.jpg"
+     alt="Door County Knock"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/miwisconsin.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miwisconsin.jpg"
+     alt="mi wisconsin"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/badger_project_.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/badger_project_.jpg"
+     alt="Badger Project"
+     loading="lazy">
+ </a>
+</div>
+
 </div>
 
 ## About this bundle
@@ -107,3 +131,6 @@ The most recent homepages from 9 news sites in this bundle.
 |[Stevens Point Journal](https://palewi.re/docs/news-homepages/sites/stevenspointjrl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stevenspointjrl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stevenspointjrl.xml)|
 |[Wausau Daily Herald](https://palewi.re/docs/news-homepages/sites/wausauherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wausauherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wausauherald.xml)|
 |[Wisconsin State Journal](https://palewi.re/docs/news-homepages/sites/wistatejournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wistatejournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wistatejournal.xml)|
+|[Door County Knock](https://palewi.re/docs/news-homepages/sites/doorcountyknock.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/doorcountyknock.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/doorcountyknock.xml)|
+|[mi wisconsin](https://palewi.re/docs/news-homepages/sites/miwisconsin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miwisconsin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/miwisconsin.xml)|
+|[Badger Project](https://palewi.re/docs/news-homepages/sites/badger_project_.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/badger_project_.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/badger_project_.xml)|

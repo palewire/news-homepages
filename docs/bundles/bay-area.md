@@ -7,7 +7,7 @@ orphan: true
 
 # California Bay Area
 
-The most recent homepages from 9 news sites in this bundle.
+The most recent homepages from 18 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -83,6 +83,78 @@ The most recent homepages from 9 news sites in this bundle.
  </a>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/baynature.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baynature.jpg"
+     alt="Bay Nature"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/el_timpano.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_timpano.jpg"
+     alt="El Tímpano"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bcn_foundation.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg"
+     alt="Local News Matters"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mlnow.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mlnow.jpg"
+     alt="Mission Local"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/openvallejo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/openvallejo.jpg"
+     alt="Open Vallejo"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sjspotlight.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sjspotlight.jpg"
+     alt="San José Spotlight"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/voicesofbay.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voicesofbay.jpg"
+     alt="Voices of Monterey Bay"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lookoutscruz.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lookoutscruz.jpg"
+     alt="Lookout Santa Cruz"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/scsentinel.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scsentinel.jpg"
+     alt="Santa Cruz Sentinel"
+     loading="lazy">
+ </a>
+</div>
+
 </div>
 
 ## About this bundle
@@ -107,3 +179,12 @@ The most recent homepages from 9 news sites in this bundle.
 |[Point Reyes Light](https://palewi.re/docs/news-homepages/sites/pointreyeslight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pointreyeslight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pointreyeslight.xml)|
 |[Sacramento Bee](https://palewi.re/docs/news-homepages/sites/sacbee_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sacbee_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sacbee_news.xml)|
 |[San Francisco Chronicle](https://palewi.re/docs/news-homepages/sites/sfchronicle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sfchronicle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sfchronicle.xml)|
+|[Bay Nature](https://palewi.re/docs/news-homepages/sites/baynature.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baynature.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baynature.xml)|
+|[El Tímpano](https://palewi.re/docs/news-homepages/sites/el_timpano.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_timpano.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_timpano.xml)|
+|[Local News Matters](https://palewi.re/docs/news-homepages/sites/bcn_foundation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bcn_foundation.xml)|
+|[Mission Local](https://palewi.re/docs/news-homepages/sites/mlnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mlnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mlnow.xml)|
+|[Open Vallejo](https://palewi.re/docs/news-homepages/sites/openvallejo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/openvallejo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/openvallejo.xml)|
+|[San José Spotlight](https://palewi.re/docs/news-homepages/sites/sjspotlight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sjspotlight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sjspotlight.xml)|
+|[Voices of Monterey Bay](https://palewi.re/docs/news-homepages/sites/voicesofbay.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voicesofbay.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/voicesofbay.xml)|
+|[Lookout Santa Cruz](https://palewi.re/docs/news-homepages/sites/lookoutscruz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lookoutscruz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lookoutscruz.xml)|
+|[Santa Cruz Sentinel](https://palewi.re/docs/news-homepages/sites/scsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scsentinel.xml)|

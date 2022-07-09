@@ -7,7 +7,7 @@ orphan: true
 
 # New York City
 
-The most recent homepages from 8 news sites in this bundle.
+The most recent homepages from 11 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -75,6 +75,30 @@ The most recent homepages from 8 news sites in this bundle.
  </a>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/citylimitsnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/citylimitsnews.jpg"
+     alt="City Limits"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/documentedny.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/documentedny.jpg"
+     alt="Documented"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nysfocus.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nysfocus.jpg"
+     alt="New York Focus"
+     loading="lazy">
+ </a>
+</div>
+
 </div>
 
 ## About this bundle
@@ -98,3 +122,6 @@ The most recent homepages from 8 news sites in this bundle.
 |[New York Post](https://palewi.re/docs/news-homepages/sites/nypost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nypost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nypost.xml)|
 |[The City](https://palewi.re/docs/news-homepages/sites/thecityny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecityny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thecityny.xml)|
 |[WNYC](https://palewi.re/docs/news-homepages/sites/wnyc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnyc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wnyc.xml)|
+|[City Limits](https://palewi.re/docs/news-homepages/sites/citylimitsnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/citylimitsnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/citylimitsnews.xml)|
+|[Documented](https://palewi.re/docs/news-homepages/sites/documentedny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/documentedny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/documentedny.xml)|
+|[New York Focus](https://palewi.re/docs/news-homepages/sites/nysfocus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nysfocus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nysfocus.xml)|

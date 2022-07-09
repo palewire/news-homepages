@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# mi wisconsin
+
+![mi wisconsin](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miwisconsin.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://miwisconsin.com/](https://miwisconsin.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/miwisconsin.xml) |
+| Twitter handle | [@miwisconsin](https://www.twitter.com/miwisconsin)                     |
+| Location       | Madison                                                                 |
+| Timezone       | America/Chicago                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |

@@ -7,7 +7,7 @@ orphan: true
 
 # Missouri
 
-The most recent homepages from 9 news sites in this bundle.
+The most recent homepages from 13 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -83,6 +83,38 @@ The most recent homepages from 9 news sites in this bundle.
  </a>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/kcdefender.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcdefender.jpg"
+     alt="Kansas City Defender"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/kcur.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcur.jpg"
+     alt="KCUR"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sgfcitizen.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sgfcitizen.jpg"
+     alt="Springfield Daily Citizen"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/stlpublicradio.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stlpublicradio.jpg"
+     alt="St. Louis Public Radio"
+     loading="lazy">
+ </a>
+</div>
+
 </div>
 
 ## About this bundle
@@ -107,3 +139,7 @@ The most recent homepages from 9 news sites in this bundle.
 |[St. Joseph News Press](https://palewi.re/docs/news-homepages/sites/newspressnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newspressnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newspressnow.xml)|
 |[Jefferson City News Tribune](https://palewi.re/docs/news-homepages/sites/newstribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newstribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newstribune.xml)|
 |[St. Louis Post-Dispatch](https://palewi.re/docs/news-homepages/sites/stltoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stltoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stltoday.xml)|
+|[Kansas City Defender](https://palewi.re/docs/news-homepages/sites/kcdefender.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcdefender.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcdefender.xml)|
+|[KCUR](https://palewi.re/docs/news-homepages/sites/kcur.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcur.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcur.xml)|
+|[Springfield Daily Citizen](https://palewi.re/docs/news-homepages/sites/sgfcitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sgfcitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sgfcitizen.xml)|
+|[St. Louis Public Radio](https://palewi.re/docs/news-homepages/sites/stlpublicradio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stlpublicradio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stlpublicradio.xml)|

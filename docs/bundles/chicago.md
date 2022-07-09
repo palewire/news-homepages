@@ -7,7 +7,7 @@ orphan: true
 
 # Chicago
 
-The most recent homepages from 12 news sites in this bundle.
+The most recent homepages from 16 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -107,6 +107,38 @@ The most recent homepages from 12 news sites in this bundle.
  </a>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gcm_nf.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gcm_nf.jpg"
+     alt="Austin Weekly News"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bettergov.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bettergov.jpg"
+     alt="Better Government Association"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/evroundtable.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/evroundtable.jpg"
+     alt="Evanston RoundTable"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/injusticewatch.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/injusticewatch.jpg"
+     alt="Injustice Watch"
+     loading="lazy">
+ </a>
+</div>
+
 </div>
 
 ## About this bundle
@@ -134,3 +166,7 @@ The most recent homepages from 12 news sites in this bundle.
 |[The TriiBE](https://palewi.re/docs/news-homepages/sites/thetriibe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetriibe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetriibe.xml)|
 |[WBEZ](https://palewi.re/docs/news-homepages/sites/wbez.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wbez.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wbez.xml)|
 |[WTTW](https://palewi.re/docs/news-homepages/sites/wttw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wttw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wttw.xml)|
+|[Austin Weekly News](https://palewi.re/docs/news-homepages/sites/gcm_nf.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gcm_nf.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gcm_nf.xml)|
+|[Better Government Association](https://palewi.re/docs/news-homepages/sites/bettergov.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bettergov.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bettergov.xml)|
+|[Evanston RoundTable](https://palewi.re/docs/news-homepages/sites/evroundtable.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/evroundtable.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/evroundtable.xml)|
+|[Injustice Watch](https://palewi.re/docs/news-homepages/sites/injusticewatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/injusticewatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/injusticewatch.xml)|

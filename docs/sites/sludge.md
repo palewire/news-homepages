@@ -13,8 +13,8 @@ orphan: true
 | :------------- | :---------------------------------------------------------------------------------- |
 | Site           | [https://readsludge.com/](https://readsludge.com/)                                                    |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sludge.xml) |
-| Twitter handle | [@Sludge](https://www.twitter.com/Sludge)                     |
-| Location       | Ashfield                                                                 |
+| Twitter handle | [@sludge](https://www.twitter.com/sludge)                     |
+| Location       | Brooklyn                                                                 |
 | Timezone       | America/New_York                                                                 |
 
 The archiving routine has captured 63 screenshots stored at the Internet Archive.

@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Voice of OC
+
+![Voice of OC](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voiceofoc.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.voiceofoc.org/](https://www.voiceofoc.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/voiceofoc.xml) |
+| Twitter handle | [@voiceofoc](https://www.twitter.com/voiceofoc)                     |
+| Location       | Santa Ana                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |

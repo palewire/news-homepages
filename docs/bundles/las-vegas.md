@@ -7,7 +7,7 @@ orphan: true
 
 # Las Vegas
 
-The most recent homepages from 3 news sites in this bundle.
+The most recent homepages from 4 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -35,6 +35,14 @@ The most recent homepages from 3 news sites in this bundle.
  </a>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/knprnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knprnews.jpg"
+     alt="Nevada Public Radio"
+     loading="lazy">
+ </a>
+</div>
+
 </div>
 
 ## About this bundle
@@ -53,3 +61,4 @@ The most recent homepages from 3 news sites in this bundle.
 |[Las Vegas Sun](https://palewi.re/docs/news-homepages/sites/lasvegassun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lasvegassun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lasvegassun.xml)|
 |[KSNV News 3](https://palewi.re/docs/news-homepages/sites/news3lv.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/news3lv.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/news3lv.xml)|
 |[Las Vegas Review-Journal](https://palewi.re/docs/news-homepages/sites/reviewjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reviewjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reviewjournal.xml)|
+|[Nevada Public Radio](https://palewi.re/docs/news-homepages/sites/knprnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knprnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/knprnews.xml)|

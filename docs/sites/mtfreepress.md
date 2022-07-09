@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Montana Free Press
+
+![Montana Free Press](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtfreepress.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://montanafreepress.org/](https://montanafreepress.org/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mtfreepress.xml) |
+| Twitter handle | [@mtfreepress](https://www.twitter.com/mtfreepress)                     |
+| Location       | Helena                                                                 |
+| Timezone       | America/Chicago                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |

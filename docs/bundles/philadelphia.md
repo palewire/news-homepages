@@ -7,7 +7,7 @@ orphan: true
 
 # Philadelphia
 
-The most recent homepages from 8 news sites in this bundle.
+The most recent homepages from 10 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -75,6 +75,22 @@ The most recent homepages from 8 news sites in this bundle.
  </a>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hiddencityphila.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hiddencityphila.jpg"
+     alt="Hidden City Daily"
+     loading="lazy">
+ </a>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nextcityorg.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nextcityorg.jpg"
+     alt="Next City"
+     loading="lazy">
+ </a>
+</div>
+
 </div>
 
 ## About this bundle
@@ -98,3 +114,5 @@ The most recent homepages from 8 news sites in this bundle.
 |[Philadelphia Tribune](https://palewi.re/docs/news-homepages/sites/phillytrib.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/phillytrib.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/phillytrib.xml)|
 |[Philadelphia Citizen](https://palewi.re/docs/news-homepages/sites/thephilacitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thephilacitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thephilacitizen.xml)|
 |[WHYY](https://palewi.re/docs/news-homepages/sites/whyynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/whyynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/whyynews.xml)|
+|[Hidden City Daily](https://palewi.re/docs/news-homepages/sites/hiddencityphila.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hiddencityphila.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hiddencityphila.xml)|
+|[Next City](https://palewi.re/docs/news-homepages/sites/nextcityorg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nextcityorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nextcityorg.xml)|
