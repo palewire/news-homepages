@@ -37,7 +37,7 @@ You're ready to work.
 Try a screenshot. The `shoot.py` command, as well as all the other commands, expects you pass in the Twitter handle of the target site. The supported sites are listed in [`newshomepages/sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv).
 
 ```bash
-pipenv run python -m newshomepages.screenshot shoot latimes
+pipenv run python -m newshomepages.screenshot latimes
 ```
 
 ### Tweeting

@@ -12,18 +12,12 @@ DEFAULT_WIDTH = "1300"
 DEFAULT_HEIGHT = "1600"
 
 
-@click.group()
-def cli():
-    """Shoot a screenshot."""
-    pass
-
-
-@cli.command()
+@click.command()
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
 @click.option("-w", "--wait", "wait", default=5000)
-def shoot(handle: str, output_dir: str, wait: str):
-    """Screenshot a single source."""
+def cli(handle: str, output_dir: str, wait: str):
+    """Screenshot the provided homepage."""
     site = utils.get_site(handle)
     _screenshot(site, output_dir, wait=int(wait))
 
