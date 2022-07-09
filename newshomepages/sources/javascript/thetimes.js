@@ -15,5 +15,5 @@ react-edition-personalised-article-rail {
 document.head.appendChild(style)
 
 document.querySelectorAll(
-  '.type-modal,#ad-header,.Tooltip,#sticky-ad-header'
+  '.type-modal,#ad-header,.Tooltip,#sticky-ad-header,#react-edition-subscription-marketing-banner-slice'
 ).forEach(el => el.style.display = 'none')
