@@ -124,6 +124,7 @@ def _screenshot(site: typing.Dict, output_dir: str):
             ".mol-ads-cmp",  # Footer toaster thing on some sites
             ".gdpr-glm-standard",  # GDPR blockers on some sites
             "#didomi-host",  # Common cookies popup
+            ".fc-ab-root",  # Ad blocker popup
         ]
         target_str = ",".join(target_list)
         javascript = (
