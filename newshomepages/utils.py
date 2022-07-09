@@ -15,6 +15,11 @@ EXTRACT_DIR = THIS_DIR.parent / "extracts"
 NOTEBOOKS_DIR = THIS_DIR.parent / "notebooks"
 
 
+def get_user_agent() -> str:
+    """Return a user agent string ready to pass to a browser."""
+    return "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+
+
 def get_site_list() -> typing.List[typing.Dict]:
     """Get the full list of supported sites.
 

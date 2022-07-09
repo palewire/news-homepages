@@ -19,12 +19,12 @@ runs:
 
     - id: install-playwright
       name: Install Playwright dependencies
-      run: pipenv run shot-scraper install
+      run: pipenv run playwright install --with-deps chromium
       shell: bash
 
     - id: parse-json
       name: Parse out hyperlinks
-      run: pipenv run python -m newshomepages.hyperlinks single ${{ inputs.source }} -o _dist
+      run: pipenv run python -m newshomepages.hyperlinks ${{ inputs.source }} -o _dist
       shell: bash
 
     - id: save

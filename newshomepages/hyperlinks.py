@@ -1,6 +1,5 @@
 import json
 import logging
-import time
 from pathlib import Path
 
 import click
@@ -12,48 +11,40 @@ from . import utils
 logger = logging.getLogger(__name__)
 
 
-@click.group()
-def cli():
-    """Save an accessibility JSON."""
-    pass
-
-
-@cli.command()
+@click.command()
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
-def single(handle: str, output_dir: str):
-    """Save all hyperlinsk as JSON for a single site."""
+def cli(handle: str, output_dir: str):
+    """Save all hyperlinks as JSON for a single site."""
     # Get metadata
     site = utils.get_site(handle)
 
     # Do it
-    _get_links(site, output_dir)
+    link_list = _get_links(site)
+
+    # Set the output path
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
+
+    # Write it out
+    slug = site["handle"].lower()
+    with open(output_path / f"{slug}.hyperlinks.json", "w") as fp:
+        json.dump(link_list, fp, indent=2)
 
 
-@cli.command()
-@click.argument("slug")
-@click.option("-o", "--output-dir", "output_dir", default="./")
-def bundle(slug: str, output_dir: str):
-    """Save all hyperlinks as JSON for a bundle of sites."""
-    # Pull the source metadata
-    site_list = utils.get_sites_in_bundle(slug)
-
-    # Loop through the targets
-    for site in site_list:
-        # Set the options for each
-        _get_links(site, output_dir)
-        time.sleep(0.25)
-
-
-def _get_links(data, output_dir):
+def _get_links(data: dict) -> list[dict]:
     click.echo(f"Getting hyperlinks for {data['url']}")
     # Start the browser
     with sync_playwright() as p:
         # Open a browser
-        browser_obj = p.chromium.launch()
+        browser_obj = p.chromium.launch(
+            channel="chrome",
+        )
+
+        browser_context = browser_obj.new_context(user_agent=utils.get_user_agent())
 
         # Open a page
-        page = browser_obj.new_page()
+        page = browser_context.new_page()
 
         # Go to the page
         page.goto(data["url"], timeout=60000)
@@ -83,13 +74,7 @@ def _get_links(data, output_dir):
         # Add to big list
         data_list.append(d)
 
-    # Set the output path
-    output_path = Path(output_dir)
-    output_path.mkdir(parents=True, exist_ok=True)
-
-    # Write it out
-    with open(output_path / f"{data['handle'].lower()}.hyperlinks.json", "w") as fp:
-        json.dump(data_list, fp, indent=2)
+    return data_list
 
 
 if __name__ == "__main__":
