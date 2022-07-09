@@ -22,7 +22,7 @@ def cli(handle: str, output_dir: str):
     _get_accessibility(site, output_dir)
 
 
-def _get_accessibility(data, output_dir):
+def _get_accessibility(data: dict, output_dir: str):
     # Set the output path
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
