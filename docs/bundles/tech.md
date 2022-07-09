@@ -7,7 +7,7 @@ orphan: true
 
 # Technology
 
-The most recent homepages from 12 news sites in this bundle.
+The most recent homepages from 11 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -63,15 +63,6 @@ The most recent homepages from 12 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/protocol.html">Protocol</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/techcrunch.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techcrunch.jpg"
-     alt="Tech Crunch"
-     loading="lazy">
- </a>
- <p><a href="../sites/techcrunch.html">Tech Crunch</a></p>
 </div>
 
 <div class="latest-child">
@@ -140,7 +131,6 @@ The most recent homepages from 12 news sites in this bundle.
 |[Gizmodo](https://palewi.re/docs/news-homepages/sites/gizmodo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gizmodo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gizmodo.xml)|
 |[Mashable](https://palewi.re/docs/news-homepages/sites/mashable.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mashable.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mashable.xml)|
 |[Protocol](https://palewi.re/docs/news-homepages/sites/protocol.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/protocol.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/protocol.xml)|
-|[Tech Crunch](https://palewi.re/docs/news-homepages/sites/techcrunch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techcrunch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/techcrunch.xml)|
 |[TechCrunch](https://palewi.re/docs/news-homepages/sites/techcrunch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techcrunch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/techcrunch.xml)|
 |[The Information](https://palewi.re/docs/news-homepages/sites/theinformation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theinformation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theinformation.xml)|
 |[VentureBeat](https://palewi.re/docs/news-homepages/sites/venturebeat.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/venturebeat.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/venturebeat.xml)|
