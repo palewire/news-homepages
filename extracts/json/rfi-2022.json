@@ -1,5 +1,5 @@
 {
-  "created": 1657309362,
+  "created": 1657368990,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/10/items/rfi-2022",
@@ -1150,31 +1150,115 @@
       "sha1": "1790513cc2b4a9915d9caf240af932cddb4a9ab8"
     },
     {
+      "name": "rfi-2022-07-09T05:15:41.439161+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657336546",
+      "size": "30667",
+      "md5": "b736f7ec27f284218e6f814b4825b286",
+      "crc32": "1da3e2b3",
+      "sha1": "f1be7a7cf7addc2e72ba78b8b918bd066da3d2a3",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-09T05:15:41.439161+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657336548",
+      "size": "50507",
+      "md5": "d1ac239a6ac30356249d17308ba00ace",
+      "crc32": "368a266a",
+      "sha1": "15fce2f6f91263e6e001dd2fe5fa458de15ae4c8",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-09T05:15:41.439161+02:00.jpg",
+      "source": "original",
+      "mtime": "1657336544",
+      "size": "252556",
+      "md5": "1453b794117642563a83ec49309451f6",
+      "crc32": "19ad03d7",
+      "sha1": "68fd0763540d118b2ad31b8d81b10dfb0f02c9a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rfi-2022-07-09T05:15:41.439161+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rfi-2022-07-09T05:15:41.439161+02:00.jpg",
+      "mtime": "1657336686",
+      "size": "9813",
+      "md5": "5f4590c7631ecb951b7fbf8b233d81b2",
+      "crc32": "0b5f8cc9",
+      "sha1": "936eb9ee613f8386c08550239ebe3e3a70c4acdc"
+    },
+    {
+      "name": "rfi-2022-07-09T10:09:05.293803+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657354149",
+      "size": "32281",
+      "md5": "2f160f5b96af736e2acb13a1db11f7d2",
+      "crc32": "84740b7c",
+      "sha1": "0969955dbdcd85a2ce012f04a1fb5aa2579ec906",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-09T10:09:05.293803+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657354151",
+      "size": "51543",
+      "md5": "e3752bd8ee4a14070782468da1bfbea3",
+      "crc32": "c36a9fee",
+      "sha1": "ebbadaabdd0add6980c5f84ffa9ecffa7d62486b",
+      "format": "JSON"
+    },
+    {
+      "name": "rfi-2022-07-09T10:09:05.293803+02:00.jpg",
+      "source": "original",
+      "mtime": "1657354147",
+      "size": "298235",
+      "md5": "efb1a1dfefc2b45f272258675b6bfb96",
+      "crc32": "a1acacc2",
+      "sha1": "cd6089701bbed32327908088b5ea024b29a23b1c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rfi-2022-07-09T10:09:05.293803+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rfi-2022-07-09T10:09:05.293803+02:00.jpg",
+      "mtime": "1657354280",
+      "size": "9859",
+      "md5": "8c63c1ee8094720519b2cd4d4e628f5c",
+      "crc32": "9990a98e",
+      "sha1": "2b2b2354facba25b60e397d9d4e8a9a72c2d9fcc"
+    },
+    {
       "name": "rfi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c7f0005404076e51924f36841175d73ac4c98a78",
-      "mtime": "1657303719",
-      "size": "23744",
-      "md5": "5baba6de4eab1ba26bbdd11c477d4eac",
-      "crc32": "3d833cfc",
-      "sha1": "b3a2c77d6c696c9e2de0f560ed4e5cf862c1ad66",
+      "btih": "cfce9446f5eaf30b9c7e1dc43617baea9c231bdb",
+      "mtime": "1657354372",
+      "size": "25382",
+      "md5": "879752ee2072bfab12c7e4a9d03611d9",
+      "crc32": "4c22e32b",
+      "sha1": "b3ef08c69fde86bcbf9dff9cd628ffff2f065435",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rfi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de873493b513c2c8dc4a1d8294259371",
+      "md5": "aee46068d63096b93b020798f8652623",
       "summation": "md5"
     },
     {
       "name": "rfi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657295367",
-      "size": "147456",
-      "md5": "55d017431f33e4ef8cfd553ab0289d8e",
-      "crc32": "495b0a92",
-      "sha1": "4900e0e8000e6cf774444d76c3c63c01a046efd3",
+      "mtime": "1657354157",
+      "size": "155648",
+      "md5": "0604d2459742d41423de73c7b7c4640d",
+      "crc32": "23f7990e",
+      "sha1": "cf939aed8879ea5ac85a0aed8215d7070bd40b6b",
       "format": "Metadata"
     },
     {
@@ -1188,9 +1272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 113,
-  "item_last_updated": 1657303719,
-  "item_size": 8633007,
+  "files_count": 121,
+  "item_last_updated": 1657354372,
+  "item_size": 9378298,
   "metadata": {
     "identifier": "rfi-2022",
     "collection": [
@@ -1207,8 +1291,846 @@
     "publicdate": "2022-06-30 22:26:42",
     "addeddate": "2022-06-30 22:26:42"
   },
+  "rfi-2022": [
+    {
+      "text": "Acc\u00e9der au contenu principal",
+      "url": "#main-content"
+    },
+    {
+      "text": "    RFI - Actualit\u00e9s, info, news en direct - Radio France Internationale\n",
+      "url": "/fr/"
+    },
+    {
+      "text": "Fran\u00e7ais",
+      "url": "/fr/"
+    },
+    {
+      "text": "English",
+      "url": "/en/"
+    },
+    {
+      "text": "Espa\u00f1ol",
+      "url": "/es/"
+    },
+    {
+      "text": "Portugu\u00eas",
+      "url": "/pt/"
+    },
+    {
+      "text": "Portugu\u00eas do Brasil",
+      "url": "/br/"
+    },
+    {
+      "text": "Hausa",
+      "url": "/ha/"
+    },
+    {
+      "text": "Kiswahili",
+      "url": "/sw/"
+    },
+    {
+      "text": "Mandenkan",
+      "url": "/ma/"
+    },
+    {
+      "text": "Fulfulde",
+      "url": "/ff/"
+    },
+    {
+      "text": "Rom\u00e2nia",
+      "url": "https://www.rfi.ro/"
+    },
+    {
+      "text": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+      "url": "/ru/"
+    },
+    {
+      "text": "Ti\u1ebfng Vi\u1ec7t",
+      "url": "/vi/"
+    },
+    {
+      "text": "\u534e\u8bed",
+      "url": "/cn/"
+    },
+    {
+      "text": "\u83ef\u8a9e",
+      "url": "/tw/"
+    },
+    {
+      "text": "\u1797\u17b6\u179f\u17b6\u1781\u17d2\u1798\u17c2\u179a",
+      "url": "/km/"
+    },
+    {
+      "text": "\u0641\u0627\u0631\u0633\u06cc",
+      "url": "/fa/"
+    },
+    {
+      "text": "Accueil",
+      "url": "/fr/"
+    },
+    {
+      "text": "Afrique",
+      "url": "/fr/afrique/"
+    },
+    {
+      "text": "Am\u00e9riques",
+      "url": "/fr/am%C3%A9riques/"
+    },
+    {
+      "text": "Asie-Pacifique",
+      "url": "/fr/asie-pacifique/"
+    },
+    {
+      "text": "Europe",
+      "url": "/fr/europe/"
+    },
+    {
+      "text": "Moyen-Orient",
+      "url": "/fr/moyen-orient/"
+    },
+    {
+      "text": "France",
+      "url": "/fr/france/"
+    },
+    {
+      "text": "Environnement",
+      "url": "/fr/environnement/"
+    },
+    {
+      "text": "\u00c9conomie",
+      "url": "/fr/%C3%A9conomie/"
+    },
+    {
+      "text": "Culture et M\u00e9dias",
+      "url": "/fr/culture-m%C3%A9dias/"
+    },
+    {
+      "text": "Sports",
+      "url": "/fr/sports/"
+    },
+    {
+      "text": "Afrique Foot",
+      "url": "/fr/afrique-foot/"
+    },
+    {
+      "text": "Sciences",
+      "url": "/fr/sciences/"
+    },
+    {
+      "text": "Tech",
+      "url": "/fr/tech/"
+    },
+    {
+      "text": "Prenez le temps",
+      "url": "/fr/interactif/"
+    },
+    {
+      "text": "Stop l'infox",
+      "url": "/fr/stop-infox/"
+    },
+    {
+      "text": "RFI Musique",
+      "url": "https://musique.rfi.fr/"
+    },
+    {
+      "text": "Apprendre le fran\u00e7ais",
+      "url": "https://savoirs.rfi.fr/fr/apprendre-enseigner"
+    },
+    {
+      "text": "Voyage D\u00e9couverte",
+      "url": "/fr/tag/voyage-d%C3%A9couverte/"
+    },
+    {
+      "text": "RFI Connaissances",
+      "url": "/fr/connaissances/"
+    },
+    {
+      "text": "Contenus sponsoris\u00e9s",
+      "url": "/fr/contenus-partenaires/"
+    },
+    {
+      "text": "RFI Monde en direct",
+      "url": "/fr/direct-monde"
+    },
+    {
+      "text": "RFI Afrique en direct",
+      "url": "/fr/direct-afrique"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/fr/podcasts/"
+    },
+    {
+      "text": "Vid\u00e9os",
+      "url": "/fr/vid%C3%A9os"
+    },
+    {
+      "text": "Les journaux Monde",
+      "url": "/fr/journaux-monde/"
+    },
+    {
+      "text": "Les journaux Afrique",
+      "url": "/fr/journaux-afrique/"
+    },
+    {
+      "text": "Les journaux Am\u00e9riques/Ha\u00efti",
+      "url": "/fr/podcasts/journal-ha%C3%AFti-am%C3%A9riques"
+    },
+    {
+      "text": "Les journaux en fran\u00e7ais facile",
+      "url": "/fr/podcasts/journal-fran%C3%A7ais-facile"
+    },
+    {
+      "text": "Grille des programmes Monde",
+      "url": "/fr/grille-des-programmes-monde"
+    },
+    {
+      "text": "Grille des programmes Afrique",
+      "url": "/fr/grille-des-programmes-afrique"
+    },
+    {
+      "text": "\n",
+      "url": "https://rfi.my/FBfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://rfi.my/TWfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://rfi.my/IGfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://rfi.my/YTfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://rfi.my/DMfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://rfi.my/TGfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://rfi.my/TIfr"
+    },
+    {
+      "text": "\n",
+      "url": "https://rfi.my/SC"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://emailing.rfi.fr/fr/subscribe"
+    },
+    {
+      "text": "Applications",
+      "url": "/fr/applications"
+    },
+    {
+      "text": "M\u00e9dias partenaires",
+      "url": "/fr/medias-partenaires/"
+    },
+    {
+      "text": "Capter RFI",
+      "url": "/fr/capter-rfi"
+    },
+    {
+      "text": "RSS",
+      "url": "/fr/contenu/20091023-rss"
+    },
+    {
+      "text": "Qui sommes-nous ?",
+      "url": "/fr/qui-sommes-nous"
+    },
+    {
+      "text": "Nous \u00e9crire",
+      "url": "https://www.francemediasmonde.com/fr/contact/?brand=rfi"
+    },
+    {
+      "text": "R\u00e9gie publicitaire",
+      "url": "https://www.rfiadvertising.com/"
+    },
+    {
+      "text": "Vente de contenus",
+      "url": "https://www.francemediasmonde.com/fr/contact?brand=rfi&topic=vente_contenu"
+    },
+    {
+      "text": "Nous rejoindre",
+      "url": "https://fmm.io/jobs"
+    },
+    {
+      "text": "Communiqu\u00e9s de presse",
+      "url": "/fr/tag/communiqu%C3%A9s-de-presse-rfi/"
+    },
+    {
+      "text": "Mentions l\u00e9gales",
+      "url": "https://www.francemediasmonde.com/fr/legal-notice"
+    },
+    {
+      "text": "Confidentialit\u00e9",
+      "url": "https://www.francemediasmonde.com/fr/privacy"
+    },
+    {
+      "text": "Cookies",
+      "url": "https://www.francemediasmonde.com/fr/cookies"
+    },
+    {
+      "text": "Centre de pr\u00e9f\u00e9rences",
+      "url": "#"
+    },
+    {
+      "text": "Gestion des notifications",
+      "url": "/fr/gestion-notifications"
+    },
+    {
+      "text": "RFI",
+      "url": "https://www.rfi.fr/fr/"
+    },
+    {
+      "text": "Apprendre le fran\u00e7ais",
+      "url": "https://savoirs.rfi.fr/"
+    },
+    {
+      "text": "RFI Musique",
+      "url": "https://musique.rfi.fr/"
+    },
+    {
+      "text": "RFI Instrumental",
+      "url": "https://www.rfi-instrumental.com/fr"
+    },
+    {
+      "text": "Mondoblog",
+      "url": "https://mondoblog.org/"
+    },
+    {
+      "text": "France 24",
+      "url": "https://www.france24.com/fr/"
+    },
+    {
+      "text": "MCD",
+      "url": "https://www.mc-doualiya.com/"
+    },
+    {
+      "text": "InfoMigrants",
+      "url": "https://www.infomigrants.net/fr/"
+    },
+    {
+      "text": "CFI",
+      "url": "https://www.cfi.fr/fr"
+    },
+    {
+      "text": "Acad\u00e9mie",
+      "url": "https://academie.france24-mcd-rfi.com/fr/"
+    },
+    {
+      "text": "France M\u00e9dias Monde",
+      "url": "https://www.francemediasmonde.com/fr/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rfi.fr/fr/"
+    },
+    {
+      "text": "",
+      "url": "https://www.france24.com/fr/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mc-doualiya.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.francemediasmonde.com/fr/"
+    },
+    {
+      "text": "\n",
+      "url": "/fr/"
+    },
+    {
+      "text": "#Ukraine",
+      "url": "https://www.rfi.fr/fr/tag/ukraine/"
+    },
+    {
+      "text": "#Burkina Faso",
+      "url": "https://www.rfi.fr/fr/tag/burkina-faso/"
+    },
+    {
+      "text": "#CAN2022",
+      "url": "https://www.rfi.fr/fr/tag/can-2022/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/fr/podcasts/"
+    },
+    {
+      "text": "Afrique",
+      "url": "/fr/afrique/"
+    },
+    {
+      "text": "Afrique Foot",
+      "url": "/fr/afrique-foot/"
+    },
+    {
+      "text": "Les plus lus",
+      "url": "/fr/les-plus-lus"
+    },
+    {
+      "text": "Stop l'infox",
+      "url": "/fr/stop-infox/"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nGuin\u00e9e: les trois militants du FNDC sont libres\n                                \n        ",
+      "url": "/fr/afrique/20220709-guin%C3%A9e-les-trois-militants-du-fndc-sont-libres"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Elon Musk renonce \u00e0 Twitter, l'entreprise veut porter plainte\n                            \n        ",
+      "url": "/fr/%C3%A9conomie/20220708-elon-musk-renonce-%C3%A0-twitter-l-entreprise-veut-porter-plainte"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Biden tacle la Cour supr\u00eame et annonce des mesures pour prot\u00e9ger les femmes souhaitant avorter\n                            \n        ",
+      "url": "/fr/am%C3%A9riques/20220708-biden-tacle-la-cour-supr%C3%AAme-et-annonce-des-mesures-pour-prot%C3%A9ger-les-femmes-souhaitant-avorter"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Syrie: veto de la Russie \u00e0 l'ONU \u00e0 une extension de l'autorisation d'aide transfrontali\u00e8re\n                            \n        ",
+      "url": "/fr/moyen-orient/20220709-syrie-veto-de-la-russie-%C3%A0-l-onu-%C3%A0-une-extension-de-l-autorisation-d-aide-transfrontali%C3%A8re"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Iran: deux cin\u00e9astes arr\u00eat\u00e9s pour avoir mis en p\u00e9ril la s\u00e9curit\u00e9 nationale\n                            \n        ",
+      "url": "/fr/moyen-orient/20220709-iran-deux-cin%C3%A9astes-arr%C3%AAt%C3%A9s-pour-avoir-mis-en-p%C3%A9ril-la-s%C3%A9curit%C3%A9-nationale"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Syrie: Bachar el-Assad effectue sa premi\u00e8re visite \u00e0 Alep depuis le d\u00e9but du conflit\n                            \n        ",
+      "url": "/fr/moyen-orient/20220708-syrie-bachar-el-assad-effectue-sa-premi%C3%A8re-visite-%C3%A0-alep-depuis-le-d%C3%A9but-du-conflit"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Russie: sept ans de prison pour un \u00e9lu de Moscou ayant critiqu\u00e9 l\u2019op\u00e9ration en Ukraine\n                            \n        ",
+      "url": "/fr/europe/20220709-russie-sept-ans-de-prison-pour-un-%C3%A9lu-de-moscou-ayant-critiqu%C3%A9-l-op%C3%A9ration-en-ukraine"
+    },
+    {
+      "text": "\n        Br\u00e9sil: nouvelle arrestation dans l'enqu\u00eate sur l'assassinat journaliste britannique Dom Phillips et de l'expert des indig\u00e8nes Bruno Pereira en Amazonie il y a un mois\n        \n    ",
+      "url": "/fr/en-bref/20220709-br%C3%A9sil-nouvelle-arrestation-dans-l-enqu%C3%AAte-sur-l-assassinat-journaliste-britannique-dom-phillips-et-de-l-expert-des-indig%C3%A8nes-bruno-pereira-en-amazonie-il-y-a-un-mois"
+    },
+    {
+      "text": "\n        G20 \u00e0 Bali: la Chine et les Etats-Unis doivent \u00abtravailler ensemble\u00bb pour tenter de r\u00e9duire les tensions qui les opposent, d\u00e9clare le ministre chinois des Affaires \u00e9trang\u00e8res Wang Yi au d\u00e9but de sa rencontre avec son homologue am\u00e9ricain\n        \n    ",
+      "url": "/fr/en-bref/20220709-g20-%C3%A0-bali-la-chine-et-les-etats-unis-doivent-travailler-ensemble-pour-tenter-de-r%C3%A9duire-les-tensions-qui-les-opposent-d%C3%A9clare-le-ministre-chinois-des-affaires-%C3%A9trang%C3%A8res-wang-yi-au-d%C3%A9but-de-sa-rencontre-avec-son-homologue-am%C3%A9ricain"
+    },
+    {
+      "text": "\n        Twitter annonce une action judiciaire apr\u00e8s le retrait de Musk de l'accord de rachat\n        \n    ",
+      "url": "/fr/en-bref/20220708-twitter-annonce-une-action-judiciaire-apr%C3%A8s-le-retrait-de-musk-de-l-accord-de-rachat"
+    },
+    {
+      "text": "\n        Elon Musk renonce \u00e0 racheter Twitter, qu'il accuse d'avoir viol\u00e9 ses obligations\n        \n    ",
+      "url": "/fr/en-bref/20220708-elon-musk-renonce-%C3%A0-racheter-twitter-qu-il-accuse-d-avoir-viol%C3%A9-ses-obligations"
+    },
+    {
+      "text": "\n        Veto de la Russie \u00e0 l'ONU \u00e0 une extension de l'autorisation d'aide transfrontali\u00e8re \u00e0 la Syrie\n        \n    ",
+      "url": "/fr/en-bref/20220708-veto-de-la-russie-%C3%A0-l-onu-%C3%A0-une-extension-de-l-autorisation-d-aide-transfrontali%C3%A8re-%C3%A0-la-syrie"
+    },
+    {
+      "text": "\n                    Toute l'actualit\u00e9 en bref \n\n                ",
+      "url": "/fr/en-bref/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Focus\n                                                    Soutenir, critiquer ou se taire, les artistes russes face \u00e0 un choix lourd de cons\u00e9quences\n                                \n        ",
+      "url": "/fr/culture/20220707-soutenir-critiquer-ou-se-taire-les-artistes-russes-face-%C3%A0-un-choix-lourd-de-cons%C3%A9quences"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Reportage\n                                                    \nDans les ruines de Marioupol, la mort fait toujours partie du quotidien\n                            \n        ",
+      "url": "/fr/europe/20220705-marioupol-une-ville-fig%C3%A9e-entre-mort-et-survie"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Ukraine: l\u2019occupation russe du sud du pays entre dans une nouvelle phase\n                            \n        ",
+      "url": "/fr/europe/20220705-ukraine-l-occupation-russe-du-sud-du-pays-entre-dans-une-nouvelle-phase"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Reportage\n                                                    Sur la ligne de front, pr\u00e8s de New York, dans le viseur des forces pro-russes\n                            \n        ",
+      "url": "/fr/europe/20220703-sur-la-ligne-de-front-pr%C3%A8s-de-new-york-dans-le-viseur-des-forces-pro-russes"
+    },
+    {
+      "text": "\n                    Toute l'actualit\u00e9 sur la guerre en Ukraine \n\n                ",
+      "url": "https://www.rfi.fr/fr/tag/ukraine/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Chronique des m\u00e9dias\n                                                    \nLa couverture d\u00e9clinante de la guerre en Ukraine\n                            \n        ",
+      "url": "/fr/podcasts/chronique-des-m%C3%A9dias/20220708-la-couverture-d%C3%A9clinante-de-la-guerre-en-ukraine"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n    \n        \n\n    \n\n\n    \n\n                                        \n                Long format\n                                                    De l'OUA \u00e0 l'Union africaine: histoire et institutions\n                            \n        ",
+      "url": "https://webdoc.rfi.fr/oua-union-africaine-histoire-institutions/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Burkina Faso: plusieurs grands absents \u00e0 la r\u00e9union des anciens chefs d'\u00c9tat\n                            \n        ",
+      "url": "/fr/afrique/20220708-burkina-faso-plusieurs-grands-absents-%C3%A0-la-r%C3%A9union-des-anciens-chefs-d-%C3%A9tat"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    CAN 2022 f\u00e9minine: le Maroc devance le S\u00e9n\u00e9gal, le Burkina Faso \u00e9limin\u00e9\n                            \n        ",
+      "url": "/fr/afrique-foot/20220708-can-2022-f%C3%A9minine-le-maroc-devance-le-s%C3%A9n%C3%A9gal-le-burkina-faso-%C3%A9limin%C3%A9"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Variole du singe: la France \u00e9largit la vaccination aux cat\u00e9gories les plus expos\u00e9es\n                            \n        ",
+      "url": "/fr/france/20220709-variole-du-singe-la-france-%C3%A9largit-la-vaccination-aux-cat%C3%A9gories-les-plus-expos%C3%A9es"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Reportage international\n                                                    \nChine: le pass vaccinal ne passe pas \u00e0 P\u00e9kin\n                            \n        ",
+      "url": "/fr/podcasts/reportage-international/20220708-chine-le-pass-vaccinal-ne-passe-pas-%C3%A0-p%C3%A9kin"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Assassinat de Shinzo Abe: en Chine, des r\u00e9actions contrast\u00e9es\n                            \n        ",
+      "url": "/fr/asie-pacifique/20220708-assassinat-de-shinzo-abe-en-chine-des-r%C3%A9actions-contrast%C3%A9es"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    British Airways va annuler 10300 vols jusqu'\u00e0 la fin octobre\n                            \n        ",
+      "url": "/fr/%C3%A9conomie/20220709-british-airways-va-annuler-10300-vols-jusqu-%C3%A0-la-fin-octobre"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    France: les r\u00e9seaux de passeurs, des \u00aborganisations criminelles\u00bb aux ramifications internationales\n                                \n        ",
+      "url": "/fr/europe/20220708-france-les-r%C3%A9seaux-de-passeurs-des-organisations-criminelles-aux-ramifications-internationales"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Analyse\n                                                    \nVal\u00e9rie Niquet (politologue): \u00abLe Japon vit dans cette id\u00e9e d'\u00eatre un pays extr\u00eamement s\u00fbr\u00bb\n                            \n        ",
+      "url": "/fr/asie-pacifique/20220708-val%C3%A9rie-niquet-politologue-le-japon-vit-dans-cette-id%C3%A9e-d-%C3%AAtre-un-pays-extr%C3%AAmement-s%C3%BBr"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Angola: l'ancien pr\u00e9sident Jos\u00e9 Eduardo dos Santos, le \u00abparrain\u00bb, est mort\n                            \n        ",
+      "url": "/fr/afrique/20220708-angola-l-ancien-pr%C3%A9sident-jos%C3%A9-eduardo-dos-santos-le-parrain-est-mort"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Burkina Faso: la question de la justice plane sur le retour de Blaise Compaor\u00e9\n                            \n        ",
+      "url": "/fr/afrique/20220707-burkina-faso-la-question-de-la-justice-plane-sur-le-retour-de-blaise-compaor%C3%A9"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Ha\u00efti: un an apr\u00e8s l'assassinat de Jovenel Mo\u00efse, le point sur l'enqu\u00eate\n                            \n        ",
+      "url": "/fr/am%C3%A9riques/20220707-ha%C3%AFti-un-an-apr%C3%A8s-l-assassinat-de-jovenel-mo%C3%AFse-le-point-sur-l-enqu%C3%AAte"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Ouverture du Festival d\u2019Avignon, la cr\u00e9ation, les crises et le public\n                            \n        ",
+      "url": "/fr/culture/20220707-ouverture-du-festival-d-avignon-la-cr%C3%A9ation-les-crises-et-le-public"
+    },
+    {
+      "text": "\n                    Toute notre s\u00e9lection \n\n                ",
+      "url": "/fr/notre-s\u00e9lection/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    L\u2019Europe va-t-elle grelotter cet hiver, priv\u00e9e du gaz russe?\n                            \n        ",
+      "url": "/fr/europe/20220708-l-europe-va-t-elle-grelotter-cet-hiver-priv%C3%A9e-du-gaz-russe"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Royaume-Uni: face \u00e0 la guerre de succession les \u00e9lecteurs des Tories divis\u00e9s\n                            \n        ",
+      "url": "/fr/europe/20220708-royaume-uni-face-%C3%A0-la-guerre-de-succession-les-%C3%A9lecteurs-des-tories-divis%C3%A9s"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Reportage\n                                                    \nLa carte postale du Tour: une sacr\u00e9e ambiance sur la Planche!\n                            \n        ",
+      "url": "/fr/sports/20220708-la-carte-postale-du-tour-une-sacr%C3%A9e-ambiance-sur-la-planche"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    France: le projet de centre d'enfouissement de d\u00e9chets nucl\u00e9aires \u00e0 Bure d\u00e9clar\u00e9 \u00abd'utilit\u00e9 publique\u00bb, col\u00e8re des opposants\n                            \n        ",
+      "url": "/fr/france/20220709-france-le-projet-de-centre-d-enfouissement-de-d%C3%A9chets-nucl%C3%A9aires-%C3%A0-bure-d%C3%A9clar%C3%A9-d-utilit%C3%A9-publique-col%C3%A8re-des-opposants"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Avec son nouveau gazoduc, la Bulgarie s'\u00e9mancipe un peu plus de la Russie\n                            \n        ",
+      "url": "/fr/europe/20220708-avec-son-nouveau-gazoduc-la-bulgarie-s-%C3%A9mancipe-un-peu-plus-de-la-russie"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    En Uruguay, la suspension de la vaccination pour les enfants sid\u00e8re la pr\u00e9sidence\n                            \n        ",
+      "url": "/fr/am%C3%A9riques/20220709-en-uruguay-la-suspension-de-la-vaccination-pour-les-enfants-sid%C3%A8re-la-pr%C3%A9sidence"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Litt\u00e9rature sans fronti\u00e8res\n                                                    \nKaterina Autet, de la Russie \u00e0 la France en passant par les \u00c9tats-Unis\n                                \n        ",
+      "url": "/fr/podcasts/litt%C3%A9rature-sans-fronti%C3%A8res/20220708-guerre-ukraine-russie-justice-polar"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Priorit\u00e9 sant\u00e9\n                                                    \nQuestions de femmes:\u00a0la sant\u00e9 du c\u0153ur\n                            \n        ",
+      "url": "/fr/podcasts/priorit%C3%A9-sant%C3%A9/20220708-questions-de-femmes-la-sant%C3%A9-du-c%C5%93ur"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                7 milliards de voisins\n                                                    \nComment favoriser les mobilit\u00e9s douces en ville?\n                            \n        ",
+      "url": "/fr/podcasts/7-milliards-de-voisins/20220708-comment-favoriser-les-mobilit%C3%A9s-douces-en-ville"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Appels sur l'actualit\u00e9\n                                                    \n[Vos r\u00e9actions] La libre antenne\n                            \n        ",
+      "url": "/fr/podcasts/appels-sur-l-actualit%C3%A9/20220708-vos-r%C3%A9actions-la-libre-antenne"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Grand reportage\n                                                    \nSheikh Jarrah, un bout de Palestine convoit\u00e9\n                            \n        ",
+      "url": "/fr/podcasts/grand-reportage/20220708-sheikh-jarrah-un-bout-de-palestine-convoit%C3%A9"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Appels sur l'actualit\u00e9\n                                                    \n[Vos r\u00e9actions] Burkina Faso: Blaise Compaor\u00e9, la fin de l'exil?\n                            \n        ",
+      "url": "/fr/podcasts/appels-sur-l-actualit%C3%A9/20220707-vos-r%C3%A9actions-burkina-faso-blaise-compaor%C3%A9-la-fin-de-l-exil"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Journal d'Ha\u00efti et des Am\u00e9riques\n                                                    \nHa\u00efti: un an apr\u00e8s l\u2019assassinat du pr\u00e9sident Moise, l\u2019impossible transition politique (5/5)\n                            \n        ",
+      "url": "/fr/podcasts/journal-d-ha%C3%AFti-et-des-am%C3%A9riques/20220708-ha%C3%AFti-un-an-apr%C3%A8s-l-assassinat-du-pr%C3%A9sident-moise-l-impossible-transition-politique-5-5"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Vous m'en direz des nouvelles\n                                                    \nNicolas Laugero-Lasserre, l'art met Paris sens dessus dessous\n                            \n        ",
+      "url": "/fr/podcasts/vous-m-en-direz-des-nouvelles/20220708-nicolas-laugero-lasserre-l-art-met-paris-sens-dessus-dessous"
+    },
+    {
+      "text": "\n                    Tous nos podcasts \n\n                ",
+      "url": "/fr/podcasts/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nGuin\u00e9e: les trois militants du FNDC sont libres\n                            \n        ",
+      "url": "/fr/afrique/20220709-guin%C3%A9e-les-trois-militants-du-fndc-sont-libres"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nGuin\u00e9e et Burkina Faso: comment tourner en rond et dans le vide\n                            \n        ",
+      "url": "/fr/podcasts/%C3%A7a-fait-d%C3%A9bat-avec-wathi/20220709-guin%C3%A9e-et-burkina-faso-comment-tourner-en-rond-et-dans-le-vide"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Burkina Faso: plusieurs grands absents \u00e0 la r\u00e9union des anciens chefs d'\u00c9tat\n                            \n        ",
+      "url": "/fr/afrique/20220708-burkina-faso-plusieurs-grands-absents-%C3%A0-la-r%C3%A9union-des-anciens-chefs-d-%C3%A9tat"
+    },
+    {
+      "text": "\n                    Tous les contenus \n\n                ",
+      "url": "/fr/afrique/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    CAN 2022 f\u00e9minine: le Maroc devance le S\u00e9n\u00e9gal, le Burkina Faso \u00e9limin\u00e9\n                            \n        ",
+      "url": "/fr/afrique-foot/20220708-can-2022-f%C3%A9minine-le-maroc-devance-le-s%C3%A9n%C3%A9gal-le-burkina-faso-%C3%A9limin%C3%A9"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    CAN 2022: une Coupe d\u2019Afrique pas si f\u00e9minine sur les bancs de touche\n                            \n        ",
+      "url": "/fr/afrique-foot/20220708-can-2022-une-coupe-d-afrique-pas-si-f%C3%A9minine-sur-les-bancs-de-touche"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Football: L\u2019Ivoirien S\u00e9bastien Haller au Borussia Dortmund jusqu\u2019en 2026\n                            \n        ",
+      "url": "/fr/afrique-foot/20220706-football-l-ivoirien-s%C3%A9bastien-haller-au-borussia-dortmund-jusqu-en-2026"
+    },
+    {
+      "text": "\n                    Tous les contenus Afrique foot \n\n                ",
+      "url": "/fr/afrique-foot/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \u00c0 la Une: les r\u00e8gles du dialogue fix\u00e9es en \u00c9quateur\n                                \n        ",
+      "url": "/fr/am%C3%A9riques/20220708-%C3%A0-la-une-les-r%C3%A8gles-du-dialogue-fix%C3%A9es-en-%C3%A9quateur"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \u00c0 la Une: la Mac\u00e9doine du Nord en \u00e9bullition contre la \u00abproposition fran\u00e7aise\u00bb\n                            \n        ",
+      "url": "/fr/europe/20220708-%C3%A0-la-une-la-mac%C3%A9doine-du-nord-en-%C3%A9bullition-contre-la-proposition-fran%C3%A7aise"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \n\u00c0 la Une: Compaor\u00e9, le retour qui bafoue Th\u00e9mis\n                            \n        ",
+      "url": "/fr/podcasts/revue-de-presse-afrique/20220708-%C3%A0-la-une-compaor%C3%A9-le-retour-qui-bafoue-th%C3%A9mis"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \n\u00c0 la Une: Bojo, la chute\n                            \n        ",
+      "url": "/fr/podcasts/revue-de-presse-fran%C3%A7aise/20220708-%C3%A0-la-une-bojo-la-chute"
+    },
+    {
+      "text": "\n                    Tous les contenus \n\n                ",
+      "url": "/fr/tag/revue-de-presse/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nQuestions de femmes:\u00a0la sant\u00e9 du c\u0153ur\n                            \n        ",
+      "url": "/fr/podcasts/priorit%C3%A9-sant%C3%A9/20220708-questions-de-femmes-la-sant%C3%A9-du-c%C5%93ur"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nLa rougeole: augmentation du nombre de cas dans le monde\n                            \n        ",
+      "url": "/fr/podcasts/priorit%C3%A9-sant%C3%A9/20220707-la-rougeole-augmentation-du-nombre-de-cas-dans-le-monde"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nLa goutte, une maladie inflammatoire de l'articulation\n                            \n        ",
+      "url": "/fr/podcasts/priorit%C3%A9-sant%C3%A9/20220706-la-goutte-une-maladie-inflammatoire-de-l-articulation"
+    },
+    {
+      "text": "\n                    Tous les contenus \n\n                ",
+      "url": "/fr/podcasts/priorit\u00e9-sant\u00e9/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Iran: deux cin\u00e9astes arr\u00eat\u00e9s pour avoir mis en p\u00e9ril la s\u00e9curit\u00e9 nationale\n                            \n        ",
+      "url": "/fr/moyen-orient/20220709-iran-deux-cin%C3%A9astes-arr%C3%AAt%C3%A9s-pour-avoir-mis-en-p%C3%A9ril-la-s%C3%A9curit%C3%A9-nationale"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Litt\u00e9rature: \u00abLa promesse\u00bb de Damon Galgut, ou la d\u00e9confiture de l\u2019Afrique du Sud blanche\n                            \n        ",
+      "url": "/fr/culture/20220709-litt%C3%A9rature-la-promesse-de-damon-galgut-ou-la-d%C3%A9confiture-de-l-afrique-du-sud-blanche"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Avignon: \u00abLe moine noir\u00bb \u00e9poustouflant de Kirill Serebrennikov \u00e0 la Cour d\u2019honneur du Palais des papes\n                            \n        ",
+      "url": "/fr/culture/20220708-avignon-le-moine-noir-%C3%A9poustouflant-de-kirill-serebrennikov-%C3%A0-la-cour-d-honneur-du-palais-des-papes"
+    },
+    {
+      "text": "\n                    Tous les contenus \n\n                ",
+      "url": "/fr/culture-m\u00e9dias/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    La renaissance d\u2019Oum Kalthoum ?\n                            \n        ",
+      "url": "https://musique.rfi.fr/musique/20220708-renaissance-doum-kalthoum"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Afro-Club, le hit des platines avec Tiss Warren Jazz, Black M et le collectif Fvicteam\n                            \n        ",
+      "url": "https://musique.rfi.fr/musique-africaine/20220707-afro-club-le-hit-platines-tiss-warren-jazz-black-le-collectif-fvicteam"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Didi B, le rap ivoire en haut de l'affiche\n                            \n        ",
+      "url": "https://musique.rfi.fr/rap/20220706-didi-b-le-rap-ivoire-haut-laffiche"
+    },
+    {
+      "text": "\n                    Vers RFI Musique \n\n                ",
+      "url": "https://musique.rfi.fr/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Analyse\n                                                    L\u2019enseignement de la guerre d\u2019Alg\u00e9rie en France: entre histoire et m\u00e9moire\n                            \n        ",
+      "url": "/fr/afrique/20210508-l-enseignement-de-la-guerre-d-alg%C3%A9rie-en-france-entre-histoire-et-m%C3%A9moire"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                CHRONOLOGIE\n                                                    Alg\u00e9rie, la longue route vers l'ind\u00e9pendance\n                            \n        ",
+      "url": "/fr/connaissances/20210705-alg%C3%A9rie-la-longue-route-vers-l-ind%C3%A9pendance"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n    \n        \n\n    \n\n\n    \n\n                                        \n                A d\u00e9couvrir\n                                                    Enrichissez vos connaissances\n                            \n        ",
+      "url": "https://www.rfi.fr/fr/connaissances/"
+    },
+    {
+      "text": "\n                                                                                                                \n    \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Tous nos outils pour apprendre et enseigner le fran\u00e7ais\n                            \n        ",
+      "url": "https://savoirs.rfi.fr/fr/apprendre-enseigner"
+    },
+    {
+      "text": "\n                    Tous nos longs formats \n\n                ",
+      "url": "/fr/interactif/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    L'ex-pr\u00e9sident russe Dmitri Medvedev \u00e9voque le recours \u00e0 l'arme nucl\u00e9aire\n                            \n        ",
+      "url": "/fr/europe/20220706-l-ex-pr%C3%A9sident-russe-dmitri-medvedev-%C3%A9voque-le-recours-%C3%A0-l-arme-nucl%C3%A9aire"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Burkina Faso: l\u2019ancien pr\u00e9sident Blaise Compaor\u00e9 est de retour \u00e0 Ouagadougou\n                            \n        ",
+      "url": "/fr/afrique/20220707-burkina-faso-l-ancien-pr%C3%A9sident-blaise-compaor%C3%A9-est-de-retour-%C3%A0-ouagadougou"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Russie: dans un discours martial, Vladimir Poutine met au d\u00e9fi les Occidentaux\n                            \n        ",
+      "url": "/fr/europe/20220707-russie-dans-un-discours-martial-vladimir-poutine-met-au-d%C3%A9fi-les-occidentaux"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Japon: l'ex-Premier ministre Shinzo Abe est mort apr\u00e8s avoir \u00e9t\u00e9 attaqu\u00e9 \u00e0 l'arme \u00e0 feu\n                            \n        ",
+      "url": "/fr/asie-pacifique/20220708-japon-l-ancien-premier-ministre-shinzo-abe-conduit-%C3%A0-l-h%C3%B4pital-apr%C3%A8s-une-attaque"
+    },
+    {
+      "text": "\n                    Tous les contenus \n\n                ",
+      "url": "/fr/les-plus-lus"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                La relance en Afrique\n                                                                                                            \n                            Pr\u00e9sent\u00e9 par                                \n                                    \n\n\n\n\n                                                    \n                                                            Relance en Afrique : la coop\u00e9ration japonaise pr\u00eate \u00e0 donner le top d\u00e9part\n                            \n        ",
+      "url": "/fr/contenus-partenaires/20220629-relance-en-afrique-la-coop%C3%A9ration-japonaise-pr%C3%AAte-%C3%A0-donner-le-top-d%C3%A9part"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Economie\n                                                                                                            \n                            Pr\u00e9sent\u00e9 par                                \n                                    \n\n\n\n\n                                                    \n                                                            Vendre dans le nouveau monde du travail\n                            \n        ",
+      "url": "/fr/contenus-partenaires/20220523-vendre-dans-le-nouveau-monde-du-travail"
+    },
+    {
+      "text": "\n                    Tous les contenus sponsoris\u00e9s \n\n                ",
+      "url": "/fr/contenus-partenaires/"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Shaeirat#1\n                            \n        ",
+      "url": "https://festival-avignon.com/fr/edition-2022/programmation/shaeirat-1-191040"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Shaeirat#2\n                            \n        ",
+      "url": "https://festival-avignon.com/fr/edition-2022/programmation/shaeirat-2-191045"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Lady Magma\n                            \n        ",
+      "url": "https://festival-avignon.com/fr/edition-2022/programmation/lady-magma-191000"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Via Injabulo\n                            \n        ",
+      "url": "https://festival-avignon.com/fr/edition-2022/programmation/via-injabulo-191008"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    First but not last time in America\n                            \n        ",
+      "url": "https://festival-avignon.com/fr/edition-2022/programmation/first-but-not-last-time-in-america-194354"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Festival Africajarc\n                            \n        ",
+      "url": "https://www.africajarc.com/"
+    },
+    {
+      "text": "\n                    Tous nos partenaires \n\n                ",
+      "url": "/fr/partenaires"
+    },
+    {
+      "text": "2022",
+      "url": "/fr/archives/2022/"
+    },
+    {
+      "text": "2021",
+      "url": "/fr/archives/2021/"
+    },
+    {
+      "text": "2020",
+      "url": "/fr/archives/2020/"
+    },
+    {
+      "text": "2019",
+      "url": "/fr/archives/2019/"
+    },
+    {
+      "text": "2018",
+      "url": "/fr/archives/2018/"
+    },
+    {
+      "text": "2017",
+      "url": "/fr/archives/2017/"
+    },
+    {
+      "text": "2016",
+      "url": "/fr/archives/2016/"
+    },
+    {
+      "text": "2015",
+      "url": "/fr/archives/2015/"
+    },
+    {
+      "text": "2014",
+      "url": "/fr/archives/2014/"
+    },
+    {
+      "text": "2013",
+      "url": "/fr/archives/2013/"
+    },
+    {
+      "text": "2012",
+      "url": "/fr/archives/2012/"
+    },
+    {
+      "text": "2011",
+      "url": "/fr/archives/2011/"
+    },
+    {
+      "text": "2010",
+      "url": "/fr/archives/2010/"
+    },
+    {
+      "text": "2009",
+      "url": "/fr/archives/2009/"
+    },
+    {
+      "text": "2008",
+      "url": "/fr/archives/2008/"
+    },
+    {
+      "text": "2007",
+      "url": "/fr/archives/2007/"
+    }
+  ],
   "server": "ia801506.us.archive.org",
-  "uniq": 1394635738,
+  "uniq": 2092750168,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1657314732,
+  "created": 1657368926,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/17/items/ottumwacourier-2022",
@@ -1798,31 +1798,63 @@
       "sha1": "3ec7d974b0d22ea8c5188706ae783a1a1368b10c"
     },
     {
+      "name": "ottumwacourier-2022-07-08T21:10:01.396674-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657332606",
+      "size": "51704",
+      "md5": "604cade6f6a6d6e3d97880e3fca27b79",
+      "crc32": "67c3ec75",
+      "sha1": "147e90dffbea25908660c92fd8d97d23cd0b3f0c",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-07-08T21:10:01.396674-05:00.jpg",
+      "source": "original",
+      "mtime": "1657332603",
+      "size": "327506",
+      "md5": "d4e2706565277aaede92ba0988016abd",
+      "crc32": "30860362",
+      "sha1": "e80c78323ff8a0714ccaa7e0fdb6bf31f6b94637",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottumwacourier-2022-07-08T21:10:01.396674-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-07-08T21:10:01.396674-05:00.jpg",
+      "mtime": "1657332720",
+      "size": "9781",
+      "md5": "9b35c2e200d8dbc2dd6e9284f556eaf7",
+      "crc32": "7599561d",
+      "sha1": "b82dc37d6b15d22d6ba1a9f6b1faeab38ec5551a"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0bc2eec879bcd400364fe862501264917fceff82",
-      "mtime": "1657306770",
-      "size": "38457",
-      "md5": "04acb44b00127aa901d4c01cf5540bf3",
-      "crc32": "399465d1",
-      "sha1": "3703688725a5fe38b543c03d203fcf3760587d55",
+      "btih": "2aae73e20e46a899ba4aa1d34059854e5a345c0f",
+      "mtime": "1657332742",
+      "size": "39113",
+      "md5": "8f576efaf18f119377d651ae7b2d932e",
+      "crc32": "45d5ca7d",
+      "sha1": "14936ade923cc6b68427d5714b107d3a37115ced",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f7798f29dac67509474efaa34a16e49a",
+      "md5": "887537038731cb5b06e27ff6c1f81dce",
       "summation": "md5"
     },
     {
       "name": "ottumwacourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657299484",
-      "size": "212992",
-      "md5": "fc77e6713aa81e5cfd17f4633b770224",
-      "crc32": "44fbd453",
-      "sha1": "0b3f52416d4e642b5175cb4a72288d7371aa4eed",
+      "mtime": "1657332610",
+      "size": "217088",
+      "md5": "43a5714824763015713a55a4806605bd",
+      "crc32": "759c3dc9",
+      "sha1": "d525eec2577a22501c4e510bc5d40ce3465a6c5b",
       "format": "Metadata"
     },
     {
@@ -1836,9 +1868,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 174,
-  "item_last_updated": 1657306770,
-  "item_size": 21164181,
+  "files_count": 177,
+  "item_last_updated": 1657332742,
+  "item_size": 21557924,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -1855,10 +1887,1723 @@
     "publicdate": "2022-06-24 22:59:27",
     "addeddate": "2022-06-24 22:59:27"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 1852610841,
+  "ottumwacourier-2022": {
+    "role": "WebArea",
+    "name": "ottumwacourier.com",
+    "children": [
+      {
+        "role": "link",
+        "name": "Skip to main content"
+      },
+      {
+        "role": "complementary",
+        "name": "Left Main Menu",
+        "children": [
+          {
+            "role": "link",
+            "name": "Home page"
+          },
+          {
+            "role": "link",
+            "name": "Facebook"
+          },
+          {
+            "role": "link",
+            "name": "Twitter"
+          },
+          {
+            "role": "link",
+            "name": "Instagram"
+          },
+          {
+            "role": "link",
+            "name": "Email"
+          },
+          {
+            "role": "tab",
+            "name": "Login",
+            "children": [
+              {
+                "role": "link",
+                "name": "Login"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "",
+            "children": [
+              {
+                "role": "link",
+                "name": ""
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "News",
+            "children": [
+              {
+                "role": "link",
+                "name": "News"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "Puzzles & Comics"
+          },
+          {
+            "role": "tab",
+            "name": "Sports",
+            "children": [
+              {
+                "role": "link",
+                "name": "Sports"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "Opinion",
+            "children": [
+              {
+                "role": "link",
+                "name": "Opinion"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "Special Publications",
+            "children": [
+              {
+                "role": "link",
+                "name": "Special Publications"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "Contests",
+            "children": [
+              {
+                "role": "link",
+                "name": "Contests"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "Celebrations",
+            "children": [
+              {
+                "role": "link",
+                "name": "Celebrations"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "Obituaries",
+            "children": [
+              {
+                "role": "link",
+                "name": "Obituaries"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "Classifieds",
+            "children": [
+              {
+                "role": "link",
+                "name": "Classifieds"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "E-Paper",
+            "children": [
+              {
+                "role": "link",
+                "name": "E-Paper"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "App",
+            "children": [
+              {
+                "role": "link",
+                "name": "App"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "Public Notices",
+            "children": [
+              {
+                "role": "link",
+                "name": "Public Notices"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "Contact Us",
+            "children": [
+              {
+                "role": "link",
+                "name": "Contact Us"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "Subscribe",
+            "children": [
+              {
+                "role": "link",
+                "name": "Subscribe"
+              }
+            ]
+          },
+          {
+            "role": "tab",
+            "name": "Shop"
+          },
+          {
+            "role": "tab",
+            "name": "Advertise With Us",
+            "children": [
+              {
+                "role": "link",
+                "name": "Advertise With Us"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "Left Main Menu"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Contact Us"
+      },
+      {
+        "role": "link",
+        "name": "Subscribe"
+      },
+      {
+        "role": "link",
+        "name": "Login"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "E-Paper"
+      },
+      {
+        "role": "link",
+        "name": "Events"
+      },
+      {
+        "role": "link",
+        "name": "Celebrations"
+      },
+      {
+        "role": "link",
+        "name": "Obituaries"
+      },
+      {
+        "role": "link",
+        "name": "Classifieds"
+      },
+      {
+        "role": "link",
+        "name": "Public Notices"
+      },
+      {
+        "role": "link",
+        "name": "Photo Reprints"
+      },
+      {
+        "role": "link",
+        "name": "Spanish"
+      },
+      {
+        "role": "link",
+        "name": "Weather"
+      },
+      {
+        "role": "link",
+        "name": "Home page"
+      },
+      {
+        "role": "text",
+        "name": "Friday, July 8, 2022"
+      },
+      {
+        "role": "link",
+        "name": "E-paper"
+      },
+      {
+        "role": "link",
+        "name": "Newsletter"
+      },
+      {
+        "role": "link",
+        "name": "Facebook"
+      },
+      {
+        "role": "link",
+        "name": "Twitter"
+      },
+      {
+        "role": "link",
+        "name": "Instagram"
+      },
+      {
+        "role": "textbox",
+        "name": "Search..."
+      },
+      {
+        "role": "button",
+        "name": ""
+      },
+      {
+        "role": "button",
+        "name": "View your notifications and profile settings"
+      },
+      {
+        "role": "link",
+        "name": "Japan's ex-leader Shinzo Abe assassinated during a speech"
+      },
+      {
+        "role": "link",
+        "name": "Japan's ex-leader Shinzo Abe assassinated during a speech"
+      },
+      {
+        "role": "link",
+        "name": "Ottumwa murder case fully submitted to judge"
+      },
+      {
+        "role": "link",
+        "name": "Ottumwa murder case fully submitted to judge"
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: J-Hawks thwart Ottumwa's rally with walk-off win"
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: J-Hawks thwart Ottumwa's rally with walk-off win"
+      },
+      {
+        "role": "link",
+        "name": "Republicans scope out 2024 presidential prospects in Iowa"
+      },
+      {
+        "role": "link",
+        "name": "Republicans scope out 2024 presidential prospects in Iowa"
+      },
+      {
+        "role": "link",
+        "name": "Impassioned Biden signs order on abortion access"
+      },
+      {
+        "role": "link",
+        "name": "Impassioned Biden signs order on abortion access"
+      },
+      {
+        "role": "text",
+        "name": "By SEUNG MIN KIM, ZEKE MILLER and CHRIS MEGERIAN - Associated Press"
+      },
+      {
+        "role": "text",
+        "name": "2 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "President Joe Biden has signed an executive order to protect access to abortion, delivering impassioned remarks condemning the Supreme Court decision that ended that constitutional right. He said it's now up to Congress to fully restore the right, and he implored Americans to \u201cvote, vote, vo\u2026"
+      },
+      {
+        "role": "link",
+        "name": "Prison sentence imposed for sex offender"
+      },
+      {
+        "role": "text",
+        "name": "OTTUMWA \u2014 After failing to comply with probation requirements, an Ottumwa sex offender is off to prison."
+      },
+      {
+        "role": "link",
+        "name": "NOT REAL NEWS: A look at what didn't happen this week"
+      },
+      {
+        "role": "link",
+        "name": "NOT REAL NEWS: A look at what didn't happen this week"
+      },
+      {
+        "role": "text",
+        "name": "Social media users shared a range of false claims this week. Here are the facts: Experts strongly warn against using herbs as a way to induce \u2026"
+      },
+      {
+        "role": "link",
+        "name": "Man sentenced to 40 years in sex abuse case"
+      },
+      {
+        "role": "text",
+        "name": "OTTUMWA \u2014 A man convicted on 19 counts of sexual abuse-related charges against two children was sentenced to 40 years in prison this week."
+      },
+      {
+        "role": "link",
+        "name": "Hundreds of Iowa nursing home complaints go uninvestigated for months"
+      },
+      {
+        "role": "link",
+        "name": "Hundreds of Iowa nursing home complaints go uninvestigated for months"
+      },
+      {
+        "role": "text",
+        "name": "In January 2020, Kimberly Jacob contacted the Iowa Department of Inspections and Appeals with a complaint about an Iowa nursing home."
+      },
+      {
+        "role": "link",
+        "name": "Iowa Republicans maintain voter registration lead following primary"
+      },
+      {
+        "role": "link",
+        "name": "Iowa Republicans maintain voter registration lead following primary"
+      },
+      {
+        "role": "text",
+        "name": "Iowa\u2019s Republican Party grew in ranks by almost 25,000 voters between June and July, new voting registration data shows."
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: Trojans take care of business to open postseason"
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: Trojans take care of business to open postseason"
+      },
+      {
+        "role": "text",
+        "name": "FAIRFIELD \u2014 Other than an earlier start and a muddy divot in the pitching circle, showers moving in and out of southern Iowa did little to imp\u2026"
+      },
+      {
+        "role": "heading",
+        "name": "The Latest",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "City sees 'net savings' with franchise fees"
+      },
+      {
+        "role": "text",
+        "name": "5 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "OTTUMWA \u2014 The City of Ottumwa believes franchise fees will be a win-win for both residents and businesses, as well as the city."
+      },
+      {
+        "role": "link",
+        "name": "4-H announces royalty candidates"
+      },
+      {
+        "role": "link",
+        "name": "4-H announces royalty candidates"
+      },
+      {
+        "role": "text",
+        "name": "5 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "Several candidates will be vying for royalty at this year's Wapello County 4-H Expo, which begins in earnest today and lasts through Saturday."
+      },
+      {
+        "role": "link",
+        "name": "IHCC receives grants for next phase of renovation"
+      },
+      {
+        "role": "text",
+        "name": "8 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "OTTUMWA \u2014 Indian Hills Community College has been named the recipient of three community grants to support the creation of the new Criminal Ju\u2026"
+      },
+      {
+        "role": "link",
+        "name": "Local street closures"
+      },
+      {
+        "role": "text",
+        "name": "8 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "OTTUMWA \u2014 Beginning Tuesday, the 100 block of West Alta Vista Avenue will be closed for a sewer repair."
+      },
+      {
+        "role": "link",
+        "name": "Wapello County changes colors"
+      },
+      {
+        "role": "link",
+        "name": "Wapello County changes colors"
+      },
+      {
+        "role": "text",
+        "name": "8 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "OTTUMWA \u2014 Wapello County, once reliably Democratic at most levels of politics, has become a Republican county, part of a larger trend of count\u2026"
+      },
+      {
+        "role": "link",
+        "name": "COUPON DEALS"
+      },
+      {
+        "role": "link",
+        "name": "NEWSPAPER ADS"
+      },
+      {
+        "role": "heading",
+        "name": "Trending Recipes",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "Slicing cucumber very thin lets the salt draw out the natural juices in this German salad. The dressing is tangy and a touch sweet."
+      },
+      {
+        "role": "link",
+        "name": "German Cucumber Salad, a.k.a. Gurken Salat",
+        "description": "Slicing cucumber very thin lets the salt draw out the natural juices in this German salad. The dressing is tangy and a touch sweet."
+      },
+      {
+        "role": "link",
+        "name": "Are you looking for a side dish that will go well with the main course? How about this oven roasted vegetable recipe that pairs nicely with any dinner."
+      },
+      {
+        "role": "link",
+        "name": "Oven Roasted Vegetables",
+        "description": "Are you looking for a side dish that will go well with the main course? How about this oven roasted vegetable recipe that pairs nicely with any dinner."
+      },
+      {
+        "role": "link",
+        "name": "This no bake dessert is so good. Make a quick and easy graham cracker pudding with this blue ribbon recipe! It's almost like a graham cracker pudding lasagna."
+      },
+      {
+        "role": "link",
+        "name": "Graham Cracker Pudding",
+        "description": "This no bake dessert is so good. Make a quick and easy graham cracker pudding with this blue ribbon recipe! It's almost like a graham cracker pudding lasagna."
+      },
+      {
+        "role": "heading",
+        "name": "This Week's Circulars",
+        "level": 4
+      },
+      {
+        "role": "Iframe",
+        "name": "Flipp"
+      },
+      {
+        "role": "heading",
+        "name": "Trending Videos",
+        "level": 3
+      },
+      {
+        "role": "Iframe",
+        "name": "Primis Frame"
+      },
+      {
+        "role": "heading",
+        "name": "Local Events",
+        "level": 3
+      },
+      {
+        "role": "Iframe",
+        "name": ""
+      },
+      {
+        "role": "heading",
+        "name": "Sports",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "Iowa's Barta doubts Big Ten expands further 'in near future'"
+      },
+      {
+        "role": "link",
+        "name": "Iowa's Barta doubts Big Ten expands further 'in near future'"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": "3 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "Iowa athletic director Gary Barta says the Big Ten has received inquiries from schools interested in becoming members in the week since the ad\u2026"
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: J-Hawks thwart Ottumwa's rally with walk-off win"
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: J-Hawks thwart Ottumwa's rally with walk-off win"
+      },
+      {
+        "role": "text",
+        "name": "15 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "URBANDALE \u2014 Down six runs with six outs left on the road in the postseason."
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: Trojans take care of business to open postseason"
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: Trojans take care of business to open postseason"
+      },
+      {
+        "role": "text",
+        "name": "16 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "FAIRFIELD \u2014 Other than an earlier start and a muddy divot in the pitching circle, showers mo\u2026"
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: Mustangs storm into regional semifinals"
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: Mustangs storm into regional semifinals"
+      },
+      {
+        "role": "text",
+        "name": "17 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "BLOOMFIELD \u2014 With a pitcher that averages over nine strikeouts a game, Madison Dunlavy has s\u2026"
+      },
+      {
+        "role": "link",
+        "name": "Defending Big 12 champ Baylor tabbed preseason favorite"
+      },
+      {
+        "role": "link",
+        "name": "Defending Big 12 champ Baylor tabbed preseason favorite"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": "Jul 7, 2022"
+      },
+      {
+        "role": "text",
+        "name": "Media who cover the Big 12 have tabbed defending champion Baylor as the preseason favorite t\u2026"
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: Youth movement continues for Mohawks"
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: Youth movement continues for Mohawks"
+      },
+      {
+        "role": "text",
+        "name": "Jul 7, 2022"
+      },
+      {
+        "role": "text",
+        "name": "MORAVIA \u2014 So far, postseason play seems to suit the young Moravia softball team quite well."
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: No. 11 Albia edges EBF in regional softball opener"
+      },
+      {
+        "role": "link",
+        "name": "Prep softball: No. 11 Albia edges EBF in regional softball opener"
+      },
+      {
+        "role": "text",
+        "name": "Jul 7, 2022"
+      },
+      {
+        "role": "text",
+        "name": "ALBIA \u2014 Two errors in the second inning allowed Albia to bring home a pair of unearned runs,\u2026"
+      },
+      {
+        "role": "link",
+        "name": "Submit news tip"
+      },
+      {
+        "role": "text",
+        "name": "We're always interested in hearing about news in our community. Let us know what's going on!"
+      },
+      {
+        "role": "link",
+        "name": "Go to form",
+        "children": [
+          {
+            "role": "button",
+            "name": "Go to form"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "Write a letter"
+      },
+      {
+        "role": "text",
+        "name": "The Ottumwa Courier welcomes readers to submit letters to the editor to offer their take on the news impacting them. Let us know what you're thinking!"
+      },
+      {
+        "role": "link",
+        "name": "Go to form",
+        "children": [
+          {
+            "role": "button",
+            "name": "Go to form"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "Obituaries"
+      },
+      {
+        "role": "link",
+        "name": "MARING, Helen"
+      },
+      {
+        "role": "link",
+        "name": "MARING, Helen"
+      },
+      {
+        "role": "link",
+        "name": "THOMAS, Roger"
+      },
+      {
+        "role": "link",
+        "name": "THOMAS, Roger"
+      },
+      {
+        "role": "link",
+        "name": "CROWE, Richard"
+      },
+      {
+        "role": "link",
+        "name": "CROWE, Richard"
+      },
+      {
+        "role": "link",
+        "name": "FORD JR., George"
+      },
+      {
+        "role": "link",
+        "name": "FORD JR., George"
+      },
+      {
+        "role": "link",
+        "name": "HOWARD, Sandy"
+      },
+      {
+        "role": "link",
+        "name": "HOWARD, Sandy"
+      },
+      {
+        "role": "link",
+        "name": "Mary Eakins"
+      },
+      {
+        "role": "link",
+        "name": "Swarts, Gale"
+      },
+      {
+        "role": "link",
+        "name": "Swarts, Gale"
+      },
+      {
+        "role": "link",
+        "name": "More Obituaries"
+      },
+      {
+        "role": "heading",
+        "name": "Most Popular",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "Articles Articles"
+      },
+      {
+        "role": "link",
+        "name": "images"
+      },
+      {
+        "role": "link",
+        "name": "Videos"
+      },
+      {
+        "role": "link",
+        "name": "Commented"
+      },
+      {
+        "role": "link",
+        "name": "Police: Woman found dead, standoff with husband ends with suicide"
+      },
+      {
+        "role": "link",
+        "name": "Authorities identify couple in Lovilia murder-suicide"
+      },
+      {
+        "role": "link",
+        "name": "Prep baseball: Big Reds bounce EBF out of postseason"
+      },
+      {
+        "role": "link",
+        "name": "School officials caution new law could harm students, districts"
+      },
+      {
+        "role": "link",
+        "name": "Former city clerk gets prison time"
+      },
+      {
+        "role": "link",
+        "name": "Ottumwa clinches outright Metro titles"
+      },
+      {
+        "role": "link",
+        "name": "Prep baseball: Comets explode early in district opener"
+      },
+      {
+        "role": "link",
+        "name": "Caldwell vows to press on in BSL debate"
+      },
+      {
+        "role": "link",
+        "name": "City agrees to purchase railroad depot"
+      },
+      {
+        "role": "link",
+        "name": "Moravia woman killed in Wednesday crash"
+      },
+      {
+        "role": "link",
+        "name": "Photo Galleries & Reprints"
+      },
+      {
+        "role": "link",
+        "name": "Moravia BB vs Southeast Warren"
+      },
+      {
+        "role": "link",
+        "name": "Moravia BB vs Southeast Warren"
+      },
+      {
+        "role": "text",
+        "name": "Jul 5, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Centerville BB vs Eddyville-Blakesburg-Fremont"
+      },
+      {
+        "role": "link",
+        "name": "Centerville BB vs Eddyville-Blakesburg-Fremont"
+      },
+      {
+        "role": "text",
+        "name": "Jul 5, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Davis County BB vs Pella Christian"
+      },
+      {
+        "role": "link",
+        "name": "Davis County BB vs Pella Christian"
+      },
+      {
+        "role": "text",
+        "name": "Jul 5, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Albia BB vs Pella Christian"
+      },
+      {
+        "role": "link",
+        "name": "Albia BB vs Pella Christian"
+      },
+      {
+        "role": "text",
+        "name": "Jul 2, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Centerville BB vs Chariton"
+      },
+      {
+        "role": "link",
+        "name": "Centerville BB vs Chariton"
+      },
+      {
+        "role": "text",
+        "name": "Jul 2, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Greater Ottumwa Rodeo"
+      },
+      {
+        "role": "link",
+        "name": "Greater Ottumwa Rodeo"
+      },
+      {
+        "role": "text",
+        "name": "Jul 1, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Videos"
+      },
+      {
+        "role": "link",
+        "name": "Ottumwa Schools - Board Meeting - 07/11/2022"
+      },
+      {
+        "role": "link",
+        "name": "Ottumwa Schools - Board Meeting - 07/11/2022"
+      },
+      {
+        "role": "text",
+        "name": "Jul 7, 2022"
+      },
+      {
+        "role": "text",
+        "name": "Ottumwa Community School District Board Meeting."
+      },
+      {
+        "role": "link",
+        "name": "Documentary shows chaotic end to Trump presidency"
+      },
+      {
+        "role": "link",
+        "name": "Documentary shows chaotic end to Trump presidency"
+      },
+      {
+        "role": "text",
+        "name": "Jul 7, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Ottumwa City Council - July 05 2022 - Regular Meeting"
+      },
+      {
+        "role": "link",
+        "name": "Ottumwa City Council - July 05 2022 - Regular Meeting"
+      },
+      {
+        "role": "text",
+        "name": "Jul 5, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Board of Supervisors"
+      },
+      {
+        "role": "link",
+        "name": "Board of Supervisors"
+      },
+      {
+        "role": "text",
+        "name": "Jul 5, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Board of Supervisors"
+      },
+      {
+        "role": "link",
+        "name": "Board of Supervisors"
+      },
+      {
+        "role": "text",
+        "name": "Jul 5, 2022"
+      },
+      {
+        "role": "text",
+        "name": "Business Marquee"
+      },
+      {
+        "role": "text",
+        "name": "CALL 1-800-532-1504 TO FIND OUT HOW TO ADVERTISE HERE!!!"
+      },
+      {
+        "role": "text",
+        "name": "undefined"
+      },
+      {
+        "role": "heading",
+        "name": "Special Publications",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "101 Things to Do (2022-23)"
+      },
+      {
+        "role": "link",
+        "name": "101 Things to Do (2022-23)"
+      },
+      {
+        "role": "link",
+        "name": "Rathbun Lake Visitors Guide 2022"
+      },
+      {
+        "role": "link",
+        "name": "Rathbun Lake Visitors Guide 2022"
+      },
+      {
+        "role": "link",
+        "name": "Southern Iowa Living"
+      },
+      {
+        "role": "link",
+        "name": "Southern Iowa Living"
+      },
+      {
+        "role": "link",
+        "name": "The Source 2022"
+      },
+      {
+        "role": "link",
+        "name": "The Source 2022"
+      },
+      {
+        "role": "link",
+        "name": "Southeast Iowa Holiday 2021"
+      },
+      {
+        "role": "link",
+        "name": "Southeast Iowa Holiday 2021"
+      },
+      {
+        "role": "link",
+        "name": "Greater Ottumwa Partners in Progress Investor Directory 2021-22"
+      },
+      {
+        "role": "link",
+        "name": "Greater Ottumwa Partners in Progress Investor Directory 2021-22"
+      },
+      {
+        "role": "link",
+        "name": "Senior Resource Guide 2021"
+      },
+      {
+        "role": "link",
+        "name": "Senior Resource Guide 2021"
+      },
+      {
+        "role": "link",
+        "name": "CHAPY Awards 2020-21"
+      },
+      {
+        "role": "link",
+        "name": "CHAPY Awards 2020-21"
+      },
+      {
+        "role": "link",
+        "name": "2021 Pancake Day Official Guide"
+      },
+      {
+        "role": "link",
+        "name": "2021 Pancake Day Official Guide"
+      },
+      {
+        "role": "link",
+        "name": "Ottumwa Life Summer 2021"
+      },
+      {
+        "role": "link",
+        "name": "Ottumwa Life Summer 2021"
+      },
+      {
+        "role": "link",
+        "name": "We Are Ottumwa 2021"
+      },
+      {
+        "role": "link",
+        "name": "We Are Ottumwa 2021"
+      },
+      {
+        "role": "link",
+        "name": "Rathbun Lake 2021 Visitor's Guide"
+      },
+      {
+        "role": "link",
+        "name": "Rathbun Lake 2021 Visitor's Guide"
+      },
+      {
+        "role": "link",
+        "name": "101 Things to Do (2022-23)"
+      },
+      {
+        "role": "link",
+        "name": "101 Things to Do (2022-23)"
+      },
+      {
+        "role": "link",
+        "name": "Rathbun Lake Visitors Guide 2022"
+      },
+      {
+        "role": "link",
+        "name": "Rathbun Lake Visitors Guide 2022"
+      },
+      {
+        "role": "link",
+        "name": "Southern Iowa Living"
+      },
+      {
+        "role": "link",
+        "name": "Southern Iowa Living"
+      },
+      {
+        "role": "link",
+        "name": "The Source 2022"
+      },
+      {
+        "role": "link",
+        "name": "The Source 2022"
+      },
+      {
+        "role": "link",
+        "name": "Around Iowa"
+      },
+      {
+        "role": "link",
+        "name": "IHCC receives grants for next phase of renovation"
+      },
+      {
+        "role": "link",
+        "name": "Fairfield Treasure Hunt Weekend set for July 29-30"
+      },
+      {
+        "role": "link",
+        "name": "Ottumwa band performs selections from \u2018Bugler\u2019s Holiday\u2019"
+      },
+      {
+        "role": "link",
+        "name": "Authorities identify couple in Lovilia murder-suicide"
+      },
+      {
+        "role": "link",
+        "name": "Theater camp returns to Fairfield"
+      },
+      {
+        "role": "link",
+        "name": "Lotto America moving to three drawings"
+      },
+      {
+        "role": "link",
+        "name": "Police: Woman found dead, standoff with husband ends with suicide"
+      },
+      {
+        "role": "link",
+        "name": "More State News"
+      },
+      {
+        "role": "link",
+        "name": "News Briefs"
+      },
+      {
+        "role": "link",
+        "name": "Local street closures"
+      },
+      {
+        "role": "link",
+        "name": "Homeowner, dog fend off home invasion"
+      },
+      {
+        "role": "link",
+        "name": "South Court Street lane closure"
+      },
+      {
+        "role": "link",
+        "name": "City announces July 4 schedule changes"
+      },
+      {
+        "role": "link",
+        "name": "City fireworks show set for Monday"
+      },
+      {
+        "role": "link",
+        "name": "Declaration of Independence reading set for Monday"
+      },
+      {
+        "role": "link",
+        "name": "UNI releases graduates, dean's list honorees"
+      },
+      {
+        "role": "link",
+        "name": "More News Briefs"
+      },
+      {
+        "role": "link",
+        "name": "Opinion"
+      },
+      {
+        "role": "link",
+        "name": "EVANS: Iowa court\u2019s unfair message: \u2018Take one for the team\u2019"
+      },
+      {
+        "role": "link",
+        "name": "LETTER: Thanks to the Ottumwa School Board"
+      },
+      {
+        "role": "link",
+        "name": "POLICINSKI: First amendment could bridge our divisions"
+      },
+      {
+        "role": "link",
+        "name": "KETTER: Abortion decision politicizes Supreme Court"
+      },
+      {
+        "role": "link",
+        "name": "LETTER: President Biden is a bike rider"
+      },
+      {
+        "role": "link",
+        "name": "EVANS: It\u2019s wrong to tell parents what their kids can read"
+      },
+      {
+        "role": "link",
+        "name": "Garland's dilemma grows as evidence piles up"
+      },
+      {
+        "role": "link",
+        "name": "More Opinion"
+      },
+      {
+        "role": "link",
+        "name": "Features"
+      },
+      {
+        "role": "link",
+        "name": "Gun violence in America: A long list of forgotten victims"
+      },
+      {
+        "role": "link",
+        "name": "Gun violence in America: A long list of forgotten victims"
+      },
+      {
+        "role": "link",
+        "name": "Christians strip down at a South Texas nudist community"
+      },
+      {
+        "role": "link",
+        "name": "Christians strip down at a South Texas nudist community"
+      },
+      {
+        "role": "link",
+        "name": "Many won't rely on virtual options after COVID: AP-NORC poll"
+      },
+      {
+        "role": "link",
+        "name": "Many won't rely on virtual options after COVID: AP-NORC poll"
+      },
+      {
+        "role": "link",
+        "name": "4 ways parents can help kids have a great summer at camp"
+      },
+      {
+        "role": "link",
+        "name": "4 ways parents can help kids have a great summer at camp"
+      },
+      {
+        "role": "link",
+        "name": "Millennial Money: What if you can\u2019t \u2018out-budget\u2019 inflation?"
+      },
+      {
+        "role": "link",
+        "name": "Millennial Money: What if you can\u2019t \u2018out-budget\u2019 inflation?"
+      },
+      {
+        "role": "link",
+        "name": "Black Jewish leader works to boost community, inclusiveness"
+      },
+      {
+        "role": "link",
+        "name": "Black Jewish leader works to boost community, inclusiveness"
+      },
+      {
+        "role": "link",
+        "name": "Tips for growing a healthy garden during drought"
+      },
+      {
+        "role": "link",
+        "name": "Tips for growing a healthy garden during drought"
+      },
+      {
+        "role": "link",
+        "name": "Melon salad with spicy pork? A sweet and savory yes!"
+      },
+      {
+        "role": "link",
+        "name": "Melon salad with spicy pork? A sweet and savory yes!"
+      },
+      {
+        "role": "link",
+        "name": "Uneasy US tries to fete a July 4 marred by parade shooting"
+      },
+      {
+        "role": "link",
+        "name": "Uneasy US tries to fete a July 4 marred by parade shooting"
+      },
+      {
+        "role": "link",
+        "name": "Joey Chestnut is chomp champ again in July 4 hot dog contest"
+      },
+      {
+        "role": "link",
+        "name": "Joey Chestnut is chomp champ again in July 4 hot dog contest"
+      },
+      {
+        "role": "link",
+        "name": "Rodeo draws crowds"
+      },
+      {
+        "role": "link",
+        "name": "Rodeo draws crowds"
+      },
+      {
+        "role": "link",
+        "name": "Add rent to the rising costs bedeviling small businesses"
+      },
+      {
+        "role": "link",
+        "name": "Add rent to the rising costs bedeviling small businesses"
+      },
+      {
+        "role": "link",
+        "name": "Gun violence in America: A long list of forgotten victims"
+      },
+      {
+        "role": "link",
+        "name": "Gun violence in America: A long list of forgotten victims"
+      },
+      {
+        "role": "link",
+        "name": "Christians strip down at a South Texas nudist community"
+      },
+      {
+        "role": "link",
+        "name": "Christians strip down at a South Texas nudist community"
+      },
+      {
+        "role": "link",
+        "name": "Many won't rely on virtual options after COVID: AP-NORC poll"
+      },
+      {
+        "role": "link",
+        "name": "Many won't rely on virtual options after COVID: AP-NORC poll"
+      },
+      {
+        "role": "link",
+        "name": "4 ways parents can help kids have a great summer at camp"
+      },
+      {
+        "role": "link",
+        "name": "4 ways parents can help kids have a great summer at camp"
+      },
+      {
+        "role": "heading",
+        "name": "National News",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "Ogwumike, WNBA continue push for Brittney Griner's release"
+      },
+      {
+        "role": "link",
+        "name": "Ogwumike, WNBA continue push for Brittney Griner's release"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": "17 min ago"
+      },
+      {
+        "role": "text",
+        "name": "Nneka Ogwumike says Brittney Griner is an American hero. Speaking ahead of the WNBA\u2019s All-Star festivities in Chicago, Ogwumike focused more on Griner\u2019s humanity than her playing ability as the league continued to push for Griner\u2019s release from her detention in Russia. Ogwumike, the president of the WNBA players\u2019 association, talked at a press conference calling for mercy for Griner a day after the eight-time All-Star pleaded guilty to drug possession charges that could see her sentenced to up to 10 years in prison. Ogwumike says Griner is her father's favorite player."
+      },
+      {
+        "role": "link",
+        "name": "Brewers honor 8-year-old injured in Highland Park shooting"
+      },
+      {
+        "role": "link",
+        "name": "Brewers honor 8-year-old injured in Highland Park shooting"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": "30 min ago"
+      },
+      {
+        "role": "text",
+        "name": "The Milwaukee Brewers placed a ceremonial jersey in their dugout Friday to honor an 8-year-old fan of the team who was wounded during the July Fourth mass shooting in a Chicago suburb. Cooper Roberts took bullets in the chest during the shooting at a parade in Highland Park, Illinois, that left seven dead. His family said his spine was severed and he is paralyzed from the waist down. The Brewers hung a jersey in their dugout with the name Roberts and Christian Yelich\u2019s jersey number, 22. Cooper\u2019s family said Friday that he had regained consciousness for the first time since the shooting."
+      },
+      {
+        "role": "link",
+        "name": "Trump WH counsel Cipollone gives 1/6 testimony, new info"
+      },
+      {
+        "role": "link",
+        "name": "Trump WH counsel Cipollone gives 1/6 testimony, new info"
+      },
+      {
+        "role": "text",
+        "name": "1 hr ago"
+      },
+      {
+        "role": "text",
+        "name": "Former Trump White House counsel Pat Cipollone has had an eight-hour private interview with the Jan. 6 committee. Cipollone has been a sought-after witness over his role trying to prevent then-President Donald Trump from challenging the 2020 presidential election and joining the violent mob at the Capitol. One committee member says he did not contradict earlier witness testimony. Former White House aide Cassidy Hutchinson had testified that Cipollone warned the defeated president would be charged with \u201cevery crime imaginable\u201d if he went to the Capitol on Jan. 6 trying to stop the certification of Joe Biden\u2019s election."
+      },
+      {
+        "role": "link",
+        "name": "Musk abandons deal to buy Twitter; company says it will sue"
+      },
+      {
+        "role": "link",
+        "name": "Musk abandons deal to buy Twitter; company says it will sue"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": "1 hr ago"
+      },
+      {
+        "role": "text",
+        "name": "Elon Musk announced Friday that he will abandon his tumultuous $44 billion offer to buy Twitter after the company failed to provide enough information about the number of fake accounts. Twitter immediately fired back, saying it would sue the Tesla CEO to uphold the deal. The likely unraveling of the acquisition was just the latest twist in a saga between the world\u2019s richest man and one of the most influential social media platforms, and it may portend a titanic legal battle ahead. The chair of Twitter\u2019s board, Bret Taylor, tweeted that the board is committed to closing the transaction."
+      },
+      {
+        "role": "link",
+        "name": "July 4 victims remembered for dedication to faith, family"
+      },
+      {
+        "role": "link",
+        "name": "July 4 victims remembered for dedication to faith, family"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": "1 hr ago"
+      },
+      {
+        "role": "text",
+        "name": "Mourners are remembering three of the seven people killed by the gunman who opened fire on a July Fourth parade near Chicago. Services for 63-year-old Jacquelyn Sundheim and 88-year-old Stephen Straus were held Friday. Friends and family also gathered later Friday in memory 78-year-old Nicolas Toledo-Zaragoza. The suspect in the killings has been charged with seven counts of first-degree murder. Prosecutors expect to bring more charges representing the more than 30 people who were wounded in the assault in the affluent suburb of Highland Park."
+      },
+      {
+        "role": "link",
+        "name": "Yosemite wildfire is latest threat to giant sequoia trees"
+      },
+      {
+        "role": "link",
+        "name": "Yosemite wildfire is latest threat to giant sequoia trees"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": "2 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "Officials say part of Yosemite National Park has been closed as a wildfire rages near a grove of California\u2019s famed giant sequoia trees. The fire tripled in size by Friday and forced park officials to close Mariposa Grove. It is the largest sequoia grove in Yosemite and features more than 500 mature giant sequoias. The rest of the park is open. Firefighters are trying to contain the blaze from the ground and the air. Although sequoias are threatened by the flames, there have been no reports of severe damage to the grove\u2019s giant named sequoias. Some park visitors had to be evacuated Thursday."
+      },
+      {
+        "role": "link",
+        "name": "In era of transparency, Arizona law limits filming police"
+      },
+      {
+        "role": "link",
+        "name": "In era of transparency, Arizona law limits filming police"
+      },
+      {
+        "role": "text",
+        "name": "2 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "Arizona\u2019s governor has signed a law that restricts how the public can video police at a time when there\u2019s growing pressure around the country for greater law enforcement transparency. Gov. Doug Ducey approved a measure that makes it illegal to knowingly film police officers 8 feet or closer without an officer\u2019s permission. Civil rights and media groups say the law is unconstitutional and simply cannot be applied in real-world scenarios. The bill's advocates say the law allows for filming while keeping everyone safe. The move comes nearly a year after the U.S. Department of Justice launched a probe into the Phoenix police force. Similar investigations are ongoing in Minneapolis and Louisville."
+      },
+      {
+        "role": "text",
+        "name": "First Amendment:"
+      },
+      {
+        "role": "text",
+        "name": "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances."
+      },
+      {
+        "role": "heading",
+        "name": "Contact Information",
+        "level": 4
+      },
+      {
+        "role": "text",
+        "name": "ottumwacourier.com"
+      },
+      {
+        "role": "text",
+        "name": "213 E. Second St."
+      },
+      {
+        "role": "text",
+        "name": "Ottumwa, IA 52501"
+      },
+      {
+        "role": "text",
+        "name": "Phone:"
+      },
+      {
+        "role": "text",
+        "name": "(641) 684-4611"
+      },
+      {
+        "role": "text",
+        "name": "Email:"
+      },
+      {
+        "role": "link",
+        "name": "news@ottumwacourier.com"
+      },
+      {
+        "role": "heading",
+        "name": "Services",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "About Us"
+      },
+      {
+        "role": "link",
+        "name": "Contact Us"
+      },
+      {
+        "role": "link",
+        "name": "Advertise with Us"
+      },
+      {
+        "role": "link",
+        "name": "Personnel"
+      },
+      {
+        "role": "link",
+        "name": "Contests"
+      },
+      {
+        "role": "link",
+        "name": "Rules"
+      },
+      {
+        "role": "link",
+        "name": "Subscriber Services"
+      },
+      {
+        "role": "link",
+        "name": "Submission Forms"
+      },
+      {
+        "role": "link",
+        "name": "California Privacy Policy"
+      },
+      {
+        "role": "link",
+        "name": "California Collection Notice"
+      },
+      {
+        "role": "link",
+        "name": "Do Not Sell My Info"
+      },
+      {
+        "role": "heading",
+        "name": "Sections",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Home"
+      },
+      {
+        "role": "link",
+        "name": "News"
+      },
+      {
+        "role": "link",
+        "name": "Comics"
+      },
+      {
+        "role": "link",
+        "name": "Puzzles"
+      },
+      {
+        "role": "link",
+        "name": "Sports"
+      },
+      {
+        "role": "link",
+        "name": "Community"
+      },
+      {
+        "role": "link",
+        "name": "Centerville News & Sports"
+      },
+      {
+        "role": "link",
+        "name": "Opinion"
+      },
+      {
+        "role": "link",
+        "name": "Obituaries"
+      },
+      {
+        "role": "link",
+        "name": "Photos"
+      },
+      {
+        "role": "link",
+        "name": "Video Gallery"
+      },
+      {
+        "role": "link",
+        "name": "Weather"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "text",
+        "name": "\u00a9 Copyright 2022"
+      },
+      {
+        "role": "link",
+        "name": "Ottumwa Courier"
+      },
+      {
+        "role": "text",
+        "name": ", 213 E. Second St. Ottumwa, IA"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|"
+      },
+      {
+        "role": "link",
+        "name": "Terms of Use"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0|"
+      },
+      {
+        "role": "link",
+        "name": "Privacy Policy"
+      },
+      {
+        "role": "text",
+        "name": "Powered by"
+      },
+      {
+        "role": "link",
+        "name": "BLOX Content Management System",
+        "description": "BLOX Content Management System"
+      },
+      {
+        "role": "text",
+        "name": "from"
+      },
+      {
+        "role": "link",
+        "name": "TownNews.com",
+        "description": "TownNews.com BLOX Newspaper Content Management"
+      },
+      {
+        "role": "text",
+        "name": "."
+      }
+    ]
+  },
+  "server": "ia802501.us.archive.org",
+  "uniq": 1341641585,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

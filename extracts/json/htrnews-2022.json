@@ -1,5 +1,5 @@
 {
-  "created": 1657309177,
+  "created": 1657368698,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/24/items/htrnews-2022",
@@ -6380,31 +6380,73 @@
       "sha1": "e2854faa5cd0f29a5c3975afa34b7d99a5f27866"
     },
     {
+      "name": "htrnews-2022-07-08T21:05:45.001540-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657332351",
+      "size": "22565",
+      "md5": "fab165650b2f5647247956a45cbcf36a",
+      "crc32": "9ce5d106",
+      "sha1": "da7e83987d64d8dd6200e2750c596c304a6079f9",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-07-08T21:05:45.001540-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657332352",
+      "size": "33797",
+      "md5": "e03fef6fdcfb2ef47e3258a82240b34d",
+      "crc32": "55e9fa84",
+      "sha1": "aea462fed32f8f62276bdf2b1ecd15408a8dcbc9",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-07-08T21:05:45.001540-05:00.jpg",
+      "source": "original",
+      "mtime": "1657332349",
+      "size": "241361",
+      "md5": "89524b8f8e7e2823e06d91275ffdab68",
+      "crc32": "1d09084b",
+      "sha1": "92ffbc6a6f9332c646d0de61fa1bd8b2944553f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-07-08T21:05:45.001540-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-07-08T21:05:45.001540-05:00.jpg",
+      "mtime": "1657332487",
+      "size": "9291",
+      "md5": "f6e2a2c76fa8eafa5648c27739aa0e1c",
+      "crc32": "f85faaa5",
+      "sha1": "550928773f7cee5c9a013522d45c32afdbee0c17"
+    },
+    {
       "name": "htrnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "50ff3cb2687c95d6a31f972d6bdc81012dd81c2f",
-      "mtime": "1657299234",
-      "size": "128537",
-      "md5": "03d6bbdd754873e1dea3207da5b75d65",
-      "crc32": "b1ba4c44",
-      "sha1": "e652a754522865a5dc46a8409b615f373e3be56b",
+      "btih": "c6df48a99807c38cfcbdac50e3bb57a9ddfb7da0",
+      "mtime": "1657332676",
+      "size": "129382",
+      "md5": "7bc35813e00ad20aa048d1e7167ad5c9",
+      "crc32": "6b42b291",
+      "sha1": "b1a7be29c94a59d4e7500fd7c6df8025a602c9ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "htrnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5682db8103aff3bd87a21a3a3453dc69",
+      "md5": "d9462c50b1a0ae4a1a918940334ad015",
       "summation": "md5"
     },
     {
       "name": "htrnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657289498",
-      "size": "712704",
-      "md5": "678c0165a3cb67c71a88f4017b3d71ad",
-      "crc32": "df33f964",
-      "sha1": "1db2b2d8d8f231e88ddf61ee181ca5748e463031",
+      "mtime": "1657332357",
+      "size": "716800",
+      "md5": "7f1d5528ad5867b665159b1b50aee0f6",
+      "crc32": "43970113",
+      "sha1": "49e152526119bb5c75548084d3f221a174507394",
       "format": "Metadata"
     },
     {
@@ -6418,9 +6460,631 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 611,
-  "item_last_updated": 1657299234,
-  "item_size": 51443513,
+  "files_count": 615,
+  "htrnews-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022MIDSUMMER&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022MIDSUMMER&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Packers",
+      "url": "/packers/"
+    },
+    {
+      "text": "Ideas Lab",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.htrnews.com/obituaries/"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.htrnews.com/user/enewspaper"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.htrnews.com/public-notices"
+    },
+    {
+      "text": "",
+      "url": "/search/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022MIDSUMMER&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://login.htrnews.com/PMAC-GUP/authenticate/?success-url=https%3A%2F%2Fwww.htrnews.com%2F&cancel-url=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": " Manitowoc's Fourth of July fireworks are Saturday. What to know if you go.",
+      "url": "/story/entertainment/2022/07/06/manitowocs-4th-july-2022-fireworks-saturday-july-9/7826521001/"
+    },
+    {
+      "text": "A Manitowoc bridge has closed as work to replace it begins. Here's what to know about the project.",
+      "url": "/story/news/2022/07/05/manitowoc-bridge-state-42-near-us-151-closes-full-replacement/7780436001/"
+    },
+    {
+      "text": "Manitowoc Minute's Charlie Berens gets help from this Lakeland grad to keep 'er movin'",
+      "url": "/story/life/2022/07/08/charlie-berens-manitowoc-minute-merch-store-manager-from-sheboygan/7829389001/"
+    },
+    {
+      "text": "Manitowoc, find out who bought and sold property in the city",
+      "url": "/story/money/2022/07/08/manitowoc-homes-sold-and-real-estate-transfers-july-8-2022/7816665001/"
+    },
+    {
+      "text": " Here's where testing has located 'forever chemicals' in\u2026",
+      "url": "/story/news/local/wisconsin/2022/07/07/where-testing-has-located-pfas-fish-caught-wisconsin-waters-forever-chemicals/7690684001/"
+    },
+    {
+      "text": " Agency chief leaving Evers administration amid worry\u2026",
+      "url": "/story/news/politics/2022/07/08/dawn-crim-leaving-gov-tony-evers-administration-amid-licensing-delays/10014768002/"
+    },
+    {
+      "text": " Where is Up North? If you are in Wisconsin, you're\u2026",
+      "url": "/story/life/be-wisconsin/2022/07/08/wisconsin-up-north-isnt-really-place-its-state-mind/7585881001/"
+    },
+    {
+      "text": " Former Northwoods priest convicted of abusing young boys\u2026",
+      "url": "/story/news/local/wisconsin/2022/07/08/thomas-ericksen-ex-priest-wisconsin-convicted-abusing-boys-up-parole/10012871002/"
+    },
+    {
+      "text": " Survivors face ex-priest charged with molesting them",
+      "url": "/story/news/2018/12/19/church-abuse-survivors-face-ex-priest-charged-molesting/2265861002/"
+    },
+    {
+      "text": " Here's where testing has located 'forever chemicals' in Wisconsin-caught fish\u00a0",
+      "url": "/story/news/local/wisconsin/2022/07/07/where-testing-has-located-pfas-fish-caught-wisconsin-waters-forever-chemicals/7690684001/"
+    },
+    {
+      "text": " Packers Road Trip rolls for second year to visit fans throughout Wisconsin\u00a0",
+      "url": "/story/news/2022/07/08/packers-road-trip-returns-second-year-visit-fans-throughout-wisconsin-from-july-13-17/10014607002/"
+    },
+    {
+      "text": " Agency chief leaving Evers administration amid worry over licensing delays\u00a0",
+      "url": "/story/news/politics/2022/07/08/dawn-crim-leaving-gov-tony-evers-administration-amid-licensing-delays/10014768002/"
+    },
+    {
+      "text": "More in News",
+      "url": "/news/"
+    },
+    {
+      "text": " Find out who made the Wisconsin Fastpitch Softball Coaches Association all-state team\u00a0",
+      "url": "/story/sports/high-school/softball/2022/07/06/kaukauna-stevens-point-players-lead-all-state-softball-team-picks/7753417001/"
+    },
+    {
+      "text": " Wisconsin Baseball Coaches Association announces the 2022 all-state team\u00a0",
+      "url": "/story/sports/high-school/baseball/2022/07/05/campbellsport-duo-hortonvilles-burns-lead-all-state-baseball-team/7752287001/"
+    },
+    {
+      "text": " Wisconsin Soccer Coaches Association announces all-state girls teams\u00a0",
+      "url": "/story/sports/high-school/soccer/2022/06/30/kimberly-emily-mccarthy-dc-everest-jenna-baumann-all-state-2022-wisconsin-soccer-coaches-association/7751556001/"
+    },
+    {
+      "text": "More in Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": " Manitowoc, find out who bought and sold property in the city\u00a0",
+      "url": "/story/money/2022/07/08/manitowoc-homes-sold-and-real-estate-transfers-july-8-2022/7816665001/"
+    },
+    {
+      "text": " Sand Valley golf resort in Central Wisconsin boosts a rural economy\u00a0",
+      "url": "/in-depth/money/2022/07/05/sand-valley-golf-resort-has-boosted-economy-rome-central-wisconsin/7468924001/"
+    },
+    {
+      "text": " Bank First gets regulatory approval for\u00a0merger with Denmark Bancshares set to take effect Aug. 12\u00a0",
+      "url": "/story/money/2022/06/30/bank-first-gets-regulatory-approval-merger-denmark-bancshares/7783204001/"
+    },
+    {
+      "text": "More in Business",
+      "url": "/business/"
+    },
+    {
+      "text": " Manitowoc's Fourth of July fireworks are Saturday. What to know if you go.\u00a0",
+      "url": "/story/entertainment/2022/07/06/manitowocs-4th-july-2022-fireworks-saturday-july-9/7826521001/"
+    },
+    {
+      "text": " Sheboygan's Brat Days will no longer be a weekend event after this year. Here's why it's changing.\u00a0",
+      "url": "/story/entertainment/2022/07/06/sheboygan-brat-days-sponsored-johnsonville-ends-weekend-event/7662092001/"
+    },
+    {
+      "text": " Firefly Night, Gumby's weekend and plenty of live music: 5 things to do in Manitowoc this week\u00a0",
+      "url": "/story/entertainment/2022/07/06/manitowoc-live-music-set-petskull-fat-seagull-sabbatical-wharf/7790960001/"
+    },
+    {
+      "text": "More in Go 920!",
+      "url": "/go-920/"
+    },
+    {
+      "text": " Where is Up North? If you are in Wisconsin, you're already there.\u00a0",
+      "url": "/story/life/be-wisconsin/2022/07/08/wisconsin-up-north-isnt-really-place-its-state-mind/7585881001/"
+    },
+    {
+      "text": " This Sheboygan native and Lakeland grad helps Manitowoc Minute's Charlie Berens keep 'er movin'\u00a0",
+      "url": "/story/life/2022/07/08/charlie-berens-manitowoc-minute-merch-store-manager-from-sheboygan/7829389001/"
+    },
+    {
+      "text": " Orbeez guns, used in TikTok challenge, pose serious risk to eye health, BayCare doctor says\u00a0",
+      "url": "/story/life/health-fitness/2022/07/06/orbeez-guns-tiktok-challenge-blindness-baycare-manitowoc-doctor-says/7778508001/"
+    },
+    {
+      "text": "More in Life",
+      "url": "/life/"
+    },
+    {
+      "text": "Opinion: The U.S. Supreme Court unleashed chaos with its abortion decision\u00a0Kristin Brey\u00a0",
+      "url": "/videos/opinion/2022/07/07/opinion-u-s-supreme-court-unleashed-chaos-its-abortion-decision/10007029002/"
+    },
+    {
+      "text": " Focusing coverage on voters' questions build trust, helps democracy\u00a0",
+      "url": "/story/news/politics/2022/07/07/journalists-can-build-trust-readers-answering-their-questions/7661093001/"
+    },
+    {
+      "text": " Opinion: 'The sound a mother makes after her child dies' is what haunts ER doctors\u00a0Megan L. Schultz\u00a0",
+      "url": "/story/opinion/2022/07/07/politicians-have-betrayed-kids-amid-milwaukee-gun-violence-epidemic/7761811001/"
+    },
+    {
+      "text": "More in Ideas Lab",
+      "url": "/opinion/"
+    },
+    {
+      "text": "",
+      "url": "/picture-gallery/life/2022/07/05/photos-manitowoc-library-exhibit-american-indian-boarding-schools/7771649001/"
+    },
+    {
+      "text": "Get Summer Waves!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/AIA-and-Beachwaver-Summer/?itm_campaign=AIA%20and%20Beachwaver%20Summer%20Sweeps&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Enter Now!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/Bourbon-and-Beyond-VIP-Experience/?itm_campaign=Bourbon%20and%20Beyond%20VIP%20NON%20Louisville&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Winners Announced!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://htrnews.secondstreetapp.com/Best-of-the-Lakeshore-2022-Winners/?itm_campaign=Best%20of%20the%20Lakeshore%202022&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "More in Contests",
+      "url": "/contests/?itm_campaign=tangent.htrnews.com&itm_medium=more-in-contest&itm_source=homepage-widget"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "Geas.best",
+      "url": "https://geasbest.com/bathroom/?utm_source=taboola&utm_medium={BathroomReda}&utm_campaign=1010948#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDapE0ouNvMzvyhkv2XAQ"
+    },
+    {
+      "text": "Top 18 Reasons Why Cats Follow Us to The BathroomGeas.best|",
+      "url": "https://geasbest.com/bathroom/?utm_source=taboola&utm_medium={BathroomReda}&utm_campaign=1010948#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDapE0ouNvMzvyhkv2XAQ"
+    },
+    {
+      "text": "",
+      "url": "https://geasbest.com/bathroom/?utm_source=taboola&utm_medium={BathroomReda}&utm_campaign=1010948#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDapE0ouNvMzvyhkv2XAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Informed Use",
+      "url": "https://www.informeduse.com/7-ways-to-treat-hair-loss/?utm_source=gannettcompany-heraldtimesreporter&utm_medium=taboola&utm_campaign=312_inf_hairloss&utm_content=2937134495#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDDy0gojvyV3u7oorKGAQ"
+    },
+    {
+      "text": "Treating Hair Loss Might Be Cheaper Than You ThinkInformed Use|",
+      "url": "https://www.informeduse.com/7-ways-to-treat-hair-loss/?utm_source=gannettcompany-heraldtimesreporter&utm_medium=taboola&utm_campaign=312_inf_hairloss&utm_content=2937134495#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDDy0gojvyV3u7oorKGAQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.informeduse.com/7-ways-to-treat-hair-loss/?utm_source=gannettcompany-heraldtimesreporter&utm_medium=taboola&utm_campaign=312_inf_hairloss&utm_content=2937134495#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDDy0gojvyV3u7oorKGAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "BrainSharper",
+      "url": "https://brain-sharper.com/business/woman-transforms-bus-tb/?utm_campaign=Lady Bus MBS SoHy0212 DUP0104 En - Desktop USA&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_term=Woman+Buys+Greyhound+Bus+-+And+Converts+It+To+Her+Beautiful+Home&utm_content=http%3A%2F%2Fdjdy6whc2vqt5.cloudfront.net%2F1ff4fe7f-7a6b-4277-9624-f42024989900.jpg&c=05R80F0wujsMk520d3jqgB77pPcTIZc9IEW0HzKGaKg=&psl=g_bfac7a&network_code=CM&tblci=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDJyEco2pjUwaPkqqnhAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDJyEco2pjUwaPkqqnhAQ"
+    },
+    {
+      "text": "Woman Buys Greyhound Bus - And Converts It To Her Beautiful HomeBrainSharper|",
+      "url": "https://brain-sharper.com/business/woman-transforms-bus-tb/?utm_campaign=Lady Bus MBS SoHy0212 DUP0104 En - Desktop USA&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_term=Woman+Buys+Greyhound+Bus+-+And+Converts+It+To+Her+Beautiful+Home&utm_content=http%3A%2F%2Fdjdy6whc2vqt5.cloudfront.net%2F1ff4fe7f-7a6b-4277-9624-f42024989900.jpg&c=05R80F0wujsMk520d3jqgB77pPcTIZc9IEW0HzKGaKg=&psl=g_bfac7a&network_code=CM&tblci=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDJyEco2pjUwaPkqqnhAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDJyEco2pjUwaPkqqnhAQ"
+    },
+    {
+      "text": "",
+      "url": "https://brain-sharper.com/business/woman-transforms-bus-tb/?utm_campaign=Lady Bus MBS SoHy0212 DUP0104 En - Desktop USA&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_term=Woman+Buys+Greyhound+Bus+-+And+Converts+It+To+Her+Beautiful+Home&utm_content=http%3A%2F%2Fdjdy6whc2vqt5.cloudfront.net%2F1ff4fe7f-7a6b-4277-9624-f42024989900.jpg&c=05R80F0wujsMk520d3jqgB77pPcTIZc9IEW0HzKGaKg=&psl=g_bfac7a&network_code=CM&tblci=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDJyEco2pjUwaPkqqnhAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDJyEco2pjUwaPkqqnhAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "EverydayChimp",
+      "url": "https://foodeliciouz.com/richest-countries-in-europe/?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=2421599&utm_content=1010948&utm_term=fdz_eng2_richeu_dsk_020719#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiD2rEYos4vclcOFkbOVAQ"
+    },
+    {
+      "text": "Living in United States? According to The International Monetary Fund These Are the Richest and Poorest Countries in the Europe 2019EverydayChimp|",
+      "url": "https://foodeliciouz.com/richest-countries-in-europe/?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=2421599&utm_content=1010948&utm_term=fdz_eng2_richeu_dsk_020719#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiD2rEYos4vclcOFkbOVAQ"
+    },
+    {
+      "text": "",
+      "url": "https://foodeliciouz.com/richest-countries-in-europe/?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=2421599&utm_content=1010948&utm_term=fdz_eng2_richeu_dsk_020719#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiD2rEYos4vclcOFkbOVAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Healthy George",
+      "url": "https://healthygeorge.com/relaxation/celebrity-kids-eminem?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=18350826&utm_term=Eminem%27s+Daughter+Is+Probably+The+Prettiest+Woman+To+Ever+Exist&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Facccc45700b2ad3bf8afb27a6f1599c6.jpg&ts=2022-07-09+01%3A58%3A13&tbv=Cch5qaz7gHSoGgHHhJz2WMmFTvGfwxgJBx5XNSgwET4=&pcl=1"
+    },
+    {
+      "text": "Eminem's Daughter Is Probably The Prettiest Woman To Ever ExistHealthy George|",
+      "url": "https://healthygeorge.com/relaxation/celebrity-kids-eminem?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=18350826&utm_term=Eminem%27s+Daughter+Is+Probably+The+Prettiest+Woman+To+Ever+Exist&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Facccc45700b2ad3bf8afb27a6f1599c6.jpg&ts=2022-07-09+01%3A58%3A13&tbv=Cch5qaz7gHSoGgHHhJz2WMmFTvGfwxgJBx5XNSgwET4=&pcl=1"
+    },
+    {
+      "text": "",
+      "url": "https://healthygeorge.com/relaxation/celebrity-kids-eminem?utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_campaign=18350826&utm_term=Eminem%27s+Daughter+Is+Probably+The+Prettiest+Woman+To+Ever+Exist&utm_content=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Facccc45700b2ad3bf8afb27a6f1599c6.jpg&ts=2022-07-09+01%3A58%3A13&tbv=Cch5qaz7gHSoGgHHhJz2WMmFTvGfwxgJBx5XNSgwET4=&pcl=1"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Noteabley",
+      "url": "https://noteabley.com/culture/celebrity-weight-loss-transformations-l5/?prch=14d6a5e81d1fe197bac7d66569182e5c&utm_campaign=Celeb Weight Loss SD Linore1908 SB Exc-FF-IE DTA DUP2204 En - Desktop USA&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_term=Kirstie+Alley+Is+So+Skinny+Now+And+Looks+Gorgeous&utm_content=http%3A%2F%2Fdjdy6whc2vqt5.cloudfront.net%2F872a9cf1-b224-4fb8-967e-41bf5169022d.png&c=OrJK8mmflgXtEk00j0NKcA-rQAVb5wrL896xu1oRsC0=&psl=g_f2435a&network_code=CM&tblci=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDUhU4o7Y6W3Oa43rfPAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDUhU4o7Y6W3Oa43rfPAQ"
+    },
+    {
+      "text": "Kirstie Alley Is So Skinny Now And Looks GorgeousNoteabley|",
+      "url": "https://noteabley.com/culture/celebrity-weight-loss-transformations-l5/?prch=14d6a5e81d1fe197bac7d66569182e5c&utm_campaign=Celeb Weight Loss SD Linore1908 SB Exc-FF-IE DTA DUP2204 En - Desktop USA&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_term=Kirstie+Alley+Is+So+Skinny+Now+And+Looks+Gorgeous&utm_content=http%3A%2F%2Fdjdy6whc2vqt5.cloudfront.net%2F872a9cf1-b224-4fb8-967e-41bf5169022d.png&c=OrJK8mmflgXtEk00j0NKcA-rQAVb5wrL896xu1oRsC0=&psl=g_f2435a&network_code=CM&tblci=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDUhU4o7Y6W3Oa43rfPAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDUhU4o7Y6W3Oa43rfPAQ"
+    },
+    {
+      "text": "",
+      "url": "https://noteabley.com/culture/celebrity-weight-loss-transformations-l5/?prch=14d6a5e81d1fe197bac7d66569182e5c&utm_campaign=Celeb Weight Loss SD Linore1908 SB Exc-FF-IE DTA DUP2204 En - Desktop USA&utm_source=taboola&utm_medium=gannettcompany-heraldtimesreporter&utm_term=Kirstie+Alley+Is+So+Skinny+Now+And+Looks+Gorgeous&utm_content=http%3A%2F%2Fdjdy6whc2vqt5.cloudfront.net%2F872a9cf1-b224-4fb8-967e-41bf5169022d.png&c=OrJK8mmflgXtEk00j0NKcA-rQAVb5wrL896xu1oRsC0=&psl=g_f2435a&network_code=CM&tblci=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDUhU4o7Y6W3Oa43rfPAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDUhU4o7Y6W3Oa43rfPAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "ReadBakery",
+      "url": "https://www.readbakery.com/home-garden/airplane-home/?utm_campaign=5fbsh78u&utm_source=Taboola&utm_medium=native&utm_term=gannettcompany-heraldtimesreporter"
+    },
+    {
+      "text": "See How This Man Converted An Abandoned Boeing 727 Airplane Into A HouseReadBakery|",
+      "url": "https://www.readbakery.com/home-garden/airplane-home/?utm_campaign=5fbsh78u&utm_source=Taboola&utm_medium=native&utm_term=gannettcompany-heraldtimesreporter"
+    },
+    {
+      "text": "",
+      "url": "https://www.readbakery.com/home-garden/airplane-home/?utm_campaign=5fbsh78u&utm_source=Taboola&utm_medium=native&utm_term=gannettcompany-heraldtimesreporter"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Indeedfinance",
+      "url": "http://indeedfinance.com/index.php/en/2021/10/21/being-a-homeowner-is-a-dream-come-true-unless-you-have-these-neighbors-2/?utm_source=tab-13243810&utm_medium=1010948&utm_term=taboola&utm_campaign=SN_INDF_CrazyNeighbours_INF_EN_AL3382_JDW_EN_US_DMT_Smartbid_13243810"
+    },
+    {
+      "text": "Authorities Reveal Their Worst Encounters Of Disputes Amongst NeighboursIndeedfinance|",
+      "url": "http://indeedfinance.com/index.php/en/2021/10/21/being-a-homeowner-is-a-dream-come-true-unless-you-have-these-neighbors-2/?utm_source=tab-13243810&utm_medium=1010948&utm_term=taboola&utm_campaign=SN_INDF_CrazyNeighbours_INF_EN_AL3382_JDW_EN_US_DMT_Smartbid_13243810"
+    },
+    {
+      "text": "",
+      "url": "http://indeedfinance.com/index.php/en/2021/10/21/being-a-homeowner-is-a-dream-come-true-unless-you-have-these-neighbors-2/?utm_source=tab-13243810&utm_medium=1010948&utm_term=taboola&utm_campaign=SN_INDF_CrazyNeighbours_INF_EN_AL3382_JDW_EN_US_DMT_Smartbid_13243810"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "OnlineCollegeLogic",
+      "url": "https://onlinecollegelogic.com/why-you-should-put-a-rag-with-vinegar-in-your-toilet/?utm_source=taboola_16510126&utm_term=gannettcompany-heraldtimesreporter_1010948&utm_content=3172621462&utm_medium=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiCB_lIogMHN0Ie18v3ZAQ&utm_campaign=Vinegar-WW-DMT-OCL-MM-OCL&tblci=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiCB_lIogMHN0Ie18v3ZAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiCB_lIogMHN0Ie18v3ZAQ"
+    },
+    {
+      "text": "Why you should put a cloth with vinegar in your toilet bowlOnlineCollegeLogic|",
+      "url": "https://onlinecollegelogic.com/why-you-should-put-a-rag-with-vinegar-in-your-toilet/?utm_source=taboola_16510126&utm_term=gannettcompany-heraldtimesreporter_1010948&utm_content=3172621462&utm_medium=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiCB_lIogMHN0Ie18v3ZAQ&utm_campaign=Vinegar-WW-DMT-OCL-MM-OCL&tblci=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiCB_lIogMHN0Ie18v3ZAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiCB_lIogMHN0Ie18v3ZAQ"
+    },
+    {
+      "text": "",
+      "url": "https://onlinecollegelogic.com/why-you-should-put-a-rag-with-vinegar-in-your-toilet/?utm_source=taboola_16510126&utm_term=gannettcompany-heraldtimesreporter_1010948&utm_content=3172621462&utm_medium=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiCB_lIogMHN0Ie18v3ZAQ&utm_campaign=Vinegar-WW-DMT-OCL-MM-OCL&tblci=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiCB_lIogMHN0Ie18v3ZAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiCB_lIogMHN0Ie18v3ZAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Articles Vally",
+      "url": "https://rfvtgb.articlesvally.com/worldwide/jets-ta?utm_medium=taboola&utm_source=taboola&utm_campaign=ta-av-jets-bc3-des-0w-rl-20042d&utm_term=gannettcompany-heraldtimesreporter&utm_bid=OGenO7bJD1qR2d1J0FF9YJ3k3MPY3ovTBQq5o2XDcw4=&utmk=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDa10YokbTTk7Xs94yLAQ"
+    },
+    {
+      "text": "These U.S. Jets Were Out Patrolling When This HappenedArticles Vally|",
+      "url": "https://rfvtgb.articlesvally.com/worldwide/jets-ta?utm_medium=taboola&utm_source=taboola&utm_campaign=ta-av-jets-bc3-des-0w-rl-20042d&utm_term=gannettcompany-heraldtimesreporter&utm_bid=OGenO7bJD1qR2d1J0FF9YJ3k3MPY3ovTBQq5o2XDcw4=&utmk=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDa10YokbTTk7Xs94yLAQ"
+    },
+    {
+      "text": "",
+      "url": "https://rfvtgb.articlesvally.com/worldwide/jets-ta?utm_medium=taboola&utm_source=taboola&utm_campaign=ta-av-jets-bc3-des-0w-rl-20042d&utm_term=gannettcompany-heraldtimesreporter&utm_bid=OGenO7bJD1qR2d1J0FF9YJ3k3MPY3ovTBQq5o2XDcw4=&utmk=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDa10YokbTTk7Xs94yLAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Packers Road Trip rolls for second year to visit fans throughout Wisconsin",
+      "url": "/story/news/2022/07/08/packers-road-trip-returns-second-year-visit-fans-throughout-wisconsin-from-july-13-17/10014607002/"
+    },
+    {
+      "text": "American Indian boarding schools exhibit at Manitowoc library explores 'darker corner' of US history",
+      "url": "/story/life/2022/07/05/american-indian-boarding-schools-exhibit-manitowoc-public-library-summer-2022/7770967001/"
+    },
+    {
+      "text": "Culver's adds 2 new frozen custard flavors; here's what and when to expect them",
+      "url": "/story/entertainment/dining/2022/07/05/culvers-adds-new-frozen-custards-its-flavor-day-rotation/7815490001/"
+    },
+    {
+      "text": "Wisconsin Supreme Court rules absentee ballot dropboxes are illegal",
+      "url": "/story/news/politics/elections/2022/07/08/wisconsin-supreme-court-rules-absentee-ballot-dropboxes-illegal/7829047001/"
+    },
+    {
+      "text": "Get a six-month Herald Times Reporter subscription for $1",
+      "url": "/story/news/local/2018/02/06/herald-times-reporter-digital-subscription/1087736001/"
+    },
+    {
+      "text": "",
+      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Right-Rail"
+    },
+    {
+      "text": "Fungus Eliminator",
+      "url": "https://track.funguseliminator.com/5e5ec873-8d94-485b-95de-ba17c3d416ce?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Toenail+Fungus%3F+Try+This+At+Home%C2%A0%C2%A0&platform=Desktop&campaign_id=15204063&campaign_item_id=3089185170&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F7c7da3ece9b9957555a85cad21c36cbc.png&click_id=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDIolEoouSEusTFpZvuAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDIolEoouSEusTFpZvuAQ"
+    },
+    {
+      "text": "Toenail Fungus? Try This At Home\u00a0\u00a0Fungus Eliminator|",
+      "url": "https://track.funguseliminator.com/5e5ec873-8d94-485b-95de-ba17c3d416ce?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Toenail+Fungus%3F+Try+This+At+Home%C2%A0%C2%A0&platform=Desktop&campaign_id=15204063&campaign_item_id=3089185170&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F7c7da3ece9b9957555a85cad21c36cbc.png&click_id=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDIolEoouSEusTFpZvuAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDIolEoouSEusTFpZvuAQ"
+    },
+    {
+      "text": "",
+      "url": "https://track.funguseliminator.com/5e5ec873-8d94-485b-95de-ba17c3d416ce?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Toenail+Fungus%3F+Try+This+At+Home%C2%A0%C2%A0&platform=Desktop&campaign_id=15204063&campaign_item_id=3089185170&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F7c7da3ece9b9957555a85cad21c36cbc.png&click_id=GiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDIolEoouSEusTFpZvuAQ#tblciGiCES0_vdVsqjrszAO2UB5fW8aETzWRRlbMEguhXuwIrkiDIolEoouSEusTFpZvuAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Staff Directory",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.gannett.com/careers/"
+    },
+    {
+      "text": "Accessibility Support",
+      "url": "https://cm.htrnews.com/accessibility"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.htrnews.com/public-notices"
+    },
+    {
+      "text": "Our Ethical Principles",
+      "url": "https://cm.htrnews.com/ethical-conduct"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://cm.htrnews.com/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://cm.htrnews.com/privacy"
+    },
+    {
+      "text": "Your California Privacy Rights / Privacy Policy",
+      "url": "https://cm.htrnews.com/privacy-policy/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Support Local Businesses",
+      "url": "https://supportlocal.usatoday.com/?utm_source=bnm&utm_medium=editorial&utm_campaign=supportlocal&utm_content=quicklinks&utm_term=manitowoc"
+    },
+    {
+      "text": "Advertise Your Business",
+      "url": "https://localiq.com/markets/Wisconsin/"
+    },
+    {
+      "text": "Advertising Terms and Conditions",
+      "url": "https://cm.htrnews.com/advertising-terms-conditions"
+    },
+    {
+      "text": "Buy and Sell",
+      "url": "/placead/"
+    },
+    {
+      "text": "Licensing & Reprints",
+      "url": "https://imagn.com/licensing-reprints/"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://help.htrnews.com/"
+    },
+    {
+      "text": "Subscriber Guide",
+      "url": "https://cm.htrnews.com/subscriberguide"
+    },
+    {
+      "text": "My Account",
+      "url": "https://account.htrnews.com/"
+    },
+    {
+      "text": "Feedback",
+      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Footer"
+    },
+    {
+      "text": "Subscribe Today",
+      "url": "https://subscribe.htrnews.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://profile.htrnews.com/newsletters/manage"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.htrnews.com/subscriberguide/apps/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/HeraldTimesReporter"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/htrnews"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.htrnews.com/user/enewspaper"
+    },
+    {
+      "text": "Storytellers",
+      "url": "https://www.storytellersproject.com/"
+    },
+    {
+      "text": "Archives",
+      "url": "http://www.tkqlhce.com/click-8144810-11570746?url=http://archives.htrnews.com"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "http://static.htrnews.com/rss/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.htrnews.com/jobs/"
+    },
+    {
+      "text": "Cars",
+      "url": "/cars/"
+    },
+    {
+      "text": "Homes",
+      "url": "http://www.htrnews.com/marketplace/real-estate/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://classifieds.htrnews.com"
+    },
+    {
+      "text": "Education",
+      "url": "https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Manitowoc+Herald+Times+Reporter"
+    },
+    {
+      "text": "Reviewed",
+      "url": "https://www.reviewed.com/"
+    },
+    {
+      "text": "10Best",
+      "url": "https://www.10best.com/"
+    },
+    {
+      "text": "USA TODAY Sports+",
+      "url": "https://www.usatodaysportsplus.com/"
+    },
+    {
+      "text": "Reach Local",
+      "url": "http://www.reachlocal.com/us/en"
+    }
+  ],
+  "item_last_updated": 1657332676,
+  "item_size": 51755468,
   "metadata": {
     "identifier": "htrnews-2022",
     "collection": [
@@ -6437,10 +7101,10 @@
     "publicdate": "2022-03-27 23:07:58",
     "addeddate": "2022-03-27 23:07:58"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 182188696,
+  "server": "ia802504.us.archive.org",
+  "uniq": 1513331720,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }
