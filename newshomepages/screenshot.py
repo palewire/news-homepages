@@ -11,7 +11,6 @@ from . import utils
 
 DEFAULT_WIDTH = "1300"
 DEFAULT_HEIGHT = "1600"
-DEFAULT_WAIT = "5000"
 
 
 @click.group()
@@ -23,10 +22,11 @@ def cli():
 @cli.command()
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
-def shoot(handle: str, output_dir: str):
+@click.option("-w", "--wait", "wait", default=5000)
+def shoot(handle: str, output_dir: str, wait: str):
     """Screenshot a single source."""
     site = utils.get_site(handle)
-    _screenshot(site, output_dir)
+    _screenshot(site, output_dir, wait=int(wait))
 
 
 @cli.command()
@@ -44,7 +44,7 @@ def get_handle_json(bundle):
     json.dump(handle_list, open("handles.json", "w"), indent=2)
 
 
-def _screenshot(site: typing.Dict, output_dir: str):
+def _screenshot(site: typing.Dict, output_dir: str, wait: int = 5000):
     """Shoot the provided site."""
     click.echo(f"Screenshotting {site['name']}")
 
@@ -82,8 +82,8 @@ def _screenshot(site: typing.Dict, output_dir: str):
         )
 
         # Wait for adguard filters to load
-        click.echo("Waiting 20 seconds for AdGuard filters to load")
-        time.sleep(20)
+        click.echo("Waiting 15 seconds for AdGuard filters to load")
+        time.sleep(15)
 
         # Create an empty tab
         page = context.new_page()
@@ -93,9 +93,9 @@ def _screenshot(site: typing.Dict, output_dir: str):
         page.goto(site["url"], timeout=60000)
 
         # Give it a beat
-        wait = int(site["wait"] or DEFAULT_WAIT) / 1000
-        click.echo(f"Waiting {wait} seconds")
-        time.sleep(wait)
+        wait_seconds = int(site["wait"] or wait) / 1000
+        click.echo(f"Waiting {wait_seconds} seconds")
+        time.sleep(wait_seconds)
 
         # Run common JavaScript for all sites
         target_list = [
@@ -125,6 +125,8 @@ def _screenshot(site: typing.Dict, output_dir: str):
             ".gdpr-glm-standard",  # GDPR blockers on some sites
             "#didomi-host",  # Common cookies popup
             ".fc-ab-root",  # Ad blocker popup
+            ".fancybox-overlay",  # Popup overlay
+            ".fancybox-overlay-fixed",
         ]
         target_str = ",".join(target_list)
         javascript = (
@@ -148,9 +150,8 @@ def _screenshot(site: typing.Dict, output_dir: str):
         page.evaluate(css)
 
         # Give it another beat
-        wait = int(site["wait"] or DEFAULT_WAIT) / 1000
-        click.echo(f"Waiting {wait} seconds")
-        time.sleep(wait)
+        click.echo(f"Waiting {wait_seconds} seconds")
+        time.sleep(wait_seconds)
 
         # Take the screenshot
         file_path = str(output_path / f"{site['handle'].lower()}.jpg")
