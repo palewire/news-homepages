@@ -17,7 +17,8 @@ orphan: true
 | Location       | Egg Harbor                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[doorcountyknock-2022](https://archive.org/details/doorcountyknock-2022)|

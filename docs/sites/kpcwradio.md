@@ -17,7 +17,8 @@ orphan: true
 | Location       | Park City                                                                 |
 | Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[kpcwradio-2022](https://archive.org/details/kpcwradio-2022)|

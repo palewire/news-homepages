@@ -17,7 +17,8 @@ orphan: true
 | Location       | Madison                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[badger_project_-2022](https://archive.org/details/badger_project_-2022)|

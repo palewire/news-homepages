@@ -17,7 +17,8 @@ orphan: true
 | Location       | Cleveland                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[belt_magazine-2022](https://archive.org/details/belt_magazine-2022)|

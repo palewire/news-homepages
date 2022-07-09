@@ -17,7 +17,8 @@ orphan: true
 | Location       | Springfield                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[sgfcitizen-2022](https://archive.org/details/sgfcitizen-2022)|

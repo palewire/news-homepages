@@ -5,9 +5,9 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# Jijji
+# Jiji
 
-![Jijji](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jijicom.jpg)
+![Jiji](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jijicom.jpg)
 
 | Attribute      | Value                                                                               |
 | :------------- | :---------------------------------------------------------------------------------- |
@@ -17,7 +17,8 @@ orphan: true
 | Location       | Tokyo                                                                 |
 | Timezone       | Asia/Tokyo                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[jijicom-2022](https://archive.org/details/jijicom-2022)|

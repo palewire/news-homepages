@@ -50,7 +50,7 @@ The most recent homepages from 8 news sites in this bundle.
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/jijicom.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jijicom.jpg"
-     alt="Jijji"
+     alt="Jiji"
      loading="lazy">
  </a>
  <p><a href="../sites/jijicom.html">Jijji</a></p>
@@ -102,7 +102,7 @@ The most recent homepages from 8 news sites in this bundle.
 |[Yomiuri shinbun](https://palewi.re/docs/news-homepages/sites/jn_japanese.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jn_japanese.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jn_japanese.xml)|
 |[Nikkei](https://palewi.re/docs/news-homepages/sites/nikkei.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nikkei.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nikkei.xml)|
 |[Sankei Shimbun](https://palewi.re/docs/news-homepages/sites/sankei_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sankei_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sankei_news.xml)|
-|[Jijji](https://palewi.re/docs/news-homepages/sites/jijicom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jijicom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jijicom.xml)|
+|[Jiji](https://palewi.re/docs/news-homepages/sites/jijicom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jijicom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jijicom.xml)|
 |[Seikyo Shimbun](https://palewi.re/docs/news-homepages/sites/seikyoofficial.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/seikyoofficial.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/seikyoofficial.xml)|
 |[Chunichi Shimbun](https://palewi.re/docs/news-homepages/sites/chunichi_denhen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chunichi_denhen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chunichi_denhen.xml)|
 |[NHK](https://palewi.re/docs/news-homepages/sites/nhk_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhk_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nhk_news.xml)|

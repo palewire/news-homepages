@@ -17,7 +17,8 @@ orphan: true
 | Location       | Osaka                                                                 |
 | Timezone       | Asia/Tokyo                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[asahi-2022](https://archive.org/details/asahi-2022)|
