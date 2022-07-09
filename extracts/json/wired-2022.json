@@ -1,5 +1,5 @@
 {
-  "created": 1657304181,
+  "created": 1657326118,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/33/items/wired-2022",
@@ -593,21 +593,32 @@
       "rotation": "0"
     },
     {
+      "name": "wired-2022-07-08T11:14:48.539976-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-07-08T11:14:48.539976-07:00.jpg",
+      "mtime": "1657309886",
+      "size": "10173",
+      "md5": "6dd37158587caa1d141c26fac2927823",
+      "crc32": "121acde7",
+      "sha1": "270f326c6fb05900913b71444cc50eec262fe8ca"
+    },
+    {
       "name": "wired-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1622509d4f59cc198580e94d1662093f5f0b23b9",
-      "mtime": "1657304174",
-      "size": "13030",
-      "md5": "548edaedc74f7cb0e567862520d06df8",
-      "crc32": "7aa90c2f",
-      "sha1": "4a38799e1f812934508f1f77ef6d23456feaaefe",
+      "btih": "b5eddcb6df9c16f266308bef56ed52d073dc6a4b",
+      "mtime": "1657309891",
+      "size": "13232",
+      "md5": "363f81e956c8f532f56a01a07d73dabb",
+      "crc32": "9164d036",
+      "sha1": "661219191423f530273481d8512d8d4dc4875d0f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wired-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b3ae019bcda77c1a9606a6041da96b1",
+      "md5": "81556fab191ec070dc6e47f46da829ec",
       "summation": "md5"
     },
     {
@@ -631,9 +642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 60,
-  "item_last_updated": 1657304174,
-  "item_size": 5113031,
+  "files_count": 61,
+  "item_last_updated": 1657309891,
+  "item_size": 5123406,
   "metadata": {
     "identifier": "wired-2022",
     "collection": [
@@ -650,21 +661,848 @@
     "publicdate": "2022-07-04 20:17:35",
     "addeddate": "2022-07-04 20:17:35"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "server": "ia801409.us.archive.org",
+  "uniq": 1672354755,
+  "wired-2022": [
     {
-      "task_id": 3325243076,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "text": "Skip to main content",
+      "url": "#main-content"
+    },
+    {
+      "text": "View saved stories",
+      "url": "/account/saved"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Backchannel",
+      "url": "/category/backchannel/"
+    },
+    {
+      "text": "Business",
+      "url": "/category/business/"
+    },
+    {
+      "text": "Culture",
+      "url": "/category/culture/"
+    },
+    {
+      "text": "Gear",
+      "url": "/category/gear/"
+    },
+    {
+      "text": "Ideas",
+      "url": "/category/ideas/"
+    },
+    {
+      "text": "Science",
+      "url": "/category/science/"
+    },
+    {
+      "text": "Security",
+      "url": "/category/security/"
+    },
+    {
+      "text": "View saved stories",
+      "url": "/account/saved"
+    },
+    {
+      "text": "Sign In",
+      "url": "/auth/initiate?redirectURL=%2F&source=VERSO_NAVIGATION"
+    },
+    {
+      "text": "SUBSCRIBE",
+      "url": "https://subscribe.wired.com/subscribe/wired/125739?source=JNY_WIR_GLOBAL_NAV_CTA_0_2022_SALE_FREE_PAY_TEST_ZZ_PANELA "
+    },
+    {
+      "text": "On Sale: Get WIRED FOR $5 \n        SUBSCRIBE",
+      "url": "https://subscribe.wired.com/subscribe/wired/125739?source=JNY_WIR_GLOBAL_NAV_ROLLOVER_0_2022_SALE_FREE_PAY_TEST_ZZ_PANELA "
+    },
+    {
+      "text": "SearchSearch",
+      "url": "/search/"
+    },
+    {
+      "text": "Backchannel",
+      "url": "/category/backchannel/"
+    },
+    {
+      "text": "Business",
+      "url": "/category/business/"
+    },
+    {
+      "text": "Culture",
+      "url": "/category/culture/"
+    },
+    {
+      "text": "Gear",
+      "url": "/category/gear/"
+    },
+    {
+      "text": "Ideas",
+      "url": "/category/ideas/"
+    },
+    {
+      "text": "Science",
+      "url": "/category/science/"
+    },
+    {
+      "text": "Security",
+      "url": "/category/security/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts/"
+    },
+    {
+      "text": "Video",
+      "url": "/video/"
+    },
+    {
+      "text": "Artificial Intelligence",
+      "url": "https://www.wired.com/category/artificial-intelligence/"
+    },
+    {
+      "text": "Climate",
+      "url": "https://www.wired.com/category/science/environment-climate-change/"
+    },
+    {
+      "text": "Games",
+      "url": "https://www.wired.com/tag/video-games/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.wired.com/newsletter"
+    },
+    {
+      "text": "Magazine",
+      "url": "https://www.wired.com/magazine"
+    },
+    {
+      "text": "Events",
+      "url": "https://events.wired.com/home"
+    },
+    {
+      "text": "Wired Insider",
+      "url": "/category/wiredinsider/"
+    },
+    {
+      "text": "Coupons",
+      "url": "https://www.wired.com/coupons"
+    },
+    {
+      "text": "Most Recent",
+      "url": "https://www.wired.com/most-recent/"
+    },
+    {
+      "text": "",
+      "url": "/story/cruises-robot-car-outages/"
+    },
+    {
+      "text": "Cruise's Robot Car Outages Are Jamming Up San Francisco",
+      "url": "/story/cruises-robot-car-outages/"
+    },
+    {
+      "text": "Aarian Marshall",
+      "url": "/author/aarian-marshall"
+    },
+    {
+      "text": "",
+      "url": "/story/could-old-poop-cure-future-diseases/"
+    },
+    {
+      "text": "Could Your Old Poop Cure You of Future Diseases?",
+      "url": "/story/could-old-poop-cure-future-diseases/"
+    },
+    {
+      "text": "Sabrina Weiss",
+      "url": "/author/sabrina-weiss"
+    },
+    {
+      "text": "",
+      "url": "/story/thor-love-and-thunder-watch-comics-like-you-read-them/"
+    },
+    {
+      "text": "It\u2019s Time for Fans to Watch Superheroes Like They Read Them",
+      "url": "/story/thor-love-and-thunder-watch-comics-like-you-read-them/"
+    },
+    {
+      "text": "Graeme McMillan",
+      "url": "/author/graeme-mcmillan"
+    },
+    {
+      "text": "",
+      "url": "/story/early-amazon-prime-day-deals-and-tips-2022-3"
+    },
+    {
+      "text": "21 Best Early Amazon Prime Day Deals",
+      "url": "/story/early-amazon-prime-day-deals-and-tips-2022-3"
+    },
+    {
+      "text": "Parker Hall",
+      "url": "author/parker-hall"
+    },
+    {
+      "text": "Gear Team",
+      "url": "author/wired-gear-team"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/geeks-guide-arvies-castro"
+    },
+    {
+      "text": "Arvies Imagines a World Ruled by Fetuses",
+      "url": "/2022/07/geeks-guide-arvies-castro"
+    },
+    {
+      "text": "Geek's Guide to the Galaxy",
+      "url": "author/geeks-guide-to-the-galaxy"
+    },
+    {
+      "text": "",
+      "url": "/story/quantum-proof-encryption-is-here-but-theres-a-catch"
+    },
+    {
+      "text": "Will These Algorithms Save You From Quantum Threats?",
+      "url": "/story/quantum-proof-encryption-is-here-but-theres-a-catch"
+    },
+    {
+      "text": "Amit Katwala",
+      "url": "author/amit-katwala"
+    },
+    {
+      "text": "",
+      "url": "/story/amazons-worker-injury-problem"
+    },
+    {
+      "text": "Amazon\u2019s \u2018Safe\u2019 New Robot Won\u2019t Fix its Worker Injury Problem",
+      "url": "/story/amazons-worker-injury-problem"
+    },
+    {
+      "text": "Khari Johnson",
+      "url": "author/khari-johnson"
+    },
+    {
+      "text": "",
+      "url": "/story/westworld-season-4-good"
+    },
+    {
+      "text": "Westworld Has Entered the New, Better Frontier of Sci-Fi",
+      "url": "/story/westworld-season-4-good"
+    },
+    {
+      "text": "Angela Watercutter",
+      "url": "author/angela-watercutter"
+    },
+    {
+      "text": "",
+      "url": "https://www.wired.com/story/the-infamous-1972-report-that-warned-of-civilizations-collapse#intcid=_wired-verso-hp-trending_fce395d1-7f68-4be0-ae64-3d2b9d55a7f7_popular4-1"
+    },
+    {
+      "text": "The Infamous 1972 Report That Warned of Civilization's Collapse",
+      "url": "https://www.wired.com/story/the-infamous-1972-report-that-warned-of-civilizations-collapse#intcid=_wired-verso-hp-trending_fce395d1-7f68-4be0-ae64-3d2b9d55a7f7_popular4-1"
+    },
+    {
+      "text": "",
+      "url": "https://www.wired.com/story/google-nest-devices-prime-day-deals-2022#intcid=_wired-verso-hp-trending_fce395d1-7f68-4be0-ae64-3d2b9d55a7f7_popular4-1"
+    },
+    {
+      "text": "14 Early Amazon Prime Day Deals on Google Hardware",
+      "url": "https://www.wired.com/story/google-nest-devices-prime-day-deals-2022#intcid=_wired-verso-hp-trending_fce395d1-7f68-4be0-ae64-3d2b9d55a7f7_popular4-1"
+    },
+    {
+      "text": "",
+      "url": "https://www.wired.com/story/the-secrets-of-covid-brain-fog-are-starting-to-lift#intcid=_wired-verso-hp-trending_fce395d1-7f68-4be0-ae64-3d2b9d55a7f7_popular4-1"
+    },
+    {
+      "text": "The Secrets of Covid \u2018Brain Fog\u2019 Are Starting to Lift",
+      "url": "https://www.wired.com/story/the-secrets-of-covid-brain-fog-are-starting-to-lift#intcid=_wired-verso-hp-trending_fce395d1-7f68-4be0-ae64-3d2b9d55a7f7_popular4-1"
+    },
+    {
+      "text": "",
+      "url": "https://www.wired.com/story/license-plate-reader-alpr-surveillance-abortion#intcid=_wired-verso-hp-trending_fce395d1-7f68-4be0-ae64-3d2b9d55a7f7_popular4-1"
+    },
+    {
+      "text": "The Danger of License Plate Readers in Post-Roe America",
+      "url": "https://www.wired.com/story/license-plate-reader-alpr-surveillance-abortion#intcid=_wired-verso-hp-trending_fce395d1-7f68-4be0-ae64-3d2b9d55a7f7_popular4-1"
+    },
+    {
+      "text": "Roe Overturned",
+      "url": "https://www.wired.com/tag/reproductive-rights/"
+    },
+    {
+      "text": "",
+      "url": "/story/end-to-end-encryption-abortion-privacy/"
+    },
+    {
+      "text": "End-to-End Encryption's Central Role in Modern Self-Defense",
+      "url": "/story/end-to-end-encryption-abortion-privacy/"
+    },
+    {
+      "text": "Lily Hay Newman",
+      "url": "/author/lily-hay-newman"
+    },
+    {
+      "text": "",
+      "url": "/story/meta-abortion-content-restriction/"
+    },
+    {
+      "text": "Meta Was Restricting Abortion Content All Along",
+      "url": "/story/meta-abortion-content-restriction/"
+    },
+    {
+      "text": "",
+      "url": "/story/roe-abortion-sex-worker-policy/"
+    },
+    {
+      "text": "Are You Ready to Be Surveilled Like a Sex Worker?\u00a0",
+      "url": "/story/roe-abortion-sex-worker-policy/"
+    },
+    {
+      "text": "",
+      "url": "/story/guide-abortion-resources-post-roe-america/"
+    },
+    {
+      "text": "A Guide to Abortion Resources in a Post-Roe America",
+      "url": "/story/guide-abortion-resources-post-roe-america/"
+    },
+    {
+      "text": "",
+      "url": "/story/roe-overturned-supreme-court-dobbs-abortion-rights-revolutionized-life-for-women/"
+    },
+    {
+      "text": "Roe Stood for 49 Years. It Revolutionized Life for Women",
+      "url": "/story/roe-overturned-supreme-court-dobbs-abortion-rights-revolutionized-life-for-women/"
+    },
+    {
+      "text": "Longreads",
+      "url": "https://www.wired.com/category/backchannel/"
+    },
+    {
+      "text": "",
+      "url": "/story/the-loneliness-of-the-junior-college-esports-coach/"
+    },
+    {
+      "text": "The Loneliness of the Junior College Esports Coach",
+      "url": "/story/the-loneliness-of-the-junior-college-esports-coach/"
+    },
+    {
+      "text": "Brendan I. Koerner",
+      "url": "/author/brendan-koerner"
+    },
+    {
+      "text": "",
+      "url": "/story/sun-storm-end-civilization/"
+    },
+    {
+      "text": "Here Comes the Sun\u2014to End Civilization",
+      "url": "/story/sun-storm-end-civilization/"
+    },
+    {
+      "text": "",
+      "url": "/story/can-democracy-include-a-world-beyond-humans/"
+    },
+    {
+      "text": "Can Democracy Include a World Beyond Humans?",
+      "url": "/story/can-democracy-include-a-world-beyond-humans/"
+    },
+    {
+      "text": "",
+      "url": "/story/provincetown-covid-delta-outbreak-response/"
+    },
+    {
+      "text": "When Covid Came for Provincetown",
+      "url": "/story/provincetown-covid-delta-outbreak-response/"
+    },
+    {
+      "text": "",
+      "url": "/story/covid-19-brazil-indigenous-amazon-death/"
+    },
+    {
+      "text": "A Pandemic Tragedy on Brazil\u2019s Lago Verde",
+      "url": "/story/covid-19-brazil-indigenous-amazon-death/"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.wired.com/category/business/"
+    },
+    {
+      "text": "",
+      "url": "/story/faze-clan-going-public"
+    },
+    {
+      "text": "FaZe Clan Is Going Public\u2014Just as the Creator Economy Shifts",
+      "url": "/story/faze-clan-going-public"
+    },
+    {
+      "text": "Escooter Rentals Aren\u2019t as Green as You Think",
+      "url": "/story/e-scooter-rentals-carbon-emissions"
+    },
+    {
+      "text": "Tech Companies Will Cover Abortion Travel\u2014but Not for All Workers",
+      "url": "/story/tech-companies-abortion-travel"
+    },
+    {
+      "text": "Culture",
+      "url": "https://www.wired.com/category/culture/"
+    },
+    {
+      "text": "",
+      "url": "/story/six-word-sci-fi"
+    },
+    {
+      "text": "Six-Word Sci-Fi: Stories Written by You",
+      "url": "/story/six-word-sci-fi"
+    },
+    {
+      "text": "After Thor: Love and Thunder, Read These 5 Comics",
+      "url": "/story/thor-love-and-thunder-comics-reading-list"
+    },
+    {
+      "text": "Instagram Keeps Showing Me Children\u2019s Tragedies",
+      "url": "/story/parents-sick-kids-social-media"
+    },
+    {
+      "text": "Gear",
+      "url": "https://www.wired.com/category/gear/"
+    },
+    {
+      "text": "",
+      "url": "/story/mold-assessment-tips"
+    },
+    {
+      "text": "That Weird Smell in Your House Might Be Mold. Here's How to Check",
+      "url": "/story/mold-assessment-tips"
+    },
+    {
+      "text": "Lenovo's Latest AMD-Powered ThinkBook 13S Is on Sale Right Now",
+      "url": "/story/lenovo-thinkbook-13s-gen-4-deal-july-2022"
+    },
+    {
+      "text": "14 Early Amazon Prime Day Deals on Google Hardware",
+      "url": "/story/google-nest-devices-prime-day-deals-2022"
+    },
+    {
+      "text": "Ideas",
+      "url": "https://www.wired.com/category/ideas/"
+    },
+    {
+      "text": "",
+      "url": "/story/digital-services-act-regulation"
+    },
+    {
+      "text": "Europe's Big Tech Law Is Approved. Now Comes the Hard Part",
+      "url": "/story/digital-services-act-regulation"
+    },
+    {
+      "text": "It's Not Too Late to Save the Metaverse",
+      "url": "/story/metaverse-policy-lootboxes-crypto-rights"
+    },
+    {
+      "text": "Transport Apps Promised to Eliminate Friction. But at What Cost?",
+      "url": "/story/technology-transportation-road-to-nowhere"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.wired.com/category/science/"
+    },
+    {
+      "text": "",
+      "url": "/story/abortion-pills-may-force-states-and-the-fda-into-a-stand-off"
+    },
+    {
+      "text": "Abortion Pills May Force States and the FDA Into a Standoff",
+      "url": "/story/abortion-pills-may-force-states-and-the-fda-into-a-stand-off"
+    },
+    {
+      "text": "The Infamous 1972 Report That Warned of Civilization's Collapse",
+      "url": "/story/the-infamous-1972-report-that-warned-of-civilizations-collapse"
+    },
+    {
+      "text": "Permanent Birth Control Is in Demand in the US\u2014but Hard to Get",
+      "url": "/story/permanent-birth-control-iuds-post-roe"
+    },
+    {
+      "text": "Security",
+      "url": "https://www.wired.com/category/security/"
+    },
+    {
+      "text": "",
+      "url": "/story/license-plate-reader-alpr-surveillance-abortion"
+    },
+    {
+      "text": "The Danger of License Plate Readers in Post-Roe America",
+      "url": "/story/license-plate-reader-alpr-surveillance-abortion"
+    },
+    {
+      "text": "Apple\u2019s Lockdown Mode Aims to Counter Spyware Threats",
+      "url": "/story/apple-ios-16-lockdown-mode"
+    },
+    {
+      "text": "How to Avoid the Worst Instagram Scams",
+      "url": "/story/how-to-avoid-instagram-scams"
+    },
+    {
+      "text": "Artificial Intelligence",
+      "url": "https://www.wired.com/category/artificial-intelligence/"
+    },
+    {
+      "text": "",
+      "url": "/story/europe-law-outlaw-ai"
+    },
+    {
+      "text": "The Fight Over Which Uses of AI Europe Should Outlaw",
+      "url": "/story/europe-law-outlaw-ai"
+    },
+    {
+      "text": "This Warehouse Robot Reads Human Body Language",
+      "url": "/story/warehouse-robot-reads-body-language"
+    },
+    {
+      "text": "DALL-E Mini Is the Internet's Favorite AI Meme Machine",
+      "url": "/story/dalle-ai-meme-machine"
+    },
+    {
+      "text": "Covid-19",
+      "url": "https://www.wired.com/tag/covid-19/"
+    },
+    {
+      "text": "",
+      "url": "/story/the-secrets-of-covid-brain-fog-are-starting-to-lift"
+    },
+    {
+      "text": "The Secrets of Covid \u2018Brain Fog\u2019 Are Starting to Lift",
+      "url": "/story/the-secrets-of-covid-brain-fog-are-starting-to-lift"
+    },
+    {
+      "text": "How Covid Tracking Apps Are Pivoting for Commercial Profit",
+      "url": "/story/covid-19-data-switch"
+    },
+    {
+      "text": "Covid Shots for Little Kids Are Finally Here. Now for the Hardest Part",
+      "url": "/story/covid-19-vaccine-little-kids-delivery"
+    },
+    {
+      "text": "Games",
+      "url": "https://www.wired.com/tag/video-games/"
+    },
+    {
+      "text": "",
+      "url": "/story/video-games-industry-post-roe"
+    },
+    {
+      "text": "Why Some Video Game Companies Are Staying Silent on Abortion",
+      "url": "/story/video-games-industry-post-roe"
+    },
+    {
+      "text": "How a Group of Murderers Became Skyrim's Most Beloved Faction",
+      "url": "/story/dark-brotherhood-skyrim-most-beloved-faction"
+    },
+    {
+      "text": "Citizen Sleeper's Creator Was Inspired by Our Modern Dystopia",
+      "url": "/story/citizen-sleeper-modern-dystopia-gareth-damian-martin"
+    },
+    {
+      "text": "Climate",
+      "url": "https://www.wired.com/category/science/environment-climate-change/"
+    },
+    {
+      "text": "",
+      "url": "/story/how-landsat-chronicled-50-years-on-a-changing-fiery-planet/"
+    },
+    {
+      "text": "How Landsat Chronicled 50 Years on a Changing, Fiery Planet",
+      "url": "/story/how-landsat-chronicled-50-years-on-a-changing-fiery-planet/"
+    },
+    {
+      "text": "Sarah Scoles",
+      "url": "/author/sarah-scoles"
+    },
+    {
+      "text": "",
+      "url": "/story/climate-change-breaks-plant-immune-systems-can-they-be-rebooted/"
+    },
+    {
+      "text": "Climate Change Breaks Plant Immune Systems. Can They Be Rebooted?",
+      "url": "/story/climate-change-breaks-plant-immune-systems-can-they-be-rebooted/"
+    },
+    {
+      "text": "",
+      "url": "/story/130-year-old-menus-show-how-climate-change-affects-what-we-eat/"
+    },
+    {
+      "text": "130-Year-Old Menus Show How Climate Change Affects What We Eat",
+      "url": "/story/130-year-old-menus-show-how-climate-change-affects-what-we-eat/"
+    },
+    {
+      "text": "",
+      "url": "/story/floating-wind-turbines/"
+    },
+    {
+      "text": "The Race to Build Wind Farms That Float on the Open Sea",
+      "url": "/story/floating-wind-turbines/"
+    },
+    {
+      "text": "",
+      "url": "/story/the-supreme-court-is-jeopardizing-federal-climate-action/"
+    },
+    {
+      "text": "The Supreme Court Is Jeopardizing Federal Climate Action",
+      "url": "/story/the-supreme-court-is-jeopardizing-federal-climate-action/"
+    },
+    {
+      "text": "See all newsletters.",
+      "url": "https://www.wired.com/newsletter?sourceCode=HeaderAndFooter"
+    },
+    {
+      "text": "User Agreement",
+      "url": "https://www.condenast.com/user-agreement"
+    },
+    {
+      "text": " class action waiver and arbitration provisions",
+      "url": "https://www.condenast.com/user-agreement#introduction-arbitration-notice"
+    },
+    {
+      "text": "Privacy Policy & Cookie Statement",
+      "url": "https://www.condenast.com/privacy-policy"
+    },
+    {
+      "text": "Product Reviews",
+      "url": "https://www.wired.com/category/gear/reviews/"
+    },
+    {
+      "text": "Buying Guides",
+      "url": "https://www.wired.com/category/gear/buying-guides/"
+    },
+    {
+      "text": "",
+      "url": "/gallery/best-smart-lighting/"
+    },
+    {
+      "text": "The Best Smart Lighting Panels, LED Strips, and Ambient Lamps",
+      "url": "/gallery/best-smart-lighting/"
+    },
+    {
+      "text": "Simon Hill",
+      "url": "/author/simon-hill"
+    },
+    {
+      "text": "",
+      "url": "/review/roland-aira-series-t-8-j-6-e-4/"
+    },
+    {
+      "text": "Compose Your Own '80s Tunes With These Super-Portable Synths",
+      "url": "/review/roland-aira-series-t-8-j-6-e-4/"
+    },
+    {
+      "text": "",
+      "url": "/gallery/best-barefoot-shoes/"
+    },
+    {
+      "text": "The Best Barefoot Shoes for Walking or Running",
+      "url": "/gallery/best-barefoot-shoes/"
+    },
+    {
+      "text": "",
+      "url": "/review/samsung-galaxy-a13-5g/"
+    },
+    {
+      "text": "This $250 Samsung Phone Is Surprisingly Great",
+      "url": "/review/samsung-galaxy-a13-5g/"
+    },
+    {
+      "text": "",
+      "url": "/story/best-rapid-at-home-covid-19-test-kits/"
+    },
+    {
+      "text": "Rapid At-Home Covid-19 Tests\u2014and Where to Find Them",
+      "url": "/story/best-rapid-at-home-covid-19-test-kits/"
+    },
+    {
+      "text": "WIRED Classics",
+      "url": "https://www.wired.com/newsletter/classics"
+    },
+    {
+      "text": "",
+      "url": "/2012/11/ff-the-manuscript/"
+    },
+    {
+      "text": "They Cracked This 250-Year-Old Code, and Found a Secret Society",
+      "url": "/2012/11/ff-the-manuscript/"
+    },
+    {
+      "text": "Noah Shachtman",
+      "url": "/author/noah-shachtman"
+    },
+    {
+      "text": "",
+      "url": "/story/telltale-heart-fitbit-murder/"
+    },
+    {
+      "text": "A Brutal Murder, a Wearable Witness, and an Unlikely Suspect",
+      "url": "/story/telltale-heart-fitbit-murder/"
+    },
+    {
+      "text": "",
+      "url": "/story/how-one-womans-digital-life-was-weaponized-against-her/"
+    },
+    {
+      "text": "How One Woman's Digital Life Was Weaponized Against Her",
+      "url": "/story/how-one-womans-digital-life-was-weaponized-against-her/"
+    },
+    {
+      "text": "",
+      "url": "/1998/12/murder/"
+    },
+    {
+      "text": "Murder by Internet",
+      "url": "/1998/12/murder/"
+    },
+    {
+      "text": "",
+      "url": "/1999/03/bezos-3/"
+    },
+    {
+      "text": "The Inner Jeff Bezos",
+      "url": "/1999/03/bezos-3/"
+    },
+    {
+      "text": "Featured Videos",
+      "url": "https://www.wired.com/video"
+    },
+    {
+      "text": "How This Woman Paints Hyperrealistic Nail Art",
+      "url": "https://www.wired.com/video/watch/obsessed-nail-art"
+    },
+    {
+      "text": "iconPlay",
+      "url": "https://www.wired.com/video/watch/each-and-every-marvel-vs-norse-mythology-every-norse-god-in-thor-explained"
+    },
+    {
+      "text": "Marvel vs Norse Mythology: Every Norse God in Thor Explained",
+      "url": "https://www.wired.com/video/watch/each-and-every-marvel-vs-norse-mythology-every-norse-god-in-thor-explained"
+    },
+    {
+      "text": "iconPlay",
+      "url": "https://www.wired.com/video/watch/tech-support-injury-support"
+    },
+    {
+      "text": "ER Doctor Answers Injury Questions From Twitter",
+      "url": "https://www.wired.com/video/watch/tech-support-injury-support"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/wired/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/wired/"
+    },
+    {
+      "text": "Pinterest",
+      "url": "https://pinterest.com/wired/"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://www.youtube.com/user/wired/"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/wired/"
+    },
+    {
+      "text": "Tiktok",
+      "url": "https://www.tiktok.com/@wired?lang=en"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.wired.com/subscribe/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.wired.com/newsletter?sourceCode=HeaderAndFooter"
+    },
+    {
+      "text": "FAQ",
+      "url": "https://www.wired.com/about/faq/"
+    },
+    {
+      "text": "Wired Staff",
+      "url": "https://www.wired.com/wired-staff/"
+    },
+    {
+      "text": "Press Center",
+      "url": "https://www.wired.com/about/press/"
+    },
+    {
+      "text": "Coupons",
+      "url": "https://www.wired.com/coupons"
+    },
+    {
+      "text": "Editorial Standards",
+      "url": "https://www.wired.com/about/wired-on-background-policy/"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://www.condenast.com/brands/wired"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.wired.com/about/feedback/"
+    },
+    {
+      "text": "Customer Care",
+      "url": "https://subscriptions.wired.com/pubs/N3/WIR/Register.jsp?cds_page_id=175371&amp;amp;cds_mag_code=WIR&amp;amp;id=1423757547774&amp;amp;lsid=50431012277019467&amp;amp;vid=1"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.wired.com/about/wired-jobs/"
+    },
+    {
+      "text": "RSS",
+      "url": "/about/rss-feeds/"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Accessibility Help",
+      "url": "/about/accessibility-help/"
+    },
+    {
+      "text": "Cond\u00e9 Nast Store",
+      "url": "https://www.condenaststore.com/"
+    },
+    {
+      "text": "Cond\u00e9 Nast Spotlight",
+      "url": "https://www.cnspotlight.com/ "
+    },
+    {
+      "text": "User Agreement",
+      "url": "https://www.condenast.com/user-agreement/"
+    },
+    {
+      "text": "Privacy Policy and Cookie Statement",
+      "url": "http://www.condenast.com/privacy-policy#privacypolicy"
+    },
+    {
+      "text": "Your California Privacy Rights.",
+      "url": "http://www.condenast.com/privacy-policy#privacypolicy-california"
+    },
+    {
+      "text": "Ad Choices",
+      "url": "http://www.condenast.com/privacy-policy#privacypolicy-optout"
     }
   ],
-  "uniq": 1170231994,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

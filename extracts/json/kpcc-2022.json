@@ -1,5 +1,5 @@
 {
-  "created": 1657309215,
+  "created": 1657325816,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/kpcc-2022",
@@ -9531,21 +9531,32 @@
       "rotation": "0"
     },
     {
+      "name": "kpcc-2022-07-08T11:09:54.797810-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-07-08T11:09:54.797810-07:00.jpg",
+      "mtime": "1657309744",
+      "size": "9263",
+      "md5": "2575bac4d60f685ab8215eca7c1fdca3",
+      "crc32": "7bb34dc3",
+      "sha1": "486591ea60a74be94fd5f6357915c5bf21cb659c"
+    },
+    {
       "name": "kpcc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4766a6ac7d1cf4add93c8f3e3282307ee586f9f7",
-      "mtime": "1657303845",
-      "size": "188180",
-      "md5": "8484042ea44aef9b366a2eba1d2f916f",
-      "crc32": "8b7f12b7",
-      "sha1": "2f45afb5ed4cbbfcd3261d5ade5328686d66d3f8",
+      "btih": "59af9e133ad67242c291e6ea3f010ee50fc03d4c",
+      "mtime": "1657309791",
+      "size": "188380",
+      "md5": "371fc8af9bb8df1034cba4f41c83bf9b",
+      "crc32": "ddf1faaa",
+      "sha1": "3726b9da28bf602ee8c46bf4b3186a24ce01d38a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "792ea15ac423bf3d48d4836466016579",
+      "md5": "4ca0a140f0ce4c230f1a4d2201945d7f",
       "summation": "md5"
     },
     {
@@ -9569,9 +9580,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 910,
-  "item_last_updated": 1657303845,
-  "item_size": 73332651,
+  "files_count": 911,
+  "item_last_updated": 1657309791,
+  "item_size": 73342114,
   "kpcc-2022": [
     {
       "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                                \n                                \n                            \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
@@ -10386,21 +10397,10 @@
     "publicdate": "2022-03-23 02:08:21",
     "addeddate": "2022-03-23 02:08:21"
   },
-  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3325238870,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1153592542,
+  "uniq": 1403699957,
   "workable_servers": [
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

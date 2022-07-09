@@ -1,5 +1,5 @@
 {
-  "created": 1657309330,
+  "created": 1657325958,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/pointreyeslight-2022",
@@ -1223,21 +1223,32 @@
       "rotation": "0"
     },
     {
+      "name": "pointreyeslight-2022-07-08T11:09:42.488478-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pointreyeslight-2022-07-08T11:09:42.488478-07:00.jpg",
+      "mtime": "1657309699",
+      "size": "8673",
+      "md5": "7adb549c558c4c1590be05ed5126d2e5",
+      "crc32": "44925d8b",
+      "sha1": "050f393f2b3a40ec4702ba5973763d3e477e643e"
+    },
+    {
       "name": "pointreyeslight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "35f31c403f01884d57e70a0a413717f38ae58c19",
-      "mtime": "1657303828",
-      "size": "26495",
-      "md5": "e2da2044c2b79464bb18c029a84a5c79",
-      "crc32": "0b74ada8",
-      "sha1": "42e8e437acbce73a834d1060379ba999d967b97b",
+      "btih": "66200b45c2cb2ebd2dc4e94e851d8a1f5c43e3b6",
+      "mtime": "1657309717",
+      "size": "26706",
+      "md5": "d78387cd1023cc5ec8142305e8b16f60",
+      "crc32": "e4aead7c",
+      "sha1": "8c0907b63d7f8ec2477acbca814c9bc295eb92a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pointreyeslight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c0749df0bd122baa370c89d7b6800a7",
+      "md5": "2c9665f754561aaecce80a05b6c554db",
       "summation": "md5"
     },
     {
@@ -1261,9 +1272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 120,
-  "item_last_updated": 1657303828,
-  "item_size": 7535937,
+  "files_count": 121,
+  "item_last_updated": 1657309717,
+  "item_size": 7544821,
   "metadata": {
     "identifier": "pointreyeslight-2022",
     "collection": [
@@ -1280,7 +1291,6 @@
     "publicdate": "2022-06-30 20:48:29",
     "addeddate": "2022-06-30 20:48:29"
   },
-  "pending_tasks": true,
   "pointreyeslight-2022": [
     {
       "text": "table",
@@ -1291,20 +1301,10 @@
       "url": "https://www.cloudflare.com/5xx-error-landing/"
     }
   ],
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3325238578,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2072156484,
+  "server": "ia801408.us.archive.org",
+  "uniq": 146856999,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1657303816,
+  "created": 1657309802,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/oaklandside-2022",
@@ -7291,21 +7291,32 @@
       "rotation": "0"
     },
     {
+      "name": "oaklandside-2022-07-08T11:09:14.619707-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-07-08T11:09:14.619707-07:00.jpg",
+      "mtime": "1657309775",
+      "size": "10630",
+      "md5": "e28a1c0c0aea41caa9c2b6c2b142f59b",
+      "crc32": "e51d8dc7",
+      "sha1": "77e0b8982cdc667b2fcacfbea4d3c495ad25db04"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f690b717cd6991da54408489d896d630a4c86d90",
-      "mtime": "1657303813",
-      "size": "150039",
-      "md5": "d4bc1cdb449e27136e3e6c95a376d955",
-      "crc32": "38084a77",
-      "sha1": "64d826d7273b00783f4198ccb5d1cc31ca1305b5",
+      "btih": "be6f2ce164f14caf6ea586757601734b52415334",
+      "mtime": "1657309784",
+      "size": "150247",
+      "md5": "7614c93f0fef41f97ae348cc691b2e92",
+      "crc32": "7c37cf25",
+      "sha1": "deb14bde5fa7ae1b602209017e60c740e7bb970c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b9ca6a03eaad857aefb1360c71758217",
+      "md5": "099cd061ddf3408a1e64da8a52a6d2dd",
       "summation": "md5"
     },
     {
@@ -7329,9 +7340,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 697,
-  "item_last_updated": 1657303813,
-  "item_size": 77234856,
+  "files_count": 698,
+  "item_last_updated": 1657309784,
+  "item_size": 77245694,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -7348,21 +7359,10 @@
     "publicdate": "2022-03-23 02:09:27",
     "addeddate": "2022-03-23 02:09:27"
   },
-  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3325238378,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 24112304,
+  "uniq": 375885341,
   "workable_servers": [
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

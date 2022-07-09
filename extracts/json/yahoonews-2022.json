@@ -1,5 +1,5 @@
 {
-  "created": 1657308804,
+  "created": 1657326132,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -2859,31 +2859,84 @@
       "rotation": "0"
     },
     {
+      "name": "yahoonews-2022-07-08T15:32:36.549769-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-08T15:32:36.549769-04:00.jpg",
+      "mtime": "1657312454",
+      "size": "10209",
+      "md5": "995c137ffaba58f10dda145bfc9589e1",
+      "crc32": "6029a23f",
+      "sha1": "6a3fa10406e2b6779dc39324d368a08d1e5cbb16"
+    },
+    {
+      "name": "yahoonews-2022-07-08T17:11:05.575881-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657314669",
+      "size": "39394",
+      "md5": "de9047a5d39efd540b2e28f6f2de477c",
+      "crc32": "9eb5a4db",
+      "sha1": "844cf3d755e5a70c8ae9f24baf3fd7f3db68c179",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-08T17:11:05.575881-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657314672",
+      "size": "14199",
+      "md5": "c4e1a45a791566f036543c40c66b298a",
+      "crc32": "83c6f6b5",
+      "sha1": "5dc106ec12cd722ee87ae03ba7b83b8b4e3a550d",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-08T17:11:05.575881-04:00.jpg",
+      "source": "original",
+      "mtime": "1657314667",
+      "size": "337863",
+      "md5": "c0de1de5f8efbd2fbe5f1b7d9a2eee7e",
+      "crc32": "b564ec76",
+      "sha1": "2a0e34f7e1a63322f6b2697c50bd56a46f4e178e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-08T17:11:05.575881-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-08T17:11:05.575881-04:00.jpg",
+      "mtime": "1657316619",
+      "size": "10204",
+      "md5": "164ad22477034bf776a692f6aaf096f3",
+      "crc32": "ddc117b1",
+      "sha1": "f976c23b493215f62af0f346e5a18fef8bf3f768"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "18765f13461a9326cf44a81768027d35117827bf",
-      "mtime": "1657308801",
-      "size": "59117",
-      "md5": "e79673dc1c87c0523fe2941937090bb6",
-      "crc32": "8cd91cdc",
-      "sha1": "337a9c746548ccf1685342fa20bbaaf84096aeef",
+      "btih": "cfb4f17a93e48a3bd1f92e29b7958461176c01ba",
+      "mtime": "1657316630",
+      "size": "60177",
+      "md5": "c699ae313313efdc7d324f6dbea1287c",
+      "crc32": "ce8a699e",
+      "sha1": "f8ff8b0bc928a60b953a1552c579b624d61eb866",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19702155479f584f742ec9531f557a83",
+      "md5": "cc5046ee1465ebfdf0050d62ae52918e",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657308766",
-      "size": "335872",
-      "md5": "d79ebcf07c61e04b1ab387dc487d3178",
-      "crc32": "f535ef7b",
-      "sha1": "be9e9ac03b6ecce2e4980aa2332a466f945d47a5",
+      "mtime": "1657314679",
+      "size": "339968",
+      "md5": "b098e039f7b69816b94b892ff3b9e033",
+      "crc32": "0ce3f269",
+      "sha1": "39980b97352f7bd8e7a4d1b378ecd2296b7897d0",
       "format": "Metadata"
     },
     {
@@ -2897,9 +2950,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 276,
-  "item_last_updated": 1657308801,
-  "item_size": 26005862,
+  "files_count": 281,
+  "item_last_updated": 1657316630,
+  "item_size": 26422887,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -2916,21 +2969,384 @@
     "publicdate": "2022-06-24 23:04:11",
     "addeddate": "2022-06-24 23:04:11"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3325310065,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1348625604,
+  "uniq": 675479469,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
+  ],
+  "yahoonews-2022": [
+    {
+      "text": "      HOME",
+      "url": "https://www.yahoo.com/"
+    },
+    {
+      "text": " MAIL",
+      "url": "https://mail.yahoo.com/"
+    },
+    {
+      "text": " NEWS",
+      "url": "https://news.yahoo.com/"
+    },
+    {
+      "text": " FINANCE",
+      "url": "https://finance.yahoo.com/"
+    },
+    {
+      "text": " SPORTS",
+      "url": "https://sports.yahoo.com/"
+    },
+    {
+      "text": " ENTERTAINMENT",
+      "url": "https://www.yahoo.com/entertainment/"
+    },
+    {
+      "text": " LIFE",
+      "url": "https://www.yahoo.com/lifestyle"
+    },
+    {
+      "text": " SEARCH",
+      "url": "https://search.yahoo.com/search/"
+    },
+    {
+      "text": " SHOPPING",
+      "url": "https://shopping.yahoo.com/"
+    },
+    {
+      "text": " YAHOO PLUS",
+      "url": "https://www.yahoo.com/plus"
+    },
+    {
+      "text": " MORE...",
+      "url": "https://www.yahoo.com/everything/"
+    },
+    {
+      "text": "    Upgrade Now   ",
+      "url": "https://ad.doubleclick.net/ddm/trackclk/N360801.1913355YAHOOADMANAGER/B23644564.308265615;dc_trk_aid=490102767;dc_trk_cid=127172993;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+    },
+    {
+      "text": "                   Yahoo News",
+      "url": "https://news.yahoo.com/"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://login.yahoo.com/?.lang=en-US&src=news&.done=https%3A%2F%2Fnews.yahoo.com%2F&pspid=1197800621&activity=ybar-signin"
+    },
+    {
+      "text": "       Mail",
+      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
+    },
+    {
+      "text": " News   News",
+      "url": "https://news.yahoo.com"
+    },
+    {
+      "text": " US   US",
+      "url": "https://news.yahoo.com/us/"
+    },
+    {
+      "text": " Politics   Politics",
+      "url": "https://news.yahoo.com/politics/"
+    },
+    {
+      "text": " World   World",
+      "url": "https://news.yahoo.com/world/"
+    },
+    {
+      "text": " COVID-19   COVID-19",
+      "url": "https://news.yahoo.com/coronavirus/"
+    },
+    {
+      "text": " Climate Change   Climate Change",
+      "url": "https://www.yahoo.com/news/tagged/climate-change/"
+    },
+    {
+      "text": " Health   Health",
+      "url": "https://news.yahoo.com/health/"
+    },
+    {
+      "text": " Science   Science",
+      "url": "https://news.yahoo.com/science/"
+    },
+    {
+      "text": " Originals   Originals",
+      "url": "https://news.yahoo.com/originals/"
+    },
+    {
+      "text": "The 360The 360",
+      "url": "https://news.yahoo.com/tagged/360/"
+    },
+    {
+      "text": "Skullduggery PodcastSkullduggery Podcast",
+      "url": "https://news.yahoo.com/tagged/skullduggery/"
+    },
+    {
+      "text": "ConspiracylandConspiracyland",
+      "url": "https://news.yahoo.com/tagged/conspiracyland/"
+    },
+    {
+      "text": " Veterans   Veterans",
+      "url": "https://www.yahoo.com/partner/wounded-warrior-project/index.html"
+    },
+    {
+      "text": " Contact Us   Contact Us",
+      "url": "https://yahoo.uservoice.com/forums/204992-us-news"
+    },
+    {
+      "text": "What police found in raid of Abe shooting suspect's homeMultiple apparently homemade weapons were seized when police raided the home of the man suspected of assassinating ex-Japanese Prime Minister Shinzo Abe, authorities said.Japan has really strict gun laws \u00bb",
+      "url": "/homemade-guns-seized-raid-abe-150341241.html"
+    },
+    {
+      "text": "Is there a way to fix the 'indignities' of air travel?",
+      "url": "/air-travel-is-a-mess-can-it-be-fixed-183833784.html"
+    },
+    {
+      "text": "Relief checks: 20 states, and more could be coming",
+      "url": "/relief-checks-at-least-20-states-are-sending-cash-to-their-residents-this-year-and-more-could-be-coming-212256318.html"
+    },
+    {
+      "text": "Biden signs executive order on abortion, contraception ",
+      "url": "/biden-sign-executive-order-help-110349287.html"
+    },
+    {
+      "text": "Dead anchovies riddle the streets of San Francisco",
+      "url": "/first-fish-fell-sky-then-115413422.html"
+    },
+    {
+      "text": "'People have known that [Johnson] lies for 30 years'",
+      "url": "/johnsons-lies-worked-years-until-120328007.html"
+    },
+    {
+      "text": "Homeowner finds out guests took bed for a \u2018test drive\u2019 during open house: \u2018I wish we had cameras\u2019",
+      "url": "/homeowner-finds-guests-took-bed-134530957.html"
+    },
+    {
+      "text": "Minnesota mom in \u2018triple murder-suicide\u2019 allegedly bullied by husband\u2019s relatives after he shot himself",
+      "url": "/minnesota-mom-triple-murder-suicide-164543691.html"
+    },
+    {
+      "text": "Authorities confirm Minnesota couple died by suicide, 3 children were drowned by mother in lakeNextShark",
+      "url": "/authorities-confirm-minnesota-couple-died-232744995.html"
+    },
+    {
+      "text": "Hours after husband's death, Minnesota mother drowns 3 children, kills self, police sayUSA TODAY",
+      "url": "/hours-husbands-death-minnesota-mother-161934867.html"
+    },
+    {
+      "text": "Johnny Depp Verdict Thrown Into Chaos As Wrong Juror Seated In Virginia Trial, Amber Heard Says; Wants New Trial",
+      "url": "/johnny-depp-verdict-thrown-chaos-193939499.html"
+    },
+    {
+      "text": "Colorado secretary of state: 'We will stand firm' in blocking extradition of women who travel to get abortions",
+      "url": "/colorado-secretary-of-state-we-will-stand-firm-in-blocking-extradition-of-women-who-travel-to-get-abortions-222108470.html"
+    },
+    {
+      "text": "Biden signs executive order on abortion, declares Supreme Court 'out of control'Reuters",
+      "url": "/biden-sign-executive-order-help-110349287.html"
+    },
+    {
+      "text": "Colorado governor issues executive order to protect abortion accessThe Guardian",
+      "url": "/colorado-governor-issues-executive-order-150331705.html"
+    },
+    {
+      "text": "Viral videos of couple having sex outside in private Hong Kong hotel jacuzzi sparks privacy concerns",
+      "url": "/viral-videos-couple-having-sex-210241009.html"
+    },
+    {
+      "text": "Florida Woman Believes The Host Of Her Air BnB Planned To Sex Traffick Her And Her Friends",
+      "url": "/florida-woman-believes-host-her-180847882.html"
+    },
+    {
+      "text": "Black leader who fought Trump Tulsa campaign rally killed",
+      "url": "/black-leader-fought-trump-tulsa-020243767.html"
+    },
+    {
+      "text": "Tulsa in \u2018Shock\u2019 After Black Wall Street Chamber President Found Dead in Her HomeThe Daily Beast",
+      "url": "/tulsa-shock-black-wall-street-213439418.html"
+    },
+    {
+      "text": "Black Wall Street Chamber of Commerce president found dead in Oklahoma home with injured husbandThe Independent",
+      "url": "/black-wall-street-chamber-commerce-223144982.html"
+    },
+    {
+      "text": "Explosion rocks Georgia Guidestones, 'America's Stonehenge'",
+      "url": "/explosion-rocks-georgia-guidestones-americas-022249964.html"
+    },
+    {
+      "text": "Son writes scathing obituary for dad: \u2018Evil does eventually die\u2019",
+      "url": "/son-writes-scathing-obituary-dad-151353672.html"
+    },
+    {
+      "text": "'Dad, that's it. She's dead': Another day of loss in Ukraine",
+      "url": "/dad-thats-shes-dead-another-071908725.html"
+    },
+    {
+      "text": "Brett Kavanaugh's Right to Dine Shall Not Be Infringed",
+      "url": "/brett-kavanaughs-dine-not-infringed-145900540.html"
+    },
+    {
+      "text": "Restaurant sees spike in fake reservations after hosting Brett KavanaughThe Independent",
+      "url": "/restaurant-sees-spike-fake-reservations-182658321.html"
+    },
+    {
+      "text": "Brett Kavanaugh Had to Leave Out the Back of a D.C. Morton's Steakhouse After Protestors Showed UpPeople",
+      "url": "/brett-kavanaugh-had-leave-back-181117547.html"
+    },
+    {
+      "text": "Elon Musk reacts to report he had secret twins with Neuralink exec weeks before baby with Grimes",
+      "url": "/elon-musk-reacts-report-had-223034103.html"
+    },
+    {
+      "text": "Things get messy for Elon Musk with report about new twins he shares with Neuralink execTechCrunch",
+      "url": "/things-messy-elon-musk-report-233527071.html"
+    },
+    {
+      "text": "Elon Musk teases Tesla Robovan concept, confirms he had twins with Neuralink executiveYahoo Finance Video",
+      "url": "/elon-musk-teases-tesla-robovan-203211944.html"
+    },
+    {
+      "text": "CNN obtains bodycam footage of Trump DOJ lawyer during DOJ raid: 'Can I put my pants on?'",
+      "url": "https://www.yahoo.com/entertainment/cnn-obtains-bodycam-footage-of-trump-doj-lawyer-during-doj-raid-can-i-put-my-pants-on-053608344.html"
+    },
+    {
+      "text": "Illegal moonshine operation making $5,000 a week busted in Alabama, sheriffs say",
+      "url": "/illegal-moonshine-operation-making-5-192237341.html"
+    },
+    {
+      "text": "\u2018The news we were dreading\u2019: Missing Big Bear restaurant owner found dead",
+      "url": "/news-were-dreading-missing-big-160239024.html"
+    },
+    {
+      "text": "Christians strip down at a South Texas nudist community",
+      "url": "/christians-strip-down-south-texas-211329587.html"
+    },
+    {
+      "text": "China Tries to Tamp Down Nationalist Fervor Over Abe Shooting",
+      "url": "/china-says-shocked-abe-attack-081359866.html"
+    },
+    {
+      "text": "Former Japanese Prime Minister Shinzo Abe assassinated at a campaign eventYahoo Finance Video",
+      "url": "/former-japanese-prime-minister-shinzo-125712530.html"
+    },
+    {
+      "text": "Ex-leader Shinzo Abe fatally shot in Japan attackAssociated Press Videos",
+      "url": "/ex-leader-shinzo-abe-fatally-124540115.html"
+    },
+    {
+      "text": "Viral video of Singaporean man slapping a woman after she kicked his car spurs debate",
+      "url": "/viral-video-singaporean-man-slapping-204413783.html"
+    },
+    {
+      "text": "'Don't vote for that party': Mexican president slams Texas migrant policy",
+      "url": "/dont-vote-party-mexican-president-153154364.html"
+    },
+    {
+      "text": "Texas governor authorizes state to return migrants to borderAssociated Press",
+      "url": "/texas-governor-authorizes-state-return-205229144.html"
+    },
+    {
+      "text": "Texas officials authorized to arrest migrants, return them to the borderCBS News",
+      "url": "/texas-officials-authorized-arrest-migrants-221711543.html"
+    },
+    {
+      "text": "Dad of Highland Park suspect said he sponsored his son's gun permit application because he thought he wanted to go to the shooting range",
+      "url": "/dad-highland-park-suspect-said-101320600.html"
+    },
+    {
+      "text": "Police called to Highland Park shooting suspect's family home many times over yearsReuters",
+      "url": "/police-called-highland-park-shooting-184207348.html"
+    },
+    {
+      "text": "Why Illinois' gun laws did not stop the Highland Park shooter from buying weaponsReuters",
+      "url": "/why-illinois-gun-laws-did-235948550.html"
+    },
+    {
+      "text": "Family of Parade Suspect\u2019s Only Friend: \u2018It Blows My Mind\u2019",
+      "url": "/family-parade-suspect-only-friend-225824891.html"
+    },
+    {
+      "text": "NASA reveals details about James Webb Space Telescope's first full-color images",
+      "url": "/nasa-james-webb-space-telescope-first-targets-images-data-172517196.html"
+    },
+    {
+      "text": "James Webb Space Telescope: What is the Nasa mission and when did it launch?Yahoo News UK",
+      "url": "/what-james-webb-space-telescope-165048564.html"
+    },
+    {
+      "text": "James Webb Space Telescope set to release 'unprecedented' images. Prepare to be amazedCincinnati.com | The Enquirer",
+      "url": "/james-webb-space-telescope-set-175425246.html"
+    },
+    {
+      "text": "Video captures suspect shooting former Japan PM Abe",
+      "url": "/video-captures-suspect-shooting-former-164028970.html"
+    },
+    {
+      "text": "Marjorie Taylor Greene Goes Full Kook With Mass Shooting Conspiracy Theory",
+      "url": "/marjorie-taylor-greene-goes-full-044736875.html"
+    },
+    {
+      "text": "Marjorie Taylor Greene claims mass shootings \u2018designed\u2019 to make GOP support gun controlThe Independent",
+      "url": "/marjorie-taylor-greene-claims-mass-185832814.html"
+    },
+    {
+      "text": "Rep. Greene questions whether July 4 shootings were 'designed' to get Republicans to back gun controlNBC News",
+      "url": "/rep-greene-questions-july-4-172939156.html"
+    },
+    {
+      "text": "China warns top U.S. general off 'arbitrary provocations'",
+      "url": "/top-u-general-speaks-chinese-135933979.html"
+    },
+    {
+      "text": "Will AI one day become sentient?",
+      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
+    },
+    {
+      "text": "Read the 360",
+      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
+    },
+    {
+      "text": "Minnesota mom in \u2018triple murder-suicide\u2019 allegedly bullied by husband\u2019s relatives after he shot himself",
+      "url": "/minnesota-mom-triple-murder-suicide-164543691.html"
+    },
+    {
+      "text": "Viral videos of couple having sex outside in private Hong Kong hotel jacuzzi sparks privacy concerns",
+      "url": "/viral-videos-couple-having-sex-210241009.html"
+    },
+    {
+      "text": "Padma Lakshmi shares nude photos, says it's 'often easier' to pose in the buff when a woman is behind the lens",
+      "url": "/padma-lakshmi-nude-photos-aids-foundation-173925138.html"
+    },
+    {
+      "text": "Pictured: \u2018Electrically Fired\u2019 DIY Shotgun Used to Assassinate Shinzo Abe",
+      "url": "/pictured-electrically-fired-diy-shotgun-150109096.html"
+    },
+    {
+      "text": "Pregnant Mom With Big Baby Bump Responds to Criticism",
+      "url": "/pregnant-mom-big-baby-bump-154826433.html"
+    },
+    {
+      "text": "Brett Kavanaugh's Right to Dine Shall Not Be Infringed",
+      "url": "/brett-kavanaughs-dine-not-infringed-145900540.html"
+    },
+    {
+      "text": "Jordan Spieth\u2019s incredible reaction, Rickie Fowler\u2019s love for links among five takeaways from second round of Scottish Open",
+      "url": "/jordan-spieth-incredible-reaction-rickie-192503490.html"
+    },
+    {
+      "text": "Johnny Depp Verdict Thrown Into Chaos As Wrong Juror Seated In Virginia Trial, Amber Heard Says; Wants New Trial",
+      "url": "/johnny-depp-verdict-thrown-chaos-193939499.html"
+    },
+    {
+      "text": "Japan's Shinzo Abe assassination: Who is suspect Tetsuya Yamagami?",
+      "url": "/japan-apos-shinzo-abe-assassination-133809831.html"
+    },
+    {
+      "text": "Kelly Ripa Reveals Why She's 'So Grateful' for the Topless Photo She Took on Her Honeymoon",
+      "url": "/kelly-ripa-reveals-why-shes-175819242.html"
+    }
   ]
 }

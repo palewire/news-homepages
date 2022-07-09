@@ -1,5 +1,5 @@
 {
-  "created": 1657309436,
+  "created": 1657326104,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/6/items/venturebeat-2022",
@@ -593,21 +593,32 @@
       "rotation": "0"
     },
     {
+      "name": "venturebeat-2022-07-08T11:14:51.894259-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-07-08T11:14:51.894259-07:00.jpg",
+      "mtime": "1657309864",
+      "size": "9219",
+      "md5": "a4818cc012273de5d4a251a8671f211d",
+      "crc32": "59c88f95",
+      "sha1": "f969aa3962409f50b53d7d80d364841de5bfc33c"
+    },
+    {
       "name": "venturebeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f6ea53da34421e1e389516d9fb6449c75615590",
-      "mtime": "1657304172",
-      "size": "13378",
-      "md5": "90cd890a0ab82f5f7deafd7c3480c55c",
-      "crc32": "ce1bcb6d",
-      "sha1": "11d9bb37a5b4f29992cd31ac204d775d2e7c8217",
+      "btih": "65a9c171400f6181a11b180f6a4baf9f1e41b13e",
+      "mtime": "1657309870",
+      "size": "13585",
+      "md5": "b67b630265e55c00a4c62918e340ade4",
+      "crc32": "5d29c632",
+      "sha1": "029d985af6676ab7bec6e60d407890ed08bc650c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "venturebeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aeb400bc4abba9ef8c69084cdc35c78c",
+      "md5": "54adee3437a5bd32ec5646934eb34511",
       "summation": "md5"
     },
     {
@@ -631,9 +642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 60,
-  "item_last_updated": 1657304172,
-  "item_size": 4211761,
+  "files_count": 61,
+  "item_last_updated": 1657309870,
+  "item_size": 4221187,
   "metadata": {
     "identifier": "venturebeat-2022",
     "collection": [
@@ -650,20 +661,8 @@
     "publicdate": "2022-07-04 20:17:37",
     "addeddate": "2022-07-04 20:17:37"
   },
-  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3325243042,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1572703886,
+  "uniq": 1084024219,
   "venturebeat-2022": [
     {
       "text": "Skip to main content",
@@ -2427,6 +2426,7 @@
     }
   ],
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

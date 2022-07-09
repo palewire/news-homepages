@@ -1,5 +1,5 @@
 {
-  "created": 1657303896,
+  "created": 1657310181,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/sacbee_news-2022",
@@ -551,21 +551,32 @@
       "rotation": "0"
     },
     {
+      "name": "sacbee_news-2022-07-08T11:09:48.252526-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sacbee_news-2022-07-08T11:09:48.252526-07:00.jpg",
+      "mtime": "1657309909",
+      "size": "9594",
+      "md5": "5d5e252b91471c52855d39384e848601",
+      "crc32": "d89af5d1",
+      "sha1": "a25ae7035733e199d9576d05398690069ff6b1e0"
+    },
+    {
       "name": "sacbee_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "26fc0fe4053ca30a657be44a8bccea274bacbb06",
-      "mtime": "1657303888",
-      "size": "12326",
-      "md5": "1e5cc1401d93e61fe8c6e413e63fba3e",
-      "crc32": "f59741a5",
-      "sha1": "778a73652dc3c1e10bc7c2c5abf6bc73de70ff6d",
+      "btih": "312e01f1da9bd128bfe5eba3867bdcbe27c7b934",
+      "mtime": "1657309991",
+      "size": "12533",
+      "md5": "927ad7046162af04873fbd430b498eef",
+      "crc32": "cd6fc427",
+      "sha1": "bc53627094ae64e9532781be6108a6d067211574",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sacbee_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c141130226e96305d8cee1ab74a4e0d8",
+      "md5": "da4608fdd4488aff3769ee49435acdce",
       "summation": "md5"
     },
     {
@@ -589,9 +600,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 56,
-  "item_last_updated": 1657303888,
-  "item_size": 1226520,
+  "files_count": 57,
+  "item_last_updated": 1657309991,
+  "item_size": 1236321,
   "metadata": {
     "identifier": "sacbee_news-2022",
     "collection": [
@@ -608,21 +619,10 @@
     "publicdate": "2022-06-24 23:00:30",
     "addeddate": "2022-06-24 23:00:30"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3325239533,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1946003394,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1105888565,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1657304292,
+  "created": 1657309977,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/verge-2022",
@@ -2063,21 +2063,32 @@
       "rotation": "0"
     },
     {
+      "name": "verge-2022-07-08T14:15:03.936731-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verge-2022-07-08T14:15:03.936731-04:00.jpg",
+      "mtime": "1657309946",
+      "size": "12253",
+      "md5": "08af752a63acc1042b8667f522498cea",
+      "crc32": "a490e090",
+      "sha1": "a0b61e921414e8b8a65d5f73e2b2d0cdfd59dc7d"
+    },
+    {
       "name": "verge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "644d1c7b13b61e9fa480fbbd2f8b498aa3e48ef4",
-      "mtime": "1657304277",
-      "size": "42301",
-      "md5": "9978254b41dc435bb6386ba670b042b7",
-      "crc32": "2557e0cd",
-      "sha1": "1fcc26ed3bda99de642a6f489807edd1d65a5775",
+      "btih": "fd60aaf8feb5c41469dd106e8eac04658c1e5b0a",
+      "mtime": "1657309957",
+      "size": "42503",
+      "md5": "29d4df23fc8ae1520dca493d9cc6b889",
+      "crc32": "7706482e",
+      "sha1": "c86dd527eb9bf9252c8a5a38cb4af3c4ef1a303d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "verge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6ae2b6119c8046a2a205d40f9bf20365",
+      "md5": "9c9e2118c90a9979094c6c762d3ec0e1",
       "summation": "md5"
     },
     {
@@ -2101,9 +2112,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 200,
-  "item_last_updated": 1657304277,
-  "item_size": 22007169,
+  "files_count": 201,
+  "item_last_updated": 1657309957,
+  "item_size": 22019624,
   "metadata": {
     "identifier": "verge-2022",
     "collection": [
@@ -2120,21 +2131,10 @@
     "publicdate": "2022-06-24 23:03:27",
     "addeddate": "2022-06-24 23:03:27"
   },
-  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3325244087,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 101556566,
+  "uniq": 947338571,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

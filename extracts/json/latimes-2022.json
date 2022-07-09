@@ -1,5 +1,5 @@
 {
-  "created": 1657309153,
+  "created": 1657309824,
   "d1": "ia903007.us.archive.org",
   "d2": "ia803007.us.archive.org",
   "dir": "/16/items/latimes-2022",
@@ -16691,21 +16691,32 @@
       "rotation": "0"
     },
     {
+      "name": "latimes-2022-07-08T11:09:51.461493-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-07-08T11:09:51.461493-07:00.jpg",
+      "mtime": "1657309707",
+      "size": "9462",
+      "md5": "c34504ffbc9eac7691a043f187cb3770",
+      "crc32": "a9862883",
+      "sha1": "8f9f727bb8e63030de3481f66fa5b469589933d9"
+    },
+    {
       "name": "latimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd8c1008b1b7e7479708a0f3eed0e351fc796f97",
-      "mtime": "1657303858",
-      "size": "335186",
-      "md5": "1e29171cc61a1324b9ea82738e3df4da",
-      "crc32": "edce096e",
-      "sha1": "353adb1be1cf0352b5b3313070def8ea95d08389",
+      "btih": "cce33cb4e549ddb0e38c0bb2d8fcc311b392d7a7",
+      "mtime": "1657309792",
+      "size": "335389",
+      "md5": "34df8f069ddafff8eccdfb7fd8bedde4",
+      "crc32": "e902f50d",
+      "sha1": "ef3f548864ee5bc125f14a4d403f3924c9285154",
       "format": "Archive BitTorrent"
     },
     {
       "name": "latimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fffe666cf96075a27a857deab30abf60",
+      "md5": "41f2c58175c444fe6800cf3a809199f7",
       "summation": "md5"
     },
     {
@@ -16729,9 +16740,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1590,
-  "item_last_updated": 1657303858,
-  "item_size": 183837211,
+  "files_count": 1591,
+  "item_last_updated": 1657309792,
+  "item_size": 183846876,
   "metadata": {
     "identifier": "latimes-2022",
     "collection": [
@@ -16748,21 +16759,10 @@
     "publicdate": "2022-03-22 20:29:38",
     "addeddate": "2022-03-22 20:29:38"
   },
-  "pending_tasks": true,
   "server": "ia903007.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3325239100,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1109289937,
+  "uniq": 1587289691,
   "workable_servers": [
-    "ia903007.us.archive.org"
+    "ia903007.us.archive.org",
+    "ia803007.us.archive.org"
   ]
 }
