@@ -1,4 +1,3 @@
-import json
 import tempfile
 import time
 import typing
@@ -27,21 +26,6 @@ def shoot(handle: str, output_dir: str, wait: str):
     """Screenshot a single source."""
     site = utils.get_site(handle)
     _screenshot(site, output_dir, wait=int(wait))
-
-
-@cli.command()
-@click.option("-b", "--bundle", "bundle", default=None)
-def get_handle_json(bundle):
-    """Write out a list of site handles as a JSON list.
-
-    Used by our GitHub Action to set a matrix of all sites.
-    """
-    if bundle:
-        site_list = utils.get_sites_in_bundle(bundle)
-    else:
-        site_list = utils.get_site_list()
-    handle_list = [s["handle"] for s in site_list]
-    json.dump(handle_list, open("handles.json", "w"), indent=2)
 
 
 def _screenshot(site: typing.Dict, output_dir: str, wait: int = 5000):
