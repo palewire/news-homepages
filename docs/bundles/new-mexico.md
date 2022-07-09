@@ -17,6 +17,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Albuquerque Journal"
      loading="lazy">
  </a>
+ <p><a href="../sites/abqjournal.html">Albuquerque Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Las Cruces Sun News"
      loading="lazy">
  </a>
+ <p><a href="../sites/crucessunnews.html">Las Cruces Sun News</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Source New Mexico"
      loading="lazy">
  </a>
+ <p><a href="../sites/source_nm.html">Source New Mexico</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Santa Fe New Mexican"
      loading="lazy">
  </a>
+ <p><a href="../sites/thenewmexican.html">Santa Fe New Mexican</a></p>
 </div>
 
 </div>

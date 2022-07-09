@@ -17,6 +17,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="Columbia Missourian"
      loading="lazy">
  </a>
+ <p><a href="../sites/comissourian.html">Columbia Missourian</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="John Combest"
      loading="lazy">
  </a>
+ <p><a href="../sites/johncombest.html">John Combest</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="Joplin Globe"
      loading="lazy">
  </a>
+ <p><a href="../sites/joplinglobe.html">Joplin Globe</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="Kansas City Star"
      loading="lazy">
  </a>
+ <p><a href="../sites/kcstar.html">Kansas City Star</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="KOMU"
      loading="lazy">
  </a>
+ <p><a href="../sites/komunews.html">KOMU</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="Missouri Independent"
      loading="lazy">
  </a>
+ <p><a href="../sites/mo_independent.html">Missouri Independent</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="St. Joseph News Press"
      loading="lazy">
  </a>
+ <p><a href="../sites/newspressnow.html">St. Joseph News Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="Jefferson City News Tribune"
      loading="lazy">
  </a>
+ <p><a href="../sites/newstribune.html">Jefferson City News Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="St. Louis Post-Dispatch"
      loading="lazy">
  </a>
+ <p><a href="../sites/stltoday.html">St. Louis Post-Dispatch</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="Kansas City Defender"
      loading="lazy">
  </a>
+ <p><a href="../sites/kcdefender.html">Kansas City Defender</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="KCUR"
      loading="lazy">
  </a>
+ <p><a href="../sites/kcur.html">KCUR</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="Springfield Daily Citizen"
      loading="lazy">
  </a>
+ <p><a href="../sites/sgfcitizen.html">Springfield Daily Citizen</a></p>
 </div>
 
 <div class="latest-child">
@@ -113,6 +125,7 @@ The most recent homepages from 13 news sites in this bundle.
      alt="St. Louis Public Radio"
      loading="lazy">
  </a>
+ <p><a href="../sites/stlpublicradio.html">St. Louis Public Radio</a></p>
 </div>
 
 </div>

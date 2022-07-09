@@ -17,6 +17,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Daily Record"
      loading="lazy">
  </a>
+ <p><a href="../sites/daily_record.html">Daily Record</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Daily Herald"
      loading="lazy">
  </a>
+ <p><a href="../sites/heraldscotland.html">Daily Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="National"
      loading="lazy">
  </a>
+ <p><a href="../sites/scotnational.html">National</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Scotsman"
      loading="lazy">
  </a>
+ <p><a href="../sites/thescotsman.html">Scotsman</a></p>
 </div>
 
 </div>

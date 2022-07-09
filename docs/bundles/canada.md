@@ -17,6 +17,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="Calgary Herald"
      loading="lazy">
  </a>
+ <p><a href="../sites/calgaryherald.html">Calgary Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="CBC News"
      loading="lazy">
  </a>
+ <p><a href="../sites/cbcnews.html">CBC News</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="CTV News"
      loading="lazy">
  </a>
+ <p><a href="../sites/ctvnews.html">CTV News</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="Financial Post"
      loading="lazy">
  </a>
+ <p><a href="../sites/financialpost.html">Financial Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="The Georgia Straight"
      loading="lazy">
  </a>
+ <p><a href="../sites/georgiastraight.html">The Georgia Straight</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="Global News"
      loading="lazy">
  </a>
+ <p><a href="../sites/globalnews.html">Global News</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="The Globe and Mail"
      loading="lazy">
  </a>
+ <p><a href="../sites/globeandmail.html">The Globe and Mail</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="La Journal de Montréal"
      loading="lazy">
  </a>
+ <p><a href="../sites/jdemontreal.html">La Journal de Montréal</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="Le Devoir"
      loading="lazy">
  </a>
+ <p><a href="../sites/ledevoir.html">Le Devoir</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="La Presse"
      loading="lazy">
  </a>
+ <p><a href="../sites/lp_lapresse.html">La Presse</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="Montreal Gazette"
      loading="lazy">
  </a>
+ <p><a href="../sites/mtlgazette.html">Montreal Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="National Post"
      loading="lazy">
  </a>
+ <p><a href="../sites/nationalpost.html">National Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -113,6 +125,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="Ottawa Citizen"
      loading="lazy">
  </a>
+ <p><a href="../sites/ottawacitizen.html">Ottawa Citizen</a></p>
 </div>
 
 <div class="latest-child">
@@ -121,6 +134,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="The Hill Times"
      loading="lazy">
  </a>
+ <p><a href="../sites/thehilltimes.html">The Hill Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -129,6 +143,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="Toronto Sun"
      loading="lazy">
  </a>
+ <p><a href="../sites/thetorontosun.html">Toronto Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -137,6 +152,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="Toronto Star"
      loading="lazy">
  </a>
+ <p><a href="../sites/torontostar.html">Toronto Star</a></p>
 </div>
 
 <div class="latest-child">
@@ -145,6 +161,7 @@ The most recent homepages from 17 news sites in this bundle.
      alt="Vancouver Sun"
      loading="lazy">
  </a>
+ <p><a href="../sites/vancouversun.html">Vancouver Sun</a></p>
 </div>
 
 </div>

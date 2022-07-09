@@ -17,6 +17,7 @@ The most recent homepages from 8 news sites in this bundle.
      alt="Asahi Shimbun"
      loading="lazy">
  </a>
+ <p><a href="../sites/asahi.html">Asahi Shimbun</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 8 news sites in this bundle.
      alt="Yomiuri shinbun"
      loading="lazy">
  </a>
+ <p><a href="../sites/jn_japanese.html">Yomiuri shinbun</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 8 news sites in this bundle.
      alt="Nikkei"
      loading="lazy">
  </a>
+ <p><a href="../sites/nikkei.html">Nikkei</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 8 news sites in this bundle.
      alt="Sankei Shimbun"
      loading="lazy">
  </a>
+ <p><a href="../sites/sankei_news.html">Sankei Shimbun</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 8 news sites in this bundle.
      alt="Jijji"
      loading="lazy">
  </a>
+ <p><a href="../sites/jijicom.html">Jijji</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 8 news sites in this bundle.
      alt="Seikyo Shimbun"
      loading="lazy">
  </a>
+ <p><a href="../sites/seikyoofficial.html">Seikyo Shimbun</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 8 news sites in this bundle.
      alt="Chunichi Shimbun"
      loading="lazy">
  </a>
+ <p><a href="../sites/chunichi_denhen.html">Chunichi Shimbun</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 8 news sites in this bundle.
      alt="NHK"
      loading="lazy">
  </a>
+ <p><a href="../sites/nhk_news.html">NHK</a></p>
 </div>
 
 </div>

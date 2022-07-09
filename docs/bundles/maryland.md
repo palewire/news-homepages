@@ -17,6 +17,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="The Baltimore Sun"
      loading="lazy">
  </a>
+ <p><a href="../sites/baltimoresun.html">The Baltimore Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Frederick News-Post"
      loading="lazy">
  </a>
+ <p><a href="../sites/frednewspost.html">Frederick News-Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Maryland Matters"
      loading="lazy">
  </a>
+ <p><a href="../sites/marylandmatters.html">Maryland Matters</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="The Diamondback"
      loading="lazy">
  </a>
+ <p><a href="../sites/thedbk.html">The Diamondback</a></p>
 </div>
 
 </div>

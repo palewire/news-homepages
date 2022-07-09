@@ -17,6 +17,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="The Berkeleyside"
      loading="lazy">
  </a>
+ <p><a href="../sites/berkeleyside.html">The Berkeleyside</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="East Bay Times"
      loading="lazy">
  </a>
+ <p><a href="../sites/eastbaytimes.html">East Bay Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="Mercury News"
      loading="lazy">
  </a>
+ <p><a href="../sites/mercnews.html">Mercury News</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="NBC Bay Area"
      loading="lazy">
  </a>
+ <p><a href="../sites/nbcbayarea.html">NBC Bay Area</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="The Oaklandside"
      loading="lazy">
  </a>
+ <p><a href="../sites/oaklandside.html">The Oaklandside</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="Peninsula Press"
      loading="lazy">
  </a>
+ <p><a href="../sites/peninsupress.html">Peninsula Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="Point Reyes Light"
      loading="lazy">
  </a>
+ <p><a href="../sites/pointreyeslight.html">Point Reyes Light</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="Sacramento Bee"
      loading="lazy">
  </a>
+ <p><a href="../sites/sacbee_news.html">Sacramento Bee</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="San Francisco Chronicle"
      loading="lazy">
  </a>
+ <p><a href="../sites/sfchronicle.html">San Francisco Chronicle</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="Bay Nature"
      loading="lazy">
  </a>
+ <p><a href="../sites/baynature.html">Bay Nature</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="El Tímpano"
      loading="lazy">
  </a>
+ <p><a href="../sites/el_timpano.html">El Tímpano</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="Local News Matters"
      loading="lazy">
  </a>
+ <p><a href="../sites/bcn_foundation.html">Local News Matters</a></p>
 </div>
 
 <div class="latest-child">
@@ -113,6 +125,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="Mission Local"
      loading="lazy">
  </a>
+ <p><a href="../sites/mlnow.html">Mission Local</a></p>
 </div>
 
 <div class="latest-child">
@@ -121,6 +134,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="Open Vallejo"
      loading="lazy">
  </a>
+ <p><a href="../sites/openvallejo.html">Open Vallejo</a></p>
 </div>
 
 <div class="latest-child">
@@ -129,6 +143,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="San José Spotlight"
      loading="lazy">
  </a>
+ <p><a href="../sites/sjspotlight.html">San José Spotlight</a></p>
 </div>
 
 <div class="latest-child">
@@ -137,6 +152,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="Voices of Monterey Bay"
      loading="lazy">
  </a>
+ <p><a href="../sites/voicesofbay.html">Voices of Monterey Bay</a></p>
 </div>
 
 <div class="latest-child">
@@ -145,6 +161,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="Lookout Santa Cruz"
      loading="lazy">
  </a>
+ <p><a href="../sites/lookoutscruz.html">Lookout Santa Cruz</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,6 +170,7 @@ The most recent homepages from 18 news sites in this bundle.
      alt="Santa Cruz Sentinel"
      loading="lazy">
  </a>
+ <p><a href="../sites/scsentinel.html">Santa Cruz Sentinel</a></p>
 </div>
 
 </div>

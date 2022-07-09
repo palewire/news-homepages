@@ -13,6 +13,7 @@ The most recent homepages captured from 414 news sites.
      alt="100 Days in Appalachia"
      loading="lazy">
  </a>
+ <p><a href="./sites/appalachia100.html">100 Days in Appalachia</a></p>
 </div>
 
 <div class="latest-child">
@@ -21,6 +22,7 @@ The most recent homepages captured from 414 news sites.
      alt="100Reporters"
      loading="lazy">
  </a>
+ <p><a href="./sites/100reporters.html">100Reporters</a></p>
 </div>
 
 <div class="latest-child">
@@ -29,6 +31,7 @@ The most recent homepages captured from 414 news sites.
      alt="14 East"
      loading="lazy">
  </a>
+ <p><a href="./sites/14eastmag.html">14 East</a></p>
 </div>
 
 <div class="latest-child">
@@ -37,6 +40,7 @@ The most recent homepages captured from 414 news sites.
      alt="19th"
      loading="lazy">
  </a>
+ <p><a href="./sites/19thnews.html">19th</a></p>
 </div>
 
 <div class="latest-child">
@@ -45,6 +49,7 @@ The most recent homepages captured from 414 news sites.
      alt="20 Minutes"
      loading="lazy">
  </a>
+ <p><a href="./sites/20minutes.html">20 Minutes</a></p>
 </div>
 
 <div class="latest-child">
@@ -53,6 +58,7 @@ The most recent homepages captured from 414 news sites.
      alt="6abc"
      loading="lazy">
  </a>
+ <p><a href="./sites/6abc.html">6abc</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,6 +67,7 @@ The most recent homepages captured from 414 news sites.
      alt="74th"
      loading="lazy">
  </a>
+ <p><a href="./sites/the74.html">74th</a></p>
 </div>
 
 <div class="latest-child">
@@ -69,6 +76,7 @@ The most recent homepages captured from 414 news sites.
      alt="ABC News"
      loading="lazy">
  </a>
+ <p><a href="./sites/abc.html">ABC News</a></p>
 </div>
 
 <div class="latest-child">
@@ -77,6 +85,7 @@ The most recent homepages captured from 414 news sites.
      alt="ABC7"
      loading="lazy">
  </a>
+ <p><a href="./sites/abc7.html">ABC7</a></p>
 </div>
 
 <div class="latest-child">
@@ -85,6 +94,7 @@ The most recent homepages captured from 414 news sites.
      alt="Al Jazeera English"
      loading="lazy">
  </a>
+ <p><a href="./sites/ajenglish.html">Al Jazeera English</a></p>
 </div>
 
 <div class="latest-child">
@@ -93,6 +103,7 @@ The most recent homepages captured from 414 news sites.
      alt="Albuquerque Journal"
      loading="lazy">
  </a>
+ <p><a href="./sites/abqjournal.html">Albuquerque Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -101,6 +112,7 @@ The most recent homepages captured from 414 news sites.
      alt="Alligator"
      loading="lazy">
  </a>
+ <p><a href="./sites/thealligator.html">Alligator</a></p>
 </div>
 
 <div class="latest-child">
@@ -109,6 +121,7 @@ The most recent homepages captured from 414 news sites.
      alt="Ames Tribune"
      loading="lazy">
  </a>
+ <p><a href="./sites/amestribnews.html">Ames Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -117,6 +130,7 @@ The most recent homepages captured from 414 news sites.
      alt="Animal Político"
      loading="lazy">
  </a>
+ <p><a href="./sites/pajaropolitico.html">Animal Político</a></p>
 </div>
 
 <div class="latest-child">
@@ -125,6 +139,7 @@ The most recent homepages captured from 414 news sites.
      alt="APM Reports"
      loading="lazy">
  </a>
+ <p><a href="./sites/apmreports.html">APM Reports</a></p>
 </div>
 
 <div class="latest-child">
@@ -133,6 +148,7 @@ The most recent homepages captured from 414 news sites.
      alt="Appleton Post Crescent"
      loading="lazy">
  </a>
+ <p><a href="./sites/postcrescent.html">Appleton Post Crescent</a></p>
 </div>
 
 <div class="latest-child">
@@ -141,6 +157,7 @@ The most recent homepages captured from 414 news sites.
      alt="Arizona Center for Investigative Reporting"
      loading="lazy">
  </a>
+ <p><a href="./sites/arizcir.html">Arizona Center for Investigative Reporting</a></p>
 </div>
 
 <div class="latest-child">
@@ -149,6 +166,7 @@ The most recent homepages captured from 414 news sites.
      alt="Arizona Daily Star"
      loading="lazy">
  </a>
+ <p><a href="./sites/tucsonstar.html">Arizona Daily Star</a></p>
 </div>
 
 <div class="latest-child">
@@ -157,6 +175,7 @@ The most recent homepages captured from 414 news sites.
      alt="Arizona Daily Sun"
      loading="lazy">
  </a>
+ <p><a href="./sites/azds.html">Arizona Daily Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -165,6 +184,7 @@ The most recent homepages captured from 414 news sites.
      alt="Arizona Republic"
      loading="lazy">
  </a>
+ <p><a href="./sites/azcentral.html">Arizona Republic</a></p>
 </div>
 
 <div class="latest-child">
@@ -173,6 +193,7 @@ The most recent homepages captured from 414 news sites.
      alt="Arkansas Nonprofit News Network"
      loading="lazy">
  </a>
+ <p><a href="./sites/arknewsorg.html">Arkansas Nonprofit News Network</a></p>
 </div>
 
 <div class="latest-child">
@@ -181,6 +202,7 @@ The most recent homepages captured from 414 news sites.
      alt="Ars Technica"
      loading="lazy">
  </a>
+ <p><a href="./sites/arstechnica.html">Ars Technica</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,6 +211,7 @@ The most recent homepages captured from 414 news sites.
      alt="Asahi Shimbun"
      loading="lazy">
  </a>
+ <p><a href="./sites/asahi.html">Asahi Shimbun</a></p>
 </div>
 
 <div class="latest-child">
@@ -197,6 +220,7 @@ The most recent homepages captured from 414 news sites.
      alt="Asheville Watchdog"
      loading="lazy">
  </a>
+ <p><a href="./sites/avlwatchdog.html">Asheville Watchdog</a></p>
 </div>
 
 <div class="latest-child">
@@ -205,6 +229,7 @@ The most recent homepages captured from 414 news sites.
      alt="Ashland.news"
      loading="lazy">
  </a>
+ <p><a href="./sites/ashlandornews.html">Ashland.news</a></p>
 </div>
 
 <div class="latest-child">
@@ -213,6 +238,7 @@ The most recent homepages captured from 414 news sites.
      alt="Aspen Journalism"
      loading="lazy">
  </a>
+ <p><a href="./sites/aspenjournalism.html">Aspen Journalism</a></p>
 </div>
 
 <div class="latest-child">
@@ -221,6 +247,7 @@ The most recent homepages captured from 414 news sites.
      alt="Associated Press"
      loading="lazy">
  </a>
+ <p><a href="./sites/ap.html">Associated Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -229,6 +256,7 @@ The most recent homepages captured from 414 news sites.
      alt="Atlanta Civic Circle"
      loading="lazy">
  </a>
+ <p><a href="./sites/atlciviccircle.html">Atlanta Civic Circle</a></p>
 </div>
 
 <div class="latest-child">
@@ -237,6 +265,7 @@ The most recent homepages captured from 414 news sites.
      alt="Atlantic"
      loading="lazy">
  </a>
+ <p><a href="./sites/theatlantic.html">Atlantic</a></p>
 </div>
 
 <div class="latest-child">
@@ -245,6 +274,7 @@ The most recent homepages captured from 414 news sites.
      alt="Austin Weekly News"
      loading="lazy">
  </a>
+ <p><a href="./sites/gcm_nf.html">Austin Weekly News</a></p>
 </div>
 
 <div class="latest-child">
@@ -253,6 +283,7 @@ The most recent homepages captured from 414 news sites.
      alt="Axios"
      loading="lazy">
  </a>
+ <p><a href="./sites/axios.html">Axios</a></p>
 </div>
 
 <div class="latest-child">
@@ -261,6 +292,7 @@ The most recent homepages captured from 414 news sites.
      alt="Badger Project"
      loading="lazy">
  </a>
+ <p><a href="./sites/badger_project_.html">Badger Project</a></p>
 </div>
 
 <div class="latest-child">
@@ -269,6 +301,7 @@ The most recent homepages captured from 414 news sites.
      alt="Bakersfield Californian"
      loading="lazy">
  </a>
+ <p><a href="./sites/bakersfieldcali.html">Bakersfield Californian</a></p>
 </div>
 
 <div class="latest-child">
@@ -277,6 +310,7 @@ The most recent homepages captured from 414 news sites.
      alt="Baltimore Banner"
      loading="lazy">
  </a>
+ <p><a href="./sites/baltimorebanner.html">Baltimore Banner</a></p>
 </div>
 
 <div class="latest-child">
@@ -285,6 +319,7 @@ The most recent homepages captured from 414 news sites.
      alt="Bay Nature"
      loading="lazy">
  </a>
+ <p><a href="./sites/baynature.html">Bay Nature</a></p>
 </div>
 
 <div class="latest-child">
@@ -293,6 +328,7 @@ The most recent homepages captured from 414 news sites.
      alt="BBC"
      loading="lazy">
  </a>
+ <p><a href="./sites/bbc.html">BBC</a></p>
 </div>
 
 <div class="latest-child">
@@ -301,6 +337,7 @@ The most recent homepages captured from 414 news sites.
      alt="Belt Magazine"
      loading="lazy">
  </a>
+ <p><a href="./sites/belt_magazine.html">Belt Magazine</a></p>
 </div>
 
 <div class="latest-child">
@@ -309,6 +346,7 @@ The most recent homepages captured from 414 news sites.
      alt="Better Government Association"
      loading="lazy">
  </a>
+ <p><a href="./sites/bettergov.html">Better Government Association</a></p>
 </div>
 
 <div class="latest-child">
@@ -317,6 +355,7 @@ The most recent homepages captured from 414 news sites.
      alt="Billy Penn"
      loading="lazy">
  </a>
+ <p><a href="./sites/billy_penn.html">Billy Penn</a></p>
 </div>
 
 <div class="latest-child">
@@ -325,6 +364,7 @@ The most recent homepages captured from 414 news sites.
      alt="BirminghamWatch"
      loading="lazy">
  </a>
+ <p><a href="./sites/bhamwatch.html">BirminghamWatch</a></p>
 </div>
 
 <div class="latest-child">
@@ -333,6 +373,7 @@ The most recent homepages captured from 414 news sites.
      alt="Bklyner"
      loading="lazy">
  </a>
+ <p><a href="./sites/bklyner.html">Bklyner</a></p>
 </div>
 
 <div class="latest-child">
@@ -341,6 +382,7 @@ The most recent homepages captured from 414 news sites.
      alt="Blaze"
      loading="lazy">
  </a>
+ <p><a href="./sites/theblaze.html">Blaze</a></p>
 </div>
 
 <div class="latest-child">
@@ -349,6 +391,7 @@ The most recent homepages captured from 414 news sites.
      alt="Bleacher Report"
      loading="lazy">
  </a>
+ <p><a href="./sites/bleacherreport.html">Bleacher Report</a></p>
 </div>
 
 <div class="latest-child">
@@ -357,6 +400,7 @@ The most recent homepages captured from 414 news sites.
      alt="Block Club Chicago"
      loading="lazy">
  </a>
+ <p><a href="./sites/blockclubchi.html">Block Club Chicago</a></p>
 </div>
 
 <div class="latest-child">
@@ -365,6 +409,7 @@ The most recent homepages captured from 414 news sites.
      alt="Bloomberg"
      loading="lazy">
  </a>
+ <p><a href="./sites/business.html">Bloomberg</a></p>
 </div>
 
 <div class="latest-child">
@@ -373,6 +418,7 @@ The most recent homepages captured from 414 news sites.
      alt="Boing Boing"
      loading="lazy">
  </a>
+ <p><a href="./sites/boingboing.html">Boing Boing</a></p>
 </div>
 
 <div class="latest-child">
@@ -381,6 +427,7 @@ The most recent homepages captured from 414 news sites.
      alt="Bon Appetit"
      loading="lazy">
  </a>
+ <p><a href="./sites/bonappetit.html">Bon Appetit</a></p>
 </div>
 
 <div class="latest-child">
@@ -389,6 +436,7 @@ The most recent homepages captured from 414 news sites.
      alt="Bongino Report"
      loading="lazy">
  </a>
+ <p><a href="./sites/bonginoreport.html">Bongino Report</a></p>
 </div>
 
 <div class="latest-child">
@@ -397,6 +445,7 @@ The most recent homepages captured from 414 news sites.
      alt="Boston Globe"
      loading="lazy">
  </a>
+ <p><a href="./sites/bostonglobe.html">Boston Globe</a></p>
 </div>
 
 <div class="latest-child">
@@ -405,6 +454,7 @@ The most recent homepages captured from 414 news sites.
      alt="Boston Institute for Nonprofit Journalism"
      loading="lazy">
  </a>
+ <p><a href="./sites/binjreports.html">Boston Institute for Nonprofit Journalism</a></p>
 </div>
 
 <div class="latest-child">
@@ -413,6 +463,7 @@ The most recent homepages captured from 414 news sites.
      alt="Breckenridge Texan"
      loading="lazy">
  </a>
+ <p><a href="./sites/brecktexan.html">Breckenridge Texan</a></p>
 </div>
 
 <div class="latest-child">
@@ -421,6 +472,7 @@ The most recent homepages captured from 414 news sites.
      alt="Breitbart"
      loading="lazy">
  </a>
+ <p><a href="./sites/breitbartnews.html">Breitbart</a></p>
 </div>
 
 <div class="latest-child">
@@ -429,6 +481,7 @@ The most recent homepages captured from 414 news sites.
      alt="Bucks County Herald"
      loading="lazy">
  </a>
+ <p><a href="./sites/buckscoherald.html">Bucks County Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -437,6 +490,7 @@ The most recent homepages captured from 414 news sites.
      alt="Buzzfeed News"
      loading="lazy">
  </a>
+ <p><a href="./sites/buzzfeednews.html">Buzzfeed News</a></p>
 </div>
 
 <div class="latest-child">
@@ -445,6 +499,7 @@ The most recent homepages captured from 414 news sites.
      alt="Calgary Herald"
      loading="lazy">
  </a>
+ <p><a href="./sites/calgaryherald.html">Calgary Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -453,6 +508,7 @@ The most recent homepages captured from 414 news sites.
      alt="Canopy Atlanta"
      loading="lazy">
  </a>
+ <p><a href="./sites/canopyatl.html">Canopy Atlanta</a></p>
 </div>
 
 <div class="latest-child">
@@ -461,6 +517,7 @@ The most recent homepages captured from 414 news sites.
      alt="Capital Gazette"
      loading="lazy">
  </a>
+ <p><a href="./sites/capgaznews.html">Capital Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -469,6 +526,7 @@ The most recent homepages captured from 414 news sites.
      alt="Capitol News Illinois"
      loading="lazy">
  </a>
+ <p><a href="./sites/capitolnewsil.html">Capitol News Illinois</a></p>
 </div>
 
 <div class="latest-child">
@@ -477,6 +535,7 @@ The most recent homepages captured from 414 news sites.
      alt="Carolina Public Press"
      loading="lazy">
  </a>
+ <p><a href="./sites/cpublicpress.html">Carolina Public Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -485,6 +544,7 @@ The most recent homepages captured from 414 news sites.
      alt="CBC News"
      loading="lazy">
  </a>
+ <p><a href="./sites/cbcnews.html">CBC News</a></p>
 </div>
 
 <div class="latest-child">
@@ -493,6 +553,7 @@ The most recent homepages captured from 414 news sites.
      alt="CBS 17"
      loading="lazy">
  </a>
+ <p><a href="./sites/wncn.html">CBS 17</a></p>
 </div>
 
 <div class="latest-child">
@@ -501,6 +562,7 @@ The most recent homepages captured from 414 news sites.
      alt="CBS News"
      loading="lazy">
  </a>
+ <p><a href="./sites/cbsnews.html">CBS News</a></p>
 </div>
 
 <div class="latest-child">
@@ -509,6 +571,7 @@ The most recent homepages captured from 414 news sites.
      alt="Cedar Rapids Gazette"
      loading="lazy">
  </a>
+ <p><a href="./sites/gazettedotcom.html">Cedar Rapids Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -517,6 +580,7 @@ The most recent homepages captured from 414 news sites.
      alt="Center for Public Integrity"
      loading="lazy">
  </a>
+ <p><a href="./sites/publicintegrity.html">Center for Public Integrity</a></p>
 </div>
 
 <div class="latest-child">
@@ -525,6 +589,7 @@ The most recent homepages captured from 414 news sites.
      alt="Central Oregon Daily"
      loading="lazy">
  </a>
+ <p><a href="./sites/codaily.html">Central Oregon Daily</a></p>
 </div>
 
 <div class="latest-child">
@@ -533,6 +598,7 @@ The most recent homepages captured from 414 news sites.
      alt="Centro de Periodismo Investigativo"
      loading="lazy">
  </a>
+ <p><a href="./sites/cpipr.html">Centro de Periodismo Investigativo</a></p>
 </div>
 
 <div class="latest-child">
@@ -541,6 +607,7 @@ The most recent homepages captured from 414 news sites.
      alt="Chequeado"
      loading="lazy">
  </a>
+ <p><a href="./sites/chequeado.html">Chequeado</a></p>
 </div>
 
 <div class="latest-child">
@@ -549,6 +616,7 @@ The most recent homepages captured from 414 news sites.
      alt="Chesapeake Bay Journal"
      loading="lazy">
  </a>
+ <p><a href="./sites/chesbayjournal.html">Chesapeake Bay Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -557,6 +625,7 @@ The most recent homepages captured from 414 news sites.
      alt="Chicago Reader"
      loading="lazy">
  </a>
+ <p><a href="./sites/chicago_reader.html">Chicago Reader</a></p>
 </div>
 
 <div class="latest-child">
@@ -565,6 +634,7 @@ The most recent homepages captured from 414 news sites.
      alt="Chicago Reporter"
      loading="lazy">
  </a>
+ <p><a href="./sites/chicagoreporter.html">Chicago Reporter</a></p>
 </div>
 
 <div class="latest-child">
@@ -573,6 +643,7 @@ The most recent homepages captured from 414 news sites.
      alt="Chicago Sun-Times"
      loading="lazy">
  </a>
+ <p><a href="./sites/suntimes.html">Chicago Sun-Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -581,6 +652,7 @@ The most recent homepages captured from 414 news sites.
      alt="Chicago Tribune"
      loading="lazy">
  </a>
+ <p><a href="./sites/chicagotribune.html">Chicago Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -589,6 +661,7 @@ The most recent homepages captured from 414 news sites.
      alt="Chunichi Shimbun"
      loading="lazy">
  </a>
+ <p><a href="./sites/chunichi_denhen.html">Chunichi Shimbun</a></p>
 </div>
 
 <div class="latest-child">
@@ -597,6 +670,7 @@ The most recent homepages captured from 414 news sites.
      alt="Cicero Independiente"
      loading="lazy">
  </a>
+ <p><a href="./sites/ciceronoticias.html">Cicero Independiente</a></p>
 </div>
 
 <div class="latest-child">
@@ -605,6 +679,7 @@ The most recent homepages captured from 414 news sites.
      alt="City Limits"
      loading="lazy">
  </a>
+ <p><a href="./sites/citylimitsnews.html">City Limits</a></p>
 </div>
 
 <div class="latest-child">
@@ -613,6 +688,7 @@ The most recent homepages captured from 414 news sites.
      alt="CivicLex"
      loading="lazy">
  </a>
+ <p><a href="./sites/civic_lex.html">CivicLex</a></p>
 </div>
 
 <div class="latest-child">
@@ -621,6 +697,7 @@ The most recent homepages captured from 414 news sites.
      alt="Civio"
      loading="lazy">
  </a>
+ <p><a href="./sites/civio.html">Civio</a></p>
 </div>
 
 <div class="latest-child">
@@ -629,6 +706,7 @@ The most recent homepages captured from 414 news sites.
      alt="Clarion Ledger"
      loading="lazy">
  </a>
+ <p><a href="./sites/clarionledger.html">Clarion Ledger</a></p>
 </div>
 
 <div class="latest-child">
@@ -637,6 +715,7 @@ The most recent homepages captured from 414 news sites.
      alt="Clayton Crescent"
      loading="lazy">
  </a>
+ <p><a href="./sites/claytoncrescent.html">Clayton Crescent</a></p>
 </div>
 
 <div class="latest-child">
@@ -645,6 +724,7 @@ The most recent homepages captured from 414 news sites.
      alt="CNET"
      loading="lazy">
  </a>
+ <p><a href="./sites/cnet.html">CNET</a></p>
 </div>
 
 <div class="latest-child">
@@ -653,6 +733,7 @@ The most recent homepages captured from 414 news sites.
      alt="CNN"
      loading="lazy">
  </a>
+ <p><a href="./sites/cnn.html">CNN</a></p>
 </div>
 
 <div class="latest-child">
@@ -661,6 +742,7 @@ The most recent homepages captured from 414 news sites.
      alt="Colorado News Collaborative"
      loading="lazy">
  </a>
+ <p><a href="./sites/colabnewsco.html">Colorado News Collaborative</a></p>
 </div>
 
 <div class="latest-child">
@@ -669,6 +751,7 @@ The most recent homepages captured from 414 news sites.
      alt="Columbia Journalism Review"
      loading="lazy">
  </a>
+ <p><a href="./sites/cjr.html">Columbia Journalism Review</a></p>
 </div>
 
 <div class="latest-child">
@@ -677,6 +760,7 @@ The most recent homepages captured from 414 news sites.
      alt="Columbia Missourian"
      loading="lazy">
  </a>
+ <p><a href="./sites/comissourian.html">Columbia Missourian</a></p>
 </div>
 
 <div class="latest-child">
@@ -685,6 +769,7 @@ The most recent homepages captured from 414 news sites.
      alt="Connecticut Mirror"
      loading="lazy">
  </a>
+ <p><a href="./sites/ctmirror.html">Connecticut Mirror</a></p>
 </div>
 
 <div class="latest-child">
@@ -693,6 +778,7 @@ The most recent homepages captured from 414 news sites.
      alt="Conversation U.S."
      loading="lazy">
  </a>
+ <p><a href="./sites/conversationus.html">Conversation U.S.</a></p>
 </div>
 
 <div class="latest-child">
@@ -701,6 +787,7 @@ The most recent homepages captured from 414 news sites.
      alt="Cook Political Report"
      loading="lazy">
  </a>
+ <p><a href="./sites/cookpolitical.html">Cook Political Report</a></p>
 </div>
 
 <div class="latest-child">
@@ -709,6 +796,7 @@ The most recent homepages captured from 414 news sites.
      alt="CQ"
      loading="lazy">
  </a>
+ <p><a href="./sites/cqnow.html">CQ</a></p>
 </div>
 
 <div class="latest-child">
@@ -717,6 +805,7 @@ The most recent homepages captured from 414 news sites.
      alt="CTV News"
      loading="lazy">
  </a>
+ <p><a href="./sites/ctvnews.html">CTV News</a></p>
 </div>
 
 <div class="latest-child">
@@ -725,6 +814,7 @@ The most recent homepages captured from 414 news sites.
      alt="Curbed"
      loading="lazy">
  </a>
+ <p><a href="./sites/curbed.html">Curbed</a></p>
 </div>
 
 <div class="latest-child">
@@ -733,6 +823,7 @@ The most recent homepages captured from 414 news sites.
      alt="Daily Caller"
      loading="lazy">
  </a>
+ <p><a href="./sites/dailycaller.html">Daily Caller</a></p>
 </div>
 
 <div class="latest-child">
@@ -741,6 +832,7 @@ The most recent homepages captured from 414 news sites.
      alt="Daily Herald"
      loading="lazy">
  </a>
+ <p><a href="./sites/heraldscotland.html">Daily Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -749,6 +841,7 @@ The most recent homepages captured from 414 news sites.
      alt="Daily Mail"
      loading="lazy">
  </a>
+ <p><a href="./sites/mailonline.html">Daily Mail</a></p>
 </div>
 
 <div class="latest-child">
@@ -757,6 +850,7 @@ The most recent homepages captured from 414 news sites.
      alt="Daily Mirror"
      loading="lazy">
  </a>
+ <p><a href="./sites/dailymirror.html">Daily Mirror</a></p>
 </div>
 
 <div class="latest-child">
@@ -765,6 +859,7 @@ The most recent homepages captured from 414 news sites.
      alt="Daily News"
      loading="lazy">
  </a>
+ <p><a href="./sites/nydailynews.html">Daily News</a></p>
 </div>
 
 <div class="latest-child">
@@ -773,6 +868,7 @@ The most recent homepages captured from 414 news sites.
      alt="Daily Record"
      loading="lazy">
  </a>
+ <p><a href="./sites/daily_record.html">Daily Record</a></p>
 </div>
 
 <div class="latest-child">
@@ -781,6 +877,7 @@ The most recent homepages captured from 414 news sites.
      alt="Daily Tarheel"
      loading="lazy">
  </a>
+ <p><a href="./sites/dailytarheel.html">Daily Tarheel</a></p>
 </div>
 
 <div class="latest-child">
@@ -789,6 +886,7 @@ The most recent homepages captured from 414 news sites.
      alt="Daily Wire"
      loading="lazy">
  </a>
+ <p><a href="./sites/realdailywire.html">Daily Wire</a></p>
 </div>
 
 <div class="latest-child">
@@ -797,6 +895,7 @@ The most recent homepages captured from 414 news sites.
      alt="Daily Yonder"
      loading="lazy">
  </a>
+ <p><a href="./sites/dailyyonder.html">Daily Yonder</a></p>
 </div>
 
 <div class="latest-child">
@@ -805,6 +904,7 @@ The most recent homepages captured from 414 news sites.
      alt="Dallas Free Press"
      loading="lazy">
  </a>
+ <p><a href="./sites/dallasfreepress.html">Dallas Free Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -813,6 +913,7 @@ The most recent homepages captured from 414 news sites.
      alt="Dallas Morning News"
      loading="lazy">
  </a>
+ <p><a href="./sites/dallasnews.html">Dallas Morning News</a></p>
 </div>
 
 <div class="latest-child">
@@ -821,6 +922,7 @@ The most recent homepages captured from 414 news sites.
      alt="Deadspin"
      loading="lazy">
  </a>
+ <p><a href="./sites/deadspin.html">Deadspin</a></p>
 </div>
 
 <div class="latest-child">
@@ -829,6 +931,7 @@ The most recent homepages captured from 414 news sites.
      alt="Decision Desk HQ"
      loading="lazy">
  </a>
+ <p><a href="./sites/decisiondeskhq.html">Decision Desk HQ</a></p>
 </div>
 
 <div class="latest-child">
@@ -837,6 +940,7 @@ The most recent homepages captured from 414 news sites.
      alt="Defector"
      loading="lazy">
  </a>
+ <p><a href="./sites/defectormedia.html">Defector</a></p>
 </div>
 
 <div class="latest-child">
@@ -845,6 +949,7 @@ The most recent homepages captured from 414 news sites.
      alt="Delaware Public Media"
      loading="lazy">
  </a>
+ <p><a href="./sites/delawarepublic.html">Delaware Public Media</a></p>
 </div>
 
 <div class="latest-child">
@@ -853,6 +958,7 @@ The most recent homepages captured from 414 news sites.
      alt="Democracy Now"
      loading="lazy">
  </a>
+ <p><a href="./sites/democracynow.html">Democracy Now</a></p>
 </div>
 
 <div class="latest-child">
@@ -861,6 +967,7 @@ The most recent homepages captured from 414 news sites.
      alt="Des Moines Register"
      loading="lazy">
  </a>
+ <p><a href="./sites/dmregister.html">Des Moines Register</a></p>
 </div>
 
 <div class="latest-child">
@@ -869,6 +976,7 @@ The most recent homepages captured from 414 news sites.
      alt="Desert Oracle"
      loading="lazy">
  </a>
+ <p><a href="./sites/desert_oracle.html">Desert Oracle</a></p>
 </div>
 
 <div class="latest-child">
@@ -877,6 +985,7 @@ The most recent homepages captured from 414 news sites.
      alt="Discover"
      loading="lazy">
  </a>
+ <p><a href="./sites/discovermag.html">Discover</a></p>
 </div>
 
 <div class="latest-child">
@@ -885,6 +994,7 @@ The most recent homepages captured from 414 news sites.
      alt="Discovery"
      loading="lazy">
  </a>
+ <p><a href="./sites/discovery.html">Discovery</a></p>
 </div>
 
 <div class="latest-child">
@@ -893,6 +1003,7 @@ The most recent homepages captured from 414 news sites.
      alt="Documented"
      loading="lazy">
  </a>
+ <p><a href="./sites/documentedny.html">Documented</a></p>
 </div>
 
 <div class="latest-child">
@@ -901,6 +1012,7 @@ The most recent homepages captured from 414 news sites.
      alt="Door County Knock"
      loading="lazy">
  </a>
+ <p><a href="./sites/doorcountyknock.html">Door County Knock</a></p>
 </div>
 
 <div class="latest-child">
@@ -909,6 +1021,7 @@ The most recent homepages captured from 414 news sites.
      alt="Drudge Report"
      loading="lazy">
  </a>
+ <p><a href="./sites/drudge.html">Drudge Report</a></p>
 </div>
 
 <div class="latest-child">
@@ -917,6 +1030,7 @@ The most recent homepages captured from 414 news sites.
      alt="Dubuque Telegraph Herald"
      loading="lazy">
  </a>
+ <p><a href="./sites/telegraphherald.html">Dubuque Telegraph Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -925,6 +1039,7 @@ The most recent homepages captured from 414 news sites.
      alt="E!"
      loading="lazy">
  </a>
+ <p><a href="./sites/enews.html">E!</a></p>
 </div>
 
 <div class="latest-child">
@@ -933,6 +1048,7 @@ The most recent homepages captured from 414 news sites.
      alt="E&E News"
      loading="lazy">
  </a>
+ <p><a href="./sites/eenewsupdates.html">E&E News</a></p>
 </div>
 
 <div class="latest-child">
@@ -941,6 +1057,7 @@ The most recent homepages captured from 414 news sites.
      alt="East Bay Times"
      loading="lazy">
  </a>
+ <p><a href="./sites/eastbaytimes.html">East Bay Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -949,6 +1066,7 @@ The most recent homepages captured from 414 news sites.
      alt="East Lansing Info"
      loading="lazy">
  </a>
+ <p><a href="./sites/eastlansinginfo.html">East Lansing Info</a></p>
 </div>
 
 <div class="latest-child">
@@ -957,6 +1075,7 @@ The most recent homepages captured from 414 news sites.
      alt="Eater"
      loading="lazy">
  </a>
+ <p><a href="./sites/eater.html">Eater</a></p>
 </div>
 
 <div class="latest-child">
@@ -965,6 +1084,7 @@ The most recent homepages captured from 414 news sites.
      alt="Eau Claire Leader-Telegram"
      loading="lazy">
  </a>
+ <p><a href="./sites/leadertelegram.html">Eau Claire Leader-Telegram</a></p>
 </div>
 
 <div class="latest-child">
@@ -973,6 +1093,7 @@ The most recent homepages captured from 414 news sites.
      alt="Economist"
      loading="lazy">
  </a>
+ <p><a href="./sites/theeconomist.html">Economist</a></p>
 </div>
 
 <div class="latest-child">
@@ -981,6 +1102,7 @@ The most recent homepages captured from 414 news sites.
      alt="EdSource"
      loading="lazy">
  </a>
+ <p><a href="./sites/edsource.html">EdSource</a></p>
 </div>
 
 <div class="latest-child">
@@ -989,6 +1111,7 @@ The most recent homepages captured from 414 news sites.
      alt="El Pais"
      loading="lazy">
  </a>
+ <p><a href="./sites/elpaisuy.html">El Pais</a></p>
 </div>
 
 <div class="latest-child">
@@ -997,6 +1120,7 @@ The most recent homepages captured from 414 news sites.
      alt="El Tímpano"
      loading="lazy">
  </a>
+ <p><a href="./sites/el_timpano.html">El Tímpano</a></p>
 </div>
 
 <div class="latest-child">
@@ -1005,6 +1129,7 @@ The most recent homepages captured from 414 news sites.
      alt="El Universal"
      loading="lazy">
  </a>
+ <p><a href="./sites/el_universal_mx.html">El Universal</a></p>
 </div>
 
 <div class="latest-child">
@@ -1013,6 +1138,7 @@ The most recent homepages captured from 414 news sites.
      alt="Engadget"
      loading="lazy">
  </a>
+ <p><a href="./sites/engadget.html">Engadget</a></p>
 </div>
 
 <div class="latest-child">
@@ -1021,6 +1147,7 @@ The most recent homepages captured from 414 news sites.
      alt="ESPN"
      loading="lazy">
  </a>
+ <p><a href="./sites/espn.html">ESPN</a></p>
 </div>
 
 <div class="latest-child">
@@ -1029,6 +1156,7 @@ The most recent homepages captured from 414 news sites.
      alt="Evanston RoundTable"
      loading="lazy">
  </a>
+ <p><a href="./sites/evroundtable.html">Evanston RoundTable</a></p>
 </div>
 
 <div class="latest-child">
@@ -1037,6 +1165,7 @@ The most recent homepages captured from 414 news sites.
      alt="Evening Standard"
      loading="lazy">
  </a>
+ <p><a href="./sites/eveningstandard.html">Evening Standard</a></p>
 </div>
 
 <div class="latest-child">
@@ -1045,6 +1174,7 @@ The most recent homepages captured from 414 news sites.
      alt="Fast Company"
      loading="lazy">
  </a>
+ <p><a href="./sites/fastcompany.html">Fast Company</a></p>
 </div>
 
 <div class="latest-child">
@@ -1053,6 +1183,7 @@ The most recent homepages captured from 414 news sites.
      alt="Financial Post"
      loading="lazy">
  </a>
+ <p><a href="./sites/financialpost.html">Financial Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -1061,6 +1192,7 @@ The most recent homepages captured from 414 news sites.
      alt="Financial Times"
      loading="lazy">
  </a>
+ <p><a href="./sites/ft.html">Financial Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -1069,6 +1201,7 @@ The most recent homepages captured from 414 news sites.
      alt="FiveThirtyEight"
      loading="lazy">
  </a>
+ <p><a href="./sites/fivethirtyeight.html">FiveThirtyEight</a></p>
 </div>
 
 <div class="latest-child">
@@ -1077,6 +1210,7 @@ The most recent homepages captured from 414 news sites.
      alt="Flatwater Free Press"
      loading="lazy">
  </a>
+ <p><a href="./sites/flatwaterfreep.html">Flatwater Free Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -1085,6 +1219,7 @@ The most recent homepages captured from 414 news sites.
      alt="Flint Beat"
      loading="lazy">
  </a>
+ <p><a href="./sites/flintbeat.html">Flint Beat</a></p>
 </div>
 
 <div class="latest-child">
@@ -1093,6 +1228,7 @@ The most recent homepages captured from 414 news sites.
      alt="Florida Bulldog"
      loading="lazy">
  </a>
+ <p><a href="./sites/florida_bulldog.html">Florida Bulldog</a></p>
 </div>
 
 <div class="latest-child">
@@ -1101,6 +1237,7 @@ The most recent homepages captured from 414 news sites.
      alt="Florida Center for Investigative Reporting"
      loading="lazy">
  </a>
+ <p><a href="./sites/fcir.html">Florida Center for Investigative Reporting</a></p>
 </div>
 
 <div class="latest-child">
@@ -1109,6 +1246,7 @@ The most recent homepages captured from 414 news sites.
      alt="Florida Phoenix"
      loading="lazy">
  </a>
+ <p><a href="./sites/flphoenixnews.html">Florida Phoenix</a></p>
 </div>
 
 <div class="latest-child">
@@ -1117,6 +1255,7 @@ The most recent homepages captured from 414 news sites.
      alt="Foreign Policy"
      loading="lazy">
  </a>
+ <p><a href="./sites/foreignpolicy.html">Foreign Policy</a></p>
 </div>
 
 <div class="latest-child">
@@ -1125,6 +1264,7 @@ The most recent homepages captured from 414 news sites.
      alt="Fort Worth Report"
      loading="lazy">
  </a>
+ <p><a href="./sites/fortworthreport.html">Fort Worth Report</a></p>
 </div>
 
 <div class="latest-child">
@@ -1133,6 +1273,7 @@ The most recent homepages captured from 414 news sites.
      alt="Fortune"
      loading="lazy">
  </a>
+ <p><a href="./sites/fortunemagazine.html">Fortune</a></p>
 </div>
 
 <div class="latest-child">
@@ -1141,6 +1282,7 @@ The most recent homepages captured from 414 news sites.
      alt="FOX 11 Los Angeles"
      loading="lazy">
  </a>
+ <p><a href="./sites/foxla.html">FOX 11 Los Angeles</a></p>
 </div>
 
 <div class="latest-child">
@@ -1149,6 +1291,7 @@ The most recent homepages captured from 414 news sites.
      alt="Fox 12 Oregon"
      loading="lazy">
  </a>
+ <p><a href="./sites/fox12oregon.html">Fox 12 Oregon</a></p>
 </div>
 
 <div class="latest-child">
@@ -1157,6 +1300,7 @@ The most recent homepages captured from 414 news sites.
      alt="Fox News"
      loading="lazy">
  </a>
+ <p><a href="./sites/foxnews.html">Fox News</a></p>
 </div>
 
 <div class="latest-child">
@@ -1165,6 +1309,7 @@ The most recent homepages captured from 414 news sites.
      alt="Fox Sports"
      loading="lazy">
  </a>
+ <p><a href="./sites/foxsports.html">Fox Sports</a></p>
 </div>
 
 <div class="latest-child">
@@ -1173,6 +1318,7 @@ The most recent homepages captured from 414 news sites.
      alt="FOX29 Philly"
      loading="lazy">
  </a>
+ <p><a href="./sites/fox29philly.html">FOX29 Philly</a></p>
 </div>
 
 <div class="latest-child">
@@ -1181,6 +1327,7 @@ The most recent homepages captured from 414 news sites.
      alt="FRANCE 24"
      loading="lazy">
  </a>
+ <p><a href="./sites/france24.html">FRANCE 24</a></p>
 </div>
 
 <div class="latest-child">
@@ -1189,6 +1336,7 @@ The most recent homepages captured from 414 news sites.
      alt="France 24 English"
      loading="lazy">
  </a>
+ <p><a href="./sites/france24_en.html">France 24 English</a></p>
 </div>
 
 <div class="latest-child">
@@ -1197,6 +1345,7 @@ The most recent homepages captured from 414 news sites.
      alt="franceinfo"
      loading="lazy">
  </a>
+ <p><a href="./sites/franceinfo.html">franceinfo</a></p>
 </div>
 
 <div class="latest-child">
@@ -1205,6 +1354,7 @@ The most recent homepages captured from 414 news sites.
      alt="Frederick News-Post"
      loading="lazy">
  </a>
+ <p><a href="./sites/frednewspost.html">Frederick News-Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -1213,6 +1363,7 @@ The most recent homepages captured from 414 news sites.
      alt="Gateway Pundit"
      loading="lazy">
  </a>
+ <p><a href="./sites/gatewaypundit.html">Gateway Pundit</a></p>
 </div>
 
 <div class="latest-child">
@@ -1221,6 +1372,7 @@ The most recent homepages captured from 414 news sites.
      alt="Gawker"
      loading="lazy">
  </a>
+ <p><a href="./sites/gawker.html">Gawker</a></p>
 </div>
 
 <div class="latest-child">
@@ -1229,6 +1381,7 @@ The most recent homepages captured from 414 news sites.
      alt="Gig Harbor Now"
      loading="lazy">
  </a>
+ <p><a href="./sites/gigharbornow.html">Gig Harbor Now</a></p>
 </div>
 
 <div class="latest-child">
@@ -1237,6 +1390,7 @@ The most recent homepages captured from 414 news sites.
      alt="Gizmodo"
      loading="lazy">
  </a>
+ <p><a href="./sites/gizmodo.html">Gizmodo</a></p>
 </div>
 
 <div class="latest-child">
@@ -1245,6 +1399,7 @@ The most recent homepages captured from 414 news sites.
      alt="Global News"
      loading="lazy">
  </a>
+ <p><a href="./sites/globalnews.html">Global News</a></p>
 </div>
 
 <div class="latest-child">
@@ -1253,6 +1408,7 @@ The most recent homepages captured from 414 news sites.
      alt="Gothamist"
      loading="lazy">
  </a>
+ <p><a href="./sites/gothamist.html">Gothamist</a></p>
 </div>
 
 <div class="latest-child">
@@ -1261,6 +1417,7 @@ The most recent homepages captured from 414 news sites.
      alt="Green Bay Press-Gazette"
      loading="lazy">
  </a>
+ <p><a href="./sites/gbpressgazette.html">Green Bay Press-Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -1269,6 +1426,7 @@ The most recent homepages captured from 414 news sites.
      alt="Grid"
      loading="lazy">
  </a>
+ <p><a href="./sites/gridnews.html">Grid</a></p>
 </div>
 
 <div class="latest-child">
@@ -1277,6 +1435,7 @@ The most recent homepages captured from 414 news sites.
      alt="Grist"
      loading="lazy">
  </a>
+ <p><a href="./sites/grist.html">Grist</a></p>
 </div>
 
 <div class="latest-child">
@@ -1285,6 +1444,7 @@ The most recent homepages captured from 414 news sites.
      alt="Harper’s"
      loading="lazy">
  </a>
+ <p><a href="./sites/harpers.html">Harper’s</a></p>
 </div>
 
 <div class="latest-child">
@@ -1293,6 +1453,7 @@ The most recent homepages captured from 414 news sites.
      alt="Hell Gate"
      loading="lazy">
  </a>
+ <p><a href="./sites/hellgateny.html">Hell Gate</a></p>
 </div>
 
 <div class="latest-child">
@@ -1301,6 +1462,7 @@ The most recent homepages captured from 414 news sites.
      alt="Herald Times Reporter"
      loading="lazy">
  </a>
+ <p><a href="./sites/htrnews.html">Herald Times Reporter</a></p>
 </div>
 
 <div class="latest-child">
@@ -1309,6 +1471,7 @@ The most recent homepages captured from 414 news sites.
      alt="Hidden City Daily"
      loading="lazy">
  </a>
+ <p><a href="./sites/hiddencityphila.html">Hidden City Daily</a></p>
 </div>
 
 <div class="latest-child">
@@ -1317,6 +1480,7 @@ The most recent homepages captured from 414 news sites.
      alt="High Country News"
      loading="lazy">
  </a>
+ <p><a href="./sites/highcountrynews.html">High Country News</a></p>
 </div>
 
 <div class="latest-child">
@@ -1325,6 +1489,7 @@ The most recent homepages captured from 414 news sites.
      alt="Honolulu Civil Beat"
      loading="lazy">
  </a>
+ <p><a href="./sites/civilbeat.html">Honolulu Civil Beat</a></p>
 </div>
 
 <div class="latest-child">
@@ -1333,6 +1498,7 @@ The most recent homepages captured from 414 news sites.
      alt="Houston Chronicle"
      loading="lazy">
  </a>
+ <p><a href="./sites/houstonchron.html">Houston Chronicle</a></p>
 </div>
 
 <div class="latest-child">
@@ -1341,6 +1507,7 @@ The most recent homepages captured from 414 news sites.
      alt="hromadske"
      loading="lazy">
  </a>
+ <p><a href="./sites/hromadskeua.html">hromadske</a></p>
 </div>
 
 <div class="latest-child">
@@ -1349,6 +1516,7 @@ The most recent homepages captured from 414 news sites.
      alt="Huffington Post"
      loading="lazy">
  </a>
+ <p><a href="./sites/huffpost.html">Huffington Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -1357,6 +1525,7 @@ The most recent homepages captured from 414 news sites.
      alt="Human Events"
      loading="lazy">
  </a>
+ <p><a href="./sites/humanevents.html">Human Events</a></p>
 </div>
 
 <div class="latest-child">
@@ -1365,6 +1534,7 @@ The most recent homepages captured from 414 news sites.
      alt="ICIJ"
      loading="lazy">
  </a>
+ <p><a href="./sites/icijorg.html">ICIJ</a></p>
 </div>
 
 <div class="latest-child">
@@ -1373,6 +1543,7 @@ The most recent homepages captured from 414 news sites.
      alt="In These Times "
      loading="lazy">
  </a>
+ <p><a href="./sites/inthesetimesmag.html">In These Times </a></p>
 </div>
 
 <div class="latest-child">
@@ -1381,6 +1552,7 @@ The most recent homepages captured from 414 news sites.
      alt="Indian Country Today"
      loading="lazy">
  </a>
+ <p><a href="./sites/indiancountry.html">Indian Country Today</a></p>
 </div>
 
 <div class="latest-child">
@@ -1389,6 +1561,7 @@ The most recent homepages captured from 414 news sites.
      alt="inewsource"
      loading="lazy">
  </a>
+ <p><a href="./sites/inewsource.html">inewsource</a></p>
 </div>
 
 <div class="latest-child">
@@ -1397,6 +1570,7 @@ The most recent homepages captured from 414 news sites.
      alt="Injustice Watch"
      loading="lazy">
  </a>
+ <p><a href="./sites/injusticewatch.html">Injustice Watch</a></p>
 </div>
 
 <div class="latest-child">
@@ -1405,6 +1579,7 @@ The most recent homepages captured from 414 news sites.
      alt="Inside Climate News"
      loading="lazy">
  </a>
+ <p><a href="./sites/insideclimate.html">Inside Climate News</a></p>
 </div>
 
 <div class="latest-child">
@@ -1413,6 +1588,7 @@ The most recent homepages captured from 414 news sites.
      alt="Intercept"
      loading="lazy">
  </a>
+ <p><a href="./sites/theintercept.html">Intercept</a></p>
 </div>
 
 <div class="latest-child">
@@ -1421,6 +1597,7 @@ The most recent homepages captured from 414 news sites.
      alt="Iowa City Press-Citizen"
      loading="lazy">
  </a>
+ <p><a href="./sites/presscitizen.html">Iowa City Press-Citizen</a></p>
 </div>
 
 <div class="latest-child">
@@ -1429,6 +1606,7 @@ The most recent homepages captured from 414 news sites.
      alt="Iowa Public Radio"
      loading="lazy">
  </a>
+ <p><a href="./sites/iowapublicradio.html">Iowa Public Radio</a></p>
 </div>
 
 <div class="latest-child">
@@ -1437,6 +1615,7 @@ The most recent homepages captured from 414 news sites.
      alt="Jacobin"
      loading="lazy">
  </a>
+ <p><a href="./sites/jacobin.html">Jacobin</a></p>
 </div>
 
 <div class="latest-child">
@@ -1445,6 +1624,7 @@ The most recent homepages captured from 414 news sites.
      alt="Jefferson City News Tribune"
      loading="lazy">
  </a>
+ <p><a href="./sites/newstribune.html">Jefferson City News Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -1453,6 +1633,7 @@ The most recent homepages captured from 414 news sites.
      alt="Jewish Currents"
      loading="lazy">
  </a>
+ <p><a href="./sites/jewishcurrents.html">Jewish Currents</a></p>
 </div>
 
 <div class="latest-child">
@@ -1461,6 +1642,7 @@ The most recent homepages captured from 414 news sites.
      alt="Jijji"
      loading="lazy">
  </a>
+ <p><a href="./sites/jijicom.html">Jijji</a></p>
 </div>
 
 <div class="latest-child">
@@ -1469,6 +1651,7 @@ The most recent homepages captured from 414 news sites.
      alt="John Combest"
      loading="lazy">
  </a>
+ <p><a href="./sites/johncombest.html">John Combest</a></p>
 </div>
 
 <div class="latest-child">
@@ -1477,6 +1660,7 @@ The most recent homepages captured from 414 news sites.
      alt="Joplin Globe"
      loading="lazy">
  </a>
+ <p><a href="./sites/joplinglobe.html">Joplin Globe</a></p>
 </div>
 
 <div class="latest-child">
@@ -1485,6 +1669,7 @@ The most recent homepages captured from 414 news sites.
      alt="Kansas City Defender"
      loading="lazy">
  </a>
+ <p><a href="./sites/kcdefender.html">Kansas City Defender</a></p>
 </div>
 
 <div class="latest-child">
@@ -1493,6 +1678,7 @@ The most recent homepages captured from 414 news sites.
      alt="Kansas City Star"
      loading="lazy">
  </a>
+ <p><a href="./sites/kcstar.html">Kansas City Star</a></p>
 </div>
 
 <div class="latest-child">
@@ -1501,6 +1687,7 @@ The most recent homepages captured from 414 news sites.
      alt="KCAU"
      loading="lazy">
  </a>
+ <p><a href="./sites/kcautv.html">KCAU</a></p>
 </div>
 
 <div class="latest-child">
@@ -1509,6 +1696,7 @@ The most recent homepages captured from 414 news sites.
      alt="KCCI"
      loading="lazy">
  </a>
+ <p><a href="./sites/kccinews.html">KCCI</a></p>
 </div>
 
 <div class="latest-child">
@@ -1517,6 +1705,7 @@ The most recent homepages captured from 414 news sites.
      alt="KCRG"
      loading="lazy">
  </a>
+ <p><a href="./sites/kcrg.html">KCRG</a></p>
 </div>
 
 <div class="latest-child">
@@ -1525,6 +1714,7 @@ The most recent homepages captured from 414 news sites.
      alt="KCUR"
      loading="lazy">
  </a>
+ <p><a href="./sites/kcur.html">KCUR</a></p>
 </div>
 
 <div class="latest-child">
@@ -1533,6 +1723,7 @@ The most recent homepages captured from 414 news sites.
      alt="KGOU"
      loading="lazy">
  </a>
+ <p><a href="./sites/kgounews.html">KGOU</a></p>
 </div>
 
 <div class="latest-child">
@@ -1541,6 +1732,7 @@ The most recent homepages captured from 414 news sites.
      alt="KING5"
      loading="lazy">
  </a>
+ <p><a href="./sites/king5seattle.html">KING5</a></p>
 </div>
 
 <div class="latest-child">
@@ -1549,6 +1741,7 @@ The most recent homepages captured from 414 news sites.
      alt="Knock.LA"
      loading="lazy">
  </a>
+ <p><a href="./sites/knockdotla.html">Knock.LA</a></p>
 </div>
 
 <div class="latest-child">
@@ -1557,6 +1750,7 @@ The most recent homepages captured from 414 news sites.
      alt="KOMU"
      loading="lazy">
  </a>
+ <p><a href="./sites/komunews.html">KOMU</a></p>
 </div>
 
 <div class="latest-child">
@@ -1565,6 +1759,7 @@ The most recent homepages captured from 414 news sites.
      alt="KPBS"
      loading="lazy">
  </a>
+ <p><a href="./sites/kpbs.html">KPBS</a></p>
 </div>
 
 <div class="latest-child">
@@ -1573,6 +1768,7 @@ The most recent homepages captured from 414 news sites.
      alt="KPCC"
      loading="lazy">
  </a>
+ <p><a href="./sites/kpcc.html">KPCC</a></p>
 </div>
 
 <div class="latest-child">
@@ -1581,6 +1777,7 @@ The most recent homepages captured from 414 news sites.
      alt="KPCW"
      loading="lazy">
  </a>
+ <p><a href="./sites/kpcwradio.html">KPCW</a></p>
 </div>
 
 <div class="latest-child">
@@ -1589,6 +1786,7 @@ The most recent homepages captured from 414 news sites.
      alt="KQED"
      loading="lazy">
  </a>
+ <p><a href="./sites/kqed.html">KQED</a></p>
 </div>
 
 <div class="latest-child">
@@ -1597,6 +1795,7 @@ The most recent homepages captured from 414 news sites.
      alt="KSNV News 3"
      loading="lazy">
  </a>
+ <p><a href="./sites/news3lv.html">KSNV News 3</a></p>
 </div>
 
 <div class="latest-child">
@@ -1605,6 +1804,7 @@ The most recent homepages captured from 414 news sites.
      alt="KTLA"
      loading="lazy">
  </a>
+ <p><a href="./sites/ktla.html">KTLA</a></p>
 </div>
 
 <div class="latest-child">
@@ -1613,6 +1813,7 @@ The most recent homepages captured from 414 news sites.
      alt="Kyiv Independent"
      loading="lazy">
  </a>
+ <p><a href="./sites/kyivindependent.html">Kyiv Independent</a></p>
 </div>
 
 <div class="latest-child">
@@ -1621,6 +1822,7 @@ The most recent homepages captured from 414 news sites.
      alt="KyivPost"
      loading="lazy">
  </a>
+ <p><a href="./sites/kyivpost.html">KyivPost</a></p>
 </div>
 
 <div class="latest-child">
@@ -1629,6 +1831,7 @@ The most recent homepages captured from 414 news sites.
      alt="L.A. Taco"
      loading="lazy">
  </a>
+ <p><a href="./sites/lataco.html">L.A. Taco</a></p>
 </div>
 
 <div class="latest-child">
@@ -1637,6 +1840,7 @@ The most recent homepages captured from 414 news sites.
      alt="La Jornada"
      loading="lazy">
  </a>
+ <p><a href="./sites/lajornada.html">La Jornada</a></p>
 </div>
 
 <div class="latest-child">
@@ -1645,6 +1849,7 @@ The most recent homepages captured from 414 news sites.
      alt="La Journal de Montréal"
      loading="lazy">
  </a>
+ <p><a href="./sites/jdemontreal.html">La Journal de Montréal</a></p>
 </div>
 
 <div class="latest-child">
@@ -1653,6 +1858,7 @@ The most recent homepages captured from 414 news sites.
      alt="La Presse"
      loading="lazy">
  </a>
+ <p><a href="./sites/lp_lapresse.html">La Presse</a></p>
 </div>
 
 <div class="latest-child">
@@ -1661,6 +1867,7 @@ The most recent homepages captured from 414 news sites.
      alt="LaCrosse Tribune"
      loading="lazy">
  </a>
+ <p><a href="./sites/lacrossetribune.html">LaCrosse Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -1669,6 +1876,7 @@ The most recent homepages captured from 414 news sites.
      alt="LAist"
      loading="lazy">
  </a>
+ <p><a href="./sites/laist.html">LAist</a></p>
 </div>
 
 <div class="latest-child">
@@ -1677,6 +1885,7 @@ The most recent homepages captured from 414 news sites.
      alt="Las Cruces Sun News"
      loading="lazy">
  </a>
+ <p><a href="./sites/crucessunnews.html">Las Cruces Sun News</a></p>
 </div>
 
 <div class="latest-child">
@@ -1685,6 +1894,7 @@ The most recent homepages captured from 414 news sites.
      alt="Las Vegas Review-Journal"
      loading="lazy">
  </a>
+ <p><a href="./sites/reviewjournal.html">Las Vegas Review-Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -1693,6 +1903,7 @@ The most recent homepages captured from 414 news sites.
      alt="Las Vegas Sun"
      loading="lazy">
  </a>
+ <p><a href="./sites/lasvegassun.html">Las Vegas Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -1701,6 +1912,7 @@ The most recent homepages captured from 414 news sites.
      alt="Le Devoir"
      loading="lazy">
  </a>
+ <p><a href="./sites/ledevoir.html">Le Devoir</a></p>
 </div>
 
 <div class="latest-child">
@@ -1709,6 +1921,7 @@ The most recent homepages captured from 414 news sites.
      alt="Le Figaro"
      loading="lazy">
  </a>
+ <p><a href="./sites/le_figaro.html">Le Figaro</a></p>
 </div>
 
 <div class="latest-child">
@@ -1717,6 +1930,7 @@ The most recent homepages captured from 414 news sites.
      alt="Le Huffington Post"
      loading="lazy">
  </a>
+ <p><a href="./sites/lehuffpost.html">Le Huffington Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -1725,6 +1939,7 @@ The most recent homepages captured from 414 news sites.
      alt="Le Monde"
      loading="lazy">
  </a>
+ <p><a href="./sites/lemondefr.html">Le Monde</a></p>
 </div>
 
 <div class="latest-child">
@@ -1733,6 +1948,7 @@ The most recent homepages captured from 414 news sites.
      alt="Le Monde in English"
      loading="lazy">
  </a>
+ <p><a href="./sites/lemonde_en.html">Le Monde in English</a></p>
 </div>
 
 <div class="latest-child">
@@ -1741,6 +1957,7 @@ The most recent homepages captured from 414 news sites.
      alt="Le Parisien"
      loading="lazy">
  </a>
+ <p><a href="./sites/le_parisien.html">Le Parisien</a></p>
 </div>
 
 <div class="latest-child">
@@ -1749,6 +1966,7 @@ The most recent homepages captured from 414 news sites.
      alt="Lens"
      loading="lazy">
  </a>
+ <p><a href="./sites/thelensnola.html">Lens</a></p>
 </div>
 
 <div class="latest-child">
@@ -1757,6 +1975,7 @@ The most recent homepages captured from 414 news sites.
      alt="Libération"
      loading="lazy">
  </a>
+ <p><a href="./sites/libe.html">Libération</a></p>
 </div>
 
 <div class="latest-child">
@@ -1765,6 +1984,7 @@ The most recent homepages captured from 414 news sites.
      alt="Little Village"
      loading="lazy">
  </a>
+ <p><a href="./sites/littlevillage.html">Little Village</a></p>
 </div>
 
 <div class="latest-child">
@@ -1773,6 +1993,7 @@ The most recent homepages captured from 414 news sites.
      alt="Local News Matters"
      loading="lazy">
  </a>
+ <p><a href="./sites/bcn_foundation.html">Local News Matters</a></p>
 </div>
 
 <div class="latest-child">
@@ -1781,6 +2002,7 @@ The most recent homepages captured from 414 news sites.
      alt="Lookout Santa Cruz"
      loading="lazy">
  </a>
+ <p><a href="./sites/lookoutscruz.html">Lookout Santa Cruz</a></p>
 </div>
 
 <div class="latest-child">
@@ -1789,6 +2011,7 @@ The most recent homepages captured from 414 news sites.
      alt="Los Angeles Sentinel"
      loading="lazy">
  </a>
+ <p><a href="./sites/thelasentinel.html">Los Angeles Sentinel</a></p>
 </div>
 
 <div class="latest-child">
@@ -1797,6 +2020,7 @@ The most recent homepages captured from 414 news sites.
      alt="Los Angeles Times"
      loading="lazy">
  </a>
+ <p><a href="./sites/latimes.html">Los Angeles Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -1805,6 +2029,7 @@ The most recent homepages captured from 414 news sites.
      alt="L’Obs"
      loading="lazy">
  </a>
+ <p><a href="./sites/lobs.html">L’Obs</a></p>
 </div>
 
 <div class="latest-child">
@@ -1813,6 +2038,7 @@ The most recent homepages captured from 414 news sites.
      alt="Marshall Project"
      loading="lazy">
  </a>
+ <p><a href="./sites/marshallproj.html">Marshall Project</a></p>
 </div>
 
 <div class="latest-child">
@@ -1821,6 +2047,7 @@ The most recent homepages captured from 414 news sites.
      alt="Maryland Matters"
      loading="lazy">
  </a>
+ <p><a href="./sites/marylandmatters.html">Maryland Matters</a></p>
 </div>
 
 <div class="latest-child">
@@ -1829,6 +2056,7 @@ The most recent homepages captured from 414 news sites.
      alt="Mashable"
      loading="lazy">
  </a>
+ <p><a href="./sites/mashable.html">Mashable</a></p>
 </div>
 
 <div class="latest-child">
@@ -1837,6 +2065,7 @@ The most recent homepages captured from 414 news sites.
      alt="Meduza"
      loading="lazy">
  </a>
+ <p><a href="./sites/meduzaproject.html">Meduza</a></p>
 </div>
 
 <div class="latest-child">
@@ -1845,6 +2074,7 @@ The most recent homepages captured from 414 news sites.
      alt="Mercury News"
      loading="lazy">
  </a>
+ <p><a href="./sites/mercnews.html">Mercury News</a></p>
 </div>
 
 <div class="latest-child">
@@ -1853,6 +2083,7 @@ The most recent homepages captured from 414 news sites.
      alt="mi wisconsin"
      loading="lazy">
  </a>
+ <p><a href="./sites/miwisconsin.html">mi wisconsin</a></p>
 </div>
 
 <div class="latest-child">
@@ -1861,6 +2092,7 @@ The most recent homepages captured from 414 news sites.
      alt="Miami Herald"
      loading="lazy">
  </a>
+ <p><a href="./sites/miamiherald.html">Miami Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -1869,6 +2101,7 @@ The most recent homepages captured from 414 news sites.
      alt="Milwaukee Journal Sentinel"
      loading="lazy">
  </a>
+ <p><a href="./sites/journalsentinel.html">Milwaukee Journal Sentinel</a></p>
 </div>
 
 <div class="latest-child">
@@ -1877,6 +2110,7 @@ The most recent homepages captured from 414 news sites.
      alt="Minneapolis Star Tribune"
      loading="lazy">
  </a>
+ <p><a href="./sites/startribune.html">Minneapolis Star Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -1885,6 +2119,7 @@ The most recent homepages captured from 414 news sites.
      alt="MinnPost"
      loading="lazy">
  </a>
+ <p><a href="./sites/minnpost.html">MinnPost</a></p>
 </div>
 
 <div class="latest-child">
@@ -1893,6 +2128,7 @@ The most recent homepages captured from 414 news sites.
      alt="Mission Local"
      loading="lazy">
  </a>
+ <p><a href="./sites/mlnow.html">Mission Local</a></p>
 </div>
 
 <div class="latest-child">
@@ -1901,6 +2137,7 @@ The most recent homepages captured from 414 news sites.
      alt="Missouri Independent"
      loading="lazy">
  </a>
+ <p><a href="./sites/mo_independent.html">Missouri Independent</a></p>
 </div>
 
 <div class="latest-child">
@@ -1909,6 +2146,7 @@ The most recent homepages captured from 414 news sites.
      alt="Mongabay"
      loading="lazy">
  </a>
+ <p><a href="./sites/mongabay.html">Mongabay</a></p>
 </div>
 
 <div class="latest-child">
@@ -1917,6 +2155,7 @@ The most recent homepages captured from 414 news sites.
      alt="Montana Free Press"
      loading="lazy">
  </a>
+ <p><a href="./sites/mtfreepress.html">Montana Free Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -1925,6 +2164,7 @@ The most recent homepages captured from 414 news sites.
      alt="Montreal Gazette"
      loading="lazy">
  </a>
+ <p><a href="./sites/mtlgazette.html">Montreal Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -1933,6 +2173,7 @@ The most recent homepages captured from 414 news sites.
      alt="Mother Jones"
      loading="lazy">
  </a>
+ <p><a href="./sites/motherjones.html">Mother Jones</a></p>
 </div>
 
 <div class="latest-child">
@@ -1941,6 +2182,7 @@ The most recent homepages captured from 414 news sites.
      alt="Mountain State Spotlight"
      loading="lazy">
  </a>
+ <p><a href="./sites/mtnstspotlight.html">Mountain State Spotlight</a></p>
 </div>
 
 <div class="latest-child">
@@ -1949,6 +2191,7 @@ The most recent homepages captured from 414 news sites.
      alt="MSNBC"
      loading="lazy">
  </a>
+ <p><a href="./sites/msnbc.html">MSNBC</a></p>
 </div>
 
 <div class="latest-child">
@@ -1957,6 +2200,7 @@ The most recent homepages captured from 414 news sites.
      alt="National"
      loading="lazy">
  </a>
+ <p><a href="./sites/scotnational.html">National</a></p>
 </div>
 
 <div class="latest-child">
@@ -1965,6 +2209,7 @@ The most recent homepages captured from 414 news sites.
      alt="National Catholic Reporter"
      loading="lazy">
  </a>
+ <p><a href="./sites/ncronline.html">National Catholic Reporter</a></p>
 </div>
 
 <div class="latest-child">
@@ -1973,6 +2218,7 @@ The most recent homepages captured from 414 news sites.
      alt="National Geographic"
      loading="lazy">
  </a>
+ <p><a href="./sites/natgeo.html">National Geographic</a></p>
 </div>
 
 <div class="latest-child">
@@ -1981,6 +2227,7 @@ The most recent homepages captured from 414 news sites.
      alt="National Journal"
      loading="lazy">
  </a>
+ <p><a href="./sites/nationaljournal.html">National Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -1989,6 +2236,7 @@ The most recent homepages captured from 414 news sites.
      alt="National Post"
      loading="lazy">
  </a>
+ <p><a href="./sites/nationalpost.html">National Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -1997,6 +2245,7 @@ The most recent homepages captured from 414 news sites.
      alt="National Review"
      loading="lazy">
  </a>
+ <p><a href="./sites/nro.html">National Review</a></p>
 </div>
 
 <div class="latest-child">
@@ -2005,6 +2254,7 @@ The most recent homepages captured from 414 news sites.
      alt="NBC Bay Area"
      loading="lazy">
  </a>
+ <p><a href="./sites/nbcbayarea.html">NBC Bay Area</a></p>
 </div>
 
 <div class="latest-child">
@@ -2013,6 +2263,7 @@ The most recent homepages captured from 414 news sites.
      alt="NBC Chicago"
      loading="lazy">
  </a>
+ <p><a href="./sites/nbcchicago.html">NBC Chicago</a></p>
 </div>
 
 <div class="latest-child">
@@ -2021,6 +2272,7 @@ The most recent homepages captured from 414 news sites.
      alt="NBC News"
      loading="lazy">
  </a>
+ <p><a href="./sites/nbcnews.html">NBC News</a></p>
 </div>
 
 <div class="latest-child">
@@ -2029,6 +2281,7 @@ The most recent homepages captured from 414 news sites.
      alt="NBC10 Philadelphia"
      loading="lazy">
  </a>
+ <p><a href="./sites/nbcphiladelphia.html">NBC10 Philadelphia</a></p>
 </div>
 
 <div class="latest-child">
@@ -2037,6 +2290,7 @@ The most recent homepages captured from 414 news sites.
      alt="Nevada Public Radio"
      loading="lazy">
  </a>
+ <p><a href="./sites/knprnews.html">Nevada Public Radio</a></p>
 </div>
 
 <div class="latest-child">
@@ -2045,6 +2299,7 @@ The most recent homepages captured from 414 news sites.
      alt="New Scientist"
      loading="lazy">
  </a>
+ <p><a href="./sites/newscientist.html">New Scientist</a></p>
 </div>
 
 <div class="latest-child">
@@ -2053,6 +2308,7 @@ The most recent homepages captured from 414 news sites.
      alt="New York"
      loading="lazy">
  </a>
+ <p><a href="./sites/nymag.html">New York</a></p>
 </div>
 
 <div class="latest-child">
@@ -2061,6 +2317,7 @@ The most recent homepages captured from 414 news sites.
      alt="New York Focus"
      loading="lazy">
  </a>
+ <p><a href="./sites/nysfocus.html">New York Focus</a></p>
 </div>
 
 <div class="latest-child">
@@ -2069,6 +2326,7 @@ The most recent homepages captured from 414 news sites.
      alt="New York Post"
      loading="lazy">
  </a>
+ <p><a href="./sites/nypost.html">New York Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -2077,6 +2335,7 @@ The most recent homepages captured from 414 news sites.
      alt="New York Review of Books"
      loading="lazy">
  </a>
+ <p><a href="./sites/nybooks.html">New York Review of Books</a></p>
 </div>
 
 <div class="latest-child">
@@ -2085,6 +2344,7 @@ The most recent homepages captured from 414 news sites.
      alt="New York Times"
      loading="lazy">
  </a>
+ <p><a href="./sites/nytimes.html">New York Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -2093,6 +2353,7 @@ The most recent homepages captured from 414 news sites.
      alt="New Yorker"
      loading="lazy">
  </a>
+ <p><a href="./sites/newyorker.html">New Yorker</a></p>
 </div>
 
 <div class="latest-child">
@@ -2101,6 +2362,7 @@ The most recent homepages captured from 414 news sites.
      alt="News 4"
      loading="lazy">
  </a>
+ <p><a href="./sites/kvoa.html">News 4</a></p>
 </div>
 
 <div class="latest-child">
@@ -2109,6 +2371,7 @@ The most recent homepages captured from 414 news sites.
      alt="Newsweek"
      loading="lazy">
  </a>
+ <p><a href="./sites/newsweek.html">Newsweek</a></p>
 </div>
 
 <div class="latest-child">
@@ -2117,6 +2380,7 @@ The most recent homepages captured from 414 news sites.
      alt="Next City"
      loading="lazy">
  </a>
+ <p><a href="./sites/nextcityorg.html">Next City</a></p>
 </div>
 
 <div class="latest-child">
@@ -2125,6 +2389,7 @@ The most recent homepages captured from 414 news sites.
      alt="NHK"
      loading="lazy">
  </a>
+ <p><a href="./sites/nhk_news.html">NHK</a></p>
 </div>
 
 <div class="latest-child">
@@ -2133,6 +2398,7 @@ The most recent homepages captured from 414 news sites.
      alt="Nikkei"
      loading="lazy">
  </a>
+ <p><a href="./sites/nikkei.html">Nikkei</a></p>
 </div>
 
 <div class="latest-child">
@@ -2141,6 +2407,7 @@ The most recent homepages captured from 414 news sites.
      alt="NPR"
      loading="lazy">
  </a>
+ <p><a href="./sites/npr.html">NPR</a></p>
 </div>
 
 <div class="latest-child">
@@ -2149,6 +2416,7 @@ The most recent homepages captured from 414 news sites.
      alt="NY1"
      loading="lazy">
  </a>
+ <p><a href="./sites/ny1.html">NY1</a></p>
 </div>
 
 <div class="latest-child">
@@ -2157,6 +2425,7 @@ The most recent homepages captured from 414 news sites.
      alt="Objective"
      loading="lazy">
  </a>
+ <p><a href="./sites/objectivejrn.html">Objective</a></p>
 </div>
 
 <div class="latest-child">
@@ -2165,6 +2434,7 @@ The most recent homepages captured from 414 news sites.
      alt="okayplayer"
      loading="lazy">
  </a>
+ <p><a href="./sites/okayplayer.html">okayplayer</a></p>
 </div>
 
 <div class="latest-child">
@@ -2173,6 +2443,7 @@ The most recent homepages captured from 414 news sites.
      alt="Oklahoma Watch"
      loading="lazy">
  </a>
+ <p><a href="./sites/oklahomawatch.html">Oklahoma Watch</a></p>
 </div>
 
 <div class="latest-child">
@@ -2181,6 +2452,7 @@ The most recent homepages captured from 414 news sites.
      alt="Oklahoman"
      loading="lazy">
  </a>
+ <p><a href="./sites/theoklahoman_.html">Oklahoman</a></p>
 </div>
 
 <div class="latest-child">
@@ -2189,6 +2461,7 @@ The most recent homepages captured from 414 news sites.
      alt="One America News Network"
      loading="lazy">
  </a>
+ <p><a href="./sites/oann.html">One America News Network</a></p>
 </div>
 
 <div class="latest-child">
@@ -2197,6 +2470,7 @@ The most recent homepages captured from 414 news sites.
      alt="Onion"
      loading="lazy">
  </a>
+ <p><a href="./sites/theonion.html">Onion</a></p>
 </div>
 
 <div class="latest-child">
@@ -2205,6 +2479,7 @@ The most recent homepages captured from 414 news sites.
      alt="Open Caucasus Media"
      loading="lazy">
  </a>
+ <p><a href="./sites/ocmediaorg.html">Open Caucasus Media</a></p>
 </div>
 
 <div class="latest-child">
@@ -2213,6 +2488,7 @@ The most recent homepages captured from 414 news sites.
      alt="Open Vallejo"
      loading="lazy">
  </a>
+ <p><a href="./sites/openvallejo.html">Open Vallejo</a></p>
 </div>
 
 <div class="latest-child">
@@ -2221,6 +2497,7 @@ The most recent homepages captured from 414 news sites.
      alt="OpenSecrets"
      loading="lazy">
  </a>
+ <p><a href="./sites/opensecretsdc.html">OpenSecrets</a></p>
 </div>
 
 <div class="latest-child">
@@ -2229,6 +2506,7 @@ The most recent homepages captured from 414 news sites.
      alt="Orange County Register"
      loading="lazy">
  </a>
+ <p><a href="./sites/ocregister.html">Orange County Register</a></p>
 </div>
 
 <div class="latest-child">
@@ -2237,6 +2515,7 @@ The most recent homepages captured from 414 news sites.
      alt="Oregon Capital Chronicle"
      loading="lazy">
  </a>
+ <p><a href="./sites/orcapchronicle.html">Oregon Capital Chronicle</a></p>
 </div>
 
 <div class="latest-child">
@@ -2245,6 +2524,7 @@ The most recent homepages captured from 414 news sites.
      alt="Oregonian"
      loading="lazy">
  </a>
+ <p><a href="./sites/oregonian.html">Oregonian</a></p>
 </div>
 
 <div class="latest-child">
@@ -2253,6 +2533,7 @@ The most recent homepages captured from 414 news sites.
      alt="Ottawa Citizen"
      loading="lazy">
  </a>
+ <p><a href="./sites/ottawacitizen.html">Ottawa Citizen</a></p>
 </div>
 
 <div class="latest-child">
@@ -2261,6 +2542,7 @@ The most recent homepages captured from 414 news sites.
      alt="Ottumwa Courier"
      loading="lazy">
  </a>
+ <p><a href="./sites/ottumwacourier.html">Ottumwa Courier</a></p>
 </div>
 
 <div class="latest-child">
@@ -2269,6 +2551,7 @@ The most recent homepages captured from 414 news sites.
      alt="Outlier Media"
      loading="lazy">
  </a>
+ <p><a href="./sites/media_outlier.html">Outlier Media</a></p>
 </div>
 
 <div class="latest-child">
@@ -2277,6 +2560,7 @@ The most recent homepages captured from 414 news sites.
      alt="Paris Review"
      loading="lazy">
  </a>
+ <p><a href="./sites/parisreview.html">Paris Review</a></p>
 </div>
 
 <div class="latest-child">
@@ -2285,6 +2569,7 @@ The most recent homepages captured from 414 news sites.
      alt="PBS News Hour"
      loading="lazy">
  </a>
+ <p><a href="./sites/newshour.html">PBS News Hour</a></p>
 </div>
 
 <div class="latest-child">
@@ -2293,6 +2578,7 @@ The most recent homepages captured from 414 news sites.
      alt="Peninsula Press"
      loading="lazy">
  </a>
+ <p><a href="./sites/peninsupress.html">Peninsula Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -2301,6 +2587,7 @@ The most recent homepages captured from 414 news sites.
      alt="People"
      loading="lazy">
  </a>
+ <p><a href="./sites/people.html">People</a></p>
 </div>
 
 <div class="latest-child">
@@ -2309,6 +2596,7 @@ The most recent homepages captured from 414 news sites.
      alt="Philadelphia Citizen"
      loading="lazy">
  </a>
+ <p><a href="./sites/thephilacitizen.html">Philadelphia Citizen</a></p>
 </div>
 
 <div class="latest-child">
@@ -2317,6 +2605,7 @@ The most recent homepages captured from 414 news sites.
      alt="Philadelphia Inquirer"
      loading="lazy">
  </a>
+ <p><a href="./sites/phillyinquirer.html">Philadelphia Inquirer</a></p>
 </div>
 
 <div class="latest-child">
@@ -2325,6 +2614,7 @@ The most recent homepages captured from 414 news sites.
      alt="Philadelphia Tribune"
      loading="lazy">
  </a>
+ <p><a href="./sites/phillytrib.html">Philadelphia Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -2333,6 +2623,7 @@ The most recent homepages captured from 414 news sites.
      alt="Pitchfork"
      loading="lazy">
  </a>
+ <p><a href="./sites/pitchfork.html">Pitchfork</a></p>
 </div>
 
 <div class="latest-child">
@@ -2341,6 +2632,7 @@ The most recent homepages captured from 414 news sites.
      alt="Point Reyes Light"
      loading="lazy">
  </a>
+ <p><a href="./sites/pointreyeslight.html">Point Reyes Light</a></p>
 </div>
 
 <div class="latest-child">
@@ -2349,6 +2641,7 @@ The most recent homepages captured from 414 news sites.
      alt="POLITICO"
      loading="lazy">
  </a>
+ <p><a href="./sites/politico.html">POLITICO</a></p>
 </div>
 
 <div class="latest-child">
@@ -2357,6 +2650,7 @@ The most recent homepages captured from 414 news sites.
      alt="Politifact "
      loading="lazy">
  </a>
+ <p><a href="./sites/politifact.html">Politifact </a></p>
 </div>
 
 <div class="latest-child">
@@ -2365,6 +2659,7 @@ The most recent homepages captured from 414 news sites.
      alt="Portland Mercury"
      loading="lazy">
  </a>
+ <p><a href="./sites/portlandmercury.html">Portland Mercury</a></p>
 </div>
 
 <div class="latest-child">
@@ -2373,6 +2668,7 @@ The most recent homepages captured from 414 news sites.
      alt="Post and Courier"
      loading="lazy">
  </a>
+ <p><a href="./sites/postandcourier.html">Post and Courier</a></p>
 </div>
 
 <div class="latest-child">
@@ -2381,6 +2677,7 @@ The most recent homepages captured from 414 news sites.
      alt="Prensa Grafica"
      loading="lazy">
  </a>
+ <p><a href="./sites/prensagrafica.html">Prensa Grafica</a></p>
 </div>
 
 <div class="latest-child">
@@ -2389,6 +2686,7 @@ The most recent homepages captured from 414 news sites.
      alt="Prism"
      loading="lazy">
  </a>
+ <p><a href="./sites/prismreports.html">Prism</a></p>
 </div>
 
 <div class="latest-child">
@@ -2397,6 +2695,7 @@ The most recent homepages captured from 414 news sites.
      alt="ProPublica"
      loading="lazy">
  </a>
+ <p><a href="./sites/propublica.html">ProPublica</a></p>
 </div>
 
 <div class="latest-child">
@@ -2405,6 +2704,7 @@ The most recent homepages captured from 414 news sites.
      alt="Protocol"
      loading="lazy">
  </a>
+ <p><a href="./sites/protocol.html">Protocol</a></p>
 </div>
 
 <div class="latest-child">
@@ -2413,6 +2713,7 @@ The most recent homepages captured from 414 news sites.
      alt="Public Source"
      loading="lazy">
  </a>
+ <p><a href="./sites/thepublicsource.html">Public Source</a></p>
 </div>
 
 <div class="latest-child">
@@ -2421,6 +2722,7 @@ The most recent homepages captured from 414 news sites.
      alt="Puck"
      loading="lazy">
  </a>
+ <p><a href="./sites/pucknews.html">Puck</a></p>
 </div>
 
 <div class="latest-child">
@@ -2429,6 +2731,7 @@ The most recent homepages captured from 414 news sites.
      alt="Pulitzer Center"
      loading="lazy">
  </a>
+ <p><a href="./sites/pulitzercenter.html">Pulitzer Center</a></p>
 </div>
 
 <div class="latest-child">
@@ -2437,6 +2740,7 @@ The most recent homepages captured from 414 news sites.
      alt="Punchbowl News"
      loading="lazy">
  </a>
+ <p><a href="./sites/punchbowlnews.html">Punchbowl News</a></p>
 </div>
 
 <div class="latest-child">
@@ -2445,6 +2749,7 @@ The most recent homepages captured from 414 news sites.
      alt="Quad City Times"
      loading="lazy">
  </a>
+ <p><a href="./sites/qctimes.html">Quad City Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -2453,6 +2758,7 @@ The most recent homepages captured from 414 news sites.
      alt="Quartz"
      loading="lazy">
  </a>
+ <p><a href="./sites/qz.html">Quartz</a></p>
 </div>
 
 <div class="latest-child">
@@ -2461,6 +2767,7 @@ The most recent homepages captured from 414 news sites.
      alt="Quinto Elemento Lab"
      loading="lazy">
  </a>
+ <p><a href="./sites/quintoelab.html">Quinto Elemento Lab</a></p>
 </div>
 
 <div class="latest-child">
@@ -2469,6 +2776,7 @@ The most recent homepages captured from 414 news sites.
      alt="Reuters"
      loading="lazy">
  </a>
+ <p><a href="./sites/reuters.html">Reuters</a></p>
 </div>
 
 <div class="latest-child">
@@ -2477,6 +2785,7 @@ The most recent homepages captured from 414 news sites.
      alt="Reveal"
      loading="lazy">
  </a>
+ <p><a href="./sites/reveal.html">Reveal</a></p>
 </div>
 
 <div class="latest-child">
@@ -2485,6 +2794,7 @@ The most recent homepages captured from 414 news sites.
      alt="RFI"
      loading="lazy">
  </a>
+ <p><a href="./sites/rfi.html">RFI</a></p>
 </div>
 
 <div class="latest-child">
@@ -2493,6 +2803,7 @@ The most recent homepages captured from 414 news sites.
      alt="RIA Novosti"
      loading="lazy">
  </a>
+ <p><a href="./sites/rianru.html">RIA Novosti</a></p>
 </div>
 
 <div class="latest-child">
@@ -2501,6 +2812,7 @@ The most recent homepages captured from 414 news sites.
      alt="Ringer"
      loading="lazy">
  </a>
+ <p><a href="./sites/ringer.html">Ringer</a></p>
 </div>
 
 <div class="latest-child">
@@ -2509,6 +2821,7 @@ The most recent homepages captured from 414 news sites.
      alt="Riverside Press-Enterprise"
      loading="lazy">
  </a>
+ <p><a href="./sites/pressenterprise.html">Riverside Press-Enterprise</a></p>
 </div>
 
 <div class="latest-child">
@@ -2517,6 +2830,7 @@ The most recent homepages captured from 414 news sites.
      alt="Roll Call"
      loading="lazy">
  </a>
+ <p><a href="./sites/rollcall.html">Roll Call</a></p>
 </div>
 
 <div class="latest-child">
@@ -2525,6 +2839,7 @@ The most recent homepages captured from 414 news sites.
      alt="Rolling Stone"
      loading="lazy">
  </a>
+ <p><a href="./sites/rollingstone.html">Rolling Stone</a></p>
 </div>
 
 <div class="latest-child">
@@ -2533,6 +2848,7 @@ The most recent homepages captured from 414 news sites.
      alt="Sacramento Bee"
      loading="lazy">
  </a>
+ <p><a href="./sites/sacbee_news.html">Sacramento Bee</a></p>
 </div>
 
 <div class="latest-child">
@@ -2541,6 +2857,7 @@ The most recent homepages captured from 414 news sites.
      alt="Sahan Journal"
      loading="lazy">
  </a>
+ <p><a href="./sites/sahanjournal.html">Sahan Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -2549,6 +2866,7 @@ The most recent homepages captured from 414 news sites.
      alt="Salt Lake Tribune"
      loading="lazy">
  </a>
+ <p><a href="./sites/sltrib.html">Salt Lake Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -2557,6 +2875,7 @@ The most recent homepages captured from 414 news sites.
      alt="San Antonio Express-News"
      loading="lazy">
  </a>
+ <p><a href="./sites/expressnews.html">San Antonio Express-News</a></p>
 </div>
 
 <div class="latest-child">
@@ -2565,6 +2884,7 @@ The most recent homepages captured from 414 news sites.
      alt="San Diego Union Tribune"
      loading="lazy">
  </a>
+ <p><a href="./sites/sdut.html">San Diego Union Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -2573,6 +2893,7 @@ The most recent homepages captured from 414 news sites.
      alt="San Francisco Chronicle"
      loading="lazy">
  </a>
+ <p><a href="./sites/sfchronicle.html">San Francisco Chronicle</a></p>
 </div>
 
 <div class="latest-child">
@@ -2581,6 +2902,7 @@ The most recent homepages captured from 414 news sites.
      alt="San José Spotlight"
      loading="lazy">
  </a>
+ <p><a href="./sites/sjspotlight.html">San José Spotlight</a></p>
 </div>
 
 <div class="latest-child">
@@ -2589,6 +2911,7 @@ The most recent homepages captured from 414 news sites.
      alt="Sankei Shimbun"
      loading="lazy">
  </a>
+ <p><a href="./sites/sankei_news.html">Sankei Shimbun</a></p>
 </div>
 
 <div class="latest-child">
@@ -2597,6 +2920,7 @@ The most recent homepages captured from 414 news sites.
      alt="Santa Cruz Sentinel"
      loading="lazy">
  </a>
+ <p><a href="./sites/scsentinel.html">Santa Cruz Sentinel</a></p>
 </div>
 
 <div class="latest-child">
@@ -2605,6 +2929,7 @@ The most recent homepages captured from 414 news sites.
      alt="Santa Fe New Mexican"
      loading="lazy">
  </a>
+ <p><a href="./sites/thenewmexican.html">Santa Fe New Mexican</a></p>
 </div>
 
 <div class="latest-child">
@@ -2613,6 +2938,7 @@ The most recent homepages captured from 414 news sites.
      alt="SB Nation"
      loading="lazy">
  </a>
+ <p><a href="./sites/sbnation.html">SB Nation</a></p>
 </div>
 
 <div class="latest-child">
@@ -2621,6 +2947,7 @@ The most recent homepages captured from 414 news sites.
      alt="Scotsman"
      loading="lazy">
  </a>
+ <p><a href="./sites/thescotsman.html">Scotsman</a></p>
 </div>
 
 <div class="latest-child">
@@ -2629,6 +2956,7 @@ The most recent homepages captured from 414 news sites.
      alt="SCOTUS Blog"
      loading="lazy">
  </a>
+ <p><a href="./sites/scotusblog.html">SCOTUS Blog</a></p>
 </div>
 
 <div class="latest-child">
@@ -2637,6 +2965,7 @@ The most recent homepages captured from 414 news sites.
      alt="Searchlight New Mexico"
      loading="lazy">
  </a>
+ <p><a href="./sites/searchlightnm.html">Searchlight New Mexico</a></p>
 </div>
 
 <div class="latest-child">
@@ -2645,6 +2974,7 @@ The most recent homepages captured from 414 news sites.
      alt="Seattle Times"
      loading="lazy">
  </a>
+ <p><a href="./sites/seattletimes.html">Seattle Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -2653,6 +2983,7 @@ The most recent homepages captured from 414 news sites.
      alt="Seikyo Shimbun"
      loading="lazy">
  </a>
+ <p><a href="./sites/seikyoofficial.html">Seikyo Shimbun</a></p>
 </div>
 
 <div class="latest-child">
@@ -2661,6 +2992,7 @@ The most recent homepages captured from 414 news sites.
      alt="Semafor"
      loading="lazy">
  </a>
+ <p><a href="./sites/semafor.html">Semafor</a></p>
 </div>
 
 <div class="latest-child">
@@ -2669,6 +3001,7 @@ The most recent homepages captured from 414 news sites.
      alt="Slate"
      loading="lazy">
  </a>
+ <p><a href="./sites/slate.html">Slate</a></p>
 </div>
 
 <div class="latest-child">
@@ -2677,6 +3010,7 @@ The most recent homepages captured from 414 news sites.
      alt="Sludge"
      loading="lazy">
  </a>
+ <p><a href="./sites/sludge.html">Sludge</a></p>
 </div>
 
 <div class="latest-child">
@@ -2685,6 +3019,7 @@ The most recent homepages captured from 414 news sites.
      alt="Sludge"
      loading="lazy">
  </a>
+ <p><a href="./sites/sludge.html">Sludge</a></p>
 </div>
 
 <div class="latest-child">
@@ -2693,6 +3028,7 @@ The most recent homepages captured from 414 news sites.
      alt="Source New Mexico"
      loading="lazy">
  </a>
+ <p><a href="./sites/source_nm.html">Source New Mexico</a></p>
 </div>
 
 <div class="latest-child">
@@ -2701,6 +3037,7 @@ The most recent homepages captured from 414 news sites.
      alt="South Side Weekly"
      loading="lazy">
  </a>
+ <p><a href="./sites/southsideweekly.html">South Side Weekly</a></p>
 </div>
 
 <div class="latest-child">
@@ -2709,6 +3046,7 @@ The most recent homepages captured from 414 news sites.
      alt="Spokesman-Review"
      loading="lazy">
  </a>
+ <p><a href="./sites/spokesmanreview.html">Spokesman-Review</a></p>
 </div>
 
 <div class="latest-child">
@@ -2717,6 +3055,7 @@ The most recent homepages captured from 414 news sites.
      alt="Sports Illustrated"
      loading="lazy">
  </a>
+ <p><a href="./sites/sinow.html">Sports Illustrated</a></p>
 </div>
 
 <div class="latest-child">
@@ -2725,6 +3064,7 @@ The most recent homepages captured from 414 news sites.
      alt="Spotlight PA"
      loading="lazy">
  </a>
+ <p><a href="./sites/spotlightpa.html">Spotlight PA</a></p>
 </div>
 
 <div class="latest-child">
@@ -2733,6 +3073,7 @@ The most recent homepages captured from 414 news sites.
      alt="Springfield Daily Citizen"
      loading="lazy">
  </a>
+ <p><a href="./sites/sgfcitizen.html">Springfield Daily Citizen</a></p>
 </div>
 
 <div class="latest-child">
@@ -2741,6 +3082,7 @@ The most recent homepages captured from 414 news sites.
      alt="St. Joseph News Press"
      loading="lazy">
  </a>
+ <p><a href="./sites/newspressnow.html">St. Joseph News Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -2749,6 +3091,7 @@ The most recent homepages captured from 414 news sites.
      alt="St. Louis Post-Dispatch"
      loading="lazy">
  </a>
+ <p><a href="./sites/stltoday.html">St. Louis Post-Dispatch</a></p>
 </div>
 
 <div class="latest-child">
@@ -2757,6 +3100,7 @@ The most recent homepages captured from 414 news sites.
      alt="St. Louis Public Radio"
      loading="lazy">
  </a>
+ <p><a href="./sites/stlpublicradio.html">St. Louis Public Radio</a></p>
 </div>
 
 <div class="latest-child">
@@ -2765,6 +3109,7 @@ The most recent homepages captured from 414 news sites.
      alt="Stevens Point Journal"
      loading="lazy">
  </a>
+ <p><a href="./sites/stevenspointjrl.html">Stevens Point Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -2773,6 +3118,7 @@ The most recent homepages captured from 414 news sites.
      alt="Storm Lake Times"
      loading="lazy">
  </a>
+ <p><a href="./sites/sltimes.html">Storm Lake Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -2781,6 +3127,7 @@ The most recent homepages captured from 414 news sites.
      alt="Tech Crunch"
      loading="lazy">
  </a>
+ <p><a href="./sites/techcrunch.html">Tech Crunch</a></p>
 </div>
 
 <div class="latest-child">
@@ -2789,6 +3136,7 @@ The most recent homepages captured from 414 news sites.
      alt="TechCrunch"
      loading="lazy">
  </a>
+ <p><a href="./sites/techcrunch.html">TechCrunch</a></p>
 </div>
 
 <div class="latest-child">
@@ -2797,6 +3145,7 @@ The most recent homepages captured from 414 news sites.
      alt="TechMeme"
      loading="lazy">
  </a>
+ <p><a href="./sites/techmeme.html">TechMeme</a></p>
 </div>
 
 <div class="latest-child">
@@ -2805,6 +3154,7 @@ The most recent homepages captured from 414 news sites.
      alt="Texas Monthly"
      loading="lazy">
  </a>
+ <p><a href="./sites/texasmonthly.html">Texas Monthly</a></p>
 </div>
 
 <div class="latest-child">
@@ -2813,6 +3163,7 @@ The most recent homepages captured from 414 news sites.
      alt="Texas Public Radio"
      loading="lazy">
  </a>
+ <p><a href="./sites/tprnews.html">Texas Public Radio</a></p>
 </div>
 
 <div class="latest-child">
@@ -2821,6 +3172,7 @@ The most recent homepages captured from 414 news sites.
      alt="Texas Tribune"
      loading="lazy">
  </a>
+ <p><a href="./sites/texastribune.html">Texas Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -2829,6 +3181,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Baltimore Sun"
      loading="lazy">
  </a>
+ <p><a href="./sites/baltimoresun.html">The Baltimore Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -2837,6 +3190,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Berkeleyside"
      loading="lazy">
  </a>
+ <p><a href="./sites/berkeleyside.html">The Berkeleyside</a></p>
 </div>
 
 <div class="latest-child">
@@ -2845,6 +3199,7 @@ The most recent homepages captured from 414 news sites.
      alt="The City"
      loading="lazy">
  </a>
+ <p><a href="./sites/thecityny.html">The City</a></p>
 </div>
 
 <div class="latest-child">
@@ -2853,6 +3208,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Desert Sun"
      loading="lazy">
  </a>
+ <p><a href="./sites/mydesert.html">The Desert Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -2861,6 +3217,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Diamondback"
      loading="lazy">
  </a>
+ <p><a href="./sites/thedbk.html">The Diamondback</a></p>
 </div>
 
 <div class="latest-child">
@@ -2869,6 +3226,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Georgia Straight"
      loading="lazy">
  </a>
+ <p><a href="./sites/georgiastraight.html">The Georgia Straight</a></p>
 </div>
 
 <div class="latest-child">
@@ -2877,6 +3235,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Globe and Mail"
      loading="lazy">
  </a>
+ <p><a href="./sites/globeandmail.html">The Globe and Mail</a></p>
 </div>
 
 <div class="latest-child">
@@ -2885,6 +3244,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Guardian"
      loading="lazy">
  </a>
+ <p><a href="./sites/guardian.html">The Guardian</a></p>
 </div>
 
 <div class="latest-child">
@@ -2893,6 +3253,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Hill"
      loading="lazy">
  </a>
+ <p><a href="./sites/thehill.html">The Hill</a></p>
 </div>
 
 <div class="latest-child">
@@ -2901,6 +3262,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Hill Times"
      loading="lazy">
  </a>
+ <p><a href="./sites/thehilltimes.html">The Hill Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -2909,6 +3271,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Independent"
      loading="lazy">
  </a>
+ <p><a href="./sites/independent.html">The Independent</a></p>
 </div>
 
 <div class="latest-child">
@@ -2917,6 +3280,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Information"
      loading="lazy">
  </a>
+ <p><a href="./sites/theinformation.html">The Information</a></p>
 </div>
 
 <div class="latest-child">
@@ -2925,6 +3289,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Markup"
      loading="lazy">
  </a>
+ <p><a href="./sites/themarkup.html">The Markup</a></p>
 </div>
 
 <div class="latest-child">
@@ -2933,6 +3298,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Morning Call"
      loading="lazy">
  </a>
+ <p><a href="./sites/mcall.html">The Morning Call</a></p>
 </div>
 
 <div class="latest-child">
@@ -2941,6 +3307,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Nation"
      loading="lazy">
  </a>
+ <p><a href="./sites/thenation.html">The Nation</a></p>
 </div>
 
 <div class="latest-child">
@@ -2949,6 +3316,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Oaklandside"
      loading="lazy">
  </a>
+ <p><a href="./sites/oaklandside.html">The Oaklandside</a></p>
 </div>
 
 <div class="latest-child">
@@ -2957,6 +3325,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Spectrum"
      loading="lazy">
  </a>
+ <p><a href="./sites/spectrumnews.html">The Spectrum</a></p>
 </div>
 
 <div class="latest-child">
@@ -2965,6 +3334,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Sun"
      loading="lazy">
  </a>
+ <p><a href="./sites/thesun.html">The Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -2973,6 +3343,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Telegraph"
      loading="lazy">
  </a>
+ <p><a href="./sites/telegraph.html">The Telegraph</a></p>
 </div>
 
 <div class="latest-child">
@@ -2981,6 +3352,7 @@ The most recent homepages captured from 414 news sites.
      alt="The Times"
      loading="lazy">
  </a>
+ <p><a href="./sites/thetimes.html">The Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -2989,6 +3361,7 @@ The most recent homepages captured from 414 news sites.
      alt="The TriiBE"
      loading="lazy">
  </a>
+ <p><a href="./sites/thetriibe.html">The TriiBE</a></p>
 </div>
 
 <div class="latest-child">
@@ -2997,6 +3370,7 @@ The most recent homepages captured from 414 news sites.
      alt="Thousand Oaks Acorn"
      loading="lazy">
  </a>
+ <p><a href="./sites/toacornnews.html">Thousand Oaks Acorn</a></p>
 </div>
 
 <div class="latest-child">
@@ -3005,6 +3379,7 @@ The most recent homepages captured from 414 news sites.
      alt="Tiempo"
      loading="lazy">
  </a>
+ <p><a href="./sites/eltiempo.html">Tiempo</a></p>
 </div>
 
 <div class="latest-child">
@@ -3013,6 +3388,7 @@ The most recent homepages captured from 414 news sites.
      alt="TIME"
      loading="lazy">
  </a>
+ <p><a href="./sites/time.html">TIME</a></p>
 </div>
 
 <div class="latest-child">
@@ -3021,6 +3397,7 @@ The most recent homepages captured from 414 news sites.
      alt="Toronto Star"
      loading="lazy">
  </a>
+ <p><a href="./sites/torontostar.html">Toronto Star</a></p>
 </div>
 
 <div class="latest-child">
@@ -3029,6 +3406,7 @@ The most recent homepages captured from 414 news sites.
      alt="Toronto Sun"
      loading="lazy">
  </a>
+ <p><a href="./sites/thetorontosun.html">Toronto Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -3037,6 +3415,7 @@ The most recent homepages captured from 414 news sites.
      alt="TPM"
      loading="lazy">
  </a>
+ <p><a href="./sites/tpm.html">TPM</a></p>
 </div>
 
 <div class="latest-child">
@@ -3045,6 +3424,7 @@ The most recent homepages captured from 414 news sites.
      alt="Trace"
      loading="lazy">
  </a>
+ <p><a href="./sites/teamtrace.html">Trace</a></p>
 </div>
 
 <div class="latest-child">
@@ -3053,6 +3433,7 @@ The most recent homepages captured from 414 news sites.
      alt="Tucson Sentinel"
      loading="lazy">
  </a>
+ <p><a href="./sites/tucsonsentinel.html">Tucson Sentinel</a></p>
 </div>
 
 <div class="latest-child">
@@ -3061,6 +3442,7 @@ The most recent homepages captured from 414 news sites.
      alt="Twin Cities Pioneer Press"
      loading="lazy">
  </a>
+ <p><a href="./sites/pioneerpress.html">Twin Cities Pioneer Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -3069,6 +3451,7 @@ The most recent homepages captured from 414 news sites.
      alt="Ukrinform"
      loading="lazy">
  </a>
+ <p><a href="./sites/ukrinform.html">Ukrinform</a></p>
 </div>
 
 <div class="latest-child">
@@ -3077,6 +3460,7 @@ The most recent homepages captured from 414 news sites.
      alt="Unicorn Riot"
      loading="lazy">
  </a>
+ <p><a href="./sites/ur_ninja.html">Unicorn Riot</a></p>
 </div>
 
 <div class="latest-child">
@@ -3085,6 +3469,7 @@ The most recent homepages captured from 414 news sites.
      alt="USA Today"
      loading="lazy">
  </a>
+ <p><a href="./sites/usatoday.html">USA Today</a></p>
 </div>
 
 <div class="latest-child">
@@ -3093,6 +3478,7 @@ The most recent homepages captured from 414 news sites.
      alt="Valley Public Radio"
      loading="lazy">
  </a>
+ <p><a href="./sites/kvpr.html">Valley Public Radio</a></p>
 </div>
 
 <div class="latest-child">
@@ -3101,6 +3487,7 @@ The most recent homepages captured from 414 news sites.
      alt="Vancouver Sun"
      loading="lazy">
  </a>
+ <p><a href="./sites/vancouversun.html">Vancouver Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -3109,6 +3496,7 @@ The most recent homepages captured from 414 news sites.
      alt="Vanity Fair"
      loading="lazy">
  </a>
+ <p><a href="./sites/vanityfair.html">Vanity Fair</a></p>
 </div>
 
 <div class="latest-child">
@@ -3117,6 +3505,7 @@ The most recent homepages captured from 414 news sites.
      alt="Ventura County Star"
      loading="lazy">
  </a>
+ <p><a href="./sites/vcstar.html">Ventura County Star</a></p>
 </div>
 
 <div class="latest-child">
@@ -3125,6 +3514,7 @@ The most recent homepages captured from 414 news sites.
      alt="VentureBeat"
      loading="lazy">
  </a>
+ <p><a href="./sites/venturebeat.html">VentureBeat</a></p>
 </div>
 
 <div class="latest-child">
@@ -3133,6 +3523,7 @@ The most recent homepages captured from 414 news sites.
      alt="Verge"
      loading="lazy">
  </a>
+ <p><a href="./sites/verge.html">Verge</a></p>
 </div>
 
 <div class="latest-child">
@@ -3141,6 +3532,7 @@ The most recent homepages captured from 414 news sites.
      alt="Vice News"
      loading="lazy">
  </a>
+ <p><a href="./sites/vicenews.html">Vice News</a></p>
 </div>
 
 <div class="latest-child">
@@ -3149,6 +3541,7 @@ The most recent homepages captured from 414 news sites.
      alt="Voice of OC"
      loading="lazy">
  </a>
+ <p><a href="./sites/voiceofoc.html">Voice of OC</a></p>
 </div>
 
 <div class="latest-child">
@@ -3157,6 +3550,7 @@ The most recent homepages captured from 414 news sites.
      alt="Voice of San Diego"
      loading="lazy">
  </a>
+ <p><a href="./sites/voiceofsandiego.html">Voice of San Diego</a></p>
 </div>
 
 <div class="latest-child">
@@ -3165,6 +3559,7 @@ The most recent homepages captured from 414 news sites.
      alt="Voices of Monterey Bay"
      loading="lazy">
  </a>
+ <p><a href="./sites/voicesofbay.html">Voices of Monterey Bay</a></p>
 </div>
 
 <div class="latest-child">
@@ -3173,6 +3568,7 @@ The most recent homepages captured from 414 news sites.
      alt="Votebeat"
      loading="lazy">
  </a>
+ <p><a href="./sites/votebeatus.html">Votebeat</a></p>
 </div>
 
 <div class="latest-child">
@@ -3181,6 +3577,7 @@ The most recent homepages captured from 414 news sites.
      alt="Vox"
      loading="lazy">
  </a>
+ <p><a href="./sites/voxdotcom.html">Vox</a></p>
 </div>
 
 <div class="latest-child">
@@ -3189,6 +3586,7 @@ The most recent homepages captured from 414 news sites.
      alt="VT Digger"
      loading="lazy">
  </a>
+ <p><a href="./sites/vtdigger.html">VT Digger</a></p>
 </div>
 
 <div class="latest-child">
@@ -3197,6 +3595,7 @@ The most recent homepages captured from 414 news sites.
      alt="Wall Street Journal"
      loading="lazy">
  </a>
+ <p><a href="./sites/wsj.html">Wall Street Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -3205,6 +3604,7 @@ The most recent homepages captured from 414 news sites.
      alt="Washington Examiner"
      loading="lazy">
  </a>
+ <p><a href="./sites/dcexaminer.html">Washington Examiner</a></p>
 </div>
 
 <div class="latest-child">
@@ -3213,6 +3613,7 @@ The most recent homepages captured from 414 news sites.
      alt="Washington Post"
      loading="lazy">
  </a>
+ <p><a href="./sites/washingtonpost.html">Washington Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -3221,6 +3622,7 @@ The most recent homepages captured from 414 news sites.
      alt="Washington Times"
      loading="lazy">
  </a>
+ <p><a href="./sites/washtimes.html">Washington Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -3229,6 +3631,7 @@ The most recent homepages captured from 414 news sites.
      alt="Waterloo-Cedar Falls Courier"
      loading="lazy">
  </a>
+ <p><a href="./sites/wcfcourier.html">Waterloo-Cedar Falls Courier</a></p>
 </div>
 
 <div class="latest-child">
@@ -3237,6 +3640,7 @@ The most recent homepages captured from 414 news sites.
      alt="Wausau Daily Herald"
      loading="lazy">
  </a>
+ <p><a href="./sites/wausauherald.html">Wausau Daily Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -3245,6 +3649,7 @@ The most recent homepages captured from 414 news sites.
      alt="WBEZ"
      loading="lazy">
  </a>
+ <p><a href="./sites/wbez.html">WBEZ</a></p>
 </div>
 
 <div class="latest-child">
@@ -3253,6 +3658,7 @@ The most recent homepages captured from 414 news sites.
      alt="WHYY"
      loading="lazy">
  </a>
+ <p><a href="./sites/whyynews.html">WHYY</a></p>
 </div>
 
 <div class="latest-child">
@@ -3261,6 +3667,7 @@ The most recent homepages captured from 414 news sites.
      alt="Wired"
      loading="lazy">
  </a>
+ <p><a href="./sites/wired.html">Wired</a></p>
 </div>
 
 <div class="latest-child">
@@ -3269,6 +3676,7 @@ The most recent homepages captured from 414 news sites.
      alt="Wisconsin State Journal"
      loading="lazy">
  </a>
+ <p><a href="./sites/wistatejournal.html">Wisconsin State Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -3277,6 +3685,7 @@ The most recent homepages captured from 414 news sites.
      alt="WNYC"
      loading="lazy">
  </a>
+ <p><a href="./sites/wnyc.html">WNYC</a></p>
 </div>
 
 <div class="latest-child">
@@ -3285,6 +3694,7 @@ The most recent homepages captured from 414 news sites.
      alt="WRAL"
      loading="lazy">
  </a>
+ <p><a href="./sites/wral.html">WRAL</a></p>
 </div>
 
 <div class="latest-child">
@@ -3293,6 +3703,7 @@ The most recent homepages captured from 414 news sites.
      alt="WTTW"
      loading="lazy">
  </a>
+ <p><a href="./sites/wttw.html">WTTW</a></p>
 </div>
 
 <div class="latest-child">
@@ -3301,6 +3712,7 @@ The most recent homepages captured from 414 news sites.
      alt="Yahoo! News"
      loading="lazy">
  </a>
+ <p><a href="./sites/yahoonews.html">Yahoo! News</a></p>
 </div>
 
 <div class="latest-child">
@@ -3309,6 +3721,7 @@ The most recent homepages captured from 414 news sites.
      alt="Yomiuri shinbun"
      loading="lazy">
  </a>
+ <p><a href="./sites/jn_japanese.html">Yomiuri shinbun</a></p>
 </div>
 
 <div class="latest-child">
@@ -3317,6 +3730,7 @@ The most recent homepages captured from 414 news sites.
      alt="ZN.UA"
      loading="lazy">
  </a>
+ <p><a href="./sites/zn_ua.html">ZN.UA</a></p>
 </div>
 
 </div>

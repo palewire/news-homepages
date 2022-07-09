@@ -17,6 +17,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="MinnPost"
      loading="lazy">
  </a>
+ <p><a href="../sites/minnpost.html">MinnPost</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Twin Cities Pioneer Press"
      loading="lazy">
  </a>
+ <p><a href="../sites/pioneerpress.html">Twin Cities Pioneer Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Sahan Journal"
      loading="lazy">
  </a>
+ <p><a href="../sites/sahanjournal.html">Sahan Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Minneapolis Star Tribune"
      loading="lazy">
  </a>
+ <p><a href="../sites/startribune.html">Minneapolis Star Tribune</a></p>
 </div>
 
 </div>

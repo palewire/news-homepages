@@ -17,6 +17,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="Ames Tribune"
      loading="lazy">
  </a>
+ <p><a href="../sites/amestribnews.html">Ames Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="Des Moines Register"
      loading="lazy">
  </a>
+ <p><a href="../sites/dmregister.html">Des Moines Register</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="Cedar Rapids Gazette"
      loading="lazy">
  </a>
+ <p><a href="../sites/gazettedotcom.html">Cedar Rapids Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="Iowa Public Radio"
      loading="lazy">
  </a>
+ <p><a href="../sites/iowapublicradio.html">Iowa Public Radio</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="KCAU"
      loading="lazy">
  </a>
+ <p><a href="../sites/kcautv.html">KCAU</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="KCCI"
      loading="lazy">
  </a>
+ <p><a href="../sites/kccinews.html">KCCI</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="KCRG"
      loading="lazy">
  </a>
+ <p><a href="../sites/kcrg.html">KCRG</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="Little Village"
      loading="lazy">
  </a>
+ <p><a href="../sites/littlevillage.html">Little Village</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="Ottumwa Courier"
      loading="lazy">
  </a>
+ <p><a href="../sites/ottumwacourier.html">Ottumwa Courier</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="Iowa City Press-Citizen"
      loading="lazy">
  </a>
+ <p><a href="../sites/presscitizen.html">Iowa City Press-Citizen</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="Quad City Times"
      loading="lazy">
  </a>
+ <p><a href="../sites/qctimes.html">Quad City Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="Storm Lake Times"
      loading="lazy">
  </a>
+ <p><a href="../sites/sltimes.html">Storm Lake Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -113,6 +125,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="Dubuque Telegraph Herald"
      loading="lazy">
  </a>
+ <p><a href="../sites/telegraphherald.html">Dubuque Telegraph Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -121,6 +134,7 @@ The most recent homepages from 14 news sites in this bundle.
      alt="Waterloo-Cedar Falls Courier"
      loading="lazy">
  </a>
+ <p><a href="../sites/wcfcourier.html">Waterloo-Cedar Falls Courier</a></p>
 </div>
 
 </div>

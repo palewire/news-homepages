@@ -17,6 +17,7 @@ The most recent homepages from 3 news sites in this bundle.
      alt="El Universal"
      loading="lazy">
  </a>
+ <p><a href="../sites/el_universal_mx.html">El Universal</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 3 news sites in this bundle.
      alt="La Jornada"
      loading="lazy">
  </a>
+ <p><a href="../sites/lajornada.html">La Jornada</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 3 news sites in this bundle.
      alt="Animal Político"
      loading="lazy">
  </a>
+ <p><a href="../sites/pajaropolitico.html">Animal Político</a></p>
 </div>
 
 </div>

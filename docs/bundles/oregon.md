@@ -17,6 +17,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="Central Oregon Daily"
      loading="lazy">
  </a>
+ <p><a href="../sites/codaily.html">Central Oregon Daily</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="Fox 12 Oregon"
      loading="lazy">
  </a>
+ <p><a href="../sites/fox12oregon.html">Fox 12 Oregon</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="Oregon Capital Chronicle"
      loading="lazy">
  </a>
+ <p><a href="../sites/orcapchronicle.html">Oregon Capital Chronicle</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="Oregonian"
      loading="lazy">
  </a>
+ <p><a href="../sites/oregonian.html">Oregonian</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="Portland Mercury"
      loading="lazy">
  </a>
+ <p><a href="../sites/portlandmercury.html">Portland Mercury</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="Ashland.news"
      loading="lazy">
  </a>
+ <p><a href="../sites/ashlandornews.html">Ashland.news</a></p>
 </div>
 
 </div>

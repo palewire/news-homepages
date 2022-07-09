@@ -17,6 +17,7 @@ The most recent homepages from 11 news sites in this bundle.
      alt="Gothamist"
      loading="lazy">
  </a>
+ <p><a href="../sites/gothamist.html">Gothamist</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 11 news sites in this bundle.
      alt="Hell Gate"
      loading="lazy">
  </a>
+ <p><a href="../sites/hellgateny.html">Hell Gate</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 11 news sites in this bundle.
      alt="NY1"
      loading="lazy">
  </a>
+ <p><a href="../sites/ny1.html">NY1</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 11 news sites in this bundle.
      alt="Daily News"
      loading="lazy">
  </a>
+ <p><a href="../sites/nydailynews.html">Daily News</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 11 news sites in this bundle.
      alt="New York"
      loading="lazy">
  </a>
+ <p><a href="../sites/nymag.html">New York</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 11 news sites in this bundle.
      alt="New York Post"
      loading="lazy">
  </a>
+ <p><a href="../sites/nypost.html">New York Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 11 news sites in this bundle.
      alt="The City"
      loading="lazy">
  </a>
+ <p><a href="../sites/thecityny.html">The City</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 11 news sites in this bundle.
      alt="WNYC"
      loading="lazy">
  </a>
+ <p><a href="../sites/wnyc.html">WNYC</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 11 news sites in this bundle.
      alt="City Limits"
      loading="lazy">
  </a>
+ <p><a href="../sites/citylimitsnews.html">City Limits</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 11 news sites in this bundle.
      alt="Documented"
      loading="lazy">
  </a>
+ <p><a href="../sites/documentedny.html">Documented</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 11 news sites in this bundle.
      alt="New York Focus"
      loading="lazy">
  </a>
+ <p><a href="../sites/nysfocus.html">New York Focus</a></p>
 </div>
 
 </div>

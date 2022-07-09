@@ -17,6 +17,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="KING5"
      loading="lazy">
  </a>
+ <p><a href="../sites/king5seattle.html">KING5</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Seattle Times"
      loading="lazy">
  </a>
+ <p><a href="../sites/seattletimes.html">Seattle Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Spokesman-Review"
      loading="lazy">
  </a>
+ <p><a href="../sites/spokesmanreview.html">Spokesman-Review</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Gig Harbor Now"
      loading="lazy">
  </a>
+ <p><a href="../sites/gigharbornow.html">Gig Harbor Now</a></p>
 </div>
 
 </div>

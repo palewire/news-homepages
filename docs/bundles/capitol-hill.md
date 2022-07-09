@@ -17,6 +17,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Cook Political Report"
      loading="lazy">
  </a>
+ <p><a href="../sites/cookpolitical.html">Cook Political Report</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="CQ"
      loading="lazy">
  </a>
+ <p><a href="../sites/cqnow.html">CQ</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Decision Desk HQ"
      loading="lazy">
  </a>
+ <p><a href="../sites/decisiondeskhq.html">Decision Desk HQ</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="E&E News"
      loading="lazy">
  </a>
+ <p><a href="../sites/eenewsupdates.html">E&E News</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="National Journal"
      loading="lazy">
  </a>
+ <p><a href="../sites/nationaljournal.html">National Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="POLITICO"
      loading="lazy">
  </a>
+ <p><a href="../sites/politico.html">POLITICO</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Politifact "
      loading="lazy">
  </a>
+ <p><a href="../sites/politifact.html">Politifact </a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Punchbowl News"
      loading="lazy">
  </a>
+ <p><a href="../sites/punchbowlnews.html">Punchbowl News</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Roll Call"
      loading="lazy">
  </a>
+ <p><a href="../sites/rollcall.html">Roll Call</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="SCOTUS Blog"
      loading="lazy">
  </a>
+ <p><a href="../sites/scotusblog.html">SCOTUS Blog</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="The Hill"
      loading="lazy">
  </a>
+ <p><a href="../sites/thehill.html">The Hill</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="TPM"
      loading="lazy">
  </a>
+ <p><a href="../sites/tpm.html">TPM</a></p>
 </div>
 
 </div>

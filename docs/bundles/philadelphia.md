@@ -17,6 +17,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="6abc"
      loading="lazy">
  </a>
+ <p><a href="../sites/6abc.html">6abc</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="Billy Penn"
      loading="lazy">
  </a>
+ <p><a href="../sites/billy_penn.html">Billy Penn</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="FOX29 Philly"
      loading="lazy">
  </a>
+ <p><a href="../sites/fox29philly.html">FOX29 Philly</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="NBC10 Philadelphia"
      loading="lazy">
  </a>
+ <p><a href="../sites/nbcphiladelphia.html">NBC10 Philadelphia</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="Philadelphia Inquirer"
      loading="lazy">
  </a>
+ <p><a href="../sites/phillyinquirer.html">Philadelphia Inquirer</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="Philadelphia Tribune"
      loading="lazy">
  </a>
+ <p><a href="../sites/phillytrib.html">Philadelphia Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="Philadelphia Citizen"
      loading="lazy">
  </a>
+ <p><a href="../sites/thephilacitizen.html">Philadelphia Citizen</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="WHYY"
      loading="lazy">
  </a>
+ <p><a href="../sites/whyynews.html">WHYY</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="Hidden City Daily"
      loading="lazy">
  </a>
+ <p><a href="../sites/hiddencityphila.html">Hidden City Daily</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="Next City"
      loading="lazy">
  </a>
+ <p><a href="../sites/nextcityorg.html">Next City</a></p>
 </div>
 
 </div>

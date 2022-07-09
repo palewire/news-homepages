@@ -17,6 +17,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Ars Technica"
      loading="lazy">
  </a>
+ <p><a href="../sites/arstechnica.html">Ars Technica</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="CNET"
      loading="lazy">
  </a>
+ <p><a href="../sites/cnet.html">CNET</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Engadget"
      loading="lazy">
  </a>
+ <p><a href="../sites/engadget.html">Engadget</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Gizmodo"
      loading="lazy">
  </a>
+ <p><a href="../sites/gizmodo.html">Gizmodo</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Mashable"
      loading="lazy">
  </a>
+ <p><a href="../sites/mashable.html">Mashable</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Protocol"
      loading="lazy">
  </a>
+ <p><a href="../sites/protocol.html">Protocol</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Tech Crunch"
      loading="lazy">
  </a>
+ <p><a href="../sites/techcrunch.html">Tech Crunch</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="TechCrunch"
      loading="lazy">
  </a>
+ <p><a href="../sites/techcrunch.html">TechCrunch</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="The Information"
      loading="lazy">
  </a>
+ <p><a href="../sites/theinformation.html">The Information</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="VentureBeat"
      loading="lazy">
  </a>
+ <p><a href="../sites/venturebeat.html">VentureBeat</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Verge"
      loading="lazy">
  </a>
+ <p><a href="../sites/verge.html">Verge</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Wired"
      loading="lazy">
  </a>
+ <p><a href="../sites/wired.html">Wired</a></p>
 </div>
 
 </div>

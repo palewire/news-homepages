@@ -17,6 +17,7 @@ The most recent homepages from 5 news sites in this bundle.
      alt="Dallas Morning News"
      loading="lazy">
  </a>
+ <p><a href="../sites/dallasnews.html">Dallas Morning News</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 5 news sites in this bundle.
      alt="San Antonio Express-News"
      loading="lazy">
  </a>
+ <p><a href="../sites/expressnews.html">San Antonio Express-News</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 5 news sites in this bundle.
      alt="Houston Chronicle"
      loading="lazy">
  </a>
+ <p><a href="../sites/houstonchron.html">Houston Chronicle</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 5 news sites in this bundle.
      alt="Texas Monthly"
      loading="lazy">
  </a>
+ <p><a href="../sites/texasmonthly.html">Texas Monthly</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 5 news sites in this bundle.
      alt="Texas Public Radio"
      loading="lazy">
  </a>
+ <p><a href="../sites/tprnews.html">Texas Public Radio</a></p>
 </div>
 
 </div>

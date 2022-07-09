@@ -17,6 +17,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="BBC"
      loading="lazy">
  </a>
+ <p><a href="../sites/bbc.html">BBC</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="Financial Times"
      loading="lazy">
  </a>
+ <p><a href="../sites/ft.html">Financial Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="The Guardian"
      loading="lazy">
  </a>
+ <p><a href="../sites/guardian.html">The Guardian</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="The Independent"
      loading="lazy">
  </a>
+ <p><a href="../sites/independent.html">The Independent</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="Daily Mail"
      loading="lazy">
  </a>
+ <p><a href="../sites/mailonline.html">Daily Mail</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="The Telegraph"
      loading="lazy">
  </a>
+ <p><a href="../sites/telegraph.html">The Telegraph</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="The Sun"
      loading="lazy">
  </a>
+ <p><a href="../sites/thesun.html">The Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="The Times"
      loading="lazy">
  </a>
+ <p><a href="../sites/thetimes.html">The Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="Daily Mirror"
      loading="lazy">
  </a>
+ <p><a href="../sites/dailymirror.html">Daily Mirror</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 10 news sites in this bundle.
      alt="Evening Standard"
      loading="lazy">
  </a>
+ <p><a href="../sites/eveningstandard.html">Evening Standard</a></p>
 </div>
 
 </div>

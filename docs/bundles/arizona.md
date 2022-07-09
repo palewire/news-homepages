@@ -17,6 +17,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Arizona Republic"
      loading="lazy">
  </a>
+ <p><a href="../sites/azcentral.html">Arizona Republic</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Arizona Daily Sun"
      loading="lazy">
  </a>
+ <p><a href="../sites/azds.html">Arizona Daily Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="News 4"
      loading="lazy">
  </a>
+ <p><a href="../sites/kvoa.html">News 4</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Arizona Daily Star"
      loading="lazy">
  </a>
+ <p><a href="../sites/tucsonstar.html">Arizona Daily Star</a></p>
 </div>
 
 </div>

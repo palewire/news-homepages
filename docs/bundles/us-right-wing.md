@@ -17,6 +17,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Bongino Report"
      loading="lazy">
  </a>
+ <p><a href="../sites/bonginoreport.html">Bongino Report</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Breitbart"
      loading="lazy">
  </a>
+ <p><a href="../sites/breitbartnews.html">Breitbart</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Daily Caller"
      loading="lazy">
  </a>
+ <p><a href="../sites/dailycaller.html">Daily Caller</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Washington Examiner"
      loading="lazy">
  </a>
+ <p><a href="../sites/dcexaminer.html">Washington Examiner</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Drudge Report"
      loading="lazy">
  </a>
+ <p><a href="../sites/drudge.html">Drudge Report</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Gateway Pundit"
      loading="lazy">
  </a>
+ <p><a href="../sites/gatewaypundit.html">Gateway Pundit</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Human Events"
      loading="lazy">
  </a>
+ <p><a href="../sites/humanevents.html">Human Events</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="National Review"
      loading="lazy">
  </a>
+ <p><a href="../sites/nro.html">National Review</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="One America News Network"
      loading="lazy">
  </a>
+ <p><a href="../sites/oann.html">One America News Network</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Daily Wire"
      loading="lazy">
  </a>
+ <p><a href="../sites/realdailywire.html">Daily Wire</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Blaze"
      loading="lazy">
  </a>
+ <p><a href="../sites/theblaze.html">Blaze</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Washington Times"
      loading="lazy">
  </a>
+ <p><a href="../sites/washtimes.html">Washington Times</a></p>
 </div>
 
 </div>

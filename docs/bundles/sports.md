@@ -17,6 +17,7 @@ The most recent homepages from 7 news sites in this bundle.
      alt="Bleacher Report"
      loading="lazy">
  </a>
+ <p><a href="../sites/bleacherreport.html">Bleacher Report</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 7 news sites in this bundle.
      alt="Deadspin"
      loading="lazy">
  </a>
+ <p><a href="../sites/deadspin.html">Deadspin</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 7 news sites in this bundle.
      alt="Defector"
      loading="lazy">
  </a>
+ <p><a href="../sites/defectormedia.html">Defector</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 7 news sites in this bundle.
      alt="ESPN"
      loading="lazy">
  </a>
+ <p><a href="../sites/espn.html">ESPN</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 7 news sites in this bundle.
      alt="Fox Sports"
      loading="lazy">
  </a>
+ <p><a href="../sites/foxsports.html">Fox Sports</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 7 news sites in this bundle.
      alt="SB Nation"
      loading="lazy">
  </a>
+ <p><a href="../sites/sbnation.html">SB Nation</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 7 news sites in this bundle.
      alt="Sports Illustrated"
      loading="lazy">
  </a>
+ <p><a href="../sites/sinow.html">Sports Illustrated</a></p>
 </div>
 
 </div>

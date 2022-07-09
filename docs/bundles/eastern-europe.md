@@ -17,6 +17,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="hromadske"
      loading="lazy">
  </a>
+ <p><a href="../sites/hromadskeua.html">hromadske</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="Kyiv Independent"
      loading="lazy">
  </a>
+ <p><a href="../sites/kyivindependent.html">Kyiv Independent</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="KyivPost"
      loading="lazy">
  </a>
+ <p><a href="../sites/kyivpost.html">KyivPost</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="Meduza"
      loading="lazy">
  </a>
+ <p><a href="../sites/meduzaproject.html">Meduza</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="Ukrinform"
      loading="lazy">
  </a>
+ <p><a href="../sites/ukrinform.html">Ukrinform</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 6 news sites in this bundle.
      alt="ZN.UA"
      loading="lazy">
  </a>
+ <p><a href="../sites/zn_ua.html">ZN.UA</a></p>
 </div>
 
 </div>

@@ -17,6 +17,7 @@ The most recent homepages from 5 news sites in this bundle.
      alt="Carolina Public Press"
      loading="lazy">
  </a>
+ <p><a href="../sites/cpublicpress.html">Carolina Public Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 5 news sites in this bundle.
      alt="CBS 17"
      loading="lazy">
  </a>
+ <p><a href="../sites/wncn.html">CBS 17</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 5 news sites in this bundle.
      alt="WRAL"
      loading="lazy">
  </a>
+ <p><a href="../sites/wral.html">WRAL</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 5 news sites in this bundle.
      alt="Asheville Watchdog"
      loading="lazy">
  </a>
+ <p><a href="../sites/avlwatchdog.html">Asheville Watchdog</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 5 news sites in this bundle.
      alt="Daily Tarheel"
      loading="lazy">
  </a>
+ <p><a href="../sites/dailytarheel.html">Daily Tarheel</a></p>
 </div>
 
 </div>

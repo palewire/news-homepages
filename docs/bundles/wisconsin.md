@@ -17,6 +17,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Green Bay Press-Gazette"
      loading="lazy">
  </a>
+ <p><a href="../sites/gbpressgazette.html">Green Bay Press-Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Herald Times Reporter"
      loading="lazy">
  </a>
+ <p><a href="../sites/htrnews.html">Herald Times Reporter</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Milwaukee Journal Sentinel"
      loading="lazy">
  </a>
+ <p><a href="../sites/journalsentinel.html">Milwaukee Journal Sentinel</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="LaCrosse Tribune"
      loading="lazy">
  </a>
+ <p><a href="../sites/lacrossetribune.html">LaCrosse Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Eau Claire Leader-Telegram"
      loading="lazy">
  </a>
+ <p><a href="../sites/leadertelegram.html">Eau Claire Leader-Telegram</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Appleton Post Crescent"
      loading="lazy">
  </a>
+ <p><a href="../sites/postcrescent.html">Appleton Post Crescent</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Stevens Point Journal"
      loading="lazy">
  </a>
+ <p><a href="../sites/stevenspointjrl.html">Stevens Point Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Wausau Daily Herald"
      loading="lazy">
  </a>
+ <p><a href="../sites/wausauherald.html">Wausau Daily Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Wisconsin State Journal"
      loading="lazy">
  </a>
+ <p><a href="../sites/wistatejournal.html">Wisconsin State Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Door County Knock"
      loading="lazy">
  </a>
+ <p><a href="../sites/doorcountyknock.html">Door County Knock</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="mi wisconsin"
      loading="lazy">
  </a>
+ <p><a href="../sites/miwisconsin.html">mi wisconsin</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Badger Project"
      loading="lazy">
  </a>
+ <p><a href="../sites/badger_project_.html">Badger Project</a></p>
 </div>
 
 </div>

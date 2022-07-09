@@ -17,6 +17,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="ABC News"
      loading="lazy">
  </a>
+ <p><a href="../sites/abc.html">ABC News</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Associated Press"
      loading="lazy">
  </a>
+ <p><a href="../sites/ap.html">Associated Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Bloomberg"
      loading="lazy">
  </a>
+ <p><a href="../sites/business.html">Bloomberg</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="CBS News"
      loading="lazy">
  </a>
+ <p><a href="../sites/cbsnews.html">CBS News</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="CNN"
      loading="lazy">
  </a>
+ <p><a href="../sites/cnn.html">CNN</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Fox News"
      loading="lazy">
  </a>
+ <p><a href="../sites/foxnews.html">Fox News</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Huffington Post"
      loading="lazy">
  </a>
+ <p><a href="../sites/huffpost.html">Huffington Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="MSNBC"
      loading="lazy">
  </a>
+ <p><a href="../sites/msnbc.html">MSNBC</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="NBC News"
      loading="lazy">
  </a>
+ <p><a href="../sites/nbcnews.html">NBC News</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="PBS News Hour"
      loading="lazy">
  </a>
+ <p><a href="../sites/newshour.html">PBS News Hour</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="NPR"
      loading="lazy">
  </a>
+ <p><a href="../sites/npr.html">NPR</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="New York Times"
      loading="lazy">
  </a>
+ <p><a href="../sites/nytimes.html">New York Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -113,6 +125,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="USA Today"
      loading="lazy">
  </a>
+ <p><a href="../sites/usatoday.html">USA Today</a></p>
 </div>
 
 <div class="latest-child">
@@ -121,6 +134,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Wall Street Journal"
      loading="lazy">
  </a>
+ <p><a href="../sites/wsj.html">Wall Street Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -129,6 +143,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Yahoo! News"
      loading="lazy">
  </a>
+ <p><a href="../sites/yahoonews.html">Yahoo! News</a></p>
 </div>
 
 <div class="latest-child">
@@ -137,6 +152,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Washington Post"
      loading="lazy">
  </a>
+ <p><a href="../sites/washingtonpost.html">Washington Post</a></p>
 </div>
 
 </div>

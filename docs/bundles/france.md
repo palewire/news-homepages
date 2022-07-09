@@ -17,6 +17,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="20 Minutes"
      loading="lazy">
  </a>
+ <p><a href="../sites/20minutes.html">20 Minutes</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="FRANCE 24"
      loading="lazy">
  </a>
+ <p><a href="../sites/france24.html">FRANCE 24</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="France 24 English"
      loading="lazy">
  </a>
+ <p><a href="../sites/france24_en.html">France 24 English</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="franceinfo"
      loading="lazy">
  </a>
+ <p><a href="../sites/franceinfo.html">franceinfo</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Le Figaro"
      loading="lazy">
  </a>
+ <p><a href="../sites/le_figaro.html">Le Figaro</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Le Parisien"
      loading="lazy">
  </a>
+ <p><a href="../sites/le_parisien.html">Le Parisien</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Le Huffington Post"
      loading="lazy">
  </a>
+ <p><a href="../sites/lehuffpost.html">Le Huffington Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Le Monde in English"
      loading="lazy">
  </a>
+ <p><a href="../sites/lemonde_en.html">Le Monde in English</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Le Monde"
      loading="lazy">
  </a>
+ <p><a href="../sites/lemondefr.html">Le Monde</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="Libération"
      loading="lazy">
  </a>
+ <p><a href="../sites/libe.html">Libération</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="L’Obs"
      loading="lazy">
  </a>
+ <p><a href="../sites/lobs.html">L’Obs</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 12 news sites in this bundle.
      alt="RFI"
      loading="lazy">
  </a>
+ <p><a href="../sites/rfi.html">RFI</a></p>
 </div>
 
 </div>

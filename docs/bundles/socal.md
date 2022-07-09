@@ -17,6 +17,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="ABC7"
      loading="lazy">
  </a>
+ <p><a href="../sites/abc7.html">ABC7</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="FOX 11 Los Angeles"
      loading="lazy">
  </a>
+ <p><a href="../sites/foxla.html">FOX 11 Los Angeles</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="Knock.LA"
      loading="lazy">
  </a>
+ <p><a href="../sites/knockdotla.html">Knock.LA</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="KPBS"
      loading="lazy">
  </a>
+ <p><a href="../sites/kpbs.html">KPBS</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="KPCC"
      loading="lazy">
  </a>
+ <p><a href="../sites/kpcc.html">KPCC</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="KTLA"
      loading="lazy">
  </a>
+ <p><a href="../sites/ktla.html">KTLA</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="LAist"
      loading="lazy">
  </a>
+ <p><a href="../sites/laist.html">LAist</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="Los Angeles Times"
      loading="lazy">
  </a>
+ <p><a href="../sites/latimes.html">Los Angeles Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="The Desert Sun"
      loading="lazy">
  </a>
+ <p><a href="../sites/mydesert.html">The Desert Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="Orange County Register"
      loading="lazy">
  </a>
+ <p><a href="../sites/ocregister.html">Orange County Register</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="Riverside Press-Enterprise"
      loading="lazy">
  </a>
+ <p><a href="../sites/pressenterprise.html">Riverside Press-Enterprise</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="San Diego Union Tribune"
      loading="lazy">
  </a>
+ <p><a href="../sites/sdut.html">San Diego Union Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -113,6 +125,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="Los Angeles Sentinel"
      loading="lazy">
  </a>
+ <p><a href="../sites/thelasentinel.html">Los Angeles Sentinel</a></p>
 </div>
 
 <div class="latest-child">
@@ -121,6 +134,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="Thousand Oaks Acorn"
      loading="lazy">
  </a>
+ <p><a href="../sites/toacornnews.html">Thousand Oaks Acorn</a></p>
 </div>
 
 <div class="latest-child">
@@ -129,6 +143,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="Ventura County Star"
      loading="lazy">
  </a>
+ <p><a href="../sites/vcstar.html">Ventura County Star</a></p>
 </div>
 
 <div class="latest-child">
@@ -137,6 +152,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="Voice of San Diego"
      loading="lazy">
  </a>
+ <p><a href="../sites/voiceofsandiego.html">Voice of San Diego</a></p>
 </div>
 
 <div class="latest-child">
@@ -145,6 +161,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="inewsource"
      loading="lazy">
  </a>
+ <p><a href="../sites/inewsource.html">inewsource</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,6 +170,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="Voice of OC"
      loading="lazy">
  </a>
+ <p><a href="../sites/voiceofoc.html">Voice of OC</a></p>
 </div>
 
 <div class="latest-child">
@@ -161,6 +179,7 @@ The most recent homepages from 19 news sites in this bundle.
      alt="L.A. Taco"
      loading="lazy">
  </a>
+ <p><a href="../sites/lataco.html">L.A. Taco</a></p>
 </div>
 
 </div>

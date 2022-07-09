@@ -17,6 +17,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="14 East"
      loading="lazy">
  </a>
+ <p><a href="../sites/14eastmag.html">14 East</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Block Club Chicago"
      loading="lazy">
  </a>
+ <p><a href="../sites/blockclubchi.html">Block Club Chicago</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Chicago Reader"
      loading="lazy">
  </a>
+ <p><a href="../sites/chicago_reader.html">Chicago Reader</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Chicago Reporter"
      loading="lazy">
  </a>
+ <p><a href="../sites/chicagoreporter.html">Chicago Reporter</a></p>
 </div>
 
 <div class="latest-child">
@@ -49,6 +53,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Chicago Tribune"
      loading="lazy">
  </a>
+ <p><a href="../sites/chicagotribune.html">Chicago Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -57,6 +62,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="NBC Chicago"
      loading="lazy">
  </a>
+ <p><a href="../sites/nbcchicago.html">NBC Chicago</a></p>
 </div>
 
 <div class="latest-child">
@@ -65,6 +71,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Pitchfork"
      loading="lazy">
  </a>
+ <p><a href="../sites/pitchfork.html">Pitchfork</a></p>
 </div>
 
 <div class="latest-child">
@@ -73,6 +80,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="South Side Weekly"
      loading="lazy">
  </a>
+ <p><a href="../sites/southsideweekly.html">South Side Weekly</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +89,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Chicago Sun-Times"
      loading="lazy">
  </a>
+ <p><a href="../sites/suntimes.html">Chicago Sun-Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -89,6 +98,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="The TriiBE"
      loading="lazy">
  </a>
+ <p><a href="../sites/thetriibe.html">The TriiBE</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,6 +107,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="WBEZ"
      loading="lazy">
  </a>
+ <p><a href="../sites/wbez.html">WBEZ</a></p>
 </div>
 
 <div class="latest-child">
@@ -105,6 +116,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="WTTW"
      loading="lazy">
  </a>
+ <p><a href="../sites/wttw.html">WTTW</a></p>
 </div>
 
 <div class="latest-child">
@@ -113,6 +125,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Austin Weekly News"
      loading="lazy">
  </a>
+ <p><a href="../sites/gcm_nf.html">Austin Weekly News</a></p>
 </div>
 
 <div class="latest-child">
@@ -121,6 +134,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Better Government Association"
      loading="lazy">
  </a>
+ <p><a href="../sites/bettergov.html">Better Government Association</a></p>
 </div>
 
 <div class="latest-child">
@@ -129,6 +143,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Evanston RoundTable"
      loading="lazy">
  </a>
+ <p><a href="../sites/evroundtable.html">Evanston RoundTable</a></p>
 </div>
 
 <div class="latest-child">
@@ -137,6 +152,7 @@ The most recent homepages from 16 news sites in this bundle.
      alt="Injustice Watch"
      loading="lazy">
  </a>
+ <p><a href="../sites/injusticewatch.html">Injustice Watch</a></p>
 </div>
 
 </div>

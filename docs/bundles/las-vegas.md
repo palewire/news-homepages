@@ -17,6 +17,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Las Vegas Sun"
      loading="lazy">
  </a>
+ <p><a href="../sites/lasvegassun.html">Las Vegas Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -25,6 +26,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="KSNV News 3"
      loading="lazy">
  </a>
+ <p><a href="../sites/news3lv.html">KSNV News 3</a></p>
 </div>
 
 <div class="latest-child">
@@ -33,6 +35,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Las Vegas Review-Journal"
      loading="lazy">
  </a>
+ <p><a href="../sites/reviewjournal.html">Las Vegas Review-Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -41,6 +44,7 @@ The most recent homepages from 4 news sites in this bundle.
      alt="Nevada Public Radio"
      loading="lazy">
  </a>
+ <p><a href="../sites/knprnews.html">Nevada Public Radio</a></p>
 </div>
 
 </div>

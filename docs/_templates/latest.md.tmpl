@@ -13,6 +13,7 @@ The most recent homepages captured from {{ site_list|length }} news sites.
      alt="{{ obj.name }}"
      loading="lazy">
  </a>
+ <p><a href="./sites/{{ obj.handle.lower() }}.html">{{ obj.name }}</a></p>
 </div>
 {% endfor %}
 </div>
