@@ -17,7 +17,8 @@ orphan: true
 | Location       | Raleigh                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 3 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[newsobserver-2022](https://archive.org/details/newsobserver-2022)|

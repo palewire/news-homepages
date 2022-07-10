@@ -17,7 +17,7 @@ orphan: true
 | Location       | Riga                                                                 |
 | Timezone       | Europe/Riga                                                                 |
 
-The archiving routine has captured 234 screenshots stored at the Internet Archive.
+The archiving routine has captured 235 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

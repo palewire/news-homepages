@@ -17,7 +17,7 @@ orphan: true
 | Location       | Tucson                                                                 |
 | Timezone       | America/Phoenix                                                                 |
 
-The archiving routine has captured 12 screenshots stored at the Internet Archive.
+The archiving routine has captured 13 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

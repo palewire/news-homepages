@@ -17,7 +17,8 @@ orphan: true
 | Location       | Charlotte                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[theobserver-2022](https://archive.org/details/theobserver-2022)|
