@@ -1,5 +1,5 @@
 {
-  "created": 1657412687,
+  "created": 1657455253,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/19/items/lobs-2022",
@@ -1276,31 +1276,115 @@
       "sha1": "8899c979e00f4039c340bc98dfe9786ca3cb0b59"
     },
     {
+      "name": "lobs-2022-07-10T04:08:38.196871+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657418927",
+      "size": "96345",
+      "md5": "3175ff4860eeef06567767e0df8cbd2f",
+      "crc32": "de8b774b",
+      "sha1": "d1ec139da5c9979c8696167104788827aeb189a1",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-07-10T04:08:38.196871+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657418929",
+      "size": "84960",
+      "md5": "0627cf7d5c4c124e499d01d9496b6c57",
+      "crc32": "a11e785a",
+      "sha1": "5af9fbe7ab6a5b0caa1c7d5375b1a29d0a26195f",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-07-10T04:08:38.196871+02:00.jpg",
+      "source": "original",
+      "mtime": "1657418920",
+      "size": "263377",
+      "md5": "6db68cec9f5936d311d61112272be386",
+      "crc32": "c33b13e2",
+      "sha1": "b1e89b4cd7168c4e7748222f566b9568bba8249c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lobs-2022-07-10T04:08:38.196871+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lobs-2022-07-10T04:08:38.196871+02:00.jpg",
+      "mtime": "1657418976",
+      "size": "9097",
+      "md5": "4bc093c19fe2e0f39c4f4f7358bb6c63",
+      "crc32": "cb803787",
+      "sha1": "fae0e4370f1a3ac714823e8583dcde46b223b04f"
+    },
+    {
+      "name": "lobs-2022-07-10T10:09:09.523245+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657440555",
+      "size": "95492",
+      "md5": "915e57100904ca6e5255e5697a348f6f",
+      "crc32": "ef526a4b",
+      "sha1": "cbfbac7eecb9d4a08e8e743a5ddea24f35a79f65",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-07-10T10:09:09.523245+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657440557",
+      "size": "84909",
+      "md5": "c61a9159cb509fb1877727166d1972f3",
+      "crc32": "69ba1a47",
+      "sha1": "fc43f1b02dbbaaa36a01ca276cace2daeec333f0",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-07-10T10:09:09.523245+02:00.jpg",
+      "source": "original",
+      "mtime": "1657440553",
+      "size": "251983",
+      "md5": "ec3160f0e65923917d231a7f9b284889",
+      "crc32": "0ba44833",
+      "sha1": "dbb954a4bc0df07bdceee4bc566a5751a34b5b34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lobs-2022-07-10T10:09:09.523245+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lobs-2022-07-10T10:09:09.523245+02:00.jpg",
+      "mtime": "1657440609",
+      "size": "8836",
+      "md5": "5180812ce3471f4e03ca9bb10d025745",
+      "crc32": "aafb7bbe",
+      "sha1": "28c61f9d10b5e054b876b87c24b8b3b8311923e2"
+    },
+    {
       "name": "lobs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98367d8e2983065f2c595d51dc3254ad3791aeeb",
-      "mtime": "1657374300",
-      "size": "26442",
-      "md5": "17770e80321d330cdda2f887d4ffd865",
-      "crc32": "0f7b819d",
-      "sha1": "0499f6dbe44971cf8bd10f0174176c5f6d20d79a",
+      "btih": "007720153c5fda2ee0752d0eb0ce94157946905c",
+      "mtime": "1657440613",
+      "size": "28108",
+      "md5": "3f8eca3ac5240a36bb293694f39ec928",
+      "crc32": "72f42c7e",
+      "sha1": "7a54d9906b83fc76a8cd0a151467f41bf6103baf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lobs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4cfd0c19608b299c49b50c3920c7a66",
+      "md5": "2140f5746a515f88c0bae6a0c8702d13",
       "summation": "md5"
     },
     {
       "name": "lobs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657374256",
-      "size": "159744",
-      "md5": "112bcaf3214aabb883afa0bfbe82a5ac",
-      "crc32": "bab8e744",
-      "sha1": "7433092a97de1ec403795a91f2b29f83d37fbd34",
+      "mtime": "1657440560",
+      "size": "167936",
+      "md5": "1b3a469067690cd4c60095ef48157c22",
+      "crc32": "13ea1fcb",
+      "sha1": "bc6b9f351d0460a679e97cdd14a27958cac01152",
       "format": "Metadata"
     },
     {
@@ -1314,9 +1398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "item_last_updated": 1657374300,
-  "item_size": 12596582,
+  "files_count": 133,
+  "item_last_updated": 1657440613,
+  "item_size": 13501439,
   "lobs-2022": [
     {
       "text": "  Lire\u00a0le\u00a0magazine ",
@@ -1899,68 +1983,68 @@
       "url": "https://cours-anglais.nouvelobs.com/"
     },
     {
-      "text": " 14:30  Un soldat am\u00e9ricain mort le 6 juin 1944 inhum\u00e9 au cimeti\u00e8re de Colleville-sur-Mer ",
-      "url": "https://www.nouvelobs.com/monde/20220709.AFP2372/un-soldat-americain-mort-le-6-juin-1944-inhume-au-cimetiere-de-colleville-sur-mer.html"
+      "text": " 10:04  Pr\u00e9sident en fuite, palais envahi par la foule... Le Sri Lanka \u2026 ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60774/president-en-fuite-palais-envahi-par-la-foule-le-sri-lanka-s-enfonce-dans-la-crise.html"
     },
     {
-      "text": " 14:00  \u00ab\u00a0La Nuit du 12\u00a0\u00bb\u00a0: Dominik Moll, version #MeToo ",
-      "url": "https://www.nouvelobs.com/cinema/20220709.OBS60756/la-nuit-du-12-dominik-moll-version-metoo.html"
+      "text": " 10:00  Pourquoi lit-on moins de romans quand on vieillit\u00a0? ",
+      "url": "https://www.nouvelobs.com/bibliobs/20220710.OBS60773/pourquoi-lit-on-moins-de-romans-quand-on-vieillit.html"
     },
     {
-      "text": " 13:23  Rapatri\u00e9s de camps en Syrie, huit femmes et un mineur mis en examen ",
-      "url": "https://www.nouvelobs.com/terrorisme/20220709.OBS60755/rapatries-de-camps-en-syrie-huit-femmes-et-un-mineur-mis-en-examen.html"
+      "text": " 09:23  Au Mexique, la ville de Monterrey priv\u00e9e d\u2019eau en raison de la s\u00e9cheresse ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60772/au-mexique-la-ville-de-monterrey-privee-d-eau-en-raison-de-la-secheresse.html"
     },
     {
-      "text": " 13:00  \u00ab\u00a0Les voix de l\u2019art citoyen\u00a0\u00bb, \u00ab\u00a0M\u00e9caniques des \u00e9pid\u00e9mies\u00a0\u00bb\u2026 \u2026 ",
-      "url": "https://www.nouvelobs.com/teleobs/20220709.OBS60754/les-voix-de-l-art-citoyen-mecaniques-des-epidemies-les-podcasts-de-la-semaine.html"
+      "text": " 09:00  Alors que les Bleues lancent leur Euro 2022, visualisez le \u2026 ",
+      "url": "https://www.nouvelobs.com/sport/20220710.OBS60771/alors-que-les-bleues-lancent-leur-euro-2022-visualisez-le-fosse-des-inegalites-entre-footballeuses-et-footballeurs.html"
     },
     {
-      "text": " 12:55  L'incendie des C\u00e9vennes fix\u00e9, maintien d'un important \u2026 ",
-      "url": "https://www.nouvelobs.com/topnews/20220709.AFP2371/l-incendie-des-cevennes-fixe-maintien-d-un-important-dispositif-de-surveillance.html"
+      "text": " 09:00  Alain Souchon\u00a0: \u00ab\u00a0Certaines de mes chansons sont n\u00e9es en marchant\u00a0\u00bb ",
+      "url": "https://www.nouvelobs.com/culture/20220710.OBS60770/alain-souchon-certaines-de-mes-chansons-sont-nees-en-marchant.html"
     },
     {
       "text": "VOIR PLUS",
       "url": "https://www.nouvelobs.com/depeche/"
     },
     {
-      "text": "     Bient\u00f4t les vacances\u00a0: 10 excellents livres \u00e0 glisser dans sa valise               ",
-      "url": "https://www.nouvelobs.com/bibliobs/20220709.OBS60748/bientot-les-vacances-10-excellents-livres-a-glisser-dans-sa-valise.html"
+      "text": "     Alain Souchon\u00a0: \u00ab\u00a0Certaines de mes chansons sont n\u00e9es en marchant\u00a0\u00bb               ",
+      "url": "https://www.nouvelobs.com/culture/20220710.OBS60770/alain-souchon-certaines-de-mes-chansons-sont-nees-en-marchant.html"
     },
     {
-      "text": "       BibliObs    La r\u00e9\u00e9dition d\u2019un chef-d\u2019oeuvre de la litt\u00e9rature am\u00e9ricaine, des po\u00e8mes d\u2019amour et de r\u00e9sistance, un homme qui devient chevreuil...     - Publi\u00e9 il y a 5 heures    ",
-      "url": "https://www.nouvelobs.com/bibliobs/20220709.OBS60748/bientot-les-vacances-10-excellents-livres-a-glisser-dans-sa-valise.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/justice/20220709.OBS60750/etats-generaux-de-la-justice-dernier-changement-de-cap-avant-l-iceberg.html"
-    },
-    {
-      "text": "     Justice          Etats g\u00e9n\u00e9raux de la Justice\u00a0: dernier changement de cap avant l\u2019iceberg         ",
-      "url": "https://www.nouvelobs.com/justice/20220709.OBS60750/etats-generaux-de-la-justice-dernier-changement-de-cap-avant-l-iceberg.html"
+      "text": "       Culture    Pour avoir parcouru la France dans tous les sens lors de ses tourn\u00e9es, l\u2019auteur-compositeur conna\u00eet bien son pays. Et il l\u2019a beaucoup chant\u00e9. Suivez le guide.     - Publi\u00e9 il y a 1 heure    ",
+      "url": "https://www.nouvelobs.com/culture/20220710.OBS60770/alain-souchon-certaines-de-mes-chansons-sont-nees-en-marchant.html"
     },
     {
       "text": "                   ",
-      "url": "https://www.nouvelobs.com/sante/20220709.OBS60746/variole-du-singe-faut-il-redouter-une-epidemie-massive.html"
+      "url": "https://www.nouvelobs.com/politique/20220710.OBS60766/remaniement-discours-a-l-assemblee-borne-imprime-t-elle-sa-marque.html"
     },
     {
-      "text": "     Soci\u00e9t\u00e9          Variole du singe\u00a0: faut-il redouter une \u00e9pid\u00e9mie massive\u00a0?         ",
-      "url": "https://www.nouvelobs.com/sante/20220709.OBS60746/variole-du-singe-faut-il-redouter-une-epidemie-massive.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/economie/20220709.OBS60747/elon-musk-met-fin-a-l-accord-de-rachat-de-twitter-bataille-juridique-a-l-horizon.html"
-    },
-    {
-      "text": "     T\u00e9l\u00e9Obs          Apr\u00e8s la rupture de l\u2019accord de rachat par Elon Musk, une bataille juridique en vue         ",
-      "url": "https://www.nouvelobs.com/economie/20220709.OBS60747/elon-musk-met-fin-a-l-accord-de-rachat-de-twitter-bataille-juridique-a-l-horizon.html"
+      "text": "     Politique          Remaniement, discours \u00e0 l\u2019Assembl\u00e9e...Borne imprime-t-elle sa marque\u00a0?         ",
+      "url": "https://www.nouvelobs.com/politique/20220710.OBS60766/remaniement-discours-a-l-assemblee-borne-imprime-t-elle-sa-marque.html"
     },
     {
       "text": "                   ",
-      "url": "https://www.nouvelobs.com/chroniques/20220709.OBS60752/tu-as-ete-la-risee-de-ce-diner-pensees-d-apres-soiree.html"
+      "url": "https://www.nouvelobs.com/politique/20220710.OBS60768/prix-du-gaz-et-de-l-electricite-borne-n-exclut-pas-des-aides-ciblees-apres-la-fin-du-bouclier-tarifaire.html"
     },
     {
-      "text": "     \u00c9ditos et chroniques          \u00ab Tu as \u00e9t\u00e9 la ris\u00e9e de ce d\u00eener\u00a0\u00bb\u00a0: pens\u00e9es d\u2019apr\u00e8s-soir\u00e9e         ",
-      "url": "https://www.nouvelobs.com/chroniques/20220709.OBS60752/tu-as-ete-la-risee-de-ce-diner-pensees-d-apres-soiree.html"
+      "text": "     Economie          Prix du gaz et de l\u2019\u00e9lectricit\u00e9\u00a0: Borne n\u2019exclut pas des aides cibl\u00e9es apr\u00e8s la fin du bouclier tarifaire         ",
+      "url": "https://www.nouvelobs.com/politique/20220710.OBS60768/prix-du-gaz-et-de-l-electricite-borne-n-exclut-pas-des-aides-ciblees-apres-la-fin-du-bouclier-tarifaire.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/education/20220710.OBS60767/bac-2022-le-taux-de-reussite-est-de-91-1-en-baisse-par-rapport-a-l-an-dernier.html"
+    },
+    {
+      "text": "     Soci\u00e9t\u00e9          Bac 2022\u00a0: le taux de r\u00e9ussite est de 91,1%, en baisse par rapport \u00e0 l\u2019an dernier         ",
+      "url": "https://www.nouvelobs.com/education/20220710.OBS60767/bac-2022-le-taux-de-reussite-est-de-91-1-en-baisse-par-rapport-a-l-an-dernier.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60769/succession-de-boris-johnson-huit-candidats-deja-dans-la-course.html"
+    },
+    {
+      "text": "     Monde          Succession de Boris Johnson\u00a0: huit candidats d\u00e9j\u00e0 dans la course         ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60769/succession-de-boris-johnson-huit-candidats-deja-dans-la-course.html"
     },
     {
       "text": "                   ",
@@ -1972,51 +2056,67 @@
     },
     {
       "text": "                   ",
-      "url": "https://www.nouvelobs.com/terrorisme/20220709.OBS60755/rapatries-de-camps-en-syrie-huit-femmes-et-un-mineur-mis-en-examen.html"
+      "url": "https://www.nouvelobs.com/bibliobs/20220709.OBS60748/bientot-les-vacances-10-excellents-livres-a-glisser-dans-sa-valise.html"
     },
     {
-      "text": "         Rapatri\u00e9s de camps en Syrie, huit femmes et un mineur mis en examen         ",
-      "url": "https://www.nouvelobs.com/terrorisme/20220709.OBS60755/rapatries-de-camps-en-syrie-huit-femmes-et-un-mineur-mis-en-examen.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/politique/20220709.OBS60751/le-gouvernement-veut-expulser-tout-etranger-ayant-commis-des-actes-graves.html"
-    },
-    {
-      "text": "         Le gouvernement veut expulser \u00ab\u00a0tout \u00e9tranger\u00a0\u00bb ayant \u00ab\u00a0commis des actes graves\u00a0\u00bb         ",
-      "url": "https://www.nouvelobs.com/politique/20220709.OBS60751/le-gouvernement-veut-expulser-tout-etranger-ayant-commis-des-actes-graves.html"
+      "text": "         Bient\u00f4t les vacances\u00a0: 10 excellents livres \u00e0 glisser dans sa valise         ",
+      "url": "https://www.nouvelobs.com/bibliobs/20220709.OBS60748/bientot-les-vacances-10-excellents-livres-a-glisser-dans-sa-valise.html"
     },
     {
       "text": "                   ",
-      "url": "https://www.nouvelobs.com/monde/20220709.OBS60749/le-president-du-sri-lanka-en-fuite-sa-residence-envahie-par-des-manifestants.html"
+      "url": "https://www.nouvelobs.com/sante/20220709.OBS60746/variole-du-singe-faut-il-redouter-une-epidemie-massive.html"
     },
     {
-      "text": "         Le pr\u00e9sident du Sri Lanka en fuite, sa r\u00e9sidence envahie par des manifestants         ",
-      "url": "https://www.nouvelobs.com/monde/20220709.OBS60749/le-president-du-sri-lanka-en-fuite-sa-residence-envahie-par-des-manifestants.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/monde/20220709.OBS60753/la-police-locale-japonaise-reconnait-des-failles-indeniables-dans-la-securite-de-shinzo-abe.html"
-    },
-    {
-      "text": "         La police locale japonaise reconna\u00eet des failles \u00ab\u00a0ind\u00e9niables\u00a0\u00bb dans la s\u00e9curit\u00e9 de Shinzo Abe         ",
-      "url": "https://www.nouvelobs.com/monde/20220709.OBS60753/la-police-locale-japonaise-reconnait-des-failles-indeniables-dans-la-securite-de-shinzo-abe.html"
+      "text": "         Variole du singe\u00a0: faut-il redouter une \u00e9pid\u00e9mie massive\u00a0?         ",
+      "url": "https://www.nouvelobs.com/sante/20220709.OBS60746/variole-du-singe-faut-il-redouter-une-epidemie-massive.html"
     },
     {
       "text": "                   ",
-      "url": "https://www.nouvelobs.com/justice/20220708.OBS60743/appel-a-temoins-moto-retrouvee-le-point-sur-l-enquete-du-double-meurtre-d-enseignants-a-pouyastruc.html"
+      "url": "https://www.nouvelobs.com/justice/20220709.OBS60750/etats-generaux-de-la-justice-dernier-changement-de-cap-avant-l-iceberg.html"
     },
     {
-      "text": "         Appel \u00e0 t\u00e9moins, moto retrouv\u00e9e\u2026 le point sur l\u2019enqu\u00eate du double meurtre d\u2019enseignants \u00e0 Pouyastruc         ",
-      "url": "https://www.nouvelobs.com/justice/20220708.OBS60743/appel-a-temoins-moto-retrouvee-le-point-sur-l-enquete-du-double-meurtre-d-enseignants-a-pouyastruc.html"
+      "text": "         Etats g\u00e9n\u00e9raux de la Justice\u00a0: dernier changement de cap avant l\u2019iceberg         ",
+      "url": "https://www.nouvelobs.com/justice/20220709.OBS60750/etats-generaux-de-la-justice-dernier-changement-de-cap-avant-l-iceberg.html"
     },
     {
       "text": "                   ",
-      "url": "https://www.nouvelobs.com/idees/20220708.OBS60686/pourquoi-l-inscription-de-l-ivg-dans-la-constitution-serait-un-geste-pionnier.html"
+      "url": "https://www.nouvelobs.com/homo-digitalis/20220709.OBS60759/mais-pourquoi-nos-ancetres-avaient-ils-la-passion-de-la-deconnexion.html"
     },
     {
-      "text": "         Pourquoi l\u2019inscription de l\u2019IVG dans la Constitution serait\u00a0un \u00ab\u00a0geste pionnier\u00a0\u00bb         ",
-      "url": "https://www.nouvelobs.com/idees/20220708.OBS60686/pourquoi-l-inscription-de-l-ivg-dans-la-constitution-serait-un-geste-pionnier.html"
+      "text": "         Mais pourquoi nos anc\u00eatres avaient-ils la passion de la d\u00e9connexion\u00a0?         ",
+      "url": "https://www.nouvelobs.com/homo-digitalis/20220709.OBS60759/mais-pourquoi-nos-ancetres-avaient-ils-la-passion-de-la-deconnexion.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/chroniques/20220709.OBS60752/tu-as-ete-la-risee-de-ce-diner-pensees-d-apres-soiree.html"
+    },
+    {
+      "text": "         \u00ab Tu as \u00e9t\u00e9 la ris\u00e9e de ce d\u00eener\u00a0\u00bb\u00a0: pens\u00e9es d\u2019apr\u00e8s-soir\u00e9e         ",
+      "url": "https://www.nouvelobs.com/chroniques/20220709.OBS60752/tu-as-ete-la-risee-de-ce-diner-pensees-d-apres-soiree.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/etats-unis/20220709.OBS60763/aux-etats-unis-la-tentation-de-la-secession.html"
+    },
+    {
+      "text": "         Aux Etats-Unis, la tentation de la s\u00e9cession         ",
+      "url": "https://www.nouvelobs.com/etats-unis/20220709.OBS60763/aux-etats-unis-la-tentation-de-la-secession.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/histoire/20220709.OBS60762/les-archives-de-l-obs-bobby-fischer-contre-boris-spassky-le-match-du-siecle-aux-echecs.html"
+    },
+    {
+      "text": "         Les archives de \u00ab\u00a0l\u2019Obs\u00a0\u00bb\u00a0: Bobby Fischer contre Boris Spassky, le match du si\u00e8cle aux \u00e9checs         ",
+      "url": "https://www.nouvelobs.com/histoire/20220709.OBS60762/les-archives-de-l-obs-bobby-fischer-contre-boris-spassky-le-match-du-siecle-aux-echecs.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/ce-soir-a-la-tv/20220709.OBS60758/jack-le-chasseur-de-geants-bryan-singer-l-esprit-blockbuster.html"
+    },
+    {
+      "text": "         \u00ab\u00a0Jack le chasseur de g\u00e9ants\u00a0\u00bb, Bryan Singer, l\u2019esprit blockbuster         ",
+      "url": "https://www.nouvelobs.com/ce-soir-a-la-tv/20220709.OBS60758/jack-le-chasseur-de-geants-bryan-singer-l-esprit-blockbuster.html"
     },
     {
       "text": "                   ",
@@ -2033,22 +2133,6 @@
     {
       "text": "         \u00ab\u00a0Cahiers noirs\u00a0\u00bb, \u00ab\u00a0Decision to Leave\u00a0\u00bb, \u00ab\u00a0Irr\u00e9ductible\u00a0\u00bb\u2026 Les films \u00e0 voir (ou pas) cette semaine         ",
       "url": "https://www.nouvelobs.com/cinema/20220629.OBS60297/cahiers-noirs-decision-to-leave-irreductible-les-films-a-voir-ou-pas-cette-semaine.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/bibliobs/20220708.OBS60727/t-choupi-se-lance-dans-les-nft-l-ane-trotro-n-aurait-jamais-ose.html"
-    },
-    {
-      "text": "         T\u2019choupi se lance dans les NFT\u00a0? L\u2019\u00e2ne Trotro n\u2019aurait jamais os\u00e9         ",
-      "url": "https://www.nouvelobs.com/bibliobs/20220708.OBS60727/t-choupi-se-lance-dans-les-nft-l-ane-trotro-n-aurait-jamais-ose.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/mode/20220708.OBS60721/journal-humain-de-la-mode-ils-font-quoi-tous-ces-gens.html"
-    },
-    {
-      "text": "         Journal Humain de la Mode\u00a0: \u00ab\u00a0Ils font quoi, tous ces gens\u00a0?\u00a0\u00bb         ",
-      "url": "https://www.nouvelobs.com/mode/20220708.OBS60721/journal-humain-de-la-mode-ils-font-quoi-tous-ces-gens.html"
     },
     {
       "text": "                   ",
@@ -2228,51 +2312,51 @@
     },
     {
       "text": "             ",
-      "url": "https://www.nouvelobs.com/justice/20220708.OBS60743/appel-a-temoins-moto-retrouvee-le-point-sur-l-enquete-du-double-meurtre-d-enseignants-a-pouyastruc.html"
+      "url": "https://www.nouvelobs.com/chroniques/20220709.OBS60752/tu-as-ete-la-risee-de-ce-diner-pensees-d-apres-soiree.html"
     },
     {
-      "text": "         Appel \u00e0 t\u00e9moins, moto retrouv\u00e9e\u2026 le point sur l\u2019enqu\u00eate du double meurtre d\u2019enseignants \u00e0 Pouyastruc         ",
-      "url": "https://www.nouvelobs.com/justice/20220708.OBS60743/appel-a-temoins-moto-retrouvee-le-point-sur-l-enquete-du-double-meurtre-d-enseignants-a-pouyastruc.html"
-    },
-    {
-      "text": "             ",
-      "url": "https://www.nouvelobs.com/societe/20220708.OBS60735/un-crash-d-helicoptere-evite-de-justesse-a-la-pointe-du-raz.html"
-    },
-    {
-      "text": "         Un crash d\u2019h\u00e9licopt\u00e8re \u00e9vit\u00e9 de justesse \u00e0 la pointe du Raz         ",
-      "url": "https://www.nouvelobs.com/societe/20220708.OBS60735/un-crash-d-helicoptere-evite-de-justesse-a-la-pointe-du-raz.html"
+      "text": "         \u00ab Tu as \u00e9t\u00e9 la ris\u00e9e de ce d\u00eener\u00a0\u00bb\u00a0: pens\u00e9es d\u2019apr\u00e8s-soir\u00e9e         ",
+      "url": "https://www.nouvelobs.com/chroniques/20220709.OBS60752/tu-as-ete-la-risee-de-ce-diner-pensees-d-apres-soiree.html"
     },
     {
       "text": "             ",
-      "url": "https://www.nouvelobs.com/guerre-en-ukraine/20220708.OBS60740/face-a-la-flambee-des-prix-de-l-energie-le-je-vous-l-avais-dit-de-poutine.html"
+      "url": "https://www.nouvelobs.com/culture/20220710.OBS60770/alain-souchon-certaines-de-mes-chansons-sont-nees-en-marchant.html"
     },
     {
-      "text": "         Face \u00e0 la flamb\u00e9e des prix, le \u00ab\u00a0je vous l\u2019avais dit\u00a0\u00bb de Poutine         ",
-      "url": "https://www.nouvelobs.com/guerre-en-ukraine/20220708.OBS60740/face-a-la-flambee-des-prix-de-l-energie-le-je-vous-l-avais-dit-de-poutine.html"
-    },
-    {
-      "text": "             ",
-      "url": "https://www.nouvelobs.com/coronavirus-de-wuhan/20220708.OBS60737/la-france-passe-la-barre-des-150-000-morts-du-covid-19.html"
-    },
-    {
-      "text": "         La France passe la barre des 150\u00a0000 morts du Covid-19         ",
-      "url": "https://www.nouvelobs.com/coronavirus-de-wuhan/20220708.OBS60737/la-france-passe-la-barre-des-150-000-morts-du-covid-19.html"
+      "text": "         Alain Souchon\u00a0: \u00ab\u00a0Certaines de mes chansons sont n\u00e9es en marchant\u00a0\u00bb         ",
+      "url": "https://www.nouvelobs.com/culture/20220710.OBS60770/alain-souchon-certaines-de-mes-chansons-sont-nees-en-marchant.html"
     },
     {
       "text": "             ",
-      "url": "https://www.nouvelobs.com/sante/20220709.OBS60746/variole-du-singe-faut-il-redouter-une-epidemie-massive.html"
+      "url": "https://www.nouvelobs.com/politique/20220710.OBS60766/remaniement-discours-a-l-assemblee-borne-imprime-t-elle-sa-marque.html"
     },
     {
-      "text": "         Variole du singe\u00a0: faut-il redouter une \u00e9pid\u00e9mie massive\u00a0?         ",
-      "url": "https://www.nouvelobs.com/sante/20220709.OBS60746/variole-du-singe-faut-il-redouter-une-epidemie-massive.html"
+      "text": "         Remaniement, discours \u00e0 l\u2019Assembl\u00e9e...Borne imprime-t-elle sa marque\u00a0?         ",
+      "url": "https://www.nouvelobs.com/politique/20220710.OBS60766/remaniement-discours-a-l-assemblee-borne-imprime-t-elle-sa-marque.html"
     },
     {
       "text": "             ",
-      "url": "https://www.nouvelobs.com/asie/20220708.OBS60729/un-acte-barbare-envers-un-defenseur-de-la-democratie-la-communaute-internationale-en-deuil-apres-l-assassinat-de-shinzo-abe.html"
+      "url": "https://www.nouvelobs.com/bibliobs/20220709.OBS60748/bientot-les-vacances-10-excellents-livres-a-glisser-dans-sa-valise.html"
     },
     {
-      "text": "         \u00ab\u00a0Un acte barbare\u00a0\u00bb envers un \u00ab\u00a0d\u00e9fenseur de la d\u00e9mocratie\u00a0\u00bb\u00a0: la communaut\u00e9 internationale en deuil apr\u00e8s l\u2019assassinat de Shinzo Abe         ",
-      "url": "https://www.nouvelobs.com/asie/20220708.OBS60729/un-acte-barbare-envers-un-defenseur-de-la-democratie-la-communaute-internationale-en-deuil-apres-l-assassinat-de-shinzo-abe.html"
+      "text": "         Bient\u00f4t les vacances\u00a0: 10 excellents livres \u00e0 glisser dans sa valise         ",
+      "url": "https://www.nouvelobs.com/bibliobs/20220709.OBS60748/bientot-les-vacances-10-excellents-livres-a-glisser-dans-sa-valise.html"
+    },
+    {
+      "text": "             ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60769/succession-de-boris-johnson-huit-candidats-deja-dans-la-course.html"
+    },
+    {
+      "text": "         Succession de Boris Johnson\u00a0: huit candidats d\u00e9j\u00e0 dans la course         ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60769/succession-de-boris-johnson-huit-candidats-deja-dans-la-course.html"
+    },
+    {
+      "text": "             ",
+      "url": "https://www.nouvelobs.com/politique/20220710.OBS60768/prix-du-gaz-et-de-l-electricite-borne-n-exclut-pas-des-aides-ciblees-apres-la-fin-du-bouclier-tarifaire.html"
+    },
+    {
+      "text": "         Prix du gaz et de l\u2019\u00e9lectricit\u00e9\u00a0: Borne n\u2019exclut pas des aides cibl\u00e9es apr\u00e8s la fin du bouclier tarifaire         ",
+      "url": "https://www.nouvelobs.com/politique/20220710.OBS60768/prix-du-gaz-et-de-l-electricite-borne-n-exclut-pas-des-aides-ciblees-apres-la-fin-du-bouclier-tarifaire.html"
     },
     {
       "text": "Nos podcasts",
@@ -2360,6 +2444,22 @@
     },
     {
       "text": "                  ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60772/au-mexique-la-ville-de-monterrey-privee-d-eau-en-raison-de-la-secheresse.html"
+    },
+    {
+      "text": "         Au Mexique, la ville de Monterrey priv\u00e9e d\u2019eau en raison de la s\u00e9cheresse         ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60772/au-mexique-la-ville-de-monterrey-privee-d-eau-en-raison-de-la-secheresse.html"
+    },
+    {
+      "text": "                  ",
+      "url": "https://www.nouvelobs.com/ecologie/20220709.OBS60760/l-incendie-des-cevennes-ne-peut-plus-progresser-mais-reste-sous-haute-surveillance.html"
+    },
+    {
+      "text": "         L\u2019incendie des C\u00e9vennes \u00ab\u00a0ne peut plus progresser\u00a0\u00bb mais reste sous haute surveillance         ",
+      "url": "https://www.nouvelobs.com/ecologie/20220709.OBS60760/l-incendie-des-cevennes-ne-peut-plus-progresser-mais-reste-sous-haute-surveillance.html"
+    },
+    {
+      "text": "           ",
       "url": "https://www.nouvelobs.com/planete/20220708.OBS60736/les-images-du-mega-feu-qui-a-ravage-plus-de-620-hectares-de-vegetation-dans-les-cevennes.html"
     },
     {
@@ -2367,28 +2467,12 @@
       "url": "https://www.nouvelobs.com/planete/20220708.OBS60736/les-images-du-mega-feu-qui-a-ravage-plus-de-620-hectares-de-vegetation-dans-les-cevennes.html"
     },
     {
-      "text": "                  ",
+      "text": "           ",
       "url": "https://www.nouvelobs.com/ecologie/20220708.OBS60733/la-surexploitation-des-especes-sauvages-menace-directement-des-milliards-d-humains-avertit-l-onu.html"
     },
     {
       "text": "         La surexploitation des esp\u00e8ces sauvages menace directement des milliards d\u2019humains, avertit l\u2019ONU         ",
       "url": "https://www.nouvelobs.com/ecologie/20220708.OBS60733/la-surexploitation-des-especes-sauvages-menace-directement-des-milliards-d-humains-avertit-l-onu.html"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.nouvelobs.com/planete/20220708.OBS60726/le-vice-premier-ministre-belge-parodie-dans-une-video-les-vacances-de-benzema-en-version-ecolo.html"
-    },
-    {
-      "text": "         Le vice-Premier ministre belge parodie dans une vid\u00e9o les vacances de Benzema\u2026 en version \u00e9colo         ",
-      "url": "https://www.nouvelobs.com/planete/20220708.OBS60726/le-vice-premier-ministre-belge-parodie-dans-une-video-les-vacances-de-benzema-en-version-ecolo.html"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.nouvelobs.com/faits-divers/20220708.OBS60685/plus-de-600-hectares-de-foret-detruits-par-un-megafeu-dans-le-gard.html"
-    },
-    {
-      "text": "         Plus de 600 hectares de for\u00eat d\u00e9truits par un \u00ab\u00a0m\u00e9gafeu\u00a0\u00bb dans le Gard         ",
-      "url": "https://www.nouvelobs.com/faits-divers/20220708.OBS60685/plus-de-600-hectares-de-foret-detruits-par-un-megafeu-dans-le-gard.html"
     },
     {
       "text": " S'INSCRIRE \u00c0 LA NEWSLETTER EcoloObs ",
@@ -2400,6 +2484,14 @@
     },
     {
       "text": "                  ",
+      "url": "https://www.nouvelobs.com/bibliobs/20220710.OBS60773/pourquoi-lit-on-moins-de-romans-quand-on-vieillit.html"
+    },
+    {
+      "text": "         Pourquoi lit-on moins de romans quand on vieillit\u00a0?         ",
+      "url": "https://www.nouvelobs.com/bibliobs/20220710.OBS60773/pourquoi-lit-on-moins-de-romans-quand-on-vieillit.html"
+    },
+    {
+      "text": "                  ",
       "url": "https://www.nouvelobs.com/chroniques/20220709.OBS60752/tu-as-ete-la-risee-de-ce-diner-pensees-d-apres-soiree.html"
     },
     {
@@ -2407,7 +2499,7 @@
       "url": "https://www.nouvelobs.com/chroniques/20220709.OBS60752/tu-as-ete-la-risee-de-ce-diner-pensees-d-apres-soiree.html"
     },
     {
-      "text": "                  ",
+      "text": "           ",
       "url": "https://www.nouvelobs.com/bibliobs/20220709.OBS60748/bientot-les-vacances-10-excellents-livres-a-glisser-dans-sa-valise.html"
     },
     {
@@ -2423,14 +2515,6 @@
       "url": "https://www.nouvelobs.com/la-boite-a-bouquins/20220708.OBS60731/quand-l-intrepide-gabrielle-bertrand-parcourait-l-asie-a-la-recherche-de-l-aventure.html"
     },
     {
-      "text": "           ",
-      "url": "https://www.nouvelobs.com/bibliobs/20220708.OBS60727/t-choupi-se-lance-dans-les-nft-l-ane-trotro-n-aurait-jamais-ose.html"
-    },
-    {
-      "text": "         T\u2019choupi se lance dans les NFT\u00a0? L\u2019\u00e2ne Trotro n\u2019aurait jamais os\u00e9         ",
-      "url": "https://www.nouvelobs.com/bibliobs/20220708.OBS60727/t-choupi-se-lance-dans-les-nft-l-ane-trotro-n-aurait-jamais-ose.html"
-    },
-    {
       "text": " S'INSCRIRE \u00c0 LA NEWSLETTER BibliObs ",
       "url": "https://www.nouvelobs.com/newsletter-bibliobs"
     },
@@ -2440,6 +2524,22 @@
     },
     {
       "text": "                  ",
+      "url": "https://www.nouvelobs.com/tv/20220709.OBS60764/corse-france-toute-une-histoire-je-t-aime-moi-non-plus.html"
+    },
+    {
+      "text": "         \u00ab\u00a0Corse-France\u00a0: toute une histoire\u00a0\u00bb, Je t\u2019aime moi non plus         ",
+      "url": "https://www.nouvelobs.com/tv/20220709.OBS60764/corse-france-toute-une-histoire-je-t-aime-moi-non-plus.html"
+    },
+    {
+      "text": "                  ",
+      "url": "https://www.nouvelobs.com/teleobs/20220709.OBS60765/du-pouvoir-a-la-disgrace-les-confidences-d-anne-aymone-giscard-d-estaing.html"
+    },
+    {
+      "text": "         Du pouvoir \u00e0 la disgr\u00e2ce, les confidences d\u2019Anne-Aymone Giscard d\u2019Estaing         ",
+      "url": "https://www.nouvelobs.com/teleobs/20220709.OBS60765/du-pouvoir-a-la-disgrace-les-confidences-d-anne-aymone-giscard-d-estaing.html"
+    },
+    {
+      "text": "           ",
       "url": "https://www.nouvelobs.com/teleobs/20220709.OBS60754/les-voix-de-l-art-citoyen-mecaniques-des-epidemies-les-podcasts-de-la-semaine.html"
     },
     {
@@ -2447,28 +2547,12 @@
       "url": "https://www.nouvelobs.com/teleobs/20220709.OBS60754/les-voix-de-l-art-citoyen-mecaniques-des-epidemies-les-podcasts-de-la-semaine.html"
     },
     {
-      "text": "                  ",
+      "text": "           ",
       "url": "https://www.nouvelobs.com/economie/20220709.OBS60747/elon-musk-met-fin-a-l-accord-de-rachat-de-twitter-bataille-juridique-a-l-horizon.html"
     },
     {
       "text": "         Apr\u00e8s la rupture de l\u2019accord de rachat par Elon Musk, une bataille juridique en vue         ",
       "url": "https://www.nouvelobs.com/economie/20220709.OBS60747/elon-musk-met-fin-a-l-accord-de-rachat-de-twitter-bataille-juridique-a-l-horizon.html"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.nouvelobs.com/ce-soir-a-la-tv/20220707.OBS60637/les-reines-du-palace-l-armee-de-l-ombre.html"
-    },
-    {
-      "text": "         \u00ab\u00a0Les Reines du palace\u00a0\u00bb, l\u2019arm\u00e9e de l\u2019ombre         ",
-      "url": "https://www.nouvelobs.com/ce-soir-a-la-tv/20220707.OBS60637/les-reines-du-palace-l-armee-de-l-ombre.html"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.nouvelobs.com/medias/20220706.OBS60580/le-cardinal-sarah-en-une-de-paris-match-grace-a-bollore-la-redaction-sonne-l-alarme.html"
-    },
-    {
-      "text": "         Le cardinal Sarah en couverture de \u00ab\u00a0Paris Match\u00a0\u00bb gr\u00e2ce \u00e0 Bollor\u00e9\u00a0? La r\u00e9daction sonne l\u2019alarme         ",
-      "url": "https://www.nouvelobs.com/medias/20220706.OBS60580/le-cardinal-sarah-en-une-de-paris-match-grace-a-bollore-la-redaction-sonne-l-alarme.html"
     },
     {
       "text": "  PROGRAMME TV  ",
@@ -2479,24 +2563,24 @@
       "url": "https://programme-tv.nouvelobs.com/chaine/tf1/"
     },
     {
-      "text": " Les 12 coups : le combat des ma\u00eetres Jeu ",
-      "url": "https://programme-tv.nouvelobs.com/jeu/les-12-coups-le-combat-des-maitres-1709844/"
+      "text": " Euro f\u00e9minin Football ",
+      "url": "https://programme-tv.nouvelobs.com/sport/football/championnat-d-europe-feminin-s20626/france-italie-1710016/"
     },
     {
       "text": "  ",
       "url": "https://programme-tv.nouvelobs.com/chaine/france-2/"
     },
     {
-      "text": " Fort Boyard Jeu ",
-      "url": "https://programme-tv.nouvelobs.com/jeu/fort-boyard-s12306/fort-boyard-1709766/"
+      "text": " Cuban Network Film ",
+      "url": "https://programme-tv.nouvelobs.com/cinema/cuban-network-1577160/"
     },
     {
       "text": "  ",
       "url": "https://programme-tv.nouvelobs.com/chaine/france-3/"
     },
     {
-      "text": " Mongeville S\u00e9rie TV ",
-      "url": "https://programme-tv.nouvelobs.com/serie-tv/mongeville-s26758/saison-7/episode-6-le-bal-des-tartuffes-1579463/"
+      "text": " Hudson & Rex S\u00e9rie TV ",
+      "url": "https://programme-tv.nouvelobs.com/serie-tv/hudson-et-rex-s30973/saison-3/episode-9-enterre-vivant-1709957/"
     },
     {
       "text": "  ",
@@ -2504,31 +2588,31 @@
     },
     {
       "text": " Euro f\u00e9minin Football ",
-      "url": "https://programme-tv.nouvelobs.com/sport/football/championnat-d-europe-feminin-s20626/pays-bas-suede-1709709/"
+      "url": "https://programme-tv.nouvelobs.com/sport/football/championnat-d-europe-feminin-s20626/france-italie-1709904/"
     },
     {
       "text": "  ",
       "url": "https://programme-tv.nouvelobs.com/chaine/france-5/"
     },
     {
-      "text": " \u00c9chapp\u00e9es belles Magazine ",
-      "url": "https://programme-tv.nouvelobs.com/magazine/echappees-belles-s2811/week-end-a-saint-malo-1602335/"
+      "text": " Les 100 lieux qu'il faut voir Documentaire ",
+      "url": "https://programme-tv.nouvelobs.com/documentaire/les-100-lieux-qu-il-faut-voir-s14752/les-100-lieux-qu-il-faut-voir-1709965/"
     },
     {
       "text": "  ",
       "url": "https://programme-tv.nouvelobs.com/chaine/m6/"
     },
     {
-      "text": " NCIS S\u00e9rie TV ",
-      "url": "https://programme-tv.nouvelobs.com/serie-tv/ncis-s2091/saison-19/episode-15-une-vieille-connaissance-1709481/"
+      "text": " Capital Magazine ",
+      "url": "https://programme-tv.nouvelobs.com/magazine/capital-s2128/camargue-luberon-verdon-le-bon-filon-des-parcs-naturels-1709976/"
     },
     {
       "text": "  ",
       "url": "https://programme-tv.nouvelobs.com/chaine/arte/"
     },
     {
-      "text": " Les \u00e2ges de la vie Documentaire ",
-      "url": "https://programme-tv.nouvelobs.com/documentaire/les-ages-de-la-vie-s34441/histoire-de-l-enfance-1709670/"
+      "text": " Magic Mike Film ",
+      "url": "https://programme-tv.nouvelobs.com/cinema/magic-mike-457751/"
     },
     {
       "text": "VOIR TOUT LE PROGRAMME",
@@ -2652,6 +2736,22 @@
     },
     {
       "text": "                  ",
+      "url": "https://www.nouvelobs.com/culture/20220710.OBS60770/alain-souchon-certaines-de-mes-chansons-sont-nees-en-marchant.html"
+    },
+    {
+      "text": "         Alain Souchon\u00a0: \u00ab\u00a0Certaines de mes chansons sont n\u00e9es en marchant\u00a0\u00bb         ",
+      "url": "https://www.nouvelobs.com/culture/20220710.OBS60770/alain-souchon-certaines-de-mes-chansons-sont-nees-en-marchant.html"
+    },
+    {
+      "text": "                  ",
+      "url": "https://www.nouvelobs.com/homo-digitalis/20220709.OBS60759/mais-pourquoi-nos-ancetres-avaient-ils-la-passion-de-la-deconnexion.html"
+    },
+    {
+      "text": "         Mais pourquoi nos anc\u00eatres avaient-ils la passion de la d\u00e9connexion\u00a0?         ",
+      "url": "https://www.nouvelobs.com/homo-digitalis/20220709.OBS60759/mais-pourquoi-nos-ancetres-avaient-ils-la-passion-de-la-deconnexion.html"
+    },
+    {
+      "text": "           ",
       "url": "https://www.nouvelobs.com/mode/20220708.OBS60721/journal-humain-de-la-mode-ils-font-quoi-tous-ces-gens.html"
     },
     {
@@ -2659,28 +2759,12 @@
       "url": "https://www.nouvelobs.com/mode/20220708.OBS60721/journal-humain-de-la-mode-ils-font-quoi-tous-ces-gens.html"
     },
     {
-      "text": "                  ",
+      "text": "           ",
       "url": "https://www.nouvelobs.com/voyage/20220708.OBS60719/de-la-bretagne-a-la-provence-nos-26-destinations-pour-partir-a-l-aventure-en-france.html"
     },
     {
       "text": "         De la Bretagne \u00e0 la Provence, nos 26 destinations pour partir \u00e0 l\u2019aventure en France         ",
       "url": "https://www.nouvelobs.com/voyage/20220708.OBS60719/de-la-bretagne-a-la-provence-nos-26-destinations-pour-partir-a-l-aventure-en-france.html"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.nouvelobs.com/voyage/20220708.OBS60717/ou-partir-en-vacances-en-france-26-idees-d-excursions-pour-faire-le-plein-d-exotisme.html"
-    },
-    {
-      "text": "         O\u00f9 partir en vacances en France\u00a0? 26 id\u00e9es d\u2019excursions pour faire le plein d\u2019exotisme         ",
-      "url": "https://www.nouvelobs.com/voyage/20220708.OBS60717/ou-partir-en-vacances-en-france-26-idees-d-excursions-pour-faire-le-plein-d-exotisme.html"
-    },
-    {
-      "text": "           ",
-      "url": "https://www.nouvelobs.com/edito/20220708.OBS60715/douce-france-cher-pays-de-nos-vacances.html"
-    },
-    {
-      "text": "         Douce France, cher pays de nos vacances         ",
-      "url": "https://www.nouvelobs.com/edito/20220708.OBS60715/douce-france-cher-pays-de-nos-vacances.html"
     },
     {
       "text": " S'INSCRIRE \u00c0 LA NEWSLETTER Tendances ",
@@ -2776,6 +2860,14 @@
     },
     {
       "text": "                 ",
+      "url": "https://www.nouvelobs.com/histoire/20220709.OBS60762/les-archives-de-l-obs-bobby-fischer-contre-boris-spassky-le-match-du-siecle-aux-echecs.html"
+    },
+    {
+      "text": "         Les archives de \u00ab\u00a0l\u2019Obs\u00a0\u00bb\u00a0: Bobby Fischer contre Boris Spassky, le match du si\u00e8cle aux \u00e9checs         ",
+      "url": "https://www.nouvelobs.com/histoire/20220709.OBS60762/les-archives-de-l-obs-bobby-fischer-contre-boris-spassky-le-match-du-siecle-aux-echecs.html"
+    },
+    {
+      "text": "                   ",
       "url": "https://www.nouvelobs.com/histoire/20220708.OBS60739/jfk-carnot-sankara-avant-shinzo-abe-ces-autres-hommes-d-etat-assassines.html"
     },
     {
@@ -2805,14 +2897,6 @@
     {
       "text": "         Les archives de \u00ab\u00a0l\u2019Obs\u00a0\u00bb\u00a0: Minamata, la pollution qui fit des milliers de victimes au Japon         ",
       "url": "https://www.nouvelobs.com/histoire/20220702.OBS60451/les-archives-de-l-obs-minamata-la-pollution-qui-fit-des-milliers-de-victimes-au-japon.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/culture/20220701.OBS60401/quand-cabu-ouvrait-les-yeux-des-francais-sur-la-rafle-du-vel-d-hiv.html"
-    },
-    {
-      "text": "         Quand Cabu ouvrait les yeux des Fran\u00e7ais sur la rafle du V\u00e9l\u2019 d\u2019Hiv         ",
-      "url": "https://www.nouvelobs.com/culture/20220701.OBS60401/quand-cabu-ouvrait-les-yeux-des-francais-sur-la-rafle-du-vel-d-hiv.html"
     },
     {
       "text": "Justice",
@@ -2864,6 +2948,30 @@
     },
     {
       "text": "                 ",
+      "url": "https://www.nouvelobs.com/sport/20220710.OBS60771/alors-que-les-bleues-lancent-leur-euro-2022-visualisez-le-fosse-des-inegalites-entre-footballeuses-et-footballeurs.html"
+    },
+    {
+      "text": "         Alors que les Bleues lancent leur Euro 2022, visualisez le foss\u00e9 des in\u00e9galit\u00e9s entre footballeuses et footballeurs         ",
+      "url": "https://www.nouvelobs.com/sport/20220710.OBS60771/alors-que-les-bleues-lancent-leur-euro-2022-visualisez-le-fosse-des-inegalites-entre-footballeuses-et-footballeurs.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/education/20220710.OBS60767/bac-2022-le-taux-de-reussite-est-de-91-1-en-baisse-par-rapport-a-l-an-dernier.html"
+    },
+    {
+      "text": "         Bac 2022\u00a0: le taux de r\u00e9ussite est de 91,1%, en baisse par rapport \u00e0 l\u2019an dernier         ",
+      "url": "https://www.nouvelobs.com/education/20220710.OBS60767/bac-2022-le-taux-de-reussite-est-de-91-1-en-baisse-par-rapport-a-l-an-dernier.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/histoire/20220709.OBS60762/les-archives-de-l-obs-bobby-fischer-contre-boris-spassky-le-match-du-siecle-aux-echecs.html"
+    },
+    {
+      "text": "         Les archives de \u00ab\u00a0l\u2019Obs\u00a0\u00bb\u00a0: Bobby Fischer contre Boris Spassky, le match du si\u00e8cle aux \u00e9checs         ",
+      "url": "https://www.nouvelobs.com/histoire/20220709.OBS60762/les-archives-de-l-obs-bobby-fischer-contre-boris-spassky-le-match-du-siecle-aux-echecs.html"
+    },
+    {
+      "text": "                   ",
       "url": "https://www.nouvelobs.com/politique/20220709.OBS60751/le-gouvernement-veut-expulser-tout-etranger-ayant-commis-des-actes-graves.html"
     },
     {
@@ -2879,35 +2987,35 @@
       "url": "https://www.nouvelobs.com/sante/20220709.OBS60746/variole-du-singe-faut-il-redouter-une-epidemie-massive.html"
     },
     {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/societe/20220708.OBS60744/un-rapport-recommande-de-fermer-la-maternite-de-guingamp.html"
-    },
-    {
-      "text": "         Un rapport recommande de fermer la maternit\u00e9 de Guingamp         ",
-      "url": "https://www.nouvelobs.com/societe/20220708.OBS60744/un-rapport-recommande-de-fermer-la-maternite-de-guingamp.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/monde/20220708.OBS60738/ivg-pour-contrer-une-cour-supreme-hors-de-controle-biden-veut-faire-passer-une-loi-au-congres.html"
-    },
-    {
-      "text": "         IVG\u00a0: pour contrer une Cour supr\u00eame \u00ab\u00a0hors de contr\u00f4le\u00a0\u00bb, Biden veut faire passer une loi au Congr\u00e8s         ",
-      "url": "https://www.nouvelobs.com/monde/20220708.OBS60738/ivg-pour-contrer-une-cour-supreme-hors-de-controle-biden-veut-faire-passer-une-loi-au-congres.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/coronavirus-de-wuhan/20220708.OBS60737/la-france-passe-la-barre-des-150-000-morts-du-covid-19.html"
-    },
-    {
-      "text": "         La France passe la barre des 150\u00a0000 morts du Covid-19         ",
-      "url": "https://www.nouvelobs.com/coronavirus-de-wuhan/20220708.OBS60737/la-france-passe-la-barre-des-150-000-morts-du-covid-19.html"
-    },
-    {
       "text": "Culture",
       "url": "/culture/"
     },
     {
       "text": "                 ",
+      "url": "https://www.nouvelobs.com/bibliobs/20220710.OBS60773/pourquoi-lit-on-moins-de-romans-quand-on-vieillit.html"
+    },
+    {
+      "text": "         Pourquoi lit-on moins de romans quand on vieillit\u00a0?         ",
+      "url": "https://www.nouvelobs.com/bibliobs/20220710.OBS60773/pourquoi-lit-on-moins-de-romans-quand-on-vieillit.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/culture/20220710.OBS60770/alain-souchon-certaines-de-mes-chansons-sont-nees-en-marchant.html"
+    },
+    {
+      "text": "         Alain Souchon\u00a0: \u00ab\u00a0Certaines de mes chansons sont n\u00e9es en marchant\u00a0\u00bb         ",
+      "url": "https://www.nouvelobs.com/culture/20220710.OBS60770/alain-souchon-certaines-de-mes-chansons-sont-nees-en-marchant.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/histoire/20220709.OBS60762/les-archives-de-l-obs-bobby-fischer-contre-boris-spassky-le-match-du-siecle-aux-echecs.html"
+    },
+    {
+      "text": "         Les archives de \u00ab\u00a0l\u2019Obs\u00a0\u00bb\u00a0: Bobby Fischer contre Boris Spassky, le match du si\u00e8cle aux \u00e9checs         ",
+      "url": "https://www.nouvelobs.com/histoire/20220709.OBS60762/les-archives-de-l-obs-bobby-fischer-contre-boris-spassky-le-match-du-siecle-aux-echecs.html"
+    },
+    {
+      "text": "                   ",
       "url": "https://www.nouvelobs.com/cinema/20220709.OBS60756/la-nuit-du-12-dominik-moll-version-metoo.html"
     },
     {
@@ -2923,72 +3031,48 @@
       "url": "https://www.nouvelobs.com/bibliobs/20220709.OBS60748/bientot-les-vacances-10-excellents-livres-a-glisser-dans-sa-valise.html"
     },
     {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/histoire/20220708.OBS60739/jfk-carnot-sankara-avant-shinzo-abe-ces-autres-hommes-d-etat-assassines.html"
-    },
-    {
-      "text": "         JFK, Carnot, Sankara... Avant Shinzo Abe, ces autres hommes d\u2019Etat assassin\u00e9s         ",
-      "url": "https://www.nouvelobs.com/histoire/20220708.OBS60739/jfk-carnot-sankara-avant-shinzo-abe-ces-autres-hommes-d-etat-assassines.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/cinema/20220707.OBS60672/l-acteur-james-caan-interprete-de-sonny-corleone-dans-le-parrain-est-mort-a-82-ans.html"
-    },
-    {
-      "text": "         L\u2019acteur James Caan, interpr\u00e8te de Sonny Corleone dans \u00ab\u00a0Le\u00a0Parrain\u00a0\u00bb, est mort \u00e0 82\u00a0ans         ",
-      "url": "https://www.nouvelobs.com/cinema/20220707.OBS60672/l-acteur-james-caan-interprete-de-sonny-corleone-dans-le-parrain-est-mort-a-82-ans.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/cinema/20220706.OBS60564/peter-von-kant-after-yang-music-hole-les-films-a-voir-ou-pas-cette-semaine.html"
-    },
-    {
-      "text": "         \u00ab\u00a0Peter von Kant\u00a0\u00bb, \u00ab\u00a0After Yang\u00a0\u00bb, \u00ab\u00a0Music Hole\u00a0\u00bb\u2026 Les films \u00e0 voir (ou pas) cette semaine         ",
-      "url": "https://www.nouvelobs.com/cinema/20220706.OBS60564/peter-von-kant-after-yang-music-hole-les-films-a-voir-ou-pas-cette-semaine.html"
-    },
-    {
       "text": "Monde",
       "url": "/monde/"
     },
     {
       "text": "                 ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60774/president-en-fuite-palais-envahi-par-la-foule-le-sri-lanka-s-enfonce-dans-la-crise.html"
+    },
+    {
+      "text": "         Pr\u00e9sident en fuite, palais envahi par la foule... Le Sri Lanka s\u2019enfonce dans la crise         ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60774/president-en-fuite-palais-envahi-par-la-foule-le-sri-lanka-s-enfonce-dans-la-crise.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60772/au-mexique-la-ville-de-monterrey-privee-d-eau-en-raison-de-la-secheresse.html"
+    },
+    {
+      "text": "         Au Mexique, la ville de Monterrey priv\u00e9e d\u2019eau en raison de la s\u00e9cheresse         ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60772/au-mexique-la-ville-de-monterrey-privee-d-eau-en-raison-de-la-secheresse.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60769/succession-de-boris-johnson-huit-candidats-deja-dans-la-course.html"
+    },
+    {
+      "text": "         Succession de Boris Johnson\u00a0: huit candidats d\u00e9j\u00e0 dans la course         ",
+      "url": "https://www.nouvelobs.com/monde/20220710.OBS60769/succession-de-boris-johnson-huit-candidats-deja-dans-la-course.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/etats-unis/20220709.OBS60763/aux-etats-unis-la-tentation-de-la-secession.html"
+    },
+    {
+      "text": "         Aux Etats-Unis, la tentation de la s\u00e9cession         ",
+      "url": "https://www.nouvelobs.com/etats-unis/20220709.OBS60763/aux-etats-unis-la-tentation-de-la-secession.html"
+    },
+    {
+      "text": "                   ",
       "url": "https://www.nouvelobs.com/monde/20220709.OBS60753/la-police-locale-japonaise-reconnait-des-failles-indeniables-dans-la-securite-de-shinzo-abe.html"
     },
     {
       "text": "         La police locale japonaise reconna\u00eet des failles \u00ab\u00a0ind\u00e9niables\u00a0\u00bb dans la s\u00e9curit\u00e9 de Shinzo Abe         ",
       "url": "https://www.nouvelobs.com/monde/20220709.OBS60753/la-police-locale-japonaise-reconnait-des-failles-indeniables-dans-la-securite-de-shinzo-abe.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/monde/20220709.OBS60749/le-president-du-sri-lanka-en-fuite-sa-residence-envahie-par-des-manifestants.html"
-    },
-    {
-      "text": "         Le pr\u00e9sident du Sri Lanka en fuite, sa r\u00e9sidence envahie par des manifestants         ",
-      "url": "https://www.nouvelobs.com/monde/20220709.OBS60749/le-president-du-sri-lanka-en-fuite-sa-residence-envahie-par-des-manifestants.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/economie/20220709.OBS60747/elon-musk-met-fin-a-l-accord-de-rachat-de-twitter-bataille-juridique-a-l-horizon.html"
-    },
-    {
-      "text": "         Apr\u00e8s la rupture de l\u2019accord de rachat par Elon Musk, une bataille juridique en vue         ",
-      "url": "https://www.nouvelobs.com/economie/20220709.OBS60747/elon-musk-met-fin-a-l-accord-de-rachat-de-twitter-bataille-juridique-a-l-horizon.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/guerre-en-ukraine/20220708.OBS60745/washington-annonce-une-nouvelle-aide-militaire-pour-l-ukraine.html"
-    },
-    {
-      "text": "         Washington annonce une nouvelle aide militaire pour l\u2019Ukraine         ",
-      "url": "https://www.nouvelobs.com/guerre-en-ukraine/20220708.OBS60745/washington-annonce-une-nouvelle-aide-militaire-pour-l-ukraine.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/guerre-en-ukraine/20220708.OBS60741/la-russie-seule-contre-tous-au-g20.html"
-    },
-    {
-      "text": "         La Russie, seule contre tous au G20         ",
-      "url": "https://www.nouvelobs.com/guerre-en-ukraine/20220708.OBS60741/la-russie-seule-contre-tous-au-g20.html"
     },
     {
       "text": "Nos vies intimes",
@@ -3040,6 +3124,22 @@
     },
     {
       "text": "                 ",
+      "url": "https://www.nouvelobs.com/politique/20220710.OBS60768/prix-du-gaz-et-de-l-electricite-borne-n-exclut-pas-des-aides-ciblees-apres-la-fin-du-bouclier-tarifaire.html"
+    },
+    {
+      "text": "         Prix du gaz et de l\u2019\u00e9lectricit\u00e9\u00a0: Borne n\u2019exclut pas des aides cibl\u00e9es apr\u00e8s la fin du bouclier tarifaire         ",
+      "url": "https://www.nouvelobs.com/politique/20220710.OBS60768/prix-du-gaz-et-de-l-electricite-borne-n-exclut-pas-des-aides-ciblees-apres-la-fin-du-bouclier-tarifaire.html"
+    },
+    {
+      "text": "                   ",
+      "url": "https://www.nouvelobs.com/economie/20220709.OBS60757/la-grande-distribution-peut-encore-baisser-les-prix-selon-le-ministre-de-l-agriculture-marc-fesneau.html"
+    },
+    {
+      "text": "         La grande distribution peut encore baisser les prix, selon le ministre de l\u2019Agriculture Marc Fesneau         ",
+      "url": "https://www.nouvelobs.com/economie/20220709.OBS60757/la-grande-distribution-peut-encore-baisser-les-prix-selon-le-ministre-de-l-agriculture-marc-fesneau.html"
+    },
+    {
+      "text": "                   ",
       "url": "https://www.nouvelobs.com/economie/20220709.OBS60747/elon-musk-met-fin-a-l-accord-de-rachat-de-twitter-bataille-juridique-a-l-horizon.html"
     },
     {
@@ -3061,22 +3161,6 @@
     {
       "text": "         Fin de la gr\u00e8ve des salari\u00e9s des a\u00e9roports parisiens         ",
       "url": "https://www.nouvelobs.com/social/20220708.OBS60687/les-salaries-des-aeroports-parisiens-votent-la-fin-de-la-greve-juste-avant-le-debut-des-vacances-d-ete.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/economie/20220708.OBS60680/pour-leurs-vacances-d-ete-2022-les-francais-revent-de-soleil-de-campagne-et-d-amerique.html"
-    },
-    {
-      "text": "         Pour leurs vacances d\u2019\u00e9t\u00e9 2022, les Fran\u00e7ais r\u00eavent de soleil, de campagne et\u2026 d\u2019Am\u00e9rique         ",
-      "url": "https://www.nouvelobs.com/economie/20220708.OBS60680/pour-leurs-vacances-d-ete-2022-les-francais-revent-de-soleil-de-campagne-et-d-amerique.html"
-    },
-    {
-      "text": "                   ",
-      "url": "https://www.nouvelobs.com/economie/20220708.OBS60681/bientot-un-aeroport-pour-voitures-volantes-en-ile-de-france.html"
-    },
-    {
-      "text": "         Bient\u00f4t un a\u00e9roport pour \u00ab\u00a0voitures volantes\u00a0\u00bb en Ile-de-France         ",
-      "url": "https://www.nouvelobs.com/economie/20220708.OBS60681/bientot-un-aeroport-pour-voitures-volantes-en-ile-de-france.html"
     },
     {
       "text": "Immobilier",
@@ -3464,7 +3548,7 @@
     "addeddate": "2022-06-30 22:26:27"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 859224925,
+  "uniq": 1849107100,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

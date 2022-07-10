@@ -11,13 +11,13 @@ orphan: true
 
 | Attribute      | Value                                                                               |
 | :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.santacruzsentinel.com/q](https://www.santacruzsentinel.com/q)                                                    |
+| Site           | [https://www.santacruzsentinel.com/](https://www.santacruzsentinel.com/)                                                    |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/scsentinel.xml) |
 | Twitter handle | [@scsentinel](https://www.twitter.com/scsentinel)                     |
 | Location       | Santa Cruz                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 1 screenshots stored at the Internet Archive.
+The archiving routine has captured 3 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

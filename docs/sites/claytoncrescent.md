@@ -17,7 +17,7 @@ orphan: true
 | Location       | Jonesboro                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 1 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

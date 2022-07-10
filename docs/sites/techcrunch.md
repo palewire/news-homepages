@@ -17,9 +17,8 @@ orphan: true
 | Location       | San Francisco                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 130 screenshots stored at the Internet Archive.
+The archiving routine has captured 69 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
-|[techcrunch-2022](https://archive.org/details/techcrunch-2022)|
 |[techcrunch-2022](https://archive.org/details/techcrunch-2022)|

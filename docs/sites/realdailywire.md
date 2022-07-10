@@ -17,7 +17,7 @@ orphan: true
 | Location       | Nashville                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 158 screenshots stored at the Internet Archive.
+The archiving routine has captured 160 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
