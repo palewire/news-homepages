@@ -1,5 +1,5 @@
 {
-  "created": 1657368739,
+  "created": 1657412599,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/9/items/knprnews-2022",
@@ -58,31 +58,73 @@
       "sha1": "f0dc305cb8c8258efeec7b554d4ea87ecf861a4e"
     },
     {
+      "name": "knprnews-2022-07-09T08:42:10.630521-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657381333",
+      "size": "18831",
+      "md5": "9e53b7c95cca109fe86766b9aba834ef",
+      "crc32": "f8d4ca7e",
+      "sha1": "f66eefe3a2934e6fbc9e7f6f25a277b634d99fdf",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-07-09T08:42:10.630521-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657381335",
+      "size": "14807",
+      "md5": "5b84f60fd56d0eb34acff86b3572abb5",
+      "crc32": "a0074cec",
+      "sha1": "c850879e7359b3a29d33497193bb06b648fa23ea",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-07-09T08:42:10.630521-07:00.jpg",
+      "source": "original",
+      "mtime": "1657381332",
+      "size": "223176",
+      "md5": "0ffc92ca68f5786233fceae44cea4563",
+      "crc32": "3ba2a6a9",
+      "sha1": "671b7bb28b1eecd36aad97e457f50077dfbc0cc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knprnews-2022-07-09T08:42:10.630521-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knprnews-2022-07-09T08:42:10.630521-07:00.jpg",
+      "mtime": "1657381379",
+      "size": "8948",
+      "md5": "9bdd72923e38fea0d76ce8350eae1fda",
+      "crc32": "a882afe8",
+      "sha1": "0da1459c6de8f6085fb286f1d4a3f71f173c6601"
+    },
+    {
       "name": "knprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81be1c9734608babfdb6e65ef7116031749d5bea",
-      "mtime": "1657339246",
-      "size": "2452",
-      "md5": "cf57544d262b36acdc5ff1d49dd752d8",
-      "crc32": "38614063",
-      "sha1": "3adcbe254fd279f47b1406143db98d86e2c157ce",
+      "btih": "27095dadf2fd4d3006be6eec79ea13b5756a0ce6",
+      "mtime": "1657381381",
+      "size": "3301",
+      "md5": "08c7007303c96dc5afee8c21f84ac424",
+      "crc32": "fd4d41b5",
+      "sha1": "36e7c116b62a60e8f1a977809b8af89a3a3f1639",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5200da6f0c468948fde05c1992936165",
+      "md5": "4ed445f43db49acbfbe5bb2b16ae918e",
       "summation": "md5"
     },
     {
       "name": "knprnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657339183",
-      "size": "20480",
-      "md5": "7352851b9b5ec778163d2a144f7ab49e",
-      "crc32": "274cc712",
-      "sha1": "380a9073192f85aa1db240521add729c4de5f6c3",
+      "mtime": "1657381338",
+      "size": "28672",
+      "md5": "88fc0434bfb399c0f03ba22128b11bae",
+      "crc32": "30d4ad80",
+      "sha1": "f3dfb80ed871d97888ab3c52229a6064b013cb21",
       "format": "Metadata"
     },
     {
@@ -96,9 +138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 9,
-  "item_last_updated": 1657339246,
-  "item_size": 296485,
+  "files_count": 13,
+  "item_last_updated": 1657381381,
+  "item_size": 571288,
   "knprnews-2022": [
     {
       "text": "News 88.9 KNPR",
@@ -442,10 +484,34 @@
     },
     {
       "text": "",
-      "url": "/desert-companion/2022-07/nevada-public-radio-says-farewell-andrew-kiraly"
+      "url": "/knpr/2022-07/1922-railroad-strike"
     },
     {
-      "text": "Nevada Public Radio says farewell to Andrew Kiraly",
+      "text": "1922 Railroad Strike",
+      "url": "/knpr/2022-07/1922-railroad-strike"
+    },
+    {
+      "text": "\n        Listen\n      ",
+      "url": "javascript:window.knprPlay('https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/nevada_yesterdays_railroad_strike_070920222.mp3.mp3', '1922 Railroad Strike', '1922-railroad-strike')"
+    },
+    {
+      "text": "\n        Download\n      ",
+      "url": "https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/nevada_yesterdays_railroad_strike_070920222.mp3.mp3?response-content-disposition=attachment%3B%20filename%3D%22nevada_yesterdays_railroad_strike_070920222.mp3.mp3%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3HX3D3NMQLZN2QNC%2F20220709%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220709T141102Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=518400&X-Amz-Signature=97e394d00dacac18671feca2a82ab92a98294f0320842a196ba0222dd8c113d5"
+    },
+    {
+      "text": "Tweet",
+      "url": "https://www.addthis.com/bookmark.php?v=300"
+    },
+    {
+      "text": "Share on Facebook",
+      "url": "https://www.addthis.com/bookmark.php?v=300"
+    },
+    {
+      "text": "Email",
+      "url": "https://www.addthis.com/bookmark.php?v=300"
+    },
+    {
+      "text": "",
       "url": "/desert-companion/2022-07/nevada-public-radio-says-farewell-andrew-kiraly"
     },
     {
@@ -459,6 +525,10 @@
     {
       "text": "Email",
       "url": "https://www.addthis.com/bookmark.php?v=300"
+    },
+    {
+      "text": "Nevada Public Radio says farewell to Andrew Kiraly",
+      "url": "/desert-companion/2022-07/nevada-public-radio-says-farewell-andrew-kiraly"
     },
     {
       "text": "",
@@ -486,7 +556,7 @@
     },
     {
       "text": "\n        Download\n      ",
-      "url": "https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/buildings_eco_web.mp3?response-content-disposition=attachment%3B%20filename%3D%22buildings_eco_web.mp3%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3HX3D3NMQLZN2QNC%2F20220709%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220709T031011Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=518400&X-Amz-Signature=94c11dc623b37f0d89420042011121036b1204d968d249704f6257eea3dc2ea5"
+      "url": "https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/buildings_eco_web.mp3?response-content-disposition=attachment%3B%20filename%3D%22buildings_eco_web.mp3%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3HX3D3NMQLZN2QNC%2F20220709%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220709T141103Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=518400&X-Amz-Signature=b853dffa6d9813a0d2804f1a8138be0516694be12ad48d229597cab80448df50"
     },
     {
       "text": "",
@@ -510,79 +580,51 @@
     },
     {
       "text": "",
-      "url": "/knpr/2022-07/nevada-expands-eligibility-families-access-child-care"
+      "url": "/npr/2022-07/us-tells-china-its-support-russia-ukraine-complicates-relations"
     },
     {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Nevada expands eligibility for families to access child care",
-      "url": "/knpr/2022-07/nevada-expands-eligibility-families-access-child-care"
+      "text": "U.S. tells China that its support for Russia in Ukraine complicates relations",
+      "url": "/npr/2022-07/us-tells-china-its-support-russia-ukraine-complicates-relations"
     },
     {
       "text": "",
-      "url": "/npr/2022-07/ukrainians-have-special-place-their-hearts-boris-johnson"
+      "url": "/npr/2022-07/sopranos-actor-tony-sirico-dies-79"
     },
     {
-      "text": "Ukrainians have a special place in their hearts for Boris Johnson",
-      "url": "/npr/2022-07/ukrainians-have-special-place-their-hearts-boris-johnson"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/whats-making-us-happy-guide-your-weekend-reading-listening-and-viewing-0"
-    },
-    {
-      "text": "What's making us happy: A guide to your weekend reading, listening and viewing",
-      "url": "/npr/2022-07/whats-making-us-happy-guide-your-weekend-reading-listening-and-viewing-0"
+      "text": "'Sopranos' actor Tony Sirico dies at 79",
+      "url": "/npr/2022-07/sopranos-actor-tony-sirico-dies-79"
     },
     {
       "text": "",
-      "url": "/npr/2022-07/shinzo-abe-killed-67-leaves-storied-legacy-japans-longest-serving-premier"
+      "url": "/npr/2022-07/photos-south-africas-train-hope-godsend-millions-new-threats-loom"
     },
     {
-      "text": "Shinzo Abe, killed at 67, leaves a storied legacy as Japan's longest-serving premier",
-      "url": "/npr/2022-07/shinzo-abe-killed-67-leaves-storied-legacy-japans-longest-serving-premier"
+      "text": "PHOTOS: South Africa's 'train of hope' is a godsend for millions. But new threats loom",
+      "url": "/npr/2022-07/photos-south-africas-train-hope-godsend-millions-new-threats-loom"
+    },
+    {
+      "text": "",
+      "url": "/npr/2022-07/gun-violence-rises-canada-weapons-us-complicate-gun-control-efforts"
+    },
+    {
+      "text": "As gun violence rises in Canada, weapons from the U.S. complicate gun control efforts",
+      "url": "/npr/2022-07/gun-violence-rises-canada-weapons-us-complicate-gun-control-efforts"
     },
     {
       "text": "\n        Listen\n      ",
-      "url": "javascript:window.knprPlay('https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220708_atc_abe_obit.mp3', 'Listen to the Story', 'listen-to-the-story')"
+      "url": "javascript:window.knprPlay('https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/06/20220613_atc_canada_guns.mp3', 'Listen to the Story', 'listen-to-the-story')"
     },
     {
       "text": "\n        Download\n      ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220708_atc_abe_obit.mp3?orgId=1&topicId=1062&d=256&p=2&story=1110538891&ft=nprml&f="
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/06/20220613_atc_canada_guns.mp3?orgId=1&topicId=1004&d=235&story=1108967278&ft=nprml&f=1001"
     },
     {
       "text": "",
-      "url": "/npr/2022-07/coronavirus-faq-i-took-trip-and-caught-covid-what-should-i-do-when-can-i-go-home"
+      "url": "/npr/2022-07/why-i-love-quiet-action-sequences-movies"
     },
     {
-      "text": "Coronavirus FAQ: I took a trip and caught COVID. What should I do? When can I go home?",
-      "url": "/npr/2022-07/coronavirus-faq-i-took-trip-and-caught-covid-what-should-i-do-when-can-i-go-home"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/tasman-keith-didnt-come-here-point-fingers"
-    },
-    {
-      "text": "Tasman Keith didn't come here to point fingers",
-      "url": "/npr/2022-07/tasman-keith-didnt-come-here-point-fingers"
-    },
-    {
-      "text": "\n        Listen\n      ",
-      "url": "javascript:window.knprPlay('https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220708_atc_web_music_-_tasman_keith.mp3', 'Listen to the Story', 'listen-to-the-story')"
-    },
-    {
-      "text": "\n        Download\n      ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220708_atc_web_music_-_tasman_keith.mp3?orgId=1&topicId=1105&d=475&p=2&story=1110496036&ft=nprml&f=1001"
+      "text": "Why I love quiet action sequences in movies",
+      "url": "/npr/2022-07/why-i-love-quiet-action-sequences-movies"
     },
     {
       "text": "ALL LOCAL STORIES >>",
@@ -609,6 +651,10 @@
       "url": "/knpr/2022-07/las-vegas-getting-hotter-and-hotter-heres-how-survive-its-brutal-summers"
     },
     {
+      "text": "When a Minnesota woman took a DNA test, her results came back with a surprise",
+      "url": "/npr/2022-07/when-minnesota-woman-took-dna-test-her-results-came-back-surprise"
+    },
+    {
       "text": "Nevada Public Radio says farewell to Andrew Kiraly",
       "url": "/desert-companion/2022-07/nevada-public-radio-says-farewell-andrew-kiraly"
     },
@@ -617,12 +663,8 @@
       "url": "/npr/2022-07/california-woman-finds-olympic-gold-medal-inside-fast-food-bag"
     },
     {
-      "text": "When a Minnesota woman took a DNA test, her results came back with a surprise",
-      "url": "/npr/2022-07/when-minnesota-woman-took-dna-test-her-results-came-back-surprise"
-    },
-    {
-      "text": "We know Nevada will continue to grow, but how can it be built sustainably?",
-      "url": "/knpr/2022-07/we-know-nevada-will-continue-grow-how-can-it-be-built-sustainably"
+      "text": "Examining the legal strategy of WNBA star Brittney Griner who's on trial in Russia",
+      "url": "/npr/2022-07/examining-legal-strategy-wnba-star-brittney-griner-whos-trial-russia"
     },
     {
       "text": "News Schedule",
@@ -713,10 +755,10 @@
     "publicdate": "2022-07-09 03:59:32",
     "addeddate": "2022-07-09 03:59:32"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 1044020768,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1037859389,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1657368975,
+  "created": 1657412861,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/qz-2022",
@@ -2756,31 +2756,73 @@
       "sha1": "ca6765543517cf4eea17938a2f3e462995026bce"
     },
     {
+      "name": "qz-2022-07-09T10:44:55.342527-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657377904",
+      "size": "12408",
+      "md5": "4dd9f30ea568e63c745f6653e83c51ed",
+      "crc32": "4280ec95",
+      "sha1": "495db6519440268350dcfd1bc94b2e9931d03b86",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-07-09T10:44:55.342527-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657377905",
+      "size": "13759",
+      "md5": "fee9ee8b975d20c87bc1b8686c7db2d9",
+      "crc32": "21db5f2f",
+      "sha1": "50bce21a754226c9e6e9d937a5b6d65ace6f250a",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-07-09T10:44:55.342527-04:00.jpg",
+      "source": "original",
+      "mtime": "1657377901",
+      "size": "235504",
+      "md5": "44bb0a24c5426eaf737bb96a52d70533",
+      "crc32": "6331dc02",
+      "sha1": "8c3adeed1a31996b9db54865bb68a67da7b10540",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-07-09T10:44:55.342527-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-07-09T10:44:55.342527-04:00.jpg",
+      "mtime": "1657377985",
+      "size": "8456",
+      "md5": "eaa0f9f8934df04f2ceb047552af991f",
+      "crc32": "020fedf6",
+      "sha1": "ef4f70a77ea8023602c70db0dfc2dc2d0058147a"
+    },
+    {
       "name": "qz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "592ba8424ee6db1141969be830fd9a54b54ba986",
-      "mtime": "1657336696",
-      "size": "54805",
-      "md5": "4c28fc18afc020c759e9fb535fdb8cc8",
-      "crc32": "fab08b0f",
-      "sha1": "00f3f95bd3cd42e1b427c747732259eb2fe08f85",
+      "btih": "229e50848d8d8646d0edc774868480a4c0dcb499",
+      "mtime": "1657378000",
+      "size": "55630",
+      "md5": "151b5e677d8d01a718e2c0c6e09ef85c",
+      "crc32": "8eb89b41",
+      "sha1": "91119e1281c5608f0a5a1cf91dfdc0a94b4bc458",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f27b0ea08c73434d0058348bca242172",
+      "md5": "2dc381fa2106aecd13693a506482d802",
       "summation": "md5"
     },
     {
       "name": "qz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657336535",
-      "size": "319488",
-      "md5": "0a00524bc86b687d898feed7996e17bb",
-      "crc32": "640dfd52",
-      "sha1": "5a168eecdac5bf24fc0c189ba28106ca64b835dd",
+      "mtime": "1657377909",
+      "size": "323584",
+      "md5": "ebd4ab7f90361b9ff9883c66f196fe46",
+      "crc32": "fa7667ad",
+      "sha1": "615baf9ff807811c32a78742ebe8430e9fee26ce",
       "format": "Metadata"
     },
     {
@@ -2794,9 +2836,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 266,
-  "item_last_updated": 1657336696,
-  "item_size": 18828676,
+  "files_count": 270,
+  "item_last_updated": 1657378000,
+  "item_size": 19103724,
   "metadata": {
     "identifier": "qz-2022",
     "collection": [
@@ -2967,7 +3009,19 @@
       "url": "/subscribe/"
     },
     {
-      "text": ".ArtDirection__26325 { padding-bottom: 61.194029850746276%; }@media (min-width: 26.5625em) { .ArtDirection__26325 { padding-bottom: 56.11940298507463%; } }",
+      "text": ".ArtDirection__29057 { padding-bottom: 61.194029850746276%; }@media (min-width: 26.5625em) { .ArtDirection__29057 { padding-bottom: 56.11940298507463%; } }",
+      "url": "/emails/quartz-weekend-brief/2186626/what-is-boris-johnsons-legacy/"
+    },
+    {
+      "text": "Quartz Weekend Brief",
+      "url": "/emails/quartz-weekend-brief/archive/"
+    },
+    {
+      "text": "\u2726 Bye bye, Boris6 hours ago",
+      "url": "/emails/quartz-weekend-brief/2186626/what-is-boris-johnsons-legacy/"
+    },
+    {
+      "text": ".ArtDirection__26119 { padding-bottom: 100%; }",
       "url": "/emails/quartz-forecast/2184378/what-crispr-will-enable-humanity-to-do-next/"
     },
     {
@@ -2977,18 +3031,6 @@
     {
       "text": "\u2726 Our Crispr futureJuly 3, 2022",
       "url": "/emails/quartz-forecast/2184378/what-crispr-will-enable-humanity-to-do-next/"
-    },
-    {
-      "text": ".ArtDirection__22791 { padding-bottom: 100%; }",
-      "url": "/emails/quartz-weekend-brief/2184503/the-us-supreme-courts-hard-right-turn/"
-    },
-    {
-      "text": "Quartz Weekend Brief",
-      "url": "/emails/quartz-weekend-brief/archive/"
-    },
-    {
-      "text": "\u2726 The US Supreme Court\u2019s hard right turnJuly 2, 2022",
-      "url": "/emails/quartz-weekend-brief/2184503/the-us-supreme-courts-hard-right-turn/"
     },
     {
       "text": ".ArtDirection__23337 { padding-bottom: 100%; }",
@@ -3067,11 +3109,23 @@
       "url": "/africa/latest/"
     },
     {
-      "text": ".ArtDirection__71419 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__71419 { padding-bottom: 56.66666666666667%; } }Twitter will sue Elon Musk for calling off his $44 billion takeoverQuartz \u2022 4 hours ago",
+      "text": ".ArtDirection__65263 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__65263 { padding-bottom: 56.66666666666667%; } }Is Amazon a harbinger on labor, or an outlier?Quartz \u2022 2 hours ago",
+      "url": "/2186558/us-jobs-report-transportation-and-warehousing-employment-rises/"
+    },
+    {
+      "text": ".ArtDirection__74447 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__74447 { padding-bottom: 56.66666666666667%; } }It\u2019s the best and worst of times for semiconductor supply chainsQuartz \u2022 3 hours ago",
+      "url": "/2186673/its-the-best-and-worst-of-times-for-semiconductor-supply-chains/"
+    },
+    {
+      "text": ".ArtDirection__47027 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__47027 { padding-bottom: 56.66666666666667%; } }Japanese researchers are developing artificial-gravity buildings for spaceQuartz \u2022 5 hours ago",
+      "url": "/2186038/a-space-habitat-with-artificial-gravity-is-being-developed-in-japan/"
+    },
+    {
+      "text": ".ArtDirection__71419 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__71419 { padding-bottom: 56.66666666666667%; } }Twitter will sue Elon Musk for calling off his $44 billion takeoverQuartz \u2022 July 8, 2022",
       "url": "/2186692/twitter-will-sue-elon-musk-for-calling-off-his-44b-takeover/"
     },
     {
-      "text": ".ArtDirection__74319 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__74319 { padding-bottom: 56.66666666666667%; } }Why this tightening cycle is so brutal for the US housing marketQuartz \u2022 7 hours ago",
+      "text": ".ArtDirection__74319 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__74319 { padding-bottom: 56.66666666666667%; } }Why this tightening cycle is so brutal for the US housing marketQuartz \u2022 July 8, 2022",
       "url": "/2186011/why-this-tightening-cycle-is-so-brutal-for-the-us-housing-market/"
     },
     {
@@ -3081,18 +3135,6 @@
     {
       "text": ".ArtDirection__69947 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__69947 { padding-bottom: 56.66666666666667%; } }The US job market is \u201cdefying gravity\u201d and calming fears of a recessionQuartz \u2022 July 8, 2022",
       "url": "/2186448/us-june-jobs-report-should-calm-fears-of-a-recession/"
-    },
-    {
-      "text": ".ArtDirection__54211 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__54211 { padding-bottom: 56.66666666666667%; } }The first major battle in VR is between Facebook and TikTok\u2019s parent companiesQuartz \u2022 July 8, 2022",
-      "url": "/2186216/tiktoks-bytedance-vs-facebooks-meta-is-the-first-major-battle-in-vr/"
-    },
-    {
-      "text": ".ArtDirection__63079 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__63079 { padding-bottom: 56.66666666666667%; } }Shinzo Abe\u2019s murder was a rare shooting in JapanQuartz \u2022 July 8, 2022",
-      "url": "/2186403/firearm-fatalities-are-rare-amid-japans-strict-gun-laws/"
-    },
-    {
-      "text": ".ArtDirection__53991 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__53991 { padding-bottom: 56.66666666666667%; } }Shares of Chinese bulletproof vest makers surged after Shinzo Abe\u2019s shootingQuartz \u2022 July 8, 2022",
-      "url": "/2186314/shares-of-chinese-bulletproof-vest-makers-surged-on-abes-shooting/"
     },
     {
       "text": "More latest stories",
@@ -3107,16 +3149,16 @@
       "url": "/2185883/covid-killed-30000-middle-age-people-in-2021/"
     },
     {
-      "text": ".ArtDirection__40102 { padding-bottom: 100%; }Shares of Chinese bulletproof vest makers surged after Shinzo Abe\u2019s shootingQuartz \u2022 July 8, 2022",
-      "url": "/2186314/shares-of-chinese-bulletproof-vest-makers-surged-on-abes-shooting/"
+      "text": ".ArtDirection__56677 { padding-bottom: 100%; }How much is Kate Bush making from \u201cRunning Up That Hill\u201d?Quartz \u2022 June 27, 2022",
+      "url": "/2182571/how-much-is-kate-bush-making-from-running-up-that-hill/"
+    },
+    {
+      "text": ".ArtDirection__53173 { padding-bottom: 100%; }Twitter will sue Elon Musk for calling off his $44 billion takeoverQuartz \u2022 July 8, 2022",
+      "url": "/2186692/twitter-will-sue-elon-musk-for-calling-off-his-44b-takeover/"
     },
     {
       "text": ".ArtDirection__50254 { padding-bottom: 100%; }With his latest tweets about Mars and children, Elon Musk embodies the privilege of the patriarchyQuartz \u2022 July 7, 2022",
       "url": "/2186026/what-elon-musks-tweets-on-his-children-and-mars-say-about-inequality/"
-    },
-    {
-      "text": ".ArtDirection__56677 { padding-bottom: 100%; }How much is Kate Bush making from \u201cRunning Up That Hill\u201d?Quartz \u2022 June 27, 2022",
-      "url": "/2182571/how-much-is-kate-bush-making-from-running-up-that-hill/"
     },
     {
       "text": "More popular Quartz storiesMore popular Quartz stories",
@@ -3379,10 +3421,10 @@
       "url": "https://www.linkedin.com/company/quartzmedia/"
     }
   ],
-  "server": "ia601405.us.archive.org",
-  "uniq": 1721993862,
+  "server": "ia801405.us.archive.org",
+  "uniq": 2118816112,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

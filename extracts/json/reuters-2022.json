@@ -1,5 +1,5 @@
 {
-  "created": 1657368983,
+  "created": 1657412867,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -1876,31 +1876,73 @@
       "sha1": "28488ec7976db141d73c76849f676e6dcb8ea02e"
     },
     {
+      "name": "reuters-2022-07-09T10:44:33.382626-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657377876",
+      "size": "32524",
+      "md5": "9c74f2f033d8a781b37f08f820f37ef5",
+      "crc32": "f652af33",
+      "sha1": "3e1446a89101d9bd9229573ea9f1367f7e485607",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-09T10:44:33.382626-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657377877",
+      "size": "28064",
+      "md5": "169645a67dbf5f26aeb5cff27b6872cd",
+      "crc32": "71924dc2",
+      "sha1": "254c7488a5313589a6e9c6c83bf18565bd5ca545",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-09T10:44:33.382626-04:00.jpg",
+      "source": "original",
+      "mtime": "1657377875",
+      "size": "232166",
+      "md5": "729e8d2b557990df617e397ca118bae7",
+      "crc32": "166705bd",
+      "sha1": "07014019be5af3facb16e924e8a6f46490246eba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-07-09T10:44:33.382626-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-07-09T10:44:33.382626-04:00.jpg",
+      "mtime": "1657377933",
+      "size": "8052",
+      "md5": "938705f2c5e2c586b8ed81faeeeda364",
+      "crc32": "8abff2b9",
+      "sha1": "5825ba9e20e8c1e12781a4417ceab83e7e79c306"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e24349b31c950e9f9021b445d33f9cb0d41dd91a",
-      "mtime": "1657336774",
-      "size": "38625",
-      "md5": "e811161d147a9dcb08e80246bc390dc8",
-      "crc32": "841bc9d6",
-      "sha1": "efb81c2c9a5b39a988016328b91776db4e182de2",
+      "btih": "fde8db39d1b00bcfe5d54b15eb2204a01b38de6d",
+      "mtime": "1657377939",
+      "size": "39450",
+      "md5": "0c17af55741df60f0e5666caf9665c52",
+      "crc32": "ca571ae1",
+      "sha1": "4e6239d2a6b5af5e7392397ea48e8a34656342b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de38c71a449e8a6241565a5bac16f709",
+      "md5": "ee63b5388997e2dd7d059aee67763eb4",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657336554",
-      "size": "221184",
-      "md5": "24b33627590a052a5f64dcf95b69bdfd",
-      "crc32": "7f060a41",
-      "sha1": "13d9713e1a8c582f01a2711b196d7f456a54f43b",
+      "mtime": "1657377882",
+      "size": "225280",
+      "md5": "c25d93cb6fe1cd048712d6daba8a6583",
+      "crc32": "a835241a",
+      "sha1": "5f4f65bd2eb2b8b74cbaaaf4fb21838cb1d9b1a2",
       "format": "Metadata"
     },
     {
@@ -1914,9 +1956,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 182,
-  "item_last_updated": 1657336774,
-  "item_size": 13885446,
+  "files_count": 186,
+  "item_last_updated": 1657377939,
+  "item_size": 14191173,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -1979,8 +2021,40 @@
       "url": "https://www.reuters.com/world/europe/"
     },
     {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Ukraine and Russia: What you need to know right now",
+      "url": "/world/europe/ukraine-russia-what-you-need-know-right-now-2022-07-03/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Russia assembling reserve forces near Ukraine for future offensive, says British intelligence",
+      "url": "/world/europe/russia-assembling-reserve-forces-near-ukraine-future-offensive-says-british-2022-07-09/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Ukraine pleads for more weapons, chief negotiator sees turning point in war",
+      "url": "/world/europe/snake-island-is-warning-russia-ukraine-will-not-be-broken-zelenskiy-2022-07-08/"
+    },
+    {
       "text": "Russian men are looking to avoid military service",
       "url": "/world/europe/more-russian-men-look-avoid-military-service-some-lawyers-rights-groups-say-2022-07-08/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "At CIA headquarters, Biden lauds U.S. intelligence for Putin warnings",
+      "url": "/world/us/cia-headquarters-biden-lauds-us-intelligence-putin-warnings-2022-07-08/"
     },
     {
       "text": "World",
@@ -2003,156 +2077,124 @@
       "url": "/world/"
     },
     {
-      "text": "Ukraine and Russia: What you need to know right now",
-      "url": "/world/europe/ukraine-russia-what-you-need-know-right-now-2022-07-03/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Russian forces unlikely to leave southern Ukraine, ambassador says",
-      "url": "/world/europe/russian-forces-unlikely-leave-southern-ukraine-ambassador-says-2022-07-08/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "Putin warns West: sanctions risk energy price spike catastrophe",
-      "url": "/business/energy/putin-warns-west-sanctions-risk-price-catastrophe-energy-consumers-2022-07-08/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Japanese mourn ex-PM Shinzo Abe a day after his assassination, article with gallery",
-      "url": "/world/asia-pacific/japans-election-campaigning-resume-day-after-abe-assassination-2022-07-09/"
+      "text": "Shinzo Abe's killer wielded homemade gun, grudge over mother's bankruptcy, article with gallery",
+      "url": "/world/asia-pacific/abe-killer-wielded-homemade-gun-grudge-over-mothers-bankruptcy-police-say-2022-07-09/"
     },
     {
       "text": "Gallery",
+      "url": "/world/asia-pacific/abe-killer-wielded-homemade-gun-grudge-over-mothers-bankruptcy-police-say-2022-07-09/"
+    },
+    {
+      "text": "The DIY gun used to kill Japan's Abe was simple to make, analysts say",
+      "url": "/world/asia-pacific/diy-gun-used-kill-japans-abe-was-simple-make-analysts-say-2022-07-09/"
+    },
+    {
+      "text": "Abe's body returns home, Japan grieves for slain former leader",
       "url": "/world/asia-pacific/japans-election-campaigning-resume-day-after-abe-assassination-2022-07-09/"
-    },
-    {
-      "text": "Before fatal shooting, Japan's Abe was up close with the crowd",
-      "url": "/world/before-fatal-shooting-japans-abe-was-up-close-with-crowd-2022-07-08/"
-    },
-    {
-      "text": "Abe assassination raises questions about security for VIPs in Japan",
-      "url": "/world/asia-pacific/abe-assassination-raises-questions-about-japans-vip-security-2022-07-08/"
-    },
-    {
-      "text": "Breakingviews: Shinzo Abe\u2019s assassination leaves Japan undone",
-      "url": "/breakingviews/shinzo-abes-assassination-leaves-japan-undone-2022-07-08/"
     },
     {
       "text": "Technology",
       "url": "/technology/"
     },
     {
-      "text": "Twitter vows legal fight after Musk pulls out of $44 billion deal",
-      "url": "/technology/elon-musk-terminating-twitter-deal-2022-07-08/"
-    },
-    {
-      "text": "Breakingviews: Musk lit a fire Twitter didn\u2019t know it needed",
-      "url": "/breakingviews/musk-lit-fire-twitter-didnt-know-it-needed-2022-07-09/"
-    },
-    {
-      "text": "",
-      "url": "/world/us/wall-st-week-ahead-recession-soft-landing-stagflation-investors-assess-economys-2022-07-08/"
-    },
-    {
-      "text": "Macro Matters",
-      "url": "/markets/macromatters/"
-    },
-    {
-      "text": "Wall St Week Ahead: Recession? Soft landing? Stagflation? Investors assess economy's strength, article with image",
-      "url": "/world/us/wall-st-week-ahead-recession-soft-landing-stagflation-investors-assess-economys-2022-07-08/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/us/biden-sign-executive-order-help-safeguard-access-abortion-contraception-2022-07-08/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Biden signs executive order on abortion, declares Supreme Court 'out of control', article with video",
-      "url": "/world/us/biden-sign-executive-order-help-safeguard-access-abortion-contraception-2022-07-08/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/europe/snake-island-is-warning-russia-ukraine-will-not-be-broken-zelenskiy-2022-07-08/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Ukraine pleads for more weapons, chief negotiator sees turning point in war, article with video",
-      "url": "/world/europe/snake-island-is-warning-russia-ukraine-will-not-be-broken-zelenskiy-2022-07-08/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "U.S., Chinese foreign ministers hold first talks since October",
-      "url": "/world/blinken-meets-chinas-wang-after-leading-pressure-efforts-russia-2022-07-09/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "'Sopranos' actor Tony Sirico dies at age 79, article with gallery",
-      "url": "/world/us/sopranos-actor-tony-sirico-dies-age-79-2022-07-09/"
+      "text": "Analysis: Twitter has legal edge in deal dispute with Musk",
+      "url": "/technology/twitter-has-legal-edge-deal-dispute-with-musk-2022-07-09/"
     },
     {
       "text": "Gallery",
-      "url": "/world/us/sopranos-actor-tony-sirico-dies-age-79-2022-07-09/"
+      "url": "/world/uk/with-uks-boris-johnson-set-quit-who-could-replace-him-2022-07-07/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Who might succeed Boris Johnson as Britain's prime minister, article with gallery",
+      "url": "/world/uk/with-uks-boris-johnson-set-quit-who-could-replace-him-2022-07-07/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/asia-pacific/sri-lanka-police-fire-tear-gas-anti-government-protesters-2022-07-09/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Sri Lanka PM offers resignation after protesters storm president's house, article with video",
+      "url": "/world/asia-pacific/sri-lanka-police-fire-tear-gas-anti-government-protesters-2022-07-09/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/europe/ukraine-pleads-weapons-war-spotlight-g20-meeting-2022-07-09/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Russia threatens broad Ukraine offensive as U.S. presses China over war stance, article with gallery",
+      "url": "/world/europe/ukraine-pleads-weapons-war-spotlight-g20-meeting-2022-07-09/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Biden signs executive order on abortion, declares Supreme Court 'out of control'",
+      "url": "/world/us/biden-sign-executive-order-help-safeguard-access-abortion-contraception-2022-07-08/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "/lifestyle/"
+    },
+    {
+      "text": "Djokovic set for the unexpected as Kyrgios blocks path to 21st Grand Slam title, article with image",
+      "url": "/lifestyle/sports/djokovic-set-unexpected-kyrgios-blocks-path-21st-grand-slam-title-2022-07-09/"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/sports/djokovic-set-unexpected-kyrgios-blocks-path-21st-grand-slam-title-2022-07-09/"
     },
     {
       "text": "See all World",
       "url": "/world/"
     },
     {
-      "text": "Gallery",
-      "url": "/world/blinken-meets-chinas-wang-after-leading-pressure-efforts-russia-2022-07-09/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "U.S., Chinese foreign ministers hold first talks since October, article with gallery",
-      "url": "/world/blinken-meets-chinas-wang-after-leading-pressure-efforts-russia-2022-07-09/"
-    },
-    {
       "text": "",
-      "url": "/world/asia-pacific/blinken-says-no-substitute-face-to-face-diplomacy-wih-china-meeting-2022-07-09/"
+      "url": "/world/middle-east/iran-escalates-enrichment-with-adaptable-machines-fordow-iaea-reports-2022-07-09/"
+    },
+    {
+      "text": "Middle East",
+      "url": "/world/middle-east/"
+    },
+    {
+      "text": "Iran escalates enrichment with adaptable machines at Fordow, IAEA reports, article with image",
+      "url": "/world/middle-east/iran-escalates-enrichment-with-adaptable-machines-fordow-iaea-reports-2022-07-09/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/asia-pacific/japans-election-campaigning-resume-day-after-abe-assassination-2022-07-09/"
     },
     {
       "text": "Asia Pacific",
       "url": "/world/asia-pacific/"
     },
     {
-      "text": "Blinken says no substitute for face-to-face diplomacy wih China meeting, article with image",
-      "url": "/world/asia-pacific/blinken-says-no-substitute-face-to-face-diplomacy-wih-china-meeting-2022-07-09/"
+      "text": "Abe's body returns home, Japan grieves for slain former leader, article with video",
+      "url": "/world/asia-pacific/japans-election-campaigning-resume-day-after-abe-assassination-2022-07-09/"
     },
     {
       "text": "Gallery",
-      "url": "/world/asia-pacific/japans-election-campaigning-resume-day-after-abe-assassination-2022-07-09/"
+      "url": "/world/india/least-16-dead-dozens-missing-after-flash-flood-kashmir-2022-07-09/"
     },
     {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
+      "text": "India",
+      "url": "/world/india/"
     },
     {
-      "text": "Japanese mourn ex-PM Shinzo Abe a day after his assassination, article with gallery",
-      "url": "/world/asia-pacific/japans-election-campaigning-resume-day-after-abe-assassination-2022-07-09/"
+      "text": "At least 16 dead, dozens missing after flash flood in Kashmir, article with gallery",
+      "url": "/world/india/least-16-dead-dozens-missing-after-flash-flood-kashmir-2022-07-09/"
     },
     {
       "text": "Gallery",
@@ -2168,139 +2210,139 @@
     },
     {
       "text": "Video",
-      "url": "/world/asia-pacific/japan-ex-prime-minister-abe-may-have-been-shot-taken-hospital-nhk-2022-07-08/"
+      "url": "/world/china/very-shocking-four-stabbed-by-assailant-major-shanghai-hospital-2022-07-09/"
     },
     {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
+      "text": "China",
+      "url": "/world/china/"
     },
     {
-      "text": "Shinzo Abe's assassin used a handmade firearm, article with video",
-      "url": "/world/asia-pacific/japan-ex-prime-minister-abe-may-have-been-shot-taken-hospital-nhk-2022-07-08/"
+      "text": "'Very shocking': Four stabbed by assailant at major Shanghai hospital, article with video",
+      "url": "/world/china/very-shocking-four-stabbed-by-assailant-major-shanghai-hospital-2022-07-09/"
     },
     {
-      "text": "Gallery",
-      "url": "/world/asia-pacific/iran-detains-prominent-activist-two-filmmakers-security-charges-2022-07-08/"
-    },
-    {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
-    },
-    {
-      "text": "Iran detains prominent activist, two filmmakers on security charges, article with gallery",
-      "url": "/world/asia-pacific/iran-detains-prominent-activist-two-filmmakers-security-charges-2022-07-08/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/americas/after-storm-damage-mexico-readies-new-roof-protecting-important-aztec-ruins-2022-07-08/"
+      "text": "",
+      "url": "/world/americas/us-imposes-visa-restrictions-28-cuban-officials-2022-07-09/"
     },
     {
       "text": "Americas",
       "url": "/world/americas/"
     },
     {
-      "text": "After storm damage, Mexico readies new roof protecting important Aztec ruins, article with video",
-      "url": "/world/americas/after-storm-damage-mexico-readies-new-roof-protecting-important-aztec-ruins-2022-07-08/"
+      "text": "U.S. imposes visa restrictions on 28 Cuban officials, article with image",
+      "url": "/world/americas/us-imposes-visa-restrictions-28-cuban-officials-2022-07-09/"
     },
     {
-      "text": "Video",
-      "url": "/world/europe/snake-island-is-warning-russia-ukraine-will-not-be-broken-zelenskiy-2022-07-08/"
+      "text": "",
+      "url": "/world/china/macau-shuts-casinos-other-businesses-contain-covid-outbreak-2022-07-09/"
+    },
+    {
+      "text": "China",
+      "url": "/world/china/"
+    },
+    {
+      "text": "Macau shuts casinos and other businesses to contain COVID outbreak, article with image",
+      "url": "/world/china/macau-shuts-casinos-other-businesses-contain-covid-outbreak-2022-07-09/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/europe/ukraine-pleads-weapons-war-spotlight-g20-meeting-2022-07-09/"
     },
     {
       "text": "Europe",
       "url": "/world/europe/"
     },
     {
-      "text": "Ukraine pleads for more weapons, chief negotiator sees turning point in war, article with video",
-      "url": "/world/europe/snake-island-is-warning-russia-ukraine-will-not-be-broken-zelenskiy-2022-07-08/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/americas/dont-vote-that-party-mexican-president-slams-texas-migrant-policy-2022-07-08/"
-    },
-    {
-      "text": "Americas",
-      "url": "/world/americas/"
-    },
-    {
-      "text": "'Don't vote for that party': Mexican president slams Texas migrant policy, article with gallery",
-      "url": "/world/americas/dont-vote-that-party-mexican-president-slams-texas-migrant-policy-2022-07-08/"
-    },
-    {
-      "text": "",
-      "url": "/world/biden-tells-japans-pm-outrage-abes-assassination-2022-07-08/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Biden tells Japan's PM of outrage at Abe's assassination, article with image",
-      "url": "/world/biden-tells-japans-pm-outrage-abes-assassination-2022-07-08/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/americas/mexican-cartel-urges-that-innocents-be-kept-out-drug-war-video-message-2022-07-08/"
-    },
-    {
-      "text": "Americas",
-      "url": "/world/americas/"
-    },
-    {
-      "text": "Mexican cartel urges that innocents be kept out of drug war in video message, article with gallery",
-      "url": "/world/americas/mexican-cartel-urges-that-innocents-be-kept-out-drug-war-video-message-2022-07-08/"
+      "text": "Russia threatens broad Ukraine offensive as U.S. presses China over war stance, article with gallery",
+      "url": "/world/europe/ukraine-pleads-weapons-war-spotlight-g20-meeting-2022-07-09/"
     },
     {
       "text": "Video",
-      "url": "/world/us/biden-sign-executive-order-help-safeguard-access-abortion-contraception-2022-07-08/"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "Biden signs executive order on abortion, declares Supreme Court 'out of control', article with video",
-      "url": "/world/us/biden-sign-executive-order-help-safeguard-access-abortion-contraception-2022-07-08/"
-    },
-    {
-      "text": "",
-      "url": "/world/costa-ricas-chaves-launches-pacific-alliance-trade-push-2022-07-08/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Costa Rica's Chaves launches Pacific Alliance trade push, article with image",
-      "url": "/world/costa-ricas-chaves-launches-pacific-alliance-trade-push-2022-07-08/"
-    },
-    {
-      "text": "",
-      "url": "/world/africa/tunisias-president-publishes-amended-draft-constitution-with-minor-changes-2022-07-08/"
+      "url": "/world/africa/angolas-former-president-dos-santos-dies-79-2022-07-08/"
     },
     {
       "text": "Africa",
       "url": "/world/africa/"
     },
     {
-      "text": "Tunisia's president publishes amended draft of constitution with minor changes, article with image",
-      "url": "/world/africa/tunisias-president-publishes-amended-draft-constitution-with-minor-changes-2022-07-08/"
+      "text": "Angola's former president Jose Eduardo dos Santos dies at 79, article with video",
+      "url": "/world/africa/angolas-former-president-dos-santos-dies-79-2022-07-08/"
     },
     {
       "text": "Video",
-      "url": "/business/environment/deforestation-brazils-amazon-hits-record-first-half-2022-2022-07-08/"
+      "url": "/world/asia-pacific/sri-lanka-police-fire-tear-gas-anti-government-protesters-2022-07-09/"
     },
     {
-      "text": "Business",
-      "url": "/business/"
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
     },
     {
-      "text": "Deforestation in Brazil's Amazon hits record for first half of 2022, article with video",
-      "url": "/business/environment/deforestation-brazils-amazon-hits-record-first-half-2022-2022-07-08/"
+      "text": "Sri Lanka PM offers resignation after protesters storm president's house, article with video",
+      "url": "/world/asia-pacific/sri-lanka-police-fire-tear-gas-anti-government-protesters-2022-07-09/"
     },
     {
-      "text": "See all videos",
-      "url": "/video?chan:20q07aeu"
+      "text": "",
+      "url": "/world/africa/imf-executive-board-approves-638-million-benin-2022-07-09/"
+    },
+    {
+      "text": "Africa",
+      "url": "/world/africa/"
+    },
+    {
+      "text": "IMF executive board approves $638 million for Benin, article with image",
+      "url": "/world/africa/imf-executive-board-approves-638-million-benin-2022-07-09/"
+    },
+    {
+      "text": "",
+      "url": "/world/asia-pacific/diy-gun-used-kill-japans-abe-was-simple-make-analysts-say-2022-07-09/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "The DIY gun used to kill Japan's Abe was simple to make, analysts say, article with image",
+      "url": "/world/asia-pacific/diy-gun-used-kill-japans-abe-was-simple-make-analysts-say-2022-07-09/"
+    },
+    {
+      "text": "",
+      "url": "/world/syrias-assad-makes-first-visit-aleppo-since-recapture-2022-07-09/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Syria's Assad makes first visit to Aleppo since recapture, article with image",
+      "url": "/world/syrias-assad-makes-first-visit-aleppo-since-recapture-2022-07-09/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/asia-pacific/abe-killer-wielded-homemade-gun-grudge-over-mothers-bankruptcy-police-say-2022-07-09/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Shinzo Abe's killer wielded homemade gun, grudge over mother's bankruptcy, article with gallery",
+      "url": "/world/asia-pacific/abe-killer-wielded-homemade-gun-grudge-over-mothers-bankruptcy-police-say-2022-07-09/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/uk/with-uks-boris-johnson-set-quit-who-could-replace-him-2022-07-07/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Factbox: Who might succeed Boris Johnson as Britain's prime minister, article with gallery",
+      "url": "/world/uk/with-uks-boris-johnson-set-quit-who-could-replace-him-2022-07-07/"
+    },
+    {
+      "text": "",
+      "url": "https://www.reuters.com/markets/us/recession-what-recession-just-dont-quit-before-lunch-2022-07-08/"
     },
     {
       "text": "",
@@ -2308,11 +2350,7 @@
     },
     {
       "text": "",
-      "url": "https://www.reuters.com/world/exclusive-pope-francis-calls-steps-against-clerical-abuse-irreversible-despite-2022-07-08/"
-    },
-    {
-      "text": "",
-      "url": "https://www.reuters.com/business/environment/deforestation-brazils-amazon-hits-record-first-half-2022-2022-07-08/"
+      "url": "https://www.reuters.com/world/us/sopranos-actor-tony-sirico-dies-age-79-2022-07-09/"
     },
     {
       "text": "is out",
@@ -2327,148 +2365,20 @@
       "url": "https://www.reuters.com/business/retail-consumer/levi-strauss-revenue-thrives-pricier-denims-strong-demand-2022-07-07/?utm_source=homepage&utm_medium=icymi"
     },
     {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/us/cia-headquarters-biden-lauds-us-intelligence-putin-warnings-2022-07-08/"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "At CIA headquarters, Biden lauds U.S. intelligence for Putin warnings, article with gallery",
-      "url": "/world/us/cia-headquarters-biden-lauds-us-intelligence-putin-warnings-2022-07-08/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/us/man-arrested-over-alleged-threat-colorados-top-election-official-2022-07-08/"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "Man arrested over alleged threat to Colorado's top election official, article with gallery",
-      "url": "/world/us/man-arrested-over-alleged-threat-colorados-top-election-official-2022-07-08/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/us/gun-groups-challenge-california-ban-firearms-marketing-kids-2022-07-08/"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "Gun groups challenge California ban on firearms marketing to kids, article with gallery",
-      "url": "/world/us/gun-groups-challenge-california-ban-firearms-marketing-kids-2022-07-08/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/us/invasion-giant-african-land-snails-puts-florida-offensive-2022-07-08/"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "Invasion of giant African land snails puts Florida on offensive, article with gallery",
-      "url": "/world/us/invasion-giant-african-land-snails-puts-florida-offensive-2022-07-08/"
-    },
-    {
-      "text": "Health",
-      "url": "/business/healthcare-pharmaceuticals/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/china/after-backlash-beijing-drops-covid-vaccination-mandate-crowded-venues-2022-07-08/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "After backlash, Beijing drops COVID vaccination mandate for crowded venues, article with gallery",
-      "url": "/world/china/after-backlash-beijing-drops-covid-vaccination-mandate-crowded-venues-2022-07-08/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/business/healthcare-pharmaceuticals/us-fda-grants-full-approval-pfizer-covid-vaccine-ages-12-15-2022-07-08/"
-    },
-    {
-      "text": "Future of Health",
-      "url": "/business/future-of-health/"
-    },
-    {
-      "text": "U.S. FDA grants full approval to Pfizer COVID vaccine for ages 12-15, article with gallery",
-      "url": "/business/healthcare-pharmaceuticals/us-fda-grants-full-approval-pfizer-covid-vaccine-ages-12-15-2022-07-08/"
-    },
-    {
-      "text": "",
-      "url": "/world/china/china-covid-monitoring-app-cuts-travel-history-scrutiny-2022-07-08/"
-    },
-    {
-      "text": "Future of Health",
-      "url": "/business/future-of-health/"
-    },
-    {
-      "text": "China COVID monitoring app cuts travel history scrutiny, article with image",
-      "url": "/world/china/china-covid-monitoring-app-cuts-travel-history-scrutiny-2022-07-08/"
-    },
-    {
-      "text": "",
-      "url": "/business/healthcare-pharmaceuticals/monkeypox-french-health-authority-recommends-vaccination-people-exposed-virus-2022-07-08/"
-    },
-    {
-      "text": "Healthcare & Pharmaceuticals",
-      "url": "/business/healthcare-pharmaceuticals/"
-    },
-    {
-      "text": "Gay men, some trans people and sex workers should be vaccinated against monkeypox, French health body says, article with image",
-      "url": "/business/healthcare-pharmaceuticals/monkeypox-french-health-authority-recommends-vaccination-people-exposed-virus-2022-07-08/"
-    },
-    {
       "text": "Business",
       "url": "/business/"
     },
     {
-      "text": "Video",
-      "url": "/markets/us/us-job-growth-beats-expectations-unemployment-rate-holds-36-2022-07-08/"
-    },
-    {
-      "text": "Markets",
-      "url": "/markets/"
-    },
-    {
-      "text": "U.S. labor market powers ahead with strong job gains  despite recession fears, article with video",
-      "url": "/markets/us/us-job-growth-beats-expectations-unemployment-rate-holds-36-2022-07-08/"
-    },
-    {
-      "text": "Video",
-      "url": "/technology/elon-musk-hits-pause-twitter-deal-after-aggressive-pursuit-2022-05-13/"
-    },
-    {
-      "text": "Technology",
-      "url": "/technology/"
-    },
-    {
-      "text": "Elon Musk seeks to end $44 billion Twitter pursuit, article with video",
-      "url": "/technology/elon-musk-hits-pause-twitter-deal-after-aggressive-pursuit-2022-05-13/"
-    },
-    {
       "text": "",
-      "url": "/markets/us/strong-us-jobs-report-does-little-ease-nerves-wall-street-2022-07-08/"
+      "url": "/business/media-telecom/rogers-services-restored-majority-customers-after-canada-wide-outage-2022-07-09/"
     },
     {
-      "text": "Macro Matters",
-      "url": "/markets/macromatters/"
+      "text": "Media & Telecom",
+      "url": "/business/media-telecom/"
     },
     {
-      "text": "Analysis: Strong U.S. jobs report does little to ease nerves on Wall Street, article with image",
-      "url": "/markets/us/strong-us-jobs-report-does-little-ease-nerves-wall-street-2022-07-08/"
+      "text": "Rogers services restored for majority of customers after Canada-wide outage, article with image",
+      "url": "/business/media-telecom/rogers-services-restored-majority-customers-after-canada-wide-outage-2022-07-09/"
     },
     {
       "text": "",
@@ -2483,20 +2393,148 @@
       "url": "/business/energy/suncor-energy-ceo-mark-little-steps-down-2022-07-09/"
     },
     {
-      "text": "United Kingdom",
-      "url": "/world/uk/"
+      "text": "",
+      "url": "/business/autos-transportation/us-agency-open-probe-into-fatal-florida-tesla-crash-2022-07-08/"
+    },
+    {
+      "text": "Autos & Transportation",
+      "url": "/business/autos-transportation/"
+    },
+    {
+      "text": "U.S. agency to open probe into fatal Florida Tesla crash, article with image",
+      "url": "/business/autos-transportation/us-agency-open-probe-into-fatal-florida-tesla-crash-2022-07-08/"
     },
     {
       "text": "Video",
-      "url": "/world/africa/contest-replace-boris-johnson-begins-opponents-demand-he-goes-now-2022-07-08/"
+      "url": "/technology/elon-musk-hits-pause-twitter-deal-after-aggressive-pursuit-2022-05-13/"
     },
     {
-      "text": "Contest to replace Boris Johnson begins, opponents demand he goes now, article with video",
-      "url": "/world/africa/contest-replace-boris-johnson-begins-opponents-demand-he-goes-now-2022-07-08/"
+      "text": "Technology",
+      "url": "/technology/"
+    },
+    {
+      "text": "Elon Musk seeks to end $44 billion Twitter pursuit, article with video",
+      "url": "/technology/elon-musk-hits-pause-twitter-deal-after-aggressive-pursuit-2022-05-13/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/before-fatal-shooting-japans-abe-was-up-close-with-crowd-2022-07-08/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Before fatal shooting, Japan's Abe was up close with the crowd, article with video",
+      "url": "/world/before-fatal-shooting-japans-abe-was-up-close-with-crowd-2022-07-08/"
+    },
+    {
+      "text": "",
+      "url": "/world/asia-pacific/abe-assassination-raises-questions-about-japans-vip-security-2022-07-08/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Abe assassination raises questions about security for VIPs in Japan, article with image",
+      "url": "/world/asia-pacific/abe-assassination-raises-questions-about-japans-vip-security-2022-07-08/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/asia-pacific/japan-ex-prime-minister-abe-may-have-been-shot-taken-hospital-nhk-2022-07-08/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Shinzo Abe's assassin used a handmade firearm, article with video",
+      "url": "/world/asia-pacific/japan-ex-prime-minister-abe-may-have-been-shot-taken-hospital-nhk-2022-07-08/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/asia-pacific/mostly-gun-free-nation-japanese-stunned-by-abe-killing-2022-07-08/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Abe assassination stuns Japan, a country where gun violence is rare, article with gallery",
+      "url": "/world/asia-pacific/mostly-gun-free-nation-japanese-stunned-by-abe-killing-2022-07-08/"
+    },
+    {
+      "text": "China",
+      "url": "/world/china/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/china/very-shocking-four-stabbed-by-assailant-major-shanghai-hospital-2022-07-09/"
+    },
+    {
+      "text": "China",
+      "url": "/world/china/"
+    },
+    {
+      "text": "'Very shocking': Four stabbed by assailant at major Shanghai hospital, article with video",
+      "url": "/world/china/very-shocking-four-stabbed-by-assailant-major-shanghai-hospital-2022-07-09/"
+    },
+    {
+      "text": "",
+      "url": "/world/china/macau-shuts-casinos-other-businesses-contain-covid-outbreak-2022-07-09/"
+    },
+    {
+      "text": "China",
+      "url": "/world/china/"
+    },
+    {
+      "text": "Macau shuts casinos and other businesses to contain COVID outbreak, article with image",
+      "url": "/world/china/macau-shuts-casinos-other-businesses-contain-covid-outbreak-2022-07-09/"
+    },
+    {
+      "text": "",
+      "url": "/markets/europe/chinas-june-factory-inflation-cools-consumer-prices-accelerate-2022-07-09/"
+    },
+    {
+      "text": "Markets",
+      "url": "/markets/"
+    },
+    {
+      "text": "China's June factory inflation cools counter to global trends, article with image",
+      "url": "/markets/europe/chinas-june-factory-inflation-cools-consumer-prices-accelerate-2022-07-09/"
+    },
+    {
+      "text": "",
+      "url": "/world/chinese-minister-hopes-ties-with-canada-can-get-back-track-2022-07-09/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Chinese minister hopes ties with Canada can get back on track, article with image",
+      "url": "/world/chinese-minister-hopes-ties-with-canada-can-get-back-track-2022-07-09/"
     },
     {
       "text": "United Kingdom",
       "url": "/world/uk/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/uk/uks-conservative-party-looking-speed-up-leadership-contest-committee-member-2022-07-09/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "British Conservatives look to speed up leadership contest, committee member says, article with gallery",
+      "url": "/world/uk/uks-conservative-party-looking-speed-up-leadership-contest-committee-member-2022-07-09/"
     },
     {
       "text": "Gallery",
@@ -2512,6 +2550,18 @@
     },
     {
       "text": "Gallery",
+      "url": "/world/uk/with-uks-boris-johnson-set-quit-who-could-replace-him-2022-07-07/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Who might succeed Boris Johnson as Britain's prime minister, article with gallery",
+      "url": "/world/uk/with-uks-boris-johnson-set-quit-who-could-replace-him-2022-07-07/"
+    },
+    {
+      "text": "Gallery",
       "url": "/world/uk/police-say-uk-labour-leader-will-not-be-fined-after-lockdown-investigation-2022-07-08/"
     },
     {
@@ -2523,28 +2573,56 @@
       "url": "/world/uk/police-say-uk-labour-leader-will-not-be-fined-after-lockdown-investigation-2022-07-08/"
     },
     {
-      "text": "",
-      "url": "/world/uk/uks-boris-johnson-moves-wedding-party-planned-official-residence-2022-07-08/"
-    },
-    {
-      "text": "United Kingdom",
-      "url": "/world/uk/"
-    },
-    {
-      "text": "Boris Johnson moves wedding party planned for official residence, article with image",
-      "url": "/world/uk/uks-boris-johnson-moves-wedding-party-planned-official-residence-2022-07-08/"
+      "text": "United States",
+      "url": "/world/us/"
     },
     {
       "text": "Gallery",
-      "url": "/world/uk/with-uks-boris-johnson-set-quit-who-could-replace-him-2022-07-07/"
+      "url": "/world/us/gun-groups-challenge-california-ban-firearms-marketing-kids-2022-07-08/"
     },
     {
-      "text": "United Kingdom",
-      "url": "/world/uk/"
+      "text": "United States",
+      "url": "/world/us/"
     },
     {
-      "text": "Factbox: Now UK's Boris Johnson has quit, who could replace him?, article with gallery",
-      "url": "/world/uk/with-uks-boris-johnson-set-quit-who-could-replace-him-2022-07-07/"
+      "text": "Gun groups challenge California ban on firearms marketing to kids, article with gallery",
+      "url": "/world/us/gun-groups-challenge-california-ban-firearms-marketing-kids-2022-07-08/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/us/man-arrested-over-alleged-threat-colorados-top-election-official-2022-07-08/"
+    },
+    {
+      "text": "United States",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Man arrested over alleged threat to Colorado's top election official, article with gallery",
+      "url": "/world/us/man-arrested-over-alleged-threat-colorados-top-election-official-2022-07-08/"
+    },
+    {
+      "text": "",
+      "url": "/business/energy/us-proposes-smaller-version-conocophillips-willow-project-2022-07-08/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "U.S. considering range of options for ConocoPhillips' Willow drilling project, article with image",
+      "url": "/business/energy/us-proposes-smaller-version-conocophillips-willow-project-2022-07-08/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/us/invasion-giant-african-land-snails-puts-florida-offensive-2022-07-08/"
+    },
+    {
+      "text": "United States",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Invasion of giant African land snails puts Florida on offensive, article with gallery",
+      "url": "/world/us/invasion-giant-african-land-snails-puts-florida-offensive-2022-07-08/"
     },
     {
       "text": "Sports",
@@ -2552,35 +2630,39 @@
     },
     {
       "text": "Gallery",
-      "url": "/lifestyle/sports/djokovic-hits-back-beat-norrie-sets-up-kyrgios-final-2022-07-08/"
+      "url": "/lifestyle/sports/djokovic-fears-kyrgioss-unreadable-serve-says-former-member-serbs-team-2022-07-09/"
     },
     {
-      "text": "Djokovic hits back to beat Norrie, sets up Kyrgios final, article with gallery",
-      "url": "/lifestyle/sports/djokovic-hits-back-beat-norrie-sets-up-kyrgios-final-2022-07-08/"
-    },
-    {
-      "text": "Video",
-      "url": "/lifestyle/sports/verdict-due-corruption-trial-blatter-platini-2022-07-08/"
-    },
-    {
-      "text": "Blatter, Platini cleared of fraud in Swiss trial, article with video",
-      "url": "/lifestyle/sports/verdict-due-corruption-trial-blatter-platini-2022-07-08/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/lifestyle/sports/another-year-another-new-champion-jabeur-rybakina-face-off-2022-07-08/"
-    },
-    {
-      "text": "Another year, another new champion as Jabeur and Rybakina face off, article with gallery",
-      "url": "/lifestyle/sports/another-year-another-new-champion-jabeur-rybakina-face-off-2022-07-08/"
+      "text": "Djokovic fears Kyrgios's 'unreadable' serve, says former member of Serb's team, article with gallery",
+      "url": "/lifestyle/sports/djokovic-fears-kyrgioss-unreadable-serve-says-former-member-serbs-team-2022-07-09/"
     },
     {
       "text": "",
-      "url": "/lifestyle/sports/spieth-says-he-is-committed-pga-tour-not-discussions-with-liv-2022-07-08/"
+      "url": "/lifestyle/sports/frances-bouchard-out-tour-de-france-with-covid-19-2022-07-09/"
     },
     {
-      "text": "Spieth says he is committed to PGA Tour and not in discussions with LIV, article with image",
-      "url": "/lifestyle/sports/spieth-says-he-is-committed-pga-tour-not-discussions-with-liv-2022-07-08/"
+      "text": "Bouchard and Laengen out of Tour de France with COVID, article with image",
+      "url": "/lifestyle/sports/frances-bouchard-out-tour-de-france-with-covid-19-2022-07-09/"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/sports/semenya-included-5000m-entry-list-world-championships-2022-07-09/"
+    },
+    {
+      "text": "Semenya included in 5,000m entry list for world championships, article with image",
+      "url": "/lifestyle/sports/semenya-included-5000m-entry-list-world-championships-2022-07-09/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/lifestyle/sports/mlb-roundup-phils-alex-bohm-homers-twice-zack-wheeler-blanks-cards-2022-07-09/"
+    },
+    {
+      "text": "Sports",
+      "url": "/lifestyle/sports/"
+    },
+    {
+      "text": "MLB roundup: Phils' Alex Bohm homers twice, Zack Wheeler blanks Cards, article with gallery",
+      "url": "/lifestyle/sports/mlb-roundup-phils-alex-bohm-homers-twice-zack-wheeler-blanks-cards-2022-07-09/"
     },
     {
       "text": "",
@@ -2820,7 +2902,7 @@
     }
   ],
   "server": "ia902504.us.archive.org",
-  "uniq": 2041934016,
+  "uniq": 827275984,
   "workable_servers": [
     "ia902504.us.archive.org",
     "ia802504.us.archive.org"
