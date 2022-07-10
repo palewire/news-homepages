@@ -17,7 +17,7 @@ orphan: true
 | Location       | Nagoya                                                                 |
 | Timezone       | Asia/Tokyo                                                                 |
 
-The archiving routine has captured 4 screenshots stored at the Internet Archive.
+The archiving routine has captured 6 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

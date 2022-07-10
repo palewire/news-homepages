@@ -7,7 +7,7 @@ orphan: true
 
 # Scotland
 
-The most recent homepages from 4 news sites in this bundle.
+The most recent homepages from 5 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -47,6 +47,15 @@ The most recent homepages from 4 news sites in this bundle.
  <p><a href="../sites/thescotsman.html">Scotsman</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/scottishsun.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scottishsun.jpg"
+     alt="Scottish Sun"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/scottishsun.html">Scottish Sun</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -66,3 +75,4 @@ The most recent homepages from 4 news sites in this bundle.
 |[Daily Herald](https://palewi.re/docs/news-homepages/sites/heraldscotland.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldscotland.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/heraldscotland.xml)|
 |[National](https://palewi.re/docs/news-homepages/sites/scotnational.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scotnational.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scotnational.xml)|
 |[Scotsman](https://palewi.re/docs/news-homepages/sites/thescotsman.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thescotsman.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thescotsman.xml)|
+|[Scottish Sun](https://palewi.re/docs/news-homepages/sites/scottishsun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scottishsun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scottishsun.xml)|

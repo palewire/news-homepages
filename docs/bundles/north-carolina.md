@@ -7,7 +7,7 @@ orphan: true
 
 # North Carolina
 
-The most recent homepages from 5 news sites in this bundle.
+The most recent homepages from 7 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -56,6 +56,24 @@ The most recent homepages from 5 news sites in this bundle.
  <p><a href="../sites/dailytarheel.html">Daily Tarheel</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newsobserver.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsobserver.jpg"
+     alt="News & Observer"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/newsobserver.html">News & Observer</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theobserver.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theobserver.jpg"
+     alt="Charlotte Observer"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theobserver.html">Charlotte Observer</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -76,3 +94,5 @@ The most recent homepages from 5 news sites in this bundle.
 |[WRAL](https://palewi.re/docs/news-homepages/sites/wral.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wral.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wral.xml)|
 |[Asheville Watchdog](https://palewi.re/docs/news-homepages/sites/avlwatchdog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/avlwatchdog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/avlwatchdog.xml)|
 |[Daily Tarheel](https://palewi.re/docs/news-homepages/sites/dailytarheel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailytarheel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailytarheel.xml)|
+|[News & Observer](https://palewi.re/docs/news-homepages/sites/newsobserver.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsobserver.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsobserver.xml)|
+|[Charlotte Observer](https://palewi.re/docs/news-homepages/sites/theobserver.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theobserver.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theobserver.xml)|
