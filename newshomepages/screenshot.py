@@ -108,6 +108,7 @@ def _screenshot(site: typing.Dict, output_dir: str, wait: int = 5000):
             ".ab_widget_container_popin-image",  # Popover
             ".ab_widget_container_popin-image_content",
             ".ab_widget_container_popin-image_overlay",
+            ".fc-ab-root",  # Popover
         ]
         target_str = ",".join(target_list)
         javascript = (
