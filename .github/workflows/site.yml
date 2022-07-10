@@ -18,43 +18,30 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: docs
-        name: Docs
+      - id: update-docs
+        name: Update docs
         uses: ./.github/actions/docs
 
-  rss:
-    name: Update RSS
-    runs-on: ubuntu-latest
-    needs: [docs]
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
-
-      - id: rss
-        name: RSS
+      - id: update-rss
+        name: Update RSS
         uses: ./.github/actions/rss
 
-  deploy:
-    name: "Build and deploy"
-    runs-on: ubuntu-latest
-    needs: [docs,rss]
-    steps:
-    - uses: actions/checkout@v3
+      - id: build-docs
+        uses: ammaraskar/sphinx-action@master
+        with:
+          docs-folder: "docs/"
 
-    - uses: ammaraskar/sphinx-action@master
-      with:
-        docs-folder: "docs/"
+      - id: upload-artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: documentation-html
+          path: docs/_build/html/
 
-    - uses: actions/upload-artifact@v1
-      with:
-        name: documentation-html
-        path: docs/_build/html/
-
-    - uses: shallwefootball/s3-upload-action@master
-      with:
-        aws_key_id: ${{ secrets.PALEWIRE_DOCS_AWS_ACCESS_KEY_ID }}
-        aws_secret_access_key: ${{ secrets.PALEWIRE_DOCS_AWS_SECRET_ACCESS_KEY }}
-        aws_bucket: ${{ secrets.PALEWIRE_DOCS_AWS_BUCKET }}
+      - id: upload-docs
+        uses: shallwefootball/s3-upload-action@master
+        with:
+          aws_key_id: ${{ secrets.PALEWIRE_DOCS_AWS_ACCESS_KEY_ID }}
+          aws_secret_access_key: ${{ secrets.PALEWIRE_DOCS_AWS_SECRET_ACCESS_KEY }}
+          aws_bucket: ${{ secrets.PALEWIRE_DOCS_AWS_BUCKET }}
         source_dir: docs/_build/html/
         destination_dir: news-homepages
