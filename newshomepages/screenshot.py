@@ -117,6 +117,9 @@ def _screenshot(site: typing.Dict, output_dir: str, wait: int = 5000):
             ".message-container",  # Popup
             ".teg-container",
             'div[id^="sp_message_container"]',  # Popover
+            ".wisepops-root",  # Popover
+            "#wisepops-root",
+            ".widget_eu_cookie_law_widget",  # GDPR poup
         ]
         target_str = ",".join(target_list)
         javascript = (
