@@ -1,0 +1,104 @@
+name: "Archive: Pick a site"
+
+on:
+  workflow_dispatch:
+    inputs:
+      handle:
+        description: 'Site handle'
+        required: true
+        type: string
+
+jobs:
+  jpg:
+    name: JPG
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: screenshot
+        name: Screenshot
+        uses: ./.github/actions/screenshot
+        with:
+          source: ${{ inputs.handle }}
+
+  accessibility:
+    name: a11y
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: save-page
+        name: Save the accessibility tree
+        uses: ./.github/actions/accessibility
+        with:
+          source: ${{ inputs.handle }}
+
+  hyperlinks:
+    name: Hyperlinks
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: save-page
+        name: Save hyperlinks
+        uses: ./.github/actions/hyperlinks
+        with:
+          source: ${{ inputs.handle }}
+
+  wayback:
+    name: Wayback Machine
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: save-page
+        name: Save in Wayback Machine
+        uses: ./.github/actions/wayback
+        with:
+          source: ${{ inputs.handle }}
+          access-key: ${{ secrets.IA_ACCESS_KEY }}
+          secret-key: ${{ secrets.IA_SECRET_KEY }}
+
+  archive:
+    name: Post to archive.org
+    needs: [jpg,accessibility,hyperlinks,sources]
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: archive
+        name: Post
+        uses: ./.github/actions/archive
+        with:
+          source: ${{ inputs.handle }}
+          access-key: ${{ secrets.IA_ACCESS_KEY }}
+          secret-key: ${{ secrets.IA_SECRET_KEY }}
+          collection: ${{ secrets.IA_COLLECTION }}
+
+  commit:
+    name: Commit to GitHub
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [jpg]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
