@@ -1,5 +1,5 @@
 {
-  "created": 1657418944,
+  "created": 1657460673,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/25/items/kvoa-2022",
@@ -470,31 +470,63 @@
       "sha1": "f61b1c8886e5a44fd6849799943a42c83aab8c1f"
     },
     {
+      "name": "kvoa-2022-07-10T06:43:16.989601-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657460600",
+      "size": "61400",
+      "md5": "136b8d7332e8d8e1e2bcc6a0157f0f8f",
+      "crc32": "0c463062",
+      "sha1": "2d5ca0dbbb9afda6253ddefa0f2534101171f735",
+      "format": "JSON"
+    },
+    {
+      "name": "kvoa-2022-07-10T06:43:16.989601-07:00.jpg",
+      "source": "original",
+      "mtime": "1657460598",
+      "size": "278725",
+      "md5": "f846cdd826b55514adb58c719723a361",
+      "crc32": "c1e30ac5",
+      "sha1": "cdc5dd7e981450390b03134a089ce79b26e718bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvoa-2022-07-10T06:43:16.989601-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvoa-2022-07-10T06:43:16.989601-07:00.jpg",
+      "mtime": "1657460655",
+      "size": "10191",
+      "md5": "0654f176d9dae630ccc7331a4899e8e0",
+      "crc32": "0ca2607f",
+      "sha1": "d643214389ea9c7ec5f87f949c9439c110a62378"
+    },
+    {
       "name": "kvoa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "881ef1bafd7343b45903fe4e2607dc547aa325a8",
-      "mtime": "1657418939",
-      "size": "10467",
-      "md5": "f9cf8cac52024277cb3d9baaa748e8ce",
-      "crc32": "07f8e3ad",
-      "sha1": "2db36fd83d5b64f2869464858ff46af8fd7017c6",
+      "btih": "2fcfe25fd955e8c7d2182375298486ac1c685e30",
+      "mtime": "1657460660",
+      "size": "11091",
+      "md5": "8e5903b988b21c57c7d0318691a86494",
+      "crc32": "b4511f52",
+      "sha1": "c6899e8ce495db00309e587fb4ebbea290416d2f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvoa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb2e5f81f793e5c7302e4494dcf2149c",
+      "md5": "2f0b76842c3723900c0aa76648d26acb",
       "summation": "md5"
     },
     {
       "name": "kvoa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657418895",
+      "mtime": "1657460604",
       "size": "65536",
-      "md5": "64cf7a91a22828215638dbde4f299ca1",
-      "crc32": "d5258ee7",
-      "sha1": "f239af3efd2089ae43442fe0097e1e6b4610b690",
+      "md5": "764b00078ce5e7d5b646965c0d4b3a76",
+      "crc32": "904a887d",
+      "sha1": "d72bfc31b0b2084658b52f6122e6bddbc7883b71",
       "format": "Metadata"
     },
     {
@@ -508,9 +540,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 48,
-  "item_last_updated": 1657418939,
-  "item_size": 4559565,
+  "files_count": 51,
+  "item_last_updated": 1657460660,
+  "item_size": 4910505,
   "metadata": {
     "identifier": "kvoa-2022",
     "collection": [
@@ -527,10 +559,10 @@
     "publicdate": "2022-07-04 21:55:29",
     "addeddate": "2022-07-04 21:55:29"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 792261976,
+  "server": "ia601505.us.archive.org",
+  "uniq": 913365117,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1657455114,
+  "created": 1657470937,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/31/items/harpers-2022",
@@ -1924,31 +1924,73 @@
       "sha1": "6e6ca347df8bfed3ece4d3c5f72442f9b7071418"
     },
     {
+      "name": "harpers-2022-07-10T08:43:49.462883-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657457033",
+      "size": "64",
+      "md5": "7ecae99616d4d650954f4199e487a165",
+      "crc32": "8ba0f891",
+      "sha1": "e37f0c3aa8a3683c0eca8b3652bb286e169a298d",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-07-10T08:43:49.462883-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657457034",
+      "size": "128956",
+      "md5": "73552c3d60275f0c453867ec87dce8b6",
+      "crc32": "1ef05d7f",
+      "sha1": "f60d6a1ccef23602ce5831122761873e5fd4f00a",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-07-10T08:43:49.462883-04:00.jpg",
+      "source": "original",
+      "mtime": "1657457030",
+      "size": "276803",
+      "md5": "6c307858e28b4aa480fdc5c969d4d945",
+      "crc32": "0692d4e6",
+      "sha1": "1b4bfe2f68d08e7e4a8c3a3a6447f7747de41631",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "harpers-2022-07-10T08:43:49.462883-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "harpers-2022-07-10T08:43:49.462883-04:00.jpg",
+      "mtime": "1657457081",
+      "size": "9213",
+      "md5": "c2833595fe9383b84077a1c2f7ec9d0e",
+      "crc32": "3ed5627a",
+      "sha1": "6e6ca347df8bfed3ece4d3c5f72442f9b7071418"
+    },
+    {
       "name": "harpers-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b56b3e87e97e13ca5be2d683ac1e8d406d0867af",
-      "mtime": "1657414659",
-      "size": "39827",
-      "md5": "87c111379f7fbf29de70dc623e8365dc",
-      "crc32": "9e89bb70",
-      "sha1": "e13c2a6e8e61ee87feb4d47c1af97c439e22d5ac",
+      "btih": "0f015da03e762bb84820105d19ccd928ed5feba7",
+      "mtime": "1657457085",
+      "size": "40670",
+      "md5": "74dcb03dff23c4d89f8441f3de0806b8",
+      "crc32": "602bf240",
+      "sha1": "81109b4df1c59227633f088f99ddec2508100491",
       "format": "Archive BitTorrent"
     },
     {
       "name": "harpers-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "da28661c3f47c07e2b99bf58e1165091",
+      "md5": "3e33c60cf504ac272da14ad8bc9fd896",
       "summation": "md5"
     },
     {
       "name": "harpers-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657414609",
-      "size": "233472",
-      "md5": "fe05f58123e5b4210a1cba28e8c6d2a4",
-      "crc32": "43e3e45a",
-      "sha1": "2ee163e692a1656b37b1d84d4553ab329802044b",
+      "mtime": "1657457039",
+      "size": "237568",
+      "md5": "9802a71ad4240ba556f65818eddac0ff",
+      "crc32": "e6b1165c",
+      "sha1": "0ba2e44b84c3a00694755eddf5f7e298be5cd87a",
       "format": "Metadata"
     },
     {
@@ -1962,7 +2004,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 187,
+  "files_count": 191,
   "harpers-2022": [
     {
       "text": "Sign in",
@@ -4117,10 +4159,6 @@
       "url": "https://open.spotify.com/show/4h9SICTDppd1iJv9n5jXfc"
     },
     {
-      "text": "",
-      "url": "https://litbreaker.nui.media/pipeline/517964/0/cj/V12EEBE211CJ-573J8100L5093461146E0890L684620L684571QL514839QQP0G00G0Q1B4390B6000001010000G0PG30H36W80a0ed3e42DW410402DW445482DW49a002DX12d62bc7db7055G0G01D/"
-    },
-    {
       "text": "\n                \n            ",
       "url": "https://harpers.org/archive/2022/07/when-the-monsoon-winds-turned-abdulrazak-gurnah/"
     },
@@ -4741,8 +4779,8 @@
       "url": "https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=PRS&cds_page_id=165625&cds_response_key=J2104PUN"
     }
   ],
-  "item_last_updated": 1657414659,
-  "item_size": 18821918,
+  "item_last_updated": 1657457085,
+  "item_size": 19241893,
   "metadata": {
     "identifier": "harpers-2022",
     "collection": [
@@ -4760,7 +4798,7 @@
     "addeddate": "2022-06-24 22:56:16"
   },
   "server": "ia601502.us.archive.org",
-  "uniq": 992570864,
+  "uniq": 884629214,
   "workable_servers": [
     "ia601502.us.archive.org",
     "ia801502.us.archive.org"

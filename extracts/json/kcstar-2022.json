@@ -1,5 +1,5 @@
 {
-  "created": 1657436141,
+  "created": 1657470970,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/19/items/kcstar-2022",
@@ -520,31 +520,63 @@
       "sha1": "efe14b61881906afb60812875a97f36d184ecd0a"
     },
     {
+      "name": "kcstar-2022-07-10T08:42:56.622417-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657460581",
+      "size": "459",
+      "md5": "aeb2de59e29601ff20dd82a24d6fe5ea",
+      "crc32": "217aa938",
+      "sha1": "507d245f51385932efa9d37be621ad79be6a558a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcstar-2022-07-10T08:42:56.622417-05:00.jpg",
+      "source": "original",
+      "mtime": "1657460578",
+      "size": "243551",
+      "md5": "07de1af6190c328144531bab7c93e782",
+      "crc32": "f987754a",
+      "sha1": "7ab7ec2ec27122bb403089ed7513372408109870",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcstar-2022-07-10T08:42:56.622417-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcstar-2022-07-10T08:42:56.622417-05:00.jpg",
+      "mtime": "1657460633",
+      "size": "9115",
+      "md5": "8d892f63fbdb9a171dfafdc7a1fdb862",
+      "crc32": "42c8c677",
+      "sha1": "14a58004fbb3730c21e045fe5664ef8428e650a4"
+    },
+    {
       "name": "kcstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b44c5f80075bb48e3d9fbf41f85bca904c11fb36",
-      "mtime": "1657418875",
-      "size": "11466",
-      "md5": "93a5a91c319b8f1572af2c90e2721203",
-      "crc32": "4cf78fe0",
-      "sha1": "9578b93f1afa65f40ced0648b082661945059fae",
+      "btih": "f6eca341a6556c439a60b246a9ab8d2529a6ee7d",
+      "mtime": "1657460641",
+      "size": "12076",
+      "md5": "e3951038418cf533146f64c28d155762",
+      "crc32": "00d16537",
+      "sha1": "33d6fcde46c047076e7ccd0c607db92d2e4ea407",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b6372f68d2d978b807974c50c95f1c17",
+      "md5": "f8b42cd853d5a0a41180474270c32535",
       "summation": "md5"
     },
     {
       "name": "kcstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657418831",
-      "size": "69632",
-      "md5": "9abe1039da5e6aba02aed566f95f26e4",
-      "crc32": "225e6b2f",
-      "sha1": "18fb83c0845f27a8589f504c0a47dbf7396a40fd",
+      "mtime": "1657460584",
+      "size": "73728",
+      "md5": "5cfe62043051f0f7ecfb0527cf165c2e",
+      "crc32": "36943d9d",
+      "sha1": "05bf72b62d964cac996bebec416c26688bc60426",
       "format": "Metadata"
     },
     {
@@ -558,9 +590,28 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 53,
-  "item_last_updated": 1657418875,
-  "item_size": 2176533,
+  "files_count": 56,
+  "item_last_updated": 1657460641,
+  "item_size": 2434364,
+  "kcstar-2022": {
+    "role": "WebArea",
+    "name": "Access Denied",
+    "children": [
+      {
+        "role": "heading",
+        "name": "Access Denied",
+        "level": 1
+      },
+      {
+        "role": "text",
+        "name": "You don't have permission to access \"http://www.kansascity.com/\" on this server."
+      },
+      {
+        "role": "text",
+        "name": "Reference #18.ca3a2217.1657458727.3a033659"
+      }
+    ]
+  },
   "metadata": {
     "identifier": "kcstar-2022",
     "collection": [
@@ -578,7 +629,7 @@
     "addeddate": "2022-07-04 21:55:21"
   },
   "server": "ia802504.us.archive.org",
-  "uniq": 1581132936,
+  "uniq": 1713225913,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

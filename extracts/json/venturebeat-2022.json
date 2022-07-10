@@ -1,5 +1,5 @@
 {
-  "created": 1657455606,
+  "created": 1657471298,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/6/items/venturebeat-2022",
@@ -772,31 +772,73 @@
       "sha1": "b8c277f99b97a348b3fb3c97fb65d1f596404607"
     },
     {
+      "name": "venturebeat-2022-07-10T07:48:09.869920-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464493",
+      "size": "33441",
+      "md5": "19585c50ec0b1ce978957fea637881da",
+      "crc32": "28b1d6d6",
+      "sha1": "81c9fa0795c1365ca7c3b991d6afe80f1427b49e",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-10T07:48:09.869920-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464494",
+      "size": "43509",
+      "md5": "3e17737d65dce66eec9f2d4e4bd095b4",
+      "crc32": "3cd6670b",
+      "sha1": "b410a27a95f1ccf6db2f0f0ef0aa55939e1aee92",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-10T07:48:09.869920-07:00.jpg",
+      "source": "original",
+      "mtime": "1657464491",
+      "size": "217174",
+      "md5": "3dc8fa9999814107c0ec25444f9aa717",
+      "crc32": "ef29ff53",
+      "sha1": "28ceb64e2fb7374546faa7794d3d439150a178ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-07-10T07:48:09.869920-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-07-10T07:48:09.869920-07:00.jpg",
+      "mtime": "1657464538",
+      "size": "9505",
+      "md5": "b99ba746d4218ef53255b59a9e3aa5c5",
+      "crc32": "0b824d65",
+      "sha1": "c7df11677c3a9b200e46d8d15aeb3e9daf929260"
+    },
+    {
       "name": "venturebeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "05d6cf26e635de0d0dacebb3b55226cd375f7efb",
-      "mtime": "1657423616",
-      "size": "16990",
-      "md5": "10371850594e5ccca16df8717eb74e8f",
-      "crc32": "36933ea8",
-      "sha1": "bde76812faa2cce3c52cde974a4eb83ff77df728",
+      "btih": "24c7b236d159381823d2ef6284c1d55d2a1f2abd",
+      "mtime": "1657464541",
+      "size": "17831",
+      "md5": "834748ae5f9957a83f50abe1d29bd1ea",
+      "crc32": "6cb5082b",
+      "sha1": "fc6aa3ade633356a0de3a4ed6366f115438d7a5c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "venturebeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0674e181ebc4c576bc029dbee6882dbf",
+      "md5": "f217296887b6dda5720141ed13f4f9e2",
       "summation": "md5"
     },
     {
       "name": "venturebeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423570",
-      "size": "102400",
-      "md5": "0a8c07d052bd63894ddb900f756b3514",
-      "crc32": "e19c4c14",
-      "sha1": "25483369278ba4d578ca49321df844b120160314",
+      "mtime": "1657464498",
+      "size": "106496",
+      "md5": "3b6a1648e5d867532c6e4bcc52f1f380",
+      "crc32": "60f29d00",
+      "sha1": "686c3ff59b5331c85923f0f7e3754c2228abb3b0",
       "format": "Metadata"
     },
     {
@@ -810,9 +852,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 77,
-  "item_last_updated": 1657423616,
-  "item_size": 5439712,
+  "files_count": 81,
+  "item_last_updated": 1657464541,
+  "item_size": 5748278,
   "metadata": {
     "identifier": "venturebeat-2022",
     "collection": [
@@ -830,7 +872,7 @@
     "addeddate": "2022-07-04 20:17:37"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 1692408749,
+  "uniq": 517804433,
   "venturebeat-2022": [
     {
       "text": "Skip to main content",
@@ -1101,8 +1143,8 @@
       "url": "https://events.venturebeat.com/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tWhy hyperscale, modular data centers improve efficiency\n\t\t",
-      "url": "https://venturebeat.com/2022/07/07/why-hyperscale-modular-data-centers-improve-efficiency/"
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tWhat are dual-use data centers and how they drive energy efficiency\n\t\t",
+      "url": "https://venturebeat.com/2022/07/07/what-are-dual-use-data-centers-and-how-they-drive-energy-efficiency/"
     },
     {
       "text": "\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMaking sense of data with low-code environments\n\t\t\t",
@@ -1390,30 +1432,6 @@
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/07/how-efficient-code-increases-sustainability-in-the-enterprise/"
-    },
-    {
-      "text": "How efficient code increases sustainability in the enterprise",
-      "url": "https://venturebeat.com/2022/07/07/how-efficient-code-increases-sustainability-in-the-enterprise/"
-    },
-    {
-      "text": "George Anadiotis",
-      "url": "https://venturebeat.com/author/george-anadiotis/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/07/what-is-the-environmental-impact-of-web3/"
-    },
-    {
-      "text": "What is the environmental impact of Web3?",
-      "url": "https://venturebeat.com/2022/07/07/what-is-the-environmental-impact-of-web3/"
-    },
-    {
-      "text": "Chris J. Preimesberger",
-      "url": "https://venturebeat.com/author/chris-j-preimesberger/"
-    },
-    {
-      "text": "\n\t\t\t",
       "url": "https://venturebeat.com/2022/07/07/19-ways-digital-twins-improve-data-center-sustainability/"
     },
     {
@@ -1483,6 +1501,30 @@
     {
       "text": "Ram Peddibhotla, AMD",
       "url": "https://venturebeat.com/author/ram-peddibhotla-amd/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/07/how-efficient-code-increases-sustainability-in-the-enterprise/"
+    },
+    {
+      "text": "How efficient code increases sustainability in the enterprise",
+      "url": "https://venturebeat.com/2022/07/07/how-efficient-code-increases-sustainability-in-the-enterprise/"
+    },
+    {
+      "text": "George Anadiotis",
+      "url": "https://venturebeat.com/author/george-anadiotis/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/07/what-is-the-environmental-impact-of-web3/"
+    },
+    {
+      "text": "What is the environmental impact of Web3?",
+      "url": "https://venturebeat.com/2022/07/07/what-is-the-environmental-impact-of-web3/"
+    },
+    {
+      "text": "Chris J. Preimesberger",
+      "url": "https://venturebeat.com/author/chris-j-preimesberger/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t",

@@ -1,5 +1,5 @@
 {
-  "created": 1657455426,
+  "created": 1657471172,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/31/items/propublica-2022",
@@ -3374,31 +3374,73 @@
       "sha1": "8dae30dff4a3f942cccb05d0280fc2d0ed113e71"
     },
     {
+      "name": "propublica-2022-07-10T10:42:58.248947-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464181",
+      "size": "49021",
+      "md5": "6822fe8728ae3b584493a3142cd9825d",
+      "crc32": "4b2def79",
+      "sha1": "9702e6c0b933bbd863cb1cea839cbb96fffba674",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-07-10T10:42:58.248947-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464183",
+      "size": "20443",
+      "md5": "9ab577eac081fb707a351f760c5df2cf",
+      "crc32": "84265953",
+      "sha1": "207e52960adcf5e9273df52c577f7b9315a7dccd",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-07-10T10:42:58.248947-04:00.jpg",
+      "source": "original",
+      "mtime": "1657464180",
+      "size": "300269",
+      "md5": "d0a03475270185123df4ca4a2e2bc892",
+      "crc32": "a1ac040c",
+      "sha1": "5611e42811dc1e4ebead41a1310462b52e45b0c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "propublica-2022-07-10T10:42:58.248947-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "propublica-2022-07-10T10:42:58.248947-04:00.jpg",
+      "mtime": "1657464234",
+      "size": "9668",
+      "md5": "6ff133f46917598f7c5fd616dc9a0e0b",
+      "crc32": "5d8dde4a",
+      "sha1": "3d6fef4d5be3817fb86ebb7dc9a9d429321a050d"
+    },
+    {
       "name": "propublica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "887cedb93264a2f5a46331efffab662d702cc233",
-      "mtime": "1657423421",
-      "size": "69842",
-      "md5": "b8f1c9456d6c457b7cdb4f191173bd5e",
-      "crc32": "b12d91eb",
-      "sha1": "5c6083d28f2d4ae079b0baf16d7745693f3f729e",
+      "btih": "a91b4b0b3efa1d81dcc1b818ac1258cd0c29f72f",
+      "mtime": "1657464240",
+      "size": "70699",
+      "md5": "ff95c011856ab9e3add3ebc27d639110",
+      "crc32": "0e258fb1",
+      "sha1": "ec37cb8dc1c6b268d445d3dc0701cf744eb6386a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "propublica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "908eb125ef153ae7ef6144969821789b",
+      "md5": "e10ba625fe02389e982d892871f6eeb8",
       "summation": "md5"
     },
     {
       "name": "propublica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423316",
-      "size": "389120",
-      "md5": "aef1bbc36fe3ecb34ec04e9b64fa0352",
-      "crc32": "93ffae2b",
-      "sha1": "2eff2ec8bd3f146dbe0e59b675c6b264f012ec77",
+      "mtime": "1657464187",
+      "size": "393216",
+      "md5": "8b411fc40e9a8c2a0abf8765bdad5d44",
+      "crc32": "7741fb89",
+      "sha1": "dc70c300ee146e8ee2b667848395eb7a3a8d5071",
       "format": "Metadata"
     },
     {
@@ -3412,9 +3454,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 325,
-  "item_last_updated": 1657423421,
-  "item_size": 31175528,
+  "files_count": 329,
+  "item_last_updated": 1657464240,
+  "item_size": 31559882,
   "metadata": {
     "identifier": "propublica-2022",
     "collection": [
@@ -3881,40 +3923,40 @@
       "url": "https://www.propublica.org/article/chime"
     },
     {
+      "text": "Child Porn Possession Investigation Into South Dakota Billionaire Closed With No Charges",
+      "url": "https://www.propublica.org/article/denny-sanford-child-porn-no-charges"
+    },
+    {
+      "text": "White Parents Rallied to Chase a Black Educator Out of Town. Then, They Followed Her to the Next One.",
+      "url": "https://www.propublica.org/article/georgia-dei-crt-schools-parents"
+    },
+    {
+      "text": "\u201cIf Everybody\u2019s White, There Can\u2019t Be Any Racial Bias\u201d: The Disappearance of Hispanic Drivers From Traffic Records",
+      "url": "https://www.propublica.org/article/if-everybodys-white-there-cant-be-any-racial-bias-the-disappearance-of-hispanic-drivers-from-traffic-records"
+    },
+    {
       "text": "Ken Griffin Spent $54 Million Fighting a Tax Increase for the Rich. Secret IRS Data Shows It Paid Off for Him.",
       "url": "https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax"
     },
     {
-      "text": "How Foreign Private Equity Hooked New England\u2019s Fishing Industry",
-      "url": "https://www.propublica.org/article/fishing-new-bedford-private-equity"
+      "text": "Ken Griffin Spent $54 Million Fighting a Tax Increase for the Rich. Secret IRS Data Shows It Paid Off for Him.",
+      "url": "https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax"
+    },
+    {
+      "text": "The City Where Investigations of Police Take So Long, Officers Kill Again Before Reviews Are Done",
+      "url": "https://www.propublica.org/article/vallejo-police-killing-investigations"
+    },
+    {
+      "text": "A Banking App Has Been Suddenly Closing Accounts, Sometimes Not Returning Customers\u2019 Money",
+      "url": "https://www.propublica.org/article/chime"
     },
     {
       "text": "Child Porn Possession Investigation Into South Dakota Billionaire Closed With No Charges",
       "url": "https://www.propublica.org/article/denny-sanford-child-porn-no-charges"
     },
     {
-      "text": "The City Where Investigations of Police Take So Long, Officers Kill Again Before Reviews Are Done",
-      "url": "https://www.propublica.org/article/vallejo-police-killing-investigations"
-    },
-    {
-      "text": "Ken Griffin Spent $54 Million Fighting a Tax Increase for the Rich. Secret IRS Data Shows It Paid Off for Him.",
-      "url": "https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax"
-    },
-    {
-      "text": "The City Where Investigations of Police Take So Long, Officers Kill Again Before Reviews Are Done",
-      "url": "https://www.propublica.org/article/vallejo-police-killing-investigations"
-    },
-    {
-      "text": "We\u2019re Losing Our Humanity, and the Pandemic Is to Blame",
-      "url": "https://www.propublica.org/article/were-losing-our-humanity-and-the-pandemic-is-to-blame"
-    },
-    {
-      "text": "How Foreign Private Equity Hooked New England\u2019s Fishing Industry",
-      "url": "https://www.propublica.org/article/fishing-new-bedford-private-equity"
-    },
-    {
-      "text": "In Debate Over Chicago\u2019s Speed Cameras, Concerns Over Safety, Racial Disparities Collide",
-      "url": "https://www.propublica.org/article/chicago-speed-cameras-safety-racial-disparities"
+      "text": "The Hidden Fees Making Your Bananas, and Everything Else, Cost More",
+      "url": "https://www.propublica.org/article/ocean-freight-shipping-costs-inflation"
     },
     {
       "text": "\n                    \n    ProPublica\n    \n\n                ",
@@ -4069,10 +4111,10 @@
       "url": "/support/other-ways-to-give/"
     }
   ],
-  "server": "ia801504.us.archive.org",
-  "uniq": 1455682030,
+  "server": "ia601504.us.archive.org",
+  "uniq": 969167812,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }
