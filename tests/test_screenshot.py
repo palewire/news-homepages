@@ -10,5 +10,5 @@ TEMP_DIR = tempfile.gettempdir()
 def test_single():
     """Test a single screenshot."""
     runner = CliRunner()
-    result = runner.invoke(screenshot.cli, ["shoot", "latimes", "-o", TEMP_DIR])
+    result = runner.invoke(screenshot.cli, ["latimes", "-o", TEMP_DIR])
     assert result.exit_code == 0

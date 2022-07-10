@@ -3,8 +3,11 @@ from newshomepages import utils
 
 def test_sites():
     """Test sites utils."""
-    assert len(utils.get_site_list()) > 0
+    site_list = utils.get_site_list()
+    assert len(site_list) > 0
     assert utils.get_site("latimes")["name"] == "Los Angeles Times"
+    unique_handles = {i["handle"].lower() for i in site_list}
+    assert len(site_list) == len(unique_handles)
 
 
 def test_bundles():
