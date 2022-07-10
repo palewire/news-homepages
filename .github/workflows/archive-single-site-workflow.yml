@@ -73,7 +73,7 @@ jobs:
 
   archive:
     name: Post to archive.org
-    needs: [jpg,accessibility,hyperlinks,sources]
+    needs: [jpg,accessibility,hyperlinks]
     runs-on: ubuntu-latest
     steps:
       - id: checkout
