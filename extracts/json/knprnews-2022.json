@@ -1,5 +1,5 @@
 {
-  "created": 1657412599,
+  "created": 1657455174,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/9/items/knprnews-2022",
@@ -100,31 +100,73 @@
       "sha1": "0da1459c6de8f6085fb286f1d4a3f71f173c6601"
     },
     {
+      "name": "knprnews-2022-07-09T21:05:23.382965-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657425926",
+      "size": "17899",
+      "md5": "0202d2d1933ab92fa7b5f3cad732b0a3",
+      "crc32": "dfe5a23a",
+      "sha1": "be3ad8bbb61380d7b633ad93b7f1b07238fa33d9",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-07-09T21:05:23.382965-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657425928",
+      "size": "12897",
+      "md5": "aa345d541edc52ecf1704bcee7281ab5",
+      "crc32": "a22fabe9",
+      "sha1": "09a25652dd6b512960ca310d4b7a152327e3f89d",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-07-09T21:05:23.382965-07:00.jpg",
+      "source": "original",
+      "mtime": "1657425924",
+      "size": "232853",
+      "md5": "b55be3bb7c0cd4959cd9ff52c93c3e40",
+      "crc32": "07e3b67e",
+      "sha1": "7b14379806f43e111820a5cc995781c416a7c758",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knprnews-2022-07-09T21:05:23.382965-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knprnews-2022-07-09T21:05:23.382965-07:00.jpg",
+      "mtime": "1657425995",
+      "size": "8999",
+      "md5": "1ad4a2b253085441f73f05f29755c02e",
+      "crc32": "ec438650",
+      "sha1": "3a1b1221efe884dd3d4b86b6e866aba06f665e22"
+    },
+    {
       "name": "knprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "27095dadf2fd4d3006be6eec79ea13b5756a0ce6",
-      "mtime": "1657381381",
-      "size": "3301",
-      "md5": "08c7007303c96dc5afee8c21f84ac424",
-      "crc32": "fd4d41b5",
-      "sha1": "36e7c116b62a60e8f1a977809b8af89a3a3f1639",
+      "btih": "0c6aa634a85f1d743f5273af302af07be46c5b69",
+      "mtime": "1657425999",
+      "size": "4130",
+      "md5": "c5a55de4e37589db0670da03f9fe6290",
+      "crc32": "79e618c8",
+      "sha1": "47dd03590849160f3c71c1d4602b90b17ce0c6d3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ed445f43db49acbfbe5bb2b16ae918e",
+      "md5": "83fbd7bc03b4ef9c7010453161e77c86",
       "summation": "md5"
     },
     {
       "name": "knprnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657381338",
-      "size": "28672",
-      "md5": "88fc0434bfb399c0f03ba22128b11bae",
-      "crc32": "30d4ad80",
-      "sha1": "f3dfb80ed871d97888ab3c52229a6064b013cb21",
+      "mtime": "1657425945",
+      "size": "32768",
+      "md5": "a2d4779b7300182a6a96ffc94a918bb0",
+      "crc32": "81adea32",
+      "sha1": "d446f5ad144b132b59b3639c256d846d1bc75ad9",
       "format": "Metadata"
     },
     {
@@ -138,9 +180,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 13,
-  "item_last_updated": 1657381381,
-  "item_size": 571288,
+  "files_count": 17,
+  "item_last_updated": 1657425999,
+  "item_size": 848861,
   "knprnews-2022": [
     {
       "text": "News 88.9 KNPR",
@@ -496,7 +538,7 @@
     },
     {
       "text": "\n        Download\n      ",
-      "url": "https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/nevada_yesterdays_railroad_strike_070920222.mp3.mp3?response-content-disposition=attachment%3B%20filename%3D%22nevada_yesterdays_railroad_strike_070920222.mp3.mp3%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3HX3D3NMQLZN2QNC%2F20220709%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220709T141102Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=518400&X-Amz-Signature=97e394d00dacac18671feca2a82ab92a98294f0320842a196ba0222dd8c113d5"
+      "url": "https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/nevada_yesterdays_railroad_strike_070920222.mp3.mp3?response-content-disposition=attachment%3B%20filename%3D%22nevada_yesterdays_railroad_strike_070920222.mp3.mp3%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3HX3D3NMQLZN2QNC%2F20220710%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220710T030933Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=518400&X-Amz-Signature=e3822e8f50f8e7ab15ef16cddd65923aab2e8732323789aa7c3f3e8ef7d74700"
     },
     {
       "text": "Tweet",
@@ -512,71 +554,59 @@
     },
     {
       "text": "",
-      "url": "/desert-companion/2022-07/nevada-public-radio-says-farewell-andrew-kiraly"
+      "url": "/npr/2022-07/photos-abortion-rights-activists-protest-outside-white-house"
     },
     {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Nevada Public Radio says farewell to Andrew Kiraly",
-      "url": "/desert-companion/2022-07/nevada-public-radio-says-farewell-andrew-kiraly"
+      "text": "Photos: Abortion rights activists protest outside the White House",
+      "url": "/npr/2022-07/photos-abortion-rights-activists-protest-outside-white-house"
     },
     {
       "text": "",
-      "url": "/knpr/2022-07/we-know-nevada-will-continue-grow-how-can-it-be-built-sustainably"
+      "url": "/npr/2022-07/no-one-wnba-or-nba-has-many-3-point-contest-titles-allie-quigley"
     },
     {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "We know Nevada will continue to grow, but how can it be built sustainably?",
-      "url": "/knpr/2022-07/we-know-nevada-will-continue-grow-how-can-it-be-built-sustainably"
-    },
-    {
-      "text": "\n        Listen\n      ",
-      "url": "javascript:window.knprPlay('https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/buildings_eco_web.mp3', 'Can Nevada cities be designed to combat climate change\\'s rising temps?', 'can-nevada-cities-be-designed-to-combat-climate-changes-rising-temps')"
-    },
-    {
-      "text": "\n        Download\n      ",
-      "url": "https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/buildings_eco_web.mp3?response-content-disposition=attachment%3B%20filename%3D%22buildings_eco_web.mp3%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3HX3D3NMQLZN2QNC%2F20220709%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220709T141103Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=518400&X-Amz-Signature=b853dffa6d9813a0d2804f1a8138be0516694be12ad48d229597cab80448df50"
+      "text": "No one in the WNBA or NBA has as many 3-Point Contest titles as Allie Quigley",
+      "url": "/npr/2022-07/no-one-wnba-or-nba-has-many-3-point-contest-titles-allie-quigley"
     },
     {
       "text": "",
-      "url": "/knpr/2022-06/5th-probable-monkeypox-case-reported-clark-county"
+      "url": "/npr/2022-07/angolas-jos-eduardo-dos-santos-once-one-africas-longest-serving-rulers-dies"
     },
     {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
+      "text": "Angola's Jos\u00e9 Eduardo dos Santos, once one of Africa's longest-serving rulers, dies",
+      "url": "/npr/2022-07/angolas-jos-eduardo-dos-santos-once-one-africas-longest-serving-rulers-dies"
     },
     {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
+      "text": "",
+      "url": "/npr/2022-07/luis-echeverria-mexican-leader-who-was-blamed-massacres-dies-age-100"
     },
     {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
+      "text": "Luis Echeverria, a Mexican leader who was blamed for massacres, dies at age 100",
+      "url": "/npr/2022-07/luis-echeverria-mexican-leader-who-was-blamed-massacres-dies-age-100"
     },
     {
-      "text": "5th probable monkeypox case reported in Clark County",
-      "url": "/knpr/2022-06/5th-probable-monkeypox-case-reported-clark-county"
+      "text": "",
+      "url": "/npr/2022-07/victim-highland-park-parade-attack-remembered-his-kindness"
+    },
+    {
+      "text": "A victim of the Highland Park parade attack is remembered for his kindness",
+      "url": "/npr/2022-07/victim-highland-park-parade-attack-remembered-his-kindness"
+    },
+    {
+      "text": "",
+      "url": "/npr/2022-07/kazakhstans-elena-rybakina-wins-her-first-grand-slam-title-wimbledon"
+    },
+    {
+      "text": "Kazakhstan's Elena Rybakina wins her first Grand Slam title at Wimbledon",
+      "url": "/npr/2022-07/kazakhstans-elena-rybakina-wins-her-first-grand-slam-title-wimbledon"
+    },
+    {
+      "text": "",
+      "url": "/npr/2022-07/larry-storch-tvs-f-troop-dies-99"
+    },
+    {
+      "text": "Larry Storch of TV's 'F Troop' dies at 99",
+      "url": "/npr/2022-07/larry-storch-tvs-f-troop-dies-99"
     },
     {
       "text": "",
@@ -585,46 +615,6 @@
     {
       "text": "U.S. tells China that its support for Russia in Ukraine complicates relations",
       "url": "/npr/2022-07/us-tells-china-its-support-russia-ukraine-complicates-relations"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/sopranos-actor-tony-sirico-dies-79"
-    },
-    {
-      "text": "'Sopranos' actor Tony Sirico dies at 79",
-      "url": "/npr/2022-07/sopranos-actor-tony-sirico-dies-79"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/photos-south-africas-train-hope-godsend-millions-new-threats-loom"
-    },
-    {
-      "text": "PHOTOS: South Africa's 'train of hope' is a godsend for millions. But new threats loom",
-      "url": "/npr/2022-07/photos-south-africas-train-hope-godsend-millions-new-threats-loom"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/gun-violence-rises-canada-weapons-us-complicate-gun-control-efforts"
-    },
-    {
-      "text": "As gun violence rises in Canada, weapons from the U.S. complicate gun control efforts",
-      "url": "/npr/2022-07/gun-violence-rises-canada-weapons-us-complicate-gun-control-efforts"
-    },
-    {
-      "text": "\n        Listen\n      ",
-      "url": "javascript:window.knprPlay('https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/06/20220613_atc_canada_guns.mp3', 'Listen to the Story', 'listen-to-the-story')"
-    },
-    {
-      "text": "\n        Download\n      ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/06/20220613_atc_canada_guns.mp3?orgId=1&topicId=1004&d=235&story=1108967278&ft=nprml&f=1001"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/why-i-love-quiet-action-sequences-movies"
-    },
-    {
-      "text": "Why I love quiet action sequences in movies",
-      "url": "/npr/2022-07/why-i-love-quiet-action-sequences-movies"
     },
     {
       "text": "ALL LOCAL STORIES >>",
@@ -655,16 +645,16 @@
       "url": "/npr/2022-07/when-minnesota-woman-took-dna-test-her-results-came-back-surprise"
     },
     {
-      "text": "Nevada Public Radio says farewell to Andrew Kiraly",
-      "url": "/desert-companion/2022-07/nevada-public-radio-says-farewell-andrew-kiraly"
-    },
-    {
       "text": "A California woman finds an Olympic gold medal inside a fast-food bag",
       "url": "/npr/2022-07/california-woman-finds-olympic-gold-medal-inside-fast-food-bag"
     },
     {
-      "text": "Examining the legal strategy of WNBA star Brittney Griner who's on trial in Russia",
-      "url": "/npr/2022-07/examining-legal-strategy-wnba-star-brittney-griner-whos-trial-russia"
+      "text": "She was already battling cancer. Then she had to fight the bill collectors",
+      "url": "/npr/2022-07/she-was-already-battling-cancer-then-she-had-fight-bill-collectors"
+    },
+    {
+      "text": "Nevada Public Radio says farewell to Andrew Kiraly",
+      "url": "/desert-companion/2022-07/nevada-public-radio-says-farewell-andrew-kiraly"
     },
     {
       "text": "News Schedule",
@@ -756,7 +746,7 @@
     "addeddate": "2022-07-09 03:59:32"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 1037859389,
+  "uniq": 1518277669,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1657412844,
+  "created": 1657455429,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/publicintegrity-2022",
@@ -3290,31 +3290,73 @@
       "sha1": "31b7fa6ca5d319d4439e1b1c3ac2a8e4f633205d"
     },
     {
+      "name": "publicintegrity-2022-07-09T23:22:47.354384-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657423372",
+      "size": "20783",
+      "md5": "04d76f068f34b4f8ed6ed27883651d1f",
+      "crc32": "6872e275",
+      "sha1": "50ba449ff0fa3e8a9609b99696c41a799e830822",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-07-09T23:22:47.354384-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657423375",
+      "size": "25005",
+      "md5": "bddc914425730698c47739e928cce0b9",
+      "crc32": "68c2964e",
+      "sha1": "c90e786383fb26d9ea40dd4064eda0194a534da2",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-07-09T23:22:47.354384-04:00.jpg",
+      "source": "original",
+      "mtime": "1657423370",
+      "size": "326160",
+      "md5": "ee273ec8f2da7d775c907887c0f64276",
+      "crc32": "37957f74",
+      "sha1": "9a112e9c35e1c39835b6cec80df53f257729148e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicintegrity-2022-07-09T23:22:47.354384-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicintegrity-2022-07-09T23:22:47.354384-04:00.jpg",
+      "mtime": "1657423427",
+      "size": "10367",
+      "md5": "9b9ee281476a8ca8ef586c760bb157fd",
+      "crc32": "036e2cc4",
+      "sha1": "d5af31d3fb5cff28f3edb14f939869abe33dba29"
+    },
+    {
       "name": "publicintegrity-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5e8ce0bdd122d1a15937f87c8402aaac974a0f4",
-      "mtime": "1657377914",
-      "size": "69636",
-      "md5": "d2a9a7d4923e567235c52f85b531c2ef",
-      "crc32": "2171eb3f",
-      "sha1": "008a6917de8d109e837020de968549af13a7fb00",
+      "btih": "9e5d18433a8f45f17cb9afc0c6d69e331477ca2a",
+      "mtime": "1657423432",
+      "size": "70514",
+      "md5": "980a93c8a20ed3240cab8c1305806c9e",
+      "crc32": "ae1a288c",
+      "sha1": "64658faaeec93cfffd0651e4212a723795024cda",
       "format": "Archive BitTorrent"
     },
     {
       "name": "publicintegrity-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cadbf5d1140d321562fed12d85ad7b4f",
+      "md5": "473f64b741bc6cf248e5d1773dec4c2a",
       "summation": "md5"
     },
     {
       "name": "publicintegrity-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657377835",
-      "size": "385024",
-      "md5": "3687a490e0b42116c7acff7d0a5e3e78",
-      "crc32": "5b8dc0d4",
-      "sha1": "1a20cbc0373ef9e73a9d97fec7d876ef55659be3",
+      "mtime": "1657423381",
+      "size": "389120",
+      "md5": "ffc81e4bc62bc8d8b9c05cdd97611af1",
+      "crc32": "ef3c56b9",
+      "sha1": "79300fbd1db3b2e4e75618743c82922468343056",
       "format": "Metadata"
     },
     {
@@ -3328,9 +3370,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 317,
-  "item_last_updated": 1657377914,
-  "item_size": 27785490,
+  "files_count": 321,
+  "item_last_updated": 1657423432,
+  "item_size": 28172779,
   "metadata": {
     "identifier": "publicintegrity-2022",
     "collection": [
@@ -3941,8 +3983,8 @@
       "url": "https://publicintegrity.org/inside-publici/newsletters/watchdog-newsletter/data-behind-cheated-at-work-available/"
     },
     {
-      "text": "Resources for guest workers",
-      "url": "https://publicintegrity.org/inequality-poverty-opportunity/workers-rights/cheated-at-work/resources-for-guest-workers/"
+      "text": "By the numbers: Wage theft investigations, violations",
+      "url": "https://publicintegrity.org/inequality-poverty-opportunity/workers-rights/cheated-at-work/wage-theft-investigations-violations/"
     },
     {
       "text": "LIVE EVENTS",
@@ -4094,7 +4136,7 @@
     }
   ],
   "server": "ia801407.us.archive.org",
-  "uniq": 496033899,
+  "uniq": 362346122,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

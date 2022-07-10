@@ -1,5 +1,5 @@
 {
-  "created": 1657412882,
+  "created": 1657455453,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/rollcall-2022",
@@ -478,31 +478,63 @@
       "sha1": "51e0d03fb261d40d9359b854568060427f13dbe6"
     },
     {
+      "name": "rollcall-2022-07-09T23:22:48.253832-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657423374",
+      "size": "37628",
+      "md5": "398f8d1d6f95973286ef13428e4ba31d",
+      "crc32": "0be02f6a",
+      "sha1": "7dc20af2c4fe7d4edd6f21ffec5a8b0e4cadd4b9",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-07-09T23:22:48.253832-04:00.jpg",
+      "source": "original",
+      "mtime": "1657423370",
+      "size": "304591",
+      "md5": "e80574609a777f48132c44349e5dd325",
+      "crc32": "cae40e70",
+      "sha1": "244e5c88f27e5aef2f40a298b5788fedb4fb31e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollcall-2022-07-09T23:22:48.253832-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollcall-2022-07-09T23:22:48.253832-04:00.jpg",
+      "mtime": "1657423424",
+      "size": "11001",
+      "md5": "3671ec25183e7bbd64bd44d98a1d4f28",
+      "crc32": "81395c63",
+      "sha1": "dfd64604d45b47849ff4a3ca3cb029987abaa8bb"
+    },
+    {
       "name": "rollcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07e59575fb8aa00454a4c8d63536bf25e8cb4e98",
-      "mtime": "1657377948",
-      "size": "10897",
-      "md5": "ee722d48707f951a08545a4113582a7b",
-      "crc32": "b2470d76",
-      "sha1": "5a9b3f1f8c1860455787c7b6af40958d84173446",
+      "btih": "3296b42ff71584548d2afb169e5c7832239c994c",
+      "mtime": "1657423429",
+      "size": "11516",
+      "md5": "556e32be203dec453197870461b6260a",
+      "crc32": "88500d25",
+      "sha1": "b1a5ff3fe48f09ad23178fb5080607f693426765",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "138c249e3c6db7747cd108dd31970b02",
+      "md5": "6e3edd9ec954657ee5f91d0140a9facb",
       "summation": "md5"
     },
     {
       "name": "rollcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657377905",
-      "size": "65536",
-      "md5": "99e2b656636118d27e073972471e2a82",
-      "crc32": "1ac19445",
-      "sha1": "b0c1d2833c197f047ef95b541bbc53e569e1c8c2",
+      "mtime": "1657423377",
+      "size": "69632",
+      "md5": "bfa041e6ebbe90ed9f5b93168c535ae9",
+      "crc32": "fe0a9104",
+      "sha1": "51d0897057513c007f782319c8259454493a3f43",
       "format": "Metadata"
     },
     {
@@ -516,9 +548,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 49,
-  "item_last_updated": 1657377948,
-  "item_size": 3777059,
+  "files_count": 52,
+  "item_last_updated": 1657423429,
+  "item_size": 4134994,
   "metadata": {
     "identifier": "rollcall-2022",
     "collection": [
@@ -535,944 +567,1335 @@
     "publicdate": "2022-07-04 21:52:31",
     "addeddate": "2022-07-04 21:52:31"
   },
-  "rollcall-2022": [
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "Campaigns",
-      "url": "https://www.rollcall.com/section/campaigns/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "White House",
-      "url": "https://www.rollcall.com/section/white-house/"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.rollcall.com/category/coronavirus/"
-    },
-    {
-      "text": "Defense",
-      "url": "https://www.rollcall.com/category/defense/"
-    },
-    {
-      "text": "Energy",
-      "url": "https://www.rollcall.com/category/energy/"
-    },
-    {
-      "text": "Fintech",
-      "url": "https://www.rollcall.com/category/fintech/"
-    },
-    {
-      "text": "Health Care",
-      "url": "https://www.rollcall.com/category/health-care/"
-    },
-    {
-      "text": "Technology",
-      "url": "https://www.rollcall.com/category/technology/"
-    },
-    {
-      "text": "Transportation",
-      "url": "https://www.rollcall.com/category/transportation/"
-    },
-    {
-      "text": "All Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "Heard on the Hill",
-      "url": "https://www.rollcall.com/section/heard-on-the-hill/"
-    },
-    {
-      "text": "CQ Budget",
-      "url": "https://www.rollcall.com/podcast/cq-budget-podcast/"
-    },
-    {
-      "text": "CQ on Congress",
-      "url": "https://www.rollcall.com/podcast/cq-on-congress/"
-    },
-    {
-      "text": "CQ Future",
-      "url": "https://rollcall.com/podcast/cq-future/"
-    },
-    {
-      "text": "Equal Time",
-      "url": "https://rollcall.com/podcast/equal-time/"
-    },
-    {
-      "text": "Fintech Beat",
-      "url": "https://www.rollcall.com/podcast/fintech-beat/"
-    },
-    {
-      "text": "Policy Briefs",
-      "url": "https://www.rollcall.com/podcasts/policy-briefs/cq-roll-call-policy-briefs/"
-    },
-    {
-      "text": "Political Theater",
-      "url": "https://www.rollcall.com/podcast/political-theater/"
-    },
-    {
-      "text": "Oversight",
-      "url": "https://www.rollcall.com/jonestown/"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.rollcall.com/section/video/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.rollcall.com/newsletters/"
-    },
-    {
-      "text": "Capitol Ink",
-      "url": "https://www.rollcall.com/category/capitol-ink/"
-    },
-    {
-      "text": "Roll Call e-Edition",
-      "url": "https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&pubid=7d81bad7-99d5-4bc5-9bd0-5e1834301040"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.rollcall.com/section/opinion/"
-    },
-    {
-      "text": "Events",
-      "url": "/events/"
-    },
-    {
-      "text": "Classifieds",
-      "url": "https://www.rcjobs.com/"
-    },
-    {
-      "text": "Campaigns",
-      "url": "https://www.rollcall.com/section/campaigns/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "White House",
-      "url": "https://www.rollcall.com/section/white-house/"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.rollcall.com/category/coronavirus/"
-    },
-    {
-      "text": "Defense",
-      "url": "https://www.rollcall.com/category/defense/"
-    },
-    {
-      "text": "Energy",
-      "url": "https://www.rollcall.com/category/energy/"
-    },
-    {
-      "text": "Fintech",
-      "url": "https://www.rollcall.com/category/fintech/"
-    },
-    {
-      "text": "Health Care",
-      "url": "https://www.rollcall.com/category/health-care/"
-    },
-    {
-      "text": "Technology",
-      "url": "https://www.rollcall.com/category/technology/"
-    },
-    {
-      "text": "Transportation",
-      "url": "https://www.rollcall.com/category/transportation/"
-    },
-    {
-      "text": "All Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "Heard on the Hill",
-      "url": "https://www.rollcall.com/section/heard-on-the-hill/"
-    },
-    {
-      "text": "CQ Budget",
-      "url": "https://www.rollcall.com/podcast/cq-budget-podcast/"
-    },
-    {
-      "text": "CQ on Congress",
-      "url": "https://www.rollcall.com/podcast/cq-on-congress/"
-    },
-    {
-      "text": "CQ Future",
-      "url": "https://rollcall.com/podcast/cq-future/"
-    },
-    {
-      "text": "Equal Time",
-      "url": "https://rollcall.com/podcast/equal-time/"
-    },
-    {
-      "text": "Fintech Beat",
-      "url": "https://www.rollcall.com/podcast/fintech-beat/"
-    },
-    {
-      "text": "Policy Briefs",
-      "url": "https://www.rollcall.com/podcasts/policy-briefs/cq-roll-call-policy-briefs/"
-    },
-    {
-      "text": "Political Theater",
-      "url": "https://www.rollcall.com/podcast/political-theater/"
-    },
-    {
-      "text": "Oversight",
-      "url": "https://www.rollcall.com/jonestown/"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.rollcall.com/section/video/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.rollcall.com/newsletters/"
-    },
-    {
-      "text": "Capitol Ink",
-      "url": "https://www.rollcall.com/category/capitol-ink/"
-    },
-    {
-      "text": "Roll Call e-Edition",
-      "url": "https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&pubid=7d81bad7-99d5-4bc5-9bd0-5e1834301040"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.rollcall.com/section/opinion/"
-    },
-    {
-      "text": "Events",
-      "url": "/events/"
-    },
-    {
-      "text": "Classifieds",
-      "url": "https://www.rcjobs.com/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/08/immigration-enforcement-policy-fight-reaches-supreme-court/"
-    },
-    {
-      "text": "Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "Immigration enforcement policy fight reaches Supreme Court",
-      "url": "https://www.rollcall.com/2022/07/08/immigration-enforcement-policy-fight-reaches-supreme-court/"
-    },
-    {
-      "text": "Suzanne Monyak",
-      "url": "https://www.rollcall.com/author/suzanne-monyak/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/08/appeals-court-lets-house-panel-subpoena-trump-financial-records/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "Appeals court lets House panel subpoena Trump financial records",
-      "url": "https://www.rollcall.com/2022/07/08/appeals-court-lets-house-panel-subpoena-trump-financial-records/"
-    },
-    {
-      "text": "Michael Macagnone",
-      "url": "https://www.rollcall.com/author/michael-macagnone/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/08/biden-issues-executive-order-responding-to-abortion-ruling/"
-    },
-    {
-      "text": "White House",
-      "url": "https://www.rollcall.com/section/white-house/"
-    },
-    {
-      "text": "Biden issues executive order responding to abortion ruling",
-      "url": "https://www.rollcall.com/2022/07/08/biden-issues-executive-order-responding-to-abortion-ruling/"
-    },
-    {
-      "text": "Sandhya Raman",
-      "url": "https://www.rollcall.com/author/sandhya-raman/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/podcasts/cq-budget-podcast/crunch-time-for-the-democratic-agenda/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.rollcall.com/section/podcasts/"
-    },
-    {
-      "text": "Crunch time for the Democratic agenda",
-      "url": "https://www.rollcall.com/podcasts/cq-budget-podcast/crunch-time-for-the-democratic-agenda/"
-    },
-    {
-      "text": "David Lerman",
-      "url": "https://www.rollcall.com/author/david-lerman/"
-    },
-    {
-      "text": "Peter Cohn",
-      "url": "https://www.rollcall.com/author/peter-cohn/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/08/report-finds-agents-used-improper-force-against-haitian-migrants/"
-    },
-    {
-      "text": "Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "Report finds agents used improper force against Haitian migrants",
-      "url": "https://www.rollcall.com/2022/07/08/report-finds-agents-used-improper-force-against-haitian-migrants/"
-    },
-    {
-      "text": "Suzanne Monyak",
-      "url": "https://www.rollcall.com/author/suzanne-monyak/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/08/the-kennedy-center-congressional-hits-and-misses/"
-    },
-    {
-      "text": "Video",
-      "url": "https://www.rollcall.com/section/video/"
-    },
-    {
-      "text": "The Kennedy center: Congressional Hits and Misses",
-      "url": "https://www.rollcall.com/2022/07/08/the-kennedy-center-congressional-hits-and-misses/"
-    },
-    {
-      "text": "Chris Hale",
-      "url": "https://www.rollcall.com/author/chris-hale/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/08/photos-of-the-week-ending-july-8-2022/"
-    },
-    {
-      "text": "Heard on the Hill",
-      "url": "https://www.rollcall.com/section/heard-on-the-hill/"
-    },
-    {
-      "text": "Photos of the week ending July 8, 2022",
-      "url": "https://www.rollcall.com/2022/07/08/photos-of-the-week-ending-july-8-2022/"
-    },
-    {
-      "text": "Bill Clark",
-      "url": "https://www.rollcall.com/author/bill-clark/"
-    },
-    {
-      "text": "Tom Williams",
-      "url": "https://www.rollcall.com/author/tom-williams/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/08/fight-club-as-democrats-urge-biden-to-show-some-moxie-aocs-vigor-offers-an-example/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.rollcall.com/section/opinion/"
-    },
-    {
-      "text": "Fight club: As Democrats urge Biden to show some moxie, AOC\u2019s \u2018vigor\u2019 offers an example",
-      "url": "https://www.rollcall.com/2022/07/08/fight-club-as-democrats-urge-biden-to-show-some-moxie-aocs-vigor-offers-an-example/"
-    },
-    {
-      "text": "John T. Bennett",
-      "url": "https://www.rollcall.com/author/john-t-bennett/"
-    },
-    {
-      "text": "",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6051042381&iu=/4218"
-    },
-    {
-      "text": "VoterVoice",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6051042381&iu=/4218"
-    },
-    {
-      "text": "Your #1 grassroots advocacy tool to rally supporters and make sure your message is amplified across all levels of government",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6051042381&iu=/4218"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/07/biden-medal-picks-push-partisan-issues-and-bipartisanship/"
-    },
-    {
-      "text": "White House",
-      "url": "https://www.rollcall.com/section/white-house/"
-    },
-    {
-      "text": "Biden medal picks push partisan issues, and bipartisanship",
-      "url": "https://www.rollcall.com/2022/07/07/biden-medal-picks-push-partisan-issues-and-bipartisanship/"
-    },
-    {
-      "text": "Chris Cioffi",
-      "url": "https://www.rollcall.com/author/chris-cioffi/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/07/states-would-set-lower-highway-emissions-goals-under-proposed-rule/"
-    },
-    {
-      "text": "Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "States would set lower highway emissions goals under proposed rule",
-      "url": "https://www.rollcall.com/2022/07/07/states-would-set-lower-highway-emissions-goals-under-proposed-rule/"
-    },
-    {
-      "text": "David Jordan",
-      "url": "https://www.rollcall.com/author/david-jordan/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/07/at-the-races-too-busy-for-biden/"
-    },
-    {
-      "text": "Campaigns",
-      "url": "https://www.rollcall.com/section/campaigns/"
-    },
-    {
-      "text": "At the Races: Too busy for Biden",
-      "url": "https://www.rollcall.com/2022/07/07/at-the-races-too-busy-for-biden/"
-    },
-    {
-      "text": "Kate Ackley",
-      "url": "https://www.rollcall.com/author/kate-ackley/"
-    },
-    {
-      "text": "Mary Ellen McIntire",
-      "url": "https://www.rollcall.com/author/mary-ellen-mcintire/"
-    },
-    {
-      "text": "Stephanie Akin",
-      "url": "https://www.rollcall.com/author/stephanie-akin/"
-    },
-    {
-      "text": "Niels Lesniewski",
-      "url": "https://www.rollcall.com/author/niels-lesniewski/"
-    },
-    {
-      "text": "",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6045741286&iu=/4218"
-    },
-    {
-      "text": "Curate",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6045741286&iu=/4218"
-    },
-    {
-      "text": "A Powerful Local Tracking Tool: The Best Way to Manage Your Relationship in Your Home District",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6045741286&iu=/4218"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/07/trump-backed-masters-wants-to-join-senate-america-first-caucus/"
-    },
-    {
-      "text": "Campaigns",
-      "url": "https://www.rollcall.com/section/campaigns/"
-    },
-    {
-      "text": "Trump-backed Masters wants to join Senate  \u2018America First Caucus\u2019",
-      "url": "https://www.rollcall.com/2022/07/07/trump-backed-masters-wants-to-join-senate-america-first-caucus/"
-    },
-    {
-      "text": "Niels Lesniewski",
-      "url": "https://www.rollcall.com/author/niels-lesniewski/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/06/park-police-radio-channels-unrecorded-for-years-watchdog-says/"
-    },
-    {
-      "text": "Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "Park Police radio channels unrecorded for years, watchdog says",
-      "url": "https://www.rollcall.com/2022/07/06/park-police-radio-channels-unrecorded-for-years-watchdog-says/"
-    },
-    {
-      "text": "Benjamin J. Hulac",
-      "url": "https://www.rollcall.com/author/benjamin-j-hulac/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/06/democrats-pitch-immigration-issues-on-must-pass-defense-bill/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "Democrats pitch immigration issues on must-pass defense bill",
-      "url": "https://www.rollcall.com/2022/07/06/democrats-pitch-immigration-issues-on-must-pass-defense-bill/"
-    },
-    {
-      "text": "Caroline Simon",
-      "url": "https://www.rollcall.com/author/caroline-simon/"
-    },
-    {
-      "text": "",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5927679965&iu=/4218"
-    },
-    {
-      "text": "Community",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5927679965&iu=/4218"
-    },
-    {
-      "text": "Centralize constituent relationships into one cohesive platform with Fireside",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5927679965&iu=/4218"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/06/biden-administration-defends-daca-program-at-appeals-court/"
-    },
-    {
-      "text": "Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "Biden administration defends DACA program at appeals court",
-      "url": "https://www.rollcall.com/2022/07/06/biden-administration-defends-daca-program-at-appeals-court/"
-    },
-    {
-      "text": "Suzanne Monyak",
-      "url": "https://www.rollcall.com/author/suzanne-monyak/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/06/sen-lindsey-graham-plans-to-fight-georgia-subpoena/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "Sen. Lindsey Graham plans to fight Georgia subpoena",
-      "url": "https://www.rollcall.com/2022/07/06/sen-lindsey-graham-plans-to-fight-georgia-subpoena/"
-    },
-    {
-      "text": "Michael Macagnone",
-      "url": "https://www.rollcall.com/author/michael-macagnone/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/06/for-chips-and-budget-packages-democrats-face-choices/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "For chips and budget packages, Democrats face choices",
-      "url": "https://www.rollcall.com/2022/07/06/for-chips-and-budget-packages-democrats-face-choices/"
-    },
-    {
-      "text": "Peter Cohn",
-      "url": "https://www.rollcall.com/author/peter-cohn/"
-    },
-    {
-      "text": "",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5332907434&iu=/4218"
-    },
-    {
-      "text": "ROLL CALL NEWSPAPER",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5332907434&iu=/4218"
-    },
-    {
-      "text": "Read the latest issue",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5332907434&iu=/4218"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/06/nebraska-quirk-used-new-map-to-fill-house-vacancy-last-month/"
-    },
-    {
-      "text": "Campaigns",
-      "url": "https://www.rollcall.com/section/campaigns/"
-    },
-    {
-      "text": "Nebraska quirk used new map to fill House vacancy last month",
-      "url": "https://www.rollcall.com/2022/07/06/nebraska-quirk-used-new-map-to-fill-house-vacancy-last-month/"
-    },
-    {
-      "text": "Chris Cioffi",
-      "url": "https://www.rollcall.com/author/chris-cioffi/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/06/big-spending-boost-may-be-too-little-for-national-parks-needs/"
-    },
-    {
-      "text": "Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "Big spending boost may be too little for national parks\u2019 needs",
-      "url": "https://www.rollcall.com/2022/07/06/big-spending-boost-may-be-too-little-for-national-parks-needs/"
-    },
-    {
-      "text": "David Jordan",
-      "url": "https://www.rollcall.com/author/david-jordan/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/05/georgia-grand-jury-subpoenas-sen-lindsey-graham-over-calls/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "Georgia grand jury subpoenas Sen. Lindsey Graham over calls",
-      "url": "https://www.rollcall.com/2022/07/05/georgia-grand-jury-subpoenas-sen-lindsey-graham-over-calls/"
-    },
-    {
-      "text": "Michael Macagnone",
-      "url": "https://www.rollcall.com/author/michael-macagnone/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/05/dishing-out-civics-along-with-dessert/"
-    },
-    {
-      "text": "Campaigns",
-      "url": "https://www.rollcall.com/section/campaigns/"
-    },
-    {
-      "text": "Dishing out civics along with dessert",
-      "url": "https://www.rollcall.com/2022/07/05/dishing-out-civics-along-with-dessert/"
-    },
-    {
-      "text": "Kate Ackley",
-      "url": "https://www.rollcall.com/author/kate-ackley/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/05/new-interior-offshore-drilling-plan-draws-mixed-reviews/"
-    },
-    {
-      "text": "Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "New Interior offshore drilling plan draws mixed reviews",
-      "url": "https://www.rollcall.com/2022/07/05/new-interior-offshore-drilling-plan-draws-mixed-reviews/"
-    },
-    {
-      "text": "Benjamin J. Hulac",
-      "url": "https://www.rollcall.com/author/benjamin-j-hulac/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/01/trump-the-maga-jan-6-battlefield-and-open-questions-on-whats-next/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.rollcall.com/section/opinion/"
-    },
-    {
-      "text": "Trump, the MAGA Jan. 6 battlefield and open questions on what\u2019s next",
-      "url": "https://www.rollcall.com/2022/07/01/trump-the-maga-jan-6-battlefield-and-open-questions-on-whats-next/"
-    },
-    {
-      "text": "John T. Bennett",
-      "url": "https://www.rollcall.com/author/john-t-bennett/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/01/court-hobbles-epa-on-climate-and-its-options-are-limited/"
-    },
-    {
-      "text": "Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "Court hobbles EPA on climate, and its options are limited",
-      "url": "https://www.rollcall.com/2022/07/01/court-hobbles-epa-on-climate-and-its-options-are-limited/"
-    },
-    {
-      "text": "Benjamin J. Hulac",
-      "url": "https://www.rollcall.com/author/benjamin-j-hulac/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/06/30/leahys-surgery-could-complicate-democratic-agenda/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "Leahy recovering from hip replacement surgery",
-      "url": "https://www.rollcall.com/2022/06/30/leahys-surgery-could-complicate-democratic-agenda/"
-    },
-    {
-      "text": "David Lerman",
-      "url": "https://www.rollcall.com/author/david-lerman/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/06/30/mcconnell-threatens-support-for-china-bill-citing-budget-talks/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "McConnell threatens support for China bill, citing budget talks",
-      "url": "https://www.rollcall.com/2022/06/30/mcconnell-threatens-support-for-china-bill-citing-budget-talks/"
-    },
-    {
-      "text": "Lindsey McPherson",
-      "url": "https://www.rollcall.com/author/lindsey-mcpherson/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/06/30/supreme-court-limits-epa-power-plant-carbon-emissions-authority/"
-    },
-    {
-      "text": "Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "Supreme Court limits EPA power plant carbon emissions authority",
-      "url": "https://www.rollcall.com/2022/06/30/supreme-court-limits-epa-power-plant-carbon-emissions-authority/"
-    },
-    {
-      "text": "Benjamin J. Hulac",
-      "url": "https://www.rollcall.com/author/benjamin-j-hulac/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/06/30/democrats-fume-gop-lauds-ruling-to-weaken-epa/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "Democrats fume, GOP lauds ruling to weaken EPA",
-      "url": "https://www.rollcall.com/2022/06/30/democrats-fume-gop-lauds-ruling-to-weaken-epa/"
-    },
-    {
-      "text": "Benjamin J. Hulac",
-      "url": "https://www.rollcall.com/author/benjamin-j-hulac/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/06/30/supreme-court-conservatives-flex-in-term-full-of-controversial-cases/"
-    },
-    {
-      "text": "Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "Supreme Court conservatives flex in term full of controversial cases",
-      "url": "https://www.rollcall.com/2022/06/30/supreme-court-conservatives-flex-in-term-full-of-controversial-cases/"
-    },
-    {
-      "text": "Michael Macagnone",
-      "url": "https://www.rollcall.com/author/michael-macagnone/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/06/30/at-the-races-roe-d-awakening/"
-    },
-    {
-      "text": "Campaigns",
-      "url": "https://www.rollcall.com/section/campaigns/"
-    },
-    {
-      "text": "At the Races: Roe-d awakening",
-      "url": "https://www.rollcall.com/2022/06/30/at-the-races-roe-d-awakening/"
-    },
-    {
-      "text": "Stephanie Akin",
-      "url": "https://www.rollcall.com/author/stephanie-akin/"
-    },
-    {
-      "text": "Kate Ackley",
-      "url": "https://www.rollcall.com/author/kate-ackley/"
-    },
-    {
-      "text": "Mary Ellen McIntire",
-      "url": "https://www.rollcall.com/author/mary-ellen-mcintire/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/06/30/three-reasons-jan-6-committee-wants-former-white-house-counsel-pat-cipollones-testimony/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "Three reasons Jan. 6 committee wants former White House counsel Pat Cipollone\u2019s testimony",
-      "url": "https://www.rollcall.com/2022/06/30/three-reasons-jan-6-committee-wants-former-white-house-counsel-pat-cipollones-testimony/"
-    },
-    {
-      "text": "Chris Marquette",
-      "url": "https://www.rollcall.com/author/chris-marquette/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/06/30/senate-drafts-last-ditch-drug-pricing-plan-ahead-of-midterms/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "Senate drafts last-ditch drug pricing plan ahead of midterms",
-      "url": "https://www.rollcall.com/2022/06/30/senate-drafts-last-ditch-drug-pricing-plan-ahead-of-midterms/"
-    },
-    {
-      "text": "Lauren Clason",
-      "url": "https://www.rollcall.com/author/lauren-clason/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/06/30/pallone-presses-white-house-to-reinstate-crude-oil-export-ban/"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.rollcall.com/section/congress/"
-    },
-    {
-      "text": "Pallone presses White House to reinstate crude oil export ban",
-      "url": "https://www.rollcall.com/2022/06/30/pallone-presses-white-house-to-reinstate-crude-oil-export-ban/"
-    },
-    {
-      "text": "David Jordan",
-      "url": "https://www.rollcall.com/author/david-jordan/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/06/30/supreme-court-greenlights-end-of-remain-in-mexico-policy/"
-    },
-    {
-      "text": "Policy",
-      "url": "https://www.rollcall.com/section/policy/"
-    },
-    {
-      "text": "Supreme Court greenlights end of \u2018Remain in Mexico\u2019 policy",
-      "url": "https://www.rollcall.com/2022/06/30/supreme-court-greenlights-end-of-remain-in-mexico-policy/"
-    },
-    {
-      "text": "Suzanne Monyak",
-      "url": "https://www.rollcall.com/author/suzanne-monyak/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/06/30/domestic-agenda-looms-as-biden-departs-nato-summit/"
-    },
-    {
-      "text": "White House",
-      "url": "https://www.rollcall.com/section/white-house/"
-    },
-    {
-      "text": "Domestic agenda looms as Biden departs NATO Summit",
-      "url": "https://www.rollcall.com/2022/06/30/domestic-agenda-looms-as-biden-departs-nato-summit/"
-    },
-    {
-      "text": "Niels Lesniewski",
-      "url": "https://www.rollcall.com/author/niels-lesniewski/"
-    },
-    {
-      "text": "See All",
-      "url": "/section/video"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/2022/07/08/the-kennedy-center-congressional-hits-and-misses/"
-    },
-    {
-      "text": "The Kennedy center: Congressional Hits and Misses",
-      "url": "https://www.rollcall.com/2022/07/08/the-kennedy-center-congressional-hits-and-misses/"
-    },
-    {
-      "text": "Chris Hale",
-      "url": "https://www.rollcall.com/author/chris-hale/"
-    },
-    {
-      "text": "See All",
-      "url": "/section/podcasts"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/podcasts/cq-budget-podcast/crunch-time-for-the-democratic-agenda/"
-    },
-    {
-      "text": "Crunch time for the Democratic agenda",
-      "url": "https://www.rollcall.com/podcasts/cq-budget-podcast/crunch-time-for-the-democratic-agenda/"
-    },
-    {
-      "text": "CQ Budget Podcast",
-      "url": "https://www.rollcall.com/podcast/cq-budget-podcast/"
-    },
-    {
-      "text": "",
-      "url": "https://www.rollcall.com/congressional-calendar/"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "About",
-      "url": "https://www.rollcall.com/about/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.rollcall.com/about/contact-cq-roll-call/"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://fiscalnote.com/products/advertising/?pos=ftr&src=rc"
-    },
-    {
-      "text": "Events",
-      "url": "/events"
-    },
-    {
-      "text": "Privacy",
-      "url": "https://www.fiscalnote.com/privacy/"
-    },
-    {
-      "text": "RC Jobs",
-      "url": "https://www.rcjobs.com/?pos=ftr&src=rc"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.rollcall.com/newsletters/"
-    },
-    {
-      "text": "The Staff",
-      "url": "https://www.rollcall.com/about/masthead/"
-    },
-    {
-      "text": "Subscriptions",
-      "url": "https://www.cambeywest.com/subscribe2/?p=rol&f=paid"
-    }
-  ],
-  "server": "ia801407.us.archive.org",
-  "uniq": 1202277717,
+  "rollcall-2022": {
+    "role": "WebArea",
+    "name": "Roll Call - Covering Capitol Hill Since 1955",
+    "children": [
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "button",
+        "name": "Politics"
+      },
+      {
+        "role": "button",
+        "name": "Policy"
+      },
+      {
+        "role": "link",
+        "name": "Heard on the Hill"
+      },
+      {
+        "role": "button",
+        "name": "Podcasts"
+      },
+      {
+        "role": "link",
+        "name": "Video"
+      },
+      {
+        "role": "button",
+        "name": "More"
+      },
+      {
+        "role": "button",
+        "name": "Open Search"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Trucks and cars cross over the Rio Grande and U.S.-Mexico border on the Bridge of the Americas in El Paso, Texas, in 2021. (Bill Clark/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "POLICY"
+      },
+      {
+        "role": "link",
+        "name": "Immigration enforcement policy fight reaches Supreme Court"
+      },
+      {
+        "role": "heading",
+        "name": "Lower court rulings are thwarting Department of Homeland Security efforts to focus its limited resources, the Biden administration argues",
+        "level": 3
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Suzanne Monyak"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 8, 2022 at 4:35pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Pennsylvania Lt. Gov. John Fetterman, right, hasn&#039;t been on the campaign trail since he suffered a stroke just before winning the Democratic primary for the state&#039;s open Senate seat. He spoke in April at a union hall in Plymouth Meeting, Pa., with, from left, Maggie Birge-Caracappa, Janice Rael, and Blake Cash. (Tom Williams/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CAMPAIGNS"
+      },
+      {
+        "role": "link",
+        "name": "August date to watch in Pennsylvania Senate race"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Nathan L. Gonzales"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 9, 2022 at 2:09pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "A memorandum written by House Oversight and Reform Chairwoman Carolyn B. Maloney was used in court Friday to justify the committee\u2019s investigation to uphold parts of the subpoena. (Bill Clark/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CONGRESS"
+      },
+      {
+        "role": "link",
+        "name": "Appeals court lets House panel subpoena Trump financial records"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Michael Macagnone"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 8, 2022 at 4:09pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Senate Majority Leader Charles E. Schumer, left, and Minority Leader Mitch McConnell attend a ceremony on June 8 to announce the renaming of Senate rooms in the Capitol after former Sens. Barbara Mikulski and Margaret Chase Smith. (Tom Williams/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "PODCASTS"
+      },
+      {
+        "role": "link",
+        "name": "Crunch time for the Democratic agenda"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "David Lerman"
+      },
+      {
+        "role": "text",
+        "name": "and"
+      },
+      {
+        "role": "link",
+        "name": "Peter Cohn"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 8, 2022 at 1:10pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Texas Democratic Rep. Sheila Jackson Lee attends a news conference on the treatment of Haitian migrants at the southwest border last year. (Anna Moneymaker/Getty Images file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "POLICY"
+      },
+      {
+        "role": "link",
+        "name": "Report finds agents used improper force against Haitian migrants"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Suzanne Monyak"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 8, 2022 at 4:54pm"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "President Joe Biden signs an executive order on access to reproductive health care services as Vice President Kamala Harris, left, and Secretary of Health and Human Services Xavier Becerra look on in the Roosevelt Room of the White House on Friday. (Alex Wong/Getty Images)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "WHITE HOUSE"
+      },
+      {
+        "role": "link",
+        "name": "Biden issues executive order responding to abortion ruling"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Sandhya Raman"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 8, 2022 at 3:39pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "This week\u2019s Hits and Misses focuses on Louisiana Sen. John Kennedy and some of his homespun witticisms. (Photo by Bill Clark, composite by Chris Hale/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "VIDEO"
+      },
+      {
+        "role": "link",
+        "name": "The Kennedy center: Congressional Hits and Misses"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Chris Hale"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 8, 2022 at 1:42pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Arizona Democratic Sen. Mark Kelly, center, left, and Rep. Tom O\u2019Halleran, center, right, talk as they arrive for the Flagstaff Chamber of Commerce Fourth of July parade in Flagstaff, Ariz., on Monday. (Bill Clark/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "HEARD ON THE HILL"
+      },
+      {
+        "role": "link",
+        "name": "Photos of the week ending July 8, 2022"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Bill Clark"
+      },
+      {
+        "role": "text",
+        "name": "and"
+      },
+      {
+        "role": "link",
+        "name": "Tom Williams"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 8, 2022 at 11:52am"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "VOTERVOICE"
+      },
+      {
+        "role": "link",
+        "name": "Your #1 grassroots advocacy tool to rally supporters and make sure your message is amplified across all levels of government"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Rep. Alexandria Ocasio-Cortez, D-N.Y., has shown the kind of fight Democrats aren&#039;t seeing in party leaders. (Tom Williams/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "OPINION"
+      },
+      {
+        "role": "link",
+        "name": "Fight club: As Democrats urge Biden to show some moxie, AOC\u2019s \u2018vigor\u2019 offers an example"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "John T. Bennett"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 8, 2022 at 6:00am"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "President Joe Biden presents the Presidential Medal of Freedom to former Rep. Gabrielle Giffords, D-Ariz., one of 17 recipients to receive the nation&#039;s highest civilian honor, during a ceremony at the White House on Thursday. (Tom Williams/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "WHITE HOUSE"
+      },
+      {
+        "role": "link",
+        "name": "Biden medal picks push partisan issues, and bipartisanship"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Chris Cioffi"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 7, 2022 at 6:15pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "According to EPA data, the transportation sector was the largest source of greenhouse gas emissions in 2020, mostly from light-duty vehicles. (Getty Images)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "POLICY"
+      },
+      {
+        "role": "link",
+        "name": "States would set lower highway emissions goals under proposed rule"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "David Jordan"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 7, 2022 at 12:56pm, Updated at 4:49pm"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "CURATE"
+      },
+      {
+        "role": "link",
+        "name": "A Powerful Local Tracking Tool: The Best Way to Manage Your Relationship in Your Home District"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "CAMPAIGNS"
+      },
+      {
+        "role": "link",
+        "name": "At the Races: Too busy for Biden"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Kate Ackley"
+      },
+      {
+        "role": "text",
+        "name": ","
+      },
+      {
+        "role": "link",
+        "name": "Mary Ellen McIntire"
+      },
+      {
+        "role": "text",
+        "name": ","
+      },
+      {
+        "role": "link",
+        "name": "Stephanie Akin"
+      },
+      {
+        "role": "text",
+        "name": ", and"
+      },
+      {
+        "role": "link",
+        "name": "Niels Lesniewski"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 7, 2022 at 2:30pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Republican Senate candidate Blake Masters speaks during his town hall event at Miss Kitty\u2019s Steak House in Williams, Ariz., on Wednesday. (Bill Clark/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CAMPAIGNS"
+      },
+      {
+        "role": "link",
+        "name": "Trump-backed Masters wants to join Senate \u2018America First Caucus\u2019"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Niels Lesniewski"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 7, 2022 at 12:19pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "U.S. Park Police faced protestors in Lafayette Square on May 31 and June 1, 2020. (Caroline Brehman/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "POLICY"
+      },
+      {
+        "role": "link",
+        "name": "Park Police radio channels unrecorded for years, watchdog says"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Benjamin J. Hulac"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 6, 2022 at 5:56pm"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "COMMUNITY"
+      },
+      {
+        "role": "link",
+        "name": "Centralize constituent relationships into one cohesive platform with Fireside"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Rep. Deborah K. Ross, D-N.C., arrives for a committee hearing last month. (Tom Williams/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CONGRESS"
+      },
+      {
+        "role": "link",
+        "name": "Democrats pitch immigration issues on must-pass defense bill"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Caroline Simon"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 6, 2022 at 5:34pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Activists listen during a news conference marking the 10th anniversary of Deferred Action for Childhood Arrivals, or DACA, on Capitol Hill in June. (Kent Nishimura / Los Angeles Times via Getty Images)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "POLICY"
+      },
+      {
+        "role": "link",
+        "name": "Biden administration defends DACA program at appeals court"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Suzanne Monyak"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 6, 2022 at 2:45pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Sen. Lindsey Graham, R-S.C., at a Senate Judiciary Committee hearing in March. (Tom Williams/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CONGRESS"
+      },
+      {
+        "role": "link",
+        "name": "Sen. Lindsey Graham plans to fight Georgia subpoena"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Michael Macagnone"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 6, 2022 at 12:30pm"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "ROLL CALL NEWSPAPER"
+      },
+      {
+        "role": "link",
+        "name": "Read the latest issue"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Senate Minority Leader Mitch McConnell, right, listens as and Majority Leader Charles E. Schumer speaks at a room-naming ceremony in the Capitol on June 8. (Tom Williams/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CONGRESS"
+      },
+      {
+        "role": "link",
+        "name": "For chips and budget packages, Democrats face choices"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Peter Cohn"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 6, 2022 at 10:52am"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Nebraska state Sen. Mike Flood won the special election to fill the open 1st District seat in the House. (Screenshot/YouTube/Mike Flood for Congress)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CAMPAIGNS"
+      },
+      {
+        "role": "link",
+        "name": "Nebraska quirk used new map to fill House vacancy last month"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Chris Cioffi"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 6, 2022 at 6:15am"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "In this photo provided by the National Park Service, the Yellowstone National Park&#039;s North Entrance Road is washed out after flooding on June 16. (Jacob W. Frank/National Park Service via Getty Images file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "POLICY"
+      },
+      {
+        "role": "link",
+        "name": "Big spending boost may be too little for national parks\u2019 needs"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "David Jordan"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 6, 2022 at 6:00am"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "The summons for Sen. Lindsey Graham, filed in Fulton County Superior Court on Tuesday, is one of more than half a dozen issued for allies of former President Donald Trump. (Tom Williams/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CONGRESS"
+      },
+      {
+        "role": "link",
+        "name": "Georgia grand jury subpoenas Sen. Lindsey Graham over calls"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Michael Macagnone"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 5, 2022 at 5:46pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "A group hoping to boost voter registration is encouraging people to hold dinners with friends, neighbors and family members in the belief it will be more effective than strangers with clipboards going door-to-door or standing on streetcorners. (Caroline Brehman/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CAMPAIGNS"
+      },
+      {
+        "role": "link",
+        "name": "Dishing out civics along with dessert"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Kate Ackley"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 5, 2022 at 5:09pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "\u201cNo more drilling, including offshore,\u201d President Joe Biden said at a campaign debate. Diane Hoskins, Oceana campaign director, said the possibility the administration\u00a0might allow drilling was disappointing. (AFP via Getty Images)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "POLICY"
+      },
+      {
+        "role": "link",
+        "name": "New Interior offshore drilling plan draws mixed reviews"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Benjamin J. Hulac"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 5, 2022 at 4:16pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "A supporter of then-President Donald Trump holds a Confederate flag outside the Senate chamber during the Jan. 6, 2021 Capitol riot. (SAUL LOEB/AFP/via Getty Images)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "OPINION"
+      },
+      {
+        "role": "link",
+        "name": "Trump, the MAGA Jan. 6 battlefield and open questions on what\u2019s next"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "John T. Bennett"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 1, 2022 at 6:00am"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "EPA Administrator Michael S. Regan may find a narrow path for his agency&#039;s efforts to rein in climate change. (Tom Williams/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "POLICY"
+      },
+      {
+        "role": "link",
+        "name": "Court hobbles EPA on climate, and its options are limited"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Benjamin J. Hulac"
+      },
+      {
+        "role": "text",
+        "name": "Posted July 1, 2022 at 6:00am"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Sen. Patrick J. Leahy, D-Vt., is the longest-serving sitting senator and chairman of the Appropriations Committee. He will retire at the end of the 117th Congress. (Tom Williams/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CONGRESS"
+      },
+      {
+        "role": "link",
+        "name": "Leahy recovering from hip replacement surgery"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "David Lerman"
+      },
+      {
+        "role": "text",
+        "name": "Posted June 30, 2022 at 3:13pm, Updated at 9:47pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Senate Minority Leader Mitch McConnell speaks at a news conference after a luncheon in the U.S. Capitol on June 22. (Tom Williams/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CONGRESS"
+      },
+      {
+        "role": "link",
+        "name": "McConnell threatens support for China bill, citing budget talks"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Lindsey McPherson"
+      },
+      {
+        "role": "text",
+        "name": "Posted June 30, 2022 at 7:36pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "The case was brought by states that argue the EPA overstepped its bounds in regulating carbon emissions by power plants. (Getty Images)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "POLICY"
+      },
+      {
+        "role": "link",
+        "name": "Supreme Court limits EPA power plant carbon emissions authority"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Benjamin J. Hulac"
+      },
+      {
+        "role": "text",
+        "name": "Posted June 30, 2022 at 12:52pm, Updated at 2:52pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "\u201cFirst on gun safety, then on abortion, and now on the environment \u2013 this MAGA, regressive, extremist Supreme Court is intent on setting America back decades, if not centuries,\u201d Senate Majority Leader Charles E. Schumer, D-N.Y., said of the Supreme Court&#039;s ruling in West Virginia v. EPA. (Tom Williams/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CONGRESS"
+      },
+      {
+        "role": "link",
+        "name": "Democrats fume, GOP lauds ruling to weaken EPA"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Benjamin J. Hulac"
+      },
+      {
+        "role": "text",
+        "name": "Posted June 30, 2022 at 2:38pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Cardboard cutouts of the conservative Supreme Court justices are propped up by abortion rights activists in front of the court before the decision to overturn Roe v. Wade was handed down last week. (Bill Clark/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "POLICY"
+      },
+      {
+        "role": "link",
+        "name": "Supreme Court conservatives flex in term full of controversial cases"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Michael Macagnone"
+      },
+      {
+        "role": "text",
+        "name": "Posted June 30, 2022 at 2:33pm"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "CAMPAIGNS"
+      },
+      {
+        "role": "link",
+        "name": "At the Races: Roe-d awakening"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Stephanie Akin"
+      },
+      {
+        "role": "text",
+        "name": ","
+      },
+      {
+        "role": "link",
+        "name": "Kate Ackley"
+      },
+      {
+        "role": "text",
+        "name": ", and"
+      },
+      {
+        "role": "link",
+        "name": "Mary Ellen McIntire"
+      },
+      {
+        "role": "text",
+        "name": "Posted June 30, 2022 at 2:30pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Former White House counsel Pat Cipollone was subpoenaed by the Jan. 6 committee. (Tom Williams/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CONGRESS"
+      },
+      {
+        "role": "link",
+        "name": "Three reasons Jan. 6 committee wants former White House counsel Pat Cipollone\u2019s testimony"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Chris Marquette"
+      },
+      {
+        "role": "text",
+        "name": "Posted June 30, 2022 at 2:21pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "The drug pricing negotiations aim to resuscitate part of Democrats\u2019 sweeping social spending and climate bill, with Senate Majority Leader Charles E. Schumer, D-N.Y., negotiating with the broader bill\u2019s most vocal Democratic holdout, Sen. Joe Manchin III of West Virginia on the drug pricing provisions. (Tom Williams/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CONGRESS"
+      },
+      {
+        "role": "link",
+        "name": "Senate drafts last-ditch drug pricing plan ahead of midterms"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Lauren Clason"
+      },
+      {
+        "role": "text",
+        "name": "Posted June 30, 2022 at 1:49pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Rep. Frank Pallone, seen here with Speaker Nancy Pelosi, has called for renewal of a ban on crude oil exports. (Tom Williams/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "CONGRESS"
+      },
+      {
+        "role": "link",
+        "name": "Pallone presses White House to reinstate crude oil export ban"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "David Jordan"
+      },
+      {
+        "role": "text",
+        "name": "Posted June 30, 2022 at 12:58pm"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Immigration activists demonstrate in front of the Supreme Court on April 26 as the justices hear oral arguments about whether President Joe Biden can end a Trump-era border policy that denies asylum-seekers entry to the U.S. while their case is reviewed. (Bill Clark/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "POLICY"
+      },
+      {
+        "role": "link",
+        "name": "Supreme Court greenlights end of \u2018Remain in Mexico\u2019 policy"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Suzanne Monyak"
+      },
+      {
+        "role": "text",
+        "name": "Posted June 30, 2022 at 12:09pm"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "heading",
+        "name": "VIDEOS",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "SEE ALL"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "This week\u2019s Hits and Misses focuses on Louisiana Sen. John Kennedy and some of his homespun witticisms. (Photo by Bill Clark, composite by Chris Hale/CQ Roll Call)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "The Kennedy center: Congressional Hits and Misses"
+      },
+      {
+        "role": "text",
+        "name": "By"
+      },
+      {
+        "role": "link",
+        "name": "Chris Hale"
+      },
+      {
+        "role": "heading",
+        "name": "PODCASTS",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "SEE ALL"
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "img",
+            "name": "Senate Majority Leader Charles E. Schumer, left, and Minority Leader Mitch McConnell attend a ceremony on June 8 to announce the renaming of Senate rooms in the Capitol after former Sens. Barbara Mikulski and Margaret Chase Smith. (Tom Williams/CQ Roll Call file photo)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "Crunch time for the Democratic agenda"
+      },
+      {
+        "role": "link",
+        "name": "CQ Budget Podcast"
+      },
+      {
+        "role": "link",
+        "name": "click to view or download the Congressional Calendar",
+        "description": "click to view or download the Congressional Calendar"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "heading",
+        "name": "THE SOURCE FOR NEWS ON CAPITOL HILL SINCE 1955",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "About"
+      },
+      {
+        "role": "link",
+        "name": "Contact Us"
+      },
+      {
+        "role": "link",
+        "name": "Advertise"
+      },
+      {
+        "role": "link",
+        "name": "Events"
+      },
+      {
+        "role": "link",
+        "name": "Privacy"
+      },
+      {
+        "role": "link",
+        "name": "RC Jobs"
+      },
+      {
+        "role": "link",
+        "name": "Newsletters"
+      },
+      {
+        "role": "link",
+        "name": "The Staff"
+      },
+      {
+        "role": "link",
+        "name": "Subscriptions"
+      },
+      {
+        "role": "text",
+        "name": "CQ Roll Call is a part of FiscalNote, the leading technology innovator at the intersection of global business and government. Copyright 2022 CQ Roll Call. All rights reserved."
+      },
+      {
+        "role": "button",
+        "name": "show"
+      },
+      {
+        "role": "button",
+        "name": "hide"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      }
+    ]
+  },
+  "server": "ia601407.us.archive.org",
+  "uniq": 501822147,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

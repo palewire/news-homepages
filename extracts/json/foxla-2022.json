@@ -1,5 +1,5 @@
 {
-  "created": 1657412470,
+  "created": 1657455072,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/foxla-2022",
@@ -9754,31 +9754,73 @@
       "sha1": "5cd15622165174ac1bfda2d4bee068fd5c57ec62"
     },
     {
+      "name": "foxla-2022-07-09T17:55:17.076714-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657414520",
+      "size": "44784",
+      "md5": "d0d0afc9d278e1567f36fa4aa70743ba",
+      "crc32": "146fcfab",
+      "sha1": "7a49a6313177c8b51eaf61cba97098cec3119cc9",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-09T17:55:17.076714-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657414526",
+      "size": "40223",
+      "md5": "a36b6e5216fabaa8204e19745884990c",
+      "crc32": "00815405",
+      "sha1": "640632009c8f359c1abe3f5f8e6f1b15d29992fe",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-09T17:55:17.076714-07:00.jpg",
+      "source": "original",
+      "mtime": "1657414518",
+      "size": "291979",
+      "md5": "1ce5c4dd41869beb65dca535bc3e7e68",
+      "crc32": "b5bc3f27",
+      "sha1": "571e5ff00561966a914f82d19219ce6d074199b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-07-09T17:55:17.076714-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-07-09T17:55:17.076714-07:00.jpg",
+      "mtime": "1657414587",
+      "size": "10339",
+      "md5": "4244f3683cb5da6201cd2b7972e2b695",
+      "crc32": "4999b946",
+      "sha1": "6b2a81b73d55fbc05826df9798659dc1ee3aeda3"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8fe5b33833ea9065be14f12cb4235f99b6934d80",
-      "mtime": "1657390575",
-      "size": "194560",
-      "md5": "0e753292f67b0bbf45536c9cad2f35a0",
-      "crc32": "ccb9ae9a",
-      "sha1": "3d936a50803b704b2bb02628234c7ae187be1b95",
+      "btih": "b6b6e680a0450b922110568a5a13359fbc14bea1",
+      "mtime": "1657414601",
+      "size": "195398",
+      "md5": "09d3c773d0c951497bddde4705e31d69",
+      "crc32": "f5a181ad",
+      "sha1": "84d334e708b2c8522b4bf95ae0705f1698cd1244",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "750576a86f924e3f31e69afd3b1aa4e4",
+      "md5": "f248734b3d0fd014328ebc7c5b45e0dc",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657390503",
-      "size": "1056768",
-      "md5": "a3db6aeca1f444a7ed306f41d3543cf5",
-      "crc32": "62c2a288",
-      "sha1": "590d13b45554aa3703c5ddc24d56b19181d5d798",
+      "mtime": "1657414531",
+      "size": "1060864",
+      "md5": "908110e272facc9a40072b02bf9c89d7",
+      "crc32": "da303d4c",
+      "sha1": "8d5face2205fe3450c5a4494f4443e330c4abff2",
       "format": "Metadata"
     },
     {
@@ -9792,7 +9834,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 931,
+  "files_count": 935,
   "foxla-2022": [
     {
       "text": " ",
@@ -10231,12 +10273,36 @@
       "url": "/contact"
     },
     {
+      "text": "   ",
+      "url": "/news/over-715000-signatures-collected-in-da-george-gascon-recall-effort"
+    },
+    {
+      "text": "Over 715,000 signatures collected in DA George Gasc\u00f3n recall effort",
+      "url": "/news/over-715000-signatures-collected-in-da-george-gascon-recall-effort"
+    },
+    {
+      "text": "  ",
+      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
+    },
+    {
+      "text": "Man on roof armed with gun killed in shooting involving Long Beach police",
+      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
+    },
+    {
       "text": "  ",
       "url": "/news/turpin-siblings-case-independent-investigation-states-social-services-system-failed-them"
     },
     {
       "text": "Turpin siblings case: Independent investigation states \u2018all too often the social services system failed them\u2019",
       "url": "/news/turpin-siblings-case-independent-investigation-states-social-services-system-failed-them"
+    },
+    {
+      "text": "  ",
+      "url": "/news/three-killed-four-injured-during-fiery-crash-in-orange"
+    },
+    {
+      "text": "Three killed, four injured during fiery crash in Orange",
+      "url": "/news/three-killed-four-injured-during-fiery-crash-in-orange"
     },
     {
       "text": "  ",
@@ -10247,36 +10313,20 @@
       "url": "/news/california-to-make-its-own-low-cost-insulin-to-help-combat-high-drug-prices"
     },
     {
-      "text": "   ",
+      "text": "  ",
+      "url": "/news/la-county-seeks-order-directing-sheriff-to-cooperate-in-gang-probe"
+    },
+    {
+      "text": "LA County seeks order directing sheriff to cooperate in gang probe",
+      "url": "/news/la-county-seeks-order-directing-sheriff-to-cooperate-in-gang-probe"
+    },
+    {
+      "text": "  ",
       "url": "/news/former-japanese-prime-minister-shinzo-abe-assassinated"
     },
     {
       "text": "Former Japanese Prime Minister Shinzo Abe assassinated while giving speech",
       "url": "/news/former-japanese-prime-minister-shinzo-abe-assassinated"
-    },
-    {
-      "text": "  ",
-      "url": "/news/la-county-to-expand-distribution-of-monkeypox-vaccine"
-    },
-    {
-      "text": "LA County to expand distribution of monkeypox vaccine",
-      "url": "/news/la-county-to-expand-distribution-of-monkeypox-vaccine"
-    },
-    {
-      "text": "  ",
-      "url": "/news/man-throws-explosive-device-into-anaheim-home-injuring-woman"
-    },
-    {
-      "text": "Man throws explosive device into Anaheim home, injuring woman",
-      "url": "/news/man-throws-explosive-device-into-anaheim-home-injuring-woman"
-    },
-    {
-      "text": "  ",
-      "url": "/news/biden-order-protecting-abortion-access-roe-v-wade-overturned"
-    },
-    {
-      "text": "Biden signs order on protecting abortion access after Roe v. Wade overturned",
-      "url": "/news/biden-order-protecting-abortion-access-roe-v-wade-overturned"
     },
     {
       "text": "  ",
@@ -10288,19 +10338,35 @@
     },
     {
       "text": "  ",
+      "url": "/news/la-county-to-expand-distribution-of-monkeypox-vaccine"
+    },
+    {
+      "text": "LA County to expand distribution of monkeypox vaccine",
+      "url": "/news/la-county-to-expand-distribution-of-monkeypox-vaccine"
+    },
+    {
+      "text": "  ",
+      "url": "/news/two-arrested-in-california-after-lighting-man-on-fire"
+    },
+    {
+      "text": "Two arrested in California after lighting man on fire",
+      "url": "/news/two-arrested-in-california-after-lighting-man-on-fire"
+    },
+    {
+      "text": "  ",
+      "url": "/news/biden-order-protecting-abortion-access-roe-v-wade-overturned"
+    },
+    {
+      "text": "Biden signs order on protecting abortion access after Roe v. Wade overturned",
+      "url": "/news/biden-order-protecting-abortion-access-roe-v-wade-overturned"
+    },
+    {
+      "text": "  ",
       "url": "/news/search-underway-for-missing-11-year-old-girl-last-seen-in"
     },
     {
       "text": "Search underway for missing 11-year-old girl last seen in Panorama City",
       "url": "/news/search-underway-for-missing-11-year-old-girl-last-seen-in"
-    },
-    {
-      "text": "  ",
-      "url": "/news/elon-musk-deal-twitter-jeopardy"
-    },
-    {
-      "text": "Elon Musk calls off $44-billion deal to buy Twitter",
-      "url": "/news/elon-musk-deal-twitter-jeopardy"
     },
     {
       "text": "  ",
@@ -10311,32 +10377,16 @@
       "url": "/news/robberies-involving-street-vendors-have-increased-by-20-across-los-angeles-police-say"
     },
     {
-      "text": "  ",
-      "url": "/news/covid-19-omicron-subvariants-ba-4-and-ba-5-could-be-worst-so-far-doctors-say"
-    },
-    {
-      "text": "COVID-19 omicron subvariants BA.4 and BA.5 could be \u2018worst\u2019 so far",
-      "url": "/news/covid-19-omicron-subvariants-ba-4-and-ba-5-could-be-worst-so-far-doctors-say"
-    },
-    {
-      "text": "  ",
-      "url": "/news/california-inflation-relief-refund-eligible-qualifies"
-    },
-    {
-      "text": "California inflation relief refund: Here's who's eligible for payment",
-      "url": "/news/california-inflation-relief-refund-eligible-qualifies"
-    },
-    {
-      "text": "  ",
-      "url": "/news/la-county-leaders-considering-seeking-power-to-remove-sheriff"
-    },
-    {
-      "text": "LA County leaders considering seeking power to remove sheriff",
-      "url": "/news/la-county-leaders-considering-seeking-power-to-remove-sheriff"
-    },
-    {
       "text": "Florence-Graham",
       "url": "https://www.foxla.com/weather"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1090975"
+    },
+    {
+      "text": "The Issue Is: Gloria Allred and Larry Elder",
+      "url": "/video/1090975"
     },
     {
       "text": "  video",
@@ -10377,14 +10427,6 @@
     {
       "text": "Rep. Karen Bass on LA mayoral race, Crenshaw-LAX transit project, Gasc\u00f3n recall push",
       "url": "/video/1090867"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1090833"
-    },
-    {
-      "text": "LA City celebrates opening of Sixth Street bridge",
-      "url": "/video/1090833"
     },
     {
       "text": "Privacy Policy",
@@ -10552,6 +10594,14 @@
     },
     {
       "text": "  ",
+      "url": "/news/two-arrested-in-california-after-lighting-man-on-fire"
+    },
+    {
+      "text": "Two arrested in California after lighting man on fire",
+      "url": "/news/two-arrested-in-california-after-lighting-man-on-fire"
+    },
+    {
+      "text": "  ",
       "url": "/news/ucla-grad-describes-expectations-on-first-generation-immigrants"
     },
     {
@@ -10591,14 +10641,6 @@
       "url": "/news/chp-investigating-bay-area-freeway-shooting-dashcam-video-shows-couples-window-shattered"
     },
     {
-      "text": "  ",
-      "url": "/news/california-inflation-relief-refund-eligible-qualifies"
-    },
-    {
-      "text": "California inflation relief refund: Here's who's eligible for payment",
-      "url": "/news/california-inflation-relief-refund-eligible-qualifies"
-    },
-    {
       "text": "Crime & Public Safety",
       "url": "/tag/crime-publicsafety"
     },
@@ -10607,7 +10649,23 @@
       "url": "/tag/crime-publicsafety"
     },
     {
-      "text": "   ",
+      "text": "  ",
+      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
+    },
+    {
+      "text": "Man on roof armed with gun killed in shooting involving Long Beach police",
+      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
+    },
+    {
+      "text": "  ",
+      "url": "/news/two-arrested-in-california-after-lighting-man-on-fire"
+    },
+    {
+      "text": "Two arrested in California after lighting man on fire",
+      "url": "/news/two-arrested-in-california-after-lighting-man-on-fire"
+    },
+    {
+      "text": "  ",
       "url": "/news/police-chase-2-home-invasion-suspects-lead-lapd-on-pursuit-in-panorama-city"
     },
     {
@@ -10639,28 +10697,20 @@
       "url": "/news/young-thug-nephew-murder-arrest-girlfriend-east-point-home"
     },
     {
-      "text": "  ",
-      "url": "/news/robberies-involving-street-vendors-have-increased-by-20-across-los-angeles-police-say"
-    },
-    {
-      "text": "Robberies involving street vendors have increased by 20% across Los Angeles, police say",
-      "url": "/news/robberies-involving-street-vendors-have-increased-by-20-across-los-angeles-police-say"
-    },
-    {
-      "text": "  ",
-      "url": "/news/jamaican-man-sentenced-to-14-years-in-prison-for-supplying-flight-attendant-with-cocaine-money"
-    },
-    {
-      "text": "Jamaican man sentenced to 14 years in prison for supplying flight attendant with cocaine, money",
-      "url": "/news/jamaican-man-sentenced-to-14-years-in-prison-for-supplying-flight-attendant-with-cocaine-money"
-    },
-    {
       "text": "Consumer",
       "url": "/tag/consumer"
     },
     {
       "text": "View More",
       "url": "/tag/consumer"
+    },
+    {
+      "text": "  ",
+      "url": "/news/price-of-forever-stamps-increasing-july-10"
+    },
+    {
+      "text": "Price of forever stamps increasing July 10",
+      "url": "/news/price-of-forever-stamps-increasing-july-10"
     },
     {
       "text": "  ",
@@ -10701,14 +10751,6 @@
     {
       "text": "Enjoy Life issues recall of select baked snacks due to possible plastic pieces",
       "url": "/news/enjoy-life-issues-recall-baked-snacks"
-    },
-    {
-      "text": "  ",
-      "url": "/news/los-angeles-doesnt-have-the-most-million-dollar-homes-in-california-report"
-    },
-    {
-      "text": "These 4 California metros are home to the most million-dollar homes in America: report",
-      "url": "/news/los-angeles-doesnt-have-the-most-million-dollar-homes-in-california-report"
     },
     {
       "text": "Sports",
@@ -10836,6 +10878,22 @@
     },
     {
       "text": "  ",
+      "url": "/news/over-715000-signatures-collected-in-da-george-gascon-recall-effort"
+    },
+    {
+      "text": "Over 715,000 signatures collected in DA George Gasc\u00f3n recall effort",
+      "url": "/news/over-715000-signatures-collected-in-da-george-gascon-recall-effort"
+    },
+    {
+      "text": "  ",
+      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
+    },
+    {
+      "text": "Man on roof armed with gun killed in shooting involving Long Beach police",
+      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
+    },
+    {
+      "text": "  ",
       "url": "/news/three-killed-four-injured-during-fiery-crash-in-orange"
     },
     {
@@ -10867,28 +10925,36 @@
       "url": "/news/heavy-dark-smoke-in-exposition-park-ahead-of-lafc-galaxys-el-trafico"
     },
     {
-      "text": "  ",
-      "url": "/sports/mike-trout-shohei-ohtani-mookie-betts-trea-turner-to-start-all-star-game-in-la"
-    },
-    {
-      "text": "Mike Trout, Shohei Ohtani, Mookie Betts, Trea Turner to start All-Star Game in LA",
-      "url": "/sports/mike-trout-shohei-ohtani-mookie-betts-trea-turner-to-start-all-star-game-in-la"
-    },
-    {
-      "text": "  ",
-      "url": "/news/la-county-to-expand-distribution-of-monkeypox-vaccine"
-    },
-    {
-      "text": "LA County to expand distribution of monkeypox vaccine",
-      "url": "/news/la-county-to-expand-distribution-of-monkeypox-vaccine"
-    },
-    {
       "text": "National News",
       "url": "/national-news"
     },
     {
       "text": "View More",
       "url": "/national-news"
+    },
+    {
+      "text": "  ",
+      "url": "/news/price-of-forever-stamps-increasing-july-10"
+    },
+    {
+      "text": "Price of forever stamps increasing July 10",
+      "url": "/news/price-of-forever-stamps-increasing-july-10"
+    },
+    {
+      "text": "  ",
+      "url": "/news/pa-dispatcher-who-didnt-send-ambulance-charged-in-2020-death"
+    },
+    {
+      "text": "Pa. dispatcher who didn't send ambulance charged in 2020 death",
+      "url": "/news/pa-dispatcher-who-didnt-send-ambulance-charged-in-2020-death"
+    },
+    {
+      "text": "  ",
+      "url": "/news/police-florida-woman-hides-dead-mom-in-freezer-to-collect-her-disability-checks"
+    },
+    {
+      "text": "Police: Florida woman hides dead mom in freezer to collect her disability checks",
+      "url": "/news/police-florida-woman-hides-dead-mom-in-freezer-to-collect-her-disability-checks"
     },
     {
       "text": "  ",
@@ -10913,30 +10979,6 @@
     {
       "text": "Teen\u2019s \u2018I Voted\u2019 sticker design goes viral: \u2018How everybody\u2019s feeling about politics right now\u2019",
       "url": "/news/ulster-county-i-voted-sticker-design"
-    },
-    {
-      "text": "  ",
-      "url": "/news/young-thug-nephew-murder-arrest-girlfriend-east-point-home"
-    },
-    {
-      "text": "Young Thug's nephew charged with murdering girlfriend at East Point home",
-      "url": "/news/young-thug-nephew-murder-arrest-girlfriend-east-point-home"
-    },
-    {
-      "text": "  ",
-      "url": "/news/doctors-confirm-cooper-roberts-paralyzed-from-waist-down-after-highland-park-parade-shooting"
-    },
-    {
-      "text": "Doctors confirm Cooper Roberts paralyzed from waist down after Highland Park parade shooting",
-      "url": "/news/doctors-confirm-cooper-roberts-paralyzed-from-waist-down-after-highland-park-parade-shooting"
-    },
-    {
-      "text": "  ",
-      "url": "/news/us-army-tattoo-policy-2022-military-branch-rules-marines-coast-guard-navy"
-    },
-    {
-      "text": "Army eases tattoo rules \u2014 Here's how it compares to other US military branch policies",
-      "url": "/news/us-army-tattoo-policy-2022-military-branch-rules-marines-coast-guard-navy"
     },
     {
       "text": "Money",
@@ -11443,8 +11485,8 @@
       "url": "/contact-us"
     }
   ],
-  "item_last_updated": 1657390575,
-  "item_size": 98743957,
+  "item_last_updated": 1657414601,
+  "item_size": 99136216,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -11462,7 +11504,7 @@
     "addeddate": "2022-03-23 20:59:13"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 468828759,
+  "uniq": 1137585479,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

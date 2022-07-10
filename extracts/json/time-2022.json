@@ -1,5 +1,5 @@
 {
-  "created": 1657413022,
+  "created": 1657455583,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/28/items/time-2022",
@@ -1938,31 +1938,73 @@
       "sha1": "bb93314f5fb2f78fcbdb4ec2c0e4ce374305f3cf"
     },
     {
+      "name": "time-2022-07-09T23:25:30.623464-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657423534",
+      "size": "40877",
+      "md5": "9e0cfe1be43afcaf42000464b8b46247",
+      "crc32": "26b042c8",
+      "sha1": "3f009cdbd2ab21f52cb596dee51aed6beb3bca7a",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-09T23:25:30.623464-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657423535",
+      "size": "48600",
+      "md5": "ff022ea6aa464c37d1103e2c61b2b342",
+      "crc32": "b371abec",
+      "sha1": "3f208e96519f3c1d9d505e356e234b93374d3c03",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-09T23:25:30.623464-04:00.jpg",
+      "source": "original",
+      "mtime": "1657423532",
+      "size": "285504",
+      "md5": "0d5ef7cc6bf49a65c85f0e2e6fe5371b",
+      "crc32": "6ed6452b",
+      "sha1": "6ef83717d6b1d4c4b2b73617c1879c6148297423",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-07-09T23:25:30.623464-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-07-09T23:25:30.623464-04:00.jpg",
+      "mtime": "1657423591",
+      "size": "10863",
+      "md5": "4fd84151e839fe7ad6ed051299874d5b",
+      "crc32": "1a5a66d4",
+      "sha1": "6ad396a1d6dcf1da848ea0e308ffacd06a32c841"
+    },
+    {
       "name": "time-2022_archive.torrent",
       "source": "metadata",
-      "btih": "25f47974bf775215bd420abdb1ca8bf940f1d27d",
-      "mtime": "1657378147",
-      "size": "39525",
-      "md5": "ba6b22a05509fc59d4b3d0bc7face517",
-      "crc32": "09a3a598",
-      "sha1": "d6723635a3aa0fd9d21a05321b7f4ef364fec901",
+      "btih": "aa03b1f2902433d28b8298fb88a0382a88c0732e",
+      "mtime": "1657423596",
+      "size": "40339",
+      "md5": "77c23fd790bbeb9034c9347f6c8259ef",
+      "crc32": "7b198bc9",
+      "sha1": "d25eb89e9b67b7f7b4ced6c32cbb4d3bc25f85c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "time-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3ada304b7ac6bba6c485ea954ecd55b0",
+      "md5": "552dc898bb80f4bc531bb87f1f470acc",
       "summation": "md5"
     },
     {
       "name": "time-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657378101",
-      "size": "229376",
-      "md5": "7b7f6fb378292eb0979deebe66d137f6",
-      "crc32": "da799f25",
-      "sha1": "c3355a1217b8e045a713191d2b57e27f90892b8b",
+      "mtime": "1657423539",
+      "size": "233472",
+      "md5": "2b454b392e6dd7eb433d51caeb6907de",
+      "crc32": "408e8ebd",
+      "sha1": "2b80d20651a4c4a4c9688aece64f9a6e9df2f3ac",
       "format": "Metadata"
     },
     {
@@ -1976,9 +2018,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 188,
-  "item_last_updated": 1657378147,
-  "item_size": 18424776,
+  "files_count": 192,
+  "item_last_updated": 1657423596,
+  "item_size": 18815530,
   "metadata": {
     "identifier": "time-2022",
     "collection": [
@@ -1996,1641 +2038,893 @@
     "addeddate": "2022-06-24 23:04:02"
   },
   "server": "ia801500.us.archive.org",
-  "time-2022": {
-    "role": "WebArea",
-    "name": "TIME | Current & Breaking News | National & World Updates",
-    "children": [
-      {
-        "role": "heading",
-        "name": "TIME | Current & Breaking News | National & World Updates",
-        "level": 1
-      },
-      {
-        "role": "link",
-        "name": "Sign Up for Our Newsletter",
-        "description": "Sign Up for Our Newsletter",
-        "children": [
-          {
-            "role": "text",
-            "name": "Sign Up for Our Newsletter"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "TIME logo"
-      },
-      {
-        "role": "link",
-        "name": "SIGN IN"
-      },
-      {
-        "role": "link",
-        "name": "SUBSCRIBE FOR 99\u00a2"
-      },
-      {
-        "role": "button",
-        "name": "Menu",
-        "description": "Menu"
-      },
-      {
-        "role": "link",
-        "name": "Logo"
-      },
-      {
-        "role": "link",
-        "name": "SPOTLIGHT STORY REMEMBERING SHINZO ABE"
-      },
-      {
-        "role": "button",
-        "name": "Search",
-        "description": "Search"
-      },
-      {
-        "role": "textbox",
-        "name": "Search...",
-        "description": "Search..."
-      },
-      {
-        "role": "button",
-        "name": "Close Search",
-        "description": "Close Search"
-      },
-      {
-        "role": "text",
-        "name": "SECTIONS"
-      },
-      {
-        "role": "link",
-        "name": "Home"
-      },
-      {
-        "role": "link",
-        "name": "U.S."
-      },
-      {
-        "role": "link",
-        "name": "Politics"
-      },
-      {
-        "role": "link",
-        "name": "World"
-      },
-      {
-        "role": "link",
-        "name": "Health"
-      },
-      {
-        "role": "link",
-        "name": "Climate"
-      },
-      {
-        "role": "link",
-        "name": "Personal Finance by NextAdvisor"
-      },
-      {
-        "role": "link",
-        "name": "Future of Work by Charter"
-      },
-      {
-        "role": "link",
-        "name": "Business"
-      },
-      {
-        "role": "link",
-        "name": "Tech"
-      },
-      {
-        "role": "link",
-        "name": "Entertainment"
-      },
-      {
-        "role": "link",
-        "name": "Ideas"
-      },
-      {
-        "role": "link",
-        "name": "Science"
-      },
-      {
-        "role": "link",
-        "name": "History"
-      },
-      {
-        "role": "link",
-        "name": "Sports"
-      },
-      {
-        "role": "link",
-        "name": "Magazine"
-      },
-      {
-        "role": "link",
-        "name": "TIME 2030"
-      },
-      {
-        "role": "link",
-        "name": "TIME Studios"
-      },
-      {
-        "role": "link",
-        "name": "Video"
-      },
-      {
-        "role": "link",
-        "name": "TIME100 Talks"
-      },
-      {
-        "role": "link",
-        "name": "TIMEPieces"
-      },
-      {
-        "role": "link",
-        "name": "The TIME Vault"
-      },
-      {
-        "role": "link",
-        "name": "TIME for Health"
-      },
-      {
-        "role": "link",
-        "name": "TIME for Kids"
-      },
-      {
-        "role": "link",
-        "name": "TIME Edge"
-      },
-      {
-        "role": "link",
-        "name": "Red Border: Branded Content by TIME"
-      },
-      {
-        "role": "text",
-        "name": "JOIN US"
-      },
-      {
-        "role": "link",
-        "name": "Newsletters"
-      },
-      {
-        "role": "link",
-        "name": "Subscribe"
-      },
-      {
-        "role": "link",
-        "name": "Subscriber Benefits"
-      },
-      {
-        "role": "link",
-        "name": "Give a Gift"
-      },
-      {
-        "role": "link",
-        "name": "Shop the TIME Store"
-      },
-      {
-        "role": "link",
-        "name": "Connect Wallet"
-      },
-      {
-        "role": "text",
-        "name": "CUSTOMER CARE"
-      },
-      {
-        "role": "link",
-        "name": "US & Canada"
-      },
-      {
-        "role": "link",
-        "name": "Global Help Center"
-      },
-      {
-        "role": "text",
-        "name": "REACH OUT"
-      },
-      {
-        "role": "link",
-        "name": "Careers"
-      },
-      {
-        "role": "link",
-        "name": "Press Room"
-      },
-      {
-        "role": "link",
-        "name": "Contact the Editors"
-      },
-      {
-        "role": "link",
-        "name": "Media Kit"
-      },
-      {
-        "role": "link",
-        "name": "Reprints and Permissions"
-      },
-      {
-        "role": "text",
-        "name": "MORE"
-      },
-      {
-        "role": "link",
-        "name": "Privacy Policy"
-      },
-      {
-        "role": "link",
-        "name": "Your California Privacy Rights"
-      },
-      {
-        "role": "link",
-        "name": "Terms of Use"
-      },
-      {
-        "role": "link",
-        "name": "Site Map"
-      },
-      {
-        "role": "text",
-        "name": "CONNECT WITH US"
-      },
-      {
-        "role": "link",
-        "name": "Share on Facebook (opens in a new window)",
-        "description": "Facebook share (opens in a new window)"
-      },
-      {
-        "role": "link",
-        "name": "Share on Instagram (opens in a new window)",
-        "description": "Instagram share (opens in a new window)"
-      },
-      {
-        "role": "link",
-        "name": "Share on Twitter (opens in a new window)",
-        "description": "Twitter share (opens in a new window)"
-      },
-      {
-        "role": "link",
-        "name": "Share on Pinterest (opens in a new window)",
-        "description": "Pinterest share (opens in a new window)"
-      },
-      {
-        "role": "heading",
-        "name": "Lede Stories",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Shinzo Abe Rewrote Japan's Place in the World"
-      },
-      {
-        "role": "text",
-        "name": "Kent Nishimura\u2014Getty Images"
-      },
-      {
-        "role": "link",
-        "name": "Shinzo Abe Rewrote Japan's Place in the World"
-      },
-      {
-        "role": "text",
-        "name": "JULY 8, 2022 \u2022 7:40 AM EDT"
-      },
-      {
-        "role": "text",
-        "name": "Abe died after being shot on Friday while making a speech during a campaign event"
-      },
-      {
-        "role": "link",
-        "name": "Armed Demonstrators and Far-Right Groups Are Escalating Tensions at Abortion Protests"
-      },
-      {
-        "role": "link",
-        "name": "Armed Demonstrators and Far-Right Groups Are Escalating Tensions at Abortion Protests"
-      },
-      {
-        "role": "text",
-        "name": "JULY 8, 2022 \u2022 7:00 AM EDT"
-      },
-      {
-        "role": "link",
-        "name": "How the World Is Reacting to Shinzo Abe\u2019s Death"
-      },
-      {
-        "role": "link",
-        "name": "How the World Is Reacting to Shinzo Abe\u2019s Death"
-      },
-      {
-        "role": "text",
-        "name": "JULY 8, 2022 \u2022 7:38 AM EDT"
-      },
-      {
-        "role": "link",
-        "name": "Ukraine's First Lady Olena Zelenska Takes On the Trauma Of War"
-      },
-      {
-        "role": "link",
-        "name": "Ukraine's First Lady Olena Zelenska Takes On the Trauma Of War"
-      },
-      {
-        "role": "text",
-        "name": "JULY 7, 2022 \u2022 5:00 AM EDT"
-      },
-      {
-        "role": "heading",
-        "name": "MOST READ",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "1"
-      },
-      {
-        "role": "link",
-        "name": "POLITICS"
-      },
-      {
-        "role": "link",
-        "name": "Everything You're Hearing About Gas Prices Is Wrong"
-      },
-      {
-        "role": "text",
-        "name": "2"
-      },
-      {
-        "role": "link",
-        "name": "HEALTH"
-      },
-      {
-        "role": "link",
-        "name": "Scientists Have a New Tool for Tracking COVID-19 Variants: Human Waste"
-      },
-      {
-        "role": "text",
-        "name": "3"
-      },
-      {
-        "role": "link",
-        "name": "IDEAS"
-      },
-      {
-        "role": "link",
-        "name": "I'm a Doctor Who Cares for Newborns. I\u2019m Nervous After the End of Roe"
-      },
-      {
-        "role": "text",
-        "name": "4"
-      },
-      {
-        "role": "link",
-        "name": "ENTERTAINMENT"
-      },
-      {
-        "role": "link",
-        "name": "The Marvel Cinematic Universe Doesn't Make Sense Anymore"
-      },
-      {
-        "role": "heading",
-        "name": "YOU SHOULD KNOW",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "ABORTION When Is an Abortion Lifesaving? It's No Longer Clear for Doctors and Patients Jamie Ducharme And Tara Law"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "COVID-19 Americans Still Disagree on Practically Everything About COVID-19 Jeffrey Kluger"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "UNITED KINGDOM Why U.K. Prime Minister Boris Johnson Resigned Billy Perrigo / London"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "UNITED KINGDOM Here\u2019s How a New U.K. Prime Minister Will Be Selected Eloise Barry / London"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "CLIMATE CHANGE Everything You're Hearing About Gas Prices Is Wrong Justin Worland"
-      },
-      {
-        "role": "heading",
-        "name": "CORONAVIRUS IN-DEPTH",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Subscribe to The Coronavirus Brief"
-      },
-      {
-        "role": "text",
-        "name": "U.S. \u25b8"
-      },
-      {
-        "role": "text",
-        "name": "Total"
-      },
-      {
-        "role": "text",
-        "name": "14-day Trend"
-      },
-      {
-        "role": "text",
-        "name": "Cases"
-      },
-      {
-        "role": "text",
-        "name": "86,297,081"
-      },
-      {
-        "role": "text",
-        "name": "-9.8%"
-      },
-      {
-        "role": "text",
-        "name": "Deaths"
-      },
-      {
-        "role": "text",
-        "name": "1,013,493"
-      },
-      {
-        "role": "text",
-        "name": "+3.7%"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "heading",
-        "name": "U.S. Hotspots",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "heading",
-        "name": "Global Hotspots",
-        "level": 3
-      },
-      {
-        "role": "text",
-        "name": "Global \u25b8"
-      },
-      {
-        "role": "text",
-        "name": "Total"
-      },
-      {
-        "role": "text",
-        "name": "14-day Trend"
-      },
-      {
-        "role": "text",
-        "name": "Cases"
-      },
-      {
-        "role": "text",
-        "name": "539,713,364"
-      },
-      {
-        "role": "text",
-        "name": "+12.0%"
-      },
-      {
-        "role": "text",
-        "name": "Deaths"
-      },
-      {
-        "role": "text",
-        "name": "6,320,326"
-      },
-      {
-        "role": "text",
-        "name": "+4.3%"
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "1 in 5 People Who Get COVID-19 Develop Lingering Conditions",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Why the Gym Is Risky for COVID-19",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Air Pollution May Increase the Risk of Severe COVID-19",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "COVID-19 In Kids Under 5: What Parents Should Know",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "VIDEO",
-        "children": [
-          {
-            "role": "text",
-            "name": "VIDEO"
-          }
-        ]
-      },
-      {
-        "role": "application",
-        "name": "Video Player",
-        "description": "Press shift question mark to access a list of keyboard shortcuts",
-        "children": [
-          {
-            "role": "Video",
-            "name": ""
-          },
-          {
-            "role": "text",
-            "name": "0 seconds of 8 minutes, 41 seconds"
-          },
-          {
-            "role": "text",
-            "name": "Volume 0%"
-          },
-          {
-            "role": "button",
-            "name": "Play"
-          },
-          {
-            "role": "text",
-            "name": "\u00a0"
-          }
-        ]
-      },
-      {
-        "role": "heading",
-        "name": "How Abortion is Being Depicted Across Film and Television",
-        "level": 3
-      },
-      {
-        "role": "text",
-        "name": "Jul 5, 2022"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "8:41"
-      },
-      {
-        "role": "text",
-        "name": "TIME explores abortion and how it's covered across media; from films that tell cautionary tales and depict the procedure as life-upending to more compassionate pieces that portray the varied experiences of women."
-      },
-      {
-        "role": "heading",
-        "name": "WATCH NEXT",
-        "level": 3
-      },
-      {
-        "role": "text",
-        "name": "NOW PLAYING"
-      },
-      {
-        "role": "text",
-        "name": "PLAY"
-      },
-      {
-        "role": "heading",
-        "name": "How Abortion is Being Depicted Across Film and Television",
-        "level": 3
-      },
-      {
-        "role": "text",
-        "name": "Jul 5, 2022"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "8:41"
-      },
-      {
-        "role": "text",
-        "name": "NOW PLAYING"
-      },
-      {
-        "role": "text",
-        "name": "PLAY"
-      },
-      {
-        "role": "heading",
-        "name": "Rapper Saucy Santana Knows He\u2019s Always Had That 'It' Factor",
-        "level": 3
-      },
-      {
-        "role": "text",
-        "name": "Jun 23, 2022"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "6:40"
-      },
-      {
-        "role": "text",
-        "name": "NOW PLAYING"
-      },
-      {
-        "role": "text",
-        "name": "PLAY"
-      },
-      {
-        "role": "heading",
-        "name": "16 LGBTQ Movies to Watch This Pride Month",
-        "level": 3
-      },
-      {
-        "role": "text",
-        "name": "Jun 2, 2022"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "7:37"
-      },
-      {
-        "role": "text",
-        "name": "NOW PLAYING"
-      },
-      {
-        "role": "text",
-        "name": "PLAY"
-      },
-      {
-        "role": "heading",
-        "name": "The Side Hustles of Peloton's Most Popular Instructors",
-        "level": 3
-      },
-      {
-        "role": "text",
-        "name": "Jun 15, 2022"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "2:32"
-      },
-      {
-        "role": "heading",
-        "name": "FEATURED VOICES",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Lane Clarke"
-      },
-      {
-        "role": "link",
-        "name": "My Mom Gave Birth to Me After She Was Assaulted. Don't Use My Story as an Anti-Abortion Talking Point"
-      },
-      {
-        "role": "link",
-        "name": "Afreen Fatima"
-      },
-      {
-        "role": "link",
-        "name": "Bulldozers Razed My Home: SOS From an Indian Muslim"
-      },
-      {
-        "role": "link",
-        "name": "Greer Donley"
-      },
-      {
-        "role": "text",
-        "name": ","
-      },
-      {
-        "role": "link",
-        "name": "Jill Wieber Lens"
-      },
-      {
-        "role": "link",
-        "name": "The Devastating Implications of Overturning Roe Will Go Far Beyond Abortion Patients"
-      },
-      {
-        "role": "link",
-        "name": "Susie Alegre"
-      },
-      {
-        "role": "link",
-        "name": "We're Dangerously Close to Giving Big Tech Control Of Our Thoughts"
-      },
-      {
-        "role": "link",
-        "name": "Melinda French Gates"
-      },
-      {
-        "role": "link",
-        "name": "Decisions Are Still Being Made For Women, Instead of By Them. We\u2019re Suffering As a Result"
-      },
-      {
-        "role": "link",
-        "name": "Vangela M. Wade"
-      },
-      {
-        "role": "link",
-        "name": "Don\u2019t Use Racial Equality to Justify Stripping Women of Their Right to Choose"
-      },
-      {
-        "role": "heading",
-        "name": "LATEST STORIES",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Elon Musk Says He's Terminating Twitter Deal, Board to Fight"
-      },
-      {
-        "role": "text",
-        "name": "JULY 8, 2022 \u2022 7:01 PM EDT"
-      },
-      {
-        "role": "link",
-        "name": "Abenomics Explained: How Shinzo Abe\u2019s Contentious Economic Plan Transformed Japan"
-      },
-      {
-        "role": "text",
-        "name": "JULY 8, 2022 \u2022 6:32 PM EDT"
-      },
-      {
-        "role": "link",
-        "name": "How to Build a Sex Room Host Melanie Rose Has 4 Tips for Designing Intimate Spaces"
-      },
-      {
-        "role": "text",
-        "name": "JULY 8, 2022 \u2022 5:02 PM EDT"
-      },
-      {
-        "role": "link",
-        "name": "Russia Angers the World With Space Station War Propaganda"
-      },
-      {
-        "role": "text",
-        "name": "JULY 8, 2022 \u2022 4:20 PM EDT"
-      },
-      {
-        "role": "link",
-        "name": "Looking Back at TIME's Coverage of Shinzo Abe: 'I Am a Patriot.'"
-      },
-      {
-        "role": "text",
-        "name": "JULY 8, 2022 \u2022 4:00 PM EDT"
-      },
-      {
-        "role": "link",
-        "name": "Losing a Loved One Can Be Life-Threatening"
-      },
-      {
-        "role": "text",
-        "name": "JULY 8, 2022 \u2022 3:28 PM EDT"
-      },
-      {
-        "role": "text",
-        "name": "Subscribe now to get unlimited access to\u00a0"
-      },
-      {
-        "role": "link",
-        "name": "TIME.com"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0and more!"
-      },
-      {
-        "role": "text",
-        "name": "TIME Digital Magazine"
-      },
-      {
-        "role": "text",
-        "name": "Inside TIME Newsletter, emailed twice weekly"
-      },
-      {
-        "role": "text",
-        "name": "Discounts at the TIME Cover Store"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0"
-      },
-      {
-        "role": "link",
-        "name": "SUBSCRIBE NOW",
-        "children": [
-          {
-            "role": "button",
-            "name": "SUBSCRIBE NOW"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "current time cover image"
-      },
-      {
-        "role": "heading",
-        "name": "LISTEN TO TODAY'S TOP STORIES",
-        "level": 2
-      },
-      {
-        "role": "Iframe",
-        "name": "Audio player for Time's Brief Newsletter articles"
-      },
-      {
-        "role": "heading",
-        "name": "EXPLORE MORE",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Explore More, item 1"
-      },
-      {
-        "role": "link",
-        "name": "Explore More, item 2"
-      },
-      {
-        "role": "link",
-        "name": "Explore More, item 3"
-      },
-      {
-        "role": "link",
-        "name": "Explore More, item 4"
-      },
-      {
-        "role": "link",
-        "name": "Explore More, item 5"
-      },
-      {
-        "role": "text",
-        "name": "Get The Brief newsletter."
-      },
-      {
-        "role": "text",
-        "name": "Sign up to receive the top stories you need to know right now."
-      },
-      {
-        "role": "textbox",
-        "name": "Enter your email",
-        "required": true,
-        "invalid": "true"
-      },
-      {
-        "role": "button",
-        "name": "SIGN UP NOW"
-      },
-      {
-        "role": "text",
-        "name": "You can unsubscribe at any time. By signing up you are agreeing to our"
-      },
-      {
-        "role": "link",
-        "name": "Terms of Service"
-      },
-      {
-        "role": "text",
-        "name": "and"
-      },
-      {
-        "role": "link",
-        "name": "Privacy Policy"
-      },
-      {
-        "role": "text",
-        "name": "."
-      },
-      {
-        "role": "link",
-        "name": "UKRAINE UNDER ATTACK",
-        "children": [
-          {
-            "role": "text",
-            "name": "UKRAINE UNDER ATTACK"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "text",
-            "name": "Alexander Chekmenev for TIME"
-          },
-          {
-            "role": "heading",
-            "name": "Ukraine's First Lady Olena Zelenska Takes On the Trauma Of War",
-            "level": 3
-          },
-          {
-            "role": "text",
-            "name": "While her husband has focused on securing weapons and other support from the West, Zelenska has found her voice as a wartime leader of a different kind."
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "The Foreign Women Joining Ukraine\u2019s Fight Against Russia",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Inside Zelensky's World",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "U.S. Welcomes Ukrainians\u2014But Without Benefits",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "5 Ukrainian Photographers Document the War",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "THE 46TH PRESIDENT",
-        "children": [
-          {
-            "role": "text",
-            "name": "THE 46TH PRESIDENT"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Subscribe to our politics newsletter"
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "text",
-            "name": "Stefani Reynolds\u2014AFP/Getty"
-          },
-          {
-            "role": "heading",
-            "name": "Buffalo Exposes Limits Of Biden's Domestic Terror Strategy",
-            "level": 3
-          },
-          {
-            "role": "text",
-            "name": "\u201cThis is not 2001, where we\u2019re wondering why radicalization happens.\""
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Politicians Created the Formula Shortage. Can They Fix It?",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Remain in Mexico Battle Shows Flawed U.S. Immigration Policy",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Biden's Abortion Stance and Catholic Faith Have Never Been More at Odds",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Biden Tries to Stop and Document Russian Atrocities in Ukraine",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "RACE IN AMERICA",
-        "children": [
-          {
-            "role": "text",
-            "name": "RACE IN AMERICA"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "America Needs to Examine Its Relationship to Black Suffering",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "On Being Black and Asian in America",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Minneapolis' Struggle to Reform Police After George Floyd",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "I Moved to America for a Better Life. Here's Why I'm Leaving",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "The Growing Racial Gap in Childhood Exposure to Gun Violence",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "heading",
-        "name": "MONEY, INNOVATION & LEADERSHIP",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Subscribe to the Leadership Brief newsletter"
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Inside the Release of Unreal Engine 5",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "3D-Printed Homes Could Help Solve Affordable Housing Crisis",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "This Tech Leader is Harnessing Collective Action to Green the Grid",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Why Crypto Scams Are Driving an Online Crime Boom \u2014 And How to Outsmart Them",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "FUTURE OF WORK",
-        "children": [
-          {
-            "role": "text",
-            "name": "FUTURE OF WORK"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Subscribe to the Charter newsletter"
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "How to Avoid Being Stuck With Dead-End Work",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "How Workplaces Should Approach Covid Precautions Now",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "What Happens When A Company Puts Purpose Ahead of Profits",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Breastfeeding Access Is a Workplace Issue",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "PERSONAL FINANCE BY NEXTADVISOR",
-        "children": [
-          {
-            "role": "text",
-            "name": "PERSONAL FINANCE BY NEXTADVISOR"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Subscribe to the NextAdvisor newsletter"
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "How I'm Making My Kids Millionaires By Hiring Them and Investing Their Income",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Mortgage Rates Are Rising Fast. Here's What It Means for You",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Bitcoin's Price: What New Crypto Investors Should Know",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Investing for Beginners: How to Get Started",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "CLIMATE IS EVERYTHING",
-        "children": [
-          {
-            "role": "text",
-            "name": "CLIMATE IS EVERYTHING"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Subscribe to the climate newsletter"
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "This Is How We Quit Big Oil",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Warmer Winters Are Erasing Alaskan Native Traditions in the Arctic",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Outdoor Workers Have Little Protection In A Warming World",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "U.S. Plastic Recycling Rates Are Even Worse Than We Thought",
-            "level": 3
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Logo"
-      },
-      {
-        "role": "link",
-        "name": "Share on Facebook",
-        "description": "Facebook share"
-      },
-      {
-        "role": "link",
-        "name": "Share on Instagram",
-        "description": "Instagram share"
-      },
-      {
-        "role": "link",
-        "name": "Share on Twitter",
-        "description": "Twitter share"
-      },
-      {
-        "role": "link",
-        "name": "Share on Pinterest",
-        "description": "Pinterest share"
-      },
-      {
-        "role": "link",
-        "name": "Home"
-      },
-      {
-        "role": "link",
-        "name": "U.S."
-      },
-      {
-        "role": "link",
-        "name": "Politics"
-      },
-      {
-        "role": "link",
-        "name": "World"
-      },
-      {
-        "role": "link",
-        "name": "Health"
-      },
-      {
-        "role": "link",
-        "name": "Personal Finance by NextAdvisor"
-      },
-      {
-        "role": "link",
-        "name": "Future of Work by Charter"
-      },
-      {
-        "role": "link",
-        "name": "Business"
-      },
-      {
-        "role": "link",
-        "name": "Tech"
-      },
-      {
-        "role": "link",
-        "name": "Entertainment"
-      },
-      {
-        "role": "link",
-        "name": "Ideas"
-      },
-      {
-        "role": "link",
-        "name": "Science"
-      },
-      {
-        "role": "link",
-        "name": "History"
-      },
-      {
-        "role": "link",
-        "name": "Newsfeed"
-      },
-      {
-        "role": "link",
-        "name": "Sports"
-      },
-      {
-        "role": "link",
-        "name": "Magazine"
-      },
-      {
-        "role": "link",
-        "name": "The TIME Vault"
-      },
-      {
-        "role": "link",
-        "name": "TIME For Kids"
-      },
-      {
-        "role": "link",
-        "name": "TIME Edge"
-      },
-      {
-        "role": "link",
-        "name": "Video"
-      },
-      {
-        "role": "link",
-        "name": "Masthead"
-      },
-      {
-        "role": "link",
-        "name": "Newsletters"
-      },
-      {
-        "role": "link",
-        "name": "Subscribe"
-      },
-      {
-        "role": "link",
-        "name": "Subscriber Benefits"
-      },
-      {
-        "role": "link",
-        "name": "Give a Gift"
-      },
-      {
-        "role": "link",
-        "name": "Shop the TIME Store"
-      },
-      {
-        "role": "link",
-        "name": "Careers"
-      },
-      {
-        "role": "link",
-        "name": "Press Room"
-      },
-      {
-        "role": "link",
-        "name": "TIME Studios"
-      },
-      {
-        "role": "link",
-        "name": "U.S. & Canada Customer Care"
-      },
-      {
-        "role": "link",
-        "name": "Global Help Center"
-      },
-      {
-        "role": "link",
-        "name": "Contact the Editors"
-      },
-      {
-        "role": "link",
-        "name": "Reprints and Permissions"
-      },
-      {
-        "role": "link",
-        "name": "Site Map"
-      },
-      {
-        "role": "link",
-        "name": "Media Kit"
-      },
-      {
-        "role": "text",
-        "name": "\u00a9 2022 TIME USA, LLC. All Rights Reserved. Use of this site constitutes acceptance of our"
-      },
-      {
-        "role": "link",
-        "name": "Terms of Service"
-      },
-      {
-        "role": "text",
-        "name": ","
-      },
-      {
-        "role": "link",
-        "name": "Privacy Policy"
-      },
-      {
-        "role": "text",
-        "name": "("
-      },
-      {
-        "role": "link",
-        "name": "Your California Privacy Rights"
-      },
-      {
-        "role": "text",
-        "name": ") and"
-      },
-      {
-        "role": "link",
-        "name": "Do Not Sell My Personal Information"
-      },
-      {
-        "role": "text",
-        "name": "."
-      },
-      {
-        "role": "text",
-        "name": "TIME may receive compensation for some links to products and services on this website. Offers may be subject to change without notice."
-      },
-      {
-        "role": "text",
-        "name": "This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners."
-      },
-      {
-        "role": "button",
-        "name": "Accept Cookies",
-        "focused": true
-      },
-      {
-        "role": "button",
-        "name": "Cookie Settings"
-      },
-      {
-        "role": "button",
-        "name": "Close"
-      }
-    ]
-  },
-  "uniq": 2060774867,
+  "time-2022": [
+    {
+      "text": "Sign Up for Our Newsletter \n              \n                \n                \n              \n            ",
+      "url": "https://cloud.newsletters.time.com/newsletters/?source=TD_CMS_HP_Nav"
+    },
+    {
+      "text": "\n                      \n                        TIME logo\n                        \n                      \n                  ",
+      "url": "/"
+    },
+    {
+      "text": "\n                    Sign In\n                  ",
+      "url": "#"
+    },
+    {
+      "text": "Manage Account",
+      "url": "/manage-account-header"
+    },
+    {
+      "text": "Digital Magazines",
+      "url": "https://geo.ema.gs/timegeo"
+    },
+    {
+      "text": "Subscriber Benefits",
+      "url": "/subscriber-benefits"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://time.com/help"
+    },
+    {
+      "text": "Sign Out",
+      "url": ""
+    },
+    {
+      "text": "\n                            SUBSCRIBE FOR 99\u00a2\n                  ",
+      "url": "/subscribe-header-time"
+    },
+    {
+      "text": "\n                      \n                        TIME logo\n                        \n                      \n                  ",
+      "url": "/"
+    },
+    {
+      "text": "\n                            \n                                      SUBSCRIBE FOR 99\u00a2\n                            \n                            Subscribe\n                          ",
+      "url": "/subscribe-header-time"
+    },
+    {
+      "text": "\n                         Spotlight Story \n                        Remembering Shinzo Abe\n                      ",
+      "url": "https://time.com/6194956/shinzo-abe-dies-assassination-obituary/"
+    },
+    {
+      "text": "Manage Account",
+      "url": "/manage-account"
+    },
+    {
+      "text": "Digital\n                        Magazines",
+      "url": "https://geo.ema.gs/timegeo"
+    },
+    {
+      "text": "Subscriber Benefits",
+      "url": "/subscriber-benefits"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://time.com/help"
+    },
+    {
+      "text": "Sign Out",
+      "url": ""
+    },
+    {
+      "text": "\n                    Sign In\n                  ",
+      "url": "/login-hamburger"
+    },
+    {
+      "text": "\n                      Home\n                    ",
+      "url": "https://time.com"
+    },
+    {
+      "text": "\n                      U.S.\n                    ",
+      "url": "https://time.com/section/us/"
+    },
+    {
+      "text": "\n                      Politics\n                    ",
+      "url": "https://time.com/section/politics/"
+    },
+    {
+      "text": "\n                      World\n                    ",
+      "url": "https://time.com/section/world/"
+    },
+    {
+      "text": "\n                      Health\n                    ",
+      "url": "https://time.com/section/health/"
+    },
+    {
+      "text": "\n                      Climate\n                    ",
+      "url": "https://time.com/section/climate/"
+    },
+    {
+      "text": "\n                      Personal Finance by NextAdvisor\n                    ",
+      "url": "https://time.com/nextadvisor/?utm_source=time&utm_medium=referral&utm_campaign=time_hb_nav"
+    },
+    {
+      "text": "\n                      Future of Work by Charter\n                    ",
+      "url": "https://time.com/charter/"
+    },
+    {
+      "text": "\n                      Business\n                    ",
+      "url": "https://time.com/section/business/"
+    },
+    {
+      "text": "\n                      Tech\n                    ",
+      "url": "https://time.com/section/tech/"
+    },
+    {
+      "text": "\n                      Entertainment\n                    ",
+      "url": "https://time.com/section/entertainment/"
+    },
+    {
+      "text": "\n                      Ideas\n                    ",
+      "url": "https://time.com/section/ideas/"
+    },
+    {
+      "text": "\n                      Science\n                    ",
+      "url": "https://time.com/section/science/"
+    },
+    {
+      "text": "\n                      History\n                    ",
+      "url": "https://time.com/section/history/"
+    },
+    {
+      "text": "\n                      Sports\n                    ",
+      "url": "https://time.com/section/sports/"
+    },
+    {
+      "text": "\n                      Magazine\n                    ",
+      "url": "https://time.com/magazine"
+    },
+    {
+      "text": "\n                      TIME 2030\n                    ",
+      "url": "https://time.com/time2030"
+    },
+    {
+      "text": "\n                      TIME Studios\n                    ",
+      "url": "https://time.com/studios/"
+    },
+    {
+      "text": "\n                      Video\n                    ",
+      "url": "https://time.com/collection/video/"
+    },
+    {
+      "text": "\n                      TIME100 Talks\n                    ",
+      "url": "https://time.com/collection/time100-talks/"
+    },
+    {
+      "text": "\n                      TIMEPieces\n                    ",
+      "url": "https://time.com/collection/timepieces-nft/"
+    },
+    {
+      "text": "\n                      The TIME Vault\n                    ",
+      "url": "https://time.com/vault/"
+    },
+    {
+      "text": "\n                      TIME for Health\n                    ",
+      "url": "https://time.com/collection/live-well/"
+    },
+    {
+      "text": "\n                      TIME for Kids\n                    ",
+      "url": "https://www.timeforkids.com"
+    },
+    {
+      "text": "\n                      TIME Edge\n                    ",
+      "url": "https://www.timeedge.com/login"
+    },
+    {
+      "text": "\n                      Red Border: Branded Content by TIME\n                    ",
+      "url": "http://time.com/partners/branded-content"
+    },
+    {
+      "text": "\n                      Newsletters\n                    ",
+      "url": "https://time.com/newsletters/?source=time_nav"
+    },
+    {
+      "text": "\n                      Subscribe\n                    ",
+      "url": "https://time.com/subscribe-hamburger-time"
+    },
+    {
+      "text": "\n                      Subscriber Benefits\n                    ",
+      "url": "https://time.com/subscriber-benefits/"
+    },
+    {
+      "text": "\n                      Give a Gift\n                    ",
+      "url": "https://time.com/give-a-gift/"
+    },
+    {
+      "text": "\n                      Shop the TIME Store\n                    ",
+      "url": "https://timecoverstore.com/"
+    },
+    {
+      "text": "\n                      Connect Wallet\n                    ",
+      "url": "https://time.com/connect-crypto-wallet/"
+    },
+    {
+      "text": "\n                      US & Canada\n                    ",
+      "url": "https://support.time.com/hc/en-us"
+    },
+    {
+      "text": "\n                      Global Help Center\n                    ",
+      "url": "https://support.time.com/hc/en-us/sections/1500001791741"
+    },
+    {
+      "text": "\n                      Careers\n                    ",
+      "url": "https://time.com/longform/join-time/"
+    },
+    {
+      "text": "\n                      Press Room\n                    ",
+      "url": "https://time.com/section/press-room/"
+    },
+    {
+      "text": "\n                      Contact the Editors\n                    ",
+      "url": "mailto:letters@time.com"
+    },
+    {
+      "text": "\n                      Media Kit\n                    ",
+      "url": "http://time.com/mediakit"
+    },
+    {
+      "text": "\n                      Reprints and Permissions\n                    ",
+      "url": "https://www.parsintl.com/publication/time"
+    },
+    {
+      "text": "\n                      Privacy Policy\n                    ",
+      "url": "https://time.com/privacy/generic_privacy_new.html"
+    },
+    {
+      "text": "\n                      Your California Privacy Rights\n                    ",
+      "url": "https://time.com/privacy/generic_privacy_new.html#_Toc26698205"
+    },
+    {
+      "text": "\n                      Terms of Use\n                    ",
+      "url": "https://time.com/privacy/privacy_terms_service.html"
+    },
+    {
+      "text": "\n                      Site Map\n                    ",
+      "url": "https://time.com/html-sitemap/"
+    },
+    {
+      "text": "\n                      \n                        \n                      \n                          ",
+      "url": "https://www.facebook.com/time"
+    },
+    {
+      "text": "\n                      \n                        \n                      \n                          ",
+      "url": "https://www.instagram.com/time/?hl=en"
+    },
+    {
+      "text": "\n                      \n                        \n                      \n                          ",
+      "url": "https://twitter.com/time"
+    },
+    {
+      "text": "\n                      \n                        \n                      \n                          ",
+      "url": "https://www.pinterest.com/timemagazine"
+    },
+    {
+      "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
+      "url": "/6194956/shinzo-abe-dies-assassination-obituary/"
+    },
+    {
+      "text": "\n                Shinzo Abe Rewrote Japan's Place in the World\n              ",
+      "url": "/6194956/shinzo-abe-dies-assassination-obituary/"
+    },
+    {
+      "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
+      "url": "/6195292/srilanka-prime-minister-quits/"
+    },
+    {
+      "text": "\n                Sri Lankan Prime Minister and President to Resign \n              ",
+      "url": "/6195292/srilanka-prime-minister-quits/"
+    },
+    {
+      "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
+      "url": "/6194948/shinzo-abe-death-world-leaders-reactions/"
+    },
+    {
+      "text": "\n                How the World Is Reacting to Shinzo Abe\u2019s Death\n              ",
+      "url": "/6194948/shinzo-abe-death-world-leaders-reactions/"
+    },
+    {
+      "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
+      "url": "/6194177/olena-zelenska-ukraine-first-lady-interview/"
+    },
+    {
+      "text": "\n                Ukraine's First Lady Olena Zelenska Takes On the Trauma Of War\n              ",
+      "url": "/6194177/olena-zelenska-ukraine-first-lady-interview/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://time.com/entertainment"
+    },
+    {
+      "text": "\n                    Here's What the Thor: Love and Thunder End-Credits Scenes Mean for the Future of the MCU\n                  ",
+      "url": "/6193860/thor-love-and-thunder-end-credits-scenes/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://time.com/politics"
+    },
+    {
+      "text": "\n                    The Jan. 6 Committee Has Succeeded Far Beyond What Anyone Imagined\n                  ",
+      "url": "/6195074/jan-6-committee-unexpected-success/"
+    },
+    {
+      "text": "Science",
+      "url": "https://time.com/science"
+    },
+    {
+      "text": "\n                    Russia Angers the World With Space Station War Propaganda\n                  ",
+      "url": "/6195149/russian-space-station-propagand-nasa/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://time.com/entertainment"
+    },
+    {
+      "text": "\n                    The Marvel Cinematic Universe Doesn't Make Sense Anymore\n                  ",
+      "url": "/6193966/thor-love-and-thunder-marvel-cinematic-universe-future/"
+    },
+    {
+      "text": "\n                    ",
+      "url": "/6194397/abortions-lifesaving-ectopic-pregnancy/"
+    },
+    {
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          abortion\n                        When Is an Abortion Lifesaving? It's No Longer Clear for Doctors and Patients\n                        \n                            jamie ducharme                      and\n                            tara law                \n                    \n                    \n                  ",
+      "url": "/6194397/abortions-lifesaving-ectopic-pregnancy/"
+    },
+    {
+      "text": "\n                    ",
+      "url": "/6194568/americans-divided-covid-19-vaccines-masks-survey/"
+    },
+    {
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          COVID-19\n                        Americans Still Disagree on Practically Everything About COVID-19\n                        \n                            jeffrey kluger                \n                    \n                    \n                  ",
+      "url": "/6194568/americans-divided-covid-19-vaccines-masks-survey/"
+    },
+    {
+      "text": "\n                    ",
+      "url": "/6194087/boris-johnson-future-ministers-resign/"
+    },
+    {
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          United Kingdom\n                        Why U.K. Prime Minister Boris Johnson Resigned\n                        \n                            billy perrigo / london                \n                    \n                    \n                  ",
+      "url": "/6194087/boris-johnson-future-ministers-resign/"
+    },
+    {
+      "text": "\n                    ",
+      "url": "/6194432/uk-prime-minister-selection-process/"
+    },
+    {
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          United Kingdom\n                        Here\u2019s How a New U.K. Prime Minister Will Be Selected\n                        \n                            eloise barry / london                \n                    \n                    \n                  ",
+      "url": "/6194432/uk-prime-minister-selection-process/"
+    },
+    {
+      "text": "\n                    ",
+      "url": "/6194505/gas-prices-biden-republicans/"
+    },
+    {
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          climate change\n                        Everything You're Hearing About Gas Prices Is Wrong\n                        \n                            justin worland                \n                    \n                    \n                  ",
+      "url": "/6194505/gas-prices-biden-republicans/"
+    },
+    {
+      "text": "Subscribe to The Coronavirus Brief",
+      "url": "https://time.com/newsletters/?source=SI+hp+link+mid+&newsletter_name=coronavirus"
+    },
+    {
+      "text": "\n          \n          \n            \n              \n            \n          \n          \n          \n          \n          \n          \n          \n        ",
+      "url": "https://time.com/5800901/coronavirus-map/"
+    },
+    {
+      "text": "\n          \n          \n            \n              \n            \n          \n          \n          \n          \n          \n          \n          \n        ",
+      "url": "https://time.com/5800901/coronavirus-map/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        1 in 5 People Who Get COVID-19 Develop Lingering Conditions\n                            Lung and respiratory issues are the most common\n                      \n                    \n                  ",
+      "url": "/6180861/covid-19-health-problems-after-recovery/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Why the Gym Is Risky for COVID-19\n                      \n                    \n                  ",
+      "url": "/6180385/gym-covid-19-risk-tips/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Air Pollution May Increase the Risk of Severe COVID-19\n                      \n                    \n                  ",
+      "url": "/6180749/air-pollution-covid-19/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        COVID-19 In Kids Under 5: What Parents Should Know\n                      \n                    \n                  ",
+      "url": "/6170315/omicron-covid-19-risks-kids-under-5/"
+    },
+    {
+      "text": "\n            Video\n          ",
+      "url": "/collection/video/"
+    },
+    {
+      "text": "lane clarke",
+      "url": "https://time.com/author/lane-clarke/"
+    },
+    {
+      "text": "\n                My Mom Gave Birth to Me After She Was Assaulted. Don't Use My Story as an Anti-Abortion Talking Point\n              ",
+      "url": "/6191663/abortion-sexual-assault-essay/"
+    },
+    {
+      "text": "afreen fatima",
+      "url": "https://time.com/author/afreen-fatima/"
+    },
+    {
+      "text": "\n                Bulldozers Razed My Home: SOS From an Indian Muslim\n              ",
+      "url": "/6193648/modi-india-bulldozer-justice-muslims/"
+    },
+    {
+      "text": "greer donley",
+      "url": "https://time.com/author/greer-donley/"
+    },
+    {
+      "text": "jill wieber lens",
+      "url": "https://time.com/author/jill-wieber-lens/"
+    },
+    {
+      "text": "\n                The Devastating Implications of Overturning Roe Will Go Far Beyond Abortion Patients\n              ",
+      "url": "/6190782/roe-overturned-pregnancy-complications-miscarriage/"
+    },
+    {
+      "text": "susie alegre",
+      "url": "https://time.com/author/susie-alegre/"
+    },
+    {
+      "text": "\n                We're Dangerously Close to Giving Big Tech Control Of Our Thoughts\n              ",
+      "url": "/6191973/big-tech-freedom-of-thought/"
+    },
+    {
+      "text": "melinda french gates",
+      "url": "https://time.com/author/melinda-gates/"
+    },
+    {
+      "text": "\n                Decisions Are Still Being Made For Women, Instead of By Them. We\u2019re Suffering As a Result\n              ",
+      "url": "/6189495/roe-overturn-women-leadership/"
+    },
+    {
+      "text": "vangela m. wade",
+      "url": "https://time.com/author/vangela-m-wade/"
+    },
+    {
+      "text": "\n                Don\u2019t Use Racial Equality to Justify Stripping Women of Their Right to Choose\n              ",
+      "url": "/6177542/abortion-supreme-court-racial-equality/"
+    },
+    {
+      "text": "\n                Vernon Winfrey, Oprah's father, Dies at 89\n              ",
+      "url": "/6195322/oprah-winfreys-dad-vernon-winfrey-dies/"
+    },
+    {
+      "text": "\n                Griner is the Focus of WNBA All-Star Weekend\n              ",
+      "url": "/6195317/brittney-griner-all-star-weekend/"
+    },
+    {
+      "text": "\n                Former Mexican President Luis Echeverria at Dies 100\n              ",
+      "url": "/6195312/luis-echeverria-mexico-leader-dies/"
+    },
+    {
+      "text": "\n                New York Cuts Back Covid Testing Amid U.S. Summer Surge\n              ",
+      "url": "/6195299/new-york-covid-summer-surge/"
+    },
+    {
+      "text": "\n                The Back Booth: After Highland Park, a Liberal and a Conservative Talk Guns\n              ",
+      "url": "/6195199/guns-crime-democrats-republicans-highland-park/"
+    },
+    {
+      "text": "\n                Sri Lankan Prime Minister and President to Resign \n              ",
+      "url": "/6195292/srilanka-prime-minister-quits/"
+    },
+    {
+      "text": "TIME.com",
+      "url": "http://time.com/"
+    },
+    {
+      "text": "\n          \n            subscribe now\n          \n        ",
+      "url": "https://time.com/subscribe-body-time/"
+    },
+    {
+      "text": "\n        \n          \n          \n          \n        \n        ",
+      "url": "https://time.com/subscribe-body-time/"
+    },
+    {
+      "text": "\n                        \n                          \n                          \n                          \n                        \n                    ",
+      "url": "https://time.com/collection/time100-talks/"
+    },
+    {
+      "text": "\n                        \n                          \n                          \n                          \n                        \n                    ",
+      "url": "https://ti.me/3dinygr"
+    },
+    {
+      "text": "\n                        \n                          \n                          \n                          \n                        \n                    ",
+      "url": "https://timecoverstore.com/"
+    },
+    {
+      "text": "\n                        \n                          \n                          \n                          \n                        \n                    ",
+      "url": "https://time.com/tag/climate-is-everything/"
+    },
+    {
+      "text": "\n                        \n                          \n                          \n                          \n                        \n                    ",
+      "url": "https://www.timeforkids.com/family/"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "https://time.com/collection/time100-talks/"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "https://ti.me/3dinygr"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "https://timecoverstore.com/"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "https://time.com/tag/climate-is-everything/"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "https://www.timeforkids.com/family/"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://time.com/privacy/privacy_terms_service.html"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://time.com/privacy/privacy_policy.html"
+    },
+    {
+      "text": "\n              Ukraine Under Attack\n            ",
+      "url": "https://time.com/tag/ukraine/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                            \n                              Alexander Chekmenev for TIME\n                            \n                        \n        \n                      \n                        Ukraine's First Lady Olena Zelenska Takes On the Trauma Of War\n                            While her husband has focused on securing weapons and other support from the West, Zelenska has found her voice as a wartime leader of a different kind. \n                      \n                    \n                  ",
+      "url": "/6194177/olena-zelenska-ukraine-first-lady-interview/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        The Foreign Women Joining Ukraine\u2019s Fight Against Russia  \n                      \n                    \n                  ",
+      "url": "/6174161/foreign-women-fighters-ukraine-volunteers/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Inside Zelensky's World\n                      \n                    \n                  ",
+      "url": "/6171277/volodymyr-zelensky-interview-ukraine-war/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        U.S. Welcomes Ukrainians\u2014But Without Benefits\n                      \n                    \n                  ",
+      "url": "/6170334/ukrainian-refugees-biden-program/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        5 Ukrainian Photographers Document the War \n                      \n                    \n                  ",
+      "url": "/6167254/ukraine-photographers-document-war/"
+    },
+    {
+      "text": "\n              The 46th President\n            ",
+      "url": "https://time.com/tag/joe-biden/"
+    },
+    {
+      "text": "Subscribe to our politics newsletter",
+      "url": "https://time.com/newsletters/?source=SI+hp+link+mid+&newsletter_name=politics"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                            \n                              Stefani Reynolds\u2014AFP/Getty\n                            \n                        \n        \n                      \n                        Buffalo Exposes Limits Of Biden's Domestic Terror Strategy\n                            \u201cThis is not 2001, where we\u2019re wondering why radicalization happens.\"\n                      \n                    \n                  ",
+      "url": "/6177847/biden-pledged-to-defeat-domestic-terror-buffalo-why-thats-not-enough/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Politicians Created the Formula Shortage. Can They Fix It?\n                      \n                    \n                  ",
+      "url": "/6177128/baby-formula-congress-monopoly-abbott/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Remain in Mexico Battle Shows Flawed U.S. Immigration Policy\n                      \n                    \n                  ",
+      "url": "/6169724/remain-in-mexico-battle-supreme-court/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Biden's Abortion Stance and Catholic Faith Have Never Been More at Odds\n                      \n                    \n                  ",
+      "url": "/6176375/bidens-abortion-catholic-democrats/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Biden Tries to Stop and Document Russian Atrocities in Ukraine\n                      \n                    \n                  ",
+      "url": "/6164972/biden-russia-war-crimes-document/"
+    },
+    {
+      "text": "\n              Race in America\n            ",
+      "url": "https://time.com/tag/identity"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        America Needs to Examine Its Relationship to Black Suffering\n                            Thirty years ago, all four Los Angeles Police Department officers involved in the beating of Rodney King were acquitted. Less than a year ago, the officer who killed George Floyd was convicted of second-degree murder,\n                      \n                    \n                  ",
+      "url": "/6180833/americans-images-of-black-suffering/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        On Being Black and Asian in America\n                      \n                    \n                  ",
+      "url": "/6172685/being-black-asian-america-essay/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Minneapolis' Struggle to Reform Police After George Floyd\n                      \n                    \n                  ",
+      "url": "/6180605/minneapolis-police-reform-george-floyd-murder/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        I Moved to America for a Better Life. Here's Why I'm Leaving\n                      \n                    \n                  ",
+      "url": "/6164750/leaving-america-vietnam/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        The Growing Racial Gap in Childhood Exposure to Gun Violence\n                      \n                    \n                  ",
+      "url": "/6163507/gun-violence-pandemic-disparity/"
+    },
+    {
+      "text": "Subscribe to the Leadership Brief newsletter",
+      "url": "https://time.com/newsletters/?source=SI+hp+mod+mid+&newsletter_name=the_brief"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Inside the Release of Unreal Engine 5\n                            TIME got exclusive access to developers and artists who have already started using Unreal Engine 5. Here\u2019s what\u2019s under the hood\n                      \n                    \n                  ",
+      "url": "/6164332/epic-unreal-engine-5-launch/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        3D-Printed Homes Could Help Solve Affordable Housing Crisis\n                      \n                    \n                  ",
+      "url": "/6162775/tiktok-3d-printed-houses/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        This Tech Leader is Harnessing Collective Action to Green the Grid\n                      \n                    \n                  ",
+      "url": "/6162201/open-source-green-grid/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Why Crypto Scams Are Driving an Online Crime Boom \u2014 And How to Outsmart Them\n                      \n                    \n                  ",
+      "url": "/6162350/crypto-scams-online-crime-boom/"
+    },
+    {
+      "text": "\n              Future of Work\n            ",
+      "url": "https://time.com/charter/"
+    },
+    {
+      "text": "Subscribe to the Charter newsletter",
+      "url": "https://www.charterworks.com/newsletter/?utm_source=time&utm_medium=nav&utm_campaign=timelaunch"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        How to Avoid Being Stuck With Dead-End Work\n                            'The No Club' is a clear-headed explanation of how women overwork themselves or miss opportunities for advancement because of office housework.\n                      \n                    \n                  ",
+      "url": "/charter/6195169/no-club-book/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        How Workplaces Should Approach Covid Precautions Now\n                      \n                    \n                  ",
+      "url": "/charter/6195164/how-workplaces-should-approach-covid-precautions-now/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        What Happens When A Company Puts Purpose Ahead of Profits\n                      \n                    \n                  ",
+      "url": "/charter/6193837/tomorrows-capitalist-alan-murray/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Breastfeeding Access Is a Workplace Issue\n                      \n                    \n                  ",
+      "url": "/charter/6193639/breastfeeding-work-pumping/"
+    },
+    {
+      "text": "\n              Personal Finance by NextAdvisor\n            ",
+      "url": "https://time.com/nextadvisor/"
+    },
+    {
+      "text": "Subscribe to the NextAdvisor newsletter",
+      "url": "https://time.com/nextadvisor/subscribe/?utm_source=time&utm_medium=referral&utm_campaign=time_sub"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        How I'm Making My Kids Millionaires By Hiring Them and Investing Their Income\n                      \n                    \n                  ",
+      "url": "/nextadvisor/investing/investing-for-kids-custodial-roth-ira/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Mortgage Rates Are Rising Fast. Here's What It Means for You\n                      \n                    \n                  ",
+      "url": "/nextadvisor/mortgages/rates/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Bitcoin's Price: What New Crypto Investors Should Know\n                      \n                    \n                  ",
+      "url": "/nextadvisor/investing/cryptocurrency/price/bitcoin-btc/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Investing for Beginners: How to Get Started\n                      \n                    \n                  ",
+      "url": "/nextadvisor/investing/investing-for-beginners/"
+    },
+    {
+      "text": "\n              Climate Is Everything\n            ",
+      "url": "https://time.com/tag/climate-change/"
+    },
+    {
+      "text": "Subscribe to the climate newsletter",
+      "url": "https://time.com/newsletters/?source=SI+hp+link+mid+&newsletter_name=climate"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        This Is How We Quit Big Oil\n                            At the end of the first quarter of 2021, as the CEOs of the three biggest U.S. oil and gas companies presented their firms\u2019 earnings, investors fired off a range of questions about how they\n                      \n                    \n                  ",
+      "url": "/6175206/black-gold-fossil-fuel-industry/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Warmer Winters Are Erasing Alaskan Native Traditions in the Arctic\n                      \n                    \n                  ",
+      "url": "/6170359/climate-change-alaska-native-traditions/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Outdoor Workers Have Little Protection In A Warming World\n                      \n                    \n                  ",
+      "url": "/6181785/outdoor-workers-heat-climate-change/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        U.S. Plastic Recycling Rates Are Even Worse Than We Thought\n                      \n                    \n                  ",
+      "url": "/6178386/plastic-recycling-rates-overestimated/"
+    },
+    {
+      "text": "\n                    \n                      TIME logo\n                      \n                    \n                ",
+      "url": "/"
+    },
+    {
+      "text": "\n                  \n                    \n                  \n                      ",
+      "url": "https://www.facebook.com/time"
+    },
+    {
+      "text": "\n                  \n                    \n                  \n                      ",
+      "url": "https://www.instagram.com/time/?hl=en"
+    },
+    {
+      "text": "\n                  \n                    \n                  \n                      ",
+      "url": "https://twitter.com/time"
+    },
+    {
+      "text": "\n                  \n                    \n                  \n                      ",
+      "url": "https://www.pinterest.com/timemagazine"
+    },
+    {
+      "text": "\n                        Home\n                      ",
+      "url": "https://time.com"
+    },
+    {
+      "text": "\n                        U.S.\n                      ",
+      "url": "https://time.com/section/us/"
+    },
+    {
+      "text": "\n                        Politics\n                      ",
+      "url": "https://time.com/section/politics/"
+    },
+    {
+      "text": "\n                        World\n                      ",
+      "url": "https://time.com/section/world/"
+    },
+    {
+      "text": "\n                        Health\n                      ",
+      "url": "https://time.com/section/health/"
+    },
+    {
+      "text": "\n                        Personal Finance by NextAdvisor\n                      ",
+      "url": "https://time.com/nextadvisor/?utm_source=time&utm_medium=referral&utm_campaign=time_footer"
+    },
+    {
+      "text": "\n                        Future of Work by Charter\n                      ",
+      "url": "https://time.com/charter/"
+    },
+    {
+      "text": "\n                        Business\n                      ",
+      "url": "https://time.com/section/business/"
+    },
+    {
+      "text": "\n                        Tech\n                      ",
+      "url": "https://time.com/section/tech/"
+    },
+    {
+      "text": "\n                        Entertainment\n                      ",
+      "url": "https://time.com/section/entertainment/"
+    },
+    {
+      "text": "\n                        Ideas\n                      ",
+      "url": "https://time.com/section/ideas/"
+    },
+    {
+      "text": "\n                        Science\n                      ",
+      "url": "https://time.com/section/science/"
+    },
+    {
+      "text": "\n                        History\n                      ",
+      "url": "https://time.com/section/history/"
+    },
+    {
+      "text": "\n                        Newsfeed\n                      ",
+      "url": "https://time.com/section/newsfeed/"
+    },
+    {
+      "text": "\n                        Sports\n                      ",
+      "url": "https://time.com/section/sports/"
+    },
+    {
+      "text": "\n                        Magazine\n                      ",
+      "url": "https://time.com/magazine"
+    },
+    {
+      "text": "\n                        The TIME Vault\n                      ",
+      "url": "https://time.com/vault/"
+    },
+    {
+      "text": "\n                        TIME For Kids\n                      ",
+      "url": "https://www.timeforkids.com/"
+    },
+    {
+      "text": "\n                        TIME Edge\n                      ",
+      "url": "https://timeedge.com/login"
+    },
+    {
+      "text": "\n                        Video\n                      ",
+      "url": "https://time.com/collection/video/"
+    },
+    {
+      "text": "\n                        Masthead\n                      ",
+      "url": "https://time.com/time-masthead/"
+    },
+    {
+      "text": "\n                        Newsletters\n                      ",
+      "url": "https://time.com/newsletters/?source=TD_Footer_Link"
+    },
+    {
+      "text": "\n                        Subscribe\n                      ",
+      "url": "https://time.com/subscribe-footer-time"
+    },
+    {
+      "text": "\n                        Subscriber Benefits\n                      ",
+      "url": "https://time.com/subscriber-benefits/"
+    },
+    {
+      "text": "\n                        Give a Gift\n                      ",
+      "url": "https://time.com/giveagift/"
+    },
+    {
+      "text": "\n                        Shop the TIME Store\n                      ",
+      "url": "https://timecoverstore.com/"
+    },
+    {
+      "text": "\n                        Careers\n                      ",
+      "url": "https://time.com/longform/join-time/"
+    },
+    {
+      "text": "\n                        Press Room\n                      ",
+      "url": "https://time.com/section/press-room/"
+    },
+    {
+      "text": "\n                        TIME Studios\n                      ",
+      "url": "https://time.com/studios/"
+    },
+    {
+      "text": "\n                        U.S. & Canada Customer Care\n                      ",
+      "url": "https://support.time.com/hc/en-us"
+    },
+    {
+      "text": "\n                        Global Help Center\n                      ",
+      "url": "https://support.time.com/hc/en-us/sections/1500001791741"
+    },
+    {
+      "text": "\n                        Contact the Editors\n                      ",
+      "url": "mailto:feedback@time.com"
+    },
+    {
+      "text": "\n                        Reprints and Permissions\n                      ",
+      "url": "https://www.parsintl.com/publication/time"
+    },
+    {
+      "text": "\n                        Site Map\n                      ",
+      "url": "https://time.com/html-sitemap/"
+    },
+    {
+      "text": "\n                        Media Kit\n                      ",
+      "url": "https://time.com/mediakit/"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://time.com/privacy/privacy_terms_service.html"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://time.com/privacy/privacy_policy.html"
+    },
+    {
+      "text": "Your California Privacy Rights",
+      "url": "https://time.com/privacy/privacy_policy.html#_Toc26698205"
+    },
+    {
+      "text": "Do Not Sell My Personal Information",
+      "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/ec48745c-0b96-47da-aa41-f959ab79a818/e1de9460-d63a-4d4c-94d8-e876f7bbbb75.html"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://time.com/privacy/generic_privacy_new.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    }
+  ],
+  "uniq": 518052212,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"
