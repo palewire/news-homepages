@@ -112,6 +112,8 @@ def _screenshot(site: typing.Dict, output_dir: str, wait: int = 5000):
             ".modal-backdrop",  # Modal popup
             "#dth-borderless-modal-alt",
             "#floatingBlockerGuide",  # Popup overlay
+            ".ctct-popup-overlay",  # Popup overlay
+            ".ctct-popup-wrapper",
         ]
         target_str = ",".join(target_list)
         javascript = (
