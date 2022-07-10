@@ -1,5 +1,5 @@
 {
-  "created": 1657368901,
+  "created": 1657401274,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/35/items/nytimes-2022",
@@ -30828,31 +30828,157 @@
       "sha1": "17062e126e982a75b7aa73c99af557192cba3247"
     },
     {
+      "name": "nytimes-2022-07-09T09:46:46.646367-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657374412",
+      "size": "21041",
+      "md5": "a35ec8e1d5d802c5a516d336eabd4210",
+      "crc32": "c39827c4",
+      "sha1": "1630ce36e8262469fb0b08497232371ddaa8fe39",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-09T09:46:46.646367-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657374413",
+      "size": "25767",
+      "md5": "0d6fbe68bbc9f9f5b370b8b78d9acca2",
+      "crc32": "32dd9c7b",
+      "sha1": "ba82951582da6ae20bb6f2506ab98ffdbf7f414c",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-09T09:46:46.646367-04:00.jpg",
+      "source": "original",
+      "mtime": "1657374409",
+      "size": "334147",
+      "md5": "823ad2c6871eb62425f28a8b3b5334cc",
+      "crc32": "679873b9",
+      "sha1": "369f79dae3695c222a024a9969431d5d2b55f86f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-07-09T09:46:46.646367-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-07-09T09:46:46.646367-04:00.jpg",
+      "mtime": "1657374581",
+      "size": "10137",
+      "md5": "56f6ad9559058ec4cbc304cb6e3cea63",
+      "crc32": "601a43b9",
+      "sha1": "62d277f42aae00df2b219200b7c4e585ca3275b1"
+    },
+    {
+      "name": "nytimes-2022-07-09T10:38:51.591469-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657377535",
+      "size": "23665",
+      "md5": "94c6529e8f1cdca057165c3995927e92",
+      "crc32": "722bbb15",
+      "sha1": "6f92e55f796d20603fbde98c5cd577e30cfa5165",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-09T10:38:51.591469-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657377538",
+      "size": "26604",
+      "md5": "39166b5c8fa35fc5e94ebf38a4106968",
+      "crc32": "b1674580",
+      "sha1": "b723ad6ef932f636a9b018f42e7891aa90833096",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-09T10:38:51.591469-04:00.jpg",
+      "source": "original",
+      "mtime": "1657377533",
+      "size": "351301",
+      "md5": "42c916fb3db87e1626cd3c1f49085837",
+      "crc32": "cffeec87",
+      "sha1": "e7f5825bcb26b5fd21ccb7161d9f84a23eb1de43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-07-09T10:38:51.591469-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-07-09T10:38:51.591469-04:00.jpg",
+      "mtime": "1657377681",
+      "size": "10322",
+      "md5": "10fd37caa2a6559797906cd981411d7d",
+      "crc32": "0f9f3889",
+      "sha1": "9e1c9c92301c2e1e22efea624e73d5118364ac2d"
+    },
+    {
+      "name": "nytimes-2022-07-09T17:09:07.768398-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657400975",
+      "size": "23954",
+      "md5": "d1daf41ecc6bfa4e73e472eddab87f49",
+      "crc32": "b8b3e35c",
+      "sha1": "8322809caad312abd84423f27c5b7624032d7c04",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-09T17:09:07.768398-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657400977",
+      "size": "27841",
+      "md5": "f3d89c4ed16a96dcc14f7cda10bee363",
+      "crc32": "817161d4",
+      "sha1": "aaf7c0d0c871953279f71bf53c6007b0210b6541",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-07-09T17:09:07.768398-04:00.jpg",
+      "source": "original",
+      "mtime": "1657400972",
+      "size": "343600",
+      "md5": "cf3fc9623e52a7dc46715d401ae755f7",
+      "crc32": "d5a23609",
+      "sha1": "a0086ba72a5d3b8e5bc80a367e7d2f9c50a98427",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-07-09T17:09:07.768398-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-07-09T17:09:07.768398-04:00.jpg",
+      "mtime": "1657401129",
+      "size": "9818",
+      "md5": "e908b65daa99221d934b1d47eae7d828",
+      "crc32": "26e923ab",
+      "sha1": "dba3dcbf63c0eeff0c22759d51385770105a9c26"
+    },
+    {
       "name": "nytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1bcff5f0b312aea2b59a0371e5d43cb4be0d00ba",
-      "mtime": "1657333756",
-      "size": "617393",
-      "md5": "780ec5e25079275c8c8cdfc460687e12",
-      "crc32": "5034a14a",
-      "sha1": "32356b355531bca89863a0a5621b985f329685af",
+      "btih": "d8bbba55b14bd2a03ab4b56e01e99774980f6cd9",
+      "mtime": "1657401256",
+      "size": "619910",
+      "md5": "36ae924cdb3c1e8fc050699eba5a51a8",
+      "crc32": "86880197",
+      "sha1": "7c114a3ad45a4ef7686d2072848632bcb30482f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c78faa76c955187e6133e7348c674b9d",
+      "md5": "ef1ba28b4b52f4abb75ba5e08a431084",
       "summation": "md5"
     },
     {
       "name": "nytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657332577",
-      "size": "3301376",
-      "md5": "eb457db3391b7c073e152d90aa3f514e",
-      "crc32": "ecde6e7f",
-      "sha1": "ce0ed3ecd19d1e5434f8f5211add750bd63fe041",
+      "mtime": "1657400981",
+      "size": "3317760",
+      "md5": "7f7c0158d5a05e55b9cfc7676b648566",
+      "crc32": "8b622716",
+      "sha1": "94c2987c8ee5a8383bb0eacf7a0745a9b7032274",
       "format": "Metadata"
     },
     {
@@ -30866,9 +30992,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2934,
-  "item_last_updated": 1657333756,
-  "item_size": 307880431,
+  "files_count": 2946,
+  "item_last_updated": 1657401256,
+  "item_size": 309107529,
   "metadata": {
     "identifier": "nytimes-2022",
     "collection": [
@@ -30885,694 +31011,8 @@
     "publicdate": "2022-03-23 00:46:07",
     "addeddate": "2022-03-23 00:46:07"
   },
-  "nytimes-2022": [
-    {
-      "text": "Continue reading the main story",
-      "url": "#after-dfp-ad-top"
-    },
-    {
-      "text": "Skip to content",
-      "url": "#site-content"
-    },
-    {
-      "text": "Skip to site index",
-      "url": "#site-index"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "U.S.",
-      "url": "/"
-    },
-    {
-      "text": "International",
-      "url": "/international/?action=click&region=Editions&pgtype=Homepage"
-    },
-    {
-      "text": "Canada",
-      "url": "/ca/?action=click&region=Editions&pgtype=Homepage"
-    },
-    {
-      "text": "Espa\u00f1ol",
-      "url": "https://www.nytimes.com/es/"
-    },
-    {
-      "text": "\u4e2d\u6587",
-      "url": "https://cn.nytimes.com"
-    },
-    {
-      "text": "Subscribe for $1/week",
-      "url": "https://www.nytimes.com/subscription?campaignId=79FKF"
-    },
-    {
-      "text": "Log in",
-      "url": "https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fonboarding-offer%3FcampaignId%3D7JFJX%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F&asset=masthead"
-    },
-    {
-      "text": "",
-      "url": "https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fonboarding-offer%3FcampaignId%3D7JFJX%26EXIT_URI%3Dhttps%253A%252F%252Fwww.nytimes.com%252F&asset=masthead"
-    },
-    {
-      "text": "Today\u2019s Paper",
-      "url": "https://www.nytimes.com/section/todayspaper"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "World",
-      "url": "/section/world"
-    },
-    {
-      "text": "U.S.",
-      "url": "/section/us"
-    },
-    {
-      "text": "Politics",
-      "url": "/section/politics"
-    },
-    {
-      "text": "N.Y.",
-      "url": "/section/nyregion"
-    },
-    {
-      "text": "Business",
-      "url": "/section/business"
-    },
-    {
-      "text": "Opinion",
-      "url": "/section/opinion"
-    },
-    {
-      "text": "Tech",
-      "url": "/section/technology"
-    },
-    {
-      "text": "Science",
-      "url": "/section/science"
-    },
-    {
-      "text": "Health",
-      "url": "/section/health"
-    },
-    {
-      "text": "Sports",
-      "url": "/section/sports"
-    },
-    {
-      "text": "Arts",
-      "url": "/section/arts"
-    },
-    {
-      "text": "Books",
-      "url": "/section/books"
-    },
-    {
-      "text": "Style",
-      "url": "/section/style"
-    },
-    {
-      "text": "Food",
-      "url": "/section/food"
-    },
-    {
-      "text": "Travel",
-      "url": "/section/travel"
-    },
-    {
-      "text": "Magazine",
-      "url": "/section/magazine"
-    },
-    {
-      "text": "T Magazine",
-      "url": "/section/t-magazine"
-    },
-    {
-      "text": "Real Estate",
-      "url": "/section/realestate"
-    },
-    {
-      "text": "Video",
-      "url": "/video"
-    },
-    {
-      "text": "World",
-      "url": "/section/world"
-    },
-    {
-      "text": "U.S.",
-      "url": "/section/us"
-    },
-    {
-      "text": "Politics",
-      "url": "/section/politics"
-    },
-    {
-      "text": "N.Y.",
-      "url": "/section/nyregion"
-    },
-    {
-      "text": "Business",
-      "url": "/section/business"
-    },
-    {
-      "text": "Opinion",
-      "url": "/section/opinion"
-    },
-    {
-      "text": "Tech",
-      "url": "/section/technology"
-    },
-    {
-      "text": "Science",
-      "url": "/section/science"
-    },
-    {
-      "text": "Health",
-      "url": "/section/health"
-    },
-    {
-      "text": "Sports",
-      "url": "/section/sports"
-    },
-    {
-      "text": "Arts",
-      "url": "/section/arts"
-    },
-    {
-      "text": "Books",
-      "url": "/section/books"
-    },
-    {
-      "text": "Style",
-      "url": "/section/style"
-    },
-    {
-      "text": "Food",
-      "url": "/section/food"
-    },
-    {
-      "text": "Travel",
-      "url": "/section/travel"
-    },
-    {
-      "text": "Magazine",
-      "url": "/section/magazine"
-    },
-    {
-      "text": "T Magazine",
-      "url": "/section/t-magazine"
-    },
-    {
-      "text": "Real Estate",
-      "url": "/section/realestate"
-    },
-    {
-      "text": "Video",
-      "url": "/video"
-    },
-    {
-      "text": "Analysis: Abe\u2019s Influence Was Still Evident Long After He Left OfficeShinzo Abe, Japan\u2019s longest-serving prime minister, became perhaps the most transformational politician in the country\u2019s post-World War II history.His assassination sets off a race to lead one of the most powerful factions of the Liberal Democratic Party. And his influence, scholars say, will be lasting.",
-      "url": "https://www.nytimes.com/2022/07/08/us/politics/shinzo-abe-influence.html"
-    },
-    {
-      "text": "Assassination of Shinzo Abe Shocks a Nearly Gun-Free JapanThe country has some of the most stringent gun laws. Since 2017, it has seen 14 gun-related deaths, a remarkably low figure for a nation of 125 million.",
-      "url": "https://www.nytimes.com/2022/07/08/world/asia/japan-abe-murder-guns.html"
-    },
-    {
-      "text": "Dave Sanders for the New York Times ",
-      "url": "https://www.nytimes.com/2022/07/08/us/politics/shinzo-abe-influence.html"
-    },
-    {
-      "text": "Inflation: What to Know",
-      "url": "https://www.nytimes.com/2022/06/11/business/economy/inflation-united-states-prices.html"
-    },
-    {
-      "text": "What Is a Recession?",
-      "url": "https://www.nytimes.com/2022/06/24/business/what-is-a-recession.html"
-    },
-    {
-      "text": "High Gas Prices, Explained",
-      "url": "https://www.nytimes.com/interactive/2022/06/14/business/gas-prices.html"
-    },
-    {
-      "text": "How to Invest Now",
-      "url": "https://www.nytimes.com/2022/06/24/business/how-to-invest-stocks-bear-market.html"
-    },
-    {
-      "text": "Fed Is on Track for Big Rate Increase After Wage and Jobs ReportThe Fed wants to cool down the economy and tame inflation, but jobs growth is strong.",
-      "url": "https://www.nytimes.com/2022/07/08/business/economy/wages-jobs-fed-rates.html"
-    },
-    {
-      "text": "Strong Jobs Data in June Ease Recession Fears but Keep Pressure on FedThe U.S. economy added 372,000 jobs last month, easing worries of a slowdown, but also complicating the Fed\u2019s attempt to quell inflation.",
-      "url": "https://www.nytimes.com/2022/07/08/business/economy/jobs-report-june-2022.html"
-    },
-    {
-      "text": "Ella Koeze/The New York Times",
-      "url": "https://www.nytimes.com/2022/07/08/business/economy/jobs-report-june-2022.html"
-    },
-    {
-      "text": "Elon Musk Moves to End $44 Billion Deal to Buy TwitterIn a regulatory filing on Friday, Mr. Musk said Twitter was in \u201cmaterial breach\u201d of the acquisition agreement.Saul Martinez/Getty Images",
-      "url": "https://www.nytimes.com/2022/07/08/technology/elon-musk-twitter.html"
-    },
-    {
-      "text": "The Far-Right Christian Quest for Power: \u2018We Are Seeing Them Emboldened\u2019Political candidates on the fringe mix religious fervor with conspiracy theories, even calling for the end of the separation of church and state.Doug Mastriano, a Republican candidate for Pennsylvania governor, called the separation of church and state a \"myth.\" Michael M. Santiago/Getty Images",
-      "url": "https://www.nytimes.com/2022/07/08/us/christian-nationalism-politicians.html"
-    },
-    {
-      "text": "As Russia Looms, a Ukrainian City\u2019s Loyalties DivideMost residents have fled the eastern city of Sloviansk before an expected assault. About half of the 23,000 remaining are eager to welcome the invaders.",
-      "url": "https://www.nytimes.com/2022/07/08/world/europe/ukraine-sloviansk-russia.html"
-    },
-    {
-      "text": "LIVERussia pummeled Ukraine\u2019s Donetsk region as the Group of 20 meeting ended without a communiqu\u00e9. Follow updates on the war.",
-      "url": "https://www.nytimes.com/live/2022/07/08/world/russia-ukraine-war-news"
-    },
-    {
-      "text": "At the G20 meeting, Russia\u2019s foreign minister was a pariah \u2014 but only for some.",
-      "url": "https://www.nytimes.com/2022/07/08/world/lavrov-g20-russia-blinken.html"
-    },
-    {
-      "text": "Mauricio Lima for The New York Times",
-      "url": "https://www.nytimes.com/2022/07/08/world/europe/ukraine-sloviansk-russia.html"
-    },
-    {
-      "text": "Louisiana Judge Allows Abortion Ban to Take EffectThe fast-changing status in the state is emblematic of the chaotic national landscape that has unfolded since the Supreme Court overturned Roe v. Wade.",
-      "url": "https://www.nytimes.com/2022/07/08/us/louisiana-abortion-ban.html"
-    },
-    {
-      "text": "Under Pressure, Biden Issues Executive Order on AbortionSome of President Biden\u2019s supporters wanted him to push harder to protect abortion access. But details about what his new order will do remain unclear.",
-      "url": "https://www.nytimes.com/2022/07/08/us/politics/biden-abortion-executive-order.html"
-    },
-    {
-      "text": "Tom Brenner for The New York Times",
-      "url": "https://www.nytimes.com/2022/07/08/us/politics/biden-abortion-executive-order.html"
-    },
-    {
-      "text": "He Had a Dark Secret. It Changed His Best Friend\u2019s Life.Tin Chin and Mo Lin were inseparable at a Brooklyn homeless shelter. But one of the men wasn\u2019t who he seemed to be.",
-      "url": "https://www.nytimes.com/2022/07/08/nyregion/brooklyn-homeless-shelter-friendship.html"
-    },
-    {
-      "text": "\u9605\u8bfb\u7b80\u4f53\u4e2d\u6587\u7248\u3002(Read in Chinese.)",
-      "url": "https://cn.nytimes.com/usa/20220708/brooklyn-homeless-shelter-friendship/"
-    },
-    {
-      "text": "An Rong Xu for The New York TimesAn Rong Xu for The New York TimesAn Rong Xu for The New York TimesAn Rong Xu for The New York TimesAn Rong Xu for The New York TimesAn Rong Xu for The New York Times",
-      "url": "https://www.nytimes.com/2022/07/08/nyregion/brooklyn-homeless-shelter-friendship.html"
-    },
-    {
-      "text": "Monkeypox",
-      "url": "https://www.nytimes.com/spotlight/monkeypox"
-    },
-    {
-      "text": "What to Know",
-      "url": "https://www.nytimes.com/article/what-is-monkeypox.html"
-    },
-    {
-      "text": "How Serious Is the Virus?",
-      "url": "https://www.nytimes.com/article/monkeypox-virus-covid.html"
-    },
-    {
-      "text": "Vaccine Supply Concerns",
-      "url": "https://www.nytimes.com/2022/07/01/health/monkeypox-vaccine-bavarian-nordic.html"
-    },
-    {
-      "text": "Who Has Immunity?",
-      "url": "https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html"
-    },
-    {
-      "text": "The Outbreak\u2019s Origins",
-      "url": "https://www.nytimes.com/2022/06/23/health/monkeypox-origin-mutations.html"
-    },
-    {
-      "text": "The U.S. May Be Losing the Fight Against Monkeypox, Scientists SayLongstanding weaknesses in the U.S. health system are giving the virus a chance to become entrenched.Anastasiia Sapon for The New York Times",
-      "url": "https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html"
-    },
-    {
-      "text": "Omicron Subvariants Power a Surge of Infections in EuropeHealth officials said the subvariants known as BA.4 and BA.5 were fueling a rise in cases after most Covid polices were relaxed. Follow pandemic news.",
-      "url": "https://www.nytimes.com/live/2022/07/08/world/covid-19-mandates-vaccine-cases"
-    },
-    {
-      "text": "Tracking the Coronavirus \u203a",
-      "url": "https://www.nytimes.com/interactive/2021/us/covid-cases.html"
-    },
-    {
-      "text": "United States\u00a0\u203a United States\u00a0\u203a United StatesAvg. on Jul. 7 14-day change New\u00a0cases 107,811 +8%  Hospitalized 35,651 +15%  New\u00a0deaths 321 \u20132%  ",
-      "url": "https://www.nytimes.com/interactive/2021/us/covid-cases.html"
-    },
-    {
-      "text": "U.S. hot spots \u203a  ",
-      "url": "https://www.nytimes.com/interactive/2021/us/covid-cases.html"
-    },
-    {
-      "text": "Vaccinations \u203a  ",
-      "url": "https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html"
-    },
-    {
-      "text": "Global hot spots \u203a  ",
-      "url": "https://www.nytimes.com/interactive/2021/world/covid-cases.html"
-    },
-    {
-      "text": "Conn.",
-      "url": "https://www.nytimes.com/interactive/2021/us/connecticut-covid-cases.html"
-    },
-    {
-      "text": "Ark.",
-      "url": "https://www.nytimes.com/interactive/2021/us/arkansas-covid-cases.html"
-    },
-    {
-      "text": "Pa.",
-      "url": "https://www.nytimes.com/interactive/2021/us/pennsylvania-covid-cases.html"
-    },
-    {
-      "text": "Okla.",
-      "url": "https://www.nytimes.com/interactive/2021/us/oklahoma-covid-cases.html"
-    },
-    {
-      "text": "County lookup",
-      "url": "https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html"
-    },
-    {
-      "text": "Conn.",
-      "url": "https://www.nytimes.com/interactive/2021/us/connecticut-covid-cases.html"
-    },
-    {
-      "text": "Ark.",
-      "url": "https://www.nytimes.com/interactive/2021/us/arkansas-covid-cases.html"
-    },
-    {
-      "text": "Pa.",
-      "url": "https://www.nytimes.com/interactive/2021/us/pennsylvania-covid-cases.html"
-    },
-    {
-      "text": "Okla.",
-      "url": "https://www.nytimes.com/interactive/2021/us/oklahoma-covid-cases.html"
-    },
-    {
-      "text": "County lookup",
-      "url": "https://www.nytimes.com/interactive/2021/us/covid-cases-deaths-tracker.html"
-    },
-    {
-      "text": "Global vaccinations",
-      "url": "https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html"
-    },
-    {
-      "text": "Jack Robinson/Hulton Archive, via Getty ImagesRemembering James Caan and His Potent Mix of Swagger and Delicacy\u201cThe Godfather\u201d helped open up a range of roles for the actor that allowed him to play against type and expectation in wonderful ways, our critic writes.",
-      "url": "https://www.nytimes.com/2022/07/08/movies/james-caan-appreciation.html"
-    },
-    {
-      "text": "A flight attendant shares tips on surviving the current travel mess.",
-      "url": "https://www.nytimes.com/2022/07/08/travel/travel-tips-flight-attendant.html"
-    },
-    {
-      "text": "If you see teenagers in formal wear at the movies, they probably have tickets for \u201cMinions.\u201d",
-      "url": "https://www.nytimes.com/2022/07/08/style/minions-gentleminions-tik-tok-trend.html"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.nytimes.com/section/opinion"
-    },
-    {
-      "text": "Maureen DowdEric Adams, the Mayor Who Never Sleeps",
-      "url": "https://www.nytimes.com/2022/07/08/opinion/eric-adams-mayor-new-york.html"
-    },
-    {
-      "text": "Anne LamottI Don\u2019t Want to See a High School Football Coach Praying at the 50-Yard Line",
-      "url": "https://www.nytimes.com/2022/07/08/opinion/prayer-supreme-court-football.html"
-    },
-    {
-      "text": "Jamelle BouieNext Time Trump Tries to Steal an Election, He Won\u2019t Need a Mob",
-      "url": "https://www.nytimes.com/2022/07/08/opinion/trump-democracy-states.html"
-    },
-    {
-      "text": "David Wallace-WellsAir Pollution Kills 10 Million People a Year. Why Do We Accept That as Normal?",
-      "url": "https://www.nytimes.com/2022/07/08/opinion/environment/air-pollution-deaths-climate-change.html"
-    },
-    {
-      "text": "Maia SzalavitzCodependency Is a Toxic Myth in Addiction Recovery",
-      "url": "https://www.nytimes.com/2022/07/08/opinion/codependency-addiction-recovery.html"
-    },
-    {
-      "text": "Peter CoyBoris Johnson Leaves a Mixed Legacy With His Brexit Gambit",
-      "url": "https://www.nytimes.com/2022/07/08/opinion/boris-johnson-brexit-legacy.html"
-    },
-    {
-      "text": "Ana Marie CoxDemocrats Can Win if They Embrace the Politics of Fear",
-      "url": "https://www.nytimes.com/2022/07/08/opinion/democrats-abortion-midterms.html"
-    },
-    {
-      "text": "Andrew NeilBoris Johnson Has Always Acted as if the Rules Don\u2019t Apply to Him",
-      "url": "https://www.nytimes.com/2022/07/08/opinion/boris-johnson-resignation-britain.html"
-    },
-    {
-      "text": "Edward NiedermeyerWhen Elon Musk Dreams, His Employees Have Nightmares",
-      "url": "https://www.nytimes.com/2022/06/01/opinion/technology/elon-musk-tesla-twitter.html"
-    },
-    {
-      "text": "David BrooksWhy Mass Shooters Do the Evil They Do",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/mass-shooters-motive.html"
-    },
-    {
-      "text": "Michelle GoldbergThe Delightful Implosion of Boris Johnson",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/boris-johnson-resignation.html"
-    },
-    {
-      "text": "Paul KrugmanThat Was the Stagflation That Was",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/inflation-recession-the-fed.html"
-    },
-    {
-      "text": "\u2018The Ezra Klein Show\u2019Michelle Goldberg Grapples With Feminism After Roe",
-      "url": "https://www.nytimes.com/2022/07/08/opinion/ezra-klein-podcast-michelle-goldberg.html"
-    },
-    {
-      "text": "Quiz: The Sex Ed Questions Everyone Should Know the Answers To",
-      "url": "https://www.nytimes.com/interactive/2022/07/07/opinion/sex-education-quiz.html"
-    },
-    {
-      "text": "Clergy\u2019s Call for an Assault Weapons Ban",
-      "url": "https://www.nytimes.com/2022/07/08/opinion/letters/clergy-guns-assault-weapons-ban.html"
-    },
-    {
-      "text": "Tim KreiderIt\u2019s Time to Stop Living the American Scam",
-      "url": "https://www.nytimes.com/2022/07/07/opinion/work-busy-trap-millennials.html"
-    },
-    {
-      "text": "Continue reading the main story",
-      "url": "#after-dfp-ad-mid1"
-    },
-    {
-      "text": "Your Friday Evening BriefingHere\u2019s what you need to know at the end of the day.",
-      "url": "https://www.nytimes.com/2022/07/08/briefing/shinzo-abe-elon-musk-wimbledon.html"
-    },
-    {
-      "text": "Listen to the Best of The TimesEach week, we collect articles from around The Times and have them read aloud by the reporters who wrote them.",
-      "url": "https://www.nytimes.com/2022/07/08/podcasts/brooklyn-conservative-radio-roe-narrated-articles.html"
-    },
-    {
-      "text": "Listen to \u2018The Daily\u2019The final days of Boris Johnson.",
-      "url": "https://www.nytimes.com/2022/07/08/podcasts/the-daily/boris-johnson-resigns.html"
-    },
-    {
-      "text": "Read the On Tech NewsletterTech is not representative government, our reporter writes.",
-      "url": "https://www.nytimes.com/2022/07/07/technology/big-tech-abortion.html"
-    },
-    {
-      "text": "Columbia University Loses Its No. 2 Spot in the U.S. News RankingsU.S. News & World Report said that it had \u201cunranked\u201d the Ivy League university after being unable to verify its data.",
-      "url": "https://www.nytimes.com/2022/07/08/us/us-news-rankings-columbia.html"
-    },
-    {
-      "text": "Analysis: Boris Johnson\u2019s Lies Worked for Years, Until They Didn\u2019tThe British prime minister thought he could swagger and dissemble his way through any scandal, but found the rules of gravity still applied.",
-      "url": "https://www.nytimes.com/2022/07/08/world/europe/boris-johnson-lies-britain-parliament.html"
-    },
-    {
-      "text": "Adams Shows Support for Man Charged in Bodega Killing That Caused OutcryA deadly confrontation at a Harlem store that drew attention from Mayor Eric Adams feeds a broader debate about crime and politics.",
-      "url": "https://www.nytimes.com/2022/07/08/nyregion/bodega-stabbing-jose-alba.html"
-    },
-    {
-      "text": "Barry Wetcher/HBOTony Sirico, Who Played a Gangster in \u2018The Sopranos,\u2019 Dies at 79A familiar face in Woody Allen movies, the actor became widely know for his portrayal of Paulie Walnuts on the hit HBO series.",
-      "url": "https://www.nytimes.com/2022/07/08/arts/television/tony-sirico-dead.html"
-    },
-    {
-      "text": "Wisconsin Supreme Court Prohibits the Use of Most Voting Drop Boxes",
-      "url": "https://www.nytimes.com/2022/07/08/us/politics/wisconsin-drop-boxes.html"
-    },
-    {
-      "text": "Review Finds Agents Used Unnecessary Force Against Black Migrants at Border",
-      "url": "https://www.nytimes.com/2022/07/08/us/politics/border-patrol-investigation-migrants.html"
-    },
-    {
-      "text": "911 Dispatcher Faces Manslaughter Charge After Failing to Send Ambulance",
-      "url": "https://www.nytimes.com/2022/07/08/us/dispatcher-manslaughter-pennsylvania.html"
-    },
-    {
-      "text": "Biodiversity Crisis Affects Billions Who Rely on Wild Species, Report Says",
-      "url": "https://www.nytimes.com/2022/07/08/climate/species-biodiversity-united-nations.html"
-    },
-    {
-      "text": "British High Court Sides With Prince Harry in Libel Claim",
-      "url": "https://www.nytimes.com/2022/07/08/world/europe/prince-harry-defamation-the-mail.html"
-    },
-    {
-      "text": "Russia Votes to Shut Down Last U.N. Aid Route Into Syria",
-      "url": "https://www.nytimes.com/2022/07/08/us/politics/russia-syria-refugees-un.html"
-    },
-    {
-      "text": "Susie Steiner, Author of Acclaimed British Crime Novels, Dies at 51",
-      "url": "https://www.nytimes.com/2022/07/08/books/susie-steiner-dead.html"
-    },
-    {
-      "text": "Director of the Guggenheim to Step Down",
-      "url": "https://www.nytimes.com/2022/07/08/arts/design/director-guggenheim-richard-armstrong-steps-down.html"
-    },
-    {
-      "text": "Continue reading the main story",
-      "url": "#after-dfp-ad-mid2"
-    },
-    {
-      "text": "Getty ImagesBe Careful Which Supplements You Take",
-      "url": "https://www.nytimes.com/interactive/2022/07/08/well/live/fda-supplements.html"
-    },
-    {
-      "text": "Craig Frazier5 Food Tips to Help You Age Well",
-      "url": "https://www.nytimes.com/interactive/2022/02/15/well/eat/food-nutrition-aging.html"
-    },
-    {
-      "text": "Tony Cenicola/The New York TimesDo I Always Need to Wash Fruits and Vegetables?",
-      "url": "https://www.nytimes.com/2021/06/29/well/washing-fruits-vegetables-produce.html"
-    },
-    {
-      "text": "Tony Cenicola/The New York TimesDo Cruciferous Vegetables Really Fight Cancer?",
-      "url": "https://www.nytimes.com/2018/12/07/well/eat/do-cruciferous-vegetables-really-fight-cancer.html"
-    },
-    {
-      "text": "Lorenzo GrittiAre My Stomach Problems Really All in My Head?",
-      "url": "https://www.nytimes.com/2021/12/03/well/eat/irritable-bowel-syndrome-advice.html"
-    },
-    {
-      "text": "Image'EstThey Loved Volcanoes, and Each OtherA new documentary examines the work and lives of the French volcanologists Katia and Maurice Krafft, helped mightily by their own magnificent footage. ",
-      "url": "https://www.nytimes.com/2022/07/06/movies/fire-of-love-maurice-katia-krafft.html"
-    },
-    {
-      "text": "Richard Stroud/Museum of LondonGrime Transformed British Music. A New Exhibition Traces How.\u201cGrime Stories: From the Corner to the Mainstream\u201d at the Museum of London highlights the 20-year-old history and influence of the British rap genre.",
-      "url": "https://www.nytimes.com/2022/07/08/arts/music/grime-london-exhibition.html"
-    },
-    {
-      "text": "Jason Franson/The Canadian Press, via Associated PressHe\u2019s the N.H.L.\u2019s Next Big Star. He Just Has to Wait a Year.The most exciting future N.H.L. player attending this week\u2019s draft wasn\u2019t eligible to be selected, but Connor Bedard will be prepared when his time comes.",
-      "url": "https://www.nytimes.com/2022/07/08/sports/hockey/connor-bedard-nhl-draft.html"
-    },
-    {
-      "text": "Monika RittershausAt the Opera, Humans Bear Witness to Atrocity, or Ignore ItWhether in works by Mahler, Mozart or Rossini, directors at the Aix-en-Provence Festival in France evoke mass death and refugee crises.",
-      "url": "https://www.nytimes.com/2022/07/08/arts/music/aix-festival-opera.html"
-    },
-    {
-      "text": "ITV/Peacock\u2018Trigger Point\u2019 Review: Pure Pressure \u00e0 la \u2018Line of Duty\u2019A new Peacock series about a London bomb squad bears the mark of its showrunner, Jed Mercurio, Britain\u2019s master of the crime melodrama.",
-      "url": "https://www.nytimes.com/2022/07/08/arts/television/trigger-point-review.html"
-    },
-    {
-      "text": "Continue reading the main story",
-      "url": "#after-dfp-ad-mid3"
-    },
-    {
-      "text": "Spelling BeeHow many words can you make with 7 letters?",
-      "url": "https://www.nytimes.com/puzzles/spelling-bee"
-    },
-    {
-      "text": "The CrosswordGet clued in with wordplay, every day.",
-      "url": "https://www.nytimes.com/crosswords"
-    },
-    {
-      "text": "Chess ReplayPlay historic chess games.",
-      "url": "https://nytimes.com/spotlight/chess-puzzles"
-    },
-    {
-      "text": "Letter BoxedCreate words using letters around the square.",
-      "url": "https://www.nytimes.com/puzzles/letter-boxed"
-    },
-    {
-      "text": "TilesMatch visual elements and keep your chain going.",
-      "url": "https://www.nytimes.com/puzzles/tiles"
-    },
-    {
-      "text": "VertexConnect the dots to reveal the hidden picture.",
-      "url": "https://www.nytimes.com/puzzles/vertex"
-    },
-    {
-      "text": "Continue reading the main story",
-      "url": "#after-dfp-ad-bottom"
-    },
-    {
-      "text": "\u00a9\u00a02022\u00a0The New York Times Company",
-      "url": "https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice"
-    },
-    {
-      "text": "NYTCo",
-      "url": "https://www.nytco.com/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us"
-    },
-    {
-      "text": "Accessibility",
-      "url": "https://help.nytimes.com/hc/en-us/articles/115015727108-Accessibility"
-    },
-    {
-      "text": "Work with us",
-      "url": "https://www.nytco.com/careers/"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://nytmediakit.com/"
-    },
-    {
-      "text": "T Brand Studio",
-      "url": "https://www.tbrandstudio.com/"
-    },
-    {
-      "text": "Your Ad Choices",
-      "url": "https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.nytimes.com/privacy/privacy-policy"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service"
-    },
-    {
-      "text": "Terms of Sale",
-      "url": "https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale"
-    },
-    {
-      "text": "Site Map",
-      "url": "/sitemap/"
-    },
-    {
-      "text": "Canada",
-      "url": "https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage"
-    },
-    {
-      "text": "International",
-      "url": "https://www.nytimes.com/international/?action=click&region=Footer&pgtype=Homepage"
-    },
-    {
-      "text": "Help",
-      "url": "https://help.nytimes.com/hc/en-us"
-    },
-    {
-      "text": "Subscriptions",
-      "url": "https://www.nytimes.com/subscription?campaignId=37WXW"
-    }
-  ],
   "server": "ia801401.us.archive.org",
-  "uniq": 328508245,
+  "uniq": 1906077580,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

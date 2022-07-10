@@ -118,11 +118,11 @@
     },
     {
       "text": "Sign up as a reader",
-      "url": "/sign_up?return_to=/us"
+      "url": "/sign_up?return_to=%2Fus"
     },
     {
       "text": "Sign in",
-      "url": "/sign_in?return_to=/us"
+      "url": "/sign_in?return_to=%2Fus"
     },
     {
       "text": "\n    \n",
@@ -813,8 +813,8 @@
       "url": "/viruses-can-change-your-scent-to-make-you-more-attractive-to-mosquitoes-new-research-in-mice-finds-185833"
     },
     {
-      "text": "How hot is too hot for the human body? Our lab found heat + humidity gets dangerous faster than many people\u00a0realize",
-      "url": "/how-hot-is-too-hot-for-the-human-body-our-lab-found-heat-humidity-gets-dangerous-faster-than-many-people-realize-185593"
+      "text": "Your body has an internal clock that dictates when you eat, sleep and might have a heart attack \u2013 all based on time of\u00a0day",
+      "url": "/your-body-has-an-internal-clock-that-dictates-when-you-eat-sleep-and-might-have-a-heart-attack-all-based-on-time-of-day-178601"
     },
     {
       "text": "Tell us",
@@ -1317,7 +1317,7 @@
       "url": "https://theconversation.com/us/who-we-are"
     }
   ],
-  "created": 1657368577,
+  "created": 1657412387,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/34/items/conversationus-2022",
@@ -1376,31 +1376,73 @@
       "sha1": "d874c3ed5e729c88220ece6084e49b3d8bdfd362"
     },
     {
+      "name": "conversationus-2022-07-09T11:39:32.195812-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657381176",
+      "size": "50451",
+      "md5": "ca953e5c4a71d2c5c0d5a7197a2bdc34",
+      "crc32": "d1237dd0",
+      "sha1": "12f92ee4fdeb97472b82007ea6c1372c9d454d1e",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-07-09T11:39:32.195812-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657381178",
+      "size": "40655",
+      "md5": "934674bfba38f4f89da1100815590438",
+      "crc32": "a46cfa10",
+      "sha1": "d85f7850e60dc767e2c920b56d273f90bbf89109",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-07-09T11:39:32.195812-04:00.jpg",
+      "source": "original",
+      "mtime": "1657381174",
+      "size": "228710",
+      "md5": "b68de32442666527e920541cc413c544",
+      "crc32": "ee5dc194",
+      "sha1": "bdb17d24b2a8cb8338c902944be2abf31473f235",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "conversationus-2022-07-09T11:39:32.195812-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "conversationus-2022-07-09T11:39:32.195812-04:00.jpg",
+      "mtime": "1657381232",
+      "size": "9666",
+      "md5": "a7c8ea7cda08fcf27577f486716facfd",
+      "crc32": "3c8e80d2",
+      "sha1": "d874c3ed5e729c88220ece6084e49b3d8bdfd362"
+    },
+    {
       "name": "conversationus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bd73db81ad5c92bc2d7c35b93ac73e3343f97702",
-      "mtime": "1657339108",
-      "size": "2533",
-      "md5": "f66d25f36dcea8c6b4f931bf6aff7d09",
-      "crc32": "a0575e98",
-      "sha1": "b9390d7dddba5cd73961672a550571e62936d967",
+      "btih": "fea138d1d59633611e24ec6ca6f23c19466fd0df",
+      "mtime": "1657381235",
+      "size": "3406",
+      "md5": "50ef9ad4d7ad19a9adc188f28b4c4efe",
+      "crc32": "fc659df7",
+      "sha1": "58b6eaea9927ea025984d99138bbfef76acebd12",
       "format": "Archive BitTorrent"
     },
     {
       "name": "conversationus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f713f7399b6cfcab157a3d7883c0dace",
+      "md5": "586c5cbe8916ab60696599fc0fab4774",
       "summation": "md5"
     },
     {
       "name": "conversationus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657339064",
-      "size": "20480",
-      "md5": "f9394fabccf3ed235ed8687b3b8d1137",
-      "crc32": "88e3f8b4",
-      "sha1": "56edab573005d45864179b4c577d9d81fa348ee8",
+      "mtime": "1657381181",
+      "size": "28672",
+      "md5": "67f95c3401a78e0d7d31e228c7e6cbde",
+      "crc32": "5c9c46ca",
+      "sha1": "a65f5581399a2899ffa249074f7c45e778484ffa",
       "format": "Metadata"
     },
     {
@@ -1414,9 +1456,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 9,
-  "item_last_updated": 1657339108,
-  "item_size": 367618,
+  "files_count": 13,
+  "item_last_updated": 1657381235,
+  "item_size": 706165,
   "metadata": {
     "identifier": "conversationus-2022",
     "collection": [
@@ -1434,7 +1476,7 @@
     "addeddate": "2022-07-09 03:57:31"
   },
   "server": "ia902501.us.archive.org",
-  "uniq": 1275040933,
+  "uniq": 718948195,
   "workable_servers": [
     "ia902501.us.archive.org",
     "ia802501.us.archive.org"

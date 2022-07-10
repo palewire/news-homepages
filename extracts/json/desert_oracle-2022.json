@@ -1,5 +1,5 @@
 {
-  "created": 1657368610,
+  "created": 1657412421,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "desert_oracle-2022": [
@@ -554,31 +554,73 @@
       "sha1": "2c89ac63e2a7baf5065513d52d418b894b441606"
     },
     {
+      "name": "desert_oracle-2022-07-09T05:40:15.659934-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657370418",
+      "size": "6827",
+      "md5": "d35462629fa48e082eb117ec5729094b",
+      "crc32": "07d70906",
+      "sha1": "5e710b2b1f2a4eaf36c93fb2828f0e61fc9d379d",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-07-09T05:40:15.659934-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657370420",
+      "size": "2590",
+      "md5": "3c99bfc61aad212ace33aeb9ab10c00c",
+      "crc32": "f5ca199e",
+      "sha1": "7ae8a9d5ba154bc29f85dd967a397677a5315fd9",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-07-09T05:40:15.659934-07:00.jpg",
+      "source": "original",
+      "mtime": "1657370417",
+      "size": "134249",
+      "md5": "12564e5808be8d1aafba1a0372e37249",
+      "crc32": "17050773",
+      "sha1": "2234cf07087b8232b38d90d53b249651e3663af4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desert_oracle-2022-07-09T05:40:15.659934-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desert_oracle-2022-07-09T05:40:15.659934-07:00.jpg",
+      "mtime": "1657370474",
+      "size": "6916",
+      "md5": "1f1427202d3041c3844286207795d651",
+      "crc32": "521b4f78",
+      "sha1": "2c89ac63e2a7baf5065513d52d418b894b441606"
+    },
+    {
       "name": "desert_oracle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a3091bf8ffabe83374b0a1798cfcf18836c3060e",
-      "mtime": "1657327851",
-      "size": "10200",
-      "md5": "69229b0087f9a387887010ea68fcbec3",
-      "crc32": "f9a85d30",
-      "sha1": "c8b1a2b23dffbc1e3d798533cde8d3c9b56c984c",
+      "btih": "b11c48dc1cd25d0a138176488ba214cf98a3ea5c",
+      "mtime": "1657370476",
+      "size": "11047",
+      "md5": "5980a5c4b1fbff61396fc16b000ba11b",
+      "crc32": "1888272f",
+      "sha1": "561e4af39fbf0d6900715837176d3ce8e9367e8a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "desert_oracle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b36322f9fbb301eed4d786d186549878",
+      "md5": "8f3411e24f05a8536299302606cd96ef",
       "summation": "md5"
     },
     {
       "name": "desert_oracle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657327643",
-      "size": "61440",
-      "md5": "c562b9e3529de20012e38a9376856425",
-      "crc32": "1daa0f7f",
-      "sha1": "82151aea151ec099270f062076e4eac69ca91b65",
+      "mtime": "1657370426",
+      "size": "65536",
+      "md5": "6ec91448beedb6e81029c20897ee5673",
+      "crc32": "79ce5cfe",
+      "sha1": "e4d37e7d5f7a1705ab48c04114afb49abdb27bbc",
       "format": "Metadata"
     },
     {
@@ -592,9 +634,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 45,
-  "item_last_updated": 1657327851,
-  "item_size": 1586188,
+  "files_count": 49,
+  "item_last_updated": 1657370476,
+  "item_size": 1741713,
   "metadata": {
     "identifier": "desert_oracle-2022",
     "collection": [
@@ -611,10 +653,10 @@
     "publicdate": "2022-07-04 22:30:03",
     "addeddate": "2022-07-04 22:30:03"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 747301159,
+  "server": "ia601506.us.archive.org",
+  "uniq": 1731469991,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }
