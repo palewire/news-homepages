@@ -120,6 +120,7 @@ def _screenshot(site: typing.Dict, output_dir: str, wait: int = 5000):
             ".wisepops-root",  # Popover
             "#wisepops-root",
             ".widget_eu_cookie_law_widget",  # GDPR poup
+            ".fancybox-overlay",  # Ad overlay
         ]
         target_str = ",".join(target_list)
         javascript = (
