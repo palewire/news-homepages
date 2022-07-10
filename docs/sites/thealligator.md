@@ -17,7 +17,7 @@ orphan: true
 | Location       | Gainesville                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 45 screenshots stored at the Internet Archive.
+The archiving routine has captured 46 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

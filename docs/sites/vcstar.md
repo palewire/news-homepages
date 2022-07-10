@@ -17,7 +17,7 @@ orphan: true
 | Location       | Camarillo                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 232 screenshots stored at the Internet Archive.
+The archiving routine has captured 234 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

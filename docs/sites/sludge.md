@@ -17,9 +17,8 @@ orphan: true
 | Location       | Brooklyn                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 130 screenshots stored at the Internet Archive.
+The archiving routine has captured 67 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
-|[sludge-2022](https://archive.org/details/sludge-2022)|
 |[sludge-2022](https://archive.org/details/sludge-2022)|
