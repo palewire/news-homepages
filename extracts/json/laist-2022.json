@@ -1,5 +1,5 @@
 {
-  "created": 1657498830,
+  "created": 1657541533,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/0/items/laist-2022",
@@ -9752,31 +9752,73 @@
       "sha1": "902fbcd626ce85a48df0be06a47696f68a5a3dea"
     },
     {
+      "name": "laist-2022-07-10T19:08:55.273625-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657505339",
+      "size": "32144",
+      "md5": "042ded19cfd5151c3ff97fbd8db51d06",
+      "crc32": "77acf3a8",
+      "sha1": "f3b87a7dc0d0a38b1da4c672d7b9b54767c98959",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-07-10T19:08:55.273625-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505341",
+      "size": "35355",
+      "md5": "fc2a29370e69cb682d8a1516939b25d8",
+      "crc32": "c0d867fc",
+      "sha1": "2e778146b56db3fa4289adf368defd9a1331c568",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-07-10T19:08:55.273625-07:00.jpg",
+      "source": "original",
+      "mtime": "1657505337",
+      "size": "289289",
+      "md5": "e28166a57e3ea05c286810730415e906",
+      "crc32": "02304ad3",
+      "sha1": "1df01711a6ad5e5bfe9659a008d06f1388d5c4f5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laist-2022-07-10T19:08:55.273625-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laist-2022-07-10T19:08:55.273625-07:00.jpg",
+      "mtime": "1657505428",
+      "size": "10199",
+      "md5": "424a1bf01e69dff77d43b30a15d89eb8",
+      "crc32": "706ad807",
+      "sha1": "902fbcd626ce85a48df0be06a47696f68a5a3dea"
+    },
+    {
       "name": "laist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4372ba64c62ed0b4581e657935d5521d3d779866",
-      "mtime": "1657477243",
-      "size": "194245",
-      "md5": "b0b2419b631856140afe8694d02ab85b",
-      "crc32": "430c3e88",
-      "sha1": "68c245de3b6a3824e7f4c89c9f1d525bd29e91a4",
+      "btih": "a4d9cda3514a1176ade89434dbcd30115d33fa1d",
+      "mtime": "1657505440",
+      "size": "195063",
+      "md5": "fbf374d5dc2ee193b9fbb8b33d867db1",
+      "crc32": "2e476e06",
+      "sha1": "15fadba850407c6294b26555aae2e4a363fa07b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5bfdca57519c5286577bccdcd870dfa1",
+      "md5": "523d12b2a32b56a2dfce40cd8e46a061",
       "summation": "md5"
     },
     {
       "name": "laist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657477143",
-      "size": "1060864",
-      "md5": "e984d311e9b0aff2b796703a32bf078c",
-      "crc32": "20310a33",
-      "sha1": "45a8c0225e4050e046edd44abdd45abd2fb4e324",
+      "mtime": "1657505345",
+      "size": "1064960",
+      "md5": "1fafde525913779a6f6701525c6bf6c1",
+      "crc32": "1de9535b",
+      "sha1": "1a47d1c949871b67895fd9035e70d38e3f4dcb81",
       "format": "Metadata"
     },
     {
@@ -9790,9 +9832,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 931,
-  "item_last_updated": 1657477243,
-  "item_size": 89973320,
+  "files_count": 935,
+  "item_last_updated": 1657505440,
+  "item_size": 90345221,
   "laist-2022": [
     {
       "text": "Become a sponsor",
@@ -10591,10 +10633,10 @@
     "publicdate": "2022-03-23 02:08:36",
     "addeddate": "2022-03-23 02:08:36"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 777432190,
+  "server": "ia902503.us.archive.org",
+  "uniq": 1199028818,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

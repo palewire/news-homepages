@@ -1,5 +1,5 @@
 {
-  "created": 1657498936,
+  "created": 1657541673,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/npr-2022",
@@ -3250,31 +3250,73 @@
       "sha1": "6178eb686956fb8736b42da72d0f17e549bf0073"
     },
     {
+      "name": "npr-2022-07-10T22:11:50.869084-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657505514",
+      "size": "18711",
+      "md5": "1eecaf5e7c971f667d9996e84c4268a3",
+      "crc32": "c367b4f8",
+      "sha1": "9c7414288a0a6e8ad834d87f1bf20e03d835ab73",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-10T22:11:50.869084-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505516",
+      "size": "28818",
+      "md5": "e11aae302664cd7cd950445d279f082b",
+      "crc32": "7e8ccd97",
+      "sha1": "43679aa581f24c40a9aa2f64e91fe09cb1149483",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-10T22:11:50.869084-04:00.jpg",
+      "source": "original",
+      "mtime": "1657505513",
+      "size": "239078",
+      "md5": "413150d9ecc2fcff06b841306b634fd8",
+      "crc32": "f6311a8c",
+      "sha1": "d337ffc718b4a430fb87e4d8ea1cf4e675894048",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-10T22:11:50.869084-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-10T22:11:50.869084-04:00.jpg",
+      "mtime": "1657505570",
+      "size": "10032",
+      "md5": "f2aa44c27caf197f353283fcd9da7d8a",
+      "crc32": "f6b90359",
+      "sha1": "3afb4ed165192721dd380f85980c6d7691e66ceb"
+    },
+    {
       "name": "npr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74ddbe75efbd6971271f9872fc818cd6de95e284",
-      "mtime": "1657487494",
-      "size": "64865",
-      "md5": "a3b4d6f7f1993a1606b8dc210d24e845",
-      "crc32": "c9339d3b",
-      "sha1": "62c37d4759eb79e660239ddd5f927148559e1f57",
+      "btih": "fb6ae174bdc79e255e956ef3612d5aa6980154a0",
+      "mtime": "1657505576",
+      "size": "65696",
+      "md5": "3676b66d27743cbe9e4c924966019df1",
+      "crc32": "c39fb86f",
+      "sha1": "b3bd562cdc0de2760521b160258aa5d728b39e18",
       "format": "Archive BitTorrent"
     },
     {
       "name": "npr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1107e7156f52adabcaddf617b76ff0ae",
+      "md5": "166c7eefc42203c1a991f766d2f2e899",
       "summation": "md5"
     },
     {
       "name": "npr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657487442",
-      "size": "372736",
-      "md5": "7712cf613ac6b77d03918b67bb734366",
-      "crc32": "85857542",
-      "sha1": "c31ecab9c11fb4cce39f7dd3b92c1fb3ae85a0b0",
+      "mtime": "1657505519",
+      "size": "376832",
+      "md5": "a17a491d23823fab1927b0d08d85c37e",
+      "crc32": "f0128125",
+      "sha1": "5fccc298bff1f874d2523ee9a0a352074c986b23",
       "format": "Metadata"
     },
     {
@@ -3288,9 +3330,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 313,
-  "item_last_updated": 1657487494,
-  "item_size": 25615127,
+  "files_count": 317,
+  "item_last_updated": 1657505576,
+  "item_size": 25916693,
   "metadata": {
     "identifier": "npr-2022",
     "collection": [
@@ -3321,8 +3363,16 @@
       "url": "/"
     },
     {
+      "text": "Sign In",
+      "url": "#"
+    },
+    {
       "text": "NPR Shop",
       "url": "https://shop.npr.org"
+    },
+    {
+      "text": "Donate",
+      "url": "/donations/support"
     },
     {
       "text": "Home",
@@ -3477,6 +3527,10 @@
       "url": "/search/"
     },
     {
+      "text": "Sign In",
+      "url": "#"
+    },
+    {
       "text": "NPR Shop",
       "url": "https://shop.npr.org"
     },
@@ -3545,12 +3599,60 @@
       "url": "https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained"
     },
     {
-      "text": "\n                Scores of people may be trapped after a rocket hit an apartment in Ukraine\n            ",
+      "text": "\n                At least 15 were killed and others are trapped after a Russian strike in Ukraine\n            ",
       "url": "https://www.npr.org/2022/07/10/1110719305/ukraine-donetsk-missile-strike-15-dead-apartment-building"
     },
     {
       "text": "\n                A Russian rocket attack hit the town of Chasiv Yar, destroying a five-story apartment building and killing at least 15 people.\n            ",
       "url": "https://www.npr.org/2022/07/10/1110719305/ukraine-donetsk-missile-strike-15-dead-apartment-building"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/10/1110780292/abbott-reopens-michigan-baby-formula-plant-flooding"
+    },
+    {
+      "text": "\n                            National\n                            ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n            Abbott reopens Michigan baby formula plant after flooding\n            ",
+      "url": "https://www.npr.org/2022/07/10/1110780292/abbott-reopens-michigan-baby-formula-plant-flooding"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1109401395/abortion-out-of-state-travel-costs-companies-roe-v-wade"
+    },
+    {
+      "text": "\n                            Reproductive rights in America\n                            ",
+      "url": "https://www.npr.org/series/1096684820/roe-v-wade-and-the-future-of-reproductive-rights-in-america"
+    },
+    {
+      "text": "\n            How companies offering to cover travel for out-of-state abortions might work\n            ",
+      "url": "https://www.npr.org/2022/07/05/1109401395/abortion-out-of-state-travel-costs-companies-roe-v-wade"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/10/1108555815/pandemic-reinvention-stories-work-life-balance"
+    },
+    {
+      "text": "\n                            National\n                            ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n            The pandemic pushed people to reevaluate their jobs. Meet 5 who reinvented themselves\n            ",
+      "url": "https://www.npr.org/2022/07/10/1108555815/pandemic-reinvention-stories-work-life-balance"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/08/1110539504/twitter-elon-musk-deal-jeopardy"
+    },
+    {
+      "text": "\n                            Technology\n                            ",
+      "url": "https://www.npr.org/sections/technology/"
+    },
+    {
+      "text": "\n            Elon Musk wants out of the Twitter deal. It could end up costing him at least $1 billion\n            ",
+      "url": "https://www.npr.org/2022/07/08/1110539504/twitter-elon-musk-deal-jeopardy"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -3566,18 +3668,6 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/10/1110736363/three-star-general-gary-volesky-suspended-jill-biden-tweet-abortion"
-    },
-    {
-      "text": "\n                            National\n                            ",
-      "url": "https://www.npr.org/sections/national/"
-    },
-    {
-      "text": "\n            A three-star general was suspended by the Army after appearing to mock Jill Biden\n            ",
-      "url": "https://www.npr.org/2022/07/10/1110736363/three-star-general-gary-volesky-suspended-jill-biden-tweet-abortion"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
       "url": "https://www.npr.org/2022/07/10/1110359040/why-it-matters-that-danai-gurira-is-taking-on-richard-iii"
     },
     {
@@ -3589,15 +3679,23 @@
       "url": "https://www.npr.org/2022/07/10/1110359040/why-it-matters-that-danai-gurira-is-taking-on-richard-iii"
     },
     {
+      "text": "Station Finder",
+      "url": "/stations/"
+    },
+    {
       "text": "\n            \n                \n                \n                \n            \n    ",
       "url": "https://www.npr.org/2022/07/10/1110758820/spirit-airlines-fire-plane-atlanta"
     },
     {
-      "text": "\n                            National\n                            ",
+      "text": "\n                        National\n                        ",
       "url": "https://www.npr.org/sections/national/"
     },
     {
-      "text": "\n            The brakes on a Spirit Airlines plane caught fire after landing in Atlanta\n            ",
+      "text": "\n                The brakes on a Spirit Airlines plane caught fire after landing in Atlanta\n            ",
+      "url": "https://www.npr.org/2022/07/10/1110758820/spirit-airlines-fire-plane-atlanta"
+    },
+    {
+      "text": "\n                Nobody was hurt in the incident, but passengers were alarmed when they saw smoke rising from under the plane after touching down.\n            ",
       "url": "https://www.npr.org/2022/07/10/1110758820/spirit-airlines-fire-plane-atlanta"
     },
     {
@@ -3605,40 +3703,56 @@
       "url": "https://www.npr.org/2022/07/10/1110757474/novak-djokovic-wimbledon-mens-grand-slam"
     },
     {
-      "text": "\n                            Sports\n                            ",
+      "text": "\n                        Sports\n                        ",
       "url": "https://www.npr.org/sections/sports/"
     },
     {
-      "text": "\n            Novak Djokovic wins his 7th Wimbledon trophy and closes the gap on Grand Slam titles\n            ",
+      "text": "\n                Novak Djokovic wins his 7th Wimbledon trophy and closes the gap on Grand Slam titles\n            ",
+      "url": "https://www.npr.org/2022/07/10/1110757474/novak-djokovic-wimbledon-mens-grand-slam"
+    },
+    {
+      "text": "\n                The win marks Djokovic's 21st Grand Slam title overall, putting him one behind record-holder Rafael Nadal.\n            ",
       "url": "https://www.npr.org/2022/07/10/1110757474/novak-djokovic-wimbledon-mens-grand-slam"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/05/1109825194/how-to-set-boundaries-nedra-tawwab"
+      "url": "https://www.npr.org/2022/07/10/1110736363/three-star-general-gary-volesky-suspended-jill-biden-tweet-abortion"
     },
     {
-      "text": "\n                            Life Kit\n                            ",
-      "url": "https://www.npr.org/lifekit"
-    },
-    {
-      "text": "\n            The boundaries we set help us guard our energy. Here's how to do it\n            ",
-      "url": "https://www.npr.org/2022/07/05/1109825194/how-to-set-boundaries-nedra-tawwab"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/10/1108555815/pandemic-reinvention-stories-work-life-balance"
-    },
-    {
-      "text": "\n                                    National\n                                    ",
+      "text": "\n                        National\n                        ",
       "url": "https://www.npr.org/sections/national/"
     },
     {
-      "text": "\n                        The pandemic pushed people to reevaluate their jobs. Meet 5 who reinvented themselves\n                    ",
-      "url": "https://www.npr.org/2022/07/10/1108555815/pandemic-reinvention-stories-work-life-balance"
+      "text": "\n                A three-star general was suspended by the Army after appearing to mock Jill Biden\n            ",
+      "url": "https://www.npr.org/2022/07/10/1110736363/three-star-general-gary-volesky-suspended-jill-biden-tweet-abortion"
     },
     {
-      "text": "\n                        Morning Edition spoke with people who changed their jobs and transformed their lives as a result of the pandemic, from a Broadway actor who entered the tech world to a mom who set more boundaries.\n                    ",
-      "url": "https://www.npr.org/2022/07/10/1108555815/pandemic-reinvention-stories-work-life-balance"
+      "text": "\n                Retired Lt. Gen. Gary Volesky was suspended from his contracting role with the Army and is under investigation after replying to a tweet from first lady Jill Biden on abortion rights.\n            ",
+      "url": "https://www.npr.org/2022/07/10/1110736363/three-star-general-gary-volesky-suspended-jill-biden-tweet-abortion"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/05/1109825194/how-to-set-boundaries-nedra-tawwab"
+    },
+    {
+      "text": "\n                                    Life Kit\n                                ",
+      "url": "https://www.npr.org/lifekit"
+    },
+    {
+      "text": "\n                    Your time and energy are valuable. Here are tips for setting healthy boundaries\n                ",
+      "url": "https://www.npr.org/2022/07/05/1109825194/how-to-set-boundaries-nedra-tawwab"
+    },
+    {
+      "text": "                    \n                    Have you ever felt resentful or responded passive-aggressively to a request on your time or energy? That's a sign your boundaries are being crossed, and it might be because you haven't set them clearly.\n                ",
+      "url": "https://www.npr.org/2022/07/05/1109825194/how-to-set-boundaries-nedra-tawwab"
+    },
+    {
+      "text": "Download",
+      "url": "https://play.podtrac.com/npr-510338/edge1.pod.npr.org/anon.npr-mp3/npr/lifekit/2022/07/20220707_lifekit_life_kit-_everyday_boundaries__-_final.mp3?orgId=1&topicId=1029&aggIds=676529561&d=1143&p=510338&story=1109825194&t=podcast&e=1109825194&dl=1&sc=siteplayer&size=18295372&awCollectionId=510338&awEpisodeId=1109825194&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n                    \n                    Transcript\n                  ",
+      "url": "https://www.npr.org/transcripts/1109825194"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -3671,10 +3785,6 @@
     {
       "text": "                    \n                    Teacher Arnulfo \"Arnie\" Reyes was inside a Robb Elementary classroom when the Uvalde shooting began. He was repeatedly shot and spent a month in the hospital. Now, he's trying to heal.\n                ",
       "url": "https://www.npr.org/2022/07/01/1109470664/uvalde-teacher-recovery-shooting"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            5:06\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220701_atc_injured_uvalde_teacher.mp3?orgId=1&topicId=1003&aggIds=1101183663&d=306&p=2&story=1109470664&dl=1&sc=siteplayer&size=4904796&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
       "text": "Download",
@@ -3754,22 +3864,6 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/05/1109401395/abortion-out-of-state-travel-costs-companies-roe-v-wade"
-    },
-    {
-      "text": "\n                        Reproductive rights in America\n                        ",
-      "url": "https://www.npr.org/series/1096684820/roe-v-wade-and-the-future-of-reproductive-rights-in-america"
-    },
-    {
-      "text": "\n                How companies offering to cover travel for out-of-state abortions might work\n            ",
-      "url": "https://www.npr.org/2022/07/05/1109401395/abortion-out-of-state-travel-costs-companies-roe-v-wade"
-    },
-    {
-      "text": "\n                Major companies like Nike and Tesla say they plan to assist employees who live in places where abortion is restricted to travel for the procedure. But several potential pitfalls abound.\n            ",
-      "url": "https://www.npr.org/2022/07/05/1109401395/abortion-out-of-state-travel-costs-companies-roe-v-wade"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
       "url": "https://www.npr.org/2022/07/10/1110745182/oprah-winfrey-father-dies"
     },
     {
@@ -3799,10 +3893,6 @@
     {
       "text": "\n                        For decades, the fire towers in New York's Adirondack Mountains defended the wilderness against fires. The soaring structures offer a vantage point high above summits to take in beautiful sunrises.\n                    ",
       "url": "https://www.npr.org/2022/07/10/1110143790/a-sunrise-trek-to-a-mountain-fire-tower"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            3:06\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220706_atc_a_sunrise_trek_to_a_mountain_fire_tower.mp3?orgId=1&topicId=1003&d=186&p=2&story=1110143790&dl=1&sc=siteplayer&size=2986363&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
       "text": "Download",
@@ -3861,16 +3951,16 @@
       "url": "https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s"
     },
     {
-      "text": "\n        \n            Do you need to wear a mask where you live? Understand the CDC's new guidance\n        \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2021/07/28/1021795290/cdc-mask-guidelines-indoors-vaccinated-by-county-covid-spread"
-    },
-    {
       "text": "\n        \n            Are COVID hospitalizations high where you live? Look up your hospital\n        \n    ",
       "url": "https://www.npr.org/sections/health-shots/2020/12/09/944379919/new-data-reveal-which-hospitals-are-dangerously-full-is-yours"
     },
     {
       "text": "\n        \n            How are the COVID-19 vaccine and booster campaigns going in your state?\n        \n    ",
       "url": "https://www.npr.org/sections/health-shots/2021/01/28/960901166/how-is-the-covid-19-vaccination-campaign-going-in-your-state"
+    },
+    {
+      "text": "\n        \n            Do you need to wear a mask where you live? Understand the CDC's new guidance\n        \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2021/07/28/1021795290/cdc-mask-guidelines-indoors-vaccinated-by-county-covid-spread"
     },
     {
       "text": "news",
@@ -3998,7 +4088,7 @@
     }
   ],
   "server": "ia801409.us.archive.org",
-  "uniq": 843379426,
+  "uniq": 802919611,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

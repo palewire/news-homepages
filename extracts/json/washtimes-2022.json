@@ -1,5 +1,5 @@
 {
-  "created": 1657499179,
+  "created": 1657541989,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -6834,31 +6834,73 @@
       "sha1": "bdcb9d960a22e248ee82dc12c29c98cb852dd6cf"
     },
     {
+      "name": "washtimes-2022-07-10T23:26:04.030532-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657509969",
+      "size": "97276",
+      "md5": "510dd7cd017eee7ce94086dfae4f60bf",
+      "crc32": "b5c81e81",
+      "sha1": "4b14026a4d1f1f77d53d9e39991ead5a46b7ea96",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-07-10T23:26:04.030532-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657509970",
+      "size": "60961",
+      "md5": "ba2db9189e22f4f96fee6f463cc417c6",
+      "crc32": "85ad105d",
+      "sha1": "8cf8ef3eda726893f703602b4c8c45575567561f",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-07-10T23:26:04.030532-04:00.jpg",
+      "source": "original",
+      "mtime": "1657509967",
+      "size": "366230",
+      "md5": "d629cb5234e92da10f3fdda1dae9640b",
+      "crc32": "e98d852e",
+      "sha1": "3385273040da49f23e7784913d873f222a39ea27",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-07-10T23:26:04.030532-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-07-10T23:26:04.030532-04:00.jpg",
+      "mtime": "1657510037",
+      "size": "10885",
+      "md5": "a724d66b968b945f73812c4a6c315ef0",
+      "crc32": "7038a76e",
+      "sha1": "db2d5e55ad640991863216624832ffdc34a8af16"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0590a3847b98cb2c2dbc457f65cf117c521e1425",
-      "mtime": "1657468434",
-      "size": "140139",
-      "md5": "a3d9102383db3276692e7f3863d9206b",
-      "crc32": "6153b8d4",
-      "sha1": "558b022562f1f6d1f64c3a2eb0d16528a969bb1f",
+      "btih": "e5abbbbb63eebae6bd45682fe6d76c5dfbf222b2",
+      "mtime": "1657510048",
+      "size": "141013",
+      "md5": "06903da35a53c463df760818b81e75c8",
+      "crc32": "e0a4cb01",
+      "sha1": "f71265cc305c5cf4c9e930251d105abbe9b832ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "284996345abf6e46c4f2a223a0cbdb66",
+      "md5": "aec8b8c13c9ee1b4afa3b24c1a5a98b2",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657468212",
-      "size": "757760",
-      "md5": "d67ca789b2b7da21ebed98b0cdeedf7c",
-      "crc32": "d68dfc4d",
-      "sha1": "ecf54af1224100708d0bfdb479855d00b9217592",
+      "mtime": "1657509979",
+      "size": "765952",
+      "md5": "79d5b4c8feb790e76c1cef85cc752a52",
+      "crc32": "054109e9",
+      "sha1": "9cd2e1fb3c6fb68e4a444facea7dfe92c77ee04b",
       "format": "Metadata"
     },
     {
@@ -6872,9 +6914,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 654,
-  "item_last_updated": 1657468434,
-  "item_size": 84544570,
+  "files_count": 658,
+  "item_last_updated": 1657510048,
+  "item_size": 85088988,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -6892,7 +6934,7 @@
     "addeddate": "2022-03-25 18:45:19"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 1318862272,
+  "uniq": 936927181,
   "washtimes-2022": [
     {
       "text": "Skip to content",
@@ -7435,16 +7477,16 @@
       "url": "/specials/politically-unstable-podcast/"
     },
     {
+      "text": "Donald Trump",
+      "url": "/topics/donald-trump/"
+    },
+    {
       "text": "Japan",
       "url": "/topics/japan/"
     },
     {
       "text": "Shinz\u014d Abe",
       "url": "/topics/shinzo-abe/"
-    },
-    {
-      "text": "Donald Trump",
-      "url": "/topics/donald-trump/"
     },
     {
       "text": "Sri Lanka",
@@ -7455,32 +7497,48 @@
       "url": "/topics/boris-johnson/"
     },
     {
-      "text": "European Union",
-      "url": "/topics/european-union/"
-    },
-    {
       "text": "Gotabaya Rajapaksa",
       "url": "/topics/gotabaya-rajapaksa/"
     },
     {
-      "text": "India",
-      "url": "/topics/india/"
+      "text": "Atlanta",
+      "url": "/topics/atlanta/"
     },
     {
-      "text": "International Monetary Fund",
-      "url": "/topics/international-monetary-fund/"
+      "text": "Atlanta Braves",
+      "url": "/topics/atlanta-braves/"
     },
     {
-      "text": "Ranil Wickremesinghe",
-      "url": "/topics/ranil-wickremesinghe/"
+      "text": "Baltimore",
+      "url": "/topics/baltimore/"
+    },
+    {
+      "text": "Elizabeth Cheney",
+      "url": "/topics/elizabeth-cheney/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
+      "url": "/news/2022/jul/10/chuck-schumer-tests-positive-covid-19/"
     },
     {
-      "text": "Maryland Gov. Larry Hogan says more people \u2018speaking out every day\u2019 against Trump",
-      "url": "/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
+      "text": "Senate majority leader tests positive for COVID-19",
+      "url": "/news/2022/jul/10/chuck-schumer-tests-positive-covid-19/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/8/josh-hawleys-national-political-ambitions-irk-fell/"
+    },
+    {
+      "text": "Show-Me State No-Show: Josh Hawley\u2019s national political ambitions irk fellow Missouri lawmakers",
+      "url": "/news/2022/jul/8/josh-hawleys-national-political-ambitions-irk-fell/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/10/army-suspends-retired-general-tweet-aimed-first-la/"
+    },
+    {
+      "text": "Army suspends retired general for tweet aimed at first lady Jill Biden",
+      "url": "/news/2022/jul/10/army-suspends-retired-general-tweet-aimed-first-la/"
     },
     {
       "text": "",
@@ -7492,63 +7550,47 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
+      "url": "/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
     },
     {
-      "text": "Kamala Harris ducks question on impeaching conservative justices for overturning Roe v Wade",
-      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/10/commerce-secretary-gina-raimondo-warns-talking-our/"
-    },
-    {
-      "text": "Commerce Secretary Gina Raimondo warns of talking \u2018ourselves into a recession\u2019",
-      "url": "/news/2022/jul/10/commerce-secretary-gina-raimondo-warns-talking-our/"
+      "text": "Maryland Gov. Larry Hogan says more people \u2018speaking out every day\u2019 against Trump",
+      "url": "/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/9/top-us-diplomat-to-pay-abe-condolence-visit-to-jap/"
-    },
-    {
-      "text": "Top U.S. diplomat to pay Abe condolence visit to Japan",
-      "url": "/news/2022/jul/9/top-us-diplomat-to-pay-abe-condolence-visit-to-jap/"
-    },
-    {
-      "text": "",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D1&id=id1&path=%2F&date=7%2F10%2F2022"
+      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D2&id=id2&path=%2F&date=7%2F11%2F2022"
     },
     {
       "text": "Doctor: \u201cDoing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)\u201d",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D1&id=id1&path=%2F&date=7%2F10%2F2022"
+      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D2&id=id2&path=%2F&date=7%2F11%2F2022"
+    },
+    {
+      "text": "High winds send F-18 fighter jet overboard from aircraft carrier",
+      "url": "https://www.washingtontimes.com/news/2022/jul/10/high-winds-send-f-18-fighter-jet-overboard-aircraf/"
+    },
+    {
+      "text": "Maryland Gov. Larry Hogan says more people 'speaking out every day' against Trump",
+      "url": "https://www.washingtontimes.com/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
+    },
+    {
+      "text": "Desperate Democrats start pressing for energy taxes",
+      "url": "https://www.washingtontimes.com/news/2022/jul/9/desperate-democrats-start-pressing-for-energy-taxe/"
     },
     {
       "text": "Trump seeking to attend Abe's funeral in Japan",
       "url": "https://www.washingtontimes.com/news/2022/jul/9/trump-seeking-attend-abes-funeral-japan/"
     },
     {
-      "text": "Top Dem donors boost Liz Cheney's campaign for putting 'country over party'",
-      "url": "https://www.washingtontimes.com/news/2022/jul/9/top-democratic-donors-boost-liz-cheneys-campaign-p/"
-    },
-    {
       "text": "Hunter Biden disparaged Jill Biden as 'vindictive moron,' 'selfish' in alleged texts",
       "url": "https://www.washingtontimes.com/news/2022/jul/9/hunter-biden-disparaged-jill-biden-vindictive-moro/"
-    },
-    {
-      "text": "Landmark school choice ruling at Supreme Court: A win for parents",
-      "url": "https://www.washingtontimes.com/news/2022/jul/4/landmark-school-choice-ruling-at-supreme-court-a-w/"
-    },
-    {
-      "text": "Joe Biden sends 5 million barrels of U.S. oil to Europe, Asia despite soaring gas prices",
-      "url": "https://www.washingtontimes.com/news/2022/jul/6/joe-biden-sends-5-million-barrels-of-us-oil-to-eur/"
     },
     {
       "text": "Inside The Beltway",
       "url": "/news/inside-the-beltway/"
     },
     {
-      "text": "Trump scored higher than Biden in popularity poll 4 years earlier",
-      "url": "/news/2022/jul/7/inside-beltway-poll-shows-donald-trump-more-popula/"
+      "text": "Antietam National Battlefield seeks public input",
+      "url": "/news/2022/jul/10/inside-beltway-antietam-national-battlefield-seeks/"
     },
     {
       "text": "Inside The Ring",
@@ -7599,40 +7641,60 @@
       "url": "//www.washingtontimes.com/puzzles/sudoku/"
     },
     {
-      "text": "Delicate mission: Biden heads to Mideast, Saudi Arabia as global energy prices soar",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
+      "text": "Ukraine gets $400 million of U.S. war supplies; analysts ask how long it can go on",
+      "url": "/news/2022/jul/10/pentagons-own-supply-military-aid-going-ukraine-wo/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
+      "url": "/news/2022/jul/10/pentagons-own-supply-military-aid-going-ukraine-wo/"
     },
     {
-      "text": "Guy Taylor",
-      "url": "https://www.washingtontimes.com/staff/guy-taylor/"
+      "text": "Mike Glenn",
+      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/9/congress-returns-recess-plans-safeguard-abortion-a/"
+      "text": " Ukrainian-born member of U.S. House blasts Biden, Zelenskyy for Ukraine war politicking",
+      "url": "/news/2022/jul/7/ukrainian-born-member-us-house-blasts-biden-zelens/"
     },
     {
-      "text": "Abortion access tops House agenda as Congress returns from recess",
-      "url": "/news/2022/jul/9/congress-returns-recess-plans-safeguard-abortion-a/"
-    },
-    {
-      "text": "Susan Ferrechio",
-      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
+      "text": " Pentagon to send another $400 million in firepower to Ukraine to fight Russian invaders",
+      "url": "/news/2022/jul/8/pentagon-send-another-400-million-firepower-ukrain/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/9/top-democratic-donors-boost-liz-cheneys-campaign-p/"
+      "url": "/news/2022/jul/10/dhs-creates-backdoor-amnesty-illegal-immigrants-un/"
     },
     {
-      "text": "Top Dem donors boost Liz Cheney\u2019s campaign for putting \u2018country over party\u2019",
-      "url": "/news/2022/jul/9/top-democratic-donors-boost-liz-cheneys-campaign-p/"
+      "text": "\u2018Temporary\u2019 migrants who entered illegally get new path to permanent status under Biden policy",
+      "url": "/news/2022/jul/10/dhs-creates-backdoor-amnesty-illegal-immigrants-un/"
     },
     {
-      "text": "Mica Soellner",
-      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
+      "text": "Stephen Dinan",
+      "url": "https://www.washingtontimes.com/staff/stephen-dinan/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/10/sen-john-barrasso-tells-rep-liz-cheney-not-enough-/"
+    },
+    {
+      "text": "Sen. John Barrasso tells Rep. Liz Cheney \u2018not enough Democrats\u2019 in Wyoming for her to win primary",
+      "url": "/news/2022/jul/10/sen-john-barrasso-tells-rep-liz-cheney-not-enough-/"
+    },
+    {
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/8/great-power-tensions-biden-face-delicate-balancing/"
+    },
+    {
+      "text": "Diplomatic drama as Biden, Putin weigh G-20 leaders\u2019 summit",
+      "url": "/news/2022/jul/8/great-power-tensions-biden-face-delicate-balancing/"
+    },
+    {
+      "text": "Ben Wolfgang",
+      "url": "https://www.washingtontimes.com/staff/ben-wolfgang/"
     },
     {
       "text": "",
@@ -7643,40 +7705,28 @@
       "url": "/news/2022/jul/8/pentagon-send-another-400-million-firepower-ukrain/"
     },
     {
-      "text": "Mike Glenn",
-      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
+      "text": "",
+      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
+    },
+    {
+      "text": "Kamala Harris ducks question on impeaching conservative justices for overturning Roe v Wade",
+      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/9/nara-police-chief-admits-security-failure-takes-re/"
+      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
     },
     {
-      "text": "Nara police chief admits security failure, takes responsibility for Shinzo Abe's death",
-      "url": "/news/2022/jul/9/nara-police-chief-admits-security-failure-takes-re/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/8/border-patrol-agents-cleared-whipping-illegal-immi/"
-    },
-    {
-      "text": "Border Patrol agents cleared of whipping illegal immigrants",
-      "url": "/news/2022/jul/8/border-patrol-agents-cleared-whipping-illegal-immi/"
+      "text": "Delicate mission: Biden heads to Mideast, Saudi Arabia as global energy prices soar",
+      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/9/more-300-virginia-state-employees-resign-telework-/"
+      "url": "/news/2022/jul/9/congress-returns-recess-plans-safeguard-abortion-a/"
     },
     {
-      "text": "Youngkin's return-to-office plan prompts departure of over 300 Virginia state employees",
-      "url": "/news/2022/jul/9/more-300-virginia-state-employees-resign-telework-/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/8/josh-hawleys-national-political-ambitions-irk-fell/"
-    },
-    {
-      "text": "Show-Me State No-Show: Josh Hawley's national political ambitions irk fellow Missouri lawmakers",
-      "url": "/news/2022/jul/8/josh-hawleys-national-political-ambitions-irk-fell/"
+      "text": "Abortion access tops House agenda as Congress returns from recess",
+      "url": "/news/2022/jul/9/congress-returns-recess-plans-safeguard-abortion-a/"
     },
     {
       "text": "",
@@ -7688,15 +7738,39 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
+      "url": "/news/2022/jul/10/chuck-schumer-tests-positive-covid-19/"
     },
     {
-      "text": "Maryland Gov. Larry Hogan says more people \u2018speaking out every day\u2019 against Trump",
-      "url": "/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
+      "text": "Senate majority leader tests positive for COVID-19",
+      "url": "/news/2022/jul/10/chuck-schumer-tests-positive-covid-19/"
     },
     {
-      "text": "Ramsey Touchberry",
-      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+      "text": "Susan Ferrechio",
+      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/8/josh-hawleys-national-political-ambitions-irk-fell/"
+    },
+    {
+      "text": "Show-Me State No-Show: Josh Hawley\u2019s national political ambitions irk fellow Missouri lawmakers",
+      "url": "/news/2022/jul/8/josh-hawleys-national-political-ambitions-irk-fell/"
+    },
+    {
+      "text": "Mica Soellner",
+      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/10/army-suspends-retired-general-tweet-aimed-first-la/"
+    },
+    {
+      "text": "Army suspends retired general for tweet aimed at first lady Jill Biden",
+      "url": "/news/2022/jul/10/army-suspends-retired-general-tweet-aimed-first-la/"
+    },
+    {
+      "text": "Mike Glenn",
+      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
     },
     {
       "text": "",
@@ -7709,30 +7783,6 @@
     {
       "text": "Mike Glenn",
       "url": "https://www.washingtontimes.com/staff/mike-glenn/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
-    },
-    {
-      "text": "Kamala Harris ducks question on impeaching conservative justices for overturning Roe v Wade",
-      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
-    },
-    {
-      "text": "Ramsey Touchberry",
-      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/10/commerce-secretary-gina-raimondo-warns-talking-our/"
-    },
-    {
-      "text": "Commerce Secretary Gina Raimondo warns of talking \u2018ourselves into a recession\u2019",
-      "url": "/news/2022/jul/10/commerce-secretary-gina-raimondo-warns-talking-our/"
-    },
-    {
-      "text": "Ramsey Touchberry",
-      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
     },
     {
       "text": "Culture",
@@ -7856,47 +7906,47 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
+      "url": "/news/2022/jul/10/chuck-schumer-tests-positive-covid-19/"
     },
     {
-      "text": "Maryland Gov. Larry Hogan says more people \u2018speaking out every day\u2019 against Trump",
-      "url": "/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
+      "text": "Senate majority leader tests positive for COVID-19",
+      "url": "/news/2022/jul/10/chuck-schumer-tests-positive-covid-19/"
     },
     {
-      "text": "Ramsey Touchberry",
-      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
-    },
-    {
-      "text": "Delicate mission: Biden heads to Mideast, Saudi Arabia as global energy prices soar",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
-    },
-    {
-      "text": "Guy Taylor",
-      "url": "https://www.washingtontimes.com/staff/guy-taylor/"
+      "text": "Susan Ferrechio",
+      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
+      "url": "/news/2022/jul/10/william-lori-baltimore-archbishop-joe-biden-path-l/"
     },
     {
-      "text": "Kamala Harris ducks question on impeaching conservative justices for overturning Roe v Wade",
-      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
+      "text": "Biden on \u2018path that leads to death\u2019 with abortion order, leading Catholic bishop says",
+      "url": "/news/2022/jul/10/william-lori-baltimore-archbishop-joe-biden-path-l/"
     },
     {
-      "text": "Ramsey Touchberry",
-      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+      "text": "Mark A. Kellner",
+      "url": "https://www.washingtontimes.com/staff/mark-a-kellner/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/commerce-secretary-gina-raimondo-warns-talking-our/"
+      "url": "/news/2022/jul/10/inside-beltway-antietam-national-battlefield-seeks/"
     },
     {
-      "text": "Commerce Secretary Gina Raimondo warns of talking \u2018ourselves into a recession\u2019",
-      "url": "/news/2022/jul/10/commerce-secretary-gina-raimondo-warns-talking-our/"
+      "text": "Antietam National Battlefield seeks public input",
+      "url": "/news/2022/jul/10/inside-beltway-antietam-national-battlefield-seeks/"
+    },
+    {
+      "text": "Jennifer Harper",
+      "url": "https://www.washingtontimes.com/staff/jennifer-harper/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/10/sen-john-barrasso-tells-rep-liz-cheney-not-enough-/"
+    },
+    {
+      "text": "Sen. John Barrasso tells Rep. Liz Cheney \u2018not enough Democrats\u2019 in Wyoming for her to win primary",
+      "url": "/news/2022/jul/10/sen-john-barrasso-tells-rep-liz-cheney-not-enough-/"
     },
     {
       "text": "Ramsey Touchberry",
@@ -7996,11 +8046,11 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/high-winds-send-f-18-fighter-jet-overboard-aircraf/"
+      "url": "/news/2022/jul/10/pentagons-own-supply-military-aid-going-ukraine-wo/"
     },
     {
-      "text": "High winds send F-18 fighter jet overboard from aircraft carrier",
-      "url": "/news/2022/jul/10/high-winds-send-f-18-fighter-jet-overboard-aircraf/"
+      "text": "Ukraine gets $400 million of U.S. war supplies; analysts ask how long it can go on",
+      "url": "/news/2022/jul/10/pentagons-own-supply-military-aid-going-ukraine-wo/"
     },
     {
       "text": "Mike Glenn",
@@ -8008,31 +8058,31 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
+      "url": "/news/2022/jul/10/successors-to-johnson-seek-to-stand-out-in-crowded/"
     },
     {
-      "text": "Delicate mission: Biden heads to Mideast, Saudi Arabia as global energy prices soar",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
-    },
-    {
-      "text": "Guy Taylor",
-      "url": "https://www.washingtontimes.com/staff/guy-taylor/"
+      "text": "Successors to Johnson seek to stand out in crowded UK field",
+      "url": "/news/2022/jul/10/successors-to-johnson-seek-to-stand-out-in-crowded/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/ukraine-15-dead-in-rocket-attack-on-apartment-buil/"
+      "url": "/news/2022/jul/10/sri-lanka-opposition-meets-to-name-new-govt-amid-t/"
     },
     {
-      "text": "Ukraine: 15 dead in rocket attack on apartment building",
-      "url": "/news/2022/jul/10/ukraine-15-dead-in-rocket-attack-on-apartment-buil/"
+      "text": "Sri Lanka opposition meets to name new gov\u2019t amid turmoil",
+      "url": "/news/2022/jul/10/sri-lanka-opposition-meets-to-name-new-govt-amid-t/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/9/top-us-diplomat-to-pay-abe-condolence-visit-to-jap/"
+      "url": "/news/2022/jul/10/army-suspends-retired-general-tweet-aimed-first-la/"
     },
     {
-      "text": "Top U.S. diplomat to pay Abe condolence visit to Japan",
-      "url": "/news/2022/jul/9/top-us-diplomat-to-pay-abe-condolence-visit-to-jap/"
+      "text": "Army suspends retired general for tweet aimed at first lady Jill Biden",
+      "url": "/news/2022/jul/10/army-suspends-retired-general-tweet-aimed-first-la/"
+    },
+    {
+      "text": "Mike Glenn",
+      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
     },
     {
       "text": "Sports",
@@ -8044,39 +8094,43 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/9/austin-riley-kyle-wright-pace-surging-braves-in-4-/"
+      "url": "/news/2022/jul/10/nationals-outfielder-juan-soto-selected-all-star-g/"
     },
     {
-      "text": "Riley, Wright pace surging Braves in win over Nationals",
-      "url": "/news/2022/jul/9/austin-riley-kyle-wright-pace-surging-braves-in-4-/"
+      "text": "Nationals outfielder Juan Soto selected as All-Star Game reserve",
+      "url": "/news/2022/jul/10/nationals-outfielder-juan-soto-selected-all-star-g/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/9/elena-rybakina-wins-wimbledon-womens-final-for-fir/"
-    },
-    {
-      "text": "Elena Rybakina wins Wimbledon women\u2019s final for first Grand Slam title",
-      "url": "/news/2022/jul/9/elena-rybakina-wins-wimbledon-womens-final-for-fir/"
+      "text": "Jacob Calvin Meyer",
+      "url": "https://www.washingtontimes.com/staff/jacob-calvin-meyer/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/7/loverro-allen-snyder-feud-continues-take-toll-fran/"
+      "url": "/news/2022/jul/10/capitals-enter-chaotic-goalie-market-after-trading/"
     },
     {
-      "text": "LOVERRO: The Allen-Snyder feud continues to take a toll on the franchise",
-      "url": "/news/2022/jul/7/loverro-allen-snyder-feud-continues-take-toll-fran/"
+      "text": "Capitals enter \u2018chaotic\u2019 goalie market after trading Vanecek",
+      "url": "/news/2022/jul/10/capitals-enter-chaotic-goalie-market-after-trading/"
     },
     {
-      "text": "Thom Loverro",
-      "url": "https://www.washingtontimes.com/staff/thom-loverro/"
+      "text": "Jacob Calvin Meyer",
+      "url": "https://www.washingtontimes.com/staff/jacob-calvin-meyer/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/9/nevin-family-os-win-7th-in-row-angels-drop-10-unde/"
+      "url": "/news/2022/jul/10/austin-riley-hits-rbi-single-in-12th-surging-brave/"
     },
     {
-      "text": "Nevin family: Orioles win seventh in row, Angels drop 10 under .500",
-      "url": "/news/2022/jul/9/nevin-family-os-win-7th-in-row-angels-drop-10-unde/"
+      "text": "Riley hits RBI single in 12th, surging Braves top Nationals",
+      "url": "/news/2022/jul/10/austin-riley-hits-rbi-single-in-12th-surging-brave/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/10/novak-djokovic-beats-nick-kyrgios-for-7th-wimbledo/"
+    },
+    {
+      "text": "Novak Djokovic beats Nick Kyrgios for seventh Wimbledon title",
+      "url": "/news/2022/jul/10/novak-djokovic-beats-nick-kyrgios-for-7th-wimbledo/"
     },
     {
       "text": "Sponsored Content",
@@ -8120,15 +8174,103 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
+      "url": "/news/2022/jul/10/army-suspends-retired-general-tweet-aimed-first-la/"
     },
     {
-      "text": "Kamala Harris ducks question on impeaching conservative justices for overturning Roe v Wade",
-      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
+      "text": "Army suspends retired general for tweet aimed at first lady Jill Biden",
+      "url": "/news/2022/jul/10/army-suspends-retired-general-tweet-aimed-first-la/"
+    },
+    {
+      "text": "Mike Glenn",
+      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/10/high-winds-send-f-18-fighter-jet-overboard-aircraf/"
+    },
+    {
+      "text": "High winds send F-18 fighter jet overboard from aircraft carrier",
+      "url": "/news/2022/jul/10/high-winds-send-f-18-fighter-jet-overboard-aircraf/"
+    },
+    {
+      "text": "Mike Glenn",
+      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
+    },
+    {
+      "text": "Maryland Gov. Larry Hogan says more people \u2018speaking out every day\u2019 against Trump",
+      "url": "/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
     },
     {
       "text": "Ramsey Touchberry",
       "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/8/more-ceos-join-great-resignation-recession-looms/"
+    },
+    {
+      "text": "More CEOs join \u2018Great Resignation\u2019 as recession looms",
+      "url": "/news/2022/jul/8/more-ceos-join-great-resignation-recession-looms/"
+    },
+    {
+      "text": "Sean Salai",
+      "url": "https://www.washingtontimes.com/staff/sean-salai/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/8/dems-ongoing-district-offices-closures-covid-19-em/"
+    },
+    {
+      "text": "Democrats\u2019 closed-for-COVID office policy emerges as \u2018do-nothing Congress\u2019 campaign issue",
+      "url": "/news/2022/jul/8/dems-ongoing-district-offices-closures-covid-19-em/"
+    },
+    {
+      "text": "Haris Alic",
+      "url": "https://www.washingtontimes.com/staff/haris-alic/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/10/virginia-gov-glenn-youngkin-pushes-15-week-abortio/"
+    },
+    {
+      "text": "Virginia Gov. Glenn Youngkin pushes for 15-week abortion ban",
+      "url": "/news/2022/jul/10/virginia-gov-glenn-youngkin-pushes-15-week-abortio/"
+    },
+    {
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/10/rep-zoe-lofgren-ex-trump-aide-steve-bannon-willing/"
+    },
+    {
+      "text": "Rep. Zoe Lofgren: Ex-Trump aide Steve Bannon willing to testify to Jan. 6 panel",
+      "url": "/news/2022/jul/10/rep-zoe-lofgren-ex-trump-aide-steve-bannon-willing/"
+    },
+    {
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/10/sri-lanka-opposition-meets-to-name-new-govt-amid-t/"
+    },
+    {
+      "text": "Sri Lanka opposition meets to name new gov\u2019t amid turmoil",
+      "url": "/news/2022/jul/10/sri-lanka-opposition-meets-to-name-new-govt-amid-t/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/10/yosemite-fire-grows-as-crews-protect-iconic-sequoi/"
+    },
+    {
+      "text": "Yosemite fire grows as crews protect iconic sequoias",
+      "url": "/news/2022/jul/10/yosemite-fire-grows-as-crews-protect-iconic-sequoi/"
     },
     {
       "text": "",
@@ -8141,86 +8283,6 @@
     {
       "text": "Ramsey Touchberry",
       "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/9/top-us-diplomat-to-pay-abe-condolence-visit-to-jap/"
-    },
-    {
-      "text": "Top U.S. diplomat to pay Abe condolence visit to Japan",
-      "url": "/news/2022/jul/9/top-us-diplomat-to-pay-abe-condolence-visit-to-jap/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/9/masks-advised-new-york-covid-19-case-levels-go/"
-    },
-    {
-      "text": "Return of the mask: New York recommends face coverings with COVID cases on the rise",
-      "url": "/news/2022/jul/9/masks-advised-new-york-covid-19-case-levels-go/"
-    },
-    {
-      "text": "Matt Delaney",
-      "url": "https://www.washingtontimes.com/staff/matt-delaney/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/8/elon-musk-says-hes-terminating-44b-twitter-buyout-/"
-    },
-    {
-      "text": "Elon Musk says he\u2019s terminating Twitter deal, board to fight",
-      "url": "/news/2022/jul/8/elon-musk-says-hes-terminating-44b-twitter-buyout-/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/9/uk-defense-minister-rules-himself-out-of-leadershi/"
-    },
-    {
-      "text": "U.K. defense minister rules himself out of leadership race",
-      "url": "/news/2022/jul/9/uk-defense-minister-rules-himself-out-of-leadershi/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/9/glitch-opens-floodgates-free-doordash-orders/"
-    },
-    {
-      "text": "DoorDash spammed with free orders following short-lived glitch",
-      "url": "/news/2022/jul/9/glitch-opens-floodgates-free-doordash-orders/"
-    },
-    {
-      "text": "Matt Delaney",
-      "url": "https://www.washingtontimes.com/staff/matt-delaney/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/9/former-prime-minister-shinzo-abes-body-arrives-in-/"
-    },
-    {
-      "text": "Abe\u2019s body arrives in Tokyo as country mourns ex-PM\u2019s death",
-      "url": "/news/2022/jul/9/former-prime-minister-shinzo-abes-body-arrives-in-/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/9/pregnant-texas-woman-argue-unborn-child-counts-hov/"
-    },
-    {
-      "text": "Pregnant Texas woman argues unborn child counts as HOV passenger",
-      "url": "/news/2022/jul/9/pregnant-texas-woman-argue-unborn-child-counts-hov/"
-    },
-    {
-      "text": "Matt Delaney",
-      "url": "https://www.washingtontimes.com/staff/matt-delaney/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/9/actor-tony-sirico-sopranos-star-dead-79/"
-    },
-    {
-      "text": "Actor Tony Sirico, \u2018Sopranos\u2019 star, dead at 79",
-      "url": "/news/2022/jul/9/actor-tony-sirico-sopranos-star-dead-79/"
-    },
-    {
-      "text": "Mark A. Kellner",
-      "url": "https://www.washingtontimes.com/staff/mark-a-kellner/"
     },
     {
       "text": "",
@@ -8251,28 +8313,28 @@
       "url": ""
     },
     {
-      "text": "Cheryl K. Chumley",
-      "url": "/staff/cheryl-k-chumley/"
+      "text": "Everett Piper",
+      "url": "/staff/everett-piper/"
     },
     {
-      "text": "Joe Biden unleashes DOJ, HHS to shove abortion down states\u2019 throats",
-      "url": "/news/2022/jul/9/joe-biden-unleashes-doj-hhs-to-shove-abortion-down/"
-    },
-    {
-      "text": "",
-      "url": ""
+      "text": "The canine behavior of the LGBTQ cabal",
+      "url": "/news/2022/jul/10/the-canine-behavior-of-the-lgbtq-cabal/"
     },
     {
       "text": "",
       "url": ""
     },
     {
-      "text": "Michael McKenna",
-      "url": "/staff/michael-mckenna/"
+      "text": "",
+      "url": ""
     },
     {
-      "text": "Desperate Democrats start pressing for energy taxes",
-      "url": "/news/2022/jul/9/desperate-democrats-start-pressing-for-energy-taxe/"
+      "text": "Robert Knight",
+      "url": "/staff/robert-knight/"
+    },
+    {
+      "text": "A lofty fight against the left\u2019s Godless modernity",
+      "url": "/news/2022/jul/10/a-lofty-fight-against-the-lefts-godless-modernity/"
     },
     {
       "text": "MORE COLUMNISTS ",
@@ -8360,6 +8422,30 @@
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
+      "url": "/news/2022/jul/10/the-canine-behavior-of-the-lgbtq-cabal/"
+    },
+    {
+      "text": "The canine behavior of the LGBTQ cabal",
+      "url": "/news/2022/jul/10/the-canine-behavior-of-the-lgbtq-cabal/"
+    },
+    {
+      "text": "Everett Piper",
+      "url": "https://www.washingtontimes.com/staff/everett-piper/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
+      "url": "/news/2022/jul/10/a-lofty-fight-against-the-lefts-godless-modernity/"
+    },
+    {
+      "text": "A lofty fight against the left\u2019s Godless modernity",
+      "url": "/news/2022/jul/10/a-lofty-fight-against-the-lefts-godless-modernity/"
+    },
+    {
+      "text": "Robert Knight",
+      "url": "https://www.washingtontimes.com/staff/robert-knight/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
       "url": "/news/2022/jul/9/desperate-democrats-start-pressing-for-energy-taxe/"
     },
     {
@@ -8385,30 +8471,6 @@
     {
       "text": "Biden\u2019s Plan B for Iran",
       "url": "/news/2022/jul/8/bidens-plan-b-for-iran/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/8/reparations-the-lefts-new-segregation/"
-    },
-    {
-      "text": "Reparations: The left\u2019s new segregation",
-      "url": "/news/2022/jul/8/reparations-the-lefts-new-segregation/"
-    },
-    {
-      "text": "Tom Basile",
-      "url": "https://www.washingtontimes.com/staff/tom-basile/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/7/democrats-offer-word-salad-in-response-to-unspeaka/"
-    },
-    {
-      "text": "Democrats offer word salad in response to unspeakable tragedy",
-      "url": "/news/2022/jul/7/democrats-offer-word-salad-in-response-to-unspeaka/"
-    },
-    {
-      "text": "Charles Hurt",
-      "url": "https://www.washingtontimes.com/staff/charles-hurt/"
     },
     {
       "text": "Latest Cartoon",
@@ -8496,7 +8558,7 @@
     },
     {
       "text": "View today's front page >",
-      "url": "/multimedia/image/6_a01-wtna0708jpg/"
+      "url": "/multimedia/image/6_a01-wtna0711jpg/"
     },
     {
       "text": "Waste, Fraud & Abuse",
@@ -8519,48 +8581,48 @@
       "url": "/news/security/"
     },
     {
+      "text": "Ukraine gets $400 million of U.S. war supplies; analysts ask how long it can go on",
+      "url": "/news/2022/jul/10/pentagons-own-supply-military-aid-going-ukraine-wo/"
+    },
+    {
+      "text": "Army suspends retired general for tweet aimed at first lady Jill Biden",
+      "url": "/news/2022/jul/10/army-suspends-retired-general-tweet-aimed-first-la/"
+    },
+    {
       "text": "High winds send F-18 fighter jet overboard from aircraft carrier",
       "url": "/news/2022/jul/10/high-winds-send-f-18-fighter-jet-overboard-aircraf/"
-    },
-    {
-      "text": "Delicate mission: Biden heads to Mideast, Saudi Arabia as global energy prices soar",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
-    },
-    {
-      "text": "China steps up influence operations of state, local officials, U.S. agency\u2019s report says",
-      "url": "/news/2022/jul/7/china-steps-influence-operations-state-local-offic/"
     },
     {
       "text": "D.C. Local",
       "url": "/news/local/"
     },
     {
+      "text": "Three Montgomery County churches vandalized, torched in possible bias incident",
+      "url": "/news/2022/jul/10/three-montgomery-county-churches-vandalized-torche/"
+    },
+    {
+      "text": "Virginia Gov. Glenn Youngkin pushes for 15-week abortion ban",
+      "url": "/news/2022/jul/10/virginia-gov-glenn-youngkin-pushes-15-week-abortio/"
+    },
+    {
       "text": "Maryland Gov. Larry Hogan says more people \u2018speaking out every day\u2019 against Trump",
       "url": "/news/2022/jul/10/maryland-gov-larry-hogan-says-more-people-speaking/"
-    },
-    {
-      "text": "Virginia-based van, training targets opioid overdoses",
-      "url": "/news/2022/jul/9/virginia-based-van-training-targets-opioid-overdos/"
-    },
-    {
-      "text": "Seven postal workers robbed in D.C. area over past week",
-      "url": "/news/2022/jul/9/seventh-postal-worker-robbed-dc-area-last-week/"
     },
     {
       "text": "World",
       "url": "/news/world/"
     },
     {
-      "text": "High winds send F-18 fighter jet overboard from aircraft carrier",
-      "url": "/news/2022/jul/10/high-winds-send-f-18-fighter-jet-overboard-aircraf/"
+      "text": "Ukraine gets $400 million of U.S. war supplies; analysts ask how long it can go on",
+      "url": "/news/2022/jul/10/pentagons-own-supply-military-aid-going-ukraine-wo/"
     },
     {
-      "text": "Delicate mission: Biden heads to Mideast, Saudi Arabia as global energy prices soar",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
+      "text": "Successors to Johnson seek to stand out in crowded UK field",
+      "url": "/news/2022/jul/10/successors-to-johnson-seek-to-stand-out-in-crowded/"
     },
     {
-      "text": "Ukraine: 15 dead in rocket attack on apartment building",
-      "url": "/news/2022/jul/10/ukraine-15-dead-in-rocket-attack-on-apartment-buil/"
+      "text": "Sri Lanka opposition meets to name new gov\u2019t amid turmoil",
+      "url": "/news/2022/jul/10/sri-lanka-opposition-meets-to-name-new-govt-amid-t/"
     },
     {
       "text": "Business & Economy",
@@ -8583,16 +8645,16 @@
       "url": "/news/faith-family/"
     },
     {
+      "text": "Three Montgomery County churches vandalized, torched in possible bias incident",
+      "url": "/news/2022/jul/10/three-montgomery-county-churches-vandalized-torche/"
+    },
+    {
       "text": "America\u2019s largest Presbyterian denomination denounces Israel as an \u2018apartheid\u2019 state",
       "url": "/news/2022/jul/8/americas-largest-presbyterian-denomination-denounc/"
     },
     {
       "text": "Biden urges voters to pick pro-abortion candidates, signs executive order protecting abortion access",
       "url": "/news/2022/jul/8/biden-uses-executive-order-protect-abortion-access/"
-    },
-    {
-      "text": "Republican lawmakers blast Biden administration grant to protect atheists overseas",
-      "url": "/news/2022/jul/8/republican-lawmakers-slam-biden-administration-gra/"
     },
     {
       "text": "Health",

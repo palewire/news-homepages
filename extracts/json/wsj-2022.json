@@ -1,5 +1,5 @@
 {
-  "created": 1657487525,
+  "created": 1657542028,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/13/items/wsj-2022",
@@ -10666,31 +10666,63 @@
       "sha1": "f94098b287a016586fbad5e5e99bf40e5c95fcb8"
     },
     {
+      "name": "wsj-2022-07-10T23:27:08.818509-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657510040",
+      "size": "65296",
+      "md5": "b9ca2c7b2f000995fdf429f584df41ac",
+      "crc32": "08aeaa11",
+      "sha1": "0a7e1df57ab6379253cb5c3ef51c614aa401bb73",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-07-10T23:27:08.818509-04:00.jpg",
+      "source": "original",
+      "mtime": "1657510037",
+      "size": "388513",
+      "md5": "d5c0c2003ad16adbc2f027682e534d3b",
+      "crc32": "1a3c62c9",
+      "sha1": "2f50bdc258032c66c096b9f28c5465508cfa372d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsj-2022-07-10T23:27:08.818509-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsj-2022-07-10T23:27:08.818509-04:00.jpg",
+      "mtime": "1657510105",
+      "size": "9706",
+      "md5": "3d4f132d0e3dafd038c13a27bc0a0f7e",
+      "crc32": "551e8a40",
+      "sha1": "8b56b9838323f0f3a5028c65b14ecffc1b41ef7b"
+    },
+    {
       "name": "wsj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "833bb9ca9c2108827827349cbe5e2d2afb1d8b19",
-      "mtime": "1657487511",
-      "size": "212092",
-      "md5": "01be71ed729c55d52fbdc8d8f394e905",
-      "crc32": "cc2d963c",
-      "sha1": "3d80501e2bd1627fd671799a7f221a63c367c60c",
+      "btih": "6a18fc8ae29c3a636fdb3d4e170f361c78fdb6ad",
+      "mtime": "1657510117",
+      "size": "212715",
+      "md5": "57d813fa88e0bc1ef4e1d64cb2b2ade8",
+      "crc32": "82608dff",
+      "sha1": "a1514e74a0d1d9b33d927b804c7faa88db75443b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b0c2766b6a5c3762fd89d03a6b994f8",
+      "md5": "52f9e03f98d00bcf3e1b2512a0ecfff0",
       "summation": "md5"
     },
     {
       "name": "wsj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657487435",
-      "size": "1155072",
-      "md5": "3ec85497dcce1ac77d11b2b495897ca6",
-      "crc32": "9cd5ab77",
-      "sha1": "33b992c6e882f2b8ec14c94185d40ae481f6d576",
+      "mtime": "1657510041",
+      "size": "1159168",
+      "md5": "d1799733941c558b2a6e258a8cc0ae02",
+      "crc32": "8da76d7c",
+      "sha1": "54ddddde0436ff0c32ae34e02e9c20082ea08b26",
       "format": "Metadata"
     },
     {
@@ -10704,9 +10736,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1018,
-  "item_last_updated": 1657487511,
-  "item_size": 152207393,
+  "files_count": 1021,
+  "item_last_updated": 1657510117,
+  "item_size": 152675627,
   "metadata": {
     "identifier": "wsj-2022",
     "collection": [
@@ -10723,10 +10755,2002 @@
     "publicdate": "2022-03-23 12:05:37",
     "addeddate": "2022-03-23 12:05:37"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1726930950,
+  "server": "ia902507.us.archive.org",
+  "uniq": 929087188,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
-  ]
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
+  ],
+  "wsj-2022": {
+    "role": "WebArea",
+    "name": "The Wall Street Journal - Breaking News, Business, Financial & Economic News, World News and Video",
+    "children": [
+      {
+        "role": "button",
+        "name": "SKIP TO MAIN CONTENT"
+      },
+      {
+        "role": "button",
+        "name": "SKIP TO SEARCH"
+      },
+      {
+        "role": "text",
+        "name": "Skip to..."
+      },
+      {
+        "role": "combobox",
+        "name": "Select \u2228",
+        "haspopup": "listbox"
+      },
+      {
+        "role": "combobox",
+        "name": "DOW JONES, A NEWS CORP COMPANY",
+        "haspopup": "menu"
+      },
+      {
+        "role": "link",
+        "name": "About WSJ"
+      },
+      {
+        "role": "link",
+        "name": "NIKKEI 225 Index currently 26787.00 points with a 1.02% increase"
+      },
+      {
+        "role": "link",
+        "name": "Hang Seng Index currently 21189.09 points with a 2.47% decrease"
+      },
+      {
+        "role": "link",
+        "name": "U.S. 10 Year Treasury Note currently -1/32 Yield with a 3.092% decrease"
+      },
+      {
+        "role": "link",
+        "name": "Crude Oil currently 103.89 points with a 0.86% decrease"
+      },
+      {
+        "role": "link",
+        "name": "Japanese Yen currently 137.02 points with a 0.68% increase"
+      },
+      {
+        "role": "link",
+        "name": "The Wall Street Journal"
+      },
+      {
+        "role": "link",
+        "name": "Subscribe"
+      },
+      {
+        "role": "link",
+        "name": "Sign In"
+      },
+      {
+        "role": "link",
+        "name": "FOURTH OF JULY SALE: $4 PER MONTH"
+      },
+      {
+        "role": "combobox",
+        "name": "English Edition",
+        "haspopup": "menu"
+      },
+      {
+        "role": "link",
+        "name": "Print Edition"
+      },
+      {
+        "role": "link",
+        "name": "Video"
+      },
+      {
+        "role": "link",
+        "name": "Podcasts"
+      },
+      {
+        "role": "link",
+        "name": "Latest Headlines"
+      },
+      {
+        "role": "menubar",
+        "name": "Primary Navigation",
+        "orientation": "horizontal",
+        "children": [
+          {
+            "role": "menuitem",
+            "name": "Home"
+          },
+          {
+            "role": "menuitem",
+            "name": "World",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "U.S.",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "Politics",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "Economy",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "Business",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "Tech",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "Markets",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "Opinion",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "Books & Arts",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "Real Estate",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "Life & Work",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "Style",
+            "haspopup": "menu"
+          },
+          {
+            "role": "menuitem",
+            "name": "Sports",
+            "haspopup": "menu"
+          }
+        ]
+      },
+      {
+        "role": "button",
+        "name": "Open Search"
+      },
+      {
+        "role": "searchbox",
+        "name": "Search the Wall Street Journal"
+      },
+      {
+        "role": "button",
+        "name": "Submit Button"
+      },
+      {
+        "role": "button",
+        "name": "Close Search"
+      },
+      {
+        "role": "text",
+        "name": "TAKE A SURVEY"
+      },
+      {
+        "role": "text",
+        "name": "We want to hear from you. Take part in this short survey to help shape The Wall Street Journal."
+      },
+      {
+        "role": "link",
+        "name": "Take Survey",
+        "description": "TAKE A SURVEY"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "region",
+        "name": "Top News",
+        "children": [
+          {
+            "role": "link",
+            "name": "Elon Musk\u2019s Twitter Flip-Flop Cues Up Strange Legal Feud"
+          },
+          {
+            "role": "text",
+            "name": "In trying to terminate his $44 billion takeover deal, Tesla boss sets stage for what could become one of the oddest courtroom battles in corporate-takeover history."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 71 responses"
+          },
+          {
+            "role": "text",
+            "name": "9 min read"
+          },
+          {
+            "role": "link",
+            "name": "Deal Collided With Market and Economic Tumult"
+          },
+          {
+            "role": "link",
+            "name": "Move to End Deal Clouds Company\u2019s Future"
+          },
+          {
+            "role": "link",
+            "name": "Heard on the Street: Musk Is Twitter\u2019s Material Adverse Effect"
+          },
+          {
+            "role": "link",
+            "name": "Stocks Face Test as Inflation Looms Over Earnings"
+          },
+          {
+            "role": "text",
+            "name": "Quarterly reports kick off this week with big financial companies. Some investors say corporate-profit forecasts are overly optimistic."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 125 responses"
+          },
+          {
+            "role": "text",
+            "name": "5 min read"
+          },
+          {
+            "role": "link",
+            "name": "Business Insurance Costs Rise"
+          },
+          {
+            "role": "link",
+            "name": "The Outlook: For the Fed, Easing Too Soon Risks Repeat of Stop-and-Go 1970s"
+          },
+          {
+            "role": "link",
+            "name": "Tech\u2019s Red-Hot Hiring Spree Shows Signs of Cooling"
+          },
+          {
+            "role": "text",
+            "name": "High-profile tech companies have announced plans to slow hiring or cut jobs, and are in some cases warning employees to brace themselves for tougher times."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 78 responses"
+          },
+          {
+            "role": "text",
+            "name": "5 min read"
+          },
+          {
+            "role": "link",
+            "name": "For Crypto Survivors, There Are Deals to Be Had"
+          },
+          {
+            "role": "text",
+            "name": "A blowout in the cryptocurrency market sparked a wave of layoffs, punished valuations and drove some companies to bankruptcy. Now firms that still have capital are gearing up for a shopping spree."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 69 responses"
+          },
+          {
+            "role": "text",
+            "name": "5 min read"
+          },
+          {
+            "role": "link",
+            "name": "Rout Deflates Some Digital-Token Startups"
+          },
+          {
+            "role": "link",
+            "name": "Celsius Hires New Restructuring Lawyers"
+          },
+          {
+            "role": "link",
+            "name": "FDIC Scrutinizes Voyager\u2019s Marketing"
+          },
+          {
+            "role": "link",
+            "name": "Bannon Willing to Testify Before Jan. 6 Panel"
+          },
+          {
+            "role": "text",
+            "name": "Former Trump adviser Steve Bannon told the committee investigating the Capitol riot that he is willing to testify, reversing course as he faced trial for contempt of Congress over his refusal to cooperate."
+          },
+          {
+            "role": "text",
+            "name": "4 min read"
+          },
+          {
+            "role": "link",
+            "name": "Jan. 6 Hearings: What\u2019s Next"
+          },
+          {
+            "role": "link",
+            "name": "Biden\u2019s Mideast Trip Is a High-Risk Bid to Reset Saudi Ties"
+          },
+          {
+            "role": "text",
+            "name": "The president is trying to balance human-rights concerns with Riyadh\u2019s power over oil."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 68 responses"
+          },
+          {
+            "role": "text",
+            "name": "6 min read"
+          },
+          {
+            "role": "link",
+            "name": "Egyptian Activist Is Litmus Test for West"
+          },
+          {
+            "role": "link",
+            "name": "Protesters occupied the president\u2019s residence Sunday in Colombo, Sri Lanka\u2019s capital, a day after storming it."
+          },
+          {
+            "role": "text",
+            "name": "Protesters occupied the president\u2019s residence Sunday in Colombo, Sri Lanka\u2019s capital, a day after storming it."
+          },
+          {
+            "role": "link",
+            "name": "Sri Lanka Crisis Flashes Warning for Other Indebted Economies"
+          },
+          {
+            "role": "text",
+            "name": "Protests in Sri Lanka, which forced out the president and prime minister, signal tough choices ahead for other countries with high debt and shortages of food and energy."
+          },
+          {
+            "role": "text",
+            "name": "5 min read"
+          },
+          {
+            "role": "link",
+            "name": "Protesters Storm Sri Lankan President\u2019s Residence, Office"
+          },
+          {
+            "role": "link",
+            "name": "What to Know About the Protests and Economic Crisis"
+          },
+          {
+            "role": "link",
+            "name": "Ukraine War Pushes Millions of the World\u2019s Poorest Toward Starvation"
+          },
+          {
+            "role": "link",
+            "name": "Ukraine War Pushes Millions of the World\u2019s Poorest Toward Starvation"
+          },
+          {
+            "role": "text",
+            "name": "Malnutrition wards in Somalia are overflowing, with children bearing the brunt as prices of food staples surge since Russia\u2019s invasion of Ukraine."
+          },
+          {
+            "role": "text",
+            "name": "9 min read"
+          },
+          {
+            "role": "link",
+            "name": "Manufacturers Brace for Nord Stream Repairs, Fearing Pipeline Won\u2019t Reopen"
+          },
+          {
+            "role": "link",
+            "name": "Ukraine\u2019s Defense Minister Says It Has \u2018Passed Test\u2019 on U.S. Guided Rockets"
+          },
+          {
+            "role": "link",
+            "name": "Novak Djokovic Kept Calm and Carried On\u2014and Won Wimbledon"
+          },
+          {
+            "role": "text",
+            "name": "JASON GAY"
+          },
+          {
+            "role": "link",
+            "name": "Novak Djokovic Kept Calm and Carried On\u2014and Won Wimbledon"
+          },
+          {
+            "role": "text",
+            "name": "Djokovic\u2019s jagged reign in men\u2019s tennis has been marked by stretches of brilliant play undone by occasional acts of self-sabotage. He is capable of endearing the crowd one moment\u2013and feeling its wrath the next. Not on Sunday, however."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 59 responses"
+          },
+          {
+            "role": "text",
+            "name": "5 min read"
+          },
+          {
+            "role": "link",
+            "name": "Djokovic Outlasts Kyrgios to Notch 21st Major Title"
+          },
+          {
+            "role": "link",
+            "name": "Congress to Juggle China Bill, Democrats\u2019 Climate and Drug-Pricing Ambitions"
+          },
+          {
+            "role": "text",
+            "name": "As U.S. lawmakers return to work, the focus is on a bipartisan bill to boost competitiveness with China while Democrats seek to revive pieces of President Biden\u2019s stalled economic agenda."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 103 responses"
+          },
+          {
+            "role": "text",
+            "name": "6 min read"
+          },
+          {
+            "role": "link",
+            "name": "Abe\u2019s Goal of Revising Japan Constitution Moves Closer After Party\u2019s Election Victory"
+          },
+          {
+            "role": "text",
+            "name": "Prime Minister Fumio Kishida said he would push to revise the constitution to cement the military\u2019s role, a longtime goal of slain former leader Shinzo Abe, after his ruling coalition won the majority of seats at stake in parliamentary elections."
+          },
+          {
+            "role": "text",
+            "name": "4 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Featured Stories",
+        "children": [
+          {
+            "role": "link",
+            "name": "\u2018Thor: Love and Thunder\u2019 Rocks the Box Office"
+          },
+          {
+            "role": "link",
+            "name": "\u2018Thor: Love and Thunder\u2019 Rocks the Box Office4 min read"
+          },
+          {
+            "role": "link",
+            "name": "Traveling Internationally? Don\u2019t Overpay to Use Your Phone"
+          },
+          {
+            "role": "text",
+            "name": "PERSONAL TECH | NICOLE NGUYEN"
+          },
+          {
+            "role": "link",
+            "name": "Traveling Internationally? Don\u2019t Overpay to Use Your Phone8 min read"
+          },
+          {
+            "role": "link",
+            "name": "U.K. Weighs Saying Cheerio to Metric System. Opponent: \u2018This Is Insane.\u2019"
+          },
+          {
+            "role": "text",
+            "name": "THE A-HED"
+          },
+          {
+            "role": "link",
+            "name": "U.K. Weighs Saying Cheerio to Metric System. Opponent: \u2018This Is Insane.\u20196 min read"
+          }
+        ]
+      },
+      {
+        "role": "heading",
+        "name": "COLUMNISTS",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "Christopher Mims"
+      },
+      {
+        "role": "link",
+        "name": "Why Elon Musk and Jack Dorsey Are So Interested in Super Apps"
+      },
+      {
+        "role": "text",
+        "name": "By Christopher Mims"
+      },
+      {
+        "role": "link",
+        "name": "Rory Satran"
+      },
+      {
+        "role": "link",
+        "name": "A $100,000 Dress, Perhaps, For the End of the World?"
+      },
+      {
+        "role": "text",
+        "name": "By Rory Satran"
+      },
+      {
+        "role": "link",
+        "name": "Dan Neil"
+      },
+      {
+        "role": "link",
+        "name": "McLaren Speedtail: A $3 Million Zoom With a View"
+      },
+      {
+        "role": "text",
+        "name": "By Dan Neil"
+      },
+      {
+        "role": "region",
+        "name": "Business & Finance",
+        "children": [
+          {
+            "role": "link",
+            "name": "BUSINESS & FINANCE"
+          },
+          {
+            "role": "link",
+            "name": "Baby-Formula Production Has Restarted at Abbott\u2019s Michigan Plant"
+          },
+          {
+            "role": "link",
+            "name": "Baby-Formula Production Has Restarted at Abbott\u2019s Michigan Plant"
+          },
+          {
+            "role": "text",
+            "name": "The company paused production at its Sturgis, Mich., facility after storms last month flooded part of it."
+          },
+          {
+            "role": "text",
+            "name": "3 min read"
+          },
+          {
+            "role": "link",
+            "name": "Private Aviation Struggles to Move Past Leaded Fuel"
+          },
+          {
+            "role": "text",
+            "name": "Communities are ramping up opposition to the toxic additive, but technical and business challenges make it hard to replace."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 137 responses"
+          },
+          {
+            "role": "text",
+            "name": "5 min read"
+          },
+          {
+            "role": "text",
+            "name": "HEARD ON THE STREET"
+          },
+          {
+            "role": "link",
+            "name": "Long Covid Is an Elusive Target for Big Pharma"
+          },
+          {
+            "role": "text",
+            "name": "The drug industry developed Covid-19 vaccines and treatments at breakneck speed, yet treatments for the post-viral illness known as long Covid are nowhere close to being developed."
+          },
+          {
+            "role": "text",
+            "name": "4 min read"
+          },
+          {
+            "role": "link",
+            "name": "Freight Rates Are Starting to Fall as Shipping Demand Wavers"
+          },
+          {
+            "role": "text",
+            "name": "High-price freight contracts that were written when carrier capacity was tight and a rush to restock inventories was in full force are losing their shine as slowing demand and a wavering U.S. economy send shipping rates sliding."
+          },
+          {
+            "role": "text",
+            "name": "4 min read"
+          },
+          {
+            "role": "link",
+            "name": "Starbucks Stops Selling New Chicken Sandwich Over Quality Concerns"
+          },
+          {
+            "role": "text",
+            "name": "The coffee chain took a chicken, maple butter and egg item off its menu less than a week after its national debut."
+          },
+          {
+            "role": "text",
+            "name": "2 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "U.S.",
+        "children": [
+          {
+            "role": "link",
+            "name": "U.S."
+          },
+          {
+            "role": "link",
+            "name": "Doctors Struggle With Conflicting Abortion Laws"
+          },
+          {
+            "role": "link",
+            "name": "Doctors Struggle With Conflicting Abortion Laws"
+          },
+          {
+            "role": "text",
+            "name": "A federal law that requires doctors to provide emergency treatment to stabilize certain patients may necessitate performing an abortion in some cases."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 112 responses"
+          },
+          {
+            "role": "text",
+            "name": "42 min ago"
+          },
+          {
+            "role": "text",
+            "name": "\u00a0"
+          },
+          {
+            "role": "text",
+            "name": "6 min read"
+          },
+          {
+            "role": "link",
+            "name": "Lawsuits to Test Whether State Constitutions Protect Abortion Rights"
+          },
+          {
+            "role": "link",
+            "name": "Election Officials Confront Cyber Threats, False Claims Ahead of Midterms"
+          },
+          {
+            "role": "text",
+            "name": "The nation\u2019s secretaries of state are working to ward off cyber threats and restore voter confidence after a flood of unsubstantiated election-fraud claims."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 35 responses"
+          },
+          {
+            "role": "text",
+            "name": "4 min read"
+          },
+          {
+            "role": "link",
+            "name": "A 14-Year-Old Boy Fatally Stabbed in Manhattan Subway Station"
+          },
+          {
+            "role": "text",
+            "name": "The New York Police Department charged a 15-year-old male Sunday for fatally stabbing another teen during a weekend that included two deadly shootings by police shootings and gunfire at a Coney Island party."
+          },
+          {
+            "role": "text",
+            "name": "4 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "The Future of Everything | Money & Finance",
+        "children": [
+          {
+            "role": "link",
+            "name": "THE FUTURE OF EVERYTHING | MONEY & FINANCE"
+          },
+          {
+            "role": "link",
+            "name": "Financial Jobs of the Future"
+          },
+          {
+            "role": "text",
+            "name": "THE FUTURE OF EVERYTHING | MONEY & FINANCE"
+          },
+          {
+            "role": "link",
+            "name": "Financial Jobs of the Future"
+          },
+          {
+            "role": "text",
+            "name": "NFT Appraiser? Financial-Bot Supervisor? Industry insiders on the unexpected roles they see coming."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 16 responses"
+          },
+          {
+            "role": "text",
+            "name": "5 min read"
+          },
+          {
+            "role": "link",
+            "name": "High-Tech Weathermen Forecast Climate Risks for Bond Investors"
+          },
+          {
+            "role": "link",
+            "name": "Cryptocurrency Is Coming to Your Credit Cards"
+          },
+          {
+            "role": "link",
+            "name": "WORLD"
+          },
+          {
+            "role": "link",
+            "name": "U.K.\u2019s Next Leader Faces Challenges Unseen Since Thatcher"
+          },
+          {
+            "role": "text",
+            "name": "Trust in political institutions has ebbed among the British public, and the country is experiencing its largest drop in real incomes since the 1950s."
+          },
+          {
+            "role": "text",
+            "name": "6 min read"
+          },
+          {
+            "role": "link",
+            "name": "Macau Shuts Casinos as City Enters Weeklong Lockdown"
+          },
+          {
+            "role": "text",
+            "name": "Authorities are trying to contain a spiraling Covid-19 outbreak in the Chinese gambling hub, ordering all businesses aside from essential services to close and requiring residents to stay at home."
+          },
+          {
+            "role": "text",
+            "name": "1 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Fashion",
+        "children": [
+          {
+            "role": "heading",
+            "name": "FASHION",
+            "level": 2
+          },
+          {
+            "role": "link",
+            "name": "Paris Couture 2022: Best Looks From Balenciaga, Schiaparelli and More"
+          },
+          {
+            "role": "link",
+            "name": "Paris Couture 2022: Best Looks From Balenciaga, Schiaparelli and More"
+          },
+          {
+            "role": "text",
+            "name": "See the best looks from couture week in Paris including stunning fashion from Balenciaga, Schiaparelli and Chanel."
+          },
+          {
+            "role": "link",
+            "name": "Want a Chic Belt? Skip the Garish Logo"
+          },
+          {
+            "role": "link",
+            "name": "When Grandma\u2019s Fancy Heirloom Jewelry Gets an Everyday Makeover"
+          },
+          {
+            "role": "heading",
+            "name": "WEEKEND READS",
+            "level": 2
+          },
+          {
+            "role": "link",
+            "name": "Miami\u2019s Gold Rush: Finance Firms and Crypto Move In, Bringing Strains"
+          },
+          {
+            "role": "text",
+            "name": "South Florida wants to remake itself into a business powerhouse, but is it doing too much too fast?"
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 236 responses"
+          },
+          {
+            "role": "text",
+            "name": "Long read"
+          },
+          {
+            "role": "link",
+            "name": "Fed Up With China, One Boss Tries Removing It From the Supply Chain"
+          },
+          {
+            "role": "text",
+            "name": "Designer perfume maker Inter Parfums is shifting production to U.S., but some suppliers are unsure how long it will last."
+          },
+          {
+            "role": "link",
+            "name": "Join the Conversation: 96 responses"
+          },
+          {
+            "role": "text",
+            "name": "6 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Video",
+        "children": [
+          {
+            "role": "link",
+            "name": "VIDEO"
+          },
+          {
+            "role": "generic",
+            "name": "Sri Lankan President, Prime Minister to Resign as Protesters Storm Residences",
+            "children": [
+              {
+                "role": "text",
+                "name": "Sri Lankan President, Prime Minister to Resign as Protesters Storm Residences"
+              },
+              {
+                "role": "button",
+                "name": "Play video"
+              },
+              {
+                "role": "img",
+                "name": "Sri Lankan President, Prime Minister to Resign as Protesters Storm Residences"
+              }
+            ]
+          },
+          {
+            "role": "heading",
+            "name": "Sri Lankan President, Prime Minister to Resign as Protesters Storm Residences",
+            "level": 3
+          },
+          {
+            "role": "text",
+            "name": "1:05"
+          },
+          {
+            "role": "heading",
+            "name": "Researchers Look to Fungi for the Future of Building Materials",
+            "level": 3
+          },
+          {
+            "role": "text",
+            "name": "4:57"
+          },
+          {
+            "role": "heading",
+            "name": "Why Your Office Feels So Cold",
+            "level": 3
+          },
+          {
+            "role": "text",
+            "name": "5:34"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Economy"
+      },
+      {
+        "role": "region",
+        "name": "Real Estate"
+      },
+      {
+        "role": "region",
+        "name": "Sports"
+      },
+      {
+        "role": "link",
+        "name": "BUY SIDE from WSJ The Buy Side team is independent of The Wall Street Journal newsroom"
+      },
+      {
+        "role": "link",
+        "name": "The Best Rugs if You Have a Rolling Desk Chair"
+      },
+      {
+        "role": "link",
+        "name": "The Best Rugs if You Have a Rolling Desk Chair"
+      },
+      {
+        "role": "text",
+        "name": "These artful options for a home office won\u2019t get in the way of your wheels."
+      },
+      {
+        "role": "text",
+        "name": "9 min read"
+      },
+      {
+        "role": "link",
+        "name": "5 of the Best Messenger Bags You Can Buy Right Now4 min read"
+      },
+      {
+        "role": "link",
+        "name": "Wells Fargo Active Cash\u00ae Card6 min read"
+      },
+      {
+        "role": "region",
+        "name": "CMO",
+        "children": [
+          {
+            "role": "link",
+            "name": "CMO"
+          },
+          {
+            "role": "link",
+            "name": "Three Things Marketers Should Know About Ad Spending Trends"
+          },
+          {
+            "role": "link",
+            "name": "Three Things Marketers Should Know About Ad Spending Trends4 min read"
+          },
+          {
+            "role": "link",
+            "name": "Abortion Providers Face New Legal Barriers to Marketing5 min read"
+          },
+          {
+            "role": "link",
+            "name": "Slim Beverage Cans Gain Ground Against Their Squatter Cousins4 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "CIO",
+        "children": [
+          {
+            "role": "link",
+            "name": "CIO"
+          },
+          {
+            "role": "link",
+            "name": "CVS Introduces New C-Level Role to Guide Tech Strategy"
+          },
+          {
+            "role": "link",
+            "name": "CVS Introduces New C-Level Role to Guide Tech Strategy3 min read"
+          },
+          {
+            "role": "link",
+            "name": "Startups Strive to Reach Scale Amid Economic, Financial Headwinds5 min read"
+          },
+          {
+            "role": "link",
+            "name": "Health Insurers Have the Data. Will Patients Listen?4 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "CFO",
+        "children": [
+          {
+            "role": "link",
+            "name": "CFO"
+          },
+          {
+            "role": "link",
+            "name": "Higher Financing Costs, Lower Valuations Crimp M&A"
+          },
+          {
+            "role": "link",
+            "name": "Higher Financing Costs, Lower Valuations Crimp M&A4 min read"
+          },
+          {
+            "role": "link",
+            "name": "GameStop Appoints New Chief Financial Officer3 min read"
+          },
+          {
+            "role": "link",
+            "name": "Crypto Exchange Binance.US Hires New CFO Amid Market Rout2 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Risk & Compliance",
+        "children": [
+          {
+            "role": "link",
+            "name": "RISK & COMPLIANCE"
+          },
+          {
+            "role": "link",
+            "name": "Treasury Outlines International Engagement on Digital Asset Regulations"
+          },
+          {
+            "role": "link",
+            "name": "Treasury Outlines International Engagement on Digital Asset Regulations2 min read"
+          },
+          {
+            "role": "link",
+            "name": "U.S. State Department Names New Global Anticorruption Coordinator2 min read"
+          },
+          {
+            "role": "link",
+            "name": "Companies Face Compliance Challenges Under U.S. Forced-Labor Law Targeting China4 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Logistics Report",
+        "children": [
+          {
+            "role": "link",
+            "name": "LOGISTICS REPORT"
+          },
+          {
+            "role": "link",
+            "name": "Large Retailers Are Getting Hit Hardest by Overstocking"
+          },
+          {
+            "role": "link",
+            "name": "Large Retailers Are Getting Hit Hardest by Overstocking3 min read"
+          },
+          {
+            "role": "link",
+            "name": "Today\u2019s Logistics Report: U.S. Imports are Slowing; Chip Market Turning; Natural Gas is Drying Up1 min read"
+          },
+          {
+            "role": "link",
+            "name": "Port Labor Talks Enter New, High-Stakes Phase With Contract Expiring5 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Sustainable Business",
+        "children": [
+          {
+            "role": "link",
+            "name": "SUSTAINABLE BUSINESS"
+          },
+          {
+            "role": "link",
+            "name": "The 100% Recyclable Running Shoe That\u2019s Only Available by Subscription"
+          },
+          {
+            "role": "link",
+            "name": "The 100% Recyclable Running Shoe That\u2019s Only Available by Subscription6 min read"
+          },
+          {
+            "role": "link",
+            "name": "Enzymes Could Help Brands Like Patagonia and Puma Hit Plastic-Recycling Targets4 min read"
+          },
+          {
+            "role": "link",
+            "name": "Lack of Progress on Deforestation Puts Net-Zero Targets at Risk, Study Says3 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Heard on the Street",
+        "children": [
+          {
+            "role": "link",
+            "name": "HEARD ON THE STREET"
+          },
+          {
+            "role": "link",
+            "name": "Elon Musk Is Twitter\u2019s Material Adverse Effect"
+          },
+          {
+            "role": "link",
+            "name": "Elon Musk Is Twitter\u2019s Material Adverse Effect 4 min read"
+          },
+          {
+            "role": "link",
+            "name": "The Fed Can\u2019t Print More Workers3 min read"
+          },
+          {
+            "role": "link",
+            "name": "The Economy Could Have a Long Case of Long Covid 5 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Barron\u2019s",
+        "children": [
+          {
+            "role": "link",
+            "name": "BARRON\u2019S"
+          },
+          {
+            "role": "link",
+            "name": "*** ONE-TIME USE *** Traders work on the floor of the New York Stock Exchange (NYSE) on June 16, 2022 in New York City."
+          },
+          {
+            "role": "link",
+            "name": "U.S. Stocks Poised for Lower Open on Monday1 min read"
+          },
+          {
+            "role": "link",
+            "name": "'Thor: Love and Thunder' in $143 Million Debut2 min read"
+          },
+          {
+            "role": "link",
+            "name": "JPMorgan, Delta, Morgan Stanley: Stocks to Watch3 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "MarketWatch",
+        "children": [
+          {
+            "role": "link",
+            "name": "MARKETWATCH"
+          },
+          {
+            "role": "link",
+            "name": "Hong Kong gambling stocks fall on Macau casino closures1 min read"
+          },
+          {
+            "role": "link",
+            "name": "Buttigieg defends Kavanaugh protesters' right to demonstrate during his dinner1 min read"
+          },
+          {
+            "role": "link",
+            "name": "Twitter, Elon Musk hire legal heavyweights for upcoming court battle: report1 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Mansion Global",
+        "children": [
+          {
+            "role": "link",
+            "name": "MANSION GLOBAL"
+          },
+          {
+            "role": "link",
+            "name": "Ascent, a luxury apartment building constructed with mass timber in Milwaukee."
+          },
+          {
+            "role": "text",
+            "name": "Independent of The Wall Street Journal newsroom."
+          },
+          {
+            "role": "link",
+            "name": "The Warmth of Wood Taken to New Heights8 min read"
+          },
+          {
+            "role": "link",
+            "name": "Week in Review: Paul Simon, Downsizing, and Record-Setting1 min read"
+          },
+          {
+            "role": "link",
+            "name": "The Listings of the Week: A Hollywood Legend\u2019s New York Estate, a Former Baseball Star\u2019s California Ranch and More1 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Penta",
+        "children": [
+          {
+            "role": "link",
+            "name": "PENTA"
+          },
+          {
+            "role": "link",
+            "name": "Visitors with Alma Thomas' Red Rose Cantata at the National Gallery of Art, Washington, D.C. The museum is among those seeking to align their investments with their mission and values on topics such as gender and racial diversity and environmental sustainability."
+          },
+          {
+            "role": "link",
+            "name": "Most Museums Don\u2019t Put Their Money Where Their Values Are4 min read"
+          },
+          {
+            "role": "link",
+            "name": "Great Escapes: A Renaissance in Florence, Italy5 min read"
+          },
+          {
+            "role": "link",
+            "name": "Breitling Refashions Its Superocean Watch for a New Era3 min read"
+          }
+        ]
+      },
+      {
+        "role": "complementary",
+        "name": "Market Data",
+        "children": [
+          {
+            "role": "text",
+            "name": "US"
+          },
+          {
+            "role": "text",
+            "name": "EUROPE"
+          },
+          {
+            "role": "text",
+            "name": "ASIA"
+          },
+          {
+            "role": "text",
+            "name": "FX"
+          },
+          {
+            "role": "text",
+            "name": "RATES"
+          },
+          {
+            "role": "text",
+            "name": "FUTURES"
+          },
+          {
+            "role": "link",
+            "name": ""
+          },
+          {
+            "role": "text",
+            "name": "1D"
+          },
+          {
+            "role": "text",
+            "name": "5D"
+          },
+          {
+            "role": "text",
+            "name": "3M"
+          },
+          {
+            "role": "text",
+            "name": "6M"
+          },
+          {
+            "role": "text",
+            "name": "1Y"
+          },
+          {
+            "role": "text",
+            "name": "DJIA"
+          },
+          {
+            "role": "text",
+            "name": "31338.15"
+          },
+          {
+            "role": "text",
+            "name": "-46.40"
+          },
+          {
+            "role": "text",
+            "name": "-0.15%"
+          },
+          {
+            "role": "text",
+            "name": "S&P 500"
+          },
+          {
+            "role": "text",
+            "name": "3899.38"
+          },
+          {
+            "role": "text",
+            "name": "-3.24"
+          },
+          {
+            "role": "text",
+            "name": "-0.08%"
+          },
+          {
+            "role": "text",
+            "name": "Nasdaq"
+          },
+          {
+            "role": "text",
+            "name": "11635.31"
+          },
+          {
+            "role": "text",
+            "name": "13.96"
+          },
+          {
+            "role": "text",
+            "name": "0.12%"
+          },
+          {
+            "role": "text",
+            "name": "Russell 2000"
+          },
+          {
+            "role": "text",
+            "name": "1769.36"
+          },
+          {
+            "role": "text",
+            "name": "-0.24"
+          },
+          {
+            "role": "text",
+            "name": "-0.01%"
+          },
+          {
+            "role": "text",
+            "name": "DJ Total Mkt"
+          },
+          {
+            "role": "text",
+            "name": "39181.63"
+          },
+          {
+            "role": "text",
+            "name": "-43.64"
+          },
+          {
+            "role": "text",
+            "name": "-0.11%"
+          },
+          {
+            "role": "link",
+            "name": "View Watchlist"
+          },
+          {
+            "role": "link",
+            "name": "View All Market Data \u2192"
+          }
+        ]
+      },
+      {
+        "role": "complementary",
+        "name": "Opinion",
+        "children": [
+          {
+            "role": "link",
+            "name": "OPINION"
+          },
+          {
+            "role": "link",
+            "name": "Twitter Is the Biggest Musk Loser"
+          },
+          {
+            "role": "text",
+            "name": "By The Editorial Board"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "text",
+            "name": "Review & Outlook"
+          },
+          {
+            "role": "link",
+            "name": "Pete Buttigieg\u2019s Climate Toll Road"
+          },
+          {
+            "role": "text",
+            "name": "By The Editorial Board"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "text",
+            "name": "Review & Outlook"
+          },
+          {
+            "role": "link",
+            "name": "Many Baby Boomers Will Soon Need Adult Supervision"
+          },
+          {
+            "role": "text",
+            "name": "By Stephen Miller"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "text",
+            "name": "Commentary"
+          },
+          {
+            "role": "link",
+            "name": "When Public Disorder Reigns"
+          },
+          {
+            "role": "text",
+            "name": "By The Editorial Board"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "text",
+            "name": "Review & Outlook"
+          },
+          {
+            "role": "link",
+            "name": "By Andy Kessler"
+          },
+          {
+            "role": "link",
+            "name": "The Many Reasons ESG Is a Loser"
+          },
+          {
+            "role": "text",
+            "name": "By Andy Kessler"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "text",
+            "name": "Inside View"
+          },
+          {
+            "role": "link",
+            "name": "Congress Rejects Biden\u2019s Defense Budget"
+          },
+          {
+            "role": "text",
+            "name": "By The Editorial Board"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "text",
+            "name": "Review & Outlook"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "",
+        "children": [
+          {
+            "role": "text",
+            "name": "Got a tip for us?"
+          },
+          {
+            "role": "text",
+            "name": "Here\u2019s how to submit it."
+          }
+        ]
+      },
+      {
+        "role": "complementary",
+        "name": "",
+        "children": [
+          {
+            "role": "heading",
+            "name": "MOST POPULAR NEWS",
+            "level": 2
+          },
+          {
+            "role": "link",
+            "name": "A $100,000 Dress, Perhaps, For the End of the World?"
+          },
+          {
+            "role": "link",
+            "name": "Ukraine\u2019s Defense Minister Says It Has \u2018Passed Test\u2019 on New U.S. Guided Rockets, Needs More"
+          },
+          {
+            "role": "link",
+            "name": "Five Easy Exercises to Get Your Foot and Ankle Strength Right"
+          },
+          {
+            "role": "link",
+            "name": "The Exposure of China\u2019s \u2018Bought Wives\u2019"
+          },
+          {
+            "role": "link",
+            "name": "Fed Up With China, One Boss Tries Removing It From the Supply Chain"
+          }
+        ]
+      },
+      {
+        "role": "complementary",
+        "name": "",
+        "children": [
+          {
+            "role": "heading",
+            "name": "MOST POPULAR OPINION",
+            "level": 2
+          },
+          {
+            "role": "link",
+            "name": "Opinion: Notable & Quotable: Justice Kavanaugh at Morton\u2019s"
+          },
+          {
+            "role": "link",
+            "name": "Opinion: The Many Reasons ESG Is a Loser"
+          },
+          {
+            "role": "link",
+            "name": "Opinion: Build a Charter School, Get Sued by the Teachers Union"
+          },
+          {
+            "role": "link",
+            "name": "Opinion: Wisconsin Ballot Drop Boxes Are Illegal"
+          },
+          {
+            "role": "link",
+            "name": "Opinion: A Lyft for California\u2019s Tax Rates"
+          }
+        ]
+      },
+      {
+        "role": "complementary",
+        "name": "",
+        "children": [
+          {
+            "role": "heading",
+            "name": "RECOMMENDED VIDEOS",
+            "level": 2
+          },
+          {
+            "role": "link",
+            "name": "Video: Mike Pence Receives Covid-19 Vaccine. 2 minutes 21 seconds"
+          },
+          {
+            "role": "link",
+            "name": "Video: Regina King on How \"Boyz n the Hood\" Changed her Life. 3 minutes 12 seconds"
+          },
+          {
+            "role": "link",
+            "name": "Video: Republican Party Faces Questions on Its Future as Trump Presidency Ends. 2 minutes 27 seconds"
+          },
+          {
+            "role": "link",
+            "name": "Video: Another Victim of China\u2019s Trade Battles? Australian Wine. 7 minutes 1 second"
+          },
+          {
+            "role": "link",
+            "name": "Video: Visual Analysis: Ukrainian Civilians Hit by Russia's Troops Across the Country. 5 minutes 22 seconds"
+          }
+        ]
+      },
+      {
+        "role": "complementary",
+        "name": "Journal Reports",
+        "children": [
+          {
+            "role": "link",
+            "name": "JOURNAL REPORTS"
+          },
+          {
+            "role": "link",
+            "name": "Retirees Spend a Lot of Time and Money to Buy Their \u2018Forever Home.\u2019 Then They Sell It."
+          },
+          {
+            "role": "link",
+            "name": "Retirees Spend a Lot of Time and Money to Buy Their \u2018Forever Home.\u2019 Then They Sell It."
+          },
+          {
+            "role": "text",
+            "name": "It doesn\u2019t take long for people to discover that what\u2019s perfect now is far from perfect before too long. And it costs them."
+          },
+          {
+            "role": "text",
+            "name": "9 min read"
+          },
+          {
+            "role": "link",
+            "name": "How NCAA\u2019s New Rules Are Opening Money Doors for Student Athletes Outside Marquee Sports"
+          },
+          {
+            "role": "link",
+            "name": "The Problem With How Many Financial Advisers Set Their Fees"
+          },
+          {
+            "role": "link",
+            "name": "I Graduated From College Free of Student Debt. I\u2019m Not a Model for Anyone.6 min read"
+          },
+          {
+            "role": "link",
+            "name": "Four Simple Ways Bosses Can Reduce Stress at Work7 min read"
+          }
+        ]
+      },
+      {
+        "role": "region",
+        "name": "Sponsored Offers",
+        "children": [
+          {
+            "role": "text",
+            "name": "SPONSORED OFFERS"
+          },
+          {
+            "role": "text",
+            "name": "WAYFAIR"
+          },
+          {
+            "role": "text",
+            "name": ":"
+          },
+          {
+            "role": "link",
+            "name": "Up to 15% off + free shipping at Wayfair"
+          },
+          {
+            "role": "text",
+            "name": "TARGET"
+          },
+          {
+            "role": "text",
+            "name": ":"
+          },
+          {
+            "role": "link",
+            "name": "Up to 60% off - Target Promo Code"
+          },
+          {
+            "role": "text",
+            "name": "MACY'S"
+          },
+          {
+            "role": "text",
+            "name": ":"
+          },
+          {
+            "role": "link",
+            "name": "Macy's coupon - Sign up to get 25% off next order"
+          },
+          {
+            "role": "text",
+            "name": "KOHL'S"
+          },
+          {
+            "role": "text",
+            "name": ":"
+          },
+          {
+            "role": "link",
+            "name": "Kohl's coupon - 30% off sitewide for Rewards members"
+          },
+          {
+            "role": "text",
+            "name": "SAKS FIFTH AVENUE"
+          },
+          {
+            "role": "text",
+            "name": ":"
+          },
+          {
+            "role": "link",
+            "name": "$20 off sitewide + free shipping - Saks Fifth Avenue coupon"
+          },
+          {
+            "role": "text",
+            "name": "PRETTYLITTLETHING"
+          },
+          {
+            "role": "text",
+            "name": ":"
+          },
+          {
+            "role": "link",
+            "name": "Sign up for emails and get 20% off PrettyLittleThing discount code + $1 shipping"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "The Wall Street Journal"
+      },
+      {
+        "role": "combobox",
+        "name": "English Edition",
+        "haspopup": "menu"
+      },
+      {
+        "role": "link",
+        "name": "Subscribe Now"
+      },
+      {
+        "role": "link",
+        "name": "Sign In"
+      },
+      {
+        "role": "button",
+        "name": "BACK TO TOP\u00ab"
+      },
+      {
+        "role": "link",
+        "name": "WSJ+ Membership Benefits"
+      },
+      {
+        "role": "link",
+        "name": "Subscription Options"
+      },
+      {
+        "role": "link",
+        "name": "Why Subscribe?"
+      },
+      {
+        "role": "link",
+        "name": "Corporate Subscriptions"
+      },
+      {
+        "role": "link",
+        "name": "Professor Journal"
+      },
+      {
+        "role": "link",
+        "name": "Student Journal"
+      },
+      {
+        "role": "link",
+        "name": "WSJ High School Program"
+      },
+      {
+        "role": "link",
+        "name": "Public Library Program"
+      },
+      {
+        "role": "link",
+        "name": "WSJ Live"
+      },
+      {
+        "role": "link",
+        "name": "Customer Center"
+      },
+      {
+        "role": "link",
+        "name": "Contact Us"
+      },
+      {
+        "role": "link",
+        "name": "Newsletters & Alerts"
+      },
+      {
+        "role": "link",
+        "name": "Guides"
+      },
+      {
+        "role": "link",
+        "name": "Topics"
+      },
+      {
+        "role": "link",
+        "name": "My News"
+      },
+      {
+        "role": "link",
+        "name": "RSS Feeds"
+      },
+      {
+        "role": "link",
+        "name": "Video Center"
+      },
+      {
+        "role": "link",
+        "name": "Watchlist"
+      },
+      {
+        "role": "link",
+        "name": "Podcasts"
+      },
+      {
+        "role": "link",
+        "name": "Visual Stories"
+      },
+      {
+        "role": "link",
+        "name": "Advertise"
+      },
+      {
+        "role": "link",
+        "name": "Commercial Real Estate Ads"
+      },
+      {
+        "role": "link",
+        "name": "Place a Classified Ad"
+      },
+      {
+        "role": "link",
+        "name": "Sell Your Business"
+      },
+      {
+        "role": "link",
+        "name": "Sell Your Home"
+      },
+      {
+        "role": "link",
+        "name": "Recruitment & Career Ads"
+      },
+      {
+        "role": "link",
+        "name": "Coupons"
+      },
+      {
+        "role": "link",
+        "name": "Digital Self Service"
+      },
+      {
+        "role": "link",
+        "name": "About Us"
+      },
+      {
+        "role": "link",
+        "name": "Commercial Partnerships"
+      },
+      {
+        "role": "link",
+        "name": "Content Partnerships"
+      },
+      {
+        "role": "link",
+        "name": "Corrections"
+      },
+      {
+        "role": "link",
+        "name": "Jobs at WSJ"
+      },
+      {
+        "role": "link",
+        "name": "News Archive"
+      },
+      {
+        "role": "link",
+        "name": "Register for Free"
+      },
+      {
+        "role": "link",
+        "name": "Reprints & Licensing"
+      },
+      {
+        "role": "link",
+        "name": "Buy Issues"
+      },
+      {
+        "role": "link",
+        "name": "WSJ Shop"
+      },
+      {
+        "role": "link",
+        "name": "Facebook"
+      },
+      {
+        "role": "link",
+        "name": "Twitter"
+      },
+      {
+        "role": "link",
+        "name": "Instagram"
+      },
+      {
+        "role": "link",
+        "name": "YouTube"
+      },
+      {
+        "role": "link",
+        "name": "Podcasts"
+      },
+      {
+        "role": "link",
+        "name": "Snapchat"
+      },
+      {
+        "role": "link",
+        "name": "Google Play"
+      },
+      {
+        "role": "link",
+        "name": "App Store"
+      },
+      {
+        "role": "text",
+        "name": "Dow Jones Products"
+      },
+      {
+        "role": "link",
+        "name": "Barron's"
+      },
+      {
+        "role": "link",
+        "name": "BigCharts"
+      },
+      {
+        "role": "link",
+        "name": "Dow Jones Newswires"
+      },
+      {
+        "role": "link",
+        "name": "Factiva"
+      },
+      {
+        "role": "link",
+        "name": "Financial News"
+      },
+      {
+        "role": "link",
+        "name": "Mansion Global"
+      },
+      {
+        "role": "link",
+        "name": "MarketWatch"
+      },
+      {
+        "role": "link",
+        "name": "Risk & Compliance"
+      },
+      {
+        "role": "link",
+        "name": "Buy Side from WSJ"
+      },
+      {
+        "role": "link",
+        "name": "WSJ Pro"
+      },
+      {
+        "role": "link",
+        "name": "WSJ Video"
+      },
+      {
+        "role": "link",
+        "name": "WSJ Wine"
+      },
+      {
+        "role": "link",
+        "name": "Privacy Notice"
+      },
+      {
+        "role": "link",
+        "name": "Cookie Notice"
+      },
+      {
+        "role": "link",
+        "name": "Copyright Policy"
+      },
+      {
+        "role": "link",
+        "name": "Data Policy"
+      },
+      {
+        "role": "link",
+        "name": "Subscriber Agreement & Terms of Use"
+      },
+      {
+        "role": "link",
+        "name": "Your Ad Choices"
+      },
+      {
+        "role": "link",
+        "name": "Accessibility"
+      },
+      {
+        "role": "text",
+        "name": "Copyright \u00a9"
+      },
+      {
+        "role": "text",
+        "name": "2022"
+      },
+      {
+        "role": "link",
+        "name": "Dow Jones & Company"
+      },
+      {
+        "role": "text",
+        "name": ", Inc. All Rights Reserved."
+      },
+      {
+        "role": "heading",
+        "name": "Fourth of July Sale",
+        "level": 3
+      },
+      {
+        "role": "text",
+        "name": "$4 per month"
+      },
+      {
+        "role": "button",
+        "name": "VIEW OPTIONS"
+      }
+    ]
+  }
 }

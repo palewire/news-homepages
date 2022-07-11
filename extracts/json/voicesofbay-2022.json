@@ -1,5 +1,5 @@
 {
-  "created": 1657499172,
+  "created": 1657541976,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/voicesofbay-2022",
@@ -268,31 +268,73 @@
       "sha1": "75949f5c75450dbbb102e0b3902a0a268e8b16e0"
     },
     {
+      "name": "voicesofbay-2022-07-10T21:08:43.221390-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657512526",
+      "size": "31211",
+      "md5": "ae861cacf363c06b0ed9c01a7f263ed3",
+      "crc32": "6ebe59fb",
+      "sha1": "e1e643f67496f271e6facad922f06a802b4dfa65",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-07-10T21:08:43.221390-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657512528",
+      "size": "14943",
+      "md5": "0dc139620845d143a713984901c64fc0",
+      "crc32": "04e213b9",
+      "sha1": "afc15c3f577656e5bb6f7aa1fa5b8f411f31e96f",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-07-10T21:08:43.221390-07:00.jpg",
+      "source": "original",
+      "mtime": "1657512525",
+      "size": "166334",
+      "md5": "eca81af77529bc4c81b7e713cc42220f",
+      "crc32": "feb28db8",
+      "sha1": "6c87e233568aabb40fc8b89732fa19241385c1e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voicesofbay-2022-07-10T21:08:43.221390-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voicesofbay-2022-07-10T21:08:43.221390-07:00.jpg",
+      "mtime": "1657512660",
+      "size": "8028",
+      "md5": "48f866682ac751120b7fd5ab4b44f8f5",
+      "crc32": "a42f15f9",
+      "sha1": "75949f5c75450dbbb102e0b3902a0a268e8b16e0"
+    },
+    {
       "name": "voicesofbay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c3f4ed1ff71962a702d19e5f5528a5dc4515a1b2",
-      "mtime": "1657476959",
-      "size": "6739",
-      "md5": "949d5857e6bfb5e5af8eb1a16abed070",
-      "crc32": "e758ef5f",
-      "sha1": "fe9ad1483750ab399c3e8ab94a0a98f4c80e8e19",
+      "btih": "427b7b941297054de7263378cd7752c30b1ae8b5",
+      "mtime": "1657512664",
+      "size": "7600",
+      "md5": "55139bd8e9c2381b021fc9bb295e7b52",
+      "crc32": "0106a062",
+      "sha1": "61caa7c6683039a7ab2b34cf88c41fbfbdd03139",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voicesofbay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e783ee4349b1796016ad20b602bdb367",
+      "md5": "67261761d0926c742470916f7909eca9",
       "summation": "md5"
     },
     {
       "name": "voicesofbay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657476913",
-      "size": "45056",
-      "md5": "be8407940630e6411787650475dd5b5e",
-      "crc32": "f35d271e",
-      "sha1": "576338e379b19e83d4d2173428ec3b8cdc2146c2",
+      "mtime": "1657512568",
+      "size": "49152",
+      "md5": "2a5c28458dfeaf73cb7ec9ac67000d89",
+      "crc32": "6f78e561",
+      "sha1": "f89aaf7115377edc8914f4ace5efc25b534afde4",
       "format": "Metadata"
     },
     {
@@ -306,9 +348,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 29,
-  "item_last_updated": 1657476959,
-  "item_size": 1390038,
+  "files_count": 33,
+  "item_last_updated": 1657512664,
+  "item_size": 1615511,
   "metadata": {
     "identifier": "voicesofbay-2022",
     "collection": [
@@ -325,8 +367,8 @@
     "publicdate": "2022-07-09 04:04:49",
     "addeddate": "2022-07-09 04:04:49"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1043865882,
+  "server": "ia601503.us.archive.org",
+  "uniq": 1574365267,
   "voicesofbay-2022": [
     {
       "text": "\n\t\t\t\t\t    \n\n\t\t\t\t\t    \n\t\t\t\t\t\t    Featured\n\t\t\t\t\t\t    Death and the Playwright\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tPosted in Arts/Culture\t\t\t\t\t\t\t\n\t\t\t\t\t\t    by Claudia Mel\u00e9ndez Salinas\t\t\t\t\t    \n\n\t\t\t\t    ",
@@ -646,7 +688,7 @@
     }
   ],
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

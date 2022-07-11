@@ -1,5 +1,5 @@
 {
-  "created": 1657498799,
+  "created": 1657541500,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/9/items/knprnews-2022",
@@ -184,31 +184,73 @@
       "sha1": "9f46a82301d6ad131684b0fe3c0307875ca982b5"
     },
     {
+      "name": "knprnews-2022-07-10T21:06:38.573883-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657512404",
+      "size": "17557",
+      "md5": "25b2c08587f2e57f13c76c87e78c1d76",
+      "crc32": "cf9a9e8e",
+      "sha1": "57f011f7a848b5704d2efcbecb37e0e2b416797c",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-07-10T21:06:38.573883-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657512406",
+      "size": "12191",
+      "md5": "32643ec98f346c34e96a0bddafac0189",
+      "crc32": "e57d98ae",
+      "sha1": "85cfc171d32026635ac46f7252473aa2b76434f5",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-07-10T21:06:38.573883-07:00.jpg",
+      "source": "original",
+      "mtime": "1657512401",
+      "size": "230678",
+      "md5": "e2cef30851e84b49432a92560eed1777",
+      "crc32": "9a1eba25",
+      "sha1": "dadf84e7ec562995c27ac9e646c50a16d1be98f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knprnews-2022-07-10T21:06:38.573883-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knprnews-2022-07-10T21:06:38.573883-07:00.jpg",
+      "mtime": "1657512568",
+      "size": "8970",
+      "md5": "a711d690acd5fbb03e78cb97be1eec85",
+      "crc32": "85820d62",
+      "sha1": "a4685232f79eb70ebec8afd1a5d57f25cd7a11be"
+    },
+    {
       "name": "knprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ff0305422a4f8e3221adfdac634f9e2ade9823a",
-      "mtime": "1657467844",
-      "size": "4979",
-      "md5": "60125b5e7df0dbb6736a54519a28e073",
-      "crc32": "d78a7921",
-      "sha1": "f4cb73f76824619cd6aa2d725b6c1bb687a9148d",
+      "btih": "b2ac506d8af33ed89cd635f52dca35655042a63f",
+      "mtime": "1657512571",
+      "size": "5808",
+      "md5": "88a93436b13b7a826df049fd21924a8f",
+      "crc32": "d9e26a21",
+      "sha1": "b483a19892e2e0cca2743c05a51825e1409c0793",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe47fa8e77f1fbdab0b7e18e864ba8b2",
+      "md5": "dda5ebf91c3952349301d85c8fd2b8b6",
       "summation": "md5"
     },
     {
       "name": "knprnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657467794",
-      "size": "36864",
-      "md5": "98739b5a41ef9b09ae599d1721611f9a",
-      "crc32": "8889d2a8",
-      "sha1": "79f2e0d8f1d3e960ca2caa72ccd100e8b270d8ed",
+      "mtime": "1657512472",
+      "size": "40960",
+      "md5": "50f9f2862645a25cc940d84e8a504c2b",
+      "crc32": "82f49709",
+      "sha1": "f735ac8cd176d893dba93e24b8eab7352f2253fd",
       "format": "Metadata"
     },
     {
@@ -222,9 +264,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 21,
-  "item_last_updated": 1657467844,
-  "item_size": 1126717,
+  "files_count": 25,
+  "item_last_updated": 1657512571,
+  "item_size": 1401038,
   "knprnews-2022": [
     {
       "text": "News 88.9 KNPR",
@@ -568,19 +610,11 @@
     },
     {
       "text": "",
-      "url": "/knpr/2022-07/1922-railroad-strike"
+      "url": "/desert-companion/2022-07/nevada-public-radio-says-farewell-andrew-kiraly"
     },
     {
-      "text": "1922 Railroad Strike",
-      "url": "/knpr/2022-07/1922-railroad-strike"
-    },
-    {
-      "text": "\n        Listen\n      ",
-      "url": "javascript:window.knprPlay('https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/nevada_yesterdays_railroad_strike_070920222.mp3.mp3', '1922 Railroad Strike', '1922-railroad-strike')"
-    },
-    {
-      "text": "\n        Download\n      ",
-      "url": "https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/nevada_yesterdays_railroad_strike_070920222.mp3.mp3?response-content-disposition=attachment%3B%20filename%3D%22nevada_yesterdays_railroad_strike_070920222.mp3.mp3%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3HX3D3NMQLZN2QNC%2F20220710%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220710T150857Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=518400&X-Amz-Signature=e6f84c2fcb3ec478a5b011b84ff230cdc5a360b400095768685ac3989ca5f576"
+      "text": "Nevada Public Radio says farewell to Andrew Kiraly",
+      "url": "/desert-companion/2022-07/nevada-public-radio-says-farewell-andrew-kiraly"
     },
     {
       "text": "Tweet",
@@ -595,6 +629,54 @@
       "url": "https://www.addthis.com/bookmark.php?v=300"
     },
     {
+      "text": "",
+      "url": "/npr/2022-07/abbott-reopens-michigan-baby-formula-plant-after-flooding"
+    },
+    {
+      "text": "Abbott reopens Michigan baby formula plant after flooding",
+      "url": "/npr/2022-07/abbott-reopens-michigan-baby-formula-plant-after-flooding"
+    },
+    {
+      "text": "",
+      "url": "/npr/2022-07/coast-guard-rescued-9-boaters-who-fled-sinking-vessel-florida-coast"
+    },
+    {
+      "text": "The Coast Guard rescued 9 boaters who fled a sinking vessel off the Florida coast",
+      "url": "/npr/2022-07/coast-guard-rescued-9-boaters-who-fled-sinking-vessel-florida-coast"
+    },
+    {
+      "text": "",
+      "url": "/npr/2022-07/three-star-general-was-suspended-army-after-appearing-mock-jill-biden"
+    },
+    {
+      "text": "A three-star general was suspended by the Army after appearing to mock Jill Biden ",
+      "url": "/npr/2022-07/three-star-general-was-suspended-army-after-appearing-mock-jill-biden"
+    },
+    {
+      "text": "",
+      "url": "/npr/2022-07/brakes-spirit-airlines-plane-caught-fire-after-landing-atlanta"
+    },
+    {
+      "text": "The brakes on a Spirit Airlines plane caught fire after landing in Atlanta ",
+      "url": "/npr/2022-07/brakes-spirit-airlines-plane-caught-fire-after-landing-atlanta"
+    },
+    {
+      "text": "",
+      "url": "/npr/2022-07/novak-djokovic-wins-his-7th-wimbledon-trophy-and-closes-gap-grand-slam-titles"
+    },
+    {
+      "text": "Novak Djokovic wins his 7th Wimbledon trophy and closes the gap on Grand Slam titles",
+      "url": "/npr/2022-07/novak-djokovic-wins-his-7th-wimbledon-trophy-and-closes-gap-grand-slam-titles"
+    },
+    {
+      "text": "",
+      "url": "/npr/2022-07/oprah-winfreys-father-vernon-winfrey-dies-89"
+    },
+    {
+      "text": "Oprah Winfrey's father, Vernon Winfrey, dies at 89",
+      "url": "/npr/2022-07/oprah-winfreys-father-vernon-winfrey-dies-89"
+    },
+    {
       "text": "The pandemic pushed people to reevaluate their jobs. Meet 5 who reinvented themselves",
       "url": "/npr/2022-07/pandemic-pushed-people-reevaluate-their-jobs-meet-5-who-reinvented-themselves"
     },
@@ -605,54 +687,6 @@
     {
       "text": "The UK defense minister rules himself out of the race to succeed Boris Johnson",
       "url": "/npr/2022-07/uk-defense-minister-rules-himself-out-race-succeed-boris-johnson"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/abes-party-headed-take-major-victory-japans-election-exit-polls-show"
-    },
-    {
-      "text": "Abe's party is headed to take a major victory in Japan's election, exit polls show",
-      "url": "/npr/2022-07/abes-party-headed-take-major-victory-japans-election-exit-polls-show"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/20-people-may-be-trapped-after-rocket-hit-apartment-ukraine"
-    },
-    {
-      "text": "20 people may be trapped after a rocket hit an apartment in Ukraine ",
-      "url": "/npr/2022-07/20-people-may-be-trapped-after-rocket-hit-apartment-ukraine"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/first-amendment-advocates-respond-new-arizona-law-limiting-recording-police"
-    },
-    {
-      "text": "First Amendment advocates respond to a new Arizona law limiting recording of police",
-      "url": "/npr/2022-07/first-amendment-advocates-respond-new-arizona-law-limiting-recording-police"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/south-africa-police-are-investigating-reports-group-men-opened-fire-bar"
-    },
-    {
-      "text": "South Africa police are investigating reports a group of men opened fire at a bar",
-      "url": "/npr/2022-07/south-africa-police-are-investigating-reports-group-men-opened-fire-bar"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/paul-rudd-becomes-real-life-hero-bullied-colorado-boy"
-    },
-    {
-      "text": "Paul Rudd becomes a real-life hero for a bullied Colorado boy",
-      "url": "/npr/2022-07/paul-rudd-becomes-real-life-hero-bullied-colorado-boy"
-    },
-    {
-      "text": "",
-      "url": "/npr/2022-07/when-first-term-democratic-president-struggles-people-talk-about-jimmy-carter"
-    },
-    {
-      "text": "When a first-term Democratic president struggles, people talk about Jimmy Carter",
-      "url": "/npr/2022-07/when-first-term-democratic-president-struggles-people-talk-about-jimmy-carter"
     },
     {
       "text": "ALL LOCAL STORIES >>",
@@ -679,20 +713,20 @@
       "url": "/knpr/2022-07/las-vegas-getting-hotter-and-hotter-heres-how-survive-its-brutal-summers"
     },
     {
-      "text": "When a Minnesota woman took a DNA test, her results came back with a surprise",
-      "url": "/npr/2022-07/when-minnesota-woman-took-dna-test-her-results-came-back-surprise"
-    },
-    {
       "text": "A California woman finds an Olympic gold medal inside a fast-food bag",
       "url": "/npr/2022-07/california-woman-finds-olympic-gold-medal-inside-fast-food-bag"
     },
     {
-      "text": "Nevada Public Radio says farewell to Andrew Kiraly",
-      "url": "/desert-companion/2022-07/nevada-public-radio-says-farewell-andrew-kiraly"
+      "text": "When a Minnesota woman took a DNA test, her results came back with a surprise",
+      "url": "/npr/2022-07/when-minnesota-woman-took-dna-test-her-results-came-back-surprise"
     },
     {
       "text": "In 'Thor: Love & Thunder,' the hammer-throwing hero takes on Gorr the God Butcher ",
       "url": "/npr/2022-07/thor-love-thunder-hammer-throwing-hero-takes-gorr-god-butcher"
+    },
+    {
+      "text": "Examining the legal strategy of WNBA star Brittney Griner who's on trial in Russia",
+      "url": "/npr/2022-07/examining-legal-strategy-wnba-star-brittney-griner-whos-trial-russia"
     },
     {
       "text": "News Schedule",
@@ -783,10 +817,10 @@
     "publicdate": "2022-07-09 03:59:32",
     "addeddate": "2022-07-09 03:59:32"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 19854363,
+  "server": "ia601506.us.archive.org",
+  "uniq": 946379543,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

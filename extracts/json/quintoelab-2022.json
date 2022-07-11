@@ -1,5 +1,5 @@
 {
-  "created": 1657499027,
+  "created": 1657541796,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/26/items/quintoelab-2022",
@@ -2914,31 +2914,73 @@
       "sha1": "4ac9a2f9a5094dc8a91a697e9eeacff0f1774a3a"
     },
     {
+      "name": "quintoelab-2022-07-10T22:21:45.923429-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657509709",
+      "size": "15399",
+      "md5": "020a4d6ba211b7579e62f7ea8404ec08",
+      "crc32": "eab72e62",
+      "sha1": "775a621eb87827277516596f38a3223ceb3a24f3",
+      "format": "JSON"
+    },
+    {
+      "name": "quintoelab-2022-07-10T22:21:45.923429-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657509710",
+      "size": "5508",
+      "md5": "63ac316255f40b245325ad25c1e9b0f5",
+      "crc32": "5ab2265e",
+      "sha1": "420a46a265730c81d125e86036071d51ac7b4876",
+      "format": "JSON"
+    },
+    {
+      "name": "quintoelab-2022-07-10T22:21:45.923429-05:00.jpg",
+      "source": "original",
+      "mtime": "1657509707",
+      "size": "264598",
+      "md5": "9b62462851b8b3ee9808cc1cc0d28008",
+      "crc32": "345b369f",
+      "sha1": "b7ecde4e67fc94d38cc24414f33ca82b98381886",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quintoelab-2022-07-10T22:21:45.923429-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quintoelab-2022-07-10T22:21:45.923429-05:00.jpg",
+      "mtime": "1657509756",
+      "size": "8729",
+      "md5": "e325cacb5511efacfd6f6965ec367d93",
+      "crc32": "a603312d",
+      "sha1": "4ac9a2f9a5094dc8a91a697e9eeacff0f1774a3a"
+    },
+    {
       "name": "quintoelab-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d6ed6ac059afebce4eab8a8f1044c3805de60d49",
-      "mtime": "1657464274",
-      "size": "60150",
-      "md5": "5b86fe7be2aec5f334bafae9bc793da3",
-      "crc32": "4da5d930",
-      "sha1": "6181c7862b454daca1620c7a187c70b4c0c4d40f",
+      "btih": "55af71bcc80433ff620ea82b138acd7e8d7bd9ad",
+      "mtime": "1657509760",
+      "size": "60986",
+      "md5": "471aed72da907c41f5596b1008b74bb5",
+      "crc32": "e01593dc",
+      "sha1": "715e3290e54748e8ec2d25448ce04043760c41f5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quintoelab-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0478916b3b17842f065624f620dd76f8",
+      "md5": "0f3b7b398c33fdb94e682fdc23450d80",
       "summation": "md5"
     },
     {
       "name": "quintoelab-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657464225",
-      "size": "335872",
-      "md5": "4b33fe26d116f511ce2f01578d695fca",
-      "crc32": "12f5ad44",
-      "sha1": "e764b063e69dc5b7d8c24d6d0444d7bdec8b11da",
+      "mtime": "1657509714",
+      "size": "344064",
+      "md5": "e8fe92b4652a67328b565abd6168dd13",
+      "crc32": "67159ab2",
+      "sha1": "54fade11cc125f3988adc5cd5c90dd330c095684",
       "format": "Metadata"
     },
     {
@@ -2952,9 +2994,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1657464274,
-  "item_size": 21748735,
+  "files_count": 285,
+  "item_last_updated": 1657509760,
+  "item_size": 22051997,
   "metadata": {
     "identifier": "quintoelab-2022",
     "collection": [
@@ -3190,9 +3232,9 @@
     }
   ],
   "server": "ia801404.us.archive.org",
-  "uniq": 1591704571,
+  "servers_unavailable": true,
+  "uniq": 1160752846,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia801404.us.archive.org"
   ]
 }

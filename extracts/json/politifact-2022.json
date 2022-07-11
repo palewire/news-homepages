@@ -1,5 +1,5 @@
 {
-  "created": 1657499003,
+  "created": 1657541762,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -2032,31 +2032,73 @@
       "sha1": "2565312c72681336a6fcf6d86489e81b50592ea9"
     },
     {
+      "name": "politifact-2022-07-10T22:13:33.198890-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657505616",
+      "size": "35807",
+      "md5": "37b03314de0fed134624892e6422a1fe",
+      "crc32": "9108e690",
+      "sha1": "514b6cb9fd3a76de037f1c30c4b12e0c5c829afb",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-10T22:13:33.198890-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505618",
+      "size": "21835",
+      "md5": "87a2526083657b6ed3e9f4ef89129cdf",
+      "crc32": "3b291a1d",
+      "sha1": "dc36bafdaefcc2720fe3d897e7f116a6659e139a",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-10T22:13:33.198890-04:00.jpg",
+      "source": "original",
+      "mtime": "1657505614",
+      "size": "183494",
+      "md5": "615de1328cc489af1dd863391915e27c",
+      "crc32": "95562960",
+      "sha1": "356dc61e749e8bf0f9ecce2206574001d9248426",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-07-10T22:13:33.198890-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-10T22:13:33.198890-04:00.jpg",
+      "mtime": "1657505663",
+      "size": "8701",
+      "md5": "948fdecf9196b7c7f95a042ef03e4cc6",
+      "crc32": "2e2b5843",
+      "sha1": "2565312c72681336a6fcf6d86489e81b50592ea9"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "acbbe4461bf9437b32243fa839dd11f9947f21a8",
-      "mtime": "1657460902",
-      "size": "42322",
-      "md5": "44cc2961179c9f07e5a8ecd5838674d0",
-      "crc32": "07d5e985",
-      "sha1": "35f11a849e0dec6d4f8f7d24c6daea54f90cd1bd",
+      "btih": "317ca4262c8697ceec13db0da1cb13ad626fcf8c",
+      "mtime": "1657505668",
+      "size": "43179",
+      "md5": "e7eb78d3550302f98e294f9b2c972ad0",
+      "crc32": "9b905257",
+      "sha1": "0afb46cc2f3302f45719301d367f7ab59e695f52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "13b7cd97e1d0832496f929225b7ba234",
+      "md5": "d69cbef52791701ab118dca57cf684b3",
       "summation": "md5"
     },
     {
       "name": "politifact-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657460857",
-      "size": "241664",
-      "md5": "fd5297ff544a8cf596470ab50cfd0aba",
-      "crc32": "e44c5575",
-      "sha1": "0d45a871006d34d080509e16b81613b812cab92a",
+      "mtime": "1657505622",
+      "size": "245760",
+      "md5": "d2143de14f81d7184d444122230318b5",
+      "crc32": "b6cd87c2",
+      "sha1": "556a1614dc39d7ef261386df453f8eadf2ea80db",
       "format": "Metadata"
     },
     {
@@ -2070,9 +2112,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 197,
-  "item_last_updated": 1657460902,
-  "item_size": 13669816,
+  "files_count": 201,
+  "item_last_updated": 1657505668,
+  "item_size": 13924606,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -2491,7 +2533,7 @@
       "url": "/personalities/stephen-king/"
     },
     {
-      "text": "\nFlorida Gov. Ron DeSantis \u201csigns bill requiring Florida students, professors to register political views with (the) state.\u201d\n",
+      "text": "\nFlorida Gov. Ron DeSantis \u201csigns bill requiring Florida students, professors to register political views with (the) state.\u201d\n\n",
       "url": "/factchecks/2022/jul/07/stephen-king/florida-not-requiring-professors-students-register/"
     },
     {
@@ -2715,7 +2757,7 @@
       "url": "https://www.washingtonpost.com/politics/2022/07/09/one-source-story-about-10-year-old-an-abortion-goes-viral/"
     },
     {
-      "text": "\n\n\n\n \n",
+      "text": "\n\n\n\n\n",
       "url": "https://www.washingtonpost.com/politics/2022/07/08/bidens-inaccurate-claim-about-writing-law-review-articles-privacy/"
     },
     {
@@ -2891,10 +2933,10 @@
       "url": "/copyright/"
     }
   ],
-  "server": "ia601407.us.archive.org",
-  "uniq": 1134054969,
+  "server": "ia801407.us.archive.org",
+  "uniq": 485482978,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }
