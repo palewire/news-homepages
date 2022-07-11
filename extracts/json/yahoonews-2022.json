@@ -1,5 +1,5 @@
 {
-  "created": 1657464605,
+  "created": 1657499203,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -3206,31 +3206,73 @@
       "sha1": "00c4ea66ce6bb1c98fe3cc03ebb0264015a79ba6"
     },
     {
+      "name": "yahoonews-2022-07-10T17:10:20.245058-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657487425",
+      "size": "36163",
+      "md5": "3009b2120af17d19a902264544c82332",
+      "crc32": "ab8c0e1f",
+      "sha1": "7f2485e73fca5ff960e0a01fe0ad9c6e81b42c98",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-10T17:10:20.245058-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657487430",
+      "size": "16666",
+      "md5": "dacfb7fafec879c3bc28f2782bf5ade9",
+      "crc32": "bf757bfd",
+      "sha1": "d6ac28033c00d0480f7123e667ed1b0bac1082a6",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-10T17:10:20.245058-04:00.jpg",
+      "source": "original",
+      "mtime": "1657487423",
+      "size": "340806",
+      "md5": "452995b7777944747aeb14a0a2446aac",
+      "crc32": "8f3ee505",
+      "sha1": "e4cfe26be6eee44a2522635712e31f2c8305a926",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-10T17:10:20.245058-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-10T17:10:20.245058-04:00.jpg",
+      "mtime": "1657487610",
+      "size": "10292",
+      "md5": "955d69ac8aece2648d610f82227c030a",
+      "crc32": "962073b0",
+      "sha1": "5665ff912560b3e7184be72a94a5e8d4d31f9452"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b3a573c9b5471bab668943dea5f6edc95e55a6d",
-      "mtime": "1657464599",
-      "size": "66115",
-      "md5": "c3a752f3907886ebb78f5c2449ee61ab",
-      "crc32": "deba5223",
-      "sha1": "539a51017c5c4671904ca0b1701a43ff372e12c7",
+      "btih": "db8896e6ad02cb585ede7521b9617ffe80711a78",
+      "mtime": "1657487613",
+      "size": "66969",
+      "md5": "7f6484233831ac7da74bde41ff351beb",
+      "crc32": "c25d501c",
+      "sha1": "045a3a3886a40a96afa0a9730ea5e649bbf06717",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ffc1dea9aa64c8e9b2e30252da9eab2e",
+      "md5": "83809663254dfb9171c61b47c8950ddf",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657464554",
-      "size": "372736",
-      "md5": "8b91d3a731429b80438a68693aae1724",
-      "crc32": "875fa4a0",
-      "sha1": "862dcd8263d85e9daed6469119ae9c3fad4e1a96",
+      "mtime": "1657487433",
+      "size": "376832",
+      "md5": "3720a8b1a91e4794952574c9daf7fb89",
+      "crc32": "ee5e1612",
+      "sha1": "72ea10f046310b35f539e548302141abaf821ab9",
       "format": "Metadata"
     },
     {
@@ -3244,9 +3286,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 309,
-  "item_last_updated": 1657464599,
-  "item_size": 29145793,
+  "files_count": 313,
+  "item_last_updated": 1657487613,
+  "item_size": 29554670,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -3263,10 +3305,308 @@
     "publicdate": "2022-06-24 23:04:11",
     "addeddate": "2022-06-24 23:04:11"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 174924845,
+  "server": "ia801403.us.archive.org",
+  "uniq": 722995868,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
+  ],
+  "yahoonews-2022": [
+    {
+      "text": "      HOME",
+      "url": "https://www.yahoo.com/"
+    },
+    {
+      "text": " MAIL",
+      "url": "https://mail.yahoo.com/"
+    },
+    {
+      "text": " NEWS",
+      "url": "https://news.yahoo.com/"
+    },
+    {
+      "text": " FINANCE",
+      "url": "https://finance.yahoo.com/"
+    },
+    {
+      "text": " SPORTS",
+      "url": "https://sports.yahoo.com/"
+    },
+    {
+      "text": " ENTERTAINMENT",
+      "url": "https://www.yahoo.com/entertainment/"
+    },
+    {
+      "text": " LIFE",
+      "url": "https://www.yahoo.com/lifestyle"
+    },
+    {
+      "text": " SEARCH",
+      "url": "https://search.yahoo.com/search/"
+    },
+    {
+      "text": " SHOPPING",
+      "url": "https://shopping.yahoo.com/"
+    },
+    {
+      "text": " YAHOO PLUS",
+      "url": "https://www.yahoo.com/plus"
+    },
+    {
+      "text": " MORE...",
+      "url": "https://www.yahoo.com/everything/"
+    },
+    {
+      "text": "    Upgrade Now   ",
+      "url": "https://ad.doubleclick.net/ddm/trackclk/N360801.1913355YAHOOADMANAGER/B23644564.308265615;dc_trk_aid=490102767;dc_trk_cid=127172993;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+    },
+    {
+      "text": "                   Yahoo News",
+      "url": "https://news.yahoo.com/"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://login.yahoo.com/?.lang=en-US&src=news&.done=https%3A%2F%2Fnews.yahoo.com%2F&pspid=1197800621&activity=ybar-signin"
+    },
+    {
+      "text": "       Mail",
+      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
+    },
+    {
+      "text": " News   News",
+      "url": "https://news.yahoo.com"
+    },
+    {
+      "text": " US   US",
+      "url": "https://news.yahoo.com/us/"
+    },
+    {
+      "text": " Politics   Politics",
+      "url": "https://news.yahoo.com/politics/"
+    },
+    {
+      "text": " World   World",
+      "url": "https://news.yahoo.com/world/"
+    },
+    {
+      "text": " COVID-19   COVID-19",
+      "url": "https://news.yahoo.com/coronavirus/"
+    },
+    {
+      "text": " Climate Change   Climate Change",
+      "url": "https://www.yahoo.com/news/tagged/climate-change/"
+    },
+    {
+      "text": " Health   Health",
+      "url": "https://news.yahoo.com/health/"
+    },
+    {
+      "text": " Science   Science",
+      "url": "https://news.yahoo.com/science/"
+    },
+    {
+      "text": " Originals   Originals",
+      "url": "https://news.yahoo.com/originals/"
+    },
+    {
+      "text": "The 360The 360",
+      "url": "https://news.yahoo.com/tagged/360/"
+    },
+    {
+      "text": "Skullduggery PodcastSkullduggery Podcast",
+      "url": "https://news.yahoo.com/tagged/skullduggery/"
+    },
+    {
+      "text": "ConspiracylandConspiracyland",
+      "url": "https://news.yahoo.com/tagged/conspiracyland/"
+    },
+    {
+      "text": " Veterans   Veterans",
+      "url": "https://www.yahoo.com/partner/wounded-warrior-project/index.html"
+    },
+    {
+      "text": " Contact Us   Contact Us",
+      "url": "https://yahoo.uservoice.com/forums/204992-us-news"
+    },
+    {
+      "text": "13 teen victims, many with strikingly similar storiesAn investigation found that the Junior Reserve Officers' Training Corps program has repeatedly become a place where retired military officers prey on teens.'I didn\u2019t feel like I had a choice' \u00bb",
+      "url": "/felt-trapped-sexual-abuse-teens-161112080.html"
+    },
+    {
+      "text": "Tensions mount after girl, 4, killed at Akron vigil",
+      "url": "/girl-4-dies-someone-shoots-025550973.html"
+    },
+    {
+      "text": "'Started touching my body in an appreciative manner'",
+      "url": "https://www.yahoo.com/lifestyle/gina-rodriguez-body-image-162723640.html"
+    },
+    {
+      "text": "Never-before-seen footage in new Trump documentary",
+      "url": "/trump-documentary-unprecedented-footage-shows-114546917.html"
+    },
+    {
+      "text": "Thousands descend upon D.C.: 'Stand up Joe Biden'",
+      "url": "/thousands-turn-women-march-d-183947496.html"
+    },
+    {
+      "text": "2 demographic groups bear the brunt of gun violence",
+      "url": "/staggering-scope-u-gun-deaths-202424402.html"
+    },
+    {
+      "text": "Apple Watch 7 just hit a record low price ahead of Amazon Prime Day",
+      "url": "/amazon-apple-watch-series-7-sale-004612301-204014526.html"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=TF9sV.0GIS_2RxG.B_dpWaBzPRSTjysBZY4AJVH74t4O.FeSwNL2Pp2C9ky3osezLFhDJPree7G46a_6fNitKk6xDHg8bF5lMzw0JKe3jFxZxG1ZgRoFRD9oAfKmVxVM2bJeUstOlpkXXI.RBQZnLxLDF_yVSPPCnfknKloDsam_lfbik1bONJwje7D0lngDlpPtY6LT.zuk5gRgJCQhEE_whNhDyj7p6fU5WFY5iex9IC52w1a4ZDp53Fo9ia5SJ4l62bx.e.g9T7Ad.5ug2ATMHLJdZmBvef.J.Z_.kA_LDx9OoqShfXxHK1lXEYYIVuL1mP5PHJSCYW_Gt0huQ37B3yBH75RVOONhnXm_2uk2GI4ZSIR6qg9aXtYjCCI9oT8f1i20zPSvBfhFVlMUGUv7otlwFG3oZ4S0p1xtD4pLYmb1fiSMY3zLKyAXI9xU5kbNJ2LR0LW7C1PliSkOt5RfhEhkuxQ3_NmYq4Is0lAhQnGvUySfLueoRAZqJtpgLp_TcuH_JzMUabv9NT2BxTiGu0Roa2rShk3jek.yr33IQoc-"
+    },
+    {
+      "text": "Ad",
+      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
+    },
+    {
+      "text": "LeafFilter Gutter Protection",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=TF9sV.0GIS_2RxG.B_dpWaBzPRSTjysBZY4AJVH74t4O.FeSwNL2Pp2C9ky3osezLFhDJPree7G46a_6fNitKk6xDHg8bF5lMzw0JKe3jFxZxG1ZgRoFRD9oAfKmVxVM2bJeUstOlpkXXI.RBQZnLxLDF_yVSPPCnfknKloDsam_lfbik1bONJwje7D0lngDlpPtY6LT.zuk5gRgJCQhEE_whNhDyj7p6fU5WFY5iex9IC52w1a4ZDp53Fo9ia5SJ4l62bx.e.g9T7Ad.5ug2ATMHLJdZmBvef.J.Z_.kA_LDx9OoqShfXxHK1lXEYYIVuL1mP5PHJSCYW_Gt0huQ37B3yBH75RVOONhnXm_2uk2GI4ZSIR6qg9aXtYjCCI9oT8f1i20zPSvBfhFVlMUGUv7otlwFG3oZ4S0p1xtD4pLYmb1fiSMY3zLKyAXI9xU5kbNJ2LR0LW7C1PliSkOt5RfhEhkuxQ3_NmYq4Is0lAhQnGvUySfLueoRAZqJtpgLp_TcuH_JzMUabv9NT2BxTiGu0Roa2rShk3jek.yr33IQoc-"
+    },
+    {
+      "text": "Spring Showers? Get Year-Round Protection.",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=TF9sV.0GIS_2RxG.B_dpWaBzPRSTjysBZY4AJVH74t4O.FeSwNL2Pp2C9ky3osezLFhDJPree7G46a_6fNitKk6xDHg8bF5lMzw0JKe3jFxZxG1ZgRoFRD9oAfKmVxVM2bJeUstOlpkXXI.RBQZnLxLDF_yVSPPCnfknKloDsam_lfbik1bONJwje7D0lngDlpPtY6LT.zuk5gRgJCQhEE_whNhDyj7p6fU5WFY5iex9IC52w1a4ZDp53Fo9ia5SJ4l62bx.e.g9T7Ad.5ug2ATMHLJdZmBvef.J.Z_.kA_LDx9OoqShfXxHK1lXEYYIVuL1mP5PHJSCYW_Gt0huQ37B3yBH75RVOONhnXm_2uk2GI4ZSIR6qg9aXtYjCCI9oT8f1i20zPSvBfhFVlMUGUv7otlwFG3oZ4S0p1xtD4pLYmb1fiSMY3zLKyAXI9xU5kbNJ2LR0LW7C1PliSkOt5RfhEhkuxQ3_NmYq4Is0lAhQnGvUySfLueoRAZqJtpgLp_TcuH_JzMUabv9NT2BxTiGu0Roa2rShk3jek.yr33IQoc-"
+    },
+    {
+      "text": "Pete Buttigieg Praised for \u2018Intelligent and Precise\u2019 Interview Schooling Fox News on Kavanaugh Protesters (Video)",
+      "url": "/pete-buttigieg-praised-intelligent-precise-183847009.html"
+    },
+    {
+      "text": "Buttigieg defends husband\u2019s mocking tweet about Kavanaugh facing protests at restaurant in Fox News interviewThe Independent",
+      "url": "/buttigieg-defends-husband-mocking-tweet-191147472.html"
+    },
+    {
+      "text": "Kamala Harris says she 'never believed' Neil Gorsuch and Brett Kavanaugh regarding their feelings toward Roe v. Wade: 'I voted against'INSIDER",
+      "url": "/kamala-harris-says-she-never-150907257.html"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "MIT scientists think they\u2019ve discovered how to fully reverse climate change",
+      "url": "/mit-scientists-think-ve-discovered-180800050.html"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Fisker wants $5,000 nonrefundable downpayment to buy Ocean One",
+      "url": "https://www.autoblog.com/2022/07/09/fisker-ocean-one-electric-suv-nonrefundable-downpayment/"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=AfBDjr8GIS94D0BZyWtRTpTT9o3JcYi6.wLzOpKmiRPzviVRtw6Z6Tt6PzICaaOgvWGFyGj5N3A39j3l62y8Om5JNeLFoH1aq.NTSI.M17Eb0XQ6Qmse3dUskH6D2t.AxxHpG1ctwqhr6vyz6m4MO02ljNsIoUjGhbVk1dOh4DEsaIbVHUA6uM9HRiXtD9szVBFrvrl5sPrBqNyA6ewSxCPtjrPooO0KIbLdYeQnpEqa_kW053SJESGNXg3R9AP_ebVjQU6.7gnLnREH4nBz_taoP0d8iI0Wq1ugniH29sZ5Ugi_RSEhnq7tGgPhP.Gdo5YtMgZlE2cCsGvS5r_ArlDbcwZiNmnAbVsLOoWUYisTvAkgocy4H0BTIEG5L_uyBTqt3nHX6dQAS2w2zJPuGk_vF0c450zMl04h_5X1hYFVSoNcnHrsufWnRKCsX8pGCMhmpUj9WleyRASQEWNbAZjVd_0zG4kKzohkHXnSqoXLXCB9ky.Pn8cC7OnBxUpqChT89NsMWR7xb.dV2Z15rcpCYt_ZCfdoJgo_iCNa9Gso6.p4RJir._rK8B9Gi0535HgJCL_DeaE..yicknKOyH2RsC67M6ma9NkDqTnd6cbMLBmHTWFqMEdSOSa3jZKJbzHjKogvVLsnL1fbbxE.0je3oULEierHcD6JwlWdL3R4WGLk5UqxgPRYRK5q5NaL2P34883bz7sayD5HkhdhXhy4O23qlXXarUqa0Spiln_CauiVnPjN_EThWho90rs0XcuxD4S3l7C1JVjrVfPHa3MnIVZT9mp59AK1FhxWKxqnhoohOaWF.k4pxjuKm8wvX1_.OwpyHvqEXqjsnwXqsgNQi0KLkMr8ntgBs3wIFQ--"
+    },
+    {
+      "text": "Ad",
+      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
+    },
+    {
+      "text": "Guardio",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=AfBDjr8GIS94D0BZyWtRTpTT9o3JcYi6.wLzOpKmiRPzviVRtw6Z6Tt6PzICaaOgvWGFyGj5N3A39j3l62y8Om5JNeLFoH1aq.NTSI.M17Eb0XQ6Qmse3dUskH6D2t.AxxHpG1ctwqhr6vyz6m4MO02ljNsIoUjGhbVk1dOh4DEsaIbVHUA6uM9HRiXtD9szVBFrvrl5sPrBqNyA6ewSxCPtjrPooO0KIbLdYeQnpEqa_kW053SJESGNXg3R9AP_ebVjQU6.7gnLnREH4nBz_taoP0d8iI0Wq1ugniH29sZ5Ugi_RSEhnq7tGgPhP.Gdo5YtMgZlE2cCsGvS5r_ArlDbcwZiNmnAbVsLOoWUYisTvAkgocy4H0BTIEG5L_uyBTqt3nHX6dQAS2w2zJPuGk_vF0c450zMl04h_5X1hYFVSoNcnHrsufWnRKCsX8pGCMhmpUj9WleyRASQEWNbAZjVd_0zG4kKzohkHXnSqoXLXCB9ky.Pn8cC7OnBxUpqChT89NsMWR7xb.dV2Z15rcpCYt_ZCfdoJgo_iCNa9Gso6.p4RJir._rK8B9Gi0535HgJCL_DeaE..yicknKOyH2RsC67M6ma9NkDqTnd6cbMLBmHTWFqMEdSOSa3jZKJbzHjKogvVLsnL1fbbxE.0je3oULEierHcD6JwlWdL3R4WGLk5UqxgPRYRK5q5NaL2P34883bz7sayD5HkhdhXhy4O23qlXXarUqa0Spiln_CauiVnPjN_EThWho90rs0XcuxD4S3l7C1JVjrVfPHa3MnIVZT9mp59AK1FhxWKxqnhoohOaWF.k4pxjuKm8wvX1_.OwpyHvqEXqjsnwXqsgNQi0KLkMr8ntgBs3wIFQ--"
+    },
+    {
+      "text": "Chrome Users? Make Sure To Do This Security Scan",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=AfBDjr8GIS94D0BZyWtRTpTT9o3JcYi6.wLzOpKmiRPzviVRtw6Z6Tt6PzICaaOgvWGFyGj5N3A39j3l62y8Om5JNeLFoH1aq.NTSI.M17Eb0XQ6Qmse3dUskH6D2t.AxxHpG1ctwqhr6vyz6m4MO02ljNsIoUjGhbVk1dOh4DEsaIbVHUA6uM9HRiXtD9szVBFrvrl5sPrBqNyA6ewSxCPtjrPooO0KIbLdYeQnpEqa_kW053SJESGNXg3R9AP_ebVjQU6.7gnLnREH4nBz_taoP0d8iI0Wq1ugniH29sZ5Ugi_RSEhnq7tGgPhP.Gdo5YtMgZlE2cCsGvS5r_ArlDbcwZiNmnAbVsLOoWUYisTvAkgocy4H0BTIEG5L_uyBTqt3nHX6dQAS2w2zJPuGk_vF0c450zMl04h_5X1hYFVSoNcnHrsufWnRKCsX8pGCMhmpUj9WleyRASQEWNbAZjVd_0zG4kKzohkHXnSqoXLXCB9ky.Pn8cC7OnBxUpqChT89NsMWR7xb.dV2Z15rcpCYt_ZCfdoJgo_iCNa9Gso6.p4RJir._rK8B9Gi0535HgJCL_DeaE..yicknKOyH2RsC67M6ma9NkDqTnd6cbMLBmHTWFqMEdSOSa3jZKJbzHjKogvVLsnL1fbbxE.0je3oULEierHcD6JwlWdL3R4WGLk5UqxgPRYRK5q5NaL2P34883bz7sayD5HkhdhXhy4O23qlXXarUqa0Spiln_CauiVnPjN_EThWho90rs0XcuxD4S3l7C1JVjrVfPHa3MnIVZT9mp59AK1FhxWKxqnhoohOaWF.k4pxjuKm8wvX1_.OwpyHvqEXqjsnwXqsgNQi0KLkMr8ntgBs3wIFQ--"
+    },
+    {
+      "text": "Virginia State Employees Resign after Youngkin Orders Them Back to Office",
+      "url": "/virginia-state-employees-resign-youngkin-163823221.html"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Mick Mulvaney says a 'friend' in the White House said former Trump chief of staff Mark Meadows displayed incompetence, had a 'nervous breakdown' on January 6",
+      "url": "/mick-mulvaney-says-friend-white-231717912.html"
+    },
+    {
+      "text": "Mulvaney says he was told Mark Meadows was both \u2018incompetent\u2019 and having \u2018nervous breakdown\u2019 on Jan 6The Independent",
+      "url": "/mulvaney-says-told-mark-meadows-203021989.html"
+    },
+    {
+      "text": "Mick Mulvaney said Jan 6. chaos revealed \"a complete breakdown\" in West Wing operationCBS News",
+      "url": "/mick-mulvaney-said-jan-6-003825517.html"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Toyota Crown debuts July 15: Funky lifted sedan is headed our way",
+      "url": "https://www.autoblog.com/2022/07/10/toyota-crown-lifted-sedan-debut-july-15/"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=3EnCc.gGIS8GaMnblDdwIjKhQTYRTlhitYA5gf.xj_wyRCyOF9iz7zcQFMN9XAa7CYODtbcJlKHWhXW7c5AecA2qlz2ZOhI.NU9107Ug9TcBAZNSoDwpuAykK.yEkrfNFAHVINQ_mo7diSByUHayIezdEmqmpk5u_BAsDYka_kemlrOpmPpRRApI4pHcrdQ8WSehIk_TY_XOEFpNrN4nP5B0SQYCc7BV6hqQ45SR3E.9onfrLly02lBrqsbpJYuOqx0zXdoOf70pNYSbl8rLyKDvvC0Je.DY0bdBJvCP.Z9it4r9GlqKZ43sngxuXEQP4YLaTSJYPUw_Ayi2Aj0TBRFTRJUrgwCja55K57fJI4pi5l6AAC1b6Z0LViMWPCMJoZLSmFmtbz4WZ93Hy6gRNVBGkgGs3w_gEGwQaDsUOPNe0PCGT4B_liQqJeKmM0tg9buUvVfD5lsq4T1ouZsjMqJ3WOP.a_c1nYx6hFAGV.8CxhXvjjA6_GTH09TjOU.rkN3i9k33VNMvSoeT4byKuMbasJKRBdZfkoA4uH3myy2vnvg6LSQC6tqMaYakFHVPtoExeN7pdiiYNjYULpsL6EJ7ZSW6Zee4pNDIiZvKT3jEIPi.BhNYbAKkth5W7GBcvtXucydyOqdRCX9xQQwb2qDSuIGKbQaDvjP0nzgT8p3WwyAN2235P.QaXipTyn0OXMJSG9yfBMAEC2aUzq7h_8FrhsEkpxDf2C8jEikMNq9l.3qhWXcedb0tHC30ziBz.c0kzM4_9NdhP5Rq5nfzd2sg8Jb26O4L_UDrYkRIssOh1OpPL0pOueBrZJVhfwfC0imdFZZlFALkDMh6Bs4xXC8WQWdY5gqgu4EoITkndjz_3098QGvoAnY1U4zysVeFYnMZzyV.ZUNzxb7c2gWdrUfkf6skGH2VE3xsYcp4eFNJioEYMzDV.vJJ7B1Oj016eSyH_wQCrFucyXNSEDHy6oyot.8vHFTmdGh1P6Jy_g5yvsvxCEYAQQ022NQuttqv145LURHe4vhhPVLsGh_cuG1x_ww8yoUwZrNxtN9SN6ey5QsSycmLeo_DbDoC3lWkoE4EcSNkgsnqsWDP0nCKoaa.XWsWF8E4bE5wSdxXjV0bwv3IRI4vh6qJmFPbWzMluDrV_dGEW9fkgAQrNp_kPuscHOjB4cqx0yNYHst7jzE9aIMnFF1vkr9rCO9tviU7KMd0V3QiQ4a_RR39Jg6p4Gi5oP.5oMn.XEo-"
+    },
+    {
+      "text": "Ad",
+      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
+    },
+    {
+      "text": "Your Local Toyota Dealer",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=3EnCc.gGIS8GaMnblDdwIjKhQTYRTlhitYA5gf.xj_wyRCyOF9iz7zcQFMN9XAa7CYODtbcJlKHWhXW7c5AecA2qlz2ZOhI.NU9107Ug9TcBAZNSoDwpuAykK.yEkrfNFAHVINQ_mo7diSByUHayIezdEmqmpk5u_BAsDYka_kemlrOpmPpRRApI4pHcrdQ8WSehIk_TY_XOEFpNrN4nP5B0SQYCc7BV6hqQ45SR3E.9onfrLly02lBrqsbpJYuOqx0zXdoOf70pNYSbl8rLyKDvvC0Je.DY0bdBJvCP.Z9it4r9GlqKZ43sngxuXEQP4YLaTSJYPUw_Ayi2Aj0TBRFTRJUrgwCja55K57fJI4pi5l6AAC1b6Z0LViMWPCMJoZLSmFmtbz4WZ93Hy6gRNVBGkgGs3w_gEGwQaDsUOPNe0PCGT4B_liQqJeKmM0tg9buUvVfD5lsq4T1ouZsjMqJ3WOP.a_c1nYx6hFAGV.8CxhXvjjA6_GTH09TjOU.rkN3i9k33VNMvSoeT4byKuMbasJKRBdZfkoA4uH3myy2vnvg6LSQC6tqMaYakFHVPtoExeN7pdiiYNjYULpsL6EJ7ZSW6Zee4pNDIiZvKT3jEIPi.BhNYbAKkth5W7GBcvtXucydyOqdRCX9xQQwb2qDSuIGKbQaDvjP0nzgT8p3WwyAN2235P.QaXipTyn0OXMJSG9yfBMAEC2aUzq7h_8FrhsEkpxDf2C8jEikMNq9l.3qhWXcedb0tHC30ziBz.c0kzM4_9NdhP5Rq5nfzd2sg8Jb26O4L_UDrYkRIssOh1OpPL0pOueBrZJVhfwfC0imdFZZlFALkDMh6Bs4xXC8WQWdY5gqgu4EoITkndjz_3098QGvoAnY1U4zysVeFYnMZzyV.ZUNzxb7c2gWdrUfkf6skGH2VE3xsYcp4eFNJioEYMzDV.vJJ7B1Oj016eSyH_wQCrFucyXNSEDHy6oyot.8vHFTmdGh1P6Jy_g5yvsvxCEYAQQ022NQuttqv145LURHe4vhhPVLsGh_cuG1x_ww8yoUwZrNxtN9SN6ey5QsSycmLeo_DbDoC3lWkoE4EcSNkgsnqsWDP0nCKoaa.XWsWF8E4bE5wSdxXjV0bwv3IRI4vh6qJmFPbWzMluDrV_dGEW9fkgAQrNp_kPuscHOjB4cqx0yNYHst7jzE9aIMnFF1vkr9rCO9tviU7KMd0V3QiQ4a_RR39Jg6p4Gi5oP.5oMn.XEo-"
+    },
+    {
+      "text": "Toyota's 2022 Rav4 SUV",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=3EnCc.gGIS8GaMnblDdwIjKhQTYRTlhitYA5gf.xj_wyRCyOF9iz7zcQFMN9XAa7CYODtbcJlKHWhXW7c5AecA2qlz2ZOhI.NU9107Ug9TcBAZNSoDwpuAykK.yEkrfNFAHVINQ_mo7diSByUHayIezdEmqmpk5u_BAsDYka_kemlrOpmPpRRApI4pHcrdQ8WSehIk_TY_XOEFpNrN4nP5B0SQYCc7BV6hqQ45SR3E.9onfrLly02lBrqsbpJYuOqx0zXdoOf70pNYSbl8rLyKDvvC0Je.DY0bdBJvCP.Z9it4r9GlqKZ43sngxuXEQP4YLaTSJYPUw_Ayi2Aj0TBRFTRJUrgwCja55K57fJI4pi5l6AAC1b6Z0LViMWPCMJoZLSmFmtbz4WZ93Hy6gRNVBGkgGs3w_gEGwQaDsUOPNe0PCGT4B_liQqJeKmM0tg9buUvVfD5lsq4T1ouZsjMqJ3WOP.a_c1nYx6hFAGV.8CxhXvjjA6_GTH09TjOU.rkN3i9k33VNMvSoeT4byKuMbasJKRBdZfkoA4uH3myy2vnvg6LSQC6tqMaYakFHVPtoExeN7pdiiYNjYULpsL6EJ7ZSW6Zee4pNDIiZvKT3jEIPi.BhNYbAKkth5W7GBcvtXucydyOqdRCX9xQQwb2qDSuIGKbQaDvjP0nzgT8p3WwyAN2235P.QaXipTyn0OXMJSG9yfBMAEC2aUzq7h_8FrhsEkpxDf2C8jEikMNq9l.3qhWXcedb0tHC30ziBz.c0kzM4_9NdhP5Rq5nfzd2sg8Jb26O4L_UDrYkRIssOh1OpPL0pOueBrZJVhfwfC0imdFZZlFALkDMh6Bs4xXC8WQWdY5gqgu4EoITkndjz_3098QGvoAnY1U4zysVeFYnMZzyV.ZUNzxb7c2gWdrUfkf6skGH2VE3xsYcp4eFNJioEYMzDV.vJJ7B1Oj016eSyH_wQCrFucyXNSEDHy6oyot.8vHFTmdGh1P6Jy_g5yvsvxCEYAQQ022NQuttqv145LURHe4vhhPVLsGh_cuG1x_ww8yoUwZrNxtN9SN6ey5QsSycmLeo_DbDoC3lWkoE4EcSNkgsnqsWDP0nCKoaa.XWsWF8E4bE5wSdxXjV0bwv3IRI4vh6qJmFPbWzMluDrV_dGEW9fkgAQrNp_kPuscHOjB4cqx0yNYHst7jzE9aIMnFF1vkr9rCO9tviU7KMd0V3QiQ4a_RR39Jg6p4Gi5oP.5oMn.XEo-"
+    },
+    {
+      "text": "Trump drops F-bomb, mocks Musk in Alaska rally speech",
+      "url": "/trump-drops-f-bomb-mocks-054802853.html"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Uber used a secret tactic known as the 'kill switch' to block law enforcement from accessing company data during police raids, leaked documents show",
+      "url": "/uber-used-secret-tactic-known-190036353.html"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "The DIY gun used to kill Japan's Abe was simple to make, analysts say",
+      "url": "/diy-gun-used-kill-japans-122130161.html"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Will AI one day become sentient?",
+      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
+    },
+    {
+      "text": "Read the 360",
+      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
+    }
   ]
 }

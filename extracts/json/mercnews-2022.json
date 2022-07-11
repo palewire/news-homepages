@@ -1,5 +1,5 @@
 {
-  "created": 1657471075,
+  "created": 1657498893,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/16/items/mercnews-2022",
@@ -7460,31 +7460,73 @@
       "sha1": "cd20c8abbfab619d4dff5c0e050a3d80bfad5f47"
     },
     {
+      "name": "mercnews-2022-07-10T11:14:41.955563-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657476885",
+      "size": "43254",
+      "md5": "abfb48ea37a284684bf4a6df3554b707",
+      "crc32": "7fca985f",
+      "sha1": "67d51c8a16d836559537dbaeb76474884c007708",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-07-10T11:14:41.955563-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657476887",
+      "size": "47496",
+      "md5": "5e45d3866e2e181066051cfa820a5cac",
+      "crc32": "40c0b82a",
+      "sha1": "24f5dca3535299a4a39fed25f679307f40a51d56",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-07-10T11:14:41.955563-07:00.jpg",
+      "source": "original",
+      "mtime": "1657476883",
+      "size": "272506",
+      "md5": "5dbc2d2758ab5191cbe6e7c915de0da1",
+      "crc32": "bca34752",
+      "sha1": "a1a95147b07eacc3bfbd49c18ae52f8f71508834",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-07-10T11:14:41.955563-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-07-10T11:14:41.955563-07:00.jpg",
+      "mtime": "1657476944",
+      "size": "9541",
+      "md5": "cc97159afe3d831627707ca557759ecf",
+      "crc32": "9f10c97c",
+      "sha1": "e9a2cd0f3b15739819160c3c9572571431e0a35f"
+    },
+    {
       "name": "mercnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5bed8c3c9669699a68d527386018e1f32b3663ac",
-      "mtime": "1657460741",
-      "size": "151137",
-      "md5": "12c34ad658b865e2f8d7a2cfb599dfcb",
-      "crc32": "7a6272b7",
-      "sha1": "fc2452503cc6abf7d25b7758d20fc3e191512bac",
+      "btih": "86033f6f7d142da6ed942515a78450bd9f387448",
+      "mtime": "1657476951",
+      "size": "151966",
+      "md5": "f9125004ee956fb9d8b18b928bf9b2ed",
+      "crc32": "294f78ba",
+      "sha1": "1db3cdc6e0e535e9ca5d0168a2e45a686f8f9335",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mercnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "abb07cf13304db67a4aa5f8d4294bb65",
+      "md5": "eec466e32b276ebc29d2c6919db9e7d5",
       "summation": "md5"
     },
     {
       "name": "mercnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657460683",
-      "size": "819200",
-      "md5": "63810cddd8e15b0c4120806ab45a332e",
-      "crc32": "b532b6da",
-      "sha1": "db365c485ff3b6ca3cdce3332da9a9deaf395d8a",
+      "mtime": "1657476890",
+      "size": "823296",
+      "md5": "b4d92daec0d220cb35a997060783bd18",
+      "crc32": "d988cdef",
+      "sha1": "9fc9b5de4a692045772be6b3b45afe165bd144f3",
       "format": "Metadata"
     },
     {
@@ -7498,1163 +7540,1327 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 713,
-  "item_last_updated": 1657460741,
-  "item_size": 73598832,
-  "mercnews-2022": {
-    "role": "WebArea",
-    "name": "The Mercury News - Bay Area news, sports, business, entertainment, lifestyle and commentary",
-    "children": [
-      {
-        "role": "button",
-        "name": "Close this dialog",
-        "focused": true
-      },
-      {
-        "role": "text",
-        "name": "This website stores data such as cookies to enable essential site functionality, as well as marketing, personalization, and analytics."
-      },
-      {
-        "role": "text",
-        "name": "By remaining on this website you indicate your consent."
-      },
-      {
-        "role": "link",
-        "name": "Data Storage Policy",
-        "description": "Opens in a new window"
-      },
-      {
-        "role": "link",
-        "name": "Skip to content"
-      },
-      {
-        "role": "button",
-        "name": "Open menu of all sections"
-      },
-      {
-        "role": "text",
-        "name": "Get Morning Report and other email newsletters"
-      },
-      {
-        "role": "link",
-        "name": "Subscribe"
-      },
-      {
-        "role": "link",
-        "name": "Log in"
-      },
-      {
-        "role": "button",
-        "name": "Click here or hit enter to open a Search box"
-      },
-      {
-        "role": "link",
-        "name": "Current temperature is 58\u00b0F, view full weather conditions in a new window",
-        "description": "Current Weather Conditions"
-      },
-      {
-        "role": "text",
-        "name": "Sunday, July 10th 2022"
-      },
-      {
-        "role": "link",
-        "name": "Today's e-Edition",
-        "description": "Link to E-Edition opens in a new window"
-      },
-      {
-        "role": "link",
-        "name": "The Mercury News"
-      },
-      {
-        "role": "link",
-        "name": "News"
-      },
-      {
-        "role": "link",
-        "name": "Local"
-      },
-      {
-        "role": "link",
-        "name": "Obituaries"
-      },
-      {
-        "role": "link",
-        "name": "Sports"
-      },
-      {
-        "role": "link",
-        "name": "Things to Do"
-      },
-      {
-        "role": "link",
-        "name": "Business"
-      },
-      {
-        "role": "link",
-        "name": "Real Estate"
-      },
-      {
-        "role": "link",
-        "name": "Opinion"
-      },
-      {
-        "role": "link",
-        "name": "Marketplace"
-      },
-      {
-        "role": "link",
-        "name": "e-Edition"
-      },
-      {
-        "role": "text",
-        "name": "TRENDING:"
-      },
-      {
-        "role": "link",
-        "name": "Musk \u2018terminates\u2019 Twitter deal",
-        "description": "Elon Musk \u2018terminates\u2019 $44 billion Twitter-purchase deal, claims firm failed to give fake-account numbers"
-      },
-      {
-        "role": "link",
-        "name": "Giants drop McGee",
-        "description": "SF Giants shakeup: Jake McGee DFA\u2019d to activate OF Luis Gonz\u00e1lez"
-      },
-      {
-        "role": "link",
-        "name": "IVF post-Roe",
-        "description": "Bay Area IVF doctors brace for post-Roe impact. Couples worry about their frozen embryos"
-      },
-      {
-        "role": "link",
-        "name": "Orange Sauce",
-        "description": "Orange Sauce: Everything you always wanted to know about San Jose\u2019s famous taco, burrito topping"
-      },
-      {
-        "role": "link",
-        "name": "James Calvin Wilsey story",
-        "description": "\u2018Wicked Game\u2019: The heartbreaking story of a Bay Area rock star"
-      },
-      {
-        "role": "link",
-        "name": "Map: Electra Fire",
-        "description": "Map: Electra Fire now California\u2019s 2nd biggest wildfire of season"
-      },
-      {
-        "role": "heading",
-        "name": "BREAKING NEWS",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "New evacuations as Washburn Fire doubled in size, threatening Yosemite\u2019s Mariposa Grove",
-        "description": "New evacuations as Washburn Fire doubled in size, threatening Yosemite\u2019s Mariposa Grove"
-      },
-      {
-        "role": "link",
-        "name": "Click here to close"
-      },
-      {
-        "role": "heading",
-        "name": "Featured",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Vatican defrocks priest who scolded Oakland Diocese over sex abuse",
-        "description": "Vatican defrocks priest who scolded Oakland Diocese over sex abuse"
-      },
-      {
-        "role": "text",
-        "name": "When the Vatican finally came for his collar a few months ago, Tom Stier said it still felt like a blow. \"I felt sad and angry. If I'd been raping kids, I wouldn't be thrown out of the club.\""
-      },
-      {
-        "role": "heading",
-        "name": "Related",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "California high school removes name of priest from aquatic center amid sex abuse claims"
-      },
-      {
-        "role": "link",
-        "name": "California high school removes name of priest from aquatic center amid sex abuse claims",
-        "description": "California high school removes name of priest from aquatic center amid sex abuse claims"
-      },
-      {
-        "role": "text",
-        "name": "1 day ago"
-      },
-      {
-        "role": "link",
-        "name": "Suit alleges sexual abuse by popular former California priest and high school swim coach"
-      },
-      {
-        "role": "link",
-        "name": "Suit alleges sexual abuse by popular former California priest and high school swim coach",
-        "description": "Suit alleges sexual abuse by popular former California priest and high school swim coach"
-      },
-      {
-        "role": "text",
-        "name": "3 weeks ago"
-      },
-      {
-        "role": "heading",
-        "name": "SUBSCRIBER ONLY",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "East Bay ex-priest implicated in child molestation scandal admitted to drinking and driving after fatal crash, police say"
-      },
-      {
-        "role": "link",
-        "name": "East Bay ex-priest implicated in child molestation scandal admitted to drinking and driving after fatal crash, police say",
-        "description": "East Bay ex-priest implicated in child molestation scandal admitted to drinking and driving after fatal crash, police say"
-      },
-      {
-        "role": "text",
-        "name": "2 months ago"
-      },
-      {
-        "role": "link",
-        "name": "WALNUT CREEK, CA - JULY 8: Tim Stier, of Walnut Creek, is photographed at his home in Walnut Creek, Calif., on Friday, July 8, 2022. (Jose Carlos Fajardo/Bay Area News Group)"
-      },
-      {
-        "role": "link",
-        "name": "Casa Vicky owner sells historic San Jose restaurant"
-      },
-      {
-        "role": "link",
-        "name": "Owner Maria Aguilar, whose mother started the restaurant in 1968, has sold the business to a group with two other San Jose locations.",
-        "description": "Casa Vicky owner sells historic San Jose restaurant"
-      },
-      {
-        "role": "heading",
-        "name": "SUBSCRIBER ONLY",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Casa Vicky owner sells historic San Jose restaurant",
-        "description": "Casa Vicky owner sells historic San Jose restaurant"
-      },
-      {
-        "role": "link",
-        "name": "Pac-12 survival guide: Examining the Fear Index as vultures circle and uncertainty looms"
-      },
-      {
-        "role": "link",
-        "name": "Of the remaining 11 members, some have more reason to fret about the future than others if the conference dissolves.",
-        "description": "Pac-12 survival guide: Examining the Fear Index as vultures circle and uncertainty looms"
-      },
-      {
-        "role": "heading",
-        "name": "SUBSCRIBER ONLY",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Pac-12 survival guide: Examining the Fear Index as vultures circle and uncertainty looms",
-        "description": "Pac-12 survival guide: Examining the Fear Index as vultures circle and uncertainty looms"
-      },
-      {
-        "role": "link",
-        "name": "Map: Yosemite wildfire evacuations expand"
-      },
-      {
-        "role": "link",
-        "name": "The Washburn Fire started Thursday at Mariposa Grove, which is included in the evacuation area.",
-        "description": "Map: Yosemite wildfire evacuations expand"
-      },
-      {
-        "role": "link",
-        "name": "Map: Yosemite wildfire evacuations expand",
-        "description": "Map: Yosemite wildfire evacuations expand"
-      },
-      {
-        "role": "link",
-        "name": "Editorial: BART\u2019s deceitful, Trumpian obstruction of oversight knows no bounds"
-      },
-      {
-        "role": "link",
-        "name": "It\u2019s time for the state Legislature to put a stop to transit district officials\u2019 resistance and childish behavior.",
-        "description": "Editorial: BART\u2019s deceitful, Trumpian obstruction of oversight knows no bounds"
-      },
-      {
-        "role": "link",
-        "name": "Editorial: BART\u2019s deceitful, Trumpian obstruction of oversight knows no bounds",
-        "description": "Editorial: BART\u2019s deceitful, Trumpian obstruction of oversight knows no bounds"
-      },
-      {
-        "role": "heading",
-        "name": "LATEST HEADLINES",
-        "level": 2
-      },
-      {
-        "role": "heading",
-        "name": "SUBSCRIBER ONLY",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Two get prison sentences in killing of beloved San Jose little league coach"
-      },
-      {
-        "role": "link",
-        "name": "Two get prison sentences in killing of beloved San Jose little league coach",
-        "description": "Two get prison sentences in killing of beloved San Jose little league coach"
-      },
-      {
-        "role": "text",
-        "name": "2 days ago"
-      },
-      {
-        "role": "link",
-        "name": "Did the SF Giants find their next Luis Gonz\u00e1lez?"
-      },
-      {
-        "role": "link",
-        "name": "Did the SF Giants find their next Luis Gonz\u00e1lez?",
-        "description": "Did the SF Giants find their next Luis Gonz\u00e1lez?"
-      },
-      {
-        "role": "text",
-        "name": "1 day ago"
-      },
-      {
-        "role": "link",
-        "name": "New evacuations as Washburn Fire doubled in size, threatening Yosemite\u2019s Mariposa Grove"
-      },
-      {
-        "role": "link",
-        "name": "New evacuations as Washburn Fire doubled in size, threatening Yosemite\u2019s Mariposa Grove",
-        "description": "New evacuations as Washburn Fire doubled in size, threatening Yosemite\u2019s Mariposa Grove"
-      },
-      {
-        "role": "text",
-        "name": "2 days ago"
-      },
-      {
-        "role": "link",
-        "name": "Moses Moody drops 34 points but Jonathan Kuminga shows rust in 2022 Summer League debut"
-      },
-      {
-        "role": "link",
-        "name": "Moses Moody drops 34 points but Jonathan Kuminga shows rust in 2022 Summer League debut",
-        "description": "Moses Moody drops 34 points but Jonathan Kuminga shows rust in 2022 Summer League debut"
-      },
-      {
-        "role": "text",
-        "name": "1 day ago"
-      },
-      {
-        "role": "link",
-        "name": "Why Sharks GM Grier was the man to break the NHL\u2019s front-office color barrier"
-      },
-      {
-        "role": "link",
-        "name": "Why Sharks GM Grier was the man to break the NHL\u2019s front-office color barrier",
-        "description": "Why Sharks GM Grier was the man to break the NHL\u2019s front-office color barrier"
-      },
-      {
-        "role": "text",
-        "name": "23 mins ago"
-      },
-      {
-        "role": "link",
-        "name": "Ask Amy: I want my birthday to be different, because it may be my last"
-      },
-      {
-        "role": "link",
-        "name": "Ask Amy: I want my birthday to be different, because it may be my last",
-        "description": "Ask Amy: I want my birthday to be different, because it may be my last"
-      },
-      {
-        "role": "text",
-        "name": "4 hours ago"
-      },
-      {
-        "role": "link",
-        "name": "Dear Abby: She doesn\u2019t know about my secret crush, and I\u2019m worried what will happen"
-      },
-      {
-        "role": "link",
-        "name": "Dear Abby: She doesn\u2019t know about my secret crush, and I\u2019m worried what will happen",
-        "description": "Dear Abby: She doesn\u2019t know about my secret crush, and I\u2019m worried what will happen"
-      },
-      {
-        "role": "text",
-        "name": "5 hours ago"
-      },
-      {
-        "role": "text",
-        "name": "Get Morning Report and other email newsletters"
-      },
-      {
-        "role": "link",
-        "name": "Click here to go to the Subscribe page"
-      },
-      {
-        "role": "text",
-        "name": "Follow Us"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Facebook"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Twitter"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Instagram"
-      },
-      {
-        "role": "link",
-        "name": "View RSS Feed"
-      },
-      {
-        "role": "heading",
-        "name": "Most Popular",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "RECOMMENDED FOR YOU"
-      },
-      {
-        "role": "link",
-        "name": "Heat job swap at NBA summer league creates \u2018god-like\u2019 international intrigue",
-        "description": "Heat job swap at NBA summer league creates \u2018god-like\u2019 international intrigue"
-      },
-      {
-        "role": "link",
-        "name": "Why Sharks GM Grier was the man to break the NHL\u2019s front-office color barrier",
-        "description": "Why Sharks GM Grier was the man to break the NHL\u2019s front-office color barrier"
-      },
-      {
-        "role": "link",
-        "name": "ASK IRA: Too much too soon for Heat\u2019s Nikola Jovic at summer league?",
-        "description": "ASK IRA: Too much too soon for Heat\u2019s Nikola Jovic at summer league?"
-      },
-      {
-        "role": "link",
-        "name": "Why taking pictures in all types of crashes is so important: Roadshow",
-        "description": "Why taking pictures in all types of crashes is so important: Roadshow"
-      },
-      {
-        "role": "link",
-        "name": "Me & My Car: 1980 BMW M1 in Alamo was never legally imported into U.S.",
-        "description": "Me & My Car: 1980 BMW M1 in Alamo was never legally imported into U.S."
-      },
-      {
-        "role": "link",
-        "name": "Pitts: What is wrong with American men?",
-        "description": "Pitts: What is wrong with American men?"
-      },
-      {
-        "role": "link",
-        "name": "\u2018Wicked Game\u2019: The heartbreaking story of a Bay Area rock star",
-        "description": "\u2018Wicked Game\u2019: The heartbreaking story of a Bay Area rock star"
-      },
-      {
-        "role": "link",
-        "name": "No antibiotics worked, so this California woman turned to a natural enemy of bacteria to save her husband\u2019s life",
-        "description": "No antibiotics worked, so this California woman turned to a natural enemy of bacteria to save her husband\u2019s life"
-      },
-      {
-        "role": "link",
-        "name": "Vatican defrocks priest who scolded Oakland Diocese over sex abuse",
-        "description": "Vatican defrocks priest who scolded Oakland Diocese over sex abuse"
-      },
-      {
-        "role": "link",
-        "name": "New evacuations as Washburn Fire doubled in size, threatening Yosemite\u2019s Mariposa Grove",
-        "description": "New evacuations as Washburn Fire doubled in size, threatening Yosemite\u2019s Mariposa Grove"
-      },
-      {
-        "role": "link",
-        "name": "CRIME AND PUBLIC SAFETY \ue111"
-      },
-      {
-        "role": "link",
-        "name": "Two injured in boat accident near a San Jose marina"
-      },
-      {
-        "role": "link",
-        "name": "A boat crash was reported Saturday afternoon north of the Alviso Marina.",
-        "description": "Two injured in boat accident near a San Jose marina"
-      },
-      {
-        "role": "link",
-        "name": "Two injured in boat accident near a San Jose marina",
-        "description": "Two injured in boat accident near a San Jose marina"
-      },
-      {
-        "role": "text",
-        "name": "A boat crash was reported Saturday afternoon north of the Alviso Marina."
-      },
-      {
-        "role": "link",
-        "name": "Long-smoldering fire sends smoke over East Contra Costa"
-      },
-      {
-        "role": "link",
-        "name": "Long-smoldering fire sends smoke over East Contra Costa",
-        "description": "Long-smoldering fire sends smoke over East Contra Costa"
-      },
-      {
-        "role": "heading",
-        "name": "SUBSCRIBER ONLY",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Fed grand jury indicts Vallejo man, 38, on drug, weapon charges"
-      },
-      {
-        "role": "link",
-        "name": "Fed grand jury indicts Vallejo man, 38, on drug, weapon charges",
-        "description": "Fed grand jury indicts Vallejo man, 38, on drug, weapon charges"
-      },
-      {
-        "role": "heading",
-        "name": "SUBSCRIBER ONLY",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Mental health placement report set for Vallejo man charged with arson"
-      },
-      {
-        "role": "link",
-        "name": "Mental health placement report set for Vallejo man charged with arson",
-        "description": "Mental health placement report set for Vallejo man charged with arson"
-      },
-      {
-        "role": "link",
-        "name": "SPORTS \ue111"
-      },
-      {
-        "role": "link",
-        "name": "SF Giants shakeup: Jake McGee DFA\u2019d to activate OF Luis Gonz\u00e1lez"
-      },
-      {
-        "role": "link",
-        "name": "McGee saved a team-high 31 games last season, but he had a 7.17 ERA in 21 appearances this year.",
-        "description": "SF Giants shakeup: Jake McGee DFA\u2019d to activate OF Luis Gonz\u00e1lez"
-      },
-      {
-        "role": "link",
-        "name": "SF Giants shakeup: Jake McGee DFA\u2019d to activate OF Luis Gonz\u00e1lez",
-        "description": "SF Giants shakeup: Jake McGee DFA\u2019d to activate OF Luis Gonz\u00e1lez"
-      },
-      {
-        "role": "text",
-        "name": "McGee saved a team-high 31 games last season, but he had a 7.17 ERA in 21 appearances this year."
-      },
-      {
-        "role": "link",
-        "name": "\u2018What\u2019s best for Donte\u2019: DiVincenzo details why he signed with Warriors"
-      },
-      {
-        "role": "link",
-        "name": "\u2018What\u2019s best for Donte\u2019: DiVincenzo details why he signed with Warriors",
-        "description": "\u2018What\u2019s best for Donte\u2019: DiVincenzo details why he signed with Warriors"
-      },
-      {
-        "role": "link",
-        "name": "Athletics beat Astros for first time on bizarre fourth-inning rally and quality pitching"
-      },
-      {
-        "role": "link",
-        "name": "Athletics beat Astros for first time on bizarre fourth-inning rally and quality pitching",
-        "description": "Athletics beat Astros for first time on bizarre fourth-inning rally and quality pitching"
-      },
-      {
-        "role": "link",
-        "name": "Athletics trade Christian Bethancourt to Tampa Bay, get Fremont\u2019s Cal Stevenson in return"
-      },
-      {
-        "role": "link",
-        "name": "Athletics trade Christian Bethancourt to Tampa Bay, get Fremont\u2019s Cal Stevenson in return",
-        "description": "Athletics trade Christian Bethancourt to Tampa Bay, get Fremont\u2019s Cal Stevenson in return"
-      },
-      {
-        "role": "link",
-        "name": "REAL ESTATE \ue111"
-      },
-      {
-        "role": "link",
-        "name": "Marin reckons with state law removing racial covenants"
-      },
-      {
-        "role": "link",
-        "name": "AB 1466, which went into effect on July 1, requires state recorders, real estate brokers, agents and insurance companies to modify property records by redacting racial restrictions.",
-        "description": "Marin reckons with state law removing racial covenants"
-      },
-      {
-        "role": "link",
-        "name": "Marin reckons with state law removing racial covenants",
-        "description": "Marin reckons with state law removing racial covenants"
-      },
-      {
-        "role": "text",
-        "name": "AB 1466, which went into effect on July 1, requires state recorders, real estate brokers, agents and insurance companies to modify property records by redacting racial restrictions."
-      },
-      {
-        "role": "link",
-        "name": "Richmond tenants are pushing back against rent hikes, alleging poor living conditions"
-      },
-      {
-        "role": "link",
-        "name": "Richmond tenants are pushing back against rent hikes, alleging poor living conditions",
-        "description": "Richmond tenants are pushing back against rent hikes, alleging poor living conditions"
-      },
-      {
-        "role": "heading",
-        "name": "SUBSCRIBER ONLY",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Motel 6 lodging properties in Bay Area land on the sales block amid economic uncertainty"
-      },
-      {
-        "role": "link",
-        "name": "Motel 6 hotels in South Bay find buyer amid COVID economic woes",
-        "description": "Motel 6 lodging properties in Bay Area land on the sales block amid economic uncertainty"
-      },
-      {
-        "role": "heading",
-        "name": "SUBSCRIBER ONLY",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Affordable homes near downtown San Jose approach construction launch"
-      },
-      {
-        "role": "link",
-        "name": "Affordable homes near downtown San Jose approach construction launch",
-        "description": "Affordable homes near downtown San Jose approach construction launch"
-      },
-      {
-        "role": "link",
-        "name": "PHOTOS \ue111"
-      },
-      {
-        "role": "link",
-        "name": "\ue60b",
-        "description": "WNBA\u2019s Brittany Griner pleads guilty in Russia drugs trial"
-      },
-      {
-        "role": "link",
-        "name": "The basketball star said she had no intention of committing a crime.",
-        "description": "WNBA\u2019s Brittany Griner pleads guilty in Russia drugs trial"
-      },
-      {
-        "role": "link",
-        "name": "WNBA\u2019s Brittany Griner pleads guilty in Russia drugs trial",
-        "description": "WNBA\u2019s Brittany Griner pleads guilty in Russia drugs trial"
-      },
-      {
-        "role": "text",
-        "name": "The basketball star, who said she had no intention of committing a crime, faces up to 10 years in prison."
-      },
-      {
-        "role": "link",
-        "name": "\ue60b",
-        "description": "Nancy Reagan Forever stamp dedicated at Ronald Reagan Presidential Library"
-      },
-      {
-        "role": "link",
-        "name": "\u201cNancy Reagan helped define the role of Presidential spouse for her successors,\u201d said her son-in-law, Dennis C. Revell.",
-        "description": "Nancy Reagan Forever stamp dedicated at Ronald Reagan Presidential Library"
-      },
-      {
-        "role": "link",
-        "name": "Nancy Reagan Forever stamp dedicated at Ronald Reagan Presidential Library",
-        "description": "Nancy Reagan Forever stamp dedicated at Ronald Reagan Presidential Library"
-      },
-      {
-        "role": "link",
-        "name": "\ue60b",
-        "description": "Why are wild burros falling sick, dying of flu in Southern California"
-      },
-      {
-        "role": "link",
-        "name": "Equine influenza is blamed for the deaths of nearly 20 wild donkeys between Colton and Moreno Valley in recent weeks.",
-        "description": "Why are wild burros falling sick, dying of flu in Southern California"
-      },
-      {
-        "role": "link",
-        "name": "Why are wild burros falling sick, dying of flu in Southern California",
-        "description": "Why are wild burros falling sick, dying of flu in Southern California"
-      },
-      {
-        "role": "link",
-        "name": "\ue60b",
-        "description": "For Bay Area police fighting epidemic, a fentanyl mixing and testing workshop"
-      },
-      {
-        "role": "link",
-        "name": "Synthetic opioids were front and center in a demonstration of how drug makers contribute to East Bay overdoses",
-        "description": "For Bay Area police fighting epidemic, a fentanyl mixing and testing workshop"
-      },
-      {
-        "role": "link",
-        "name": "For Bay Area police fighting epidemic, a fentanyl mixing and testing workshop",
-        "description": "For Bay Area police fighting epidemic, a fentanyl mixing and testing workshop"
-      },
-      {
-        "role": "button",
-        "name": "SHOW MORE PHOTOS"
-      },
-      {
-        "role": "link",
-        "name": "CORONAVIRUS \ue111"
-      },
-      {
-        "role": "link",
-        "name": "California exodus accelerated during Covid-19 pandemic, study shows"
-      },
-      {
-        "role": "link",
-        "name": "The long-term migration out of California accelerated during the Covid-19 crisis, with Texas, Washington and Florida as top destinations for people moving out of the state, according to a study from the Federal Reserve Bank of Chicago.",
-        "description": "California exodus accelerated during Covid-19 pandemic, study shows"
-      },
-      {
-        "role": "link",
-        "name": "California exodus accelerated during Covid-19 pandemic, study shows",
-        "description": "California exodus accelerated during Covid-19 pandemic, study shows"
-      },
-      {
-        "role": "text",
-        "name": "The long-term migration out of California accelerated during the Covid-19 crisis, with Texas, Washington and..."
-      },
-      {
-        "role": "link",
-        "name": "The balance of power is shifting in the tech industry"
-      },
-      {
-        "role": "link",
-        "name": "The balance of power is shifting in the tech industry",
-        "description": "The balance of power is shifting in the tech industry"
-      },
-      {
-        "role": "link",
-        "name": "Second probable monkeypox case found in Santa Cruz County"
-      },
-      {
-        "role": "link",
-        "name": "Second probable monkeypox case found in Santa Cruz County",
-        "description": "Second probable monkeypox case found in Santa Cruz County"
-      },
-      {
-        "role": "heading",
-        "name": "SUBSCRIBER ONLY",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "San Jose man reaches plea deal, avoids trial over Covid protests"
-      },
-      {
-        "role": "link",
-        "name": "San Jose man reaches plea deal, avoids trial over Covid protests",
-        "description": "San Jose man reaches plea deal, avoids trial over Covid protests"
-      },
-      {
-        "role": "link",
-        "name": "OPINION \ue111"
-      },
-      {
-        "role": "link",
-        "name": "Opinion: Police shooting shows need for 988 mental health hotline"
-      },
-      {
-        "role": "link",
-        "name": "Miles Hall death part of troubling trend: Nearly one in four killed by officers lives with serious mental illness",
-        "description": "Opinion: Police shooting shows need for 988 mental health hotline"
-      },
-      {
-        "role": "link",
-        "name": "Opinion: Police shooting shows need for 988 mental health hotline",
-        "description": "Opinion: Police shooting shows need for 988 mental health hotline"
-      },
-      {
-        "role": "text",
-        "name": "Miles Hall death part of troubling trend: Nearly one in four killed by officers lives..."
-      },
-      {
-        "role": "link",
-        "name": "Letters: No secession | Column\u2019s \u2018Big Lie\u2019 | Back to antebellum | Church-state reparation | Carrying water | Come together"
-      },
-      {
-        "role": "link",
-        "name": "Letters: No secession | Column\u2019s \u2018Big Lie\u2019 | Back to antebellum | Church-state reparation | Carrying water | Come together",
-        "description": "Letters: No secession | Column\u2019s \u2018Big Lie\u2019 | Back to antebellum | Church-state reparation | Carrying water | Come together"
-      },
-      {
-        "role": "link",
-        "name": "Pitts: What is wrong with American men?"
-      },
-      {
-        "role": "link",
-        "name": "Pitts: What is wrong with American men?",
-        "description": "Pitts: What is wrong with American men?"
-      },
-      {
-        "role": "link",
-        "name": "Mulvaney: Republicans should pay attention to Jan. 6 hearings"
-      },
-      {
-        "role": "link",
-        "name": "Mulvaney: Republicans should pay attention to Jan. 6 hearings",
-        "description": "Mulvaney: Republicans should pay attention to Jan. 6 hearings"
-      },
-      {
-        "role": "link",
-        "name": "THINGS TO DO \ue111"
-      },
-      {
-        "role": "link",
-        "name": "Bridge: July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": "Bridge: July 10, 2022",
-        "description": "Bridge: July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": "Bridge: July 10, 2022",
-        "description": "Bridge: July 10, 2022"
-      },
-      {
-        "role": "text",
-        "name": "Once I was playing with a pupil, and our opponents bid to four spades. My..."
-      },
-      {
-        "role": "link",
-        "name": "Word Game: July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": "Word Game: July 10, 2022",
-        "description": "Word Game: July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": "Horoscopes July 10, 2022: Sofia Vergara, make your move"
-      },
-      {
-        "role": "link",
-        "name": "Horoscopes July 10, 2022: Sofia Vergara, make your move",
-        "description": "Horoscopes July 10, 2022: Sofia Vergara, make your move"
-      },
-      {
-        "role": "link",
-        "name": "High speed rescue: Two tigers raised in captivity have arrived at Oakland Zoo"
-      },
-      {
-        "role": "link",
-        "name": "High speed rescue: Two tigers raised in captivity have arrived at Oakland Zoo",
-        "description": "High speed rescue: Two tigers raised in captivity have arrived at Oakland Zoo"
-      },
-      {
-        "role": "link",
-        "name": "BUSINESS \ue111"
-      },
-      {
-        "role": "link",
-        "name": "Fears of another gas shock drive Biden to seek price cap on Russian oil"
-      },
-      {
-        "role": "link",
-        "name": "Relief at the gas pump coupled with this past week\u2019s news that businesses continue to hire at a blistering clip have tempered fears that America is headed into a downturn.",
-        "description": "Fears of another gas shock drive Biden to seek price cap on Russian oil"
-      },
-      {
-        "role": "link",
-        "name": "Fears of another gas shock drive Biden to seek price cap on Russian oil",
-        "description": "Fears of another gas shock drive Biden to seek price cap on Russian oil"
-      },
-      {
-        "role": "text",
-        "name": "Relief at the gas pump coupled with this past week\u2019s news that businesses continue to..."
-      },
-      {
-        "role": "link",
-        "name": "Los Angeles enacts $25 minimum wage for healthcare workers"
-      },
-      {
-        "role": "link",
-        "name": "Los Angeles enacts $25 minimum wage for healthcare workers",
-        "description": "Los Angeles enacts $25 minimum wage for healthcare workers"
-      },
-      {
-        "role": "link",
-        "name": "Elon Musk \u2018terminates\u2019 $44 billion Twitter-purchase deal, claims firm failed to give fake-account numbers"
-      },
-      {
-        "role": "link",
-        "name": "Elon Musk \u2018terminates\u2019 $44 billion Twitter-purchase deal, Twitter promises court fight",
-        "description": "Elon Musk \u2018terminates\u2019 $44 billion Twitter-purchase deal, claims firm failed to give fake-account numbers"
-      },
-      {
-        "role": "heading",
-        "name": "SUBSCRIBER ONLY",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Fuel prices are plummeting, but will Bay Area drivers ever see $5 gas again?"
-      },
-      {
-        "role": "link",
-        "name": "Fuel prices are plummeting, but will Bay Area drivers ever see $5 gas again?",
-        "description": "Fuel prices are plummeting, but will Bay Area drivers ever see $5 gas again?"
-      },
-      {
-        "role": "heading",
-        "name": "TRENDING NATIONALLY",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Family in shock after man shot to death while confronting squeegee workers with bat: \u2018He should have just kept driving\u2019"
-      },
-      {
-        "role": "link",
-        "name": "Middle school teacher accused of dragging student"
-      },
-      {
-        "role": "link",
-        "name": "Mortgage rates tumble, largest decline since 2008"
-      },
-      {
-        "role": "link",
-        "name": "Police officer suspended for arresting wrong person in DUI stop, then fired for lying about off-duty work"
-      },
-      {
-        "role": "link",
-        "name": "Police records paint picture of turbulent home life for alleged sniper in Highland Park mass shooting"
-      },
-      {
-        "role": "link",
-        "name": "The Mercury News"
-      },
-      {
-        "role": "link",
-        "name": "NEWS ALERTS"
-      },
-      {
-        "role": "link",
-        "name": "Email Newsletters"
-      },
-      {
-        "role": "link",
-        "name": "Today\u2019s e-Edition"
-      },
-      {
-        "role": "link",
-        "name": "Mobile Apps"
-      },
-      {
-        "role": "link",
-        "name": "SUBSCRIBE"
-      },
-      {
-        "role": "link",
-        "name": "Member Services"
-      },
-      {
-        "role": "link",
-        "name": "Manage Subscriptions"
-      },
-      {
-        "role": "link",
-        "name": "Store"
-      },
-      {
-        "role": "link",
-        "name": "Archive Search"
-      },
-      {
-        "role": "link",
-        "name": "Reprints"
-      },
-      {
-        "role": "link",
-        "name": "CONTACT US"
-      },
-      {
-        "role": "link",
-        "name": "Digital Access FAQ"
-      },
-      {
-        "role": "link",
-        "name": "Join our Team"
-      },
-      {
-        "role": "link",
-        "name": "Special Sections"
-      },
-      {
-        "role": "link",
-        "name": "Sponsor a Group"
-      },
-      {
-        "role": "link",
-        "name": "Get Sponsored Access"
-      },
-      {
-        "role": "link",
-        "name": "Privacy Policy"
-      },
-      {
-        "role": "link",
-        "name": "Accessibility"
-      },
-      {
-        "role": "link",
-        "name": "MARKETPLACE"
-      },
-      {
-        "role": "link",
-        "name": "Classifieds"
-      },
-      {
-        "role": "link",
-        "name": "Place Obituary"
-      },
-      {
-        "role": "link",
-        "name": "Place Legal Notice"
-      },
-      {
-        "role": "link",
-        "name": "Real Estate"
-      },
-      {
-        "role": "link",
-        "name": "Lottery"
-      },
-      {
-        "role": "link",
-        "name": "ADVERTISE WITH US"
-      },
-      {
-        "role": "link",
-        "name": "Network Advertising"
-      },
-      {
-        "role": "link",
-        "name": "Daily Ads"
-      },
-      {
-        "role": "link",
-        "name": "Public Notices"
-      },
-      {
-        "role": "link",
-        "name": "Top Workplaces"
-      },
-      {
-        "role": "link",
-        "name": "Monster.com"
-      },
-      {
-        "role": "text",
-        "name": "FOLLOW US"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Facebook"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Twitter"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Instagram"
-      },
-      {
-        "role": "link",
-        "name": "View RSS Feed"
-      },
-      {
-        "role": "link",
-        "name": "SUBSCRIBE NOW"
-      },
-      {
-        "role": "text",
-        "name": "Copyright \u00a9 2022 MediaNews Group"
-      },
-      {
-        "role": "link",
-        "name": "Terms of Use"
-      },
-      {
-        "role": "link",
-        "name": "Cookie Policy"
-      },
-      {
-        "role": "link",
-        "name": "Arbitration"
-      },
-      {
-        "role": "link",
-        "name": "Powered by WordPress.com VIP"
-      },
-      {
-        "role": "link",
-        "name": "Do Not Sell My Info"
-      },
-      {
-        "role": "link",
-        "name": "Bay Area News Group BAY AREA'S HOME PAGE"
-      },
-      {
-        "role": "text",
-        "name": "Search Nearby"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0"
-      },
-      {
-        "role": "generic",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "Looks like you're a subscriber.",
-            "level": 3
-          },
-          {
-            "role": "text",
-            "name": "Log in to continue reading The Mercury News uninterrupted."
-          },
-          {
-            "role": "link",
-            "name": "Log in",
-            "description": "LOG IN"
-          },
-          {
-            "role": "link",
-            "name": "Login help\ufeff",
-            "description": "LOGIN HELP"
-          }
-        ]
-      }
-    ]
-  },
+  "files_count": 717,
+  "item_last_updated": 1657476951,
+  "item_size": 73976554,
+  "mercnews-2022": [
+    {
+      "text": "Data Storage Policy",
+      "url": "https://www.medianewsgroup.com/privacy-policy/"
+    },
+    {
+      "text": "Skip to content",
+      "url": "#content"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tSubscribe Now\t\t\t\t\t\t\t\t",
+      "url": "https://checkout.mercurynews.com/?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
+    },
+    {
+      "text": "\n\t\t\t74\u00b0F\n\t\t\t\n\t\t",
+      "url": "http://www.accuweather.com/en/us/san-jose-ca/95110/weather-warnings/39768_pc?lang=en-us&partner=mng_28"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tToday's e-Edition\t\t\t\t\t\t\t\t\t",
+      "url": "http://enewspaper.mercurynews.com"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHome Page\n\t\t\t\t\t\t\t\t",
+      "url": "https://www.mercurynews.com"
+    },
+    {
+      "text": "News",
+      "url": "https://www.mercurynews.com/news/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.mercurynews.com/news/"
+    },
+    {
+      "text": "Latest Headlines",
+      "url": "https://www.mercurynews.com/latest-headlines/"
+    },
+    {
+      "text": "Crime and Public Safety",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "California News",
+      "url": "https://www.mercurynews.com/news/california-news/"
+    },
+    {
+      "text": "National News",
+      "url": "https://www.mercurynews.com/news/national-news/"
+    },
+    {
+      "text": "World News",
+      "url": "https://www.mercurynews.com/news/world-news/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.mercurynews.com/news/politics/"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.mercurynews.com/news/education/"
+    },
+    {
+      "text": "Environment",
+      "url": "https://www.mercurynews.com/news/environment/"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.mercurynews.com/news/science/"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.mercurynews.com/news/health/"
+    },
+    {
+      "text": "Mr. Roadshow",
+      "url": "https://www.mercurynews.com/tag/mr-roadshow/"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://www.mercurynews.com/news/transportation/"
+    },
+    {
+      "text": "The Cannifornian",
+      "url": "http://thecannifornian.com"
+    },
+    {
+      "text": "Local",
+      "url": "/location/california/bay-area/"
+    },
+    {
+      "text": "Local News Map",
+      "url": "https://www.mercurynews.com/news-near-me-map/"
+    },
+    {
+      "text": "Bay Area",
+      "url": "/location/california/bay-area/"
+    },
+    {
+      "text": "San Jose",
+      "url": "https://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/"
+    },
+    {
+      "text": "Santa Clara County",
+      "url": "https://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/"
+    },
+    {
+      "text": "Peninsula",
+      "url": "/location/california/bay-area/peninsula/"
+    },
+    {
+      "text": "San Mateo County",
+      "url": "https://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/"
+    },
+    {
+      "text": "Alameda County",
+      "url": "https://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/"
+    },
+    {
+      "text": "Santa Cruz County",
+      "url": "https://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/"
+    },
+    {
+      "text": "Sal Pizarro",
+      "url": "https://www.mercurynews.com/tag/around-town/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.mercurynews.com/news/obituaries/"
+    },
+    {
+      "text": "Obituaries in the News",
+      "url": "https://www.mercurynews.com/news/obituaries/"
+    },
+    {
+      "text": "Local Obituaries",
+      "url": "https://www.legacy.com/obituaries/mercurynews/"
+    },
+    {
+      "text": "Place an Obituary",
+      "url": "https://bang.theadhawk.com/bang-adportal/obits/index.html"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.mercurynews.com/opinion/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.mercurynews.com/opinion/"
+    },
+    {
+      "text": "Editorials",
+      "url": "/opinion/editorials/"
+    },
+    {
+      "text": "Opinion Columnists",
+      "url": "/tag/opinion-columnists/"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "/opinion/letters/"
+    },
+    {
+      "text": "Commentary",
+      "url": "https://www.mercurynews.com/opinion/commentary/"
+    },
+    {
+      "text": "Cartoons",
+      "url": "https://www.mercurynews.com/tag/cartoons/"
+    },
+    {
+      "text": "Election Endorsements",
+      "url": "https://www.mercurynews.com/opinion/endorsements/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.mercurynews.com/sports/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.mercurynews.com/sports/"
+    },
+    {
+      "text": "San Francisco 49ers",
+      "url": "https://www.mercurynews.com/sports/nfl/san-francisco-49ers/"
+    },
+    {
+      "text": "San Francisco Giants",
+      "url": "https://www.mercurynews.com/sports/mlb/san-francisco-giants/"
+    },
+    {
+      "text": "Golden State Warriors",
+      "url": "https://www.mercurynews.com/sports/nba/golden-state-warriors/"
+    },
+    {
+      "text": "Raiders",
+      "url": "https://www.mercurynews.com/sports/nfl/raiders/"
+    },
+    {
+      "text": "Oakland Athletics",
+      "url": "https://www.mercurynews.com/sports/mlb/oakland-athletics/"
+    },
+    {
+      "text": "San Jose Sharks",
+      "url": "https://www.mercurynews.com/sports/nhl/san-jose-sharks/"
+    },
+    {
+      "text": "San Jose Earthquakes",
+      "url": "https://www.mercurynews.com/sports/soccer/san-jose-earthquakes/"
+    },
+    {
+      "text": "College Sports",
+      "url": "https://www.mercurynews.com/sports/college-sports/"
+    },
+    {
+      "text": "Pac-12 Hotline",
+      "url": "/tag/pac-12-hotline/"
+    },
+    {
+      "text": "High School Sports",
+      "url": "https://www.mercurynews.com/sports/high-school-sports/"
+    },
+    {
+      "text": "Other Sports",
+      "url": "https://www.mercurynews.com/sports/other-sports/"
+    },
+    {
+      "text": "Sports Columnists",
+      "url": "https://www.mercurynews.com/sports/columnists/"
+    },
+    {
+      "text": "Sports Blogs",
+      "url": "https://www.mercurynews.com/blogs/"
+    },
+    {
+      "text": "Things To Do",
+      "url": "https://www.mercurynews.com/things-to-do/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.mercurynews.com/things-to-do/entertainment/"
+    },
+    {
+      "text": "Things To Do",
+      "url": "https://www.mercurynews.com/things-to-do/"
+    },
+    {
+      "text": "Restaurants, Food and Drink",
+      "url": "https://www.mercurynews.com/things-to-do/restaurants-food-drink/"
+    },
+    {
+      "text": "Celebrities",
+      "url": "https://www.mercurynews.com/tag/celebrities/"
+    },
+    {
+      "text": "TV Streaming",
+      "url": "https://www.mercurynews.com/things-to-do/tv-streaming/"
+    },
+    {
+      "text": "Movies",
+      "url": "https://www.mercurynews.com/things-to-do/movies/"
+    },
+    {
+      "text": "Music",
+      "url": "https://www.mercurynews.com/things-to-do/music/"
+    },
+    {
+      "text": "Theater",
+      "url": "https://www.mercurynews.com/things-to-do/theater/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.mercurynews.com/things-to-do/lifestyle/"
+    },
+    {
+      "text": "Advice",
+      "url": "https://www.mercurynews.com/advice/"
+    },
+    {
+      "text": "Travel",
+      "url": "https://www.mercurynews.com/things-to-do/travel/"
+    },
+    {
+      "text": "Pets and Animals",
+      "url": "https://www.mercurynews.com/things-to-do/pets-animals/"
+    },
+    {
+      "text": "Comics",
+      "url": "https://www.mercurynews.com/comics/"
+    },
+    {
+      "text": "Puzzles and Games",
+      "url": "https://www.mercurynews.com/puzzle-games/"
+    },
+    {
+      "text": "Horoscopes",
+      "url": "https://www.mercurynews.com/things-to-do/horoscopes/"
+    },
+    {
+      "text": "Local Events",
+      "url": "https://www.mercurynews.com/local-events/"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.mercurynews.com/business/"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.mercurynews.com/business/"
+    },
+    {
+      "text": "Housing",
+      "url": "https://www.mercurynews.com/news/housing/"
+    },
+    {
+      "text": "Economy",
+      "url": "https://www.mercurynews.com/business/economy/"
+    },
+    {
+      "text": "Technology",
+      "url": "https://www.mercurynews.com/business/technology/"
+    },
+    {
+      "text": "SiliconValley.com",
+      "url": "https://www.siliconvalley.com"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://www.mercurynews.com/business/real-estate/"
+    },
+    {
+      "text": "Marketplace",
+      "url": "https://www.mercurynews.com/sponsored-content/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://checkout.mercurynews.com/?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
+    },
+    {
+      "text": "Log in",
+      "url": "https://www.mercurynews.com/login?returnUrl=https%3A%2F%2Fwww.mercurynews.com%2F"
+    },
+    {
+      "text": "Logout",
+      "url": "https://www.mercurynews.com/logout"
+    },
+    {
+      "text": "\n\t\t\t\tSign Up",
+      "url": "https://myaccount.mercurynews.com/merc/preference"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://checkout.mercurynews.com/?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
+    },
+    {
+      "text": "Log in",
+      "url": "https://www.mercurynews.com/login?returnUrl=https%3A%2F%2Fwww.mercurynews.com%2F"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/contact-us"
+    },
+    {
+      "text": "Log Out",
+      "url": "/logout"
+    },
+    {
+      "text": "\n\t\t\t\tSign Up",
+      "url": "https://myaccount.mercurynews.com/merc/preference"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://checkout.mercurynews.com/?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
+    },
+    {
+      "text": "Log in",
+      "url": "https://www.mercurynews.com/login?returnUrl=https%3A%2F%2Fwww.mercurynews.com%2F"
+    },
+    {
+      "text": "\n\t\t\t74\u00b0F\n\t\t\t\n\t\t",
+      "url": "http://www.accuweather.com/en/us/san-jose-ca/95110/weather-warnings/39768_pc?lang=en-us&partner=mng_28"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tToday's e-Edition\t\t\t\t\t\t\t\t\t",
+      "url": "http://enewspaper.mercurynews.com"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com"
+    },
+    {
+      "text": "News",
+      "url": "https://www.mercurynews.com/news/"
+    },
+    {
+      "text": "Local",
+      "url": "https://www.mercurynews.com/location/california/bay-area/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.legacy.com/obituaries/mercurynews/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.mercurynews.com/sports/"
+    },
+    {
+      "text": "Things to Do",
+      "url": "https://www.mercurynews.com/things-to-do/"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.mercurynews.com/business/"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://www.mercurynews.com/business/real-estate/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.mercurynews.com/opinion/"
+    },
+    {
+      "text": "Marketplace",
+      "url": "https://www.mercurynews.com/sponsored-content/"
+    },
+    {
+      "text": "e-Edition",
+      "url": "http://enewspaper.mercurynews.com"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMusk \u2018terminates\u2019 Twitter deal\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/08/elon-musk-terminates-44-billion-twitter-purchase-deal-claims-firm-failed-to-give-fake-account-numbers/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tGiants drop McGee\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/sf-giants-shakeup-jake-mcgee-dfad-to-activate-of-luis-gonzalez/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tIVF post-Roe\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/08/bay-area-ivf-doctors-brace-for-post-roe-impact/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOrange Sauce\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/orange-sauce/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tJames Calvin Wilsey story\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/08/wicked-game-the-heartbreaking-story-of-a-bay-area-rock-star/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMap: Electra Fire\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/map-electra-fire-now-californias-2nd-biggest-wildfire-of-season/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWashburn Fire near Yosemite\u2019s Mariposa Grove now nearly 1,600 acres, smoke will drift west\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/washburn-fire-near-yosemites-mariposa-grove-now-nearly-1600-acres/"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tIn the wake of 8-year-old\u2019s death, officials and experts ask: Where were Hayward schools?\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/in-the-wake-of-8-year-olds-death-officials-and-experts-ask-where-were-hayward-schools/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/in-the-wake-of-8-year-olds-death-officials-and-experts-ask-where-were-hayward-schools/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/in-the-wake-of-8-year-olds-death-officials-and-experts-ask-where-were-hayward-schools/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/26/losing-sophia-bay-area-social-workers-were-repeatedly-warned-about-girls-abuse-but-they-failed-to-stop-her-death/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSocial workers were repeatedly told Sophia was abused. They failed to prevent her death.\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/26/losing-sophia-bay-area-social-workers-were-repeatedly-warned-about-girls-abuse-but-they-failed-to-stop-her-death/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/06/29/its-really-effed-up-two-alameda-county-supervisors-vow-to-investigate-dcfs-handling-of-sophia-masons-child-abuse-case/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018It\u2019s really effed up\u2019: 2 Alameda supervisors vow to investigate handling of Sophia\u2019s child welfare case\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/06/29/its-really-effed-up-two-alameda-county-supervisors-vow-to-investigate-dcfs-handling-of-sophia-masons-child-abuse-case/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/01/editorial-eight-year-olds-horrific-death-needs-outside-investigation/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tEditorial: 8-year-old\u2019s horrific death needs outside investigation\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/01/editorial-eight-year-olds-horrific-death-needs-outside-investigation/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/in-the-wake-of-8-year-olds-death-officials-and-experts-ask-where-were-hayward-schools/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/how-did-california-schools-spend-billions-in-covid-aid/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/how-did-california-schools-spend-billions-in-covid-aid/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tHow did California schools spend billions in COVID aid?\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/how-did-california-schools-spend-billions-in-covid-aid/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/why-sharks-gm-grier-was-the-man-to-break-the-nhls-front-office-color-barrier/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/why-sharks-gm-grier-was-the-man-to-break-the-nhls-front-office-color-barrier/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWhy Sharks GM Mike Grier was the man to break the NHL\u2019s front-office color barrier\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/why-sharks-gm-grier-was-the-man-to-break-the-nhls-front-office-color-barrier/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/vatican-defrocks-priest-who-scolded-oakland-diocese-over-sex-abuse/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/vatican-defrocks-priest-who-scolded-oakland-diocese-over-sex-abuse/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tVatican defrocks priest who scolded Oakland Diocese over sex abuse\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/vatican-defrocks-priest-who-scolded-oakland-diocese-over-sex-abuse/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/casa-vicky-owner-sells-historic-san-jose-restaurant/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/casa-vicky-owner-sells-historic-san-jose-restaurant/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCasa Vicky owner sells historic San Jose restaurant\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/casa-vicky-owner-sells-historic-san-jose-restaurant/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/map-yosemite-wildfire-evacuations-and-road-closures/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMap: Yosemite wildfire evacuations expand\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/map-yosemite-wildfire-evacuations-and-road-closures/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/08/yosemite-wawona-and-wawona-campground-evacuated-due-to-washburn-fire/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tNew evacuations as Washburn Fire doubled in size, threatening Yosemite\u2019s Mariposa Grove\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/08/yosemite-wawona-and-wawona-campground-evacuated-due-to-washburn-fire/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/08/two-get-prison-sentences-in-killing-of-beloved-san-jose-little-league-coach/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tTwo get prison sentences in killing of beloved San Jose little league coach\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/08/two-get-prison-sentences-in-killing-of-beloved-san-jose-little-league-coach/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/at-least-21-dead-after-3-tavern-shootings-in-south-africa/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAt least 21 dead after 3 tavern shootings in South Africa\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/at-least-21-dead-after-3-tavern-shootings-in-south-africa/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/stockton-43-year-old-man-shot-injured-saturday-night/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tStockton: 43-year-old man shot, injured Saturday night\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/stockton-43-year-old-man-shot-injured-saturday-night/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/petaluma-receives-13-million-for-new-rail-station-bus-improvements/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPetaluma receives $13 million for new rail station, bus improvements\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/petaluma-receives-13-million-for-new-rail-station-bus-improvements/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/russian-rocket-attack-kills-15-in-ukraine-others-trapped/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tRussian rocket attack kills 15 in Ukraine; others trapped\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/russian-rocket-attack-kills-15-in-ukraine-others-trapped/"
+    },
+    {
+      "text": "\n\t\tSubscribe",
+      "url": "https://myaccount.mercurynews.com/merc/preference"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t",
+      "url": "https://facebook.com/mercurynews"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t",
+      "url": "https://twitter.com/mercnews"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t",
+      "url": "https://instagram.com/mercnews"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tRSS\n\t\t\t\t\t",
+      "url": "https://www.mercurynews.com/feed/"
+    },
+    {
+      "text": "\n                Heat job swap at NBA summer league creates \u2018god-like\u2019 international intrigue\n            ",
+      "url": "https://www.mercurynews.com/2022/07/10/heat-job-swap-at-nba-summer-league-creates-god-like-international-intrigue/"
+    },
+    {
+      "text": "\n                Stockton: 43-year-old man shot, injured Saturday night\n            ",
+      "url": "https://www.mercurynews.com/2022/07/10/stockton-43-year-old-man-shot-injured-saturday-night/"
+    },
+    {
+      "text": "\n                NFL star Duane Brown arrested on gun charge at Los Angeles airport\n            ",
+      "url": "https://www.mercurynews.com/2022/07/10/nfl-star-duane-brown-arrested-on-gun-charge-at-los-angeles-airport/"
+    },
+    {
+      "text": "\n                For starters, Heat Tyler Herro willing to be patient, says no issue with Pat Riley\n            ",
+      "url": "https://www.mercurynews.com/2022/07/10/for-starters-heat-tyler-herro-willing-to-be-patient-says-no-issue-with-pat-riley/"
+    },
+    {
+      "text": "\n                Petaluma receives $13 million for new rail station, bus improvements\n            ",
+      "url": "https://www.mercurynews.com/2022/07/10/petaluma-receives-13-million-for-new-rail-station-bus-improvements/"
+    },
+    {
+      "text": "\n                Pitts: What is wrong with American men?\n            ",
+      "url": "https://www.mercurynews.com/2022/07/10/pitts-what-is-wrong-with-american-men/"
+    },
+    {
+      "text": "\n                Simulation: Seattle Fault could cause 42-foot tsunami to hit city\n            ",
+      "url": "https://www.mercurynews.com/2022/07/08/simulation-seattle-fault-could-cause-42-foot-tsunami-to-hit-city/"
+    },
+    {
+      "text": "\n                High speed rescue: Two tigers raised in captivity have arrived at Oakland Zoo\n            ",
+      "url": "https://www.mercurynews.com/2022/07/09/high-speed-rescue-two-tigers-raised-in-captivity-have-arrived-at-oakland-zoo/"
+    },
+    {
+      "text": "\n                Vatican defrocks priest who scolded Oakland Diocese over sex abuse\n            ",
+      "url": "https://www.mercurynews.com/2022/07/09/vatican-defrocks-priest-who-scolded-oakland-diocese-over-sex-abuse/"
+    },
+    {
+      "text": "\n                Ask Amy: I want my birthday to be different, because it may be my last\n            ",
+      "url": "https://www.mercurynews.com/2022/07/10/ask-amy-hate-crime-terrifies-asian-american-victim/"
+    },
+    {
+      "text": "\n\t\t\t\tCrime and Public Safety\n\t\t\t",
+      "url": "https://www.mercurynews.com/news/crime-public-safety/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/washburn-fire-near-yosemites-mariposa-grove-now-nearly-1600-acres/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/washburn-fire-near-yosemites-mariposa-grove-now-nearly-1600-acres/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWashburn Fire near Yosemite\u2019s Mariposa Grove now nearly 1,600 acres, smoke will drift west\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/washburn-fire-near-yosemites-mariposa-grove-now-nearly-1600-acres/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/man-fatally-shot-in-east-oakland-51/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMan fatally shot in East Oakland\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/man-fatally-shot-in-east-oakland-51/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/two-injured-in-boat-accident-near-a-san-jose-marina/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tTwo injured in boat accident near a San Jose marina\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/two-injured-in-boat-accident-near-a-san-jose-marina/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/long-smoldering-fire-sends-smoke-over-east-contra-costa/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLong-smoldering fire sends smoke over East Contra Costa\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/long-smoldering-fire-sends-smoke-over-east-contra-costa/"
+    },
+    {
+      "text": "\n\t\t\t\tSports\n\t\t\t",
+      "url": "https://www.mercurynews.com/sports/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/carlos-rodon-cements-all-star-case-with-complete-game-vs-padres/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/carlos-rodon-cements-all-star-case-with-complete-game-vs-padres/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCarlos Rod\u00f3n cements All-Star case with complete game vs. Padres\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/carlos-rodon-cements-all-star-case-with-complete-game-vs-padres/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/sf-giants-shakeup-jake-mcgee-dfad-to-activate-of-luis-gonzalez/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSF Giants shakeup: Jake McGee DFA\u2019d to activate OF Luis Gonz\u00e1lez\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/sf-giants-shakeup-jake-mcgee-dfad-to-activate-of-luis-gonzalez/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/whats-best-for-donte-divincenzo-details-why-he-signed-with-warriors/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018What\u2019s best for Donte\u2019: DiVincenzo details why he signed with Warriors\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/whats-best-for-donte-divincenzo-details-why-he-signed-with-warriors/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/athletics-beat-astros-for-first-time-this-season/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAthletics beat Astros for first time on bizarre fourth-inning rally and quality pitching\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/athletics-beat-astros-for-first-time-this-season/"
+    },
+    {
+      "text": "\n\t\t\t\tReal Estate\n\t\t\t",
+      "url": "https://www.mercurynews.com/business/real-estate/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/marin-reckons-with-state-law-removing-racial-covenants/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/marin-reckons-with-state-law-removing-racial-covenants/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMarin reckons with state law removing racial covenants\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/marin-reckons-with-state-law-removing-racial-covenants/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/08/richmond-tenants-are-pushing-back-against-rent-hikes-alleging-poor-living-conditions/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tRichmond tenants are pushing back against rent hikes, alleging poor living conditions\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/08/richmond-tenants-are-pushing-back-against-rent-hikes-alleging-poor-living-conditions/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/08/motel-6-real-estate-bay-area-hotel-buy-sell-covid-economy-tech-google/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMotel 6 hotels in South Bay find buyer amid COVID economic woes\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/08/motel-6-real-estate-bay-area-hotel-buy-sell-covid-economy-tech-google/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/08/affordable-home-downtown-san-jose-construct-develop-real-estate/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAffordable homes near downtown San Jose approach construction launch\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/08/affordable-home-downtown-san-jose-construct-develop-real-estate/"
+    },
+    {
+      "text": "Photos",
+      "url": "/tag/photo-galleries-videos/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/07/griner-arrives-at-russian-court-for-trial-on-drug-charges/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/griner-arrives-at-russian-court-for-trial-on-drug-charges/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWNBA\u2019s Brittany Griner pleads guilty in Russia drugs trial\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/griner-arrives-at-russian-court-for-trial-on-drug-charges/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/07/nancy-reagan-forever-stamp-dedicated-at-ronald-reagan-presidential-library/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/nancy-reagan-forever-stamp-dedicated-at-ronald-reagan-presidential-library/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tNancy Reagan Forever stamp dedicated at Ronald Reagan Presidential Library\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/nancy-reagan-forever-stamp-dedicated-at-ronald-reagan-presidential-library/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/07/wild-burros-falling-sick-dying-of-flu-in-reche-canyon-area/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/wild-burros-falling-sick-dying-of-flu-in-reche-canyon-area/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWhy are wild burros falling sick, dying of flu in Southern California\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/wild-burros-falling-sick-dying-of-flu-in-reche-canyon-area/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/06/for-bay-area-police-fighting-epidemic-a-fentanyl-mixing-and-testing-workshop/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/06/for-bay-area-police-fighting-epidemic-a-fentanyl-mixing-and-testing-workshop/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFor Bay Area police fighting epidemic, a fentanyl mixing and testing workshop\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/06/for-bay-area-police-fighting-epidemic-a-fentanyl-mixing-and-testing-workshop/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/06/airport-therapy-animals-help-ease-tension-panic-frustration/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/06/airport-therapy-animals-help-ease-tension-panic-frustration/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAirport therapy animals help ease tension, panic, frustration\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/06/airport-therapy-animals-help-ease-tension-panic-frustration/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/06/fresh-off-the-boat-author-eddie-huang-pays-2-million-for-orange-eichler/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/06/fresh-off-the-boat-author-eddie-huang-pays-2-million-for-orange-eichler/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: \u2018Fresh Off the Boat\u2019 author Eddie Huang pays $2 million for California Eichler\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/06/fresh-off-the-boat-author-eddie-huang-pays-2-million-for-orange-eichler/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/05/athletics-beat-blue-jays-to-clinch-first-home-series-since-april/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/05/athletics-beat-blue-jays-to-clinch-first-home-series-since-april/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAthletics beat Blue Jays to clinch first home series win since April\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/05/athletics-beat-blue-jays-to-clinch-first-home-series-since-april/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/05/photos-tour-de-france-riders-complete-four-stages-over-first-weekend/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/05/photos-tour-de-france-riders-complete-four-stages-over-first-weekend/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Tour De France riders complete four stages over first weekend\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/05/photos-tour-de-france-riders-complete-four-stages-over-first-weekend/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/05/photos-east-bay-firefighters-saw-fewer-july-4th-blazes-this-year/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/05/photos-east-bay-firefighters-saw-fewer-july-4th-blazes-this-year/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: East Bay firefighters saw fewer July 4th blazes this year\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/05/photos-east-bay-firefighters-saw-fewer-july-4th-blazes-this-year/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/05/song-of-summer-8-tunes-competing-for-the-top-spot-in-2022/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/05/song-of-summer-8-tunes-competing-for-the-top-spot-in-2022/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSong of Summer: 8 tunes competing for the top spot in 2022\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/05/song-of-summer-8-tunes-competing-for-the-top-spot-in-2022/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/05/join-us-in-california-newsom-targets-gop-in-florida-ad/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/05/join-us-in-california-newsom-targets-gop-in-florida-ad/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\t\u2018Join us in California\u2019: Gov. Newsom targets GOP in Florida ad\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/05/join-us-in-california-newsom-targets-gop-in-florida-ad/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/04/photos-fourth-of-july-fireworks-light-up-the-skies-in-the-bay-area-and-beyond/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/04/photos-fourth-of-july-fireworks-light-up-the-skies-in-the-bay-area-and-beyond/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Fourth of July fireworks light up the skies in the Bay Area and beyond\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/04/photos-fourth-of-july-fireworks-light-up-the-skies-in-the-bay-area-and-beyond/"
+    },
+    {
+      "text": "\n\t\t\t\tCoronavirus\n\t\t\t",
+      "url": "https://www.mercurynews.com/tag/coronavirus/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/07/california-exodus-accelerated-during-pandemic-study-shows/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/california-exodus-accelerated-during-pandemic-study-shows/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia exodus accelerated during Covid-19 pandemic, study shows\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/california-exodus-accelerated-during-pandemic-study-shows/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/07/the-balance-of-power-is-shifting-in-the-tech-industry/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tThe balance of power is shifting in the tech industry\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/the-balance-of-power-is-shifting-in-the-tech-industry/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/07/second-probable-monkeypox-case-found-in-santa-cruz-county/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSecond probable monkeypox case found in Santa Cruz County\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/second-probable-monkeypox-case-found-in-santa-cruz-county/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/07/san-jose-man-reaches-plea-deal-avoids-trial/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSan Jose man reaches plea deal, avoids trial over Covid protests\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/07/san-jose-man-reaches-plea-deal-avoids-trial/"
+    },
+    {
+      "text": "\n\t\t\t\tOpinion\n\t\t\t",
+      "url": "https://www.mercurynews.com/opinion/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/editorial-barts-deceitful-resistance-to-oversight-knows-no-bounds/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/editorial-barts-deceitful-resistance-to-oversight-knows-no-bounds/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tEditorial: BART\u2019s deceitful, Trumpian obstruction of oversight knows no bounds\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/editorial-barts-deceitful-resistance-to-oversight-knows-no-bounds/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/opinion-police-shooting-shows-need-for-988-mental-health-hotline/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: Police shooting shows need for 988 mental health hotline\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/opinion-police-shooting-shows-need-for-988-mental-health-hotline/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/08/letters-897/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLetters: No secession | Column\u2019s \u2018Big Lie\u2019 | Back to antebellum | Church-state reparation | Carrying water | Come together\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/08/letters-897/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/pitts-what-is-wrong-with-american-men/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPitts: What is wrong with American men?\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/pitts-what-is-wrong-with-american-men/"
+    },
+    {
+      "text": "\n\t\t\t\tThings To Do\n\t\t\t",
+      "url": "https://www.mercurynews.com/things-to-do/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/playwright-pays-homage-to-grandmother-in-nan-and-the-lower-body/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/playwright-pays-homage-to-grandmother-in-nan-and-the-lower-body/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPlaywright pays homage to grandmother in \u2018Nan and the Lower Body\u2019\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/playwright-pays-homage-to-grandmother-in-nan-and-the-lower-body/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/bridge-july-10-2022/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBridge: July 10, 2022\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/bridge-july-10-2022/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/word-game-july-10-2022/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWord Game: July 10, 2022\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/word-game-july-10-2022/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/10/horoscopes-july-10-2022-sofia-vergara-make-your-move/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tHoroscopes July 10, 2022: Sofia Vergara, make your move\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/10/horoscopes-july-10-2022-sofia-vergara-make-your-move/"
+    },
+    {
+      "text": "\n\t\t\t\tBusiness\n\t\t\t",
+      "url": "https://www.mercurynews.com/business/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/fears-of-another-gas-shock-drive-biden-to-seek-price-cap-on-russian-oil-2/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/fears-of-another-gas-shock-drive-biden-to-seek-price-cap-on-russian-oil-2/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFears of another gas shock drive Biden to seek price cap on Russian oil\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/fears-of-another-gas-shock-drive-biden-to-seek-price-cap-on-russian-oil-2/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/09/la-enacts-25-minimum-wage-for-healthcare-workers/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLos Angeles enacts $25 minimum wage for healthcare workers\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/la-enacts-25-minimum-wage-for-healthcare-workers/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/08/elon-musk-terminates-44-billion-twitter-purchase-deal-claims-firm-failed-to-give-fake-account-numbers/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tElon Musk \u2018terminates\u2019 $44 billion Twitter-purchase deal, Twitter promises court fight\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/08/elon-musk-terminates-44-billion-twitter-purchase-deal-claims-firm-failed-to-give-fake-account-numbers/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/08/fuel-prices-are-plummeting-but-will-bay-area-drivers-ever-see-5-gas-again/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFuel prices are plummeting, but will Bay Area drivers ever see $5 gas again?\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/08/fuel-prices-are-plummeting-but-will-bay-area-drivers-ever-see-5-gas-again/"
+    },
+    {
+      "text": "Family in shock after man shot to death while confronting squeegee workers with bat: \u2018He should have just kept driving\u2019",
+      "url": "https://www.baltimoresun.com/news/crime/bs-md-ci-cr-timothy-reynolds-family-20220708-7ryajcfhpzgczdwgr3jtc4oh2y-story.html?itm_source=parsely-api"
+    },
+    {
+      "text": "Middle school teacher accused of dragging student",
+      "url": "https://www.courant.com/breaking-news/hc-br-norwalk-teacher-arrested-20220708-si6zdpwwzvgo7ojc5bsrt2fbjy-story.html?itm_source=parsely-api"
+    },
+    {
+      "text": "Mortgage rates tumble, largest decline since 2008",
+      "url": "https://www.ocregister.com/2022/07/07/mortgage-rates-tumble-largest-decline-since-2008/?itm_source=parsely-api"
+    },
+    {
+      "text": "Police officer suspended for arresting wrong person in DUI stop, then fired for lying about off-duty work",
+      "url": "https://www.denverpost.com/2022/07/06/denver-police-officer-fired-wrongful-arrest-dui/?itm_source=parsely-api"
+    },
+    {
+      "text": "Police records paint picture of turbulent home life for alleged sniper in Highland Park mass shooting",
+      "url": "https://www.chicagotribune.com/news/breaking/ct-highland-park-crimo-family-20220708-n34hdnbcyrhxte6lg7rkfwpskm-story.html?itm_source=parsely-api"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com"
+    },
+    {
+      "text": "News Alerts",
+      "url": "http://www.mercurynews.com/newsletters"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Email Newsletters",
+      "url": "http://www.mercurynews.com/newsletters"
+    },
+    {
+      "text": "Today\u2019s e-Edition",
+      "url": "http://enewspaper.mercurynews.com"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.mercurynews.com/mobile/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://checkout.mercurynews.com/subscriptionmultiproduct?g2i_source=Event&g2i_medium=link&g2i_campaign=footer&g2i_or_o=event&g2i_or_p=footer"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Member Services",
+      "url": "https://myaccount.mercurynews.com/"
+    },
+    {
+      "text": "Manage Subscriptions",
+      "url": "https://myaccount.mercurynews.com/"
+    },
+    {
+      "text": "Store",
+      "url": "https://store.mercurynews.com/?utm_campaign=evergreen&utm_medium=referral&utm_source=navigation-footer&utm_content=&utm_term="
+    },
+    {
+      "text": "Archive Search",
+      "url": "https://mercurynews.newsbank.com/"
+    },
+    {
+      "text": "Reprints",
+      "url": "https://www.mercurynews.com/reprints/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.mercurynews.com/contact-us/"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Digital Access FAQ",
+      "url": "https://www.mercurynews.com/digital-access/"
+    },
+    {
+      "text": "Join our Team",
+      "url": "https://www.bayareanewsgroup.com/join-our-team"
+    },
+    {
+      "text": "Special Sections",
+      "url": "https://www.mercurynews.com/special-sections/"
+    },
+    {
+      "text": "Sponsor a Group",
+      "url": "https://sponsor.medianewsgroup.com/a/?tag=bayarea"
+    },
+    {
+      "text": "Get Sponsored Access",
+      "url": "https://access.medianewsgroup.com/d/bayarea"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.medianewsgroup.com/privacy-policy/"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.medianewsgroup.com/accessibility-statement/"
+    },
+    {
+      "text": "Marketplace",
+      "url": "https://www.mercurynews.com/sponsored-content/"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://marketplace.bayareanewsgroup.com/marketplace/"
+    },
+    {
+      "text": "Place Obituary",
+      "url": "http://bang.theadhawk.com/bang-adportal/obits/index.html"
+    },
+    {
+      "text": "Place Legal Notice",
+      "url": "http://bang.theadhawk.com/bang-adportal/legals/index.html"
+    },
+    {
+      "text": "Real Estate",
+      "url": "http://homes.mercurynews.com/"
+    },
+    {
+      "text": "Lottery",
+      "url": "https://www.mercurynews.com/lottery/"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "https://www.mercurynews.com/advertise/"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Network Advertising",
+      "url": "https://www.digitalfirstmedia.com/advertise-with-us/"
+    },
+    {
+      "text": "Daily Ads",
+      "url": "https://mercurynews-ca.newsmemory.com/?marketplace"
+    },
+    {
+      "text": "Public Notices",
+      "url": "http://capublicnotice.com/"
+    },
+    {
+      "text": "Top Workplaces",
+      "url": "https://topworkplaces.bayareanewsgroup.com/"
+    },
+    {
+      "text": "Monster.com",
+      "url": "https://www.mercurynews.com/jobs/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t",
+      "url": "https://facebook.com/mercurynews"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t",
+      "url": "https://twitter.com/mercnews"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t",
+      "url": "https://instagram.com/mercnews"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tRSS\n\t\t\t\t\t",
+      "url": "https://www.mercurynews.com/feed/"
+    },
+    {
+      "text": "\n\t\t\t\t\tSubscribe Now\t\t\t\t",
+      "url": "https://checkout.mercurynews.com/?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.medianewsgroup.com/terms-of-use/"
+    },
+    {
+      "text": "Cookie Policy",
+      "url": "https://www.medianewsgroup.com/cookie-policy/"
+    },
+    {
+      "text": "Arbitration",
+      "url": "https://www.medianewsgroup.com/arbitration/"
+    },
+    {
+      "text": "Powered by WordPress.com VIP",
+      "url": "https://vip.wordpress.com/"
+    },
+    {
+      "text": "Do Not Sell My Info",
+      "url": "https://www.medianewsgroup.com/california-consumer-privacy-act/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tBAY AREA'S HOME PAGE\t\t\t\t\t",
+      "url": "http://www.bayareanewsgroup.com"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Log in",
+      "url": "#"
+    },
+    {
+      "text": "Login help\ufeff",
+      "url": "https://www.mercurynews.com/faqlogin/?returnUrl=https%3A%2F%2Fwww.mercurynews.com%2F%3FclearUserState%3Dtrue"
+    }
+  ],
   "metadata": {
     "identifier": "mercnews-2022",
     "collection": [
@@ -8672,7 +8878,7 @@
     "addeddate": "2022-03-23 02:09:12"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 799953818,
+  "uniq": 675039225,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1657464581,
+  "created": 1657477321,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/33/items/wired-2022",
@@ -814,31 +814,73 @@
       "sha1": "4df5a720f9eee8001ca43fcdf4589d41b68f5641"
     },
     {
+      "name": "wired-2022-07-10T11:20:44.825025-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657477248",
+      "size": "37219",
+      "md5": "bfe15c2d76443668a760f0795f8ce071",
+      "crc32": "6710249e",
+      "sha1": "9a9d24b1c1b5d2dc72dd7830a8706aa0c12ca07a",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-07-10T11:20:44.825025-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657477251",
+      "size": "23388",
+      "md5": "bdd3978409bf9d626d4fd4c4425d7a9c",
+      "crc32": "c66597bb",
+      "sha1": "18891df3717b5af961376520c2beefeb404333e0",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-07-10T11:20:44.825025-07:00.jpg",
+      "source": "original",
+      "mtime": "1657477247",
+      "size": "273517",
+      "md5": "936b2a2271ce5acd8c737fd63991906a",
+      "crc32": "153cf956",
+      "sha1": "6746ac139e3b1a4a4f20e9b9d58a97fd1075c7e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-07-10T11:20:44.825025-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-07-10T11:20:44.825025-07:00.jpg",
+      "mtime": "1657477302",
+      "size": "10404",
+      "md5": "68f3a997be4aa15433d18d9632abc2c2",
+      "crc32": "6e4901bf",
+      "sha1": "4df5a720f9eee8001ca43fcdf4589d41b68f5641"
+    },
+    {
       "name": "wired-2022_archive.torrent",
       "source": "metadata",
-      "btih": "87970485c2549ce14569fb5b1cce7b1831e87d19",
-      "mtime": "1657464571",
-      "size": "17403",
-      "md5": "9d3897f227c1ae4e3cdbf85d0f17f0ab",
-      "crc32": "8af171f8",
-      "sha1": "dd4a46c15632cc7edf3c345e88eb28822676977d",
+      "btih": "744918e2bb9d0ba3f403db7d75563431e30f8e27",
+      "mtime": "1657477307",
+      "size": "18221",
+      "md5": "ba681870b8c1744d486ee400d2f9f9c3",
+      "crc32": "bd41ac12",
+      "sha1": "8c0f03d3e6682e8faeab7f8a75ae8098ebbb8578",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wired-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a2683ad28846aaa9029e9a5afe0380c5",
+      "md5": "59e7ca416912124e5ef1f7eae2457322",
       "summation": "md5"
     },
     {
       "name": "wired-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657464521",
-      "size": "106496",
-      "md5": "9056a62d098ea7fc1edf6464d3ff835a",
-      "crc32": "6bb68b19",
-      "sha1": "90aa3188996b83585b62f95a14b260c69f3b7228",
+      "mtime": "1657477254",
+      "size": "110592",
+      "md5": "91454688bf5bdec9a6427020c1c03003",
+      "crc32": "93ccfb5a",
+      "sha1": "1b2c10a805dace0fd0d144be8b3c2790608c0550",
       "format": "Metadata"
     },
     {
@@ -852,9 +894,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 81,
-  "item_last_updated": 1657464571,
-  "item_size": 7002104,
+  "files_count": 85,
+  "item_last_updated": 1657477307,
+  "item_size": 7351546,
   "metadata": {
     "identifier": "wired-2022",
     "collection": [
@@ -871,10 +913,10 @@
     "publicdate": "2022-07-04 20:17:35",
     "addeddate": "2022-07-04 20:17:35"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1021084429,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1773013736,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }
