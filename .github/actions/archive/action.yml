@@ -36,7 +36,7 @@ runs:
 
     - id: archive
       name: Archive
-      run: pipenv run python -m newshomepages.archive single ${{ inputs.source }}
+      run: pipenv run python -m newshomepages.archive ${{ inputs.source }}
       shell: bash
       env:
         IA_ACCESS_KEY: ${{ inputs.access-key }}

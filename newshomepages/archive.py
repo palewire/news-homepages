@@ -1,5 +1,4 @@
 import os
-import time
 from datetime import datetime
 from pathlib import Path
 
@@ -9,38 +8,17 @@ import pytz
 
 from . import utils
 
-IA_ACCESS_KEY = os.getenv("IA_ACCESS_KEY")
-IA_SECRET_KEY = os.getenv("IA_SECRET_KEY")
-IA_COLLECTION = os.getenv("IA_COLLECTION")
 
-
-@click.group()
-def cli():
-    """Shoot a screenshot."""
-    pass
-
-
-@cli.command()
+@click.command()
 @click.argument("handle")
 @click.option("-i", "--input-dir", "input_dir", default="./")
-def single(handle: str, input_dir: str):
-    """Archive a screenshot."""
+def cli(handle: str, input_dir: str):
+    """Save a webpage screenshot to an archive.org collection."""
     # Pull the source’s metadata
     site = utils.get_site(handle)
+
     # Upload it
     _upload(site, input_dir)
-
-
-@cli.command()
-@click.argument("slug")
-@click.option("-i", "--input-dir", "input_dir", default="./")
-def bundle(slug: str, input_dir: str):
-    """Send a bundle of sources."""
-    site_list = utils.get_sites_in_bundle(slug)
-    for site in site_list:
-        # Upload
-        _upload(site, input_dir)
-        time.sleep(2.5)
 
 
 def _upload(data: dict, input_dir: str):
@@ -76,15 +54,25 @@ def _upload(data: dict, input_dir: str):
         click.echo(f"No files found for {handle}")
         return
 
+    # Get secrets
+    access_key = os.getenv("IA_ACCESS_KEY")
+    secret_key = os.getenv("IA_SECRET_KEY")
+    collection = os.getenv("IA_COLLECTION")
+
+    # Make sure secrets are there
+    assert access_key
+    assert secret_key
+    assert collection
+
     # Set all the arguments
     kwargs = dict(
         # Authentication
-        access_key=IA_ACCESS_KEY,
-        secret_key=IA_SECRET_KEY,
+        access_key=access_key,
+        secret_key=secret_key,
         # Metadata about the item
         metadata=dict(
             title=f"{data['name']} homepages in {now_local.strftime('%Y')}",
-            collection=IA_COLLECTION,
+            collection=collection,
             mediatype="image",
             publisher=data["url"],
             date=now_local.strftime("%Y"),

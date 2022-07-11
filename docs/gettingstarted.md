@@ -98,5 +98,5 @@ IA_COLLECTION=
 Then you can upload a file by running the following:
 
 ```bash
-pipenv run python -m newshomepages.archive single latimes
+pipenv run python -m newshomepages.archive latimes
 ```
