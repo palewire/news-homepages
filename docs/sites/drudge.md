@@ -17,7 +17,7 @@ orphan: true
 | Location       | Miami                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 168 screenshots stored at the Internet Archive.
+The archiving routine has captured 169 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
