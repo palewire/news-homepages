@@ -13,6 +13,11 @@ runs:
       run: pipenv run python -m newshomepages.rss sites
       shell: bash
 
+    - id: site-opml
+      name: Update site OPML
+      run: pipenv run python -m newshomepages.rss opml
+      shell: bash
+
     - id: bundle-rss
       name: Update bundle RSS
       run: pipenv run python -m newshomepages.rss bundles

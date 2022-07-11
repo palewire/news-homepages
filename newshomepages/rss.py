@@ -1,5 +1,4 @@
 from datetime import datetime
-from pathlib import Path
 
 import click
 import jinja2
@@ -7,8 +6,8 @@ import pytz
 
 from . import utils
 
-PARENT_DIR = Path(__file__).parent.parent
-TEMPLATE_DIR = PARENT_DIR / "docs" / "_templates/"
+RSS_DIR = utils.DOCS_DIR / "_extra" / "rss"
+TEMPLATE_DIR = utils.DOCS_DIR / "_templates/"
 TEMPLATE_LOADER = jinja2.FileSystemLoader(searchpath=TEMPLATE_DIR)
 TEMPLATE_ENV = jinja2.Environment(loader=TEMPLATE_LOADER)
 
@@ -38,65 +37,71 @@ def bundles():
                 s for s in site_list if s["handle"].lower() == file["handle"].lower()
             )["name"]
         sorted_list = sorted(file_list, key=lambda x: x["mtime"], reverse=True)
-        context = dict(
+
+        # Render the template
+        rss = template.render(
             now=now,
             obj=bundle,
             file_list=sorted_list[:50],
         )
-        rss = template.render(**context)
-        rss_path = (
-            PARENT_DIR / "docs" / "_extra" / "rss" / "bundles" / f"{bundle['slug']}.xml"
-        )
+
+        # Write it out
+        rss_path = RSS_DIR / "bundles" / f"{bundle['slug']}.xml"
         with open(rss_path, "w") as fh:
             fh.write(rss)
 
 
 @cli.command()
-def sites():
-    """Create site feeds."""
+def opml():
+    """Create an OPML file with all site feeds."""
+    # Get a list of all sites
     site_list = utils.get_site_list()
-    screenshot_list = utils.get_screenshot_list()
-    now = datetime.now(pytz.utc)
-    for site in site_list:
-        click.echo(f"Building RSS for {site['name']}")
-        template = TEMPLATE_ENV.get_template("site.rss.tmpl")
-        file_list = [
-            s for s in screenshot_list if s["handle"].lower() == site["handle"].lower()
-        ]
-        site_tz = pytz.timezone(site["timezone"])
-        for file in file_list:
-            file["local_time"] = file["mtime"].astimezone(site_tz)
-        sorted_list = sorted(file_list, key=lambda x: x["mtime"], reverse=True)
-        context = dict(
-            now=now,
-            obj=site,
-            file_list=sorted_list[:25],
-        )
-        rss = template.render(**context)
-        rss_path = (
-            PARENT_DIR
-            / "docs"
-            / "_extra"
-            / "rss"
-            / "sites"
-            / f"{site['handle'].lower()}.xml"
-        )
-        with open(rss_path, "w") as fh:
-            fh.write(rss)
 
     # Create an OPML that collects them all
     template = TEMPLATE_ENV.get_template("sites.opml.tmpl")
-    context = {"site_list": sorted(site_list, key=lambda x: x["name"])}
-    opml = template.render(**context)
-    opml_path = PARENT_DIR / "docs" / "_extra" / "rss" / "sites" / "opml.xml"
-    with open(opml_path, "w") as fh:
+    opml = template.render(site_list=site_list)
+
+    # Write it out
+    click.echo("Writing OPML file for sites")
+    with open(RSS_DIR / "sites" / "opml.xml", "w") as fh:
         fh.write(opml)
 
+
+@cli.command()
+def sites():
+    """Create site feeds."""
+    # Get the current time
+    now = datetime.now(pytz.utc)
+
+    # Get a list of all sites
+    site_list = utils.get_site_list()
+
+    # Set our output directory
+    SITE_DIR = RSS_DIR / "sites"
+
+    # Get the template for the site feed
+    template = TEMPLATE_ENV.get_template("site.rss.tmpl")
+
+    # Loop through all sites
+    for site in site_list:
+        handle = site["handle"].lower()
+        click.echo(f"Building RSS for {handle}")
+
+        # Render the page
+        rss = template.render(
+            now=now,
+            obj=site,
+            file_list=utils.get_screenshots_by_site(site)[:25],
+        )
+
+        # Write it out
+        rss_path = SITE_DIR / f"{handle}.xml"
+        with open(rss_path, "w") as fh:
+            fh.write(rss)
+
     # Create full feed
-    sorted_list = sorted(screenshot_list, key=lambda x: x["mtime"], reverse=True)
-    trimmed_list = sorted_list[:100]
     final_list = []
-    for file_ in trimmed_list:
+    for file_ in utils.get_screenshot_list()[:100]:
         try:
             site = next(
                 s for s in site_list if s["handle"].lower() == file_["handle"].lower()
@@ -108,14 +113,12 @@ def sites():
         site_tz = pytz.timezone(site["timezone"])
         file_["local_time"] = file_["mtime"].astimezone(site_tz)
         final_list.append(file_)
+
+    # Write it out
     template = TEMPLATE_ENV.get_template("all.rss.tmpl")
-    context = dict(
-        file_list=final_list,
-        now=now,
-    )
-    all_ = template.render(**context)
-    all_path = PARENT_DIR / "docs" / "_extra" / "rss" / "sites" / "all.xml"
-    with open(all_path, "w") as fh:
+    all_ = template.render(file_list=final_list, now=now)
+    click.echo("Writing out RSS feed of latest screenshots across all sites")
+    with open(SITE_DIR / "all.xml", "w") as fh:
         fh.write(all_)
 
 

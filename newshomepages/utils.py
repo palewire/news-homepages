@@ -13,6 +13,7 @@ BUNDLES_PATH = SOURCES_PATH / "bundles.csv"
 EXTENSIONS_PATH = THIS_DIR / "extensions"
 EXTRACT_DIR = THIS_DIR.parent / "extracts"
 NOTEBOOKS_DIR = THIS_DIR.parent / "notebooks"
+DOCS_DIR = THIS_DIR.parent / "docs"
 
 
 def get_user_agent() -> str:
@@ -25,10 +26,16 @@ def get_site_list() -> typing.List[typing.Dict]:
 
     Returns a list of dictionaries.
     """
+    # Open the site list
     with open(SITES_PATH) as fh:
         site_reader = csv.DictReader(fh)
         site_list = list(site_reader)
-    return site_list
+
+    # Sort it alphabetically
+    sorted_list = sorted(site_list, key=lambda x: x["handle"].lower())
+
+    # Return it
+    return sorted_list
 
 
 def get_bundle_list() -> typing.List[typing.Dict]:
@@ -79,18 +86,50 @@ def get_sites_in_bundle(slug: str) -> typing.List[typing.Dict]:
     return [s for s in site_list if s["bundle"] == bundle["slug"]]
 
 
-def get_screenshot_list():
+def get_screenshot_list() -> typing.List:
     """Get the full list of screenshots from our extracts.
 
     Returns a list of dictionaries.
     """
+    # Open the screenshot list
     with open(EXTRACT_DIR / "csv" / "screenshot-files.csv") as fh:
-        site_reader = csv.DictReader(fh)
-        obj_list = list(site_reader)
+        obj_list: typing.List[typing.Dict[str, typing.Any]] = list(csv.DictReader(fh))
+
+    # Convert the timestamps to Python datetime objects
     for obj in obj_list:
         dt = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
         obj["mtime"] = dt.astimezone(pytz.utc)
-    return obj_list
+
+    # Sort it reverse chron
+    sorted_list = sorted(obj_list, key=lambda x: x["mtime"], reverse=True)
+
+    # Return it
+    return sorted_list
+
+
+def get_screenshots_by_site(site: typing.Dict) -> typing.List[typing.Dict]:
+    """Get the list of screenshots for the provided site.
+
+    Returns a list of dictionaries.
+    """
+    # Get all screenshots
+    screenshot_list = get_screenshot_list()
+
+    # Filter it down to the provided site
+    file_list = [
+        s for s in screenshot_list if s["handle"].lower() == site["handle"].lower()
+    ]
+
+    # Add the local time
+    site_tz = pytz.timezone(site["timezone"])
+    for file_ in file_list:
+        file_["local_time"] = file_["mtime"].astimezone(site_tz)
+
+    # Sort it reverse chron
+    sorted_list = sorted(file_list, key=lambda x: x["mtime"], reverse=True)
+
+    # Return the list
+    return sorted_list
 
 
 def get_javascript(handle: str) -> typing.Optional[str]:
