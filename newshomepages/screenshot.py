@@ -32,14 +32,18 @@ def _screenshot(site: typing.Dict, output_path: Path, wait: int = 5000):
 
     with sync_playwright() as playwright:
         # Boot up the browser with the ad blocker plugin installed
-        click.echo("Launching Chromium browser")
         data_dir = tempfile.mkdtemp()
-        click.echo(f"Data directory created at {data_dir}")
+        click.echo(f"Temporary data directory created at {data_dir}")
+
+        # Set the extensions path
         extensions_list = [
             utils.EXTENSIONS_PATH / "adguard",
             utils.EXTENSIONS_PATH / "adguardextra",
         ]
         extensions_str = ",".join(map(str, extensions_list))
+
+        # Set the browser context
+        click.echo("Launching Chromium browser")
         context = playwright.chromium.launch_persistent_context(
             data_dir,
             channel="chrome",
