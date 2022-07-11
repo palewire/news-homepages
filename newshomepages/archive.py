@@ -1,4 +1,5 @@
 import os
+import typing
 from datetime import datetime
 from pathlib import Path
 
@@ -55,9 +56,9 @@ def _upload(data: dict, input_dir: str):
         return
 
     # Get secrets
-    access_key = os.getenv("IA_ACCESS_KEY")
-    secret_key = os.getenv("IA_SECRET_KEY")
-    collection = os.getenv("IA_COLLECTION")
+    access_key: typing.Optional[str] = os.getenv("IA_ACCESS_KEY")
+    secret_key: typing.Optional[str] = os.getenv("IA_SECRET_KEY")
+    collection: typing.Optional[str] = os.getenv("IA_COLLECTION")
 
     # Make sure secrets are there
     assert access_key
