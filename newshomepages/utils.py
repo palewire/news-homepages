@@ -86,7 +86,7 @@ def get_sites_in_bundle(slug: str) -> typing.List[typing.Dict]:
     return [s for s in site_list if s["bundle"] == bundle["slug"]]
 
 
-def get_screenshot_list() -> typing.List:
+def get_screenshot_list() -> typing.List[typing.Dict[str, typing.Any]]:
     """Get the full list of screenshots from our extracts.
 
     Returns a list of dictionaries.
