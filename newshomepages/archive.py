@@ -24,10 +24,11 @@ def cli(handle: str, input_dir: str):
 
 def _upload(data: dict, input_dir: str):
     # Set the input path
+    handle = data["handle"].lower()
     input_path = Path(input_dir).absolute()
-    image_path = input_path / f"{data['handle'].lower()}.jpg"
-    a11y_path = input_path / f"{data['handle'].lower()}.accessibility.json"
-    hyperlinks_path = input_path / f"{data['handle'].lower()}.hyperlinks.json"
+    image_path = input_path / f"{handle}.jpg"
+    a11y_path = input_path / f"{handle}.accessibility.json"
+    hyperlinks_path = input_path / f"{handle}.hyperlinks.json"
 
     # Get the timestamp
     now = datetime.now()
@@ -38,7 +39,6 @@ def _upload(data: dict, input_dir: str):
     now_iso = now_local.isoformat()
 
     # We will post into an "item" keyed to the site's handle and year
-    handle = data["handle"].lower()
     identifier = f"{handle}-{now_local.strftime('%Y')}"
 
     # Grab the files that exist
