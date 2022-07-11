@@ -19,15 +19,15 @@ DEFAULT_HEIGHT = "1600"
 def cli(handle: str, output_dir: str, wait: str):
     """Screenshot the provided homepage."""
     site = utils.get_site(handle)
-    _screenshot(site, output_dir, wait=int(wait))
+    output_path = Path(output_dir)
+    _screenshot(site, output_path, wait=int(wait))
 
 
-def _screenshot(site: typing.Dict, output_dir: str, wait: int = 5000):
+def _screenshot(site: typing.Dict, output_path: Path, wait: int = 5000):
     """Shoot the provided site."""
     click.echo(f"Screenshotting {site['name']}")
 
     # Set the output path
-    output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
     with sync_playwright() as playwright:
