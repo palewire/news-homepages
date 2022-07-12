@@ -17,7 +17,7 @@ orphan: true
 | Location       | Ames                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 72 screenshots stored at the Internet Archive.
+The archiving routine has captured 74 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
