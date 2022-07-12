@@ -129,6 +129,15 @@ The most recent homepages from 16 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/washingtonpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg"
+     alt="Washington Post"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/washingtonpost.html">Washington Post</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/wsj.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wsj.jpg"
      alt="Wall Street Journal"
@@ -144,15 +153,6 @@ The most recent homepages from 16 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/yahoonews.html">Yahoo! News</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/washingtonpost.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg"
-     alt="Washington Post"
-     loading="lazy">
- </a>
- <p><a href="../sites/washingtonpost.html">Washington Post</a></p>
 </div>
 
 </div>
@@ -183,6 +183,6 @@ The most recent homepages from 16 news sites in this bundle.
 |[NPR](https://palewi.re/docs/news-homepages/sites/npr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/npr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/npr.xml)|
 |[New York Times](https://palewi.re/docs/news-homepages/sites/nytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml)|
 |[USA Today](https://palewi.re/docs/news-homepages/sites/usatoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usatoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/usatoday.xml)|
+|[Washington Post](https://palewi.re/docs/news-homepages/sites/washingtonpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/washingtonpost.xml)|
 |[Wall Street Journal](https://palewi.re/docs/news-homepages/sites/wsj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wsj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wsj.xml)|
 |[Yahoo! News](https://palewi.re/docs/news-homepages/sites/yahoonews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yahoonews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yahoonews.xml)|
-|[Washington Post](https://palewi.re/docs/news-homepages/sites/washingtonpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/washingtonpost.xml)|

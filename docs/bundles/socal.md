@@ -30,6 +30,15 @@ The most recent homepages from 19 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/inewsource.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inewsource.jpg"
+     alt="inewsource"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/inewsource.html">inewsource</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/knockdotla.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knockdotla.jpg"
      alt="Knock.LA"
@@ -72,6 +81,15 @@ The most recent homepages from 19 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/laist.html">LAist</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lataco.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lataco.jpg"
+     alt="L.A. Taco"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/lataco.html">L.A. Taco</a></p>
 </div>
 
 <div class="latest-child">
@@ -147,24 +165,6 @@ The most recent homepages from 19 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/voiceofsandiego.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voiceofsandiego.jpg"
-     alt="Voice of San Diego"
-     loading="lazy">
- </a>
- <p><a href="../sites/voiceofsandiego.html">Voice of San Diego</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/inewsource.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inewsource.jpg"
-     alt="inewsource"
-     loading="lazy">
- </a>
- <p><a href="../sites/inewsource.html">inewsource</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/voiceofoc.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voiceofoc.jpg"
      alt="Voice of OC"
@@ -174,12 +174,12 @@ The most recent homepages from 19 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/lataco.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lataco.jpg"
-     alt="L.A. Taco"
+ <a href="https://palewi.re/docs/news-homepages/sites/voiceofsandiego.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voiceofsandiego.jpg"
+     alt="Voice of San Diego"
      loading="lazy">
  </a>
- <p><a href="../sites/lataco.html">L.A. Taco</a></p>
+ <p><a href="../sites/voiceofsandiego.html">Voice of San Diego</a></p>
 </div>
 
 </div>
@@ -199,11 +199,13 @@ The most recent homepages from 19 news sites in this bundle.
 | :---- | :---------------: | :-- |
 |[ABC7](https://palewi.re/docs/news-homepages/sites/abc7.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abc7.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abc7.xml)|
 |[FOX 11 Los Angeles](https://palewi.re/docs/news-homepages/sites/foxla.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxla.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foxla.xml)|
+|[inewsource](https://palewi.re/docs/news-homepages/sites/inewsource.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inewsource.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/inewsource.xml)|
 |[Knock.LA](https://palewi.re/docs/news-homepages/sites/knockdotla.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knockdotla.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/knockdotla.xml)|
 |[KPBS](https://palewi.re/docs/news-homepages/sites/kpbs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kpbs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kpbs.xml)|
 |[KPCC](https://palewi.re/docs/news-homepages/sites/kpcc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kpcc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kpcc.xml)|
 |[KTLA](https://palewi.re/docs/news-homepages/sites/ktla.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ktla.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ktla.xml)|
 |[LAist](https://palewi.re/docs/news-homepages/sites/laist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/laist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/laist.xml)|
+|[L.A. Taco](https://palewi.re/docs/news-homepages/sites/lataco.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lataco.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lataco.xml)|
 |[Los Angeles Times](https://palewi.re/docs/news-homepages/sites/latimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/latimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/latimes.xml)|
 |[The Desert Sun](https://palewi.re/docs/news-homepages/sites/mydesert.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydesert.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mydesert.xml)|
 |[Orange County Register](https://palewi.re/docs/news-homepages/sites/ocregister.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ocregister.xml)|
@@ -212,7 +214,5 @@ The most recent homepages from 19 news sites in this bundle.
 |[Los Angeles Sentinel](https://palewi.re/docs/news-homepages/sites/thelasentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thelasentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thelasentinel.xml)|
 |[Thousand Oaks Acorn](https://palewi.re/docs/news-homepages/sites/toacornnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/toacornnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/toacornnews.xml)|
 |[Ventura County Star](https://palewi.re/docs/news-homepages/sites/vcstar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vcstar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/vcstar.xml)|
-|[Voice of San Diego](https://palewi.re/docs/news-homepages/sites/voiceofsandiego.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voiceofsandiego.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/voiceofsandiego.xml)|
-|[inewsource](https://palewi.re/docs/news-homepages/sites/inewsource.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inewsource.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/inewsource.xml)|
 |[Voice of OC](https://palewi.re/docs/news-homepages/sites/voiceofoc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voiceofoc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/voiceofoc.xml)|
-|[L.A. Taco](https://palewi.re/docs/news-homepages/sites/lataco.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lataco.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lataco.xml)|
+|[Voice of San Diego](https://palewi.re/docs/news-homepages/sites/voiceofsandiego.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voiceofsandiego.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/voiceofsandiego.xml)|

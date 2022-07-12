@@ -12,6 +12,15 @@ The most recent homepages from 6 news sites in this bundle.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ashlandornews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ashlandornews.jpg"
+     alt="Ashland.news"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ashlandornews.html">Ashland.news</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/codaily.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/codaily.jpg"
      alt="Central Oregon Daily"
@@ -56,15 +65,6 @@ The most recent homepages from 6 news sites in this bundle.
  <p><a href="../sites/portlandmercury.html">Portland Mercury</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/ashlandornews.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ashlandornews.jpg"
-     alt="Ashland.news"
-     loading="lazy">
- </a>
- <p><a href="../sites/ashlandornews.html">Ashland.news</a></p>
-</div>
-
 </div>
 
 ## About this bundle
@@ -80,9 +80,9 @@ The most recent homepages from 6 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[Ashland.news](https://palewi.re/docs/news-homepages/sites/ashlandornews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ashlandornews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ashlandornews.xml)|
 |[Central Oregon Daily](https://palewi.re/docs/news-homepages/sites/codaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/codaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/codaily.xml)|
 |[Fox 12 Oregon](https://palewi.re/docs/news-homepages/sites/fox12oregon.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fox12oregon.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fox12oregon.xml)|
 |[Oregon Capital Chronicle](https://palewi.re/docs/news-homepages/sites/orcapchronicle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/orcapchronicle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/orcapchronicle.xml)|
 |[Oregonian](https://palewi.re/docs/news-homepages/sites/oregonian.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oregonian.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oregonian.xml)|
 |[Portland Mercury](https://palewi.re/docs/news-homepages/sites/portlandmercury.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/portlandmercury.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/portlandmercury.xml)|
-|[Ashland.news](https://palewi.re/docs/news-homepages/sites/ashlandornews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ashlandornews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ashlandornews.xml)|

@@ -21,6 +21,24 @@ The most recent homepages from 10 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailymirror.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailymirror.jpg"
+     alt="Daily Mirror"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dailymirror.html">Daily Mirror</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/eveningstandard.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eveningstandard.jpg"
+     alt="Evening Standard"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/eveningstandard.html">Evening Standard</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/ft.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ft.jpg"
      alt="Financial Times"
@@ -83,24 +101,6 @@ The most recent homepages from 10 news sites in this bundle.
  <p><a href="../sites/thetimes.html">The Times</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/dailymirror.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailymirror.jpg"
-     alt="Daily Mirror"
-     loading="lazy">
- </a>
- <p><a href="../sites/dailymirror.html">Daily Mirror</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/eveningstandard.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eveningstandard.jpg"
-     alt="Evening Standard"
-     loading="lazy">
- </a>
- <p><a href="../sites/eveningstandard.html">Evening Standard</a></p>
-</div>
-
 </div>
 
 ## About this bundle
@@ -117,6 +117,8 @@ The most recent homepages from 10 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[BBC](https://palewi.re/docs/news-homepages/sites/bbc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bbc.xml)|
+|[Daily Mirror](https://palewi.re/docs/news-homepages/sites/dailymirror.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailymirror.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailymirror.xml)|
+|[Evening Standard](https://palewi.re/docs/news-homepages/sites/eveningstandard.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eveningstandard.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eveningstandard.xml)|
 |[Financial Times](https://palewi.re/docs/news-homepages/sites/ft.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ft.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ft.xml)|
 |[The Guardian](https://palewi.re/docs/news-homepages/sites/guardian.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/guardian.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/guardian.xml)|
 |[The Independent](https://palewi.re/docs/news-homepages/sites/independent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/independent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/independent.xml)|
@@ -124,5 +126,3 @@ The most recent homepages from 10 news sites in this bundle.
 |[The Telegraph](https://palewi.re/docs/news-homepages/sites/telegraph.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/telegraph.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/telegraph.xml)|
 |[The Sun](https://palewi.re/docs/news-homepages/sites/thesun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thesun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thesun.xml)|
 |[The Times](https://palewi.re/docs/news-homepages/sites/thetimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetimes.xml)|
-|[Daily Mirror](https://palewi.re/docs/news-homepages/sites/dailymirror.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailymirror.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailymirror.xml)|
-|[Evening Standard](https://palewi.re/docs/news-homepages/sites/eveningstandard.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eveningstandard.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eveningstandard.xml)|
