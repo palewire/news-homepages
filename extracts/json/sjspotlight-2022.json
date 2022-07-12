@@ -1,5 +1,5 @@
 {
-  "created": 1657587296,
+  "created": 1657628581,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/29/items/sjspotlight-2022",
@@ -394,31 +394,73 @@
       "sha1": "88a988989bcc8761651d26cbdce8a804cddbc125"
     },
     {
+      "name": "sjspotlight-2022-07-11T21:34:52.762400-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657600496",
+      "size": "22108",
+      "md5": "75b18f806fcf1323d1427a8e281b595f",
+      "crc32": "78d95836",
+      "sha1": "71caaa0442696a64d5816e802628f08d42a61ed6",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-07-11T21:34:52.762400-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657600497",
+      "size": "25090",
+      "md5": "81aad4a3c495e8bf6ae93a3c3c79e3b4",
+      "crc32": "c873379c",
+      "sha1": "32e6c8c9435019e52905961c0f95900a16764185",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-07-11T21:34:52.762400-07:00.jpg",
+      "source": "original",
+      "mtime": "1657600494",
+      "size": "265627",
+      "md5": "d1dfb3bdbbf176e034b5bdde996212e3",
+      "crc32": "da6b25b9",
+      "sha1": "c5b1a6da757a11e879a596b2c01d2bb250706d16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sjspotlight-2022-07-11T21:34:52.762400-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sjspotlight-2022-07-11T21:34:52.762400-07:00.jpg",
+      "mtime": "1657600564",
+      "size": "9810",
+      "md5": "9496c2db4761118ea92050f44fb0d664",
+      "crc32": "3f5c9927",
+      "sha1": "18a13c4cc3af565c1466b025a8e115b9e5be50a2"
+    },
+    {
       "name": "sjspotlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd51e03d78dd4903e4937d675be5c207f1467477",
-      "mtime": "1657568045",
-      "size": "9318",
-      "md5": "514f69df5876f824144c5024337124a4",
-      "crc32": "50d639c7",
-      "sha1": "3a8a7a693db1a639ca8f8d813a3bacfcffaca204",
+      "btih": "c9d072208d5ad0c3e832649cb3bb92c326f8ae25",
+      "mtime": "1657600592",
+      "size": "10179",
+      "md5": "25e70228a8d96a6ac6396ffa8ac4b277",
+      "crc32": "397fd322",
+      "sha1": "b378fe06660e83e74d802ced7336c8b92799e101",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sjspotlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3af2b64527c4660d792f5683bef8a831",
+      "md5": "4fbe3391c4f63e83c914335c20ea5c52",
       "summation": "md5"
     },
     {
       "name": "sjspotlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657567724",
-      "size": "57344",
-      "md5": "b7262b39f20dcd63a081f09086cfe704",
-      "crc32": "5cb8b67b",
-      "sha1": "987750e627f70bb1c40c5e3724dcd8a44bab5e1f",
+      "mtime": "1657600501",
+      "size": "61440",
+      "md5": "5b984588bf12041314fffd2dc6105f43",
+      "crc32": "9d2c8954",
+      "sha1": "b30eff66ac720ea8192f0d7fd464ba10b67c56c3",
       "format": "Metadata"
     },
     {
@@ -432,9 +474,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 41,
-  "item_last_updated": 1657568045,
-  "item_size": 2968686,
+  "files_count": 45,
+  "item_last_updated": 1657600592,
+  "item_size": 3296278,
   "metadata": {
     "identifier": "sjspotlight-2022",
     "collection": [
@@ -451,7 +493,7 @@
     "publicdate": "2022-07-09 04:02:22",
     "addeddate": "2022-07-09 04:02:22"
   },
-  "server": "ia801504.us.archive.org",
+  "server": "ia601504.us.archive.org",
   "sjspotlight-2022": [
     {
       "text": " English",
@@ -762,16 +804,28 @@
       "url": "https://sanjosespotlight.com/follow-the-money-san-jose-2022-mayoral-and-city-council-races-election/"
     },
     {
-      "text": "Economy",
-      "url": "https://sanjosespotlight.com/news/business/economy/"
+      "text": "Coronavirus",
+      "url": "https://sanjosespotlight.com/news/health/coronavirus/"
     },
     {
-      "text": "Santa Clara",
-      "url": "https://sanjosespotlight.com/news/politics-government/santa-clara/"
+      "text": "Santa Clara County",
+      "url": "https://sanjosespotlight.com/news/politics-government/santa-clara-county/"
     },
     {
-      "text": "\n                                            How much will Santa Clara lose when Great America closes?\n                                            Read More\n                                        ",
-      "url": "https://sanjosespotlight.com/how-much-money-revenue-will-santa-clara-city-lose-when-great-america-amusement-theme-park-closes/"
+      "text": "\n                                            Contagious COVID variant puts Santa Clara County on alert\n                                            Read More\n                                        ",
+      "url": "https://sanjosespotlight.com/easily-transmitted-contagious-covid-19-variant-puts-silicon-valley-san-jose-santa-clara-county-on-alert-subvariant-coronavirus-omicron-ba5/"
+    },
+    {
+      "text": "East San Jose",
+      "url": "https://sanjosespotlight.com/news/community/east-san-jose/"
+    },
+    {
+      "text": "The Biz Beat",
+      "url": "https://sanjosespotlight.com/news/business/the-biz-beat/"
+    },
+    {
+      "text": "\n                                            The Biz Beat: Bacalhau Grill offers Brazilian, Portuguese cuisine\n                                            Read More\n                                        ",
+      "url": "https://sanjosespotlight.com/the-biz-beat-bacalhau-grill-restaurant-market-offers-brazilian-portuguese-cuisine-food-imported-port-wine/"
     },
     {
       "text": "Economy",
@@ -806,7 +860,7 @@
       "url": "https://sanjosespotlight.com/news/politics-government/santa-clara-county/"
     },
     {
-      "text": "\n                                            Santa Clara County school funding disparity is staggering\n                                            Read More\n                                        ",
+      "text": "\n                                            Santa Clara County school funding spurs disparity\n                                            Read More\n                                        ",
       "url": "https://sanjosespotlight.com/santa-clara-county-san-jose-school-district-funding-disparity-is-staggering-basic-aid-property-tax-franklin-mckinley-alum-rock/"
     },
     {
@@ -822,28 +876,16 @@
       "url": "https://sanjosespotlight.com/easily-transmitted-contagious-covid-19-variant-puts-silicon-valley-san-jose-santa-clara-county-on-alert-subvariant-coronavirus-omicron-ba5/"
     },
     {
-      "text": "Economy",
-      "url": "https://sanjosespotlight.com/news/business/economy/"
+      "text": "East San Jose",
+      "url": "https://sanjosespotlight.com/news/community/east-san-jose/"
     },
     {
-      "text": "Santa Clara",
-      "url": "https://sanjosespotlight.com/news/politics-government/santa-clara/"
+      "text": "The Biz Beat",
+      "url": "https://sanjosespotlight.com/news/business/the-biz-beat/"
     },
     {
-      "text": "\n                                            How much will Santa Clara lose when Great America closes?\n                                            Read More\n                                        ",
-      "url": "https://sanjosespotlight.com/how-much-money-revenue-will-santa-clara-city-lose-when-great-america-amusement-theme-park-closes/"
-    },
-    {
-      "text": "Economy",
-      "url": "https://sanjosespotlight.com/news/business/economy/"
-    },
-    {
-      "text": "Transportation",
-      "url": "https://sanjosespotlight.com/news/politics-government/transportation/"
-    },
-    {
-      "text": "\n                                            San Jose airport gets funding for disability upgrades\n                                            Read More\n                                        ",
-      "url": "https://sanjosespotlight.com/norman-mineta-san-jose-international-airport-gets-funding-for-disability-upgrades-ada-improvements-accessibility-terminals-sjc/"
+      "text": "\n                                            The Biz Beat: Bacalhau Grill offers Brazilian, Portuguese cuisine\n                                            Read More\n                                        ",
+      "url": "https://sanjosespotlight.com/the-biz-beat-bacalhau-grill-restaurant-market-offers-brazilian-portuguese-cuisine-food-imported-port-wine/"
     },
     {
       "text": "\n                                \n                            ",
@@ -892,6 +934,30 @@
     {
       "text": "Read More",
       "url": "https://sanjosespotlight.com/bramson-pop-culture-doesnt-know-anything-about-life-on-the-streets/"
+    },
+    {
+      "text": "",
+      "url": "https://sanjosespotlight.com/the-biz-beat-bacalhau-grill-restaurant-market-offers-brazilian-portuguese-cuisine-food-imported-port-wine/"
+    },
+    {
+      "text": "East San Jose",
+      "url": "https://sanjosespotlight.com/news/community/east-san-jose/"
+    },
+    {
+      "text": "The Biz Beat",
+      "url": "https://sanjosespotlight.com/news/business/the-biz-beat/"
+    },
+    {
+      "text": "",
+      "url": "https://sanjosespotlight.com/author/robert-eliason/"
+    },
+    {
+      "text": "Robert Eliason",
+      "url": "https://sanjosespotlight.com/author/robert-eliason/"
+    },
+    {
+      "text": "The Biz Beat: Bacalhau Grill offers Brazilian, Portuguese cuisine",
+      "url": "https://sanjosespotlight.com/the-biz-beat-bacalhau-grill-restaurant-market-offers-brazilian-portuguese-cuisine-food-imported-port-wine/"
     },
     {
       "text": "",
@@ -962,32 +1028,88 @@
       "url": "https://sanjosespotlight.com/author/lorraine-gabbert/"
     },
     {
-      "text": "Santa Clara County school funding disparity is staggering",
+      "text": "Santa Clara County school funding spurs disparity",
       "url": "https://sanjosespotlight.com/santa-clara-county-san-jose-school-district-funding-disparity-is-staggering-basic-aid-property-tax-franklin-mckinley-alum-rock/"
     },
     {
-      "text": "",
-      "url": "https://sanjosespotlight.com/easily-transmitted-contagious-covid-19-variant-puts-silicon-valley-san-jose-santa-clara-county-on-alert-subvariant-coronavirus-omicron-ba5/"
+      "text": "@SJSpotlight",
+      "url": "https://twitter.com/SJSpotlight"
     },
     {
-      "text": "Coronavirus",
-      "url": "https://sanjosespotlight.com/news/health/coronavirus/"
+      "text": "t.co/uHaKcxk6WG",
+      "url": "https://t.co/uHaKcxk6WG"
     },
     {
-      "text": "Santa Clara County",
-      "url": "https://sanjosespotlight.com/news/politics-government/santa-clara-county/"
+      "text": "Reply",
+      "url": "https://twitter.com/intent/tweet?in_reply_to=1546642686718881792"
     },
     {
-      "text": "",
-      "url": "https://sanjosespotlight.com/author/tran-nguyen/"
+      "text": "Retweet 0",
+      "url": "https://twitter.com/intent/retweet?tweet_id=1546642686718881792"
     },
     {
-      "text": "Tran Nguyen",
-      "url": "https://sanjosespotlight.com/author/tran-nguyen/"
+      "text": "Like 2",
+      "url": "https://twitter.com/intent/like?tweet_id=1546642686718881792"
     },
     {
-      "text": "Contagious COVID variant puts Santa Clara County on alert",
-      "url": "https://sanjosespotlight.com/easily-transmitted-contagious-covid-19-variant-puts-silicon-valley-san-jose-santa-clara-county-on-alert-subvariant-coronavirus-omicron-ba5/"
+      "text": "@SJSpotlight",
+      "url": "https://twitter.com/SJSpotlight"
+    },
+    {
+      "text": "t.co/qEjq9UMvgA",
+      "url": "https://t.co/qEjq9UMvgA"
+    },
+    {
+      "text": "Reply",
+      "url": "https://twitter.com/intent/tweet?in_reply_to=1546639860286468097"
+    },
+    {
+      "text": "Retweet 0",
+      "url": "https://twitter.com/intent/retweet?tweet_id=1546639860286468097"
+    },
+    {
+      "text": "Like 1",
+      "url": "https://twitter.com/intent/like?tweet_id=1546639860286468097"
+    },
+    {
+      "text": "@SJSpotlight",
+      "url": "https://twitter.com/SJSpotlight"
+    },
+    {
+      "text": "t.co/qaTCHvhTcF",
+      "url": "https://t.co/qaTCHvhTcF"
+    },
+    {
+      "text": "Reply",
+      "url": "https://twitter.com/intent/tweet?in_reply_to=1546619901548171264"
+    },
+    {
+      "text": "Retweet 1",
+      "url": "https://twitter.com/intent/retweet?tweet_id=1546619901548171264"
+    },
+    {
+      "text": "Like 4",
+      "url": "https://twitter.com/intent/like?tweet_id=1546619901548171264"
+    },
+    {
+      "text": "@SJSpotlight",
+      "url": "https://twitter.com/SJSpotlight"
+    },
+    {
+      "text": "t.co/MM49StEP1f",
+      "url": "https://t.co/MM49StEP1f"
+    },
+    {
+      "text": "Reply",
+      "url": "https://twitter.com/intent/tweet?in_reply_to=1546571913115275266"
+    },
+    {
+      "text": "Retweet 0",
+      "url": "https://twitter.com/intent/retweet?tweet_id=1546571913115275266"
+    },
+    {
+      "text": "Like 1",
+      "url": "https://twitter.com/intent/like?tweet_id=1546571913115275266"
     },
     {
       "text": "@SJSpotlight",
@@ -1008,90 +1130,6 @@
     {
       "text": "Like 0",
       "url": "https://twitter.com/intent/like?tweet_id=1546535073297547265"
-    },
-    {
-      "text": "@SJSpotlight",
-      "url": "https://twitter.com/SJSpotlight"
-    },
-    {
-      "text": "t.co/vlsH6WFE11",
-      "url": "https://t.co/vlsH6WFE11"
-    },
-    {
-      "text": "Reply",
-      "url": "https://twitter.com/intent/tweet?in_reply_to=1546534292452360192"
-    },
-    {
-      "text": "Retweet 0",
-      "url": "https://twitter.com/intent/retweet?tweet_id=1546534292452360192"
-    },
-    {
-      "text": "Like 1",
-      "url": "https://twitter.com/intent/like?tweet_id=1546534292452360192"
-    },
-    {
-      "text": "@SJSpotlight",
-      "url": "https://twitter.com/SJSpotlight"
-    },
-    {
-      "text": "t.co/B8zKlApB6x",
-      "url": "https://t.co/B8zKlApB6x"
-    },
-    {
-      "text": "Reply",
-      "url": "https://twitter.com/intent/tweet?in_reply_to=1546519189220777984"
-    },
-    {
-      "text": "Retweet 0",
-      "url": "https://twitter.com/intent/retweet?tweet_id=1546519189220777984"
-    },
-    {
-      "text": "Like 2",
-      "url": "https://twitter.com/intent/like?tweet_id=1546519189220777984"
-    },
-    {
-      "text": "@SJSpotlight",
-      "url": "https://twitter.com/SJSpotlight"
-    },
-    {
-      "text": "SCCAOR",
-      "url": "https://twitter.com/SCCAOR"
-    },
-    {
-      "text": "t.co/481WdrSpwm",
-      "url": "https://t.co/481WdrSpwm"
-    },
-    {
-      "text": "Reply",
-      "url": "https://twitter.com/intent/tweet?in_reply_to=1546463723409121280"
-    },
-    {
-      "text": "Retweet 1",
-      "url": "https://twitter.com/intent/retweet?tweet_id=1546463723409121280"
-    },
-    {
-      "text": "Like 2",
-      "url": "https://twitter.com/intent/like?tweet_id=1546463723409121280"
-    },
-    {
-      "text": "@SJSpotlight",
-      "url": "https://twitter.com/SJSpotlight"
-    },
-    {
-      "text": "t.co/tpoV0FXDPY",
-      "url": "https://t.co/tpoV0FXDPY"
-    },
-    {
-      "text": "Reply",
-      "url": "https://twitter.com/intent/tweet?in_reply_to=1546175096057827328"
-    },
-    {
-      "text": "Retweet 2",
-      "url": "https://twitter.com/intent/retweet?tweet_id=1546175096057827328"
-    },
-    {
-      "text": "Like 3",
-      "url": "https://twitter.com/intent/like?tweet_id=1546175096057827328"
     },
     {
       "text": "App Store",
@@ -1302,9 +1340,9 @@
       "url": "/cookie-policy/"
     }
   ],
-  "uniq": 339820181,
+  "uniq": 973719176,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

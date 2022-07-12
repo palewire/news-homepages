@@ -1,5 +1,5 @@
 {
-  "created": 1657565162,
+  "created": 1657628373,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/13/items/newsobserver-2022",
@@ -176,31 +176,63 @@
       "sha1": "0e2c6308c99fcc1f925819218e2ac989cfaeb00e"
     },
     {
+      "name": "newsobserver-2022-07-12T00:34:06.113354-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657600450",
+      "size": "460",
+      "md5": "9568e730731325faf4fc66c7bb560bbb",
+      "crc32": "eac5027f",
+      "sha1": "43e0e2313385fb865330094fc07d5d42ba97f2ab",
+      "format": "JSON"
+    },
+    {
+      "name": "newsobserver-2022-07-12T00:34:06.113354-04:00.jpg",
+      "source": "original",
+      "mtime": "1657600448",
+      "size": "261174",
+      "md5": "ff0381a2e5f972abf9d0f5d7d9f2b7a2",
+      "crc32": "2304c253",
+      "sha1": "caa94ed413424812c47818060428046345befd3e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsobserver-2022-07-12T00:34:06.113354-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsobserver-2022-07-12T00:34:06.113354-04:00.jpg",
+      "mtime": "1657600505",
+      "size": "9444",
+      "md5": "a0cb44cba2ef23dac55641458b290c66",
+      "crc32": "e3332589",
+      "sha1": "72096279328531965f66d046660eda56164d34e8"
+    },
+    {
       "name": "newsobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cbe668fd820852a77838a68507e2046a11625f05",
-      "mtime": "1657565142",
-      "size": "4818",
-      "md5": "a3934661efcae1f8525b79e78a06a816",
-      "crc32": "cd36600d",
-      "sha1": "b0576b95b8c4d71cb9728974ac0d7b47274f21d9",
+      "btih": "9f38687eb75df0bfff5afd7ed039bffef5a3b8eb",
+      "mtime": "1657600524",
+      "size": "5466",
+      "md5": "55ffe20cadb22f9c0dbca29353f3ce01",
+      "crc32": "a52874f0",
+      "sha1": "c16452b82672a47dd7ec4672d2b007ed489f8891",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2a830471b4720c1e24268a5f8a72f23d",
+      "md5": "bb677abcc13fa9a0f27fc2ca7500d251",
       "summation": "md5"
     },
     {
       "name": "newsobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657565061",
+      "mtime": "1657600453",
       "size": "36864",
-      "md5": "9f4bdc0dc0f68bc798bf8a5d1b9bc98c",
-      "crc32": "70ed4dbe",
-      "sha1": "65ec3d220d5be7888c37b75fb57dcebc31441ba0",
+      "md5": "dbefdeb8223e35f7c25c8db7d8e7b7c0",
+      "crc32": "8a0b3f24",
+      "sha1": "ba4ae77cc4020cd74f81b66666b2fb85810ce65e",
       "format": "Metadata"
     },
     {
@@ -214,9 +246,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1657565142,
-  "item_size": 1034759,
+  "files_count": 23,
+  "item_last_updated": 1657600524,
+  "item_size": 1306485,
   "metadata": {
     "identifier": "newsobserver-2022",
     "collection": [
@@ -233,10 +265,29 @@
     "publicdate": "2022-03-26 14:57:36",
     "addeddate": "2022-03-26 14:57:36"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 999478140,
+  "newsobserver-2022": {
+    "role": "WebArea",
+    "name": "Access Denied",
+    "children": [
+      {
+        "role": "heading",
+        "name": "Access Denied",
+        "level": 1
+      },
+      {
+        "role": "text",
+        "name": "You don't have permission to access \"http://www.newsobserver.com/\" on this server."
+      },
+      {
+        "role": "text",
+        "name": "Reference #18.14fb3b17.1657598680.fd4432e"
+      }
+    ]
+  },
+  "server": "ia802503.us.archive.org",
+  "uniq": 1807340614,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

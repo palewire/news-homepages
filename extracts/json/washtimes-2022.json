@@ -1,5 +1,5 @@
 {
-  "created": 1657587415,
+  "created": 1657628732,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -6960,31 +6960,73 @@
       "sha1": "ababa5cf3eab492de89b613b102adb0b21928eb5"
     },
     {
+      "name": "washtimes-2022-07-11T23:28:58.025764-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657596541",
+      "size": "101289",
+      "md5": "54c8cadee3f99e5ef7bcd94aa822e63b",
+      "crc32": "81f86034",
+      "sha1": "d288ce3eba172da8d8740ba5c0924060c439fc2f",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-07-11T23:28:58.025764-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657596543",
+      "size": "60467",
+      "md5": "4236a5aaebf1f3c7ef70ccecb25a9c9f",
+      "crc32": "1480871e",
+      "sha1": "417696dd18fabf216c38d4ca34bfbdad42c5b0c6",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-07-11T23:28:58.025764-04:00.jpg",
+      "source": "original",
+      "mtime": "1657596539",
+      "size": "372909",
+      "md5": "57ca0b9776da13ffd0d3f4ed2148df36",
+      "crc32": "10c10bf7",
+      "sha1": "0e81295d4e6440776c33c17658a09ce07b723e88",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-07-11T23:28:58.025764-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-07-11T23:28:58.025764-04:00.jpg",
+      "mtime": "1657596611",
+      "size": "11026",
+      "md5": "27e3a6488a8d3658c450d02b077a3a01",
+      "crc32": "9309a617",
+      "sha1": "e5e17f1e6683ceb4c541bbc33653a31cb3728dbd"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e72c93c7be6900cee1390def40f70047060626a",
-      "mtime": "1657564558",
-      "size": "142723",
-      "md5": "312114941fea999440132363ddece340",
-      "crc32": "c1b981b1",
-      "sha1": "b1b269cda07b74e5f8895afab9b18ee02f3af630",
+      "btih": "e8e9d87dba5ecbc82717b58f0ed932945bb90e31",
+      "mtime": "1657596625",
+      "size": "143578",
+      "md5": "16f4de9ce8375cc3f31a8a0703e27eb5",
+      "crc32": "559c50ea",
+      "sha1": "c17b4652a9bc50c8a14b5845a3f24917ad4d4e82",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d6ff3fe293841a7e077ddfd677a9e913",
+      "md5": "dba8ae2b2e76ba88e9f4d84bf9b100b1",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657564486",
-      "size": "774144",
-      "md5": "2a265449275245c67dc797ad5ff64893",
-      "crc32": "9942508e",
-      "sha1": "706a288c191523b425f60b7651fc27384d363d00",
+      "mtime": "1657596547",
+      "size": "778240",
+      "md5": "f20e7c702eb38f0a545763e8461496c5",
+      "crc32": "fbd6cf14",
+      "sha1": "401cac8a4d36f0bf5b9ca5bcf7de6d6fe16d439b",
       "format": "Metadata"
     },
     {
@@ -6998,9 +7040,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 666,
-  "item_last_updated": 1657564558,
-  "item_size": 86183464,
+  "files_count": 670,
+  "item_last_updated": 1657596625,
+  "item_size": 86734106,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -7017,8 +7059,8 @@
     "publicdate": "2022-03-25 18:45:19",
     "addeddate": "2022-03-25 18:45:19"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 356343419,
+  "server": "ia802505.us.archive.org",
+  "uniq": 987040770,
   "washtimes-2022": [
     {
       "text": "Skip to content",
@@ -7546,6 +7588,14 @@
     },
     {
       "text": "",
+      "url": "/specials/unregulated-podcast/"
+    },
+    {
+      "text": "LATEST EPISODE: Secret Plan",
+      "url": "/specials/unregulated-podcast/"
+    },
+    {
+      "text": "",
       "url": "/specials/politically-unstable-podcast/"
     },
     {
@@ -7553,28 +7603,24 @@
       "url": "/specials/politically-unstable-podcast/"
     },
     {
-      "text": "",
-      "url": "/specials/bold-blunt-podcast/"
-    },
-    {
-      "text": "Can America find a way to unify?",
-      "url": "/specials/bold-blunt-podcast/"
-    },
-    {
       "text": "Donald Trump",
       "url": "/topics/donald-trump/"
+    },
+    {
+      "text": "Joe Biden",
+      "url": "/topics/joe-biden/"
     },
     {
       "text": "Washington",
       "url": "/topics/washington/"
     },
     {
-      "text": "Japan",
-      "url": "/topics/japan/"
+      "text": "White House",
+      "url": "/topics/white-house/"
     },
     {
-      "text": "Biden Administration",
-      "url": "/topics/biden-administration/"
+      "text": "Japan",
+      "url": "/topics/japan/"
     },
     {
       "text": "Gotabaya Rajapaksa",
@@ -7585,96 +7631,92 @@
       "url": "/topics/israel/"
     },
     {
-      "text": "Pamplona",
-      "url": "/topics/pamplona/"
+      "text": "Saudi Arabia",
+      "url": "/topics/saudi-arabia/"
     },
     {
-      "text": "Sri Lanka",
-      "url": "/topics/sri-lanka/"
+      "text": "Biden Administration",
+      "url": "/topics/biden-administration/"
     },
     {
-      "text": "Ukraine",
-      "url": "/topics/ukraine/"
-    },
-    {
-      "text": "Abe",
-      "url": "/topics/abe/"
+      "text": "Brian Maclellan",
+      "url": "/topics/brian-maclellan/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/biden-heckled-mass-shooting-victim-manuel-oliver-w/"
+      "url": "/news/2022/jul/11/dave-yost-report-abortion-seeking-10-year-old-rape/"
     },
     {
-      "text": "Biden heckled by mass shooting victim at White House event to celebrate new gun laws",
-      "url": "/news/2022/jul/11/biden-heckled-mass-shooting-victim-manuel-oliver-w/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/11/ukraine-says-us-made-himars-rockets-are-game-chang/"
-    },
-    {
-      "text": "Ukraine says U.S.-made HIMARS rockets are a game-changer",
-      "url": "/news/2022/jul/11/ukraine-says-us-made-himars-rockets-are-game-chang/"
+      "text": "Ohio AG: \u2018Not a whisper\u2019 to support claim of 10-year-old rape victim seeking abortion",
+      "url": "/news/2022/jul/11/dave-yost-report-abortion-seeking-10-year-old-rape/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/insider-documentary-gets-trumps-views-tape-doesnt-/"
+      "url": "/news/2022/jul/11/jill-biden-breakfast-taco-comment-ripped-ethnic-st/"
     },
     {
-      "text": "Insider documentary gets Trump\u2019s views on tape but doesn\u2019t have a big reveal",
-      "url": "/news/2022/jul/11/insider-documentary-gets-trumps-views-tape-doesnt-/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/8/great-power-tensions-biden-face-delicate-balancing/"
-    },
-    {
-      "text": "Diplomatic drama as Biden, Putin weigh G-20 leaders\u2019 summit",
-      "url": "/news/2022/jul/8/great-power-tensions-biden-face-delicate-balancing/"
+      "text": "Jill Biden ripped for use of ethnic stereotype to relate to Hispanics:  \u2018We are not tacos\u2019",
+      "url": "/news/2022/jul/11/jill-biden-breakfast-taco-comment-ripped-ethnic-st/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/elon-musk-laughs-legal-threat-twitter/"
+      "url": "/news/2022/jul/11/oath-keepers-leader-stewart-rhodes-listening-jan-6/"
     },
     {
-      "text": "Elon Musk laughs off legal threat from Twitter",
-      "url": "/news/2022/jul/11/elon-musk-laughs-legal-threat-twitter/"
+      "text": "Oath Keepers leader Stewart Rhodes listening to Jan. 6 committee hearings from jail",
+      "url": "/news/2022/jul/11/oath-keepers-leader-stewart-rhodes-listening-jan-6/"
     },
     {
       "text": "",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D2&id=id2&path=%2F&date=7%2F11%2F2022"
+      "url": "/news/2022/jul/11/biden-admin-docs-must-offer-abortion-if-moms-life-/"
     },
     {
-      "text": "Doctor: \u201cDoing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)\u201d",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D2&id=id2&path=%2F&date=7%2F11%2F2022"
+      "text": "Biden admin: Docs must offer abortion if mom\u2019s life at risk",
+      "url": "/news/2022/jul/11/biden-admin-docs-must-offer-abortion-if-moms-life-/"
     },
     {
-      "text": "Train and arm teachers. They would be the 'unknown factor' in every single school",
-      "url": "https://www.washingtontimes.com/news/2022/jun/7/train-and-arm-teachers-they-would-be-the-unknown-f/"
+      "text": "",
+      "url": "/news/2022/jul/11/ron-johnson-from-tea-party-firebrand-to-trump-loya/"
     },
     {
       "text": "From tea party firebrand to Trump loyalist: Ron Johnson still running on battling Washington elites",
-      "url": "https://www.washingtontimes.com/news/2022/jul/11/ron-johnson-from-tea-party-firebrand-to-trump-loya/"
+      "url": "/news/2022/jul/11/ron-johnson-from-tea-party-firebrand-to-trump-loya/"
     },
     {
-      "text": "Pete Buttigieg is ineffective and should be fired",
-      "url": "https://www.washingtontimes.com/news/2022/jul/11/pete-buttigieg-ineffective-and-should-be-fired/"
+      "text": "",
+      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D1&id=id1&path=%2F&date=7%2F12%2F2022"
     },
     {
-      "text": "Hunter Biden disparaged Jill Biden as 'vindictive moron,' 'selfish' in alleged texts",
-      "url": "https://www.washingtontimes.com/news/2022/jul/9/hunter-biden-disparaged-jill-biden-vindictive-moro/"
+      "text": "Doctor: \u201cDoing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)\u201d",
+      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D1&id=id1&path=%2F&date=7%2F12%2F2022"
     },
     {
-      "text": "DHS creates backdoor 'amnesty' for illegal immigrants under TPS",
-      "url": "https://www.washingtontimes.com/news/2022/jul/10/dhs-creates-backdoor-amnesty-illegal-immigrants-un/"
+      "text": "Adam Schiff wants a Pentagon rule that would block Congress' oversight of some military operations",
+      "url": "https://www.washingtontimes.com/news/2022/jul/11/adam-schiff-wants-pentagon-rule-would-block-congre/"
+    },
+    {
+      "text": "Biden's presidency nears a premature end amid dismal polling, economic anxiety, blunders",
+      "url": "https://www.washingtontimes.com/news/2022/jul/11/bidens-presidency-nears-premature-end-amid-dismal-/"
+    },
+    {
+      "text": "Biden gives hope to imbeciles everywhere",
+      "url": "https://www.washingtontimes.com/news/2022/jul/11/biden-gives-hope-to-imbeciles-everywhere/"
+    },
+    {
+      "text": "Oath Keepers leader Stewart Rhodes listening to Jan. 6 committee hearings from jail",
+      "url": "https://www.washingtontimes.com/news/2022/jul/11/oath-keepers-leader-stewart-rhodes-listening-jan-6/"
+    },
+    {
+      "text": "Biden's wealthy and clueless White House",
+      "url": "https://www.washingtontimes.com/news/2022/jul/11/bidens-wealthy-and-clueless-white-house/"
     },
     {
       "text": "Inside The Beltway",
       "url": "/news/inside-the-beltway/"
     },
     {
-      "text": "Antietam National Battlefield seeks public input",
-      "url": "/news/2022/jul/10/inside-beltway-antietam-national-battlefield-seeks/"
+      "text": "Reagan\u2019s ongoing popularity carries a message for the Democrats",
+      "url": "/news/2022/jul/11/inside-beltway-message-democrats/"
     },
     {
       "text": "Inside The Ring",
@@ -7689,8 +7731,8 @@
       "url": "/opinion/nuclear-option/"
     },
     {
-      "text": "Democrats offer word salad in response to unspeakable tragedy",
-      "url": "/news/2022/jul/7/democrats-offer-word-salad-in-response-to-unspeaka/"
+      "text": "Biden gives hope to imbeciles everywhere",
+      "url": "/news/2022/jul/11/biden-gives-hope-to-imbeciles-everywhere/"
     },
     {
       "text": "Latest Quizzes",
@@ -7725,28 +7767,60 @@
       "url": "//www.washingtontimes.com/puzzles/sudoku/"
     },
     {
-      "text": "Democrats accused of overreacting with rush to ban abortion extraditions",
-      "url": "/news/2022/jul/11/democrats-accused-overreaction-orders-banning-abor/"
+      "text": "Adam Schiff wants a Pentagon rule that would block Congress\u2019 oversight of some military operations",
+      "url": "/news/2022/jul/11/adam-schiff-wants-pentagon-rule-would-block-congre/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/democrats-accused-overreaction-orders-banning-abor/"
+      "url": "/news/2022/jul/11/adam-schiff-wants-pentagon-rule-would-block-congre/"
     },
     {
-      "text": "Valerie Richardson",
-      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
+      "text": "Susan Ferrechio",
+      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
     },
     {
-      "text": "Alex Swoyer",
-      "url": "https://www.washingtontimes.com/staff/alex-swoyer/"
+      "text": "Kerry Picket",
+      "url": "https://www.washingtontimes.com/staff/kerry-picket/"
+    },
+    {
+      "text": " Oath Keepers leader Stewart Rhodes listening to Jan. 6 committee hearings from jail",
+      "url": "/news/2022/jul/11/oath-keepers-leader-stewart-rhodes-listening-jan-6/"
+    },
+    {
+      "text": " House Jan. 6 committee postpones Thursday\u2019s primetime hearing",
+      "url": "/news/2022/jul/11/house-jan-6-committee-postpones-thursdays-primetim/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/majority-democratic-voters-dont-want-joe-biden-pre/"
+      "url": "/news/2022/jul/11/bidens-presidency-nears-premature-end-amid-dismal-/"
     },
     {
-      "text": "Majority of Democratic voters don\u2019t want Biden as the presidential nominee in 2024, poll shows",
-      "url": "/news/2022/jul/11/majority-democratic-voters-dont-want-joe-biden-pre/"
+      "text": "Biden\u2019s presidency nears a premature end amid dismal polling, economic anxiety, blunders",
+      "url": "/news/2022/jul/11/bidens-presidency-nears-premature-end-amid-dismal-/"
+    },
+    {
+      "text": "Dave Boyer",
+      "url": "https://www.washingtontimes.com/staff/dave-boyer/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/biden-team-secures-32m-doses-of-novavax-covid-19-v/"
+    },
+    {
+      "text": "Biden team secures 3.2M doses of Novavax COVID-19 vaccine ahead of FDA action",
+      "url": "/news/2022/jul/11/biden-team-secures-32m-doses-of-novavax-covid-19-v/"
+    },
+    {
+      "text": "Tom Howell Jr.",
+      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/iran-providing-drones-russia-war-ukraine-white-hou/"
+    },
+    {
+      "text": "White House says Iran providing drones to Russia for war in Ukraine",
+      "url": "/news/2022/jul/11/iran-providing-drones-russia-war-ukraine-white-hou/"
     },
     {
       "text": "Jeff Mordock",
@@ -7754,59 +7828,35 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/pro-life-groups-urge-congress-spurn-push-abortion-/"
+      "url": "/news/2022/jul/11/democrats-accused-overreaction-orders-banning-abor/"
     },
     {
-      "text": "Pro-life groups urge Congress to spurn push for abortion clinics on federal land",
-      "url": "/news/2022/jul/11/pro-life-groups-urge-congress-spurn-push-abortion-/"
-    },
-    {
-      "text": "Valerie Richardson",
-      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
+      "text": "Democrats accused of overreacting with rush to ban abortion extraditions",
+      "url": "/news/2022/jul/11/democrats-accused-overreaction-orders-banning-abor/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/8/dems-ongoing-district-offices-closures-covid-19-em/"
+      "url": "/news/2022/jul/11/environmentalists-laud-aoc-helping-turn-democratic/"
     },
     {
-      "text": "Democrats\u2019 closed-for-COVID office policy emerges as campaign issue",
-      "url": "/news/2022/jul/8/dems-ongoing-district-offices-closures-covid-19-em/"
-    },
-    {
-      "text": "Haris Alic",
-      "url": "https://www.washingtontimes.com/staff/haris-alic/"
+      "text": "Environmentalists laud AOC for helping turn Democratic Party green",
+      "url": "/news/2022/jul/11/environmentalists-laud-aoc-helping-turn-democratic/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/ron-johnson-from-tea-party-firebrand-to-trump-loya/"
+      "url": "/news/2022/jul/11/ukraine-says-us-made-himars-rockets-are-game-chang/"
     },
     {
-      "text": "From tea party firebrand to Trump loyalist: Ron Johnson still running on battling Washington elites",
-      "url": "/news/2022/jul/11/ron-johnson-from-tea-party-firebrand-to-trump-loya/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
-    },
-    {
-      "text": "Delicate mission: Biden heads to Mideast, Saudi Arabia as global energy prices soar",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
+      "text": "Ukraine says U.S.-made HIMARS rockets are a game-changer",
+      "url": "/news/2022/jul/11/ukraine-says-us-made-himars-rockets-are-game-chang/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
+      "url": "/news/2022/jul/11/education-values-quality-outcomes-drive-growth-cat/"
     },
     {
-      "text": "Kamala Harris ducks question on impeaching conservative justices for overturning Roe v Wade",
-      "url": "/news/2022/jul/10/kamala-harris-ducks-question-impeaching-conservati/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/10/dhs-creates-backdoor-amnesty-illegal-immigrants-un/"
-    },
-    {
-      "text": "'Temporary' migrants who entered illegally get new path to permanent status under Biden policy",
-      "url": "/news/2022/jul/10/dhs-creates-backdoor-amnesty-illegal-immigrants-un/"
+      "text": "Prayer in class draws even non-Catholics to parochial schools",
+      "url": "/news/2022/jul/11/education-values-quality-outcomes-drive-growth-cat/"
     },
     {
       "text": "",
@@ -7818,51 +7868,47 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/biden-heckled-mass-shooting-victim-manuel-oliver-w/"
+      "url": "/news/2022/jul/11/dave-yost-report-abortion-seeking-10-year-old-rape/"
     },
     {
-      "text": "Biden heckled by mass shooting victim at White House event to celebrate new gun laws",
-      "url": "/news/2022/jul/11/biden-heckled-mass-shooting-victim-manuel-oliver-w/"
+      "text": "Ohio AG: \u2018Not a whisper\u2019 to support claim of 10-year-old rape victim seeking abortion",
+      "url": "/news/2022/jul/11/dave-yost-report-abortion-seeking-10-year-old-rape/"
     },
     {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/11/ukraine-says-us-made-himars-rockets-are-game-chang/"
-    },
-    {
-      "text": "Ukraine says U.S.-made HIMARS rockets are a game-changer",
-      "url": "/news/2022/jul/11/ukraine-says-us-made-himars-rockets-are-game-chang/"
-    },
-    {
-      "text": "Mike Glenn",
-      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
+      "text": "Valerie Richardson",
+      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/insider-documentary-gets-trumps-views-tape-doesnt-/"
+      "url": "/news/2022/jul/11/jill-biden-breakfast-taco-comment-ripped-ethnic-st/"
     },
     {
-      "text": "Insider documentary gets Trump\u2019s views on tape but doesn\u2019t have a big reveal",
-      "url": "/news/2022/jul/11/insider-documentary-gets-trumps-views-tape-doesnt-/"
+      "text": "Jill Biden ripped for use of ethnic stereotype to relate to Hispanics:  \u2018We are not tacos\u2019",
+      "url": "/news/2022/jul/11/jill-biden-breakfast-taco-comment-ripped-ethnic-st/"
     },
     {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+      "text": "Victor Morton",
+      "url": "https://www.washingtontimes.com/staff/victor-morton/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/8/great-power-tensions-biden-face-delicate-balancing/"
+      "url": "/news/2022/jul/11/oath-keepers-leader-stewart-rhodes-listening-jan-6/"
     },
     {
-      "text": "Diplomatic drama as Biden, Putin weigh G-20 leaders\u2019 summit",
-      "url": "/news/2022/jul/8/great-power-tensions-biden-face-delicate-balancing/"
+      "text": "Oath Keepers leader Stewart Rhodes listening to Jan. 6 committee hearings from jail",
+      "url": "/news/2022/jul/11/oath-keepers-leader-stewart-rhodes-listening-jan-6/"
     },
     {
-      "text": "Ben Wolfgang",
-      "url": "https://www.washingtontimes.com/staff/ben-wolfgang/"
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/biden-admin-docs-must-offer-abortion-if-moms-life-/"
+    },
+    {
+      "text": "Biden admin: Docs must offer abortion if mom\u2019s life at risk",
+      "url": "/news/2022/jul/11/biden-admin-docs-must-offer-abortion-if-moms-life-/"
     },
     {
       "text": "Culture",
@@ -7871,6 +7917,18 @@
     {
       "text": "View all ",
       "url": "/culture/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/jill-biden-breakfast-taco-comment-ripped-ethnic-st/"
+    },
+    {
+      "text": "Jill Biden ripped for use of ethnic stereotype to relate to Hispanics:  \u2018We are not tacos\u2019",
+      "url": "/news/2022/jul/11/jill-biden-breakfast-taco-comment-ripped-ethnic-st/"
+    },
+    {
+      "text": "Victor Morton",
+      "url": "https://www.washingtontimes.com/staff/victor-morton/"
     },
     {
       "text": "",
@@ -7901,24 +7959,36 @@
       "url": "https://www.washingtontimes.com/staff/matt-delaney/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/8/actor-tony-sirico-sopranos-star-dead-79/"
-    },
-    {
-      "text": "Actor Tony Sirico, \u2018Sopranos\u2019 star, dead at 79",
-      "url": "/news/2022/jul/8/actor-tony-sirico-sopranos-star-dead-79/"
-    },
-    {
-      "text": "Mark A. Kellner",
-      "url": "https://www.washingtontimes.com/staff/mark-a-kellner/"
-    },
-    {
       "text": "White House Watch",
       "url": "/news/white-house/"
     },
     {
       "text": "View all ",
       "url": "/news/white-house/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/bidens-presidency-nears-premature-end-amid-dismal-/"
+    },
+    {
+      "text": "Biden\u2019s presidency nears a premature end amid dismal polling, economic anxiety, blunders",
+      "url": "/news/2022/jul/11/bidens-presidency-nears-premature-end-amid-dismal-/"
+    },
+    {
+      "text": "Dave Boyer",
+      "url": "https://www.washingtontimes.com/staff/dave-boyer/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/iran-providing-drones-russia-war-ukraine-white-hou/"
+    },
+    {
+      "text": "White House says Iran providing drones to Russia for war in Ukraine",
+      "url": "/news/2022/jul/11/iran-providing-drones-russia-war-ukraine-white-hou/"
+    },
+    {
+      "text": "Jeff Mordock",
+      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
     },
     {
       "text": "",
@@ -7945,30 +8015,6 @@
       "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/11/majority-democratic-voters-dont-want-joe-biden-pre/"
-    },
-    {
-      "text": "Majority of Democratic voters don\u2019t want Biden as the presidential nominee in 2024, poll shows",
-      "url": "/news/2022/jul/11/majority-democratic-voters-dont-want-joe-biden-pre/"
-    },
-    {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/11/biden-team-secures-32m-doses-of-novavax-covid-19-v/"
-    },
-    {
-      "text": "Biden team secures 3.2M doses of Novavax COVID-19 vaccine ahead of FDA action",
-      "url": "/news/2022/jul/11/biden-team-secures-32m-doses-of-novavax-covid-19-v/"
-    },
-    {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
-    },
-    {
       "text": "Politics",
       "url": "/news/politics/"
     },
@@ -7978,51 +8024,55 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/biden-heckled-mass-shooting-victim-manuel-oliver-w/"
+      "url": "/news/2022/jul/11/alejandro-mayorkas-build-technology-part-trump-bor/"
     },
     {
-      "text": "Biden heckled by mass shooting victim at White House event to celebrate new gun laws",
-      "url": "/news/2022/jul/11/biden-heckled-mass-shooting-victim-manuel-oliver-w/"
+      "text": "Biden\u2019s DHS pushes to build technology part of Trump\u2019s border wall",
+      "url": "/news/2022/jul/11/alejandro-mayorkas-build-technology-part-trump-bor/"
     },
     {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/11/insider-documentary-gets-trumps-views-tape-doesnt-/"
-    },
-    {
-      "text": "Insider documentary gets Trump\u2019s views on tape but doesn\u2019t have a big reveal",
-      "url": "/news/2022/jul/11/insider-documentary-gets-trumps-views-tape-doesnt-/"
-    },
-    {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+      "text": "Stephen Dinan",
+      "url": "https://www.washingtontimes.com/staff/stephen-dinan/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/ron-johnson-from-tea-party-firebrand-to-trump-loya/"
+      "url": "/news/2022/jul/11/adam-schiff-wants-pentagon-rule-would-block-congre/"
     },
     {
-      "text": "From tea party firebrand to Trump loyalist: Ron Johnson still running on battling Washington elites",
-      "url": "/news/2022/jul/11/ron-johnson-from-tea-party-firebrand-to-trump-loya/"
+      "text": "Adam Schiff wants a Pentagon rule that would block Congress\u2019 oversight of some military operations",
+      "url": "/news/2022/jul/11/adam-schiff-wants-pentagon-rule-would-block-congre/"
     },
     {
-      "text": "Seth McLaughlin",
-      "url": "https://www.washingtontimes.com/staff/seth-mclaughlin/"
+      "text": "Susan Ferrechio",
+      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
+    },
+    {
+      "text": "Kerry Picket",
+      "url": "https://www.washingtontimes.com/staff/kerry-picket/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/pro-life-groups-urge-congress-spurn-push-abortion-/"
+      "url": "/news/2022/jul/11/oath-keepers-leader-stewart-rhodes-listening-jan-6/"
     },
     {
-      "text": "Pro-life groups urge Congress to spurn push for abortion clinics on federal land",
-      "url": "/news/2022/jul/11/pro-life-groups-urge-congress-spurn-push-abortion-/"
+      "text": "Oath Keepers leader Stewart Rhodes listening to Jan. 6 committee hearings from jail",
+      "url": "/news/2022/jul/11/oath-keepers-leader-stewart-rhodes-listening-jan-6/"
     },
     {
-      "text": "Valerie Richardson",
-      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/inside-beltway-message-democrats/"
+    },
+    {
+      "text": "Reagan\u2019s ongoing popularity carries a message for the Democrats",
+      "url": "/news/2022/jul/11/inside-beltway-message-democrats/"
+    },
+    {
+      "text": "Jennifer Harper",
+      "url": "https://www.washingtontimes.com/staff/jennifer-harper/"
     },
     {
       "text": "Dive Deeper",
@@ -8074,55 +8124,39 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/democrats-accused-overreaction-orders-banning-abor/"
+      "url": "/news/2022/jul/11/man-arrested-in-threat-to-kill-pramila-jayapal/"
     },
     {
-      "text": "Democrats accused of overreacting with rush to ban abortion extraditions",
-      "url": "/news/2022/jul/11/democrats-accused-overreaction-orders-banning-abor/"
+      "text": "Man arrested in threat to kill Pramila Jayapal",
+      "url": "/news/2022/jul/11/man-arrested-in-threat-to-kill-pramila-jayapal/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/dave-yost-report-abortion-seeking-10-year-old-rape/"
+    },
+    {
+      "text": "Ohio AG: \u2018Not a whisper\u2019 to support claim of 10-year-old rape victim seeking abortion",
+      "url": "/news/2022/jul/11/dave-yost-report-abortion-seeking-10-year-old-rape/"
     },
     {
       "text": "Valerie Richardson",
       "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
     },
     {
-      "text": "Alex Swoyer",
-      "url": "https://www.washingtontimes.com/staff/alex-swoyer/"
+      "text": "",
+      "url": "/news/2022/jul/11/far-out-nasa-space-telescopes-1st-cosmic-view-goes/"
+    },
+    {
+      "text": "Far out: NASA space telescope\u2019s 1st cosmic view goes deep",
+      "url": "/news/2022/jul/11/far-out-nasa-space-telescopes-1st-cosmic-view-goes/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/children-teens-got-20-less-daily-exercise-during-p/"
+      "url": "/news/2022/jul/11/olympian-injured-in-downtown-los-angeles-attack/"
     },
     {
-      "text": "Study: Children, teens got 20% less daily exercise during pandemic",
-      "url": "/news/2022/jul/11/children-teens-got-20-less-daily-exercise-during-p/"
-    },
-    {
-      "text": "Sean Salai",
-      "url": "https://www.washingtontimes.com/staff/sean-salai/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/11/christian-doctors-say-californias-assisted-suicide/"
-    },
-    {
-      "text": "Christian doctors say California\u2019s assisted suicide law violates their conscience",
-      "url": "/news/2022/jul/11/christian-doctors-say-californias-assisted-suicide/"
-    },
-    {
-      "text": "Sean Salai",
-      "url": "https://www.washingtontimes.com/staff/sean-salai/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/11/nuke-sub-commander-fired-over-loss-confidence-abil/"
-    },
-    {
-      "text": "Nuke sub commander fired over \u2018loss of confidence\u2019 in ability to lead, Navy says",
-      "url": "/news/2022/jul/11/nuke-sub-commander-fired-over-loss-confidence-abil/"
-    },
-    {
-      "text": "Mike Glenn",
-      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
+      "text": "Olympian injured in downtown Los Angeles attack",
+      "url": "/news/2022/jul/11/olympian-injured-in-downtown-los-angeles-attack/"
     },
     {
       "text": "World",
@@ -8134,47 +8168,43 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/putin-extends-fast-track-russian-citizenship-to-al/"
+      "url": "/news/2022/jul/11/gas-pipeline-shutdown-starts-amid-german-suspicion/"
     },
     {
-      "text": "Putin extends fast-track Russian citizenship to all Ukraine",
-      "url": "/news/2022/jul/11/putin-extends-fast-track-russian-citizenship-to-al/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/11/ukraine-says-us-made-himars-rockets-are-game-chang/"
-    },
-    {
-      "text": "Ukraine says U.S.-made HIMARS rockets are a game-changer",
-      "url": "/news/2022/jul/11/ukraine-says-us-made-himars-rockets-are-game-chang/"
-    },
-    {
-      "text": "Mike Glenn",
-      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
+      "text": "Gas pipeline shutdown starts amid German suspicion of Russia",
+      "url": "/news/2022/jul/11/gas-pipeline-shutdown-starts-amid-german-suspicion/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
+      "url": "/news/2022/jul/11/on-protest-anniversary-cuba-us-far-apart-on-what-h/"
     },
     {
-      "text": "Delicate mission: Biden heads to Mideast, Saudi Arabia as global energy prices soar",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
+      "text": "On protest anniversary, Cuba, U.S. far apart on what happened",
+      "url": "/news/2022/jul/11/on-protest-anniversary-cuba-us-far-apart-on-what-h/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/indictment-reveals-new-details-chinese-targeting-d/"
+    },
+    {
+      "text": "Indictment reveals new details of Chinese targeting of dissidents",
+      "url": "/news/2022/jul/11/indictment-reveals-new-details-chinese-targeting-d/"
+    },
+    {
+      "text": "Bill Gertz",
+      "url": "https://www.washingtontimes.com/staff/bill-gertz/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/new-twists-japan-assassination-probe-unification-c/"
+    },
+    {
+      "text": "New twists in Japan assassination probe; Unification Church distances itself from Abe\u2019s killing",
+      "url": "/news/2022/jul/11/new-twists-japan-assassination-probe-unification-c/"
     },
     {
       "text": "Guy Taylor",
       "url": "https://www.washingtontimes.com/staff/guy-taylor/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/10/pentagons-own-supply-military-aid-going-ukraine-wo/"
-    },
-    {
-      "text": "Ukraine gets $400 million of U.S. war supplies; analysts ask how long it can go on",
-      "url": "/news/2022/jul/10/pentagons-own-supply-military-aid-going-ukraine-wo/"
-    },
-    {
-      "text": "Mike Glenn",
-      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
     },
     {
       "text": "Sports",
@@ -8186,23 +8216,11 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/wayne-rooney-set-to-become-new-dc-united-coach/"
+      "url": "/news/2022/jul/11/monte-morris-wants-prove-hes-point-guard-wizards-n/"
     },
     {
-      "text": "Wayne Rooney set to become new D.C. United coach",
-      "url": "/news/2022/jul/11/wayne-rooney-set-to-become-new-dc-united-coach/"
-    },
-    {
-      "text": "Jacob Calvin Meyer",
-      "url": "https://www.washingtontimes.com/staff/jacob-calvin-meyer/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/10/nationals-outfielder-juan-soto-selected-all-star-g/"
-    },
-    {
-      "text": "Nationals outfielder Juan Soto selected as All-Star Game reserve",
-      "url": "/news/2022/jul/10/nationals-outfielder-juan-soto-selected-all-star-g/"
+      "text": "Monte Morris wants to \u2018prove\u2019 he\u2019s the point guard the Wizards need",
+      "url": "/news/2022/jul/11/monte-morris-wants-prove-hes-point-guard-wizards-n/"
     },
     {
       "text": "Jacob Calvin Meyer",
@@ -8210,23 +8228,31 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/ex-f1-boss-bernie-ecclestone-to-be-charged-with-fr/"
+      "url": "/news/2022/jul/11/its-time-pro-football-hall-fame-voters-right-wrong/"
     },
     {
-      "text": "Ex-F1 boss Ecclestone to be charged with fraud over assets",
-      "url": "/news/2022/jul/11/ex-f1-boss-bernie-ecclestone-to-be-charged-with-fr/"
+      "text": "LOVERRO: It\u2019s time for Hall of Fame voters to right the wrong done to Jacoby",
+      "url": "/news/2022/jul/11/its-time-pro-football-hall-fame-voters-right-wrong/"
+    },
+    {
+      "text": "Thom Loverro",
+      "url": "https://www.washingtontimes.com/staff/thom-loverro/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/capitals-enter-chaotic-goalie-market-after-trading/"
+      "url": "/news/2022/jul/11/chase-elliott-emerges-clear-favorite-wild-nascar-c/"
     },
     {
-      "text": "Capitals enter \u2018chaotic\u2019 goalie market after trading Vanecek",
-      "url": "/news/2022/jul/10/capitals-enter-chaotic-goalie-market-after-trading/"
+      "text": "Three-time winner Elliott steady as a rock in wild NASCAR year",
+      "url": "/news/2022/jul/11/chase-elliott-emerges-clear-favorite-wild-nascar-c/"
     },
     {
-      "text": "Jacob Calvin Meyer",
-      "url": "https://www.washingtontimes.com/staff/jacob-calvin-meyer/"
+      "text": "",
+      "url": "/news/2022/jul/11/unvaccinated-novak-djokovics-pursuit-of-rafael-nad/"
+    },
+    {
+      "text": "Unvaccinated Djokovic\u2019s pursuit of Nadal\u2019s Grand Slam title mark on hold",
+      "url": "/news/2022/jul/11/unvaccinated-novak-djokovics-pursuit-of-rafael-nad/"
     },
     {
       "text": "Sponsored Content",
@@ -8270,47 +8296,43 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/insider-documentary-gets-trumps-views-tape-doesnt-/"
+      "url": "/news/2022/jul/11/oath-keepers-leader-stewart-rhodes-listening-jan-6/"
     },
     {
-      "text": "Insider documentary gets Trump\u2019s views on tape but doesn\u2019t have a big reveal",
-      "url": "/news/2022/jul/11/insider-documentary-gets-trumps-views-tape-doesnt-/"
+      "text": "Oath Keepers leader Stewart Rhodes listening to Jan. 6 committee hearings from jail",
+      "url": "/news/2022/jul/11/oath-keepers-leader-stewart-rhodes-listening-jan-6/"
     },
     {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/8/great-power-tensions-biden-face-delicate-balancing/"
-    },
-    {
-      "text": "Diplomatic drama as Biden, Putin weigh G-20 leaders\u2019 summit",
-      "url": "/news/2022/jul/8/great-power-tensions-biden-face-delicate-balancing/"
-    },
-    {
-      "text": "Ben Wolfgang",
-      "url": "https://www.washingtontimes.com/staff/ben-wolfgang/"
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/elon-musk-laughs-legal-threat-twitter/"
+      "url": "/news/2022/jul/11/biden-admin-docs-must-offer-abortion-if-moms-life-/"
     },
     {
-      "text": "Elon Musk laughs off legal threat from Twitter",
-      "url": "/news/2022/jul/11/elon-musk-laughs-legal-threat-twitter/"
-    },
-    {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+      "text": "Biden admin: Docs must offer abortion if mom\u2019s life at risk",
+      "url": "/news/2022/jul/11/biden-admin-docs-must-offer-abortion-if-moms-life-/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/children-teens-got-20-less-daily-exercise-during-p/"
+      "url": "/news/2022/jul/11/ron-johnson-from-tea-party-firebrand-to-trump-loya/"
     },
     {
-      "text": "Study: Children, teens got 20% less daily exercise during pandemic",
-      "url": "/news/2022/jul/11/children-teens-got-20-less-daily-exercise-during-p/"
+      "text": "From tea party firebrand to Trump loyalist: Ron Johnson still running on battling Washington elites",
+      "url": "/news/2022/jul/11/ron-johnson-from-tea-party-firebrand-to-trump-loya/"
+    },
+    {
+      "text": "Seth McLaughlin",
+      "url": "https://www.washingtontimes.com/staff/seth-mclaughlin/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/christian-doctors-say-californias-assisted-suicide/"
+    },
+    {
+      "text": "Christian doctors say California\u2019s assisted suicide law violates their conscience",
+      "url": "/news/2022/jul/11/christian-doctors-say-californias-assisted-suicide/"
     },
     {
       "text": "Sean Salai",
@@ -8318,67 +8340,63 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/11/unification-church-distances-itself-from-abes-assa/"
+      "url": "/news/2022/jul/11/far-out-nasa-space-telescopes-1st-cosmic-view-goes/"
     },
     {
-      "text": "Unification Church distances itself from Abe\u2019s assassination",
-      "url": "/news/2022/jul/11/unification-church-distances-itself-from-abes-assa/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/8/josh-hawleys-national-political-ambitions-irk-fell/"
-    },
-    {
-      "text": "Sen. Josh Hawley\u2019s national political ambitions irk fellow Missouri lawmakers",
-      "url": "/news/2022/jul/8/josh-hawleys-national-political-ambitions-irk-fell/"
-    },
-    {
-      "text": "Mica Soellner",
-      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
+      "text": "Far out: NASA space telescope\u2019s 1st cosmic view goes deep",
+      "url": "/news/2022/jul/11/far-out-nasa-space-telescopes-1st-cosmic-view-goes/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/chuck-schumer-tests-positive-covid-19/"
+      "url": "/news/2022/jul/11/paul-ryan-was-horrified-left-sobbing-jan-6-attack-/"
     },
     {
-      "text": "Senate majority leader tests positive for COVID-19",
-      "url": "/news/2022/jul/10/chuck-schumer-tests-positive-covid-19/"
+      "text": "Paul Ryan was horrified, left sobbing as Jan. 6 attack unfolded at U.S. Capitol, says new book",
+      "url": "/news/2022/jul/11/paul-ryan-was-horrified-left-sobbing-jan-6-attack-/"
     },
     {
-      "text": "Susan Ferrechio",
-      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/11/over-the-counter-birth-control-drugmaker-seeks-fda/"
-    },
-    {
-      "text": "Over-the-counter birth control? Drugmaker seeks FDA approval",
-      "url": "/news/2022/jul/11/over-the-counter-birth-control-drugmaker-seeks-fda/"
+      "text": "Tom Howell Jr.",
+      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/8/republican-lawmakers-slam-biden-administration-gra/"
+      "url": "/news/2022/jul/11/white-house-braces-june-inflation-numbers-be-highl/"
     },
     {
-      "text": "Republican lawmakers blast Biden administration grant to protect atheists overseas",
-      "url": "/news/2022/jul/8/republican-lawmakers-slam-biden-administration-gra/"
+      "text": "White House braces for June inflation numbers to be \u2018highly elevated\u2019",
+      "url": "/news/2022/jul/11/white-house-braces-june-inflation-numbers-be-highl/"
     },
     {
-      "text": "Mark A. Kellner",
-      "url": "https://www.washingtontimes.com/staff/mark-a-kellner/"
+      "text": "Jeff Mordock",
+      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/10/pentagons-own-supply-military-aid-going-ukraine-wo/"
+      "url": "/news/2022/jul/11/gas-pipeline-shutdown-starts-amid-german-suspicion/"
     },
     {
-      "text": "Ukraine gets $400 million of U.S. war supplies; analysts ask how long it can go on",
-      "url": "/news/2022/jul/10/pentagons-own-supply-military-aid-going-ukraine-wo/"
+      "text": "Gas pipeline shutdown starts amid German suspicion of Russia",
+      "url": "/news/2022/jul/11/gas-pipeline-shutdown-starts-amid-german-suspicion/"
     },
     {
-      "text": "Mike Glenn",
-      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
+      "text": "",
+      "url": "/news/2022/jul/11/house-jan-6-committee-postpones-thursdays-primetim/"
+    },
+    {
+      "text": "House Jan. 6 committee postpones Thursday\u2019s primetime hearing",
+      "url": "/news/2022/jul/11/house-jan-6-committee-postpones-thursdays-primetim/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/olympian-injured-in-downtown-los-angeles-attack/"
+    },
+    {
+      "text": "Olympian injured in downtown Los Angeles attack",
+      "url": "/news/2022/jul/11/olympian-injured-in-downtown-los-angeles-attack/"
     },
     {
       "text": "",
@@ -8409,28 +8427,16 @@
       "url": ""
     },
     {
-      "text": "Everett Piper",
-      "url": "/staff/everett-piper/"
+      "text": "Charles Hurt",
+      "url": "/staff/charles-hurt/"
     },
     {
-      "text": "The canine behavior of the LGBTQ cabal",
-      "url": "/news/2022/jul/10/the-canine-behavior-of-the-lgbtq-cabal/"
+      "text": "Biden gives hope to imbeciles everywhere",
+      "url": "/news/2022/jul/11/biden-gives-hope-to-imbeciles-everywhere/"
     },
     {
-      "text": "",
-      "url": ""
-    },
-    {
-      "text": "",
-      "url": ""
-    },
-    {
-      "text": "Robert Knight",
-      "url": "/staff/robert-knight/"
-    },
-    {
-      "text": "A lofty fight against the left\u2019s Godless modernity",
-      "url": "/news/2022/jul/10/a-lofty-fight-against-the-lefts-godless-modernity/"
+      "text": "How about a select committee on Biden family corruption?",
+      "url": "/news/2022/jul/11/how-about-a-select-committee-on-biden-family-corru/"
     },
     {
       "text": "MORE COLUMNISTS ",
@@ -8518,59 +8524,55 @@
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/10/the-canine-behavior-of-the-lgbtq-cabal/"
+      "url": "/news/2022/jul/11/biden-gives-hope-to-imbeciles-everywhere/"
     },
     {
-      "text": "The canine behavior of the LGBTQ cabal",
-      "url": "/news/2022/jul/10/the-canine-behavior-of-the-lgbtq-cabal/"
+      "text": "Biden gives hope to imbeciles everywhere",
+      "url": "/news/2022/jul/11/biden-gives-hope-to-imbeciles-everywhere/"
     },
     {
-      "text": "Everett Piper",
-      "url": "https://www.washingtontimes.com/staff/everett-piper/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/8/reparations-the-lefts-new-segregation/"
-    },
-    {
-      "text": "Reparations: The left\u2019s new segregation",
-      "url": "/news/2022/jul/8/reparations-the-lefts-new-segregation/"
-    },
-    {
-      "text": "Tom Basile",
-      "url": "https://www.washingtontimes.com/staff/tom-basile/"
+      "text": "Charles Hurt",
+      "url": "https://www.washingtontimes.com/staff/charles-hurt/"
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/9/desperate-democrats-start-pressing-for-energy-taxe/"
+      "url": "/news/2022/jul/11/supreme-court-handing-power-back-to-the-people/"
     },
     {
-      "text": "Desperate Democrats start pressing for energy taxes",
-      "url": "/news/2022/jul/9/desperate-democrats-start-pressing-for-energy-taxe/"
-    },
-    {
-      "text": "Michael McKenna",
-      "url": "https://www.washingtontimes.com/staff/michael-mckenna/"
+      "text": "Supreme Court handing power back to the people",
+      "url": "/news/2022/jul/11/supreme-court-handing-power-back-to-the-people/"
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/10/a-lofty-fight-against-the-lefts-godless-modernity/"
+      "url": "/news/2022/jul/11/bidens-wealthy-and-clueless-white-house/"
     },
     {
-      "text": "A lofty fight against the left\u2019s Godless modernity",
-      "url": "/news/2022/jul/10/a-lofty-fight-against-the-lefts-godless-modernity/"
+      "text": "Biden\u2019s wealthy and clueless White House",
+      "url": "/news/2022/jul/11/bidens-wealthy-and-clueless-white-house/"
     },
     {
-      "text": "Robert Knight",
-      "url": "https://www.washingtontimes.com/staff/robert-knight/"
+      "text": "Rowan Scarborough",
+      "url": "https://www.washingtontimes.com/staff/rowan-scarborough/"
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/9/parents-are-demanding-more-control-over-the-childr/"
+      "url": "/news/2022/jul/11/how-about-a-select-committee-on-biden-family-corru/"
     },
     {
-      "text": "Parents are demanding more control over the children\u2019s education",
-      "url": "/news/2022/jul/9/parents-are-demanding-more-control-over-the-childr/"
+      "text": "How about a select committee on Biden family corruption?",
+      "url": "/news/2022/jul/11/how-about-a-select-committee-on-biden-family-corru/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
+      "url": "/news/2022/jul/11/bidens-slanderous-rush-to-judgment-of-the-texas-bo/"
+    },
+    {
+      "text": "Biden\u2019s slanderous rush to judgment of the Texas Border Patrol",
+      "url": "/news/2022/jul/11/bidens-slanderous-rush-to-judgment-of-the-texas-bo/"
+    },
+    {
+      "text": "Cal Thomas",
+      "url": "https://www.washingtontimes.com/staff/cal-thomas/"
     },
     {
       "text": "Latest Cartoon",
@@ -8581,7 +8583,7 @@
       "url": "/cartoons/"
     },
     {
-      "text": "Merrick Garland's recipe for disaster",
+      "text": "American Rescue Plan",
       "url": "/cartoons/"
     },
     {
@@ -8697,52 +8699,56 @@
       "url": "/news/local/"
     },
     {
+      "text": "No bond for 2 charged in connection with alleged July 4 plot",
+      "url": "/news/2022/jul/11/no-bond-for-2-charged-in-connection-with-alleged-j/"
+    },
+    {
+      "text": "Pastors say Roe a likely factor in vandalism at three Bethesda churches",
+      "url": "/news/2022/jul/11/pastors-say-roe-likely-factor-vandalism-three-beth/"
+    },
+    {
       "text": "Biden team secures 3.2M doses of Novavax COVID-19 vaccine ahead of FDA action",
       "url": "/news/2022/jul/11/biden-team-secures-32m-doses-of-novavax-covid-19-v/"
-    },
-    {
-      "text": "Three Montgomery County churches vandalized, torched in possible bias incident",
-      "url": "/news/2022/jul/10/three-montgomery-county-churches-vandalized-torche/"
-    },
-    {
-      "text": "Virginia Gov. Glenn Youngkin pushes for 15-week abortion ban",
-      "url": "/news/2022/jul/10/virginia-gov-glenn-youngkin-pushes-15-week-abortio/"
     },
     {
       "text": "World",
       "url": "/news/world/"
     },
     {
-      "text": "Putin extends fast-track Russian citizenship to all Ukraine",
-      "url": "/news/2022/jul/11/putin-extends-fast-track-russian-citizenship-to-al/"
+      "text": "Gas pipeline shutdown starts amid German suspicion of Russia",
+      "url": "/news/2022/jul/11/gas-pipeline-shutdown-starts-amid-german-suspicion/"
     },
     {
-      "text": "Ukraine says U.S.-made HIMARS rockets are a game-changer",
-      "url": "/news/2022/jul/11/ukraine-says-us-made-himars-rockets-are-game-chang/"
+      "text": "On protest anniversary, Cuba, U.S. far apart on what happened",
+      "url": "/news/2022/jul/11/on-protest-anniversary-cuba-us-far-apart-on-what-h/"
     },
     {
-      "text": "Delicate mission: Biden heads to Mideast, Saudi Arabia as global energy prices soar",
-      "url": "/news/2022/jul/10/delicate-mission-biden-heads-mideast-saudi-arabia-/"
+      "text": "Indictment reveals new details of Chinese targeting of dissidents",
+      "url": "/news/2022/jul/11/indictment-reveals-new-details-chinese-targeting-d/"
     },
     {
       "text": "Business & Economy",
       "url": "/news/business-economy/"
     },
     {
-      "text": "Uber lobbied, used \u2018stealth\u2019 tech to block scrutiny: Report",
-      "url": "/news/2022/jul/10/uber-lobbied-used-stealth-tech-to-block-scrutiny-r/"
+      "text": "Gas pipeline shutdown starts amid German suspicion of Russia",
+      "url": "/news/2022/jul/11/gas-pipeline-shutdown-starts-amid-german-suspicion/"
     },
     {
-      "text": "Looming Musk-Twitter legal battle drags on company shares",
-      "url": "/news/2022/jul/11/looming-musk-twitter-legal-battle-drags-on-company/"
+      "text": "On protest anniversary, Cuba, U.S. far apart on what happened",
+      "url": "/news/2022/jul/11/on-protest-anniversary-cuba-us-far-apart-on-what-h/"
     },
     {
-      "text": "Diplomatic drama as Biden, Putin weigh G-20 leaders\u2019 summit",
-      "url": "/news/2022/jul/8/great-power-tensions-biden-face-delicate-balancing/"
+      "text": "White House braces for June inflation numbers to be \u2018highly elevated\u2019",
+      "url": "/news/2022/jul/11/white-house-braces-june-inflation-numbers-be-highl/"
     },
     {
       "text": "Faith & Family",
       "url": "/news/faith-family/"
+    },
+    {
+      "text": "Pastors say Roe a likely factor in vandalism at three Bethesda churches",
+      "url": "/news/2022/jul/11/pastors-say-roe-likely-factor-vandalism-three-beth/"
     },
     {
       "text": "Democrats accused of overreacting with rush to ban abortion extraditions",
@@ -8751,10 +8757,6 @@
     {
       "text": "Christian doctors say California\u2019s assisted suicide law violates their conscience",
       "url": "/news/2022/jul/11/christian-doctors-say-californias-assisted-suicide/"
-    },
-    {
-      "text": "Pro-life groups urge Congress to spurn push for abortion clinics on federal land",
-      "url": "/news/2022/jul/11/pro-life-groups-urge-congress-spurn-push-abortion-/"
     },
     {
       "text": "Health",
@@ -8777,6 +8779,10 @@
       "url": "/culture/entertainment/"
     },
     {
+      "text": "\u2018Where the Crawdads Sing\u2019 comes to life and to the screen",
+      "url": "/news/2022/jul/11/where-the-crawdads-sing-comes-to-life-and-to-the-s/"
+    },
+    {
       "text": "Elon Musk laughs off legal threat from Twitter",
       "url": "/news/2022/jul/11/elon-musk-laughs-legal-threat-twitter/"
     },
@@ -8785,12 +8791,12 @@
       "url": "/news/2022/jul/10/amber-heards-attorney-says-juror-served-improperly/"
     },
     {
-      "text": "Report: WWE boss McMahon\u2019s hush cash bill over $12 million",
-      "url": "/news/2022/jul/9/report-wwe-boss-mcmahons-hush-cash-bill-over-12-mi/"
-    },
-    {
       "text": "Travel",
       "url": "/culture/travel/"
+    },
+    {
+      "text": "California heat builds as crews protect Yosemite sequoias",
+      "url": "/news/2022/jul/11/california-heat-builds-as-crews-protect-yosemite-s/"
     },
     {
       "text": "Withering drought shows Lake Mead boat graveyard",
@@ -8801,24 +8807,20 @@
       "url": "/news/2022/jul/11/macao-streets-empty-after-casinos-shut-to-fight-ou/"
     },
     {
-      "text": "Pamplona\u2019s running of the bulls: 3 people gored at San Fermin Festival",
-      "url": "/news/2022/jul/11/pamplona-spains-running-of-the-bulls-3-people-gore/"
-    },
-    {
       "text": "Technology",
       "url": "/culture/technology/"
     },
     {
+      "text": "Far out: NASA space telescope\u2019s 1st cosmic view goes deep",
+      "url": "/news/2022/jul/11/far-out-nasa-space-telescopes-1st-cosmic-view-goes/"
+    },
+    {
+      "text": "What happens next in the Musk-Twitter saga?",
+      "url": "/news/2022/jul/11/what-happens-next-in-the-musk-twitter-saga/"
+    },
+    {
       "text": "Elon Musk laughs off legal threat from Twitter",
       "url": "/news/2022/jul/11/elon-musk-laughs-legal-threat-twitter/"
-    },
-    {
-      "text": "Looming Musk-Twitter legal battle drags on company shares",
-      "url": "/news/2022/jul/11/looming-musk-twitter-legal-battle-drags-on-company/"
-    },
-    {
-      "text": "Facebook, Twitter remove Shinzo Abe assassination videos",
-      "url": "/news/2022/jul/8/facebook-twitter-remove-shinzo-abe-assassination-v/"
     },
     {
       "text": "Energy & Environment",
@@ -8841,16 +8843,16 @@
       "url": "/specials/coronavirus-covid-19-pandemic-updates/"
     },
     {
-      "text": "Senate majority leader tests positive for COVID-19",
-      "url": "/news/2022/jul/10/chuck-schumer-tests-positive-covid-19/"
+      "text": "Biden team secures 3.2M doses of Novavax COVID-19 vaccine ahead of FDA action",
+      "url": "/news/2022/jul/11/biden-team-secures-32m-doses-of-novavax-covid-19-v/"
     },
     {
       "text": "Second Amendment & Gun Control",
       "url": "/specials/second-amendment-and-gun-control/"
     },
     {
-      "text": "House investigators want gun companies to testify on marketing in wake of mass shootings",
-      "url": "/news/2022/jul/8/house-investigators-want-gun-companies-testify-mar/"
+      "text": "Biden celebration of new gun law clouded by latest shooting",
+      "url": "/news/2022/jul/11/biden-celebration-of-new-gun-law-clouded-by-latest/"
     },
     {
       "text": "Immigration Reform",
@@ -9358,7 +9360,7 @@
     }
   ],
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

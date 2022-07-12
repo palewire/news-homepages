@@ -1,5 +1,5 @@
 {
-  "created": 1657587340,
+  "created": 1657600593,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/35/items/theobserver-2022",
@@ -164,31 +164,63 @@
       "sha1": "131ecd116eccfd3c8261aca611f78e62f86d73f7"
     },
     {
+      "name": "theobserver-2022-07-12T00:35:11.840020-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657600515",
+      "size": "466",
+      "md5": "c88d4749c4a00dbd60e320c533961db2",
+      "crc32": "2df60e17",
+      "sha1": "ee742106bd8deb4a84a3233d2f77260670039723",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-07-12T00:35:11.840020-04:00.jpg",
+      "source": "original",
+      "mtime": "1657600513",
+      "size": "254193",
+      "md5": "6f5a49fdb5bcc8b7a129c8ea7db8e749",
+      "crc32": "3641b279",
+      "sha1": "bb2c3ee1be82895af7990b668b0b06fe7737f142",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theobserver-2022-07-12T00:35:11.840020-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theobserver-2022-07-12T00:35:11.840020-04:00.jpg",
+      "mtime": "1657600570",
+      "size": "9167",
+      "md5": "1a03e4a865d657b42fe936cacf0d4036",
+      "crc32": "bedcfabe",
+      "sha1": "6eb4a576ab03179642548e96935e719f2bc27752"
+    },
+    {
       "name": "theobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d66a208574eb359ecf405957aa8fe2700c4fd2d6",
-      "mtime": "1657565339",
-      "size": "4621",
-      "md5": "458e9c61e9cd1352b9cba721fb8d6913",
-      "crc32": "23cb7992",
-      "sha1": "8c3fa5cfd347f522d2a4a8b180a8542d5531c0c2",
+      "btih": "a473432943fb27a79703aa0909dfe26c27f7ab5c",
+      "mtime": "1657600574",
+      "size": "5246",
+      "md5": "3ae10693e66df9fb952c6d1b21bc31f1",
+      "crc32": "b307f5cd",
+      "sha1": "f8a01d3f07d8cfc705702a98035ff803db61f31f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7d045cd7c0b30044c047058af7afcd3",
+      "md5": "6af6a977e606cfa81ae2fbb33f404034",
       "summation": "md5"
     },
     {
       "name": "theobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657565270",
+      "mtime": "1657600520",
       "size": "36864",
-      "md5": "37ce90669dd0b512d4a9436323527eae",
-      "crc32": "652ba0de",
-      "sha1": "1da443feb1472c065de0a6a65defb8c348c7edd1",
+      "md5": "4523a1c59be483179030386de5ec8fe4",
+      "crc32": "6a36f1e4",
+      "sha1": "23ca2990d7593bc5ce3f66a0a20f4558a046206b",
       "format": "Metadata"
     },
     {
@@ -202,9 +234,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1657565339,
-  "item_size": 1142321,
+  "files_count": 22,
+  "item_last_updated": 1657600574,
+  "item_size": 1406772,
   "metadata": {
     "identifier": "theobserver-2022",
     "collection": [
@@ -221,29 +253,10 @@
     "publicdate": "2022-07-10 14:53:55",
     "addeddate": "2022-07-10 14:53:55"
   },
-  "server": "ia801409.us.archive.org",
-  "theobserver-2022": {
-    "role": "WebArea",
-    "name": "Access Denied",
-    "children": [
-      {
-        "role": "heading",
-        "name": "Access Denied",
-        "level": 1
-      },
-      {
-        "role": "text",
-        "name": "You don't have permission to access \"http://www.charlotteobserver.com/\" on this server."
-      },
-      {
-        "role": "text",
-        "name": "Reference #18.d32b2117.1657560924.23d4846"
-      }
-    ]
-  },
-  "uniq": 134787300,
+  "server": "ia601409.us.archive.org",
+  "uniq": 217769753,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

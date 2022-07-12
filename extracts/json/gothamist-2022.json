@@ -1,5 +1,5 @@
 {
-  "created": 1657564215,
+  "created": 1657628105,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/20/items/gothamist-2022",
@@ -730,31 +730,73 @@
       "sha1": "cfd79a0021722fe40ca1cf950f59148810a9b6c3"
     },
     {
+      "name": "gothamist-2022-07-11T20:52:20.520209-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657587144",
+      "size": "26973",
+      "md5": "c3efd1ab01c9a5bf9bee1a1ad62a631c",
+      "crc32": "28f151f4",
+      "sha1": "ffd55bd414f11d79225e6c34f33107b6b5dcd919",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-07-11T20:52:20.520209-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657587147",
+      "size": "18468",
+      "md5": "2a3e3df8b5a54c765d6a99944bca8629",
+      "crc32": "4ae64306",
+      "sha1": "9feb4935f742681a1cdba2024b3365b96bebb222",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-07-11T20:52:20.520209-04:00.jpg",
+      "source": "original",
+      "mtime": "1657587142",
+      "size": "222521",
+      "md5": "3e47ef535d29db25d4b2ce7180c07ab4",
+      "crc32": "048d6093",
+      "sha1": "0f51948255a3cd658fb8fd89e4874e3bc6a8602b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gothamist-2022-07-11T20:52:20.520209-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gothamist-2022-07-11T20:52:20.520209-04:00.jpg",
+      "mtime": "1657587196",
+      "size": "8419",
+      "md5": "82b7330c03a70ee4005deda7fee67f8a",
+      "crc32": "0c84320a",
+      "sha1": "edec9468c6f9721a340632f225191b434b5bd736"
+    },
+    {
       "name": "gothamist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "343221a99b76e6cdae583740e15b656a68a62566",
-      "mtime": "1657564206",
-      "size": "15957",
-      "md5": "2033dd0448f93adf8e740279e131b22d",
-      "crc32": "44a8e42e",
-      "sha1": "8d52a801766eae4c6d8b6f58524e76c1589428ed",
+      "btih": "5e94ad8f2e1ab9f0383918ded72d99a9daf8289f",
+      "mtime": "1657587198",
+      "size": "16811",
+      "md5": "51ae35db22511bca5339e6ed3e21cc4e",
+      "crc32": "5419502d",
+      "sha1": "c81580efcf70f52431b116a2a9106143209e0989",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "510992d401e9a0650efdbd58bc66701c",
+      "md5": "515a00f3b93960cbdd0f8f2d2bdcc1f2",
       "summation": "md5"
     },
     {
       "name": "gothamist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657564146",
-      "size": "90112",
-      "md5": "c1fcfed1561cffd4159a0dbfbc1b936b",
-      "crc32": "556be4b9",
-      "sha1": "f8947d2f3b1cb06d60ac13c4ffaaf37e79c5c57a",
+      "mtime": "1657587152",
+      "size": "102400",
+      "md5": "35ee49bf5a1eaf4030a24ea9aeb54b8b",
+      "crc32": "73126198",
+      "sha1": "b138091e7c8a45b290936524f3ae2968b3c9b45b",
       "format": "Metadata"
     },
     {
@@ -768,9 +810,619 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 73,
-  "item_last_updated": 1657564206,
-  "item_size": 4695107,
+  "files_count": 77,
+  "gothamist-2022": [
+    {
+      "text": "Gothamist                    Gothamist                    ",
+      "url": "/"
+    },
+    {
+      "text": " \n        News\n       ",
+      "url": "/news/"
+    },
+    {
+      "text": " \n        Arts & Entertainment\n       ",
+      "url": "/arts-entertainment/"
+    },
+    {
+      "text": " \n        Eric Adams\n       ",
+      "url": "/tags/eric-adams/"
+    },
+    {
+      "text": " \n        We the Commuters\n       ",
+      "url": "/tags/we-the-commuters/"
+    },
+    {
+      "text": " \n        COVID Updates\n       ",
+      "url": "/tags/covid-19/"
+    },
+    {
+      "text": "\n      Newsletter\n      (New tab)",
+      "url": "https://gothamist.com/newsletter"
+    },
+    {
+      "text": " \n    Donate\n  ",
+      "url": "https://pledge3.wnyc.org/donate/gothamist/onestep/?utm_medium=partnersite&utm_source=gothamist&utm_campaign=brandheader"
+    },
+    {
+      "text": " ",
+      "url": "/news/a-city-correction-officer-is-fired-after-yet-another-person-dies-at-rikers"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "A city correction officer is fired after yet another person dies at Rikers ",
+      "url": "/news/a-city-correction-officer-is-fired-after-yet-another-person-dies-at-rikers"
+    },
+    {
+      "text": "Comment   3 ",
+      "url": "/news/a-city-correction-officer-is-fired-after-yet-another-person-dies-at-rikers#comments"
+    },
+    {
+      "text": " ",
+      "url": "/arts-entertainment/groundbreaking-artist-virgil-abloh-is-remembered-at-the-brooklyn-museum"
+    },
+    {
+      "text": "Arts & Entertainment",
+      "url": "/arts-entertainment"
+    },
+    {
+      "text": "Groundbreaking artist Virgil Abloh is remembered at the Brooklyn Museum ",
+      "url": "/arts-entertainment/groundbreaking-artist-virgil-abloh-is-remembered-at-the-brooklyn-museum"
+    },
+    {
+      "text": "Comment   8 ",
+      "url": "/arts-entertainment/groundbreaking-artist-virgil-abloh-is-remembered-at-the-brooklyn-museum#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/janet-difiore-new-yorks-top-judge-to-step-down-aug-31"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Janet DiFiore, New York\u2019s top judge, to step down Aug. 31 ",
+      "url": "/news/janet-difiore-new-yorks-top-judge-to-step-down-aug-31"
+    },
+    {
+      "text": "Comment   31 ",
+      "url": "/news/janet-difiore-new-yorks-top-judge-to-step-down-aug-31#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/dead-humpback-whale-found-in-new-jersey-marina"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Dead humpback whale found in New Jersey marina ",
+      "url": "/news/dead-humpback-whale-found-in-new-jersey-marina"
+    },
+    {
+      "text": "Comment   10 ",
+      "url": "/news/dead-humpback-whale-found-in-new-jersey-marina#comments"
+    },
+    {
+      "text": " ",
+      "url": "/arts-entertainment/glee-star-lea-michele-will-replace-beanie-feldstein-in-broadways-funny-girl"
+    },
+    {
+      "text": "Arts & Entertainment",
+      "url": "/arts-entertainment"
+    },
+    {
+      "text": "Glee star Lea Michele will replace Beanie Feldstein in Broadway's Funny Girl ",
+      "url": "/arts-entertainment/glee-star-lea-michele-will-replace-beanie-feldstein-in-broadways-funny-girl"
+    },
+    {
+      "text": "Comment   9 ",
+      "url": "/arts-entertainment/glee-star-lea-michele-will-replace-beanie-feldstein-in-broadways-funny-girl#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/extra-extra-if-nyc-gets-nuked-go-inside-and-watch-the-news-city-advises"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Extra Extra: If NYC gets nuked, go inside and watch the news, city advises ",
+      "url": "/news/extra-extra-if-nyc-gets-nuked-go-inside-and-watch-the-news-city-advises"
+    },
+    {
+      "text": "Comment   91 ",
+      "url": "/news/extra-extra-if-nyc-gets-nuked-go-inside-and-watch-the-news-city-advises#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/early-addition-ants-are-the-new-cockroaches"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Early Addition: Ants are the new cockroaches ",
+      "url": "/news/early-addition-ants-are-the-new-cockroaches"
+    },
+    {
+      "text": "Comment   192 ",
+      "url": "/news/early-addition-ants-are-the-new-cockroaches#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/three-teenagers-dead-after-staten-island-car-crash"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Three teenagers dead after Staten Island car crash ",
+      "url": "/news/three-teenagers-dead-after-staten-island-car-crash"
+    },
+    {
+      "text": "Comment   66 ",
+      "url": "/news/three-teenagers-dead-after-staten-island-car-crash#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/affordable-housing-in-one-of-nycs-most-expensive-neighborhoods-becomes-litmus-test-in-competitive-congressional-race"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Affordable housing in one of NYC\u2019s most expensive neighborhoods becomes litmus test in competitive congressional race ",
+      "url": "/news/affordable-housing-in-one-of-nycs-most-expensive-neighborhoods-becomes-litmus-test-in-competitive-congressional-race"
+    },
+    {
+      "text": " ",
+      "url": "/news/after-violent-weekend-in-nyc-mayor-adams-wants-expeditious-release-of-police-body-camera-footage"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "After violent weekend in NYC, Mayor Adams wants \u2018expeditious\u2019 release of police body camera footage ",
+      "url": "/news/after-violent-weekend-in-nyc-mayor-adams-wants-expeditious-release-of-police-body-camera-footage"
+    },
+    {
+      "text": "Comment   187 ",
+      "url": "/news/after-violent-weekend-in-nyc-mayor-adams-wants-expeditious-release-of-police-body-camera-footage#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/recent-shark-attacks-shouldnt-deter-swimmers-long-island-official"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Recent shark attacks shouldn't deter swimmers: Long Island official ",
+      "url": "/news/recent-shark-attacks-shouldnt-deter-swimmers-long-island-official"
+    },
+    {
+      "text": "Comment   18 ",
+      "url": "/news/recent-shark-attacks-shouldnt-deter-swimmers-long-island-official#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/2-men-killed-by-nypd-officers-in-separate-incidents-in-queens-brooklyn"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "2 men killed by NYPD officers in separate incidents in Queens, Brooklyn ",
+      "url": "/news/2-men-killed-by-nypd-officers-in-separate-incidents-in-queens-brooklyn"
+    },
+    {
+      "text": "Comment   71 ",
+      "url": "/news/2-men-killed-by-nypd-officers-in-separate-incidents-in-queens-brooklyn#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/sensors-carried-by-cars-begin-measuring-air-quality-in-new-york-city"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Sensors carried by cars begin measuring air quality in New York City ",
+      "url": "/news/sensors-carried-by-cars-begin-measuring-air-quality-in-new-york-city"
+    },
+    {
+      "text": " ",
+      "url": "/arts-entertainment/new-yorkers-are-chuffed-to-have-a-grassy-seat-for-wimbledon-without-crossing-the-pond"
+    },
+    {
+      "text": "Arts & Entertainment",
+      "url": "/arts-entertainment"
+    },
+    {
+      "text": "New Yorkers are 'chuffed' to have a grassy seat for Wimbledon without crossing the pond ",
+      "url": "/arts-entertainment/new-yorkers-are-chuffed-to-have-a-grassy-seat-for-wimbledon-without-crossing-the-pond"
+    },
+    {
+      "text": "Comment   8 ",
+      "url": "/arts-entertainment/new-yorkers-are-chuffed-to-have-a-grassy-seat-for-wimbledon-without-crossing-the-pond#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/new-wave-of-fast-delivery-stores-spark-worries-they-threaten-bodegas-isolate-poor-new-yorkers"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "New wave of fast-delivery stores spark worries they threaten bodegas, isolate poor New Yorkers ",
+      "url": "/news/new-wave-of-fast-delivery-stores-spark-worries-they-threaten-bodegas-isolate-poor-new-yorkers"
+    },
+    {
+      "text": "Comment   105 ",
+      "url": "/news/new-wave-of-fast-delivery-stores-spark-worries-they-threaten-bodegas-isolate-poor-new-yorkers#comments"
+    },
+    {
+      "text": " ",
+      "url": "/arts-entertainment/guggenheim-museum-director-richard-armstrong-announces-plans-to-step-down"
+    },
+    {
+      "text": "Arts & Entertainment",
+      "url": "/arts-entertainment"
+    },
+    {
+      "text": "Guggenheim Museum director Richard Armstrong announces plans to step down ",
+      "url": "/arts-entertainment/guggenheim-museum-director-richard-armstrong-announces-plans-to-step-down"
+    },
+    {
+      "text": "Comment   6 ",
+      "url": "/arts-entertainment/guggenheim-museum-director-richard-armstrong-announces-plans-to-step-down#comments"
+    },
+    {
+      "text": " ",
+      "url": "/arts-entertainment/weekend-arts-planner-nam-june-paik-pedrito-martinez"
+    },
+    {
+      "text": "Arts & Entertainment",
+      "url": "/arts-entertainment"
+    },
+    {
+      "text": "Weekend arts planner: Nam June Paik, Pedrito Martinez ",
+      "url": "/arts-entertainment/weekend-arts-planner-nam-june-paik-pedrito-martinez"
+    },
+    {
+      "text": "Comment   1 ",
+      "url": "/arts-entertainment/weekend-arts-planner-nam-june-paik-pedrito-martinez#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/bronx-tenants-sue-landlord-of-building-with-nearly-500-housing-violations"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Bronx tenants sue landlord of building with nearly 500 housing violations ",
+      "url": "/news/bronx-tenants-sue-landlord-of-building-with-nearly-500-housing-violations"
+    },
+    {
+      "text": "Comment   24 ",
+      "url": "/news/bronx-tenants-sue-landlord-of-building-with-nearly-500-housing-violations#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/extra-extra-were-shaking-hands-again"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Extra Extra: We're shaking hands again ",
+      "url": "/news/extra-extra-were-shaking-hands-again"
+    },
+    {
+      "text": "Comment   136 ",
+      "url": "/news/extra-extra-were-shaking-hands-again#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/new-standard-opponents-celebrate-collapse-of-amazons-plans-for-newark-airport"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "'A new standard' \u2014 opponents celebrate collapse of Amazon's plans for Newark airport ",
+      "url": "/news/new-standard-opponents-celebrate-collapse-of-amazons-plans-for-newark-airport"
+    },
+    {
+      "text": "Comment   46 ",
+      "url": "/news/new-standard-opponents-celebrate-collapse-of-amazons-plans-for-newark-airport#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/a-day-after-nyc-launches-push-to-crack-down-on-covered-plates-nypd-officers-flout-the-rule"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "A day after NYC launches push to crack down on covered plates, NYPD officers flout the rule ",
+      "url": "/news/a-day-after-nyc-launches-push-to-crack-down-on-covered-plates-nypd-officers-flout-the-rule"
+    },
+    {
+      "text": "Comment   38 ",
+      "url": "/news/a-day-after-nyc-launches-push-to-crack-down-on-covered-plates-nypd-officers-flout-the-rule#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/nyc-high-covid-level-mayor-adams-administration-pcr-test-site-closures"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "NYC returns to 'high' COVID level as Adams admin gives conflicting answers on test site closures ",
+      "url": "/news/nyc-high-covid-level-mayor-adams-administration-pcr-test-site-closures"
+    },
+    {
+      "text": "Comment   122 ",
+      "url": "/news/nyc-high-covid-level-mayor-adams-administration-pcr-test-site-closures#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/early-addition-before-george-costanzas-shrinkage-there-was-no-word-for-shrinkage"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Early Addition: Before George Costanza's 'shrinkage' there was no word for shrinkage ",
+      "url": "/news/early-addition-before-george-costanzas-shrinkage-there-was-no-word-for-shrinkage"
+    },
+    {
+      "text": "Comment   243 ",
+      "url": "/news/early-addition-before-george-costanzas-shrinkage-there-was-no-word-for-shrinkage#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/another-lifeguard-attacked-by-shark-off-of-fire-island-officials-say"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Another lifeguard attacked by shark off of Fire Island, officials say ",
+      "url": "/news/another-lifeguard-attacked-by-shark-off-of-fire-island-officials-say"
+    },
+    {
+      "text": "Comment   48 ",
+      "url": "/news/another-lifeguard-attacked-by-shark-off-of-fire-island-officials-say#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/nypd-shootings-are-down-since-last-year-and-gun-arrests-are-up"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "NYPD: Shootings are down since last year, and gun arrests are up ",
+      "url": "/news/nypd-shootings-are-down-since-last-year-and-gun-arrests-are-up"
+    },
+    {
+      "text": "Comment   13 ",
+      "url": "/news/nypd-shootings-are-down-since-last-year-and-gun-arrests-are-up#comments"
+    },
+    {
+      "text": " \n    Donate\n  ",
+      "url": "https://pledge3.wnyc.org/donate/gothamist/onestep/?utm_medium=partnersite&utm_source=gothamist&utm_campaign=brandheader"
+    },
+    {
+      "text": " ",
+      "url": "/news/as-fears-about-public-safety-loom-many-nypd-officers-leave-the-force"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "As fears about public safety loom, many NYPD officers leave the force ",
+      "url": "/news/as-fears-about-public-safety-loom-many-nypd-officers-leave-the-force"
+    },
+    {
+      "text": "Comment   63 ",
+      "url": "/news/as-fears-about-public-safety-loom-many-nypd-officers-leave-the-force#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/ny-commission-refused-to-name-businesses-distributing-marijuana-then-it-changed-course"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "NY commission refused to name businesses distributing marijuana. Then it changed course. ",
+      "url": "/news/ny-commission-refused-to-name-businesses-distributing-marijuana-then-it-changed-course"
+    },
+    {
+      "text": "Comment   28 ",
+      "url": "/news/ny-commission-refused-to-name-businesses-distributing-marijuana-then-it-changed-course#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/comptroller-nj-towns-flout-sick-time-payout-rules-wasting-taxpayer-dollars"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Comptroller: NJ towns flout sick-time payout rules, wasting taxpayer dollars ",
+      "url": "/news/comptroller-nj-towns-flout-sick-time-payout-rules-wasting-taxpayer-dollars"
+    },
+    {
+      "text": "Comment   13 ",
+      "url": "/news/comptroller-nj-towns-flout-sick-time-payout-rules-wasting-taxpayer-dollars#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/extra-extra-the-hotter-the-planet-the-stinkier-the-mold"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Extra Extra: The hotter the planet, the stinkier the mold ",
+      "url": "/news/extra-extra-the-hotter-the-planet-the-stinkier-the-mold"
+    },
+    {
+      "text": "Comment   122 ",
+      "url": "/news/extra-extra-the-hotter-the-planet-the-stinkier-the-mold#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/dinapoli-warns-of-fiscal-dangers-as-ny-tries-to-emerge-from-pandemic"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "DiNapoli warns of fiscal dangers as NY tries to emerge from pandemic ",
+      "url": "/news/dinapoli-warns-of-fiscal-dangers-as-ny-tries-to-emerge-from-pandemic"
+    },
+    {
+      "text": "Comment   13 ",
+      "url": "/news/dinapoli-warns-of-fiscal-dangers-as-ny-tries-to-emerge-from-pandemic#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/early-addition-foreign-tourists-who-dont-read-tabloid-crime-stories-are-thrilled-to-be-back-in-nyc"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Early Addition: Foreign tourists who don't read tabloid crime stories are thrilled to be back in NYC ",
+      "url": "/news/early-addition-foreign-tourists-who-dont-read-tabloid-crime-stories-are-thrilled-to-be-back-in-nyc"
+    },
+    {
+      "text": "Comment   419 ",
+      "url": "/news/early-addition-foreign-tourists-who-dont-read-tabloid-crime-stories-are-thrilled-to-be-back-in-nyc#comments"
+    },
+    {
+      "text": " ",
+      "url": "/news/three-july-pedestrian-deaths-in-the-bronx-spark-calls-for-safer-streets"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Three July pedestrian deaths in the Bronx spark calls for safer streets ",
+      "url": "/news/three-july-pedestrian-deaths-in-the-bronx-spark-calls-for-safer-streets"
+    },
+    {
+      "text": "Comment   35 ",
+      "url": "/news/three-july-pedestrian-deaths-in-the-bronx-spark-calls-for-safer-streets#comments"
+    },
+    {
+      "text": "\n        News\n      ",
+      "url": "/news"
+    },
+    {
+      "text": "\n        Arts & Entertainment\n      ",
+      "url": "/arts-entertainment"
+    },
+    {
+      "text": "\n        Food\n      ",
+      "url": "/food"
+    },
+    {
+      "text": "gothamist                   ",
+      "url": "/"
+    },
+    {
+      "text": "\n      Advertising\n      (New tab)",
+      "url": "https://sponsorship.wnyc.org"
+    },
+    {
+      "text": " \n        Contact Us\n       ",
+      "url": "/contact/"
+    },
+    {
+      "text": "\n      RSS Feed\n      (New tab)",
+      "url": "https://gothamist.com/feed"
+    },
+    {
+      "text": "\n      Diversity (DEI)\n      (New tab)",
+      "url": "https://www.nypublicradio.org/diversity-dei-overview/"
+    },
+    {
+      "text": "\n      Support Us\n      (New tab)",
+      "url": "https://www.nypublicradio.org/support/"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.wnyc.org/terms/"
+    },
+    {
+      "text": "Facebook ",
+      "url": "https://www.facebook.com/gothamist"
+    },
+    {
+      "text": "Twitter ",
+      "url": "https://twitter.com/gothamist"
+    },
+    {
+      "text": "Instagram  ",
+      "url": "https://www.instagram.com/gothamist"
+    },
+    {
+      "text": "Youtube ",
+      "url": "https://www.youtube.com/channel/UCY_2VeS5Q9_sMZRhtvF0c5Q"
+    },
+    {
+      "text": "\n      Terms Of Use\n      (New tab)",
+      "url": "https://www.wnyc.org/terms"
+    },
+    {
+      "text": "\n      Privacy Policy\n      (New tab)",
+      "url": "https://www.wnyc.org/privacy"
+    },
+    {
+      "text": "\n      Accessibility\n      (New tab)",
+      "url": "https://media.wnyc.org/media/resources/2022/May/06/accessibility_policy_5.6.22.pdf"
+    }
+  ],
+  "item_last_updated": 1657587198,
+  "item_size": 4984630,
   "metadata": {
     "identifier": "gothamist-2022",
     "collection": [
@@ -788,7 +1440,7 @@
     "addeddate": "2022-07-04 21:54:16"
   },
   "server": "ia902508.us.archive.org",
-  "uniq": 2102148533,
+  "uniq": 2128404971,
   "workable_servers": [
     "ia902508.us.archive.org",
     "ia802508.us.archive.org"

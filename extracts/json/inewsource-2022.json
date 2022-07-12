@@ -1,5 +1,5 @@
 {
-  "created": 1657587047,
+  "created": 1657628150,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/31/items/inewsource-2022",
@@ -394,31 +394,73 @@
       "sha1": "ab09f000aa798327d8966a629251f0c674fb44dd"
     },
     {
+      "name": "inewsource-2022-07-11T21:33:23.876371-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657600407",
+      "size": "13502",
+      "md5": "8a4a6e739bb97994d574e6de793efab0",
+      "crc32": "08f1b5f2",
+      "sha1": "0f7a827a0186833eab46e8fb89b8ddbaaae77e61",
+      "format": "JSON"
+    },
+    {
+      "name": "inewsource-2022-07-11T21:33:23.876371-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657600408",
+      "size": "16688",
+      "md5": "299b1b16812804a1b49c18d628cd44cb",
+      "crc32": "7187a970",
+      "sha1": "c6136c2a40ab25a23e2dd08ee8258b165c398c28",
+      "format": "JSON"
+    },
+    {
+      "name": "inewsource-2022-07-11T21:33:23.876371-07:00.jpg",
+      "source": "original",
+      "mtime": "1657600405",
+      "size": "344527",
+      "md5": "94405fb85576f53bfe838424a67a68a3",
+      "crc32": "beb1f6a3",
+      "sha1": "0c822688b425b3e6c3702ac327ebe3b28d9650fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "inewsource-2022-07-11T21:33:23.876371-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "inewsource-2022-07-11T21:33:23.876371-07:00.jpg",
+      "mtime": "1657600454",
+      "size": "10701",
+      "md5": "b54c0f254d34a6fa8b387bb98181c368",
+      "crc32": "4801d44f",
+      "sha1": "8962575804fcba358b421da4b7f3315a9fc5044d"
+    },
+    {
       "name": "inewsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "14f97d890cc71c5c69675ad2130eaec51cb79110",
-      "mtime": "1657567744",
-      "size": "9307",
-      "md5": "c3f2177daf7d3c8671f4b0ccd50be86b",
-      "crc32": "3e7f0535",
-      "sha1": "ff43531310f3d195d94fe9e7d42fcbe18ab11790",
+      "btih": "b1a223b88accb1874f6cf74cec7933d217f84033",
+      "mtime": "1657600458",
+      "size": "10165",
+      "md5": "661da4ea86c6f9139ecef282f5f2b3e9",
+      "crc32": "eca276f5",
+      "sha1": "d22312e8ec74ebfc49db434c91b554c9576f8494",
       "format": "Archive BitTorrent"
     },
     {
       "name": "inewsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1388a84d5b34ebde49f6670cefa8b54b",
+      "md5": "343c32aba85d20448af7e0c1e7b9c98f",
       "summation": "md5"
     },
     {
       "name": "inewsource-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657567600",
-      "size": "57344",
-      "md5": "222c466837da780943051fd7566740b9",
-      "crc32": "5df5c6b8",
-      "sha1": "c5d30e8354fec05afdb4012731e180655d7665e1",
+      "mtime": "1657600412",
+      "size": "61440",
+      "md5": "2be57d872ebbf9759cb9d4d1fe190088",
+      "crc32": "55664380",
+      "sha1": "42180c5f1e9cfd819e81e7f0e14de8eac9c57a2e",
       "format": "Metadata"
     },
     {
@@ -432,7 +474,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 41,
+  "files_count": 45,
   "inewsource-2022": [
     {
       "text": "Yes, I'll help!",
@@ -775,7 +817,7 @@
       "url": "https://inewsource.org/category/coronavirus/"
     },
     {
-      "text": "Second boosters are coming, but experts say transmission could remain high",
+      "text": "Omicron-specific COVID boosters are coming, but transmission could remain high. Here\u2019s why",
       "url": "https://inewsource.org/2022/07/11/covid-boosters-surge/"
     },
     {
@@ -1075,8 +1117,8 @@
       "url": "https://inewsource.org/privacy-policy/"
     }
   ],
-  "item_last_updated": 1657567744,
-  "item_size": 3456001,
+  "item_last_updated": 1657600458,
+  "item_size": 3846373,
   "metadata": {
     "identifier": "inewsource-2022",
     "collection": [
@@ -1093,10 +1135,10 @@
     "publicdate": "2022-07-09 03:59:53",
     "addeddate": "2022-07-09 03:59:53"
   },
-  "server": "ia902506.us.archive.org",
-  "uniq": 1632255792,
+  "server": "ia802506.us.archive.org",
+  "uniq": 609736429,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }
