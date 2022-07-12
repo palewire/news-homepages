@@ -17,7 +17,7 @@ orphan: true
 | Location       | Riverside                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 240 screenshots stored at the Internet Archive.
+The archiving routine has captured 241 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
