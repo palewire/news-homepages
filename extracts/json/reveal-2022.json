@@ -1,5 +1,5 @@
 {
-  "created": 1657541807,
+  "created": 1657587272,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/3/items/reveal-2022",
@@ -2912,31 +2912,73 @@
       "sha1": "e83090017d83af6502ea5e1f79985381362f7d6a"
     },
     {
+      "name": "reveal-2022-07-11T11:12:44.168797-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563170",
+      "size": "15694",
+      "md5": "4c1b2d309f97dfe565fcddefa1a698ba",
+      "crc32": "e0175ce8",
+      "sha1": "6c881346e5279655506b951d8041c1854c2a2fcb",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-07-11T11:12:44.168797-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563174",
+      "size": "25460",
+      "md5": "ae13c9b9bfafde3739bee6b9e96836e0",
+      "crc32": "bd5c4028",
+      "sha1": "a47e33de681d8a9e022f0147256ab4c7ee871dca",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-07-11T11:12:44.168797-07:00.jpg",
+      "source": "original",
+      "mtime": "1657563167",
+      "size": "254927",
+      "md5": "1863d468e9d679be7f489e05b738fc7b",
+      "crc32": "0b559163",
+      "sha1": "90bb780a44c8b75d8a514ca590024a49348fae1c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-07-11T11:12:44.168797-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-07-11T11:12:44.168797-07:00.jpg",
+      "mtime": "1657563256",
+      "size": "9709",
+      "md5": "0d84501d350115208f89f4a137428a3f",
+      "crc32": "698607ca",
+      "sha1": "e83090017d83af6502ea5e1f79985381362f7d6a"
+    },
+    {
       "name": "reveal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bf4f4ebd4b6e1f5e58f08ac45b5725f3f6f95ed4",
-      "mtime": "1657509797",
-      "size": "59056",
-      "md5": "e095c1e9b1f02481a2ec0970ec89af14",
-      "crc32": "ebaeec7b",
-      "sha1": "995dbee354a633a6d58a34eeac317ed0f4c2a6b8",
+      "btih": "95d880d2aa4d7b4c0aaa39c316335b100b4c4fa2",
+      "mtime": "1657563329",
+      "size": "59897",
+      "md5": "d484b408e614d22d1f3a8dda416b5f9c",
+      "crc32": "79cca312",
+      "sha1": "7d46f64e3b769fdf119d96c01479515d615d7d11",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reveal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5e027f9b9f817f8a19cd97b9c3769f11",
+      "md5": "4168e7b995976934c66635b194ee5356",
       "summation": "md5"
     },
     {
       "name": "reveal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657509723",
-      "size": "339968",
-      "md5": "460e38a030dbe0f45281c4c6ac4def03",
-      "crc32": "d4ef7e0a",
-      "sha1": "1bfe73565dc87960cb7d38ce6834f5bf8f6b1559",
+      "mtime": "1657563185",
+      "size": "344064",
+      "md5": "1c5007449df26e681f07fa2937026169",
+      "crc32": "a97f1c82",
+      "sha1": "8daf0fe047bc089a05cb0eacb36fe031a3c900d4",
       "format": "Metadata"
     },
     {
@@ -2950,9 +2992,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1657509797,
-  "item_size": 20498171,
+  "files_count": 285,
+  "item_last_updated": 1657563329,
+  "item_size": 20808898,
   "metadata": {
     "identifier": "reveal-2022",
     "collection": [
@@ -3923,10 +3965,10 @@
       "url": "https://newspack.pub/"
     }
   ],
-  "server": "ia802501.us.archive.org",
-  "uniq": 780354123,
+  "server": "ia902501.us.archive.org",
+  "uniq": 836079098,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1657541667,
+  "created": 1657587182,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/newspressnow-2022",
@@ -454,31 +454,53 @@
       "sha1": "165a52ea732ac683d9709d057000435939398eae"
     },
     {
+      "name": "newspressnow-2022-07-11T10:45:26.402196-05:00.jpg",
+      "source": "original",
+      "mtime": "1657554328",
+      "size": "352052",
+      "md5": "9ae8b607f6745c9089c303d2941ff805",
+      "crc32": "93968394",
+      "sha1": "4af7d4a10b4e09cf5aa4a57088374d45eaa9288f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newspressnow-2022-07-11T10:45:26.402196-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newspressnow-2022-07-11T10:45:26.402196-05:00.jpg",
+      "mtime": "1657554391",
+      "size": "10864",
+      "md5": "e0101359012e717a49f7856894fb0df9",
+      "crc32": "d58e41e7",
+      "sha1": "b926eb27143f0deb93a41b79a3caa462e245801e"
+    },
+    {
       "name": "newspressnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c9f55ca23cc1943a47ee4f64d2b37dba8d8f7cb5",
-      "mtime": "1657505570",
-      "size": "10454",
-      "md5": "2e421f307ef5a28d91253e09fc6fb0f7",
-      "crc32": "655c996d",
-      "sha1": "69a1e5b30f596436cc225032cd2ea4a3fc505073",
+      "btih": "46ab5c8ec24a3b5aa6ecebaf9838de9a964f70c7",
+      "mtime": "1657554408",
+      "size": "10867",
+      "md5": "6c350e7c29941db13135e263872763a6",
+      "crc32": "82ab21f4",
+      "sha1": "79887a084145e0fd48a2ca050f0a33846708f4fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newspressnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b3aa789386a77c788641c1c37ac32ca",
+      "md5": "bc4ec3730ab738f9a93c3f4765870ad7",
       "summation": "md5"
     },
     {
       "name": "newspressnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657505530",
-      "size": "57344",
-      "md5": "b83224106731586b68a365f9bd552703",
-      "crc32": "7029e5f6",
-      "sha1": "59c5f7a127a31d0026726d1050620d3807b09e1f",
+      "mtime": "1657554331",
+      "size": "61440",
+      "md5": "b8893a4951d8c9b5fcb302778b761381",
+      "crc32": "7d296305",
+      "sha1": "65f4ab0ae8a6c3fa8df34850eb103308954f508e",
       "format": "Metadata"
     },
     {
@@ -492,9 +514,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 46,
-  "item_last_updated": 1657505570,
-  "item_size": 5314308,
+  "files_count": 48,
+  "item_last_updated": 1657554408,
+  "item_size": 5681733,
   "metadata": {
     "identifier": "newspressnow-2022",
     "collection": [
@@ -1457,10 +1479,10 @@
       "url": "https://townnews.com/"
     }
   ],
-  "server": "ia801500.us.archive.org",
-  "uniq": 2017101787,
+  "server": "ia601500.us.archive.org",
+  "uniq": 255916300,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

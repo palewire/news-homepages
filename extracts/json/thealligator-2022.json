@@ -1,5 +1,5 @@
 {
-  "created": 1657509886,
+  "created": 1657587002,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/0/items/thealligator-2022",
@@ -2064,31 +2064,63 @@
       "sha1": "b7d7db0e8705e85714f71c1e10f70f599145038c"
     },
     {
+      "name": "thealligator-2022-07-11T14:19:15.907352-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563563",
+      "size": "31305",
+      "md5": "ab919643fb1fdb9c674fdf9377cb2a2a",
+      "crc32": "7fe01e78",
+      "sha1": "c9e6a8f82eab8e3f4e83246d1f32ab5ce6ed6e74",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-07-11T14:19:15.907352-04:00.jpg",
+      "source": "original",
+      "mtime": "1657563559",
+      "size": "302831",
+      "md5": "3efdb203abe0d22bb3d84cb5bda72808",
+      "crc32": "3064a39a",
+      "sha1": "9cd17ed3a60fc04a902427f0c97b299174c9bde2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thealligator-2022-07-11T14:19:15.907352-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thealligator-2022-07-11T14:19:15.907352-04:00.jpg",
+      "mtime": "1657564014",
+      "size": "9742",
+      "md5": "231a1dcf00f5fbdfa662904b0bab9fa5",
+      "crc32": "e757cbdb",
+      "sha1": "39d5af8de8c8a3d51e675e3334ff1bb0697470a4"
+    },
+    {
       "name": "thealligator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "68871362c4f2f46f602cfdb92912cbd577f9d509",
-      "mtime": "1657509876",
-      "size": "43585",
-      "md5": "5e7d627941e18d0ae91f835155d13099",
-      "crc32": "b61aa8cb",
-      "sha1": "958a9f64cb3d2c6efd35ff8ad66adbcb8f996354",
+      "btih": "68a699e4f534b60fa90222e7d701255accee9c2e",
+      "mtime": "1657564038",
+      "size": "44215",
+      "md5": "1c03617cbf1d7a0ef81d36623a7cd239",
+      "crc32": "bd902add",
+      "sha1": "40a7f8ce8be60f37db1e6bfd704fa5f8b455f812",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thealligator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c9347839a8d3e349c48da5f7db32211d",
+      "md5": "95e76d4c7279388727dac85f7d60dc9a",
       "summation": "md5"
     },
     {
       "name": "thealligator-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657509829",
-      "size": "245760",
-      "md5": "207f06948f7d5391bbe060bd3efa010b",
-      "crc32": "df702a07",
-      "sha1": "a4e3af9feb8760929eaed742b25da9f74316fd1e",
+      "mtime": "1657563864",
+      "size": "249856",
+      "md5": "cf4d3fd0a56a9d1961c0b4b1d84e7574",
+      "crc32": "ea9dfea9",
+      "sha1": "f95877d1a12409197c7635c350c26f2a91a98aaa",
       "format": "Metadata"
     },
     {
@@ -2102,9 +2134,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 200,
-  "item_last_updated": 1657509876,
-  "item_size": 18407663,
+  "files_count": 203,
+  "item_last_updated": 1657564038,
+  "item_size": 18756267,
   "metadata": {
     "identifier": "thealligator-2022",
     "collection": [
@@ -2121,10 +2153,10 @@
     "publicdate": "2022-06-24 23:02:17",
     "addeddate": "2022-06-24 23:02:17"
   },
-  "server": "ia801404.us.archive.org",
-  "servers_unavailable": true,
-  "uniq": 13412116,
+  "server": "ia601404.us.archive.org",
+  "uniq": 1295175159,
   "workable_servers": [
+    "ia601404.us.archive.org",
     "ia801404.us.archive.org"
   ]
 }

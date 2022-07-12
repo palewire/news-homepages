@@ -1,5 +1,5 @@
 {
-  "created": 1657505616,
+  "created": 1657587209,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/22/items/oann-2022",
@@ -5986,31 +5986,85 @@
       "sha1": "5030d8928e093bc374e34e49d1dc71d090e30171"
     },
     {
+      "name": "oann-2022-07-11T11:57:42.794961-04:00.jpg",
+      "source": "original",
+      "mtime": "1657555064",
+      "size": "153914",
+      "md5": "5ba3837e3242f54396abb39c1a87ecc7",
+      "crc32": "711f13b7",
+      "sha1": "62372400f26b9e6983e3ef30a4ba4a21f002a706",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-07-11T11:57:42.794961-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-07-11T11:57:42.794961-04:00.jpg",
+      "mtime": "1657555168",
+      "size": "8513",
+      "md5": "119db4de388a3ad04ce392d7741db8bc",
+      "crc32": "60dfb961",
+      "sha1": "fbfe163ad8a6311732bb027d24698bdab2b26e4d"
+    },
+    {
+      "name": "oann-2022-07-11T14:35:12.535532-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657564517",
+      "size": "21389",
+      "md5": "a4f84c6275d1932a9eec79333ba44da1",
+      "crc32": "90e001a2",
+      "sha1": "444fa9e0345b12ac18e7bc3f31b2ba82abebe581",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-07-11T14:35:12.535532-04:00.jpg",
+      "source": "original",
+      "mtime": "1657564515",
+      "size": "332449",
+      "md5": "d874e8a073c52ad70ef09ab15607b069",
+      "crc32": "0a380d4e",
+      "sha1": "f10fa4ef7f4fbc7c1316f6ddf005b80f0de0559e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-07-11T14:35:12.535532-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-07-11T14:35:12.535532-04:00.jpg",
+      "mtime": "1657564598",
+      "size": "12269",
+      "md5": "64cbccce1f83faf128978b1c0d7b358f",
+      "crc32": "77445173",
+      "sha1": "a42ac31103bd1b1afb4c734d4052e82e6b90e43a"
+    },
+    {
       "name": "oann-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4dec8448ccb5382eff263028cd10417811486279",
-      "mtime": "1657505608",
-      "size": "118286",
-      "md5": "f35518ec27b45f5a784630ce76cbcd25",
-      "crc32": "41d07a77",
-      "sha1": "0fe77ea2abc18c76ee12fae6732f43ee9312e9dd",
+      "btih": "bc9b73a74989faf510c906f2e62aedb79124d306",
+      "mtime": "1657564609",
+      "size": "119309",
+      "md5": "56cb08c9368aec2409029354e2842e12",
+      "crc32": "59301d40",
+      "sha1": "917d085ec08a86a2e5b66defeecf85580b965023",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oann-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "115053b8dfd77f177bd8e178ca5e2f69",
+      "md5": "4ce6fd0c46980aec04f139280042d380",
       "summation": "md5"
     },
     {
       "name": "oann-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657505554",
-      "size": "630784",
-      "md5": "c2286284052955f8318080cf75ab06dc",
-      "crc32": "c6994ac1",
-      "sha1": "35946ceeb95ebe9aacb27598f2ff4ed6dab76ea1",
+      "mtime": "1657564523",
+      "size": "634880",
+      "md5": "724a5050f35a05728242f31975b6ef8c",
+      "crc32": "d4957a62",
+      "sha1": "e120765bdd5e02dee60a3b2d651331d1f0555146",
       "format": "Metadata"
     },
     {
@@ -6024,9 +6078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 570,
-  "item_last_updated": 1657505608,
-  "item_size": 55910790,
+  "files_count": 575,
+  "item_last_updated": 1657564609,
+  "item_size": 56444443,
   "metadata": {
     "identifier": "oann-2022",
     "collection": [
@@ -6043,8 +6097,582 @@
     "publicdate": "2022-03-25 18:47:20",
     "addeddate": "2022-03-25 18:47:20"
   },
+  "oann-2022": {
+    "role": "WebArea",
+    "name": "One America News Network | Your Nation. Your News.",
+    "children": [
+      {
+        "role": "link",
+        "name": "HOME"
+      },
+      {
+        "role": "link",
+        "name": "ABOUT OAN"
+      },
+      {
+        "role": "link",
+        "name": "SHOWS"
+      },
+      {
+        "role": "link",
+        "name": "SHOP"
+      },
+      {
+        "role": "link",
+        "name": "CONTACT"
+      },
+      {
+        "role": "link",
+        "name": "CAREERS"
+      },
+      {
+        "role": "link",
+        "name": "One America News Network"
+      },
+      {
+        "role": "link",
+        "name": "Watch OAN anywhere on OAN Live"
+      },
+      {
+        "role": "link",
+        "name": "TOP NEWS"
+      },
+      {
+        "role": "link",
+        "name": "FROM DC"
+      },
+      {
+        "role": "link",
+        "name": "VIDEO"
+      },
+      {
+        "role": "link",
+        "name": "SHOP"
+      },
+      {
+        "role": "link",
+        "name": "TV SCHEDULE"
+      },
+      {
+        "role": "link",
+        "name": "LIVE"
+      },
+      {
+        "role": "text",
+        "name": "Monday, July 11th"
+      },
+      {
+        "role": "text",
+        "name": "TRENDING"
+      },
+      {
+        "role": "link",
+        "name": "TRUMP RALLIES CROWD IN ANCHORAGE, ALASKA",
+        "description": "Trump rallies crowd in Anchorage, Alaska"
+      },
+      {
+        "role": "link",
+        "name": "GOV. SUNUNU SAYS HE WOULD FIRE TREASURY SECY. YELLEN FOR \u2018COMPLETELY MISLEADING AMERICA\u2019 ABOUT INFLATION",
+        "description": "Gov. Sununu says he would fire Treasury Secy. Yellen for \u2018completely misleading America\u2019 about inflation"
+      },
+      {
+        "role": "link",
+        "name": "WILDFIRE THREATENS ICONIC SEQUOIAS AT YOSEMITE NATIONAL PARK",
+        "description": "Wildfire threatens iconic Sequoias at Yosemite National Park"
+      },
+      {
+        "role": "link",
+        "name": "BLINKEN TO HEAD TO JAPAN FOLLOWING ABE ASSASSINATION",
+        "description": "Blinken to head to Japan following Abe assassination"
+      },
+      {
+        "role": "link",
+        "name": "L.A. VOTER REGISTRAR CONFIRMS ENOUGH SIGNATURES GATHERED FOR RECALL",
+        "description": "L.A. voter registrar confirms enough signatures gathered for recall"
+      },
+      {
+        "role": "text",
+        "name": "SEARCH FOR:"
+      },
+      {
+        "role": "searchbox",
+        "name": "SEARCH FOR:"
+      },
+      {
+        "role": "link",
+        "name": "Donald Trump speaks to supporters gathered for a rally at the Alaska Airlines Center on Saturday, July 9, 2022. Trump campaigned on Saturday night in Anchorage with Kelly Tshibaka, whom he has endorsed in her race against Sen. Lisa Murkowski, and others, including former Gov. Sarah Palin, now running for Congress. (Bill Roth/Anchorage Daily News via AP)",
+        "description": "Trump rallies crowd in Anchorage, Alaska"
+      },
+      {
+        "role": "link",
+        "name": "Trump Rallies Crowd In Anchorage, Alaska",
+        "description": "Trump rallies crowd in Anchorage, Alaska"
+      },
+      {
+        "role": "link",
+        "name": "FILE - Treasury Secretary Janet Yellen testifies before the House Ways and Means Committee on Capitol Hill in Washington, on June 8, 2022. Yellen will travel to Asia this month, her first trip to the Indo-Pacific since becoming head of the agency. She will represent the U.S. at the Group of 20 finance minister meetings in Bali. (AP Photo/Jose Luis Magana, File)",
+        "description": "Gov. Sununu says he would fire Treasury Secy. Yellen for \u2018completely misleading America\u2019 about inflation"
+      },
+      {
+        "role": "link",
+        "name": "Gov. Sununu says he would fire Treasury Secy. Yellen for \u2018completely misleading America\u2019 about inflation",
+        "description": "Gov. Sununu says he would fire Treasury Secy. Yellen for \u2018completely misleading America\u2019 about inflation"
+      },
+      {
+        "role": "link",
+        "name": "No Picture",
+        "description": "Wildfire threatens iconic Sequoias at Yosemite National Park"
+      },
+      {
+        "role": "link",
+        "name": "Wildfire threatens iconic Sequoias at Yosemite National Park",
+        "description": "Wildfire threatens iconic Sequoias at Yosemite National Park"
+      },
+      {
+        "role": "link",
+        "name": "Secretary of State Antony Blinken meets with Senegal's Foreign Minister Aissata Tall Sall, at the State Department in Washington, Friday, June 17, 2022. (Tasos Katopodis/Pool photo via AP)",
+        "description": "Blinken to head to Japan following Abe assassination"
+      },
+      {
+        "role": "link",
+        "name": "Blinken to head to Japan following Abe assassination",
+        "description": "Blinken to head to Japan following Abe assassination"
+      },
+      {
+        "role": "link",
+        "name": "Los Angeles District Attorney George Gascon in San Francisco, California. (Photo by Justin Sullivan/Getty Images)",
+        "description": "L.A. voter registrar confirms enough signatures gathered for recall"
+      },
+      {
+        "role": "link",
+        "name": "L.A. voter registrar confirms enough signatures gathered for recall",
+        "description": "L.A. voter registrar confirms enough signatures gathered for recall"
+      },
+      {
+        "role": "link",
+        "name": "Sen. Jerry Moran, R-Kan., left, Sen. Pat Toomey, R-Pa., and others head to the chamber as the Senate holds a voting marathon on the Democrats' $1.9 trillion COVID-19 relief bill that's expected to end with the chamber's approval of the measure, at the Capitol in Washington, Friday, March 5, 2021. (AP Photo/J. Scott Applewhite)",
+        "description": "Sen. Moran is seeking re-election in Kansas"
+      },
+      {
+        "role": "link",
+        "name": "Sen. Moran is seeking re-election in Kansas",
+        "description": "Sen. Moran is seeking re-election in Kansas"
+      },
+      {
+        "role": "link",
+        "name": "Gov. Kathy Hochul on Monday announced two new appointments to the state's ethics panel \u2014 a body that she has pledged to reform. (AP Photo/Mary Altaffer, File)",
+        "description": "Lott calls out Gov. Hochul\u2019s false claims on gun law charges"
+      },
+      {
+        "role": "link",
+        "name": "Lott calls out Gov. Hochul\u2019s false claims on gun law charges",
+        "description": "Lott calls out Gov. Hochul\u2019s false claims on gun law charges"
+      },
+      {
+        "role": "link",
+        "name": "FILE - A Northwell Health registered nurse fills a syringe with a COVID-19 vaccine at a pop up vaccination site the Albanian Islamic Cultural Center, April 8, 2021, in the Staten Island borough of New York. The Food and Drug Administration on Thursday, June 30, 2022 recommended that COVID-19 booster shots be modified to better match more recent variants of the coronavirus. (AP Photo/Mary Altaffer, file)",
+        "description": "Doc who saved lives during COVID dies"
+      },
+      {
+        "role": "link",
+        "name": "Doc who saved lives during COVID dies",
+        "description": "Doc who saved lives during COVID dies"
+      },
+      {
+        "role": "link",
+        "name": "Kathy Stouffer holds an \"I Voted\" sticker after voting during the Pennsylvania primary election at the Michaux Manor Living Center in Fayetteville, Pa., Tuesday, May 17, 2022. (AP Photo/ Carolyn Kaster)",
+        "description": "Rep. Debbie Lesko is seeking re-election in Arizona"
+      },
+      {
+        "role": "link",
+        "name": "Rep. Debbie Lesko is seeking re-election in Arizona",
+        "description": "Rep. Debbie Lesko is seeking re-election in Arizona"
+      },
+      {
+        "role": "link",
+        "name": "BUSINESS"
+      },
+      {
+        "role": "link",
+        "name": "Germany\u2019s gas crisis in charts: Pipeline repair, and then what?"
+      },
+      {
+        "role": "link",
+        "name": "Germany\u2019s gas crisis in charts: Pipeline repair, and then what?",
+        "description": "Germany\u2019s gas crisis in charts: Pipeline repair, and then what?"
+      },
+      {
+        "role": "link",
+        "name": "G20 watchdog to propose first global crypto rules in October"
+      },
+      {
+        "role": "link",
+        "name": "G20 watchdog to propose first global crypto rules in October",
+        "description": "G20 watchdog to propose first global crypto rules in October"
+      },
+      {
+        "role": "link",
+        "name": "Mercedes sales slump in Q2 as chip crisis continues"
+      },
+      {
+        "role": "link",
+        "name": "Mercedes sales slump in Q2 as chip crisis continues",
+        "description": "Mercedes sales slump in Q2 as chip crisis continues"
+      },
+      {
+        "role": "link",
+        "name": "TECH"
+      },
+      {
+        "role": "link",
+        "name": "STMicro, GlobalFoundries plan new $5.7 billion French chip factory"
+      },
+      {
+        "role": "link",
+        "name": "STMicro, GlobalFoundries plan new $5.7 billion French chip factory",
+        "description": "STMicro, GlobalFoundries plan new $5.7 billion French chip factory"
+      },
+      {
+        "role": "link",
+        "name": "For EV battery makers, it\u2019s go small or go home"
+      },
+      {
+        "role": "link",
+        "name": "For EV battery makers, it\u2019s go small or go home",
+        "description": "For EV battery makers, it\u2019s go small or go home"
+      },
+      {
+        "role": "link",
+        "name": "Mahindra open to investing in EV battery cell maker to secure supplies \u2013 CEO"
+      },
+      {
+        "role": "link",
+        "name": "Mahindra open to investing in EV battery cell maker to secure supplies \u2013 CEO",
+        "description": "Mahindra open to investing in EV battery cell maker to secure supplies \u2013 CEO"
+      },
+      {
+        "role": "link",
+        "name": "ENTERTAINMENT"
+      },
+      {
+        "role": "link",
+        "name": "Lebanon\u2019s music festivals make modest comeback after crisis"
+      },
+      {
+        "role": "link",
+        "name": "Lebanon\u2019s music festivals make modest comeback after crisis",
+        "description": "Lebanon\u2019s music festivals make modest comeback after crisis"
+      },
+      {
+        "role": "link",
+        "name": "\u2018Sopranos\u2019 actor Tony Sirico dies at age 79"
+      },
+      {
+        "role": "link",
+        "name": "\u2018Sopranos\u2019 actor Tony Sirico dies at age 79",
+        "description": "\u2018Sopranos\u2019 actor Tony Sirico dies at age 79"
+      },
+      {
+        "role": "link",
+        "name": "Bob Dylan\u2019s unique 2021 disk sells for $1.77 million at auction"
+      },
+      {
+        "role": "link",
+        "name": "Bob Dylan\u2019s unique 2021 disk sells for $1.77 million at auction",
+        "description": "Bob Dylan\u2019s unique 2021 disk sells for $1.77 million at auction"
+      },
+      {
+        "role": "link",
+        "name": "FILE PHOTO: James Caan arrives at the 41st Annual Chaplin Award Gala in New York",
+        "description": "Oscar-nominated \u2018Godfather\u2019 actor James Caan dies at 82"
+      },
+      {
+        "role": "link",
+        "name": "Oscar-nominated \u2018Godfather\u2019 actor James Caan dies at 82",
+        "description": "Oscar-nominated \u2018Godfather\u2019 actor James Caan dies at 82"
+      },
+      {
+        "role": "link",
+        "name": "SPORTS"
+      },
+      {
+        "role": "link",
+        "name": "Cycling-All Tour riders test negative for COVID \u2013 UCI"
+      },
+      {
+        "role": "link",
+        "name": "Cycling-All Tour riders test negative for COVID \u2013 UCI",
+        "description": "Cycling-All Tour riders test negative for COVID \u2013 UCI"
+      },
+      {
+        "role": "link",
+        "name": "Soccer-Rooney to become DC United manager-reports"
+      },
+      {
+        "role": "link",
+        "name": "Soccer-Rooney to become DC United manager-reports",
+        "description": "Soccer-Rooney to become DC United manager-reports"
+      },
+      {
+        "role": "link",
+        "name": "MLB roundup: Orioles complete sweep of Angels"
+      },
+      {
+        "role": "link",
+        "name": "MLB roundup: Orioles complete sweep of Angels",
+        "description": "MLB roundup: Orioles complete sweep of Angels"
+      },
+      {
+        "role": "link",
+        "name": "Tennis-Djokovic\u2019s resilience never in doubt, says coach Ivanisevic"
+      },
+      {
+        "role": "link",
+        "name": "Tennis-Djokovic\u2019s resilience never in doubt, says coach Ivanisevic",
+        "description": "Tennis-Djokovic\u2019s resilience never in doubt, says coach Ivanisevic"
+      },
+      {
+        "role": "link",
+        "name": "Pearson Sharp Reports"
+      },
+      {
+        "role": "link",
+        "name": "Watch OAN anywhere on OAN Live"
+      },
+      {
+        "role": "link",
+        "name": "Click here to subscribe to our newsletter"
+      },
+      {
+        "role": "heading",
+        "name": "OAN EXCLUSIVE",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "\u20182000 Mules\u2019 reveals possible ballot trafficking scheme \u20182000 Mules\u2019 reveals possible ballot trafficking scheme"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "text",
+        "name": "Sponsored"
+      },
+      {
+        "role": "link",
+        "name": "CONCERNING DIRECTV"
+      },
+      {
+        "role": "link",
+        "name": "United States Senator Steve Daines Expresses Strong Concerns to DirecTV",
+        "description": "READ HERE: United States Senator Steve Daines Expresses Strong Concerns to DirecTV"
+      },
+      {
+        "role": "link",
+        "name": "READ HERE: United States Senator Steve Daines Expresses Strong Concerns to DirecTV",
+        "description": "READ HERE: United States Senator Steve Daines Expresses Strong Concerns to DirecTV"
+      },
+      {
+        "role": "link",
+        "name": "WV AG Morrisey and OH AG Yost Raise Concerns with DirecTV Canceling Carriage of OAN",
+        "description": "READ HERE: WV AG Morrisey and OH AG Yost Raise Concerns with DirecTV Canceling Carriage of OAN"
+      },
+      {
+        "role": "link",
+        "name": "READ HERE: WV AG Morrisey and OH AG Yost Raise Concerns with DirecTV Canceling Carriage of OAN",
+        "description": "READ HERE: WV AG Morrisey and OH AG Yost Raise Concerns with DirecTV Canceling Carriage of OAN"
+      },
+      {
+        "role": "link",
+        "name": "Texas AG Ken Paxton Troubled by DirecTV's Viewpoint Discrimination Against OAN",
+        "description": "READ HERE: Texas AG Ken Paxton Troubled by DirecTV\u2019s Viewpoint Discrimination Against OAN"
+      },
+      {
+        "role": "link",
+        "name": "READ HERE: Texas AG Ken Paxton Troubled by DirecTV\u2019s Viewpoint Discrimination Against OAN",
+        "description": "READ HERE: Texas AG Ken Paxton Troubled by DirecTV\u2019s Viewpoint Discrimination Against OAN"
+      },
+      {
+        "role": "link",
+        "name": "OAN Files Lawsuit Against DirecTV, AT&T, And AT&T Chairman William Kennard",
+        "description": "READ HERE: OAN Files Lawsuit Against DirecTV, AT&T, And AT&T Chairman William Kennard"
+      },
+      {
+        "role": "link",
+        "name": "READ HERE: OAN Files Lawsuit Against DirecTV, AT&T, And AT&T Chairman William Kennard",
+        "description": "READ HERE: OAN Files Lawsuit Against DirecTV, AT&T, And AT&T Chairman William Kennard"
+      },
+      {
+        "role": "link",
+        "name": "Senator Mike Lee and Senator Ted Cruz Raise Grave Concern for the Future of Journalism and Political Discourse",
+        "description": "READ HERE: Senator Mike Lee and Senator Ted Cruz Raise Grave Concern for the Future of Journalism and Political Discourse"
+      },
+      {
+        "role": "link",
+        "name": "READ HERE: Senator Mike Lee and Senator Ted Cruz Raise Grave Concern for the Future of Journalism and Political Discourse",
+        "description": "READ HERE: Senator Mike Lee and Senator Ted Cruz Raise Grave Concern for the Future of Journalism and Political Discourse"
+      },
+      {
+        "role": "link",
+        "name": "CONTACT"
+      },
+      {
+        "role": "link",
+        "name": "WHERE TO WATCH"
+      },
+      {
+        "role": "link",
+        "name": "AFFILIATE RELATIONS"
+      },
+      {
+        "role": "link",
+        "name": "BRAND"
+      },
+      {
+        "role": "link",
+        "name": "CAREERS"
+      },
+      {
+        "role": "link",
+        "name": "TERMS"
+      },
+      {
+        "role": "link",
+        "name": "PRIVACY POLICY"
+      },
+      {
+        "role": "link",
+        "name": "COOKIE POLICY"
+      },
+      {
+        "role": "text",
+        "name": "\u00a9 COPYRIGHT 2022 \u2014 HERRING NETWORKS, INC. ALL RIGHTS RESERVED."
+      },
+      {
+        "role": "heading",
+        "name": "Opt in to receive occasional news alerts from OAN!",
+        "level": 3
+      },
+      {
+        "role": "text",
+        "name": "We appreciate your support and want to keep you up-to-date on the latest from One America News Network!"
+      },
+      {
+        "role": "text",
+        "name": "*"
+      },
+      {
+        "role": "text",
+        "name": "indicates required field"
+      },
+      {
+        "role": "text",
+        "name": "First Name:"
+      },
+      {
+        "role": "text",
+        "name": "*"
+      },
+      {
+        "role": "textbox",
+        "name": "First Name:*"
+      },
+      {
+        "role": "text",
+        "name": "Last Name:"
+      },
+      {
+        "role": "text",
+        "name": "*"
+      },
+      {
+        "role": "textbox",
+        "name": "Last Name:*"
+      },
+      {
+        "role": "text",
+        "name": "Email:"
+      },
+      {
+        "role": "text",
+        "name": "*"
+      },
+      {
+        "role": "textbox",
+        "name": "Email:*"
+      },
+      {
+        "role": "text",
+        "name": "Re-enter Email:"
+      },
+      {
+        "role": "text",
+        "name": "*"
+      },
+      {
+        "role": "textbox",
+        "name": "Re-enter Email:*"
+      },
+      {
+        "role": "button",
+        "name": "Submit"
+      },
+      {
+        "role": "button",
+        "name": "Close"
+      },
+      {
+        "role": "heading",
+        "name": "Sign up to stay up to date on the latest news",
+        "level": 2
+      },
+      {
+        "role": "text",
+        "name": "Sign up to get interesting OAN news and updates delivered to your inbox and stay informed."
+      },
+      {
+        "role": "text",
+        "name": "\u2217"
+      },
+      {
+        "role": "text",
+        "name": "Email"
+      },
+      {
+        "role": "textbox",
+        "name": "\u2217 Email"
+      },
+      {
+        "role": "text",
+        "name": "First Name"
+      },
+      {
+        "role": "textbox",
+        "name": "First Name"
+      },
+      {
+        "role": "text",
+        "name": "By submitting this form, you are consenting to receive marketing emails from: Herring Networks, Inc., 4757 Morena Blvd, San Diego, CA, 92117, US, http://www.awetv.com/. You can revoke your consent to receive emails at any time by using the SafeUnsubscribe\u00ae link, found at the bottom of every email."
+      },
+      {
+        "role": "link",
+        "name": "Emails are serviced by Constant Contact."
+      },
+      {
+        "role": "button",
+        "name": "Sign up!"
+      },
+      {
+        "role": "IframePresentational",
+        "name": "reCAPTCHA"
+      }
+    ]
+  },
   "server": "ia801507.us.archive.org",
-  "uniq": 367376416,
+  "uniq": 613902041,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

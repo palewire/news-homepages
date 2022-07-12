@@ -1,5 +1,5 @@
 {
-  "created": 1657541492,
+  "created": 1657587069,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/28/items/kcrg-2022",
@@ -6208,31 +6208,115 @@
       "sha1": "bf0d0074a6e20bfdac75033df07f274d829cb1da"
     },
     {
+      "name": "kcrg-2022-07-11T10:45:29.725994-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657554336",
+      "size": "40142",
+      "md5": "76da307ff19c098da82c23544cf9cda9",
+      "crc32": "552ae678",
+      "sha1": "368e21ef4d7a67c2dfb556d4f481273f8e9b93cf",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-07-11T10:45:29.725994-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657554337",
+      "size": "23135",
+      "md5": "2ae649d5ac1e2c56926e558c2703a74d",
+      "crc32": "064215c9",
+      "sha1": "41a6937661338d91a9e683a1c34ea06a97bc9178",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-07-11T10:45:29.725994-05:00.jpg",
+      "source": "original",
+      "mtime": "1657554334",
+      "size": "346639",
+      "md5": "c6c8e5b144c8141173847a3be80838e2",
+      "crc32": "589772ce",
+      "sha1": "f2f439c29ed63ec593f377ecca4618acca8a3efe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-07-11T10:45:29.725994-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-07-11T10:45:29.725994-05:00.jpg",
+      "mtime": "1657554441",
+      "size": "10379",
+      "md5": "645cb8200235b7ca0ea88bb5e54fa80c",
+      "crc32": "069bc985",
+      "sha1": "c384a59a7793442c929ed6099cee397400a5852c"
+    },
+    {
+      "name": "kcrg-2022-07-11T13:31:43.112733-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657564308",
+      "size": "36238",
+      "md5": "41afa5bec7a433ba1f643a483a9f5dec",
+      "crc32": "4132ffa6",
+      "sha1": "2801af6c2000debda1a650d9cb656d66cbb581db",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-07-11T13:31:43.112733-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657564310",
+      "size": "23166",
+      "md5": "8d36f5f76381681d3d22d75bbee02513",
+      "crc32": "30d723e1",
+      "sha1": "5134c9eeba4c7d1865a6204e6ddf6fca575d2f23",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-07-11T13:31:43.112733-05:00.jpg",
+      "source": "original",
+      "mtime": "1657564305",
+      "size": "327029",
+      "md5": "29c83a7c0d5c38dce1331adeda4e2745",
+      "crc32": "648c023a",
+      "sha1": "e5188dfd4cea9812526ec22ff67abfb8e6ef52b6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-07-11T13:31:43.112733-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-07-11T13:31:43.112733-05:00.jpg",
+      "mtime": "1657564383",
+      "size": "9992",
+      "md5": "e082ab6da459737dcb4b8c6d0b973161",
+      "crc32": "1f7fb9f4",
+      "sha1": "e4e7512ad0a0c18e1dcc5cf87e9395e6308240d0"
+    },
+    {
       "name": "kcrg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b3f148d8e8dfdd071d3631a885706f5020e8d8cb",
-      "mtime": "1657505407",
-      "size": "123703",
-      "md5": "dfcb5b79eb672ab94f87bb934e06a0c7",
-      "crc32": "42576483",
-      "sha1": "b4cfb6e27b87d1334635d83202bda313155ea781",
+      "btih": "930366cc82420492ccc623f95ca85722a0c7c10c",
+      "mtime": "1657564394",
+      "size": "125350",
+      "md5": "a7869312d51da89a5cd6ae0f52c96814",
+      "crc32": "ec7c0c30",
+      "sha1": "3410ce573df8789e9a4a360d8e05228e3f5da598",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3abc5d970606e4db579d223d3f82eccc",
+      "md5": "4cd9b8f7d38d6426d5994e6b8d36b675",
       "summation": "md5"
     },
     {
       "name": "kcrg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657505343",
-      "size": "679936",
-      "md5": "18dc662e01c94f40345a7d5db62ed63e",
-      "crc32": "50cacd15",
-      "sha1": "6f28ebc7dcf91c79b614cc35c2ce609841cf5bb6",
+      "mtime": "1657564318",
+      "size": "688128",
+      "md5": "72993e34ec8928a287c0791d867f2e2b",
+      "crc32": "ec9ae4a3",
+      "sha1": "264a7a8c8a93eb2b1354f3621b1555e025de4ff0",
       "format": "Metadata"
     },
     {
@@ -6246,9 +6330,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 594,
-  "item_last_updated": 1657505407,
-  "item_size": 61098673,
+  "files_count": 602,
+  "item_last_updated": 1657564394,
+  "item_size": 61925232,
   "kcrg-2022": [
     {
       "text": "Skip to content",
@@ -6283,7 +6367,7 @@
       "url": "/"
     },
     {
-      "text": "79\u00b0Cedar Rapids, IA",
+      "text": "82\u00b0Cedar Rapids, IA",
       "url": "/weather/"
     },
     {
@@ -6527,19 +6611,191 @@
       "url": "https://www.youtube.com/user/kcrgdotcom"
     },
     {
-      "text": " Program connects Iowa farmers with underserved communitiesA new program through the Iowa Department of Agriculture and Land Stewardship aims to help socially disadvantaged farmers, as well as provide fresh, local produce to food hubs and pantries.",
-      "url": "/2022/07/11/program-connects-iowa-farmers-with-underserved-communities/"
+      "text": " Search for justice continues a decade after cousins abducted, murderedA look back at the 2012 abduction and murders of Lyric Cook-Morrissey and Elizabeth Collins.",
+      "url": "/2022/07/11/search-justice-continues-decade-after-cousins-abducted-murdered/"
     },
     {
       "text": "",
+      "url": "/2022/07/11/search-justice-continues-decade-after-cousins-abducted-murdered/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/07/11/biden-celebration-new-gun-law-clouded-by-latest-shooting/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/11/biden-celebration-new-gun-law-clouded-by-latest-shooting/"
+    },
+    {
+      "text": " Biden\u2019s celebration of new gun law clouded by latest shooting",
+      "url": "/2022/07/11/biden-celebration-new-gun-law-clouded-by-latest-shooting/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/11/gas-prices-decline-iowa-nationally/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/11/gas-prices-decline-iowa-nationally/"
+    },
+    {
+      "text": "Gas prices decline in Iowa and nationally",
+      "url": "/2022/07/11/gas-prices-decline-iowa-nationally/"
+    },
+    {
+      "text": "ExpertsInMoney.co",
+      "url": "https://oba-pool-usw.perf-serving.com/click/Vet1DH-lUnTGV2VYCTUDEh_BAaAWs_h6aozQ16cwxNpuamviMhYNcFLGOTv7I6X1zE4XS0QcvzKx_a6XIrUJmB644KB5wwaEB33BI_dLwTVG6FPFYUzg8lg6P-qoLCdAd7rAbcGVqBVEN7rBG-HsDXsdgL26kil4E93sUab38JTLknKsIxVLjadtgvFoFmvvR-jNjC23xBMGWnq0QcyzJZBlIHLbcnuNZuQvMcDLT42PxaukHvovo3F_KChoRIqT4iHLI_ydkkq3Au0LPhsQO-_qJGJyULrluCIN-IagS_nfhNBs1WHdhRacPxUo7cZU4yRbXfUREzgUD9hEuQZ1uNLst-w-t8ruQg938ap1zzcFlqJZgAEX4LJFn_nyDodZqUkBX_35242J8oGA8VwWHhxFbLy5MTatkSUZc8Hhvrp039h4LWigmEV1EBvqFZ18Cp_VLHQaZdF_I2kbBgPlt92HTtvXQ5hVfdLROyfLeXTRu3If1xp50I0zD2Wzyza6E1nPGNl23ckGCkoXFiHGhltqjYMLEJNHdBV9X2A6vCjh53Ws_AXQNVUm45GSrvjLG0G7nvmaRmaMM-A-sqlSgsGHEgrAbvzAd6ogH43TK0Ize_GKHCuPCC8RywbHyGjHduUwOOcwc4KmxDg9hx9hpTzWEwgIP8qt_WDk5MJ03jlOSJAbX28AXoldklin8zgGS1pE82pfwnPusFysLTUNLezDuYG-ezygR3KOVFxoM2rrrtHKrdK6C7bU4lpKYQerxqvdZFsYB7idXnDpjy630LE_Qf0PWY2Ab_TXKRbycSq502Om7yFqOvQzpjNZR1CbxQ6NjDCYn26DlhNiz28gEkmtUAAPEFhpRMfG3OAd16y70asvCx2fZscVwPVE9xCOkVdipQGgAZA6AS2FNkHqcLSkYDU3KlH0YBhj1Fqkrq8ZKkJcB448QsHELdhgwps8xMxy0la_dW9fbUSZJpmR4D22OzSo2laaGmqs0CU_mYVjaI1uVe3eOmAn2da2FP25JiUvWMtNQxi8OXAEj5QpgIVMWTtoCZ3HKNRmuhxRSNZc_J51n0zL10uGEgdynQLqsfkIDE7Wu6EOJN0WNVFTTvRdtR4xrH_NIBcgdMqIyxH9qr_KmNnrmrmb75l0kN1HjtcdURySG_ItLNgj2pn66s8UzqGhyzxNAUmqHpl-oIDTK_SJL-5XddLmdkvVNSzcGkQ5UsA///?utm_source=taboola&utm_medium=referral&tblci=GiDogrbyKeIqrk8rpyX08YTNbS6CmjSvRHnfSzIVzsX7TyDLiUco6Lb4sKT606Zl#tblciGiDogrbyKeIqrk8rpyX08YTNbS6CmjSvRHnfSzIVzsX7TyDLiUco6Lb4sKT606Zl"
+    },
+    {
+      "text": "Prime Is Now $139, But Few Know This Saving TrickExpertsInMoney.co|",
+      "url": "https://oba-pool-usw.perf-serving.com/click/Vet1DH-lUnTGV2VYCTUDEh_BAaAWs_h6aozQ16cwxNpuamviMhYNcFLGOTv7I6X1zE4XS0QcvzKx_a6XIrUJmB644KB5wwaEB33BI_dLwTVG6FPFYUzg8lg6P-qoLCdAd7rAbcGVqBVEN7rBG-HsDXsdgL26kil4E93sUab38JTLknKsIxVLjadtgvFoFmvvR-jNjC23xBMGWnq0QcyzJZBlIHLbcnuNZuQvMcDLT42PxaukHvovo3F_KChoRIqT4iHLI_ydkkq3Au0LPhsQO-_qJGJyULrluCIN-IagS_nfhNBs1WHdhRacPxUo7cZU4yRbXfUREzgUD9hEuQZ1uNLst-w-t8ruQg938ap1zzcFlqJZgAEX4LJFn_nyDodZqUkBX_35242J8oGA8VwWHhxFbLy5MTatkSUZc8Hhvrp039h4LWigmEV1EBvqFZ18Cp_VLHQaZdF_I2kbBgPlt92HTtvXQ5hVfdLROyfLeXTRu3If1xp50I0zD2Wzyza6E1nPGNl23ckGCkoXFiHGhltqjYMLEJNHdBV9X2A6vCjh53Ws_AXQNVUm45GSrvjLG0G7nvmaRmaMM-A-sqlSgsGHEgrAbvzAd6ogH43TK0Ize_GKHCuPCC8RywbHyGjHduUwOOcwc4KmxDg9hx9hpTzWEwgIP8qt_WDk5MJ03jlOSJAbX28AXoldklin8zgGS1pE82pfwnPusFysLTUNLezDuYG-ezygR3KOVFxoM2rrrtHKrdK6C7bU4lpKYQerxqvdZFsYB7idXnDpjy630LE_Qf0PWY2Ab_TXKRbycSq502Om7yFqOvQzpjNZR1CbxQ6NjDCYn26DlhNiz28gEkmtUAAPEFhpRMfG3OAd16y70asvCx2fZscVwPVE9xCOkVdipQGgAZA6AS2FNkHqcLSkYDU3KlH0YBhj1Fqkrq8ZKkJcB448QsHELdhgwps8xMxy0la_dW9fbUSZJpmR4D22OzSo2laaGmqs0CU_mYVjaI1uVe3eOmAn2da2FP25JiUvWMtNQxi8OXAEj5QpgIVMWTtoCZ3HKNRmuhxRSNZc_J51n0zL10uGEgdynQLqsfkIDE7Wu6EOJN0WNVFTTvRdtR4xrH_NIBcgdMqIyxH9qr_KmNnrmrmb75l0kN1HjtcdURySG_ItLNgj2pn66s8UzqGhyzxNAUmqHpl-oIDTK_SJL-5XddLmdkvVNSzcGkQ5UsA///?utm_source=taboola&utm_medium=referral&tblci=GiDogrbyKeIqrk8rpyX08YTNbS6CmjSvRHnfSzIVzsX7TyDLiUco6Lb4sKT606Zl#tblciGiDogrbyKeIqrk8rpyX08YTNbS6CmjSvRHnfSzIVzsX7TyDLiUco6Lb4sKT606Zl"
+    },
+    {
+      "text": "",
+      "url": "https://oba-pool-usw.perf-serving.com/click/Vet1DH-lUnTGV2VYCTUDEh_BAaAWs_h6aozQ16cwxNpuamviMhYNcFLGOTv7I6X1zE4XS0QcvzKx_a6XIrUJmB644KB5wwaEB33BI_dLwTVG6FPFYUzg8lg6P-qoLCdAd7rAbcGVqBVEN7rBG-HsDXsdgL26kil4E93sUab38JTLknKsIxVLjadtgvFoFmvvR-jNjC23xBMGWnq0QcyzJZBlIHLbcnuNZuQvMcDLT42PxaukHvovo3F_KChoRIqT4iHLI_ydkkq3Au0LPhsQO-_qJGJyULrluCIN-IagS_nfhNBs1WHdhRacPxUo7cZU4yRbXfUREzgUD9hEuQZ1uNLst-w-t8ruQg938ap1zzcFlqJZgAEX4LJFn_nyDodZqUkBX_35242J8oGA8VwWHhxFbLy5MTatkSUZc8Hhvrp039h4LWigmEV1EBvqFZ18Cp_VLHQaZdF_I2kbBgPlt92HTtvXQ5hVfdLROyfLeXTRu3If1xp50I0zD2Wzyza6E1nPGNl23ckGCkoXFiHGhltqjYMLEJNHdBV9X2A6vCjh53Ws_AXQNVUm45GSrvjLG0G7nvmaRmaMM-A-sqlSgsGHEgrAbvzAd6ogH43TK0Ize_GKHCuPCC8RywbHyGjHduUwOOcwc4KmxDg9hx9hpTzWEwgIP8qt_WDk5MJ03jlOSJAbX28AXoldklin8zgGS1pE82pfwnPusFysLTUNLezDuYG-ezygR3KOVFxoM2rrrtHKrdK6C7bU4lpKYQerxqvdZFsYB7idXnDpjy630LE_Qf0PWY2Ab_TXKRbycSq502Om7yFqOvQzpjNZR1CbxQ6NjDCYn26DlhNiz28gEkmtUAAPEFhpRMfG3OAd16y70asvCx2fZscVwPVE9xCOkVdipQGgAZA6AS2FNkHqcLSkYDU3KlH0YBhj1Fqkrq8ZKkJcB448QsHELdhgwps8xMxy0la_dW9fbUSZJpmR4D22OzSo2laaGmqs0CU_mYVjaI1uVe3eOmAn2da2FP25JiUvWMtNQxi8OXAEj5QpgIVMWTtoCZ3HKNRmuhxRSNZc_J51n0zL10uGEgdynQLqsfkIDE7Wu6EOJN0WNVFTTvRdtR4xrH_NIBcgdMqIyxH9qr_KmNnrmrmb75l0kN1HjtcdURySG_ItLNgj2pn66s8UzqGhyzxNAUmqHpl-oIDTK_SJL-5XddLmdkvVNSzcGkQ5UsA///?utm_source=taboola&utm_medium=referral&tblci=GiDogrbyKeIqrk8rpyX08YTNbS6CmjSvRHnfSzIVzsX7TyDLiUco6Lb4sKT606Zl#tblciGiDogrbyKeIqrk8rpyX08YTNbS6CmjSvRHnfSzIVzsX7TyDLiUco6Lb4sKT606Zl"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Recommended by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Recommended by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/11/fire-crews-respond-house-fire-cedar-rapids/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/11/fire-crews-respond-house-fire-cedar-rapids/"
+    },
+    {
+      "text": " Fire damages home in southwest Cedar Rapids Monday morning",
+      "url": "/2022/07/11/fire-crews-respond-house-fire-cedar-rapids/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/11/golf-tournament-raises-money-fallen-iowa-state-troopers-family/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/11/golf-tournament-raises-money-fallen-iowa-state-troopers-family/"
+    },
+    {
+      "text": " Golf tournament raises money for fallen Iowa State Trooper\u2019s family",
+      "url": "/2022/07/11/golf-tournament-raises-money-fallen-iowa-state-troopers-family/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/11/iowa-city-police-asking-information-regarding-crash-that-injured-one/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/11/iowa-city-police-asking-information-regarding-crash-that-injured-one/"
+    },
+    {
+      "text": "Iowa City police asking for information regarding crash that injured one",
+      "url": "/2022/07/11/iowa-city-police-asking-information-regarding-crash-that-injured-one/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/11/man-hospitalized-waterloo-shooting/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/11/man-hospitalized-waterloo-shooting/"
+    },
+    {
+      "text": "Man hospitalized in Waterloo shooting",
+      "url": "/2022/07/11/man-hospitalized-waterloo-shooting/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/07/11/program-connects-iowa-farmers-with-underserved-communities/"
+    },
+    {
+      "text": " Program connects Iowa farmers with underserved communities",
       "url": "/2022/07/11/program-connects-iowa-farmers-with-underserved-communities/"
     },
     {
       "text": "Local",
-      "url": "/2022/07/11/army-renames-reserve-center-after-fallen-dubuque-soldier-ronald-d-rennison/"
+      "url": "/2022/07/11/mentor-helps-raise-more-than-15000-little-sister-who-lost-parents/"
+    },
+    {
+      "text": " Mentor helps raise more than $15,000 for \u2018little sister\u2019 who lost parents",
+      "url": "/2022/07/11/mentor-helps-raise-more-than-15000-little-sister-who-lost-parents/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/07/11/over-the-counter-birth-control-drugmaker-seeks-fda-approval/"
+    },
+    {
+      "text": " Over-the-counter birth control? Drugmaker seeks FDA approval",
+      "url": "/2022/07/11/over-the-counter-birth-control-drugmaker-seeks-fda-approval/"
     },
     {
       "text": "",
+      "url": "/weather/radar/#click-through-url"
+    },
+    {
+      "text": "LATEST VIDEO",
+      "url": "/video/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/11/major-road-construction-project-impact-bridge-cedar-rapids/"
+    },
+    {
+      "text": "Major road construction project to impact bridge in Cedar Rapids",
+      "url": "/video/2022/07/11/major-road-construction-project-impact-bridge-cedar-rapids/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/11/women-may-soon-be-able-buy-birth-control-pills-without-prescription/"
+    },
+    {
+      "text": "Women may soon be able to buy birth control pills without prescription",
+      "url": "/video/2022/07/11/women-may-soon-be-able-buy-birth-control-pills-without-prescription/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/11/two-dead-after-ohio-workplace-shooting/"
+    },
+    {
+      "text": "Two dead after Ohio workplace shooting",
+      "url": "/video/2022/07/11/two-dead-after-ohio-workplace-shooting/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/11/health-experts-track-new-dominant-subvariant-covid-/"
+    },
+    {
+      "text": "Health experts track new dominant subvariant of COVID-19",
+      "url": "/video/2022/07/11/health-experts-track-new-dominant-subvariant-covid-/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/11/severe-thunderstorm-watch-effect-parts-eastern-iowa/"
+    },
+    {
+      "text": " Severe Thunderstorm Watch in effect for parts of eastern Iowa",
+      "url": "/2022/07/11/severe-thunderstorm-watch-effect-parts-eastern-iowa/"
+    },
+    {
+      "text": "Local",
       "url": "/2022/07/11/army-renames-reserve-center-after-fallen-dubuque-soldier-ronald-d-rennison/"
     },
     {
@@ -6551,47 +6807,11 @@
       "url": "/2022/07/10/biden-says-hes-mulling-health-emergency-abortion-access/"
     },
     {
-      "text": "",
-      "url": "/2022/07/10/biden-says-hes-mulling-health-emergency-abortion-access/"
-    },
-    {
       "text": " Biden says he\u2019s mulling health emergency for abortion access",
       "url": "/2022/07/10/biden-says-hes-mulling-health-emergency-abortion-access/"
     },
     {
-      "text": "Smart Lifestyle Trends",
-      "url": "https://prod-use.perf-serving.com/click/DhsWyRFw7ThbJAu507kagLvZ8BZtJnKI0hMzhcD1yuC8vY4Fc8HHVsubqXDZ-58te-JnxbRY2gR4JP2P4E7-IW4JDNhEN4YPc3-CBrx0egyNHqGbhHcUTYS6FE9OzsC0ME-qmhWMADYFXKgsElyxFFfryhwEIqXHj_kisoTczHermZk1mZxqMkliXF390L5OcSAgACst4QDsQZKI1JFNL79cuxLkGUxog_bUFHOYB1OXR93gJmo6Or2SMDKfmTAzV9eVTqpDmMx6UaXHC-5luaXsr_LDE8ff1pf8g0c6gPVc_L5K2GKWooy3elb2pJJtA0jUPRibFbWBgOfjf9kyaFDq65ztyPDrStWd3JDsRle7YSQHNqGKKEc0qTXHPV0IL0hu4BwDkjETWeWGas8cRgCtWFp-fUKOFJFp068wiDmK8L-JpfsdOiutyL7DDAJXDkZUsJpp0brSVajYMu8n5Po9Rh3ko54KK6jvJByijuhqmE5edWWmG6qGcX6W3ff6_1j46aX64SvQU29bVdX6fkdSgxDt7Ge-ZctDd96ZHX2h8ow98cFbxguqVDqLj8626MnEv6oA-guAJz5N_S5rb6IzRNf7R2I4BzPU0faNPUHsNTIsHvsBEU7KTBnAiFIvoMUI_3S52AFD6-8IULz8A_o5IFzdpAhTsFWoERpGtc-jfEuS3qcbWUqSUbqSPv9u69l3FjzNrBwO3lOAF1JjGjUkCA1MdNIY2cHA_ms51ClEqCID1jWCHinbfAfKG8AfyKzMBxwWYYc9RWJVHrOy4iRXrU6SD98l5QoSCXPT_yCT9hrxNL8euaYR4xkZoGUdyosEKB1TQ2ZvUyT52t1eg9MARWOLB1SDnCEZTodmu-QsKCjmEi6QGLv0zZfhH7N0mYH1uVqAWIuE2xpRX6NjCHSbgRieBJDFetSTTT9ZTzkSyo_DvcBSxzqkqPf8Fbp3vo5OfBRkIBdjErJrSnVPrCNfasfccXwOzQAIj6YgiyKwAw9jzlGQ6qeM1kmLKVgbgN7QM_CNi03VRD7oxHygT6tPjn3ayijhuMs_17z0Iu-_AHtXx4gZzWjnhGC0cDqDasO7qKspij3Gfz7vO968reETB5OAAlGTTr0zwxZcSQAPn-oQQc-lJj49M_lqUjeK1v4WKbfgAxT_LapKMolXIINKaEGFXlb1wc8lBfQwzmdeEXXW5_a_bo5dxbRJ_KPdC7cfmx8VcMo///?utm_source=taboola&utm_medium=referral&tblci=GiDe1z-bB3paUr6PFV72QA66UBHhCD2Xk2Mx1TENXM8vnCDLiUconb7lyPTpt-93#tblciGiDe1z-bB3paUr6PFV72QA66UBHhCD2Xk2Mx1TENXM8vnCDLiUconb7lyPTpt-93"
-    },
-    {
-      "text": "Texas: Say Bye to Your Car Insurance if You Live in These Zip CodesSmart Lifestyle Trends|",
-      "url": "https://prod-use.perf-serving.com/click/DhsWyRFw7ThbJAu507kagLvZ8BZtJnKI0hMzhcD1yuC8vY4Fc8HHVsubqXDZ-58te-JnxbRY2gR4JP2P4E7-IW4JDNhEN4YPc3-CBrx0egyNHqGbhHcUTYS6FE9OzsC0ME-qmhWMADYFXKgsElyxFFfryhwEIqXHj_kisoTczHermZk1mZxqMkliXF390L5OcSAgACst4QDsQZKI1JFNL79cuxLkGUxog_bUFHOYB1OXR93gJmo6Or2SMDKfmTAzV9eVTqpDmMx6UaXHC-5luaXsr_LDE8ff1pf8g0c6gPVc_L5K2GKWooy3elb2pJJtA0jUPRibFbWBgOfjf9kyaFDq65ztyPDrStWd3JDsRle7YSQHNqGKKEc0qTXHPV0IL0hu4BwDkjETWeWGas8cRgCtWFp-fUKOFJFp068wiDmK8L-JpfsdOiutyL7DDAJXDkZUsJpp0brSVajYMu8n5Po9Rh3ko54KK6jvJByijuhqmE5edWWmG6qGcX6W3ff6_1j46aX64SvQU29bVdX6fkdSgxDt7Ge-ZctDd96ZHX2h8ow98cFbxguqVDqLj8626MnEv6oA-guAJz5N_S5rb6IzRNf7R2I4BzPU0faNPUHsNTIsHvsBEU7KTBnAiFIvoMUI_3S52AFD6-8IULz8A_o5IFzdpAhTsFWoERpGtc-jfEuS3qcbWUqSUbqSPv9u69l3FjzNrBwO3lOAF1JjGjUkCA1MdNIY2cHA_ms51ClEqCID1jWCHinbfAfKG8AfyKzMBxwWYYc9RWJVHrOy4iRXrU6SD98l5QoSCXPT_yCT9hrxNL8euaYR4xkZoGUdyosEKB1TQ2ZvUyT52t1eg9MARWOLB1SDnCEZTodmu-QsKCjmEi6QGLv0zZfhH7N0mYH1uVqAWIuE2xpRX6NjCHSbgRieBJDFetSTTT9ZTzkSyo_DvcBSxzqkqPf8Fbp3vo5OfBRkIBdjErJrSnVPrCNfasfccXwOzQAIj6YgiyKwAw9jzlGQ6qeM1kmLKVgbgN7QM_CNi03VRD7oxHygT6tPjn3ayijhuMs_17z0Iu-_AHtXx4gZzWjnhGC0cDqDasO7qKspij3Gfz7vO968reETB5OAAlGTTr0zwxZcSQAPn-oQQc-lJj49M_lqUjeK1v4WKbfgAxT_LapKMolXIINKaEGFXlb1wc8lBfQwzmdeEXXW5_a_bo5dxbRJ_KPdC7cfmx8VcMo///?utm_source=taboola&utm_medium=referral&tblci=GiDe1z-bB3paUr6PFV72QA66UBHhCD2Xk2Mx1TENXM8vnCDLiUconb7lyPTpt-93#tblciGiDe1z-bB3paUr6PFV72QA66UBHhCD2Xk2Mx1TENXM8vnCDLiUconb7lyPTpt-93"
-    },
-    {
-      "text": "",
-      "url": "https://prod-use.perf-serving.com/click/DhsWyRFw7ThbJAu507kagLvZ8BZtJnKI0hMzhcD1yuC8vY4Fc8HHVsubqXDZ-58te-JnxbRY2gR4JP2P4E7-IW4JDNhEN4YPc3-CBrx0egyNHqGbhHcUTYS6FE9OzsC0ME-qmhWMADYFXKgsElyxFFfryhwEIqXHj_kisoTczHermZk1mZxqMkliXF390L5OcSAgACst4QDsQZKI1JFNL79cuxLkGUxog_bUFHOYB1OXR93gJmo6Or2SMDKfmTAzV9eVTqpDmMx6UaXHC-5luaXsr_LDE8ff1pf8g0c6gPVc_L5K2GKWooy3elb2pJJtA0jUPRibFbWBgOfjf9kyaFDq65ztyPDrStWd3JDsRle7YSQHNqGKKEc0qTXHPV0IL0hu4BwDkjETWeWGas8cRgCtWFp-fUKOFJFp068wiDmK8L-JpfsdOiutyL7DDAJXDkZUsJpp0brSVajYMu8n5Po9Rh3ko54KK6jvJByijuhqmE5edWWmG6qGcX6W3ff6_1j46aX64SvQU29bVdX6fkdSgxDt7Ge-ZctDd96ZHX2h8ow98cFbxguqVDqLj8626MnEv6oA-guAJz5N_S5rb6IzRNf7R2I4BzPU0faNPUHsNTIsHvsBEU7KTBnAiFIvoMUI_3S52AFD6-8IULz8A_o5IFzdpAhTsFWoERpGtc-jfEuS3qcbWUqSUbqSPv9u69l3FjzNrBwO3lOAF1JjGjUkCA1MdNIY2cHA_ms51ClEqCID1jWCHinbfAfKG8AfyKzMBxwWYYc9RWJVHrOy4iRXrU6SD98l5QoSCXPT_yCT9hrxNL8euaYR4xkZoGUdyosEKB1TQ2ZvUyT52t1eg9MARWOLB1SDnCEZTodmu-QsKCjmEi6QGLv0zZfhH7N0mYH1uVqAWIuE2xpRX6NjCHSbgRieBJDFetSTTT9ZTzkSyo_DvcBSxzqkqPf8Fbp3vo5OfBRkIBdjErJrSnVPrCNfasfccXwOzQAIj6YgiyKwAw9jzlGQ6qeM1kmLKVgbgN7QM_CNi03VRD7oxHygT6tPjn3ayijhuMs_17z0Iu-_AHtXx4gZzWjnhGC0cDqDasO7qKspij3Gfz7vO968reETB5OAAlGTTr0zwxZcSQAPn-oQQc-lJj49M_lqUjeK1v4WKbfgAxT_LapKMolXIINKaEGFXlb1wc8lBfQwzmdeEXXW5_a_bo5dxbRJ_KPdC7cfmx8VcMo///?utm_source=taboola&utm_medium=referral&tblci=GiDe1z-bB3paUr6PFV72QA66UBHhCD2Xk2Mx1TENXM8vnCDLiUconb7lyPTpt-93#tblciGiDe1z-bB3paUr6PFV72QA66UBHhCD2Xk2Mx1TENXM8vnCDLiUconb7lyPTpt-93"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
-    },
-    {
-      "text": "Recommended by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
-    },
-    {
-      "text": "Recommended by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
-    },
-    {
       "text": "Sports",
-      "url": "/2022/07/10/diagnosed-with-hodgkins-lymphoma-summer-brand-continues-give-back-her-team/"
-    },
-    {
-      "text": "",
       "url": "/2022/07/10/diagnosed-with-hodgkins-lymphoma-summer-brand-continues-give-back-her-team/"
     },
     {
@@ -6603,19 +6823,19 @@
       "url": "/2022/07/10/few-showers-storms-possible-tonight-into-monday/"
     },
     {
-      "text": "",
-      "url": "/2022/07/10/few-showers-storms-possible-tonight-into-monday/"
-    },
-    {
       "text": " A few showers and storms possible tonight into Monday",
       "url": "/2022/07/10/few-showers-storms-possible-tonight-into-monday/"
     },
     {
-      "text": "National",
-      "url": "/2022/07/10/jan-6-panel-sets-prime-time-hearing-trump-awaits-bannon/"
+      "text": "Politics",
+      "url": "/2022/07/11/voter-registration-numbers-illustrate-iowa-politics/"
     },
     {
-      "text": "",
+      "text": " Voter registration numbers illustrate Iowa politics ",
+      "url": "/2022/07/11/voter-registration-numbers-illustrate-iowa-politics/"
+    },
+    {
+      "text": "National",
       "url": "/2022/07/10/jan-6-panel-sets-prime-time-hearing-trump-awaits-bannon/"
     },
     {
@@ -6624,10 +6844,6 @@
     },
     {
       "text": "Iowa",
-      "url": "/2022/07/10/house-saved-following-structure-fire-viola-iowa/"
-    },
-    {
-      "text": "",
       "url": "/2022/07/10/house-saved-following-structure-fire-viola-iowa/"
     },
     {
@@ -6659,56 +6875,16 @@
       "url": "/2022/07/10/motorcycle-collides-with-deer-near-covington-injuring-rider/"
     },
     {
-      "text": "",
-      "url": "/weather/radar/#click-through-url"
-    },
-    {
-      "text": "LATEST VIDEO",
-      "url": "/video/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/10/new-program-aims-connect-locally-grown-food-with-those-need/"
-    },
-    {
-      "text": "New program aims to connect locally-grown food with those in need",
-      "url": "/video/2022/07/10/new-program-aims-connect-locally-grown-food-with-those-need/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/10/evansdale-cousins-went-missing-years-ago-this-week/"
-    },
-    {
-      "text": "Evansdale cousins went missing 10 years ago this week",
-      "url": "/video/2022/07/10/evansdale-cousins-went-missing-years-ago-this-week/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/10/diagnosed-with-hodgkins-lymphoma-summer-brand-continues-give-back-her-team/"
-    },
-    {
-      "text": "Diagnosed with Hodgkin\u2019s lymphoma, Summer Brand continues to give back to her team",
-      "url": "/video/2022/07/10/diagnosed-with-hodgkins-lymphoma-summer-brand-continues-give-back-her-team/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/10/sunny-sunday-with-only-isolated-showers-storms-possible/"
-    },
-    {
-      "text": "A sunny Sunday with only isolated showers and storms possible",
-      "url": "/video/2022/07/10/sunny-sunday-with-only-isolated-showers-storms-possible/"
-    },
-    {
-      "text": "MORE NEWS",
-      "url": "/news/"
-    },
-    {
       "text": "Local",
       "url": "/2022/07/10/14th-annual-blues-bbq-north-liberty/"
     },
     {
       "text": " Blues & BBQ draws a crowd in 14th year in North Liberty",
       "url": "/2022/07/10/14th-annual-blues-bbq-north-liberty/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
     },
     {
       "text": "Local",
@@ -6789,98 +6965,6 @@
     {
       "text": "N Korea likely fired artillery rounds amid US-S Korea drills",
       "url": "/2022/07/10/n-korea-likely-fired-artillery-rounds-amid-us-s-korea-drills/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/07/10/chinese-bank-depositors-face-police-angry-protest/"
-    },
-    {
-      "text": "Chinese bank depositors face police in angry protest",
-      "url": "/2022/07/10/chinese-bank-depositors-face-police-angry-protest/"
-    },
-    {
-      "text": "MORE NEWS",
-      "url": "/news/"
-    },
-    {
-      "text": "Forecast",
-      "url": "/2022/07/09/another-decent-day-sunday-before-slight-storm-chances-arrive/"
-    },
-    {
-      "text": " Another decent day Sunday before slight storm chances arrive",
-      "url": "/2022/07/09/another-decent-day-sunday-before-slight-storm-chances-arrive/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/07/09/what-does-future-hold-emergency-contraception/"
-    },
-    {
-      "text": " What does the future hold for emergency contraception",
-      "url": "/2022/07/09/what-does-future-hold-emergency-contraception/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/09/university-iowa-hospitals-clinics-enhances-newborn-security-with-new-technology/"
-    },
-    {
-      "text": " University of Iowa Hospitals and Clinics enhances newborn security with new technology",
-      "url": "/2022/07/09/university-iowa-hospitals-clinics-enhances-newborn-security-with-new-technology/"
-    },
-    {
-      "text": "Education",
-      "url": "/2022/07/09/crcsd-will-resume-summer-operation-monday-after-cybersecurity-incident-give-no-specific-details-over-incident/"
-    },
-    {
-      "text": " CRCSD will resume summer operation on Monday after \u201ccybersecurity incident\u201d, give no specific details over incident ",
-      "url": "/2022/07/09/crcsd-will-resume-summer-operation-monday-after-cybersecurity-incident-give-no-specific-details-over-incident/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/07/09/dyersville-celebrates-150th-anniversary-town-founding/"
-    },
-    {
-      "text": " Dyersville celebrates 150th Anniversary of town founding",
-      "url": "/2022/07/09/dyersville-celebrates-150th-anniversary-town-founding/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/07/08/us-marshals-arrest-13-iowas-most-wanted-sex-offenders/"
-    },
-    {
-      "text": "U.S. Marshals arrest 13 of Iowa\u2019s most wanted sex offenders",
-      "url": "/2022/07/08/us-marshals-arrest-13-iowas-most-wanted-sex-offenders/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/08/stranger-saves-9-year-old-close-call-turkey-river/"
-    },
-    {
-      "text": " Stranger saves 9-year-old from close call on Turkey River",
-      "url": "/2022/07/08/stranger-saves-9-year-old-close-call-turkey-river/"
-    },
-    {
-      "text": "Local",
-      "url": "/2022/07/08/push-trolley-loop-cedar-rapids-continues/"
-    },
-    {
-      "text": " Push for trolley loop in Cedar Rapids continues",
-      "url": "/2022/07/08/push-trolley-loop-cedar-rapids-continues/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/07/08/funeral-procession-set-fallen-coralville-officer/"
-    },
-    {
-      "text": " Funeral procession set for fallen Coralville officer",
-      "url": "/2022/07/08/funeral-procession-set-fallen-coralville-officer/"
-    },
-    {
-      "text": "Sports",
-      "url": "/2022/07/08/iowas-barta-doubts-big-ten-expands-further-near-future/"
-    },
-    {
-      "text": " Iowa\u2019s Barta doubts Big Ten expands further \u2018in near future\u2019",
-      "url": "/2022/07/08/iowas-barta-doubts-big-ten-expands-further-near-future/"
     },
     {
       "text": "News",
@@ -6991,10 +7075,10 @@
     "publicdate": "2022-03-25 03:35:21",
     "addeddate": "2022-03-25 03:35:21"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 849256439,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1606609330,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

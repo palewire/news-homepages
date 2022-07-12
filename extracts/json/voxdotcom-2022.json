@@ -1,5 +1,5 @@
 {
-  "created": 1657541978,
+  "created": 1657587405,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/22/items/voxdotcom-2022",
@@ -2658,31 +2658,73 @@
       "sha1": "49e13a70403409699a33eb8ba1eaeb5b6d3584a8"
     },
     {
+      "name": "voxdotcom-2022-07-11T14:23:41.609889-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563828",
+      "size": "39947",
+      "md5": "9174b8b6b32d4cfca950ade2b2eb7225",
+      "crc32": "c020d375",
+      "sha1": "35ca64c72e593170da35fd5320e16770791c47b8",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-07-11T14:23:41.609889-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563832",
+      "size": "50859",
+      "md5": "3e82850cb777967b6f9742703b51cc15",
+      "crc32": "2d187a8f",
+      "sha1": "1ae11fba3b1e9cad6eef8b12da9bbec642120de5",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-07-11T14:23:41.609889-04:00.jpg",
+      "source": "original",
+      "mtime": "1657563823",
+      "size": "232422",
+      "md5": "4b4f1f4bf8dddede1f857df26a5de752",
+      "crc32": "04426e32",
+      "sha1": "f0b6550bd360bd42d7589282275cba4bd7cc2655",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voxdotcom-2022-07-11T14:23:41.609889-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voxdotcom-2022-07-11T14:23:41.609889-04:00.jpg",
+      "mtime": "1657564255",
+      "size": "8528",
+      "md5": "c322617ee8047e1fa108aed954ec9dd7",
+      "crc32": "cad4af4c",
+      "sha1": "c244d159eb02667f324a36275cfa0d38f0030a65"
+    },
+    {
       "name": "voxdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db2a183d2e934339fa77416ae0e14967d0f21f21",
-      "mtime": "1657510004",
-      "size": "54955",
-      "md5": "d1a4efb4fdf123dd81647002a718a2b1",
-      "crc32": "f3354082",
-      "sha1": "45b7f44b671a6eab03eb20d0ff21f07619d0b93e",
+      "btih": "9e772e1b24b88dac490a46334fd0ac7870d0f660",
+      "mtime": "1657564302",
+      "size": "55808",
+      "md5": "74cc9738c5108a318c94827000c15dbd",
+      "crc32": "45cecef5",
+      "sha1": "f5e0a5410505999e28d63ad0abb9a8ac3eadf65c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voxdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "acc2a50749f6121f6584315569fb8a1e",
+      "md5": "5004b3d7fd5fa707662ffc8ed47721ab",
       "summation": "md5"
     },
     {
       "name": "voxdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657509960",
-      "size": "311296",
-      "md5": "567665606fc9d1ba214b8fdc6c8ac7e1",
-      "crc32": "01c41c04",
-      "sha1": "32d015efcffae00c70fa83e51a7da1887d812a06",
+      "mtime": "1657563968",
+      "size": "315392",
+      "md5": "2aeb55bd4b4659b19cdc2bd7583d16b5",
+      "crc32": "dd679df9",
+      "sha1": "8f9e823f45f4fb6ea6c24ab708907449bc9f6cd6",
       "format": "Metadata"
     },
     {
@@ -2696,9 +2738,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 257,
-  "item_last_updated": 1657510004,
-  "item_size": 21507525,
+  "files_count": 261,
+  "item_last_updated": 1657564302,
+  "item_size": 21844230,
   "metadata": {
     "identifier": "voxdotcom-2022",
     "collection": [
@@ -2716,1359 +2758,981 @@
     "addeddate": "2022-06-19 23:29:34"
   },
   "server": "ia601506.us.archive.org",
-  "uniq": 1642056142,
-  "voxdotcom-2022": {
-    "role": "WebArea",
-    "name": "Vox - Understand the News",
-    "children": [
-      {
-        "role": "link",
-        "name": "Skip to main content"
-      },
-      {
-        "role": "link",
-        "name": "Vox homepage",
-        "children": [
-          {
-            "role": "text",
-            "name": "Vox homepage"
-          }
-        ]
-      },
-      {
-        "role": "heading",
-        "name": "Give",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Give"
-      },
-      {
-        "role": "heading",
-        "name": "Site search",
-        "level": 2
-      },
-      {
-        "role": "button",
-        "name": "Search"
-      },
-      {
-        "role": "heading",
-        "name": "Vox main menu",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "MIDTERM ELECTIONS"
-      },
-      {
-        "role": "link",
-        "name": "EVEN BETTER"
-      },
-      {
-        "role": "link",
-        "name": "RECODE"
-      },
-      {
-        "role": "link",
-        "name": "THE GOODS"
-      },
-      {
-        "role": "link",
-        "name": "FUTURE PERFECT"
-      },
-      {
-        "role": "link",
-        "name": "THE HIGHLIGHT"
-      },
-      {
-        "role": "text",
-        "name": "MORE"
-      },
-      {
-        "role": "textbox",
-        "name": "Search"
-      },
-      {
-        "role": "button",
-        "name": "Search"
-      },
-      {
-        "role": "text",
-        "name": "AD"
-      },
-      {
-        "role": "main",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "TOP STORIES",
-            "level": 2
-          },
-          {
-            "role": "link",
-            "name": "Why disasters are getting more severe but killing fewer people"
-          },
-          {
-            "role": "text",
-            "name": "An important but overlooked piece of good news about climate change."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Umair Irfan"
-          },
-          {
-            "role": "link",
-            "name": "Protests force Sri Lanka\u2019s leaders to resign"
-          },
-          {
-            "role": "text",
-            "name": "Entrenched corruption and a political dynasty may keep them in power, though"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ellen Ioanes"
-          },
-          {
-            "role": "link",
-            "name": "The battleground House and Senate races where the end of Roe could have\u00a0the biggest\u00a0impact"
-          },
-          {
-            "role": "text",
-            "name": "The Supreme Court\u2019s decision could help Democrats in 17 tight midterm contests."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Nicole Narea"
-          },
-          {
-            "role": "text",
-            "name": "and"
-          },
-          {
-            "role": "link",
-            "name": "Li Zhou"
-          },
-          {
-            "role": "link",
-            "name": "The post-legal Supreme Court"
-          },
-          {
-            "role": "text",
-            "name": "What happens if the Court rejects the rule of law?"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ian Millhiser"
-          },
-          {
-            "role": "link",
-            "name": "Shinzo Abe wanted to make Japan a \u201cnormal country\u201d \u2014 as he saw it"
-          },
-          {
-            "role": "text",
-            "name": "The assassination of Abe, who was Japan\u2019s longest-serving prime minister, shocks a peaceful country."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Bryan Walsh"
-          },
-          {
-            "role": "link",
-            "name": "Boris Johnson was a winner, until he wasn\u2019t"
-          },
-          {
-            "role": "text",
-            "name": "Scandals finally forced the Conservatives to abandon their leader, as Johnson announces he will resign."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Jen Kirby"
-          },
-          {
-            "role": "link",
-            "name": "The limitations of Joe Biden\u2019s executive order on abortion"
-          },
-          {
-            "role": "text",
-            "name": "It marks an important first step, though there\u2019s still more the White House could do."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Li Zhou"
-          },
-          {
-            "role": "link",
-            "name": "Who is Pat Cipollone, the Trump lawyer testifying behind closed doors on Friday?"
-          },
-          {
-            "role": "text",
-            "name": "The January 6 House committee finally heard from Trump\u2019s White House counsel about the attack on the Capitol."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ben Jacobs"
-          },
-          {
-            "role": "heading",
-            "name": "UNDERSTAND THE NEWS WITH",
-            "level": 2
-          },
-          {
-            "role": "text",
-            "name": "Today, Explained"
-          },
-          {
-            "role": "button",
-            "name": "Subscribe"
-          },
-          {
-            "role": "text",
-            "name": "LISTEN NOW IN APP OR ON PUBLIC RADIO"
-          },
-          {
-            "role": "text",
-            "name": "UFOMG"
-          },
-          {
-            "role": "text",
-            "name": "Congress just had its first hearings on UFOs in over 50 years. We revisit a 2021 episode where the New Yorker\u2019s Gideon Lewis-Kraus explained why the US government started taking sightings seriously."
-          },
-          {
-            "role": "Iframe",
-            "name": ""
-          },
-          {
-            "role": "heading",
-            "name": "THE LATEST",
-            "level": 2
-          },
-          {
-            "role": "link",
-            "name": "When cash giving doesn\u2019t work"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Dylan Matthews"
-          },
-          {
-            "role": "text",
-            "name": "July 9"
-          },
-          {
-            "role": "link",
-            "name": "7 of your most pressing monkeypox vaccine questions, answered"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Keren Landman"
-          },
-          {
-            "role": "text",
-            "name": "July 8"
-          },
-          {
-            "role": "link",
-            "name": "What the latest jobs report means"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Madeleine Ngo"
-          },
-          {
-            "role": "text",
-            "name": "July 8"
-          },
-          {
-            "role": "link",
-            "name": "Play"
-          },
-          {
-            "role": "link",
-            "name": "How abortion bans make inequality worse"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Laura Bult"
-          },
-          {
-            "role": "text",
-            "name": "July 8"
-          },
-          {
-            "role": "link",
-            "name": "Vox\u2019s audience support program, explained"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Vox Staff"
-          },
-          {
-            "role": "text",
-            "name": "May 23"
-          },
-          {
-            "role": "link",
-            "name": "Marvel\u2019s villains are eclipsing its heroes"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Alex Abad-Santos"
-          },
-          {
-            "role": "text",
-            "name": "July 8"
-          },
-          {
-            "role": "link",
-            "name": "Preparing for extreme weather is a community concern. Here\u2019s how to be ready."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Muizz Akhtar"
-          },
-          {
-            "role": "text",
-            "name": "July 8"
-          },
-          {
-            "role": "link",
-            "name": "Thor: Love and Thunder\u2019s post-credits scene is a big casting announcement"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Alex Abad-Santos"
-          },
-          {
-            "role": "text",
-            "name": "July 7"
-          },
-          {
-            "role": "link",
-            "name": "How will we know if we\u2019re in a recession?"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Madeleine Ngo"
-          },
-          {
-            "role": "text",
-            "name": "July 7"
-          },
-          {
-            "role": "text",
-            "name": "FROM VOX MEDIA"
-          },
-          {
-            "role": "link",
-            "name": "We're building great things, and we need your talent."
-          },
-          {
-            "role": "link",
-            "name": ""
-          },
-          {
-            "role": "link",
-            "name": "What we know about the deadly police shooting of Jayland Walker"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Fabiola Cineas"
-          },
-          {
-            "role": "text",
-            "name": "July 7"
-          },
-          {
-            "role": "link",
-            "name": "Take a mental break with the newest Vox crossword"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Vox Staff"
-          },
-          {
-            "role": "text",
-            "name": "July 1"
-          },
-          {
-            "role": "link",
-            "name": "Play"
-          },
-          {
-            "role": "link",
-            "name": "How the \u201clost cities\u201d of the Amazon were finally found"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Sam Ellis"
-          },
-          {
-            "role": "text",
-            "name": "July 7"
-          },
-          {
-            "role": "link",
-            "name": "What the Supreme Court\u2019s EPA ruling means for air pollution \u2014 and your health"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Siobhan McDonough"
-          },
-          {
-            "role": "text",
-            "name": "July 7"
-          },
-          {
-            "role": "link",
-            "name": "Senate Democrats slowly consider their options after Roe"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Rachel M. Cohen"
-          },
-          {
-            "role": "text",
-            "name": "July 7"
-          },
-          {
-            "role": "link",
-            "name": "Even bosses are joining the Great Resignation"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Rani Molla"
-          },
-          {
-            "role": "text",
-            "name": "July 7"
-          },
-          {
-            "role": "link",
-            "name": "Democrats\u2019 latest attempt at resurrecting Build Back Better, explained"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Li Zhou"
-          },
-          {
-            "role": "text",
-            "name": "July 6"
-          },
-          {
-            "role": "link",
-            "name": "Is this the political end for Boris Johnson?"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Jen Kirby"
-          },
-          {
-            "role": "text",
-            "name": "July 6"
-          },
-          {
-            "role": "link",
-            "name": "The inside story at Meta as it moves beyond Facebook"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Samantha Oltman"
-          },
-          {
-            "role": "text",
-            "name": "July 6"
-          },
-          {
-            "role": "link",
-            "name": "What\u2019s going on with Georgia\u2019s Trump investigation?"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ben Jacobs"
-          },
-          {
-            "role": "text",
-            "name": "July 6"
-          },
-          {
-            "role": "link",
-            "name": "How China\u2019s relationship to Hollywood has shaped the movies"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Alissa Wilkinson"
-          },
-          {
-            "role": "text",
-            "name": "July 6"
-          },
-          {
-            "role": "text",
-            "name": "AD"
-          },
-          {
-            "role": "link",
-            "name": "VIDEO"
-          },
-          {
-            "role": "link",
-            "name": "How abortion bans make inequality worse"
-          },
-          {
-            "role": "link",
-            "name": "Play video for How abortion bans make inequality worse"
-          },
-          {
-            "role": "link",
-            "name": "How the \u201clost cities\u201d of the Amazon were finally found"
-          },
-          {
-            "role": "link",
-            "name": "Play video for How the \u201clost cities\u201d of the Amazon were finally found"
-          },
-          {
-            "role": "link",
-            "name": "Sign up for the Vox video newsletter"
-          },
-          {
-            "role": "link",
-            "name": "More in Video \u25b6"
-          },
-          {
-            "role": "img",
-            "name": "vox-mark"
-          },
-          {
-            "role": "heading",
-            "name": "Sign up for the newsletter The Weeds",
-            "level": 2
-          },
-          {
-            "role": "text",
-            "name": "Understand how policy impacts people. Delivered Fridays."
-          },
-          {
-            "role": "text",
-            "name": "Email"
-          },
-          {
-            "role": "text",
-            "name": "(required)"
-          },
-          {
-            "role": "textbox",
-            "name": "Email (required) Email (required)",
-            "required": true,
-            "invalid": "true"
-          },
-          {
-            "role": "text",
-            "name": "By submitting your email, you agree to our"
-          },
-          {
-            "role": "link",
-            "name": "Terms"
-          },
-          {
-            "role": "text",
-            "name": "and"
-          },
-          {
-            "role": "link",
-            "name": "Privacy Notice"
-          },
-          {
-            "role": "text",
-            "name": ". You can opt out at any time. This site is protected by reCAPTCHA and the Google"
-          },
-          {
-            "role": "link",
-            "name": "Privacy Policy"
-          },
-          {
-            "role": "text",
-            "name": "and"
-          },
-          {
-            "role": "link",
-            "name": "Terms of Service"
-          },
-          {
-            "role": "text",
-            "name": "apply. For more newsletters, check out our"
-          },
-          {
-            "role": "link",
-            "name": "newsletters page"
-          },
-          {
-            "role": "text",
-            "name": "."
-          },
-          {
-            "role": "button",
-            "name": "SUBSCRIBE"
-          },
-          {
-            "role": "link",
-            "name": "EXPLAINERS"
-          },
-          {
-            "role": "link",
-            "name": "The battleground House and Senate races where the end of Roe could have\u00a0the biggest\u00a0impact"
-          },
-          {
-            "role": "link",
-            "name": "More in Explainers \u25b6"
-          },
-          {
-            "role": "text",
-            "name": "AD"
-          },
-          {
-            "role": "text",
-            "name": "AD"
-          },
-          {
-            "role": "heading",
-            "name": "PODCAST",
-            "level": 2
-          },
-          {
-            "role": "text",
-            "name": "The Weeds"
-          },
-          {
-            "role": "button",
-            "name": "Subscribe"
-          },
-          {
-            "role": "text",
-            "name": "SUBSCRIBE NOW"
-          },
-          {
-            "role": "text",
-            "name": "Pregnancy in a post-Roe America"
-          },
-          {
-            "role": "text",
-            "name": "Our maternal mortality rate was already bad. What happens now?"
-          },
-          {
-            "role": "Iframe",
-            "name": ""
-          },
-          {
-            "role": "link",
-            "name": "Should I delete my period app? And other post-Roe privacy questions."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Sara Morrison"
-          },
-          {
-            "role": "text",
-            "name": "July 6"
-          },
-          {
-            "role": "link",
-            "name": "How to be a little less judgmental"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Allie Volpe"
-          },
-          {
-            "role": "text",
-            "name": "July 6"
-          },
-          {
-            "role": "link",
-            "name": "How conservatism conquered America \u2014 and corrupted itself"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Zack Beauchamp"
-          },
-          {
-            "role": "text",
-            "name": "July 6"
-          },
-          {
-            "role": "link",
-            "name": "The man giving the California GOP its best shot at statewide office in years"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Christian Paz"
-          },
-          {
-            "role": "text",
-            "name": "July 6"
-          },
-          {
-            "role": "link",
-            "name": "Buffalo, seven weeks after the massacre"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Fabiola Cineas"
-          },
-          {
-            "role": "text",
-            "name": "July 5"
-          },
-          {
-            "role": "link",
-            "name": "Inside Ukraine\u2019s lobbying blitz in Washington"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Jonathan Guyer"
-          },
-          {
-            "role": "text",
-            "name": "July 5"
-          },
-          {
-            "role": "link",
-            "name": "The fight against inflation starts at sea"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Rebecca Heilweil"
-          },
-          {
-            "role": "text",
-            "name": "July 5"
-          },
-          {
-            "role": "link",
-            "name": "Even Better"
-          },
-          {
-            "role": "link",
-            "name": "View All"
-          },
-          {
-            "role": "img",
-            "name": "Two people in a boat rescue a man stuck on the roof"
-          },
-          {
-            "role": "link",
-            "name": "Preparing for extreme weather is a community concern. Here\u2019s how to be ready."
-          },
-          {
-            "role": "link",
-            "name": "How to be a little less judgmental"
-          },
-          {
-            "role": "img",
-            "name": "A cartoon image of two men leaning in for a kiss."
-          },
-          {
-            "role": "link",
-            "name": "How to date when it feels like everyone forgot how to date"
-          },
-          {
-            "role": "img",
-            "name": "A cartoon image of a person escaping from a cage."
-          },
-          {
-            "role": "link",
-            "name": "Go ahead, be a little spontaneous"
-          },
-          {
-            "role": "link",
-            "name": "America\u2019s unique, enduring gun problem, explained"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Nicole Narea"
-          },
-          {
-            "role": "text",
-            "name": ","
-          },
-          {
-            "role": "link",
-            "name": "Li Zhou"
-          },
-          {
-            "role": "text",
-            "name": ", and 1 more"
-          },
-          {
-            "role": "text",
-            "name": "July 4"
-          },
-          {
-            "role": "link",
-            "name": "Otters are thriving in \u2026 Iowa?"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Benji Jones"
-          },
-          {
-            "role": "text",
-            "name": "July 4"
-          },
-          {
-            "role": "link",
-            "name": "How to date when it feels like everyone forgot how to date\u00a0"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Alex Abad-Santos"
-          },
-          {
-            "role": "text",
-            "name": "July 4"
-          },
-          {
-            "role": "link",
-            "name": "A pregnancy turns deadly in an anti-abortion state. What happens next?"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Neel Dhanesha"
-          },
-          {
-            "role": "text",
-            "name": "July 4"
-          },
-          {
-            "role": "link",
-            "name": "How Dobbs is affecting abortion care, one week on"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ellen Ioanes"
-          },
-          {
-            "role": "text",
-            "name": "July 3"
-          },
-          {
-            "role": "link",
-            "name": "A record number of abortion measures are on the ballot in 2022"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Nicole Narea"
-          },
-          {
-            "role": "text",
-            "name": "July 3"
-          },
-          {
-            "role": "link",
-            "name": "\u201cHow do you go through the world and not be bitter and angry?\u201d"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Sean Illing"
-          },
-          {
-            "role": "text",
-            "name": "July 3"
-          },
-          {
-            "role": "link",
-            "name": "The best $79 I ever spent: Paint for my very own bedroom walls"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Tshedza Mashamba"
-          },
-          {
-            "role": "text",
-            "name": "July 3"
-          },
-          {
-            "role": "link",
-            "name": "Not all religions oppose abortion"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Marin Cogan"
-          },
-          {
-            "role": "text",
-            "name": "July 3"
-          },
-          {
-            "role": "link",
-            "name": "Could California become the first state to provide reparations?"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Fabiola Cineas"
-          },
-          {
-            "role": "text",
-            "name": "July 3"
-          },
-          {
-            "role": "link",
-            "name": "Xi Jinping asserts his power on Hong Kong\u2019s handover anniversary"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ellen Ioanes"
-          },
-          {
-            "role": "text",
-            "name": "July 2"
-          },
-          {
-            "role": "link",
-            "name": "The Supreme Court is keeping Trump\u2019s promises"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Jesus A. Rodriguez"
-          },
-          {
-            "role": "text",
-            "name": "July 2"
-          },
-          {
-            "role": "link",
-            "name": "PODCASTS"
-          },
-          {
-            "role": "link",
-            "name": "Helping you understand the most important news in the world, five days a week"
-          },
-          {
-            "role": "link",
-            "name": "A science show about everything we don\u2019t know"
-          },
-          {
-            "role": "link",
-            "name": "Your guide to the most interesting and important tech and business news of the day"
-          },
-          {
-            "role": "link",
-            "name": "More in Podcasts \u25b6"
-          },
-          {
-            "role": "img",
-            "name": "vox-mark"
-          },
-          {
-            "role": "heading",
-            "name": "Sign up for the newsletter VoxCare",
-            "level": 2
-          },
-          {
-            "role": "text",
-            "name": "Dylan Scott guides you through the fallout of the Covid-19 pandemic and the health care policies that matter most."
-          },
-          {
-            "role": "text",
-            "name": "Email"
-          },
-          {
-            "role": "text",
-            "name": "(required)"
-          },
-          {
-            "role": "textbox",
-            "name": "",
-            "required": true,
-            "invalid": "true"
-          },
-          {
-            "role": "text",
-            "name": "By submitting your email, you agree to our"
-          },
-          {
-            "role": "link",
-            "name": "Terms"
-          },
-          {
-            "role": "text",
-            "name": "and"
-          },
-          {
-            "role": "link",
-            "name": "Privacy Notice"
-          },
-          {
-            "role": "text",
-            "name": ". You can opt out at any time. This site is protected by reCAPTCHA and the Google"
-          },
-          {
-            "role": "link",
-            "name": "Privacy Policy"
-          },
-          {
-            "role": "text",
-            "name": "and"
-          },
-          {
-            "role": "link",
-            "name": "Terms of Service"
-          },
-          {
-            "role": "text",
-            "name": "apply. For more newsletters, check out our"
-          },
-          {
-            "role": "link",
-            "name": "newsletters page"
-          },
-          {
-            "role": "text",
-            "name": "."
-          },
-          {
-            "role": "button",
-            "name": "SUBSCRIBE"
-          },
-          {
-            "role": "text",
-            "name": "AD"
-          },
-          {
-            "role": "heading",
-            "name": "Pagination",
-            "level": 2
-          },
-          {
-            "role": "link",
-            "name": "MORE STORIES"
-          }
-        ]
-      },
-      {
-        "role": "text",
-        "name": "AD"
-      },
-      {
-        "role": "link",
-        "name": "Chorus"
-      },
-      {
-        "role": "link",
-        "name": "Terms of Use"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Privacy Notice"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Cookie Policy"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Do Not Sell My Personal Info"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Licensing FAQ"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Accessibility"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Platform Status"
-      },
-      {
-        "role": "link",
-        "name": "Contact"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Send Us a Tip"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Masthead"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "About Us"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Press Room"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Editorial Ethics and Guidelines"
-      },
-      {
-        "role": "link",
-        "name": "Vox Media Vox Media"
-      },
-      {
-        "role": "link",
-        "name": "Author Login"
-      },
-      {
-        "role": "link",
-        "name": "Advertise with us"
-      },
-      {
-        "role": "link",
-        "name": "Jobs @ Vox Media"
-      },
-      {
-        "role": "text",
-        "name": "\u00a9 2022"
-      },
-      {
-        "role": "link",
-        "name": "Vox Media"
-      },
-      {
-        "role": "text",
-        "name": ", LLC. All Rights Reserved"
-      }
-    ]
-  },
+  "uniq": 452576745,
+  "voxdotcom-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#content"
+    },
+    {
+      "text": "\n        \n          Vox homepage\n          \n            \n  \n\n\n          \n        \n        \n          \n            \n  \n\n\n          \n        \n        \n        \n      ",
+      "url": "/"
+    },
+    {
+      "text": "Give",
+      "url": "http://vox.com/pages/support-now?itm_campaign=contribute&itm_medium=site&itm_source=navigation"
+    },
+    {
+      "text": "Newsletters",
+      "url": "http://vox.com/pages/newsletters/?itm_campaign=contribute&itm_medium=site&itm_source=navigation"
+    },
+    {
+      "text": "\n              Midterm Elections\n              \n              ",
+      "url": "/midterm-elections-2022"
+    },
+    {
+      "text": "\n              Even Better\n              \n              ",
+      "url": "https://www.vox.com/even-better"
+    },
+    {
+      "text": "\n              Recode\n              \n              ",
+      "url": "/recode"
+    },
+    {
+      "text": "\n              The Goods\n              \n              ",
+      "url": "https://www.vox.com/the-goods"
+    },
+    {
+      "text": "\n              Future Perfect\n              \n              ",
+      "url": "https://www.vox.com/future-perfect"
+    },
+    {
+      "text": "\n              The Highlight\n              \n              ",
+      "url": "https://www.vox.com/the-highlight"
+    },
+    {
+      "text": "\n              Crossword\n              \n              ",
+      "url": "https://www.vox.com/21523212/crossword-puzzles-free-daily-printable"
+    },
+    {
+      "text": "\n              Podcasts\n              \n              ",
+      "url": "/pages/podcasts"
+    },
+    {
+      "text": "\n              Video\n              \n              ",
+      "url": "/videos"
+    },
+    {
+      "text": "\n              Explainers\n              \n              ",
+      "url": "/explainers"
+    },
+    {
+      "text": "\n              Covid\n              \n              ",
+      "url": "https://www.vox.com/coronavirus-covid19/"
+    },
+    {
+      "text": "\n              Culture\n              \n              ",
+      "url": "/culture"
+    },
+    {
+      "text": "\n              Politics & Policy\n              \n              ",
+      "url": "/policy-and-politics"
+    },
+    {
+      "text": "\n              Science & Health\n              \n              ",
+      "url": "/science-and-health"
+    },
+    {
+      "text": "\n              World\n              \n              ",
+      "url": "/world"
+    },
+    {
+      "text": "\n              Technology\n              \n              ",
+      "url": "/technology"
+    },
+    {
+      "text": "\n              Energy & Environment\n              \n              ",
+      "url": "/energy-and-environment"
+    },
+    {
+      "text": "\n              Business & Finance\n              \n              ",
+      "url": "/business-and-finance"
+    },
+    {
+      "text": "\n            Midterm Elections\n            \n          ",
+      "url": "/midterm-elections-2022"
+    },
+    {
+      "text": "\n            Even Better\n            \n          ",
+      "url": "https://www.vox.com/even-better"
+    },
+    {
+      "text": "\n            Recode\n            \n          ",
+      "url": "/recode"
+    },
+    {
+      "text": "\n            The Goods\n            \n          ",
+      "url": "https://www.vox.com/the-goods"
+    },
+    {
+      "text": "\n            Future Perfect\n            \n          ",
+      "url": "https://www.vox.com/future-perfect"
+    },
+    {
+      "text": "\n            The Highlight\n            \n          ",
+      "url": "https://www.vox.com/the-highlight"
+    },
+    {
+      "text": "\n            Crossword\n            \n          ",
+      "url": "https://www.vox.com/21523212/crossword-puzzles-free-daily-printable"
+    },
+    {
+      "text": "\n            Podcasts\n            \n          ",
+      "url": "/pages/podcasts"
+    },
+    {
+      "text": "\n            Video\n            \n          ",
+      "url": "/videos"
+    },
+    {
+      "text": "\n            Explainers\n            \n          ",
+      "url": "/explainers"
+    },
+    {
+      "text": "\n            Covid\n            \n          ",
+      "url": "https://www.vox.com/coronavirus-covid19/"
+    },
+    {
+      "text": "\n            Culture\n            \n          ",
+      "url": "/culture"
+    },
+    {
+      "text": "\n            Politics & Policy\n            \n          ",
+      "url": "/policy-and-politics"
+    },
+    {
+      "text": "\n            Science & Health\n            \n          ",
+      "url": "/science-and-health"
+    },
+    {
+      "text": "\n            World\n            \n          ",
+      "url": "/world"
+    },
+    {
+      "text": "\n            Technology\n            \n          ",
+      "url": "/technology"
+    },
+    {
+      "text": "\n            Energy & Environment\n            \n          ",
+      "url": "/energy-and-environment"
+    },
+    {
+      "text": "\n            Business & Finance\n            \n          ",
+      "url": "/business-and-finance"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657557043_8547_40801\" data-cdata='{\"image_id\":71092159,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71092159/GettyImages_1234554104.0.jpeg\" alt=\"A man on a gurney is rushed into an ambulance by EMTs, with voluminous smoke and orange-tinted air from wildfires surrounding them.\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23150467/natural-disaster-climate-change-early-warning-hurricane-wildfire"
+    },
+    {
+      "text": "Why disasters are getting more severe but killing fewer people ",
+      "url": "https://www.vox.com/23150467/natural-disaster-climate-change-early-warning-hurricane-wildfire"
+    },
+    {
+      "text": "Umair Irfan",
+      "url": "https://www.vox.com/authors/umair-irfan"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657557043_5598_40804\" data-cdata='{\"image_id\":71094245,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71094245/tik_tok_ad_board_1.0.jpg\" alt=\"A photo illustration of the TikTok logo.\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/recode/23197348/tiktok-ad-sponcon-influencers"
+    },
+    {
+      "text": "TikTok is full of shady secret advertisements",
+      "url": "https://www.vox.com/recode/23197348/tiktok-ad-sponcon-influencers"
+    },
+    {
+      "text": "Sara Morrison",
+      "url": "https://www.vox.com/authors/sara-morrison"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657557043_2112_40807\" data-cdata='{\"image_id\":71092213,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71092213/1241756602.0.jpg\" alt=\"A white woman with pink hair holds a sign reading \u201cRise up 4 abortion rights.\u201d She stands in the California sunshine, in front of a structure made up of stone arches and topped by US flags.\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/10/23200973/abortion-house-senate-midterms-roe-dobbs"
+    },
+    {
+      "text": "The battleground House and Senate races where the end of Roe could have\u00a0the biggest\u00a0impact",
+      "url": "https://www.vox.com/2022/7/10/23200973/abortion-house-senate-midterms-roe-dobbs"
+    },
+    {
+      "text": "Nicole Narea",
+      "url": "https://www.vox.com/authors/nicole-narea"
+    },
+    {
+      "text": "Li Zhou",
+      "url": "https://www.vox.com/authors/li-zhou"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657557043_7710_40810\" data-cdata='{\"image_id\":71091109,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71091109/1407702670.0.jpg\" alt=\"\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/9/23201747/protests-force-sri-lanka-leaders-to-resign-rajapaksa"
+    },
+    {
+      "text": "Protests force Sri Lanka\u2019s leaders to resign",
+      "url": "https://www.vox.com/2022/7/9/23201747/protests-force-sri-lanka-leaders-to-resign-rajapaksa"
+    },
+    {
+      "text": "Ellen Ioanes",
+      "url": "https://www.vox.com/authors/ellen-ioanes"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657557043_5854_40813\" data-cdata='{\"image_id\":71082769,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71082769/1224906852.0.jpg\" alt=\"A participant holding a sign at the protest that reads \u201cStimulus checks can\u2019t cover NYC rents.\u201d\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/future-perfect/2022/7/9/23200337/cash-transfer-study-us-covid"
+    },
+    {
+      "text": "When cash giving doesn\u2019t work",
+      "url": "https://www.vox.com/future-perfect/2022/7/9/23200337/cash-transfer-study-us-covid"
+    },
+    {
+      "text": "Dylan Matthews",
+      "url": "https://www.vox.com/authors/dylan"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657557043_182_40816\" data-cdata='{\"image_id\":71094215,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71094215/Mrs._Serr_75_to_1_rally.0.jpg\" alt=\"\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23178172/public-school-funding-inequality-lawsuit-pennsylvania"
+    },
+    {
+      "text": "School funding lawsuits are long, frustrating, and crucial for fighting inequality",
+      "url": "https://www.vox.com/23178172/public-school-funding-inequality-lawsuit-pennsylvania"
+    },
+    {
+      "text": "Rachel M. Cohen",
+      "url": "https://www.vox.com/authors/rachel-m-cohen"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657557043_8195_40819\" data-cdata='{\"image_id\":71082670,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71082670/GettyImages_1241557418a.0.jpg\" alt=\"\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23180634/supreme-court-rule-of-law-abortion-voting-rights-guns-epa"
+    },
+    {
+      "text": "The post-legal Supreme Court",
+      "url": "https://www.vox.com/23180634/supreme-court-rule-of-law-abortion-voting-rights-guns-epa"
+    },
+    {
+      "text": "Ian Millhiser",
+      "url": "https://www.vox.com/authors/ian-millhiser"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657557043_3215_40822\" data-cdata='{\"image_id\":71069862,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71069862/GettyImages_630590200.0.jpg\" alt=\"Shinzo Abe stands in a dark suit, in profile, against a massive Japanese flag furrowed by wind behind him. \"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/world/2022/7/8/23200078/shinzo-abe-japan-prime-minister-assassination-guns"
+    },
+    {
+      "text": "Shinzo Abe wanted to make Japan a \u201cnormal country\u201d \u2014 as he saw it ",
+      "url": "https://www.vox.com/world/2022/7/8/23200078/shinzo-abe-japan-prime-minister-assassination-guns"
+    },
+    {
+      "text": "Bryan Walsh",
+      "url": "https://www.vox.com/authors/bryan-walsh"
+    },
+    {
+      "text": "Apple",
+      "url": "https://itunes.apple.com/us/podcast/today-explained/id1346207297?mt=2"
+    },
+    {
+      "text": "Stitcher",
+      "url": "https://www.stitcher.com/podcast/stitcher/today-explained"
+    },
+    {
+      "text": "Spotify",
+      "url": "https://open.spotify.com/show/3pXx5SXzXwJxnf4A5pWN2A"
+    },
+    {
+      "text": "Radio",
+      "url": "https://www.vox.com/23003036/today-explained-podcast-public-radio"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2020/4/8/21212928/voxs-audience-support-program-explained"
+    },
+    {
+      "text": "Vox\u2019s audience support program, explained",
+      "url": "https://www.vox.com/2020/4/8/21212928/voxs-audience-support-program-explained"
+    },
+    {
+      "text": "Vox Staff",
+      "url": "https://www.vox.com/authors/vox-staff"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23203808/sign-up-for-the-extra-curricula-newsletter"
+    },
+    {
+      "text": "Sign up for the Extra Curricula newsletter",
+      "url": "https://www.vox.com/23203808/sign-up-for-the-extra-curricula-newsletter"
+    },
+    {
+      "text": "Vox Staff",
+      "url": "https://www.vox.com/authors/vox-staff"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23200938/joe-biden-executive-order-abortion"
+    },
+    {
+      "text": "The limitations of Joe Biden\u2019s executive order on abortion",
+      "url": "https://www.vox.com/23200938/joe-biden-executive-order-abortion"
+    },
+    {
+      "text": "Li Zhou",
+      "url": "https://www.vox.com/authors/li-zhou"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/8/23200686/who-is-pat-cipollone-trump-lawyer-testifying"
+    },
+    {
+      "text": "Who is Pat Cipollone, the Trump lawyer testifying behind closed doors on Friday? ",
+      "url": "https://www.vox.com/2022/7/8/23200686/who-is-pat-cipollone-trump-lawyer-testifying"
+    },
+    {
+      "text": "Ben Jacobs",
+      "url": "http://www.vox.com/users/ben.jacobs"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23197370/monkeypox-vaccine-questions-answered"
+    },
+    {
+      "text": "7 of your most pressing monkeypox vaccine questions, answered",
+      "url": "https://www.vox.com/23197370/monkeypox-vaccine-questions-answered"
+    },
+    {
+      "text": "Keren Landman",
+      "url": "https://www.vox.com/authors/keren-landman"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/21523212/crossword-puzzles-free-daily-printable"
+    },
+    {
+      "text": "Take a mental break with the newest Vox crossword",
+      "url": "https://www.vox.com/21523212/crossword-puzzles-free-daily-printable"
+    },
+    {
+      "text": "Vox Staff",
+      "url": "https://www.vox.com/authors/vox-staff"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/8/23198883/jobs-report-economy-june-2022-hiring-fed-inflation-recession"
+    },
+    {
+      "text": "What the latest jobs report means",
+      "url": "https://www.vox.com/2022/7/8/23198883/jobs-report-economy-june-2022-hiring-fed-inflation-recession"
+    },
+    {
+      "text": "Madeleine Ngo",
+      "url": "https://www.vox.com/authors/madeleine-ngo-2"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n        \n          Play\n\n        \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/videos/2022/7/8/23199289/abortion-bans-inequality-financial-distress"
+    },
+    {
+      "text": "How abortion bans make inequality worse",
+      "url": "https://www.vox.com/videos/2022/7/8/23199289/abortion-bans-inequality-financial-distress"
+    },
+    {
+      "text": "Laura Bult",
+      "url": "https://www.vox.com/users/Laura%20Bult"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/8/23197353/thor-love-thunder-gorr-marvel-christian-bale"
+    },
+    {
+      "text": "Marvel\u2019s villains are eclipsing its heroes",
+      "url": "https://www.vox.com/2022/7/8/23197353/thor-love-thunder-gorr-marvel-christian-bale"
+    },
+    {
+      "text": "Alex Abad-Santos",
+      "url": "https://www.vox.com/authors/alex-abad-santos"
+    },
+    {
+      "text": "\n    \n      .st1{fill:#fff}.st2{fill:#f05354}\n\n      \n    \n  ",
+      "url": "https://www.voxmedia.com/careers"
+    },
+    {
+      "text": "We're building great things, and we need your talent.",
+      "url": "https://www.voxmedia.com/careers"
+    },
+    {
+      "text": "",
+      "url": "https://www.voxmedia.com/careers"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/even-better/23196757/summer-disaster-weather-preparation-community-hurricane-wildfire-drought-heatwave-flood"
+    },
+    {
+      "text": "Preparing for extreme weather is a community concern. Here\u2019s how to be ready.",
+      "url": "https://www.vox.com/even-better/23196757/summer-disaster-weather-preparation-community-hurricane-wildfire-drought-heatwave-flood"
+    },
+    {
+      "text": "Muizz Akhtar",
+      "url": "https://www.vox.com/authors/muizz-akhtar"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/7/23198063/boris-johnson-prime-minister-resigns"
+    },
+    {
+      "text": "Boris Johnson was a winner, until he wasn\u2019t",
+      "url": "https://www.vox.com/2022/7/7/23198063/boris-johnson-prime-minister-resigns"
+    },
+    {
+      "text": "Jen Kirby",
+      "url": "https://www.vox.com/authors/jen-kirby"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/7/23191688/thor-love-thunder-credits-scenes-hercules-brett-goldstein"
+    },
+    {
+      "text": "Thor: Love and Thunder\u2019s post-credits scene is a big casting announcement ",
+      "url": "https://www.vox.com/2022/7/7/23191688/thor-love-thunder-credits-scenes-hercules-brett-goldstein"
+    },
+    {
+      "text": "Alex Abad-Santos",
+      "url": "https://www.vox.com/authors/alex-abad-santos"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/7/23198724/united-states-recession-indicators-economists-forecasters"
+    },
+    {
+      "text": "How will we know if we\u2019re in a recession? ",
+      "url": "https://www.vox.com/2022/7/7/23198724/united-states-recession-indicators-economists-forecasters"
+    },
+    {
+      "text": "Madeleine Ngo",
+      "url": "https://www.vox.com/authors/madeleine-ngo"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/7/23197430/jayland-walker-police-shooting-akron-ohio-footage"
+    },
+    {
+      "text": "What we know about the deadly police shooting of Jayland Walker ",
+      "url": "https://www.vox.com/2022/7/7/23197430/jayland-walker-police-shooting-akron-ohio-footage"
+    },
+    {
+      "text": "Fabiola Cineas",
+      "url": "https://www.vox.com/authors/fabiola-cineas"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n        \n          Play\n\n        \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/7/23198540/lost-cities-amazon-rainforest-archaeology"
+    },
+    {
+      "text": "How the \u201clost cities\u201d of the Amazon were finally found ",
+      "url": "https://www.vox.com/2022/7/7/23198540/lost-cities-amazon-rainforest-archaeology"
+    },
+    {
+      "text": "Sam Ellis",
+      "url": "https://www.vox.com/authors/sam-ellis"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/future-perfect/2022/7/7/23192182/air-pollution-west-virginia-epa-environment-particulate-pollution"
+    },
+    {
+      "text": "What the Supreme Court\u2019s EPA ruling means for air pollution \u2014 and your health",
+      "url": "https://www.vox.com/future-perfect/2022/7/7/23192182/air-pollution-west-virginia-epa-environment-particulate-pollution"
+    },
+    {
+      "text": "Siobhan McDonough",
+      "url": "https://www.vox.com/authors/siobhan-mcdonough"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23195307/roe-wade-dobbs-abortion-congress-senate-fillibuster"
+    },
+    {
+      "text": "Senate Democrats slowly consider their options after Roe",
+      "url": "https://www.vox.com/23195307/roe-wade-dobbs-abortion-congress-senate-fillibuster"
+    },
+    {
+      "text": "Rachel M. Cohen",
+      "url": "https://www.vox.com/authors/rachel-m-cohen"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/recode/2022/7/7/23186233/managers-great-resignation-quit-job"
+    },
+    {
+      "text": "Even bosses are joining the Great Resignation ",
+      "url": "https://www.vox.com/recode/2022/7/7/23186233/managers-great-resignation-quit-job"
+    },
+    {
+      "text": "Rani Molla",
+      "url": "https://www.vox.com/authors/rani-molla"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/6/23197398/build-back-better-prescription-drug-prices"
+    },
+    {
+      "text": "Democrats\u2019 latest attempt at resurrecting Build Back Better, explained",
+      "url": "https://www.vox.com/2022/7/6/23197398/build-back-better-prescription-drug-prices"
+    },
+    {
+      "text": "Li Zhou",
+      "url": "https://www.vox.com/authors/li-zhou"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/6/23196704/boris-johnson-uk-cabinet-resignations-scandal-revolt"
+    },
+    {
+      "text": "Is this the political end for Boris Johnson?",
+      "url": "https://www.vox.com/2022/7/6/23196704/boris-johnson-uk-cabinet-resignations-scandal-revolt"
+    },
+    {
+      "text": "Jen Kirby",
+      "url": "https://www.vox.com/authors/jen-kirby"
+    },
+    {
+      "text": "\n        \n          Video\n        \n      ",
+      "url": "/videos"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/2geihsxoU0E9MCfD35msQ1_yBIk=/0x0:1920x1080/250x141/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png 250w, https://cdn.vox-cdn.com/thumbor/8RV7U0K0I-rT2ZGAkOciXYWvBg4=/0x0:1920x1080/500x281/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/Ra5h1TpeOAAWFwhTyUcSRjksOQg=/0x0:1920x1080/250x141/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png 250w, https://cdn.vox-cdn.com/thumbor/XkwJTu35MQxzNNKS6qypuLg3I0Y=/0x0:1920x1080/500x281/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"1920\" src=\"https://cdn.vox-cdn.com/thumbor/BlHuJiEcoy6uSgX4oaH6JmUcaNw=/0x0:1920x1080/1200x675/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657557063_4877_41615\" data-cdata='{\"image_id\":71068922,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            How abortion bans make inequality worse\n            \n              The study that offers a glimpse into a post-Roe v. Wade future.\n            \n          \n        ",
+      "url": "https://www.vox.com/videos/2022/7/8/23199289/abortion-bans-inequality-financial-distress"
+    },
+    {
+      "text": "\n            Play\n video for How abortion bans make inequality worse\n          ",
+      "url": "https://www.vox.com/videos/2022/7/8/23199289/abortion-bans-inequality-financial-distress"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/9UR4DwH3_AlrVFarn9K_x0kEJJQ=/0x0:1920x1080/250x141/filters:focal(815x397:1121x703):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg 250w, https://cdn.vox-cdn.com/thumbor/b0SPsiLDqP7LJr7axrOoVmS5v40=/0x0:1920x1080/500x281/filters:focal(815x397:1121x703):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/F9flIIj1LUHVNqL2GrkYbbmDTjk=/0x0:1920x1080/250x141/filters:focal(815x397:1121x703)/cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg 250w, https://cdn.vox-cdn.com/thumbor/XhSYFxh0xPeZbQpgFoXbd-BW-xI=/0x0:1920x1080/500x281/filters:focal(815x397:1121x703)/cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"1920\" src=\"https://cdn.vox-cdn.com/thumbor/hwIWRGiZiIy4Jiu4kNNrsrTuFeE=/0x0:1920x1080/1200x675/filters:focal(815x397:1121x703)/cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657557063_3291_41618\" data-cdata='{\"image_id\":71058856,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            How the \u201clost cities\u201d of the Amazon were finally found \n            \n              And why they were so hard to see.\n            \n          \n        ",
+      "url": "https://www.vox.com/2022/7/7/23198540/lost-cities-amazon-rainforest-archaeology"
+    },
+    {
+      "text": "\n            Play\n video for How the \u201clost cities\u201d of the Amazon were finally found \n          ",
+      "url": "https://www.vox.com/2022/7/7/23198540/lost-cities-amazon-rainforest-archaeology"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/qVghg5dQHpYXZ56cdPmtoDNpfGs=/0x0:1547x423/250x141/filters:focal(712x104:958x350):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png 250w, https://cdn.vox-cdn.com/thumbor/5UqPhjYyVWC6CwnNVTxa9aGUHRk=/0x0:1547x423/500x281/filters:focal(712x104:958x350):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/lhm-5oAm1OopZUpESktkpFPYNwQ=/0x0:1547x423/250x141/filters:focal(712x104:958x350)/cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png 250w, https://cdn.vox-cdn.com/thumbor/6WZbhJG4FvVKX74tc2F5vEuCy-Q=/0x0:1547x423/500x281/filters:focal(712x104:958x350)/cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"1547\" src=\"https://cdn.vox-cdn.com/thumbor/o4xFubJJwkOw0Q_RJ1p6YAkRqyY=/0x0:1547x423/1200x675/filters:focal(712x104:958x350)/cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657557063_2185_41620\" data-cdata='{\"image_id\":69033029,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Sign up for the Vox video newsletter\n            \n              Don\u2019t miss our new video projects, returning series, and opportunities to get involved with our reporting.\n            \n          \n        ",
+      "url": "http://vox.com/video-newsletter"
+    },
+    {
+      "text": "More in Video",
+      "url": "/videos"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.voxmedia.com/legal/privacy-notice"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "newsletters page",
+      "url": "https://www.vox.com/pages/newsletters"
+    },
+    {
+      "text": "\n        \n          Explainers\n        \n      ",
+      "url": "/explainers"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/7jvRGco1pkUtbwKiOY_F_uUgnRo=/0x0:5394x3596/250x188/filters:focal(2966x1264:3828x2126):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71092213/1241756602.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/kHUqXqEveaKItOccgZPzuDcEeP8=/0x0:5394x3596/500x375/filters:focal(2966x1264:3828x2126):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71092213/1241756602.0.jpg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/mP805xmVS9Aw9ynafxrCa1XuV7Q=/0x0:5394x3596/250x188/filters:focal(2966x1264:3828x2126)/cdn.vox-cdn.com/uploads/chorus_image/image/71092213/1241756602.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/azAb38p5-yaKU6FQ7uooTkEZfHk=/0x0:5394x3596/500x375/filters:focal(2966x1264:3828x2126)/cdn.vox-cdn.com/uploads/chorus_image/image/71092213/1241756602.0.jpg 500w\" sizes=\"250px\" alt=\"A white woman with pink hair holds a sign reading \u201cRise up 4 abortion rights.\u201d She stands in the California sunshine, in front of a structure made up of stone arches and topped by US flags.\" data-upload-width=\"5394\" src=\"https://cdn.vox-cdn.com/thumbor/7ZN9S-xmH62WWsE7lB-_BRCjhfE=/0x0:5394x3596/1200x900/filters:focal(2966x1264:3828x2126)/cdn.vox-cdn.com/uploads/chorus_image/image/71092213/1241756602.0.jpg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"A white woman with pink hair holds a sign reading \u201cRise up 4 abortion rights.\u201d She stands in the California sunshine, in front of a structure made up of stone arches and topped by US flags.\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657555295_6570_28219\" data-cdata='{\"image_id\":71092213,\"ratio\":\"standard\"}'>\n<noscript><img alt=\"A white woman with pink hair holds a sign reading \u201cRise up 4 abortion rights.\u201d She stands in the California sunshine, in front of a structure made up of stone arches and topped by US flags.\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71092213/1241756602.0.jpg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            The battleground House and Senate races where the end of Roe could have\u00a0the biggest\u00a0impact\n            \n              The Supreme Court\u2019s decision could help Democrats in 17 tight midterm contests.\n            \n          \n        ",
+      "url": "https://www.vox.com/2022/7/10/23200973/abortion-house-senate-midterms-roe-dobbs"
+    },
+    {
+      "text": "More in Explainers",
+      "url": "/explainers"
+    },
+    {
+      "text": "Apple",
+      "url": "https://itunes.apple.com/us/podcast/the-weeds/id1042433083"
+    },
+    {
+      "text": "Stitcher",
+      "url": "https://www.stitcher.com/podcast/stitcher/voxs-the-weeds"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/6/23196899/land-of-the-giants-meta-facebook-mark-zuckerberg-podcast-vox-recode-verge"
+    },
+    {
+      "text": "The inside story at Meta as it moves beyond Facebook",
+      "url": "https://www.vox.com/2022/7/6/23196899/land-of-the-giants-meta-facebook-mark-zuckerberg-podcast-vox-recode-verge"
+    },
+    {
+      "text": "Samantha Oltman",
+      "url": "https://www.vox.com/authors/samantha-oltman"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/6/23196983/grand-jury-georgia-trump-investigation-graham-giuliani"
+    },
+    {
+      "text": "What\u2019s going on with Georgia\u2019s Trump investigation?",
+      "url": "https://www.vox.com/2022/7/6/23196983/grand-jury-georgia-trump-investigation-graham-giuliani"
+    },
+    {
+      "text": "Ben Jacobs",
+      "url": "https://www.vox.com/users/ben.jacobs"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23196838/china-hollywood-red-carpet-schwartzel"
+    },
+    {
+      "text": "How China\u2019s relationship to Hollywood has shaped the movies",
+      "url": "https://www.vox.com/23196838/china-hollywood-red-carpet-schwartzel"
+    },
+    {
+      "text": "Alissa Wilkinson",
+      "url": "https://www.vox.com/authors/alissa-wilkinson"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/recode/2022/7/6/23196809/period-apps-roe-dobbs-data-privacy-abortion"
+    },
+    {
+      "text": "Should I delete my period app? And other post-Roe privacy questions.",
+      "url": "https://www.vox.com/recode/2022/7/6/23196809/period-apps-roe-dobbs-data-privacy-abortion"
+    },
+    {
+      "text": "Sara Morrison",
+      "url": "https://www.vox.com/authors/sara-morrison"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/even-better/23188518/be-less-judgmental-tips"
+    },
+    {
+      "text": "How to be a little less judgmental",
+      "url": "https://www.vox.com/even-better/23188518/be-less-judgmental-tips"
+    },
+    {
+      "text": "Allie Volpe",
+      "url": "https://www.vox.com/users/allie.volpe"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/policy-and-politics/2022/7/6/23144343/end-of-conservatism-roe"
+    },
+    {
+      "text": "How conservatism conquered America \u2014 and corrupted itself",
+      "url": "https://www.vox.com/policy-and-politics/2022/7/6/23144343/end-of-conservatism-roe"
+    },
+    {
+      "text": "Zack Beauchamp",
+      "url": "https://www.vox.com/authors/zack-beauchamp"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23188883/california-republican-lanhee-chen-controller-midterm-gop"
+    },
+    {
+      "text": "The man giving the California GOP its best shot at statewide office in years ",
+      "url": "https://www.vox.com/23188883/california-republican-lanhee-chen-controller-midterm-gop"
+    },
+    {
+      "text": "Christian Paz",
+      "url": "https://www.vox.com/authors/christian-paz"
+    },
+    {
+      "text": "Even Better",
+      "url": "https://www.vox.com/even-better"
+    },
+    {
+      "text": "View All",
+      "url": "https://www.vox.com/even-better"
+    },
+    {
+      "text": "Preparing for extreme weather is a community concern. Here\u2019s how to be ready.",
+      "url": "https://www.vox.com/even-better/23196757/summer-disaster-weather-preparation-community-hurricane-wildfire-drought-heatwave-flood"
+    },
+    {
+      "text": "How to be a little less judgmental",
+      "url": "https://www.vox.com/even-better/23188518/be-less-judgmental-tips"
+    },
+    {
+      "text": "How to date when it feels like everyone forgot how to date ",
+      "url": "https://www.vox.com/23184875/dating-pandemic-tips-better-dater"
+    },
+    {
+      "text": "Go ahead, be a little spontaneous",
+      "url": "https://www.vox.com/even-better/23172589/spontaneous-benefits-schedule"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23189892/buffalo-mass-shooting-tops-supermarket"
+    },
+    {
+      "text": "Buffalo, seven weeks after the massacre",
+      "url": "https://www.vox.com/23189892/buffalo-mass-shooting-tops-supermarket"
+    },
+    {
+      "text": "Fabiola Cineas",
+      "url": "https://www.vox.com/authors/fabiola-cineas"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23188403/inside-ukraine-foreign-lobbying-blitz-washington-fara-justice"
+    },
+    {
+      "text": "Inside Ukraine\u2019s lobbying blitz in Washington",
+      "url": "https://www.vox.com/23188403/inside-ukraine-foreign-lobbying-blitz-washington-fara-justice"
+    },
+    {
+      "text": "Jonathan Guyer",
+      "url": "https://www.vox.com/authors/jonathan-guyer"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/recode/23188853/inflation-antitrust-ocean-shipping-biden-expensive"
+    },
+    {
+      "text": "The fight against inflation starts at sea",
+      "url": "https://www.vox.com/recode/23188853/inflation-antitrust-ocean-shipping-biden-expensive"
+    },
+    {
+      "text": "Rebecca Heilweil",
+      "url": "https://www.vox.com/authors/rebecca-heilweil"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23142734/america-mass-shooting-gun-violence-control"
+    },
+    {
+      "text": "America\u2019s unique, enduring gun problem, explained",
+      "url": "https://www.vox.com/23142734/america-mass-shooting-gun-violence-control"
+    },
+    {
+      "text": "Nicole Narea",
+      "url": "https://www.vox.com/authors/nicole-narea"
+    },
+    {
+      "text": "Li Zhou",
+      "url": "https://www.vox.com/authors/li-zhou"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/down-to-earth/23180428/river-otters-iowa-restoration"
+    },
+    {
+      "text": "Otters are thriving in \u2026 Iowa?",
+      "url": "https://www.vox.com/down-to-earth/23180428/river-otters-iowa-restoration"
+    },
+    {
+      "text": "Benji Jones",
+      "url": "https://www.vox.com/authors/benji-jones"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23184875/dating-pandemic-tips-better-dater"
+    },
+    {
+      "text": "How to date when it feels like everyone forgot how to date\u00a0",
+      "url": "https://www.vox.com/23184875/dating-pandemic-tips-better-dater"
+    },
+    {
+      "text": "Alex Abad-Santos",
+      "url": "https://www.vox.com/authors/alex-abad-santos"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/science-and-health/23191865/abortion-ban-medical-emergency-ectopic-pregnancy"
+    },
+    {
+      "text": "A pregnancy turns deadly in an anti-abortion state. What happens next? ",
+      "url": "https://www.vox.com/science-and-health/23191865/abortion-ban-medical-emergency-ectopic-pregnancy"
+    },
+    {
+      "text": "Neel Dhanesha",
+      "url": "https://www.vox.com/authors/neel-dhanesha"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/3/23193465/dobbs-roe-abortion-bans-texas-ohio-access-new-jersey-connecticut"
+    },
+    {
+      "text": "How Dobbs is affecting abortion care, one week on",
+      "url": "https://www.vox.com/2022/7/3/23193465/dobbs-roe-abortion-bans-texas-ohio-access-new-jersey-connecticut"
+    },
+    {
+      "text": "Ellen Ioanes",
+      "url": "https://www.vox.com/authors/ellen-ioanes"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/policy-and-politics/23191816/abortion-ballot-measures-california-vermont-kentucky-kansas-montana"
+    },
+    {
+      "text": "A record number of abortion measures are on the ballot in 2022",
+      "url": "https://www.vox.com/policy-and-politics/23191816/abortion-ballot-measures-california-vermont-kentucky-kansas-montana"
+    },
+    {
+      "text": "Nicole Narea",
+      "url": "https://www.vox.com/authors/nicole-narea"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/vox-conversations-podcast/2022/7/3/23180482/vox-conversations-stoicism-ryan-holiday-the-philosophers"
+    },
+    {
+      "text": "\u201cHow do you go through the world and not be bitter and angry?\u201d",
+      "url": "https://www.vox.com/vox-conversations-podcast/2022/7/3/23180482/vox-conversations-stoicism-ryan-holiday-the-philosophers"
+    },
+    {
+      "text": "Sean Illing",
+      "url": "https://www.vox.com/authors/sean-illing"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23156416/solo-bedroom-paint-best-money"
+    },
+    {
+      "text": "The best $79 I ever spent: Paint for my very own bedroom walls",
+      "url": "https://www.vox.com/23156416/solo-bedroom-paint-best-money"
+    },
+    {
+      "text": "Tshedza Mashamba",
+      "url": "https://www.vox.com/users/TshedzaMashamba"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/3/23190408/judaism-rabbi-abortion-religion-reproductive-rights"
+    },
+    {
+      "text": "Not all religions oppose abortion",
+      "url": "https://www.vox.com/2022/7/3/23190408/judaism-rabbi-abortion-religion-reproductive-rights"
+    },
+    {
+      "text": "Marin Cogan",
+      "url": "https://www.vox.com/authors/marin-cogan"
+    },
+    {
+      "text": "\n        \n          Podcasts\n        \n      ",
+      "url": "/podcasts"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/ASKcY_h32TXddw3_6bWOlklmRKg=/250x250/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png 250w, https://cdn.vox-cdn.com/thumbor/fm674V3nqlu3vRZaLV16XvOwU9Y=/500x500/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/Y6a3AY1eeRb4EHTOjlWOVFo2Q_E=/250x250/cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png 250w, https://cdn.vox-cdn.com/thumbor/NhXtGDzjofJFfr2Q156XieKhj5A=/500x500/cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png 500w\" sizes=\"250px\" alt=\"\" src=\"https://cdn.vox-cdn.com/thumbor/lrViPx0qA8oDNWROkLCiqAyFPsI=/1200x1200/cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" data-chorus-optimize-field=\"main_image\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png\" data-cid=\"site/dynamic_size_image-1657554964_9200_34365\" data-cdata='{\"ratio\":\"square\"}'>\n<noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Helping you understand the most important news in the world, five days a week\n            \n          \n        ",
+      "url": "https://www.vox.com/today-explained"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/lZlYTmC_tlK6xUcppnwF9HWibVA=/250x250/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png 250w, https://cdn.vox-cdn.com/thumbor/yniOoWCsREv7sTySR1hj7EByk8A=/500x500/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/J2plKc89WvARtx_kEjP9WcwZDk0=/250x250/cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png 250w, https://cdn.vox-cdn.com/thumbor/nXcDeFYFjwN1oBZAa6088U_bhN8=/500x500/cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png 500w\" sizes=\"250px\" alt=\"\" src=\"https://cdn.vox-cdn.com/thumbor/4DVUAxUWSHrBWtx-o667aCu8UjM=/1200x1200/cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" data-chorus-optimize-field=\"main_image\" src=\"https://cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png\" data-cid=\"site/dynamic_size_image-1657554964_306_34367\" data-cdata='{\"ratio\":\"square\"}'>\n<noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            A science show about everything we don\u2019t know\n            \n          \n        ",
+      "url": "https://www.vox.com/unexplainable"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/xGZXAVoeOZ0T3V8gyAQTuIjX-O4=/250x250/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg 250w, https://cdn.vox-cdn.com/thumbor/Aea_QiJhM1MVDkhur3fNLGiEEVw=/500x500/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/RyaLul6Ijgoqla0SzfTSsgdqCE4=/250x250/cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg 250w, https://cdn.vox-cdn.com/thumbor/REoE_awpP_WCYTTiZzEqtkBuL_E=/500x500/cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg 500w\" sizes=\"250px\" alt=\"\" src=\"https://cdn.vox-cdn.com/thumbor/IpedZ1_3BSKU5TUtCEspmrgLARk=/1200x1200/cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" data-chorus-optimize-field=\"main_image\" src=\"https://cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg\" data-cid=\"site/dynamic_size_image-1657554964_1783_34369\" data-cdata='{\"ratio\":\"square\"}'>\n<noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Your guide to the most interesting and important tech and business news of the day\n            \n          \n        ",
+      "url": "https://www.vox.com/recode-daily"
+    },
+    {
+      "text": "More in Podcasts",
+      "url": "/podcasts"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.voxmedia.com/legal/privacy-notice"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "newsletters page",
+      "url": "https://www.vox.com/pages/newsletters"
+    },
+    {
+      "text": "More Stories",
+      "url": "https://www.vox.com/archives"
+    },
+    {
+      "text": "\n        \n          \n  \n\n\n        \n        Chorus\n      ",
+      "url": "/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.voxmedia.com/legal/privacy-notice"
+    },
+    {
+      "text": "Cookie Policy",
+      "url": "https://www.voxmedia.com/legal/cookie-policy"
+    },
+    {
+      "text": "Do Not Sell My Personal Info",
+      "url": "/contact#donotsell"
+    },
+    {
+      "text": "Licensing FAQ",
+      "url": "https://www.voxmedia.com/pages/licensing"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.voxmedia.com/legal/accessibility"
+    },
+    {
+      "text": "Platform Status",
+      "url": "https://status.voxmedia.com"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
+    },
+    {
+      "text": "Send Us a Tip",
+      "url": "/contact#tip"
+    },
+    {
+      "text": "Masthead",
+      "url": "/masthead"
+    },
+    {
+      "text": "About Us",
+      "url": "/pages/about-us"
+    },
+    {
+      "text": "Press Room",
+      "url": "/press-room"
+    },
+    {
+      "text": "Editorial Ethics and Guidelines",
+      "url": "https://www.vox.com/2018/12/7/18113237/ethics-and-guidelines-at-vox-com"
+    },
+    {
+      "text": "Vox MediaVox Media\nVox Media logo.",
+      "url": "https://www.voxmedia.com"
+    },
+    {
+      "text": "Author Login",
+      "url": "https://voxmedia.stories.usechorus.com/?community_id=441"
+    },
+    {
+      "text": "Advertise with us",
+      "url": "https://www.voxmedia.com/vox-advertising"
+    },
+    {
+      "text": "Jobs @ Vox Media",
+      "url": "https://jobs.voxmedia.com"
+    },
+    {
+      "text": "Vox Media",
+      "url": "https://www.voxmedia.com"
+    }
+  ],
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"

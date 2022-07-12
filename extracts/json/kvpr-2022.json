@@ -1,5 +1,5 @@
 {
-  "created": 1657512633,
+  "created": 1657565098,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/kvpr-2022",
@@ -226,31 +226,73 @@
       "sha1": "17c622f214ea40999cabb57aaf382244dc04afc4"
     },
     {
+      "name": "kvpr-2022-07-11T11:43:19.699668-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657565002",
+      "size": "26363",
+      "md5": "0a4a8ab6fe6bfaf07655da3bc87392b6",
+      "crc32": "e8055611",
+      "sha1": "56039a37674560616c4808148b77eb532fe5e351",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-07-11T11:43:19.699668-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657565005",
+      "size": "46919",
+      "md5": "747c588fbd717798e1eafd9de4d63f79",
+      "crc32": "602553b0",
+      "sha1": "0bb7b02422ba4c81dba6fc4771aa4e9caae435f8",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-07-11T11:43:19.699668-07:00.jpg",
+      "source": "original",
+      "mtime": "1657565001",
+      "size": "306016",
+      "md5": "d70f66735cd1f30e12d5bff926469f4b",
+      "crc32": "8f6946f8",
+      "sha1": "5b04cebe5aa661c890044569f57168f40551e655",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvpr-2022-07-11T11:43:19.699668-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvpr-2022-07-11T11:43:19.699668-07:00.jpg",
+      "mtime": "1657565072",
+      "size": "10336",
+      "md5": "3f582e97e9222231e12ddba747aa1780",
+      "crc32": "70b3001e",
+      "sha1": "245abfa3258121847327fe5569922566354d6c3e"
+    },
+    {
       "name": "kvpr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "699caeb935843dcee4a25636c3f0656288fa8582",
-      "mtime": "1657512580",
-      "size": "5718",
-      "md5": "b87cf03a56cf0f8abb4c806e648fe4bb",
-      "crc32": "9e6d8534",
-      "sha1": "bbcb729b6d2f4a5df25f9f7f341e2f4da04c33a0",
+      "btih": "7850c57e8b4c4c03cf60114d5b56bc0e3fe98bfc",
+      "mtime": "1657565081",
+      "size": "6553",
+      "md5": "2ad98af197358b7a7ffcd7b36b612dc6",
+      "crc32": "5e9d9419",
+      "sha1": "20cebda4c91f0f260a81ceca8b6d31a4622f8c04",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvpr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a7c56348671d62ce96a1d16b449ba31",
+      "md5": "abdcf088de111a5d9d9b8bb710123f0f",
       "summation": "md5"
     },
     {
       "name": "kvpr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657512478",
-      "size": "40960",
-      "md5": "7ed240cd284578d2e38b8a3e12a1a131",
-      "crc32": "59c40e24",
-      "sha1": "3e895b8701c0697d037d30eb2715a5ff43b0ce08",
+      "mtime": "1657565008",
+      "size": "45056",
+      "md5": "21963b82e8f29cde3c3007e046c42c1b",
+      "crc32": "3661ede8",
+      "sha1": "255605e0e7e3388c0e74c5cb3609f606d28193b4",
       "format": "Metadata"
     },
     {
@@ -264,9 +306,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 25,
-  "item_last_updated": 1657512580,
-  "item_size": 2050885,
+  "files_count": 29,
+  "item_last_updated": 1657565081,
+  "item_size": 2445450,
   "metadata": {
     "identifier": "kvpr-2022",
     "collection": [
@@ -283,10 +325,10 @@
     "publicdate": "2022-07-09 04:00:32",
     "addeddate": "2022-07-09 04:00:32"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 462429618,
+  "server": "ia902507.us.archive.org",
+  "uniq": 276253554,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

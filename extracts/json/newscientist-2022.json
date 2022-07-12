@@ -1,5 +1,5 @@
 {
-  "created": 1657541658,
+  "created": 1657587175,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/33/items/newscientist-2022",
@@ -604,31 +604,73 @@
       "sha1": "768a11cb7db9bce1d6a481e3b9d8ba1d9c9bc930"
     },
     {
+      "name": "newscientist-2022-07-11T16:54:08.442862+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657554853",
+      "size": "17361",
+      "md5": "f0783c3854c0bd6191f757d117821f39",
+      "crc32": "93af043a",
+      "sha1": "88d7e35e12368ce089e61a517bfa9bdd398c00f3",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-07-11T16:54:08.442862+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657554857",
+      "size": "14682",
+      "md5": "6154c8e2979276f3a3c648f57fd0edb0",
+      "crc32": "eadcf4dc",
+      "sha1": "b3318bca2ceeb516ae57463ba443930e89ffa584",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-07-11T16:54:08.442862+01:00.jpg",
+      "source": "original",
+      "mtime": "1657554851",
+      "size": "306454",
+      "md5": "54fc1b4287c131a2166618af5c0b0835",
+      "crc32": "85ef9b23",
+      "sha1": "81b167a0a98a39c6d55323caad9b10c18fd897d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-07-11T16:54:08.442862+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newscientist-2022-07-11T16:54:08.442862+01:00.jpg",
+      "mtime": "1657554950",
+      "size": "10618",
+      "md5": "e410c0aa4c602e117727726daf4a42a8",
+      "crc32": "36ae3946",
+      "sha1": "f05ff8d39257a04439e86566e42590b398d3ece3"
+    },
+    {
       "name": "newscientist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0c54e23088a29757b7ab16baa2adc92471cf2bea",
-      "mtime": "1657505531",
-      "size": "13636",
-      "md5": "3315c17234a7f27339b9e739450576d8",
-      "crc32": "6d06d195",
-      "sha1": "96586542d440af9412fb771cf4496744b992518d",
+      "btih": "a1d30018794bd9151513968514ff0faa7b9c8a2b",
+      "mtime": "1657554958",
+      "size": "14502",
+      "md5": "3da64bd06048adbf16f46db1dc9b614e",
+      "crc32": "2227f5a5",
+      "sha1": "004a2c5eceb9e60b9f24c8973ce8013cb5ec00d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newscientist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "983e94c1ba002a8b7ef1e9c156047825",
+      "md5": "9ca08a6d9d4ae8fbbfe6efbc8b324ce2",
       "summation": "md5"
     },
     {
       "name": "newscientist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657505484",
-      "size": "77824",
-      "md5": "d25d684b20af480a847373a41dd9fadb",
-      "crc32": "adad2a4e",
-      "sha1": "b73a52459d57f7acf1213f4df954378d5681bbc4",
+      "mtime": "1657554862",
+      "size": "81920",
+      "md5": "05e3651a7f617746dc3c719f0ddc350f",
+      "crc32": "0de595df",
+      "sha1": "d08203b5fae6398e66ed4f8bef326e234720ed42",
       "format": "Metadata"
     },
     {
@@ -642,9 +684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 61,
-  "item_last_updated": 1657505531,
-  "item_size": 4020316,
+  "files_count": 65,
+  "item_last_updated": 1657554958,
+  "item_size": 4374393,
   "metadata": {
     "identifier": "newscientist-2022",
     "collection": [
@@ -776,11 +818,19 @@
     },
     {
       "text": "",
-      "url": "/article/2327876-uks-latest-omicron-wave-being-driven-by-ba-4-and-ba-5-covid-variants/"
+      "url": "/article/2327954-how-the-james-webb-space-telescopes-first-colour-images-were-made/"
     },
     {
-      "text": "\n                        Health\n            ",
+      "text": "\n                        Space\n            ",
+      "url": "/subject/space/"
+    },
+    {
+      "text": "\n                    HEALTH",
       "url": "/subject/health/"
+    },
+    {
+      "text": "",
+      "url": "/article/2327876-uks-latest-omicron-wave-being-driven-by-ba-4-and-ba-5-covid-variants/"
     },
     {
       "text": "\n                    PHYSICS",
@@ -791,12 +841,20 @@
       "url": "/article/2327468-worlds-most-sensitive-dark-matter-detector-tested-for-the-first-time/"
     },
     {
-      "text": "\n                    SOCIETY",
-      "url": "/subject/society/"
+      "text": "",
+      "url": "/article/mg25533943-000-the-james-webb-space-telescope-heralds-a-new-era-for-astronomy/"
+    },
+    {
+      "text": "\n                        Space\n            ",
+      "url": "/subject/space/"
     },
     {
       "text": "",
-      "url": "/article/2327711-where-do-the-contenders-for-next-uk-prime-minister-stand-on-science/"
+      "url": "/article/mg25533944-600-how-to-make-the-best-cup-of-cold-brew-coffee/"
+    },
+    {
+      "text": "\n                        Humans\n            ",
+      "url": "/subject/humans/"
     },
     {
       "text": "",
@@ -824,11 +882,11 @@
     },
     {
       "text": "",
-      "url": "/article/2327909-three-eyed-predator-stalked-the-seas-500-million-years-ago/"
+      "url": "https://www.newscientist.com/sponsored/?prx_t=hrAHACjNWAPfYQA&ntv_acpl=1111613&ntv_acsc=2&ntv_gsscm=866*8;820*9;860*9;863*3;&ntv_ht=yifMYgA&ntv_fr"
     },
     {
-      "text": "\n                        Life\n            ",
-      "url": "/subject/life/"
+      "text": "Sponsored",
+      "url": "https://www.newscientist.com/sponsored/?prx_t=hrAHACjNWAPfYQA&ntv_acpl=1111613&ntv_acsc=2&ntv_gsscm=866*8;820*9;860*9;863*3;&ntv_ht=yifMYgA&ntv_fr"
     },
     {
       "text": "",
@@ -853,22 +911,6 @@
     {
       "text": "\n                        Humans\n            ",
       "url": "/subject/humans/"
-    },
-    {
-      "text": "",
-      "url": "/video/2327761-images-of-extinct-species-highlight-culprits-of-biodiversity-loss/"
-    },
-    {
-      "text": "\n                        Video\n            ",
-      "url": "/video/"
-    },
-    {
-      "text": "",
-      "url": "/article/2327741-southern-fin-whales-have-recovered-to-large-numbers-in-the-antarctic/"
-    },
-    {
-      "text": "\n                        Life\n            ",
-      "url": "/subject/life/"
     },
     {
       "text": "",
@@ -920,7 +962,7 @@
     },
     {
       "text": "",
-      "url": "/article/mg25433900-700-saving-virungas-endangered-gorillas-with-green-power-and-chocolate/"
+      "url": "/article/mg25433871-000-how-the-massive-dogs-bred-to-protect-livestock-could-save-wolves-too/"
     },
     {
       "text": "\n                        Life\n            ",
@@ -999,8 +1041,16 @@
       "url": "https://www.newscientist.com/article/mg23030713-100-how-is-helping-children-with-autism-make-new-friends/"
     },
     {
-      "text": "World's most sensitive dark matter detector tested for the first time",
-      "url": "https://www.newscientist.com/article/2327468-worlds-most-sensitive-dark-matter-detector-tested-for-the-first-time/"
+      "text": "40 per cent of people could live outside 'human climate niche' by 2100",
+      "url": "https://www.newscientist.com/article/4-40-per-cent-of-people-could-live-outside-human-climate-niche-by-2100/"
+    },
+    {
+      "text": "The James Webb Space Telescope heralds a new era for astronomy",
+      "url": "https://www.newscientist.com/article/mg25533943-000-the-james-webb-space-telescope-heralds-a-new-era-for-astronomy/"
+    },
+    {
+      "text": "How to make the best cup of cold-brew coffee",
+      "url": "https://www.newscientist.com/article/mg25533944-600-how-to-make-the-best-cup-of-cold-brew-coffee/"
     },
     {
       "text": "Brian and Charles review: Can robots transform us, asks fantasy film",
@@ -1013,14 +1063,6 @@
     {
       "text": "Infertility in some men may be caused by X chromosome mutations",
       "url": "https://www.newscientist.com/article/2327863-infertility-in-some-men-may-be-caused-by-x-chromosome-mutations/"
-    },
-    {
-      "text": "UK's latest omicron wave being driven by BA.4 and BA.5 covid variants",
-      "url": "https://www.newscientist.com/article/2327876-uks-latest-omicron-wave-being-driven-by-ba-4-and-ba-5-covid-variants/"
-    },
-    {
-      "text": "Cumbria coal mine should be a no go for new levelling up secretary",
-      "url": "https://www.newscientist.com/article/2327871-cumbria-coal-mine-should-be-a-no-go-for-new-levelling-up-secretary/"
     },
     {
       "text": "Images of extinct species highlight culprits of biodiversity loss",
@@ -1164,7 +1206,7 @@
     }
   ],
   "server": "ia601402.us.archive.org",
-  "uniq": 588854492,
+  "uniq": 1135597100,
   "workable_servers": [
     "ia601402.us.archive.org",
     "ia801402.us.archive.org"

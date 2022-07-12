@@ -1,5 +1,5 @@
 {
-  "created": 1657542003,
+  "created": 1657587426,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/wbez-2022",
@@ -2378,31 +2378,115 @@
       "sha1": "707bbeb3524986f0d5f189ebb65092e82e29d9d7"
     },
     {
+      "name": "wbez-2022-07-11T13:24:52.473277-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563901",
+      "size": "16015",
+      "md5": "85a0e1162f8c1a7011c39a6454e18b8d",
+      "crc32": "a0c1d92f",
+      "sha1": "6cd35eecb4d23f0fd62c0959662bc4a32246b9b6",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-11T13:24:52.473277-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563903",
+      "size": "12114",
+      "md5": "c674ed286b5b7adda4e190464ca01f6b",
+      "crc32": "284bc3c9",
+      "sha1": "33cf6dd1ce32cbbe5f728a1605e2e10ade67135d",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-11T13:24:52.473277-05:00.jpg",
+      "source": "original",
+      "mtime": "1657563899",
+      "size": "323357",
+      "md5": "a573b132b698e4ebe32229cb02ff798f",
+      "crc32": "98fefe4a",
+      "sha1": "0d75582c4798603876c75e73cbf267c7c97219e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbez-2022-07-11T13:24:52.473277-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-07-11T13:24:52.473277-05:00.jpg",
+      "mtime": "1657564172",
+      "size": "9889",
+      "md5": "039e266eb5a6a833d682cb5f6f2ae337",
+      "crc32": "709c324d",
+      "sha1": "965886c28b6e0b2435ef18ed8bb070636de8a89e"
+    },
+    {
+      "name": "wbez-2022-07-11T13:54:46.791030-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657565690",
+      "size": "16040",
+      "md5": "8123b184645762df2232e250f3f780b7",
+      "crc32": "cb8d25d5",
+      "sha1": "7d435372d52bed609dd62829d72dfe50f2170856",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-11T13:54:46.791030-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657565691",
+      "size": "12114",
+      "md5": "c674ed286b5b7adda4e190464ca01f6b",
+      "crc32": "284bc3c9",
+      "sha1": "33cf6dd1ce32cbbe5f728a1605e2e10ade67135d",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-11T13:54:46.791030-05:00.jpg",
+      "source": "original",
+      "mtime": "1657565688",
+      "size": "320997",
+      "md5": "dc5a5187ff38c25c3bdf15c46df73a9b",
+      "crc32": "1080985b",
+      "sha1": "841aa9f8adca4c8942c8b6ab5097e907057fc501",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbez-2022-07-11T13:54:46.791030-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-07-11T13:54:46.791030-05:00.jpg",
+      "mtime": "1657565750",
+      "size": "9887",
+      "md5": "03dfe8e13bff5a177eaf608bd5b3e62b",
+      "crc32": "72af6cb0",
+      "sha1": "1cfc3d5cdb9e9c560c2785807ed542bc854f0f96"
+    },
+    {
       "name": "wbez-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2055499964a8288f7c970a1001fbdea543996cad",
-      "mtime": "1657510039",
-      "size": "48105",
-      "md5": "4958dbf7b1399b1b67f7c8260f5b19d5",
-      "crc32": "f9d2f44a",
-      "sha1": "e205e543ecee2b8ba04713297879739f341b1126",
+      "btih": "f9c6b842c0de1ac208f9e7925f51fb6456b40a29",
+      "mtime": "1657565760",
+      "size": "49751",
+      "md5": "6db110a8139bb1a02846bf3bcaa3704b",
+      "crc32": "9d1380f7",
+      "sha1": "20f140dea4fec0d48239cf52284158a865d705bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wbez-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f95db438b975f710888ade12790b2a31",
+      "md5": "9ec1afe30f91e5417d1b1d7cfec5ef1b",
       "summation": "md5"
     },
     {
       "name": "wbez-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657509987",
-      "size": "278528",
-      "md5": "92b503231c39884f78e713fe3f1becc5",
-      "crc32": "22de6fca",
-      "sha1": "4e3431e326f8eb91944d43e016efe07dfcef39d7",
+      "mtime": "1657565696",
+      "size": "290816",
+      "md5": "6fdf602c30e27f59832d93794b68fb12",
+      "crc32": "f3594e47",
+      "sha1": "0af8fa9d426760ceb0dfaaaffe27f65ff9b2ea91",
       "format": "Metadata"
     },
     {
@@ -2416,9 +2500,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 230,
-  "item_last_updated": 1657510039,
-  "item_size": 19725833,
+  "files_count": 238,
+  "item_last_updated": 1657565760,
+  "item_size": 20460180,
   "metadata": {
     "identifier": "wbez-2022",
     "collection": [
@@ -2435,8 +2519,8 @@
     "publicdate": "2022-06-24 23:03:38",
     "addeddate": "2022-06-24 23:03:38"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 1734012029,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1561066693,
   "wbez-2022": [
     {
       "text": "\n      Skip to main content\n    ",
@@ -2479,6 +2563,18 @@
       "url": "/#menu"
     },
     {
+      "text": "\n        Highland Park\u2019s Central Avenue reopens with busy shops, bustling traffic and remembrances of a week ago\n      ",
+      "url": "/stories/highland-parks-central-avenue-reopens-after-mass-shooting/e00b32e4-2b84-4165-ba51-286a1d3fa83a"
+    },
+    {
+      "text": "\n        Week after Highland Park July 4th parade massacre, activists head to DC to push assault weapons ban\n      ",
+      "url": "/stories/after-highland-park-activists-head-to-dc-to-push-assault-weapons-ban/1e0f3f65-7511-4b1d-8d6f-76d5856bcdc6"
+    },
+    {
+      "text": "\n        New proposal seeks to attract jobs and housing around CTA bus stops and L stations\n      ",
+      "url": "/stories/proposal-seeks-to-lure-jobs-and-housing-near-cta-stops/efd3d520-d3aa-48d1-9bb5-b97c49d79b34"
+    },
+    {
       "text": "\n        Hearing the call of the kayak and \u2018river therapy\u2019 in northern Illinois\n      ",
       "url": "/stories/kayaking-canoeing-and-boating-boom-in-illinois/4d7c2a96-9e82-402b-b1d7-d1d9552ab989"
     },
@@ -2487,16 +2583,8 @@
       "url": "/stories/14-northern-illinois-waterways-to-kayak-canoe-and-paddle/06cc09ea-ded2-406c-88ff-46dfec45b282"
     },
     {
-      "text": "\n        Hiring slipped only slightly in June, with no sign of a looming recession\n      ",
-      "url": "/stories/hiring-slipped-only-slightly-in-june-with-no-sign-of-a-looming-recession/c8b18c4b-1e48-469c-8b19-1f2470dc7845"
-    },
-    {
-      "text": "\n        Will the parents of the suspect in the Highland Park mass shooting face legal trouble?\n      ",
-      "url": "/stories/will-the-parents-of-the-suspect-in-the-highland-park-mass-shooting-face-legal-trouble/9c145ee8-622a-4efd-9af8-4f02002dafe1"
-    },
-    {
-      "text": "\n        Cook County officials want to offer $300 million in loans to suburban towns to pay bills\n      ",
-      "url": "/stories/cook-county-wants-to-loan-suburban-towns-300-million/4d105900-65be-4140-ba70-e7c4f26bedf9"
+      "text": "\n        Brittney Griner was the focus of WNBA All-Star weekend in Chicago\n      ",
+      "url": "/stories/brittney-griner-was-the-focus-of-wnba-all-star-weekend-in-chicago/4acf2774-2a89-45c6-b00e-858895da766c"
     },
     {
       "text": "\n      Consider donating today\n    ",
@@ -2543,8 +2631,32 @@
       "url": "/topics/criminal-justice/ffa74088-0ab8-406a-b1f9-b15dd6d39880"
     },
     {
+      "text": "\n        Will the parents of the suspect in the Highland Park mass shooting face legal trouble?\n      ",
+      "url": "/stories/will-the-parents-of-the-suspect-in-the-highland-park-mass-shooting-face-legal-trouble/9c145ee8-622a-4efd-9af8-4f02002dafe1"
+    },
+    {
+      "text": "\n        Politics\n      ",
+      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
+    },
+    {
+      "text": "\n        Cook County officials want to offer $300 million in loans to suburban towns to pay bills\n      ",
+      "url": "/stories/cook-county-wants-to-loan-suburban-towns-300-million/4d105900-65be-4140-ba70-e7c4f26bedf9"
+    },
+    {
+      "text": "\n        Criminal Justice\n      ",
+      "url": "/topics/criminal-justice/ffa74088-0ab8-406a-b1f9-b15dd6d39880"
+    },
+    {
       "text": "\n        Should Illinois\u2019 red-flag law have stopped the Highland Park parade shooting?\n      ",
       "url": "/stories/should-illinois-red-flag-law-have-stopped-the-highland-park-parade-shooting/7f7327be-9b13-4feb-af22-61a1d5c3f5d4"
+    },
+    {
+      "text": "\n        Crying in the Bathroom with Erika S\u00e1nchez and Mar\u00eda In\u00e9s Zamudio\n      ",
+      "url": "/events/crying-in-the-bathroom-with-erika-sanchez-and-maria-ines-zamudio/187"
+    },
+    {
+      "text": "\n        More events \u2192\n      ",
+      "url": "/events"
     },
     {
       "text": "\n        Culture & The Arts\n      ",
@@ -2561,14 +2673,6 @@
     {
       "text": "\n        Governors offer Democrats more aggressive replies on issues from gun control to abortion access\n      ",
       "url": "/stories/governors-offer-democrats-aggressive-reply-on-guns-abortion/96b0a888-da6b-461d-82a3-5cf8ba153b45"
-    },
-    {
-      "text": "\n        Crying in the Bathroom with Erika S\u00e1nchez and Mar\u00eda In\u00e9s Zamudio\n      ",
-      "url": "/events/crying-in-the-bathroom-with-erika-sanchez-and-maria-ines-zamudio/187"
-    },
-    {
-      "text": "\n        More events \u2192\n      ",
-      "url": "/events"
     },
     {
       "text": "\n        Curious City\n        ",
@@ -2760,7 +2864,7 @@
     }
   ],
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

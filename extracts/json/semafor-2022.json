@@ -1,5 +1,5 @@
 {
-  "created": 1657509869,
+  "created": 1657587291,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/32/items/semafor-2022",
@@ -2030,31 +2030,73 @@
       "sha1": "6041efc832a78b3f35a70c17e3c0373898986de2"
     },
     {
+      "name": "semafor-2022-07-11T14:16:53.762342-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563419",
+      "size": "1190",
+      "md5": "350af18dbb9e14d6ccddff2772ad67d0",
+      "crc32": "62c84ca2",
+      "sha1": "f10fbe6ce16ba5ac81610b2246398cc71e66f8e6",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-07-11T14:16:53.762342-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563423",
+      "size": "265",
+      "md5": "6763f1a03b3561a39c526971954daaab",
+      "crc32": "2503c8f5",
+      "sha1": "c29fc228db4980a7cec3785feb557e014c389d05",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-07-11T14:16:53.762342-04:00.jpg",
+      "source": "original",
+      "mtime": "1657563416",
+      "size": "117933",
+      "md5": "298ecede7156a3397e1292a691626e15",
+      "crc32": "c5b7ad9d",
+      "sha1": "a11aca02a85c0229957537666978aa60f1e2a8ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-07-11T14:16:53.762342-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-07-11T14:16:53.762342-04:00.jpg",
+      "mtime": "1657564031",
+      "size": "7513",
+      "md5": "d96d4127eb7eccf23eac226c83d464ce",
+      "crc32": "843a984a",
+      "sha1": "c41dd40f8c99f6c239a1873844dc0b363ce06d28"
+    },
+    {
       "name": "semafor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "835fca4cde7d59b43a437aebe0d87dafee90478c",
-      "mtime": "1657509859",
-      "size": "41333",
-      "md5": "d3604a1bf9b9156992b78aa26bc328de",
-      "crc32": "0c59ff6f",
-      "sha1": "8133de5256852b4b9e0c5726242ed34c8a446d48",
+      "btih": "7031fe5dd90ca7c999e1b827fdb0f3c8a5df9e7e",
+      "mtime": "1657564040",
+      "size": "42155",
+      "md5": "6c013fcbe2add9c3a9573cbee757b43a",
+      "crc32": "326391df",
+      "sha1": "51b02aefd1d7e09d21a455eb20a0376a81a616a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "semafor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3bdd21ef306b0ba2dddaf2fe1c7aa10c",
+      "md5": "65f5bd145fdb7ea337f1421b9e322183",
       "summation": "md5"
     },
     {
       "name": "semafor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657509779",
-      "size": "245760",
-      "md5": "721034e3eb05c4d62f19dce516e14159",
-      "crc32": "28dc064a",
-      "sha1": "ed3c2b0264b2933f430f37f183425141d8eb60f9",
+      "mtime": "1657563588",
+      "size": "249856",
+      "md5": "317c81ac008c81ab0ff9a9a26e52d030",
+      "crc32": "2f22aca3",
+      "sha1": "16e862b549467ff2969bcb9f9b60dd9ca20f6c6d",
       "format": "Metadata"
     },
     {
@@ -2068,9 +2110,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 197,
-  "item_last_updated": 1657509859,
-  "item_size": 6482143,
+  "files_count": 201,
+  "item_last_updated": 1657564040,
+  "item_size": 6613962,
   "metadata": {
     "identifier": "semafor-2022",
     "collection": [
@@ -2087,10 +2129,28 @@
     "publicdate": "2022-06-24 23:02:08",
     "addeddate": "2022-06-24 23:02:08"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 744518647,
+  "semafor-2022": [
+    {
+      "text": "ABOUT US",
+      "url": "/about-us"
+    },
+    {
+      "text": "MEET THE TEAM",
+      "url": "/meet-the-team"
+    },
+    {
+      "text": "CAREERS",
+      "url": "https://boards.greenhouse.io/semafor"
+    },
+    {
+      "text": "PRIVACY",
+      "url": "/privacy.html"
+    }
+  ],
+  "server": "ia601407.us.archive.org",
+  "uniq": 854863397,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

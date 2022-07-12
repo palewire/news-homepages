@@ -1,5 +1,5 @@
 {
-  "created": 1657541667,
+  "created": 1657587182,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/13/items/newstribune-2022",
@@ -594,31 +594,73 @@
       "sha1": "5c1003295a2260565ccd5f29c6466c1d068e3da7"
     },
     {
+      "name": "newstribune-2022-07-11T10:45:12.424323-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657554318",
+      "size": "22252",
+      "md5": "7560344c184ba5ee8f1f696c8519a7e7",
+      "crc32": "b3576954",
+      "sha1": "cd22452d95e0d7b571cbc060b60658ab837ad071",
+      "format": "JSON"
+    },
+    {
+      "name": "newstribune-2022-07-11T10:45:12.424323-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657554319",
+      "size": "12428",
+      "md5": "de4a85483fb9a46890029c9c840b6c17",
+      "crc32": "a8dc73ba",
+      "sha1": "8f6261f4f1949ebda1ee8dec7fdd82c7d461de65",
+      "format": "JSON"
+    },
+    {
+      "name": "newstribune-2022-07-11T10:45:12.424323-05:00.jpg",
+      "source": "original",
+      "mtime": "1657554315",
+      "size": "284763",
+      "md5": "4133727179b72fc4c72c449aa2c97013",
+      "crc32": "3a196e69",
+      "sha1": "ffae9ab43a82245daecb7c054044117eea6fb709",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newstribune-2022-07-11T10:45:12.424323-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstribune-2022-07-11T10:45:12.424323-05:00.jpg",
+      "mtime": "1657554475",
+      "size": "9140",
+      "md5": "b38cbaeac70197907e5bdedc785e21a8",
+      "crc32": "376de76b",
+      "sha1": "3a8e18f8c0130044f1c0a863d08e5d9358617db0"
+    },
+    {
       "name": "newstribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "801dba9b80df8d04bb6a93da0902a916a30a3ddc",
-      "mtime": "1657505579",
-      "size": "13390",
-      "md5": "3251dff71b8dcccfa22152fd0b1a0dfe",
-      "crc32": "88597a0a",
-      "sha1": "8cc6734847361c22d5cb42da882c7c457bc52afe",
+      "btih": "c31c66eeeb992fabfdb41e6826dadd087264610a",
+      "mtime": "1657554518",
+      "size": "14251",
+      "md5": "fdb66ee02db97d643eb590e45579314b",
+      "crc32": "c826dea6",
+      "sha1": "5ef8e7a345e7c4112e9004de40d09ce55bfb0e6b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newstribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "48afca6aee0817e07bb1df1bdd8910c4",
+      "md5": "84c8a9e1485036ecbd5a5b2758d4beff",
       "summation": "md5"
     },
     {
       "name": "newstribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657505518",
-      "size": "77824",
-      "md5": "1f3992265141e4b3fa3578304c8656b9",
-      "crc32": "b0eea923",
-      "sha1": "2c241ec11f63795fd8b60760e6a124d1dcd87efc",
+      "mtime": "1657554323",
+      "size": "81920",
+      "md5": "f3128d67a6d21399f7f49389937c5544",
+      "crc32": "b00b133d",
+      "sha1": "38b537c1c66d1925479029ff062f285eaed94ce3",
       "format": "Metadata"
     },
     {
@@ -632,9 +674,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 60,
-  "item_last_updated": 1657505579,
-  "item_size": 5009684,
+  "files_count": 64,
+  "item_last_updated": 1657554518,
+  "item_size": 5343224,
   "metadata": {
     "identifier": "newstribune-2022",
     "collection": [
@@ -651,874 +693,574 @@
     "publicdate": "2022-07-04 21:49:35",
     "addeddate": "2022-07-04 21:49:35"
   },
-  "newstribune-2022": {
-    "role": "WebArea",
-    "name": "News Tribune",
-    "children": [
-      {
-        "role": "text",
-        "name": "Sections"
-      },
-      {
-        "role": "text",
-        "name": "\uf002"
-      },
-      {
-        "role": "link",
-        "name": "title"
-      },
-      {
-        "role": "link",
-        "name": "Sign\u00a0in"
-      },
-      {
-        "role": "link",
-        "name": "Subscribe"
-      },
-      {
-        "role": "link",
-        "name": "\uf1ea Today's Edition"
-      },
-      {
-        "role": "link",
-        "name": "Local",
-        "description": "Local"
-      },
-      {
-        "role": "link",
-        "name": "Missouri",
-        "description": "Missouri"
-      },
-      {
-        "role": "link",
-        "name": "Opinion",
-        "description": "Opinion"
-      },
-      {
-        "role": "link",
-        "name": "Obits",
-        "description": "Obits"
-      },
-      {
-        "role": "link",
-        "name": "Sports",
-        "description": "Sports"
-      },
-      {
-        "role": "link",
-        "name": "GoMidMo",
-        "description": "GoMidMo"
-      },
-      {
-        "role": "link",
-        "name": "HER Magazine",
-        "description": "HER Magazine"
-      },
-      {
-        "role": "link",
-        "name": "Events",
-        "description": "Events"
-      },
-      {
-        "role": "link",
-        "name": "Classifieds",
-        "description": "Classifieds"
-      },
-      {
-        "role": "link",
-        "name": "Newsletters",
-        "description": "Newsletters"
-      },
-      {
-        "role": "link",
-        "name": "Election '22",
-        "description": "Election '22"
-      },
-      {
-        "role": "link",
-        "name": "Contests",
-        "description": "Contests"
-      },
-      {
-        "role": "link",
-        "name": "Jobs",
-        "description": "Jobs"
-      },
-      {
-        "role": "link",
-        "name": "Special Sections",
-        "description": "Special Sections"
-      },
-      {
-        "role": "link",
-        "name": "National",
-        "description": "National"
-      },
-      {
-        "role": "link",
-        "name": "World",
-        "description": "World"
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Driving school teaches teenagers and their parents",
-        "description": "Driving school teaches teenagers and their parents"
-      },
-      {
-        "role": "text",
-        "name": "Most teenagers learn their driving habits -- both good and bad -- from their parents."
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Joe Gamm"
-      },
-      {
-        "role": "text",
-        "name": "16\u00a0hours, 48\u00a0minutes ago"
-      },
-      {
-        "role": "link",
-        "name": "Head Start teachers go to the park to recruit clients",
-        "description": "Head Start teachers go to the park to recruit clients"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Joe Gamm"
-      },
-      {
-        "role": "text",
-        "name": "16\u00a0hours, 48\u00a0minutes ago"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "6th Senate candidates disagree on who reflects district",
-        "description": "6th Senate candidates disagree on who reflects district"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Ryan Pivoney"
-      },
-      {
-        "role": "text",
-        "name": "16\u00a0hours, 48\u00a0minutes ago"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Dungeons and Dragons offers opportunities to local players, creators",
-        "description": "Dungeons and Dragons offers opportunities to local players, creators"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Anakin Bush"
-      },
-      {
-        "role": "text",
-        "name": "17\u00a0hours, 3\u00a0minutes ago"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "BizBeat: The Studio offers new event space",
-        "description": "BizBeat: The Studio offers new event space"
-      },
-      {
-        "role": "text",
-        "name": "17\u00a0hours, 3\u00a0minutes ago"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Latest News"
-      },
-      {
-        "role": "link",
-        "name": "State budget funds numerous developments in Jefferson City",
-        "description": "State budget funds numerous developments in Jefferson City"
-      },
-      {
-        "role": "text",
-        "name": "When signing the record state operating budget into law, Gov. Mike Parson praised historic investments that provide \"tremendous opportunities\" for Missourians today and into the future."
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Ryan Pivoney"
-      },
-      {
-        "role": "text",
-        "name": "16\u00a0hours, 48\u00a0minutes ago"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Republican incumbent faces in-party challenge in Missouri House 59th District",
-        "description": "Republican incumbent faces in-party challenge in Missouri House 59th District"
-      },
-      {
-        "role": "text",
-        "name": "The outline of Missouri's 59th House District has changed a little."
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Joe Gamm"
-      },
-      {
-        "role": "text",
-        "name": "16\u00a0hours, 48\u00a0minutes ago"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Luis Echeverria, Mexico leader blamed for massacres, dies",
-        "description": "Luis Echeverria, Mexico leader blamed for massacres, dies"
-      },
-      {
-        "role": "text",
-        "name": "MEXICO CITY (AP) -- Former Mexican President Luis Echeverria, blamed for some of Mexico's worst political killings of the 20th century, has died at the age of 100, current President Andr\u00e9s Manuel L\u00f3pez Obrador confirmed Saturday."
-      },
-      {
-        "role": "text",
-        "name": "16\u00a0hours, 48\u00a0minutes ago"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Jefferson City News"
-      },
-      {
-        "role": "link",
-        "name": "State budget funds numerous developments in Jefferson City"
-      },
-      {
-        "role": "text",
-        "name": "When signing the record state operating budget into law, Gov. Mike Parson praised historic investments that provide \"tremendous opportunities\" for Missourians \u2026"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Ryan Pivoney"
-      },
-      {
-        "role": "text",
-        "name": "- July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Republican incumbent faces in-party challenge in Missouri House 59th District"
-      },
-      {
-        "role": "text",
-        "name": "The outline of Missouri's 59th House District has changed a little."
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Joe Gamm"
-      },
-      {
-        "role": "text",
-        "name": "- July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Opinion"
-      },
-      {
-        "role": "link",
-        "name": "COMMENTARY: Blame the criminal"
-      },
-      {
-        "role": "text",
-        "name": "When Illinois Gov. J.B. Pritzker took to the podium after the Highland Park parade shooting, he repeated a deeply flawed narrative about armed criminals that c\u2026"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Dana Kelley"
-      },
-      {
-        "role": "text",
-        "name": "- July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": "COMMENTARY: What\u2019s worse than an \u2018F\u2019? Rate the just-ended Supreme Court term"
-      },
-      {
-        "role": "text",
-        "name": "We can't even imagine a grade adequate for the Supreme Court this year, as the current scale stops after only five letters. If we ever wondered how to get a wo\u2026"
-      },
-      {
-        "role": "text",
-        "name": "by Christian F. Nunes - July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Features"
-      },
-      {
-        "role": "link",
-        "name": "Jefferson City is home to passionate comic book fans, as well as creators"
-      },
-      {
-        "role": "text",
-        "name": "Jefferson City is home to a community of comic book and graphic novel fans, including local creators and store owners."
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Anakin Bush"
-      },
-      {
-        "role": "text",
-        "name": "- July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Dungeons and Dragons offers opportunities to local players, creators"
-      },
-      {
-        "role": "text",
-        "name": "Within the last 10 years, the gaming franchise Dungeons and Dragons has remained dominant in pop culture both locally and around the world."
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Anakin Bush"
-      },
-      {
-        "role": "text",
-        "name": "- July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Sports"
-      },
-      {
-        "role": "link",
-        "name": "Gibson keeps ball in the park as Bohm, Phils edge Cards 1-0"
-      },
-      {
-        "role": "text",
-        "name": "Kyle Gibson kept the ball in the park this time against St. Louis, Alec Bohm broke a scoreless tie with a sacrifice fly in the ninth inning and the Philadelphi\u2026"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Associated Press"
-      },
-      {
-        "role": "text",
-        "name": "- July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Ram\u00edrez, rookie Jones homer, Guardians rout Royals 13-1"
-      },
-      {
-        "role": "text",
-        "name": "Jos\u00e9 Ram\u00edrez hit his first home run in nearly a month, rookie Nolan Jones connected for an impressive first homer of his career and the Cleveland Guardians sto\u2026"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "Associated Press"
-      },
-      {
-        "role": "text",
-        "name": "- July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "World News"
-      },
-      {
-        "role": "link",
-        "name": "Mobile, internet service mostly back in Canada after outage"
-      },
-      {
-        "role": "text",
-        "name": "TORONTO (AP) -- Rogers Communications Inc. said Saturday it has restored mobile and internet service for \"the vast majority\" of customers after an outage that \u2026"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "The Associated Press"
-      },
-      {
-        "role": "text",
-        "name": "- July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": "Italy: All 11 hikers killed in glacier avalanche identified"
-      },
-      {
-        "role": "text",
-        "name": "ROME (AP) -- Italian authorities on Saturday put the final death toll of an avalanche in northern Italy at 11."
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "The Associated Press"
-      },
-      {
-        "role": "text",
-        "name": "- July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "National News"
-      },
-      {
-        "role": "link",
-        "name": "Grove of giant sequoias threatened by California wildfire"
-      },
-      {
-        "role": "text",
-        "name": "YOSEMITE NATIONAL PARK, Calif. (AP) -- The largest grove of giant sequoias in Yosemite National Park remained closed Saturday, a day after hundreds of people w\u2026"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "The Associated Press"
-      },
-      {
-        "role": "text",
-        "name": "- July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Amid chaos, some at July 4 parade ran toward gunfire to help"
-      },
-      {
-        "role": "text",
-        "name": "HIGHLAND PARK, Ill. (AP) -- Bobby Shapiro ran down Central Avenue in socks, moving toward the street corner where gunfire had erupted just moments before. At f\u2026"
-      },
-      {
-        "role": "text",
-        "name": "by"
-      },
-      {
-        "role": "link",
-        "name": "The Associated Press"
-      },
-      {
-        "role": "text",
-        "name": "- July 10, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "News Tribune podcasts"
-      },
-      {
-        "role": "link",
-        "name": "LISTEN: NT on Tap -- Perceptions of police, feat. Police Chief Eric Wilde"
-      },
-      {
-        "role": "text",
-        "name": "In this week\u2019s episode, Managing Editor Gary Castor chats with Jefferson City Police Chief Eric Wilde about the public perceptions of police officers, how the \u2026"
-      },
-      {
-        "role": "text",
-        "name": "July 7, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "LISTEN: NT on Tap -- From farm girl to Missouri Supreme Court Justice, ft. Mary Russell"
-      },
-      {
-        "role": "text",
-        "name": "In this bonus episode, Managing Editor Gary Castor chats with Mary Russell about her journey from farm girl to reporter to Missouri Supreme Court justice, how \u2026"
-      },
-      {
-        "role": "text",
-        "name": "July 1, 2022"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "MORE LATEST NEWS"
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "heading",
-        "name": "Recommended for you",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "Iframe",
-        "name": ""
-      },
-      {
-        "role": "text",
-        "name": "News"
-      },
-      {
-        "role": "link",
-        "name": "Local News",
-        "description": "Local News"
-      },
-      {
-        "role": "link",
-        "name": "Missouri News",
-        "description": "Missouri News"
-      },
-      {
-        "role": "link",
-        "name": "Business",
-        "description": "Business"
-      },
-      {
-        "role": "link",
-        "name": "Opinion",
-        "description": "Opinion"
-      },
-      {
-        "role": "link",
-        "name": "Nation",
-        "description": "Nation"
-      },
-      {
-        "role": "link",
-        "name": "World",
-        "description": "World"
-      },
-      {
-        "role": "link",
-        "name": "Podcasts",
-        "description": "Podcasts"
-      },
-      {
-        "role": "link",
-        "name": "Today's Edition",
-        "description": "Today's Edition"
-      },
-      {
-        "role": "link",
-        "name": "Archives",
-        "description": "Archives"
-      },
-      {
-        "role": "link",
-        "name": "Health",
-        "description": "Health"
-      },
-      {
-        "role": "text",
-        "name": "Sports"
-      },
-      {
-        "role": "link",
-        "name": "All Sports",
-        "description": "All Sports"
-      },
-      {
-        "role": "link",
-        "name": "High School",
-        "description": "High School"
-      },
-      {
-        "role": "link",
-        "name": "College",
-        "description": "All College"
-      },
-      {
-        "role": "link",
-        "name": "Pro",
-        "description": "All Pro"
-      },
-      {
-        "role": "link",
-        "name": "Kansas City Chiefs",
-        "description": "Kansas City Chiefs"
-      },
-      {
-        "role": "text",
-        "name": "Features"
-      },
-      {
-        "role": "link",
-        "name": "Weddings & Anniversaries",
-        "description": "Weddings & Anniversaries"
-      },
-      {
-        "role": "link",
-        "name": "Obituaries",
-        "description": "Obituaries"
-      },
-      {
-        "role": "link",
-        "name": "HER Magazine",
-        "description": "Her Magazine"
-      },
-      {
-        "role": "link",
-        "name": "Style",
-        "description": "Style"
-      },
-      {
-        "role": "link",
-        "name": "Entertainment",
-        "description": "Entertainment"
-      },
-      {
-        "role": "link",
-        "name": "Flavor",
-        "description": "Flavor"
-      },
-      {
-        "role": "link",
-        "name": "Jefferson City Landmarks",
-        "description": "Jefferson City Landmarks"
-      },
-      {
-        "role": "text",
-        "name": "Extras"
-      },
-      {
-        "role": "link",
-        "name": "Classifieds",
-        "description": "Classifieds"
-      },
-      {
-        "role": "link",
-        "name": "Legal Notices",
-        "description": "Legal Notices"
-      },
-      {
-        "role": "link",
-        "name": "Jobs",
-        "description": "Jobs"
-      },
-      {
-        "role": "link",
-        "name": "Autos",
-        "description": "Autos"
-      },
-      {
-        "role": "link",
-        "name": "Events",
-        "description": "Events"
-      },
-      {
-        "role": "link",
-        "name": "Newsletters",
-        "description": "Newsletters"
-      },
-      {
-        "role": "link",
-        "name": "California Democrat",
-        "description": "California Democrat"
-      },
-      {
-        "role": "link",
-        "name": "Fulton Sun",
-        "description": "Fulton Sun"
-      },
-      {
-        "role": "link",
-        "name": "NT Rewards",
-        "description": "NT Rewards"
-      },
-      {
-        "role": "text",
-        "name": "Contacts"
-      },
-      {
-        "role": "link",
-        "name": "Advertise",
-        "description": "Advertise"
-      },
-      {
-        "role": "link",
-        "name": "Subscribe",
-        "description": "Subscribe"
-      },
-      {
-        "role": "link",
-        "name": "Contact Us",
-        "description": "Contact Us"
-      },
-      {
-        "role": "link",
-        "name": "About Us",
-        "description": "About Us"
-      },
-      {
-        "role": "link",
-        "name": "Terms of Use",
-        "description": "About Us"
-      },
-      {
-        "role": "link",
-        "name": "Commercial Printing",
-        "description": "Commercial Printing"
-      },
-      {
-        "role": "text",
-        "name": "Copyright \u00a9 2022, News Tribune Publishing"
-      },
-      {
-        "role": "text",
-        "name": "All rights reserved."
-      },
-      {
-        "role": "text",
-        "name": "This document may not be reprinted without the express written permission of News Tribune Publishing."
-      }
-    ]
-  },
+  "newstribune-2022": [
+    {
+      "text": "Local News",
+      "url": "/news/jefferson-city/"
+    },
+    {
+      "text": "Missouri News",
+      "url": "/news/missouri/"
+    },
+    {
+      "text": "Nation",
+      "url": "/news/national/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "/obituaries/"
+    },
+    {
+      "text": "World",
+      "url": "/news/international/"
+    },
+    {
+      "text": "Business",
+      "url": "/news/business"
+    },
+    {
+      "text": "Politics",
+      "url": "/news/politics"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/news/podcasts/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "/news/features/entertainment/"
+    },
+    {
+      "text": "Weddings & Anniversaries",
+      "url": "/couples/"
+    },
+    {
+      "text": "Flavor",
+      "url": "/news/features/food/"
+    },
+    {
+      "text": "Health",
+      "url": "/news/health/"
+    },
+    {
+      "text": "Style",
+      "url": "/news/features/style/"
+    },
+    {
+      "text": "NT Rewards",
+      "url": "https://www.newstribune.com/NTREWARDS/"
+    },
+    {
+      "text": "All Opinion",
+      "url": "/news/opinion/"
+    },
+    {
+      "text": "Editorials",
+      "url": "/news/opinion/editorials/"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "/news/opinion/letters/"
+    },
+    {
+      "text": "Submit a Letter to the Editor",
+      "url": "/letters-to-editor/"
+    },
+    {
+      "text": "High School",
+      "url": "/news/sports/preps/"
+    },
+    {
+      "text": "All College",
+      "url": "/news/sports/college/"
+    },
+    {
+      "text": "Kansas City Chiefs",
+      "url": "/news/sports/pro/kansas-city-chiefs/"
+    },
+    {
+      "text": "All Pro",
+      "url": "/news/sports/pro/"
+    },
+    {
+      "text": "\n\n",
+      "url": "/"
+    },
+    {
+      "text": "Sign\u00a0in",
+      "url": "/auth/login?r=//www.newstribune.com/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://subscribe.wehco.com/subscription/news-tribune/"
+    },
+    {
+      "text": "Sign\u00a0in",
+      "url": "/auth/login?r=//www.newstribune.com/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://subscribe.wehco.com/subscription/news-tribune/"
+    },
+    {
+      "text": "Today's Edition",
+      "url": "/eedition/"
+    },
+    {
+      "text": "Local",
+      "url": "/news/jefferson-city/"
+    },
+    {
+      "text": "Missouri",
+      "url": "/news/missouri/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/news/opinion/"
+    },
+    {
+      "text": "Obits",
+      "url": "/obituaries/"
+    },
+    {
+      "text": "Sports",
+      "url": "/news/sports/"
+    },
+    {
+      "text": "GoMidMo",
+      "url": "/news/gomidmo/"
+    },
+    {
+      "text": "HER Magazine",
+      "url": "https://www.newstribune.com/her/"
+    },
+    {
+      "text": "Events",
+      "url": "/go/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://www.midmoclassifieds.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters/"
+    },
+    {
+      "text": "Election '22",
+      "url": "/election/"
+    },
+    {
+      "text": "Contests",
+      "url": "/special-sections/contests/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://midmocareers.com/"
+    },
+    {
+      "text": "Special Sections",
+      "url": "/special-sections/"
+    },
+    {
+      "text": "National",
+      "url": "/news/national/"
+    },
+    {
+      "text": "World",
+      "url": "/news/international/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/massive-st-martin-parish-picnic-was-days-in-making/"
+    },
+    {
+      "text": "Massive St. Martin Parish Picnic was days in making",
+      "url": "/news/2022/jul/11/massive-st-martin-parish-picnic-was-days-in-making/"
+    },
+    {
+      "text": "Joe Gamm",
+      "url": "/staff/joe-gamm/"
+    },
+    {
+      "text": "Former Stanislaus pastor accused of embezzling about $320,000",
+      "url": "/news/2022/jul/11/former-stanislaus-pastor-accused-of-embezzling/"
+    },
+    {
+      "text": "Joe Gamm",
+      "url": "/staff/joe-gamm/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/former-stanislaus-pastor-accused-of-embezzling/"
+    },
+    {
+      "text": "Commitment to historic preservation doesn\u2019t end with her retirement",
+      "url": "/news/2022/jul/11/commitment-to-historic-preservation-doesnt-end/"
+    },
+    {
+      "text": "Ryan Pivoney",
+      "url": "/staff/ryan-pivoney/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/commitment-to-historic-preservation-doesnt-end/"
+    },
+    {
+      "text": "Trump ally Bannon willing to testify",
+      "url": "/news/2022/jul/11/trump-ally-bannon-willing-to-testify/"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/staff/the-associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/trump-ally-bannon-willing-to-testify/"
+    },
+    {
+      "text": "Cowboy humorist/celebrity Will Rogers attended military school in Boonville",
+      "url": "/news/2022/jul/11/cowboy-humoristcelebrity-will-rogers-attended/"
+    },
+    {
+      "text": "Jeremy Amick",
+      "url": "/staff/jeremy-amick/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/cowboy-humoristcelebrity-will-rogers-attended/"
+    },
+    {
+      "text": "Latest News",
+      "url": "news/news/"
+    },
+    {
+      "text": "Chapter celebrating 30 years of service",
+      "url": "/news/2022/jul/11/chapter-celebrating-30-years-of-service/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/chapter-celebrating-30-years-of-service/"
+    },
+    {
+      "text": "Legal tips for seniors choosing contractors",
+      "url": "/news/2022/jul/11/legal-tips-for-seniors-choosing-contractors/"
+    },
+    {
+      "text": "20-year marriage crumbles; stay-at-home mom anxious",
+      "url": "/news/2022/jul/11/20-year-marriage-crumbles-stay-at-home-mom-anxious/"
+    },
+    {
+      "text": "Jefferson City News",
+      "url": "/news/jefferson-city/"
+    },
+    {
+      "text": "Former Stanislaus pastor accused of embezzling about $320,000",
+      "url": "/news/2022/jul/11/former-stanislaus-pastor-accused-of-embezzling/"
+    },
+    {
+      "text": "Joe Gamm",
+      "url": "/staff/joe-gamm/"
+    },
+    {
+      "text": "Trump says he won\u2019t endorse Hartzler, calls Greitens \u2018smart,\u2019 \u2018tough\u2019",
+      "url": "/news/2022/jul/11/trump-says-he-wont-endorse-hartzler-calls/"
+    },
+    {
+      "text": "The Missouri Independent",
+      "url": "/staff/the-missouri-independent/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/trump-says-he-wont-endorse-hartzler-calls/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/news/opinion/"
+    },
+    {
+      "text": "COMMENTARY: Creating fake rights",
+      "url": "/news/2022/jul/11/commentary-creating-fake-rights/"
+    },
+    {
+      "text": "Bradley Gitz",
+      "url": "/staff/bradley-gitz/"
+    },
+    {
+      "text": "COMMENTARY: Blame the criminal",
+      "url": "/news/2022/jul/10/blame-the-criminal/"
+    },
+    {
+      "text": "Dana Kelley",
+      "url": "/staff/dana-kelley/"
+    },
+    {
+      "text": "Features",
+      "url": "/news/features/"
+    },
+    {
+      "text": "Legal tips for seniors choosing contractors",
+      "url": "/news/2022/jul/11/legal-tips-for-seniors-choosing-contractors/"
+    },
+    {
+      "text": "Saving for your grandchildren\u2019s education",
+      "url": "/news/2022/jul/11/saving-for-your-grandchildrens-education/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/saving-for-your-grandchildrens-education/"
+    },
+    {
+      "text": "Sports",
+      "url": "/news/sports/"
+    },
+    {
+      "text": "Pujols hits No. 684 to help Cards rally past Phillies 4-3",
+      "url": "/news/2022/jul/11/pujols-hits-no-684-to-help-cards-rally-past-phillies-4-3/"
+    },
+    {
+      "text": "Associated Press",
+      "url": "/staff/associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/pujols-hits-no-684-to-help-cards-rally-past-phillies-4-3/"
+    },
+    {
+      "text": "Greinke pitches five scoreless innings, Royals beat Guardians",
+      "url": "/news/2022/jul/11/greinke-pitches-five-scoreless-innings-royals-beat-guardians/"
+    },
+    {
+      "text": "Associated Press",
+      "url": "/staff/associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/greinke-pitches-five-scoreless-innings-royals-beat-guardians/"
+    },
+    {
+      "text": "World News",
+      "url": "/news/world/"
+    },
+    {
+      "text": "15 killed in Russian strike",
+      "url": "/news/2022/jul/11/15-killed-in-russian-strike/"
+    },
+    {
+      "text": "Gary Castor",
+      "url": "/staff/gary-castor/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/15-killed-in-russian-strike/"
+    },
+    {
+      "text": "Sri Lanka opposition meets to name new government",
+      "url": "/news/2022/jul/11/sri-lanka-opposition-meets-to-name-new-government/"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/staff/the-associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/11/sri-lanka-opposition-meets-to-name-new-government/"
+    },
+    {
+      "text": "National News",
+      "url": "/news/national/"
+    },
+    {
+      "text": "Floating abortion clinic proposed in Gulf",
+      "url": "/news/2022/jul/11/floating-abortion-clinic-proposed-in-gulf/"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/staff/the-associated-press/"
+    },
+    {
+      "text": "Coast Guard has intercepted more than 3,000 Cuban migrants",
+      "url": "/news/2022/jul/11/coast-guard-has-intercepted-more-than-3000-cuban/"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/staff/the-associated-press/"
+    },
+    {
+      "text": "News Tribune podcasts",
+      "url": "/news/podcasts/"
+    },
+    {
+      "text": "LISTEN: NT on Tap -- Perceptions of police, feat. Police Chief Eric Wilde",
+      "url": "/news/2022/jul/07/listen-nt-on-tap-perceptions-of-police-feat-police-chief-eric-wilde/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/07/listen-nt-on-tap-perceptions-of-police-feat-police-chief-eric-wilde/"
+    },
+    {
+      "text": "LISTEN: NT on Tap -- From farm girl to Missouri Supreme Court Justice, ft. Mary Russell",
+      "url": "/news/2022/jul/01/listen-nt-on-tap-from-farm-girl-to-missouri-supreme-court-justice-ft-mary-russell/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/01/listen-nt-on-tap-from-farm-girl-to-missouri-supreme-court-justice-ft-mary-russell/"
+    },
+    {
+      "text": "MORE LATEST NEWS",
+      "url": "/news/news/"
+    },
+    {
+      "text": "Local News",
+      "url": "/news/jefferson-city/"
+    },
+    {
+      "text": "Missouri News",
+      "url": "/news/missouri/"
+    },
+    {
+      "text": "Business",
+      "url": "/news/business"
+    },
+    {
+      "text": "Opinion",
+      "url": "/news/opinion/letters/"
+    },
+    {
+      "text": "Nation",
+      "url": "/news/national/"
+    },
+    {
+      "text": "World",
+      "url": "/news/international/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/news/podcasts/"
+    },
+    {
+      "text": "Today's Edition",
+      "url": "https://newstribune.pressreader.com/news-tribune-ereader"
+    },
+    {
+      "text": "Archives",
+      "url": "/archivesearch/"
+    },
+    {
+      "text": "Health",
+      "url": "/news/health/"
+    },
+    {
+      "text": "All Sports",
+      "url": "/news/sports/"
+    },
+    {
+      "text": "High School",
+      "url": "/news/sports/preps/"
+    },
+    {
+      "text": "College",
+      "url": "/news/sports/college/"
+    },
+    {
+      "text": "Pro",
+      "url": "/news/sports/pro/"
+    },
+    {
+      "text": "Kansas City Chiefs",
+      "url": "/news/sports/pro/kansas-city-chiefs/"
+    },
+    {
+      "text": "Weddings & Anniversaries",
+      "url": "/couples/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "/obituaries/"
+    },
+    {
+      "text": "HER Magazine",
+      "url": "https://www.newstribune.com/her/"
+    },
+    {
+      "text": "Style",
+      "url": "/news/features/style/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "/news/features/entertainment/"
+    },
+    {
+      "text": "Flavor",
+      "url": "/news/features/food/"
+    },
+    {
+      "text": "Jefferson City Landmarks",
+      "url": "/landmark/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://www.midmoclassifieds.com/"
+    },
+    {
+      "text": "Legal Notices",
+      "url": "http://newstribune.classifieds.adicio.com/g/public-notices-30772919-b"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.midmocareers.com/"
+    },
+    {
+      "text": "Autos",
+      "url": "http://www.midmoclassifieds.com/"
+    },
+    {
+      "text": "Events",
+      "url": "/go/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters/"
+    },
+    {
+      "text": "California Democrat",
+      "url": "https://californiademocrat.com/"
+    },
+    {
+      "text": "Fulton Sun",
+      "url": "https://fultonsun.com/"
+    },
+    {
+      "text": "NT Rewards",
+      "url": "https://www.newstribune.com/NTREWARDS/"
+    },
+    {
+      "text": "Advertise",
+      "url": "/advertise/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://subscribe.wehco.com/subscription/news-tribune/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/contact/"
+    },
+    {
+      "text": "About Us",
+      "url": "/about-us/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/privacy-policy/"
+    },
+    {
+      "text": "Commercial Printing",
+      "url": "https://www.midmoprinting.com/"
+    }
+  ],
   "server": "ia801409.us.archive.org",
-  "uniq": 893438213,
+  "uniq": 1464277081,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

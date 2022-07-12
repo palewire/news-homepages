@@ -1,5 +1,5 @@
 {
-  "created": 1657541899,
+  "created": 1657587331,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/thehill-2022",
@@ -604,31 +604,73 @@
       "sha1": "3bd9d753c8f313c96deffd86ccccefe6c78d49dc"
     },
     {
+      "name": "thehill-2022-07-11T14:20:23.519640-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563629",
+      "size": "46400",
+      "md5": "575961152685a6f807a7b3be4bf1a331",
+      "crc32": "45b73f08",
+      "sha1": "7ff6610e16ce040e19354a0c14d30df20dc76de9",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-07-11T14:20:23.519640-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563632",
+      "size": "67804",
+      "md5": "ef5ebdebf86adc0c8be1560ac72afa0d",
+      "crc32": "e6b2be87",
+      "sha1": "0033a768816dae26587eedcb18c07733607befea",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-07-11T14:20:23.519640-04:00.jpg",
+      "source": "original",
+      "mtime": "1657563625",
+      "size": "306499",
+      "md5": "d3dd53267eac717dfbdafc3b3c888c1e",
+      "crc32": "3c0a75b9",
+      "sha1": "e0410e05948f16c215740459a6fcfb2ac72bb521",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-07-11T14:20:23.519640-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-07-11T14:20:23.519640-04:00.jpg",
+      "mtime": "1657564063",
+      "size": "11088",
+      "md5": "bf9d81be50a2b92471968bccc773e834",
+      "crc32": "1d35db6a",
+      "sha1": "36d8a8d0dfe6b275fd21570f162b4a8e63ab8bc4"
+    },
+    {
       "name": "thehill-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9a390a11384d3394f58ac1252020eca9c6e3553f",
-      "mtime": "1657509899",
-      "size": "13402",
-      "md5": "34e871254372b40734db0b702aa6c91f",
-      "crc32": "7bbcc91f",
-      "sha1": "deeb5dd6aff8dffac79747ac41c79a866d8f79a5",
+      "btih": "2dbf99c7f57b28591cb4d69f37b802b17f1b3dae",
+      "mtime": "1657564085",
+      "size": "14248",
+      "md5": "46afc4db4e31f00694215bf9d0d16163",
+      "crc32": "cd1a72c8",
+      "sha1": "a5f5ed23ba944c0c797a42c4fa6c2eb2ce5477ae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehill-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "64bc05ee5be53bec5d58e1ad99a53b8f",
+      "md5": "087b4dddc7cee43546463feb1cd25fff",
       "summation": "md5"
     },
     {
       "name": "thehill-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657509856",
-      "size": "77824",
-      "md5": "bc2e8c1de93ce9b323e8225fae469c0c",
-      "crc32": "75e423c5",
-      "sha1": "31252f544c49af1a83a2bfda4fd2251f9b003bb8",
+      "mtime": "1657563880",
+      "size": "81920",
+      "md5": "105cfcd543b5b3ec5321e65f902b266c",
+      "crc32": "42f98a49",
+      "sha1": "3354a4a5238c9d3308f378567a10e0f16c234f64",
       "format": "Metadata"
     },
     {
@@ -642,9 +684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 61,
-  "item_last_updated": 1657509899,
-  "item_size": 6129606,
+  "files_count": 65,
+  "item_last_updated": 1657564085,
+  "item_size": 6566339,
   "metadata": {
     "identifier": "thehill-2022",
     "collection": [
@@ -661,7 +703,7 @@
     "publicdate": "2022-07-04 21:46:22",
     "addeddate": "2022-07-04 21:46:22"
   },
-  "server": "ia801508.us.archive.org",
+  "server": "ia601508.us.archive.org",
   "thehill-2022": [
     {
       "text": "Skip to content",
@@ -928,28 +970,48 @@
       "url": "https://sponsored.thehill.com/huaweistory/p/1?utm_source=thehill&utm_medium=featured_tag&utm_campaign=sponsored"
     },
     {
-      "text": "\n\t\t\tIs federal government dooming efforts to address climate change?\t\t",
-      "url": "https://thehill.com/policy/energy-environment/3550573-is-federal-government-dooming-efforts-to-address-climate-change/"
+      "text": "\n\t\t\tBiden \u2018determined\u2019 to renew assault weapons ban\t\t",
+      "url": "https://thehill.com/homenews/administration/3553266-biden-determined-to-renew-assault-weapons-ban/"
     },
     {
-      "text": "\n\t\t\t\t\tEnergy & Environment\t\t\t\t",
-      "url": "https://thehill.com/policy/energy-environment/"
+      "text": "\n\t\t\t\t\tAdministration\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/senate/3551909-schumer-tests-positive-for-covid-as-senate-set-to-reconvene/"
+      "url": "https://thehill.com/homenews/administration/3553271-parkland-shooting-victim-interrupts-biden-speech-at-white-house/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\tAdministration\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
+    },
+    {
+      "text": "\n\t\t\t\tParkland shooting victim interrupts Biden speech at White House\t\t\t",
+      "url": "https://thehill.com/homenews/administration/3553271-parkland-shooting-victim-interrupts-biden-speech-at-white-house/"
+    },
+    {
+      "text": "Alex Gangitano",
+      "url": "https://thehill.com/author/alex-gangitano/"
+    },
+    {
+      "text": "\n\t\t\t\t\tAdministration\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/senate/3550749-schumer-making-last-ditch-bid-to-pass-reconciliation-bill-this-summer/"
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t\tSenate\t\t\t\n\t\t\t",
       "url": "https://thehill.com/homenews/senate/"
     },
     {
-      "text": "\n\t\t\t\tSchumer tests positive for COVID as Senate set to reconvene\t\t\t",
-      "url": "https://thehill.com/homenews/senate/3551909-schumer-tests-positive-for-covid-as-senate-set-to-reconvene/"
+      "text": "\n\t\t\t\tSchumer making last-ditch bid to pass reconciliation bill this summer\t\t\t",
+      "url": "https://thehill.com/homenews/senate/3550749-schumer-making-last-ditch-bid-to-pass-reconciliation-bill-this-summer/"
     },
     {
-      "text": "Olafimihan Oshin",
-      "url": "https://thehill.com/author/olafimihan-oshin/"
+      "text": "Alexander Bolton",
+      "url": "https://thehill.com/author/alexander-bolton/"
     },
     {
       "text": "\n\t\t\t\t\tSenate\t\t\t\t",
@@ -957,43 +1019,423 @@
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/policy/national-security/3551699-bannon-says-he-will-testify-at-public-jan-6-hearing-as-contempt-trial-looms/"
+      "url": "https://thehill.com/homenews/campaign/3550546-new-faces-begin-to-surface-as-possible-trump-2024-key-players/"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t\tNational Security\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/policy/national-security/"
+      "text": "\n\t\t\t\t\t\n\t\t\t\tCampaign\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/"
     },
     {
-      "text": "\n\t\t\t\tBannon willing to testify at public Jan. 6 hearing as contempt trial looms\t\t\t",
-      "url": "https://thehill.com/policy/national-security/3551699-bannon-says-he-will-testify-at-public-jan-6-hearing-as-contempt-trial-looms/"
+      "text": "\n\t\t\t\tNew faces begin to surface as possible Trump 2024 key players\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/3550546-new-faces-begin-to-surface-as-possible-trump-2024-key-players/"
+    },
+    {
+      "text": "Brett Samuels",
+      "url": "https://thehill.com/author/brett-samuels/"
+    },
+    {
+      "text": "\n\t\t\t\t\tCampaign\t\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/regulation/court-battles/3552888-doj-says-it-interviewed-trumps-attorney-over-bannon-case/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\tCourt Battles\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/regulation/court-battles/"
+    },
+    {
+      "text": "\n\t\t\t\tDOJ says it interviewed Trump\u2019s attorney over Bannon case\t\t\t",
+      "url": "https://thehill.com/regulation/court-battles/3552888-doj-says-it-interviewed-trumps-attorney-over-bannon-case/"
+    },
+    {
+      "text": "Harper Neidig",
+      "url": "https://thehill.com/author/harper-neidig/"
+    },
+    {
+      "text": "\n\t\t\t\t\tCourt Battles\t\t\t\t",
+      "url": "https://thehill.com/regulation/court-battles/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/policy/healthcare/3553064-fda-receives-application-for-first-over-the-counter-birth-control-pill/"
+    },
+    {
+      "text": "\n\t\t\t\t\tHealthcare\t\t\t\t",
+      "url": "https://thehill.com/policy/healthcare/"
+    },
+    {
+      "text": "\n\t\t\t\t\tHealthcare\t\t\t\t",
+      "url": "https://thehill.com/policy/healthcare/"
+    },
+    {
+      "text": "\n\t\t\t\tFDA receives application for first over-the-counter birth control pill\t\t\t",
+      "url": "https://thehill.com/policy/healthcare/3553064-fda-receives-application-for-first-over-the-counter-birth-control-pill/"
+    },
+    {
+      "text": "Peter Sullivan",
+      "url": "https://thehill.com/author/peter-sullivan/"
+    },
+    {
+      "text": "\n\t\t\t\t\tHealthcare\t\t\t\t",
+      "url": "https://thehill.com/policy/healthcare/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/3553096-trump-says-life-begins-at-80-amid-questions-about-bidens-age/"
+    },
+    {
+      "text": "\n\t\t\t\t\tCampaign\t\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/"
+    },
+    {
+      "text": "\n\t\t\t\t\tCampaign\t\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/"
+    },
+    {
+      "text": "\n\t\t\t\tTrump says \u2018life begins at 80\u2019 amid questions about Biden\u2019s age\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/3553096-trump-says-life-begins-at-80-amid-questions-about-bidens-age/"
+    },
+    {
+      "text": "Brett Samuels",
+      "url": "https://thehill.com/author/brett-samuels/"
+    },
+    {
+      "text": "\n\t\t\t\t\tCampaign\t\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/3552202-most-democrats-prefer-new-presidential-candidate-in-2024-poll/"
+    },
+    {
+      "text": "\n\t\t\t\t\tNews\t\t\t\t",
+      "url": "https://thehill.com/homenews/"
+    },
+    {
+      "text": "\n\t\t\t\t\tNews\t\t\t\t",
+      "url": "https://thehill.com/homenews/"
+    },
+    {
+      "text": "\n\t\t\t\t64 percent of Democrats want someone other than Biden to be 2024 nominee: poll\t\t\t",
+      "url": "https://thehill.com/homenews/3552202-most-democrats-prefer-new-presidential-candidate-in-2024-poll/"
+    },
+    {
+      "text": "Olafimihan Oshin",
+      "url": "https://thehill.com/author/olafimihan-oshin/"
+    },
+    {
+      "text": "\n\t\t\t\t\tNews\t\t\t\t",
+      "url": "https://thehill.com/homenews/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/opinion/3551887-juan-williams-clarence-thomas-and-me/"
+    },
+    {
+      "text": "\n\t\t\t\t\tOpinion\t\t\t\t",
+      "url": "https://thehill.com/opinion/"
+    },
+    {
+      "text": "\n\t\t\t\t\tOpinion\t\t\t\t",
+      "url": "https://thehill.com/opinion/"
+    },
+    {
+      "text": "\n\t\t\t\tJuan Williams: Clarence Thomas and me\t\t\t",
+      "url": "https://thehill.com/opinion/3551887-juan-williams-clarence-thomas-and-me/"
+    },
+    {
+      "text": "\n\t\t\t\t\tOpinion\t\t\t\t",
+      "url": "https://thehill.com/opinion/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/3550354-this-florida-house-race-is-giving-democrats-hope-in-a-brutal-year/"
+    },
+    {
+      "text": "\n\t\t\t\t\tCampaign\t\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/"
+    },
+    {
+      "text": "\n\t\t\t\t\tCampaign\t\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/"
+    },
+    {
+      "text": "\n\t\t\t\tThis Florida House race is giving Democrats hope in a brutal year\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/3550354-this-florida-house-race-is-giving-democrats-hope-in-a-brutal-year/"
+    },
+    {
+      "text": "Max Greenwood",
+      "url": "https://thehill.com/author/max-greenwood/"
+    },
+    {
+      "text": "\n\t\t\t\t\tCampaign\t\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/3552992-just-13-percent-say-us-headed-in-right-direction-survey/"
+    },
+    {
+      "text": "\n\t\t\t\t\tNews\t\t\t\t",
+      "url": "https://thehill.com/homenews/"
+    },
+    {
+      "text": "\n\t\t\t\t\tNews\t\t\t\t",
+      "url": "https://thehill.com/homenews/"
+    },
+    {
+      "text": "\n\t\t\t\tJust 13 percent say US headed in right direction: survey\t\t\t",
+      "url": "https://thehill.com/homenews/3552992-just-13-percent-say-us-headed-in-right-direction-survey/"
+    },
+    {
+      "text": "Olafimihan Oshin",
+      "url": "https://thehill.com/author/olafimihan-oshin/"
+    },
+    {
+      "text": "\n\t\t\t\t\tNews\t\t\t\t",
+      "url": "https://thehill.com/homenews/"
+    },
+    {
+      "text": "\n\t\t\t\t\tParkland shooting victim interrupts ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/3553271-parkland-shooting-victim-interrupts-biden-speech-at-white-house/"
+    },
+    {
+      "text": "\n\t\t\t\t\tSchumer making last-ditch bid to pass ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/senate/3550749-schumer-making-last-ditch-bid-to-pass-reconciliation-bill-this-summer/"
+    },
+    {
+      "text": "\n\t\t\t\t\tNew faces begin to surface as ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/3550546-new-faces-begin-to-surface-as-possible-trump-2024-key-players/"
+    },
+    {
+      "text": "\n\t\t\t\t\tThe Supreme Court\u2019s impact on the ...\t\t\t\t",
+      "url": "https://thehill.com/opinion/judiciary/3550911-the-supreme-courts-impact-on-the-midterms-and-american-democracy/"
+    },
+    {
+      "text": "\n\t\t\t\t\tRepublicans aren\u2019t guaranteed to ...\t\t\t\t",
+      "url": "https://thehill.com/opinion/campaign/3551419-republicans-arent-guaranteed-to-sweep-the-midterms-but-if-they-do-heres-what-to-expect/"
+    },
+    {
+      "text": "\n\t\t\t\t\tWhy outrage politics has such a grip ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/house/3550612-why-outrage-politics-has-such-a-grip-on-american-life/"
+    },
+    {
+      "text": "\n\t\t\t\t\tRaskin, Kinzinger detail plans for ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/3551577-raskin-kinzinger-detail-plans-for-jan-6-hearings-this-week/"
+    },
+    {
+      "text": "\n\t\t\t\t\tUkraine defense chief says US rocket ...\t\t\t\t",
+      "url": "https://thehill.com/policy/defense/3551961-ukraine-defense-chief-says-us-rocket-systems-have-been-game-changer/"
+    },
+    {
+      "text": "\n\t\t\t\t\tDOJ says it interviewed Trump\u2019s ...\t\t\t\t",
+      "url": "https://thehill.com/regulation/court-battles/3552888-doj-says-it-interviewed-trumps-attorney-over-bannon-case/"
+    },
+    {
+      "text": "\n\t\t\t\t\tJuan Williams: Clarence Thomas and me\t\t\t\t",
+      "url": "https://thehill.com/opinion/3551887-juan-williams-clarence-thomas-and-me/"
+    },
+    {
+      "text": "\n\t\t\t\t\tThis Florida House race is giving ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/campaign/3550354-this-florida-house-race-is-giving-democrats-hope-in-a-brutal-year/"
+    },
+    {
+      "text": "\n\t\t\t\t\tButtigieg defends anti-Kavanaugh ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/3551789-buttigieg-defends-anti-kavanaugh-protesters-outside-mortons-people-are-upset/"
+    },
+    {
+      "text": "\n\t\t\t\t\tBiden \u2018determined\u2019 to renew ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/3553266-biden-determined-to-renew-assault-weapons-ban/"
+    },
+    {
+      "text": "\n\t\t\t\t\tPaul Ryan \u2018found himself sobbing\u2019 ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/house/3551870-paul-ryan-found-himself-sobbing-during-jan-6-attack-book/"
+    },
+    {
+      "text": "\n\t\t\t\t\tAttended one of these schools? You ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/nexstar_media_wire/3549086-attended-one-of-these-schools-you-may-be-eligible-for-student-loan-forgiveness/"
+    },
+    {
+      "text": "\n\t\t\t\t\t64 percent of Democrats want someone ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/3552202-most-democrats-prefer-new-presidential-candidate-in-2024-poll/"
+    },
+    {
+      "text": "\n\t\t\t\t\tThe time has come: Defund the ...\t\t\t\t",
+      "url": "https://thehill.com/opinion/campaign/3551625-the-time-has-come-defund-the-hopelessly-biased-npr/"
+    },
+    {
+      "text": "\n\t\t\t\t\tFlorida newspaper \u2018erred in ...\t\t\t\t",
+      "url": "https://thehill.com/homenews/media/3553203-florida-newspaper-erred-in-publishing-op-ed-defending-proud-boys-editor-says/"
+    },
+    {
+      "text": "\n\t\t\t\tCondoleezza Rice to join Denver Broncos\u2019 ownership group",
+      "url": "https://thehill.com/blogs/in-the-know/3553302-condoleezza-rice-to-join-nfls-broncos-ownership-group/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tIn The Know\t\t\t\t\t",
+      "url": "https://thehill.com/blogs/in-the-know/"
+    },
+    {
+      "text": "\n\t\t\t\tHousehold inflation expectations hit record in New York Fed survey",
+      "url": "https://thehill.com/policy/finance/3553343-household-inflation-expectations-hit-record-in-new-york-fed-survey/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tFinance\t\t\t\t\t",
+      "url": "https://thehill.com/policy/finance/"
+    },
+    {
+      "text": "\n\t\t\t\tOur government is failing its mandate to \u2018insure domestic Tranquility\u2019",
+      "url": "https://thehill.com/opinion/civil-rights/3551846-our-government-is-failing-its-mandate-to-insure-domestic-tranquility/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tOpinion\t\t\t\t\t",
+      "url": "https://thehill.com/opinion/"
+    },
+    {
+      "text": "\n\t\t\t\tCalling friends is more meaningful than you might think",
+      "url": "https://thehill.com/changing-america/well-being/mental-health/3553287-calling-friends-is-more-meaningful-than-you-might-think/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tMental Health\t\t\t\t\t",
+      "url": "https://thehill.com/changing-america/well-being/mental-health/"
+    },
+    {
+      "text": "\n\t\t\t\tNearly 90 percent of Americans anxious over inflation",
+      "url": "https://thehill.com/changing-america/well-being/mental-health/3553278-nearly-90-percent-of-americans-anxious-over-inflation/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tMental Health\t\t\t\t\t",
+      "url": "https://thehill.com/changing-america/well-being/mental-health/"
+    },
+    {
+      "text": "\n\t\t\t\tWATCH: Sea lions chase California beachgoers",
+      "url": "https://thehill.com/homenews/wire/3552690-watch-sea-lions-chase-california-beachgoers/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tWire\t\t\t\t\t",
+      "url": "https://thehill.com/homenews/wire/"
+    },
+    {
+      "text": "\n\t\t\t\tParkland shooting victim interrupts Biden speech at White House",
+      "url": "https://thehill.com/homenews/administration/3553271-parkland-shooting-victim-interrupts-biden-speech-at-white-house/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tAdministration\t\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
+    },
+    {
+      "text": "\n\t\t\t\tBiden \u2018determined\u2019 to renew assault weapons ban",
+      "url": "https://thehill.com/homenews/administration/3553266-biden-determined-to-renew-assault-weapons-ban/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tAdministration\t\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
+    },
+    {
+      "text": "\n\t\tView all\t",
+      "url": "https://thehill.com/news"
+    },
+    {
+      "text": "\n\t\tLoad more\n\t",
+      "url": "https://thehill.com/news"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/house/3551974-this-week-jan-6-hearings-resume-house-takes-up-abortion-bills/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\tHouse\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/house/"
+    },
+    {
+      "text": "\n\t\t\tThis week: Jan. 6 hearings resume, House takes up abortion bills\t\t",
+      "url": "https://thehill.com/homenews/house/3551974-this-week-jan-6-hearings-resume-house-takes-up-abortion-bills/"
+    },
+    {
+      "text": "Mychael Schnell",
+      "url": "https://thehill.com/author/mychael-schnell/"
+    },
+    {
+      "text": "\n\t\t\t\t\tHouse\t\t\t\t",
+      "url": "https://thehill.com/homenews/house/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/policy/technology/3553131-elon-musk-mocks-efforts-to-force-him-to-buy-twitter/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\tTechnology\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/policy/technology/"
+    },
+    {
+      "text": "\n\t\t\t\tElon Musk mocks efforts to \u2018force\u2019 him to buy Twitter\t\t\t",
+      "url": "https://thehill.com/policy/technology/3553131-elon-musk-mocks-efforts-to-force-him-to-buy-twitter/"
     },
     {
       "text": "Zach Schonfeld",
       "url": "https://thehill.com/author/zach-schonfeld/"
     },
     {
-      "text": "\n\t\t\t\t\tNational Security\t\t\t\t",
-      "url": "https://thehill.com/policy/national-security/"
+      "text": "\n\t\t\t\t\tTechnology\t\t\t\t",
+      "url": "https://thehill.com/policy/technology/"
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/house/3550291-jan-6-panel-to-examine-extremist-groups-ties-to-trump/"
+      "url": "https://thehill.com/homenews/media/3553203-florida-newspaper-erred-in-publishing-op-ed-defending-proud-boys-editor-says/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\tMedia\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/media/"
+    },
+    {
+      "text": "\n\t\t\t\tFlorida newspaper \u2018erred in publishing\u2019 op-ed defending Proud Boys, editor says\t\t\t",
+      "url": "https://thehill.com/homenews/media/3553203-florida-newspaper-erred-in-publishing-op-ed-defending-proud-boys-editor-says/"
+    },
+    {
+      "text": "Dominick Mastrangelo",
+      "url": "https://thehill.com/author/dominick-mastrangelo/"
+    },
+    {
+      "text": "\n\t\t\t\t\tMedia\t\t\t\t",
+      "url": "https://thehill.com/homenews/media/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/3552593-eagerness-to-reelect-incumbents-drops-gallup/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\tNews\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/"
+    },
+    {
+      "text": "\n\t\t\t\tEagerness to reelect incumbents drops: Gallup\t\t\t",
+      "url": "https://thehill.com/homenews/3552593-eagerness-to-reelect-incumbents-drops-gallup/"
+    },
+    {
+      "text": "Olafimihan Oshin",
+      "url": "https://thehill.com/author/olafimihan-oshin/"
+    },
+    {
+      "text": "\n\t\t\t\t\tNews\t\t\t\t",
+      "url": "https://thehill.com/homenews/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/house/3551870-paul-ryan-found-himself-sobbing-during-jan-6-attack-book/"
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t\tHouse\t\t\t\n\t\t\t",
       "url": "https://thehill.com/homenews/house/"
     },
     {
-      "text": "\n\t\t\t\tJan. 6 panel to examine extremist groups, ties to Trump\t\t\t",
-      "url": "https://thehill.com/homenews/house/3550291-jan-6-panel-to-examine-extremist-groups-ties-to-trump/"
+      "text": "\n\t\t\t\tPaul Ryan \u2018found himself sobbing\u2019 during Jan. 6 attack: book\t\t\t",
+      "url": "https://thehill.com/homenews/house/3551870-paul-ryan-found-himself-sobbing-during-jan-6-attack-book/"
     },
     {
-      "text": "Mike Lillis",
-      "url": "https://thehill.com/author/mike-lillis/"
-    },
-    {
-      "text": "Rebecca Beitsch",
-      "url": "https://thehill.com/author/rebecca-beitsch/"
+      "text": "Olafimihan Oshin",
+      "url": "https://thehill.com/author/olafimihan-oshin/"
     },
     {
       "text": "\n\t\t\t\t\tHouse\t\t\t\t",
@@ -1001,54 +1443,30 @@
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/house/3550612-why-outrage-politics-has-such-a-grip-on-american-life/"
+      "url": "https://thehill.com/policy/defense/3551961-ukraine-defense-chief-says-us-rocket-systems-have-been-game-changer/"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t\tHouse\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/house/"
+      "text": "\n\t\t\t\t\t\n\t\t\t\tDefense\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/policy/defense/"
     },
     {
-      "text": "\n\t\t\t\tWhy outrage politics has such a grip on American life\t\t\t",
-      "url": "https://thehill.com/homenews/house/3550612-why-outrage-politics-has-such-a-grip-on-american-life/"
+      "text": "\n\t\t\t\tUkraine defense chief says US rocket systems have been \u2018game-changer\u2019\t\t\t",
+      "url": "https://thehill.com/policy/defense/3551961-ukraine-defense-chief-says-us-rocket-systems-have-been-game-changer/"
     },
     {
-      "text": "Emily Brooks",
-      "url": "https://thehill.com/author/emily-brooks/"
+      "text": "Olafimihan Oshin",
+      "url": "https://thehill.com/author/olafimihan-oshin/"
     },
     {
-      "text": "\n\t\t\t\t\tHouse\t\t\t\t",
-      "url": "https://thehill.com/homenews/house/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/ap/ap-health/biden-says-hes-mulling-health-emergency-for-abortion-access/"
-    },
-    {
-      "text": "\n\t\t\t\t\tAP Health\t\t\t\t",
-      "url": "https://thehill.com/homenews/ap/ap-health/"
-    },
-    {
-      "text": "\n\t\t\t\t\tAP Health\t\t\t\t",
-      "url": "https://thehill.com/homenews/ap/ap-health/"
-    },
-    {
-      "text": "\n\t\t\t\tBiden says he\u2019s mulling health emergency for abortion access\t\t\t",
-      "url": "https://thehill.com/homenews/ap/ap-health/biden-says-hes-mulling-health-emergency-for-abortion-access/"
-    },
-    {
-      "text": "\n\t\t\t\t\tAP Health\t\t\t\t",
-      "url": "https://thehill.com/homenews/ap/ap-health/"
+      "text": "\n\t\t\t\t\tDefense\t\t\t\t",
+      "url": "https://thehill.com/policy/defense/"
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t",
       "url": "https://thehill.com/homenews/sunday-talk-shows/3551577-raskin-kinzinger-detail-plans-for-jan-6-hearings-this-week/"
     },
     {
-      "text": "\n\t\t\t\t\tSunday Talk Shows\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/"
-    },
-    {
-      "text": "\n\t\t\t\t\tSunday Talk Shows\t\t\t\t",
+      "text": "\n\t\t\t\t\t\n\t\t\t\tSunday Talk Shows\t\t\t\n\t\t\t",
       "url": "https://thehill.com/homenews/sunday-talk-shows/"
     },
     {
@@ -1065,51 +1483,71 @@
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551789-buttigieg-defends-anti-kavanaugh-protesters-outside-mortons-people-are-upset/"
+      "url": "https://thehill.com/homenews/state-watch/3553086-hundreds-of-virginia-state-employees-resign-amid-new-policy-to-bring-them-back-to-the-office/"
     },
     {
-      "text": "\n\t\t\t\t\tSunday Talk Shows\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/"
+      "text": "\n\t\t\t\t\tState Watch\t\t\t\t",
+      "url": "https://thehill.com/homenews/state-watch/"
     },
     {
-      "text": "\n\t\t\t\t\tSunday Talk Shows\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/"
+      "text": "\n\t\t\t\t\tState Watch\t\t\t\t",
+      "url": "https://thehill.com/homenews/state-watch/"
     },
     {
-      "text": "\n\t\t\t\tButtigieg defends anti-Kavanaugh protesters outside Morton\u2019s: \u2018People are upset\u2019\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551789-buttigieg-defends-anti-kavanaugh-protesters-outside-mortons-people-are-upset/"
+      "text": "\n\t\t\t\tHundreds of Virginia state employees resign amid new policy to bring them back to the office\t\t\t",
+      "url": "https://thehill.com/homenews/state-watch/3553086-hundreds-of-virginia-state-employees-resign-amid-new-policy-to-bring-them-back-to-the-office/"
     },
     {
-      "text": "Olafimihan Oshin",
-      "url": "https://thehill.com/author/olafimihan-oshin/"
-    },
-    {
-      "text": "\n\t\t\t\t\tSunday Talk Shows\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/"
+      "text": "\n\t\t\t\t\tState Watch\t\t\t\t",
+      "url": "https://thehill.com/homenews/state-watch/"
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551405-durbin-says-its-not-realistic-to-consider-impeaching-clarence-thomas/"
+      "url": "https://thehill.com/homenews/administration/3552870-blinken-backs-canadian-move-to-help-germany-import-natural-gas-from-russia/"
     },
     {
-      "text": "\n\t\t\t\t\tSunday Talk Shows\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/"
+      "text": "\n\t\t\t\t\tAdministration\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
     },
     {
-      "text": "\n\t\t\t\t\tSunday Talk Shows\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/"
+      "text": "\n\t\t\t\t\tAdministration\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
     },
     {
-      "text": "\n\t\t\t\tDurbin says it\u2019s \u2018not realistic\u2019 to consider impeaching Clarence Thomas\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551405-durbin-says-its-not-realistic-to-consider-impeaching-clarence-thomas/"
+      "text": "\n\t\t\t\tUS says it backs Canadian move to help Germany import natural gas from Russia\t\t\t",
+      "url": "https://thehill.com/homenews/administration/3552870-blinken-backs-canadian-move-to-help-germany-import-natural-gas-from-russia/"
     },
     {
-      "text": "Brad Dress",
-      "url": "https://thehill.com/author/brad-dress/"
+      "text": "Laura Kelly",
+      "url": "https://thehill.com/author/laura-kelly/"
     },
     {
-      "text": "\n\t\t\t\t\tSunday Talk Shows\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/"
+      "text": "\n\t\t\t\t\tAdministration\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/homenews/administration/3552835-blinken-calls-assassinated-former-japanese-leader-shinzo-abe-a-man-of-vision/"
+    },
+    {
+      "text": "\n\t\t\t\t\tAdministration\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
+    },
+    {
+      "text": "\n\t\t\t\t\tAdministration\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
+    },
+    {
+      "text": "\n\t\t\t\tBlinken calls assassinated former Japanese leader Shinzo Abe a \u2018man of vision\u2019\t\t\t",
+      "url": "https://thehill.com/homenews/administration/3552835-blinken-calls-assassinated-former-japanese-leader-shinzo-abe-a-man-of-vision/"
+    },
+    {
+      "text": "Zach Schonfeld",
+      "url": "https://thehill.com/author/zach-schonfeld/"
+    },
+    {
+      "text": "\n\t\t\t\t\tAdministration\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t",
@@ -1137,307 +1575,23 @@
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/policy/defense/3551320-retired-general-suspended-after-tweet-critical-of-jill-biden/"
-    },
-    {
-      "text": "\n\t\t\t\t\tDefense\t\t\t\t",
-      "url": "https://thehill.com/policy/defense/"
-    },
-    {
-      "text": "\n\t\t\t\t\tDefense\t\t\t\t",
-      "url": "https://thehill.com/policy/defense/"
-    },
-    {
-      "text": "\n\t\t\t\tRetired general suspended after tweet critical of Jill Biden\t\t\t",
-      "url": "https://thehill.com/policy/defense/3551320-retired-general-suspended-after-tweet-critical-of-jill-biden/"
-    },
-    {
-      "text": "\n\t\t\t\t\tDefense\t\t\t\t",
-      "url": "https://thehill.com/policy/defense/"
-    },
-    {
-      "text": "\n\t\t\t\t\tRaskin, Kinzinger detail plans for ...\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551577-raskin-kinzinger-detail-plans-for-jan-6-hearings-this-week/"
-    },
-    {
-      "text": "\n\t\t\t\t\tRage Against the Machine says ...\t\t\t\t",
-      "url": "https://thehill.com/blogs/in-the-know/3551714-rage-against-the-machine-says-abort-the-supreme-court-in-return-to-stage/"
-    },
-    {
-      "text": "\n\t\t\t\t\tPaul Ryan \u2018found himself sobbing\u2019 ...\t\t\t\t",
-      "url": "https://thehill.com/homenews/house/3551870-paul-ryan-found-himself-sobbing-during-jan-6-attack-book/"
-    },
-    {
-      "text": "\n\t\t\t\t\tFormer Biden campaign official ...\t\t\t\t",
       "url": "https://thehill.com/homenews/administration/3551835-former-biden-campaign-official-took-offense-to-white-house-statement-on-abortion-action/"
     },
     {
-      "text": "\n\t\t\t\t\tButtigieg defends anti-Kavanaugh ...\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551789-buttigieg-defends-anti-kavanaugh-protesters-outside-mortons-people-are-upset/"
+      "text": "\n\t\t\t\t\tAdministration\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
     },
     {
-      "text": "\n\t\t\t\t\tWatch live: Trump holds rally in ...\t\t\t\t",
-      "url": "https://thehill.com/video/3551216-watch-live-trump-holds-rally-in-alaska/"
+      "text": "\n\t\t\t\t\tAdministration\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/"
     },
     {
-      "text": "\n\t\t\t\t\tMulvaney: White House ...\t\t\t\t",
-      "url": "https://thehill.com/blogs/blog-briefing-room/3550940-mulvaney-white-house-friend-said-meadows-was-incompetent-had-nervous-breakdown-on-jan-6/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWhy outrage politics has such a grip ...\t\t\t\t",
-      "url": "https://thehill.com/homenews/house/3550612-why-outrage-politics-has-such-a-grip-on-american-life/"
-    },
-    {
-      "text": "\n\t\t\t\t\tAttended one of these schools? You ...\t\t\t\t",
-      "url": "https://thehill.com/homenews/nexstar_media_wire/3549086-attended-one-of-these-schools-you-may-be-eligible-for-student-loan-forgiveness/"
-    },
-    {
-      "text": "\n\t\t\t\t\tMeghan McCain: \u2018impregnate the ...\t\t\t\t",
-      "url": "https://thehill.com/blogs/in-the-know/3551855-meghan-mccain-impregnate-the-planet-mentality-of-musk-cannon-is-creepy/"
-    },
-    {
-      "text": "\n\t\t\t\t\tDurbin says it\u2019s \u2018not ...\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551405-durbin-says-its-not-realistic-to-consider-impeaching-clarence-thomas/"
-    },
-    {
-      "text": "\n\t\t\t\t\tTrump goes after \u2018RINO\u2019 Murkowski ...\t\t\t\t",
-      "url": "https://thehill.com/homenews/campaign/3551248-trump-goes-after-rino-murkowski-during-alaska-rally-shes-worse-than-a-democrat/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWyoming senator says \u2018there are not ...\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551369-wyoming-senator-says-there-are-not-enough-democrats-to-help-liz-cheney-win-primary/"
-    },
-    {
-      "text": "\n\t\t\t\t\tJan. 6 documentarian says Trump ...\t\t\t\t",
-      "url": "https://thehill.com/policy/national-security/3551596-jan-6-documentarian-says-trump-family-didnt-feel-culpability-for-capitol-riot/"
-    },
-    {
-      "text": "\n\t\t\t\t\tRepublicans aren\u2019t guaranteed to ...\t\t\t\t",
-      "url": "https://thehill.com/opinion/campaign/3551419-republicans-arent-guaranteed-to-sweep-the-midterms-but-if-they-do-heres-what-to-expect/"
-    },
-    {
-      "text": "\n\t\t\t\t\tGOP governor says conservatives are ...\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551437-gop-gov-says-conservatives-are-slowly-pushing-back-against-trump-its-just-taking-longer-than-it-should/"
-    },
-    {
-      "text": "\n\t\t\t\t\tGavin Newsom punches GOP to ...\t\t\t\t",
-      "url": "https://thehill.com/homenews/campaign/3549453-gavin-newsom-punches-gop-to-democratic-applause/"
-    },
-    {
-      "text": "\n\t\t\t\t\tTrump: Elon Musk \u2018another ...\t\t\t\t",
-      "url": "https://thehill.com/homenews/state-watch/3551329-trump-elon-musk-another-bulls-artist/"
-    },
-    {
-      "text": "\n\t\t\t\tUkraine defense chief says US rocket systems have been \u2018game-changer\u2019",
-      "url": "https://thehill.com/policy/defense/3551961-ukraine-defense-chief-says-us-rocket-systems-have-been-game-changer/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tDefense\t\t\t\t\t",
-      "url": "https://thehill.com/policy/defense/"
-    },
-    {
-      "text": "\n\t\t\t\tSchumer tests positive for COVID as Senate set to reconvene",
-      "url": "https://thehill.com/homenews/senate/3551909-schumer-tests-positive-for-covid-as-senate-set-to-reconvene/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tSenate\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/senate/"
-    },
-    {
-      "text": "\n\t\t\t\tMeghan McCain: \u2018impregnate the planet\u2019 mentality of Musk, Cannon is \u2018creepy\u2019",
-      "url": "https://thehill.com/blogs/in-the-know/3551855-meghan-mccain-impregnate-the-planet-mentality-of-musk-cannon-is-creepy/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tIn The Know\t\t\t\t\t",
-      "url": "https://thehill.com/blogs/in-the-know/"
-    },
-    {
-      "text": "\n\t\t\t\tBiden to unveil first photo from Webb telescope on Monday",
-      "url": "https://thehill.com/policy/technology/3551872-biden-to-unveil-first-photo-from-webb-telescope-on-monday/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tTechnology\t\t\t\t\t",
-      "url": "https://thehill.com/policy/technology/"
-    },
-    {
-      "text": "\n\t\t\t\tPaul Ryan \u2018found himself sobbing\u2019 during Jan. 6 attack: book",
-      "url": "https://thehill.com/homenews/house/3551870-paul-ryan-found-himself-sobbing-during-jan-6-attack-book/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tHouse\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/house/"
-    },
-    {
-      "text": "\n\t\t\t\tFormer Biden campaign official \u2018took offense\u2019 to White House statement on abortion action",
+      "text": "\n\t\t\t\tFormer Biden campaign official \u2018took offense\u2019 to White House statement on abortion action\t\t\t",
       "url": "https://thehill.com/homenews/administration/3551835-former-biden-campaign-official-took-offense-to-white-house-statement-on-abortion-action/"
     },
     {
-      "text": "\n\t\t\t\t\t\tAdministration\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/administration/"
-    },
-    {
-      "text": "\n\t\t\t\tUkraine urges evacuation in southern Kherson region ahead of counterattack",
-      "url": "https://thehill.com/policy/defense/3551781-ukraine-urges-evacuation-in-southern-kherson-region-ahead-of-counter-attack/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tDefense\t\t\t\t\t",
-      "url": "https://thehill.com/policy/defense/"
-    },
-    {
-      "text": "\n\t\t\t\tButtigieg defends anti-Kavanaugh protesters outside Morton\u2019s: \u2018People are upset\u2019",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551789-buttigieg-defends-anti-kavanaugh-protesters-outside-mortons-people-are-upset/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tSunday Talk Shows\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/"
-    },
-    {
-      "text": "\n\t\tView all\t",
-      "url": "https://thehill.com/news"
-    },
-    {
-      "text": "\n\t\tLoad more\n\t",
-      "url": "https://thehill.com/news"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/blogs/blog-briefing-room/news/3550582-bidens-middle-east-policy-shows-echoes-of-trump/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\tNews\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/blogs/blog-briefing-room/news/"
-    },
-    {
-      "text": "\n\t\t\tBiden\u2019s Middle East policy shows echoes of Trump\t\t",
-      "url": "https://thehill.com/blogs/blog-briefing-room/news/3550582-bidens-middle-east-policy-shows-echoes-of-trump/"
-    },
-    {
-      "text": "Laura Kelly",
-      "url": "https://thehill.com/author/laura-kelly/"
-    },
-    {
-      "text": "Morgan Chalfant",
-      "url": "https://thehill.com/author/morgan-chalfant/"
-    },
-    {
-      "text": "\n\t\t\t\t\tNews\t\t\t\t",
-      "url": "https://thehill.com/blogs/blog-briefing-room/news/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/campaign/3550349-democrats-look-to-quash-differences-amid-growing-voter-anger/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\tCampaign\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/campaign/"
-    },
-    {
-      "text": "\n\t\t\t\tDemocrats look to quash differences amid growing voter anger\t\t\t",
-      "url": "https://thehill.com/homenews/campaign/3550349-democrats-look-to-quash-differences-amid-growing-voter-anger/"
-    },
-    {
-      "text": "Hanna Trudo",
-      "url": "https://thehill.com/author/hanna-trudo/"
-    },
-    {
-      "text": "\n\t\t\t\t\tCampaign\t\t\t\t",
-      "url": "https://thehill.com/homenews/campaign/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/state-watch/3551329-trump-elon-musk-another-bulls-artist/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\tState Watch\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/state-watch/"
-    },
-    {
-      "text": "\n\t\t\t\tTrump: Elon Musk \u2018another bulls\u2014 artist\u2019\t\t\t",
-      "url": "https://thehill.com/homenews/state-watch/3551329-trump-elon-musk-another-bulls-artist/"
-    },
-    {
-      "text": "Zach Schonfeld",
-      "url": "https://thehill.com/author/zach-schonfeld/"
-    },
-    {
-      "text": "\n\t\t\t\t\tState Watch\t\t\t\t",
-      "url": "https://thehill.com/homenews/state-watch/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/policy/national-security/3551596-jan-6-documentarian-says-trump-family-didnt-feel-culpability-for-capitol-riot/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\tNational Security\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/policy/national-security/"
-    },
-    {
-      "text": "\n\t\t\t\tJan. 6 documentarian says Trump family didn\u2019t feel culpability for Capitol riot\t\t\t",
-      "url": "https://thehill.com/policy/national-security/3551596-jan-6-documentarian-says-trump-family-didnt-feel-culpability-for-capitol-riot/"
-    },
-    {
-      "text": "Zach Schonfeld",
-      "url": "https://thehill.com/author/zach-schonfeld/"
-    },
-    {
-      "text": "\n\t\t\t\t\tNational Security\t\t\t\t",
-      "url": "https://thehill.com/policy/national-security/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/campaign/3551248-trump-goes-after-rino-murkowski-during-alaska-rally-shes-worse-than-a-democrat/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\tCampaign\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/campaign/"
-    },
-    {
-      "text": "\n\t\t\t\tTrump goes after \u2018RINO\u2019 Murkowski during Alaska rally: \u2018She\u2019s worse than a Democrat\u2019\t\t\t",
-      "url": "https://thehill.com/homenews/campaign/3551248-trump-goes-after-rino-murkowski-during-alaska-rally-shes-worse-than-a-democrat/"
-    },
-    {
-      "text": "Caroline Vakil",
-      "url": "https://thehill.com/author/caroline-vakil/"
-    },
-    {
-      "text": "\n\t\t\t\t\tCampaign\t\t\t\t",
-      "url": "https://thehill.com/homenews/campaign/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/house/3551138-ukrainian-foreign-ministry-hits-rep-spartz-over-baseless-speculation-on-zelensky-chief-of-staff/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\tHouse\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/house/"
-    },
-    {
-      "text": "\n\t\t\t\tUkrainian Foreign Ministry hits Rep. Spartz over \u2018baseless speculation\u2019 on Zelensky chief of staff\t\t\t",
-      "url": "https://thehill.com/homenews/house/3551138-ukrainian-foreign-ministry-hits-rep-spartz-over-baseless-speculation-on-zelensky-chief-of-staff/"
-    },
-    {
-      "text": "Caroline Vakil",
-      "url": "https://thehill.com/author/caroline-vakil/"
-    },
-    {
-      "text": "\n\t\t\t\t\tHouse\t\t\t\t",
-      "url": "https://thehill.com/homenews/house/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/administration/3551251-biden-defends-trip-to-saudi-arabia/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\tAdministration\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/administration/"
-    },
-    {
-      "text": "\n\t\t\t\tBiden defends trip to Saudi Arabia\t\t\t",
-      "url": "https://thehill.com/homenews/administration/3551251-biden-defends-trip-to-saudi-arabia/"
-    },
-    {
-      "text": "Caroline Vakil",
-      "url": "https://thehill.com/author/caroline-vakil/"
+      "text": "Olafimihan Oshin",
+      "url": "https://thehill.com/author/olafimihan-oshin/"
     },
     {
       "text": "\n\t\t\t\t\tAdministration\t\t\t\t",
@@ -1445,231 +1599,139 @@
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/policy/international/3551406-us-ambassador-japanese-in-disbelief-over-shinzo-abe-assassination/"
+      "url": "https://thehill.com/homenews/house/3550612-why-outrage-politics-has-such-a-grip-on-american-life/"
     },
     {
-      "text": "\n\t\t\t\t\tInternational\t\t\t\t",
-      "url": "https://thehill.com/policy/international/"
+      "text": "\n\t\t\t\t\tHouse\t\t\t\t",
+      "url": "https://thehill.com/homenews/house/"
     },
     {
-      "text": "\n\t\t\t\t\tInternational\t\t\t\t",
-      "url": "https://thehill.com/policy/international/"
+      "text": "\n\t\t\t\t\tHouse\t\t\t\t",
+      "url": "https://thehill.com/homenews/house/"
     },
     {
-      "text": "\n\t\t\t\tUS ambassador: Japanese in \u2018disbelief\u2019 over Shinzo Abe assassination\t\t\t",
-      "url": "https://thehill.com/policy/international/3551406-us-ambassador-japanese-in-disbelief-over-shinzo-abe-assassination/"
+      "text": "\n\t\t\t\tWhy outrage politics has such a grip on American life\t\t\t",
+      "url": "https://thehill.com/homenews/house/3550612-why-outrage-politics-has-such-a-grip-on-american-life/"
     },
     {
-      "text": "Zach Schonfeld",
-      "url": "https://thehill.com/author/zach-schonfeld/"
+      "text": "Emily Brooks",
+      "url": "https://thehill.com/author/emily-brooks/"
     },
     {
-      "text": "\n\t\t\t\t\tInternational\t\t\t\t",
-      "url": "https://thehill.com/policy/international/"
+      "text": "\n\t\t\t\t\tHouse\t\t\t\t",
+      "url": "https://thehill.com/homenews/house/"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/opinion/white-house/3549217-what-if-we-did-as-the-brits-do-and-expected-our-presidents-to-resign/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWhite House\t\t\t\t",
-      "url": "https://thehill.com/opinion/white-house/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWhite House\t\t\t\t",
-      "url": "https://thehill.com/opinion/white-house/"
-    },
-    {
-      "text": "\n\t\t\t\tWhat if we did as the Brits do, and expected our presidents to resign?\t\t\t",
-      "url": "https://thehill.com/opinion/white-house/3549217-what-if-we-did-as-the-brits-do-and-expected-our-presidents-to-resign/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWhite House\t\t\t\t",
-      "url": "https://thehill.com/opinion/white-house/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/ap/ap-business/average-us-gasoline-price-falls-19-cents-to-4-86-per-gallon/"
-    },
-    {
-      "text": "\n\t\t\t\t\tAP Business\t\t\t\t",
-      "url": "https://thehill.com/homenews/ap/ap-business/"
-    },
-    {
-      "text": "\n\t\t\t\t\tAP Business\t\t\t\t",
-      "url": "https://thehill.com/homenews/ap/ap-business/"
-    },
-    {
-      "text": "\n\t\t\t\tAverage US gasoline price falls 19 cents to $4.86 per gallon\t\t\t",
-      "url": "https://thehill.com/homenews/ap/ap-business/average-us-gasoline-price-falls-19-cents-to-4-86-per-gallon/"
-    },
-    {
-      "text": "\n\t\t\t\t\tAP Business\t\t\t\t",
-      "url": "https://thehill.com/homenews/ap/ap-business/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/blogs/blog-briefing-room/3551063-buttigieg-changes-residency-to-michigan-husbands-home-state/"
-    },
-    {
-      "text": "\n\t\t\t\t\tBlog Briefing Room\t\t\t\t",
-      "url": "https://thehill.com/blogs/blog-briefing-room/"
-    },
-    {
-      "text": "\n\t\t\t\t\tBlog Briefing Room\t\t\t\t",
-      "url": "https://thehill.com/blogs/blog-briefing-room/"
-    },
-    {
-      "text": "\n\t\t\t\tButtigieg changes residency to Michigan, husband\u2019s home state\t\t\t",
-      "url": "https://thehill.com/blogs/blog-briefing-room/3551063-buttigieg-changes-residency-to-michigan-husbands-home-state/"
-    },
-    {
-      "text": "Jared Gans",
-      "url": "https://thehill.com/author/jared-gans/"
-    },
-    {
-      "text": "\n\t\t\t\t\tBlog Briefing Room\t\t\t\t",
-      "url": "https://thehill.com/blogs/blog-briefing-room/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/policy/energy-environment/3551030-biden-administration-weighs-several-options-for-major-alaska-drilling-project/"
-    },
-    {
-      "text": "\n\t\t\t\t\tEnergy & Environment\t\t\t\t",
-      "url": "https://thehill.com/policy/energy-environment/"
-    },
-    {
-      "text": "\n\t\t\t\t\tEnergy & Environment\t\t\t\t",
-      "url": "https://thehill.com/policy/energy-environment/"
-    },
-    {
-      "text": "\n\t\t\t\tAdministration weighs options for Alaska drilling project that would produce 629M barrels of oil\t\t\t",
-      "url": "https://thehill.com/policy/energy-environment/3551030-biden-administration-weighs-several-options-for-major-alaska-drilling-project/"
-    },
-    {
-      "text": "Rachel Frazin",
-      "url": "https://thehill.com/author/rachel-frazin/"
-    },
-    {
-      "text": "\n\t\t\t\t\tEnergy & Environment\t\t\t\t",
-      "url": "https://thehill.com/policy/energy-environment/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/homenews/state-watch/3551178-fbi-investigates-potential-threat-against-texas-synagogue/"
-    },
-    {
-      "text": "\n\t\t\t\t\tState Watch\t\t\t\t",
-      "url": "https://thehill.com/homenews/state-watch/"
-    },
-    {
-      "text": "\n\t\t\t\t\tState Watch\t\t\t\t",
-      "url": "https://thehill.com/homenews/state-watch/"
-    },
-    {
-      "text": "\n\t\t\t\tFBI investigates \u2018potential threat\u2019 against Texas synagogue\t\t\t",
-      "url": "https://thehill.com/homenews/state-watch/3551178-fbi-investigates-potential-threat-against-texas-synagogue/"
-    },
-    {
-      "text": "Caroline Vakil",
-      "url": "https://thehill.com/author/caroline-vakil/"
-    },
-    {
-      "text": "\n\t\t\t\t\tState Watch\t\t\t\t",
-      "url": "https://thehill.com/homenews/state-watch/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tTwitter hires law firm to prepare to sue Elon Musk over scrapped deal\t\t\t\t\t",
-      "url": "https://thehill.com/regulation/court-battles/3551672-twitter-hires-law-firm-to-prepare-to-sue-elon-musk-over-scrapped-deal/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tCourt Battles\t\t\t\t\t\t",
-      "url": "https://thehill.com/regulation/court-battles/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tLeaked \u2018Uber files\u2019 show how company capitalized on violence against drivers\t\t\t\t\t",
-      "url": "https://thehill.com/policy/technology/3551750-leaked-uber-files-show-how-company-capitalized-on-violence-against-drivers/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tTechnology\t\t\t\t\t\t",
-      "url": "https://thehill.com/policy/technology/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tIs federal government dooming efforts to address climate change?\t\t\t\t\t",
-      "url": "https://thehill.com/policy/energy-environment/3550573-is-federal-government-dooming-efforts-to-address-climate-change/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tEnergy & Environment\t\t\t\t\t\t",
-      "url": "https://thehill.com/policy/energy-environment/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tZelensky planning Cabinet reshuffle to reduce government waste\t\t\t\t\t",
-      "url": "https://thehill.com/policy/international/3551695-zelensky-planning-cabinet-reshuffle-to-reduce-government-waste/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tInternational\t\t\t\t\t\t",
-      "url": "https://thehill.com/policy/international/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tRage Against the Machine says \u2018Abort the Supreme Court\u2019 in return to stage\t\t\t\t\t",
-      "url": "https://thehill.com/blogs/in-the-know/3551714-rage-against-the-machine-says-abort-the-supreme-court-in-return-to-stage/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tIn The Know\t\t\t\t\t\t",
-      "url": "https://thehill.com/blogs/in-the-know/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tAmerica will never achieve racial justice without reforming our broken tax code\t\t\t\t\t",
-      "url": "https://thehill.com/opinion/congress-blog/3551288-america-will-never-achieve-racial-justice-without-reforming-our-broken-tax-code/"
+      "text": "\n\t\t\t\t\t\t8 billion population milestone\t\t\t\t\t",
+      "url": "https://thehill.com/opinion/international/3551996-8-billion-population-milestone/"
     },
     {
       "text": "\n\t\t\t\t\t\t\tOpinion\t\t\t\t\t\t",
       "url": "https://thehill.com/opinion/"
     },
     {
-      "text": "\n\t\t\t\t\t\tBannon willing to testify at public Jan. 6 hearing as contempt trial looms\t\t\t\t\t",
-      "url": "https://thehill.com/policy/national-security/3551699-bannon-says-he-will-testify-at-public-jan-6-hearing-as-contempt-trial-looms/"
+      "text": "\n\t\t\t\t\t\tWhen to declare for 2024? Trump\u2019s complicated presidential calculus\t\t\t\t\t",
+      "url": "https://thehill.com/opinion/campaign/3553177-when-to-declare-for-2024-trumps-complicated-presidential-calculus/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tNational Security\t\t\t\t\t\t",
-      "url": "https://thehill.com/policy/national-security/"
+      "text": "\n\t\t\t\t\t\t\tOpinion\t\t\t\t\t\t",
+      "url": "https://thehill.com/opinion/"
     },
     {
-      "text": "\n\t\t\t\t\t\tRaskin, Kinzinger detail plans for Jan. 6 hearings this week\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551577-raskin-kinzinger-detail-plans-for-jan-6-hearings-this-week/"
+      "text": "\n\t\t\t\t\t\tUnvaccinated Djokovic hoping vaccination rules change before US Open\t\t\t\t\t",
+      "url": "https://thehill.com/blogs/blog-briefing-room/3553181-unvaccinated-djokovic-hoping-vaccination-rules-change-before-us-open/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tSunday Talk Shows\t\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/"
+      "text": "\n\t\t\t\t\t\t\tBlog Briefing Room\t\t\t\t\t\t",
+      "url": "https://thehill.com/blogs/blog-briefing-room/"
     },
     {
-      "text": "\n\t\t\t\t\t\tCapitol Police sergeant injured on Jan. 6 says Trump betrayed oath to Constitution\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/house/3551658-capitol-police-sergeant-injured-on-jan-6-says-trump-betrayed-oath-to-constitution/"
+      "text": "\n\t\t\t\t\t\tFlorida newspaper \u2018erred in publishing\u2019 op-ed defending Proud Boys, editor says\t\t\t\t\t",
+      "url": "https://thehill.com/homenews/media/3553203-florida-newspaper-erred-in-publishing-op-ed-defending-proud-boys-editor-says/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tHouse\t\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/house/"
+      "text": "\n\t\t\t\t\t\t\tMedia\t\t\t\t\t\t",
+      "url": "https://thehill.com/homenews/media/"
     },
     {
-      "text": "\n\t\t\t\t\t\tBiden says he\u2019s mulling health emergency for abortion access\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/administration/3551656-biden-says-hes-mulling-health-emergency-for-abortion-access/"
+      "text": "\n\t\t\t\t\t\tWall Street Journal: Musk-Twitter deal falling through would be \u2018loss for free speech\u2019\t\t\t\t\t",
+      "url": "https://thehill.com/homenews/3553135-wall-street-journal-musk-twitter-deal-falling-through-would-be-loss-for-free-speech/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tAdministration\t\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/administration/"
+      "text": "\n\t\t\t\t\t\t\tNews\t\t\t\t\t\t",
+      "url": "https://thehill.com/homenews/"
     },
     {
-      "text": "\n\t\t\t\t\t\tCommerce secretary pushes back on criticism of Biden after Roe ruling\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/3551627-commerce-secretary-pushes-back-on-criticism-of-biden-after-roe-ruling/"
+      "text": "\n\t\t\t\t\t\tPolitical tribalism and the prisoner\u2019s dilemma\t\t\t\t\t",
+      "url": "https://thehill.com/opinion/campaign/3550198-political-tribalism-and-the-prisoners-dilemma/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tSunday Talk Shows\t\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/"
+      "text": "\n\t\t\t\t\t\t\tOpinion\t\t\t\t\t\t",
+      "url": "https://thehill.com/opinion/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tAbe\u2019s assassination heightens an era of instability for global powers\t\t\t\t\t",
+      "url": "https://thehill.com/opinion/international/3553094-abes-assassination-heightens-an-era-of-instability-for-global-powers/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tOpinion\t\t\t\t\t\t",
+      "url": "https://thehill.com/opinion/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tElon Musk mocks efforts to \u2018force\u2019 him to buy Twitter\t\t\t\t\t",
+      "url": "https://thehill.com/policy/technology/3553131-elon-musk-mocks-efforts-to-force-him-to-buy-twitter/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tTechnology\t\t\t\t\t\t",
+      "url": "https://thehill.com/policy/technology/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tTexas grid operator calls on users to conserve power amid heatwave\t\t\t\t\t",
+      "url": "https://thehill.com/policy/energy-environment/3553101-texas-grid-operator-calls-on-users-to-conserve-power-amid-heatwave/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tEnergy & Environment\t\t\t\t\t\t",
+      "url": "https://thehill.com/policy/energy-environment/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tTime for a new US engagement with Africa\t\t\t\t\t",
+      "url": "https://thehill.com/opinion/international/3552698-time-for-a-new-us-engagement-with-africa/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tOpinion\t\t\t\t\t\t",
+      "url": "https://thehill.com/opinion/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tRussia \u2018struggling\u2019 to give troops in Ukraine breaks from combat: UK intelligence\t\t\t\t\t",
+      "url": "https://thehill.com/policy/defense/3553090-russia-struggling-to-give-troops-in-ukraine-breaks-from-combat-uk-intelligence/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tDefense\t\t\t\t\t\t",
+      "url": "https://thehill.com/policy/defense/"
     },
     {
       "text": "\n\t\tView all\t",
       "url": "https://thehill.com/news"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tWatch live: White House press briefing\t\t\t\t\t",
+      "url": "https://thehill.com/video/3553050-watch-live-white-house-press-briefing/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tVideo\t\t\t\t\t\t",
+      "url": "https://thehill.com/video/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://thehill.com/video/3553012-watch-live-biden-delivers-remarks-at-celebration-of-bipartisan-safer-communities-act/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tWatch live: Biden delivers remarks touting bipartisan gun legislation\t\t\t\t\t",
+      "url": "https://thehill.com/video/3553012-watch-live-biden-delivers-remarks-at-celebration-of-bipartisan-safer-communities-act/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tVideo\t\t\t\t\t\t",
+      "url": "https://thehill.com/video/"
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t\t",
@@ -1704,22 +1766,6 @@
       "url": "https://thehill.com/video/"
     },
     {
-      "text": "\n\t\t\t\t\t\tWatch live: Biden meets with governors on reproductive rights\t\t\t\t\t",
-      "url": "https://thehill.com/video/3543851-watch-live-biden-meets-with-governors-on-reproductive-rights/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tVideo\t\t\t\t\t\t",
-      "url": "https://thehill.com/video/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tWatch live: FDA panel discusses updating COVID vaccines\t\t\t\t\t",
-      "url": "https://thehill.com/video/3539278-watch-live-fda-panel-discusses-updating-covid-vaccines/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tVideo\t\t\t\t\t\t",
-      "url": "https://thehill.com/video/"
-    },
-    {
       "text": "\n\t\tSee all Video\n\t",
       "url": "https://thehill.com/video/"
     },
@@ -1728,24 +1774,24 @@
       "url": "https://thehill.com/opinion/"
     },
     {
-      "text": "\n\t\t\t\t\tAmerica will never achieve racial justice without reforming our broken tax code\t\t\t\t",
-      "url": "https://thehill.com/opinion/congress-blog/3551288-america-will-never-achieve-racial-justice-without-reforming-our-broken-tax-code/"
+      "text": "\n\t\t\t\t\tOur government is failing its mandate to \u2018insure domestic Tranquility\u2019\t\t\t\t",
+      "url": "https://thehill.com/opinion/civil-rights/3551846-our-government-is-failing-its-mandate-to-insure-domestic-tranquility/"
     },
     {
-      "text": "\n\t\t\t\t\tBig Tech must step up now to fight misinformation in the midterms\t\t\t\t",
-      "url": "https://thehill.com/opinion/technology/3550387-big-tech-must-step-up-now-to-fight-misinformation-in-the-midterms/"
+      "text": "\n\t\t\t\t\t8 billion population milestone\t\t\t\t",
+      "url": "https://thehill.com/opinion/international/3551996-8-billion-population-milestone/"
     },
     {
-      "text": "\n\t\t\t\t\tRepublicans aren\u2019t guaranteed to sweep the midterms, but if they do, here\u2019s what to expect\t\t\t\t",
-      "url": "https://thehill.com/opinion/campaign/3551419-republicans-arent-guaranteed-to-sweep-the-midterms-but-if-they-do-heres-what-to-expect/"
+      "text": "\n\t\t\t\t\tWhen to declare for 2024? Trump\u2019s complicated presidential calculus\t\t\t\t",
+      "url": "https://thehill.com/opinion/campaign/3553177-when-to-declare-for-2024-trumps-complicated-presidential-calculus/"
     },
     {
-      "text": "\n\t\t\t\t\tAs the Cuban people reach their breaking point, what will Biden do?\t\t\t\t",
-      "url": "https://thehill.com/opinion/international/3551022-as-the-cuban-people-reach-their-breaking-point-what-will-biden-do/"
+      "text": "\n\t\t\t\t\tPolitical tribalism and the prisoner\u2019s dilemma\t\t\t\t",
+      "url": "https://thehill.com/opinion/campaign/3550198-political-tribalism-and-the-prisoners-dilemma/"
     },
     {
-      "text": "\n\t\t\t\t\tMidterm hopes: GOP fingers crossed; Democrats have to work\t\t\t\t",
-      "url": "https://thehill.com/opinion/campaign/3551379-midterm-hopes-gop-fingers-crossed-democrats-have-to-work/"
+      "text": "\n\t\t\t\t\tAbe\u2019s assassination heightens an era of instability for global powers\t\t\t\t",
+      "url": "https://thehill.com/opinion/international/3553094-abes-assassination-heightens-an-era-of-instability-for-global-powers/"
     },
     {
       "text": "\n\t\t\t\n\t\t\t\tView all\t\t\t\n\t\t",
@@ -1758,6 +1804,18 @@
     {
       "text": "\n\t\t\t\t\t\t\tsee all hill.tv\t\t\t\t\t\t",
       "url": "/hilltv"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://thehill.com/hilltv/rising/3553036-rising-july-11-2022/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tRising: July 11, 2022\t\t\t\t\t\t",
+      "url": "https://thehill.com/hilltv/rising/3553036-rising-july-11-2022/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tRising\t\t\t\t\t\t\t\t",
+      "url": "https://thehill.com/hilltv/rising/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t",
@@ -1820,24 +1878,28 @@
       "url": "https://thehill.com/hilltv/rising/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://thehill.com/hilltv/rising/3543681-rising-july-1-2022/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tRising: July 1, 2022\t\t\t\t\t\t",
-      "url": "https://thehill.com/hilltv/rising/3543681-rising-july-1-2022/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tRising\t\t\t\t\t\t\t\t",
-      "url": "https://thehill.com/hilltv/rising/"
-    },
-    {
       "text": "\n\t\t\t\t\n\t\t\t\t\tSee all Video\t\t\t\t\n\t\t\t",
       "url": "/video"
     },
     {
       "text": "\n\t\t\t\t\n\t\t\t\t\tSee all Hill.TV\t\t\t\t\n\t\t\t",
       "url": "/hilltv"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/hilltv/rising/3553036-rising-july-11-2022/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\n\t\t\t\tRising\t\t\t\n\t\t\t",
+      "url": "https://thehill.com/hilltv/rising/"
+    },
+    {
+      "text": "\n\t\t\tRising: July 11, 2022\t\t",
+      "url": "https://thehill.com/hilltv/rising/3553036-rising-july-11-2022/"
+    },
+    {
+      "text": "\n\t\t\t\t\tRising\t\t\t\t",
+      "url": "https://thehill.com/hilltv/rising/"
     },
     {
       "text": "\n\t\t\t\t\t\n\t\t\t",
@@ -1848,7 +1910,7 @@
       "url": "https://thehill.com/hilltv/rising/"
     },
     {
-      "text": "\n\t\t\tRising: July 8, 2022\t\t",
+      "text": "\n\t\t\t\tRising: July 8, 2022\t\t\t",
       "url": "https://thehill.com/hilltv/rising/3549958-rising-july-8-2022/"
     },
     {
@@ -1872,24 +1934,12 @@
       "url": "https://thehill.com/hilltv/rising/"
     },
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/hilltv/rising/3547233-rising-july-6-2022/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\tRising\t\t\t\n\t\t\t",
-      "url": "https://thehill.com/hilltv/rising/"
-    },
-    {
-      "text": "\n\t\t\t\tRising: July 6, 2022\t\t\t",
-      "url": "https://thehill.com/hilltv/rising/3547233-rising-july-6-2022/"
-    },
-    {
-      "text": "\n\t\t\t\t\tRising\t\t\t\t",
-      "url": "https://thehill.com/hilltv/rising/"
-    },
-    {
       "text": "\n\t\t\t\t\n\t\t\t\t\tDefense\t\t\t\t\n\t\t\t",
       "url": "https://thehill.com/policy/defense/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tRussia \u2018struggling\u2019 to give troops in Ukraine breaks from combat: UK intelligence\t\t\t\t\t\t",
+      "url": "https://thehill.com/policy/defense/3553090-russia-struggling-to-give-troops-in-ukraine-breaks-from-combat-uk-intelligence/"
     },
     {
       "text": "\n\t\t\t\t\t\t\tUkraine defense chief says US rocket systems have been \u2018game-changer\u2019\t\t\t\t\t\t",
@@ -1908,10 +1958,6 @@
       "url": "https://thehill.com/policy/defense/3551320-retired-general-suspended-after-tweet-critical-of-jill-biden/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tDefense & National Security \u2014 CBP to discipline Border Patrol agents\t\t\t\t\t\t",
-      "url": "https://thehill.com/policy/defense/overnights/3550678-defense-national-security-presented-by-lockheed-martin-cbp-to-discipline-border-patrol-agents/"
-    },
-    {
       "text": "\n\t\t\t\t\n\t\t\t\t\tView all\t\t\t\t\n\t\t\t",
       "url": "https://thehill.com/policy/defense/"
     },
@@ -1922,6 +1968,10 @@
     {
       "text": "\n\t\t\t\t\n\t\t\t\t\tEnergy & Environment\t\t\t\t\n\t\t\t",
       "url": "https://thehill.com/policy/energy-environment/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tTexas grid operator calls on users to conserve power amid heatwave\t\t\t\t\t\t",
+      "url": "https://thehill.com/policy/energy-environment/3553101-texas-grid-operator-calls-on-users-to-conserve-power-amid-heatwave/"
     },
     {
       "text": "\n\t\t\t\t\t\t\tIs federal government dooming efforts to address climate change?\t\t\t\t\t\t",
@@ -1940,10 +1990,6 @@
       "url": "https://thehill.com/policy/3550403-energy-department-announces-40m-to-boost-electricity-weatherization-in-low-income-communities/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tWatchdog knocks Trump EPA over transparency in changes to rule on toxic chemicals use\t\t\t\t\t\t",
-      "url": "https://thehill.com/policy/energy-environment/3550068-watchdog-knocks-trump-epa-over-transparency-in-changes-to-rule-on-toxic-chemicals-use/"
-    },
-    {
       "text": "\n\t\t\t\t\n\t\t\t\t\tView all\t\t\t\t\n\t\t\t",
       "url": "https://thehill.com/policy/energy-environment/"
     },
@@ -1954,6 +2000,14 @@
     {
       "text": "\n\t\t\t\t\n\t\t\t\t\tFinance\t\t\t\t\n\t\t\t",
       "url": "https://thehill.com/policy/finance/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tHousehold inflation expectations hit record in New York Fed survey\t\t\t\t\t\t",
+      "url": "https://thehill.com/policy/finance/3553343-household-inflation-expectations-hit-record-in-new-york-fed-survey/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tElon Musk mocks efforts to \u2018force\u2019 him to buy Twitter\t\t\t\t\t\t",
+      "url": "https://thehill.com/policy/technology/3553131-elon-musk-mocks-efforts-to-force-him-to-buy-twitter/"
     },
     {
       "text": "\n\t\t\t\t\t\t\tCommerce secretary says no reason to think there will be \u2018a serious recession\u2019\t\t\t\t\t\t",
@@ -1968,14 +2022,6 @@
       "url": "https://thehill.com/policy/3550628-why-the-federal-reserve-is-unlikely-to-pause-interest-rate-hikes/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tWhy Shinzo Abe was such a towering figure in Japan\t\t\t\t\t\t",
-      "url": "https://thehill.com/policy/finance/3550135-why-shinzo-abe-was-such-a-towering-figure-in-japan/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tBiden hails strong June jobs report, takes jab at Trump\t\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/administration/3550049-biden-hails-strong-june-jobs-report-takes-jab-at-trump/"
-    },
-    {
       "text": "\n\t\t\t\t\n\t\t\t\t\tView all\t\t\t\t\n\t\t\t",
       "url": "https://thehill.com/policy/finance/"
     },
@@ -1986,6 +2032,10 @@
     {
       "text": "\n\t\t\t\t\n\t\t\t\t\tHealthcare\t\t\t\t\n\t\t\t",
       "url": "https://thehill.com/policy/healthcare/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tFDA receives application for first over-the-counter birth control pill\t\t\t\t\t\t",
+      "url": "https://thehill.com/policy/healthcare/3553064-fda-receives-application-for-first-over-the-counter-birth-control-pill/"
     },
     {
       "text": "\n\t\t\t\t\t\t\tBiden says he\u2019s mulling health emergency for abortion access\t\t\t\t\t\t",
@@ -2004,10 +2054,6 @@
       "url": "https://thehill.com/policy/healthcare/overnights/3550685-health-care-biden-signs-executive-order-on-abortion-access/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\tHouse Democrats tee up votes on abortion rights bills\t\t\t\t\t\t",
-      "url": "https://thehill.com/homenews/house/3550499-house-democrats-tee-up-votes-on-abortion-rights-bills/"
-    },
-    {
       "text": "\n\t\t\t\t\n\t\t\t\t\tView all\t\t\t\t\n\t\t\t",
       "url": "https://thehill.com/policy/healthcare/"
     },
@@ -2018,6 +2064,10 @@
     {
       "text": "\n\t\t\t\t\n\t\t\t\t\tTechnology\t\t\t\t\n\t\t\t",
       "url": "https://thehill.com/policy/technology/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tElon Musk mocks efforts to \u2018force\u2019 him to buy Twitter\t\t\t\t\t\t",
+      "url": "https://thehill.com/policy/technology/3553131-elon-musk-mocks-efforts-to-force-him-to-buy-twitter/"
     },
     {
       "text": "\n\t\t\t\t\t\t\tBiden to unveil first photo from Webb telescope on Monday\t\t\t\t\t\t",
@@ -2034,10 +2084,6 @@
     {
       "text": "\n\t\t\t\t\t\t\tAP runs fact check on fake Abe tweet about Clinton\t\t\t\t\t\t",
       "url": "https://thehill.com/blogs/blog-briefing-room/3551193-ap-runs-fact-check-on-fake-abe-tweet-about-clinton/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tTwitter board vows legal action after Musk drops bid\t\t\t\t\t\t",
-      "url": "https://thehill.com/policy/technology/3550664-twitter-board-vows-legal-action-after-musk-drops-bid/"
     },
     {
       "text": "\n\t\t\t\t\n\t\t\t\t\tView all\t\t\t\t\n\t\t\t",
@@ -2084,24 +2130,24 @@
       "url": "https://thehill.com/policy/international/"
     },
     {
+      "text": "\n\t\t\t\t\t\t\tRussia \u2018struggling\u2019 to give troops in Ukraine breaks from combat: UK intelligence\t\t\t\t\t\t",
+      "url": "https://thehill.com/policy/defense/3553090-russia-struggling-to-give-troops-in-ukraine-breaks-from-combat-uk-intelligence/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tBlinken calls assassinated former Japanese leader Shinzo Abe a \u2018man of vision\u2019\t\t\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/3552835-blinken-calls-assassinated-former-japanese-leader-shinzo-abe-a-man-of-vision/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tUS says it backs Canadian move to help Germany import natural gas from Russia\t\t\t\t\t\t",
+      "url": "https://thehill.com/homenews/administration/3552870-blinken-backs-canadian-move-to-help-germany-import-natural-gas-from-russia/"
+    },
+    {
       "text": "\n\t\t\t\t\t\t\tUkraine defense chief says US rocket systems have been \u2018game-changer\u2019\t\t\t\t\t\t",
       "url": "https://thehill.com/policy/defense/3551961-ukraine-defense-chief-says-us-rocket-systems-have-been-game-changer/"
     },
     {
       "text": "\n\t\t\t\t\t\t\tBiden to unveil first photo from Webb telescope on Monday\t\t\t\t\t\t",
       "url": "https://thehill.com/policy/technology/3551872-biden-to-unveil-first-photo-from-webb-telescope-on-monday/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tUkraine urges evacuation in southern Kherson region ahead of counterattack\t\t\t\t\t\t",
-      "url": "https://thehill.com/policy/defense/3551781-ukraine-urges-evacuation-in-southern-kherson-region-ahead-of-counter-attack/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tLeaked \u2018Uber files\u2019 show how company capitalized on violence against drivers\t\t\t\t\t\t",
-      "url": "https://thehill.com/policy/technology/3551750-leaked-uber-files-show-how-company-capitalized-on-violence-against-drivers/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tZelensky planning Cabinet reshuffle to reduce government waste\t\t\t\t\t\t",
-      "url": "https://thehill.com/policy/international/3551695-zelensky-planning-cabinet-reshuffle-to-reduce-government-waste/"
     },
     {
       "text": "\n\t\t\t\t\n\t\t\t\t\tView all\t\t\t\t\n\t\t\t",
@@ -2180,6 +2226,10 @@
       "url": "https://thehill.com/regulation/"
     },
     {
+      "text": "\n\t\t\t\t\t\t\tDOJ says it interviewed Trump\u2019s attorney over Bannon case\t\t\t\t\t\t",
+      "url": "https://thehill.com/regulation/court-battles/3552888-doj-says-it-interviewed-trumps-attorney-over-bannon-case/"
+    },
+    {
       "text": "\n\t\t\t\t\t\t\tFormer Disney employees sue company over vaccine, mask requirements, claiming religious discrimination\t\t\t\t\t\t",
       "url": "https://thehill.com/regulation/court-battles/3551146-former-disney-employees-sue-company-over-vaccine-mask-requirements-claiming-religious-discrimination/"
     },
@@ -2194,10 +2244,6 @@
     {
       "text": "\n\t\t\t\t\t\t\tFormer Trump supporter sentenced to probation for threatening to kill \u2018Squad\u2019 members\t\t\t\t\t\t",
       "url": "https://thehill.com/regulation/court-battles/3548841-former-trump-supporter-sentenced-to-probation-for-threatening-to-kill-squad-members/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tGeorgia grand jury subpoenas Giuliani, other Trump allies in election probe\t\t\t\t\t\t",
-      "url": "https://thehill.com/regulation/3546574-georgia-grand-jury-subpoenas-giuliani-other-trump-allies-in-election-probe/"
     },
     {
       "text": "\n\t\t\t\t\n\t\t\t\t\tView all\t\t\t\t\n\t\t\t",
@@ -2480,9 +2526,9 @@
       "url": "https://www.nexstardigital.com/"
     }
   ],
-  "uniq": 865755406,
+  "uniq": 240786790,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

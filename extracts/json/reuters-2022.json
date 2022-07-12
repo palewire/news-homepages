@@ -1,5 +1,5 @@
 {
-  "created": 1657509794,
+  "created": 1657587270,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -2034,31 +2034,73 @@
       "sha1": "7ca95389386d346259bd6ae1d1eec92ebc9147f9"
     },
     {
+      "name": "reuters-2022-07-11T14:23:13.896645-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563800",
+      "size": "33697",
+      "md5": "6fbe3f229589431a4defa0e73775cf74",
+      "crc32": "6487d430",
+      "sha1": "d08872a20ae6588d4cf71670b13277e87b029e70",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-11T14:23:13.896645-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563802",
+      "size": "24857",
+      "md5": "235938b575ed681ab48ab9286ba562bf",
+      "crc32": "3bb0c8ae",
+      "sha1": "0e4a883546d5869d9ec042fec9a28b470ba092d9",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-11T14:23:13.896645-04:00.jpg",
+      "source": "original",
+      "mtime": "1657563796",
+      "size": "213570",
+      "md5": "fd30d541c40850e517859f03ca412960",
+      "crc32": "8d1e39f2",
+      "sha1": "a57291f8a1a6e6624f080546607679fcf39a01fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-07-11T14:23:13.896645-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-07-11T14:23:13.896645-04:00.jpg",
+      "mtime": "1657564068",
+      "size": "8115",
+      "md5": "8b3b4a069969693191b419274fa77624",
+      "crc32": "42cacc15",
+      "sha1": "ff4ba77b3f1fd0fced88e062256895716ea1240c"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f51867327274d06d206b65fa41690995be5ac06",
-      "mtime": "1657509781",
-      "size": "41755",
-      "md5": "5d2c851fc1e728db70baadb90c40561b",
-      "crc32": "9c12f970",
-      "sha1": "e8bc4c7453583b49aa37bf9f441f3e577ceecdca",
+      "btih": "89e1ab3baee1062e94dca819257f6132ffef91ee",
+      "mtime": "1657564080",
+      "size": "42600",
+      "md5": "2ba259d43155c931aad69cf5285709ce",
+      "crc32": "3934a1f4",
+      "sha1": "dce95b3232ea738c04d357a199fa0d91ecc3ef69",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b285019613baf9509039a743cf9bea9a",
+      "md5": "30671d6533c721dfec1a40d669986c89",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657509705",
-      "size": "241664",
-      "md5": "824860dee9e8ba523015a9328f656237",
-      "crc32": "a6448e17",
-      "sha1": "730dbe03ca3b469fdf5a890fbcc00cc07b9d4bff",
+      "mtime": "1657563922",
+      "size": "245760",
+      "md5": "baa5b88e0f26db115632171831e79ec4",
+      "crc32": "6e7daf2d",
+      "sha1": "b7904fee483f562d3027ab45bf588f14ead8bace",
       "format": "Metadata"
     },
     {
@@ -2072,9 +2114,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 197,
-  "item_last_updated": 1657509781,
-  "item_size": 15080914,
+  "files_count": 201,
+  "item_last_updated": 1657564080,
+  "item_size": 15366094,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -2091,8 +2133,830 @@
     "publicdate": "2022-06-24 23:00:05",
     "addeddate": "2022-06-24 23:00:05"
   },
+  "reuters-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#main-content"
+    },
+    {
+      "text": "Skip to floating mini video",
+      "url": "#mini-floating-vid"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://www.reuters.com/signin/?redirect=https%3A%2F%2Fwww.reuters.com%2F"
+    },
+    {
+      "text": "Register",
+      "url": "/signup/"
+    },
+    {
+      "text": "SPX",
+      "url": "https://www.reuters.com/quote/.SPX"
+    },
+    {
+      "text": "DJI",
+      "url": "https://www.reuters.com/quote/.DJI"
+    },
+    {
+      "text": "FTSE",
+      "url": "https://www.reuters.com/quote/.FTSE"
+    },
+    {
+      "text": "N225",
+      "url": "https://www.reuters.com/quote/.N225"
+    },
+    {
+      "text": "Markets data",
+      "url": "/markets/global-market-data"
+    },
+    {
+      "text": "Energy in Focus",
+      "url": "https://www.reuters.com/business/energy/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Nord Stream pipeline shuts down for maintenance, Europe on edge",
+      "url": "/business/energy/europe-edge-nord-stream-russian-gas-link-set-planned-shut-down-2022-07-10/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Analysis: Oil majors face output slump, deep losses if Russia stops Kazakh pipeline",
+      "url": "/business/energy/oil-majors-face-output-slump-deep-losses-if-russia-stops-kazakh-pipeline-2022-07-11/"
+    },
+    {
+      "text": "Explainer: What happens if Germany's Russian gas flows stop",
+      "url": "/business/energy/what-happens-if-germanys-russian-gas-flows-stop-2022-07-11/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Texas grid operator warns of potential for rolling blackouts amid scorching heat",
+      "url": "/business/energy/texas-grid-operator-asks-users-conserve-energy-amid-scorching-heat-2022-07-11/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Germany, Czech Republic pledge solidarity as Russian gas flows stop",
+      "url": "/world/europe/germany-czech-republic-pledge-solidarity-russian-gas-flows-stop-2022-07-11/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Brazil's Bolsonaro says deal close to buy cheaper diesel from Russia",
+      "url": "/business/energy/brazils-bolsonaro-says-deal-close-buy-cheaper-diesel-russia-2022-07-11/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Factbox: Could the U.S. ship more LNG to Europe?",
+      "url": "/business/energy/factbox-could-us-ship-more-lng-europe-2022-07-11/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Abortion bans force U.S. students to rethink college plans, article with gallery",
+      "url": "/world/us/some-us-students-re-think-college-plans-states-with-abortion-bans-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/us/some-us-students-re-think-college-plans-states-with-abortion-bans-2022-07-11/"
+    },
+    {
+      "text": "FDA to review first ever over-the-counter birth control pill",
+      "url": "/business/healthcare-pharmaceuticals/perrigo-unit-submits-approval-application-fda-otc-birth-control-pill-2022-07-11/"
+    },
+    {
+      "text": "Future of Money",
+      "url": "/business/future-of-money/"
+    },
+    {
+      "text": "Binance served crypto traders in Iran despite U.S. sanctions, clients say ",
+      "url": "/technology/exclusive-binance-served-crypto-traders-iran-years-despite-us-sanctions-clients-2022-07-11/"
+    },
+    {
+      "text": "Special Report: How crypto giant Binance built ties to a Russian FSB-linked agency",
+      "url": "/technology/how-crypto-giant-binance-built-ties-russian-fsb-linked-agency-2022-04-22/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/markets/europe/futures-fall-with-investors-wary-ahead-earnings-2022-07-11/"
+    },
+    {
+      "text": "Markets",
+      "url": "/markets/"
+    },
+    {
+      "text": "Wall Street slides as earnings jitters set in, article with gallery",
+      "url": "/markets/europe/futures-fall-with-investors-wary-ahead-earnings-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/markets/europe/twitter-slides-after-musks-44-bln-deal-falls-apart-2022-07-11/"
+    },
+    {
+      "text": "Markets",
+      "url": "/markets/"
+    },
+    {
+      "text": "Musk makes meme on Twitter legal threat after scrapping $44 billion deal, article with gallery",
+      "url": "/markets/europe/twitter-slides-after-musks-44-bln-deal-falls-apart-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/technology/ev-battery-makers-its-go-small-or-go-home-2022-07-11/"
+    },
+    {
+      "text": "Charged",
+      "url": "/business/charged/"
+    },
+    {
+      "text": "For EV battery makers, it's go small or go home, article with gallery",
+      "url": "/technology/ev-battery-makers-its-go-small-or-go-home-2022-07-11/"
+    },
+    {
+      "text": "Markets",
+      "url": "/markets/"
+    },
+    {
+      "text": "Rogers falls as massive outage raises concerns over C$20 bln Shaw deal",
+      "url": "/markets/deals/rogers-falls-massive-outage-raises-concerns-over-c20-bln-shaw-deal-2022-07-11/"
+    },
+    {
+      "text": "Legal",
+      "url": "/legal/"
+    },
+    {
+      "text": "Teva lied about opioid role, New York says, article with gallery",
+      "url": "/legal/government/tevas-parent-should-be-restored-new-york-opioid-case-state-attorney-general-says-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/legal/government/tevas-parent-should-be-restored-new-york-opioid-case-state-attorney-general-says-2022-07-11/"
+    },
+    {
+      "text": "See all World",
+      "url": "/world/"
+    },
+    {
+      "text": "",
+      "url": "/world/europe/sanctions-hit-firms-may-get-500000-euros-state-aid-under-eu-plans-2022-07-11/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Sanctions-hit firms may get 500,000 euros state aid under EU plans, article with image",
+      "url": "/world/europe/sanctions-hit-firms-may-get-500000-euros-state-aid-under-eu-plans-2022-07-11/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/europe/russian-shelling-kills-three-wounds-28-kharkiv-ukraine-2022-07-11/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Russian shelling kills three, wounds 31 in Kharkiv, Ukraine says, article with video",
+      "url": "/world/europe/russian-shelling-kills-three-wounds-28-kharkiv-ukraine-2022-07-11/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/europe/dozens-feared-trapped-after-russian-strike-ukraine-apartment-building-2022-07-11/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Ukraine apartment block toll rises as Zelenskiy laments Russian firepower advantage, article with video",
+      "url": "/world/europe/dozens-feared-trapped-after-russian-strike-ukraine-apartment-building-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/china/chilling-use-security-law-threatening-hong-kongs-finance-hub-status-says-us-2022-07-11/"
+    },
+    {
+      "text": "China",
+      "url": "/world/china/"
+    },
+    {
+      "text": "'Chilling' use of security law threatening Hong Kong's finance hub status, says U.S. envoy, article with gallery",
+      "url": "/world/china/chilling-use-security-law-threatening-hong-kongs-finance-hub-status-says-us-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/uk/foreign-secretary-truss-enters-race-become-next-british-prime-minister-2022-07-11/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Foreign Secretary Truss enters race to become next British prime minister, article with gallery",
+      "url": "/world/uk/foreign-secretary-truss-enters-race-become-next-british-prime-minister-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "/world/ukraines-zelenskiy-turkeys-erdogan-discuss-grain-exports-ukrainian-ports-2022-07-11/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Ukraine's Zelenskiy, Turkey's Erdogan discuss grain exports, Ukrainian ports, article with image",
+      "url": "/world/ukraines-zelenskiy-turkeys-erdogan-discuss-grain-exports-ukrainian-ports-2022-07-11/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/asia-pacific/sri-lanka-pm-confirms-president-rajapaksa-resign-2022-07-11/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Sri Lanka to get new president next week amid political and economic meltdown, article with video",
+      "url": "/world/asia-pacific/sri-lanka-pm-confirms-president-rajapaksa-resign-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/europe/hit-by-covid-19-eu-population-shrinks-second-year-running-eurostat-2022-07-11/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Hit by COVID, EU population shrinks for second year running, Eurostat says, article with gallery",
+      "url": "/world/europe/hit-by-covid-19-eu-population-shrinks-second-year-running-eurostat-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "/world/middle-east/growing-israeli-west-bank-settlements-test-us-position-ahead-biden-visit-2022-07-11/"
+    },
+    {
+      "text": "Middle East",
+      "url": "/world/middle-east/"
+    },
+    {
+      "text": "Growing Israeli West Bank settlements test US position ahead of Biden visit, article with image",
+      "url": "/world/middle-east/growing-israeli-west-bank-settlements-test-us-position-ahead-biden-visit-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "/world/europe/germany-czech-republic-pledge-solidarity-russian-gas-flows-stop-2022-07-11/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Germany, Czech Republic pledge solidarity as Russian gas flows stop, article with image",
+      "url": "/world/europe/germany-czech-republic-pledge-solidarity-russian-gas-flows-stop-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/business/healthcare-pharmaceuticals/eu-recommend-2nd-covid-19-booster-over-60s-top-health-official-says-2022-07-11/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "EU backs second COVID booster for over-60s, before variant-adapted vaccines are ready, article with gallery",
+      "url": "/business/healthcare-pharmaceuticals/eu-recommend-2nd-covid-19-booster-over-60s-top-health-official-says-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "/world/americas/brazils-prosecutor-general-i-dont-believe-local-jan-6-2022-07-11/"
+    },
+    {
+      "text": "Americas",
+      "url": "/world/americas/"
+    },
+    {
+      "text": "Brazil's prosecutor general: I don't believe in a local Jan 6, article with image",
+      "url": "/world/americas/brazils-prosecutor-general-i-dont-believe-local-jan-6-2022-07-11/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/asia-pacific/japan-pm-kishida-set-consolidate-ruling-party-power-abe-mourned-2022-07-11/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Mourners throng Abe's wake as his party secures sombre Japan election win, article with video",
+      "url": "/world/asia-pacific/japan-pm-kishida-set-consolidate-ruling-party-power-abe-mourned-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "/world/europe/russian-lawmakers-propose-extending-gay-propaganda-law-all-adults-2022-07-11/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Russian lawmakers propose extending 'gay propaganda' law to all adults, article with image",
+      "url": "/world/europe/russian-lawmakers-propose-extending-gay-propaganda-law-all-adults-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "/business/retail-consumer/no-fries-till-autumn-some-mcdonalds-russian-successor-restaurants-2022-07-11/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "No fries till autumn at some of McDonald's Russian successor restaurants, article with image",
+      "url": "/business/retail-consumer/no-fries-till-autumn-some-mcdonalds-russian-successor-restaurants-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "https://www.reuters.com/business/sustainable-business/ships-get-older-slower-emissions-rules-bite-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "https://www.reuters.com/video/watch/idRCV00B90F"
+    },
+    {
+      "text": "",
+      "url": "https://www.reuters.com/business/environment/market-value-alone-is-selling-nature-short-governments-told-2022-07-11/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/business/finance/big-us-banks-second-quarter-profits-tumble-higher-bad-loan-reserves-2022-07-11/"
+    },
+    {
+      "text": "Finance",
+      "url": "/business/finance/"
+    },
+    {
+      "text": "U.S. bank profits to tumble on higher bad loan reserves, article with gallery",
+      "url": "/business/finance/big-us-banks-second-quarter-profits-tumble-higher-bad-loan-reserves-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/business/energy/oil-majors-face-output-slump-deep-losses-if-russia-stops-kazakh-pipeline-2022-07-11/"
+    },
+    {
+      "text": "Energy",
+      "url": "/business/energy/"
+    },
+    {
+      "text": "Analysis: Oil majors face output slump, deep losses if Russia stops Kazakh pipeline, article with gallery",
+      "url": "/business/energy/oil-majors-face-output-slump-deep-losses-if-russia-stops-kazakh-pipeline-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/markets/us/kansas-city-feds-george-warns-abrupt-rate-changes-could-strain-economy-2022-07-11/"
+    },
+    {
+      "text": "U.S. Markets",
+      "url": "/markets/us/"
+    },
+    {
+      "text": "Kansas City Fed's George warns \"abrupt\" rate changes could strain economy, article with gallery",
+      "url": "/markets/us/kansas-city-feds-george-warns-abrupt-rate-changes-could-strain-economy-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/markets/deals/frontier-asks-spirit-airlines-delay-shareholder-vote-until-july-27-2022-07-11/"
+    },
+    {
+      "text": "Markets",
+      "url": "/markets/"
+    },
+    {
+      "text": "Frontier declines to further escalate bidding war for Spirit Airlines, article with gallery",
+      "url": "/markets/deals/frontier-asks-spirit-airlines-delay-shareholder-vote-until-july-27-2022-07-11/"
+    },
+    {
+      "text": "United States",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/us/biden-will-host-white-house-event-celebrate-gun-safety-law-2022-07-11/"
+    },
+    {
+      "text": "United States",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Biden calls for assault weapons ban at gun safety event, article with gallery",
+      "url": "/world/us/biden-will-host-white-house-event-celebrate-gun-safety-law-2022-07-11/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/us/ex-trump-adviser-bannon-offers-testify-us-panel-probe-jan-6-riot-2022-07-10/"
+    },
+    {
+      "text": "United States",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Ex-Trump aide Steve Bannon offers to testify in U.S. probe of Jan. 6 riot, article with video",
+      "url": "/world/us/ex-trump-adviser-bannon-offers-testify-us-panel-probe-jan-6-riot-2022-07-10/"
+    },
+    {
+      "text": "",
+      "url": "/world/americas/mexican-president-heads-washington-migration-resurgence-focus-2022-07-11/"
+    },
+    {
+      "text": "Americas",
+      "url": "/world/americas/"
+    },
+    {
+      "text": "Mexican president heads to Washington, migration resurgence in focus, article with image",
+      "url": "/world/americas/mexican-president-heads-washington-migration-resurgence-focus-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/business/healthcare-pharmaceuticals/us-secures-32-mln-doses-novavax-covid-vaccine-2022-07-11/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "U.S. orders 3.2 million doses of Novavax COVID vaccine, article with gallery",
+      "url": "/business/healthcare-pharmaceuticals/us-secures-32-mln-doses-novavax-covid-vaccine-2022-07-11/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/uk/foreign-secretary-truss-enters-race-become-next-british-prime-minister-2022-07-11/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Liz Truss enters race to become next British prime minister, article with gallery",
+      "url": "/world/uk/foreign-secretary-truss-enters-race-become-next-british-prime-minister-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/uk/uks-javid-sets-out-tax-cutting-plan-pitch-be-pm-2022-07-11/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "UK's Javid sets out tax-cutting plan in pitch to be PM, article with gallery",
+      "url": "/world/uk/uks-javid-sets-out-tax-cutting-plan-pitch-be-pm-2022-07-11/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/uk/tax-cut-talk-uk-leadership-race-adds-inflation-angst-2022-07-11/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Analysis: Tax-cut talk in UK leadership race adds to inflation angst, article with gallery",
+      "url": "/world/uk/tax-cut-talk-uk-leadership-race-adds-inflation-angst-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "/world/uk/uk-watchdog-seeks-review-into-government-use-whatsapp-messaging-apps-2022-07-11/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "UK watchdog seeks review into government use of WhatsApp, messaging apps, article with image",
+      "url": "/world/uk/uk-watchdog-seeks-review-into-government-use-whatsapp-messaging-apps-2022-07-11/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/asia-pacific/japan-pm-kishida-set-consolidate-ruling-party-power-abe-mourned-2022-07-11/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Mourners throng Abe's wake as his party secures sombre Japan election win, article with video",
+      "url": "/world/asia-pacific/japan-pm-kishida-set-consolidate-ruling-party-power-abe-mourned-2022-07-11/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/asia-pacific/mother-suspect-abe-killing-was-member-unification-church-church-says-2022-07-11/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Unification Church confirms mother of Abe suspect is member, article with video",
+      "url": "/world/asia-pacific/mother-suspect-abe-killing-was-member-unification-church-church-says-2022-07-11/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/asia-pacific/sri-lanka-pm-confirms-president-rajapaksa-resign-2022-07-11/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Sri Lanka to get new president next week amid political and economic meltdown, article with video",
+      "url": "/world/asia-pacific/sri-lanka-pm-confirms-president-rajapaksa-resign-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "/world/india/india-surpass-china-most-populous-country-2023-un-report-2022-07-11/"
+    },
+    {
+      "text": "India",
+      "url": "/world/india/"
+    },
+    {
+      "text": "India to surpass China as most populous country in 2023, U.N. report says, article with image",
+      "url": "/world/india/india-surpass-china-most-populous-country-2023-un-report-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "/world/inside-besieged-mariupol-left-ruins-after-russian-bombardment-2022-03-24/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Top Photos of the Day, article with image",
+      "url": "/world/inside-besieged-mariupol-left-ruins-after-russian-bombardment-2022-03-24/"
+    },
+    {
+      "text": "",
+      "url": "/world/ukrainian-villagers-count-dead-after-weeks-confined-school-basement-2022-04-08/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Best of Wimbledon, article with image",
+      "url": "/world/ukrainian-villagers-count-dead-after-weeks-confined-school-basement-2022-04-08/"
+    },
+    {
+      "text": "",
+      "url": "/world/europe/ukrainians-train-fight-with-molotov-cocktails-2022-03-02/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Journey to Mecca, article with image",
+      "url": "/world/europe/ukrainians-train-fight-with-molotov-cocktails-2022-03-02/"
+    },
+    {
+      "text": "",
+      "url": "https://www.reuters.com/world/us/yosemite-wildfire-smoke-chokes-national-parks-views-air-quality-2022-07-10/"
+    },
+    {
+      "text": "",
+      "url": "https://www.reuters.com/world/europe/omysha-elephant-dies-zurich-zoo-days-after-her-brother-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "https://www.reuters.com/world/india/india-surpass-china-most-populous-country-2023-un-report-2022-07-11/"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Legal",
+      "url": "/legal/"
+    },
+    {
+      "text": "Markets",
+      "url": "/markets/"
+    },
+    {
+      "text": "Breakingviews",
+      "url": "/breakingviews/"
+    },
+    {
+      "text": "Technology",
+      "url": "/technology/"
+    },
+    {
+      "text": "Investigations",
+      "url": "/investigates/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "/lifestyle/"
+    },
+    {
+      "text": "Videos",
+      "url": "https://www.reuters.com/video/"
+    },
+    {
+      "text": "Pictures",
+      "url": "https://www.reuters.com/news/pictures"
+    },
+    {
+      "text": "Graphics",
+      "url": "https://graphics.reuters.com/"
+    },
+    {
+      "text": "About Reuters",
+      "url": "https://www.reutersagency.com/en/about/about-us/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.thomsonreuters.com/en/careers.html"
+    },
+    {
+      "text": "Reuters News Agency",
+      "url": "https://www.reutersagency.com/en/?utm_source=website&utm_medium=reuters&utm_campaign=site-referral&utm_content=us&utm_term=0"
+    },
+    {
+      "text": "Brand Attribution Guidelines",
+      "url": "https://www.reutersagency.com/en/about/about-us/brand-attribution-guidelines/"
+    },
+    {
+      "text": "Reuters Leadership",
+      "url": "https://www.reutersagency.com/en/about/leadership-team/"
+    },
+    {
+      "text": "Reuters Fact Check",
+      "url": "https://www.reuters.com/fact-check/"
+    },
+    {
+      "text": "Reuters Diversity Report",
+      "url": "https://www.reuters.com/DiversityReportApril2022"
+    },
+    {
+      "text": "Download the App",
+      "url": "https://www.reuters.com/tools/mobile/us"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://newslink.reuters.com/join/subscribe"
+    },
+    {
+      "text": "",
+      "url": "https://www.twitter.com/Reuters"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Reuters"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/Reuters"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/user/ReutersVideo"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/10256858/"
+    },
+    {
+      "text": "Westlaw",
+      "url": "https://legal.thomsonreuters.com/en/products/westlaw"
+    },
+    {
+      "text": "Onesource",
+      "url": "https://tax.thomsonreuters.com/en/onesource"
+    },
+    {
+      "text": "Checkpoint",
+      "url": "https://tax.thomsonreuters.com/en/checkpoint"
+    },
+    {
+      "text": "Refinitiv Workspace",
+      "url": " https://www.refinitiv.com/en/products/refinitiv-workspace"
+    },
+    {
+      "text": "Refinitiv Data Catalogue",
+      "url": " https://www.refinitiv.com/en/financial-data"
+    },
+    {
+      "text": "Refinitiv World-Check",
+      "url": "https://www.refinitiv.com/en/products/world-check-kyc-screening"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "https://www.reutersagency.com/en/services/advertising-solutions/"
+    },
+    {
+      "text": "Advertising Guidelines",
+      "url": "/info-pages/advertising-guidelines/"
+    },
+    {
+      "text": "Cookies",
+      "url": "https://www.thomsonreuters.com/en/privacy-statement.html#cookies"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/info-pages/terms-of-use/"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.thomsonreuters.com/en/privacy-statement.html"
+    },
+    {
+      "text": "Digital Accessibility",
+      "url": "https://www.thomsonreuters.com/en/policies/digital-accessibility-policy.html"
+    },
+    {
+      "text": "Corrections",
+      "url": "/info-pages/contact-us/"
+    },
+    {
+      "text": "Site Feedback",
+      "url": "https://trdigital.iad1.qualtrics.com/jfe/form/SV_8kte8gArGyCGVhz"
+    },
+    {
+      "text": "See here for a complete list of exchanges and delays",
+      "url": "https://www.reuters.com/info-pages/disclaimer/"
+    },
+    {
+      "text": "All rights reserved",
+      "url": "https://www.thomsonreuters.com/en/policies/copyright.html"
+    },
+    {
+      "text": "here",
+      "url": "https://privacyportal.onetrust.com/webform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d"
+    },
+    {
+      "text": "Privacy Statement",
+      "url": "https://www.thomsonreuters.com/en/privacy-statement.html#california"
+    },
+    {
+      "text": "link",
+      "url": "https://www.thomsonreuters.com/en/privacy-statement.html#cookies"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    }
+  ],
   "server": "ia802504.us.archive.org",
-  "uniq": 219457510,
+  "uniq": 1980450934,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"
