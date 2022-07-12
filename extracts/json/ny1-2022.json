@@ -1,5 +1,5 @@
 {
-  "created": 1657455340,
+  "created": 1657628385,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/14/items/ny1-2022",
@@ -552,31 +552,241 @@
       "sha1": "447b40bf3e75fc12e8c21ee8d41402dbcae8e055"
     },
     {
+      "name": "ny1-2022-07-10T09:46:47.253828-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657460810",
+      "size": "28870",
+      "md5": "fd2d572aa36ce2c3ac0857f2fcdc6e90",
+      "crc32": "dc3c9801",
+      "sha1": "5071fa7c1dc5d54b6e7070511ca607cd981f248e",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-10T09:46:47.253828-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657460811",
+      "size": "49409",
+      "md5": "3f819d36ef3d5b0d1fe4ead2c6972f3a",
+      "crc32": "1dfe9fc1",
+      "sha1": "ce768338b881ffa803da745ae9983a6d71a33d23",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-10T09:46:47.253828-04:00.jpg",
+      "source": "original",
+      "mtime": "1657460808",
+      "size": "341315",
+      "md5": "f53591674bc3c8d9ebb3adc7b47b4940",
+      "crc32": "bf6cc8ff",
+      "sha1": "9f8cb4c2a34fd5ee894e3ae025ac2197a26bf7cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ny1-2022-07-10T09:46:47.253828-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ny1-2022-07-10T09:46:47.253828-04:00.jpg",
+      "mtime": "1657460868",
+      "size": "10029",
+      "md5": "ac4481055375aab608428fb08826e6b4",
+      "crc32": "3b3c6142",
+      "sha1": "92cc880a9aba1f08c72dda9853fc6ba63f6b7b3c"
+    },
+    {
+      "name": "ny1-2022-07-10T22:11:47.010404-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657505510",
+      "size": "28563",
+      "md5": "abb92c6dbda82338907cbb21b155dcb4",
+      "crc32": "53dccd14",
+      "sha1": "c2dce882c2fcbd374054fca8d78a194716f88d9a",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-10T22:11:47.010404-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505512",
+      "size": "48814",
+      "md5": "e5616a5d24374b2a799d610de466e945",
+      "crc32": "6230bbea",
+      "sha1": "2463a69496fdccacfc96ff80ae13009a600de7c6",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-10T22:11:47.010404-04:00.jpg",
+      "source": "original",
+      "mtime": "1657505508",
+      "size": "297968",
+      "md5": "857c5df027059df95bb8496b288e17f6",
+      "crc32": "7befb426",
+      "sha1": "ca4d437349c069b972700525857aa1b7df4c86d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ny1-2022-07-10T22:11:47.010404-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ny1-2022-07-10T22:11:47.010404-04:00.jpg",
+      "mtime": "1657505565",
+      "size": "9917",
+      "md5": "6c7b7583d70ac4d2dee33123227d9610",
+      "crc32": "d451c6d7",
+      "sha1": "21584c7e81f4391d77c36051f4bb59faacdf1865"
+    },
+    {
+      "name": "ny1-2022-07-11T11:46:39.529724-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657554405",
+      "size": "28307",
+      "md5": "78b386e19a8edfc457194438f75a8014",
+      "crc32": "335f3a8f",
+      "sha1": "02b68cd9d1e414280c717ee11c33cb97cd587f87",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-11T11:46:39.529724-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657554407",
+      "size": "49047",
+      "md5": "87208ecaa4d2c7ee5303d132f526d052",
+      "crc32": "5930e306",
+      "sha1": "9fef28d3ec036b2e13390ecfd9a2da4a78c1717f",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-11T11:46:39.529724-04:00.jpg",
+      "source": "original",
+      "mtime": "1657554403",
+      "size": "378404",
+      "md5": "dbb0be4b26ec03e5aca7a6599ed6c0a3",
+      "crc32": "8abe00ba",
+      "sha1": "1951272cc5ea458414e93c57cfb3acf7b7fb1f84",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ny1-2022-07-11T11:46:39.529724-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ny1-2022-07-11T11:46:39.529724-04:00.jpg",
+      "mtime": "1657554465",
+      "size": "10028",
+      "md5": "a9295c1709d35fab11a3b6b2012818b6",
+      "crc32": "eebb85cd",
+      "sha1": "2e551d1396d8443c3205db5064bbbc1ad0f3016e"
+    },
+    {
+      "name": "ny1-2022-07-11T14:29:42.267408-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657564189",
+      "size": "27960",
+      "md5": "3f3472feb0ef12ad67e3bd04fe7a6b08",
+      "crc32": "aefb9397",
+      "sha1": "c7915e3ef25238d377364f99b2c0a5d622108517",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-11T14:29:42.267408-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657564192",
+      "size": "48950",
+      "md5": "09f113f9f2231111e473fa98f6c7a855",
+      "crc32": "f246dd87",
+      "sha1": "a4c011c34908ce337994e85ac6c71a07725dca19",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-11T14:29:42.267408-04:00.jpg",
+      "source": "original",
+      "mtime": "1657564184",
+      "size": "321058",
+      "md5": "a19beeff4a9505a07ea356b2340a7437",
+      "crc32": "31545177",
+      "sha1": "3404e7dc9640b5131defc26253daf1f1b4892924",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ny1-2022-07-11T14:29:42.267408-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ny1-2022-07-11T14:29:42.267408-04:00.jpg",
+      "mtime": "1657564288",
+      "size": "9893",
+      "md5": "5f73b98d4287941d398b60b659876279",
+      "crc32": "0d184df8",
+      "sha1": "c2ab0533afe943036169815d8d590c8043dc8662"
+    },
+    {
+      "name": "ny1-2022-07-11T22:12:47.593238-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657591970",
+      "size": "28707",
+      "md5": "8863684ba40f66a8d322cdcba51e1aab",
+      "crc32": "2e74e538",
+      "sha1": "4ca125dc285e771c50eb6722f9dc5b7cab54c2ad",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-11T22:12:47.593238-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657591972",
+      "size": "49387",
+      "md5": "3bb9643f05473b2fc824e4467931dd99",
+      "crc32": "5d35189f",
+      "sha1": "8998a4fe3a2666b604b4b05fe88e03bf1b992bfe",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-11T22:12:47.593238-04:00.jpg",
+      "source": "original",
+      "mtime": "1657591968",
+      "size": "307119",
+      "md5": "893d116c433d9309f55fdb5cf035c7e6",
+      "crc32": "f0c48731",
+      "sha1": "48ed563217b93c1e668ea8eec87ce9c7e8cf2634",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ny1-2022-07-11T22:12:47.593238-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ny1-2022-07-11T22:12:47.593238-04:00.jpg",
+      "mtime": "1657592017",
+      "size": "9902",
+      "md5": "5080f24a5fce87517ebc9a4cb66e1e4f",
+      "crc32": "3d492cd6",
+      "sha1": "0fad7fe155379a645d331467ab482a5a1565a688"
+    },
+    {
       "name": "ny1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eeef34f3fd6a0d5fe90ac026620d6c4072f79c6a",
-      "mtime": "1657419116",
-      "size": "12078",
-      "md5": "f034969f47f170570a262926323dde06",
-      "crc32": "432b4eda",
-      "sha1": "3a0d9f5cb9d48303e934bdbe7f78451919f93476",
+      "btih": "4b830d33abf7b3907286fef120080efe7dfc3529",
+      "mtime": "1657592021",
+      "size": "16205",
+      "md5": "4e6683807d8db2d118349d6112b51b1f",
+      "crc32": "f81afe58",
+      "sha1": "ced8480876b6eea949d1c8749445abddf7481f90",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ny1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86e9c6afa83958031a11a584e55d5850",
+      "md5": "e8d70ff6f5143912cb4402014bbe4a0a",
       "summation": "md5"
     },
     {
       "name": "ny1-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657419061",
-      "size": "73728",
-      "md5": "1ddc8c3a4342b170df467ca32beb05c0",
-      "crc32": "f27f8df6",
-      "sha1": "c77f37a2ed5757b6fb1c1f63e083239fb4f8ab73",
+      "mtime": "1657591975",
+      "size": "94208",
+      "md5": "f1e2e07e5c4bfb5caf978a6ccfde2904",
+      "crc32": "35051d74",
+      "sha1": "9d41078a1f12ab51a370c7b0f113e3ca954ca17a",
       "format": "Metadata"
     },
     {
@@ -590,9 +800,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 56,
-  "item_last_updated": 1657419116,
-  "item_size": 5212261,
+  "files_count": 76,
+  "item_last_updated": 1657592021,
+  "item_size": 7320515,
   "metadata": {
     "identifier": "ny1-2022",
     "collection": [
@@ -619,7 +829,7 @@
       "url": "/nyc/all-boroughs/weather"
     },
     {
-      "text": "74\u00b0",
+      "text": "73\u00b0",
       "url": "/nyc/all-boroughs/weather"
     },
     {
@@ -631,7 +841,7 @@
       "url": "/nyc/all-boroughs/weather"
     },
     {
-      "text": "74\u00b0",
+      "text": "73\u00b0",
       "url": "/nyc/all-boroughs/weather"
     },
     {
@@ -1131,6 +1341,10 @@
       "url": "https://www.ny1.com/nyc/all-boroughs/news/health-and-medicine/coronavirus-blog"
     },
     {
+      "text": "\n            \n                WEATHER ALERTView full list of weather alerts\n            \n        ",
+      "url": "/nyc/all-boroughs/weather/watches-warnings"
+    },
+    {
       "text": "\n            \n                GET OUR APPOur Spectrum News app is the most convenient way to get the stories that matter to you. Download it here.\n            \n        ",
       "url": "https://spectrumlocalnews.com/app?cid=id-app14_m-display_s-web_cmp-app_launch_august2020_k-alert_bar_po-organic&ko_click_id=ko_ofvyfibzzt0xd3msr"
     },
@@ -1143,12 +1357,28 @@
       "url": "https://www.ny1.com/nyc/all-boroughs/off-topic-on-politics/2022/06/03/suozzi-and-williams-face-off-on-ny1s-televised-democratic-gubernatorial-debate-notably-absent-kathy-hochul"
     },
     {
-      "text": "\n            \n                WEATHER ALERTView full list of weather alerts\n            \n        ",
-      "url": "/nyc/all-boroughs/weather/watches-warnings"
-    },
-    {
       "text": "\n            \n                CLOSINGS ALERTView full list of closures\n            \n        ",
       "url": "/nyc/all-boroughs/weather/closings"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "2:06",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "Reality pushing Adams to address crime repeatedly",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
     },
     {
       "text": "Watch Live",
@@ -1167,28 +1397,48 @@
       "url": "http://facebook.com/ny1news"
     },
     {
-      "text": "QUEENS",
-      "url": "/nyc/all-boroughs/news/2022/07/09/police-shoot-man-in-queens--nypd"
-    },
-    {
-      "text": "",
-      "url": "/nyc/all-boroughs/news/2022/07/09/police-shoot-man-in-queens--nypd"
-    },
-    {
-      "text": "QUEENS",
-      "url": "/nyc/all-boroughs/news/2022/07/09/police-shoot-man-in-queens--nypd"
-    },
-    {
-      "text": "QUEENS",
-      "url": "/nyc/all-boroughs/news/2022/07/09/police-shoot-man-in-queens--nypd"
-    },
-    {
-      "text": "Police shoot man in Queens: NYPD",
-      "url": "/nyc/all-boroughs/news/2022/07/09/police-shoot-man-in-queens--nypd"
-    },
-    {
       "text": "\n            \n        ",
-      "url": "https://www.spectrum.com/mobile/calculator?cmp=specnews_smo_052422&p1=855-217-9454"
+      "url": "/nyc/all-boroughs/news/special-reports/city-of-parks"
+    },
+    {
+      "text": "NEWS ALL DAY",
+      "url": "/nyc/all-boroughs/news/2022/07/11/ruschell-boone"
+    },
+    {
+      "text": "1:02",
+      "url": "/nyc/all-boroughs/news/2022/07/11/ruschell-boone"
+    },
+    {
+      "text": "NEWS ALL DAY",
+      "url": "/nyc/all-boroughs/news/2022/07/11/ruschell-boone"
+    },
+    {
+      "text": "NEWS ALL DAY",
+      "url": "/nyc/all-boroughs/news/2022/07/11/ruschell-boone"
+    },
+    {
+      "text": "NY1's Ruschell Boone undergoing treatment for cancer",
+      "url": "/nyc/all-boroughs/news/2022/07/11/ruschell-boone"
+    },
+    {
+      "text": "CITY OF PARKS",
+      "url": "/nyc/all-boroughs/news/2022/07/11/without-further-parks-funding--advocates-say-system-equity-is--an-impossible-job-"
+    },
+    {
+      "text": "6:09",
+      "url": "/nyc/all-boroughs/news/2022/07/11/without-further-parks-funding--advocates-say-system-equity-is--an-impossible-job-"
+    },
+    {
+      "text": "CITY OF PARKS",
+      "url": "/nyc/all-boroughs/news/2022/07/11/without-further-parks-funding--advocates-say-system-equity-is--an-impossible-job-"
+    },
+    {
+      "text": "CITY OF PARKS",
+      "url": "/nyc/all-boroughs/news/2022/07/11/without-further-parks-funding--advocates-say-system-equity-is--an-impossible-job-"
+    },
+    {
+      "text": "Without further parks funding, advocates say system equity is 'an impossible job'",
+      "url": "/nyc/all-boroughs/news/2022/07/11/without-further-parks-funding--advocates-say-system-equity-is--an-impossible-job-"
     },
     {
       "text": "HEALTH",
@@ -1211,168 +1461,132 @@
       "url": "/nyc/all-boroughs/news/2022/07/08/what-you-need-to-know-about-the-monkeypox-outbreak"
     },
     {
-      "text": "IN THE PAPERS",
-      "url": "/nyc/all-boroughs/papers/2022/07/06/in-the-papers-7-9-22"
+      "text": "NEWS ALL DAY",
+      "url": "/nyc/all-boroughs/live-at-noon/2022/07/11/-trauma-bonding--relationships-and-how-to-heal-from-them"
     },
     {
-      "text": "6:19",
-      "url": "/nyc/all-boroughs/papers/2022/07/06/in-the-papers-7-9-22"
+      "text": "5:21",
+      "url": "/nyc/all-boroughs/live-at-noon/2022/07/11/-trauma-bonding--relationships-and-how-to-heal-from-them"
     },
     {
-      "text": "IN THE PAPERS",
-      "url": "/nyc/all-boroughs/papers/2022/07/06/in-the-papers-7-9-22"
+      "text": "NEWS ALL DAY",
+      "url": "/nyc/all-boroughs/live-at-noon/2022/07/11/-trauma-bonding--relationships-and-how-to-heal-from-them"
     },
     {
-      "text": "IN THE PAPERS",
-      "url": "/nyc/all-boroughs/papers/2022/07/06/in-the-papers-7-9-22"
+      "text": "NEWS ALL DAY",
+      "url": "/nyc/all-boroughs/live-at-noon/2022/07/11/-trauma-bonding--relationships-and-how-to-heal-from-them"
     },
     {
-      "text": "In The Papers: Most NYPD bias claims dismissed and what shootings say about gun violence",
-      "url": "/nyc/all-boroughs/papers/2022/07/06/in-the-papers-7-9-22"
+      "text": "'Trauma bonding' relationships and how to heal from them",
+      "url": "/nyc/all-boroughs/live-at-noon/2022/07/11/-trauma-bonding--relationships-and-how-to-heal-from-them"
     },
     {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/09/yuh-line-niou-lays-out-her-path-to-victory-in-packed-race-for-congress"
-    },
-    {
-      "text": "9:03",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/09/yuh-line-niou-lays-out-her-path-to-victory-in-packed-race-for-congress"
-    },
-    {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/09/yuh-line-niou-lays-out-her-path-to-victory-in-packed-race-for-congress"
-    },
-    {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/09/yuh-line-niou-lays-out-her-path-to-victory-in-packed-race-for-congress"
-    },
-    {
-      "text": "Yuh-Line Niou lays out her path to victory in packed race for Congress",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/09/yuh-line-niou-lays-out-her-path-to-victory-in-packed-race-for-congress"
-    },
-    {
-      "text": "PODCAST",
-      "url": "/nyc/all-boroughs/off-topic-on-politics/2022/07/08/six-months-on-the-job-is-the-honeymoon-over-for-mayor-adams"
-    },
-    {
-      "text": "",
-      "url": "/nyc/all-boroughs/off-topic-on-politics/2022/07/08/six-months-on-the-job-is-the-honeymoon-over-for-mayor-adams"
-    },
-    {
-      "text": "PODCAST",
-      "url": "/nyc/all-boroughs/off-topic-on-politics/2022/07/08/six-months-on-the-job-is-the-honeymoon-over-for-mayor-adams"
-    },
-    {
-      "text": "PODCAST",
-      "url": "/nyc/all-boroughs/off-topic-on-politics/2022/07/08/six-months-on-the-job-is-the-honeymoon-over-for-mayor-adams"
-    },
-    {
-      "text": "Six months on the job, is the honeymoon over for Mayor Adams?",
-      "url": "/nyc/all-boroughs/off-topic-on-politics/2022/07/08/six-months-on-the-job-is-the-honeymoon-over-for-mayor-adams"
+      "text": "\n            \n        ",
+      "url": "https://www.spectrum.com/mobile/calculator?cmp=specnews_smo_052422&p1=855-217-9454"
     },
     {
       "text": "\n            \n        ",
       "url": "https://spectrumnews.smart.link/q0jwu5sd3?cid=id-app527_m-digital_s-web_cmp-2022-cm-organic-app-promo_c-livestream_mkt-nyc_po-organic"
     },
     {
-      "text": "MANHATTAN",
-      "url": "/nyc/all-boroughs/news/2022/07/09/14-year-old-stabbed-and-killed-on-train-platform--nypd"
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/health/2022/07/12/east-harlem-mount-sinai-study-find-blacks-twice-as-likely-to-have-plaque-in-their-arteries-as-hispanics"
     },
     {
-      "text": "",
-      "url": "/nyc/all-boroughs/news/2022/07/09/14-year-old-stabbed-and-killed-on-train-platform--nypd"
+      "text": "2:59",
+      "url": "/nyc/all-boroughs/health/2022/07/12/east-harlem-mount-sinai-study-find-blacks-twice-as-likely-to-have-plaque-in-their-arteries-as-hispanics"
     },
     {
-      "text": "MANHATTAN",
-      "url": "/nyc/all-boroughs/news/2022/07/09/14-year-old-stabbed-and-killed-on-train-platform--nypd"
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/health/2022/07/12/east-harlem-mount-sinai-study-find-blacks-twice-as-likely-to-have-plaque-in-their-arteries-as-hispanics"
     },
     {
-      "text": "MANHATTAN",
-      "url": "/nyc/all-boroughs/news/2022/07/09/14-year-old-stabbed-and-killed-on-train-platform--nypd"
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/health/2022/07/12/east-harlem-mount-sinai-study-find-blacks-twice-as-likely-to-have-plaque-in-their-arteries-as-hispanics"
     },
     {
-      "text": "14-year-old stabbed to death in subway station: NYPD",
-      "url": "/nyc/all-boroughs/news/2022/07/09/14-year-old-stabbed-and-killed-on-train-platform--nypd"
+      "text": "East Harlem Mount Sinai study finds Blacks twice as likely to have plaque in their arteries as Hispanics",
+      "url": "/nyc/all-boroughs/health/2022/07/12/east-harlem-mount-sinai-study-find-blacks-twice-as-likely-to-have-plaque-in-their-arteries-as-hispanics"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/hochul-not-anticipating-new-restrictions-despite-rising-covid-cases"
+    },
+    {
+      "text": "1:50",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/hochul-not-anticipating-new-restrictions-despite-rising-covid-cases"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/hochul-not-anticipating-new-restrictions-despite-rising-covid-cases"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/hochul-not-anticipating-new-restrictions-despite-rising-covid-cases"
+    },
+    {
+      "text": "Hochul not anticipating new restrictions despite rising COVID cases",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/hochul-not-anticipating-new-restrictions-despite-rising-covid-cases"
     },
     {
       "text": "POLITICS",
-      "url": "/nyc/all-boroughs/news/2022/07/09/how-a-crowded-gop-field-could-help-trump-s-2024-campaign"
+      "url": "/nyc/all-boroughs/politics/2022/07/11/brooklyn-democratic-party-leader-s-future-in-doubt"
     },
     {
-      "text": "",
-      "url": "/nyc/all-boroughs/news/2022/07/09/how-a-crowded-gop-field-could-help-trump-s-2024-campaign"
-    },
-    {
-      "text": "POLITICS",
-      "url": "/nyc/all-boroughs/news/2022/07/09/how-a-crowded-gop-field-could-help-trump-s-2024-campaign"
+      "text": "2:37",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/brooklyn-democratic-party-leader-s-future-in-doubt"
     },
     {
       "text": "POLITICS",
-      "url": "/nyc/all-boroughs/news/2022/07/09/how-a-crowded-gop-field-could-help-trump-s-2024-campaign"
+      "url": "/nyc/all-boroughs/politics/2022/07/11/brooklyn-democratic-party-leader-s-future-in-doubt"
     },
     {
-      "text": "How a packed GOP field could help Trump in 2024 campaign",
-      "url": "/nyc/all-boroughs/news/2022/07/09/how-a-crowded-gop-field-could-help-trump-s-2024-campaign"
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/brooklyn-democratic-party-leader-s-future-in-doubt"
     },
     {
-      "text": "FORMULA SHORTAGE",
-      "url": "/nyc/all-boroughs/news/2022/07/09/production-resumes-at-troubled-abbott-baby-formula-plant"
+      "text": "Brooklyn Democratic Party leader's future in doubt",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/brooklyn-democratic-party-leader-s-future-in-doubt"
     },
     {
-      "text": "",
-      "url": "/nyc/all-boroughs/news/2022/07/09/production-resumes-at-troubled-abbott-baby-formula-plant"
-    },
-    {
-      "text": "FORMULA SHORTAGE",
-      "url": "/nyc/all-boroughs/news/2022/07/09/production-resumes-at-troubled-abbott-baby-formula-plant"
-    },
-    {
-      "text": "FORMULA SHORTAGE",
-      "url": "/nyc/all-boroughs/news/2022/07/09/production-resumes-at-troubled-abbott-baby-formula-plant"
-    },
-    {
-      "text": "Production resumes at troubled Abbott baby formula factory",
-      "url": "/nyc/all-boroughs/news/2022/07/09/production-resumes-at-troubled-abbott-baby-formula-plant"
-    },
-    {
-      "text": "ABE ASSASSINATION",
-      "url": "/nyc/all-boroughs/news/2022/07/09/abe-s-death-raises-security-questions-as-japan-mourns"
+      "text": "ABORTION RIGHTS",
+      "url": "/nyc/all-boroughs/news/2022/07/11/biden-doctors-abortion-life-mother-emtala"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/news/2022/07/09/abe-s-death-raises-security-questions-as-japan-mourns"
+      "url": "/nyc/all-boroughs/news/2022/07/11/biden-doctors-abortion-life-mother-emtala"
     },
     {
-      "text": "ABE ASSASSINATION",
-      "url": "/nyc/all-boroughs/news/2022/07/09/abe-s-death-raises-security-questions-as-japan-mourns"
+      "text": "ABORTION RIGHTS",
+      "url": "/nyc/all-boroughs/news/2022/07/11/biden-doctors-abortion-life-mother-emtala"
     },
     {
-      "text": "ABE ASSASSINATION",
-      "url": "/nyc/all-boroughs/news/2022/07/09/abe-s-death-raises-security-questions-as-japan-mourns"
+      "text": "ABORTION RIGHTS",
+      "url": "/nyc/all-boroughs/news/2022/07/11/biden-doctors-abortion-life-mother-emtala"
     },
     {
-      "text": "Abe\u2019s death raises security questions as Japan mourns",
-      "url": "/nyc/all-boroughs/news/2022/07/09/abe-s-death-raises-security-questions-as-japan-mourns"
+      "text": "Biden admin: Doctors must offer abortion if mother's life at risk",
+      "url": "/nyc/all-boroughs/news/2022/07/11/biden-doctors-abortion-life-mother-emtala"
     },
     {
-      "text": "TRAFFIC",
-      "url": "/nyc/all-boroughs/traffic/2022/07/09/george-washington-bridge-is-going-cashless--port-authority"
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/health/2022/07/11/city-to-receive-new-batch-of-monkeypox-vaccines-from-federal-government"
     },
     {
-      "text": "6:19",
-      "url": "/nyc/all-boroughs/traffic/2022/07/09/george-washington-bridge-is-going-cashless--port-authority"
+      "text": "",
+      "url": "/nyc/all-boroughs/health/2022/07/11/city-to-receive-new-batch-of-monkeypox-vaccines-from-federal-government"
     },
     {
-      "text": "TRAFFIC",
-      "url": "/nyc/all-boroughs/traffic/2022/07/09/george-washington-bridge-is-going-cashless--port-authority"
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/health/2022/07/11/city-to-receive-new-batch-of-monkeypox-vaccines-from-federal-government"
     },
     {
-      "text": "TRAFFIC",
-      "url": "/nyc/all-boroughs/traffic/2022/07/09/george-washington-bridge-is-going-cashless--port-authority"
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/health/2022/07/11/city-to-receive-new-batch-of-monkeypox-vaccines-from-federal-government"
     },
     {
-      "text": "George Washington Bridge is going cashless: Port Authority",
-      "url": "/nyc/all-boroughs/traffic/2022/07/09/george-washington-bridge-is-going-cashless--port-authority"
+      "text": "City to receive new batch of monkeypox vaccines from federal government",
+      "url": "/nyc/all-boroughs/health/2022/07/11/city-to-receive-new-batch-of-monkeypox-vaccines-from-federal-government"
     },
     {
       "text": "\n            Juan Manuel Ben\u00edtez  \n        ",
@@ -1383,244 +1597,244 @@
       "url": "/nyc/all-boroughs/on-air/2020/02/03/juan-manuel-benitez"
     },
     {
-      "text": "STATE OF POLITICS",
-      "url": "/nyc/all-boroughs/politics/2022/07/09/6-months-in--new-york-mobile-sports-betting-revenue-continues-to-exceed-expectations"
+      "text": "PUBLIC SAFETY",
+      "url": "/nyc/all-boroughs/news/2022/07/11/correction-officer-fired-after-inmate-dies-on-rikers"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/politics/2022/07/09/6-months-in--new-york-mobile-sports-betting-revenue-continues-to-exceed-expectations"
-    },
-    {
-      "text": "STATE OF POLITICS",
-      "url": "/nyc/all-boroughs/politics/2022/07/09/6-months-in--new-york-mobile-sports-betting-revenue-continues-to-exceed-expectations"
-    },
-    {
-      "text": "STATE OF POLITICS",
-      "url": "/nyc/all-boroughs/politics/2022/07/09/6-months-in--new-york-mobile-sports-betting-revenue-continues-to-exceed-expectations"
-    },
-    {
-      "text": "6 months in, New York mobile sports betting revenue continues to exceed expectations",
-      "url": "/nyc/all-boroughs/politics/2022/07/09/6-months-in--new-york-mobile-sports-betting-revenue-continues-to-exceed-expectations"
-    },
-    {
-      "text": "HUMAN INTEREST",
-      "url": "/nyc/all-boroughs/human-interest/2022/07/09/free-activities-to-do-with-children-this-summer-in-new-york-city"
-    },
-    {
-      "text": "6:09",
-      "url": "/nyc/all-boroughs/human-interest/2022/07/09/free-activities-to-do-with-children-this-summer-in-new-york-city"
-    },
-    {
-      "text": "HUMAN INTEREST",
-      "url": "/nyc/all-boroughs/human-interest/2022/07/09/free-activities-to-do-with-children-this-summer-in-new-york-city"
-    },
-    {
-      "text": "HUMAN INTEREST",
-      "url": "/nyc/all-boroughs/human-interest/2022/07/09/free-activities-to-do-with-children-this-summer-in-new-york-city"
-    },
-    {
-      "text": "Free activities to do with children this summer in New York City",
-      "url": "/nyc/all-boroughs/human-interest/2022/07/09/free-activities-to-do-with-children-this-summer-in-new-york-city"
-    },
-    {
-      "text": "ENTERTAINMENT",
-      "url": "/nyc/all-boroughs/news/2022/07/09/vernon-winfrey--oprah-s-father--dies-at-89"
-    },
-    {
-      "text": "",
-      "url": "/nyc/all-boroughs/news/2022/07/09/vernon-winfrey--oprah-s-father--dies-at-89"
-    },
-    {
-      "text": "ENTERTAINMENT",
-      "url": "/nyc/all-boroughs/news/2022/07/09/vernon-winfrey--oprah-s-father--dies-at-89"
-    },
-    {
-      "text": "ENTERTAINMENT",
-      "url": "/nyc/all-boroughs/news/2022/07/09/vernon-winfrey--oprah-s-father--dies-at-89"
-    },
-    {
-      "text": "Vernon Winfrey, Oprah's father, dies at 89",
-      "url": "/nyc/all-boroughs/news/2022/07/09/vernon-winfrey--oprah-s-father--dies-at-89"
-    },
-    {
-      "text": "BRITTNEY GRINER",
-      "url": "/nyc/all-boroughs/news/2022/07/09/ogwumike--wnba-continue-push-for-brittney-griner-s-release"
-    },
-    {
-      "text": "",
-      "url": "/nyc/all-boroughs/news/2022/07/09/ogwumike--wnba-continue-push-for-brittney-griner-s-release"
-    },
-    {
-      "text": "BRITTNEY GRINER",
-      "url": "/nyc/all-boroughs/news/2022/07/09/ogwumike--wnba-continue-push-for-brittney-griner-s-release"
-    },
-    {
-      "text": "BRITTNEY GRINER",
-      "url": "/nyc/all-boroughs/news/2022/07/09/ogwumike--wnba-continue-push-for-brittney-griner-s-release"
-    },
-    {
-      "text": "Ogwumike, WNBA continue push for Brittney Griner's release",
-      "url": "/nyc/all-boroughs/news/2022/07/09/ogwumike--wnba-continue-push-for-brittney-griner-s-release"
-    },
-    {
-      "text": "ENTERTAINMENT",
-      "url": "/nyc/all-boroughs/arts/2022/07/08/-the-sopranos--actor-tony-sirico-has-died--co-star"
-    },
-    {
-      "text": "",
-      "url": "/nyc/all-boroughs/arts/2022/07/08/-the-sopranos--actor-tony-sirico-has-died--co-star"
-    },
-    {
-      "text": "ENTERTAINMENT",
-      "url": "/nyc/all-boroughs/arts/2022/07/08/-the-sopranos--actor-tony-sirico-has-died--co-star"
-    },
-    {
-      "text": "ENTERTAINMENT",
-      "url": "/nyc/all-boroughs/arts/2022/07/08/-the-sopranos--actor-tony-sirico-has-died--co-star"
-    },
-    {
-      "text": "'Sopranos' actor Tony Sirico, 'Paulie Walnuts,' dies at 79",
-      "url": "/nyc/all-boroughs/arts/2022/07/08/-the-sopranos--actor-tony-sirico-has-died--co-star"
-    },
-    {
-      "text": "RELIGION",
-      "url": "/nyc/all-boroughs/news/2022/07/09/muslims-commemorate-eid-al-adha-amid-high-prices"
-    },
-    {
-      "text": "",
-      "url": "/nyc/all-boroughs/news/2022/07/09/muslims-commemorate-eid-al-adha-amid-high-prices"
-    },
-    {
-      "text": "RELIGION",
-      "url": "/nyc/all-boroughs/news/2022/07/09/muslims-commemorate-eid-al-adha-amid-high-prices"
-    },
-    {
-      "text": "RELIGION",
-      "url": "/nyc/all-boroughs/news/2022/07/09/muslims-commemorate-eid-al-adha-amid-high-prices"
-    },
-    {
-      "text": "Millions of Muslims commemorate Eid al-Adha amid high prices",
-      "url": "/nyc/all-boroughs/news/2022/07/09/muslims-commemorate-eid-al-adha-amid-high-prices"
-    },
-    {
-      "text": "STATE OF POLITICS",
-      "url": "/nyc/all-boroughs/politics/2022/07/09/6-months-in--new-york-mobile-sports-betting-revenue-continues-to-exceed-expectations"
-    },
-    {
-      "text": "",
-      "url": "/nyc/all-boroughs/politics/2022/07/09/6-months-in--new-york-mobile-sports-betting-revenue-continues-to-exceed-expectations"
-    },
-    {
-      "text": "STATE OF POLITICS",
-      "url": "/nyc/all-boroughs/politics/2022/07/09/6-months-in--new-york-mobile-sports-betting-revenue-continues-to-exceed-expectations"
-    },
-    {
-      "text": "STATE OF POLITICS",
-      "url": "/nyc/all-boroughs/politics/2022/07/09/6-months-in--new-york-mobile-sports-betting-revenue-continues-to-exceed-expectations"
-    },
-    {
-      "text": "6 months in, New York mobile sports betting revenue continues to exceed expectations",
-      "url": "/nyc/all-boroughs/politics/2022/07/09/6-months-in--new-york-mobile-sports-betting-revenue-continues-to-exceed-expectations"
-    },
-    {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/09/yuh-line-niou-lays-out-her-path-to-victory-in-packed-race-for-congress"
-    },
-    {
-      "text": "9:03",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/09/yuh-line-niou-lays-out-her-path-to-victory-in-packed-race-for-congress"
-    },
-    {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/09/yuh-line-niou-lays-out-her-path-to-victory-in-packed-race-for-congress"
-    },
-    {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/09/yuh-line-niou-lays-out-her-path-to-victory-in-packed-race-for-congress"
-    },
-    {
-      "text": "Yuh-Line Niou lays out her path to victory in packed race for Congress",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/09/yuh-line-niou-lays-out-her-path-to-victory-in-packed-race-for-congress"
-    },
-    {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/08/dr--jay-varma-fears-monkeypox-could-become-permanently-entrenched"
-    },
-    {
-      "text": "9:18",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/08/dr--jay-varma-fears-monkeypox-could-become-permanently-entrenched"
-    },
-    {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/08/dr--jay-varma-fears-monkeypox-could-become-permanently-entrenched"
-    },
-    {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/08/dr--jay-varma-fears-monkeypox-could-become-permanently-entrenched"
-    },
-    {
-      "text": "Dr. Jay Varma fears monkeypox could become permanently entrenched",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/08/dr--jay-varma-fears-monkeypox-could-become-permanently-entrenched"
-    },
-    {
-      "text": "STATE OF POLITICS",
-      "url": "/nyc/all-boroughs/politics/2022/07/08/pressure-mounts-on-hochul-to-sign-police-retirement-reform-bill"
-    },
-    {
-      "text": "2:01",
-      "url": "/nyc/all-boroughs/politics/2022/07/08/pressure-mounts-on-hochul-to-sign-police-retirement-reform-bill"
-    },
-    {
-      "text": "STATE OF POLITICS",
-      "url": "/nyc/all-boroughs/politics/2022/07/08/pressure-mounts-on-hochul-to-sign-police-retirement-reform-bill"
-    },
-    {
-      "text": "STATE OF POLITICS",
-      "url": "/nyc/all-boroughs/politics/2022/07/08/pressure-mounts-on-hochul-to-sign-police-retirement-reform-bill"
-    },
-    {
-      "text": "Pressure mounts on Hochul to sign police retirement reform bill",
-      "url": "/nyc/all-boroughs/politics/2022/07/08/pressure-mounts-on-hochul-to-sign-police-retirement-reform-bill"
-    },
-    {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/07/how-rikers-could-reduce-the-number-of-women-in-custody"
-    },
-    {
-      "text": "8:17",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/07/how-rikers-could-reduce-the-number-of-women-in-custody"
-    },
-    {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/07/how-rikers-could-reduce-the-number-of-women-in-custody"
-    },
-    {
-      "text": "INSIDE CITY HALL",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/07/how-rikers-could-reduce-the-number-of-women-in-custody"
-    },
-    {
-      "text": "How Rikers could reduce the number of women in custody",
-      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/07/how-rikers-could-reduce-the-number-of-women-in-custody"
+      "url": "/nyc/all-boroughs/news/2022/07/11/correction-officer-fired-after-inmate-dies-on-rikers"
     },
     {
       "text": "PUBLIC SAFETY",
-      "url": "/nyc/all-boroughs/news/2022/07/07/nypd-june-2022-crime-statistics"
-    },
-    {
-      "text": "2:29",
-      "url": "/nyc/all-boroughs/news/2022/07/07/nypd-june-2022-crime-statistics"
+      "url": "/nyc/all-boroughs/news/2022/07/11/correction-officer-fired-after-inmate-dies-on-rikers"
     },
     {
       "text": "PUBLIC SAFETY",
-      "url": "/nyc/all-boroughs/news/2022/07/07/nypd-june-2022-crime-statistics"
+      "url": "/nyc/all-boroughs/news/2022/07/11/correction-officer-fired-after-inmate-dies-on-rikers"
     },
     {
-      "text": "PUBLIC SAFETY",
-      "url": "/nyc/all-boroughs/news/2022/07/07/nypd-june-2022-crime-statistics"
+      "text": "Correction officer fired after inmate dies on Rikers: DOC",
+      "url": "/nyc/all-boroughs/news/2022/07/11/correction-officer-fired-after-inmate-dies-on-rikers"
     },
     {
-      "text": "NYPD: Shootings decline, but overall crime jumps by 31%",
-      "url": "/nyc/all-boroughs/news/2022/07/07/nypd-june-2022-crime-statistics"
+      "text": "NEWS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/city-offers-tips-for-aftermath-of-nuclear-blast"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/city-offers-tips-for-aftermath-of-nuclear-blast"
+    },
+    {
+      "text": "NEWS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/city-offers-tips-for-aftermath-of-nuclear-blast"
+    },
+    {
+      "text": "NEWS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/city-offers-tips-for-aftermath-of-nuclear-blast"
+    },
+    {
+      "text": "City offers tips for aftermath of nuclear blast",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/city-offers-tips-for-aftermath-of-nuclear-blast"
+    },
+    {
+      "text": "STATEN ISLAND",
+      "url": "/nyc/all-boroughs/news/2022/07/11/teens-killed-in-crash-on-staten-island"
+    },
+    {
+      "text": "2:42",
+      "url": "/nyc/all-boroughs/news/2022/07/11/teens-killed-in-crash-on-staten-island"
+    },
+    {
+      "text": "STATEN ISLAND",
+      "url": "/nyc/all-boroughs/news/2022/07/11/teens-killed-in-crash-on-staten-island"
+    },
+    {
+      "text": "STATEN ISLAND",
+      "url": "/nyc/all-boroughs/news/2022/07/11/teens-killed-in-crash-on-staten-island"
+    },
+    {
+      "text": "Three teens dead, one critically hurt in Staten Island crash: NYPD",
+      "url": "/nyc/all-boroughs/news/2022/07/11/teens-killed-in-crash-on-staten-island"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/11/new-york-s-top-judge-to-step-down-in-august"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/11/new-york-s-top-judge-to-step-down-in-august"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/11/new-york-s-top-judge-to-step-down-in-august"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/11/new-york-s-top-judge-to-step-down-in-august"
+    },
+    {
+      "text": "Janet DiFiore, New York's top judge, to step down in August",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/11/new-york-s-top-judge-to-step-down-in-august"
+    },
+    {
+      "text": "GLOBAL POPULATION",
+      "url": "/nyc/all-boroughs/news/2022/07/11/united-nations-estimates-world-population-to-reach-8-billion-november"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/news/2022/07/11/united-nations-estimates-world-population-to-reach-8-billion-november"
+    },
+    {
+      "text": "GLOBAL POPULATION",
+      "url": "/nyc/all-boroughs/news/2022/07/11/united-nations-estimates-world-population-to-reach-8-billion-november"
+    },
+    {
+      "text": "GLOBAL POPULATION",
+      "url": "/nyc/all-boroughs/news/2022/07/11/united-nations-estimates-world-population-to-reach-8-billion-november"
+    },
+    {
+      "text": "U.N. expects world\u2019s population to reach 8 billion on Nov. 15",
+      "url": "/nyc/all-boroughs/news/2022/07/11/united-nations-estimates-world-population-to-reach-8-billion-november"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/poll--64--of-democratic-voters-want-nominee-other-than-biden-in-2024"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/poll--64--of-democratic-voters-want-nominee-other-than-biden-in-2024"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/poll--64--of-democratic-voters-want-nominee-other-than-biden-in-2024"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/poll--64--of-democratic-voters-want-nominee-other-than-biden-in-2024"
+    },
+    {
+      "text": "Poll: 64% of Democratic voters want nominee other than Biden in 2024",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/poll--64--of-democratic-voters-want-nominee-other-than-biden-in-2024"
+    },
+    {
+      "text": "INSIDE CITY HALL",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/12/former-manhattan-prosecutor-breaks-down-bodega-stabbing"
+    },
+    {
+      "text": "9:21",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/12/former-manhattan-prosecutor-breaks-down-bodega-stabbing"
+    },
+    {
+      "text": "INSIDE CITY HALL",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/12/former-manhattan-prosecutor-breaks-down-bodega-stabbing"
+    },
+    {
+      "text": "INSIDE CITY HALL",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/12/former-manhattan-prosecutor-breaks-down-bodega-stabbing"
+    },
+    {
+      "text": "Former Manhattan prosecutor breaks down bodega stabbing",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/12/former-manhattan-prosecutor-breaks-down-bodega-stabbing"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/hochul-not-anticipating-new-restrictions-despite-rising-covid-cases"
+    },
+    {
+      "text": "1:50",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/hochul-not-anticipating-new-restrictions-despite-rising-covid-cases"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/hochul-not-anticipating-new-restrictions-despite-rising-covid-cases"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/hochul-not-anticipating-new-restrictions-despite-rising-covid-cases"
+    },
+    {
+      "text": "Hochul not anticipating new restrictions despite rising COVID cases",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/hochul-not-anticipating-new-restrictions-despite-rising-covid-cases"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "2:06",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "Reality pushing Adams to address crime repeatedly",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "INSIDE CITY HALL",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/12/former-manhattan-prosecutor-breaks-down-bodega-stabbing"
+    },
+    {
+      "text": "9:21",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/12/former-manhattan-prosecutor-breaks-down-bodega-stabbing"
+    },
+    {
+      "text": "INSIDE CITY HALL",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/12/former-manhattan-prosecutor-breaks-down-bodega-stabbing"
+    },
+    {
+      "text": "INSIDE CITY HALL",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/12/former-manhattan-prosecutor-breaks-down-bodega-stabbing"
+    },
+    {
+      "text": "Former Manhattan prosecutor breaks down bodega stabbing",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/12/former-manhattan-prosecutor-breaks-down-bodega-stabbing"
+    },
+    {
+      "text": "STATEN ISLAND",
+      "url": "/nyc/all-boroughs/news/2022/07/11/teens-killed-in-crash-on-staten-island"
+    },
+    {
+      "text": "2:42",
+      "url": "/nyc/all-boroughs/news/2022/07/11/teens-killed-in-crash-on-staten-island"
+    },
+    {
+      "text": "STATEN ISLAND",
+      "url": "/nyc/all-boroughs/news/2022/07/11/teens-killed-in-crash-on-staten-island"
+    },
+    {
+      "text": "STATEN ISLAND",
+      "url": "/nyc/all-boroughs/news/2022/07/11/teens-killed-in-crash-on-staten-island"
+    },
+    {
+      "text": "Three teens dead, one critically hurt in Staten Island crash: NYPD",
+      "url": "/nyc/all-boroughs/news/2022/07/11/teens-killed-in-crash-on-staten-island"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "2:06",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
+    },
+    {
+      "text": "Reality pushing Adams to address crime repeatedly",
+      "url": "/nyc/all-boroughs/politics/2022/07/11/reality-pushing-adams-to-address-crime-repeatedly"
     },
     {
       "text": "TRANSIT",
@@ -1784,243 +1998,243 @@
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/indonesian-muslims-celebrate-eid-al-adha-amid-fmd-outbreak"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/leading-off-sale-rejoins-red-sox-realmuto-misses-jays-trip"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/indonesian-muslims-celebrate-eid-al-adha-amid-fmd-outbreak"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/leading-off-sale-rejoins-red-sox-realmuto-misses-jays-trip"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/indonesian-muslims-celebrate-eid-al-adha-amid-fmd-outbreak"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/leading-off-sale-rejoins-red-sox-realmuto-misses-jays-trip"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/indonesian-muslims-celebrate-eid-al-adha-amid-fmd-outbreak"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/leading-off-sale-rejoins-red-sox-realmuto-misses-jays-trip"
     },
     {
-      "text": "Indonesian Muslims celebrate Eid al-Adha amid FMD outbreak",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/indonesian-muslims-celebrate-eid-al-adha-amid-fmd-outbreak"
-    },
-    {
-      "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/top-us-diplomat-to-pay-abe-condolence-visit-to-japan"
+      "text": "LEADING OFF: Sale rejoins Red Sox, Realmuto misses Jays trip",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/leading-off-sale-rejoins-red-sox-realmuto-misses-jays-trip"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/top-us-diplomat-to-pay-abe-condolence-visit-to-japan"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/sri-lankas-political-vacuum-continues-amid-economic-crisis"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/top-us-diplomat-to-pay-abe-condolence-visit-to-japan"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/sri-lankas-political-vacuum-continues-amid-economic-crisis"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/top-us-diplomat-to-pay-abe-condolence-visit-to-japan"
-    },
-    {
-      "text": "Top US diplomat to pay Abe condolence visit to Japan",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/top-us-diplomat-to-pay-abe-condolence-visit-to-japan"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/sri-lankas-political-vacuum-continues-amid-economic-crisis"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-online/2022/07/09/mets-retire-keith-hernandezs-no-17-in-citi-field-ceremony"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/sri-lankas-political-vacuum-continues-amid-economic-crisis"
+    },
+    {
+      "text": "Sri Lanka's political chaos persists as crisis talks go on",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/sri-lankas-political-vacuum-continues-amid-economic-crisis"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-online/2022/07/09/mets-retire-keith-hernandezs-no-17-in-citi-field-ceremony"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/federal-judge-blocks-arizonas-personhood-abortion-law"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-online/2022/07/09/mets-retire-keith-hernandezs-no-17-in-citi-field-ceremony"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/federal-judge-blocks-arizonas-personhood-abortion-law"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-online/2022/07/09/mets-retire-keith-hernandezs-no-17-in-citi-field-ceremony"
-    },
-    {
-      "text": "Mets retire Keith Hernandez's No. 17 in Citi Field ceremony",
-      "url": "/nyc/all-boroughs/ap-online/2022/07/09/mets-retire-keith-hernandezs-no-17-in-citi-field-ceremony"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/federal-judge-blocks-arizonas-personhood-abortion-law"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/retired-general-suspended-after-tweet-critical-of-jill-biden"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/federal-judge-blocks-arizonas-personhood-abortion-law"
+    },
+    {
+      "text": "Federal judge blocks Arizona's 'personhood' abortion law",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/federal-judge-blocks-arizonas-personhood-abortion-law"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/retired-general-suspended-after-tweet-critical-of-jill-biden"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/biden-admin-docs-must-offer-abortion-if-moms-life-at-risk"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/retired-general-suspended-after-tweet-critical-of-jill-biden"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/biden-admin-docs-must-offer-abortion-if-moms-life-at-risk"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/retired-general-suspended-after-tweet-critical-of-jill-biden"
-    },
-    {
-      "text": "Retired general suspended after tweet critical of Jill Biden",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/retired-general-suspended-after-tweet-critical-of-jill-biden"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/biden-admin-docs-must-offer-abortion-if-moms-life-at-risk"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/un-says-ukraine-bears-share-of-blame-for-nursing-home-attack"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/biden-admin-docs-must-offer-abortion-if-moms-life-at-risk"
+    },
+    {
+      "text": "Biden admin: Docs must offer abortion if mom's life at risk",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/biden-admin-docs-must-offer-abortion-if-moms-life-at-risk"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/un-says-ukraine-bears-share-of-blame-for-nursing-home-attack"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/white-house-iran-set-to-deliver-armed-drones-to-russia"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/un-says-ukraine-bears-share-of-blame-for-nursing-home-attack"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/white-house-iran-set-to-deliver-armed-drones-to-russia"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/un-says-ukraine-bears-share-of-blame-for-nursing-home-attack"
-    },
-    {
-      "text": "UN: Russia and Ukraine are to blame for nursing home attack",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/un-says-ukraine-bears-share-of-blame-for-nursing-home-attack"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/white-house-iran-set-to-deliver-armed-drones-to-russia"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/how-a-crowded-gop-field-could-help-trump-in-2024-campaign"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/white-house-iran-set-to-deliver-armed-drones-to-russia"
+    },
+    {
+      "text": "White House: Iran set to deliver armed drones to Russia",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/white-house-iran-set-to-deliver-armed-drones-to-russia"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/how-a-crowded-gop-field-could-help-trump-in-2024-campaign"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/us-extends-legal-protection-for-venezuelans-for-18-months"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/how-a-crowded-gop-field-could-help-trump-in-2024-campaign"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/us-extends-legal-protection-for-venezuelans-for-18-months"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/how-a-crowded-gop-field-could-help-trump-in-2024-campaign"
-    },
-    {
-      "text": "How a crowded GOP field could help Trump in 2024 campaign",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/how-a-crowded-gop-field-could-help-trump-in-2024-campaign"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/us-extends-legal-protection-for-venezuelans-for-18-months"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/top-us-diplomat-to-pay-abe-condolence-visit-to-japan"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/us-extends-legal-protection-for-venezuelans-for-18-months"
+    },
+    {
+      "text": "US extends legal protection for Venezuelans for 18 months",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/us-extends-legal-protection-for-venezuelans-for-18-months"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/top-us-diplomat-to-pay-abe-condolence-visit-to-japan"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/sri-lankas-political-vacuum-continues-amid-economic-crisis"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/top-us-diplomat-to-pay-abe-condolence-visit-to-japan"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/sri-lankas-political-vacuum-continues-amid-economic-crisis"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/top-us-diplomat-to-pay-abe-condolence-visit-to-japan"
-    },
-    {
-      "text": "Top US diplomat to pay Abe condolence visit to Japan",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/top-us-diplomat-to-pay-abe-condolence-visit-to-japan"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/sri-lankas-political-vacuum-continues-amid-economic-crisis"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/explainer-why-sri-lankas-economy-collapsed-and-whats-next"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/sri-lankas-political-vacuum-continues-amid-economic-crisis"
+    },
+    {
+      "text": "Sri Lanka's political chaos persists as crisis talks go on",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/sri-lankas-political-vacuum-continues-amid-economic-crisis"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/explainer-why-sri-lankas-economy-collapsed-and-whats-next"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/brazil-leaders-call-for-calm-after-party-officials-killing"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/explainer-why-sri-lankas-economy-collapsed-and-whats-next"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/brazil-leaders-call-for-calm-after-party-officials-killing"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/explainer-why-sri-lankas-economy-collapsed-and-whats-next"
-    },
-    {
-      "text": "EXPLAINER: Why Sri Lanka's economy collapsed and what's next",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/10/explainer-why-sri-lankas-economy-collapsed-and-whats-next"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/brazil-leaders-call-for-calm-after-party-officials-killing"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/ex-president-of-mexico-luis-echeverria-dies-at-100"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/brazil-leaders-call-for-calm-after-party-officials-killing"
+    },
+    {
+      "text": "Fear up for Brazil's heated election as party official slain",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/brazil-leaders-call-for-calm-after-party-officials-killing"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/ex-president-of-mexico-luis-echeverria-dies-at-100"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/gas-pipeline-shutdown-starts-amid-german-suspicion-of-russia"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/ex-president-of-mexico-luis-echeverria-dies-at-100"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/gas-pipeline-shutdown-starts-amid-german-suspicion-of-russia"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/ex-president-of-mexico-luis-echeverria-dies-at-100"
-    },
-    {
-      "text": "Luis Echeverria, Mexico leader blamed for massacres, dies",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/ex-president-of-mexico-luis-echeverria-dies-at-100"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/gas-pipeline-shutdown-starts-amid-german-suspicion-of-russia"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/vernon-winfrey-oprahs-father-dies-at-89"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/gas-pipeline-shutdown-starts-amid-german-suspicion-of-russia"
+    },
+    {
+      "text": "Gas pipeline shutdown starts amid German suspicion of Russia",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/gas-pipeline-shutdown-starts-amid-german-suspicion-of-russia"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/vernon-winfrey-oprahs-father-dies-at-89"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/yellowstone-actor-charged-with-disability-payment-fraud"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/vernon-winfrey-oprahs-father-dies-at-89"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/yellowstone-actor-charged-with-disability-payment-fraud"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/vernon-winfrey-oprahs-father-dies-at-89"
-    },
-    {
-      "text": "Vernon Winfrey, Oprah's father, dies at 89",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/vernon-winfrey-oprahs-father-dies-at-89"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/yellowstone-actor-charged-with-disability-payment-fraud"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-online/2022/07/09/techno-party-with-love-parade-founder-back-on-berlin-streets"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/yellowstone-actor-charged-with-disability-payment-fraud"
+    },
+    {
+      "text": "'Yellowstone' actor charged with disability payment fraud",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/12/yellowstone-actor-charged-with-disability-payment-fraud"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-online/2022/07/09/techno-party-with-love-parade-founder-back-on-berlin-streets"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/at-funny-girl-lea-michele-is-in-beanie-feldstein-is-out"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-online/2022/07/09/techno-party-with-love-parade-founder-back-on-berlin-streets"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/at-funny-girl-lea-michele-is-in-beanie-feldstein-is-out"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-online/2022/07/09/techno-party-with-love-parade-founder-back-on-berlin-streets"
-    },
-    {
-      "text": "Techno party with Love Parade founder hits Berlin's streets",
-      "url": "/nyc/all-boroughs/ap-online/2022/07/09/techno-party-with-love-parade-founder-back-on-berlin-streets"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/at-funny-girl-lea-michele-is-in-beanie-feldstein-is-out"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/carlos-santana-postpones-some-concerts-after-health-scare"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/at-funny-girl-lea-michele-is-in-beanie-feldstein-is-out"
+    },
+    {
+      "text": "At 'Funny Girl,' Lea Michele is in, Beanie Feldstein is out",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/at-funny-girl-lea-michele-is-in-beanie-feldstein-is-out"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/carlos-santana-postpones-some-concerts-after-health-scare"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/depps-lawyers-urge-judge-to-leave-jury-verdict-intact"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/carlos-santana-postpones-some-concerts-after-health-scare"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/depps-lawyers-urge-judge-to-leave-jury-verdict-intact"
     },
     {
       "text": "",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/carlos-santana-postpones-some-concerts-after-health-scare"
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/depps-lawyers-urge-judge-to-leave-jury-verdict-intact"
     },
     {
-      "text": "Carlos Santana postpones some concerts after health scare",
-      "url": "/nyc/all-boroughs/ap-top-news/2022/07/09/carlos-santana-postpones-some-concerts-after-health-scare"
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/depps-lawyers-urge-judge-to-leave-jury-verdict-intact"
+    },
+    {
+      "text": "Depp's lawyers urge judge to leave jury verdict intact",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/11/depps-lawyers-urge-judge-to-leave-jury-verdict-intact"
     },
     {
       "text": "\n                            \n                        ",
@@ -2092,7 +2306,7 @@
     }
   ],
   "server": "ia801503.us.archive.org",
-  "uniq": 1417533460,
+  "uniq": 2005007374,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"

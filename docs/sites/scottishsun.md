@@ -17,7 +17,8 @@ orphan: true
 | Location       | Glasgow                                                                 |
 | Timezone       | Europe/London                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 5 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[scottishsun-2022](https://archive.org/details/scottishsun-2022)|

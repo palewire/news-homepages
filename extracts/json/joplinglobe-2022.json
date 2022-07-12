@@ -1,5 +1,5 @@
 {
-  "created": 1657455151,
+  "created": 1657628162,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/8/items/joplinglobe-2022",
@@ -420,31 +420,95 @@
       "sha1": "81b9bfa334a507af1fd18a6d2e7927bfbb6b2a31"
     },
     {
+      "name": "joplinglobe-2022-07-10T08:43:05.838887-05:00.jpg",
+      "source": "original",
+      "mtime": "1657460586",
+      "size": "286654",
+      "md5": "4c3c8418bcff05aef8cca7641b6045f5",
+      "crc32": "eec53a7f",
+      "sha1": "4b84040b47da1a4bc5884ae27bd4683f7aaf6925",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "joplinglobe-2022-07-10T08:43:05.838887-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "joplinglobe-2022-07-10T08:43:05.838887-05:00.jpg",
+      "mtime": "1657460627",
+      "size": "8852",
+      "md5": "d58a978d967f1eceb50dbd769652c19e",
+      "crc32": "86b66b9a",
+      "sha1": "e81745c39a34445a9fd54699a28c9202cb328424"
+    },
+    {
+      "name": "joplinglobe-2022-07-10T21:08:07.961216-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505289",
+      "size": "87372",
+      "md5": "2f438a2bba3d84dad2bdcffbd843f29d",
+      "crc32": "26c02d8b",
+      "sha1": "07d33e53f6dc3c34c63ea107e25afb814efb6c9e",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-07-11T10:34:53.985546-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657553698",
+      "size": "62835",
+      "md5": "39cc8e9d0e36a5ac073dca2b0193cde7",
+      "crc32": "8c14cae4",
+      "sha1": "a7b0be3fada57e7a4630fb076a74a99281f3752a",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-07-11T10:34:53.985546-05:00.jpg",
+      "source": "original",
+      "mtime": "1657553696",
+      "size": "301773",
+      "md5": "acb7ddd7cb1bbcd85642d0d8183c0cc2",
+      "crc32": "ffc021be",
+      "sha1": "79ced5ae3d3252e042dc9e689cd080432d15db30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "joplinglobe-2022-07-11T10:34:53.985546-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "joplinglobe-2022-07-11T10:34:53.985546-05:00.jpg",
+      "mtime": "1657553755",
+      "size": "8936",
+      "md5": "5cda0e60ccf8d3a46c9c65a5e426fe7b",
+      "crc32": "3bc465c0",
+      "sha1": "1b7829ba39c13562af728d879ae9c997c2ba5fd3"
+    },
+    {
       "name": "joplinglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "80e05bace621759fc2ad52a7364bd9c9a9447776",
-      "mtime": "1657418866",
-      "size": "9768",
-      "md5": "edcc3bfb52181d6013b3e81cca16eddd",
-      "crc32": "87deade6",
-      "sha1": "22cfe5e131ab515f578f98b892661bdeb874a294",
+      "btih": "eb239c77af74847deb8133c8d7ab4c3a69223e71",
+      "mtime": "1657553757",
+      "size": "11039",
+      "md5": "5effd2281dcc6481cd95c3dfb0c05b72",
+      "crc32": "654bc70f",
+      "sha1": "bc60cc5596e170515b5ef7dec6b196cd8eb7c97b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "joplinglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7be5588c73d897d38b96614525777f0c",
+      "md5": "b67d683021797590ff5f20936c341c90",
       "summation": "md5"
     },
     {
       "name": "joplinglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657418825",
-      "size": "57344",
-      "md5": "31587a5488030ea451d84fa23e64e2e1",
-      "crc32": "4a8c5346",
-      "sha1": "bc74782f4a410054aa17396ca0934a296d503c1a",
+      "mtime": "1657553700",
+      "size": "61440",
+      "md5": "7a6664f1dcb945d71338cab6d520db1c",
+      "crc32": "68d6d6ca",
+      "sha1": "973dd8ecd7c76e02df1520b27fc1b7642f49bf28",
       "format": "Metadata"
     },
     {
@@ -458,9 +522,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 43,
-  "item_last_updated": 1657418866,
-  "item_size": 4814383,
+  "files_count": 49,
+  "item_last_updated": 1657553757,
+  "item_size": 5576172,
   "joplinglobe-2022": {
     "role": "WebArea",
     "name": "The Joplin Globe",
@@ -793,7 +857,7 @@
       },
       {
         "role": "text",
-        "name": "Saturday, July 9, 2022"
+        "name": "Monday, July 11, 2022"
       },
       {
         "role": "link",
@@ -837,7 +901,19 @@
       },
       {
         "role": "link",
-        "name": "Joplin's Always Wright named male athlete of the year"
+        "name": "Carver Day returns for first time since pandemic"
+      },
+      {
+        "role": "link",
+        "name": "Carver Day returns for first time since pandemic"
+      },
+      {
+        "role": "link",
+        "name": "Joplin church partners with school district for free summer lunch program"
+      },
+      {
+        "role": "link",
+        "name": "Joplin church partners with school district for free summer lunch program"
       },
       {
         "role": "link",
@@ -845,47 +921,35 @@
       },
       {
         "role": "link",
-        "name": "Marta Churchwell: New mural showcasing racial diversity underway in Joplin"
+        "name": "Joplin's Always Wright named male athlete of the year"
       },
       {
         "role": "link",
-        "name": "Marta Churchwell: New mural showcasing racial diversity underway in Joplin"
+        "name": "College Heights' Addie Lawrence named female athlete of year"
       },
       {
         "role": "link",
-        "name": "Bill Caldwell: Mineral Park was East Joplin's 'prettiest breathing spot'"
+        "name": "College Heights' Addie Lawrence named female athlete of year"
       },
       {
         "role": "link",
-        "name": "Bill Caldwell: Mineral Park was East Joplin's 'prettiest breathing spot'"
+        "name": "Joplin Trails Coalition awarded AARP Community Challenge grant to construct ADA access ramp"
       },
       {
         "role": "link",
-        "name": "Joplin educator named Regional Teacher of the Year"
-      },
-      {
-        "role": "link",
-        "name": "Joplin educator named Regional Teacher of the Year"
-      },
-      {
-        "role": "link",
-        "name": "Batteries that powered Hubble Space Telescope return to Joplin, where they were built"
-      },
-      {
-        "role": "link",
-        "name": "Batteries that powered Hubble Space Telescope return to Joplin, where they were built"
+        "name": "Joplin Trails Coalition awarded AARP Community Challenge grant to construct ADA access ramp"
       },
       {
         "role": "text",
-        "name": "11 hrs ago"
+        "name": "20 hrs ago"
       },
       {
         "role": "text",
-        "name": "At first glance it doesn\u2019t look like much \u2014 a black-shrouded module tipping the scales at 400 pounds."
+        "name": "The Joplin Trails Coalition was recently awarded an AARP Community Challenge grant to construct a concrete ramp on a section of the Frisco Trail near Webb City to accommodate older individuals and those who are disabled."
       },
       {
         "role": "link",
-        "name": "Batteries that powered Hubble Space Telescope return to Joplin, where they were built"
+        "name": "Joplin Trails Coalition awarded AARP Community Challenge grant to construct ADA access ramp"
       },
       {
         "role": "heading",
@@ -894,11 +958,51 @@
       },
       {
         "role": "link",
+        "name": "John Newby: Your community must offer an experience to attract visitors"
+      },
+      {
+        "role": "link",
+        "name": "BUSINESS"
+      },
+      {
+        "role": "link",
+        "name": "John Newby: Your community must offer an experience to attract visitors"
+      },
+      {
+        "role": "text",
+        "name": "1 hr ago"
+      },
+      {
+        "role": "text",
+        "name": "Too often, when we think of marketing our communities or businesses, we think in terms of how many sets of eyes we can reach. Certainly, reach\u2026"
+      },
+      {
+        "role": "link",
+        "name": "BUSINESS"
+      },
+      {
+        "role": "link",
+        "name": "Unemployment falls in Joplin, Missouri"
+      },
+      {
+        "role": "text",
+        "name": "From staff reports news@joplinglobe.com"
+      },
+      {
+        "role": "text",
+        "name": "2 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "Unemployment continues to fall in Joplin and across the state, according to the latest data provided by the Missouri Economic Research and Inf\u2026"
+      },
+      {
+        "role": "link",
         "name": "LOCAL NEWS"
       },
       {
         "role": "link",
-        "name": "2022 Jasper County Youth Fair kicks off in Carthage"
+        "name": "Donations help bridge gap between Carthage Humane Society, city"
       },
       {
         "role": "text",
@@ -906,39 +1010,11 @@
       },
       {
         "role": "text",
-        "name": "15 hrs ago"
+        "name": "14 hrs ago"
       },
       {
         "role": "text",
-        "name": "CARTHAGE, Mo. \u2014 The results of a year of hard work and years of learning and practice by hundreds of youth will be on display over the next fe\u2026"
-      },
-      {
-        "role": "link",
-        "name": "LIFESTYLES"
-      },
-      {
-        "role": "link",
-        "name": "Veteran artists to perform at Northwest Arkansas amphitheater"
-      },
-      {
-        "role": "text",
-        "name": "+5"
-      },
-      {
-        "role": "text",
-        "name": "By Kevin McClintock | kmcclintock@joplinglobe.com"
-      },
-      {
-        "role": "text",
-        "name": "15 hrs ago"
-      },
-      {
-        "role": "text",
-        "name": "ROGERS, Ark. \u2014 Several performers from past decades will parade the stage later this month at the closest outdoor concert venue to Joplin."
-      },
-      {
-        "role": "link",
-        "name": "Mercy lab technician helps patients on microbiological level"
+        "name": "CARTHAGE, Mo. \u2014 The Carthage Humane Society will continue to serve as the city\u2019s official animal shelter after donations by two people bridged\u2026"
       },
       {
         "role": "link",
@@ -946,63 +1022,43 @@
       },
       {
         "role": "link",
-        "name": "Mercy lab technician helps patients on microbiological level"
+        "name": "Joplin Health Department food inspections (July 11)"
       },
       {
         "role": "text",
-        "name": "By Kevin McClintock | kmcclintock@joplinglobe.com"
+        "name": "From staff reports | news@joplinglobe.com"
       },
       {
         "role": "text",
-        "name": "16 hrs ago"
+        "name": "14 hrs ago"
       },
       {
         "role": "text",
-        "name": "Want to know one thing about Anna Brodrick\u2019s job that she absolutely loves?"
+        "name": "The Joplin Globe publishes summaries of routine and follow-up inspections performed by the Joplin Health Department. Businesses that are inspe\u2026"
       },
       {
         "role": "link",
-        "name": "Marta Churchwell: New mural showcasing racial diversity underway in Joplin"
+        "name": "Eric Greitens\u2019 attorney objects to deposition ahead of hearing over abuse allegations"
       },
       {
         "role": "link",
-        "name": "LIFESTYLES"
+        "name": "FOUR-STATES NEWS"
       },
       {
         "role": "link",
-        "name": "Marta Churchwell: New mural showcasing racial diversity underway in Joplin"
+        "name": "Eric Greitens\u2019 attorney objects to deposition ahead of hearing over abuse allegations"
       },
       {
         "role": "text",
-        "name": "By Marta Churchwell | Globe Columnist"
+        "name": "By Rudi Keller | Missouri Independent"
       },
       {
         "role": "text",
-        "name": "17 hrs ago"
+        "name": "15 hrs ago"
       },
       {
         "role": "text",
-        "name": "The seeds for Joplin\u2019s newest public mural were planted back in 2017 with a thought-provoking social media post about racial inclusion."
-      },
-      {
-        "role": "link",
-        "name": "LOCAL NEWS"
-      },
-      {
-        "role": "link",
-        "name": "Wally Kennedy: Pizza Ranch about to open on Range Line"
-      },
-      {
-        "role": "text",
-        "name": "By Wally Kennedy | Globe Reporter"
-      },
-      {
-        "role": "text",
-        "name": "17 hrs ago"
-      },
-      {
-        "role": "text",
-        "name": "Pizza Ranch, 3223 E. 20th St., the latest entry into Joplin\u2019s booming restaurant market, is set to open at 11 a.m. Monday if all goes as plann\u2026"
+        "name": "COLUMBIA, Mo. \u2014 An effort to get former Gov. Eric Greitens on the record about allegations of child and spousal abuse before a public trial th\u2026"
       },
       {
         "role": "link",
@@ -1010,39 +1066,63 @@
       },
       {
         "role": "link",
-        "name": "Batteries that powered Hubble Space Telescope return to Joplin, where they were built"
+        "name": "John Newby: Your community must offer an experience to attract visitors"
       },
       {
         "role": "link",
-        "name": "Batteries that powered Hubble Space Telescope return to Joplin, where they were built"
+        "name": "John Newby: Your community must offer an experience to attract visitors"
       },
       {
         "role": "text",
-        "name": "11 hrs ago"
+        "name": "1 hr ago"
       },
       {
         "role": "text",
-        "name": "At first glance it doesn\u2019t look like much \u2014 a black-shrouded module tipping the scales at 400 pounds."
+        "name": "Too often, when we think of marketing our communities or businesses, we think in terms of how many sets of eyes we can reach. Certainly, reach\u2026"
       },
       {
         "role": "link",
-        "name": "2022 Jasper County Youth Fair kicks off in Carthage"
+        "name": "Unemployment falls in Joplin, Missouri"
       },
       {
         "role": "text",
-        "name": "15 hrs ago"
+        "name": "2 hrs ago"
       },
       {
         "role": "text",
-        "name": "CARTHAGE, Mo. \u2014 The results of a year of hard work and years of learning and practice by hundreds of youth will be on display over the next fe\u2026"
+        "name": "Unemployment continues to fall in Joplin and across the state, according to the latest data provided by the Missouri Economic Research and Inf\u2026"
       },
       {
         "role": "link",
-        "name": "Mercy lab technician helps patients on microbiological level"
+        "name": "Donations help bridge gap between Carthage Humane Society, city"
+      },
+      {
+        "role": "text",
+        "name": "14 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "CARTHAGE, Mo. \u2014 The Carthage Humane Society will continue to serve as the city\u2019s official animal shelter after donations by two people bridged\u2026"
       },
       {
         "role": "link",
-        "name": "Mercy lab technician helps patients on microbiological level"
+        "name": "Joplin Health Department food inspections (July 11)"
+      },
+      {
+        "role": "text",
+        "name": "14 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "The Joplin Globe publishes summaries of routine and follow-up inspections performed by the Joplin Health Department. Businesses that are inspe\u2026"
+      },
+      {
+        "role": "link",
+        "name": "The 5 Q's: Robin Standridge remembers Wildcat Glades' animal ambassador"
+      },
+      {
+        "role": "link",
+        "name": "The 5 Q's: Robin Standridge remembers Wildcat Glades' animal ambassador"
       },
       {
         "role": "text",
@@ -1050,47 +1130,23 @@
       },
       {
         "role": "text",
-        "name": "Want to know one thing about Anna Brodrick\u2019s job that she absolutely loves?"
+        "name": "In this weekly feature, we put five questions before someone in the community. Today, we chat with Robin Standridge, of the Wildcat Glades Fri\u2026"
       },
       {
         "role": "link",
-        "name": "Wally Kennedy: Pizza Ranch about to open on Range Line"
-      },
-      {
-        "role": "text",
-        "name": "17 hrs ago"
-      },
-      {
-        "role": "text",
-        "name": "Pizza Ranch, 3223 E. 20th St., the latest entry into Joplin\u2019s booming restaurant market, is set to open at 11 a.m. Monday if all goes as plann\u2026"
+        "name": "Dave Ramsey: Sister not entitled to more money just because she wants it"
       },
       {
         "role": "link",
-        "name": "Architectural survey along Seventh Street to begin Monday"
+        "name": "Dave Ramsey: Sister not entitled to more money just because she wants it"
       },
       {
         "role": "text",
-        "name": "17 hrs ago"
+        "name": "19 hrs ago"
       },
       {
         "role": "text",
-        "name": "An architectural survey kicks off Monday along Seventh Street in Joplin \u2014 between Schifferdecker Avenue and Range Line Road \u2014 in advance of an\u2026"
-      },
-      {
-        "role": "link",
-        "name": "Bill Caldwell: Mineral Park was East Joplin's 'prettiest breathing spot'"
-      },
-      {
-        "role": "link",
-        "name": "Bill Caldwell: Mineral Park was East Joplin's 'prettiest breathing spot'"
-      },
-      {
-        "role": "text",
-        "name": "20 hrs ago"
-      },
-      {
-        "role": "text",
-        "name": "Joplin\u2019s park system has long been the pride of the city, with most of the land for it having been donated by wealthy individuals or mining co\u2026"
+        "name": "Dear Dave: My father-in-law died earlier this year. Since then, my wife and I have faced a dilemma because of the inheritance. Her dad had sev\u2026"
       },
       {
         "role": "heading",
@@ -1280,6 +1336,30 @@
       },
       {
         "role": "link",
+        "name": "PARK PLAY"
+      },
+      {
+        "role": "link",
+        "name": "PARK PLAY"
+      },
+      {
+        "role": "text",
+        "name": "Vinita, Okla., resident Ian Mariott eyes the basket while playing disc golf Saturday at Landreth Park. Mariott said he likes coming to Joplin to play its courses. Globe | Laurie Sisk"
+      },
+      {
+        "role": "link",
+        "name": "PERFORMANCE AT THE PARK"
+      },
+      {
+        "role": "link",
+        "name": "PERFORMANCE AT THE PARK"
+      },
+      {
+        "role": "text",
+        "name": "Bella Vista native and lead singer for Big Smitty, Shawn Smith, entertains the crowd during Food Truck Friday at Carthage\u2019s Central Park.Globe | Laurie Sisk"
+      },
+      {
+        "role": "link",
         "name": "DINNER DUO"
       },
       {
@@ -1376,55 +1456,71 @@
       },
       {
         "role": "link",
-        "name": "CANOPY CEREMONY"
+        "name": "PARK PLAY"
       },
       {
         "role": "link",
-        "name": "CANOPY CEREMONY"
+        "name": "PARK PLAY"
       },
       {
         "role": "text",
-        "name": "Officials recently celebrate the installation of four shade canopies at Irving Elementary School. Elana Liu, Irving\u2019s PTO president, arranged funding for the canopies, and community and area donors included Arvest Foundation, Mercy Hospital Joplin, Hometown Pediatrics and Walmart. COURTESY |\u2026"
+        "name": "Vinita, Okla., resident Ian Mariott eyes the basket while playing disc golf Saturday at Landreth Park. Mariott said he likes coming to Joplin to play its courses. Globe | Laurie Sisk"
       },
       {
         "role": "link",
-        "name": "TRIPLE ACHIEVEMENT"
+        "name": "PERFORMANCE AT THE PARK"
       },
       {
         "role": "link",
-        "name": "TRIPLE ACHIEVEMENT"
+        "name": "PERFORMANCE AT THE PARK"
       },
       {
         "role": "text",
-        "name": "Jonathan Russell, president of the Neosho Board of Education, achieved advanced, master and distinguished certification recognition from the Missouri School Boards\u2019 Association in a program established to recognize local school board members who pursue additional learning opportunities beyon\u2026"
-      },
-      {
-        "role": "link",
-        "name": "DINNER DUO"
-      },
-      {
-        "role": "link",
-        "name": "DINNER DUO"
-      },
-      {
-        "role": "text",
-        "name": "Monique Zamarripa and Jo Hannah Close join other volunteers Wednesday as they prepare an Italian dinner for guests at the Ronald McDonald House. The duo joined a group of 10 volunteers from area McDonald\u2019s restaurants in providing the dinner and helping with housekeeping chores.GLOBE | LAURIE SISK"
-      },
-      {
-        "role": "link",
-        "name": "KENNEL KRYPTO"
-      },
-      {
-        "role": "link",
-        "name": "KENNEL KRYPTO"
-      },
-      {
-        "role": "text",
-        "name": "Krypto, a young terrier mix, peers from his kennel Wednesday at the Joplin Humane Society. Krypto is one of an influx of pups available for adoption at the shelter. The Joplin Humane Society is sponsoring a low-cost vaccine clinic from 6 to 9 p.m. Friday for pet owners. GLOBE | LAURIE SISK"
+        "name": "Bella Vista native and lead singer for Big Smitty, Shawn Smith, entertains the crowd during Food Truck Friday at Carthage\u2019s Central Park.Globe | Laurie Sisk"
       },
       {
         "role": "link",
         "name": "Local Sports"
+      },
+      {
+        "role": "link",
+        "name": "Eli Cranor: Healing is worth the wait"
+      },
+      {
+        "role": "link",
+        "name": "SPORTS"
+      },
+      {
+        "role": "link",
+        "name": "Eli Cranor: Healing is worth the wait"
+      },
+      {
+        "role": "text",
+        "name": "15 hrs ago"
+      },
+      {
+        "role": "text",
+        "name": "Dear Eli: My son got burned really bad in a fireworks accident a week or so ago. It got most of his right hand pretty good \u2014 blisters all over\u2026"
+      },
+      {
+        "role": "link",
+        "name": "Outlaws fall 7-2 to Mustangs"
+      },
+      {
+        "role": "link",
+        "name": "SPORTS"
+      },
+      {
+        "role": "link",
+        "name": "Outlaws fall 7-2 to Mustangs"
+      },
+      {
+        "role": "text",
+        "name": "Jul 9, 2022"
+      },
+      {
+        "role": "text",
+        "name": "The St. Joseph Mustangs jumped out to a 5-0 lead en route to a 7-2 win over the Joplin Outlaws in MINK League action on Saturday night in St. \u2026"
       },
       {
         "role": "link",
@@ -1440,11 +1536,15 @@
       },
       {
         "role": "text",
-        "name": "9 hrs ago"
+        "name": "From Staff Reports | sports@joplinglobe.com"
       },
       {
         "role": "text",
-        "name": "SEDALIA, Mo. \u2014 The Sedalia Bombers plated two unanswered runs down the stretch to nip the Joplin Outlaws 4-3 in 10 innings of play on Friday night."
+        "name": "Jul 8, 2022"
+      },
+      {
+        "role": "text",
+        "name": "SEDALIA, Mo. \u2014 The Sedalia Bombers plated two unanswered runs down the stretch to nip the Jo\u2026"
       },
       {
         "role": "link",
@@ -1456,11 +1556,15 @@
       },
       {
         "role": "text",
-        "name": "13 hrs ago"
+        "name": "From Staff Reports | sports@joplinglobe.com"
       },
       {
         "role": "text",
-        "name": "ASBURY, Mo. \u2014 A special weekend is in store for drag racing fans on July 15-16 at Mo-Kan Dragway as the venue celebrates its 60th-year anniver\u2026"
+        "name": "Jul 8, 2022"
+      },
+      {
+        "role": "text",
+        "name": "ASBURY, Mo. \u2014 A special weekend is in store for drag racing fans on July 15-16 at Mo-Kan Dra\u2026"
       },
       {
         "role": "link",
@@ -1480,7 +1584,7 @@
       },
       {
         "role": "text",
-        "name": "15 hrs ago"
+        "name": "Jul 8, 2022"
       },
       {
         "role": "text",
@@ -1504,7 +1608,7 @@
       },
       {
         "role": "text",
-        "name": "15 hrs ago"
+        "name": "Jul 8, 2022"
       },
       {
         "role": "text",
@@ -1535,54 +1639,6 @@
         "name": "SEDALIA, Mo. \u2014 With two outs in the bottom of the 11th, Kayden Williams collected a walk-off\u2026"
       },
       {
-        "role": "link",
-        "name": "Collegiate athletes, coaches paying more attention to mental health"
-      },
-      {
-        "role": "link",
-        "name": "LOCAL SPORTS"
-      },
-      {
-        "role": "link",
-        "name": "Collegiate athletes, coaches paying more attention to mental health"
-      },
-      {
-        "role": "text",
-        "name": "By Elton Hayes | CNHI Sports"
-      },
-      {
-        "role": "text",
-        "name": "Jul 7, 2022"
-      },
-      {
-        "role": "text",
-        "name": "STATE COLLEGE, Penn. \u2014 Members of Penn State\u2019s women\u2019s soccer team gathered for a 6 a.m. pra\u2026"
-      },
-      {
-        "role": "link",
-        "name": "Outlaws' Woodmansee drives in 3 in losing effort to A's"
-      },
-      {
-        "role": "link",
-        "name": "LOCAL SPORTS"
-      },
-      {
-        "role": "link",
-        "name": "Outlaws' Woodmansee drives in 3 in losing effort to A's"
-      },
-      {
-        "role": "text",
-        "name": "From Staff Reports | sports@joplinglobe.com"
-      },
-      {
-        "role": "text",
-        "name": "Jul 6, 2022"
-      },
-      {
-        "role": "text",
-        "name": "The summer woodwork continued."
-      },
-      {
         "role": "heading",
         "name": "Most Popular",
         "level": 3
@@ -1609,11 +1665,19 @@
       },
       {
         "role": "link",
+        "name": "Batteries that powered Hubble Space Telescope return to Joplin, where they were built"
+      },
+      {
+        "role": "link",
         "name": "Police department nears 'breaking point,' chief says"
       },
       {
         "role": "link",
-        "name": "2 from area killed, 4 injured in vehicle crashes"
+        "name": "Joplin attorney now facing additional charges"
+      },
+      {
+        "role": "link",
+        "name": "Joplin's Always Wright named male athlete of the year"
       },
       {
         "role": "link",
@@ -1621,7 +1685,7 @@
       },
       {
         "role": "link",
-        "name": "Joplin fireworks rules"
+        "name": "Liberty asks customers to voluntarily conserve energy"
       },
       {
         "role": "link",
@@ -1629,19 +1693,11 @@
       },
       {
         "role": "link",
-        "name": "Liberty asks customers to voluntarily conserve energy"
+        "name": "Wally Kennedy: Pizza Ranch about to open on Range Line"
       },
       {
         "role": "link",
-        "name": "'We the People': Exhibit showcasing historical documents opens at Crystal Bridges"
-      },
-      {
-        "role": "link",
-        "name": "PBS show stops in Joplin to talk with Muslim community"
-      },
-      {
-        "role": "link",
-        "name": "Joplin's Always Wright named male athlete of the year"
+        "name": "Neosho accepts bid for Lime Kiln dam renovation"
       },
       {
         "role": "heading",
@@ -1650,30 +1706,30 @@
       },
       {
         "role": "link",
-        "name": "This no bake dessert is so good. Make a quick and easy graham cracker pudding with this blue ribbon recipe! It's almost like a graham cracker pudding lasagna."
+        "name": "This apple pie is a great pie for any occasion. The crust is flaky and delicious with a warm filling full of cinnamon. No knife or plate needed."
       },
       {
         "role": "link",
-        "name": "Graham Cracker Pudding",
-        "description": "This no bake dessert is so good. Make a quick and easy graham cracker pudding with this blue ribbon recipe! It's almost like a graham cracker pudding lasagna."
+        "name": "Mom's Flat Apple Pie",
+        "description": "This apple pie is a great pie for any occasion. The crust is flaky and delicious with a warm filling full of cinnamon. No knife or plate needed."
       },
       {
         "role": "link",
-        "name": "This peach dump cake recipe is fast, easy, and wonderful especially when served with a scoop of vanilla ice cream on a warmed serving of this dump cake."
+        "name": "These fritters will be amazing if they're made with shredded zucchini or summer squash. Easy to prepare, they're a tasty afternoon snack."
       },
       {
         "role": "link",
-        "name": "Peach Dump Cake",
-        "description": "This peach dump cake recipe is fast, easy, and wonderful especially when served with a scoop of vanilla ice cream on a warmed serving of this dump cake."
+        "name": "Zucchini or Summer Squash Fritters",
+        "description": "These fritters will be amazing if they're made with shredded zucchini or summer squash. Easy to prepare, they're a tasty afternoon snack."
       },
       {
         "role": "link",
-        "name": "These burgers are packed with flavors and are not like anything you've had before. Imagine soft buttery yeast rolls stuffed with cabbage and beef."
+        "name": "My mom always made pork chops like this. This recipe fries the pork chop, but you can also bake or roast it if you're watching your calories."
       },
       {
         "role": "link",
-        "name": "Grandma's Cabbage Burgers!",
-        "description": "These burgers are packed with flavors and are not like anything you've had before. Imagine soft buttery yeast rolls stuffed with cabbage and beef."
+        "name": "Mom's Tender and Juicy Pork Chops",
+        "description": "My mom always made pork chops like this. This recipe fries the pork chop, but you can also bake or roast it if you're watching your calories."
       },
       {
         "role": "heading",
@@ -1691,11 +1747,31 @@
       },
       {
         "role": "link",
+        "name": "Eric Greitens\u2019 attorney objects to deposition ahead of hearing over abuse allegations"
+      },
+      {
+        "role": "link",
+        "name": "Eric Greitens\u2019 attorney objects to deposition ahead of hearing over abuse allegations"
+      },
+      {
+        "role": "text",
+        "name": "15 hrs ago"
+      },
+      {
+        "role": "link",
+        "name": "TV ad spending approaches $10 million in Missouri U.S. Senate primary"
+      },
+      {
+        "role": "text",
+        "name": "Jul 9, 2022"
+      },
+      {
+        "role": "link",
         "name": "St. Louis moves to fund help for out-of-state abortions"
       },
       {
         "role": "text",
-        "name": "17 hrs ago"
+        "name": "Jul 8, 2022"
       },
       {
         "role": "link",
@@ -1703,7 +1779,7 @@
       },
       {
         "role": "text",
-        "name": "19 hrs ago"
+        "name": "Jul 8, 2022"
       },
       {
         "role": "link",
@@ -1728,30 +1804,6 @@
       {
         "role": "text",
         "name": "Jul 5, 2022"
-      },
-      {
-        "role": "link",
-        "name": "Kobach looks for comeback in Kansas after losing 2 big races"
-      },
-      {
-        "role": "link",
-        "name": "Kobach looks for comeback in Kansas after losing 2 big races"
-      },
-      {
-        "role": "text",
-        "name": "Jul 5, 2022"
-      },
-      {
-        "role": "link",
-        "name": "6 dead, 30 hurt in shooting at Chicago-area July 4 parade"
-      },
-      {
-        "role": "link",
-        "name": "6 dead, 30 hurt in shooting at Chicago-area July 4 parade"
-      },
-      {
-        "role": "text",
-        "name": "Jul 4, 2022"
       },
       {
         "role": "heading",
@@ -1998,43 +2050,43 @@
       },
       {
         "role": "link",
+        "name": "John Newby: Your community must offer an experience to attract visitors"
+      },
+      {
+        "role": "link",
+        "name": "John Newby: Your community must offer an experience to attract visitors"
+      },
+      {
+        "role": "link",
+        "name": "Unemployment falls in Joplin, Missouri"
+      },
+      {
+        "role": "link",
+        "name": "Donations help bridge gap between Carthage Humane Society, city"
+      },
+      {
+        "role": "link",
+        "name": "Dave Ramsey: Sister not entitled to more money just because she wants it"
+      },
+      {
+        "role": "link",
+        "name": "Dave Ramsey: Sister not entitled to more money just because she wants it"
+      },
+      {
+        "role": "link",
+        "name": "Len Ingrassia: New BMW M240i a powerhouse"
+      },
+      {
+        "role": "link",
+        "name": "Len Ingrassia: New BMW M240i a powerhouse"
+      },
+      {
+        "role": "link",
+        "name": "Building Bridges transfers from United Way to Alliance of Southwest Missouri"
+      },
+      {
+        "role": "link",
         "name": "Wally Kennedy: Pizza Ranch about to open on Range Line"
-      },
-      {
-        "role": "link",
-        "name": "Joplin blueberry farm holding 'charity day' for animal shelter"
-      },
-      {
-        "role": "link",
-        "name": "Stephanie Garland: Do homework before buying a used car"
-      },
-      {
-        "role": "link",
-        "name": "Stephanie Garland: Do homework before buying a used car"
-      },
-      {
-        "role": "link",
-        "name": "Len Ingrassia: Lexus LC 500 offers performance and looks"
-      },
-      {
-        "role": "link",
-        "name": "Len Ingrassia: Lexus LC 500 offers performance and looks"
-      },
-      {
-        "role": "link",
-        "name": "TAMKO celebrates 75 years at Range Line plant"
-      },
-      {
-        "role": "link",
-        "name": "Wally Kennedy: Starbucks is coming back to Webb City"
-      },
-      {
-        "role": "link",
-        "name": "Len Ingrassia: Redesigned Lexus more economical"
-      },
-      {
-        "role": "link",
-        "name": "Len Ingrassia: Redesigned Lexus more economical"
       },
       {
         "role": "link",
@@ -2043,6 +2095,14 @@
       {
         "role": "link",
         "name": "Lifestyles"
+      },
+      {
+        "role": "link",
+        "name": "Joplin church partners with school district for free summer lunch program"
+      },
+      {
+        "role": "link",
+        "name": "Joplin church partners with school district for free summer lunch program"
       },
       {
         "role": "link",
@@ -2078,19 +2138,43 @@
       },
       {
         "role": "link",
-        "name": "Terry Mattingly: What's next for Democrats for Life?"
-      },
-      {
-        "role": "link",
-        "name": "Terry Mattingly: What's next for Democrats for Life?"
-      },
-      {
-        "role": "link",
         "name": "More Lifestyles"
       },
       {
         "role": "link",
         "name": "Opinion"
+      },
+      {
+        "role": "link",
+        "name": "Rich Lowry: Ron DeSantis a traditional conservative leader"
+      },
+      {
+        "role": "link",
+        "name": "Rich Lowry: Ron DeSantis a traditional conservative leader"
+      },
+      {
+        "role": "link",
+        "name": "Leonard Pitts Jr.: What is wrong with American men?"
+      },
+      {
+        "role": "link",
+        "name": "Leonard Pitts Jr.: What is wrong with American men?"
+      },
+      {
+        "role": "link",
+        "name": "Our view: Out of this world"
+      },
+      {
+        "role": "link",
+        "name": "Our view: Out of this world"
+      },
+      {
+        "role": "link",
+        "name": "Lucas Kunce: National identification program will crush independent farmers"
+      },
+      {
+        "role": "link",
+        "name": "Lucas Kunce: National identification program will crush independent farmers"
       },
       {
         "role": "link",
@@ -2110,31 +2194,7 @@
       },
       {
         "role": "link",
-        "name": "Our view: Downtown grant moves city toward goal"
-      },
-      {
-        "role": "link",
-        "name": "Gary Franks: What Biden needs is a Republican Congress \u2013 that worked for Bill Clinton"
-      },
-      {
-        "role": "link",
-        "name": "Gary Franks: What Biden needs is a Republican Congress \u2013 that worked for Bill Clinton"
-      },
-      {
-        "role": "link",
-        "name": "Geoff Caldwell: Thomas Jefferson had it right, why won\u2019t we listen?"
-      },
-      {
-        "role": "link",
-        "name": "Geoff Caldwell: Thomas Jefferson had it right, why won\u2019t we listen?"
-      },
-      {
-        "role": "link",
-        "name": "Kimberly Zerkel: Joplin needs to transform anguish into action"
-      },
-      {
-        "role": "link",
-        "name": "Kimberly Zerkel: Joplin needs to transform anguish into action"
+        "name": "Our view: Get informed before the vote"
       },
       {
         "role": "link",
@@ -2163,31 +2223,7 @@
       },
       {
         "role": "link",
-        "name": "Sri Lankan PM agrees to quit in biggest political turmoil"
-      },
-      {
-        "role": "link",
-        "name": "Sri Lankan PM agrees to quit in biggest political turmoil"
-      },
-      {
-        "role": "text",
-        "name": "Updated"
-      },
-      {
-        "role": "text",
-        "name": "5 min ago"
-      },
-      {
-        "role": "link",
-        "name": "UN says Ukraine bears share of blame for nursing home attack"
-      },
-      {
-        "role": "link",
-        "name": "UN says Ukraine bears share of blame for nursing home attack"
-      },
-      {
-        "role": "text",
-        "name": "Updated"
+        "name": "After providing 43,000+ meals to food insecure communities, IOR Global and Move For Hunger renew their partnership for a third year"
       },
       {
         "role": "text",
@@ -2195,11 +2231,47 @@
       },
       {
         "role": "link",
-        "name": "How a crowded GOP field could help Trump in 2024 campaign"
+        "name": "MCTlive! Lock Volume Indices: June 2022 Data"
+      },
+      {
+        "role": "text",
+        "name": "48 min ago"
       },
       {
         "role": "link",
-        "name": "How a crowded GOP field could help Trump in 2024 campaign"
+        "name": "What value on nature? Countries now have 1st guidelines"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": "54 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Thousands in Bosnia commemorate 1995 Srebrenica massacre"
+      },
+      {
+        "role": "link",
+        "name": "Thousands in Bosnia commemorate 1995 Srebrenica massacre"
+      },
+      {
+        "role": "text",
+        "name": "Updated"
+      },
+      {
+        "role": "text",
+        "name": "1 min ago"
+      },
+      {
+        "role": "link",
+        "name": "Abe's party vows to finish his work after win in Japan vote"
+      },
+      {
+        "role": "link",
+        "name": "Abe's party vows to finish his work after win in Japan vote"
       },
       {
         "role": "text",
@@ -2211,39 +2283,15 @@
       },
       {
         "role": "link",
-        "name": "Russia trying to 'raise true hell,' Ukrainian governor says"
+        "name": "AP PHOTOS: Withering drought shows Lake Mead boat graveyard"
       },
       {
         "role": "link",
-        "name": "Russia trying to 'raise true hell,' Ukrainian governor says"
+        "name": "AP PHOTOS: Withering drought shows Lake Mead boat graveyard"
       },
       {
         "role": "text",
         "name": "Updated"
-      },
-      {
-        "role": "text",
-        "name": "1 hr ago"
-      },
-      {
-        "role": "link",
-        "name": "Italy: All 11 hikers killed in glacier avalanche identified"
-      },
-      {
-        "role": "link",
-        "name": "Italy: All 11 hikers killed in glacier avalanche identified"
-      },
-      {
-        "role": "text",
-        "name": "1 hr ago"
-      },
-      {
-        "role": "link",
-        "name": "Goodbye to cash tolls, and some notorious history, at bridge"
-      },
-      {
-        "role": "link",
-        "name": "Goodbye to cash tolls, and some notorious history, at bridge"
       },
       {
         "role": "text",
@@ -2255,6 +2303,30 @@
       },
       {
         "role": "link",
+        "name": "Heard attorneys say juror served improperly, seek mistrial"
+      },
+      {
+        "role": "link",
+        "name": "Heard attorneys say juror served improperly, seek mistrial"
+      },
+      {
+        "role": "link",
+        "name": "'Thor: Love and Thunder' scores franchise best debut"
+      },
+      {
+        "role": "link",
+        "name": "'Thor: Love and Thunder' scores franchise best debut"
+      },
+      {
+        "role": "link",
+        "name": "Vernon Winfrey, Oprah's father, dies at 89"
+      },
+      {
+        "role": "link",
+        "name": "Vernon Winfrey, Oprah's father, dies at 89"
+      },
+      {
+        "role": "link",
         "name": "'Sopranos' actor Tony Sirico, 'Paulie Walnuts,' dies at 79"
       },
       {
@@ -2284,30 +2356,6 @@
       {
         "role": "link",
         "name": "Hawaii museum revisits history of gender-fluid healers"
-      },
-      {
-        "role": "link",
-        "name": "Biden awards Medal of Freedom to Biles, McCain, Giffords"
-      },
-      {
-        "role": "link",
-        "name": "Biden awards Medal of Freedom to Biles, McCain, Giffords"
-      },
-      {
-        "role": "link",
-        "name": "James Caan, Oscar nominee for 'The Godfather,' dies at 82"
-      },
-      {
-        "role": "link",
-        "name": "James Caan, Oscar nominee for 'The Godfather,' dies at 82"
-      },
-      {
-        "role": "link",
-        "name": "Nipsey Hussle's legacy inspires 3 years after his murder"
-      },
-      {
-        "role": "link",
-        "name": "Nipsey Hussle's legacy inspires 3 years after his murder"
       },
       {
         "role": "link",
@@ -2319,47 +2367,39 @@
       },
       {
         "role": "link",
-        "name": "Sri Lankan PM agrees to quit in biggest political turmoil"
+        "name": "Looming Musk-Twitter legal battle hammers company shares"
       },
       {
         "role": "link",
-        "name": "Sri Lankan PM agrees to quit in biggest political turmoil"
+        "name": "Looming Musk-Twitter legal battle hammers company shares"
       },
       {
         "role": "link",
-        "name": "Choose your reality: Trust wanes, conspiracy theories rise"
+        "name": "Putin extends fast-track Russian citizenship to all Ukraine"
       },
       {
         "role": "link",
-        "name": "Choose your reality: Trust wanes, conspiracy theories rise"
+        "name": "Putin extends fast-track Russian citizenship to all Ukraine"
       },
       {
         "role": "link",
-        "name": "Japan's ex-leader Shinzo Abe assassinated during a speech"
+        "name": "Roof Depot Secures Growth Investment from Copley Equity Partners"
       },
       {
         "role": "link",
-        "name": "Japan's ex-leader Shinzo Abe assassinated during a speech"
+        "name": "LiveOak Fiber to Invest $100M in Okaloosa County Fiber Network While Pledging to Create 50 New Jobs"
       },
       {
         "role": "link",
-        "name": "Musk abandons deal to buy Twitter; company says it will sue"
+        "name": "79% of CX Leaders Plan to Increase Investment in Contact Center AI and Automation"
       },
       {
         "role": "link",
-        "name": "Musk abandons deal to buy Twitter; company says it will sue"
+        "name": "Mercedes-Benz Reports Q2 2022 Sales of 79,105 Vehicles"
       },
       {
         "role": "link",
-        "name": "Enterprise Financial Services Corp Announces Second Quarter 2022 Earnings Release and Conference Call"
-      },
-      {
-        "role": "link",
-        "name": "Organigram to Report Third Quarter 2022 Results on July 14, 2022"
-      },
-      {
-        "role": "link",
-        "name": "Social Capital Suvretta Holdings Corp. III Announces Reconvened Extraordinary General Meeting of Shareholders"
+        "name": "Advent Technologies Hosted Virtual 2022 Investor Day Event"
       },
       {
         "role": "link",
@@ -2641,7 +2681,7 @@
     "addeddate": "2022-07-04 21:54:35"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 1615088119,
+  "uniq": 1715375602,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"

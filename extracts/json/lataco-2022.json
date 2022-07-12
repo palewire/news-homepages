@@ -1,5 +1,5 @@
 {
-  "created": 1657426011,
+  "created": 1657628258,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/35/items/lataco-2022",
@@ -174,31 +174,283 @@
       "sha1": "daca9cd243393c729dc44400b011b9446f4591d0"
     },
     {
+      "name": "lataco-2022-07-10T08:43:23.844840-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657467806",
+      "size": "18859",
+      "md5": "b26fc4e68ac7d8c296aa70142ab0bd68",
+      "crc32": "4f19f533",
+      "sha1": "fec3c54518127c7d5b772bc3617d9834e0cee4fa",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-10T08:43:23.844840-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657467808",
+      "size": "12038",
+      "md5": "5aec9666d5ae0a2f4745931488a601ba",
+      "crc32": "849d868f",
+      "sha1": "eefaf51af7dddc05f12840fd66a6d2a084effb2a",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-10T08:43:23.844840-07:00.jpg",
+      "source": "original",
+      "mtime": "1657467804",
+      "size": "256651",
+      "md5": "fc6a5272c72c32e3928d463fd1590b91",
+      "crc32": "383e88fa",
+      "sha1": "d384f55e85df750f3460c26e4bd50a19f815158a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-07-10T08:43:23.844840-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-07-10T08:43:23.844840-07:00.jpg",
+      "mtime": "1657467854",
+      "size": "10087",
+      "md5": "68fc8eb2a4f19568c09325c30f46d5d9",
+      "crc32": "c69af1cf",
+      "sha1": "daca9cd243393c729dc44400b011b9446f4591d0"
+    },
+    {
+      "name": "lataco-2022-07-10T11:18:42.693914-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657477127",
+      "size": "18656",
+      "md5": "31a5d8cf93002bd728eb62dd55f2b6a1",
+      "crc32": "a64f8567",
+      "sha1": "54fe37aeee6c0475eb5a7c338b0b0c3cc96ec47e",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-10T11:18:42.693914-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657477130",
+      "size": "12038",
+      "md5": "5aec9666d5ae0a2f4745931488a601ba",
+      "crc32": "849d868f",
+      "sha1": "eefaf51af7dddc05f12840fd66a6d2a084effb2a",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-10T11:18:42.693914-07:00.jpg",
+      "source": "original",
+      "mtime": "1657477125",
+      "size": "256651",
+      "md5": "fc6a5272c72c32e3928d463fd1590b91",
+      "crc32": "383e88fa",
+      "sha1": "d384f55e85df750f3460c26e4bd50a19f815158a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-07-10T11:18:42.693914-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-07-10T11:18:42.693914-07:00.jpg",
+      "mtime": "1657477205",
+      "size": "10087",
+      "md5": "68fc8eb2a4f19568c09325c30f46d5d9",
+      "crc32": "c69af1cf",
+      "sha1": "daca9cd243393c729dc44400b011b9446f4591d0"
+    },
+    {
+      "name": "lataco-2022-07-10T21:06:55.414019-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657512418",
+      "size": "18646",
+      "md5": "974482457f6fcbcb2e672f5ac31f7193",
+      "crc32": "89374a78",
+      "sha1": "d909e01c38817b05eb0327bcac7fac1c5c9991a7",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-10T21:06:55.414019-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657512420",
+      "size": "12038",
+      "md5": "5aec9666d5ae0a2f4745931488a601ba",
+      "crc32": "849d868f",
+      "sha1": "eefaf51af7dddc05f12840fd66a6d2a084effb2a",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-10T21:06:55.414019-07:00.jpg",
+      "source": "original",
+      "mtime": "1657512416",
+      "size": "256651",
+      "md5": "fc6a5272c72c32e3928d463fd1590b91",
+      "crc32": "383e88fa",
+      "sha1": "d384f55e85df750f3460c26e4bd50a19f815158a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-07-10T21:06:55.414019-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-07-10T21:06:55.414019-07:00.jpg",
+      "mtime": "1657512606",
+      "size": "10087",
+      "md5": "68fc8eb2a4f19568c09325c30f46d5d9",
+      "crc32": "c69af1cf",
+      "sha1": "daca9cd243393c729dc44400b011b9446f4591d0"
+    },
+    {
+      "name": "lataco-2022-07-11T11:43:35.390360-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657565018",
+      "size": "19047",
+      "md5": "632c49fbdeb732767f292e47dad52bbb",
+      "crc32": "12be6847",
+      "sha1": "5eb67d813ed1fbb377bbe4ff970efbc5f48e04db",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-11T11:43:35.390360-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657565021",
+      "size": "12289",
+      "md5": "e54d21eb946cf96898a7a6ffe3ed0b41",
+      "crc32": "05ccdb73",
+      "sha1": "f26364a7beb5b38911da1366609ee039b36a12fc",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-11T11:43:35.390360-07:00.jpg",
+      "source": "original",
+      "mtime": "1657565017",
+      "size": "262375",
+      "md5": "6fee33ff14500bcbc7c45b35ca7d35ac",
+      "crc32": "88c920bf",
+      "sha1": "2fc6906ca082de7aac4cd10358e34c04a2225d9e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-07-11T11:43:35.390360-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-07-11T11:43:35.390360-07:00.jpg",
+      "mtime": "1657565086",
+      "size": "9895",
+      "md5": "54efc7d77bfb6910cee711888e2d150f",
+      "crc32": "761225c7",
+      "sha1": "f35763a44777333e005b36525f20dbe69a4ef0c8"
+    },
+    {
+      "name": "lataco-2022-07-11T12:23:19.518266-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657567403",
+      "size": "18842",
+      "md5": "3523d211debb2fe7b12d8f3855dc1014",
+      "crc32": "c34b01e7",
+      "sha1": "b6485d304290580dbd461f05cf106e141359fca1",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-11T12:23:19.518266-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657567406",
+      "size": "12290",
+      "md5": "d207b38cc3e59aecb6f6753523618797",
+      "crc32": "1c9e3d51",
+      "sha1": "10065da428f6dcd2e7f25577d78287061f900c12",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-11T12:23:19.518266-07:00.jpg",
+      "source": "original",
+      "mtime": "1657567401",
+      "size": "262375",
+      "md5": "6fee33ff14500bcbc7c45b35ca7d35ac",
+      "crc32": "88c920bf",
+      "sha1": "2fc6906ca082de7aac4cd10358e34c04a2225d9e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-07-11T12:23:19.518266-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-07-11T12:23:19.518266-07:00.jpg",
+      "mtime": "1657567818",
+      "size": "9895",
+      "md5": "54efc7d77bfb6910cee711888e2d150f",
+      "crc32": "761225c7",
+      "sha1": "f35763a44777333e005b36525f20dbe69a4ef0c8"
+    },
+    {
+      "name": "lataco-2022-07-11T21:33:35.924282-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657600419",
+      "size": "18549",
+      "md5": "7822dd4d322699109448f6b059e3e928",
+      "crc32": "23dafdfb",
+      "sha1": "b778664dc28dcd796c9211cd3db509eceb4db363",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-11T21:33:35.924282-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657600427",
+      "size": "12134",
+      "md5": "ba2d65be89e5d7fc3a06203a379e3816",
+      "crc32": "c38a7324",
+      "sha1": "6759a232ad75e4fe956b76d3edc5e46b9a45b919",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-11T21:33:35.924282-07:00.jpg",
+      "source": "original",
+      "mtime": "1657600418",
+      "size": "268882",
+      "md5": "801df45d825879438e8e57ed447fd386",
+      "crc32": "048e0449",
+      "sha1": "41040e66d11da1948f16dcb5660d78faf9af1247",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-07-11T21:33:35.924282-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-07-11T21:33:35.924282-07:00.jpg",
+      "mtime": "1657600490",
+      "size": "10125",
+      "md5": "a5e8de7c6a39fd8308f9cec5427636fa",
+      "crc32": "50a5ef0e",
+      "sha1": "a94ad47091872b38b6c1339be02eae31eaffade7"
+    },
+    {
       "name": "lataco-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee4d61d27fcb6978a773d7a8aebd873971856ab7",
-      "mtime": "1657426004",
-      "size": "4727",
-      "md5": "26021b1a9efcc49e9d76f33597948f3f",
-      "crc32": "cb304c92",
-      "sha1": "a0807ed018b954a158f777acab2d18ce7fdb134a",
+      "btih": "ff5767dd61d9582316b54c40b11d980fd6438916",
+      "mtime": "1657600493",
+      "size": "9718",
+      "md5": "e051ae5b2b73d1754587bc5faf4e6a6b",
+      "crc32": "eef47644",
+      "sha1": "6ba0b3751ccdda72e2fd7e107967a6204fe316a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lataco-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de893f77db1c553a772df57765dbdea1",
+      "md5": "ea59cda94ce95adf8a13ba347bd2333e",
       "summation": "md5"
     },
     {
       "name": "lataco-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657425958",
-      "size": "36864",
-      "md5": "cb8ee13b7c5aac7f88f4026183e118ab",
-      "crc32": "5108a9af",
-      "sha1": "f7d4d857d7c6fc0ba45654cd86f97854ea4dc5d3",
+      "mtime": "1657600430",
+      "size": "61440",
+      "md5": "2130d842b62938769d13c2cac76afdb7",
+      "crc32": "96af6bcb",
+      "sha1": "b891e513bb2937b4098725485d41019d3a3b0d47",
       "format": "Metadata"
     },
     {
@@ -212,9 +464,463 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1657426004,
-  "item_size": 1237572,
+  "files_count": 44,
+  "item_last_updated": 1657600493,
+  "item_size": 3076326,
+  "lataco-2022": [
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://www.lataco.com"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://www.lataco.com"
+    },
+    {
+      "text": "",
+      "url": "https://www.lataco.com"
+    },
+    {
+      "text": "News",
+      "url": "https://www.lataco.com/category/news/"
+    },
+    {
+      "text": "See All",
+      "url": "https://www.lataco.com/category/news/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/headlines-couple-beaten-and-robbed-at-99-ranch-in-sgv-sea-lions-charge-at-socal-beachgoers/"
+    },
+    {
+      "text": "\nHeadlines: Couple Beaten and Robbed At 99 Ranch in SGV; Sea Lions Charge At SoCal Beachgoers ",
+      "url": "https://www.lataco.com/headlines-couple-beaten-and-robbed-at-99-ranch-in-sgv-sea-lions-charge-at-socal-beachgoers/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/fentanyl-seized-culiacan/"
+    },
+    {
+      "text": "\nHeadlines: Half-Ton Of Fentanyl Seized In Culiac\u00e1n; COVID Case Increase Driving L.A. Towards New Mask Mandate ",
+      "url": "https://www.lataco.com/fentanyl-seized-culiacan/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/body-sofi-stadium/"
+    },
+    {
+      "text": "\nHeadlines: Activists Pour Blood Down City Hall Steps; Man\u2019s Body Found In SoFi Stadium\u2019s Fake Lake ",
+      "url": "https://www.lataco.com/body-sofi-stadium/"
+    },
+    {
+      "text": "Tacos",
+      "url": "https://www.lataco.com/category/tacos/"
+    },
+    {
+      "text": "See All",
+      "url": "https://www.lataco.com/category/tacos/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/al-pastor-long-beach-lionel/"
+    },
+    {
+      "text": "\n\u2018Tacos Lionel\u2019 Is Long Beach\u2019s Best New Al Pastor Taquero On the Block ",
+      "url": "https://www.lataco.com/al-pastor-long-beach-lionel/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/chapulin-croissant-grasshopper/"
+    },
+    {
+      "text": "\nDTLA\u2019s Incredible Chapul\u00edn Croissant Tops The City\u2019s Best French Pastry With Chopped Grasshoppers and Chile ",
+      "url": "https://www.lataco.com/chapulin-croissant-grasshopper/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/most-expensive-taco/"
+    },
+    {
+      "text": "\nHeadlines: The World\u2019s Most Expensive Taco Is $25,000; Carlos Santana Collapses on Stage ",
+      "url": "https://www.lataco.com/most-expensive-taco/"
+    },
+    {
+      "text": "Guides",
+      "url": "https://www.lataco.com/tag/guides/"
+    },
+    {
+      "text": "Music",
+      "url": "https://www.lataco.com/category/music/"
+    },
+    {
+      "text": "See All",
+      "url": "https://www.lataco.com/category/music/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/03-greedo-possibility-of-parole/"
+    },
+    {
+      "text": "\nWatts Rapper 03 Greedo\u2019s Possibility of Parole Gives L.A. Rap Fans Hope After Series of Losses ",
+      "url": "https://www.lataco.com/03-greedo-possibility-of-parole/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/levitt-pavilion-15/"
+    },
+    {
+      "text": "\nFrom Ska to Cumbia: Levitt LA Has Been Offering Free Concerts for the MacArthur Park Community for 15 Years ",
+      "url": "https://www.lataco.com/levitt-pavilion-15/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/a-night-out-full-of-booze-and-jazz-in-highland-park-as-told-by-a-35mm-film-camera/"
+    },
+    {
+      "text": "\nA Night Out Full of Booze and Jazz In Highland Park, As Told By a 35mm Film Camera\u00a0 ",
+      "url": "https://www.lataco.com/a-night-out-full-of-booze-and-jazz-in-highland-park-as-told-by-a-35mm-film-camera/"
+    },
+    {
+      "text": "L.A.",
+      "url": "https://www.lataco.com/category/los-angeles/"
+    },
+    {
+      "text": "See All",
+      "url": "https://www.lataco.com/category/los-angeles/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/film-police-ban/"
+    },
+    {
+      "text": "\nIs Arizona\u2019s New Ban on Filming the Police In L.A.\u2019s Future? ",
+      "url": "https://www.lataco.com/film-police-ban/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/online-gaming-east-la-punk-smash/"
+    },
+    {
+      "text": "\nBackyard Punk-Inspired \u2018BYO Gaming\u2019 Lounge Offers East L.A. Youth Another Way to Fight ",
+      "url": "https://www.lataco.com/online-gaming-east-la-punk-smash/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/lapd-hollywood-video/"
+    },
+    {
+      "text": "\nWatch This Very Weird LAPD PSA \u2018Copaganda\u2019 Video About Being Safe When Partying in Hollywood ",
+      "url": "https://www.lataco.com/lapd-hollywood-video/"
+    },
+    {
+      "text": "Shop",
+      "url": "https://shop.lataco.com"
+    },
+    {
+      "text": "Join L.A. Taco",
+      "url": "https://www.lataco.com/join/"
+    },
+    {
+      "text": "Become a Member",
+      "url": "https://www.lataco.com/join/"
+    },
+    {
+      "text": "Sponsor L.A. TACO",
+      "url": "https://www.lataco.com/business-membership-join/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.paypal.com/donate?hosted_button_id=6QEZ2FKQBQYHQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.twitter.com/lataco"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/lataco"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/LATACO"
+    },
+    {
+      "text": "",
+      "url": "http://tiktok.com/@l.a.taco"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/film-police-ban/"
+    },
+    {
+      "text": "\nIs Arizona\u2019s New Ban on Filming the Police In L.A.\u2019s Future? ",
+      "url": "https://www.lataco.com/film-police-ban/"
+    },
+    {
+      "text": "Hadley Tomicki",
+      "url": "https://www.lataco.com/author/hadley/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/online-gaming-east-la-punk-smash/"
+    },
+    {
+      "text": "\nBackyard Punk-Inspired \u2018BYO Gaming\u2019 Lounge Offers East L.A. Youth Another Way to Fight ",
+      "url": "https://www.lataco.com/online-gaming-east-la-punk-smash/"
+    },
+    {
+      "text": "Javier Cabral",
+      "url": "https://www.lataco.com/author/javiercabral/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/headlines-couple-beaten-and-robbed-at-99-ranch-in-sgv-sea-lions-charge-at-socal-beachgoers/"
+    },
+    {
+      "text": "\nHeadlines: Couple Beaten and Robbed At 99 Ranch in SGV; Sea Lions Charge At SoCal Beachgoers ",
+      "url": "https://www.lataco.com/headlines-couple-beaten-and-robbed-at-99-ranch-in-sgv-sea-lions-charge-at-socal-beachgoers/"
+    },
+    {
+      "text": "L.A. TACO",
+      "url": "https://www.lataco.com/author/admin-2-2-2-2/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/lapd-hollywood-video/"
+    },
+    {
+      "text": "\nWatch This Very Weird LAPD PSA \u2018Copaganda\u2019 Video About Being Safe When Partying in Hollywood ",
+      "url": "https://www.lataco.com/lapd-hollywood-video/"
+    },
+    {
+      "text": "Hadley Tomicki",
+      "url": "https://www.lataco.com/author/hadley/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/latino-owned-coffee-la/"
+    },
+    {
+      "text": "\nCajeta, Mazapan, and Rompope Lattes: Ten Latino-Owned Coffeeshops to Try in L.A. ",
+      "url": "https://www.lataco.com/latino-owned-coffee-la/"
+    },
+    {
+      "text": "Karina Santellano",
+      "url": "https://www.lataco.com/author/karinas/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/fentanyl-seized-culiacan/"
+    },
+    {
+      "text": "\nHeadlines: Half-Ton Of Fentanyl Seized In Culiac\u00e1n; COVID Case Increase Driving L.A. Towards New Mask Mandate ",
+      "url": "https://www.lataco.com/fentanyl-seized-culiacan/"
+    },
+    {
+      "text": "L.A. TACO",
+      "url": "https://www.lataco.com/author/admin-2-2-2-2/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/al-pastor-long-beach-lionel/"
+    },
+    {
+      "text": "\n\u2018Tacos Lionel\u2019 Is Long Beach\u2019s Best New Al Pastor Taquero On the Block ",
+      "url": "https://www.lataco.com/al-pastor-long-beach-lionel/"
+    },
+    {
+      "text": "Javier Cabral",
+      "url": "https://www.lataco.com/author/javiercabral/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/rapper-edd-fraud/"
+    },
+    {
+      "text": "\nSelf-Snitching L.A. Rapper Will Plead Guilty to Defrauding EDD of Over $1 Million ",
+      "url": "https://www.lataco.com/rapper-edd-fraud/"
+    },
+    {
+      "text": "Hadley Tomicki",
+      "url": "https://www.lataco.com/author/hadley/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/body-sofi-stadium/"
+    },
+    {
+      "text": "\nHeadlines: Activists Pour Blood Down City Hall Steps; Man\u2019s Body Found In SoFi Stadium\u2019s Fake Lake ",
+      "url": "https://www.lataco.com/body-sofi-stadium/"
+    },
+    {
+      "text": "L.A. TACO",
+      "url": "https://www.lataco.com/author/admin-2-2-2-2/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/street-vendor-attack-sout-los-angeles/"
+    },
+    {
+      "text": "\nWoman Spits At and Slaps Street Vendor In South Central After Being Asked To Wait Five Minutes for a Burrito ",
+      "url": "https://www.lataco.com/street-vendor-attack-sout-los-angeles/"
+    },
+    {
+      "text": "Janette Villafana",
+      "url": "https://www.lataco.com/author/janevi/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/chapulin-croissant-grasshopper/"
+    },
+    {
+      "text": "\nDTLA\u2019s Incredible Chapul\u00edn Croissant Tops The City\u2019s Best French Pastry With Chopped Grasshoppers and Chile ",
+      "url": "https://www.lataco.com/chapulin-croissant-grasshopper/"
+    },
+    {
+      "text": "Javier Cabral",
+      "url": "https://www.lataco.com/author/javiercabral/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/most-expensive-taco/"
+    },
+    {
+      "text": "\nHeadlines: The World\u2019s Most Expensive Taco Is $25,000; Carlos Santana Collapses on Stage ",
+      "url": "https://www.lataco.com/most-expensive-taco/"
+    },
+    {
+      "text": "L.A. TACO",
+      "url": "https://www.lataco.com/author/admin-2-2-2-2/"
+    },
+    {
+      "text": "\n ",
+      "url": "https://www.lataco.com/taco-staff-2022/"
+    },
+    {
+      "text": "\nMeet Our Award-Winning Staff That Your Memberships Directly Support ",
+      "url": "https://www.lataco.com/taco-staff-2022/"
+    },
+    {
+      "text": "L.A. TACO",
+      "url": "https://www.lataco.com/author/admin-2-2-2-2/"
+    },
+    {
+      "text": "2",
+      "url": "https://www.lataco.com/page/2/"
+    },
+    {
+      "text": "3",
+      "url": "https://www.lataco.com/page/3/"
+    },
+    {
+      "text": "1,029",
+      "url": "https://www.lataco.com/page/1029/"
+    },
+    {
+      "text": "",
+      "url": "https://www.lataco.com/page/2/"
+    },
+    {
+      "text": "",
+      "url": "https://www.lataco.com/join/?utm_source=lataco.com&utm_medium=web&utm_campaign=sidebar"
+    },
+    {
+      "text": "Business Membership",
+      "url": "https://www.lataco.com/business-membership-join"
+    },
+    {
+      "text": "\n\n",
+      "url": "https://www.lataco.com"
+    },
+    {
+      "text": "",
+      "url": "https://www.lataco.com"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Join L.A. TACO",
+      "url": "https://www.lataco.com/join/"
+    },
+    {
+      "text": "Sponsor L.A. TACO",
+      "url": "https://www.lataco.com/business-membership-join/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.lataco.com/category/news/"
+    },
+    {
+      "text": "Guides",
+      "url": "https://www.lataco.com/tag/guides/"
+    },
+    {
+      "text": "Tacos",
+      "url": "https://www.lataco.com/category/tacos/"
+    },
+    {
+      "text": "Taco Shop",
+      "url": "http://shop.lataco.com"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.lataco.com/about/"
+    },
+    {
+      "text": "Members",
+      "url": "https://www.lataco.com/members/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.lataco.com/blog/send-us-your-stuff/"
+    },
+    {
+      "text": "",
+      "url": "https://www.twitter.com/lataco"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/lataco"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/LATACO"
+    },
+    {
+      "text": "",
+      "url": "http://tiktok.com/@l.a.taco"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Search powered by Jetpack",
+      "url": "https://jetpack.com/search?utm_source=poweredby"
+    }
+  ],
   "metadata": {
     "identifier": "lataco-2022",
     "collection": [
@@ -231,10 +937,10 @@
     "publicdate": "2022-07-09 04:00:32",
     "addeddate": "2022-07-09 04:00:32"
   },
-  "server": "ia902509.us.archive.org",
-  "uniq": 1732761100,
+  "server": "ia802509.us.archive.org",
+  "uniq": 1856426336,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia802509.us.archive.org",
+    "ia902509.us.archive.org"
   ]
 }

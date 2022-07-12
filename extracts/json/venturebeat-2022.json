@@ -1,5 +1,5 @@
 {
-  "created": 1657455606,
+  "created": 1657628712,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/6/items/venturebeat-2022",
@@ -772,31 +772,283 @@
       "sha1": "b8c277f99b97a348b3fb3c97fb65d1f596404607"
     },
     {
+      "name": "venturebeat-2022-07-10T07:48:09.869920-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464493",
+      "size": "33441",
+      "md5": "19585c50ec0b1ce978957fea637881da",
+      "crc32": "28b1d6d6",
+      "sha1": "81c9fa0795c1365ca7c3b991d6afe80f1427b49e",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-10T07:48:09.869920-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464494",
+      "size": "43509",
+      "md5": "3e17737d65dce66eec9f2d4e4bd095b4",
+      "crc32": "3cd6670b",
+      "sha1": "b410a27a95f1ccf6db2f0f0ef0aa55939e1aee92",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-10T07:48:09.869920-07:00.jpg",
+      "source": "original",
+      "mtime": "1657464491",
+      "size": "217174",
+      "md5": "3dc8fa9999814107c0ec25444f9aa717",
+      "crc32": "ef29ff53",
+      "sha1": "28ceb64e2fb7374546faa7794d3d439150a178ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-07-10T07:48:09.869920-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-07-10T07:48:09.869920-07:00.jpg",
+      "mtime": "1657464538",
+      "size": "9505",
+      "md5": "b99ba746d4218ef53255b59a9e3aa5c5",
+      "crc32": "0b824d65",
+      "sha1": "c7df11677c3a9b200e46d8d15aeb3e9daf929260"
+    },
+    {
+      "name": "venturebeat-2022-07-10T11:20:25.437893-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657477236",
+      "size": "34084",
+      "md5": "a80a26acc9996fbd1191dfc0747c190d",
+      "crc32": "287ac478",
+      "sha1": "0bbe7b848b39e200223586777ff4cd1a485529ae",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-10T11:20:25.437893-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657477238",
+      "size": "43761",
+      "md5": "e0dc921092092d1f9ea72557d8129bf0",
+      "crc32": "d128918f",
+      "sha1": "36c593e763303a2269caeabb614678d292a6d7ad",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-10T11:20:25.437893-07:00.jpg",
+      "source": "original",
+      "mtime": "1657477230",
+      "size": "216589",
+      "md5": "bc01e5607d2dc6f16cbe11993c9abe89",
+      "crc32": "328ec353",
+      "sha1": "56d9af6a0d1749cf3c7c65d164adad409a095d65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-07-10T11:20:25.437893-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-07-10T11:20:25.437893-07:00.jpg",
+      "mtime": "1657477294",
+      "size": "9467",
+      "md5": "261656b34d47a0531672772133417006",
+      "crc32": "cf6a7109",
+      "sha1": "f3a8771fa44ce95109f3ea6e394d166870b555c0"
+    },
+    {
+      "name": "venturebeat-2022-07-10T20:26:46.728110-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657510009",
+      "size": "34393",
+      "md5": "c85e05a7d64386d986d61d136ef2f0b3",
+      "crc32": "adb82e6d",
+      "sha1": "d3d6c7376c3bab1742fe12bc995f24ee8176e31b",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-10T20:26:46.728110-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657510011",
+      "size": "43824",
+      "md5": "602f63af2f61ceeb5220e19429ab0c6e",
+      "crc32": "2f2562a4",
+      "sha1": "db7004258bf97548f1d0c5449bcb33d4233a6285",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-10T20:26:46.728110-07:00.jpg",
+      "source": "original",
+      "mtime": "1657510008",
+      "size": "217695",
+      "md5": "1b18aa7580dce909f7098837e55d1aa2",
+      "crc32": "0a666132",
+      "sha1": "4185bd0c972ef3837716df54f07a707a94d609f4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-07-10T20:26:46.728110-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-07-10T20:26:46.728110-07:00.jpg",
+      "mtime": "1657510057",
+      "size": "9376",
+      "md5": "461d7ec4c1b12b958822dab9d38c36f1",
+      "crc32": "93640b57",
+      "sha1": "540ecac438bce2b6fbc1b80ddd3dbd3a60db36f2"
+    },
+    {
+      "name": "venturebeat-2022-07-11T11:23:08.425364-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563795",
+      "size": "34601",
+      "md5": "8f5139e02104a06a4a9a9de185b00e0b",
+      "crc32": "5b65b45d",
+      "sha1": "364fd59168bb3ae5eb0dc36af6c7d3518c0f561c",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-11T11:23:08.425364-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563799",
+      "size": "43766",
+      "md5": "2ee15aa165e60f110b06e2bb760033ff",
+      "crc32": "f960bf80",
+      "sha1": "ba34f860768f4a77221bba5edef8feba997dbf4f",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-11T11:23:08.425364-07:00.jpg",
+      "source": "original",
+      "mtime": "1657563791",
+      "size": "223901",
+      "md5": "582188b82a15c4c36168e4423a2a3a28",
+      "crc32": "86f8ccd5",
+      "sha1": "f6174d40851cf4323cea785a4c7fcde2f0a970e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-07-11T11:23:08.425364-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-07-11T11:23:08.425364-07:00.jpg",
+      "mtime": "1657564045",
+      "size": "9446",
+      "md5": "b6c2a2c9e5e863261029cff703aa9604",
+      "crc32": "828dbdc6",
+      "sha1": "9e3052da184a2e26a65ba91d86a8051d397c63e0"
+    },
+    {
+      "name": "venturebeat-2022-07-11T12:29:33.130367-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657567777",
+      "size": "34692",
+      "md5": "fddac6401d77216fec9b71aace871875",
+      "crc32": "d68a7240",
+      "sha1": "c9609e7d56c81806af8e144b8956e2a70d28e646",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-11T12:29:33.130367-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657567781",
+      "size": "43770",
+      "md5": "e5b67ad88b648c9dce9e3873a2f6933b",
+      "crc32": "43540576",
+      "sha1": "e07ca180a692d74b3f4794812b4b34ca177d3afc",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-11T12:29:33.130367-07:00.jpg",
+      "source": "original",
+      "mtime": "1657567775",
+      "size": "214265",
+      "md5": "856d2ca76b1b01b9870b0476e88354b9",
+      "crc32": "088fa90c",
+      "sha1": "c1123c25fa91d589a57026fe4d6053e5fd59d7f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-07-11T12:29:33.130367-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-07-11T12:29:33.130367-07:00.jpg",
+      "mtime": "1657568114",
+      "size": "9484",
+      "md5": "979f62c2b9a76d646ca2eae987f13efd",
+      "crc32": "7d0788f3",
+      "sha1": "3243f90bdcdebcfd07e2d755c27def560a2d65c1"
+    },
+    {
+      "name": "venturebeat-2022-07-11T20:28:19.561539-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657596503",
+      "size": "34867",
+      "md5": "239540531c242dd596fa795bb3c7c528",
+      "crc32": "9d8046c8",
+      "sha1": "cb84430dd367a07a0d1cdd57a17ddbb32ae21d56",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-11T20:28:19.561539-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657596505",
+      "size": "43788",
+      "md5": "17089a6575ceee19fc6f78016339e5ac",
+      "crc32": "a9753011",
+      "sha1": "121d3a7381d87835689f0bda46c61a072f0ca445",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-07-11T20:28:19.561539-07:00.jpg",
+      "source": "original",
+      "mtime": "1657596501",
+      "size": "187645",
+      "md5": "ad06e747b151ca1f33482b52f7321b47",
+      "crc32": "87298e98",
+      "sha1": "86966c38eb691603e38923c4dfc4876953d15104",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-07-11T20:28:19.561539-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-07-11T20:28:19.561539-07:00.jpg",
+      "mtime": "1657596554",
+      "size": "9199",
+      "md5": "f45a5b0777deb11d1485a029d904d642",
+      "crc32": "908d271d",
+      "sha1": "d62a5c6377c69906431d38780839c456a24cab50"
+    },
+    {
       "name": "venturebeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "05d6cf26e635de0d0dacebb3b55226cd375f7efb",
-      "mtime": "1657423616",
-      "size": "16990",
-      "md5": "10371850594e5ccca16df8717eb74e8f",
-      "crc32": "36933ea8",
-      "sha1": "bde76812faa2cce3c52cde974a4eb83ff77df728",
+      "btih": "85c872dbedcfd641a5860f0750955a055d839432",
+      "mtime": "1657596562",
+      "size": "22096",
+      "md5": "06242b70304bba91e2ec1b0d0c8482c4",
+      "crc32": "927839f3",
+      "sha1": "a2fb34b9d1aedd3320ec0bdaa4f9b3193a438001",
       "format": "Archive BitTorrent"
     },
     {
       "name": "venturebeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0674e181ebc4c576bc029dbee6882dbf",
+      "md5": "5445fe8c8a6ab949a4aaf2508f695664",
       "summation": "md5"
     },
     {
       "name": "venturebeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423570",
-      "size": "102400",
-      "md5": "0a8c07d052bd63894ddb900f756b3514",
-      "crc32": "e19c4c14",
-      "sha1": "25483369278ba4d578ca49321df844b120160314",
+      "mtime": "1657596508",
+      "size": "135168",
+      "md5": "c59371d0ce13efe6b654913a4689d965",
+      "crc32": "c17a2941",
+      "sha1": "9daf2bfc6a6cceb71a01607954ddf8759b5d0e44",
       "format": "Metadata"
     },
     {
@@ -810,9 +1062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 77,
-  "item_last_updated": 1657423616,
-  "item_size": 5439712,
+  "files_count": 101,
+  "item_last_updated": 1657596562,
+  "item_size": 7279828,
   "metadata": {
     "identifier": "venturebeat-2022",
     "collection": [
@@ -830,7 +1082,7 @@
     "addeddate": "2022-07-04 20:17:37"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 1692408749,
+  "uniq": 995236722,
   "venturebeat-2022": [
     {
       "text": "Skip to main content",
@@ -1101,16 +1353,200 @@
       "url": "https://events.venturebeat.com/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tWhy hyperscale, modular data centers improve efficiency\n\t\t",
-      "url": "https://venturebeat.com/2022/07/07/why-hyperscale-modular-data-centers-improve-efficiency/"
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tDiscover how to step up your AI game on Day 1 at Transform\n\t\t",
+      "url": "https://venturebeat.com/2022/07/07/discover-how-to-step-up-your-ai-game-on-day-1-at-transform/"
     },
     {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMaking sense of data with low-code environments\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/09/making-sense-of-data-with-low-code-environments/"
+      "text": "\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDeloitte launches a new zero-trust access managed service\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/11/deloitte-zero-trust-access/"
     },
     {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThe freedom of limits: Why the metaverse is shaping up to be like Web2\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/09/the-freedom-of-limits-why-the-metaverse-is-shaping-up-to-be-like-web2/"
+      "text": "\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tA new milestone in augmented reality: Functional contact lenses\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/10/a-new-milestone-in-augmented-reality-functional-contact-lenses/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/11/infineon-and-trapped-ionics-enter-the-quantum-computing-race/"
+    },
+    {
+      "text": "Infineon and Trapped Ionics enter the quantum computing race",
+      "url": "https://venturebeat.com/2022/07/11/infineon-and-trapped-ionics-enter-the-quantum-computing-race/"
+    },
+    {
+      "text": "Arne Verheyde",
+      "url": "https://venturebeat.com/author/arne-verheyde/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/11/the-3-key-strategies-to-slash-time-to-market-in-any-industry%ef%bf%bc/"
+    },
+    {
+      "text": "The 3 key strategies to slash time-to-market in any industry",
+      "url": "https://venturebeat.com/2022/07/11/the-3-key-strategies-to-slash-time-to-market-in-any-industry%ef%bf%bc/"
+    },
+    {
+      "text": "VB Staff",
+      "url": "https://venturebeat.com/author/vb-staff/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/11/why-extended-detection-and-response-xdr-is-seeing-enterprise-growth/"
+    },
+    {
+      "text": "Why extended detection and response (XDR) is seeing enterprise growth",
+      "url": "https://venturebeat.com/2022/07/11/why-extended-detection-and-response-xdr-is-seeing-enterprise-growth/"
+    },
+    {
+      "text": "Louis Columbus",
+      "url": "https://venturebeat.com/author/louis-columbus/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/11/dive-into-a-full-day-of-data-infrastructure-insight-at-vb-transform-2022/"
+    },
+    {
+      "text": "Dive into a full day of data infrastructure insight at VB Transform 2022",
+      "url": "https://venturebeat.com/2022/07/11/dive-into-a-full-day-of-data-infrastructure-insight-at-vb-transform-2022/"
+    },
+    {
+      "text": "VB Staff",
+      "url": "https://venturebeat.com/author/vb-staff/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/11/deloitte-zero-trust-access/"
+    },
+    {
+      "text": "Deloitte launches a new zero-trust access managed service",
+      "url": "https://venturebeat.com/2022/07/11/deloitte-zero-trust-access/"
+    },
+    {
+      "text": "Tim Keary",
+      "url": "https://venturebeat.com/author/timkeary/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/11/why-cloud-native-observability-is-key-to-delivering-first-class-digital-experiences/"
+    },
+    {
+      "text": "Why cloud-native observability is key to delivering first-class digital experiences",
+      "url": "https://venturebeat.com/2022/07/11/why-cloud-native-observability-is-key-to-delivering-first-class-digital-experiences/"
+    },
+    {
+      "text": "VB Staff",
+      "url": "https://venturebeat.com/author/vb-staff/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/11/ransomware-is-still-cybersecuritys-biggest-challenge-warns-uks-ncsc-ceo/"
+    },
+    {
+      "text": "Ransomware is still cybersecurity\u2019s biggest challenge",
+      "url": "https://venturebeat.com/2022/07/11/ransomware-is-still-cybersecuritys-biggest-challenge-warns-uks-ncsc-ceo/"
+    },
+    {
+      "text": "Kolawole Samuel Adebayo",
+      "url": "https://venturebeat.com/author/kolawole-samuel-adebayo/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/11/finding-an-easier-way-to-ai-adoption/"
+    },
+    {
+      "text": "Finding an easier way to AI adoption",
+      "url": "https://venturebeat.com/2022/07/11/finding-an-easier-way-to-ai-adoption/"
+    },
+    {
+      "text": "Arthur Cole",
+      "url": "https://venturebeat.com/author/arthur-cole/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/11/the-best-of-hybrid-and-native-apps-is-a-no-code-solution/"
+    },
+    {
+      "text": "The best of hybrid and native apps is a no-code solution",
+      "url": "https://venturebeat.com/2022/07/11/the-best-of-hybrid-and-native-apps-is-a-no-code-solution/"
+    },
+    {
+      "text": "VB Staff",
+      "url": "https://venturebeat.com/author/vb-staff/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/10/digital-accessibility-what-to-do-when-the-data-says-you-dont-exist/"
+    },
+    {
+      "text": "Digital accessibility: What to do when the data says you don\u2019t exist",
+      "url": "https://venturebeat.com/2022/07/10/digital-accessibility-what-to-do-when-the-data-says-you-dont-exist/"
+    },
+    {
+      "text": "Kevin Mar-Molinero, Kin+Carta Connect",
+      "url": "https://venturebeat.com/author/kevin-mar-molinero/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/10/metaverse-builders-focus-on-ux-first-interoperability-later/"
+    },
+    {
+      "text": "Metaverse builders: Focus on UX first, interoperability later",
+      "url": "https://venturebeat.com/2022/07/10/metaverse-builders-focus-on-ux-first-interoperability-later/"
+    },
+    {
+      "text": "Mirko Basil, Unix Gaming",
+      "url": "https://venturebeat.com/author/mirko-basil/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/10/the-true-value-of-conversation-intelligence/"
+    },
+    {
+      "text": "The true value of conversation intelligence",
+      "url": "https://venturebeat.com/2022/07/10/the-true-value-of-conversation-intelligence/"
+    },
+    {
+      "text": "Gopkiran Rao, Mindtickle",
+      "url": "https://venturebeat.com/author/gopkiran-rao/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/10/a-new-milestone-in-augmented-reality-functional-contact-lenses/"
+    },
+    {
+      "text": "A new milestone in augmented reality: Functional contact lenses",
+      "url": "https://venturebeat.com/2022/07/10/a-new-milestone-in-augmented-reality-functional-contact-lenses/"
+    },
+    {
+      "text": "Louis Rosenberg, Unanimous A.I.",
+      "url": "https://venturebeat.com/author/louis-rosenberg-unanimous-a-i/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/"
+    },
+    {
+      "text": "Instead of AI sentience, focus on the current risks of large language models",
+      "url": "https://venturebeat.com/2022/07/10/instead-of-ai-sentience-focus-on-the-current-risks-of-large-language-models/"
+    },
+    {
+      "text": "Steven Mills, Boston Consulting Group",
+      "url": "https://venturebeat.com/author/steven-mills/"
+    },
+    {
+      "text": "Abhishek Gupta, Boston Consulting Group (BCG)",
+      "url": "https://venturebeat.com/author/abhishek-gupta-2/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://venturebeat.com/2022/07/10/where-is-technology-headed-next-all-signs-point-to-citizen-developers/"
+    },
+    {
+      "text": "Where is technology headed next? All signs point to citizen developers\u00a0\u00a0\u00a0",
+      "url": "https://venturebeat.com/2022/07/10/where-is-technology-headed-next-all-signs-point-to-citizen-developers/"
+    },
+    {
+      "text": "Pavel Zamudio-Ramirez, Appian",
+      "url": "https://venturebeat.com/author/pavel-zamudio-ramirez/"
     },
     {
       "text": "\n\t\t\t",
@@ -1390,78 +1826,6 @@
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/07/how-efficient-code-increases-sustainability-in-the-enterprise/"
-    },
-    {
-      "text": "How efficient code increases sustainability in the enterprise",
-      "url": "https://venturebeat.com/2022/07/07/how-efficient-code-increases-sustainability-in-the-enterprise/"
-    },
-    {
-      "text": "George Anadiotis",
-      "url": "https://venturebeat.com/author/george-anadiotis/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/07/what-is-the-environmental-impact-of-web3/"
-    },
-    {
-      "text": "What is the environmental impact of Web3?",
-      "url": "https://venturebeat.com/2022/07/07/what-is-the-environmental-impact-of-web3/"
-    },
-    {
-      "text": "Chris J. Preimesberger",
-      "url": "https://venturebeat.com/author/chris-j-preimesberger/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/07/19-ways-digital-twins-improve-data-center-sustainability/"
-    },
-    {
-      "text": "19 ways digital twins improve data center sustainability",
-      "url": "https://venturebeat.com/2022/07/07/19-ways-digital-twins-improve-data-center-sustainability/"
-    },
-    {
-      "text": "George Lawton",
-      "url": "https://venturebeat.com/author/george-lawton/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/07/what-are-dual-use-data-centers-and-how-they-drive-energy-efficiency/"
-    },
-    {
-      "text": "What are dual-use data centers and how they drive energy efficiency",
-      "url": "https://venturebeat.com/2022/07/07/what-are-dual-use-data-centers-and-how-they-drive-energy-efficiency/"
-    },
-    {
-      "text": "Shubham Sharma",
-      "url": "https://venturebeat.com/author/shubham-sharma/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/07/why-hyperscale-modular-data-centers-improve-efficiency/"
-    },
-    {
-      "text": "Why hyperscale, modular data centers improve efficiency",
-      "url": "https://venturebeat.com/2022/07/07/why-hyperscale-modular-data-centers-improve-efficiency/"
-    },
-    {
-      "text": "Chris J. Preimesberger",
-      "url": "https://venturebeat.com/author/chris-j-preimesberger/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/07/how-green-data-centers-can-cut-your-carbon-footprint/"
-    },
-    {
-      "text": "How green data centers can cut your carbon footprint",
-      "url": "https://venturebeat.com/2022/07/07/how-green-data-centers-can-cut-your-carbon-footprint/"
-    },
-    {
-      "text": "Peter Wayner",
-      "url": "https://venturebeat.com/author/Peter%20Wayner/"
-    },
-    {
-      "text": "\n\t\t\t",
       "url": "https://venturebeat.com/2022/07/07/why-data-has-a-sustainability-problem/"
     },
     {
@@ -1483,106 +1847,6 @@
     {
       "text": "Ram Peddibhotla, AMD",
       "url": "https://venturebeat.com/author/ram-peddibhotla-amd/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://venturebeat.com/2022/07/07/kucoin-releases-first-half-of-2022-results-reports-2-trillion-volumes-and-9-75-million-new-users/"
-    },
-    {
-      "text": "KuCoin Releases First Half of 2022 Results, Reports $2 Trillion Volumes and 9.75 Million New Users",
-      "url": "https://venturebeat.com/2022/07/07/kucoin-releases-first-half-of-2022-results-reports-2-trillion-volumes-and-9-75-million-new-users/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/07/report-95-of-orgs-experienced-an-api-security-incident-in-past-year/"
-    },
-    {
-      "text": "Report: 95% of orgs experienced an API security incident in past year",
-      "url": "https://venturebeat.com/2022/07/07/report-95-of-orgs-experienced-an-api-security-incident-in-past-year/"
-    },
-    {
-      "text": "VB Staff",
-      "url": "https://venturebeat.com/author/vb-staff/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/07/how-gamification-and-ai-can-revamp-insurance/"
-    },
-    {
-      "text": "How gamification and AI can revamp insurance",
-      "url": "https://venturebeat.com/2022/07/07/how-gamification-and-ai-can-revamp-insurance/"
-    },
-    {
-      "text": "Peter Wayner",
-      "url": "https://venturebeat.com/author/Peter%20Wayner/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://venturebeat.com/2022/07/06/the-solidarity-transport-hub-company-starts-looking-for-a-financial-investor/"
-    },
-    {
-      "text": "The Solidarity Transport Hub Company Starts Looking for a Financial Investor",
-      "url": "https://venturebeat.com/2022/07/06/the-solidarity-transport-hub-company-starts-looking-for-a-financial-investor/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/"
-    },
-    {
-      "text": "Report: 95% of employees say IT issues decrease workplace productivity and morale",
-      "url": "https://venturebeat.com/2022/07/06/report-95-of-employees-say-it-issues-decrease-workplace-productivity-and-morale/"
-    },
-    {
-      "text": "VB Staff",
-      "url": "https://venturebeat.com/author/vb-staff/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/06/women-in-ai-front-and-center-at-transform-on-july-19/"
-    },
-    {
-      "text": "Women in AI: Front and center at Transform on July 19",
-      "url": "https://venturebeat.com/2022/07/06/women-in-ai-front-and-center-at-transform-on-july-19/"
-    },
-    {
-      "text": "Sharon Goldman",
-      "url": "https://venturebeat.com/author/sharongoldman/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/"
-    },
-    {
-      "text": "Meta\u2019s open-source AI model leaves no language behind",
-      "url": "https://venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/"
-    },
-    {
-      "text": "Kolawole Samuel Adebayo",
-      "url": "https://venturebeat.com/author/kolawole-samuel-adebayo/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/06/4-steps-to-closing-the-cybersecurity-skills-gap-in-your-organization/"
-    },
-    {
-      "text": "4 steps to closing the cybersecurity skills gap in your organization",
-      "url": "https://venturebeat.com/2022/07/06/4-steps-to-closing-the-cybersecurity-skills-gap-in-your-organization/"
-    },
-    {
-      "text": "Heather Monthie, Offensive Security",
-      "url": "https://venturebeat.com/author/heather-monthie/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://venturebeat.com/2022/07/06/the-weight-of-insider-threats-in-enterprise-cybersecurity/"
-    },
-    {
-      "text": "Your biggest cybersecurity threats are inside your enterprise",
-      "url": "https://venturebeat.com/2022/07/06/the-weight-of-insider-threats-in-enterprise-cybersecurity/"
-    },
-    {
-      "text": "Taryn Plumb",
-      "url": "https://venturebeat.com/author/taryn-plumb/"
     },
     {
       "text": "2022",

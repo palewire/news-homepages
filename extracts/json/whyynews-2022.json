@@ -1,5 +1,5 @@
 {
-  "created": 1657455645,
+  "created": 1657628744,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/24/items/whyynews-2022",
@@ -772,31 +772,241 @@
       "sha1": "556dbf662c06e99d30c3a659edecc0272d616ae0"
     },
     {
+      "name": "whyynews-2022-07-10T10:48:33.549690-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464516",
+      "size": "30368",
+      "md5": "83d828129dd19bc818220ef08bebbe8c",
+      "crc32": "402a2813",
+      "sha1": "e7dc0cced6903e0d120a47d120972a747571487b",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-10T10:48:33.549690-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464518",
+      "size": "27904",
+      "md5": "7054046d06e3aaecfcc9f889538f0f1c",
+      "crc32": "68a9ebde",
+      "sha1": "423edb82228ee090d64feccdb676dbff3b2ace2d",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-10T10:48:33.549690-04:00.jpg",
+      "source": "original",
+      "mtime": "1657464515",
+      "size": "232663",
+      "md5": "335b5980ea0f8696ca60a4e217104ad5",
+      "crc32": "52f783bb",
+      "sha1": "6ac484c5c37085f2de1909477ff6ca691788fefe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "whyynews-2022-07-10T10:48:33.549690-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "whyynews-2022-07-10T10:48:33.549690-04:00.jpg",
+      "mtime": "1657464563",
+      "size": "9351",
+      "md5": "1d908b23c89ec4dd294572db1e1338d3",
+      "crc32": "f71321cd",
+      "sha1": "86ff32b011dd02a9f01b868b08bd6a341541f722"
+    },
+    {
+      "name": "whyynews-2022-07-10T23:25:58.343161-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657509962",
+      "size": "29203",
+      "md5": "624a53cbc31d1a97523375936b4ebb5b",
+      "crc32": "acb093a6",
+      "sha1": "670b9406364046a5eb1fce47299eb3716a4c94b6",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-10T23:25:58.343161-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657509963",
+      "size": "27665",
+      "md5": "0fc67f365613ef72fb037c881b373dff",
+      "crc32": "5ab22806",
+      "sha1": "d1e0695f372e590ac781888fb40f47badb2ba5a1",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-10T23:25:58.343161-04:00.jpg",
+      "source": "original",
+      "mtime": "1657509960",
+      "size": "215722",
+      "md5": "4c544d195eb42dbe266069892ab139f1",
+      "crc32": "dbee910b",
+      "sha1": "253c0b95a067d1f407350ad694ff8a9d20b1cf5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "whyynews-2022-07-10T23:25:58.343161-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "whyynews-2022-07-10T23:25:58.343161-04:00.jpg",
+      "mtime": "1657510006",
+      "size": "9005",
+      "md5": "067baa32636e259368f960b8b8e81130",
+      "crc32": "fd7574cb",
+      "sha1": "a72a0d43f278f22862cfd6c5d35c9f96aadd9fd5"
+    },
+    {
+      "name": "whyynews-2022-07-11T14:25:16.588442-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563919",
+      "size": "28577",
+      "md5": "1c7fd29de0e934d323953138880564db",
+      "crc32": "deed9887",
+      "sha1": "e83414f9d6d5cdb3392d4fbed38dc14bcf83def9",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-11T14:25:16.588442-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563920",
+      "size": "27735",
+      "md5": "5db92945a8e59dd6c8b93232b20000e2",
+      "crc32": "73bdef7a",
+      "sha1": "85160a19d9e4406dcec3eb83ea1f553759054c3d",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-11T14:25:16.588442-04:00.jpg",
+      "source": "original",
+      "mtime": "1657563917",
+      "size": "217109",
+      "md5": "d243f62e5cd9d212f6ba8808a1a0701a",
+      "crc32": "d9b68dae",
+      "sha1": "05d8418e61af2282460a11a947a63d6592c5779f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "whyynews-2022-07-11T14:25:16.588442-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "whyynews-2022-07-11T14:25:16.588442-04:00.jpg",
+      "mtime": "1657564097",
+      "size": "9106",
+      "md5": "77c300e182800133f3d37d042e0c317d",
+      "crc32": "9001824a",
+      "sha1": "204586f1d0430851ade83a7e7d8530779aaba5c0"
+    },
+    {
+      "name": "whyynews-2022-07-11T14:37:56.872935-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657564681",
+      "size": "28577",
+      "md5": "1c7fd29de0e934d323953138880564db",
+      "crc32": "deed9887",
+      "sha1": "e83414f9d6d5cdb3392d4fbed38dc14bcf83def9",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-11T14:37:56.872935-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657564682",
+      "size": "27647",
+      "md5": "571ae0842bdf92a66b90ef17cdacbe75",
+      "crc32": "2c186650",
+      "sha1": "94dc1b109b3fabc2addcf1d2c9ffe170ac09790e",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-11T14:37:56.872935-04:00.jpg",
+      "source": "original",
+      "mtime": "1657564679",
+      "size": "216132",
+      "md5": "d308396ad6b45306a83ca5bcceb6647e",
+      "crc32": "ef2e061d",
+      "sha1": "6f3247cf0a19aa0cc8775615959caed09b736d1e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "whyynews-2022-07-11T14:37:56.872935-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "whyynews-2022-07-11T14:37:56.872935-04:00.jpg",
+      "mtime": "1657564735",
+      "size": "9106",
+      "md5": "2a340cc863cc7c2b97dfd0ce8f9d71b0",
+      "crc32": "54d8bb4f",
+      "sha1": "b78d6693b3a4356dc3f77a02f879f07a13a61dc6"
+    },
+    {
+      "name": "whyynews-2022-07-11T23:29:10.877962-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657596554",
+      "size": "29317",
+      "md5": "6b334bcd4d436948edaeade7fac928c2",
+      "crc32": "faf0d296",
+      "sha1": "dfad84ec5d28d191456b6778c381c45b37fee4eb",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-11T23:29:10.877962-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657596555",
+      "size": "27786",
+      "md5": "73062a14274caa55b611df823920ee1d",
+      "crc32": "ab95c85e",
+      "sha1": "a3ed36ea007da0061e6a033c8204f97b148d3922",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-07-11T23:29:10.877962-04:00.jpg",
+      "source": "original",
+      "mtime": "1657596552",
+      "size": "252995",
+      "md5": "aa5a63240e8744350328c44e0da80cad",
+      "crc32": "6e32c09d",
+      "sha1": "2165443f3bbc0bd4fb8bca4a649805011daf34e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "whyynews-2022-07-11T23:29:10.877962-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "whyynews-2022-07-11T23:29:10.877962-04:00.jpg",
+      "mtime": "1657596611",
+      "size": "9314",
+      "md5": "a51ef015073f1adab341d24d348ed0e9",
+      "crc32": "022f884b",
+      "sha1": "91e087dc62a36d6f255c5d4f22f071bd5f0dbd8e"
+    },
+    {
       "name": "whyynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a300d6722667354c95daa00d2c7e22db348fcdab",
-      "mtime": "1657423685",
-      "size": "16729",
-      "md5": "1b8d622c69a466dc84f9326fb72bf2e4",
-      "crc32": "1309581e",
-      "sha1": "fcbf8bbd97dd7ea1ad165c0f0f27e44eb059a57b",
+      "btih": "73d97797c806a3282b221e9ee0871ed7f30bb321",
+      "mtime": "1657596627",
+      "size": "20935",
+      "md5": "f4729782feba663148ca7319dc0db624",
+      "crc32": "5eff72ef",
+      "sha1": "8a345e398447d0bcb3d23b43f7ec202a78335e7b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "whyynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58f245e362ca8c0985f9020d8bb7eb12",
+      "md5": "83732725e469d19f2569cb030580c192",
       "summation": "md5"
     },
     {
       "name": "whyynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423635",
-      "size": "94208",
-      "md5": "43a0eff4bee9399b84245ef382903201",
-      "crc32": "c6cdffab",
-      "sha1": "58eef4b697d514019df7433662781db7c158ab33",
+      "mtime": "1657596560",
+      "size": "131072",
+      "md5": "9378c03b0cc8c3fd4ddaa41c9d549911",
+      "crc32": "469ec77a",
+      "sha1": "c7f95b87d80f81faf094b51ae40eb9b409227335",
       "format": "Metadata"
     },
     {
@@ -810,9 +1020,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 77,
-  "item_last_updated": 1657423685,
-  "item_size": 5238277,
+  "files_count": 97,
+  "item_last_updated": 1657596627,
+  "item_size": 6744629,
   "metadata": {
     "identifier": "whyynews-2022",
     "collection": [
@@ -829,8 +1039,8 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 2016230301,
+  "server": "ia902508.us.archive.org",
+  "uniq": 1555561208,
   "whyynews-2022": [
     {
       "text": "",
@@ -1174,39 +1384,39 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://whyy.org/articles/chester-county-juvenile-record-expungement-program-national-recognition/"
+      "url": "https://whyy.org/articles/west-philadelphia-protest-encampment-university-city-townhomes-affordable-housing/"
     },
     {
       "text": "Community",
       "url": "https://whyy.org/categories/community/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tChester County\u2019s juvenile record expungement program receives national recognition\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://whyy.org/articles/chester-county-juvenile-record-expungement-program-national-recognition/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWest Philly protest encampment takes shape to support tenants of closing affordable housing complex\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://whyy.org/articles/west-philadelphia-protest-encampment-university-city-townhomes-affordable-housing/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://whyy.org/articles/avian-influenza-return-fall-pennsylvania/"
+      "url": "https://whyy.org/articles/playstreets-philadelphia-play-captains-safety-training-gun-violence-crisis/"
     },
     {
-      "text": "Science",
-      "url": "https://whyy.org/categories/science/"
+      "text": "Community",
+      "url": "https://whyy.org/categories/community/"
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAvian influenza could return to Pennsylvania by fall, despite recent drop in cases\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://whyy.org/articles/avian-influenza-return-fall-pennsylvania/"
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlayStreets hires teens to run programs on Philly blocks, and trains them to respond to gunfire\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://whyy.org/articles/playstreets-philadelphia-play-captains-safety-training-gun-violence-crisis/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://whyy.org/articles/pennsylvania-house-senate-constitutional-amendment-abortion-gop/"
+      "url": "https://whyy.org/articles/krasner-philly-pools-violence-prevention/"
     },
     {
-      "text": "Politics & Policy",
-      "url": "https://whyy.org/categories/politics-policy/"
+      "text": "Community",
+      "url": "https://whyy.org/categories/community/"
     },
     {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAfter advancing constitutional amendment, Pa. Republicans move closer to being able to restrict abortion access\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://whyy.org/articles/pennsylvania-house-senate-constitutional-amendment-abortion-gop/"
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDA Krasner highlights the importance of Philly pools for violence prevention\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://whyy.org/articles/krasner-philly-pools-violence-prevention/"
     },
     {
       "text": "WHYY thanks our sponsors \u2014 become a WHYY sponsor",
@@ -1262,187 +1472,187 @@
     },
     {
       "text": "",
-      "url": "https://whyy.org/npr_story_post/gentle-minions-rise-of-gru-tiktok-trend-viral-suits-banned-teens-box-office/"
-    },
-    {
-      "text": "Arts & Entertainment",
-      "url": "https://whyy.org/categories/arts-entertainment/"
-    },
-    {
-      "text": "\n            Teens are dressing in suits to see \u2018Minions\u2019 as meme culture and boredom collide                       ",
-      "url": "https://whyy.org/npr_story_post/gentle-minions-rise-of-gru-tiktok-trend-viral-suits-banned-teens-box-office/"
-    },
-    {
-      "text": "",
-      "url": "https://billypenn.com/2022/07/09/ivan-fedotov-russian-military-philadelphia-flyers-detention/"
+      "url": "https://whyy.org/npr_story_post/jan-6-committee-hearing-qanon-extremists/"
     },
     {
       "text": "Politics & Policy",
       "url": "https://whyy.org/categories/politics-policy/"
     },
     {
-      "text": "\n            A top Flyers prospect is still being held by the Russian military. Here\u2019s what we know about Ivan Fedotov\u2019s situation.                       ",
-      "url": "https://billypenn.com/2022/07/09/ivan-fedotov-russian-military-philadelphia-flyers-detention/"
+      "text": "\n            The next Jan. 6 committee hearing will focus on the role of QAnon and extremists                       ",
+      "url": "https://whyy.org/npr_story_post/jan-6-committee-hearing-qanon-extremists/"
     },
     {
       "text": "",
-      "url": "https://whyy.org/articles/luis-echeverria-former-mexican-president-dies/"
+      "url": "https://whyy.org/articles/docs-must-offer-abortion-mother-life-risk/"
     },
     {
       "text": "Politics & Policy",
       "url": "https://whyy.org/categories/politics-policy/"
     },
     {
-      "text": "\n            Luis Echeverria, Mexico leader blamed for massacres, dies                       ",
-      "url": "https://whyy.org/articles/luis-echeverria-former-mexican-president-dies/"
+      "text": "\n            Biden admin: Docs must offer abortion if mom\u2019s life at risk                       ",
+      "url": "https://whyy.org/articles/docs-must-offer-abortion-mother-life-risk/"
     },
     {
       "text": "",
-      "url": "https://whyy.org/articles/north-atlantic-right-whale-weak-protection-violates-law/"
+      "url": "https://whyy.org/articles/shofuso-house-fundraising-to-repair-vandalism-damage/"
+    },
+    {
+      "text": "Community",
+      "url": "https://whyy.org/categories/community/"
+    },
+    {
+      "text": "\n            Shofuso House fundraising to repair vandalism damage                       ",
+      "url": "https://whyy.org/articles/shofuso-house-fundraising-to-repair-vandalism-damage/"
+    },
+    {
+      "text": "",
+      "url": "https://whyy.org/articles/west-philadelphia-protest-encampment-university-city-townhomes-affordable-housing/"
+    },
+    {
+      "text": "PlanPhilly",
+      "url": "https://whyy.org/programs/planphilly/"
+    },
+    {
+      "text": "Community",
+      "url": "https://whyy.org/categories/community/"
+    },
+    {
+      "text": "\n            West Philly protest encampment takes shape to support tenants of closing affordable housing complex                       ",
+      "url": "https://whyy.org/articles/west-philadelphia-protest-encampment-university-city-townhomes-affordable-housing/"
+    },
+    {
+      "text": "",
+      "url": "https://whyy.org/articles/strike-force-abortion-rights-new-jersey/"
+    },
+    {
+      "text": "Politics & Policy",
+      "url": "https://whyy.org/categories/politics-policy/"
+    },
+    {
+      "text": "\n            Strike force assembling to protect abortion rights in New Jersey                       ",
+      "url": "https://whyy.org/articles/strike-force-abortion-rights-new-jersey/"
+    },
+    {
+      "text": "",
+      "url": "https://whyy.org/npr_story_post/new-dominant-omicron-strain-in-the-u-s-is-driving-up-cases-and-reinfections/"
+    },
+    {
+      "text": "Health",
+      "url": "https://whyy.org/categories/health/"
+    },
+    {
+      "text": "\n            A new dominant omicron strain in the U.S. is driving up cases \u2014 and reinfections                       ",
+      "url": "https://whyy.org/npr_story_post/new-dominant-omicron-strain-in-the-u-s-is-driving-up-cases-and-reinfections/"
+    },
+    {
+      "text": "",
+      "url": "https://whyy.org/npr_story_post/a-new-bill-could-help-protect-the-census-after-trump-era-interference/"
+    },
+    {
+      "text": "Politics & Policy",
+      "url": "https://whyy.org/categories/politics-policy/"
+    },
+    {
+      "text": "\n            A new bill could help protect the census after Trump-era interference                       ",
+      "url": "https://whyy.org/npr_story_post/a-new-bill-could-help-protect-the-census-after-trump-era-interference/"
+    },
+    {
+      "text": "",
+      "url": "https://whyy.org/articles/wolf-nursing-homes-come-to-agreement-to-boost-staff-pennsylvania/"
+    },
+    {
+      "text": "Politics & Policy",
+      "url": "https://whyy.org/categories/politics-policy/"
+    },
+    {
+      "text": "\n            Wolf, nursing homes come to agreement to boost staff                       ",
+      "url": "https://whyy.org/articles/wolf-nursing-homes-come-to-agreement-to-boost-staff-pennsylvania/"
+    },
+    {
+      "text": "",
+      "url": "https://whyy.org/articles/playstreets-philadelphia-play-captains-safety-training-gun-violence-crisis/"
+    },
+    {
+      "text": "Gun Violence Prevention",
+      "url": "https://whyy.org/?post_type=series&p=555294"
+    },
+    {
+      "text": "\n            PlayStreets hires teens to run programs on Philly blocks, and trains them to respond to gunfire                       ",
+      "url": "https://whyy.org/articles/playstreets-philadelphia-play-captains-safety-training-gun-violence-crisis/"
+    },
+    {
+      "text": "",
+      "url": "https://whyy.org/articles/krasner-philly-pools-violence-prevention/"
+    },
+    {
+      "text": "Community",
+      "url": "https://whyy.org/categories/community/"
+    },
+    {
+      "text": "\n            DA Krasner highlights the importance of Philly pools for violence prevention                       ",
+      "url": "https://whyy.org/articles/krasner-philly-pools-violence-prevention/"
+    },
+    {
+      "text": "",
+      "url": "https://whyy.org/npr_story_post/twitter-elon-musk-deal-jeopardy/"
     },
     {
       "text": "Courts & Law",
       "url": "https://whyy.org/categories/courts-law/"
     },
     {
-      "text": "\n            Weak protection for vanishing whale violates law, judge says                       ",
-      "url": "https://whyy.org/articles/north-atlantic-right-whale-weak-protection-violates-law/"
+      "text": "\n            Elon Musk wants out of the Twitter deal. It could end up costing at least $1 billion                       ",
+      "url": "https://whyy.org/npr_story_post/twitter-elon-musk-deal-jeopardy/"
     },
     {
       "text": "",
-      "url": "https://billypenn.com/2022/07/09/hoagies-and-hops-indianapolis-cheesesteaks-philadelphia-food/"
+      "url": "https://whyy.org/npr_story_post/pulse-oximeters-less-accurate-black-patients-darker-skin-study/"
     },
     {
-      "text": "Community",
-      "url": "https://whyy.org/categories/community/"
+      "text": "Health",
+      "url": "https://whyy.org/categories/health/"
     },
     {
-      "text": "\n            This Indiana restaurant is entirely dedicated to Philly food, with hoagies leading the way                       ",
-      "url": "https://billypenn.com/2022/07/09/hoagies-and-hops-indianapolis-cheesesteaks-philadelphia-food/"
-    },
-    {
-      "text": "",
-      "url": "https://whyy.org/articles/elena-rybakina-womens-wimbledon-champion/"
-    },
-    {
-      "text": "Arts & Entertainment",
-      "url": "https://whyy.org/categories/arts-entertainment/"
-    },
-    {
-      "text": "\n            Elena Rybakina of Kazakhstan wins Wimbledon final, 1st Slam                       ",
-      "url": "https://whyy.org/articles/elena-rybakina-womens-wimbledon-champion/"
+      "text": "\n            Pulse oximeters are less accurate for Black patients, study finds                       ",
+      "url": "https://whyy.org/npr_story_post/pulse-oximeters-less-accurate-black-patients-darker-skin-study/"
     },
     {
       "text": "",
-      "url": "https://whyy.org/articles/sri-lankan-pm-to-quit-political-turmoil/"
+      "url": "https://whyy.org/articles/jan-6-insurrection-committee-alt-righ-extremists-trump/"
     },
     {
       "text": "Politics & Policy",
       "url": "https://whyy.org/categories/politics-policy/"
     },
     {
-      "text": "\n            Sri Lanka president, Prime Minister to resign after tumultuous protests                       ",
-      "url": "https://whyy.org/articles/sri-lankan-pm-to-quit-political-turmoil/"
+      "text": "\n            Trump associates\u2019 ties to extremists probed by Jan. 6 panel                       ",
+      "url": "https://whyy.org/articles/jan-6-insurrection-committee-alt-righ-extremists-trump/"
     },
     {
       "text": "",
-      "url": "https://whyy.org/articles/philadelphia-union-ties-mls-record-7-0-rout-of-dc-united/"
+      "url": "https://whyy.org/articles/pa-election-funding-private-donation-ban-budget-deal/"
     },
     {
-      "text": "Arts & Entertainment",
-      "url": "https://whyy.org/categories/arts-entertainment/"
+      "text": "Politics & Policy",
+      "url": "https://whyy.org/categories/politics-policy/"
     },
     {
-      "text": "\n            Philadelphia Union ties MLS record for victory margin with 7-0 rout of D.C.                       ",
-      "url": "https://whyy.org/articles/philadelphia-union-ties-mls-record-7-0-rout-of-dc-united/"
-    },
-    {
-      "text": "",
-      "url": "https://whyy.org/articles/sopranos-actor-tony-sirico-paulie-walnuts-dies-at-79/"
-    },
-    {
-      "text": "Arts & Entertainment",
-      "url": "https://whyy.org/categories/arts-entertainment/"
-    },
-    {
-      "text": "\n            \u2018Sopranos\u2019 actor Tony Sirico, \u2018Paulie Walnuts,\u2019 dies at 79                       ",
-      "url": "https://whyy.org/articles/sopranos-actor-tony-sirico-paulie-walnuts-dies-at-79/"
+      "text": "\n            Pa. lawmakers agreed to a big election funding deal \u2014 with strings attached                       ",
+      "url": "https://whyy.org/articles/pa-election-funding-private-donation-ban-budget-deal/"
     },
     {
       "text": "",
-      "url": "https://whyy.org/articles/chester-county-juvenile-record-expungement-program-national-recognition/"
-    },
-    {
-      "text": "Community",
-      "url": "https://whyy.org/categories/community/"
-    },
-    {
-      "text": "\n            \u2018One mistake should not be a life sentence\u2019: Chester County\u2019s juvenile record expungement program receives national recognition                       ",
-      "url": "https://whyy.org/articles/chester-county-juvenile-record-expungement-program-national-recognition/"
-    },
-    {
-      "text": "",
-      "url": "https://whyy.org/articles/avian-influenza-return-fall-pennsylvania/"
+      "url": "https://whyy.org/npr_story_post/google-data-abortion-prosecutions/"
     },
     {
       "text": "Science",
       "url": "https://whyy.org/categories/science/"
     },
     {
-      "text": "\n            Avian influenza could return to Pennsylvania by fall, despite recent drop in cases                       ",
-      "url": "https://whyy.org/articles/avian-influenza-return-fall-pennsylvania/"
-    },
-    {
-      "text": "",
-      "url": "https://whyy.org/articles/pennsylvania-house-senate-constitutional-amendment-abortion-gop/"
-    },
-    {
-      "text": "Politics & Policy",
-      "url": "https://whyy.org/categories/politics-policy/"
-    },
-    {
-      "text": "\n            After advancing constitutional amendment, Pa. Republicans move closer to being able to restrict abortion access                       ",
-      "url": "https://whyy.org/articles/pennsylvania-house-senate-constitutional-amendment-abortion-gop/"
-    },
-    {
-      "text": "",
-      "url": "https://whyy.org/articles/gov-wolf-vetoes-bills-on-poll-watchers-transgender-athletes/"
-    },
-    {
-      "text": "Politics & Policy",
-      "url": "https://whyy.org/categories/politics-policy/"
-    },
-    {
-      "text": "\n            Gov. Wolf vetoes bills on poll watchers, transgender athletes                       ",
-      "url": "https://whyy.org/articles/gov-wolf-vetoes-bills-on-poll-watchers-transgender-athletes/"
-    },
-    {
-      "text": "",
-      "url": "https://whyy.org/articles/court-blocks-pennsylvanias-carbon-emissions-plan/"
-    },
-    {
-      "text": "Courts & Law",
-      "url": "https://whyy.org/categories/courts-law/"
-    },
-    {
-      "text": "\n            Court blocks Pennsylvania\u2019s carbon emissions plan                       ",
-      "url": "https://whyy.org/articles/court-blocks-pennsylvanias-carbon-emissions-plan/"
-    },
-    {
-      "text": "",
-      "url": "https://whyy.org/articles/black-art-philly-historic-pyramid-club-vicarious-love/"
-    },
-    {
-      "text": "Arts & Entertainment",
-      "url": "https://whyy.org/categories/arts-entertainment/"
-    },
-    {
-      "text": "\n            Black art returns to Philly\u2019s historic Pyramid Club                       ",
-      "url": "https://whyy.org/articles/black-art-philly-historic-pyramid-club-vicarious-love/"
-    },
-    {
-      "text": "\nTweets by @WHYYNews",
-      "url": "https://twitter.com/WHYYNews"
+      "text": "\n            Privacy advocates fear Google will be used to prosecute abortion seekers                       ",
+      "url": "https://whyy.org/npr_story_post/google-data-abortion-prosecutions/"
     },
     {
       "text": "\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -1462,6 +1672,22 @@
     },
     {
       "text": "",
+      "url": "https://whyy.org/episodes/tim-miller-on-why-we-did-it-and-the-future-of-the-republican-party/"
+    },
+    {
+      "text": "Radio Times",
+      "url": "https://whyy.org/programs/radio-times/"
+    },
+    {
+      "text": "Politics & Policy",
+      "url": "https://whyy.org/categories/politics-policy/"
+    },
+    {
+      "text": "\n            Tim Miller on \u2018Why We Did It\u2019 and the future of the Republican party                       ",
+      "url": "https://whyy.org/episodes/tim-miller-on-why-we-did-it-and-the-future-of-the-republican-party/"
+    },
+    {
+      "text": "",
       "url": "https://whyy.org/episodes/the-regional-roundup-july-11-2022/"
     },
     {
@@ -1471,6 +1697,10 @@
     {
       "text": "\n            The Regional Roundup: July 11, 2022                       ",
       "url": "https://whyy.org/episodes/the-regional-roundup-july-11-2022/"
+    },
+    {
+      "text": "\n\t\t\t Listen\n\t\t\t49:00\t\t",
+      "url": "https://whyy-od.streamguys1.com/radiotimes/RT20220711.mp3"
     },
     {
       "text": "",
@@ -1487,26 +1717,6 @@
     {
       "text": "\n\t\t\t Listen\n\t\t\t49:00\t\t",
       "url": "https://whyy-od.streamguys1.com/radiotimes/RT20220708.mp3"
-    },
-    {
-      "text": "",
-      "url": "https://whyy.org/episodes/how-science-is-changing-sports-2/"
-    },
-    {
-      "text": "The Pulse",
-      "url": "https://whyy.org/programs/the-pulse/"
-    },
-    {
-      "text": "Health",
-      "url": "https://whyy.org/categories/health/"
-    },
-    {
-      "text": "\n            How Science is Changing Sports                       ",
-      "url": "https://whyy.org/episodes/how-science-is-changing-sports-2/"
-    },
-    {
-      "text": "\n\t\t\t Listen\n\t\t\t49:01\t\t",
-      "url": "https://whyy-od.streamguys1.com/thepulse/thepulse20220708.mp3"
     },
     {
       "text": "WHYY thanks our sponsors \u2014 become a WHYY sponsor",
@@ -1850,7 +2060,7 @@
     }
   ],
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

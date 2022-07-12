@@ -1,5 +1,5 @@
 {
-  "created": 1657455298,
+  "created": 1657628342,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/31/items/mtlgazette-2022",
@@ -1276,31 +1276,283 @@
       "sha1": "65a0d88b9b6a97e9d51d6284e03c839d3ef7ea5f"
     },
     {
+      "name": "mtlgazette-2022-07-10T09:44:52.932064-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657460697",
+      "size": "65921",
+      "md5": "81c0be75b0dd6ac3c6342f68d497da66",
+      "crc32": "dcdc5a6e",
+      "sha1": "938eb70b220ef6f4489e9bfb1b9cce914ac17695",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-10T09:44:52.932064-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657460701",
+      "size": "48391",
+      "md5": "c75d4627af70bee72f3998407b24ad27",
+      "crc32": "b9bfedd4",
+      "sha1": "45826f731dd9b92ad77e718b0db948bf7ba0abc0",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-10T09:44:52.932064-04:00.jpg",
+      "source": "original",
+      "mtime": "1657460695",
+      "size": "298738",
+      "md5": "c2ade28e2cdd9c8f1f187ce1fd79be79",
+      "crc32": "aa8b2141",
+      "sha1": "f1770c263d3f61cb218aa41f1920313011fbbe3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtlgazette-2022-07-10T09:44:52.932064-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtlgazette-2022-07-10T09:44:52.932064-04:00.jpg",
+      "mtime": "1657460744",
+      "size": "10276",
+      "md5": "5d0418af9f59ca89937eb691dc7b411a",
+      "crc32": "2c3e9444",
+      "sha1": "f9738c298861ab0d16a70c8c72195d7a2acaeeef"
+    },
+    {
+      "name": "mtlgazette-2022-07-10T10:49:26.874468-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464571",
+      "size": "66076",
+      "md5": "34090ae3e9b607859b2785df24554943",
+      "crc32": "6d74c8bf",
+      "sha1": "bd1e595d2446e805ee504bac9d2f6b282d2fd3f8",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-10T10:49:26.874468-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464573",
+      "size": "48424",
+      "md5": "2de99d91768ec8aa730af22506351cb8",
+      "crc32": "8febcad1",
+      "sha1": "5e4ea666cd8f68956b9e9cb6b401e59eaed1f578",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-10T10:49:26.874468-04:00.jpg",
+      "source": "original",
+      "mtime": "1657464568",
+      "size": "299368",
+      "md5": "7aca2a952cd070c213d55809865cfb5a",
+      "crc32": "5e335aa3",
+      "sha1": "ed7310fb6c77d419f1e21a5cc0ec1b50f659914e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtlgazette-2022-07-10T10:49:26.874468-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtlgazette-2022-07-10T10:49:26.874468-04:00.jpg",
+      "mtime": "1657464618",
+      "size": "10324",
+      "md5": "2a52069907c8ef9f12ddbc31b9f4c183",
+      "crc32": "d31301bc",
+      "sha1": "2f6346dc55896c1341a1d947f8473c46f379ddf3"
+    },
+    {
+      "name": "mtlgazette-2022-07-10T22:10:40.812430-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657505445",
+      "size": "66287",
+      "md5": "9afba99df75e5d2bb74284ed2bd59a9d",
+      "crc32": "52323384",
+      "sha1": "35e5d74cb0d727e5293c64593511f8c8ed753908",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-10T22:10:40.812430-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505447",
+      "size": "48631",
+      "md5": "89c7b19cf725e27f7c7104f4fe0a5f28",
+      "crc32": "e8483bea",
+      "sha1": "c81af4ddedb4b5d4996a6919fe4e92d88dfcc9f1",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-10T22:10:40.812430-04:00.jpg",
+      "source": "original",
+      "mtime": "1657505443",
+      "size": "312035",
+      "md5": "693bad44d2e6b1f9a826876d93b9a650",
+      "crc32": "e4ee95dd",
+      "sha1": "ddbf4cae3b442c0b3eec08c1e9b2523687bcd618",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtlgazette-2022-07-10T22:10:40.812430-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtlgazette-2022-07-10T22:10:40.812430-04:00.jpg",
+      "mtime": "1657505496",
+      "size": "10134",
+      "md5": "86d2a6b77d8b0521496baa91e966e070",
+      "crc32": "89cd6c1c",
+      "sha1": "030c948b7bb5fd432267122172f0ddce640459ce"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T11:44:13.562734-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657554257",
+      "size": "66918",
+      "md5": "dfdb28764296356179fda55bd3346507",
+      "crc32": "3287ab9c",
+      "sha1": "0adef5edebc26fac0fc0c9721fb2324110245fec",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T11:44:13.562734-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657554258",
+      "size": "48999",
+      "md5": "d0793e14d3ffef2a99488d000eb011fd",
+      "crc32": "1a160018",
+      "sha1": "49a281ab207d8b35379c1e9e2a5c71096255ebfe",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T11:44:13.562734-04:00.jpg",
+      "source": "original",
+      "mtime": "1657554255",
+      "size": "309764",
+      "md5": "3e9ae66d1d385b9e26c29400ea684eb6",
+      "crc32": "2ea39eb8",
+      "sha1": "accd56ccdce193802dae565902aed9dc5f045f8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T11:44:13.562734-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtlgazette-2022-07-11T11:44:13.562734-04:00.jpg",
+      "mtime": "1657554301",
+      "size": "10010",
+      "md5": "c133ea48d5b03b11f59a080b2d63c62f",
+      "crc32": "2b8d3c31",
+      "sha1": "38d5f312ec93d0e7d0837c159c044e1720794407"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T14:10:05.313873-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563007",
+      "size": "66722",
+      "md5": "be6cf17da08ab4638b0186a88f588251",
+      "crc32": "e513e1c1",
+      "sha1": "64073fdd56ec65cbb2a08c0c8dd5236b545dcf25",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T14:10:05.313873-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563009",
+      "size": "49897",
+      "md5": "5ebbb74bebc69031104e6568691cda88",
+      "crc32": "fcad3b7c",
+      "sha1": "d79ba8da3db314e76425dfbf7eb83aec75629530",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T14:10:05.313873-04:00.jpg",
+      "source": "original",
+      "mtime": "1657563006",
+      "size": "305660",
+      "md5": "217a53fbe816a111e1580984f123eaec",
+      "crc32": "635c9e17",
+      "sha1": "07a8ac5661033cbedad62b861af7b035727d8112",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T14:10:05.313873-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtlgazette-2022-07-11T14:10:05.313873-04:00.jpg",
+      "mtime": "1657563073",
+      "size": "10035",
+      "md5": "27475c1dce86d43485fbbb4953d91dd2",
+      "crc32": "cd302617",
+      "sha1": "e5c8d8e0d7fbc5bacac8b99fd368d25856f46164"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T22:11:47.970526-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657591911",
+      "size": "65966",
+      "md5": "a95ef70539029c870390285b4cf5efb3",
+      "crc32": "523b92f8",
+      "sha1": "c8175230df3396acbb56b904d044da914a3721fe",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T22:11:47.970526-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657591912",
+      "size": "50208",
+      "md5": "e4cadcad421b46b2c40cc36f3a4c1925",
+      "crc32": "d7876341",
+      "sha1": "b775d1f7b5d69090fa1687c866f0c068838f1b95",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T22:11:47.970526-04:00.jpg",
+      "source": "original",
+      "mtime": "1657591909",
+      "size": "311411",
+      "md5": "5cfdf7d2165c10685dd9c6958a95401b",
+      "crc32": "5d47836a",
+      "sha1": "c9acd35ae1f6cfb25aa67399c2051ab1bb233100",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtlgazette-2022-07-11T22:11:47.970526-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtlgazette-2022-07-11T22:11:47.970526-04:00.jpg",
+      "mtime": "1657591986",
+      "size": "10272",
+      "md5": "2b52327bda65cc513474769acf4672be",
+      "crc32": "13d8c0ce",
+      "sha1": "2ad151cbcee589a9ddde39e3e313cf55f3e6937d"
+    },
+    {
       "name": "mtlgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "12cf9cd23efc44dbbb0b49d0b2922b2617ceb0cc",
-      "mtime": "1657419028",
-      "size": "27279",
-      "md5": "39d96786b200ba867a9f5b5b15c4dcd0",
-      "crc32": "c15742ef",
-      "sha1": "435b43a081b85cb3f81e0ce22dc23a10dd7f3f2a",
+      "btih": "74f4ea0514ebce6535bfab2639c7e1332345c908",
+      "mtime": "1657592005",
+      "size": "32407",
+      "md5": "6cb36384c1cea413c37a7c10e7d1e80f",
+      "crc32": "d6719ea6",
+      "sha1": "48d5f9aee5b0820d7f71982cd49cafa0b119d6c9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtlgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6e8306e3fa404fe789060eafded5ed65",
+      "md5": "f3a34cc4131dd0eedf053b82b33f060b",
       "summation": "md5"
     },
     {
       "name": "mtlgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657418984",
-      "size": "159744",
-      "md5": "6456858b43adab8830734038dcd94d65",
-      "crc32": "30ae7e2c",
-      "sha1": "6ee020d10952c65dcd4938ad185490daa16b359f",
+      "mtime": "1657591915",
+      "size": "188416",
+      "md5": "644a46b416b64ac872ce036ae069f22d",
+      "crc32": "d65b4b35",
+      "sha1": "3a7a604aa318af72cd07fcd8f5d1bdc950b59b3b",
       "format": "Metadata"
     },
     {
@@ -1314,9 +1566,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "item_last_updated": 1657419028,
-  "item_size": 13196789,
+  "files_count": 149,
+  "item_last_updated": 1657592005,
+  "item_size": 15821056,
   "metadata": {
     "identifier": "mtlgazette-2022",
     "collection": [
@@ -1963,8 +2215,8 @@
       "url": "/category/local-news/"
     },
     {
-      "text": "  Respect overdue for 'Mr. V,' inventor of figure skating's short program   WEEKEND READ | A fixture at Montreal arenas for decades, coach Karel Vos\u00e1tka left a big mark on the sport. The problem is no one knew what he\u2019d done.  ",
-      "url": "/news/local-news/montreal-coach-invented-short-program-in-figure-skating"
+      "text": "  Midway through the season, Montreal tourism numbers have exceeded expectations   Tourists are back, and the hotel occupation rate has hovered in the 90s through the biggest events this spring and summer.  ",
+      "url": "/news/local-news/midway-through-the-season-montreal-tourism-numbers-have-exceeded-expectations"
     },
     {
       "text": "  Local News  ",
@@ -1972,15 +2224,15 @@
     },
     {
       "text": "         ",
-      "url": "/news/local-news/montreal-coach-invented-short-program-in-figure-skating"
+      "url": "/news/local-news/midway-through-the-season-montreal-tourism-numbers-have-exceeded-expectations"
     },
     {
       "text": "  Columnists  ",
       "url": "/category/columnists/"
     },
     {
-      "text": "  Brownstein: Success hasn't sanded down Bill Burr's edge  ",
-      "url": "/opinion/columnists/brownstein-success-hasnt-sanded-down-bill-burrs-edge"
+      "text": "  Allison Hanes: There's no holiday from COVID-19; ask me how I know  ",
+      "url": "/opinion/columnists/allison-hanes-theres-no-holiday-from-covid-ask-me-how-i-know"
     },
     {
       "text": "  Columnists  ",
@@ -1988,31 +2240,15 @@
     },
     {
       "text": "         ",
-      "url": "/opinion/columnists/brownstein-success-hasnt-sanded-down-bill-burrs-edge"
-    },
-    {
-      "text": "  Arts  ",
-      "url": "/category/arts/"
-    },
-    {
-      "text": "  Jazz fest ticket sales should be close to $4 million: organizers  ",
-      "url": "/entertainment/arts/jazz-fest-ticket-sales-should-be-close-to-4-million-organizers"
-    },
-    {
-      "text": "  Arts  ",
-      "url": "/category/arts/"
-    },
-    {
-      "text": "         ",
-      "url": "/entertainment/arts/jazz-fest-ticket-sales-should-be-close-to-4-million-organizers"
+      "url": "/opinion/columnists/allison-hanes-theres-no-holiday-from-covid-ask-me-how-i-know"
     },
     {
       "text": "  Local News  ",
       "url": "/category/local-news/"
     },
     {
-      "text": "  'I think you should stop talking,' judge tells lawyer debating meaning of Nazism  ",
-      "url": "/news/local-news/accused-knew-he-was-spreading-hate-crown-tells-montreal-court"
+      "text": "  Delays, cancellations ease at Trudeau airport, but turbulence remains  ",
+      "url": "/news/local-news/delays-cancellations-ease-at-trudeau-airport-but-turbulence-remains"
     },
     {
       "text": "  Local News  ",
@@ -2020,23 +2256,39 @@
     },
     {
       "text": "         ",
-      "url": "/news/local-news/accused-knew-he-was-spreading-hate-crown-tells-montreal-court"
+      "url": "/news/local-news/delays-cancellations-ease-at-trudeau-airport-but-turbulence-remains"
     },
     {
-      "text": "  Columnists  ",
-      "url": "/category/columnists/"
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
     },
     {
-      "text": "  Josh Freed: Survival Guide to Canadian Flight Fright  ",
-      "url": "/opinion/columnists/josh-freed-survival-guide-to-canadian-flight-fright"
+      "text": "  Montreal victims of crime tell Trudeau they need more help  ",
+      "url": "/pmn/news-pmn/canada-news-pmn/really-hard-to-get-services-victims-of-crime-tell-trudeau-they-need-more-help/wcm/6a7be4ae-384c-4f06-a320-28f5f8b5e304"
     },
     {
-      "text": "  Columnists  ",
-      "url": "/category/columnists/"
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
     },
     {
       "text": "         ",
-      "url": "/opinion/columnists/josh-freed-survival-guide-to-canadian-flight-fright"
+      "url": "/pmn/news-pmn/canada-news-pmn/really-hard-to-get-services-victims-of-crime-tell-trudeau-they-need-more-help/wcm/6a7be4ae-384c-4f06-a320-28f5f8b5e304"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "  Class action sought against Rogers for service outage, inconveniences  ",
+      "url": "/news/local-news/class-action-sought-against-rogers-for-service-outage-inconveniences"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/local-news/class-action-sought-against-rogers-for-service-outage-inconveniences"
     },
     {
       "text": " View More Videos > ",
@@ -2055,44 +2307,32 @@
       "url": "/category/news/world/"
     },
     {
-      "text": "  The best place for a picnic is wherever you decide to have a picnic   Just wrapping sandwiches to eat on the road or packing up cheese and bread puts Quebec foodie Jos\u00e9e di Stasio in a picnic frame of mind.  ",
-      "url": "/life/food/the-best-place-for-a-picnic-is-wherever-you-decide-to-have-a-picnic"
+      "text": "  Far out: NASA space telescope's 1st cosmic view goes deep   The \u201cdeep field\u201d image released at a White House event is filled with lots of stars, with massive galaxies in the foreground and faint and extremely distant galaxies peeking through here and there.  ",
+      "url": "/pmn/news-pmn/biden-to-reveal-first-image-from-nasas-new-space-telescope/wcm/1321f7f6-cc70-4446-9eea-a30b71b50170"
     },
     {
-      "text": "  Food  ",
-      "url": "/category/food/"
-    },
-    {
-      "text": "         ",
-      "url": "/life/food/the-best-place-for-a-picnic-is-wherever-you-decide-to-have-a-picnic"
-    },
-    {
-      "text": "  Juraj Slafkovsky impressed Canadiens both on and off the ice   No. 1 pick at NHL Draft isn't your typical teenager \u2014 and it's not just because he's 6-foot-4 and 229 pounds.  ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/juraj-slafkovsky-impressed-canadiens-both-on-and-off-the-ice"
-    },
-    {
-      "text": "  Hockey Inside Out  ",
-      "url": "/category/hockey-inside-out/"
+      "text": "  Space  ",
+      "url": "/category/space/"
     },
     {
       "text": "         ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/juraj-slafkovsky-impressed-canadiens-both-on-and-off-the-ice"
+      "url": "/pmn/news-pmn/biden-to-reveal-first-image-from-nasas-new-space-telescope/wcm/1321f7f6-cc70-4446-9eea-a30b71b50170"
     },
     {
-      "text": "  Rogers restores service for 'vast majority' of customers after outage   The Toronto-based telecommunications company says some customers may experience delays in regaining full service as its network comes back online and traffic volumes return to normal.  ",
-      "url": "/pmn/business-pmn/rogers-restores-service-for-vast-majority-of-customers-after-outage/wcm/c61f27c0-a72f-48f3-a3d9-e9a8ed92c1ac"
+      "text": "  After massive Rogers outage, Ottawa to force telecoms to help each other in emergencies   They have 60 days to come up with formal agreements on emergency roaming and mutual assistance in outages  ",
+      "url": "/news/politics/after-massive-rogers-outage-liberals-to-force-telecoms-to-help-each-other-in-emergencies/wcm/c90a737f-ba36-4a56-9270-8ed67e19d4aa"
     },
     {
-      "text": "  News  ",
-      "url": "/category/news/"
+      "text": "  Business  ",
+      "url": "/category/business/"
     },
     {
       "text": "         ",
-      "url": "/pmn/business-pmn/rogers-restores-service-for-vast-majority-of-customers-after-outage/wcm/c61f27c0-a72f-48f3-a3d9-e9a8ed92c1ac"
+      "url": "/news/politics/after-massive-rogers-outage-liberals-to-force-telecoms-to-help-each-other-in-emergencies/wcm/c90a737f-ba36-4a56-9270-8ed67e19d4aa"
     },
     {
-      "text": "  Gallery: Pop-culture fans dress for Montreal Comiccon   After a pandemic break, Montreal Comiccon, which usually attracts in the neighbourhood of 60,000 visitors, returns to the Palais des congr\u00e8s July 8-10.  ",
-      "url": "/gallery/gallery-pop-culture-fans-dress-for-montreal-comiccon"
+      "text": "  Woman, 91, dies after waiting seven hours for Montreal ambulance   The news comes as Montreal paramedics begin new pressure tactics.  ",
+      "url": "/news/local-news/ninety-one-year-old-woman-dies-after-waiting-seven-hours-for-montreal-ambulance"
     },
     {
       "text": "  Local News  ",
@@ -2100,11 +2340,11 @@
     },
     {
       "text": "         ",
-      "url": "/gallery/gallery-pop-culture-fans-dress-for-montreal-comiccon"
+      "url": "/news/local-news/ninety-one-year-old-woman-dies-after-waiting-seven-hours-for-montreal-ambulance"
     },
     {
-      "text": "  Friday night fire in Ch\u00e2teauguay leaves one person dead   Investigators are now on the scene to try to determine the cause of the fire.  ",
-      "url": "/news/local-news/friday-night-fire-in-chateauguay-leaves-one-person-dead"
+      "text": "  Crash in Laurentians kills driver and 8-year-old passenger   The vehicle rolled over and ended up on its hood.  ",
+      "url": "/news/local-news/crash-in-laurentians-kills-driver-and-8-year-old-passenger"
     },
     {
       "text": "  Local News  ",
@@ -2112,31 +2352,43 @@
     },
     {
       "text": "         ",
-      "url": "/news/local-news/friday-night-fire-in-chateauguay-leaves-one-person-dead"
+      "url": "/news/local-news/crash-in-laurentians-kills-driver-and-8-year-old-passenger"
+    },
+    {
+      "text": "  B'nai Brith says judges need better understanding of the Holocaust   The group states \"every Canadian should be appalled\u201d by the proceedings at Gabriel Sohier Chaput's hate speech trial in Montreal.  ",
+      "url": "/news/local-news/bnai-brith-says-montreal-trial-shows-need-for-judges-to-better-understand-the-holocaust"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/local-news/bnai-brith-says-montreal-trial-shows-need-for-judges-to-better-understand-the-holocaust"
     },
     {
       "text": " More news stories > ",
       "url": "/category/news/"
     },
     {
-      "text": "  'I think you should stop talking,' judge tells lawyer debating meaning of Nazism  ",
-      "url": "/news/local-news/accused-knew-he-was-spreading-hate-crown-tells-montreal-court"
+      "text": "  Stu Cowan: Juraj Slafkovsky makes big impression at Canadiens camp  ",
+      "url": "/sports/hockey/nhl/hockey-inside-out/stu-cowan-juraj-slafkovsky-makes-big-impression-at-canadiens-camp"
     },
     {
-      "text": "  Stu Cowan: Canadiens GM Kent Hughes puts his plan into action  ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/stu-cowan-canadiens-gm-kent-hughes-puts-his-plan-into-action"
+      "text": "  Sheldon Kennedy speaks with Logan Mailloux and Canadiens prospects  ",
+      "url": "/sports/hockey/nhl/hockey-inside-out/sheldon-kennedy-speaks-with-logan-mailloux-and-canadiens-prospects"
     },
     {
-      "text": "  Juraj Slafkovsky impressed Canadiens both on and off the ice  ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/juraj-slafkovsky-impressed-canadiens-both-on-and-off-the-ice"
+      "text": "  Class action sought against Rogers for service outage, inconveniences  ",
+      "url": "/news/local-news/class-action-sought-against-rogers-for-service-outage-inconveniences"
     },
     {
-      "text": "  Canadiens aim for flash and substance on Day 2 of NHL draft  ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/draft-second-day"
+      "text": "  Woman, 91, dies after waiting seven hours for Montreal ambulance  ",
+      "url": "/news/local-news/ninety-one-year-old-woman-dies-after-waiting-seven-hours-for-montreal-ambulance"
     },
     {
-      "text": "  Kirby Dach looking forward to a fresh start with the Canadiens  ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/kirby-dach-looking-forward-to-a-fresh-start-with-the-canadiens"
+      "text": "  Allison Hanes: There's no holiday from COVID-19; ask me how I know  ",
+      "url": "/opinion/columnists/allison-hanes-theres-no-holiday-from-covid-ask-me-how-i-know"
     },
     {
       "text": "      View the latest edition  ",
@@ -2235,6 +2487,54 @@
       "url": "/category/opinion/"
     },
     {
+      "text": "  Nicolas: Quebec's position on asylum seekers is pure folly   The CAQ government is squandering an opportunity to ease the labour shortage and help newcomers integrate and learn French.  ",
+      "url": "/opinion/columnists/nicolas-quebecs-position-on-asylum-seekers-is-pure-folly"
+    },
+    {
+      "text": "  Columnists  ",
+      "url": "/category/columnists/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/columnists/nicolas-quebecs-position-on-asylum-seekers-is-pure-folly"
+    },
+    {
+      "text": "  The Right Chemistry: The scientific history behind the Lampe Berger   My interest in the gift I had received was rekindled by a comment from Sir Humphry Davy that I came across while researching the \u201cDavy safety lamp.\u201d  ",
+      "url": "/opinion/columnists/the-right-chemistry-the-scientific-history-behind-the-lampe-berger"
+    },
+    {
+      "text": "  Columnists  ",
+      "url": "/category/columnists/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/columnists/the-right-chemistry-the-scientific-history-behind-the-lampe-berger"
+    },
+    {
+      "text": "  Cuthand: AFN's national chief needs room to reform the organization   \"The clash between the old guard and a strong, opinionated woman was inevitable.\"  ",
+      "url": "/opinion/columnists/cuthand-afns-national-chief-needs-room-to-reform-the-organization/wcm/14e18d2c-97f0-45ff-a3fa-24b052d0848c"
+    },
+    {
+      "text": "  Opinion  ",
+      "url": "/category/opinion/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/columnists/cuthand-afns-national-chief-needs-room-to-reform-the-organization/wcm/14e18d2c-97f0-45ff-a3fa-24b052d0848c"
+    },
+    {
+      "text": "  Braid: Poilievre gets the cheers, Charest faced with boos at big CPC event   \"Poilievre\u2019s emotional fixation on grievances has far more appeal\"  ",
+      "url": "/opinion/columnists/braid-poilievre-gets-the-cheers-charest-faced-with-boos-at-big-ucp-event/wcm/49db6f52-e1dd-43ca-93ad-9a22f808fe31"
+    },
+    {
+      "text": "  Opinion  ",
+      "url": "/category/opinion/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/columnists/braid-poilievre-gets-the-cheers-charest-faced-with-boos-at-big-ucp-event/wcm/49db6f52-e1dd-43ca-93ad-9a22f808fe31"
+    },
+    {
       "text": "  'Please let me die': Inside the thoughts of the ArriveCan smartphone app   Dear Diary: I struggle to describe the spiritual toll of being despised by so many. It wasn\u2019t supposed to be this way.  ",
       "url": "/opinion/satire-dear-diary-arrivecan-smartphone-app/wcm/f81153bb-7422-49f1-b7ce-0ecb84aa2363"
     },
@@ -2245,54 +2545,6 @@
     {
       "text": "         ",
       "url": "/opinion/satire-dear-diary-arrivecan-smartphone-app/wcm/f81153bb-7422-49f1-b7ce-0ecb84aa2363"
-    },
-    {
-      "text": "  Brownstein: Just for Laughs welcomes global talent back to 'summer camp for comics'   The Montreal comedy festival is making up for lost time after two-plus years of the pandemic, presenting nearly 300 shows \u2014 75 of them free \u2014 from July 13 to 31.  ",
-      "url": "/opinion/columnists/brownstein-just-for-laughs-welcomes-global-talent-back-to-summer-camp-for-comics"
-    },
-    {
-      "text": "  Columnists  ",
-      "url": "/category/columnists/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/columnists/brownstein-just-for-laughs-welcomes-global-talent-back-to-summer-camp-for-comics"
-    },
-    {
-      "text": "  Robert Libman: Subplots add drama to October's Quebec election   While many see a CAQ majority as a foregone conclusion, the Duhaime factor and new rights-focused parties make things less predictable.  ",
-      "url": "/opinion/columnists/robert-libman-subplots-add-drama-to-octobers-quebec-election"
-    },
-    {
-      "text": "  Columnists  ",
-      "url": "/category/columnists/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/columnists/robert-libman-subplots-add-drama-to-octobers-quebec-election"
-    },
-    {
-      "text": "  Brownstein: Shane Murphy's wildfire blues will blaze at Montreal jazz fest   \u201cEverybody had a hard time during the pandemic. I just thought I would take those feelings of darkness and forlornness I had, and it all came together,\u201d he says of his new album, Get Religion.  ",
-      "url": "/opinion/columnists/brownstein-shane-murphys-wildfire-blues-will-blaze-at-montreal-jazz-fest"
-    },
-    {
-      "text": "  Columnists  ",
-      "url": "/category/columnists/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/columnists/brownstein-shane-murphys-wildfire-blues-will-blaze-at-montreal-jazz-fest"
-    },
-    {
-      "text": "  Editorial: Quebec's COVID plan is everyone for themselves, it seems   The situation is \"under control,\" Health Minister Christian Dub\u00e9 indicated on Thursday. Is it really? And if so, for how long?  ",
-      "url": "/opinion/editorials/editorial-quebecs-covid-plan-is-everyone-for-themselves-it-seems"
-    },
-    {
-      "text": "  Editorials  ",
-      "url": "/category/editorials/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/editorials/editorial-quebecs-covid-plan-is-everyone-for-themselves-it-seems"
     },
     {
       "text": " More opinion stories > ",
@@ -2387,32 +2639,8 @@
       "url": "/category/sports/"
     },
     {
-      "text": "  Verstappen cruises from pole to win Austrian GP sprint   Montreal's Lance Stroll qualified in 12th place during Saturday's sprint for Sunday's race.  ",
-      "url": "/sports/auto-racing/verstappen-cruises-from-pole-to-win-austrian-gp-sprint"
-    },
-    {
-      "text": "  Auto Racing  ",
-      "url": "/category/auto-racing/"
-    },
-    {
-      "text": "         ",
-      "url": "/sports/auto-racing/verstappen-cruises-from-pole-to-win-austrian-gp-sprint"
-    },
-    {
-      "text": "  LIV Golf Is a fast-paced celebration of the rich getting richer   With big purses, speedy overhead drones and snappy team names, the Saudi-backed venture\u00a0aims to supercharge the golf viewing experience  ",
-      "url": "/pmn/business-pmn/liv-golf-is-a-fast-paced-celebration-of-the-rich-getting-richer/wcm/2648c7df-2828-495a-a32f-db345c333b5b"
-    },
-    {
-      "text": "  Golf  ",
-      "url": "/category/golf/"
-    },
-    {
-      "text": "         ",
-      "url": "/pmn/business-pmn/liv-golf-is-a-fast-paced-celebration-of-the-rich-getting-richer/wcm/2648c7df-2828-495a-a32f-db345c333b5b"
-    },
-    {
-      "text": "  Stu Cowan: Canadiens GM Kent Hughes puts his plan into action   He's a confident man who is very comfortable in his own skin and with whatever decisions he decides to make. Time will tell if he's right.  ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/stu-cowan-canadiens-gm-kent-hughes-puts-his-plan-into-action"
+      "text": "  Sheldon Kennedy speaks with Logan Mailloux and Canadiens prospects   \"We had a healthy conversation and I hope nothing but the best for Logan and that he continues to learn and be the best he can be.\"  ",
+      "url": "/sports/hockey/nhl/hockey-inside-out/sheldon-kennedy-speaks-with-logan-mailloux-and-canadiens-prospects"
     },
     {
       "text": "  Hockey Inside Out  ",
@@ -2420,23 +2648,11 @@
     },
     {
       "text": "         ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/stu-cowan-canadiens-gm-kent-hughes-puts-his-plan-into-action"
+      "url": "/sports/hockey/nhl/hockey-inside-out/sheldon-kennedy-speaks-with-logan-mailloux-and-canadiens-prospects"
     },
     {
-      "text": "  Canadiens aim for flash and substance on Day 2 of NHL draft   Undersized defenceman Lane Hutson, chosen 62nd, could be a steal (or a wasted pick).  ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/draft-second-day"
-    },
-    {
-      "text": "  Hockey Inside Out  ",
-      "url": "/category/hockey-inside-out/"
-    },
-    {
-      "text": "         ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/draft-second-day"
-    },
-    {
-      "text": "  Son of Canadiens GM Kent Hughes drafted in second round by L.A. Kings   \u201cHe\u2019s taught me everything I know about hockey and I think a strong suit of my game is my hockey sense,\" Jack Hughes says about his father.  ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/son-of-canadiens-gm-kent-hughes-drafted-in-second-round-by-l-a-kings"
+      "text": "  Stu Cowan: Juraj Slafkovsky makes big impression at Canadiens camp   It has already become almost impossible for the No. 1 overall draft pick to walk around Montreal \u2014 or Brossard \u2014 without being recognized.  ",
+      "url": "/sports/hockey/nhl/hockey-inside-out/stu-cowan-juraj-slafkovsky-makes-big-impression-at-canadiens-camp"
     },
     {
       "text": "  Hockey Inside Out  ",
@@ -2444,7 +2660,43 @@
     },
     {
       "text": "         ",
-      "url": "/sports/hockey/nhl/hockey-inside-out/son-of-canadiens-gm-kent-hughes-drafted-in-second-round-by-l-a-kings"
+      "url": "/sports/hockey/nhl/hockey-inside-out/stu-cowan-juraj-slafkovsky-makes-big-impression-at-canadiens-camp"
+    },
+    {
+      "text": "  Canadiens Notebook: Michael Pezzetta agrees to one-year contract   Forward gets a one-way deal worth US$750,000, while defenceman Corey Schueneman agrees to a one-year, two-way contract.  ",
+      "url": "/sports/hockey/nhl/hockey-inside-out/canadiens-notebook-corey-schueneman-agrees-to-one-year-contract"
+    },
+    {
+      "text": "  Hockey Inside Out  ",
+      "url": "/category/hockey-inside-out/"
+    },
+    {
+      "text": "         ",
+      "url": "/sports/hockey/nhl/hockey-inside-out/canadiens-notebook-corey-schueneman-agrees-to-one-year-contract"
+    },
+    {
+      "text": "  Jack Todd: Slafkovsky a greater risk for Habs, but potentially a greater reward   Meanwhile, Alouettes GM Danny Maciocia's decision to fire head coach Khari Jones shows team's lack of discipline is in the head office, not on the field.  ",
+      "url": "/sports/jack-todd-slafkovsky-a-greater-risk-for-habs-but-potentially-a-greater-reward"
+    },
+    {
+      "text": "  Sports  ",
+      "url": "/category/sports/"
+    },
+    {
+      "text": "         ",
+      "url": "/sports/jack-todd-slafkovsky-a-greater-risk-for-habs-but-potentially-a-greater-reward"
+    },
+    {
+      "text": "  Zurkowsky: Alouettes GM Maciocia isn't the bad guy for firing head coach   Danny Maciocia felt with the season slipping by he couldn't wait any longer before pulling the plug on Khari Jones.  ",
+      "url": "/sports/football/cfl/montreal-alouettes/underachieving-alouettes-was-catalyst-for-gms-firing-of-coach"
+    },
+    {
+      "text": "  Montreal Alouettes  ",
+      "url": "/category/montreal-alouettes/"
+    },
+    {
+      "text": "         ",
+      "url": "/sports/football/cfl/montreal-alouettes/underachieving-alouettes-was-catalyst-for-gms-firing-of-coach"
     },
     {
       "text": " More sports stories > ",
@@ -2459,8 +2711,8 @@
       "url": "/category/business/"
     },
     {
-      "text": "  Quebec employers group wants older workers to stay on the job   The Conseil du patronat is offering companies help with best practices to attract or retain experienced workers.  ",
-      "url": "/news/local-news/quebec-employers-group-wants-older-workers-to-stay-on-the-job"
+      "text": "  Truck driver fired after announcing she was pregnant wins case before labour board   Quebec's labour tribunal has ordered the company to reinstate the woman and pay her the equivalent of the salary and other benefits she lost.  ",
+      "url": "/news/local-news/truck-driver-fired-after-announcing-she-was-pregnant-wins-case-before-labour-board"
     },
     {
       "text": "  Local News  ",
@@ -2468,47 +2720,35 @@
     },
     {
       "text": "         ",
-      "url": "/news/local-news/quebec-employers-group-wants-older-workers-to-stay-on-the-job"
+      "url": "/news/local-news/truck-driver-fired-after-announcing-she-was-pregnant-wins-case-before-labour-board"
     },
     {
-      "text": "  Canada's jobless rate drops to record low of 4.9%: What you need to know   Kevin Carmichael: It feels like Canada is entering a new phase of persistently strong demand for workers  ",
-      "url": "/news/economy/canadas-jobless-rate-drops-to-a-record-low-of-4-9-what-you-need-to-know/wcm/db3e5622-77fa-4691-8838-53376bf508c3"
+      "text": "  Paul Delean: Beware if you plan to rent out space to tourists   Failure to comply with government guidelines can get you on the radar of a provincial inspector \u2014 and a salty fine.  ",
+      "url": "/business/local-business/personal-finance/paul-delean-beware-if-you-plan-to-rent-out-space-to-tourists"
     },
     {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/economy/canadas-jobless-rate-drops-to-a-record-low-of-4-9-what-you-need-to-know/wcm/db3e5622-77fa-4691-8838-53376bf508c3"
-    },
-    {
-      "text": "  Montreal businesses, customers have no plans to return to COVID-19 restrictions   Businesses and their customers say they have no intention on returning to masks and restrictions in the wake of news that the province has entered a seventh wave.  ",
-      "url": "/news/local-news/montreal-businesses-customers-have-no-plans-to-return-to-covid-19-restrictions"
-    },
-    {
-      "text": "  Local News  ",
-      "url": "/category/local-news/"
+      "text": "  Personal Finance  ",
+      "url": "/category/personal-finance/"
     },
     {
       "text": "         ",
-      "url": "/news/local-news/montreal-businesses-customers-have-no-plans-to-return-to-covid-19-restrictions"
+      "url": "/business/local-business/personal-finance/paul-delean-beware-if-you-plan-to-rent-out-space-to-tourists"
     },
     {
-      "text": "  P\u00e9ladeau family quarrel over inheritance ends as high court rejects brothers' appeal   Anne-Marie P\u00e9ladeau had claimed $88 million in the dispute, which dates back to a settlement reached in 2000, three years after Pierre P\u00e9ladeau died.  ",
-      "url": "/news/local-news/peladeau-family-quarrel-over-inheritance-ends-as-high-court-rejects-brothers-appeal"
+      "text": "  Don't bundle, carry cash: Rogers outage a wakeup call for consumers and government   Consumers should reassess their technology service \"bundles\" for cost versus risk in the same way they balance their investment portfolio, according to tech expert Andy Baryer.  ",
+      "url": "/business/rogers-outage-sparks-calls-for-changes-to-consumer-behaviour-federal-policy-changes/wcm/d2a10e94-cfb3-4f11-8c20-caed1263e5b5"
     },
     {
-      "text": "  Local News  ",
-      "url": "/category/local-news/"
+      "text": "  Technology  ",
+      "url": "/category/technology/"
     },
     {
       "text": "         ",
-      "url": "/news/local-news/peladeau-family-quarrel-over-inheritance-ends-as-high-court-rejects-brothers-appeal"
+      "url": "/business/rogers-outage-sparks-calls-for-changes-to-consumer-behaviour-federal-policy-changes/wcm/d2a10e94-cfb3-4f11-8c20-caed1263e5b5"
     },
     {
-      "text": "  Passengers, advocates cry foul on Air Canada compensation   Despite thousands of scrapped flights and late arrivals, customers are struggling to file successful complaints or learn the nuances of complex regulations amid the overwhelming surge in summer travel.  ",
-      "url": "/pmn/business-pmn/passengers-advocates-cry-foul-on-air-canada-compensation/wcm/2e543eb2-14f6-4534-bb66-6396698cedde"
+      "text": "  Rogers CEO faces grilling as network woes cast shadow over deal   Rogers Communications Inc.\u2019s chief executive officer will face Canada\u2019s industry minister to account for a nationwide network failure that left millions of households and businesses without wireless and internet service.  ",
+      "url": "/pmn/business-pmn/rogers-ceo-faces-grilling-as-network-woes-cast-shadow-over-deal/wcm/ac1d4a23-8ea1-4c4e-9926-300c857ae81c"
     },
     {
       "text": "  Business  ",
@@ -2516,7 +2756,19 @@
     },
     {
       "text": "         ",
-      "url": "/pmn/business-pmn/passengers-advocates-cry-foul-on-air-canada-compensation/wcm/2e543eb2-14f6-4534-bb66-6396698cedde"
+      "url": "/pmn/business-pmn/rogers-ceo-faces-grilling-as-network-woes-cast-shadow-over-deal/wcm/ac1d4a23-8ea1-4c4e-9926-300c857ae81c"
+    },
+    {
+      "text": "  Jazz fest ticket sales should be close to $4 million: organizers   \u201cThis was our revenge over COVID. At the end, it\u2019s the music that won.\u201d  ",
+      "url": "/entertainment/arts/jazz-fest-ticket-sales-should-be-close-to-4-million-organizers"
+    },
+    {
+      "text": "  Arts  ",
+      "url": "/category/arts/"
+    },
+    {
+      "text": "         ",
+      "url": "/entertainment/arts/jazz-fest-ticket-sales-should-be-close-to-4-million-organizers"
     },
     {
       "text": " More business stories > ",
@@ -2531,6 +2783,18 @@
       "url": "/category/entertainment/"
     },
     {
+      "text": "  The Roots dig deep in rousing Montreal jazz festival finale   It was a triumphant finish to a year in which the festival merely taking place was a minor miracle.  ",
+      "url": "/entertainment/music/the-roots-2022-montreal-jazz-festival-review"
+    },
+    {
+      "text": "  Music  ",
+      "url": "/category/music/"
+    },
+    {
+      "text": "         ",
+      "url": "/entertainment/music/the-roots-2022-montreal-jazz-festival-review"
+    },
+    {
       "text": "  Dunlevy: Goodbye jazz fest, hello Nuits d'Afrique   Featuring 150 events and activities, including 70 performances by artists from 30 countries, the festival puts the \u201cworld\u201d in world music.  ",
       "url": "/opinion/columnists/dunlevy-goodbye-jazz-fest-hello-nuits-dafrique"
     },
@@ -2543,16 +2807,16 @@
       "url": "/opinion/columnists/dunlevy-goodbye-jazz-fest-hello-nuits-dafrique"
     },
     {
-      "text": "  Montreal jazz fest daily picks: July 9, 2022   Shane Murphy will help close down the jazz fest with three sets backed by a full band.  ",
-      "url": "/news/local-news/montreal-jazz-fest-daily-picks-july-9-2022"
+      "text": "  Brownstein: Just for Laughs welcomes global talent back to 'summer camp for comics'   The Montreal comedy festival is making up for lost time after two-plus years of the pandemic, presenting nearly 300 shows \u2014 75 of them free \u2014 from July 13 to 31.  ",
+      "url": "/opinion/columnists/brownstein-just-for-laughs-welcomes-global-talent-back-to-summer-camp-for-comics"
     },
     {
-      "text": "  Local News  ",
-      "url": "/category/local-news/"
+      "text": "  Columnists  ",
+      "url": "/category/columnists/"
     },
     {
       "text": "         ",
-      "url": "/news/local-news/montreal-jazz-fest-daily-picks-july-9-2022"
+      "url": "/opinion/columnists/brownstein-just-for-laughs-welcomes-global-talent-back-to-summer-camp-for-comics"
     },
     {
       "text": "  Montreal circus fest is happy to be back and soaring to new heights   The festival will include shows around three giants in public spaces around downtown.  ",
@@ -2579,24 +2843,24 @@
       "url": "/entertainment/local-arts/suuns-bring-their-experimental-rock-to-the-street-for-montreal-jazz-fest"
     },
     {
-      "text": "  Bran Van 3000 in control of the party as it prepares for Montreal jazz fest show   \u201cI think we\u2019re all blown away by how easy and smooth it is,\u201d ringleader James Di Salvio said of the Montreal collective picking up where it left off.  ",
-      "url": "/entertainment/music/bran-van-3000-in-control-of-the-party-as-it-prepares-for-montreal-jazz-fest-show"
-    },
-    {
-      "text": "  Music  ",
-      "url": "/category/music/"
-    },
-    {
-      "text": "         ",
-      "url": "/entertainment/music/bran-van-3000-in-control-of-the-party-as-it-prepares-for-montreal-jazz-fest-show"
-    },
-    {
       "text": " More entertainment stories > ",
       "url": "/category/entertainment/"
     },
     {
       "text": "Life",
       "url": "/category/life/"
+    },
+    {
+      "text": "  The best place for a picnic is wherever you decide to have a picnic   Just wrapping sandwiches to eat on the road or packing up cheese and bread puts Quebec foodie Jos\u00e9e di Stasio in a picnic frame of mind.  ",
+      "url": "/life/food/the-best-place-for-a-picnic-is-wherever-you-decide-to-have-a-picnic"
+    },
+    {
+      "text": "  Food  ",
+      "url": "/category/food/"
+    },
+    {
+      "text": "         ",
+      "url": "/life/food/the-best-place-for-a-picnic-is-wherever-you-decide-to-have-a-picnic"
     },
     {
       "text": "  Bill Zacharkiw's Wines of the Week: July 8, 2022   Every week, Bill Zacharkiw identifies his top wine picks available at the SAQ and offers ideas for food pairings.  ",
@@ -2645,18 +2909,6 @@
     {
       "text": "         ",
       "url": "/news/local-news/here-are-5-cool-new-things-to-try-at-sepaq-parks-this-summer"
-    },
-    {
-      "text": "  Here's how you and the kids can have a busy and happy summer vacation   The school-year routine makes our children feel secure. But when summer vacation arrives, the entire family must readapt.  ",
-      "url": "/opinion/columnists/heres-how-you-and-the-kids-can-have-a-busy-and-happy-summer-vacation"
-    },
-    {
-      "text": "  Columnists  ",
-      "url": "/category/columnists/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/columnists/heres-how-you-and-the-kids-can-have-a-busy-and-happy-summer-vacation"
     },
     {
       "text": " More life stories > ",
@@ -2735,44 +2987,44 @@
       "url": "/category/driving-ca/"
     },
     {
-      "text": "  News Roundup: A Canadian bomb-proof Toyota, and a Porsche-powered VW van   Plus: video footage of a 15-year-old off-roader flipping a Jeep off a cliff\u2014don't worry, it ends well  ",
-      "url": "https://driving.ca/auto-news/crashes/news-roundup-a-canadian-bomb-proof-toyota-and-a-porsche-powered-vw-van"
+      "text": "  Planned closure of Queensway delayed due to ongoing labour disruptions   A planned closure of the Queensway for a bridge replacement has been postponed.  ",
+      "url": "https://driving.ca/auto-news/local-content/planned-closure-of-queensway-delayed-due-to-ongoing-labour-disruptions"
     },
     {
       "text": "         ",
-      "url": "https://driving.ca/auto-news/crashes/news-roundup-a-canadian-bomb-proof-toyota-and-a-porsche-powered-vw-van"
+      "url": "https://driving.ca/auto-news/local-content/planned-closure-of-queensway-delayed-due-to-ongoing-labour-disruptions"
     },
     {
-      "text": "  I'd rather watch Nissans race than Ferraris\u2014here's why   The Nissan Sentra Cup was one of the highlights of the Canadian Grand Prix weekend in Montreal, and it's for a good reason  ",
-      "url": "https://driving.ca/auto-news/local-content/id-rather-watch-nissans-race-than-ferraris-heres-why"
-    },
-    {
-      "text": "         ",
-      "url": "https://driving.ca/auto-news/local-content/id-rather-watch-nissans-race-than-ferraris-heres-why"
-    },
-    {
-      "text": "  Collector Classics: 1962 Chevrolet Corvette convertible   It was a leap of faith that couples sometimes need to make. He saw a big withdrawal from their joint savings account. She would only say it was a good investment and he needed to trust her judgment. She added that their financial advisor was in favour of the expense.  ",
-      "url": "https://driving.ca/column/collector-classics/collector-classics-1962-chevrolet-corvette-convertible"
+      "text": "  Roe v. HOV: Pregnant Texas woman claims fetus counts as passenger   If a fetus is conferred legal protections as a human being, then that human is also a passenger, right?  ",
+      "url": "https://driving.ca/auto-news/crashes/hov-lane-pregnant-texas-woman-claims-her-fetus-counts-as-passenger"
     },
     {
       "text": "         ",
-      "url": "https://driving.ca/column/collector-classics/collector-classics-1962-chevrolet-corvette-convertible"
+      "url": "https://driving.ca/auto-news/crashes/hov-lane-pregnant-texas-woman-claims-her-fetus-counts-as-passenger"
     },
     {
-      "text": "  2023 Toyota Crown teaser hints at sedan-style SUV   The patent images being passed around now seem legit, with the new SUV to be properly revealed on July 15  ",
-      "url": "https://driving.ca/auto-news/news/2023-toyota-crown-teaser-hints-at-sedan-style-suv"
-    },
-    {
-      "text": "         ",
-      "url": "https://driving.ca/auto-news/news/2023-toyota-crown-teaser-hints-at-sedan-style-suv"
-    },
-    {
-      "text": "  GMC announces 2023 Sierra 1500 AT4X AEV Edition   Factory-installed heavy-duty parts will make it the most capable off-road Sierra yet  ",
-      "url": "https://driving.ca/auto-news/news/gmc-announces-2023-sierra-1500-at4x-aev-edition"
+      "text": "  BMW charges monthly fee for adaptive headlights in South Korea   Billing for items like adaptive cruise control doesn\u2019t make any cents, but it's likely to make Bimmer plenty of dollars  ",
+      "url": "https://driving.ca/auto-news/news/bmw-charges-monthly-subscription-fees-for-headlights-in-south-korea"
     },
     {
       "text": "         ",
-      "url": "https://driving.ca/auto-news/news/gmc-announces-2023-sierra-1500-at4x-aev-edition"
+      "url": "https://driving.ca/auto-news/news/bmw-charges-monthly-subscription-fees-for-headlights-in-south-korea"
+    },
+    {
+      "text": "  Florida police will ticket if your car's stereo can be heard from outside   Like to play the music in your vehicle loud? You might want to stay away from Florida  ",
+      "url": "https://driving.ca/auto-news/crashes/florida-police-will-ticket-if-your-cars-stereo-can-be-heard-from-outside"
+    },
+    {
+      "text": "         ",
+      "url": "https://driving.ca/auto-news/crashes/florida-police-will-ticket-if-your-cars-stereo-can-be-heard-from-outside"
+    },
+    {
+      "text": "  Waymo autonomous vehicle attacked by Arizona pedestrian\u00a0   The safety driver suffered minor injuries when the suspect jumped on the hood and smashed the windshield  ",
+      "url": "https://driving.ca/auto-news/crashes/waymo-autonomous-vehicle-attacked-by-arizona-pedestrian"
+    },
+    {
+      "text": "         ",
+      "url": "https://driving.ca/auto-news/crashes/waymo-autonomous-vehicle-attacked-by-arizona-pedestrian"
     },
     {
       "text": " More driving stories > ",
@@ -2783,44 +3035,44 @@
       "url": "/category/healthing/"
     },
     {
+      "text": "  Does mindfulness meditation really reduce pain?   Participants taught to meditate before experiencing painful stimuli reported a 33% drop in pain unpleasantness and 32% reduction in intensity.  ",
+      "url": "https://www.healthing.ca/wellness/does-mindfulness-meditation-really-reduce-pain"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/wellness/does-mindfulness-meditation-really-reduce-pain"
+    },
+    {
+      "text": "  What are the signs of Magnesium deficiency?   More than one-third of Canadian adults aren't getting enough magnesium.  ",
+      "url": "https://www.healthing.ca/wellness/know-the-signs/what-is-magnesium-deficiency"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/wellness/know-the-signs/what-is-magnesium-deficiency"
+    },
+    {
+      "text": "  Parkour: Is this workout worth it?   Parkour combines cardiovascular endurance, strength training, balance and a quest for creativity that isn't seen in many other workouts \u2014 as long as you avoid falling from heights and slamming into the concrete.  ",
+      "url": "https://www.healthing.ca/wellness/fitness/parkour-is-this-workout-worth-it"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/wellness/fitness/parkour-is-this-workout-worth-it"
+    },
+    {
+      "text": "  Healthy Eating: Almonds, the favourite super food with a poisonous cousin   Eating sweet almonds is linked to a lower risk of developing obesity, coronary heart disease and cardiovascular disease. Bitter almonds, however, contain glycoside amygdalin \u2014 which is poisonous to humans.  ",
+      "url": "https://www.healthing.ca/wellness/food/healthy-eating-almonds"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/wellness/food/healthy-eating-almonds"
+    },
+    {
       "text": "  'ALS will be a treatable chronic disease': New treatment slows disease progression and increases life expectancy   McGill University's Dr. Angela Genge is optimistic about what the future holds for amyotrophic lateral sclerosis care: \"Every step gives our patients more time, better function for longer, better care every year.\"  ",
       "url": "https://www.healthing.ca/diseases-and-conditions/amyotrophic-lateral-sclerosis/als-amx0035albrioza-lou-gehrigs-treatment"
     },
     {
       "text": "         ",
       "url": "https://www.healthing.ca/diseases-and-conditions/amyotrophic-lateral-sclerosis/als-amx0035albrioza-lou-gehrigs-treatment"
-    },
-    {
-      "text": "  Asking For A Friend: Are essential oils worth the hype?   The oils from plants offer natural healing and cleansing benefits, but they can also be dangerous.  ",
-      "url": "https://www.healthing.ca/wellness/asking-for-a-friend-are-essential-oils-worth-the-hype"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.healthing.ca/wellness/asking-for-a-friend-are-essential-oils-worth-the-hype"
-    },
-    {
-      "text": "  Our friends may be our friends because of the way they smell   When it comes to judging other people on their body odour, we may be more like other mammals than we realize, according to a new study.  ",
-      "url": "https://www.healthing.ca/wellness/friendships-sense-smell-body-odour"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.healthing.ca/wellness/friendships-sense-smell-body-odour"
-    },
-    {
-      "text": "  TikTok Tuesday: #healthycoke \u2014 a trend that\u2019s not so healthy for your teeth (WATCH)   It may be low in sugar, but carbonated water mixed with vinegar is a terrible choice for your teeth.  ",
-      "url": "https://www.healthing.ca/wellness/food/tiktok-tuesday-healthy-coke-not-so-healthy-for-your-teeth"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.healthing.ca/wellness/food/tiktok-tuesday-healthy-coke-not-so-healthy-for-your-teeth"
-    },
-    {
-      "text": "  Putting our phones on silent mode only makes them more tempting, study says   Blame FOMO for how hard it can be for us to stop looking at our phones all the time.  ",
-      "url": "https://www.healthing.ca/wellness/phones-silent-mode-fomo"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.healthing.ca/wellness/phones-silent-mode-fomo"
     },
     {
       "text": " More healthing stories > ",
@@ -2831,6 +3083,14 @@
       "url": "/category/thegrowthop/"
     },
     {
+      "text": "  Cannabis grow busted after mall shoppers smell something amiss   Large-scale grow was concealed above a business, with the smell wafting into a shopping centre  ",
+      "url": "https://www.thegrowthop.com/wtf/cannabis-grow-busted-after-mall-shoppers-smell-something-amiss"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.thegrowthop.com/wtf/cannabis-grow-busted-after-mall-shoppers-smell-something-amiss"
+    },
+    {
       "text": "  Ontario police seize cannabis worth $61 million   Estimated 45,000-plus illegal pot plants and eight metric tonnes of processed weed confiscated.  ",
       "url": "https://www.thegrowthop.com/cannabis-news/raided-cannabis-grow-op-in-ontario-reveals-weed-equipment-and-property-valued-at-61m"
     },
@@ -2839,36 +3099,28 @@
       "url": "https://www.thegrowthop.com/cannabis-news/raided-cannabis-grow-op-in-ontario-reveals-weed-equipment-and-property-valued-at-61m"
     },
     {
+      "text": "  Brittney Griner in the spotlight during WNBA All-Star game   \u201cWe are not going to stop until everyone understands how serious this really is.\u201d  ",
+      "url": "https://www.thegrowthop.com/cannabis-sports/brittney-griner-in-the-spotlight-during-wnba-all-star-game"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.thegrowthop.com/cannabis-sports/brittney-griner-in-the-spotlight-during-wnba-all-star-game"
+    },
+    {
+      "text": "  Maine man leaving Massachusetts court nabbed for SUV full of cannabis   43-year-old man in court on vehicle and marijuana charges in late June returned to same court later that day for same offences  ",
+      "url": "https://www.thegrowthop.com/cannabis-news/maine-man-leaving-massachusetts-court-nabbed-for-suv-full-of-cannabis"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.thegrowthop.com/cannabis-news/maine-man-leaving-massachusetts-court-nabbed-for-suv-full-of-cannabis"
+    },
+    {
       "text": "  Joe Rogan responds to border drug seizure: \u2018You should take all these drugs and rethink your life\u2019   Border agents seized small amounts of ecstasy, cannabis and psilocybin mushrooms from a vehicle entering New York.  ",
       "url": "https://www.thegrowthop.com/cannabis-news/celebs/joe-rogan-responds-to-border-drug-seizure-you-should-take-all-these-drugs-and-rethink-your-life"
     },
     {
       "text": "         ",
       "url": "https://www.thegrowthop.com/cannabis-news/celebs/joe-rogan-responds-to-border-drug-seizure-you-should-take-all-these-drugs-and-rethink-your-life"
-    },
-    {
-      "text": "  One of Canada's biggest universities will have a pot store on campus   The planned store would represent the pot company Burb's eighth and final one allowed in the province under its retail cap.  ",
-      "url": "https://www.thegrowthop.com/cannabis-news/burb-cannabis-greenlit-for-cannabis-store-near-ubc"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.thegrowthop.com/cannabis-news/burb-cannabis-greenlit-for-cannabis-store-near-ubc"
-    },
-    {
-      "text": "  Ontario casinos laundered $3 million in illegal cannabis proceeds: RCMP   Weed worth approx. $24.8 million confiscated.  ",
-      "url": "https://www.thegrowthop.com/cannabis-news/ontario-casinos-laundered-3-million-in-illegal-cannabis-proceeds-rcmp"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.thegrowthop.com/cannabis-news/ontario-casinos-laundered-3-million-in-illegal-cannabis-proceeds-rcmp"
-    },
-    {
-      "text": "  Man's ploy to flush over 20 kilograms of cannabis down the toilet leads him straight to jail   Officers also found 21 kilograms of weed, additional bags of prepackaged marijuana, a handgun and over $16K in cash.  ",
-      "url": "https://www.thegrowthop.com/cannabis-news/georgia-police-plug-mans-ill-fated-bid-to-flush-cannabis-down-the-toilet"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.thegrowthop.com/cannabis-news/georgia-police-plug-mans-ill-fated-bid-to-flush-cannabis-down-the-toilet"
     },
     {
       "text": " More the growthop stories > ",
@@ -2992,7 +3244,7 @@
     }
   ],
   "server": "ia802507.us.archive.org",
-  "uniq": 2048063931,
+  "uniq": 893160459,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

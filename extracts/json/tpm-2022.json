@@ -1,5 +1,5 @@
 {
-  "created": 1657455588,
+  "created": 1657628688,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/tpm-2022",
@@ -520,31 +520,199 @@
       "sha1": "9ee2cdc73c528456e603e69de313a0bdb6b4b496"
     },
     {
+      "name": "tpm-2022-07-10T10:47:29.576827-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464454",
+      "size": "39492",
+      "md5": "af46bd449202dfb60696f7109772427f",
+      "crc32": "f25117c6",
+      "sha1": "ce984feb53021c6cee4dfd1c18e231aed8d8e4c1",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-07-10T10:47:29.576827-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464456",
+      "size": "20005",
+      "md5": "20e730169339af0f1889319ab999b613",
+      "crc32": "72b5b5c4",
+      "sha1": "e8a01796af04415c38fc558db165d14c6adec3a3",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-07-10T10:47:29.576827-04:00.jpg",
+      "source": "original",
+      "mtime": "1657464452",
+      "size": "314602",
+      "md5": "6e58f748053f1ae7ec9ca66d092b0c0d",
+      "crc32": "801002ae",
+      "sha1": "c4d0df0fb25ed6833af294130583de7c99a0da13",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tpm-2022-07-10T10:47:29.576827-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tpm-2022-07-10T10:47:29.576827-04:00.jpg",
+      "mtime": "1657464505",
+      "size": "10023",
+      "md5": "83c77d8990f54ee1c6b69baf12593d15",
+      "crc32": "88f1d471",
+      "sha1": "3cfec661d7d63264ecd286a9f1af206c527e1f7c"
+    },
+    {
+      "name": "tpm-2022-07-10T23:24:52.451352-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657509895",
+      "size": "39654",
+      "md5": "4949b8a7a17caea3c7578c59fafb962c",
+      "crc32": "96ce66b3",
+      "sha1": "c3a4258e402b4fd159dc8b977ec7f5783cbb3c39",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-07-10T23:24:52.451352-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657509897",
+      "size": "18970",
+      "md5": "3fb4c853a4058351917b0af2ea4afc91",
+      "crc32": "d57c4706",
+      "sha1": "26c9aa32bfd2700a01e792c815e14cec24e99de5",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-07-10T23:24:52.451352-04:00.jpg",
+      "source": "original",
+      "mtime": "1657509894",
+      "size": "349622",
+      "md5": "f7443ae5de3f451957d206fb818bb5ac",
+      "crc32": "f686ae1f",
+      "sha1": "6add7b8a17368c950b33c078eaaaee9690dbdc39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tpm-2022-07-10T23:24:52.451352-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tpm-2022-07-10T23:24:52.451352-04:00.jpg",
+      "mtime": "1657509944",
+      "size": "10348",
+      "md5": "e36eb59e199e633222911d87955eb118",
+      "crc32": "74346ad9",
+      "sha1": "9aa692f88f7a9a7ccebb48739f66e318b9f2b502"
+    },
+    {
+      "name": "tpm-2022-07-11T14:22:36.311955-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563767",
+      "size": "38345",
+      "md5": "b3bd06466eee32b89ce66d433e0be95a",
+      "crc32": "1faacf42",
+      "sha1": "8d8c805907cd7aa56c562183c912048105ee016a",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-07-11T14:22:36.311955-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563772",
+      "size": "21339",
+      "md5": "483d39ee00618bccdebb88fa2d4bcf57",
+      "crc32": "aa41641c",
+      "sha1": "4fc3029af9419939d1399fba476e9b16204f4005",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-07-11T14:22:36.311955-04:00.jpg",
+      "source": "original",
+      "mtime": "1657563762",
+      "size": "329844",
+      "md5": "f0133b90c8fae09e421ba143c0eec41c",
+      "crc32": "a2b3dbb0",
+      "sha1": "3f9cf3e29f251b4a85dcd507eb8847510fe00d53",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tpm-2022-07-11T14:22:36.311955-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tpm-2022-07-11T14:22:36.311955-04:00.jpg",
+      "mtime": "1657564083",
+      "size": "10206",
+      "md5": "1b4cf013f06072f2d0e40b40f6599fbc",
+      "crc32": "6787067c",
+      "sha1": "671379c95aa7130a5ccd8fb9e3c6e54902c9fe14"
+    },
+    {
+      "name": "tpm-2022-07-11T23:27:48.240279-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657596471",
+      "size": "38494",
+      "md5": "7442e20d018667766d2ae5cbee9c43bf",
+      "crc32": "d8165b58",
+      "sha1": "45029e02afb230ef9fd056ea234b53e85bc4c277",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-07-11T23:27:48.240279-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657596473",
+      "size": "21665",
+      "md5": "02b415740ec5266d9b159a32ab7d71f7",
+      "crc32": "27641cb4",
+      "sha1": "2010319526f747ee0bb8ad894af937df77255b55",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-07-11T23:27:48.240279-04:00.jpg",
+      "source": "original",
+      "mtime": "1657596470",
+      "size": "307615",
+      "md5": "8220b1a0d13a4ba2409023dc7fde9106",
+      "crc32": "fe124100",
+      "sha1": "ecafe37bdcaa8e76bb6f7b1e4b4c1e2524d85c44",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tpm-2022-07-11T23:27:48.240279-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tpm-2022-07-11T23:27:48.240279-04:00.jpg",
+      "mtime": "1657596564",
+      "size": "10276",
+      "md5": "56aaa8461a505e290189fc66ec192da8",
+      "crc32": "305f86aa",
+      "sha1": "9f4e9c78cf7b2defc44b12fa15298631d17a3293"
+    },
+    {
       "name": "tpm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cea7be229db067bb58381b321fc033fa02b82738",
-      "mtime": "1657423602",
-      "size": "11472",
-      "md5": "bcb38eb2c3fd39b7d32785fbe086babc",
-      "crc32": "928fc01e",
-      "sha1": "7bac1e1cf8857b3505ea519350571e1c02d8ced7",
+      "btih": "fb36f61ab9fdd098c0d4860ea02c6ac33a6e778a",
+      "mtime": "1657596579",
+      "size": "14772",
+      "md5": "4bce6931929bccad5970fa988b7bbbab",
+      "crc32": "3da51243",
+      "sha1": "2754c313f9830b0b899a84bd92026df1679ebc27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tpm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6bc27822de9a1c1df55ce19f38dbce17",
+      "md5": "0b34ca907051f80a67938a796f391071",
       "summation": "md5"
     },
     {
       "name": "tpm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423556",
-      "size": "69632",
-      "md5": "37b9314ea3e9fa0958b45d3050d7b552",
-      "crc32": "7703a4c5",
-      "sha1": "1960ffb12e2884924106b1ed723300c987f79434",
+      "mtime": "1657596476",
+      "size": "86016",
+      "md5": "0e1a29f6780ddb487ad9609f521495a5",
+      "crc32": "e40bdfac",
+      "sha1": "5666e9056fc6e28f11cbce3dcc85661dae7da0f2",
       "format": "Metadata"
     },
     {
@@ -558,9 +726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 53,
-  "item_last_updated": 1657423602,
-  "item_size": 4752941,
+  "files_count": 69,
+  "item_last_updated": 1657596579,
+  "item_size": 6353125,
   "metadata": {
     "identifier": "tpm-2022",
     "collection": [
@@ -577,7 +745,7 @@
     "publicdate": "2022-07-04 21:46:53",
     "addeddate": "2022-07-04 21:46:53"
   },
-  "server": "ia902505.us.archive.org",
+  "server": "ia802505.us.archive.org",
   "tpm-2022": [
     {
       "text": "\n              Editors' Blog\n               / \n              Analysis & Opinion\n            ",
@@ -696,6 +864,58 @@
       "url": "https://talkingpointsmemo.com/memberships?utm_source=on_site&utm_medium=header_button_member&utm_campaign=on_site_membership_links"
     },
     {
+      "text": "Beware Of The \u2018Recent Monticello Visitor\u2019",
+      "url": "https://talkingpointsmemo.com/edblog/jeffrey-tucker-monticello-fox-news"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://talkingpointsmemo.com/edblog/jeffrey-tucker-monticello-fox-news"
+    },
+    {
+      "text": "David Kurtz",
+      "url": "https://talkingpointsmemo.com/author/david_kurtz"
+    },
+    {
+      "text": "\n\t\t\t\t\tRead More\u00a0\n\t\t\t\t",
+      "url": "https://talkingpointsmemo.com/edblog/jeffrey-tucker-monticello-fox-news"
+    },
+    {
+      "text": "Where Things Stand: Abortion May Be Directly On The Ballot In Michigan This Fall Too",
+      "url": "https://talkingpointsmemo.com/edblog/abortion-ballot-michigan-november-signatures"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://talkingpointsmemo.com/edblog/abortion-ballot-michigan-november-signatures"
+    },
+    {
+      "text": "Nicole Lafond",
+      "url": "https://talkingpointsmemo.com/author/nicole_lafond"
+    },
+    {
+      "text": "double the signatures necessary",
+      "url": "https://www.cbsnews.com/news/abortion-rights-michigan-advances-petition-hundreds-of-thousand-signatures/"
+    },
+    {
+      "text": "\n\t\t\t\t\tRead More\u00a0\n\t\t\t\t",
+      "url": "https://talkingpointsmemo.com/edblog/abortion-ballot-michigan-november-signatures"
+    },
+    {
+      "text": "The Rule of Law Requires Constraining a Corrupted High Court",
+      "url": "https://talkingpointsmemo.com/edblog/the-rule-of-law-requires-constraining-a-corrupted-high-court"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://talkingpointsmemo.com/edblog/the-rule-of-law-requires-constraining-a-corrupted-high-court"
+    },
+    {
+      "text": "Josh Marshall",
+      "url": "https://talkingpointsmemo.com/author/josh_m"
+    },
+    {
+      "text": "\n\t\t\t\t\tRead More\u00a0\n\t\t\t\t",
+      "url": "https://talkingpointsmemo.com/edblog/the-rule-of-law-requires-constraining-a-corrupted-high-court"
+    },
+    {
       "text": "Is It All Up to the King?",
       "url": "https://talkingpointsmemo.com/edblog/is-it-all-up-to-the-king"
     },
@@ -740,7 +960,7 @@
       "url": "https://talkingpointsmemo.com/author/josh_m"
     },
     {
-      "text": "\n\t\t\t\t\tRead More\u00a0\n\t\t\t\t",
+      "text": "\n\t\t\t\t\tREAD MORE\u00a0\n\t\t\t\t",
       "url": "https://talkingpointsmemo.com/edblog/purely-a-political-battle-not-a-legal-one"
     },
     {
@@ -760,7 +980,7 @@
       "url": "https://drive.google.com/file/d/10zvLU35d47Y9DYmG0vFZzI7tJAlACXYg/view"
     },
     {
-      "text": "\n\t\t\t\t\tRead More\u00a0\n\t\t\t\t",
+      "text": "\n\t\t\t\t\tREAD MORE\u00a0\n\t\t\t\t",
       "url": "https://talkingpointsmemo.com/edblog/where-things-stand-colorado-guv-takes-safe-haven-efforts-a-step-further"
     },
     {
@@ -780,84 +1000,52 @@
       "url": "https://talkingpointsmemo.com/news/feinstein-filibuster-abortion"
     },
     {
-      "text": "Dianne Full On Team Cagey!",
-      "url": "https://talkingpointsmemo.com/edblog/dianne-full-on-team-cagey"
+      "text": "Trump And Co. Seize On Wisconsin Ruling As PROOF 2020 Election Was Rigged",
+      "url": "https://talkingpointsmemo.com/news/donald-trump-wisconsin-ballot-box-ruling-2020-election-rigged-decertify"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/edblog/dianne-full-on-team-cagey"
+      "url": "https://talkingpointsmemo.com/news/donald-trump-wisconsin-ballot-box-ruling-2020-election-rigged-decertify"
     },
     {
-      "text": "Josh Marshall",
-      "url": "https://talkingpointsmemo.com/author/josh_m"
-    },
-    {
-      "text": "mentioned this yesterday",
-      "url": "https://talkingpointsmemo.com/edblog/feinsteins-clearly-a-problem"
-    },
-    {
-      "text": "\n\t\t\t\t\tREAD MORE\u00a0\n\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/edblog/dianne-full-on-team-cagey"
-    },
-    {
-      "text": "Don\u2019t Miss",
-      "url": "https://talkingpointsmemo.com/edblog/dont-miss-3"
-    },
-    {
-      "text": "Josh Marshall",
-      "url": "https://talkingpointsmemo.com/author/josh_m"
-    },
-    {
-      "text": "piece",
-      "url": "https://talkingpointsmemo.com/news/kansas-republicans-abortion-primary-vote"
-    },
-    {
-      "text": "rundown of high levels of opposition",
-      "url": "https://talkingpointsmemo.com/edblog/states-scrambling-ban-abortion-majority-dont-agree-scotus-roe-texas-kansas"
-    },
-    {
-      "text": "Frustrated? Join the Club?",
-      "url": "https://talkingpointsmemo.com/edblog/frustrated-join-the-club"
-    },
-    {
-      "text": "Josh Marshall",
-      "url": "https://talkingpointsmemo.com/author/josh_m"
-    },
-    {
-      "text": "\n\t\t\t\t\tREAD MORE\u00a0\n\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/edblog/frustrated-join-the-club"
-    },
-    {
-      "text": "IRS Asks IG To Investigate Fishy Comey And McCabe Audits",
-      "url": "https://talkingpointsmemo.com/news/irs-investigation-rare-tax-audit-comey-mccabe"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/news/irs-investigation-rare-tax-audit-comey-mccabe"
+      "text": "READ MORE",
+      "url": "https://talkingpointsmemo.com/news/donald-trump-wisconsin-ballot-box-ruling-2020-election-rigged-decertify"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/morning-memo/herschel-walker-campaign-staffers-lie"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMorning Memo\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/morning-memo"
-    },
-    {
-      "text": "Herschel Walker\u2019s Own Campaign Staffers Complain He Repeatedly Lies To Them",
-      "url": "https://talkingpointsmemo.com/morning-memo/herschel-walker-campaign-staffers-lie"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/news/kentucky-governor-beshear-biden-withdraw-meredith-nomination"
+      "url": "https://talkingpointsmemo.com/news/barr-subpoena-dominion-defamation-lawsuit-fox-news"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNews\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://talkingpointsmemo.com/news"
     },
     {
-      "text": "Kentucky Guv\u00a0Demands Biden Ditch Anti-Abortion Judicial Nominee",
-      "url": "https://talkingpointsmemo.com/news/kentucky-governor-beshear-biden-withdraw-meredith-nomination"
+      "text": "Barr Subpoenaed In Dominion\u2019s Defamation Lawsuit Against Fox News",
+      "url": "https://talkingpointsmemo.com/news/barr-subpoena-dominion-defamation-lawsuit-fox-news"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPrime\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://talkingpointsmemo.com/prime"
+    },
+    {
+      "text": "Why TrumpWorld Has Started Flinging Itself At The Jan. 6 Committee",
+      "url": "https://talkingpointsmemo.com/prime/why-trumpworld-has-started-flinging-itself-at-the-jan-6-committee"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNews\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://talkingpointsmemo.com/news"
+    },
+    {
+      "text": "HHS: Hospitals Must Offer Abortion If Pregnant Person\u2019s Life Is At Risk",
+      "url": "https://talkingpointsmemo.com/news/hhs-hospitals-abortion-pregnant-person-life-endangered"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNews\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://talkingpointsmemo.com/news"
+    },
+    {
+      "text": "Texas GOPers Threaten Law Firm For Funding Employees\u2019 Abortion Travel",
+      "url": "https://talkingpointsmemo.com/news/texas-republicans-threaten-sidley-austin-pay-abortion-travel"
     },
     {
       "text": "CONTRIBUTE",
@@ -885,99 +1073,99 @@
     },
     {
       "text": "BECOME A MEMBER",
-      "url": "https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsstLqWGdA60DAvOxVfgYVA2U3BFsKk81O_l357JyYsm6yz42iba7eIyspIk9wSaIWNlTNTFXoP4tFMdDATgGMuJhV_JzORJK-Lc4sENO3IkU7o1C0pbm-_QcdiyoxKnbj1VZ7n3ojyGgiD4_zqTDobyPqw5_LHamSvzWsm__Rs4CEfgM-afZhXC-9o9oL2MAoEgWAmdZ1gNdh3Iz68j9mijGXZ4TjhuODaSHvTivp4JBdJIQEUrZ5Te7bWnBTCGuD7hiyDgnMCqQdYzX9lfgSPJ_Ju3dO-Lo3x8Yk3or4o4VjLKVhMTSJMaozkQ0pNfFWzXMQ%2526sig%253DCg0ArKJSzIzrFvJ-7dalEAE%2526fbs_aeid%253D%255Bgw_fbsaeid%255D%2526urlfix%253D1%2526adurl%253Dhttps://talkingpointsmemo.com/memberships?utm_source=on_site&utm_medium=house_ad_auxlarge_KS&utm_campaign=why_tpm"
+      "url": "https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssg5BoEpfDV9aM95zwVkL0XORMac4OyoZTs-VjB_Ek1e1aQLmuBsYfhz103JA3jjLFoLUObkFf3Nf8_QczUrjpFSFsQaUVDirVlOA2p-gusIyDb6UuQ0ZVvhVFHXBskqC-zEK9QrYAollwxiWqO72rCOrWVxRQP8EbQ4gxAdfDwe0HppnUIpjap--1ho20bU8cKwP2G4AbvOy1nDtU0h1pkYMHtwHuXj6s_6yg-EjzRKMy7iLRpItBTMdlJaBNy-f_tK8PSyDc_YiFKEMkmKq5EQFkveUyXpEwUEyLOVWmKMcIXDZLpi4Lr7vcmTIeStI0U2A%2526sig%253DCg0ArKJSzMQQaiEcv4WDEAE%2526fbs_aeid%253D%255Bgw_fbsaeid%255D%2526urlfix%253D1%2526adurl%253Dhttps://talkingpointsmemo.com/memberships?utm_source=on_site&utm_medium=house_ad_auxlarge_MK&utm_campaign=why_tpm"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/newsletter/tpms-the-weekender-2017-again-roe-abortion-kansas-primaries"
+      "url": "https://talkingpointsmemo.com/newsletter/the-franchise-wisconsin-ballot-drop-boxes-supreme-court-independent-state-legislature"
     },
     {
-      "text": "TPM\u2019s The Weekender: 2017 Again",
-      "url": "https://talkingpointsmemo.com/newsletter/tpms-the-weekender-2017-again-roe-abortion-kansas-primaries"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/cafe/tpm-josh-kovensky-5-books-that-get-me-unstuck-bookshop"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCafe\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/cafe"
-    },
-    {
-      "text": "TPM Investigative Reporter Josh Kovensky: 5 Books That Get Me Unstuck",
-      "url": "https://talkingpointsmemo.com/cafe/tpm-josh-kovensky-5-books-that-get-me-unstuck-bookshop"
+      "text": "The Franchise: Ballot Drop Boxes Are Now Illegal In Wisconsin",
+      "url": "https://talkingpointsmemo.com/newsletter/the-franchise-wisconsin-ballot-drop-boxes-supreme-court-independent-state-legislature"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/news/republicans-trump-fake-electors-justice-department"
+      "url": "https://talkingpointsmemo.com/news/parkland-father-white-house-event-gun-law-biden"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNews\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://talkingpointsmemo.com/news"
     },
     {
-      "text": "Report: GOPers Tied To Fake Elector Scheme Set To Turn Over Info To DOJ As Soon As This Week",
-      "url": "https://talkingpointsmemo.com/news/republicans-trump-fake-electors-justice-department"
+      "text": "Father Of Parkland Victim Interrupts WH Event On New Gun Law. Biden: \u2018Let Him Talk\u2019",
+      "url": "https://talkingpointsmemo.com/news/parkland-father-white-house-event-gun-law-biden"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/news/casey-abortion-filibuster"
+      "url": "https://talkingpointsmemo.com/news/republican-miller-drug-bust-border-biden-terrorist-attack"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNews\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://talkingpointsmemo.com/news"
     },
     {
-      "text": "Casey Supports Reforming Filibuster To Pass Abortion Protections",
-      "url": "https://talkingpointsmemo.com/news/casey-abortion-filibuster"
+      "text": "GOPer Cites Successful Drug Bust At Border As Proof Biden Allows Drugs To Enter US",
+      "url": "https://talkingpointsmemo.com/news/republican-miller-drug-bust-border-biden-terrorist-attack"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/news/feinstein-filibuster-abortion"
+      "url": "https://talkingpointsmemo.com/news/right-wing-think-tank-family-research-council-church-irs-tony-perkins"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNews\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://talkingpointsmemo.com/news"
     },
     {
-      "text": "Feinstein Says She Will Vote For Filibuster Reform To Pass Abortion Protections",
-      "url": "https://talkingpointsmemo.com/news/feinstein-filibuster-abortion"
+      "text": "Right-Wing Think Tank Family Research Council Is Now A Church In Eyes Of The IRS",
+      "url": "https://talkingpointsmemo.com/news/right-wing-think-tank-family-research-council-church-irs-tony-perkins"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/news/gop-candidate-michigan-governor-kelley-pleads-not-guilty-january-6-charges"
+      "url": "https://talkingpointsmemo.com/morning-memo/doj-bannon-criminal-contempt-trial"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMorning Memo\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://talkingpointsmemo.com/morning-memo"
+    },
+    {
+      "text": "DOJ Scoffs At Bannon\u2019s Last-Ditch Effort To Head Off Contempt Trial",
+      "url": "https://talkingpointsmemo.com/morning-memo/doj-bannon-criminal-contempt-trial"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://talkingpointsmemo.com/news/raskin-january-6-committee-tuesday-hearing-december-18-meeting"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNews\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://talkingpointsmemo.com/news"
     },
     {
-      "text": "GOP Candidate For Michigan Guv Pleads Not Guilty To Jan 6-Related Charges",
-      "url": "https://talkingpointsmemo.com/news/gop-candidate-michigan-governor-kelley-pleads-not-guilty-january-6-charges"
+      "text": "Raskin: Jan. 6 Panel\u2019s Next Hearing Will Focus On Infamous Dec. 18 WH Meeting",
+      "url": "https://talkingpointsmemo.com/news/raskin-january-6-committee-tuesday-hearing-december-18-meeting"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/news/mass-shooting-july-4-prevented-tip-police"
+      "url": "https://talkingpointsmemo.com/news/bannon-january-6-committee-public-testimony-trump-waive-executive-privilege"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNews\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://talkingpointsmemo.com/news"
     },
     {
-      "text": "Potential Mass Shooting On July 4 Prevented By Tipster, Police Say",
-      "url": "https://talkingpointsmemo.com/news/mass-shooting-july-4-prevented-tip-police"
+      "text": "Bannon Says He\u2019s Open To Testifying Before Jan. 6 Panel After Trump Waives Privilege Claims",
+      "url": "https://talkingpointsmemo.com/news/bannon-january-6-committee-public-testimony-trump-waive-executive-privilege"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://talkingpointsmemo.com/news/gop-debbie-lesko-shoot-grandkids"
+      "url": "https://talkingpointsmemo.com/news/lofgren-oath-keepers-leader-testify-justice-department-allegations"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNews\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://talkingpointsmemo.com/news"
     },
     {
-      "text": "GOP Rep. Lesko Tries To Clean Up That Weird Remark About Shooting Her Grandkids",
-      "url": "https://talkingpointsmemo.com/news/gop-debbie-lesko-shoot-grandkids"
+      "text": "Lofgren Dismisses Oath Keepers Leader\u2019s Offer To Testify As DOJ Issues New Allegations",
+      "url": "https://talkingpointsmemo.com/news/lofgren-oath-keepers-leader-testify-justice-department-allegations"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -1145,16 +1333,16 @@
     },
     {
       "text": "BECOME A MEMBER",
-      "url": "https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsupyjt6qHJvWx-65XB2hco4zekOrk09F_Ub8gwJPfWPs5Q926hxjRmZnbLgyzyig3Bmax0X0We14nSW0o3F-_Em4pmQgHZljsAaPopVWXhP4irDVeOPUto3F7Je1aC-_dth5X-uIqeSnSrEl-k0MttXTE407SnSIFgHBRUkSRRTrFEBB5wnYZrh6HH7yBjgeMQVH95fQAUG0ljn-ZDuO_UNoRSKbAGrCRF6Q7kFTUGTqyGtTJXgaZhKZcOKrFNk3rn8nS2SKuqbrYy_b0hWdcDHQekaIgVjzEHjmmjx9goZnTVukG8fK6pNjQLwaBSCfr0xoKl6hA%2526sig%253DCg0ArKJSzGBtHUvyHUuCEAE%2526fbs_aeid%253D%255Bgw_fbsaeid%255D%2526urlfix%253D1%2526adurl%253Dhttps://talkingpointsmemo.com/memberships?utm_source=on_site&utm_medium=house_ad_modal_GF&utm_campaign=why_tpm"
+      "url": "https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsuTxlDOqfB4n3GKrkufO_wM8VygIkgTZHPD1q2oD2O2tZ02fOA7VQr69PXdNdRQ4p0y2Goo4cnGQm5dNjF9XuFnPk74LboTPZiCS7u87HdLw_tC7_WFHLvTnQv-sUhgtvCRYdQFSFAt4yw3UuNgVSmAvwPHIlnME8JJ3FzM-qdZ76exL4pXAUxEBLxZbS5tX7jI2JVA5Sx82dvzDvX_nt2JFc0LrxzZdUgRI2Wl5Gv0ZW-en_0pCK4yoZIt8BNqjJiAK3Tr3BjFhx3_wsJ5yLaD0RrpxCEFkcMxaY-Tqu6W5KjqAdbbY3S94Vlxys73xMEf2YjM0g%2526sig%253DCg0ArKJSzJZC7SHqqRqqEAE%2526fbs_aeid%253D%255Bgw_fbsaeid%255D%2526urlfix%253D1%2526adurl%253Dhttps://talkingpointsmemo.com/memberships?utm_source=on_site&utm_medium=house_ad_modal_SH&utm_campaign=why_tpm"
     },
     {
       "text": "SIGN IN",
       "url": "https://talkingpointsmemo.com/signin"
     }
   ],
-  "uniq": 670179498,
+  "uniq": 996329288,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

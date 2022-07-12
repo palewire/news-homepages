@@ -1,5 +1,5 @@
 {
-  "created": 1657455370,
+  "created": 1657628430,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/1/items/oregonian-2022",
@@ -520,31 +520,199 @@
       "sha1": "757b0714c5876c11a8721bf6752318028526e107"
     },
     {
+      "name": "oregonian-2022-07-10T06:46:38.185821-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657460801",
+      "size": "46329",
+      "md5": "3e082d00d504be7fe5c7487f4c15af57",
+      "crc32": "d69f391c",
+      "sha1": "9ef50429372e0dbab36b295e96bf68a5cd399df7",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-10T06:46:38.185821-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657460803",
+      "size": "45293",
+      "md5": "426b4a3666022b71ace2422e926cc598",
+      "crc32": "c0dc7fcf",
+      "sha1": "349d447e457e05257ac903406cd1c2bdd0346228",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-10T06:46:38.185821-07:00.jpg",
+      "source": "original",
+      "mtime": "1657460799",
+      "size": "216348",
+      "md5": "579662b57977442965e579e0846e4437",
+      "crc32": "87ff9761",
+      "sha1": "2c6f430909c49e6f159f2b8ee07b08fa4233cce6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-07-10T06:46:38.185821-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-07-10T06:46:38.185821-07:00.jpg",
+      "mtime": "1657460849",
+      "size": "8322",
+      "md5": "b51a936c883ed8caab698abdfe9b26b6",
+      "crc32": "b4a54b29",
+      "sha1": "3b041d19a86f537d28eff0fb8b95eee08fbb8780"
+    },
+    {
+      "name": "oregonian-2022-07-10T19:12:44.874703-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657505569",
+      "size": "45111",
+      "md5": "01bc9607d36ce0fa5a8afee4d11b03d1",
+      "crc32": "f5213603",
+      "sha1": "ee41ec32fb618e5c13c45fd75a7b384f579090e5",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-10T19:12:44.874703-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505571",
+      "size": "46041",
+      "md5": "5c6f47d6c878263d3ba4e8f902718642",
+      "crc32": "221ad94c",
+      "sha1": "89d08b2ff800cc6f0e7d03cddcae4e8d2f437c0b",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-10T19:12:44.874703-07:00.jpg",
+      "source": "original",
+      "mtime": "1657505567",
+      "size": "220526",
+      "md5": "1cd594b580798847d464f91617fdaeb6",
+      "crc32": "ba356993",
+      "sha1": "ca2415d96c537a805d7190e26cdd60fe04be1d5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-07-10T19:12:44.874703-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-07-10T19:12:44.874703-07:00.jpg",
+      "mtime": "1657505615",
+      "size": "8236",
+      "md5": "79770ef33a5a01925edc427f87e84fce",
+      "crc32": "905f1733",
+      "sha1": "7494a943a6a86744dd2b20d69d1207e5714575ea"
+    },
+    {
+      "name": "oregonian-2022-07-11T08:48:34.403334-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657554518",
+      "size": "44312",
+      "md5": "6976d307eba6396c2bdb3f0384e80244",
+      "crc32": "68f4023f",
+      "sha1": "7295802c0b7b50b04b9d377a834b22e2e7410775",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-11T08:48:34.403334-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657554520",
+      "size": "44600",
+      "md5": "727c06f09d0cfd5f78b14f4d81bf5f14",
+      "crc32": "ceab593b",
+      "sha1": "2ac00754b26a4aad3e023b0a735507d0bfec4a4b",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-11T08:48:34.403334-07:00.jpg",
+      "source": "original",
+      "mtime": "1657554516",
+      "size": "229950",
+      "md5": "5b77ab10544695676257c8b6dc941c31",
+      "crc32": "e18ead64",
+      "sha1": "f48ed1fa041770a097fbab8bec8d88eebd39b850",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-07-11T08:48:34.403334-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-07-11T08:48:34.403334-07:00.jpg",
+      "mtime": "1657554577",
+      "size": "8501",
+      "md5": "4664d7a3bbea01a169d63d31854e7155",
+      "crc32": "513dda58",
+      "sha1": "167263252598bcdcf1096180387afb6ea01f6e6f"
+    },
+    {
+      "name": "oregonian-2022-07-11T19:13:15.841926-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657591999",
+      "size": "46482",
+      "md5": "0c902ef533e1cbda80e0b56555a36426",
+      "crc32": "211567b3",
+      "sha1": "350263b3ec74c5ed82bd3280ec95866beee24053",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-11T19:13:15.841926-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657592000",
+      "size": "45210",
+      "md5": "61d88991cd14b3df3efb08989ab640bd",
+      "crc32": "39e96922",
+      "sha1": "6da6eb26a83901fc811abcb3910d943010792580",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-11T19:13:15.841926-07:00.jpg",
+      "source": "original",
+      "mtime": "1657591997",
+      "size": "218752",
+      "md5": "4ec6bca408b55b876f90c22a84794a18",
+      "crc32": "38a2c05b",
+      "sha1": "abda0d902295ff8ad4607fecf8f579237403ca22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-07-11T19:13:15.841926-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-07-11T19:13:15.841926-07:00.jpg",
+      "mtime": "1657592050",
+      "size": "8273",
+      "md5": "a23d5844b8f66449d8fd66254e0f4e60",
+      "crc32": "808ca67d",
+      "sha1": "0c3e3df781b13a3bd9c67614002b5235714cd098"
+    },
+    {
       "name": "oregonian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "218fc31dea4a1bb6adc482012aa2dc5362262248",
-      "mtime": "1657419127",
-      "size": "11769",
-      "md5": "34fdda6064dfc0d74e7570366ca3122c",
-      "crc32": "d5591081",
-      "sha1": "2030bc555b7b9cf3d65b3fc7ae99b594916fefec",
+      "btih": "7a38d7e73ca3d3164a4d28a593a4063468535e38",
+      "mtime": "1657592053",
+      "size": "15161",
+      "md5": "af34b3a46449cd6410a5bb28c29c5a76",
+      "crc32": "7f424bf4",
+      "sha1": "ed26a43e01925daa721ddda0c4b5d3e5ad72f4f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oregonian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5b91ef719212009ebe32fcca2e4f2bf",
+      "md5": "c9f760bb42e6ab1cf7c9e56249f08c21",
       "summation": "md5"
     },
     {
       "name": "oregonian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657419074",
-      "size": "69632",
-      "md5": "289214cadd29cafc1bca20744a781cdb",
-      "crc32": "1a56cfaa",
-      "sha1": "c930635868d1a3a17f6c8cb17d9db6ba48a37a28",
+      "mtime": "1657592003",
+      "size": "86016",
+      "md5": "b2f6ad8b46d82700479a8026aa9557c6",
+      "crc32": "540f313a",
+      "sha1": "b29a4eb5654552c2cfad8249f9122b55b64f3acd",
       "format": "Metadata"
     },
     {
@@ -558,9 +726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 53,
-  "item_last_updated": 1657419127,
-  "item_size": 4029082,
+  "files_count": 69,
+  "item_last_updated": 1657592053,
+  "item_size": 5331144,
   "metadata": {
     "identifier": "oregonian-2022",
     "collection": [
@@ -1175,24 +1343,208 @@
       "url": "#section__life_and_culture"
     },
     {
-      "text": "Portland-based Pup Passport expands dog-friendly brewpub service to Seattle",
-      "url": "https://www.oregonlive.com/beer/2022/07/portland-based-pup-passport-expands-dog-friendly-brewpub-service-to-seattle.html"
+      "text": "\u2018It\u2019s scary how inevitable gun violence will be:\u2019 Fatal NE Portland shooting leaves neighbors unnerved",
+      "url": "https://www.oregonlive.com/crime/2022/07/its-scary-how-inevitable-gun-violence-will-be-fatal-ne-portland-shooting-leaves-neighbors-unnerved.html"
     },
     {
       "text": "",
-      "url": "https://www.oregonlive.com/news/2022/07/oregons-gun-laws-explained.html"
+      "url": "https://www.oregonlive.com/portland/2022/07/portlands-newest-homeless-village-is-not-ada-accessible.html"
     },
     {
-      "text": "Oregon\u2019s gun laws explained",
-      "url": "https://www.oregonlive.com/news/2022/07/oregons-gun-laws-explained.html"
+      "text": "Portland\u2019s newest homeless village is not ADA accessible",
+      "url": "https://www.oregonlive.com/portland/2022/07/portlands-newest-homeless-village-is-not-ada-accessible.html"
     },
     {
-      "text": "Gun control ballot measure likely headed to November ballot",
-      "url": "https://www.oregonlive.com/news/2022/07/gun-control-ballot-measure-likely-headed-to-november-ballot.html"
+      "text": "Mayor Ted Wheeler says Portland\u2019s new homelessness strategy succeeds \u2013 but there\u2019s no evidence it helps house the homeless",
+      "url": "https://www.oregonlive.com/portland/2022/07/mayor-ted-wheeler-says-portlands-new-homelessness-strategy-succeeds-but-theres-no-evidence-it-helps-house-the-homeless.html"
     },
     {
-      "text": "Portland-based Pup Passport expands dog-friendly brewpub service to Seattle",
-      "url": "https://www.oregonlive.com/beer/2022/07/portland-based-pup-passport-expands-dog-friendly-brewpub-service-to-seattle.html"
+      "text": "\u2018It\u2019s scary how inevitable gun violence will be:\u2019 Fatal NE Portland shooting leaves neighbors unnerved",
+      "url": "https://www.oregonlive.com/crime/2022/07/its-scary-how-inevitable-gun-violence-will-be-fatal-ne-portland-shooting-leaves-neighbors-unnerved.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/sports/2022/07/bill-oram-what-it-means-to-be-a-sports-fan-in-oregon-amid-unprecedented-upheaval.html"
+    },
+    {
+      "text": "Bill Oram: What it means to be a sports fan in Oregon amid unprecedented upheaval",
+      "url": "https://www.oregonlive.com/sports/2022/07/bill-oram-what-it-means-to-be-a-sports-fan-in-oregon-amid-unprecedented-upheaval.html"
+    },
+    {
+      "text": "Get to know Bill Oram, The Oregonian\u2019s new sports columnist: Beat Check podcast",
+      "url": "https://www.oregonlive.com/podcasts/2022/07/get-to-know-bill-oram-the-oregonians-new-sports-columnist-beat-check-podcast.html"
+    },
+    {
+      "text": "Jerry Schumacher joins Oregon Ducks as coach of track, cross country programs",
+      "url": "https://www.oregonlive.com/ducks/2022/07/jerry-schumacher-joins-oregon-ducks-as-head-coach-of-track-and-field-cross-country-programs.html"
+    },
+    {
+      "text": "Thorns defender Emily Menges starts her own literary newspaper: Bel Esprit",
+      "url": "https://www.oregonlive.com/portland-thorns/2022/07/emily-menges-literary-newspaper-bel-esprit-grows-building-on-portlands-creative-writing-community.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/data/2022/07/multnomah-county-lost-12000-people-in-past-year-heres-who-drove-those-declines.html"
+    },
+    {
+      "text": "Multnomah County lost 12,000 people in past year. Here\u2019s who drove those declines",
+      "url": "https://www.oregonlive.com/data/2022/07/multnomah-county-lost-12000-people-in-past-year-heres-who-drove-those-declines.html"
+    },
+    {
+      "text": "Oregon immigrant rights organization had been struggling for several years before deciding to disband ",
+      "url": "https://www.oregonlive.com/politics/2022/07/oregon-immigrant-rights-organization-had-been-struggling-for-several-years-before-deciding-to-disband.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/living/2022/07/a-new-slug-queen-will-soon-rain-over-eugene.html"
+    },
+    {
+      "text": "A new SLUG Queen will soon \u2018rain\u2019 over Eugene ",
+      "url": "https://www.oregonlive.com/living/2022/07/a-new-slug-queen-will-soon-rain-over-eugene.html"
+    },
+    {
+      "text": "Paseo festival will celebrate a downtown Portland for everyone",
+      "url": "https://www.oregonlive.com/events/2022/07/paseo-festival-will-celebrate-a-downtown-portland-for-everyone.html"
+    },
+    {
+      "text": "Portland\u2019s last Big Float draws thousands to Willamette River for float finale (photos)",
+      "url": "https://www.oregonlive.com/living/2022/07/portlands-last-big-float-draws-thousands-to-willamette-river-for-float-finale-photos.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/portland/2022/07/oregon-camp-lets-girls-test-out-a-career-in-firefighting.html"
+    },
+    {
+      "text": "Oregon camp lets young women test out a career in firefighting",
+      "url": "https://www.oregonlive.com/portland/2022/07/oregon-camp-lets-girls-test-out-a-career-in-firefighting.html"
+    },
+    {
+      "text": "Portland mentorship program aims to close racial wealth gap by helping young professionals build financial knowledge",
+      "url": "https://www.oregonlive.com/education/2022/07/portland-mentorship-program-aims-to-close-racial-wealth-gap-by-helping-young-professionals-build-financial-knowledge.html"
+    },
+    {
+      "text": "Tiger Tiger: A Celebration of Our AAPI Community aims to counter anti-Asian bias, promote conversation",
+      "url": "https://www.oregonlive.com/entertainment/2022/07/tiger-tiger-a-celebration-of-our-aapi-community-aims-to-counter-anti-asian-bias-promote-conversation.html"
+    },
+    {
+      "text": "Sir Mo Farah reveals he was trafficked to the UK as a child",
+      "url": "https://www.oregonlive.com/trackandfield/2022/07/olympic-star-sir-mo-farah-reveals-he-was-trafficked-to-the-uk-as-child-in-new-documentary.html"
+    },
+    {
+      "text": "Death of SE Portland grocery co-owner stirs memories of the neighborhood store left behind",
+      "url": "https://www.oregonlive.com/living/2022/07/death-of-se-portland-grocery-co-owner-stirs-memories-of-the-neighborhood-store-left-behind.html"
+    },
+    {
+      "text": "\u2018Better Call Saul\u2019 returns to begin its final episodes: How to watch for free",
+      "url": "https://www.oregonlive.com/entertainment/2022/07/better-call-saul-returns-to-begin-its-final-episodes-how-to-watch-for-free.html"
+    },
+    {
+      "text": "US to hospitals: Doctors must offer abortion if mother\u2019s life at risk",
+      "url": "https://www.oregonlive.com/nation/2022/07/us-to-hospitals-doctors-must-offer-abortion-if-mothers-life-at-risk.html"
+    },
+    {
+      "text": "Blazers vs Knicks in NBA Summer League: Odds, how to watch",
+      "url": "https://www.oregonlive.com/blazers/2022/07/portland-trail-blazers-vs-new-york-knicks-free-live-stream-odds-time-tv-channel-how-to-watch-nba-summer-league-online-71122.html"
+    },
+    {
+      "text": "\u2018The Bachelorette\u2019 returns with two leads, Rachel and Gabby: How to watch online for free",
+      "url": "https://www.oregonlive.com/entertainment/2022/07/the-bachelorette-returns-with-two-leads-rachel-and-gabby-how-to-watch-online-for-free.html"
+    },
+    {
+      "text": "Dear Annie: She likes going out, he likes staying in. Can they make this relationship work?",
+      "url": "https://www.oregonlive.com/advice/2022/07/dear-annie-she-likes-going-out-he-likes-staying-in-can-they-make-this-relationship-work.html"
+    },
+    {
+      "text": "First image from Webb Space Telescope unveiled; more coming Tuesday",
+      "url": "https://www.oregonlive.com/news/2022/07/first-image-from-webb-space-telescope-unveiled-more-coming-tuesday.html"
+    },
+    {
+      "text": "Learn more here",
+      "url": "https://www.hereisoregon.com/people/2022/06/restoring-one-of-a-kind-steiner-log-cabins-on-mount-hood-takes-time-talent-and-hand-tools.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/advice/2022/07/ask-amy-i-feel-second-rate-to-3-women-who-have-my-boyfriends-babies.html"
+    },
+    {
+      "text": "Ask Amy: I feel second-rate to 3 women who have my boyfriend\u2019s babies ",
+      "url": "https://www.oregonlive.com/advice/2022/07/ask-amy-i-feel-second-rate-to-3-women-who-have-my-boyfriends-babies.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/advice/2022/07/dear-abby-husbands-violent-outbursts-rages-have-wife-frozen-unable-to-see-a-way-forward.html"
+    },
+    {
+      "text": "Dear Abby: Husband\u2019s violent outbursts, rages have wife frozen, unable to see a way forward",
+      "url": "https://www.oregonlive.com/advice/2022/07/dear-abby-husbands-violent-outbursts-rages-have-wife-frozen-unable-to-see-a-way-forward.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/business/2022/07/inflation-hits-the-costco-food-court.html"
+    },
+    {
+      "text": "Costco raises prices on these food court mainstays",
+      "url": "https://www.oregonlive.com/business/2022/07/inflation-hits-the-costco-food-court.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/portland/2022/07/bicyclist-killed-in-north-portland-crash.html"
+    },
+    {
+      "text": "Bicyclist killed in North Portland collision with car",
+      "url": "https://www.oregonlive.com/portland/2022/07/bicyclist-killed-in-north-portland-crash.html"
+    },
+    {
+      "text": "Man found dead in Hillsboro after reports of gunfire, police say",
+      "url": "https://www.oregonlive.com/washingtoncounty/2022/07/man-found-dead-after-reports-of-gunfire-in-hillsboro-police-say.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/business/2022/07/liz-weston-are-capital-gains-taxes-due-quarterly-or-at-the-yearly-tax-filing.html"
+    },
+    {
+      "text": "Liz Weston: Are capital gains taxes due quarterly, or at the yearly tax filing?",
+      "url": "https://www.oregonlive.com/business/2022/07/liz-weston-are-capital-gains-taxes-due-quarterly-or-at-the-yearly-tax-filing.html"
+    },
+    {
+      "text": "\u2018The Mayor of Maple Avenue\u2019 hits 500,000 downloads on first 5 episodes",
+      "url": "https://www.oregonlive.com/news/2022/07/the-mayor-of-maple-avenue-hits-500000-downloads-on-first-5-episodes.html"
+    },
+    {
+      "text": "Multnomah County Library plans second-largest location for Gresham",
+      "url": "https://www.oregonlive.com/eastportland/2022/07/multnomah-county-library-plans-second-largest-location-for-gresham.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/news/2022/07/tear-gas-during-protests-oregons-senators-decry-lack-of-fed-safety-analysis.html"
+    },
+    {
+      "text": "Tear gas during protests: Oregon\u2019s senators decry lack of fed safety analysis",
+      "url": "https://www.oregonlive.com/news/2022/07/tear-gas-during-protests-oregons-senators-decry-lack-of-fed-safety-analysis.html"
+    },
+    {
+      "text": "Portland sees a short summer heat spike Monday, Tuesday with temps in the 90s",
+      "url": "https://www.oregonlive.com/weather/2022/07/portland-sees-a-short-summer-heat-spike-monday-tuesday-with-temps-in-the-90s.html"
+    },
+    {
+      "text": "Free concert by Portland \u2018jazz genius\u2019 Esperanza Spalding celebrates East Portland",
+      "url": "https://www.oregonlive.com/eastportland/2022/07/free-concert-by-portland-jazz-genesis-esperanza-spalding-today-celebrates-east-portland.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/pacific-northwest-news/2022/07/mother-teen-daughter-from-idaho-found-dead-in-oregon-murder-suicide-suspected.html"
+    },
+    {
+      "text": "Mother, teen daughter from Idaho found dead in Oregon; murder-suicide suspected",
+      "url": "https://www.oregonlive.com/pacific-northwest-news/2022/07/mother-teen-daughter-from-idaho-found-dead-in-oregon-murder-suicide-suspected.html"
+    },
+    {
+      "text": "Today\u2019s Los Angeles Times daily crossword puzzle for July 11, 2022",
+      "url": "https://www.oregonlive.com/quiz/2022/07/todays-los-angeles-times-daily-crossword-puzzle-for-july-11-2022.html"
+    },
+    {
+      "text": "One of world\u2019s worst weeds spotted in Idaho",
+      "url": "https://www.oregonlive.com/environment/2022/07/one-of-worlds-worst-weeds-spotted-in-idaho.html"
     },
     {
       "text": "",
@@ -1203,108 +1555,12 @@
       "url": "https://www.oregonlive.com/news/2022/07/oregon-mom-challenges-statewide-rule-for-tampons-in-boys-bathrooms.html"
     },
     {
-      "text": "",
-      "url": "https://www.oregonlive.com/portland/2022/07/man-arrested-after-racist-portland-road-rage-confrontation-police-say.html"
-    },
-    {
       "text": "Man arrested after racist Portland road rage confrontation, police say",
       "url": "https://www.oregonlive.com/portland/2022/07/man-arrested-after-racist-portland-road-rage-confrontation-police-say.html"
     },
     {
-      "text": "Oregon traffic fatalities ease in early 2022 but pedestrian deaths climb",
-      "url": "https://www.oregonlive.com/commuting/2022/07/oregon-traffic-fatalities-ease-in-early-2022-but-pedestrian-deaths-climb.html"
-    },
-    {
-      "text": "Mother, teen daughter from Idaho found dead in Oregon; murder-suicide suspected",
-      "url": "https://www.oregonlive.com/pacific-northwest-news/2022/07/mother-teen-daughter-from-idaho-found-dead-in-oregon-murder-suicide-suspected.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/oregon22/2022/07/steeplechaser-courtney-frerichs-balancing-training-graduate-school-ahead-of-world-athletics-championships.html"
-    },
-    {
-      "text": "Steeplechaser Courtney Frerichs balancing training, graduate school ahead of World Athletics Championships",
-      "url": "https://www.oregonlive.com/oregon22/2022/07/steeplechaser-courtney-frerichs-balancing-training-graduate-school-ahead-of-world-athletics-championships.html"
-    },
-    {
-      "text": "Goe: New Hayward Field, site of World Athletics Championships Oregon22, is big on flash but short on function",
-      "url": "https://www.oregonlive.com/oregon22/2022/07/goe-new-hayward-field-site-of-world-athletics-championships-oregon22-is-big-on-flash-but-short-on-function.html"
-    },
-    {
-      "text": "How living legends, tragedies \u2013 and championships \u2013 made Eugene the \u2018Track Capital of the World\u2019",
-      "url": "https://www.oregonlive.com/oregon22/2022/07/how-living-legends-tragedies-and-championships-made-eugene-the-track-capital-of-the-world.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/blazers/2022/07/damian-lillards-contract-extension-a-sign-hes-pleased-with-trail-blazers-direction.html"
-    },
-    {
-      "text": "Damian Lillard\u2019s contract extension a sign he\u2019s pleased with Trail Blazers\u2019 direction",
-      "url": "https://www.oregonlive.com/blazers/2022/07/damian-lillards-contract-extension-a-sign-hes-pleased-with-trail-blazers-direction.html"
-    },
-    {
-      "text": "Portland Thorns vs. OL Reign, 3 Points to watch: Undefeated streak, missing contributors, a familiar face",
-      "url": "https://www.oregonlive.com/portland-thorns/2022/07/portland-thorns-vs-ol-reign-3-points-to-watch-undefeated-streak-missing-contributors-a-familiar-face.html"
-    },
-    {
-      "text": "Trail Blazers rookie Shaedon Sharpe has labral tear in shoulder, out for remainder of summer league",
-      "url": "https://www.oregonlive.com/blazers/2022/07/trail-blazers-rookie-shaedon-sharpe-has-labral-tear-in-shoulder-out-for-remainder-of-summer-league.html"
-    },
-    {
-      "text": "Trail Blazers founder Harry Glickman remembered for industriousness, integrity at memorial service",
-      "url": "https://www.oregonlive.com/blazers/2022/07/trail-blazers-founder-harry-glickman-remembered-for-industriousness-integrity-at-memorial-service.html"
-    },
-    {
-      "text": "Sen. Ron Wyden stands with tech execs and vacuum cleaners to push for chip industry funds",
-      "url": "https://www.oregonlive.com/silicon-forest/2022/07/sen-ron-wyden-stands-with-tech-execs-and-vacuum-cleaners-to-push-for-chip-industry-funds.html"
-    },
-    {
-      "text": "Dear Annie: Neighbor resists becoming de facto caregiver to 96-year-old next door",
-      "url": "https://www.oregonlive.com/advice/2022/07/dear-annie-neighbor-resists-becoming-de-facto-caregiver-to-96-year-old-next-door.html"
-    },
-    {
-      "text": "Hundreds pack Beaverton City Park to watch the Ten Tiny Dances (photos)",
-      "url": "https://www.oregonlive.com/living/2022/07/hundreds-pack-beaverton-city-park-to-watch-the-ten-tiny-dances-photos.html"
-    },
-    {
-      "text": "Portland Timbers thrash rival Seattle Sounders 3-0 on the road",
-      "url": "https://www.oregonlive.com/timbers/2022/07/portland-timbers-thrash-rival-seattle-sounders-3-0-on-the-road.html"
-    },
-    {
-      "text": "Seattle-area judge admonished for implying defendant would be raped in prison",
-      "url": "https://www.oregonlive.com/pacific-northwest-news/2022/07/seattle-area-judge-admonished-for-implying-defendant-would-be-raped-in-prison.html"
-    },
-    {
-      "text": "Today\u2019s Los Angeles Times crossword puzzle for July 9, 2022",
-      "url": "https://www.oregonlive.com/quiz/2022/07/todays-los-angeles-times-crossword-puzzle-for-july-9-2022.html"
-    },
-    {
-      "text": "Yosemite wildfire spreads rapidly; campground evacuated",
-      "url": "https://www.oregonlive.com/wildfires/2022/07/yosemite-wildfire-spreads-rapidly-near-giant-sequoia-grove-campers-evacuated.html"
-    },
-    {
-      "text": "Battle Ground man sentenced to to 21 days prison for role in Capitol riot",
-      "url": "https://www.oregonlive.com/clark-county/2022/07/battle-ground-man-sentenced-to-to-21-days-prison-for-role-in-capitol-riot.html"
-    },
-    {
-      "text": "Learn more here",
-      "url": "https://www.hereisoregon.com/people/2022/06/restoring-one-of-a-kind-steiner-log-cabins-on-mount-hood-takes-time-talent-and-hand-tools.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/advice/2022/07/dear-abby-what-kind-of-friend-does-an-unsolicited-background-check-on-a-friends-boyfriend.html"
-    },
-    {
-      "text": "Dear Abby: What kind of friend does an unsolicited background check on a friend\u2019s boyfriend?",
-      "url": "https://www.oregonlive.com/advice/2022/07/dear-abby-what-kind-of-friend-does-an-unsolicited-background-check-on-a-friends-boyfriend.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/opinion/2022/07/that-pickleball-crisis-in-lake-oswego-steve-duin-column.html"
-    },
-    {
-      "text": "That pickleball crisis in Lake Oswego: Steve Duin column",
-      "url": "https://www.oregonlive.com/opinion/2022/07/that-pickleball-crisis-in-lake-oswego-steve-duin-column.html"
+      "text": "Today\u2019s daily Jumble word game for July 11, 2022",
+      "url": "https://www.oregonlive.com/quiz/2022/07/todays-daily-jumble-word-game-for-july-11-2022.html"
     },
     {
       "text": "",
@@ -1315,100 +1571,44 @@
       "url": "https://www.oregonlive.com/education/2022/07/this-portland-student-is-now-a-three-time-doodle-for-google-finalist.html"
     },
     {
-      "text": "",
-      "url": "https://www.oregonlive.com/portland/2022/07/se-portland-shooting-kills-1-injures-1-several-detained-during-area-search-police-say.html"
-    },
-    {
-      "text": "1 dead, 1 injured in SE Portland shooting; several detained during area search, police say",
-      "url": "https://www.oregonlive.com/portland/2022/07/se-portland-shooting-kills-1-injures-1-several-detained-during-area-search-police-say.html"
-    },
-    {
-      "text": "Liz Weston: Weston discusses the pluses, minuses of delaying starting Social Security until you\u2019re 70",
-      "url": "https://www.oregonlive.com/business/2022/07/liz-weston-weston-discusses-the-pluses-minuses-of-delaying-starting-social-security-until-youre-70.html"
+      "text": "Seattle-area judge admonished for implying defendant would be raped in prison",
+      "url": "https://www.oregonlive.com/pacific-northwest-news/2022/07/seattle-area-judge-admonished-for-implying-defendant-would-be-raped-in-prison.html"
     },
     {
       "text": "",
-      "url": "https://www.oregonlive.com/pacific-northwest-news/2022/07/coos-bay-man-accused-of-setting-vehicle-fire-that-severely-burned-woman-inside.html"
+      "url": "https://www.oregonlive.com/blazers/2022/07/espns-richard-jefferson-to-officiate-2nd-quarter-of-trail-blazers-vs-knicks-summer-league-game-tonight.html"
     },
     {
-      "text": "Coos Bay man accused of setting vehicle fire that severely burned woman inside",
-      "url": "https://www.oregonlive.com/pacific-northwest-news/2022/07/coos-bay-man-accused-of-setting-vehicle-fire-that-severely-burned-woman-inside.html"
-    },
-    {
-      "text": "Production resumes, again, at troubled Abbott baby formula factory as shortage continues",
-      "url": "https://www.oregonlive.com/nation/2022/07/production-resumes-again-at-troubled-abbott-baby-formula-factory-as-shortage-continues.html"
-    },
-    {
-      "text": "County council candidate in Washington state won\u2019t be charged in Tacoma shooting",
-      "url": "https://www.oregonlive.com/pacific-northwest-news/2022/07/county-council-candidate-in-washington-state-wont-be-charged-in-tacoma-shooting.html"
+      "text": "Richard Jefferson to officiate 2nd quarter of Trail Blazers vs Knicks Summer League game",
+      "url": "https://www.oregonlive.com/blazers/2022/07/espns-richard-jefferson-to-officiate-2nd-quarter-of-trail-blazers-vs-knicks-summer-league-game-tonight.html"
     },
     {
       "text": "",
-      "url": "https://www.oregonlive.com/crime/2022/07/blame-game-erupts-after-portland-man-suspected-in-attack-against-asian-family-quickly-released.html"
+      "url": "https://www.oregonlive.com/blazers/2022/07/trail-blazers-damian-lillard-expecting-steph-curry-like-resurgence-next-season.html"
     },
     {
-      "text": "Blame game erupts after Portland man suspected in attack against Asian family quickly released",
-      "url": "https://www.oregonlive.com/crime/2022/07/blame-game-erupts-after-portland-man-suspected-in-attack-against-asian-family-quickly-released.html"
+      "text": "Trail Blazers\u2019 Damian Lillard expecting Steph Curry-like resurgence next season",
+      "url": "https://www.oregonlive.com/blazers/2022/07/trail-blazers-damian-lillard-expecting-steph-curry-like-resurgence-next-season.html"
     },
     {
-      "text": "Police called 9 times in 2010-2014 to home of accused Highland Park shooter ",
-      "url": "https://www.oregonlive.com/crime/2022/07/police-called-9-times-in-2010-2014-to-home-of-accused-highland-park-shooter.html"
-    },
-    {
-      "text": "Yosemite sequoias threatened by wildfire",
-      "url": "https://www.oregonlive.com/nation/2022/07/yosemite-sequoias-threatened-by-wildfire.html"
+      "text": "21 U.S. track & field stars to watch at World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/sydney-mclaughlin-athing-mu-and-18-other-us-track-field-stars-to-watch-at-world-athletics-championships-oregon22.html"
     },
     {
       "text": "",
-      "url": "https://www.oregonlive.com/politics/2022/07/poll-commissioned-by-republicans-shows-christine-drazan-tina-kotek-as-front-runners-in-race-for-oregon-governor.html"
+      "url": "https://www.oregonlive.com/sports/2022/07/sabrina-ionescu-shines-at-her-1st-wnba-all-star-weekend.html"
     },
     {
-      "text": "Oregon governor\u2019s race poll commissioned by Republicans shows Christine Drazan, Tina Kotek as front-runners",
-      "url": "https://www.oregonlive.com/politics/2022/07/poll-commissioned-by-republicans-shows-christine-drazan-tina-kotek-as-front-runners-in-race-for-oregon-governor.html"
+      "text": "Sabrina Ionescu shines at her 1st WNBA All-Star weekend",
+      "url": "https://www.oregonlive.com/sports/2022/07/sabrina-ionescu-shines-at-her-1st-wnba-all-star-weekend.html"
     },
     {
-      "text": "\u2018Eyes watching, ears listening\u2019: Portland-area schools tee up kindergarten success with expanded summer programs",
-      "url": "https://www.oregonlive.com/education/2022/07/eyes-watching-ears-listening-portland-area-schools-tee-up-kindergarten-success-with-expanded-summer-programs.html"
+      "text": "Portland Timbers, Thorns kick off annual Stand Together Week",
+      "url": "https://www.oregonlive.com/sports/2022/07/portland-timbers-thorns-kick-off-annual-stand-together-week.html"
     },
     {
-      "text": "Omicron BA.4 and BA.5 variants: Symptoms? How soon do they appear?",
-      "url": "https://www.oregonlive.com/coronavirus/2022/07/omicron-ba4-and-ba5-covid-variants-what-are-symptoms-how-quickly-do-they-appear.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/portland/2022/07/car-hits-72-year-old-woman-near-providence-st-vincent-hospital-flees-scene.html"
-    },
-    {
-      "text": "Car hits 72-year-old woman near Providence St. Vincent hospital, arrest made after driver flees",
-      "url": "https://www.oregonlive.com/portland/2022/07/car-hits-72-year-old-woman-near-providence-st-vincent-hospital-flees-scene.html"
-    },
-    {
-      "text": "Will Social Security recipients get an extra $200 a month?",
-      "url": "https://www.oregonlive.com/business/2022/07/will-social-security-recipients-get-an-extra-200-a-month.html"
-    },
-    {
-      "text": "Sri Lanka president, prime minister to resign; protesters set fire to PM\u2019s home",
-      "url": "https://www.oregonlive.com/nation/2022/07/sri-lanka-president-prime-minister-to-resign-protesters-set-fire-to-pms-home.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/politics/2022/07/counties-ask-oregon-supreme-court-to-reinstate-11-billion-timber-verdict-against-the-state.html"
-    },
-    {
-      "text": "Counties ask Oregon Supreme Court to reinstate $1.1 billion timber verdict against the state",
-      "url": "https://www.oregonlive.com/politics/2022/07/counties-ask-oregon-supreme-court-to-reinstate-11-billion-timber-verdict-against-the-state.html"
-    },
-    {
-      "text": "Oregon immigrant rights organization had been struggling for several years before deciding to disband ",
-      "url": "https://www.oregonlive.com/politics/2022/07/oregon-immigrant-rights-organization-had-been-struggling-for-several-years-before-deciding-to-disband.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/timbers/2022/07/portland-timbers-vs-seattle-sounders-score-updates-live-stream-odds-time-tv-channel-how-to-watch-online-7922.html"
-    },
-    {
-      "text": "Portland Timbers vs. Seattle Sounders score updates, live stream, odds, time, tv channel, how to watch online (7/9/22)",
-      "url": "https://www.oregonlive.com/timbers/2022/07/portland-timbers-vs-seattle-sounders-score-updates-live-stream-odds-time-tv-channel-how-to-watch-online-7922.html"
+      "text": "Sifan Hassan steady in winning 5,000 at Stumptown Twilight",
+      "url": "https://www.oregonlive.com/trackandfield/2022/07/sifan-hassan-steady-in-winning-5000-at-stumptown-twilight.html"
     },
     {
       "text": "",
@@ -1419,84 +1619,124 @@
       "url": "https://www.oregonlive.com/oregon22/2022/07/russians-officially-out-of-world-athletics-championships.html"
     },
     {
-      "text": "Pac-12 Hotline mailbag: Oregon State and WSU on the brink, why Oregon got left behind and more",
-      "url": "https://www.oregonlive.com/collegefootball/2022/07/pac-12-hotline-mailbag-oregon-state-and-wsu-on-the-brink-why-oregon-got-left-behind-and-more.html"
+      "text": "Blazers, led by Trendon Watford, earn first summer league win over New Orleans",
+      "url": "https://www.oregonlive.com/blazers/2022/07/trail-blazers-led-by-trendon-watford-earn-first-summer-league-win-85-68-over-new-orleans.html"
+    },
+    {
+      "text": "Goe: New Hayward Field, site of World Athletics Championships Oregon22, is big on flash but short on function",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/goe-new-hayward-field-site-of-world-athletics-championships-oregon22-is-big-on-flash-but-short-on-function.html"
     },
     {
       "text": "",
-      "url": "https://www.oregonlive.com/sports/2022/07/elena-rybakina-wins-wimbledon-womens-final-for-1st-grand-slam.html"
+      "url": "https://www.oregonlive.com/oregon22/2022/07/how-living-legends-tragedies-and-championships-made-eugene-the-track-capital-of-the-world.html"
     },
     {
-      "text": "Elena Rybakina wins Wimbledon women\u2019s final for 1st Grand Slam",
-      "url": "https://www.oregonlive.com/sports/2022/07/elena-rybakina-wins-wimbledon-womens-final-for-1st-grand-slam.html"
+      "text": "How living legends, tragedies \u2013 and championships \u2013 made Eugene the \u2018Track Capital of the World\u2019",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/how-living-legends-tragedies-and-championships-made-eugene-the-track-capital-of-the-world.html"
     },
     {
-      "text": "Oregon shot put star Ryan Crouser owns world records, Olympic gold medals; now he seeks an elusive world championships title",
-      "url": "https://www.oregonlive.com/oregon22/2022/07/oregon-shot-put-star-ryan-crouser-owns-world-records-olympic-gold-medals-now-he-seeks-an-elusive-world-championships-title.html"
-    },
-    {
-      "text": "Dame signs extension, refutes NY Post report as Shaedon Sharpe is injured in debut: Blazer Focused podcast",
-      "url": "https://www.oregonlive.com/sports/2022/07/dame-signs-extension-refutes-ny-post-report-as-shaedon-sharpe-is-injured-in-debut-blazer-focused-podcast.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/blazers/2022/07/damian-lillard-agent-say-trail-blazers-chair-jody-allen-never-ignored-his-request-to-speak-to-her.html"
-    },
-    {
-      "text": "Damian Lillard, agent say Trail Blazers chair Jody Allen never ignored his request to speak to her",
-      "url": "https://www.oregonlive.com/blazers/2022/07/damian-lillard-agent-say-trail-blazers-chair-jody-allen-never-ignored-his-request-to-speak-to-her.html"
-    },
-    {
-      "text": "Trail Blazers awaiting word on health of rookie Shaedon Sharpe",
-      "url": "https://www.oregonlive.com/blazers/2022/07/trail-blazers-awaiting-word-on-health-of-rookie-shaedon-sharpe.html"
-    },
-    {
-      "text": "Sifan Hassan, Charlie Hunter headline Stumptown Twilight track meet",
-      "url": "https://www.oregonlive.com/trackandfield/2022/07/sifan-hassan-charlie-hunter-headline-stumptown-twilight-track-meet.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/oregon22/2022/07/galen-rupp-fueled-by-family-time-as-he-prepares-for-marathon-at-world-athletic-championships.html"
+      "text": "Trail Blazers rookie Shaedon Sharpe has labral tear in shoulder, out for remainder of summer league",
+      "url": "https://www.oregonlive.com/blazers/2022/07/trail-blazers-rookie-shaedon-sharpe-has-labral-tear-in-shoulder-out-for-remainder-of-summer-league.html"
     },
     {
       "text": "Galen Rupp fueled by family time as he prepares for marathon at World Athletics Championships",
       "url": "https://www.oregonlive.com/oregon22/2022/07/galen-rupp-fueled-by-family-time-as-he-prepares-for-marathon-at-world-athletic-championships.html"
     },
     {
-      "text": "New Trail Blazers Jerami Grant, Gary Payton II bring Oregon roots, versatility, character to lineup ",
-      "url": "https://www.oregonlive.com/blazers/2022/07/new-trail-blazers-jerami-grant-gary-payton-ii-bring-oregon-roots-versatility-character-to-lineup.html"
+      "text": "",
+      "url": "https://www.oregonlive.com/collegefootball/2022/07/pac-12-hotline-mailbag-oregon-state-and-wsu-on-the-brink-why-oregon-got-left-behind-and-more.html"
     },
     {
-      "text": "Blazers' Jody Allen refused to meet with Damian Lillard about how team is being run, report says",
-      "url": "https://www.oregonlive.com/blazers/2022/07/portland-trail-blazers-chair-jody-allen-refused-to-meet-with-damian-lillard-about-how-team-is-being-run-report-says.html"
+      "text": "Pac-12 Hotline mailbag: Oregon State and WSU on the brink, why Oregon got left behind and more",
+      "url": "https://www.oregonlive.com/collegefootball/2022/07/pac-12-hotline-mailbag-oregon-state-and-wsu-on-the-brink-why-oregon-got-left-behind-and-more.html"
+    },
+    {
+      "text": "Portland Thorns play to seesaw 2-2 draw with rival OL Reign",
+      "url": "https://www.oregonlive.com/portland-thorns/2022/07/portland-thorns-play-to-seesaw-2-2-draw-with-rival-ol-reign.html"
+    },
+    {
+      "text": "Damian Lillard, Trail Blazers extend union with an eye toward a championship: \u2018I just want a shot at it\u2019",
+      "url": "https://www.oregonlive.com/blazers/2022/07/damian-lillard-trail-blazers-extend-union-with-an-eye-toward-a-championship-i-just-want-a-shot-at-it.html"
     },
     {
       "text": "",
-      "url": "https://www.oregonlive.com/blazers/2022/07/damian-lillard-signs-2-year-max-contract-extension-with-portland-trail-blazers.html"
+      "url": "https://www.oregonlive.com/oregon22/2022/07/oregon-shot-put-star-ryan-crouser-owns-world-records-olympic-gold-medals-now-he-seeks-an-elusive-world-championships-title.html"
     },
     {
-      "text": "Damian Lillard signs 2-year max extension with Blazers",
-      "url": "https://www.oregonlive.com/blazers/2022/07/damian-lillard-signs-2-year-max-contract-extension-with-portland-trail-blazers.html"
+      "text": "Oregon shot put star Ryan Crouser owns world records, Olympic gold medals; now he seeks an elusive world championships title",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/oregon-shot-put-star-ryan-crouser-owns-world-records-olympic-gold-medals-now-he-seeks-an-elusive-world-championships-title.html"
     },
     {
-      "text": "All-state baseball 2022: Oregon\u2019s top 6A stars",
-      "url": "https://www.oregonlive.com/highschoolsports/2022/07/all-state-baseball-2022-oregons-top-6a-stars.html"
-    },
-    {
-      "text": "New Oregon QB commit Dante Moore declined NIL meetings, focused on other things in recruitment",
-      "url": "https://www.oregonlive.com/sports/2022/07/new-oregon-qb-commit-dante-moore-declined-nil-meetings-focused-on-other-things-in-recruitment.html"
+      "text": "Damian Lillard\u2019s contract extension a sign he\u2019s pleased with Trail Blazers\u2019 direction",
+      "url": "https://www.oregonlive.com/blazers/2022/07/damian-lillards-contract-extension-a-sign-hes-pleased-with-trail-blazers-direction.html"
     },
     {
       "text": "",
-      "url": "https://www.oregonlive.com/timbers/2022/07/portland-timbers-vs-seattle-sounders-3-points-to-watch-giovanni-savareses-record-a-banner-raised-midfield-health.html"
+      "url": "https://www.oregonlive.com/hg/2022/07/should-i-let-my-neighbor-release-salamanders-from-a-science-project-in-my-pond-ask-an-expert.html"
     },
     {
-      "text": "Portland Timbers vs. Seattle Sounders, 3 Points to watch: Giovanni Savarese\u2019s record, a banner raised, midfield health",
-      "url": "https://www.oregonlive.com/timbers/2022/07/portland-timbers-vs-seattle-sounders-3-points-to-watch-giovanni-savareses-record-a-banner-raised-midfield-health.html"
+      "text": "Should I let my neighbor release salamanders from a science project in my pond? Ask an expert",
+      "url": "https://www.oregonlive.com/hg/2022/07/should-i-let-my-neighbor-release-salamanders-from-a-science-project-in-my-pond-ask-an-expert.html"
     },
     {
-      "text": "5-star quarterback Dante Moore from Detroit King commits to Oregon",
-      "url": "https://www.oregonlive.com/sports/2022/07/5-star-quarterback-dante-moore-from-detroit-king-commits-to-oregon.html"
+      "text": "",
+      "url": "https://www.oregonlive.com/health/2022/07/dear-doctor-theres-no-one-size-fits-all-answer-to-when-women-should-stop-hormone-replacement-therapy.html"
+    },
+    {
+      "text": "Dear Doctor: There\u2019s no one-size-fits-all answer to when women should stop hormone replacement therapy",
+      "url": "https://www.oregonlive.com/health/2022/07/dear-doctor-theres-no-one-size-fits-all-answer-to-when-women-should-stop-hormone-replacement-therapy.html"
+    },
+    {
+      "text": "Chill out, save energy, get cash incentives: How to cool your home during hotter summers",
+      "url": "https://www.oregonlive.com/hg/2022/07/chill-out-save-energy-get-cash-incentives-how-to-cool-your-home-during-hotter-summers.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/events/2022/07/paseo-festival-best-bets.html"
+    },
+    {
+      "text": "Paseo festival best bets",
+      "url": "https://www.oregonlive.com/events/2022/07/paseo-festival-best-bets.html"
+    },
+    {
+      "text": "The unsolved case of skyjacker D.B. Cooper is explored again in new Netflix documentary series",
+      "url": "https://www.oregonlive.com/entertainment/2022/07/the-unsolved-case-of-skyjacker-db-cooper-is-explored-again-in-new-netflix-documentary-series.html"
+    },
+    {
+      "text": "Hundreds pack Beaverton City Park to watch the Ten Tiny Dances (photos)",
+      "url": "https://www.oregonlive.com/living/2022/07/hundreds-pack-beaverton-city-park-to-watch-the-ten-tiny-dances-photos.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/realestate/2022/07/prohibition-era-portland-tudor-revival-house-with-a-speakeasy-is-for-sale-at-13-million.html"
+    },
+    {
+      "text": "Prohibition-era Portland Tudor Revival house with a speakeasy is for sale at $1.3 million",
+      "url": "https://www.oregonlive.com/realestate/2022/07/prohibition-era-portland-tudor-revival-house-with-a-speakeasy-is-for-sale-at-13-million.html"
+    },
+    {
+      "text": "Dear Doctor: Are expired prescription drugs dangerous? My wife won\u2019t throw hers out",
+      "url": "https://www.oregonlive.com/health/2022/07/dear-doctor-are-expired-prescription-drugs-dangerous-my-wife-wont-throw-hers-out.html"
+    },
+    {
+      "text": "A \u2018Shark Week\u2019 blimp will fly over Portland and NW skies this weekend",
+      "url": "https://www.oregonlive.com/entertainment/2022/07/a-shark-week-blimp-will-fly-over-portland-and-nw-skies-this-weekend.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/health/2022/07/oregon-state-hospital-scrambles-to-fill-shifts-amid-resurgent-staff-shortage.html"
+    },
+    {
+      "text": "Oregon State Hospital scrambles to fill shifts amid resurgent staff shortage",
+      "url": "https://www.oregonlive.com/health/2022/07/oregon-state-hospital-scrambles-to-fill-shifts-amid-resurgent-staff-shortage.html"
+    },
+    {
+      "text": "Is science onto the best eating pattern for long life?",
+      "url": "https://www.oregonlive.com/health/2022/07/is-science-onto-the-best-eating-pattern-for-long-life.html"
+    },
+    {
+      "text": "Portland-based Pup Passport expands dog-friendly brewpub service to Seattle",
+      "url": "https://www.oregonlive.com/beer/2022/07/portland-based-pup-passport-expands-dog-friendly-brewpub-service-to-seattle.html"
     },
     {
       "text": "",
@@ -1507,32 +1747,12 @@
       "url": "https://www.oregonlive.com/wine/2022/07/bow-arrow-pierces-preconceived-wine-notions.html"
     },
     {
-      "text": "",
-      "url": "https://www.oregonlive.com/entertainment/2022/07/the-unsolved-case-of-skyjacker-db-cooper-is-explored-again-in-new-netflix-documentary-series.html"
-    },
-    {
-      "text": "The unsolved case of skyjacker D.B. Cooper is explored again in new Netflix documentary series",
-      "url": "https://www.oregonlive.com/entertainment/2022/07/the-unsolved-case-of-skyjacker-db-cooper-is-explored-again-in-new-netflix-documentary-series.html"
-    },
-    {
-      "text": "Dear Doctor: Are expired prescription drugs dangerous? My wife won\u2019t throw hers out",
-      "url": "https://www.oregonlive.com/health/2022/07/dear-doctor-are-expired-prescription-drugs-dangerous-my-wife-wont-throw-hers-out.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/entertainment/2022/07/a-shark-week-blimp-will-fly-over-portland-and-nw-skies-this-weekend.html"
-    },
-    {
-      "text": "A \u2018Shark Week\u2019 blimp will fly over Portland and NW skies this weekend",
-      "url": "https://www.oregonlive.com/entertainment/2022/07/a-shark-week-blimp-will-fly-over-portland-and-nw-skies-this-weekend.html"
-    },
-    {
-      "text": "Oregon State Hospital scrambles to fill shifts amid resurgent staff shortage",
-      "url": "https://www.oregonlive.com/health/2022/07/oregon-state-hospital-scrambles-to-fill-shifts-amid-resurgent-staff-shortage.html"
-    },
-    {
       "text": "Ask an expert: How do I stop caterpillars from munching all the leaves off my trees?",
       "url": "https://www.oregonlive.com/hg/2022/07/ask-an-expert-how-do-i-stop-caterpillars-from-munching-all-the-leaves-off-my-trees.html"
+    },
+    {
+      "text": "Canard\u2019s Oregon City restaurant opens this weekend",
+      "url": "https://www.oregonlive.com/dining/2022/07/canards-oregon-city-restaurant-opens-this-weekend.html"
     },
     {
       "text": "",
@@ -1545,54 +1765,6 @@
     {
       "text": "Fentanyl death increase prompts Oregon alert, call for better access to naloxone",
       "url": "https://www.oregonlive.com/health/2022/07/fentanyl-death-increase-prompts-oregon-alert-call-for-better-access-to-naloxone.html"
-    },
-    {
-      "text": "The Big Float is throwing itself a going-away party on the Willamette River",
-      "url": "https://www.oregonlive.com/entertainment/2022/07/the-big-float-is-throwing-itself-a-going-away-party-on-the-willamette-river.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/realestate/2022/07/dust-devil-mining-a-you-dig-sunstone-operation-in-lake-county-is-for-sale-at-16-million.html"
-    },
-    {
-      "text": "Dust Devil Mining, a you-dig sunstone operation in Lake County, is for sale at $1.6 million",
-      "url": "https://www.oregonlive.com/realestate/2022/07/dust-devil-mining-a-you-dig-sunstone-operation-in-lake-county-is-for-sale-at-16-million.html"
-    },
-    {
-      "text": "Top Neapolitan pizza truck Pizzeria DOP to open Eugene restaurant",
-      "url": "https://www.oregonlive.com/dining/2022/07/one-of-the-northwests-top-neapolitan-pizzerias-is-opening-a-eugene-restaurant.html"
-    },
-    {
-      "text": "Canard\u2019s Oregon City restaurant opens this weekend",
-      "url": "https://www.oregonlive.com/dining/2022/07/canards-oregon-city-restaurant-opens-this-weekend.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/wine/2022/07/6-willamette-valley-pinot-noir-party-recommendations.html"
-    },
-    {
-      "text": "6 Willamette Valley pinot noir party recommendations",
-      "url": "https://www.oregonlive.com/wine/2022/07/6-willamette-valley-pinot-noir-party-recommendations.html"
-    },
-    {
-      "text": "Dear Doctor: Can I stop taking my prescription blood thinner and go on something natural, like a tea?",
-      "url": "https://www.oregonlive.com/health/2022/07/dear-doctor-can-i-stop-taking-my-prescription-blood-thinner-and-go-on-something-natural-like-a-tea.html"
-    },
-    {
-      "text": "Practical and pretty yards star in the Portland Landscape Architecture + Design Tour on July 16",
-      "url": "https://www.oregonlive.com/hg/2022/07/practical-and-pretty-yards-star-in-the-portland-landscape-architecture-design-tour-on-july-16.html"
-    },
-    {
-      "text": "",
-      "url": "https://www.oregonlive.com/health/2022/07/monkeypox-not-a-threat-to-world-athletics-championship-attendees-health-officials-say-even-as-they-raise-alarms-about-cases-in-oregon.html"
-    },
-    {
-      "text": "Monkeypox not a threat to World Athletics Championship attendees, health officials say, even as they raise alarms about cases in Oregon",
-      "url": "https://www.oregonlive.com/health/2022/07/monkeypox-not-a-threat-to-world-athletics-championship-attendees-health-officials-say-even-as-they-raise-alarms-about-cases-in-oregon.html"
-    },
-    {
-      "text": "A San Francisco couple was charged a $1,500 fine for parking in their own driveway: Here\u2019s why",
-      "url": "https://www.oregonlive.com/trending/2022/07/a-san-francisco-couple-was-charged-a-1500-fine-for-parking-in-their-own-driveway-heres-why.html"
     },
     {
       "text": "Our Journalists",
@@ -1935,10 +2107,10 @@
       "url": "https://www.onetrust.com/products/cookie-consent/"
     }
   ],
-  "server": "ia601406.us.archive.org",
-  "uniq": 930502285,
+  "server": "ia801406.us.archive.org",
+  "uniq": 950185341,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

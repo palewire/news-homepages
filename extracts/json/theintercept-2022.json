@@ -1,5 +1,5 @@
 {
-  "created": 1657455537,
+  "created": 1657628658,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/theintercept-2022",
@@ -2872,31 +2872,199 @@
       "sha1": "9a5c6faf048505163f441333d4ba1731adc65cdf"
     },
     {
+      "name": "theintercept-2022-07-10T10:46:14.924287-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464377",
+      "size": "5946",
+      "md5": "59d664e0001cc8338a0e832daa65a965",
+      "crc32": "09494830",
+      "sha1": "a08948c1f7925a7479b84b79a0c5ddccf1224d7d",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-07-10T10:46:14.924287-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464379",
+      "size": "6545",
+      "md5": "98e09620dbb2ca1e6c06b35450eac065",
+      "crc32": "a47f8dd8",
+      "sha1": "f020bd8238097cf1db3f856da91bc635d1ffc0aa",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-07-10T10:46:14.924287-04:00.jpg",
+      "source": "original",
+      "mtime": "1657464376",
+      "size": "262245",
+      "md5": "789b55dad542772464fd1fdee4802034",
+      "crc32": "dfd38a73",
+      "sha1": "2aab2c1978293f01639d1227073d257fe295409c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintercept-2022-07-10T10:46:14.924287-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-07-10T10:46:14.924287-04:00.jpg",
+      "mtime": "1657464451",
+      "size": "9851",
+      "md5": "ecb365039c32010927c0c6c934376ec5",
+      "crc32": "4140fa21",
+      "sha1": "fb8e4af5b343c887662a7fc9d01144d1e998cbfc"
+    },
+    {
+      "name": "theintercept-2022-07-10T23:24:25.975325-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657509868",
+      "size": "5946",
+      "md5": "59d664e0001cc8338a0e832daa65a965",
+      "crc32": "09494830",
+      "sha1": "a08948c1f7925a7479b84b79a0c5ddccf1224d7d",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-07-10T23:24:25.975325-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657509870",
+      "size": "6545",
+      "md5": "98e09620dbb2ca1e6c06b35450eac065",
+      "crc32": "a47f8dd8",
+      "sha1": "f020bd8238097cf1db3f856da91bc635d1ffc0aa",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-07-10T23:24:25.975325-04:00.jpg",
+      "source": "original",
+      "mtime": "1657509867",
+      "size": "262245",
+      "md5": "789b55dad542772464fd1fdee4802034",
+      "crc32": "dfd38a73",
+      "sha1": "2aab2c1978293f01639d1227073d257fe295409c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintercept-2022-07-10T23:24:25.975325-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-07-10T23:24:25.975325-04:00.jpg",
+      "mtime": "1657509918",
+      "size": "9851",
+      "md5": "ecb365039c32010927c0c6c934376ec5",
+      "crc32": "4140fa21",
+      "sha1": "fb8e4af5b343c887662a7fc9d01144d1e998cbfc"
+    },
+    {
+      "name": "theintercept-2022-07-11T14:20:16.367443-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563621",
+      "size": "6023",
+      "md5": "0538f848a16b58443f9ef72e33d38189",
+      "crc32": "b092c1df",
+      "sha1": "292358c6fcc980484a894249a40069c64db0577d",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-07-11T14:20:16.367443-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563624",
+      "size": "6625",
+      "md5": "de6cf6fac79302e6e1d11448ad2896b3",
+      "crc32": "2f1f3cea",
+      "sha1": "41c0c7513d1e1baa85f560760bd3ff7a420b534e",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-07-11T14:20:16.367443-04:00.jpg",
+      "source": "original",
+      "mtime": "1657563618",
+      "size": "295326",
+      "md5": "1e40b55f5bf51392e569c5af035c0e87",
+      "crc32": "e4556314",
+      "sha1": "65859c5a3b8f769df510ba8d3b16f5f7df7744a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintercept-2022-07-11T14:20:16.367443-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-07-11T14:20:16.367443-04:00.jpg",
+      "mtime": "1657564061",
+      "size": "10407",
+      "md5": "9057bb83f881deb26235c157cf351bc9",
+      "crc32": "5bd67c7c",
+      "sha1": "f987f1e697f09a99b39a5919fdcc62005b33a8b8"
+    },
+    {
+      "name": "theintercept-2022-07-11T23:26:35.716475-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657596401",
+      "size": "6023",
+      "md5": "0538f848a16b58443f9ef72e33d38189",
+      "crc32": "b092c1df",
+      "sha1": "292358c6fcc980484a894249a40069c64db0577d",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-07-11T23:26:35.716475-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657596404",
+      "size": "6625",
+      "md5": "de6cf6fac79302e6e1d11448ad2896b3",
+      "crc32": "2f1f3cea",
+      "sha1": "41c0c7513d1e1baa85f560760bd3ff7a420b534e",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-07-11T23:26:35.716475-04:00.jpg",
+      "source": "original",
+      "mtime": "1657596399",
+      "size": "295326",
+      "md5": "1e40b55f5bf51392e569c5af035c0e87",
+      "crc32": "e4556314",
+      "sha1": "65859c5a3b8f769df510ba8d3b16f5f7df7744a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintercept-2022-07-11T23:26:35.716475-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-07-11T23:26:35.716475-04:00.jpg",
+      "mtime": "1657596457",
+      "size": "10407",
+      "md5": "9057bb83f881deb26235c157cf351bc9",
+      "crc32": "5bd67c7c",
+      "sha1": "f987f1e697f09a99b39a5919fdcc62005b33a8b8"
+    },
+    {
       "name": "theintercept-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c53285eb6279667ba69e84f319bd3803a790a92b",
-      "mtime": "1657423553",
-      "size": "59694",
-      "md5": "4ea707ccdbacd3abadeb773ef7aeeb33",
-      "crc32": "4f433f63",
-      "sha1": "496655093b14b879c10af2fd19102f28de21c2a6",
+      "btih": "21ad77a98f93d82869f9652e91598708f5486ce4",
+      "mtime": "1657596464",
+      "size": "63108",
+      "md5": "863101083fb5197994a771865b2e0903",
+      "crc32": "595791a1",
+      "sha1": "c33a5501b40691e74dc01d8159b89bb2350e05bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theintercept-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e4bd737c71c6655bc8a476d2c45c0af9",
+      "md5": "d2342efee1527f783cf8a14f24c50a46",
       "summation": "md5"
     },
     {
       "name": "theintercept-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423501",
-      "size": "335872",
-      "md5": "ef74965ffb2c49c5350389462f7ae68e",
-      "crc32": "b5aeda57",
-      "sha1": "a92f2ec9e6953627c8987a21746bab5e4cea3819",
+      "mtime": "1657596407",
+      "size": "352256",
+      "md5": "7779d6b913fb3154cbeddcb4f4aa074e",
+      "crc32": "0b75a167",
+      "sha1": "bdd4ada8711c9b3a613da4ccfcacf750799da904",
       "format": "Metadata"
     },
     {
@@ -2910,9 +3078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 277,
-  "item_last_updated": 1657423553,
-  "item_size": 17936871,
+  "files_count": 293,
+  "item_last_updated": 1657596464,
+  "item_size": 19162605,
   "metadata": {
     "identifier": "theintercept-2022",
     "collection": [
@@ -2929,7 +3097,7 @@
     "publicdate": "2022-06-19 23:28:41",
     "addeddate": "2022-06-19 23:28:41"
   },
-  "server": "ia802503.us.archive.org",
+  "server": "ia902503.us.archive.org",
   "theintercept-2022": [
     {
       "text": "",
@@ -3048,8 +3216,8 @@
       "url": "/"
     },
     {
-      "text": "Army Bases Shockingly Unprepared for Chemical, Biological AttacksNick Turse",
-      "url": "/2022/07/09/army-chemical-biological-nuclear-attack-bases-unprepared/"
+      "text": "The End of RoeAnti-Abortion Zealots Were Precursor to Donald Trump\u2019s Right-Wing Shock TroopsJames Risen",
+      "url": "/2022/07/11/abortion-trump-right-wing-patriot-front/"
     },
     {
       "text": "Politics",
@@ -3084,32 +3252,32 @@
       "url": "https://join.theintercept.com/donate/now/?source=web_intercept_20220502_homepage-horizontal-nav&referrer_url=https%3A%2F%2Ftheintercept.com%2F"
     },
     {
-      "text": "In Letter to Biden, Shireen Abu Akleh\u2019s Family Demands a Meeting and an End to Israeli ImpunityRobert MackeyExclusive: The family of the Palestinian American journalist gunned down during an Israeli raid wants Biden to meet them face to face during his Middle East trip.",
+      "text": "After Bucking AIPAC Line, Rep. Sean Casten Returned $50,000 to Right-Leaning Pro-Israel DonorsAustin AhlmanThe refunds indicate the Illinois House member has a strained relationship with pro-Israel groups that supported his reelection.",
+      "url": "/2022/07/11/sean-casten-israel-aipac-returned-money/"
+    },
+    {
+      "text": "The Twisted Legal Path to Oklahoma\u2019s Looming Execution SpreeLiliana SeguraA long-awaited trial was supposed to decide whether Oklahoma\u2019s lethal injection protocol was cruel and unusual punishment. But it was rigged from the start.",
+      "url": "/2022/07/10/lethal-injection-oklahoma-trial-midazolam/"
+    },
+    {
+      "text": "Army Bases Shockingly Unprepared for Chemical, Biological AttacksNick TurseDocuments say safety shortfalls likely exist across the Army, which operates chemical weapons storage facilities and a research institute that works with lethal pathogens.",
+      "url": "/2022/07/09/army-chemical-biological-nuclear-attack-bases-unprepared/"
+    },
+    {
+      "text": "In Letter to Biden, Shireen Abu Akleh\u2019s Family Demands a Meeting and an End to Israeli ImpunityRobert Mackey",
       "url": "/2022/07/08/israel-shireen-abu-akleh-biden/"
     },
     {
-      "text": "Rhode Island Progressives Push for Takeover of State Democratic PartyAkela LacyProgressive slates offer a state-level model for the left to overcome the stagnation of Biden\u2019s presidency and the national Democratic Party.",
+      "text": "Rhode Island Progressives Push for Takeover of State Democratic PartyAkela Lacy",
       "url": "/2022/07/08/rhode-island-cooperative-progressive-democratic-party/"
     },
     {
-      "text": "Deconstructed PodcastWhy Jason Kander Walked Away From PoliticsDeconstructedIn a new memoir, the veteran and 2016 Senate candidate reveals the struggle with post-traumatic stress disorder that led him to end his run for mayor of Kansas City.",
+      "text": "Ron Johnson Campaign Scrambled to Pull \u201cMass Murder\u201d Ad After July 4 Mass ShootingKen Klippenstein",
+      "url": "/2022/07/07/mass-shooting-guns-ron-johnson-campaign/"
+    },
+    {
+      "text": "Deconstructed PodcastWhy Jason Kander Walked Away From PoliticsDeconstructed",
       "url": "/2022/07/07/deconstructed-jason-kander-ptsd-memoir/"
-    },
-    {
-      "text": "Biden Administration Pushes More Ocean Drilling Amid Record Oil and Gas ProfitsAkela Lacy",
-      "url": "/2022/07/06/biden-oil-gas-drilling-royalty-rates/"
-    },
-    {
-      "text": "Democrats\u2019 Cowardice and Complicity in the Post-Roe WorldNatasha Lennard",
-      "url": "/2022/07/05/roe-wade-abortion-democrats-planned-parenthood/"
-    },
-    {
-      "text": "The End of RoeThe Fight for Abortion Rights Turns to State ConstitutionsJordan Smith",
-      "url": "/2022/07/03/abortion-rights-state-constitutions/"
-    },
-    {
-      "text": "How the Pentagon Uses a Secretive Program to Wage Proxy WarsNick Turse, Alice Speri",
-      "url": "/2022/07/01/pentagon-127e-proxy-wars/"
     },
     {
       "text": "Become a Member",
@@ -3132,12 +3300,12 @@
       "url": "/voices/"
     },
     {
-      "text": "Democrats\u2019 Cowardice and Complicity in the Post-Roe WorldNatasha Lennard",
-      "url": "/2022/07/05/roe-wade-abortion-democrats-planned-parenthood/"
+      "text": "The End of RoeAnti-Abortion Zealots Were Precursor to Donald Trump\u2019s Right-Wing Shock TroopsJames Risen",
+      "url": "/2022/07/11/abortion-trump-right-wing-patriot-front/"
     },
     {
-      "text": "The Supreme Court\u2019s Shock-and-Awe Judicial CoupNaomi Klein",
-      "url": "/2022/06/30/supreme-court-climate-epa-coup/"
+      "text": "Democrats\u2019 Cowardice and Complicity in the Post-Roe WorldNatasha Lennard",
+      "url": "/2022/07/05/roe-wade-abortion-democrats-planned-parenthood/"
     },
     {
       "text": "Videos",
@@ -3196,9 +3364,9 @@
       "url": "/source/#securedrop"
     }
   ],
-  "uniq": 493049858,
+  "uniq": 275764943,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

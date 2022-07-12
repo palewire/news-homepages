@@ -1,5 +1,5 @@
 {
-  "created": 1657455545,
+  "created": 1657628666,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/35/items/thenation-2022",
@@ -520,31 +520,199 @@
       "sha1": "a4417844a06f42142f85b1a33cf28df49fc513cb"
     },
     {
+      "name": "thenation-2022-07-10T10:46:15.981926-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464379",
+      "size": "20480",
+      "md5": "d89a57da724a5f706673286969cadff1",
+      "crc32": "26ccd5cf",
+      "sha1": "9e0a23c2a67319d31034b2ad64b11f3a03e34179",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-10T10:46:15.981926-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464381",
+      "size": "16997",
+      "md5": "c80a2b9a95ef4c2292621220a47f7773",
+      "crc32": "738688b1",
+      "sha1": "e6d3411445937dec4e824891533f0116730dc08c",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-10T10:46:15.981926-04:00.jpg",
+      "source": "original",
+      "mtime": "1657464377",
+      "size": "236780",
+      "md5": "b0c5e8ce0441d0d7d57fea017d8bb69e",
+      "crc32": "2e2a9df1",
+      "sha1": "069371840c1e1baccf25ef4321aee23759a41983",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenation-2022-07-10T10:46:15.981926-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenation-2022-07-10T10:46:15.981926-04:00.jpg",
+      "mtime": "1657464431",
+      "size": "8643",
+      "md5": "5edc8491a249a613b48ec40cf1f1f65b",
+      "crc32": "6b66bce2",
+      "sha1": "94112ca858b1c0f369e183d36a53c650dd2ac9af"
+    },
+    {
+      "name": "thenation-2022-07-10T23:24:41.923264-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657509885",
+      "size": "20480",
+      "md5": "d89a57da724a5f706673286969cadff1",
+      "crc32": "26ccd5cf",
+      "sha1": "9e0a23c2a67319d31034b2ad64b11f3a03e34179",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-10T23:24:41.923264-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657509886",
+      "size": "16997",
+      "md5": "c80a2b9a95ef4c2292621220a47f7773",
+      "crc32": "738688b1",
+      "sha1": "e6d3411445937dec4e824891533f0116730dc08c",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-10T23:24:41.923264-04:00.jpg",
+      "source": "original",
+      "mtime": "1657509883",
+      "size": "236780",
+      "md5": "b0c5e8ce0441d0d7d57fea017d8bb69e",
+      "crc32": "2e2a9df1",
+      "sha1": "069371840c1e1baccf25ef4321aee23759a41983",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenation-2022-07-10T23:24:41.923264-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenation-2022-07-10T23:24:41.923264-04:00.jpg",
+      "mtime": "1657509930",
+      "size": "8643",
+      "md5": "5edc8491a249a613b48ec40cf1f1f65b",
+      "crc32": "6b66bce2",
+      "sha1": "94112ca858b1c0f369e183d36a53c650dd2ac9af"
+    },
+    {
+      "name": "thenation-2022-07-11T14:20:47.889789-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563655",
+      "size": "20370",
+      "md5": "238877bd6fafb52bb11be5adf1d60ca0",
+      "crc32": "a2c6de00",
+      "sha1": "2e85bb92c831872fdaa228bee378cd1ab20014cd",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-11T14:20:47.889789-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563658",
+      "size": "16908",
+      "md5": "e1a23348230f2f7ece2de6d142809b6c",
+      "crc32": "13e7eeba",
+      "sha1": "187f7ab9601c3a7417941931e52ea2f2d506b092",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-11T14:20:47.889789-04:00.jpg",
+      "source": "original",
+      "mtime": "1657563651",
+      "size": "287691",
+      "md5": "e05bd8a0b234f70e60f64ec49a0841ed",
+      "crc32": "ee40318d",
+      "sha1": "5384254d690ab12a38aff1775c2ced167a8343c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenation-2022-07-11T14:20:47.889789-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenation-2022-07-11T14:20:47.889789-04:00.jpg",
+      "mtime": "1657564065",
+      "size": "9093",
+      "md5": "510275497de08b6df453fc207995b8a5",
+      "crc32": "64965f8b",
+      "sha1": "7caf66f6b9c6f86c4ff2d8d7e8ffe9252d136a00"
+    },
+    {
+      "name": "thenation-2022-07-11T23:27:25.304459-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657596448",
+      "size": "20433",
+      "md5": "c583c76d7d7bb3bccb2326c6ee7072e0",
+      "crc32": "aaeefa62",
+      "sha1": "57c5db681a7fb586392cf9135b28b605a20388d1",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-11T23:27:25.304459-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657596450",
+      "size": "16867",
+      "md5": "580aa87792d60bf170dee675ba845bda",
+      "crc32": "b2fb0b3b",
+      "sha1": "31b1b35c2af277327d3ed7165cdab05a99a46d79",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-11T23:27:25.304459-04:00.jpg",
+      "source": "original",
+      "mtime": "1657596447",
+      "size": "210271",
+      "md5": "a8f88918c3a3477c0d313d01210f8181",
+      "crc32": "7e521484",
+      "sha1": "9ff9f2b62ff78f743cf28c8c5b878ce745b877fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenation-2022-07-11T23:27:25.304459-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenation-2022-07-11T23:27:25.304459-04:00.jpg",
+      "mtime": "1657596508",
+      "size": "8925",
+      "md5": "5c6e09c7be1ce9ddf5f54600dc4295b0",
+      "crc32": "f3e5e468",
+      "sha1": "cb60b591246371ce4611f0fe53c500e6d1e119b5"
+    },
+    {
       "name": "thenation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bd5d1ebaff8fcc2db5d351e3fff057a2c478286b",
-      "mtime": "1657423579",
-      "size": "11752",
-      "md5": "aef28371d46fe6e9adf5887cdb6b7d0d",
-      "crc32": "0f01e51b",
-      "sha1": "689e0066f70b241ff18173cccfdbe7673db3f26f",
+      "btih": "4424374140f5a677b8763f5df5c0833169b90287",
+      "mtime": "1657596511",
+      "size": "15144",
+      "md5": "afb281bfa21fab30fc9096e3ea6ef3f8",
+      "crc32": "47ed33d6",
+      "sha1": "b1d13c922922b0588375021a2b951bbe1b11b2e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a2b7ef386e3db847d95c4f86fe4a7c9d",
+      "md5": "8d3ce1f51604d4acb88c63d72122c762",
       "summation": "md5"
     },
     {
       "name": "thenation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423527",
-      "size": "69632",
-      "md5": "c9dac165ddc020f51e1d3c776d160391",
-      "crc32": "a4d12852",
-      "sha1": "bad09fb425818307c1925e611bc11a784f691acd",
+      "mtime": "1657596454",
+      "size": "86016",
+      "md5": "eff005b6d8ab61c3f578e2a9a074101f",
+      "crc32": "0f5e86bc",
+      "sha1": "9614cf8d771c09bf2aeff24b0b721abb6a7e302c",
       "format": "Metadata"
     },
     {
@@ -558,9 +726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 53,
-  "item_last_updated": 1657423579,
-  "item_size": 3574420,
+  "files_count": 69,
+  "item_last_updated": 1657596511,
+  "item_size": 4750554,
   "metadata": {
     "identifier": "thenation-2022",
     "collection": [
@@ -577,7 +745,7 @@
     "publicdate": "2022-07-04 21:46:22",
     "addeddate": "2022-07-04 21:46:22"
   },
-  "server": "ia601502.us.archive.org",
+  "server": "ia801502.us.archive.org",
   "thenation-2022": [
     {
       "text": "Ad Policy",
@@ -781,63 +949,51 @@
     },
     {
       "text": "\n\n",
-      "url": "https://www.thenation.com/article/world/boris-johnson-trump/"
+      "url": "https://www.thenation.com/article/world/chile-constitution/"
     },
     {
-      "text": "The UK Held Corruption Accountable. Why Can\u2019t We?",
-      "url": "https://www.thenation.com/article/world/boris-johnson-trump/"
+      "text": "Can Chile\u2019s Radical New Constitution Survive a Vote?",
+      "url": "https://www.thenation.com/article/world/chile-constitution/"
     },
     {
-      "text": "Sasha Abramsky",
-      "url": "https://www.thenation.com/authors/sasha-abramsky/"
+      "text": "Natacha L\u00f3pez",
+      "url": "https://www.thenation.com/authors/natacha-lopez/"
     },
     {
-      "text": "\nPolitics ",
-      "url": "https://www.thenation.com/subject/politics/"
+      "text": "\nNuclear Arms and Proliferation ",
+      "url": "https://www.thenation.com/subject/nuclear-arms-and-proliferation/"
     },
     {
-      "text": "Republicans Are Attacking Wisconsin\u2019s Lieutenant Governor for Saying Slavery Was Terrible",
-      "url": "https://www.thenation.com/article/politics/wisconsin-mandela-barnes-slavery/"
+      "text": "More Money for the Pentagon Won\u2019t Make Us Safe",
+      "url": "https://www.thenation.com/article/world/pentagon-budget-warfare-state/"
     },
     {
-      "text": "John Nichols",
-      "url": "https://www.thenation.com/authors/john-nichols/"
+      "text": "William D. Hartung",
+      "url": "https://www.thenation.com/authors/william-d-hartung/"
     },
     {
-      "text": "\nCivil Unrest ",
-      "url": "https://www.thenation.com/subject/civil-unrest/"
+      "text": "\nFine Art ",
+      "url": "https://www.thenation.com/subject/fine-art/"
     },
     {
-      "text": "Cuba One Year After the Protests",
-      "url": "https://www.thenation.com/article/world/cuba-havana-diaz-canel/"
+      "text": "The Artwork of Guant\u00e1namo Detainees",
+      "url": "https://www.thenation.com/article/society/guantanamo-art-al-alwi/"
     },
     {
-      "text": "William M. LeoGrande",
-      "url": "https://www.thenation.com/authors/william-leogrande/"
+      "text": "Erin L. Thompson",
+      "url": "https://www.thenation.com/authors/erin-l-thompson/"
     },
     {
-      "text": "\nHousing and Homelessness ",
-      "url": "https://www.thenation.com/subject/housing-and-homelessness/"
+      "text": "\nHistory ",
+      "url": "https://www.thenation.com/subject/history/"
     },
     {
-      "text": "Does Building Luxury Condos Create More Affordable Housing?",
-      "url": "https://www.thenation.com/article/society/affordable-housing-debate/"
+      "text": "The Democrats at a Crossroads",
+      "url": "https://www.thenation.com/article/politics/michael-kazin-democrats-history/"
     },
     {
-      "text": "Brian Hanlon",
-      "url": "https://www.thenation.com/authors/brian-hanlon/"
-    },
-    {
-      "text": "Ned Resnikoff",
-      "url": "https://www.thenation.com/authors/ned-resnikoff/"
-    },
-    {
-      "text": "John Washington",
-      "url": "https://www.thenation.com/authors/john-washington-2/"
-    },
-    {
-      "text": "Tara Raghuveer",
-      "url": "https://www.thenation.com/authors/tara-raghuveer/"
+      "text": "Nicholas Lemann",
+      "url": "https://www.thenation.com/authors/nicholas-lemann/"
     },
     {
       "text": "Ad Policy",
@@ -846,6 +1002,18 @@
     {
       "text": "Privacy Policy here.",
       "url": "https://www.thenation.com/privacy-policy"
+    },
+    {
+      "text": "\n\n",
+      "url": "https://www.thenation.com/article/world/pentagon-budget-warfare-state/"
+    },
+    {
+      "text": "More Money for the Pentagon Won\u2019t Make Us Safe",
+      "url": "https://www.thenation.com/article/world/pentagon-budget-warfare-state/"
+    },
+    {
+      "text": "William D. Hartung",
+      "url": "https://www.thenation.com/authors/william-d-hartung/"
     },
     {
       "text": "\n\n",
@@ -873,18 +1041,6 @@
     },
     {
       "text": "\n\n",
-      "url": "https://www.thenation.com/article/world/bidens-nato-summit-divides-the-world-into-hostile-camps/"
-    },
-    {
-      "text": "Biden\u2019s NATO Summit Divides the World Into Hostile Camps",
-      "url": "https://www.thenation.com/article/world/bidens-nato-summit-divides-the-world-into-hostile-camps/"
-    },
-    {
-      "text": "Michael T. Klare",
-      "url": "https://www.thenation.com/authors/michael-t-klare/"
-    },
-    {
-      "text": "\n\n",
       "url": "https://www.thenation.com/article/society/roe-illegal-abortion/"
     },
     {
@@ -909,15 +1065,15 @@
     },
     {
       "text": "\n\n",
-      "url": "https://www.thenation.com/article/culture/imogen-binnie-nevada/"
+      "url": "https://www.thenation.com/article/politics/michael-kazin-democrats-history/"
     },
     {
-      "text": "A Different Kind of Trans Book: On Imogen Binnie\u2019s \u201cNevada\u201d",
-      "url": "https://www.thenation.com/article/culture/imogen-binnie-nevada/"
+      "text": "The Democrats at a Crossroads",
+      "url": "https://www.thenation.com/article/politics/michael-kazin-democrats-history/"
     },
     {
-      "text": "McKenzie Wark",
-      "url": "https://www.thenation.com/authors/mckenzie-wark/"
+      "text": "Nicholas Lemann",
+      "url": "https://www.thenation.com/authors/nicholas-lemann/"
     },
     {
       "text": "\n\n",
@@ -933,15 +1089,15 @@
     },
     {
       "text": "\n\n",
-      "url": "https://www.thenation.com/article/culture/elif-batuman-interview/"
+      "url": "https://www.thenation.com/article/society/guantanamo-art-al-alwi/"
     },
     {
-      "text": "Elif Batuman Answers Our Burning Questions About the State of the Novel",
-      "url": "https://www.thenation.com/article/culture/elif-batuman-interview/"
+      "text": "The Artwork of Guant\u00e1namo Detainees",
+      "url": "https://www.thenation.com/article/society/guantanamo-art-al-alwi/"
     },
     {
-      "text": "Najwa Jamal",
-      "url": "https://www.thenation.com/authors/najwa-jamal/"
+      "text": "Erin L. Thompson",
+      "url": "https://www.thenation.com/authors/erin-l-thompson/"
     },
     {
       "text": "\n\n",
@@ -1044,36 +1200,36 @@
       "url": "http://www.thenation.com/advertising-policy"
     },
     {
-      "text": "July 11/18, 2022, Issue",
-      "url": "https://www.thenation.com/issue/july-11-18-2022-issue/"
+      "text": "July 25/August 1, 2022, Issue",
+      "url": "https://www.thenation.com/issue/july-25-august-1-2022-issue/"
     },
     {
-      "text": "Letters From the July 11/18, 2022, Issue",
-      "url": "https://www.thenation.com/article/society/letters-from-the-july-11-18-2022-issue/"
+      "text": "The Rise of Bad Art and the Decline of Political Candor",
+      "url": "https://www.thenation.com/article/culture/bad-art-top-gun/"
     },
     {
-      "text": "Our Readers",
-      "url": "https://www.thenation.com/authors/our-readers/"
+      "text": "David Bromwich",
+      "url": "https://www.thenation.com/authors/david-bromwich/"
     },
     {
-      "text": "When Massachusetts Representative Barney Frank Came Out",
-      "url": "https://www.thenation.com/article/society/smahtguy-barney-frank-gay/"
+      "text": "Cuba One Year After the Protests",
+      "url": "https://www.thenation.com/article/world/cuba-havana-diaz-canel/"
     },
     {
-      "text": "Eric Orner",
-      "url": "https://www.thenation.com/authors/eric-orner/"
+      "text": "William M. LeoGrande",
+      "url": "https://www.thenation.com/authors/william-leogrande/"
     },
     {
-      "text": "It Should Become Standard for Women to Freeze Their Eggs",
-      "url": "https://www.thenation.com/article/society/egg-freezing-ivf-reproductive/"
+      "text": "The Democrats at a Crossroads",
+      "url": "https://www.thenation.com/article/politics/michael-kazin-democrats-history/"
     },
     {
-      "text": "Alexis Grenell",
-      "url": "https://www.thenation.com/authors/alexis-grenell/"
+      "text": "Nicholas Lemann",
+      "url": "https://www.thenation.com/authors/nicholas-lemann/"
     },
     {
       "text": "\nSee Full Issue\n",
-      "url": "https://www.thenation.com/issue/july-11-18-2022-issue/"
+      "url": "https://www.thenation.com/issue/july-25-august-1-2022-issue/"
     },
     {
       "text": "Subscribe to The Nation",
@@ -1244,9 +1400,9 @@
       "url": "https://www.thenation.com/privacy-contact-form/"
     }
   ],
-  "uniq": 711849877,
+  "uniq": 1865912622,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

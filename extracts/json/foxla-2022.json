@@ -1,5 +1,5 @@
 {
-  "created": 1657455072,
+  "created": 1657628048,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/foxla-2022",
@@ -9796,31 +9796,283 @@
       "sha1": "6b2a81b73d55fbc05826df9798659dc1ee3aeda3"
     },
     {
+      "name": "foxla-2022-07-10T05:42:52.153920-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657456975",
+      "size": "44836",
+      "md5": "c1d0529bc249ddcd3ef20806ba024a21",
+      "crc32": "3e481a58",
+      "sha1": "a0ea6160a89ff706bdc696d2b4aad6a0abf47143",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-10T05:42:52.153920-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657456977",
+      "size": "40316",
+      "md5": "5cd47fc8e3277488176a50a35f24b092",
+      "crc32": "93eede65",
+      "sha1": "60d7fddc353081e5cd1659b86ebb389c0bf69a69",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-10T05:42:52.153920-07:00.jpg",
+      "source": "original",
+      "mtime": "1657456974",
+      "size": "292230",
+      "md5": "6837f202ecf3873b1704180622b0d374",
+      "crc32": "5e9006f1",
+      "sha1": "e25415376daa96dfdc4e7af8ca5a5ea1a8b48aeb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-07-10T05:42:52.153920-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-07-10T05:42:52.153920-07:00.jpg",
+      "mtime": "1657457068",
+      "size": "10338",
+      "md5": "64f99766f6fc86bcc0a5f16e93382a12",
+      "crc32": "f084e6cd",
+      "sha1": "8c11c11c5f9ecc9cbc7cb906cdb389e66ba18bc4"
+    },
+    {
+      "name": "foxla-2022-07-10T11:18:34.454890-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657477119",
+      "size": "44173",
+      "md5": "d8dedb1bd1c5ac87d0b0e399ef5b0538",
+      "crc32": "59cc7df4",
+      "sha1": "473981c425611e3225eaf239ac075955b9192d2f",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-10T11:18:34.454890-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657477121",
+      "size": "39410",
+      "md5": "863e7d0bbce37ebb57b2958df37bd149",
+      "crc32": "b643566a",
+      "sha1": "df16f8675190a0977ac2760dc113e3f5b5c77fef",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-10T11:18:34.454890-07:00.jpg",
+      "source": "original",
+      "mtime": "1657477117",
+      "size": "288376",
+      "md5": "d5e25769916ad54a19dc3bf21b1bcef5",
+      "crc32": "8cf688f5",
+      "sha1": "55ae423800af6bc42352bbfa0cd81191683dff49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-07-10T11:18:34.454890-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-07-10T11:18:34.454890-07:00.jpg",
+      "mtime": "1657477242",
+      "size": "10599",
+      "md5": "d725781272a1c3556c628a25cf64c91e",
+      "crc32": "31a562de",
+      "sha1": "acadc86c61c733ca23b7aba44c77dcfbfaaecffc"
+    },
+    {
+      "name": "foxla-2022-07-10T17:51:30.689199-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657500699",
+      "size": "44457",
+      "md5": "c1dbb23170acf340d3420eac3276b17d",
+      "crc32": "881c77e3",
+      "sha1": "2773b5fe3097f13c20f2b9deecf9e598a391a603",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-10T17:51:30.689199-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657500701",
+      "size": "40044",
+      "md5": "4925ca4d8b722d27225e7fd0e08f6126",
+      "crc32": "c48277ff",
+      "sha1": "34e3e575206e7f6d4e41ae8738ae308bbc7d96a3",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-10T17:51:30.689199-07:00.jpg",
+      "source": "original",
+      "mtime": "1657500696",
+      "size": "302790",
+      "md5": "ec9b6abb4df2d41ab27945e64990774f",
+      "crc32": "621050af",
+      "sha1": "e00aad5cf36679c58c8b102e06ff70fdaea41c33",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-07-10T17:51:30.689199-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-07-10T17:51:30.689199-07:00.jpg",
+      "mtime": "1657500766",
+      "size": "10455",
+      "md5": "267eb99dc1f3f35c80937129032b5030",
+      "crc32": "72fc73a4",
+      "sha1": "51eb789effeed601440c748a4e4442c3303cb5d9"
+    },
+    {
+      "name": "foxla-2022-07-11T08:36:08.037451-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657553775",
+      "size": "44562",
+      "md5": "feca4e2678fc30aa55d926141d2e1a08",
+      "crc32": "a1eed16c",
+      "sha1": "0956abf7c098b3b9ffabe0331f8bbcbdb6918cc5",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-11T08:36:08.037451-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657553777",
+      "size": "39865",
+      "md5": "fe0a2c8adc2d512497007e1341da5c17",
+      "crc32": "74b0b1cd",
+      "sha1": "61484d5f66267c88577428a0d04da601c1f5aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-11T08:36:08.037451-07:00.jpg",
+      "source": "original",
+      "mtime": "1657553773",
+      "size": "285977",
+      "md5": "3a19854525a806af41742dfb2445664f",
+      "crc32": "5fd363bd",
+      "sha1": "b0fb9e63157dc8e25a81ede0343a6ea940fdf2eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-07-11T08:36:08.037451-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-07-11T08:36:08.037451-07:00.jpg",
+      "mtime": "1657553908",
+      "size": "10462",
+      "md5": "e5d1ca608784e81925bc6349f2fbaab4",
+      "crc32": "603ec46e",
+      "sha1": "f61351618b2390bbfad1b3048508e20de406bbfd"
+    },
+    {
+      "name": "foxla-2022-07-11T12:22:24.488139-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657567349",
+      "size": "44982",
+      "md5": "359a98d0849ec11e7ac8b3fec42ae93d",
+      "crc32": "e9427b5a",
+      "sha1": "a17adf9523e3a0b54ba42ca40339acb8650057fe",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-11T12:22:24.488139-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657567351",
+      "size": "39848",
+      "md5": "b3684215203cf6602939fe3a1906ae55",
+      "crc32": "54603b1b",
+      "sha1": "5fe5a565c371b05301f98418e9088a841c838da0",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-11T12:22:24.488139-07:00.jpg",
+      "source": "original",
+      "mtime": "1657567347",
+      "size": "326640",
+      "md5": "7af19e60025b9aeaa0f9b5494c722b1e",
+      "crc32": "f0c57cc3",
+      "sha1": "d125776c7d2fe08c6dee038f5f64eddf62d59f56",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-07-11T12:22:24.488139-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-07-11T12:22:24.488139-07:00.jpg",
+      "mtime": "1657567768",
+      "size": "10469",
+      "md5": "2f375fc08bfda19d5eacec0a510a5208",
+      "crc32": "a2e37370",
+      "sha1": "fab7bee669a1a03c3f811ace4e99869addb6c5b6"
+    },
+    {
+      "name": "foxla-2022-07-11T17:51:32.634284-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657587096",
+      "size": "45657",
+      "md5": "68bc794810a0a796581f3b2eb0f4b7ec",
+      "crc32": "82ca9acc",
+      "sha1": "65772e82b5f785ca0f3ebef7aae0ae1e01b953a1",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-11T17:51:32.634284-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657587098",
+      "size": "39907",
+      "md5": "e4bb51d52941c569e42794f69e6f180a",
+      "crc32": "1121bd24",
+      "sha1": "839cc889163c1554edfb025be3422e7698d77938",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-07-11T17:51:32.634284-07:00.jpg",
+      "source": "original",
+      "mtime": "1657587094",
+      "size": "330280",
+      "md5": "84d845e7900f6806ca7f991bba6cef88",
+      "crc32": "11824347",
+      "sha1": "ff71c320048cbca8f9ddecdc38d14241ee1e3f57",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-07-11T17:51:32.634284-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-07-11T17:51:32.634284-07:00.jpg",
+      "mtime": "1657587163",
+      "size": "10435",
+      "md5": "3047f07903dac5422f97b7e5f52eb247",
+      "crc32": "691826ac",
+      "sha1": "c2430636bfae872cb85c4a9f54762b2481570a55"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6b6e680a0450b922110568a5a13359fbc14bea1",
-      "mtime": "1657414601",
-      "size": "195398",
-      "md5": "09d3c773d0c951497bddde4705e31d69",
-      "crc32": "f5a181ad",
-      "sha1": "84d334e708b2c8522b4bf95ae0705f1698cd1244",
+      "btih": "101cb579533e9709d1ebc9d9fcf83e0587a1884c",
+      "mtime": "1657587187",
+      "size": "200406",
+      "md5": "2680556577dbc403a9866551208519ce",
+      "crc32": "441fa096",
+      "sha1": "4325ffa8dea54ed0d1c980a5b675ab625a1eb0c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f248734b3d0fd014328ebc7c5b45e0dc",
+      "md5": "08d954cfd706d81f9ac7f2584fcdb75c",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657414531",
-      "size": "1060864",
-      "md5": "908110e272facc9a40072b02bf9c89d7",
-      "crc32": "da303d4c",
-      "sha1": "8d5face2205fe3450c5a4494f4443e330c4abff2",
+      "mtime": "1657587103",
+      "size": "1085440",
+      "md5": "c05dbda1375ff0cf1a768fd719a003af",
+      "crc32": "704fa3ac",
+      "sha1": "6b015a4f2de0cfbe7e08f68af830e7693eaec0b6",
       "format": "Metadata"
     },
     {
@@ -9834,7 +10086,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 935,
+  "files_count": 959,
   "foxla-2022": [
     {
       "text": " ",
@@ -10274,107 +10526,107 @@
     },
     {
       "text": "   ",
-      "url": "/news/over-715000-signatures-collected-in-da-george-gascon-recall-effort"
+      "url": "/news/7-eleven-shootings-robberies-southern-california"
     },
     {
-      "text": "Over 715,000 signatures collected in DA George Gasc\u00f3n recall effort",
-      "url": "/news/over-715000-signatures-collected-in-da-george-gascon-recall-effort"
-    },
-    {
-      "text": "  ",
-      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
-    },
-    {
-      "text": "Man on roof armed with gun killed in shooting involving Long Beach police",
-      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
+      "text": "7-Eleven robberies: At least 2 shot dead in 6 incidents across SoCal",
+      "url": "/news/7-eleven-shootings-robberies-southern-california"
     },
     {
       "text": "  ",
-      "url": "/news/turpin-siblings-case-independent-investigation-states-social-services-system-failed-them"
+      "url": "/news/us-olympian-kim-glass-attacked-by-homeless-man-in-dtla"
     },
     {
-      "text": "Turpin siblings case: Independent investigation states \u2018all too often the social services system failed them\u2019",
-      "url": "/news/turpin-siblings-case-independent-investigation-states-social-services-system-failed-them"
-    },
-    {
-      "text": "  ",
-      "url": "/news/three-killed-four-injured-during-fiery-crash-in-orange"
-    },
-    {
-      "text": "Three killed, four injured during fiery crash in Orange",
-      "url": "/news/three-killed-four-injured-during-fiery-crash-in-orange"
+      "text": "US Olympian Kim Glass allegedly attacked by homeless man in DTLA",
+      "url": "/news/us-olympian-kim-glass-attacked-by-homeless-man-in-dtla"
     },
     {
       "text": "  ",
-      "url": "/news/california-to-make-its-own-low-cost-insulin-to-help-combat-high-drug-prices"
+      "url": "/news/yelps-top-restaurants-in-los-angeles-san-fernando-valley"
     },
     {
-      "text": "California to make its own low-cost insulin to help combat high drug prices",
-      "url": "/news/california-to-make-its-own-low-cost-insulin-to-help-combat-high-drug-prices"
-    },
-    {
-      "text": "  ",
-      "url": "/news/la-county-seeks-order-directing-sheriff-to-cooperate-in-gang-probe"
-    },
-    {
-      "text": "LA County seeks order directing sheriff to cooperate in gang probe",
-      "url": "/news/la-county-seeks-order-directing-sheriff-to-cooperate-in-gang-probe"
+      "text": "Yelp's top 100 restaurants in Los Angeles, San Fernando Valley",
+      "url": "/news/yelps-top-restaurants-in-los-angeles-san-fernando-valley"
     },
     {
       "text": "  ",
-      "url": "/news/former-japanese-prime-minister-shinzo-abe-assassinated"
+      "url": "/news/lasd-excessive-force-caught-on-camera"
     },
     {
-      "text": "Former Japanese Prime Minister Shinzo Abe assassinated while giving speech",
-      "url": "/news/former-japanese-prime-minister-shinzo-abe-assassinated"
-    },
-    {
-      "text": "  ",
-      "url": "/news/los-angeles-to-celebrate-grand-opening-of-new-sixth-street-bridge"
-    },
-    {
-      "text": "LA celebrates grand opening of new Sixth Street bridge",
-      "url": "/news/los-angeles-to-celebrate-grand-opening-of-new-sixth-street-bridge"
+      "text": "VIDEO: 6 LASD deputies accused of using excessive force on inmate arrested for non-violent crime",
+      "url": "/news/lasd-excessive-force-caught-on-camera"
     },
     {
       "text": "  ",
-      "url": "/news/la-county-to-expand-distribution-of-monkeypox-vaccine"
+      "url": "/news/officials-to-release-footage-uvalde-school-shooting-report"
     },
     {
-      "text": "LA County to expand distribution of monkeypox vaccine",
-      "url": "/news/la-county-to-expand-distribution-of-monkeypox-vaccine"
-    },
-    {
-      "text": "  ",
-      "url": "/news/two-arrested-in-california-after-lighting-man-on-fire"
-    },
-    {
-      "text": "Two arrested in California after lighting man on fire",
-      "url": "/news/two-arrested-in-california-after-lighting-man-on-fire"
+      "text": "Officials agree to release some hallway video from Uvalde school shooting: report",
+      "url": "/news/officials-to-release-footage-uvalde-school-shooting-report"
     },
     {
       "text": "  ",
-      "url": "/news/biden-order-protecting-abortion-access-roe-v-wade-overturned"
+      "url": "/news/la-county-new-covid-cases-mask-mandate"
     },
     {
-      "text": "Biden signs order on protecting abortion access after Roe v. Wade overturned",
-      "url": "/news/biden-order-protecting-abortion-access-roe-v-wade-overturned"
-    },
-    {
-      "text": "  ",
-      "url": "/news/search-underway-for-missing-11-year-old-girl-last-seen-in"
-    },
-    {
-      "text": "Search underway for missing 11-year-old girl last seen in Panorama City",
-      "url": "/news/search-underway-for-missing-11-year-old-girl-last-seen-in"
+      "text": "How close is LA County to a new indoor mask mandate? COVID cases push towards 'high transmission'",
+      "url": "/news/la-county-new-covid-cases-mask-mandate"
     },
     {
       "text": "  ",
-      "url": "/news/robberies-involving-street-vendors-have-increased-by-20-across-los-angeles-police-say"
+      "url": "/news/mlb-all-star-game-dodger-stadium-concession-worker-strike"
     },
     {
-      "text": "Robberies involving street vendors have increased by 20% across Los Angeles, police say",
-      "url": "/news/robberies-involving-street-vendors-have-increased-by-20-across-los-angeles-police-say"
+      "text": "Dodger Stadium concession workers threaten strike ahead of MLB All-Star Game",
+      "url": "/news/mlb-all-star-game-dodger-stadium-concession-worker-strike"
+    },
+    {
+      "text": "  ",
+      "url": "/news/nevada-man-charged-in-1982-cold-case-murder-of-5-year-old-california-girl"
+    },
+    {
+      "text": "Nevada man charged in 1982 cold case murder of 5-year-old California girl",
+      "url": "/news/nevada-man-charged-in-1982-cold-case-murder-of-5-year-old-california-girl"
+    },
+    {
+      "text": "  ",
+      "url": "/news/california-college-campuses-look-to-fentanyl-testing-strips-as-a-solution-to-stop-overdoses-among-students"
+    },
+    {
+      "text": "California college campuses look to fentanyl testing strips as a solution to stop overdoses among students",
+      "url": "/news/california-college-campuses-look-to-fentanyl-testing-strips-as-a-solution-to-stop-overdoses-among-students"
+    },
+    {
+      "text": "  ",
+      "url": "/news/brazen-robbery-caught-on-camera-in-rowland-heights-parking-lot"
+    },
+    {
+      "text": "Brazen robbery caught on camera in Rowland Heights parking lot",
+      "url": "/news/brazen-robbery-caught-on-camera-in-rowland-heights-parking-lot"
+    },
+    {
+      "text": "  ",
+      "url": "/news/at-least-2-hospitalized-in-la-habra-7-eleven"
+    },
+    {
+      "text": "At least 2 hospitalized in La Habra 7-Eleven shooting",
+      "url": "/news/at-least-2-hospitalized-in-la-habra-7-eleven"
+    },
+    {
+      "text": "  ",
+      "url": "/news/amber-heard-sued-by-insurer-in-over-8-3m-johnny-depp-trial-verdict"
+    },
+    {
+      "text": "Amber Heard sued by insurer over $8.3M Johnny Depp trial verdict",
+      "url": "/news/amber-heard-sued-by-insurer-in-over-8-3m-johnny-depp-trial-verdict"
+    },
+    {
+      "text": "  ",
+      "url": "/news/1-shot-at-7-eleven-in-riverside"
+    },
+    {
+      "text": "1 shot during robbery at 7-Eleven in Riverside",
+      "url": "/news/1-shot-at-7-eleven-in-riverside"
     },
     {
       "text": "Florence-Graham",
@@ -10382,51 +10634,51 @@
     },
     {
       "text": "  video",
-      "url": "/video/1090975"
+      "url": "/video/1091584"
     },
     {
-      "text": "The Issue Is: Gloria Allred and Larry Elder",
-      "url": "/video/1090975"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1090903"
-    },
-    {
-      "text": "Search continues for missing 11-year-old Panorama City girl",
-      "url": "/video/1090903"
+      "text": "Limited supply of monkeypox vaccine now available",
+      "url": "/video/1091584"
     },
     {
       "text": "  video",
-      "url": "/video/1090902"
+      "url": "/video/1091583"
     },
     {
-      "text": "Police Chase: Home invasion suspects lead LAPD on wild pursuit",
-      "url": "/video/1090902"
-    },
-    {
-      "text": "  video",
-      "url": "/video/1090893"
-    },
-    {
-      "text": "Police Chase: 2 suspects ditch car after leading LAPD on pursuit in Panorama City",
-      "url": "/video/1090893"
+      "text": "Dodger Stadium concession workers threaten strike ahead of MLB All-Star Game",
+      "url": "/video/1091583"
     },
     {
       "text": "  video",
-      "url": "/video/1090880"
+      "url": "/video/1091581"
     },
     {
-      "text": "Heavy dark smoke in Exposition Park ahead of LAFC-Galaxy's El Tr\u00e1fico",
-      "url": "/video/1090880"
+      "text": "MLB unveils 2022 All-Star Game uniforms",
+      "url": "/video/1091581"
     },
     {
       "text": "  video",
-      "url": "/video/1090867"
+      "url": "/video/1091575"
     },
     {
-      "text": "Rep. Karen Bass on LA mayoral race, Crenshaw-LAX transit project, Gasc\u00f3n recall push",
-      "url": "/video/1090867"
+      "text": "Six SoCal 7-Eleven stores targeted in series of robberies; At least 2 dead",
+      "url": "/video/1091575"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1091497"
+    },
+    {
+      "text": "Biden gun control speech interrupted by father of Parkland shooting victim",
+      "url": "/video/1091497"
+    },
+    {
+      "text": "  video",
+      "url": "/video/1091452"
+    },
+    {
+      "text": "Lawyer releases video claiming excessive force by LASD deputies on compliant inmate",
+      "url": "/video/1091452"
     },
     {
       "text": "Privacy Policy",
@@ -10450,6 +10702,14 @@
     },
     {
       "text": "  video",
+      "url": "/video/1091364"
+    },
+    {
+      "text": "Dive into the magical world of Paranormal Cirque",
+      "url": "/video/1091364"
+    },
+    {
+      "text": "  video",
       "url": "/video/1090587"
     },
     {
@@ -10465,20 +10725,36 @@
       "url": "/video/1090530"
     },
     {
-      "text": "  video",
-      "url": "/video/1089716"
-    },
-    {
-      "text": "2022 Big Brother and Little Brother of the Year",
-      "url": "/video/1089716"
-    },
-    {
       "text": "Coronavirus",
       "url": "/tag/health/coronavirus"
     },
     {
       "text": "View More",
       "url": "/tag/health/coronavirus"
+    },
+    {
+      "text": "   ",
+      "url": "/news/la-county-new-covid-cases-mask-mandate"
+    },
+    {
+      "text": "How close is LA County to a new indoor mask mandate? COVID cases push towards 'high transmission'",
+      "url": "/news/la-county-new-covid-cases-mask-mandate"
+    },
+    {
+      "text": "  ",
+      "url": "/news/europe-second-covid-19-boosters-ages-60-to-79"
+    },
+    {
+      "text": "EU urges second COVID-19 boosters for people ages 60 to 79",
+      "url": "/news/europe-second-covid-19-boosters-ages-60-to-79"
+    },
+    {
+      "text": "  ",
+      "url": "/news/covid-variant-myths-debunking-misconceptions-about-new-coronovirus-variants"
+    },
+    {
+      "text": "COVID Variant Myths: Debunking misconceptions about new coronavirus variants",
+      "url": "/news/covid-variant-myths-debunking-misconceptions-about-new-coronovirus-variants"
     },
     {
       "text": "  ",
@@ -10505,30 +10781,6 @@
       "url": "/news/beijing-vaccine-mandate-pushback"
     },
     {
-      "text": "  ",
-      "url": "/news/red-states-are-doing-better-in-the-post-pandemic-economy-than-blue-states-wsj-reports"
-    },
-    {
-      "text": "Red states like Florida and Texas are doing better in the post-pandemic economy than blue states, WSJ reports",
-      "url": "/news/red-states-are-doing-better-in-the-post-pandemic-economy-than-blue-states-wsj-reports"
-    },
-    {
-      "text": "  ",
-      "url": "/news/la-countys-covid-hospitalizations-surge-past-900"
-    },
-    {
-      "text": "LA County's COVID hospitalizations surge past 900",
-      "url": "/news/la-countys-covid-hospitalizations-surge-past-900"
-    },
-    {
-      "text": "  ",
-      "url": "/news/covid-19-endemic-stage-could-be-two-years-away"
-    },
-    {
-      "text": "COVID-19 endemic stage could be two years away",
-      "url": "/news/covid-19-endemic-stage-could-be-two-years-away"
-    },
-    {
       "text": "Politics",
       "url": "/tag/politics"
     },
@@ -10537,52 +10789,52 @@
       "url": "/tag/politics"
     },
     {
-      "text": "   ",
+      "text": "  ",
+      "url": "/news/biden-gun-control-speech-interrupted-by-father-of-parkland-shooting-victim"
+    },
+    {
+      "text": "Biden gun control speech interrupted by father of Parkland shooting victim",
+      "url": "/news/biden-gun-control-speech-interrupted-by-father-of-parkland-shooting-victim"
+    },
+    {
+      "text": "  ",
+      "url": "/news/abortion-federal-vs-state-laws-life-of-mother-at-stake"
+    },
+    {
+      "text": "Doctors 'must' provide abortion if life of mother is at stake, Biden admin insists",
+      "url": "/news/abortion-federal-vs-state-laws-life-of-mother-at-stake"
+    },
+    {
+      "text": "  ",
+      "url": "/news/biden-new-gun-law-clouded-latest-shooting"
+    },
+    {
+      "text": "Biden celebration of new gun law clouded by latest shooting",
+      "url": "/news/biden-new-gun-law-clouded-latest-shooting"
+    },
+    {
+      "text": "  ",
+      "url": "/news/floating-abortion-clinic-proposed-in-gulf-of-mexico-to-bypass-bans-in-southern-states"
+    },
+    {
+      "text": "Floating abortion clinic proposed in Gulf of Mexico to bypass bans in southern states",
+      "url": "/news/floating-abortion-clinic-proposed-in-gulf-of-mexico-to-bypass-bans-in-southern-states"
+    },
+    {
+      "text": "  ",
+      "url": "/news/biden-considering-declaring-health-emergency-for-abortion-access"
+    },
+    {
+      "text": "Biden considering declaring health emergency for abortion access",
+      "url": "/news/biden-considering-declaring-health-emergency-for-abortion-access"
+    },
+    {
+      "text": "  ",
       "url": "/news/ulster-county-i-voted-sticker-design"
     },
     {
       "text": "Teen\u2019s \u2018I Voted\u2019 sticker design goes viral: \u2018How everybody\u2019s feeling about politics right now\u2019",
       "url": "/news/ulster-county-i-voted-sticker-design"
-    },
-    {
-      "text": "  ",
-      "url": "/news/la-county-leaders-considering-seeking-power-to-remove-sheriff"
-    },
-    {
-      "text": "LA County leaders considering seeking power to remove sheriff",
-      "url": "/news/la-county-leaders-considering-seeking-power-to-remove-sheriff"
-    },
-    {
-      "text": "  ",
-      "url": "/news/biden-order-protecting-abortion-access-roe-v-wade-overturned"
-    },
-    {
-      "text": "Biden signs order on protecting abortion access after Roe v. Wade overturned",
-      "url": "/news/biden-order-protecting-abortion-access-roe-v-wade-overturned"
-    },
-    {
-      "text": "  ",
-      "url": "/news/right-to-die-group-of-doctors-argue-californias-end-of-life-option-act-violates-freedom-of-religion"
-    },
-    {
-      "text": "Right to Die: Group of doctors argue California's End of Life Option Act violates freedom of religion",
-      "url": "/news/right-to-die-group-of-doctors-argue-californias-end-of-life-option-act-violates-freedom-of-religion"
-    },
-    {
-      "text": "  ",
-      "url": "/news/biden-awarding-presidential-medal-of-freedom-17-recipients"
-    },
-    {
-      "text": "Biden awards Presidential Medal of Freedom to 17 recipients including Simone Biles, John McCain",
-      "url": "/news/biden-awarding-presidential-medal-of-freedom-17-recipients"
-    },
-    {
-      "text": "  ",
-      "url": "/news/signatures-to-recall-la-countyda-gascon-due-july-6"
-    },
-    {
-      "text": "George Gasc\u00f3n recall effort: Signatures to recall DA delivered to county clerk",
-      "url": "/news/signatures-to-recall-la-countyda-gascon-due-july-6"
     },
     {
       "text": "California News",
@@ -10591,6 +10843,38 @@
     {
       "text": "View More",
       "url": "/tag/us/ca"
+    },
+    {
+      "text": "  ",
+      "url": "/news/nevada-man-charged-in-1982-cold-case-murder-of-5-year-old-california-girl"
+    },
+    {
+      "text": "Nevada man charged in 1982 cold case murder of 5-year-old California girl",
+      "url": "/news/nevada-man-charged-in-1982-cold-case-murder-of-5-year-old-california-girl"
+    },
+    {
+      "text": "  ",
+      "url": "/news/oakland-man-arrested-for-not-wearing-mask-died-of-jails-outright-refusal-to-provide-medical-care-lawsuit"
+    },
+    {
+      "text": "Oakland man arrested for not wearing mask died of jail's 'outright refusal' to provide medical care: lawsuit",
+      "url": "/news/oakland-man-arrested-for-not-wearing-mask-died-of-jails-outright-refusal-to-provide-medical-care-lawsuit"
+    },
+    {
+      "text": "  ",
+      "url": "/news/floating-abortion-clinic-proposed-in-gulf-of-mexico-to-bypass-bans-in-southern-states"
+    },
+    {
+      "text": "Floating abortion clinic proposed in Gulf of Mexico to bypass bans in southern states",
+      "url": "/news/floating-abortion-clinic-proposed-in-gulf-of-mexico-to-bypass-bans-in-southern-states"
+    },
+    {
+      "text": "  ",
+      "url": "/news/authorities-seize-record-breaking-5000-pounds-of-meth-crossing-from-mexico-to-california"
+    },
+    {
+      "text": "Authorities seize record-breaking 5,000 pounds of meth crossing from Mexico to California",
+      "url": "/news/authorities-seize-record-breaking-5000-pounds-of-meth-crossing-from-mexico-to-california"
     },
     {
       "text": "  ",
@@ -10609,38 +10893,6 @@
       "url": "/news/ucla-grad-describes-expectations-on-first-generation-immigrants"
     },
     {
-      "text": "  ",
-      "url": "/news/california-to-make-its-own-low-cost-insulin-to-help-combat-high-drug-prices"
-    },
-    {
-      "text": "California to make its own low-cost insulin to help combat high drug prices",
-      "url": "/news/california-to-make-its-own-low-cost-insulin-to-help-combat-high-drug-prices"
-    },
-    {
-      "text": "  ",
-      "url": "/news/family-of-oakland-men-who-drowned-saving-nephew-hope-to-send-bodies-to-guatemala"
-    },
-    {
-      "text": "Family of Oakland men who drowned saving nephew hope to send bodies to Guatemala",
-      "url": "/news/family-of-oakland-men-who-drowned-saving-nephew-hope-to-send-bodies-to-guatemala"
-    },
-    {
-      "text": "  ",
-      "url": "/news/right-to-die-group-of-doctors-argue-californias-end-of-life-option-act-violates-freedom-of-religion"
-    },
-    {
-      "text": "Right to Die: Group of doctors argue California's End of Life Option Act violates freedom of religion",
-      "url": "/news/right-to-die-group-of-doctors-argue-californias-end-of-life-option-act-violates-freedom-of-religion"
-    },
-    {
-      "text": "  ",
-      "url": "/news/chp-investigating-bay-area-freeway-shooting-dashcam-video-shows-couples-window-shattered"
-    },
-    {
-      "text": "CHP investigating Bay Area freeway shooting; dashcam video shows couple's window shattered",
-      "url": "/news/chp-investigating-bay-area-freeway-shooting-dashcam-video-shows-couples-window-shattered"
-    },
-    {
       "text": "Crime & Public Safety",
       "url": "/tag/crime-publicsafety"
     },
@@ -10650,51 +10902,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
+      "url": "/news/7-eleven-shootings-robberies-southern-california"
     },
     {
-      "text": "Man on roof armed with gun killed in shooting involving Long Beach police",
-      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
-    },
-    {
-      "text": "  ",
-      "url": "/news/two-arrested-in-california-after-lighting-man-on-fire"
-    },
-    {
-      "text": "Two arrested in California after lighting man on fire",
-      "url": "/news/two-arrested-in-california-after-lighting-man-on-fire"
+      "text": "7-Eleven robberies: At least 2 shot dead in 6 incidents across SoCal",
+      "url": "/news/7-eleven-shootings-robberies-southern-california"
     },
     {
       "text": "  ",
-      "url": "/news/police-chase-2-home-invasion-suspects-lead-lapd-on-pursuit-in-panorama-city"
+      "url": "/news/former-palmdale-mail-carrier-pleads-guilty-to-edd-fraud"
     },
     {
-      "text": "Police Chase: 2 home invasion suspects lead LAPD on pursuit in Panorama City",
-      "url": "/news/police-chase-2-home-invasion-suspects-lead-lapd-on-pursuit-in-panorama-city"
-    },
-    {
-      "text": "  ",
-      "url": "/news/search-underway-for-missing-11-year-old-girl-last-seen-in"
-    },
-    {
-      "text": "Search underway for missing 11-year-old girl last seen in Panorama City",
-      "url": "/news/search-underway-for-missing-11-year-old-girl-last-seen-in"
+      "text": "Former Palmdale mail carrier pleads guilty to EDD fraud",
+      "url": "/news/former-palmdale-mail-carrier-pleads-guilty-to-edd-fraud"
     },
     {
       "text": "  ",
-      "url": "/news/man-throws-explosive-device-into-anaheim-home-injuring-woman"
+      "url": "/news/weho-pickpocket-suspects-arrested-17-cell-phones-recovered"
     },
     {
-      "text": "Man throws explosive device into Anaheim home, injuring woman",
-      "url": "/news/man-throws-explosive-device-into-anaheim-home-injuring-woman"
+      "text": "WeHo pickpocket suspects arrested; 17 stolen cell phones recovered",
+      "url": "/news/weho-pickpocket-suspects-arrested-17-cell-phones-recovered"
     },
     {
       "text": "  ",
-      "url": "/news/young-thug-nephew-murder-arrest-girlfriend-east-point-home"
+      "url": "/news/biden-gun-control-speech-interrupted-by-father-of-parkland-shooting-victim"
     },
     {
-      "text": "Young Thug's nephew charged with murdering girlfriend at East Point home",
-      "url": "/news/young-thug-nephew-murder-arrest-girlfriend-east-point-home"
+      "text": "Biden gun control speech interrupted by father of Parkland shooting victim",
+      "url": "/news/biden-gun-control-speech-interrupted-by-father-of-parkland-shooting-victim"
+    },
+    {
+      "text": "  ",
+      "url": "/news/video-armed-gunman-robs-boost-mobile-in-culver-city-in-broad-daylight"
+    },
+    {
+      "text": "VIDEO: Armed gunman robs Boost Mobile in Culver City in broad daylight",
+      "url": "/news/video-armed-gunman-robs-boost-mobile-in-culver-city-in-broad-daylight"
+    },
+    {
+      "text": "  ",
+      "url": "/news/lasd-excessive-force-caught-on-camera"
+    },
+    {
+      "text": "VIDEO: 6 LASD deputies accused of using excessive force on inmate arrested for non-violent crime",
+      "url": "/news/lasd-excessive-force-caught-on-camera"
     },
     {
       "text": "Consumer",
@@ -10703,6 +10955,30 @@
     {
       "text": "View More",
       "url": "/tag/consumer"
+    },
+    {
+      "text": "  ",
+      "url": "/news/costco-raises-prices-food-court-soft-drinks-chicken-bake"
+    },
+    {
+      "text": "Costco raises prices on food court soft drinks, chicken bake",
+      "url": "/news/costco-raises-prices-food-court-soft-drinks-chicken-bake"
+    },
+    {
+      "text": "  ",
+      "url": "/news/slurpee-day-2022-7-eleven-speedway-stripes-free-slurpee"
+    },
+    {
+      "text": "Slurpee Day is back: 7-Eleven celebrates 95th birthday with drink giveaway, $1 snacks",
+      "url": "/news/slurpee-day-2022-7-eleven-speedway-stripes-free-slurpee"
+    },
+    {
+      "text": "  ",
+      "url": "/news/baby-formula-shortage-abbott-factory-michigan"
+    },
+    {
+      "text": "Baby formula shortage: Production resumes at troubled Abbott factory",
+      "url": "/news/baby-formula-shortage-abbott-factory-michigan"
     },
     {
       "text": "  ",
@@ -10729,30 +11005,6 @@
       "url": "/news/heres-how-much-money-you-need-to-make-to-be-happy-living-in-the-us-according-to-study"
     },
     {
-      "text": "  ",
-      "url": "/news/amazon-grubhub-free-delivery-prime-members"
-    },
-    {
-      "text": "Amazon teams up with Grubhub to offer free delivery to Prime members",
-      "url": "/news/amazon-grubhub-free-delivery-prime-members"
-    },
-    {
-      "text": "  ",
-      "url": "/news/socal-gas-energy-savings-program"
-    },
-    {
-      "text": "SoCal Gas customers: Check if you qualify for energy savings program",
-      "url": "/news/socal-gas-energy-savings-program"
-    },
-    {
-      "text": "  ",
-      "url": "/news/enjoy-life-issues-recall-baked-snacks"
-    },
-    {
-      "text": "Enjoy Life issues recall of select baked snacks due to possible plastic pieces",
-      "url": "/news/enjoy-life-issues-recall-baked-snacks"
-    },
-    {
       "text": "Sports",
       "url": "/tag/sports"
     },
@@ -10761,56 +11013,60 @@
       "url": "/tag/sports"
     },
     {
-      "text": "   ",
-      "url": "/news/heavy-dark-smoke-in-exposition-park-ahead-of-lafc-galaxys-el-trafico"
-    },
-    {
-      "text": "Heavy dark smoke spotted in Exposition Park ahead of LAFC-Galaxy's El Tr\u00e1fico",
-      "url": "/news/heavy-dark-smoke-in-exposition-park-ahead-of-lafc-galaxys-el-trafico"
-    },
-    {
       "text": "  video",
-      "url": "/video/1090880"
+      "url": "/video/1091583"
     },
     {
       "text": "",
-      "url": "/video/1090880"
+      "url": "/video/1091583"
     },
     {
-      "text": "Heavy dark smoke in Exposition Park ahead of LAFC-Galaxy's El Tr\u00e1fico",
-      "url": "/video/1090880"
+      "text": "Dodger Stadium concession workers threaten strike ahead of MLB All-Star Game",
+      "url": "/video/1091583"
     },
     {
-      "text": "  ",
-      "url": "/sports/mike-trout-shohei-ohtani-mookie-betts-trea-turner-to-start-all-star-game-in-la"
+      "text": "  video",
+      "url": "/video/1091581"
     },
     {
-      "text": "Mike Trout, Shohei Ohtani, Mookie Betts, Trea Turner to start All-Star Game in LA",
-      "url": "/sports/mike-trout-shohei-ohtani-mookie-betts-trea-turner-to-start-all-star-game-in-la"
+      "text": "",
+      "url": "/video/1091581"
     },
     {
-      "text": "  ",
-      "url": "/news/all-eyes-will-be-on-la-for-2022-mlb-all-star-game"
-    },
-    {
-      "text": "All eyes will be on LA for 2022 MLB All-Star Game",
-      "url": "/news/all-eyes-will-be-on-la-for-2022-mlb-all-star-game"
+      "text": "MLB unveils 2022 All-Star Game uniforms",
+      "url": "/video/1091581"
     },
     {
       "text": "  ",
-      "url": "/sports/mike-brito-dodgers-scout-who-found-fernando-valenzuela-dies-at-87"
+      "url": "/news/mlb-all-star-game-dodger-stadium-concession-worker-strike"
     },
     {
-      "text": "Mike Brito, Dodgers scout who found Fernando Valenzuela, dies at 87",
-      "url": "/sports/mike-brito-dodgers-scout-who-found-fernando-valenzuela-dies-at-87"
+      "text": "Dodger Stadium concession workers threaten strike ahead of MLB All-Star Game",
+      "url": "/news/mlb-all-star-game-dodger-stadium-concession-worker-strike"
     },
     {
       "text": "  ",
-      "url": "/sports/shohei-ohtani-dominant-on-mound-hits-go-ahead-single-for-angels"
+      "url": "/sports/mlb-all-star-game-lineups-2022"
     },
     {
-      "text": "Shohei Ohtani dominant on mound, hits go-ahead single for Angels",
-      "url": "/sports/shohei-ohtani-dominant-on-mound-hits-go-ahead-single-for-angels"
+      "text": "Full 2022 MLB All-Star Game lineups announced",
+      "url": "/sports/mlb-all-star-game-lineups-2022"
+    },
+    {
+      "text": "  ",
+      "url": "/news/local-athletes-win-big-for-armenia-in-fiba-european-championship-for-small-countries"
+    },
+    {
+      "text": "Local athletes win big for Armenia in FIBA European Championship for Small Countries",
+      "url": "/news/local-athletes-win-big-for-armenia-in-fiba-european-championship-for-small-countries"
+    },
+    {
+      "text": "  ",
+      "url": "/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
+    },
+    {
+      "text": "AI will help referees make offside calls at 2022 FIFA World Cup",
+      "url": "/sports/fifa-world-cup-2022-video-referees-ai-offside-calls"
     },
     {
       "text": "Unusual",
@@ -10878,51 +11134,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/over-715000-signatures-collected-in-da-george-gascon-recall-effort"
+      "url": "/news/7-eleven-shootings-robberies-southern-california"
     },
     {
-      "text": "Over 715,000 signatures collected in DA George Gasc\u00f3n recall effort",
-      "url": "/news/over-715000-signatures-collected-in-da-george-gascon-recall-effort"
-    },
-    {
-      "text": "  ",
-      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
-    },
-    {
-      "text": "Man on roof armed with gun killed in shooting involving Long Beach police",
-      "url": "/news/man-on-roof-armed-with-gun-killed-in-shooting-involving-long-beach-police"
+      "text": "7-Eleven robberies: At least 2 shot dead in 6 incidents across SoCal",
+      "url": "/news/7-eleven-shootings-robberies-southern-california"
     },
     {
       "text": "  ",
-      "url": "/news/three-killed-four-injured-during-fiery-crash-in-orange"
+      "url": "/news/yelps-top-restaurants-in-los-angeles-san-fernando-valley"
     },
     {
-      "text": "Three killed, four injured during fiery crash in Orange",
-      "url": "/news/three-killed-four-injured-during-fiery-crash-in-orange"
-    },
-    {
-      "text": "  ",
-      "url": "/news/police-chase-2-home-invasion-suspects-lead-lapd-on-pursuit-in-panorama-city"
-    },
-    {
-      "text": "Police Chase: 2 home invasion suspects lead LAPD on pursuit in Panorama City",
-      "url": "/news/police-chase-2-home-invasion-suspects-lead-lapd-on-pursuit-in-panorama-city"
+      "text": "Yelp's top 100 restaurants in Los Angeles, San Fernando Valley",
+      "url": "/news/yelps-top-restaurants-in-los-angeles-san-fernando-valley"
     },
     {
       "text": "  ",
-      "url": "/news/search-underway-for-missing-11-year-old-girl-last-seen-in"
+      "url": "/news/former-palmdale-mail-carrier-pleads-guilty-to-edd-fraud"
     },
     {
-      "text": "Search underway for missing 11-year-old girl last seen in Panorama City",
-      "url": "/news/search-underway-for-missing-11-year-old-girl-last-seen-in"
+      "text": "Former Palmdale mail carrier pleads guilty to EDD fraud",
+      "url": "/news/former-palmdale-mail-carrier-pleads-guilty-to-edd-fraud"
     },
     {
       "text": "  ",
-      "url": "/news/heavy-dark-smoke-in-exposition-park-ahead-of-lafc-galaxys-el-trafico"
+      "url": "/news/weho-pickpocket-suspects-arrested-17-cell-phones-recovered"
     },
     {
-      "text": "Heavy dark smoke spotted in Exposition Park ahead of LAFC-Galaxy's El Tr\u00e1fico",
-      "url": "/news/heavy-dark-smoke-in-exposition-park-ahead-of-lafc-galaxys-el-trafico"
+      "text": "WeHo pickpocket suspects arrested; 17 stolen cell phones recovered",
+      "url": "/news/weho-pickpocket-suspects-arrested-17-cell-phones-recovered"
+    },
+    {
+      "text": "  ",
+      "url": "/news/video-armed-gunman-robs-boost-mobile-in-culver-city-in-broad-daylight"
+    },
+    {
+      "text": "VIDEO: Armed gunman robs Boost Mobile in Culver City in broad daylight",
+      "url": "/news/video-armed-gunman-robs-boost-mobile-in-culver-city-in-broad-daylight"
+    },
+    {
+      "text": "  ",
+      "url": "/news/la-county-new-covid-cases-mask-mandate"
+    },
+    {
+      "text": "How close is LA County to a new indoor mask mandate? COVID cases push towards 'high transmission'",
+      "url": "/news/la-county-new-covid-cases-mask-mandate"
     },
     {
       "text": "National News",
@@ -10934,51 +11190,51 @@
     },
     {
       "text": "  ",
-      "url": "/news/price-of-forever-stamps-increasing-july-10"
+      "url": "/news/arizona-governor-doug-ducey-signs-bill-that-bans-close-recording-of-law-enforcement"
     },
     {
-      "text": "Price of forever stamps increasing July 10",
-      "url": "/news/price-of-forever-stamps-increasing-july-10"
-    },
-    {
-      "text": "  ",
-      "url": "/news/pa-dispatcher-who-didnt-send-ambulance-charged-in-2020-death"
-    },
-    {
-      "text": "Pa. dispatcher who didn't send ambulance charged in 2020 death",
-      "url": "/news/pa-dispatcher-who-didnt-send-ambulance-charged-in-2020-death"
+      "text": "Arizona Governor Doug Ducey signs bill that bans close recording of law enforcement",
+      "url": "/news/arizona-governor-doug-ducey-signs-bill-that-bans-close-recording-of-law-enforcement"
     },
     {
       "text": "  ",
-      "url": "/news/police-florida-woman-hides-dead-mom-in-freezer-to-collect-her-disability-checks"
+      "url": "/news/biden-gun-control-speech-interrupted-by-father-of-parkland-shooting-victim"
     },
     {
-      "text": "Police: Florida woman hides dead mom in freezer to collect her disability checks",
-      "url": "/news/police-florida-woman-hides-dead-mom-in-freezer-to-collect-her-disability-checks"
-    },
-    {
-      "text": "  ",
-      "url": "/news/once-in-a-lifetime-catch-tennessee-teen-reels-in-rare-albino-catfish"
-    },
-    {
-      "text": "Photos of teen angler\u2019s rare white catfish go viral",
-      "url": "/news/once-in-a-lifetime-catch-tennessee-teen-reels-in-rare-albino-catfish"
+      "text": "Biden gun control speech interrupted by father of Parkland shooting victim",
+      "url": "/news/biden-gun-control-speech-interrupted-by-father-of-parkland-shooting-victim"
     },
     {
       "text": "  ",
-      "url": "/news/best-cities-for-recreation-in-2022-report"
+      "url": "/news/abortion-federal-vs-state-laws-life-of-mother-at-stake"
     },
     {
-      "text": "Best cities for recreation in 2022: report",
-      "url": "/news/best-cities-for-recreation-in-2022-report"
+      "text": "Doctors 'must' provide abortion if life of mother is at stake, Biden admin insists",
+      "url": "/news/abortion-federal-vs-state-laws-life-of-mother-at-stake"
     },
     {
       "text": "  ",
-      "url": "/news/ulster-county-i-voted-sticker-design"
+      "url": "/news/polk-county-undercover-child-porn-sting-leads-to-16-arrests-location-of-3-victims"
     },
     {
-      "text": "Teen\u2019s \u2018I Voted\u2019 sticker design goes viral: \u2018How everybody\u2019s feeling about politics right now\u2019",
-      "url": "/news/ulster-county-i-voted-sticker-design"
+      "text": "Five child victims located during Polk County undercover child porn sting",
+      "url": "/news/polk-county-undercover-child-porn-sting-leads-to-16-arrests-location-of-3-victims"
+    },
+    {
+      "text": "  ",
+      "url": "/news/nevada-man-charged-in-1982-cold-case-murder-of-5-year-old-california-girl"
+    },
+    {
+      "text": "Nevada man charged in 1982 cold case murder of 5-year-old California girl",
+      "url": "/news/nevada-man-charged-in-1982-cold-case-murder-of-5-year-old-california-girl"
+    },
+    {
+      "text": "  ",
+      "url": "/news/officials-to-release-footage-uvalde-school-shooting-report"
+    },
+    {
+      "text": "Officials agree to release some hallway video from Uvalde school shooting: report",
+      "url": "/news/officials-to-release-footage-uvalde-school-shooting-report"
     },
     {
       "text": "Money",
@@ -10990,51 +11246,51 @@
     },
     {
       "text": "  ",
+      "url": "/money/personal-loan-rates-july-11-2022"
+    },
+    {
+      "text": "3-year personal loan interest rates edge down slightly",
+      "url": "/money/personal-loan-rates-july-11-2022"
+    },
+    {
+      "text": "  ",
+      "url": "/money/todays-mortgage-refinance-rates-july-11-2022"
+    },
+    {
+      "text": "20-year mortgage refinance rates hold steady | July 11, 2022",
+      "url": "/money/todays-mortgage-refinance-rates-july-11-2022"
+    },
+    {
+      "text": "  ",
+      "url": "/money/todays-mortgage-rates-july-11-2022"
+    },
+    {
+      "text": "Savings window opens: 20-year rates tumble a quarter point | July 11, 2022",
+      "url": "/money/todays-mortgage-rates-july-11-2022"
+    },
+    {
+      "text": "  ",
+      "url": "/news/costco-raises-prices-food-court-soft-drinks-chicken-bake"
+    },
+    {
+      "text": "Costco raises prices on food court soft drinks, chicken bake",
+      "url": "/news/costco-raises-prices-food-court-soft-drinks-chicken-bake"
+    },
+    {
+      "text": "  ",
+      "url": "/news/why-the-crypto-plunge-is-a-cautionary-tale-for-public-pension-funds"
+    },
+    {
+      "text": "Why the crypto plunge is a cautionary tale for public pension funds",
+      "url": "/news/why-the-crypto-plunge-is-a-cautionary-tale-for-public-pension-funds"
+    },
+    {
+      "text": "  ",
       "url": "/money/mortgage-rates-plummet-recession-fears"
     },
     {
       "text": "Mortgage rates plummet amid recession fears",
       "url": "/money/mortgage-rates-plummet-recession-fears"
-    },
-    {
-      "text": "  ",
-      "url": "/money/todays-mortgage-rates-july-8-2022"
-    },
-    {
-      "text": "Still time to save: 10- and 15-year mortgage rates hold steady | July 8, 2022",
-      "url": "/money/todays-mortgage-rates-july-8-2022"
-    },
-    {
-      "text": "  ",
-      "url": "/news/inflation-expenses-priorities-americans-poll"
-    },
-    {
-      "text": "Inflation, expenses rise sharply as priorities for most Americans, poll finds",
-      "url": "/news/inflation-expenses-priorities-americans-poll"
-    },
-    {
-      "text": "  ",
-      "url": "/news/virginia-hairdresser-shocked-after-winning-200k-lottery"
-    },
-    {
-      "text": "Virginia hairdresser shocked after winning $200K lottery",
-      "url": "/news/virginia-hairdresser-shocked-after-winning-200k-lottery"
-    },
-    {
-      "text": "  ",
-      "url": "/money/student-loan-debt-americans-support-forgiving-10k"
-    },
-    {
-      "text": "Majority of Americans support forgiving $10K in student debt: poll",
-      "url": "/money/student-loan-debt-americans-support-forgiving-10k"
-    },
-    {
-      "text": "  ",
-      "url": "/money/todays-mortgage-refinance-rates-july-7-2022"
-    },
-    {
-      "text": "Today\u2019s 30-year refinance rates edge down | July 7, 2022",
-      "url": "/money/todays-mortgage-refinance-rates-july-7-2022"
     },
     {
       "text": "News",
@@ -11485,8 +11741,8 @@
       "url": "/contact-us"
     }
   ],
-  "item_last_updated": 1657414601,
-  "item_size": 99136216,
+  "item_last_updated": 1657587187,
+  "item_size": 101562908,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -11503,10 +11759,10 @@
     "publicdate": "2022-03-23 20:59:13",
     "addeddate": "2022-03-23 20:59:13"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 1137585479,
+  "server": "ia902501.us.archive.org",
+  "uniq": 232424142,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

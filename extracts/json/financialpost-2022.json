@@ -1,5 +1,5 @@
 {
-  "created": 1657455053,
+  "created": 1657628023,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/6/items/financialpost-2022",
@@ -1286,31 +1286,283 @@
       "sha1": "d15555205ab2588c4f306b0cea1c8ae838897535"
     },
     {
+      "name": "financialpost-2022-07-10T08:42:42.363155-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657456968",
+      "size": "66017",
+      "md5": "9b18e4effb34a0d87060f2ac918c4546",
+      "crc32": "72511e4e",
+      "sha1": "b9625d41a326e8b4a4d7ea27f3bab583fee2995a",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-10T08:42:42.363155-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657456969",
+      "size": "48221",
+      "md5": "7970d521177be912f4af85d3856c4a96",
+      "crc32": "462cfdb4",
+      "sha1": "b343ed40d350796bf503f7fe645b2f324e62406d",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-10T08:42:42.363155-04:00.jpg",
+      "source": "original",
+      "mtime": "1657456966",
+      "size": "313578",
+      "md5": "d27b56bff8074a79fdefd6f21fcd0036",
+      "crc32": "8f731148",
+      "sha1": "10333e467c9e7bbc6592e2abf341db884e02ba3b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "financialpost-2022-07-10T08:42:42.363155-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "financialpost-2022-07-10T08:42:42.363155-04:00.jpg",
+      "mtime": "1657457016",
+      "size": "10194",
+      "md5": "001f628868d34370e7e2c71c952ce525",
+      "crc32": "c9923a1f",
+      "sha1": "32d81219745a2d73ef5accb251c813cb8d20f6de"
+    },
+    {
+      "name": "financialpost-2022-07-10T10:49:23.362833-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464566",
+      "size": "65972",
+      "md5": "d30848dbca122d205b079c40988baf54",
+      "crc32": "720a39a5",
+      "sha1": "ef39dc8a7f7ac8c741d87e4aea4530985633a2e6",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-10T10:49:23.362833-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464568",
+      "size": "48529",
+      "md5": "346b912272dc75aaa581aa7cae0bc0a2",
+      "crc32": "02913e06",
+      "sha1": "b5ef5cd731d139f20d3466e141f5a10ce8906dac",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-10T10:49:23.362833-04:00.jpg",
+      "source": "original",
+      "mtime": "1657464564",
+      "size": "322675",
+      "md5": "4ce77ffbda244395aea6646d555c87fe",
+      "crc32": "cfffbb86",
+      "sha1": "bceb726c25052111654b3752703b3d705c72d57a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "financialpost-2022-07-10T10:49:23.362833-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "financialpost-2022-07-10T10:49:23.362833-04:00.jpg",
+      "mtime": "1657464617",
+      "size": "10235",
+      "md5": "a0df65e5942862e438bc7fa5f37eb119",
+      "crc32": "91557e6d",
+      "sha1": "cf57d27b109968bd021f48a581a5af173ccdc937"
+    },
+    {
+      "name": "financialpost-2022-07-10T20:50:25.198284-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657500628",
+      "size": "66090",
+      "md5": "d26e24c36f02d9884b68c111aa36bbfa",
+      "crc32": "9554a371",
+      "sha1": "ac23e5110bb48cbecf011ebc9aafccbd311b4748",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-10T20:50:25.198284-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657500630",
+      "size": "48609",
+      "md5": "db0aa1e1d88b51fa8181cf7c28fb9940",
+      "crc32": "e10386cd",
+      "sha1": "003e355b8cf02df9521d272273a6fbaecd5a4dc3",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-10T20:50:25.198284-04:00.jpg",
+      "source": "original",
+      "mtime": "1657500627",
+      "size": "323471",
+      "md5": "2076f441e9aa70bf2ca845316482739a",
+      "crc32": "c9e52a22",
+      "sha1": "4a9e50342bc3653f868fac5ce02564b98ecb4b55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "financialpost-2022-07-10T20:50:25.198284-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "financialpost-2022-07-10T20:50:25.198284-04:00.jpg",
+      "mtime": "1657500695",
+      "size": "10230",
+      "md5": "bb7df77ff145a4539694c791770ca0e7",
+      "crc32": "f7bddeac",
+      "sha1": "c65b192a08e9c76ae2ed069a63dc3296c1ea3eb3"
+    },
+    {
+      "name": "financialpost-2022-07-11T11:35:06.520096-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657553710",
+      "size": "65868",
+      "md5": "7ebded90055f348740b9eb556a7adb5e",
+      "crc32": "0eb1dd7c",
+      "sha1": "46688fe29dcc2f8d0fafad714c1851da3842982d",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-11T11:35:06.520096-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657553712",
+      "size": "48311",
+      "md5": "897a97811d79e2c4a71a18141bccdcfd",
+      "crc32": "80a73073",
+      "sha1": "c461d32023bed55401d2de341ea77471b34bbbc3",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-11T11:35:06.520096-04:00.jpg",
+      "source": "original",
+      "mtime": "1657553708",
+      "size": "311084",
+      "md5": "8618fd941b7d53da893acaa9a7578374",
+      "crc32": "c2ca56c0",
+      "sha1": "c48f58832371c1febe21cd63f759288dcbeeb23f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "financialpost-2022-07-11T11:35:06.520096-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "financialpost-2022-07-11T11:35:06.520096-04:00.jpg",
+      "mtime": "1657553763",
+      "size": "10069",
+      "md5": "036f9ebf3769d689be15b410bf1cc0b7",
+      "crc32": "1ac61ca9",
+      "sha1": "e63e7aa229020123ee512f7da62988b9a8fa42c8"
+    },
+    {
+      "name": "financialpost-2022-07-11T14:08:30.467195-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657562914",
+      "size": "65940",
+      "md5": "bf4c3473298a946e6ca9544fb7d8c634",
+      "crc32": "41d93fba",
+      "sha1": "b836ecaff24e91427b3af501dacfd47c34f4db48",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-11T14:08:30.467195-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657562919",
+      "size": "48201",
+      "md5": "d9c66664747d2fd452cd92a536978982",
+      "crc32": "19c77b12",
+      "sha1": "532afdd05b0905ef6d9b19da1c7ce2098abd397d",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-11T14:08:30.467195-04:00.jpg",
+      "source": "original",
+      "mtime": "1657562912",
+      "size": "302161",
+      "md5": "33b820a971a02770d58e8152c9d06f06",
+      "crc32": "a4641590",
+      "sha1": "e8df637d7c1ac91d4776172165815e5ac3934dcc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "financialpost-2022-07-11T14:08:30.467195-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "financialpost-2022-07-11T14:08:30.467195-04:00.jpg",
+      "mtime": "1657562985",
+      "size": "10060",
+      "md5": "b47652ce2701766b2bd09c2ab2f9dbed",
+      "crc32": "c80fc337",
+      "sha1": "d28dc67fdd2ce655460b2e9b108d2834b165177a"
+    },
+    {
+      "name": "financialpost-2022-07-11T20:51:21.274930-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657587084",
+      "size": "65923",
+      "md5": "e520e53f33f9b427ac893dc1bb6adc79",
+      "crc32": "8bdfe8f1",
+      "sha1": "b82603cf6d77b94ecaaf5d9f3380af1cbba1d81b",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-11T20:51:21.274930-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657587085",
+      "size": "48114",
+      "md5": "9ae0967c8dfe28f0e78cf8d69ed67853",
+      "crc32": "3f8b512f",
+      "sha1": "f735303ac5a76cf368394651c66c1f0da1d32000",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-07-11T20:51:21.274930-04:00.jpg",
+      "source": "original",
+      "mtime": "1657587082",
+      "size": "314214",
+      "md5": "28cd6069649bb64a2ab9ccd764accaaa",
+      "crc32": "e4dc311d",
+      "sha1": "82b219c9e1ca02c8dec46a90214270e0248cf0da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "financialpost-2022-07-11T20:51:21.274930-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "financialpost-2022-07-11T20:51:21.274930-04:00.jpg",
+      "mtime": "1657587153",
+      "size": "10074",
+      "md5": "5da32c2ed2558f8bc67e198fff67cf87",
+      "crc32": "e55e2c9b",
+      "sha1": "148cc3388d03c12e4ebf2842e648da08f2580c13"
+    },
+    {
       "name": "financialpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d539761a6eeb37909a3b6daacda1d3d90ba73e3",
-      "mtime": "1657414566",
-      "size": "27882",
-      "md5": "86fed78b6e26e7db634655b0e057c980",
-      "crc32": "ad9ba802",
-      "sha1": "4dd1631eab9f2030d7d9a88f1ae2e24b232caaf2",
+      "btih": "5478cb8b132738366bbc3a6ae0d67776eb1aad92",
+      "mtime": "1657587157",
+      "size": "33082",
+      "md5": "1e2082b384c3b21a482321aa780fcd73",
+      "crc32": "1eb787f6",
+      "sha1": "4c2d31a878933f23c5355aae3681c67e68c60d56",
       "format": "Archive BitTorrent"
     },
     {
       "name": "financialpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de2097e65268ca68e3da01549918204e",
+      "md5": "1d8825cb87535bc22ebdb0a1bc42800c",
       "summation": "md5"
     },
     {
       "name": "financialpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657414514",
-      "size": "163840",
-      "md5": "12662a8286fcaacf358a261d524f52f5",
-      "crc32": "1a9eac82",
-      "sha1": "d88888f8efad2d56372ef9ec6da2d69ef417a246",
+      "mtime": "1657587089",
+      "size": "192512",
+      "md5": "5f6a0e0595f71a68e5f48d5a1d5d3506",
+      "crc32": "a2053e6d",
+      "sha1": "686f78834446e34f7cc224afdd66c5e25fa4efb7",
       "format": "Metadata"
     },
     {
@@ -1324,7 +1576,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 126,
+  "files_count": 150,
   "financialpost-2022": [
     {
       "text": "Skip to Content",
@@ -1663,6 +1915,30 @@
       "url": "/thelogic/"
     },
     {
+      "text": "  As Stampede kicks off, corporate Calgary is in the mood to party  ",
+      "url": "/commodities/energy/oil-gas/stampede-kickoff-corporate-calgary-party"
+    },
+    {
+      "text": "         ",
+      "url": "/commodities/energy/oil-gas/stampede-kickoff-corporate-calgary-party"
+    },
+    {
+      "text": "  A new trade arrangement signals the end of the 'European' way of doing business  ",
+      "url": "/news/economy/a-new-trade-arrangement-signals-the-end-of-the-european-way-of-doing-business"
+    },
+    {
+      "text": "         ",
+      "url": "/news/economy/a-new-trade-arrangement-signals-the-end-of-the-european-way-of-doing-business"
+    },
+    {
+      "text": "  Canada to fall into 'moderate and short-lived' recession next year, RBC warns  ",
+      "url": "/news/economy/canada-moderate-recession-2023-rbc-economists"
+    },
+    {
+      "text": "         ",
+      "url": "/news/economy/canada-moderate-recession-2023-rbc-economists"
+    },
+    {
       "text": "  Labour shortages leading to cancelled projects in 'superheated' construction sector  ",
       "url": "/fp-work/labour-shortages-leading-to-cancelled-projects-in-superheated-construction-sector"
     },
@@ -1671,36 +1947,12 @@
       "url": "/fp-work/labour-shortages-leading-to-cancelled-projects-in-superheated-construction-sector"
     },
     {
-      "text": "  Canadians flocked to variable-rate mortgages ahead of Bank of Canada rate hikes, CMHC says  ",
-      "url": "/real-estate/mortgages/canadians-flocked-to-variable-rate-mortgages-ahead-of-bank-of-canada-rate-hikes-cmhc-report-shows"
-    },
-    {
-      "text": "         ",
-      "url": "/real-estate/mortgages/canadians-flocked-to-variable-rate-mortgages-ahead-of-bank-of-canada-rate-hikes-cmhc-report-shows"
-    },
-    {
-      "text": "  This frugal Toronto couple is on track to have $14,000 per month in retirement income  ",
-      "url": "/personal-finance/family-finance/this-frugal-toronto-couple-is-on-track-to-have-14000-per-month-in-retirement-income"
-    },
-    {
-      "text": "         ",
-      "url": "/personal-finance/family-finance/this-frugal-toronto-couple-is-on-track-to-have-14000-per-month-in-retirement-income"
-    },
-    {
-      "text": "  Move over oil \u2014 natural gas is the hottest commodity in the world now  ",
-      "url": "/commodities/energy/oil-gas/natural-gas-soars-700-becoming-driving-force-in-the-new-cold-war"
-    },
-    {
-      "text": "         ",
-      "url": "/commodities/energy/oil-gas/natural-gas-soars-700-becoming-driving-force-in-the-new-cold-war"
-    },
-    {
       "text": "  Telecom  ",
       "url": "/category/telecom/"
     },
     {
-      "text": "  Rogers to credit customers for massive outage, CEO says, as service restoration underway   The outage has also caused problems for police, Interac and government agencies  ",
-      "url": "/telecom/rogers-communications-service-outages"
+      "text": "  Ottawa demands telecoms strike formal mutual assistance agreement within 60 days in wake of Rogers outage   Proposal would include co-operation on emergency roaming and communications protocols to better inform the public and authorities  ",
+      "url": "/telecom/rogers-meet-industry-minister-outage-wake"
     },
     {
       "text": "  Telecom  ",
@@ -1708,47 +1960,47 @@
     },
     {
       "text": "         ",
-      "url": "/telecom/rogers-communications-service-outages"
+      "url": "/telecom/rogers-meet-industry-minister-outage-wake"
     },
     {
-      "text": "  Oil & Gas  ",
-      "url": "/category/oil-gas/"
+      "text": "  Mining  ",
+      "url": "/category/mining/"
     },
     {
-      "text": "  Oilpatch leader Mark Little resigns following another death at Suncor site  ",
-      "url": "/commodities/energy/oil-gas/oilpatch-leader-mark-little-resigns-following-another-death-at-suncor-site"
+      "text": "  Gold Fields CEO fights to save Yamana deal amidst broader sector woes  ",
+      "url": "/commodities/mining/gold-fields-ceo-fights-to-save-yamana-deal-amidst-broader-sector-woes"
     },
     {
-      "text": "  Oil & Gas  ",
-      "url": "/category/oil-gas/"
-    },
-    {
-      "text": "         ",
-      "url": "/commodities/energy/oil-gas/oilpatch-leader-mark-little-resigns-following-another-death-at-suncor-site"
-    },
-    {
-      "text": "  Telecom  ",
-      "url": "/category/telecom/"
-    },
-    {
-      "text": "  Quebecor wants to help Rogers and Shaw in battle against competition watchdog  ",
-      "url": "/telecom/quebecor-wants-to-help-rogers-and-shaw-in-battle-against-competition-watchdog"
-    },
-    {
-      "text": "  Telecom  ",
-      "url": "/category/telecom/"
+      "text": "  Mining  ",
+      "url": "/category/mining/"
     },
     {
       "text": "         ",
-      "url": "/telecom/quebecor-wants-to-help-rogers-and-shaw-in-battle-against-competition-watchdog"
+      "url": "/commodities/mining/gold-fields-ceo-fights-to-save-yamana-deal-amidst-broader-sector-woes"
+    },
+    {
+      "text": "  Agriculture  ",
+      "url": "/category/agriculture/"
+    },
+    {
+      "text": "  Outlook bullish for lumber for years to come: Resolute  ",
+      "url": "/commodities/agriculture/outlook-bullish-for-lumber-for-years-to-come-resolute"
+    },
+    {
+      "text": "  Agriculture  ",
+      "url": "/category/agriculture/"
+    },
+    {
+      "text": "         ",
+      "url": "/commodities/agriculture/outlook-bullish-for-lumber-for-years-to-come-resolute"
     },
     {
       "text": "  FP Investor  ",
       "url": "/category/investing/"
     },
     {
-      "text": "  Elon Musk backs out of $44 billion Twitter deal over bot accounts  ",
-      "url": "/investing/elon-musk-terminates-44-bln-twitter-deal-2"
+      "text": "  Normalized interest rates are the cure, not the problem  ",
+      "url": "/investing/martin-pelletier-normalized-interest-rates-are-the-cure-not-the-problem"
     },
     {
       "text": "  FP Investor  ",
@@ -1756,31 +2008,15 @@
     },
     {
       "text": "         ",
-      "url": "/investing/elon-musk-terminates-44-bln-twitter-deal-2"
-    },
-    {
-      "text": "  FP Economy  ",
-      "url": "/category/economy/"
-    },
-    {
-      "text": "  A new trade arrangement signals the end of the 'European' way of doing business  ",
-      "url": "/news/economy/a-new-trade-arrangement-signals-the-end-of-the-european-way-of-doing-business"
-    },
-    {
-      "text": "  FP Economy  ",
-      "url": "/category/economy/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/economy/a-new-trade-arrangement-signals-the-end-of-the-european-way-of-doing-business"
+      "url": "/investing/martin-pelletier-normalized-interest-rates-are-the-cure-not-the-problem"
     },
     {
       "text": "  Oil & Gas  ",
       "url": "/category/oil-gas/"
     },
     {
-      "text": "  As Stampede kicks off, corporate Calgary is in the mood to party  ",
-      "url": "/commodities/energy/oil-gas/stampede-kickoff-corporate-calgary-party"
+      "text": "  Suncor CEO's abrupt resignation after worker fatality may signal broader executive shakeup  ",
+      "url": "/commodities/energy/oil-gas/suncor-ceo-mark-little-resigns-worker-fatality-broader-shakeup"
     },
     {
       "text": "  Oil & Gas  ",
@@ -1788,23 +2024,55 @@
     },
     {
       "text": "         ",
-      "url": "/commodities/energy/oil-gas/stampede-kickoff-corporate-calgary-party"
+      "url": "/commodities/energy/oil-gas/suncor-ceo-mark-little-resigns-worker-fatality-broader-shakeup"
     },
     {
-      "text": "  FP Economy  ",
-      "url": "/category/economy/"
+      "text": "  Diane Francis  ",
+      "url": "/category/diane-francis/"
     },
     {
-      "text": "  Canada's jobless rate drops to record low of 4.9%: What you need to know  ",
-      "url": "/news/economy/canadas-jobless-rate-drops-to-a-record-low-of-4-9-what-you-need-to-know"
+      "text": "  Diane Francis: A First Nations' 'Quiet Revolution' has begun  ",
+      "url": "/diane-francis/diane-francis-a-first-nations-quiet-revolution-has-begun"
     },
     {
-      "text": "  FP Economy  ",
-      "url": "/category/economy/"
+      "text": "  Diane Francis  ",
+      "url": "/category/diane-francis/"
     },
     {
       "text": "         ",
-      "url": "/news/economy/canadas-jobless-rate-drops-to-a-record-low-of-4-9-what-you-need-to-know"
+      "url": "/diane-francis/diane-francis-a-first-nations-quiet-revolution-has-begun"
+    },
+    {
+      "text": "  Oil & Gas  ",
+      "url": "/category/oil-gas/"
+    },
+    {
+      "text": "  U.S. officials defend Ottawa decision to return sanctioned Nord Stream pipeline turbine  ",
+      "url": "/commodities/energy/oil-gas/us-backs-trudeau-on-returning-sanctioned-nord-stream-turbine"
+    },
+    {
+      "text": "  Oil & Gas  ",
+      "url": "/category/oil-gas/"
+    },
+    {
+      "text": "         ",
+      "url": "/commodities/energy/oil-gas/us-backs-trudeau-on-returning-sanctioned-nord-stream-turbine"
+    },
+    {
+      "text": "  Airlines  ",
+      "url": "/category/airlines/"
+    },
+    {
+      "text": "  'A brutal summer': Air Canada paying the price for airport chaos  ",
+      "url": "/transportation/airlines/air-canada-is-left-behind-as-nations-airports-see-major-delays"
+    },
+    {
+      "text": "  Airlines  ",
+      "url": "/category/airlines/"
+    },
+    {
+      "text": "         ",
+      "url": "/transportation/airlines/air-canada-is-left-behind-as-nations-airports-see-major-delays"
     },
     {
       "text": "  Taxes  ",
@@ -1821,22 +2089,6 @@
     {
       "text": "         ",
       "url": "/personal-finance/taxes/cra-fight-drive-work-expenses-court-sides-foreman"
-    },
-    {
-      "text": "  FP Investor  ",
-      "url": "/category/investing/"
-    },
-    {
-      "text": "  The great normalization has crushed investor sentiment \u2014 and that may be a sign the worst is over  ",
-      "url": "/investing/the-great-normalization-has-crushed-investor-sentiment-and-that-may-be-a-sign-the-worst-is-over"
-    },
-    {
-      "text": "  FP Investor  ",
-      "url": "/category/investing/"
-    },
-    {
-      "text": "         ",
-      "url": "/investing/the-great-normalization-has-crushed-investor-sentiment-and-that-may-be-a-sign-the-worst-is-over"
     },
     {
       "text": " View More Videos > ",
@@ -1847,88 +2099,88 @@
       "url": "/category/news/"
     },
     {
-      "text": "  Global food prices drop from near record amid recession fears   A United Nations index of world food costs slipped 2.3% last month  ",
-      "url": "/news/economy/food-price-drop-offers-stretched-household-budgets-some-relief"
+      "text": "  Interac to bolster payment network with back up supplier after Rogers outage   Millions of Canadians locked out of online payments last Friday after telco suffered national service disruption  ",
+      "url": "/telecom/canadian-payments-system-interac-says-adding-backup-network-supplier-after-rogers-outage"
     },
     {
-      "text": "  FP Economy  ",
-      "url": "/category/economy/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/economy/food-price-drop-offers-stretched-household-budgets-some-relief"
-    },
-    {
-      "text": "  Investors hoard cash, dump stocks amid U.S. recession fears   Nearly US$63 billion flowed into cash in the week through July 6  ",
-      "url": "/investing/recession-fears-spark-flight-to-cash-as-investors-dump-stocks"
-    },
-    {
-      "text": "  FP Investor  ",
-      "url": "/category/investing/"
+      "text": "  Telecom  ",
+      "url": "/category/telecom/"
     },
     {
       "text": "         ",
-      "url": "/investing/recession-fears-spark-flight-to-cash-as-investors-dump-stocks"
+      "url": "/telecom/canadian-payments-system-interac-says-adding-backup-network-supplier-after-rogers-outage"
     },
     {
-      "text": "  Postmedia swings to loss in third quarter despite rise in revenue on BNI deal   Digital revenue increased $2.4 million or 8.9 per cent  ",
-      "url": "/telecom/media/postmedia-swings-to-loss-in-third-quarter-despite-rise-in-revenue-on-bni-deal"
+      "text": "  G20 watchdog to propose 'robust' global crypto rules in October   Recent turmoil in markets highlighted need to regulate 'speculative' sector  ",
+      "url": "/fp-finance/cryptocurrency/g20-watchdog-to-propose-first-global-crypto-rules-in-october"
     },
     {
-      "text": "  Media  ",
-      "url": "/category/media/"
-    },
-    {
-      "text": "         ",
-      "url": "/telecom/media/postmedia-swings-to-loss-in-third-quarter-despite-rise-in-revenue-on-bni-deal"
-    },
-    {
-      "text": "  U.S. to lift tariffs on Canadian solar products   Trade dispute settlement panel sided with Ottawa  ",
-      "url": "/commodities/energy/renewables/u-s-to-lift-tariffs-on-canadian-solar-products"
-    },
-    {
-      "text": "  Renewables  ",
-      "url": "/category/renewables/"
+      "text": "  Cryptocurrency  ",
+      "url": "/category/cryptocurrency/"
     },
     {
       "text": "         ",
-      "url": "/commodities/energy/renewables/u-s-to-lift-tariffs-on-canadian-solar-products"
+      "url": "/fp-finance/cryptocurrency/g20-watchdog-to-propose-first-global-crypto-rules-in-october"
     },
     {
-      "text": "  Canada to fall into 'moderate and short-lived' recession next year, RBC warns   Inflation, historic labour shortages and rising interest rates to drag on the economy  ",
-      "url": "/news/economy/canada-moderate-recession-2023-rbc-economists"
+      "text": "  'Unacceptable': Rogers CEO faces grilling as network outage casts shadow over Shaw deal   Friday\u2019s outage could provide Competition Bureau with more ammunition in its battle to stop the merger  ",
+      "url": "/telecom/rogers-ceo-grilling-outage-shadow-shaw-deal"
     },
     {
-      "text": "  FP Economy  ",
-      "url": "/category/economy/"
+      "text": "  Telecom  ",
+      "url": "/category/telecom/"
     },
     {
       "text": "         ",
-      "url": "/news/economy/canada-moderate-recession-2023-rbc-economists"
+      "url": "/telecom/rogers-ceo-grilling-outage-shadow-shaw-deal"
+    },
+    {
+      "text": "  Tipping point: U.S. crosses mass-adoption threshold for EVs of 5% of new car sales   A quarter of new vehicle sales in U.S. could be electric by the end of 2025, according to Bloomberg analysis  ",
+      "url": "/commodities/energy/electric-vehicles/us-crosses-the-electric-car-tipping-point-for-mass-adoption"
+    },
+    {
+      "text": "  Electric Vehicles  ",
+      "url": "/category/electric-vehicles/"
+    },
+    {
+      "text": "         ",
+      "url": "/commodities/energy/electric-vehicles/us-crosses-the-electric-car-tipping-point-for-mass-adoption"
+    },
+    {
+      "text": "  Rogers to credit customers for massive outage, CEO says, as service returns   Telecom believes system failure came after a maintenance update to core network  ",
+      "url": "/telecom/rogers-communications-service-outages"
+    },
+    {
+      "text": "  Telecom  ",
+      "url": "/category/telecom/"
+    },
+    {
+      "text": "         ",
+      "url": "/telecom/rogers-communications-service-outages"
     },
     {
       "text": " More news stories > ",
       "url": "/category/news/"
     },
     {
+      "text": "  Diane Francis: A First Nations' 'Quiet Revolution' has begun  ",
+      "url": "/diane-francis/diane-francis-a-first-nations-quiet-revolution-has-begun"
+    },
+    {
+      "text": "  Posthaste: What a Bank of Canada 0.75% rate hike would mean for mortgages and indebted Canadians  ",
+      "url": "/executive/executive-summary/posthaste-what-a-bank-of-canada-0-75-rate-hike-would-mean-for-mortgages-and-indebted-canadians"
+    },
+    {
+      "text": "  'A brutal summer': Air Canada paying the price for airport chaos  ",
+      "url": "/transportation/airlines/air-canada-is-left-behind-as-nations-airports-see-major-delays"
+    },
+    {
       "text": "  CRA loses fight with construction foreman over drive-to-work expenses  ",
       "url": "/personal-finance/taxes/cra-fight-drive-work-expenses-court-sides-foreman"
     },
     {
-      "text": "  Oilpatch leader Mark Little resigns following another death at Suncor site  ",
-      "url": "/commodities/energy/oil-gas/oilpatch-leader-mark-little-resigns-following-another-death-at-suncor-site"
-    },
-    {
-      "text": "  Rogers to credit customers for massive outage, CEO says, as service restoration underway  ",
-      "url": "/telecom/rogers-communications-service-outages"
-    },
-    {
-      "text": "  The best high-interest savings accounts in Canada  ",
-      "url": "/moneywise/the-best-high-interest-savings-accounts-in-canada"
-    },
-    {
-      "text": "  Experts say housing market is heading for 'pain', so what can buyers and sellers expect in this environment?  ",
-      "url": "/moneywise-pro/experts-say-housing-market-is-heading-for-pain-so-what-can-buyers-and-sellers-expect-in-this-environment"
+      "text": "  Ottawa demands telecoms strike formal mutual assistance agreement within 60 days in wake of Rogers outage  ",
+      "url": "/telecom/rogers-meet-industry-minister-outage-wake"
     },
     {
       "text": " Shopping Essentials ",
@@ -2171,6 +2423,30 @@
       "url": "/category/commodities/energy/"
     },
     {
+      "text": "  Canada to release sanctioned natural-gas turbine to Germany over Ukraine objections   Foreign Affairs minister announces expanded sanctions to include Russian industrial manufacturing  ",
+      "url": "/commodities/energy/oil-gas/canada-to-return-sanctioned-nord-stream-turbine-to-germany"
+    },
+    {
+      "text": "  Oil & Gas  ",
+      "url": "/category/oil-gas/"
+    },
+    {
+      "text": "         ",
+      "url": "/commodities/energy/oil-gas/canada-to-return-sanctioned-nord-stream-turbine-to-germany"
+    },
+    {
+      "text": "  Oilpatch leader Mark Little resigns following another death at Suncor site   On Thursday, a contractor was killed at Suncor's oilsands base plant north of Fort McMurray \u2014 the second fatality at the site this year  ",
+      "url": "/commodities/energy/oil-gas/oilpatch-leader-mark-little-resigns-following-another-death-at-suncor-site"
+    },
+    {
+      "text": "  Oil & Gas  ",
+      "url": "/category/oil-gas/"
+    },
+    {
+      "text": "         ",
+      "url": "/commodities/energy/oil-gas/oilpatch-leader-mark-little-resigns-following-another-death-at-suncor-site"
+    },
+    {
       "text": "  Warren Buffett's Berkshire Hathaway ups share of Occidental Petroleum to nearly 20%   Conglomerate makes new US$698-million share purchase stirring speculation it is seeking 100% stake in oil producer  ",
       "url": "/commodities/energy/oil-gas/berkshire-hathaway-owns-18-7-of-occidental-after-new-12-mln-share-purchase"
     },
@@ -2207,30 +2483,6 @@
       "url": "/commodities/energy/oil-gas/mine-fatality-adds-to-pressure-for-suncor-energy-changes"
     },
     {
-      "text": "  Germany pleads with Canada to release pipeline turbine stranded by sanctions against Russia   Without it Vladimir Putin will have an excuse to keep crucial Nord Stream 1 closed  ",
-      "url": "/commodities/energy/oil-gas/germanys-habeck-urges-canada-to-help-thwart-putins-gas-excuses"
-    },
-    {
-      "text": "  Oil & Gas  ",
-      "url": "/category/oil-gas/"
-    },
-    {
-      "text": "         ",
-      "url": "/commodities/energy/oil-gas/germanys-habeck-urges-canada-to-help-thwart-putins-gas-excuses"
-    },
-    {
-      "text": "  Oil reserves see 'sizable' drop in another threat to global energy security   Recoverable reserves have fallen 9% from 2021  ",
-      "url": "/commodities/energy/oil-gas/oil-reserves-see-sizable-drop-in-another-threat-to-global-energy-security"
-    },
-    {
-      "text": "  Oil & Gas  ",
-      "url": "/category/oil-gas/"
-    },
-    {
-      "text": "         ",
-      "url": "/commodities/energy/oil-gas/oil-reserves-see-sizable-drop-in-another-threat-to-global-energy-security"
-    },
-    {
       "text": " More fp energy stories > ",
       "url": "/category/commodities/energy/"
     },
@@ -2241,6 +2493,18 @@
     {
       "text": "FP Finance",
       "url": "/category/fp-finance/"
+    },
+    {
+      "text": "  Bank of Montreal hikes minimum wage for U.S. workers to $20 in battle for labour   Second pay raise for BMO employees in under a year with bank pledging another increase by 2025  ",
+      "url": "/fp-finance/banking/bmo-raises-minimum-pay-for-us-workers-to-20-in-fight-for-labor"
+    },
+    {
+      "text": "  Banking  ",
+      "url": "/category/banking/"
+    },
+    {
+      "text": "         ",
+      "url": "/fp-finance/banking/bmo-raises-minimum-pay-for-us-workers-to-20-in-fight-for-labor"
     },
     {
       "text": "  Jeffrey MacIntosh: Conflict at the OSC \u2014 Why the regulator needs to make room for dissent   Presence of competing views on the costs and benefits of investor protection is a boon, not a bust, for portfolios  ",
@@ -2291,18 +2555,6 @@
       "url": "/fp-finance/fp-dealmakers-global-uncertainty-slammed-the-brakes-on-deal-making-boom-in-first-half-of-2022"
     },
     {
-      "text": "  TSX-listed crypto lender Voyager files for bankruptcy week after it halted withdrawals   Volatility and contagion in the crypto markets taking a toll  ",
-      "url": "/fp-finance/cryptocurrency/crypto-lender-voyager-digital-files-for-bankruptcy-2"
-    },
-    {
-      "text": "  Cryptocurrency  ",
-      "url": "/category/cryptocurrency/"
-    },
-    {
-      "text": "         ",
-      "url": "/fp-finance/cryptocurrency/crypto-lender-voyager-digital-files-for-bankruptcy-2"
-    },
-    {
       "text": " More fp finance stories > ",
       "url": "/category/fp-finance/"
     },
@@ -2313,6 +2565,42 @@
     {
       "text": "FP Investor",
       "url": "/category/investing/"
+    },
+    {
+      "text": "  Twitter shares sink, with legal battle ahead as Elon Musk walks away   Shares on track to erase about US$1.4 billion in market value  ",
+      "url": "/investing/twitter-shares-sink-legal-battle-ahead-elon-musk-walks-away"
+    },
+    {
+      "text": "  FP Investor  ",
+      "url": "/category/investing/"
+    },
+    {
+      "text": "         ",
+      "url": "/investing/twitter-shares-sink-legal-battle-ahead-elon-musk-walks-away"
+    },
+    {
+      "text": "  Investors hoard cash, dump stocks amid U.S. recession fears   Nearly US$63 billion flowed into cash in the week through July 6  ",
+      "url": "/investing/recession-fears-spark-flight-to-cash-as-investors-dump-stocks"
+    },
+    {
+      "text": "  FP Investor  ",
+      "url": "/category/investing/"
+    },
+    {
+      "text": "         ",
+      "url": "/investing/recession-fears-spark-flight-to-cash-as-investors-dump-stocks"
+    },
+    {
+      "text": "  The great normalization has crushed investor sentiment \u2014 and that may be a sign the worst is over   Tom Bradley: The system is in a better place than it was in previous slowdowns  ",
+      "url": "/investing/the-great-normalization-has-crushed-investor-sentiment-and-that-may-be-a-sign-the-worst-is-over"
+    },
+    {
+      "text": "  FP Investor  ",
+      "url": "/category/investing/"
+    },
+    {
+      "text": "         ",
+      "url": "/investing/the-great-normalization-has-crushed-investor-sentiment-and-that-may-be-a-sign-the-worst-is-over"
     },
     {
       "text": "  Real assets going to be good spot for investors   Watch Purpose Investments' chief investment officer Greg Taylor on the investment landscape for the second half of 2022  ",
@@ -2339,42 +2627,6 @@
       "url": "/investing/martin-pelletier-fixed-income-has-been-a-saviour-in-previous-downturns-but-this-time-is-different"
     },
     {
-      "text": "  Five money-making strategies investors can use if the economy tips into recession   Peter Hodson: You can still make money, even in a bad recession  ",
-      "url": "/investing/investor-strategies-recession"
-    },
-    {
-      "text": "  FP Investor  ",
-      "url": "/category/investing/"
-    },
-    {
-      "text": "         ",
-      "url": "/investing/investor-strategies-recession"
-    },
-    {
-      "text": "  Shopify shares fall 6% after 10-for-1 stock split finalized   The latest in a parade of tech-stock splits as companies in the beleaguered sector try to attract investors  ",
-      "url": "/investing/shopify-shares-fall-6-after-10-for-1-stock-split-finalized"
-    },
-    {
-      "text": "  FP Investor  ",
-      "url": "/category/investing/"
-    },
-    {
-      "text": "         ",
-      "url": "/investing/shopify-shares-fall-6-after-10-for-1-stock-split-finalized"
-    },
-    {
-      "text": "  Hedge fund manager Jim Chanos's next 'big short' is data centres   Short seller bets against REITs that own big server warehouses on risks that customers will become rivals  ",
-      "url": "/investing/hedge-fund-manager-jim-chanoss-next-big-short-is-data-centres"
-    },
-    {
-      "text": "  FP Investor  ",
-      "url": "/category/investing/"
-    },
-    {
-      "text": "         ",
-      "url": "/investing/hedge-fund-manager-jim-chanoss-next-big-short-is-data-centres"
-    },
-    {
       "text": " More fp investor stories > ",
       "url": "/category/investing/"
     },
@@ -2397,6 +2649,42 @@
     {
       "text": "FP Economy",
       "url": "/category/news/economy/"
+    },
+    {
+      "text": "  Canada's jobless rate drops to record low of 4.9%: What you need to know   Kevin Carmichael: It feels like Canada is entering a new phase of persistently strong demand for workers  ",
+      "url": "/news/economy/canadas-jobless-rate-drops-to-a-record-low-of-4-9-what-you-need-to-know"
+    },
+    {
+      "text": "  FP Economy  ",
+      "url": "/category/economy/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/economy/canadas-jobless-rate-drops-to-a-record-low-of-4-9-what-you-need-to-know"
+    },
+    {
+      "text": "  Global food prices drop from near record amid recession fears   A United Nations index of world food costs slipped 2.3% last month  ",
+      "url": "/news/economy/food-price-drop-offers-stretched-household-budgets-some-relief"
+    },
+    {
+      "text": "  FP Economy  ",
+      "url": "/category/economy/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/economy/food-price-drop-offers-stretched-household-budgets-some-relief"
+    },
+    {
+      "text": "  U.S. to lift tariffs on Canadian solar products   Trade dispute settlement panel sided with Ottawa  ",
+      "url": "/commodities/energy/renewables/u-s-to-lift-tariffs-on-canadian-solar-products"
+    },
+    {
+      "text": "  Renewables  ",
+      "url": "/category/renewables/"
+    },
+    {
+      "text": "         ",
+      "url": "/commodities/energy/renewables/u-s-to-lift-tariffs-on-canadian-solar-products"
     },
     {
       "text": "  What's next for U.K. economy as Boris Johnson quits?   'In the months ahead, we see a U.K. heading into a once-in-a-generation squeeze in living standards'  ",
@@ -2423,48 +2711,24 @@
       "url": "/news/economy/canada-trade-surplus-highest-since-2008"
     },
     {
-      "text": "  Rising recession fears strip some of the lift from loonie's outlook   Poll sees Canadian dollar gaining less ground against safe-haven greenback  ",
-      "url": "/news/economy/canadian-dollar-outlook-turns-less-cheerful-as-recession-fears-mount"
-    },
-    {
-      "text": "  FP Economy  ",
-      "url": "/category/economy/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/economy/canadian-dollar-outlook-turns-less-cheerful-as-recession-fears-mount"
-    },
-    {
-      "text": "  Fed sees even more 'restrictive' policy possible if inflation persists   Minutes show central bank officials rallied around an outsized interest rate increase  ",
-      "url": "/news/economy/fed-sees-even-more-restrictive-policy-possible-if-inflation-persists"
-    },
-    {
-      "text": "  FP Economy  ",
-      "url": "/category/economy/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/economy/fed-sees-even-more-restrictive-policy-possible-if-inflation-persists"
-    },
-    {
-      "text": "  'Massive wealth' Canadians stockpiled during pandemic being chipped away, study says   Amount lost will depend on whether Bank of Canada can stick a 'soft landing' for economy  ",
-      "url": "/news/economy/cracks-in-pandemic-recovery-to-weigh-on-canadian-household-finances-study-says"
-    },
-    {
-      "text": "  FP Economy  ",
-      "url": "/category/economy/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/economy/cracks-in-pandemic-recovery-to-weigh-on-canadian-household-finances-study-says"
-    },
-    {
       "text": " More fp economy stories > ",
       "url": "/category/news/economy/"
     },
     {
       "text": "FP Work",
       "url": "/category/fp-work/"
+    },
+    {
+      "text": "  Working from home driving spike in workplace bullying claims   Shift to hybrid work has made it difficult for organizations to maintain healthy workplaces  ",
+      "url": "/fp-work/work-home-spike-workplace-bullying-claims"
+    },
+    {
+      "text": "  FP Work  ",
+      "url": "/category/fp-work/"
+    },
+    {
+      "text": "         ",
+      "url": "/fp-work/work-home-spike-workplace-bullying-claims"
     },
     {
       "text": "  Elon Musk plans to 'significantly' increase child-care benefits at his firms   Comments came a day after Musk tweeted that he will do his best to help the underpopulation crisis  ",
@@ -2513,18 +2777,6 @@
     {
       "text": "         ",
       "url": "/fp-work/howard-levitt-cautionary-tale-shows-risks-of-both-sides-going-for-the-jugular-in-court"
-    },
-    {
-      "text": "  Toronto office vacancies hit record in second quarter on recession fears   Downtown Toronto's office-vacancy rate rose to 11.9%  ",
-      "url": "/fp-work/toronto-office-vacancies-rise-to-a-record-on-recession-fears"
-    },
-    {
-      "text": "  FP Work  ",
-      "url": "/category/fp-work/"
-    },
-    {
-      "text": "         ",
-      "url": "/fp-work/toronto-office-vacancies-rise-to-a-record-on-recession-fears"
     },
     {
       "text": " More fp work stories > ",
@@ -2995,8 +3247,8 @@
       "url": "/privacy-statement/en/"
     }
   ],
-  "item_last_updated": 1657414566,
-  "item_size": 13254007,
+  "item_last_updated": 1657587157,
+  "item_size": 15921719,
   "metadata": {
     "identifier": "financialpost-2022",
     "collection": [
@@ -3013,10 +3265,10 @@
     "publicdate": "2022-06-30 22:35:47",
     "addeddate": "2022-06-30 22:35:47"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 458328612,
+  "server": "ia601404.us.archive.org",
+  "uniq": 1783023212,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

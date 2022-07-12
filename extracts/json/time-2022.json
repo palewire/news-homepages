@@ -1,5 +1,5 @@
 {
-  "created": 1657455583,
+  "created": 1657628685,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/28/items/time-2022",
@@ -1980,31 +1980,189 @@
       "sha1": "6ad396a1d6dcf1da848ea0e308ffacd06a32c841"
     },
     {
+      "name": "time-2022-07-10T10:47:13.975667-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464438",
+      "size": "40943",
+      "md5": "b92f7b25f554a2eabaa250456ca1c594",
+      "crc32": "c6cd072f",
+      "sha1": "407f233078fb82196f4f1ccda049c37c7e900d4f",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-10T10:47:13.975667-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464440",
+      "size": "48543",
+      "md5": "0aa223b56a8a41f42208eb6ff99ea630",
+      "crc32": "2cc6bc7c",
+      "sha1": "72a4fc83ff561ee6d6aaa57376874aeda73024c5",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-10T10:47:13.975667-04:00.jpg",
+      "source": "original",
+      "mtime": "1657464436",
+      "size": "283777",
+      "md5": "5ada4204f3994bd84829c44c3138996e",
+      "crc32": "c6bc66be",
+      "sha1": "ac627a74f6456e1129a07d029eb0a61725c4159f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-07-10T10:47:13.975667-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-07-10T10:47:13.975667-04:00.jpg",
+      "mtime": "1657464488",
+      "size": "10851",
+      "md5": "f5dcbb20e1c3ac178ee5756aadedd4c0",
+      "crc32": "6e896842",
+      "sha1": "9b3df8cca936c0f43d623beea4f265aff8157518"
+    },
+    {
+      "name": "time-2022-07-10T23:24:44.013875-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657509891",
+      "size": "40961",
+      "md5": "14d6708016b083eca47eb06430bd21a9",
+      "crc32": "999449df",
+      "sha1": "0bdf9a4460bb327dfec67c475ea3a47c0d97baf1",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-10T23:24:44.013875-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657509892",
+      "size": "48525",
+      "md5": "368c9e3bddf027d81c7db3c09dec8464",
+      "crc32": "64122c5f",
+      "sha1": "3d9f630862c5f993cdc5c65aa6012898fef7bdf3",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-10T23:24:44.013875-04:00.jpg",
+      "source": "original",
+      "mtime": "1657509889",
+      "size": "284394",
+      "md5": "4073acafc2b253c38111309f41044bd4",
+      "crc32": "7cd1df98",
+      "sha1": "6aeb7974976dffbbfcbe4da27e780072dc778264",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-07-10T23:24:44.013875-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-07-10T23:24:44.013875-04:00.jpg",
+      "mtime": "1657509940",
+      "size": "10897",
+      "md5": "5f7fc3d009a2f514e920a8430e845dda",
+      "crc32": "ab13d6ad",
+      "sha1": "67650555271809fa4cbb3b634bee60f4a3c7cce7"
+    },
+    {
+      "name": "time-2022-07-11T14:22:08.331027-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563733",
+      "size": "41028",
+      "md5": "81dd3ceac226760ffa778ed079ca3065",
+      "crc32": "4c137a0b",
+      "sha1": "04577207d110a1183c784f24f6e2a3113a96a441",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-11T14:22:08.331027-04:00.jpg",
+      "source": "original",
+      "mtime": "1657563729",
+      "size": "286807",
+      "md5": "72d51165f2dc33761f061e1e3799569e",
+      "crc32": "17666eb1",
+      "sha1": "e58fdd723613dc620a767d59ed00ef3c24e71b26",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-07-11T14:22:08.331027-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-07-11T14:22:08.331027-04:00.jpg",
+      "mtime": "1657564143",
+      "size": "10740",
+      "md5": "70c69362f29b08b94d6070aa24f639be",
+      "crc32": "b84ab4b8",
+      "sha1": "ad7196f66f70d4f4e47fb4bdf29448dfd9472dd6"
+    },
+    {
+      "name": "time-2022-07-11T23:27:54.401899-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657596477",
+      "size": "41105",
+      "md5": "b8af6ecf10f20d9a20dffe29cd609924",
+      "crc32": "68ef8540",
+      "sha1": "659fe25d952fb1ac5c16f8ad70c4c23ad599a368",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-11T23:27:54.401899-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657596478",
+      "size": "48568",
+      "md5": "020c9182b13f7e46c455affc51e5033f",
+      "crc32": "12880729",
+      "sha1": "d714ce12d77848e0db3d35ff56f65911e9e50cc8",
+      "format": "JSON"
+    },
+    {
+      "name": "time-2022-07-11T23:27:54.401899-04:00.jpg",
+      "source": "original",
+      "mtime": "1657596475",
+      "size": "278136",
+      "md5": "a0a80e3b967f43af39c2baf9eb3d1750",
+      "crc32": "aa7b638b",
+      "sha1": "3bed000ee7f1c17a5c4807ec00f81f2bc3ef6dcc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "time-2022-07-11T23:27:54.401899-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "time-2022-07-11T23:27:54.401899-04:00.jpg",
+      "mtime": "1657596525",
+      "size": "10595",
+      "md5": "a96f1be4a9e49882fa27f8dbb2082e00",
+      "crc32": "fbbe1d68",
+      "sha1": "83cd506069bc5b1abe4509dbb605b201997aed1f"
+    },
+    {
       "name": "time-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa03b1f2902433d28b8298fb88a0382a88c0732e",
-      "mtime": "1657423596",
-      "size": "40339",
-      "md5": "77c23fd790bbeb9034c9347f6c8259ef",
-      "crc32": "7b198bc9",
-      "sha1": "d25eb89e9b67b7f7b4ced6c32cbb4d3bc25f85c3",
+      "btih": "e8dd8aa5775e53431ebd9d6a573c60fa329e53c8",
+      "mtime": "1657596528",
+      "size": "43448",
+      "md5": "3bed3f7dcef3a1b360ba32fe67c89534",
+      "crc32": "6117457b",
+      "sha1": "f3727b20398ac428a0bd3c67ff3c38f7de98d47b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "time-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "552dc898bb80f4bc531bb87f1f470acc",
+      "md5": "605693a2e722ebb3e4a1050e07ed8286",
       "summation": "md5"
     },
     {
       "name": "time-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423539",
-      "size": "233472",
-      "md5": "2b454b392e6dd7eb433d51caeb6907de",
-      "crc32": "408e8ebd",
-      "sha1": "2b80d20651a4c4a4c9688aece64f9a6e9df2f3ac",
+      "mtime": "1657596480",
+      "size": "253952",
+      "md5": "17f5aa6e89715daf39a74e784e5a1cdd",
+      "crc32": "eb5946ce",
+      "sha1": "0d722cab8e7e631fd560bcae4322bff52164af2e",
       "format": "Metadata"
     },
     {
@@ -2018,9 +2176,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 192,
-  "item_last_updated": 1657423596,
-  "item_size": 18815530,
+  "files_count": 207,
+  "item_last_updated": 1657596528,
+  "item_size": 20324989,
   "metadata": {
     "identifier": "time-2022",
     "collection": [
@@ -2084,8 +2242,8 @@
       "url": "/subscribe-header-time"
     },
     {
-      "text": "\n                         Spotlight Story \n                        Remembering Shinzo Abe\n                      ",
-      "url": "https://time.com/6194956/shinzo-abe-dies-assassination-obituary/"
+      "text": "\n                         Spotlight Story \n                        FDA to Consider First Over-the-Counter Birth Control Pill\n                      ",
+      "url": "https://time.com/6195124/birth-control-pill-over-the-counter-fda/"
     },
     {
       "text": "Manage Account",
@@ -2301,11 +2459,19 @@
     },
     {
       "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
-      "url": "/6194956/shinzo-abe-dies-assassination-obituary/"
+      "url": "/6195201/shinzo-abe-time-magazine-covers/"
     },
     {
-      "text": "\n                Shinzo Abe Rewrote Japan's Place in the World\n              ",
-      "url": "/6194956/shinzo-abe-dies-assassination-obituary/"
+      "text": "\n                Looking Back at TIME's Coverage of Shinzo Abe: 'I Am a Patriot.'\n              ",
+      "url": "/6195201/shinzo-abe-time-magazine-covers/"
+    },
+    {
+      "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
+      "url": "/6195442/musk-twitter-takeover-court/"
+    },
+    {
+      "text": "\n                Musk and Twitter Lawyer Up For Battle In Delaware Court\n              ",
+      "url": "/6195442/musk-twitter-takeover-court/"
     },
     {
       "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
@@ -2317,91 +2483,83 @@
     },
     {
       "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
-      "url": "/6194948/shinzo-abe-death-world-leaders-reactions/"
+      "url": "/6195124/birth-control-pill-over-the-counter-fda/"
     },
     {
-      "text": "\n                How the World Is Reacting to Shinzo Abe\u2019s Death\n              ",
-      "url": "/6194948/shinzo-abe-death-world-leaders-reactions/"
+      "text": "\n                First U.S. Application for Over-the-Counter Birth Control Pill\n              ",
+      "url": "/6195124/birth-control-pill-over-the-counter-fda/"
     },
     {
-      "text": "\n        \n                        \n                          \n                          \n                          \n                        \n                ",
-      "url": "/6194177/olena-zelenska-ukraine-first-lady-interview/"
+      "text": "Health",
+      "url": "https://time.com/health"
     },
     {
-      "text": "\n                Ukraine's First Lady Olena Zelenska Takes On the Trauma Of War\n              ",
-      "url": "/6194177/olena-zelenska-ukraine-first-lady-interview/"
+      "text": "\n                    Super Contagious Omicron Mutant BA.2.75 Worries Scientists\n                  ",
+      "url": "/6195495/covid-omicron-variant-mutant-contagious-ba2-75/"
     },
     {
-      "text": "Entertainment",
-      "url": "https://time.com/entertainment"
+      "text": "Business",
+      "url": "https://time.com/business"
     },
     {
-      "text": "\n                    Here's What the Thor: Love and Thunder End-Credits Scenes Mean for the Future of the MCU\n                  ",
-      "url": "/6193860/thor-love-and-thunder-end-credits-scenes/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://time.com/politics"
-    },
-    {
-      "text": "\n                    The Jan. 6 Committee Has Succeeded Far Beyond What Anyone Imagined\n                  ",
-      "url": "/6195074/jan-6-committee-unexpected-success/"
+      "text": "\n                    How to Make the Most of Amazon Prime Day\u2014And Avoid Buyer\u2019s Remorse\n                  ",
+      "url": "/6195891/amazon-prime-day-deals-2022/"
     },
     {
       "text": "Science",
       "url": "https://time.com/science"
     },
     {
-      "text": "\n                    Russia Angers the World With Space Station War Propaganda\n                  ",
-      "url": "/6195149/russian-space-station-propagand-nasa/"
+      "text": "\n                    The First James Webb Space Telescope Image is Finally Here, Revealing Deepest Glimpse into the Universe Ever Seen\n                  ",
+      "url": "/6195787/james-webb-telescope-space-images-biden/"
     },
     {
       "text": "Entertainment",
       "url": "https://time.com/entertainment"
     },
     {
-      "text": "\n                    The Marvel Cinematic Universe Doesn't Make Sense Anymore\n                  ",
-      "url": "/6193966/thor-love-and-thunder-marvel-cinematic-universe-future/"
+      "text": "\n                    All the Cameos in Thor: Love and Thunder\n                  ",
+      "url": "/6193989/thor-love-and-thunder-cameos/"
     },
     {
       "text": "\n                    ",
-      "url": "/6194397/abortions-lifesaving-ectopic-pregnancy/"
+      "url": "/6195263/abenomics-shinzo-abe-japan/"
     },
     {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          abortion\n                        When Is an Abortion Lifesaving? It's No Longer Clear for Doctors and Patients\n                        \n                            jamie ducharme                      and\n                            tara law                \n                    \n                    \n                  ",
-      "url": "/6194397/abortions-lifesaving-ectopic-pregnancy/"
-    },
-    {
-      "text": "\n                    ",
-      "url": "/6194568/americans-divided-covid-19-vaccines-masks-survey/"
-    },
-    {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          COVID-19\n                        Americans Still Disagree on Practically Everything About COVID-19\n                        \n                            jeffrey kluger                \n                    \n                    \n                  ",
-      "url": "/6194568/americans-divided-covid-19-vaccines-masks-survey/"
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          Economy\n                        How Shinzo Abe\u2019s Contentious Economic Plan Transformed Japan\n                        \n                            nik popli                \n                    \n                    \n                  ",
+      "url": "/6195263/abenomics-shinzo-abe-japan/"
     },
     {
       "text": "\n                    ",
-      "url": "/6194087/boris-johnson-future-ministers-resign/"
+      "url": "/6195149/russian-space-station-propagand-nasa/"
     },
     {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          United Kingdom\n                        Why U.K. Prime Minister Boris Johnson Resigned\n                        \n                            billy perrigo / london                \n                    \n                    \n                  ",
-      "url": "/6194087/boris-johnson-future-ministers-resign/"
-    },
-    {
-      "text": "\n                    ",
-      "url": "/6194432/uk-prime-minister-selection-process/"
-    },
-    {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          United Kingdom\n                        Here\u2019s How a New U.K. Prime Minister Will Be Selected\n                        \n                            eloise barry / london                \n                    \n                    \n                  ",
-      "url": "/6194432/uk-prime-minister-selection-process/"
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          Space\n                        Russia Angers the World With Space Station War Propaganda\n                        \n                            jeffrey kluger                \n                    \n                    \n                  ",
+      "url": "/6195149/russian-space-station-propagand-nasa/"
     },
     {
       "text": "\n                    ",
-      "url": "/6194505/gas-prices-biden-republicans/"
+      "url": "/6195183/losing-loved-one-heart-risk/"
     },
     {
-      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          climate change\n                        Everything You're Hearing About Gas Prices Is Wrong\n                        \n                            justin worland                \n                    \n                    \n                  ",
-      "url": "/6194505/gas-prices-biden-republicans/"
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          Research\n                        Losing a Loved One Can Be Life-Threatening\n                        \n                            tara law                \n                    \n                    \n                  ",
+      "url": "/6195183/losing-loved-one-heart-risk/"
+    },
+    {
+      "text": "\n                    ",
+      "url": "/6194539/wastewater-covid-19-variants/"
+    },
+    {
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          COVID-19\n                        Scientists Have a New Tool for Tracking COVID-19 Variants: Human Waste\n                        \n                            alice park                \n                    \n                    \n                  ",
+      "url": "/6194539/wastewater-covid-19-variants/"
+    },
+    {
+      "text": "\n                    ",
+      "url": "/6194804/abortion-religious-freedom-judaism-florida/"
+    },
+    {
+      "text": "\n        \n                          \n                          \n                          \n                          \n                            \n                          \n                                \n                                    \n                                \n                            \n                          \n                      \n                          abortion\n                        Does Religious Freedom Protect a Right to an Abortion?\n                        \n                            madeleine carlisle                      and\n                            abigail abrams                \n                    \n                    \n                  ",
+      "url": "/6194804/abortion-religious-freedom-judaism-florida/"
     },
     {
       "text": "Subscribe to The Coronavirus Brief",
@@ -2488,28 +2646,28 @@
       "url": "/6177542/abortion-supreme-court-racial-equality/"
     },
     {
-      "text": "\n                Vernon Winfrey, Oprah's father, Dies at 89\n              ",
-      "url": "/6195322/oprah-winfreys-dad-vernon-winfrey-dies/"
+      "text": "\n                The First James Webb Space Telescope Image is Finally Here, Revealing Deepest Glimpse into the Universe Ever Seen\n              ",
+      "url": "/6195787/james-webb-telescope-space-images-biden/"
     },
     {
-      "text": "\n                Griner is the Focus of WNBA All-Star Weekend\n              ",
-      "url": "/6195317/brittney-griner-all-star-weekend/"
+      "text": "\n                For J6 Groups, Insurrection Was Only a Start\n              ",
+      "url": "/6195133/jan-6-proud-boys-oath-keepers-growing-threat/"
     },
     {
-      "text": "\n                Former Mexican President Luis Echeverria at Dies 100\n              ",
-      "url": "/6195312/luis-echeverria-mexico-leader-dies/"
+      "text": "\n                Biden\u2019s Middle East Trip Is a Textbook Case of Sacrificing Values for Realpolitik\n              ",
+      "url": "/6195626/biden-saudi-arabia-middle-east-trip/"
     },
     {
-      "text": "\n                New York Cuts Back Covid Testing Amid U.S. Summer Surge\n              ",
-      "url": "/6195299/new-york-covid-summer-surge/"
+      "text": "\n                How to Make the Most of Amazon Prime Day\u2014And Avoid Buyer\u2019s Remorse\n              ",
+      "url": "/6195891/amazon-prime-day-deals-2022/"
     },
     {
-      "text": "\n                The Back Booth: After Highland Park, a Liberal and a Conservative Talk Guns\n              ",
-      "url": "/6195199/guns-crime-democrats-republicans-highland-park/"
+      "text": "\n                The New Trump Documentary Is Mostly Good for Psychoanalyzing Trump's Kids\n              ",
+      "url": "/6195860/trump-documentary-unprecedented-review/"
     },
     {
-      "text": "\n                Sri Lankan Prime Minister and President to Resign \n              ",
-      "url": "/6195292/srilanka-prime-minister-quits/"
+      "text": "\n                Biden Can Use His Saudi Trip To Push for an End to the War in Yemen\n              ",
+      "url": "/6195677/biden-saudi-trip-yemen/"
     },
     {
       "text": "TIME.com",
@@ -2676,7 +2834,11 @@
       "url": "https://www.charterworks.com/newsletter/?utm_source=time&utm_medium=nav&utm_campaign=timelaunch"
     },
     {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        How to Avoid Being Stuck With Dead-End Work\n                            'The No Club' is a clear-headed explanation of how women overwork themselves or miss opportunities for advancement because of office housework.\n                      \n                    \n                  ",
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        State Farm Is a Case Study For Companies in How Not to Navigate Social Issues\n                            Lessons from a botched attempt at LGBTQ+ inclusivity.\n                      \n                    \n                  ",
+      "url": "/charter/6195329/state-farm-case-study/"
+    },
+    {
+      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        How to Avoid Being Stuck With Dead-End Work\n                      \n                    \n                  ",
       "url": "/charter/6195169/no-club-book/"
     },
     {
@@ -2686,10 +2848,6 @@
     {
       "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        What Happens When A Company Puts Purpose Ahead of Profits\n                      \n                    \n                  ",
       "url": "/charter/6193837/tomorrows-capitalist-alan-murray/"
-    },
-    {
-      "text": "\n                    \n                        \n        \n                              \n                                \n                                \n                                \n                              \n                        \n        \n                      \n                        Breastfeeding Access Is a Workplace Issue\n                      \n                    \n                  ",
-      "url": "/charter/6193639/breastfeeding-work-pumping/"
     },
     {
       "text": "\n              Personal Finance by NextAdvisor\n            ",
@@ -2924,7 +3082,7 @@
       "url": "https://www.onetrust.com/products/cookie-consent/"
     }
   ],
-  "uniq": 518052212,
+  "uniq": 1407675828,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

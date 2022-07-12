@@ -1,5 +1,5 @@
 {
-  "created": 1657455247,
+  "created": 1657614010,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/10/items/lehuffpost-2022",
@@ -6756,31 +6756,283 @@
       "sha1": "8ca586aaf75d057be915a9c972328d7de550b364"
     },
     {
+      "name": "lehuffpost-2022-07-10T15:44:22.055550+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657460664",
+      "size": "40527",
+      "md5": "0560d54c55f91d814c3610df9f110d57",
+      "crc32": "0824f252",
+      "sha1": "31c112308b6f3400c8ecbba7062782febda1e510",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-10T15:44:22.055550+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657460665",
+      "size": "49661",
+      "md5": "57a2ce6a3d88da1c60153523bcbc2441",
+      "crc32": "d45b61c0",
+      "sha1": "6d481ebddea28fa2333e265e95e9d0e06d496eee",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-10T15:44:22.055550+02:00.jpg",
+      "source": "original",
+      "mtime": "1657460663",
+      "size": "240076",
+      "md5": "d87b9dfaa0a93f9b9b93f5a096673670",
+      "crc32": "39a16934",
+      "sha1": "efdaea8ebe7802aad44e37e8054c776ec894fa89",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lehuffpost-2022-07-10T15:44:22.055550+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lehuffpost-2022-07-10T15:44:22.055550+02:00.jpg",
+      "mtime": "1657460719",
+      "size": "9360",
+      "md5": "1366969d0822d63821f0ca176930c9de",
+      "crc32": "fb548d9c",
+      "sha1": "2f39ee9a9e9ea46ca42a8ff3599b353c2830e396"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T04:09:42.794398+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657505388",
+      "size": "40782",
+      "md5": "9aba39ee35f6798c2131cb4675132d42",
+      "crc32": "d07ff8b3",
+      "sha1": "87441ac48fde425dd42808a2818c9a30a90439b2",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T04:09:42.794398+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505391",
+      "size": "50444",
+      "md5": "b8525a0059f8f2b7c2f8a794d7d7ec07",
+      "crc32": "58710187",
+      "sha1": "81dde4cc687af6cec4795cd5258335be29feedbc",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T04:09:42.794398+02:00.jpg",
+      "source": "original",
+      "mtime": "1657505387",
+      "size": "230652",
+      "md5": "876953cf04e61151b2b363b8922010f9",
+      "crc32": "cb629fa7",
+      "sha1": "48c20e5ca0e880a3511006bc09bd244428e78b40",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T04:09:42.794398+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lehuffpost-2022-07-11T04:09:42.794398+02:00.jpg",
+      "mtime": "1657505486",
+      "size": "9135",
+      "md5": "52b9067dcfba665fb08a2b08e24a53e6",
+      "crc32": "c5814790",
+      "sha1": "3095ae15757329b5015f8df7abba13c4e0a5fa49"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T10:20:12.790921+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657527620",
+      "size": "40802",
+      "md5": "96cee50ebb2cca1eb3f2ebb3d6b715ac",
+      "crc32": "3d59b085",
+      "sha1": "e5fe8d5b24d3a658edc24782b6300800030abd5c",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T10:20:12.790921+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657527622",
+      "size": "50724",
+      "md5": "7195c66624b3e8411e6f7ac1e2010b12",
+      "crc32": "078af992",
+      "sha1": "24eff59e711c7dd51c29cee703cdc6b3efeee09a",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T10:20:12.790921+02:00.jpg",
+      "source": "original",
+      "mtime": "1657527618",
+      "size": "225992",
+      "md5": "4ba10f6ac56959e068233155df4b2c89",
+      "crc32": "b891ef23",
+      "sha1": "96320669ff396a9b07bc310840faac6d91b1fdde",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T10:20:12.790921+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lehuffpost-2022-07-11T10:20:12.790921+02:00.jpg",
+      "mtime": "1657527708",
+      "size": "9245",
+      "md5": "6c3d62c9829edca7f811313db3b7d639",
+      "crc32": "bad71443",
+      "sha1": "8c72a35b212c61e07de4389660c85e7ec21f8880"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T17:41:11.725311+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657554077",
+      "size": "40711",
+      "md5": "1f73e5300612317ce0ffa5019a8fe511",
+      "crc32": "95caff07",
+      "sha1": "441c8cb80065ac1cd1b10fe5defe8be8b6cd9aed",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T17:41:11.725311+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657554079",
+      "size": "51104",
+      "md5": "62d1b3d5319198c0de9a1e5a4731dadc",
+      "crc32": "a0beaf2c",
+      "sha1": "93517c5c120e78a7b9238a59f51c45c6b5d544d2",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T17:41:11.725311+02:00.jpg",
+      "source": "original",
+      "mtime": "1657554076",
+      "size": "226003",
+      "md5": "6c7c040955931aa21cbd4e6a3e9a3384",
+      "crc32": "73e9d6a3",
+      "sha1": "f2dd6b17a163ccaee51f97c13e6f832bddf8467e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lehuffpost-2022-07-11T17:41:11.725311+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lehuffpost-2022-07-11T17:41:11.725311+02:00.jpg",
+      "mtime": "1657554174",
+      "size": "9965",
+      "md5": "5f614479297590617c0f57bd82a55ac3",
+      "crc32": "5a9fdae3",
+      "sha1": "fd9f6577276480b937b88b5c58587b5f755c7831"
+    },
+    {
+      "name": "lehuffpost-2022-07-12T04:10:27.657647+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657591831",
+      "size": "42804",
+      "md5": "a236c7b1f6a607ad147902fbf3f8ad50",
+      "crc32": "64a04796",
+      "sha1": "05764169aeefb24f6d86ae87a102b41d9e6617ee",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-12T04:10:27.657647+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657591832",
+      "size": "53845",
+      "md5": "1e0d8cfc35c4e5d601011e037559a5a1",
+      "crc32": "21618bea",
+      "sha1": "6fd58cfc9f53b950ab155b94aa58a398cc278b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-12T04:10:27.657647+02:00.jpg",
+      "source": "original",
+      "mtime": "1657591829",
+      "size": "250002",
+      "md5": "71f136cdbf3f10fc634fac0d47ac7a30",
+      "crc32": "3eca4b06",
+      "sha1": "e6eb7a29085b03686b24f976b309976d8eb1057a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lehuffpost-2022-07-12T04:10:27.657647+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lehuffpost-2022-07-12T04:10:27.657647+02:00.jpg",
+      "mtime": "1657591887",
+      "size": "9541",
+      "md5": "856f44081f35dcc941a8f806c8410cbb",
+      "crc32": "fc22f756",
+      "sha1": "3b2bbae539fdfdfaa826ad72f72f059488aebf3a"
+    },
+    {
+      "name": "lehuffpost-2022-07-12T10:18:47.498962+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657613933",
+      "size": "41672",
+      "md5": "6f3eafccea08c3a87a543e08c4425e73",
+      "crc32": "14badb26",
+      "sha1": "f03a688303147aa6ce80ad1486fe9ed6fd919940",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-12T10:18:47.498962+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657613934",
+      "size": "53354",
+      "md5": "fb2ee726b49f1b715b9dbdde366b3dd1",
+      "crc32": "ac8a0fcb",
+      "sha1": "a0e82d02984acb8cf8d2c78c2c0691411aa837c1",
+      "format": "JSON"
+    },
+    {
+      "name": "lehuffpost-2022-07-12T10:18:47.498962+02:00.jpg",
+      "source": "original",
+      "mtime": "1657613931",
+      "size": "281467",
+      "md5": "664087b2d495ef03e54a1a98cc193a86",
+      "crc32": "281cb212",
+      "sha1": "c3704dc4f17c4d4f0914a628fca7abe5dedc2e03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lehuffpost-2022-07-12T10:18:47.498962+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lehuffpost-2022-07-12T10:18:47.498962+02:00.jpg",
+      "mtime": "1657613990",
+      "size": "9611",
+      "md5": "3a9072655844a922c41a785f0559b221",
+      "crc32": "bf923a5c",
+      "sha1": "c20933a479e206e8b3f611dc74456dd68eebde62"
+    },
+    {
       "name": "lehuffpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1e94373916019e24406108167f531f65b08be4d",
-      "mtime": "1657440761",
-      "size": "138159",
-      "md5": "cd56492cbc9e93ffbd574ee13c157a2d",
-      "crc32": "c8bb2900",
-      "sha1": "ba3da025e28f2ecca17b23205732793882b4f7c7",
+      "btih": "22720267f1f0cb2b7b588d7bb7e0b9c2a1b21dee",
+      "mtime": "1657613999",
+      "size": "143261",
+      "md5": "ada2642f4e224853997c53cdd1ded17b",
+      "crc32": "ea8493c8",
+      "sha1": "15606fd64e18d1a2f774d1058596afc34022d46f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lehuffpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99d1001398829fa5bdc4a25462d8d80d",
+      "md5": "ff71d0731c5b46b525137d7f795ef507",
       "summation": "md5"
     },
     {
       "name": "lehuffpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657440558",
-      "size": "757760",
-      "md5": "0b148cf8bd125db9aa449bdbfa487d67",
-      "crc32": "7deda84f",
-      "sha1": "5c94942bbbd751689ccc1fdbb540f643fcadc724",
+      "mtime": "1657613937",
+      "size": "782336",
+      "md5": "652a54d5eec20077e3e6bcc4581116f6",
+      "crc32": "e08108f9",
+      "sha1": "ac609efb2e45ed4c772e2d9d93655fe3c587a163",
       "format": "Metadata"
     },
     {
@@ -6794,1375 +7046,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 647,
-  "item_last_updated": 1657440761,
-  "item_size": 57031523,
-  "lehuffpost-2022": [
-    {
-      "text": "Skip to Main Content",
-      "url": "#main"
-    },
-    {
-      "text": "Politique",
-      "url": "/politique/"
-    },
-    {
-      "text": "Emmanuel Macron",
-      "url": "/news/emmanuel-macron/"
-    },
-    {
-      "text": "Pr\u00e9sidentielle 2022",
-      "url": "/news/presidentielle-2022/"
-    },
-    {
-      "text": "R\u00e9gionales 2021",
-      "url": "/news/regionales-2021/"
-    },
-    {
-      "text": "Sondages",
-      "url": "/news/sondages/"
-    },
-    {
-      "text": "Assembl\u00e9e nationale",
-      "url": "/news/assemblee-nationale/"
-    },
-    {
-      "text": "Police",
-      "url": "/news/police/"
-    },
-    {
-      "text": "Terrorisme",
-      "url": "/terrorisme/"
-    },
-    {
-      "text": "Justice",
-      "url": "/justice/"
-    },
-    {
-      "text": "LREM",
-      "url": "/news/lrem/"
-    },
-    {
-      "text": "Paris",
-      "url": "/news/paris/"
-    },
-    {
-      "text": "International",
-      "url": "/international/"
-    },
-    {
-      "text": "Joe Biden",
-      "url": "/news/joe-biden/"
-    },
-    {
-      "text": "Donald Trump",
-      "url": "/news/donald-trump/"
-    },
-    {
-      "text": "Etats-Unis",
-      "url": "/news/etats-unis/"
-    },
-    {
-      "text": "Europe",
-      "url": "/news/europe/"
-    },
-    {
-      "text": "Afrique",
-      "url": "/news/afrique/"
-    },
-    {
-      "text": "Asie",
-      "url": "/news/asie/"
-    },
-    {
-      "text": "CORONAVIRUS",
-      "url": "/feature/coronavirus/"
-    },
-    {
-      "text": "\u00c9conomie",
-      "url": "/economie/"
-    },
-    {
-      "text": "Techno",
-      "url": "/techno/"
-    },
-    {
-      "text": "Impots",
-      "url": "/news/impots/"
-    },
-    {
-      "text": "Immobilier",
-      "url": "/news/immobilier/"
-    },
-    {
-      "text": "Ch\u00f4mage",
-      "url": "/news/chomage/"
-    },
-    {
-      "text": "Emploi",
-      "url": "/news/emploi/"
-    },
-    {
-      "text": "ENVIRONNEMENT",
-      "url": "/environnement/"
-    },
-    {
-      "text": "Podcast environnement",
-      "url": "https://www.huffingtonpost.fr/entry/podcast-environnement-huffpost-envert-du-decor_fr_5f22de78c5b656e9b0986e74"
-    },
-    {
-      "text": "En transit.ion",
-      "url": "/news/en-transition/"
-    },
-    {
-      "text": "Catastrophes naturelles",
-      "url": "/news/catastrophe-naturelle/"
-    },
-    {
-      "text": "R\u00e9chauffement climatique",
-      "url": "/news/rechauffement-climatique/"
-    },
-    {
-      "text": "Biodiversit\u00e9",
-      "url": "/news/biodiversite/"
-    },
-    {
-      "text": "Animaux",
-      "url": "/news/animaux/"
-    },
-    {
-      "text": "\u00c9cologie",
-      "url": "/news/ecologie/"
-    },
-    {
-      "text": "Agriculture",
-      "url": "/news/agriculture/"
-    },
-    {
-      "text": "Life",
-      "url": "/life/"
-    },
-    {
-      "text": "Bien-\u00eatre",
-      "url": "/news/bien-etre/"
-    },
-    {
-      "text": "Alimentation",
-      "url": "/news/alimentation/"
-    },
-    {
-      "text": "Forme",
-      "url": "/news/forme/"
-    },
-    {
-      "text": "Sexualit\u00e9",
-      "url": "/news/sexualite/"
-    },
-    {
-      "text": "Voyage",
-      "url": "/news/voyage/"
-    },
-    {
-      "text": "Femmes",
-      "url": "/news/femmes/"
-    },
-    {
-      "text": "Parents",
-      "url": "/news/parents/"
-    },
-    {
-      "text": "Psycho",
-      "url": "/news/psychologie/"
-    },
-    {
-      "text": "Sant\u00e9",
-      "url": "/news/sante/"
-    },
-    {
-      "text": "T\u00e9moignage",
-      "url": "/news/temoignage/"
-    },
-    {
-      "text": "Culture",
-      "url": "/culture/"
-    },
-    {
-      "text": "Cin\u00e9ma",
-      "url": "/news/cinema/"
-    },
-    {
-      "text": "M\u00e9dias",
-      "url": "/medias/"
-    },
-    {
-      "text": "S\u00e9ries t\u00e9l\u00e9",
-      "url": "/news/series-tele/"
-    },
-    {
-      "text": "Musique",
-      "url": "/news/musique/"
-    },
-    {
-      "text": "Jeux vid\u00e9o",
-      "url": "/news/jeux-video/"
-    },
-    {
-      "text": "Livres",
-      "url": "/news/livres/"
-    },
-    {
-      "text": "Art",
-      "url": "/news/art/"
-    },
-    {
-      "text": "People",
-      "url": "/people/"
-    },
-    {
-      "text": "M\u00c9DIAS",
-      "url": "/medias/"
-    },
-    {
-      "text": "VID\u00c9OS",
-      "url": "/video/"
-    },
-    {
-      "text": "Sciences",
-      "url": "/science/"
-    },
-    {
-      "text": "Techno",
-      "url": "/techno/"
-    },
-    {
-      "text": "C\u2019est demain",
-      "url": "/cest-demain/"
-    },
-    {
-      "text": "Espace",
-      "url": "/news/espace/"
-    },
-    {
-      "text": "Sport",
-      "url": "/sport/"
-    },
-    {
-      "text": "Le Bon Lien",
-      "url": "/le-bon-lien/"
-    },
-    {
-      "text": "R\u00e9seaux sociaux",
-      "url": "/news/reseaux-sociaux/"
-    },
-    {
-      "text": "Insolite",
-      "url": "/insolite/"
-    },
-    {
-      "text": "Mode",
-      "url": "/news/mode/"
-    },
-    {
-      "text": "\u00c9ducation",
-      "url": "/news/education/"
-    },
-    {
-      "text": "Faits divers",
-      "url": "/faits-divers/"
-    },
-    {
-      "text": "La vie est belge",
-      "url": "https://lavieestbelge-en-wallonie.huffingtonpost.fr/"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/LeHuffPost"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/lehuffpost"
-    },
-    {
-      "text": "",
-      "url": "https://www.youtube.com/lehuffpost"
-    },
-    {
-      "text": "",
-      "url": "https://www.flipboard.com/@LeHuffpost"
-    },
-    {
-      "text": "",
-      "url": "https://www.twitter.com/LeHuffPost"
-    },
-    {
-      "text": "Termes",
-      "url": "/static/conditions-generales"
-    },
-    {
-      "text": "R\u00e8gles de respect de la vie priv\u00e9e",
-      "url": "/static/charte-de-confidentialite"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr"
-    },
-    {
-      "text": "Politique",
-      "url": "/politique/"
-    },
-    {
-      "text": "International",
-      "url": "/international/"
-    },
-    {
-      "text": "CORONAVIRUS",
-      "url": "/feature/coronavirus/"
-    },
-    {
-      "text": "ENVIRONNEMENT",
-      "url": "/environnement/"
-    },
-    {
-      "text": "Life",
-      "url": "/life/"
-    },
-    {
-      "text": "Culture",
-      "url": "/culture/"
-    },
-    {
-      "text": "M\u00c9DIAS",
-      "url": "/medias/"
-    },
-    {
-      "text": "VID\u00c9OS",
-      "url": "/video/"
-    },
-    {
-      "text": "Go to featured article",
-      "url": "https://www.huffingtonpost.fr/entry/climat-covid-injures-trump-signe-son-retour-lors-dun-meeting-en-alaska_fr_62ca6d7ae4b0d74019846bac"
-    },
-    {
-      "text": "SIGNER SON RETOUR",
-      "url": "https://www.huffingtonpost.fr/entry/climat-covid-injures-trump-signe-son-retour-lors-dun-meeting-en-alaska_fr_62ca6d7ae4b0d74019846bac"
-    },
-    {
-      "text": "Paul Guyonnet",
-      "url": "https://www.huffingtonpost.fr/author/paul-guyonnet"
-    },
-    {
-      "text": "\u00c9lisabeth Borne veut des aides plus cibl\u00e9es apr\u00e8s la fin du bouclier tarifaire",
-      "url": "https://www.huffingtonpost.fr/entry/prix-de-lenergie-elisabeth-borne-veut-des-aides-plus-ciblees-apres-la-fin-du-bouclier-tarifaire_fr_62ca73a6e4b0451684636b13"
-    },
-    {
-      "text": "Qui pour succ\u00e9der \u00e0 Macron en 2027? En coulisses, les poids lourds se pr\u00e9parent",
-      "url": "https://www.huffingtonpost.fr/entry/philippe-darmanin-le-maire-la-succession-a-emmanuel-macron-est-ouverte_fr_62c94913e4b0aa392d3f3957"
-    },
-    {
-      "text": "\u201cPlus de bistrots, moins de visio\u201d: Darmanin appelle la Macronie \u00e0 \u201ccorriger\u201d sa strat\u00e9gie",
-      "url": "https://www.huffingtonpost.fr/entry/gerald-darmanin-appelle-la-macronie-a-corriger-sa-strategie_fr_62c941b5e4b045168462dde8"
-    },
-    {
-      "text": "PS, LR, EELV, LREM, RN, ces partis n\u2019en ont pas fini avec les \u00e9lections",
-      "url": "https://www.huffingtonpost.fr/entry/lrem-rn-lr-ps-eelv-ces-partis-nen-ont-pas-fini-avec-les-elections_fr_62c8121de4b0d74019827018"
-    },
-    {
-      "text": "Lapix rejette \u201ctoute animosit\u00e9\u201d envers les politiques mais \u201ccherche le loup car c\u2019est son r\u00f4le\u201d",
-      "url": "https://www.huffingtonpost.fr/entry/lapix-rejette-toute-animosite-envers-les-politiques-mais-cherche-le-loup-car-cest-son-role_fr_62c9cd91e4b02e0ac914d101"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/vers-une-canicule-meteo-france-attend-de-fortes-chaleurs-la-semaine-prochaine_fr_62c97feae4b0451684630d36"
-    },
-    {
-      "text": "Actualit\u00e9s",
-      "url": "https://www.huffingtonpost.fr/actualites/"
-    },
-    {
-      "text": "Vers une canicule? Il va faire tr\u00e8s chaud la semaine prochaine en France",
-      "url": "https://www.huffingtonpost.fr/entry/vers-une-canicule-meteo-france-attend-de-fortes-chaleurs-la-semaine-prochaine_fr_62c97feae4b0451684630d36"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/sri-lanka-la-residence-du-premier-ministre-en-feu-le-president-demissionnera-le-13-juillet_fr_62c9bb52e4b06e3d9bb5f996"
-    },
-    {
-      "text": "INTERNATIONAL",
-      "url": "https://www.huffingtonpost.fr/international/"
-    },
-    {
-      "text": "D\u00e9mission du pr\u00e9sident du Sri Lanka le 13 juillet, la r\u00e9sidence du Premier ministre en feu",
-      "url": "https://www.huffingtonpost.fr/entry/sri-lanka-la-residence-du-premier-ministre-en-feu-le-president-demissionnera-le-13-juillet_fr_62c9bb52e4b06e3d9bb5f996"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/qui-pour-remplacer-boris-johnson-les-candidatures-de-ministres-pleuvent_fr_62c9f95ae4b0d74019844875"
-    },
-    {
-      "text": "INTERNATIONAL",
-      "url": "https://www.huffingtonpost.fr/international/"
-    },
-    {
-      "text": "Qui pour remplacer Boris Johnson? Les candidatures de ministres se mettent \u00e0 pleuvoir",
-      "url": "https://www.huffingtonpost.fr/entry/qui-pour-remplacer-boris-johnson-les-candidatures-de-ministres-pleuvent_fr_62c9f95ae4b0d74019844875"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/andrea-jenkyns-la-ministre-qui-a-fait-un-doigt-dhonneur-a-des-manifestants-ne-sexcusera-pas_fr_62c98f4ee4b0d74019841dfb"
-    },
-    {
-      "text": "INTERNATIONAL",
-      "url": "https://www.huffingtonpost.fr/international/"
-    },
-    {
-      "text": "Cette ministre britannique critiqu\u00e9e pour un doigt d\u2019honneur \u201cne s\u2019excusera pas\u201d",
-      "url": "https://www.huffingtonpost.fr/entry/andrea-jenkyns-la-ministre-qui-a-fait-un-doigt-dhonneur-a-des-manifestants-ne-sexcusera-pas_fr_62c98f4ee4b0d74019841dfb"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/netflix-passe-la-barre-des-10-millions-dabonnes-en-france_fr_62c9fd56e4b0aa392d3f9a5b"
-    },
-    {
-      "text": "CULTURE",
-      "url": "https://www.huffingtonpost.fr/culture/"
-    },
-    {
-      "text": "Netflix passe la barre des 10 millions d\u2019abonn\u00e9s en France",
-      "url": "https://www.huffingtonpost.fr/entry/netflix-passe-la-barre-des-10-millions-dabonnes-en-france_fr_62c9fd56e4b0aa392d3f9a5b"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/rugby-la-france-numero-1-mondiale-pour-la-premiere-fois-de-son-histoire_fr_62c9c444e4b06e3d9bb5fccc"
-    },
-    {
-      "text": "SPORT",
-      "url": "https://www.huffingtonpost.fr/sport/"
-    },
-    {
-      "text": "Rugby: La France n\u00b01 mondiale pour la premi\u00e8re fois de son histoire",
-      "url": "https://www.huffingtonpost.fr/entry/rugby-la-france-numero-1-mondiale-pour-la-premiere-fois-de-son-histoire_fr_62c9c444e4b06e3d9bb5fccc"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/comment-nettoyer-votre-barbecue-pour-lete_fr_62c6cfe2e4b0d74019801cb9"
-    },
-    {
-      "text": "LIFE",
-      "url": "https://www.huffingtonpost.fr/life/"
-    },
-    {
-      "text": "Les meilleures fa\u00e7ons de nettoyer votre barbecue pour cet \u00e9t\u00e9",
-      "url": "https://www.huffingtonpost.fr/entry/comment-nettoyer-votre-barbecue-pour-lete_fr_62c6cfe2e4b0d74019801cb9"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/les-drapeaux-de-baignade-evoluent_fr_62bc4af0e4b0adb8aa4f1bb2"
-    },
-    {
-      "text": "Actualit\u00e9s",
-      "url": "https://www.huffingtonpost.fr/actualites/"
-    },
-    {
-      "text": "C\u2019est quoi ces nouveaux drapeaux de baignade sur les plages?",
-      "url": "https://www.huffingtonpost.fr/entry/les-drapeaux-de-baignade-evoluent_fr_62bc4af0e4b0adb8aa4f1bb2"
-    },
-    {
-      "text": "Maxime Birken",
-      "url": "https://www.huffingtonpost.fr/author/maxime-birken"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/departs-en-vacances-presque-deux-fois-moins-de-bouchons-sur-les-routes-quen-2021_fr_62c99228e4b0451684631f9f"
-    },
-    {
-      "text": "Actualit\u00e9s",
-      "url": "https://www.huffingtonpost.fr/actualites/"
-    },
-    {
-      "text": "Pr\u00e8s de deux fois moins de bouchons sur les routes compar\u00e9s \u00e0 l\u2019an dernier",
-      "url": "https://www.huffingtonpost.fr/entry/departs-en-vacances-presque-deux-fois-moins-de-bouchons-sur-les-routes-quen-2021_fr_62c99228e4b0451684631f9f"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/pas-de-bonnes-raisons-acheter-votre-eau-en-bouteille_fr_62bd8dcee4b0f61257239678"
-    },
-    {
-      "text": "Environnement",
-      "url": "https://www.huffingtonpost.fr/environnement/"
-    },
-    {
-      "text": "PODCAST - Il n\u2019y a vraiment pas de bonnes raisons d\u2019acheter votre eau en bouteille",
-      "url": "https://www.huffingtonpost.fr/entry/pas-de-bonnes-raisons-acheter-votre-eau-en-bouteille_fr_62bd8dcee4b0f61257239678"
-    },
-    {
-      "text": "Pauline Brault",
-      "url": "https://www.huffingtonpost.fr/author/pauline-brault"
-    },
-    {
-      "text": "Gr\u00e9gory Rozi\u00e8res",
-      "url": "https://www.huffingtonpost.fr/author/gregory-rozieres"
-    },
-    {
-      "text": "Matthieu Balu",
-      "url": "https://www.huffingtonpost.fr/author/balu"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/paul-rudd-est-devenu-un-veritable-superheros-pour-cet-ecolier-americain_fr_62c9ee79e4b0359fa47c360d"
-    },
-    {
-      "text": "CULTURE",
-      "url": "https://www.huffingtonpost.fr/culture/"
-    },
-    {
-      "text": "Cet \u00e9colier pers\u00e9cut\u00e9 par sa classe a gagn\u00e9 le meilleur soutien qu\u2019il soit",
-      "url": "https://www.huffingtonpost.fr/entry/paul-rudd-est-devenu-un-veritable-superheros-pour-cet-ecolier-americain_fr_62c9ee79e4b0359fa47c360d"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/emily-in-paris-lupin-netflix-fait-visiter-ses-lieux-de-tournage-a-paris_fr_62c81a44e4b02e0ac913177e"
-    },
-    {
-      "text": "CULTURE",
-      "url": "https://www.huffingtonpost.fr/culture/"
-    },
-    {
-      "text": "\u00c0 Paris, Netflix s\u2019invente guide touristique pour les fans de \u201cEmily in Paris\u201d et \u201cLupin\u201d",
-      "url": "https://www.huffingtonpost.fr/entry/emily-in-paris-lupin-netflix-fait-visiter-ses-lieux-de-tournage-a-paris_fr_62c81a44e4b02e0ac913177e"
-    },
-    {
-      "text": "Adrien Borges",
-      "url": "https://www.huffingtonpost.fr/author/adrien-borges"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/cet-ete-decouvrez-berlin-differemment-avec-cours-lola-cours_fr_62c80693e4b0aa392d3da8a2"
-    },
-    {
-      "text": "CULTURE",
-      "url": "https://www.huffingtonpost.fr/culture/"
-    },
-    {
-      "text": "Envie de d\u00e9couvrir Berlin diff\u00e9remment? Ce classique du cin\u00e9 allemand est fait pour vous",
-      "url": "https://www.huffingtonpost.fr/entry/cet-ete-decouvrez-berlin-differemment-avec-cours-lola-cours_fr_62c80693e4b0aa392d3da8a2"
-    },
-    {
-      "text": "Valentin Etancelin",
-      "url": "https://www.huffingtonpost.fr/author/valentin-etancelin"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/tchoupi-le-heros-des-petits-se-met-au-nft-et-ca-ne-passe-pas_fr_62c6cff4e4b0359fa4781094"
-    },
-    {
-      "text": "CULTURE",
-      "url": "https://www.huffingtonpost.fr/culture/"
-    },
-    {
-      "text": "Pourquoi T\u2019choupi, le h\u00e9ros des petits, se met aux NFT?",
-      "url": "https://www.huffingtonpost.fr/entry/tchoupi-le-heros-des-petits-se-met-au-nft-et-ca-ne-passe-pas_fr_62c6cff4e4b0359fa4781094"
-    },
-    {
-      "text": "Cl\u00e9ment Vaillant",
-      "url": "https://www.huffingtonpost.fr/author/clement-vaillant"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/un-velo-inclusif-pour-rouler-avec-son-propre-fauteuil-roulant_fr_627566ebe4b03ca836414001"
-    },
-    {
-      "text": "\u00c0 Lyon, un v\u00e9lo inclusif pour rouler avec son propre fauteuil roulant",
-      "url": "https://www.huffingtonpost.fr/entry/un-velo-inclusif-pour-rouler-avec-son-propre-fauteuil-roulant_fr_627566ebe4b03ca836414001"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/toyota-objectif-zero-accident_fr_62b41798e4b0c77098b77411"
-    },
-    {
-      "text": "Toyota, objectif z\u00e9ro accident",
-      "url": "https://www.huffingtonpost.fr/entry/toyota-objectif-zero-accident_fr_62b41798e4b0c77098b77411"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/a-lorient-des-velos-triporteurs-pour-aider-gratuitement-les-personnes-agees_fr_62556face4b0be72bfeec942"
-    },
-    {
-      "text": "\u00c0 Lorient, des v\u00e9los triporteurs pour aider gratuitement les personnes \u00e2g\u00e9es",
-      "url": "https://www.huffingtonpost.fr/entry/a-lorient-des-velos-triporteurs-pour-aider-gratuitement-les-personnes-agees_fr_62556face4b0be72bfeec942"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/au-festival-beauregard-liam-gallagher-a-abrege-son-concert_fr_62c97b54e4b02e0ac9149fe4"
-    },
-    {
-      "text": "Le concert de Liam Gallagher au festival Beauregard a tourn\u00e9 court, celui de dimanche annul\u00e9",
-      "url": "https://www.huffingtonpost.fr/entry/au-festival-beauregard-liam-gallagher-a-abrege-son-concert_fr_62c97b54e4b02e0ac9149fe4"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/ce-politique-belge-a-parodie-les-vacances-bling-bling-de-benzema-a-sa-maniere_fr_62c89043e4b0451684626d3d"
-    },
-    {
-      "text": "Ce ministre belge a parodi\u00e9 les vacances \u201cbling-bling\u201d de Benzema \u00e0 sa mani\u00e8re",
-      "url": "https://www.huffingtonpost.fr/entry/ce-politique-belge-a-parodie-les-vacances-bling-bling-de-benzema-a-sa-maniere_fr_62c89043e4b0451684626d3d"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/lors-de-leurs-regles-ces-sportives-veulent-jouer-sans-shorts-blancs_fr_62c7e62ce4b0aa392d3d3f3d"
-    },
-    {
-      "text": "Ces sportives veulent jouer sans shorts blancs lors de leurs r\u00e8gles",
-      "url": "https://www.huffingtonpost.fr/entry/lors-de-leurs-regles-ces-sportives-veulent-jouer-sans-shorts-blancs_fr_62c7e62ce4b0aa392d3d3f3d"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/mort-de-lenny-von-dohlen-vu-notamment-dans-twin-peaks_fr_62c92ce5e4b0aa392d3f1baa"
-    },
-    {
-      "text": "L\u2019acteur Lenny von Dohlen, vu notamment dans \u201cTwin Peaks\u201d, est mort",
-      "url": "https://www.huffingtonpost.fr/entry/mort-de-lenny-von-dohlen-vu-notamment-dans-twin-peaks_fr_62c92ce5e4b0aa392d3f1baa"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/tiktok-quest-ce-que-le-blackout-challenge_fr_62c7ed13e4b06e3d9bb3c1f6"
-    },
-    {
-      "text": "Qu\u2019est ce que le \u201cblackout challenge\u201d, le d\u00e9fi \u00e0 l\u2019origine du d\u00e9c\u00e8s de deux fillettes?",
-      "url": "https://www.huffingtonpost.fr/entry/tiktok-quest-ce-que-le-blackout-challenge_fr_62c7ed13e4b06e3d9bb3c1f6"
-    },
-    {
-      "text": "Politique de confidentialit\u00e9",
-      "url": "/static/charte-de-confidentialite"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/LeHuffPost"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/lehuffpost"
-    },
-    {
-      "text": "",
-      "url": "https://www.youtube.com/lehuffpost"
-    },
-    {
-      "text": "",
-      "url": "https://www.flipboard.com/@LeHuffpost"
-    },
-    {
-      "text": "",
-      "url": "https://www.twitter.com/LeHuffPost"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/je-nai-pas-demissionne-de-mon-job-pour-un-autre-mais-pour-moi-blog_fr_62c6c35de4b0359fa477e990"
-    },
-    {
-      "text": "\u201cJe n\u2019ai pas d\u00e9missionn\u00e9 de mon job pour un autre, mais pour moi\u201d",
-      "url": "https://www.huffingtonpost.fr/entry/je-nai-pas-demissionne-de-mon-job-pour-un-autre-mais-pour-moi-blog_fr_62c6c35de4b0359fa477e990"
-    },
-    {
-      "text": "Anne-Sophie Vergne",
-      "url": "https://www.huffingtonpost.fr/author/anne-sophie-vergne"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/a-mes-eleves-qui-ont-les-resultats-du-brevet-aujourdhui-blog_fr_62c696f2e4b06e3d9bb12f6c"
-    },
-    {
-      "text": "\u2033\u00c0 mes \u00e9l\u00e8ves, qui ont les r\u00e9sultats du brevet aujourd\u2019hui\u201d",
-      "url": "https://www.huffingtonpost.fr/entry/a-mes-eleves-qui-ont-les-resultats-du-brevet-aujourdhui-blog_fr_62c696f2e4b06e3d9bb12f6c"
-    },
-    {
-      "text": "Alexis Potschke",
-      "url": "https://www.huffingtonpost.fr/author/alexis-potschke"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/ces-cadeaux-de-fin-dannee-qui-marqueront-ma-carriere-denseignante-blog_fr_62c689e0e4b06e3d9bb10c2b"
-    },
-    {
-      "text": "\u201cCes cadeaux de fin d\u2019ann\u00e9e qui marqueront ma carri\u00e8re d\u2019enseignante\u201d",
-      "url": "https://www.huffingtonpost.fr/entry/ces-cadeaux-de-fin-dannee-qui-marqueront-ma-carriere-denseignante-blog_fr_62c689e0e4b06e3d9bb10c2b"
-    },
-    {
-      "text": "Alice Versal",
-      "url": "https://www.huffingtonpost.fr/author/alice-versal"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/les-droits-de-mon-frere-handicape-les-miens-daidante-et-dautres-familles-sont-bafoues-blog_fr_62bd5bf3e4b065b10ad0936f"
-    },
-    {
-      "text": "\u201cLes droits de mon fr\u00e8re handicap\u00e9, les miens d\u2019aidante et d\u2019autres familles sont bafou\u00e9s\u201d",
-      "url": "https://www.huffingtonpost.fr/entry/les-droits-de-mon-frere-handicape-les-miens-daidante-et-dautres-familles-sont-bafoues-blog_fr_62bd5bf3e4b065b10ad0936f"
-    },
-    {
-      "text": "Maryse L.",
-      "url": "https://www.huffingtonpost.fr/author/maryse-l"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/allemagne-inquiete-face-a-une-possible-penurie-de-gaz-russe_fr_62c96c62e4b045168462fd22"
-    },
-    {
-      "text": "INTERNATIONAL",
-      "url": "https://www.huffingtonpost.fr/international/"
-    },
-    {
-      "text": "Eau chaude, \u00e9clairage... L\u2019Allemagne se pr\u00e9pare face \u00e0 une p\u00e9nurie de gaz russe",
-      "url": "https://www.huffingtonpost.fr/entry/allemagne-inquiete-face-a-une-possible-penurie-de-gaz-russe_fr_62c96c62e4b045168462fd22"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/guerre-en-ukraine-la-russie-accusee-de-mettre-le-feu-a-des-champs-de-cereales_fr_62c92e51e4b045168462c7d0"
-    },
-    {
-      "text": "INTERNATIONAL",
-      "url": "https://www.huffingtonpost.fr/international/"
-    },
-    {
-      "text": "La Russie accus\u00e9e de mettre le feu \u00e0 des champs de c\u00e9r\u00e9ales en Ukraine",
-      "url": "https://www.huffingtonpost.fr/entry/guerre-en-ukraine-la-russie-accusee-de-mettre-le-feu-a-des-champs-de-cereales_fr_62c92e51e4b045168462c7d0"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/joe-biden-compare-a-ron-burgundy-apres-une-bourde-avec-son-prompteur_fr_62c92121e4b0359fa47bab01"
-    },
-    {
-      "text": "INTERNATIONAL",
-      "url": "https://www.huffingtonpost.fr/international/"
-    },
-    {
-      "text": "Cette gaffe de Biden avec son prompteur lui vaut un nouveau surnom",
-      "url": "https://www.huffingtonpost.fr/entry/joe-biden-compare-a-ron-burgundy-apres-une-bourde-avec-son-prompteur_fr_62c92121e4b0359fa47bab01"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/apres-lavortement-la-sodomie-et-la-contraception-dans-le-viseur-de-la-cour-supreme_fr_62c58dcbe4b02e0ac90e36a9"
-    },
-    {
-      "text": "INTERNATIONAL",
-      "url": "https://www.huffingtonpost.fr/international/"
-    },
-    {
-      "text": "Apr\u00e8s l\u2019avortement, la contraception ou la sodomie dans la ligne de mire de la Cour supr\u00eame?",
-      "url": "https://www.huffingtonpost.fr/entry/apres-lavortement-la-sodomie-et-la-contraception-dans-le-viseur-de-la-cour-supreme_fr_62c58dcbe4b02e0ac90e36a9"
-    },
-    {
-      "text": "POLITIQUE",
-      "url": "https://www.huffingtonpost.fr/politique/"
-    },
-    {
-      "text": "Quand Boris Johnson se payait les dirigeants fran\u00e7ais, de Jupp\u00e9 \u00e0 Macron",
-      "url": "https://www.huffingtonpost.fr/entry/quand-boris-johnson-se-payait-les-dirigeants-francais-de-hollande-a-macron_fr_62c83e1ce4b045168461ebee"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/tony-sirico-alias-paulie-gualtieri-dans-les-soprano-est-mort_fr_62c8c709e4b06e3d9bb553ae"
-    },
-    {
-      "text": "CULTURE",
-      "url": "https://www.huffingtonpost.fr/culture/"
-    },
-    {
-      "text": "Tony Sirico, alias \u201cPaulie\u201d dans \u201cLes Soprano\u201d, est mort",
-      "url": "https://www.huffingtonpost.fr/entry/tony-sirico-alias-paulie-gualtieri-dans-les-soprano-est-mort_fr_62c8c709e4b06e3d9bb553ae"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/faire-passer-le-bien-etre-avant-le-salaire-nouvelle-priorite-de-nombreux-salaries-blog_fr_62c6c8aee4b0359fa477f6f4"
-    },
-    {
-      "text": "\u201cFaire passer le bien-\u00eatre avant le salaire, nouvelle priorit\u00e9 de nombreux salari\u00e9s\u201d",
-      "url": "https://www.huffingtonpost.fr/entry/faire-passer-le-bien-etre-avant-le-salaire-nouvelle-priorite-de-nombreux-salaries-blog_fr_62c6c8aee4b0359fa477f6f4"
-    },
-    {
-      "text": "J\u00e9r\u00f4me Crest",
-      "url": "https://www.huffingtonpost.fr/author/jerome-crest"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/violence-et-polemique-sur-les-reseaux-sociaux-ont-tue-lart-de-la-nuance-blog_fr_62c53b8fe4b0359fa474a1df"
-    },
-    {
-      "text": "\u201cViolence et pol\u00e9mique sur les r\u00e9seaux sociaux ont tu\u00e9 l\u2019art de la nuance\u201d",
-      "url": "https://www.huffingtonpost.fr/entry/violence-et-polemique-sur-les-reseaux-sociaux-ont-tue-lart-de-la-nuance-blog_fr_62c53b8fe4b0359fa474a1df"
-    },
-    {
-      "text": "Delphine Jouenne",
-      "url": "https://www.huffingtonpost.fr/author/delphine-jouenne"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/cest-lethique-et-non-le-calcul-politique-qui-sauvera-les-soignants-et-notre-systeme-de-sante_fr_62c3ec66e4b0a21d842af354"
-    },
-    {
-      "text": "C\u2019est l\u2019\u00e9thique et non la politique qui sauvera soignants et syst\u00e8me de sant\u00e9",
-      "url": "https://www.huffingtonpost.fr/entry/cest-lethique-et-non-le-calcul-politique-qui-sauvera-les-soignants-et-notre-systeme-de-sante_fr_62c3ec66e4b0a21d842af354"
-    },
-    {
-      "text": "Philippe Bizouarn",
-      "url": "https://www.huffingtonpost.fr/author/philippe-bizouarn"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/pourquoi-trouve-t-on-toujours-que-cetait-mieux-avant-blog_fr_62c2a098e4b00a9334ea53fe"
-    },
-    {
-      "text": "Pourquoi trouve-t-on toujours que \u201cc\u2019\u00e9tait mieux avant\u201d?",
-      "url": "https://www.huffingtonpost.fr/entry/pourquoi-trouve-t-on-toujours-que-cetait-mieux-avant-blog_fr_62c2a098e4b00a9334ea53fe"
-    },
-    {
-      "text": "Joseph Agostini",
-      "url": "https://www.huffingtonpost.fr/author/joseph-agostini"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/bac-2022-le-taux-de-reussite-en-nette-baisse-par-rapport-a-2021_fr_62c9a035e4b0359fa47c1fbb"
-    },
-    {
-      "text": "Actualit\u00e9s",
-      "url": "https://www.huffingtonpost.fr/actualites/"
-    },
-    {
-      "text": "Retour \u00e0 la moyenne pour le taux de r\u00e9ussite au bac",
-      "url": "https://www.huffingtonpost.fr/entry/bac-2022-le-taux-de-reussite-en-nette-baisse-par-rapport-a-2021_fr_62c9a035e4b0359fa47c1fbb"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/allocation-aux-adultes-handicapes-le-coup-de-pression-de-la-droite_fr_62c836d9e4b0d7401982d682"
-    },
-    {
-      "text": "POLITIQUE",
-      "url": "https://www.huffingtonpost.fr/politique/"
-    },
-    {
-      "text": "La droite met Borne sous pression sur l\u2019allocation aux adultes handicap\u00e9s",
-      "url": "https://www.huffingtonpost.fr/entry/allocation-aux-adultes-handicapes-le-coup-de-pression-de-la-droite_fr_62c836d9e4b0d7401982d682"
-    },
-    {
-      "text": "Alexandre Boudet",
-      "url": "https://www.huffingtonpost.fr/author/alexandre-boudet"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/le-tour-de-france-2022-confronte-a-ses-premiers-cas-de-covid-depuis-le-depart_fr_62c95c92e4b02e0ac9148ed1"
-    },
-    {
-      "text": "SPORT",
-      "url": "https://www.huffingtonpost.fr/sport/"
-    },
-    {
-      "text": "Deux premiers abandons pour Covid sur le Tour de France, dont un co\u00e9quipier du maillot jaune",
-      "url": "https://www.huffingtonpost.fr/entry/le-tour-de-france-2022-confronte-a-ses-premiers-cas-de-covid-depuis-le-depart_fr_62c95c92e4b02e0ac9148ed1"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/le-changement-de-vie-un-phenomene-complexe-decortique-dans-le-magazine-les-deviations_fr_62c2fc69e4b014f50a35355e"
-    },
-    {
-      "text": "LIFE",
-      "url": "https://www.huffingtonpost.fr/life/"
-    },
-    {
-      "text": "Le changement de vie, un \u201cph\u00e9nom\u00e8ne complexe\u201d d\u00e9cortiqu\u00e9 dans ce magazine",
-      "url": "https://www.huffingtonpost.fr/entry/le-changement-de-vie-un-phenomene-complexe-decortique-dans-le-magazine-les-deviations_fr_62c2fc69e4b014f50a35355e"
-    },
-    {
-      "text": "Suzanne Jusko",
-      "url": "https://www.huffingtonpost.fr/author/suzanne-jusko"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/electricite-grace-aux-vagues-une-premiere-mondiale-en-bretagne_fr_62c7f754e4b0aa392d3d7342"
-    },
-    {
-      "text": "Environnement",
-      "url": "https://www.huffingtonpost.fr/environnement/"
-    },
-    {
-      "text": "Ce caisson va produire de l\u2019\u00e9lectricit\u00e9 gr\u00e2ce aux vagues, \u201cune premi\u00e8re mondiale\u201d en Bretagne",
-      "url": "https://www.huffingtonpost.fr/entry/electricite-grace-aux-vagues-une-premiere-mondiale-en-bretagne_fr_62c7f754e4b0aa392d3d7342"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/la-shtar-academy-na-vraiment-rien-a-voir-avec-la-star-ac-ou-nouvelle-ecole_fr_62c7e1cce4b0aa392d3d31dc"
-    },
-    {
-      "text": "CULTURE",
-      "url": "https://www.huffingtonpost.fr/culture/"
-    },
-    {
-      "text": "Non, la \u201cShtar Academy\u201d n\u2019a rien \u00e0 voir avec la \u201cStar Ac\u2019\u201d ou \u201cNouvelle \u00e9cole\u201d",
-      "url": "https://www.huffingtonpost.fr/entry/la-shtar-academy-na-vraiment-rien-a-voir-avec-la-star-ac-ou-nouvelle-ecole_fr_62c7e1cce4b0aa392d3d31dc"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/la-position-sexuelle-de-lelephant-du-plaisir-et-tres-peu-deffort_fr_62c7f8eae4b02e0ac912bab2"
-    },
-    {
-      "text": "LIFE",
-      "url": "https://www.huffingtonpost.fr/life/"
-    },
-    {
-      "text": "Prendre du plaisir sans faire d\u2019effort avec la position de l\u2019\u00e9l\u00e9phant",
-      "url": "https://www.huffingtonpost.fr/entry/la-position-sexuelle-de-lelephant-du-plaisir-et-tres-peu-deffort_fr_62c7f8eae4b02e0ac912bab2"
-    },
-    {
-      "text": "CULTURE",
-      "url": "https://www.huffingtonpost.fr/culture/"
-    },
-    {
-      "text": "Les pingouins aussi ressentent les effets de l\u2019inflation dans leur assiette",
-      "url": "https://www.huffingtonpost.fr/entry/japon-pingouins-refusent-quon-baisse-la-qualite-de-leur-poisson_fr_62c825d8e4b02e0ac9133bdf"
-    },
-    {
-      "text": "Abdou-Karim Diop",
-      "url": "https://www.huffingtonpost.fr/author/abdoukarim-diop"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/merdouma-un-plat-traditionnel-algerien-a-la-cuisson-atypique_fr_62c7043ee4b02e0ac9115f8a"
-    },
-    {
-      "text": "LIFE",
-      "url": "https://www.huffingtonpost.fr/life/"
-    },
-    {
-      "text": "Pour une viande tendre et savoureuse, cette technique de cuisson alg\u00e9rienne fait la diff\u00e9rence",
-      "url": "https://www.huffingtonpost.fr/entry/merdouma-un-plat-traditionnel-algerien-a-la-cuisson-atypique_fr_62c7043ee4b02e0ac9115f8a"
-    },
-    {
-      "text": "Abdou-Karim Diop",
-      "url": "https://www.huffingtonpost.fr/author/abdoukarim-diop"
-    },
-    {
-      "text": "Voici comment.",
-      "url": "/static/nous-contacter"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/covid-le-masque-ne-sera-finalement-pas-obligatoire-lundi-a-nice_fr_62c856fce4b045168462207c"
-    },
-    {
-      "text": "Le masque ne sera finalement pas obligatoire lundi \u00e0 Nice et \u00e7a r\u00e9jouit \u00c9ric Ciotti",
-      "url": "https://www.huffingtonpost.fr/entry/covid-le-masque-ne-sera-finalement-pas-obligatoire-lundi-a-nice_fr_62c856fce4b045168462207c"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/les-rats-a-paris-deviennent-surmulots-dans-la-bouche-dune-elue-les-internautes-dechaines_fr_62c8271ee4b06e3d9bb46ee5"
-    },
-    {
-      "text": "Cette \u00e9lue de Paris pr\u00e9f\u00e8re parler de \"surmulots\" plut\u00f4t que de \"rats\" et inspire les internautes",
-      "url": "https://www.huffingtonpost.fr/entry/les-rats-a-paris-deviennent-surmulots-dans-la-bouche-dune-elue-les-internautes-dechaines_fr_62c8271ee4b06e3d9bb46ee5"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/affaire-mckinsey-coquerel-tacle-par-le-senat-justifie-sa-mission-dinformation-sur-les-cabinets-de-conseils_fr_62c82629e4b0d7401982aa2c"
-    },
-    {
-      "text": "Tacl\u00e9 par le S\u00e9nat, Coquerel justifie sa mission d'information sur McKinsey et les cabinets de conseils",
-      "url": "https://www.huffingtonpost.fr/entry/affaire-mckinsey-coquerel-tacle-par-le-senat-justifie-sa-mission-dinformation-sur-les-cabinets-de-conseils_fr_62c82629e4b0d7401982aa2c"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/la-nupes-une-alliance-fragile-en-trois-indices_fr_62c7f15be4b045168461095c"
-    },
-    {
-      "text": "Ces trois indices montrent que l'unit\u00e9 de la NUPES sera un combat",
-      "url": "https://www.huffingtonpost.fr/entry/la-nupes-une-alliance-fragile-en-trois-indices_fr_62c7f15be4b045168461095c"
-    },
-    {
-      "text": "Plus de sujets Politique",
-      "url": "https://www.huffingtonpost.fr/politique/"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/sri-lanka-le-president-en-fuite-le-palais-presidentiel-pris-dassaut-par-une-foule-immense_fr_62c94d68e4b0aa392d3f3fab"
-    },
-    {
-      "text": "Le palais pr\u00e9sidentiel pris d'assaut au Sri Lanka, le pr\u00e9sident en fuite",
-      "url": "https://www.huffingtonpost.fr/entry/sri-lanka-le-president-en-fuite-le-palais-presidentiel-pris-dassaut-par-une-foule-immense_fr_62c94d68e4b0aa392d3f3fab"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/covid-19-un-nouveau-seuil-franchi-en-france-sur-le-nombre-de-morts_fr_62c8642be4b06e3d9bb4fd5a"
-    },
-    {
-      "text": "Un nouveau seuil franchi en France sur les morts du Covid-19",
-      "url": "https://www.huffingtonpost.fr/entry/covid-19-un-nouveau-seuil-franchi-en-france-sur-le-nombre-de-morts_fr_62c8642be4b06e3d9bb4fd5a"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/pour-borne-lobligation-du-masque-dans-les-transports-nest-pas-a-lordre-du-jour_fr_62c5dce5e4b02e0ac90f0dd9"
-    },
-    {
-      "text": "Pour Borne, l'obligation du masque dans les transports n'est pas \u00e0 l'ordre du jour",
-      "url": "https://www.huffingtonpost.fr/entry/pour-borne-lobligation-du-masque-dans-les-transports-nest-pas-a-lordre-du-jour_fr_62c5dce5e4b02e0ac90f0dd9"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/le-port-du-masque-va-redevenir-obligatoire-dans-la-ville-de-nice_fr_62c531afe4b0359fa47481da"
-    },
-    {
-      "text": "Une premi\u00e8re grande ville r\u00e9impose le masque dans les transports",
-      "url": "https://www.huffingtonpost.fr/entry/le-port-du-masque-va-redevenir-obligatoire-dans-la-ville-de-nice_fr_62c531afe4b0359fa47481da"
-    },
-    {
-      "text": "Plus de sujets Coronavirus",
-      "url": "https://www.huffingtonpost.fr/news/coronavirus/"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/masterchef-de-retour-sur-france-2-on-a-vu-les-premieres-images_fr_62c6d52ee4b0aa392d3b868f"
-    },
-    {
-      "text": "On a vu les premi\u00e8res images du retour de \"Masterchef\" et \"c'est aga\u00e7ant\"",
-      "url": "https://www.huffingtonpost.fr/entry/masterchef-de-retour-sur-france-2-on-a-vu-les-premieres-images_fr_62c6d52ee4b0aa392d3b868f"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/pekin-express-duos-de-choc-sur-m6-quels-sont-les-binomes-au-casting_fr_62c43123e4b065b10ad97dee"
-    },
-    {
-      "text": "Val\u00e9rie Trierweiler, In\u00e8s Reg... Tous les bin\u00f4mes au casting de cette saison de \"P\u00e9kin Express\"",
-      "url": "https://www.huffingtonpost.fr/entry/pekin-express-duos-de-choc-sur-m6-quels-sont-les-binomes-au-casting_fr_62c43123e4b065b10ad97dee"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/plus-belle-la-vie-remplacee-par-france-2024-sur-france-3-en-2023_fr_62c571d7e4b04516845c5302"
-    },
-    {
-      "text": "On sait quelle \u00e9mission remplacera \"Plus belle la vie\" en 2023",
-      "url": "https://www.huffingtonpost.fr/entry/plus-belle-la-vie-remplacee-par-france-2024-sur-france-3-en-2023_fr_62c571d7e4b04516845c5302"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/stranger-things-le-final-de-la-saison-4-met-tout-le-monde-daccord_fr_62bf4b2fe4b014f50a31dcbd"
-    },
-    {
-      "text": "\"Un chef-d'\u0153uvre\" et beaucoup \"de larmes\": le final de la saison 4 de \"Stranger Things\" met tout le monde d'accord",
-      "url": "https://www.huffingtonpost.fr/entry/stranger-things-le-final-de-la-saison-4-met-tout-le-monde-daccord_fr_62bf4b2fe4b014f50a31dcbd"
-    },
-    {
-      "text": "Plus de sujets Divertissement",
-      "url": "https://www.huffingtonpost.fr/divertissement/"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/la-carte-aux-tresors-pourquoi-vous-verrez-moins-les-helico-cette-annee_fr_62c59d71e4b0359fa475bfd6"
-    },
-    {
-      "text": "Pourquoi vous allez moins voir les h\u00e9licopt\u00e8res dans \"La carte aux tr\u00e9sors\" sur France 3",
-      "url": "https://www.huffingtonpost.fr/entry/la-carte-aux-tresors-pourquoi-vous-verrez-moins-les-helico-cette-annee_fr_62c59d71e4b0359fa475bfd6"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/les-cyclistes-en-ville-sont-toujours-plus-nombreux-en-2022_fr_62c5b1cae4b04516845d2622"
-    },
-    {
-      "text": "Le peloton des \"v\u00e9lotaffeurs\" continue de grossir en 2022",
-      "url": "https://www.huffingtonpost.fr/entry/les-cyclistes-en-ville-sont-toujours-plus-nombreux-en-2022_fr_62c5b1cae4b04516845d2622"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/ce-secret-du-gecko-pour-defier-la-gravite-nen-est-plus-un_fr_62c54044e4b02e0ac90d5a2c"
-    },
-    {
-      "text": "On en sait un peu plus sur ce pouvoir extraordinaire du gecko",
-      "url": "https://www.huffingtonpost.fr/entry/ce-secret-du-gecko-pour-defier-la-gravite-nen-est-plus-un_fr_62c54044e4b02e0ac90d5a2c"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/la-carte-postale-peu-ecologique-des-vacances-de-benzema-fait-tiquer_fr_62c48c01e4b0ffe00a17a3d0"
-    },
-    {
-      "text": "La carte postale peu \u00e9cologique des vacances de Benzema fait tiquer",
-      "url": "https://www.huffingtonpost.fr/entry/la-carte-postale-peu-ecologique-des-vacances-de-benzema-fait-tiquer_fr_62c48c01e4b0ffe00a17a3d0"
-    },
-    {
-      "text": "Plus de sujets Environnement",
-      "url": "https://www.huffingtonpost.fr/environnement/"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/pour-la-protection-de-livg-un-millier-de-manifestants-devant-la-maison-blanche_fr_62ca2c73e4b0451684634fee"
-    },
-    {
-      "text": "Plus d'un millier de manifestants devant la Maison Blanche pour la protection de l'IVG",
-      "url": "https://www.huffingtonpost.fr/entry/pour-la-protection-de-livg-un-millier-de-manifestants-devant-la-maison-blanche_fr_62ca2c73e4b0451684634fee"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/malgre-sa-victoire-sur-lavortement-trump-divise-toujours-en-vue-de-2024_fr_62c546eae4b02e0ac90d7293"
-    },
-    {
-      "text": "Apr\u00e8s sa victoire id\u00e9ologique sur l\u2019avortement, Trump peut-il r\u00eaver de la Maison-Blanche?",
-      "url": "https://www.huffingtonpost.fr/entry/malgre-sa-victoire-sur-lavortement-trump-divise-toujours-en-vue-de-2024_fr_62c546eae4b02e0ac90d7293"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/apres-la-demission-de-boris-johnson-la-bataille-de-succession-sengage-chez-les-conservateurs_fr_62c9416be4b0aa392d3f3236"
-    },
-    {
-      "text": "Qui pour remplacer Boris Johnson? Deux de ses ex-ministres sont d\u00e9j\u00e0 candidats",
-      "url": "https://www.huffingtonpost.fr/entry/apres-la-demission-de-boris-johnson-la-bataille-de-succession-sengage-chez-les-conservateurs_fr_62c9416be4b0aa392d3f3236"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/elon-musk-met-fin-accord-de-rachat-de-twitter_fr_62c8a44be4b06e3d9bb543f3"
-    },
-    {
-      "text": "Elon Musk met fin \u00e0 l'accord de rachat de Twitter",
-      "url": "https://www.huffingtonpost.fr/entry/elon-musk-met-fin-accord-de-rachat-de-twitter_fr_62c8a44be4b06e3d9bb543f3"
-    },
-    {
-      "text": "Plus de sujets International",
-      "url": "https://www.huffingtonpost.fr/international/"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/les-cassettes-video-sont-de-plus-en-plus-prisees-par-les-collectionneurs_fr_62c7f5fce4b0aa392d3d6ead"
-    },
-    {
-      "text": "Nos vieilles VHS qui tra\u00eenent \u00e0 la cave valent peut-\u00eatre une petite fortune",
-      "url": "https://www.huffingtonpost.fr/entry/les-cassettes-video-sont-de-plus-en-plus-prisees-par-les-collectionneurs_fr_62c7f5fce4b0aa392d3d6ead"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/a-bercy-alicia-keys-invite-nakamura-sur-scene-pour-une-reprise-de-djadja_fr_62c7914ee4b0d74019816895"
-    },
-    {
-      "text": "Surprise \u00e0 Bercy: Alicia Keys invite Nakamura sur sc\u00e8ne pour une reprise de \"Djadja\"",
-      "url": "https://www.huffingtonpost.fr/entry/a-bercy-alicia-keys-invite-nakamura-sur-scene-pour-une-reprise-de-djadja_fr_62c7914ee4b0d74019816895"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/mort-de-james-caan-lacteur-du-parrain-avait-82-ans_fr_62c71a91e4b0d7401980f0d5"
-    },
-    {
-      "text": "James Caan, qui incarnait Sonny Corleone dans \"Le Parrain\", est mort \u00e0 82 ans",
-      "url": "https://www.huffingtonpost.fr/entry/mort-de-james-caan-lacteur-du-parrain-avait-82-ans_fr_62c71a91e4b0d7401980f0d5"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/micheline-boudet-figure-de-la-comedie-francaise-est-morte_fr_62c6fb26e4b0d7401980adae"
-    },
-    {
-      "text": "Figure de la Com\u00e9die-Fran\u00e7aise, la presque centenaire Micheline Boudet est morte",
-      "url": "https://www.huffingtonpost.fr/entry/micheline-boudet-figure-de-la-comedie-francaise-est-morte_fr_62c6fb26e4b0d7401980adae"
-    },
-    {
-      "text": "Plus de sujets Culture",
-      "url": "https://www.huffingtonpost.fr/culture/"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/variole-du-singe-la-has-recommande-detendre-la-vaccination_fr_62c8249ae4b0aa392d3df5ba"
-    },
-    {
-      "text": "Contre la variole du singe, la France va \u00e9tendre la vaccination aux groupes les plus expos\u00e9s",
-      "url": "https://www.huffingtonpost.fr/entry/variole-du-singe-la-has-recommande-detendre-la-vaccination_fr_62c8249ae4b0aa392d3df5ba"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/le-nom-de-ce-nouveau-dinosaure-plaira-aux-fans-de-game-of-thrones_fr_62c7d8fee4b0359fa479b750"
-    },
-    {
-      "text": "Le nom de ce nouveau dinosaure plaira aux fans de \"Game of Thrones\"",
-      "url": "https://www.huffingtonpost.fr/entry/le-nom-de-ce-nouveau-dinosaure-plaira-aux-fans-de-game-of-thrones_fr_62c7d8fee4b0359fa479b750"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/meteo-france-record-de-coups-de-foudre-lors-des-orages-de-ce-mois-de-juin-2022_fr_62c55071e4b0d740197cf4cc"
-    },
-    {
-      "text": "Record battu de coups de foudre sur un mois de juin",
-      "url": "https://www.huffingtonpost.fr/entry/meteo-france-record-de-coups-de-foudre-lors-des-orages-de-ce-mois-de-juin-2022_fr_62c55071e4b0d740197cf4cc"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/ya-t-il-des-gens-qui-nauront-jamais-le-covid_fr_62bec8ade4b065b10ad3310d"
-    },
-    {
-      "text": "M\u00eame apr\u00e8s 7 vagues, y a-t-il des gens qui n'auront jamais le Covid?",
-      "url": "https://www.huffingtonpost.fr/entry/ya-t-il-des-gens-qui-nauront-jamais-le-covid_fr_62bec8ade4b065b10ad3310d"
-    },
-    {
-      "text": "Plus de sujets Science",
-      "url": "https://www.huffingtonpost.fr/science/"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/le-mega-feu-maitrise-dans-le-nord-du-gard-dautres-incendies-pres-de-nimes-et-beaucaire_fr_62c87fa5e4b0d74019835b5f"
-    },
-    {
-      "text": "Le m\u00e9ga-feu \"ma\u00eetris\u00e9\" dans le nord du Gard, d'autres incendies pr\u00e8s de N\u00eemes et Beaucaire",
-      "url": "https://www.huffingtonpost.fr/entry/le-mega-feu-maitrise-dans-le-nord-du-gard-dautres-incendies-pres-de-nimes-et-beaucaire_fr_62c87fa5e4b0d74019835b5f"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/dans-le-gard-le-feu-de-foret-est-fixe-a-peu-pres-partout_fr_62c84ec2e4b06e3d9bb4d4be"
-    },
-    {
-      "text": "Dans le Gard, le feu de for\u00eat est \"fix\u00e9 \u00e0 peu pr\u00e8s partout\" mais toujours pas ma\u00eetris\u00e9",
-      "url": "https://www.huffingtonpost.fr/entry/dans-le-gard-le-feu-de-foret-est-fixe-a-peu-pres-partout_fr_62c84ec2e4b06e3d9bb4d4be"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/bison-fute-voit-rouge-et-noir-pour-les-departs-en-vacances_fr_62c81b4ae4b0d74019828776"
-    },
-    {
-      "text": "Voici les pr\u00e9visions tr\u00e8s rouges sur les routes pour les d\u00e9parts en vacances",
-      "url": "https://www.huffingtonpost.fr/entry/bison-fute-voit-rouge-et-noir-pour-les-departs-en-vacances_fr_62c81b4ae4b0d74019828776"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/euromillions-mega-jackpot-record-en-jeu_fr_62c80bcce4b02e0ac912f575"
-    },
-    {
-      "text": "Il n'y a jamais eu un aussi gros jackpot en jeu \u00e0 Euromillions",
-      "url": "https://www.huffingtonpost.fr/entry/euromillions-mega-jackpot-record-en-jeu_fr_62c80bcce4b02e0ac912f575"
-    },
-    {
-      "text": "Plus de sujets Actualit\u00e9s",
-      "url": "https://www.huffingtonpost.fr/actualites/"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/en-afghanistan-des-poemes-de-femmes-malgre-les-talibans_fr_62c8012be4b0359fa47a3427"
-    },
-    {
-      "text": "Au p\u00e9ril de leur vie, des po\u00e9tesses afghanes d\u00e9noncent leur manque de libert\u00e9",
-      "url": "https://www.huffingtonpost.fr/entry/en-afghanistan-des-poemes-de-femmes-malgre-les-talibans_fr_62c8012be4b0359fa47a3427"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/lexclusion-des-hommes-trans-de-la-pma-jugee-conforme-par-le-conseil-constitutionnel_fr_62c7e71ce4b0d7401981ef12"
-    },
-    {
-      "text": "L\u2019exclusion des hommes trans de la PMA jug\u00e9e conforme par le Conseil constitutionnel",
-      "url": "https://www.huffingtonpost.fr/entry/lexclusion-des-hommes-trans-de-la-pma-jugee-conforme-par-le-conseil-constitutionnel_fr_62c7e71ce4b0d7401981ef12"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/meme-en-vacances-la-charge-mentale-ne-disparait-pas-pour-les-femmes_fr_62beb6c5e4b014f50a305d5f"
-    },
-    {
-      "text": "M\u00eame en vacances, la charge mentale ne dispara\u00eet pas pour les femmes",
-      "url": "https://www.huffingtonpost.fr/entry/meme-en-vacances-la-charge-mentale-ne-disparait-pas-pour-les-femmes_fr_62beb6c5e4b014f50a305d5f"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffingtonpost.fr/entry/emma-corrin-the-crown-souvre-sur-sa-non-binarite_fr_62c6c85ae4b06e3d9bb1c812"
-    },
-    {
-      "text": "Cette star de premier plan dans \u201cThe Crown\u201d s\u2019ouvre sur sa non-binarit\u00e9",
-      "url": "https://www.huffingtonpost.fr/entry/emma-corrin-the-crown-souvre-sur-sa-non-binarite_fr_62c6c85ae4b06e3d9bb1c812"
-    },
-    {
-      "text": "Plus de sujets LIFE",
-      "url": "https://www.huffingtonpost.fr/life/"
-    },
-    {
-      "text": "Voici comment.",
-      "url": "/static/nous-contacter"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "Politique",
-      "url": "/politique/"
-    },
-    {
-      "text": "International",
-      "url": "/international/"
-    },
-    {
-      "text": "CORONAVIRUS",
-      "url": "/feature/coronavirus/"
-    },
-    {
-      "text": "ENVIRONNEMENT",
-      "url": "/environnement/"
-    },
-    {
-      "text": "Life",
-      "url": "/life/"
-    },
-    {
-      "text": "Culture",
-      "url": "/culture/"
-    },
-    {
-      "text": "M\u00c9DIAS",
-      "url": "/medias/"
-    },
-    {
-      "text": "VID\u00c9OS",
-      "url": "/video/"
-    },
-    {
-      "text": "Votre publicit\u00e9",
-      "url": "https://www.mpublicite.fr/"
-    },
-    {
-      "text": "Mentions l\u00e9gales",
-      "url": "/static/mentions-legales"
-    },
-    {
-      "text": "Cookies",
-      "url": "#"
-    },
-    {
-      "text": "Conditions d'utilisation (Actualis\u00e9e)",
-      "url": "/static/conditions-generales"
-    },
-    {
-      "text": "RSS",
-      "url": "/rss/index.xml"
-    },
-    {
-      "text": "Confidentialit\u00e9 (Actualis\u00e9e)",
-      "url": "/static/charte-de-confidentialite"
-    },
-    {
-      "text": "\u00c0 propos de nous",
-      "url": "/static/a-propos-de-nous"
-    },
-    {
-      "text": "Nous contacter",
-      "url": "/static/nous-contacter"
-    },
-    {
-      "text": "consulter notre politique de confidentialit\u00e9",
-      "url": "/static/charte-de-confidentialite"
-    },
-    {
-      "text": "CGV",
-      "url": "/static/conditions-generales-de-vente"
-    },
-    {
-      "text": "Se connecter",
-      "url": "#"
-    },
-    {
-      "text": "Conditions G\u00e9n\u00e9rales de Vente",
-      "url": "https://www.huffingtonpost.fr/static/conditions-generales-de-vente"
-    },
-    {
-      "text": "Politique de protection des donn\u00e9es personnelles",
-      "url": "https://www.huffingtonpost.fr/static/charte-de-confidentialite"
-    }
-  ],
+  "files_count": 671,
+  "item_last_updated": 1657613999,
+  "item_size": 59128680,
   "metadata": {
     "identifier": "lehuffpost-2022",
     "collection": [
@@ -8180,7 +7066,7 @@
     "addeddate": "2022-04-09 13:43:32"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 303982659,
+  "uniq": 1292848994,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

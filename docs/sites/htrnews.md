@@ -17,7 +17,7 @@ orphan: true
 | Location       | Manitowoc                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 155 screenshots stored at the Internet Archive.
+The archiving routine has captured 159 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

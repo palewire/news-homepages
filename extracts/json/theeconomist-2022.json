@@ -1,5 +1,5 @@
 {
-  "created": 1657455531,
+  "created": 1657596453,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/32/items/theeconomist-2022",
@@ -520,31 +520,199 @@
       "sha1": "47bf450d04118bf22ebc514e2a3f024a423ff6cf"
     },
     {
+      "name": "theeconomist-2022-07-10T15:45:48.346014+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464351",
+      "size": "20885",
+      "md5": "d3eb4ec2582c6fd7ac2bd0a458b13a59",
+      "crc32": "25cf1820",
+      "sha1": "abf0a05a18df06f116fe38104db484f65d832ae3",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-07-10T15:45:48.346014+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464353",
+      "size": "20672",
+      "md5": "37163591902d251e40ee02a6b6fc2cec",
+      "crc32": "4b11377b",
+      "sha1": "31a86d246902528030a1a137304b6b137a1cfefc",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-07-10T15:45:48.346014+01:00.jpg",
+      "source": "original",
+      "mtime": "1657464350",
+      "size": "311187",
+      "md5": "668a733a8cbfc5908ccf6f4506c5fdc1",
+      "crc32": "c2e355b9",
+      "sha1": "f70141e13300123b5149aff086f0e3871375a083",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theeconomist-2022-07-10T15:45:48.346014+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeconomist-2022-07-10T15:45:48.346014+01:00.jpg",
+      "mtime": "1657464398",
+      "size": "9536",
+      "md5": "237c524d4f1dbcd0e10e81b701ccfb52",
+      "crc32": "5eaaf2cf",
+      "sha1": "5202ce9716f3bd1988deed83bc9bd5ec0efe4514"
+    },
+    {
+      "name": "theeconomist-2022-07-11T04:23:56.335301+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657509840",
+      "size": "20823",
+      "md5": "2a542148aa29b0b94389e97154b3d332",
+      "crc32": "216a2a24",
+      "sha1": "2efd61d1c6bba5410734de437abadcae6d8fb560",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-07-11T04:23:56.335301+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657509842",
+      "size": "20741",
+      "md5": "368b07a92c1a34ffaf930e8a00e2511e",
+      "crc32": "4b78da1b",
+      "sha1": "858ab1b2503358d5f1b8469257b183464bcf00b9",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-07-11T04:23:56.335301+01:00.jpg",
+      "source": "original",
+      "mtime": "1657509839",
+      "size": "267430",
+      "md5": "a423ecca0bf154d1fb73a0673d4e2ae0",
+      "crc32": "4448be1b",
+      "sha1": "12ae9ae58ac927767af5bacc69c7ac5e8932bb62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theeconomist-2022-07-11T04:23:56.335301+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeconomist-2022-07-11T04:23:56.335301+01:00.jpg",
+      "mtime": "1657509886",
+      "size": "9419",
+      "md5": "1fea69b30f8984e9bb1bf0418b722ebb",
+      "crc32": "eb0979ef",
+      "sha1": "047e8c00383ed9b527c3c7956621117f701b21a1"
+    },
+    {
+      "name": "theeconomist-2022-07-11T19:20:24.897569+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563631",
+      "size": "21142",
+      "md5": "9ace4a0318c96213a5be238872e02cb3",
+      "crc32": "64451305",
+      "sha1": "9fe02c41496464d8fa086a0b3b8177f481e20c3b",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-07-11T19:20:24.897569+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563635",
+      "size": "21224",
+      "md5": "e05208f4001b47752304a92f8285bbcc",
+      "crc32": "bb4f95f3",
+      "sha1": "8daced5d52fe129efccb3c845e4288be2ef01dbc",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-07-11T19:20:24.897569+01:00.jpg",
+      "source": "original",
+      "mtime": "1657563627",
+      "size": "296709",
+      "md5": "c535f55e2526839377ed759dc9a5764d",
+      "crc32": "75b6a70d",
+      "sha1": "673ac7bba587cc9199b94b1425b55be5af317941",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theeconomist-2022-07-11T19:20:24.897569+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeconomist-2022-07-11T19:20:24.897569+01:00.jpg",
+      "mtime": "1657564048",
+      "size": "9416",
+      "md5": "2d373e5daacd12ad7de987de189ed2e5",
+      "crc32": "f088b95c",
+      "sha1": "2a8f1d6549ef57e926829d2bc4d343d4b661e977"
+    },
+    {
+      "name": "theeconomist-2022-07-12T04:26:38.491124+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657596402",
+      "size": "21117",
+      "md5": "fee12bc69c9dfa1e4bec388a48b19818",
+      "crc32": "7663de70",
+      "sha1": "5bb0b5a03a2ab872a133d4c28ed7ec001e944a3b",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-07-12T04:26:38.491124+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657596405",
+      "size": "21447",
+      "md5": "4bc9773ed7b6ede49c0ac5419bc2b299",
+      "crc32": "3ad5f1e6",
+      "sha1": "4d806f964c7296917f14b467ed488f6381c12681",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-07-12T04:26:38.491124+01:00.jpg",
+      "source": "original",
+      "mtime": "1657596401",
+      "size": "323276",
+      "md5": "7944b1ae621d2dfe058875c49d557244",
+      "crc32": "2b750416",
+      "sha1": "8fac2fe11a321000825f8e64ef2a09b4d0984ab9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theeconomist-2022-07-12T04:26:38.491124+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeconomist-2022-07-12T04:26:38.491124+01:00.jpg",
+      "mtime": "1657596447",
+      "size": "10073",
+      "md5": "d48038701e26f649fd8007ec3b5f909b",
+      "crc32": "6f5ae002",
+      "sha1": "303ad96ec3623931e28833af6e5f858cc3e562ad"
+    },
+    {
       "name": "theeconomist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "65a330b606c6656a52d126bc7bc00421a170f5af",
-      "mtime": "1657423566",
-      "size": "11903",
-      "md5": "f95f48cb29bf35fc660581ec71f4b792",
-      "crc32": "7b309ef7",
-      "sha1": "75ba340af12f7f186f755d3a4db4ecc7cbee9b02",
+      "btih": "9fe54723d13e571c877b26f01900042b1ace7657",
+      "mtime": "1657596450",
+      "size": "15344",
+      "md5": "f1f4ec0b956694a9555d596fd5c46ae9",
+      "crc32": "01055470",
+      "sha1": "aad5895afed53ff792cb8528886c286ac97decff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theeconomist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "abaa47bab7262fec487015ad315fdd67",
+      "md5": "db00c0559bc9fa2c34ecf75f54ca6ca6",
       "summation": "md5"
     },
     {
       "name": "theeconomist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423521",
-      "size": "69632",
-      "md5": "0c1599ad01534b96a426be74e89a1673",
-      "crc32": "aca2e022",
-      "sha1": "079977e6caaf97e992a90cb9b95de7bef3664919",
+      "mtime": "1657596407",
+      "size": "86016",
+      "md5": "e2ab21c81d522b47b1fe679d708b7ea2",
+      "crc32": "fe4eadf3",
+      "sha1": "b5c70fe742a8095733c0fbb30c51a0ed0e303353",
       "format": "Metadata"
     },
     {
@@ -558,9 +726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 53,
-  "item_last_updated": 1657423566,
-  "item_size": 2814823,
+  "files_count": 69,
+  "item_last_updated": 1657596450,
+  "item_size": 4239745,
   "metadata": {
     "identifier": "theeconomist-2022",
     "collection": [
@@ -578,733 +746,7 @@
     "addeddate": "2022-07-04 21:46:07"
   },
   "server": "ia802505.us.archive.org",
-  "theeconomist-2022": [
-    {
-      "text": "The EconomistThe Economist",
-      "url": "/"
-    },
-    {
-      "text": "Skip to content",
-      "url": "#content"
-    },
-    {
-      "text": "Menu",
-      "url": "#"
-    },
-    {
-      "text": "Weekly edition",
-      "url": "/weeklyedition"
-    },
-    {
-      "text": "Search",
-      "url": "#"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://www.economist.com/api/auth/subscribe?path=%2FDE%2FECOM-Home%2FHoliday20%2FMasthead"
-    },
-    {
-      "text": "Log in",
-      "url": "/api/auth/login"
-    },
-    {
-      "text": "Summer reads",
-      "url": "/summer-reads-2022"
-    },
-    {
-      "text": "War in Ukraine",
-      "url": "/ukraine-crisis"
-    },
-    {
-      "text": "The Biden presidency",
-      "url": "/president-joe-biden"
-    },
-    {
-      "text": "Climate change",
-      "url": "/climate-change"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "/coronavirus-pandemic"
-    },
-    {
-      "text": "1843 magazine",
-      "url": "/1843"
-    },
-    {
-      "text": "The world in brief",
-      "url": "/the-world-in-brief"
-    },
-    {
-      "text": "The world this week",
-      "url": "/the-world-this-week"
-    },
-    {
-      "text": "Leaders",
-      "url": "/leaders"
-    },
-    {
-      "text": "Letters",
-      "url": "/letters"
-    },
-    {
-      "text": "Briefing",
-      "url": "/briefing"
-    },
-    {
-      "text": "United States",
-      "url": "/united-states"
-    },
-    {
-      "text": "The Americas",
-      "url": "/the-americas"
-    },
-    {
-      "text": "Asia",
-      "url": "/asia"
-    },
-    {
-      "text": "China",
-      "url": "/china"
-    },
-    {
-      "text": "Middle East & Africa",
-      "url": "/middle-east-and-africa"
-    },
-    {
-      "text": "Europe",
-      "url": "/europe"
-    },
-    {
-      "text": "Britain",
-      "url": "/britain"
-    },
-    {
-      "text": "International",
-      "url": "/international"
-    },
-    {
-      "text": "Business",
-      "url": "/business"
-    },
-    {
-      "text": "Finance & economics",
-      "url": "/finance-and-economics"
-    },
-    {
-      "text": "Science & technology",
-      "url": "/science-and-technology"
-    },
-    {
-      "text": "Culture",
-      "url": "/culture"
-    },
-    {
-      "text": "Graphic detail",
-      "url": "/graphic-detail"
-    },
-    {
-      "text": "Obituary",
-      "url": "/obituary"
-    },
-    {
-      "text": "Special reports",
-      "url": "/special-reports"
-    },
-    {
-      "text": "Technology Quarterly",
-      "url": "/technology-quarterly"
-    },
-    {
-      "text": "Essay",
-      "url": "/essay"
-    },
-    {
-      "text": "By Invitation",
-      "url": "/by-invitation"
-    },
-    {
-      "text": "Schools brief",
-      "url": "/schools-brief"
-    },
-    {
-      "text": "The World Ahead 2022",
-      "url": "/the-world-ahead-2022"
-    },
-    {
-      "text": "What If?",
-      "url": "/what-if-2021"
-    },
-    {
-      "text": "Open Future",
-      "url": "/open-future"
-    },
-    {
-      "text": "The Economist Explains",
-      "url": "/the-economist-explains"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/newsletters"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts"
-    },
-    {
-      "text": "Films",
-      "url": "/films"
-    },
-    {
-      "text": "Subscriber events",
-      "url": "https://subscriberevents.economist.com"
-    },
-    {
-      "text": "iOS app",
-      "url": "https://apps.apple.com/us/app/the-economist/id1239397626?mt=8"
-    },
-    {
-      "text": "Android app",
-      "url": "https://play.google.com/store/apps/details?id=com.economist.lamarr&hl=en_GB"
-    },
-    {
-      "text": "Online courses",
-      "url": "/executiveeducation/home"
-    },
-    {
-      "text": "My Economist",
-      "url": "/api/my-account"
-    },
-    {
-      "text": "Saved stories",
-      "url": "/saved-stories"
-    },
-    {
-      "text": "Log out",
-      "url": "/api/auth/logout"
-    },
-    {
-      "text": "Saved stories",
-      "url": "/saved-stories"
-    },
-    {
-      "text": "Account",
-      "url": "/api/my-account"
-    },
-    {
-      "text": "Log out",
-      "url": "/api/auth/logout"
-    },
-    {
-      "text": "Summer reads",
-      "url": "/summer-reads-2022"
-    },
-    {
-      "text": "Ukraine at war",
-      "url": "/ukraine-crisis"
-    },
-    {
-      "text": "Checks and Balance",
-      "url": "/podcasts/2022/07/08/how-will-the-democrats-weather-the-next-recession"
-    },
-    {
-      "text": "Sri Lanka\u2019s president resigns in the face of massive protests",
-      "url": "/asia/2022/07/09/sri-lankas-president-resigns-in-the-face-of-massive-protests"
-    },
-    {
-      "text": "As TikTok grows, so does suspicion",
-      "url": "/interactive/briefing/2022/07/09/the-all-conquering-quaver"
-    },
-    {
-      "text": "Why leveraged buy-outs are in trouble",
-      "url": "/leaders/2022/07/07/why-leveraged-buy-outs-are-in-trouble"
-    },
-    {
-      "text": "Continue reading",
-      "url": "/the-world-in-brief"
-    },
-    {
-      "text": "\u201cI\u2019m from the Taliban and I\u2019m here to help\u201d",
-      "url": "/asia/2022/07/07/im-from-the-taliban-and-im-here-to-help"
-    },
-    {
-      "text": "Charlemagne: Travel chaos in Europe is a glimpse of a future with few spare workers",
-      "url": "/europe/2022/07/07/travel-chaos-in-europe-is-a-glimpse-of-a-future-with-few-spare-workers"
-    },
-    {
-      "text": "Covid-19 vaccines saved an estimated 20m lives during their first year",
-      "url": "/graphic-detail/2022/07/07/covid-19-vaccines-saved-an-estimated-20m-lives-during-their-first-year"
-    },
-    {
-      "text": "To hook American diners, an invasive species of carp gets a new name",
-      "url": "/united-states/2022/07/07/to-hook-american-diners-an-invasive-species-of-carp-gets-a-new-name"
-    },
-    {
-      "text": "Summer reads",
-      "url": "/summer-reads-2022"
-    },
-    {
-      "text": "Ukraine at war",
-      "url": "/ukraine-crisis"
-    },
-    {
-      "text": "Checks and Balance",
-      "url": "/podcasts/2022/07/08/how-will-the-democrats-weather-the-next-recession"
-    },
-    {
-      "text": "A legendary collection of classical statuary is at last on view",
-      "url": "/culture/2022/07/07/a-legendary-collection-of-classical-statuary-is-at-last-on-view"
-    },
-    {
-      "text": "Euro 2022 gives women\u2019s football a chance to shine",
-      "url": "/culture/2022/07/08/euro-2022-gives-womens-football-a-chance-to-shine"
-    },
-    {
-      "text": "Beach reads for business folk",
-      "url": "/business/2022/06/30/beach-reads-for-business-folk"
-    },
-    {
-      "text": "Discover more",
-      "url": "/summer-reads-2022"
-    },
-    {
-      "text": "A monstrous in-tray awaits Boris Johnson\u2019s eventual successor",
-      "url": "/britain/2022/07/06/a-monstrous-in-tray-awaits-boris-johnsons-eventual-successor"
-    },
-    {
-      "text": "The tragedy of Boris Johnson",
-      "url": "/britain/2022/07/07/the-tragedy-of-boris-johnson"
-    },
-    {
-      "text": "Many British Conservatives now prefer tax cuts to balanced budgets",
-      "url": "/britain/2022/07/07/many-british-conservatives-now-prefer-tax-cuts-to-balanced-budgets"
-    },
-    {
-      "text": "Explainer: How does Britain\u2019s Conservative Party choose a new leader?",
-      "url": "/the-economist-explains/2022/07/07/how-does-britains-conservative-party-choose-a-new-leader"
-    },
-    {
-      "text": "",
-      "url": "/weeklyedition/2022-07-09"
-    },
-    {
-      "text": "Clownfall: Britain after Boris",
-      "url": "/weeklyedition/2022-07-09"
-    },
-    {
-      "text": "Clownfall: Britain after Boris",
-      "url": "/leaders/2022/07/07/boris-johnson-should-go-immediately"
-    },
-    {
-      "text": "Who\u2019s afraid of TikTok?",
-      "url": "/leaders/2022/07/07/whos-afraid-of-tiktok"
-    },
-    {
-      "text": "Chile\u2019s terrible constitution",
-      "url": "/leaders/2022/07/06/voters-should-reject-chiles-new-draft-constitution"
-    },
-    {
-      "text": "The new physics",
-      "url": "/science-and-technology/2022/07/04/ten-years-on-from-the-higgs-boson-what-is-next-for-physics"
-    },
-    {
-      "text": "Read full edition",
-      "url": "/weeklyedition/2022-07-09"
-    },
-    {
-      "text": "Boris Johnson should go immediately",
-      "url": "/leaders/2022/07/07/clownfall?itm_source=parsely-api"
-    },
-    {
-      "text": "The world in brief",
-      "url": "/the-world-in-brief?itm_source=parsely-api"
-    },
-    {
-      "text": "The toxicity of Boris Johnson",
-      "url": "/britain/2022/07/06/the-toxicity-of-boris-johnson?itm_source=parsely-api"
-    },
-    {
-      "text": "America\u2019s new exceptionalism",
-      "url": "/leaders/2022/07/07/americas-new-exceptionalism?itm_source=parsely-api"
-    },
-    {
-      "text": "High noon for Liz Cheney",
-      "url": "/united-states/2022/07/06/high-noon-for-liz-cheney?itm_source=parsely-api"
-    },
-    {
-      "text": "What a tycoon\u2019s trial says about the rot in China\u2019s financial system",
-      "url": "/finance-and-economics/2022/07/07/what-a-tycoons-trial-says-about-the-rot-in-chinas-financial-system"
-    },
-    {
-      "text": "What to read to understand the burning of the American West",
-      "url": "/economist-reads/2022/07/08/what-to-read-to-understand-the-burning-of-the-american-west"
-    },
-    {
-      "text": "What to read to understand the history of Western capitalism",
-      "url": "/economist-reads/2022/07/04/what-to-read-to-understand-the-history-of-western-capitalism"
-    },
-    {
-      "text": "Our obituaries editor picks the five best biographies ever written",
-      "url": "/economist-reads/2022/06/07/our-obituaries-editor-picks-the-five-best-biographies-ever-written"
-    },
-    {
-      "text": "Our Rome correspondent on the six books that serve as the best guide to Italy",
-      "url": "/economist-reads/2022/06/27/our-rome-correspondent-on-the-six-books-that-serve-as-the-best-guide-to-italy"
-    },
-    {
-      "text": "",
-      "url": "/technology-quarterly/2022-06-25"
-    },
-    {
-      "text": "Climate technology",
-      "url": "/technology-quarterly/2022-06-25"
-    },
-    {
-      "text": "Electrifying everything does not solve the climate crisis, but it is a great start",
-      "url": "/technology-quarterly/2022/06/23/electrifying-everything-does-not-solve-the-climate-crisis-but-it-is-a-great-start"
-    },
-    {
-      "text": "Getting the most out of tomorrow\u2019s grid requires digitisation and demand response",
-      "url": "/technology-quarterly/2022/06/23/getting-the-most-out-of-tomorrows-grid-requires-digitisation-and-demand-response"
-    },
-    {
-      "text": "Decarbonisation of electric grids reliant on renewables requires long-duration energy storage",
-      "url": "/technology-quarterly/2022/06/23/decarbonisation-of-electric-grids-reliant-on-renewables-requires-long-duration-energy-storage"
-    },
-    {
-      "text": "New technology can help monitor, manage and minimise methane leaks",
-      "url": "/technology-quarterly/2022/06/23/new-technology-can-help-monitor-manage-and-minimise-methane-leaks"
-    },
-    {
-      "text": "Making natural gas emissions-free will be a challenge",
-      "url": "/technology-quarterly/2022/06/23/making-natural-gas-emissions-free-will-be-a-challenge"
-    },
-    {
-      "text": "Green gases can help in the shift from fossil fuels to electricity",
-      "url": "/technology-quarterly/2022/06/23/green-gases-can-help-in-the-shift-from-fossil-fuels-to-electricity"
-    },
-    {
-      "text": "Acknowledgments",
-      "url": "/technology-quarterly/2022/06/24/acknowledgments"
-    },
-    {
-      "text": "Read full report",
-      "url": "/technology-quarterly/2022-06-25"
-    },
-    {
-      "text": "The Economist explains",
-      "url": "https://www.economist.com/the-economist-explains/"
-    },
-    {
-      "text": "What is India\u2019s anti-defection law?",
-      "url": "/the-economist-explains/2022/07/08/what-is-indias-anti-defection-law"
-    },
-    {
-      "text": "How does Britain\u2019s Conservative Party choose a new leader?",
-      "url": "/the-economist-explains/2022/07/07/how-does-britains-conservative-party-choose-a-new-leader"
-    },
-    {
-      "text": "Why are cluster munitions so dangerous?",
-      "url": "/the-economist-explains/2022/07/07/why-are-cluster-munitions-so-dangerous"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.economist.com/podcasts/"
-    },
-    {
-      "text": "How will the Democrats weather the next recession?",
-      "url": "/podcasts/2022/07/08/how-will-the-democrats-weather-the-next-recession"
-    },
-    {
-      "text": "\u201cThis is shocking, and really, for many, unfathomable\u201d\u2014the murder of Abe Shinzo",
-      "url": "/podcasts/2022/07/08/this-is-shocking-and-really-for-many-unfathomable-the-murder-of-abe-shinzo"
-    },
-    {
-      "text": "What lies ahead for Britain after Boris Johnson?",
-      "url": "/podcasts/2022/07/07/what-lies-ahead-for-britain-after-boris-johnson"
-    },
-    {
-      "text": "1843 magazine",
-      "url": "https://www.economist.com/1843"
-    },
-    {
-      "text": "\u201cThey are there but you\u2019ll never see their faces\u201d: The secret heroes of Shanghai\u2019s lockdown",
-      "url": "/1843/2022/07/05/they-are-there-but-youll-never-see-their-faces-the-secret-heroes-of-shanghais-lockdown"
-    },
-    {
-      "text": "Roe v Wade: \u201cWhat if I have a child here, and it\u2019s a girl?\u201d",
-      "url": "/1843/2022/06/29/roe-v-wade-what-if-i-have-a-child-here-and-its-a-girl"
-    },
-    {
-      "text": "I was a war reporter in Ethiopia. Then I became the enemy",
-      "url": "/1843/2022/06/24/i-was-a-war-reporter-in-ethiopia-then-i-became-the-enemy"
-    },
-    {
-      "text": "By Invitation",
-      "url": "https://www.economist.com/by-invitation/"
-    },
-    {
-      "text": "The global economy needs to be better prepared for the coming storm, says Kathryn Judge",
-      "url": "/by-invitation/2022/07/07/the-global-economy-needs-to-be-better-prepared-for-the-coming-storm-says-kathryn-judge"
-    },
-    {
-      "text": "Brad DeLong asks what America can learn from its past bouts of inflation",
-      "url": "/by-invitation/2022/07/05/brad-delong-asks-what-america-can-learn-from-its-past-bouts-of-inflation"
-    },
-    {
-      "text": "Boris Bondarev on Vladimir Putin\u2019s craven diplomats",
-      "url": "/by-invitation/2022/07/02/boris-bondarev-on-vladimir-putins-craven-diplomats"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "https://www.economist.com/coronavirus-pandemic"
-    },
-    {
-      "text": "The pandemic is boosting sellers of traditional medicine",
-      "url": "/business/2022/06/30/the-pandemic-is-boosting-sellers-of-traditional-medicine"
-    },
-    {
-      "text": "In stamping out covid, China has stomped on confidence",
-      "url": "/finance-and-economics/2022/06/16/in-stamping-out-covid-china-has-stomped-on-confidence"
-    },
-    {
-      "text": "Air travel is taking flight again",
-      "url": "/business/2022/06/09/air-travel-is-taking-flight-again"
-    },
-    {
-      "text": "Films",
-      "url": "https://www.economist.com/films/"
-    },
-    {
-      "text": "Britain after Boris",
-      "url": "/films/2022/07/07/britain-after-boris"
-    },
-    {
-      "text": "The rise of climate technology",
-      "url": "/films/2022/07/01/the-rise-of-climate-technology"
-    },
-    {
-      "text": "How China crushed Hong Kong",
-      "url": "/films/2022/06/30/how-china-crushed-hong-kong"
-    },
-    {
-      "text": "Climate change",
-      "url": "https://www.economist.com/climate-change"
-    },
-    {
-      "text": "Fewer people are dying in floods in China",
-      "url": "/china/2022/07/07/fewer-people-are-dying-in-floods-in-china"
-    },
-    {
-      "text": "How the world depends on small cobalt miners",
-      "url": "/middle-east-and-africa/2022/07/05/how-the-world-depends-on-small-cobalt-miners"
-    },
-    {
-      "text": "A new web of Arab railways could transform the Middle East",
-      "url": "/middle-east-and-africa/2022/07/07/a-new-web-of-arab-railways-could-transform-the-middle-east"
-    },
-    {
-      "text": "Culture",
-      "url": "https://www.economist.com/culture/"
-    },
-    {
-      "text": "Euro 2022 gives women\u2019s football a chance to shine",
-      "url": "/culture/2022/07/08/euro-2022-gives-womens-football-a-chance-to-shine"
-    },
-    {
-      "text": "A legendary collection of classical statuary is at last on view",
-      "url": "/culture/2022/07/07/a-legendary-collection-of-classical-statuary-is-at-last-on-view"
-    },
-    {
-      "text": "A Chinese-flavoured challah tells a timeless human story",
-      "url": "/culture/2022/07/07/a-chinese-flavoured-challah-tells-a-timeless-human-story"
-    },
-    {
-      "text": "World economy",
-      "url": "https://www.economist.com/finance-and-economics/"
-    },
-    {
-      "text": "What a tycoon\u2019s trial says about the rot in China\u2019s financial system",
-      "url": "/finance-and-economics/2022/07/07/what-a-tycoons-trial-says-about-the-rot-in-chinas-financial-system"
-    },
-    {
-      "text": "Are central banks in emerging markets now less of a slave to the Fed?",
-      "url": "/finance-and-economics/2022/07/07/are-central-banks-in-emerging-markets-now-less-of-a-slave-to-the-fed"
-    },
-    {
-      "text": "Do cheaper commodities herald a recession?",
-      "url": "/finance-and-economics/2022/07/07/do-cheaper-commodities-herald-a-recession"
-    },
-    {
-      "text": "Obituary",
-      "url": "https://www.economist.com/obituary/"
-    },
-    {
-      "text": "Peter Brook saw acting as an uncompromising search for truth",
-      "url": "/obituary/2022/07/07/peter-brook-saw-acting-as-an-uncompromising-search-for-truth"
-    },
-    {
-      "text": "Gilberto Rodr\u00edguez Orejuela once ran 80% of the world cocaine market",
-      "url": "/obituary/2022/06/30/gilberto-rodriguez-orejuela-once-ran-80-of-the-world-cocaine-market"
-    },
-    {
-      "text": "Roman Ratushny believed in a better, purer Ukraine",
-      "url": "/obituary/2022/06/22/roman-ratushny-believed-in-a-better-purer-ukraine"
-    },
-    {
-      "text": "Graphic detail",
-      "url": "https://www.economist.com/graphic-detail/"
-    },
-    {
-      "text": "Tennis is becoming a more homogeneous game",
-      "url": "/graphic-detail/2022/07/08/tennis-is-becoming-a-more-homogeneous-game"
-    },
-    {
-      "text": "Has TikTok burst the Zuckerbubble?",
-      "url": "/graphic-detail/2022/07/07/has-tiktok-burst-the-zuckerbubble"
-    },
-    {
-      "text": "Covid-19 vaccines saved an estimated 20m lives during their first year",
-      "url": "/graphic-detail/2022/07/07/covid-19-vaccines-saved-an-estimated-20m-lives-during-their-first-year"
-    },
-    {
-      "text": "China",
-      "url": "https://www.economist.com/china/"
-    },
-    {
-      "text": "A huge data leak in China was not unexpected",
-      "url": "/china/2022/07/07/a-huge-data-leak-in-china-was-not-unexpected"
-    },
-    {
-      "text": "Fewer people are dying in floods in China",
-      "url": "/china/2022/07/07/fewer-people-are-dying-in-floods-in-china"
-    },
-    {
-      "text": "China\u2019s Communist Party cracks down on larping",
-      "url": "/china/2022/07/07/chinas-communist-party-cracks-down-on-larping"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://www.economist.com/api/auth/subscribe?path=%2FDE%2FECOM-Home%2FHoliday20%2FFooter"
-    },
-    {
-      "text": "Group subscriptions",
-      "url": "https://www.economist.com/group-subscriptions/"
-    },
-    {
-      "text": "Reuse our content",
-      "url": "https://rights.economist.com/"
-    },
-    {
-      "text": "The Trust Project",
-      "url": "https://www.economist.com/frequently-asked-questions"
-    },
-    {
-      "text": "Help and contact us",
-      "url": "https://myaccount.economist.com/s/help"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/theeconomist"
-    },
-    {
-      "text": "Instagram",
-      "url": "https://www.instagram.com/theeconomist"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://www.twitter.com/theeconomist"
-    },
-    {
-      "text": "LinkedIn",
-      "url": "https://www.linkedin.com/company/the-economist"
-    },
-    {
-      "text": "YouTube",
-      "url": "https://www.youtube.com/user/economistmagazine"
-    },
-    {
-      "text": "RSS",
-      "url": "https://www.economist.com/rss"
-    },
-    {
-      "text": "About",
-      "url": "https://www.economistgroup.com/about-us"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://impact.economist.com/"
-    },
-    {
-      "text": "Press centre",
-      "url": "https://www.economistgroup.com/group-news"
-    },
-    {
-      "text": "The Economist Group",
-      "url": "https://www.economistgroup.com/"
-    },
-    {
-      "text": "Economist Intelligence",
-      "url": "https://www.eiu.com/n/"
-    },
-    {
-      "text": "Economist Impact",
-      "url": "https://impact.economist.com/"
-    },
-    {
-      "text": "Economist Events",
-      "url": "https://events.economist.com/?RefID=e.com-home&utm_source=e.com&utm_medium=website&utm_campaign=group-aff&utm_content=footer-link"
-    },
-    {
-      "text": "Working Here",
-      "url": "https://www.economistgroup.com/careers"
-    },
-    {
-      "text": "Economist Education Courses",
-      "url": "https://www.economist.com/executiveeducation/home"
-    },
-    {
-      "text": "Which MBA?",
-      "url": "https://whichmba.economist.com/"
-    },
-    {
-      "text": "Executive Jobs",
-      "url": "https://jobs.economist.com/"
-    },
-    {
-      "text": "Executive Education Navigator",
-      "url": "https://execed.economist.com"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://www.economistgroup.com/terms-of-use"
-    },
-    {
-      "text": "Privacy",
-      "url": "https://www.economistgroup.com/privacy-policy"
-    },
-    {
-      "text": "Cookie Policy",
-      "url": "https://www.economistgroup.com/cookies-policy"
-    },
-    {
-      "text": "Manage Cookies",
-      "url": "#"
-    },
-    {
-      "text": "Accessibility",
-      "url": "https://www.economistgroup.com/accessibility-policy"
-    },
-    {
-      "text": "Modern Slavery Statement",
-      "url": "https://www.economistgroup.com/esg/modern-slavery-act-statement"
-    },
-    {
-      "text": "Do Not Sell My Personal Information",
-      "url": "https://www.economist.com/privacyportal"
-    }
-  ],
-  "uniq": 1496512875,
+  "uniq": 2037046179,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

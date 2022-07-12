@@ -1,5 +1,5 @@
 {
-  "created": 1657423514,
+  "created": 1657628611,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/3/items/suntimes-2022",
@@ -2230,31 +2230,283 @@
       "sha1": "bd33005e6300abd729cbd7f0bbaeef540f6b354b"
     },
     {
+      "name": "suntimes-2022-07-10T09:45:16.336679-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464321",
+      "size": "37595",
+      "md5": "8cb0276f5c4aead4a7460e6bb15cb13c",
+      "crc32": "e9ad2906",
+      "sha1": "c164177ac5d4803fb70613e44c15706a8151251a",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-10T09:45:16.336679-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464323",
+      "size": "57490",
+      "md5": "9adb684600058521954c0684ebb54d4a",
+      "crc32": "5b707905",
+      "sha1": "59b0b0c2ff78a34f115ed775f53bed455e70c2f1",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-10T09:45:16.336679-05:00.jpg",
+      "source": "original",
+      "mtime": "1657464319",
+      "size": "242832",
+      "md5": "f218286173c578ebc32514efb91a4e63",
+      "crc32": "73a9d1dd",
+      "sha1": "021c45d02eb8a7b9154291e0992377d682bbbc4c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-07-10T09:45:16.336679-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-07-10T09:45:16.336679-05:00.jpg",
+      "mtime": "1657464369",
+      "size": "9521",
+      "md5": "f303013f574cda43ede2426f6a73ef06",
+      "crc32": "2a7dc1c0",
+      "sha1": "a0200a124e4264123463fa7996a90e4b2c947843"
+    },
+    {
+      "name": "suntimes-2022-07-10T10:48:34.043948-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657468119",
+      "size": "37402",
+      "md5": "0557146002b512a231071ddf6d3340de",
+      "crc32": "9e8f8525",
+      "sha1": "d1cfcbc6d80a08e030ff32e2f12b678ef34c6cf3",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-10T10:48:34.043948-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657468122",
+      "size": "57534",
+      "md5": "bd1d44fd37a852c18c20451f0fed958c",
+      "crc32": "e08eac94",
+      "sha1": "ec2f2578b487a3570d08e8ab748e49bfa41ef04a",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-10T10:48:34.043948-05:00.jpg",
+      "source": "original",
+      "mtime": "1657468117",
+      "size": "242832",
+      "md5": "f218286173c578ebc32514efb91a4e63",
+      "crc32": "73a9d1dd",
+      "sha1": "021c45d02eb8a7b9154291e0992377d682bbbc4c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-07-10T10:48:34.043948-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-07-10T10:48:34.043948-05:00.jpg",
+      "mtime": "1657468206",
+      "size": "9521",
+      "md5": "f303013f574cda43ede2426f6a73ef06",
+      "crc32": "2a7dc1c0",
+      "sha1": "a0200a124e4264123463fa7996a90e4b2c947843"
+    },
+    {
+      "name": "suntimes-2022-07-10T22:23:51.099032-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657509834",
+      "size": "37460",
+      "md5": "4fe209293bd800a7bcafa367511eb5ab",
+      "crc32": "613982ff",
+      "sha1": "638cc6e8116e2e21e92b707a7882473f5eac7e0e",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-10T22:23:51.099032-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657509836",
+      "size": "57154",
+      "md5": "9c99e18e3fbd4a60028b836b612f0e07",
+      "crc32": "7f0de47f",
+      "sha1": "f7029915261500970a7567fc5e4d848f1bfb2761",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-10T22:23:51.099032-05:00.jpg",
+      "source": "original",
+      "mtime": "1657509832",
+      "size": "239394",
+      "md5": "d3defd68ff5c35d2ea4819728a8607e8",
+      "crc32": "774af9df",
+      "sha1": "909def6ca39534756019022d531abe6ea4f25937",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-07-10T22:23:51.099032-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-07-10T22:23:51.099032-05:00.jpg",
+      "mtime": "1657509909",
+      "size": "9664",
+      "md5": "e4d6cdc429ae67faa5186665d806c647",
+      "crc32": "33a4df1c",
+      "sha1": "25459f82dbe38c97134e3813ea445690458fc953"
+    },
+    {
+      "name": "suntimes-2022-07-11T13:19:28.237525-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563575",
+      "size": "36921",
+      "md5": "df9e73a432fbd75f3079c16dd894e588",
+      "crc32": "00de2304",
+      "sha1": "b78b6258d0a72c388f19e2e4a8d75b0e72d12aae",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-11T13:19:28.237525-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563580",
+      "size": "56546",
+      "md5": "d73e3687a7db93100c6856b04a383aee",
+      "crc32": "0fb58837",
+      "sha1": "861be4a5a0129671f75ac45868c652b278d6d554",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-11T13:19:28.237525-05:00.jpg",
+      "source": "original",
+      "mtime": "1657563571",
+      "size": "267158",
+      "md5": "c93e8fb1a4fed929eeb05a582fe51cc6",
+      "crc32": "7fcce991",
+      "sha1": "b50363a75de790d4fc5a776d1fc7f1a92c15927f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-07-11T13:19:28.237525-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-07-11T13:19:28.237525-05:00.jpg",
+      "mtime": "1657564066",
+      "size": "10012",
+      "md5": "639f2111f99a1da56e7b4deda2b396af",
+      "crc32": "fa51ad16",
+      "sha1": "3cb1d49bbf838365c42a7d685d000b354ca62ca2"
+    },
+    {
+      "name": "suntimes-2022-07-11T13:49:04.879011-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657565347",
+      "size": "37203",
+      "md5": "e78c9adcf07a59e672d301cf5eb8aafe",
+      "crc32": "42a605fd",
+      "sha1": "96ce7cd2fbd8a12051c94489830c5b90d7cfbf54",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-11T13:49:04.879011-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657565349",
+      "size": "56354",
+      "md5": "df12bcdd07126a556322eeebf49e89d9",
+      "crc32": "acdf0ff7",
+      "sha1": "afa9d71fcce78ec709013e1578e0186e4c2c04f1",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-11T13:49:04.879011-05:00.jpg",
+      "source": "original",
+      "mtime": "1657565346",
+      "size": "289604",
+      "md5": "6e61b7d4e10c96a16a6fde108b616d96",
+      "crc32": "27950694",
+      "sha1": "c046d381aa70b310601f3c267ab64ecdd36d16d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-07-11T13:49:04.879011-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-07-11T13:49:04.879011-05:00.jpg",
+      "mtime": "1657565407",
+      "size": "10005",
+      "md5": "70b754ee437b58e9e857b7b655c12a46",
+      "crc32": "491c9bb0",
+      "sha1": "ee7bb1e077226b715bef3b9505199a060bbd487e"
+    },
+    {
+      "name": "suntimes-2022-07-11T22:26:13.618097-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657596377",
+      "size": "38037",
+      "md5": "e5f353ed1c7456d1fc08273421a8f618",
+      "crc32": "724666a9",
+      "sha1": "a88fc3d747c33cfcfe47d5a531b4d539c73e3050",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-11T22:26:13.618097-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657596378",
+      "size": "56817",
+      "md5": "40234c01ed91df8261c1681df9867816",
+      "crc32": "79429048",
+      "sha1": "66300c8c2648e79195c9d1d8caf0f6ebb39ec1ec",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-07-11T22:26:13.618097-05:00.jpg",
+      "source": "original",
+      "mtime": "1657596375",
+      "size": "281427",
+      "md5": "25123974d0bf3e2c1a76035321e55183",
+      "crc32": "6d7d0ad6",
+      "sha1": "d25738e138cd2f5eb01bfdc4b9536ed112ff080e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-07-11T22:26:13.618097-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-07-11T22:26:13.618097-05:00.jpg",
+      "mtime": "1657596436",
+      "size": "9881",
+      "md5": "4872bdef3bdf0554ea06be7e8bbe10e4",
+      "crc32": "95de6b3e",
+      "sha1": "8084083d37546501666a0f7bf95db1a1eb0e3406"
+    },
+    {
       "name": "suntimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d738b922084a452d7a3e78cf79c7a140f83caaa8",
-      "mtime": "1657423505",
-      "size": "46077",
-      "md5": "62cd20d2180b42c632d96710faa09130",
-      "crc32": "1877f8ac",
-      "sha1": "f95e39187234f9ec5f8d1f306cd10e44f127834c",
+      "btih": "12e260862119d771362ec5230b7950bac9dea1f1",
+      "mtime": "1657596440",
+      "size": "51133",
+      "md5": "e3e14e57d69111eb38121ec4a7fc7512",
+      "crc32": "3e9f0e32",
+      "sha1": "70b57a71665f84d720eb003e6843ba99af6c4105",
       "format": "Archive BitTorrent"
     },
     {
       "name": "suntimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ba05490ff2f24f81796a4127bb5bf80a",
+      "md5": "89d29dc85b07b8db542aca7e60fb47aa",
       "summation": "md5"
     },
     {
       "name": "suntimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423458",
-      "size": "262144",
-      "md5": "05e97e03ce7fbf80a11ea8b0e4e19f86",
-      "crc32": "b11f8f75",
-      "sha1": "046e22d38ebd4dba738eefa2ce0a3ece93879699",
+      "mtime": "1657596382",
+      "size": "290816",
+      "md5": "8dd9a52611c8e9b9267610d576c68a15",
+      "crc32": "60de2609",
+      "sha1": "e2ed0d55c1541bf9b0af56df25e104a73cd3eb5e",
       "format": "Metadata"
     },
     {
@@ -2268,9 +2520,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 216,
-  "item_last_updated": 1657423505,
-  "item_size": 18642768,
+  "files_count": 240,
+  "item_last_updated": 1657596440,
+  "item_size": 20864860,
   "metadata": {
     "identifier": "suntimes-2022",
     "collection": [
@@ -2287,10 +2539,1624 @@
     "publicdate": "2022-06-24 23:02:19",
     "addeddate": "2022-06-24 23:02:19"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1491792617,
+  "server": "ia902503.us.archive.org",
+  "suntimes-2022": [
+    {
+      "text": "\n    \n        \n    \n    ",
+      "url": "/"
+    },
+    {
+      "text": "\n    \n        \n    \n    ",
+      "url": "/"
+    },
+    {
+      "text": "Log out \u00a0|\u00a0",
+      "url": ""
+    },
+    {
+      "text": "Manage Account",
+      "url": "/account"
+    },
+    {
+      "text": "Log In \u00a0|\u00a0",
+      "url": "#"
+    },
+    {
+      "text": "Try 1 month for $1 ",
+      "url": "/pages/subscribe"
+    },
+    {
+      "text": "Subscribe ",
+      "url": "https://chicago.suntimes.com/pages/subscribe"
+    },
+    {
+      "text": "News",
+      "url": "https://chicago.suntimes.com/news"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "The Watchdogs",
+      "url": "https://chicago.suntimes.com/the-watchdogs"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://chicago.suntimes.com/obituaries"
+    },
+    {
+      "text": "Education",
+      "url": "https://chicago.suntimes.com/education"
+    },
+    {
+      "text": "Metro/State",
+      "url": "https://chicago.suntimes.com/metro-state"
+    },
+    {
+      "text": "Nation/World",
+      "url": "https://chicago.suntimes.com/nation-world"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://chicago.suntimes.com/transportation"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://chicago.suntimes.com/coronavirus"
+    },
+    {
+      "text": "Health",
+      "url": "https://chicago.suntimes.com/health"
+    },
+    {
+      "text": "Business",
+      "url": "https://chicago.suntimes.com/business"
+    },
+    {
+      "text": "Marijuana",
+      "url": "https://chicago.suntimes.com/cannabis"
+    },
+    {
+      "text": "Casinos and Gambling",
+      "url": "https://chicago.suntimes.com/casinos-gambling"
+    },
+    {
+      "text": "Immigration",
+      "url": "https://chicago.suntimes.com/immigration"
+    },
+    {
+      "text": "Environment",
+      "url": "https://chicago.suntimes.com/environment"
+    },
+    {
+      "text": "LGBTQ",
+      "url": "https://chicago.suntimes.com/lgbtq"
+    },
+    {
+      "text": "La Voz",
+      "url": "https://chicago.suntimes.com/la-voz"
+    },
+    {
+      "text": "Sports",
+      "url": "https://chicago.suntimes.com/sports"
+    },
+    {
+      "text": "Bears",
+      "url": "https://chicago.suntimes.com/bears"
+    },
+    {
+      "text": "High School Sports",
+      "url": "https://chicago.suntimes.com/high-school-sports"
+    },
+    {
+      "text": "College Sports",
+      "url": "https://chicago.suntimes.com/college-sports"
+    },
+    {
+      "text": "Bulls",
+      "url": "https://chicago.suntimes.com/bulls"
+    },
+    {
+      "text": "Fire / Red Stars",
+      "url": "https://chicago.suntimes.com/soccer"
+    },
+    {
+      "text": "Sports Media",
+      "url": "https://chicago.suntimes.com/sports-media"
+    },
+    {
+      "text": "Cubs",
+      "url": "https://chicago.suntimes.com/cubs"
+    },
+    {
+      "text": "Wolves",
+      "url": "https://chicago.suntimes.com/wolves"
+    },
+    {
+      "text": "Sports Saturday",
+      "url": "https://chicago.suntimes.com/sports-saturday"
+    },
+    {
+      "text": "White Sox",
+      "url": "https://chicago.suntimes.com/white-sox"
+    },
+    {
+      "text": "Outdoors",
+      "url": "https://chicago.suntimes.com/outdoors"
+    },
+    {
+      "text": "Golf",
+      "url": "https://chicago.suntimes.com/golf"
+    },
+    {
+      "text": "Blackhawks",
+      "url": "https://chicago.suntimes.com/blackhawks"
+    },
+    {
+      "text": "Sky / WNBA",
+      "url": "https://chicago.suntimes.com/chicago-sky-and-wnba"
+    },
+    {
+      "text": "The Last Dance",
+      "url": "https://chicago.suntimes.com/the-last-dance"
+    },
+    {
+      "text": "Politics",
+      "url": "https://chicago.suntimes.com/politics"
+    },
+    {
+      "text": "Elections",
+      "url": "https://chicago.suntimes.com/elections"
+    },
+    {
+      "text": "2022 Illinois Primary Election Results",
+      "url": "https://chicago.suntimes.com/elections/2022/illinois-primary-results"
+    },
+    {
+      "text": "Fran Spielman Show",
+      "url": "https://chicago.suntimes.com/fran-spielman-show"
+    },
+    {
+      "text": "Springfield",
+      "url": "https://chicago.suntimes.com/springfield"
+    },
+    {
+      "text": "At the Table",
+      "url": "https://chicago.suntimes.com/at-the-table"
+    },
+    {
+      "text": "City Hall",
+      "url": "https://chicago.suntimes.com/city-hall"
+    },
+    {
+      "text": "Washington",
+      "url": "https://chicago.suntimes.com/washington"
+    },
+    {
+      "text": "City Council Directory",
+      "url": "https://graphics.suntimes.com/chicago-city-council/"
+    },
+    {
+      "text": "PolitiFact",
+      "url": "https://chicago.suntimes.com/politifact"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://chicago.suntimes.com/obituaries"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://chicago.suntimes.com/entertainment-and-culture"
+    },
+    {
+      "text": "Movies and TV",
+      "url": "https://chicago.suntimes.com/movies-and-tv"
+    },
+    {
+      "text": "Dear Abby",
+      "url": "https://chicago.suntimes.com/dear-abby"
+    },
+    {
+      "text": "Theater",
+      "url": "https://chicago.suntimes.com/theater"
+    },
+    {
+      "text": "Movie Review Archive",
+      "url": "https://chicago.suntimes.com/pages/movie-reviews"
+    },
+    {
+      "text": "Horoscopes",
+      "url": "https://chicago.suntimes.com/horoscopes"
+    },
+    {
+      "text": "Chicago-pedia",
+      "url": "https://chicago.suntimes.com/chicagopedia"
+    },
+    {
+      "text": "Murals and Mosaics",
+      "url": "https://chicago.suntimes.com/murals-mosaics"
+    },
+    {
+      "text": "Things To Do ",
+      "url": "https://chicago.suntimes.com/things-to-do"
+    },
+    {
+      "text": "Food and Restaurants",
+      "url": "https://chicago.suntimes.com/food-and-restaurants"
+    },
+    {
+      "text": "Music",
+      "url": "https://chicago.suntimes.com/music"
+    },
+    {
+      "text": "Dishin\u2019 on the Dish",
+      "url": "https://chicago.suntimes.com/dishin-on-the-dish"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://newsletters.suntimes.com"
+    },
+    {
+      "text": "E-Paper",
+      "url": "https://paper.suntimes.com/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://chicago.suntimes.com/pages/classifieds"
+    },
+    {
+      "text": "View Classified Ads",
+      "url": "https://marketplace.suntimes.com/cst-marketplace/"
+    },
+    {
+      "text": "Find a Job",
+      "url": "https://jobs.suntimes.com/"
+    },
+    {
+      "text": "View Obituaries",
+      "url": "https://legacy.suntimes.com/obituaries/chicagosuntimes/"
+    },
+    {
+      "text": "Place a Classified Ad",
+      "url": "https://ads.suntimes.com/suntimes-adportal/cstclassified/flow.html?_flowId=adportal-classified-flow&action=jump"
+    },
+    {
+      "text": "Post a Job Opening",
+      "url": "https://hiring.suntimes.com/purchase/post-now/"
+    },
+    {
+      "text": "Place an Obituary",
+      "url": "https://ads.suntimes.com/suntimes-adportal/obits/index.html"
+    },
+    {
+      "text": "View Small Business Ad",
+      "url": "https://marketplace.suntimes.com/cst-marketplace/"
+    },
+    {
+      "text": "View Legal Notices",
+      "url": "https://www.publicnoticeillinois.com/"
+    },
+    {
+      "text": "Celebrations",
+      "url": "https://ads.suntimes.com/suntimes-adportal/celebrations/index.html"
+    },
+    {
+      "text": "Place Small Business Ad",
+      "url": "https://ads.suntimes.com/suntimes-adportal/cstclassified/flow.html?action=jump&_flowId=adportal-classified-flow&categoryName=Retail&classificationName=Retail"
+    },
+    {
+      "text": "Place a Legal Notice",
+      "url": "https://marketing.suntimes.com/post-a-legal-notice"
+    },
+    {
+      "text": "Business",
+      "url": "https://chicago.suntimes.com/business"
+    },
+    {
+      "text": "Commentary",
+      "url": "https://chicago.suntimes.com/opinion"
+    },
+    {
+      "text": "Celebrations",
+      "url": "https://ads.suntimes.com/suntimes-adportal/celebrations/index.html"
+    },
+    {
+      "text": "En Espa\u00f1ol",
+      "url": "https://chicago.suntimes.com/la-voz"
+    },
+    {
+      "text": "Historical Archive",
+      "url": "https://chicago.suntimes.com/pages/newsbank-archives"
+    },
+    {
+      "text": "Photo Archive",
+      "url": "https://chicago.suntimes.com/pages/buy-sun-times-photos-chicago-history-museum-historic-articles-archive"
+    },
+    {
+      "text": "Columnists",
+      "url": "https://chicago.suntimes.com/columnists"
+    },
+    {
+      "text": "Death Notices",
+      "url": "https://legacy.suntimes.com/obituaries/chicagosuntimes/"
+    },
+    {
+      "text": "Events",
+      "url": "https://chicago.suntimes.com/events"
+    },
+    {
+      "text": "The FBI Files",
+      "url": "https://chicago.suntimes.com/fbi-files"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://chicago.suntimes.com/pages/podcasts"
+    },
+    {
+      "text": "Shop Local",
+      "url": "https://chicago.suntimes.com/pages/shop-local"
+    },
+    {
+      "text": "Taste",
+      "url": "https://chicago.suntimes.com/taste"
+    },
+    {
+      "text": "The Grid",
+      "url": "https://chicago.suntimes.com/the-grid"
+    },
+    {
+      "text": "Chicago History",
+      "url": "https://chicago.suntimes.com/chicago-history"
+    },
+    {
+      "text": "Well",
+      "url": "https://chicago.suntimes.com/well"
+    },
+    {
+      "text": "New Subscriptions",
+      "url": "https://chicago.suntimes.com/pages/subscribe"
+    },
+    {
+      "text": "Manage your home delivery account",
+      "url": "https://stmiservices.newscyclecloud.com/cgi-bin/cmo_stm-c-cmdb-01.sh/custservice/web/login.html?siteid=CST"
+    },
+    {
+      "text": "Manage your TV weekly account",
+      "url": "https://secure.iwantmytvmagazine.com/order/zipcode/1"
+    },
+    {
+      "text": "Contact customer service",
+      "url": "https://chicago.suntimes.com/pages/contact-us"
+    },
+    {
+      "text": "Sun-Times Careers & Internships",
+      "url": "https://chicago.suntimes.com/pages/chicago-sun-times-careers-internships"
+    },
+    {
+      "text": "Search for a job",
+      "url": "https://jobs.suntimes.com/"
+    },
+    {
+      "text": "Back issues & photo reprints",
+      "url": "https://chicago.suntimes.com/pages/contact-us"
+    },
+    {
+      "text": "Media kit",
+      "url": "https://marketing.suntimes.com/media-kit"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://chicago.suntimes.com/pages/contact-us"
+    },
+    {
+      "text": "\n    \n    twitter\n",
+      "url": "https://twitter.com/Suntimes"
+    },
+    {
+      "text": "\n    \n    facebook\n",
+      "url": "https://www.facebook.com/thechicagosuntimes"
+    },
+    {
+      "text": "\n    \n    youtube\n",
+      "url": "https://www.youtube.com/channel/UCvU3ALK4osa_RV4znIToB2Q"
+    },
+    {
+      "text": "\n    \n    instagram\n",
+      "url": "https://www.instagram.com/chicagosuntimes/"
+    },
+    {
+      "text": "News",
+      "url": "https://chicago.suntimes.com/news"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "The Watchdogs",
+      "url": "https://chicago.suntimes.com/the-watchdogs"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://chicago.suntimes.com/obituaries"
+    },
+    {
+      "text": "Education",
+      "url": "https://chicago.suntimes.com/education"
+    },
+    {
+      "text": "Metro/State",
+      "url": "https://chicago.suntimes.com/metro-state"
+    },
+    {
+      "text": "Nation/World",
+      "url": "https://chicago.suntimes.com/nation-world"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://chicago.suntimes.com/transportation"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://chicago.suntimes.com/coronavirus"
+    },
+    {
+      "text": "Health",
+      "url": "https://chicago.suntimes.com/health"
+    },
+    {
+      "text": "Business",
+      "url": "https://chicago.suntimes.com/business"
+    },
+    {
+      "text": "Marijuana",
+      "url": "https://chicago.suntimes.com/cannabis"
+    },
+    {
+      "text": "Casinos and Gambling",
+      "url": "https://chicago.suntimes.com/casinos-gambling"
+    },
+    {
+      "text": "Immigration",
+      "url": "https://chicago.suntimes.com/immigration"
+    },
+    {
+      "text": "Environment",
+      "url": "https://chicago.suntimes.com/environment"
+    },
+    {
+      "text": "LGBTQ",
+      "url": "https://chicago.suntimes.com/lgbtq"
+    },
+    {
+      "text": "La Voz",
+      "url": "https://chicago.suntimes.com/la-voz"
+    },
+    {
+      "text": "Sports",
+      "url": "https://chicago.suntimes.com/sports"
+    },
+    {
+      "text": "Bears",
+      "url": "https://chicago.suntimes.com/bears"
+    },
+    {
+      "text": "High School Sports",
+      "url": "https://chicago.suntimes.com/high-school-sports"
+    },
+    {
+      "text": "College Sports",
+      "url": "https://chicago.suntimes.com/college-sports"
+    },
+    {
+      "text": "Bulls",
+      "url": "https://chicago.suntimes.com/bulls"
+    },
+    {
+      "text": "Fire / Red Stars",
+      "url": "https://chicago.suntimes.com/soccer"
+    },
+    {
+      "text": "Sports Media",
+      "url": "https://chicago.suntimes.com/sports-media"
+    },
+    {
+      "text": "Cubs",
+      "url": "https://chicago.suntimes.com/cubs"
+    },
+    {
+      "text": "Wolves",
+      "url": "https://chicago.suntimes.com/wolves"
+    },
+    {
+      "text": "Sports Saturday",
+      "url": "https://chicago.suntimes.com/sports-saturday"
+    },
+    {
+      "text": "White Sox",
+      "url": "https://chicago.suntimes.com/white-sox"
+    },
+    {
+      "text": "Outdoors",
+      "url": "https://chicago.suntimes.com/outdoors"
+    },
+    {
+      "text": "Golf",
+      "url": "https://chicago.suntimes.com/golf"
+    },
+    {
+      "text": "Blackhawks",
+      "url": "https://chicago.suntimes.com/blackhawks"
+    },
+    {
+      "text": "Sky / WNBA",
+      "url": "https://chicago.suntimes.com/chicago-sky-and-wnba"
+    },
+    {
+      "text": "The Last Dance",
+      "url": "https://chicago.suntimes.com/the-last-dance"
+    },
+    {
+      "text": "Politics",
+      "url": "https://chicago.suntimes.com/politics"
+    },
+    {
+      "text": "Elections",
+      "url": "https://chicago.suntimes.com/elections"
+    },
+    {
+      "text": "2022 Illinois Primary Election Results",
+      "url": "https://chicago.suntimes.com/elections/2022/illinois-primary-results"
+    },
+    {
+      "text": "Fran Spielman Show",
+      "url": "https://chicago.suntimes.com/fran-spielman-show"
+    },
+    {
+      "text": "Springfield",
+      "url": "https://chicago.suntimes.com/springfield"
+    },
+    {
+      "text": "At the Table",
+      "url": "https://chicago.suntimes.com/at-the-table"
+    },
+    {
+      "text": "City Hall",
+      "url": "https://chicago.suntimes.com/city-hall"
+    },
+    {
+      "text": "Washington",
+      "url": "https://chicago.suntimes.com/washington"
+    },
+    {
+      "text": "City Council Directory",
+      "url": "https://graphics.suntimes.com/chicago-city-council/"
+    },
+    {
+      "text": "PolitiFact",
+      "url": "https://chicago.suntimes.com/politifact"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://chicago.suntimes.com/obituaries"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://chicago.suntimes.com/entertainment-and-culture"
+    },
+    {
+      "text": "Movies and TV",
+      "url": "https://chicago.suntimes.com/movies-and-tv"
+    },
+    {
+      "text": "Dear Abby",
+      "url": "https://chicago.suntimes.com/dear-abby"
+    },
+    {
+      "text": "Theater",
+      "url": "https://chicago.suntimes.com/theater"
+    },
+    {
+      "text": "Movie Review Archive",
+      "url": "https://chicago.suntimes.com/pages/movie-reviews"
+    },
+    {
+      "text": "Horoscopes",
+      "url": "https://chicago.suntimes.com/horoscopes"
+    },
+    {
+      "text": "Chicago-pedia",
+      "url": "https://chicago.suntimes.com/chicagopedia"
+    },
+    {
+      "text": "Murals and Mosaics",
+      "url": "https://chicago.suntimes.com/murals-mosaics"
+    },
+    {
+      "text": "Things To Do ",
+      "url": "https://chicago.suntimes.com/things-to-do"
+    },
+    {
+      "text": "Food and Restaurants",
+      "url": "https://chicago.suntimes.com/food-and-restaurants"
+    },
+    {
+      "text": "Music",
+      "url": "https://chicago.suntimes.com/music"
+    },
+    {
+      "text": "Dishin\u2019 on the Dish",
+      "url": "https://chicago.suntimes.com/dishin-on-the-dish"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://newsletters.suntimes.com"
+    },
+    {
+      "text": "E-Paper",
+      "url": "https://paper.suntimes.com/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://chicago.suntimes.com/pages/classifieds"
+    },
+    {
+      "text": "View Classified Ads",
+      "url": "https://marketplace.suntimes.com/cst-marketplace/"
+    },
+    {
+      "text": "Find a Job",
+      "url": "https://jobs.suntimes.com/"
+    },
+    {
+      "text": "View Obituaries",
+      "url": "https://legacy.suntimes.com/obituaries/chicagosuntimes/"
+    },
+    {
+      "text": "Place a Classified Ad",
+      "url": "https://ads.suntimes.com/suntimes-adportal/cstclassified/flow.html?_flowId=adportal-classified-flow&action=jump"
+    },
+    {
+      "text": "Post a Job Opening",
+      "url": "https://hiring.suntimes.com/purchase/post-now/"
+    },
+    {
+      "text": "Place an Obituary",
+      "url": "https://ads.suntimes.com/suntimes-adportal/obits/index.html"
+    },
+    {
+      "text": "View Small Business Ad",
+      "url": "https://marketplace.suntimes.com/cst-marketplace/"
+    },
+    {
+      "text": "View Legal Notices",
+      "url": "https://www.publicnoticeillinois.com/"
+    },
+    {
+      "text": "Celebrations",
+      "url": "https://ads.suntimes.com/suntimes-adportal/celebrations/index.html"
+    },
+    {
+      "text": "Place Small Business Ad",
+      "url": "https://ads.suntimes.com/suntimes-adportal/cstclassified/flow.html?action=jump&_flowId=adportal-classified-flow&categoryName=Retail&classificationName=Retail"
+    },
+    {
+      "text": "Place a Legal Notice",
+      "url": "https://marketing.suntimes.com/post-a-legal-notice"
+    },
+    {
+      "text": "Business",
+      "url": "https://chicago.suntimes.com/business"
+    },
+    {
+      "text": "Commentary",
+      "url": "https://chicago.suntimes.com/opinion"
+    },
+    {
+      "text": "Celebrations",
+      "url": "https://ads.suntimes.com/suntimes-adportal/celebrations/index.html"
+    },
+    {
+      "text": "En Espa\u00f1ol",
+      "url": "https://chicago.suntimes.com/la-voz"
+    },
+    {
+      "text": "Historical Archive",
+      "url": "https://chicago.suntimes.com/pages/newsbank-archives"
+    },
+    {
+      "text": "Photo Archive",
+      "url": "https://chicago.suntimes.com/pages/buy-sun-times-photos-chicago-history-museum-historic-articles-archive"
+    },
+    {
+      "text": "Columnists",
+      "url": "https://chicago.suntimes.com/columnists"
+    },
+    {
+      "text": "Death Notices",
+      "url": "https://legacy.suntimes.com/obituaries/chicagosuntimes/"
+    },
+    {
+      "text": "Events",
+      "url": "https://chicago.suntimes.com/events"
+    },
+    {
+      "text": "The FBI Files",
+      "url": "https://chicago.suntimes.com/fbi-files"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://chicago.suntimes.com/pages/podcasts"
+    },
+    {
+      "text": "Shop Local",
+      "url": "https://chicago.suntimes.com/pages/shop-local"
+    },
+    {
+      "text": "Taste",
+      "url": "https://chicago.suntimes.com/taste"
+    },
+    {
+      "text": "The Grid",
+      "url": "https://chicago.suntimes.com/the-grid"
+    },
+    {
+      "text": "Chicago History",
+      "url": "https://chicago.suntimes.com/chicago-history"
+    },
+    {
+      "text": "Well",
+      "url": "https://chicago.suntimes.com/well"
+    },
+    {
+      "text": "New Subscriptions",
+      "url": "https://chicago.suntimes.com/pages/subscribe"
+    },
+    {
+      "text": "Manage your home delivery account",
+      "url": "https://stmiservices.newscyclecloud.com/cgi-bin/cmo_stm-c-cmdb-01.sh/custservice/web/login.html?siteid=CST"
+    },
+    {
+      "text": "Manage your TV weekly account",
+      "url": "https://secure.iwantmytvmagazine.com/order/zipcode/1"
+    },
+    {
+      "text": "Contact customer service",
+      "url": "https://chicago.suntimes.com/pages/contact-us"
+    },
+    {
+      "text": "Sun-Times Careers & Internships",
+      "url": "https://chicago.suntimes.com/pages/chicago-sun-times-careers-internships"
+    },
+    {
+      "text": "Search for a job",
+      "url": "https://jobs.suntimes.com/"
+    },
+    {
+      "text": "Back issues & photo reprints",
+      "url": "https://chicago.suntimes.com/pages/contact-us"
+    },
+    {
+      "text": "Media kit",
+      "url": "https://marketing.suntimes.com/media-kit"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://chicago.suntimes.com/pages/contact-us"
+    },
+    {
+      "text": "\n    \n    twitter\n",
+      "url": "https://twitter.com/Suntimes"
+    },
+    {
+      "text": "\n    \n    facebook\n",
+      "url": "https://www.facebook.com/thechicagosuntimes"
+    },
+    {
+      "text": "\n    \n    youtube\n",
+      "url": "https://www.youtube.com/channel/UCvU3ALK4osa_RV4znIToB2Q"
+    },
+    {
+      "text": "\n    \n    instagram\n",
+      "url": "https://www.instagram.com/chicagosuntimes/"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203916/highland-park-parade-shooting-moment-of-silence-port-clinton-square-business-reopen"
+    },
+    {
+      "text": "Highland Park parade shooting",
+      "url": "https://chicago.suntimes.com/highland-park-parade-shooting"
+    },
+    {
+      "text": "Highland Park parade shooting: Community gathers for moment of silence",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203916/highland-park-parade-shooting-moment-of-silence-port-clinton-square-business-reopen"
+    },
+    {
+      "text": "Manny Ramos",
+      "url": "https://chicago.suntimes.com/authors/manny-ramos"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/metro-state/2022/7/11/23204148/domestic-violence-surge-continued-in-2021-new-report-shows"
+    },
+    {
+      "text": "Metro/State",
+      "url": "https://chicago.suntimes.com/metro-state"
+    },
+    {
+      "text": "Domestic violence surge continued in 2021, new report shows",
+      "url": "https://chicago.suntimes.com/metro-state/2022/7/11/23204148/domestic-violence-surge-continued-in-2021-new-report-shows"
+    },
+    {
+      "text": "Andy Grimm",
+      "url": "https://chicago.suntimes.com/authors/andy-grimm"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/10/23203191/highland-park-shooting-parade-cooper-roberts-fourth-of-july-what-one-bullet-did"
+    },
+    {
+      "text": "Highland Park parade shooting",
+      "url": "https://chicago.suntimes.com/highland-park-parade-shooting"
+    },
+    {
+      "text": "What one bullet did to 8-year-old Cooper Roberts, among dozens shot at Highland Park Fourth of July parade",
+      "url": "https://chicago.suntimes.com/2022/7/10/23203191/highland-park-shooting-parade-cooper-roberts-fourth-of-july-what-one-bullet-did"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/city-hall/2022/7/11/23204074/free-bicycle-giveaway-city-chicago-program-lighfoot"
+    },
+    {
+      "text": "City Hall",
+      "url": "https://chicago.suntimes.com/city-hall"
+    },
+    {
+      "text": "Free bikes: Application process, rules explained as city prepares to give away 500 bicycles, along with locks, helmets",
+      "url": "https://chicago.suntimes.com/city-hall/2022/7/11/23204074/free-bicycle-giveaway-city-chicago-program-lighfoot"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203287/roe-wade-abortion-play-billboard-16th-street-theater-supreme-court-natalie-moore-englewood"
+    },
+    {
+      "text": "Theater",
+      "url": "https://chicago.suntimes.com/theater"
+    },
+    {
+      "text": "After Roe v. Wade overturned, play set in Englewood takes on \u2018a different urgency\u2019",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203287/roe-wade-abortion-play-billboard-16th-street-theater-supreme-court-natalie-moore-englewood"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/obituaries/2022/7/11/23204026/shine-king-founder-james-cole-obituary"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://chicago.suntimes.com/obituaries"
+    },
+    {
+      "text": "Shine King founder James Cole, whose shoeshine clients included the famous, dead at 78",
+      "url": "https://chicago.suntimes.com/obituaries/2022/7/11/23204026/shine-king-founder-james-cole-obituary"
+    },
+    {
+      "text": "Read More",
+      "url": "https://chicago.suntimes.com/opinion"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n",
+      "url": "https://chicago.suntimes.com/authors/lynn-sweet"
+    },
+    {
+      "text": "Lynn Sweet",
+      "url": "https://chicago.suntimes.com/authors/lynn-sweet"
+    },
+    {
+      "text": "Washington bureau chief",
+      "url": "https://chicago.suntimes.com/authors/lynn-sweet"
+    },
+    {
+      "text": "At White House gun law event a week after parade massacre, Biden wears \u2018Highland Park Strong\u2019 ribbon",
+      "url": "https://chicago.suntimes.com/columnists/2022/7/11/23204282/white-house-gun-law-event-week-parade-massacre-biden-wears-highland-park-strong-ribbon"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n",
+      "url": "https://chicago.suntimes.com/authors/michael-sneed"
+    },
+    {
+      "text": "Michael Sneed",
+      "url": "https://chicago.suntimes.com/authors/michael-sneed"
+    },
+    {
+      "text": "Columnist",
+      "url": "https://chicago.suntimes.com/authors/michael-sneed"
+    },
+    {
+      "text": "Loved ones lost forever in Highland Park massacre, but the pain will never go away",
+      "url": "https://chicago.suntimes.com/columnists/2022/7/8/23200888/highland-park-parade-shooting-robert-crimo-iii-laurie-dann-donald-trump-nicholas-corwin-james-caan"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n",
+      "url": "https://chicago.suntimes.com/authors/rich-miller"
+    },
+    {
+      "text": "Rich Miller",
+      "url": "https://chicago.suntimes.com/authors/rich-miller"
+    },
+    {
+      "text": "Contributor",
+      "url": "https://chicago.suntimes.com/authors/rich-miller"
+    },
+    {
+      "text": "How Illinois Republican candidates benefited from the \u2018Trump bump\u2019 visit",
+      "url": "https://chicago.suntimes.com/columnists/2022/7/8/23200967/illinois-republican-candidates-benefited-trump-bump-column-rich-miller"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n",
+      "url": "https://chicago.suntimes.com/authors/sun-times-editorial-board"
+    },
+    {
+      "text": "CST Editorial Board",
+      "url": "https://chicago.suntimes.com/authors/sun-times-editorial-board"
+    },
+    {
+      "text": "Omicron BA.5 is spreading, so let\u2019s make smart choices to keep it at bay",
+      "url": "https://chicago.suntimes.com/2022/7/11/23204024/omicron-ba5-coronavirus-infections-public-health-airline-public-transit-masks-vaccine-editorial"
+    },
+    {
+      "text": "\n                 Politics\n             ",
+      "url": "https://chicago.suntimes.com/politics"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/columnists/2022/7/10/23203036/highland-park-july-4th-parade-massacre-activists-head-to-dc-to-push-assault-weapons-ban"
+    },
+    {
+      "text": "Columnists",
+      "url": "https://chicago.suntimes.com/columnists"
+    },
+    {
+      "text": "Week after Highland Park July 4th parade massacre, activists head to D.C. to push assault weapons ban",
+      "url": "https://chicago.suntimes.com/columnists/2022/7/10/23203036/highland-park-july-4th-parade-massacre-activists-head-to-dc-to-push-assault-weapons-ban"
+    },
+    {
+      "text": "Lynn Sweet",
+      "url": "https://chicago.suntimes.com/authors/lynn-sweet"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/8/23199200/property-tax-breaks-exemptions-errors-cook-county-assessor-fritz-kaegi-barbara-kaplan-israel-martin"
+    },
+    {
+      "text": "The Watchdogs",
+      "url": "https://chicago.suntimes.com/the-watchdogs"
+    },
+    {
+      "text": "Pay up, Cook County orders homeowners after Sun-Times exposed wrongful property tax breaks",
+      "url": "https://chicago.suntimes.com/2022/7/8/23199200/property-tax-breaks-exemptions-errors-cook-county-assessor-fritz-kaegi-barbara-kaplan-israel-martin"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://chicago.suntimes.com/coronavirus"
+    },
+    {
+      "text": "COVID-19 filling hospital beds across Illinois, as risk level improves to \u2018medium\u2019 in Cook County",
+      "url": "https://chicago.suntimes.com/coronavirus/2022/7/8/23200939/illinois-coronaivrus-cook-county-chicago-medium-transmission-hospitalizations-rising"
+    },
+    {
+      "text": "Metro/State",
+      "url": "https://chicago.suntimes.com/metro-state"
+    },
+    {
+      "text": "Judge overturns murder conviction of man who said he was framed by disgraced former detective",
+      "url": "https://chicago.suntimes.com/metro-state/2022/7/8/23200642/overturned-murder-conviction-david-colon-lugo-detective-reynaldo-guevara"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "3 months in prison for Pennsylvania businessman caught up in Dorothy Brown probe",
+      "url": "https://chicago.suntimes.com/crime/2022/7/8/23200988/dorothy-brown-probe-donald-donagher-sentenced-prison"
+    },
+    {
+      "text": "\n                 Sports\n             ",
+      "url": "https://chicago.suntimes.com/sports"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/cubs/2022/7/11/23204255/prioritizing-winning-what-cubs-playing-for-2nd-half-of-losing-season-ian-happ-willie-harris-dodgers"
+    },
+    {
+      "text": "Cubs",
+      "url": "https://chicago.suntimes.com/cubs"
+    },
+    {
+      "text": "\u2018Prioritizing winning\u2019: What the Cubs are playing for in the second half of a losing season",
+      "url": "https://chicago.suntimes.com/cubs/2022/7/11/23204255/prioritizing-winning-what-cubs-playing-for-2nd-half-of-losing-season-ian-happ-willie-harris-dodgers"
+    },
+    {
+      "text": "Maddie Lee",
+      "url": "https://chicago.suntimes.com/authors/maddie-lee"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/blackhawks/2022/7/11/23204020/blackhawks-dylan-strome-dominik-kubalik-henrik-borgstrom-brett-connolly-buyouts-qualifying-offers"
+    },
+    {
+      "text": "Blackhawks",
+      "url": "https://chicago.suntimes.com/blackhawks"
+    },
+    {
+      "text": "Blackhawks walk away from Dylan Strome, Dominik Kubalik, Henrik Borgstrom, Brett Connolly",
+      "url": "https://chicago.suntimes.com/blackhawks/2022/7/11/23204020/blackhawks-dylan-strome-dominik-kubalik-henrik-borgstrom-brett-connolly-buyouts-qualifying-offers"
+    },
+    {
+      "text": "Bulls",
+      "url": "https://chicago.suntimes.com/bulls"
+    },
+    {
+      "text": "Bulls guard Zach LaVine feeling no added pressure with new max contract",
+      "url": "https://chicago.suntimes.com/bulls/2022/7/11/23204544/bulls-guard-zach-lavine-no-pressure-with-max-contract"
+    },
+    {
+      "text": "Blackhawks",
+      "url": "https://chicago.suntimes.com/blackhawks"
+    },
+    {
+      "text": "Blackhawks hire Derek King, Kevin Dean as assistant coaches",
+      "url": "https://chicago.suntimes.com/blackhawks/2022/7/11/23203773/blackhawks-derek-king-assistant-coach-kevin-dean-bruins-luke-richardson-staff"
+    },
+    {
+      "text": "High School Basketball",
+      "url": "https://chicago.suntimes.com/high-school-basketball"
+    },
+    {
+      "text": "Glenbard West grad Bobby Durkin scoops up multiple scholarship offers",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203758/bobby-durkin-glenbard-west-basketball"
+    },
+    {
+      "text": "\n                 Entertainment and culture\n             ",
+      "url": "https://chicago.suntimes.com/entertainment-and-culture"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203767/deeply-rooted-dance-theater-celebrates-quincy-jones-outdoor-parks-program-chicago"
+    },
+    {
+      "text": "Dance",
+      "url": "https://chicago.suntimes.com/dance"
+    },
+    {
+      "text": "Deeply Rooted Dance Theater celebrates Quincy Jones in outdoor musical program",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203767/deeply-rooted-dance-theater-celebrates-quincy-jones-outdoor-parks-program-chicago"
+    },
+    {
+      "text": "Kyle MacMillan - For the Sun-Times",
+      "url": "https://chicago.suntimes.com/authors/kyle-macmillan-cst"
+    },
+    {
+      "text": "Movies and TV",
+      "url": "https://chicago.suntimes.com/movies-and-tv"
+    },
+    {
+      "text": "\u2018D.B. Cooper: Where Are You?\u2019 documentary finds the right tone, but doesn\u2019t find the hijacker",
+      "url": "https://chicago.suntimes.com/movies-and-tv/2022/7/11/23201940/d-b-cooper-where-are-you-review-netflix-documentary-series"
+    },
+    {
+      "text": "Movies and TV",
+      "url": "https://chicago.suntimes.com/movies-and-tv"
+    },
+    {
+      "text": "Monty Norman, composer of the James Bond theme song, dies at 94",
+      "url": "https://chicago.suntimes.com/movies-and-tv/2022/7/11/23203957/monty-norman-dead-composer-of-james-bond-theme-song-obituary-movies"
+    },
+    {
+      "text": "Music",
+      "url": "https://chicago.suntimes.com/music"
+    },
+    {
+      "text": "Shawn Mendes postpones Rosemont concert, cites \u2018mental health\u2019 needs",
+      "url": "https://chicago.suntimes.com/2022/7/10/23202928/shawn-mendes-postpones-rosemont-concert-chicago-allstate-arena-tour-mental-health-cancel"
+    },
+    {
+      "text": "Entertainment and Culture",
+      "url": "https://chicago.suntimes.com/entertainment-and-culture"
+    },
+    {
+      "text": "Chris Christmas is Chicago\u2019s sunrise serenader",
+      "url": "https://chicago.suntimes.com/entertainment-and-culture/2022/7/10/23180359/chris-christmas-chicago-sunrise-musician-guitar-lake-michigan-beach"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204790/one-person-killed-two-others-wounded-lawndale-vacant-lot-shooting"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "One person killed, two others wounded in North Lawndale vacant lot shooting",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204790/one-person-killed-two-others-wounded-lawndale-vacant-lot-shooting"
+    },
+    {
+      "text": "Sun-Times Wire",
+      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204681/woman-teenage-boy-injured-roseland-drive-by-shooting"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "20-year-old woman, teenage boy injured in Roseland shooting",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204681/woman-teenage-boy-injured-roseland-drive-by-shooting"
+    },
+    {
+      "text": "Sun-Times Wire",
+      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/white-sox/2022/7/11/23204670/five-run-guardians-first-dooms-white-sox"
+    },
+    {
+      "text": "White Sox",
+      "url": "https://chicago.suntimes.com/white-sox"
+    },
+    {
+      "text": "Five-run Guardians first dooms White Sox",
+      "url": "https://chicago.suntimes.com/white-sox/2022/7/11/23204670/five-run-guardians-first-dooms-white-sox"
+    },
+    {
+      "text": "Daryl Van Schouwen",
+      "url": "https://chicago.suntimes.com/authors/daryl-van-schouwen"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203854/highland-park-shooting-must-do-more-to-stop-another-tragedy-robert-crimo"
+    },
+    {
+      "text": "Other Views",
+      "url": "https://chicago.suntimes.com/other-views"
+    },
+    {
+      "text": "I was at the Highland Park shooting. We must do more to stop another tragedy.",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203854/highland-park-shooting-must-do-more-to-stop-another-tragedy-robert-crimo"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204633/flossmoor-police-fatally-shot-woman-with-knife-following-domestic-disturbance-call"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "Flossmoor police fatally shot woman with a knife following domestic disturbance call",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204633/flossmoor-police-fatally-shot-woman-with-knife-following-domestic-disturbance-call"
+    },
+    {
+      "text": "Sun-Times Wire",
+      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/white-sox/2022/7/11/23204643/too-much-talent-pride-and-passion-for-white-sox-not-to-win-liam-hendriks-says"
+    },
+    {
+      "text": "White Sox",
+      "url": "https://chicago.suntimes.com/white-sox"
+    },
+    {
+      "text": "Too much \u201ctalent, pride and passion\u201d for White Sox not to win, Liam Hendriks says",
+      "url": "https://chicago.suntimes.com/white-sox/2022/7/11/23204643/too-much-talent-pride-and-passion-for-white-sox-not-to-win-liam-hendriks-says"
+    },
+    {
+      "text": "Daryl Van Schouwen",
+      "url": "https://chicago.suntimes.com/authors/daryl-van-schouwen"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/white-sox/2022/7/11/23204656/tim-anderson-white-sox-all-star-starter-shortstop-luis-aparicio-chico-carrasquel-luke-appling"
+    },
+    {
+      "text": "White Sox",
+      "url": "https://chicago.suntimes.com/white-sox"
+    },
+    {
+      "text": "Tim Anderson adds to White Sox\u2019 legacy as All-Star starter at shortstop",
+      "url": "https://chicago.suntimes.com/white-sox/2022/7/11/23204656/tim-anderson-white-sox-all-star-starter-shortstop-luis-aparicio-chico-carrasquel-luke-appling"
+    },
+    {
+      "text": "John Grochowski | For the Sun-Times",
+      "url": "https://chicago.suntimes.com/authors/john-grochowski-for-the-sun-times"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23204566/gary-moeller-former-michigan-illinois-bears-coach-dies-at-81"
+    },
+    {
+      "text": "College Sports",
+      "url": "https://chicago.suntimes.com/college-sports"
+    },
+    {
+      "text": "Gary Moeller, former Michigan and Illinois coach, dies at 81",
+      "url": "https://chicago.suntimes.com/2022/7/11/23204566/gary-moeller-former-michigan-illinois-bears-coach-dies-at-81"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204524/16-year-old-boy-wounded-near-south-side-accidental-shooting-police-said"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "16-year-old boy wounded in Near South Side accidental shooting, police say",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204524/16-year-old-boy-wounded-near-south-side-accidental-shooting-police-said"
+    },
+    {
+      "text": "Sun-Times Wire",
+      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23200550/robert-crimo-highland-park-shooting-foid"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "https://chicago.suntimes.com/letters-to-the-editor"
+    },
+    {
+      "text": "Father of Highland Park shooting suspect should accept role in tragedy",
+      "url": "https://chicago.suntimes.com/2022/7/11/23200550/robert-crimo-highland-park-shooting-foid"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23204460/justice-department-antitrust-division-looking-into-pga-tour-liv-golf-dispute-report"
+    },
+    {
+      "text": "Golf",
+      "url": "https://chicago.suntimes.com/golf"
+    },
+    {
+      "text": "Justice Department antitrust division looking into PGA Tour-LIV Golf dispute: report",
+      "url": "https://chicago.suntimes.com/2022/7/11/23204460/justice-department-antitrust-division-looking-into-pga-tour-liv-golf-dispute-report"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23202703/art-piece-enough-gun-violence-highland-park-shooting-von-edelberg"
+    },
+    {
+      "text": "Highland Park parade shooting",
+      "url": "https://chicago.suntimes.com/highland-park-parade-shooting"
+    },
+    {
+      "text": "Art piece shifts focus on gun violence nationwide in the wake of Highland Park shooting",
+      "url": "https://chicago.suntimes.com/2022/7/11/23202703/art-piece-enough-gun-violence-highland-park-shooting-von-edelberg"
+    },
+    {
+      "text": "Zack Miller",
+      "url": "https://chicago.suntimes.com/authors/zack-miller"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23204326/morning-cup-of-coffee-health-benefits-wellness-ask-the-doctors"
+    },
+    {
+      "text": "Eat Well",
+      "url": "https://chicago.suntimes.com/eat-well"
+    },
+    {
+      "text": "Ask the Doctors: Morning cup of coffee has potential health benefits",
+      "url": "https://chicago.suntimes.com/2022/7/11/23204326/morning-cup-of-coffee-health-benefits-wellness-ask-the-doctors"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204345/person-killed-another-wounded-south-shore-shooting"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "Person killed, man wounded in South Shore shooting",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204345/person-killed-another-wounded-south-shore-shooting"
+    },
+    {
+      "text": "Sun-Times Wire",
+      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/entertainment-and-culture/2022/7/11/23204098/chicago-field-museum-meterorites-research"
+    },
+    {
+      "text": "Entertainment and Culture",
+      "url": "https://chicago.suntimes.com/entertainment-and-culture"
+    },
+    {
+      "text": "Field Museum gets crates of spotted limestone \u2014 but it\u2019s not floor tiles",
+      "url": "https://chicago.suntimes.com/entertainment-and-culture/2022/7/11/23204098/chicago-field-museum-meterorites-research"
+    },
+    {
+      "text": "Stefano Esposito",
+      "url": "https://chicago.suntimes.com/authors/stefano-esposito"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204300/11-year-old-charged-attempted-carjacking-douglas-teens-charged-lincoln-park-carjacking"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "11-year-old charged with attempted carjacking in Douglas; 2 teens charged with Lincoln Park carjacking",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204300/11-year-old-charged-attempted-carjacking-douglas-teens-charged-lincoln-park-carjacking"
+    },
+    {
+      "text": "Sun-Times Wire",
+      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/afternoon-edition-newsletter/2022/7/11/23203650/chicago-news-highland-park-moment-of-silence"
+    },
+    {
+      "text": "Afternoon Edition",
+      "url": "https://chicago.suntimes.com/afternoon-edition-newsletter"
+    },
+    {
+      "text": "Highland Park\u2019s moment of silence, Northwestern prez-elect steps down and more in your Chicago news roundup",
+      "url": "https://chicago.suntimes.com/afternoon-edition-newsletter/2022/7/11/23203650/chicago-news-highland-park-moment-of-silence"
+    },
+    {
+      "text": "Satchel Price",
+      "url": "https://chicago.suntimes.com/authors/satchel-price"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204291/man-killed-4-injured-in-shooting-in-crest-hill"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "Man killed, 4 injured in shooting in Crest Hill",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23204291/man-killed-4-injured-in-shooting-in-crest-hill"
+    },
+    {
+      "text": "Kade Heather",
+      "url": "https://chicago.suntimes.com/authors/kade-heather"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23204005/condoleezza-rice-joins-broncos-ownership-group"
+    },
+    {
+      "text": "NFL",
+      "url": "https://chicago.suntimes.com/nfl"
+    },
+    {
+      "text": "Condoleezza Rice joins Broncos ownership group",
+      "url": "https://chicago.suntimes.com/2022/7/11/23204005/condoleezza-rice-joins-broncos-ownership-group"
+    },
+    {
+      "text": "Associated Press",
+      "url": "https://chicago.suntimes.com/authors/associated-press"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/education/2022/7/11/23203803/northwestern-president-elect-rebecca-blank-steps-down-cancer-diagnosis"
+    },
+    {
+      "text": "Education",
+      "url": "https://chicago.suntimes.com/education"
+    },
+    {
+      "text": "Northwestern president-elect steps down after cancer diagnosis",
+      "url": "https://chicago.suntimes.com/education/2022/7/11/23203803/northwestern-president-elect-rebecca-blank-steps-down-cancer-diagnosis"
+    },
+    {
+      "text": "Nader Issa",
+      "url": "https://chicago.suntimes.com/authors/nader-issa"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/sports/2022/7/11/23203760/combo-house-and-high-school-gym-for-sale-in-indiana"
+    },
+    {
+      "text": "High School Basketball",
+      "url": "https://chicago.suntimes.com/high-school-basketball"
+    },
+    {
+      "text": "Combo house and high school gym for sale in Indiana",
+      "url": "https://chicago.suntimes.com/sports/2022/7/11/23203760/combo-house-and-high-school-gym-for-sale-in-indiana"
+    },
+    {
+      "text": "Highland Park parade mass murder suspect Robert E. Crimo III through people who knew him, police reports",
+      "url": "https://chicago.suntimes.com/2022/7/9/23201114/highland-park-parade-mass-shooting-robert-crimo-ethan-absler-denise-pesina-jeremy-cahnmann"
+    },
+    {
+      "text": "Seven people shot in downtown Chicago over three hours early Sunday, including four in an attack in River North",
+      "url": "https://chicago.suntimes.com/crime/2022/7/10/23202748/seven-people-shot-downtown-chicago-river-north-violence"
+    },
+    {
+      "text": "Horror on the Fourth: Suspect in custody after 6 killed, dozens wounded at Highland Park Fourth of July parade",
+      "url": "https://chicago.suntimes.com/2022/7/4/23194354/highland-park-fourth-july-parade-gunfire"
+    },
+    {
+      "text": "Cooper Roberts, boy, 8, paralyzed in Highland Park mass shooting, improving, wants to see twin Luke, dog George",
+      "url": "https://chicago.suntimes.com/2022/7/8/23200788/highland-park-parade-mass-shooting-cooper-roberts-improving"
+    },
+    {
+      "text": "Highland Park parade shooting has left 8-year-old Cooper Roberts with severed spinal cord",
+      "url": "https://chicago.suntimes.com/2022/7/7/23198901/highland-park-parade-mass-shooting-cooper-roberts-keely-fourth-july"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203728/roger-federer-falls-out-of-tennis-rankings-for-first-time-since-1997"
+    },
+    {
+      "text": "Tennis",
+      "url": "https://chicago.suntimes.com/tennis"
+    },
+    {
+      "text": "Roger Federer falls out of tennis rankings for first time since 1997",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203728/roger-federer-falls-out-of-tennis-rankings-for-first-time-since-1997"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203715/wayne-rooney-agrees-to-coach-dc-united"
+    },
+    {
+      "text": "Soccer",
+      "url": "https://chicago.suntimes.com/soccer"
+    },
+    {
+      "text": "Wayne Rooney agrees to coach D.C. United",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203715/wayne-rooney-agrees-to-coach-dc-united"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23203604/man-shot-killed-while-walking-dog-west-englewood"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "Man shot and killed while walking dog in West Englewood, police say",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23203604/man-shot-killed-while-walking-dog-west-englewood"
+    },
+    {
+      "text": "Sun-Times Wire",
+      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23203597/man-killed-englewood-shooting"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "Man killed in Englewood shooting",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23203597/man-killed-englewood-shooting"
+    },
+    {
+      "text": "Sun-Times Wire",
+      "url": "https://chicago.suntimes.com/authors/sun-times-wire"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23203471/south-loop-carjacking-shootout-river-north-mass-shooting-chicago-police"
+    },
+    {
+      "text": "Crime",
+      "url": "https://chicago.suntimes.com/crime"
+    },
+    {
+      "text": "Downtown, another weekend of violence: \u2018Everyone in the community is extremely distressed\u2019",
+      "url": "https://chicago.suntimes.com/crime/2022/7/11/23203471/south-loop-carjacking-shootout-river-north-mass-shooting-chicago-police"
+    },
+    {
+      "text": "Fran Spielman",
+      "url": "https://chicago.suntimes.com/authors/fran-spielman"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203003/dear-abby-a-marriage-sours-as-husbands-fuse-suddenly-shortens"
+    },
+    {
+      "text": "Dear Abby",
+      "url": "https://chicago.suntimes.com/dear-abby"
+    },
+    {
+      "text": "Dear Abby: A marriage sours as husband\u2019s fuse suddenly shortens",
+      "url": "https://chicago.suntimes.com/2022/7/11/23203003/dear-abby-a-marriage-sours-as-husbands-fuse-suddenly-shortens"
+    },
+    {
+      "text": "Abigail Van Buren",
+      "url": "https://chicago.suntimes.com/authors/abigail-van-buren"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23202775/first-muskie-catching-late-life-carries-special-meaning-earns-fish-of-the-week"
+    },
+    {
+      "text": "Outdoors",
+      "url": "https://chicago.suntimes.com/outdoors"
+    },
+    {
+      "text": "Catching a first muskie late in life carries special meaning and this one earns Fish of the Week",
+      "url": "https://chicago.suntimes.com/2022/7/11/23202775/first-muskie-catching-late-life-carries-special-meaning-earns-fish-of-the-week"
+    },
+    {
+      "text": "Dale Bowman",
+      "url": "https://chicago.suntimes.com/authors/dale-bowman"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n\n        \n    \n\n    \n    \n        \n    \n            \n\n    \n\n    \n        \n\n    \n\n\n    \n    \n    \n\n\n\n\n",
+      "url": "https://chicago.suntimes.com/2022/7/11/23199726/developers-revive-suburban-corporate-campuses-hoffman-estates-oak-brook-chicago-enterprise"
+    },
+    {
+      "text": "Chicago Enterprise",
+      "url": "https://chicago.suntimes.com/chicago-enterprise"
+    },
+    {
+      "text": "Developers try new tacks to rescue suburban corporate paradises",
+      "url": "https://chicago.suntimes.com/2022/7/11/23199726/developers-revive-suburban-corporate-campuses-hoffman-estates-oak-brook-chicago-enterprise"
+    },
+    {
+      "text": "David Roeder",
+      "url": "https://chicago.suntimes.com/authors/david-roeder"
+    },
+    {
+      "text": "More Stories",
+      "url": "?p=2"
+    },
+    {
+      "text": "\n    \n        \n    \n    ",
+      "url": "/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://chicago.suntimes.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://chicago.suntimes.com/legal/privacy-notice"
+    },
+    {
+      "text": "Cookie Policy",
+      "url": "https://chicago.suntimes.com/legal/cookie-policy"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://chicago.suntimes.com/pages/contact-us"
+    },
+    {
+      "text": "Masthead",
+      "url": "https://chicago.suntimes.com/pages/masthead"
+    },
+    {
+      "text": "Terms of Sale",
+      "url": "https://chicago.suntimes.com/pages/terms-of-sale"
+    }
+  ],
+  "uniq": 926551404,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

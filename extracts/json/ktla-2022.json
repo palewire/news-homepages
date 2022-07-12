@@ -1,5 +1,5 @@
 {
-  "created": 1657455190,
+  "created": 1657628219,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/0/items/ktla-2022",
@@ -8772,31 +8772,283 @@
       "sha1": "68708fb57eea665a8abf198ebca21536d31424a4"
     },
     {
+      "name": "ktla-2022-07-10T06:43:46.619270-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657460630",
+      "size": "44889",
+      "md5": "7b3c2e77f9e441b15f0fe0255227c4c0",
+      "crc32": "430d2b5b",
+      "sha1": "3baa6027d6f050e8bd52a4491eb41ebf9d49c06f",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-10T06:43:46.619270-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657460632",
+      "size": "74359",
+      "md5": "f9ff1d3fe53f6e9e93631fb79545093a",
+      "crc32": "4a204676",
+      "sha1": "0009fc2d5bd58904efba8c8a9b394ed7788a2aa0",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-10T06:43:46.619270-07:00.jpg",
+      "source": "original",
+      "mtime": "1657460628",
+      "size": "339416",
+      "md5": "bd0a4dd934b54250ea0f14df4c1f738b",
+      "crc32": "6cfb7da9",
+      "sha1": "1c6f08a8f6050a5b9c2caebb637554e7f6e7576a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ktla-2022-07-10T06:43:46.619270-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ktla-2022-07-10T06:43:46.619270-07:00.jpg",
+      "mtime": "1657460690",
+      "size": "10751",
+      "md5": "553bc6aa46f79360abd0817afa1d9331",
+      "crc32": "30023d63",
+      "sha1": "3c4adc15f69ed8a4d7b95e15afc80193cac72e42"
+    },
+    {
+      "name": "ktla-2022-07-10T11:18:43.039192-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657477128",
+      "size": "44670",
+      "md5": "29da358211253faad833f60baa52f66d",
+      "crc32": "79919707",
+      "sha1": "58dcc42a43e6fd5cf224a598b1f5c89e896a330c",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-10T11:18:43.039192-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657477131",
+      "size": "74078",
+      "md5": "ccf672a41cc682d360b669a3ebc2148b",
+      "crc32": "0d41058f",
+      "sha1": "03fcdf1c299d39e2db715ff0334a866bab20039f",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-10T11:18:43.039192-07:00.jpg",
+      "source": "original",
+      "mtime": "1657477125",
+      "size": "321328",
+      "md5": "bc48ba2465f679e0c34a80a4b2a32fcb",
+      "crc32": "57eac3a4",
+      "sha1": "0dc308935c596ab42ed4fbeca7e98e7236513d21",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ktla-2022-07-10T11:18:43.039192-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ktla-2022-07-10T11:18:43.039192-07:00.jpg",
+      "mtime": "1657477265",
+      "size": "10372",
+      "md5": "6d18bf8ceb0a1706e87870e5ea93d4a4",
+      "crc32": "135dead9",
+      "sha1": "dc3e114ec4d413707950930fe90a777729c38a61"
+    },
+    {
+      "name": "ktla-2022-07-10T19:08:41.395926-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657505328",
+      "size": "44312",
+      "md5": "59b99537e7730a2d51e35fc8dc493c5f",
+      "crc32": "763249c9",
+      "sha1": "e7cde922c91a4722507dde1b05ac64d457b8b81f",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-10T19:08:41.395926-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505331",
+      "size": "74753",
+      "md5": "c279a7d2993bee9a246467a822523abb",
+      "crc32": "42af6ea0",
+      "sha1": "b10bf9191b6edae675ee12f5fd08a5a4c695f8fd",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-10T19:08:41.395926-07:00.jpg",
+      "source": "original",
+      "mtime": "1657505327",
+      "size": "318996",
+      "md5": "f78c89f87dd5b37ec6c8414d6de90f92",
+      "crc32": "41c49192",
+      "sha1": "3bc60ac13c425e43c6dd3ba09c56d55d0961d125",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ktla-2022-07-10T19:08:41.395926-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ktla-2022-07-10T19:08:41.395926-07:00.jpg",
+      "mtime": "1657505383",
+      "size": "10314",
+      "md5": "0035fed94ff550aec37c2c069b5e0133",
+      "crc32": "ea3b079c",
+      "sha1": "75aa789bb0561eaf82bb2bfc6e681fcd3a377eed"
+    },
+    {
+      "name": "ktla-2022-07-11T08:39:18.351571-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657553962",
+      "size": "43827",
+      "md5": "2b6af2c6ef00854519a641c7081ef6b6",
+      "crc32": "ba5c2a09",
+      "sha1": "caaada44f72a8acda801f6d3fc2c23b2070d07a7",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-11T08:39:18.351571-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657553965",
+      "size": "74774",
+      "md5": "c7cbf199977337d438fa6fa87e8393b4",
+      "crc32": "6dce60ac",
+      "sha1": "c436f44fb5d0fa3bdf6289cf30627766a9879ac4",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-11T08:39:18.351571-07:00.jpg",
+      "source": "original",
+      "mtime": "1657553960",
+      "size": "348001",
+      "md5": "f8a904b061018fdcf77749a2fc0cb3bb",
+      "crc32": "75cd0fee",
+      "sha1": "d566faafcc903bbbe6935c1b6e28c21ea540c6a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ktla-2022-07-11T08:39:18.351571-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ktla-2022-07-11T08:39:18.351571-07:00.jpg",
+      "mtime": "1657554074",
+      "size": "10841",
+      "md5": "8522de88f07c795ded108b43579ba8d2",
+      "crc32": "82aa4dae",
+      "sha1": "b0c796699cd12be789390f3099a630fa9f329c60"
+    },
+    {
+      "name": "ktla-2022-07-11T12:24:36.170774-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657567481",
+      "size": "42961",
+      "md5": "eb3854770511889716107d6dd1b7b39d",
+      "crc32": "e4c5bbc0",
+      "sha1": "b8dd03b9df2b2f388592469c80150c8cb94726b2",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-11T12:24:36.170774-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657567483",
+      "size": "74919",
+      "md5": "3c71caa98f639b2c3209b111606f6045",
+      "crc32": "efc67402",
+      "sha1": "ac1656614b595eeb3ea2a4bd3c764e16c13958d4",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-11T12:24:36.170774-07:00.jpg",
+      "source": "original",
+      "mtime": "1657567479",
+      "size": "331968",
+      "md5": "3e8d9030766628c52bc01018705a33f8",
+      "crc32": "fc0316c0",
+      "sha1": "2078f0ea346ca62b0ab1c09f77fb2719d44c9f3e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ktla-2022-07-11T12:24:36.170774-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ktla-2022-07-11T12:24:36.170774-07:00.jpg",
+      "mtime": "1657567929",
+      "size": "10698",
+      "md5": "35ae571a788bfe30b824493fce3f9320",
+      "crc32": "c0ad6e11",
+      "sha1": "9c8a71a306090109e4386b5d0bc8aa60ee8f3efa"
+    },
+    {
+      "name": "ktla-2022-07-11T19:09:27.693021-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657591779",
+      "size": "44672",
+      "md5": "6d2ecfa7293e53349cb04ea2cf50fe9b",
+      "crc32": "93b88b11",
+      "sha1": "1994c83cad7c669d00e6dc70213e914e032f9d8d",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-11T19:09:27.693021-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657591781",
+      "size": "75541",
+      "md5": "b9c333567d5f78d56273b4a45a2e070d",
+      "crc32": "f93d6121",
+      "sha1": "05e65b97aac9f2f0d8fd5dbdc33757f2e7d08bf5",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-07-11T19:09:27.693021-07:00.jpg",
+      "source": "original",
+      "mtime": "1657591775",
+      "size": "334078",
+      "md5": "184454aee6cc1eef86153b8ba0f0ac12",
+      "crc32": "f519a362",
+      "sha1": "1879d2fce79da4e83fe0d49bd44e3e403fdfacb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ktla-2022-07-11T19:09:27.693021-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ktla-2022-07-11T19:09:27.693021-07:00.jpg",
+      "mtime": "1657591838",
+      "size": "10652",
+      "md5": "ad0beceb6397c30ea97b0698b00ac1d2",
+      "crc32": "8cd6ab2e",
+      "sha1": "01fe9d44d8023e490519e95f7ea5bee414be8c12"
+    },
+    {
       "name": "ktla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a421cbfd76a438913127ca470f4040f9c6cfaa75",
-      "mtime": "1657418952",
-      "size": "174957",
-      "md5": "5390beae7ae045af2e1bbc840ae25f56",
-      "crc32": "7db7930a",
-      "sha1": "b94f6f3e02b6c6ef372f334dae6b9445552055f2",
+      "btih": "7feab50a1607fdcf27fedfce98292ebdbd8128d7",
+      "mtime": "1657591847",
+      "size": "179961",
+      "md5": "10acbaa4839b8c984c715ff5db2d74f9",
+      "crc32": "87964da9",
+      "sha1": "31cc76cb303dfc66e246c65991b747af1dfe0234",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ktla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc42790ee093feef2b37eb8c7e36b92e",
+      "md5": "33b37f6b18cfc4fea8f1886eba242b1c",
       "summation": "md5"
     },
     {
       "name": "ktla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657418892",
-      "size": "966656",
-      "md5": "10a15b4b99fbfb806c3eaf36d4e953b4",
-      "crc32": "1468270a",
-      "sha1": "12bfd4afb35856f4859eaaceb956594585aa50ba",
+      "mtime": "1657591785",
+      "size": "991232",
+      "md5": "bccbb7875d6461ca2088add327d75df4",
+      "crc32": "a3850f47",
+      "sha1": "5797e04cf69d3147a155fd4c32ab8a4537d76fd3",
       "format": "Metadata"
     },
     {
@@ -8810,9 +9062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 839,
-  "item_last_updated": 1657418952,
-  "item_size": 96001878,
+  "files_count": 863,
+  "item_last_updated": 1657591847,
+  "item_size": 98802628,
   "ktla-2022": [
     {
       "text": "Skip to content",
@@ -8823,7 +9075,7 @@
       "url": "https://ktla.com/"
     },
     {
-      "text": "\n\t\t\tLos Angeles\n\t\t\t\n\t\t\t\t76\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
+      "text": "\n\t\t\tLos Angeles\n\t\t\t\n\t\t\t\t73\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
       "url": "https://ktla.com/weather/"
     },
     {
@@ -8835,7 +9087,7 @@
       "url": "https://ktla.com/"
     },
     {
-      "text": "\n\t\t\tLos Angeles\n\t\t\t\n\t\t\t\t76\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
+      "text": "\n\t\t\tLos Angeles\n\t\t\t\n\t\t\t\t73\u00b0\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
       "url": "https://ktla.com/weather/"
     },
     {
@@ -8944,51 +9196,51 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
+      "url": "https://ktla.com/news/local-news/yellowstone-actress-qorianka-kilcher-charged-in-l-a-with-workers-compensation-fraud/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tVideo: Driver sprays another motorist with bear spray\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
+      "text": "\n\t\t\t\n\t\t\t\u2018Yellowstone\u2019 actress accused of workers\u2019 comp fraud\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/yellowstone-actress-qorianka-kilcher-charged-in-l-a-with-workers-compensation-fraud/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
+      "url": "https://ktla.com/news/local-news/yellowstone-actress-qorianka-kilcher-charged-in-l-a-with-workers-compensation-fraud/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/san-jacinto-man-arrested-accused-of-manufacturing-ghost-guns/"
+      "url": "https://ktla.com/news/nationworld/white-house-says-hospitals-doctors-must-give-abortions-in-emergencies/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tSan Jacinto man arrested, accused of manufacturing\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/san-jacinto-man-arrested-accused-of-manufacturing-ghost-guns/"
+      "text": "\n\t\t\t\n\t\t\tWhite House: Doctors must do abortions in emergencies\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/white-house-says-hospitals-doctors-must-give-abortions-in-emergencies/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/local-news/san-jacinto-man-arrested-accused-of-manufacturing-ghost-guns/"
+      "url": "https://ktla.com/news/nationworld/white-house-says-hospitals-doctors-must-give-abortions-in-emergencies/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/man-fatally-shot-in-wilmington-lapd/"
+      "url": "https://ktla.com/news/politics/orourke-hits-abbott-over-request-for-texans-to-cut-energy-use-amid-heat-wave/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tMan fatally shot in Wilmington: LAPD\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/man-fatally-shot-in-wilmington-lapd/"
+      "text": "\n\t\t\t\n\t\t\tO\u2019Rourke hits Abbott over ask for Texans to cut energy\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/politics/orourke-hits-abbott-over-request-for-texans-to-cut-energy-use-amid-heat-wave/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/local-news/man-fatally-shot-in-wilmington-lapd/"
+      "url": "https://ktla.com/news/politics/orourke-hits-abbott-over-request-for-texans-to-cut-energy-use-amid-heat-wave/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/sequoia-trees-threatened-by-wildfire-in-yosemite/"
+      "url": "https://ktla.com/news/nationworld/j-6-panel-shifts-focus-to-trump-tweet-heard-around-the-world/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tSequoia trees threatened by wildfire in Yosemite\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/sequoia-trees-threatened-by-wildfire-in-yosemite/"
+      "text": "\n\t\t\t\n\t\t\tJan. 6 panel shifts focus to Trump tweet\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/j-6-panel-shifts-focus-to-trump-tweet-heard-around-the-world/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/sequoia-trees-threatened-by-wildfire-in-yosemite/"
+      "url": "https://ktla.com/news/nationworld/j-6-panel-shifts-focus-to-trump-tweet-heard-around-the-world/"
     },
     {
       "text": "Shows",
@@ -9424,15 +9676,15 @@
     },
     {
       "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tTop Story\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/3-killed-4-injured-in-fiery-crash-in-orange/"
+      "url": "https://ktla.com/news/local-news/7-eleven-clerk-fatally-shot-during-robbery-in-brea-incident-may-be-tied-to-similar-crime-in-la-habra/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/3-killed-4-injured-in-fiery-crash-in-orange/"
+      "url": "https://ktla.com/news/local-news/7-eleven-clerk-fatally-shot-during-robbery-in-brea-incident-may-be-tied-to-similar-crime-in-la-habra/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t3 killed, 4 injured in fiery crash in Orange\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/3-killed-4-injured-in-fiery-crash-in-orange/"
+      "text": "\n\t\t\t\n\t\t\t2 dead, 3 injured in string of 7-Eleven robberies\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/7-eleven-clerk-fatally-shot-during-robbery-in-brea-incident-may-be-tied-to-similar-crime-in-la-habra/"
     },
     {
       "text": "Local news",
@@ -9440,15 +9692,15 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/3-killed-4-injured-in-fiery-crash-in-orange/"
+      "url": "https://ktla.com/news/local-news/7-eleven-clerk-fatally-shot-during-robbery-in-brea-incident-may-be-tied-to-similar-crime-in-la-habra/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/lbpd-armed-man-on-rooftop-killed-by-police/"
+      "url": "https://ktla.com/news/local-news/olympian-kim-glass-attacked-hit-with-metal-pipe-in-downtown-l-a/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tLBPD: Armed man on rooftop killed by police\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/lbpd-armed-man-on-rooftop-killed-by-police/"
+      "text": "\n\t\t\t\n\t\t\tOlympian Kim Glass attacked with metal pipe in L.A.\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/olympian-kim-glass-attacked-hit-with-metal-pipe-in-downtown-l-a/"
     },
     {
       "text": "Local news",
@@ -9456,31 +9708,15 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/lbpd-armed-man-on-rooftop-killed-by-police/"
+      "url": "https://ktla.com/news/local-news/olympian-kim-glass-attacked-hit-with-metal-pipe-in-downtown-l-a/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/national-lifeguard-shortage-puts-strain-on-local-pools/"
+      "url": "https://ktla.com/news/local-news/yellowstone-actress-qorianka-kilcher-charged-in-l-a-with-workers-compensation-fraud/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tLifeguard shortage puts strain on SoCal pools\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/national-lifeguard-shortage-puts-strain-on-local-pools/"
-    },
-    {
-      "text": "Local news",
-      "url": "https://ktla.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/national-lifeguard-shortage-puts-strain-on-local-pools/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/arrest-made-after-person-found-shot-dead-in-camper-in-north-hollywood/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tArrest made in NoHo camper killing\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/arrest-made-after-person-found-shot-dead-in-camper-in-north-hollywood/"
+      "text": "\n\t\t\t\n\t\t\t\u2018Yellowstone\u2019 actress accused of workers\u2019 comp fraud\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/yellowstone-actress-qorianka-kilcher-charged-in-l-a-with-workers-compensation-fraud/"
     },
     {
       "text": "Local news",
@@ -9488,163 +9724,15 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/arrest-made-after-person-found-shot-dead-in-camper-in-north-hollywood/"
-    },
-    {
-      "text": "\n\t\t\n\t\tMore top stories\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/"
+      "url": "https://ktla.com/news/local-news/yellowstone-actress-qorianka-kilcher-charged-in-l-a-with-workers-compensation-fraud/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/california/california-bad-for-singles-no-california-cities-make-the-cut-in-new-survey/"
+      "url": "https://ktla.com/news/nationworld/pregnant-woman-cited-for-hov-violation-says-fetus-should-count-as-passenger-in-texas/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tCalifornia not the place for singles, survey says\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/california/california-bad-for-singles-no-california-cities-make-the-cut-in-new-survey/"
-    },
-    {
-      "text": "California",
-      "url": "https://ktla.com/news/california/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/california/california-bad-for-singles-no-california-cities-make-the-cut-in-new-survey/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/six-flags-magic-mountain-to-debut-record-breaking-wonder-woman-coaster/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWonder Woman coaster to debut at Magic Mountain\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/six-flags-magic-mountain-to-debut-record-breaking-wonder-woman-coaster/"
-    },
-    {
-      "text": "Local news",
-      "url": "https://ktla.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/local-news/six-flags-magic-mountain-to-debut-record-breaking-wonder-woman-coaster/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/boyle-heights-ready-to-celebrate-grand-opening-of-new-6th-street-bridge/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tBoyle Heights ready to open new 6th Street Bridge\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/boyle-heights-ready-to-celebrate-grand-opening-of-new-6th-street-bridge/"
-    },
-    {
-      "text": "Local news",
-      "url": "https://ktla.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/local-news/boyle-heights-ready-to-celebrate-grand-opening-of-new-6th-street-bridge/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/man-in-custody-after-axe-wielding-suspect-seen-on-video-damaging-malibu-homes-vehicles/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t1 in custody after axe-wielding man damages homes\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/man-in-custody-after-axe-wielding-suspect-seen-on-video-damaging-malibu-homes-vehicles/"
-    },
-    {
-      "text": "Local news",
-      "url": "https://ktla.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/local-news/man-in-custody-after-axe-wielding-suspect-seen-on-video-damaging-malibu-homes-vehicles/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/everything-blew-up-on-me-woman-injured-after-explosive-device-thrown-into-anaheim-home/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWoman injured in O.C. explosion\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/everything-blew-up-on-me-woman-injured-after-explosive-device-thrown-into-anaheim-home/"
-    },
-    {
-      "text": "Local news",
-      "url": "https://ktla.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/local-news/everything-blew-up-on-me-woman-injured-after-explosive-device-thrown-into-anaheim-home/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/draft-these-california-areas-havent-recorded-100-degree-temps-ever/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tThese CA areas haven\u2019t ever recorded 100 degree temps\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/draft-these-california-areas-havent-recorded-100-degree-temps-ever/"
-    },
-    {
-      "text": "News",
-      "url": "https://ktla.com/news/"
-    },
-    {
-      "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/draft-these-california-areas-havent-recorded-100-degree-temps-ever/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tVideo: Driver sprays another motorist with bear spray\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
-    },
-    {
-      "text": "Local news",
-      "url": "https://ktla.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/vehicle-possibly-involved-in-apple-valley-hit-and-run-crash-that-killed-2-children-located/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tVehicle involved in ATV hit-and-run found\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/vehicle-possibly-involved-in-apple-valley-hit-and-run-crash-that-killed-2-children-located/"
-    },
-    {
-      "text": "Local news",
-      "url": "https://ktla.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/vehicle-possibly-involved-in-apple-valley-hit-and-run-crash-that-killed-2-children-located/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/san-jacinto-man-arrested-accused-of-manufacturing-ghost-guns/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tSan Jacinto man arrested, accused of manufacturing\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/san-jacinto-man-arrested-accused-of-manufacturing-ghost-guns/"
-    },
-    {
-      "text": "Local news",
-      "url": "https://ktla.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/san-jacinto-man-arrested-accused-of-manufacturing-ghost-guns/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/nationworld/sopranos-actor-tony-sirico-dies-at-79-reports-say/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\u2018Sopranos\u2019 actor Tony Sirico dies at 79: reports\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/nationworld/sopranos-actor-tony-sirico-dies-at-79-reports-say/"
+      "text": "\n\t\t\t\n\t\t\tWoman cited for HOV violation says fetus was passenger\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/pregnant-woman-cited-for-hov-violation-says-fetus-should-count-as-passenger-in-texas/"
     },
     {
       "text": "Nation/world",
@@ -9652,59 +9740,115 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/nationworld/sopranos-actor-tony-sirico-dies-at-79-reports-say/"
+      "url": "https://ktla.com/news/nationworld/pregnant-woman-cited-for-hov-violation-says-fetus-should-count-as-passenger-in-texas/"
     },
     {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/man-fatally-shot-in-wilmington-lapd/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tMan fatally shot in Wilmington: LAPD\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/man-fatally-shot-in-wilmington-lapd/"
-    },
-    {
-      "text": "Local news",
-      "url": "https://ktla.com/news/local-news/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/man-fatally-shot-in-wilmington-lapd/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/o-c-jail-escape-leads-to-20-year-sentence-for-inmate/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tO.C. jail escape leads to 20-year sentence for inmate\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/o-c-jail-escape-leads-to-20-year-sentence-for-inmate/"
-    },
-    {
-      "text": "News",
+      "text": "\n\t\t\n\t\tMore top stories\n\t\t\t\t\t",
       "url": "https://ktla.com/news/"
     },
     {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/o-c-jail-escape-leads-to-20-year-sentence-for-inmate/"
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/nationworld/biden-to-reveal-first-image-from-nasas-new-space-telescope/"
     },
     {
-      "text": "When You Eat Oatmeal Every Day, This Is What Happens",
-      "url": "https://rtb-use.mfadsrvr.com/click/r2zgxFTaMQ5cKrBH9E4DCnZB4_DAQ59t0apapxRUHeMHmkSIdEsp8IpX0JazESPFixwhZZYJUMZaK3s5Lwegij-_xyB1iZEePZ2-DcRdKvifpR1INK2qUOlhpXLWnb4QNqtYIzNJlj0-fWt98gXJeILE0r2K836aKIUpeZgmZIqHyfTHU-li0sQx5yign-PnIKQciLBi8DYIVSLSeS17zQAl2XYJiqa1QJ-GQvUZimQGonbXi8_ogPq1SrsDqinNEVcg3ge9ytoJENG-B9NUecb7TGQRIlyhiVOj5ABttbETaJ_ZCrgt///?lp_domain=www2.thegutrehab.com"
+      "text": "\n\t\t\t\n\t\t\tSee the deepest view of the universe, thanks to NASA\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/biden-to-reveal-first-image-from-nasas-new-space-telescope/"
     },
     {
-      "text": "GundryMD",
-      "url": "https://rtb-use.mfadsrvr.com/click/r2zgxFTaMQ5cKrBH9E4DCnZB4_DAQ59t0apapxRUHeMHmkSIdEsp8IpX0JazESPFixwhZZYJUMZaK3s5Lwegij-_xyB1iZEePZ2-DcRdKvifpR1INK2qUOlhpXLWnb4QNqtYIzNJlj0-fWt98gXJeILE0r2K836aKIUpeZgmZIqHyfTHU-li0sQx5yign-PnIKQciLBi8DYIVSLSeS17zQAl2XYJiqa1QJ-GQvUZimQGonbXi8_ogPq1SrsDqinNEVcg3ge9ytoJENG-B9NUecb7TGQRIlyhiVOj5ABttbETaJ_ZCrgt///?lp_domain=www2.thegutrehab.com"
+      "text": "Nation/world",
+      "url": "https://ktla.com/news/nationworld/"
     },
     {
-      "text": "\n        \n          \n            \n          \n        \n      ",
-      "url": "https://rtb-use.mfadsrvr.com/click/r2zgxFTaMQ5cKrBH9E4DCnZB4_DAQ59t0apapxRUHeMHmkSIdEsp8IpX0JazESPFixwhZZYJUMZaK3s5Lwegij-_xyB1iZEePZ2-DcRdKvifpR1INK2qUOlhpXLWnb4QNqtYIzNJlj0-fWt98gXJeILE0r2K836aKIUpeZgmZIqHyfTHU-li0sQx5yign-PnIKQciLBi8DYIVSLSeS17zQAl2XYJiqa1QJ-GQvUZimQGonbXi8_ogPq1SrsDqinNEVcg3ge9ytoJENG-B9NUecb7TGQRIlyhiVOj5ABttbETaJ_ZCrgt///?lp_domain=www2.thegutrehab.com"
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://ktla.com/news/nationworld/biden-to-reveal-first-image-from-nasas-new-space-telescope/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/report-riverside-county-failed-turpin-children/"
+      "url": "https://ktla.com/news/local-news/weho-deputies-spot-arrest-pickpocket-suspects-recover-17-stolen-cellphones/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tReport: Riverside County failed Turpin children\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/report-riverside-county-failed-turpin-children/"
+      "text": "\n\t\t\t\n\t\t\tWeHo deputies spot pickpocket suspects, recover phones\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/weho-deputies-spot-arrest-pickpocket-suspects-recover-17-stolen-cellphones/"
+    },
+    {
+      "text": "Local news",
+      "url": "https://ktla.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://ktla.com/news/local-news/weho-deputies-spot-arrest-pickpocket-suspects-recover-17-stolen-cellphones/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/california/watch-sea-lions-chase-california-beachgoers/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWatch: Sea lions chase La Jolla beachgoers\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/california/watch-sea-lions-chase-california-beachgoers/"
+    },
+    {
+      "text": "California",
+      "url": "https://ktla.com/news/california/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://ktla.com/news/california/watch-sea-lions-chase-california-beachgoers/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/local-news/robbers-take-60k-rolex-in-rowland-heights-lasd/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tRobbers take $60K Rolex in Rowland Heights: LASD\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/robbers-take-60k-rolex-in-rowland-heights-lasd/"
+    },
+    {
+      "text": "Local news",
+      "url": "https://ktla.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://ktla.com/news/local-news/robbers-take-60k-rolex-in-rowland-heights-lasd/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/local-news/history-in-the-making-socal-residents-wowed-by-new-6th-street-bridge/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tSoCal residents wowed by new 6th Street Bridge\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/history-in-the-making-socal-residents-wowed-by-new-6th-street-bridge/"
+    },
+    {
+      "text": "Local news",
+      "url": "https://ktla.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://ktla.com/news/local-news/history-in-the-making-socal-residents-wowed-by-new-6th-street-bridge/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/nationworld/what-you-should-know-about-prime-day-2022-july-12-13/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWhat to know about Prime Day 2022\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/what-you-should-know-about-prime-day-2022-july-12-13/"
+    },
+    {
+      "text": "Nation/world",
+      "url": "https://ktla.com/news/nationworld/"
+    },
+    {
+      "text": "\n\t\n\t\n\n\t\t\t",
+      "url": "https://ktla.com/news/nationworld/what-you-should-know-about-prime-day-2022-july-12-13/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/local-news/what-happened-to-the-california-missions-project-in-schools/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWhat happened to the CA missions project in schools?\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/what-happened-to-the-california-missions-project-in-schools/"
     },
     {
       "text": "Local news",
@@ -9712,15 +9856,31 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/report-riverside-county-failed-turpin-children/"
+      "url": "https://ktla.com/news/local-news/what-happened-to-the-california-missions-project-in-schools/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/california/from-illegal-to-haven-state-how-ca-abortion-laws-have-changed-from-1850-to-today/"
+      "url": "https://ktla.com/news/nationworld/slurpee-day-how-to-get-one-of-the-frozen-favorites-for-free/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tCA abortion laws from 1850 to today\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/california/from-illegal-to-haven-state-how-ca-abortion-laws-have-changed-from-1850-to-today/"
+      "text": "\n\t\t\t\n\t\t\tSlurpee Day: How to find the free frozen favorite\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/slurpee-day-how-to-get-one-of-the-frozen-favorites-for-free/"
+    },
+    {
+      "text": "Nation/world",
+      "url": "https://ktla.com/news/nationworld/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/slurpee-day-how-to-get-one-of-the-frozen-favorites-for-free/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/california/what-is-allowed-when-protesting-in-california/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWhat is allowed when protesting in California?\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/california/what-is-allowed-when-protesting-in-california/"
     },
     {
       "text": "California",
@@ -9728,15 +9888,95 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/california/from-illegal-to-haven-state-how-ca-abortion-laws-have-changed-from-1850-to-today/"
+      "url": "https://ktla.com/news/california/what-is-allowed-when-protesting-in-california/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/rapper-who-bragged-about-committing-covid-19-fraud-to-be-imprisoned-for-committing-covid-19-fraud/"
+      "url": "https://ktla.com/news/california/california-heat-builds-as-crews-protect-yosemite-sequoias-during-washburn-fire/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tL.A. rapper to plead guilty to defrauding EDD\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/rapper-who-bragged-about-committing-covid-19-fraud-to-be-imprisoned-for-committing-covid-19-fraud/"
+      "text": "\n\t\t\t\n\t\t\tCA heat builds as crews protect Yosemite sequoias\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/california/california-heat-builds-as-crews-protect-yosemite-sequoias-during-washburn-fire/"
+    },
+    {
+      "text": "California",
+      "url": "https://ktla.com/news/california/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/california/california-heat-builds-as-crews-protect-yosemite-sequoias-during-washburn-fire/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/nationworld/real-housewives-star-jen-shah-pleads-guilty-to-telemarketing-scheme/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\u2018Real Housewives\u2019 star pleads guilty in fraud case\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/real-housewives-star-jen-shah-pleads-guilty-to-telemarketing-scheme/"
+    },
+    {
+      "text": "Nation/world",
+      "url": "https://ktla.com/news/nationworld/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/real-housewives-star-jen-shah-pleads-guilty-to-telemarketing-scheme/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/nationworld/missing-6-year-old-boy-with-autism-found-dead-in-virginia/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tMissing 6-year-old boy with autism found dead in\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/missing-6-year-old-boy-with-autism-found-dead-in-virginia/"
+    },
+    {
+      "text": "Nation/world",
+      "url": "https://ktla.com/news/nationworld/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/missing-6-year-old-boy-with-autism-found-dead-in-virginia/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/nationworld/california-doc-proposes-floating-abortion-clinic-in-gulf-of-mexico-to-bypass-bans/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tCould a floating abortion clinic bypass bans?\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/california-doc-proposes-floating-abortion-clinic-in-gulf-of-mexico-to-bypass-bans/"
+    },
+    {
+      "text": "Nation/world",
+      "url": "https://ktla.com/news/nationworld/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/california-doc-proposes-floating-abortion-clinic-in-gulf-of-mexico-to-bypass-bans/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/entertainment/vintage-oscar-statuette-and-silent-film-era-posters-go-on-auction/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tVintage Oscar statuette, hundreds of silent film\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/vintage-oscar-statuette-and-silent-film-era-posters-go-on-auction/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://ktla.com/entertainment/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/vintage-oscar-statuette-and-silent-film-era-posters-go-on-auction/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tVideo: Driver sprays another motorist with bear spray\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
     },
     {
       "text": "Local news",
@@ -9744,7 +9984,23 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/rapper-who-bragged-about-committing-covid-19-fraud-to-be-imprisoned-for-committing-covid-19-fraud/"
+      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/local-news/average-gas-price-falls-19-cents-to-4-86-per-gallon/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tAverage for U.S. gas falls 19 cents to $4.86 a gallon\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/average-gas-price-falls-19-cents-to-4-86-per-gallon/"
+    },
+    {
+      "text": "Local news",
+      "url": "https://ktla.com/news/local-news/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/average-gas-price-falls-19-cents-to-4-86-per-gallon/"
     },
     {
       "text": "\n\t\t\n\t\tCalifornia\n\t\t\t\t\t",
@@ -9752,59 +10008,43 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/sequoia-trees-threatened-by-wildfire-in-yosemite/"
+      "url": "https://ktla.com/news/california/california-heat-builds-as-crews-protect-yosemite-sequoias-during-washburn-fire/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tSequoia trees threatened by wildfire in Yosemite\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/sequoia-trees-threatened-by-wildfire-in-yosemite/"
+      "text": "\n\t\t\t\n\t\t\tCA heat builds as crews protect Yosemite sequoias\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/california/california-heat-builds-as-crews-protect-yosemite-sequoias-during-washburn-fire/"
     },
     {
-      "text": "News",
-      "url": "https://ktla.com/news/"
+      "text": "California",
+      "url": "https://ktla.com/news/california/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/sequoia-trees-threatened-by-wildfire-in-yosemite/"
+      "url": "https://ktla.com/news/california/california-heat-builds-as-crews-protect-yosemite-sequoias-during-washburn-fire/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/california/california-bad-for-singles-no-california-cities-make-the-cut-in-new-survey/"
+      "url": "https://ktla.com/news/money-smart/need-your-car-fixed-good-luck-with-that/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tCalifornia not the place for singles, survey says\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/california/california-bad-for-singles-no-california-cities-make-the-cut-in-new-survey/"
+      "text": "\n\t\t\t\n\t\t\tNeed your car fixed? Good luck with that\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/money-smart/need-your-car-fixed-good-luck-with-that/"
     },
     {
-      "text": "California",
-      "url": "https://ktla.com/news/california/"
+      "text": "Personal Finance and Consumer News",
+      "url": "https://ktla.com/news/money-smart/"
     },
     {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/california/california-bad-for-singles-no-california-cities-make-the-cut-in-new-survey/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/california/why-cruising-in-california-is-getting-support-from-state-lawmakers/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tWhy cruising is getting support from CA lawmakers\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/california/why-cruising-in-california-is-getting-support-from-state-lawmakers/"
-    },
-    {
-      "text": "California",
-      "url": "https://ktla.com/news/california/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/california/why-cruising-in-california-is-getting-support-from-state-lawmakers/"
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/money-smart/need-your-car-fixed-good-luck-with-that/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/manson-follower-died-parole-for-1969-killings/"
+      "url": "https://ktla.com/news/local-news/what-happened-to-the-california-missions-project-in-schools/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tManson follower denied parole for 1969 killings\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/manson-follower-died-parole-for-1969-killings/"
+      "text": "\n\t\t\t\n\t\t\tWhat happened to the CA missions project in schools?\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/what-happened-to-the-california-missions-project-in-schools/"
     },
     {
       "text": "Local news",
@@ -9812,23 +10052,39 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/manson-follower-died-parole-for-1969-killings/"
+      "url": "https://ktla.com/news/local-news/what-happened-to-the-california-missions-project-in-schools/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/mandatory-evacuation-order-issued-for-wildfire-in-yosemite-national-park/"
+      "url": "https://ktla.com/news/california/what-is-allowed-when-protesting-in-california/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tMandatory evacuation order for wildfire near Yosemite\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/mandatory-evacuation-order-issued-for-wildfire-in-yosemite-national-park/"
+      "text": "\n\t\t\t\n\t\t\tWhat is allowed when protesting in California?\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/california/what-is-allowed-when-protesting-in-california/"
     },
     {
-      "text": "News",
-      "url": "https://ktla.com/news/"
+      "text": "California",
+      "url": "https://ktla.com/news/california/"
     },
     {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/mandatory-evacuation-order-issued-for-wildfire-in-yosemite-national-park/"
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/california/what-is-allowed-when-protesting-in-california/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/california/watch-sea-lions-chase-california-beachgoers/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWatch: Sea lions chase La Jolla beachgoers\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/california/watch-sea-lions-chase-california-beachgoers/"
+    },
+    {
+      "text": "California",
+      "url": "https://ktla.com/news/california/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/california/watch-sea-lions-chase-california-beachgoers/"
     },
     {
       "text": "\n\t\t\t\tMore California news\n\t\t\t\t\t\t\t",
@@ -9840,43 +10096,11 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/nationworld/ford-expands-recall-after-engine-fires-recommends-parking-outside/"
+      "url": "https://ktla.com/news/nationworld/white-house-says-hospitals-doctors-must-give-abortions-in-emergencies/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tFord expands recall after more engine fires\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/nationworld/ford-expands-recall-after-engine-fires-recommends-parking-outside/"
-    },
-    {
-      "text": "Nation/world",
-      "url": "https://ktla.com/news/nationworld/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/nationworld/ford-expands-recall-after-engine-fires-recommends-parking-outside/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/entertainment/what-is-booktok-here-are-15-of-tiktoks-most-recommended-books/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tTikTok\u2019s \u2018BookTok\u2019 community shares 15 popular titles\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/what-is-booktok-here-are-15-of-tiktoks-most-recommended-books/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://ktla.com/entertainment/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/what-is-booktok-here-are-15-of-tiktoks-most-recommended-books/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/nationworld/sopranos-actor-tony-sirico-dies-at-79-reports-say/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\u2018Sopranos\u2019 actor Tony Sirico dies at 79: reports\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/nationworld/sopranos-actor-tony-sirico-dies-at-79-reports-say/"
+      "text": "\n\t\t\t\n\t\t\tWhite House: Doctors must do abortions in emergencies\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/white-house-says-hospitals-doctors-must-give-abortions-in-emergencies/"
     },
     {
       "text": "Nation/world",
@@ -9884,15 +10108,15 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/nationworld/sopranos-actor-tony-sirico-dies-at-79-reports-say/"
+      "url": "https://ktla.com/news/nationworld/white-house-says-hospitals-doctors-must-give-abortions-in-emergencies/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/nationworld/elon-musk-tells-twitter-hes-ending-44b-bid-to-buy-social-network/"
+      "url": "https://ktla.com/news/nationworld/j-6-panel-shifts-focus-to-trump-tweet-heard-around-the-world/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tElon Musk tells Twitter he\u2019s ending bid to buy it\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/nationworld/elon-musk-tells-twitter-hes-ending-44b-bid-to-buy-social-network/"
+      "text": "\n\t\t\t\n\t\t\tJan. 6 panel shifts focus to Trump tweet\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/j-6-panel-shifts-focus-to-trump-tweet-heard-around-the-world/"
     },
     {
       "text": "Nation/world",
@@ -9900,15 +10124,15 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/nationworld/elon-musk-tells-twitter-hes-ending-44b-bid-to-buy-social-network/"
+      "url": "https://ktla.com/news/nationworld/j-6-panel-shifts-focus-to-trump-tweet-heard-around-the-world/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/nationworld/border-agents-used-unnecessary-force-against-migrants-at-rio-grande-report-finds/"
+      "url": "https://ktla.com/news/nationworld/biden-to-reveal-first-image-from-nasas-new-space-telescope/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tAgents used \u2018unnecessary\u2019 force against migrants\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/nationworld/border-agents-used-unnecessary-force-against-migrants-at-rio-grande-report-finds/"
+      "text": "\n\t\t\t\n\t\t\tSee the deepest view of the universe, thanks to NASA\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/biden-to-reveal-first-image-from-nasas-new-space-telescope/"
     },
     {
       "text": "Nation/world",
@@ -9916,7 +10140,39 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/nationworld/border-agents-used-unnecessary-force-against-migrants-at-rio-grande-report-finds/"
+      "url": "https://ktla.com/news/nationworld/biden-to-reveal-first-image-from-nasas-new-space-telescope/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/nationworld/real-housewives-star-jen-shah-pleads-guilty-to-telemarketing-scheme/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\u2018Real Housewives\u2019 star pleads guilty in fraud case\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/real-housewives-star-jen-shah-pleads-guilty-to-telemarketing-scheme/"
+    },
+    {
+      "text": "Nation/world",
+      "url": "https://ktla.com/news/nationworld/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/real-housewives-star-jen-shah-pleads-guilty-to-telemarketing-scheme/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/news/nationworld/pregnant-woman-cited-for-hov-violation-says-fetus-should-count-as-passenger-in-texas/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tWoman cited for HOV violation says fetus was passenger\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/pregnant-woman-cited-for-hov-violation-says-fetus-should-count-as-passenger-in-texas/"
+    },
+    {
+      "text": "Nation/world",
+      "url": "https://ktla.com/news/nationworld/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/nationworld/pregnant-woman-cited-for-hov-violation-says-fetus-should-count-as-passenger-in-texas/"
     },
     {
       "text": "\n\t\t\t\tMore national and world news\n\t\t\t\t\t\t\t",
@@ -9928,6 +10184,102 @@
     },
     {
       "text": "\n\t\t",
+      "url": "https://ktla.com/entertainment/jon-gabrus-and-adam-pally-reveal-why-they-arent-allowed-back-at-big-boi-from-outkasts-house/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tJon Gabrus and Adam Pally get paid to party\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/jon-gabrus-and-adam-pally-reveal-why-they-arent-allowed-back-at-big-boi-from-outkasts-house/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://ktla.com/entertainment/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/jon-gabrus-and-adam-pally-reveal-why-they-arent-allowed-back-at-big-boi-from-outkasts-house/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/entertainment/zibby-allen-talks-about-virgin-river-making-its-return-to-netflix/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tZibby Allen talks about \u2018Virgin River\u2019\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/zibby-allen-talks-about-virgin-river-making-its-return-to-netflix/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://ktla.com/entertainment/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/zibby-allen-talks-about-virgin-river-making-its-return-to-netflix/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/entertainment/rosie-odonnells-very-trippy-experience-returning-to-a-league-of-their-own-reboot/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tRosie O\u2019Donnell returns to \u2018A League of Their Own\u2019\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/rosie-odonnells-very-trippy-experience-returning-to-a-league-of-their-own-reboot/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://ktla.com/entertainment/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/rosie-odonnells-very-trippy-experience-returning-to-a-league-of-their-own-reboot/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/entertainment/george-takei-calls-howard-stern-an-asset-in-many-ways-on-social-issues/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tGeorge Takei\u2019s reason Howard Stern is an \u2018asset\u2019\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/george-takei-calls-howard-stern-an-asset-in-many-ways-on-social-issues/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://ktla.com/entertainment/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/george-takei-calls-howard-stern-an-asset-in-many-ways-on-social-issues/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/entertainment/you-can-actually-call-surfer-boy-pizza-from-stranger-things/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tYou can call Surfer Boy Pizza from \u2018Stranger Things\u2019\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/you-can-actually-call-surfer-boy-pizza-from-stranger-things/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://ktla.com/entertainment/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/you-can-actually-call-surfer-boy-pizza-from-stranger-things/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://ktla.com/entertainment/vintage-oscar-statuette-and-silent-film-era-posters-go-on-auction/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tVintage Oscar statuette, hundreds of silent film\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/vintage-oscar-statuette-and-silent-film-era-posters-go-on-auction/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://ktla.com/entertainment/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/vintage-oscar-statuette-and-silent-film-era-posters-go-on-auction/"
+    },
+    {
+      "text": "\n\t\t",
       "url": "https://ktla.com/entertainment/what-is-booktok-here-are-15-of-tiktoks-most-recommended-books/"
     },
     {
@@ -9943,44 +10295,16 @@
       "url": "https://ktla.com/entertainment/what-is-booktok-here-are-15-of-tiktoks-most-recommended-books/"
     },
     {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/entertainment/you-dont-have-to-hide-behind-the-smile-naturi-naughton-lewis-new-powerful-role-as-director/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tNaturi Naughton Lewis\u2019 new role is director\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/you-dont-have-to-hide-behind-the-smile-naturi-naughton-lewis-new-powerful-role-as-director/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://ktla.com/entertainment/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/you-dont-have-to-hide-behind-the-smile-naturi-naughton-lewis-new-powerful-role-as-director/"
+      "text": "\n\t\t\n\t\tPersonal Finance and Consumer News\n\t\t\t\t\t",
+      "url": "https://ktla.com/news/money-smart/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/entertainment/scott-movie-mantz-joins-us-to-discuss-minions-thor-star-trek-and-hallelujah/"
+      "url": "https://ktla.com/news/money-smart/need-your-car-fixed-good-luck-with-that/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tScott \u2018Movie\u2019 Mantz joins us to discuss \u2018Minions\u2019,\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/scott-movie-mantz-joins-us-to-discuss-minions-thor-star-trek-and-hallelujah/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://ktla.com/entertainment/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/scott-movie-mantz-joins-us-to-discuss-minions-thor-star-trek-and-hallelujah/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/money-smart/should-crappy-movies-cost-less-to-see-yes/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tShould crappy movies cost less to see? (Yes)\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/money-smart/should-crappy-movies-cost-less-to-see-yes/"
+      "text": "\n\t\t\t\n\t\t\tNeed your car fixed? Good luck with that\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/money-smart/need-your-car-fixed-good-luck-with-that/"
     },
     {
       "text": "Personal Finance and Consumer News",
@@ -9988,59 +10312,7 @@
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/money-smart/should-crappy-movies-cost-less-to-see-yes/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/entertainment/dierdre-friel-discusses-season-2-of-apple-tvs-physical/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tDierdre Friel discusses Season 2 of Apple TV\u2019s \u2018Physical\u2019\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/dierdre-friel-discusses-season-2-of-apple-tvs-physical/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://ktla.com/entertainment/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/dierdre-friel-discusses-season-2-of-apple-tvs-physical/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/entertainment/spy-kids-star-alexa-penavega-reveals-leaving-l-a-was-the-heart-reset-she-needed/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\u2018Spy Kids\u2019 star Alexa Penavega reveals leaving L.A.\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/spy-kids-star-alexa-penavega-reveals-leaving-l-a-was-the-heart-reset-she-needed/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://ktla.com/entertainment/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/spy-kids-star-alexa-penavega-reveals-leaving-l-a-was-the-heart-reset-she-needed/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/entertainment/nikki-lane-taking-center-stage-at-palomino-festival/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tNikki Lane taking center stage at Palomino Festival\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/nikki-lane-taking-center-stage-at-palomino-festival/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://ktla.com/entertainment/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/entertainment/nikki-lane-taking-center-stage-at-palomino-festival/"
-    },
-    {
-      "text": "\n\t\t\n\t\tPersonal Finance and Consumer News\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/money-smart/"
+      "url": "https://ktla.com/news/money-smart/need-your-car-fixed-good-luck-with-that/"
     },
     {
       "text": "\n\t\t",
@@ -10105,22 +10377,6 @@
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
       "url": "https://ktla.com/news/money-smart/subway-decides-customers-had-too-many-choices/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://ktla.com/news/money-smart/zuckerberg-metaverse-good-real-world-not-so-much/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tZuckerberg: Metaverse good, real world not so much\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/money-smart/zuckerberg-metaverse-good-real-world-not-so-much/"
-    },
-    {
-      "text": "Personal Finance and Consumer News",
-      "url": "https://ktla.com/news/money-smart/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/news/money-smart/zuckerberg-metaverse-good-real-world-not-so-much/"
     },
     {
       "text": "\n\t\t\t\tMore Money Smart\n\t\t\t\t\t\t\t",
@@ -10284,83 +10540,83 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/morning-news/youtube-dental-expert-whitney-difoggio-shares-healthy-teeth-tips-that-wont-break-the-bank/"
+      "url": "https://ktla.com/entertainment/jon-gabrus-and-adam-pally-reveal-why-they-arent-allowed-back-at-big-boi-from-outkasts-house/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tYouTube dental expert Whitney DiFoggio shares healthy\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/morning-news/youtube-dental-expert-whitney-difoggio-shares-healthy-teeth-tips-that-wont-break-the-bank/"
+      "text": "\n\t\t\t\n\t\t\tJon Gabrus and Adam Pally get paid to party\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/jon-gabrus-and-adam-pally-reveal-why-they-arent-allowed-back-at-big-boi-from-outkasts-house/"
     },
     {
-      "text": "Morning News",
-      "url": "https://ktla.com/morning-news/"
+      "text": "Entertainment",
+      "url": "https://ktla.com/entertainment/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/morning-news/youtube-dental-expert-whitney-difoggio-shares-healthy-teeth-tips-that-wont-break-the-bank/"
+      "url": "https://ktla.com/entertainment/jon-gabrus-and-adam-pally-reveal-why-they-arent-allowed-back-at-big-boi-from-outkasts-house/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/morning-news/samsons-sanctuary-shares-three-adoptable-pups-found-in-angeles-national-forest/"
+      "url": "https://ktla.com/entertainment/zibby-allen-talks-about-virgin-river-making-its-return-to-netflix/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tSamson\u2019s Sanctuary shares three adoptable pups found\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/morning-news/samsons-sanctuary-shares-three-adoptable-pups-found-in-angeles-national-forest/"
+      "text": "\n\t\t\t\n\t\t\tZibby Allen talks about \u2018Virgin River\u2019\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/zibby-allen-talks-about-virgin-river-making-its-return-to-netflix/"
     },
     {
-      "text": "Morning News",
-      "url": "https://ktla.com/morning-news/"
+      "text": "Entertainment",
+      "url": "https://ktla.com/entertainment/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/morning-news/samsons-sanctuary-shares-three-adoptable-pups-found-in-angeles-national-forest/"
+      "url": "https://ktla.com/entertainment/zibby-allen-talks-about-virgin-river-making-its-return-to-netflix/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/morning-news/money-coach-rita-boccuzzi-on-how-to-navigate-a-recession/"
+      "url": "https://ktla.com/news/money-smart/need-your-car-fixed-good-luck-with-that/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tMoney coach Rita Boccuzzi on how to navigate a recession\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/morning-news/money-coach-rita-boccuzzi-on-how-to-navigate-a-recession/"
+      "text": "\n\t\t\t\n\t\t\tNeed your car fixed? Good luck with that\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/money-smart/need-your-car-fixed-good-luck-with-that/"
     },
     {
-      "text": "Morning News",
-      "url": "https://ktla.com/morning-news/"
+      "text": "Personal Finance and Consumer News",
+      "url": "https://ktla.com/news/money-smart/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/morning-news/money-coach-rita-boccuzzi-on-how-to-navigate-a-recession/"
+      "url": "https://ktla.com/news/money-smart/need-your-car-fixed-good-luck-with-that/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/morning-news/spring-into-summer-fitness-with-trampoline-trim/"
+      "url": "https://ktla.com/entertainment/rosie-odonnells-very-trippy-experience-returning-to-a-league-of-their-own-reboot/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tSpring into summer fitness with Trampoline Trim\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/morning-news/spring-into-summer-fitness-with-trampoline-trim/"
+      "text": "\n\t\t\t\n\t\t\tRosie O\u2019Donnell returns to \u2018A League of Their Own\u2019\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/rosie-odonnells-very-trippy-experience-returning-to-a-league-of-their-own-reboot/"
     },
     {
-      "text": "Morning News",
-      "url": "https://ktla.com/morning-news/"
+      "text": "Entertainment",
+      "url": "https://ktla.com/entertainment/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/morning-news/spring-into-summer-fitness-with-trampoline-trim/"
+      "url": "https://ktla.com/entertainment/rosie-odonnells-very-trippy-experience-returning-to-a-league-of-their-own-reboot/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/morning-news/michelle-weiner-shares-beach-friendly-picnic-recipes/"
+      "url": "https://ktla.com/entertainment/george-takei-calls-howard-stern-an-asset-in-many-ways-on-social-issues/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tMichelle Weiner shares beach-friendly picnic recipes\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/morning-news/michelle-weiner-shares-beach-friendly-picnic-recipes/"
+      "text": "\n\t\t\t\n\t\t\tGeorge Takei\u2019s reason Howard Stern is an \u2018asset\u2019\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/entertainment/george-takei-calls-howard-stern-an-asset-in-many-ways-on-social-issues/"
     },
     {
-      "text": "Morning News",
-      "url": "https://ktla.com/morning-news/"
+      "text": "Entertainment",
+      "url": "https://ktla.com/entertainment/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/morning-news/michelle-weiner-shares-beach-friendly-picnic-recipes/"
+      "url": "https://ktla.com/entertainment/george-takei-calls-howard-stern-an-asset-in-many-ways-on-social-issues/"
     },
     {
       "text": "\n\t\t\t\tMore Morning News\n\t\t\t\t\t\t\t",
@@ -10415,52 +10671,20 @@
       "url": "https://www.newsnationnow.com/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tNewsNation PRIME\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/prime/"
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tHealth\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/health/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/prime/we-became-complacent-family-responds-to-viral-firework-video/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/health/dont-eat-too-much-broccoli-or-kale-nutritionist-says/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t\u2018We became complacent\u2019: Family responds to viral\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/prime/we-became-complacent-family-responds-to-viral-firework-video/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+      "text": "\n\t\t\t\n\t\t\tDon\u2019t eat too much broccoli or kale, nutritionist\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/health/dont-eat-too-much-broccoli-or-kale-nutritionist-says/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/prime/we-became-complacent-family-responds-to-viral-firework-video/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tBanfield\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/banfield/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/banfield/expert-da-may-be-trying-to-justify-mistake-in-bodega-stabbing/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tExpert: DA may be trying to justify \u2018mistake\u2019 in\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/banfield/expert-da-may-be-trying-to-justify-mistake-in-bodega-stabbing/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/banfield/expert-da-may-be-trying-to-justify-mistake-in-bodega-stabbing/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tYour Money\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/business/your-money/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/business/your-money/deadlocked-rail-talks-could-pose-threat-to-peak-retail-season/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tDeadlocked rail talks could pose threat to peak retail\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/business/your-money/deadlocked-rail-talks-could-pose-threat-to-peak-retail-season/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/business/your-money/deadlocked-rail-talks-could-pose-threat-to-peak-retail-season/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/health/dont-eat-too-much-broccoli-or-kale-nutritionist-says/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
     },
     {
       "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tU.S.\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
@@ -10468,47 +10692,79 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/us-news/maryland-city-waives-fees-for-housing/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/us-news/american-airlines-loses-12-year-old-girl-mother-says/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tA Maryland town\u2019s bold solution to its housing crisis\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/maryland-city-waives-fees-for-housing/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/maryland-city-waives-fees-for-housing/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tBanfield\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/banfield/"
-    },
-    {
-      "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/banfield/billy-hayes-of-midnight-express-has-advice-for-brittney-griner/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\tBilly Hayes of \u2018Midnight Express\u2019 has advice for\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/banfield/billy-hayes-of-midnight-express-has-advice-for-brittney-griner/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+      "text": "\n\t\t\t\n\t\t\tAmerican Airlines lost an unaccompanied minor, mother\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/american-airlines-loses-12-year-old-girl-mother-says/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/banfield/billy-hayes-of-midnight-express-has-advice-for-brittney-griner/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/us-news/american-airlines-loses-12-year-old-girl-mother-says/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tMidwest\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/midwest/"
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tWest\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/west/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://www.newsnationnow.com/us-news/midwest/bill-would-let-ohioans-sue-over-unintended-pregnancies/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/us-news/west/record-breaking-wonder-woman-ride-to-open-at-six-flags-magic-mountain/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tBill would let Ohioans sue over unintended pregnancies\n\t\t\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/midwest/bill-would-let-ohioans-sue-over-unintended-pregnancies/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+      "text": "\n\t\t\t\n\t\t\tRecord-breaking Wonder Woman ride to open at Six\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/west/record-breaking-wonder-woman-ride-to-open-at-six-flags-magic-mountain/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.newsnationnow.com/us-news/midwest/bill-would-let-ohioans-sue-over-unintended-pregnancies/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+      "url": "https://www.newsnationnow.com/us-news/west/record-breaking-wonder-woman-ride-to-open-at-six-flags-magic-mountain/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tNortheast\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/northeast/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.newsnationnow.com/us-news/northeast/nyc-releases-psa-on-what-to-do-in-event-of-nuclear-attack/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tNYC releases PSA on what to do in event of nuclear\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/northeast/nyc-releases-psa-on-what-to-do-in-event-of-nuclear-attack/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/northeast/nyc-releases-psa-on-what-to-do-in-event-of-nuclear-attack/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tNewsNation PRIME\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/prime/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.newsnationnow.com/prime/miracle-baby-heads-home-after-2-years-in-hospital/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\u2018Miracle baby\u2019 heads home after 2 years in hospital\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/prime/miracle-baby-heads-home-after-2-years-in-hospital/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-3{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/prime/miracle-baby-heads-home-after-2-years-in-hospital/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tU.S.\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/"
+    },
+    {
+      "text": "\n\t\t",
+      "url": "https://www.newsnationnow.com/us-news/biden-celebration-of-new-gun-law-overshadowed/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\tBiden celebration of gun law clouded by more mass\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/biden-celebration-of-new-gun-law-overshadowed/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\t\n\n\t\n\t\t.cls-5{fill:#fff;fill-rule:evenodd}\n\t\n\t\n\t\t\t\t\t\n\n\t\t\t\t\t",
+      "url": "https://www.newsnationnow.com/us-news/biden-celebration-of-new-gun-law-overshadowed/?utm_campaign=NewsNation-trending-now&utm_source=ktla.com&utm_medium=newsnation-cross-brand"
     },
     {
       "text": "\n\t\t\t\tFind out how you can watch\n\t\t\t\t\t\t\t",
@@ -10520,99 +10776,99 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/reviews/br/lawn-garden-br/flowers-plants-br/how-to-start-a-vegetable-garden/"
+      "url": "https://ktla.com/reviews/br/electronics-br/smart-home-br/amazon-smart-plug-review-how-helpful-is-this-smart-plug-with-home-automation/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tHow to start a vegetable garden\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/lawn-garden-br/flowers-plants-br/how-to-start-a-vegetable-garden/"
+      "text": "\n\t\t\t\n\t\t\tAmazon Smart Plug review: How helpful is this smart\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/reviews/br/electronics-br/smart-home-br/amazon-smart-plug-review-how-helpful-is-this-smart-plug-with-home-automation/"
     },
     {
-      "text": "Flowers & Plants",
-      "url": "https://ktla.com/reviews/br/lawn-garden-br/flowers-plants-br/"
+      "text": "Smart Home",
+      "url": "https://ktla.com/reviews/br/electronics-br/smart-home-br/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/lawn-garden-br/flowers-plants-br/how-to-start-a-vegetable-garden/"
+      "url": "https://ktla.com/reviews/br/electronics-br/smart-home-br/amazon-smart-plug-review-how-helpful-is-this-smart-plug-with-home-automation/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/reviews/br/home-br/storage-organization-br/which-corner-shelf-is-the-best-for-small-spaces/"
+      "url": "https://ktla.com/reviews/br/beauty-personal-care-br/best-beauty-and-personal-care-deals-for-prime-day-2022/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tWhich corner shelf is the best for small spaces?\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/home-br/storage-organization-br/which-corner-shelf-is-the-best-for-small-spaces/"
+      "text": "\n\t\t\t\n\t\t\tBest beauty and personal care deals for Prime Day\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/reviews/br/beauty-personal-care-br/best-beauty-and-personal-care-deals-for-prime-day-2022/"
     },
     {
-      "text": "Storage & Organization",
-      "url": "https://ktla.com/reviews/br/home-br/storage-organization-br/"
+      "text": "Beauty & Personal Care",
+      "url": "https://ktla.com/reviews/br/beauty-personal-care-br/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/home-br/storage-organization-br/which-corner-shelf-is-the-best-for-small-spaces/"
+      "url": "https://ktla.com/reviews/br/beauty-personal-care-br/best-beauty-and-personal-care-deals-for-prime-day-2022/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/reviews/br/kitchen-br/utensils-tools-br/what-can-you-cook-in-an-air-fryer/"
+      "url": "https://ktla.com/reviews/br/apparel-br/best-fashion-deals-for-prime-day-2022/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tWhat can you cook in an air fryer?\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/kitchen-br/utensils-tools-br/what-can-you-cook-in-an-air-fryer/"
+      "text": "\n\t\t\t\n\t\t\tBest fashion deals for Prime Day 2022\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/reviews/br/apparel-br/best-fashion-deals-for-prime-day-2022/"
     },
     {
-      "text": "Utensils & Tools",
-      "url": "https://ktla.com/reviews/br/kitchen-br/utensils-tools-br/"
+      "text": "Apparel",
+      "url": "https://ktla.com/reviews/br/apparel-br/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/kitchen-br/utensils-tools-br/what-can-you-cook-in-an-air-fryer/"
+      "url": "https://ktla.com/reviews/br/apparel-br/best-fashion-deals-for-prime-day-2022/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/reviews/br/camping-outdoors-br/gear-br/the-best-portable-generator-for-camping/"
+      "url": "https://ktla.com/reviews/br/office-br/best-office-deals-for-prime-day-2022/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tThe best portable generator for camping\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/camping-outdoors-br/gear-br/the-best-portable-generator-for-camping/"
+      "text": "\n\t\t\t\n\t\t\tBest office deals for Prime Day 2022\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/reviews/br/office-br/best-office-deals-for-prime-day-2022/"
     },
     {
-      "text": "Gear",
-      "url": "https://ktla.com/reviews/br/camping-outdoors-br/gear-br/"
+      "text": "Office",
+      "url": "https://ktla.com/reviews/br/office-br/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/camping-outdoors-br/gear-br/the-best-portable-generator-for-camping/"
+      "url": "https://ktla.com/reviews/br/office-br/best-office-deals-for-prime-day-2022/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/reviews/br/kitchen-br/blenders-food-processors-br/the-best-blender-for-cocktails/"
+      "url": "https://ktla.com/reviews/br/kitchen-br/best-kitchen-deals-for-prime-day-2022/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tThe best blender for cocktails\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/kitchen-br/blenders-food-processors-br/the-best-blender-for-cocktails/"
+      "text": "\n\t\t\t\n\t\t\tBest kitchen deals for Prime Day 2022\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/reviews/br/kitchen-br/best-kitchen-deals-for-prime-day-2022/"
     },
     {
-      "text": "Blenders & Food Processors",
-      "url": "https://ktla.com/reviews/br/kitchen-br/blenders-food-processors-br/"
+      "text": "Kitchen",
+      "url": "https://ktla.com/reviews/br/kitchen-br/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/kitchen-br/blenders-food-processors-br/the-best-blender-for-cocktails/"
+      "url": "https://ktla.com/reviews/br/kitchen-br/best-kitchen-deals-for-prime-day-2022/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/reviews/br/pets-br/dog-health-br/best-pill-pockets-for-dogs/"
+      "url": "https://ktla.com/reviews/br/services-br/technology-br/amazon-flashes-deals-on-audible-and-kindle-services-ahead-of-monday/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tBest pill pockets for dogs\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/pets-br/dog-health-br/best-pill-pockets-for-dogs/"
+      "text": "\n\t\t\t\n\t\t\tAmazon flashes deals on Audible and Kindle services\u00a0\u2026\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/reviews/br/services-br/technology-br/amazon-flashes-deals-on-audible-and-kindle-services-ahead-of-monday/"
     },
     {
-      "text": "Dog Health",
-      "url": "https://ktla.com/reviews/br/pets-br/dog-health-br/"
+      "text": "Technology",
+      "url": "https://ktla.com/reviews/br/services-br/technology-br/"
     },
     {
       "text": "\n\t\t\n\t\t\n\t\t\t\n\n\t\n\n\n\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://ktla.com/reviews/br/pets-br/dog-health-br/best-pill-pockets-for-dogs/"
+      "url": "https://ktla.com/reviews/br/services-br/technology-br/amazon-flashes-deals-on-audible-and-kindle-services-ahead-of-monday/"
     },
     {
       "text": "\n\t\t\t\tMore reviews\n\t\t\t\t\t\t\t",
@@ -10620,106 +10876,94 @@
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/california/california-bad-for-singles-no-california-cities-make-the-cut-in-new-survey/"
+      "url": "https://ktla.com/news/local-news/yellowstone-actress-qorianka-kilcher-charged-in-l-a-with-workers-compensation-fraud/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tCalifornia not the place for singles, survey says\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/california/california-bad-for-singles-no-california-cities-make-the-cut-in-new-survey/"
+      "text": "\n\t\t\t\n\t\t\t\u2018Yellowstone\u2019 actress accused of workers\u2019 comp fraud\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/yellowstone-actress-qorianka-kilcher-charged-in-l-a-with-workers-compensation-fraud/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/california/california-bad-for-singles-no-california-cities-make-the-cut-in-new-survey/"
+      "url": "https://ktla.com/news/local-news/yellowstone-actress-qorianka-kilcher-charged-in-l-a-with-workers-compensation-fraud/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/3-killed-4-injured-in-fiery-crash-in-orange/"
+      "url": "https://ktla.com/news/local-news/olympian-kim-glass-attacked-hit-with-metal-pipe-in-downtown-l-a/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t3 killed, 4 injured in fiery crash in Orange\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/3-killed-4-injured-in-fiery-crash-in-orange/"
+      "text": "\n\t\t\t\n\t\t\tOlympian Kim Glass attacked with metal pipe in L.A.\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/olympian-kim-glass-attacked-hit-with-metal-pipe-in-downtown-l-a/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/local-news/3-killed-4-injured-in-fiery-crash-in-orange/"
+      "url": "https://ktla.com/news/local-news/olympian-kim-glass-attacked-hit-with-metal-pipe-in-downtown-l-a/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/six-flags-magic-mountain-to-debut-record-breaking-wonder-woman-coaster/"
+      "url": "https://ktla.com/morning-news/technology/early-amazon-prime-day-deals-richontech/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tWonder Woman coaster to debut at Magic Mountain\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/six-flags-magic-mountain-to-debut-record-breaking-wonder-woman-coaster/"
+      "text": "\n\t\t\t\n\t\t\tPrime Day deals include 50-inch 4K TV for $100\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/morning-news/technology/early-amazon-prime-day-deals-richontech/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/local-news/six-flags-magic-mountain-to-debut-record-breaking-wonder-woman-coaster/"
+      "url": "https://ktla.com/morning-news/technology/early-amazon-prime-day-deals-richontech/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/lbpd-armed-man-on-rooftop-killed-by-police/"
+      "url": "https://ktla.com/news/local-news/7-eleven-clerk-fatally-shot-during-robbery-in-brea-incident-may-be-tied-to-similar-crime-in-la-habra/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tLBPD: Armed man on rooftop killed by police\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/lbpd-armed-man-on-rooftop-killed-by-police/"
+      "text": "\n\t\t\t\n\t\t\t2 dead, 3 injured in string of 7-Eleven robberies\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/7-eleven-clerk-fatally-shot-during-robbery-in-brea-incident-may-be-tied-to-similar-crime-in-la-habra/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/local-news/lbpd-armed-man-on-rooftop-killed-by-police/"
+      "url": "https://ktla.com/news/local-news/7-eleven-clerk-fatally-shot-during-robbery-in-brea-incident-may-be-tied-to-similar-crime-in-la-habra/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/draft-these-california-areas-havent-recorded-100-degree-temps-ever/"
+      "url": "https://ktla.com/news/california/why-is-the-water-so-cold-at-california-beaches/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tThese CA areas haven\u2019t ever recorded 100 degree temps\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/draft-these-california-areas-havent-recorded-100-degree-temps-ever/"
+      "text": "\n\t\t\t\n\t\t\tWhy is the water so cold at California beaches?\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/california/why-is-the-water-so-cold-at-california-beaches/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/draft-these-california-areas-havent-recorded-100-degree-temps-ever/"
+      "url": "https://ktla.com/news/california/why-is-the-water-so-cold-at-california-beaches/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/morning-news/technology/verizon-sending-free-phones-to-3g-customers-retire-network/"
+      "url": "https://ktla.com/news/local-news/what-happened-to-the-california-missions-project-in-schools/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tVerizon is sending free phones to certain customers\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/morning-news/technology/verizon-sending-free-phones-to-3g-customers-retire-network/"
+      "text": "\n\t\t\t\n\t\t\tWhat happened to the CA missions project in schools?\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/what-happened-to-the-california-missions-project-in-schools/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/morning-news/technology/verizon-sending-free-phones-to-3g-customers-retire-network/"
+      "url": "https://ktla.com/news/local-news/what-happened-to-the-california-missions-project-in-schools/"
     },
     {
       "text": "\n\t\t",
-      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
+      "url": "https://ktla.com/news/local-news/weho-deputies-spot-arrest-pickpocket-suspects-recover-17-stolen-cellphones/"
     },
     {
-      "text": "\n\t\t\t\n\t\t\tVideo: Driver sprays another motorist with bear spray\u00a0\u2026\n\t\t\t\t\t\t\t",
-      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
+      "text": "\n\t\t\t\n\t\t\tWeHo deputies spot pickpocket suspects, recover phones\n\t\t\t\t\t\t\t",
+      "url": "https://ktla.com/news/local-news/weho-deputies-spot-arrest-pickpocket-suspects-recover-17-stolen-cellphones/"
     },
     {
       "text": "\n\t\n\t\n\n\t\t\t",
-      "url": "https://ktla.com/news/local-news/video-driver-sprays-another-motorist-with-bear-spray-in-road-rage-incident/"
+      "url": "https://ktla.com/news/local-news/weho-deputies-spot-arrest-pickpocket-suspects-recover-17-stolen-cellphones/"
     },
     {
       "text": "Close",
       "url": "#sailthru-signup-widget"
     },
     {
-      "text": "\n        \n      ",
-      "url": "https://partners.thepennyhoarder.com/millionaires-desktop-prt/?aff_id=282&aff_sub3=millionaires-desktop&ntv_a=-pYHA-1hVACrMRA&ntv_acpl=1159946&ntv_acsc=2&ntv_gsscm=848*2;593*4;594*4;663*2;798*2;559*7;511*7;&us_privacy=1---&ntv_fpc=abe042ac-9861-44eb-bb87-7f077d146ed4&ntv_n&ntv_cr=0&ntv_fr"
-    },
-    {
-      "text": "\n      6 Strange Things Millionaires Do With Their Money, But Most of Us Have Never Tried\n    ",
-      "url": "https://partners.thepennyhoarder.com/millionaires-desktop-prt/?aff_id=282&aff_sub3=millionaires-desktop&ntv_a=-pYHA-1hVACrMRA&ntv_acpl=1159946&ntv_acsc=2&ntv_gsscm=848*2;593*4;594*4;663*2;798*2;559*7;511*7;&us_privacy=1---&ntv_fpc=abe042ac-9861-44eb-bb87-7f077d146ed4&ntv_n&ntv_cr=0&ntv_fr"
-    },
-    {
-      "text": "The Penny Hoarder",
-      "url": "https://partners.thepennyhoarder.com/millionaires-desktop-prt/?aff_id=282&aff_sub3=millionaires-desktop&ntv_a=-pYHA-1hVACrMRA&ntv_acpl=1159946&ntv_acsc=2&ntv_gsscm=848*2;593*4;594*4;663*2;798*2;559*7;511*7;&us_privacy=1---&ntv_fpc=abe042ac-9861-44eb-bb87-7f077d146ed4&ntv_n&ntv_cr=0&ntv_fr"
-    },
-    {
-      "text": "\n\t\t\n\t\t\tCurrent\n\t\t\t\n\t\t\t\t76\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tSunny\n\t\t\n\n\t\t\n\t\t\tTonight\n\t\t\t\n\t\t\t\t61\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tClear\n\t\t\t\n\t\t\t\tPrecip: 4%\t\t\t\n\t\t\n\n\t\t\n\t\t\tTomorrow\n\t\t\t\n\t\t\t\t84\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tSunny\n\t\t\t\n\t\t\t\tPrecip: 3%\t\t\t\n\t\t\n\t",
+      "text": "\n\t\t\n\t\t\tCurrent\n\t\t\t\n\t\t\t\t73\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tSunny\n\t\t\n\n\t\t\n\t\t\tTonight\n\t\t\t\n\t\t\t\t62\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tPartly Cloudy\n\t\t\t\n\t\t\t\tPrecip: 8%\t\t\t\n\t\t\n\n\t\t\n\t\t\tTomorrow\n\t\t\t\n\t\t\t\t78\u00b0\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\tPartly Cloudy\n\t\t\t\n\t\t\t\tPrecip: 6%\t\t\t\n\t\t\n\t",
       "url": "https://ktla.com/weather/"
     },
     {
@@ -10727,40 +10971,40 @@
       "url": "https://bestreviews.com/deals?utm_source=nxst&utm_medium=widget&utm_campaign=header"
     },
     {
-      "text": "\n        \n            \n                \n            \n            \n                Bissell BigGreen Commercial PowerForce Vacuum Cleaner\n                $199.95\n                $129.99\n                35% OFF at Amazon\n            \n        \n    ",
-      "url": "https://bestrevie.ws/B00LIRG242/e146b0d41526424c18b315245e87537808d8f363-MDcyMDIy?d-rlm=dw"
+      "text": "\n        \n            \n                \n            \n            \n                Newlam 17 Keys Kalimba\n                $42.99\n                $26.99\n                37% OFF at Amazon\n            \n        \n    ",
+      "url": "https://bestrevie.ws/B07Q38FWFJ/8e9df3f2eb0b5b217781d684158167d9cf5ab8fe-MDcyMDIy?d-rlm=dw"
     },
     {
       "text": "\n        \n           SEE DEAL\n        \n    ",
-      "url": "https://bestrevie.ws/B00LIRG242/e146b0d41526424c18b315245e87537808d8f363-MDcyMDIy?d-rlm=dw"
+      "url": "https://bestrevie.ws/B07Q38FWFJ/8e9df3f2eb0b5b217781d684158167d9cf5ab8fe-MDcyMDIy?d-rlm=dw"
+    },
+    {
+      "text": "Read the review",
+      "url": "https://bestreviews.com/best-kalimbas"
+    },
+    {
+      "text": "\n        \n            \n                \n            \n            \n                Top Race Trainer 3 Channel Remote Control Airplane\n                $129.99\n                $89.99\n                31% OFF at Amazon\n            \n        \n    ",
+      "url": "https://bestrevie.ws/B07X1TSJV1/8e9df3f2eb0b5b217781d684158167d9cf5ab8fe-MDcyMDIy?d-rlm=dw"
+    },
+    {
+      "text": "\n        \n           SEE DEAL\n        \n    ",
+      "url": "https://bestrevie.ws/B07X1TSJV1/8e9df3f2eb0b5b217781d684158167d9cf5ab8fe-MDcyMDIy?d-rlm=dw"
+    },
+    {
+      "text": "Read the review",
+      "url": "https://bestreviews.com/best-rc-planes"
+    },
+    {
+      "text": "\n        \n            \n                \n            \n            \n                Bissell BigGreen Commercial PowerForce Vacuum Cleaner\n                $199.95\n                $129.99\n                35% OFF at Amazon\n            \n        \n    ",
+      "url": "https://bestrevie.ws/B00LIRG242/8e9df3f2eb0b5b217781d684158167d9cf5ab8fe-MDcyMDIy?d-rlm=dw"
+    },
+    {
+      "text": "\n        \n           SEE DEAL\n        \n    ",
+      "url": "https://bestrevie.ws/B00LIRG242/8e9df3f2eb0b5b217781d684158167d9cf5ab8fe-MDcyMDIy?d-rlm=dw"
     },
     {
       "text": "Read the review",
       "url": "https://bestreviews.com/home/vacuums/best-commercial-vacuum-cleaners"
-    },
-    {
-      "text": "\n        \n            \n                \n            \n            \n                Nekteck Foot Massager with Heat\n                $85.99\n                $49.99\n                42% OFF at Amazon\n            \n        \n    ",
-      "url": "https://bestrevie.ws/B06WGP2CVL/e146b0d41526424c18b315245e87537808d8f363-MDcyMDIy?d-rlm=dw"
-    },
-    {
-      "text": "\n        \n           SEE DEAL\n        \n    ",
-      "url": "https://bestrevie.ws/B06WGP2CVL/e146b0d41526424c18b315245e87537808d8f363-MDcyMDIy?d-rlm=dw"
-    },
-    {
-      "text": "Read the review",
-      "url": "https://bestreviews.com/health-wellness/massage/best-foot-massagers"
-    },
-    {
-      "text": "\n        \n            \n                \n            \n            \n                CHORTAU Dual Dash Cam\n                $99.99\n                $69.95\n                30% OFF at Amazon\n            \n        \n    ",
-      "url": "https://bestrevie.ws/B07Q5R22DV/e146b0d41526424c18b315245e87537808d8f363-MDcyMDIy?d-rlm=dw"
-    },
-    {
-      "text": "\n        \n           SEE DEAL\n        \n    ",
-      "url": "https://bestrevie.ws/B07Q5R22DV/e146b0d41526424c18b315245e87537808d8f363-MDcyMDIy?d-rlm=dw"
-    },
-    {
-      "text": "Read the review",
-      "url": "https://bestreviews.com/automotive/cameras/best-car-cameras"
     },
     {
       "text": "Details",
@@ -10903,10 +11147,10 @@
     "publicdate": "2022-03-23 02:07:50",
     "addeddate": "2022-03-23 02:07:50"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1981168266,
+  "server": "ia902500.us.archive.org",
+  "uniq": 842608793,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1657423373,
+  "created": 1657628538,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/29/items/ringer-2022",
@@ -2850,31 +2850,199 @@
       "sha1": "6d881a46c60701878e57f4d03070494c8ef4124a"
     },
     {
+      "name": "ringer-2022-07-10T07:43:18.095824-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464201",
+      "size": "48886",
+      "md5": "58d1628d6f65bbeb0a70dbede79f9194",
+      "crc32": "68b4a631",
+      "sha1": "3eca71f46e150bb90b849a5da9b5454a39c1b472",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-10T07:43:18.095824-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464203",
+      "size": "59622",
+      "md5": "4dacca846579182d36fe1ba8997ff101",
+      "crc32": "48629961",
+      "sha1": "34bd660575787eb326318f8e42bb4b7abccab914",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-10T07:43:18.095824-07:00.jpg",
+      "source": "original",
+      "mtime": "1657464199",
+      "size": "281067",
+      "md5": "ad2f00628097820e6cbe10ae7300c4b1",
+      "crc32": "45551a8f",
+      "sha1": "b79feadeda0f0c192f61cd1aa35ea755f5a38461",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ringer-2022-07-10T07:43:18.095824-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ringer-2022-07-10T07:43:18.095824-07:00.jpg",
+      "mtime": "1657464252",
+      "size": "9767",
+      "md5": "2d72a8b2940b8e833adea6738e935330",
+      "crc32": "96997865",
+      "sha1": "ac4d30f427cc85e1e142f3732164e9dfbf87a1fd"
+    },
+    {
+      "name": "ringer-2022-07-10T20:21:36.172585-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657509699",
+      "size": "48586",
+      "md5": "8b224d726347b0d419ed7a3aa5a568c5",
+      "crc32": "0d1d6a04",
+      "sha1": "8c345d6de2d7fb96e4a3661d57dd61299de9c4c7",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-10T20:21:36.172585-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657509701",
+      "size": "59538",
+      "md5": "aff303df0851c0818662c2b82a60e2a7",
+      "crc32": "b293b9b1",
+      "sha1": "2323b269caa09c43a51d97e2951f4170109da51a",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-10T20:21:36.172585-07:00.jpg",
+      "source": "original",
+      "mtime": "1657509698",
+      "size": "269125",
+      "md5": "ac73449169ce76fdd805a4f4394765c0",
+      "crc32": "dc769f89",
+      "sha1": "d7dbfa9cf35c7d526dfeef846b38c1790d292baa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ringer-2022-07-10T20:21:36.172585-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ringer-2022-07-10T20:21:36.172585-07:00.jpg",
+      "mtime": "1657509751",
+      "size": "9739",
+      "md5": "1501802711dbf801671e99421a3a60f3",
+      "crc32": "0b2f6ba5",
+      "sha1": "e85996066c371cdb9948cc8133e5d98f027eaa6f"
+    },
+    {
+      "name": "ringer-2022-07-11T11:13:37.253402-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563223",
+      "size": "50239",
+      "md5": "b19fed14b05fdd93bfdb0f532c1b38c9",
+      "crc32": "21f50489",
+      "sha1": "dab8f997f03bbad697efdd9d12cb2df7a721c183",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-11T11:13:37.253402-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563226",
+      "size": "59161",
+      "md5": "01e2d9e4f9ff9d9898c6f93c9b5826e2",
+      "crc32": "03ca7127",
+      "sha1": "fb5f9161dab2b6d4db7b906154850dce4394e041",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-11T11:13:37.253402-07:00.jpg",
+      "source": "original",
+      "mtime": "1657563219",
+      "size": "321095",
+      "md5": "a6f3a847a8e8705dbe9ffad01a449050",
+      "crc32": "5f8db3af",
+      "sha1": "0e19db3cb1203e3d562dfe1995a90f37e9866b17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ringer-2022-07-11T11:13:37.253402-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ringer-2022-07-11T11:13:37.253402-07:00.jpg",
+      "mtime": "1657563308",
+      "size": "10298",
+      "md5": "d29ac26417d884bcb6387708208463a5",
+      "crc32": "42b1dfde",
+      "sha1": "85ae3bdccea39df64c5c1504b18617cacef7df0f"
+    },
+    {
+      "name": "ringer-2022-07-11T20:24:08.499809-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657596254",
+      "size": "49932",
+      "md5": "6b85b8bba9115e79ff0df99a83bcb383",
+      "crc32": "de78196c",
+      "sha1": "fc9ab54a6e5e78618d883518d6c8115aed915f3e",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-11T20:24:08.499809-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657596256",
+      "size": "59562",
+      "md5": "7a6996eb8a859ab07d4b2f1f9cee96e6",
+      "crc32": "514594da",
+      "sha1": "3fcb27d7382d17893a29f668164e709725a02b70",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-11T20:24:08.499809-07:00.jpg",
+      "source": "original",
+      "mtime": "1657596250",
+      "size": "314999",
+      "md5": "c7378619d0cfbc2fe804aff61a9e95aa",
+      "crc32": "fc906d1d",
+      "sha1": "52d0ddb41bff3096795d670b0eecfa03c11b88c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ringer-2022-07-11T20:24:08.499809-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ringer-2022-07-11T20:24:08.499809-07:00.jpg",
+      "mtime": "1657596319",
+      "size": "10574",
+      "md5": "cc9d676c985ce59c441fee4b9c834948",
+      "crc32": "1fbd7262",
+      "sha1": "d8ba463715586410ac969526c1051b0873b4303a"
+    },
+    {
       "name": "ringer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aadd76b0ee7aace9bad18e9876f7bb0d64c026fe",
-      "mtime": "1657423365",
-      "size": "58246",
-      "md5": "690a54f2b3e9625e9cbe57cd48e0eb9a",
-      "crc32": "8c5e8be1",
-      "sha1": "4ee2e17d5982b53f002cc60c6645ef394e4d2603",
+      "btih": "5d91bd0fb120e96ca17744d542a3e27eb3740d06",
+      "mtime": "1657596329",
+      "size": "61592",
+      "md5": "f30ac48824fc2161cff50d6df3e5280e",
+      "crc32": "612679be",
+      "sha1": "38fcb6f6565775566e4934cf1f0bb510cbff2094",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ringer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92c31530ccc5e9b731872d4540c3b0f2",
+      "md5": "1835218779fee95b26644f9c7228a7e7",
       "summation": "md5"
     },
     {
       "name": "ringer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423313",
-      "size": "327680",
-      "md5": "36c3b2a17f326e88fb7fdba87093bf58",
-      "crc32": "99c9c4ec",
-      "sha1": "83f851d8d12ec1afbfa419e3823c8212672b43c5",
+      "mtime": "1657596262",
+      "size": "348160",
+      "md5": "93d7ed9e7094cb466356794a4e0b4339",
+      "crc32": "b0ffda07",
+      "sha1": "6df341c8548a378b0ad2438113297d02e6a4807c",
       "format": "Metadata"
     },
     {
@@ -2888,9 +3056,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 275,
-  "item_last_updated": 1657423365,
-  "item_size": 29966858,
+  "files_count": 291,
+  "item_last_updated": 1657596329,
+  "item_size": 31652874,
   "metadata": {
     "identifier": "ringer-2022",
     "collection": [
@@ -2907,8 +3075,1286 @@
     "publicdate": "2022-06-19 23:27:48",
     "addeddate": "2022-06-19 23:27:48"
   },
+  "ringer-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#content"
+    },
+    {
+      "text": "\n        \n          The Ringer homepage\n          \n            \n  \n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\n\n\n\n\n          \n        \n        \n          \n            \n  \n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\n\n\n\n\n          \n        \n        \n        \n      ",
+      "url": "/"
+    },
+    {
+      "text": "\n          Follow The Ringer on Twitter\n\n          \n        ",
+      "url": "https://twitter.com/ringer"
+    },
+    {
+      "text": "\n          Follow The Ringer on Facebook\n\n          \n        ",
+      "url": "https://www.facebook.com/ringer/"
+    },
+    {
+      "text": "\n          Follow The Ringer on Youtube\n\n          \n        ",
+      "url": "http://therin.gr/bIPNd5q"
+    },
+    {
+      "text": "\n              NBA\n              \n              ",
+      "url": "/nba"
+    },
+    {
+      "text": "\n              \u2018Thor\u2019\n              \n              ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/7/23198191/everything-you-need-to-know-about-thor-love-and-thunder"
+    },
+    {
+      "text": "\n              NFL\n              \n              ",
+      "url": "/nfl"
+    },
+    {
+      "text": "\n              Podcasts\n              \n                \n              \n              ",
+      "url": "/pages/podcasts"
+    },
+    {
+      "text": "\n              TV\n              \n              ",
+      "url": "/tv"
+    },
+    {
+      "text": "\n              Features\n              \n              ",
+      "url": "/features"
+    },
+    {
+      "text": "\n              Movies\n              \n              ",
+      "url": "/movies"
+    },
+    {
+      "text": "\n              MLB\n              \n              ",
+      "url": "/mlb"
+    },
+    {
+      "text": "\n              Video\n              \n              ",
+      "url": "/video"
+    },
+    {
+      "text": "\n              Music\n              \n              ",
+      "url": "/music"
+    },
+    {
+      "text": "\n              Shop\n              \n              ",
+      "url": "/shop"
+    },
+    {
+      "text": "\n            NBA\n            \n          ",
+      "url": "/nba"
+    },
+    {
+      "text": "\n            \u2018Thor\u2019\n            \n          ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/7/23198191/everything-you-need-to-know-about-thor-love-and-thunder"
+    },
+    {
+      "text": "\n            NFL\n            \n          ",
+      "url": "/nfl"
+    },
+    {
+      "text": "\n            Podcasts\n            \n              \n            \n          ",
+      "url": "/pages/podcasts"
+    },
+    {
+      "text": "\n                          Bill Simmons Podcast\n                        ",
+      "url": "/the-bill-simmons-podcast"
+    },
+    {
+      "text": "\n                          10 Questions With Kyle Brandt\n                        ",
+      "url": "/10-questions-with-kyle-brandt"
+    },
+    {
+      "text": "\n                          60 Songs That Explain the \u201990s\n                        ",
+      "url": "/60-songs-that-explain-the-90s"
+    },
+    {
+      "text": "\n                          Bachelor Party\n                        ",
+      "url": "/bachelor-party"
+    },
+    {
+      "text": "\n                          The Bakari Sellers Podcast\n                        ",
+      "url": "/bakari-sellers-podcast"
+    },
+    {
+      "text": "\n                          Baseball BBQ\n                        ",
+      "url": "/baseball-bbq"
+    },
+    {
+      "text": "\n                          The Big Picture\n                        ",
+      "url": "https://www.theringer.com/the-big-picture"
+    },
+    {
+      "text": "\n                          Binge Mode\n                        ",
+      "url": "/binge-mode"
+    },
+    {
+      "text": "\n                          Black Girl Songbook\n                        ",
+      "url": "/black-girl-songbook-podcast"
+    },
+    {
+      "text": "\n                          Book of Basketball 2.0\n                        ",
+      "url": "/book-of-basketball"
+    },
+    {
+      "text": "\n                          Boom/Bust: HQ Trivia\n                        ",
+      "url": "/boom-bust-podcast"
+    },
+    {
+      "text": "\n                          The Cam Chronicles\n                        ",
+      "url": "/cam-newton-chronicles-podcast"
+    },
+    {
+      "text": "\n                          The Dave Chang Show\n                        ",
+      "url": "/the-dave-chang-show"
+    },
+    {
+      "text": "\n                          Every Single Album: Taylor Swift\n                        ",
+      "url": "/every-single-album"
+    },
+    {
+      "text": "\n                          F1 Show\n                        ",
+      "url": "/the-ringer-f1-show"
+    },
+    {
+      "text": "\n                          Fairway Rollin\u2019\n                        ",
+      "url": "/fairway-rollin"
+    },
+    {
+      "text": "\n                          Fantasy Football Show\n                        ",
+      "url": "/fantasy-football-podcast"
+    },
+    {
+      "text": "\n                          Food News\n                        ",
+      "url": "https://www.theringer.com/food-news"
+    },
+    {
+      "text": "\n                          The Full Go\n                        ",
+      "url": "/the-full-go-podcast"
+    },
+    {
+      "text": "\n                          Gamblers\n                        ",
+      "url": "/gamblers-podcast"
+    },
+    {
+      "text": "\n                          Gambling Show\n                        ",
+      "url": "https://www.theringer.com/the-ringer-gambling-show"
+    },
+    {
+      "text": "\n                          Gene and Roger\n                        ",
+      "url": "/gene-and-roger-podcast"
+    },
+    {
+      "text": "\n                          Higher Learning\n                        ",
+      "url": "/higher-learning-van-lathan-rachel-lindsay"
+    },
+    {
+      "text": "\n                          Icons Club\n                        ",
+      "url": "https://www.theringer.com/nba-icons-club"
+    },
+    {
+      "text": "\n                          Jam Session\n                        ",
+      "url": "https://www.theringer.com/jam-session"
+    },
+    {
+      "text": "\n                          Just Like Us\n                        ",
+      "url": "/just-like-us-tabloids-podcast"
+    },
+    {
+      "text": "\n                          Larry Wilmore: Black on the Air\n                        ",
+      "url": "/larry-wilmore-black-on-air"
+    },
+    {
+      "text": "\n                          Masked Man Show\n                        ",
+      "url": "/the-masked-man-show"
+    },
+    {
+      "text": "\n                          The Mismatch\n                        ",
+      "url": "/the-mismatch-nba-show"
+    },
+    {
+      "text": "\n                          MLB Show\n                        ",
+      "url": "/the-mlb-show"
+    },
+    {
+      "text": "\n                          MMA Show\n                        ",
+      "url": "ringer-mma-show"
+    },
+    {
+      "text": "\n                          Music Show\n                        ",
+      "url": "/music-show-podcast"
+    },
+    {
+      "text": "\n                          New York, New York\n                        ",
+      "url": "/new-york-new-york-podcast"
+    },
+    {
+      "text": "\n                          NBA Show\n                        ",
+      "url": "/the-nba-show"
+    },
+    {
+      "text": "\n                          NFL Show\n                        ",
+      "url": "/the-nfl-show"
+    },
+    {
+      "text": "\n                          NFL Draft\n                        ",
+      "url": "/nfl-draft-fantasy-football-show"
+    },
+    {
+      "text": "\n                          No Skips With Jinx and Shea\n                        ",
+      "url": "/no-skips-with-jinx-and-shea"
+    },
+    {
+      "text": "\n                          The Pod Has Spoken\n                        ",
+      "url": "https://www.theringer.com/the-pod-has-spoken"
+    },
+    {
+      "text": "\n                          Plain English\n                        ",
+      "url": "https://www.theringer.com/plain-english-with-derek-thompson-podcast"
+    },
+    {
+      "text": "\n                          The Press Box\n                        ",
+      "url": "/the-press-box"
+    },
+    {
+      "text": "\n                          The Prestige TV Podcast\n                        ",
+      "url": "/prestige-tv-podcast"
+    },
+    {
+      "text": "\n                          R2C2\n                        ",
+      "url": "/r2c2-podcast-cc-sabathia-ryan-ruocco"
+    },
+    {
+      "text": "\n                          Reality TV\n                        ",
+      "url": "https://www.theringer.com/ringer-reality-tv-podcast"
+    },
+    {
+      "text": "\n                          Recipe Club\n                        ",
+      "url": "https://www.theringer.com/recipe-club-podcast"
+    },
+    {
+      "text": "\n                          The Rewatchables\n                        ",
+      "url": "/the-rewatchables"
+    },
+    {
+      "text": "\n                          Ringer Dish\n                        ",
+      "url": "/ringer-dish"
+    },
+    {
+      "text": "\n                          Ringer FC\n                        ",
+      "url": "/ringer-fc"
+    },
+    {
+      "text": "\n                          The Ringer-Verse\n                        ",
+      "url": "/the-ringer-verse-podcast"
+    },
+    {
+      "text": "\n                          The Rugby Pod\n                        ",
+      "url": "/the-rugby-pod"
+    },
+    {
+      "text": "\n                          The Ryen Russillo Podcast\n                        ",
+      "url": "/ryen-russillo-podcast"
+    },
+    {
+      "text": "\n                          Sonic Boom\n                        ",
+      "url": "/sonic-boom"
+    },
+    {
+      "text": "\n                          Sound Only\n                        ",
+      "url": "/sound-only-podcast"
+    },
+    {
+      "text": "\n                          Sports Cards Nonsense\n                        ",
+      "url": "/sports-cards-nonsense-podcast"
+    },
+    {
+      "text": "\n                          Tea Time\n                        ",
+      "url": "/tea-time"
+    },
+    {
+      "text": "\n                          The Town\n                        ",
+      "url": "https://www.theringer.com/the-town-podcast"
+    },
+    {
+      "text": "\n                          Trial by Content\n                        ",
+      "url": "/trial-by-content"
+    },
+    {
+      "text": "\n                          The Void\n                        ",
+      "url": "https://www.theringer.com/the-void"
+    },
+    {
+      "text": "\n                          The Watch\n                        ",
+      "url": "/the-watch"
+    },
+    {
+      "text": "\n                          What If? The Len Bias Story\n                        ",
+      "url": "https://www.theringer.com/len-bias-story-podcast"
+    },
+    {
+      "text": "\n                          The Wire: Way Down in the Hole\n                        ",
+      "url": "/way-down-in-the-hole"
+    },
+    {
+      "text": "\n                          Latest Episodes\n                        ",
+      "url": "/podcasts"
+    },
+    {
+      "text": "\n                          Wrestling Show\n                        ",
+      "url": "https://www.theringer.com/ringer-wrestling-show"
+    },
+    {
+      "text": "All Podcasts",
+      "url": "/pages/podcasts"
+    },
+    {
+      "text": "\n            TV\n            \n          ",
+      "url": "/tv"
+    },
+    {
+      "text": "\n            Features\n            \n          ",
+      "url": "/features"
+    },
+    {
+      "text": "\n            Movies\n            \n          ",
+      "url": "/movies"
+    },
+    {
+      "text": "\n            MLB\n            \n          ",
+      "url": "/mlb"
+    },
+    {
+      "text": "\n            Video\n            \n          ",
+      "url": "/video"
+    },
+    {
+      "text": "\n            Music\n            \n          ",
+      "url": "/music"
+    },
+    {
+      "text": "\n            Shop\n            \n          ",
+      "url": "/shop"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657594684_7324_146017\" data-cdata='{\"image_id\":71097551,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71097551/SaulReturns_AMC_Getty_Ringer.0.jpeg\" alt=\"\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/better-call-saul/2022/7/11/23204348/better-call-saul-season-6-episode-8-recap-lalo-salamanca"
+    },
+    {
+      "text": "\n              Better Call Saul\n            ",
+      "url": "https://www.theringer.com/better-call-saul"
+    },
+    {
+      "text": "The Dominos Continue to Fall in the \u2018Better Call Saul\u2019 Midseason Premiere",
+      "url": "https://www.theringer.com/better-call-saul/2022/7/11/23204348/better-call-saul-season-6-episode-8-recap-lalo-salamanca"
+    },
+    {
+      "text": "Miles Surrey",
+      "url": "https://www.theringer.com/authors/miles-surrey"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657594684_5466_146020\" data-cdata='{\"image_id\":71097533,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71097533/BacheloretteEp01_ABC_Getty_Ringer.0.jpeg\" alt=\"\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/the-bachelorette/2022/7/11/23204668/bachelorette-season-19-premiere-gabby-rachel"
+    },
+    {
+      "text": "\n              The Bachelorette\n            ",
+      "url": "https://www.theringer.com/the-bachelorette"
+    },
+    {
+      "text": "The \u2018Bachelorette\u2019 Premiere Recap: \u201cTwo Women Dating One Group of Men\u2014How\u2019s That Gonna Work?\u201d",
+      "url": "https://www.theringer.com/the-bachelorette/2022/7/11/23204668/bachelorette-season-19-premiere-gabby-rachel"
+    },
+    {
+      "text": "Jodi Walker",
+      "url": "https://www.theringer.com/authors/jodi-walker"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/11/23203518/thor-love-and-thunder-stingers-gorr-jane-foster"
+    },
+    {
+      "text": "\n              Marvel\n            ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe"
+    },
+    {
+      "text": "Four Takeaways From \u2018Thor: Love and Thunder\u2019 and Its Post-Credits Scenes",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/11/23203518/thor-love-and-thunder-stingers-gorr-jane-foster"
+    },
+    {
+      "text": "Daniel Chin",
+      "url": "https://www.theringer.com/authors/daniel-chin"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/nba/2022/7/11/23203674/bill-simmons-nba-trade-value-2022-summer-list"
+    },
+    {
+      "text": "\n              NBA\n            ",
+      "url": "https://www.theringer.com/nba"
+    },
+    {
+      "text": "NBA Trade Value List: Summer 2022 Edition",
+      "url": "https://www.theringer.com/nba/2022/7/11/23203674/bill-simmons-nba-trade-value-2022-summer-list"
+    },
+    {
+      "text": "Bill Simmons",
+      "url": "https://www.theringer.com/authors/bill-simmons"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/tv/2022/7/10/23202680/sopranos-tony-sirico-obituary-paulie-walnuts-gualtieri"
+    },
+    {
+      "text": "\n              TV\n            ",
+      "url": "https://www.theringer.com/tv"
+    },
+    {
+      "text": "Half a Wiseguy: The Genius and the Menace of Paulie Walnuts",
+      "url": "https://www.theringer.com/tv/2022/7/10/23202680/sopranos-tony-sirico-obituary-paulie-walnuts-gualtieri"
+    },
+    {
+      "text": "Justin Sayles",
+      "url": "https://www.theringer.com/authors/justin-sayles"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/11/23203697/thor-love-and-thunder-exit-survey"
+    },
+    {
+      "text": "\n              Marvel\n            ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe"
+    },
+    {
+      "text": "The \u2018Thor: Love and Thunder\u2019 Exit Survey",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/11/23203697/thor-love-and-thunder-exit-survey"
+    },
+    {
+      "text": "The Ringer Staff",
+      "url": "https://www.theringer.com/authors/the-ringer-staff"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/7/23197277/nba-free-agency-kyrie-irving-lakers-nets"
+    },
+    {
+      "text": "\n              NBA Free Agency\n            ",
+      "url": "https://www.theringer.com/nba-free-agency"
+    },
+    {
+      "text": "Five Lingering Questions About Nets-Lakers, the Knicks, and NBA Free Agency",
+      "url": "https://www.theringer.com/2022/7/7/23197277/nba-free-agency-kyrie-irving-lakers-nets"
+    },
+    {
+      "text": "Dan Devine",
+      "url": "https://www.theringer.com/authors/dan-devine"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/11/23203986/bron-breakker-cameron-grimes-nxt-championship-rush-penta-oscuro-best-matches"
+    },
+    {
+      "text": "\n              Fights\n            ",
+      "url": "https://www.theringer.com/fights"
+    },
+    {
+      "text": "Bron Breakker Sends Cameron Grimes to the Moon",
+      "url": "https://www.theringer.com/2022/7/11/23203986/bron-breakker-cameron-grimes-nxt-championship-rush-penta-oscuro-best-matches"
+    },
+    {
+      "text": "Phil Schneider",
+      "url": "https://www.theringer.com/authors/phil-schneider"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/11/23200224/bianca-belair-biggest-star-wwe-universe"
+    },
+    {
+      "text": "\n              Fights\n            ",
+      "url": "https://www.theringer.com/fights"
+    },
+    {
+      "text": "Bianca Belair Is the Biggest Star in the WWE Universe",
+      "url": "https://www.theringer.com/2022/7/11/23200224/bianca-belair-biggest-star-wwe-universe"
+    },
+    {
+      "text": "Nick Bond",
+      "url": "https://www.theringer.com/authors/nick-bond"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/tv/2022/7/8/23200400/the-boys-finale-superhero-franchise-tv"
+    },
+    {
+      "text": "\n              TV\n            ",
+      "url": "https://www.theringer.com/tv"
+    },
+    {
+      "text": "\u2018The Boys\u2019 Has Become a Blockbuster of Its Own",
+      "url": "https://www.theringer.com/tv/2022/7/8/23200400/the-boys-finale-superhero-franchise-tv"
+    },
+    {
+      "text": "Ben Lindbergh",
+      "url": "https://www.theringer.com/authors/ben-lindbergh"
+    },
+    {
+      "text": "The Ringer Podcast Network",
+      "url": "/pages/podcasts"
+    },
+    {
+      "text": "All Podcasts",
+      "url": "/pages/podcasts"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/the-bill-simmons-podcast/2022/7/11/23203202/the-nba-trade-value-list-summer-edition-with-ryen-russillo-cade-cunningham-anthony-davis"
+    },
+    {
+      "text": "The NBA Trade Value List (Summer Edition) With Ryen Russillo ",
+      "url": "https://www.theringer.com/the-bill-simmons-podcast/2022/7/11/23203202/the-nba-trade-value-list-summer-edition-with-ryen-russillo-cade-cunningham-anthony-davis"
+    },
+    {
+      "text": "Bill Simmons",
+      "url": "https://www.theringer.com/authors/bill-simmons"
+    },
+    {
+      "text": "Ryen Russillo",
+      "url": "https://www.theringer.com/authors/ryen-russillo"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/10/23203310/summer-league-observations-and-the-mavs-future-with-j-kyle-mann-and-jonathan-tjarks"
+    },
+    {
+      "text": "Summer League Observations and the Mavs\u2019 Future With J. Kyle Mann and Jonathan Tjarks",
+      "url": "https://www.theringer.com/2022/7/10/23203310/summer-league-observations-and-the-mavs-future-with-j-kyle-mann-and-jonathan-tjarks"
+    },
+    {
+      "text": "Kevin O'Connor",
+      "url": "https://www.theringer.com/authors/kevin-oconnor"
+    },
+    {
+      "text": "J. Kyle Mann",
+      "url": "https://www.theringer.com/authors/j-kyle-mann"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/11/23204272/a-new-look-at-harvey-weinstein-and-hollywoods-enablers"
+    },
+    {
+      "text": "A New Look at Harvey Weinstein and Hollywood\u2019s Enablers",
+      "url": "https://www.theringer.com/2022/7/11/23204272/a-new-look-at-harvey-weinstein-and-hollywoods-enablers"
+    },
+    {
+      "text": "Matthew Belloni",
+      "url": "https://www.theringer.com/authors/matthew-belloni"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/11/23204309/summer-league-vibes"
+    },
+    {
+      "text": "Summer League Vibes",
+      "url": "https://www.theringer.com/2022/7/11/23204309/summer-league-vibes"
+    },
+    {
+      "text": "Logan Murdock",
+      "url": "https://www.theringer.com/authors/logan-murdock"
+    },
+    {
+      "text": "Raja Bell",
+      "url": "https://www.theringer.com/authors/achievement-oriented-2"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/11/23204802/westworld-season-4-episode-3-recap-maeve-and-calebs-visit-to-a-new-park-bernard"
+    },
+    {
+      "text": "\u2018Westworld\u2019 Season 4, Episode 3 Recap ",
+      "url": "https://www.theringer.com/2022/7/11/23204802/westworld-season-4-episode-3-recap-maeve-and-calebs-visit-to-a-new-park-bernard"
+    },
+    {
+      "text": "Joanna Robinson",
+      "url": "https://www.theringer.com/authors/joanna-robinson"
+    },
+    {
+      "text": "David Shoemaker",
+      "url": "https://www.theringer.com/authors/david-shoemaker"
+    },
+    {
+      "text": "All Podcasts",
+      "url": "/pages/podcasts"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.theringer.com/sports"
+    },
+    {
+      "text": "Pop Culture",
+      "url": "https://www.theringer.com/pop-culture"
+    },
+    {
+      "text": "Tech",
+      "url": "https://www.theringer.com/tech"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/7/23199029/tv-producer-elan-gale-on-how-to-make-a-great-reality-show"
+    },
+    {
+      "text": "\n              Bachelor Party\n            ",
+      "url": "https://www.theringer.com/bachelor-party"
+    },
+    {
+      "text": "\u2018Bachelor\u2019 Producer Extraordinaire Elan Gale on How to Make a Great Reality Show ",
+      "url": "https://www.theringer.com/2022/7/7/23199029/tv-producer-elan-gale-on-how-to-make-a-great-reality-show"
+    },
+    {
+      "text": "Juliet Litman",
+      "url": "https://www.theringer.com/authors/juliet-litman"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/music/2022/7/8/23198661/best-songs-kendrick-glorilla-drake-gunna"
+    },
+    {
+      "text": "\n              Music\n            ",
+      "url": "https://www.theringer.com/music"
+    },
+    {
+      "text": "The Best Songs of 2022 (So Far)",
+      "url": "https://www.theringer.com/music/2022/7/8/23198661/best-songs-kendrick-glorilla-drake-gunna"
+    },
+    {
+      "text": "The Ringer Staff",
+      "url": "https://www.theringer.com/authors/the-ringer-staff"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/tv/2021/5/5/22417569/sopranos-pine-barrens-oral-history"
+    },
+    {
+      "text": "\n              TV\n            ",
+      "url": "https://www.theringer.com/tv"
+    },
+    {
+      "text": "Two Assholes Lost in the Woods: An Oral History of \u2018Pine Barrens\u2019",
+      "url": "https://www.theringer.com/tv/2021/5/5/22417569/sopranos-pine-barrens-oral-history"
+    },
+    {
+      "text": "Alan Siegel",
+      "url": "https://www.theringer.com/authors/alan-siegel"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/8/23199413/nba-free-agency-los-angeles-clippers"
+    },
+    {
+      "text": "\n              NBA Free Agency\n            ",
+      "url": "https://www.theringer.com/nba-free-agency"
+    },
+    {
+      "text": "Do the Clippers Have Too Much of a Good Thing?",
+      "url": "https://www.theringer.com/2022/7/8/23199413/nba-free-agency-los-angeles-clippers"
+    },
+    {
+      "text": "Rob Mahoney",
+      "url": "https://www.theringer.com/authors/rob-mahoney"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/10/23202985/elon-musk-twitter-terminated-deal"
+    },
+    {
+      "text": "\n              Plain English\n            ",
+      "url": "https://www.theringer.com/plain-english-with-derek-thompson-podcast"
+    },
+    {
+      "text": "Musk Meltdown: Elon\u2019s Breakup With Twitter Is Going to Be Very Messy",
+      "url": "https://www.theringer.com/2022/7/10/23202985/elon-musk-twitter-terminated-deal"
+    },
+    {
+      "text": "Derek Thompson",
+      "url": "https://www.theringer.com/authors/derek-thompson"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/movies/2022/7/8/23199720/james-caan-obituary"
+    },
+    {
+      "text": "\n              Movies\n            ",
+      "url": "https://www.theringer.com/movies"
+    },
+    {
+      "text": "James Caan Was Unlike Any Other Leading Man",
+      "url": "https://www.theringer.com/movies/2022/7/8/23199720/james-caan-obituary"
+    },
+    {
+      "text": "Alan Siegel",
+      "url": "https://www.theringer.com/authors/alan-siegel"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/movies/2022/7/8/23198845/thor-love-and-thunder-review-mcu-phase-4-slump"
+    },
+    {
+      "text": "\n              Movies\n            ",
+      "url": "https://www.theringer.com/movies"
+    },
+    {
+      "text": "\u2018Thor: Love and Thunder\u2019\u2014and Phase 4 of the MCU\u2014Is Lost",
+      "url": "https://www.theringer.com/movies/2022/7/8/23198845/thor-love-and-thunder-review-mcu-phase-4-slump"
+    },
+    {
+      "text": "Miles Surrey",
+      "url": "https://www.theringer.com/authors/miles-surrey"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/8/23199619/the-biggest-economic-question-of-the-moment-is-this-peak-inflation"
+    },
+    {
+      "text": "\n              Plain English\n            ",
+      "url": "https://www.theringer.com/plain-english-with-derek-thompson-podcast"
+    },
+    {
+      "text": "The Biggest Economic Question of the Moment: Is This Peak Inflation?",
+      "url": "https://www.theringer.com/2022/7/8/23199619/the-biggest-economic-question-of-the-moment-is-this-peak-inflation"
+    },
+    {
+      "text": "Derek Thompson",
+      "url": "https://www.theringer.com/authors/derek-thompson"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/tv/2022/7/8/23199193/black-bird-apple-tv-plus-review-ray-liotta-taron-egerton"
+    },
+    {
+      "text": "\n              TV\n            ",
+      "url": "https://www.theringer.com/tv"
+    },
+    {
+      "text": "Come for the Ray Liotta Role in \u2018Black Bird,\u2019 Stay for the Worthwhile Drama  ",
+      "url": "https://www.theringer.com/tv/2022/7/8/23199193/black-bird-apple-tv-plus-review-ray-liotta-taron-egerton"
+    },
+    {
+      "text": "Alison Herman",
+      "url": "https://www.theringer.com/authors/alison-herman"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/7/23198115/ms-marvel-kamala-khan-clandestines-family-history"
+    },
+    {
+      "text": "\n              Marvel\n            ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe"
+    },
+    {
+      "text": "In \u2018Ms. Marvel,\u2019 Family Continues to Trump Mythology",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/7/23198115/ms-marvel-kamala-khan-clandestines-family-history"
+    },
+    {
+      "text": "Daniel Chin",
+      "url": "https://www.theringer.com/authors/daniel-chin"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/movies/2022/7/7/23197384/christian-bale-career-arc-after-batman-thor-gorr"
+    },
+    {
+      "text": "\n              Movies\n            ",
+      "url": "https://www.theringer.com/movies"
+    },
+    {
+      "text": "Christian Bale: From Batman to the God Butcher",
+      "url": "https://www.theringer.com/movies/2022/7/7/23197384/christian-bale-career-arc-after-batman-thor-gorr"
+    },
+    {
+      "text": "A.A. Dowd",
+      "url": "https://www.theringer.com/authors/a-a-dowd"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/music/2022/7/7/23197181/best-albums-midyear-rosalia-kendrick-angel-olsen-bad-bunny-pusha-t"
+    },
+    {
+      "text": "\n              Music\n            ",
+      "url": "https://www.theringer.com/music"
+    },
+    {
+      "text": "The Best Albums of 2022 (So Far)",
+      "url": "https://www.theringer.com/music/2022/7/7/23197181/best-albums-midyear-rosalia-kendrick-angel-olsen-bad-bunny-pusha-t"
+    },
+    {
+      "text": "The Ringer Staff",
+      "url": "https://www.theringer.com/authors/the-ringer-staff"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/tv/2022/7/7/23197786/star-trek-strange-new-worlds-season-1-finale-review"
+    },
+    {
+      "text": "\n              TV\n            ",
+      "url": "https://www.theringer.com/tv"
+    },
+    {
+      "text": "I\u2019m Already Homesick for \u2018Star Trek: Strange New Worlds\u2019",
+      "url": "https://www.theringer.com/tv/2022/7/7/23197786/star-trek-strange-new-worlds-season-1-finale-review"
+    },
+    {
+      "text": "Ben Lindbergh",
+      "url": "https://www.theringer.com/authors/ben-lindbergh"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/nfl/2022/7/6/23197283/baker-mayfield-trade-carolina-panthers-cleveland-browns"
+    },
+    {
+      "text": "\n              NFL\n            ",
+      "url": "https://www.theringer.com/nfl"
+    },
+    {
+      "text": "Baker Mayfield Could Be Good for Carolina\u2014or Too Little, Too Late",
+      "url": "https://www.theringer.com/nfl/2022/7/6/23197283/baker-mayfield-trade-carolina-panthers-cleveland-browns"
+    },
+    {
+      "text": "Steven Ruiz",
+      "url": "https://www.theringer.com/authors/steven-ruiz"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/6/23196667/theory-wwe-superstar-new-rick-rude-physique-heel"
+    },
+    {
+      "text": "\n              Fights\n            ",
+      "url": "https://www.theringer.com/fights"
+    },
+    {
+      "text": "Theory Is WWE\u2019s Next Big, Bad Bodybuilder",
+      "url": "https://www.theringer.com/2022/7/6/23196667/theory-wwe-superstar-new-rick-rude-physique-heel"
+    },
+    {
+      "text": "Oliver Lee Bateman",
+      "url": "https://www.theringer.com/authors/oliver-lee-bateman"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/nba/2022/7/6/23196520/kevin-durant-rumors-pelicans-free-agency"
+    },
+    {
+      "text": "\n              NBA\n            ",
+      "url": "https://www.theringer.com/nba"
+    },
+    {
+      "text": "Seven NBA Observations on Kevin Durant\u2019s Next Team, Free Agency, and Chet Holmgren",
+      "url": "https://www.theringer.com/nba/2022/7/6/23196520/kevin-durant-rumors-pelicans-free-agency"
+    },
+    {
+      "text": "Kevin O'Connor",
+      "url": "https://www.theringer.com/authors/kevin-oconnor"
+    },
+    {
+      "text": "\n        \n          Video\n        \n      ",
+      "url": "/video"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/HXP5Ea0vDQyH_U-LGILGKBWRkYs=/0x0:1920x1080/250x141/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71040102/brunson_thumb_site.0.png 250w, https://cdn.vox-cdn.com/thumbor/dMeaKB_n_biy_y8bw1KTzAU_p6A=/0x0:1920x1080/500x281/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71040102/brunson_thumb_site.0.png 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/E9t2uTp7JHYl_4r5qizifFc2Gm8=/0x0:1920x1080/250x141/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71040102/brunson_thumb_site.0.png 250w, https://cdn.vox-cdn.com/thumbor/ipX6HCJjhkh_atrNLO04Hv9o0IU=/0x0:1920x1080/500x281/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71040102/brunson_thumb_site.0.png 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"1920\" src=\"https://cdn.vox-cdn.com/thumbor/6gNqlPo7dx0Nu-6YPaT2u7IBkIc=/0x0:1920x1080/1200x675/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71040102/brunson_thumb_site.0.png\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657593696_4898_119376\" data-cdata='{\"image_id\":71040102,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71040102/brunson_thumb_site.0.png\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            The Knicks Finally Got a Real Point Guard\n            \n              KOC is joined by Marc Stein to discuss how Jalen Brunson fits with the Knicks, why the price was necessary, and how he could fare with a higher usage rate\n            \n          \n        ",
+      "url": "https://www.theringer.com/video/2022/7/1/23192040/knicks-finally-got-real-point-guard"
+    },
+    {
+      "text": "\n            Play\n video for The Knicks Finally Got a Real Point Guard\n          ",
+      "url": "https://www.theringer.com/video/2022/7/1/23192040/knicks-finally-got-real-point-guard"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/ZH4YjGDnBN6IYSqJcotCdMkK9NQ=/0x0:1920x1080/250x141/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71030248/ICONS_EP3___site.0.jpeg 250w, https://cdn.vox-cdn.com/thumbor/02CJvsViyHIx2Yst0RDWQGF4e50=/0x0:1920x1080/500x281/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71030248/ICONS_EP3___site.0.jpeg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/M6TQsorUkUHeOXtzzqJLfvyhZds=/0x0:1920x1080/250x141/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71030248/ICONS_EP3___site.0.jpeg 250w, https://cdn.vox-cdn.com/thumbor/71MYr9P7zAyVEtxf3ezZBVOIRuU=/0x0:1920x1080/500x281/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71030248/ICONS_EP3___site.0.jpeg 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"1920\" src=\"https://cdn.vox-cdn.com/thumbor/jd6Lu6gBLm5lxXNIdI1b3TERigg=/0x0:1920x1080/1200x675/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71030248/ICONS_EP3___site.0.jpeg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657593696_5448_119379\" data-cdata='{\"image_id\":71030248,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71030248/ICONS_EP3___site.0.jpeg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            How Larry Bird, Magic Johnson, and David Stern Changed the NBA\n            \n              Jackie MacMullan details how a young David Stern leveraged the budding rivalry between Larry Bird and Magic Johnson to market the game\n            \n          \n        ",
+      "url": "https://www.theringer.com/video/2022/6/29/23188514/how-larry-bird-magic-johnson-david-stern-changed-nba"
+    },
+    {
+      "text": "\n            Play\n video for How Larry Bird, Magic Johnson, and David Stern Changed the NBA\n          ",
+      "url": "https://www.theringer.com/video/2022/6/29/23188514/how-larry-bird-magic-johnson-david-stern-changed-nba"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/qFCS3OOUk9PwkZSMPjUxWvHjIUE=/0x0:1920x1080/250x141/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71013271/MUSIC_BIOPICS.0.jpeg 250w, https://cdn.vox-cdn.com/thumbor/Ew9WtRRYiAcVO3BMnHcSLtN0Eto=/0x0:1920x1080/500x281/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71013271/MUSIC_BIOPICS.0.jpeg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/63tO5aSNStWcx8u2u2GCydcDJsg=/0x0:1920x1080/250x141/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71013271/MUSIC_BIOPICS.0.jpeg 250w, https://cdn.vox-cdn.com/thumbor/ywo9HutkYsboxIk-tqgdNa2WzSo=/0x0:1920x1080/500x281/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71013271/MUSIC_BIOPICS.0.jpeg 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"1920\" src=\"https://cdn.vox-cdn.com/thumbor/jMQ0UNqQxMo_VcOONGokRCcP4M8=/0x0:1920x1080/1200x675/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71013271/MUSIC_BIOPICS.0.jpeg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657593696_7620_119382\" data-cdata='{\"image_id\":71013271,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71013271/MUSIC_BIOPICS.0.jpeg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Rock Biopics: Before Elvis, What Other Rockers Got the Silver Screen Treatment?\n            \n              As Baz Luhrmann\u2019s \u2018Elvis\u2019 hits theaters, Ringer contributor Adam Nayman takes a look at some notable entries in the music biopic genre\n            \n          \n        ",
+      "url": "https://www.theringer.com/movies/2022/6/24/23181914/rock-biopics-before-elvis-what-other-rockers-got-the-silver-screen-treatment"
+    },
+    {
+      "text": "\n            Play\n video for Rock Biopics: Before Elvis, What Other Rockers Got the Silver Screen Treatment?\n          ",
+      "url": "https://www.theringer.com/movies/2022/6/24/23181914/rock-biopics-before-elvis-what-other-rockers-got-the-silver-screen-treatment"
+    },
+    {
+      "text": "More in Video",
+      "url": "/video"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.voxmedia.com/legal/privacy-notice"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/6/23196091/why-are-the-police-so-bad-at-solving-murders"
+    },
+    {
+      "text": "\n              Plain English\n            ",
+      "url": "https://www.theringer.com/plain-english-with-derek-thompson-podcast"
+    },
+    {
+      "text": "Why Are the Police So Bad at Solving Murders?",
+      "url": "https://www.theringer.com/2022/7/6/23196091/why-are-the-police-so-bad-at-solving-murders"
+    },
+    {
+      "text": "Derek Thompson",
+      "url": "https://www.theringer.com/authors/derek-thompson"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/stranger-things/2022/7/6/23195792/stranger-things-season-four-vecna-upside-down"
+    },
+    {
+      "text": "\n              Stranger Things\n            ",
+      "url": "https://www.theringer.com/stranger-things"
+    },
+    {
+      "text": "Four Key Questions After Season 4 of \u2018Stranger Things\u2019",
+      "url": "https://www.theringer.com/stranger-things/2022/7/6/23195792/stranger-things-season-four-vecna-upside-down"
+    },
+    {
+      "text": "Dan Comer",
+      "url": "https://www.theringer.com/authors/dan-comer"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/movies/2022/7/6/23195451/best-movies-2022-so-far-top-gun-maverick-jackass-forever"
+    },
+    {
+      "text": "\n              Movies\n            ",
+      "url": "https://www.theringer.com/movies"
+    },
+    {
+      "text": "The Best Movies of 2022 (So Far)",
+      "url": "https://www.theringer.com/movies/2022/7/6/23195451/best-movies-2022-so-far-top-gun-maverick-jackass-forever"
+    },
+    {
+      "text": "Adam Nayman",
+      "url": "https://www.theringer.com/authors/adam-nayman"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/6/23196318/thor-mcu-evolution-taika-waititi-chris-hemsworth"
+    },
+    {
+      "text": "\n              Marvel\n            ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe"
+    },
+    {
+      "text": "The Evolution of Thor, Marvel\u2019s Mainstay  ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/6/23196318/thor-mcu-evolution-taika-waititi-chris-hemsworth"
+    },
+    {
+      "text": "Daniel Chin",
+      "url": "https://www.theringer.com/authors/daniel-chin"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/5/23195519/street-profits-usos-wwe-money-in-the-bank-aew-blood-and-guts-best-matches"
+    },
+    {
+      "text": "\n              Fights\n            ",
+      "url": "https://www.theringer.com/fights"
+    },
+    {
+      "text": "The Street Profits and the Usos (and AEW\u2019s \u2018Blood & Guts\u2019 2022 Match) Deliver",
+      "url": "https://www.theringer.com/2022/7/5/23195519/street-profits-usos-wwe-money-in-the-bank-aew-blood-and-guts-best-matches"
+    },
+    {
+      "text": "Phil Schneider",
+      "url": "https://www.theringer.com/authors/phil-schneider"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/tv/2022/7/5/23192227/best-tv-shows-2022-so-far-hacks-severance-barry-dropout"
+    },
+    {
+      "text": "\n              TV\n            ",
+      "url": "https://www.theringer.com/tv"
+    },
+    {
+      "text": "The Best TV Shows of 2022 (So Far)  ",
+      "url": "https://www.theringer.com/tv/2022/7/5/23192227/best-tv-shows-2022-so-far-hacks-severance-barry-dropout"
+    },
+    {
+      "text": "Alison Herman",
+      "url": "https://www.theringer.com/authors/alison-herman"
+    },
+    {
+      "text": "Miles Surrey",
+      "url": "https://www.theringer.com/authors/miles-surrey"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/nfl/2022/7/5/23192098/nfl-wide-receiver-bubble-terry-mclaurin-commanders-defenses"
+    },
+    {
+      "text": "\n              NFL\n            ",
+      "url": "https://www.theringer.com/nfl"
+    },
+    {
+      "text": "Why the NFL Wide Receiver Bubble May Not Burst\u2014or at Least Not Anytime Soon",
+      "url": "https://www.theringer.com/nfl/2022/7/5/23192098/nfl-wide-receiver-bubble-terry-mclaurin-commanders-defenses"
+    },
+    {
+      "text": "Steven Ruiz",
+      "url": "https://www.theringer.com/authors/steven-ruiz"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/5/23194726/thor-love-and-thunder-jane-foster-gorr"
+    },
+    {
+      "text": "\n              Marvel\n            ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe"
+    },
+    {
+      "text": "What You Need to Know Before Seeing \u2018Thor: Love and Thunder\u2019  ",
+      "url": "https://www.theringer.com/marvel-cinematic-universe/2022/7/5/23194726/thor-love-and-thunder-jane-foster-gorr"
+    },
+    {
+      "text": "Daniel Chin",
+      "url": "https://www.theringer.com/authors/daniel-chin"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/4/23194189/stranger-things-season-4-episode-9-deep-dive"
+    },
+    {
+      "text": "\n              House of R\n            ",
+      "url": "https://www.theringer.com/house-of-r"
+    },
+    {
+      "text": "\u2018Stranger Things\u2019 Season 4, Episode 9 Deep Dive",
+      "url": "https://www.theringer.com/2022/7/4/23194189/stranger-things-season-4-episode-9-deep-dive"
+    },
+    {
+      "text": "Mallory Rubin",
+      "url": "https://www.theringer.com/authors/mallory-rubin"
+    },
+    {
+      "text": "Joanna Robinson",
+      "url": "https://www.theringer.com/authors/joanna-robinson"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/wwe/2022/7/4/23186438/john-cena-wwe-20-years-meme-legacy"
+    },
+    {
+      "text": "\n              WWE\n            ",
+      "url": "https://www.theringer.com/wwe"
+    },
+    {
+      "text": "John Cena\u2019s Relationship With Meme Culture, Explored",
+      "url": "https://www.theringer.com/wwe/2022/7/4/23186438/john-cena-wwe-20-years-meme-legacy"
+    },
+    {
+      "text": "Nick Bond",
+      "url": "https://www.theringer.com/authors/nick-bond"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/tv/2022/7/3/23193479/stranger-things-season-4-volume-2-character-deaths"
+    },
+    {
+      "text": "\n              TV\n            ",
+      "url": "https://www.theringer.com/tv"
+    },
+    {
+      "text": "What\u2019s Really at Stake in \u2018Stranger Things\u2019 After the Season 4 Finale?",
+      "url": "https://www.theringer.com/tv/2022/7/3/23193479/stranger-things-season-4-volume-2-character-deaths"
+    },
+    {
+      "text": "Claire McNear",
+      "url": "https://www.theringer.com/authors/claire-mcnear"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/nba/2022/7/1/23192325/rudy-gobert-nba-free-agency-trades-deals-rumors"
+    },
+    {
+      "text": "\n              NBA\n            ",
+      "url": "https://www.theringer.com/nba"
+    },
+    {
+      "text": "The Biggest Takeaways From Day 2 of NBA Free Agency",
+      "url": "https://www.theringer.com/nba/2022/7/1/23192325/rudy-gobert-nba-free-agency-trades-deals-rumors"
+    },
+    {
+      "text": "Dan Devine",
+      "url": "https://www.theringer.com/authors/dan-devine"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/1/23192254/stranger-things-season-4-episode-8-deep-dive"
+    },
+    {
+      "text": "\n              House of R\n            ",
+      "url": "https://www.theringer.com/house-of-r"
+    },
+    {
+      "text": "\u2018Stranger Things\u2019 Season 4, Episode 8 Deep Dive",
+      "url": "https://www.theringer.com/2022/7/1/23192254/stranger-things-season-4-episode-8-deep-dive"
+    },
+    {
+      "text": "Mallory Rubin",
+      "url": "https://www.theringer.com/authors/mallory-rubin"
+    },
+    {
+      "text": "Joanna Robinson",
+      "url": "https://www.theringer.com/authors/joanna-robinson"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/2022/7/1/23190703/abortion-pills-are-a-game-changer-plus-our-next-big-culture-war"
+    },
+    {
+      "text": "\n              Plain English\n            ",
+      "url": "https://www.theringer.com/plain-english-with-derek-thompson-podcast"
+    },
+    {
+      "text": "Abortion Pills Are a Game Changer, Plus Our Next Big Culture War",
+      "url": "https://www.theringer.com/2022/7/1/23190703/abortion-pills-are-a-game-changer-plus-our-next-big-culture-war"
+    },
+    {
+      "text": "Derek Thompson",
+      "url": "https://www.theringer.com/authors/derek-thompson"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/movies/2022/7/1/23190575/eddie-murphy-boomerang-30-year-retrospective"
+    },
+    {
+      "text": "\n              Movies\n            ",
+      "url": "https://www.theringer.com/movies"
+    },
+    {
+      "text": "\u2018Boomerang\u2019 Dared to Depict Reality",
+      "url": "https://www.theringer.com/movies/2022/7/1/23190575/eddie-murphy-boomerang-30-year-retrospective"
+    },
+    {
+      "text": "Julian Kimble",
+      "url": "https://www.theringer.com/authors/julian-kimble"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theringer.com/movies/2022/7/1/23189627/kevin-costner-bull-durham-ron-shelton-church-of-baseball-excerpt"
+    },
+    {
+      "text": "\n              Movies\n            ",
+      "url": "https://www.theringer.com/movies"
+    },
+    {
+      "text": "How Kevin Costner Helped \u2018Bull Durham\u2019 Find Studio Backing at the 11th Hour",
+      "url": "https://www.theringer.com/movies/2022/7/1/23189627/kevin-costner-bull-durham-ron-shelton-church-of-baseball-excerpt"
+    },
+    {
+      "text": "Ron Shelton",
+      "url": "https://www.theringer.com/authors/ron-shelton"
+    },
+    {
+      "text": "\n        \n          NBA\n        \n      ",
+      "url": "/nba"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/AZv0KNH9wgahE3A54cOKsQBciGk=/0x0:3000x2000/250x188/filters:focal(1260x760:1740x1240):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71095218/TradeValue_Getty_Ringer.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/S8HoeNw3TaNb4_5NCbY9Lkdvbi0=/0x0:3000x2000/500x375/filters:focal(1260x760:1740x1240):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71095218/TradeValue_Getty_Ringer.0.jpg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/trPBljzC-DKXG2vswia4MgXlypc=/0x0:3000x2000/250x188/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71095218/TradeValue_Getty_Ringer.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/b_kD97TtSDXFegasDGNa6_QqNOw=/0x0:3000x2000/500x375/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71095218/TradeValue_Getty_Ringer.0.jpg 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"3000\" src=\"https://cdn.vox-cdn.com/thumbor/uqhTp0yCxW2ViGCmlMUGhEECwBs=/0x0:3000x2000/1200x900/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71095218/TradeValue_Getty_Ringer.0.jpg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657594209_5547_134088\" data-cdata='{\"image_id\":71095218,\"ratio\":\"standard\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71095218/TradeValue_Getty_Ringer.0.jpg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            NBA Trade Value List: Summer 2022 Edition\n            \n              It\u2019s back! As summer league winds down and the NBA finally hits its true offseason, Bill Simmons takes stock of the league, breaking down the 64 most valuable trade assets heading into 2022-23.\n            \n          \n        ",
+      "url": "https://www.theringer.com/nba/2022/7/11/23203674/bill-simmons-nba-trade-value-2022-summer-list"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/Qt2mM1tLQ_CEWMJItnySYx0ZiIE=/0x0:1200x800/250x188/filters:focal(519x52:711x244):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71067820/ClippersRoster_Getty_Ringer.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/xPeH2iGaqBWZ6hz5z1DYFgsBwHs=/0x0:1200x800/500x375/filters:focal(519x52:711x244):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71067820/ClippersRoster_Getty_Ringer.0.jpg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/e-6W7PsfH3B72XjeEcevT8GEUJ8=/0x0:1200x800/250x188/filters:focal(519x52:711x244)/cdn.vox-cdn.com/uploads/chorus_image/image/71067820/ClippersRoster_Getty_Ringer.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/nWHQgFSSnfvpv7JAcXCkxjEoF_I=/0x0:1200x800/500x375/filters:focal(519x52:711x244)/cdn.vox-cdn.com/uploads/chorus_image/image/71067820/ClippersRoster_Getty_Ringer.0.jpg 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"1200\" src=\"https://cdn.vox-cdn.com/thumbor/RzujjD5nVoCUzLYqY5_m40D__G4=/0x0:1200x800/1200x900/filters:focal(519x52:711x244)/cdn.vox-cdn.com/uploads/chorus_image/image/71067820/ClippersRoster_Getty_Ringer.0.jpg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657594209_6881_134090\" data-cdata='{\"image_id\":71067820,\"ratio\":\"standard\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71067820/ClippersRoster_Getty_Ringer.0.jpg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Do the Clippers Have Too Much of a Good Thing?\n            \n              Despite making only minor moves in free agency, the Clippers might be the early favorites heading into next season. But to make good on their promise this time around, they\u2019ll need to figure out how to manage one of the deepest rosters in recent memory.\n            \n          \n        ",
+      "url": "https://www.theringer.com/2022/7/8/23199413/nba-free-agency-los-angeles-clippers"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/TGnIakCZxugMm6tn8HaUGEVcDvc=/0x0:1200x800/250x188/filters:focal(485x97:677x289):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71055690/FreeAgencyQuestions_Getty_Ringer.0.jpeg 250w, https://cdn.vox-cdn.com/thumbor/jYYn3UC8ec2Hq_-6hDqwdA3FnwY=/0x0:1200x800/500x375/filters:focal(485x97:677x289):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71055690/FreeAgencyQuestions_Getty_Ringer.0.jpeg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/NYgQKIivgcLbdRJ8UKvFc-buU68=/0x0:1200x800/250x188/filters:focal(485x97:677x289)/cdn.vox-cdn.com/uploads/chorus_image/image/71055690/FreeAgencyQuestions_Getty_Ringer.0.jpeg 250w, https://cdn.vox-cdn.com/thumbor/f0QP7NqBLqTHmzBUy0tII9jHAQQ=/0x0:1200x800/500x375/filters:focal(485x97:677x289)/cdn.vox-cdn.com/uploads/chorus_image/image/71055690/FreeAgencyQuestions_Getty_Ringer.0.jpeg 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"1200\" src=\"https://cdn.vox-cdn.com/thumbor/phMm_tQEAA5hnn6T2rahAPD9Lcg=/0x0:1200x800/1200x900/filters:focal(485x97:677x289)/cdn.vox-cdn.com/uploads/chorus_image/image/71055690/FreeAgencyQuestions_Getty_Ringer.0.jpeg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657594209_170_134092\" data-cdata='{\"image_id\":71055690,\"ratio\":\"standard\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71055690/FreeAgencyQuestions_Getty_Ringer.0.jpeg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Five Lingering Questions About Nets-Lakers, the Knicks, and NBA Free Agency\n            \n              Who blinks first in the Kyrie Irving trade talks? We examine that and more as the dust begins to settle in free agency and all eyes turn to the trade market and the season ahead.\n            \n          \n        ",
+      "url": "https://www.theringer.com/2022/7/7/23197277/nba-free-agency-kyrie-irving-lakers-nets"
+    },
+    {
+      "text": "More in NBA",
+      "url": "/nba"
+    },
+    {
+      "text": "More Stories",
+      "url": "https://www.theringer.com/archives"
+    },
+    {
+      "text": "\n        \n          \n  \n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\n\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\n\n\n\n\n        \n        Chorus\n      ",
+      "url": "/"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://www.theringer.com/pages/terms-of-service"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.theringer.com/legal/privacy-notice"
+    },
+    {
+      "text": "Cookie Policy",
+      "url": "https://www.theringer.com/legal/cookie-policy"
+    },
+    {
+      "text": "Do not sell my info",
+      "url": "https://www.theringer.com/contact#donotsell"
+    },
+    {
+      "text": "Communications Preferences",
+      "url": "http://theringer.us12.list-manage.com/subscribe?u=9a393473748185dce76bf8339&id=9e93fbf5d6"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.theringer.com/legal/accessibility"
+    },
+    {
+      "text": "Platform Status",
+      "url": "https://status.voxmedia.com"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
+    },
+    {
+      "text": "Send Us a Tip",
+      "url": "/contact#tip"
+    },
+    {
+      "text": "Masthead ",
+      "url": "/masthead"
+    },
+    {
+      "text": "Sponsorship Policy",
+      "url": "https://www.theringer.com/pages/editorial-independence-policy"
+    },
+    {
+      "text": "\n      \n      \n        \n          \n  \n  \n  \n\n\n\n        \n      \n      \n        ",
+      "url": "https://sbnation.com"
+    },
+    {
+      "text": "Advertise with us",
+      "url": "https://ads.spotify.com/en-US/"
+    },
+    {
+      "text": "Jobs @ The Ringer",
+      "url": "https://theringer.com/jobs"
+    }
+  ],
   "server": "ia902504.us.archive.org",
-  "uniq": 1073033221,
+  "uniq": 2066285577,
   "workable_servers": [
     "ia902504.us.archive.org",
     "ia802504.us.archive.org"

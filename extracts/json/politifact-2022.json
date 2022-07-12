@@ -1,5 +1,5 @@
 {
-  "created": 1657455411,
+  "created": 1657628468,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -1990,31 +1990,199 @@
       "sha1": "2565312c72681336a6fcf6d86489e81b50592ea9"
     },
     {
+      "name": "politifact-2022-07-10T09:47:28.345944-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657460852",
+      "size": "35807",
+      "md5": "37b03314de0fed134624892e6422a1fe",
+      "crc32": "9108e690",
+      "sha1": "514b6cb9fd3a76de037f1c30c4b12e0c5c829afb",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-10T09:47:28.345944-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657460853",
+      "size": "21834",
+      "md5": "752800d9e7dd9f37d536c20f9245fb85",
+      "crc32": "acf42749",
+      "sha1": "24192ab70eedf589070cc9a1de380e84b247c09d",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-10T09:47:28.345944-04:00.jpg",
+      "source": "original",
+      "mtime": "1657460850",
+      "size": "183494",
+      "md5": "615de1328cc489af1dd863391915e27c",
+      "crc32": "95562960",
+      "sha1": "356dc61e749e8bf0f9ecce2206574001d9248426",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-07-10T09:47:28.345944-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-10T09:47:28.345944-04:00.jpg",
+      "mtime": "1657460899",
+      "size": "8701",
+      "md5": "948fdecf9196b7c7f95a042ef03e4cc6",
+      "crc32": "2e2b5843",
+      "sha1": "2565312c72681336a6fcf6d86489e81b50592ea9"
+    },
+    {
+      "name": "politifact-2022-07-10T22:13:33.198890-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657505616",
+      "size": "35807",
+      "md5": "37b03314de0fed134624892e6422a1fe",
+      "crc32": "9108e690",
+      "sha1": "514b6cb9fd3a76de037f1c30c4b12e0c5c829afb",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-10T22:13:33.198890-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505618",
+      "size": "21835",
+      "md5": "87a2526083657b6ed3e9f4ef89129cdf",
+      "crc32": "3b291a1d",
+      "sha1": "dc36bafdaefcc2720fe3d897e7f116a6659e139a",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-10T22:13:33.198890-04:00.jpg",
+      "source": "original",
+      "mtime": "1657505614",
+      "size": "183494",
+      "md5": "615de1328cc489af1dd863391915e27c",
+      "crc32": "95562960",
+      "sha1": "356dc61e749e8bf0f9ecce2206574001d9248426",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-07-10T22:13:33.198890-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-10T22:13:33.198890-04:00.jpg",
+      "mtime": "1657505663",
+      "size": "8701",
+      "md5": "948fdecf9196b7c7f95a042ef03e4cc6",
+      "crc32": "2e2b5843",
+      "sha1": "2565312c72681336a6fcf6d86489e81b50592ea9"
+    },
+    {
+      "name": "politifact-2022-07-11T11:58:09.211431-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657555092",
+      "size": "35320",
+      "md5": "8ff7273f78163b48d94c08e4685822e8",
+      "crc32": "30257666",
+      "sha1": "cc8524c0ed3ff7458d4026baf168b7dcbb6ebdc4",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-11T11:58:09.211431-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657555094",
+      "size": "21633",
+      "md5": "fea9d37051f9e28ac5c07164424bf133",
+      "crc32": "0b27e19c",
+      "sha1": "c2e5501fb951fa6a50ed9e2628f59fda0ebd4d10",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-11T11:58:09.211431-04:00.jpg",
+      "source": "original",
+      "mtime": "1657555091",
+      "size": "210621",
+      "md5": "97106aa63d66575e1146d5ae37c6676f",
+      "crc32": "99d7a51e",
+      "sha1": "40b7d668990f93282099b1da34e64900faa5bc02",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-07-11T11:58:09.211431-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-11T11:58:09.211431-04:00.jpg",
+      "mtime": "1657555155",
+      "size": "8840",
+      "md5": "04d221d2b0a85ae2099fd3c960dad311",
+      "crc32": "d1d142ee",
+      "sha1": "46149ac2e6f931589439ce754907a8cf19dfca8b"
+    },
+    {
+      "name": "politifact-2022-07-11T22:13:54.751161-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657592038",
+      "size": "35242",
+      "md5": "56dc7237895145cda7385396d6851a5f",
+      "crc32": "25c165e0",
+      "sha1": "cc62f50b9962a6d46bc82418345aa5e578139791",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-11T22:13:54.751161-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657592040",
+      "size": "21969",
+      "md5": "5a4c100549573f1cc7af83eab5367b57",
+      "crc32": "d4693f9c",
+      "sha1": "9e1bfe570ebd454da5fc2eeb9ba254b7d5ab810f",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-11T22:13:54.751161-04:00.jpg",
+      "source": "original",
+      "mtime": "1657592036",
+      "size": "193359",
+      "md5": "2006bda58d59faaae71a9633a4b3aaab",
+      "crc32": "ea3dad70",
+      "sha1": "404400d03aa21587fab6c97becfe142441ddc494",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-07-11T22:13:54.751161-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-11T22:13:54.751161-04:00.jpg",
+      "mtime": "1657592132",
+      "size": "8450",
+      "md5": "05d66bed08111d6eebb22171fcad00f1",
+      "crc32": "1a78c801",
+      "sha1": "c6edd85a1bf9c5194b0b2353736779992f1ba020"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ad8771210e4a172a6c9c78342059e34aa2acb07",
-      "mtime": "1657419191",
-      "size": "41485",
-      "md5": "ca964a30111f77abf0f1d0510080daf2",
-      "crc32": "176c3827",
-      "sha1": "0c608407b528d81054cf58dfc616040594483668",
+      "btih": "4f8292b3abed06415b516f1f0db641ae98e67136",
+      "mtime": "1657592170",
+      "size": "44873",
+      "md5": "a7149c233fa065c2548d6823c260d55e",
+      "crc32": "5f7ac8d6",
+      "sha1": "b1285bfcaa81e9b4575e5b2667afa53339e18161",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ac25c502e79e932892f8d74b3c3ffbb",
+      "md5": "3f7eca497252f8c932c605c99c7e7be8",
       "summation": "md5"
     },
     {
       "name": "politifact-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657419144",
-      "size": "237568",
-      "md5": "d47160408e11487884eb70ae79236268",
-      "crc32": "c0cd5dcf",
-      "sha1": "6c3e1805e7b3c079baf05d73be6973a0075cd247",
+      "mtime": "1657592044",
+      "size": "253952",
+      "md5": "fc12cad70cebc472e3cea44f35dfa90c",
+      "crc32": "7dcc3e50",
+      "sha1": "60dcba379c16fc7b1b60a390d94c2bf9f86455b4",
       "format": "Metadata"
     },
     {
@@ -2028,9 +2196,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 193,
-  "item_last_updated": 1657419191,
-  "item_size": 13415047,
+  "files_count": 209,
+  "item_last_updated": 1657592170,
+  "item_size": 14469926,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -2309,12 +2477,8 @@
       "url": "/membership/"
     },
     {
-      "text": "\nRon DeSantis\n",
-      "url": "/personalities/ron-desantis/"
-    },
-    {
-      "text": "\nThe Civics Secures Democracy Act \u201cwould allow the Biden administration to buy off states with $6 billion\u201d if they adopt critical race theory.\n",
-      "url": "/factchecks/2022/jul/08/ron-desantis/ron-desantis-falsely-claims-biden-trying-buy-state/"
+      "text": "\nWhy is the US selling stockpiled oil to China?\n",
+      "url": "/article/2022/jul/11/why-us-selling-stockpiled-oil-china-we-have-answer/"
     },
     {
       "text": "\nMonica Crowley\n",
@@ -2373,6 +2537,62 @@
       "url": "/factchecks/2022/jun/28/instagram-posts/headline-about-texas-lawmakers-anti-abortion-bill-/"
     },
     {
+      "text": "\nInstagram posts\n",
+      "url": "/personalities/instagram-posts/"
+    },
+    {
+      "text": "\nShinzo Abe was assassinated because he \u201cdidn\u2019t mandate vaccines, sent 1.6 million doses back and gave citizens ivermectin.\u201d\n",
+      "url": "/factchecks/2022/jul/11/instagram-posts/no-evidence-shinzo-abe-was-assassinated-over-his-r/"
+    },
+    {
+      "text": "\nTikTok posts\n",
+      "url": "/personalities/tiktok-posts/"
+    },
+    {
+      "text": "\n\u201cThe immune system does not exist.\u201d\n",
+      "url": "/factchecks/2022/jul/11/tiktok-posts/immune-system-exists/"
+    },
+    {
+      "text": "\nFacebook posts\n",
+      "url": "/personalities/facebook-posts/"
+    },
+    {
+      "text": "\n\u201cBelarus declares war on Poland.\u201d\n",
+      "url": "/factchecks/2022/jul/11/facebook-posts/no-belarus-hasnt-declared-war-poland/"
+    },
+    {
+      "text": "\nFacebook posts\n",
+      "url": "/personalities/facebook-posts/"
+    },
+    {
+      "text": "\nHouse Democrats have kicked Rep. Ilhan Omar out of Congress\n",
+      "url": "/factchecks/2022/jul/11/facebook-posts/rep-ilhan-omar-facing-primary-challenge-shes-still/"
+    },
+    {
+      "text": "\nViral image\n",
+      "url": "/personalities/viral-image/"
+    },
+    {
+      "text": "\nAnthony Bourdain and Chris Cornell were killed while working on a documentary about \u201cwidespread pedophilia.\u201d\n",
+      "url": "/factchecks/2022/jul/11/viral-image/no-anthony-bourdain-and-other-celebrities-werent-k/"
+    },
+    {
+      "text": "\nViral image\n",
+      "url": "/personalities/viral-image/"
+    },
+    {
+      "text": "\nA photo shows two men on the run who pretend to be homeless and then \u201cattack and rob you.\u201d\n",
+      "url": "/factchecks/2022/jul/11/viral-image/dont-fall-hoax-about-two-men-pretending-be-homeles/"
+    },
+    {
+      "text": "\nViral image\n",
+      "url": "/personalities/viral-image/"
+    },
+    {
+      "text": "\nElon Musk\u2019s account \u201cis suspended on Twitter after backing out of $44B deal.\u201d\n",
+      "url": "/factchecks/2022/jul/11/viral-image/no-twitter-didnt-suspend-elon-musks-account/"
+    },
+    {
       "text": "\nFacebook posts\n",
       "url": "/personalities/facebook-posts/"
     },
@@ -2397,64 +2617,24 @@
       "url": "/factchecks/2022/jul/08/facebook-posts/moscow-wasnt-engulfed-flames/"
     },
     {
-      "text": "\nFacebook posts\n",
-      "url": "/personalities/facebook-posts/"
-    },
-    {
-      "text": "\n\u201cBiden impeachment in progress.\u201d\n",
-      "url": "/factchecks/2022/jul/08/facebook-posts/no-biden-isnt-process-being-impeached/"
-    },
-    {
-      "text": "\nViral image\n",
-      "url": "/personalities/viral-image/"
-    },
-    {
-      "text": "\nVideo shows Joe Biden putting a Medal of Honor on a Vietnam War veteran backward.\n",
-      "url": "/factchecks/2022/jul/08/viral-image/no-biden-didnt-put-medal-honor-around-vietnam-war-/"
-    },
-    {
-      "text": "\nTweets\n",
-      "url": "/personalities/tweets/"
-    },
-    {
-      "text": "\nAn image shows that \u201cfollowing his resignation, Boris Johnson has escaped to the sea.\u201d\n",
-      "url": "/factchecks/2022/jul/08/tweets/no-boris-johnson-didnt-go-swimming-after-his-resig/"
-    },
-    {
-      "text": "\nFacebook posts\n",
-      "url": "/personalities/facebook-posts/"
-    },
-    {
-      "text": "\nPresident Donald Trump was in a presidential limousine as he left his Jan. 6, 2021, rally at the White House Ellipse.\n",
-      "url": "/factchecks/2022/jul/08/facebook-posts/trump-was-suv-after-jan-6-rally-not-presidential-l/"
-    },
-    {
-      "text": "\nFacebook posts\n",
-      "url": "/personalities/facebook-posts/"
-    },
-    {
-      "text": "\n\u201cSCOTUS overturned the 2020 election.\u201d\n",
-      "url": "/factchecks/2022/jul/08/facebook-posts/no-supreme-court-didnt-overturn-2020-election/"
-    },
-    {
-      "text": "\nCavalier Johnson\n",
-      "url": "/personalities/cavalier-johnson/"
-    },
-    {
-      "text": "\nThe RNC is \u201ca $200 million economic infusion into our communities.\u201d\n",
-      "url": "/factchecks/2022/jul/08/cavalier-johnson/mayor-johnson-overestimates-economic-benefit-hosti/"
-    },
-    {
-      "text": "\nStephen King\n",
-      "url": "/personalities/stephen-king/"
-    },
-    {
-      "text": "\nFlorida Gov. Ron DeSantis \u201csigns bill requiring Florida students, professors to register political views with (the) state.\u201d\n\n",
-      "url": "/factchecks/2022/jul/07/stephen-king/florida-not-requiring-professors-students-register/"
-    },
-    {
       "text": "View all",
       "url": "/factchecks/list/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "/article/2022/jul/11/why-us-selling-stockpiled-oil-china-we-have-answer/"
+    },
+    {
+      "text": "\nWhy is the US selling stockpiled oil to China? We have answers\n",
+      "url": "/article/2022/jul/11/why-us-selling-stockpiled-oil-china-we-have-answer/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "/article/2022/jul/11/did-president-biden-read-directions-teleprompter/"
+    },
+    {
+      "text": "\nDid President Biden read off directions from a teleprompter?\n",
+      "url": "/article/2022/jul/11/did-president-biden-read-directions-teleprompter/"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -2519,22 +2699,6 @@
     {
       "text": "\nEvers-O-Meter update of Gov. Tony Evers campaign promises\n",
       "url": "/article/2022/jul/05/evers-o-meter-update-gov-tony-evers-campaign-promi/"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "/article/2022/jul/01/why-does-federal-law-make-it-easier-18-year-olds-b/"
-    },
-    {
-      "text": "\nWhy does federal law make it easier for 18-year-olds to buy AR-15s than handguns?\n",
-      "url": "/article/2022/jul/01/why-does-federal-law-make-it-easier-18-year-olds-b/"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "/article/2022/jun/30/ad-watch-val-demings-ad-attacks-rubio-abortion/"
-    },
-    {
-      "text": "\nAd Watch: Val Demings\u2019 ad attacks Rubio on abortion\n",
-      "url": "/article/2022/jun/30/ad-watch-val-demings-ad-attacks-rubio-abortion/"
     },
     {
       "text": "View all",
@@ -2629,7 +2793,7 @@
       "url": "/personalities/joe-biden/"
     },
     {
-      "text": "\n\n\n\n\n",
+      "text": "\n\n \n\n\n",
       "url": "/personalities/donald-trump/"
     },
     {
@@ -2642,43 +2806,43 @@
     },
     {
       "text": "\n\n\n\n\n",
-      "url": "https://www.washingtonpost.com/politics/2022/07/09/one-source-story-about-10-year-old-an-abortion-goes-viral/"
+      "url": "https://www.dw.com/en/fact-check-putins-lies-about-the-bombing-of-ukraine/a-62419749"
     },
     {
-      "text": "\nA one-source story about a 10-year-old and an abortion goes viral\n",
-      "url": "https://www.washingtonpost.com/politics/2022/07/09/one-source-story-about-10-year-old-an-abortion-goes-viral/"
-    },
-    {
-      "text": "\n\n\n\n\n",
-      "url": "https://www.washingtonpost.com/politics/2022/07/08/bidens-inaccurate-claim-about-writing-law-review-articles-privacy/"
-    },
-    {
-      "text": "\nBiden\u2019s inaccurate claim about writing law review articles on privacy\n",
-      "url": "https://www.washingtonpost.com/politics/2022/07/08/bidens-inaccurate-claim-about-writing-law-review-articles-privacy/"
-    },
-    {
-      "text": "\n\n \n\n\n",
-      "url": "https://www.cnn.com/2022/07/08/politics/fact-check-biden-medal-of-honor-backwards/index.html"
-    },
-    {
-      "text": "\nAnti-Biden commentators spread false claim that he affixed a Medal of Honor 'backwards'\n",
-      "url": "https://www.cnn.com/2022/07/08/politics/fact-check-biden-medal-of-honor-backwards/index.html"
+      "text": "\nPutin's lies about the bombing of Ukraine\n",
+      "url": "https://www.dw.com/en/fact-check-putins-lies-about-the-bombing-of-ukraine/a-62419749"
     },
     {
       "text": "\n\n\n\n\n",
-      "url": "https://www.cnn.com/2022/07/08/politics/fact-check-desantis-florida-students-professors-political-views/index.html"
+      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/11/fact-check-air-force-jet-image-digitally-altered-add-ufo/7826266001/"
     },
     {
-      "text": "\nLiberal website changes headline that falsely said DeSantis signed a bill that forces students to register their political views\n",
-      "url": "https://www.cnn.com/2022/07/08/politics/fact-check-desantis-florida-students-professors-political-views/index.html"
+      "text": "\nUFO image is digitally altered photo of Air Force training exercise\n",
+      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/11/fact-check-air-force-jet-image-digitally-altered-add-ufo/7826266001/"
     },
     {
       "text": "\n\n\n\n\n",
-      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/08/fact-check-pacer-test-not-banned-child-cruelty/7616566001/"
+      "url": "https://www.thegazette.com/government-politics/fact-checker-does-ashley-hinson-support-criminalizing-abortions-with-no-exceptions/"
     },
     {
-      "text": "\nPost claiming U.S. school districts banned FitnessGram PACER test is satire\n",
-      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/08/fact-check-pacer-test-not-banned-child-cruelty/7616566001/"
+      "text": "\nDoes Ashley Hinson support criminalizing abortions with no exceptions?\n",
+      "url": "https://www.thegazette.com/government-politics/fact-checker-does-ashley-hinson-support-criminalizing-abortions-with-no-exceptions/"
+    },
+    {
+      "text": "\n\n\n\n\n",
+      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/11/fact-check-false-claim-sads-linked-covid-19-vaccine-unvaccinated/7712903001/"
+    },
+    {
+      "text": "\nFalse claim that sudden arrhythmic death syndrome is linked to vaccine\n",
+      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/11/fact-check-false-claim-sads-linked-covid-19-vaccine-unvaccinated/7712903001/"
+    },
+    {
+      "text": "\n\n\n\n\n",
+      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/11/fact-check-mcconnell-plans-lead-senate-republicans-after-midterms/7821794001/"
+    },
+    {
+      "text": "\nMcConnell plans to lead Senate Republicans after 2022 midterms\n",
+      "url": "https://www.usatoday.com/story/news/factcheck/2022/07/11/fact-check-mcconnell-plans-lead-senate-republicans-after-midterms/7821794001/"
     },
     {
       "text": "View more",
@@ -2825,7 +2989,7 @@
       "url": "/rss/factchecks/"
     },
     {
-      "text": "\n Suggest a Fact-check\n",
+      "text": "\nSuggest a Fact-check\n",
       "url": "/suggest/statement/"
     },
     {
@@ -2849,10 +3013,10 @@
       "url": "/copyright/"
     }
   ],
-  "server": "ia601407.us.archive.org",
-  "uniq": 996073480,
+  "server": "ia801407.us.archive.org",
+  "uniq": 156433925,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

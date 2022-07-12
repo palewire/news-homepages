@@ -1,5 +1,5 @@
 {
-  "created": 1657423633,
+  "created": 1657628710,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/vancouversun-2022",
@@ -1276,31 +1276,283 @@
       "sha1": "574b3c32c1e85bf6533f6abcd348a0b154886354"
     },
     {
+      "name": "vancouversun-2022-07-10T07:47:25.999135-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464449",
+      "size": "74787",
+      "md5": "2b1b6e25023e3b8974d8afde5932e2e9",
+      "crc32": "027fa57f",
+      "sha1": "2b17f1da83c674950c4d4a56958e8949877947e9",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-10T07:47:25.999135-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464453",
+      "size": "60950",
+      "md5": "67f0a10510843e510f948b6ad5d49140",
+      "crc32": "798cde43",
+      "sha1": "b525356f208b0fa994168c2726159449120a9654",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-10T07:47:25.999135-07:00.jpg",
+      "source": "original",
+      "mtime": "1657464447",
+      "size": "325648",
+      "md5": "d33e1acbb9e7121f8b008433a8987205",
+      "crc32": "feca15c6",
+      "sha1": "82e5e0fef16362315d7f68fa37406c9c28b80d39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vancouversun-2022-07-10T07:47:25.999135-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-07-10T07:47:25.999135-07:00.jpg",
+      "mtime": "1657464497",
+      "size": "10198",
+      "md5": "249b14fabf37722e09754826cfaf3756",
+      "crc32": "89736dd2",
+      "sha1": "250114bc4279785c4712e02a2d62d6f6215f6151"
+    },
+    {
+      "name": "vancouversun-2022-07-10T07:49:49.747043-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657464592",
+      "size": "71370",
+      "md5": "4e526bacc8751b6292e1180054dec7a3",
+      "crc32": "418eaf56",
+      "sha1": "1cdb5211114fd44ba998177aa1d1257e2dc4f82c",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-10T07:49:49.747043-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657464593",
+      "size": "60972",
+      "md5": "31ce6fb39466a05392ed9ae3e5274f33",
+      "crc32": "342d61d8",
+      "sha1": "173df8be2c2f0d9821f1c031e00ca717dd65916f",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-10T07:49:49.747043-07:00.jpg",
+      "source": "original",
+      "mtime": "1657464591",
+      "size": "325477",
+      "md5": "5339119b59eb44b3c22a3aade6167edb",
+      "crc32": "0e8be314",
+      "sha1": "8e746846bed8469c2e0909d5eab052ef41703a5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vancouversun-2022-07-10T07:49:49.747043-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-07-10T07:49:49.747043-07:00.jpg",
+      "mtime": "1657464638",
+      "size": "10199",
+      "md5": "d20de5b4279d1e3d6ced2b40fd3d7884",
+      "crc32": "8b58e193",
+      "sha1": "794a776f0cc755451bf3444f3fa35d0f1554dd47"
+    },
+    {
+      "name": "vancouversun-2022-07-10T20:25:54.216187-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657509958",
+      "size": "75143",
+      "md5": "4d7d5135f8034ad172756b2c5d17d875",
+      "crc32": "1f872d45",
+      "sha1": "7dd0335b5eb04e4fd4be95f31e80fd9cbfd256a2",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-10T20:25:54.216187-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657509960",
+      "size": "61575",
+      "md5": "d85b84298b1e27c7821c3cff8c490d58",
+      "crc32": "fe92f4ca",
+      "sha1": "938afdaf0cb5006388da830f8ff43c5f8e5a2162",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-10T20:25:54.216187-07:00.jpg",
+      "source": "original",
+      "mtime": "1657509956",
+      "size": "306558",
+      "md5": "e77ca665a24bebc8e4d3844645814d10",
+      "crc32": "eae9fafa",
+      "sha1": "02af4c8c175fdc0145519f0b89d51ebe10ee87e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vancouversun-2022-07-10T20:25:54.216187-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-07-10T20:25:54.216187-07:00.jpg",
+      "mtime": "1657510014",
+      "size": "9941",
+      "md5": "35a6dca6818791ef24b28ef90859cfd0",
+      "crc32": "e51db950",
+      "sha1": "772b1ab4dc2d6a55417598bebc7105b61bddeb0f"
+    },
+    {
+      "name": "vancouversun-2022-07-11T11:10:05.507827-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563009",
+      "size": "75509",
+      "md5": "8ffd840009807f766b0c620fb3bbd5ab",
+      "crc32": "4261b8ef",
+      "sha1": "7b7b957de84d0ede0bfc79e9f549ea520c83d4fa",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-11T11:10:05.507827-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563012",
+      "size": "61429",
+      "md5": "2ed69427ed4856cee8f146749feaa869",
+      "crc32": "c5beade0",
+      "sha1": "a58ad37264f4e1d30de546658e8ff3f993832d73",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-11T11:10:05.507827-07:00.jpg",
+      "source": "original",
+      "mtime": "1657563007",
+      "size": "310906",
+      "md5": "1d080a03b26524ff4873c7fdb94f6cf1",
+      "crc32": "4bf12a8a",
+      "sha1": "e355aa42e90326698b9cad65fdbb8f60cdd2cfc6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vancouversun-2022-07-11T11:10:05.507827-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-07-11T11:10:05.507827-07:00.jpg",
+      "mtime": "1657563070",
+      "size": "10019",
+      "md5": "6f02e028ebf9f5299948e0ad1354abae",
+      "crc32": "27281615",
+      "sha1": "f4985299af02580b8ebfe32d168c1a932b5609eb"
+    },
+    {
+      "name": "vancouversun-2022-07-11T11:22:48.978083-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657563776",
+      "size": "75572",
+      "md5": "eb2716013ba01f48c42a50c0c18217e7",
+      "crc32": "49ad6cf1",
+      "sha1": "860b018f811303039a5d3ee1caf34f0b01371caf",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-11T11:22:48.978083-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657563780",
+      "size": "61550",
+      "md5": "236ac9a2ed37b5202d7510422aa1e92d",
+      "crc32": "bc979be7",
+      "sha1": "a34c96805bd8bdc25480fc4eb5d5d4e10842c790",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-11T11:22:48.978083-07:00.jpg",
+      "source": "original",
+      "mtime": "1657563772",
+      "size": "311943",
+      "md5": "ba4f92a0debaf4370b0bdd10278ed6ac",
+      "crc32": "b47612b6",
+      "sha1": "755ccea5b64bb1146f62fb8b3158cbecb163722c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vancouversun-2022-07-11T11:22:48.978083-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-07-11T11:22:48.978083-07:00.jpg",
+      "mtime": "1657564101",
+      "size": "10023",
+      "md5": "f0327cc856af3ae4763128571c681861",
+      "crc32": "457df54f",
+      "sha1": "94bacbb1608a28d7a1407ad6e0e97eb3dba8a134"
+    },
+    {
+      "name": "vancouversun-2022-07-11T20:28:18.975763-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657596503",
+      "size": "75073",
+      "md5": "c63290fbd68b33a9cb3ba30039b65f36",
+      "crc32": "3281bfc6",
+      "sha1": "c854db7101fdbdcd9d622619310d363c4d37be0f",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-11T20:28:18.975763-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657596505",
+      "size": "61849",
+      "md5": "f16a5e747ffed62940d7012f1f59f701",
+      "crc32": "cf4c419c",
+      "sha1": "faf6bf4afe1b9c27d4c163e658e977c89566c13f",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-07-11T20:28:18.975763-07:00.jpg",
+      "source": "original",
+      "mtime": "1657596501",
+      "size": "318985",
+      "md5": "b321a13ad63876c1335264a6b7331525",
+      "crc32": "1d48ca30",
+      "sha1": "270a6cb21fce57fa16f425849b9063e787008788",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vancouversun-2022-07-11T20:28:18.975763-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-07-11T20:28:18.975763-07:00.jpg",
+      "mtime": "1657596554",
+      "size": "9989",
+      "md5": "baa0e25d91eef4983d79fe789677e0e7",
+      "crc32": "bf821737",
+      "sha1": "531e99cb6cdd81a3e49a6c2633e1d7fb63147782"
+    },
+    {
       "name": "vancouversun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db105f03e5c967c1c4d49d956b9ca42b7576bd50",
-      "mtime": "1657423628",
-      "size": "27555",
-      "md5": "d1756b42edc19e871f0a5f9abb982ad8",
-      "crc32": "450972fc",
-      "sha1": "0653bab1881e35cad711b5378e757d3d727716ed",
+      "btih": "e544e46f374b49311b5b7c827903c26e3acf519b",
+      "mtime": "1657596560",
+      "size": "32729",
+      "md5": "1e3c4f28cfdf586248291bee3db41f36",
+      "crc32": "29af78ae",
+      "sha1": "e637ca311f9233a18dca377ccdb825926fd2b044",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vancouversun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04d7358fa270d8bc47e22c2b1dbbc4c2",
+      "md5": "993f1231025a4ed9eb5ac7d25761a351",
       "summation": "md5"
     },
     {
       "name": "vancouversun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657423583",
-      "size": "159744",
-      "md5": "562d2bc50088245b1fa88c98f817ea92",
-      "crc32": "140fba6e",
-      "sha1": "c27820a2b9e9e88f9eee78e431b55ab344ebe18e",
+      "mtime": "1657596507",
+      "size": "188416",
+      "md5": "ae64aa3365683fd3515602aa882398e4",
+      "crc32": "e6cb73dd",
+      "sha1": "2a458d68d76461ed5a5ec076320f4c37610deb59",
       "format": "Metadata"
     },
     {
@@ -1314,9 +1566,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "item_last_updated": 1657423628,
-  "item_size": 13854348,
+  "files_count": 149,
+  "item_last_updated": 1657596560,
+  "item_size": 16663859,
   "metadata": {
     "identifier": "vancouversun-2022",
     "collection": [
@@ -1333,10 +1585,2004 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 847420663,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1211945965,
+  "vancouversun-2022": [
+    {
+      "text": "Skip to Content",
+      "url": "#main-content"
+    },
+    {
+      "text": " Summer Sale ",
+      "url": "https://vancouversun.com/subscribe/campaign/always-eblast/?utm_source=on-net&utm_medium=editorial&utm_campaign=June-summer-sale&utm_content=50peryear"
+    },
+    {
+      "text": " Get the Vancouver Sun and National Post for only $50 per year. Get the Vancouver Sun and National Post for only $50 per year. Subscribe now> ",
+      "url": "https://vancouversun.com/subscribe/campaign/always-eblast/?utm_source=on-net&utm_medium=editorial&utm_campaign=June-summer-sale&utm_content=50peryear"
+    },
+    {
+      "text": " Manage Print Subscription ",
+      "url": "/manage"
+    },
+    {
+      "text": "  Vancouver Sun  ",
+      "url": "/"
+    },
+    {
+      "text": " Subscribe ",
+      "url": "/subscribe"
+    },
+    {
+      "text": " Subscribe ",
+      "url": "/subscribe"
+    },
+    {
+      "text": " Subscribe  ",
+      "url": "/subscribe/"
+    },
+    {
+      "text": " FAQ ",
+      "url": "/faq/"
+    },
+    {
+      "text": " My Account ",
+      "url": "/my-account/"
+    },
+    {
+      "text": " Manage My Subscriptions ",
+      "url": "/my-account/#/subscriptions/"
+    },
+    {
+      "text": " Our Offers ",
+      "url": "/subscribe/"
+    },
+    {
+      "text": " News  ",
+      "url": "/category/news/"
+    },
+    {
+      "text": " Local News ",
+      "url": "/category/news/local-news/"
+    },
+    {
+      "text": " COVID-19 ",
+      "url": "/tag/coronavirus/"
+    },
+    {
+      "text": " COVID-19 newsletter ",
+      "url": "https://view.ceros.com/postmedia-network/cv-vancouver-sun/p/1/"
+    },
+    {
+      "text": " Politics ",
+      "url": "/category/news/politics/"
+    },
+    {
+      "text": " National ",
+      "url": "/category/news/national/"
+    },
+    {
+      "text": " COVID-19 ",
+      "url": "https://nationalpost.com/tag/coronavirus/"
+    },
+    {
+      "text": " PostPandemic ",
+      "url": "http://postpandemic.nationalpost.com/"
+    },
+    {
+      "text": " Crime ",
+      "url": "/category/news/crime/"
+    },
+    {
+      "text": " World ",
+      "url": "/category/news/world/"
+    },
+    {
+      "text": " Education ",
+      "url": "/tag/education/"
+    },
+    {
+      "text": " Staff Blogs ",
+      "url": "/category/news/staff-blogs/"
+    },
+    {
+      "text": " Weather ",
+      "url": "/weather/"
+    },
+    {
+      "text": " Podcasts ",
+      "url": "/podcasts/"
+    },
+    {
+      "text": " BC Public Sector Salaries Database ",
+      "url": "/news/local-news/b-c-public-sector-salaries-database-10th-edition/"
+    },
+    {
+      "text": " Archives ",
+      "url": "https://www.tkqlhce.com/click-8833679-11570746?url=https://vancouversun.newspapers.com/?xid=1866/"
+    },
+    {
+      "text": " Contact the Newsroom ",
+      "url": "/uncategorized/contact-the-vancouver-sun/"
+    },
+    {
+      "text": " Hot Topics ",
+      "url": "/category/hot-topics/"
+    },
+    {
+      "text": " Business  ",
+      "url": "/category/business/"
+    },
+    {
+      "text": " Local Business ",
+      "url": "/category/business/local-business/"
+    },
+    {
+      "text": " Energy ",
+      "url": "/category/business/energy/"
+    },
+    {
+      "text": " Mortgages ",
+      "url": "/category/business/mortgages/"
+    },
+    {
+      "text": " Real Estate ",
+      "url": "/category/business/real-estate/"
+    },
+    {
+      "text": " First-Time Homebuyers ",
+      "url": "/category/business/real-estate/first-time-homebuyers/"
+    },
+    {
+      "text": " Commercial Real Estate ",
+      "url": "/category/business/commercial-real-estate/"
+    },
+    {
+      "text": " Economy Next ",
+      "url": "/tag/economy-next/"
+    },
+    {
+      "text": " Technology ",
+      "url": "/category/technology/"
+    },
+    {
+      "text": " Gaming ",
+      "url": "/category/technology/gaming/"
+    },
+    {
+      "text": " Internet ",
+      "url": "/category/technology/internet/"
+    },
+    {
+      "text": " Personal Tech ",
+      "url": "/category/technology/personal-tech/"
+    },
+    {
+      "text": " Retail ",
+      "url": "/tag/retail/"
+    },
+    {
+      "text": " FP Markets ",
+      "url": "https://business.financialpost.com/markets/"
+    },
+    {
+      "text": " Small Business ",
+      "url": "/category/business/small-business/"
+    },
+    {
+      "text": " BC Top Employers ",
+      "url": "/category/sponsored/top-employers-vs/"
+    },
+    {
+      "text": " MoneyWise Canada ",
+      "url": "/category/business/moneywise-pro/"
+    },
+    {
+      "text": " Borrowing Money ",
+      "url": "/category/business/moneywise-pro/borrowing-money/"
+    },
+    {
+      "text": " Future Money ",
+      "url": "/category/business/moneywise-pro/future-money/"
+    },
+    {
+      "text": " Growing Money ",
+      "url": "/category/business/moneywise-pro/growing-money/"
+    },
+    {
+      "text": " The Logic ",
+      "url": "/category/business/the-logic/"
+    },
+    {
+      "text": " True Crime ",
+      "url": "/category/news/true-crime/"
+    },
+    {
+      "text": " Opinion  ",
+      "url": "/category/opinion/"
+    },
+    {
+      "text": " Columnists ",
+      "url": "/category/opinion/columnists/"
+    },
+    {
+      "text": " Letters ",
+      "url": "/category/opinion/letters/"
+    },
+    {
+      "text": " Op-Ed ",
+      "url": "/category/opinion/op-ed/"
+    },
+    {
+      "text": " Sports  ",
+      "url": "/category/sports/"
+    },
+    {
+      "text": " Sports Betting ",
+      "url": "/category/sports/sports-betting/"
+    },
+    {
+      "text": " Hockey ",
+      "url": "/category/sports/hockey/"
+    },
+    {
+      "text": " Vancouver Canucks ",
+      "url": "/category/sports/hockey/nhl/vancouver-canucks/"
+    },
+    {
+      "text": " NHL ",
+      "url": "/category/sports/hockey/nhl/"
+    },
+    {
+      "text": " Football ",
+      "url": "/category/sports/football/"
+    },
+    {
+      "text": " BC Lions ",
+      "url": "/category/sports/football/cfl/bc-lions/"
+    },
+    {
+      "text": " CFL ",
+      "url": "/category/sports/football/cfl/"
+    },
+    {
+      "text": " NFL ",
+      "url": "/category/sports/football/nfl/"
+    },
+    {
+      "text": " Soccer ",
+      "url": "/category/sports/soccer/"
+    },
+    {
+      "text": " Vancouver Whitecaps ",
+      "url": "/category/sports/soccer/mls/vancouver-whitecaps/"
+    },
+    {
+      "text": " MLS ",
+      "url": "/category/sports/soccer/mls/"
+    },
+    {
+      "text": " International ",
+      "url": "/category/sports/soccer/international-soccer/"
+    },
+    {
+      "text": " Baseball ",
+      "url": "/category/sports/baseball/"
+    },
+    {
+      "text": " Basketball ",
+      "url": "/category/sports/basketball/"
+    },
+    {
+      "text": " NBA ",
+      "url": "/category/sports/basketball/nba/"
+    },
+    {
+      "text": " NCAA ",
+      "url": "/category/sports/basketball/ncaa/"
+    },
+    {
+      "text": " Golf ",
+      "url": "/category/sports/golf/"
+    },
+    {
+      "text": " Golf Videos ",
+      "url": "http://vancouversun.sportstonews.com/"
+    },
+    {
+      "text": " MMA ",
+      "url": "/category/sports/mma/"
+    },
+    {
+      "text": " Curling ",
+      "url": "/category/sports/curling/"
+    },
+    {
+      "text": " Tennis ",
+      "url": "/category/sports/tennis/"
+    },
+    {
+      "text": " Auto Racing ",
+      "url": "/category/sports/auto-racing/"
+    },
+    {
+      "text": " Arts  ",
+      "url": "/category/entertainment/"
+    },
+    {
+      "text": " Local Arts ",
+      "url": "/category/entertainment/local-arts/"
+    },
+    {
+      "text": " Celebrity ",
+      "url": "/category/entertainment/celebrity/"
+    },
+    {
+      "text": " Movies ",
+      "url": "/category/entertainment/movies/"
+    },
+    {
+      "text": " Movie Listings ",
+      "url": "http://movies.vancouversun.com/movies.aspx/"
+    },
+    {
+      "text": " Television ",
+      "url": "/category/entertainment/television/"
+    },
+    {
+      "text": " TV Listings ",
+      "url": "/tv-listings/"
+    },
+    {
+      "text": " Music ",
+      "url": "/category/entertainment/music/"
+    },
+    {
+      "text": " Theatre ",
+      "url": "/category/entertainment/theatre/"
+    },
+    {
+      "text": " Festivals ",
+      "url": "/category/entertainment/festivals/"
+    },
+    {
+      "text": " Books ",
+      "url": "/category/entertainment/books/"
+    },
+    {
+      "text": " Life  ",
+      "url": "/category/life/"
+    },
+    {
+      "text": " Shopping Essentials ",
+      "url": "/category/shopping-essentials/"
+    },
+    {
+      "text": " Home Living ",
+      "url": "/category/shopping-essentials/home-living/"
+    },
+    {
+      "text": " Style & Beauty ",
+      "url": "/category/shopping-essentials/style-beauty/"
+    },
+    {
+      "text": " Kitchen & Dining ",
+      "url": "/category/shopping-essentials/kitchen-dining/"
+    },
+    {
+      "text": " Personal Care ",
+      "url": "/category/shopping-essentials/personal-care/"
+    },
+    {
+      "text": " Entertainment & Hobbies ",
+      "url": "/category/shopping-essentials/entertainment-hobbies/"
+    },
+    {
+      "text": " Gift Guide ",
+      "url": "/category/shopping-essentials/gift-guide/"
+    },
+    {
+      "text": " Food ",
+      "url": "/category/life/food/"
+    },
+    {
+      "text": " Local Food Reviews ",
+      "url": "/category/life/food/local-food-reviews/"
+    },
+    {
+      "text": " Recipes ",
+      "url": "/category/life/food/recipes/"
+    },
+    {
+      "text": " Wine Country ",
+      "url": "/tag/wine-country/"
+    },
+    {
+      "text": " Salut! ",
+      "url": "/tag/salut/"
+    },
+    {
+      "text": " Health ",
+      "url": "/category/health/"
+    },
+    {
+      "text": " Healthing ",
+      "url": "/category/healthing/"
+    },
+    {
+      "text": " Local Health ",
+      "url": "/category/health/local-health/"
+    },
+    {
+      "text": " Diet & Fitness ",
+      "url": "/category/health/diet-fitness/"
+    },
+    {
+      "text": " Family & Child ",
+      "url": "/category/health/family-child/"
+    },
+    {
+      "text": " Men ",
+      "url": "/category/health/men/"
+    },
+    {
+      "text": " Women ",
+      "url": "/category/health/women/"
+    },
+    {
+      "text": " Seniors ",
+      "url": "/category/health/seniors/"
+    },
+    {
+      "text": " Sexual Health ",
+      "url": "/category/health/sexual-health/"
+    },
+    {
+      "text": " Fashion & Beauty ",
+      "url": "/category/life/fashion-beauty/"
+    },
+    {
+      "text": " Vancouver Sun Run ",
+      "url": "/category/vancouver-sun-run/"
+    },
+    {
+      "text": " Vancouver Sun Run: Sign up & event info ",
+      "url": "https://www.vancouversunrun.com/"
+    },
+    {
+      "text": " Parenting ",
+      "url": "/category/life/parenting/"
+    },
+    {
+      "text": " Relationships ",
+      "url": "/category/life/relationships/"
+    },
+    {
+      "text": " Royals ",
+      "url": "/category/life/royals/"
+    },
+    {
+      "text": " Puzzles ",
+      "url": "/puzzles/"
+    },
+    {
+      "text": " New York Times Crossword ",
+      "url": "https://nationalpost.com/nyt-puzzle/"
+    },
+    {
+      "text": " Comics ",
+      "url": "/comics/"
+    },
+    {
+      "text": " Advice ",
+      "url": "/advice/"
+    },
+    {
+      "text": " Horoscopes ",
+      "url": "/advice/?amu=/last-word-in-astrology/"
+    },
+    {
+      "text": " Contests ",
+      "url": "/category/contests/"
+    },
+    {
+      "text": " National Contests ",
+      "url": "/category/contests/national-contests/"
+    },
+    {
+      "text": " Special Sections ",
+      "url": "/category/special-sections/"
+    },
+    {
+      "text": " Homes  ",
+      "url": "/category/homes/"
+    },
+    {
+      "text": " Buying & Selling ",
+      "url": "/category/homes/buying-selling/"
+    },
+    {
+      "text": " Westcoast Homes and Design ",
+      "url": "/category/homes/westcoast-homes-and-design/"
+    },
+    {
+      "text": " Current Issue ",
+      "url": "https://7c1e077b.flowpaper.com/WCHDJune20227854/"
+    },
+    {
+      "text": " Condos ",
+      "url": "/category/homes/condos/"
+    },
+    {
+      "text": " Decorating ",
+      "url": "/category/homes/decorating/"
+    },
+    {
+      "text": " Gardening ",
+      "url": "/category/homes/gardening/"
+    },
+    {
+      "text": " Renovating ",
+      "url": "/category/homes/renovating/"
+    },
+    {
+      "text": " Out of Town Properties ",
+      "url": "/category/homes/vacation-homes/"
+    },
+    {
+      "text": " Travel  ",
+      "url": "/category/travel/"
+    },
+    {
+      "text": " Local Travel ",
+      "url": "/category/travel/local-travel/"
+    },
+    {
+      "text": " Eat Play Stay BC ",
+      "url": "/category/special-sections/eat-play-stay-bc/"
+    },
+    {
+      "text": " International Travel ",
+      "url": "/category/travel/international-travel/"
+    },
+    {
+      "text": " Remembering  ",
+      "url": "https://vancouversunandprovince.remembering.ca/"
+    },
+    {
+      "text": " Place an Obituary ",
+      "url": "https://vancouversunandprovince.remembering.ca/obituary/create/"
+    },
+    {
+      "text": " Place an In Memoriam ",
+      "url": "https://obituariesvancouversunandprovince.adperfect.com/channel/C0A801FE1df5d23683gT6659D225/publication/7F0000010a616191AFwGl373EA35/category/7F0000010a67a1D946yw5E49A47A/classification/7F0000010a67a1D944GJ2301FAFA?create=new/"
+    },
+    {
+      "text": " Classifieds  ",
+      "url": "https://classifieds.vancouversun.com/"
+    },
+    {
+      "text": " Place an Ad ",
+      "url": "https://vancouversunandprovince.adperfect.com/"
+    },
+    {
+      "text": " Celebrations ",
+      "url": "https://classifieds.vancouversun.com/vancouver/celebrating/search/"
+    },
+    {
+      "text": " Real Estate Marketplace ",
+      "url": "https://classifieds.vancouversun.com/vancouver/real-estate-for-sale/search/"
+    },
+    {
+      "text": " Working ",
+      "url": "https://working.vancouversun.com/"
+    },
+    {
+      "text": " Shopping ",
+      "url": "https://shopping.vancouversun.com/"
+    },
+    {
+      "text": " This Week's Flyers ",
+      "url": "/flyercity/"
+    },
+    {
+      "text": " Auction ",
+      "url": "https://supportlocalbc.postmediaauctions.com/index.cfm/"
+    },
+    {
+      "text": " Driving  ",
+      "url": "/category/uncategorized/staff/driving-staff/"
+    },
+    {
+      "text": " All Driving ",
+      "url": "https://www.driving.ca/"
+    },
+    {
+      "text": " News ",
+      "url": "https://driving.ca/category/auto-news/"
+    },
+    {
+      "text": " Reviews ",
+      "url": "https://driving.ca/category/reviews/"
+    },
+    {
+      "text": " Car Comparison ",
+      "url": "https://driving.ca/car-comparison/"
+    },
+    {
+      "text": " Buyer's Guide ",
+      "url": "https://driving.ca/buyers-guide/2015/"
+    },
+    {
+      "text": " Healthing ",
+      "url": "/category/healthing/"
+    },
+    {
+      "text": " The GrowthOp ",
+      "url": "/category/thegrowthop/"
+    },
+    {
+      "text": " Newsletters ",
+      "url": "/newsletters/"
+    },
+    {
+      "text": " ePaper ",
+      "url": "http://epaper.vancouversun.com/"
+    },
+    {
+      "text": " Local Auction ",
+      "url": "https://supportlocalbc.postmediaauctions.com/"
+    },
+    {
+      "text": " Profile ",
+      "url": "/my-account"
+    },
+    {
+      "text": " Settings ",
+      "url": "/my-account/#/settings"
+    },
+    {
+      "text": " Manage Print Subscription / Tax Receipt ",
+      "url": "/manage"
+    },
+    {
+      "text": " Manage My Subscriptions ",
+      "url": "/my-account/#/subscriptions"
+    },
+    {
+      "text": " Manage My Newsletters ",
+      "url": "/my-account/#/newsletters"
+    },
+    {
+      "text": " Customer Service ",
+      "url": "/contact"
+    },
+    {
+      "text": " FAQ ",
+      "url": "/faq/"
+    },
+    {
+      "text": "News",
+      "url": "/category/news/"
+    },
+    {
+      "text": "Hot Topics",
+      "url": "/category/hot-topics/"
+    },
+    {
+      "text": "Business",
+      "url": "/category/business/"
+    },
+    {
+      "text": "True Crime",
+      "url": "/category/news/true-crime/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/category/opinion/"
+    },
+    {
+      "text": "Sports",
+      "url": "/category/sports/"
+    },
+    {
+      "text": "Arts",
+      "url": "/category/entertainment/"
+    },
+    {
+      "text": "Life",
+      "url": "/category/life/"
+    },
+    {
+      "text": "Homes",
+      "url": "/category/homes/"
+    },
+    {
+      "text": "Travel",
+      "url": "/category/travel/"
+    },
+    {
+      "text": "Remembering",
+      "url": "https://vancouversunandprovince.remembering.ca/"
+    },
+    {
+      "text": "Driving",
+      "url": "/category/uncategorized/staff/driving-staff/"
+    },
+    {
+      "text": "Healthing",
+      "url": "/category/healthing/"
+    },
+    {
+      "text": "The GrowthOp",
+      "url": "/category/thegrowthop/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters/"
+    },
+    {
+      "text": "ePaper",
+      "url": "http://epaper.vancouversun.com/"
+    },
+    {
+      "text": "Local Auction",
+      "url": "https://supportlocalbc.postmediaauctions.com/"
+    },
+    {
+      "text": "  Columnists  ",
+      "url": "/category/columnists/"
+    },
+    {
+      "text": "  Vaughn Palmer: Expect government secrecy to continue if David Eby becomes B.C. premier   Opinion: B.C's housing minister has become adept at after-hours press releases  ",
+      "url": "/opinion/columnists/vaughn-palmer-expect-government-secrecy-to-continue-if-eby-becomes-b-c-premier"
+    },
+    {
+      "text": "  Columnists  ",
+      "url": "/category/columnists/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/columnists/vaughn-palmer-expect-government-secrecy-to-continue-if-eby-becomes-b-c-premier"
+    },
+    {
+      "text": "  Real Estate  ",
+      "url": "/category/real-estate/"
+    },
+    {
+      "text": "  Community group asks City of Vancouver to oppose rezoning after B.C. Housing review and board firings  ",
+      "url": "/business/real-estate/community-group-asks-city-of-vancouver-to-oppose-rezoning-after-b-c-housing-review-and-board-firings"
+    },
+    {
+      "text": "  Real Estate  ",
+      "url": "/category/real-estate/"
+    },
+    {
+      "text": "         ",
+      "url": "/business/real-estate/community-group-asks-city-of-vancouver-to-oppose-rezoning-after-b-c-housing-review-and-board-firings"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "  Premiers unite to demand more health-care dollars from Ottawa  ",
+      "url": "/news/local-news/premiers-unite-to-demand-more-health-care-dollars-from-ottawa"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/local-news/premiers-unite-to-demand-more-health-care-dollars-from-ottawa"
+    },
+    {
+      "text": "  Crime  ",
+      "url": "/category/crime/"
+    },
+    {
+      "text": "  Crown appeals acquittals of two men in murder of Cranbrook couple  ",
+      "url": "/news/crime/crown-appeals-acquittals-of-two-men-in-murder-of-cranbrook-b-c-couple"
+    },
+    {
+      "text": "  Crime  ",
+      "url": "/category/crime/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/crime/crown-appeals-acquittals-of-two-men-in-murder-of-cranbrook-b-c-couple"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "  Ian Mulgrew: ICBC dumpster-fire fix ruled unconstitutional \u2014 again  ",
+      "url": "/news/local-news/ian-mulgrew-icbc-dumpster-fire-fix-ruled-unconstitutional-again"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/local-news/ian-mulgrew-icbc-dumpster-fire-fix-ruled-unconstitutional-again"
+    },
+    {
+      "text": " View More Videos > ",
+      "url": "/video-centre"
+    },
+    {
+      "text": "News",
+      "url": "/category/news/"
+    },
+    {
+      "text": "  B.C. Weather: Perfect forecast for Metro Vancouver over the next two weeks   Beautiful, mostly clear days in the low 20s come with Limited risk of flooding or wildfires in Southern B.C.  ",
+      "url": "/news/local-news/b-c-weather-perfect-forecast-for-metro-vancouver-over-the-next-two-weeks"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/local-news/b-c-weather-perfect-forecast-for-metro-vancouver-over-the-next-two-weeks"
+    },
+    {
+      "text": "  Yaletown stabbing: Vancouver police investigate city's eighth homicide   A 34-year-old woman was arrested near the scene and is in custody  ",
+      "url": "/news/crime/yaletown-stabbing-vancouver-police-investigate-citys-eighth-homicide"
+    },
+    {
+      "text": "  Crime  ",
+      "url": "/category/crime/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/crime/yaletown-stabbing-vancouver-police-investigate-citys-eighth-homicide"
+    },
+    {
+      "text": "  Downtown Vancouver fire halls much busier than the past couple of years, so far   Almost a fifth of the structure fires responded to by Strathcona, Downtown Eastside and Yaletown fire halls are deemed suspicious.  ",
+      "url": "/news/local-news/downtown-fire-halls-much-busier-than-the-past-couple-of-years-so-far"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/local-news/downtown-fire-halls-much-busier-than-the-past-couple-of-years-so-far"
+    },
+    {
+      "text": "  Kat Norris dedicated her life to helping those who needed to hear they were 'seen, recognized and loved'   Led by a love and 'a fierce, beautiful heart for radicalism' Kat Norris fought for the rights of the oppressed  ",
+      "url": "/news/local-news/kat-norris-dedicated-her-life-to-helping-those-who-needed-to-hear-they-were-seen-recognized-and-loved"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/local-news/kat-norris-dedicated-her-life-to-helping-those-who-needed-to-hear-they-were-seen-recognized-and-loved"
+    },
+    {
+      "text": "  COVID-19 update for July 11: Yet another Omicron variant emerges | What we know about BA.4 and BA.5 | Moderna to advance two Omicron vaccine candidates   Here's your daily update with everything you need to know on the coronavirus situation in B.C. and around the world.  ",
+      "url": "/news/local-news/covid-19-update-for-july-11-heres-what-you-need-to-know"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/local-news/covid-19-update-for-july-11-heres-what-you-need-to-know"
+    },
+    {
+      "text": " More news stories > ",
+      "url": "/category/news/"
+    },
+    {
+      "text": "  Ian Mulgrew: ICBC dumpster-fire fix ruled unconstitutional \u2014 again  ",
+      "url": "/news/local-news/ian-mulgrew-icbc-dumpster-fire-fix-ruled-unconstitutional-again"
+    },
+    {
+      "text": "  Vaughn Palmer: Expect government secrecy to continue if David Eby becomes B.C. premier  ",
+      "url": "/opinion/columnists/vaughn-palmer-expect-government-secrecy-to-continue-if-eby-becomes-b-c-premier"
+    },
+    {
+      "text": "  'Easier to get high than get help': How a gutsy young rural B.C. doctor helped change that in Hope  ",
+      "url": "/health/local-health/the-rural-hole-in-b-c-s-addiction-services"
+    },
+    {
+      "text": "  COVID-19 update for July 11: Yet another Omicron variant emerges | What we know about BA.4 and BA.5 | Moderna to advance two Omicron vaccine candidates  ",
+      "url": "/news/local-news/covid-19-update-for-july-11-heres-what-you-need-to-know"
+    },
+    {
+      "text": "  COVID-19 update for July 8-10: B.C. will roll out fall booster shot program for people age 12+ | Shanghai reports new Omicron sub-variant | Dix says province in new Omicron wave  ",
+      "url": "/health/covid-19-update-for-july-8-10-heres-what-you-need-to-know"
+    },
+    {
+      "text": "      View the latest edition  ",
+      "url": "http://epaper.vancouversun.com/"
+    },
+    {
+      "text": " Shopping Essentials ",
+      "url": "https://vancouversun.com/category/shopping-essentials"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "Vancouver",
+      "url": "//shopping.vancouversun.com/"
+    },
+    {
+      "text": "Hot Topics",
+      "url": "/category/hot-topics/"
+    },
+    {
+      "text": "  Rogers CEO admits outage caused by maintenance operation   The cause: \u201ca network system failure following a maintenance update in our core network, which caused some of our routers to malfunction early Friday morning.\u201d  ",
+      "url": "/technology/rogers-ceo-admits-outage-caused-by-maintenance-operation/wcm/9c60246d-1863-406c-967f-0e1f2e1fe844"
+    },
+    {
+      "text": "  National  ",
+      "url": "/category/national/"
+    },
+    {
+      "text": "         ",
+      "url": "/technology/rogers-ceo-admits-outage-caused-by-maintenance-operation/wcm/9c60246d-1863-406c-967f-0e1f2e1fe844"
+    },
+    {
+      "text": "  Jill Biden chided for saying Latinos as unique as 'breakfast tacos'   U.S. first lady Jill Biden\u2019s attempt to compliment Latinos flopped on Monday when she said they were as unique as \u201cbreakfast tacos,\u201d prompting criticism from across the political spectrum  ",
+      "url": "/pmn/news-pmn/jill-biden-chided-for-saying-latinos-as-unique-as-breakfast-tacos/wcm/298c1b32-fc8c-43c8-a731-f6c14f06a9e9"
+    },
+    {
+      "text": "  Politics  ",
+      "url": "/category/politics/"
+    },
+    {
+      "text": "         ",
+      "url": "/pmn/news-pmn/jill-biden-chided-for-saying-latinos-as-unique-as-breakfast-tacos/wcm/298c1b32-fc8c-43c8-a731-f6c14f06a9e9"
+    },
+    {
+      "text": "  First full-colour image with \u2018most detailed view\u2019 of early universe released by NASA   The photo from the largest and most powerful space science telescope ever launched was unveiled by U.S. President Biden on Monday afternoon  ",
+      "url": "/news/world/biden-unveils-webb-space-telescopes-first-full-color-image-of-distant-galaxies/wcm/5c824da9-c7a5-4012-b715-31ad8729e7d0"
+    },
+    {
+      "text": "  World  ",
+      "url": "/category/world/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/world/biden-unveils-webb-space-telescopes-first-full-color-image-of-distant-galaxies/wcm/5c824da9-c7a5-4012-b715-31ad8729e7d0"
+    },
+    {
+      "text": "  'We had actually sold people a lie': Ex-Uber exec comes forward as whistleblower   Mark MacGann said he bears some responsibility for company actions he now condemns, like presenting rosy visions of upward mobility and economic freedom for low-income drivers  ",
+      "url": "/news/we-had-actually-sold-people-a-lie-ex-uber-exec-comes-forward-as-whistleblower/wcm/57d7e26e-1f5d-4b82-ba09-b16735577661"
+    },
+    {
+      "text": "  World  ",
+      "url": "/category/world/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/we-had-actually-sold-people-a-lie-ex-uber-exec-comes-forward-as-whistleblower/wcm/57d7e26e-1f5d-4b82-ba09-b16735577661"
+    },
+    {
+      "text": "  What we know about BA.4 and BA.5 \u2014 the latest subvariants to cause COVID surge   Officials in Ontario and Quebec say the subvariants are helping fuel a new wave \u2013 the seventh so far. But are BA.4 and BA.5 more dangerous than earlier variants?  ",
+      "url": "/health/covid-what-we-know-ba-4-ba-5-omicron-subvariants/wcm/7fc92f36-df66-42ad-b0f2-ad07399d3771"
+    },
+    {
+      "text": "  Health  ",
+      "url": "/category/health/"
+    },
+    {
+      "text": "         ",
+      "url": "/health/covid-what-we-know-ba-4-ba-5-omicron-subvariants/wcm/7fc92f36-df66-42ad-b0f2-ad07399d3771"
+    },
+    {
+      "text": " More hot topics stories > ",
+      "url": "/category/hot-topics/"
+    },
+    {
+      "text": " MoneyWise Canada ",
+      "url": "/category/business/moneywise-pro/"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "     ",
+      "url": "#"
+    },
+    {
+      "text": "Business",
+      "url": "/category/business/"
+    },
+    {
+      "text": "Local Business",
+      "url": "/category/business/local-business/"
+    },
+    {
+      "text": "Real Estate",
+      "url": "/category/business/real-estate/"
+    },
+    {
+      "text": "  'A brutal summer': Air Canada paying the price for airport chaos   Shares have fallen 23% in three months for second biggest decline in the Bloomberg Americas Airlines Index  ",
+      "url": "/transportation/airlines/air-canada-is-left-behind-as-nations-airports-see-major-delays/wcm/8dc286b0-85da-4969-96d4-51e2c299f8e5"
+    },
+    {
+      "text": "  Business  ",
+      "url": "/category/business/"
+    },
+    {
+      "text": "         ",
+      "url": "/transportation/airlines/air-canada-is-left-behind-as-nations-airports-see-major-delays/wcm/8dc286b0-85da-4969-96d4-51e2c299f8e5"
+    },
+    {
+      "text": "  'We deserve more': Customers not happy with Rogers compensation for nationwide outage   Rogers users with an $85/month wireless plan can expect a $5.50 credit  ",
+      "url": "/news/canada/we-deserve-more-customers-not-happy-with-rogers-compensation-for-nationwide-outage/wcm/1d020648-4aee-401f-8ed6-a964325e9032"
+    },
+    {
+      "text": "  Business  ",
+      "url": "/category/business/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/canada/we-deserve-more-customers-not-happy-with-rogers-compensation-for-nationwide-outage/wcm/1d020648-4aee-401f-8ed6-a964325e9032"
+    },
+    {
+      "text": "  Don't bundle, carry cash: Rogers outage a wakeup call for consumers and government   Consumers should reassess their technology service \"bundles\" for cost versus risk in the same way they balance their investment portfolio, according to tech expert Andy Baryer.  ",
+      "url": "/business/rogers-outage-sparks-calls-for-changes-to-consumer-behaviour-federal-policy-changes"
+    },
+    {
+      "text": "  Business  ",
+      "url": "/category/business/"
+    },
+    {
+      "text": "         ",
+      "url": "/business/rogers-outage-sparks-calls-for-changes-to-consumer-behaviour-federal-policy-changes"
+    },
+    {
+      "text": "  Elon Musk mocks Twitter legal threat after scrapping $44B deal   Legal experts say the 16-year-old social media company has a strong legal case against Musk, but could opt for a renegotiation or settlement.  ",
+      "url": "/business/money-news/elon-musk-mocks-twitter-legal-threat-after-scrapping-44b-deal/wcm/d880555d-3352-4ae1-b9c7-d359b9e19798"
+    },
+    {
+      "text": "  Business  ",
+      "url": "/category/business/"
+    },
+    {
+      "text": "         ",
+      "url": "/business/money-news/elon-musk-mocks-twitter-legal-threat-after-scrapping-44b-deal/wcm/d880555d-3352-4ae1-b9c7-d359b9e19798"
+    },
+    {
+      "text": "  Rogers falls as massive outage raises concerns over Shaw deal   Canada's competition bureau blocked the deal earlier this year. The merger still awaits a final verdict.  ",
+      "url": "/business/money-news/rogers-falls-as-massive-outage-raises-concerns-over-shaw-deal/wcm/dd204502-bef0-4861-ba61-115f3f168a9c"
+    },
+    {
+      "text": "  Business  ",
+      "url": "/category/business/"
+    },
+    {
+      "text": "         ",
+      "url": "/business/money-news/rogers-falls-as-massive-outage-raises-concerns-over-shaw-deal/wcm/dd204502-bef0-4861-ba61-115f3f168a9c"
+    },
+    {
+      "text": " More business stories > ",
+      "url": "/category/business/"
+    },
+    {
+      "text": " view complete forecast ",
+      "url": "/weather/"
+    },
+    {
+      "text": "True Crime",
+      "url": "/category/news/true-crime/"
+    },
+    {
+      "text": "  True Crime Byline: We should have seen JoAnn Wilson's murder coming   Leader-Post city editor Barb Pacholik recalls the many turns of the Colin Thatcher case across decades.  ",
+      "url": "/news/true-crime/true-crime-byline"
+    },
+    {
+      "text": "  True Crime  ",
+      "url": "/category/true-crime/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/true-crime/true-crime-byline"
+    },
+    {
+      "text": "  True Crime Byline: How one childhood incident pushed Dawn Crey into a downward spiral from which she would never escape   The new podcast True Crime Byline looks back at The Vancouver Sun investigation into Vancouver's missing women, a case that eventually led to the arrest and conviction of Robert Pickton. This profile of missing woman Dawn Crey was part of a series of investigative stories published in 2001.  ",
+      "url": "/news/true-crime/true-crime-byline/how-one-childhood-incident-pushed-dawn-crey-into-a-downward-spiral-from-which-she-would-never-escape"
+    },
+    {
+      "text": "  True Crime Byline  ",
+      "url": "/category/true-crime-byline/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/true-crime/true-crime-byline/how-one-childhood-incident-pushed-dawn-crey-into-a-downward-spiral-from-which-she-would-never-escape"
+    },
+    {
+      "text": "  True Crime Byline: A Politician Murdered his Ex Wife. We Should Have Seen it Coming   Looking back on the murder of JoAnn Wilson today, what's most surprising is that we were surprised it happened at all.  ",
+      "url": "/news/true-crime/true-crime-byline/true-crime-byline-a-politician-murdered-his-ex-wife-we-should-have-seen-it-coming"
+    },
+    {
+      "text": "  True Crime Byline  ",
+      "url": "/category/true-crime-byline/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/true-crime/true-crime-byline/true-crime-byline-a-politician-murdered-his-ex-wife-we-should-have-seen-it-coming"
+    },
+    {
+      "text": "  True Crime Byline podcast: The Article that Blew Up a Murder Trial   Listen to this podcast episode for the shocking story of how a National Post article about a teen vampire led to a mistrial, as told by reporter Joseph Brean  ",
+      "url": "/news/true-crime/true-crime-byline/true-crime-byline-podcast-the-article-that-blew-up-a-murder-trial"
+    },
+    {
+      "text": "  True Crime Byline  ",
+      "url": "/category/true-crime-byline/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/true-crime/true-crime-byline/true-crime-byline-podcast-the-article-that-blew-up-a-murder-trial"
+    },
+    {
+      "text": "  Douglas Todd: Canadian cops far less likely to kill, or be killed, than U.S. counterparts   Analysis: Canadian police are often accused of using excessive force, but a U.S. officer is five times more likely than a Canadian cop to shoot and kill.  ",
+      "url": "/opinion/columnists/douglas-todd-canadian-cops-far-less-likely-to-kill-or-be-killed-than-u-s-counterparts"
+    },
+    {
+      "text": "  Columnists  ",
+      "url": "/category/columnists/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/columnists/douglas-todd-canadian-cops-far-less-likely-to-kill-or-be-killed-than-u-s-counterparts"
+    },
+    {
+      "text": " More true crime stories > ",
+      "url": "/category/news/true-crime/"
+    },
+    {
+      "text": " More Contests > ",
+      "url": "category/contests/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/category/opinion/"
+    },
+    {
+      "text": "  Letters to The Sun, July 12, 2022: Vancouver Plan doesn't have all the answers   With hundreds, if not thousands of rental apartment units in towers already approved or in the development pipeline, and waiting to be built, we need to ask \u201cAre these really just being built for investors?, asks reader Jan Pierce  ",
+      "url": "/opinion/letters/letters-to-the-sun-july-12-2022-vancouver-plan-doesnt-have-all-the-answers"
+    },
+    {
+      "text": "  Letters  ",
+      "url": "/category/letters/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/letters/letters-to-the-sun-july-12-2022-vancouver-plan-doesnt-have-all-the-answers"
+    },
+    {
+      "text": "  Don Braid: Poilievre gets the cheers, Charest faced with boos at big CPC event   Poilievre\u2019s emotional fixation on grievances has far more appeal  ",
+      "url": "/opinion/columnists/braid-poilievre-gets-the-cheers-charest-faced-with-boos-at-big-ucp-event/wcm/2e3ea585-92ce-4d3c-9000-a1778269c460"
+    },
+    {
+      "text": "  Columnists  ",
+      "url": "/category/columnists/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/columnists/braid-poilievre-gets-the-cheers-charest-faced-with-boos-at-big-ucp-event/wcm/2e3ea585-92ce-4d3c-9000-a1778269c460"
+    },
+    {
+      "text": "  Daphne Bramham: The knowns and known unknowns of the 2030 Olympics bid   Opinion: Some of the preliminary numbers for B.C.'s possible bid for the 2030 Winter Olympics seem really low  ",
+      "url": "/opinion/columnists/daphne-bramham-the-knowns-and-known-unknown-of-the-2030-olympics-bid"
+    },
+    {
+      "text": "  Columnists  ",
+      "url": "/category/columnists/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/columnists/daphne-bramham-the-knowns-and-known-unknown-of-the-2030-olympics-bid"
+    },
+    {
+      "text": "  Vaughn Palmer: Showy B.C. NDP incentive offer to young doctors a big dud   Opinion: One doctor called the Health Ministry's offer a 'randomly thought-up, Band-Aid solution.' So far, no takers.  ",
+      "url": "/opinion/columnists/vaughn-palmer-showy-b-c-ndp-incentive-offer-to-young-doctors-a-big-dud"
+    },
+    {
+      "text": "  Columnists  ",
+      "url": "/category/columnists/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/columnists/vaughn-palmer-showy-b-c-ndp-incentive-offer-to-young-doctors-a-big-dud"
+    },
+    {
+      "text": "  Dan Fumano: Time for Vancouver to rethink how housing is approved?   Opinion: Vancouver city council has run out of time this term for a major housing decision. Will the next council consider changes to public hearing requirements?  ",
+      "url": "/opinion/columnists/dan-fumano-time-for-vancouver-to-rethink-how-housing-is-approved"
+    },
+    {
+      "text": "  Columnists  ",
+      "url": "/category/columnists/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/columnists/dan-fumano-time-for-vancouver-to-rethink-how-housing-is-approved"
+    },
+    {
+      "text": " More opinion stories > ",
+      "url": "/category/opinion/"
+    },
+    {
+      "text": "Sports",
+      "url": "/category/sports/"
+    },
+    {
+      "text": "  Canucks: That other Elias Pettersson playing as advertised in development camp   'I learned so much last year to be tough and stand up for myself. It will take some time, but of course, my goal is to play in the NHL. And I\u2019m going to fight for that.' \u2014 Canucks prospect defenceman Elias Pettersson.  ",
+      "url": "/sports/hockey/nhl/vancouver-canucks/canucks-that-other-elias-pettersson-playing-as-advertised-in-development-camp/wcm/44a2d505-343c-4eab-affb-d8c588d6aa28"
+    },
+    {
+      "text": "  Vancouver Canucks  ",
+      "url": "/category/vancouver-canucks/"
+    },
+    {
+      "text": "         ",
+      "url": "/sports/hockey/nhl/vancouver-canucks/canucks-that-other-elias-pettersson-playing-as-advertised-in-development-camp/wcm/44a2d505-343c-4eab-affb-d8c588d6aa28"
+    },
+    {
+      "text": "  Canucks: Prospects have plenty to prove as development camp gets underway   37 Canucks prospects skated at the team's week-long development camp, where players took the ice for the first time on Monday  ",
+      "url": "/sports/hockey/nhl/vancouver-canucks/canucks-prospects-have-plenty-to-prove-as-development-camp-gets-underway/wcm/87119d57-62e7-449d-a5e9-4a457544f0c1"
+    },
+    {
+      "text": "  Vancouver Canucks  ",
+      "url": "/category/vancouver-canucks/"
+    },
+    {
+      "text": "         ",
+      "url": "/sports/hockey/nhl/vancouver-canucks/canucks-prospects-have-plenty-to-prove-as-development-camp-gets-underway/wcm/87119d57-62e7-449d-a5e9-4a457544f0c1"
+    },
+    {
+      "text": "  DOJ investigating PGA Tour's LIV-related actions: Report   Several big-name PGA Tour players have jumped to LIV Golf, lured by multimillion dollar deals and a lighter schedule.  ",
+      "url": "/sports/golf/doj-investigating-pga-tours-liv-related-actions-report/wcm/710039bb-6fa4-4278-8d59-db3f9e984a6a"
+    },
+    {
+      "text": "  Golf  ",
+      "url": "/category/golf/"
+    },
+    {
+      "text": "         ",
+      "url": "/sports/golf/doj-investigating-pga-tours-liv-related-actions-report/wcm/710039bb-6fa4-4278-8d59-db3f9e984a6a"
+    },
+    {
+      "text": "  Canucks: Prize pick Jonathan Lekkerimaki draws favourable NHL projection   Can the Canucks' top 2022 draft pick develop into a Nikolaj Ehlers clone? In the last six seasons, the winger has scored 28, 21, 25, 21, 29 and 25 goals for the Jets.  ",
+      "url": "/sports/hockey/nhl/vancouver-canucks/canucks-prize-pick-jonathan-lekkerimaki-draws-favourable-nhl-projection/wcm/33b07776-501b-4f75-a27d-0b68dc266c78"
+    },
+    {
+      "text": "  Vancouver Canucks  ",
+      "url": "/category/vancouver-canucks/"
+    },
+    {
+      "text": "         ",
+      "url": "/sports/hockey/nhl/vancouver-canucks/canucks-prize-pick-jonathan-lekkerimaki-draws-favourable-nhl-projection/wcm/33b07776-501b-4f75-a27d-0b68dc266c78"
+    },
+    {
+      "text": "  Avalanche promote Joe Sakic to president of hockey operations   The team also announced Monday that assistant GM Chris MacFarland will now serve as the GM.  ",
+      "url": "/sports/hockey/nhl/avalanche-promote-joe-sakic-to-president-of-hockey-operations/wcm/bf6d8730-c53c-4d6a-bfb3-643b3da6b8bb"
+    },
+    {
+      "text": "  NHL  ",
+      "url": "/category/nhl/"
+    },
+    {
+      "text": "         ",
+      "url": "/sports/hockey/nhl/avalanche-promote-joe-sakic-to-president-of-hockey-operations/wcm/bf6d8730-c53c-4d6a-bfb3-643b3da6b8bb"
+    },
+    {
+      "text": " More sports stories > ",
+      "url": "/category/sports/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "/category/entertainment/"
+    },
+    {
+      "text": "  TUTS returns with musicals about music   Theatre Under the Stars makes a triumphant return with two curiously complementary musicals under the night skies in Stanley Park  ",
+      "url": "/entertainment/theatre/tuts-returns-with-musicals-about-music"
+    },
+    {
+      "text": "  Theatre  ",
+      "url": "/category/theatre/"
+    },
+    {
+      "text": "         ",
+      "url": "/entertainment/theatre/tuts-returns-with-musicals-about-music"
+    },
+    {
+      "text": "  Monty Norman, composer of James Bond theme, dies at 94   Norman was hired by producer Albert \u201cCubby\u201d Broccoli to compose a theme for the first James Bond film, \u201cDr. No,\u201d released in 1962.  ",
+      "url": "/entertainment/music/monty-norman-composer-of-james-bond-theme-dies-at-94/wcm/fdc2c9bd-c972-4050-9d0b-d9c1b9e2c084"
+    },
+    {
+      "text": "  Movies  ",
+      "url": "/category/movies/"
+    },
+    {
+      "text": "         ",
+      "url": "/entertainment/music/monty-norman-composer-of-james-bond-theme-dies-at-94/wcm/fdc2c9bd-c972-4050-9d0b-d9c1b9e2c084"
+    },
+    {
+      "text": "  George Lucas let Star Wars actors choose how they pronounced names   Mark Hamill admitted there\u2019s actually no right or wrong way to say any of the characters\u2019 names featured in the films.  ",
+      "url": "/entertainment/movies/george-lucas-let-star-wars-actors-choose-how-they-pronounced-names/wcm/3b56529e-f072-43af-bdfb-9c4ca40a1973"
+    },
+    {
+      "text": "  Movies  ",
+      "url": "/category/movies/"
+    },
+    {
+      "text": "         ",
+      "url": "/entertainment/movies/george-lucas-let-star-wars-actors-choose-how-they-pronounced-names/wcm/3b56529e-f072-43af-bdfb-9c4ca40a1973"
+    },
+    {
+      "text": "  Khatsahlano Street Party returns after two-year hiatus   The Khatsahlano Street Festival, after a two-year COVID hiatus, was in full swing on Saturday, headlined by the punk/new wave band Pointed Sticks  ",
+      "url": "/news/khatsahlano-street-party-returns-after-two-year-hiatus"
+    },
+    {
+      "text": "  News  ",
+      "url": "/category/news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/khatsahlano-street-party-returns-after-two-year-hiatus"
+    },
+    {
+      "text": "  Selena Gomez fan arrested outside her home   Selena is not believed to have been at home at the time of the incident.  ",
+      "url": "/entertainment/celebrity/selena-gomez-fan-arrested-outside-her-home/wcm/9e0eb1a0-e358-46f7-9ddb-19792849e153"
+    },
+    {
+      "text": "  Celebrity  ",
+      "url": "/category/celebrity/"
+    },
+    {
+      "text": "         ",
+      "url": "/entertainment/celebrity/selena-gomez-fan-arrested-outside-her-home/wcm/9e0eb1a0-e358-46f7-9ddb-19792849e153"
+    },
+    {
+      "text": " More entertainment stories > ",
+      "url": "/category/entertainment/"
+    },
+    {
+      "text": "Life",
+      "url": "/category/life/"
+    },
+    {
+      "text": "  Beauty Bar: Dyson Airwrap Multi-styler Complete   A redesigned iteration of the original Dyson Airwrap hairstyling device that sees \"re-engineered attachments powered by enhanced Coanda airflow.\"  ",
+      "url": "/life/fashion-beauty/beauty-bar-dyson-airwrap-multi-styler-complete"
+    },
+    {
+      "text": "  Fashion & Beauty  ",
+      "url": "/category/fashion-beauty/"
+    },
+    {
+      "text": "         ",
+      "url": "/life/fashion-beauty/beauty-bar-dyson-airwrap-multi-styler-complete"
+    },
+    {
+      "text": "  Fitness: Dive in, but know how to use the water to your advantage   The pool is the coolest place to exercise during a hot summer and you don\u2019t need to be a swimmer to reap the benefits.  ",
+      "url": "/opinion/columnists/fitness-dive-in-but-know-how-to-use-the-water-to-your-advantage/wcm/284e86ac-1440-48cf-9275-b7d5b4df30a1"
+    },
+    {
+      "text": "  Diet & Fitness  ",
+      "url": "/category/diet-fitness/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/columnists/fitness-dive-in-but-know-how-to-use-the-water-to-your-advantage/wcm/284e86ac-1440-48cf-9275-b7d5b4df30a1"
+    },
+    {
+      "text": "  Iconic bronze sculpture 'The Family' unveiled in new permanent home on Granville Island   The sculpture, which was originally in front of the old Pacific Press (Vancouver Sun) building at 7th and Granville Street in the '60s, sat in storage for nearly 15 years.  ",
+      "url": "/news/local-news/the-family-sculpture-granville-island"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/local-news/the-family-sculpture-granville-island"
+    },
+    {
+      "text": "  Darling dresses: 10 summer styles to step out in this season   As an ode to this summertime staple, we've rounded up 10 favourites.  ",
+      "url": "/life/fashion-beauty/darling-dresses-10-summer-styles-to-step-out-in-this-season"
+    },
+    {
+      "text": "  Fashion & Beauty  ",
+      "url": "/category/fashion-beauty/"
+    },
+    {
+      "text": "         ",
+      "url": "/life/fashion-beauty/darling-dresses-10-summer-styles-to-step-out-in-this-season"
+    },
+    {
+      "text": "  Makeover: Daughter's wedding was a great incentive to fix nurse's neglected hair   Josephina Gowler is a 50-year-old nurse who is required to wear her hair up for work. She has neglected her hair for several months and with her daughter\u2019s wedding fast approaching, a new look is exactly what the doctor ordered.  ",
+      "url": "/life/fashion-beauty/makeover-daughters-wedding-was-a-great-incentive-to-fix-nurses-neglected-hair"
+    },
+    {
+      "text": "  Fashion & Beauty  ",
+      "url": "/category/fashion-beauty/"
+    },
+    {
+      "text": "         ",
+      "url": "/life/fashion-beauty/makeover-daughters-wedding-was-a-great-incentive-to-fix-nurses-neglected-hair"
+    },
+    {
+      "text": " More life stories > ",
+      "url": "/category/life/"
+    },
+    {
+      "text": "Homes",
+      "url": "/category/homes/"
+    },
+    {
+      "text": "Westcoast Homes & Design",
+      "url": "/category/homes/westcoast-homes-and-design/"
+    },
+    {
+      "text": "Buying & Selling",
+      "url": "/category/homes/buying-selling/"
+    },
+    {
+      "text": "  Sold (Bought): Entertaining is front and centre in this West End condo   There's even a a martini bar in the kitchen  ",
+      "url": "/homes/buying-selling/sold-bought-entertaining-is-front-and-centre-in-this-west-end-condo"
+    },
+    {
+      "text": "  Buying & Selling  ",
+      "url": "/category/buying-selling/"
+    },
+    {
+      "text": "         ",
+      "url": "/homes/buying-selling/sold-bought-entertaining-is-front-and-centre-in-this-west-end-condo"
+    },
+    {
+      "text": "  A Light Touch: A dated Savary Island vacation property becomes a dreamy-bright family retreat   West Coast boutique design firm Parker and Harlow recently designed this 2,500-square-feet waterfront vacation property off the coast of Powell River  ",
+      "url": "/homes/buying-selling/a-light-touch-a-dated-savary-island-vacation-property-becomes-a-dreamy-bright-family-retreat"
+    },
+    {
+      "text": "  Buying & Selling  ",
+      "url": "/category/buying-selling/"
+    },
+    {
+      "text": "         ",
+      "url": "/homes/buying-selling/a-light-touch-a-dated-savary-island-vacation-property-becomes-a-dreamy-bright-family-retreat"
+    },
+    {
+      "text": "  Affidavits for Shangri-La tower class-action lawsuit examine market values   The case began in December 2015 when the lead plaintiff filed a notice of civil claim, alleging that defective glass windows were fogging, leaking and spontaneously breaking.  ",
+      "url": "/business/affidavits-for-shangri-la-tower-class-action-lawsuit-examine-market-values"
+    },
+    {
+      "text": "  Business  ",
+      "url": "/category/business/"
+    },
+    {
+      "text": "         ",
+      "url": "/business/affidavits-for-shangri-la-tower-class-action-lawsuit-examine-market-values"
+    },
+    {
+      "text": "  The Home Front: Motivated to do good work   Vancouver architects Tracey Mactavish and Asher deGroot, of Motiv Architects, aim to build community connections  ",
+      "url": "/homes/the-home-front-motivated-to-do-good-work"
+    },
+    {
+      "text": "  Homes  ",
+      "url": "/category/homes/"
+    },
+    {
+      "text": "         ",
+      "url": "/homes/the-home-front-motivated-to-do-good-work"
+    },
+    {
+      "text": "  Brian Minter: It's still not too late for your food gardens   Here we are, in early July \u2014 a time when many folks think the vegetable gardening season is over, when actually, it\u2019s the perfect time to begin a food garden and to have it thrive into the winter months.  ",
+      "url": "/homes/gardening/brian-minter-its-still-not-too-late-for-your-food-gardens"
+    },
+    {
+      "text": "  Gardening  ",
+      "url": "/category/gardening/"
+    },
+    {
+      "text": "         ",
+      "url": "/homes/gardening/brian-minter-its-still-not-too-late-for-your-food-gardens"
+    },
+    {
+      "text": " More homes stories > ",
+      "url": "/category/homes/"
+    },
+    {
+      "text": "Travel",
+      "url": "/category/travel/"
+    },
+    {
+      "text": "  Plenty of pubs and castles to enjoy in Ireland   Whether your tastes are modern or historic, high brow or low brow, the Emerald Isle has much to offer.  ",
+      "url": "/travel/plenty-of-pubs-and-castles-to-enjoy-in-ireland"
+    },
+    {
+      "text": "  Travel  ",
+      "url": "/category/travel/"
+    },
+    {
+      "text": "         ",
+      "url": "/travel/plenty-of-pubs-and-castles-to-enjoy-in-ireland"
+    },
+    {
+      "text": "  36 Hours in Istanbul\u00a0   If Turkiye is the crown bridging east and west, Istanbul is its crown jewel  ",
+      "url": "/travel/36-hours-in-istanbul"
+    },
+    {
+      "text": "  Travel  ",
+      "url": "/category/travel/"
+    },
+    {
+      "text": "         ",
+      "url": "/travel/36-hours-in-istanbul"
+    },
+    {
+      "text": "  Full disclosure from a first-time cruiser   My first cruise ship experience left me \u2026wondering why I've been holding back all these years.\"  ",
+      "url": "/travel/full-disclosure-from-a-first-time-cruiser"
+    },
+    {
+      "text": "  Travel  ",
+      "url": "/category/travel/"
+    },
+    {
+      "text": "         ",
+      "url": "/travel/full-disclosure-from-a-first-time-cruiser"
+    },
+    {
+      "text": "  Daphne Bramham: The old West makes way for a new, wilder one   Saskatchewan's Grasslands National Park offers a glimpse of the past (including wild bison roaming), but also a vision for a wilder future  ",
+      "url": "/opinion/daphne-bramham-the-old-west-makes-way-for-a-new-wilder-one"
+    },
+    {
+      "text": "  Opinion  ",
+      "url": "/category/opinion/"
+    },
+    {
+      "text": "         ",
+      "url": "/opinion/daphne-bramham-the-old-west-makes-way-for-a-new-wilder-one"
+    },
+    {
+      "text": "  Cancelled Air Canada flights strand Quebec teens at Vancouver airport   A teen scout group heading to the Yukon for a long-planned camping trip rolling ended up rolling out their sleeping bags on the floor of YVR after their Air Canada flight was cancelled  ",
+      "url": "/news/local-news/cancelled-air-canada-flights-snarl-long-planned-yukon-trip-for-quebec-teen-group"
+    },
+    {
+      "text": "  Local News  ",
+      "url": "/category/local-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/local-news/cancelled-air-canada-flights-snarl-long-planned-yukon-trip-for-quebec-teen-group"
+    },
+    {
+      "text": " More travel stories > ",
+      "url": "/category/travel/"
+    },
+    {
+      "text": "Driving",
+      "url": "/category/uncategorized/staff/driving-staff/"
+    },
+    {
+      "text": "  Planned closure of Queensway delayed due to ongoing labour disruptions   A planned closure of the Queensway for a bridge replacement has been postponed.  ",
+      "url": "https://driving.ca/auto-news/local-content/planned-closure-of-queensway-delayed-due-to-ongoing-labour-disruptions"
+    },
+    {
+      "text": "         ",
+      "url": "https://driving.ca/auto-news/local-content/planned-closure-of-queensway-delayed-due-to-ongoing-labour-disruptions"
+    },
+    {
+      "text": "  Roe v. HOV: Pregnant Texas woman claims fetus counts as passenger   If a fetus is conferred legal protections as a human being, then that human is also a passenger, right?  ",
+      "url": "https://driving.ca/auto-news/crashes/hov-lane-pregnant-texas-woman-claims-her-fetus-counts-as-passenger"
+    },
+    {
+      "text": "         ",
+      "url": "https://driving.ca/auto-news/crashes/hov-lane-pregnant-texas-woman-claims-her-fetus-counts-as-passenger"
+    },
+    {
+      "text": "  BMW charges monthly fee for adaptive headlights in South Korea   Billing for items like adaptive cruise control doesn\u2019t make any cents, but it's likely to make Bimmer plenty of dollars  ",
+      "url": "https://driving.ca/auto-news/news/bmw-charges-monthly-subscription-fees-for-headlights-in-south-korea"
+    },
+    {
+      "text": "         ",
+      "url": "https://driving.ca/auto-news/news/bmw-charges-monthly-subscription-fees-for-headlights-in-south-korea"
+    },
+    {
+      "text": "  Florida police will ticket if your car's stereo can be heard from outside   Like to play the music in your vehicle loud? You might want to stay away from Florida  ",
+      "url": "https://driving.ca/auto-news/crashes/florida-police-will-ticket-if-your-cars-stereo-can-be-heard-from-outside"
+    },
+    {
+      "text": "         ",
+      "url": "https://driving.ca/auto-news/crashes/florida-police-will-ticket-if-your-cars-stereo-can-be-heard-from-outside"
+    },
+    {
+      "text": "  Waymo autonomous vehicle attacked by Arizona pedestrian\u00a0   The safety driver suffered minor injuries when the suspect jumped on the hood and smashed the windshield  ",
+      "url": "https://driving.ca/auto-news/crashes/waymo-autonomous-vehicle-attacked-by-arizona-pedestrian"
+    },
+    {
+      "text": "         ",
+      "url": "https://driving.ca/auto-news/crashes/waymo-autonomous-vehicle-attacked-by-arizona-pedestrian"
+    },
+    {
+      "text": " More driving stories > ",
+      "url": "/category/uncategorized/staff/driving-staff/"
+    },
+    {
+      "text": "Healthing",
+      "url": "/category/healthing/"
+    },
+    {
+      "text": "  Does mindfulness meditation really reduce pain?   Participants taught to meditate before experiencing painful stimuli reported a 33% drop in pain unpleasantness and 32% reduction in intensity.  ",
+      "url": "https://www.healthing.ca/wellness/does-mindfulness-meditation-really-reduce-pain"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/wellness/does-mindfulness-meditation-really-reduce-pain"
+    },
+    {
+      "text": "  What are the signs of Magnesium deficiency?   More than one-third of Canadian adults aren't getting enough magnesium.  ",
+      "url": "https://www.healthing.ca/wellness/know-the-signs/what-is-magnesium-deficiency"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/wellness/know-the-signs/what-is-magnesium-deficiency"
+    },
+    {
+      "text": "  Parkour: Is this workout worth it?   Parkour combines cardiovascular endurance, strength training, balance and a quest for creativity that isn't seen in many other workouts \u2014 as long as you avoid falling from heights and slamming into the concrete.  ",
+      "url": "https://www.healthing.ca/wellness/fitness/parkour-is-this-workout-worth-it"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/wellness/fitness/parkour-is-this-workout-worth-it"
+    },
+    {
+      "text": "  Healthy Eating: Almonds, the favourite super food with a poisonous cousin   Eating sweet almonds is linked to a lower risk of developing obesity, coronary heart disease and cardiovascular disease. Bitter almonds, however, contain glycoside amygdalin \u2014 which is poisonous to humans.  ",
+      "url": "https://www.healthing.ca/wellness/food/healthy-eating-almonds"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/wellness/food/healthy-eating-almonds"
+    },
+    {
+      "text": "  'ALS will be a treatable chronic disease': New treatment slows disease progression and increases life expectancy   McGill University's Dr. Angela Genge is optimistic about what the future holds for amyotrophic lateral sclerosis care: \"Every step gives our patients more time, better function for longer, better care every year.\"  ",
+      "url": "https://www.healthing.ca/diseases-and-conditions/amyotrophic-lateral-sclerosis/als-amx0035albrioza-lou-gehrigs-treatment"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/diseases-and-conditions/amyotrophic-lateral-sclerosis/als-amx0035albrioza-lou-gehrigs-treatment"
+    },
+    {
+      "text": " More healthing stories > ",
+      "url": "/category/healthing/"
+    },
+    {
+      "text": "The GrowthOp",
+      "url": "/category/thegrowthop/"
+    },
+    {
+      "text": "  Cannabis grow busted after mall shoppers smell something amiss   Large-scale grow was concealed above a business, with the smell wafting into a shopping centre  ",
+      "url": "/wtf/cannabis-grow-busted-after-mall-shoppers-smell-something-amiss"
+    },
+    {
+      "text": "         ",
+      "url": "/wtf/cannabis-grow-busted-after-mall-shoppers-smell-something-amiss"
+    },
+    {
+      "text": "  Ontario police seize cannabis worth $61 million   Estimated 45,000-plus illegal pot plants and eight metric tonnes of processed weed confiscated.  ",
+      "url": "/cannabis-news/raided-cannabis-grow-op-in-ontario-reveals-weed-equipment-and-property-valued-at-61m"
+    },
+    {
+      "text": "  News  ",
+      "url": "/category/cannabis-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/cannabis-news/raided-cannabis-grow-op-in-ontario-reveals-weed-equipment-and-property-valued-at-61m"
+    },
+    {
+      "text": "  Brittney Griner in the spotlight during WNBA All-Star game   \u201cWe are not going to stop until everyone understands how serious this really is.\u201d  ",
+      "url": "/cannabis-sports/brittney-griner-in-the-spotlight-during-wnba-all-star-game"
+    },
+    {
+      "text": "         ",
+      "url": "/cannabis-sports/brittney-griner-in-the-spotlight-during-wnba-all-star-game"
+    },
+    {
+      "text": "  Maine man leaving Massachusetts court nabbed for SUV full of cannabis   43-year-old man in court on vehicle and marijuana charges in late June returned to same court later that day for same offences  ",
+      "url": "/cannabis-news/maine-man-leaving-massachusetts-court-nabbed-for-suv-full-of-cannabis"
+    },
+    {
+      "text": "  News  ",
+      "url": "/category/cannabis-news/"
+    },
+    {
+      "text": "         ",
+      "url": "/cannabis-news/maine-man-leaving-massachusetts-court-nabbed-for-suv-full-of-cannabis"
+    },
+    {
+      "text": "  Joe Rogan responds to border drug seizure: \u2018You should take all these drugs and rethink your life\u2019   Border agents seized small amounts of ecstasy, cannabis and psilocybin mushrooms from a vehicle entering New York.  ",
+      "url": "/cannabis-news/celebs/joe-rogan-responds-to-border-drug-seizure-you-should-take-all-these-drugs-and-rethink-your-life"
+    },
+    {
+      "text": "         ",
+      "url": "/cannabis-news/celebs/joe-rogan-responds-to-border-drug-seizure-you-should-take-all-these-drugs-and-rethink-your-life"
+    },
+    {
+      "text": " More the growthop stories > ",
+      "url": "/category/thegrowthop/"
+    },
+    {
+      "text": " Subscribe ",
+      "url": "/subscribe"
+    },
+    {
+      "text": " News ",
+      "url": "/category/news/"
+    },
+    {
+      "text": " Hot Topics ",
+      "url": "/category/hot-topics/"
+    },
+    {
+      "text": " Business ",
+      "url": "/category/business/"
+    },
+    {
+      "text": " True Crime ",
+      "url": "/category/news/true-crime/"
+    },
+    {
+      "text": " Opinion ",
+      "url": "/category/opinion/"
+    },
+    {
+      "text": " Sports ",
+      "url": "/category/sports/"
+    },
+    {
+      "text": " Arts ",
+      "url": "/category/entertainment/"
+    },
+    {
+      "text": " E-Paper ",
+      "url": "http://epaper.vancouversun.com/"
+    },
+    {
+      "text": " Subscribe ",
+      "url": "/subscribe"
+    },
+    {
+      "text": "  ",
+      "url": "https://www.facebook.com/VancouverSun/"
+    },
+    {
+      "text": "  ",
+      "url": "https://twitter.com/VancouverSun"
+    },
+    {
+      "text": "  ",
+      "url": "https://www.youtube.com/user/VancouverSunOnline"
+    },
+    {
+      "text": "  ",
+      "url": "https://www.instagram.com/thevancouversun/"
+    },
+    {
+      "text": " Advertise With Us ",
+      "url": "https://www.postmediasolutions.com/contact-us/"
+    },
+    {
+      "text": " Digital Ad Registry ",
+      "url": "https://adregistry.postmedia.com/"
+    },
+    {
+      "text": " Site Map ",
+      "url": "/sitemap/"
+    },
+    {
+      "text": " Contact ",
+      "url": "/contact"
+    },
+    {
+      "text": " Privacy - Updated ",
+      "url": "/privacy-statement/en/"
+    },
+    {
+      "text": " Terms of Use ",
+      "url": "/terms-of-service/"
+    },
+    {
+      "text": " Copyright ",
+      "url": "/copyright/"
+    },
+    {
+      "text": " My Account ",
+      "url": "/my-account"
+    },
+    {
+      "text": " Manage My Print Subscription ",
+      "url": "/manage"
+    },
+    {
+      "text": " Manage My Tax Receipt ",
+      "url": "/manage"
+    },
+    {
+      "text": "  ",
+      "url": "https://www.postmedia.com/brands"
+    },
+    {
+      "text": "cookies here",
+      "url": "/cookie-policy/"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "/terms-of-service/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-statement/en/"
+    },
+    {
+      "text": "subscribe now",
+      "url": "https://vancouversun.com/subscribe/campaign/always-on/?utm_source=on-net&utm_medium=overlay&utm_campaign=always-on-subscription&utm_content=july\n"
+    }
+  ],
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

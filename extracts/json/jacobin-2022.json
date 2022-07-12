@@ -1,5 +1,5 @@
 {
-  "created": 1657455146,
+  "created": 1657628156,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/35/items/jacobin-2022",
@@ -520,31 +520,199 @@
       "sha1": "a1daaa84c81b01fda78fe3fdd160b1d03d0b3b51"
     },
     {
+      "name": "jacobin-2022-07-10T09:42:14.523368-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657460542",
+      "size": "20666",
+      "md5": "a86f4ebe5d88d0071b591c3e3233911c",
+      "crc32": "8780dd0b",
+      "sha1": "9f33adab1ffda3b9fa7d2aa60181456b89917d62",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-10T09:42:14.523368-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657460544",
+      "size": "13813",
+      "md5": "306e349d6c421ca29bfb7da02e2a5154",
+      "crc32": "835848fc",
+      "sha1": "c41083a573fa7376bb63a9d350ddbca3fb8d2ecb",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-10T09:42:14.523368-04:00.jpg",
+      "source": "original",
+      "mtime": "1657460540",
+      "size": "285571",
+      "md5": "fcfd882fe034555af2d87f4d33b0a863",
+      "crc32": "9e22a041",
+      "sha1": "d18ef949f091ef5ba6b89a252f753b2fde8acca2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jacobin-2022-07-10T09:42:14.523368-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jacobin-2022-07-10T09:42:14.523368-04:00.jpg",
+      "mtime": "1657460589",
+      "size": "9815",
+      "md5": "e562870460c2cd157533984c763617e6",
+      "crc32": "7476c997",
+      "sha1": "d1314ec606b785b10331dadf272b28262fcdf1bb"
+    },
+    {
+      "name": "jacobin-2022-07-10T22:07:47.134290-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657505271",
+      "size": "20688",
+      "md5": "6c113c5e66af8068af68b5c0849b5c35",
+      "crc32": "8f898614",
+      "sha1": "39f694145e5b470f34222360733350767c9d1ead",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-10T22:07:47.134290-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505272",
+      "size": "13745",
+      "md5": "cd1471c7eac0211af8a99c3e0d88d96c",
+      "crc32": "23ab4f49",
+      "sha1": "ace8d6c0fc9d1ff1d09679ab98e2d1ef0e02dc2a",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-10T22:07:47.134290-04:00.jpg",
+      "source": "original",
+      "mtime": "1657505269",
+      "size": "325327",
+      "md5": "4ae2c021381339d814a168fb21257168",
+      "crc32": "186a0676",
+      "sha1": "58a96a2941fce37e3b6485cbeadc441a65da93cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jacobin-2022-07-10T22:07:47.134290-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jacobin-2022-07-10T22:07:47.134290-04:00.jpg",
+      "mtime": "1657505330",
+      "size": "10068",
+      "md5": "7ab6f2c3cdda978f00bf1f8fabd883c7",
+      "crc32": "4ad414ee",
+      "sha1": "877006b4f859513107f3cf9e8c92b1e2cf79e5e7"
+    },
+    {
+      "name": "jacobin-2022-07-11T11:44:23.361896-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657554267",
+      "size": "20903",
+      "md5": "03cdd4fc172e225350dc49ac7db1050a",
+      "crc32": "092be5a5",
+      "sha1": "291556e6177d9a041dec9a39761f8e17821228ca",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-11T11:44:23.361896-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657554269",
+      "size": "13734",
+      "md5": "33283110edcaafc3afefe4445ab69c53",
+      "crc32": "9bf8d6bf",
+      "sha1": "3aa59faa51b33659e231005b8414eebfabd49d98",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-11T11:44:23.361896-04:00.jpg",
+      "source": "original",
+      "mtime": "1657554264",
+      "size": "311269",
+      "md5": "f631b9faac57e945050f2fa00c351e10",
+      "crc32": "5e139dc8",
+      "sha1": "4e9f30c25bf8878ce0ce5ce4876b6bd3b6399214",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jacobin-2022-07-11T11:44:23.361896-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jacobin-2022-07-11T11:44:23.361896-04:00.jpg",
+      "mtime": "1657554326",
+      "size": "10112",
+      "md5": "0596a93cc8f616007f2e544a861bef15",
+      "crc32": "45b2b1fa",
+      "sha1": "79fed085088fadf61709ddd627be2a50fcbd0ad3"
+    },
+    {
+      "name": "jacobin-2022-07-11T22:09:09.629498-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657591753",
+      "size": "21386",
+      "md5": "3f58d52b9ebda7f4a355a7913bf2ed3f",
+      "crc32": "a019d2b9",
+      "sha1": "b12dfdd38a1631b7b895d2675a96e94a3b2dc461",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-11T22:09:09.629498-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657591754",
+      "size": "14002",
+      "md5": "1038e754fbe50bc647d378bfebeb989a",
+      "crc32": "e9a2b048",
+      "sha1": "e904ae7337d86ca48d58dd5e988e7496b1bd2545",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-11T22:09:09.629498-04:00.jpg",
+      "source": "original",
+      "mtime": "1657591751",
+      "size": "300922",
+      "md5": "c2cac612e579dfc9f8c3c7ca41bf76db",
+      "crc32": "6e6361a1",
+      "sha1": "496595d7f01a5e7ef0fc77d62728b7c6872c22f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jacobin-2022-07-11T22:09:09.629498-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jacobin-2022-07-11T22:09:09.629498-04:00.jpg",
+      "mtime": "1657591803",
+      "size": "10058",
+      "md5": "2d2e28eba3cd3e8cb70d3ede8f4c32de",
+      "crc32": "6a144d70",
+      "sha1": "75540247fc0b541129b5163731ab530b3240c084"
+    },
+    {
       "name": "jacobin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "543719684fd9bebdc2c66049b3b2f1bd8ae00a6d",
-      "mtime": "1657418881",
-      "size": "11687",
-      "md5": "fdcfc8db8d702422b1c9e9c594475966",
-      "crc32": "bc929646",
-      "sha1": "93311097cdc08ea8ab131fcac319a160c9d50352",
+      "btih": "1f3c432544a6e24e1dae2ab621ce54d8ff66bc73",
+      "mtime": "1657591807",
+      "size": "15030",
+      "md5": "34c7113a56390b6975dbcb806fed947c",
+      "crc32": "bdd60105",
+      "sha1": "11235b7717bf71694c10dfbbc9f98f147ac8da8f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jacobin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ab0f983ea99998eed19a6890b8e80196",
+      "md5": "c7bb3d9a9de89a6e9fbc849a076a8486",
       "summation": "md5"
     },
     {
       "name": "jacobin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657418830",
-      "size": "69632",
-      "md5": "9e2b82960cbc2da687768ba9f61eafea",
-      "crc32": "0c6bb10d",
-      "sha1": "4eb064eecf07566d31a5f9acab12f2f615c8e3fe",
+      "mtime": "1657591758",
+      "size": "86016",
+      "md5": "ae843dc8415429bcbf9804ba28e39dbf",
+      "crc32": "cc8a1678",
+      "sha1": "9b5c21611ba6c9a6d1b25d2f3bba2b684c8e2c66",
       "format": "Metadata"
     },
     {
@@ -558,9 +726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 53,
-  "item_last_updated": 1657418881,
-  "item_size": 4211993,
+  "files_count": 69,
+  "item_last_updated": 1657591807,
+  "item_size": 5633799,
   "jacobin-2022": [
     {
       "text": "\n        \n        \n  Jacobin Logo\n  \n  \n  \n  \n  \n  \n  \n\n\n\n  Jacobin Icon\n  \n\n\n        Jacobin\n      ",
@@ -588,95 +756,107 @@
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/fdr-was-right-to-attack-the-supreme-courts-power-democrats-should-do-the-same-today"
+      "url": "/2022/07/supreme-court-working-class-women-abortion-carceral-state-law"
     },
     {
-      "text": "\n            FDR Was Right to Attack the Supreme Court\u2019s Power. Democrats Should Do the Same Today.\n          ",
-      "url": "/2022/07/fdr-was-right-to-attack-the-supreme-courts-power-democrats-should-do-the-same-today"
+      "text": "\n            The Supreme Court Has Always Been a Reactionary Body\n          ",
+      "url": "/2022/07/supreme-court-working-class-women-abortion-carceral-state-law"
     },
     {
-      "text": "David Sirota",
-      "url": "/author/david-sirota"
+      "text": "Aziz Rana",
+      "url": "/author/aziz-rana"
+    },
+    {
+      "text": "Amna A. Akbar",
+      "url": "/author/amna-a-akbar"
+    },
+    {
+      "text": "Marbre Stahly-Butts",
+      "url": "/author/marbre-stahly-butts"
     },
     {
       "text": "\n    \n  ",
+      "url": "/2022/07/chile-constitutional-convention-neoliberalism-pinochet-labor"
+    },
+    {
+      "text": "\n        Chile\u2019s New Constitution Will Empower Chilean Workers\n      ",
+      "url": "/2022/07/chile-constitutional-convention-neoliberalism-pinochet-labor"
+    },
+    {
+      "text": "Karina Nohales",
+      "url": "/author/karina-nohales"
+    },
+    {
+      "text": "\n    \n  ",
+      "url": "/2022/07/labor-question-woodrow-wilson-equality-capitalism"
+    },
+    {
+      "text": "\n        Is the \u201cLabor Question\u201d Dead?\n      ",
+      "url": "/2022/07/labor-question-woodrow-wilson-equality-capitalism"
+    },
+    {
+      "text": "Steve Fraser",
+      "url": "/author/Steve Fraser"
+    },
+    {
+      "text": "\n    \n  ",
+      "url": "/2022/07/abu-akleh-journalist-palestine-israel-killing"
+    },
+    {
+      "text": "\n        Israel Can\u2019t Destroy the Memory of Shireen Abu Akleh\n      ",
+      "url": "/2022/07/abu-akleh-journalist-palestine-israel-killing"
+    },
+    {
+      "text": "Xavier Guignard",
+      "url": "/author/xavier-guignard"
+    },
+    {
+      "text": "Colin Powers",
+      "url": "/author/colin-powers"
+    },
+    {
+      "text": "\n    \n  ",
+      "url": "/2022/07/australia-nem-coal-gas-privatization-nationalization"
+    },
+    {
+      "text": "\n        Australia\u2019s Private Energy Market Is Rigged to Guarantee Corporate Profits\n      ",
+      "url": "/2022/07/australia-nem-coal-gas-privatization-nationalization"
+    },
+    {
+      "text": "Zacharias Szumer",
+      "url": "/author/zacharias-szumer"
+    },
+    {
+      "text": "\n      Amazon\u2019s \u201cCustomer-Centric\u201d Business Model Couldn\u2019t Function Without Abusing Workers\n    ",
       "url": "/2022/07/amazon-business-model-warehouse-worker-safety"
     },
     {
-      "text": "\n        Amazon\u2019s \u201cCustomer-Centric\u201d Business Model Couldn\u2019t Function Without Abusing Workers\n      ",
-      "url": "/2022/07/amazon-business-model-warehouse-worker-safety"
-    },
-    {
-      "text": "William Banks",
-      "url": "/author/william-banks"
-    },
-    {
-      "text": "\n    \n  ",
+      "text": "\n      When Workers Lose Abortion Rights, the Boss Gains a Bargaining Chip\n    ",
       "url": "/2022/07/abortion-rights-dobbs-workers-unions-starbucks-amazon-uber"
     },
     {
-      "text": "\n        When Workers Lose Abortion Rights, the Boss Gains a Bargaining Chip\n      ",
-      "url": "/2022/07/abortion-rights-dobbs-workers-unions-starbucks-amazon-uber"
-    },
-    {
-      "text": "Alex N. Press",
-      "url": "/author/alex-press"
-    },
-    {
-      "text": "\n    \n  ",
+      "text": "\n      In Kent\u2019s Former Mining Villages, the Scars of Thatcherism Remain\n    ",
       "url": "/2022/07/kent-england-mining-margaret-thatcher-strikes-left"
     },
     {
-      "text": "\n        In Kent\u2019s Former Mining Villages, the Scars of Thatcherism Remain\n      ",
-      "url": "/2022/07/kent-england-mining-margaret-thatcher-strikes-left"
-    },
-    {
-      "text": "Daniel Esson",
-      "url": "/author/daniel-esson"
-    },
-    {
-      "text": "\n    \n  ",
+      "text": "\n      Boris Johnson, You Won\u2019t Be Missed\n    ",
       "url": "/2022/07/good-riddance-boris-johnson-united-kingdom-british-conservative-party"
     },
     {
-      "text": "\n        Boris Johnson, You Won\u2019t Be Missed\n      ",
-      "url": "/2022/07/good-riddance-boris-johnson-united-kingdom-british-conservative-party"
+      "text": "\n      Next On the Supreme Court\u2019s Kill List: Democratic Presidential Elections\n    ",
+      "url": "/2022/07/supreme-court-gop-elections-states-trump"
     },
     {
-      "text": "Zarah Sultana",
-      "url": "/author/zarah-sultana"
+      "text": "\n      The Antiabortion Movement Is the Rotten Fruit of a Brutally Unequal Society\n    ",
+      "url": "/2022/07/anti-abortion-movement-division-of-labor-patriarchy"
     },
     {
-      "text": "\n      Boris Johnson Is Going, but We\u2019re Stuck With the Same Right-Wing Nightmare\n    ",
-      "url": "/2022/07/uk-tories-labour-boris-johnson-resignation-starmer"
+      "text": "\n      Even Anti-Fascists\u2019 Graves Aren\u2019t Safe from the New Far Right\n    ",
+      "url": "/2022/07/bosnia-wwii-graves-anti-fascism-partisans"
     },
     {
-      "text": "\n      When Australia Experienced a Mass Shooting, the Government Enacted Gun Reform\n    ",
-      "url": "/2022/07/national-firearms-agreement-nfa-gun-control-john-howard"
-    },
-    {
-      "text": "\n      Museum Workers Are Unionizing \u2014 and Their Bosses Are Fighting Back\n    ",
-      "url": "/2022/07/museum-workers-unionizing-art-bosses-fighting-back-organizing-wages-fair-contracts"
-    },
-    {
-      "text": "\n      Our Current Moment of Increased Labor Organizing Could Become Something Much Bigger\n    ",
-      "url": "/2022/07/labor-organizing-unions-ups-amazon-starbucks-the-dig"
-    },
-    {
-      "text": "\n      Texas Shows the Pitfalls of Liberal Climate Politics\n    ",
-      "url": "/2022/07/texas-energy-power-abbott-fossil-fuels-gas-gnd"
-    },
-    {
-      "text": "\n      Canadian Soccer Players Are Demanding Better Working Conditions\n    ",
-      "url": "/2022/07/canada-soccer-men-women-contract-equal-pay"
-    },
-    {
-      "text": "\n      Colombia Is Finally in the Midst of a Long-Awaited Opening for Left Politics\n    ",
-      "url": "/2022/07/colombia-left-politics-gustavo-petro-francia-marquez"
-    },
-    {
-      "text": "\n      A People\u2019s History of Surfing\n    ",
-      "url": "/2022/07/peoples-history-surfing-capitalism-indigenous-hawaii-consumerism"
+      "text": "\n      Ghassan Kanafani Is a Martyr to Palestinian Freedom\n    ",
+      "url": "/2022/07/ghassan-kanafani-writer-palestine-israel-assassination"
     },
     {
       "text": "\n            Issue No.\n            45\n          ",
@@ -724,83 +904,83 @@
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/supreme-court-gop-elections-states-trump"
+      "url": "/2022/07/james-okeefe-free-speech-labor-unions-job-security-project-veritas"
     },
     {
-      "text": "\n        Next On the Supreme Court\u2019s Kill List: Democratic Presidential Elections\n      ",
-      "url": "/2022/07/supreme-court-gop-elections-states-trump"
+      "text": "\n        James O\u2019Keefe Doesn\u2019t Care About Free Speech\n      ",
+      "url": "/2022/07/james-okeefe-free-speech-labor-unions-job-security-project-veritas"
     },
     {
-      "text": "Ben Beckett",
-      "url": "/author/ben-beckett"
-    },
-    {
-      "text": "\n    \n  ",
-      "url": "/2022/07/anti-abortion-movement-division-of-labor-patriarchy"
-    },
-    {
-      "text": "\n        The Antiabortion Movement Is the Rotten Fruit of a Brutally Unequal Society\n      ",
-      "url": "/2022/07/anti-abortion-movement-division-of-labor-patriarchy"
-    },
-    {
-      "text": "Paul Heideman",
-      "url": "/author/paul-heideman"
+      "text": "Ben Burgis",
+      "url": "/author/ben-burgis"
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/bosnia-wwii-graves-anti-fascism-partisans"
+      "url": "/2022/07/new-jersey-immigrant-rights-elizabeth-detention-center-protests"
     },
     {
-      "text": "\n        Even Anti-Fascists\u2019 Graves Aren\u2019t Safe from the New Far Right\n      ",
-      "url": "/2022/07/bosnia-wwii-graves-anti-fascism-partisans"
+      "text": "\n        In New Jersey, Activists Are Learning What \u201cAbolish ICE\u201d Means in the Biden Era\n      ",
+      "url": "/2022/07/new-jersey-immigrant-rights-elizabeth-detention-center-protests"
     },
     {
-      "text": "Matt Broomfield",
-      "url": "/author/matt-broomfield"
+      "text": "Whitney Strub",
+      "url": "/author/whitney-strub"
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/ghassan-kanafani-writer-palestine-israel-assassination"
+      "url": "/2022/07/boris-groys-art-internet-memes-soviet-union"
     },
     {
-      "text": "\n        Ghassan Kanafani Is a Martyr to Palestinian Freedom\n      ",
-      "url": "/2022/07/ghassan-kanafani-writer-palestine-israel-assassination"
+      "text": "\n        Art Should Show Things People Do Not Want to See\n      ",
+      "url": "/2022/07/boris-groys-art-internet-memes-soviet-union"
     },
     {
-      "text": "Julian Sayarer",
-      "url": "/author/julian-sayarer"
+      "text": "Boris Groys",
+      "url": "/author/boris-groys"
     },
     {
-      "text": "\n      The Supreme Court\u2019s Entire Term Was an Exercise in Reactionary Rollback of Basic Rights\n    ",
-      "url": "/2022/07/supreme-court-roe-conservatives-rights"
+      "text": "\n    \n  ",
+      "url": "/2022/07/amazon-starbucks-union-organizing-strategy"
     },
     {
-      "text": "\n      Rights Are Won Through Struggle, Not Handed Down by the Courts\n    ",
-      "url": "/2022/07/freedom-rights-karl-marx-class-struggle-roe"
+      "text": "\n        The First Principle of Union Organizing: Spontaneity Isn\u2019t Enough\n      ",
+      "url": "/2022/07/amazon-starbucks-union-organizing-strategy"
     },
     {
-      "text": "\n      How Should the Left Think About Realism in Foreign Policy?\n    ",
-      "url": "/2022/07/realism-morgenthau-mearsheimer-international-relations-left"
+      "text": "Sam Gindin",
+      "url": "/author/Sam Gindin"
     },
     {
-      "text": "\n      Why Momentum Is in Crisis\n    ",
-      "url": "/2022/07/momentum-uk-labour-party-jeremy-corbyn-keir-starmer-left"
+      "text": "\n      Starbucks Is Slowly Strangling Its Pro-Union Workers. Where Is \u201cPro-Union\u201d President Joe Biden?\n    ",
+      "url": "/2022/07/starbucks-strangling-pro-union-workers-joe-biden-howard-schultz-nlrb"
     },
     {
-      "text": "\n      Workers in France Have Gone on Strike to Save Public Broadcast Media\n    ",
-      "url": "/2022/07/france-strike-public-broadcast-media-workers-television-radio-macron-taxes"
+      "text": "\n      Multinational Corporations Are Sucking Mexico Dry\n    ",
+      "url": "/2022/07/mexico-water-crisis-nuevo-leon-monterrey-garcia-privatization"
     },
     {
-      "text": "\n      The Democrats Have Been Embarrassingly Useless on Abortion\n    ",
-      "url": "/2022/07/democrats-roe-v-wade-supreme-court-biden-pelosi"
+      "text": "\n      They Could Never Kill Patrice Lumumba\n    ",
+      "url": "/2022/07/patrice-lumumba-congo-belgium-gold-tooth-imperialism-self-determination"
     },
     {
-      "text": "\n      How Will Russia\u2019s War on Ukraine End?\n    ",
-      "url": "/2022/07/russia-ukraine-war-nato-expansion-diplomacy-military-aid"
+      "text": "\n      The British Establishment Chose Boris Johnson as Its Weapon to Defeat the Left\n    ",
+      "url": "/2022/07/boris-johnson-resignation-labour-media-allies-against-corbyn"
     },
     {
-      "text": "\n      Gun Control Alone Won\u2019t Suppress the US\u2019s Death Drive\n    ",
-      "url": "/2022/07/us-gun-control-violence-history-colonialism-freud"
+      "text": "\n      Boris Johnson Is Going, but We\u2019re Stuck With the Same Right-Wing Nightmare\n    ",
+      "url": "/2022/07/uk-tories-labour-boris-johnson-resignation-starmer"
+    },
+    {
+      "text": "\n      When Australia Experienced a Mass Shooting, the Government Enacted Gun Reform\n    ",
+      "url": "/2022/07/national-firearms-agreement-nfa-gun-control-john-howard"
+    },
+    {
+      "text": "\n      Museum Workers Are Unionizing \u2014 and Their Bosses Are Fighting Back\n    ",
+      "url": "/2022/07/museum-workers-unionizing-art-bosses-fighting-back-organizing-wages-fair-contracts"
+    },
+    {
+      "text": "\n      Our Current Moment of Increased Labor Organizing Could Become Something Much Bigger\n    ",
+      "url": "/2022/07/labor-organizing-unions-ups-amazon-starbucks-the-dig"
     },
     {
       "text": "\n          \n  Facebook Icon\n  \n\n          Facebook\n        ",
@@ -836,83 +1016,83 @@
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/starbucks-strangling-pro-union-workers-joe-biden-howard-schultz-nlrb"
+      "url": "/2022/07/unions-canada-us-starbucks-amazon-card-check"
     },
     {
-      "text": "\n        Starbucks Is Slowly Strangling Its Pro-Union Workers. Where Is \u201cPro-Union\u201d President Joe Biden?\n      ",
-      "url": "/2022/07/starbucks-strangling-pro-union-workers-joe-biden-howard-schultz-nlrb"
+      "text": "\n        The Labor Movement Is Gaining Momentum on Both Sides of the US-Canada Border\n      ",
+      "url": "/2022/07/unions-canada-us-starbucks-amazon-card-check"
     },
     {
-      "text": "John Logan",
-      "url": "/author/john-logan"
-    },
-    {
-      "text": "\n    \n  ",
-      "url": "/2022/07/mexico-water-crisis-nuevo-leon-monterrey-garcia-privatization"
-    },
-    {
-      "text": "\n        Multinational Corporations Are Sucking Mexico Dry\n      ",
-      "url": "/2022/07/mexico-water-crisis-nuevo-leon-monterrey-garcia-privatization"
-    },
-    {
-      "text": "Kurt Hackbarth",
-      "url": "/author/kurt-hackbarth"
+      "text": "David Moscrop",
+      "url": "/author/david-moscrop"
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/patrice-lumumba-congo-belgium-gold-tooth-imperialism-self-determination"
+      "url": "/2022/07/port-dock-automation-longshore-workers-jobs-productivity"
     },
     {
-      "text": "\n        They Could Never Kill Patrice Lumumba\n      ",
-      "url": "/2022/07/patrice-lumumba-congo-belgium-gold-tooth-imperialism-self-determination"
+      "text": "\n        Automation on the Docks Means Fewer Jobs \u2014 and Often No Improvement in Productivity\n      ",
+      "url": "/2022/07/port-dock-automation-longshore-workers-jobs-productivity"
     },
     {
-      "text": "Perry Blankson",
-      "url": "/author/perry-blankson"
+      "text": "Rebecca Schlarb",
+      "url": "/author/rebecca-schlarb"
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/boris-johnson-resignation-labour-media-allies-against-corbyn"
+      "url": "/2022/07/boris-johnson-scandals-media-support-corbyn"
     },
     {
-      "text": "\n        The British Establishment Chose Boris Johnson as Its Weapon to Defeat the Left\n      ",
-      "url": "/2022/07/boris-johnson-resignation-labour-media-allies-against-corbyn"
+      "text": "\n        Boris Johnson Was a Creation of the British Media\n      ",
+      "url": "/2022/07/boris-johnson-scandals-media-support-corbyn"
     },
     {
-      "text": "Daniel Finn",
-      "url": "/author/daniel-finn"
+      "text": "Francesca Newton",
+      "url": "/author/francesca-newton"
     },
     {
-      "text": "\n      Here\u2019s the Socialist Beach Reads List You Desperately Need\n    ",
-      "url": "/2022/07/beach-reads-list-socialist-books"
+      "text": "\n    \n  ",
+      "url": "/2022/07/fdr-was-right-to-attack-the-supreme-courts-power-democrats-should-do-the-same-today"
     },
     {
-      "text": "\n      Rebuilding the Working-Class Base One Door at a Time\n    ",
-      "url": "/2022/07/working-america-class-organizing-elections-persuasion"
+      "text": "\n        FDR Was Right to Attack the Supreme Court\u2019s Power. Democrats Should Do the Same Today.\n      ",
+      "url": "/2022/07/fdr-was-right-to-attack-the-supreme-courts-power-democrats-should-do-the-same-today"
     },
     {
-      "text": "\n      We Should Criticize Corporate Greed All the Time\n    ",
-      "url": "/2022/07/corporate-greed-price-gouging-covid-supply-chain"
+      "text": "David Sirota",
+      "url": "/author/david-sirota"
     },
     {
-      "text": "\n      This Chart Shows That Ending Pandemic Aid Created a Financial Disaster\n    ",
-      "url": "/2022/07/pandemic-aid-financial-disaster-us-census-data-biden-administration-inflation-relief-programs"
+      "text": "\n      Texas Shows the Pitfalls of Liberal Climate Politics\n    ",
+      "url": "/2022/07/texas-energy-power-abbott-fossil-fuels-gas-gnd"
     },
     {
-      "text": "\n      Marco Rubio\u2019s \u201cPro-Family\u201d Proposals Are a Fraud\n    ",
-      "url": "/2022/07/marco-rubio-pro-family-conservatism-workers"
+      "text": "\n      Canadian Soccer Players Are Demanding Better Working Conditions\n    ",
+      "url": "/2022/07/canada-soccer-men-women-contract-equal-pay"
     },
     {
-      "text": "\n      15 Years Ago, Mad Men Quietly Began Its Engagement With Leftist Ideas\n    ",
-      "url": "/2022/07/mad-men-15-years-advertising-left-ideas-monopoly-capital"
+      "text": "\n      Colombia Is Finally in the Midst of a Long-Awaited Opening for Left Politics\n    ",
+      "url": "/2022/07/colombia-left-politics-gustavo-petro-francia-marquez"
     },
     {
-      "text": "\n      The Institute for Christian Socialism Wants to Bring Left Politics to American Christianity\n    ",
-      "url": "/2022/07/institute-christian-socialism-base-communities-left-religion"
+      "text": "\n      A People\u2019s History of Surfing\n    ",
+      "url": "/2022/07/peoples-history-surfing-capitalism-indigenous-hawaii-consumerism"
     },
     {
-      "text": "\n      You Can\u2019t Have Socialism Without the Working Class\n    ",
-      "url": "/2022/07/vivek-chibber-interview-working-class-organizing-dsa"
+      "text": "\n      The Supreme Court\u2019s Entire Term Was an Exercise in Reactionary Rollback of Basic Rights\n    ",
+      "url": "/2022/07/supreme-court-roe-conservatives-rights"
+    },
+    {
+      "text": "\n      Rights Are Won Through Struggle, Not Handed Down by the Courts\n    ",
+      "url": "/2022/07/freedom-rights-karl-marx-class-struggle-roe"
+    },
+    {
+      "text": "\n      How Should the Left Think About Realism in Foreign Policy?\n    ",
+      "url": "/2022/07/realism-morgenthau-mearsheimer-international-relations-left"
+    },
+    {
+      "text": "\n      Why Momentum Is in Crisis\n    ",
+      "url": "/2022/07/momentum-uk-labour-party-jeremy-corbyn-keir-starmer-left"
     },
     {
       "text": "\n        \n        \n  Catalyst Logo\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n      ",
@@ -1003,10 +1183,10 @@
     "publicdate": "2022-07-04 21:54:25",
     "addeddate": "2022-07-04 21:54:25"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 583657866,
+  "server": "ia902505.us.archive.org",
+  "uniq": 972873245,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

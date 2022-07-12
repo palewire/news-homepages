@@ -1,5 +1,5 @@
 {
-  "created": 1657455129,
+  "created": 1657628138,
   "d1": "ia601806.us.archive.org",
   "d2": "ia801806.us.archive.org",
   "dir": "/20/items/humanevents-2022",
@@ -6740,31 +6740,283 @@
       "sha1": "3cf218a630f9ba0c2113053ef798d93393abfbe1"
     },
     {
+      "name": "humanevents-2022-07-10T09:41:55.563604-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657460519",
+      "size": "17658",
+      "md5": "7774cbec3b3b17764dbdd15f1b0bcca0",
+      "crc32": "bd720a18",
+      "sha1": "cbe75925a87aa4441576cdc1aa995ebde62f36be",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-10T09:41:55.563604-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657460521",
+      "size": "26511",
+      "md5": "1306b37f278d64f3324ffda61b25a365",
+      "crc32": "0e738bc4",
+      "sha1": "1fd7c60bc3a09c28d47a7403a0c7ed5d91380591",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-10T09:41:55.563604-04:00.jpg",
+      "source": "original",
+      "mtime": "1657460517",
+      "size": "263063",
+      "md5": "4397ae75a107b17b181f70474da5f14b",
+      "crc32": "6cf61800",
+      "sha1": "1b625f6e24a651b4432e5d9a1e58a1d0141de4e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-07-10T09:41:55.563604-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-07-10T09:41:55.563604-04:00.jpg",
+      "mtime": "1657460574",
+      "size": "10611",
+      "md5": "eda81c425eb43b5da76f4c296fb2aa6b",
+      "crc32": "e94e8a18",
+      "sha1": "3cf218a630f9ba0c2113053ef798d93393abfbe1"
+    },
+    {
+      "name": "humanevents-2022-07-10T11:49:19.309109-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657468167",
+      "size": "17315",
+      "md5": "872da1bbdc2bb787f4755aeb23e74b3d",
+      "crc32": "f7594e88",
+      "sha1": "46a137b2395a8547565fdf5319e047d2e1154942",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-10T11:49:19.309109-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657468170",
+      "size": "25231",
+      "md5": "3d41aad4f4cf0e263662c57afcf62747",
+      "crc32": "78701898",
+      "sha1": "5620a72ee6bcb185c1806930f6d1f7cca4d54866",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-10T11:49:19.309109-04:00.jpg",
+      "source": "original",
+      "mtime": "1657468163",
+      "size": "255945",
+      "md5": "79e0c28dc7c3c749a4957a507548545b",
+      "crc32": "89c700bc",
+      "sha1": "bb9fa8a542f9b0f63a7742740ef46fcad76dfe98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-07-10T11:49:19.309109-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-07-10T11:49:19.309109-04:00.jpg",
+      "mtime": "1657468234",
+      "size": "10596",
+      "md5": "0ea942e34b5dc47be57bc108eeafc92e",
+      "crc32": "65db2075",
+      "sha1": "6be44023d17e13e11b16825b8bc03efaed719f9b"
+    },
+    {
+      "name": "humanevents-2022-07-10T22:08:17.184470-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657505302",
+      "size": "17658",
+      "md5": "ac40b79f0537c15f4d9ab1aaaf90b055",
+      "crc32": "97205188",
+      "sha1": "a9b5019333ee476967e06bebe28d13f4471defd4",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-10T22:08:17.184470-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657505305",
+      "size": "26511",
+      "md5": "d6dc7417569e35b81c2e574d473679b8",
+      "crc32": "0532d7ee",
+      "sha1": "20ef6186c1da20fafcb0db56c82fc2c94d844220",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-10T22:08:17.184470-04:00.jpg",
+      "source": "original",
+      "mtime": "1657505300",
+      "size": "262068",
+      "md5": "76cd34995be8d6de390036119e4fe71f",
+      "crc32": "0037c00a",
+      "sha1": "d7864c9e62053ab5cec6562ecfef963135a813f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-07-10T22:08:17.184470-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-07-10T22:08:17.184470-04:00.jpg",
+      "mtime": "1657505359",
+      "size": "10621",
+      "md5": "d77315209c343e4670941b29915f17a5",
+      "crc32": "8fd02b68",
+      "sha1": "c88fe72667c6a5a48985267c48fe8385740c8fcb"
+    },
+    {
+      "name": "humanevents-2022-07-11T11:33:40.008970-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657553624",
+      "size": "18089",
+      "md5": "f4b69ed48c2315fee2888975b3f258c9",
+      "crc32": "e64b328c",
+      "sha1": "4283a4b4d0aa176754aefad8ae6c833e3bca90a4",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-11T11:33:40.008970-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657553626",
+      "size": "26263",
+      "md5": "062b2042c4d7b3a236012853cb1a6600",
+      "crc32": "86ffb8e6",
+      "sha1": "6bca68a77162c47007f139e8960988ed33c91a58",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-11T11:33:40.008970-04:00.jpg",
+      "source": "original",
+      "mtime": "1657553621",
+      "size": "261818",
+      "md5": "c2f3351d9739fea4fdfe5ff1eeb17ae2",
+      "crc32": "66aa4cfc",
+      "sha1": "656aa7dfa8eef246e80136d30c0b631d8f9e429c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-07-11T11:33:40.008970-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-07-11T11:33:40.008970-04:00.jpg",
+      "mtime": "1657553939",
+      "size": "9953",
+      "md5": "8d680b501dc5c05946c8b5f51a570579",
+      "crc32": "6a04fe80",
+      "sha1": "a42e86467e58cd5e3ee7af6ba124a8ca63cccb8f"
+    },
+    {
+      "name": "humanevents-2022-07-11T14:34:03.160550-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657564447",
+      "size": "18013",
+      "md5": "b14a17cc5dc39494025c1b7a8300a8df",
+      "crc32": "6d1f4e9e",
+      "sha1": "97afe9c0b8303783626308d372199d9ec355858a",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-11T14:34:03.160550-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657564449",
+      "size": "25659",
+      "md5": "5422637d21938bd3e10755aff3398e14",
+      "crc32": "ef50e790",
+      "sha1": "58266c59ed53eb4cbff2ebb95bb1f02053bd56fc",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-11T14:34:03.160550-04:00.jpg",
+      "source": "original",
+      "mtime": "1657564445",
+      "size": "254474",
+      "md5": "599fdcc9564391f93807ea6c4e9a0d54",
+      "crc32": "5779d69d",
+      "sha1": "32eb68b459945c108b9d3918430b19a1cb4ac536",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-07-11T14:34:03.160550-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-07-11T14:34:03.160550-04:00.jpg",
+      "mtime": "1657564538",
+      "size": "9976",
+      "md5": "188321064b23018ff26784d53b37fb3d",
+      "crc32": "dfa97e26",
+      "sha1": "7b9c8b82bed664f56e1aa0b9dbbdd88b1b2bd58f"
+    },
+    {
+      "name": "humanevents-2022-07-11T22:09:23.537295-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657591766",
+      "size": "17672",
+      "md5": "97934ee8e74a2ab80d3740877f940cdf",
+      "crc32": "443f8418",
+      "sha1": "f08f140b483de14e4b2e6b7aca50b029f96b7876",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-11T22:09:23.537295-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657591768",
+      "size": "24355",
+      "md5": "9a95a4717c5fe3e60e0c6ab258e42c11",
+      "crc32": "de5bb6f2",
+      "sha1": "8540b665bfbb2f4f29cfec5b620219d8e5c4e392",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-11T22:09:23.537295-04:00.jpg",
+      "source": "original",
+      "mtime": "1657591765",
+      "size": "247375",
+      "md5": "138de2242aae5f654c2f5200904039af",
+      "crc32": "05c1db27",
+      "sha1": "5e57d19a5fe38e70497219149df5f10acfb6619f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-07-11T22:09:23.537295-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-07-11T22:09:23.537295-04:00.jpg",
+      "mtime": "1657591850",
+      "size": "9783",
+      "md5": "12c8bd612e4e9516cf39663b36d39e59",
+      "crc32": "a0caec16",
+      "sha1": "27607130548043ab95322947ade844feab795362"
+    },
+    {
       "name": "humanevents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1038c2d71cf19aa5e710cba953e9731c58abac0",
-      "mtime": "1657418927",
-      "size": "138373",
-      "md5": "ea75e359a77c7817bebf4de868064080",
-      "crc32": "ef15f25a",
-      "sha1": "487caf2edff2b7e6c8c30e6738c1b86f2ba6ffd5",
+      "btih": "10e54059b02d8628583e8b047040d940a97d6a65",
+      "mtime": "1657591885",
+      "size": "143502",
+      "md5": "6ce82063ad051ac403d92de5fe6b16ae",
+      "crc32": "5ebd1d3b",
+      "sha1": "48aa2444b06b31adc873f97eb64f2fa001112c97",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humanevents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f7039ecd9004fa0086af1438de0a6cd",
+      "md5": "5c3f89599ffde1e2363156c46a725316",
       "summation": "md5"
     },
     {
       "name": "humanevents-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657418859",
-      "size": "753664",
-      "md5": "aeda65abb1f6a06da76efd8fab034e03",
-      "crc32": "a8ee1db5",
-      "sha1": "34523138cc313d6141aa54e48544fb46df05054c",
+      "mtime": "1657591772",
+      "size": "778240",
+      "md5": "3e5f8e6f856ef97351c53e3687020dc9",
+      "crc32": "68a113de",
+      "sha1": "167725469f3bf9a2beae6ce51f6a19a039b71d2d",
       "format": "Metadata"
     },
     {
@@ -6778,7 +7030,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 645,
+  "files_count": 669,
   "humanevents-2022": [
     {
       "text": "Facebook",
@@ -6850,39 +7102,67 @@
     },
     {
       "text": "",
-      "url": "https://humanevents.com/2022/07/06/libs-of-tiktok-i-exposed-the-progressive-left-with-their-own-words-and-actions-and-theyre-furious/"
+      "url": "https://humanevents.com/2022/07/11/greene-how-to-stop-mass-shootings/"
     },
     {
       "text": "OPINION",
       "url": "/category/opinion"
     },
     {
-      "text": "By Chaya Raichik",
-      "url": "/author/chayaraichik"
+      "text": "By Rep. Marjorie Taylor Greene",
+      "url": "/author/marjorietaylorgreene"
     },
     {
       "text": "",
-      "url": "https://humanevents.com/2022/07/06/libs-of-tiktok-i-exposed-the-progressive-left-with-their-own-words-and-actions-and-theyre-furious/"
+      "url": "https://humanevents.com/2022/07/11/greene-how-to-stop-mass-shootings/"
     },
     {
       "text": "OPINION",
       "url": "/category/opinion"
     },
     {
-      "text": "By Chaya Raichik",
-      "url": "/author/chayaraichik"
+      "text": "By Rep. Marjorie Taylor Greene",
+      "url": "/author/marjorietaylorgreene"
     },
     {
       "text": "",
-      "url": "https://humanevents.com/2022/07/06/libs-of-tiktok-i-exposed-the-progressive-left-with-their-own-words-and-actions-and-theyre-furious/"
+      "url": "https://humanevents.com/2022/07/11/greene-how-to-stop-mass-shootings/"
     },
     {
       "text": "OPINION",
       "url": "/category/opinion"
     },
     {
-      "text": "By Chaya Raichik",
-      "url": "/author/chayaraichik"
+      "text": "By Rep. Marjorie Taylor Greene",
+      "url": "/author/marjorietaylorgreene"
+    },
+    {
+      "text": "Agriculture ",
+      "url": "/trending/agriculture"
+    },
+    {
+      "text": "bill gates ",
+      "url": "/trending/bill-gates"
+    },
+    {
+      "text": "China ",
+      "url": "/trending/china"
+    },
+    {
+      "text": "North Dakota ",
+      "url": "/trending/north-dakota"
+    },
+    {
+      "text": "Mass shootings ",
+      "url": "/trending/mass-shootings"
+    },
+    {
+      "text": "Red Flag laws ",
+      "url": "/trending/red-flag-laws"
+    },
+    {
+      "text": "SSRIs ",
+      "url": "/trending/ssris"
     },
     {
       "text": "Jack Posobiec ",
@@ -6891,30 +7171,6 @@
     {
       "text": "Unsocial Media Monitor ",
       "url": "/trending/unsocial-media-monitor"
-    },
-    {
-      "text": "Children ",
-      "url": "/trending/children"
-    },
-    {
-      "text": "K-12 education ",
-      "url": "/trending/k-12-education"
-    },
-    {
-      "text": "COVID-19 ",
-      "url": "/trending/covid-19"
-    },
-    {
-      "text": "Education ",
-      "url": "/trending/education"
-    },
-    {
-      "text": "Teachers ",
-      "url": "/trending/teachers"
-    },
-    {
-      "text": "Red Flag laws ",
-      "url": "/trending/red-flag-laws"
     },
     {
       "text": " ",
@@ -6926,6 +7182,46 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/the-trans-industrial-complex/"
+    },
+    {
+      "text": "OPINION",
+      "url": "/category/opinion"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tThe Trans-Industrial Complex\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/07/11/the-trans-industrial-complex/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOn January 17, 1961, Dwight Eisenhower ended his presidential term with a warning to the American people: Beware of the Military-Industrial Complex (MIC). The\u00a0corrupting influence of the alliance...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJohn Mac Ghlionn \n\t\t\t\t\t\t\t    July 11, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/07/11/the-trans-industrial-complex/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/song-the-true-target-of-red-flag-laws/"
+    },
+    {
+      "text": "OPINION",
+      "url": "/category/opinion"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tSONG: The True Target of Red Flag Laws\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tFor quite some time, Americans have flirted with the idea of \u201cRed Flag Laws\u201d to address the issue of firearm violence. But, while many argue the potential societal benefits of such laws, it is...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJulia Song \n\t\t\t\t\t\t\t    July 11, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/07/11/song-the-true-target-of-red-flag-laws/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/the-cultural-contradictions-of-progressivism-personal-pronouns-vs-latinx/"
+    },
+    {
+      "text": "OPINION",
+      "url": "/category/opinion"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tThe Cultural Contradictions of Progressivism: Personal Pronouns vs. \u201cLatinx\u201d\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tThe following is the second in an intermittent series exploring the cultural contradictions of...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHon. Thaddeus G. McCotter \n\t\t\t\t\t\t\t    July 11, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/07/11/the-cultural-contradictions-of-progressivism-personal-pronouns-vs-latinx/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
       "url": "https://humanevents.com/2022/07/08/the-lefts-obsession-with-conspiracy-theories/"
     },
     {
@@ -6933,48 +7229,8 @@
       "url": "/category/opinion"
     },
     {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tThe Left\u2019s Obsession with 'Conspiracy Theories'\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\n\t\t",
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tThe Left\u2019s Obsession with 'Conspiracy Theories'\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOne of the single most bizarre products of the modern-day left is its insatiable appetite for...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tChris Barron \n\t\t\t\t\t\t\t    July 8, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
       "url": "https://humanevents.com/2022/07/08/the-lefts-obsession-with-conspiracy-theories/"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOne of the single most bizarre products of the modern-day left is its insatiable appetite for conspiracy theories. They flatly refuse to debate policy anymore, choosing instead to baselessly accuse...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tChris Barron \n\t\t\t\t\t\t\t    July 8, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/07/08/the-lefts-obsession-with-conspiracy-theories/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/allow-internet-journalism-to-bury-the-mainstream-press-but-not-freedom-of-speech/"
-    },
-    {
-      "text": "OPINION",
-      "url": "/category/opinion"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tAllow Internet Journalism to Bury The\u00a0Mainstream Press\u2013But Not Freedom of Speech\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tThe internet is now king when it comes to getting reliable news, hard and fast. I believe it is a good thing that the traditional (and somewhat stale) mainstream press is being left behind because of...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tFiona Dodwell \n\t\t\t\t\t\t\t    July 8, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/07/08/allow-internet-journalism-to-bury-the-mainstream-press-but-not-freedom-of-speech/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/pop-culture-warriors-david-mamets-recessional/"
-    },
-    {
-      "text": "COMMENTARY",
-      "url": "/category/commentary"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPop Culture Warriors: David Mamet's Recessional\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tPop Culture Warriors with Lisa De Pasquale is an interview column dedicated to the significant work...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tLisa De Pasquale \n\t\t\t\t\t\t\t    July 8, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/07/08/pop-culture-warriors-david-mamets-recessional/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/the-uk-needs-a-childrens-charter-to-protect-our-young-people-from-the-dangers-of-woke-classrooms/"
-    },
-    {
-      "text": "OPINION",
-      "url": "/category/opinion"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tThe UK Needs a Children\u2019s Charter to Protect Our Young People From the Dangers of \u2018Woke\u2019\u00a0Classrooms\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOur education system has always been built on trust. An understanding between schools and parents...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tLaurence Fox \n\t\t\t\t\t\t\t    July 8, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/07/08/the-uk-needs-a-childrens-charter-to-protect-our-young-people-from-the-dangers-of-woke-classrooms/"
     },
     {
       "text": "View All",
@@ -6985,32 +7241,24 @@
       "url": "/news/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Brent Hamachek Explains Success of Innovative New Campus Discourse Format\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/watch-brent-hamachek-explains-success-of-innovative-new-campus-discourse-format/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSONG: The True Target of Red Flag Laws\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/song-the-true-target-of-red-flag-laws/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tThe UK Needs a Children\u2019s Charter to Protect Our Young People From the Dangers of \u2018Woke\u2019\u00a0Classrooms\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/the-uk-needs-a-childrens-charter-to-protect-our-young-people-from-the-dangers-of-woke-classrooms/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKIRK: Why Is North Dakota Selling Itself to Bill Gates?\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/kirk-why-is-north-dakota-selling-itself-to-bill-gates/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tUnsocial Media Monitor: Morton's Dares to Defend Kavanaugh's 'Right to Congregate' at the Steakhouse\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/unsocial-media-monitor-mortons-dares-to-defend-kavanaughs-right-to-congregate-at-the-steakhouse/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tThe Cultural Contradictions of Progressivism: Personal Pronouns vs. \u201cLatinx\u201d\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/the-cultural-contradictions-of-progressivism-personal-pronouns-vs-latinx/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Uvalde School Police Chief 'Should Be Behind Bars'\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/posobiec-uvalde-school-police-chief-should-be-behind-bars/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tThe Trans-Industrial Complex\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/the-trans-industrial-complex/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tThe Left\u2019s Obsession with 'Conspiracy Theories'\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/the-lefts-obsession-with-conspiracy-theories/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAllow Internet Journalism to Bury The\u00a0Mainstream Press\u2013But Not Freedom of Speech\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/allow-internet-journalism-to-bury-the-mainstream-press-but-not-freedom-of-speech/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPop Culture Warriors: David Mamet's Recessional\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/pop-culture-warriors-david-mamets-recessional/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMTG: How To Stop Mass Shootings\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/greene-how-to-stop-mass-shootings/"
     },
     {
       "text": "\n\t\t\t\t    \n\t\t\t\t      \n\n\n\n\n\t\t\t\t    \n\t\t\t\t  \n\t\t\t\t     Jeff Webb\n\t\t\t\t    Publisher\n\t\t\t\t  \n\t\t\t\t  \n\t\t\t\t",
@@ -7039,6 +7287,18 @@
     {
       "text": "View All",
       "url": "/news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/kirk-why-is-north-dakota-selling-itself-to-bill-gates/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tKIRK: Why Is North Dakota Selling Itself to Bill Gates?\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOn his Friday podcast, Charlie Kirk asked \"What the heck is...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJoshua Young \n\t\t\t\t\t\t\t    July 11, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/07/11/kirk-why-is-north-dakota-selling-itself-to-bill-gates/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
@@ -7077,6 +7337,38 @@
       "url": "https://humanevents.com/2022/07/08/watch-brent-hamachek-explains-success-of-innovative-new-campus-discourse-format/"
     },
     {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSONG: The True Target of Red Flag Laws\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/song-the-true-target-of-red-flag-laws/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKIRK: Why Is North Dakota Selling Itself to Bill Gates?\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/kirk-why-is-north-dakota-selling-itself-to-bill-gates/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tThe Cultural Contradictions of Progressivism: Personal Pronouns vs. \u201cLatinx\u201d\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/the-cultural-contradictions-of-progressivism-personal-pronouns-vs-latinx/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tThe Trans-Industrial Complex\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/the-trans-industrial-complex/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMTG: How To Stop Mass Shootings\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/11/greene-how-to-stop-mass-shootings/"
+    },
+    {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
       "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
       "url": "https://humanevents.com/2022/07/07/listen-posobiec-decries-not-my-job-energy-of-american-healthcare-authorities-following-highland-park-shooting/"
     },
@@ -7085,48 +7377,8 @@
       "url": "/category/news-analysis"
     },
     {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPosobiec Decries \u2018Not My Job Energy\u2019 of American Healthcare, Authorities Following Highland Park Shooting\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOn the latest episode of \"Human Events Daily,\" host Jack...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJarryd Jaeger \n\t\t\t\t\t\t\t    July 7, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPosobiec Decries \u2018Not My Job Energy\u2019 of American Healthcare, Authorities Following Highland Park Shooting\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOn the latest episode of \"Human Events Daily,\" host Jack Posobiec discussed the red flags exhibited by...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJarryd Jaeger \n\t\t\t\t\t\t\t    July 7, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
       "url": "https://humanevents.com/2022/07/07/listen-posobiec-decries-not-my-job-energy-of-american-healthcare-authorities-following-highland-park-shooting/"
-    },
-    {
-      "text": "View All",
-      "url": "/news/"
-    },
-    {
-      "text": "View All",
-      "url": "/news/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Brent Hamachek Explains Success of Innovative New Campus Discourse Format\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/watch-brent-hamachek-explains-success-of-innovative-new-campus-discourse-format/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tThe UK Needs a Children\u2019s Charter to Protect Our Young People From the Dangers of \u2018Woke\u2019\u00a0Classrooms\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/the-uk-needs-a-childrens-charter-to-protect-our-young-people-from-the-dangers-of-woke-classrooms/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tUnsocial Media Monitor: Morton's Dares to Defend Kavanaugh's 'Right to Congregate' at the Steakhouse\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/unsocial-media-monitor-mortons-dares-to-defend-kavanaughs-right-to-congregate-at-the-steakhouse/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Uvalde School Police Chief 'Should Be Behind Bars'\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/posobiec-uvalde-school-police-chief-should-be-behind-bars/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tThe Left\u2019s Obsession with 'Conspiracy Theories'\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/the-lefts-obsession-with-conspiracy-theories/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAllow Internet Journalism to Bury The\u00a0Mainstream Press\u2013But Not Freedom of Speech\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/allow-internet-journalism-to-bury-the-mainstream-press-but-not-freedom-of-speech/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPop Culture Warriors: David Mamet's Recessional\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/08/pop-culture-warriors-david-mamets-recessional/"
-    },
-    {
-      "text": "View All",
-      "url": "/news/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
@@ -7261,18 +7513,6 @@
       "url": "https://humanevents.com/2022/06/27/scientists-call-on-federal-court-to-follow-the-science-on-climate-regulation/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/06/27/watch-charlie-kirk-calls-out-trans-marxist-activist-for-defending-chinas-concentration-camps/"
-    },
-    {
-      "text": "NEWS & ANALYSIS",
-      "url": "/category/news-analysis"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Charlie Kirk Calls Out Trans Marxist Activist for Defending China's Concentration Camps\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tTurning Point USA founder Charlie Kirk debated Marxist and Young Turks contributor Ben Carollo in a June 23...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tJoshua Young \n\t\t\t\t\t\t\t    June 27, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/06/27/watch-charlie-kirk-calls-out-trans-marxist-activist-for-defending-chinas-concentration-camps/"
-    },
-    {
       "text": "View All",
       "url": "/news/"
     },
@@ -7321,8 +7561,8 @@
       "url": "https://statcounter.com/"
     }
   ],
-  "item_last_updated": 1657418927,
-  "item_size": 55175976,
+  "item_last_updated": 1657591885,
+  "item_size": 57072899,
   "metadata": {
     "identifier": "humanevents-2022",
     "collection": [
@@ -7340,9 +7580,9 @@
     "addeddate": "2022-03-25 18:47:01"
   },
   "server": "ia601806.us.archive.org",
-  "uniq": 886575088,
+  "servers_unavailable": true,
+  "uniq": 1543946963,
   "workable_servers": [
-    "ia601806.us.archive.org",
-    "ia801806.us.archive.org"
+    "ia601806.us.archive.org"
   ]
 }

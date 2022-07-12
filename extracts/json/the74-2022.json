@@ -1,5 +1,5 @@
 {
-  "created": 1657451587,
+  "created": 1657628632,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/the74-2022",
@@ -142,31 +142,177 @@
       "sha1": "f258c584b56b3b8dcaae610fccd684b148373086"
     },
     {
+      "name": "the74-2022-07-10T11:44:51.353509-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657467895",
+      "size": "30685",
+      "md5": "e656fb5ae4e25add6f7c900cd073b763",
+      "crc32": "32a0bafb",
+      "sha1": "a8a3bcb06d53b3541311d4f9e87f14f5b3ee8e90",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-10T11:44:51.353509-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657467897",
+      "size": "68924",
+      "md5": "61cf43a9f2998fecb65c14e24048eb51",
+      "crc32": "ac1902d6",
+      "sha1": "e2e9731a2a5b09e6d7a0e94367984358c94075d4",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-10T11:44:51.353509-04:00.jpg",
+      "source": "original",
+      "mtime": "1657467893",
+      "size": "264483",
+      "md5": "32df01c154de28ddb0f2144f93a3766f",
+      "crc32": "162231d0",
+      "sha1": "ee651a5a07ff04a7d0b6d55809907f426aeb61d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the74-2022-07-10T11:44:51.353509-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the74-2022-07-10T11:44:51.353509-04:00.jpg",
+      "mtime": "1657467942",
+      "size": "9749",
+      "md5": "eade6bfb6e3dac7b16e27753e60a2422",
+      "crc32": "ad3fe9a2",
+      "sha1": "aae3280d3afb06aa88440c2719ccef96afc5bc3b"
+    },
+    {
+      "name": "the74-2022-07-11T00:08:46.701112-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657512529",
+      "size": "30647",
+      "md5": "ddd86cf7328cc32777993ef411742350",
+      "crc32": "c939ebf2",
+      "sha1": "3a50342f2f6404e2cd3d19460cc8070b8d465385",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-11T00:08:46.701112-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657512530",
+      "size": "69103",
+      "md5": "092ea0ebeb18e3febb3539bf92565c19",
+      "crc32": "2691c441",
+      "sha1": "b50e38ed80f0e404b6d63efca5cc8c341a5554c7",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-11T00:08:46.701112-04:00.jpg",
+      "source": "original",
+      "mtime": "1657512527",
+      "size": "246118",
+      "md5": "ff8271c305a6a70d72d95e706f183ae7",
+      "crc32": "598d5c8b",
+      "sha1": "8123a0cf4a53affd8f21f6fd45f94a58d75ea6ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the74-2022-07-11T00:08:46.701112-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the74-2022-07-11T00:08:46.701112-04:00.jpg",
+      "mtime": "1657512734",
+      "size": "9250",
+      "md5": "8e31326eac74dd1d9d004a91094a353e",
+      "crc32": "e700a33f",
+      "sha1": "e18678afb25cade052e7f0fff1f8e940d166f130"
+    },
+    {
+      "name": "the74-2022-07-11T14:46:53.510855-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657565216",
+      "size": "30771",
+      "md5": "7560265ad363d8bf5ae9533312c7519c",
+      "crc32": "686facd1",
+      "sha1": "fbe0b369026261142a5c5a1d5071b175ace9debb",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-11T14:46:53.510855-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657565218",
+      "size": "69299",
+      "md5": "439240380d18c42ab118e8c3cfc40a91",
+      "crc32": "ca949925",
+      "sha1": "2d05835b72c6f9cd23dce60fc5fddccc23ae8522",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-11T14:46:53.510855-04:00.jpg",
+      "source": "original",
+      "mtime": "1657565215",
+      "size": "245369",
+      "md5": "90f3b864a78e4c83f94e0b805f3f43bc",
+      "crc32": "336a6cd6",
+      "sha1": "5640de6f62c7a4b46fc5c90d01ed4ee89c41080f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the74-2022-07-11T14:46:53.510855-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the74-2022-07-11T14:46:53.510855-04:00.jpg",
+      "mtime": "1657565260",
+      "size": "9240",
+      "md5": "65b37572eb9dd48b833cd027782bebfd",
+      "crc32": "c72a25e1",
+      "sha1": "35a6b9ff29689f3f1984bd6ec4ceced22924eba3"
+    },
+    {
+      "name": "the74-2022-07-12T00:35:14.522322-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657600520",
+      "size": "30772",
+      "md5": "e0cf206c5a7634f7dbc30e608b737337",
+      "crc32": "b67409ee",
+      "sha1": "a0f7a747c33988c9d728334b4bc7abc818dcdfce",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-12T00:35:14.522322-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657600522",
+      "size": "69644",
+      "md5": "9903cbff1ee5309fafa6c8fc9fec7cf2",
+      "crc32": "2141914e",
+      "sha1": "cca0677ba88b7f9859253b47e304eab32176e4e1",
+      "format": "JSON"
+    },
+    {
       "name": "the74-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7270223ec65b8dd163e63c19bf653a867201da54",
-      "mtime": "1657426144",
-      "size": "4090",
-      "md5": "be4baf304870e1a7bd8b79f8680f1e3e",
-      "crc32": "208bd56f",
-      "sha1": "fecef4407f04ee4c8cf4140de6e708322f2fb8a5",
+      "btih": "07646fc15e9479639b187589e530d5ee7de223a3",
+      "mtime": "1657600558",
+      "size": "7001",
+      "md5": "7373fc4f09c148f9e70dc9d2d81bbbce",
+      "crc32": "8b5d3898",
+      "sha1": "f6357f96ba6801d5289dd9fb32a4e6d950f7fdf1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the74-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2b14b5b927348c50707a2b78732dba82",
+      "md5": "bc580321238c101fb088af549b8bb5fc",
       "summation": "md5"
     },
     {
       "name": "the74-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657426101",
-      "size": "32768",
-      "md5": "f4915afc5d6b33bfb14696da828ce5a5",
-      "crc32": "ad7f42ff",
-      "sha1": "3a7914378ecdb78712594be8bd582b228060a392",
+      "mtime": "1657600525",
+      "size": "49152",
+      "md5": "29c3071023a26ee743ddf2c3ab8993d8",
+      "crc32": "a8fff551",
+      "sha1": "fe0a80ffdf71d107ca940538fa37aeeab529a60a",
       "format": "Metadata"
     },
     {
@@ -180,9 +326,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 17,
-  "item_last_updated": 1657426144,
-  "item_size": 1168969,
+  "files_count": 31,
+  "item_last_updated": 1657600558,
+  "item_size": 2372318,
   "metadata": {
     "identifier": "the74-2022",
     "collection": [
@@ -199,10 +345,904 @@
     "publicdate": "2022-07-09 04:04:26",
     "addeddate": "2022-07-09 04:04:26"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 856409335,
+  "server": "ia601506.us.archive.org",
+  "the74-2022": [
+    {
+      "text": "The 74",
+      "url": "https://www.the74million.org/"
+    },
+    {
+      "text": "America's Education News Source",
+      "url": "/about"
+    },
+    {
+      "text": "About The 74",
+      "url": "/about"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/the74"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/theseventyfour"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCj9hwWOOkOpoBNFwUijQ4ZQ"
+    },
+    {
+      "text": "Donate",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=the74&campaign=7018W000000G6QvQAK"
+    },
+    {
+      "text": "News",
+      "url": "https://www.the74million.org/news/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.the74million.org/opinion/"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.the74million.org/"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.the74million.org/video/"
+    },
+    {
+      "text": "Analysis",
+      "url": "https://www.the74million.org/analysis/"
+    },
+    {
+      "text": "Donate",
+      "url": "about/membership"
+    },
+    {
+      "text": "News",
+      "url": "https://www.the74million.org/news/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.the74million.org/opinion/"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.the74million.org/video/"
+    },
+    {
+      "text": "Analysis",
+      "url": "https://www.the74million.org/analysis/"
+    },
+    {
+      "text": "Pandemic",
+      "url": "https://www.the74million.org/series/pandemic/"
+    },
+    {
+      "text": "The Big Picture",
+      "url": "https://www.the74million.org/series/education-data-big-picture/"
+    },
+    {
+      "text": "The 74 Interview",
+      "url": "https://www.the74million.org/series/the-74-interview/"
+    },
+    {
+      "text": "Weaving a Stronger Society",
+      "url": "https://www.the74million.org/series/educator-weavers/"
+    },
+    {
+      "text": "Union Report",
+      "url": "https://www.the74million.org/series/union-report/"
+    },
+    {
+      "text": "4Fams",
+      "url": "https://www.the74million.org/4fams/"
+    },
+    {
+      "text": "Keeping It 100",
+      "url": "https://www.the74million.org/keepingit100/"
+    },
+    {
+      "text": "Research",
+      "url": "https://www.the74million.org/series/education-data-big-picture/"
+    },
+    {
+      "text": "critical race theory",
+      "url": "https://www.the74million.org/tag/critical-race-theory/"
+    },
+    {
+      "text": "Investigation",
+      "url": "https://www.the74million.org/tag/investigation/"
+    },
+    {
+      "text": "Surveillance",
+      "url": "https://www.the74million.org/tag/surveillance/"
+    },
+    {
+      "text": "teacher voice",
+      "url": "https://www.the74million.org/tag/teacher-voice/"
+    },
+    {
+      "text": "ed tech",
+      "url": "https://www.the74million.org/tag/ed-tech/"
+    },
+    {
+      "text": "learning loss",
+      "url": "https://www.the74million.org/tag/learning-loss/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.the74million.org/tag/politics/"
+    },
+    {
+      "text": "New York City",
+      "url": "https://www.the74million.org/tag/new-york-city/"
+    },
+    {
+      "text": "Texas",
+      "url": "https://www.the74million.org/tag/texas/"
+    },
+    {
+      "text": "Solutions",
+      "url": "https://www.the74million.org/tag/solutions/"
+    },
+    {
+      "text": "Los Angeles",
+      "url": "https://www.the74million.org/tag/los-angeles/"
+    },
+    {
+      "text": "Youth mental health",
+      "url": "https://www.the74million.org/tag/mental-health/"
+    },
+    {
+      "text": "COVID Recovery",
+      "url": "https://www.the74million.org/tag/innovation-recovery/"
+    },
+    {
+      "text": "STEM",
+      "url": "https://www.the74million.org/tag/stem/"
+    },
+    {
+      "text": "Pandemic",
+      "url": "https://www.the74million.org/series/pandemic/"
+    },
+    {
+      "text": "Class Disrupted",
+      "url": "/class-disrupted-podcast/"
+    },
+    {
+      "text": "LA School Report",
+      "url": "https://www.laschoolreport.com"
+    },
+    {
+      "text": "COVID Warriors",
+      "url": "https://www.the74million.org/series/covid-warriors/"
+    },
+    {
+      "text": "Brown v. Board",
+      "url": "https://brown65.the74million.org/"
+    },
+    {
+      "text": "B.A. Breakthrough",
+      "url": "https://breakthrough.the74million.org/"
+    },
+    {
+      "text": "View All >",
+      "url": "/enterprise"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.the74million.org/about/"
+    },
+    {
+      "text": "Team",
+      "url": "https://www.the74million.org/about/team/"
+    },
+    {
+      "text": "Supporters",
+      "url": "https://www.the74million.org/about/supporters/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.the74million.org/about/job-openings/"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.the74million.org/about/contact/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.the74million.org/about/newsletters/"
+    },
+    {
+      "text": "Donate to The 74",
+      "url": "https://www.the74million.org/about/membership/"
+    },
+    {
+      "text": "Code of Ethics",
+      "url": "https://www.the74million.org/code-of-ethics/"
+    },
+    {
+      "text": "feedback@the74million.org",
+      "url": "mailto:feedback@the74million.org"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/the74"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/the_74/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/theseventyfour"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCj9hwWOOkOpoBNFwUijQ4ZQ"
+    },
+    {
+      "text": "Republish Our Content",
+      "url": "/republish"
+    },
+    {
+      "text": "The 74",
+      "url": "/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=the74&campaign=7018W000000G5mHQAS"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "Terms & Conditions",
+      "url": "/terms-conditions"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "https://www.the74million.org/tag/supreme-court/"
+    },
+    {
+      "text": "learning loss",
+      "url": "https://www.the74million.org/tag/learning-loss/"
+    },
+    {
+      "text": "Uvalde Shooting",
+      "url": "https://www.the74million.org/tag/uvalde/"
+    },
+    {
+      "text": "edlection 2022",
+      "url": "https://www.the74million.org/tag/edlection-2022/"
+    },
+    {
+      "text": "Pandemic",
+      "url": "https://www.the74million.org/series/pandemic/"
+    },
+    {
+      "text": "mental health",
+      "url": "https://www.the74million.org/tag/mental-health/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Research\n                    \n\n                                    \n                        ELL\n                    \n                                                    \n                        Pandemic\n                    \n                \n                After a Decade of Gains, Latino Students Suffer Outsized Losses Amid Pandemic\n                Remote learning tougher for these children, who are more likely to attend an underfunded school, cope with a language barrier, have limited internet\n\n                \n                                            Jo Napolitano\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/after-a-decade-of-gains-latino-students-suffer-outsized-losses-amid-pandemic/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Reading Loss\n                    \n\n                                    \n                        decoding\n                    \n                                \n                Teaching Kids to Read \u2014 Not Guess. Free Summer Program Launches to Help Parents\n                Georgetown\u2019s Chad Aldeman explains why he created Read Not Guess after seeing his 8-year-old son\u2019s bad reading habit\n\n                \n                                            Chad Aldeman\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/education-researcher-creates-free-summer-reading-program-for-parents/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        4Fams\n                    \n\n                                    \n                        4Fams\n                    \n                                \n                Adams: Public Funds for Religious Schools? It\u2019s Been Happening in NYC for Years\n                Progressives oppose school vouchers \u2014 except when using public money to fund religious schools is the only way to get pet projects off the ground\n\n                \n                                            Alina Adams\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/adams-public-funds-for-religious-schools-its-been-happening-in-nyc-for-years/"
+    },
+    {
+      "text": "\n                                            \n                                                Pandemic                                            \n                                            Greene: For Students to Get Back to Normal, They Need Support, Not Punishment\n                                        ",
+      "url": "https://www.the74million.org/article/greene-for-students-to-get-back-to-normal-they-need-support-not-punishment/"
+    },
+    {
+      "text": "\n                                            \n                                                New Jersey                                            \n                                            NJ Lawmakers Want to Revamp 40-Year-Old Graduation Exam Rule for HS Juniors\n                                        ",
+      "url": "https://www.the74million.org/article/bills-aim-to-revamp-testing-requirement-for-high-school-juniors/"
+    },
+    {
+      "text": "\n                                            \n                                                Alaska                                            \n                                            Universal Free School Meal Program Going Away for About Half of Alaska\u2019s Schools\n                                        ",
+      "url": "https://www.the74million.org/article/universal-free-school-meal-program-going-away-for-about-half-of-alaskas-schools/"
+    },
+    {
+      "text": "\n                                            \n                                                school shooting                                            \n                                            Tips for Parents on Talking to Kids About School Shootings\n                                        ",
+      "url": "https://www.the74million.org/article/parents-must-be-prepared-to-talk-to-their-kids-about-school-shootings-here-are-tips-on-how/"
+    },
+    {
+      "text": "\n                                            \n                                                School Boards                                            \n                                            Study: When School Board Members Are Elected, Their Property Values Go Up\n                                        ",
+      "url": "https://www.the74million.org/article/school-board-candidates-property-value-rise/"
+    },
+    {
+      "text": "\n                                            \n                                                Oregon                                            \n                                            Youth Mental Health Crisis: State Opens Free Online Training for Teachers, Parents\n                                        ",
+      "url": "https://www.the74million.org/article/state-education-department-launches-online-mental-health-care-training/"
+    },
+    {
+      "text": "\n                                            \n                                                Pandemic                                            \n                                            How Blue States & Red States Use COVID Relief Funds Differently to Aid Schools\n                                        ",
+      "url": "https://www.the74million.org/article/covid-school-aid-spending-trends-in-red-blue-states/"
+    },
+    {
+      "text": "\n                                            \n                                                Research                                            \n                                            Education Dept\u2019s R&D Arm Faces a Dire Budget Shortfall \u2014 Just as We Need It Most\n                                        ",
+      "url": "https://www.the74million.org/article/budget-cut-to-education-departments-rd-arm-just-when-we-need-it-most/"
+    },
+    {
+      "text": "\n                                            \n                                                New Hampshire                                            \n                                            NH Seeks to Use Covid Relief Funds for School Security Upgrades\n                                        ",
+      "url": "https://www.the74million.org/article/state-requests-use-of-covid-relief-funds-to-pay-for-public-and-private-school-security-upgrades/"
+    },
+    {
+      "text": "\n                                            \n                                                Pandemic Policy                                            \n                                            Study: Masking in School Had Little or No Effect on Student COVID Cases\n                                        ",
+      "url": "https://www.the74million.org/article/study-masking-in-school-had-little-or-no-effect-on-student-covid-cases/"
+    },
+    {
+      "text": "\n                                            \n                                                Michigan                                            \n                                            Short on Teachers, Michigan Schools Try to Grow Their Own\n                                        ",
+      "url": "https://www.the74million.org/article/short-on-teachers-michigan-schools-try-to-grow-their-own/"
+    },
+    {
+      "text": "\n                                            \n                                                Texas                                            \n                                            Texas STAAR Results Improve in Math and Reading After Pandemic Dips\n                                        ",
+      "url": "https://www.the74million.org/article/texas-staar-results-improve-in-math-and-reading-after-pandemic-dips/"
+    },
+    {
+      "text": "\n                                            \n                                                New Research                                            \n                                            New Study: Black, Special Ed Students Punished at Greater Rate Through Pandemic\n                                        ",
+      "url": "https://www.the74million.org/article/new-study-black-special-needs-kids-punished-at-greater-rate-through-pandemic/"
+    },
+    {
+      "text": "\n                                            \n                                                SCOTUS                                            \n                                            SCOTUS\u2019s Carson Ruling Isn\u2019t \u2018Seismic\u2019 Event for Schools \u2014 But What Comes Next Might Be\n                                        ",
+      "url": "https://www.the74million.org/article/the-scotus-carson-ruling-isnt-seismic-event-for-schools-but-what-comes-next-might-be/"
+    },
+    {
+      "text": "\n                                            \n                                                Commentary                                            \n                                            Educator\u2019s View: How My School\u2019s Care Corps Helps Our Students and Community\n                                        ",
+      "url": "https://www.the74million.org/article/educators-view-how-my-schools-care-corps-helps-our-students-and-community/"
+    },
+    {
+      "text": "\n                                            \n                                                Arizona                                            \n                                            Opinion\u2014In Arizona\u2019s Historic ESA Expansion, a Blueprint for Educational Freedom\n                                        ",
+      "url": "https://www.the74million.org/article/opinion-in-arizonas-historic-esa-expansion-a-blueprint-for-educational-freedom/"
+    },
+    {
+      "text": "\n                                            \n                                                COVID Slide                                            \n                                            COVID & College: Indiana Enrollment Declines, as Only 53% of HS Grads Continue\n                                        ",
+      "url": "https://www.the74million.org/article/covid-college-indiana-enrollment-declines-as-only-53-of-hs-grads-continue/"
+    },
+    {
+      "text": "\n                                            \n                                                Charter Schools                                            \n                                            After Overhauling Program, Ed Dept. Opens One-Month Dash for Charter Funds\n                                        ",
+      "url": "https://www.the74million.org/article/after-overhauling-program-ed-dept-opens-one-month-dash-for-charter-funds/"
+    },
+    {
+      "text": "\n                                            \n                                                Union Report                                            \n                                            Analysis: The NEA Representative Assembly Is Winding Down. Here\u2019s What It Means\n                                        ",
+      "url": "https://www.the74million.org/article/analysis-the-nea-representative-assembly-is-winding-down-heres-what-it-means/"
+    },
+    {
+      "text": "\n                                            \n                                                74\u2019s Student Council                                            \n                                            Mental Health, Teacher Shortages, Uvalde: Students Talk 2022\u2019s Key School Issues\n                                        ",
+      "url": "https://www.the74million.org/article/staff-shortages-shootings-crt-how-2022s-key-school-issues-affected-students/"
+    },
+    {
+      "text": "\n                                            \n                                                STEM                                            \n                                            How a Teacher Joined a Movement to Keep Black Girls Involved in STEM\n                                        ",
+      "url": "https://www.the74million.org/article/how-a-teacher-joined-a-movement-to-keep-black-girls-involved-in-stem/"
+    },
+    {
+      "text": "\n                                            \n                                                Idaho                                            \n                                            Analysis: As a Nervous Summer Begins, Schools Scramble to Fill Job Vacancies\n                                        ",
+      "url": "https://www.the74million.org/article/analysis-as-a-nervous-summer-begins-schools-scramble-to-fill-job-vacancies/"
+    },
+    {
+      "text": "\n                                            \n                                                Alaska                                            \n                                            The Alaska Reads Act: New Bill Aims to Boost Literacy For All Kids By 3rd Grade\n                                        ",
+      "url": "https://www.the74million.org/article/education-department-begins-early-stages-of-implementing-controversial-reading-intervention-bill/"
+    },
+    {
+      "text": "\n                                            \n                                                School Infrastructure                                            \n                                            Pennsylvania Schools Have Doubled Their Solar Power Use Since 2020\n                                        ",
+      "url": "https://www.the74million.org/article/pennsylvania-schools-have-doubled-their-solar-power-use-since-2020/"
+    },
+    {
+      "text": "\n                                            \n                                                Civics Education                                            \n                                            Teachers Have 2 Hours a Week to Teach Social Studies, Prepare Informed Citizens\n                                        ",
+      "url": "https://www.the74million.org/article/teachers-have-2-hours-a-week-to-teach-social-studies-prepare-informed-citizens/"
+    },
+    {
+      "text": "\n                                            \n                                                Virginia                                            \n                                            Youngkin Says Report on \u2018Honesty Gap\u2019 Points to Decline in Virginia Schools\n                                        ",
+      "url": "https://www.the74million.org/article/youngkin-says-report-on-honesty-gap-points-to-decline-in-virginia-schools/"
+    },
+    {
+      "text": "\n                                            \n                                                Albuquerque Indian School                                            \n                                            The Dark Legacy of the Indian Boarding School System All Americans Need to Know\n                                        ",
+      "url": "https://www.the74million.org/article/we-all-need-to-learn-more-about-boarding-schools-and-their-legacy/"
+    },
+    {
+      "text": "\n                                            \n                                                Pandemic                                            \n                                            Pandemic Babies Are Facing Speech & Social Development Delays. 5 Ways to Help\n                                        ",
+      "url": "https://www.the74million.org/article/5-tips-to-help-make-up-for-pandemic-babies-speech-social-developmental-delays/"
+    },
+    {
+      "text": "\n                                            \n                                                Desegregation                                            \n                                            US Schools Are Not Racially Integrated, Despite Decades of Effort\n                                        ",
+      "url": "https://www.the74million.org/article/us-schools-are-not-racially-integrated-despite-decades-of-effort/"
+    },
+    {
+      "text": "\n                                            \n                                                Michigan                                            \n                                            As Mental Health Crisis Rages, Michigan Schools Work to Boost Kids\u2019 Connection\n                                        ",
+      "url": "https://www.the74million.org/article/as-mental-health-crisis-rages-michigan-schools-work-to-boost-kids-connection/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        School Boards\n                    \n\n                                    \n                        education\n                    \n                                                    \n                        The Big Picture\n                    \n                \n                Study: When School Board Members Are Elected, Their Property Values Go Up\n                With the actions of school boards coming under increased scrutiny, a recently released paper offers a dark rationale for why some run to serve: Money\n\n                \n                                            Kevin Mahnken\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/school-board-candidates-property-value-rise/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        SCOTUS\n                    \n\n                                    \n                        carson v makin\n                    \n                                \n                SCOTUS\u2019s Carson Ruling Isn\u2019t \u2018Seismic\u2019 Event for Schools \u2014 But What Comes Next Might Be\n                McCluskey: Carson is consistent with SCOTUS precedent dating to 2002, when justices ruled public funds reaching religious schools was constitutional\n\n                \n                                            Neal McCluskey\n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/the-scotus-carson-ruling-isnt-seismic-event-for-schools-but-what-comes-next-might-be/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Research\n                    \n\n                                    \n                        education department\n                    \n                                \n                Education Dept\u2019s R&D Arm Faces a Dire Budget Shortfall \u2014 Just as We Need It Most\n                Kumar Garg: Deprioritizing funding for education R&D isn\u2019t just a missed opportunity for researchers but hinders America\u2019s growth and competitiveness\n\n                \n                                            Kumar Garg\n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/budget-cut-to-education-departments-rd-arm-just-when-we-need-it-most/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        74\u2019s Student Council\n                    \n\n                                    \n                        absenteeism\n                    \n                                \n                Mental Health, Teacher Shortages, Uvalde: Students Talk 2022\u2019s Key School Issues\n                Members of The 74\u2019s Student Council reflect on the impact of the year\u2019s biggest education storylines in their own school communities\n\n                \n                                            Asher Lehrer-Small\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/staff-shortages-shootings-crt-how-2022s-key-school-issues-affected-students/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Pandemic\n                    \n\n                                    \n                        covid\n                    \n                                                    \n                        Pandemic\n                    \n                \n                How Blue States & Red States Use COVID Relief Funds Differently to Aid Schools\n                \n\n                \n                                            Bella DiMarco & Phyllis W. Jordan\n                                                                            \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/covid-school-aid-spending-trends-in-red-blue-states/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Class of 2022\n                    \n\n                                    \n                        Class of 2022\n                    \n                                \n                \u2018They\u2019ve Been Through the Worst\u2019: Grads at NYC Ukrainian School Celebrate & Ache\n                War in their homeland and multiple pandemic school years affected the St. George Academy\u2019s 13 grads, creeping into a day meant for celebration\n\n                \n                                            Meghan Gallagher\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/theyve-been-through-the-worst-grads-at-nyc-ukrainian-school-celebrate-ache/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Infrastructure\n                    \n\n                                \n                How Schools & Communities Can Work Together for the Betterment of Both\n                Knight: The pandemic proved that schools are serving a multidimensional purpose across communities and generations\n\n                \n                                            Katy Knight\n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/how-schools-communities-can-work-together-for-the-betterment-of-both/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Commentary\n                    \n\n                                    \n                        collective action\n                    \n                                \n                In Yet Another March For Our Lives, Fresh Despair, But Defiant Hope in Democracy\n                Conor Williams: Activists\u2019 continued insistence on gun violence solutions in the face of past failures points the way to saving our self-governance\n\n                \n                                            Conor Williams\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/in-yet-another-march-for-our-lives-fresh-despair-but-defiant-hope-in-democracy%ef%bf%bc/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Weaving a Stronger Society\n                    \n\n                                    \n                        afterschool programs\n                    \n                                                    \n                        Weaving a Stronger Society \u2014 Starting in Our Schools\n                    \n                \n                Living and Learning Among Refugees in the \u2018Ellis Island of the South\u2019\n                For Atlanta-area students who have fled war and oppression, Allie Reeser does more than help them learn. She\u2019s a translator, parent guide and neighbor\n\n                \n                                            Linda Jacobson\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/refugee-students-educator-neighbor-living-and-learning/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        School Discipline\n                    \n\n                                    \n                        Betsy DeVos\n                    \n                                \n                In a Year of \u2018Abysmal\u2019 Student Behavior, Ed Dept. Seeks Discipline Overhaul\n                For the third time in 8 years, the department is trying to retool its guidance, but the pandemic offers a troubling new context\n\n                \n                                            Linda Jacobson\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/in-a-year-of-abysmal-student-behavior-ed-dept-seeks-discipline-overhaul/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    Spotlight\n                                    \n                        Mental Health\n                    \n\n                                    \n                        Austin\n                    \n                                                    \n                        Life lines in Austin\n                    \n                \n                Remembering How to Be Friends: Amid COVID Isolation, One School Is Using Talking Circles to Help Kids Reconnect\n                Rooted in Indigenous ceremony, circles are helping Texas students restore their school community \n\n                \n                                            Bekah McNeel\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/lost-in-isolation-austin-students-circled-back-to-community/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Weaving a Stronger Society\n                    \n\n                                                    \n                        Weaving a Stronger Society \u2014 Starting in Our Schools\n                    \n                \n                How 12 Educators & Mentors Are Weaving a Stronger Society, Starting With Schools\n                Over the past six months, we've traveled the country to meet and celebrate educators using community to help students succeed in school \u2014 and life\n\n                \n                                            Steve Snyder\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/12-educators-weaving-stronger-schools/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Weaving a Stronger Society\n                    \n\n                                    \n                        art education\n                    \n                                                    \n                        Weaving a Stronger Society \u2014 Starting in Our Schools\n                    \n                \n                WATCH: An Inner City Teacher Helps His Community Capture Hope & Promise in Art\n                \n\n                \n                                            Jim Fields & Emmeline Zhao\n                                                                            \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/photography-without-borders-philadelphia-students-art/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Weaving a Stronger Society\n                    \n\n                                    \n                        Nebraska\n                    \n                                                    \n                        Weaving a Stronger Society \u2014 Starting in Our Schools\n                    \n                \n                A Rural Teacher Challenges Students and Her Community to Wrestle With the World\n                In the Sandhills of Nebraska, acclaimed educator Megan Helberg is building a \u2018woven community of travelers\u2019 through Zooms, trips and life lessons\n\n                \n                                            Laura Fay\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/rural-school-community-teacher-of-year-travel/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Weaving a Stronger Society\n                    \n\n                                    \n                        Aspen Institute\n                    \n                                                    \n                        Weaving a Stronger Society \u2014 Starting in Our Schools\n                    \n                \n                How This NYC Teacher Helps Immigrant Students \u2018Weave\u2019 Community in a New Country\n                After immigrating at 16, Teacher of the Year Alhassan Susso now dedicates his life to shaping connections for teens & families who left all they knew\n\n                \n                                            Jo Napolitano\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/nyc-teacher-immigrant-students-community-covid/"
+    },
+    {
+      "text": "View All",
+      "url": "https://www.the74million.org/series/educator-weavers/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Pandemic\n                    \n\n                                    \n                        pandemic\n                    \n                                                    \n                        Pandemic\n                    \n                \n                Greene: For Students to Get Back to Normal, They Need Support, Not Punishment\n                Concerning behaviors are caused by academic and social demands students are having trouble meeting, especially when schools double down on discipline\n\n                \n                                            Dr. Ross Greene\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/greene-for-students-to-get-back-to-normal-they-need-support-not-punishment/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        4Fams\n                    \n\n                                    \n                        4Fams\n                    \n                                \n                Adams: Public Funds for Religious Schools? It\u2019s Been Happening in NYC for Years\n                Progressives oppose school vouchers \u2014 except when using public money to fund religious schools is the only way to get pet projects off the ground\n\n                \n                                            Alina Adams\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/adams-public-funds-for-religious-schools-its-been-happening-in-nyc-for-years/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Reading Loss\n                    \n\n                                    \n                        decoding\n                    \n                                \n                Teaching Kids to Read \u2014 Not Guess. Free Summer Program Launches to Help Parents\n                Georgetown\u2019s Chad Aldeman explains why he created Read Not Guess after seeing his 8-year-old son\u2019s bad reading habit\n\n                \n                                            Chad Aldeman\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/education-researcher-creates-free-summer-reading-program-for-parents/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        school shooting\n                    \n\n                                    \n                        school shooting\n                    \n                                \n                Tips for Parents on Talking to Kids About School Shootings\n                The best way to figure out how much information kids need after a tragedy is to listen to them, writes guest columnist Michael Strickland\n\n                \n                                            Michael Strickland, Idaho Sun\n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/parents-must-be-prepared-to-talk-to-their-kids-about-school-shootings-here-are-tips-on-how/"
+    },
+    {
+      "text": "View All",
+      "url": "/opinion"
+    },
+    {
+      "text": "Explore",
+      "url": "/enterprise"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Hawaii\n                    \n\n                                    \n                        Hawaii\n                    \n                                \n                How an Island Teacher Builds Community Bridges Through Her Hawaii School\n                \n\n                \n                                            Jim Fields & Emmeline Zhao\n                                                                            \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/how-an-island-teacher-builds-community-bridges-through-her-hawaii-school/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Pandemic\n                    \n\n                                    \n                        microschool\n                    \n                                                    \n                        Pandemic\n                    \n                \n                WATCH: Teachers Reflect on Leaving Classrooms to Launch Microschools Amid COVID\n                \n\n                \n                                            The 74\n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/watch-teachers-reflect-on-leaving-classrooms-to-launch-microschools-amid-covid/"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Nebraska\n                    \n\n                                    \n                        Nebraska\n                    \n                                \n                Nebraska Teacher of the Year Challenges Her Rural Community to Wrestle with the World\n                \n\n                \n                                            The 74\n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/nebraska-teacher-of-the-year-challenges-her-rural-community-to-wrestle-with-the-world/"
+    },
+    {
+      "text": "View All",
+      "url": "/category/video"
+    },
+    {
+      "text": "\n                                            \n                    \n                \n                        \n                                    Spotlight\n                                    \n                        Texas\n                    \n\n                                    \n                        Texas\n                    \n                                \n                Uvalde\u2019s Robb Elementary: Before Tragedy, a Legacy in Advancing Equal Education\n                \u2018That school was known to us, the mexicanos, as La Robb.\u2019 Why neighbors say a gunman can\u2019t erase a school\u2019s pivotal role in Texas history\n\n                \n                                            Bekah McNeel\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/uvaldes-robb-elementary-before-tragedy-a-legacy-in-advancing-equal-education/"
+    },
+    {
+      "text": "Pandemic",
+      "url": "https://www.the74million.org/series/pandemic/"
+    },
+    {
+      "text": "4Fams",
+      "url": "https://www.the74million.org/tag/4fams/"
+    },
+    {
+      "text": "COVID Warriors",
+      "url": "https://www.the74million.org/series/covid-warriors/"
+    },
+    {
+      "text": "\n                                            Pandemic\n                                            \n                                                \n                                            \n                                            Rolling coverage of the COVID-19 pandemic and its ongoing effects on education\n                                        ",
+      "url": "https://www.the74million.org/series/pandemic/"
+    },
+    {
+      "text": "Greene: For Students to Get Back to Normal, They Need Support, Not Punishment",
+      "url": "https://www.the74million.org/article/greene-for-students-to-get-back-to-normal-they-need-support-not-punishment/"
+    },
+    {
+      "text": "After a Decade of Gains, Latino Students Suffer Outsized Losses Amid Pandemic",
+      "url": "https://www.the74million.org/article/after-a-decade-of-gains-latino-students-suffer-outsized-losses-amid-pandemic/"
+    },
+    {
+      "text": "How Blue States & Red States Use COVID Relief Funds Differently to Aid Schools",
+      "url": "https://www.the74million.org/article/covid-school-aid-spending-trends-in-red-blue-states/"
+    },
+    {
+      "text": "\n                                            4Fams\n                                            \n                                                \n                                            \n                                            Education news and views for families\n                                        ",
+      "url": "https://www.the74million.org/tag/4fams/"
+    },
+    {
+      "text": "Adams: Public Funds for Religious Schools? It\u2019s Been Happening in NYC for Years",
+      "url": "https://www.the74million.org/article/adams-public-funds-for-religious-schools-its-been-happening-in-nyc-for-years/"
+    },
+    {
+      "text": "Pandemic Babies Are Facing Speech & Social Development Delays. 5 Ways to Help",
+      "url": "https://www.the74million.org/article/5-tips-to-help-make-up-for-pandemic-babies-speech-social-developmental-delays/"
+    },
+    {
+      "text": "Adams: What NYC\u2019s New Remote-Only Schools Could Mean for Educational Choice",
+      "url": "https://www.the74million.org/article/adams-what-nycs-new-remote-only-schools-could-mean-for-educational-choice/"
+    },
+    {
+      "text": "\n                                            COVID Warriors\n                                            \n                                                \n                                            \n                                            How educators are saving the pandemic generation\n                                        ",
+      "url": "https://www.the74million.org/series/covid-warriors/"
+    },
+    {
+      "text": "WATCH: How One School Is Using House Calls to Keep Kids Learning During the Pandemic",
+      "url": "https://www.the74million.org/article/dc-home-visit-chronic-absenteeism-student-engagement/"
+    },
+    {
+      "text": "A High School in Ohio Is Giving Students a Choice: Keep Up With Remote Learning \u2014 Or You Have to Come Back to the Classroom",
+      "url": "https://www.the74million.org/article/a-high-school-in-ohio-is-giving-students-a-choice-keep-up-with-remote-learning-or-you-have-to-come-back-to-the-classroom/"
+    },
+    {
+      "text": "Legos, Meditation, Video Field Trips: How One D.C. School Is Using Virtual Clubs to Help Students Break Through the Isolation \u2014 and Reconnect With Friends \u2014 During the Pandemic",
+      "url": "https://www.the74million.org/article/legos-meditation-video-field-trips-how-one-d-c-school-is-using-virtual-clubs-to-help-students-break-through-the-isolation-and-reconnect-with-friends-during-the-pandemic/"
+    },
+    {
+      "text": "More Series",
+      "url": "/series/"
+    },
+    {
+      "text": "\n                    Policing\n                    Exclusive: Police Cam Video Reveals How Schools Restrain Kids in Crisis\n                ",
+      "url": "https://www.the74million.org/article/police-cam-videos-cops-educators-restraint-kids-in-crisis/"
+    },
+    {
+      "text": "\n                    Social-Emotional Learning\n                    A Racial Reckoning at Yale\u2019s Center for Emotional Intelligence\n                ",
+      "url": "https://www.the74million.org/article/social-emotional-learning-racial-reckoning-yale-center-departure/"
+    },
+    {
+      "text": "\n                    education leadership\n                    Growing Fears in Schools About Looming 'Mass Exodus' of Principals This Summer\n                ",
+      "url": "https://www.the74million.org/article/school-leaders-crisis-overwhelmed-by-mounting-mental-health-issues-public-distrust-mass-exodus-of-principals-could-be-coming/"
+    },
+    {
+      "text": "\n                    Math Education\n                    Advocates for Math Equity Question Whether Being Right is Sometimes Wrong\n                ",
+      "url": "https://www.the74million.org/article/can-right-answers-be-wrong-latest-clash-over-white-supremacy-culture-unfolds-in-unlikely-arena-math-class/"
+    },
+    {
+      "text": "\n                    Pandemic\n                    Million-Dollar Records Request: MN Districts Flooded With Document Demands\n                ",
+      "url": "https://www.the74million.org/article/million-dollar-records-request-from-covid-and-critical-race-theory-to-teachers-names-schools-minnesota-districts-flooded-with-freedom-of-information-document-demands/"
+    },
+    {
+      "text": "\n        \n        \n            New Jersey\n            NJ Lawmakers Want to Revamp 40-Year-Old Graduation Exam Rule for HS Juniors\n            \n                                    \n                        Sophie Nieto-Munoz                        , New Jersey Monitor                    \n                                                                \n            July 11, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/bills-aim-to-revamp-testing-requirement-for-high-school-juniors/"
+    },
+    {
+      "text": "\n        \n        \n            Alaska\n            Universal Free School Meal Program Going Away for About Half of Alaska\u2019s Schools\n            \n                                    \n                        Lisa Phu                        , The Alaska Beacon                    \n                                                                \n            July 10, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/universal-free-school-meal-program-going-away-for-about-half-of-alaskas-schools/"
+    },
+    {
+      "text": "\n        \n        \n            Oregon\n            Youth Mental Health Crisis: State Opens Free Online Training for Teachers, Parents\n            \n                                    \n                        Alex Baumhardt                        , Oregon Capital Chronicle                    \n                                                                \n            July 9, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/state-education-department-launches-online-mental-health-care-training/"
+    },
+    {
+      "text": "\n        \n        \n            New Hampshire\n            NH Seeks to Use Covid Relief Funds for School Security Upgrades\n            \n                                    \n                        Ethan DeWitt                        , New Hampshire Bulletin                    \n                                                                \n            July 8, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/state-requests-use-of-covid-relief-funds-to-pay-for-public-and-private-school-security-upgrades/"
+    },
+    {
+      "text": "\n        \n        \n            Pandemic Policy\n            Study: Masking in School Had Little or No Effect on Student COVID Cases\n            \n                                    \n                        John Bailey                                            \n                                            \n                            \n                        \n                                                                \n            July 8, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/study-masking-in-school-had-little-or-no-effect-on-student-covid-cases/"
+    },
+    {
+      "text": "\n        \n        \n            Michigan\n            Short on Teachers, Michigan Schools Try to Grow Their Own\n            \n                                    \n                        Tracie Mauriello                        , Chalkbeat Detroit                    \n                                                                \n            July 7, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/short-on-teachers-michigan-schools-try-to-grow-their-own/"
+    },
+    {
+      "text": "\n        \n        \n            Texas\n            Texas STAAR Results Improve in Math and Reading After Pandemic Dips\n            \n                                    \n                        Brian Lopez                        , The Texas Tribune                    \n                                                                \n            July 7, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/texas-staar-results-improve-in-math-and-reading-after-pandemic-dips/"
+    },
+    {
+      "text": "\n        \n        \n            New Research\n            New Study: Black, Special Ed Students Punished at Greater Rate Through Pandemic\n            \n                                    \n                        Jo Napolitano                                            \n                                            \n                            \n                        \n                                                                \n            July 7, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/new-study-black-special-needs-kids-punished-at-greater-rate-through-pandemic/"
+    },
+    {
+      "text": "\n        \n        \n            Commentary\n            Educator\u2019s View: How My School\u2019s Care Corps Helps Our Students and Community\n            \n                                    \n                        Maricela Guerrero                                            \n                                                                \n            July 6, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/educators-view-how-my-schools-care-corps-helps-our-students-and-community/"
+    },
+    {
+      "text": "\n        \n        \n            Arizona\n            Opinion\u2014In Arizona\u2019s Historic ESA Expansion, a Blueprint for Educational Freedom\n            \n                                    \n                        Matt Beienburg                                            \n                                                                \n            July 6, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/opinion-in-arizonas-historic-esa-expansion-a-blueprint-for-educational-freedom/"
+    },
+    {
+      "text": "\n        \n        \n            COVID Slide\n            COVID & College: Indiana Enrollment Declines, as Only 53% of HS Grads Continue\n            \n                                    \n                        Joshua Parrish                                            \n                                                                \n            July 6, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/covid-college-indiana-enrollment-declines-as-only-53-of-hs-grads-continue/"
+    },
+    {
+      "text": "\n        \n        \n            Charter Schools\n            After Overhauling Program, Ed Dept. Opens One-Month Dash for Charter Funds\n            \n                                    \n                        Linda Jacobson                                            \n                                            \n                            \n                        \n                                                                \n            July 6, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/after-overhauling-program-ed-dept-opens-one-month-dash-for-charter-funds/"
+    },
+    {
+      "text": "\n        \n        \n            Union Report\n            Analysis: The NEA Representative Assembly Is Winding Down. Here\u2019s What It Means\n            \n                                    \n                        Mike Antonucci                                             \n                                                                \n            July 6, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/analysis-the-nea-representative-assembly-is-winding-down-heres-what-it-means/"
+    },
+    {
+      "text": "\n        \n        \n            STEM\n            How a Teacher Joined a Movement to Keep Black Girls Involved in STEM\n            \n                                    \n                        Nadra  Nittle                        , The 19th                    \n                                                                \n            July 5, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/how-a-teacher-joined-a-movement-to-keep-black-girls-involved-in-stem/"
+    },
+    {
+      "text": "\n        \n        \n            Idaho\n            Analysis: As a Nervous Summer Begins, Schools Scramble to Fill Job Vacancies\n            \n                                    \n                        Kevin Richert                        ,  IdahoEdNews.org                    \n                                                                \n            July 5, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/analysis-as-a-nervous-summer-begins-schools-scramble-to-fill-job-vacancies/"
+    },
+    {
+      "text": "\n        \n        \n            Alaska\n            The Alaska Reads Act: New Bill Aims to Boost Literacy For All Kids By 3rd Grade\n            \n                                    \n                        Lisa Phu                        , The Alaska Beacon                    \n                                                                \n            July 5, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/education-department-begins-early-stages-of-implementing-controversial-reading-intervention-bill/"
+    },
+    {
+      "text": "\n        \n        \n            School Infrastructure\n            Pennsylvania Schools Have Doubled Their Solar Power Use Since 2020\n            \n                                    \n                        Ladimir Garcia                        , Pittsburgh City Paper                    \n                                                                \n            July 4, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/pennsylvania-schools-have-doubled-their-solar-power-use-since-2020/"
+    },
+    {
+      "text": "\n        \n        \n            Civics Education\n            Teachers Have 2 Hours a Week to Teach Social Studies, Prepare Informed Citizens\n            \n                                    \n                        Kenneth Anthony                        , The Conversation                    \n                                                                \n            July 4, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/teachers-have-2-hours-a-week-to-teach-social-studies-prepare-informed-citizens/"
+    },
+    {
+      "text": "\n        \n        \n            Virginia\n            Youngkin Says Report on \u2018Honesty Gap\u2019 Points to Decline in Virginia Schools\n            \n                                    \n                        Graham Moomaw                        , Virginia Mercury                    \n                                                                \n            July 3, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/youngkin-says-report-on-honesty-gap-points-to-decline-in-virginia-schools/"
+    },
+    {
+      "text": "\n        \n        \n            Albuquerque Indian School\n            The Dark Legacy of the Indian Boarding School System All Americans Need to Know\n            \n                                    \n                        Trip Jennings                                            \n                                                                \n            July 2, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/we-all-need-to-learn-more-about-boarding-schools-and-their-legacy/"
+    },
+    {
+      "text": "Load More",
+      "url": "/page/2"
+    },
+    {
+      "text": "News",
+      "url": "https://www.the74million.org/news/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.the74million.org/opinion/"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.the74million.org/video/"
+    },
+    {
+      "text": "Analysis",
+      "url": "https://www.the74million.org/analysis/"
+    },
+    {
+      "text": "Pandemic",
+      "url": "https://www.the74million.org/series/pandemic/"
+    },
+    {
+      "text": "The Big Picture",
+      "url": "https://www.the74million.org/series/education-data-big-picture/"
+    },
+    {
+      "text": "The 74 Interview",
+      "url": "https://www.the74million.org/series/the-74-interview/"
+    },
+    {
+      "text": "Weaving a Stronger Society",
+      "url": "https://www.the74million.org/series/educator-weavers/"
+    },
+    {
+      "text": "Union Report",
+      "url": "https://www.the74million.org/series/union-report/"
+    },
+    {
+      "text": "4Fams",
+      "url": "https://www.the74million.org/4fams/"
+    },
+    {
+      "text": "Keeping It 100",
+      "url": "https://www.the74million.org/keepingit100/"
+    },
+    {
+      "text": "Research",
+      "url": "https://www.the74million.org/series/education-data-big-picture/"
+    },
+    {
+      "text": "critical race theory",
+      "url": "https://www.the74million.org/tag/critical-race-theory/"
+    },
+    {
+      "text": "Investigation",
+      "url": "https://www.the74million.org/tag/investigation/"
+    },
+    {
+      "text": "Surveillance",
+      "url": "https://www.the74million.org/tag/surveillance/"
+    },
+    {
+      "text": "teacher voice",
+      "url": "https://www.the74million.org/tag/teacher-voice/"
+    },
+    {
+      "text": "ed tech",
+      "url": "https://www.the74million.org/tag/ed-tech/"
+    },
+    {
+      "text": "learning loss",
+      "url": "https://www.the74million.org/tag/learning-loss/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.the74million.org/tag/politics/"
+    },
+    {
+      "text": "New York City",
+      "url": "https://www.the74million.org/tag/new-york-city/"
+    },
+    {
+      "text": "Texas",
+      "url": "https://www.the74million.org/tag/texas/"
+    },
+    {
+      "text": "Solutions",
+      "url": "https://www.the74million.org/tag/solutions/"
+    },
+    {
+      "text": "Los Angeles",
+      "url": "https://www.the74million.org/tag/los-angeles/"
+    },
+    {
+      "text": "Youth mental health",
+      "url": "https://www.the74million.org/tag/mental-health/"
+    },
+    {
+      "text": "COVID Recovery",
+      "url": "https://www.the74million.org/tag/innovation-recovery/"
+    },
+    {
+      "text": "STEM",
+      "url": "https://www.the74million.org/tag/stem/"
+    },
+    {
+      "text": "Pandemic",
+      "url": "https://www.the74million.org/series/pandemic/"
+    },
+    {
+      "text": "Class Disrupted",
+      "url": "/class-disrupted-podcast/"
+    },
+    {
+      "text": "LA School Report",
+      "url": "https://www.laschoolreport.com"
+    },
+    {
+      "text": "COVID Warriors",
+      "url": "https://www.the74million.org/series/covid-warriors/"
+    },
+    {
+      "text": "Brown v. Board",
+      "url": "https://brown65.the74million.org/"
+    },
+    {
+      "text": "B.A. Breakthrough",
+      "url": "https://breakthrough.the74million.org/"
+    },
+    {
+      "text": "View All >",
+      "url": "/enterprise"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.the74million.org/about/"
+    },
+    {
+      "text": "Team",
+      "url": "https://www.the74million.org/about/team/"
+    },
+    {
+      "text": "Supporters",
+      "url": "https://www.the74million.org/about/supporters/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.the74million.org/about/job-openings/"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.the74million.org/about/contact/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.the74million.org/about/newsletters/"
+    },
+    {
+      "text": "Donate to The 74",
+      "url": "https://www.the74million.org/about/membership/"
+    },
+    {
+      "text": "Code of Ethics",
+      "url": "https://www.the74million.org/code-of-ethics/"
+    },
+    {
+      "text": "feedback@the74million.org",
+      "url": "mailto:feedback@the74million.org"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/the74"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/the_74/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/theseventyfour"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCj9hwWOOkOpoBNFwUijQ4ZQ"
+    },
+    {
+      "text": "Republish Our Content",
+      "url": "/republish"
+    },
+    {
+      "text": "The 74",
+      "url": "/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://checkout.fundjournalism.org/memberform?&org_id=the74&campaign=7018W000000G5mHQAS"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "Terms & Conditions",
+      "url": "/terms-conditions"
+    }
+  ],
+  "uniq": 839458521,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }
