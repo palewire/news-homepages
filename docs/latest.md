@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 419 news sites.
+The most recent homepages captured from 422 news sites.
 
 <div class="latest-parent">
 
@@ -545,6 +545,15 @@ The most recent homepages captured from 419 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/capgaznews.html">Capital Gazette</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/cnsmd.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnsmd.jpg"
+     alt="Capital News Service"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/cnsmd.html">Capital News Service</a></p>
 </div>
 
 <div class="latest-child">
@@ -2006,6 +2015,15 @@ The most recent homepages captured from 419 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theleftbench.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theleftbench.jpg"
+     alt="Left Bench"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/theleftbench.html">Left Bench</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thelensnola.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thelensnola.jpg"
      alt="Lens"
@@ -3164,6 +3182,15 @@ The most recent homepages captured from 419 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/stevenspointjrl.html">Stevens Point Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/umd_sbs.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/umd_sbs.jpg"
+     alt="Stories Beneath the Shell"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/umd_sbs.html">Stories Beneath the Shell</a></p>
 </div>
 
 <div class="latest-child">
