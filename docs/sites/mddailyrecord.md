@@ -17,7 +17,8 @@ orphan: true
 | Location       | Baltimore                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[mddailyrecord-2022](https://archive.org/details/mddailyrecord-2022)|

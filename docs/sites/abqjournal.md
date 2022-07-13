@@ -17,7 +17,7 @@ orphan: true
 | Location       | Albuquerque                                                                 |
 | Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 165 screenshots stored at the Internet Archive.
+The archiving routine has captured 166 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

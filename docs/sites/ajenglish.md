@@ -17,7 +17,7 @@ orphan: true
 | Location       | Doha                                                                 |
 | Timezone       | Asia/Qatar                                                                 |
 
-The archiving routine has captured 53 screenshots stored at the Internet Archive.
+The archiving routine has captured 54 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

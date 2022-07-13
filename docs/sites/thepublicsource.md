@@ -17,7 +17,7 @@ orphan: true
 | Location       | Beirut                                                                 |
 | Timezone       | Asia/Beirut                                                                 |
 
-The archiving routine has captured 72 screenshots stored at the Internet Archive.
+The archiving routine has captured 73 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

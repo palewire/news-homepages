@@ -17,7 +17,7 @@ orphan: true
 | Location       | Menlo Park                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 8 screenshots stored at the Internet Archive.
+The archiving routine has captured 9 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
