@@ -1,5 +1,5 @@
 {
-  "created": 1657628775,
+  "created": 1657660409,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -3416,31 +3416,157 @@
       "sha1": "f7151beb6b9fcc2b35b43c95081aae2c1fb72dd2"
     },
     {
+      "name": "yahoonews-2022-07-12T13:31:49.809028-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657647117",
+      "size": "38310",
+      "md5": "0364fef48e4677604924dde49691b10f",
+      "crc32": "77509544",
+      "sha1": "449891eb14aab04e98f4451e89ced51c06bd63af",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-12T13:31:49.809028-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657647119",
+      "size": "19351",
+      "md5": "cb361efb771295bf6ee5349a3321829a",
+      "crc32": "565f0ca3",
+      "sha1": "7a90695332b0d0e563803a4d2c0daa1ef22b4454",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-12T13:31:49.809028-04:00.jpg",
+      "source": "original",
+      "mtime": "1657647115",
+      "size": "312745",
+      "md5": "f968808b204cf4a151cca80b185c40b7",
+      "crc32": "acb4e3b7",
+      "sha1": "dd8d8bd825da8479580f4297fddbfd72835e796d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-12T13:31:49.809028-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-12T13:31:49.809028-04:00.jpg",
+      "mtime": "1657647247",
+      "size": "10053",
+      "md5": "66a01cd9a3e2d3c221fbf87838f31c54",
+      "crc32": "99bdbbd7",
+      "sha1": "610d8622294af35dfc5103157da0f1cc45350b6b"
+    },
+    {
+      "name": "yahoonews-2022-07-12T13:39:10.089445-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657647553",
+      "size": "42007",
+      "md5": "7996eb2aeb0f7467f631121680866036",
+      "crc32": "40ee9678",
+      "sha1": "a669f34272edde83cdf8e47d6af74702fc4018e1",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-12T13:39:10.089445-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657647555",
+      "size": "9252",
+      "md5": "3a86b6ad1e607342d1e4fe51afd33249",
+      "crc32": "30c1bbe6",
+      "sha1": "ca36e056b20eecf3c3476284d0aeadf0a34d082a",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-12T13:39:10.089445-04:00.jpg",
+      "source": "original",
+      "mtime": "1657647551",
+      "size": "312772",
+      "md5": "34143d734d23f9cd700612699fd7b53f",
+      "crc32": "7ac6ef48",
+      "sha1": "2874652331976b4d96665dd713d54d0f229bed10",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-12T13:39:10.089445-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-12T13:39:10.089445-04:00.jpg",
+      "mtime": "1657647658",
+      "size": "10042",
+      "md5": "09c76ef635047069bf25ea7acb0ee64f",
+      "crc32": "c0a12ab8",
+      "sha1": "773f1c28032bef763f2cbbab3bf4e226ee27a636"
+    },
+    {
+      "name": "yahoonews-2022-07-12T17:10:15.535354-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657660220",
+      "size": "39644",
+      "md5": "0c2706c6431ea24bf33c69be5f6c30ff",
+      "crc32": "0d5531eb",
+      "sha1": "02e07798fd462bb4ad151a27a1db871cf63ce9c5",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-12T17:10:15.535354-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657660222",
+      "size": "9786",
+      "md5": "11c6a3b4f18edc0f993d70e9d9a7a7d7",
+      "crc32": "718ae2a8",
+      "sha1": "914fdb17d685ad10200c276415ff703bfd95aeb4",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-12T17:10:15.535354-04:00.jpg",
+      "source": "original",
+      "mtime": "1657660219",
+      "size": "332929",
+      "md5": "bbc7eeb6e75434c8f16744ce3a15b6d7",
+      "crc32": "db1e2d5f",
+      "sha1": "f533ba9b0dcca0bef465e49a2e9506bf0c895a2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-12T17:10:15.535354-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-12T17:10:15.535354-04:00.jpg",
+      "mtime": "1657660322",
+      "size": "10231",
+      "md5": "1a2edab34d79e6bcd1c8b87ebc1e013c",
+      "crc32": "e44ce814",
+      "sha1": "b3ab14ad1556092c83506f305f9e971920a660d8"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd5e148e056dff8ca68271e1bfc7eccec752d71b",
-      "mtime": "1657596662",
-      "size": "70364",
-      "md5": "e17753794056cc77b6d1433941747f75",
-      "crc32": "e5b9d1fb",
-      "sha1": "ac14e2d90f9e7459793695789dc14e7d25189225",
+      "btih": "41524e584662c42472afff801f5285a949e28d71",
+      "mtime": "1657660377",
+      "size": "72904",
+      "md5": "599961e4ce90486adc9d8359bc310bea",
+      "crc32": "48bdfde4",
+      "sha1": "9958c22682a3b6811d1ec5f051e0c5e54ceb4297",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dd58f5ed1f4712050f49fa26ebc91ba5",
+      "md5": "48e811350b63a2f2a4b9dd7e98f89600",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657596596",
-      "size": "393216",
-      "md5": "422199d0339445593e33e0c47d14809f",
-      "crc32": "a3a196f1",
-      "sha1": "86a1511df2ee9b10edb9171f983986fae2965562",
+      "mtime": "1657660225",
+      "size": "405504",
+      "md5": "bd5aad2048e9253e8c474d53735eda52",
+      "crc32": "eaeba36d",
+      "sha1": "298314460d00fc3a02b69166a812bcad650a882f",
       "format": "Metadata"
     },
     {
@@ -3454,9 +3580,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 329,
-  "item_last_updated": 1657596662,
-  "item_size": 31111064,
+  "files_count": 341,
+  "item_last_updated": 1657660377,
+  "item_size": 32273014,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -3473,324 +3599,10 @@
     "publicdate": "2022-06-24 23:04:11",
     "addeddate": "2022-06-24 23:04:11"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 793268852,
+  "server": "ia801403.us.archive.org",
+  "uniq": 929006403,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
-  ],
-  "yahoonews-2022": [
-    {
-      "text": "      HOME",
-      "url": "https://www.yahoo.com/"
-    },
-    {
-      "text": " MAIL",
-      "url": "https://mail.yahoo.com/"
-    },
-    {
-      "text": " NEWS",
-      "url": "https://news.yahoo.com/"
-    },
-    {
-      "text": " FINANCE",
-      "url": "https://finance.yahoo.com/"
-    },
-    {
-      "text": " SPORTS",
-      "url": "https://sports.yahoo.com/"
-    },
-    {
-      "text": " ENTERTAINMENT",
-      "url": "https://www.yahoo.com/entertainment/"
-    },
-    {
-      "text": " LIFE",
-      "url": "https://www.yahoo.com/lifestyle"
-    },
-    {
-      "text": " SEARCH",
-      "url": "https://search.yahoo.com/search/"
-    },
-    {
-      "text": " SHOPPING",
-      "url": "https://shopping.yahoo.com/"
-    },
-    {
-      "text": " YAHOO PLUS",
-      "url": "https://www.yahoo.com/plus"
-    },
-    {
-      "text": " MORE...",
-      "url": "https://www.yahoo.com/everything/"
-    },
-    {
-      "text": "    Upgrade Now   ",
-      "url": "https://ad.doubleclick.net/ddm/trackclk/N360801.1913355YAHOOADMANAGER/B23644564.308265615;dc_trk_aid=490102767;dc_trk_cid=127172993;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
-    },
-    {
-      "text": "                   Yahoo News",
-      "url": "https://news.yahoo.com/"
-    },
-    {
-      "text": "Sign in",
-      "url": "https://login.yahoo.com/?.lang=en-US&src=news&.done=https%3A%2F%2Fnews.yahoo.com%2F&pspid=1197800621&activity=ybar-signin"
-    },
-    {
-      "text": "       Mail",
-      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
-    },
-    {
-      "text": "Sign in",
-      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
-    },
-    {
-      "text": " News   News",
-      "url": "https://news.yahoo.com"
-    },
-    {
-      "text": " US   US",
-      "url": "https://news.yahoo.com/us/"
-    },
-    {
-      "text": " Politics   Politics",
-      "url": "https://news.yahoo.com/politics/"
-    },
-    {
-      "text": " World   World",
-      "url": "https://news.yahoo.com/world/"
-    },
-    {
-      "text": " COVID-19   COVID-19",
-      "url": "https://news.yahoo.com/coronavirus/"
-    },
-    {
-      "text": " Climate Change   Climate Change",
-      "url": "https://www.yahoo.com/news/tagged/climate-change/"
-    },
-    {
-      "text": " Health   Health",
-      "url": "https://news.yahoo.com/health/"
-    },
-    {
-      "text": " Science   Science",
-      "url": "https://news.yahoo.com/science/"
-    },
-    {
-      "text": " Originals   Originals",
-      "url": "https://news.yahoo.com/originals/"
-    },
-    {
-      "text": "The 360The 360",
-      "url": "https://news.yahoo.com/tagged/360/"
-    },
-    {
-      "text": "Skullduggery PodcastSkullduggery Podcast",
-      "url": "https://news.yahoo.com/tagged/skullduggery/"
-    },
-    {
-      "text": "ConspiracylandConspiracyland",
-      "url": "https://news.yahoo.com/tagged/conspiracyland/"
-    },
-    {
-      "text": " Veterans   Veterans",
-      "url": "https://www.yahoo.com/partner/wounded-warrior-project/index.html"
-    },
-    {
-      "text": " Contact Us   Contact Us",
-      "url": "https://yahoo.uservoice.com/forums/204992-us-news"
-    },
-    {
-      "text": "Surreal scene: Here lies what was Lake MeadReceding waters of Lake Mead National Recreation Area have revealed skeletal remains, countless desiccated fish and what has become a graveyard of watercraft.See the incredible photos \u00bb",
-      "url": "/ap-photos-amid-drought-lake-043819296.html"
-    },
-    {
-      "text": "Societal factors that may be fueling mass shooters",
-      "url": "/how-to-combat-the-forces-that-turn-young-men-into-mass-shooters-200251351.html"
-    },
-    {
-      "text": "Ex-Uber executive: 'We had actually sold people a lie'",
-      "url": "/mark-macgann-former-top-executive-163340848.html"
-    },
-    {
-      "text": "'A review ... mentioned my breast buds': Portman",
-      "url": "https://www.yahoo.com/entertainment/natalie-portman-being-sexualized-as-teen-breast-buds-162043215.html"
-    },
-    {
-      "text": "Father of teen killed in Parkland interrupts Biden",
-      "url": "/father-teen-killed-parkland-interrupts-161508467.html"
-    },
-    {
-      "text": "Panel was so alarmed by call, it rushed her testimony",
-      "url": "/cassidy-hutchinson-why-jan-6-114333976.html"
-    },
-    {
-      "text": "'Yellowstone' actor charged with disability payment fraud",
-      "url": "/yellowstone-actor-charged-disability-payment-013541738.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=mN5J_f8GIS8v06vNegsixIzHprI5sLYJvYGABo5a56itjpURm887VTDm_LH2cj.HmCCQt8IA5whLdOEyB5q744o2Rp4Yg3wf5VsM8Bb7cyP5VerCVrhuIrq0c5Rv6vRRCzy3kQUx0M0dhrSvyDnnSSRPMaazwlFYWsJ8Bjq14JfqkpdRMTY2PmMFlC04QA0aD8.tdQ6nYhTtwjikMhMQ0dyOMBBEZXD3Md6oc5Q3e_MPwGfLOBdnvIG0k0HQSDF8mFlQdaf67u7A2lJfEKVNEeRlX43wWXFuq4Nuddrrt13bP3w1Uq..tf9Tb9k_9SiGPxKZC5rhccNYb9oigp0TDz3xg3mSQ65O4fjjY7WmzFhgUdkLGyn3kFlwgMFZf1b2g6WQFWcCuFEyEa96.uXRFGp4Fr5Y.bXdTHJNCksR6yiK2O_6NYGF1j_hELgnlNbFczadA8KiH1EA5GdbMaH.36aJAssjkkuMINAVomtv53Zc3Yc..0Cj_JtppT4DVju3iITOzWMgwWYWn_i8dmZs5eWPUroa4VasJ4RjMnbF5v7NK5TEHTBWIcSfol39oekV1q0LOEMVGysJ974UIcZ2z5.hAGRTIHvy_qpMGkbN.2dOstZB8n9pq1FYMssGw0ahq8zSpiJj9eC0STrziZu1R9CrwiXORAzrZZrvbw8qqWWRwRk7LzJeqlmrkFnA5eQgK.VCOlvgiXQ0U.ihhbNgHNEixTQ6zG_FKMzYSr302po8PfgkXIiYzKjztACN5xCsqtpGPqo6shRJrj0XVfvz7kG.vk00RT7ej9qgofOXcCo7CaRCnnYIh1BpdHBZ3Qw7aXztMvRLHXin9svlyT9CDD7McMcVfeXqEWWrQElToQ--"
-    },
-    {
-      "text": "Ad",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "Guardio",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=mN5J_f8GIS8v06vNegsixIzHprI5sLYJvYGABo5a56itjpURm887VTDm_LH2cj.HmCCQt8IA5whLdOEyB5q744o2Rp4Yg3wf5VsM8Bb7cyP5VerCVrhuIrq0c5Rv6vRRCzy3kQUx0M0dhrSvyDnnSSRPMaazwlFYWsJ8Bjq14JfqkpdRMTY2PmMFlC04QA0aD8.tdQ6nYhTtwjikMhMQ0dyOMBBEZXD3Md6oc5Q3e_MPwGfLOBdnvIG0k0HQSDF8mFlQdaf67u7A2lJfEKVNEeRlX43wWXFuq4Nuddrrt13bP3w1Uq..tf9Tb9k_9SiGPxKZC5rhccNYb9oigp0TDz3xg3mSQ65O4fjjY7WmzFhgUdkLGyn3kFlwgMFZf1b2g6WQFWcCuFEyEa96.uXRFGp4Fr5Y.bXdTHJNCksR6yiK2O_6NYGF1j_hELgnlNbFczadA8KiH1EA5GdbMaH.36aJAssjkkuMINAVomtv53Zc3Yc..0Cj_JtppT4DVju3iITOzWMgwWYWn_i8dmZs5eWPUroa4VasJ4RjMnbF5v7NK5TEHTBWIcSfol39oekV1q0LOEMVGysJ974UIcZ2z5.hAGRTIHvy_qpMGkbN.2dOstZB8n9pq1FYMssGw0ahq8zSpiJj9eC0STrziZu1R9CrwiXORAzrZZrvbw8qqWWRwRk7LzJeqlmrkFnA5eQgK.VCOlvgiXQ0U.ihhbNgHNEixTQ6zG_FKMzYSr302po8PfgkXIiYzKjztACN5xCsqtpGPqo6shRJrj0XVfvz7kG.vk00RT7ej9qgofOXcCo7CaRCnnYIh1BpdHBZ3Qw7aXztMvRLHXin9svlyT9CDD7McMcVfeXqEWWrQElToQ--"
-    },
-    {
-      "text": "Chrome Users? Make Sure To Do This Security Scan",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=mN5J_f8GIS8v06vNegsixIzHprI5sLYJvYGABo5a56itjpURm887VTDm_LH2cj.HmCCQt8IA5whLdOEyB5q744o2Rp4Yg3wf5VsM8Bb7cyP5VerCVrhuIrq0c5Rv6vRRCzy3kQUx0M0dhrSvyDnnSSRPMaazwlFYWsJ8Bjq14JfqkpdRMTY2PmMFlC04QA0aD8.tdQ6nYhTtwjikMhMQ0dyOMBBEZXD3Md6oc5Q3e_MPwGfLOBdnvIG0k0HQSDF8mFlQdaf67u7A2lJfEKVNEeRlX43wWXFuq4Nuddrrt13bP3w1Uq..tf9Tb9k_9SiGPxKZC5rhccNYb9oigp0TDz3xg3mSQ65O4fjjY7WmzFhgUdkLGyn3kFlwgMFZf1b2g6WQFWcCuFEyEa96.uXRFGp4Fr5Y.bXdTHJNCksR6yiK2O_6NYGF1j_hELgnlNbFczadA8KiH1EA5GdbMaH.36aJAssjkkuMINAVomtv53Zc3Yc..0Cj_JtppT4DVju3iITOzWMgwWYWn_i8dmZs5eWPUroa4VasJ4RjMnbF5v7NK5TEHTBWIcSfol39oekV1q0LOEMVGysJ974UIcZ2z5.hAGRTIHvy_qpMGkbN.2dOstZB8n9pq1FYMssGw0ahq8zSpiJj9eC0STrziZu1R9CrwiXORAzrZZrvbw8qqWWRwRk7LzJeqlmrkFnA5eQgK.VCOlvgiXQ0U.ihhbNgHNEixTQ6zG_FKMzYSr302po8PfgkXIiYzKjztACN5xCsqtpGPqo6shRJrj0XVfvz7kG.vk00RT7ej9qgofOXcCo7CaRCnnYIh1BpdHBZ3Qw7aXztMvRLHXin9svlyT9CDD7McMcVfeXqEWWrQElToQ--"
-    },
-    {
-      "text": "Mark Leibovich says Florida Gov. Ron DeSantis' reelection isn't 'a sure thing,' as Republicans increasingly view him as a potential 2024 presidential contender",
-      "url": "/mark-leibovich-says-florida-gov-221252003.html"
-    },
-    {
-      "text": "\u2018Ready for Ron\u2019 Releases Research Illustrating Growing Positive Sentiment for DeSantisNews Direct",
-      "url": "/ready-ron-releases-research-illustrating-141750852.html"
-    },
-    {
-      "text": "Mark Leibovich says Biden is working with 'a pretty limited toolbox' at this point in his political career: 'I don't think he's terribly well-suited to the moment'INSIDER",
-      "url": "/mark-leibovich-says-biden-working-182203867.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "\u2018Best deals of the year.\u2019 One major thing you\u2019re almost sure to find on sale on Amazon Prime Day",
-      "url": "/m/fdfa7302-fad5-39c3-958a-15571934c6e3/%E2%80%98best-deals-of-the-year-%E2%80%99-one.html"
-    },
-    {
-      "text": "Early Prime Day deal: Amazon's Echo Show 5 is down to $35 \u2014 it's 60% off!Yahoo Life Shopping",
-      "url": "/echo-show-5-sale-162613629.html"
-    },
-    {
-      "text": "Prime Day 2022: the best early deals and everything you need to know before the saleYahoo Life Shopping",
-      "url": "/best-amazon-prime-day-deals-160514104.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Fatty 'katsuo' fish may foreshadow climate change, threat to Japan's sushi",
-      "url": "/fatty-katsuo-fish-may-foreshadow-230942193.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=u.w9URAGIS9j_WJx4YHt3E5x9fsbTav9DPJY7G44IB3xoYottQQjHqMvr_CEPT7IlLHfsYFqphZDalyOgWaoA8NgA4HMwnwkuL1cX0yF8igTL1OLzy8qzlUjkObUevLFiz5.zYHEIrZDJ9h2I9nx1ixYyirMHPQ6p2CevlSrSicQmvCMD0N8mLm762d_UhXnv17skVFVlB3I_iquHsI0FnmhyDKNysAoED7H5GQkY5vmzaJWH.xTGizRrT4tBLGHgK.PmOrVRBwlDhaaETpmMytHPQrSqdDio6ls1VfnMxHizn2CfJHXUnaKbJvyAKQF1a9h.gl2dZHplJUYtguZmYmts5OGzFTpTa.ajbaAuTeESBwjxhp0fTPDjCXNFl5qTFKL3OqJw72zbi3A9gzk.R_O5G8TCk1yIg4U.R4DohpRhZj08P5QFyHsQgltTyPE2RgnAbJ3ZuCFec5dDycIuvEyXW_iApDcU4MQ4mdXbSzeV5LR7yM.W7V22r2fT5acnDjhPUBGG33VH0lssU_UCL64MjFsSKF5sBbAKF425iZyLJXmTAC3HhYVvKVEJ_p.XJwuvBWiqj6r_G0WLHvfMP3PNtyzZE60G5oDy8PmixRp50Pt3buxb59fawUpgCAzaebcl.cksBGFmIjmwE2WKXHDt47NW_M0"
-    },
-    {
-      "text": "Ad",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "SmartAsset",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=u.w9URAGIS9j_WJx4YHt3E5x9fsbTav9DPJY7G44IB3xoYottQQjHqMvr_CEPT7IlLHfsYFqphZDalyOgWaoA8NgA4HMwnwkuL1cX0yF8igTL1OLzy8qzlUjkObUevLFiz5.zYHEIrZDJ9h2I9nx1ixYyirMHPQ6p2CevlSrSicQmvCMD0N8mLm762d_UhXnv17skVFVlB3I_iquHsI0FnmhyDKNysAoED7H5GQkY5vmzaJWH.xTGizRrT4tBLGHgK.PmOrVRBwlDhaaETpmMytHPQrSqdDio6ls1VfnMxHizn2CfJHXUnaKbJvyAKQF1a9h.gl2dZHplJUYtguZmYmts5OGzFTpTa.ajbaAuTeESBwjxhp0fTPDjCXNFl5qTFKL3OqJw72zbi3A9gzk.R_O5G8TCk1yIg4U.R4DohpRhZj08P5QFyHsQgltTyPE2RgnAbJ3ZuCFec5dDycIuvEyXW_iApDcU4MQ4mdXbSzeV5LR7yM.W7V22r2fT5acnDjhPUBGG33VH0lssU_UCL64MjFsSKF5sBbAKF425iZyLJXmTAC3HhYVvKVEJ_p.XJwuvBWiqj6r_G0WLHvfMP3PNtyzZE60G5oDy8PmixRp50Pt3buxb59fawUpgCAzaebcl.cksBGFmIjmwE2WKXHDt47NW_M0"
-    },
-    {
-      "text": "Ashburn: Bank Accounts With 7X the Average Rate",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=u.w9URAGIS9j_WJx4YHt3E5x9fsbTav9DPJY7G44IB3xoYottQQjHqMvr_CEPT7IlLHfsYFqphZDalyOgWaoA8NgA4HMwnwkuL1cX0yF8igTL1OLzy8qzlUjkObUevLFiz5.zYHEIrZDJ9h2I9nx1ixYyirMHPQ6p2CevlSrSicQmvCMD0N8mLm762d_UhXnv17skVFVlB3I_iquHsI0FnmhyDKNysAoED7H5GQkY5vmzaJWH.xTGizRrT4tBLGHgK.PmOrVRBwlDhaaETpmMytHPQrSqdDio6ls1VfnMxHizn2CfJHXUnaKbJvyAKQF1a9h.gl2dZHplJUYtguZmYmts5OGzFTpTa.ajbaAuTeESBwjxhp0fTPDjCXNFl5qTFKL3OqJw72zbi3A9gzk.R_O5G8TCk1yIg4U.R4DohpRhZj08P5QFyHsQgltTyPE2RgnAbJ3ZuCFec5dDycIuvEyXW_iApDcU4MQ4mdXbSzeV5LR7yM.W7V22r2fT5acnDjhPUBGG33VH0lssU_UCL64MjFsSKF5sBbAKF425iZyLJXmTAC3HhYVvKVEJ_p.XJwuvBWiqj6r_G0WLHvfMP3PNtyzZE60G5oDy8PmixRp50Pt3buxb59fawUpgCAzaebcl.cksBGFmIjmwE2WKXHDt47NW_M0"
-    },
-    {
-      "text": "Secret Service Responds to Graphic Hunter Biden Photos, Videos",
-      "url": "/secret-responds-graphic-hunter-biden-203752983.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Fighter Jet Blown Off Carrier Deck in Unexpected Heavy Weather",
-      "url": "/fighter-jet-blown-off-carrier-181558200.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "This portable AC makes a room 20\u00b0 colder in minutes \u2014 and it's on sale ahead of Prime Day",
-      "url": "/midea-portable-air-conditioner-sale-014238009.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=7IZHdcgGIS_5Dbj51Zp5u.pmsAl0NmJdOwas8_e0qHs6nCsD7imd0DmsHmJUrel5fUefWPkVJ5TYTOiN8MWrQoxvuiIsCyfUklcw5vNURtXtnQ2Hih4BI8Yj5hGBe.N4EPu4o2RLBzovADtFxVWchhFjUiTs2a6cbShyWdElNWcM6cK.tl2.7JFcKV9dnm9Gw3rEeEz3p5ZPrn_0K3bvjms6xOzf1I2gFcuS_ZN6EFT0RyZRtBj6ZF8NNr8ijqfO8KVq.H3xKRLhPatbhXRxRqIFPlI6pzSiHZWqQUz3vN4yrlUerXPtmxgRWABfplOHAD5dUUcuWeuaJ5GMDbRFeAsrEGzHABHWPB9XlJ2tJoa3oWK1P1LilePkw2fcJux3uvHJDsPNQoLcVupb.dH_ja9.2rA0s2wvTVT7RZbiOEFtv3zvUauyjhKic95DINL8V1ShxsDUlc_MXaJQZhKmekqNWWz7zsEHg6a4tjUcyjCp.gnuWw9LLvOncFdVaxVf4GNup0tn4RpxPIWM.dUmOzLPaDjB0oWjATE7a00A6kkUBodmkCxUX_5L_DT33srBHu1H36yKqcPGmsbGJJjDeteymKXGpzVaxJSsuQvMPwXCvMRSgCJjepatLYUynzsXQN0JOaK.xvGoHiVPXkESmuNZqDBf0SS1MNLc3Vm4M5by1cfsc0VNtXPGa7X3WuJLsMisBD5sP8tDMcmq_b2YcLFmd_h2aGppGzczB5udumKfgjDob5w2GVVUNLAKmhehwnBynAizl5u89I7tlGtW9znbebgImZA6w99oP0Ankj0BzbUp.PVed9UCtG6GzKyVgsRlsB4aw9xViHfl1GMf4hawND.rn9f2MTr3eYb6xlwTCw4r4Z0wLbHcCiyZ7i3KIP110hDvT9G2sjGHAPG4oNmDG2_2CqlncKgjYqpjMP04XkU0pbhlRGch2e4sTLvel_Z0dXVskNo78TWnLSzhkBnOAo4YfKwAD5p5sVrz3F53wYEzAQmTebCn3ZNavQijj6O4tzOqnXIqCUB.LuSsB4h8uqZBk5yWplCEiwXZ1tZAdRLe63g4xuHoUq9P.e1XvVihKvIGk8gsNPauboWBJlEWWjG2osKvjwzPvXRMUp6a4i9V6kxwqmZuyB0PZlIWY1T_VYJoNUvcLtvHNln97okA_qXA53CbP8YKsKeGjFOKLWurAUHNL1KM.vl0kYyJlMq6xfgkdkeUjd9a6LH8FYvxUhhrwd2dLh_wdf_5JuABC4r2IXyuON5gav4teAAKPWsU0s.xRz9jWUSh7UdoSRDuGn1K7Xj_4So-"
-    },
-    {
-      "text": "Ad",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "System1 | Search Ads",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=7IZHdcgGIS_5Dbj51Zp5u.pmsAl0NmJdOwas8_e0qHs6nCsD7imd0DmsHmJUrel5fUefWPkVJ5TYTOiN8MWrQoxvuiIsCyfUklcw5vNURtXtnQ2Hih4BI8Yj5hGBe.N4EPu4o2RLBzovADtFxVWchhFjUiTs2a6cbShyWdElNWcM6cK.tl2.7JFcKV9dnm9Gw3rEeEz3p5ZPrn_0K3bvjms6xOzf1I2gFcuS_ZN6EFT0RyZRtBj6ZF8NNr8ijqfO8KVq.H3xKRLhPatbhXRxRqIFPlI6pzSiHZWqQUz3vN4yrlUerXPtmxgRWABfplOHAD5dUUcuWeuaJ5GMDbRFeAsrEGzHABHWPB9XlJ2tJoa3oWK1P1LilePkw2fcJux3uvHJDsPNQoLcVupb.dH_ja9.2rA0s2wvTVT7RZbiOEFtv3zvUauyjhKic95DINL8V1ShxsDUlc_MXaJQZhKmekqNWWz7zsEHg6a4tjUcyjCp.gnuWw9LLvOncFdVaxVf4GNup0tn4RpxPIWM.dUmOzLPaDjB0oWjATE7a00A6kkUBodmkCxUX_5L_DT33srBHu1H36yKqcPGmsbGJJjDeteymKXGpzVaxJSsuQvMPwXCvMRSgCJjepatLYUynzsXQN0JOaK.xvGoHiVPXkESmuNZqDBf0SS1MNLc3Vm4M5by1cfsc0VNtXPGa7X3WuJLsMisBD5sP8tDMcmq_b2YcLFmd_h2aGppGzczB5udumKfgjDob5w2GVVUNLAKmhehwnBynAizl5u89I7tlGtW9znbebgImZA6w99oP0Ankj0BzbUp.PVed9UCtG6GzKyVgsRlsB4aw9xViHfl1GMf4hawND.rn9f2MTr3eYb6xlwTCw4r4Z0wLbHcCiyZ7i3KIP110hDvT9G2sjGHAPG4oNmDG2_2CqlncKgjYqpjMP04XkU0pbhlRGch2e4sTLvel_Z0dXVskNo78TWnLSzhkBnOAo4YfKwAD5p5sVrz3F53wYEzAQmTebCn3ZNavQijj6O4tzOqnXIqCUB.LuSsB4h8uqZBk5yWplCEiwXZ1tZAdRLe63g4xuHoUq9P.e1XvVihKvIGk8gsNPauboWBJlEWWjG2osKvjwzPvXRMUp6a4i9V6kxwqmZuyB0PZlIWY1T_VYJoNUvcLtvHNln97okA_qXA53CbP8YKsKeGjFOKLWurAUHNL1KM.vl0kYyJlMq6xfgkdkeUjd9a6LH8FYvxUhhrwd2dLh_wdf_5JuABC4r2IXyuON5gav4teAAKPWsU0s.xRz9jWUSh7UdoSRDuGn1K7Xj_4So-"
-    },
-    {
-      "text": "Get A Beautiful Smile With Cheap Invisalign Offers",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=7IZHdcgGIS_5Dbj51Zp5u.pmsAl0NmJdOwas8_e0qHs6nCsD7imd0DmsHmJUrel5fUefWPkVJ5TYTOiN8MWrQoxvuiIsCyfUklcw5vNURtXtnQ2Hih4BI8Yj5hGBe.N4EPu4o2RLBzovADtFxVWchhFjUiTs2a6cbShyWdElNWcM6cK.tl2.7JFcKV9dnm9Gw3rEeEz3p5ZPrn_0K3bvjms6xOzf1I2gFcuS_ZN6EFT0RyZRtBj6ZF8NNr8ijqfO8KVq.H3xKRLhPatbhXRxRqIFPlI6pzSiHZWqQUz3vN4yrlUerXPtmxgRWABfplOHAD5dUUcuWeuaJ5GMDbRFeAsrEGzHABHWPB9XlJ2tJoa3oWK1P1LilePkw2fcJux3uvHJDsPNQoLcVupb.dH_ja9.2rA0s2wvTVT7RZbiOEFtv3zvUauyjhKic95DINL8V1ShxsDUlc_MXaJQZhKmekqNWWz7zsEHg6a4tjUcyjCp.gnuWw9LLvOncFdVaxVf4GNup0tn4RpxPIWM.dUmOzLPaDjB0oWjATE7a00A6kkUBodmkCxUX_5L_DT33srBHu1H36yKqcPGmsbGJJjDeteymKXGpzVaxJSsuQvMPwXCvMRSgCJjepatLYUynzsXQN0JOaK.xvGoHiVPXkESmuNZqDBf0SS1MNLc3Vm4M5by1cfsc0VNtXPGa7X3WuJLsMisBD5sP8tDMcmq_b2YcLFmd_h2aGppGzczB5udumKfgjDob5w2GVVUNLAKmhehwnBynAizl5u89I7tlGtW9znbebgImZA6w99oP0Ankj0BzbUp.PVed9UCtG6GzKyVgsRlsB4aw9xViHfl1GMf4hawND.rn9f2MTr3eYb6xlwTCw4r4Z0wLbHcCiyZ7i3KIP110hDvT9G2sjGHAPG4oNmDG2_2CqlncKgjYqpjMP04XkU0pbhlRGch2e4sTLvel_Z0dXVskNo78TWnLSzhkBnOAo4YfKwAD5p5sVrz3F53wYEzAQmTebCn3ZNavQijj6O4tzOqnXIqCUB.LuSsB4h8uqZBk5yWplCEiwXZ1tZAdRLe63g4xuHoUq9P.e1XvVihKvIGk8gsNPauboWBJlEWWjG2osKvjwzPvXRMUp6a4i9V6kxwqmZuyB0PZlIWY1T_VYJoNUvcLtvHNln97okA_qXA53CbP8YKsKeGjFOKLWurAUHNL1KM.vl0kYyJlMq6xfgkdkeUjd9a6LH8FYvxUhhrwd2dLh_wdf_5JuABC4r2IXyuON5gav4teAAKPWsU0s.xRz9jWUSh7UdoSRDuGn1K7Xj_4So-"
-    },
-    {
-      "text": "Armed robbers pistol-whip man to get his $60,000 Rolex at 99 Ranch in Rowland Heights",
-      "url": "/armed-robbers-pistol-whip-man-173424600.html"
-    },
-    {
-      "text": "Couple pistol-whipped during Rowland Heights robberyKTTV",
-      "url": "/couple-pistol-whipped-during-rowland-142125073.html"
-    },
-    {
-      "text": "$60,000 Rolex stolen in Los Angeles County robberyKTLA - Los Angeles",
-      "url": "/60-000-rolex-stolen-los-160200402.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Why it could be the end for prostitution in Amsterdam's Red Light District",
-      "url": "/why-could-end-prostitution-amsterdams-205015545.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Leader of Russian-occupied Ukrainian town killed by car bomb -TASS",
-      "url": "/leader-russian-occupied-ukrainian-town-175851894.html"
-    },
-    {
-      "text": "Russia deploys Ukrainian residents of Russian-occupied Luhansk Oblast on the battlefield and kills civilians in Donetsk Oblast  heads of Oblast Military AdministrationsUkrayinska Pravda",
-      "url": "/russia-deploys-ukrainian-residents-russian-051751258.html"
-    },
-    {
-      "text": "Explosions in occupied Kherson  mass mediaUkrayinska Pravda",
-      "url": "/explosions-occupied-kherson-mass-media-143110443.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Will AI one day become sentient?",
-      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
-    },
-    {
-      "text": "Read the 360",
-      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
-    }
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

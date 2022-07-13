@@ -1,5 +1,5 @@
 {
-  "created": 1657628658,
+  "created": 1657674457,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/theintercept-2022",
@@ -3040,31 +3040,73 @@
       "sha1": "f987f1e697f09a99b39a5919fdcc62005b33a8b8"
     },
     {
+      "name": "theintercept-2022-07-12T13:35:34.419038-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657647339",
+      "size": "6023",
+      "md5": "0538f848a16b58443f9ef72e33d38189",
+      "crc32": "b092c1df",
+      "sha1": "292358c6fcc980484a894249a40069c64db0577d",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-07-12T13:35:34.419038-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657647340",
+      "size": "6625",
+      "md5": "de6cf6fac79302e6e1d11448ad2896b3",
+      "crc32": "2f1f3cea",
+      "sha1": "41c0c7513d1e1baa85f560760bd3ff7a420b534e",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-07-12T13:35:34.419038-04:00.jpg",
+      "source": "original",
+      "mtime": "1657647337",
+      "size": "295326",
+      "md5": "1e40b55f5bf51392e569c5af035c0e87",
+      "crc32": "e4556314",
+      "sha1": "65859c5a3b8f769df510ba8d3b16f5f7df7744a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintercept-2022-07-12T13:35:34.419038-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-07-12T13:35:34.419038-04:00.jpg",
+      "mtime": "1657647487",
+      "size": "10407",
+      "md5": "9057bb83f881deb26235c157cf351bc9",
+      "crc32": "5bd67c7c",
+      "sha1": "f987f1e697f09a99b39a5919fdcc62005b33a8b8"
+    },
+    {
       "name": "theintercept-2022_archive.torrent",
       "source": "metadata",
-      "btih": "21ad77a98f93d82869f9652e91598708f5486ce4",
-      "mtime": "1657596464",
-      "size": "63108",
-      "md5": "863101083fb5197994a771865b2e0903",
-      "crc32": "595791a1",
-      "sha1": "c33a5501b40691e74dc01d8159b89bb2350e05bc",
+      "btih": "70e3036178eeb34ccad18fe4701ed962218cb89e",
+      "mtime": "1657647529",
+      "size": "63972",
+      "md5": "9045f2de5495ab90cd195171abdcb2e9",
+      "crc32": "0704c6d7",
+      "sha1": "70e7c850e5f5f9fe4a7951507a3dfe6c3a612869",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theintercept-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2342efee1527f783cf8a14f24c50a46",
+      "md5": "eb562587fc7a80a82704e03a23cf9322",
       "summation": "md5"
     },
     {
       "name": "theintercept-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657596407",
-      "size": "352256",
-      "md5": "7779d6b913fb3154cbeddcb4f4aa074e",
-      "crc32": "0b75a167",
-      "sha1": "bdd4ada8711c9b3a613da4ccfcacf750799da904",
+      "mtime": "1657647344",
+      "size": "356352",
+      "md5": "23e942bab7435fe2708e6a14472a78dc",
+      "crc32": "4f00ef07",
+      "sha1": "444bdffefec12cf6da352648220a5587c060f11b",
       "format": "Metadata"
     },
     {
@@ -3078,9 +3120,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 293,
-  "item_last_updated": 1657596464,
-  "item_size": 19162605,
+  "files_count": 297,
+  "item_last_updated": 1657647529,
+  "item_size": 19485946,
   "metadata": {
     "identifier": "theintercept-2022",
     "collection": [
@@ -3097,7 +3139,7 @@
     "publicdate": "2022-06-19 23:28:41",
     "addeddate": "2022-06-19 23:28:41"
   },
-  "server": "ia902503.us.archive.org",
+  "server": "ia802503.us.archive.org",
   "theintercept-2022": [
     {
       "text": "",
@@ -3364,9 +3406,9 @@
       "url": "/source/#securedrop"
     }
   ],
-  "uniq": 275764943,
+  "uniq": 446289794,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1657628377,
+  "created": 1657674223,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/14/items/nextcityorg-2022",
@@ -394,31 +394,73 @@
       "sha1": "777e69c67ebf8f99207d3c7ec54f45186d519aa0"
     },
     {
+      "name": "nextcityorg-2022-07-12T13:45:48.155770-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657647952",
+      "size": "18572",
+      "md5": "538486f9cb6694214007f3ff3860ae4c",
+      "crc32": "317d9f1b",
+      "sha1": "2a9b0b8c2c1f3667aa500c1c3f2562a99f714c7f",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-07-12T13:45:48.155770-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657647954",
+      "size": "19681",
+      "md5": "efc03cbf1dfaf1f0754a8e11e2ba33cc",
+      "crc32": "92d7969b",
+      "sha1": "bad039cfefd625d75e2e9b5651b9702b73f292c8",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-07-12T13:45:48.155770-04:00.jpg",
+      "source": "original",
+      "mtime": "1657647950",
+      "size": "375506",
+      "md5": "223117696b62be0451f696f87d6b0129",
+      "crc32": "a611808d",
+      "sha1": "28a6fc7d0cc2d6ec05a12d5c78e93a131849b20b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nextcityorg-2022-07-12T13:45:48.155770-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nextcityorg-2022-07-12T13:45:48.155770-04:00.jpg",
+      "mtime": "1657648010",
+      "size": "11281",
+      "md5": "66b34872e3275cd5d78c31876818b266",
+      "crc32": "2f319ae9",
+      "sha1": "9c889c4bb6f542c4237ef1658a3f38f9690e3a0b"
+    },
+    {
       "name": "nextcityorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "288a266f537e3ac6e831cf18a1c7c247aefe6a53",
-      "mtime": "1657600496",
-      "size": "9352",
-      "md5": "5b8c4a20da12ffcd711baea6b5ffca36",
-      "crc32": "b1f075e3",
-      "sha1": "0eba0d31e59f3725368f32e599e0cf741fa58078",
+      "btih": "408a18548af2438c768ac9c00041c9763ec4d67a",
+      "mtime": "1657648015",
+      "size": "10214",
+      "md5": "2bf84788c6dcbc89af91343f1a5c3c6c",
+      "crc32": "48e9c0fe",
+      "sha1": "6c74ce6d02bb710104024fb6eb3e9c837227238e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nextcityorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "51e1c1926dff594f5435d2b4631e98b7",
+      "md5": "e40bf2be22a936c897bd804e824501d1",
       "summation": "md5"
     },
     {
       "name": "nextcityorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657600453",
-      "size": "57344",
-      "md5": "5abb0c83dc3c42ee56657a1b08055740",
-      "crc32": "e16d4eee",
-      "sha1": "5d81e4032677b9229dddee38be1264b78fe65870",
+      "mtime": "1657647958",
+      "size": "61440",
+      "md5": "0862f7d8ea389084543723d57dee01ed",
+      "crc32": "9389a6a4",
+      "sha1": "d0c3de57502622213aaa4a65911a2641957adc44",
       "format": "Metadata"
     },
     {
@@ -432,9 +474,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 41,
-  "item_last_updated": 1657600496,
-  "item_size": 3625310,
+  "files_count": 45,
+  "item_last_updated": 1657648015,
+  "item_size": 4055308,
   "metadata": {
     "identifier": "nextcityorg-2022",
     "collection": [
@@ -453,7 +495,7 @@
   },
   "nextcityorg-2022": [
     {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\tMenu\n\t\t\t\t",
+      "text": "Menu",
       "url": "#"
     },
     {
@@ -461,7 +503,11 @@
       "url": "/about"
     },
     {
-      "text": "Donate",
+      "text": "Login",
+      "url": "/login"
+    },
+    {
+      "text": "Join",
       "url": "/membership"
     },
     {
@@ -489,8 +535,12 @@
       "url": "https://nextcity.org/app"
     },
     {
-      "text": "Donate",
+      "text": "Become A Member",
       "url": "https://nextcity.org/membership"
+    },
+    {
+      "text": "Donate",
+      "url": "https://nextcity.org/donate"
     },
     {
       "text": "Login",
@@ -645,32 +695,32 @@
       "url": "#"
     },
     {
-      "text": "\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFacing an Energy Crisis, a Syrian Engineer Designed Electric Tuk-Tuks\n\t\t\t\t\t\tThe electric-powered tuk-tuks are a hit among university students, many of whom had stopped attending classes due to the exorbitant costs of cabs.\n\t\t\t\t\t\n\t\t\t\n\t\t",
+      "text": "\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tHow Denver Is Working to Make Its Cannabis Economy More Equitable\n\t\t\t\t\t\tThe city\u2019s new \u201ctargeted entrepreneurial assistance program\u201d is designed to boost marijuana\u00a0business ownership among Denverites of color.\n\t\t\t\t\t\n\t\t\t\n\t\t",
+      "url": "https://nextcity.org/urbanist-news/how-denver-is-working-to-make-its-cannabis-economy-more-equitable"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\"}\n\t\t\t\t\t\t",
+      "url": "https://nextcity.org/urbanist-news/supreme-court-ruling-how-cities-can-lead-the-fight-against-climate-change"
+    },
+    {
+      "text": "After The Supreme Court Ruling, Here\u2019s How Cities Can Lead the Fight Against Climate Change",
+      "url": "https://nextcity.org/urbanist-news/supreme-court-ruling-how-cities-can-lead-the-fight-against-climate-change"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\"}\n\t\t\t\t\t\t",
+      "url": "https://nextcity.org/urbanist-news/abolitionists-push-back-against-new-york-citys-proposed-plan-for-a-feminist"
+    },
+    {
+      "text": "Abolitionists Push Back Against New York City\u2019s Proposed Plan For a \u2018Feminist Jail\u2019",
+      "url": "https://nextcity.org/urbanist-news/abolitionists-push-back-against-new-york-citys-proposed-plan-for-a-feminist"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\"}\n\t\t\t\t\t\t",
       "url": "https://nextcity.org/urbanist-news/facing-an-energy-crisis-a-syrian-engineer-designed-electric-tuk-tuks"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\"}\n\t\t\t\t\t\t",
-      "url": "https://nextcity.org/urbanist-news/how-katowice-poland-went-from-coal-city-to-culture-and-conference-hub"
-    },
-    {
-      "text": "How Katowice, Poland Went From Coal City to Culture And Conference Hub",
-      "url": "https://nextcity.org/urbanist-news/how-katowice-poland-went-from-coal-city-to-culture-and-conference-hub"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\"}\n\t\t\t\t\t\t",
-      "url": "https://nextcity.org/urbanist-news/economics-in-brief-minimum-wage-hikes-will-affect-millions-of-workers"
-    },
-    {
-      "text": "Economics in Brief: Minimum Wage Hikes Will Affect Millions of Workers",
-      "url": "https://nextcity.org/urbanist-news/economics-in-brief-minimum-wage-hikes-will-affect-millions-of-workers"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\"}\n\t\t\t\t\t\t",
-      "url": "https://nextcity.org/urbanist-news/housing-in-brief-landlords-utility-bills-st-paul-rent-control"
-    },
-    {
-      "text": "Housing in Brief: Landlords Are Raising Utility Bills To Get Around St. Paul\u2019s Rent Control Laws",
-      "url": "https://nextcity.org/urbanist-news/housing-in-brief-landlords-utility-bills-st-paul-rent-control"
+      "text": "Facing an Energy Crisis, a Syrian Engineer Designed Electric Tuk-Tuks",
+      "url": "https://nextcity.org/urbanist-news/facing-an-energy-crisis-a-syrian-engineer-designed-electric-tuk-tuks"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\"}\n\t\t\t\t\t\t",
@@ -681,12 +731,16 @@
       "url": "https://nextcity.org/urbanist-news/how-the-cuyahoga-river-got-its-otters-back"
     },
     {
-      "text": "Donate",
-      "url": "https://nextcity.org/membership"
+      "text": "Abolitionists Push Back Against New York City\u2019s Proposed Plan For a \u2018Feminist Jail\u2019",
+      "url": "https://nextcity.org/urbanist-news/abolitionists-push-back-against-new-york-citys-proposed-plan-for-a-feminist"
     },
     {
-      "text": "Latest",
-      "url": "/urbanist-news"
+      "text": "How Denver Is Working to Make Its Cannabis Economy More Equitable",
+      "url": "https://nextcity.org/urbanist-news/how-denver-is-working-to-make-its-cannabis-economy-more-equitable"
+    },
+    {
+      "text": "After The Supreme Court Ruling, Here\u2019s How Cities Can Lead the Fight Against Climate Change",
+      "url": "https://nextcity.org/urbanist-news/supreme-court-ruling-how-cities-can-lead-the-fight-against-climate-change"
     },
     {
       "text": "How Katowice, Poland Went From Coal City to Culture And Conference Hub",
@@ -705,100 +759,32 @@
       "url": "https://nextcity.org/urbanist-news/for-kashmirs-local-artisans-a-craft-safari-offers-a-lifeline"
     },
     {
-      "text": "\u2018Farmers Without a Farm\u2019: Latino Immigrants Are Putting Down Roots With Urban Gardens",
-      "url": "https://nextcity.org/urbanist-news/Latino-Immigrants-Farmers-Urban-Gardens-Boston"
+      "text": "Become A Member",
+      "url": "/membership"
     },
     {
-      "text": "Hear Us: Reproductive Justice for All Means Centering Black Women",
-      "url": "https://nextcity.org/urbanist-news/hear-us-reproductive-justice-for-all-means-centering-black-women"
+      "text": "Login",
+      "url": "/login"
     },
     {
-      "text": "Evanston\u2019s First \u201cReparations\u201d Payments Have Gone Out. Here\u2019s How It Was Spent.",
-      "url": "https://nextcity.org/urbanist-news/evanstons-first-reparations-payments-have-gone-out-heres-how-it-was-spent"
-    },
-    {
-      "text": "The Next City Podcast",
-      "url": "/podcast"
+      "text": "Upcoming Event",
+      "url": "/events"
     },
     {
       "text": "",
-      "url": "https://nextcity.org/podcast/episode/can-this-beer-stop-lesbian-bars-from-going-extinct"
+      "url": "https://nextcity.org/events/detail/a-path-to-equitable-economic-development"
     },
     {
-      "text": "Can This Beer Stop Lesbian Bars From Going Extinct?",
-      "url": "https://nextcity.org/podcast/episode/can-this-beer-stop-lesbian-bars-from-going-extinct"
+      "text": "A Path To Equitable Economic Development",
+      "url": "https://nextcity.org/events/detail/a-path-to-equitable-economic-development"
     },
     {
-      "text": "",
-      "url": "https://nextcity.org/podcast/episode/the-case-for-guaranteed-income-for-transgender-americans"
+      "text": "Learn More",
+      "url": "https://nextcity.org/events/detail/a-path-to-equitable-economic-development"
     },
     {
-      "text": "The Case for Guaranteed Income for Transgender Americans",
-      "url": "https://nextcity.org/podcast/episode/the-case-for-guaranteed-income-for-transgender-americans"
-    },
-    {
-      "text": "",
-      "url": "https://nextcity.org/podcast/episode/where-overdue-library-books-became-a-thing-of-the-past"
-    },
-    {
-      "text": "Where Overdue Library Books Became a Thing of the Past",
-      "url": "https://nextcity.org/podcast/episode/where-overdue-library-books-became-a-thing-of-the-past"
-    },
-    {
-      "text": "The Bottom Line",
-      "url": "https://nextcity.org/thebottomline"
-    },
-    {
-      "text": "",
-      "url": "https://nextcity.org/urbanist-news/economics-in-brief-minimum-wage-hikes-will-affect-millions-of-workers"
-    },
-    {
-      "text": "Economics in Brief: Minimum Wage Hikes Will Affect Millions of Workers",
-      "url": "https://nextcity.org/urbanist-news/economics-in-brief-minimum-wage-hikes-will-affect-millions-of-workers"
-    },
-    {
-      "text": "",
-      "url": "https://nextcity.org/urbanist-news/the-fed-unbound-author-qa"
-    },
-    {
-      "text": "How Wall Street Took Banking Away From Main Street",
-      "url": "https://nextcity.org/urbanist-news/the-fed-unbound-author-qa"
-    },
-    {
-      "text": "",
-      "url": "/thebottomline/newsletter"
-    },
-    {
-      "text": "Sign Up: The Bottom Line Newsletter By Oscar Perry Abello",
-      "url": "/thebottomline/newsletter"
-    },
-    {
-      "text": "Backyard",
-      "url": "https://nextcity.org/backyard"
-    },
-    {
-      "text": "",
-      "url": "https://nextcity.org/urbanist-news/evanstons-first-reparations-payments-have-gone-out-heres-how-it-was-spent"
-    },
-    {
-      "text": "Evanston\u2019s First \u201cReparations\u201d Payments Have Gone Out. Here\u2019s How It Was Spent.",
-      "url": "https://nextcity.org/urbanist-news/evanstons-first-reparations-payments-have-gone-out-heres-how-it-was-spent"
-    },
-    {
-      "text": "",
-      "url": "https://nextcity.org/urbanist-news/housing-in-brief-landlords-utility-bills-st-paul-rent-control"
-    },
-    {
-      "text": "Housing in Brief: Landlords Are Raising Utility Bills To Get Around St. Paul\u2019s Rent Control Laws",
-      "url": "https://nextcity.org/urbanist-news/housing-in-brief-landlords-utility-bills-st-paul-rent-control"
-    },
-    {
-      "text": "",
-      "url": "/backyard/newsletter"
-    },
-    {
-      "text": "Sign Up: The Backyard Newsletter by Roshan Abraham",
-      "url": "/backyard/newsletter"
+      "text": "RSVP Now",
+      "url": "https://nextcity.org/events/rsvp/a-path-to-equitable-economic-development"
     },
     {
       "text": "",
@@ -857,8 +843,108 @@
       "url": "/webinars"
     },
     {
+      "text": "The Next City Podcast",
+      "url": "/podcast"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/podcast/episode/can-this-beer-stop-lesbian-bars-from-going-extinct"
+    },
+    {
+      "text": "Can This Beer Stop Lesbian Bars From Going Extinct?",
+      "url": "https://nextcity.org/podcast/episode/can-this-beer-stop-lesbian-bars-from-going-extinct"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/podcast/episode/the-case-for-guaranteed-income-for-transgender-americans"
+    },
+    {
+      "text": "The Case for Guaranteed Income for Transgender Americans",
+      "url": "https://nextcity.org/podcast/episode/the-case-for-guaranteed-income-for-transgender-americans"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/podcast/episode/where-overdue-library-books-became-a-thing-of-the-past"
+    },
+    {
+      "text": "Where Overdue Library Books Became a Thing of the Past",
+      "url": "https://nextcity.org/podcast/episode/where-overdue-library-books-became-a-thing-of-the-past"
+    },
+    {
+      "text": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/next-city/id1589481246"
+    },
+    {
+      "text": "Spotify",
+      "url": "https://open.spotify.com/show/7crfHpG3IMmkBRhEC8ZOl7?si=56b098671e6245ad"
+    },
+    {
+      "text": "The Bottom Line",
+      "url": "/thebottomline"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/how-denver-is-working-to-make-its-cannabis-economy-more-equitable"
+    },
+    {
+      "text": "How Denver Is Working to Make Its Cannabis Economy More Equitable",
+      "url": "https://nextcity.org/urbanist-news/how-denver-is-working-to-make-its-cannabis-economy-more-equitable"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/economics-in-brief-minimum-wage-hikes-will-affect-millions-of-workers"
+    },
+    {
+      "text": "Economics in Brief: Minimum Wage Hikes Will Affect Millions of Workers",
+      "url": "https://nextcity.org/urbanist-news/economics-in-brief-minimum-wage-hikes-will-affect-millions-of-workers"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/the-fed-unbound-author-qa"
+    },
+    {
+      "text": "How Wall Street Took Banking Away From Main Street",
+      "url": "https://nextcity.org/urbanist-news/the-fed-unbound-author-qa"
+    },
+    {
+      "text": "Sign Up: The Bottom Line Newsletter By Oscar Perry Abello",
+      "url": "/thebottomline/newsletter"
+    },
+    {
+      "text": "Backyard",
+      "url": "/backyard"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/evanstons-first-reparations-payments-have-gone-out-heres-how-it-was-spent"
+    },
+    {
+      "text": "Evanston\u2019s First \u201cReparations\u201d Payments Have Gone Out. Here\u2019s How It Was Spent.",
+      "url": "https://nextcity.org/urbanist-news/evanstons-first-reparations-payments-have-gone-out-heres-how-it-was-spent"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/housing-in-brief-landlords-utility-bills-st-paul-rent-control"
+    },
+    {
+      "text": "Housing in Brief: Landlords Are Raising Utility Bills To Get Around St. Paul\u2019s Rent Control Laws",
+      "url": "https://nextcity.org/urbanist-news/housing-in-brief-landlords-utility-bills-st-paul-rent-control"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/housing-in-brief-philadelphia-has-22000-illegal-evictions-a-year"
+    },
+    {
+      "text": "Housing in Brief: Philadelphia Has 22,000 Illegal Evictions a Year",
+      "url": "https://nextcity.org/urbanist-news/housing-in-brief-philadelphia-has-22000-illegal-evictions-a-year"
+    },
+    {
+      "text": "Sign Up: The Backyard Newsletter by Roshan Abraham",
+      "url": "/backyard/newsletter"
+    },
+    {
       "text": "Transportation",
-      "url": "https://nextcity.org/transportation"
+      "url": "/transportation"
     },
     {
       "text": "",
@@ -877,16 +963,28 @@
       "url": "https://nextcity.org/urbanist-news/branded-pothole-repairs-private-companies-johannesburg-south-africa"
     },
     {
-      "text": "Upcoming Events",
-      "url": "/events"
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/we-need-to-stop-traffic-deaths-but-is-policing-really-the-answer"
     },
     {
-      "text": "\n\t\t\t\t\t | Sponsored\n\t\t\t\t\tA Path To Equitable Economic Development\n\t\t\t\t\tThursday, July 28, 2022\n\t\t\t\t",
-      "url": "https://nextcity.org/events/detail/a-path-to-equitable-economic-development"
+      "text": "We Need to Stop Traffic Deaths. But Is Policing Really the Answer?",
+      "url": "https://nextcity.org/urbanist-news/we-need-to-stop-traffic-deaths-but-is-policing-really-the-answer"
+    },
+    {
+      "text": "Sign up for our Transportation & Infrastructure digest",
+      "url": "/newsletter/transportation"
     },
     {
       "text": "Arts & Culture",
-      "url": "https://nextcity.org/culture"
+      "url": "/culture"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/abolitionists-push-back-against-new-york-citys-proposed-plan-for-a-feminist"
+    },
+    {
+      "text": "Abolitionists Push Back Against New York City\u2019s Proposed Plan For a \u2018Feminist Jail\u2019",
+      "url": "https://nextcity.org/urbanist-news/abolitionists-push-back-against-new-york-citys-proposed-plan-for-a-feminist"
     },
     {
       "text": "",
@@ -905,16 +1003,20 @@
       "url": "https://nextcity.org/urbanist-news/for-kashmirs-local-artisans-a-craft-safari-offers-a-lifeline"
     },
     {
-      "text": "",
-      "url": "https://nextcity.org/urbanist-news/Latino-Immigrants-Farmers-Urban-Gardens-Boston"
-    },
-    {
-      "text": "\u2018Farmers Without a Farm\u2019: Latino Immigrants Are Putting Down Roots With Urban Gardens",
-      "url": "https://nextcity.org/urbanist-news/Latino-Immigrants-Farmers-Urban-Gardens-Boston"
+      "text": "Sign up for our Arts & Culture digest",
+      "url": "/newsletter/culture"
     },
     {
       "text": "Environment",
-      "url": "https://nextcity.org/environment"
+      "url": "/environment"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/supreme-court-ruling-how-cities-can-lead-the-fight-against-climate-change"
+    },
+    {
+      "text": "After The Supreme Court Ruling, Here\u2019s How Cities Can Lead the Fight Against Climate Change",
+      "url": "https://nextcity.org/urbanist-news/supreme-court-ruling-how-cities-can-lead-the-fight-against-climate-change"
     },
     {
       "text": "",
@@ -933,12 +1035,8 @@
       "url": "https://nextcity.org/urbanist-news/Latino-Immigrants-Farmers-Urban-Gardens-Boston"
     },
     {
-      "text": "",
-      "url": "https://nextcity.org/urbanist-news/how-cities-are-cutting-meat-consumption-to-help-meet-climate-goals"
-    },
-    {
-      "text": "How Cities Are Cutting Meat Consumption to Help Meet Climate Goals",
-      "url": "https://nextcity.org/urbanist-news/how-cities-are-cutting-meat-consumption-to-help-meet-climate-goals"
+      "text": "Sign up for our Environment & Energy digest",
+      "url": "/newsletter/environment"
     },
     {
       "text": "View all jobs",
@@ -949,63 +1047,7 @@
       "url": "/about"
     },
     {
-      "text": "About Next City",
-      "url": "https://nextcity.org/about"
-    },
-    {
-      "text": "News",
-      "url": "https://nextcity.org/press"
-    },
-    {
-      "text": "Contact",
-      "url": "https://nextcity.org/about/contact"
-    },
-    {
-      "text": "Privacy",
-      "url": "https://nextcity.org/privacy"
-    },
-    {
-      "text": "Terms",
-      "url": "https://nextcity.org/terms"
-    },
-    {
-      "text": "Donate",
-      "url": "https://nextcity.org/membership"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://nextcity.org/mediakit"
-    },
-    {
-      "text": "Post a Job Listing",
-      "url": "https://nextcity.org/jobs"
-    },
-    {
-      "text": "Find A Job",
-      "url": "https://jobs.nextcity.org"
-    },
-    {
-      "text": "Pitch a Story",
-      "url": "https://nextcity.org/pitch"
-    },
-    {
-      "text": "Ebooks",
-      "url": "https://nextcity.org/ebooks"
-    },
-    {
-      "text": "Events",
-      "url": "https://nextcity.org/events"
-    },
-    {
-      "text": "Vanguard",
-      "url": "https://nextcity.org/vanguard"
-    },
-    {
-      "text": "Login",
-      "url": "https://nextcity.org/login"
-    },
-    {
-      "text": "Donate",
+      "text": "Become A Member",
       "url": "/membership"
     },
     {
@@ -1033,6 +1075,86 @@
       "url": "https://nextcity.org/app"
     },
     {
+      "text": "Latest News",
+      "url": "https://nextcity.org/urbanist-news"
+    },
+    {
+      "text": "Upcoming Events",
+      "url": "https://nextcity.org/events"
+    },
+    {
+      "text": "Webinar Library",
+      "url": "https://nextcity.org/webinars"
+    },
+    {
+      "text": "Ebook Library",
+      "url": "https://nextcity.org/ebooks"
+    },
+    {
+      "text": "Podcast",
+      "url": "https://nextcity.org/podcast"
+    },
+    {
+      "text": "Features",
+      "url": "https://nextcity.org/features"
+    },
+    {
+      "text": "Topics",
+      "url": "https://nextcity.org/topics"
+    },
+    {
+      "text": "Vanguard",
+      "url": "https://nextcity.org/vanguard"
+    },
+    {
+      "text": "Shop",
+      "url": "https://shop.nextcity.org"
+    },
+    {
+      "text": "Donate",
+      "url": "https://nextcity.org/donate"
+    },
+    {
+      "text": "About Next City",
+      "url": "https://nextcity.org/about"
+    },
+    {
+      "text": "Contact",
+      "url": "https://nextcity.org/about/contact"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://nextcity.org/mediakit"
+    },
+    {
+      "text": "Pitch a Story",
+      "url": "https://nextcity.org/pitch"
+    },
+    {
+      "text": "Press Room",
+      "url": "https://nextcity.org/press"
+    },
+    {
+      "text": "Login",
+      "url": "https://nextcity.org/login"
+    },
+    {
+      "text": "Post a Job Listing",
+      "url": "https://nextcity.org/jobs"
+    },
+    {
+      "text": "Find A Job",
+      "url": "https://jobs.nextcity.org"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://nextcity.org/privacy"
+    },
+    {
+      "text": "Terms",
+      "url": "https://nextcity.org/terms"
+    },
+    {
       "text": "\u00d7",
       "url": "#"
     },
@@ -1046,7 +1168,7 @@
     }
   ],
   "server": "ia801504.us.archive.org",
-  "uniq": 836750006,
+  "uniq": 1784809189,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"

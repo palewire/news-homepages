@@ -1,5 +1,5 @@
 {
-  "created": 1657628303,
+  "created": 1657674154,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/11/items/mailonline-2022",
@@ -2210,31 +2210,53 @@
       "sha1": "b0c6515cc5aa4f21371074ab4a214d9bed68aeb6"
     },
     {
+      "name": "mailonline-2022-07-12T17:02:52.542488+01:00.jpg",
+      "source": "original",
+      "mtime": "1657641777",
+      "size": "396276",
+      "md5": "7c8c044821106572b4da24f34dc5ebef",
+      "crc32": "b09dc2a0",
+      "sha1": "dd2bf9bd5d7947cd91f830fb12bec94ff9bf8544",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mailonline-2022-07-12T17:02:52.542488+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mailonline-2022-07-12T17:02:52.542488+01:00.jpg",
+      "mtime": "1657642796",
+      "size": "10810",
+      "md5": "ba0c7b52f18f7d86691ed300c4cbd08a",
+      "crc32": "2a14b2bf",
+      "sha1": "0bbb35e54833d26d50a4a623c766583b4dc72822"
+    },
+    {
       "name": "mailonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "039b70e89d898cf6719b949c28223a114fa62122",
-      "mtime": "1657618130",
-      "size": "46983",
-      "md5": "c056f86cc6fd06987e7618f0f30356f8",
-      "crc32": "071604bd",
-      "sha1": "fc5f33cc9a3e988ba310d9dab77772f648179335",
+      "btih": "ce9e6fa615abbe2b110efcd84d4f810134c3b3d6",
+      "mtime": "1657642840",
+      "size": "47412",
+      "md5": "da2a4f5d2d1e9b3e12584215ce5729e1",
+      "crc32": "5e034d7b",
+      "sha1": "0daf8f373e8a00a78019c4539c9793e245db0c89",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b84ea7851ea3adb78f43a79001a1efc6",
+      "md5": "ed5df7530395ef028c1ef71cab26115b",
       "summation": "md5"
     },
     {
       "name": "mailonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657618074",
+      "mtime": "1657642166",
       "size": "253952",
-      "md5": "de1073ea159a4c8b4fbcb4e99c83325f",
-      "crc32": "86e17568",
-      "sha1": "88661a6a17257d1fd5832e722ef052814dce25cb",
+      "md5": "da2fab4b6334e783d9bf914b1861bbfe",
+      "crc32": "199c94db",
+      "sha1": "976a53719b1d967e179af1c44e1f8e236dc382df",
       "format": "Metadata"
     },
     {
@@ -2248,9 +2270,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 213,
-  "item_last_updated": 1657618130,
-  "item_size": 46652241,
+  "files_count": 215,
+  "item_last_updated": 1657642840,
+  "item_size": 47059756,
   "mailonline-2022": {
     "role": "WebArea",
     "name": "UK Home | Daily Mail Online",
@@ -7055,7 +7077,7 @@
     "addeddate": "2022-06-29 18:55:39"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 930159085,
+  "uniq": 303260127,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

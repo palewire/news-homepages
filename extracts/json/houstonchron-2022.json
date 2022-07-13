@@ -1,5 +1,5 @@
 {
-  "created": 1657628120,
+  "created": 1657673989,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/25/items/houstonchron-2022",
@@ -678,31 +678,73 @@
       "sha1": "7815ccdc06a018c2763e9dc54907d7277b705ad3"
     },
     {
+      "name": "houstonchron-2022-07-12T08:47:57.222661-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657633681",
+      "size": "65460",
+      "md5": "8a950f544a49854a302ca11e33907b19",
+      "crc32": "ea43b489",
+      "sha1": "9672ea6333340c57bb7f241933374bbfc019dbcd",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-07-12T08:47:57.222661-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657633683",
+      "size": "81537",
+      "md5": "82c530fdd9586fb388c5f02ab08508b9",
+      "crc32": "f36470b9",
+      "sha1": "0ea9c34ce14e2b287381972d795747326a123c2e",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-07-12T08:47:57.222661-05:00.jpg",
+      "source": "original",
+      "mtime": "1657633679",
+      "size": "327878",
+      "md5": "800aa157b75781dac2fd0d84ce8ffab2",
+      "crc32": "da050876",
+      "sha1": "4cfb888af6496915878663640c3e678d589f60b3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houstonchron-2022-07-12T08:47:57.222661-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houstonchron-2022-07-12T08:47:57.222661-05:00.jpg",
+      "mtime": "1657633758",
+      "size": "10437",
+      "md5": "0860e6aa290963c87319d274ada1a32f",
+      "crc32": "63c10f80",
+      "sha1": "980c687af53e26e7aa20107f0ab5cd28d65b88e5"
+    },
+    {
       "name": "houstonchron-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7554854ea18a2581a8f3df4071d6023636265c52",
-      "mtime": "1657587217",
-      "size": "15212",
-      "md5": "e46e76ee169b09fecc533c03965ef6ca",
-      "crc32": "66a6b38e",
-      "sha1": "164b6add741beb08dd6bc302f336bc9c80c4d229",
+      "btih": "4f052f7172463f965028ce13f2af818ab1e096df",
+      "mtime": "1657633774",
+      "size": "16078",
+      "md5": "fcf33ccc8276abc9bb6e3a04a65a5494",
+      "crc32": "bd9d5aed",
+      "sha1": "2994e07e08a19da2c4c01e7095f83692eeaa69c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houstonchron-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "91f8b7614f25a90364adeb52e977b448",
+      "md5": "e265fba745e92da4971e049daeda047a",
       "summation": "md5"
     },
     {
       "name": "houstonchron-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657587163",
-      "size": "86016",
-      "md5": "6794562d0200422b882762bf25c9d2c2",
-      "crc32": "f5f2211f",
-      "sha1": "c3f81e73cf9d13c0d0cd43891435704b3713d24b",
+      "mtime": "1657633689",
+      "size": "90112",
+      "md5": "a4daf43ff9ae6955f50e44563a21feee",
+      "crc32": "90820785",
+      "sha1": "bc1f7e02a15d318c6f82107c3d9ee5e967419fb1",
       "format": "Metadata"
     },
     {
@@ -716,7 +758,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 68,
+  "files_count": 72,
   "houstonchron-2022": [
     {
       "text": "Skip to main content",
@@ -728,11 +770,11 @@
     },
     {
       "text": "Subscribe",
-      "url": "https://subscription.houstonchronicle.com/checkout/642/1385?origin=button&ipid=outofdma&variant=july_2022&returnUrl=https://www.houstonchronicle.com/"
+      "url": "https://subscription.houstonchronicle.com/offers?offerid=642&origin=button&ipid=indma&variant=july_2022&returnUrl=https://www.houstonchronicle.com/"
     },
     {
       "text": "\n \n \n  SUMMER SAVINGS: \n  6 months for 99\u00a2\n \n",
-      "url": "https://subscription.houstonchronicle.com/checkout/642/1385?origin=button&ipid=outofdma&variant=july_2022&returnUrl=https://www.houstonchronicle.com/"
+      "url": "https://subscription.houstonchronicle.com/offers?offerid=642&origin=button&ipid=indma&variant=july_2022&returnUrl=https://www.houstonchronicle.com/"
     },
     {
       "text": "e-Edition",
@@ -1923,6 +1965,10 @@
       "url": "https://www.houstonchronicle.com/archive/search/subscriber/"
     },
     {
+      "text": "\n        6 MONTHS FOR 99\u00a2: Get cool summer savings.6 MONTHS FOR 99\u00a2 ACT NOW\n        ",
+      "url": "https://subscription.houstonchronicle.com/checkout/642/1385?origin=header&ipid=banner&variant=july_2022"
+    },
+    {
       "text": "COVID",
       "url": "/coronavirus/"
     },
@@ -1980,102 +2026,134 @@
     },
     {
       "text": "",
-      "url": "/news/houston-texas/space/article/Biden-releases-first-image-from-James-Webb-17297915.php"
+      "url": "/news/houston-texas/trending/article/713-day-what-to-know-17284954.php"
     },
     {
-      "text": "Peek into the origins of the universe as first image released from James Webb Space Telescope",
-      "url": "/news/houston-texas/space/article/Biden-releases-first-image-from-James-Webb-17297915.php"
+      "text": "WHAT IS 713 DAY?",
+      "url": "https://www.houstonchronicle.com/"
+    },
+    {
+      "text": "713 Day: Everything you need to know about Houston's favorite unofficial holiday",
+      "url": "/news/houston-texas/trending/article/713-day-what-to-know-17284954.php"
+    },
+    {
+      "text": "Read our editor's favorite stories",
+      "url": "/news/houston-texas/houston/article/Maria-Reeve-Chronicle-favorites-17298559.php"
+    },
+    {
+      "text": "Alison Cook's fascination with H-Town",
+      "url": "/food-culture/article/Alison-Cook-favorite-Houston-stories-17292821.php"
+    },
+    {
+      "text": "10 trends shaping Houston real estate",
+      "url": "/business/real-estate/article/10-trends-Houston-real-estate-17297558.php"
+    },
+    {
+      "text": "Investigations that changed Houston",
+      "url": "/news/investigations/article/houston-investigations-chronicle-17296736.php"
+    },
+    {
+      "text": "New to H-Town? Here's what to read.",
+      "url": "/news/houston-texas/houston/article/These-stories-taught-me-about-Houston-17297196.php"
     },
     {
       "text": "TOP NEWS",
       "url": "https://www.houstonchronicle.com/newsletters/afternoon-report/"
     },
     {
-      "text": "Texas GOP tees off on Jill Biden\u2019s breakfast taco remark",
-      "url": "/politics/texas/article/Texas-Republicans-tee-off-on-Jill-Biden-s-17298214.php"
+      "text": "Here's how seniors can defer property taxes, lower them or both",
+      "url": "/business/article/How-seniors-can-defer-property-taxes-lower-them-17296580.php"
     },
     {
-      "text": "One killed, three injured in shooting at Brazoria County party",
-      "url": "/news/houston-texas/crime/article/One-killed-three-injured-in-shooting-at-Brazoria-17298231.php"
+      "text": "Kendall Jenner says she didn\u2019t rip off Texas tequila brand",
+      "url": "/business/article/Tequila-512-Kendall-Jenner-818-Tequila-17299048.php"
     },
     {
-      "text": "HFD: Man rescued from collapsed trench in NE Houston",
-      "url": "/news/houston-texas/article/HFD-Person-trapped-in-trench-in-northeast-Houston-17297970.php"
+      "text": "When he couldn\u2019t fit in his car, he decided to work on himself",
+      "url": "/lifestyle/renew-houston/health/article/He-wanted-to-fix-up-a-Mustang-But-when-he-17297606.php"
+    },
+    {
+      "text": "Biden releases first image from James Webb Space Telescope",
+      "url": "/news/houston-texas/space/article/Biden-releases-first-image-from-James-Webb-17297915.php"
+    },
+    {
+      "text": "Gulf Coast native prairie, Houston's original ecosystem, is nearly extinct",
+      "url": "/lifestyle/article/Gulf-Coast-native-prairie-Houston-s-original-17297746.php"
     },
     {
       "text": "In San Antonio, Jill Biden faults Dems for not sticking together",
       "url": "/politics/texas/article/In-San-Antonio-first-lady-Jill-Biden-faults-17297932.php"
     },
     {
-      "text": "Man killed by Harris Co. sergeant over Dollar General theft",
-      "url": "/news/houston-texas/crime/article/Family-of-man-killed-by-Harris-Co-sergeant-over-17297653.php"
-    },
-    {
-      "text": "Texas death row inmate gets stay",
+      "text": "Texas death row inmate gets stay of execution",
       "url": "/news/houston-texas/houston/article/Texas-death-row-inmate-requests-delay-in-17297630.php"
     },
     {
-      "text": "Firefighters rescue 12 after tree crushes apartment stairway",
-      "url": "/neighborhood/spring-klein/article/Firefighters-rescue-12-people-after-falling-tree-17297425.php"
+      "text": "'Beauty and Ritual: Judaica from the Jewish Museum' opens at MFAH",
+      "url": "/lifestyle/article/MFAH-launches-World-Faiths-Initiative-with-17296583.php"
     },
     {
-      "text": "Police: Father shoots would-be robbers in front of children",
-      "url": "/news/houston-texas/crime/article/Father-shoots-would-be-robbers-in-front-of-17296692.php"
+      "text": "\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                                                                                        \n                                                        \n                                                            \n                                                            \n                                                            \n                                                            \n                                                            \n                                                        \n                                                    \n                                                                                            \n                                                                                                                                        ",
+      "url": "/politics/texas/article/Texas-Republicans-tee-off-on-Jill-Biden-s-17298214.php"
     },
     {
-      "text": "CenterPoint tops list of Houston\u2019s best-paid corporate execs",
-      "url": "/business/texas-inc/article/CenterPoint-s-Lesar-tops-list-of-Houston-s-17290084.php"
+      "text": "Texas Politics",
+      "url": "/politics/texas/"
     },
     {
-      "text": "Looking to boost productivity and reduce stress? Try this tip.",
-      "url": "/lifestyle/renew-houston/wellness/article/try-this-one-tip-to-boost-productivity-and-reduce-17293134.php"
+      "text": "                                Texas GOP tees off on Jill Biden\u2019s breakfast taco remark\n                            ",
+      "url": "/politics/texas/article/Texas-Republicans-tee-off-on-Jill-Biden-s-17298214.php"
     },
     {
-      "text": "\n                                                                                                                                                                                                \n                                                \n                                                \n                                                \n                                                \n                                                \n                                            \n                                                                                                                                        ",
-      "url": "/business/energy/article/ERCOT-Live-Updates-Texans-asked-to-conserve-17296238.php"
-    },
-    {
-      "text": "Energy",
-      "url": "/business/energy/"
-    },
-    {
-      "text": "                                Live updates: As demand recedes, threat of emergency measures diminishes\n                            ",
-      "url": "/business/energy/article/ERCOT-Live-Updates-Texans-asked-to-conserve-17296238.php"
-    },
-    {
-      "text": "                                    Rolling blackouts are a last resort for ERCOT, which must go through two other emergency phases before getting to that point. Stay informed with our live updates.\n                                ",
-      "url": "/business/energy/article/ERCOT-Live-Updates-Texans-asked-to-conserve-17296238.php"
-    },
-    {
-      "text": "                                                                What to know about ERCOT and possible rolling blackouts\n                            ",
-      "url": "/business/energy/article/What-Texans-need-to-know-about-ERCOT-s-power-17297277.php"
-    },
-    {
-      "text": "                                                                ERCOT urges Texans to conserve power Monday afternoon\n                            ",
-      "url": "/business/energy/article/Record-heat-drives-another-Texas-electricity-17295889.php"
-    },
-    {
-      "text": "                                                                Track where the state's worst power outages are happening\n                            ",
-      "url": "https://www.houstonchronicle.com/projects/2021/houston-texas-power-outage-tracker/"
+      "text": "                                    The first lady spoke in San Antonio on Monday at a conference hosted by UnidosUS, a Latino civil rights and advocacy group.\n                                ",
+      "url": "/politics/texas/article/Texas-Republicans-tee-off-on-Jill-Biden-s-17298214.php"
     },
     {
       "text": "\n                                                                                                                                                      \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/business/real-estate/article/Engineering-giant-Bechtel-to-move-Houston-offices-17295625.php"
+      "url": "/business/columnists/tomlinson/article/Tomlinson-News-here-Get-your-free-samples-17298037.php"
     },
     {
-      "text": "Real Estate",
-      "url": "/business/real-estate/"
+      "text": "713 DAY",
+      "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/713-day-what-to-know-17284954.php"
     },
     {
-      "text": "                                Engineering giant Bechtel will move its Houston offices out of  Galleria after 40+ years\n                            ",
-      "url": "/business/real-estate/article/Engineering-giant-Bechtel-to-move-Houston-offices-17295625.php"
+      "text": "                                Tomlinson: Free news samples to prove the Chronicle is worth it\n                            ",
+      "url": "/business/columnists/tomlinson/article/Tomlinson-News-here-Get-your-free-samples-17298037.php"
     },
     {
-      "text": "                                    Engineering and construction firm Bechtel is moving its Houston offices out of the Galleria after more than 40 years in one of the largest office deals signed so far in 2022.\u00a0\n                                ",
-      "url": "/business/real-estate/article/Engineering-giant-Bechtel-to-move-Houston-offices-17295625.php"
+      "text": "                                    The journalism business is changing, relying on subscribers, so we\u2019re stepping up our game, writes columnist Chris Tomlinson.\n                                ",
+      "url": "/business/columnists/tomlinson/article/Tomlinson-News-here-Get-your-free-samples-17298037.php"
+    },
+    {
+      "text": "                                                                Plan the best day ever in Houston's Montrose\n                            ",
+      "url": "https://www.houstonchronicle.com/projects/2022/best-day-ever-montrose/"
+    },
+    {
+      "text": "                                                                The Chronicle's best interactive and data-driven projects\n                            ",
+      "url": "/news/houston-texas/article/best-interactive-data-17298182.php"
+    },
+    {
+      "text": "                                                                Get an inside look at Texas Sports Nation\n                            ",
+      "url": "/texas-sports-nation/general/article/inside-Texas-Sports-Nation-17298148.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
+      "url": "/lifestyle/renew-houston/health/article/Through-ethnic-nose-jobs-people-of-color-are-17292385.php"
+    },
+    {
+      "text": "Health",
+      "url": "/lifestyle/renew-houston/health/"
+    },
+    {
+      "text": "                                Ethnic nose jobs help people of color preserve their identities\n                            ",
+      "url": "/lifestyle/renew-houston/health/article/Through-ethnic-nose-jobs-people-of-color-are-17292385.php"
+    },
+    {
+      "text": "                                    Jabari McPherson used to dread looking in the mirror.\n                                ",
+      "url": "/lifestyle/renew-houston/health/article/Through-ethnic-nose-jobs-people-of-color-are-17292385.php"
+    },
+    {
+      "text": "\n                                                                                                                                                      \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
       "url": "/news/houston-texas/education/article/Retirement-for-superintendent-hammered-by-17296968.php"
     },
     {
@@ -2083,60 +2161,48 @@
       "url": "/news/houston-texas/education/"
     },
     {
-      "text": "                                CCISD's superintendent has been called 'anti-white.' Now, he wants to retire.\n                            ",
+      "text": "                                Clear Creek ISD superintendent announces resignation\n                            ",
       "url": "/news/houston-texas/education/article/Retirement-for-superintendent-hammered-by-17296968.php"
     },
     {
-      "text": "                                    The Clear Creek ISD school board will consider accepting a retirement agreement for the district\u2019s superintendent, Eric Williams, on Monday night.\u00a0\n                                ",
+      "text": "                                    Eric Williams said he is taking a leave of absence to help care for an ill family member.\u00a0\n                                ",
       "url": "/news/houston-texas/education/article/Retirement-for-superintendent-hammered-by-17296968.php"
     },
     {
-      "text": "\n                                                                                                                                                      \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/lifestyle/home-design/article/drab-katy-home-makeover-bright-colors-patterns-17285893.php"
+      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
+      "url": "/business/energy/article/Texas-grid-survives-sweltering-day-but-heat-is-17298362.php"
     },
     {
-      "text": "Home Design",
-      "url": "/lifestyle/home-design/"
+      "text": "Energy",
+      "url": "/business/energy/"
     },
     {
-      "text": "                                Katy home's 'drab' living space is updated with a splash of color\n                            ",
-      "url": "/lifestyle/home-design/article/drab-katy-home-makeover-bright-colors-patterns-17285893.php"
+      "text": "                                Texas grid survives sweltering day, but heat is still on ERCOT\n                            ",
+      "url": "/business/energy/article/Texas-grid-survives-sweltering-day-but-heat-is-17298362.php"
     },
     {
-      "text": "                                    Amy Pitzel's Katy home was drab and she knew it. She didn't know quite what to do, though, until she hired interior designer Veronica Solomon, who filled the home with classic style, quirky touches and plenty of color.\n                                ",
-      "url": "/lifestyle/home-design/article/drab-katy-home-makeover-bright-colors-patterns-17285893.php"
+      "text": "                                    The state power grid will continue to teeter on hot days until it can line up more power generators, experts say.\n                                ",
+      "url": "/business/energy/article/Texas-grid-survives-sweltering-day-but-heat-is-17298362.php"
+    },
+    {
+      "text": "                                                                Opinion: It\u2019s not just ERCOT\u2019s fault.\n                            ",
+      "url": "/opinion/letters/article/Opinion-It-s-not-just-ERCOT-s-fault-We-need-17298050.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/news/houston-texas/texas/article/vrbo-hidden-camera-lawsuit-17295418.php"
+      "url": "/news/houston-texas/transportation/article/Massive-Metro-BRT-line-key-east-west-link-has-17297958.php"
     },
     {
-      "text": "Texas",
-      "url": "/news/houston-texas/texas/"
+      "text": "Transportation",
+      "url": "/news/houston-texas/transportation/"
     },
     {
-      "text": "                                Vrbo hidden camera lawsuit: Texas couple was secretly recorded\n                            ",
-      "url": "/news/houston-texas/texas/article/vrbo-hidden-camera-lawsuit-17295418.php"
+      "text": "                                Public meetings for massive Metro BRT start this week\n                            ",
+      "url": "/news/houston-texas/transportation/article/Massive-Metro-BRT-line-key-east-west-link-has-17297958.php"
     },
     {
-      "text": "                                    The couple is suing the Austin-based vacation rental platform and the two property owners.\n                                ",
-      "url": "/news/houston-texas/texas/article/vrbo-hidden-camera-lawsuit-17295418.php"
-    },
-    {
-      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/opinion/letters/article/Opinion-Houston-s-airports-are-a-nightmare-for-17292671.php"
-    },
-    {
-      "text": "Letters to the Editor",
-      "url": "/opinion/letters/"
-    },
-    {
-      "text": "                                Opinion: Houston\u2019s airports are a nightmare for us elderly travelers\n                            ",
-      "url": "/opinion/letters/article/Opinion-Houston-s-airports-are-a-nightmare-for-17292671.php"
-    },
-    {
-      "text": "                                    Also: Yes, Congress needs to sort immigration out, but the fevered rhetoric seems way out of proportion to the actual issue.\n                                ",
-      "url": "/opinion/letters/article/Opinion-Houston-s-airports-are-a-nightmare-for-17292671.php"
+      "text": "                                    The University Line, which could cost $2 billion or more, could be largest bus rapid transit route in the nation when it opens, but also comes with some of the same concerns of previous lines\n                                ",
+      "url": "/news/houston-texas/transportation/article/Massive-Metro-BRT-line-key-east-west-link-has-17297958.php"
     },
     {
       "text": "MOST POPULAR",
@@ -2144,27 +2210,27 @@
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/texas-sports-nation/astros/article/Astros-5-players-MLB-All-Star-Game-AL-roster-17295837.php"
+      "url": "/business/energy/article/ERCOT-Live-Updates-Texans-asked-to-conserve-17296238.php"
     },
     {
-      "text": "Astros have 5 players named to MLB All-Star Game roster",
-      "url": "/texas-sports-nation/astros/article/Astros-5-players-MLB-All-Star-Game-AL-roster-17295837.php"
-    },
-    {
-      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/news/houston-texas/houston/article/A-Cypress-HOA-sued-a-couple-250K-for-feeding-17292935.php"
-    },
-    {
-      "text": "Cypress couple sued for up to $250K by HOA for feeding ducks",
-      "url": "/news/houston-texas/houston/article/A-Cypress-HOA-sued-a-couple-250K-for-feeding-17292935.php"
+      "text": "ERCOT may have gotten through day's biggest threat",
+      "url": "/business/energy/article/ERCOT-Live-Updates-Texans-asked-to-conserve-17296238.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
-      "url": "/news/houston-texas/trending/article/713-day-what-to-know-17284954.php"
+      "url": "/business/real-estate/article/Engineering-giant-Bechtel-to-move-Houston-offices-17295625.php"
     },
     {
-      "text": "Everything you need to know about 713 Day",
-      "url": "/news/houston-texas/trending/article/713-day-what-to-know-17284954.php"
+      "text": "Engineering giant Bechtel to move Houston offices out of Galleria",
+      "url": "/business/real-estate/article/Engineering-giant-Bechtel-to-move-Houston-offices-17295625.php"
+    },
+    {
+      "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
+      "url": "/neighborhood/katy/article/restaurant-bad-reviews-blackmail-17289963.php"
+    },
+    {
+      "text": "Restaurant bombarded with 1-star reviews after alleged blackmail",
+      "url": "/neighborhood/katy/article/restaurant-bad-reviews-blackmail-17289963.php"
     },
     {
       "text": "\n                                                                                                            \n                                            \n                                            \n                                            \n                                            \n                                            \n                                        \n                                                                                                ",
@@ -2211,16 +2277,16 @@
       "url": "https://www.houstonchronicle.com/projects/2022/visuals/houston-july-4th/"
     },
     {
-      "text": "HOUSTON'S UNOFFICIAL HOLIDAY",
-      "url": "https://www.houstonchronicle.com/"
+      "text": "40 YEARS LATER, A BIG MOVE",
+      "url": "https://www.houstonchronicle.com/business/real-estate/"
     },
     {
       "text": "\n                        \n                \n                    \n                    \n                \n            \n                    ",
-      "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/713-day-what-to-know-17284954.php"
+      "url": "https://www.houstonchronicle.com/business/real-estate/article/Engineering-giant-Bechtel-to-move-Houston-offices-17295625.php"
     },
     {
-      "text": "\n            Everything to know about 713 Day, Houston's favorite unofficial holiday        ",
-      "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/713-day-what-to-know-17284954.php"
+      "text": "\n            Engineering giant Bechtel to move Houston offices out of Galleria        ",
+      "url": "https://www.houstonchronicle.com/business/real-estate/article/Engineering-giant-Bechtel-to-move-Houston-offices-17295625.php"
     },
     {
       "text": "ABORTION RULING",
@@ -2245,278 +2311,6 @@
     {
       "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Investigations                    \n                        Investigations                        Texas Chapter 313 is dead, but loopholes still cost billions\n                                                    Instead of shutting down the program immediately, they let it fade away over the course of a year. A tidal wave of applicants has now rushed to seek billions of additional dollars in last-minute tax breaks.\n\n                                                                            \n                                By Eric Dexheimer and Mike Morris\n                            \n                                            \n                \n            \n        ",
       "url": "https://www.houstonchronicle.com/news/investigations/article/Texas-Chapter-313-cost-billions-17251395.php"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.houstonchronicle.com/politics"
-    },
-    {
-      "text": "",
-      "url": "/politics/texas/article/Uvalde-pediatrician-who-treated-kids-shot-at-Robb-17297268.php"
-    },
-    {
-      "text": "Doctor who treated kids shot in Uvalde speaks at gun law ceremony",
-      "url": "/politics/texas/article/Uvalde-pediatrician-who-treated-kids-shot-at-Robb-17297268.php"
-    },
-    {
-      "text": "",
-      "url": "/politics/texas/politifact/article/Fact-check-No-fast-food-chain-Wendy-s-was-not-17295504.php"
-    },
-    {
-      "text": "No horsing around: Wendy\u2019s uses real beef, company officials say",
-      "url": "/politics/texas/politifact/article/Fact-check-No-fast-food-chain-Wendy-s-was-not-17295504.php"
-    },
-    {
-      "text": "",
-      "url": "/politics/texas/article/These-volunteers-tell-the-stories-of-their-17294635.php"
-    },
-    {
-      "text": "Texans tell the stories of how their abortions changed their",
-      "url": "/politics/texas/article/These-volunteers-tell-the-stories-of-their-17294635.php"
-    },
-    {
-      "text": "",
-      "url": "/politics/texas/article/Texas-judge-blocks-two-CPS-investigations-of-17293783.php"
-    },
-    {
-      "text": "Texas judge blocks two CPS investigations of transgender care",
-      "url": "/politics/texas/article/Texas-judge-blocks-two-CPS-investigations-of-17293783.php"
-    },
-    {
-      "text": "",
-      "url": "/politics/texas/article/Border-patrol-was-taking-orders-from-Texas-in-17293034.php"
-    },
-    {
-      "text": "Border patrol faults Texas in 2021 horseback charge on Haitians",
-      "url": "/politics/texas/article/Border-patrol-was-taking-orders-from-Texas-in-17293034.php"
-    },
-    {
-      "text": "Texas Sports Nation",
-      "url": "https://www.houstonchronicle.com/texas-sports-nation/"
-    },
-    {
-      "text": "",
-      "url": "/texas-sports-nation/college/article/Jimbo-Fisher-Nick-Saban-feud-17298228.php"
-    },
-    {
-      "text": "The next round of Jimbo Fisher vs. Nick Saban on tap at SEC event",
-      "url": "/texas-sports-nation/college/article/Jimbo-Fisher-Nick-Saban-feud-17298228.php"
-    },
-    {
-      "text": "",
-      "url": "/texas-sports-nation/college/article/At-Big-12-media-days-questions-on-timing-of-exit-17296814.php"
-    },
-    {
-      "text": "Big 12 football: When will Texas, OU leave for SEC?",
-      "url": "/texas-sports-nation/college/article/At-Big-12-media-days-questions-on-timing-of-exit-17296814.php"
-    },
-    {
-      "text": "",
-      "url": "/texas-sports-nation/astros/article/Astros-Seth-Martinez-puts-a-spring-in-his-step-17298165.php"
-    },
-    {
-      "text": "Sweeping slider a game-changer for Astros' Seth Martinez",
-      "url": "/texas-sports-nation/astros/article/Astros-Seth-Martinez-puts-a-spring-in-his-step-17298165.php"
-    },
-    {
-      "text": "",
-      "url": "/texas-sports-nation/rockets/article/Houston-Rockets-Josh-Christopher-summer-league-17297541.php"
-    },
-    {
-      "text": "Rockets' Josh Christopher learning to play under control",
-      "url": "/texas-sports-nation/rockets/article/Houston-Rockets-Josh-Christopher-summer-league-17297541.php"
-    },
-    {
-      "text": "",
-      "url": "/texas-sports-nation/hs-sports/article/All-Greater-Houston-high-school-baseball-team-17297489.php"
-    },
-    {
-      "text": "All-Greater Houston high school baseball team",
-      "url": "/texas-sports-nation/hs-sports/article/All-Greater-Houston-high-school-baseball-team-17297489.php"
-    },
-    {
-      "text": "Jerome Solomon",
-      "url": "/author/jerome-solomon/"
-    },
-    {
-      "text": "            Solomon: Dusty Baker was right. These Astros are good.\n        ",
-      "url": "/texas-sports-nation/jerome-solomon/article/Solomon-Dusty-Baker-was-right-These-Astros-are-17281701.php"
-    },
-    {
-      "text": "                                Now that the bats are getting untracked, Houston is doing what its manager had predicted all along.\n            ",
-      "url": "/texas-sports-nation/jerome-solomon/article/Solomon-Dusty-Baker-was-right-These-Astros-are-17281701.php"
-    },
-    {
-      "text": "Brian T. Smith",
-      "url": "/author/brian-t-smith/"
-    },
-    {
-      "text": "            Smith: H\u00e9ctor Herrera could help Dynamo take next big step\n        ",
-      "url": "/texas-sports-nation/brian-t-smith/article/Hector-Herrera-could-be-Dynamo-franchise-altering-17290758.php"
-    },
-    {
-      "text": "                                H\u00e9ctor Herrera, the most celebrated addition in franchise history, could help the Dynamo take their next big step in carving out a place in the...\n            ",
-      "url": "/texas-sports-nation/brian-t-smith/article/Hector-Herrera-could-be-Dynamo-franchise-altering-17290758.php"
-    },
-    {
-      "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Juneteenth                    \n                        Juneteenth                        A Black cowboy learned his friend's family enslaved his ancestors. Now they're even closer.\n                                                    Ahead of Juneteenth, one of Texas' last Black cowboys spent the night at a plantation owned by his longtime friend. The pair recently discovered they're distant cousins because of slavery.\n\n                                                                            \n                                By Ryan Nickerson\n                            \n                                            \n                \n            \n        ",
-      "url": "/juneteenth/article/black-cowboy-friend-slavery-17245646.php"
-    },
-    {
-      "text": "Local",
-      "url": "https://www.houstonchronicle.com/local"
-    },
-    {
-      "text": "",
-      "url": "/news/houston-texas/texas/article/COVID-vaccine-order-Texas-Guard-17296624.php"
-    },
-    {
-      "text": "COVID shot deadline passes, 2,700 Texas Guard troops defy order",
-      "url": "/news/houston-texas/texas/article/COVID-vaccine-order-Texas-Guard-17296624.php"
-    },
-    {
-      "text": "",
-      "url": "/news/houston-texas/immigration/article/Afghan-judge-who-prosecuted-Taliban-members-joins-17295448.php"
-    },
-    {
-      "text": "Afghan judge who prosecuted Taliban members joins law schools",
-      "url": "/news/houston-texas/immigration/article/Afghan-judge-who-prosecuted-Taliban-members-joins-17295448.php"
-    },
-    {
-      "text": "",
-      "url": "/news/houston-texas/space/article/NASA-to-reveal-images-of-universe-from-James-Webb-17295999.php"
-    },
-    {
-      "text": "How to see the first images from NASA\u2019s James Webb telescope",
-      "url": "/news/houston-texas/space/article/NASA-to-reveal-images-of-universe-from-James-Webb-17295999.php"
-    },
-    {
-      "text": "",
-      "url": "/news/houston-texas/transportation/article/Texas-poised-for-record-80-billion-plus-in-road-17295480.php"
-    },
-    {
-      "text": "TxDOT plans record $85B in spending for projects over a decade",
-      "url": "/news/houston-texas/transportation/article/Texas-poised-for-record-80-billion-plus-in-road-17295480.php"
-    },
-    {
-      "text": "",
-      "url": "/news/houston-texas/houston/article/Houston-LGBTQ-couple-was-discriminated-against-17296030.php"
-    },
-    {
-      "text": "LGBTQ couple who was discriminated against, starts their business",
-      "url": "/news/houston-texas/houston/article/Houston-LGBTQ-couple-was-discriminated-against-17296030.php"
-    },
-    {
-      "text": "LATEST INVESTIGATIONS",
-      "url": "https://www.houstonchronicle.com/news/investigations/"
-    },
-    {
-      "text": "A corporate tax break is dead, but loopholes still cost billions",
-      "url": "/news/investigations/article/Texas-Chapter-313-cost-billions-17251395.php"
-    },
-    {
-      "text": "At SBC meeting, victims confronting leaders highlights small signs of...",
-      "url": "/news/investigations/article/At-SBC-meeting-victims-confronting-leaders-17251536.php"
-    },
-    {
-      "text": "Local Newsletters",
-      "url": "http://link.chron.com/join/5dh/hcp-newsletter-sign-up-20170808&hash=bc6fcdde2cb600d877f3aa99136b00f7"
-    },
-    {
-      "text": "Sign up for our Morning Report newsletter",
-      "url": "/newsletters/houston-morning-report/"
-    },
-    {
-      "text": "\n                                \n                                                                            \n                                        \n                                        \n                                                                    \n                            ",
-      "url": "/newsletters/houston-morning-report/"
-    },
-    {
-      "text": "Keep up on our biggest investigations with Must Reads",
-      "url": "/newsletters/must-reads/"
-    },
-    {
-      "text": "\n                                \n                                                                            \n                                        \n                                        \n                                                                    \n                            ",
-      "url": "/newsletters/must-reads/"
-    },
-    {
-      "text": "Get breaking news sent directly to your inbox",
-      "url": "/newsletters/breaking-news/"
-    },
-    {
-      "text": "\n                                \n                                                                            \n                                        \n                                        \n                                                                    \n                            ",
-      "url": "/newsletters/breaking-news/"
-    },
-    {
-      "text": "Opinion",
-      "url": "https://www.houstonchronicle.com/opinion"
-    },
-    {
-      "text": "",
-      "url": "/opinion/letters/article/Opinion-Houston-s-airports-are-a-nightmare-for-17292671.php"
-    },
-    {
-      "text": "Opinion: Houston\u2019s airports are a nightmare for us elderly...",
-      "url": "/opinion/letters/article/Opinion-Houston-s-airports-are-a-nightmare-for-17292671.php"
-    },
-    {
-      "text": "",
-      "url": "/opinion/editorials/article/Editorial-So-long-Fort-Hood-Hello-Fort-Cavazos-17293729.php"
-    },
-    {
-      "text": "Editorial: So long Fort Hood, hello Fort Cavazos. About time.",
-      "url": "/opinion/editorials/article/Editorial-So-long-Fort-Hood-Hello-Fort-Cavazos-17293729.php"
-    },
-    {
-      "text": "",
-      "url": "/opinion/outlook/article/Pitts-What-is-wrong-with-American-men-17292683.php"
-    },
-    {
-      "text": "Pitts: What is wrong with American men?",
-      "url": "/opinion/outlook/article/Pitts-What-is-wrong-with-American-men-17292683.php"
-    },
-    {
-      "text": "",
-      "url": "/opinion/outlook/article/Essay-After-3-years-I-visited-a-bookstore-It-17293229.php"
-    },
-    {
-      "text": "Essay: Bookstores offer a sacred space of comfort",
-      "url": "/opinion/outlook/article/Essay-After-3-years-I-visited-a-bookstore-It-17293229.php"
-    },
-    {
-      "text": "",
-      "url": "/opinion/letters/article/Opinion-Post-Roe-privacy-fears-remind-me-of-China-17292644.php"
-    },
-    {
-      "text": "Opinion: Post-Roe privacy fears remind me of China",
-      "url": "/opinion/letters/article/Opinion-Post-Roe-privacy-fears-remind-me-of-China-17292644.php"
-    },
-    {
-      "text": "Michael Lindenberger",
-      "url": "/author/michael-lindenberger/"
-    },
-    {
-      "text": "            Essay: Worried by the Supreme Court decisions? We\u2019ve been here...\n        ",
-      "url": "/opinion/outlook/article/Essay-Lost-hope-after-Supreme-Court-decisions-17293510.php"
-    },
-    {
-      "text": "                                The Supreme Court yanked away rights before, when it read civil rights enforcement right out of the Constitution. It took generations of protest to...\n            ",
-      "url": "/opinion/outlook/article/Essay-Lost-hope-after-Supreme-Court-decisions-17293510.php"
-    },
-    {
-      "text": "Kenny Wiley",
-      "url": "/author/kenny-wiley/"
-    },
-    {
-      "text": "            Wiley: A comfortable education is dangerous. Challenge kids...\n        ",
-      "url": "/opinion/outlook/article/Kenny-Wiley-Save-America-Give-kids-books-that-16595396.php"
-    },
-    {
-      "text": "                                The current push to challenge books \u2014 because they center the experiences of LGBTQ folks, or talk honestly about racism, or help young people...\n            ",
-      "url": "/opinion/outlook/article/Kenny-Wiley-Save-America-Give-kids-books-that-16595396.php"
-    },
-    {
-      "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Brian T. Smith                    \n                        Brian T. Smith                        Smith: World Cup a historic breakthrough for Houston\n                                                    It was a national breakthrough for America\u2019s fourth-largest city, which has been the home site for Super Bowls and Final Fours but spent years working toward official World Cup status.\n\n                                                                            \n                                By Brian T. Smith\n                            \n                                            \n                \n            \n        ",
-      "url": "/texas-sports-nation/brian-t-smith/article/World-Cup-historic-breakthrough-for-Houston-17247178.php"
     },
     {
       "text": "Business",
@@ -2623,12 +2417,12 @@
       "url": "/author/chris-tomlinson/"
     },
     {
-      "text": "            Tomlinson: Celebrate the Fourth of July with diverse ideas\n        ",
-      "url": "/business/article/Tomlinson-Celebrate-Independence-Day-with-17281479.php"
+      "text": "            Tomlinson: Free news samples to prove the Chronicle is worth it\n        ",
+      "url": "/business/columnists/tomlinson/article/Tomlinson-News-here-Get-your-free-samples-17298037.php"
     },
     {
-      "text": "                                Some conservatives think anyone who doesn't agree with them should move to another state, but that's the antithesis of American liberty, columnist...\n            ",
-      "url": "/business/article/Tomlinson-Celebrate-Independence-Day-with-17281479.php"
+      "text": "                                The journalism business is changing, relying on subscribers, so we\u2019re stepping up our game\n            ",
+      "url": "/business/columnists/tomlinson/article/Tomlinson-News-here-Get-your-free-samples-17298037.php"
     },
     {
       "text": "Dwight Silverman",
@@ -2647,12 +2441,12 @@
       "url": "/author/ronald-lipman/"
     },
     {
-      "text": "            We need an executor. Should we name a family friend?\n        ",
-      "url": "/business/article/We-need-an-executor-for-our-estate-Should-we-17283509.php"
+      "text": "            Here's how seniors can defer property taxes, lower them or both\n        ",
+      "url": "/business/article/How-seniors-can-defer-property-taxes-lower-them-17296580.php"
     },
     {
-      "text": "                                A reader writes, \"We have no descendants and few extended family members who are younger than us. We will have a fairly significant estate to leave...\n            ",
-      "url": "/business/article/We-need-an-executor-for-our-estate-Should-we-17283509.php"
+      "text": "                                A reader asks, \u2018Texas allows senior citizens over age 65 to defer their property taxes. Can you explain how this process works? Can one apply it to...\n            ",
+      "url": "/business/article/How-seniors-can-defer-property-taxes-lower-them-17296580.php"
     },
     {
       "text": "Jay Lee",
@@ -2677,6 +2471,162 @@
     {
       "text": "\n            Podcast: Why downtown Houston will never be the same        ",
       "url": "/business/real-estate/looped-in/article/Podcast-Why-downtown-Houston-will-never-be-the-17192528.php"
+    },
+    {
+      "text": "Local",
+      "url": "https://www.houstonchronicle.com/local"
+    },
+    {
+      "text": "",
+      "url": "/news/houston-texas/bayou-city-history/article/This-day-in-Houston-history-July-12-1966-Ford-17297885.php"
+    },
+    {
+      "text": "This day in Houston history, July 12, 1966: Ford Foundation donates to...",
+      "url": "/news/houston-texas/bayou-city-history/article/This-day-in-Houston-history-July-12-1966-Ford-17297885.php"
+    },
+    {
+      "text": "",
+      "url": "/news/houston-texas/houston/article/NASA-President-Biden-release-first-image-from-17298398.php"
+    },
+    {
+      "text": "NASA, President Biden release first image from James Webb Space Telescope",
+      "url": "/news/houston-texas/houston/article/NASA-President-Biden-release-first-image-from-17298398.php"
+    },
+    {
+      "text": "",
+      "url": "/news/houston-texas/crime/article/Two-Brazoria-County-banks-targeted-by-in-one-17298317.php"
+    },
+    {
+      "text": "Two Brazoria County banks targeted by robbers in one afternoon",
+      "url": "/news/houston-texas/crime/article/Two-Brazoria-County-banks-targeted-by-in-one-17298317.php"
+    },
+    {
+      "text": "",
+      "url": "/news/houston-texas/crime/article/One-killed-three-injured-in-shooting-at-Brazoria-17298231.php"
+    },
+    {
+      "text": "One killed, three injured in shooting at Brazoria County party",
+      "url": "/news/houston-texas/crime/article/One-killed-three-injured-in-shooting-at-Brazoria-17298231.php"
+    },
+    {
+      "text": "",
+      "url": "/news/houston-texas/article/HFD-Person-trapped-in-trench-in-northeast-Houston-17297970.php"
+    },
+    {
+      "text": "HFD: Man rescued from trench in northeast Houston",
+      "url": "/news/houston-texas/article/HFD-Person-trapped-in-trench-in-northeast-Houston-17297970.php"
+    },
+    {
+      "text": "LATEST INVESTIGATIONS",
+      "url": "https://www.houstonchronicle.com/news/investigations/"
+    },
+    {
+      "text": "A corporate tax break is dead, but loopholes still cost billions",
+      "url": "/news/investigations/article/Texas-Chapter-313-cost-billions-17251395.php"
+    },
+    {
+      "text": "At SBC meeting, victims confronting leaders highlights small signs of...",
+      "url": "/news/investigations/article/At-SBC-meeting-victims-confronting-leaders-17251536.php"
+    },
+    {
+      "text": "Local Newsletters",
+      "url": "http://link.chron.com/join/5dh/hcp-newsletter-sign-up-20170808&hash=bc6fcdde2cb600d877f3aa99136b00f7"
+    },
+    {
+      "text": "Sign up for our Morning Report newsletter",
+      "url": "/newsletters/houston-morning-report/"
+    },
+    {
+      "text": "\n                                \n                                                                            \n                                        \n                                        \n                                                                    \n                            ",
+      "url": "/newsletters/houston-morning-report/"
+    },
+    {
+      "text": "Keep up on our biggest investigations with Must Reads",
+      "url": "/newsletters/must-reads/"
+    },
+    {
+      "text": "\n                                \n                                                                            \n                                        \n                                        \n                                                                    \n                            ",
+      "url": "/newsletters/must-reads/"
+    },
+    {
+      "text": "Get breaking news sent directly to your inbox",
+      "url": "/newsletters/breaking-news/"
+    },
+    {
+      "text": "\n                                \n                                                                            \n                                        \n                                        \n                                                                    \n                            ",
+      "url": "/newsletters/breaking-news/"
+    },
+    {
+      "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Juneteenth                    \n                        Juneteenth                        A Black cowboy learned his friend's family enslaved his ancestors. Now they're even closer.\n                                                    Ahead of Juneteenth, one of Texas' last Black cowboys spent the night at a plantation owned by his longtime friend. The pair recently discovered they're distant cousins because of slavery.\n\n                                                                            \n                                By Ryan Nickerson\n                            \n                                            \n                \n            \n        ",
+      "url": "/juneteenth/article/black-cowboy-friend-slavery-17245646.php"
+    },
+    {
+      "text": "Texas Sports Nation",
+      "url": "https://www.houstonchronicle.com/texas-sports-nation/"
+    },
+    {
+      "text": "",
+      "url": "/texas-sports-nation/rockets/article/Houston-Rockets-San-Antonio-Spurs-defense-recap-17298453.php"
+    },
+    {
+      "text": "Rockets, defense rally past Spurs",
+      "url": "/texas-sports-nation/rockets/article/Houston-Rockets-San-Antonio-Spurs-defense-recap-17298453.php"
+    },
+    {
+      "text": "",
+      "url": "/texas-sports-nation/rockets/article/Houston-Rockets-Josh-Christopher-summer-league-17297541.php"
+    },
+    {
+      "text": "Rockets' Josh Christopher learning to play under control",
+      "url": "/texas-sports-nation/rockets/article/Houston-Rockets-Josh-Christopher-summer-league-17297541.php"
+    },
+    {
+      "text": "",
+      "url": "/texas-sports-nation/astros/article/Astros-Seth-Martinez-puts-a-spring-in-his-step-17298165.php"
+    },
+    {
+      "text": "Sweeping slider a game-changer for Astros' Seth Martinez",
+      "url": "/texas-sports-nation/astros/article/Astros-Seth-Martinez-puts-a-spring-in-his-step-17298165.php"
+    },
+    {
+      "text": "",
+      "url": "/texas-sports-nation/college/article/At-Big-12-media-days-questions-on-timing-of-exit-17296814.php"
+    },
+    {
+      "text": "Big 12 football: When will Texas, OU leave for SEC?",
+      "url": "/texas-sports-nation/college/article/At-Big-12-media-days-questions-on-timing-of-exit-17296814.php"
+    },
+    {
+      "text": "",
+      "url": "/texas-sports-nation/hs-sports/article/All-Greater-Houston-baseball-Friendswood-s-Jacob-17297439.php"
+    },
+    {
+      "text": "AGH baseball players of the year: Jacob Rogers, Dylan Maxcey",
+      "url": "/texas-sports-nation/hs-sports/article/All-Greater-Houston-baseball-Friendswood-s-Jacob-17297439.php"
+    },
+    {
+      "text": "Jerome Solomon",
+      "url": "/author/jerome-solomon/"
+    },
+    {
+      "text": "            Solomon: Dusty Baker was right. These Astros are good.\n        ",
+      "url": "/texas-sports-nation/jerome-solomon/article/Solomon-Dusty-Baker-was-right-These-Astros-are-17281701.php"
+    },
+    {
+      "text": "                                Now that the bats are getting untracked, Houston is doing what its manager had predicted all along.\n            ",
+      "url": "/texas-sports-nation/jerome-solomon/article/Solomon-Dusty-Baker-was-right-These-Astros-are-17281701.php"
+    },
+    {
+      "text": "Brian T. Smith",
+      "url": "/author/brian-t-smith/"
+    },
+    {
+      "text": "            Smith: H\u00e9ctor Herrera could help Dynamo take next big step\n        ",
+      "url": "/texas-sports-nation/brian-t-smith/article/Hector-Herrera-could-be-Dynamo-franchise-altering-17290758.php"
+    },
+    {
+      "text": "                                H\u00e9ctor Herrera, the most celebrated addition in franchise history, could help the Dynamo take their next big step in carving out a place in the...\n            ",
+      "url": "/texas-sports-nation/brian-t-smith/article/Hector-Herrera-could-be-Dynamo-franchise-altering-17290758.php"
     },
     {
       "text": "PREVIEW",
@@ -2728,43 +2678,43 @@
     },
     {
       "text": "",
-      "url": "/lifestyle/hcmagazine/article/Khori-Dastoor-brings-performing-and-business-17297272.php"
+      "url": "https://www.houstonchronicle.com/projects/2022/best-day-ever-montrose/"
     },
     {
-      "text": "Khori Dastoor brings performing and business experience to...",
-      "url": "/lifestyle/hcmagazine/article/Khori-Dastoor-brings-performing-and-business-17297272.php"
-    },
-    {
-      "text": "",
-      "url": "/lifestyle/renew-houston/wellness/article/try-this-one-tip-to-boost-productivity-and-reduce-17293134.php"
-    },
-    {
-      "text": "Looking to boost productivity and reduce stress? Try this tip.",
-      "url": "/lifestyle/renew-houston/wellness/article/try-this-one-tip-to-boost-productivity-and-reduce-17293134.php"
+      "text": "Plan the best day ever in Houston's vibrant Montrose neighborhood",
+      "url": "https://www.houstonchronicle.com/projects/2022/best-day-ever-montrose/"
     },
     {
       "text": "",
-      "url": "/lifestyle/article/Sad-Girls-exhibit-offers-surreal-look-at-17293359.php"
+      "url": "/food-culture/article/Alison-Cook-favorite-Houston-stories-17292821.php"
     },
     {
-      "text": "\u2018Sad Girls\u2019 exhibit offers surreal look at today\u2019s anxieties",
-      "url": "/lifestyle/article/Sad-Girls-exhibit-offers-surreal-look-at-17293359.php"
-    },
-    {
-      "text": "",
-      "url": "/lifestyle/home-design/article/drab-katy-home-makeover-bright-colors-patterns-17285893.php"
-    },
-    {
-      "text": "Katy home's 'drab' living space is updated with a splash of color",
-      "url": "/lifestyle/home-design/article/drab-katy-home-makeover-bright-colors-patterns-17285893.php"
+      "text": "Alison Cook: These stories reflect my fascination with Houston",
+      "url": "/food-culture/article/Alison-Cook-favorite-Houston-stories-17292821.php"
     },
     {
       "text": "",
-      "url": "/lifestyle/article/Artist-muses-on-Reckless-Meditations-17293545.php"
+      "url": "/lifestyle/renew-houston/health/article/He-wanted-to-fix-up-a-Mustang-But-when-he-17297606.php"
     },
     {
-      "text": "Artist muses on \u2018Reckless Meditations\u2019",
-      "url": "/lifestyle/article/Artist-muses-on-Reckless-Meditations-17293545.php"
+      "text": "He wanted to fix up a Mustang. But when he couldn\u2019t fit in the car, he...",
+      "url": "/lifestyle/renew-houston/health/article/He-wanted-to-fix-up-a-Mustang-But-when-he-17297606.php"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/article/Encanto-Cruella-and-other-ways-17297982.php"
+    },
+    {
+      "text": "\u2018Encanto,\u2019 \u2018Cruella\u2019 and other ways Houston parks are getting kids outdoors",
+      "url": "/lifestyle/article/Encanto-Cruella-and-other-ways-17297982.php"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/hcmagazine/article/Roche-Bobois-amps-up-outdoor-style-17298158.php"
+    },
+    {
+      "text": "Roche Bobois amps up outdoor style",
+      "url": "/lifestyle/hcmagazine/article/Roche-Bobois-amps-up-outdoor-style-17298158.php"
     },
     {
       "text": "Joey Guerra",
@@ -2819,12 +2769,128 @@
       "url": "/author/alison-cook/"
     },
     {
-      "text": "            Alison Cook: I ate crickets in Houston, and I didn't hate them.\n        ",
-      "url": "/food-culture/restaurants-bars/reviews/article/I-ate-crickets-and-didn-t-hate-them-17253707.php"
+      "text": "            Alison Cook: These stories reflect my fascination with Houston\n        ",
+      "url": "/food-culture/article/Alison-Cook-favorite-Houston-stories-17292821.php"
     },
     {
-      "text": "                                Alison Cook tries crickets and cr\u00e9mant\u00a0at Street to Kitchen Thai in Houston's East End.\n            ",
-      "url": "/food-culture/restaurants-bars/reviews/article/I-ate-crickets-and-didn-t-hate-them-17253707.php"
+      "text": "                                Here\u2019s a small collection of stories, both by me and by my colleagues in the Features department, that may give you a taste of my continuing...\n            ",
+      "url": "/food-culture/article/Alison-Cook-favorite-Houston-stories-17292821.php"
+    },
+    {
+      "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Brian T. Smith                    \n                        Brian T. Smith                        Smith: World Cup a historic breakthrough for Houston\n                                                    It was a national breakthrough for America\u2019s fourth-largest city, which has been the home site for Super Bowls and Final Fours but spent years working toward official World Cup status.\n\n                                                                            \n                                By Brian T. Smith\n                            \n                                            \n                \n            \n        ",
+      "url": "/texas-sports-nation/brian-t-smith/article/World-Cup-historic-breakthrough-for-Houston-17247178.php"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.houstonchronicle.com/politics"
+    },
+    {
+      "text": "",
+      "url": "/politics/texas/article/Uvalde-pediatrician-who-treated-kids-shot-at-Robb-17297268.php"
+    },
+    {
+      "text": "Doctor who treated kids shot in Uvalde speaks at gun law ceremony",
+      "url": "/politics/texas/article/Uvalde-pediatrician-who-treated-kids-shot-at-Robb-17297268.php"
+    },
+    {
+      "text": "",
+      "url": "/politics/texas/politifact/article/Fact-check-No-fast-food-chain-Wendy-s-was-not-17295504.php"
+    },
+    {
+      "text": "No horsing around: Wendy\u2019s uses real beef, company officials say",
+      "url": "/politics/texas/politifact/article/Fact-check-No-fast-food-chain-Wendy-s-was-not-17295504.php"
+    },
+    {
+      "text": "",
+      "url": "/politics/texas/article/These-volunteers-tell-the-stories-of-their-17294635.php"
+    },
+    {
+      "text": "Texans tell the stories of how their abortions changed their",
+      "url": "/politics/texas/article/These-volunteers-tell-the-stories-of-their-17294635.php"
+    },
+    {
+      "text": "",
+      "url": "/politics/texas/article/Texas-judge-blocks-two-CPS-investigations-of-17293783.php"
+    },
+    {
+      "text": "Texas judge blocks two CPS investigations of transgender care",
+      "url": "/politics/texas/article/Texas-judge-blocks-two-CPS-investigations-of-17293783.php"
+    },
+    {
+      "text": "",
+      "url": "/politics/texas/article/Border-patrol-was-taking-orders-from-Texas-in-17293034.php"
+    },
+    {
+      "text": "Border patrol faults Texas in 2021 horseback charge on Haitians",
+      "url": "/politics/texas/article/Border-patrol-was-taking-orders-from-Texas-in-17293034.php"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.houstonchronicle.com/opinion"
+    },
+    {
+      "text": "",
+      "url": "/opinion/letters/article/Opinion-It-s-not-just-ERCOT-s-fault-We-need-17298050.php"
+    },
+    {
+      "text": "Opinion: It\u2019s not just ERCOT\u2019s fault. We need to use less energy.",
+      "url": "/opinion/letters/article/Opinion-It-s-not-just-ERCOT-s-fault-We-need-17298050.php"
+    },
+    {
+      "text": "",
+      "url": "/opinion/letters/article/Opinion-Houston-s-airports-are-a-nightmare-for-17292671.php"
+    },
+    {
+      "text": "Opinion: Houston\u2019s airports are a nightmare for us elderly...",
+      "url": "/opinion/letters/article/Opinion-Houston-s-airports-are-a-nightmare-for-17292671.php"
+    },
+    {
+      "text": "",
+      "url": "/opinion/editorials/article/Editorial-So-long-Fort-Hood-Hello-Fort-Cavazos-17293729.php"
+    },
+    {
+      "text": "Editorial: So long Fort Hood, hello Fort Cavazos. About time.",
+      "url": "/opinion/editorials/article/Editorial-So-long-Fort-Hood-Hello-Fort-Cavazos-17293729.php"
+    },
+    {
+      "text": "",
+      "url": "/opinion/outlook/article/Pitts-What-is-wrong-with-American-men-17292683.php"
+    },
+    {
+      "text": "Pitts: What is wrong with American men?",
+      "url": "/opinion/outlook/article/Pitts-What-is-wrong-with-American-men-17292683.php"
+    },
+    {
+      "text": "",
+      "url": "/opinion/outlook/article/Essay-After-3-years-I-visited-a-bookstore-It-17293229.php"
+    },
+    {
+      "text": "Essay: Bookstores offer a sacred space of comfort",
+      "url": "/opinion/outlook/article/Essay-After-3-years-I-visited-a-bookstore-It-17293229.php"
+    },
+    {
+      "text": "Michael Lindenberger",
+      "url": "/author/michael-lindenberger/"
+    },
+    {
+      "text": "            Essay: Worried by the Supreme Court decisions? We\u2019ve been here...\n        ",
+      "url": "/opinion/outlook/article/Essay-Lost-hope-after-Supreme-Court-decisions-17293510.php"
+    },
+    {
+      "text": "                                The Supreme Court yanked away rights before, when it read civil rights enforcement right out of the Constitution. It took generations of protest to...\n            ",
+      "url": "/opinion/outlook/article/Essay-Lost-hope-after-Supreme-Court-decisions-17293510.php"
+    },
+    {
+      "text": "Kenny Wiley",
+      "url": "/author/kenny-wiley/"
+    },
+    {
+      "text": "            Wiley: A comfortable education is dangerous. Challenge kids...\n        ",
+      "url": "/opinion/outlook/article/Kenny-Wiley-Save-America-Give-kids-books-that-16595396.php"
+    },
+    {
+      "text": "                                The current push to challenge books \u2014 because they center the experiences of LGBTQ folks, or talk honestly about racism, or help young people...\n            ",
+      "url": "/opinion/outlook/article/Kenny-Wiley-Save-America-Give-kids-books-that-16595396.php"
     },
     {
       "text": "\n            \n                                    \n                                                                \n                                        \n                                \n                    Investigations                    \n                        Investigations                        \u2018The hunter is now the hunted\u2019: Southern Baptists vow to do more to stop sexual abuse\n                                                    Bart Barber, the new president of the Southern Baptist Convention, vowed Wednesday to make the nation\u2019s second-largest faith group a \u201cdangerous place\u201d for sexual abusers.\n\n                                                                            \n                                By Robert Downen and John Tedesco\n                            \n                                            \n                \n            \n        ",
@@ -3035,8 +3101,8 @@
       "url": "javascript:void(0)"
     }
   ],
-  "item_last_updated": 1657587217,
-  "item_size": 6546850,
+  "item_last_updated": 1657633774,
+  "item_size": 7037124,
   "metadata": {
     "identifier": "houstonchron-2022",
     "collection": [
@@ -3054,7 +3120,7 @@
     "addeddate": "2022-07-04 21:54:16"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 378168257,
+  "uniq": 721955638,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

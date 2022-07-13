@@ -1,5 +1,5 @@
 {
-  "created": 1657628468,
+  "created": 1657674301,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -2158,31 +2158,73 @@
       "sha1": "c6edd85a1bf9c5194b0b2353736779992f1ba020"
     },
     {
+      "name": "politifact-2022-07-12T12:05:12.720220-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657641917",
+      "size": "35384",
+      "md5": "53fc7c7feab7c00e2812734de7e12c77",
+      "crc32": "6e18e9d9",
+      "sha1": "867070a786f00ea274ae9e426c275c62d5d2fadc",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-12T12:05:12.720220-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657641921",
+      "size": "22019",
+      "md5": "2b8ec739b2c83cc2591060a0a65d3aa6",
+      "crc32": "15049b8d",
+      "sha1": "eca2e5f1804233ffd5d1fd08c70cec845f8f4368",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-12T12:05:12.720220-04:00.jpg",
+      "source": "original",
+      "mtime": "1657641915",
+      "size": "193359",
+      "md5": "2006bda58d59faaae71a9633a4b3aaab",
+      "crc32": "ea3dad70",
+      "sha1": "404400d03aa21587fab6c97becfe142441ddc494",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-07-12T12:05:12.720220-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-12T12:05:12.720220-04:00.jpg",
+      "mtime": "1657642793",
+      "size": "8450",
+      "md5": "05d66bed08111d6eebb22171fcad00f1",
+      "crc32": "1a78c801",
+      "sha1": "c6edd85a1bf9c5194b0b2353736779992f1ba020"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f8292b3abed06415b516f1f0db641ae98e67136",
-      "mtime": "1657592170",
-      "size": "44873",
-      "md5": "a7149c233fa065c2548d6823c260d55e",
-      "crc32": "5f7ac8d6",
-      "sha1": "b1285bfcaa81e9b4575e5b2667afa53339e18161",
+      "btih": "588ed61e50e8b56690c4730deaaeb740334f22d7",
+      "mtime": "1657642816",
+      "size": "45730",
+      "md5": "04031efc4da2eec957b8e267fa96b830",
+      "crc32": "7a5a882b",
+      "sha1": "c9f04697bfa7694fa1adf6998aa771a8915bc047",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f7eca497252f8c932c605c99c7e7be8",
+      "md5": "a1ff819e18b32e0fba4f3d7128b02580",
       "summation": "md5"
     },
     {
       "name": "politifact-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657592044",
-      "size": "253952",
-      "md5": "fc12cad70cebc472e3cea44f35dfa90c",
-      "crc32": "7dcc3e50",
-      "sha1": "60dcba379c16fc7b1b60a390d94c2bf9f86455b4",
+      "mtime": "1657642078",
+      "size": "258048",
+      "md5": "9ebfd2819d6af4441e267688da6135a7",
+      "crc32": "2b3b91a8",
+      "sha1": "1c84954c6db2da5893889a75e302856e98b2786d",
       "format": "Metadata"
     },
     {
@@ -2196,9 +2238,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 209,
-  "item_last_updated": 1657592170,
-  "item_size": 14469926,
+  "files_count": 213,
+  "item_last_updated": 1657642816,
+  "item_size": 14734091,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -2537,6 +2579,14 @@
       "url": "/factchecks/2022/jun/28/instagram-posts/headline-about-texas-lawmakers-anti-abortion-bill-/"
     },
     {
+      "text": "\nBob Good\n",
+      "url": "/personalities/bob-good/"
+    },
+    {
+      "text": "\n\u201cNinety-two percent of abortions in Virginia take place before 15 weeks.\u201d\n",
+      "url": "/factchecks/2022/jul/12/bob-good/virginia-975-abortions-occur-15-weeks-pregnancy-or/"
+    },
+    {
       "text": "\nInstagram posts\n",
       "url": "/personalities/instagram-posts/"
     },
@@ -2609,16 +2659,16 @@
       "url": "/factchecks/2022/jul/08/ron-desantis/ron-desantis-falsely-claims-biden-trying-buy-state/"
     },
     {
-      "text": "\nFacebook posts\n",
-      "url": "/personalities/facebook-posts/"
-    },
-    {
-      "text": "\n\u201cMoscow was engulfed in flames\u201d after a giant explosion.\n",
-      "url": "/factchecks/2022/jul/08/facebook-posts/moscow-wasnt-engulfed-flames/"
-    },
-    {
       "text": "View all",
       "url": "/factchecks/list/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "/article/2022/jul/12/what-illinois-red-flag-gun-law-means-after-highlan/"
+    },
+    {
+      "text": "\nWhat Illinois\u2019 \u2018red flag\u2019 gun law means after the Highland Park shooting\n",
+      "url": "/article/2022/jul/12/what-illinois-red-flag-gun-law-means-after-highlan/"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -2691,14 +2741,6 @@
     {
       "text": "\nDoctors \u2018strongly discourage\u2019 using herbs to induce a miscarriage\n",
       "url": "/article/2022/jul/06/doctors-strongly-discourage-using-herbs-induce-mis/"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "/article/2022/jul/05/evers-o-meter-update-gov-tony-evers-campaign-promi/"
-    },
-    {
-      "text": "\nEvers-O-Meter update of Gov. Tony Evers campaign promises\n",
-      "url": "/article/2022/jul/05/evers-o-meter-update-gov-tony-evers-campaign-promi/"
     },
     {
       "text": "View all",
@@ -2793,7 +2835,7 @@
       "url": "/personalities/joe-biden/"
     },
     {
-      "text": "\n\n \n\n\n",
+      "text": "\n\n\n\n\n",
       "url": "/personalities/donald-trump/"
     },
     {
@@ -3013,10 +3055,10 @@
       "url": "/copyright/"
     }
   ],
-  "server": "ia801407.us.archive.org",
-  "uniq": 156433925,
+  "server": "ia601407.us.archive.org",
+  "uniq": 1398774208,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

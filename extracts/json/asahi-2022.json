@@ -2893,7 +2893,7 @@
       "url": "https://www.asahi.com/corporate/privacypolicy/13019112/?iref=comtop_cmp"
     }
   ],
-  "created": 1657627782,
+  "created": 1657673725,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/asahi-2022",
@@ -3344,31 +3344,53 @@
       "sha1": "d3a1044e4dcd8563cac222418a97bce3b77014c6"
     },
     {
+      "name": "asahi-2022-07-13T02:41:40.244755+09:00.jpg",
+      "source": "original",
+      "mtime": "1657647702",
+      "size": "320730",
+      "md5": "63ce550fd9ffd5973684adfd43386b9e",
+      "crc32": "c03d3ada",
+      "sha1": "a45ee872035805e1a0c2433eb3780fd406934546",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asahi-2022-07-13T02:41:40.244755+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asahi-2022-07-13T02:41:40.244755+09:00.jpg",
+      "mtime": "1657647759",
+      "size": "9890",
+      "md5": "216fd3ad523ccaabeaf69cb88c8b6ac6",
+      "crc32": "55c062b0",
+      "sha1": "94d1d8e057cd5943f38c6fc736075a416a2625a5"
+    },
+    {
       "name": "asahi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ffc9bc77823bb8d13d6adbdbd8e89dcdc66266b",
-      "mtime": "1657600270",
-      "size": "10176",
-      "md5": "0719f7bb1677840e5ba1b7753580f64b",
-      "crc32": "c160f692",
-      "sha1": "a2224431a1f800c5f8fc9c722d43a51051d4523a",
+      "btih": "87bd36f681df0020a3565294b20f711391abecf2",
+      "mtime": "1657647763",
+      "size": "10594",
+      "md5": "a2e85ad13497820bc7c758b536c03e10",
+      "crc32": "9f4f2711",
+      "sha1": "665927dbe8296fa0a87c9913845db6b3db80b170",
       "format": "Archive BitTorrent"
     },
     {
       "name": "asahi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4aff34e23ffd23d09343f9ea49faa865",
+      "md5": "7e87322dbabe02700805e0d51ef88240",
       "summation": "md5"
     },
     {
       "name": "asahi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657600225",
+      "mtime": "1657647705",
       "size": "61440",
-      "md5": "5a1cab8ecdc5386b97211c939dc53d43",
-      "crc32": "5d119fa7",
-      "sha1": "abf69e9a76d5fd6ea2e2697b12ca1b957affd9d1",
+      "md5": "95e56db3b136c694982cb0f04c306a0e",
+      "crc32": "7d3c885a",
+      "sha1": "d25026acae09f5dabce41c9fcf413f1348c92e78",
       "format": "Metadata"
     },
     {
@@ -3382,9 +3404,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 46,
-  "item_last_updated": 1657600270,
-  "item_size": 6052627,
+  "files_count": 48,
+  "item_last_updated": 1657647763,
+  "item_size": 6383665,
   "metadata": {
     "identifier": "asahi-2022",
     "collection": [
@@ -3401,10 +3423,10 @@
     "publicdate": "2022-07-09 02:39:04",
     "addeddate": "2022-07-09 02:39:04"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 1649719439,
+  "server": "ia801507.us.archive.org",
+  "uniq": 633576405,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

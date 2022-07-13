@@ -1,5 +1,5 @@
 {
-  "created": 1657628377,
+  "created": 1657674222,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -2138,31 +2138,73 @@
       "sha1": "a96e8a81e923b337c2c7d044031859511f64aa79"
     },
     {
+      "name": "newyorker-2022-07-12T12:02:00.194747-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657641726",
+      "size": "46440",
+      "md5": "9c85d8c4322b53202f5ecc37ca516660",
+      "crc32": "58516958",
+      "sha1": "4fac030889036d3fbedaaf67ee11da5c063da45a",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-07-12T12:02:00.194747-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657641728",
+      "size": "25194",
+      "md5": "c14149a1718ba483d2ab52f4083ff093",
+      "crc32": "7d945452",
+      "sha1": "7dd152da472a27af9e90017e418f4c907a6aaf6c",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-07-12T12:02:00.194747-04:00.jpg",
+      "source": "original",
+      "mtime": "1657641722",
+      "size": "214886",
+      "md5": "dccc6b69e0c3af18f85fc040b0cee98c",
+      "crc32": "632b9043",
+      "sha1": "412ea9174fa119a78b61f9682bfb01260058c202",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-07-12T12:02:00.194747-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-07-12T12:02:00.194747-04:00.jpg",
+      "mtime": "1657642898",
+      "size": "8483",
+      "md5": "a8be70ba42e800e083d966f52f8a122d",
+      "crc32": "b3e7747e",
+      "sha1": "58dc009052bd6abd7ccb97de0dfe0160a24b333d"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b465e98491e1eb7a82872f0e0421b148a3f4671f",
-      "mtime": "1657592023",
-      "size": "44416",
-      "md5": "77018c11cd7cf0cf29fe518f1c5fb340",
-      "crc32": "f4222171",
-      "sha1": "13c82b60f05a2d296c4dab7e83595d8c49c44b91",
+      "btih": "3dca25c42fb4a65daba5fe00ecfdef26386afb52",
+      "mtime": "1657642986",
+      "size": "45249",
+      "md5": "79cf97179fdefe871b2d84be5af1fbe1",
+      "crc32": "8e6145b0",
+      "sha1": "3cdc34c75483ab2bbac3c44245489e3b89a819b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "873ea79e3b16de239b2c27d89c1d1945",
+      "md5": "fba3aa67073feb009837a1ca93bf42d7",
       "summation": "md5"
     },
     {
       "name": "newyorker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657591935",
-      "size": "253952",
-      "md5": "5146bfcca16ad3db976007a8d763725a",
-      "crc32": "9bd384d7",
-      "sha1": "9f89ec91447be20857e524d1f8a230310159ec8f",
+      "mtime": "1657641853",
+      "size": "258048",
+      "md5": "f07af222929017065ff6d6445e6d0f2d",
+      "crc32": "99c30a46",
+      "sha1": "0cce4dadf8dce940bf7595b3558d02db11b0c0f9",
       "format": "Metadata"
     },
     {
@@ -2176,9 +2218,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 207,
-  "item_last_updated": 1657592023,
-  "item_size": 19117571,
+  "files_count": 211,
+  "item_last_updated": 1657642986,
+  "item_size": 19417503,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -2195,1250 +2237,974 @@
     "publicdate": "2022-06-24 22:58:35",
     "addeddate": "2022-06-24 22:58:35"
   },
-  "newyorker-2022": {
-    "role": "WebArea",
-    "name": "The New Yorker",
-    "children": [
-      {
-        "role": "link",
-        "name": "Skip to main content"
-      },
-      {
-        "role": "link",
-        "name": "LG Cartton"
-      },
-      {
-        "role": "link",
-        "name": "The New Yorker"
-      },
-      {
-        "role": "link",
-        "name": "Newsletter"
-      },
-      {
-        "role": "link",
-        "name": "Sign In"
-      },
-      {
-        "role": "link",
-        "name": "Subscribe"
-      },
-      {
-        "role": "link",
-        "name": "Search Search"
-      },
-      {
-        "role": "link",
-        "name": "News"
-      },
-      {
-        "role": "link",
-        "name": "Books & Culture"
-      },
-      {
-        "role": "link",
-        "name": "Fiction & Poetry"
-      },
-      {
-        "role": "link",
-        "name": "Humor & Cartoons"
-      },
-      {
-        "role": "link",
-        "name": "Magazine"
-      },
-      {
-        "role": "link",
-        "name": "Puzzles & Games"
-      },
-      {
-        "role": "link",
-        "name": "Video"
-      },
-      {
-        "role": "link",
-        "name": "Podcasts"
-      },
-      {
-        "role": "link",
-        "name": "Archive"
-      },
-      {
-        "role": "link",
-        "name": "Goings On"
-      },
-      {
-        "role": "link",
-        "name": "Shop"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "main",
-        "name": "",
-        "children": [
-          {
-            "role": "Iframe",
-            "name": "Interactive Iframe Embed"
-          },
-          {
-            "role": "heading",
-            "name": "News & Culture",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "Annals of Inquiry A Hookup App for the Emotionally Mature Modern romance can feel cold and alienating. Feeld, by encouraging open-mindedness and respect, suggests a way forward. By Emily Witt",
-            "children": [
-              {
-                "role": "link",
-                "name": "Annals of Inquiry"
-              },
-              {
-                "role": "link",
-                "name": "A Hookup App for the Emotionally Mature"
-              },
-              {
-                "role": "link",
-                "name": "Emily Witt"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Annals of Education What Should a Queer Children\u2019s Book Do? How a vital, burgeoning genre of kid lit is being threatened across the country. By Jessica Winter",
-            "children": [
-              {
-                "role": "link",
-                "name": "Annals of Education"
-              },
-              {
-                "role": "link",
-                "name": "What Should a Queer Children\u2019s Book Do?"
-              },
-              {
-                "role": "link",
-                "name": "Jessica Winter"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Dept. of Heirlooms Snoopy and Woodstock at My Parents\u2019 Wedding Had my mom and dad got married back home in Taiwan, they would have splashed out for a banquet. Instead, they had a potluck at a rec center on campus. By Hua Hsu",
-            "children": [
-              {
-                "role": "link",
-                "name": "Dept. of Heirlooms"
-              },
-              {
-                "role": "link",
-                "name": "Snoopy and Woodstock at My Parents\u2019 Wedding"
-              },
-              {
-                "role": "link",
-                "name": "Hua Hsu"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The New Yorker Interview Life Lessons from Laura Wasser, Divorce Lawyer to the Stars The so-called disso queen, whose former clients range from Kim Kardashian to Johnny Depp, reflects on the state of our unions. By Naomi Fry",
-            "children": [
-              {
-                "role": "link",
-                "name": "The New Yorker Interview"
-              },
-              {
-                "role": "link",
-                "name": "Life Lessons from Laura Wasser, Divorce Lawyer to the Stars"
-              },
-              {
-                "role": "link",
-                "name": "Naomi Fry"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The Sporting Scene Nick Kyrgios Does What He Wants. At Wimbledon, It Wasn\u2019t Enough By Louisa Thomas",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Sporting Scene"
-              },
-              {
-                "role": "link",
-                "name": "Nick Kyrgios Does What He Wants. At Wimbledon, It Wasn\u2019t Enough"
-              },
-              {
-                "role": "link",
-                "name": "Louisa Thomas"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The Front Row \u201cThe Sorrow and the Pity,\u201d a Historical Documentary That Transformed France\u2019s Identity By Richard Brody",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Front Row"
-              },
-              {
-                "role": "link",
-                "name": "\u201cThe Sorrow and the Pity,\u201d a Historical Documentary That Transformed France\u2019s Identity"
-              },
-              {
-                "role": "link",
-                "name": "Richard Brody"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Q. & A. How Shinzo Abe Sought to Rewrite Japanese History By Isaac Chotiner",
-            "children": [
-              {
-                "role": "link",
-                "name": "Q. & A."
-              },
-              {
-                "role": "link",
-                "name": "How Shinzo Abe Sought to Rewrite Japanese History"
-              },
-              {
-                "role": "link",
-                "name": "Isaac Chotiner"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Kitchen Notes The Secrets of Stanley Tucci\u2019s Zucchini Spaghetti By Daniel Ford",
-            "children": [
-              {
-                "role": "link",
-                "name": "Kitchen Notes"
-              },
-              {
-                "role": "link",
-                "name": "The Secrets of Stanley Tucci\u2019s Zucchini Spaghetti"
-              },
-              {
-                "role": "link",
-                "name": "Daniel Ford"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Daily Comment Clarence Thomas\u2019s Self-Fulfilling Prophecies\u00a0 By Corey Robin",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Comment"
-              },
-              {
-                "role": "link",
-                "name": "Clarence Thomas\u2019s Self-Fulfilling Prophecies\u00a0"
-              },
-              {
-                "role": "link",
-                "name": "Corey Robin"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Puzzles & Games",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "Name Drop A quiz that tests your knowledge of notable people, published every weekday.",
-            "children": [
-              {
-                "role": "link",
-                "name": "Name Drop"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The Crossword A puzzle that ranges from lightly to considerably challenging, published every weekday.",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Crossword"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The Cryptic Crossword A weekly puzzle for lovers of wily wordplay.",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Cryptic Crossword"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Caption Contest We provide a cartoon, you provide a caption.",
-            "children": [
-              {
-                "role": "link",
-                "name": "Caption Contest"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Spotlight",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "Fiction Call Me Ishmael \u201cThere was no woman, there was a corner, and a corner was no place for a woman to stand, any more than a decent house was any place for her to live.\u201d By Shirley Jackson",
-            "children": [
-              {
-                "role": "link",
-                "name": "Fiction"
-              },
-              {
-                "role": "link",
-                "name": "Call Me Ishmael"
-              },
-              {
-                "role": "link",
-                "name": "Shirley Jackson"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The Art World A Misunderstood American Master The Yanktonai Dakota painter Oscar Howe is the subject of a remarkable retrospective at the National Museum of the American Indian. By Peter Schjeldahl",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Art World"
-              },
-              {
-                "role": "link",
-                "name": "A Misunderstood American Master"
-              },
-              {
-                "role": "link",
-                "name": "Peter Schjeldahl"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "On Television \u201cThe Janes\u201d and the Power of Pro-Abortion Imagery Lately, I have been thinking about what abortion looks like, or, rather, what we need it to look like. By Doreen St. F\u00e9lix",
-            "children": [
-              {
-                "role": "link",
-                "name": "On Television"
-              },
-              {
-                "role": "link",
-                "name": "\u201cThe Janes\u201d and the Power of Pro-Abortion Imagery"
-              },
-              {
-                "role": "link",
-                "name": "Doreen St. F\u00e9lix"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Culture Desk Teaching Myself Calculus at Sixty-Five I was never a good math student, but I was determined to penetrate the mysteries of mathematics. By Alec Wilkinson",
-            "children": [
-              {
-                "role": "link",
-                "name": "Culture Desk"
-              },
-              {
-                "role": "link",
-                "name": "Teaching Myself Calculus at Sixty-Five"
-              },
-              {
-                "role": "link",
-                "name": "Alec Wilkinson"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Q. & A. Ethical Health Care After Roe Can physicians meet their obligations to patients when abortion is criminalized? By Isaac Chotiner",
-            "children": [
-              {
-                "role": "link",
-                "name": "Q. & A."
-              },
-              {
-                "role": "link",
-                "name": "Ethical Health Care After Roe"
-              },
-              {
-                "role": "link",
-                "name": "Isaac Chotiner"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Daily Comment How Boris Johnson\u2019s Government Collapsed In twenty-four hours, more than three dozen ministers and aides deserted the Prime Minister. By Sam Knight",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Comment"
-              },
-              {
-                "role": "link",
-                "name": "How Boris Johnson\u2019s Government Collapsed"
-              },
-              {
-                "role": "link",
-                "name": "Sam Knight"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Fiction \u201cA King Alone\u201d \u201cThat was probably part of why he gave people rides. How grateful they were in a world where almost no one would stop to help a stranger.\u201d By Rachel Kushner",
-            "children": [
-              {
-                "role": "link",
-                "name": "Fiction"
-              },
-              {
-                "role": "link",
-                "name": "\u201cA King Alone\u201d"
-              },
-              {
-                "role": "link",
-                "name": "Rachel Kushner"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Road Trips In the Beforetime \u201cI could sense in my bones that the worst had happened, yet a road trip allowed time and space for disbelief. Disbelief is a kind of hope.\u201d By Yiyun Li",
-            "children": [
-              {
-                "role": "link",
-                "name": "Road Trips"
-              },
-              {
-                "role": "link",
-                "name": "In the Beforetime"
-              },
-              {
-                "role": "link",
-                "name": "Yiyun Li"
-              }
-            ]
-          },
-          {
-            "role": "text",
-            "name": "Support"
-          },
-          {
-            "role": "text",
-            "name": "The New Yorker\u2019s"
-          },
-          {
-            "role": "text",
-            "name": "award-winning journalism."
-          },
-          {
-            "role": "link",
-            "name": "Subscribe today \u00bb"
-          },
-          {
-            "role": "heading",
-            "name": "Listen to The New Yorker",
-            "level": 2
-          },
-          {
-            "role": "text",
-            "name": "Catch up where and when it suits you. For easy listening,\u00a0"
-          },
-          {
-            "role": "link",
-            "name": "download the New Yorker app"
-          },
-          {
-            "role": "text",
-            "name": "."
-          },
-          {
-            "role": "button",
-            "name": "Books The Many Confrontations of Jean Rhys In her life and in her writing, the author of post-colonial works such as \u201cWide Sargasso Sea\u201d met adversity with an unflinching eye. By James Wood",
-            "children": [
-              {
-                "role": "link",
-                "name": "Books"
-              },
-              {
-                "role": "link",
-                "name": "The Many Confrontations of Jean Rhys"
-              },
-              {
-                "role": "link",
-                "name": "James Wood"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Books Cristina Rivera Garza\u2019s Bodies Politic Scrutinizing gender, history, and authority, the Mexican-born writer has found an unsettling yet playful way to write about desire. By Merve Emre",
-            "children": [
-              {
-                "role": "link",
-                "name": "Books"
-              },
-              {
-                "role": "link",
-                "name": "Cristina Rivera Garza\u2019s Bodies Politic"
-              },
-              {
-                "role": "link",
-                "name": "Merve Emre"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Personal History The Truth About My Father Until I was sixteen, I believed that, on my father\u2019s side, I was descended from the enslaved people who had crossed the Atlantic in chains. By David Wright Falad\u00e9",
-            "children": [
-              {
-                "role": "link",
-                "name": "Personal History"
-              },
-              {
-                "role": "link",
-                "name": "The Truth About My Father"
-              },
-              {
-                "role": "link",
-                "name": "David Wright Falad\u00e9"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Books Rediscovering Halld\u00f3r Laxness A long eclipse for Iceland\u2019s greatest novelist has been followed by a continuing renaissance. By Salvatore Scibona",
-            "children": [
-              {
-                "role": "link",
-                "name": "Books"
-              },
-              {
-                "role": "link",
-                "name": "Rediscovering Halld\u00f3r Laxness"
-              },
-              {
-                "role": "link",
-                "name": "Salvatore Scibona"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Contributors",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "Keeanga-Yamahtta Taylor Our Columnists Abortion Is About Freedom, Not Just Privacy",
-            "children": [
-              {
-                "role": "link",
-                "name": "Our Columnists"
-              },
-              {
-                "role": "link",
-                "name": "Abortion Is About Freedom, Not Just Privacy"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Adam Gopnik Daily Comment Highland Park and an Illegitimate Supreme Court",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Comment"
-              },
-              {
-                "role": "link",
-                "name": "Highland Park and an Illegitimate Supreme Court"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Edwidge Danticat News Desk Haiti a Year After the Presidential Assassination",
-            "children": [
-              {
-                "role": "link",
-                "name": "News Desk"
-              },
-              {
-                "role": "link",
-                "name": "Haiti a Year After the Presidential Assassination"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Sheelah Kolhatkar Currency Restrictions on Contraception Could Set Women Back Generations",
-            "children": [
-              {
-                "role": "link",
-                "name": "Currency"
-              },
-              {
-                "role": "link",
-                "name": "Restrictions on Contraception Could Set Women Back Generations"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Jeannie Suk Gersen Comment The Supreme Court\u2019s Conservatives Have Asserted Their Power",
-            "children": [
-              {
-                "role": "link",
-                "name": "Comment"
-              },
-              {
-                "role": "link",
-                "name": "The Supreme Court\u2019s Conservatives Have Asserted Their Power"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Richard Brody The Front Row \u201cBoth Sides of the Blade,\u201d Reviewed: Claire Denis\u2019s Politics of Privacy",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Front Row"
-              },
-              {
-                "role": "link",
-                "name": "\u201cBoth Sides of the Blade,\u201d Reviewed: Claire Denis\u2019s Politics of Privacy"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Joshua Rothman Culture Desk What the \u201cStranger Things\u201d Finale Reveals",
-            "children": [
-              {
-                "role": "link",
-                "name": "Culture Desk"
-              },
-              {
-                "role": "link",
-                "name": "What the \u201cStranger Things\u201d Finale Reveals"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Rivka Galchen Elements Why Do We Obey Rules?",
-            "children": [
-              {
-                "role": "link",
-                "name": "Elements"
-              },
-              {
-                "role": "link",
-                "name": "Why Do We Obey Rules?"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Daily Cartoon",
-            "level": 2
-          },
-          {
-            "role": "link",
-            "name": "This week\u2019s cartoons \u00bb"
-          },
-          {
-            "role": "button",
-            "name": "\u201cMaybe one day we\u2019ll have a President with no reproductive rights, just like us.\u201d Share on Facebook Share on Twitter Share via Email Get in store",
-            "children": [
-              {
-                "role": "generic",
-                "name": "",
-                "children": [
-                  {
-                    "role": "link",
-                    "name": ""
-                  },
-                  {
-                    "role": "link",
-                    "name": "Share on Facebook"
-                  },
-                  {
-                    "role": "link",
-                    "name": "Share on Twitter"
-                  },
-                  {
-                    "role": "link",
-                    "name": "Share via Email"
-                  },
-                  {
-                    "role": "link",
-                    "name": "Get in store"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "role": "link",
-            "name": "Sign up for the Daily Humor newsletter \u00bb"
-          },
-          {
-            "role": "heading",
-            "name": "New Yorker Favorites",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "The New Yorker Recommends Sign up to receive our weekly newsletter about what to read, watch, and listen to.",
-            "children": [
-              {
-                "role": "link",
-                "name": "The New Yorker Recommends"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Photo Booth The work of great photographers, past and present.",
-            "children": [
-              {
-                "role": "link",
-                "name": "Photo Booth"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The New Yorker Documentary Uncommon perspectives on issues that matter to us now.",
-            "children": [
-              {
-                "role": "link",
-                "name": "The New Yorker Documentary"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The New Yorker Radio Hour A weekly mix of in-depth interviews, profiles, and more, hosted by David Remnick.",
-            "children": [
-              {
-                "role": "link",
-                "name": "The New Yorker Radio Hour"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "From This Week\u2019s Issue",
-            "level": 2
-          },
-          {
-            "role": "link",
-            "name": "All issues \u00bb"
-          },
-          {
-            "role": "text",
-            "name": "The Fiction Issue: stories by"
-          },
-          {
-            "role": "link",
-            "name": "Rachel Kushner"
-          },
-          {
-            "role": "text",
-            "name": ","
-          },
-          {
-            "role": "link",
-            "name": "Bryan Washington"
-          },
-          {
-            "role": "text",
-            "name": ", and"
-          },
-          {
-            "role": "link",
-            "name": "Ling Ma"
-          },
-          {
-            "role": "text",
-            "name": ", plus Ian Parker on"
-          },
-          {
-            "role": "link",
-            "name": "Emmanuel Carr\u00e8re"
-          },
-          {
-            "role": "text",
-            "name": ", James Wood on"
-          },
-          {
-            "role": "link",
-            "name": "Jean Rhys"
-          },
-          {
-            "role": "text",
-            "name": ", and more."
-          },
-          {
-            "role": "link",
-            "name": "Table of Contents \u00bb"
-          },
-          {
-            "role": "text",
-            "name": "July 11 & 18, 2022"
-          },
-          {
-            "role": "link",
-            "name": "Car going down colorful road and surroundings."
-          },
-          {
-            "role": "text",
-            "name": "\u201cAdventures Ahead,\u201d by Lorenzo Mattotti."
-          },
-          {
-            "role": "link",
-            "name": "The New Yorker Journalism that matters The New Yorker Magazine Get 12 weeks for $29.99 $12 Subscribe Cancel anytime."
-          },
-          {
-            "role": "heading",
-            "name": "Fiction",
-            "level": 2
-          },
-          {
-            "role": "link",
-            "name": "All fiction \u00bb"
-          },
-          {
-            "role": "link",
-            "name": "\u201cArrivals\u201d"
-          },
-          {
-            "role": "link",
-            "name": "A crescent moon framed in a sun visor mirror during sunset in a parking lot with palm trees."
-          },
-          {
-            "role": "text",
-            "name": "BY"
-          },
-          {
-            "role": "link",
-            "name": "Bryan Washington"
-          },
-          {
-            "role": "text",
-            "name": "Photo Illustration by Kanghee Kim"
-          },
-          {
-            "role": "text",
-            "name": "You\u2019ve caught the morning\u2019s first flight and your car is late, but Aiden told you it\u2019d be there and five minutes later it is. He\u2019s filming in Georgia, because apparently everyone\u2019s filming in Georgia, which means he\u2019s sleeping on set, which means you won\u2019t catch him during daylight hours\u2014but he still puts you up in a hotel on Piedmont for the weekend."
-          },
-          {
-            "role": "text",
-            "name": "It\u2019s like Montrose"
-          },
-          {
-            "role": "text",
-            "name": ", he texted,"
-          },
-          {
-            "role": "text",
-            "name": "but gayer"
-          },
-          {
-            "role": "text",
-            "name": "."
-          },
-          {
-            "role": "link",
-            "name": "Continue reading \u00bb"
-          },
-          {
-            "role": "button",
-            "name": "This Week in Fiction Bryan Washington on Why He Loves Houston",
-            "children": [
-              {
-                "role": "link",
-                "name": "This Week in Fiction"
-              },
-              {
-                "role": "link",
-                "name": "Bryan Washington on Why He Loves Houston"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The Writer\u2019s Voice The Author Reads \u201cArrivals\u201d",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Writer\u2019s Voice"
-              },
-              {
-                "role": "link",
-                "name": "The Author Reads \u201cArrivals\u201d"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Humor",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "Daily Shouts My Cat Has This Habit Why do they do the things they do? By Rachael Smith",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Shouts"
-              },
-              {
-                "role": "link",
-                "name": "My Cat Has This Habit"
-              },
-              {
-                "role": "link",
-                "name": "Rachael Smith"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Daily Shouts Now That You\u2019re Happy, You Only Have \u201cGood\u201d Problems A mischievous dog troubling your sleep, a needy ghost in the shower, and other quirky inconveniences. By Zoe Si",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Shouts"
-              },
-              {
-                "role": "link",
-                "name": "Now That You\u2019re Happy, You Only Have \u201cGood\u201d Problems"
-              },
-              {
-                "role": "link",
-                "name": "Zoe Si"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Satire from The Borowitz Report Steve Bannon Claims He Spent January 6th Washing His Hair \u201cI must have been in the shower for seven or eight hours,\u201d he said. By Andy Borowitz",
-            "children": [
-              {
-                "role": "link",
-                "name": "Satire from The Borowitz Report"
-              },
-              {
-                "role": "link",
-                "name": "Steve Bannon Claims He Spent January 6th Washing His Hair"
-              },
-              {
-                "role": "link",
-                "name": "Andy Borowitz"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Blitt\u2019s Kvetchbook Back on the Sauce Has the January 6th testimony driven the former guy to drink? By Barry Blitt",
-            "children": [
-              {
-                "role": "link",
-                "name": "Blitt\u2019s Kvetchbook"
-              },
-              {
-                "role": "link",
-                "name": "Back on the Sauce"
-              },
-              {
-                "role": "link",
-                "name": "Barry Blitt"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Daily Shouts Medium-Delicious Foods Need some healthy snacking ideas? My friend, you are in luck. By Sara Harvey",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Shouts"
-              },
-              {
-                "role": "link",
-                "name": "Medium-Delicious Foods"
-              },
-              {
-                "role": "link",
-                "name": "Sara Harvey"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Daily Shouts The Best Animals to Watch Your Baby, According to Hemingway A talking parrot, a howling monkey, a polydactyl cat, and more. By Julie Vick",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Shouts"
-              },
-              {
-                "role": "link",
-                "name": "The Best Animals to Watch Your Baby, According to Hemingway"
-              },
-              {
-                "role": "link",
-                "name": "Julie Vick"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Video",
-            "level": 2
-          },
-          {
-            "role": "Iframe",
-            "name": "Video Player"
-          },
-          {
-            "role": "link",
-            "name": "Escaping the Fragile Planet: Boy Meets Boy at the End of the World"
-          },
-          {
-            "role": "link",
-            "name": "Into Light: A Mother\u2019s Embrace of Her Child\u2019s Gender Identity"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Journalism that matters Woman reading a book and The New Yorker magazine https://media.newyorker.com/photos/62bdc90ddcb243769524972d/master/pass/nyr-book-person.png?format=original Subscribe Cancel anytime."
-      },
-      {
-        "role": "link",
-        "name": "The New Yorker"
-      },
-      {
-        "role": "text",
-        "name": "Sections"
-      },
-      {
-        "role": "link",
-        "name": "News"
-      },
-      {
-        "role": "link",
-        "name": "Books & Culture"
-      },
-      {
-        "role": "link",
-        "name": "Fiction & Poetry"
-      },
-      {
-        "role": "link",
-        "name": "Humor & Cartoons"
-      },
-      {
-        "role": "link",
-        "name": "Magazine"
-      },
-      {
-        "role": "link",
-        "name": "Crossword"
-      },
-      {
-        "role": "link",
-        "name": "Video"
-      },
-      {
-        "role": "link",
-        "name": "Podcasts"
-      },
-      {
-        "role": "link",
-        "name": "Archive"
-      },
-      {
-        "role": "link",
-        "name": "Goings On"
-      },
-      {
-        "role": "text",
-        "name": "More"
-      },
-      {
-        "role": "link",
-        "name": "Customer Care"
-      },
-      {
-        "role": "link",
-        "name": "Shop The New Yorker"
-      },
-      {
-        "role": "link",
-        "name": "Buy Covers and Cartoons"
-      },
-      {
-        "role": "link",
-        "name": "Cond\u00e9 Nast Store"
-      },
-      {
-        "role": "link",
-        "name": "Digital Access"
-      },
-      {
-        "role": "link",
-        "name": "Newsletters"
-      },
-      {
-        "role": "link",
-        "name": "Jigsaw Puzzle"
-      },
-      {
-        "role": "link",
-        "name": "RSS"
-      },
-      {
-        "role": "link",
-        "name": "Site Map"
-      },
-      {
-        "role": "link",
-        "name": "About"
-      },
-      {
-        "role": "link",
-        "name": "Careers"
-      },
-      {
-        "role": "link",
-        "name": "Contact"
-      },
-      {
-        "role": "link",
-        "name": "F.A.Q."
-      },
-      {
-        "role": "link",
-        "name": "Media Kit"
-      },
-      {
-        "role": "link",
-        "name": "Press"
-      },
-      {
-        "role": "link",
-        "name": "Accessibility Help"
-      },
-      {
-        "role": "link",
-        "name": "Cond\u00e9 Nast Spotlight"
-      },
-      {
-        "role": "text",
-        "name": "\u00a9"
-      },
-      {
-        "role": "text",
-        "name": "2022"
-      },
-      {
-        "role": "text",
-        "name": "Cond\u00e9 Nast. All rights reserved. Use of this site constitutes acceptance of our"
-      },
-      {
-        "role": "link",
-        "name": "User Agreement"
-      },
-      {
-        "role": "text",
-        "name": "and"
-      },
-      {
-        "role": "link",
-        "name": "Privacy Policy and Cookie Statement"
-      },
-      {
-        "role": "text",
-        "name": "and"
-      },
-      {
-        "role": "link",
-        "name": "Your California Privacy Rights."
-      },
-      {
-        "role": "text",
-        "name": "The New Yorker"
-      },
-      {
-        "role": "text",
-        "name": "may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond\u00e9 Nast."
-      },
-      {
-        "role": "link",
-        "name": "Ad Choices"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Facebook"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Twitter"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Snapchat"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on YouTube"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Instagram"
-      },
-      {
-        "role": "button",
-        "name": "Do Not Sell My Personal Info"
-      }
-    ]
-  },
+  "newyorker-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#main-content"
+    },
+    {
+      "text": "\n    Get 12 weeks for $29.99 $12",
+      "url": "https://www.newyorker.com/v2/offers/tny008?source=Site_0_JNY_NYR_HOMEPAGE_NAV_LEFT_0_US_CONTROL_AOC_TEST_JUL22_PANELA_ZZ"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Newsletter",
+      "url": "/newsletters"
+    },
+    {
+      "text": "View saved stories",
+      "url": "/account/saved"
+    },
+    {
+      "text": "Sign In",
+      "url": "/auth/initiate?redirectURL=%2F&source=VERSO_NAVIGATION"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.newyorker.com/v2/offers/tny008?source=Site_0_JNY_NYR_DESKTOP_GLOBAL_NAV_CTA_0_US_CONTROL_AOC_TEST_JUL22_PANELA_ZZ"
+    },
+    {
+      "text": "        \n          \n            \n          \n        \n        Journalism that matters\n        Get 12 weeks for $29.99 $12\n        Subscribe\n        Cancel anytime.\n      ",
+      "url": "https://www.newyorker.com/v2/offers/tny008?source=Site_0_JNY_NYR_DESKTOP_GLOBAL_NAV_ROLLOVER_0_US_CONTROL_AOC_TEST_JUL22_PANELA_ZZ"
+    },
+    {
+      "text": "SearchSearch",
+      "url": "/search"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Books & Culture",
+      "url": "/culture"
+    },
+    {
+      "text": "Fiction & Poetry",
+      "url": "/fiction-and-poetry"
+    },
+    {
+      "text": "Humor & Cartoons",
+      "url": "/humor"
+    },
+    {
+      "text": "Magazine",
+      "url": "/magazine"
+    },
+    {
+      "text": "Puzzles & Games",
+      "url": "/crossword-puzzles-and-games"
+    },
+    {
+      "text": "Video",
+      "url": "https://video.newyorker.com"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcast"
+    },
+    {
+      "text": "Archive",
+      "url": "/archive"
+    },
+    {
+      "text": "Goings On",
+      "url": "https://www.newyorker.com/goings-on-about-town"
+    },
+    {
+      "text": "Shop",
+      "url": "https://store.newyorker.com"
+    },
+    {
+      "text": "View saved stories",
+      "url": "/account/saved"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "/news/us-journal/prenups-arent-just-for-rich-people-anymore"
+    },
+    {
+      "text": "U.S. Journal",
+      "url": "/news/us-journal"
+    },
+    {
+      "text": "Prenups Aren\u2019t Just for Rich People Anymore",
+      "url": "/news/us-journal/prenups-arent-just-for-rich-people-anymore"
+    },
+    {
+      "text": "Michael Waters",
+      "url": "/contributors/michael-waters"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/11/the-truth-about-my-father"
+    },
+    {
+      "text": "Personal History",
+      "url": "/magazine/personal-history"
+    },
+    {
+      "text": "The Truth About My Father",
+      "url": "/magazine/2022/07/11/the-truth-about-my-father"
+    },
+    {
+      "text": "David Wright Falad\u00e9",
+      "url": "/contributors/david-wright-falade"
+    },
+    {
+      "text": "",
+      "url": "/culture/dept-of-heirlooms/the-rescued-portrait-of-my-italian-grandmother"
+    },
+    {
+      "text": "Dept. of Heirlooms",
+      "url": "/culture/dept-of-heirlooms"
+    },
+    {
+      "text": "The Rescued Portrait of My Italian Grandmother",
+      "url": "/culture/dept-of-heirlooms/the-rescued-portrait-of-my-italian-grandmother"
+    },
+    {
+      "text": "Jill Lepore",
+      "url": "/contributors/jill-lepore"
+    },
+    {
+      "text": "",
+      "url": "/culture/culture-desk/elliot-page-brings-his-misfit-characters-to-life"
+    },
+    {
+      "text": "Culture Desk",
+      "url": "/culture/culture-desk"
+    },
+    {
+      "text": "Elliot Page Brings His Misfit Characters to Life",
+      "url": "/culture/culture-desk/elliot-page-brings-his-misfit-characters-to-life"
+    },
+    {
+      "text": "Crispin Long",
+      "url": "/contributors/crispin-long"
+    },
+    {
+      "text": "Annals of Inquiry",
+      "url": "/culture/annals-of-inquiry"
+    },
+    {
+      "text": "",
+      "url": "/culture/annals-of-inquiry/feeld-dating-app-sex"
+    },
+    {
+      "text": "A Hookup App for the Emotionally Mature",
+      "url": "/culture/annals-of-inquiry/feeld-dating-app-sex"
+    },
+    {
+      "text": "Emily Witt",
+      "url": "/contributors/emily-witt"
+    },
+    {
+      "text": "Afterword",
+      "url": "/news/afterword"
+    },
+    {
+      "text": "",
+      "url": "/news/afterword/an-old-dog-that-found-a-new-best-friend"
+    },
+    {
+      "text": "An Old Dog That Found a New Best Friend",
+      "url": "/news/afterword/an-old-dog-that-found-a-new-best-friend"
+    },
+    {
+      "text": "Susan Orlean",
+      "url": "/contributors/susan-orlean"
+    },
+    {
+      "text": "Profiles",
+      "url": "/magazine/profiles"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/11/emmanuel-carrere-writes-his-way-through-a-breakdown"
+    },
+    {
+      "text": "Emmanuel Carr\u00e8re Writes His Way Through a Breakdown",
+      "url": "/magazine/2022/07/11/emmanuel-carrere-writes-his-way-through-a-breakdown"
+    },
+    {
+      "text": "Ian Parker",
+      "url": "/contributors/ian-parker"
+    },
+    {
+      "text": "Fiction",
+      "url": "/magazine/fiction"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/11/arrivals"
+    },
+    {
+      "text": "\u201cArrivals\u201d",
+      "url": "/magazine/2022/07/11/arrivals"
+    },
+    {
+      "text": "Bryan Washington",
+      "url": "/contributors/bryan-washington"
+    },
+    {
+      "text": "The Front Row",
+      "url": "/culture/the-front-row"
+    },
+    {
+      "text": "",
+      "url": "/culture/the-front-row/what-to-stream-the-sorrow-and-the-pity-a-historical-documentary-that-transformed-frances-national-identity"
+    },
+    {
+      "text": "What to Stream: A Historical Documentary That Transformed France\u2019s National Identity",
+      "url": "/culture/the-front-row/what-to-stream-the-sorrow-and-the-pity-a-historical-documentary-that-transformed-frances-national-identity"
+    },
+    {
+      "text": "Richard Brody",
+      "url": "/contributors/richard-brody"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/latest"
+    },
+    {
+      "text": "Name Drop",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/latest"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/latest"
+    },
+    {
+      "text": "The Crossword",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/latest"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/latest"
+    },
+    {
+      "text": "The Cryptic Crossword",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/latest"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/cartoons/contest"
+    },
+    {
+      "text": "Caption Contest",
+      "url": "https://www.newyorker.com/cartoons/contest"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/11/selling-lies-with-jon-hamm"
+    },
+    {
+      "text": "Hoopla Dept.",
+      "url": "/magazine/hoopla-dept"
+    },
+    {
+      "text": "Selling Lies\u00a0with\u00a0Jon Hamm",
+      "url": "/magazine/2022/07/11/selling-lies-with-jon-hamm"
+    },
+    {
+      "text": "Sarah Larson",
+      "url": "/contributors/sarah-larson"
+    },
+    {
+      "text": "",
+      "url": "/news/annals-of-education/lgbt-books-kids-ban"
+    },
+    {
+      "text": "Annals of Education",
+      "url": "/news/annals-of-education"
+    },
+    {
+      "text": "What Should a Queer Children\u2019s Book Do?",
+      "url": "/news/annals-of-education/lgbt-books-kids-ban"
+    },
+    {
+      "text": "Jessica Winter",
+      "url": "/contributors/jessica-winter"
+    },
+    {
+      "text": "",
+      "url": "/culture/dept-of-heirlooms/snoopy-and-woodstock-at-my-parents-wedding"
+    },
+    {
+      "text": "Dept. of Heirlooms",
+      "url": "/culture/dept-of-heirlooms"
+    },
+    {
+      "text": "Snoopy and Woodstock at My Parents\u2019 Wedding",
+      "url": "/culture/dept-of-heirlooms/snoopy-and-woodstock-at-my-parents-wedding"
+    },
+    {
+      "text": "Hua Hsu",
+      "url": "/contributors/hua-hsu"
+    },
+    {
+      "text": "",
+      "url": "/news/daily-comment/the-self-fulfilling-prophecies-of-clarence-thomas"
+    },
+    {
+      "text": "Daily Comment",
+      "url": "/news/daily-comment"
+    },
+    {
+      "text": "The Self-Fulfilling Prophecies of Clarence Thomas",
+      "url": "/news/daily-comment/the-self-fulfilling-prophecies-of-clarence-thomas"
+    },
+    {
+      "text": "Corey Robin",
+      "url": "/contributors/corey-robin"
+    },
+    {
+      "text": "",
+      "url": "/culture/the-new-yorker-interview/life-lessons-from-laura-wasser-divorce-lawyer-to-the-stars"
+    },
+    {
+      "text": "The New Yorker Interview",
+      "url": "/culture/the-new-yorker-interview"
+    },
+    {
+      "text": "Life Lessons from Laura Wasser, Divorce Lawyer to the Stars",
+      "url": "/culture/the-new-yorker-interview/life-lessons-from-laura-wasser-divorce-lawyer-to-the-stars"
+    },
+    {
+      "text": "Naomi Fry",
+      "url": "/contributors/naomi-fry"
+    },
+    {
+      "text": "",
+      "url": "/news/q-and-a/how-shinzo-abe-sought-to-rewrite-japanese-history"
+    },
+    {
+      "text": "Q. & A.",
+      "url": "/news/q-and-a"
+    },
+    {
+      "text": "How Shinzo Abe Sought to Rewrite Japanese History",
+      "url": "/news/q-and-a/how-shinzo-abe-sought-to-rewrite-japanese-history"
+    },
+    {
+      "text": "Isaac Chotiner",
+      "url": "/contributors/isaac-chotiner"
+    },
+    {
+      "text": "",
+      "url": "/culture/kitchen-notes/the-secrets-of-stanley-tuccis-zucchini-spaghetti"
+    },
+    {
+      "text": "Kitchen Notes",
+      "url": "/culture/kitchen-notes"
+    },
+    {
+      "text": "The Secrets of Stanley Tucci\u2019s Zucchini Spaghetti",
+      "url": "/culture/kitchen-notes/the-secrets-of-stanley-tuccis-zucchini-spaghetti"
+    },
+    {
+      "text": "Daniel Ford",
+      "url": "/contributors/daniel-ford"
+    },
+    {
+      "text": "",
+      "url": "/sports/sporting-scene/nick-kyrgios-does-what-he-wants-at-wimbledon-it-wasnt-enough"
+    },
+    {
+      "text": "The Sporting Scene",
+      "url": "/sports/sporting-scene"
+    },
+    {
+      "text": "Nick Kyrgios Does What He Wants. At Wimbledon, It Wasn\u2019t Enough",
+      "url": "/sports/sporting-scene/nick-kyrgios-does-what-he-wants-at-wimbledon-it-wasnt-enough"
+    },
+    {
+      "text": "Louisa Thomas",
+      "url": "/contributors/louisa-thomas"
+    },
+    {
+      "text": "Subscribe today \u00bb",
+      "url": "https://subscribe.newyorker.com/subscribe/splits/newyorker/NYR_homepage_banner?source=HCL_NYR_HOMEPAGE_BANNER_0 "
+    },
+    {
+      "text": "download the New Yorker app",
+      "url": "https://apps.apple.com/us/app/the-new-yorker/id1081530898"
+    },
+    {
+      "text": "Audio available",
+      "url": "/magazine/2022/07/11/call-me-ishmael-an-early-story-by-shirley-jackson"
+    },
+    {
+      "text": "Fiction",
+      "url": "/magazine/fiction"
+    },
+    {
+      "text": "\u201cCall Me Ishmael\u201d",
+      "url": "/magazine/2022/07/11/call-me-ishmael-an-early-story-by-shirley-jackson"
+    },
+    {
+      "text": "Shirley Jackson",
+      "url": "/contributors/shirley-jackson"
+    },
+    {
+      "text": "Audio available",
+      "url": "/magazine/2022/07/11/the-many-confrontations-of-jean-rhys-miranda-seymour-i-used-to-live-here-once"
+    },
+    {
+      "text": "Books",
+      "url": "/magazine/books"
+    },
+    {
+      "text": "The Many Confrontations of Jean Rhys",
+      "url": "/magazine/2022/07/11/the-many-confrontations-of-jean-rhys-miranda-seymour-i-used-to-live-here-once"
+    },
+    {
+      "text": "James Wood",
+      "url": "/contributors/james-wood"
+    },
+    {
+      "text": "Audio available",
+      "url": "/magazine/2022/07/11/cristina-rivera-garzas-bodies-politic"
+    },
+    {
+      "text": "Books",
+      "url": "/magazine/books"
+    },
+    {
+      "text": "Cristina Rivera Garza\u2019s Bodies Politic",
+      "url": "/magazine/2022/07/11/cristina-rivera-garzas-bodies-politic"
+    },
+    {
+      "text": "Merve Emre",
+      "url": "/contributors/merve-emre"
+    },
+    {
+      "text": "Audio available",
+      "url": "/magazine/2022/07/11/the-rediscovery-of-halldor-laxness"
+    },
+    {
+      "text": "Books",
+      "url": "/magazine/books"
+    },
+    {
+      "text": "Rediscovering Halld\u00f3r Laxness",
+      "url": "/magazine/2022/07/11/the-rediscovery-of-halldor-laxness"
+    },
+    {
+      "text": "Salvatore Scibona",
+      "url": "/contributors/salvatore-scibona"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/11/a-frequently-misunderstood-indigenous-american-master-dakota-modern-oscar-howe"
+    },
+    {
+      "text": "The Art World",
+      "url": "/magazine/the-art-world"
+    },
+    {
+      "text": "A Frequently Misunderstood American Master",
+      "url": "/magazine/2022/07/11/a-frequently-misunderstood-indigenous-american-master-dakota-modern-oscar-howe"
+    },
+    {
+      "text": "",
+      "url": "/culture/on-television/the-janes-and-the-power-of-pro-abortion-imagery"
+    },
+    {
+      "text": "On Television",
+      "url": "/culture/on-television"
+    },
+    {
+      "text": "\u201cThe Janes\u201d and the Power of Pro-Abortion Imagery",
+      "url": "/culture/on-television/the-janes-and-the-power-of-pro-abortion-imagery"
+    },
+    {
+      "text": "",
+      "url": "/news/our-columnists/abortion-is-about-freedom-not-just-privacy"
+    },
+    {
+      "text": "Our Columnists",
+      "url": "/news/our-columnists"
+    },
+    {
+      "text": "Abortion Is About Freedom, Not Just Privacy",
+      "url": "/news/our-columnists/abortion-is-about-freedom-not-just-privacy"
+    },
+    {
+      "text": "",
+      "url": "/culture/culture-desk/teaching-myself-calculus-at-sixty-five"
+    },
+    {
+      "text": "Culture Desk",
+      "url": "/culture/culture-desk"
+    },
+    {
+      "text": "Teaching Myself Calculus at Sixty-Five",
+      "url": "/culture/culture-desk/teaching-myself-calculus-at-sixty-five"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/11/the-supreme-courts-conservatives-have-asserted-their-power"
+    },
+    {
+      "text": "Comment",
+      "url": "/magazine/comment"
+    },
+    {
+      "text": "The Supreme Court\u2019s Conservatives Have Asserted Their Power",
+      "url": "/magazine/2022/07/11/the-supreme-courts-conservatives-have-asserted-their-power"
+    },
+    {
+      "text": "",
+      "url": "/news/q-and-a/ethical-health-care-after-roe"
+    },
+    {
+      "text": "Q. & A.",
+      "url": "/news/q-and-a"
+    },
+    {
+      "text": "What Ethical Health Care Looks Like When Abortion Is Criminalized",
+      "url": "/news/q-and-a/ethical-health-care-after-roe"
+    },
+    {
+      "text": "",
+      "url": "/business/currency/restrictions-on-contraception-could-set-women-back-generations"
+    },
+    {
+      "text": "Currency",
+      "url": "/business/currency"
+    },
+    {
+      "text": "Restrictions on Contraception Could Set Women Back Generations",
+      "url": "/business/currency/restrictions-on-contraception-could-set-women-back-generations"
+    },
+    {
+      "text": "",
+      "url": "/news/daily-comment/boris-johnsons-government-is-collapsing-in-on-itself"
+    },
+    {
+      "text": "Daily Comment",
+      "url": "/news/daily-comment"
+    },
+    {
+      "text": "How Boris Johnson\u2019s Government Finally Collapsed",
+      "url": "/news/daily-comment/boris-johnsons-government-is-collapsing-in-on-itself"
+    },
+    {
+      "text": "This week\u2019s cartoons \u00bb",
+      "url": "https://www.newyorker.com/cartoons/issue-cartoons/cartoons-from-the-july-11-and-18-2022-issue"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/cartoon/a26885"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/dialog/feed?&display=popup&caption=&app_id=1147169538698836&link=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26885%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker%26utm_social-type%3Dearned"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/intent/tweet/?url=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26885%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker%26utm_social-type%3Dearned&text=&via=NewYorker"
+    },
+    {
+      "text": "Email",
+      "url": "mailto:?subject=&body=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26885%3Futm_source%3Donsite-share%26utm_medium%3Demail%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker"
+    },
+    {
+      "text": "Shopping",
+      "url": "https://condenaststore.com/conde-nast-brand/cartoons"
+    },
+    {
+      "text": "Sign up for the Daily Humor newsletter \u00bb",
+      "url": "https://www.newyorker.com/newsletter/humor"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/newsletter/recommends"
+    },
+    {
+      "text": "The New Yorker Recommends",
+      "url": "https://www.newyorker.com/newsletter/recommends"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/culture/photo-booth"
+    },
+    {
+      "text": "Photo Booth",
+      "url": "https://www.newyorker.com/culture/photo-booth"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/video/series/the-new-yorker-documentary"
+    },
+    {
+      "text": "The New Yorker Documentary",
+      "url": "https://www.newyorker.com/video/series/the-new-yorker-documentary"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour"
+    },
+    {
+      "text": "The New Yorker Radio Hour",
+      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour"
+    },
+    {
+      "text": "All issues \u00bb",
+      "url": "https://www.newyorker.com/magazine"
+    },
+    {
+      "text": "Rachel Kushner",
+      "url": "https://www.newyorker.com/magazine/2022/07/11/a-king-alone"
+    },
+    {
+      "text": "Bryan Washington",
+      "url": "https://www.newyorker.com/magazine/2022/07/11/arrivals"
+    },
+    {
+      "text": "Ling Ma",
+      "url": "https://www.newyorker.com/magazine/2022/07/11/peking-duck"
+    },
+    {
+      "text": "Emmanuel Carr\u00e8re",
+      "url": "https://www.newyorker.com/magazine/2022/07/11/emmanuel-carrere-writes-his-way-through-a-breakdown"
+    },
+    {
+      "text": "Jean Rhys",
+      "url": "https://www.newyorker.com/magazine/2022/07/11/the-many-confrontations-of-jean-rhys-miranda-seymour-i-used-to-live-here-once"
+    },
+    {
+      "text": "Table of Contents \u00bb",
+      "url": "/magazine"
+    },
+    {
+      "text": "",
+      "url": "/magazine"
+    },
+    {
+      "text": "\n      Journalism that matters\n      Get 12 weeks for $29.99 $12\n        Subscribe\n        Cancel anytime.\n    \n    Get 12 weeks for $29.99 $12\n      Subscribe\n      Cancel anytime.",
+      "url": "https://www.newyorker.com/v2/offers/tny008?source=Site_0_JNY_NYR_DESKTOP_HOMEPAGE_CONTENT_RIVER_0_US_CONTROL_AOC_TEST_JUL22_PANELA_ZZ"
+    },
+    {
+      "text": "All fiction \u00bb",
+      "url": "https://www.newyorker.com/fiction-and-poetry"
+    },
+    {
+      "text": "\u201cArrivals\u201d",
+      "url": "/magazine/2022/07/11/arrivals"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/11/arrivals"
+    },
+    {
+      "text": "Bryan Washington",
+      "url": "/contributors/bryan-washington"
+    },
+    {
+      "text": "Continue reading \u00bb",
+      "url": "/magazine/2022/07/11/arrivals"
+    },
+    {
+      "text": "This Week in Fiction",
+      "url": "/books/this-week-in-fiction"
+    },
+    {
+      "text": "",
+      "url": "/books/this-week-in-fiction/bryan-washington-07-11-22"
+    },
+    {
+      "text": "Bryan Washington on Why He Loves Houston",
+      "url": "/books/this-week-in-fiction/bryan-washington-07-11-22"
+    },
+    {
+      "text": "The Writer\u2019s Voice",
+      "url": "/podcast/the-writers-voice"
+    },
+    {
+      "text": "",
+      "url": "/podcast/the-writers-voice/bryan-washington-reads-arrivals"
+    },
+    {
+      "text": "The Author Reads \u201cArrivals\u201d",
+      "url": "/podcast/the-writers-voice/bryan-washington-reads-arrivals"
+    },
+    {
+      "text": "",
+      "url": "/humor/daily-shouts/live-in-my-head-for-a-very-low-rent-albeit-not-free"
+    },
+    {
+      "text": "Daily Shouts",
+      "url": "/humor/daily-shouts"
+    },
+    {
+      "text": "Live in My Head for a Very Low Rent, Albeit Not Free!",
+      "url": "/humor/daily-shouts/live-in-my-head-for-a-very-low-rent-albeit-not-free"
+    },
+    {
+      "text": "Teddy Wayne",
+      "url": "/contributors/teddy-wayne"
+    },
+    {
+      "text": "",
+      "url": "/humor/daily-shouts/how-marriage-makes-everything-fancy"
+    },
+    {
+      "text": "Daily Shouts",
+      "url": "/humor/daily-shouts"
+    },
+    {
+      "text": "How Marriage Makes Everything Fancy",
+      "url": "/humor/daily-shouts/how-marriage-makes-everything-fancy"
+    },
+    {
+      "text": "Eli Grober",
+      "url": "/contributors/eli-grober"
+    },
+    {
+      "text": "",
+      "url": "/humor/borowitz-report/steve-bannon-claims-he-spent-january-6th-washing-his-hair"
+    },
+    {
+      "text": "Satire from The Borowitz Report",
+      "url": "/humor/borowitz-report"
+    },
+    {
+      "text": "Steve Bannon Claims He Spent January 6th Washing His Hair",
+      "url": "/humor/borowitz-report/steve-bannon-claims-he-spent-january-6th-washing-his-hair"
+    },
+    {
+      "text": "Andy Borowitz",
+      "url": "/contributors/andy-borowitz"
+    },
+    {
+      "text": "",
+      "url": "/cartoons/blitts-kvetchbook/back-on-the-sauce"
+    },
+    {
+      "text": "Blitt\u2019s Kvetchbook",
+      "url": "/cartoons/blitts-kvetchbook"
+    },
+    {
+      "text": "Back on the Sauce",
+      "url": "/cartoons/blitts-kvetchbook/back-on-the-sauce"
+    },
+    {
+      "text": "Barry Blitt",
+      "url": "/contributors/barry-blitt"
+    },
+    {
+      "text": "",
+      "url": "/humor/daily-shouts/my-cat-has-this-habit"
+    },
+    {
+      "text": "Daily Shouts",
+      "url": "/humor/daily-shouts"
+    },
+    {
+      "text": "My Cat Has This Habit",
+      "url": "/humor/daily-shouts/my-cat-has-this-habit"
+    },
+    {
+      "text": "Rachael Smith",
+      "url": "/contributors/rachael-smith"
+    },
+    {
+      "text": "",
+      "url": "/humor/daily-shouts/now-that-youre-happy-you-only-have-good-problems"
+    },
+    {
+      "text": "Daily Shouts",
+      "url": "/humor/daily-shouts"
+    },
+    {
+      "text": "Now That You\u2019re Happy, You Only Have \u201cGood\u201d Problems",
+      "url": "/humor/daily-shouts/now-that-youre-happy-you-only-have-good-problems"
+    },
+    {
+      "text": "Zoe Si",
+      "url": "/contributors/zoe-si"
+    },
+    {
+      "text": "iconPlayCNE",
+      "url": "https://www.newyorker.com/video/watch/the-new-yorker-shorts-boy-meets-boy-at-the-end-of-the-world"
+    },
+    {
+      "text": "Escaping the Fragile Planet: Boy Meets Boy at the End of the World",
+      "url": "https://www.newyorker.com/video/watch/the-new-yorker-shorts-boy-meets-boy-at-the-end-of-the-world"
+    },
+    {
+      "text": "iconPlayCNE",
+      "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-into-light"
+    },
+    {
+      "text": "Into Light: A Mother\u2019s Embrace of Her Child\u2019s Gender Identity",
+      "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-into-light"
+    },
+    {
+      "text": "\n      Journalism that matters \n      https://media.newyorker.com/photos/62bdc90ddcb243769524972d/master/pass/nyr-book-person.png?format=original\n        Subscribe\n        Cancel anytime.\n    \n    https://media.newyorker.com/photos/62bdc90ddcb243769524972d/master/pass/nyr-book-person.png?format=original\n      Subscribe\n      Cancel anytime.",
+      "url": "https://www.newyorker.com/v2/offers/tny008?source=Site_0_JNY_NYR_DESKTOP_GLOBAL_FOOTER_0_US_CONTROL_AOC_TEST_JUL22_PANELA_ZZ"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Books & Culture",
+      "url": "/culture"
+    },
+    {
+      "text": "Fiction & Poetry",
+      "url": "/fiction-and-poetry"
+    },
+    {
+      "text": "Humor & Cartoons",
+      "url": "/humor"
+    },
+    {
+      "text": "Magazine",
+      "url": "/magazine"
+    },
+    {
+      "text": "Crossword",
+      "url": "/crossword-puzzles-and-games"
+    },
+    {
+      "text": "Video",
+      "url": "https://video.newyorker.com"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcast"
+    },
+    {
+      "text": "Archive",
+      "url": "/archive"
+    },
+    {
+      "text": "Goings On",
+      "url": "/goings-on-about-town"
+    },
+    {
+      "text": "Customer Care",
+      "url": "http://w1.buysub.com/servlet/CSGateway?cds_mag_code=NYR"
+    },
+    {
+      "text": "Shop The New Yorker",
+      "url": "https://store.newyorker.com"
+    },
+    {
+      "text": "Buy Covers and Cartoons",
+      "url": "https://condenaststore.com/art/new+yorker+covers"
+    },
+    {
+      "text": "Cond\u00e9 Nast Store",
+      "url": "https://condenaststore.com/conde-nast-brand/thenewyorker"
+    },
+    {
+      "text": "Digital Access",
+      "url": "/digital-editions"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletter"
+    },
+    {
+      "text": "Jigsaw Puzzle",
+      "url": "/jigsaw"
+    },
+    {
+      "text": "RSS",
+      "url": "/about/feeds"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap"
+    },
+    {
+      "text": "About",
+      "url": "/about/us"
+    },
+    {
+      "text": "Careers",
+      "url": "/about/careers"
+    },
+    {
+      "text": "Contact",
+      "url": "/about/contact"
+    },
+    {
+      "text": "F.A.Q.",
+      "url": "/about/faq"
+    },
+    {
+      "text": "Media Kit",
+      "url": "http://www.condenast.com/brands/the-new-yorker"
+    },
+    {
+      "text": "Press",
+      "url": "/about/press"
+    },
+    {
+      "text": "Accessibility Help",
+      "url": "/about/accessibility-help"
+    },
+    {
+      "text": "Cond\u00e9 Nast Spotlight",
+      "url": "https://www.cnspotlight.com/ "
+    },
+    {
+      "text": "User Agreement",
+      "url": "https://www.condenast.com/user-agreement/"
+    },
+    {
+      "text": "Privacy Policy and Cookie Statement",
+      "url": "http://www.condenast.com/privacy-policy#privacypolicy"
+    },
+    {
+      "text": "Your California Privacy Rights.",
+      "url": "http://www.condenast.com/privacy-policy#privacypolicy-california"
+    },
+    {
+      "text": "Ad Choices",
+      "url": "http://www.condenast.com/privacy-policy#privacypolicy-optout"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/newyorker/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/NewYorker/"
+    },
+    {
+      "text": "Snapchat",
+      "url": "https://www.snapchat.com/add/newyorkermag"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://www.youtube.com/user/NewYorkerDotCom/"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/newyorkermag/"
+    }
+  ],
   "server": "ia801503.us.archive.org",
-  "uniq": 326927138,
+  "uniq": 895496619,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1657628609,
+  "created": 1657674414,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/stltoday-2022",
@@ -1884,31 +1884,53 @@
       "sha1": "7d2f60919febe60785484613190489bd2e3ffe0e"
     },
     {
+      "name": "stltoday-2022-07-12T12:33:55.693188-05:00.jpg",
+      "source": "original",
+      "mtime": "1657647239",
+      "size": "318641",
+      "md5": "13ccab735367c5ee73b525b141aec429",
+      "crc32": "704983c5",
+      "sha1": "6f6b934a1fc3ddf0d848f526f3ce989dc0e6f821",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-07-12T12:33:55.693188-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-07-12T12:33:55.693188-05:00.jpg",
+      "mtime": "1657647335",
+      "size": "12223",
+      "md5": "f6e8e325ce090201bd2f32a6e00c2650",
+      "crc32": "66561ef8",
+      "sha1": "9e16f83cad100abe8ee6cb8ea2499f4c27b42268"
+    },
+    {
       "name": "stltoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89327314e79dd353702738cfe8390e6be5406114",
-      "mtime": "1657596454",
-      "size": "39068",
-      "md5": "1143cbb7e35081695c0d66bf2892852e",
-      "crc32": "c76c8518",
-      "sha1": "4d5477e9f09f722d964c751b9fcc14f157a7ac80",
+      "btih": "26d36ae2440bab71f34621d1586dbdf1f75c19a3",
+      "mtime": "1657647366",
+      "size": "39493",
+      "md5": "e53ec9fe07410ded732123ccb4915996",
+      "crc32": "840752d9",
+      "sha1": "8e6b0b44148a851c57ba7880f5b08a4da58cf455",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stltoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de838da5be79370f1f174b92d2c81c7d",
+      "md5": "44adbc7803e3b16bc93de006c71ddbe0",
       "summation": "md5"
     },
     {
       "name": "stltoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657596411",
+      "mtime": "1657647243",
       "size": "217088",
-      "md5": "21593b1120d2b17b18a9626c37899266",
-      "crc32": "61a813cb",
-      "sha1": "c07842018525b4e518b8458f186bd26dab79b04b",
+      "md5": "a12f031aa4aabccfdea59d22ff9380bb",
+      "crc32": "a95ed1df",
+      "sha1": "974b8dd9d42b0ca05143549bc82dbb8b66794cfc",
       "format": "Metadata"
     },
     {
@@ -1922,9 +1944,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 182,
-  "item_last_updated": 1657596454,
-  "item_size": 21442276,
+  "files_count": 184,
+  "item_last_updated": 1657647366,
+  "item_size": 21773565,
   "metadata": {
     "identifier": "stltoday-2022",
     "collection": [
@@ -1941,7 +1963,7 @@
     "publicdate": "2022-06-24 23:01:32",
     "addeddate": "2022-06-24 23:01:32"
   },
-  "server": "ia802502.us.archive.org",
+  "server": "ia902502.us.archive.org",
   "stltoday-2022": [
     {
       "text": "Privacy Policy",
@@ -3424,9 +3446,9 @@
       "url": "#notify-panel-settings"
     }
   ],
-  "uniq": 468012720,
+  "uniq": 196171464,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }
