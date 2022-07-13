@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 422 news sites.
+The most recent homepages captured from 429 news sites.
 
 <div class="latest-parent">
 
@@ -320,6 +320,51 @@ The most recent homepages captured from 422 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/baltimorebanner.html">Baltimore Banner</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/baltbeat.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltbeat.jpg"
+     alt="Baltimore Beat"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/baltbeat.html">Baltimore Beat</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/baltimorebrew.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebrew.jpg"
+     alt="Baltimore Brew"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/baltimorebrew.html">Baltimore Brew</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/baltbizonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltbizonline.jpg"
+     alt="Baltimore Business Journal"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/baltbizonline.html">Baltimore Business Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/baltfishbowl.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltfishbowl.jpg"
+     alt="Baltimore Fishbowl"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/baltfishbowl.html">Baltimore Fishbowl</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/baltimoremag.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoremag.jpg"
+     alt="Baltimore Magazine"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/baltimoremag.html">Baltimore Magazine</a></p>
 </div>
 
 <div class="latest-child">
@@ -2105,6 +2150,15 @@ The most recent homepages captured from 422 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mddailyrecord.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mddailyrecord.jpg"
+     alt="Maryland Daily Record"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/mddailyrecord.html">Maryland Daily Record</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/marylandmatters.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marylandmatters.jpg"
      alt="Maryland Matters"
@@ -2840,6 +2894,15 @@ The most recent homepages captured from 422 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/quintoelab.html">Quinto Elemento Lab</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/therealnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/therealnews.jpg"
+     alt="Real News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/therealnews.html">Real News</a></p>
 </div>
 
 <div class="latest-child">
