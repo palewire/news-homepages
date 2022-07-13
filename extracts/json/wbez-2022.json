@@ -1,5 +1,5 @@
 {
-  "created": 1657666320,
+  "created": 1657714856,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/wbez-2022",
@@ -2588,31 +2588,73 @@
       "sha1": "03d1b2ae4850c5f744b646a755f3a2e9f860b809"
     },
     {
+      "name": "wbez-2022-07-12T23:14:18.112628-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657685661",
+      "size": "17643",
+      "md5": "88d87dec103bbfc3f14a2f6e7c79d506",
+      "crc32": "1032894e",
+      "sha1": "8f6b042063661553b9801697a193313e005a7de7",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-12T23:14:18.112628-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657685662",
+      "size": "13193",
+      "md5": "b95cc24398de46a5b5bf8638f88a7f35",
+      "crc32": "ce9078ff",
+      "sha1": "8387f79eafe2ec92a65afeb54a342728b29993fe",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-12T23:14:18.112628-05:00.jpg",
+      "source": "original",
+      "mtime": "1657685659",
+      "size": "315219",
+      "md5": "e348afc5b49eabfab5a9c995288ee963",
+      "crc32": "7aac5654",
+      "sha1": "5fb1db15930d23b7e8eb6a5f6d172e54aac0548d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbez-2022-07-12T23:14:18.112628-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-07-12T23:14:18.112628-05:00.jpg",
+      "mtime": "1657685764",
+      "size": "10049",
+      "md5": "7b24669950a18a757b04085a70eafb11",
+      "crc32": "c6e184f7",
+      "sha1": "725a5c60293c521bf6ce789b8be0377a33981cf5"
+    },
+    {
       "name": "wbez-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0c806e709c245612c06f465f57be8af18ec2bbf",
-      "mtime": "1657647639",
-      "size": "52252",
-      "md5": "eeda74f3baeb24115c5757bdec5e3841",
-      "crc32": "ce6da462",
-      "sha1": "7c761c0e91564658efadb8492759d1add4b22f44",
+      "btih": "3abc2968fe860c64fa9d814eaa73ac6c7540d1cc",
+      "mtime": "1657685816",
+      "size": "53066",
+      "md5": "d2a28856a2718eb3de5e72d71d3f0069",
+      "crc32": "0dcf01a2",
+      "sha1": "2e2683a3577289f8f1eef7bd412c2faac491a4a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wbez-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "572855db4aacbecf429d32b011cd6856",
+      "md5": "13d8a4ca95cba20996b56af33c0a5d9e",
       "summation": "md5"
     },
     {
       "name": "wbez-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657647601",
-      "size": "303104",
-      "md5": "841d2e1c4762ab4db46405f1fd2da4f7",
-      "crc32": "31d2ab74",
-      "sha1": "83013ff13c9b35a6fa1db48468f0ea46e685472d",
+      "mtime": "1657685666",
+      "size": "307200",
+      "md5": "a2ce4fdcfd2a9eb63103cb7202b7def0",
+      "crc32": "63574dee",
+      "sha1": "d9b710848e7543c24a023d5deec2df2fd0e5072d",
       "format": "Metadata"
     },
     {
@@ -2626,9 +2668,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 250,
-  "item_last_updated": 1657647639,
-  "item_size": 21562036,
+  "files_count": 254,
+  "item_last_updated": 1657685816,
+  "item_size": 21923050,
   "metadata": {
     "identifier": "wbez-2022",
     "collection": [
@@ -2645,10 +2687,372 @@
     "publicdate": "2022-06-24 23:03:38",
     "addeddate": "2022-06-24 23:03:38"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 110136970,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1098094230,
+  "wbez-2022": [
+    {
+      "text": "\n      Skip to main content\n    ",
+      "url": "#maincontent"
+    },
+    {
+      "text": "Home ",
+      "url": "/"
+    },
+    {
+      "text": "\n          Listen Live\n          ",
+      "url": "/#player"
+    },
+    {
+      "text": "\n          Search ",
+      "url": "/search"
+    },
+    {
+      "text": "\n          Menu\n          ",
+      "url": "/#menu"
+    },
+    {
+      "text": "\n          Donate ",
+      "url": "https://donate.wbez.org/?affordance_placement=header"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "    ",
+      "url": "/#player"
+    },
+    {
+      "text": "",
+      "url": "/search"
+    },
+    {
+      "text": "",
+      "url": "/#menu"
+    },
+    {
+      "text": "\n        Domestic violence surge continued in 2021, new report shows\n      ",
+      "url": "/stories/domestic-violence-surge-continued-in-2021-new-report-shows/9bf90c92-3453-434a-bd87-fb93883553ad"
+    },
+    {
+      "text": "\n        Immigrant women in Chicago face unique challenges to overcoming domestic violence\n      ",
+      "url": "/stories/pandemic-worsens-domestic-violence-for-immigrant-women/43f979de-6692-4847-a320-48c93b9aa9d9"
+    },
+    {
+      "text": "\n        Chicago issues the first payments for its new guaranteed basic income program\n      ",
+      "url": "/stories/chicago-issues-its-first-guaranteed-income-payments/823d6f24-dc0b-4a8d-ab8b-1a47a01432c1"
+    },
+    {
+      "text": "\n        How Chicago\u2019s political conventions have altered American history\n      ",
+      "url": "/stories/shermann-dilla-thomas-on-chicagos-political-conventions/a0f2a72d-9adf-41d4-96ba-e5ecc06b3162"
+    },
+    {
+      "text": "\n        Chicago police make arrest nine months after killing captured on camera\n      ",
+      "url": "/stories/chicago-police-make-arrest-9-months-after-murder-captured-on-camera/90cf860f-b793-4fc1-beb0-43a7714731da"
+    },
+    {
+      "text": "\n      Consider donating today\n    ",
+      "url": "https://donate.wbez.org/?affordance_placement=Affordance-No-Thanks"
+    },
+    {
+      "text": "\n        The WBEZ guide to the best free things to do this summer\n      ",
+      "url": "/stories/chicago-free-things-to-do-summer-music-concerts-theater-dance-neighborhood-festivals/e418f574-41ce-41ed-b6f1-13307e6b7404"
+    },
+    {
+      "text": "\n        Here\u2019s where families can get help coping after a mass shooting\n      ",
+      "url": "/stories/resources-for-families-to-cope-after-mass-shooting/da2b524b-3417-4d45-93ea-2b658a8eaf9d"
+    },
+    {
+      "text": "\n        Updated: The WBEZ guide to 80-plus summer farmers\u2019 markets in Chicago and the suburbs\n      ",
+      "url": "/stories/2022-farmers-markets-in-chicago-and-suburbs/9be36896-1eda-46f9-a42c-63c39ffa64dd"
+    },
+    {
+      "text": "\n        With Roe v. Wade overturned, Chicago area residents share their perspectives on abortion\n      ",
+      "url": "/stories/abortion-perspectives-from-chicago-area-residents/6ce5f5d1-9bae-42bb-85e1-ae56e9962d76"
+    },
+    {
+      "text": "\n        My first year sober: Why I did it and what I\u2019ve learned\n      ",
+      "url": "/stories/my-first-year-sober-why-i-did-it-and-what-ive-learned/431fbe7b-c3af-4c43-a0e3-9719e17ad75d"
+    },
+    {
+      "text": "\n          Highland Park Shooting\n        ",
+      "url": "/collections/highland-park-shooting/191"
+    },
+    {
+      "text": "\n        The lives lost in Highland Park July 4 parade mass shooting\n      ",
+      "url": "/stories/the-lives-lost-in-highland-park-parade-mass-shooting/729b3171-b8ca-47a2-81d1-ad4a375eef5d"
+    },
+    {
+      "text": "\n        How to help those impacted by the Highland Park parade shooting \n      ",
+      "url": "/stories/how-to-help-those-impacted-by-the-highland-park-parade-shooting/9bbc11cd-4653-4907-bc06-07cb0b0c183f"
+    },
+    {
+      "text": "\n        PHOTOS: Highland Park gathers at vigils to remember mass shooting victims\n      ",
+      "url": "/stories/highland-park-gathers-at-vigils-to-remember-mass-shooting-victims/5ee6c769-e7cf-4726-b218-6e558178d8f3"
+    },
+    {
+      "text": "\n        NPR\n        ",
+      "url": "/shows/npr/1552b01f-fc6b-4d96-8e14-8a1b54d0b974"
+    },
+    {
+      "text": "\n        Politics\n      ",
+      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
+    },
+    {
+      "text": "\n        Trump may have tried to tamper with a Jan. 6 hearing witness, Rep. Cheney says\n      ",
+      "url": "/stories/the-next-jan-6-committee-hearing-will-focus-on-extremist-organizations/ec2d0c81-21ad-43b0-8b4f-34dbd73658ed"
+    },
+    {
+      "text": "\n        Environment & Public Health\n      ",
+      "url": "/topics/environment-and-public-health/78f1d3ad-6823-451d-9de7-302f95acbc4e"
+    },
+    {
+      "text": "\n        Gov. JB Pritzker taps a new public health director to face pandemic and health disparities challenges\n      ",
+      "url": "/stories/gov-jb-pritzker-taps-a-new-public-health-director/ae0ef30c-c232-4685-9e57-41e2d9b52a55"
+    },
+    {
+      "text": "\n        Reset with Sasha-Ann Simons\n        ",
+      "url": "/shows/reset-with-sasha-ann-simons/087fda4e-bff3-402c-a30f-bc32285a5237"
+    },
+    {
+      "text": "\n        Chicago author is the first South Asian woman to write Kamala Khan in Ms. Marvel comics\n      ",
+      "url": "/stories/chicago-author-is-the-first-south-asian-woman-to-write-kamala-khan-in-ms-marvel-comics/7dc50c0d-6d06-4690-a9a2-74cea84fd4a7"
+    },
+    {
+      "text": "\n        WBEZ Presents: Food Aid 2022 - Day 1\n      ",
+      "url": "/events/wbez-presents-food-aid-2022-day-1/188"
+    },
+    {
+      "text": "\n        More events \u2192\n      ",
+      "url": "/events"
+    },
+    {
+      "text": "\n        Politics\n      ",
+      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
+    },
+    {
+      "text": "\n        Week after Highland Park July 4th parade massacre, activists head to DC to push assault weapons ban\n      ",
+      "url": "/stories/after-highland-park-activists-head-to-dc-to-push-assault-weapons-ban/1e0f3f65-7511-4b1d-8d6f-76d5856bcdc6"
+    },
+    {
+      "text": "\n        Highland Park\u2019s Central Avenue reopens with busy shops, bustling traffic and remembrances of a week ago\n      ",
+      "url": "/stories/highland-parks-central-avenue-reopens-after-mass-shooting/e00b32e4-2b84-4165-ba51-286a1d3fa83a"
+    },
+    {
+      "text": "\n        Race, Class & Communities\n      ",
+      "url": "/topics/race-class-and-communities/1133cab4-5059-482c-a9fb-8a7f5662f3fc"
+    },
+    {
+      "text": "\n        New proposal seeks to attract jobs and housing around CTA bus stops and L stations\n      ",
+      "url": "/stories/proposal-seeks-to-lure-jobs-and-housing-near-cta-stops/efd3d520-d3aa-48d1-9bb5-b97c49d79b34"
+    },
+    {
+      "text": "\n        Culture & The Arts\n      ",
+      "url": "/topics/culture-and-the-arts/7af0c1d9-286b-4fd1-b741-6f79bfd6814a"
+    },
+    {
+      "text": "\n        Hearing the call of the kayak and \u2018river therapy\u2019 in northern Illinois\n      ",
+      "url": "/stories/kayaking-canoeing-and-boating-boom-in-illinois/4d7c2a96-9e82-402b-b1d7-d1d9552ab989"
+    },
+    {
+      "text": "\n        Brittney Griner was the focus of WNBA All-Star weekend in Chicago\n      ",
+      "url": "/stories/brittney-griner-was-the-focus-of-wnba-all-star-weekend-in-chicago/4acf2774-2a89-45c6-b00e-858895da766c"
+    },
+    {
+      "text": "\n        Criminal Justice\n      ",
+      "url": "/topics/criminal-justice/ffa74088-0ab8-406a-b1f9-b15dd6d39880"
+    },
+    {
+      "text": "\n        Will the parents of the suspect in the Highland Park mass shooting face legal trouble?\n      ",
+      "url": "/stories/will-the-parents-of-the-suspect-in-the-highland-park-mass-shooting-face-legal-trouble/9c145ee8-622a-4efd-9af8-4f02002dafe1"
+    },
+    {
+      "text": "\n        Politics\n      ",
+      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
+    },
+    {
+      "text": "\n        Cook County officials want to offer $300 million in loans to suburban towns to pay bills\n      ",
+      "url": "/stories/cook-county-wants-to-loan-suburban-towns-300-million/4d105900-65be-4140-ba70-e7c4f26bedf9"
+    },
+    {
+      "text": "\n        Criminal Justice\n      ",
+      "url": "/topics/criminal-justice/ffa74088-0ab8-406a-b1f9-b15dd6d39880"
+    },
+    {
+      "text": "\n        Should Illinois\u2019 red-flag law have stopped the Highland Park parade shooting?\n      ",
+      "url": "/stories/should-illinois-red-flag-law-have-stopped-the-highland-park-parade-shooting/7f7327be-9b13-4feb-af22-61a1d5c3f5d4"
+    },
+    {
+      "text": "\n        Culture & The Arts\n      ",
+      "url": "/topics/culture-and-the-arts/7af0c1d9-286b-4fd1-b741-6f79bfd6814a"
+    },
+    {
+      "text": "\n        A new ballet for children draws inspiration from Puerto Rico, skyscrapers and Beyonc\u00e9\n      ",
+      "url": "/stories/the-joffreys-new-ballet-for-kids-draws-from-beyonce-puerto-rico/c021ebaa-d3bf-417e-aa28-3298616d59d1"
+    },
+    {
+      "text": "\n        Politics\n      ",
+      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
+    },
+    {
+      "text": "\n        Governors offer Democrats more aggressive replies on issues from gun control to abortion access\n      ",
+      "url": "/stories/governors-offer-democrats-aggressive-reply-on-guns-abortion/96b0a888-da6b-461d-82a3-5cf8ba153b45"
+    },
+    {
+      "text": "\n        Curious City\n        ",
+      "url": "/shows/curious-city/7b79e16d-f3a9-4156-9b27-4d2cc6ce351e"
+    },
+    {
+      "text": "\n        Culture & The Arts\n      ",
+      "url": "/topics/culture-and-the-arts/7af0c1d9-286b-4fd1-b741-6f79bfd6814a"
+    },
+    {
+      "text": "\n        Drawn by drums and incense, Pilsen residents are finding strength and joy through Aztec dance\n      ",
+      "url": "/stories/an-aztec-dancing-group-in-pilsen-finds-strength-and-joy/48e5006f-18cd-47c8-b22c-affaca2d504b"
+    },
+    {
+      "text": "\n        NPR\n        ",
+      "url": "/shows/npr/1552b01f-fc6b-4d96-8e14-8a1b54d0b974"
+    },
+    {
+      "text": "\n        Why the Highland Park suspect represents a different kind of violent extremism\n      ",
+      "url": "/stories/why-the-highland-park-suspect-represents-a-different-kind-of-violent-extremism/3f237b6c-ace3-4da1-8eec-55310db5442e"
+    },
+    {
+      "text": "\n      DONATE NOW\n    ",
+      "url": "https://donate.wbez.org/?affordance_placement=Home_End"
+    },
+    {
+      "text": "WBEZ.org ",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "//twitter.com/WBEZ"
+    },
+    {
+      "text": "",
+      "url": "//www.facebook.com/wbez915"
+    },
+    {
+      "text": "",
+      "url": "//instagram.com/wbezchicago/"
+    },
+    {
+      "text": "",
+      "url": "//www.youtube.com/user/wbez"
+    },
+    {
+      "text": "\n            About Us\n          ",
+      "url": "/about"
+    },
+    {
+      "text": "\n              Careers\n            ",
+      "url": "/jobs"
+    },
+    {
+      "text": "\n              Staff\n            ",
+      "url": "/staff"
+    },
+    {
+      "text": "\n              Contact Us\n            ",
+      "url": "/contact"
+    },
+    {
+      "text": "\n              The Sounding Board\n            ",
+      "url": "/pages/sounding-board"
+    },
+    {
+      "text": "\n              Radio Schedule\n            ",
+      "url": "/schedule"
+    },
+    {
+      "text": "\n              Board of Directors\n            ",
+      "url": "/pages/board-of-directors"
+    },
+    {
+      "text": "\n              Pressroom\n            ",
+      "url": "/pressroom"
+    },
+    {
+      "text": "\n              Public & Financial Documents\n            ",
+      "url": "/pages/public-financial-documents"
+    },
+    {
+      "text": "\n              Newsletters & Email Alerts\n            ",
+      "url": "/newsletters"
+    },
+    {
+      "text": "\n              Volunteer\n            ",
+      "url": "//cloud.email.wbez.org/volunteers"
+    },
+    {
+      "text": "\n              Events Calendar\n            ",
+      "url": "/events"
+    },
+    {
+      "text": "\n              Wait Wait \u2026 Don't Tell Me! Tickets\n            ",
+      "url": "/events/wait-wait-dont-tell-me-tickets"
+    },
+    {
+      "text": "\n              Mobile Apps\n            ",
+      "url": "/mobile-apps"
+    },
+    {
+      "text": "\n            Support\n          ",
+      "url": "/support-us"
+    },
+    {
+      "text": "\n              Donate\n            ",
+      "url": "https://donate.wbez.org/?affordance_placement=footer"
+    },
+    {
+      "text": "\n              Join our Giving Circles\n            ",
+      "url": "/pages/giving-circles"
+    },
+    {
+      "text": "\n              Donate Your Car\n            ",
+      "url": "//wbez.careasy.org/home"
+    },
+    {
+      "text": "\n              Gifts of Securities\n            ",
+      "url": "/pages/securities"
+    },
+    {
+      "text": "\n              Planned Giving\n            ",
+      "url": "/pages/planned-giving"
+    },
+    {
+      "text": "\n              Matching Gifts\n            ",
+      "url": "/support-us/matching-gifts"
+    },
+    {
+      "text": "\n              Become a Sponsor\n            ",
+      "url": "//wbezsponsor.org/"
+    },
+    {
+      "text": "\n              Manage Your Membership Account\n            ",
+      "url": "https://donate.wbez.org/user"
+    },
+    {
+      "text": "\n          Privacy Policy\n        ",
+      "url": "//www.wbez.org/privacy-policy"
+    },
+    {
+      "text": "\n          Terms of Use\n        ",
+      "url": "//www.wbez.org/terms-of-use"
+    },
+    {
+      "text": "\n          FCC Public Filing Info\n        ",
+      "url": "//publicfiles.fcc.gov/fm-profile/wbez"
+    },
+    {
+      "text": "\n          Notice of FCC Applications\n        ",
+      "url": "//wbez-assets.s3.amazonaws.com/pdf/fcc-notices_8-12-2020.pdf"
+    }
+  ],
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

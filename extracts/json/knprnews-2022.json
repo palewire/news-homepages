@@ -1,5 +1,5 @@
 {
-  "created": 1657674055,
+  "created": 1657679119,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/9/items/knprnews-2022",
@@ -352,31 +352,73 @@
       "sha1": "3a78b2c76ba1094f7152b337f746a46a11bfac69"
     },
     {
+      "name": "knprnews-2022-07-12T19:23:31.492949-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657679013",
+      "size": "18128",
+      "md5": "bccbc410e1d369b791156d11a3a5971f",
+      "crc32": "fd32341b",
+      "sha1": "f83c6e0b9d39bfea1cb9fd9eab1ae0d13d3ef18c",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-07-12T19:23:31.492949-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657679015",
+      "size": "13416",
+      "md5": "8f5664a0697d769bc55c54f035d94cbb",
+      "crc32": "7752b16d",
+      "sha1": "e0a82db2c4e7970300300de1d883e8f47371b6cb",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-07-12T19:23:31.492949-07:00.jpg",
+      "source": "original",
+      "mtime": "1657679012",
+      "size": "230785",
+      "md5": "7347d78e1454c855709f9a1015bc9f4c",
+      "crc32": "68201815",
+      "sha1": "c8a22da4a78d4d57f893799dd25dcb7dca15327c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knprnews-2022-07-12T19:23:31.492949-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knprnews-2022-07-12T19:23:31.492949-07:00.jpg",
+      "mtime": "1657679089",
+      "size": "8671",
+      "md5": "16d064b48a90be53581def99e7b2248a",
+      "crc32": "92c0796a",
+      "sha1": "4f78a96ec652e11bb7275de5a68a5a1ab99a4987"
+    },
+    {
       "name": "knprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "722db31dc88752893b653801a92781d5702fb0d3",
-      "mtime": "1657647950",
-      "size": "8336",
-      "md5": "454d1d5709fded7241c05f47f450e2cc",
-      "crc32": "8b5d6303",
-      "sha1": "6309bd529398b619b8c2352ea5195cbed41eafd2",
+      "btih": "b02644905d88fa9cb4f1a93066aaf6caf4dddf5b",
+      "mtime": "1657679098",
+      "size": "9165",
+      "md5": "798e8eb58f95d39f4c6cd44703f143cf",
+      "crc32": "8ad8e6af",
+      "sha1": "cad41e2a5a6a8df0e293df2655933d2a5e420de8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ae0d7540a807a43f49aaba55916f48e8",
+      "md5": "a710fa9426aaa919df198e08cb81859c",
       "summation": "md5"
     },
     {
       "name": "knprnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657647889",
-      "size": "53248",
-      "md5": "762436ea542fe2bf7f2f14ee6b396ef5",
-      "crc32": "059e47c1",
-      "sha1": "879945f709e61f0a33feaa1977941c2bc33ef219",
+      "mtime": "1657679018",
+      "size": "57344",
+      "md5": "87168d633b2b804ebe6cb3d1aa2b30e6",
+      "crc32": "aaf38b74",
+      "sha1": "40ce754c06f13849a2f5cedc2576deb2b6ca44ef",
       "format": "Metadata"
     },
     {
@@ -390,651 +432,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 37,
-  "item_last_updated": 1657647950,
-  "item_size": 2230558,
-  "knprnews-2022": [
-    {
-      "text": "News 88.9 KNPR",
-      "url": "/news-889-knpr"
-    },
-    {
-      "text": "Classical 89.7 kcnv",
-      "url": "/classical-897-kcnv"
-    },
-    {
-      "text": "Magazine Desert Companion",
-      "url": "/desert-companion"
-    },
-    {
-      "text": "About",
-      "url": "/about"
-    },
-    {
-      "text": "Programs",
-      "url": "/programs"
-    },
-    {
-      "text": "Events",
-      "url": "/events"
-    },
-    {
-      "text": "Support ",
-      "url": "https://knpr.org/support"
-    },
-    {
-      "text": "myPublicRadio",
-      "url": "https://nevadapublicradioknpr.z2systems.com/np/clients/nevadapublicradioknpr/login.jsp"
-    },
-    {
-      "text": "Donate Now",
-      "url": "/donate_now"
-    },
-    {
-      "text": "About",
-      "url": "/about"
-    },
-    {
-      "text": "1-702-258-9895",
-      "url": "tel:1-702-258-9895"
-    },
-    {
-      "text": "1-888-258-9895",
-      "url": "tel:1-888-258-9895"
-    },
-    {
-      "text": "More contact info",
-      "url": "/contact-us"
-    },
-    {
-      "text": "Staff",
-      "url": "/about/staff"
-    },
-    {
-      "text": "Board of Directors",
-      "url": "/about-us/board-directors"
-    },
-    {
-      "text": "Employment",
-      "url": "/about/employment-opportunities-nvpr"
-    },
-    {
-      "text": "FCC Applications",
-      "url": "https://knpr.org/fcc-applications"
-    },
-    {
-      "text": "CPB Compliance",
-      "url": "/about/cpb-compliance"
-    },
-    {
-      "text": "Our Policies",
-      "url": "/about/our-policies"
-    },
-    {
-      "text": "Listen on the Radio",
-      "url": "/about/stations-coverage-maps"
-    },
-    {
-      "text": "Other Ways to Listen",
-      "url": "/about/other-ways-listen-nevada-public-radio"
-    },
-    {
-      "text": "Sign-up for NVPR News",
-      "url": "/about/enews"
-    },
-    {
-      "text": "FCC Public Inspection File",
-      "url": "/about/fcc-public-inspection-file"
-    },
-    {
-      "text": "CPB Funding",
-      "url": "/about/cpb-funding"
-    },
-    {
-      "text": "History",
-      "url": "/about-us/our-history"
-    },
-    {
-      "text": "All About",
-      "url": "/about"
-    },
-    {
-      "text": "News 88.9 KNPR",
-      "url": "/news-889-knpr/about"
-    },
-    {
-      "text": "Classical 89.7 KCNV",
-      "url": "/classical-897-kcnv/about"
-    },
-    {
-      "text": "Desert Companion",
-      "url": "/desert-companion/about"
-    },
-    {
-      "text": "1-702-258-9895",
-      "url": "tel:1-702-258-9895"
-    },
-    {
-      "text": "1-888-258-9895",
-      "url": "tel:1-888-258-9895"
-    },
-    {
-      "text": "More contact info",
-      "url": "/contact-us"
-    },
-    {
-      "text": "Staff",
-      "url": "/about/staff"
-    },
-    {
-      "text": "Board of Directors",
-      "url": "/about-us/board-directors"
-    },
-    {
-      "text": "Employment",
-      "url": "/about/employment-opportunities-nvpr"
-    },
-    {
-      "text": "FCC Applications",
-      "url": "https://knpr.org/fcc-applications"
-    },
-    {
-      "text": "CPB Compliance",
-      "url": "/about/cpb-compliance"
-    },
-    {
-      "text": "Our Policies",
-      "url": "/about/our-policies"
-    },
-    {
-      "text": "Listen on the Radio",
-      "url": "/about/stations-coverage-maps"
-    },
-    {
-      "text": "Other Ways to Listen",
-      "url": "/about/other-ways-listen-nevada-public-radio"
-    },
-    {
-      "text": "Sign-up for NVPR News",
-      "url": "/about/enews"
-    },
-    {
-      "text": "FCC Public Inspection File",
-      "url": "/about/fcc-public-inspection-file"
-    },
-    {
-      "text": "CPB Funding",
-      "url": "/about/cpb-funding"
-    },
-    {
-      "text": "History",
-      "url": "/about-us/our-history"
-    },
-    {
-      "text": "All About",
-      "url": "/about"
-    },
-    {
-      "text": "News 88.9 KNPR",
-      "url": "/news-889-knpr/about"
-    },
-    {
-      "text": "Classical 89.7 KCNV",
-      "url": "/classical-897-kcnv/about"
-    },
-    {
-      "text": "Desert Companion",
-      "url": "/desert-companion/about"
-    },
-    {
-      "text": "Skip to main content",
-      "url": "#block-system-main"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "News 88.9 KNPR",
-      "url": "/news-889-knpr"
-    },
-    {
-      "text": "Classical 89.7 kcnv",
-      "url": "/classical-897-kcnv"
-    },
-    {
-      "text": "Magazine Desert Companion",
-      "url": "/desert-companion"
-    },
-    {
-      "text": "About",
-      "url": "/about"
-    },
-    {
-      "text": "1-702-258-9895",
-      "url": "tel:1-702-258-9895"
-    },
-    {
-      "text": "1-888-258-9895",
-      "url": "tel:1-888-258-9895"
-    },
-    {
-      "text": "More contact info",
-      "url": "/contact-us"
-    },
-    {
-      "text": "Staff",
-      "url": "/about/staff"
-    },
-    {
-      "text": "Board of Directors",
-      "url": "/about-us/board-directors"
-    },
-    {
-      "text": "Employment",
-      "url": "/about/employment-opportunities-nvpr"
-    },
-    {
-      "text": "FCC Applications",
-      "url": "https://knpr.org/fcc-applications"
-    },
-    {
-      "text": "CPB Compliance",
-      "url": "/about/cpb-compliance"
-    },
-    {
-      "text": "Our Policies",
-      "url": "/about/our-policies"
-    },
-    {
-      "text": "Listen on the Radio",
-      "url": "/about/stations-coverage-maps"
-    },
-    {
-      "text": "Other Ways to Listen",
-      "url": "/about/other-ways-listen-nevada-public-radio"
-    },
-    {
-      "text": "Sign-up for NVPR News",
-      "url": "/about/enews"
-    },
-    {
-      "text": "FCC Public Inspection File",
-      "url": "/about/fcc-public-inspection-file"
-    },
-    {
-      "text": "CPB Funding",
-      "url": "/about/cpb-funding"
-    },
-    {
-      "text": "History",
-      "url": "/about-us/our-history"
-    },
-    {
-      "text": "All About",
-      "url": "/about"
-    },
-    {
-      "text": "News 88.9 KNPR",
-      "url": "/news-889-knpr/about"
-    },
-    {
-      "text": "Classical 89.7 KCNV",
-      "url": "/classical-897-kcnv/about"
-    },
-    {
-      "text": "Desert Companion",
-      "url": "/desert-companion/about"
-    },
-    {
-      "text": "Programs",
-      "url": "/programs"
-    },
-    {
-      "text": "Events",
-      "url": "/events"
-    },
-    {
-      "text": "Support ",
-      "url": "https://knpr.org/support"
-    },
-    {
-      "text": "myPublicRadio",
-      "url": "https://nevadapublicradioknpr.z2systems.com/np/clients/nevadapublicradioknpr/login.jsp"
-    },
-    {
-      "text": "Donate Now",
-      "url": "/donate_now"
-    },
-    {
-      "text": "Podcasts view all",
-      "url": "/podcasts"
-    },
-    {
-      "text": "Donate Now",
-      "url": "/donate_now"
-    },
-    {
-      "text": "knpr's STATE OF NEVADA",
-      "url": "/programs/state-nevada"
-    },
-    {
-      "text": "",
-      "url": "/knpr/2022-07/las-vegas-getting-hotter-and-hotter-heres-how-survive-its-brutal-summers"
-    },
-    {
-      "text": "Las Vegas is getting hotter and hotter. Here's how to survive its brutal summers",
-      "url": "/knpr/2022-07/las-vegas-getting-hotter-and-hotter-heres-how-survive-its-brutal-summers"
-    },
-    {
-      "text": "More KNPR's State of Nevada >>",
-      "url": "/programs/state-nevada"
-    },
-    {
-      "text": "WATCH: 7th Jan. 6 committee hearing focuses on QAnon, extremists",
-      "url": "/knpr-npr/2022-07/watch-7th-jan-6-committee-hearing-focuses-qanon-extremists"
-    },
-    {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "",
-      "url": "/knpr/2022-07/photos-withering-drought-shows-lake-mead-boat-graveyard"
-    },
-    {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "PHOTOS: Withering drought shows Lake Mead boat graveyard",
-      "url": "/knpr/2022-07/photos-withering-drought-shows-lake-mead-boat-graveyard"
-    },
-    {
-      "text": "",
-      "url": "/knpr/2022-07/what-know-about-monkeypox-southern-nevada"
-    },
-    {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "What to know about monkeypox in Southern Nevada",
-      "url": "/knpr/2022-07/what-know-about-monkeypox-southern-nevada"
-    },
-    {
-      "text": "\n        Listen\n      ",
-      "url": "javascript:window.knprPlay('https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/monkeypox_web.mp3', 'What to know about monkeypox in Southern Nevada', 'what-to-know-about-monkeypox-in-southern-nevada')"
-    },
-    {
-      "text": "\n        Download\n      ",
-      "url": "https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/monkeypox_web.mp3?response-content-disposition=attachment%3B%20filename%3D%22monkeypox_web.mp3%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3HX3D3NMQLZN2QNC%2F20220712%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220712T165638Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=518400&X-Amz-Signature=310e1b1f05ba411637759fc4696c7886bf666d0632b67921ccbeb097fd40a764"
-    },
-    {
-      "text": "",
-      "url": "/knpr/2022-07/badwater-135-ultramarathon-kicks-death-valley-monday-night"
-    },
-    {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Badwater 135 ultramarathon kicks off in Death Valley on Monday night",
-      "url": "/knpr/2022-07/badwater-135-ultramarathon-kicks-death-valley-monday-night"
-    },
-    {
-      "text": "",
-      "url": "/knpr/2022-07/shoshone-language-be-added-nye-county-voting-materials"
-    },
-    {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Shoshone language to be added to Nye County voting materials",
-      "url": "/knpr/2022-07/shoshone-language-be-added-nye-county-voting-materials"
-    },
-    {
-      "text": "",
-      "url": "/knpr/2022-07/homicides-are-down-las-vegas-area-so-far-year"
-    },
-    {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Homicides are down in the Las Vegas area so far this year",
-      "url": "/knpr/2022-07/homicides-are-down-las-vegas-area-so-far-year"
-    },
-    {
-      "text": "",
-      "url": "/knpr/2022-07/las-vegas-getting-hotter-and-hotter-heres-how-survive-its-brutal-summers"
-    },
-    {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Las Vegas is getting hotter and hotter. Here's how to survive its brutal summers",
-      "url": "/knpr/2022-07/las-vegas-getting-hotter-and-hotter-heres-how-survive-its-brutal-summers"
-    },
-    {
-      "text": "\n        Listen\n      ",
-      "url": "javascript:window.knprPlay('https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/survive_summer_web.mp3', 'Las Vegas is getting hotter and hotter. Here\\'s how to survive its brutal summers', 'las-vegas-is-getting-hotter-and-hotter-heres-how-to-survive-its-brutal-summers')"
-    },
-    {
-      "text": "\n        Download\n      ",
-      "url": "https://s3.us-east-2.amazonaws.com/videos.knpr.org/audio/survive_summer_web.mp3?response-content-disposition=attachment%3B%20filename%3D%22survive_summer_web.mp3%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3HX3D3NMQLZN2QNC%2F20220712%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220712T165639Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=518400&X-Amz-Signature=8d32d5c1d77c5194944ebd443ea524be9c1c680ca778e7c61b7bd5cc6d117369"
-    },
-    {
-      "text": "",
-      "url": "/knpr/2022-07/las-vegas-asia-tells-casinos-grow-beyond-gambling"
-    },
-    {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "\u2018Las Vegas of Asia\u2019 tells casinos to grow beyond gambling",
-      "url": "/knpr/2022-07/las-vegas-asia-tells-casinos-grow-beyond-gambling"
-    },
-    {
-      "text": "",
-      "url": "/knpr/2022-07/there-s-another-chance-catch-supermoon-wednesday"
-    },
-    {
-      "text": "Tweet",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Share on Facebook",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "Email",
-      "url": "https://www.addthis.com/bookmark.php?v=300"
-    },
-    {
-      "text": "There\u2019s another chance to catch a supermoon on Wednesday",
-      "url": "/knpr/2022-07/there-s-another-chance-catch-supermoon-wednesday"
-    },
-    {
-      "text": "ALL LOCAL STORIES >>",
-      "url": "/npr-topics/local"
-    },
-    {
-      "text": "Exit Spring Mountain ",
-      "url": "/series/exit-spring-mountain"
-    },
-    {
-      "text": "Mountain West News Bureau",
-      "url": "/series/mountain-west-news-bureau"
-    },
-    {
-      "text": "Native Nevada",
-      "url": "/series/native-nevada"
-    },
-    {
-      "text": "Encore Performances of Las Vegas Philharmonic on Classical 89.7",
-      "url": "/series/encore-performances-las-vegas-philharmonic-classical-897"
-    },
-    {
-      "text": "Las Vegas is getting hotter and hotter. Here's how to survive its brutal summers",
-      "url": "/knpr/2022-07/las-vegas-getting-hotter-and-hotter-heres-how-survive-its-brutal-summers"
-    },
-    {
-      "text": "A California woman finds an Olympic gold medal inside a fast-food bag",
-      "url": "/npr/2022-07/california-woman-finds-olympic-gold-medal-inside-fast-food-bag"
-    },
-    {
-      "text": "What to know about monkeypox in Southern Nevada",
-      "url": "/knpr/2022-07/what-know-about-monkeypox-southern-nevada"
-    },
-    {
-      "text": "Badwater 135 ultramarathon kicks off in Death Valley on Monday night",
-      "url": "/knpr/2022-07/badwater-135-ultramarathon-kicks-death-valley-monday-night"
-    },
-    {
-      "text": "A new reality reverberates through Russia's music scene",
-      "url": "/npr/2022-07/new-reality-reverberates-through-russias-music-scene"
-    },
-    {
-      "text": "News Schedule",
-      "url": "/news-889-knpr/news-889-knpr-schedule"
-    },
-    {
-      "text": "Classical Schedule",
-      "url": "/classical-897-kcnv/classical-897-kcnv-schedule"
-    },
-    {
-      "text": "All Podcasts",
-      "url": "/about/podcasts"
-    },
-    {
-      "text": "Special Projects",
-      "url": "https://knpr.org/programs/special-projects"
-    },
-    {
-      "text": "home",
-      "url": "/"
-    },
-    {
-      "text": "How to reach us",
-      "url": "/about/how-reach-us"
-    },
-    {
-      "text": "About",
-      "url": "/about"
-    },
-    {
-      "text": "Support",
-      "url": "/support"
-    },
-    {
-      "text": "Twitter",
-      "url": "/about/our-twitter-feeds"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/nevadapublicradio"
-    },
-    {
-      "text": "NVPR News",
-      "url": "/about/enews"
-    },
-    {
-      "text": "Instagram",
-      "url": "https://instagram.com/nevadapublicradio/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://knpr.org/about/our-policies/mailing-list-policy"
-    },
-    {
-      "text": "",
-      "url": "http://www.prx.org/"
-    },
-    {
-      "text": "",
-      "url": "http://www.npr.org/"
-    },
-    {
-      "text": "",
-      "url": "http://www.americanpublicmedia.org/programs/"
-    },
-    {
-      "text": "",
-      "url": "http://www.bbc.com/"
-    },
-    {
-      "text": "",
-      "url": "https://inn.org/"
-    }
-  ],
+  "files_count": 41,
+  "item_last_updated": 1657679098,
+  "item_size": 2506483,
   "metadata": {
     "identifier": "knprnews-2022",
     "collection": [
@@ -1052,7 +452,7 @@
     "addeddate": "2022-07-09 03:59:32"
   },
   "server": "ia601506.us.archive.org",
-  "uniq": 1338992128,
+  "uniq": 1590901999,
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"

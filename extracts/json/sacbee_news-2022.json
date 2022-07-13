@@ -1,5 +1,5 @@
 {
-  "created": 1657674354,
+  "created": 1657712069,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/sacbee_news-2022",
@@ -1006,31 +1006,73 @@
       "sha1": "636cea71aff3e3c8ba3725d4fbd91c622d1c58bf"
     },
     {
+      "name": "sacbee_news-2022-07-12T21:08:36.604372-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657685323",
+      "size": "454",
+      "md5": "dd0ee32164254457ac54c86dc753157a",
+      "crc32": "88d9fec1",
+      "sha1": "2ca0a6245726cba81bcf1a43ef5b4becaeae46a1",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-07-12T21:08:36.604372-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657685325",
+      "size": "43991",
+      "md5": "0e275822f19598a767ef58aa5a2ea267",
+      "crc32": "5c99a772",
+      "sha1": "1c71b2e020b5c77be3e8695e77364cc0fe68b4e9",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-07-12T21:08:36.604372-07:00.jpg",
+      "source": "original",
+      "mtime": "1657685322",
+      "size": "270077",
+      "md5": "ca9dffefc7adf73e4371cfa3eed87a37",
+      "crc32": "d6f0e4af",
+      "sha1": "1daf1ef23e44db8323e41167892a1958134965d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sacbee_news-2022-07-12T21:08:36.604372-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sacbee_news-2022-07-12T21:08:36.604372-07:00.jpg",
+      "mtime": "1657685423",
+      "size": "9702",
+      "md5": "eff08c745768381c1301f2839f5576b3",
+      "crc32": "ecdeadb0",
+      "sha1": "5cb782eb1a15387bc6873db2dde60b2c11cc866f"
+    },
+    {
       "name": "sacbee_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5956d5e0a0027297c1e91b89bdf02ca8d6efec1f",
-      "mtime": "1657650909",
-      "size": "21431",
-      "md5": "485a7afc86a62cc52d69809752f9fc6c",
-      "crc32": "233712eb",
-      "sha1": "d2f07e232d896740e6671c965f27f5e61876c137",
+      "btih": "58f5b4d7f7fc8acf632b4835de89eee27d8eac6b",
+      "mtime": "1657685438",
+      "size": "22290",
+      "md5": "b0cd692287ad97b9219e92382d7945d0",
+      "crc32": "6845a563",
+      "sha1": "263f0ff3ef830f934144b9a87e61781f7fb9e86a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sacbee_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23f112e1db586543b0d5fc604d59447f",
+      "md5": "a003f08c9435b9780ea78bd7f580bc6b",
       "summation": "md5"
     },
     {
       "name": "sacbee_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657650700",
-      "size": "131072",
-      "md5": "1a6d9957faba9ff303b1a1f488ec2a0b",
-      "crc32": "75aed5de",
-      "sha1": "9835e9f313d02b3ac6fe1a4fd05b9358df820cfa",
+      "mtime": "1657685328",
+      "size": "135168",
+      "md5": "ddd4f5191fbe51550452f00595934afd",
+      "crc32": "7de52977",
+      "sha1": "413488b4ca139a5c6af8b56edb73159d32440540",
       "format": "Metadata"
     },
     {
@@ -1044,9 +1086,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 99,
-  "item_last_updated": 1657650909,
-  "item_size": 4707113,
+  "files_count": 103,
+  "item_last_updated": 1657685438,
+  "item_size": 5036292,
   "metadata": {
     "identifier": "sacbee_news-2022",
     "collection": [
@@ -1063,27 +1105,8 @@
     "publicdate": "2022-06-24 23:00:30",
     "addeddate": "2022-06-24 23:00:30"
   },
-  "sacbee_news-2022": {
-    "role": "WebArea",
-    "name": "Access Denied",
-    "children": [
-      {
-        "role": "heading",
-        "name": "Access Denied",
-        "level": 1
-      },
-      {
-        "role": "text",
-        "name": "You don't have permission to access \"http://www.sacbee.com/\" on this server."
-      },
-      {
-        "role": "text",
-        "name": "Reference #18.590dc617.1657650184.1b1a5e00"
-      }
-    ]
-  },
   "server": "ia601506.us.archive.org",
-  "uniq": 2026169242,
+  "uniq": 733657973,
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"

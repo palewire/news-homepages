@@ -1,5 +1,5 @@
 {
-  "created": 1657674322,
+  "created": 1657714626,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/18/items/protocol-2022",
@@ -1108,31 +1108,73 @@
       "sha1": "ed4cb758431e2052404fb9eadfa832459a5e4459"
     },
     {
+      "name": "protocol-2022-07-12T20:28:27.087622-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657682916",
+      "size": "13781",
+      "md5": "fd2e4ee2c1a8f561b4a72759a5f8347b",
+      "crc32": "03e46f29",
+      "sha1": "5aa80328f742e1058c27485dcc3c8acd70037bce",
+      "format": "JSON"
+    },
+    {
+      "name": "protocol-2022-07-12T20:28:27.087622-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657682919",
+      "size": "32125",
+      "md5": "893ec3fbbef516f3f7f3658a9a39ee57",
+      "crc32": "04262d5b",
+      "sha1": "a3fad427cbddbfe74bf17d5d8489630b84d7f66b",
+      "format": "JSON"
+    },
+    {
+      "name": "protocol-2022-07-12T20:28:27.087622-07:00.jpg",
+      "source": "original",
+      "mtime": "1657682909",
+      "size": "231143",
+      "md5": "0335a76a14f7c406fcf42978cf8aad15",
+      "crc32": "8bc3a313",
+      "sha1": "95b273ff64bbd0e8a7186214ff039786ade9e8b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "protocol-2022-07-12T20:28:27.087622-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "protocol-2022-07-12T20:28:27.087622-07:00.jpg",
+      "mtime": "1657683000",
+      "size": "10162",
+      "md5": "b27bbf010e715c701321d9fd1a882d5a",
+      "crc32": "04247749",
+      "sha1": "bb053abb9f5abf33d80b7e3b5e0e8fd0e89107ee"
+    },
+    {
       "name": "protocol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "552b19f56f5ff478d188c675045ad88844b40305",
-      "mtime": "1657650788",
-      "size": "23424",
-      "md5": "889904b2882c10612fcfe937f05772ff",
-      "crc32": "c70737a0",
-      "sha1": "34447c44b0af1a938f69f5aa12441d5c1acfdd2a",
+      "btih": "7a05757d5ed0fd1ca3a5a0b01f3f5b664ff4a8fb",
+      "mtime": "1657683031",
+      "size": "24254",
+      "md5": "519777dc9be8f3ff64a081126a2ecd27",
+      "crc32": "c82e289d",
+      "sha1": "42a97df8b587094ea4c4a28e01288730897afdb4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "protocol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "943e6d3d3355a6ea72684cf7704cb83e",
+      "md5": "45272ba7ea948185b4e16d10534a10c5",
       "summation": "md5"
     },
     {
       "name": "protocol-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657650711",
-      "size": "143360",
-      "md5": "a0910a81102ebe77b84114c63e6a3cc2",
-      "crc32": "a38ab7c1",
-      "sha1": "b168188c3dcb928b4f3657d225bd4e0f550c1f83",
+      "mtime": "1657682922",
+      "size": "147456",
+      "md5": "19dd2069f4081365504bbcba4fc601e6",
+      "crc32": "f9cf9a7f",
+      "sha1": "da3d2476aca494cf0e8a06a05704566e0200050d",
       "format": "Metadata"
     },
     {
@@ -1146,9 +1188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 109,
-  "item_last_updated": 1657650788,
-  "item_size": 6415050,
+  "files_count": 113,
+  "item_last_updated": 1657683031,
+  "item_size": 6707187,
   "metadata": {
     "identifier": "protocol-2022",
     "collection": [
@@ -1843,22 +1885,6 @@
       "url": "/tag/didi"
     },
     {
-      "text": "Braintrust",
-      "url": "/braintrust/"
-    },
-    {
-      "text": "Power Index",
-      "url": "/power-index/"
-    },
-    {
-      "text": "Special Reports",
-      "url": "/manuals/"
-    },
-    {
-      "text": "Bulletins",
-      "url": "/bulletins/"
-    },
-    {
       "text": "Climate",
       "url": "/climate/"
     },
@@ -1871,16 +1897,36 @@
       "url": "/tag/sustainability"
     },
     {
+      "text": "Bulletins",
+      "url": "/bulletins/"
+    },
+    {
+      "text": "Power Index",
+      "url": "/power-index/"
+    },
+    {
+      "text": "Braintrust",
+      "url": "/braintrust/"
+    },
+    {
+      "text": "Special Reports",
+      "url": "/manuals/"
+    },
+    {
       "text": "Events",
       "url": "/events/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/podcasts/source-code/"
     },
     {
       "text": "Tech Calendar",
       "url": "/tech-calendar-events-product-releases"
     },
     {
-      "text": "Podcast",
-      "url": "/podcasts/source-code/"
+      "text": "\n  Sign In\n",
+      "url": "/st/account"
     },
     {
       "text": "About Protocol",
@@ -1889,10 +1935,6 @@
     {
       "text": "Careers",
       "url": "/careers/"
-    },
-    {
-      "text": "\n  Sign In\n",
-      "url": "/st/account"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
@@ -1912,79 +1954,79 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/climate/texas-heat-wave-crypto-tech"
+      "url": "https://www.protocol.com/newsletters/protocol-enterprise/pulumi-joe-duffy-china-hacking"
     },
     {
-      "text": "Protocol Climate",
-      "url": "https://www.protocol.com/newsletters/climate/"
+      "text": "Protocol Enterprise",
+      "url": "https://www.protocol.com/newsletters/protocol-enterprise/"
     },
     {
-      "text": "\n        Texas averted a grid disaster, and crypto played a part\n    ",
-      "url": "https://www.protocol.com/newsletters/climate/texas-heat-wave-crypto-tech"
+      "text": "\n        Has Pulumi cracked the cloud code?\n    ",
+      "url": "https://www.protocol.com/newsletters/protocol-enterprise/pulumi-joe-duffy-china-hacking"
     },
     {
-      "text": "Lisa Martine Jenkins",
-      "url": "https://www.protocol.com/u/lisa_martine_jenkins"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/enterprise/pulumi-joe-duffy-cloud-infrastructure"
-    },
-    {
-      "text": "software",
-      "url": "/tag/software"
-    },
-    {
-      "text": "Enterprise",
-      "url": "https://www.protocol.com/enterprise/"
-    },
-    {
-      "text": "\n        Pulumi CEO Joe Duffy wants to build the tool kit for cloud developers\n    ",
-      "url": "https://www.protocol.com/enterprise/pulumi-joe-duffy-cloud-infrastructure"
-    },
-    {
-      "text": "Donna Goodison",
-      "url": "https://www.protocol.com/u/donna"
+      "text": "the Enterprise team",
+      "url": "https://www.protocol.com/u/enterprisestaff"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/protocol-workplace/abortion-benefits-privacy"
+      "url": "https://www.protocol.com/bulletins/blockfi-grayscale-crypto-lending"
     },
     {
-      "text": "Protocol Workplace",
-      "url": "https://www.protocol.com/newsletters/protocol-workplace/"
+      "text": "cryptocurrency",
+      "url": "/tag/cryptocurrency"
     },
     {
-      "text": "\n        What employees really think of your abortion policies\n    ",
-      "url": "https://www.protocol.com/newsletters/protocol-workplace/abortion-benefits-privacy"
+      "text": "Bulletins",
+      "url": "https://www.protocol.com/bulletins/"
     },
     {
-      "text": "the Workplace team",
-      "url": "https://www.protocol.com/u/protocol-workplaceteam"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/crypto-lawsuits-regulation"
-    },
-    {
-      "text": "Protocol Fintech",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/"
-    },
-    {
-      "text": "\n        Crypto\u2019s getting litigious in the absence of regulations\n    ",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/crypto-lawsuits-regulation"
+      "text": "\n        BlockFi won't accept GBTC as collateral\n    ",
+      "url": "https://www.protocol.com/bulletins/blockfi-grayscale-crypto-lending"
     },
     {
       "text": "Benjamin Pimentel",
       "url": "https://www.protocol.com/u/benjaminpimentel"
     },
     {
-      "text": "Ryan Deffenbaugh",
-      "url": "https://www.protocol.com/u/ryandeffenbaugh"
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/bulletins/twitter-sues-musk-backing-out"
     },
     {
-      "text": "the Fintech team",
-      "url": "https://www.protocol.com/u/protocolfintechteam"
+      "text": "twitter",
+      "url": "/tag/twitter"
+    },
+    {
+      "text": "Bulletins",
+      "url": "https://www.protocol.com/bulletins/"
+    },
+    {
+      "text": "\n        Twitter sues Elon Musk for trying to walk away from his deal\n    ",
+      "url": "https://www.protocol.com/bulletins/twitter-sues-musk-backing-out"
+    },
+    {
+      "text": "Nat Rubio-Licht",
+      "url": "https://www.protocol.com/u/natrubio-licht"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/bulletins/treasury-department-crypto-regulation-biden"
+    },
+    {
+      "text": "cryptocurrency",
+      "url": "/tag/cryptocurrency"
+    },
+    {
+      "text": "Bulletins",
+      "url": "https://www.protocol.com/bulletins/"
+    },
+    {
+      "text": "\n        The Treasury Department wants your thoughts on crypto\n    ",
+      "url": "https://www.protocol.com/bulletins/treasury-department-crypto-regulation-biden"
+    },
+    {
+      "text": "Benjamin Pimentel",
+      "url": "https://www.protocol.com/u/benjaminpimentel"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
@@ -2080,6 +2122,102 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/policy/uber-exported-us-lobbying"
+    },
+    {
+      "text": "uber",
+      "url": "/tag/uber"
+    },
+    {
+      "text": "Policy",
+      "url": "https://www.protocol.com/policy/"
+    },
+    {
+      "text": "\n        Uber clobbered foreign governments with classic DC tactics\n    ",
+      "url": "https://www.protocol.com/policy/uber-exported-us-lobbying"
+    },
+    {
+      "text": "Ben Brody",
+      "url": "https://www.protocol.com/u/ben"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/newsletters/climate/texas-heat-wave-crypto-tech"
+    },
+    {
+      "text": "Protocol Climate",
+      "url": "https://www.protocol.com/newsletters/climate/"
+    },
+    {
+      "text": "\n        Texas averted a grid disaster, and crypto played a part\n    ",
+      "url": "https://www.protocol.com/newsletters/climate/texas-heat-wave-crypto-tech"
+    },
+    {
+      "text": "Lisa Martine Jenkins",
+      "url": "https://www.protocol.com/u/lisa_martine_jenkins"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/enterprise/pulumi-joe-duffy-cloud-infrastructure"
+    },
+    {
+      "text": "software",
+      "url": "/tag/software"
+    },
+    {
+      "text": "Enterprise",
+      "url": "https://www.protocol.com/enterprise/"
+    },
+    {
+      "text": "\n        Pulumi CEO Joe Duffy wants to build the tool kit for cloud developers\n    ",
+      "url": "https://www.protocol.com/enterprise/pulumi-joe-duffy-cloud-infrastructure"
+    },
+    {
+      "text": "Donna Goodison",
+      "url": "https://www.protocol.com/u/donna"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/newsletters/protocol-workplace/abortion-benefits-privacy"
+    },
+    {
+      "text": "Protocol Workplace",
+      "url": "https://www.protocol.com/newsletters/protocol-workplace/"
+    },
+    {
+      "text": "\n        What employees really think of your abortion policies\n    ",
+      "url": "https://www.protocol.com/newsletters/protocol-workplace/abortion-benefits-privacy"
+    },
+    {
+      "text": "the Workplace team",
+      "url": "https://www.protocol.com/u/protocol-workplaceteam"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/newsletters/protocol-fintech/crypto-lawsuits-regulation"
+    },
+    {
+      "text": "Protocol Fintech",
+      "url": "https://www.protocol.com/newsletters/protocol-fintech/"
+    },
+    {
+      "text": "\n        Crypto\u2019s getting litigious in the absence of regulations\n    ",
+      "url": "https://www.protocol.com/newsletters/protocol-fintech/crypto-lawsuits-regulation"
+    },
+    {
+      "text": "Benjamin Pimentel",
+      "url": "https://www.protocol.com/u/benjaminpimentel"
+    },
+    {
+      "text": "Ryan Deffenbaugh",
+      "url": "https://www.protocol.com/u/ryandeffenbaugh"
+    },
+    {
+      "text": "the Fintech team",
+      "url": "https://www.protocol.com/u/protocolfintechteam"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
       "url": "https://www.protocol.com/fintech/crypto-regulation-lawsuits"
     },
     {
@@ -2124,22 +2262,6 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/braintrust/data-reusability-most-effective-strategy"
-    },
-    {
-      "text": "Braintrust",
-      "url": "https://www.protocol.com/braintrust/"
-    },
-    {
-      "text": "\n        How to reuse your data effectively\n    ",
-      "url": "https://www.protocol.com/braintrust/data-reusability-most-effective-strategy"
-    },
-    {
-      "text": "Kevin McAllister",
-      "url": "https://www.protocol.com/u/kevinmcallister"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
       "url": "https://www.protocol.com/uber-files-kalanick"
     },
     {
@@ -2156,95 +2278,19 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/entertainment/e3-2023-game-industry-slowdown"
+      "url": "https://www.protocol.com/braintrust/data-reusability-most-effective-strategy"
     },
     {
-      "text": "Protocol Entertainment",
-      "url": "https://www.protocol.com/newsletters/entertainment/"
+      "text": "Braintrust",
+      "url": "https://www.protocol.com/braintrust/"
     },
     {
-      "text": "\n        The game industry is pinning its hopes and dreams on 2023\n    ",
-      "url": "https://www.protocol.com/newsletters/entertainment/e3-2023-game-industry-slowdown"
+      "text": "\n        How to reuse your data effectively\n    ",
+      "url": "https://www.protocol.com/braintrust/data-reusability-most-effective-strategy"
     },
     {
-      "text": "Janko Roettgers",
-      "url": "https://www.protocol.com/u/jankoroettgers"
-    },
-    {
-      "text": "Nick Statt",
-      "url": "https://www.protocol.com/u/nick"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/upstart-interest-rates"
-    },
-    {
-      "text": "Protocol Fintech",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/"
-    },
-    {
-      "text": "\n        The interest-rate vibe shift hits fintech\n    ",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/upstart-interest-rates"
-    },
-    {
-      "text": "Ryan Deffenbaugh",
-      "url": "https://www.protocol.com/u/ryandeffenbaugh"
-    },
-    {
-      "text": "the Fintech team",
-      "url": "https://www.protocol.com/u/protocolfintechteam"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/workplace/wearable-tech-injuries-walmart-amazon"
-    },
-    {
-      "text": "Workplace",
-      "url": "https://www.protocol.com/workplace/"
-    },
-    {
-      "text": "\n        Can wearable tech make warehouse work safer?\n    ",
-      "url": "https://www.protocol.com/workplace/wearable-tech-injuries-walmart-amazon"
-    },
-    {
-      "text": "Anna Kramer",
-      "url": "https://www.protocol.com/u/annakramer"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/protocol-enterprise/ai-ethical-concerns-chips-act"
-    },
-    {
-      "text": "Protocol Enterprise",
-      "url": "https://www.protocol.com/newsletters/protocol-enterprise/"
-    },
-    {
-      "text": "\n        You added the ethics, right?\n    ",
-      "url": "https://www.protocol.com/newsletters/protocol-enterprise/ai-ethical-concerns-chips-act"
-    },
-    {
-      "text": "the Enterprise team",
-      "url": "https://www.protocol.com/u/enterprisestaff"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/policy/chips-competes-congress"
-    },
-    {
-      "text": "Protocol Policy",
-      "url": "https://www.protocol.com/newsletters/policy/"
-    },
-    {
-      "text": "\n        Bipartisan support still might not save chips funding\n    ",
-      "url": "https://www.protocol.com/newsletters/policy/chips-competes-congress"
-    },
-    {
-      "text": "Hirsh Chitkara",
-      "url": "https://www.protocol.com/u/hirshchitkara"
-    },
-    {
-      "text": "Ben Brody",
-      "url": "https://www.protocol.com/u/ben"
+      "text": "Kevin McAllister",
+      "url": "https://www.protocol.com/u/kevinmcallister"
     },
     {
       "text": "",
@@ -2320,7 +2366,7 @@
     }
   ],
   "server": "ia902507.us.archive.org",
-  "uniq": 168550615,
+  "uniq": 1076901168,
   "workable_servers": [
     "ia902507.us.archive.org",
     "ia802507.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1657674225,
+  "created": 1657714526,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/npr-2022",
@@ -3544,31 +3544,73 @@
       "sha1": "d105e92edb012ae0276a09ed497d0fac095dc162"
     },
     {
+      "name": "npr-2022-07-12T23:26:15.648797-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657682785",
+      "size": "28075",
+      "md5": "b9699f5b6a0d41c7203cccb22478eece",
+      "crc32": "8e2bac9e",
+      "sha1": "26c8cfaa35385fc9d2151b4f5b054fedcd09fc71",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-12T23:26:15.648797-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657682786",
+      "size": "43035",
+      "md5": "41733304cbd39f89d0c76445006f2586",
+      "crc32": "ab0e18f4",
+      "sha1": "846c2585d7269dd5b076868d43f621c30e3810a9",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-12T23:26:15.648797-04:00.jpg",
+      "source": "original",
+      "mtime": "1657682783",
+      "size": "240141",
+      "md5": "b89c6261b84c9fc58188af084e223cf7",
+      "crc32": "41a92f4b",
+      "sha1": "09d5b9e9fb213af31e147b5a91740eea045eb58f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-12T23:26:15.648797-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-12T23:26:15.648797-04:00.jpg",
+      "mtime": "1657682846",
+      "size": "9774",
+      "md5": "64bbb5aa1173106152cd1a0a2bc52cc2",
+      "crc32": "09379503",
+      "sha1": "2970022c06b512b4ace62859fe8e7808803ff106"
+    },
+    {
       "name": "npr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fb8266f5d3b86e66bffa96e4a39d6731ec68cfee",
-      "mtime": "1657660294",
-      "size": "70634",
-      "md5": "b85c22484ea2948204967167031e94dc",
-      "crc32": "b405a4ad",
-      "sha1": "58b3d4bc08a3015e72b6aca518abf2277b986f2b",
+      "btih": "24f98dc931713e0d22b157d55d079550aa131d67",
+      "mtime": "1657682850",
+      "size": "71443",
+      "md5": "f8f1be03f2d65f08fb7e2d8266104bcf",
+      "crc32": "37491dad",
+      "sha1": "d607db8a8957228c610004d297a0f7a766495e11",
       "format": "Archive BitTorrent"
     },
     {
       "name": "npr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e2e6241c09219baef6e4f548809b14b0",
+      "md5": "0125495e84741dd3915541c385151777",
       "summation": "md5"
     },
     {
       "name": "npr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657660187",
-      "size": "401408",
-      "md5": "e691145a5900bb2e1ab428761331a609",
-      "crc32": "8a9ea1fa",
-      "sha1": "c5c2dc06bfbded55a6d720cd4edddf589529d0e4",
+      "mtime": "1657682790",
+      "size": "405504",
+      "md5": "5be170aea2fc1e511453c19bcdc70f11",
+      "crc32": "291c6e97",
+      "sha1": "09ce0ae83cf440ebad55bdcb701c8be834b4382a",
       "format": "Metadata"
     },
     {
@@ -3582,9 +3624,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 341,
-  "item_last_updated": 1657660294,
-  "item_size": 27925565,
+  "files_count": 345,
+  "item_last_updated": 1657682850,
+  "item_size": 28251495,
   "metadata": {
     "identifier": "npr-2022",
     "collection": [
@@ -3615,8 +3657,16 @@
       "url": "/"
     },
     {
+      "text": "Sign In",
+      "url": "#"
+    },
+    {
       "text": "NPR Shop",
       "url": "https://shop.npr.org"
+    },
+    {
+      "text": "Donate",
+      "url": "/donations/support"
     },
     {
       "text": "Home",
@@ -3771,6 +3821,10 @@
       "url": "/search/"
     },
     {
+      "text": "Sign In",
+      "url": "#"
+    },
+    {
       "text": "NPR Shop",
       "url": "https://shop.npr.org"
     },
@@ -3831,72 +3885,44 @@
       "url": "/ethics/"
     },
     {
-      "text": "\n                                    House Jan. 6 committee hearings\n                                ",
-      "url": "https://www.npr.org/series/1098490189/jan-6-subcommittee-hearings"
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/12/1111132464/jan-6-hearing-recap-oath-keepers-proud-boys"
     },
     {
-      "text": "\n                    Trump's summons to Washington on Jan. 6 reverberated across right-wing media\n                ",
-      "url": "https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates"
+      "text": "\n                        Politics\n                        ",
+      "url": "https://www.npr.org/sections/politics/"
     },
     {
-      "text": "                    \n                    The former president tweeted \"Be there. Will be wild!\" on Dec. 19, after a six-hour \"unhinged\" meeting in the Oval Office. One pro-Trump Youtuber called it an invitation to a \"red wedding.\"\n                ",
-      "url": "https://www.npr.org/2022/07/12/1109999639/jan-6-hearing-livestream-how-to-watch-live-updates"
+      "text": "\n                Jan. 6 panel shows evidence of coordination between far-right groups and Trump allies\n            ",
+      "url": "https://www.npr.org/2022/07/12/1111132464/jan-6-hearing-recap-oath-keepers-proud-boys"
+    },
+    {
+      "text": "\n                The committee showed video clips and text messages to demonstrate how far-right groups were emboldened by Trump's false claims about the 2020 election.\n            ",
+      "url": "https://www.npr.org/2022/07/12/1111132464/jan-6-hearing-recap-oath-keepers-proud-boys"
     },
     {
       "text": "\n        \n            Inside the 'unhinged' West Wing meeting on Dec. 18 \n        \n    ",
       "url": "https://www.npr.org/2022/07/12/1111037932/unhinged-west-wing-meeting-jan-6"
     },
     {
-      "text": "\n        \n            5 things we've learned so far from the hearings\n        \n    ",
-      "url": "https://www.npr.org/2022/07/05/1109461884/5-things-weve-learned-so-far-from-the-jan-6-committee-hearings"
+      "text": "\n        \n            Trump tried to call a Jan. 6 committee witness, Cheney says\n        \n    ",
+      "url": "https://www.npr.org/2022/07/12/1111135283/jan-6-trump-witness"
+    },
+    {
+      "text": "\n        \n            Here's every word from the seventh Jan. 6 committee hearing on its investigation\n        \n    ",
+      "url": "https://www.npr.org/2022/07/12/1111123258/jan-6-committee-hearing-transcript"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111121778/five-takeaways-from-the-2022-emmy-nominations"
+      "url": "https://www.npr.org/2022/07/12/1111032233/elon-musk-twitter-lawsuit-deal"
     },
     {
-      "text": "\n                            Culture\n                            ",
-      "url": "https://www.npr.org/sections/culture/"
+      "text": "\n                            Technology\n                            ",
+      "url": "https://www.npr.org/sections/technology/"
     },
     {
-      "text": "\n            Five takeaways from the 2022 Emmy nominations\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111121778/five-takeaways-from-the-2022-emmy-nominations"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/12/1110857585/secret-schools-enable-afghanistans-teen-girls-to-skirt-talibans-education-ban"
-    },
-    {
-      "text": "\n                            Goats and Soda\n                            ",
-      "url": "https://www.npr.org/sections/goatsandsoda/"
-    },
-    {
-      "text": "\n            Secret schools enable Afghanistan's teen girls to skirt Taliban's education ban\n            ",
-      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/12/1110857585/secret-schools-enable-afghanistans-teen-girls-to-skirt-talibans-education-ban"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/pictureshow/2022/07/12/1111002820/webb-telescope-images-nasa"
-    },
-    {
-      "text": "\n                            The Picture Show\n                            ",
-      "url": "https://www.npr.org/sections/pictureshow/"
-    },
-    {
-      "text": "\n            NASA's James Webb telescope captures groundbreaking images of distant galaxies\n            ",
-      "url": "https://www.npr.org/sections/pictureshow/2022/07/12/1111002820/webb-telescope-images-nasa"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador"
-    },
-    {
-      "text": "\n                            Politics\n                            ",
-      "url": "https://www.npr.org/sections/politics/"
-    },
-    {
-      "text": "\n            Biden gets an earful in the Oval from Mexican President L\u00f3pez Obrador\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador"
+      "text": "\n            Twitter sues Elon Musk to force his purchase of the company\n            ",
+      "url": "https://www.npr.org/2022/07/12/1111032233/elon-musk-twitter-lawsuit-deal"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -3912,14 +3938,118 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador"
+    },
+    {
+      "text": "\n                            Politics\n                            ",
+      "url": "https://www.npr.org/sections/politics/"
+    },
+    {
+      "text": "\n            Biden gets an earful in the Oval from Mexican President L\u00f3pez Obrador\n            ",
+      "url": "https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/pictureshow/2022/07/12/1111002820/webb-telescope-images-nasa"
+    },
+    {
+      "text": "\n                            The Picture Show\n                            ",
+      "url": "https://www.npr.org/sections/pictureshow/"
+    },
+    {
+      "text": "\n            NASA's James Webb telescope captures groundbreaking images of distant galaxies\n            ",
+      "url": "https://www.npr.org/sections/pictureshow/2022/07/12/1111002820/webb-telescope-images-nasa"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests"
+    },
+    {
+      "text": "\n                            Asia\n                            ",
+      "url": "https://www.npr.org/sections/asia/"
+    },
+    {
+      "text": "\n            Sri Lanka's president flees the country\n            ",
+      "url": "https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.keranews.org/texas-news/2022-07-12/portions-of-uvalde-shooting-surveillance-video-released-by-texas-media-outlets"
+    },
+    {
+      "text": "\n            Uvalde shooting surveillance video is released by Texas media outlets\n            ",
+      "url": "https://www.keranews.org/texas-news/2022-07-12/portions-of-uvalde-shooting-surveillance-video-released-by-texas-media-outlets"
+    },
+    {
+      "text": "Help me find another station",
+      "url": "/stations/"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/12/1110857585/secret-schools-enable-afghanistans-teen-girls-to-skirt-talibans-education-ban"
+    },
+    {
+      "text": "\n                        Goats and Soda\n                        ",
+      "url": "https://www.npr.org/sections/goatsandsoda/"
+    },
+    {
+      "text": "\n                Secret schools enable Afghanistan's teen girls to skirt Taliban's education ban\n            ",
+      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/12/1110857585/secret-schools-enable-afghanistans-teen-girls-to-skirt-talibans-education-ban"
+    },
+    {
+      "text": "\n                The official rule: no secondary school for girls. But behind a veil of secrecy, women are opening small schools so that at least some of these teenagers are able to continue learning\n            ",
+      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/12/1110857585/secret-schools-enable-afghanistans-teen-girls-to-skirt-talibans-education-ban"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/12/1111218529/louisiana-abortion-ban-blocked"
+    },
+    {
+      "text": "\n                        National\n                        ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n                A state judge temporarily blocked Louisiana from enforcing its abortion ban\n            ",
+      "url": "https://www.npr.org/2022/07/12/1111218529/louisiana-abortion-ban-blocked"
+    },
+    {
+      "text": "\n                The judge's order halts enforcement temporarily while lawyers for a north Louisiana clinic and other supporters of abortion rights pursue a lawsuit challenging the legislation.\n            ",
+      "url": "https://www.npr.org/2022/07/12/1111218529/louisiana-abortion-ban-blocked"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/12/1111121778/five-takeaways-from-the-2022-emmy-nominations"
+    },
+    {
+      "text": "\n                        Culture\n                        ",
+      "url": "https://www.npr.org/sections/culture/"
+    },
+    {
+      "text": "\n                Five takeaways from the 2022 Emmy nominations\n            ",
+      "url": "https://www.npr.org/2022/07/12/1111121778/five-takeaways-from-the-2022-emmy-nominations"
+    },
+    {
+      "text": "\n                There's been record TV production this year - so why were so many categories dominated by performers from a handful of shows?\n            ",
+      "url": "https://www.npr.org/2022/07/12/1111121778/five-takeaways-from-the-2022-emmy-nominations"
+    },
+    {
+      "text": "\n        \n            Emmy nominations: The contenders for TV's biggest honors\n        \n    ",
+      "url": "https://www.npr.org/2022/07/12/1110928852/emmy-nominations-awards-2022-succession-ted-lasso"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
       "url": "https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor"
     },
     {
-      "text": "\n                            Sports\n                            ",
+      "text": "\n                        Sports\n                        ",
       "url": "https://www.npr.org/sections/sports/"
     },
     {
-      "text": "\n            Mo Farah says he was trafficked to the U.K. and forced into child labor\n            ",
+      "text": "\n                Mo Farah says he was trafficked to the U.K. and forced into child labor\n            ",
+      "url": "https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor"
+    },
+    {
+      "text": "\n                \"Most people know me as Mo Farah, but it's not my name \u2014 or, it's not the reality,\" Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary.\n            ",
       "url": "https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor"
     },
     {
@@ -3973,10 +4103,6 @@
     {
       "text": "\n                        The murder of Spc. Vanessa Guill\u00e9n shed a light on the widespread problem of sexual misconduct in the military. A new documentary in English and Spanish looks at what's changed and what work remains.\n                    ",
       "url": "https://www.npr.org/2022/07/12/1110993518/vanessa-guillen-documentary-fort-hood"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            7:13\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220712_me_iamvanessaguillen_explores_the_culture_of_toxicity_at_fort_hood.mp3?orgId=1&topicId=1137&d=433&p=3&story=1110993518&dl=1&sc=siteplayer&size=6941929&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
       "text": "Download",
@@ -4039,10 +4165,6 @@
       "url": "https://www.npr.org/sections/health-shots/2022/07/12/1110533500/permanent-birth-control-tubes-tied"
     },
     {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            6:38\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220712_me_why_this_key_chance_to_getting_permanent_birth_control_is_often_missed.mp3?orgId=1&topicId=1135&d=398&p=3&story=1110533500&dl=1&sc=siteplayer&size=6369742&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
       "text": "Download",
       "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220712_me_why_this_key_chance_to_getting_permanent_birth_control_is_often_missed.mp3?orgId=1&topicId=1135&d=398&p=3&story=1110533500&dl=1&sc=siteplayer&size=6369742&dl=1&aw_0_1st.playerid=siteplayer"
     },
@@ -4089,10 +4211,6 @@
     {
       "text": "                    \n                    Monkeypox has been a developing problem for decades and the current global outbreak was avoidable, but the looming threat was largely ignored, according to a leading expert on the virus.\n                ",
       "url": "https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            4:27\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220711_atc_theres_a_vaccine_and_decades_of_research_against_monkeypox_so_why_is_it_spreading.mp3?orgId=1&topicId=1128&d=267&story=1110897541&dl=1&sc=siteplayer&size=4281200&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
       "text": "Download",
@@ -4183,10 +4301,6 @@
       "url": "https://www.npr.org/2022/07/01/1109455525/how-to-deal-with-a-crush"
     },
     {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            19:54\n                        \n                    \n                \n            ",
-      "url": "https://play.podtrac.com/npr-510338/edge1.pod.npr.org/anon.npr-mp3/npr/lifekit/2022/07/20220712_lifekit_a14c27d2-5fdc-4fb4-b27c-e1db5c795f3e.mp3?orgId=1&topicId=1008&aggIds=676529561&d=1194&p=510338&story=1109455525&t=podcast&e=1109455525&dl=1&sc=siteplayer&size=19115164&awCollectionId=510338&awEpisodeId=1109455525&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
       "text": "Download",
       "url": "https://play.podtrac.com/npr-510338/edge1.pod.npr.org/anon.npr-mp3/npr/lifekit/2022/07/20220712_lifekit_a14c27d2-5fdc-4fb4-b27c-e1db5c795f3e.mp3?orgId=1&topicId=1008&aggIds=676529561&d=1194&p=510338&story=1109455525&t=podcast&e=1109455525&dl=1&sc=siteplayer&size=19115164&awCollectionId=510338&awEpisodeId=1109455525&dl=1&aw_0_1st.playerid=siteplayer"
     },
@@ -4225,10 +4339,6 @@
     {
       "text": "                    \n                    In today's digital age, following a recipe from a book may seem pretty archaic. So if you're not in the mood to read the ingredients and measurements, then a playlist might be for you.\n                ",
       "url": "https://www.npr.org/2022/07/12/1110918246/kimchi-fried-rice-playlist-bts-anderson-paak-viral-korean-recipe-spotify"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            2:51\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220708_atc_want_to_learn_how_to_make_kimchi_fried_rice_go_on_spotify.mp3?orgId=1&topicId=1053&d=171&story=1110918246&dl=1&sc=siteplayer&size=2739767&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
       "text": "Download",
@@ -4291,10 +4401,6 @@
       "url": "https://www.npr.org/2022/07/11/1110844867/hundreds-of-couples-didnt-have-a-wedding-due-to-covid-until-now"
     },
     {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            3:26\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220711_atc_hundreds_of_couples_didnt_have_a_wedding_due_to_covid_-_until_now.mp3?orgId=1&topicId=1008&d=206&p=2&story=1110844867&dl=1&sc=siteplayer&size=3306102&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
       "text": "Download",
       "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220711_atc_hundreds_of_couples_didnt_have_a_wedding_due_to_covid_-_until_now.mp3?orgId=1&topicId=1008&d=206&p=2&story=1110844867&dl=1&sc=siteplayer&size=3306102&dl=1&aw_0_1st.playerid=siteplayer"
     },
@@ -4319,16 +4425,16 @@
       "url": "https://www.npr.org/2022/07/12/1110992521/japanese-say-their-final-goodbyes-to-former-leader-shinzo-abe-at-funeral"
     },
     {
+      "text": "\n        \n            Shinzo Abe's policies take on renewed significance for Japan\n        \n    ",
+      "url": "https://www.npr.org/2022/07/09/1110600352/shinzo-abe-killed-legacy-japan"
+    },
+    {
       "text": "\n        \n            Shinzo Abe, killed at 67, leaves a storied legacy as Japan's longest-serving premier\n        \n    ",
       "url": "https://www.npr.org/2022/07/08/1110538891/shinzo-abe-former-prime-minister-japan-killed"
     },
     {
       "text": "\n        \n            Japan is examining its security and defense policy as Russia continues war in Ukraine\n        \n    ",
       "url": "https://www.npr.org/2022/07/11/1110904546/japan-is-examining-its-security-and-defense-policy-as-russia-continues-war-in-uk"
-    },
-    {
-      "text": "\n        \n            Shinzo Abe's policies take on renewed significance for Japan\n        \n    ",
-      "url": "https://www.npr.org/2022/07/09/1110600352/shinzo-abe-killed-legacy-japan"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -4363,16 +4469,16 @@
       "url": "https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s"
     },
     {
-      "text": "\n        \n            Do you need to wear a mask where you live? Understand the CDC's new guidance\n        \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2021/07/28/1021795290/cdc-mask-guidelines-indoors-vaccinated-by-county-covid-spread"
-    },
-    {
       "text": "\n        \n            Are COVID hospitalizations high where you live? Look up your hospital\n        \n    ",
       "url": "https://www.npr.org/sections/health-shots/2020/12/09/944379919/new-data-reveal-which-hospitals-are-dangerously-full-is-yours"
     },
     {
       "text": "\n        \n            How are the COVID-19 vaccine and booster campaigns going in your state?\n        \n    ",
       "url": "https://www.npr.org/sections/health-shots/2021/01/28/960901166/how-is-the-covid-19-vaccination-campaign-going-in-your-state"
+    },
+    {
+      "text": "\n        \n            Do you need to wear a mask where you live? Understand the CDC's new guidance\n        \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2021/07/28/1021795290/cdc-mask-guidelines-indoors-vaccinated-by-county-covid-spread"
     },
     {
       "text": "news",
@@ -4500,7 +4606,7 @@
     }
   ],
   "server": "ia801409.us.archive.org",
-  "uniq": 792063732,
+  "uniq": 1599509383,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

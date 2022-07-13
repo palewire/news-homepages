@@ -1,5 +1,5 @@
 {
-  "created": 1657673983,
+  "created": 1657714247,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/28/items/grist-2022",
@@ -352,31 +352,73 @@
       "sha1": "c3a3ebd230e65086849dbfb3391968b1fbfaed16"
     },
     {
+      "name": "grist-2022-07-12T19:22:00.722970-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657678924",
+      "size": "43372",
+      "md5": "b562f7ee37070563e48716d64be9989a",
+      "crc32": "1e285874",
+      "sha1": "7ca96af84583ae393eef225682160208ecbca33e",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-07-12T19:22:00.722970-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657678925",
+      "size": "34969",
+      "md5": "33ba15d0f67b962932dff11ff718884b",
+      "crc32": "58fbf68d",
+      "sha1": "926d8f31bba63951d9c1b8e137572ff785bd190e",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-07-12T19:22:00.722970-07:00.jpg",
+      "source": "original",
+      "mtime": "1657678922",
+      "size": "274273",
+      "md5": "826ef059b3f10887464e113c4909c2fc",
+      "crc32": "44b0056f",
+      "sha1": "c281ee286ced69ac60588229a25c60234ec80ee2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "grist-2022-07-12T19:22:00.722970-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "grist-2022-07-12T19:22:00.722970-07:00.jpg",
+      "mtime": "1657679022",
+      "size": "8530",
+      "md5": "0b90474b8c5e7cf2264cb07d19fe0c20",
+      "crc32": "bfff950c",
+      "sha1": "a0aa94faef9510c7c66b7c6dfe310b2a64e14cc9"
+    },
+    {
       "name": "grist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cedca273884044c15b878140f2c12dc81396b134",
-      "mtime": "1657647985",
-      "size": "8216",
-      "md5": "453aec0741aa06bb755a7053053d0d47",
-      "crc32": "79ed4782",
-      "sha1": "63b8a31ea86928a10d92dff760142958638ace27",
+      "btih": "f9cb2ab7eb55fe7cfc9959f5c9f6455411b968d0",
+      "mtime": "1657679026",
+      "size": "9053",
+      "md5": "0ab56174b82e4c547da96833578ba84e",
+      "crc32": "8b2b5a33",
+      "sha1": "712a780237f108b6c39e115f3caf0169ac7f7938",
       "format": "Archive BitTorrent"
     },
     {
       "name": "grist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8520e16def2b9fe0ee4dc6915444a417",
+      "md5": "ec23210dc019e210b445f5129f5da253",
       "summation": "md5"
     },
     {
       "name": "grist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657647887",
-      "size": "53248",
-      "md5": "7229c647765b9634bb8892043fbb85c0",
-      "crc32": "dad9bb79",
-      "sha1": "ae790e9b0a108e38f0cf58b828652f75c7b7eb32",
+      "mtime": "1657678932",
+      "size": "57344",
+      "md5": "01ace0d291bb3e4e7d6e6e2eda95b098",
+      "crc32": "3ea5545b",
+      "sha1": "90009b66712c14a638dc0fc7dae9d3ada4724ea2",
       "format": "Metadata"
     },
     {
@@ -390,8 +432,20 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 37,
+  "files_count": 41,
   "grist-2022": [
+    {
+      "text": " Skip to Content \u21b5ENTER ",
+      "url": "#acsbContent"
+    },
+    {
+      "text": " Skip to Menu \u21b5ENTER ",
+      "url": "#acsbMenu"
+    },
+    {
+      "text": " Skip to Footer \u21b5ENTER ",
+      "url": "#acsbFooter"
+    },
     {
       "text": "Skip to content",
       "url": "#content"
@@ -1449,12 +1503,28 @@
       "url": "https://grist.org/about/privacy/"
     },
     {
-      "text": "Read the issue",
-      "url": "https://grist.org/fix/july-2022-joy-issue/?utm_campaign=wisepop&utm_source=fix&utm_content=joy"
+      "text": "  ",
+      "url": "#"
+    },
+    {
+      "text": "    English  ",
+      "url": "#"
+    },
+    {
+      "text": "  Reset Settings ",
+      "url": "#"
+    },
+    {
+      "text": "  Statement ",
+      "url": "#"
+    },
+    {
+      "text": "  Hide Interface ",
+      "url": "#"
     }
   ],
-  "item_last_updated": 1657647985,
-  "item_size": 2466415,
+  "item_last_updated": 1657679026,
+  "item_size": 2832492,
   "metadata": {
     "identifier": "grist-2022",
     "collection": [
@@ -1471,10 +1541,10 @@
     "publicdate": "2022-07-09 03:58:54",
     "addeddate": "2022-07-09 03:58:54"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 1326574298,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1754648030,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

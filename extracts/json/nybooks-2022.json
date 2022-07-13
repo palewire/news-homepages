@@ -1,5 +1,5 @@
 {
-  "created": 1657674232,
+  "created": 1657714531,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/32/items/nybooks-2022",
@@ -730,31 +730,73 @@
       "sha1": "353bd20b42951dc68a00e41404fe1fbec3a9402a"
     },
     {
+      "name": "nybooks-2022-07-12T23:26:03.326190-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657682767",
+      "size": "20322",
+      "md5": "a379e6f0546cb78ef0cbe16b48e308d2",
+      "crc32": "2dacf412",
+      "sha1": "4f0da2a1a57e2e7425232aa3e91f7faf090b1e59",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-12T23:26:03.326190-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657682769",
+      "size": "46054",
+      "md5": "85622461ec4acaf9d6577619b2da24c5",
+      "crc32": "6d595f6f",
+      "sha1": "f33650c3630a7761efda56e6f41529728dd2541c",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-12T23:26:03.326190-04:00.jpg",
+      "source": "original",
+      "mtime": "1657682765",
+      "size": "390094",
+      "md5": "64e5b4934b0bba29dbfdc000c6296bb2",
+      "crc32": "110939b4",
+      "sha1": "c9a4a27d2f89a18aa615ce93d359cebb60cd1861",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nybooks-2022-07-12T23:26:03.326190-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nybooks-2022-07-12T23:26:03.326190-04:00.jpg",
+      "mtime": "1657682881",
+      "size": "10523",
+      "md5": "45016216a8b6313932352be66ef2cfcc",
+      "crc32": "406d5612",
+      "sha1": "353bd20b42951dc68a00e41404fe1fbec3a9402a"
+    },
+    {
       "name": "nybooks-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d06d71ba96d69630e68093a81ccb50e18b10c37",
-      "mtime": "1657642740",
-      "size": "15940",
-      "md5": "d5bb56a8ff7704ba702efbd432fe3e88",
-      "crc32": "1667e628",
-      "sha1": "23bcd8f2c83156a93b268ac46204abcdac1d63fb",
+      "btih": "c0aeb711d3530b0b6d9f78fa31c7f8460dcf4cdc",
+      "mtime": "1657682886",
+      "size": "16786",
+      "md5": "acea189aa515610a7322ce2a1851d528",
+      "crc32": "8dbb0465",
+      "sha1": "353e899f9110d491351c93c5dfc1b72ad1324fa4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nybooks-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "889a105a9ecefb528be05518e2b9ea93",
+      "md5": "72a9472f64b10e0b5fa5480a911c77e7",
       "summation": "md5"
     },
     {
       "name": "nybooks-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657641871",
-      "size": "90112",
-      "md5": "16b7db0203445e362e423e6fa11d329d",
-      "crc32": "86926f51",
-      "sha1": "d9501f760d8e3752bd9fb4c1e0ed54bfd3858a94",
+      "mtime": "1657682773",
+      "size": "94208",
+      "md5": "f47d11d33d5fa1e7a173b6da1dd87f2f",
+      "crc32": "d0987620",
+      "sha1": "fe3a7e05047be41048e8801b90ba0b22acd7d08c",
       "format": "Metadata"
     },
     {
@@ -768,9 +810,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 73,
-  "item_last_updated": 1657642740,
-  "item_size": 7431054,
+  "files_count": 77,
+  "item_last_updated": 1657682886,
+  "item_size": 7902989,
   "metadata": {
     "identifier": "nybooks-2022",
     "collection": [
@@ -1101,20 +1143,20 @@
       "url": "http://www.nyrb.com/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nMiranda Seymour\t\t\t\t\t\t\n\t\t\t\t\t\t\u2018Turbulence and Misery\u2019\n\t\t\t\t\t\tAnguish, provoked by her acute sense of physical and social inadequacy, was essential for Jean Stafford\u2019s literary talent to flourish.\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
-      "url": "https://www.nybooks.com/articles/2022/07/21/turbulence-and-misery-jean-stafford-seymour/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nAlice Kaplan\t\t\t\t\t\t\n\t\t\t\t\t\tThe Master of Blame\n\t\t\t\t\t\tA recently rediscovered work by Louis-Ferdinand C\u00e9line has been celebrated as a masterpiece, but does it erase the rabid anti-Semitism of his later writing?\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
-      "url": "https://www.nybooks.com/articles/2022/07/21/the-master-of-blame-louis-ferdinand-celine/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nHelon Habila\t\t\t\t\t\n\t\t\t\t\tCrude Reality\n\t\t\t\t\tImbolo Mbue\u2019s How Beautiful We Were confronts the often ignored messiness and violence of oil extraction.\n\n\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t",
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nHelon Habila\t\t\t\t\t\t\n\t\t\t\t\t\tCrude Reality\n\t\t\t\t\t\tImbolo Mbue\u2019s How Beautiful We Were confronts the often ignored messiness and violence of oil extraction.\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
       "url": "https://www.nybooks.com/articles/2022/07/21/crude-reality-how-beautiful-we-were-imbolo-mbue/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nIshmael Reed\t\t\t\t\t\t\n\t\t\t\t\t\tThe Buffalo I Knew\n\t\t\t\t\t\tThe city is at a crossroads. Which path will it take?\n\n\t\t\t\t\t\t    July 9, 2022\n\n\t\t\t\t\t",
-      "url": "https://www.nybooks.com/daily/2022/07/09/the-buffalo-i-knew/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nMiranda Seymour\t\t\t\t\t\t\n\t\t\t\t\t\t\u2018Turbulence and Misery\u2019\n\t\t\t\t\t\tAnguish, provoked by her acute sense of physical and social inadequacy, was essential for Jean Stafford\u2019s literary talent to flourish.\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
+      "url": "https://www.nybooks.com/articles/2022/07/21/turbulence-and-misery-jean-stafford-seymour/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nLucy Ives\t\t\t\t\t\n\t\t\t\t\tA Line that Wants to Speak\n\t\t\t\t\tThe Beat artist Rick Barton, a fixture of the San Francisco caf\u00e9 scene, filled notebooks with expressive line drawings that are only now getting their due.\n\n\t\t\t\t\t    July 12, 2022\n\n\t\t\t\t",
+      "url": "https://www.nybooks.com/daily/2022/07/12/a-line-that-wants-to-speak-rick-barton/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nAlice Kaplan\t\t\t\t\t\t\n\t\t\t\t\t\tThe Master of Blame\n\t\t\t\t\t\tA recently rediscovered work by Louis-Ferdinand C\u00e9line has been celebrated as a masterpiece, but does it erase the rabid anti-Semitism of his later writing?\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
+      "url": "https://www.nybooks.com/articles/2022/07/21/the-master-of-blame-louis-ferdinand-celine/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nDavid Cole\t\t\t\t\t\t\n\t\t\t\t\t\tThe Supreme Court\u2019s Unprecedented Turn\n\t\t\t\t\t\tIn several of the term\u2019s most controversial cases, the\u00a0Court\u2019s new majority applied originalism to disastrous effect.\n\n\t\t\t\t\t\t    July 8, 2022\n\n\t\t\t\t\t",
@@ -1185,16 +1227,16 @@
       "url": "https://www.nybooks.com/articles/2018/11/08/how-republicans-became-anti-choice/"
     },
     {
+      "text": "\n                                                                \n                    \n                        \n                    \n                \n                        \n                \n\n\nIshmael Reed            \n            The Buffalo I Knew\n            The city is at a crossroads. Which path will it take?\n\n                July 9, 2022\n\n        ",
+      "url": "https://www.nybooks.com/daily/2022/07/09/the-buffalo-i-knew/"
+    },
+    {
       "text": "\n                                                                \n                    \n                        \n                    \n                \n                        \n                \n\n\nTim Parks            \n            A Text Adrift\n            How does the death of the author change the task of the translator?\n\n                July 7, 2022\n\n        ",
       "url": "https://www.nybooks.com/daily/2022/07/07/a-text-adrift/"
     },
     {
       "text": "\n                                                                \n                    \n                        \n                    \n                \n                        \n                \n\n\nChristopher Benfey            \n            Shaggy Allies\n            It\u2019s comforting to know that Melville, isolated in an old farmhouse in Pittsfield, had the company of a dog.\n\n                June 29, 2022\n\n        ",
       "url": "https://www.nybooks.com/daily/2022/06/29/shaggy-allies/"
-    },
-    {
-      "text": "\n                                                                \n                    \n                        \n                    \n                \n                        \n                \n\n\nAnna Shechtman and D.A. Miller            \n            Crimes Against Humanity\n            The precondition for making it with anyone in David Cronenberg\u2019s cinema is making it new.\u00a0\n\n                June 28, 2022\n\n        ",
-      "url": "https://www.nybooks.com/daily/2022/06/28/crimes-against-humanity/"
     },
     {
       "text": "Read More",
@@ -1301,24 +1343,28 @@
       "url": "politics"
     },
     {
-      "text": "\n                                    \n                                        \n\t\n\nMiranda Seymour                                    \n                                    \u2018Turbulence and Misery\u2019\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/turbulence-and-misery-jean-stafford-seymour/"
+      "text": "\n                                    \n                                        \n\t\n\nRumaan Alam                                    \n                                    Diary of an Adducer\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/diary-of-an-adducer-either-or-elif-batuman/"
     },
     {
-      "text": "\n                                    \n                                        \n\t\n\nSarah Blackwood                                    \n                                    Spiritual Exercises\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/secret-to-superhuman-strength-alison-bechdel/"
+      "text": "\n                                    \n                                        \n\t\n\nRosa Lyster                                    \n                                    Whose Homeland?\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/whose-homeland-the-promise-damon-galgut/"
     },
     {
-      "text": "\n                                    \n                                        \n\t\n\nHelon Habila                                    \n                                    Crude Reality\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/crude-reality-how-beautiful-we-were-imbolo-mbue/"
+      "text": "\n                                    \n                                        \n\t\n\nUrsula Lindsey                                    \n                                    A Painful In-Betweenness\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/a-painful-in-betweenness-what-strange-paradise-el-akkad/"
     },
     {
-      "text": "\n                                    \n                                        \n\t\n\nSigrid Nunez                                    \n                                    The Lady Vanishes\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/the-lady-vanishes-portrait-of-an-unknown-lady-gainza/"
+      "text": "\n                                    \n                                        \n\t\n\nDeborah Eisenberg                                    \n                                    Condemned to Life\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/i-who-have-never-known-men-harpman/"
     },
     {
       "text": "More Literature",
       "url": "literature"
+    },
+    {
+      "text": "\n                                    \n                                        \n\t\n\nLucy Ives                                    \n                                    A Line that Wants to Speak\n                                        July 12, 2022\n\n                                ",
+      "url": "https://www.nybooks.com/daily/2022/07/12/a-line-that-wants-to-speak-rick-barton/"
     },
     {
       "text": "\n                                    \n                                        \n\t\n\nNamwali Serpell                                    \n                                    \u2018She\u2019s Capital!\u2019\n                                        July 21, 2022 issue\n\n                                ",
@@ -1333,20 +1379,8 @@
       "url": "https://www.nybooks.com/daily/2022/06/28/crimes-against-humanity/"
     },
     {
-      "text": "\n                                    \n                                        \n\t\n\nVictoria Baena                                    \n                                    Altars of Novelty and Profit\n                                        June 16, 2022\n\n                                ",
-      "url": "https://www.nybooks.com/daily/2022/06/16/altars-of-novelty-and-profit-balzac/"
-    },
-    {
       "text": "More Arts",
       "url": "arts"
-    },
-    {
-      "text": "\n                                    \n                                        \n\t\n\nRobert Kuttner                                    \n                                    Free Markets, Besieged Citizens\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/free-markets-besieged-citizens-gerstle-kuttner/"
-    },
-    {
-      "text": "\n                                    \n                                        \n\t\n\nDaniel Immerwahr                                    \n                                    Wielding Wheat\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/wielding-wheat-oceans-of-grain-nelson/"
     },
     {
       "text": "\n                                    \n                                        \n\t\n\nVerlyn Klinkenborg                                    \n                                    The Forest\u2019s-Eye View\n                                        July 21, 2022 issue\n\n                                ",
@@ -1355,6 +1389,14 @@
     {
       "text": "\n                                    \n                                        \n\t\n\nFT                                    \n                                    Apropos of Nothing\n                                        July 21, 2022 issue\n\n                                ",
       "url": "https://www.nybooks.com/articles/2022/07/21/absence-and-nothing-stephen-mumford/"
+    },
+    {
+      "text": "\n                                    \n                                        \n\t\n\nRobert Kuttner                                    \n                                    Free Markets, Besieged Citizens\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/free-markets-besieged-citizens-gerstle-kuttner/"
+    },
+    {
+      "text": "\n                                    \n                                        \n\t\n\nDaniel Immerwahr                                    \n                                    Wielding Wheat\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/wielding-wheat-oceans-of-grain-nelson/"
     },
     {
       "text": "More Ideas",
@@ -1545,10 +1587,10 @@
       "url": "http://athleticsnyc.com/"
     }
   ],
-  "server": "ia902501.us.archive.org",
-  "uniq": 707034203,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1105660547,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

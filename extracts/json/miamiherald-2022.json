@@ -1,5 +1,5 @@
 {
-  "created": 1657674174,
+  "created": 1657682753,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/4/items/miamiherald-2022",
@@ -752,31 +752,73 @@
       "sha1": "026f457437dd9dc43f69d6a80644abca72068f20"
     },
     {
+      "name": "miamiherald-2022-07-12T23:24:21.878808-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657682666",
+      "size": "459",
+      "md5": "97a1b65b3e41f54555d1e32afd635aa4",
+      "crc32": "99be543b",
+      "sha1": "31caef5bb02ef3fc06e9729b4bb8aed6b33dd1c0",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-07-12T23:24:21.878808-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657682668",
+      "size": "48542",
+      "md5": "2dc7bf3ee0087d440dc0d47a6f9095e2",
+      "crc32": "7eff1574",
+      "sha1": "15d5629dbca6177a47efe10d0358cd5f839dd071",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-07-12T23:24:21.878808-04:00.jpg",
+      "source": "original",
+      "mtime": "1657682665",
+      "size": "303706",
+      "md5": "3b1da0491461ce9efac6246331df0484",
+      "crc32": "bec260d0",
+      "sha1": "7932fd702c735665244a3909fc9db09bccda6492",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miamiherald-2022-07-12T23:24:21.878808-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miamiherald-2022-07-12T23:24:21.878808-04:00.jpg",
+      "mtime": "1657682738",
+      "size": "9793",
+      "md5": "ad2720e82dde383354f26cefe9507f3b",
+      "crc32": "64ac1817",
+      "sha1": "77d703e93f0b42dd85b8b2e130ad0611fd183830"
+    },
+    {
       "name": "miamiherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f9a1539170388a928e70e67e98cbb188c7df3afe",
-      "mtime": "1657641900",
-      "size": "16372",
-      "md5": "d30b5d829ff0dfdf84d05bf0a87687e8",
-      "crc32": "7538ea41",
-      "sha1": "caeb26315bdf704cc9745480e37f130d9be211f4",
+      "btih": "50073de4ffc182c67c051720ef30212287f4b927",
+      "mtime": "1657682741",
+      "size": "17232",
+      "md5": "4f8ea8353e1da57ba1ee13b33d1f9ef5",
+      "crc32": "cd070a5f",
+      "sha1": "ef208f9b57e56c610851acf374dd0d3206edd80d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miamiherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eae5f1f51c48d4b28c703c1bb1ebe610",
+      "md5": "1ff2b20688a0ba5c1e71f1c03bafa5c7",
       "summation": "md5"
     },
     {
       "name": "miamiherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657641658",
-      "size": "94208",
-      "md5": "3660fc1a101b7f6924d9181f3e489a8c",
-      "crc32": "b1665362",
-      "sha1": "c591f7a2fa0fe8fea03c64724300a229f6f1326f",
+      "mtime": "1657682672",
+      "size": "106496",
+      "md5": "dce09bcec4f335564edb81a79b56e67a",
+      "crc32": "55a77d76",
+      "sha1": "900d257c9a3b826f16c9cb3fe97d3d596c99726b",
       "format": "Metadata"
     },
     {
@@ -790,9 +832,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 75,
-  "item_last_updated": 1657641900,
-  "item_size": 3118155,
+  "files_count": 79,
+  "item_last_updated": 1657682741,
+  "item_size": 3493803,
   "metadata": {
     "identifier": "miamiherald-2022",
     "collection": [
@@ -809,29 +851,10 @@
     "publicdate": "2022-06-24 22:58:26",
     "addeddate": "2022-06-24 22:58:26"
   },
-  "miamiherald-2022": {
-    "role": "WebArea",
-    "name": "Access Denied",
-    "children": [
-      {
-        "role": "heading",
-        "name": "Access Denied",
-        "level": 1
-      },
-      {
-        "role": "text",
-        "name": "You don't have permission to access \"http://www.miamiherald.com/\" on this server."
-      },
-      {
-        "role": "text",
-        "name": "Reference #18.b3c33d17.1657639138.dfe23f"
-      }
-    ]
-  },
-  "server": "ia601403.us.archive.org",
-  "uniq": 1055699257,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1103719460,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }
