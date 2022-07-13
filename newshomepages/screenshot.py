@@ -126,6 +126,7 @@ def _screenshot(site: typing.Dict, output_path: Path, wait: int = 5000):
             ".widget_eu_cookie_law_widget",  # GDPR poup
             ".fancybox-overlay",  # Ad overlay
             ".signup-box",  # Popup ad
+            ".newspack-lightbox",  # Popup
         ]
         target_str = ",".join(target_list)
         javascript = (
