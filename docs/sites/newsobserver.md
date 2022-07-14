@@ -17,7 +17,7 @@ orphan: true
 | Location       | Raleigh                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 9 screenshots stored at the Internet Archive.
+The archiving routine has captured 10 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
