@@ -1,5 +1,5 @@
 {
-  "created": 1657714623,
+  "created": 1657758468,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/31/items/propublica-2022",
@@ -3616,31 +3616,73 @@
       "sha1": "10522e05a6527b1d3c8d5bea6d1379c4df790fcf"
     },
     {
+      "name": "propublica-2022-07-13T12:26:11.245284-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657729579",
+      "size": "48987",
+      "md5": "92f6ace71d582f35df6e29595fb64dc4",
+      "crc32": "0097ca33",
+      "sha1": "92ac65186d1bc25b87aafc202f0b6a36f048b049",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-07-13T12:26:11.245284-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657729580",
+      "size": "20237",
+      "md5": "98bd5bd4f7c477075e11270e5b8a7825",
+      "crc32": "27ff0443",
+      "sha1": "36d67adc7244752f1bf027f802f10f9068322205",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-07-13T12:26:11.245284-04:00.jpg",
+      "source": "original",
+      "mtime": "1657729574",
+      "size": "300837",
+      "md5": "dfb2e5acb110d8aee2688f2f8c3d05d3",
+      "crc32": "7a8513d8",
+      "sha1": "3b11c140c5f845667dcef76732be1cfd24f09fa4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "propublica-2022-07-13T12:26:11.245284-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "propublica-2022-07-13T12:26:11.245284-04:00.jpg",
+      "mtime": "1657729667",
+      "size": "10054",
+      "md5": "0271589a903861cbf9ecea0fd630efa2",
+      "crc32": "e1e765ec",
+      "sha1": "65ce59ccc3948dd9bf9f6f937f444928bf2a3ebe"
+    },
+    {
       "name": "propublica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f036645838dd4ddfa72018b9f1de4bc119e9437b",
-      "mtime": "1657682968",
-      "size": "74730",
-      "md5": "76fc5064d4dd0fa3ca892f1b028f0331",
-      "crc32": "42e73ae7",
-      "sha1": "acc237c201d2339407ef6a06c67e898b6cdc72ed",
+      "btih": "7ec265365d3b3082e2f43ef845ccac6635dbb7bc",
+      "mtime": "1657729679",
+      "size": "75588",
+      "md5": "2183b128e14274321abafd8362d499b7",
+      "crc32": "facadebc",
+      "sha1": "d38e143fcbf4ce26e36b0091d055362322bbbdf6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "propublica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c220f2367a86c36cdc9dd5eb30195cef",
+      "md5": "6bcedad4c9bf982f706b47ba7f45158a",
       "summation": "md5"
     },
     {
       "name": "propublica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657682899",
-      "size": "413696",
-      "md5": "5aa535b4e38c3bf151ff5fe9a1e81927",
-      "crc32": "fe08cdac",
-      "sha1": "6ddb4c26b9f484637c52e3526abd5f237d7477bd",
+      "mtime": "1657729590",
+      "size": "421888",
+      "md5": "c4f22dd70bee2514ba6a4b0ca22e64ef",
+      "crc32": "3ff7483f",
+      "sha1": "1cda799cf4ace92f9332b4ea1544ad9f88789348",
       "format": "Metadata"
     },
     {
@@ -3654,9 +3696,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 348,
-  "item_last_updated": 1657682968,
-  "item_size": 33453182,
+  "files_count": 352,
+  "item_last_updated": 1657729679,
+  "item_size": 33842347,
   "metadata": {
     "identifier": "propublica-2022",
     "collection": [
@@ -3804,6 +3846,22 @@
     },
     {
       "text": "\n                \n            ",
+      "url": "https://www.propublica.org/article/texas-guns-background-checks-juvenile"
+    },
+    {
+      "text": "Critical Omissions Plague Texas Gun Background Check Law",
+      "url": "https://www.propublica.org/article/texas-guns-background-checks-juvenile"
+    },
+    {
+      "text": "Jeremy Schwartz",
+      "url": "https://www.propublica.org/people/jeremy-schwartz"
+    },
+    {
+      "text": "Kiah Collier",
+      "url": "https://www.propublica.org/people/kiah-collier"
+    },
+    {
+      "text": "\n                \n            ",
       "url": "https://www.propublica.org/article/bayraktar-tb2-drone-turkey-exports"
     },
     {
@@ -3815,7 +3873,7 @@
       "url": "https://www.propublica.org/people/umar-farooq"
     },
     {
-      "text": "\n                \n            ",
+      "text": "\n                            \n                                \n                                \n                                \n                            \n                        ",
       "url": "https://www.propublica.org/article/pegasus-spyware-nso-israel-blacklist-lobbying"
     },
     {
@@ -3833,26 +3891,6 @@
     {
       "text": "Andrea Suozzo",
       "url": "https://www.propublica.org/people/andrea-suozzo"
-    },
-    {
-      "text": "\n                            \n                                \n                                \n                                \n                            \n                        ",
-      "url": "https://www.propublica.org/article/chicago-speed-cameras-safety-racial-disparities"
-    },
-    {
-      "text": "Driven Into Debt",
-      "url": "https://www.propublica.org/series/driven-into-debt"
-    },
-    {
-      "text": "In Debate Over Chicago\u2019s Speed Cameras, Concerns Over Safety, Racial Disparities Collide",
-      "url": "https://www.propublica.org/article/chicago-speed-cameras-safety-racial-disparities"
-    },
-    {
-      "text": "Melissa Sanchez",
-      "url": "https://www.propublica.org/people/melissa-sanchez"
-    },
-    {
-      "text": "Emily Hopkins",
-      "url": "https://www.propublica.org/people/emily-hopkins"
     },
     {
       "text": "\n                                                                                        \n                                \n                                                    ",
@@ -3875,6 +3913,14 @@
       "url": "https://www.propublica.org/article/january-6-hearings-public-opinion"
     },
     {
+      "text": "ProPublica\u2019s Nicole Carr Wins July Sidney Award",
+      "url": "https://www.propublica.org/atpropublica/propublicas-nicole-carr-wins-july-sidney-award"
+    },
+    {
+      "text": "ProPublica",
+      "url": "https://www.propublica.org/people/propublica"
+    },
+    {
       "text": "ProPublica Hires Reporter Anna Maria Barry-Jester to Cover Global Health",
       "url": "https://www.propublica.org/atpropublica/propublica-hires-reporter-anna-maria-barry-jester-to-cover-global-health"
     },
@@ -3889,6 +3935,22 @@
     {
       "text": "ProPublica",
       "url": "https://www.propublica.org/people/propublica"
+    },
+    {
+      "text": "\n                \n            ",
+      "url": "https://www.propublica.org/article/chicago-speed-cameras-safety-racial-disparities"
+    },
+    {
+      "text": "In Debate Over Chicago\u2019s Speed Cameras, Concerns Over Safety, Racial Disparities Collide",
+      "url": "https://www.propublica.org/article/chicago-speed-cameras-safety-racial-disparities"
+    },
+    {
+      "text": "Melissa Sanchez",
+      "url": "https://www.propublica.org/people/melissa-sanchez"
+    },
+    {
+      "text": "Emily Hopkins",
+      "url": "https://www.propublica.org/people/emily-hopkins"
     },
     {
       "text": "\n                \n            ",
@@ -4035,26 +4097,6 @@
       "url": "https://www.propublica.org/people/seth-freed-wessler"
     },
     {
-      "text": "Help Us Learn About Sheltered Workshops in Missouri",
-      "url": "https://www.propublica.org/getinvolved/help-us-learn-about-sheltered-workshops-in-missouri"
-    },
-    {
-      "text": "The Kansas City Beacon",
-      "url": "https://thebeacon.media"
-    },
-    {
-      "text": "\n                \n            ",
-      "url": "https://www.propublica.org/article/pollution-kentucky-westlake-chemical-cancer"
-    },
-    {
-      "text": "The Polluter Just Got a Million-Dollar Fine. That Won\u2019t Cure This Woman\u2019s Rare Cancer.",
-      "url": "https://www.propublica.org/article/pollution-kentucky-westlake-chemical-cancer"
-    },
-    {
-      "text": "Lisa Song",
-      "url": "https://www.propublica.org/people/lisa-song"
-    },
-    {
       "text": "\n\t\t\t\t\n\t\t\t\tTwitter\n\t\t\t",
       "url": "https://twitter.com/propublica"
     },
@@ -4115,6 +4157,26 @@
       "url": "https://www.propublica.org/getinvolved/help-us-investigate-racial-disparities-in-arizonas-child-welfare-system"
     },
     {
+      "text": "\u201cThe Drone Problem\u201d: How the U.S. Has Struggled to Curb Turkey, a Key Exporter of Armed Drones",
+      "url": "https://www.propublica.org/article/bayraktar-tb2-drone-turkey-exports"
+    },
+    {
+      "text": "White Parents Rallied to Chase a Black Educator Out of Town. Then, They Followed Her to the Next One.",
+      "url": "https://www.propublica.org/article/georgia-dei-crt-schools-parents"
+    },
+    {
+      "text": "Right-Wing Think Tank Family Research Council Is Now a Church in Eyes of the IRS",
+      "url": "https://www.propublica.org/article/family-research-council-irs-church-status"
+    },
+    {
+      "text": "Child Porn Possession Investigation Into South Dakota Billionaire Closed With No Charges",
+      "url": "https://www.propublica.org/article/denny-sanford-child-porn-no-charges"
+    },
+    {
+      "text": "Critical Omissions Plague Texas Gun Background Check Law",
+      "url": "https://www.propublica.org/article/texas-guns-background-checks-juvenile"
+    },
+    {
       "text": "Right-Wing Think Tank Family Research Council Is Now a Church in Eyes of the IRS",
       "url": "https://www.propublica.org/article/family-research-council-irs-church-status"
     },
@@ -4123,36 +4185,16 @@
       "url": "https://www.propublica.org/article/bayraktar-tb2-drone-turkey-exports"
     },
     {
-      "text": "Climate Change Will Force a New American Migration",
-      "url": "https://www.propublica.org/article/climate-change-will-force-a-new-american-migration"
-    },
-    {
-      "text": "Child Porn Possession Investigation Into South Dakota Billionaire Closed With No Charges",
-      "url": "https://www.propublica.org/article/denny-sanford-child-porn-no-charges"
-    },
-    {
-      "text": "Ken Griffin Spent $54 Million Fighting a Tax Increase for the Rich. Secret IRS Data Shows It Paid Off for Him.",
-      "url": "https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax"
-    },
-    {
-      "text": "Right-Wing Think Tank Family Research Council Is Now a Church in Eyes of the IRS",
-      "url": "https://www.propublica.org/article/family-research-council-irs-church-status"
-    },
-    {
-      "text": "\u201cThe Drone Problem\u201d: How the U.S. Has Struggled to Curb Turkey, a Key Exporter of Armed Drones",
-      "url": "https://www.propublica.org/article/bayraktar-tb2-drone-turkey-exports"
-    },
-    {
-      "text": "A Mother Needed Welfare. Instead, the State Used Welfare Funds to Take Her Son.",
-      "url": "https://www.propublica.org/article/a-mother-needed-welfare-instead-the-state-used-welfare-funds-to-take-her-son"
-    },
-    {
       "text": "Ken Griffin Spent $54 Million Fighting a Tax Increase for the Rich. Secret IRS Data Shows It Paid Off for Him.",
       "url": "https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax"
     },
     {
       "text": "Child Porn Possession Investigation Into South Dakota Billionaire Closed With No Charges",
       "url": "https://www.propublica.org/article/denny-sanford-child-porn-no-charges"
+    },
+    {
+      "text": "Pegasus Spyware Maker NSO Is Conducting a Lobbying Campaign to Get Off U.S. Blacklist",
+      "url": "https://www.propublica.org/article/pegasus-spyware-nso-israel-blacklist-lobbying"
     },
     {
       "text": "\n                    \n    ProPublica\n    \n\n                ",
@@ -4308,7 +4350,7 @@
     }
   ],
   "server": "ia601504.us.archive.org",
-  "uniq": 1771498643,
+  "uniq": 1580122273,
   "workable_servers": [
     "ia601504.us.archive.org",
     "ia801504.us.archive.org"

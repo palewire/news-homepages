@@ -1,5 +1,5 @@
 {
-  "created": 1657714894,
+  "created": 1657748047,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -3584,31 +3584,157 @@
       "sha1": "3cb430842275a505d1e964e0a9767e8e460156d2"
     },
     {
+      "name": "yahoonews-2022-07-13T12:16:42.938694-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657729008",
+      "size": "37536",
+      "md5": "de6442b8f201685d2b86f8fd1ef98168",
+      "crc32": "d8096d75",
+      "sha1": "5b1d36604ef18a95d5d707160369aa26efe4f2bb",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-13T12:16:42.938694-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657729010",
+      "size": "16124",
+      "md5": "9edcd0c7b591c55a817fc466a6339635",
+      "crc32": "fda04d67",
+      "sha1": "caa8cf67a2a841da2be0872712e2877dcf25e8c8",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-13T12:16:42.938694-04:00.jpg",
+      "source": "original",
+      "mtime": "1657729006",
+      "size": "325745",
+      "md5": "4aaeebc3c4b71ad524466f67937cf3a2",
+      "crc32": "052d42ba",
+      "sha1": "3ecb7783ce0227820027a23e657c964c9da5bcfd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-13T12:16:42.938694-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-13T12:16:42.938694-04:00.jpg",
+      "mtime": "1657729140",
+      "size": "10058",
+      "md5": "07edabb5483c3ac0da8e2527c3733634",
+      "crc32": "0a74ef17",
+      "sha1": "47e603b542e73d514f0a5b068b0ce36079479b37"
+    },
+    {
+      "name": "yahoonews-2022-07-13T13:25:03.808659-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657733106",
+      "size": "41241",
+      "md5": "574ddcb5e683e714cd402fc5019988a7",
+      "crc32": "f5e918ef",
+      "sha1": "54e569c8afe6710da1f2bfbd004d2d04e1c44b21",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-13T13:25:03.808659-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657733108",
+      "size": "8726",
+      "md5": "3009e843e5d992b92ae7d50c7625a194",
+      "crc32": "6075a662",
+      "sha1": "f782838fcca0dbd32c4baa715a4032ce6b0bebd2",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-13T13:25:03.808659-04:00.jpg",
+      "source": "original",
+      "mtime": "1657733104",
+      "size": "355808",
+      "md5": "ab947f0e1389de440d351e82ce1d10ca",
+      "crc32": "598b4341",
+      "sha1": "dad3b153cae9719fd188ccf1d3a4d2857b2a4380",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-13T13:25:03.808659-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-13T13:25:03.808659-04:00.jpg",
+      "mtime": "1657733224",
+      "size": "10322",
+      "md5": "2be391280ce5845fb4885802f6310723",
+      "crc32": "a3f7cc2c",
+      "sha1": "25a209f328bcabe84f326fb10c4ca09f6c67124b"
+    },
+    {
+      "name": "yahoonews-2022-07-13T17:12:05.725942-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657746736",
+      "size": "43132",
+      "md5": "329747ea109f5e05e563685a9976f953",
+      "crc32": "ef0db12f",
+      "sha1": "87e53f9b7597890601c008a6e99b71dfb6fde8d1",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-13T17:12:05.725942-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657746740",
+      "size": "17681",
+      "md5": "0c439e997429367a44eab7f0348674e5",
+      "crc32": "8d897478",
+      "sha1": "ad549568456482117ed9b896730e011a763eb298",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-13T17:12:05.725942-04:00.jpg",
+      "source": "original",
+      "mtime": "1657746732",
+      "size": "304648",
+      "md5": "0f3a1defe20718b1579d47d0728ee7ae",
+      "crc32": "888bb416",
+      "sha1": "f262a11e824d88538d75de04ee74415feb5b2a7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-13T17:12:05.725942-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-13T17:12:05.725942-04:00.jpg",
+      "mtime": "1657747989",
+      "size": "9975",
+      "md5": "2db6e19cedf3d3bc64a8a03e71c7b084",
+      "crc32": "eee06dea",
+      "sha1": "37542e7b498f79e2a2da4900cf35d67db9291efe"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19101106346c495e6a9bb11ed958075ffc410fe7",
-      "mtime": "1657685769",
-      "size": "73758",
-      "md5": "2fb879b0b2d2a460ee1c5a0a83f20508",
-      "crc32": "a1e8f64f",
-      "sha1": "6f50f5d1ae4afaf154b65181741d028cb4141462",
+      "btih": "1ce630d83fe0cb0a2311b4337b7ba598df4c91a4",
+      "mtime": "1657747996",
+      "size": "76298",
+      "md5": "b8637cd2ff6002415430d8f823f502cd",
+      "crc32": "bcf6c046",
+      "sha1": "36fff259d7f640093f1a984d6f8f481b61088248",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69b7a3ad2f85bed6b3b9d73dcb1ca3f9",
+      "md5": "ddb3f1e771ad8970bb3b6950e39ce181",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657685664",
-      "size": "413696",
-      "md5": "2da5d07aa4343827bd2774e0e56999e4",
-      "crc32": "02290845",
-      "sha1": "c2028fb6276bd6203a3b52d0cb47ffa14c3a236d",
+      "mtime": "1657747747",
+      "size": "430080",
+      "md5": "2bdbfa4f558929de7e62be905bf8380c",
+      "crc32": "26aa4934",
+      "sha1": "3527ba0d93a03d53e86f54d31d86f0476580cd60",
       "format": "Metadata"
     },
     {
@@ -3622,9 +3748,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 345,
-  "item_last_updated": 1657685769,
-  "item_size": 32675593,
+  "files_count": 357,
+  "item_last_updated": 1657747996,
+  "item_size": 33875513,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -3642,347 +3768,9 @@
     "addeddate": "2022-06-24 23:04:11"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 268081913,
+  "uniq": 987722252,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"
-  ],
-  "yahoonews-2022": [
-    {
-      "text": "      HOME",
-      "url": "https://www.yahoo.com/"
-    },
-    {
-      "text": " MAIL",
-      "url": "https://mail.yahoo.com/"
-    },
-    {
-      "text": " NEWS",
-      "url": "https://news.yahoo.com/"
-    },
-    {
-      "text": " FINANCE",
-      "url": "https://finance.yahoo.com/"
-    },
-    {
-      "text": " SPORTS",
-      "url": "https://sports.yahoo.com/"
-    },
-    {
-      "text": " ENTERTAINMENT",
-      "url": "https://www.yahoo.com/entertainment/"
-    },
-    {
-      "text": " LIFE",
-      "url": "https://www.yahoo.com/lifestyle"
-    },
-    {
-      "text": " SEARCH",
-      "url": "https://search.yahoo.com/search/"
-    },
-    {
-      "text": " SHOPPING",
-      "url": "https://shopping.yahoo.com/"
-    },
-    {
-      "text": " YAHOO PLUS",
-      "url": "https://www.yahoo.com/plus"
-    },
-    {
-      "text": " MORE...",
-      "url": "https://www.yahoo.com/everything/"
-    },
-    {
-      "text": "    Upgrade Now   ",
-      "url": "https://ad.doubleclick.net/ddm/trackclk/N360801.1913355YAHOOADMANAGER/B23644564.308265615;dc_trk_aid=490102767;dc_trk_cid=127172993;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
-    },
-    {
-      "text": "                   Yahoo News",
-      "url": "https://news.yahoo.com/"
-    },
-    {
-      "text": "Sign in",
-      "url": "https://login.yahoo.com/?.lang=en-US&src=news&.done=https%3A%2F%2Fnews.yahoo.com%2F&pspid=1197800621&activity=ybar-signin"
-    },
-    {
-      "text": "       Mail",
-      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
-    },
-    {
-      "text": "Sign in",
-      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
-    },
-    {
-      "text": " News   News",
-      "url": "https://news.yahoo.com"
-    },
-    {
-      "text": " US   US",
-      "url": "https://news.yahoo.com/us/"
-    },
-    {
-      "text": " Politics   Politics",
-      "url": "https://news.yahoo.com/politics/"
-    },
-    {
-      "text": " World   World",
-      "url": "https://news.yahoo.com/world/"
-    },
-    {
-      "text": " COVID-19   COVID-19",
-      "url": "https://news.yahoo.com/coronavirus/"
-    },
-    {
-      "text": " Climate Change   Climate Change",
-      "url": "https://www.yahoo.com/news/tagged/climate-change/"
-    },
-    {
-      "text": " Health   Health",
-      "url": "https://news.yahoo.com/health/"
-    },
-    {
-      "text": " Science   Science",
-      "url": "https://news.yahoo.com/science/"
-    },
-    {
-      "text": " Originals   Originals",
-      "url": "https://news.yahoo.com/originals/"
-    },
-    {
-      "text": "The 360The 360",
-      "url": "https://news.yahoo.com/tagged/360/"
-    },
-    {
-      "text": "Skullduggery PodcastSkullduggery Podcast",
-      "url": "https://news.yahoo.com/tagged/skullduggery/"
-    },
-    {
-      "text": "ConspiracylandConspiracyland",
-      "url": "https://news.yahoo.com/tagged/conspiracyland/"
-    },
-    {
-      "text": " Veterans   Veterans",
-      "url": "https://www.yahoo.com/partner/wounded-warrior-project/index.html"
-    },
-    {
-      "text": " Contact Us   Contact Us",
-      "url": "https://yahoo.uservoice.com/forums/204992-us-news"
-    },
-    {
-      "text": "Officials reveal culprit behind latest COVID surge in U.S.Top U.S. health officials warned Tuesday that an expected surge in COVID-19 cases driven by the highly transmissible Omicron subvariant BA.5 has arrived.'Tools we have continue to work' \u00bb",
-      "url": "/omicron-ba5-subvariant-immune-evading-covid-155640198.html"
-    },
-    {
-      "text": "World's most populated country soon won't be China",
-      "url": "/un-global-population-reach-8-203012017.html"
-    },
-    {
-      "text": "Depp reaches settlement before L.A. trial start",
-      "url": "https://www.yahoo.com/entertainment/johnny-depp-reaches-settlement-city-223459786.html"
-    },
-    {
-      "text": "Ukraine's demands now clash with U.S. concerns",
-      "url": "/ukraines-demands-more-weapons-clash-115008191.html"
-    },
-    {
-      "text": "Fed raises interest rates over inflation, affecting renters",
-      "url": "/relief-eludes-many-renters-fed-113522418.html"
-    },
-    {
-      "text": "Jill Biden apologizes for 'breakfast tacos' remark",
-      "url": "/jill-biden-apologizes-saying-latinos-142536154.html"
-    },
-    {
-      "text": "The 10 best Prime Day deals under $25 \u2014 that you'll actually use",
-      "url": "/amazon-prime-day-under-25-best-213313113.html"
-    },
-    {
-      "text": "5 Prime Day deals under $5\u2026 because this sale is just too good to missIn The Know by Yahoo",
-      "url": "/5-prime-day-deals-under-214127362.html"
-    },
-    {
-      "text": "Need a New TV? Take Advantage of These Amazon Prime Day Deals Happening NowBest Products",
-      "url": "/amazon-prime-day-begins-july-195900408.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=W8y74yoGIS.U6HI9ZLMlqAcjg1m9q7ipMiBtFxwnq4pHHv0PbSJ8nC2eSR753u_TIdAiVLZP0AUxvwCy98yzwMG4zCWeKIzDstpw7GH_Q9cem1UrGBNk146.S9tTOAeTEmp9Z66YnEMsWFSSOWYQIwdFRjabeZDA0ujnSMCmX.Bc0rY_ZQVgsy7J_buKDs0IRkjCLgIop2wj5Mu5jVHZ9U0kMl6oUbMPRJyGpMo3YUDmmtrnGdmVqNYrRa5mPlBZ5uTUt80nyuKw7sBzFvywTW37hrB96tVJOzup7gIDjosOjArDdIfS4_5hERJRoTaOobpnX0n.378TImAvTYcv.Wipoadae4oq_bz7HrXq16vDb7sApjKzF8Q9V8Y7Dc3QgHOi5ITZPnPjIvbrIP0F7CFfu3_QbPzcV9btbFenqHdNysb3vt_5vVOi_c4.q8fl6qY7vKR0n9fQH7wMMm.sxwXOwDt2Kkpe1w.0ZXSvZGUSvbIcqkEkktSJFkPJcSL8PKnb18QP6G0IMX49nY6nr9bgP3H5fPO1sGOvKlgnDXLFvHP1KVIlUPSDY2I9vHcbcSlS8FzEKoiZ0BsM7gpPYpnXHN7MEWyznbC6nc6blUsAne8bihaYj59ueGMxqT1SzblGD8c2PF1x9.ctyvvOMbibjm8KtmYxWq10vr1joY7VEufOiVUxKig1cfrgUUTHhApLmd5pFRTpVk0OvmGUOdz1b5r_aZTZlZmVt8MU4VMPpCTKhYhAfZ1lapyKGvqV4R2vBxGymIVVbGcbyl0vD7BoKdZ2xj51nfCgoFizq4WUPVvbLz3x7Y.IXdCp8hPwgLAmc7xbf1.9R8TYA.nQHEU6sYDI5HTtXNX.CWFxoQ--"
-    },
-    {
-      "text": "Ad",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "Guardio",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=W8y74yoGIS.U6HI9ZLMlqAcjg1m9q7ipMiBtFxwnq4pHHv0PbSJ8nC2eSR753u_TIdAiVLZP0AUxvwCy98yzwMG4zCWeKIzDstpw7GH_Q9cem1UrGBNk146.S9tTOAeTEmp9Z66YnEMsWFSSOWYQIwdFRjabeZDA0ujnSMCmX.Bc0rY_ZQVgsy7J_buKDs0IRkjCLgIop2wj5Mu5jVHZ9U0kMl6oUbMPRJyGpMo3YUDmmtrnGdmVqNYrRa5mPlBZ5uTUt80nyuKw7sBzFvywTW37hrB96tVJOzup7gIDjosOjArDdIfS4_5hERJRoTaOobpnX0n.378TImAvTYcv.Wipoadae4oq_bz7HrXq16vDb7sApjKzF8Q9V8Y7Dc3QgHOi5ITZPnPjIvbrIP0F7CFfu3_QbPzcV9btbFenqHdNysb3vt_5vVOi_c4.q8fl6qY7vKR0n9fQH7wMMm.sxwXOwDt2Kkpe1w.0ZXSvZGUSvbIcqkEkktSJFkPJcSL8PKnb18QP6G0IMX49nY6nr9bgP3H5fPO1sGOvKlgnDXLFvHP1KVIlUPSDY2I9vHcbcSlS8FzEKoiZ0BsM7gpPYpnXHN7MEWyznbC6nc6blUsAne8bihaYj59ueGMxqT1SzblGD8c2PF1x9.ctyvvOMbibjm8KtmYxWq10vr1joY7VEufOiVUxKig1cfrgUUTHhApLmd5pFRTpVk0OvmGUOdz1b5r_aZTZlZmVt8MU4VMPpCTKhYhAfZ1lapyKGvqV4R2vBxGymIVVbGcbyl0vD7BoKdZ2xj51nfCgoFizq4WUPVvbLz3x7Y.IXdCp8hPwgLAmc7xbf1.9R8TYA.nQHEU6sYDI5HTtXNX.CWFxoQ--"
-    },
-    {
-      "text": "Chrome Users? Make Sure To Do This Security Scan",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=W8y74yoGIS.U6HI9ZLMlqAcjg1m9q7ipMiBtFxwnq4pHHv0PbSJ8nC2eSR753u_TIdAiVLZP0AUxvwCy98yzwMG4zCWeKIzDstpw7GH_Q9cem1UrGBNk146.S9tTOAeTEmp9Z66YnEMsWFSSOWYQIwdFRjabeZDA0ujnSMCmX.Bc0rY_ZQVgsy7J_buKDs0IRkjCLgIop2wj5Mu5jVHZ9U0kMl6oUbMPRJyGpMo3YUDmmtrnGdmVqNYrRa5mPlBZ5uTUt80nyuKw7sBzFvywTW37hrB96tVJOzup7gIDjosOjArDdIfS4_5hERJRoTaOobpnX0n.378TImAvTYcv.Wipoadae4oq_bz7HrXq16vDb7sApjKzF8Q9V8Y7Dc3QgHOi5ITZPnPjIvbrIP0F7CFfu3_QbPzcV9btbFenqHdNysb3vt_5vVOi_c4.q8fl6qY7vKR0n9fQH7wMMm.sxwXOwDt2Kkpe1w.0ZXSvZGUSvbIcqkEkktSJFkPJcSL8PKnb18QP6G0IMX49nY6nr9bgP3H5fPO1sGOvKlgnDXLFvHP1KVIlUPSDY2I9vHcbcSlS8FzEKoiZ0BsM7gpPYpnXHN7MEWyznbC6nc6blUsAne8bihaYj59ueGMxqT1SzblGD8c2PF1x9.ctyvvOMbibjm8KtmYxWq10vr1joY7VEufOiVUxKig1cfrgUUTHhApLmd5pFRTpVk0OvmGUOdz1b5r_aZTZlZmVt8MU4VMPpCTKhYhAfZ1lapyKGvqV4R2vBxGymIVVbGcbyl0vD7BoKdZ2xj51nfCgoFizq4WUPVvbLz3x7Y.IXdCp8hPwgLAmc7xbf1.9R8TYA.nQHEU6sYDI5HTtXNX.CWFxoQ--"
-    },
-    {
-      "text": "28-year-old Georgia woman paralyzed after visit to chiropractor, family says",
-      "url": "/recent-georgia-college-grad-paralyzed-151420813.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "\u2018Best deals of the year.\u2019 One major thing you\u2019re almost sure to find on sale on Amazon Prime Day",
-      "url": "/m/fdfa7302-fad5-39c3-958a-15571934c6e3/%E2%80%98best-deals-of-the-year-%E2%80%99-one.html"
-    },
-    {
-      "text": "The best Prime Day deals for Amazon devices that you can getEngadget",
-      "url": "/best-amazon-device-deals-prime-day-2022-071053721.html"
-    },
-    {
-      "text": "Amazon device deals: Massive Prime Day savings on Kindle, Fire TV, Echo and moreYahoo Movies UK",
-      "url": "/prime-day-best-amazon-device-deals-155933743.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "'Yellowstone' actor charged with disability payment fraud",
-      "url": "/yellowstone-actor-charged-disability-payment-013541738.html"
-    },
-    {
-      "text": "Actress charged with workers' compensation fraudYahoo News Video",
-      "url": "/actress-charged-workers-compensation-fraud-115700274.html"
-    },
-    {
-      "text": "'Yellowstone' actress charged with felony fraud after collecting nearly $97,000 in disability paymentsFox News",
-      "url": "/apos-yellowstone-apos-actress-charged-082844333.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=5T0iFtIGIS9lHRplC2cLevdu1Qw0YRWFILHA40oL6UXFKSB_s3i8_PD9n.uinjLDgdlQXniqgUTNRHpG3JzkQFG8s7JbKmpCnk59Y_VfLeSBgTCzagoUyM4UJ2GMQzwajlS7BRn40rl8id7MNs36dR78awJ1nTcKvinhDgVTaSDw1L6OhuX170S8kTamelgH231DwQEdwAPBCifkQNAmznTraxGqOEX_33cwZgcDqnCUTl_Yt2GIOu1NsxfclSFV5bO5e2SWgcCTkA_Hn4PZHyF0lD2Ofiowi.DC.tNXkyNgKtx32XlIEl8kp_WGI7wFKYd8YsAvbOhJHfiaES8bIeigXkA_Ho5bJCxaO9ENidr2PzWQ4R.u2m.ORUhds7cieHcZyRBz0B.E5XXHKqoYr_srDiOOfQf1PIPw6GQE3Oq01mlby.O4_yzs0Gyx.isxlf5KVRZ.wy3ZPpsAGqtfEhAaqB9Kajn.cSqtxDt9JtiETXhpNn_uybF_7NoTax.mtVs_ZT6B8lVGHH2Wttr0"
-    },
-    {
-      "text": "Ad",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "People's Justice",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=5T0iFtIGIS9lHRplC2cLevdu1Qw0YRWFILHA40oL6UXFKSB_s3i8_PD9n.uinjLDgdlQXniqgUTNRHpG3JzkQFG8s7JbKmpCnk59Y_VfLeSBgTCzagoUyM4UJ2GMQzwajlS7BRn40rl8id7MNs36dR78awJ1nTcKvinhDgVTaSDw1L6OhuX170S8kTamelgH231DwQEdwAPBCifkQNAmznTraxGqOEX_33cwZgcDqnCUTl_Yt2GIOu1NsxfclSFV5bO5e2SWgcCTkA_Hn4PZHyF0lD2Ofiowi.DC.tNXkyNgKtx32XlIEl8kp_WGI7wFKYd8YsAvbOhJHfiaES8bIeigXkA_Ho5bJCxaO9ENidr2PzWQ4R.u2m.ORUhds7cieHcZyRBz0B.E5XXHKqoYr_srDiOOfQf1PIPw6GQE3Oq01mlby.O4_yzs0Gyx.isxlf5KVRZ.wy3ZPpsAGqtfEhAaqB9Kajn.cSqtxDt9JtiETXhpNn_uybF_7NoTax.mtVs_ZT6B8lVGHH2Wttr0"
-    },
-    {
-      "text": "More Camp Lejeune Claims Are Now Being Accepted",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=5T0iFtIGIS9lHRplC2cLevdu1Qw0YRWFILHA40oL6UXFKSB_s3i8_PD9n.uinjLDgdlQXniqgUTNRHpG3JzkQFG8s7JbKmpCnk59Y_VfLeSBgTCzagoUyM4UJ2GMQzwajlS7BRn40rl8id7MNs36dR78awJ1nTcKvinhDgVTaSDw1L6OhuX170S8kTamelgH231DwQEdwAPBCifkQNAmznTraxGqOEX_33cwZgcDqnCUTl_Yt2GIOu1NsxfclSFV5bO5e2SWgcCTkA_Hn4PZHyF0lD2Ofiowi.DC.tNXkyNgKtx32XlIEl8kp_WGI7wFKYd8YsAvbOhJHfiaES8bIeigXkA_Ho5bJCxaO9ENidr2PzWQ4R.u2m.ORUhds7cieHcZyRBz0B.E5XXHKqoYr_srDiOOfQf1PIPw6GQE3Oq01mlby.O4_yzs0Gyx.isxlf5KVRZ.wy3ZPpsAGqtfEhAaqB9Kajn.cSqtxDt9JtiETXhpNn_uybF_7NoTax.mtVs_ZT6B8lVGHH2Wttr0"
-    },
-    {
-      "text": "The convicted Capitol rioter who is testifying before the House January 6 committee warned 'Civil War will ensue' if Trump got robbed on 2020",
-      "url": "/convicted-capitol-rioter-testifying-house-181850899.html"
-    },
-    {
-      "text": "Jan. 6 rioter apologizes to officers after House testimonyAssociated Press",
-      "url": "/jan-6-rioter-apologizes-officers-215934832.html"
-    },
-    {
-      "text": "Capitol officer says he\u2019s not sure if he accepts rioter\u2019s apology at January 6 hearingThe Independent",
-      "url": "/capitol-officer-says-not-sure-215029861.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Secret Service Responds to Graphic Hunter Biden Photos, Videos",
-      "url": "/secret-responds-graphic-hunter-biden-203752983.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "More than 10,000 Amazon shoppers rave about this rowing machine \u2014 and it costs less than your gym sneakers",
-      "url": "/over-4-000-amazon-shoppers-191021918.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=FPeBJtEGIS.e.Lqas7fKsOcjAK8pkaRrSDWRcDkJBP0fMFx_01PoI0t0TCUa5leVlPje2mOw.7KBKggJz6xTzN5GVDgeUPhyaUoS0phzCZAm47yyXEj.HNYrpeTifkxdr4XT5UIrX_Bq3f3iBfMxd6f8LaHRkP9OmzPO.KwsXGjHGcF10bCWdB3SP6zmSzNNqxv0C_ual8Qg.veHMO6nbbl8uaIQTVh8LGLLpBCnMNgBcPyQGaCyb1T7LoREOt28pbDHVnu6n1AXBQz3Z366KieRjNUhjWLmogdJ9qZ_Hma9bDeKJJKYL9KT8BxCSsp0eX00LAH6SYZRpAOWm3y4A1Aai55s9aOkr8LvwglQaOfnFgmTSW4Xxdv6N33SBLYltQTOA2sDIdbStbu_a7WzHi78fzkU.zh9pd.lDXAgJd.LDOz4Wx2l7eVZxd6Ae2jYCOvdnhfq39mWcInMVDIlekPdrsKcCF7b9I8jUl_XQH4mNJrZvv7z9GT5JGsXklds7KEzM_pGdCE..F7tMvBF3JX7IlxF9fxzlEWBsLfwCBCdFlet5U3_2BiOWLc0uVPv_xfXWXEZWvZMLBfNf5DVsAjaGMhBrDiUB9FXwxr9Fvrd3CbsTadGK8ewqfZ4trkaukV0bUWJTtd.aT5TwKZSHBSb1FwW9Aoo"
-    },
-    {
-      "text": "Ad",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "SmartAsset",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=FPeBJtEGIS.e.Lqas7fKsOcjAK8pkaRrSDWRcDkJBP0fMFx_01PoI0t0TCUa5leVlPje2mOw.7KBKggJz6xTzN5GVDgeUPhyaUoS0phzCZAm47yyXEj.HNYrpeTifkxdr4XT5UIrX_Bq3f3iBfMxd6f8LaHRkP9OmzPO.KwsXGjHGcF10bCWdB3SP6zmSzNNqxv0C_ual8Qg.veHMO6nbbl8uaIQTVh8LGLLpBCnMNgBcPyQGaCyb1T7LoREOt28pbDHVnu6n1AXBQz3Z366KieRjNUhjWLmogdJ9qZ_Hma9bDeKJJKYL9KT8BxCSsp0eX00LAH6SYZRpAOWm3y4A1Aai55s9aOkr8LvwglQaOfnFgmTSW4Xxdv6N33SBLYltQTOA2sDIdbStbu_a7WzHi78fzkU.zh9pd.lDXAgJd.LDOz4Wx2l7eVZxd6Ae2jYCOvdnhfq39mWcInMVDIlekPdrsKcCF7b9I8jUl_XQH4mNJrZvv7z9GT5JGsXklds7KEzM_pGdCE..F7tMvBF3JX7IlxF9fxzlEWBsLfwCBCdFlet5U3_2BiOWLc0uVPv_xfXWXEZWvZMLBfNf5DVsAjaGMhBrDiUB9FXwxr9Fvrd3CbsTadGK8ewqfZ4trkaukV0bUWJTtd.aT5TwKZSHBSb1FwW9Aoo"
-    },
-    {
-      "text": "Ashburn: Bank Accounts With 7X the Average Rate",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=FPeBJtEGIS.e.Lqas7fKsOcjAK8pkaRrSDWRcDkJBP0fMFx_01PoI0t0TCUa5leVlPje2mOw.7KBKggJz6xTzN5GVDgeUPhyaUoS0phzCZAm47yyXEj.HNYrpeTifkxdr4XT5UIrX_Bq3f3iBfMxd6f8LaHRkP9OmzPO.KwsXGjHGcF10bCWdB3SP6zmSzNNqxv0C_ual8Qg.veHMO6nbbl8uaIQTVh8LGLLpBCnMNgBcPyQGaCyb1T7LoREOt28pbDHVnu6n1AXBQz3Z366KieRjNUhjWLmogdJ9qZ_Hma9bDeKJJKYL9KT8BxCSsp0eX00LAH6SYZRpAOWm3y4A1Aai55s9aOkr8LvwglQaOfnFgmTSW4Xxdv6N33SBLYltQTOA2sDIdbStbu_a7WzHi78fzkU.zh9pd.lDXAgJd.LDOz4Wx2l7eVZxd6Ae2jYCOvdnhfq39mWcInMVDIlekPdrsKcCF7b9I8jUl_XQH4mNJrZvv7z9GT5JGsXklds7KEzM_pGdCE..F7tMvBF3JX7IlxF9fxzlEWBsLfwCBCdFlet5U3_2BiOWLc0uVPv_xfXWXEZWvZMLBfNf5DVsAjaGMhBrDiUB9FXwxr9Fvrd3CbsTadGK8ewqfZ4trkaukV0bUWJTtd.aT5TwKZSHBSb1FwW9Aoo"
-    },
-    {
-      "text": "Don't Miss Out on These Prime Day Sales on Nintendo Switch Games and Accessories",
-      "url": "/dont-wait-prime-day-shop-184900915.html"
-    },
-    {
-      "text": "Best Amazon Prime Day dealsYahoo Life Videos",
-      "url": "/best-amazon-prime-day-deals-070038388.html"
-    },
-    {
-      "text": "When does Prime Day end? All you need to know about Amazon's sales eventYahoo Life UK",
-      "url": "/amazon-prime-day-when-uk-date-094025894.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Leaked security video from inside Robb Elementary School shows police officers stopping for hand sanitizer and running away from the gunman",
-      "url": "/leaked-security-video-inside-robb-220209636.html"
-    },
-    {
-      "text": "Uvalde's new anguish: Video shows police waiting in schoolAssociated Press",
-      "url": "/video-school-hall-outside-uvalde-145944256.html"
-    },
-    {
-      "text": "Newly released video shows inside Uvalde school during shootingCBS News",
-      "url": "/newly-released-video-shows-inside-231151457.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Amazon is running a rare Prime Day discount on iPads \u2014\u00a0but they're selling fast",
-      "url": "/ipad-sale-prime-day-095129751.html"
-    },
-    {
-      "text": "The best deals on iPads, AirPods and other Apple devices for Amazon Prime Day 2022Engadget",
-      "url": "/best-apple-deals-amazon-prime-day-2022-124512534.html"
-    },
-    {
-      "text": "Best Prime Day deals: Follow live updates on the biggest Amazon discountsYahoo Life UK",
-      "url": "/prime-day-deals-amazon-best-uk-2022-083944573.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Will AI one day become sentient?",
-      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
-    },
-    {
-      "text": "Read the 360",
-      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
-    }
   ]
 }

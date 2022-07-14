@@ -1,5 +1,5 @@
 {
-  "created": 1657714526,
+  "created": 1657758386,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/npr-2022",
@@ -3586,31 +3586,157 @@
       "sha1": "2970022c06b512b4ace62859fe8e7808803ff106"
     },
     {
+      "name": "npr-2022-07-13T12:15:19.761926-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657728924",
+      "size": "20579",
+      "md5": "259e8c3d002334bb920d3f5c302dc960",
+      "crc32": "67ed484c",
+      "sha1": "a86d9cbadce4ef77cf4fef1b8f8749fd36f1be21",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-13T12:15:19.761926-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657728926",
+      "size": "35178",
+      "md5": "173a61df4a41fed6bfc1a144d14ae71f",
+      "crc32": "0823fbf1",
+      "sha1": "4001a12547b512c0e90567072afe877d9cbfabe8",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-13T12:15:19.761926-04:00.jpg",
+      "source": "original",
+      "mtime": "1657728923",
+      "size": "249733",
+      "md5": "60941410c57dd61b3aa5104e7c7c47a8",
+      "crc32": "c44d29d2",
+      "sha1": "094e621efa77a7f41bf219cedf45b67f132b6492",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-13T12:15:19.761926-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-13T12:15:19.761926-04:00.jpg",
+      "mtime": "1657728987",
+      "size": "9731",
+      "md5": "07b4c2f2864c3f85cb0763b410d0d1f5",
+      "crc32": "2e0dbae5",
+      "sha1": "ccbc51e5bb29e034238219e46e5df9c329528655"
+    },
+    {
+      "name": "npr-2022-07-13T12:22:51.583658-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657729385",
+      "size": "20579",
+      "md5": "259e8c3d002334bb920d3f5c302dc960",
+      "crc32": "67ed484c",
+      "sha1": "a86d9cbadce4ef77cf4fef1b8f8749fd36f1be21",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-13T12:22:51.583658-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657729388",
+      "size": "35178",
+      "md5": "173a61df4a41fed6bfc1a144d14ae71f",
+      "crc32": "0823fbf1",
+      "sha1": "4001a12547b512c0e90567072afe877d9cbfabe8",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-13T12:22:51.583658-04:00.jpg",
+      "source": "original",
+      "mtime": "1657729380",
+      "size": "250192",
+      "md5": "072fb1a61a4e75e2c39ef3035c220b5b",
+      "crc32": "071b0f30",
+      "sha1": "99e827ad4586b6420c6856b8760d3f8ccac4419a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-13T12:22:51.583658-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-13T12:22:51.583658-04:00.jpg",
+      "mtime": "1657729471",
+      "size": "9740",
+      "md5": "9d8ae8565b7001eab49bc19eb12a86c1",
+      "crc32": "41eae8ff",
+      "sha1": "9fd56cc63af6279628c1735f43a6f1741d65b8ee"
+    },
+    {
+      "name": "npr-2022-07-13T17:12:14.418009-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657746745",
+      "size": "20286",
+      "md5": "2c54e8b8f06a0e9c139c272cf9362042",
+      "crc32": "4a3c6e78",
+      "sha1": "6d983b13d9c1f519ade87c33bbd45a3fca7c0e8f",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-13T17:12:14.418009-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657746750",
+      "size": "33479",
+      "md5": "a9f398831feca0447a8965291b48f857",
+      "crc32": "4ecf2f1f",
+      "sha1": "e24d975a635e082d1df35c66a4c6a97864137cb8",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-13T17:12:14.418009-04:00.jpg",
+      "source": "original",
+      "mtime": "1657746740",
+      "size": "232159",
+      "md5": "1ff8f7a23659069a5d738ec75a2eb06d",
+      "crc32": "9a0ee952",
+      "sha1": "d5e5203eff4caa55dface64a3df5d4ca633949e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-13T17:12:14.418009-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-13T17:12:14.418009-04:00.jpg",
+      "mtime": "1657748028",
+      "size": "9937",
+      "md5": "bb92a3243127c0a2c545250539531212",
+      "crc32": "b8007b20",
+      "sha1": "0e834f446dd30ed324ee8f66d2023206b20faf1e"
+    },
+    {
       "name": "npr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "24f98dc931713e0d22b157d55d079550aa131d67",
-      "mtime": "1657682850",
-      "size": "71443",
-      "md5": "f8f1be03f2d65f08fb7e2d8266104bcf",
-      "crc32": "37491dad",
-      "sha1": "d607db8a8957228c610004d297a0f7a766495e11",
+      "btih": "57bae9bb882d3faaf86af48de30a6e107af1deb2",
+      "mtime": "1657748033",
+      "size": "73910",
+      "md5": "ed634cf1b02057df56c583cfcbf5680e",
+      "crc32": "d3384b36",
+      "sha1": "0348345fdf67f771c8f8c595477ec82892278ba5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "npr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0125495e84741dd3915541c385151777",
+      "md5": "69a2610761c693f225a21dffea0ef148",
       "summation": "md5"
     },
     {
       "name": "npr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657682790",
-      "size": "405504",
-      "md5": "5be170aea2fc1e511453c19bcdc70f11",
-      "crc32": "291c6e97",
-      "sha1": "09ce0ae83cf440ebad55bdcb701c8be834b4382a",
+      "mtime": "1657747749",
+      "size": "417792",
+      "md5": "2d7c9a4ff5777d56304cfa8daedada73",
+      "crc32": "4a24c464",
+      "sha1": "1ddac47057fb6492b4b1ddbe8aaf82a2d228ed58",
       "format": "Metadata"
     },
     {
@@ -3624,9 +3750,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 345,
-  "item_last_updated": 1657682850,
-  "item_size": 28251495,
+  "files_count": 357,
+  "item_last_updated": 1657748033,
+  "item_size": 29193021,
   "metadata": {
     "identifier": "npr-2022",
     "collection": [
@@ -3657,16 +3783,8 @@
       "url": "/"
     },
     {
-      "text": "Sign In",
-      "url": "#"
-    },
-    {
       "text": "NPR Shop",
       "url": "https://shop.npr.org"
-    },
-    {
-      "text": "Donate",
-      "url": "/donations/support"
     },
     {
       "text": "Home",
@@ -3821,10 +3939,6 @@
       "url": "/search/"
     },
     {
-      "text": "Sign In",
-      "url": "#"
-    },
-    {
       "text": "NPR Shop",
       "url": "https://shop.npr.org"
     },
@@ -3886,66 +4000,330 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111132464/jan-6-hearing-recap-oath-keepers-proud-boys"
+      "url": "https://www.npr.org/2022/07/13/1111141156/jayland-walker-funeral-akron-ohio"
     },
     {
-      "text": "\n                        Politics\n                        ",
-      "url": "https://www.npr.org/sections/politics/"
+      "text": "\n                        National\n                        ",
+      "url": "https://www.npr.org/sections/national/"
     },
     {
-      "text": "\n                Jan. 6 panel shows evidence of coordination between far-right groups and Trump allies\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111132464/jan-6-hearing-recap-oath-keepers-proud-boys"
+      "text": "\n                An Ohio city struggles to make sense of another fatal police shooting of a Black man\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111141156/jayland-walker-funeral-akron-ohio"
     },
     {
-      "text": "\n                The committee showed video clips and text messages to demonstrate how far-right groups were emboldened by Trump's false claims about the 2020 election.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111132464/jan-6-hearing-recap-oath-keepers-proud-boys"
-    },
-    {
-      "text": "\n        \n            Inside the 'unhinged' West Wing meeting on Dec. 18 \n        \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111037932/unhinged-west-wing-meeting-jan-6"
-    },
-    {
-      "text": "\n        \n            Trump tried to call a Jan. 6 committee witness, Cheney says\n        \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111135283/jan-6-trump-witness"
-    },
-    {
-      "text": "\n        \n            Here's every word from the seventh Jan. 6 committee hearing on its investigation\n        \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111123258/jan-6-committee-hearing-transcript"
+      "text": "\n                The people of Akron, Ohio, are asking why Jayland Walker \u2014 a 25-year-old with no criminal record \u2014 was shot dozens of times by officers. The city is observing a day of mourning on Wednesday, as Walker is laid to rest.\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111141156/jayland-walker-funeral-akron-ohio"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111032233/elon-musk-twitter-lawsuit-deal"
-    },
-    {
-      "text": "\n                            Technology\n                            ",
-      "url": "https://www.npr.org/sections/technology/"
-    },
-    {
-      "text": "\n            Twitter sues Elon Musk to force his purchase of the company\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111032233/elon-musk-twitter-lawsuit-deal"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111038172/buck-supermoon-tuesday-july-full-moon"
-    },
-    {
-      "text": "\n                            Space\n                            ",
-      "url": "https://www.npr.org/sections/space/"
-    },
-    {
-      "text": "\n            A buck supermoon is rising on Tuesday. Here's what to look for\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111038172/buck-supermoon-tuesday-july-full-moon"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador"
+      "url": "https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip"
     },
     {
       "text": "\n                            Politics\n                            ",
       "url": "https://www.npr.org/sections/politics/"
     },
     {
-      "text": "\n            Biden gets an earful in the Oval from Mexican President L\u00f3pez Obrador\n            ",
+      "text": "\n            Biden tries fist bumps instead of handshakes ahead of his meeting with the Saudi crown prince\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2021/10/14/1045964525/mary-mcleod-bethune-statue-us-capitol"
+    },
+    {
+      "text": "\n                            National\n                            ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n            Capitol unveils Mary McLeod Bethune statue, a historic milestone years in the making\n            ",
+      "url": "https://www.npr.org/2021/10/14/1045964525/mary-mcleod-bethune-statue-us-capitol"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1111270816/subway-tuna-lawsuit"
+    },
+    {
+      "text": "\n                            Food\n                            ",
+      "url": "https://www.npr.org/sections/food/"
+    },
+    {
+      "text": "\n            A U.S. judge rules that Subway can be sued over its '100% tuna' claim\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111270816/subway-tuna-lawsuit"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1110842453/florida-gov-desantis-is-doing-battle-against-woke-public-schools"
+    },
+    {
+      "text": "\n                            National\n                            ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n            Florida Gov. DeSantis takes aim at the state's schools\n            ",
+      "url": "https://www.npr.org/2022/07/13/1110842453/florida-gov-desantis-is-doing-battle-against-woke-public-schools"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1111330648/sri-lanka-crisis"
+    },
+    {
+      "text": "\n                            World\n                            ",
+      "url": "https://www.npr.org/sections/world/"
+    },
+    {
+      "text": "\n            What's happening in Sri Lanka and what comes next\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111330648/sri-lanka-crisis"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1111239959/twitter-elon-musk-delaware-court-of-chancery"
+    },
+    {
+      "text": "\n                            Business\n                            ",
+      "url": "https://www.npr.org/sections/business/"
+    },
+    {
+      "text": "\n            A centuries-old court in Delaware will decide if Elon Musk has to buy Twitter\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111239959/twitter-elon-musk-delaware-court-of-chancery"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1111070073/no-retreat-in-the-summer-heat-prices-likely-topped-40-year-high-last-month"
+    },
+    {
+      "text": "\n                                    Economy\n                                ",
+      "url": "https://www.npr.org/sections/economy/"
+    },
+    {
+      "text": "\n                    Inflation hit a blistering 9.1% in June, marking a 40-year high\n                ",
+      "url": "https://www.npr.org/2022/07/13/1111070073/no-retreat-in-the-summer-heat-prices-likely-topped-40-year-high-last-month"
+    },
+    {
+      "text": "                    \n                    Prices rose 1.3% between May and June, with energy costs accounting for nearly half the monthly increase. Record-high gasoline prices have since fallen, but overall inflation is still elevated.\n                ",
+      "url": "https://www.npr.org/2022/07/13/1111070073/no-retreat-in-the-summer-heat-prices-likely-topped-40-year-high-last-month"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            3:50\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220713_me_no_retreat_in_the_summer_heat_prices_likely_topped_40_year_high_last_month.mp3?orgId=1&topicId=1017&d=230&p=3&story=1111070073&dl=1&sc=siteplayer&size=3687698&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "Download",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220713_me_no_retreat_in_the_summer_heat_prices_likely_topped_40_year_high_last_month.mp3?orgId=1&topicId=1017&d=230&p=3&story=1111070073&dl=1&sc=siteplayer&size=3687698&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n                    \n                    Transcript\n                  ",
+      "url": "https://www.npr.org/transcripts/1111070073"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1111333510/cat-boston-logan-airport"
+    },
+    {
+      "text": "\n                        Animals\n                        ",
+      "url": "https://www.npr.org/sections/animals/"
+    },
+    {
+      "text": "\n                Rowdy the runaway cat is caught after weeks on the lam at Boston's airport\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111333510/cat-boston-logan-airport"
+    },
+    {
+      "text": "\n                The 4-year-old black cat with green eyes escaped her cage on June 24 after arriving from Germany with her family. She eluded airport and airline personnel, animal experts and safe-release traps until Wednesday.\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111333510/cat-boston-logan-airport"
+    },
+    {
+      "text": "\n        \n            3 cats have outmaneuvered their 2 humans to hold a blender hostage for weeks\n        \n    ",
+      "url": "https://www.npr.org/2022/01/14/1072812001/cat-vitamix-blender-box-standoff"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1111176134/jan-6-hearing-takeaways-oath-keepers-proud-boys"
+    },
+    {
+      "text": "\n                        House Jan. 6 committee hearings\n                        ",
+      "url": "https://www.npr.org/series/1098490189/jan-6-subcommittee-hearings"
+    },
+    {
+      "text": "\n                The meeting that changed history and 3 other takeaways from the latest Jan. 6 hearing\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111176134/jan-6-hearing-takeaways-oath-keepers-proud-boys"
+    },
+    {
+      "text": "\n                Trump made a fateful choice in the early morning hours of Dec. 19, 2020, days after the Electoral College voted, to choose a path that led to the insurrection on Jan. 6.\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111176134/jan-6-hearing-takeaways-oath-keepers-proud-boys"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/12/1111038172/buck-supermoon-july-full-moon"
+    },
+    {
+      "text": "\n                                    Space\n                                    ",
+      "url": "https://www.npr.org/sections/space/"
+    },
+    {
+      "text": "\n                        A buck supermoon is rising on Wednesday. Here's what to look for\n                    ",
+      "url": "https://www.npr.org/2022/07/12/1111038172/buck-supermoon-july-full-moon"
+    },
+    {
+      "text": "\n                        July's supermoon is the third in a series of four in 2022. While the full moon actually occurs on Wednesday, it will appear full for about three days, through Friday morning.\n                    ",
+      "url": "https://www.npr.org/2022/07/12/1111038172/buck-supermoon-july-full-moon"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1111113396/glaad-social-media-report-lgbtq-online-harassment"
+    },
+    {
+      "text": "\n                        Technology\n                        ",
+      "url": "https://www.npr.org/sections/technology/"
+    },
+    {
+      "text": "\n                LGBTQ people say social media is neither a welcoming nor a safe place for them\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111113396/glaad-social-media-report-lgbtq-online-harassment"
+    },
+    {
+      "text": "\n                In a new report, GLAAD found that 84% of LGBTQ adults said platforms such as Twitter, TikTok and Instagram do not provide enough protections to prevent discrimination, harassment or disinformation.\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111113396/glaad-social-media-report-lgbtq-online-harassment"
+    },
+    {
+      "text": "\n        \n            A third of trans youth are at risk of losing gender-affirming care, study says\n        \n    ",
+      "url": "https://www.npr.org/2022/03/21/1087937431/a-third-of-trans-youth-are-at-risk-of-losing-gender-affirming-care-study-says"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1110468664/from-pay-care-states-pandemic-aid-childcare"
+    },
+    {
+      "text": "\n                        National\n                        ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n                Bonus checks! One year free! How states are trying to fix a broken child care system\n            ",
+      "url": "https://www.npr.org/2022/07/13/1110468664/from-pay-care-states-pandemic-aid-childcare"
+    },
+    {
+      "text": "\n                There's still a shortage of child care teachers and that's keeping parents out of the workforce. Dozens of states are trying to lure back providers and lower costs for families.\n            ",
+      "url": "https://www.npr.org/2022/07/13/1110468664/from-pay-care-states-pandemic-aid-childcare"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1106123496/russia-ukraine-invasion-crimean-war-history"
+    },
+    {
+      "text": "\n                                    Ukraine invasion \u2014 explained\n                                ",
+      "url": "https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained"
+    },
+    {
+      "text": "\n                    How Russia's current war in Ukraine echoes its Crimean War of the 1850s\n                ",
+      "url": "https://www.npr.org/2022/07/13/1106123496/russia-ukraine-invasion-crimean-war-history"
+    },
+    {
+      "text": "                    \n                    Russia had a more powerful army. It didn't think the West would intervene. The invasion was poorly planned. We're not talking about Russia's current war, but about Russia's Crimean War in the 1850s.\n                ",
+      "url": "https://www.npr.org/2022/07/13/1106123496/russia-ukraine-invasion-crimean-war-history"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            7:03\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220713_me_how_russias_current_war_in_ukraine_echoes_its_crimean_war_of_the_1850s.mp3?orgId=1&topicId=1124&aggIds=1082539802&d=423&p=3&story=1106123496&dl=1&sc=siteplayer&size=6770565&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "Download",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220713_me_how_russias_current_war_in_ukraine_echoes_its_crimean_war_of_the_1850s.mp3?orgId=1&topicId=1124&aggIds=1082539802&d=423&p=3&story=1106123496&dl=1&sc=siteplayer&size=6770565&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n                    \n                    Transcript\n                  ",
+      "url": "https://www.npr.org/transcripts/1106123496"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1111202562/in-michigan-the-future-of-abortion-rights-could-soon-be-up-to-voters"
+    },
+    {
+      "text": "\n                                    Reproductive rights in America\n                                ",
+      "url": "https://www.npr.org/series/1096684820/roe-v-wade-and-the-future-of-reproductive-rights-in-america"
+    },
+    {
+      "text": "\n                    In Michigan, the future of abortion rights could soon be up to voters\n                ",
+      "url": "https://www.npr.org/2022/07/13/1111202562/in-michigan-the-future-of-abortion-rights-could-soon-be-up-to-voters"
+    },
+    {
+      "text": "                    \n                    Abortion rights advocates in Michigan are hoping a wave of newly-motivated activists will turn out this year to override an abortion ban and put broad reproductive rights in the state constitution.\n                ",
+      "url": "https://www.npr.org/2022/07/13/1111202562/in-michigan-the-future-of-abortion-rights-could-soon-be-up-to-voters"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            4:20\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220712_atc_mich_abort_petition.mp3?orgId=665&topicId=1128&aggIds=1096684820&d=260&story=1111202562&dl=1&sc=siteplayer&size=4172113&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "Download",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220712_atc_mich_abort_petition.mp3?orgId=665&topicId=1128&aggIds=1096684820&d=260&story=1111202562&dl=1&sc=siteplayer&size=4172113&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1111240652/employees-at-dodger-stadium-threaten-to-strike-days-before-the-mlb-all-star-game"
+    },
+    {
+      "text": "\n                        Sports\n                        ",
+      "url": "https://www.npr.org/sections/sports/"
+    },
+    {
+      "text": "\n                Employees at Dodger Stadium threaten to strike days before the MLB All-Star Game\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111240652/employees-at-dodger-stadium-threaten-to-strike-days-before-the-mlb-all-star-game"
+    },
+    {
+      "text": "\n                The concessions stands are operated by Compass Group and its subsidiary, Levy Restaurants. The company employs about 1,500 people at the stadium.\n            ",
+      "url": "https://www.npr.org/2022/07/13/1111240652/employees-at-dodger-stadium-threaten-to-strike-days-before-the-mlb-all-star-game"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/13/1111078951/health-insurance-abortion"
+    },
+    {
+      "text": "\n                        Shots - Health News\n                        ",
+      "url": "https://www.npr.org/sections/health-shots/"
+    },
+    {
+      "text": "\n                Three things to know about health insurance coverage for abortion\n            ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/13/1111078951/health-insurance-abortion"
+    },
+    {
+      "text": "\n                Even before the U.S. Supreme Court overturned Roe v. Wade, whether a health plan paid for abortion varied widely. Now it's become even more complex, with conflicts and court challenges on the horizon.\n            ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/13/1111078951/health-insurance-abortion"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1110870246/abortion-rights-new-mexico-clinic-later-abortions"
+    },
+    {
+      "text": "\n                                    Reproductive rights in America\n                                ",
+      "url": "https://www.npr.org/series/1096684820/roe-v-wade-and-the-future-of-reproductive-rights-in-america"
+    },
+    {
+      "text": "\n                    A New Mexico clinic that offers abortions later in pregnancy braces for more patients\n                ",
+      "url": "https://www.npr.org/2022/07/13/1110870246/abortion-rights-new-mexico-clinic-later-abortions"
+    },
+    {
+      "text": "                    \n                    There are only a few clinics in the country that provide abortions later in pregnancy. One in New Mexico has recently seen a significant increase in patients and is bracing for more.\n                ",
+      "url": "https://www.npr.org/2022/07/13/1110870246/abortion-rights-new-mexico-clinic-later-abortions"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            4:51\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220707_atc_a_new_mexico_clinic_that_offers_abortions_after_28_weeks_braces_for_more_patients.mp3?orgId=1&topicId=1003&aggIds=1096684820&d=291&story=1110870246&dl=1&sc=siteplayer&size=4660707&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "Download",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220707_atc_a_new_mexico_clinic_that_offers_abortions_after_28_weeks_braces_for_more_patients.mp3?orgId=1&topicId=1003&aggIds=1096684820&d=291&story=1110870246&dl=1&sc=siteplayer&size=4660707&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador"
+    },
+    {
+      "text": "\n                        Politics\n                        ",
+      "url": "https://www.npr.org/sections/politics/"
+    },
+    {
+      "text": "\n                Biden gets an earful in the Oval Office from Mexican President L\u00f3pez Obrador\n            ",
+      "url": "https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador"
+    },
+    {
+      "text": "\n                President Biden met with Mexico's Andr\u00e9s Manuel L\u00f3pez Obrador a month after the Mexican president boycotted a regional summit. Biden's public remarks were brief. L\u00f3pez Obrador \u2014 not so much.\n            ",
       "url": "https://www.npr.org/2022/07/12/1111093803/biden-gets-an-earful-in-the-oval-from-mexican-president-lopez-obrador"
     },
     {
@@ -3953,36 +4331,32 @@
       "url": "https://www.npr.org/sections/pictureshow/2022/07/12/1111002820/webb-telescope-images-nasa"
     },
     {
-      "text": "\n                            The Picture Show\n                            ",
+      "text": "\n                        The Picture Show\n                        ",
       "url": "https://www.npr.org/sections/pictureshow/"
     },
     {
-      "text": "\n            NASA's James Webb telescope captures groundbreaking images of distant galaxies\n            ",
+      "text": "\n                NASA's James Webb telescope captures groundbreaking images of distant galaxies\n            ",
       "url": "https://www.npr.org/sections/pictureshow/2022/07/12/1111002820/webb-telescope-images-nasa"
     },
     {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests"
+      "text": "\n                Thanks to the telescope's deep and sharp infrared images, Earthlings are getting a more detailed look at distant galaxies than was ever possible.\n            ",
+      "url": "https://www.npr.org/sections/pictureshow/2022/07/12/1111002820/webb-telescope-images-nasa"
     },
     {
-      "text": "\n                            Asia\n                            ",
-      "url": "https://www.npr.org/sections/asia/"
-    },
-    {
-      "text": "\n            Sri Lanka's president flees the country\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111206275/sri-lanka-president-flees-protests"
+      "text": "\n        \n            The Webb telescope reveals the universe as we've never seen it before\n        \n    ",
+      "url": "https://www.npr.org/2022/07/11/1110810946/webb-telescope-pictures-nasa"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
       "url": "https://www.keranews.org/texas-news/2022-07-12/portions-of-uvalde-shooting-surveillance-video-released-by-texas-media-outlets"
     },
     {
-      "text": "\n            Uvalde shooting surveillance video is released by Texas media outlets\n            ",
+      "text": "\n                Uvalde shooting surveillance video is released by Texas media outlets\n            ",
       "url": "https://www.keranews.org/texas-news/2022-07-12/portions-of-uvalde-shooting-surveillance-video-released-by-texas-media-outlets"
     },
     {
-      "text": "Help me find another station",
-      "url": "/stations/"
+      "text": "\n                The Austin American-Statesman and their television partner, KVUE, published video that includes scenes from outside Robb Elementary School and the moment when the 18-year-old gunman enters the school.\n            ",
+      "url": "https://www.keranews.org/texas-news/2022-07-12/portions-of-uvalde-shooting-surveillance-video-released-by-texas-media-outlets"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -3997,460 +4371,8 @@
       "url": "https://www.npr.org/sections/goatsandsoda/2022/07/12/1110857585/secret-schools-enable-afghanistans-teen-girls-to-skirt-talibans-education-ban"
     },
     {
-      "text": "\n                The official rule: no secondary school for girls. But behind a veil of secrecy, women are opening small schools so that at least some of these teenagers are able to continue learning\n            ",
+      "text": "\n                The official rule is that there is no secondary school for girls. But behind a veil of secrecy, women are opening small schools so that at least some of these teenagers are able to continue learning.\n            ",
       "url": "https://www.npr.org/sections/goatsandsoda/2022/07/12/1110857585/secret-schools-enable-afghanistans-teen-girls-to-skirt-talibans-education-ban"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111218529/louisiana-abortion-ban-blocked"
-    },
-    {
-      "text": "\n                        National\n                        ",
-      "url": "https://www.npr.org/sections/national/"
-    },
-    {
-      "text": "\n                A state judge temporarily blocked Louisiana from enforcing its abortion ban\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111218529/louisiana-abortion-ban-blocked"
-    },
-    {
-      "text": "\n                The judge's order halts enforcement temporarily while lawyers for a north Louisiana clinic and other supporters of abortion rights pursue a lawsuit challenging the legislation.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111218529/louisiana-abortion-ban-blocked"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111121778/five-takeaways-from-the-2022-emmy-nominations"
-    },
-    {
-      "text": "\n                        Culture\n                        ",
-      "url": "https://www.npr.org/sections/culture/"
-    },
-    {
-      "text": "\n                Five takeaways from the 2022 Emmy nominations\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111121778/five-takeaways-from-the-2022-emmy-nominations"
-    },
-    {
-      "text": "\n                There's been record TV production this year - so why were so many categories dominated by performers from a handful of shows?\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111121778/five-takeaways-from-the-2022-emmy-nominations"
-    },
-    {
-      "text": "\n        \n            Emmy nominations: The contenders for TV's biggest honors\n        \n    ",
-      "url": "https://www.npr.org/2022/07/12/1110928852/emmy-nominations-awards-2022-succession-ted-lasso"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor"
-    },
-    {
-      "text": "\n                        Sports\n                        ",
-      "url": "https://www.npr.org/sections/sports/"
-    },
-    {
-      "text": "\n                Mo Farah says he was trafficked to the U.K. and forced into child labor\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor"
-    },
-    {
-      "text": "\n                \"Most people know me as Mo Farah, but it's not my name \u2014 or, it's not the reality,\" Olympic gold medalist Mo Farah said, in a clip from an upcoming documentary.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111002952/mo-farah-trafficked-child-labor"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/money/2022/07/12/1110510488/lean-out-employees-are-accepting-lower-pay-in-order-to-work-remotely"
-    },
-    {
-      "text": "\n                        Planet Money\n                        ",
-      "url": "https://www.npr.org/sections/money/"
-    },
-    {
-      "text": "\n                Lean out: Employees are accepting lower pay in order to work remotely\n            ",
-      "url": "https://www.npr.org/sections/money/2022/07/12/1110510488/lean-out-employees-are-accepting-lower-pay-in-order-to-work-remotely"
-    },
-    {
-      "text": "\n                A new study finds American companies are using remote work as a way to avoid giving workers raises; so much so that it's helping to moderate inflation.\n            ",
-      "url": "https://www.npr.org/sections/money/2022/07/12/1110510488/lean-out-employees-are-accepting-lower-pay-in-order-to-work-remotely"
-    },
-    {
-      "text": "\n        \n            The idea of working in the office, all day, every day? No thanks, say workers\n        \n    ",
-      "url": "https://www.npr.org/2022/06/05/1102744672/remote-work-from-home-return-to-office-covid-pandemic-workers-apple-google"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1110887901/biden-middle-east-trip-israel-saudi-arabia"
-    },
-    {
-      "text": "\n                        Middle East\n                        ",
-      "url": "https://www.npr.org/sections/middle-east/"
-    },
-    {
-      "text": "\n                Biden's Middle East trip aims to shore up a relatively calm moment in the region\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110887901/biden-middle-east-trip-israel-saudi-arabia"
-    },
-    {
-      "text": "\n                In his visits to Israel and Saudi Arabia this week, President Biden will aim to keep the oil flowing and lock in progress on the Middle East's simmering conflicts.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110887901/biden-middle-east-trip-israel-saudi-arabia"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1110993518/vanessa-guillen-documentary-fort-hood"
-    },
-    {
-      "text": "\n                                    Movie Interviews\n                                    ",
-      "url": "https://www.npr.org/sections/movie-interviews/"
-    },
-    {
-      "text": "\n                        #IAmVanessaGuillen documentary explores the culture of toxicity at Fort Hood\n                    ",
-      "url": "https://www.npr.org/2022/07/12/1110993518/vanessa-guillen-documentary-fort-hood"
-    },
-    {
-      "text": "\n                        The murder of Spc. Vanessa Guill\u00e9n shed a light on the widespread problem of sexual misconduct in the military. A new documentary in English and Spanish looks at what's changed and what work remains.\n                    ",
-      "url": "https://www.npr.org/2022/07/12/1110993518/vanessa-guillen-documentary-fort-hood"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220712_me_iamvanessaguillen_explores_the_culture_of_toxicity_at_fort_hood.mp3?orgId=1&topicId=1137&d=433&p=3&story=1110993518&dl=1&sc=siteplayer&size=6941929&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n                    \n                    Transcript\n                  ",
-      "url": "https://www.npr.org/transcripts/1110993518"
-    },
-    {
-      "text": "\n        \n            A historic court-martial ends with the first conviction of an Air Force general\n        \n    ",
-      "url": "https://www.npr.org/2022/04/24/1094545002/air-force-general-sexual-assault-conviction-court-martial"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111002271/jane-the-virgin-rafael-agustin-illegally-yours"
-    },
-    {
-      "text": "\n                        Author Interviews\n                        ",
-      "url": "https://www.npr.org/sections/author-interviews/"
-    },
-    {
-      "text": "\n                'Jane the Virgin' writer recounts growing up undocumented in 'Illegally Yours'\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111002271/jane-the-virgin-rafael-agustin-illegally-yours"
-    },
-    {
-      "text": "\n                Rafael Agustin's parents were physicians in Ecuador, but when they came to the U.S. they worked at a car wash and Kmart to get by. It wasn't until he was a teen that he learned they were undocumented.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111002271/jane-the-virgin-rafael-agustin-illegally-yours"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111068609/senate-confirms-dettelbach-to-head-firearms-agency-as-gun-violence-grows"
-    },
-    {
-      "text": "\n                        Politics\n                        ",
-      "url": "https://www.npr.org/sections/politics/"
-    },
-    {
-      "text": "\n                The Senate confirms Dettelbach to head the ATF as gun violence grows\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111068609/senate-confirms-dettelbach-to-head-firearms-agency-as-gun-violence-grows"
-    },
-    {
-      "text": "\n                This is the first time in seven years that the Senate has confirmed a director for the firearms agency.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111068609/senate-confirms-dettelbach-to-head-firearms-agency-as-gun-violence-grows"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/12/1110533500/permanent-birth-control-tubes-tied"
-    },
-    {
-      "text": "\n                                    Shots - Health News\n                                    ",
-      "url": "https://www.npr.org/sections/health-shots/"
-    },
-    {
-      "text": "\n                        Why this key chance to getting permanent birth control is often missed\n                    ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/12/1110533500/permanent-birth-control-tubes-tied"
-    },
-    {
-      "text": "\n                        Doctors say they're seeing a surge in the number of women who want their \"tubes tied.\" But hospital capacity, paperwork, religion and personal opinion are just some of the reasons requests get denied.\n                    ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/12/1110533500/permanent-birth-control-tubes-tied"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220712_me_why_this_key_chance_to_getting_permanent_birth_control_is_often_missed.mp3?orgId=1&topicId=1135&d=398&p=3&story=1110533500&dl=1&sc=siteplayer&size=6369742&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n                    \n                    Transcript\n                  ",
-      "url": "https://www.npr.org/transcripts/1110533500"
-    },
-    {
-      "text": "\n        \n            Emergency contraception pills are safe and effective, but not always available\n        \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2022/06/28/1105830606/emergency-contraception-pills"
-    },
-    {
-      "text": "\n        \n            There are so many types of birth control. Here's how to choose what works for you\n        \n    ",
-      "url": "https://www.npr.org/2020/02/19/807328672/trying-to-decide-what-birth-control-to-use-heres-how-to-make-the-decision"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1109927959/yellowstone-flood-red-lodge-montana"
-    },
-    {
-      "text": "\n                        Weather\n                        ",
-      "url": "https://www.npr.org/sections/weather"
-    },
-    {
-      "text": "\n                How a Montana community is faring after devastating floods hit the area last month\n            ",
-      "url": "https://www.npr.org/2022/07/12/1109927959/yellowstone-flood-red-lodge-montana"
-    },
-    {
-      "text": "\n                Red Lodge, Mont., is still recovering after devastating floods hit the area in mid-June. Many businesses and locals are worried about surviving with hampered tourism and little insurance compensation.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1109927959/yellowstone-flood-red-lodge-montana"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases"
-    },
-    {
-      "text": "\n                                    Health\n                                ",
-      "url": "https://www.npr.org/sections/health/"
-    },
-    {
-      "text": "\n                    The monkeypox outbreak was avoidable and warning signs were ignored, expert says\n                ",
-      "url": "https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases"
-    },
-    {
-      "text": "                    \n                    Monkeypox has been a developing problem for decades and the current global outbreak was avoidable, but the looming threat was largely ignored, according to a leading expert on the virus.\n                ",
-      "url": "https://www.npr.org/2022/07/12/1110897541/monkeypox-outbreak-testing-vaccine-cases"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220711_atc_theres_a_vaccine_and_decades_of_research_against_monkeypox_so_why_is_it_spreading.mp3?orgId=1&topicId=1128&d=267&story=1110897541&dl=1&sc=siteplayer&size=4281200&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111017834/biden-administration-docs-must-offer-abortion-if-moms-life-is-at-risk"
-    },
-    {
-      "text": "\n                        Reproductive rights in America\n                        ",
-      "url": "https://www.npr.org/series/1096684820/roe-v-wade-and-the-future-of-reproductive-rights-in-america"
-    },
-    {
-      "text": "\n                Biden administration: Doctors must offer abortion if mom's life is at risk\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111017834/biden-administration-docs-must-offer-abortion-if-moms-life-is-at-risk"
-    },
-    {
-      "text": "\n                HHS told hospitals that they \"must\" provide abortion services if the life of the mother is at risk, saying federal law on emergency care preempts state laws that now ban abortion without exception.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1111017834/biden-administration-docs-must-offer-abortion-if-moms-life-is-at-risk"
-    },
-    {
-      "text": "\n        \n            A new executive order aims to preserve abortion access, but its reach is limited\n        \n    ",
-      "url": "https://www.npr.org/2022/07/08/1110455155/abortion-rights-biden-executive-order"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.kcur.org/news/2022-07-12/kansas-churches-leading-charge-for-constitutional-amendment-on-states-abortion-rights"
-    },
-    {
-      "text": "\n                Kansas will be the first state to vote on ending abortion rights after Roe v. Wade\n            ",
-      "url": "https://www.kcur.org/news/2022-07-12/kansas-churches-leading-charge-for-constitutional-amendment-on-states-abortion-rights"
-    },
-    {
-      "text": "\n                Tuesday is the last day to register to vote in Kansas, where religious institutions \u2014 which normally avoid political advocacy \u2014 are leading the charge ahead of the vote in August.\n            ",
-      "url": "https://www.kcur.org/news/2022-07-12/kansas-churches-leading-charge-for-constitutional-amendment-on-states-abortion-rights"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1109995973/we-know-greek-statues-werent-white-now-you-can-see-them-in-color"
-    },
-    {
-      "text": "\n                                    Culture\n                                    ",
-      "url": "https://www.npr.org/sections/culture/"
-    },
-    {
-      "text": "\n                        We know Greek statues weren't white. Now you can see them in color.\n                    ",
-      "url": "https://www.npr.org/2022/07/12/1109995973/we-know-greek-statues-werent-white-now-you-can-see-them-in-color"
-    },
-    {
-      "text": "\n                        A new exhibit at New York's Metropolitan Museum of Art shows what the statues actually looked like: painted in garish colors with eye-catching patterns and designs.\n                    ",
-      "url": "https://www.npr.org/2022/07/12/1109995973/we-know-greek-statues-werent-white-now-you-can-see-them-in-color"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1110804783/ada-limon-named-new-u-s-poet-laureate"
-    },
-    {
-      "text": "\n                        Culture\n                        ",
-      "url": "https://www.npr.org/sections/culture/"
-    },
-    {
-      "text": "\n                Ada Lim\u00f3n is named new U.S. poet laureate\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110804783/ada-limon-named-new-u-s-poet-laureate"
-    },
-    {
-      "text": "\n                Ada Lim\u00f3n becomes the nation's 24th poet laureate by the Library of Congress. She will take over from Joy Harjo, who has held the position since 2019.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110804783/ada-limon-named-new-u-s-poet-laureate"
-    },
-    {
-      "text": "\n        \n            In her new poems, Ada Lim\u00f3n argues for turning a delicate attention to the world\n        \n    ",
-      "url": "https://www.npr.org/2022/05/09/1096005629/ada-limon-hurting-kind-review-poetry"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/01/1109455525/how-to-deal-with-a-crush"
-    },
-    {
-      "text": "\n                                    Life Kit\n                                ",
-      "url": "https://www.npr.org/lifekit"
-    },
-    {
-      "text": "\n                    Have a crush? What to do in 4 common scenarios\n                ",
-      "url": "https://www.npr.org/2022/07/01/1109455525/how-to-deal-with-a-crush"
-    },
-    {
-      "text": "                    \n                    Having a crush is natural - they're a part of human biology. Sometimes, acting on it is a great, healthy step - or it can create a lot more trouble than it needs to. Certified dating coach Damona Hoffman walks us through how to handle a crush in four common scenarios.\n                ",
-      "url": "https://www.npr.org/2022/07/01/1109455525/how-to-deal-with-a-crush"
-    },
-    {
-      "text": "Download",
-      "url": "https://play.podtrac.com/npr-510338/edge1.pod.npr.org/anon.npr-mp3/npr/lifekit/2022/07/20220712_lifekit_a14c27d2-5fdc-4fb4-b27c-e1db5c795f3e.mp3?orgId=1&topicId=1008&aggIds=676529561&d=1194&p=510338&story=1109455525&t=podcast&e=1109455525&dl=1&sc=siteplayer&size=19115164&awCollectionId=510338&awEpisodeId=1109455525&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n        \n            Can I date that co-worker? What to consider before an office romance\n        \n    ",
-      "url": "https://www.npr.org/2020/02/11/804900466/can-i-date-that-co-worker-what-to-consider-before-an-office-romance"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1110988857/monty-norman-the-composer-of-the-james-bond-theme-dies-at-94"
-    },
-    {
-      "text": "\n                        Pop Culture\n                        ",
-      "url": "https://www.npr.org/sections/pop-culture/"
-    },
-    {
-      "text": "\n                Monty Norman, composer of the James Bond theme, dies at 94\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110988857/monty-norman-the-composer-of-the-james-bond-theme-dies-at-94"
-    },
-    {
-      "text": "\n                To produce the iconic theme song, the late composer drew on a piece he had written for a proposed musical adaptation of V.S. Naipaul's A House for Mr. Biswas.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110988857/monty-norman-the-composer-of-the-james-bond-theme-dies-at-94"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1110918246/kimchi-fried-rice-playlist-bts-anderson-paak-viral-korean-recipe-spotify"
-    },
-    {
-      "text": "\n                                    Food\n                                ",
-      "url": "https://www.npr.org/sections/food/"
-    },
-    {
-      "text": "\n                    A kimchi fried rice playlist on Spotify teaches you how to make the dish\n                ",
-      "url": "https://www.npr.org/2022/07/12/1110918246/kimchi-fried-rice-playlist-bts-anderson-paak-viral-korean-recipe-spotify"
-    },
-    {
-      "text": "                    \n                    In today's digital age, following a recipe from a book may seem pretty archaic. So if you're not in the mood to read the ingredients and measurements, then a playlist might be for you.\n                ",
-      "url": "https://www.npr.org/2022/07/12/1110918246/kimchi-fried-rice-playlist-bts-anderson-paak-viral-korean-recipe-spotify"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220708_atc_want_to_learn_how_to_make_kimchi_fried_rice_go_on_spotify.mp3?orgId=1&topicId=1053&d=171&story=1110918246&dl=1&sc=siteplayer&size=2739767&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1109355338/animal-collective-tiny-desk-home-concert"
-    },
-    {
-      "text": "\n                                    Tiny Desk\n                                    ",
-      "url": "https://www.npr.org/series/tiny-desk-concerts/"
-    },
-    {
-      "text": "\n                        Animal Collective: Tiny Desk (Home) Concert\n                    ",
-      "url": "https://www.npr.org/2022/07/12/1109355338/animal-collective-tiny-desk-home-concert"
-    },
-    {
-      "text": "\n                        The band Animal Collective performs a transfixing, unpredictable concert at MASS MoCA.\n                    ",
-      "url": "https://www.npr.org/2022/07/12/1109355338/animal-collective-tiny-desk-home-concert"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall"
-    },
-    {
-      "text": "\n                        Ukraine invasion \u2014 explained\n                        ",
-      "url": "https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained"
-    },
-    {
-      "text": "\n                Russian missiles blast civilians in Ukraine\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall"
-    },
-    {
-      "text": "\n                A Russian missile struck a crowded shopping mall last month, killing 21 people and injuring dozens more. It was just one of many instances when Russia hit Ukraine's civilian areas.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110241513/russia-ukraine-civilian-casualties-kremenchuk-mall"
-    },
-    {
-      "text": "\n        \n            Ukraine invasion \u2014 explained: in-depth coverage of the war with Russia\n        \n    ",
-      "url": "https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained"
-    },
-    {
-      "text": "\n        \n            Garbage collectors in Kharkiv dodge mortars to pick up the trash\n        \n    ",
-      "url": "https://www.npr.org/2022/07/10/1110679623/kharkiv-ukraine-trash-garbagemen"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/11/1110844867/hundreds-of-couples-didnt-have-a-wedding-due-to-covid-until-now"
-    },
-    {
-      "text": "\n                                    Culture\n                                ",
-      "url": "https://www.npr.org/sections/culture/"
-    },
-    {
-      "text": "\n                    Hundreds of couples didn't have a wedding due to COVID \u2014 until now\n                ",
-      "url": "https://www.npr.org/2022/07/11/1110844867/hundreds-of-couples-didnt-have-a-wedding-due-to-covid-until-now"
-    },
-    {
-      "text": "                    \n                    There were older couples and younger ones, gay, straight and nonbinary couples, couples of different races and from different places, all joining together at Lincoln Center in New York.\n                ",
-      "url": "https://www.npr.org/2022/07/11/1110844867/hundreds-of-couples-didnt-have-a-wedding-due-to-covid-until-now"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220711_atc_hundreds_of_couples_didnt_have_a_wedding_due_to_covid_-_until_now.mp3?orgId=1&topicId=1008&d=206&p=2&story=1110844867&dl=1&sc=siteplayer&size=3306102&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n                    \n                    Transcript\n                  ",
-      "url": "https://www.npr.org/transcripts/1110844867"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1110992521/japanese-say-their-final-goodbyes-to-former-leader-shinzo-abe-at-funeral"
-    },
-    {
-      "text": "\n                        Asia\n                        ",
-      "url": "https://www.npr.org/sections/asia/"
-    },
-    {
-      "text": "\n                Mourners say their final goodbyes to Japan's Shinzo Abe at his funeral\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110992521/japanese-say-their-final-goodbyes-to-former-leader-shinzo-abe-at-funeral"
-    },
-    {
-      "text": "\n                The funeral for former Prime Minister Shinzo Abe, who remained influential even after he stepped down from office in 2020, was held on Tuesday at a temple days after his assassination that shocked the nation.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110992521/japanese-say-their-final-goodbyes-to-former-leader-shinzo-abe-at-funeral"
-    },
-    {
-      "text": "\n        \n            Shinzo Abe's policies take on renewed significance for Japan\n        \n    ",
-      "url": "https://www.npr.org/2022/07/09/1110600352/shinzo-abe-killed-legacy-japan"
-    },
-    {
-      "text": "\n        \n            Shinzo Abe, killed at 67, leaves a storied legacy as Japan's longest-serving premier\n        \n    ",
-      "url": "https://www.npr.org/2022/07/08/1110538891/shinzo-abe-former-prime-minister-japan-killed"
-    },
-    {
-      "text": "\n        \n            Japan is examining its security and defense policy as Russia continues war in Ukraine\n        \n    ",
-      "url": "https://www.npr.org/2022/07/11/1110904546/japan-is-examining-its-security-and-defense-policy-as-russia-continues-war-in-uk"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1110935176/buffalo-tops-grocery-reopening-july-15"
-    },
-    {
-      "text": "\n                        National\n                        ",
-      "url": "https://www.npr.org/sections/national/"
-    },
-    {
-      "text": "\n                Buffalo's Tops grocery will reopen this week following the mass shooting in May\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110935176/buffalo-tops-grocery-reopening-july-15"
-    },
-    {
-      "text": "\n                The Tops Friendly Markets grocery store opened on Jefferson Avenue on the East Side of Buffalo in 2003. The newly remodled store will reopen to the public on July 15.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110935176/buffalo-tops-grocery-reopening-july-15"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -4606,7 +4528,7 @@
     }
   ],
   "server": "ia801409.us.archive.org",
-  "uniq": 1599509383,
+  "uniq": 1382330645,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

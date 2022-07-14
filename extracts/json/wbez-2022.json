@@ -1,5 +1,5 @@
 {
-  "created": 1657714856,
+  "created": 1657758684,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/wbez-2022",
@@ -2630,31 +2630,115 @@
       "sha1": "725a5c60293c521bf6ce789b8be0377a33981cf5"
     },
     {
+      "name": "wbez-2022-07-13T12:18:16.623469-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657732701",
+      "size": "16363",
+      "md5": "c75a9659ec0100c6870382e93279e3fd",
+      "crc32": "80f88a4b",
+      "sha1": "3312f4bf19ecbed6a32975cb213f8d4b8f0b047a",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-13T12:18:16.623469-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657732702",
+      "size": "11914",
+      "md5": "f17d677632fed781beefa1e8bc320755",
+      "crc32": "07c9c8ea",
+      "sha1": "4ef49816170aaacf361e21a735a70625e074ce90",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-13T12:18:16.623469-05:00.jpg",
+      "source": "original",
+      "mtime": "1657732700",
+      "size": "310261",
+      "md5": "5da9db81ca8702d8e92e9e794c318989",
+      "crc32": "39565e29",
+      "sha1": "0308b39859aba235e99a1866164d43f9e8c7d1f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbez-2022-07-13T12:18:16.623469-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-07-13T12:18:16.623469-05:00.jpg",
+      "mtime": "1657732754",
+      "size": "10177",
+      "md5": "5caae6b4ae0a91f128db1a498f07fdb7",
+      "crc32": "f6058e2c",
+      "sha1": "1939cf0e50d4eb33cdb0dda9f752ce9ebdb29364"
+    },
+    {
+      "name": "wbez-2022-07-13T12:24:07.589476-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657733052",
+      "size": "16388",
+      "md5": "b58c31dc756a44ebd8a1ce6236bd8b83",
+      "crc32": "45ab2447",
+      "sha1": "c6eee055596204c941e1f2e27ad69ed8532aebdd",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-13T12:24:07.589476-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657733053",
+      "size": "11914",
+      "md5": "f17d677632fed781beefa1e8bc320755",
+      "crc32": "07c9c8ea",
+      "sha1": "4ef49816170aaacf361e21a735a70625e074ce90",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-13T12:24:07.589476-05:00.jpg",
+      "source": "original",
+      "mtime": "1657733049",
+      "size": "308150",
+      "md5": "73f4b738b3ae0db2d044c7d7baa002f3",
+      "crc32": "92484985",
+      "sha1": "d769c0d726f5005c8439022c1a04eb74c03a50f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbez-2022-07-13T12:24:07.589476-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-07-13T12:24:07.589476-05:00.jpg",
+      "mtime": "1657733143",
+      "size": "10073",
+      "md5": "7fa668a372af67d4c64362f10e0ae034",
+      "crc32": "20732b95",
+      "sha1": "f83395cffec06613ffe67e5ef35cc50365e29b48"
+    },
+    {
       "name": "wbez-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3abc2968fe860c64fa9d814eaa73ac6c7540d1cc",
-      "mtime": "1657685816",
-      "size": "53066",
-      "md5": "d2a28856a2718eb3de5e72d71d3f0069",
-      "crc32": "0dcf01a2",
-      "sha1": "2e2683a3577289f8f1eef7bd412c2faac491a4a5",
+      "btih": "f4f40cee6cf8b3185f32a1915f0c12427d7fcd08",
+      "mtime": "1657733149",
+      "size": "54734",
+      "md5": "f95af2fc78f522f31ee90bc8d542f878",
+      "crc32": "122385e7",
+      "sha1": "d439fd2575bb6c64af17bd92bc5fd06ac5424435",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wbez-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "13d8a4ca95cba20996b56af33c0a5d9e",
+      "md5": "ca38e31747e43c07395be8a5bace8e7a",
       "summation": "md5"
     },
     {
       "name": "wbez-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657685666",
-      "size": "307200",
-      "md5": "a2ce4fdcfd2a9eb63103cb7202b7def0",
-      "crc32": "63574dee",
-      "sha1": "d9b710848e7543c24a023d5deec2df2fd0e5072d",
+      "mtime": "1657733058",
+      "size": "315392",
+      "md5": "3fd218a79b50535354c4c99965f94f6b",
+      "crc32": "5ab3974e",
+      "sha1": "a70d7226b2fa45a0f114eb7fb39ddd7b22f482ac",
       "format": "Metadata"
     },
     {
@@ -2668,9 +2752,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 254,
-  "item_last_updated": 1657685816,
-  "item_size": 21923050,
+  "files_count": 262,
+  "item_last_updated": 1657733149,
+  "item_size": 22628150,
   "metadata": {
     "identifier": "wbez-2022",
     "collection": [
@@ -2688,7 +2772,7 @@
     "addeddate": "2022-06-24 23:03:38"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 1098094230,
+  "uniq": 1682862221,
   "wbez-2022": [
     {
       "text": "\n      Skip to main content\n    ",
@@ -2731,24 +2815,20 @@
       "url": "/#menu"
     },
     {
-      "text": "\n        Domestic violence surge continued in 2021, new report shows\n      ",
-      "url": "/stories/domestic-violence-surge-continued-in-2021-new-report-shows/9bf90c92-3453-434a-bd87-fb93883553ad"
-    },
-    {
-      "text": "\n        Immigrant women in Chicago face unique challenges to overcoming domestic violence\n      ",
-      "url": "/stories/pandemic-worsens-domestic-violence-for-immigrant-women/43f979de-6692-4847-a320-48c93b9aa9d9"
-    },
-    {
-      "text": "\n        Chicago issues the first payments for its new guaranteed basic income program\n      ",
-      "url": "/stories/chicago-issues-its-first-guaranteed-income-payments/823d6f24-dc0b-4a8d-ab8b-1a47a01432c1"
-    },
-    {
-      "text": "\n        How Chicago\u2019s political conventions have altered American history\n      ",
-      "url": "/stories/shermann-dilla-thomas-on-chicagos-political-conventions/a0f2a72d-9adf-41d4-96ba-e5ecc06b3162"
-    },
-    {
       "text": "\n        Chicago police make arrest nine months after killing captured on camera\n      ",
       "url": "/stories/chicago-police-make-arrest-9-months-after-murder-captured-on-camera/90cf860f-b793-4fc1-beb0-43a7714731da"
+    },
+    {
+      "text": "\n        The distinctive underground rock band Karate gets a fresh listen \u2013 and a prime-time Pitchfork slot\n      ",
+      "url": "/stories/karate-plays-pitchfork-after-numero-group-rerelease/ce7cf213-57ea-46ea-9a4f-09bf33abaa20"
+    },
+    {
+      "text": "\n        Wisconsin doctor buys Illinois buildings to offer abortions\n      ",
+      "url": "/stories/wisconsin-doctor-buys-illinois-buildings-to-offer-abortions/b2e22acc-da8f-4713-9a73-97532bcc5db5"
+    },
+    {
+      "text": "\n        No retreat in the summer heat. Inflation blistering at 9.1% in June\n      ",
+      "url": "/stories/no-retreat-in-the-summer-heat-inflation-blistering-at-91-in-june/809a223d-ad6e-4e34-a629-7eae24459def"
     },
     {
       "text": "\n      Consider donating today\n    ",
@@ -2791,6 +2871,50 @@
       "url": "/stories/highland-park-gathers-at-vigils-to-remember-mass-shooting-victims/5ee6c769-e7cf-4726-b218-6e558178d8f3"
     },
     {
+      "text": "\n        Judge sets Ald. Ed Burke\u2019s racketeering trial for November 2023\n      ",
+      "url": "/stories/judge-sets-ald-ed-burkes-racketeering-trial-for-november-2023/d78094e6-b970-4989-8b96-5278bd24c499"
+    },
+    {
+      "text": "\n        Environment & Public Health\n      ",
+      "url": "/topics/environment-and-public-health/78f1d3ad-6823-451d-9de7-302f95acbc4e"
+    },
+    {
+      "text": "\n        Gov. JB Pritzker taps a new public health director to face pandemic and health disparities challenges\n      ",
+      "url": "/stories/gov-jb-pritzker-taps-a-new-public-health-director/ae0ef30c-c232-4685-9e57-41e2d9b52a55"
+    },
+    {
+      "text": "\n        Culture & The Arts\n      ",
+      "url": "/topics/culture-and-the-arts/7af0c1d9-286b-4fd1-b741-6f79bfd6814a"
+    },
+    {
+      "text": "\n        How Chicago\u2019s political conventions have altered American history\n      ",
+      "url": "/stories/shermann-dilla-thomas-on-chicagos-political-conventions/a0f2a72d-9adf-41d4-96ba-e5ecc06b3162"
+    },
+    {
+      "text": "\n        WBEZ Presents: Food Aid 2022 - Day 1\n      ",
+      "url": "/events/wbez-presents-food-aid-2022-day-1/188"
+    },
+    {
+      "text": "\n        More events \u2192\n      ",
+      "url": "/events"
+    },
+    {
+      "text": "\n        Race, Class & Communities\n      ",
+      "url": "/topics/race-class-and-communities/1133cab4-5059-482c-a9fb-8a7f5662f3fc"
+    },
+    {
+      "text": "\n        Chicago issues the first payments for its new guaranteed basic income program\n      ",
+      "url": "/stories/chicago-issues-its-first-guaranteed-income-payments/823d6f24-dc0b-4a8d-ab8b-1a47a01432c1"
+    },
+    {
+      "text": "\n        Criminal Justice\n      ",
+      "url": "/topics/criminal-justice/ffa74088-0ab8-406a-b1f9-b15dd6d39880"
+    },
+    {
+      "text": "\n        Domestic violence surge continued in 2021, new report shows\n      ",
+      "url": "/stories/domestic-violence-surge-continued-in-2021-new-report-shows/9bf90c92-3453-434a-bd87-fb93883553ad"
+    },
+    {
       "text": "\n        NPR\n        ",
       "url": "/shows/npr/1552b01f-fc6b-4d96-8e14-8a1b54d0b974"
     },
@@ -2803,28 +2927,12 @@
       "url": "/stories/the-next-jan-6-committee-hearing-will-focus-on-extremist-organizations/ec2d0c81-21ad-43b0-8b4f-34dbd73658ed"
     },
     {
-      "text": "\n        Environment & Public Health\n      ",
-      "url": "/topics/environment-and-public-health/78f1d3ad-6823-451d-9de7-302f95acbc4e"
-    },
-    {
-      "text": "\n        Gov. JB Pritzker taps a new public health director to face pandemic and health disparities challenges\n      ",
-      "url": "/stories/gov-jb-pritzker-taps-a-new-public-health-director/ae0ef30c-c232-4685-9e57-41e2d9b52a55"
-    },
-    {
       "text": "\n        Reset with Sasha-Ann Simons\n        ",
       "url": "/shows/reset-with-sasha-ann-simons/087fda4e-bff3-402c-a30f-bc32285a5237"
     },
     {
       "text": "\n        Chicago author is the first South Asian woman to write Kamala Khan in Ms. Marvel comics\n      ",
       "url": "/stories/chicago-author-is-the-first-south-asian-woman-to-write-kamala-khan-in-ms-marvel-comics/7dc50c0d-6d06-4690-a9a2-74cea84fd4a7"
-    },
-    {
-      "text": "\n        WBEZ Presents: Food Aid 2022 - Day 1\n      ",
-      "url": "/events/wbez-presents-food-aid-2022-day-1/188"
-    },
-    {
-      "text": "\n        More events \u2192\n      ",
-      "url": "/events"
     },
     {
       "text": "\n        Politics\n      ",
@@ -2865,58 +2973,6 @@
     {
       "text": "\n        Will the parents of the suspect in the Highland Park mass shooting face legal trouble?\n      ",
       "url": "/stories/will-the-parents-of-the-suspect-in-the-highland-park-mass-shooting-face-legal-trouble/9c145ee8-622a-4efd-9af8-4f02002dafe1"
-    },
-    {
-      "text": "\n        Politics\n      ",
-      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
-    },
-    {
-      "text": "\n        Cook County officials want to offer $300 million in loans to suburban towns to pay bills\n      ",
-      "url": "/stories/cook-county-wants-to-loan-suburban-towns-300-million/4d105900-65be-4140-ba70-e7c4f26bedf9"
-    },
-    {
-      "text": "\n        Criminal Justice\n      ",
-      "url": "/topics/criminal-justice/ffa74088-0ab8-406a-b1f9-b15dd6d39880"
-    },
-    {
-      "text": "\n        Should Illinois\u2019 red-flag law have stopped the Highland Park parade shooting?\n      ",
-      "url": "/stories/should-illinois-red-flag-law-have-stopped-the-highland-park-parade-shooting/7f7327be-9b13-4feb-af22-61a1d5c3f5d4"
-    },
-    {
-      "text": "\n        Culture & The Arts\n      ",
-      "url": "/topics/culture-and-the-arts/7af0c1d9-286b-4fd1-b741-6f79bfd6814a"
-    },
-    {
-      "text": "\n        A new ballet for children draws inspiration from Puerto Rico, skyscrapers and Beyonc\u00e9\n      ",
-      "url": "/stories/the-joffreys-new-ballet-for-kids-draws-from-beyonce-puerto-rico/c021ebaa-d3bf-417e-aa28-3298616d59d1"
-    },
-    {
-      "text": "\n        Politics\n      ",
-      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
-    },
-    {
-      "text": "\n        Governors offer Democrats more aggressive replies on issues from gun control to abortion access\n      ",
-      "url": "/stories/governors-offer-democrats-aggressive-reply-on-guns-abortion/96b0a888-da6b-461d-82a3-5cf8ba153b45"
-    },
-    {
-      "text": "\n        Curious City\n        ",
-      "url": "/shows/curious-city/7b79e16d-f3a9-4156-9b27-4d2cc6ce351e"
-    },
-    {
-      "text": "\n        Culture & The Arts\n      ",
-      "url": "/topics/culture-and-the-arts/7af0c1d9-286b-4fd1-b741-6f79bfd6814a"
-    },
-    {
-      "text": "\n        Drawn by drums and incense, Pilsen residents are finding strength and joy through Aztec dance\n      ",
-      "url": "/stories/an-aztec-dancing-group-in-pilsen-finds-strength-and-joy/48e5006f-18cd-47c8-b22c-affaca2d504b"
-    },
-    {
-      "text": "\n        NPR\n        ",
-      "url": "/shows/npr/1552b01f-fc6b-4d96-8e14-8a1b54d0b974"
-    },
-    {
-      "text": "\n        Why the Highland Park suspect represents a different kind of violent extremism\n      ",
-      "url": "/stories/why-the-highland-park-suspect-represents-a-different-kind-of-violent-extremism/3f237b6c-ace3-4da1-8eec-55310db5442e"
     },
     {
       "text": "\n      DONATE NOW\n    ",

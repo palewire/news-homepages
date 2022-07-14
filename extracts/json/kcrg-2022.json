@@ -1,5 +1,5 @@
 {
-  "created": 1657714322,
+  "created": 1657758207,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/28/items/kcrg-2022",
@@ -6418,31 +6418,115 @@
       "sha1": "b3551ff6a6e16bf6370e4dda7c674a50eded44e6"
     },
     {
+      "name": "kcrg-2022-07-13T10:01:15.880044-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657724482",
+      "size": "39376",
+      "md5": "de7cdf865f6747890ad3e98bc9459e8e",
+      "crc32": "edea0b56",
+      "sha1": "03242f2fa65ba744414d20fc6f3349dc4380967f",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-07-13T10:01:15.880044-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657724484",
+      "size": "30673",
+      "md5": "dbc7551f64280ac972303c4510410adf",
+      "crc32": "b994d3a4",
+      "sha1": "81c28b3f185068a08cbab07607513c3d1caafc7d",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-07-13T10:01:15.880044-05:00.jpg",
+      "source": "original",
+      "mtime": "1657724480",
+      "size": "354164",
+      "md5": "f2f964d1adc18665107fc9485a2dbd22",
+      "crc32": "0ab35046",
+      "sha1": "41c4d3453f0710e07125bd30052fc994f6d2cadb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-07-13T10:01:15.880044-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-07-13T10:01:15.880044-05:00.jpg",
+      "mtime": "1657724667",
+      "size": "10533",
+      "md5": "c1646239e745e87a4f63ed0cb32fa3e7",
+      "crc32": "a008fddc",
+      "sha1": "b5c447f86e5334b629602e65e5258d52e6887c67"
+    },
+    {
+      "name": "kcrg-2022-07-13T12:15:35.458520-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657732538",
+      "size": "39809",
+      "md5": "a85c4306b01c4420ce89e42ef4e4d369",
+      "crc32": "bc7a3e3f",
+      "sha1": "a08b7b20f87e338208a96ae9b2ade5a2345afda1",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-07-13T12:15:35.458520-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657732541",
+      "size": "40013",
+      "md5": "8a76d867bce63544058d2f622affbded",
+      "crc32": "149f6855",
+      "sha1": "5bd0afffb6fd2528e838326f74c01a05837b238b",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-07-13T12:15:35.458520-05:00.jpg",
+      "source": "original",
+      "mtime": "1657732537",
+      "size": "336910",
+      "md5": "8b25cf4cbfdfe59eeef6b7c63c6fe969",
+      "crc32": "6148d7e8",
+      "sha1": "8f9e507dbb16dffe5c0c3be8162634d1a0b2e441",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-07-13T12:15:35.458520-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-07-13T12:15:35.458520-05:00.jpg",
+      "mtime": "1657732601",
+      "size": "10443",
+      "md5": "889baf88bf3072d0ef9b4831859cd447",
+      "crc32": "0e69e7e9",
+      "sha1": "cb95427ef040138f2bbd0d23bff8e450a07742d8"
+    },
+    {
       "name": "kcrg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2eed64d27ca3f5e62906b6b78138c36ec1c33900",
-      "mtime": "1657679125",
-      "size": "127852",
-      "md5": "ad0a061ec07a52e6d591bb223f87e91e",
-      "crc32": "be5b0999",
-      "sha1": "ddf5ce576c242920900e755a37edee89efc74561",
+      "btih": "19625a15e1bfc850abbd73aadaa0dfa69972ff18",
+      "mtime": "1657732611",
+      "size": "129500",
+      "md5": "bf9f885b9b60ce90a29bc98efcf2f8e7",
+      "crc32": "238943c0",
+      "sha1": "74f559bae46ba959241540df98857ca33a454135",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ceae03d17b91d0090e61a76166ab4a40",
+      "md5": "b583fc0948e94c37d856b41697a899be",
       "summation": "md5"
     },
     {
       "name": "kcrg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657679008",
-      "size": "704512",
-      "md5": "131816a6d65725fbb46b0342f3180aac",
-      "crc32": "08073f9b",
-      "sha1": "d43f38e1963f0224227fae79cb62836238733567",
+      "mtime": "1657732545",
+      "size": "712704",
+      "md5": "ca1cffeb25d1f9001a35272aa28426c2",
+      "crc32": "ff0098b6",
+      "sha1": "70e09cb9a5f39e4fa63f2f9d910e7ed05e435c0c",
       "format": "Metadata"
     },
     {
@@ -6456,9 +6540,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 614,
-  "item_last_updated": 1657679125,
-  "item_size": 63136883,
+  "files_count": 622,
+  "item_last_updated": 1657732611,
+  "item_size": 64008644,
   "kcrg-2022": [
     {
       "text": "Skip to content",
@@ -6493,7 +6577,7 @@
       "url": "/"
     },
     {
-      "text": "70\u00b0Cedar Rapids, IA",
+      "text": "79\u00b0Cedar Rapids, IA",
       "url": "/weather/"
     },
     {
@@ -6737,11 +6821,99 @@
       "url": "https://www.youtube.com/user/kcrgdotcom"
     },
     {
-      "text": "Firefighters extinguish garage fire in SW Cedar RapidsThe fire not only affected the garage, which was a complete loss, but also the owner\u2019s home.",
-      "url": "/2022/07/13/firefighters-extinguish-garage-fire-sw-cedar-rapids/"
+      "text": "ALERT: Lyric & Elizabeth: Ten Years Later",
+      "url": "/2022/07/13/lyric-elizabeth-ten-years-later/"
+    },
+    {
+      "text": " Lyric Cook-Morrissey\u2019s mom: \u2018I do want to move on with my life\u2019Misty Cook said the pain of losing her daughter and niece along with the suspicion directed at her led her to self-destruct.",
+      "url": "/2022/07/13/mother-murdered-black-hawk-co-cousin-i-do-want-move-with-my-life/"
     },
     {
       "text": "",
+      "url": "/2022/07/13/mother-murdered-black-hawk-co-cousin-i-do-want-move-with-my-life/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/13/3-injured-wednesday-morning-house-explosion-le-mars-ia/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/13/3-injured-wednesday-morning-house-explosion-le-mars-ia/"
+    },
+    {
+      "text": "3 injured in Wednesday morning house explosion in Le Mars, IA",
+      "url": "/2022/07/13/3-injured-wednesday-morning-house-explosion-le-mars-ia/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/13/iowa-hawkeye-helps-change-tire-woman-stranded/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/13/iowa-hawkeye-helps-change-tire-woman-stranded/"
+    },
+    {
+      "text": " Iowa Hawkeye helps change tire for woman stranded",
+      "url": "/2022/07/13/iowa-hawkeye-helps-change-tire-woman-stranded/"
+    },
+    {
+      "text": "",
+      "url": "/sponsored/tom-riley-law-firm/class-action-lawsuits-you-an-explainer-peter-riley/"
+    },
+    {
+      "text": " Class action lawsuits and you, an explainer from Peter Riley",
+      "url": "/sponsored/tom-riley-law-firm/class-action-lawsuits-you-an-explainer-peter-riley/"
+    },
+    {
+      "text": "National",
+      "url": "/2022/07/13/surging-gas-prices-likely-drove-us-inflation-40-year-high/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/13/surging-gas-prices-likely-drove-us-inflation-40-year-high/"
+    },
+    {
+      "text": " US inflation reached a new 40-year high in June of 9.1% ",
+      "url": "/2022/07/13/surging-gas-prices-likely-drove-us-inflation-40-year-high/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/13/new-bbq-restaurant-open-cascade-august/"
+    },
+    {
+      "text": " New BBQ restaurant to open in Cascade in August",
+      "url": "/2022/07/13/new-bbq-restaurant-open-cascade-august/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/13/iowa-city-revert-downtown-pick-up-drop-off-spaces-metered-parking/"
+    },
+    {
+      "text": "Iowa City to revert downtown pick-up and drop-off spaces to metered parking",
+      "url": "/2022/07/13/iowa-city-revert-downtown-pick-up-drop-off-spaces-metered-parking/"
+    },
+    {
+      "text": "Politics",
+      "url": "/2022/07/13/filing-period-iowa-non-party-political-organizations-begins-aug-8-general-election/"
+    },
+    {
+      "text": "Filing period for Iowa non-party political organizations begins Aug. 8 for General Election",
+      "url": "/2022/07/13/filing-period-iowa-non-party-political-organizations-begins-aug-8-general-election/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/13/east-dubuque-teen-delivers-free-resources-those-need-with-trailer/"
+    },
+    {
+      "text": " East Dubuque teen delivers free resources to those in need with trailer",
+      "url": "/2022/07/13/east-dubuque-teen-delivers-free-resources-those-need-with-trailer/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/13/firefighters-extinguish-garage-fire-sw-cedar-rapids/"
+    },
+    {
+      "text": "Firefighters extinguish garage fire in SW Cedar Rapids",
       "url": "/2022/07/13/firefighters-extinguish-garage-fire-sw-cedar-rapids/"
     },
     {
@@ -6749,19 +6921,55 @@
       "url": "/2022/07/13/cedar-rapids-plans-buy-annex-building-25-million/"
     },
     {
-      "text": "",
-      "url": "/2022/07/13/cedar-rapids-plans-buy-annex-building-25-million/"
-    },
-    {
       "text": " Cedar Rapids plans to buy annex building for $2.5 Million",
       "url": "/2022/07/13/cedar-rapids-plans-buy-annex-building-25-million/"
     },
     {
-      "text": "Iowa",
-      "url": "/2022/07/12/iowa-officials-warn-fentanyl-fake-pills-growing-alarming-rate/"
+      "text": "",
+      "url": "/weather/radar/#click-through-url"
     },
     {
-      "text": "",
+      "text": "LATEST VIDEO",
+      "url": "/video/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/13/iowa-hawkeye-football-player-helps-woman-change-flat-tire/"
+    },
+    {
+      "text": "Iowa Hawkeye football player helps woman change flat tire",
+      "url": "/video/2022/07/13/iowa-hawkeye-football-player-helps-woman-change-flat-tire/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/13/iowa-state-des-moines-community-college-team-up-transfer-program/"
+    },
+    {
+      "text": "Iowa State, Des Moines community college team up for transfer program",
+      "url": "/video/2022/07/13/iowa-state-des-moines-community-college-team-up-transfer-program/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/13/new-bbq-restaurant-open-cascade-august/"
+    },
+    {
+      "text": "New BBQ restaurant to open in Cascade in August",
+      "url": "/video/2022/07/13/new-bbq-restaurant-open-cascade-august/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/13/group-tama-county-sues-over-wind-turbine-projects/"
+    },
+    {
+      "text": "Group in Tama County sues over wind turbine projects",
+      "url": "/video/2022/07/13/group-tama-county-sues-over-wind-turbine-projects/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
+      "text": "Iowa",
       "url": "/2022/07/12/iowa-officials-warn-fentanyl-fake-pills-growing-alarming-rate/"
     },
     {
@@ -6769,39 +6977,7 @@
       "url": "/2022/07/12/iowa-officials-warn-fentanyl-fake-pills-growing-alarming-rate/"
     },
     {
-      "text": "ExpertsInMoney.co",
-      "url": "https://prod-use.perf-serving.com/click/w3_mZMDgXoo52n9vbToA89iHoc3LumGnYclkmDZIvbnARdaEP1KT8-hj_xA9svrZEKrWvA9b0hRUA5wZoS_koc61SiiMTOqdCpKhoegX61raZlQLl4907wZlfxNkxkDm0rG3oANMZ-3p5TK0k9PHWyB390gmcIus3GH0mcKToyBNkl3yNp6o2wyH6DwgSxMXFFL4tbgBOmEaI9wgcVFbvD3lF8PbjIlIcdzfTlFlwpqaISRrXJxWfO25hshasDbA_Es-KejKWOc0z1ntlLFZ64D-QOe-6WhS0q155JjrapJz4Cw514J4_IPH3PUa42OaT-muwOTWC27FI-qKyUnODJvCpvM4YEfdiQ5qD4uLqpp59q5hWtZo4TTC5PKAdEEo4U2tjFZRElrM6lv0ce9kR5IJWy2ZlXG7Gz7EpdHunLMK7DRRaZyy9LHqKy9nh-20chfYyFJ14RyZxANZRd-jAJmyoppNuU2PbAAiXTQ7Q8DZ_1kxouMJVv-SH9buo_cvgknHcdP5cY5xyPXhg1287I-nf1J0n3_U5ByNq6d0MSjNqy-NkR8fvynVXFEey76ytprh0bvhfm4E0FbX4dBIG_7TyxnpYh4I9yvYJwjDzu09JmxF2kRQ-bASy-Lpp1eEmCkaM6hnYE1dERNYFRgMSIJRzRGrgFSTr7RiB-ofN4jJmYF92Rtyzz2LAgCBziXL7mc6ueFp4ZnajljkxifNozX_KSJ5UDwzP--ow8yOiaYgF08hya8iGGYsjBAZPS6kNo6q3JZm-BnftSPKneoI4acNZz0gqiAatYJu5fFpvMFO2VzVffUW64K_q6m9qEDjt88n-fax1MTPeMNkaaEYBfJ8wj2ZWS24vFB-zv6TP2zeg-JyuaNaBQXq39yh1CO1VeeshmZWgozS1fmEf04HsjBjLZqX7v-LSsgSPoyMln6ydiKiJZIZEN5G4XWl0WtZUbQs8j4F_GIwzCBHj_gOSf5gb5bBy2EPKkXiazPlOjXKaC3-YDE5Ymnt3dTnzE5VrowwYn6dS69aJnDiCUN3yHxGy1q8mSf38TN9SRodjxEIKuux0kTCTLWYA4XQs30a2ZWeDdmNivj0jX3x2-7WWzUWcPjfgwU3GGFAubHdW7B90x0HhvBOCoua5Oi2LNsVWqf0pTYP1ZxpVYJj1-uc8AZRCC1FGgH1ZbIo8ygbIlNXFwNNFMqV9WTpcAHgN_os8w///?utm_source=taboola&utm_medium=referral&tblci=GiD0d5jMw7fd91gKJkvVFvihHRbWJUKRWmDqIjFJSjix6iDLiUcolfq-qbvZ9fx4#tblciGiD0d5jMw7fd91gKJkvVFvihHRbWJUKRWmDqIjFJSjix6iDLiUcolfq-qbvZ9fx4"
-    },
-    {
-      "text": "Prime Is Now $139, But Few Know This Saving TrickExpertsInMoney.co|",
-      "url": "https://prod-use.perf-serving.com/click/w3_mZMDgXoo52n9vbToA89iHoc3LumGnYclkmDZIvbnARdaEP1KT8-hj_xA9svrZEKrWvA9b0hRUA5wZoS_koc61SiiMTOqdCpKhoegX61raZlQLl4907wZlfxNkxkDm0rG3oANMZ-3p5TK0k9PHWyB390gmcIus3GH0mcKToyBNkl3yNp6o2wyH6DwgSxMXFFL4tbgBOmEaI9wgcVFbvD3lF8PbjIlIcdzfTlFlwpqaISRrXJxWfO25hshasDbA_Es-KejKWOc0z1ntlLFZ64D-QOe-6WhS0q155JjrapJz4Cw514J4_IPH3PUa42OaT-muwOTWC27FI-qKyUnODJvCpvM4YEfdiQ5qD4uLqpp59q5hWtZo4TTC5PKAdEEo4U2tjFZRElrM6lv0ce9kR5IJWy2ZlXG7Gz7EpdHunLMK7DRRaZyy9LHqKy9nh-20chfYyFJ14RyZxANZRd-jAJmyoppNuU2PbAAiXTQ7Q8DZ_1kxouMJVv-SH9buo_cvgknHcdP5cY5xyPXhg1287I-nf1J0n3_U5ByNq6d0MSjNqy-NkR8fvynVXFEey76ytprh0bvhfm4E0FbX4dBIG_7TyxnpYh4I9yvYJwjDzu09JmxF2kRQ-bASy-Lpp1eEmCkaM6hnYE1dERNYFRgMSIJRzRGrgFSTr7RiB-ofN4jJmYF92Rtyzz2LAgCBziXL7mc6ueFp4ZnajljkxifNozX_KSJ5UDwzP--ow8yOiaYgF08hya8iGGYsjBAZPS6kNo6q3JZm-BnftSPKneoI4acNZz0gqiAatYJu5fFpvMFO2VzVffUW64K_q6m9qEDjt88n-fax1MTPeMNkaaEYBfJ8wj2ZWS24vFB-zv6TP2zeg-JyuaNaBQXq39yh1CO1VeeshmZWgozS1fmEf04HsjBjLZqX7v-LSsgSPoyMln6ydiKiJZIZEN5G4XWl0WtZUbQs8j4F_GIwzCBHj_gOSf5gb5bBy2EPKkXiazPlOjXKaC3-YDE5Ymnt3dTnzE5VrowwYn6dS69aJnDiCUN3yHxGy1q8mSf38TN9SRodjxEIKuux0kTCTLWYA4XQs30a2ZWeDdmNivj0jX3x2-7WWzUWcPjfgwU3GGFAubHdW7B90x0HhvBOCoua5Oi2LNsVWqf0pTYP1ZxpVYJj1-uc8AZRCC1FGgH1ZbIo8ygbIlNXFwNNFMqV9WTpcAHgN_os8w///?utm_source=taboola&utm_medium=referral&tblci=GiD0d5jMw7fd91gKJkvVFvihHRbWJUKRWmDqIjFJSjix6iDLiUcolfq-qbvZ9fx4#tblciGiD0d5jMw7fd91gKJkvVFvihHRbWJUKRWmDqIjFJSjix6iDLiUcolfq-qbvZ9fx4"
-    },
-    {
-      "text": "",
-      "url": "https://prod-use.perf-serving.com/click/w3_mZMDgXoo52n9vbToA89iHoc3LumGnYclkmDZIvbnARdaEP1KT8-hj_xA9svrZEKrWvA9b0hRUA5wZoS_koc61SiiMTOqdCpKhoegX61raZlQLl4907wZlfxNkxkDm0rG3oANMZ-3p5TK0k9PHWyB390gmcIus3GH0mcKToyBNkl3yNp6o2wyH6DwgSxMXFFL4tbgBOmEaI9wgcVFbvD3lF8PbjIlIcdzfTlFlwpqaISRrXJxWfO25hshasDbA_Es-KejKWOc0z1ntlLFZ64D-QOe-6WhS0q155JjrapJz4Cw514J4_IPH3PUa42OaT-muwOTWC27FI-qKyUnODJvCpvM4YEfdiQ5qD4uLqpp59q5hWtZo4TTC5PKAdEEo4U2tjFZRElrM6lv0ce9kR5IJWy2ZlXG7Gz7EpdHunLMK7DRRaZyy9LHqKy9nh-20chfYyFJ14RyZxANZRd-jAJmyoppNuU2PbAAiXTQ7Q8DZ_1kxouMJVv-SH9buo_cvgknHcdP5cY5xyPXhg1287I-nf1J0n3_U5ByNq6d0MSjNqy-NkR8fvynVXFEey76ytprh0bvhfm4E0FbX4dBIG_7TyxnpYh4I9yvYJwjDzu09JmxF2kRQ-bASy-Lpp1eEmCkaM6hnYE1dERNYFRgMSIJRzRGrgFSTr7RiB-ofN4jJmYF92Rtyzz2LAgCBziXL7mc6ueFp4ZnajljkxifNozX_KSJ5UDwzP--ow8yOiaYgF08hya8iGGYsjBAZPS6kNo6q3JZm-BnftSPKneoI4acNZz0gqiAatYJu5fFpvMFO2VzVffUW64K_q6m9qEDjt88n-fax1MTPeMNkaaEYBfJ8wj2ZWS24vFB-zv6TP2zeg-JyuaNaBQXq39yh1CO1VeeshmZWgozS1fmEf04HsjBjLZqX7v-LSsgSPoyMln6ydiKiJZIZEN5G4XWl0WtZUbQs8j4F_GIwzCBHj_gOSf5gb5bBy2EPKkXiazPlOjXKaC3-YDE5Ymnt3dTnzE5VrowwYn6dS69aJnDiCUN3yHxGy1q8mSf38TN9SRodjxEIKuux0kTCTLWYA4XQs30a2ZWeDdmNivj0jX3x2-7WWzUWcPjfgwU3GGFAubHdW7B90x0HhvBOCoua5Oi2LNsVWqf0pTYP1ZxpVYJj1-uc8AZRCC1FGgH1ZbIo8ygbIlNXFwNNFMqV9WTpcAHgN_os8w///?utm_source=taboola&utm_medium=referral&tblci=GiD0d5jMw7fd91gKJkvVFvihHRbWJUKRWmDqIjFJSjix6iDLiUcolfq-qbvZ9fx4#tblciGiD0d5jMw7fd91gKJkvVFvihHRbWJUKRWmDqIjFJSjix6iDLiUcolfq-qbvZ9fx4"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
-    },
-    {
-      "text": "Recommended by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
-    },
-    {
-      "text": "Recommended by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
-    },
-    {
       "text": "Iowa",
-      "url": "/2022/07/12/johnson-county-concludes-application-process-direct-assistance-program/"
-    },
-    {
-      "text": "",
       "url": "/2022/07/12/johnson-county-concludes-application-process-direct-assistance-program/"
     },
     {
@@ -6813,19 +6989,11 @@
       "url": "/2022/07/12/local-professors-talk-about-what-webb-telescope-images-mean-future-education/"
     },
     {
-      "text": "",
-      "url": "/2022/07/12/local-professors-talk-about-what-webb-telescope-images-mean-future-education/"
-    },
-    {
       "text": " Local professors talk about what Webb Telescope images mean for the future of education",
       "url": "/2022/07/12/local-professors-talk-about-what-webb-telescope-images-mean-future-education/"
     },
     {
-      "text": "Iowa",
-      "url": "/2022/07/13/i-want-bowl-right-up-until-time-undertaker-comes-me-cedar-rapids-bowler-still-rolling-strong-100-years-old/"
-    },
-    {
-      "text": "",
+      "text": "Sports",
       "url": "/2022/07/13/i-want-bowl-right-up-until-time-undertaker-comes-me-cedar-rapids-bowler-still-rolling-strong-100-years-old/"
     },
     {
@@ -6834,10 +7002,6 @@
     },
     {
       "text": "News",
-      "url": "/2022/07/12/jugglers-perform-boys-girls-club-part-75th-annual-festival/"
-    },
-    {
-      "text": "",
       "url": "/2022/07/12/jugglers-perform-boys-girls-club-part-75th-annual-festival/"
     },
     {
@@ -6867,50 +7031,6 @@
     {
       "text": " Alliant Energy\u2019s first solar garden coming to Cedar Rapids",
       "url": "/2022/07/12/alliant-energys-first-solar-garden-coming-cedar-rapids/"
-    },
-    {
-      "text": "",
-      "url": "/weather/radar/#click-through-url"
-    },
-    {
-      "text": "LATEST VIDEO",
-      "url": "/video/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/12/local-professors-talk-about-what-webb-telescope-images-mean-future-education/"
-    },
-    {
-      "text": "Local professors talk about what Webb Telescope images mean for the future of education",
-      "url": "/video/2022/07/12/local-professors-talk-about-what-webb-telescope-images-mean-future-education/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/12/jugglers-perform-boys-girls-club-part-th-annual-festival/"
-    },
-    {
-      "text": "Jugglers perform for Boys and Girls Club as part of 75th annual festival",
-      "url": "/video/2022/07/12/jugglers-perform-boys-girls-club-part-th-annual-festival/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/12/counterfeit-pills-growing-iowa/"
-    },
-    {
-      "text": "Counterfeit pills growing in Iowa",
-      "url": "/video/2022/07/12/counterfeit-pills-growing-iowa/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/12/independence-holding-special-election-find-new-mayor/"
-    },
-    {
-      "text": "Independence holding special election to find new mayor",
-      "url": "/video/2022/07/12/independence-holding-special-election-find-new-mayor/"
-    },
-    {
-      "text": "MORE NEWS",
-      "url": "/news/"
     },
     {
       "text": "National",
@@ -6943,6 +7063,10 @@
     {
       "text": " Volunteers needed for traveling memorial coming to Tama",
       "url": "/2022/07/12/volunteers-needed-traveling-memorial-coming-tama/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
     },
     {
       "text": "Iowa",
@@ -7009,10 +7133,6 @@
       "url": "/2022/07/12/cedar-falls-police-investigate-dog-attack/"
     },
     {
-      "text": "MORE NEWS",
-      "url": "/news/"
-    },
-    {
       "text": "News",
       "url": "/2022/07/11/search-justice-continues-decade-after-cousins-abducted-murdered/"
     },
@@ -7029,68 +7149,92 @@
       "url": "/2022/07/11/adair-county-sheriffs-office-find-human-remains/"
     },
     {
-      "text": "Iowa",
-      "url": "/2022/07/12/cedar-rapids-woman-injured-by-train/"
+      "text": "ExpertsInMoney.co",
+      "url": "https://prod-use.perf-serving.com/click/mN1_bXzjA1_IXvYonVHWm_eDOQnMcFqe31FOTKVgIleMzo_f5w72PtO5gNdMj2rJrcOsQprJ39KzPogkd_uzh7aP5mI3DKx2_mgn-_Xw78tn1_b6DbdLyQv3Yhs-KiVBSulrn0uIUVTWTpYuDA-XsuBmV-CPq7lOp7Lne-Tbhl1QSNnsF7n0tAf97s2zQJ53SYLZEbmU5qRbWVWIDdL8gINxPTeycpdGdZhF0YXY1GklKE31S3Herz_U8YYUvdeF4qzgSYRN61yKMqYZQrg3ZfwJGNnL8OwQfHQhr6ZWAZ3UfxehXVx6AajQaN74HnESthePdcSbv9zZmjRYnGAi4FV03lS3tB-QeBfAxrnDSwMjp9-7aQZSex3J8Wj8UuxVm8A-XQsUd3oaB5GFvEC7cqEYxk57LRi7HTY-hzBjYBIpui9kgBnsQqeDaITOWqiqtY7oLID0ZUcTSb_M1pMCUo3MLm2eU9z0PKKjXG0TdUJPSt53JaIxuM1bePrjfkLiS0P-gF3sh8qSlkWgYJD8-iRyFCB-Lz9-lt4aX6fg3Qv5qc0S7b3opprXzWhbcAKEHaCd_vQ0C8mEkQxtAQPTuxNrnUwUtJhp4AWfHE9H69eRHESf8MVfwZgSQSItsQXaAqlURwevturx7Z3hZwtz8650Am4DaBUpJJbF2PWOMT9K5bBmtnHcfYsBHrJzP0dnzjnR8Xmr5k8bCt93NqFFR1vJTpzyjNb8n-qY_4rSxB3giLRgoGV3wa7wbSwj6lQ9HHxptYiBhNmOP5c9I2TQ5RyoDAeqsDCkOGnyBmp7iiHfmubWTCop-uVUd1Sn0eGgQgf6CiD8UeUGu09BxxxLS-lAu1yoZ2c2HxYLOAOYEOGBUoXfHrkLSuf3PV4z2xLwKz-RkmLVVrDGK-8XLRDf1-PYKrca3xf5imPF2obZRAWVVdRPnsYBuKAf19WQ0P9Vj-LyNy7fCshFHzQZZy-8uA-c-Iod7noWPCbJ17ooMxYJ_K3GgF6EnwYv0IMWIzFfBtB2FSdSdSn8I6haoASSmLr8hoqIFU9ut4a_hKOEbpz8G_IV0U4IqdHn-P3abRpWIYdK-s_9xs7z74Gs-K9MA9pUY5qylPC1aXX3X7u7fy7jZC3uD_h527_TSyvM4qhm9CcDjx1Lq3INjIaLRCAhAmzmih9OdB3Sr7FeSSlcNzbBOT3HufsTR4FqnRvbb0INvQ///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUcopaqJ3NPG7uqKAQ#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUcopaqJ3NPG7uqKAQ"
     },
     {
-      "text": "Cedar Rapids woman injured by train",
-      "url": "/2022/07/12/cedar-rapids-woman-injured-by-train/"
+      "text": "Prime Is Now $139, But Few Know This Saving TrickExpertsInMoney.co",
+      "url": "https://prod-use.perf-serving.com/click/mN1_bXzjA1_IXvYonVHWm_eDOQnMcFqe31FOTKVgIleMzo_f5w72PtO5gNdMj2rJrcOsQprJ39KzPogkd_uzh7aP5mI3DKx2_mgn-_Xw78tn1_b6DbdLyQv3Yhs-KiVBSulrn0uIUVTWTpYuDA-XsuBmV-CPq7lOp7Lne-Tbhl1QSNnsF7n0tAf97s2zQJ53SYLZEbmU5qRbWVWIDdL8gINxPTeycpdGdZhF0YXY1GklKE31S3Herz_U8YYUvdeF4qzgSYRN61yKMqYZQrg3ZfwJGNnL8OwQfHQhr6ZWAZ3UfxehXVx6AajQaN74HnESthePdcSbv9zZmjRYnGAi4FV03lS3tB-QeBfAxrnDSwMjp9-7aQZSex3J8Wj8UuxVm8A-XQsUd3oaB5GFvEC7cqEYxk57LRi7HTY-hzBjYBIpui9kgBnsQqeDaITOWqiqtY7oLID0ZUcTSb_M1pMCUo3MLm2eU9z0PKKjXG0TdUJPSt53JaIxuM1bePrjfkLiS0P-gF3sh8qSlkWgYJD8-iRyFCB-Lz9-lt4aX6fg3Qv5qc0S7b3opprXzWhbcAKEHaCd_vQ0C8mEkQxtAQPTuxNrnUwUtJhp4AWfHE9H69eRHESf8MVfwZgSQSItsQXaAqlURwevturx7Z3hZwtz8650Am4DaBUpJJbF2PWOMT9K5bBmtnHcfYsBHrJzP0dnzjnR8Xmr5k8bCt93NqFFR1vJTpzyjNb8n-qY_4rSxB3giLRgoGV3wa7wbSwj6lQ9HHxptYiBhNmOP5c9I2TQ5RyoDAeqsDCkOGnyBmp7iiHfmubWTCop-uVUd1Sn0eGgQgf6CiD8UeUGu09BxxxLS-lAu1yoZ2c2HxYLOAOYEOGBUoXfHrkLSuf3PV4z2xLwKz-RkmLVVrDGK-8XLRDf1-PYKrca3xf5imPF2obZRAWVVdRPnsYBuKAf19WQ0P9Vj-LyNy7fCshFHzQZZy-8uA-c-Iod7noWPCbJ17ooMxYJ_K3GgF6EnwYv0IMWIzFfBtB2FSdSdSn8I6haoASSmLr8hoqIFU9ut4a_hKOEbpz8G_IV0U4IqdHn-P3abRpWIYdK-s_9xs7z74Gs-K9MA9pUY5qylPC1aXX3X7u7fy7jZC3uD_h527_TSyvM4qhm9CcDjx1Lq3INjIaLRCAhAmzmih9OdB3Sr7FeSSlcNzbBOT3HufsTR4FqnRvbb0INvQ///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUcopaqJ3NPG7uqKAQ#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUcopaqJ3NPG7uqKAQ"
     },
     {
-      "text": "Iowa",
-      "url": "/2022/07/11/gas-prices-decline-iowa-nationally/"
+      "text": "Online Shopping Tools",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=graytv-kcrg&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278718&campaign=19603838&click_id=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCD-_lMo7qaxmPW_k7F9&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCD-_lMo7qaxmPW_k7F9#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCD-_lMo7qaxmPW_k7F9"
     },
     {
-      "text": " Gas prices decline in Iowa and nationally",
-      "url": "/2022/07/11/gas-prices-decline-iowa-nationally/"
+      "text": "Amazon Left Scrambling As Shoppers Find Out About Secret DealsOnline Shopping Tools",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=graytv-kcrg&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278718&campaign=19603838&click_id=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCD-_lMo7qaxmPW_k7F9&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCD-_lMo7qaxmPW_k7F9#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCD-_lMo7qaxmPW_k7F9"
     },
     {
-      "text": "Iowa",
-      "url": "/2022/07/11/cedar-rapids-police-arrest-construction-burglary-suspect/"
+      "text": "Smart Lifestyle Trends",
+      "url": "https://prod-use.perf-serving.com/click/D7So25_eTplrSWdpc_1vkR8kLgrru6uEzCeq9CX2XOHmbnaqlU6KXIiKoaTCN85Jh73qQRojb5rcYg0G4_E5-TCPwhFMM-ckQNNAITPTdl52Pil7goRPsC7X1pZewcoOpDfofEsb-_rh7HRLAiLGNHGOeFem2XRyuY37EU62_DQAstnHRKwL6OfWSwCVXz2N9dREU1wDoiNMhgPPsZyP5S2WtqJp-5RXNJT2C6UOmAgQY8bIZ0XK-8X2IPCkgyYq6lqZZFWwtsMGSv8G0ugmJ70S02JhSLNMqOJoFpT0rt9oC8NVsPwvE8z0PBtifvDeVKSj032XL4i5RywVTQW9oh8IsBHZ9PZWkoswhkkRSeaUCkrYdX_fra7RgcXv96_FiaUOYfq2DZN383CxQsw8GOBZ6w_EQ5P0LpkOG-m6jfGSD85jyOkQDK6djPd3pdM5ANybesrXTt2ReC_WmVZ-I7K7GPuLmN4lnk6gtLIgny9C1whJw_BVQ2582vlWwFDfpMmBd-aVUth1piT0ZBG7YdqEuhY7-pu_4F_UJ6EZH6x9yeVOPpG-OmJbiXBy09mEHmSjF1iph5uSERcLcivCUoBlHPYtW4yz2-sz8wMcZKq_J1IOV1FP6h1QM-wgv2D-EBtN-H2a5u_0FjDBen-WfT4mrsPwjFKfyuoDZYlyh5v5Ys1XffjzBb59Nk9jlOVbt7neckdnBlW_EBLTa4vSM4pYmpamaMtI_UdqmoHudNrwFa7-vP5HGhk4g-sAiu7ty7Tx1B_x9Ek10eefVm0iFBzH_IOyyjWtW7xvwlSwtyG9AlHN-wZl1VAnH_fNUTRb6jvhCPR9Z_uYWO5fZXEeCXYlnjwvB8B5hhKdNxleNFCPNw1mTuQvyRb5jDm_T-dqCN3IDoz9U_6h33DMCRIXpALn-zLGOowvwt_wfHm3ZICyqAuMMmea12Osjdu3GZ6o3Qvx8KESoaOpVDbuMkfUFr4nfW4QLcszfie1jP67xd_OCe_OEjhOmA4z7e_955vRuH1oiK6qonuMB4N9Bl8954u22x5V60ExQvkDJOMMcRgr5nDKHCN3J6MhQ_w1Yh519PetCR_y4UayEV5BdAkde5Tc1cgO5pfQspq7lj386RkG_gGaoa_HswVvp4sfnys3kIYPlfm6RjLZLp_7TJUsu8y9BcPTB_3ozRoyq53ZNtNoPbFLML8ppQcrwVmYFdWTDTb3Fg///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco07aW3NbeuqRL#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco07aW3NbeuqRL"
     },
     {
-      "text": "Cedar Rapids Police arrest construction burglary suspect",
-      "url": "/2022/07/11/cedar-rapids-police-arrest-construction-burglary-suspect/"
+      "text": "Texas: Say Bye to Your Car Insurance if You Live in These Zip CodesSmart Lifestyle Trends",
+      "url": "https://prod-use.perf-serving.com/click/D7So25_eTplrSWdpc_1vkR8kLgrru6uEzCeq9CX2XOHmbnaqlU6KXIiKoaTCN85Jh73qQRojb5rcYg0G4_E5-TCPwhFMM-ckQNNAITPTdl52Pil7goRPsC7X1pZewcoOpDfofEsb-_rh7HRLAiLGNHGOeFem2XRyuY37EU62_DQAstnHRKwL6OfWSwCVXz2N9dREU1wDoiNMhgPPsZyP5S2WtqJp-5RXNJT2C6UOmAgQY8bIZ0XK-8X2IPCkgyYq6lqZZFWwtsMGSv8G0ugmJ70S02JhSLNMqOJoFpT0rt9oC8NVsPwvE8z0PBtifvDeVKSj032XL4i5RywVTQW9oh8IsBHZ9PZWkoswhkkRSeaUCkrYdX_fra7RgcXv96_FiaUOYfq2DZN383CxQsw8GOBZ6w_EQ5P0LpkOG-m6jfGSD85jyOkQDK6djPd3pdM5ANybesrXTt2ReC_WmVZ-I7K7GPuLmN4lnk6gtLIgny9C1whJw_BVQ2582vlWwFDfpMmBd-aVUth1piT0ZBG7YdqEuhY7-pu_4F_UJ6EZH6x9yeVOPpG-OmJbiXBy09mEHmSjF1iph5uSERcLcivCUoBlHPYtW4yz2-sz8wMcZKq_J1IOV1FP6h1QM-wgv2D-EBtN-H2a5u_0FjDBen-WfT4mrsPwjFKfyuoDZYlyh5v5Ys1XffjzBb59Nk9jlOVbt7neckdnBlW_EBLTa4vSM4pYmpamaMtI_UdqmoHudNrwFa7-vP5HGhk4g-sAiu7ty7Tx1B_x9Ek10eefVm0iFBzH_IOyyjWtW7xvwlSwtyG9AlHN-wZl1VAnH_fNUTRb6jvhCPR9Z_uYWO5fZXEeCXYlnjwvB8B5hhKdNxleNFCPNw1mTuQvyRb5jDm_T-dqCN3IDoz9U_6h33DMCRIXpALn-zLGOowvwt_wfHm3ZICyqAuMMmea12Osjdu3GZ6o3Qvx8KESoaOpVDbuMkfUFr4nfW4QLcszfie1jP67xd_OCe_OEjhOmA4z7e_955vRuH1oiK6qonuMB4N9Bl8954u22x5V60ExQvkDJOMMcRgr5nDKHCN3J6MhQ_w1Yh519PetCR_y4UayEV5BdAkde5Tc1cgO5pfQspq7lj386RkG_gGaoa_HswVvp4sfnys3kIYPlfm6RjLZLp_7TJUsu8y9BcPTB_3ozRoyq53ZNtNoPbFLML8ppQcrwVmYFdWTDTb3Fg///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco07aW3NbeuqRL#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco07aW3NbeuqRL"
     },
     {
-      "text": "Iowa",
-      "url": "/2022/07/08/an-iowa-towns-school-burnt-ground-dedicated-residents-are-bringing-it-back/"
+      "text": "Smart Lifestyle Trends",
+      "url": "https://prod-use.perf-serving.com/click/MiymR_BJtAYKyeMP8Pj3DGGzIHz6MgE8AoCjxhnRjdzvq_So3AXLOLqdphHydMQdb1AoGf0OFtFQpGAD8VtdfR93h1Jyj486KzME1I2tk9hf6OtRlltwVHSBm43oBqVVwhwgoICZpAm_pqM--HhQO4qOqkV_hNwpvTCm5izJLzw9hVGcDt3wm6bXKrAzd1MC33vlM2fEzXASJ75xWxMJAx3znr8nkW7-PCanJflOXa4rjQDCYww4fEJe0HMTHvD8w_blDGImWDTPJhyShHV3Vcgb2p8aVQpSD775S09MHxqwfNKl9myS6UMx06PWhaHkQHWEXyxndzQNfn6c_aHEwi9HyvAd3Cz1iln-wTB4G8cWinoPxDKzpeT7srIuKatg4Yh5SL9HE3KH2rFf8g9N7CnLV-rErvZwJ7VHanz9B8NVx6rj6NQhJtHor4tRSbJ52ajheRP1hbvF5KM33HPZW7XlHsSSMA1AH2WyCfaeDJuPjTkvICWOKoyTbWCZgLDt1U6Mn_sRQHBIjonoaNXTjrlr1pVxbVcWzrUYVllD5dP4hJtjwpUdSANys697fgN2PVrUzXDMe1cAVm-HFvseMT0NVP4j0ubAp9F6XQkuJ_NtWuE2GTmQ2K0HwEoSSnlgkertMWDs_6XnXHJ7ZnZhVGpsGMj3oUVfmjj10-h3KEpZhxjnfl16zBjqOrD9tTxKCcG69GcwQ-BvnURwgj3PYJYUOZbrmteC5YbL50aPtU9ndNDpH-MtfblwFdTAkz-GB14TrT65dUe2Ulw5mS2iQBdSQhZFAb5ztHtEvIWydVg3iR_5dLf4vRruqGEpitwCZ_KGlqkJu8_LUOtiFgW6QlDp3Qa1boPgymxKhW6NORFEQAoZcT6-keGV6gEZsnStJovnYm-ZL7ue6k7ld8nfbmq5ruT3FY7CVZa792ztch2I8fkrgj4lqHj_X9hGhmjGCVuhnDa7s8J6yXWJqUUlFIMk92FkFuDOKR6Od8tn00KnSBK1Oy1Ab71j4fr178JVMQYTSpOtmdS03n6awkFahOZYv7Au8VfFdYXCDuXkZp8_XCDYHxU_dJ04YWNW4h-jt9jURQ1Z6LxCrV5fKgbQXhP1vmDyTPt8zaCNF8h7zdBWvgzXlRkMNbfazfckmzEEcFQkRO6PuqT0RAtpcdEF4kLYiPjAvp2dE8MhXO0qnDDRePd2uP2iuCLAYwqK1CrMM1M2q3c///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUcoj6nol-ew99VF#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUcoj6nol-ew99VF"
     },
     {
-      "text": "An Iowa town\u2019s school burnt to the ground \u2014 dedicated residents are bringing it back",
-      "url": "/2022/07/08/an-iowa-towns-school-burnt-ground-dedicated-residents-are-bringing-it-back/"
+      "text": "Texas Seniors with No Life Insurance Get a $250k Policy for $18/monthSmart Lifestyle Trends",
+      "url": "https://prod-use.perf-serving.com/click/MiymR_BJtAYKyeMP8Pj3DGGzIHz6MgE8AoCjxhnRjdzvq_So3AXLOLqdphHydMQdb1AoGf0OFtFQpGAD8VtdfR93h1Jyj486KzME1I2tk9hf6OtRlltwVHSBm43oBqVVwhwgoICZpAm_pqM--HhQO4qOqkV_hNwpvTCm5izJLzw9hVGcDt3wm6bXKrAzd1MC33vlM2fEzXASJ75xWxMJAx3znr8nkW7-PCanJflOXa4rjQDCYww4fEJe0HMTHvD8w_blDGImWDTPJhyShHV3Vcgb2p8aVQpSD775S09MHxqwfNKl9myS6UMx06PWhaHkQHWEXyxndzQNfn6c_aHEwi9HyvAd3Cz1iln-wTB4G8cWinoPxDKzpeT7srIuKatg4Yh5SL9HE3KH2rFf8g9N7CnLV-rErvZwJ7VHanz9B8NVx6rj6NQhJtHor4tRSbJ52ajheRP1hbvF5KM33HPZW7XlHsSSMA1AH2WyCfaeDJuPjTkvICWOKoyTbWCZgLDt1U6Mn_sRQHBIjonoaNXTjrlr1pVxbVcWzrUYVllD5dP4hJtjwpUdSANys697fgN2PVrUzXDMe1cAVm-HFvseMT0NVP4j0ubAp9F6XQkuJ_NtWuE2GTmQ2K0HwEoSSnlgkertMWDs_6XnXHJ7ZnZhVGpsGMj3oUVfmjj10-h3KEpZhxjnfl16zBjqOrD9tTxKCcG69GcwQ-BvnURwgj3PYJYUOZbrmteC5YbL50aPtU9ndNDpH-MtfblwFdTAkz-GB14TrT65dUe2Ulw5mS2iQBdSQhZFAb5ztHtEvIWydVg3iR_5dLf4vRruqGEpitwCZ_KGlqkJu8_LUOtiFgW6QlDp3Qa1boPgymxKhW6NORFEQAoZcT6-keGV6gEZsnStJovnYm-ZL7ue6k7ld8nfbmq5ruT3FY7CVZa792ztch2I8fkrgj4lqHj_X9hGhmjGCVuhnDa7s8J6yXWJqUUlFIMk92FkFuDOKR6Od8tn00KnSBK1Oy1Ab71j4fr178JVMQYTSpOtmdS03n6awkFahOZYv7Au8VfFdYXCDuXkZp8_XCDYHxU_dJ04YWNW4h-jt9jURQ1Z6LxCrV5fKgbQXhP1vmDyTPt8zaCNF8h7zdBWvgzXlRkMNbfazfckmzEEcFQkRO6PuqT0RAtpcdEF4kLYiPjAvp2dE8MhXO0qnDDRePd2uP2iuCLAYwqK1CrMM1M2q3c///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUcoj6nol-ew99VF#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUcoj6nol-ew99VF"
     },
     {
-      "text": "National",
-      "url": "/2022/07/11/biden-celebration-new-gun-law-clouded-by-latest-shooting/"
+      "text": "Smart Lifestyle Trends",
+      "url": "https://prod-use.perf-serving.com/click/RFhdzdbprcPtKG5RKQAZ723u-XcN_JAzmFCKBB_PosUL0QS6D_5kD5xSYFqX6X6g9Jlp66SksM_3J3Y-Cbx_EmmMtH5OvytkpimMD1mlJ8-FEhZMZTHc-GMB_Y4l48qoBVNbtap8kg_hTmCxjZLh11aTdPm6kHSDmYrCHUf54amwFD9sRvJp47bVHnbp_2uWQEn2fBFXnXApK18Fp99aqvH84cqm93gta3xvwEaIlOF8dp0D3K0PgO9cPWARFWdPYIEJQbsvywCR19j7dhbUMDu4FIKSQzHZCoqe2Hzid3zu-1fwlPaejIzWhdPJ-eLuQqa5bayuD3GMsYZhXTtvupNpAEC2f1qkDdCNsi72pqRedbJAYDujaPtsXmJYm1_LAgMDQfZsJrC0YGRscB3wqBh3ZQbmDUQkgY1OasVtF_u9sYjxHmPW_0AA1EP42JSURj5rKnbmsKpqyoHm_UkjLD7W3G82DKHyFEAGv2w_CdwaE22rcE4aJjJrhqUUXGB3vOOLUchEAuCVN-WEPBcdmVnJhuFJHWSiQe0VSRrFIFPp9cbUtY3TufxCRuQW27r47YSMDIQJuSldSI4H4v7fsbwZkAi1Cvsu0F1WXl0eXhdzzBU-i8kazPIm8KR_0xjmYyWsZWwzHzVsE1ax0EXv7zkf1MOe2Wls6vallCGm1peMFUtv4UL_4Y-t37-2BrV5JZ2bbOvTeW8EQFw744wrN67fZm6Acy6yhEpup34cFkybIFDZloo-aB4LgBpkkRjCGWCKN5HK9kXKp4rNyAZfOrrrA5QUCVMjEaaR-nkoOlXGCav8ggkZbtmfgS9VMFu9hkuJUVJclhhebgwjD0So5WXEKIKFQPcJXYCI1P-qC1fxn3y9mOJo0HLZEqXBy5gA0V8UXlfYyEqoYNnK2BvBur7hY1xThFqSLLc9d851qvV98vt6sd-S6ChZOOSeDQaEm-vJKueZBf2hikZvUufOrZfw_Km_5nQrwT1jjjRKHXJO-BRo-SlRZFU0_YQltpiiI4PrV-WSUKBkZ2TkzaQsfW_IKIrurYlxANDmh-bZhqPx_M1dxqLyUWD_WY5uOFgUU5SyFZaNQAb5El98x98GLC1foqGHGE91AyH_SXSPixiqX1G_u7_iDgXGu0agkYjUgK4VjL6ryQTLCkISrDVgW8qHAs6zVf9WZqekUWf0xNOiPAXvqbQ2AU11ajOuRF9ui2ka///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco842R3NfvkLyBAQ#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco842R3NfvkLyBAQ"
     },
     {
-      "text": " Biden\u2019s celebration of new gun law clouded by latest shooting",
-      "url": "/2022/07/11/biden-celebration-new-gun-law-clouded-by-latest-shooting/"
+      "text": "Texas Will Cover Homeowners Cost to Install Solar & Battery BackupSmart Lifestyle Trends",
+      "url": "https://prod-use.perf-serving.com/click/RFhdzdbprcPtKG5RKQAZ723u-XcN_JAzmFCKBB_PosUL0QS6D_5kD5xSYFqX6X6g9Jlp66SksM_3J3Y-Cbx_EmmMtH5OvytkpimMD1mlJ8-FEhZMZTHc-GMB_Y4l48qoBVNbtap8kg_hTmCxjZLh11aTdPm6kHSDmYrCHUf54amwFD9sRvJp47bVHnbp_2uWQEn2fBFXnXApK18Fp99aqvH84cqm93gta3xvwEaIlOF8dp0D3K0PgO9cPWARFWdPYIEJQbsvywCR19j7dhbUMDu4FIKSQzHZCoqe2Hzid3zu-1fwlPaejIzWhdPJ-eLuQqa5bayuD3GMsYZhXTtvupNpAEC2f1qkDdCNsi72pqRedbJAYDujaPtsXmJYm1_LAgMDQfZsJrC0YGRscB3wqBh3ZQbmDUQkgY1OasVtF_u9sYjxHmPW_0AA1EP42JSURj5rKnbmsKpqyoHm_UkjLD7W3G82DKHyFEAGv2w_CdwaE22rcE4aJjJrhqUUXGB3vOOLUchEAuCVN-WEPBcdmVnJhuFJHWSiQe0VSRrFIFPp9cbUtY3TufxCRuQW27r47YSMDIQJuSldSI4H4v7fsbwZkAi1Cvsu0F1WXl0eXhdzzBU-i8kazPIm8KR_0xjmYyWsZWwzHzVsE1ax0EXv7zkf1MOe2Wls6vallCGm1peMFUtv4UL_4Y-t37-2BrV5JZ2bbOvTeW8EQFw744wrN67fZm6Acy6yhEpup34cFkybIFDZloo-aB4LgBpkkRjCGWCKN5HK9kXKp4rNyAZfOrrrA5QUCVMjEaaR-nkoOlXGCav8ggkZbtmfgS9VMFu9hkuJUVJclhhebgwjD0So5WXEKIKFQPcJXYCI1P-qC1fxn3y9mOJo0HLZEqXBy5gA0V8UXlfYyEqoYNnK2BvBur7hY1xThFqSLLc9d851qvV98vt6sd-S6ChZOOSeDQaEm-vJKueZBf2hikZvUufOrZfw_Km_5nQrwT1jjjRKHXJO-BRo-SlRZFU0_YQltpiiI4PrV-WSUKBkZ2TkzaQsfW_IKIrurYlxANDmh-bZhqPx_M1dxqLyUWD_WY5uOFgUU5SyFZaNQAb5El98x98GLC1foqGHGE91AyH_SXSPixiqX1G_u7_iDgXGu0agkYjUgK4VjL6ryQTLCkISrDVgW8qHAs6zVf9WZqekUWf0xNOiPAXvqbQ2AU11ajOuRF9ui2ka///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco842R3NfvkLyBAQ#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco842R3NfvkLyBAQ"
     },
     {
-      "text": "Iowa",
-      "url": "/2022/07/11/sioux-city-man-arrested-after-incident-outside-singing-hills-walmart/"
+      "text": "Ear Today",
+      "url": "https://prod-use.perf-serving.com/click/UIEw5h8NloxuCc6WMH46oGtmLFlxObFRE_OItOTKJUYQS9qVnpgzALzO8XeHdZQYYGzkxtDgHzVkEh2fOvk8cpQtwKfXiMettpCOhyIatE1Jn1Q6mrIWaVkDnFBePP2jG39FN6mg3MLxid156wCnh48OX8uJ75CmhDQp0SmWLoeuURHxMvCXm_HwLMGsdlYZe2uay7tpNOoFJ8bUpc1qO8YPpQ7XPbAvlubgV9Hz-e_M3TrtB8MJrTOuI46uL7Fiy7tNU5xq7e9jiNUba91LnoocRKueA7cQRew1wp3fIIkSmhbITu19lnFNlPyvbGP45QDyuIx_4NzXWC8VtV5vQ43DfTRvT80c-Ku2CxgRRM7rbZFDWXxbnGNwAM8cyCEycTOM2PDmd4b9AwQ3_3r1dAPnir9-WVSOXstlDDc8ldfH-E7RuN3Y85vSkWNY8OngVoWZUlSDC0NwQGMCgSGwdw8b-SfedJXuI--dehbcAaz9TwigrDkdlV0j7-m3a1g8K50gxE37LDYxZoAzAxuciF7yN719S8J646E-bAp2Rw1wuzbRdOMr50b6ATWpw7E-erRrmLN5CgjtGvd8LbB14SlH7vGnCum-LazSVwMRSIDpRmn-PVO4STTEyQWHk5NlsfmoHnP9u___uX2EjwVZ3-YE-yG3Rwe-SqbVmGvgyNhEZaglysS-pcvivfVZbKMakY7H4TvtseYNMfjdn7PRfo-PDILJPTChyrzN7kblcTAPO2VdT-Ae6gct98S_699gL1NyItjJtmboQVp_Qem6kpAI8ZB1SNsJyd7tGvomhzuwRtvXBG0FqqG6Vt9oEX7BK4rx2vdaQFLOgSYaptWmR2SjIon9hzmQ35XFUlx2eDa_d6rlUMvoh5PZpadbWzVF2SzPK_SyKRT959XQXXZRBuyN_GcECZtB5e5a8-NY_eKmVDpC-lcXp_SS945OvTNzEWYPktQt4YmwIY7437FQqhJAdWowyfChVgA6i6QOy8iBdlUWZvUV0_TQbsc8aA-a0PcAp9J6diDhZU88PTz813EdJgmhsqvzej2uO_naMfVXA9ovZ8FEkC6QBjXUQWlVNjnpMdNp5q0PqvWZ179tbqUW__O1pvrqBCtG8Buo00piCJ6tYj_HxkULkvfznwwaySf9MWoi0La9mHf1mFKpjZSrlyOJ42HHkc4T_TCQTG473ZjDnlnJj7Yyi68WIuZ8I2ce///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco2N6I9unA_88-#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco2N6I9unA_88-"
     },
     {
-      "text": "Sioux City man arrested after incident outside Singing Hills Walmart",
-      "url": "/2022/07/11/sioux-city-man-arrested-after-incident-outside-singing-hills-walmart/"
+      "text": "The Most Powerful Hearing Aids of 2022Ear Today",
+      "url": "https://prod-use.perf-serving.com/click/UIEw5h8NloxuCc6WMH46oGtmLFlxObFRE_OItOTKJUYQS9qVnpgzALzO8XeHdZQYYGzkxtDgHzVkEh2fOvk8cpQtwKfXiMettpCOhyIatE1Jn1Q6mrIWaVkDnFBePP2jG39FN6mg3MLxid156wCnh48OX8uJ75CmhDQp0SmWLoeuURHxMvCXm_HwLMGsdlYZe2uay7tpNOoFJ8bUpc1qO8YPpQ7XPbAvlubgV9Hz-e_M3TrtB8MJrTOuI46uL7Fiy7tNU5xq7e9jiNUba91LnoocRKueA7cQRew1wp3fIIkSmhbITu19lnFNlPyvbGP45QDyuIx_4NzXWC8VtV5vQ43DfTRvT80c-Ku2CxgRRM7rbZFDWXxbnGNwAM8cyCEycTOM2PDmd4b9AwQ3_3r1dAPnir9-WVSOXstlDDc8ldfH-E7RuN3Y85vSkWNY8OngVoWZUlSDC0NwQGMCgSGwdw8b-SfedJXuI--dehbcAaz9TwigrDkdlV0j7-m3a1g8K50gxE37LDYxZoAzAxuciF7yN719S8J646E-bAp2Rw1wuzbRdOMr50b6ATWpw7E-erRrmLN5CgjtGvd8LbB14SlH7vGnCum-LazSVwMRSIDpRmn-PVO4STTEyQWHk5NlsfmoHnP9u___uX2EjwVZ3-YE-yG3Rwe-SqbVmGvgyNhEZaglysS-pcvivfVZbKMakY7H4TvtseYNMfjdn7PRfo-PDILJPTChyrzN7kblcTAPO2VdT-Ae6gct98S_699gL1NyItjJtmboQVp_Qem6kpAI8ZB1SNsJyd7tGvomhzuwRtvXBG0FqqG6Vt9oEX7BK4rx2vdaQFLOgSYaptWmR2SjIon9hzmQ35XFUlx2eDa_d6rlUMvoh5PZpadbWzVF2SzPK_SyKRT959XQXXZRBuyN_GcECZtB5e5a8-NY_eKmVDpC-lcXp_SS945OvTNzEWYPktQt4YmwIY7437FQqhJAdWowyfChVgA6i6QOy8iBdlUWZvUV0_TQbsc8aA-a0PcAp9J6diDhZU88PTz813EdJgmhsqvzej2uO_naMfVXA9ovZ8FEkC6QBjXUQWlVNjnpMdNp5q0PqvWZ179tbqUW__O1pvrqBCtG8Buo00piCJ6tYj_HxkULkvfznwwaySf9MWoi0La9mHf1mFKpjZSrlyOJ42HHkc4T_TCQTG473ZjDnlnJj7Yyi68WIuZ8I2ce///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco2N6I9unA_88-#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco2N6I9unA_88-"
     },
     {
-      "text": "Iowa",
-      "url": "/2022/07/11/fire-crews-respond-house-fire-cedar-rapids/"
+      "text": "Alaska Cruise Deals | sponsored searches",
+      "url": "https://gosearches.net/index.php?rgid=134812&gclid=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCCjoVIonq6d-r-VgbAc#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCCjoVIonq6d-r-VgbAc"
     },
     {
-      "text": " Fire damages home in southwest Cedar Rapids Monday morning",
-      "url": "/2022/07/11/fire-crews-respond-house-fire-cedar-rapids/"
+      "text": "Empty Alaska Cruise Cabins Cost Almost NothingAlaska Cruise Deals | sponsored searches",
+      "url": "https://gosearches.net/index.php?rgid=134812&gclid=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCCjoVIonq6d-r-VgbAc#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCCjoVIonq6d-r-VgbAc"
     },
     {
-      "text": "Iowa",
-      "url": "/2022/07/11/golf-tournament-raises-money-fallen-iowa-state-troopers-family/"
+      "text": "ExpertsInMoney.co",
+      "url": "https://prod-use.perf-serving.com/click/Y5vtQVlcXFhoU5y7UswV4Eb8hXCCppYIL-6Zy1_ktDGR84e52gupkJoJ9jEPTzjURFw4LM_ZJSiyoIuUBkIIijH_V8RAO5RxOkk4Vx6pJc42JcrVwce4YMY_ySVojJED4Q3ZIrTvSZFjK1drD-Qe_URGJcCnpwqZ70kU4ngHfJz3yxax5KgrPNnhefHTCI7vMWyFIPowSiMoqMIQEmFhcq5JfBUFoPYqm2jVV_68NaXNzi_zymbm-_FIWAqdhNonzb2qkCXAjKGf9j_rvscSsYOHN9Y8YLsdep1x35-tjDbTJCxDbdvfZFqOS42aAbs1-dzRaLZ-3SJoUjO9W6VT3ckELWrAa59SrWT8bmxpzuZqF_9xE1j0xncDuozRTq1k_Xv9FhcV8hJlFrg7ti9CQ2mJDz2lTXV0q9qygggDUidf-mzQZ13iwn81pzGTqzwFUSEOXtZ8BP6qhzbHnpewvMMRkmK9x5W_1KKtCMNy3A3_bGQ6_1LmFQhYlQoU7MgN5mOxJXG70KNTtDxhRzatKcwNt2bXwODXAzDewqbpV8limYm9nupYVRptsQ_sl0A3t-V7oSnCxwa0Ol9vdJEP3W__cyqsm9pKmhULzTRVPmNXeRE3mX1RRqq8JwJAROwHdXLhovoxZxfOOxzJsl8hebAMXp6XnKCH9SAJbhUdk2a8Ryhy-wyyAaI_ayuY0LBypmiqmTO94kVEb7kij41lszpexvNbsryDax9a7inVPIz126uZiSCP6xZ-eRLmXYXO6RYbWuEhrdf55aeyoO7jcQjdUM95m1mlqpMeCMKevDotQaLvz5eWqKqmWSCO_iTWtmSXMKvasJih1K0Xg7wAn5hk5sS9F0b_2slycISEjCA2F9T7io7cd2ZgwXeeQrOyDG2v4fsyVRwKXNoRAJ2ZTPgvGQqKwKzA8nbUzvM5gfUAaCpiSFUDEw5iyC_aOCn8BlTuao5cGZ92EHZ4fwsFyq3gVlO2UZjiHr6gQoB2afmlKLTeaVUxarb_U26XKMYPrzAlFH4t2Dg8EkBopJDSmIfU4Xmmrmwu1JrJWKVnTM4nInXWaB_R5yQzFuAervy8UV_NGanJ82lT3VaCAf_85wFZwZtQcZE1_AjmlH1bQuso5Ri95mi4kHc165oJ66lqrLaD7Tj4mY177X5rLzX7WBVjH3Y8ci_CaUxACel4ACxZRuqV4BnOaSIoE8c_///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco_8W77K6chobeAQ#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco_8W77K6chobeAQ"
     },
     {
-      "text": " Golf tournament raises money for fallen Iowa State Trooper\u2019s family",
-      "url": "/2022/07/11/golf-tournament-raises-money-fallen-iowa-state-troopers-family/"
+      "text": "Shoppers Should Think Twice Before Buying From These StoresExpertsInMoney.co",
+      "url": "https://prod-use.perf-serving.com/click/Y5vtQVlcXFhoU5y7UswV4Eb8hXCCppYIL-6Zy1_ktDGR84e52gupkJoJ9jEPTzjURFw4LM_ZJSiyoIuUBkIIijH_V8RAO5RxOkk4Vx6pJc42JcrVwce4YMY_ySVojJED4Q3ZIrTvSZFjK1drD-Qe_URGJcCnpwqZ70kU4ngHfJz3yxax5KgrPNnhefHTCI7vMWyFIPowSiMoqMIQEmFhcq5JfBUFoPYqm2jVV_68NaXNzi_zymbm-_FIWAqdhNonzb2qkCXAjKGf9j_rvscSsYOHN9Y8YLsdep1x35-tjDbTJCxDbdvfZFqOS42aAbs1-dzRaLZ-3SJoUjO9W6VT3ckELWrAa59SrWT8bmxpzuZqF_9xE1j0xncDuozRTq1k_Xv9FhcV8hJlFrg7ti9CQ2mJDz2lTXV0q9qygggDUidf-mzQZ13iwn81pzGTqzwFUSEOXtZ8BP6qhzbHnpewvMMRkmK9x5W_1KKtCMNy3A3_bGQ6_1LmFQhYlQoU7MgN5mOxJXG70KNTtDxhRzatKcwNt2bXwODXAzDewqbpV8limYm9nupYVRptsQ_sl0A3t-V7oSnCxwa0Ol9vdJEP3W__cyqsm9pKmhULzTRVPmNXeRE3mX1RRqq8JwJAROwHdXLhovoxZxfOOxzJsl8hebAMXp6XnKCH9SAJbhUdk2a8Ryhy-wyyAaI_ayuY0LBypmiqmTO94kVEb7kij41lszpexvNbsryDax9a7inVPIz126uZiSCP6xZ-eRLmXYXO6RYbWuEhrdf55aeyoO7jcQjdUM95m1mlqpMeCMKevDotQaLvz5eWqKqmWSCO_iTWtmSXMKvasJih1K0Xg7wAn5hk5sS9F0b_2slycISEjCA2F9T7io7cd2ZgwXeeQrOyDG2v4fsyVRwKXNoRAJ2ZTPgvGQqKwKzA8nbUzvM5gfUAaCpiSFUDEw5iyC_aOCn8BlTuao5cGZ92EHZ4fwsFyq3gVlO2UZjiHr6gQoB2afmlKLTeaVUxarb_U26XKMYPrzAlFH4t2Dg8EkBopJDSmIfU4Xmmrmwu1JrJWKVnTM4nInXWaB_R5yQzFuAervy8UV_NGanJ82lT3VaCAf_85wFZwZtQcZE1_AjmlH1bQuso5Ri95mi4kHc165oJ66lqrLaD7Tj4mY177X5rLzX7WBVjH3Y8ci_CaUxACel4ACxZRuqV4BnOaSIoE8c_///?utm_source=taboola&utm_medium=referral&tblci=GiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco_8W77K6chobeAQ#tblciGiAyHusJO1AMNP6u6rCsMW7Ipn6Xg3e4FAWugnotJJPKLCDLiUco_8W77K6chobeAQ"
+    },
+    {
+      "text": "by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Sponsored Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Sponsored Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Promoted Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Promoted Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
     },
     {
       "text": "News",
@@ -7201,10 +7345,10 @@
     "publicdate": "2022-03-25 03:35:21",
     "addeddate": "2022-03-25 03:35:21"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 1605573508,
+  "server": "ia802507.us.archive.org",
+  "uniq": 480986847,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

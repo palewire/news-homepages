@@ -1,5 +1,5 @@
 {
-  "created": 1657714772,
+  "created": 1657758609,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/28/items/themarkup-2022",
@@ -3092,31 +3092,73 @@
       "sha1": "69ccaa90502f0b2c46e1806da46ee6f233e8a823"
     },
     {
+      "name": "themarkup-2022-07-13T13:22:12.757578-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657732937",
+      "size": "6486",
+      "md5": "b099a21c66540737d68a711ce6c34b75",
+      "crc32": "1523df39",
+      "sha1": "e4528ad5645a8b14a6f363a36cd4302f25994e0b",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-07-13T13:22:12.757578-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657732938",
+      "size": "8810",
+      "md5": "537f51b2889401d0819ef2afa5706887",
+      "crc32": "d3bf6601",
+      "sha1": "7fcfd21dbab3124231dd531cf5e64d4d506d10b4",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-07-13T13:22:12.757578-04:00.jpg",
+      "source": "original",
+      "mtime": "1657732935",
+      "size": "239639",
+      "md5": "e2960f56f124b8ad34092111468a01d8",
+      "crc32": "488e889c",
+      "sha1": "1086497e498127035e2b18b07f32d347fd62db18",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "themarkup-2022-07-13T13:22:12.757578-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themarkup-2022-07-13T13:22:12.757578-04:00.jpg",
+      "mtime": "1657732997",
+      "size": "9033",
+      "md5": "c5b3f1bd6d192108ca159a99731952fe",
+      "crc32": "56203c7d",
+      "sha1": "5a2e299c23a3627a5317a51e0935803dc71a3204"
+    },
+    {
       "name": "themarkup-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fb33226c94e91549bfc560a7c5eac82e7f4bd56b",
-      "mtime": "1657685623",
-      "size": "63274",
-      "md5": "6915a85b97453125f5f7d71ece66d7e0",
-      "crc32": "d234ff1f",
-      "sha1": "7feb94b83e70746ccda1457f272cff30629bc06b",
+      "btih": "7b7ce29a00c135513a2aab71118e785b62c811f6",
+      "mtime": "1657733001",
+      "size": "64125",
+      "md5": "0921d1f43eea6365fa01d020f3b24bea",
+      "crc32": "a41fea33",
+      "sha1": "743c80519ffe4ace9900e28fa2eaeba5d5f36585",
       "format": "Archive BitTorrent"
     },
     {
       "name": "themarkup-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5f6dd2a77dbb2566a7bbf3720a413d2e",
+      "md5": "1cdfeaa630744f1a043d0fe61b7ce306",
       "summation": "md5"
     },
     {
       "name": "themarkup-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657685474",
-      "size": "360448",
-      "md5": "941986fafaad39feff304ae16e520ac9",
-      "crc32": "4e7dfdc5",
-      "sha1": "aeca4123e4d27f7b0a7094849a6b926acd15f1e0",
+      "mtime": "1657732942",
+      "size": "364544",
+      "md5": "4e37f990c5247da74c27d54fa32d8dad",
+      "crc32": "7c3d3224",
+      "sha1": "0f962d14ce39b0a64f0976cbdc250a27bfe26b98",
       "format": "Metadata"
     },
     {
@@ -3130,9 +3172,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 298,
-  "item_last_updated": 1657685623,
-  "item_size": 20327682,
+  "files_count": 302,
+  "item_last_updated": 1657733001,
+  "item_size": 20596597,
   "metadata": {
     "identifier": "themarkup-2022",
     "collection": [
@@ -3149,227 +3191,256 @@
     "publicdate": "2022-06-19 23:29:00",
     "addeddate": "2022-06-19 23:29:00"
   },
-  "server": "ia801509.us.archive.org",
-  "themarkup-2022": {
-    "role": "WebArea",
-    "name": "The Markup",
-    "children": [
-      {
-        "role": "link",
-        "name": "Skip navigation"
-      },
-      {
-        "role": "button",
-        "name": "Site menu"
-      },
-      {
-        "role": "link",
-        "name": "The Markup"
-      },
-      {
-        "role": "link",
-        "name": "About Us"
-      },
-      {
-        "role": "link",
-        "name": "Donate"
-      },
-      {
-        "role": "text",
-        "name": "Big Tech Is Watching You. We\u2019re Watching Big\u00a0Tech."
-      },
-      {
-        "role": "heading",
-        "name": "Home",
-        "level": 1
-      },
-      {
-        "role": "heading",
-        "name": "Featured",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Newsletter: Hello World by Julia Angwin Why Privacy Matters A conversation with Neil Richards July 9, 2022 08:00 ET"
-      },
-      {
-        "role": "link",
-        "name": "Privacy After Dobbs, Advocates Fear School Surveillance Tools Could Put Teens at Risk Monitoring software could be easily adapted to flag abortion-related searches July 8, 2022 08:00 ET"
-      },
-      {
-        "role": "link",
-        "name": "Data Is Plural Banned Books, Mass Expulsions, and Saturday Night Live This week's roundup of notable\u00a0data July 6, 2022 13:00 ET"
-      },
-      {
-        "role": "link",
-        "name": "Pixel Hunt Online Abortion Pill Provider Hey\u00a0Jane Used Tracking Tools That Sent Visitor Data to Meta, Google, and Others Personal information from reviewers was also exposed until The Markup\u2019s inquiry July 1, 2022 10:00 ET"
-      },
-      {
-        "role": "link",
-        "name": "Subscribe to the Klaxon Newsletter"
-      },
-      {
-        "role": "text",
-        "name": "Never miss a Markup article or investigation. We\u2019ll email you every time we publish about the ways powerful actors are using technology to change society, usually two to three times a week."
-      },
-      {
-        "role": "text",
-        "name": "Enter your email address"
-      },
-      {
-        "role": "textbox",
-        "name": "Enter your email address Enter your email address"
-      },
-      {
-        "role": "button",
-        "name": "Subscribe"
-      },
-      {
-        "role": "heading",
-        "name": "The Latest",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Data Is Plural State Abortion Laws, Automated Driving Crashes, and Bay Area\u00a0Rents This week\u2019s roundup of notable\u00a0data June 29, 2022 13:00 ET"
-      },
-      {
-        "role": "link",
-        "name": "The Breakdown Police Are Looking to Algorithms to Predict Domestic Violence But will they be effective or reinforce bias-based practices? June 29, 2022 08:00 ET"
-      },
-      {
-        "role": "link",
-        "name": "The Breakdown Meet SmartLINK, the App Tracking Nearly a Quarter Million Immigrants Officials say the phone-based app is not meant to conduct \u201csurveillance\u201d\u2014and a quick test didn\u2019t raise red flags. But immigrants and advocates aren\u2019t convinced June 27, 2022 07:00 ET"
-      },
-      {
-        "role": "link",
-        "name": "Data Is Plural Monkeypox, Ukraine Air Raid Alerts, and Inclusive Crossword\u00a0Names This week\u2019s roundup of notable\u00a0data June 22, 2022 13:00 ET"
-      },
-      {
-        "role": "link",
-        "name": "The Breakdown Tech Giants Make Headway on Gig Worker Classification Georgia and Alabama laws say gig workers won\u2019t be considered employees June 22, 2022 08:00 ET"
-      },
-      {
-        "role": "link",
-        "name": "View all articles"
-      },
-      {
-        "role": "link",
-        "name": "Have a Tip?"
-      },
-      {
-        "role": "text",
-        "name": "How to securely share information with The\u00a0Markup."
-      },
-      {
-        "role": "link",
-        "name": "Send us a Tip"
-      },
-      {
-        "role": "link",
-        "name": "Return to The Markup's homepage"
-      },
-      {
-        "role": "text",
-        "name": "Your contributions help us investigate how technology influences our\u00a0society."
-      },
-      {
-        "role": "link",
-        "name": "Donate"
-      },
-      {
-        "role": "link",
-        "name": "About Us"
-      },
-      {
-        "role": "link",
-        "name": "Our Donors"
-      },
-      {
-        "role": "link",
-        "name": "Ethics Policy"
-      },
-      {
-        "role": "link",
-        "name": "Events"
-      },
-      {
-        "role": "link",
-        "name": "Board of Directors"
-      },
-      {
-        "role": "link",
-        "name": "Jobs"
-      },
-      {
-        "role": "link",
-        "name": "Team"
-      },
-      {
-        "role": "link",
-        "name": "Have a Tip?"
-      },
-      {
-        "role": "link",
-        "name": "Newsletters"
-      },
-      {
-        "role": "link",
-        "name": "A Letter from the Editor"
-      },
-      {
-        "role": "link",
-        "name": "Privacy Policy"
-      },
-      {
-        "role": "link",
-        "name": "A Letter from the President"
-      },
-      {
-        "role": "link",
-        "name": "Terms of Use"
-      },
-      {
-        "role": "link",
-        "name": "Announcements"
-      },
-      {
-        "role": "link",
-        "name": "Facebook"
-      },
-      {
-        "role": "link",
-        "name": "Twitter"
-      },
-      {
-        "role": "link",
-        "name": "Instagram"
-      },
-      {
-        "role": "link",
-        "name": "RSS Feed"
-      },
-      {
-        "role": "text",
-        "name": "Sign up to get the Hello World newsletter in your inbox every\u00a0Saturday."
-      },
-      {
-        "role": "text",
-        "name": "Enter your email address"
-      },
-      {
-        "role": "textbox",
-        "name": "Email address"
-      },
-      {
-        "role": "button",
-        "name": "Subscribe"
-      }
-    ]
-  },
-  "uniq": 711796515,
+  "server": "ia601509.us.archive.org",
+  "themarkup-2022": [
+    {
+      "text": "Amazon\u2019s Advantage",
+      "url": "/series/amazons-advantage"
+    },
+    {
+      "text": "Locked Out",
+      "url": "/series/locked-out"
+    },
+    {
+      "text": "Blacklight",
+      "url": "/series/blacklight"
+    },
+    {
+      "text": "Machine Learning",
+      "url": "https://themarkup.org/series/machine-learning"
+    },
+    {
+      "text": "Citizen Browser",
+      "url": "/series/citizen-browser"
+    },
+    {
+      "text": "Pixel Hunt",
+      "url": "/series/pixel-hunt/"
+    },
+    {
+      "text": "Denied",
+      "url": "/series/denied"
+    },
+    {
+      "text": "Prediction: Bias",
+      "url": "https://themarkup.org/series/prediction-bias"
+    },
+    {
+      "text": "Google the Giant",
+      "url": "/series/google-the-giant"
+    },
+    {
+      "text": "Working for an Algorithm",
+      "url": "https://themarkup.org/series/working-for-an-algorithm"
+    },
+    {
+      "text": "About Us",
+      "url": "/about"
+    },
+    {
+      "text": "Donate",
+      "url": "/donate/?utm_source=menu"
+    },
+    {
+      "text": "Events",
+      "url": "/events"
+    },
+    {
+      "text": "Have a Tip?",
+      "url": "/tips"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://boards.greenhouse.io/themarkup"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletter"
+    },
+    {
+      "text": "Team",
+      "url": "/team/"
+    },
+    {
+      "text": "\n            Facebook\n          ",
+      "url": "https://www.facebook.com/teammarkup/"
+    },
+    {
+      "text": "\n            Twitter\n          ",
+      "url": "https://www.twitter.com/themarkup/"
+    },
+    {
+      "text": "\n            Instagram\n          ",
+      "url": "https://www.instagram.com/the.markup/"
+    },
+    {
+      "text": "\n            RSS Feed\n          ",
+      "url": "/feeds/rss.xml"
+    },
+    {
+      "text": "Skip navigation",
+      "url": "#content"
+    },
+    {
+      "text": "\n        \n        The Markup\n      ",
+      "url": "/"
+    },
+    {
+      "text": "Donate\n      ",
+      "url": "/donate?utm_source=header"
+    },
+    {
+      "text": "About Us",
+      "url": "/about"
+    },
+    {
+      "text": "\n        Donate\n      ",
+      "url": "/donate?utm_source=header"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            \n  \nNewsletter: Hello World by Julia Angwin\n\n          \n\n          \n            Why Privacy Matters\n          \n        A conversation with Neil RichardsJuly 9, 2022 08:00 ET\n    \n  ",
+      "url": "https://themarkup.org/newsletter/hello-world/why-privacy-matters"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            Privacy\n          \n\n          \n            After Dobbs, Advocates Fear School Surveillance Tools Could Put Teens at Risk\n          \n        Monitoring software could be easily adapted to flag abortion-related searchesJuly 8, 2022 08:00 ET\n    \n  ",
+      "url": "https://themarkup.org/privacy/2022/07/08/after-dobbs-advocates-fear-school-surveillance-tools-could-put-teens-at-risk"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            Data Is Plural\n          \n\n          \n            Banned Books, Mass Expulsions, and Saturday Night Live\n          \n        This week's roundup of notable\u00a0dataJuly 6, 2022 13:00 ET\n    \n  ",
+      "url": "https://themarkup.org/data-is-plural/2022/07/06/banned-books-mass-expulsions-and-saturday-night-live"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            Pixel Hunt\n          \n\n          \n            Online Abortion Pill Provider Hey\u00a0Jane Used Tracking Tools That Sent Visitor Data to Meta, Google, and Others\n          \n        Personal information from reviewers was also exposed until The Markup\u2019s inquiryJuly 1, 2022 10:00 ET\n    \n  ",
+      "url": "https://themarkup.org/pixel-hunt/2022/07/01/online-abortion-pill-provider-hey-jane-used-tracking-tools-that-sent-visitor-data-to-meta-google-and-others"
+    },
+    {
+      "text": "Subscribe to the Klaxon Newsletter",
+      "url": ""
+    },
+    {
+      "text": "hCaptcha accessibility",
+      "url": "https://www.hcaptcha.com/accessibility"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            Data Is Plural\n          \n\n          \n            State Abortion Laws, Automated Driving Crashes, and Bay Area\u00a0Rents\n          \n        This week\u2019s roundup of notable\u00a0dataJune 29, 2022 13:00 ET\n    \n  ",
+      "url": "https://themarkup.org/data-is-plural/2022/06/29/state-abortion-laws-automated-driving-crashes-and-bay-area-rents"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            The Breakdown\n          \n\n          \n            Police Are Looking to Algorithms to Predict Domestic Violence\n          \n        But will they be effective or reinforce bias-based practices?June 29, 2022 08:00 ET\n    \n  ",
+      "url": "https://themarkup.org/the-breakdown/2022/06/29/police-are-looking-to-algorithms-to-predict-domestic-violence"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            The Breakdown\n          \n\n          \n            Meet SmartLINK, the App Tracking Nearly a Quarter Million Immigrants\n          \n        Officials say the phone-based app is not meant to conduct \u201csurveillance\u201d\u2014and a quick test didn\u2019t raise red flags. But immigrants and advocates aren\u2019t convincedJune 27, 2022 07:00 ET\n    \n  ",
+      "url": "https://themarkup.org/the-breakdown/2022/06/27/meet-smartlink-the-app-tracking-nearly-a-quarter-million-immigrants"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            Data Is Plural\n          \n\n          \n            Monkeypox, Ukraine Air Raid Alerts, and Inclusive Crossword\u00a0Names\n          \n        This week\u2019s roundup of notable\u00a0dataJune 22, 2022 13:00 ET\n    \n  ",
+      "url": "https://themarkup.org/data-is-plural/2022/06/22/monkeypox-ukraine-air-raid-alerts-and-inclusive-crossword-names"
+    },
+    {
+      "text": "\n    \n      \n        \n          \n            \n  \n  \n  \n\n          \n        \n      \n    \n    \n      \n            The Breakdown\n          \n\n          \n            Tech Giants Make Headway on Gig Worker Classification\n          \n        Georgia and Alabama laws say gig workers won\u2019t be considered employeesJune 22, 2022 08:00 ET\n    \n  ",
+      "url": "https://themarkup.org/the-breakdown/2022/06/22/tech-giants-make-headway-on-gig-worker-classification"
+    },
+    {
+      "text": "\n    \n        \n        View all articles\n    ",
+      "url": "/archive"
+    },
+    {
+      "text": "Have a Tip?",
+      "url": "https://themarkup.org/tips"
+    },
+    {
+      "text": "\n    \n        \n        Send us a Tip\n    ",
+      "url": "https://themarkup.org/tips"
+    },
+    {
+      "text": "\n      Return to The Markup's homepage\n      \n    ",
+      "url": "/"
+    },
+    {
+      "text": "\n    \n        \n        Donate\n    ",
+      "url": "/donate?utm_source=page-footer"
+    },
+    {
+      "text": "About Us",
+      "url": "/about"
+    },
+    {
+      "text": "Our Donors",
+      "url": "/donors"
+    },
+    {
+      "text": "Ethics Policy",
+      "url": "/ethics"
+    },
+    {
+      "text": "Events",
+      "url": "/events/"
+    },
+    {
+      "text": "Board of Directors",
+      "url": "/board-of-directors"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://boards.greenhouse.io/themarkup"
+    },
+    {
+      "text": "Team",
+      "url": "/team"
+    },
+    {
+      "text": "Have a Tip?",
+      "url": "/tips"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletter"
+    },
+    {
+      "text": "A Letter from the Editor",
+      "url": "/2020/02/25/editor-letter-julia-angwin"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "text": "A Letter from the President",
+      "url": "/2020/02/25/president-letter-nabiha-syed"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/terms"
+    },
+    {
+      "text": "Announcements",
+      "url": "/announcements"
+    },
+    {
+      "text": "\n            Facebook\n          ",
+      "url": "https://www.facebook.com/teammarkup/"
+    },
+    {
+      "text": "\n            Twitter\n          ",
+      "url": "https://www.twitter.com/themarkup/"
+    },
+    {
+      "text": "\n            Instagram\n          ",
+      "url": "https://www.instagram.com/the.markup/"
+    },
+    {
+      "text": "\n            RSS Feed\n          ",
+      "url": "/feeds/rss.xml"
+    },
+    {
+      "text": "hCaptcha accessibility",
+      "url": "https://www.hcaptcha.com/accessibility"
+    }
+  ],
+  "uniq": 1919186255,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

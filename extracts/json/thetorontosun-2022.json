@@ -1,5 +1,5 @@
 {
-  "created": 1657714792,
+  "created": 1657758643,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/thetorontosun-2022",
@@ -1644,31 +1644,93 @@
       "sha1": "6cb3ba8a8f20e478dd4b20fa0f14585b6f3b9476"
     },
     {
+      "name": "thetorontosun-2022-07-13T12:17:35.713071-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657729062",
+      "size": "80142",
+      "md5": "6c30fe84e3444168619309ff556d482f",
+      "crc32": "35f0541b",
+      "sha1": "deb4b943a35cfcc5501ebbcad010e5c19cdd7d3c",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-07-13T12:17:35.713071-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657729064",
+      "size": "56179",
+      "md5": "96ac6e5ca2fd9b8b30ecbfa10c54d6fc",
+      "crc32": "388d5d35",
+      "sha1": "96f199d88023d8cd5939a9aabd9305cc0fc9fcb1",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-07-13T12:17:35.713071-04:00.jpg",
+      "source": "original",
+      "mtime": "1657729060",
+      "size": "346416",
+      "md5": "78651772475590cddfd7c35773b8bebf",
+      "crc32": "b81d6144",
+      "sha1": "53b30de1e0c8d576b62e4ffcfc1e1790ac13af62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetorontosun-2022-07-13T12:17:35.713071-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetorontosun-2022-07-13T12:17:35.713071-04:00.jpg",
+      "mtime": "1657729116",
+      "size": "11741",
+      "md5": "7b9d4f7361a823c729af6533e050bdbe",
+      "crc32": "d987c5ab",
+      "sha1": "b30af3d36b8a11318cc13f91587d6a602a00a951"
+    },
+    {
+      "name": "thetorontosun-2022-07-13T13:22:47.741875-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657732969",
+      "size": "80555",
+      "md5": "78ecbdb190120442c5493fcbd1e22c13",
+      "crc32": "37141759",
+      "sha1": "ce1c27b88fe137094bca35cbb5579de1ec6460b2",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-07-13T13:22:47.741875-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657732971",
+      "size": "56775",
+      "md5": "85fab02d4815c2ca378f2ab0f54285b6",
+      "crc32": "6459cf03",
+      "sha1": "2b383bb29cca683ae5cc6f87d20a7416f32c70ef",
+      "format": "JSON"
+    },
+    {
       "name": "thetorontosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e02e7f0e26ae8913b0546eaa0005deb88c24ac58",
-      "mtime": "1657685637",
-      "size": "35367",
-      "md5": "931c8797abe3706fdf52f1433b802c91",
-      "crc32": "a3d1c78e",
-      "sha1": "bacd53877d131d103b5a97e3353da613541e492c",
+      "btih": "9e9a7d2c38159933310912d9fcf3f80884f11d31",
+      "mtime": "1657733011",
+      "size": "36672",
+      "md5": "a905a4ed9a54a2a9c8a6186bd5d07a4e",
+      "crc32": "c5d29404",
+      "sha1": "aeed223d84c4ad3174f569de28e9e92d3fc60849",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetorontosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "436c0b7124aa79118b91d15f061bb00c",
+      "md5": "9d6fd7e3764b29de817f380676b117e3",
       "summation": "md5"
     },
     {
       "name": "thetorontosun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657685532",
-      "size": "200704",
-      "md5": "9a3b1573d0f843d6ee713451e6dd00ed",
-      "crc32": "46615dd0",
-      "sha1": "a7ace738f9e2128f88065f24bdb9e5853c1f8cc2",
+      "mtime": "1657732976",
+      "size": "208896",
+      "md5": "3d218b54154d67fad73c8b2d962c47e8",
+      "crc32": "0fced736",
+      "sha1": "017268d93e817f2569773e602b52f39b51dc3bc4",
       "format": "Metadata"
     },
     {
@@ -1682,9 +1744,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 160,
-  "item_last_updated": 1657685637,
-  "item_size": 20033514,
+  "files_count": 166,
+  "item_last_updated": 1657733011,
+  "item_size": 20674819,
   "metadata": {
     "identifier": "thetorontosun-2022",
     "collection": [
@@ -2288,28 +2350,108 @@
       "url": "https://epaper.torontosun.com/"
     },
     {
-      "text": "  Crime  ",
-      "url": "/category/crime/"
+      "text": "  Canada  ",
+      "url": "/category/national/"
     },
     {
-      "text": "  Cops charge ex-boyfriend of Elnaz Hajtamiri with Wasaga Beach kidnapping  ",
-      "url": "/news/crime/cops-charge-ex-boyfriend-of-elnaz-hajtamiri-with-wasaga-beach-kidnapping"
+      "text": "  Bank of Canada hikes key interest rate by full percentage point  ",
+      "url": "/news/national/bank-of-canada-hikes-key-interest-rate-by-full-percentage-point"
     },
     {
-      "text": "  Crime  ",
-      "url": "/category/crime/"
+      "text": "  Canada  ",
+      "url": "/category/national/"
     },
     {
       "text": "         ",
-      "url": "/news/crime/cops-charge-ex-boyfriend-of-elnaz-hajtamiri-with-wasaga-beach-kidnapping"
+      "url": "/news/national/bank-of-canada-hikes-key-interest-rate-by-full-percentage-point"
+    },
+    {
+      "text": "  Ontario  ",
+      "url": "/category/provincial/"
+    },
+    {
+      "text": "  Ontario expands fourth dose eligibility to all adults  ",
+      "url": "/news/provincial/ontario-expands-fourth-dose-eligibility-to-all-adults"
+    },
+    {
+      "text": "  Ontario  ",
+      "url": "/category/provincial/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/provincial/ontario-expands-fourth-dose-eligibility-to-all-adults"
+    },
+    {
+      "text": "  World  ",
+      "url": "/category/world/"
+    },
+    {
+      "text": "  Uvalde video shows police waiting in school while gunman massacred kids  ",
+      "url": "/news/world/uvalde-video-shows-police-waiting-in-school-while-gunman-massacred-kids"
+    },
+    {
+      "text": "  World  ",
+      "url": "/category/world/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/world/uvalde-video-shows-police-waiting-in-school-while-gunman-massacred-kids"
+    },
+    {
+      "text": "  Celebrity  ",
+      "url": "/category/celebrity/"
+    },
+    {
+      "text": "  Amber Heard facing more legal headaches after insurance company refuses to pay damages  ",
+      "url": "/entertainment/celebrity/amber-heard-facing-more-legal-headaches-after-insurance-company-refuses-to-pay-damages"
+    },
+    {
+      "text": "  Celebrity  ",
+      "url": "/category/celebrity/"
+    },
+    {
+      "text": "         ",
+      "url": "/entertainment/celebrity/amber-heard-facing-more-legal-headaches-after-insurance-company-refuses-to-pay-damages"
+    },
+    {
+      "text": "  World  ",
+      "url": "/category/world/"
+    },
+    {
+      "text": "  Tech CEO busted in 1992 love triangle murder  ",
+      "url": "/news/world/tech-ceo-busted-in-1992-love-triangle-murder"
+    },
+    {
+      "text": "  World  ",
+      "url": "/category/world/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/world/tech-ceo-busted-in-1992-love-triangle-murder"
+    },
+    {
+      "text": "  Ontario  ",
+      "url": "/category/provincial/"
+    },
+    {
+      "text": "  Fire attack victim dies from his injuries, London, Ont. police say  ",
+      "url": "/news/local-news/fire-attack-victim-dies-from-his-injuries-london-police-say/wcm/4b5df7c8-31f2-4b34-b5c5-fd0992c96750"
+    },
+    {
+      "text": "  Ontario  ",
+      "url": "/category/provincial/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/local-news/fire-attack-victim-dies-from-his-injuries-london-police-say/wcm/4b5df7c8-31f2-4b34-b5c5-fd0992c96750"
     },
     {
       "text": "  Toronto Maple Leafs  ",
       "url": "/category/toronto-maple-leafs/"
     },
     {
-      "text": "  Murray motivated to resurrect NHL career with the Maple Leafs: 'Toronto is a great place to do it'  ",
-      "url": "/sports/hockey/nhl/toronto-maple-leafs/murray-motivated-to-resurrect-nhl-career-with-the-maple-leafs-toronto-is-a-great-place-to-do-it"
+      "text": "  Leafs sign goalie Dennis Hildeby to entry level deal  ",
+      "url": "/sports/hockey/nhl/toronto-maple-leafs/leafs-sign-goalie-dennis-hildeby-to-entry-level-deal"
     },
     {
       "text": "  Toronto Maple Leafs  ",
@@ -2317,47 +2459,15 @@
     },
     {
       "text": "         ",
-      "url": "/sports/hockey/nhl/toronto-maple-leafs/murray-motivated-to-resurrect-nhl-career-with-the-maple-leafs-toronto-is-a-great-place-to-do-it"
-    },
-    {
-      "text": "  World  ",
-      "url": "/category/world/"
-    },
-    {
-      "text": "  HUNTER: Cops hit brick wall in Little Rosedale Jane Doe case  ",
-      "url": "/news/world/hunter-cops-hit-brick-wall-in-little-rosedale-jane-doe-case"
-    },
-    {
-      "text": "  World  ",
-      "url": "/category/world/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/world/hunter-cops-hit-brick-wall-in-little-rosedale-jane-doe-case"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "  Inmate counsellor vouches for convicted killer seeking early parole  ",
-      "url": "/news/inmate-counsellor-vouches-for-convicted-killer-seeking-early-parole"
-    },
-    {
-      "text": "  News  ",
-      "url": "/category/news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/inmate-counsellor-vouches-for-convicted-killer-seeking-early-parole"
+      "url": "/sports/hockey/nhl/toronto-maple-leafs/leafs-sign-goalie-dennis-hildeby-to-entry-level-deal"
     },
     {
       "text": "  Toronto & GTA  ",
       "url": "/category/local-news/"
     },
     {
-      "text": "  Road rager used racial slurs in shocking Hamilton incident  ",
-      "url": "/news/local-news/road-rager-used-racial-slurs-in-shocking-hamilton-incident"
+      "text": "  Pearson airport creates new infographic to help travellers navigate system  ",
+      "url": "/news/local-news/pearson-airport-creates-new-infographic-to-help-travellers-navigate-system"
     },
     {
       "text": "  Toronto & GTA  ",
@@ -2365,63 +2475,15 @@
     },
     {
       "text": "         ",
-      "url": "/news/local-news/road-rager-used-racial-slurs-in-shocking-hamilton-incident"
-    },
-    {
-      "text": "  Toronto & GTA  ",
-      "url": "/category/local-news/"
-    },
-    {
-      "text": "  Court throws out Brampton council appointment as unlawful  ",
-      "url": "/news/local-news/court-throws-out-brampton-council-appointment-as-unlawful"
-    },
-    {
-      "text": "  Toronto & GTA  ",
-      "url": "/category/local-news/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/local-news/court-throws-out-brampton-council-appointment-as-unlawful"
-    },
-    {
-      "text": "  Television  ",
-      "url": "/category/television/"
-    },
-    {
-      "text": "  'Succession,' 'Ted Lasso' lead nominations for Emmy awards  ",
-      "url": "/entertainment/television/succession-ted-lasso-lead-nominations-for-emmy-awards"
-    },
-    {
-      "text": "  Television  ",
-      "url": "/category/television/"
-    },
-    {
-      "text": "         ",
-      "url": "/entertainment/television/succession-ted-lasso-lead-nominations-for-emmy-awards"
-    },
-    {
-      "text": "  Columnists  ",
-      "url": "/category/columnists/"
-    },
-    {
-      "text": "  KINSELLA: Canadians long for the days of true leadership  ",
-      "url": "/opinion/columnists/kinsella-canadians-long-for-the-days-of-true-leadership"
-    },
-    {
-      "text": "  Columnists  ",
-      "url": "/category/columnists/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/columnists/kinsella-canadians-long-for-the-days-of-true-leadership"
+      "url": "/news/local-news/pearson-airport-creates-new-infographic-to-help-travellers-navigate-system"
     },
     {
       "text": "  World  ",
       "url": "/category/world/"
     },
     {
-      "text": "  Jill Biden apologizes for saying Latinos 'unique' as tacos  ",
-      "url": "/news/world/jill-biden-apologizes-for-saying-latinos-unique-as-tacos"
+      "text": "  Legal scion Alex Murdaugh to be charged in murders of wife, son: Report  ",
+      "url": "/news/world/legal-scion-alex-murdaugh-to-be-charged-in-murders-of-wife-son-report"
     },
     {
       "text": "  World  ",
@@ -2429,23 +2491,23 @@
     },
     {
       "text": "         ",
-      "url": "/news/world/jill-biden-apologizes-for-saying-latinos-unique-as-tacos"
+      "url": "/news/world/legal-scion-alex-murdaugh-to-be-charged-in-murders-of-wife-son-report"
     },
     {
-      "text": "  World  ",
-      "url": "/category/world/"
+      "text": "  Money News  ",
+      "url": "/category/money-news/"
     },
     {
-      "text": "  Trump incited Jan. 6 attack after 'unhinged' White House meeting, panel told  ",
-      "url": "/news/world/donald-trump-not-an-impressionable-child-jan-6-panel-told"
+      "text": "  Rogers to credit customers for 5 days of service after outage  ",
+      "url": "/business/money-news/rogers-to-credit-customers-for-5-days-of-service-after-outage"
     },
     {
-      "text": "  World  ",
-      "url": "/category/world/"
+      "text": "  Money News  ",
+      "url": "/category/money-news/"
     },
     {
       "text": "         ",
-      "url": "/news/world/donald-trump-not-an-impressionable-child-jan-6-panel-told"
+      "url": "/business/money-news/rogers-to-credit-customers-for-5-days-of-service-after-outage"
     },
     {
       "text": " View More Videos > ",
@@ -2464,88 +2526,88 @@
       "url": "/category/news/world/"
     },
     {
-      "text": "  London, Ont. cops probe 'serious assault' after man on fire suffers life-threatening injuries   A baseball hat, sweater and flip flops were among the debris scattered throughout the crime scene  ",
-      "url": "/news/local-news/police-probe-serious-assault-after-man-on-fire-suffers-life-threatening-injuries/wcm/0fb6d776-d035-4f59-a307-fcd227d876ce"
+      "text": "  Man sought in alleged sex assault of teen at Scarborough bus stop   He hugged and kissed the girl without consent and asked for sex, cops say.  ",
+      "url": "/news/local-news/man-sought-in-alleged-sex-assault-of-teen-at-scarborough-bus-stop"
     },
     {
-      "text": "  Ontario  ",
-      "url": "/category/provincial/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/local-news/police-probe-serious-assault-after-man-on-fire-suffers-life-threatening-injuries/wcm/0fb6d776-d035-4f59-a307-fcd227d876ce"
-    },
-    {
-      "text": "  Survivor of Ottawa knife attack that killed mom, sister out of hospital   Catherine Ready was taken to hospital on June 27 with serious injuries, including a non-life-threatening gunshot wound from a police bullet.  ",
-      "url": "/news/local-news/fundraiser-continues-for-19-year-old-survivor-of-knife-attack-at-her-alta-vista-home/wcm/9a432d45-0885-473a-9246-0e663ed2a47d"
-    },
-    {
-      "text": "  Ontario  ",
-      "url": "/category/provincial/"
+      "text": "  Toronto & GTA  ",
+      "url": "/category/local-news/"
     },
     {
       "text": "         ",
-      "url": "/news/local-news/fundraiser-continues-for-19-year-old-survivor-of-knife-attack-at-her-alta-vista-home/wcm/9a432d45-0885-473a-9246-0e663ed2a47d"
+      "url": "/news/local-news/man-sought-in-alleged-sex-assault-of-teen-at-scarborough-bus-stop"
     },
     {
-      "text": "  Rural Ontario mayor resists resignation call as citizens blast politicians over anti-LGBTQ rant   A man charged with stealing Pride flags spoke for nearly 30 minutes at a recent meeting, including comparing the Pride movement to Nazi Germany.  ",
-      "url": "/news/local-news/rural-mayor-resists-resignation-call-as-citizens-blast-politicians-over-anti-lgbtq-rant/wcm/14fa9bb4-f53d-4526-91c8-93626d804a39"
+      "text": "  Ghost of serial killer Aileen Wuornos haunting dive bar?   Some of Wuornos' ashes were scattered under a tree behind the bar. \"She comes here because she never left.\"  ",
+      "url": "/news/world/ghost-of-serial-killer-aileen-wuornos-haunting-dive-bar"
     },
     {
-      "text": "  Ontario  ",
-      "url": "/category/provincial/"
-    },
-    {
-      "text": "         ",
-      "url": "/news/local-news/rural-mayor-resists-resignation-call-as-citizens-blast-politicians-over-anti-lgbtq-rant/wcm/14fa9bb4-f53d-4526-91c8-93626d804a39"
-    },
-    {
-      "text": "  How did the turtle cross the road? With human help   If you can hold a hamburger, you know how to help an at-risk turtle cross the road.  ",
-      "url": "/news/local-news/how-did-the-turtle-cross-the-road-with-human-help/wcm/509f86a3-4a2a-4cdf-92b8-b08818979c73"
-    },
-    {
-      "text": "  Ontario  ",
-      "url": "/category/provincial/"
+      "text": "  World  ",
+      "url": "/category/world/"
     },
     {
       "text": "         ",
-      "url": "/news/local-news/how-did-the-turtle-cross-the-road-with-human-help/wcm/509f86a3-4a2a-4cdf-92b8-b08818979c73"
+      "url": "/news/world/ghost-of-serial-killer-aileen-wuornos-haunting-dive-bar"
     },
     {
-      "text": "  Ottawa Police release graphic video of daytime drive-by shooting   The victim, a 34-year-old man, suffered non-life threatening injuries.  ",
-      "url": "/news/local-news/police-release-graphic-video-of-daytime-drive-by-shooting-in-east-end/wcm/ab874492-089e-45ad-b96a-98937d3b97f0"
+      "text": "  Amid COVID worries, fist bumps for Biden in Israel   TEL AVIV, Israel \u2014 The White House said President Joe Biden would try to limit physical contact during his Middle East trip because of concern about rising COVID-19 cases \u2014 but the president swiftly reverted to his old-school, back-slapping ways after landing in Israel on Wednesday.  ",
+      "url": "/news/world/amid-covid-worries-fist-bumps-for-biden-in-israel"
     },
     {
-      "text": "  Ontario  ",
-      "url": "/category/provincial/"
+      "text": "  World  ",
+      "url": "/category/world/"
     },
     {
       "text": "         ",
-      "url": "/news/local-news/police-release-graphic-video-of-daytime-drive-by-shooting-in-east-end/wcm/ab874492-089e-45ad-b96a-98937d3b97f0"
+      "url": "/news/world/amid-covid-worries-fist-bumps-for-biden-in-israel"
+    },
+    {
+      "text": "  Spouse of Nova Scotia mass shooter reveals grim new details about their life together   HALIFAX \u2014 For 19 years, Lisa Banfield lived with a man described as a controlling, abusive psychopath who repeatedly beat her.  ",
+      "url": "/news/national/spouse-of-nova-scotia-mass-shooter-reveals-grim-new-details-about-their-life-together"
+    },
+    {
+      "text": "  Canada  ",
+      "url": "/category/national/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/national/spouse-of-nova-scotia-mass-shooter-reveals-grim-new-details-about-their-life-together"
+    },
+    {
+      "text": "  Florida woman surprised by uninvited iguana in her toilet   HOLLYWOOD, Fla. \u2014 A Florida woman interrupted an uninvited guest in her bathroom on Saturday night.  ",
+      "url": "/news/weird/florida-woman-surprised-by-uninvited-iguana-in-her-toilet"
+    },
+    {
+      "text": "  Weird  ",
+      "url": "/category/weird/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/weird/florida-woman-surprised-by-uninvited-iguana-in-her-toilet"
     },
     {
       "text": " More news stories > ",
       "url": "/category/news/"
     },
     {
+      "text": "  Bank of Canada hikes key interest rate by full percentage point  ",
+      "url": "/news/national/bank-of-canada-hikes-key-interest-rate-by-full-percentage-point"
+    },
+    {
       "text": "  Tara Slone leaves Sportsnet following 'Hometown Hockey' cancellation  ",
       "url": "/news/national/tara-slone-leaves-sportsnet-following-hometown-hockey-cancellation"
+    },
+    {
+      "text": "  ASK AMY: Foster parent receives no support from brother  ",
+      "url": "/life/relationships/ask-amy-foster-parent-receives-no-support-from-brother"
     },
     {
       "text": "  News anchor suspended after appearing confused, incoherent on air  ",
       "url": "/news/weird/news-anchor-suspended-after-appearing-confused-and-a-bit-incoherent-on-air"
     },
     {
-      "text": "  TRAIKOS: Blackhawks intent on burning things to the ground \u2014\u00a0and smoking out Toews and Kane in the process  ",
-      "url": "/sports/hockey/nhl/traikos-blackhawks-intent-on-burning-things-to-the-ground-and-smoking-out-toews-and-kane-in-the-process"
-    },
-    {
-      "text": "  Cops charge ex-boyfriend of Elnaz Hajtamiri with Wasaga Beach kidnapping  ",
-      "url": "/news/crime/cops-charge-ex-boyfriend-of-elnaz-hajtamiri-with-wasaga-beach-kidnapping"
-    },
-    {
-      "text": "  Kevin Nash reveals Scott Hall's heartbreaking final days  ",
-      "url": "/sports/wrestling/kevin-nash-reveals-scott-halls-heartbreaking-final-days"
+      "text": "  Ontario expands fourth dose eligibility to all adults  ",
+      "url": "/news/provincial/ontario-expands-fourth-dose-eligibility-to-all-adults"
     },
     {
       "text": " Shopping Essentials ",
@@ -2684,28 +2746,28 @@
       "url": "/sports/hockey/nhl/toronto-maple-leafs/gm-kyle-dubas-has-limited-options-for-maple-leafs-as-free-agency-opens"
     },
     {
-      "text": "  SIMMONS: Phillies' Canadian manager feels at home on the road at Rogers Centre   Pretty much everything about Rob Thomson said he couldn\u2019t make it in professional baseball, least of all his Canadian passport.  ",
-      "url": "/sports/baseball/toronto-blue-jays/simmons-phillies-canadian-manager-feels-at-home-on-the-road-at-rogers-centre"
+      "text": "  McCARTHY: Tiger Woods hunting for new magic at The Old Course   ST ANDREWS, Scotland \u2014 Ever since Tiger Woods realized that he could still swing a golf club after his car crash, he has circled this week on his calendar.  ",
+      "url": "/sports/golf/mccarthy-tiger-woods-hunting-for-new-magic-at-the-old-course"
     },
     {
-      "text": "  Toronto Blue Jays  ",
-      "url": "/category/toronto-blue-jays/"
-    },
-    {
-      "text": "         ",
-      "url": "/sports/baseball/toronto-blue-jays/simmons-phillies-canadian-manager-feels-at-home-on-the-road-at-rogers-centre"
-    },
-    {
-      "text": "  Does new Maple Leafs goalie Matt Murray still have that silver touch in net?   Matt Murray isn\u2019t the first Stanley Cup goaltender big on bringing that silver touch back to the Maple Leafs.  ",
-      "url": "/sports/hockey/does-new-maple-leafs-goalie-matt-murray-still-have-that-silver-touch-in-net"
-    },
-    {
-      "text": "  Hockey  ",
-      "url": "/category/hockey/"
+      "text": "  Golf  ",
+      "url": "/category/golf/"
     },
     {
       "text": "         ",
-      "url": "/sports/hockey/does-new-maple-leafs-goalie-matt-murray-still-have-that-silver-touch-in-net"
+      "url": "/sports/golf/mccarthy-tiger-woods-hunting-for-new-magic-at-the-old-course"
+    },
+    {
+      "text": "  Murray motivated to resurrect NHL career with the Maple Leafs: 'Toronto is a great place to do it'   Matt Murray will be looking to pack plenty of ammo in the Battle of Ontario next season.  ",
+      "url": "/sports/hockey/nhl/toronto-maple-leafs/murray-motivated-to-resurrect-nhl-career-with-the-maple-leafs-toronto-is-a-great-place-to-do-it"
+    },
+    {
+      "text": "  Toronto Maple Leafs  ",
+      "url": "/category/toronto-maple-leafs/"
+    },
+    {
+      "text": "         ",
+      "url": "/sports/hockey/nhl/toronto-maple-leafs/murray-motivated-to-resurrect-nhl-career-with-the-maple-leafs-toronto-is-a-great-place-to-do-it"
     },
     {
       "text": " More sports stories > ",
@@ -2800,6 +2862,30 @@
       "url": "/category/sports/sports-betting/"
     },
     {
+      "text": "  MLB Draft Odds: Prep Star Jones Clear Favorite to Go 1st Overall   The 2022 Major League Baseball draft will begin on Sunday, July 17, and betting markets are available. The biggest question on everyone\u2019s mind is who will the Baltimore Orioles take with the top pick.  ",
+      "url": "/sports/sports-betting/mlb-draft-odds-prep-star-jones-clear-favorite-to-go-1st-overall"
+    },
+    {
+      "text": "  Sports Betting  ",
+      "url": "/category/sports-betting/"
+    },
+    {
+      "text": "         ",
+      "url": "/sports/sports-betting/mlb-draft-odds-prep-star-jones-clear-favorite-to-go-1st-overall"
+    },
+    {
+      "text": "  Open Championship 2022 Tiger Woods: Odds, Picks & Best Bets   Tiger Woods has arguably the most storied career in golf history and now he returns to the most historic course in golf, the Old Course at St. Andrews, as he\u2019ll tee it up at the 150th British Open.  ",
+      "url": "/sports/sports-betting/open-championship-2022-tiger-woods-odds-picks-best-bets"
+    },
+    {
+      "text": "  Sports Betting  ",
+      "url": "/category/sports-betting/"
+    },
+    {
+      "text": "         ",
+      "url": "/sports/sports-betting/open-championship-2022-tiger-woods-odds-picks-best-bets"
+    },
+    {
       "text": "  Elks vs Alouettes Week 6 Picks and Predictions: Edmonton Hangs Tough   Week 6 in the CFL kicks off on Thursday with a battle between struggling squads as the Montreal Alouettes host the Edmonton Elks. Montreal recently dismissed its head coach after a 1-3 start while Edmonton is 1-4.  ",
       "url": "/sports/sports-betting/elks-vs-alouettes-week-6-picks-and-predictions-edmonton-hangs-tough"
     },
@@ -2834,30 +2920,6 @@
     {
       "text": "         ",
       "url": "/sports/sports-betting/golf-betting/the-open-betting-picks-for-this-week-at-the-old-course"
-    },
-    {
-      "text": "  Open Championship Sleeper Picks & Predictions: Could Louis Strike Again on Familiar Grounds?   The fourth and final major of the 2022 PGA Tour season will descend upon \u201cthe home of golf,\u201d better known as The Old Course at St. Andrews, for the 150th Open Championship odds from July 14-17 in Scotland.  ",
-      "url": "/sports/sports-betting/open-championship-sleeper-picks-predictions-could-louis-strike-again-on-familiar-grounds"
-    },
-    {
-      "text": "  Sports Betting  ",
-      "url": "/category/sports-betting/"
-    },
-    {
-      "text": "         ",
-      "url": "/sports/sports-betting/open-championship-sleeper-picks-predictions-could-louis-strike-again-on-familiar-grounds"
-    },
-    {
-      "text": "  NFL Week 1 Odds: Baker Mayfield Trade Shortens Panthers-Browns Spread   We\u2019re less than two months away from the start of the 2022 NFL season, and we now have a full slate of games to look forward to.  ",
-      "url": "/sports/sports-betting/nfl-week-1-odds-baker-mayfield-trade-shortens-panthers-browns-spread"
-    },
-    {
-      "text": "  Sports Betting  ",
-      "url": "/category/sports-betting/"
-    },
-    {
-      "text": "         ",
-      "url": "/sports/sports-betting/nfl-week-1-odds-baker-mayfield-trade-shortens-panthers-browns-spread"
     },
     {
       "text": " More sports betting stories > ",
@@ -2960,6 +3022,18 @@
       "url": "/category/news/true-crime/"
     },
     {
+      "text": "  How a teen 'vampire's' blog blew up a murder trial \u2014 and prevented a wrongful conviction   The blog contained a description of her 'likes,' which\u00a0included: 'Blood, pain ... rain, darkness, thunder ... fire, my bedroom, sex ... cemeteries, knives'  ",
+      "url": "/news/true-crime/johnathan-murder-trial"
+    },
+    {
+      "text": "  True Crime  ",
+      "url": "/category/true-crime/"
+    },
+    {
+      "text": "         ",
+      "url": "/news/true-crime/johnathan-murder-trial"
+    },
+    {
       "text": "  True Crime Byline: We should have seen JoAnn Wilson's murder coming   Leader-Post city editor Barb Pacholik recalls the many turns of the Colin Thatcher case across decades.  ",
       "url": "/news/true-crime/true-crime-byline"
     },
@@ -3006,18 +3080,6 @@
     {
       "text": "         ",
       "url": "/news/true-crime/true-crime-byline/true-crime-byline-podcast-the-article-that-blew-up-a-murder-trial"
-    },
-    {
-      "text": "  Douglas Todd: Canadian cops far less likely to kill, or be killed, than U.S. counterparts   Analysis: Canadian police are often accused of using excessive force, but a U.S. officer is five times more likely than a Canadian cop to shoot and kill.  ",
-      "url": "/opinion/columnists/douglas-todd-canadian-cops-far-less-likely-to-kill-or-be-killed-than-u-s-counterparts"
-    },
-    {
-      "text": "  Columnists  ",
-      "url": "/category/columnists/"
-    },
-    {
-      "text": "         ",
-      "url": "/opinion/columnists/douglas-todd-canadian-cops-far-less-likely-to-kill-or-be-killed-than-u-s-counterparts"
     },
     {
       "text": " More true crime stories > ",
@@ -3216,20 +3278,8 @@
       "url": "/category/entertainment/movies/"
     },
     {
-      "text": "  Bruce Springsteen and E Street Band skip Canada on 2023 tour   'After six years, I\u2019m looking forward to seeing our great and loyal fans next year'  ",
-      "url": "/entertainment/music/bruce-springsteen-and-e-street-band-skip-canada-on-2023-tour"
-    },
-    {
-      "text": "  Music  ",
-      "url": "/category/music/"
-    },
-    {
-      "text": "         ",
-      "url": "/entertainment/music/bruce-springsteen-and-e-street-band-skip-canada-on-2023-tour"
-    },
-    {
-      "text": "  Jessica Chastain shares support for body-shamed Florence Pugh   Jessica Chastain has insisted women don\u2019t \u201cbelong\u201d to men.  ",
-      "url": "/entertainment/celebrity/jessica-chastain-shares-support-for-body-shamed-florence-pugh"
+      "text": "  Carmen Electra loves being her own boss on OnlyFans   Carmen Electra says doing OnlyFans is \u201cempowering\u201d because it allows her to be her \u201cown creative director.\u201d  ",
+      "url": "/entertainment/celebrity/carmen-electra-loves-being-her-own-boss-on-onlyfans"
     },
     {
       "text": "  Celebrity  ",
@@ -3237,23 +3287,11 @@
     },
     {
       "text": "         ",
-      "url": "/entertainment/celebrity/jessica-chastain-shares-support-for-body-shamed-florence-pugh"
+      "url": "/entertainment/celebrity/carmen-electra-loves-being-her-own-boss-on-onlyfans"
     },
     {
-      "text": "  Mickey Rourke brands Tom Cruise 'irrelevant'   Mickey Rourke has branded Tom Cruise \u201cirrelevant.\u201d  ",
-      "url": "/entertainment/celebrity/mickey-rourke-brands-tom-cruise-irrelevant"
-    },
-    {
-      "text": "  Celebrity  ",
-      "url": "/category/celebrity/"
-    },
-    {
-      "text": "         ",
-      "url": "/entertainment/celebrity/mickey-rourke-brands-tom-cruise-irrelevant"
-    },
-    {
-      "text": "  Johnny Depp brands Amber Heard's attempt at mistrial a 'fail'   Johnny Depp\u2019s lawyers have a message for his ex-wife Amber Heard : it doesn\u2019t matter if the wrong juror showed up for their contentious defamation trial, you still have to pay up.  ",
-      "url": "/entertainment/celebrity/johnny-depp-brands-amber-heards-attempt-at-mistrial-a-fail"
+      "text": "  Cardi B and Offset give daughter $50K for fourth birthday   Cardi B and Offset gave their daughter Kulture $50,000 for her fourth birthday.  ",
+      "url": "/entertainment/celebrity/cardi-b-and-offset-give-daughter-50k-for-fourth-birthday"
     },
     {
       "text": "  Celebrity  ",
@@ -3261,11 +3299,11 @@
     },
     {
       "text": "         ",
-      "url": "/entertainment/celebrity/johnny-depp-brands-amber-heards-attempt-at-mistrial-a-fail"
+      "url": "/entertainment/celebrity/cardi-b-and-offset-give-daughter-50k-for-fourth-birthday"
     },
     {
-      "text": "  Kate Mara confirms pregnancy via Instagram post   Kate Mara is pregnant.  ",
-      "url": "/entertainment/celebrity/kate-mara-confirms-pregnancy-via-instagram-post"
+      "text": "  Britney Spears\u2019 ex-husband Jason Alexander pleads not guilty   Britney Spears\u2019 ex-husband Jason Alexander has officially pleaded not guilty to all charges after allegedly trying to crash her wedding.  ",
+      "url": "/entertainment/celebrity/britney-spears-ex-husband-jason-alexander-pleads-not-guilty"
     },
     {
       "text": "  Celebrity  ",
@@ -3273,7 +3311,31 @@
     },
     {
       "text": "         ",
-      "url": "/entertainment/celebrity/kate-mara-confirms-pregnancy-via-instagram-post"
+      "url": "/entertainment/celebrity/britney-spears-ex-husband-jason-alexander-pleads-not-guilty"
+    },
+    {
+      "text": "  Tom Jones gives health update but denies collapsing before cancelled show   Tom Jones is suffering from viral laryngitis but denied collapsing before a concert this week.  ",
+      "url": "/entertainment/celebrity/tom-jones-gives-health-update-but-denies-collapsing-before-cancelled-show"
+    },
+    {
+      "text": "  Celebrity  ",
+      "url": "/category/celebrity/"
+    },
+    {
+      "text": "         ",
+      "url": "/entertainment/celebrity/tom-jones-gives-health-update-but-denies-collapsing-before-cancelled-show"
+    },
+    {
+      "text": "  'Succession,' 'Ted Lasso' lead nominations for Emmy awards   LOS ANGELES \u2014 \u201cSuccession\u201d received a leading 25 Emmy nominations Tuesday, but the satirical drama about the rich and ruthless has a landmark rival in \u201cSquid Game,\u201d the first non-English language series to vie for television\u2019s top honor.  ",
+      "url": "/entertainment/television/succession-ted-lasso-lead-nominations-for-emmy-awards"
+    },
+    {
+      "text": "  Television  ",
+      "url": "/category/television/"
+    },
+    {
+      "text": "         ",
+      "url": "/entertainment/television/succession-ted-lasso-lead-nominations-for-emmy-awards"
     },
     {
       "text": " More entertainment stories > ",
@@ -3290,6 +3352,30 @@
     {
       "text": "Relationships",
       "url": "/category/life/relationships/"
+    },
+    {
+      "text": "  Getting lost in the purple haze of lavender's magic   A celebration of Canada's lavender farms  ",
+      "url": "/life/food/getting-lost-in-the-purple-haze-of-lavenders-magic"
+    },
+    {
+      "text": "  Eat  ",
+      "url": "/category/food/"
+    },
+    {
+      "text": "         ",
+      "url": "/life/food/getting-lost-in-the-purple-haze-of-lavenders-magic"
+    },
+    {
+      "text": "  ASK AMY: Foster parent receives no support from brother   Dear Amy: I am a foster parent. I\u2019m happily single, in my 40s, and my parents recently moved nearby.  ",
+      "url": "/life/relationships/ask-amy-foster-parent-receives-no-support-from-brother"
+    },
+    {
+      "text": "  Relationships  ",
+      "url": "/category/relationships/"
+    },
+    {
+      "text": "         ",
+      "url": "/life/relationships/ask-amy-foster-parent-receives-no-support-from-brother"
     },
     {
       "text": "  Hit the road to see some spectacular Ontario spots   Should you stay or should you go?  ",
@@ -3328,36 +3414,24 @@
       "url": "/life/relationships/ask-amy-landlord-wants-appreciation-over-rent-hike"
     },
     {
-      "text": "  Canada's laundry and personal hygiene habits leave a lot to be desired   Towels, toilets and teeth \u2013 Canadians are hiding dirty little secrets about all three  ",
-      "url": "/life/fashion-beauty/canadas-laundry-and-personal-hygiene-habits-leave-a-lot-to-be-desired"
-    },
-    {
-      "text": "  Fashion & Beauty  ",
-      "url": "/category/fashion-beauty/"
-    },
-    {
-      "text": "         ",
-      "url": "/life/fashion-beauty/canadas-laundry-and-personal-hygiene-habits-leave-a-lot-to-be-desired"
-    },
-    {
-      "text": "  Drugmaker seeks OK for first birth control pill without prescription in U.S.   The contraceptive is currently a prescription drug sold under the brand Opill.  ",
-      "url": "/health/diet-fitness/drugmaker-seeks-ok-for-first-birth-control-pill-without-prescription-in-u-s"
-    },
-    {
-      "text": "  Diet & Fitness  ",
-      "url": "/category/diet-fitness/"
-    },
-    {
-      "text": "         ",
-      "url": "/health/diet-fitness/drugmaker-seeks-ok-for-first-birth-control-pill-without-prescription-in-u-s"
-    },
-    {
       "text": " More life stories > ",
       "url": "/category/life/"
     },
     {
       "text": "Sunshine Girls",
       "url": "/category/sunshine-girls/"
+    },
+    {
+      "text": "  SUNshine Girl Nakitia   SUNshine Girl Nakitia must be looking forward to summer as she loves to spend time with family. The brown-eyed Sagittarius, an aspiring model, also likes to sing, play soccer and anything to do with animals. (STAN BEHAL/Toronto Sun/Postmedia Network)  ",
+      "url": "/sunshine-girl/sunshine-girl-nakitia-2"
+    },
+    {
+      "text": "  Sunshine Girls  ",
+      "url": "/category/sunshine-girls/"
+    },
+    {
+      "text": "         ",
+      "url": "/sunshine-girl/sunshine-girl-nakitia-2"
     },
     {
       "text": "  SUNshine Girl Carmen   SUNshine Girl Carmen is a brown-eyed adventurer who loves travel and experiencing new cultures. She also enjoys shopping, eating, and music. Carmen worked at Disney, so naturally she a fan of all things Mickey. Some day, she hopes to work in California. (Ernest Doroszuk/Toronto Sun)  ",
@@ -3408,18 +3482,6 @@
       "url": "/sunshine-girl/sunshine-girl-chelsea-4"
     },
     {
-      "text": "  SUNshine Girl Cassandra   SUNshine Girl Cassandra is back and hopefully living the pampered life. The last time we checked in, she was dreaming of being a rich housewife and driving Bugattis. (Ernest Doroszuk/Toronto Sun)  ",
-      "url": "/sunshine-girl/sunshine-girl-cassandra-2"
-    },
-    {
-      "text": "  Sunshine Girls  ",
-      "url": "/category/sunshine-girls/"
-    },
-    {
-      "text": "         ",
-      "url": "/sunshine-girl/sunshine-girl-cassandra-2"
-    },
-    {
       "text": " More sunshine girls stories > ",
       "url": "/category/sunshine-girls/"
     },
@@ -3428,44 +3490,44 @@
       "url": "/category/driving/"
     },
     {
-      "text": "  Quebec company takes Tesla Model S Plaid to 347 km/h   Software hacks permitted the car to blow past its 175-mph (281-km/h) limiter and crack the vaunted 200-mph barrier  ",
-      "url": "https://driving.ca/auto-news/entertainment/quebec-company-takes-tesla-model-s-plaid-to-216-mph-record-speed"
+      "text": "  Manitoba drivers in for a break if MPI rate request approved   Public insurer seeking 0.9 per cent rate reduction  ",
+      "url": "https://driving.ca/auto-news/driver-info/manitoba-drivers-in-for-a-break-if-mpi-rate-request-approved"
     },
     {
       "text": "         ",
-      "url": "https://driving.ca/auto-news/entertainment/quebec-company-takes-tesla-model-s-plaid-to-216-mph-record-speed"
+      "url": "https://driving.ca/auto-news/driver-info/manitoba-drivers-in-for-a-break-if-mpi-rate-request-approved"
     },
     {
-      "text": "  Watch: Pilot lands disabled plane on North Carolina highway   Sheriff says it's \"amazing\" the man managed to dodge vehicles and power lines  ",
-      "url": "https://driving.ca/auto-news/crashes/watch-pilot-lands-disabled-plane-on-north-carolina-highway"
-    },
-    {
-      "text": "         ",
-      "url": "https://driving.ca/auto-news/crashes/watch-pilot-lands-disabled-plane-on-north-carolina-highway"
-    },
-    {
-      "text": "  Ka-Chow: Ford trademarks 'Lightning' for Ranger, Maverick in Europe   Could the filings suggest EV variants of these models? What else could a Ranger Lightning and Maverick Lightning be?  ",
-      "url": "https://driving.ca/auto-news/news/ka-chow-ford-trademarks-lightning-for-ranger-maverick-in-europe"
+      "text": "  New EV battery materials plant to create \u2018hundreds\u2019 of jobs near Kingston   Facility a $1.5B investment in Loyalist Township  ",
+      "url": "https://driving.ca/auto-news/industry/new-ev-battery-materials-plant-to-create-hundreds-of-jobs-near-kingston"
     },
     {
       "text": "         ",
-      "url": "https://driving.ca/auto-news/news/ka-chow-ford-trademarks-lightning-for-ranger-maverick-in-europe"
+      "url": "https://driving.ca/auto-news/industry/new-ev-battery-materials-plant-to-create-hundreds-of-jobs-near-kingston"
     },
     {
-      "text": "  Walmart to electrify its delivery fleet with Canoo EVs   The deal gives Walmart an option to purchase up to 10,000 units  ",
-      "url": "https://driving.ca/auto-news/industry/walmart-to-electrify-its-delivery-fleet-with-canoo-evs"
-    },
-    {
-      "text": "         ",
-      "url": "https://driving.ca/auto-news/industry/walmart-to-electrify-its-delivery-fleet-with-canoo-evs"
-    },
-    {
-      "text": "  Family Vehicle Roundup: 2023 Honda HR-V, best rides for camping, and more   Because where are else are you going to find a list of the most famous RVs from the big screen?  ",
-      "url": "https://driving.ca/auto-news/news/family-vehicle-2023-honda-hr-v-best-rides-for-camping"
+      "text": "  Speeding driver's excuse? The kids need the bathroom   There are no excuses for speeding  ",
+      "url": "https://driving.ca/auto-news/crashes/speeding-drivers-excuse-the-kids-need-the-bathroom"
     },
     {
       "text": "         ",
-      "url": "https://driving.ca/auto-news/news/family-vehicle-2023-honda-hr-v-best-rides-for-camping"
+      "url": "https://driving.ca/auto-news/crashes/speeding-drivers-excuse-the-kids-need-the-bathroom"
+    },
+    {
+      "text": "  U.S. crosses the electric-car tipping point for mass adoption   The next major car markets\u00a0approaching the tipping point this year\u00a0include Canada, Australia, and Spain  ",
+      "url": "https://driving.ca/auto-news/industry/u-s-crosses-the-electric-car-tipping-point-for-mass-adoption"
+    },
+    {
+      "text": "         ",
+      "url": "https://driving.ca/auto-news/industry/u-s-crosses-the-electric-car-tipping-point-for-mass-adoption"
+    },
+    {
+      "text": "  Watch: Oblivious Ford driver runs over Corvette, monster-truck style   We know you're thinking it: \u201cOpe, lemme just scoot right past ya\u201d  ",
+      "url": "https://driving.ca/auto-news/crashes/watch-oblivious-ford-driver-runs-over-corvette-monster-truck-style"
+    },
+    {
+      "text": "         ",
+      "url": "https://driving.ca/auto-news/crashes/watch-oblivious-ford-driver-runs-over-corvette-monster-truck-style"
     },
     {
       "text": " More driving stories > ",
@@ -3476,8 +3538,48 @@
       "url": "/category/healthing/"
     },
     {
+      "text": "  As Told To: 'Not everyone knows how to react to someone with a life-altering injury'   But you can start by not raising your voice or feeling the need to speak slower, says Russ Davies, who has been living with a brain injury since 2009: 'People think you aren't capable of having a conversation.'  ",
+      "url": "https://www.healthing.ca/wellness/brain-health/as-told-to-surviving-brain-injury"
+    },
+    {
+      "text": "  Health  ",
+      "url": "/category/health/"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/wellness/brain-health/as-told-to-surviving-brain-injury"
+    },
+    {
+      "text": "  What are the signs of cataracts?   While there is currently no known way to prevent cataracts, you can reduce your risk by wearing sunglasses, eating foods rich in antioxidants, and getting regular eye exams.  ",
+      "url": "https://www.healthing.ca/wellness/eye-health/signs-of-cataracts"
+    },
+    {
+      "text": "  Health  ",
+      "url": "/category/health/"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/wellness/eye-health/signs-of-cataracts"
+    },
+    {
+      "text": "  WATCH: #HowieMandel breaks TikTok with a photo of an anal prolapse   The America\u2019s Got Talent judge took over TikTok last weekend by posting a photo of a severe anal prolapse \u2014 which aren't as rare as we'd like them to be.  ",
+      "url": "https://www.healthing.ca/diseases-and-conditions/tiktok-tuesday-anal-prolapse-howie-mandel"
+    },
+    {
+      "text": "  Health  ",
+      "url": "/category/health/"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.healthing.ca/diseases-and-conditions/tiktok-tuesday-anal-prolapse-howie-mandel"
+    },
+    {
       "text": "  Drinking alone when you're young linked to alcohol problems later in life   Researchers say young people often drink alone as a way to cope with negative emotions, a pattern of use that has been linked to alcohol use disorder.  ",
       "url": "https://www.healthing.ca/diseases-and-conditions/addiction/alcohol/drinking-alone-young-problems-later-life"
+    },
+    {
+      "text": "  Health  ",
+      "url": "/category/health/"
     },
     {
       "text": "         ",
@@ -3488,32 +3590,12 @@
       "url": "https://www.healthing.ca/diseases-and-conditions/arthritis/arthritis-more-than-just-aches-pains"
     },
     {
+      "text": "  Health  ",
+      "url": "/category/health/"
+    },
+    {
       "text": "         ",
       "url": "https://www.healthing.ca/diseases-and-conditions/arthritis/arthritis-more-than-just-aches-pains"
-    },
-    {
-      "text": "  'Nature's life support system': Fake or real, houseplants are great for mental health   Since COVID began, Canada's indoor plant industry has been booming, with sales of potted plants jumping from more than $903 million in 2020 to more than $995 million in 2021.  ",
-      "url": "https://www.healthing.ca/wellness/mental-health/houseplants-good-anxiety-depression"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.healthing.ca/wellness/mental-health/houseplants-good-anxiety-depression"
-    },
-    {
-      "text": "  Does mindfulness meditation really reduce pain?   Participants taught to meditate before experiencing painful stimuli reported a 33% drop in pain unpleasantness and 32% reduction in intensity.  ",
-      "url": "https://www.healthing.ca/wellness/does-mindfulness-meditation-really-reduce-pain"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.healthing.ca/wellness/does-mindfulness-meditation-really-reduce-pain"
-    },
-    {
-      "text": "  What are the signs of Magnesium deficiency?   More than one-third of Canadian adults aren't getting enough magnesium.  ",
-      "url": "https://www.healthing.ca/wellness/know-the-signs/what-is-magnesium-deficiency"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.healthing.ca/wellness/know-the-signs/what-is-magnesium-deficiency"
     },
     {
       "text": " More healthing stories > ",
@@ -3524,8 +3606,32 @@
       "url": "/category/thegrowthop/"
     },
     {
+      "text": "  Break-in report leads officers to 'hundreds of cannabis plants spread across multiple rooms'   The pot plants were taken away to be destroyed and the growing equipment was to be made useless.  ",
+      "url": "https://www.thegrowthop.com/cannabis-news/break-in-report-leads-officers-to-hundreds-of-cannabis-plants-spread-across-multiple-rooms"
+    },
+    {
+      "text": "  News  ",
+      "url": "/category/cannabis-news/"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.thegrowthop.com/cannabis-news/break-in-report-leads-officers-to-hundreds-of-cannabis-plants-spread-across-multiple-rooms"
+    },
+    {
+      "text": "  Ozzy Osbourne drops $1k at cannabis dispensary and then decides not to smoke   The Black Sabbath frontman has been sober for almost a decade.  ",
+      "url": "https://www.thegrowthop.com/cannabis-news/celebs/ozzy-osbourne-drops-1k-at-cannabis-dispensary-and-then-decides-not-to-smoke"
+    },
+    {
+      "text": "         ",
+      "url": "https://www.thegrowthop.com/cannabis-news/celebs/ozzy-osbourne-drops-1k-at-cannabis-dispensary-and-then-decides-not-to-smoke"
+    },
+    {
       "text": "  Canadian company launches pocket-sized electronic dispenser for liquid concentrates   The company-described \u201cKeurig of cannabis\u201d measures cannabis concentrates in 1 mg intervals.  ",
       "url": "https://www.thegrowthop.com/cannabis-news/canadian-company-launches-pocket-sized-electronic-dispenser-for-liquid-concentrates"
+    },
+    {
+      "text": "  News  ",
+      "url": "/category/cannabis-news/"
     },
     {
       "text": "         ",
@@ -3540,28 +3646,12 @@
       "url": "https://www.thegrowthop.com/cannabis-news/celebs/joe-rogan-responds-to-border-drug-seizure-you-should-take-all-these-drugs-and-rethink-your-life"
     },
     {
-      "text": "  Ozzy Osbourne drops $1k at cannabis dispensary and then decides not to smoke   The Black Sabbath frontman has been sober for almost a decade.  ",
-      "url": "https://www.thegrowthop.com/cannabis-news/celebs/ozzy-osbourne-drops-1k-at-cannabis-dispensary-and-then-decides-not-to-smoke"
+      "text": "  NBA Players Union inks deal with Al Harrington\u2019s CBD company   Re+Play products, created in partnership with Toronto-based company Avicanna, will also be sold at Walmart and Amazon.  ",
+      "url": "https://www.thegrowthop.com/cannabis-sports/nba-players-union-inks-deal-with-al-harringtons-cbd-company"
     },
     {
       "text": "         ",
-      "url": "https://www.thegrowthop.com/cannabis-news/celebs/ozzy-osbourne-drops-1k-at-cannabis-dispensary-and-then-decides-not-to-smoke"
-    },
-    {
-      "text": "  Ontario police seize cannabis worth $61 million   Estimated 45,000-plus illegal pot plants and eight metric tonnes of processed weed confiscated.  ",
-      "url": "https://www.thegrowthop.com/cannabis-news/raided-cannabis-grow-op-in-ontario-reveals-weed-equipment-and-property-valued-at-61m"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.thegrowthop.com/cannabis-news/raided-cannabis-grow-op-in-ontario-reveals-weed-equipment-and-property-valued-at-61m"
-    },
-    {
-      "text": "  Brittney Griner in the spotlight during WNBA All-Star game   \u201cWe are not going to stop until everyone understands how serious this really is.\u201d  ",
-      "url": "https://www.thegrowthop.com/cannabis-sports/brittney-griner-in-the-spotlight-during-wnba-all-star-game"
-    },
-    {
-      "text": "         ",
-      "url": "https://www.thegrowthop.com/cannabis-sports/brittney-griner-in-the-spotlight-during-wnba-all-star-game"
+      "url": "https://www.thegrowthop.com/cannabis-sports/nba-players-union-inks-deal-with-al-harringtons-cbd-company"
     },
     {
       "text": " More thegrowthop stories > ",
@@ -3680,7 +3770,7 @@
       "url": "/privacy-statement/en/"
     }
   ],
-  "uniq": 1288580714,
+  "uniq": 1472626104,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"
