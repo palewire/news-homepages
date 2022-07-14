@@ -1,10 +1,10 @@
-name: "Archive a single site"
+name: "Reusable workflow: Archive single site"
 
 on:
-  workflow_dispatch:
+  workflow_call:
     inputs:
       handle:
-        description: 'Site handle'
+        description: "The handle of the site to archive"
         required: true
         type: string
 

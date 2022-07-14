@@ -1,0 +1,17 @@
+name: "Archive a single site"
+
+on:
+  workflow_dispatch:
+    inputs:
+      handle:
+        description: 'Site handle'
+        required: true
+        type: string
+
+jobs:
+  archive-bundle:
+    name: Archive bundle
+    uses: palewire/news-homepages/.github/workflows/reusable-archive-single-site-workflow.yml@main
+    with:
+      handle: ${{ inputs.handle }}
+    secrets: inherit
