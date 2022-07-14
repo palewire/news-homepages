@@ -49,6 +49,6 @@ runs:
       name: Save artifact
       uses: actions/upload-artifact@v2
       with:
-        name: wayback
+        name: archive
         path: _dist
         if-no-files-found: error
