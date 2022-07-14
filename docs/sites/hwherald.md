@@ -17,7 +17,7 @@ orphan: true
 | Location       | Harvey                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 8 screenshots stored at the Internet Archive.
+The archiving routine has captured 9 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

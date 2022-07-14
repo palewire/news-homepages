@@ -17,7 +17,7 @@ orphan: true
 | Location       | Berkeley                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 195 screenshots stored at the Internet Archive.
+The archiving routine has captured 196 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

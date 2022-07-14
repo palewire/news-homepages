@@ -17,7 +17,7 @@ orphan: true
 | Location       | Wausau                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 161 screenshots stored at the Internet Archive.
+The archiving routine has captured 162 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

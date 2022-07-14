@@ -17,7 +17,7 @@ orphan: true
 | Location       | Joshua Tree                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 19 screenshots stored at the Internet Archive.
+The archiving routine has captured 20 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
