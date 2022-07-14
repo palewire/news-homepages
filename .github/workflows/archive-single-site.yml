@@ -9,9 +9,33 @@ on:
         type: string
 
 jobs:
-  archive-bundle:
+  archive-site:
     name: Archive bundle
     uses: palewire/news-homepages/.github/workflows/reusable-archive-single-site-workflow.yml@main
     with:
       handle: ${{ inputs.handle }}
     secrets: inherit
+
+  slack:
+    name: Send Slack
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [archive-site]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
+      - uses: actions/download-artifact@v3
+        with:
+          name: archive
+          path: ./_input
+
+      - id: ls
+        name: ls
+        run: ls -lF _input
+        shell: bash

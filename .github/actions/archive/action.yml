@@ -38,7 +38,7 @@ runs:
       name: Archive
       run: |
         mkdir _dist
-        pipenv run python -m newshomepages.archive ${{ inputs.source }} > _dist/${{ inputs.source }}.txt
+        pipenv run python -m newshomepages.archive ${{ inputs.source }} > _dist/${{ inputs.source }}.json
       shell: bash
       env:
         IA_ACCESS_KEY: ${{ inputs.access-key }}
