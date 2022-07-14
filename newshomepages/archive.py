@@ -1,3 +1,4 @@
+import json
 import os
 import typing
 from datetime import datetime
@@ -85,7 +86,15 @@ def _upload(data: dict, input_dir: str):
 
     # Upload it
     internetarchive.upload(identifier, **kwargs)
-    click.echo(identifier)
+
+    # Figure out file URLs
+    url_list = []
+    for key in file_dict.keys():
+        url = f"https://archive.org/download/{identifier}/{key}"
+        url_list.append(url)
+
+    # Dump them out
+    click.echo(json.dumps(url_list))
 
 
 if __name__ == "__main__":
