@@ -94,7 +94,7 @@ def _upload(data: dict, input_dir: str):
         url_list.append(url)
 
     # Dump them out
-    click.echo(json.dumps(url_list))
+    click.echo(json.dumps(url_list, indent=2))
 
 
 if __name__ == "__main__":
