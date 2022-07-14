@@ -1,5 +1,5 @@
 {
-  "created": 1657758490,
+  "created": 1657800990,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -2244,31 +2244,73 @@
       "sha1": "de88152d9f8a430f3a272fd9ced246a127863a89"
     },
     {
+      "name": "reuters-2022-07-13T23:27:57.973254-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657769283",
+      "size": "34881",
+      "md5": "641623945d0a7b672aeec7813cc7eb97",
+      "crc32": "a17fd0ce",
+      "sha1": "d36db1c0c3cab8ac0416e512d20331dde35b3d27",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-13T23:27:57.973254-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657769284",
+      "size": "26636",
+      "md5": "bbe6c83c0d25b41ab3ef788fd823ba9a",
+      "crc32": "b25ca2bf",
+      "sha1": "ed5d4a178a6dabd0771576f7789ca7c985939461",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-07-13T23:27:57.973254-04:00.jpg",
+      "source": "original",
+      "mtime": "1657769281",
+      "size": "226547",
+      "md5": "d6294f05f58fff1a1e7bed6cfba166ba",
+      "crc32": "89db0267",
+      "sha1": "9216d8957206f988288cbd88a3d080dfbefc4e2c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-07-13T23:27:57.973254-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-07-13T23:27:57.973254-04:00.jpg",
+      "mtime": "1657769375",
+      "size": "8303",
+      "md5": "27807b5d12280dd3fd2ccf49426e495a",
+      "crc32": "1f585139",
+      "sha1": "168481c8e5cc9dee0ecdd317b19a2dd76dcb8fc3"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83c3ae1579386ea98661980a5448b5661a8e51e3",
-      "mtime": "1657729779",
-      "size": "45940",
-      "md5": "41eba5e523500f46a2020a7594c1ba4f",
-      "crc32": "2c03f248",
-      "sha1": "1a9bf9ba42d9684336d8e9fe63811240b667de78",
+      "btih": "8027bd2f0d18675a3d10ca3e31ccbaab05be40ab",
+      "mtime": "1657769379",
+      "size": "46785",
+      "md5": "e36a2b8733f546fa0a192966a2af5486",
+      "crc32": "c6fd5e75",
+      "sha1": "207d4c02187e30502e8ca253a0c30882ef2d3ea3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "276cf17bb9d2e408fc9e1994cc6171da",
+      "md5": "427a313abad898e24c841714197cbfb1",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657729662",
-      "size": "262144",
-      "md5": "8b5b3db5a293c7805ab3fdb6bc4114ee",
-      "crc32": "881ee9a9",
-      "sha1": "fc29835a0d75eb30b526a3711d58e014c943e9ae",
+      "mtime": "1657769288",
+      "size": "266240",
+      "md5": "26f081887d88145de61a84e1edaaac11",
+      "crc32": "293807e5",
+      "sha1": "e6ded07d4fffcf325dad7c1d4ccee2821fd44508",
       "format": "Metadata"
     },
     {
@@ -2282,9 +2324,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 217,
-  "item_last_updated": 1657729779,
-  "item_size": 16591641,
+  "files_count": 221,
+  "item_last_updated": 1657769379,
+  "item_size": 16892949,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -2347,20 +2389,52 @@
       "url": "https://www.reuters.com/business/"
     },
     {
-      "text": "Legal",
-      "url": "/legal/"
+      "text": "Technology",
+      "url": "/technology/"
     },
     {
-      "text": "Breakingviews: Twitter may be target for non-Musk deal",
-      "url": "/legal/transactional/twitter-may-be-target-non-musk-deal-2022-07-12/"
+      "text": "Crypto lender Celsius files for bankruptcy",
+      "url": "/technology/crypto-lender-celsius-files-bankruptcy-2022-07-14/"
     },
     {
       "text": "Markets",
       "url": "/markets/"
     },
     {
-      "text": "Wall Street falls as inflation data fuels rate hike fears",
+      "text": "Wall St ends down as hot inflation data raises odds of steep Fed rate hike",
       "url": "/markets/europe/futures-edge-higher-ahead-inflation-data-2022-07-13/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Tesla's high-profile Autopilot executive departs",
+      "url": "/business/autos-transportation/teslas-ai-director-leaving-company-after-4-month-sabbatical-2022-07-13/"
+    },
+    {
+      "text": "Technology",
+      "url": "/technology/"
+    },
+    {
+      "text": "Amazon.com's Ring gave police data without user consent 11 times in 2022",
+      "url": "/technology/amazoncoms-ring-gave-police-data-without-user-consent-11-times-2022-2022-07-13/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Bank of Canada surprises with 100bp rate hike to tame inflation",
+      "url": "/world/americas/bank-canada-seen-set-jumbo-75-bp-rate-hike-inflation-bites-2022-07-13/"
+    },
+    {
+      "text": "Media & Telecom",
+      "url": "/business/media-telecom/"
+    },
+    {
+      "text": "Netflix names Microsoft as partner for ad-supported subscription plan",
+      "url": "/business/media-telecom/netflix-names-microsoft-partner-ad-supported-subscription-plan-2022-07-13/"
     },
     {
       "text": "Technology",
@@ -2371,183 +2445,211 @@
       "url": "/technology/apple-hovers-above-competition-even-smartphone-market-stumbles-sources-say-2022-07-13/"
     },
     {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "Analysis: Bear market puts ESG investing to its first big test",
-      "url": "/business/sustainable-business/bear-market-puts-esg-investing-its-first-big-test-2022-07-13/"
-    },
-    {
-      "text": "Legal",
-      "url": "/legal/"
-    },
-    {
-      "text": "U.S. SEC voted to undo Trump-era curbs on shareholder advisers",
-      "url": "/legal/government/us-sec-set-rescind-trump-era-curbs-shareholder-advisers-2022-07-13/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "Lufthansa cancels 2,000 additional flights",
-      "url": "/business/aerospace-defense/lufthansa-cancels-2000-additional-flights-bild-2022-07-13/"
-    },
-    {
-      "text": "Markets",
-      "url": "/markets/"
-    },
-    {
-      "text": "Spirit Airlines plans to delay Frontier deal vote to July 27",
-      "url": "/markets/deals/spirit-airlines-plans-delay-shareholder-vote-frontier-deal-july-27-2022-07-13/"
-    },
-    {
       "text": "U.S. Markets",
       "url": "/markets/us/"
     },
     {
-      "text": "U.S. inflation rises to its highest annual level since 1981, article with gallery",
-      "url": "/markets/us/gasoline-food-drive-us-consumer-prices-higher-june-2022-07-13/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/markets/us/gasoline-food-drive-us-consumer-prices-higher-june-2022-07-13/"
-    },
-    {
-      "text": "Hot U.S. June inflation turns up pressure on the Fed",
-      "url": "/markets/us/view-hot-us-june-cpi-turns-up-pressure-fed-2022-07-13/"
-    },
-    {
-      "text": "Fed seen jacking interest rates further as U.S. inflation soars",
+      "text": "Hot inflation fuels bets on supersized Fed rate hike, article with video",
       "url": "/markets/us/fed-seen-jacking-interest-rates-further-us-inflation-soars-2022-07-13/"
+    },
+    {
+      "text": "Video",
+      "url": "/markets/us/fed-seen-jacking-interest-rates-further-us-inflation-soars-2022-07-13/"
+    },
+    {
+      "text": "U.S. annual consumer inflation posts largest increase since 1981",
+      "url": "/markets/us/gasoline-food-drive-us-consumer-prices-higher-june-2022-07-13/"
+    },
+    {
+      "text": "Inflation report sets grim markets tone as investors ponder 100-basis-point hike",
+      "url": "/markets/europe/blistering-inflation-report-sets-grim-tone-us-markets-2022-07-13/"
+    },
+    {
+      "text": "Breakingviews: Scorching U.S. inflation obscures patches of shade",
+      "url": "/breakingviews/scorching-us-inflation-obscures-patches-shade-2022-07-13/"
     },
     {
       "text": "Markets",
       "url": "/markets/"
     },
     {
-      "text": "Dollar jumps, euro breaks parity after inflation surges",
-      "url": "/markets/europe/euro-clings-parity-traders-wait-us-inflation-2022-07-13/"
+      "text": "Analysis: Euro is at parity; its fate is now with energy markets",
+      "url": "/markets/europe/euro-is-parity-its-fate-is-now-with-energy-markets-2022-07-13/"
     },
     {
-      "text": "Analysis: Euro-dollar parity leaves ECB facing costly choices",
-      "url": "/markets/europe/euro-dollar-parity-leaves-ecb-facing-costly-choices-2022-07-13/"
+      "text": "Euro back above parity, dollar dips after inflation surges",
+      "url": "/markets/europe/euro-clings-parity-traders-wait-us-inflation-2022-07-13/"
     },
     {
       "text": "Explainer: Why the euro's fall below parity versus dollar matters",
       "url": "/markets/europe/why-euros-fall-below-parity-versus-dollar-matters-2022-07-13/"
     },
     {
-      "text": "Gallery",
-      "url": "/world/europe/wrapup1-kyiv-strikes-russian-held-area-southern-ukraine-rocket-attack-2022-07-13/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "Ukraine targets grain exports breakthrough at four-way talks, article with gallery",
-      "url": "/world/europe/wrapup1-kyiv-strikes-russian-held-area-southern-ukraine-rocket-attack-2022-07-13/"
+      "text": "Analysis: Euro-dollar parity leaves ECB facing costly choices",
+      "url": "/markets/europe/euro-dollar-parity-leaves-ecb-facing-costly-choices-2022-07-13/"
     },
     {
       "text": "Gallery",
-      "url": "/world/americas/bank-canada-seen-set-jumbo-75-bp-rate-hike-inflation-bites-2022-07-13/"
+      "url": "/markets/europe/global-markets-wrapup-1-2022-07-14/"
+    },
+    {
+      "text": "Markets",
+      "url": "/markets/"
+    },
+    {
+      "text": "Asian shares bruised as U.S. inflation data boosts recession fear, article with gallery",
+      "url": "/markets/europe/global-markets-wrapup-1-2022-07-14/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/europe/breakthrough-ukraine-grain-export-talks-heavy-shelling-continues-2022-07-13/"
     },
     {
       "text": "World",
       "url": "/world/"
     },
     {
-      "text": "Bank of Canada surprises with 100-basis-point rate hike, article with gallery",
-      "url": "/world/americas/bank-canada-seen-set-jumbo-75-bp-rate-hike-inflation-bites-2022-07-13/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/business/healthcare-pharmaceuticals/what-is-ba5-variant-why-does-it-seem-be-reinfecting-so-many-people-with-covid-19-2022-07-13/"
-    },
-    {
-      "text": "Explainer: What is the COVID BA.5 variant and why is it reinfecting so many people?, article with gallery",
-      "url": "/business/healthcare-pharmaceuticals/what-is-ba5-variant-why-does-it-seem-be-reinfecting-so-many-people-with-covid-19-2022-07-13/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "COVID or politics? Biden to avoid handshakes in Israel, Saudi Arabia",
-      "url": "/world/ahead-saudi-visit-white-house-signals-covid-requires-biden-avoid-handshakes-2022-07-13/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "The most coveted endorsement in race to be next British prime minister? Margaret Thatcher, article with image",
-      "url": "/world/uk/most-coveted-endorsement-race-be-next-british-prime-minister-margaret-thatcher-2022-07-13/"
+      "text": "Breakthrough at Ukraine grain export talks as heavy shelling continues, article with video",
+      "url": "/world/europe/breakthrough-ukraine-grain-export-talks-heavy-shelling-continues-2022-07-13/"
     },
     {
       "text": "",
-      "url": "/world/uk/most-coveted-endorsement-race-be-next-british-prime-minister-margaret-thatcher-2022-07-13/"
+      "url": "/business/aerospace-defense/us-successfully-tested-lockheed-hypersonic-missile-this-week-sources-2022-07-13/"
     },
     {
-      "text": "World's first malaria shot won't reach millions of children Lack of funding and commercial potential thwart the production of the essential vaccine",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/why-worlds-first-malaria-shot-wont-reach-millions-children-who-need-it-2022-07-13/"
+      "text": "Aerospace & Defense",
+      "url": "/business/aerospace-defense/"
+    },
+    {
+      "text": "U.S. successfully tests pair of Lockheed hypersonic missiles, article with image",
+      "url": "/business/aerospace-defense/us-successfully-tested-lockheed-hypersonic-missile-this-week-sources-2022-07-13/"
+    },
+    {
+      "text": "Charged",
+      "url": "/business/charged/"
+    },
+    {
+      "text": "Hyundai Motor launches first electric sedan, taking on Tesla",
+      "url": "/business/autos-transportation/hyundai-motor-launches-first-electric-sedan-taking-tesla-2022-07-14/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Ohio man charged with raping 10-year-old who later crossed state lines for abortion, article with gallery",
+      "url": "/world/us/ohio-man-charged-with-raping-10-year-old-who-was-forced-cross-state-lines-2022-07-13/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/us/ohio-man-charged-with-raping-10-year-old-who-was-forced-cross-state-lines-2022-07-13/"
+    },
+    {
+      "text": "The Wider ImageThe last maternity clinic in the DonbasAs war closes in, the Ukrainian-controlled ward is a lifeline ",
+      "url": "https://www.reuters.com/investigates/special-report/ukraine-crisis-maternity/"
     },
     {
       "text": "See all World",
       "url": "/world/"
     },
     {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
-    },
-    {
-      "text": "Malaysia obtains stay order against $15 bln award to late sultan's heirs",
-      "url": "/world/asia-pacific/malaysia-obtains-stay-order-against-15-bln-award-late-sultans-heirs-2022-07-13/"
-    },
-    {
-      "text": "Africa",
-      "url": "/world/africa/"
-    },
-    {
-      "text": "Suspected Islamists kill seven in east Congo city of Beni",
-      "url": "/world/africa/suspected-islamists-kill-seven-east-congo-city-beni-2022-07-13/"
-    },
-    {
       "text": "",
-      "url": "/world/very-difficult-decision-return-turbine-russian-pipeline-canadas-trudeau-2022-07-13/"
+      "url": "/world/china/china-reports-366-new-covid-cases-july-13-vs-338-day-earlier-2022-07-14/"
+    },
+    {
+      "text": "China",
+      "url": "/world/china/"
+    },
+    {
+      "text": "China reports 366 new COVID cases for July 13 vs 338 a day earlier, article with image",
+      "url": "/world/china/china-reports-366-new-covid-cases-july-13-vs-338-day-earlier-2022-07-14/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/uk/ancestral-ties-india-avidly-watching-british-leadership-race-2022-07-13/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Ancestral ties: India avidly watching British leadership race, article with gallery",
+      "url": "/world/uk/ancestral-ties-india-avidly-watching-british-leadership-race-2022-07-13/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/europe/breakthrough-ukraine-grain-export-talks-heavy-shelling-continues-2022-07-13/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Breakthrough at Ukraine grain export talks as heavy shelling continues, article with video",
+      "url": "/world/europe/breakthrough-ukraine-grain-export-talks-heavy-shelling-continues-2022-07-13/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/ukraines-zelenskiy-turkeys-erdogan-discuss-grain-exports-ukrainian-ports-2022-07-11/"
     },
     {
       "text": "World",
       "url": "/world/"
     },
     {
-      "text": "'Very difficult decision' to return turbine for Russian pipeline -Canada's Trudeau, article with image",
-      "url": "/world/very-difficult-decision-return-turbine-russian-pipeline-canadas-trudeau-2022-07-13/"
+      "text": "Ukraine's Zelenskiy, Turkey's Erdogan discuss grain exports, Ukrainian ports, article with video",
+      "url": "/world/ukraines-zelenskiy-turkeys-erdogan-discuss-grain-exports-ukrainian-ports-2022-07-11/"
+    },
+    {
+      "text": "",
+      "url": "/world/americas/brazil-congress-approves-major-spending-bill-lifting-bolsonaro-re-election-hopes-2022-07-13/"
     },
     {
       "text": "Americas",
       "url": "/world/americas/"
     },
     {
-      "text": "Haiti demonstrators block Port-au-Prince roads to protest fuel shortages",
-      "url": "/world/americas/haiti-demonstrators-block-port-au-prince-roads-protest-fuel-shortages-2022-07-13/"
+      "text": "Brazil Congress approves major spending bill, lifting Bolsonaro re-election hopes, article with image",
+      "url": "/world/americas/brazil-congress-approves-major-spending-bill-lifting-bolsonaro-re-election-hopes-2022-07-13/"
     },
     {
       "text": "Video",
-      "url": "/world/europe/ukraine-russia-what-you-need-know-right-now-2022-07-03/"
+      "url": "/world/europe/wildfires-rage-heatwave-scorches-portugal-spain-2022-07-13/"
     },
     {
       "text": "Europe",
       "url": "/world/europe/"
     },
     {
-      "text": "Ukraine and Russia: What you need to know right now, article with video",
-      "url": "/world/europe/ukraine-russia-what-you-need-know-right-now-2022-07-03/"
+      "text": "Scorching heat wave sparks wildfires in Europe, article with video",
+      "url": "/world/europe/wildfires-rage-heatwave-scorches-portugal-spain-2022-07-13/"
     },
     {
-      "text": "Gallery",
+      "text": "",
+      "url": "/world/china/shanghai-reports-42-new-local-asymptomatic-covid-cases-5-symptomatic-july-13-2022-07-13/"
+    },
+    {
+      "text": "China",
+      "url": "/world/china/"
+    },
+    {
+      "text": "Shanghai reports 42 new local asymptomatic COVID cases, 5 symptomatic for July 13, article with image",
+      "url": "/world/china/shanghai-reports-42-new-local-asymptomatic-covid-cases-5-symptomatic-july-13-2022-07-13/"
+    },
+    {
+      "text": "",
+      "url": "/world/africa/libyas-noc-chief-ignores-government-order-firing-him-2022-07-13/"
+    },
+    {
+      "text": "Africa",
+      "url": "/world/africa/"
+    },
+    {
+      "text": "Libya's oil chief rejects sacking, says govt mandate expired, article with image",
+      "url": "/world/africa/libyas-noc-chief-ignores-government-order-firing-him-2022-07-13/"
+    },
+    {
+      "text": "Video",
       "url": "/world/middle-east/biden-heads-israel-high-stakes-middle-east-visit-2022-07-13/"
     },
     {
@@ -2555,116 +2657,80 @@
       "url": "/world/middle-east/"
     },
     {
-      "text": "Biden greeted as old friend in Israel at start of Middle East tour, article with gallery",
+      "text": "Biden savors Israel 'homecoming' as high-wire Saudi leg looms, article with video",
       "url": "/world/middle-east/biden-heads-israel-high-stakes-middle-east-visit-2022-07-13/"
     },
     {
-      "text": "",
-      "url": "/world/middle-east/uae-will-continue-supporting-global-energy-security-says-president-first-address-2022-07-13/"
-    },
-    {
-      "text": "Middle East",
-      "url": "/world/middle-east/"
-    },
-    {
-      "text": "UAE president, in first address, stresses support for energy security, friendly relations, article with image",
-      "url": "/world/middle-east/uae-will-continue-supporting-global-energy-security-says-president-first-address-2022-07-13/"
-    },
-    {
-      "text": "",
-      "url": "/business/energy/eu-urge-countries-curb-gas-use-buffer-against-russian-cuts-2022-07-13/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "EU to urge countries to curb gas use to buffer against Russian cuts, article with image",
-      "url": "/business/energy/eu-urge-countries-curb-gas-use-buffer-against-russian-cuts-2022-07-13/"
-    },
-    {
-      "text": "",
-      "url": "/world/asia-pacific/sri-lanka-acting-president-asks-parliamentary-speaker-nominate-new-prime-2022-07-13/"
-    },
-    {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
-    },
-    {
-      "text": "Sri Lanka acting president asks parliamentary speaker to nominate new prime minister, article with image",
-      "url": "/world/asia-pacific/sri-lanka-acting-president-asks-parliamentary-speaker-nominate-new-prime-2022-07-13/"
-    },
-    {
-      "text": "",
-      "url": "/world/europe/eu-says-kaliningrad-rail-transport-not-banned-should-be-checked-2022-07-13/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "EU says Kaliningrad rail transport not banned but should be checked, article with image",
-      "url": "/world/europe/eu-says-kaliningrad-rail-transport-not-banned-should-be-checked-2022-07-13/"
-    },
-    {
       "text": "Gallery",
-      "url": "/business/environment/chinese-cities-break-heat-records-weather-extremes-persist-2022-07-13/"
+      "url": "/world/uk/actor-kevin-spacey-due-london-court-charged-with-sex-offences-2022-07-13/"
     },
     {
-      "text": "Business",
-      "url": "/business/"
+      "text": "United Kingdom",
+      "url": "/world/uk/"
     },
     {
-      "text": "Heatwaves hammer megacities in China's Yangtze River basin, article with gallery",
-      "url": "/business/environment/chinese-cities-break-heat-records-weather-extremes-persist-2022-07-13/"
+      "text": "Actor Kevin Spacey due in London court charged with sex offences, article with gallery",
+      "url": "/world/uk/actor-kevin-spacey-due-london-court-charged-with-sex-offences-2022-07-13/"
     },
     {
-      "text": "",
-      "url": "/world/turkey-russia-ukraine-un-set-meet-grain-exports-2022-07-13/"
+      "text": "Video",
+      "url": "/world/very-difficult-decision-return-turbine-russian-pipeline-canadas-trudeau-2022-07-13/"
     },
     {
       "text": "World",
       "url": "/world/"
     },
     {
-      "text": "Turkey, Russia, Ukraine, U.N. meet on grain exports, article with image",
-      "url": "/world/turkey-russia-ukraine-un-set-meet-grain-exports-2022-07-13/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/europe/wrapup1-kyiv-strikes-russian-held-area-southern-ukraine-rocket-attack-2022-07-13/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "Ukraine targets grain exports breakthrough at four-way talks, article with gallery",
-      "url": "/world/europe/wrapup1-kyiv-strikes-russian-held-area-southern-ukraine-rocket-attack-2022-07-13/"
-    },
-    {
-      "text": "",
-      "url": "/world/europe/hungarys-orban-convenes-cabinet-meeting-european-energy-supply-2022-07-13/"
-    },
-    {
-      "text": "Europe",
-      "url": "/world/europe/"
-    },
-    {
-      "text": "Hungary orders export ban on fuels, curbs utility price caps, article with image",
-      "url": "/world/europe/hungarys-orban-convenes-cabinet-meeting-european-energy-supply-2022-07-13/"
+      "text": "'Very difficult decision' to return turbine for Russian pipeline -Canada's Trudeau, article with video",
+      "url": "/world/very-difficult-decision-return-turbine-russian-pipeline-canadas-trudeau-2022-07-13/"
     },
     {
       "text": "Video",
-      "url": "/world/asia-pacific/sri-lanka-president-gotabaya-rajapaksa-flees-country-ap-2022-07-12/"
+      "url": "/world/bill-gates-donates-20-bln-his-foundation-2022-07-13/"
     },
     {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
+      "text": "World",
+      "url": "/world/"
     },
     {
-      "text": "Sri Lankan president flees to Maldives, protesters storm prime minister's office, article with video",
-      "url": "/world/asia-pacific/sri-lanka-president-gotabaya-rajapaksa-flees-country-ap-2022-07-12/"
+      "text": "Bill Gates donates $20 bln to his foundation, article with video",
+      "url": "/world/bill-gates-donates-20-bln-his-foundation-2022-07-13/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/europe/last-maternity-clinic-ukraine-controlled-donbas-lifeline-war-closes-2022-07-13/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Last maternity clinic in Ukraine-controlled Donbas a lifeline as war closes in, article with video",
+      "url": "/world/europe/last-maternity-clinic-ukraine-controlled-donbas-lifeline-war-closes-2022-07-13/"
+    },
+    {
+      "text": "",
+      "url": "/world/americas/peru-wants-us-help-stop-cocaine-trafficking-planes-2022-07-13/"
+    },
+    {
+      "text": "Americas",
+      "url": "/world/americas/"
+    },
+    {
+      "text": "Peru wants U.S. help to stop cocaine trafficking planes, article with image",
+      "url": "/world/americas/peru-wants-us-help-stop-cocaine-trafficking-planes-2022-07-13/"
+    },
+    {
+      "text": "",
+      "url": "/world/north-korea-recognises-breakaway-russias-proxies-east-ukraine-2022-07-13/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "North Korea recognises breakaway of Russia's proxies in east Ukraine, article with image",
+      "url": "/world/north-korea-recognises-breakaway-russias-proxies-east-ukraine-2022-07-13/"
     },
     {
       "text": "See all videos",
@@ -2672,131 +2738,15 @@
     },
     {
       "text": "",
-      "url": "https://www.reuters.com/business/retail-consumer/rising-prices-curb-consumers-taste-chocolate-2022-07-13/"
-    },
-    {
-      "text": "",
       "url": "https://www.reuters.com/world/asia-pacific/sri-lanka-president-gotabaya-rajapaksa-flees-country-ap-2022-07-12/"
     },
     {
       "text": "",
-      "url": "https://www.reuters.com/world/europe/surfing-scientists-hunt-microplastics-off-spanish-beaches-2022-07-13/"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/ahead-saudi-visit-white-house-signals-covid-requires-biden-avoid-handshakes-2022-07-13/"
-    },
-    {
-      "text": "World",
-      "url": "/world/"
-    },
-    {
-      "text": "COVID or politics? Biden to avoid handshakes in Israel, Saudi Arabia, article with gallery",
-      "url": "/world/ahead-saudi-visit-white-house-signals-covid-requires-biden-avoid-handshakes-2022-07-13/"
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/what-is-ba5-variant-why-does-it-seem-be-reinfecting-so-many-people-with-covid-19-2022-07-13/"
     },
     {
       "text": "",
-      "url": "/markets/us/biden-june-inflation-figures-unacceptably-high-out-of-date-2022-07-13/"
-    },
-    {
-      "text": "Markets",
-      "url": "/markets/"
-    },
-    {
-      "text": "Biden: June inflation figures \"unacceptably high\" but out-of-date, article with image",
-      "url": "/markets/us/biden-june-inflation-figures-unacceptably-high-out-of-date-2022-07-13/"
-    },
-    {
-      "text": "",
-      "url": "/world/us/us-house-democrat-says-agreement-coming-semiconductor-bill-2022-07-13/"
-    },
-    {
-      "text": "United States",
-      "url": "/world/us/"
-    },
-    {
-      "text": "U.S. House Democrat says agreement coming on semiconductor bill, article with image",
-      "url": "/world/us/us-house-democrat-says-agreement-coming-semiconductor-bill-2022-07-13/"
-    },
-    {
-      "text": "",
-      "url": "/world/americas/overall-covid-19-cases-decrease-americas-rise-south-central-america-paho-2022-07-13/"
-    },
-    {
-      "text": "Americas",
-      "url": "/world/americas/"
-    },
-    {
-      "text": "COVID cases down in Americas but Omicron subvariants driving new infections -PAHO, article with image",
-      "url": "/world/americas/overall-covid-19-cases-decrease-americas-rise-south-central-america-paho-2022-07-13/"
-    },
-    {
-      "text": "United Kingdom",
-      "url": "/world/uk/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/uk/eight-hopefuls-wanting-be-next-uk-pm-face-first-vote-narrow-field-2022-07-13/"
-    },
-    {
-      "text": "Eight hopefuls wanting to be next UK PM face first vote to narrow field, article with gallery",
-      "url": "/world/uk/eight-hopefuls-wanting-be-next-uk-pm-face-first-vote-narrow-field-2022-07-13/"
-    },
-    {
-      "text": "United Kingdom",
-      "url": "/world/uk/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/uk/british-government-hold-confidence-vote-itself-monday-bbc-2022-07-13/"
-    },
-    {
-      "text": "United Kingdom",
-      "url": "/world/uk/"
-    },
-    {
-      "text": "British government to hold confidence vote in itself on Monday, article with video",
-      "url": "/world/uk/british-government-hold-confidence-vote-itself-monday-bbc-2022-07-13/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/uk/poll-shows-penny-mordaunt-would-win-runoff-become-next-uk-pm-2022-07-13/"
-    },
-    {
-      "text": "United Kingdom",
-      "url": "/world/uk/"
-    },
-    {
-      "text": "Poll shows Penny Mordaunt would win runoff to become next UK PM, article with gallery",
-      "url": "/world/uk/poll-shows-penny-mordaunt-would-win-runoff-become-next-uk-pm-2022-07-13/"
-    },
-    {
-      "text": "",
-      "url": "/world/uk/most-coveted-endorsement-race-be-next-british-prime-minister-margaret-thatcher-2022-07-13/"
-    },
-    {
-      "text": "United Kingdom",
-      "url": "/world/uk/"
-    },
-    {
-      "text": "The most coveted endorsement in race to be next British prime minister? Margaret Thatcher, article with image",
-      "url": "/world/uk/most-coveted-endorsement-race-be-next-british-prime-minister-margaret-thatcher-2022-07-13/"
-    },
-    {
-      "text": "",
-      "url": "/world/uk/uk-rail-workers-strike-july-27-pa-media-citing-union-2022-07-13/"
-    },
-    {
-      "text": "United Kingdom",
-      "url": "/world/uk/"
-    },
-    {
-      "text": "UK rail workers to strike on July 27 over pay dispute, union says, article with image",
-      "url": "/world/uk/uk-rail-workers-strike-july-27-pa-media-citing-union-2022-07-13/"
+      "url": "https://www.reuters.com/world/us/get-inside-new-york-city-ad-surviving-nuclear-attack-raises-eyebrows-2022-07-13/"
     },
     {
       "text": "Asia Pacific ",
@@ -2804,151 +2754,271 @@
     },
     {
       "text": "",
-      "url": "/world/asia-pacific/sri-lankans-fury-turns-wickremesinghe-after-president-flees-2022-07-13/"
+      "url": "/world/asia-pacific/australia-jobs-surge-june-drive-unemployment-48-year-low-2022-07-14/"
     },
     {
       "text": "Asia Pacific",
       "url": "/world/asia-pacific/"
     },
     {
-      "text": "Sri Lankans' fury turns on Wickremesinghe after president flees, article with image",
-      "url": "/world/asia-pacific/sri-lankans-fury-turns-wickremesinghe-after-president-flees-2022-07-13/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/asia-pacific/sri-lankas-gotabaya-rajapaksa-civil-war-victor-brought-down-by-protests-2022-07-13/"
-    },
-    {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
-    },
-    {
-      "text": "Sri Lanka's Gotabaya Rajapaksa: Civil war victor brought down by protests, article with gallery",
-      "url": "/world/asia-pacific/sri-lankas-gotabaya-rajapaksa-civil-war-victor-brought-down-by-protests-2022-07-13/"
+      "text": "Australia unemployment dives to 48-year low as jobs boom, article with image",
+      "url": "/world/asia-pacific/australia-jobs-surge-june-drive-unemployment-48-year-low-2022-07-14/"
     },
     {
       "text": "",
-      "url": "/world/asia-pacific/how-sri-lankan-protests-unfolded-2022-07-13/"
-    },
-    {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
-    },
-    {
-      "text": "How Sri Lankan protests unfolded, article with image",
-      "url": "/world/asia-pacific/how-sri-lankan-protests-unfolded-2022-07-13/"
-    },
-    {
-      "text": "Video",
-      "url": "/world/asia-pacific/pacific-island-leaders-welcome-us-pledge-triple-funding-region-2022-07-13/"
-    },
-    {
-      "text": "Asia Pacific",
-      "url": "/world/asia-pacific/"
-    },
-    {
-      "text": "Pacific island leaders welcome U.S. pledge to triple funding for region, article with video",
-      "url": "/world/asia-pacific/pacific-island-leaders-welcome-us-pledge-triple-funding-region-2022-07-13/"
-    },
-    {
-      "text": "China",
-      "url": "/world/china/"
-    },
-    {
-      "text": "",
-      "url": "/world/china/chinas-exports-pick-up-speed-june-economy-bounces-covid-shock-2022-07-13/"
-    },
-    {
-      "text": "Macro Matters",
-      "url": "/markets/macromatters/"
-    },
-    {
-      "text": "China's exports bounce back, but global risks darken trade outlook, article with image",
-      "url": "/world/china/chinas-exports-pick-up-speed-june-economy-bounces-covid-shock-2022-07-13/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/china/shanghai-sweats-over-small-nagging-covid-outbreak-already-damaging-economy-2022-07-13/"
-    },
-    {
-      "text": "China",
-      "url": "/world/china/"
-    },
-    {
-      "text": "Shanghai sweats over small, but stubborn COVID outbreak already hampering economy, article with gallery",
-      "url": "/world/china/shanghai-sweats-over-small-nagging-covid-outbreak-already-damaging-economy-2022-07-13/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/business/environment/chinese-cities-break-heat-records-weather-extremes-persist-2022-07-13/"
-    },
-    {
-      "text": "Business",
-      "url": "/business/"
-    },
-    {
-      "text": "Heatwaves hammer megacities in China's Yangtze River basin, article with gallery",
-      "url": "/business/environment/chinese-cities-break-heat-records-weather-extremes-persist-2022-07-13/"
-    },
-    {
-      "text": "",
-      "url": "/markets/commodities/britain-proposes-dropping-anti-dumping-measures-against-chinese-steel-2022-07-12/"
-    },
-    {
-      "text": "Markets",
-      "url": "/markets/"
-    },
-    {
-      "text": "Britain proposes dropping anti-dumping measures against Chinese steel, article with image",
-      "url": "/markets/commodities/britain-proposes-dropping-anti-dumping-measures-against-chinese-steel-2022-07-12/"
-    },
-    {
-      "text": "Healthcare & Pharmaceuticals",
-      "url": "/business/healthcare-pharmaceuticals/"
-    },
-    {
-      "text": "Video",
-      "url": "/business/healthcare-pharmaceuticals/why-worlds-first-malaria-shot-wont-reach-millions-children-who-need-it-2022-07-13/"
-    },
-    {
-      "text": "Why world's first malaria shot won't reach millions of children who need it, article with video",
-      "url": "/business/healthcare-pharmaceuticals/why-worlds-first-malaria-shot-wont-reach-millions-children-who-need-it-2022-07-13/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/business/healthcare-pharmaceuticals/adapted-two-strain-vaccines-lift-covid-protection-eu-official-2022-07-13/"
-    },
-    {
-      "text": "Healthcare & Pharmaceuticals",
-      "url": "/business/healthcare-pharmaceuticals/"
-    },
-    {
-      "text": "Adapted, two-strain vaccines to lift COVID protection - EU official, article with gallery",
-      "url": "/business/healthcare-pharmaceuticals/adapted-two-strain-vaccines-lift-covid-protection-eu-official-2022-07-13/"
-    },
-    {
-      "text": "Gallery",
-      "url": "/world/europe/last-maternity-clinic-ukraine-controlled-donbas-lifeline-war-closes-2022-07-13/"
+      "url": "/world/north-korea-recognises-breakaway-russias-proxies-east-ukraine-2022-07-13/"
     },
     {
       "text": "World",
       "url": "/world/"
     },
     {
-      "text": "Last maternity clinic in Ukraine-controlled Donbas a lifeline as war closes in, article with gallery",
-      "url": "/world/europe/last-maternity-clinic-ukraine-controlled-donbas-lifeline-war-closes-2022-07-13/"
+      "text": "North Korea recognises breakaway of Russia's proxies in east Ukraine, article with image",
+      "url": "/world/north-korea-recognises-breakaway-russias-proxies-east-ukraine-2022-07-13/"
     },
     {
       "text": "Gallery",
-      "url": "/legal/transactional/us-joins-lawsuit-accusing-fresenius-medical-care-unit-medicare-fraud-2022-07-13/"
+      "url": "/business/autos-transportation/hyundai-motor-launches-first-electric-sedan-taking-tesla-2022-07-14/"
     },
     {
-      "text": "Legal",
-      "url": "/legal/"
+      "text": "Charged",
+      "url": "/business/charged/"
     },
     {
-      "text": "U.S. joins lawsuit accusing Fresenius Medical Care unit of Medicare fraud, article with gallery",
-      "url": "/legal/transactional/us-joins-lawsuit-accusing-fresenius-medical-care-unit-medicare-fraud-2022-07-13/"
+      "text": "Hyundai Motor launches first electric sedan, taking on Tesla, article with gallery",
+      "url": "/business/autos-transportation/hyundai-motor-launches-first-electric-sedan-taking-tesla-2022-07-14/"
+    },
+    {
+      "text": "",
+      "url": "/world/asia-pacific/imf-reaches-staff-level-agreement-release-117-bln-funds-pakistan-2022-07-14/"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "IMF reaches staff-level agreement to release $1.17 bln in funds for Pakistan, article with image",
+      "url": "/world/asia-pacific/imf-reaches-staff-level-agreement-release-117-bln-funds-pakistan-2022-07-14/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/uk/eight-hopefuls-wanting-be-next-uk-pm-face-first-vote-narrow-field-2022-07-13/"
+    },
+    {
+      "text": "Ex-finance minister Sunak tops first vote to be next UK PM, article with gallery",
+      "url": "/world/uk/eight-hopefuls-wanting-be-next-uk-pm-face-first-vote-narrow-field-2022-07-13/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "",
+      "url": "/world/uk/uks-truss-pledges-make-tough-decisions-she-sets-out-pitch-be-pm-2022-07-13/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "UK's Truss pledges to make the tough decisions as she sets out pitch to be PM, article with image",
+      "url": "/world/uk/uks-truss-pledges-make-tough-decisions-she-sets-out-pitch-be-pm-2022-07-13/"
+    },
+    {
+      "text": "",
+      "url": "/markets/europe/uk-house-price-growth-falls-lowest-since-march-2021-rics-2022-07-13/"
+    },
+    {
+      "text": "Macro Matters",
+      "url": "/markets/macromatters/"
+    },
+    {
+      "text": "UK house price growth falls to lowest since March 2021 - RICS, article with image",
+      "url": "/markets/europe/uk-house-price-growth-falls-lowest-since-march-2021-rics-2022-07-13/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/uk/actor-kevin-spacey-due-london-court-charged-with-sex-offences-2022-07-13/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Actor Kevin Spacey due in London court charged with sex offences, article with gallery",
+      "url": "/world/uk/actor-kevin-spacey-due-london-court-charged-with-sex-offences-2022-07-13/"
+    },
+    {
+      "text": "",
+      "url": "/world/uk/anti-eu-campaigner-farage-says-only-braverman-will-complete-brexit-2022-07-13/"
+    },
+    {
+      "text": "United Kingdom",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "Anti-EU campaigner Farage says only Braverman will 'complete Brexit', article with image",
+      "url": "/world/uk/anti-eu-campaigner-farage-says-only-braverman-will-complete-brexit-2022-07-13/"
+    },
+    {
+      "text": "United States",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/us/texas-power-use-breaks-record-heat-wave-again-with-no-blackouts-2022-07-13/"
+    },
+    {
+      "text": "United States",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Texas grid takes emergency actions to avoid blackouts amid heatwave, article with video",
+      "url": "/world/us/texas-power-use-breaks-record-heat-wave-again-with-no-blackouts-2022-07-13/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/us/former-cia-engineer-convicted-wikileaks-espionage-case-2022-07-13/"
+    },
+    {
+      "text": "United States",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Former CIA engineer convicted in WikiLeaks espionage case, article with gallery",
+      "url": "/world/us/former-cia-engineer-convicted-wikileaks-espionage-case-2022-07-13/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/us/video-shows-police-response-uvalde-shooting-was-indefensible-cruz-says-2022-07-13/"
+    },
+    {
+      "text": "United States",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Video shows police response in Uvalde shooting was 'indefensible,' Cruz says, article with video",
+      "url": "/world/us/video-shows-police-response-uvalde-shooting-was-indefensible-cruz-says-2022-07-13/"
+    },
+    {
+      "text": "",
+      "url": "/world/us/boston-mayor-names-michael-cox-once-beaten-by-police-be-new-chief-2022-07-13/"
+    },
+    {
+      "text": "United States",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Boston officer once beaten by police named as new commissioner, article with image",
+      "url": "/world/us/boston-mayor-names-michael-cox-once-beaten-by-police-be-new-chief-2022-07-13/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/europe/italys-government-faces-collapse-if-5-star-pulls-out-2022-07-13/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Italy's government faces collapse as 5-Star shuns confidence vote, article with gallery",
+      "url": "/world/europe/italys-government-faces-collapse-if-5-star-pulls-out-2022-07-13/"
+    },
+    {
+      "text": "Video",
+      "url": "/world/europe/wildfires-rage-heatwave-scorches-portugal-spain-2022-07-13/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Scorching heat wave sparks wildfires in Europe, article with video",
+      "url": "/world/europe/wildfires-rage-heatwave-scorches-portugal-spain-2022-07-13/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/world/europe/hungarians-protest-second-day-against-tax-overhaul-2022-07-13/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Hungarians protest for second day against tax overhaul, article with gallery",
+      "url": "/world/europe/hungarians-protest-second-day-against-tax-overhaul-2022-07-13/"
+    },
+    {
+      "text": "",
+      "url": "/world/lithuania-will-allow-sanctioned-russian-goods-trade-kaliningrad-2022-07-13/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Lithuania will allow sanctioned Russian goods trade to Kaliningrad, article with image",
+      "url": "/world/lithuania-will-allow-sanctioned-russian-goods-trade-kaliningrad-2022-07-13/"
+    },
+    {
+      "text": "Aerospace",
+      "url": "/business/aerospace-defense/"
+    },
+    {
+      "text": "",
+      "url": "/business/aerospace-defense/spacex-starship-booster-probably-returning-pad-after-explosion-elon-musk-2022-07-13/"
+    },
+    {
+      "text": "Aerospace & Defense",
+      "url": "/business/aerospace-defense/"
+    },
+    {
+      "text": "SpaceX Starship booster 'probably' returning to pad after explosion -Elon Musk, article with image",
+      "url": "/business/aerospace-defense/spacex-starship-booster-probably-returning-pad-after-explosion-elon-musk-2022-07-13/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/business/aerospace-defense/delta-sees-meaningful-full-year-profit-resilient-consumer-demand-2022-07-13/"
+    },
+    {
+      "text": "Aerospace & Defense",
+      "url": "/business/aerospace-defense/"
+    },
+    {
+      "text": "Delta warns of rising costs after missing earnings estimates, article with gallery",
+      "url": "/business/aerospace-defense/delta-sees-meaningful-full-year-profit-resilient-consumer-demand-2022-07-13/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/technology/us-faa-contact-with-spacex-after-booster-rocket-fire-2022-07-12/"
+    },
+    {
+      "text": "Technology",
+      "url": "/technology/"
+    },
+    {
+      "text": "U.S. FAA in contact with SpaceX after booster rocket fire, article with gallery",
+      "url": "/technology/us-faa-contact-with-spacex-after-booster-rocket-fire-2022-07-12/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/business/aerospace-defense/airbus-talks-sell-more-a220-jets-delta-sources-2022-07-13/"
+    },
+    {
+      "text": "Aerospace & Defense",
+      "url": "/business/aerospace-defense/"
+    },
+    {
+      "text": "Airbus in talks to sell more A220 jets to Delta, article with gallery",
+      "url": "/business/aerospace-defense/airbus-talks-sell-more-a220-jets-delta-sources-2022-07-13/"
     },
     {
       "text": "",
@@ -2956,11 +3026,11 @@
     },
     {
       "text": "",
-      "url": "https://www.reuters.com/world/europe/sardinian-farmers-suffer-worst-locust-invasion-over-30-years-2022-07-13/"
+      "url": "https://www.reuters.com/lifestyle/science/webb-space-telescope-opens-door-discoveries-still-unimagined-2022-07-13/"
     },
     {
       "text": "",
-      "url": "https://www.reuters.com/world/uk/ancestral-ties-india-avidly-watching-british-leadership-race-2022-07-13/"
+      "url": "https://www.reuters.com/lifestyle/sports/djokovic-opens-regional-tennis-centre-bosnian-pyramids-park-2022-07-13/"
     },
     {
       "text": "Home",
@@ -3152,7 +3222,7 @@
     }
   ],
   "server": "ia802504.us.archive.org",
-  "uniq": 2084345448,
+  "uniq": 1018679799,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

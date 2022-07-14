@@ -1,5 +1,5 @@
 {
-  "created": 1657758712,
+  "created": 1657801203,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/13/items/wsj-2022",
@@ -11058,31 +11058,73 @@
       "sha1": "173245a78a3c125425f47c9effd72424d9a6df4a"
     },
     {
+      "name": "wsj-2022-07-14T00:16:10.130955-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657772179",
+      "size": "67281",
+      "md5": "ca40c51e8363e5b873ec6f1f7702530a",
+      "crc32": "43188a92",
+      "sha1": "ae93fad0b4b8fa8dd7af33641cc4d89e1d8361d2",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-07-14T00:16:10.130955-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657772181",
+      "size": "92010",
+      "md5": "48f7c3c9d61c9c7a74819da9a54e492f",
+      "crc32": "717cc1d1",
+      "sha1": "e3299bdbb1ef00546c9cfdf8e497d054d584d2b9",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-07-14T00:16:10.130955-04:00.jpg",
+      "source": "original",
+      "mtime": "1657772177",
+      "size": "312801",
+      "md5": "67d0cfe450c8ba9a74c9d113c13da4e1",
+      "crc32": "1dcd74db",
+      "sha1": "270dfa84e9b950ce211a017143f5da0f6e62b86c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsj-2022-07-14T00:16:10.130955-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsj-2022-07-14T00:16:10.130955-04:00.jpg",
+      "mtime": "1657772240",
+      "size": "8931",
+      "md5": "f981e9d04fed8870c9222ea2dbb7f85e",
+      "crc32": "5c1b93c8",
+      "sha1": "ace011b5106111d22ea75a83e59d2cf7a148f6e2"
+    },
+    {
       "name": "wsj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dca674cb51ad0409455f0d5ef2533b68b2f27f39",
-      "mtime": "1657748024",
-      "size": "219744",
-      "md5": "1e338446d8902e2ccd7c419ba841aa86",
-      "crc32": "44151998",
-      "sha1": "8b942616b2ea6a7bae46bc8c46f04535dc6de540",
+      "btih": "4637aee43106c257caa6866526003f029a65da76",
+      "mtime": "1657772252",
+      "size": "220573",
+      "md5": "70124d690233afe3cb2c09079817926d",
+      "crc32": "7d5f948d",
+      "sha1": "679f5ec28e3b1830e41b57888fb0ff397468b34c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d921f8747e3ba7f2b55a8fb342aaea5f",
+      "md5": "7e3732e9361cfcca482a19a1db806abb",
       "summation": "md5"
     },
     {
       "name": "wsj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657747674",
-      "size": "1191936",
-      "md5": "3e27b58ce21d3f854b468dab0a885168",
-      "crc32": "b73a751a",
-      "sha1": "9e401926c8eb44db54772395a4f0f80ec92bd4dd",
+      "mtime": "1657772185",
+      "size": "1196032",
+      "md5": "89833daeb7dc745d088990e496728ab7",
+      "crc32": "3334ca23",
+      "sha1": "dc14782241917554b0509604923bbce4427ab4eb",
       "format": "Metadata"
     },
     {
@@ -11096,9 +11138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1055,
-  "item_last_updated": 1657748024,
-  "item_size": 157427132,
+  "files_count": 1059,
+  "item_last_updated": 1657772252,
+  "item_size": 157913080,
   "metadata": {
     "identifier": "wsj-2022",
     "collection": [
@@ -11115,11 +11157,11 @@
     "publicdate": "2022-03-23 12:05:37",
     "addeddate": "2022-03-23 12:05:37"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1601570191,
+  "server": "ia902507.us.archive.org",
+  "uniq": 316048774,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ],
   "wsj-2022": [
     {
@@ -11235,24 +11277,24 @@
       "url": "https://www.thetimes.co.uk"
     },
     {
-      "text": "DJIA30772.79 points with a0.67%\u25bc",
-      "url": "https://www.wsj.com/market-data/quotes/index/US/DJIA?mod=mdstrip"
+      "text": "Nikkei26662.55 points with a0.69%\u25b2",
+      "url": "https://www.wsj.com/market-data/quotes/index/JP/NIK?mod=mdstrip"
     },
     {
-      "text": "Nasdaq11247.58 points with a0.15%\u25bc",
-      "url": "https://www.wsj.com/market-data/quotes/index/US/COMP?mod=mdstrip"
+      "text": "Hang Seng20855.63 points with a0.28%\u25b2",
+      "url": "https://www.wsj.com/market-data/quotes/index/HK/HSI?mod=mdstrip"
     },
     {
-      "text": "U.S. 10 Yr3/32  Yieldwith a2.936%\u25b2",
+      "text": "U.S. 10 Yr-2/32  Yieldwith a2.959%\u25bc",
       "url": "https://www.wsj.com/market-data/quotes/bond/BX/TMUBMUSD10Y?mod=mdstrip"
     },
     {
-      "text": "Crude Oil96.48 points with a0.67%\u25b2",
+      "text": "Crude Oil96.83 points with a0.55%\u25b2",
       "url": "https://www.wsj.com/market-data/quotes/futures/US/Crude Oil - Electronic?mod=mdstrip"
     },
     {
-      "text": "Euro1.0063 points with a0.03%\u25b2",
-      "url": "https://www.wsj.com/market-data/quotes/fx/EURUSD?mod=mdstrip"
+      "text": "Yen138.04 points with a0.44%\u25b2",
+      "url": "https://www.wsj.com/market-data/quotes/fx/USDJPY?mod=mdstrip"
     },
     {
       "text": "The Wall Street Journal",
@@ -12771,10 +12813,6 @@
       "url": "https://www.wsj.com/news/author/jason-gay?mod=nav_top_subsection"
     },
     {
-      "text": "\n            Take Survey\n          ",
-      "url": "https://dowjonessurveys.co1.qualtrics.com/jfe/form/SV_1GjqkIaSNntuAtM?version=main&source=bannerprospect"
-    },
-    {
       "text": "Inflation Hits 9.1% as Prices Rise Broadly Across Economy",
       "url": "https://www.wsj.com/articles/us-inflation-june-2022-consumer-price-index-11657664129"
     },
@@ -12783,55 +12821,35 @@
       "url": "https://www.wsj.com/articles/us-inflation-june-2022-consumer-price-index-11657664129"
     },
     {
-      "text": "Live Updates and Analysis",
-      "url": "https://www.wsj.com/livecoverage/stock-market-news-inflation-consumer-price-index-june-2022"
+      "text": "More Investors Bet on Bigger Rate Rise This Month",
+      "url": "https://www.wsj.com/articles/feds-inflation-dashboard-puts-more-weight-on-volatile-energy-food-prices-11657704600"
     },
     {
-      "text": "Volatility in Bonds Deepens",
+      "text": "Volatility in Bonds Deepens After Inflation Report",
       "url": "https://www.wsj.com/articles/higher-than-expected-inflation-lifts-government-bond-yields-11657722207"
-    },
-    {
-      "text": "Stocks Close Lower",
-      "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-07-13-2022-11657697516"
     },
     {
       "text": "Economy Slows in Parts of U.S.",
       "url": "https://www.wsj.com/articles/u-s-economy-slows-in-several-parts-of-the-country-feds-beige-book-says-11657737366"
     },
     {
-      "text": "Bank of Canada Surprises With Full-Point Rate Rise",
-      "url": "https://www.wsj.com/articles/bank-of-canada-surprises-with-full-point-rate-rise-to-combat-inflation-11657721714"
-    },
-    {
       "text": "Heard on the Street: Inflation May Have Peaked, but Fed Won\u2019t Back Off",
       "url": "https://www.wsj.com/articles/inflation-may-have-peaked-but-the-fed-wont-back-off-11657726154"
-    },
-    {
-      "text": "",
-      "url": "https://www.wsj.com/articles/inflation-tracker-cpi-data-prices-11657717467"
     },
     {
       "text": "Build Your Own Basket to Track Inflation",
       "url": "https://www.wsj.com/articles/inflation-tracker-cpi-data-prices-11657717467"
     },
     {
-      "text": "",
-      "url": "https://www.wsj.com/articles/hot-dogs-cookies-the-electricity-bill-prices-that-rose-the-most-in-june-11657734680"
-    },
-    {
       "text": "These Price Increases Hurt the Most in June",
       "url": "https://www.wsj.com/articles/hot-dogs-cookies-the-electricity-bill-prices-that-rose-the-most-in-june-11657734680"
-    },
-    {
-      "text": "",
-      "url": "https://www.wsj.com/articles/beware-wishful-thinking-about-inflation-and-recession-11657719575"
     },
     {
       "text": "Beware Wishful Thinking About Inflation and Recession",
       "url": "https://www.wsj.com/articles/beware-wishful-thinking-about-inflation-and-recession-11657719575"
     },
     {
-      "text": "241",
+      "text": "325",
       "url": "https://www.wsj.com/articles/beware-wishful-thinking-about-inflation-and-recession-11657719575#comments_sector"
     },
     {
@@ -12843,11 +12861,11 @@
       "url": "https://www.wsj.com/articles/americans-age-50-and-up-are-powering-streaming-growth-11657735607?mod=hp_featst_pos3"
     },
     {
-      "text": "Musk-Twitter Legal Battle Centers on Complex Metric",
+      "text": "Elon Musk and Twitter Each Face Challenge to Define What Makes an Account Fake",
       "url": "https://www.wsj.com/articles/legal-battle-between-twitter-and-elon-musk-centers-on-complex-metric-11657713448?mod=hp_lead_pos2"
     },
     {
-      "text": "96",
+      "text": "140",
       "url": "https://www.wsj.com/articles/legal-battle-between-twitter-and-elon-musk-centers-on-complex-metric-11657713448?mod=hp_lead_pos2#comments_sector"
     },
     {
@@ -12859,59 +12877,55 @@
       "url": "https://www.wsj.com/articles/u-s-urges-pharmacists-to-fill-prescriptions-for-drugs-that-can-be-used-in-abortions-11657730714?mod=hp_lead_pos3"
     },
     {
-      "text": "188",
+      "text": "302",
       "url": "https://www.wsj.com/articles/u-s-urges-pharmacists-to-fill-prescriptions-for-drugs-that-can-be-used-in-abortions-11657730714?mod=hp_lead_pos3#comments_sector"
     },
     {
-      "text": "Michael Barr Confirmed as Fed\u2019s Top Banking Regulator",
-      "url": "https://www.wsj.com/articles/biden-nominee-for-feds-top-banking-regulator-confirmed-as-fed-governor-11657731124?mod=hp_lead_pos4"
+      "text": "Crypto Lender Celsius Files for Bankruptcy",
+      "url": "https://www.wsj.com/articles/crypto-crash-drags-lender-celsius-network-into-bankruptcy-11657758483?mod=hp_lead_pos4"
     },
     {
-      "text": "3",
-      "url": "https://www.wsj.com/articles/biden-nominee-for-feds-top-banking-regulator-confirmed-as-fed-governor-11657731124?mod=hp_lead_pos4#comments_sector"
+      "text": "39",
+      "url": "https://www.wsj.com/articles/crypto-crash-drags-lender-celsius-network-into-bankruptcy-11657758483?mod=hp_lead_pos4#comments_sector"
     },
     {
-      "text": "",
-      "url": "https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958?mod=hp_lead_pos5"
+      "text": "Sri Lanka\u2019s Debt Crisis Tests China\u2019s Role as Financier to Poor Countries",
+      "url": "https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179?mod=hp_lead_pos5"
+    },
+    {
+      "text": "59",
+      "url": "https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179?mod=hp_lead_pos5#comments_sector"
+    },
+    {
+      "text": "Sri Lanka in Chaos After President Flees",
+      "url": "https://www.wsj.com/articles/sri-lanka-imposes-state-of-emergency-after-president-flees-country-11657711655"
     },
     {
       "text": "12 Hours of Misery at One of the World\u2019s Busiest Airports",
-      "url": "https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958?mod=hp_lead_pos5"
+      "url": "https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958?mod=hp_lead_pos6"
     },
     {
-      "text": "133",
-      "url": "https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958?mod=hp_lead_pos5#comments_sector"
+      "text": "213",
+      "url": "https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958?mod=hp_lead_pos6#comments_sector"
     },
     {
       "text": "Lufthansa Cancels 2,000 Flights, Citing Staff Shortages",
       "url": "https://www.wsj.com/articles/lufthansa-cancels-2-000-more-flights-citing-staff-shortages-11657725467"
     },
     {
-      "text": "Delta Predicts Travel Rebound Will Stretch Past Summer",
+      "text": "Delta Predicts Travel Rebound to Stretch Past Summer",
       "url": "https://www.wsj.com/articles/summer-travel-rebound-delivers-profit-for-delta-despite-rising-costs-11657708320"
     },
     {
-      "text": "Heard on the Street: Airport Chaos Is a High-Class Problem for Airlines",
+      "text": "Heard on the Street: A High-Class Problem for Airlines",
       "url": "https://www.wsj.com/articles/airport-chaos-is-a-high-class-problem-for-airlines-11657725034"
-    },
-    {
-      "text": "Sri Lanka\u2019s Debt Crisis Tests China\u2019s Role as Financier to Poor Countries",
-      "url": "https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179?mod=hp_lead_pos6"
-    },
-    {
-      "text": "15",
-      "url": "https://www.wsj.com/articles/sri-lankas-debt-crisis-tests-chinas-role-as-financier-to-poor-countries-imf-bailout-11657735179?mod=hp_lead_pos6#comments_sector"
-    },
-    {
-      "text": "Sri Lanka Imposes State of Emergency After President Flees Country",
-      "url": "https://www.wsj.com/articles/sri-lanka-imposes-state-of-emergency-after-president-flees-country-11657711655"
     },
     {
       "text": "Ukraine Strikes Show Impact of New Weapons",
       "url": "https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988?mod=hp_lead_pos7"
     },
     {
-      "text": "234",
+      "text": "299",
       "url": "https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988?mod=hp_lead_pos7#comments_sector"
     },
     {
@@ -12928,27 +12942,27 @@
     },
     {
       "text": "",
-      "url": "https://www.wsj.com/articles/warren-buffetts-berkshire-hathaway-adds-to-big-oil-bet-11657710000?mod=hp_lead_pos11"
+      "url": "https://www.wsj.com/articles/biden-nominee-for-feds-top-banking-regulator-confirmed-as-fed-governor-11657731124?mod=hp_lead_pos11"
+    },
+    {
+      "text": "Michael Barr Confirmed as Fed\u2019s Top Banking Regulator5 min read",
+      "url": "https://www.wsj.com/articles/biden-nominee-for-feds-top-banking-regulator-confirmed-as-fed-governor-11657731124?mod=hp_lead_pos11"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/warren-buffetts-berkshire-hathaway-adds-to-big-oil-bet-11657710000?mod=hp_lead_pos12"
     },
     {
       "text": "Berkshire Hathaway Adds to Big Oil Bet4 min read",
-      "url": "https://www.wsj.com/articles/warren-buffetts-berkshire-hathaway-adds-to-big-oil-bet-11657710000?mod=hp_lead_pos11"
+      "url": "https://www.wsj.com/articles/warren-buffetts-berkshire-hathaway-adds-to-big-oil-bet-11657710000?mod=hp_lead_pos12"
     },
     {
       "text": "",
-      "url": "https://www.wsj.com/articles/university-of-washington-professor-sues-school-over-alleged-free-speech-violation-11657733575?mod=hp_lead_pos12"
+      "url": "https://www.wsj.com/articles/irs-gives-wealthy-families-more-time-to-shelter-assets-from-estate-tax-11657771260?mod=hp_lead_pos13"
     },
     {
-      "text": "Professor Sues University of Washington Over Alleged Free-Speech Violation4 min read",
-      "url": "https://www.wsj.com/articles/university-of-washington-professor-sues-school-over-alleged-free-speech-violation-11657733575?mod=hp_lead_pos12"
-    },
-    {
-      "text": "",
-      "url": "https://www.wsj.com/articles/investors-see-far-out-profits-in-psychedelic-medicine-11657724411?mod=hp_lead_pos13"
-    },
-    {
-      "text": "Investors See Far Out Profits in Psychedelic Medicine7 min read",
-      "url": "https://www.wsj.com/articles/investors-see-far-out-profits-in-psychedelic-medicine-11657724411?mod=hp_lead_pos13"
+      "text": "IRS Gives Wealthy Families More Time to Shelter Assets from Estate Tax5 min read",
+      "url": "https://www.wsj.com/articles/irs-gives-wealthy-families-more-time-to-shelter-assets-from-estate-tax-11657771260?mod=hp_lead_pos13"
     },
     {
       "text": "View more podcasts",
@@ -12999,15 +13013,19 @@
       "url": "https://video-api.wsj.com/podcast/rss/wsj/the-journal"
     },
     {
-      "text": "In Uvalde, Leaked Video Spurs Anger, Debate5 min read",
-      "url": "https://www.wsj.com/articles/in-uvalde-leaked-video-from-school-where-shooting-occurred-spurs-anger-debate-11657742854?mod=hp_featst_pos3"
+      "text": "",
+      "url": "https://www.wsj.com/articles/university-of-washington-professor-sues-school-over-alleged-free-speech-violation-11657733575?mod=hp_featst_pos3"
+    },
+    {
+      "text": "Professor\u2019s Lawsuit Alleges Free-Speech Violation4 min read",
+      "url": "https://www.wsj.com/articles/university-of-washington-professor-sues-school-over-alleged-free-speech-violation-11657733575?mod=hp_featst_pos3"
     },
     {
       "text": "",
       "url": "https://www.wsj.com/articles/julys-supermoon-is-on-view-this-week-11657741883?mod=hp_featst_pos4"
     },
     {
-      "text": "July\u2019s Supermoon Is on View This Week1 min read",
+      "text": "Buck Moon: July\u2019s Supermoon Is on View Tonight1 min read",
       "url": "https://www.wsj.com/articles/julys-supermoon-is-on-view-this-week-11657741883?mod=hp_featst_pos4"
     },
     {
@@ -13028,11 +13046,11 @@
     },
     {
       "text": "",
-      "url": "https://www.wsj.com/articles/the-tricks-to-using-your-phone-when-traveling-internationally-11657461600?mod=wsjhp_columnists_pos2"
+      "url": "https://www.wsj.com/articles/mclaren-speedtail-a-3-million-zoom-with-a-view-11657297034?mod=wsjhp_columnists_pos2"
     },
     {
-      "text": "Traveling Internationally? Don\u2019t Overpay to Use Your Phone",
-      "url": "https://www.wsj.com/articles/the-tricks-to-using-your-phone-when-traveling-internationally-11657461600?mod=wsjhp_columnists_pos2"
+      "text": "McLaren Speedtail: A $3 Million Zoom With a View",
+      "url": "https://www.wsj.com/articles/mclaren-speedtail-a-3-million-zoom-with-a-view-11657297034?mod=wsjhp_columnists_pos2"
     },
     {
       "text": "",
@@ -13043,68 +13061,60 @@
       "url": "https://www.wsj.com/articles/a-survival-guide-for-dealing-with-a-bad-boss-11657512060?mod=wsjhp_columnists_pos3"
     },
     {
+      "text": "\n    View Membership Options\n    ",
+      "url": "https://store.wsj.com/shop/us/us/wsjusspring22/?swg=true&inttrackingCode=aaqyc218&icid=WSJ_ON_NA_ACQ_NA&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1&cx_campaign=WSJUSSwGNS"
+    },
+    {
+      "text": "\n    View Membership Options\n    ",
+      "url": "https://store.wsj.com/shop/us/us/wsjusspring22/?swg=true&inttrackingCode=aaqyc218&icid=WSJ_ON_NA_ACQ_NA&n2IKsaD9=n2IKsaD9&Pg9aWOPT=Pg9aWOPT&Cp5dKJWb=Cp5dKJWb&APCc9OU1=APCc9OU1&cx_campaign=WSJUSSwGNS"
+    },
+    {
       "text": "Business & Finance",
       "url": "https://www.wsj.com/news/markets?mod=hp_lista_strap"
     },
     {
       "text": "",
-      "url": "https://www.wsj.com/articles/bank-earnings-will-give-clues-about-whether-a-recession-is-looming-11657704601?mod=hp_lista_pos1"
+      "url": "https://www.wsj.com/articles/panasonic-energy-kansas-to-partner-on-4-billion-ev-battery-factory-11657754596?mod=hp_lista_pos1"
+    },
+    {
+      "text": "Tesla Supplier Panasonic Plans $4 Billion EV Battery Factory in Kansas",
+      "url": "https://www.wsj.com/articles/panasonic-energy-kansas-to-partner-on-4-billion-ev-battery-factory-11657754596?mod=hp_lista_pos1"
+    },
+    {
+      "text": "Longtime Tesla Autopilot Executive Departs",
+      "url": "https://www.wsj.com/articles/longtime-tesla-autopilot-executive-andrej-karpathy-departs-11657749629?mod=hp_lista_pos2"
     },
     {
       "text": "Bank Earnings Will Give Clues About Possible Recession",
-      "url": "https://www.wsj.com/articles/bank-earnings-will-give-clues-about-whether-a-recession-is-looming-11657704601?mod=hp_lista_pos1"
-    },
-    {
-      "text": "Heard on the Street: Recession Noise May Drown Out Banks\u2019 Loan Boom",
-      "url": "https://www.wsj.com/articles/recession-noise-may-drown-out-banks-loan-boom-11657710000"
+      "url": "https://www.wsj.com/articles/bank-earnings-will-give-clues-about-whether-a-recession-is-looming-11657704601?mod=hp_lista_pos3"
     },
     {
       "text": "FDA Authorizes Novavax\u2019s Covid-19 Vaccine",
-      "url": "https://www.wsj.com/articles/fda-authorizes-novavaxs-covid-19-vaccine-11657743595?mod=hp_lista_pos2"
+      "url": "https://www.wsj.com/articles/fda-authorizes-novavaxs-covid-19-vaccine-11657743595?mod=hp_lista_pos4"
     },
     {
-      "text": "1",
-      "url": "https://www.wsj.com/articles/fda-authorizes-novavaxs-covid-19-vaccine-11657743595?mod=hp_lista_pos2#comments_sector"
+      "text": "10",
+      "url": "https://www.wsj.com/articles/fda-authorizes-novavaxs-covid-19-vaccine-11657743595?mod=hp_lista_pos4#comments_sector"
     },
     {
-      "text": "SEC\u2019s Gensler Casts Doubt on Prospects for China Audit Deal",
-      "url": "https://www.wsj.com/articles/sec-mulls-changes-to-proxy-voting-advice-shareholder-proposals-11657720813?mod=hp_lista_pos3"
-    },
-    {
-      "text": "3",
-      "url": "https://www.wsj.com/articles/sec-mulls-changes-to-proxy-voting-advice-shareholder-proposals-11657720813?mod=hp_lista_pos3#comments_sector"
-    },
-    {
-      "text": "Want Heated Seats in Your BMW? There\u2019s a Monthly Fee for That.",
-      "url": "https://www.wsj.com/articles/want-heated-seats-in-your-bmw-theres-a-monthly-fee-for-that-11657719715?mod=hp_lista_pos4"
-    },
-    {
-      "text": "160",
-      "url": "https://www.wsj.com/articles/want-heated-seats-in-your-bmw-theres-a-monthly-fee-for-that-11657719715?mod=hp_lista_pos4#comments_sector"
-    },
-    {
-      "text": "Bill Gates to Give Another $20 Billion to Gates Foundation",
-      "url": "https://www.wsj.com/articles/bill-gates-to-give-another-20-billion-to-gates-foundation-11657732111?mod=hp_lista_pos5"
+      "text": "United Airlines Pilots to Delay Contract Vote",
+      "url": "https://www.wsj.com/articles/united-airlines-pilots-to-delay-contract-vote-11657759729?mod=hp_lista_pos5"
     },
     {
       "text": "U.S.",
       "url": "https://www.wsj.com/news/us?mod=lead_feature_below_a_strap"
     },
     {
-      "text": "",
-      "url": "https://www.wsj.com/articles/former-cia-employee-convicted-of-massive-leak-11657745296?mod=lead_feature_below_a_pos1"
+      "text": "In Uvalde, Leaked Video Spurs Anger, Debate",
+      "url": "https://www.wsj.com/articles/in-uvalde-leaked-video-from-school-where-shooting-occurred-spurs-anger-debate-11657742854?mod=lead_feature_below_a_pos1"
     },
     {
       "text": "Former CIA Employee Convicted of Massive Leak",
       "url": "https://www.wsj.com/articles/former-cia-employee-convicted-of-massive-leak-11657745296?mod=lead_feature_below_a_pos1"
     },
     {
-      "text": "Tech Executive Is Charged for Third Time in 1992 Killing of Woman",
-      "url": "https://www.wsj.com/articles/a-tech-executive-is-charged-for-third-time-in-1992-killing-of-his-roommates-girlfriend-11657733198?mod=lead_feature_below_a_pos1"
-    },
-    {
-      "text": "Inflation Surge Challenges Democrats\u2019 Economic Plans",
-      "url": "https://www.wsj.com/articles/inflation-surge-challenges-democrats-economic-plans-11657743396?mod=lead_feature_below_a_pos1"
+      "text": "Colleges Serving Low-Income Students, HBCUs Get $198 Million in Covid-Relief Funds",
+      "url": "https://www.wsj.com/articles/colleges-serving-low-income-students-hbcus-get-198-million-in-covid-relief-funds-11657756642?mod=lead_feature_below_a_pos1"
     },
     {
       "text": "Real Estate",
@@ -13112,19 +13122,15 @@
     },
     {
       "text": "",
+      "url": "https://www.wsj.com/articles/lake-placids-priciest-home-for-sale-includes-a-custom-built-treehouse-overlooking-the-adirondacks-11657735244?mod=hp_listb_pos1"
+    },
+    {
+      "text": "Lake Placid\u2019s Priciest Home for Sale Includes Custom-Built Treehouse",
+      "url": "https://www.wsj.com/articles/lake-placids-priciest-home-for-sale-includes-a-custom-built-treehouse-overlooking-the-adirondacks-11657735244?mod=hp_listb_pos1"
+    },
+    {
+      "text": "Once Known as the Land of Hooters and \u2018Magic Mike,\u2019 Tampa Has Discovered Its Cool Factor",
       "url": "https://www.wsj.com/articles/tampa-fl-new-development-11657728015?mod=hp_listb_pos1"
-    },
-    {
-      "text": "Once Known as Land of Hooters and 'Magic Mike,' Tampa Discovers Its Cool Factor",
-      "url": "https://www.wsj.com/articles/tampa-fl-new-development-11657728015?mod=hp_listb_pos1"
-    },
-    {
-      "text": "21",
-      "url": "https://www.wsj.com/articles/tampa-fl-new-development-11657728015?mod=hp_listb_pos1#comments_sector"
-    },
-    {
-      "text": "Lake Placid\u2019s Priciest Home for Sale Includes a Custom-Built Treehouse",
-      "url": "https://www.wsj.com/articles/lake-placids-priciest-home-for-sale-includes-a-custom-built-treehouse-overlooking-the-adirondacks-11657735244"
     },
     {
       "text": "World",
@@ -13135,7 +13141,7 @@
       "url": "https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103?mod=hp_listb_pos2"
     },
     {
-      "text": "59",
+      "text": "100",
       "url": "https://www.wsj.com/articles/biden-heads-to-middle-east-in-high-stakes-trip-to-boost-ties-11657703103?mod=hp_listb_pos2#comments_sector"
     },
     {
@@ -13143,12 +13149,8 @@
       "url": "https://www.wsj.com/articles/champions-league-final-chaos-called-inevitable-fiasco-by-french-senate-11657742656?mod=hp_listb_pos3"
     },
     {
-      "text": "1",
+      "text": "3",
       "url": "https://www.wsj.com/articles/champions-league-final-chaos-called-inevitable-fiasco-by-french-senate-11657742656?mod=hp_listb_pos3#comments_sector"
-    },
-    {
-      "text": "Life & Work",
-      "url": "https://www.wsj.com/news/life-work?mod=hp_listc_strap"
     },
     {
       "text": "",
@@ -13159,40 +13161,40 @@
       "url": "https://www.wsj.com/articles/hotel-prices-rates-fees-summer-travel-11657665840?mod=hp_listc_pos1"
     },
     {
-      "text": "58",
+      "text": "67",
       "url": "https://www.wsj.com/articles/hotel-prices-rates-fees-summer-travel-11657665840?mod=hp_listc_pos1#comments_sector"
     },
     {
       "text": "",
-      "url": "https://www.wsj.com/articles/monochrome-flower-garden-style-11657742853?mod=hp_listc_pos2"
+      "url": "https://www.wsj.com/articles/yes-to-the-city-review-backyard-builders-11657753426?mod=hp_listc_pos2"
+    },
+    {
+      "text": "\u2018Yes to the City\u2019 Review: Backyard Builders",
+      "url": "https://www.wsj.com/articles/yes-to-the-city-review-backyard-builders-11657753426?mod=hp_listc_pos2"
+    },
+    {
+      "text": "3",
+      "url": "https://www.wsj.com/articles/yes-to-the-city-review-backyard-builders-11657753426?mod=hp_listc_pos2#comments_sector"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsj.com/articles/monochrome-flower-garden-style-11657742853?mod=hp_listc_pos3"
     },
     {
       "text": "The Flower Garden Style That\u2019s Sure to Turn Heads",
-      "url": "https://www.wsj.com/articles/monochrome-flower-garden-style-11657742853?mod=hp_listc_pos2"
+      "url": "https://www.wsj.com/articles/monochrome-flower-garden-style-11657742853?mod=hp_listc_pos3"
+    },
+    {
+      "text": "2",
+      "url": "https://www.wsj.com/articles/monochrome-flower-garden-style-11657742853?mod=hp_listc_pos3#comments_sector"
     },
     {
       "text": "",
-      "url": "https://www.wsj.com/articles/the-pure-joy-of-baseball-for-these-children-with-disabilities-11657717201?mod=hp_listc_pos3"
+      "url": "https://www.wsj.com/articles/des-moines-metro-opera-50th-anniversary-season-review-kristin-kuster-mark-campbell-a-thousand-acres-jane-smiley-george-gershwin-porgy-and-bess-benjamin-britten-a-midsummer-nights-dream-11657747483?mod=hp_listc_pos4"
     },
     {
-      "text": "The Pure Joy of Baseball for Children With Disabilities",
-      "url": "https://www.wsj.com/articles/the-pure-joy-of-baseball-for-these-children-with-disabilities-11657717201?mod=hp_listc_pos3"
-    },
-    {
-      "text": "12",
-      "url": "https://www.wsj.com/articles/the-pure-joy-of-baseball-for-these-children-with-disabilities-11657717201?mod=hp_listc_pos3#comments_sector"
-    },
-    {
-      "text": "",
-      "url": "https://www.wsj.com/articles/grilled-eggplant-greek-vegetarian-recipe-11657658099?mod=hp_listc_pos4"
-    },
-    {
-      "text": "This Vegetarian Grilling Recipe Has a Special Sauce",
-      "url": "https://www.wsj.com/articles/grilled-eggplant-greek-vegetarian-recipe-11657658099?mod=hp_listc_pos4"
-    },
-    {
-      "text": "1",
-      "url": "https://www.wsj.com/articles/grilled-eggplant-greek-vegetarian-recipe-11657658099?mod=hp_listc_pos4#comments_sector"
+      "text": "Review: Arias Over the Fields at Des Moines Metro Opera",
+      "url": "https://www.wsj.com/articles/des-moines-metro-opera-50th-anniversary-season-review-kristin-kuster-mark-campbell-a-thousand-acres-jane-smiley-george-gershwin-porgy-and-bess-benjamin-britten-a-midsummer-nights-dream-11657747483?mod=hp_listc_pos4"
     },
     {
       "text": "Video",
@@ -13204,19 +13206,19 @@
     },
     {
       "text": "",
-      "url": "https://www.wsj.com/buyside/shopping-holidays/prime-day-insider-picks-01657402163?mod=wsj_hp_buyside_pos1"
+      "url": "https://www.wsj.com/buyside/shopping-holidays/prime-day-apple-deals-01657213795?mod=wsj_hp_buyside_pos1"
     },
     {
-      "text": "I Shop For a Living, and Here\u2019s What I\u2019m Buying on Prime Day",
-      "url": "https://www.wsj.com/buyside/shopping-holidays/prime-day-insider-picks-01657402163?mod=wsj_hp_buyside_pos1"
+      "text": "The Top Apple and Compatible Accessory Deals on Amazon Prime Day",
+      "url": "https://www.wsj.com/buyside/shopping-holidays/prime-day-apple-deals-01657213795?mod=wsj_hp_buyside_pos1"
     },
     {
-      "text": "9 Great Gifts to Buy For Less on Amazon Prime Day6 min read",
-      "url": "https://www.wsj.com/buyside/shopping-holidays/best-prime-day-gifts-01657297735?mod=wsj_hp_buyside_pos2"
+      "text": "The 21 Top Deals on Amazon Prime Day Right Now7 min read",
+      "url": "https://www.wsj.com/buyside/shopping-holidays/best-prime-day-deals-sales-01657570948?mod=wsj_hp_buyside_pos2"
     },
     {
-      "text": "The Top Deals at Best Buy Right Now, During Prime Day3 min read",
-      "url": "https://www.wsj.com/buyside/shopping-holidays/best-prime-day-deals-at-best-buy-01657741459?mod=wsj_hp_buyside_pos3"
+      "text": "The Best Gift Card Deals on Amazon Prime Day2 min read",
+      "url": "https://www.wsj.com/buyside/shopping-holidays/prime-day-gift-card-deals-01657654436?mod=wsj_hp_buyside_pos3"
     },
     {
       "text": "CMO",
@@ -13264,19 +13266,19 @@
     },
     {
       "text": "",
-      "url": "https://www.wsj.com/articles/levi-strauss-uses-more-frequent-financial-forecasts-to-confront-uncertainty-11657704600?mod=hp_minor_pos7"
+      "url": "https://www.wsj.com/articles/companies-should-use-same-accounting-method-for-more-tax-credit-investments-fasb-says-11657746776?mod=hp_minor_pos7"
+    },
+    {
+      "text": "Companies Should Use Same Accounting Method for More Tax-Credit Investments, FASB Says2 min read",
+      "url": "https://www.wsj.com/articles/companies-should-use-same-accounting-method-for-more-tax-credit-investments-fasb-says-11657746776?mod=hp_minor_pos7"
     },
     {
       "text": "Levi Strauss Uses More Frequent Financial Forecasts to Confront Uncertainty3 min read",
-      "url": "https://www.wsj.com/articles/levi-strauss-uses-more-frequent-financial-forecasts-to-confront-uncertainty-11657704600?mod=hp_minor_pos7"
+      "url": "https://www.wsj.com/articles/levi-strauss-uses-more-frequent-financial-forecasts-to-confront-uncertainty-11657704600?mod=hp_minor_pos8"
     },
     {
       "text": "Elon Musk\u2019s Effort to Terminate Twitter Deal Puts Pressure on CFO4 min read",
-      "url": "https://www.wsj.com/articles/musks-effort-to-terminate-twitter-deal-puts-pressure-on-cfo-11657618200?mod=hp_minor_pos8"
-    },
-    {
-      "text": "Businesses Urge SEC to Consider Mergers in Climate-Disclosure Rule5 min read",
-      "url": "https://www.wsj.com/articles/businesses-urge-sec-to-consider-mergers-in-climate-disclosure-rule-11657531804?mod=hp_minor_pos9"
+      "url": "https://www.wsj.com/articles/musks-effort-to-terminate-twitter-deal-puts-pressure-on-cfo-11657618200?mod=hp_minor_pos9"
     },
     {
       "text": "Risk & Compliance",
@@ -13304,15 +13306,15 @@
     },
     {
       "text": "",
-      "url": "https://www.wsj.com/articles/freight-rates-are-starting-to-fall-as-shipping-demand-wavers-11657454400?mod=hp_minor_pos13"
+      "url": "https://www.wsj.com/articles/california-truckers-struggle-to-comply-with-new-employment-law-11657743310?mod=hp_minor_pos13"
+    },
+    {
+      "text": "California Truckers Struggle to Comply With New Employment Law5 min read",
+      "url": "https://www.wsj.com/articles/california-truckers-struggle-to-comply-with-new-employment-law-11657743310?mod=hp_minor_pos13"
     },
     {
       "text": "Freight Rates Are Starting to Fall as Shipping Demand Wavers4 min read",
-      "url": "https://www.wsj.com/articles/freight-rates-are-starting-to-fall-as-shipping-demand-wavers-11657454400?mod=hp_minor_pos13"
-    },
-    {
-      "text": "Supply-Chain Tech Provider Blue Yonder Names Duncan Angove CEO2 min read",
-      "url": "https://www.wsj.com/articles/supply-chain-tech-provider-blue-yonder-names-duncan-angove-ceo-11657564020?mod=hp_minor_pos14"
+      "url": "https://www.wsj.com/articles/freight-rates-are-starting-to-fall-as-shipping-demand-wavers-11657454400?mod=hp_minor_pos14"
     },
     {
       "text": "Today's Logistics Report: Shifting Factory Gears; Delivery Goes Electric; Leaning on Inventories1 min read",
@@ -13364,19 +13366,19 @@
     },
     {
       "text": "",
-      "url": "https://www.barrons.com/articles/novavax-stock-vaccine-51657707288?mod=hp_minor_pos22"
+      "url": "https://www.barrons.com/articles/warren-buffett-berkshire-hathaway-occidental-stock-51657760217?mod=hp_minor_pos22"
+    },
+    {
+      "text": "Warren Buffett\u2019s Berkshire Hathaway Buys More Occidental Stock1 min read",
+      "url": "https://www.barrons.com/articles/warren-buffett-berkshire-hathaway-occidental-stock-51657760217?mod=hp_minor_pos22"
+    },
+    {
+      "text": "Stock Futures Down After Inflation Report2 min read",
+      "url": "https://www.barrons.com/articles/stock-futures-down-june-inflation-exceeds-expectations-51657752914?mod=hp_minor_pos23"
     },
     {
       "text": "FDA Clears Novavax as a Covid-19 Vaccine2 min read",
-      "url": "https://www.barrons.com/articles/novavax-stock-vaccine-51657707288?mod=hp_minor_pos22"
-    },
-    {
-      "text": "A Key Part of the Yield Curve Might Invert. There's Good and Bad News.2 min read",
-      "url": "https://www.barrons.com/articles/yield-curve-economy-stocks-inversion-51657745842?mod=hp_minor_pos23"
-    },
-    {
-      "text": "Elon Musk: 'Lithium Batteries Are the New Oil'3 min read",
-      "url": "https://www.barrons.com/articles/tesla-elon-musk-energy-batteries-51657745667?mod=hp_minor_pos24"
+      "url": "https://www.barrons.com/articles/novavax-stock-vaccine-51657707288?mod=hp_minor_pos24"
     },
     {
       "text": "MarketWatch",
@@ -13384,19 +13386,19 @@
     },
     {
       "text": "",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-ahead-of-cpi-data-that-could-show-inflation-at-40-year-high-11657703059?mod=hp_minor_pos25"
+      "url": "https://www.marketwatch.com/story/how-small-business-owners-can-maximize-a-potentially-lucrative-tax-break-11657745277?mod=hp_minor_pos25"
     },
     {
-      "text": "U.S. stocks end lower for 4th straight day as CPI data shows inflation at 41-year high5 min read",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-ahead-of-cpi-data-that-could-show-inflation-at-40-year-high-11657703059?mod=hp_minor_pos25"
+      "text": "How small business owners can maximize a potentially lucrative tax break8 min read",
+      "url": "https://www.marketwatch.com/story/how-small-business-owners-can-maximize-a-potentially-lucrative-tax-break-11657745277?mod=hp_minor_pos25"
     },
     {
-      "text": "Avoid these food items the next time you go shopping if you want to cut your grocery bill and here's one curveball that makes June's 41-year-high inflation data a lot worse2 min read",
-      "url": "https://www.marketwatch.com/story/avoid-these-food-items-the-next-time-you-go-shopping-if-you-want-to-cut-your-grocery-bill-and-heres-one-curveball-that-makes-junes-41-year-high-inflation-data-a-lot-worse-11657745840?mod=hp_minor_pos26"
+      "text": "Hong Kong Monetary Authority sells U.S. dollars to defend currency peg1 min read",
+      "url": "https://www.marketwatch.com/story/hong-kong-monetary-authority-sells-u-s-dollars-to-defend-currency-peg-271657767158?mod=hp_minor_pos26"
     },
     {
-      "text": "Fed Beige Book finds rising concern about a recession1 min read",
-      "url": "https://www.marketwatch.com/story/fed-beige-book-finds-rising-inflation-fears-11657737088?mod=hp_minor_pos27"
+      "text": "Is the U.S. headed for a recession? 58% of Americans think we\u2019re in one right now, poll says4 min read",
+      "url": "https://www.marketwatch.com/story/is-the-u-s-headed-for-a-recession-58-of-americans-think-were-in-one-right-now-poll-says-11657734021?mod=hp_minor_pos27"
     },
     {
       "text": "Mansion Global",
@@ -13404,19 +13406,19 @@
     },
     {
       "text": "",
-      "url": "https://www.mansionglobal.com/articles/french-emperor-napoleon-iiis-onetime-london-residence-lists-for-4-5-million-01657746268?mod=hp_minor_pos28"
+      "url": "https://www.mansionglobal.com/articles/summer-scorcher-manhattan-rents-hit-5-000-for-the-first-time-01657771267?mod=hp_minor_pos28"
+    },
+    {
+      "text": "Summer Scorcher: Manhattan Rents Hit $5,000 for the First Time2 min read",
+      "url": "https://www.mansionglobal.com/articles/summer-scorcher-manhattan-rents-hit-5-000-for-the-first-time-01657771267?mod=hp_minor_pos28"
+    },
+    {
+      "text": "Ozzy and Sharon Osbourne List 1929 Los Angeles Estate for $18 Million3 min read",
+      "url": "https://www.mansionglobal.com/articles/ozzy-and-sharon-osbourne-list-1929-los-angeles-estate-for-18-million-01657746800?mod=hp_minor_pos29"
     },
     {
       "text": "French Emperor Napoleon III\u2019s Onetime London Residence Lists for \u00a34.5 Million2 min read",
-      "url": "https://www.mansionglobal.com/articles/french-emperor-napoleon-iiis-onetime-london-residence-lists-for-4-5-million-01657746268?mod=hp_minor_pos28"
-    },
-    {
-      "text": "Real Estate Mogul Nick Candy To List Modernist Los Angeles Mansion for $85 Million2 min read",
-      "url": "https://www.mansionglobal.com/articles/real-estate-mogul-nick-candy-to-list-modernist-los-angeles-mansion-for-85-million-01657733558?mod=hp_minor_pos29"
-    },
-    {
-      "text": "Aspen\u2019s \u2018Motherlode\u2019 Is a Luxury Rental in the Heart of the Tony Colorado Town2 min read",
-      "url": "https://www.mansionglobal.com/articles/aspens-motherlode-is-a-luxury-rental-in-the-heart-of-the-tony-colorado-town-01657728208?mod=hp_minor_pos30"
+      "url": "https://www.mansionglobal.com/articles/french-emperor-napoleon-iiis-onetime-london-residence-lists-for-4-5-million-01657746268?mod=hp_minor_pos30"
     },
     {
       "text": "Penta",
@@ -13455,32 +13457,32 @@
       "url": "https://www.wsj.com/news/opinion?mod=hp_opin_strap"
     },
     {
-      "text": "The Incredible Falling Euro Nears Dollar Parity",
-      "url": "https://www.wsj.com/articles/the-incredible-falling-euro-dollar-parity-european-central-bank-11657651084?mod=hp_opin_pos_1"
-    },
-    {
-      "text": " An Abortion Story Too Good to Confirm",
-      "url": "https://www.wsj.com/articles/an-abortion-story-too-good-to-confirm-joe-biden-ten-year-old-girl-indiana-ohio-caitlin-bernard-11657648618?mod=hp_opin_pos_2"
-    },
-    {
-      "text": " Saudi Arabia Prepares to Host a Humbled Joe Biden",
-      "url": "https://www.wsj.com/articles/a-humbled-biden-goes-to-saudi-arabia-riyadh-mohammed-bin-salman-oil-security-nuclear-weapons-iran-israel-putin-opec-11657723094?mod=hp_opin_pos_3"
-    },
-    {
-      "text": " Inflation, the Fed and the Path to Recession: The Big Picture",
-      "url": "https://www.wsj.com/articles/inflation-the-fed-and-the-path-to-recession-the-big-picture-11657717517?mod=hp_opin_pos_4"
+      "text": "The Inflation Tax on Workers",
+      "url": "https://www.wsj.com/articles/the-inflation-tax-on-workers-bureau-of-labor-statistics-joe-biden-real-average-wages-11657750189?mod=hp_opin_pos_1"
     },
     {
       "text": "",
-      "url": "https://www.wsj.com/articles/the-pursuit-of-social-justice-killed-testing-stop-frisk-gun-policy-biden-administration-11657658420?mod=hp_opin_pos_5"
+      "url": "https://www.wsj.com/articles/joe-biden-sinking-presidency-nomination-2024-election-harris-policies-inflation-11657743904?mod=hp_opin_pos_2"
     },
     {
-      "text": " The Pursuit of \u2018Social Justice\u2019 Is Getting People Killed",
-      "url": "https://www.wsj.com/articles/the-pursuit-of-social-justice-killed-testing-stop-frisk-gun-policy-biden-administration-11657658420?mod=hp_opin_pos_5"
+      "text": " Joe Biden\u2019s Presidency Is Sinking",
+      "url": "https://www.wsj.com/articles/joe-biden-sinking-presidency-nomination-2024-election-harris-policies-inflation-11657743904?mod=hp_opin_pos_2"
     },
     {
-      "text": " Twitter\u2019s Lawsuit Against Elon Musk Looks Like a Loser",
-      "url": "https://www.wsj.com/articles/twitters-lawsuit-against-elon-musk-looks-like-a-loser-11657716142?mod=hp_opin_pos_6"
+      "text": " Correcting the Record on a Rape Case",
+      "url": "https://www.wsj.com/articles/a-politicized-rape-case-ends-in-arrest-indiana-ohio-ten-year-old-girl-caitlin-bernard-joe-biden-11657749610?mod=hp_opin_pos_3"
+    },
+    {
+      "text": " An Abortion Story Too Good to Confirm",
+      "url": "https://www.wsj.com/articles/an-abortion-story-too-good-to-confirm-joe-biden-ten-year-old-girl-indiana-ohio-caitlin-bernard-11657648618?mod=hp_opin_pos_4"
+    },
+    {
+      "text": " A Revolution Is Coming in Heart-Disease Treatment",
+      "url": "https://www.wsj.com/articles/a-revolution-is-coming-to-heart-care-cardiac-hospital-systems-asc-outpatient-market-11657744203?mod=hp_opin_pos_5"
+    },
+    {
+      "text": " Voter Registration Shows Democrats\u2019 Peril",
+      "url": "https://www.wsj.com/articles/voter-registration-shows-democrats-peril-midterms-swing-states-independents-primary-general-turnout-gop-11657741640?mod=hp_opin_pos_6"
     },
     {
       "text": "Got a tip for us?Here\u2019s how to submit it.",
@@ -13491,20 +13493,20 @@
       "url": "https://www.wsj.com/articles/us-inflation-june-2022-consumer-price-index-11657664129?mod=hp_trending_now_article_pos1"
     },
     {
-      "text": "James Webb Telescope Images Show Deep-Space Structures in Exquisite Detail",
-      "url": "https://www.wsj.com/articles/nasa-to-reveal-james-webb-space-telescopes-first-set-of-full-color-images-11657620000?mod=hp_trending_now_article_pos2"
-    },
-    {
-      "text": "Switzerland, Playground of Russian Oligarchs, Emerges as Sanctions Weak Link",
-      "url": "https://www.wsj.com/articles/switzerland-playground-of-russian-oligarchs-emerges-as-weak-link-on-sanctions-putin-ukraine-war-11657624783?mod=hp_trending_now_article_pos3"
-    },
-    {
       "text": "Ukraine Strikes Show Impact of New Weapons",
-      "url": "https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988?mod=hp_trending_now_article_pos4"
+      "url": "https://www.wsj.com/articles/ukraine-strike-on-russian-air-defense-unit-shows-impact-of-new-weapons-from-west-11657708988?mod=hp_trending_now_article_pos2"
     },
     {
-      "text": "Trump Spurred Far-Right Groups to Violence on Jan. 6, Committee Says",
-      "url": "https://www.wsj.com/articles/tuesdays-jan-6-hearing-to-focus-on-proud-boys-oath-keepers-11657618200?mod=hp_trending_now_article_pos5"
+      "text": "12 Hours of Misery at One of the World\u2019s Busiest Airports",
+      "url": "https://www.wsj.com/articles/heathrow-europe-travel-flight-delays-cancellations-11657720958?mod=hp_trending_now_article_pos3"
+    },
+    {
+      "text": "Warren Buffett\u2019s Berkshire Hathaway Adds to Big Oil Bet ",
+      "url": "https://www.wsj.com/articles/warren-buffetts-berkshire-hathaway-adds-to-big-oil-bet-11657710000?mod=hp_trending_now_article_pos4"
+    },
+    {
+      "text": "Lawmakers Push to Depose Snyder. He\u2019s Parking the Boat Overseas.",
+      "url": "https://www.wsj.com/articles/dan-snyder-subpoena-house-congress-11657718917?mod=hp_trending_now_article_pos5"
     },
     {
       "text": "Opinion: An Abortion Story Too Good to Confirm",
@@ -13527,24 +13529,24 @@
       "url": "https://www.wsj.com/articles/putin-and-the-ufo-puzzle-uap-nuclear-weapons-dni-aliens-military-drones-11657655291?mod=hp_trending_now_opn_pos5"
     },
     {
-      "text": "Low Inventory and EV Sales Fuel Changes in How Americans Buy Cars08:11",
-      "url": "https://www.wsj.com/video/series/wsj-explains/low-inventory-and-ev-sales-fuel-changes-in-how-americans-buy-cars/010834F9-A1F1-4D85-BCAC-C634D2F5923B?mod=hp_trending_now_video_pos1"
-    },
-    {
       "text": "Uvalde Surveillance Video Shows Police Waiting in Hallway During Shooting 02:32",
-      "url": "https://www.wsj.com/video/uvalde-surveillance-video-shows-police-waiting-in-hallway-during-shooting/07400042-D537-47A6-849C-310594CCD101.html?mod=hp_trending_now_video_pos2"
+      "url": "https://www.wsj.com/video/uvalde-surveillance-video-shows-police-waiting-in-hallway-during-shooting/07400042-D537-47A6-849C-310594CCD101.html?mod=hp_trending_now_video_pos1"
     },
     {
-      "text": "James Webb Space Telescope's First Color Images Revealed04:05",
-      "url": "https://www.wsj.com/video/series/on-the-news/james-webb-space-telescope-first-color-images-revealed/A2A3C959-D78E-4A94-A663-019EB9DA4294?mod=hp_trending_now_video_pos3"
+      "text": "Low Inventory and EV Sales Fuel Changes in How Americans Buy Cars08:11",
+      "url": "https://www.wsj.com/video/series/wsj-explains/low-inventory-and-ev-sales-fuel-changes-in-how-americans-buy-cars/010834F9-A1F1-4D85-BCAC-C634D2F5923B?mod=hp_trending_now_video_pos2"
     },
     {
       "text": "How the Consumer-Price Index Measures Inflation05:01",
-      "url": "https://www.wsj.com/video/series/news-explainers/how-the-consumer-price-index-measures-inflation/9ACB856D-E830-4EDC-B035-906C8F4182CF?mod=hp_trending_now_video_pos4"
+      "url": "https://www.wsj.com/video/series/news-explainers/how-the-consumer-price-index-measures-inflation/9ACB856D-E830-4EDC-B035-906C8F4182CF?mod=hp_trending_now_video_pos3"
     },
     {
       "text": "Watch: Shinzo Abe Funeral Draws Crowds Paying Respect to Former Japanese Leader01:04",
-      "url": "https://www.wsj.com/video/watch-shinzo-abe-funeral-draws-crowds-paying-respect-to-former-japanese-leader/43F9A466-05AB-4384-922A-7E5D8D1FB05D.html?mod=hp_trending_now_video_pos5"
+      "url": "https://www.wsj.com/video/watch-shinzo-abe-funeral-draws-crowds-paying-respect-to-former-japanese-leader/43F9A466-05AB-4384-922A-7E5D8D1FB05D.html?mod=hp_trending_now_video_pos4"
+    },
+    {
+      "text": "Iron Beam: How Israel\u2019s New Laser Weapon Works05:35",
+      "url": "https://www.wsj.com/video/series/news-explainers/iron-beam-how-israels-new-laser-weapon-works/7FEDC20F-B080-4E7E-B3C7-832702D5F191?mod=hp_trending_now_video_pos5"
     },
     {
       "text": "Journal Reports",
@@ -13552,19 +13554,27 @@
     },
     {
       "text": "",
-      "url": "https://www.wsj.com/articles/how-to-tell-if-financial-adviser-is-overcharging-11648753458?mod=hp_jr_pos1"
+      "url": "https://www.wsj.com/articles/young-adults-parenthood-delay-11641508159?mod=hp_jr_pos1"
     },
     {
-      "text": "How to Tell if Your Financial Adviser Is Overcharging You",
-      "url": "https://www.wsj.com/articles/how-to-tell-if-financial-adviser-is-overcharging-11648753458?mod=hp_jr_pos1"
+      "text": "Why Young Adults Are Delaying Parenthood",
+      "url": "https://www.wsj.com/articles/young-adults-parenthood-delay-11641508159?mod=hp_jr_pos1"
     },
     {
-      "text": "15 Ways Consumers Can Deal With\u2014and Even Benefit From\u2014Rising InflationLong read",
-      "url": "https://www.wsj.com/articles/inflation-15-ways-deal-with-benefit-from-rising-interest-rates-11652828918?mod=hp_jr_pos2"
+      "text": "Why Target-Date Funds Might Be Inappropriate for Most Investors",
+      "url": "https://www.wsj.com/articles/why-target-date-funds-might-be-inappropriate-for-most-investors-11641500579"
     },
     {
-      "text": "The Tax Advantages of Series I Savings Bonds5 min read",
-      "url": "https://www.wsj.com/articles/tax-advantages-with-series-i-savings-bonds-11644266078?mod=hp_jr_pos3"
+      "text": "How Financial Advisers Get Paid: What the Readers Think",
+      "url": "https://www.wsj.com/articles/how-financial-advisers-get-paid-what-the-readers-think-11641505154"
+    },
+    {
+      "text": "How Homeowners Can Lock in the Steep Rise in Home Values7 min read",
+      "url": "https://www.wsj.com/articles/how-to-lock-in-value-after-rising-house-prices-11652884459?mod=hp_jr_pos2"
+    },
+    {
+      "text": "How Well Do You Know Movies That Are About Business?1 min read",
+      "url": "https://www.wsj.com/articles/how-well-do-you-know-movies-that-are-about-business-11654808353?mod=hp_jr_pos3"
     },
     {
       "text": "Asos coupon 20% OFF over $50",

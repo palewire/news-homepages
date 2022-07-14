@@ -1,5 +1,5 @@
 {
-  "created": 1657758475,
+  "created": 1657800947,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -436,31 +436,73 @@
       "sha1": "e40855eb1270827177aaa8f0124f02a563b75bc8"
     },
     {
+      "name": "pulitzercenter-2022-07-13T23:27:55.127859-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657769277",
+      "size": "8567",
+      "md5": "f13aacd798ed530a8d039c67244f003b",
+      "crc32": "dca4737a",
+      "sha1": "1949549d35ee6a70ec23f9ca900bf0e84f1cc197",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-07-13T23:27:55.127859-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657769279",
+      "size": "16031",
+      "md5": "a985fa65cd8d1ad2573c9856f5b361da",
+      "crc32": "c815d80b",
+      "sha1": "fff3ae808567419f882864187150cedf94024708",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-07-13T23:27:55.127859-04:00.jpg",
+      "source": "original",
+      "mtime": "1657769276",
+      "size": "209004",
+      "md5": "c54f9edcb14b3024c50d401edfca3fc8",
+      "crc32": "9d0bf32f",
+      "sha1": "1ce8ce4972809415d367acce434a0e3f4b92d853",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pulitzercenter-2022-07-13T23:27:55.127859-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pulitzercenter-2022-07-13T23:27:55.127859-04:00.jpg",
+      "mtime": "1657769332",
+      "size": "8356",
+      "md5": "a312be71f2fddcb26f957ebcc416d07f",
+      "crc32": "a0e3551c",
+      "sha1": "e6facca2c0116a730b9d6cb30720cd8809864da1"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e9d25c6713364c5d437e3fbb195c523b0da0cb25",
-      "mtime": "1657729672",
-      "size": "10281",
-      "md5": "82bb221e95712c5df30517c9d18311e7",
-      "crc32": "2e1a18a2",
-      "sha1": "60f6c95a2be443602d333214f43bdf52397f21d7",
+      "btih": "84d50dd18014a5a4821cc48c3ebf015562f5b34d",
+      "mtime": "1657769335",
+      "size": "11133",
+      "md5": "5bdcddb026987613c9d5df5b2df6abb6",
+      "crc32": "509c9b33",
+      "sha1": "635b88f4374d1bd8c76417392bc59d436c9f03ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "12316a986b44142db748fcb6e0940ee9",
+      "md5": "ea16cc0a9bd1c178b94488d7b6c97cdc",
       "summation": "md5"
     },
     {
       "name": "pulitzercenter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657729620",
-      "size": "61440",
-      "md5": "1f9a433547b09aa8e88ea0ce4c874d9a",
-      "crc32": "152273dc",
-      "sha1": "845c62f4f721ec91a8143cfad02295ff514ff8d8",
+      "mtime": "1657769282",
+      "size": "65536",
+      "md5": "65255fb73fa3a14953fa3b931777432f",
+      "crc32": "cc7ae50d",
+      "sha1": "90902d3acf5c6e49bd3f93b99872fbd74a6afc91",
       "format": "Metadata"
     },
     {
@@ -474,9 +516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 45,
-  "item_last_updated": 1657729672,
-  "item_size": 2216494,
+  "files_count": 49,
+  "item_last_updated": 1657769335,
+  "item_size": 2463400,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -999,16 +1041,12 @@
       "url": "?form=donate"
     },
     {
-      "text": "The Day I Met Vladika Yakov, the Russian Bishop of the North Pole",
-      "url": "/stories/day-i-met-vladika-yakov-russian-bishop-north-pole"
-    },
-    {
-      "text": "Marzio Mian",
-      "url": "/people/marzio-mian"
+      "text": "How \u201cMoms,\u201d not the Ministry of Defense, Provide for the Russian Army",
+      "url": "/stories/how-moms-not-ministry-defense-provide-russian-army"
     },
     {
       "text": "\n\n        VIEW STORY\n  \n\n  \n",
-      "url": "/stories/day-i-met-vladika-yakov-russian-bishop-north-pole"
+      "url": "/stories/how-moms-not-ministry-defense-provide-russian-army"
     },
     {
       "text": "'The BOX' End of Isolation Tour: Austin, Texas\n",
@@ -1096,7 +1134,7 @@
     }
   ],
   "server": "ia801408.us.archive.org",
-  "uniq": 1655396000,
+  "uniq": 84282428,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

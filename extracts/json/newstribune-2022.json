@@ -1,5 +1,5 @@
 {
-  "created": 1657758380,
+  "created": 1657769142,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/13/items/newstribune-2022",
@@ -804,31 +804,73 @@
       "sha1": "b75efedaba38b152062a08bd8520a5c7cfe2217e"
     },
     {
+      "name": "newstribune-2022-07-13T22:24:36.075800-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657769079",
+      "size": "22191",
+      "md5": "f11b44ca2ef8dd90d71ba22eff2328ed",
+      "crc32": "8e974ddb",
+      "sha1": "04b7f91d587d1112a9f7a3b57716ee3c2ef29aa1",
+      "format": "JSON"
+    },
+    {
+      "name": "newstribune-2022-07-13T22:24:36.075800-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657769081",
+      "size": "13393",
+      "md5": "8effce4eb1dfce38afddf51f3ab599a3",
+      "crc32": "3751bb26",
+      "sha1": "81b9c0fddca6cb12522e074a2cf46f480c33ca7e",
+      "format": "JSON"
+    },
+    {
+      "name": "newstribune-2022-07-13T22:24:36.075800-05:00.jpg",
+      "source": "original",
+      "mtime": "1657769078",
+      "size": "266109",
+      "md5": "121fc322cbda62cb7415dd30330cdec5",
+      "crc32": "06fa9199",
+      "sha1": "7260acdcc133de554b7b6656c86edf7fc30e9cd5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newstribune-2022-07-13T22:24:36.075800-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstribune-2022-07-13T22:24:36.075800-05:00.jpg",
+      "mtime": "1657769129",
+      "size": "8959",
+      "md5": "42bccc1e130b3c5883552d7d5b764a2f",
+      "crc32": "cf691194",
+      "sha1": "0757b7e97ca057525e070576480c6dd495b71641"
+    },
+    {
       "name": "newstribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c43440280e8d6cf101472d4c04dbebfef5611417",
-      "mtime": "1657729392",
-      "size": "17656",
-      "md5": "dc204aec7e5aa2d56e63f06fbf952a90",
-      "crc32": "e058ad96",
-      "sha1": "1737170d341e622701c9524299f711fdc78a3afd",
+      "btih": "ff4ba4e31e28c01899263ad6cad012191b292f3d",
+      "mtime": "1657769133",
+      "size": "18517",
+      "md5": "dc6d0776634ef8b98efcad2464424b2c",
+      "crc32": "f453330a",
+      "sha1": "04602572f7152ed84e819a6dac4668a089314ce2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newstribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4397056705cec62d3afacb1cc4a239a8",
+      "md5": "a29989a666f259cbabd7fb74e5e158ba",
       "summation": "md5"
     },
     {
       "name": "newstribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657729332",
-      "size": "106496",
-      "md5": "0158945107052f65765fb69fbc5febd9",
-      "crc32": "118c6efc",
-      "sha1": "071eea28f3addddc9fd7c1af796acfa5799f1732",
+      "mtime": "1657769084",
+      "size": "110592",
+      "md5": "5953aca35d162aa62d7eacd8d3078ef9",
+      "crc32": "6fc994cd",
+      "sha1": "a94bf514f0701e54d44d98f309b231166466fb63",
       "format": "Metadata"
     },
     {
@@ -842,9 +884,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 80,
-  "item_last_updated": 1657729392,
-  "item_size": 6796464,
+  "files_count": 84,
+  "item_last_updated": 1657769133,
+  "item_size": 7112073,
   "metadata": {
     "identifier": "newstribune-2022",
     "collection": [
@@ -861,586 +903,8 @@
     "publicdate": "2022-07-04 21:49:35",
     "addeddate": "2022-07-04 21:49:35"
   },
-  "newstribune-2022": [
-    {
-      "text": "Local News",
-      "url": "/news/jefferson-city/"
-    },
-    {
-      "text": "Missouri News",
-      "url": "/news/missouri/"
-    },
-    {
-      "text": "Nation",
-      "url": "/news/national/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "/obituaries/"
-    },
-    {
-      "text": "World",
-      "url": "/news/international/"
-    },
-    {
-      "text": "Business",
-      "url": "/news/business"
-    },
-    {
-      "text": "Politics",
-      "url": "/news/politics"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/news/podcasts/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/news/features/entertainment/"
-    },
-    {
-      "text": "Weddings & Anniversaries",
-      "url": "/couples/"
-    },
-    {
-      "text": "Flavor",
-      "url": "/news/features/food/"
-    },
-    {
-      "text": "Health",
-      "url": "/news/health/"
-    },
-    {
-      "text": "Style",
-      "url": "/news/features/style/"
-    },
-    {
-      "text": "NT Rewards",
-      "url": "https://www.newstribune.com/NTREWARDS/"
-    },
-    {
-      "text": "All Opinion",
-      "url": "/news/opinion/"
-    },
-    {
-      "text": "Editorials",
-      "url": "/news/opinion/editorials/"
-    },
-    {
-      "text": "Letters to the Editor",
-      "url": "/news/opinion/letters/"
-    },
-    {
-      "text": "Submit a Letter to the Editor",
-      "url": "/letters-to-editor/"
-    },
-    {
-      "text": "High School",
-      "url": "/news/sports/preps/"
-    },
-    {
-      "text": "All College",
-      "url": "/news/sports/college/"
-    },
-    {
-      "text": "Kansas City Chiefs",
-      "url": "/news/sports/pro/kansas-city-chiefs/"
-    },
-    {
-      "text": "All Pro",
-      "url": "/news/sports/pro/"
-    },
-    {
-      "text": "\n\n",
-      "url": "/"
-    },
-    {
-      "text": "Sign\u00a0in",
-      "url": "/auth/login?r=//www.newstribune.com/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://subscribe.wehco.com/subscription/news-tribune/"
-    },
-    {
-      "text": "Sign\u00a0in",
-      "url": "/auth/login?r=//www.newstribune.com/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://subscribe.wehco.com/subscription/news-tribune/"
-    },
-    {
-      "text": "Today's Edition",
-      "url": "/eedition/"
-    },
-    {
-      "text": "Local",
-      "url": "/news/jefferson-city/"
-    },
-    {
-      "text": "Missouri",
-      "url": "/news/missouri/"
-    },
-    {
-      "text": "Opinion",
-      "url": "/news/opinion/"
-    },
-    {
-      "text": "Obits",
-      "url": "/obituaries/"
-    },
-    {
-      "text": "Sports",
-      "url": "/news/sports/"
-    },
-    {
-      "text": "GoMidMo",
-      "url": "/news/gomidmo/"
-    },
-    {
-      "text": "HER Magazine",
-      "url": "https://www.newstribune.com/her/"
-    },
-    {
-      "text": "Events",
-      "url": "/go/"
-    },
-    {
-      "text": "Classifieds",
-      "url": "http://www.midmoclassifieds.com/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/newsletters/"
-    },
-    {
-      "text": "Election '22",
-      "url": "/election/"
-    },
-    {
-      "text": "Contests",
-      "url": "/special-sections/contests/"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://midmocareers.com/"
-    },
-    {
-      "text": "Special Sections",
-      "url": "/special-sections/"
-    },
-    {
-      "text": "National",
-      "url": "/news/national/"
-    },
-    {
-      "text": "World",
-      "url": "/news/international/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/veteran-candidate-goes-on-the-offensive/"
-    },
-    {
-      "text": "Primary challenger goes on the offensive against Republican incumbent",
-      "url": "/news/2022/jul/13/veteran-candidate-goes-on-the-offensive/"
-    },
-    {
-      "text": "Joe Gamm",
-      "url": "/staff/joe-gamm/"
-    },
-    {
-      "text": "Reducing taxes protecting families are top concerns for Senate District 10 candidates",
-      "url": "/news/2022/jul/13/reducing-taxes-protecting-families-are-top/"
-    },
-    {
-      "text": "Joe Gamm",
-      "url": "/staff/joe-gamm/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/reducing-taxes-protecting-families-are-top/"
-    },
-    {
-      "text": "MSP proposed to National Register of Historic Places for third time",
-      "url": "/news/2022/jul/13/msp-proposed-to-national-register-of-historic/"
-    },
-    {
-      "text": "Anna Watson",
-      "url": "/staff/anna-watson/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/msp-proposed-to-national-register-of-historic/"
-    },
-    {
-      "text": "988 mental health hotline gets local launch",
-      "url": "/news/2022/jul/13/988-mental-health-hotline-gets-local-launch/"
-    },
-    {
-      "text": "Aaron Spencer",
-      "url": "/staff/aaron-spencer/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/988-mental-health-hotline-gets-local-launch/"
-    },
-    {
-      "text": "Former North Callaway coach sentenced in \u201csextortion\u201dcase",
-      "url": "/news/2022/jul/13/former-north-callaway-coach-sentenced-in/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/former-north-callaway-coach-sentenced-in/"
-    },
-    {
-      "text": "Latest News",
-      "url": "news/news/"
-    },
-    {
-      "text": "Jefferson City man resentenced in sexual assault case",
-      "url": "/news/2022/jul/13/jc-man-resentenced-in-sexual-assault-case/"
-    },
-    {
-      "text": "Staff Reports",
-      "url": "/staff/Staff-Reports/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/jc-man-resentenced-in-sexual-assault-case/"
-    },
-    {
-      "text": "Jefferson City School District Board to look at contracts Thursday",
-      "url": "/news/2022/jul/13/jc-school-board-to-look-at-contracts-thursday/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/jc-school-board-to-look-at-contracts-thursday/"
-    },
-    {
-      "text": "Healthy Life: A melon by any name",
-      "url": "/news/2022/jul/13/a-melon-by-any-name/"
-    },
-    {
-      "text": "Dianna Richardson",
-      "url": "/staff/dianna-richardson/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/a-melon-by-any-name/"
-    },
-    {
-      "text": "Jefferson City News",
-      "url": "/news/jefferson-city/"
-    },
-    {
-      "text": "Former North Callaway coach sentenced in \u201csextortion\u201d case",
-      "url": "/news/2022/jul/13/former-north-callaway-coach-sentenced-in/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/former-north-callaway-coach-sentenced-in/"
-    },
-    {
-      "text": "Jefferson City man resentenced in sexual assault case",
-      "url": "/news/2022/jul/13/jc-man-resentenced-in-sexual-assault-case/"
-    },
-    {
-      "text": "Staff Reports",
-      "url": "/staff/Staff-Reports/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/jc-man-resentenced-in-sexual-assault-case/"
-    },
-    {
-      "text": "Opinion",
-      "url": "/news/opinion/"
-    },
-    {
-      "text": "COMMENTARY: What is Biden\u2019s real exit strategy?",
-      "url": "/news/2022/jul/13/commentary-what-is-bidens-real-exit-strategy/"
-    },
-    {
-      "text": "EDITORIAL:Hartzler is latest Republican to see Trump loyalty repaid with humiliation",
-      "url": "/news/2022/jul/13/editorialhartzler-is-latest-republican-to-see/"
-    },
-    {
-      "text": "Features",
-      "url": "/news/features/"
-    },
-    {
-      "text": "Healthy Life: A melon by any name",
-      "url": "/news/2022/jul/13/a-melon-by-any-name/"
-    },
-    {
-      "text": "Dianna Richardson",
-      "url": "/staff/dianna-richardson/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/a-melon-by-any-name/"
-    },
-    {
-      "text": "Transform your salad into a meal",
-      "url": "/news/2022/jul/13/transform-your-salad-into-a-meal/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/transform-your-salad-into-a-meal/"
-    },
-    {
-      "text": "Sports",
-      "url": "/news/sports/"
-    },
-    {
-      "text": "Pujols, Gorman home runs power St. Louis past Dodgers 7-6",
-      "url": "/news/2022/jul/13/pujols-gorman-home-runs-power-st-louis-past-dodgers-7-6/"
-    },
-    {
-      "text": "The Associated Press",
-      "url": "/staff/the-associated-press/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/pujols-gorman-home-runs-power-st-louis-past-dodgers-7-6/"
-    },
-    {
-      "text": "Cabrera drives in two to tie Williams, Tigers beat Royals 7-5",
-      "url": "/news/2022/jul/13/cabrera-drives-in-two-to-tie-williams-tigers-beat-royals-7-5/"
-    },
-    {
-      "text": "The Associated Press",
-      "url": "/staff/the-associated-press/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/cabrera-drives-in-two-to-tie-williams-tigers-beat-royals-7-5/"
-    },
-    {
-      "text": "World News",
-      "url": "/news/world/"
-    },
-    {
-      "text": "Taking selfies, Sri Lankans converge on presidential palace",
-      "url": "/news/2022/jul/12/taking-selfies-sri-lankans-converge-on/"
-    },
-    {
-      "text": "The Associated Press",
-      "url": "/staff/the-associated-press/"
-    },
-    {
-      "text": "UN expects world\u2019s population to reach 8 billion on Nov. 15",
-      "url": "/news/2022/jul/12/un-expects-worlds-population-to-reach-8-billion/"
-    },
-    {
-      "text": "The Associated Press",
-      "url": "/staff/the-associated-press/"
-    },
-    {
-      "text": "National News",
-      "url": "/news/national/"
-    },
-    {
-      "text": "Superbug infections, deaths rose at beginning of pandemic",
-      "url": "/news/2022/jul/13/superbug-infections-deaths-rose-at-beginning-of/"
-    },
-    {
-      "text": "The Associated Press",
-      "url": "/staff/the-associated-press/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/superbug-infections-deaths-rose-at-beginning-of/"
-    },
-    {
-      "text": "Jill Biden apologizes after remark about Latinos causes stir",
-      "url": "/news/2022/jul/13/jill-biden-apologizes-after-remark-about-latinos/"
-    },
-    {
-      "text": "The Associated Press",
-      "url": "/staff/the-associated-press/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/13/jill-biden-apologizes-after-remark-about-latinos/"
-    },
-    {
-      "text": "News Tribune podcasts",
-      "url": "/news/podcasts/"
-    },
-    {
-      "text": "LISTEN: NT on Tap -- Perceptions of police, feat. Police Chief Eric Wilde",
-      "url": "/news/2022/jul/07/listen-nt-on-tap-perceptions-of-police-feat-police-chief-eric-wilde/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/07/listen-nt-on-tap-perceptions-of-police-feat-police-chief-eric-wilde/"
-    },
-    {
-      "text": "LISTEN: NT on Tap -- From farm girl to Missouri Supreme Court Justice, ft. Mary Russell",
-      "url": "/news/2022/jul/01/listen-nt-on-tap-from-farm-girl-to-missouri-supreme-court-justice-ft-mary-russell/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/01/listen-nt-on-tap-from-farm-girl-to-missouri-supreme-court-justice-ft-mary-russell/"
-    },
-    {
-      "text": "MORE LATEST NEWS",
-      "url": "/news/news/"
-    },
-    {
-      "text": "Local News",
-      "url": "/news/jefferson-city/"
-    },
-    {
-      "text": "Missouri News",
-      "url": "/news/missouri/"
-    },
-    {
-      "text": "Business",
-      "url": "/news/business"
-    },
-    {
-      "text": "Opinion",
-      "url": "/news/opinion/letters/"
-    },
-    {
-      "text": "Nation",
-      "url": "/news/national/"
-    },
-    {
-      "text": "World",
-      "url": "/news/international/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/news/podcasts/"
-    },
-    {
-      "text": "Today's Edition",
-      "url": "https://newstribune.pressreader.com/news-tribune-ereader"
-    },
-    {
-      "text": "Archives",
-      "url": "/archivesearch/"
-    },
-    {
-      "text": "Health",
-      "url": "/news/health/"
-    },
-    {
-      "text": "All Sports",
-      "url": "/news/sports/"
-    },
-    {
-      "text": "High School",
-      "url": "/news/sports/preps/"
-    },
-    {
-      "text": "College",
-      "url": "/news/sports/college/"
-    },
-    {
-      "text": "Pro",
-      "url": "/news/sports/pro/"
-    },
-    {
-      "text": "Kansas City Chiefs",
-      "url": "/news/sports/pro/kansas-city-chiefs/"
-    },
-    {
-      "text": "Weddings & Anniversaries",
-      "url": "/couples/"
-    },
-    {
-      "text": "Obituaries",
-      "url": "/obituaries/"
-    },
-    {
-      "text": "HER Magazine",
-      "url": "https://www.newstribune.com/her/"
-    },
-    {
-      "text": "Style",
-      "url": "/news/features/style/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/news/features/entertainment/"
-    },
-    {
-      "text": "Flavor",
-      "url": "/news/features/food/"
-    },
-    {
-      "text": "Jefferson City Landmarks",
-      "url": "/landmark/"
-    },
-    {
-      "text": "Classifieds",
-      "url": "http://www.midmoclassifieds.com/"
-    },
-    {
-      "text": "Legal Notices",
-      "url": "http://newstribune.classifieds.adicio.com/g/public-notices-30772919-b"
-    },
-    {
-      "text": "Jobs",
-      "url": "https://www.midmocareers.com/"
-    },
-    {
-      "text": "Autos",
-      "url": "http://www.midmoclassifieds.com/"
-    },
-    {
-      "text": "Events",
-      "url": "/go/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/newsletters/"
-    },
-    {
-      "text": "California Democrat",
-      "url": "https://californiademocrat.com/"
-    },
-    {
-      "text": "Fulton Sun",
-      "url": "https://fultonsun.com/"
-    },
-    {
-      "text": "NT Rewards",
-      "url": "https://www.newstribune.com/NTREWARDS/"
-    },
-    {
-      "text": "Advertise",
-      "url": "/advertise/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://subscribe.wehco.com/subscription/news-tribune/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/contact/"
-    },
-    {
-      "text": "About Us",
-      "url": "/about-us/"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "/privacy-policy/"
-    },
-    {
-      "text": "Commercial Printing",
-      "url": "https://www.midmoprinting.com/"
-    }
-  ],
   "server": "ia801409.us.archive.org",
-  "uniq": 29501883,
+  "uniq": 78521466,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

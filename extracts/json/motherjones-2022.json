@@ -1,5 +1,5 @@
 {
-  "created": 1657729475,
+  "created": 1657769166,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/motherjones-2022",
@@ -3460,31 +3460,73 @@
       "sha1": "070729702e6725150a5404887aade5c5cdf0b693"
     },
     {
+      "name": "motherjones-2022-07-13T20:24:07.546684-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657769052",
+      "size": "33818",
+      "md5": "8a1f47f5c7a4315367efc01305608d48",
+      "crc32": "0cc42cef",
+      "sha1": "31102777842de365fc915e1902c88e6bd2c6ef33",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-07-13T20:24:07.546684-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657769054",
+      "size": "27742",
+      "md5": "d1b851100c28329c5f3b7d33a42bfde5",
+      "crc32": "70f18651",
+      "sha1": "2bb86daeaf470eeac3bbc847e01ec6c6029b0363",
+      "format": "JSON"
+    },
+    {
+      "name": "motherjones-2022-07-13T20:24:07.546684-07:00.jpg",
+      "source": "original",
+      "mtime": "1657769051",
+      "size": "275686",
+      "md5": "7bf0eb71455aa66b521f015fb2cd942c",
+      "crc32": "06fac22d",
+      "sha1": "1b3e5b6c8efd38cadf864472d28675d6f509fdc3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "motherjones-2022-07-13T20:24:07.546684-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-07-13T20:24:07.546684-07:00.jpg",
+      "mtime": "1657769129",
+      "size": "9883",
+      "md5": "10e31cec221870ac37c939eecc87ef3a",
+      "crc32": "f8a9e1fb",
+      "sha1": "a6b302c509bbbcde209b15270cd96d0e3c1b6f5d"
+    },
+    {
       "name": "motherjones-2022_archive.torrent",
       "source": "metadata",
-      "btih": "599aa606bb5552fd1a3eff5dad54cd1b4feb69bf",
-      "mtime": "1657729431",
-      "size": "71738",
-      "md5": "1509c40f90bd1f4dd819353af403b772",
-      "crc32": "4c5b123d",
-      "sha1": "2e242cc8c3e50be5cd5eb076165fde1d204cc3d7",
+      "btih": "d9d8debbe5b6b9f0025dc1e6d39f81f8e84940d6",
+      "mtime": "1657769145",
+      "size": "72579",
+      "md5": "5d262fc3aa021a3d2b9d092ae0aebd37",
+      "crc32": "41c42ffb",
+      "sha1": "7b98dd0a7d551bdaac7f0fee32cc96e62e9b6f48",
       "format": "Archive BitTorrent"
     },
     {
       "name": "motherjones-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c49a984ecdc5564b48f039846030cc3b",
+      "md5": "63dcaf13c2ba8c8a430aa1736b7fb1fd",
       "summation": "md5"
     },
     {
       "name": "motherjones-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657729238",
-      "size": "393216",
-      "md5": "1d015f704371e093eaa242e2d2eeeac9",
-      "crc32": "31473548",
-      "sha1": "7c183795f638f6e0eaf1d37da95cb4ee3ff95ad5",
+      "mtime": "1657769058",
+      "size": "401408",
+      "md5": "6edcf884e4680499d40433841aca1b21",
+      "crc32": "3912b292",
+      "sha1": "a983bc7d7c9a23e4dc9afb183a0d3303ff8fcb30",
       "format": "Metadata"
     },
     {
@@ -3498,9 +3540,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 333,
-  "item_last_updated": 1657729431,
-  "item_size": 29039006,
+  "files_count": 337,
+  "item_last_updated": 1657769145,
+  "item_size": 29395168,
   "metadata": {
     "identifier": "motherjones-2022",
     "collection": [
@@ -3517,10 +3559,10 @@
     "publicdate": "2022-06-18 17:10:05",
     "addeddate": "2022-06-18 17:10:05"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 964369829,
+  "server": "ia902500.us.archive.org",
+  "uniq": 298845970,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

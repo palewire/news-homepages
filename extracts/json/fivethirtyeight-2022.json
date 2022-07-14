@@ -1,5 +1,5 @@
 {
-  "created": 1657723597,
+  "created": 1657800556,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/25/items/fivethirtyeight-2022",
@@ -3186,31 +3186,73 @@
       "sha1": "90724f5a5197803a0ec70053b6f014a41f663669"
     },
     {
+      "name": "fivethirtyeight-2022-07-13T22:19:37.790416-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657765180",
+      "size": "18435",
+      "md5": "263dab567e8af393bfa733483ad41f1a",
+      "crc32": "b72252f9",
+      "sha1": "17bf5b3c2222576dda84f60c0a5f1b62fc057650",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-13T22:19:37.790416-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657765184",
+      "size": "19725",
+      "md5": "0915b24f6caf21c35d41ae79ce794881",
+      "crc32": "d9272cc6",
+      "sha1": "6815244e4dc1692396f6caf4e9d8cb4a978d1386",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-13T22:19:37.790416-04:00.jpg",
+      "source": "original",
+      "mtime": "1657765178",
+      "size": "245060",
+      "md5": "d181fa82c1d2c3fafddb9d596010b179",
+      "crc32": "2ef85c6d",
+      "sha1": "e43faa064596a43dd86c7ca6e77ef74fe747f79b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-07-13T22:19:37.790416-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-07-13T22:19:37.790416-04:00.jpg",
+      "mtime": "1657765253",
+      "size": "8948",
+      "md5": "abe2eb4aff0a70e57f39f04be5dc65ac",
+      "crc32": "9ce1f2b9",
+      "sha1": "baf91ee647b6cb7d8f22f0a9b5f16d88dfb862e7"
+    },
+    {
       "name": "fivethirtyeight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "269badf68d9437f0c0b4aeafc098e0ec1ec7f3e7",
-      "mtime": "1657723581",
-      "size": "67305",
-      "md5": "d9a882c4b3dcc33f24e756030c96101c",
-      "crc32": "e4b82794",
-      "sha1": "834bcea99fc565a362d9c8012c69bef34eaa4a8c",
+      "btih": "dd51fa8199324bbaac650920033445582f372f9c",
+      "mtime": "1657765257",
+      "size": "68162",
+      "md5": "5e054adc92c3800234ab02ef72e45786",
+      "crc32": "471738e1",
+      "sha1": "a63f33cc88a4e844b3081cc4dfc4b15dd9ecfe12",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fivethirtyeight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "225da45f5919067cd018171ba092987a",
+      "md5": "2abaf7bf8251e9b020d3eec7a352a42b",
       "summation": "md5"
     },
     {
       "name": "fivethirtyeight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657723522",
-      "size": "368640",
-      "md5": "ad44510244313514ed2e5bbfa5390e72",
-      "crc32": "d7ddf7a7",
-      "sha1": "01d8abe895a47ce9fe783b8a7e86f7c3c8dc7f19",
+      "mtime": "1657765191",
+      "size": "372736",
+      "md5": "8f1486fad77bde2145ca1fca448c8022",
+      "crc32": "87125bbb",
+      "sha1": "8be9193e2d17b992a571551b8d72c9d2e91960b2",
       "format": "Metadata"
     },
     {
@@ -3224,9 +3266,511 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 307,
-  "item_last_updated": 1657723581,
-  "item_size": 23878880,
+  "files_count": 311,
+  "fivethirtyeight-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#content"
+    },
+    {
+      "text": "\n\t\t\t\t\tFiveThirtyEight\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "/"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\tABC News\n\t\t\t",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tPolitics\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/politics/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tSports\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/sports/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tScience\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/science/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tPodcasts\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/podcasts/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tVideo\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tABC News\t\t\t\t\t",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\t\n\n\t\tLatest Forecasts For The 2022 Midterm Elections\n\n\t\t\t\n\t\t\t\t\t\n\t\t",
+      "url": "https://projects.fivethirtyeight.com/2022-election-forecast/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/jan-6s-salacious-details-are-beside-the-point/"
+    },
+    {
+      "text": "Jan. 6 Investigation",
+      "url": "https://fivethirtyeight.com/tag/january-6th-investigation/"
+    },
+    {
+      "text": "\n\t\t\t\t\tJan. 6\u2019s Salacious Details Are Beside The Point\t\t\t",
+      "url": "https://fivethirtyeight.com/features/jan-6s-salacious-details-are-beside-the-point/"
+    },
+    {
+      "text": "Kaleigh Rogers",
+      "url": "https://fivethirtyeight.com/contributors/kaleigh-rogers/"
+    },
+    {
+      "text": "LGBTQ",
+      "url": "https://fivethirtyeight.com/tag/lgbtq/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tAmericans\u2019 Support For LGBTQ Rights Often Stops With Transgender Rights\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/americans-support-for-lgbtq-rights-often-stops-with-transgender-rights/"
+    },
+    {
+      "text": "Natalie Jackson",
+      "url": "https://fivethirtyeight.com/contributors/natalie-jackson/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/americans-support-for-lgbtq-rights-often-stops-with-transgender-rights/"
+    },
+    {
+      "text": "Birth Control",
+      "url": "https://fivethirtyeight.com/tag/birth-control/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tWhy Losing Access To Abortion Also Affects Access To Birth Control\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/how-limiting-access-to-abortion-limits-access-to-birth-control/"
+    },
+    {
+      "text": "Monica Potts",
+      "url": "https://fivethirtyeight.com/contributors/monica-potts/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/how-limiting-access-to-abortion-limits-access-to-birth-control/"
+    },
+    {
+      "text": "Data Is Plural",
+      "url": "https://fivethirtyeight.com/tag/data-is-plural/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tThe Datasets We\u2019re Looking At This Week\t\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/the-datasets-were-looking-at-this-week-9/"
+    },
+    {
+      "text": "Jeremy Singer-Vine",
+      "url": "https://fivethirtyeight.com/contributors/jeremy-singer-vine/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/the-datasets-were-looking-at-this-week-9/"
+    },
+    {
+      "text": "\n\t\t\tThe Datasets We\u2019re Looking At This Week\t\t",
+      "url": "https://fivethirtyeight.com/features/the-datasets-were-looking-at-this-week-9/"
+    },
+    {
+      "text": "\n\t\t\tJan. 6\u2019s Salacious Details Are Beside The Point\t\t",
+      "url": "https://fivethirtyeight.com/features/jan-6s-salacious-details-are-beside-the-point/"
+    },
+    {
+      "text": "\n\t\t\tHow Limiting Access To Abortion Limits Access To Birth Control\t\t",
+      "url": "https://fivethirtyeight.com/features/how-limiting-access-to-abortion-limits-access-to-birth-control/"
+    },
+    {
+      "text": "\n\t\t\tThere Are Three Right Answers For The WNBA\u2019s Rookie Of The Year\t\t",
+      "url": "https://fivethirtyeight.com/features/wnba-rookie-of-the-year/"
+    },
+    {
+      "text": "\n\t\t\tHow Are The Proud Boys, QAnon And The Oath Keepers Connected?\t\t",
+      "url": "https://fivethirtyeight.com/videos/how-are-the-proud-boys-qanon-and-the-oath-keepers-connected/"
+    },
+    {
+      "text": "\n\t\t\tAmericans\u2019 Support For LGBTQ Rights Often Stops With Transgender Rights\t\t",
+      "url": "https://fivethirtyeight.com/features/americans-support-for-lgbtq-rights-often-stops-with-transgender-rights/"
+    },
+    {
+      "text": "\n\t\t\t1 In 5 Americans Rate Abortion As A Top Issue After The Fall Of Roe\t\t",
+      "url": "https://fivethirtyeight.com/features/abortion-birth-control-poll/"
+    },
+    {
+      "text": "\n\t\t\tShohei Ohtani Found A New Way To Shine As A Two-Way All Star\t\t",
+      "url": "https://fivethirtyeight.com/features/shohei-ohtani-mlb-all-star/"
+    },
+    {
+      "text": "All stories",
+      "url": "https://fivethirtyeight.com/features/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/abortion-birth-control-poll/"
+    },
+    {
+      "text": "2022 Election",
+      "url": "https://fivethirtyeight.com/tag/2022-election/"
+    },
+    {
+      "text": "\n\t\t\t\t\tHow Americans Feel About Abortion And Contraception\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/abortion-birth-control-poll/"
+    },
+    {
+      "text": "Geoffrey Skelley",
+      "url": "https://fivethirtyeight.com/contributors/geoffrey-skelley/"
+    },
+    {
+      "text": "Holly Fuong",
+      "url": "https://fivethirtyeight.com/contributors/holly-fuong/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/how-are-the-proud-boys-qanon-and-the-oath-keepers-connected/?cid=rrfeaturedvideo"
+    },
+    {
+      "text": "Right-wing Extremism",
+      "url": "https://fivethirtyeight.com/tag/right-wing-extremism/"
+    },
+    {
+      "text": "\n\t\t\t\t\tHow Are The Proud Boys, QAnon And The Oath Keepers Connected?\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/how-are-the-proud-boys-qanon-and-the-oath-keepers-connected/"
+    },
+    {
+      "text": "Kaleigh Rogers",
+      "url": "https://fivethirtyeight.com/contributors/kaleigh-rogers/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/nba-7-footers-are-having-a-renaissance-or-are-they/"
+    },
+    {
+      "text": "NBA",
+      "url": "https://fivethirtyeight.com/tag/nba/"
+    },
+    {
+      "text": "\n\t\t\t\t\tNBA 7-Footers Are Having A Renaissance \u2026 Or Are They?\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/nba-7-footers-are-having-a-renaissance-or-are-they/"
+    },
+    {
+      "text": "Louis Zatzman",
+      "url": "https://fivethirtyeight.com/contributors/louis-zatzman/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/wnba-rookie-of-the-year/"
+    },
+    {
+      "text": "WNBA",
+      "url": "https://fivethirtyeight.com/tag/wnba/"
+    },
+    {
+      "text": "\n\t\t\t\t\tThere Are Three Right Answers For The WNBA\u2019s Rookie Of The Year\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/wnba-rookie-of-the-year/"
+    },
+    {
+      "text": "Howard Megdal",
+      "url": "https://fivethirtyeight.com/contributors/howard-megdal/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/maybe-dobbs-did-change-the-race-well-need-more-time-to-know-for-sure/"
+    },
+    {
+      "text": "2022 Election",
+      "url": "https://fivethirtyeight.com/tag/2022-election/"
+    },
+    {
+      "text": "\n\t\t\t\t\tMaybe Dobbs Did Change The Race. We\u2019ll Need More Time To Know For Sure.\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/maybe-dobbs-did-change-the-race-well-need-more-time-to-know-for-sure/"
+    },
+    {
+      "text": "Nate Silver",
+      "url": "https://fivethirtyeight.com/contributors/nate-silver/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/shohei-ohtani-mlb-all-star/"
+    },
+    {
+      "text": "MLB",
+      "url": "https://fivethirtyeight.com/tag/mlb/"
+    },
+    {
+      "text": "\n\t\t\t\t\tShohei Ohtani Found A New Way To Shine As A Two-Way All Star\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/shohei-ohtani-mlb-all-star/"
+    },
+    {
+      "text": "Neil Paine",
+      "url": "https://fivethirtyeight.com/contributors/neil-paine/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/do-you-buy-that-the-fall-of-roe-v-wade-will-help-democrats-in-the-midterms/?cid=rrfeaturedvideo"
+    },
+    {
+      "text": "Do You Buy That",
+      "url": "https://fivethirtyeight.com/tag/do-you-buy-that/"
+    },
+    {
+      "text": "\n\t\t\t\t\tDo You Buy That \u2026  The Fall Of Roe v. Wade Will Help Democrats In The Midterms?\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/do-you-buy-that-the-fall-of-roe-v-wade-will-help-democrats-in-the-midterms/"
+    },
+    {
+      "text": "Nate Silver",
+      "url": "https://fivethirtyeight.com/contributors/nate-silver/"
+    },
+    {
+      "text": "\n",
+      "url": "https://fivethirtyeight.com/features/jan-6s-tangled-web-of-extremism/"
+    },
+    {
+      "text": "Right-wing Extremism",
+      "url": "https://fivethirtyeight.com/tag/right-wing-extremism/"
+    },
+    {
+      "text": "\n\t\t\t\t\tA Tangled Web Of Extremism\t\t\t\t",
+      "url": "https://fivethirtyeight.com/features/jan-6s-tangled-web-of-extremism/"
+    },
+    {
+      "text": "Kaleigh Rogers",
+      "url": "https://fivethirtyeight.com/contributors/kaleigh-rogers/"
+    },
+    {
+      "text": "Holly Fuong",
+      "url": "https://fivethirtyeight.com/contributors/holly-fuong/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/what-will-democrats-do-about-the-supreme-court/?cid=rrfeaturedvideo"
+    },
+    {
+      "text": "Politics Podcast",
+      "url": "https://fivethirtyeight.com/tag/politics-podcast/"
+    },
+    {
+      "text": "\n\t\t\t\t\tWhat Will Democrats Do About The Supreme Court?\t\t\t\t",
+      "url": "https://fivethirtyeight.com/videos/what-will-democrats-do-about-the-supreme-court/"
+    },
+    {
+      "text": "More >",
+      "url": "https://fivethirtyeight.com/features/"
+    },
+    {
+      "text": "Do You Buy That",
+      "url": "https://fivethirtyeight.com/tag/do-you-buy-that/"
+    },
+    {
+      "text": "Do You Buy That \u2026  The Fall Of Roe v. Wade Will Help Democrats In The Midterms?",
+      "url": "https://fivethirtyeight.com/videos/do-you-buy-that-the-fall-of-roe-v-wade-will-help-democrats-in-the-midterms/"
+    },
+    {
+      "text": "Nate Silver",
+      "url": "https://fivethirtyeight.com/contributors/nate-silver/"
+    },
+    {
+      "text": "Subscribe on YouTube",
+      "url": "https://www.youtube.com/FiveThirtyEight?sub_confirmation=1"
+    },
+    {
+      "text": "All videos",
+      "url": "https://fivethirtyeight.com/videos/"
+    },
+    {
+      "text": "Sponsored Links by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Sponsored Links by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Promoted Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Promoted Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=abcnews-fivethirtyeight&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:"
+    },
+    {
+      "text": "Forbes",
+      "url": "https://www3.forbes.com/leadership/the-u-s-states-people-are-fleeing-and-the-ones-they-are-moving-to-version-5-ifs-vue-mn-wnb/?utm_campaign=The-Us-States-People-Are-Fleeing-and-The&utm_source=Taboola&utm_medium=tb168760d0us3110421&lcid=tb168760d0us3110421&utm_content=abcnews-fivethirtyeight&utm_term=The+US+States+People+Are+Fleeing+And+The+Ones+They+Are+Moving+To#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCD7_j0oupWd-6DH7Pd5&cid=referral_taboola_paid"
+    },
+    {
+      "text": "ForbesThe US States People Are Fleeing And The Ones They Are Moving To",
+      "url": "https://www3.forbes.com/leadership/the-u-s-states-people-are-fleeing-and-the-ones-they-are-moving-to-version-5-ifs-vue-mn-wnb/?utm_campaign=The-Us-States-People-Are-Fleeing-and-The&utm_source=Taboola&utm_medium=tb168760d0us3110421&lcid=tb168760d0us3110421&utm_content=abcnews-fivethirtyeight&utm_term=The+US+States+People+Are+Fleeing+And+The+Ones+They+Are+Moving+To#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCD7_j0oupWd-6DH7Pd5&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Esquire",
+      "url": "https://www.esquire.com/entertainment/g35995495/famous-actors-embarrassing-movie-roles/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_esq_d_pm_g35995495&utm_content=abcnews-fivethirtyeight#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCCvmkUovZWpoZjA7sE0&cid=referral_taboola_paid"
+    },
+    {
+      "text": "EsquireEmbarrassing Movie Roles Famous Actors Would Rather You Forget",
+      "url": "https://www.esquire.com/entertainment/g35995495/famous-actors-embarrassing-movie-roles/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_esq_d_pm_g35995495&utm_content=abcnews-fivethirtyeight#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCCvmkUovZWpoZjA7sE0&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Elle",
+      "url": "https://www.elle.com/culture/movies-tv/g38848086/top-actors-who-look-different-in-real-life/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_elm_d_pm_g38848086&utm_content=abcnews-fivethirtyeight#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCCyqkQoqvzp45bur6jdAQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Elle40 Stars Who Look Nothing Like Their Characters",
+      "url": "https://www.elle.com/culture/movies-tv/g38848086/top-actors-who-look-different-in-real-life/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_elm_d_pm_g38848086&utm_content=abcnews-fivethirtyeight#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCCyqkQoqvzp45bur6jdAQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Good Housekeeping",
+      "url": "https://www.goodhousekeeping.com/life/entertainment/g39004753/top-mtv-spring-break-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_ghk_d_i_g39004753&utm_content=abcnews-fivethirtyeight#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCC8mkQohM_0q-SaxOSzAQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Good HousekeepingMTV Spring Break Moments That Will Take You Back",
+      "url": "https://www.goodhousekeeping.com/life/entertainment/g39004753/top-mtv-spring-break-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_ghk_d_i_g39004753&utm_content=abcnews-fivethirtyeight#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCC8mkQohM_0q-SaxOSzAQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "House Beautiful",
+      "url": "https://www.housebeautiful.com/lifestyle/g4384/american-towns-that-look-like-europe/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_hbl_d_pm_g4384&utm_content=abcnews-fivethirtyeight#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCCRu0Qo9LH7rs3zicXTAQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "House BeautifulAmerican Cities With European Culture - U.S. Cities That Look Like Europe",
+      "url": "https://www.housebeautiful.com/lifestyle/g4384/american-towns-that-look-like-europe/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_hbl_d_pm_g4384&utm_content=abcnews-fivethirtyeight#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCCRu0Qo9LH7rs3zicXTAQ&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Car &amp; Driver",
+      "url": "https://www.caranddriver.com/features/g15381133/honda-civic-models-history/?utm_source=taboola_dda&utm_medium=cpm&utm_campaign=dda_tb_cd_d_i_g15381133&utm_content=abcnews-fivethirtyeight#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCCGvkYozdGkhu-M3okN&cid=referral_taboola_paid"
+    },
+    {
+      "text": "Car & DriverA Visual History of the Honda Civic",
+      "url": "https://www.caranddriver.com/features/g15381133/honda-civic-models-history/?utm_source=taboola_dda&utm_medium=cpm&utm_campaign=dda_tb_cd_d_i_g15381133&utm_content=abcnews-fivethirtyeight#tblciGiCQZLLMCZImNrBuivFwj7tE4W780GEpuHwkpmsiUN4ILCCGvkYozdGkhu-M3okN&cid=referral_taboola_paid"
+    },
+    {
+      "text": "CCPA Notice",
+      "url": "https://ccparequest.taboola.com/"
+    },
+    {
+      "text": "See all newsletters",
+      "url": "https://fivethirtyeight.com/newsletters/"
+    },
+    {
+      "text": "Store",
+      "url": "https://cottonbureau.com/stores/fivethirtyeight#/shop"
+    },
+    {
+      "text": "Newsletter",
+      "url": "https://fivethirtyeight.com/newsletter/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/fivethirtyeight"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/fivethirtyeight"
+    },
+    {
+      "text": "Data",
+      "url": "https://data.fivethirtyeight.com/"
+    },
+    {
+      "text": "RSS",
+      "url": "https://fivethirtyeight.com/features/fear-not-readers-we-have-rss-feeds/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://fivethirtyeight.com/about-us/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://fivethirtyeight.com/tag/fivethirtyeight-jobs/"
+    },
+    {
+      "text": "Masthead",
+      "url": "https://fivethirtyeight.com/masthead/"
+    },
+    {
+      "text": "Pitch FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/how-to-pitch-fivethirtyeight/"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "https://disneyadsales.com/our-brands/abc-news/"
+    },
+    {
+      "text": "About Nielsen Measurement",
+      "url": "http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html"
+    },
+    {
+      "text": "WordPress VIP",
+      "url": "https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=fivethirtyeight.com"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://disneytermsofuse.com/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://disneyprivacycenter.com/"
+    },
+    {
+      "text": "Do Not Sell My Personal Information",
+      "url": "#"
+    },
+    {
+      "text": "Your California Privacy Rights",
+      "url": "https://disneyprivacycenter.com/notice-to-california-residents/"
+    },
+    {
+      "text": "Children's Online Privacy Policy",
+      "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/"
+    },
+    {
+      "text": "Interest-Based Ads",
+      "url": "https://preferences-mgr.truste.com/?type=abcnews&affiliateId=11&cid=clicksource_4380645_footer_interestbasedads"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://disneytermsofuse.com/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://disneyprivacycenter.com/"
+    },
+    {
+      "text": "Your California Privacy Rights",
+      "url": "https://disneyprivacycenter.com/notice-to-california-residents/"
+    },
+    {
+      "text": "Children's Online Privacy Policy",
+      "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/"
+    },
+    {
+      "text": "Interest-Based Ads",
+      "url": "https://preferences-mgr.truste.com/?type=abcnews&affiliateId=11&cid=clicksource_4380645_footer_interestbasedads"
+    },
+    {
+      "text": "Cookie Policy",
+      "url": "https://disneyprivacycenter.com/cookies-policy-translations/cookies-policy/"
+    },
+    {
+      "text": "Your California Privacy Rights",
+      "url": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/"
+    },
+    {
+      "text": "link",
+      "url": "https://www.iabprivacy.com/optout.html"
+    },
+    {
+      "text": "Do Not Sell My Personal Information Rights",
+      "url": "https://privacy.thewaltdisneycompany.com/en/dnsmi/"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    }
+  ],
+  "item_last_updated": 1657765257,
+  "item_size": 24176001,
   "metadata": {
     "identifier": "fivethirtyeight-2022",
     "collection": [
@@ -3243,10 +3787,10 @@
     "publicdate": "2022-06-19 23:24:21",
     "addeddate": "2022-06-19 23:24:21"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1099707313,
+  "server": "ia601501.us.archive.org",
+  "uniq": 1430113763,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

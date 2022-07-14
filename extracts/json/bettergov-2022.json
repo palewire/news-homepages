@@ -561,7 +561,7 @@
       "url": "https://www.youtube.com/user/BGAIllinois"
     }
   ],
-  "created": 1657757934,
+  "created": 1657800418,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/bettergov-2022",
@@ -1208,31 +1208,73 @@
       "sha1": "b46e5c30c2f2dfb1f0e135a9685d0e2a38425f79"
     },
     {
+      "name": "bettergov-2022-07-13T19:53:12.575678-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657759997",
+      "size": "13178",
+      "md5": "09c125f93ef72c46fb99a4e88ddf21d3",
+      "crc32": "ce672fa0",
+      "sha1": "454454cfb905c15a972adde8c7dddbe273a1d302",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-07-13T19:53:12.575678-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657759999",
+      "size": "17357",
+      "md5": "03d07b972b14406c211e77c00b6317ed",
+      "crc32": "ba53290f",
+      "sha1": "d6242194c8e0445c7ebde3487faaec2637a06124",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-07-13T19:53:12.575678-05:00.jpg",
+      "source": "original",
+      "mtime": "1657759993",
+      "size": "310010",
+      "md5": "df0951187d62b1db1eb16ca273fc7f4c",
+      "crc32": "c0255d5c",
+      "sha1": "35d99ae857a02ee5d4a83607c284082f363c7546",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bettergov-2022-07-13T19:53:12.575678-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bettergov-2022-07-13T19:53:12.575678-05:00.jpg",
+      "mtime": "1657760052",
+      "size": "10130",
+      "md5": "f1dc72c3478a6b6b9ca56a0c4f24f7b8",
+      "crc32": "33e0b477",
+      "sha1": "b46e5c30c2f2dfb1f0e135a9685d0e2a38425f79"
+    },
+    {
       "name": "bettergov-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5510eb56fdf7f2887e592389d3bd6d87e7a495ff",
-      "mtime": "1657732701",
-      "size": "14346",
-      "md5": "a7d74ffc3b308837258bed5ff8c0fa14",
-      "crc32": "b2a847a3",
-      "sha1": "9a37ca6f4d1d71b7b94f90fe4b98e759dd62e2b5",
+      "btih": "9e1529fb72dbae371e8fb7d6f0b06bd073c1f474",
+      "mtime": "1657760058",
+      "size": "15180",
+      "md5": "d159fbe8187477f006277d7e5465598d",
+      "crc32": "7801513f",
+      "sha1": "c12146c50cd58d71cbdc52d1e818deeb68dac5c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bettergov-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d1e28bbcdb16d6268e188ac2063fa667",
+      "md5": "82c40c827646251e6f9184149426597b",
       "summation": "md5"
     },
     {
       "name": "bettergov-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657732645",
-      "size": "81920",
-      "md5": "42bc1c1034646cbf6f5cfc75d66771ab",
-      "crc32": "1619474b",
-      "sha1": "d79b7cc824c6b57fab594e8c7dc69036691170c0",
+      "mtime": "1657760002",
+      "size": "86016",
+      "md5": "db3c003f669495c7bb76a0ee5bfc94ea",
+      "crc32": "6c1797d8",
+      "sha1": "f9aa8d304727c58a26de8abac595662660b08791",
       "format": "Metadata"
     },
     {
@@ -1246,9 +1288,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1657732701,
-  "item_size": 5376242,
+  "files_count": 69,
+  "item_last_updated": 1657760058,
+  "item_size": 5731847,
   "metadata": {
     "identifier": "bettergov-2022",
     "collection": [
@@ -1265,10 +1307,10 @@
     "publicdate": "2022-07-09 03:56:41",
     "addeddate": "2022-07-09 03:56:41"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1823956203,
+  "server": "ia601406.us.archive.org",
+  "uniq": 1040263256,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

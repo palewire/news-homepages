@@ -1,5 +1,5 @@
 {
-  "created": 1657758174,
+  "created": 1657800647,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/31/items/inewsource-2022",
@@ -646,31 +646,73 @@
       "sha1": "7ec8e6a6f65e316f5c53ca5d45e35a584cdab221"
     },
     {
+      "name": "inewsource-2022-07-13T19:21:54.640122-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657765317",
+      "size": "12718",
+      "md5": "d7feeee5e9f2e025ffc506dfe68ce45d",
+      "crc32": "facf8089",
+      "sha1": "683681c40fd6608b93679dc1c75eb80f689da1cf",
+      "format": "JSON"
+    },
+    {
+      "name": "inewsource-2022-07-13T19:21:54.640122-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657765319",
+      "size": "16505",
+      "md5": "f27bb069b7bee7a5035411a46d3d21fe",
+      "crc32": "fc0b5856",
+      "sha1": "45cc54e5dbdf8efb850a072f06541ca6bf5b9035",
+      "format": "JSON"
+    },
+    {
+      "name": "inewsource-2022-07-13T19:21:54.640122-07:00.jpg",
+      "source": "original",
+      "mtime": "1657765316",
+      "size": "317172",
+      "md5": "5fd31b7c238c2e6838f6e1881a07e4a4",
+      "crc32": "d49db356",
+      "sha1": "7b497f4ea8f1801cb2f138fdce802fa848ff1fc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "inewsource-2022-07-13T19:21:54.640122-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "inewsource-2022-07-13T19:21:54.640122-07:00.jpg",
+      "mtime": "1657765394",
+      "size": "10616",
+      "md5": "de2a12c817dc2c87f31d731f260693c1",
+      "crc32": "7161c945",
+      "sha1": "fe90ca5ba68a4d14e706c1c95ea7852875e7e447"
+    },
+    {
       "name": "inewsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b5916f2fd7788edb2d9c9c63b4e9ee9f850a0f37",
-      "mtime": "1657736158",
-      "size": "14415",
-      "md5": "361d3231409e9d4a9b58a1d2a5278da7",
-      "crc32": "42901ee3",
-      "sha1": "3adec131e1c1198bd0a97325e6cf8e486e6a9755",
+      "btih": "a22e651864e5e4269febf3ce720fad0160740e26",
+      "mtime": "1657765398",
+      "size": "15273",
+      "md5": "249c2e1f65cd0a750aca78ad1cf36d9c",
+      "crc32": "c89b7342",
+      "sha1": "8fb3b6adb7b7a2a17d5a1c6c84a41e44d0c95b08",
       "format": "Archive BitTorrent"
     },
     {
       "name": "inewsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "02b1319d43e6701c66cbaefc8d4e0e0b",
+      "md5": "da1bbd191561dc813c10d966c295eefd",
       "summation": "md5"
     },
     {
       "name": "inewsource-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657736102",
-      "size": "81920",
-      "md5": "a16589105ea2f875a44b2b33f06a7601",
-      "crc32": "248f4c94",
-      "sha1": "2f15c5a84f636aa089ccecb872aeecd67cc0083a",
+      "mtime": "1657765323",
+      "size": "86016",
+      "md5": "0f50a0b6c57384503d058074e8268d3b",
+      "crc32": "a69edc39",
+      "sha1": "c05c608167ead9652ca4a3720734a0db151d3132",
       "format": "Metadata"
     },
     {
@@ -684,7 +726,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
+  "files_count": 69,
   "inewsource-2022": [
     {
       "text": "Yes, I'll help!",
@@ -699,14 +741,6 @@
       "url": "https://inewsource.org/newsletters/"
     },
     {
-      "text": "COVID-19",
-      "url": "https://inewsource.org/coronavirus/"
-    },
-    {
-      "text": "DATA",
-      "url": "https://inewsource.org/category/data/"
-    },
-    {
       "text": "GOVERNMENT",
       "url": "https://inewsource.org/category/government/"
     },
@@ -715,12 +749,8 @@
       "url": "https://inewsource.org/category/education/"
     },
     {
-      "text": "EN ESPA\u00d1OL",
-      "url": "https://inewsource.org/category/en-espanol/"
-    },
-    {
-      "text": "HEALTH",
-      "url": "https://inewsource.org/category/health/"
+      "text": "IMMIGRATION",
+      "url": "https://inewsource.org/category/immigration/"
     },
     {
       "text": "ENVIRONMENT",
@@ -729,6 +759,22 @@
     {
       "text": "INFRASTRUCTURE",
       "url": "https://inewsource.org/category/infrastructure/"
+    },
+    {
+      "text": "DATA",
+      "url": "https://inewsource.org/category/data/"
+    },
+    {
+      "text": "HEALTH",
+      "url": "https://inewsource.org/category/health/"
+    },
+    {
+      "text": "COVID-19",
+      "url": "https://inewsource.org/coronavirus/"
+    },
+    {
+      "text": "EN ESPA\u00d1OL",
+      "url": "https://inewsource.org/category/en-espanol/"
     },
     {
       "text": "Veterans Village",
@@ -879,14 +925,6 @@
       "url": "https://inewsource.org/newsletters/"
     },
     {
-      "text": "COVID-19",
-      "url": "https://inewsource.org/coronavirus/"
-    },
-    {
-      "text": "DATA",
-      "url": "https://inewsource.org/category/data/"
-    },
-    {
       "text": "GOVERNMENT",
       "url": "https://inewsource.org/category/government/"
     },
@@ -895,12 +933,8 @@
       "url": "https://inewsource.org/category/education/"
     },
     {
-      "text": "EN ESPA\u00d1OL",
-      "url": "https://inewsource.org/category/en-espanol/"
-    },
-    {
-      "text": "HEALTH",
-      "url": "https://inewsource.org/category/health/"
+      "text": "IMMIGRATION",
+      "url": "https://inewsource.org/category/immigration/"
     },
     {
       "text": "ENVIRONMENT",
@@ -909,6 +943,22 @@
     {
       "text": "INFRASTRUCTURE",
       "url": "https://inewsource.org/category/infrastructure/"
+    },
+    {
+      "text": "DATA",
+      "url": "https://inewsource.org/category/data/"
+    },
+    {
+      "text": "HEALTH",
+      "url": "https://inewsource.org/category/health/"
+    },
+    {
+      "text": "COVID-19",
+      "url": "https://inewsource.org/coronavirus/"
+    },
+    {
+      "text": "EN ESPA\u00d1OL",
+      "url": "https://inewsource.org/category/en-espanol/"
     },
     {
       "text": "Veterans Village",
@@ -1104,15 +1154,7 @@
     },
     {
       "text": "",
-      "url": "https://www.youtube.com/watch?v=mUSWuCYF9k4"
-    },
-    {
-      "text": "New COVID variants with \u2018extreme transmissibility\u2019 emerge in San Diego County",
-      "url": "https://www.youtube.com/watch?v=mUSWuCYF9k4"
-    },
-    {
-      "text": "CBS8.com",
-      "url": "https://www.cbs8.com/"
+      "url": "mailto:contact@inewsource.org"
     },
     {
       "text": "VETERANS VILLAGE",
@@ -1319,8 +1361,8 @@
       "url": "https://inewsource.org/privacy-policy/"
     }
   ],
-  "item_last_updated": 1657736158,
-  "item_size": 5734473,
+  "item_last_updated": 1657765398,
+  "item_size": 6096438,
   "metadata": {
     "identifier": "inewsource-2022",
     "collection": [
@@ -1337,10 +1379,10 @@
     "publicdate": "2022-07-09 03:59:53",
     "addeddate": "2022-07-09 03:59:53"
   },
-  "server": "ia902506.us.archive.org",
-  "uniq": 1286823935,
+  "server": "ia802506.us.archive.org",
+  "uniq": 1774116152,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }

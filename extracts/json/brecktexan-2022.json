@@ -1,5 +1,5 @@
 {
-  "created": 1657716756,
+  "created": 1657760124,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/brecktexan-2022",
@@ -436,31 +436,73 @@
       "sha1": "d907a03ab81267592a497d0bb9151e6aa3061054"
     },
     {
+      "name": "brecktexan-2022-07-13T19:53:19.149903-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657760002",
+      "size": "57417",
+      "md5": "8c08b819ed3d3eba800656c91b7086aa",
+      "crc32": "796a69aa",
+      "sha1": "729a8e48112d797fb2ca38f9a9d88e13650770ce",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-07-13T19:53:19.149903-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657760004",
+      "size": "47908",
+      "md5": "4bec5bdb82facd0aab916d67a469101a",
+      "crc32": "3db2a28f",
+      "sha1": "f98c33b1338944981c0a731282add2e7a711ba67",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-07-13T19:53:19.149903-05:00.jpg",
+      "source": "original",
+      "mtime": "1657760000",
+      "size": "437584",
+      "md5": "00cdfa31f4a94e13e96c76693e494e37",
+      "crc32": "d6c43e4c",
+      "sha1": "2e6a0c274dc67b0b19442e52293848476dc8a857",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-07-13T19:53:19.149903-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-07-13T19:53:19.149903-05:00.jpg",
+      "mtime": "1657760093",
+      "size": "10302",
+      "md5": "e79da46609906306994d44fe4f6d1089",
+      "crc32": "0991aaf7",
+      "sha1": "6305992cf2703feb6eb76b08d290e616d4c5a6b6"
+    },
+    {
       "name": "brecktexan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b2ca19d105fcf5ac4dbfe0db2bd4ab3d1fd49bbf",
-      "mtime": "1657716735",
-      "size": "10224",
-      "md5": "bd5f379c511c875d1365ff53c0321541",
-      "crc32": "f3e9db43",
-      "sha1": "decff7c771f354dfcff08884e28b2a126ca1ac94",
+      "btih": "bf3887533d98b5519301b0e550644dcd1b26879f",
+      "mtime": "1657760097",
+      "size": "11082",
+      "md5": "bd9982797d6686d3c1ef4dca3fb40cce",
+      "crc32": "c6cb365b",
+      "sha1": "0e7db8b8beeb036ef718ba2359022737d45c558d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brecktexan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e853545e68f3aaab0942a6a33186a131",
+      "md5": "4db41dd5536a6d91ee96fc39da070d2e",
       "summation": "md5"
     },
     {
       "name": "brecktexan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657716670",
-      "size": "61440",
-      "md5": "b6f95dd434f067516c630fbab2aaa911",
-      "crc32": "48583a3c",
-      "sha1": "9bf7459d39fa016b82006c4c317545ec61822cb6",
+      "mtime": "1657760008",
+      "size": "65536",
+      "md5": "414ecc9b4ec961850d175b259916e166",
+      "crc32": "f3cf444b",
+      "sha1": "2488a6a6ea205fa4d13865221aca18c9b62318d6",
       "format": "Metadata"
     },
     {
@@ -474,9 +516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 45,
-  "item_last_updated": 1657716735,
-  "item_size": 5656715,
+  "files_count": 49,
+  "item_last_updated": 1657760097,
+  "item_size": 6214880,
   "metadata": {
     "identifier": "brecktexan-2022",
     "collection": [
@@ -493,10 +535,10 @@
     "publicdate": "2022-07-09 03:56:32",
     "addeddate": "2022-07-09 03:56:32"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 170158016,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1276137020,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }
