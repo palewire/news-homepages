@@ -85,6 +85,7 @@ def _upload(data: dict, input_dir: str):
 
     # Upload it
     internetarchive.upload(identifier, **kwargs)
+    click.echo(identifier)
 
 
 if __name__ == "__main__":

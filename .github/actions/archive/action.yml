@@ -36,9 +36,19 @@ runs:
 
     - id: archive
       name: Archive
-      run: pipenv run python -m newshomepages.archive ${{ inputs.source }}
+      run: |
+        mkdir _dist
+        pipenv run python -m newshomepages.archive ${{ inputs.source }} > _dist/${{ inputs.source }}.txt
       shell: bash
       env:
         IA_ACCESS_KEY: ${{ inputs.access-key }}
         IA_SECRET_KEY: ${{ inputs.secret-key }}
         IA_COLLECTION:  ${{ inputs.collection }}
+
+    - id: save
+      name: Save artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: wayback
+        path: _dist
+        if-no-files-found: error
