@@ -20,7 +20,6 @@ def cli(archive_json):
     data = json.load(archive_json)
     jpg = next(s for s in data if s.endswith(".jpg"))
     payload = {
-        "channel": "#news-homepages",
         "username": "News Homepages",
         "icon_emoji": ":rolled_up_newspaper:",
         "unfurl_links": True,
