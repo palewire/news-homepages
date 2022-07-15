@@ -17,7 +17,7 @@ orphan: true
 | Location       | Oak Park                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 16 screenshots stored at the Internet Archive.
+The archiving routine has captured 18 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

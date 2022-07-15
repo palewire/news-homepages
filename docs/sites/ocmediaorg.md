@@ -17,7 +17,7 @@ orphan: true
 | Location       | Tbilisi                                                                 |
 | Timezone       | Asia/Tbilisi                                                                 |
 
-The archiving routine has captured 76 screenshots stored at the Internet Archive.
+The archiving routine has captured 77 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
