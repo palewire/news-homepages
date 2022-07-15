@@ -1,31 +1,35 @@
+import json
 import os
+import sys
 
 import click
 import requests
 
-from . import utils
-
 
 @click.command()
-@click.argument("handle")
-@click.argument("identifier")
-def cli(handle: str, identifier: str):
+@click.option(
+    "-a",
+    "--archive-json",
+    "archive_json",
+    help="archive JSON artifact to work with",
+    type=click.File("r"),
+    default=sys.stdin,
+)
+def cli(archive_json):
     """Post image to Slack channel."""
-    # Get metadata
-    site = utils.get_site(handle)
-    click.echo(site)
-
+    data = json.load(archive_json)
+    jpg = next(s for s in data if s.endswith(".jpg"))
     payload = {
+        "channel": "#news-homepages",
         "username": "News Homepages",
         "icon_emoji": ":rolled_up_newspaper:",
         "unfurl_links": True,
-        "text": f"https://archive.org/{identifier}",
+        "unfurl_media": True,
+        "text": jpg,
     }
-
     url = os.getenv("SLACK_WEBHOOK_URL")
     assert url
-
-    requests.post(url, data=payload)
+    requests.post(url, json=payload)
 
 
 if __name__ == "__main__":
