@@ -1,5 +1,5 @@
 {
-  "created": 1657846683,
+  "created": 1657887233,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/nationaljournal-2022",
@@ -898,31 +898,73 @@
       "sha1": "1af5af3efb8dffa97eff0f874134974a0d1a763e"
     },
     {
+      "name": "nationaljournal-2022-07-14T23:28:40.057985-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657855724",
+      "size": "8798",
+      "md5": "c5a9131e9fb403e349fc14c5c4dad192",
+      "crc32": "5125fbdf",
+      "sha1": "1ce2726055d4c8a08ede503f0a2fa0b652179500",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-07-14T23:28:40.057985-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657855725",
+      "size": "6170",
+      "md5": "d2b5480316adc305777c52d534ec34a8",
+      "crc32": "de5025fb",
+      "sha1": "f319b0ec7cf7e1bb2e00565b5f7fafd597797b3a",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-07-14T23:28:40.057985-04:00.jpg",
+      "source": "original",
+      "mtime": "1657855721",
+      "size": "208255",
+      "md5": "966a5754d5f813b6f22bfee13ca62241",
+      "crc32": "b0c75b78",
+      "sha1": "9b64e9923e9e0c720c4aaad3a69acd95e5c34c8e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationaljournal-2022-07-14T23:28:40.057985-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationaljournal-2022-07-14T23:28:40.057985-04:00.jpg",
+      "mtime": "1657855835",
+      "size": "9445",
+      "md5": "e2ea90d55a1c4f7a58005046e230643f",
+      "crc32": "dbfcb75c",
+      "sha1": "40b10ec07ac3e5a605e432de8224851c282e3a9e"
+    },
+    {
       "name": "nationaljournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c2de984b53f0e43fec8af181eed51fecb0a3f211",
-      "mtime": "1657813577",
-      "size": "19826",
-      "md5": "bb8532540b99717387801b05ee4f676e",
-      "crc32": "978b1d45",
-      "sha1": "145816159dc0b038caaed1d539c29b35ffdf4bef",
+      "btih": "c4ab753e4f552e51946d4d5e032b6c08e7891d31",
+      "mtime": "1657855917",
+      "size": "20681",
+      "md5": "337fa307f6c1dee76692f3ae80d0e9d0",
+      "crc32": "a7042dec",
+      "sha1": "d1a96858b0ed5169445f7f8a0211a929ece6861a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nationaljournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8cb21f3168a42c85fe473663a877decc",
+      "md5": "63f63ebb68644216d8ecaaf389e35048",
       "summation": "md5"
     },
     {
       "name": "nationaljournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657813525",
-      "size": "122880",
-      "md5": "96d788277b43f8011ddc596bcbc3b644",
-      "crc32": "b3407a98",
-      "sha1": "bf1fb587f48bbe3d7c6f4e6ea2313ca91f683aa9",
+      "mtime": "1657855728",
+      "size": "126976",
+      "md5": "a1204f41c616d83f44aa06bd618754a0",
+      "crc32": "d0e06264",
+      "sha1": "cf97a20c5e0665815394a032906bea264d7c1464",
       "format": "Metadata"
     },
     {
@@ -936,9 +978,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 89,
-  "item_last_updated": 1657813577,
-  "item_size": 5023935,
+  "files_count": 93,
+  "item_last_updated": 1657855917,
+  "item_size": 5261554,
   "metadata": {
     "identifier": "nationaljournal-2022",
     "collection": [
@@ -1173,6 +1215,10 @@
       "url": "/faq"
     },
     {
+      "text": "NJ and CPR",
+      "url": "/cookpoliticalreport"
+    },
+    {
       "text": "",
       "url": "https://twitter.com/nationaljournal"
     },
@@ -1185,10 +1231,10 @@
       "url": "https://www.linkedin.com/company/national-journal"
     }
   ],
-  "server": "ia601406.us.archive.org",
-  "uniq": 1503115078,
+  "server": "ia801406.us.archive.org",
+  "uniq": 2037846486,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

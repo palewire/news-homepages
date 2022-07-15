@@ -1,5 +1,5 @@
 {
-  "created": 1657826052,
+  "created": 1657887394,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/qz-2022",
@@ -3218,31 +3218,73 @@
       "sha1": "4034d9d13956db919db72a4dc0401e3ac13d982f"
     },
     {
+      "name": "qz-2022-07-14T23:31:53.435289-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657855916",
+      "size": "14997",
+      "md5": "f9ac823b18cf9aa7de07433d3de6d375",
+      "crc32": "533d9d81",
+      "sha1": "0b059790357d9e4a5014a6bfecae4ce164a967e8",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-07-14T23:31:53.435289-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657855918",
+      "size": "14522",
+      "md5": "c2cee66b794c02929e0b22fc5f104f89",
+      "crc32": "055daea0",
+      "sha1": "46e04b6bebf2aab4694eecb8cab9bb82835ed210",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-07-14T23:31:53.435289-04:00.jpg",
+      "source": "original",
+      "mtime": "1657855914",
+      "size": "264547",
+      "md5": "566a9f0713132ac6253401c614cd806e",
+      "crc32": "c23dc288",
+      "sha1": "75d88bf3bdcf34b168bc66aec8e752ccc2930f13",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-07-14T23:31:53.435289-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-07-14T23:31:53.435289-04:00.jpg",
+      "mtime": "1657855979",
+      "size": "8859",
+      "md5": "bb4909314cf2fc8a8fff231535bb5753",
+      "crc32": "bcb2c10c",
+      "sha1": "a2178c890477001aaafdec4b00b28ec797951aa6"
+    },
+    {
       "name": "qz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c923a16fa026dce626a5b299d849fe79dba5828",
-      "mtime": "1657813899",
-      "size": "63780",
-      "md5": "3d69b32753f693d313bb2b6a314403e7",
-      "crc32": "b2bd9e75",
-      "sha1": "80447e91e00955ee3d6e8b2c9c7ea414e352363f",
+      "btih": "16892dea83d561e2fcc6804bc35f263782d309e6",
+      "mtime": "1657856010",
+      "size": "64605",
+      "md5": "956da0be84d78665620aaff2e980f587",
+      "crc32": "a683b77a",
+      "sha1": "84b8437b84e12464b556568bc09a472583b36ff8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3627b2f36fb7954a4375fc7693ac8fb8",
+      "md5": "cbc7ec4a0836d16bc87a7214f4052150",
       "summation": "md5"
     },
     {
       "name": "qz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657813809",
-      "size": "368640",
-      "md5": "b350d600a666a80f8fa0bb49ce26149e",
-      "crc32": "22b6adf5",
-      "sha1": "c5b4a14e312e2e77d0c4809ba289a39b71cd7ee7",
+      "mtime": "1657855922",
+      "size": "372736",
+      "md5": "eb7d8befb2b16e14e5edf0a54aad8447",
+      "crc32": "672197c7",
+      "sha1": "d0464a2e6a7366e44ac8b7b926dfbaaeeddf2a76",
       "format": "Metadata"
     },
     {
@@ -3256,9 +3298,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 310,
-  "item_last_updated": 1657813899,
-  "item_size": 22020950,
+  "files_count": 314,
+  "item_last_updated": 1657856010,
+  "item_size": 22328796,
   "metadata": {
     "identifier": "qz-2022",
     "collection": [
@@ -3275,10 +3317,596 @@
     "publicdate": "2022-06-19 23:27:27",
     "addeddate": "2022-06-19 23:27:27"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 1249551456,
+  "qz-2022": [
+    {
+      "text": "Skip to navigation",
+      "url": "#site-navigation"
+    },
+    {
+      "text": "Skip to content",
+      "url": "#site-content"
+    },
+    {
+      "text": "Membership",
+      "url": "/subscribe/"
+    },
+    {
+      "text": "Emails",
+      "url": "/emails/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/se/quartz-obsession-podcast/"
+    },
+    {
+      "text": "Field Guides",
+      "url": "/guides/"
+    },
+    {
+      "text": "Presentations",
+      "url": "/re/quartz-presents/"
+    },
+    {
+      "text": "Latest",
+      "url": "/latest/"
+    },
+    {
+      "text": "Trending",
+      "url": "/discover/trending/"
+    },
+    {
+      "text": "Obsessions",
+      "url": "/obsessions/"
+    },
+    {
+      "text": "Featured",
+      "url": "/featured/"
+    },
+    {
+      "text": "Search",
+      "url": "/search/"
+    },
+    {
+      "text": "Quartz",
+      "url": "/"
+    },
+    {
+      "text": "Quartz at Work",
+      "url": "/work/"
+    },
+    {
+      "text": "Quartz Africa",
+      "url": "/africa/"
+    },
+    {
+      "text": "Quartz India",
+      "url": "/india/"
+    },
+    {
+      "text": "Quartz Japan",
+      "url": "/japan/"
+    },
+    {
+      "text": "About Quartz",
+      "url": "/about/"
+    },
+    {
+      "text": "Careers",
+      "url": "/careers/"
+    },
+    {
+      "text": "Diversity and inclusion",
+      "url": "/about/diversity-inclusion-equality-at-quartz/"
+    },
+    {
+      "text": "Help center",
+      "url": "https://help.qz.com"
+    },
+    {
+      "text": "Download our app",
+      "url": "/app/"
+    },
+    {
+      "text": "Quartz Creative",
+      "url": "/creative/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://facebook.com/qz"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/qz"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/qz/"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://youtube.com/channel/UC9f78Z5hgtDt0n8JWyfBk8Q"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/quartzmedia/"
+    },
+    {
+      "text": "",
+      "url": "/search/"
+    },
+    {
+      "text": "Discover",
+      "url": "/discover/"
+    },
+    {
+      "text": "Latest",
+      "url": "/latest/"
+    },
+    {
+      "text": "Obsessions",
+      "url": "/obsessions/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Featured",
+      "url": "/featured/"
+    },
+    {
+      "text": "Emails",
+      "url": "/emails/"
+    },
+    {
+      "text": "Become a member",
+      "url": "/subscribe/"
+    },
+    {
+      "text": "",
+      "url": "/login/"
+    },
+    {
+      "text": "Become a member",
+      "url": "/subscribe/"
+    },
+    {
+      "text": ".ArtDirection__28941 { padding-bottom: 61.194029850746276%; }@media (min-width: 26.5625em) { .ArtDirection__28941 { padding-bottom: 56.11940298507463%; } }",
+      "url": "/emails/quartz-forecast/2186599/job-training-in-the-metaverse/"
+    },
+    {
+      "text": "The Forecast",
+      "url": "/emails/quartz-forecast/archive/"
+    },
+    {
+      "text": "\u2726 Training in the metaverseJuly 10, 2022",
+      "url": "/emails/quartz-forecast/2186599/job-training-in-the-metaverse/"
+    },
+    {
+      "text": ".ArtDirection__28851 { padding-bottom: 100%; }",
+      "url": "/emails/quartz-weekend-brief/2186626/what-is-boris-johnsons-legacy/"
+    },
+    {
+      "text": "Quartz Weekend Brief",
+      "url": "/emails/quartz-weekend-brief/archive/"
+    },
+    {
+      "text": "\u2726 Bye bye, BorisJuly 9, 2022",
+      "url": "/emails/quartz-weekend-brief/2186626/what-is-boris-johnsons-legacy/"
+    },
+    {
+      "text": ".ArtDirection__23337 { padding-bottom: 100%; }",
+      "url": "/emails/quartz-how-to/2151634/%e2%9c%a6-how-to-break-a-habit/"
+    },
+    {
+      "text": "How To",
+      "url": "/emails/quartz-how-to/archive/"
+    },
+    {
+      "text": "\u2726 How to break a habitApril 8, 2022",
+      "url": "/emails/quartz-how-to/2151634/%e2%9c%a6-how-to-break-a-habit/"
+    },
+    {
+      "text": ".ArtDirection__26877 { padding-bottom: 100%; }",
+      "url": "/emails/quartz-company/2151022/%e2%9c%a6-ossurs-blades-of-glory/"
+    },
+    {
+      "text": "The Company",
+      "url": "/emails/quartz-company/archive/"
+    },
+    {
+      "text": "\u2726 \u00d6ssur\u2019s blades of gloryApril 7, 2022",
+      "url": "/emails/quartz-company/2151022/%e2%9c%a6-ossurs-blades-of-glory/"
+    },
+    {
+      "text": "More Quartz emailsMore Quartz emails",
+      "url": "/latest/emails/"
+    },
+    {
+      "text": "sign up \u2192",
+      "url": "/emails/daily-brief/"
+    },
+    {
+      "text": "resignation letter",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3185261/sri-lanka-economic-crisis-president-gotabaya-rajapaksa-heads?module=lead_hero_story&pgtype=homepage"
+    },
+    {
+      "text": "fleeing the country",
+      "url": "https://www.bbc.co.uk/news/world-asia-62160227"
+    },
+    {
+      "text": "101 votes",
+      "url": "https://www.reuters.com/world/uk/rishi-sunak-tops-second-round-voting-uk-leadership-contest-2022-07-14/"
+    },
+    {
+      "text": "knocked out",
+      "url": "https://www.itv.com/news/2022-07-14/suella-braverman-eliminated-from-tory-leadership-contest"
+    },
+    {
+      "text": "less than $1",
+      "url": "https://www.marketwatch.com/story/euro-breaks-through-parity-amid-concern-for-us-inflation-and-eurozone-energy-crisis-2022-07-14"
+    },
+    {
+      "text": "proven deadly",
+      "url": "https://www.bloomberg.com/news/articles/2022-07-14/china-s-heatwave-turns-deadly-as-industrial-power-cuts-begin#xj4y7vzkg"
+    },
+    {
+      "text": "refusing to make payments",
+      "url": "https://www.scmp.com/economy/china-economy/article/3185326/china-facing-more-economic-woes-ahead-gdp-release-mortgage?module=lead_hero_story&pgtype=homepage"
+    },
+    {
+      "text": "stop flight sales",
+      "url": "https://www.reuters.com/business/aerospace-defense/emirates-airline-not-planning-cut-capacity-tofrom-london-heathrow-statement-2022-07-14/"
+    },
+    {
+      "text": "fell apart",
+      "url": "https://www.bbc.co.uk/news/world-europe-62171284"
+    },
+    {
+      "text": "key bill",
+      "url": "https://apnews.com/article/russia-ukraine-boris-johnson-mario-draghi-government-and-politics-a0ea159301e7b4bbbdaafe44acd77576"
+    },
+    {
+      "text": "Quartz Privacy Policy",
+      "url": "/about/privacy-policy/"
+    },
+    {
+      "text": "Read full briefing",
+      "url": "/essentials/2188879/july-15-2022-briefing/"
+    },
+    {
+      "text": "All",
+      "url": "/latest/"
+    },
+    {
+      "text": "Quartz at Work",
+      "url": "/work/latest/"
+    },
+    {
+      "text": "Quartz India",
+      "url": "/india/latest/"
+    },
+    {
+      "text": "Quartz Africa",
+      "url": "/africa/latest/"
+    },
+    {
+      "text": ".ArtDirection__68303 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__68303 { padding-bottom: 56.66666666666667%; } }DoorDash will increase subtotal minimums for US subscribersQuartz \u2022 6 hours ago",
+      "url": "/2188604/doordash-hikes-its-subtotal-minimums-for-us-subscribers/"
+    },
+    {
+      "text": ".ArtDirection__66379 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__66379 { padding-bottom: 56.66666666666667%; } }TSMC\u2019s great quarter is bad news for semiconductor supply chainsQuartz \u2022 July 14, 2022",
+      "url": "/2188703/tsmcs-great-quarter-is-bad-news-for-semiconductor-supply-chains/"
+    },
+    {
+      "text": ".ArtDirection__57275 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__57275 { padding-bottom: 56.66666666666667%; } }What\u2019s the best case\u2014OK, least bad\u2014scenario for Twitter?Quartz \u2022 July 14, 2022",
+      "url": "/2188211/whats-the-best-case-scenario-in-twitters-elon-musk-battle/"
+    },
+    {
+      "text": ".ArtDirection__50547 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__50547 { padding-bottom: 56.66666666666667%; } }A rural banking crisis is brewing in ChinaQuartz \u2022 July 14, 2022",
+      "url": "/2187346/a-banking-crisis-is-brewing-in-rural-china/"
+    },
+    {
+      "text": ".ArtDirection__71951 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__71951 { padding-bottom: 56.66666666666667%; } }The White House\u2019s BA.5 variant plan is to do everything that didn\u2019t work beforeQuartz \u2022 July 13, 2022",
+      "url": "/2188178/what-is-the-us-plan-against-covid-omicron-ba-5/"
+    },
+    {
+      "text": ".ArtDirection__54031 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__54031 { padding-bottom: 56.66666666666667%; } }The euro may be historically cheap, but your European vacation won\u2019t beQuartz \u2022 July 13, 2022",
+      "url": "/2188136/the-euro-may-be-historically-cheap-but-your-european-vacation-wont-be/"
+    },
+    {
+      "text": ".ArtDirection__54267 { padding-bottom: 100%; }@media (min-width: 64em) { .ArtDirection__54267 { padding-bottom: 56.66666666666667%; } }Amazon warehouses aren\u2019t just unionizing\u2014they\u2019re upending labor organizing in the processQuartz \u2022 July 13, 2022",
+      "url": "/2186974/on-prime-day-remember-amazon-warehouses-are-organizing-in-worker-led-unions/"
+    },
+    {
+      "text": "More latest stories",
+      "url": "/latest/"
+    },
+    {
+      "text": ".ArtDirection__48373 { padding-bottom: 100%; }Tablets from Kenya\u2019s failed digital literacy program are now being sold in Uganda\u2019s black marketQuartz Africa \u2022 July 13, 2022",
+      "url": "/africa/2187646/kenyas-school-tablets-are-now-being-sold-in-ugandas-black-market/"
+    },
+    {
+      "text": ".ArtDirection__44935 { padding-bottom: 100%; }Here\u2019s the first, high-resolution image of the universe from the James Webb Space TelescopeQuartz \u2022 July 11, 2022",
+      "url": "/2186988/the-first-high-resolution-image-from-james-webb-space-telescope/"
+    },
+    {
+      "text": ".ArtDirection__40132 { padding-bottom: 100%; }The euro may be historically cheap, but your European vacation won\u2019t beQuartz \u2022 July 13, 2022",
+      "url": "/2188136/the-euro-may-be-historically-cheap-but-your-european-vacation-wont-be/"
+    },
+    {
+      "text": ".ArtDirection__53290 { padding-bottom: 100%; }See the first five scientific images from the James Webb Space TelescopeQuartz \u2022 July 12, 2022",
+      "url": "/2187546/the-first-five-scientific-images-from-the-james-webb-telescope/"
+    },
+    {
+      "text": ".ArtDirection__52051 { padding-bottom: 100%; }There\u2019s not much oil left for Joe Biden to findQuartz \u2022 July 12, 2022",
+      "url": "/2187712/global-oil-production-is-already-near-full-capacity/"
+    },
+    {
+      "text": "More popular Quartz storiesMore popular Quartz stories",
+      "url": "/popular/"
+    },
+    {
+      "text": "The Sustainable BusinessHow can sustainability and profitability work hand-in-hand to transform businesses?",
+      "url": "/se/the-sustainable-business/"
+    },
+    {
+      "text": "More featured projectsMore featured projects",
+      "url": "/featured/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Become a member",
+      "url": "/subscribe/"
+    },
+    {
+      "text": "Field guides",
+      "url": "/guides/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/se/quartz-obsession-podcast/"
+    },
+    {
+      "text": "Emails",
+      "url": "/emails/"
+    },
+    {
+      "text": "Latest",
+      "url": "/latest/"
+    },
+    {
+      "text": "Popular",
+      "url": "/popular/"
+    },
+    {
+      "text": "Featured",
+      "url": "/featured/"
+    },
+    {
+      "text": "Obsessions",
+      "url": "/obsessions/"
+    },
+    {
+      "text": "Emerging industries",
+      "url": "/topic/emerging-industries/"
+    },
+    {
+      "text": "Economics",
+      "url": "/topic/finance-and-economics/"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "/topic/lifestyle/"
+    },
+    {
+      "text": "Politics",
+      "url": "/topic/politics-and-policy/"
+    },
+    {
+      "text": "Science",
+      "url": "/topic/science-and-human-behavior/"
+    },
+    {
+      "text": "Tech",
+      "url": "/topic/tech-and-communications/"
+    },
+    {
+      "text": "Work",
+      "url": "/topic/work-and-management/"
+    },
+    {
+      "text": "Search",
+      "url": "/search/"
+    },
+    {
+      "text": "Careers",
+      "url": "/careers/"
+    },
+    {
+      "text": "About us",
+      "url": "/about/"
+    },
+    {
+      "text": "Contact us",
+      "url": "/about/#contact"
+    },
+    {
+      "text": "Help center",
+      "url": "https://help.qz.com/en"
+    },
+    {
+      "text": "Quartz Creative",
+      "url": "/creative/"
+    },
+    {
+      "text": "Send us tips",
+      "url": "/tips/"
+    },
+    {
+      "text": "Become a member",
+      "url": "/subscribe/"
+    },
+    {
+      "text": "Download our app",
+      "url": "/app/"
+    },
+    {
+      "text": "Site map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Terms & conditions",
+      "url": "/about/terms-conditions/"
+    },
+    {
+      "text": "Privacy policy",
+      "url": "/about/privacy-policy/"
+    },
+    {
+      "text": "Notice at Collection",
+      "url": "/about/privacy-policy/#_Toc28539902"
+    },
+    {
+      "text": "Ethics and advertising agreements",
+      "url": "/about/ethicsandadvertisingguidelines/"
+    },
+    {
+      "text": "Licensing",
+      "url": "https://info.wrightsmedia.com/quartz-licensing-reprints-request"
+    },
+    {
+      "text": "\u2191 Beam me up, Scotty",
+      "url": "#top"
+    },
+    {
+      "text": "Discover",
+      "url": "/discover/"
+    },
+    {
+      "text": "Latest",
+      "url": "/latest/"
+    },
+    {
+      "text": "Obsessions",
+      "url": "/obsessions/"
+    },
+    {
+      "text": "Emails",
+      "url": "/emails/"
+    },
+    {
+      "text": "Membership",
+      "url": "/subscribe/"
+    },
+    {
+      "text": "Emails",
+      "url": "/emails/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/se/quartz-obsession-podcast/"
+    },
+    {
+      "text": "Field Guides",
+      "url": "/guides/"
+    },
+    {
+      "text": "Presentations",
+      "url": "/re/quartz-presents/"
+    },
+    {
+      "text": "Latest",
+      "url": "/latest/"
+    },
+    {
+      "text": "Trending",
+      "url": "/discover/trending/"
+    },
+    {
+      "text": "Obsessions",
+      "url": "/obsessions/"
+    },
+    {
+      "text": "Featured",
+      "url": "/featured/"
+    },
+    {
+      "text": "Search",
+      "url": "/search/"
+    },
+    {
+      "text": "Quartz",
+      "url": "/"
+    },
+    {
+      "text": "Quartz at Work",
+      "url": "/work/"
+    },
+    {
+      "text": "Quartz Africa",
+      "url": "/africa/"
+    },
+    {
+      "text": "Quartz India",
+      "url": "/india/"
+    },
+    {
+      "text": "Quartz Japan",
+      "url": "/japan/"
+    },
+    {
+      "text": "About Quartz",
+      "url": "/about/"
+    },
+    {
+      "text": "Careers",
+      "url": "/careers/"
+    },
+    {
+      "text": "Diversity and inclusion",
+      "url": "/about/diversity-inclusion-equality-at-quartz/"
+    },
+    {
+      "text": "Help center",
+      "url": "https://help.qz.com"
+    },
+    {
+      "text": "Download our app",
+      "url": "/app/"
+    },
+    {
+      "text": "Quartz Creative",
+      "url": "/creative/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://facebook.com/qz"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/qz"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/qz/"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://youtube.com/channel/UC9f78Z5hgtDt0n8JWyfBk8Q"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/quartzmedia/"
+    }
+  ],
+  "server": "ia801405.us.archive.org",
+  "uniq": 1068316599,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

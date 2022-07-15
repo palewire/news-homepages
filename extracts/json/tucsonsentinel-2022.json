@@ -1,5 +1,5 @@
 {
-  "created": 1657846936,
+  "created": 1657887518,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/29/items/tucsonsentinel-2022",
@@ -510,31 +510,73 @@
       "sha1": "7d0a9213ac767a2ee67f0b7269f1346ff73a624d"
     },
     {
+      "name": "tucsonsentinel-2022-07-14T21:20:10.718438-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657858813",
+      "size": "33040",
+      "md5": "27228bd4985652ea5a8aedffbf396abf",
+      "crc32": "577ffccc",
+      "sha1": "7990cbfb4883f943be17f7036c8fc722869f77c8",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-07-14T21:20:10.718438-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657858816",
+      "size": "35465",
+      "md5": "027432877e0e647bd45407a9f1ae3192",
+      "crc32": "81378f7e",
+      "sha1": "cac1015a56ac64d74dc98fc215ed28fdbae90269",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-07-14T21:20:10.718438-07:00.jpg",
+      "source": "original",
+      "mtime": "1657858812",
+      "size": "362905",
+      "md5": "af76208e9c8b10a55d9c588703df4aca",
+      "crc32": "8216cf90",
+      "sha1": "fd1a5aea0390270601f136acfe7287d0735ed501",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonsentinel-2022-07-14T21:20:10.718438-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tucsonsentinel-2022-07-14T21:20:10.718438-07:00.jpg",
+      "mtime": "1657858866",
+      "size": "10159",
+      "md5": "fc0ec6eea16ee311e8524b73afa86657",
+      "crc32": "bb54b4c3",
+      "sha1": "92fbcbb9c1ac525f2bc08055a564c7a55e9c67be"
+    },
+    {
       "name": "tucsonsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "900bdffd39d666deb6f29cca6c85418ef4677d67",
-      "mtime": "1657816868",
-      "size": "11911",
-      "md5": "9eb20e99d026fe8313b7d57f85782064",
-      "crc32": "2f26ed18",
-      "sha1": "436d4437233722d80d5ec1923175c00e373776e5",
+      "btih": "626b16e395915c93913dfae454e5c8ca57c92bb8",
+      "mtime": "1657858868",
+      "size": "12765",
+      "md5": "ace6e2c30e9b566e7798668a01c3ce13",
+      "crc32": "67cf1d7a",
+      "sha1": "753c6211b76d9978d2bb10fd84dde23084f6ba53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6df9e25d2d5d6ac5bc3929ecc2d0bd35",
+      "md5": "401d89df7678143312a30366387ef560",
       "summation": "md5"
     },
     {
       "name": "tucsonsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657816796",
-      "size": "69632",
-      "md5": "077932f9342f766c880a6e5394309152",
-      "crc32": "5d40aff9",
-      "sha1": "c6ed27bc29db187018f5ed5c879fb7da1e2fc621",
+      "mtime": "1657858820",
+      "size": "73728",
+      "md5": "8f8c1366bfe30dccc6377730c3b739e9",
+      "crc32": "8c623084",
+      "sha1": "1de09cd391976d904e2a3943418d89e0c372b7e4",
       "format": "Metadata"
     },
     {
@@ -548,9 +590,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 52,
-  "item_last_updated": 1657816868,
-  "item_size": 5329729,
+  "files_count": 56,
+  "item_last_updated": 1657858868,
+  "item_size": 5776248,
   "metadata": {
     "identifier": "tucsonsentinel-2022",
     "collection": [
@@ -567,10 +609,10 @@
     "publicdate": "2022-07-09 04:04:28",
     "addeddate": "2022-07-09 04:04:28"
   },
-  "server": "ia802508.us.archive.org",
+  "server": "ia902508.us.archive.org",
   "tucsonsentinel-2022": [
     {
-      "text": "document.querySelector('a#b3tam47g940000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/417792/c326771/z82190?', true);\n    xmlhttp.send();\n})",
+      "text": "document.querySelector('a#bop6dqpkxhs000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/417792/c326771/z82190?', true);\n    xmlhttp.send();\n})",
       "url": "https://rtamobility.com/projects/"
     },
     {
@@ -891,6 +933,54 @@
     },
     {
       "text": "\n\n",
+      "url": "/local/report/071422_acc_heat_power/az-residents-get-keep-a-c-during-summer-heat-even-if-late-utility-bills/"
+    },
+    {
+      "text": "\nAz residents get to keep A/C on during summer heat, even if late on utility\u00a0bills",
+      "url": "/local/report/071422_acc_heat_power/az-residents-get-keep-a-c-during-summer-heat-even-if-late-utility-bills/"
+    },
+    {
+      "text": "\nRead\u00a0more\u00bb",
+      "url": "/local/report/071422_acc_heat_power/az-residents-get-keep-a-c-during-summer-heat-even-if-late-utility-bills/"
+    },
+    {
+      "text": "\u00a0",
+      "url": "/local/comments/071422_acc_heat_power"
+    },
+    {
+      "text": "\n\n",
+      "url": "/local/report/071422_pima_voted_stickers/i-voted-tohono-oodham-spanish-added-pima-countys-early-voting-stickers/"
+    },
+    {
+      "text": "\n'I voted' in Tohono O'odham & Spanish added to Pima County's early voting\u00a0stickers",
+      "url": "/local/report/071422_pima_voted_stickers/i-voted-tohono-oodham-spanish-added-pima-countys-early-voting-stickers/"
+    },
+    {
+      "text": "\nRead\u00a0more\u00bb",
+      "url": "/local/report/071422_pima_voted_stickers/i-voted-tohono-oodham-spanish-added-pima-countys-early-voting-stickers/"
+    },
+    {
+      "text": "\u00a0",
+      "url": "/local/comments/071422_pima_voted_stickers"
+    },
+    {
+      "text": "\n\n",
+      "url": "/local/report/071422_bp_criminal_referrals/federal-border-prosecutions-rise-as-biden-admin-officials-consider-ending-title-42/"
+    },
+    {
+      "text": "\nFederal border prosecutions rise as Biden admin officials consider ending Title\u00a042",
+      "url": "/local/report/071422_bp_criminal_referrals/federal-border-prosecutions-rise-as-biden-admin-officials-consider-ending-title-42/"
+    },
+    {
+      "text": "\nRead\u00a0more\u00bb",
+      "url": "/local/report/071422_bp_criminal_referrals/federal-border-prosecutions-rise-as-biden-admin-officials-consider-ending-title-42/"
+    },
+    {
+      "text": "\u00a0",
+      "url": "/local/comments/071422_bp_criminal_referrals"
+    },
+    {
+      "text": "\n\n",
       "url": "/local/report/071322_brnvovich_abortion/ag-brnovich-moves-re-impose-1864-ban-nearly-all-abortions-arizona/"
     },
     {
@@ -907,6 +997,22 @@
     },
     {
       "text": "\n\n",
+      "url": "/local/report/071422_pima_ozone_esp/contaminacion-del-aire-en-metro-tucson-alcanza-niveles-daninos-avisa-el-condado-pima/"
+    },
+    {
+      "text": "\nContaminaci\u00f3n del aire en metro Tucson alcanza niveles dani\u00f1os, avisa el Condado\u00a0Pima",
+      "url": "/local/report/071422_pima_ozone_esp/contaminacion-del-aire-en-metro-tucson-alcanza-niveles-daninos-avisa-el-condado-pima/"
+    },
+    {
+      "text": "\nRead\u00a0more\u00bb",
+      "url": "/local/report/071422_pima_ozone_esp/contaminacion-del-aire-en-metro-tucson-alcanza-niveles-daninos-avisa-el-condado-pima/"
+    },
+    {
+      "text": "\u00a0",
+      "url": "/local/comments/071422_pima_ozone_esp"
+    },
+    {
+      "text": "\n\n",
       "url": "/local/report/071322_aclu_ice_lawsuit/ice-accused-dumping-sick-detainees-avoid-reporting-deaths/"
     },
     {
@@ -920,22 +1026,6 @@
     {
       "text": "\u00a0",
       "url": "/local/comments/071322_aclu_ice_lawsuit"
-    },
-    {
-      "text": "\n\n",
-      "url": "/local/report/071222_ice_detainee_dies/mexican-man-dies-ice-custody-arizona/"
-    },
-    {
-      "text": "\nMexican man dies in ICE custody in\u00a0Arizona",
-      "url": "/local/report/071222_ice_detainee_dies/mexican-man-dies-ice-custody-arizona/"
-    },
-    {
-      "text": "\nRead\u00a0more\u00bb",
-      "url": "/local/report/071222_ice_detainee_dies/mexican-man-dies-ice-custody-arizona/"
-    },
-    {
-      "text": "\u00a0",
-      "url": "/local/comments/071222_ice_detainee_dies"
     },
     {
       "text": "\n\n",
@@ -971,22 +1061,6 @@
     },
     {
       "text": "\n\n",
-      "url": "/local/report/071222_tucson_eviction_moratorium/tucson-ends-eviction-moratorium-city-owned-housing-as-feds-push-rent-collection/"
-    },
-    {
-      "text": "\nTucson ends eviction moratorium on city-owned housing as feds push for rent\u00a0collection",
-      "url": "/local/report/071222_tucson_eviction_moratorium/tucson-ends-eviction-moratorium-city-owned-housing-as-feds-push-rent-collection/"
-    },
-    {
-      "text": "\nRead\u00a0more\u00bb",
-      "url": "/local/report/071222_tucson_eviction_moratorium/tucson-ends-eviction-moratorium-city-owned-housing-as-feds-push-rent-collection/"
-    },
-    {
-      "text": "\u00a0",
-      "url": "/local/comments/071222_tucson_eviction_moratorium"
-    },
-    {
-      "text": "\n\n",
       "url": "/local/report/071322_oracle_relocated_bear/bear-moved-from-oracle-as-dry-start-summer-affects-wildlife-across-southern-az/"
     },
     {
@@ -1002,54 +1076,6 @@
       "url": "/local/comments/071322_oracle_relocated_bear"
     },
     {
-      "text": "\n\n",
-      "url": "/local/report/071222_pima_monkeypox/1st-case-monkeypox-reported-pima-county-new-covid-variant-keeps-spreading/"
-    },
-    {
-      "text": "\n1st case of monkeypox reported in Pima County; new COVID variant keeps\u00a0spreading",
-      "url": "/local/report/071222_pima_monkeypox/1st-case-monkeypox-reported-pima-county-new-covid-variant-keeps-spreading/"
-    },
-    {
-      "text": "\nRead\u00a0more\u00bb",
-      "url": "/local/report/071222_pima_monkeypox/1st-case-monkeypox-reported-pima-county-new-covid-variant-keeps-spreading/"
-    },
-    {
-      "text": "\u00a0",
-      "url": "/local/comments/071222_pima_monkeypox"
-    },
-    {
-      "text": "\n\n",
-      "url": "/opinion/report/071222_grijalva_fentanyl_op/grijalva-its-time-embrace-real-solutions-growing-fentanyl-dangers/"
-    },
-    {
-      "text": "\nGrijalva: It's time to embrace real solutions for growing fentanyl\u00a0dangers",
-      "url": "/opinion/report/071222_grijalva_fentanyl_op/grijalva-its-time-embrace-real-solutions-growing-fentanyl-dangers/"
-    },
-    {
-      "text": "\nRead\u00a0more\u00bb",
-      "url": "/opinion/report/071222_grijalva_fentanyl_op/grijalva-its-time-embrace-real-solutions-growing-fentanyl-dangers/"
-    },
-    {
-      "text": "\u00a0",
-      "url": "/opinion/comments/071222_grijalva_fentanyl_op"
-    },
-    {
-      "text": "\n\n",
-      "url": "/local/report/071122_pacc_500_dogs/adoption-push-gets-pacc-shelter-under-500-dogs-after-july-4-overcrowding-meant-possible-euthanasia/"
-    },
-    {
-      "text": "\nAdoption push gets PACC shelter under 500 dogs, after July 4 overcrowding meant possible\u00a0euthanasia",
-      "url": "/local/report/071122_pacc_500_dogs/adoption-push-gets-pacc-shelter-under-500-dogs-after-july-4-overcrowding-meant-possible-euthanasia/"
-    },
-    {
-      "text": "\nRead\u00a0more\u00bb",
-      "url": "/local/report/071122_pacc_500_dogs/adoption-push-gets-pacc-shelter-under-500-dogs-after-july-4-overcrowding-meant-possible-euthanasia/"
-    },
-    {
-      "text": "\u00a0",
-      "url": "/local/comments/071122_pacc_500_dogs"
-    },
-    {
       "text": "THIS JUST IN",
       "url": "/category/breaking"
     },
@@ -1058,100 +1084,100 @@
       "url": "https://www.tucsonsentinel.com/tag/coronavirus/"
     },
     {
-      "text": "AG Brnovich moves to re-impose 1864 ban on nearly all abortions in\u00a0Arizona",
-      "url": "/local/report/071322_brnvovich_abortion/ag-brnovich-moves-re-impose-1864-ban-nearly-all-abortions-arizona/"
+      "text": "Same-sex marriage & contraception at risk after abortion ruling, U.S. House panel\u00a0told",
+      "url": "/nationworld/report/071422_contraception_at_risk/same-sex-marriage-contraception-risk-after-abortion-ruling-us-house-panel-told/"
     },
     {
       "text": "",
-      "url": "/local/comments/071322_brnvovich_abortion"
+      "url": "/nationworld/comments/071422_contraception_at_risk"
     },
     {
-      "text": "Bear moved from Oracle as dry start to summer affects wildlife across Southern\u00a0Az",
-      "url": "/local/report/071322_oracle_relocated_bear/bear-moved-from-oracle-as-dry-start-summer-affects-wildlife-across-southern-az/"
-    },
-    {
-      "text": "",
-      "url": "/local/comments/071322_oracle_relocated_bear"
-    },
-    {
-      "text": "'No Gentrification' rally confronts Tucson city leaders about housing, transit\u00a0policies",
-      "url": "/local/report/071322_tucson_gentrification_rally/no-gentrification-rally-confronts-tucson-city-leaders-housing-transit-policies/"
+      "text": "Az residents get to keep A/C on during summer heat, even if late on utility\u00a0bills",
+      "url": "/local/report/071422_acc_heat_power/az-residents-get-keep-a-c-during-summer-heat-even-if-late-utility-bills/"
     },
     {
       "text": "",
-      "url": "/local/comments/071322_tucson_gentrification_rally"
+      "url": "/local/comments/071422_acc_heat_power"
     },
     {
-      "text": "Few Arizona counties are required to provide voting resources in Indigenous\u00a0languages",
-      "url": "/local/report/071322_indigenous_voter_resources/few-arizona-counties-are-required-provide-voting-resources-indigenous-languages/"
-    },
-    {
-      "text": "",
-      "url": "/local/comments/071322_indigenous_voter_resources"
-    },
-    {
-      "text": "We are stardust: Webb telescope's first images a big day for UA and town surrounding\u00a0it",
-      "url": "/opinion/report/071222_webb_scope_op/we-are-stardust-webb-telescopes-first-images-big-day-ua-and-town-surrounding-it/"
+      "text": "Federal border prosecutions rise as Biden admin officials consider ending Title\u00a042",
+      "url": "/local/report/071422_bp_criminal_referrals/federal-border-prosecutions-rise-as-biden-admin-officials-consider-ending-title-42/"
     },
     {
       "text": "",
-      "url": "/opinion/comments/071222_webb_scope_op"
+      "url": "/local/comments/071422_bp_criminal_referrals"
+    },
+    {
+      "text": "'Thrive in the 05'-inspired initiative coming to Tucson's 29th\u00a0Street",
+      "url": "/local/report/071322_thrive_05_expansion/thrive-05-inspired-initiative-coming-tucsons-29th-street/"
+    },
+    {
+      "text": "1",
+      "url": "/local/comments/071322_thrive_05_expansion"
+    },
+    {
+      "text": "2 kid-friendly films to wrap up Tucson summer Movies in the\u00a0Park",
+      "url": "/arts/report/071422_movies_in_park/2-kid-friendly-films-wrap-up-tucson-summer-movies-park/"
+    },
+    {
+      "text": "",
+      "url": "/arts/comments/071422_movies_in_park"
+    },
+    {
+      "text": "'I voted' in Tohono O'odham & Spanish added to Pima County's early voting\u00a0stickers",
+      "url": "/local/report/071422_pima_voted_stickers/i-voted-tohono-oodham-spanish-added-pima-countys-early-voting-stickers/"
+    },
+    {
+      "text": "",
+      "url": "/local/comments/071422_pima_voted_stickers"
+    },
+    {
+      "text": "Criminalizing the vote: GOP-led states enacted 102 new election penalties after\u00a02020",
+      "url": "/nationworld/report/071422_election_penalties/criminalizing-vote-gop-led-states-enacted-102-new-election-penalties-after-2020/"
+    },
+    {
+      "text": "",
+      "url": "/nationworld/comments/071422_election_penalties"
+    },
+    {
+      "text": "Voting advocates fear new Arizona law could disenfranchise some naturalized\u00a0citizens",
+      "url": "/local/report/071422_naturalized_voters/voting-advocates-fear-new-arizona-law-could-disenfranchise-some-naturalized-citizens/"
+    },
+    {
+      "text": "",
+      "url": "/local/comments/071422_naturalized_voters"
+    },
+    {
+      "text": "Arizona nominee for federal judgeship grilled by GOP senators in\u00a0hearing",
+      "url": "/local/report/071422_desai_judging/arizona-nominee-federal-judgeship-grilled-by-gop-senators-hearing/"
+    },
+    {
+      "text": "",
+      "url": "/local/comments/071422_desai_judging"
     },
     {
       "text": "Contaminaci\u00f3n del aire en metro Tucson alcanza niveles dani\u00f1os, avisa el Condado\u00a0Pima",
-      "url": "/local/report/071322_pima_ozone_esp/contaminacion-del-aire-en-metro-tucson-alcanza-niveles-daninos-avisa-el-condado-pima/"
+      "url": "/local/report/071422_pima_ozone_esp/contaminacion-del-aire-en-metro-tucson-alcanza-niveles-daninos-avisa-el-condado-pima/"
     },
     {
       "text": "",
-      "url": "/local/comments/071322_pima_ozone_esp"
+      "url": "/local/comments/071422_pima_ozone_esp"
     },
     {
-      "text": "ICE accused of 'dumping' sick detainees to avoid reporting\u00a0deaths",
-      "url": "/local/report/071322_aclu_ice_lawsuit/ice-accused-dumping-sick-detainees-avoid-reporting-deaths/"
-    },
-    {
-      "text": "",
-      "url": "/local/comments/071322_aclu_ice_lawsuit"
-    },
-    {
-      "text": "Air pollution in metro Tucson hits harmful levels, Pima County\u00a0warns",
-      "url": "/local/report/071322_pima_ozone_advisory/air-pollution-metro-tucson-hits-harmful-levels-pima-county-warns/"
+      "text": "More than a hotline: 988 meant to ease access to mental health\u00a0services",
+      "url": "/local/report/071422_988_mental_health/more-than-hotline-988-meant-ease-access-mental-health-services/"
     },
     {
       "text": "",
-      "url": "/local/comments/071322_pima_ozone_advisory"
-    },
-    {
-      "text": "Could overturning of Roe v. Wade impact athletic recruiting at Arizona\u00a0universities?",
-      "url": "/sports/report/071322_abortion_college_athletes/could-overturning-roe-v-wade-impact-athletic-recruiting-arizona-universities/"
-    },
-    {
-      "text": "",
-      "url": "/sports/comments/071322_abortion_college_athletes"
-    },
-    {
-      "text": "Despite Supreme Court OK to end it, 'remain in Mexico' continues for\u00a0now",
-      "url": "/nationworld/report/071322_mpp_wait/despite-supreme-court-ok-end-it-remain-mexico-continues-now/"
-    },
-    {
-      "text": "",
-      "url": "/nationworld/comments/071322_mpp_wait"
-    },
-    {
-      "text": "First images from Webb Telescope leave Arizona contributors\u00a0'speechless'",
-      "url": "/local/report/071322_webb_arizona/first-images-from-webb-telescope-leave-arizona-contributors-speechless/"
-    },
-    {
-      "text": "",
-      "url": "/local/comments/071322_webb_arizona"
+      "url": "/local/comments/071422_988_mental_health"
     },
     {
       "text": "more breaking news\u00a0\u00bb",
       "url": "/category/breaking"
     },
     {
-      "text": "document.querySelector('a#bncmgm9zb28000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/42340/c36058/z42925?', true);\n    xmlhttp.send();\n})",
-      "url": "http://simplybits.com"
+      "text": "",
+      "url": "//kitt.tucsonsentinel.com:443/click/42341/c36056/z42925?"
     },
     {
       "text": "many more",
@@ -1222,44 +1248,44 @@
       "url": "/local/comments/071322_brnvovich_abortion"
     },
     {
-      "text": "Bear moved from Oracle as dry start to summer affects wildlife across Southern Az",
-      "url": "/local/report/071322_oracle_relocated_bear/bear-moved-from-oracle-as-dry-start-summer-affects-wildlife-across-southern-az/"
+      "text": "Az residents get to keep A/C on during summer heat, even if late on utility bills",
+      "url": "/local/report/071422_acc_heat_power/az-residents-get-keep-a-c-during-summer-heat-even-if-late-utility-bills/"
     },
     {
       "text": "",
-      "url": "/local/comments/071322_oracle_relocated_bear"
+      "url": "/local/comments/071422_acc_heat_power"
     },
     {
-      "text": "'No Gentrification' rally confronts Tucson city leaders about housing, transit policies",
-      "url": "/local/report/071322_tucson_gentrification_rally/no-gentrification-rally-confronts-tucson-city-leaders-housing-transit-policies/"
-    },
-    {
-      "text": "",
-      "url": "/local/comments/071322_tucson_gentrification_rally"
-    },
-    {
-      "text": "Few Arizona counties are required to provide voting resources in Indigenous languages",
-      "url": "/local/report/071322_indigenous_voter_resources/few-arizona-counties-are-required-provide-voting-resources-indigenous-languages/"
+      "text": "Federal border prosecutions rise as Biden admin officials consider ending Title 42",
+      "url": "/local/report/071422_bp_criminal_referrals/federal-border-prosecutions-rise-as-biden-admin-officials-consider-ending-title-42/"
     },
     {
       "text": "",
-      "url": "/local/comments/071322_indigenous_voter_resources"
+      "url": "/local/comments/071422_bp_criminal_referrals"
     },
     {
-      "text": "We are stardust: Webb telescope's first images a big day for UA and town surrounding it",
-      "url": "/opinion/report/071222_webb_scope_op/we-are-stardust-webb-telescopes-first-images-big-day-ua-and-town-surrounding-it/"
+      "text": "'Thrive in the 05'-inspired initiative coming to Tucson's 29th Street",
+      "url": "/local/report/071322_thrive_05_expansion/thrive-05-inspired-initiative-coming-tucsons-29th-street/"
+    },
+    {
+      "text": "1",
+      "url": "/local/comments/071322_thrive_05_expansion"
+    },
+    {
+      "text": "'I voted' in Tohono O'odham & Spanish added to Pima County's early voting stickers",
+      "url": "/local/report/071422_pima_voted_stickers/i-voted-tohono-oodham-spanish-added-pima-countys-early-voting-stickers/"
     },
     {
       "text": "",
-      "url": "/opinion/comments/071222_webb_scope_op"
+      "url": "/local/comments/071422_pima_voted_stickers"
     },
     {
-      "text": "Contaminaci\u00f3n del aire en metro Tucson alcanza niveles dani\u00f1os, avisa el Condado Pima",
-      "url": "/local/report/071322_pima_ozone_esp/contaminacion-del-aire-en-metro-tucson-alcanza-niveles-daninos-avisa-el-condado-pima/"
+      "text": "Criminalizing the vote: GOP-led states enacted 102 new election penalties after 2020",
+      "url": "/nationworld/report/071422_election_penalties/criminalizing-vote-gop-led-states-enacted-102-new-election-penalties-after-2020/"
     },
     {
       "text": "",
-      "url": "/local/comments/071322_pima_ozone_esp"
+      "url": "/nationworld/comments/071422_election_penalties"
     },
     {
       "text": "COVID-19: Coronavirus news",
@@ -1267,15 +1293,23 @@
     },
     {
       "text": "",
-      "url": "/local/report/071222_tucson_eviction_moratorium/tucson-ends-eviction-moratorium-city-owned-housing-as-feds-push-rent-collection/"
+      "url": "/nationworld/report/071422_covid_novavax/fda-authorizes-4th-covid-vaccine-adults/"
     },
     {
-      "text": "Tucson ends eviction moratorium on city-owned housing as feds push for rent\u00a0collection",
-      "url": "/local/report/071222_tucson_eviction_moratorium/tucson-ends-eviction-moratorium-city-owned-housing-as-feds-push-rent-collection/"
+      "text": "FDA authorizes 4th COVID vaccine for\u00a0adults",
+      "url": "/nationworld/report/071422_covid_novavax/fda-authorizes-4th-covid-vaccine-adults/"
     },
     {
       "text": " Read\u00a0more\u00bb",
-      "url": "/local/report/071222_tucson_eviction_moratorium/tucson-ends-eviction-moratorium-city-owned-housing-as-feds-push-rent-collection"
+      "url": "/nationworld/report/071422_covid_novavax/fda-authorizes-4th-covid-vaccine-adults"
+    },
+    {
+      "text": "",
+      "url": "/nationworld/comments/071422_covid_novavax"
+    },
+    {
+      "text": "Tucson ends eviction moratorium on city-owned housing as feds push for rent collection",
+      "url": "/local/report/071222_tucson_eviction_moratorium/tucson-ends-eviction-moratorium-city-owned-housing-as-feds-push-rent-collection/"
     },
     {
       "text": "",
@@ -1312,14 +1346,6 @@
     {
       "text": "",
       "url": "/nationworld/comments/070922_cv_kids_vax"
-    },
-    {
-      "text": "Tucson & OV Children's Museums boost COVID shots for kids & families with free admission",
-      "url": "/local/report/070722_museum_vaccination/tucson-ov-childrens-museums-boost-covid-shots-kids-families-with-free-admission/"
-    },
-    {
-      "text": "",
-      "url": "/local/comments/070722_museum_vaccination"
     },
     {
       "text": "Opinion",
@@ -1402,6 +1428,14 @@
       "url": "/arts/comments/070822_az_art_theft"
     },
     {
+      "text": "2 kid-friendly films to wrap up Tucson summer Movies in the Park",
+      "url": "/arts/report/071422_movies_in_park/2-kid-friendly-films-wrap-up-tucson-summer-movies-park/"
+    },
+    {
+      "text": "",
+      "url": "/arts/comments/071422_movies_in_park"
+    },
+    {
       "text": "What to do in Tucson during those lazy-crazy-hazy days of summer",
       "url": "/arts/report/070822_summer_roundup/what-do-tucson-during-those-lazy-crazy-hazy-days-summer/"
     },
@@ -1434,24 +1468,16 @@
       "url": "/local/comments/070622_az_film_tax_credits"
     },
     {
-      "text": "Van Christian: The story never ends",
-      "url": "/arts/report/070622_van_christian_obit/van-christian-story-never-ends/"
-    },
-    {
-      "text": "",
-      "url": "/arts/comments/070622_van_christian_obit"
-    },
-    {
-      "text": "document.querySelector('a#bmc5veu0900000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/509932/c387445/z78652?', true);\n    xmlhttp.send();\n})",
+      "text": "document.querySelector('a#b8as3f21w0g000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/509932/c387445/z78652?', true);\n    xmlhttp.send();\n})",
       "url": "http://pima.gov/vote2022"
     },
     {
-      "text": "document.querySelector('a#bl6y6bk2hzk000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/390696/c305848/z78652?', true);\n    xmlhttp.send();\n})",
-      "url": "https://www.roccoslittlechicago.com"
+      "text": "document.querySelector('a#bpjw75ufkjk000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/502872/c381696/z78652?', true);\n    xmlhttp.send();\n})",
+      "url": "https://www.engelforarizona.com"
     },
     {
-      "text": "document.querySelector('a#bdp2sacgw9c000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/502873/c381696/z78652?', true);\n    xmlhttp.send();\n})",
-      "url": "https://www.engelforarizona.com"
+      "text": "document.querySelector('a#bm4cmwcwqbk000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/335996/c266815/z78652?', true);\n    xmlhttp.send();\n})",
+      "url": "http://www.roccoslittlechicago.com"
     },
     {
       "text": "Nation/World",
@@ -1459,59 +1485,59 @@
     },
     {
       "text": "",
-      "url": "/nationworld/report/070822_biden_abortion_order/biden-signs-executive-order-abortion-access-cites-case-10-year-old-ohio-rape-survivor/"
+      "url": "/nationworld/report/071422_napolitano_extremism/ex-dhs-chief-napolitano-violent-domestic-extremism-most-serious-threat-us-security/"
     },
     {
-      "text": "Biden signs executive order on abortion access, cites case of 10-year-old Ohio rape\u00a0survivor",
-      "url": "/nationworld/report/070822_biden_abortion_order/biden-signs-executive-order-abortion-access-cites-case-10-year-old-ohio-rape-survivor/"
+      "text": "Ex-DHS chief Napolitano: Violent domestic extremism is the 'most serious' threat to U.S.\u00a0security",
+      "url": "/nationworld/report/071422_napolitano_extremism/ex-dhs-chief-napolitano-violent-domestic-extremism-most-serious-threat-us-security/"
     },
     {
       "text": " Read\u00a0more\u00bb",
-      "url": "/nationworld/report/070822_biden_abortion_order/biden-signs-executive-order-abortion-access-cites-case-10-year-old-ohio-rape-survivor/"
+      "url": "/nationworld/report/071422_napolitano_extremism/ex-dhs-chief-napolitano-violent-domestic-extremism-most-serious-threat-us-security/"
     },
     {
       "text": "",
-      "url": "/nationworld/comments/070822_biden_abortion_order"
+      "url": "/nationworld/comments/071422_napolitano_extremism"
     },
     {
-      "text": "We are stardust: Webb telescope's first images a big day for UA and town surrounding it",
-      "url": "/opinion/report/071222_webb_scope_op/we-are-stardust-webb-telescopes-first-images-big-day-ua-and-town-surrounding-it/"
-    },
-    {
-      "text": "",
-      "url": "/opinion/comments/071222_webb_scope_op"
-    },
-    {
-      "text": "ICE accused of 'dumping' sick detainees to avoid reporting deaths",
-      "url": "/local/report/071322_aclu_ice_lawsuit/ice-accused-dumping-sick-detainees-avoid-reporting-deaths/"
+      "text": "Federal border prosecutions rise as Biden admin officials consider ending Title 42",
+      "url": "/local/report/071422_bp_criminal_referrals/federal-border-prosecutions-rise-as-biden-admin-officials-consider-ending-title-42/"
     },
     {
       "text": "",
-      "url": "/local/comments/071322_aclu_ice_lawsuit"
+      "url": "/local/comments/071422_bp_criminal_referrals"
     },
     {
-      "text": "Despite Supreme Court OK to end it, 'remain in Mexico' continues for now",
-      "url": "/nationworld/report/071322_mpp_wait/despite-supreme-court-ok-end-it-remain-mexico-continues-now/"
-    },
-    {
-      "text": "",
-      "url": "/nationworld/comments/071322_mpp_wait"
-    },
-    {
-      "text": "First images from Webb Telescope leave Arizona contributors 'speechless'",
-      "url": "/local/report/071322_webb_arizona/first-images-from-webb-telescope-leave-arizona-contributors-speechless/"
+      "text": "Criminalizing the vote: GOP-led states enacted 102 new election penalties after 2020",
+      "url": "/nationworld/report/071422_election_penalties/criminalizing-vote-gop-led-states-enacted-102-new-election-penalties-after-2020/"
     },
     {
       "text": "",
-      "url": "/local/comments/071322_webb_arizona"
+      "url": "/nationworld/comments/071422_election_penalties"
     },
     {
-      "text": "U.S. inflation hits a 40-year high in June, but Biden points to decreasing gas prices",
-      "url": "/local/report/071322_phoenix_inflation/us-inflation-hits-40-year-high-june-but-biden-points-decreasing-gas-prices/"
+      "text": "Arizona nominee for federal judgeship grilled by GOP senators in hearing",
+      "url": "/local/report/071422_desai_judging/arizona-nominee-federal-judgeship-grilled-by-gop-senators-hearing/"
     },
     {
       "text": "",
-      "url": "/local/comments/071322_phoenix_inflation"
+      "url": "/local/comments/071422_desai_judging"
+    },
+    {
+      "text": "More than a hotline: 988 meant to ease access to mental health services",
+      "url": "/local/report/071422_988_mental_health/more-than-hotline-988-meant-ease-access-mental-health-services/"
+    },
+    {
+      "text": "",
+      "url": "/local/comments/071422_988_mental_health"
+    },
+    {
+      "text": "Pharma companies sue for the right to buy blood from Mexicans along border ",
+      "url": "/nationworld/report/071422_border_blood/pharma-companies-sue-right-buy-blood-from-mexicans-along-border/"
+    },
+    {
+      "text": "",
+      "url": "/nationworld/comments/071422_border_blood"
     },
     {
       "text": "Sports",
@@ -1574,32 +1600,32 @@
       "url": "/sports/comments/070422_fc-tucson"
     },
     {
-      "text": "document.querySelector('a#b673zyqlry8000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/390696/c305848/z78652?', true);\n    xmlhttp.send();\n})",
+      "text": "",
+      "url": "//kitt.tucsonsentinel.com:443/click/42363/c36064/z78652?"
+    },
+    {
+      "text": "document.querySelector('a#bvavzx7lbr4000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/502873/c381696/z78652?', true);\n    xmlhttp.send();\n})",
+      "url": "https://www.engelforarizona.com"
+    },
+    {
+      "text": "document.querySelector('a#bnuf9gqw9xs000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/509932/c387445/z78652?', true);\n    xmlhttp.send();\n})",
+      "url": "http://pima.gov/vote2022"
+    },
+    {
+      "text": "document.querySelector('a#b5a4erta07k000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/390696/c305848/z82146?', true);\n    xmlhttp.send();\n})",
       "url": "https://www.roccoslittlechicago.com"
     },
     {
-      "text": "document.querySelector('a#btqmvy47sn4000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/335996/c266815/z78652?', true);\n    xmlhttp.send();\n})",
-      "url": "http://www.roccoslittlechicago.com"
-    },
-    {
-      "text": "document.querySelector('a#b5lg3iyk66o000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/509932/c387445/z78652?', true);\n    xmlhttp.send();\n})",
-      "url": "http://pima.gov/vote2022"
-    },
-    {
-      "text": "document.querySelector('a#byg95vv17cg000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/502873/c381696/z82146?', true);\n    xmlhttp.send();\n})",
+      "text": "document.querySelector('a#bgj3s3o26f4000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/502873/c381696/z82174?', true);\n    xmlhttp.send();\n})",
       "url": "https://www.engelforarizona.com"
     },
     {
-      "text": "document.querySelector('a#busb1df2zi8000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/502872/c381696/z82174?', true);\n    xmlhttp.send();\n})",
-      "url": "https://www.engelforarizona.com"
-    },
-    {
-      "text": "document.querySelector('a#b639wuexu5c000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/509932/c387445/z82174?', true);\n    xmlhttp.send();\n})",
+      "text": "document.querySelector('a#baem9k0mlkg000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/509932/c387445/z82174?', true);\n    xmlhttp.send();\n})",
       "url": "http://pima.gov/vote2022"
     },
     {
-      "text": "document.querySelector('a#bu98jyzl0a8000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/509937/c387446/z42928?', true);\n    xmlhttp.send();\n})",
-      "url": "http://pima.gov/vote2022"
+      "text": "document.querySelector('a#bagy7h6n7y8000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/42342/c36060/z42928?', true);\n    xmlhttp.send();\n})",
+      "url": "http://kxci.org"
     },
     {
       "text": "",
@@ -1619,23 +1645,23 @@
     },
     {
       "text": "",
-      "url": "//kitt.tucsonsentinel.com:443/click/42357/c36057/z42928?"
+      "url": "//kitt.tucsonsentinel.com:443/click/61326/c96474/z42928?"
     },
     {
       "text": "",
       "url": "https://www.facebook.com/pages/TucsonSentinel/124369889402"
     },
     {
-      "text": "",
-      "url": "//kitt.tucsonsentinel.com:443/click/42363/c36064/z42928?"
+      "text": "document.querySelector('a#b1fz8qxauo0000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/42358/c36086/z42928?', true);\n    xmlhttp.send();\n})",
+      "url": "http://buckmastershow.com"
     },
     {
-      "text": "document.querySelector('a#buogr2iqnhs000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/42342/c36060/z42928?', true);\n    xmlhttp.send();\n})",
-      "url": "http://kxci.org"
+      "text": "document.querySelector('a#b436weayp5s000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', '//kitt.tucsonsentinel.com:443/click/509937/c387446/z42928?', true);\n    xmlhttp.send();\n})",
+      "url": "http://pima.gov/vote2022"
     },
     {
       "text": "",
-      "url": "//kitt.tucsonsentinel.com:443/click/61326/c96474/z42928?"
+      "url": "//kitt.tucsonsentinel.com:443/click/42357/c36057/z42928?"
     },
     {
       "text": "",
@@ -1714,9 +1740,9 @@
       "url": "http://www.contextdesignworks.com"
     }
   ],
-  "uniq": 298071280,
+  "uniq": 1700343845,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

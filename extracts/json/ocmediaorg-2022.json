@@ -1,5 +1,5 @@
 {
-  "created": 1657846731,
+  "created": 1657887319,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/17/items/ocmediaorg-2022",
@@ -3250,31 +3250,73 @@
       "sha1": "62b5913ba413dc100a4be0d9500389308a656a82"
     },
     {
+      "name": "ocmediaorg-2022-07-15T07:30:29.375736+04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657855832",
+      "size": "50407",
+      "md5": "ba426a15bd2fd796f9b8e20178c93a24",
+      "crc32": "59201eca",
+      "sha1": "ac746fc2f4474d981ccbab05ae838d2ee13e767b",
+      "format": "JSON"
+    },
+    {
+      "name": "ocmediaorg-2022-07-15T07:30:29.375736+04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657855834",
+      "size": "36082",
+      "md5": "c8521f5f667442c2ccbc2aa49ce357f8",
+      "crc32": "e16054f3",
+      "sha1": "8f29a5ed40e2f8a34dbbd11d3a506ee274357f56",
+      "format": "JSON"
+    },
+    {
+      "name": "ocmediaorg-2022-07-15T07:30:29.375736+04:00.jpg",
+      "source": "original",
+      "mtime": "1657855830",
+      "size": "335418",
+      "md5": "dcf836745dd623e3a6f11a7c9b3606d8",
+      "crc32": "b1672f8b",
+      "sha1": "8530409acfca0bac94a007dc60ca7ca294dac1a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocmediaorg-2022-07-15T07:30:29.375736+04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocmediaorg-2022-07-15T07:30:29.375736+04:00.jpg",
+      "mtime": "1657855984",
+      "size": "10073",
+      "md5": "0c5fb798c259e3d6207a2022f349872b",
+      "crc32": "d36c292d",
+      "sha1": "62b5913ba413dc100a4be0d9500389308a656a82"
+    },
+    {
       "name": "ocmediaorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b19c7a83e630c253154c5e85a8013eabf08bce69",
-      "mtime": "1657813726",
-      "size": "67380",
-      "md5": "390b4d15de31b29ea85d2e85751c8e7a",
-      "crc32": "58bc61b9",
-      "sha1": "dae74f362d5c4214e61fa4ed2667fa59f28acd37",
+      "btih": "59af216af3e918f9d565e62dcc9eeb7d0393cdc5",
+      "mtime": "1657856126",
+      "size": "68238",
+      "md5": "7dbdc3664054ef463acbe6ffde51aa0e",
+      "crc32": "e2915537",
+      "sha1": "8fa875b750d10b5f660121ecccb2aeb4591d2fa3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocmediaorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "09efd981f33e2d7e1111b190be30c516",
+      "md5": "093e39ae78b687278410417073f34806",
       "summation": "md5"
     },
     {
       "name": "ocmediaorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657813671",
-      "size": "372736",
-      "md5": "7b15ce367b0b0dd7fcd1c0b500905578",
-      "crc32": "2a25c419",
-      "sha1": "1b18b35370d17080927f430f17d28b6049976915",
+      "mtime": "1657855838",
+      "size": "376832",
+      "md5": "8ea36cf409770b036ad5b6db36c35453",
+      "crc32": "b8471e9d",
+      "sha1": "cd171cca4989ab87758e4f7452cb9aa4365bff77",
       "format": "Metadata"
     },
     {
@@ -3288,9 +3330,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 313,
-  "item_last_updated": 1657813726,
-  "item_size": 32228690,
+  "files_count": 317,
+  "item_last_updated": 1657856126,
+  "item_size": 32665624,
   "metadata": {
     "identifier": "ocmediaorg-2022",
     "collection": [
@@ -4397,10 +4439,10 @@
       "url": "/feed"
     }
   ],
-  "server": "ia902507.us.archive.org",
-  "uniq": 127751114,
+  "server": "ia802507.us.archive.org",
+  "uniq": 916171383,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

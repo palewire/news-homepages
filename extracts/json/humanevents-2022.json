@@ -1,5 +1,5 @@
 {
-  "created": 1657846512,
+  "created": 1657887044,
   "d1": "ia601806.us.archive.org",
   "d2": "ia801806.us.archive.org",
   "dir": "/20/items/humanevents-2022",
@@ -7328,31 +7328,73 @@
       "sha1": "36320030a3ea44a10e17ccc5b8df00a3f986cb68"
     },
     {
+      "name": "humanevents-2022-07-14T22:20:41.119567-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657851644",
+      "size": "17471",
+      "md5": "7490036f26bb65b61ec2adec5c59410d",
+      "crc32": "9cf4afbc",
+      "sha1": "48213884955c4f5489628bff98a8124fe9a21f32",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-14T22:20:41.119567-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657851646",
+      "size": "24439",
+      "md5": "12d2f10bb88dfc8f8f87c938cb490350",
+      "crc32": "272af731",
+      "sha1": "a46c18d11a0c1420eeda9007efbd1e8033eb64e7",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-07-14T22:20:41.119567-04:00.jpg",
+      "source": "original",
+      "mtime": "1657851642",
+      "size": "267858",
+      "md5": "94be10a0d7492b48bb7431c52e94bca1",
+      "crc32": "0b394e8a",
+      "sha1": "d2a385ef813f924abc86ba49471fc730d1df04ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-07-14T22:20:41.119567-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-07-14T22:20:41.119567-04:00.jpg",
+      "mtime": "1657851749",
+      "size": "10030",
+      "md5": "9ee8b7b3fe72131800ad268fdd4b7bf7",
+      "crc32": "2077b3c5",
+      "sha1": "07dd56085159c5340e372d6d960c4db42484618e"
+    },
+    {
       "name": "humanevents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "15981279a88d59de1dffe4657df821801f669a64",
-      "mtime": "1657817020",
-      "size": "150331",
-      "md5": "9e3c600536f4895fb28da6b2a18e8f20",
-      "crc32": "139ae46d",
-      "sha1": "a9226d13cb6e97a20bba2aecbc6aaab7d5dffc6d",
+      "btih": "29639c8dec5e79b01efb20392c01735b3b31c757",
+      "mtime": "1657851757",
+      "size": "151193",
+      "md5": "505a018e0e4f04e88d6c9f30cde20084",
+      "crc32": "093e4945",
+      "sha1": "8331f63df9440ab9fb6184a2f99afb29c813ac40",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humanevents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d018113fb4f135f168679c9acafba9a1",
+      "md5": "ceed3bcf6f95a222aaa0f409fb76201e",
       "summation": "md5"
     },
     {
       "name": "humanevents-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657816944",
-      "size": "815104",
-      "md5": "9b523d1ea6dce263d2dc4f1ac58a8cfd",
-      "crc32": "08a04463",
-      "sha1": "d91b02a38af481a769c280be60c04be135bdca9b",
+      "mtime": "1657851651",
+      "size": "819200",
+      "md5": "44e78cdb8a118af5bf93bba5c1fdd75e",
+      "crc32": "9066b302",
+      "sha1": "099afcd9289a76a645bca3ce106c9b967d1de8e5",
       "format": "Metadata"
     },
     {
@@ -7366,7 +7408,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 701,
+  "files_count": 705,
   "humanevents-2022": [
     {
       "text": "Facebook",
@@ -7473,12 +7515,28 @@
       "url": "/author/marjorietaylorgreene"
     },
     {
-      "text": "Alexandria Ocasio Cortez ",
-      "url": "/trending/alexandria-ocasio-cortez"
+      "text": "Jack Posobiec ",
+      "url": "/trending/jack-posobiec"
     },
     {
       "text": "January 6 ",
       "url": "/trending/january-6"
+    },
+    {
+      "text": "Mike Lindell ",
+      "url": "/trending/mike-lindell"
+    },
+    {
+      "text": "Alexandria Ocasio Cortez ",
+      "url": "/trending/alexandria-ocasio-cortez"
+    },
+    {
+      "text": "Student loans ",
+      "url": "/trending/student-loans"
+    },
+    {
+      "text": "the squad ",
+      "url": "/trending/the-squad"
     },
     {
       "text": "New York City ",
@@ -7497,24 +7555,8 @@
       "url": "/trending/crime"
     },
     {
-      "text": "Jack Posobiec ",
-      "url": "/trending/jack-posobiec"
-    },
-    {
       "text": "Josh Hawley ",
       "url": "/trending/josh-hawley"
-    },
-    {
-      "text": "Transgender ",
-      "url": "/trending/transgender"
-    },
-    {
-      "text": "Mass shootings ",
-      "url": "/trending/mass-shootings"
-    },
-    {
-      "text": "Children ",
-      "url": "/trending/children"
     },
     {
       "text": "View All",
@@ -7581,28 +7623,16 @@
       "url": "/news/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTo Tell the Truth: NBC News Consistently Feeds Readers Trans-Child Propaganda\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/12/to-tell-the-truth-nbc-news-consistently-feeds-readers-trans-child-propaganda/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAOC: Capitol Police Who Opened Doors on Jan 6 Were 'clearly Sympathetic' to Rioters\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/14/aoc-capitol-police-who-opened-doors-on-jan-6-were-clearly-sympathetic-to-rioters/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: 'Story of the Leak' is 'Biggest Part' of Hunter Biden 4Chan Dump\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/12/posobiec-story-of-the-leak-is-biggest-part-of-hunter-biden-4chan-dump/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDemocrats Demanding Student Debt Forgiveness Owe Huge Sums in College Loans\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/14/democrats-demanding-student-debt-forgiveness-owe-huge-sums-in-college-loans/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Charlie Kirk Says Uvalde Police Fiasco Is a Consequence of the \u2018Toxic Masculinity\u2019 Crusade\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/13/kirk-uvalde-police-fiasco-a-consequence-of-the-crusade-against-toxic-masculinity/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tUvalde School Surveillance Video Shows Officers Standing Idly by While Children Scream During Massacre\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/13/uvalde-school-surveillance-video-shows-officers-standing-idly-by-while-children-scream-during-massacre/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Societal Trust Is Deteriorating, 'We've Lost Something in This Country'\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/13/posobiec-societal-trust-is-deteriorating-weve-lost-something-in-this-country/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Senator Josh Hawley Called 'Transphobic' for Framing Abortion as a 'Women's Issue'\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/13/watch-senator-josh-hawley-called-transphobic-for-framing-abortion-as-a-womens-issue/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: J6 Committee Has Debunked Itself With Latest Text Message Revelation\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/14/posobiec-j6-committee-has-debunked-itself-with-latest-text-message-revelation/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOn the Sidewalks of New York: Public Schools Have Become a Monster's Ball\n\t\t\t\t\t\t\t\t",
@@ -7638,6 +7668,30 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/14/posobiec-j6-committee-has-debunked-itself-with-latest-text-message-revelation/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: J6 Committee Has Debunked Itself With Latest Text Message Revelation\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHuman Events Daily host Jack Posobiec broke down how the...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tRoberto Wakerell-Cruz \n\t\t\t\t\t\t\t    July 14, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/07/14/posobiec-j6-committee-has-debunked-itself-with-latest-text-message-revelation/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/14/democrats-demanding-student-debt-forgiveness-owe-huge-sums-in-college-loans/"
+    },
+    {
+      "text": "NEWS & ANALYSIS",
+      "url": "/category/news-analysis"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tDemocrats Demanding Student Debt Forgiveness Owe Huge Sums in College Loans\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\n\nOver a dozen progressive members of Congress who have...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Media Group \n\t\t\t\t\t\t\t    July 14, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "url": "https://humanevents.com/2022/07/14/democrats-demanding-student-debt-forgiveness-owe-huge-sums-in-college-loans/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
       "url": "https://humanevents.com/2022/07/14/aoc-capitol-police-who-opened-doors-on-jan-6-were-clearly-sympathetic-to-rioters/"
     },
     {
@@ -7661,6 +7715,34 @@
       "url": "https://humanevents.com/2022/07/13/kirk-uvalde-police-fiasco-a-consequence-of-the-crusade-against-toxic-masculinity/"
     },
     {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAOC: Capitol Police Who Opened Doors on Jan 6 Were 'clearly Sympathetic' to Rioters\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/14/aoc-capitol-police-who-opened-doors-on-jan-6-were-clearly-sympathetic-to-rioters/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDemocrats Demanding Student Debt Forgiveness Owe Huge Sums in College Loans\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/14/democrats-demanding-student-debt-forgiveness-owe-huge-sums-in-college-loans/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: J6 Committee Has Debunked Itself With Latest Text Message Revelation\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/14/posobiec-j6-committee-has-debunked-itself-with-latest-text-message-revelation/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOn the Sidewalks of New York: Public Schools Have Become a Monster's Ball\n\t\t\t\t\t\t\t\t",
+      "url": "https://humanevents.com/2022/07/14/on-the-sidewalks-of-new-york-public-schools-have-become-a-monsters-ball/"
+    },
+    {
+      "text": "View All",
+      "url": "/news/"
+    },
+    {
       "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
       "url": "https://humanevents.com/2022/07/13/posobiec-societal-trust-is-deteriorating-weve-lost-something-in-this-country/"
     },
@@ -7669,7 +7751,7 @@
       "url": "/category/news-analysis"
     },
     {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Societal Trust Is Deteriorating, 'We've Lost Something in This Country'\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHuman Events Daily host Jack Posobiec highlighted the ways...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tRoberto Wakerell-Cruz \n\t\t\t\t\t\t\t    July 13, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Societal Trust Is Deteriorating, 'We've Lost Something in This Country'\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHuman Events Daily host Jack Posobiec highlighted the ways that the United States has become a less trusting...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tRoberto Wakerell-Cruz \n\t\t\t\t\t\t\t    July 13, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
       "url": "https://humanevents.com/2022/07/13/posobiec-societal-trust-is-deteriorating-weve-lost-something-in-this-country/"
     },
     {
@@ -7681,48 +7763,8 @@
       "url": "/category/news-analysis"
     },
     {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Senator Josh Hawley Called 'Transphobic' for Framing Abortion as a 'Women's Issue'\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\n\nIn a US Senate hearing on Thursday, Missouri...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Media Group \n\t\t\t\t\t\t\t    July 13, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
+      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Senator Josh Hawley Called 'Transphobic' for Framing Abortion as a 'Women's Issue'\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\n\nIn a US Senate hearing on Thursday, Missouri Republican Senator Josh Hawley questioned a witness for...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHuman Events Media Group \n\t\t\t\t\t\t\t    July 13, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
       "url": "https://humanevents.com/2022/07/13/watch-senator-josh-hawley-called-transphobic-for-framing-abortion-as-a-womens-issue/"
-    },
-    {
-      "text": "View All",
-      "url": "/news/"
-    },
-    {
-      "text": "View All",
-      "url": "/news/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTo Tell the Truth: NBC News Consistently Feeds Readers Trans-Child Propaganda\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/12/to-tell-the-truth-nbc-news-consistently-feeds-readers-trans-child-propaganda/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: 'Story of the Leak' is 'Biggest Part' of Hunter Biden 4Chan Dump\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/12/posobiec-story-of-the-leak-is-biggest-part-of-hunter-biden-4chan-dump/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Charlie Kirk Says Uvalde Police Fiasco Is a Consequence of the \u2018Toxic Masculinity\u2019 Crusade\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/13/kirk-uvalde-police-fiasco-a-consequence-of-the-crusade-against-toxic-masculinity/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tUvalde School Surveillance Video Shows Officers Standing Idly by While Children Scream During Massacre\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/13/uvalde-school-surveillance-video-shows-officers-standing-idly-by-while-children-scream-during-massacre/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Societal Trust Is Deteriorating, 'We've Lost Something in This Country'\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/13/posobiec-societal-trust-is-deteriorating-weve-lost-something-in-this-country/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Senator Josh Hawley Called 'Transphobic' for Framing Abortion as a 'Women's Issue'\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/13/watch-senator-josh-hawley-called-transphobic-for-framing-abortion-as-a-womens-issue/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOn the Sidewalks of New York: Public Schools Have Become a Monster's Ball\n\t\t\t\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/14/on-the-sidewalks-of-new-york-public-schools-have-become-a-monsters-ball/"
-    },
-    {
-      "text": "View All",
-      "url": "/news/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t",
@@ -7845,30 +7887,6 @@
       "url": "https://humanevents.com/2022/07/07/listen-posobiec-decries-not-my-job-energy-of-american-healthcare-authorities-following-highland-park-shooting/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/06/posobiec-philadelphia-mayor-and-da-must-resign-and-repent-after-horrific-july-4th-shooting/"
-    },
-    {
-      "text": "NEWS & ANALYSIS",
-      "url": "/category/news-analysis"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tPOSOBIEC: Philadelphia Mayor and DA Must 'Resign and Repent\u2019 after Horrific July 4th Shooting\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tJack Posobiec called for the resignation of Philadelphia Mayor Jim Kenney and District Attorney Larry Krasner...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tRoberto Wakerell-Cruz \n\t\t\t\t\t\t\t    July 6, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/07/06/posobiec-philadelphia-mayor-and-da-must-resign-and-repent-after-horrific-july-4th-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\n\n\n\n\n\t\t\t\t\t",
-      "url": "https://humanevents.com/2022/07/06/watch-banned-journalist-savanah-hernandez-says-big-tech-rewrites-reality-in-live-time/"
-    },
-    {
-      "text": "NEWS & ANALYSIS",
-      "url": "/category/news-analysis"
-    },
-    {
-      "text": "\n\t\t\t\n\t\t\n\t\t\t\t\t\t\t\t\tWATCH: Banned Journalist Savanah Hernandez Says Big Tech Rewrites Reality 'In Live Time'\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tIn a Tuesday appearance on One America News Network\u2019s Tipping Point with Kara McKinney, independent...\t\t\t\t\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCeline Ryan Ciccio \n\t\t\t\t\t\t\t    July 6, 2022\t\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\n\t\t",
-      "url": "https://humanevents.com/2022/07/06/watch-banned-journalist-savanah-hernandez-says-big-tech-rewrites-reality-in-live-time/"
-    },
-    {
       "text": "View All",
       "url": "/news/"
     },
@@ -7917,8 +7935,8 @@
       "url": "https://statcounter.com/"
     }
   ],
-  "item_last_updated": 1657817020,
-  "item_size": 59612742,
+  "item_last_updated": 1657851757,
+  "item_size": 59937498,
   "metadata": {
     "identifier": "humanevents-2022",
     "collection": [
@@ -7935,10 +7953,10 @@
     "publicdate": "2022-03-25 18:47:01",
     "addeddate": "2022-03-25 18:47:01"
   },
-  "server": "ia601806.us.archive.org",
-  "uniq": 516672699,
+  "server": "ia801806.us.archive.org",
+  "uniq": 1618065443,
   "workable_servers": [
-    "ia601806.us.archive.org",
-    "ia801806.us.archive.org"
+    "ia801806.us.archive.org",
+    "ia601806.us.archive.org"
   ]
 }
