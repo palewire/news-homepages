@@ -1,5 +1,5 @@
 {
-  "created": 1657800699,
+  "created": 1657846566,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/kpcc-2022",
@@ -10214,31 +10214,115 @@
       "sha1": "8144b9a81ffdd3ef26d1ba034a8664047c7340e0"
     },
     {
+      "name": "kpcc-2022-07-14T07:20:39.578320-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657808446",
+      "size": "20817",
+      "md5": "f8b6467496570a012ce6c36a43dbae6a",
+      "crc32": "e8baa1b9",
+      "sha1": "420245acbeb5df1cc622e9929c734c0d3edd9ce9",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-07-14T07:20:39.578320-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657808448",
+      "size": "30374",
+      "md5": "5d6f706fd7872b1f9fcd20a93967c6fe",
+      "crc32": "703e806b",
+      "sha1": "f919fe5d3028792d7b9a07d3029eeffbd16ad11d",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-07-14T07:20:39.578320-07:00.jpg",
+      "source": "original",
+      "mtime": "1657808444",
+      "size": "239508",
+      "md5": "2342155adfe94819793d0e1cd672765a",
+      "crc32": "b286265e",
+      "sha1": "c2a4839ec1afdee46529199e33297046c785d38f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-07-14T07:20:39.578320-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-07-14T07:20:39.578320-07:00.jpg",
+      "mtime": "1657808522",
+      "size": "9227",
+      "md5": "f023b4861cde00b055f479e8f1946d9f",
+      "crc32": "9dfbd6ee",
+      "sha1": "cbb9c4901dbbb5d7cc3fa27ea0e3575d90545cf9"
+    },
+    {
+      "name": "kpcc-2022-07-14T11:14:29.945981-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657822473",
+      "size": "20282",
+      "md5": "8b60221dfc22d37ded2bdebc08f39f67",
+      "crc32": "8fdf758e",
+      "sha1": "5ad0232a0abb4220c4d81f3a8c3e6f2cf0972896",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-07-14T11:14:29.945981-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657822475",
+      "size": "30258",
+      "md5": "783432180565505eeeee2ec62ee8a2f4",
+      "crc32": "6171f8ef",
+      "sha1": "5106e6095d05bd74477cad8f2c8c9491f8b6ef38",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-07-14T11:14:29.945981-07:00.jpg",
+      "source": "original",
+      "mtime": "1657822471",
+      "size": "247150",
+      "md5": "ed01d1ca642dafc8337f26e1b99f9815",
+      "crc32": "00ab255e",
+      "sha1": "4eac6431061f191bd6ff731d330e0b7ed21314df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-07-14T11:14:29.945981-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-07-14T11:14:29.945981-07:00.jpg",
+      "mtime": "1657822539",
+      "size": "9329",
+      "md5": "6dbd06d3d97e163d1392345d9008d717",
+      "crc32": "bbc01047",
+      "sha1": "da3a062af293914f4a961b7d544633aecf94dae7"
+    },
+    {
       "name": "kpcc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "11c520c9622575c104a7ea4b3eac396996b1a4db",
-      "mtime": "1657765647",
-      "size": "201588",
-      "md5": "f2b6299066f6ef6548dbdf614fd88a4e",
-      "crc32": "656c1082",
-      "sha1": "7ba2b38ce6a43407f1aa5d8a58c2039112e2885d",
+      "btih": "5ff08a1d201c85a43c2723f82987bd77fa81d562",
+      "mtime": "1657822552",
+      "size": "203234",
+      "md5": "b197a08738070313a4c164078b7dd0d8",
+      "crc32": "4aa39488",
+      "sha1": "c80998d35e9f2ce1c4d8fc3a37396243fc72e522",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b061408522788d95d2c47bab146d71c",
+      "md5": "8112ac7f886aebd28d95084320773048",
       "summation": "md5"
     },
     {
       "name": "kpcc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657765437",
-      "size": "1110016",
-      "md5": "97310532c6e3b2e017ab869383726028",
-      "crc32": "a49a8122",
-      "sha1": "79841628721b5006020fc32c607c0bb701cfff7d",
+      "mtime": "1657822479",
+      "size": "1118208",
+      "md5": "23f3466fbd22714b30fa2a0e1cb082ab",
+      "crc32": "4c813f52",
+      "sha1": "a3fea1d8e33bc1787f4fe2fa05943828ef1790ae",
       "format": "Metadata"
     },
     {
@@ -10252,9 +10336,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 975,
-  "item_last_updated": 1657765647,
-  "item_size": 78337823,
+  "files_count": 983,
+  "item_last_updated": 1657822552,
+  "item_size": 78954606,
   "kpcc-2022": [
     {
       "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                                \n                                \n                            \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
@@ -10682,11 +10766,11 @@
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://www.kpcc.org/show/airtalk/2022-07-13/uclas-new-heat-map-aims-to-get-resources-to-californias-most-vulnerable-neighborhoods-how-does-it-work"
+      "url": "https://www.kpcc.org/show/airtalk/2022-07-14/california-passes-three-gun-laws-we-break-down-the-details-and-potential-challenges"
     },
     {
-      "text": "UCLA\u2019s New Heat Map Aims To Get Resources To California\u2019s Most Vulnerable Neighborhoods. How Does It Work? ",
-      "url": "https://www.kpcc.org/show/airtalk/2022-07-13/uclas-new-heat-map-aims-to-get-resources-to-californias-most-vulnerable-neighborhoods-how-does-it-work"
+      "text": "California Passes Three Gun Laws, We Break Down The Details And Potential Challenges",
+      "url": "https://www.kpcc.org/show/airtalk/2022-07-14/california-passes-three-gun-laws-we-break-down-the-details-and-potential-challenges"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
@@ -10778,75 +10862,75 @@
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/housing-homelessness/with-more-renters-at-risk-california-is-urging-law-enforcement-to-help-prevent-illegal-evictions"
+      "url": "https://laist.com/news/health/care-court-can-california-counties-make-it-work"
+    },
+    {
+      "text": "Health",
+      "url": "https://laist.com/news/health"
+    },
+    {
+      "text": "CARE Court: Can California Counties Make It Work?",
+      "url": "https://laist.com/news/health/care-court-can-california-counties-make-it-work"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/education/cal-state-presidents-to-see-at-least-7-salary-increase"
+    },
+    {
+      "text": "Education",
+      "url": "https://laist.com/news/education"
+    },
+    {
+      "text": "Cal State Presidents To See At Least 7% Salary Increase",
+      "url": "https://laist.com/news/education/cal-state-presidents-to-see-at-least-7-salary-increase"
+    },
+    {
+      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
+      "url": "https://laist.com/news/housing-homelessness/theres-a-massive-housing-shortage-across-the-us-heres-how-bad-it-is-where-you-live"
     },
     {
       "text": "Housing and Homelessness",
       "url": "https://laist.com/news/housing-homelessness"
     },
     {
-      "text": "With More Renters At Risk, California Is Urging Law Enforcement To Help Prevent Illegal Evictions",
-      "url": "https://laist.com/news/housing-homelessness/with-more-renters-at-risk-california-is-urging-law-enforcement-to-help-prevent-illegal-evictions"
+      "text": "There's A Massive Housing Shortage Across The US Here's How Bad It Is Where You Live",
+      "url": "https://laist.com/news/housing-homelessness/theres-a-massive-housing-shortage-across-the-us-heres-how-bad-it-is-where-you-live"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/criminal-justice/7-eleven-robberies-workers"
-    },
-    {
-      "text": "Criminal Justice",
-      "url": "https://laist.com/news/criminal-justice"
-    },
-    {
-      "text": "7-Eleven Robberies Leave SoCal Workers Feeling Rattled",
-      "url": "https://laist.com/news/criminal-justice/7-eleven-robberies-workers"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/climate-environment/june-saw-record-low-water-usage-in-la"
-    },
-    {
-      "text": "Climate and Environment",
-      "url": "https://laist.com/news/climate-environment"
-    },
-    {
-      "text": "June Saw Record Low Water Usage In LA",
-      "url": "https://laist.com/news/climate-environment/june-saw-record-low-water-usage-in-la"
-    },
-    {
-      "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/arts-and-entertainment/silver-lake-lyric-hyperion-theater-closed-forever-doctor-strange-streaming-multiverse-madness"
+      "url": "https://laist.com/news/arts-and-entertainment/best-events-things-to-do-this-weekend-los-angeles-southern-california-july-15-17-2022"
     },
     {
       "text": "Arts and Entertainment",
       "url": "https://laist.com/news/arts-and-entertainment"
     },
     {
-      "text": "Silver Lake\u2019s Lyric Hyperion Theater Almost Closed Forever, But Dr. Strange Is Helping It Come Back",
-      "url": "https://laist.com/news/arts-and-entertainment/silver-lake-lyric-hyperion-theater-closed-forever-doctor-strange-streaming-multiverse-madness"
+      "text": "Best Things To Do This Weekend in Los Angeles And SoCal: July 15 - 17",
+      "url": "https://laist.com/news/arts-and-entertainment/best-events-things-to-do-this-weekend-los-angeles-southern-california-july-15-17-2022"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/no-retreat-in-the-summer-heat-inflation-blistering-at-9-1-in-june"
+      "url": "https://laist.com/news/morning-brief-covid-cases-increase-king-tides-forgotten-revolutionary"
     },
     {
       "text": "News",
       "url": "https://laist.com/news"
     },
     {
-      "text": "No Retreat In The Summer Heat. Inflation Blistering At 9.1% In June",
-      "url": "https://laist.com/news/no-retreat-in-the-summer-heat-inflation-blistering-at-9-1-in-june"
+      "text": "Morning Brief: COVID Cases Increase, \u2018King Tides,\u2019 Forgotten Revolutionary",
+      "url": "https://laist.com/news/morning-brief-covid-cases-increase-king-tides-forgotten-revolutionary"
     },
     {
       "text": "\n    \n        \n            \n\n                    \n                        \n                    \n\n                    \n                            \n                            \n                        \n                        \n                    \n            \n        \n    \n",
-      "url": "https://laist.com/news/politics/the-meeting-that-changed-history-and-3-other-takeaways-from-the-latest-jan-6-hearing"
+      "url": "https://laist.com/news/food/thirsty-for-a-socal-summer-cocktail-we-have-5-recipes-plus-two-mixers-from-a-local-bartender"
     },
     {
-      "text": "Politics",
-      "url": "https://laist.com/news/politics"
+      "text": "Food",
+      "url": "https://laist.com/news/food"
     },
     {
-      "text": "The Meeting That Changed History And 3 Other Takeaways From The Latest Jan. 6 Hearing",
-      "url": "https://laist.com/news/politics/the-meeting-that-changed-history-and-3-other-takeaways-from-the-latest-jan-6-hearing"
+      "text": "Thirsty For A SoCal Summer Cocktail? We Have 5 Recipes (Plus Two Mixers)  From A Local Bartender",
+      "url": "https://laist.com/news/food/thirsty-for-a-socal-summer-cocktail-we-have-5-recipes-plus-two-mixers-from-a-local-bartender"
     },
     {
       "text": "Become a KPCC Sponsor",
@@ -10925,24 +11009,24 @@
       "url": "https://sponsorship.scpr.org/"
     },
     {
-      "text": "These Brazilian besties are inventing an mRNA vaccine as a gift to the world",
-      "url": "https://www.kpcc.org/npr-news/2022-07-13/these-brazilian-besties-are-inventing-an-mrna-vaccine-as-a-gift-to-the-world"
+      "text": "A hidden self-portrait of Van Gogh has been discovered. Here's what you can see so far",
+      "url": "https://www.kpcc.org/npr-news/2022-07-14/a-hidden-self-portrait-of-van-gogh-has-been-discovered-heres-what-you-can-see-so-far"
     },
     {
-      "text": "A former CIA engineer is convicted in a massive theft of secrets released by WikiLeaks",
-      "url": "https://www.kpcc.org/npr-news/2022-07-13/a-former-cia-engineer-is-convicted-in-a-massive-theft-of-secrets-released-by-wikileaks"
+      "text": "Italian Prime Minister Mario Draghi offers to resign",
+      "url": "https://www.kpcc.org/npr-news/2022-07-14/italian-prime-minister-mario-draghi-offers-to-resign"
     },
     {
-      "text": "The bodies of a missing man and his 3 children are found in an Indianapolis pond",
-      "url": "https://www.kpcc.org/npr-news/2022-07-13/the-bodies-of-a-missing-man-and-his-3-children-are-found-in-an-indianapolis-pond"
+      "text": "Here are the twists and turns in the Murdaugh murder case in S.C.",
+      "url": "https://www.kpcc.org/npr-news/2022-07-14/here-are-the-twists-and-turns-in-the-murdaugh-murder-case-in-s-c"
     },
     {
-      "text": "Pharmacies may violate civil rights if they refuse meds linked to abortion, feds warn",
-      "url": "https://www.kpcc.org/npr-news/2022-07-13/pharmacies-may-violate-civil-rights-if-they-refuse-meds-linked-to-abortion-feds-warn"
+      "text": "Andrew Delbanco is named this year's Jefferson Lecturer in the Humanities",
+      "url": "https://www.kpcc.org/npr-news/2022-07-14/andrew-delbanco-is-named-this-years-jefferson-lecturer-in-the-humanities"
     },
     {
-      "text": "A judge rejects Amber Heard's request to set aside the verdict for Johnny Depp",
-      "url": "https://www.kpcc.org/npr-news/2022-07-13/a-judge-rejects-amber-heards-request-to-set-aside-the-verdict-for-johnny-depp"
+      "text": "Twitter users were unable to access their accounts for about an hour",
+      "url": "https://www.kpcc.org/npr-news/2022-07-14/twitter-users-were-unable-to-access-their-accounts-for-about-an-hour"
     },
     {
       "text": "\n    \n        \n    \n        \n            \n\n                    \n                        \n                            \n                        \n                    \n\n                    \n                        \n                        \n                    \n\n                \n            \n        \n    \n\n    \n    ",
@@ -11070,7 +11154,7 @@
     "addeddate": "2022-03-23 02:08:21"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 1457362291,
+  "uniq": 1050007183,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

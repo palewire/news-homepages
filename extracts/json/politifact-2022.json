@@ -1,5 +1,5 @@
 {
-  "created": 1657800924,
+  "created": 1657846767,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -2326,31 +2326,73 @@
       "sha1": "12c4895946720714ccc8def5e3b4216688c5db5b"
     },
     {
+      "name": "politifact-2022-07-14T11:49:21.142574-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657813764",
+      "size": "35384",
+      "md5": "d1a2e9d82dd388a68e9bd526a09288d1",
+      "crc32": "4469f81b",
+      "sha1": "5f103f79cea7132dafdd3c36e37b440b6761c40b",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-14T11:49:21.142574-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657813766",
+      "size": "22251",
+      "md5": "c94f7aea1c7adce83dcc358b9b0166e0",
+      "crc32": "0895e5de",
+      "sha1": "0437e18f2ac0cbf640187418e08ce445e2943c36",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-14T11:49:21.142574-04:00.jpg",
+      "source": "original",
+      "mtime": "1657813763",
+      "size": "231609",
+      "md5": "4ea4f50913d6ff080e478acf1a8de961",
+      "crc32": "26776363",
+      "sha1": "cafb7180d72552538ce7222ab3c3ace78e188ff5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-07-14T11:49:21.142574-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-14T11:49:21.142574-04:00.jpg",
+      "mtime": "1657813818",
+      "size": "9152",
+      "md5": "92bc5857e1975a5fe3f51314362c6639",
+      "crc32": "07c0217d",
+      "sha1": "ca11131c4355939e7d7c2ad85b24a9c27baab70d"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb46d79a2f5b0519398d5a278b9fb857a1a512b1",
-      "mtime": "1657769295",
-      "size": "48261",
-      "md5": "43823dd5b7789db0813ffdd000ef00fd",
-      "crc32": "dd057060",
-      "sha1": "1558493d6a1adc3fc5fffe2f6eaa950b5d4337b3",
+      "btih": "48f253405031073ec8b46d085ed68380f02d4f86",
+      "mtime": "1657813824",
+      "size": "49118",
+      "md5": "08ec30f39cf2637c2eb452f34acc3697",
+      "crc32": "4f8619a8",
+      "sha1": "5c485af2f45c29c9824422a06e28be82250e540d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3e56a67aa4e4fef57f9ac12f2aa35075",
+      "md5": "537160c00b238a816a8e0a422feb9f08",
       "summation": "md5"
     },
     {
       "name": "politifact-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657769245",
-      "size": "274432",
-      "md5": "6f429daeb57d3de10e1448a0f97b0744",
-      "crc32": "b258ef1c",
-      "sha1": "9c9d894576aba8b948668f5cbfc849c2d7163438",
+      "mtime": "1657813770",
+      "size": "278528",
+      "md5": "4f1d50fbb6236b36330e989a5a5c93d8",
+      "crc32": "6a36ca02",
+      "sha1": "cf5375880e0af970e5ea8dfa3d407f6b415ef9fe",
       "format": "Metadata"
     },
     {
@@ -2364,9 +2406,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 225,
-  "item_last_updated": 1657769295,
-  "item_size": 15516389,
+  "files_count": 229,
+  "item_last_updated": 1657813824,
+  "item_size": 15819738,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -2517,7 +2559,7 @@
       "url": "/personalities/kamala-harris/"
     },
     {
-      "text": "\n Charles Schumer\n",
+      "text": "\nCharles Schumer\n",
       "url": "/personalities/charles-schumer/"
     },
     {
@@ -2617,7 +2659,7 @@
       "url": "/media-kit/"
     },
     {
-      "text": "\n Suggest a Fact-check\n",
+      "text": "\nSuggest a Fact-check\n",
       "url": "/suggest/statement/"
     },
     {
@@ -2645,12 +2687,8 @@
       "url": "/membership/"
     },
     {
-      "text": "\nJoe Biden\n",
-      "url": "/personalities/joe-biden/"
-    },
-    {
-      "text": "\nThe \u201caverage federal income tax\u201d paid by the richest Americans is \u201c8%. \u2026 If you\u2019re a cop, a teacher, a firefighter, union worker, you probably pay two to three times that.\u201d\n",
-      "url": "/factchecks/2022/jul/13/joe-biden/joe-bidens-dubious-math-federal-income-tax-burden/"
+      "text": "\nBorder agents used force but did not strike Haitian migrants\n",
+      "url": "/article/2022/jul/13/border-agents-horseback-used-unnecessary-force-did/"
     },
     {
       "text": "\nMonica Crowley\n",
@@ -2729,7 +2767,7 @@
       "url": "/personalities/joe-biden/"
     },
     {
-      "text": "\nThe \u201caverage federal income tax\u201d paid by the richest Americans is \u201c8%. \u2026 If you\u2019re a cop, a teacher, a firefighter, union worker, you probably pay two to three times that.\u201d\n",
+      "text": "\nThe \u201caverage federal income tax\u201d paid by the richest Americans is \u201c8%. \u2026 If you\u2019re a cop, a teacher, a firefighter, union worker, you probably pay two to three times that.\u201d\n\n",
       "url": "/factchecks/2022/jul/13/joe-biden/joe-bidens-dubious-math-federal-income-tax-burden/"
     },
     {
@@ -2737,7 +2775,7 @@
       "url": "/personalities/facebook-posts/"
     },
     {
-      "text": "\n\nImages from Hunter Biden\u2019s laptop show Joe Biden naked with a young girl.\n",
+      "text": "\nImages from Hunter Biden\u2019s laptop show Joe Biden naked with a young girl.\n",
       "url": "/factchecks/2022/jul/13/facebook-posts/no-viral-images-dont-show-joe-biden-naked-young-gi/"
     },
     {
@@ -2761,7 +2799,7 @@
       "url": "/personalities/blog-posting/"
     },
     {
-      "text": "\n\u201cHigh-ranking Ukrainian officials caught splurging on luxury real estate in Switzerland.\u201d\n ",
+      "text": "\n\u201cHigh-ranking Ukrainian officials caught splurging on luxury real estate in Switzerland.\u201d\n",
       "url": "/factchecks/2022/jul/13/blog-posting/land-documents-claiming-ukrainian-officials-bought/"
     },
     {
@@ -2925,7 +2963,7 @@
       "url": "/factchecks/2022/jun/28/instagram-posts/headline-about-texas-lawmakers-anti-abortion-bill-/"
     },
     {
-      "text": "\n Mandela Barnes\n",
+      "text": "\nMandela Barnes\n",
       "url": "/personalities/mandela-barnes/"
     },
     {
@@ -3186,7 +3224,7 @@
     }
   ],
   "server": "ia601407.us.archive.org",
-  "uniq": 470804406,
+  "uniq": 1981280506,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"

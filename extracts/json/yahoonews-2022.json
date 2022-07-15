@@ -1,5 +1,5 @@
 {
-  "created": 1657801210,
+  "created": 1657847004,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -3752,31 +3752,157 @@
       "sha1": "8ed4e69620f7d47bf995456c92ad6b195b8a6651"
     },
     {
+      "name": "yahoonews-2022-07-14T11:40:13.725147-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657813217",
+      "size": "41675",
+      "md5": "874e8e6526687d5bde377e98068da158",
+      "crc32": "43fb0d4c",
+      "sha1": "9afca1be714c8e6eafcc1a1975f20f668a30b2b1",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-14T11:40:13.725147-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657813218",
+      "size": "15931",
+      "md5": "122095cd6e1cf31193f95736502d61b3",
+      "crc32": "ed7b7aba",
+      "sha1": "a46968cb9f827620abe9bb4c612afbd8132db829",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-14T11:40:13.725147-04:00.jpg",
+      "source": "original",
+      "mtime": "1657813215",
+      "size": "323872",
+      "md5": "6f4c6354a320f9ada5b1643696140c08",
+      "crc32": "943f10df",
+      "sha1": "a53b7198bafaf18ba66b3d21020b8b8d23652e98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-14T11:40:13.725147-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-14T11:40:13.725147-04:00.jpg",
+      "mtime": "1657813283",
+      "size": "10094",
+      "md5": "9f3abc2ea4cc7e468f0ff80a7a3626b4",
+      "crc32": "ddb04308",
+      "sha1": "1e9db71609816d7ac1091a4bbc2bf63ac8437885"
+    },
+    {
+      "name": "yahoonews-2022-07-14T12:42:35.625645-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657816959",
+      "size": "42284",
+      "md5": "de9e232d2dec4a90d850c9af3df9909a",
+      "crc32": "deb680e5",
+      "sha1": "60d0231f2906d4051cd5c837dd020b5f1062418f",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-14T12:42:35.625645-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657816961",
+      "size": "14787",
+      "md5": "af02bcc6c6b1dd27ec0394d16c769590",
+      "crc32": "77748d76",
+      "sha1": "55479c26e593fafc83c98cc49855a2b61012ed06",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-14T12:42:35.625645-04:00.jpg",
+      "source": "original",
+      "mtime": "1657816957",
+      "size": "321700",
+      "md5": "98e750cfb27f9dbb0b5839d196c4abb6",
+      "crc32": "ca649986",
+      "sha1": "e503bad09cf0a461b86495da389f21c0f8f9b201",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-14T12:42:35.625645-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-14T12:42:35.625645-04:00.jpg",
+      "mtime": "1657817029",
+      "size": "10176",
+      "md5": "92088b905f2c2be35a59fc28fb0b3a50",
+      "crc32": "58f26748",
+      "sha1": "8d2d72d43024664bc194261bd11da87328884258"
+    },
+    {
+      "name": "yahoonews-2022-07-14T17:12:02.659419-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657833125",
+      "size": "39151",
+      "md5": "444bc0f5c4452051cef7fe6a305cf3da",
+      "crc32": "b3400af6",
+      "sha1": "f1dd4516aa116e94ba89de5679ea33509f0f168b",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-14T17:12:02.659419-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657833127",
+      "size": "16717",
+      "md5": "d61de32db26853b985c413ccd365069d",
+      "crc32": "9067bc29",
+      "sha1": "13df0090160cc7387fc3c67ea47d6ec67f38edb3",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-14T17:12:02.659419-04:00.jpg",
+      "source": "original",
+      "mtime": "1657833124",
+      "size": "334604",
+      "md5": "89a015c8e6327583687987f64036fe55",
+      "crc32": "20dcf1a7",
+      "sha1": "37844a5c8095fa4512c45fa16a26673eee031fe3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-14T17:12:02.659419-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-14T17:12:02.659419-04:00.jpg",
+      "mtime": "1657833215",
+      "size": "10174",
+      "md5": "6a26cf86b0331c7ca4e4bc3e42c0fe75",
+      "crc32": "7fe575dd",
+      "sha1": "0db548628a276c3b490c33ca40908667267e7568"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5bb622bd48b43301e9fcf1a33697cbfa1b3d37b5",
-      "mtime": "1657772263",
-      "size": "77150",
-      "md5": "ec1cb975bcd0c986d0496595e8ca3963",
-      "crc32": "b392a2e3",
-      "sha1": "5b62879a37b6ffc831fbc0e1d49605b8feeb578d",
+      "btih": "76b4f8dc18fc47b9b35909addd4eb3d85006a0d7",
+      "mtime": "1657833242",
+      "size": "79692",
+      "md5": "67ce36c8e0a2d6ad524b72ef50fdf396",
+      "crc32": "74c1b6bb",
+      "sha1": "d2acefdc6c6e5836d1722f184e82b061f16c959b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8d8dffdbf8f2a25ccd6496ea7b4a9150",
+      "md5": "1bae3b83b8d2e497105fd763ffa1a401",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657772187",
-      "size": "434176",
-      "md5": "5cc683615ce00f74ec42109ed64e220e",
-      "crc32": "25f6ee8e",
-      "sha1": "bf78f0ddf984c298e7010ccbc5861aeddd3c2dee",
+      "mtime": "1657833130",
+      "size": "446464",
+      "md5": "93ec984ae460c150abc3980aa013e1df",
+      "crc32": "5ad83578",
+      "sha1": "a1f784d361eecf72835df9443d0004b7c1d5538a",
       "format": "Metadata"
     },
     {
@@ -3790,9 +3916,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 361,
-  "item_last_updated": 1657772263,
-  "item_size": 34247744,
+  "files_count": 373,
+  "item_last_updated": 1657833242,
+  "item_size": 35443739,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -3810,7 +3936,7 @@
     "addeddate": "2022-06-24 23:04:11"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 510088783,
+  "uniq": 1125584356,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"
@@ -3937,44 +4063,56 @@
       "url": "https://yahoo.uservoice.com/forums/204992-us-news"
     },
     {
-      "text": "3rd arrest made in Colorado election security breachThe former elections manager for a county clerk indicted on charges of tampering with voting equipment has been arrested on allegations that she was part of the scheme. Boss a hero to election conspiracy theorists \u00bb",
-      "url": "/3rd-arrest-made-alleged-colorado-181633283.html"
+      "text": "Ivana Trump, ex-wife of former President Donald Trump, dies at age 73",
+      "url": "/ivana-trump-dead-at-73-donald-first-wife-mother-ivanka-don-eric-nyc-195752108.html"
+    },
+    {
+      "text": "Donald Trump and children react to Ivana Trump's deathThe native of Czechoslovakia, who married Donald Trump in 1977 and after years as tabloid fodder divorced him in 1992, was the mother of his three eldest children.She appears to have died of natural causes \u00bb",
+      "url": "/ivana-trump-dead-at-73-donald-first-wife-mother-ivanka-don-eric-nyc-195752108.html"
     },
     {
       "text": "Is Dems' message to 'go vote' insulting to people?",
       "url": "/how-fair-are-criticisms-of-bidens-response-to-roes-repeal-160840916.html"
     },
     {
-      "text": "Justice Barrett's 'presence and her vote speak volumes'",
-      "url": "/justice-amy-coney-barrett-wielding-090145006.html"
+      "text": "Mom, family dead after protection order denied",
+      "url": "/weeks-she-denied-protective-order-002005976.html"
     },
     {
-      "text": "Many New Yorkers asking, 'Why now?' after weird PSA",
-      "url": "/psa-nuclear-attack-leaves-yorkers-020246044.html"
+      "text": "'No one is stepping in to be a voice for people like me'",
+      "url": "/young-voters-fed-much-older-120714251.html"
     },
     {
-      "text": "Arrest made in rape of Ohio girl who had abortion in Ind.",
-      "url": "/ohio-man-charged-rape-10-163914748.html"
+      "text": "Studio 54's Mark Fleischman dies by assisted suicide at 82",
+      "url": "/mark-fleischman-studio-54-owner-023905937.html"
     },
     {
-      "text": "The issue that could cripple beer businesses",
-      "url": "/brewers-cans-californias-broken-recycling-120055216.html"
+      "text": "Tragic details emerge about Uvalde cop shown on phone",
+      "url": "/lawmaker-officer-uvalde-video-husband-170248586.html"
     },
     {
-      "text": "Prime Day 2 News! Amazon is offering a rare discount on iPads as the sale's grande finale",
-      "url": "/ipad-sale-prime-day-095129751.html"
-    },
-    {
-      "text": "The best Amazon Prime Day home deals still in stockYahoo Life Shopping",
-      "url": "/prime-day-home-deals-092558991.html"
-    },
-    {
-      "text": "The best deals on iPads, AirPods and other Apple devices for Amazon Prime Day 2022Engadget",
-      "url": "/best-apple-deals-amazon-prime-day-2022-124512534.html"
+      "text": "Criminal defense attorney explains why you should avoid self-checkout lanes: \u2018Theft by mistake\u2019",
+      "url": "/criminal-defense-attorney-explains-why-170210360.html"
     },
     {
       "text": "",
       "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=L8eM1XUGIS8OVNKTsCTOmrLbhAg6UDdJzwB.l1hYUwXIErzKhZbqJByd1_sXpwyJa7pu1yp3Gzm4Ydi5KrozTZ1m7CqakxcsIKwDH5PMHuQGtfS4qN0v3IFjaKWp.zMEoo_mw470IBhDHFxIaTIFQ1rUpWb4kiIqwhuFGAAB1yo7gGvlp.5tXEbsMHNomBWAu9t9DQ4zqjRmMkWbhpGsbiOa0W15nHp70ZI19r9gXf7HH0Br5u1itXK5aseDA1AhIFXNpatHekdMD6OpttUS6Hj1FAAg.nkPdwQUnNp6WaB6_qz74PVmi9P_fTsdpHoKlnD5XWZdyKQ8JdLKTnCREvXSH94zdYtRkO7znNJcwdKofdMmEdu8u2lqJEZJsFljtj0kJUJmfHbcCmUQLDLi29_18jbC1kli7CehpU.99J_V2cbQun6mJ6fuyGqLkZKFKdrlzpaMqS1fH5jEKJDb9VUPjNPLBjnB4uIurzCbdY3FIDATaKTsNzG1eCCQhwvSF6h.p_Bm2PCoaU87oudq"
+    },
+    {
+      "text": "Ad",
+      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
+    },
+    {
+      "text": "People's Justice",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=L8eM1XUGIS8OVNKTsCTOmrLbhAg6UDdJzwB.l1hYUwXIErzKhZbqJByd1_sXpwyJa7pu1yp3Gzm4Ydi5KrozTZ1m7CqakxcsIKwDH5PMHuQGtfS4qN0v3IFjaKWp.zMEoo_mw470IBhDHFxIaTIFQ1rUpWb4kiIqwhuFGAAB1yo7gGvlp.5tXEbsMHNomBWAu9t9DQ4zqjRmMkWbhpGsbiOa0W15nHp70ZI19r9gXf7HH0Br5u1itXK5aseDA1AhIFXNpatHekdMD6OpttUS6Hj1FAAg.nkPdwQUnNp6WaB6_qz74PVmi9P_fTsdpHoKlnD5XWZdyKQ8JdLKTnCREvXSH94zdYtRkO7znNJcwdKofdMmEdu8u2lqJEZJsFljtj0kJUJmfHbcCmUQLDLi29_18jbC1kli7CehpU.99J_V2cbQun6mJ6fuyGqLkZKFKdrlzpaMqS1fH5jEKJDb9VUPjNPLBjnB4uIurzCbdY3FIDATaKTsNzG1eCCQhwvSF6h.p_Bm2PCoaU87oudq"
+    },
+    {
+      "text": "More Camp Lejeune Claims Are Now Being Accepted",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=L8eM1XUGIS8OVNKTsCTOmrLbhAg6UDdJzwB.l1hYUwXIErzKhZbqJByd1_sXpwyJa7pu1yp3Gzm4Ydi5KrozTZ1m7CqakxcsIKwDH5PMHuQGtfS4qN0v3IFjaKWp.zMEoo_mw470IBhDHFxIaTIFQ1rUpWb4kiIqwhuFGAAB1yo7gGvlp.5tXEbsMHNomBWAu9t9DQ4zqjRmMkWbhpGsbiOa0W15nHp70ZI19r9gXf7HH0Br5u1itXK5aseDA1AhIFXNpatHekdMD6OpttUS6Hj1FAAg.nkPdwQUnNp6WaB6_qz74PVmi9P_fTsdpHoKlnD5XWZdyKQ8JdLKTnCREvXSH94zdYtRkO7znNJcwdKofdMmEdu8u2lqJEZJsFljtj0kJUJmfHbcCmUQLDLi29_18jbC1kli7CehpU.99J_V2cbQun6mJ6fuyGqLkZKFKdrlzpaMqS1fH5jEKJDb9VUPjNPLBjnB4uIurzCbdY3FIDATaKTsNzG1eCCQhwvSF6h.p_Bm2PCoaU87oudq"
     },
     {
       "text": "28-year-old Georgia woman paralyzed after visit to chiropractor, family says",
@@ -3985,88 +4123,120 @@
       "url": "#"
     },
     {
-      "text": "Why Republican Kari Lake cannot and will not lose  the Arizona governor's race",
-      "url": "/why-republican-kari-lake-cannot-150202003.html"
+      "text": "Lauren Boebert's Shooters Grill, known for its firearm-toting waitresses, has shut down",
+      "url": "/lauren-boeberts-shooters-grill-known-064505929.html"
+    },
+    {
+      "text": "Rep. Lauren Boebert closes Shooter's Grill on Western SlopeCBS-Denver",
+      "url": "/rep-lauren-boebert-closes-shooters-003939792.html"
+    },
+    {
+      "text": "Shot Down: Rep. Lauren Boebert's Gun-Themed Restaurant Closes In ColoradoHuffPost",
+      "url": "/shot-down-rep-lauren-boeberts-084518870.html"
     },
     {
       "text": "",
       "url": "#"
     },
     {
-      "text": "More than 10,000 Amazon shoppers rave about this rowing machine \u2014 and it costs less than your gym sneakers",
-      "url": "/over-4-000-amazon-shoppers-191021918.html"
+      "text": "'Victoria's Secret' doc director astonished at how 'completely stupid and very successful' Angels campaign was",
+      "url": "https://www.yahoo.com/entertainment/victorias-secret-documentary-director-interview-angels-campaign-jeffrey-epstein-164156904.html"
+    },
+    {
+      "text": "New docuseries follows rise and fall of Victoria\u2019s SecretABC News Videos",
+      "url": "/docuseries-follows-rise-fall-victoria-082950919.html"
+    },
+    {
+      "text": "Hulu\u2019s \u2018Victoria\u2019s Secret: Angels and Demons\u2019: TV ReviewThe Hollywood Reporter",
+      "url": "/hulu-victoria-secret-angels-demons-173139690.html"
     },
     {
       "text": "",
       "url": "#"
     },
     {
-      "text": "A Sad Bill Gates Makes a Huge Announcement",
-      "url": "/m/e51dda2b-9b40-357d-8dc8-2fcf81ce684e/a-sad-bill-gates-makes-a-huge.html"
+      "text": "",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=qIkCCFsGIS97FiHHxMjh5H.rYiSkFC4dqKCoyWtBZP5Mc2l.OFZgMvOujkQxj7Gmr3k3ADQ9or_9Q3tLp7GJClWdpYLsCWXNHT6WiTXKmaf_MDH3u7jjlrF9i4lDYsIYlamgHvFGwM0R5r4ff.em0opjkipRhnlWNQsNXaQqDpwuVGJTLPanHzzr4FDGo9Q_XSGPVIMVf4L9JdpPOHwpcreXOxkKjpWLVxRTDV00vu8ZmCYIgK0j5OGkriG5MOIQHEHDqjvl5zkbHUnSwHVc4l3_kRuRcZT_xK1qtrpAWPw5ENcKT5.C45Dw7_qDnllYhqLt22jWJ1MmVSbwZuJP6tY6rcEZbRvcM1jE9cma0SkYYYlujhdbGCZVR2C7us38PDPelm8bFWlwzckuCSjSn35zS9mwx9dBJFjMw2CMyR7suXo5dJj0p5Tv4aDYugtqu1hx5.H9WR2JpL8nYm5nJAK80aVf3pNrgZ9Esvo6AiYf92EN3W5ZAw92aO4zD332Iyr_kF4MJbAPU6R4xStxxfUQQNlywKX1cMrbzwsC43u06fxBb5ZOEMS4Ri5p1JdJXxxGDxx3GwBsf0xQc1JRFqK9z2sJ.2JJjJxWLJlHGzPJU4Sa9K4494KXG7AKQiGCKF34Eyjoo9rHWa4taj1VCXAzGpQ6XQ--"
+    },
+    {
+      "text": "Ad",
+      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
+    },
+    {
+      "text": "SmartAsset",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=qIkCCFsGIS97FiHHxMjh5H.rYiSkFC4dqKCoyWtBZP5Mc2l.OFZgMvOujkQxj7Gmr3k3ADQ9or_9Q3tLp7GJClWdpYLsCWXNHT6WiTXKmaf_MDH3u7jjlrF9i4lDYsIYlamgHvFGwM0R5r4ff.em0opjkipRhnlWNQsNXaQqDpwuVGJTLPanHzzr4FDGo9Q_XSGPVIMVf4L9JdpPOHwpcreXOxkKjpWLVxRTDV00vu8ZmCYIgK0j5OGkriG5MOIQHEHDqjvl5zkbHUnSwHVc4l3_kRuRcZT_xK1qtrpAWPw5ENcKT5.C45Dw7_qDnllYhqLt22jWJ1MmVSbwZuJP6tY6rcEZbRvcM1jE9cma0SkYYYlujhdbGCZVR2C7us38PDPelm8bFWlwzckuCSjSn35zS9mwx9dBJFjMw2CMyR7suXo5dJj0p5Tv4aDYugtqu1hx5.H9WR2JpL8nYm5nJAK80aVf3pNrgZ9Esvo6AiYf92EN3W5ZAw92aO4zD332Iyr_kF4MJbAPU6R4xStxxfUQQNlywKX1cMrbzwsC43u06fxBb5ZOEMS4Ri5p1JdJXxxGDxx3GwBsf0xQc1JRFqK9z2sJ.2JJjJxWLJlHGzPJU4Sa9K4494KXG7AKQiGCKF34Eyjoo9rHWa4taj1VCXAzGpQ6XQ--"
+    },
+    {
+      "text": "San Francisco: Bank Accounts With 7X the Average Rate",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=qIkCCFsGIS97FiHHxMjh5H.rYiSkFC4dqKCoyWtBZP5Mc2l.OFZgMvOujkQxj7Gmr3k3ADQ9or_9Q3tLp7GJClWdpYLsCWXNHT6WiTXKmaf_MDH3u7jjlrF9i4lDYsIYlamgHvFGwM0R5r4ff.em0opjkipRhnlWNQsNXaQqDpwuVGJTLPanHzzr4FDGo9Q_XSGPVIMVf4L9JdpPOHwpcreXOxkKjpWLVxRTDV00vu8ZmCYIgK0j5OGkriG5MOIQHEHDqjvl5zkbHUnSwHVc4l3_kRuRcZT_xK1qtrpAWPw5ENcKT5.C45Dw7_qDnllYhqLt22jWJ1MmVSbwZuJP6tY6rcEZbRvcM1jE9cma0SkYYYlujhdbGCZVR2C7us38PDPelm8bFWlwzckuCSjSn35zS9mwx9dBJFjMw2CMyR7suXo5dJj0p5Tv4aDYugtqu1hx5.H9WR2JpL8nYm5nJAK80aVf3pNrgZ9Esvo6AiYf92EN3W5ZAw92aO4zD332Iyr_kF4MJbAPU6R4xStxxfUQQNlywKX1cMrbzwsC43u06fxBb5ZOEMS4Ri5p1JdJXxxGDxx3GwBsf0xQc1JRFqK9z2sJ.2JJjJxWLJlHGzPJU4Sa9K4494KXG7AKQiGCKF34Eyjoo9rHWa4taj1VCXAzGpQ6XQ--"
+    },
+    {
+      "text": "Pelosi slams 168 Republicans who voted against alert system that notifies about active shooters",
+      "url": "/pelosi-slams-168-republicans-voted-180137153.html"
     },
     {
       "text": "",
       "url": "#"
     },
     {
-      "text": "A Trump fan got widespread sympathy after his garage was burned and defaced with 'Biden 2020' graffiti. Prosecutors say he did it himself in a $300K insurance scam.",
-      "url": "/trump-fan-got-widespread-sympathy-113009999.html"
-    },
-    {
-      "text": "A man said his camper was set on fire over a Trump flag. Now, officials say he set the blaze himself.USA TODAY",
-      "url": "/man-said-camper-set-fire-191418791.html"
-    },
-    {
-      "text": "Trump supporter charged for faking arson attack he blamed on Antifa and BLMThe Independent",
-      "url": "/trump-supporter-charged-faking-arson-152433885.html"
+      "text": "Russian forces in a panic: there is no way to hide from the new weapon of the Armed Forces of Ukraine - SSU interception",
+      "url": "/russian-forces-panic-no-way-084924358.html"
     },
     {
       "text": "",
       "url": "#"
     },
     {
-      "text": "U.S. successfully tests pair of Lockheed hypersonic missiles",
-      "url": "/u-successfully-tested-lockheed-hypersonic-165335256.html"
-    },
-    {
-      "text": "US successfully tests hypersonic missile off California coastFox News",
-      "url": "/us-successfully-tests-hypersonic-missile-180614084.html"
-    },
-    {
-      "text": "Lockheed hypersonic weapon moves to next phase after US Air Force test successAir Force Times",
-      "url": "/lockheed-hypersonic-weapon-moves-next-202158485.html"
+      "text": "Taliban founder's Toyota Corolla dug up after spending 21 years buried",
+      "url": "https://www.autoblog.com/2022/07/14/taliban-founder-buried-toyota-corolla-dug-up-museum/"
     },
     {
       "text": "",
       "url": "#"
     },
     {
-      "text": "Republican AG says he'll investigate Indiana doctor who provided care to 10-year-old rape victim",
-      "url": "/republican-ag-says-hell-investigate-025855686.html"
+      "text": "",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=rBXh5ooGIS_A3pLDzCAOSnuuolh6EA13aeu_GRlhHIY_0zCUIiSoTxyqwxhIhuqcYjja_YNpGv00QU5uj7C2Djx6LgYJ2K6MGV7Ydowam2KQPIrPvI8XdjiZZ43_NQudtUqHCodgSH59.0iA2CJx82qSz052MulGdN5L8oyD0LqOg5qPVfIa7DoP9Hx4qMdd7if7rw4GyvzAQfFVo3cQqLCFrhQTYhT5iy.x3X8X9NmscEW3bgGMlCPBx2cfkQ91buCDmPSXqxgqcHJmZXcDwFJOv9UBKwzRK1YdK95kHnClZYecyNVPYZdigQL2XkOgDZqri2bwV2Du3JhmGa_aVW.x6i9Uw84jGO6Np81_hZ7PQcm3Mi4clWIUbTZNZDODLNi_2bqZJgPOnRmR3w_VNkaExXnKT59ZeqDVyYlBYkrAaDOKYoMrPhicADTEapeqCKWnqa5mODfTgdkPSjWXoaP3cCtm.RiMVCtvcIS5l9acldUx8XkfHYqBA_hp7npZn5MHq0QNe._tQXih4DMkDAAqD6eEQkyVo9tZ1ga7qkGSgH1uu_2oZxwzozihruA6U8TT_lH7XRsbOsXans1CcgOFPGOERSofSQlRkkHguNj49tMNedymKJcJYzYFXn54VAyOGBmgncUDz1vcvDPnpmLuLnZOVDjJRiTKKyTnzoKdnlozOocb3eTF8FefQsc9uJ5DMHtmVzta8seAm.0fyDYa7oKE93Gl4W5XpjJohLJ_2pJ3O7G6CXbwsCvZTosZtAh3GNeAV6C5O0iFfqvxtd4x1Qvz9I1g_1.jDmkvMtgG5tIErjSYe22YYZYt7PdWf3Hb0K.omEyprbFxYMYXNuMR2fr0t2SCt0DhylczQx_GUoiO4hMIgr.D6PaWkgEBGnZzFfbwU6hqq4r.r92v8tzZZ5jaDGjhHsZL1cPlAYiHlBMySYOrYpzdRlncAOX3SUXE795F_sJAAuKeSEOlZfkh2Exn6jTKZQ0wssVdzx.u2Qt9E32_IRGJwt6njaxyvVvvLTB.49KsFkQTq0sMjXnanK1UcloGxe8aSpk5t07tl69WmuQFJ4gCOCv6tzwxgtT8bUnNvlzEtkdqabEwr1jZq8wqNMd9ifpV8dkAgMKbvwx4dM7RW4d6fQ0zKQWmjfZECBagKAmNoXE_sEQKih0gEm4szll1SwuBLg0e76tsAHV_xhcx_g3HlSvZU064MWQyLEFgJJP_SLIJbHit5lBHRjNjMuwVr029StkO29ieagul98KnN.numXUYr4WZPwWrEbm9vu8H2O0-"
     },
     {
-      "text": "Voices: A 10-year-old rape victim was pregnant. Fox News refused to believe it was trueThe Independent",
-      "url": "/voices-10-old-rape-victim-204603369.html"
+      "text": "Ad",
+      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
     },
     {
-      "text": "Ohio AG Dave Yost cast doubt on 10-year-old rape victim case, now 'rejoices' at arrestThe Columbus Dispatch",
-      "url": "/ohio-ag-dave-yost-cast-173226082.html"
+      "text": "System1 | Search Ads",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=rBXh5ooGIS_A3pLDzCAOSnuuolh6EA13aeu_GRlhHIY_0zCUIiSoTxyqwxhIhuqcYjja_YNpGv00QU5uj7C2Djx6LgYJ2K6MGV7Ydowam2KQPIrPvI8XdjiZZ43_NQudtUqHCodgSH59.0iA2CJx82qSz052MulGdN5L8oyD0LqOg5qPVfIa7DoP9Hx4qMdd7if7rw4GyvzAQfFVo3cQqLCFrhQTYhT5iy.x3X8X9NmscEW3bgGMlCPBx2cfkQ91buCDmPSXqxgqcHJmZXcDwFJOv9UBKwzRK1YdK95kHnClZYecyNVPYZdigQL2XkOgDZqri2bwV2Du3JhmGa_aVW.x6i9Uw84jGO6Np81_hZ7PQcm3Mi4clWIUbTZNZDODLNi_2bqZJgPOnRmR3w_VNkaExXnKT59ZeqDVyYlBYkrAaDOKYoMrPhicADTEapeqCKWnqa5mODfTgdkPSjWXoaP3cCtm.RiMVCtvcIS5l9acldUx8XkfHYqBA_hp7npZn5MHq0QNe._tQXih4DMkDAAqD6eEQkyVo9tZ1ga7qkGSgH1uu_2oZxwzozihruA6U8TT_lH7XRsbOsXans1CcgOFPGOERSofSQlRkkHguNj49tMNedymKJcJYzYFXn54VAyOGBmgncUDz1vcvDPnpmLuLnZOVDjJRiTKKyTnzoKdnlozOocb3eTF8FefQsc9uJ5DMHtmVzta8seAm.0fyDYa7oKE93Gl4W5XpjJohLJ_2pJ3O7G6CXbwsCvZTosZtAh3GNeAV6C5O0iFfqvxtd4x1Qvz9I1g_1.jDmkvMtgG5tIErjSYe22YYZYt7PdWf3Hb0K.omEyprbFxYMYXNuMR2fr0t2SCt0DhylczQx_GUoiO4hMIgr.D6PaWkgEBGnZzFfbwU6hqq4r.r92v8tzZZ5jaDGjhHsZL1cPlAYiHlBMySYOrYpzdRlncAOX3SUXE795F_sJAAuKeSEOlZfkh2Exn6jTKZQ0wssVdzx.u2Qt9E32_IRGJwt6njaxyvVvvLTB.49KsFkQTq0sMjXnanK1UcloGxe8aSpk5t07tl69WmuQFJ4gCOCv6tzwxgtT8bUnNvlzEtkdqabEwr1jZq8wqNMd9ifpV8dkAgMKbvwx4dM7RW4d6fQ0zKQWmjfZECBagKAmNoXE_sEQKih0gEm4szll1SwuBLg0e76tsAHV_xhcx_g3HlSvZU064MWQyLEFgJJP_SLIJbHit5lBHRjNjMuwVr029StkO29ieagul98KnN.numXUYr4WZPwWrEbm9vu8H2O0-"
+    },
+    {
+      "text": "Don't Ignore Early Diabetes Signs (May Alarm Many)",
+      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=rBXh5ooGIS_A3pLDzCAOSnuuolh6EA13aeu_GRlhHIY_0zCUIiSoTxyqwxhIhuqcYjja_YNpGv00QU5uj7C2Djx6LgYJ2K6MGV7Ydowam2KQPIrPvI8XdjiZZ43_NQudtUqHCodgSH59.0iA2CJx82qSz052MulGdN5L8oyD0LqOg5qPVfIa7DoP9Hx4qMdd7if7rw4GyvzAQfFVo3cQqLCFrhQTYhT5iy.x3X8X9NmscEW3bgGMlCPBx2cfkQ91buCDmPSXqxgqcHJmZXcDwFJOv9UBKwzRK1YdK95kHnClZYecyNVPYZdigQL2XkOgDZqri2bwV2Du3JhmGa_aVW.x6i9Uw84jGO6Np81_hZ7PQcm3Mi4clWIUbTZNZDODLNi_2bqZJgPOnRmR3w_VNkaExXnKT59ZeqDVyYlBYkrAaDOKYoMrPhicADTEapeqCKWnqa5mODfTgdkPSjWXoaP3cCtm.RiMVCtvcIS5l9acldUx8XkfHYqBA_hp7npZn5MHq0QNe._tQXih4DMkDAAqD6eEQkyVo9tZ1ga7qkGSgH1uu_2oZxwzozihruA6U8TT_lH7XRsbOsXans1CcgOFPGOERSofSQlRkkHguNj49tMNedymKJcJYzYFXn54VAyOGBmgncUDz1vcvDPnpmLuLnZOVDjJRiTKKyTnzoKdnlozOocb3eTF8FefQsc9uJ5DMHtmVzta8seAm.0fyDYa7oKE93Gl4W5XpjJohLJ_2pJ3O7G6CXbwsCvZTosZtAh3GNeAV6C5O0iFfqvxtd4x1Qvz9I1g_1.jDmkvMtgG5tIErjSYe22YYZYt7PdWf3Hb0K.omEyprbFxYMYXNuMR2fr0t2SCt0DhylczQx_GUoiO4hMIgr.D6PaWkgEBGnZzFfbwU6hqq4r.r92v8tzZZ5jaDGjhHsZL1cPlAYiHlBMySYOrYpzdRlncAOX3SUXE795F_sJAAuKeSEOlZfkh2Exn6jTKZQ0wssVdzx.u2Qt9E32_IRGJwt6njaxyvVvvLTB.49KsFkQTq0sMjXnanK1UcloGxe8aSpk5t07tl69WmuQFJ4gCOCv6tzwxgtT8bUnNvlzEtkdqabEwr1jZq8wqNMd9ifpV8dkAgMKbvwx4dM7RW4d6fQ0zKQWmjfZECBagKAmNoXE_sEQKih0gEm4szll1SwuBLg0e76tsAHV_xhcx_g3HlSvZU064MWQyLEFgJJP_SLIJbHit5lBHRjNjMuwVr029StkO29ieagul98KnN.numXUYr4WZPwWrEbm9vu8H2O0-"
+    },
+    {
+      "text": "LinkedIn founder says he's not surprised Trump attacked Elon Musk: 'His career highlight was pretending to be a successful entrepreneur on a TV show'",
+      "url": "/linkedin-founder-says-hes-not-184101505.html"
+    },
+    {
+      "text": "Trump ramps up feud with Elon Musk, claiming he could have made Musk drop to his knees and beg for help when he was presidentBusiness Insider",
+      "url": "/trump-ramps-feud-elon-musk-034742726.html"
+    },
+    {
+      "text": "Trump Says He Could Have Made Musk \u2018Drop to His Knees\u2019The Daily Beast",
+      "url": "/trump-says-could-made-musk-004237280.html"
     },
     {
       "text": "",
       "url": "#"
     },
     {
-      "text": "Bear cools off in pond, scared away by koi carp",
-      "url": "/bear-cools-off-pond-scared-223101683.html"
+      "text": "Chinese man cooks and eats his pet arowana after it dies, says it's 'most expensive fish' he's ever eaten",
+      "url": "/chinese-man-cooks-eats-pet-221037369.html"
     },
     {
       "text": "",
       "url": "#"
     },
     {
-      "text": "Are some people mosquito magnets? Here's what experts say",
-      "url": "/are-some-people-mosquito-magnets-experts-201933809.html"
+      "text": "Lawmaker suspended from TikTok defends twerking video",
+      "url": "/lawmaker-suspended-tiktok-defends-twerking-220606217.html"
     },
     {
       "text": "",
@@ -4079,10 +4249,6 @@
     {
       "text": "Read the 360",
       "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
-    },
-    {
-      "text": "",
-      "url": "https://weather.yahoo.com///undefined-undefined"
     }
   ]
 }
