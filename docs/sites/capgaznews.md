@@ -17,7 +17,7 @@ orphan: true
 | Location       | Annapolis                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 57 screenshots stored at the Internet Archive.
+The archiving routine has captured 58 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
