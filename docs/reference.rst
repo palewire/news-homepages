@@ -54,6 +54,10 @@ Commands
    :prog: screenshot
    :nested: full
 
+.. click:: newshomepages.slack:cli
+   :prog: slack
+   :nested: full
+
 .. click:: newshomepages.telegrammer:cli
    :prog: telegrammer
    :nested: full
