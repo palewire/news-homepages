@@ -13,8 +13,8 @@ jobs:
       handle: baltimoresun
     secrets: inherit
 
-  slack:
-    name: Post to Slack
+  newsroom-slack:
+    name: Post to newsroom Slack
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: [archive-site]
@@ -23,18 +23,26 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: install
-        name: Install Python dependencies
-        uses: ./.github/actions/install
-
-      - uses: actions/download-artifact@v3
-        with:
-          name: archive
-          path: ./_input
-
-      - id: send-slack
+      - id: slack
         name: Post to Slack
-        run: pipenv run python -m newshomepages.slack < ./_input/baltimoresun.json
-        shell: bash
-        env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL_BALTIMORESUN }}
+        uses: ./.github/actions/slack
+        with:
+          handle: baltimoresun
+          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_BALTIMORESUN }}
+
+  palewire-slack:
+    name: Post to palewire Slack
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [archive-site]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: slack
+        name: Post to Slack
+        uses: ./.github/actions/slack
+        with:
+          handle: baltimoresun
+          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_PALEWIRE }}
