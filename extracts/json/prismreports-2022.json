@@ -1,5 +1,5 @@
 {
-  "created": 1657800935,
+  "created": 1657846782,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/6/items/prismreports-2022",
@@ -478,31 +478,73 @@
       "sha1": "b0a6a16b5f70b947adb20a669d520744c49de842"
     },
     {
+      "name": "prismreports-2022-07-14T08:50:01.588878-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657813809",
+      "size": "20995",
+      "md5": "558e4e7ae60fd54f3f97705929cf83b5",
+      "crc32": "3b99a63b",
+      "sha1": "23a0ffdeba0fc009b3ec10f95f7239b70ecb276f",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-07-14T08:50:01.588878-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657813811",
+      "size": "21857",
+      "md5": "29e93099ad49aa934250e696e8369bd2",
+      "crc32": "ee116cd7",
+      "sha1": "898d7df59d2f9b10549bd61d2a0bd0ca7d634253",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-07-14T08:50:01.588878-07:00.jpg",
+      "source": "original",
+      "mtime": "1657813803",
+      "size": "321425",
+      "md5": "53d6cfeb0ef20b610a8abf96781e462c",
+      "crc32": "199439f7",
+      "sha1": "5f4b883f7b3a063082a13b8be506f9bac89e87d6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prismreports-2022-07-14T08:50:01.588878-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prismreports-2022-07-14T08:50:01.588878-07:00.jpg",
+      "mtime": "1657813871",
+      "size": "10812",
+      "md5": "590bfc15da4957caca9b8a24275f15c7",
+      "crc32": "4d75fbbc",
+      "sha1": "b0a6a16b5f70b947adb20a669d520744c49de842"
+    },
+    {
       "name": "prismreports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "28dbb45330f01d55485cd7047f120a52051c9761",
-      "mtime": "1657769290",
-      "size": "11126",
-      "md5": "69c923d279a5c2d8f276feaf9f11707e",
-      "crc32": "0c9018d0",
-      "sha1": "48c0c3eb8f7d718acbb86fb1e09c354f96bbaba6",
+      "btih": "dc9884a9d06bc329c96416db9b0f7b3bb2424c57",
+      "mtime": "1657813874",
+      "size": "11972",
+      "md5": "63c43f3bdbec8e2082ed536466f76fcd",
+      "crc32": "07e4cedc",
+      "sha1": "a6b844cfdbdf1a50711f2d93b81d82fc08301f8b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prismreports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83cdf50029a9517da542122ff931dd5a",
+      "md5": "c9b5b432820637f9ec493ef91fd5758d",
       "summation": "md5"
     },
     {
       "name": "prismreports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657769231",
-      "size": "65536",
-      "md5": "0f384b5e1153684a64e7e7861910a775",
-      "crc32": "0ea0a95e",
-      "sha1": "3c481043e931001ef52f6975deaac6a456965c76",
+      "mtime": "1657813816",
+      "size": "69632",
+      "md5": "ddef13c36693d6d1c7f319f3a1fb8159",
+      "crc32": "f4fac9ed",
+      "sha1": "3c7f38b997c05eba5b425f819567cf87c3535780",
       "format": "Metadata"
     },
     {
@@ -516,9 +558,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 49,
-  "item_last_updated": 1657769290,
-  "item_size": 4294706,
+  "files_count": 53,
+  "item_last_updated": 1657813874,
+  "item_size": 4674737,
   "metadata": {
     "identifier": "prismreports-2022",
     "collection": [
@@ -1241,10 +1283,10 @@
       "url": "https://prismreports.org/privacy-policy/"
     }
   ],
-  "server": "ia601402.us.archive.org",
-  "uniq": 690452517,
+  "server": "ia801402.us.archive.org",
+  "uniq": 133091555,
   "workable_servers": [
-    "ia601402.us.archive.org",
-    "ia801402.us.archive.org"
+    "ia801402.us.archive.org",
+    "ia601402.us.archive.org"
   ]
 }

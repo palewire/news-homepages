@@ -1,5 +1,5 @@
 {
-  "created": 1657769087,
+  "created": 1657813487,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/23/items/mcall-2022",
@@ -2230,31 +2230,73 @@
       "sha1": "383fd9f267eed604dd9f10ca3c23ed353ee55946"
     },
     {
+      "name": "mcall-2022-07-14T11:43:30.626877-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657813414",
+      "size": "72019",
+      "md5": "5a3067e5a260649da1c48d68aaf9adae",
+      "crc32": "c9a14203",
+      "sha1": "e6c26ff1d46b733f36bd426567fb04dc4dab7245",
+      "format": "JSON"
+    },
+    {
+      "name": "mcall-2022-07-14T11:43:30.626877-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657813415",
+      "size": "86532",
+      "md5": "5cc008963f605ea0a003fc709419b2d9",
+      "crc32": "75af5cbc",
+      "sha1": "9fac75bcd14cbf3a446de96d632170139e87ede1",
+      "format": "JSON"
+    },
+    {
+      "name": "mcall-2022-07-14T11:43:30.626877-04:00.jpg",
+      "source": "original",
+      "mtime": "1657813412",
+      "size": "296434",
+      "md5": "bfaf21df3575378ca1293038893b881a",
+      "crc32": "e6be84ad",
+      "sha1": "ce1f74728559ef95cac080f83a7d80d818a09d15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcall-2022-07-14T11:43:30.626877-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcall-2022-07-14T11:43:30.626877-04:00.jpg",
+      "mtime": "1657813471",
+      "size": "9382",
+      "md5": "fd98e6b7c553783867a89334ba6c438c",
+      "crc32": "24e3e693",
+      "sha1": "e93aa0f9afdd7bc046181d275e8fc72ebb4a5abc"
+    },
+    {
       "name": "mcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "14ca2f14097aa2ad4cef0722e08b79be330f53d2",
-      "mtime": "1657769063",
-      "size": "45578",
-      "md5": "5add9794392f41fdb56f6e1ff0d7f6ac",
-      "crc32": "08467f59",
-      "sha1": "e2b3a6a6726ec62018e4ab34d9d18d7284b3e823",
+      "btih": "e9910ba67598600c9ff7b8197d6a3ac9873054e4",
+      "mtime": "1657813479",
+      "size": "46415",
+      "md5": "9f41b856058a8d8464141a88a562c158",
+      "crc32": "8419c15b",
+      "sha1": "12d2d1d9e3a9e84d48a1091add65ae50364a832f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0a9a7ad7d0b28d7678d502eaf3faa23",
+      "md5": "c86ab77ff032d922af7e658d6216f4b3",
       "summation": "md5"
     },
     {
       "name": "mcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657768974",
-      "size": "262144",
-      "md5": "a8b25f86c52caae32cdd4dc9190efe2e",
-      "crc32": "5ce0e19d",
-      "sha1": "93c740cb04da1ef4b2b46b8dc307ca644238e56a",
+      "mtime": "1657813420",
+      "size": "266240",
+      "md5": "2f5ba7207f2d20a5e373ca0e44a64b13",
+      "crc32": "54536dc0",
+      "sha1": "58f8ee44eb28d886723dad40a08141e35bb14abc",
       "format": "Metadata"
     },
     {
@@ -2268,9 +2310,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 216,
-  "item_last_updated": 1657769063,
-  "item_size": 22907421,
+  "files_count": 220,
+  "item_last_updated": 1657813479,
+  "item_size": 23376721,
   "metadata": {
     "identifier": "mcall-2022",
     "collection": [
@@ -2288,7 +2330,7 @@
     "addeddate": "2022-06-24 22:58:06"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 2041838799,
+  "uniq": 195536170,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

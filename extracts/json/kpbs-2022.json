@@ -1,5 +1,5 @@
 {
-  "created": 1657800691,
+  "created": 1657846563,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/6/items/kpbs-2022",
@@ -10190,31 +10190,115 @@
       "sha1": "134a76fcea050421a4a53dd3f70c0c7c691bc514"
     },
     {
+      "name": "kpbs-2022-07-14T07:20:47.776353-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657808450",
+      "size": "33814",
+      "md5": "158054cc78d401230e7563ef8a87b0b2",
+      "crc32": "dcd93b82",
+      "sha1": "0eb12424963c54d1f8b24a8fd1581ffc1cd77827",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-14T07:20:47.776353-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657808452",
+      "size": "44531",
+      "md5": "f1efbf29a21383428f3c739094999bdb",
+      "crc32": "086e6eef",
+      "sha1": "c6a3e501161594cd32e53cfa7cc8ad8d3832c51a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-14T07:20:47.776353-07:00.jpg",
+      "source": "original",
+      "mtime": "1657808448",
+      "size": "290551",
+      "md5": "29543f5b3c3392f977404ec7787c49cf",
+      "crc32": "e51ac053",
+      "sha1": "9155b270fd78c13c153de07c581d061e2b9ac570",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-07-14T07:20:47.776353-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-07-14T07:20:47.776353-07:00.jpg",
+      "mtime": "1657808560",
+      "size": "10311",
+      "md5": "cbc8bedbeb876a25f8ca120335027b90",
+      "crc32": "0be84999",
+      "sha1": "639e814cf607ec8f2cc52536151d3f7759495503"
+    },
+    {
+      "name": "kpbs-2022-07-14T11:14:12.892348-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657822458",
+      "size": "32872",
+      "md5": "742a7a0ad29d8f0a8c8b86eaff9fd3ce",
+      "crc32": "286e2932",
+      "sha1": "b88e9192ff3dc22ea0cf3adfc0a70c5712d4e35b",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-14T11:14:12.892348-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657822460",
+      "size": "43873",
+      "md5": "08d2feb3b7705e6842bd0dc8ebfb0c3d",
+      "crc32": "a08c40e1",
+      "sha1": "ff2e42ea1e10bb3333c3d800f114c65268e41f97",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-07-14T11:14:12.892348-07:00.jpg",
+      "source": "original",
+      "mtime": "1657822455",
+      "size": "327736",
+      "md5": "682d04a682d30e9800bc4fc0eaa32945",
+      "crc32": "6c73d671",
+      "sha1": "b3c42fb78918d89c4c3d8b62ff7f881c50c6c149",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-07-14T11:14:12.892348-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-07-14T11:14:12.892348-07:00.jpg",
+      "mtime": "1657822572",
+      "size": "10016",
+      "md5": "93131f092fe45b8078864f2c349490b3",
+      "crc32": "30926176",
+      "sha1": "9b7efe61ad1af8a802b8fb5999dc8155e56b0fec"
+    },
+    {
       "name": "kpbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "62fa10e9c099c21c7477b2dbe7562ff78ac8ef55",
-      "mtime": "1657765578",
-      "size": "202005",
-      "md5": "afdc48dfe4fa7002afce31d75672bfd8",
-      "crc32": "8b6201e8",
-      "sha1": "1332bad4f5a89fc3c72210bd5752cc8021a6be78",
+      "btih": "fd7d2015f486cdc62b2057eacdc33d73ee2a979c",
+      "mtime": "1657822583",
+      "size": "203673",
+      "md5": "9c91312738d9caa924be8b746fc76cb8",
+      "crc32": "0bc8625c",
+      "sha1": "5450a461058496f09d9b81cafb59ebe37e4ec9fe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "24e6dc437c64908f14adb8eee28a7083",
+      "md5": "72d463378c5abea0ab397d286329afe0",
       "summation": "md5"
     },
     {
       "name": "kpbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657765443",
-      "size": "1110016",
-      "md5": "f25916667359c75e5b4ccaf092fbc72c",
-      "crc32": "dffe2c7d",
-      "sha1": "ff17adce48812101db2f427d52a2685299367b0a",
+      "mtime": "1657822463",
+      "size": "1118208",
+      "md5": "27157fc0751a95166f11038407089c58",
+      "crc32": "3bdaac82",
+      "sha1": "74cb0f3fdd3c0d94c66517e3a3ac7c90eb0012f5",
       "format": "Metadata"
     },
     {
@@ -10228,9 +10312,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 973,
-  "item_last_updated": 1657765578,
-  "item_size": 98050042,
+  "files_count": 981,
+  "item_last_updated": 1657822583,
+  "item_size": 98853606,
   "kpbs-2022": [
     {
       "text": "\n    \n        \n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n                \n\n                \n\n            \n        \n    \n\n\n    \n    ",
@@ -10557,12 +10641,12 @@
       "url": "https://www.pledgecart.org/pledgeCart3/?campaign=C24EAB93-2727-4548-A562-D29417E16440&source=&_ga=2.202749713.1814251959.1627315184-1797465205.1622573667#/home"
     },
     {
-      "text": "All Things Considered",
-      "url": "http://www.npr.org/programs/all-things-considered/"
+      "text": "The Takeaway",
+      "url": "http://www.wnyc.org/shows/takeaway"
     },
     {
-      "text": "Marketplace",
-      "url": "http://www.marketplace.org/shows/marketplace"
+      "text": "KPBS Midday Edition",
+      "url": "https://www.kpbs.org/news/midday-edition/"
     },
     {
       "text": "Full Schedule\n                            ",
@@ -10886,59 +10970,47 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/hilton-san-diego-bayfront-workers-rally-with-local-leaders-for-fair-contract"
+      "url": "https://www.kpbs.org/news/local/2022/07/14/recovering-monkeypox-patient-urgent-testing-vaccinations-san-diego"
     },
     {
       "text": "Local",
       "url": "https://www.kpbs.org/news/local"
     },
     {
-      "text": "Hilton San Diego Bayfront workers rally with local leaders for \u2018fair contract\u2019",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/hilton-san-diego-bayfront-workers-rally-with-local-leaders-for-fair-contract"
+      "text": "Recovering monkeypox patient describes urgent need for testing, vaccinations in San Diego",
+      "url": "https://www.kpbs.org/news/local/2022/07/14/recovering-monkeypox-patient-urgent-testing-vaccinations-san-diego"
     },
     {
-      "text": "Jacob Aere",
-      "url": "https://www.kpbs.org/staff/jacob-aere"
-    },
-    {
-      "text": "Employees at Dodger Stadium threaten to strike days before the MLB All-Star Game ",
-      "url": "https://www.kpbs.org/news/national/2022/07/13/employees-at-dodger-stadium-threaten-to-strike-days-before-the-mlb-all-star-game"
-    },
-    {
-      "text": "Bonus checks! One year free! How states are trying to fix a broken child care system ",
-      "url": "https://www.kpbs.org/news/national/2022/07/13/bonus-checks-one-year-free-how-states-are-trying-to-fix-a-broken-childcare-system"
+      "text": "Andrew Bowen",
+      "url": "https://www.kpbs.org/staff/andrew-bowen"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/san-diegans-on-notice-water-rates-could-be-rising"
+      "url": "https://www.kpbs.org/news/local/2022/07/14/san-diego-countys-covid-19-hospitalizations-nearing-400"
     },
     {
       "text": "Local",
       "url": "https://www.kpbs.org/news/local"
     },
     {
-      "text": "San Diegans on notice: Water rates could be rising",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/san-diegans-on-notice-water-rates-could-be-rising"
+      "text": "San Diego County's COVID-19 hospitalizations nearing 400\n",
+      "url": "https://www.kpbs.org/news/local/2022/07/14/san-diego-countys-covid-19-hospitalizations-nearing-400"
     },
     {
-      "text": "Kitty Alvarado",
-      "url": "https://www.kpbs.org/staff/kitty-alvarado"
+      "text": "City News Service",
+      "url": "https://www.kpbs.org/staff/city-news-service"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/local-animal-sanctuary-asks-for-help-to-save-exotic-animals-in-mexico"
+      "url": "https://www.kpbs.org/news/national/2022/07/14/over-the-counter-birth-control-pills-are-available-worldwide-the-u-s-may-be-next"
     },
     {
-      "text": "Local",
-      "url": "https://www.kpbs.org/news/local"
+      "text": "National",
+      "url": "https://www.kpbs.org/news/national"
     },
     {
-      "text": "Local animal sanctuary asks for help to save exotic animals in Mexico",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/local-animal-sanctuary-asks-for-help-to-save-exotic-animals-in-mexico"
-    },
-    {
-      "text": "John Carroll",
-      "url": "https://www.kpbs.org/staff/john-carroll"
+      "text": "Over-the-counter birth control pills are available worldwide. The U.S. may be next",
+      "url": "https://www.kpbs.org/news/national/2022/07/14/over-the-counter-birth-control-pills-are-available-worldwide-the-u-s-may-be-next"
     },
     {
       "text": "Featured Podcast\n                ",
@@ -10946,15 +11018,15 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/limited-number-of-monkeypox-vaccines-made-available-by-county"
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/mental-health-program-for-immigrants"
     },
     {
-      "text": "Limited number of monkeypox vaccines made available by county",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/limited-number-of-monkeypox-vaccines-made-available-by-county"
+      "text": "Mental health program for immigrants",
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/mental-health-program-for-immigrants"
     },
     {
       "text": "Read More",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/limited-number-of-monkeypox-vaccines-made-available-by-county"
+      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/mental-health-program-for-immigrants"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
@@ -10982,31 +11054,11 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/experts-rue-simple-steps-not-taken-before-latest-covid-surge"
+      "url": "https://www.kpbs.org/news/local/2022/07/14/average-san-diego-county-gas-price-falls-below-6-a-gallon"
     },
     {
-      "text": "Experts rue simple steps not taken before latest COVID surge",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/experts-rue-simple-steps-not-taken-before-latest-covid-surge"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/balboa-park-bike-lane-expansion-aims-to-curb-flooding-in-san-diego"
-    },
-    {
-      "text": "Balboa Park bike lane expansion aims to curb flooding in San Diego\n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/balboa-park-bike-lane-expansion-aims-to-curb-flooding-in-san-diego"
-    },
-    {
-      "text": "Crystal Niebla",
-      "url": "https://www.kpbs.org/staff/crystal-niebla"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/san-diego-based-aircraft-carrier-to-host-upcoming-college-basketball-game"
-    },
-    {
-      "text": "   San Diego-based aircraft carrier to host upcoming college basketball game",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/san-diego-based-aircraft-carrier-to-host-upcoming-college-basketball-game"
+      "text": "Average San Diego County gas price falls below $6 a gallon",
+      "url": "https://www.kpbs.org/news/local/2022/07/14/average-san-diego-county-gas-price-falls-below-6-a-gallon"
     },
     {
       "text": "City News Service",
@@ -11014,15 +11066,39 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/settlement-reached-in-lawsuit-over-protesters-cell-phone-seizure-by-san-diego-police-department"
+      "url": "https://www.kpbs.org/news/local/2022/07/14/san-diego-refugee-immigrant-mental-health-program-is-role-model-in-u-s"
     },
     {
-      "text": "Settlement reached in lawsuit over protester's cell phone seizure by San Diego Police Department",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/settlement-reached-in-lawsuit-over-protesters-cell-phone-seizure-by-san-diego-police-department"
+      "text": "San Diego refugee, immigrant mental health program is role model in US",
+      "url": "https://www.kpbs.org/news/local/2022/07/14/san-diego-refugee-immigrant-mental-health-program-is-role-model-in-u-s"
     },
     {
-      "text": "City News Service",
-      "url": "https://www.kpbs.org/staff/city-news-service"
+      "text": "Jacob Aere",
+      "url": "https://www.kpbs.org/staff/jacob-aere"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/07/13/hilton-san-diego-bayfront-workers-rally-with-local-leaders-for-fair-contract"
+    },
+    {
+      "text": "Hilton San Diego Bayfront workers rally with local leaders for \u2018fair contract\u2019",
+      "url": "https://www.kpbs.org/news/local/2022/07/13/hilton-san-diego-bayfront-workers-rally-with-local-leaders-for-fair-contract"
+    },
+    {
+      "text": "Jacob Aere",
+      "url": "https://www.kpbs.org/staff/jacob-aere"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/07/13/san-diegans-on-notice-water-rates-could-be-rising"
+    },
+    {
+      "text": "San Diegans on notice: Water rates could be rising",
+      "url": "https://www.kpbs.org/news/local/2022/07/13/san-diegans-on-notice-water-rates-could-be-rising"
+    },
+    {
+      "text": "Kitty Alvarado",
+      "url": "https://www.kpbs.org/staff/kitty-alvarado"
     },
     {
       "text": "National\n                ",
@@ -11030,39 +11106,39 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/07/13/a-rape-an-abortion-and-a-one-source-story-a-childs-ordeal-becomes-national-news"
+      "url": "https://www.kpbs.org/news/national/2022/07/14/a-hidden-self-portrait-of-van-gogh-has-been-discovered-heres-what-you-can-see-so-far"
     },
     {
       "text": "National",
       "url": "https://www.kpbs.org/news/national"
     },
     {
-      "text": "A rape, an abortion, and a one-source story: a child's ordeal becomes national news",
-      "url": "https://www.kpbs.org/news/national/2022/07/13/a-rape-an-abortion-and-a-one-source-story-a-childs-ordeal-becomes-national-news"
+      "text": "A hidden self-portrait of Van Gogh has been discovered. Here's what you can see so far",
+      "url": "https://www.kpbs.org/news/national/2022/07/14/a-hidden-self-portrait-of-van-gogh-has-been-discovered-heres-what-you-can-see-so-far"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/international/2022/07/13/the-visa-hurdle-why-conference-applicants-from-the-global-south-cant-always-clear-it"
+      "url": "https://www.kpbs.org/news/international/2022/07/14/italian-prime-minister-mario-draghi-offers-to-resign"
     },
     {
       "text": "International",
       "url": "https://www.kpbs.org/news/international"
     },
     {
-      "text": "The visa hurdle: Why conference applicants from the global south can't always clear it",
-      "url": "https://www.kpbs.org/news/international/2022/07/13/the-visa-hurdle-why-conference-applicants-from-the-global-south-cant-always-clear-it"
+      "text": "Italian Prime Minister Mario Draghi offers to resign",
+      "url": "https://www.kpbs.org/news/international/2022/07/14/italian-prime-minister-mario-draghi-offers-to-resign"
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/national/2022/07/13/explainer-whats-the-impact-of-euro-parity-with-the-dollar"
+      "url": "https://www.kpbs.org/news/national/2022/07/14/regina-carter-kenny-garrett-and-louis-hayes-named-2023-nea-jazz-masters"
     },
     {
       "text": "National",
       "url": "https://www.kpbs.org/news/national"
     },
     {
-      "text": "Explainer: What's the impact of euro parity with the dollar?",
-      "url": "https://www.kpbs.org/news/national/2022/07/13/explainer-whats-the-impact-of-euro-parity-with-the-dollar"
+      "text": "Regina Carter, Kenny Garrett and Louis Hayes named 2023 NEA Jazz Masters",
+      "url": "https://www.kpbs.org/news/national/2022/07/14/regina-carter-kenny-garrett-and-louis-hayes-named-2023-nea-jazz-masters"
     },
     {
       "text": "\n    \n        \n            \n                \n                    \n                        \n\n\n\n    \n\n\n\n                    \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
@@ -11126,27 +11202,27 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/2022/06/22/the-green-planet"
+      "url": "https://www.kpbs.org/news/arts-culture/2020/04/15/san-diegos-historic-places-heritage-park-victorian"
     },
     {
-      "text": "THE GREEN PLANET",
-      "url": "https://www.kpbs.org/news/2022/06/22/the-green-planet"
+      "text": "SAN DIEGO\u2019S HISTORIC PLACES: Heritage Park Victorians",
+      "url": "https://www.kpbs.org/news/arts-culture/2020/04/15/san-diegos-historic-places-heritage-park-victorian"
     },
     {
-      "text": "NOVA: Ultimate Space Telescope",
-      "url": "https://www.kpbs.org/news/2022/07/07/nova-ultimate-space-telescope"
+      "text": "CROSSING SOUTH: Schools for Refugees & ABC Pizza ",
+      "url": "https://www.kpbs.org/news/2022/05/04/crossing-south-schools-for-refugees-abc-pizza"
     },
     {
-      "text": "EXPEDITION WITH STEVE BACKSHALL: Season 2",
-      "url": "https://www.kpbs.org/news/2022/07/01/expedition-with-steve-backshall-season-2"
+      "text": "MIDSOMER MURDERS: Season 19 ",
+      "url": "https://www.kpbs.org/news/arts-culture/2021/06/08/midsomer-murders-season-19"
     },
     {
-      "text": "FOOD - DELICIOUS SCIENCE",
-      "url": "https://www.kpbs.org/news/arts-culture/2017/05/12/food-delicious-science"
+      "text": "FRONTLINE: Pandora Papers and Massacre in El Salvador",
+      "url": "https://www.kpbs.org/news/2021/11/08/frontline-pandora-papers-and-massacre-in-el-salvador"
     },
     {
-      "text": "SECRETS OF THE DEAD: Bombing Auschwitz",
-      "url": "https://www.kpbs.org/news/arts-culture/2020/01/16/secrets-dead-bombing-auschwitz"
+      "text": "GZERO WORLD WITH IAN BREMMER: Democracy's Global Decline ",
+      "url": "https://www.kpbs.org/news/2022/07/11/gzero-world-with-ian-bremmer-democracys-global-decline"
     },
     {
       "text": "Community Events\n                ",
@@ -11162,27 +11238,27 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/events/ongoing/pride-block-party"
+    },
+    {
+      "text": "Pride Block Party",
+      "url": "https://www.kpbs.org/events/ongoing/pride-block-party"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/events/ongoing/sun-sea-festival-2022"
+    },
+    {
+      "text": "Sun & Sea Festival 2022",
+      "url": "https://www.kpbs.org/events/ongoing/sun-sea-festival-2022"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
       "url": "https://www.kpbs.org/events/2022/07/16/mos-kpop-summer-beach-fest-2022"
     },
     {
       "text": "Mo\u2019s Kpop Summer Beach Fest 2022",
       "url": "https://www.kpbs.org/events/2022/07/16/mos-kpop-summer-beach-fest-2022"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/events/2022/07/16/san-diego-international-mariachi-summit-gala-concert"
-    },
-    {
-      "text": "San Diego International Mariachi Summit Gala Concert",
-      "url": "https://www.kpbs.org/events/2022/07/16/san-diego-international-mariachi-summit-gala-concert"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/events/2022/07/17/pawmicon-2022"
-    },
-    {
-      "text": "Pawmicon 2022",
-      "url": "https://www.kpbs.org/events/2022/07/17/pawmicon-2022"
     },
     {
       "text": "Investigations\n                ",
@@ -11226,7 +11302,15 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/yosemite-wildfire-threatens-grove-of-iconic-sequoia-trees"
+      "url": "https://www.kpbs.org/news/local/2022/07/13/local-animal-sanctuary-asks-for-help-to-save-exotic-animals-in-mexico"
+    },
+    {
+      "text": "Local animal sanctuary asks for help to save exotic animals in Mexico",
+      "url": "https://www.kpbs.org/news/local/2022/07/13/local-animal-sanctuary-asks-for-help-to-save-exotic-animals-in-mexico"
+    },
+    {
+      "text": "Experts rue simple steps not taken before latest COVID surge",
+      "url": "https://www.kpbs.org/news/local/2022/07/13/experts-rue-simple-steps-not-taken-before-latest-covid-surge"
     },
     {
       "text": "Yosemite wildfire threatens grove of iconic sequoia trees",
@@ -11235,14 +11319,6 @@
     {
       "text": "Asylum wait lists at US border frustrate, confuse migrants",
       "url": "https://www.kpbs.org/news/local/2022/07/13/asylum-wait-lists-at-us-border-frustrate-confuse-migrants"
-    },
-    {
-      "text": "Abortion pills will soon be available on California campuses",
-      "url": "https://www.kpbs.org/news/local/2022/07/13/abortion-pills-will-soon-be-available-on-california-campuses"
-    },
-    {
-      "text": "In Michigan, the future of abortion rights could soon be up to voters",
-      "url": "https://www.kpbs.org/news/national/2022/07/13/in-michigan-the-future-of-abortion-rights-could-soon-be-up-to-voters"
     },
     {
       "text": "Evening Edition\n                    ",
@@ -11258,6 +11334,18 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/limited-number-of-monkeypox-vaccines-made-available-by-county"
+    },
+    {
+      "text": "Limited number of monkeypox vaccines made available by county",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/limited-number-of-monkeypox-vaccines-made-available-by-county"
+    },
+    {
+      "text": "Read More",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/limited-number-of-monkeypox-vaccines-made-available-by-county"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
       "url": "https://www.kpbs.org/podcasts/san-diego-news-now/college-grads-leave-san-diego"
     },
     {
@@ -11267,18 +11355,6 @@
     {
       "text": "Read More",
       "url": "https://www.kpbs.org/podcasts/san-diego-news-now/college-grads-leave-san-diego"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/podcasts/the-parker-edison-project/healthy-mental"
-    },
-    {
-      "text": "Healthy Mental",
-      "url": "https://www.kpbs.org/podcasts/the-parker-edison-project/healthy-mental"
-    },
-    {
-      "text": "Read More",
-      "url": "https://www.kpbs.org/podcasts/the-parker-edison-project/healthy-mental"
     },
     {
       "text": "Environment\n                ",
@@ -11310,6 +11386,14 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/07/13/san-diego-based-aircraft-carrier-to-host-upcoming-college-basketball-game"
+    },
+    {
+      "text": "   San Diego-based aircraft carrier to host upcoming college basketball game",
+      "url": "https://www.kpbs.org/news/local/2022/07/13/san-diego-based-aircraft-carrier-to-host-upcoming-college-basketball-game"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
       "url": "https://www.kpbs.org/news/local/2022/07/12/sailor-died-aboard-aircraft-carrier-nas-north-island-identified"
     },
     {
@@ -11323,14 +11407,6 @@
     {
       "text": "House Committee hears about hunger among troops and veterans in San Diego",
       "url": "https://www.kpbs.org/news/local/2022/07/11/house-committee-hears-about-hunger-among-troops-and-veterans-in-san-diego"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/11/report-young-servicemen-nearly-twice-as-likely-to-die-by-suicide-as-civilian-counterparts"
-    },
-    {
-      "text": "Report: Young servicemen nearly twice as likely to die by suicide as civilian counterparts",
-      "url": "https://www.kpbs.org/news/local/2022/07/11/report-young-servicemen-nearly-twice-as-likely-to-die-by-suicide-as-civilian-counterparts"
     },
     {
       "text": "Politics\n                ",
@@ -11362,6 +11438,14 @@
     },
     {
       "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
+      "url": "https://www.kpbs.org/news/local/2022/07/13/settlement-reached-in-lawsuit-over-protesters-cell-phone-seizure-by-san-diego-police-department"
+    },
+    {
+      "text": "Settlement reached in lawsuit over protester's cell phone seizure by San Diego Police Department",
+      "url": "https://www.kpbs.org/news/local/2022/07/13/settlement-reached-in-lawsuit-over-protesters-cell-phone-seizure-by-san-diego-police-department"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
       "url": "https://www.kpbs.org/news/local/2022/07/12/worries-surrounding-new-highly-transmissible-covid-variants-as-public-events-take-place"
     },
     {
@@ -11375,14 +11459,6 @@
     {
       "text": "California blocks gun sales to those at risk of breaking law",
       "url": "https://www.kpbs.org/news/local/2022/07/12/california-blocks-gun-sales-to-those-at-risk-of-breaking-law"
-    },
-    {
-      "text": "\n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n\n                \n\n                \n\n            \n        \n    \n\n",
-      "url": "https://www.kpbs.org/news/local/2022/07/12/ex-marine-convicted-of-murder-in-2019-north-county-dui-crash"
-    },
-    {
-      "text": "Ex-Marine convicted of murder in 2019 North County DUI crash",
-      "url": "https://www.kpbs.org/news/local/2022/07/12/ex-marine-convicted-of-murder-in-2019-north-county-dui-crash"
     },
     {
       "text": "\n    \n        \n    \n        \n            \n                \n            \n\n            \n                \n                    \n\n\n\n                \n\n                \n\n            \n        \n    \n\n\n    \n    ",
@@ -11497,10 +11573,10 @@
     "publicdate": "2022-03-24 02:06:19",
     "addeddate": "2022-03-24 02:06:19"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 652942324,
+  "server": "ia902500.us.archive.org",
+  "uniq": 35714200,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

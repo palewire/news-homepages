@@ -1,5 +1,5 @@
 {
-  "created": 1657779997,
+  "created": 1657820495,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nydailynews-2022",
@@ -952,31 +952,73 @@
       "sha1": "ac9d0b561c829ffb7ad335bbdc64e13309e21d0f"
     },
     {
+      "name": "nydailynews-2022-07-14T11:46:56.104101-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657813618",
+      "size": "77066",
+      "md5": "461b05e26f7c79f33a41dc90f0c4130c",
+      "crc32": "f92099cb",
+      "sha1": "dd6a5fc1aae7ea538580750ae87e51919db2a2e0",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-07-14T11:46:56.104101-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657813620",
+      "size": "127138",
+      "md5": "772c47a2e2b0481ee21e22a194bd93cf",
+      "crc32": "6813b0b6",
+      "sha1": "5666c49392745d20ba1b77658c0e0a67c7c5eef9",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-07-14T11:46:56.104101-04:00.jpg",
+      "source": "original",
+      "mtime": "1657813617",
+      "size": "278176",
+      "md5": "9a8c0a2f555a200619838ed4bc810bdb",
+      "crc32": "73d1880e",
+      "sha1": "d6c1c1307274f76d579df5356f3573bc2adeef1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nydailynews-2022-07-14T11:46:56.104101-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nydailynews-2022-07-14T11:46:56.104101-04:00.jpg",
+      "mtime": "1657813669",
+      "size": "9549",
+      "md5": "30641a4dfba3b4f11285cf03b328dbe3",
+      "crc32": "92da949d",
+      "sha1": "e8ad2cb180f0884305a7c8a70920207631c86b0e"
+    },
+    {
       "name": "nydailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9ca1f0e9e68061b628a84ed8f073ec411fb77e42",
-      "mtime": "1657769177",
-      "size": "20753",
-      "md5": "8e1a149587d0fe2949f6faa96b3e9b0b",
-      "crc32": "de88337e",
-      "sha1": "040701577d7ef0a6b11fcb411798c5c337c3d258",
+      "btih": "8266e9f9d10a3be763737048ecd756c8a1747115",
+      "mtime": "1657813672",
+      "size": "21615",
+      "md5": "8d41c803c2d4b7267624b4cb68ba4cbb",
+      "crc32": "8136123e",
+      "sha1": "21c22301e3ee05785d73df317ed9f85709258f8e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nydailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "183df4f53c047a140b98cef044bd49a9",
+      "md5": "f5974e6a39e43558113c39655875fbff",
       "summation": "md5"
     },
     {
       "name": "nydailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657769118",
-      "size": "126976",
-      "md5": "2f7402d040a0fd0165aa2f0caa2cb99f",
-      "crc32": "0ecb6aa8",
-      "sha1": "dd3495511403191e5afd978a88eb47d5b1fb7a0a",
+      "mtime": "1657813623",
+      "size": "131072",
+      "md5": "4578d622abdbfe022a14672a4a4c58d3",
+      "crc32": "f79a8a25",
+      "sha1": "523b64dfa4ede3264c03774dd7bad0baa3226203",
       "format": "Metadata"
     },
     {
@@ -990,9 +1032,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 94,
-  "item_last_updated": 1657769177,
-  "item_size": 10084093,
+  "files_count": 98,
+  "item_last_updated": 1657813672,
+  "item_size": 10580980,
   "metadata": {
     "identifier": "nydailynews-2022",
     "collection": [
@@ -1009,10 +1051,10 @@
     "publicdate": "2022-07-04 21:50:33",
     "addeddate": "2022-07-04 21:50:33"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1389661645,
+  "server": "ia801501.us.archive.org",
+  "uniq": 419264004,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }
