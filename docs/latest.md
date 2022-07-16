@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 429 news sites.
+The most recent homepages captured from 436 news sites.
 
 <div class="latest-parent">
 
@@ -1466,6 +1466,15 @@ The most recent homepages captured from 429 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gazetaru.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gazetaru.jpg"
+     alt="Gazeta.Ru"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/gazetaru.html">Gazeta.Ru</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/gigharbornow.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gigharbornow.jpg"
      alt="Gig Harbor Now"
@@ -1706,6 +1715,15 @@ The most recent homepages captured from 429 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/iowapublicradio.html">Iowa Public Radio</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/izvestia_ru.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/izvestia_ru.jpg"
+     alt="Izvestia"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/izvestia_ru.html">Izvestia</a></p>
 </div>
 
 <div class="latest-child">
@@ -2075,6 +2093,15 @@ The most recent homepages captured from 429 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/thelensnola.html">Lens</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lentaruofficial.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lentaruofficial.jpg"
+     alt="Lenta.ru"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/lentaruofficial.html">Lenta.ru</a></p>
 </div>
 
 <div class="latest-child">
@@ -2528,6 +2555,15 @@ The most recent homepages captured from 429 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/novayagazeta_eu.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/novayagazeta_eu.jpg"
+     alt="Novaya Gazeta"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/novayagazeta_eu.html">Novaya Gazeta</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/npr.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/npr.jpg"
      alt="NPR"
@@ -2978,6 +3014,15 @@ The most recent homepages captured from 429 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/rt_com.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rt_com.jpg"
+     alt="RT"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/rt_com.html">RT</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/sacbee_news.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sacbee_news.jpg"
      alt="Sacramento Bee"
@@ -3212,6 +3257,15 @@ The most recent homepages captured from 429 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sputnikint.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sputnikint.jpg"
+     alt="Sputnik"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/sputnikint.html">Sputnik</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/newspressnow.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newspressnow.jpg"
      alt="St. Joseph News Press"
@@ -3263,6 +3317,15 @@ The most recent homepages captured from 429 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/sltimes.html">Storm Lake Times</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/tass_agency.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tass_agency.jpg"
+     alt="TASS"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/tass_agency.html">TASS</a></p>
 </div>
 
 <div class="latest-child">

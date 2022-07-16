@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 29 bundles of sites.
+The archiving routine is currently organized into 30 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -26,6 +26,7 @@ The archiving routine is currently organized into 29 bundles of sites.
 |[North Carolina](https://palewi.re/docs/news-homepages/bundles/north-carolina.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/north-carolina.xml)|
 |[Oregon](https://palewi.re/docs/news-homepages/bundles/oregon.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/oregon.xml)|
 |[Philadelphia](https://palewi.re/docs/news-homepages/bundles/philadelphia.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/philadelphia.xml)|
+|[Russia](https://palewi.re/docs/news-homepages/bundles/russia.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/russia.xml)|
 |[Scotland](https://palewi.re/docs/news-homepages/bundles/scotland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/scotland.xml)|
 |[Southern California](https://palewi.re/docs/news-homepages/bundles/socal.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/socal.xml)|
 |[Sports](https://palewi.re/docs/news-homepages/bundles/sports.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/sports.xml)|

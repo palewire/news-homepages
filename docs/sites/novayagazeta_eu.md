@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Novaya Gazeta
+
+![Novaya Gazeta](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/novayagazeta_eu.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://novayagazeta.eu/](https://novayagazeta.eu/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/novayagazeta_eu.xml) |
+| Twitter handle | [@novayagazeta_eu](https://www.twitter.com/novayagazeta_eu)                     |
+| Location       | Moscow                                                                 |
+| Timezone       | Europe/Moscow                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |
