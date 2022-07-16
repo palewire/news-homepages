@@ -77,7 +77,7 @@ def cli(archive_json):
                 "elements": [
                     {
                         "type": "mrkdwn",
-                        "text": ":rolled_up_newspaper: Archived by <https://palewi.re/who-is-ben-welsh/|Ben Welsh’s> <https://homepages.news|homepages.news>",
+                        "text": ":rolled_up_newspaper: Archived by <https://palewi.re/who-is-ben-welsh/|Ben Welsh's> <https://homepages.news|homepages.news>",
                     },
                     {
                         "type": "mrkdwn",
@@ -105,6 +105,10 @@ def cli(archive_json):
         click.echo("Payload")
         click.echo("================")
         click.echo(json.dumps(payload, indent=4))
+        click.echo("\n\n")
+        click.echo("Response")
+        click.echo("================")
+        click.echo(r.text)
         sys.exit(1)
 
 
