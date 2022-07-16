@@ -10,7 +10,7 @@
 
 ## Installation
 
-Fork the repository and clone it. Move into the code directory and install the Python dependencies.
+Fork the [palewire/news-homepages](https://github.com/palewire/news-homepages) repository on GitHub and clone it on your computer. Move into the code directory and install the Python dependencies.
 
 ```bash
 pipenv install --dev
