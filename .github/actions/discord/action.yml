@@ -12,6 +12,10 @@ inputs:
 runs:
   using: "composite"
   steps:
+    - id: install
+      name: Install Python dependencies
+      uses: ./.github/actions/install
+
     - uses: actions/download-artifact@v3
       with:
         name: mosaics
