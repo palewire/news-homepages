@@ -95,7 +95,9 @@ def cli(archive_json):
     # Post to Slack
     r = requests.post(url, json=payload)
 
-    print(r.text)
+    # Make sure it went okay
+    assert r.status_code == 200
+    assert r.text == "ok"
 
 
 if __name__ == "__main__":
