@@ -1,5 +1,5 @@
 {
-  "created": 1657933111,
+  "created": 1657973709,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/18/items/protocol-2022",
@@ -1486,31 +1486,73 @@
       "sha1": "7a353edd0ee7d2328cf45bbfceb0b564dde7c9b3"
     },
     {
+      "name": "protocol-2022-07-15T20:20:39.271725-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657941643",
+      "size": "13552",
+      "md5": "25143c25ccd39e2ca664aca5cfb9bf2b",
+      "crc32": "038e1b1d",
+      "sha1": "688e6b90b4c3863b5874a75c1b2900c4f77e330c",
+      "format": "JSON"
+    },
+    {
+      "name": "protocol-2022-07-15T20:20:39.271725-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657941644",
+      "size": "32464",
+      "md5": "71958d112a6fd532ab01c524a62b8367",
+      "crc32": "918d9256",
+      "sha1": "07acbaa72dcaeae7e8f63c2add6c0aa4c99e77d8",
+      "format": "JSON"
+    },
+    {
+      "name": "protocol-2022-07-15T20:20:39.271725-07:00.jpg",
+      "source": "original",
+      "mtime": "1657941641",
+      "size": "197297",
+      "md5": "46a7d22b46b28bc908a22c8d9fe3cb8d",
+      "crc32": "fa96ec5c",
+      "sha1": "9a77eb394681c429124a18e9f77dda7bfecd9fce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "protocol-2022-07-15T20:20:39.271725-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "protocol-2022-07-15T20:20:39.271725-07:00.jpg",
+      "mtime": "1657942997",
+      "size": "9563",
+      "md5": "bb30a732a0bfbfca23c0c62a34051b6d",
+      "crc32": "bc4d2747",
+      "sha1": "184a13bc9fa9fcdaaa306cad6689ca5a57bc8ce1"
+    },
+    {
       "name": "protocol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3f3c02c261f262eda82b3de6a93f32034e9fe071",
-      "mtime": "1657914123",
-      "size": "30986",
-      "md5": "70c4694661ecff4c7523e944d25d2599",
-      "crc32": "3affa9f9",
-      "sha1": "9476b57a1b43e23b4ea079eb14f43a4568aa0b5b",
+      "btih": "d29001852935eb145e596c24bc6342d20cf320be",
+      "mtime": "1657943002",
+      "size": "31815",
+      "md5": "ea8063922f65cf0c65f046a59898eb54",
+      "crc32": "debb185b",
+      "sha1": "dea6e9b13b9bf8309e3bf1e3f3a01ac820149e13",
       "format": "Archive BitTorrent"
     },
     {
       "name": "protocol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d914b5b8be9426d5ebb802113f1d349b",
+      "md5": "c99de8768228643d53aba43076636b62",
       "summation": "md5"
     },
     {
       "name": "protocol-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657909288",
-      "size": "180224",
-      "md5": "4b129a46c452e5471af2e7a4f42732ee",
-      "crc32": "9ebd7082",
-      "sha1": "37712ad6e2113cdafaa0c2c2c78070b13f4102b2",
+      "mtime": "1657941651",
+      "size": "184320",
+      "md5": "4c4c14b91ba97e28198070948a30bf9a",
+      "crc32": "b05d8f3e",
+      "sha1": "9c8574125718b318e79a6da3d9becf8a95d93040",
       "format": "Metadata"
     },
     {
@@ -1524,9 +1566,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 145,
-  "item_last_updated": 1657914123,
-  "item_size": 8964295,
+  "files_count": 149,
+  "item_last_updated": 1657943002,
+  "item_size": 9222096,
   "metadata": {
     "identifier": "protocol-2022",
     "collection": [
@@ -2221,22 +2263,6 @@
       "url": "/tag/didi"
     },
     {
-      "text": "Braintrust",
-      "url": "/braintrust/"
-    },
-    {
-      "text": "Power Index",
-      "url": "/power-index/"
-    },
-    {
-      "text": "Special Reports",
-      "url": "/manuals/"
-    },
-    {
-      "text": "Bulletins",
-      "url": "/bulletins/"
-    },
-    {
       "text": "Climate",
       "url": "/climate/"
     },
@@ -2249,16 +2275,36 @@
       "url": "/tag/sustainability"
     },
     {
+      "text": "Bulletins",
+      "url": "/bulletins/"
+    },
+    {
+      "text": "Power Index",
+      "url": "/power-index/"
+    },
+    {
+      "text": "Braintrust",
+      "url": "/braintrust/"
+    },
+    {
+      "text": "Special Reports",
+      "url": "/manuals/"
+    },
+    {
       "text": "Events",
       "url": "/events/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/podcasts/source-code/"
     },
     {
       "text": "Tech Calendar",
       "url": "/tech-calendar-events-product-releases"
     },
     {
-      "text": "Podcast",
-      "url": "/podcasts/source-code/"
+      "text": "\n  Sign In\n",
+      "url": "/st/account"
     },
     {
       "text": "About Protocol",
@@ -2269,108 +2315,100 @@
       "url": "/careers/"
     },
     {
-      "text": "\n  Sign In\n",
-      "url": "/st/account"
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/bulletins/twitter-musk-shareholder-vote"
+    },
+    {
+      "text": "deals",
+      "url": "/tag/deals"
+    },
+    {
+      "text": "Bulletins",
+      "url": "https://www.protocol.com/bulletins/"
+    },
+    {
+      "text": "\n        Twitter to shareholders: Ignore that Musk lawsuit!\n    ",
+      "url": "https://www.protocol.com/bulletins/twitter-musk-shareholder-vote"
+    },
+    {
+      "text": "Owen Thomas",
+      "url": "https://www.protocol.com/u/owen"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/entertainment/sony-nfts-gaming-playstation-stars"
+      "url": "https://www.protocol.com/fintech/crypto-bankruptcy-voyager-celsius"
     },
     {
-      "text": "Protocol Entertainment",
-      "url": "https://www.protocol.com/newsletters/entertainment/"
+      "text": "cryptocurrency",
+      "url": "/tag/cryptocurrency"
     },
     {
-      "text": "\n        To the game industry, NFTs are already dead\n    ",
-      "url": "https://www.protocol.com/newsletters/entertainment/sony-nfts-gaming-playstation-stars"
+      "text": "Fintech",
+      "url": "https://www.protocol.com/fintech/"
     },
     {
-      "text": "Nick Statt",
-      "url": "https://www.protocol.com/u/nick"
-    },
-    {
-      "text": "Janko Roettgers",
-      "url": "https://www.protocol.com/u/jankoroettgers"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/policy/usica-timeline-midterms"
-    },
-    {
-      "text": "Protocol Policy",
-      "url": "https://www.protocol.com/newsletters/policy/"
-    },
-    {
-      "text": "\n        The not-so-mysterious case of Democrats\u2019 shrinking tech agenda\n    ",
-      "url": "https://www.protocol.com/newsletters/policy/usica-timeline-midterms"
-    },
-    {
-      "text": "Hirsh Chitkara",
-      "url": "https://www.protocol.com/u/hirshchitkara"
-    },
-    {
-      "text": "Ben Brody",
-      "url": "https://www.protocol.com/u/ben"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/enterprise/twilio-jeff-lawson-profits-stock"
-    },
-    {
-      "text": "Enterprise",
-      "url": "https://www.protocol.com/enterprise/"
-    },
-    {
-      "text": "\n        How Twilio CEO Jeff Lawson is balancing profits against growth\n    ",
-      "url": "https://www.protocol.com/enterprise/twilio-jeff-lawson-profits-stock"
-    },
-    {
-      "text": "Aisha Counts",
-      "url": "https://www.protocol.com/u/aishacounts"
-    },
-    {
-      "text": "Joe Williams",
-      "url": "https://www.protocol.com/u/joewilliams"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/entertainment/what-to-watch-july-15"
-    },
-    {
-      "text": "#content",
-      "url": "/tag/content"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://www.protocol.com/entertainment/"
-    },
-    {
-      "text": "\n        'Abbott Elementary' is a perfect summer show, and more weekend recs\n    ",
-      "url": "https://www.protocol.com/entertainment/what-to-watch-july-15"
-    },
-    {
-      "text": "Janko Roettgers",
-      "url": "https://www.protocol.com/u/jankoroettgers"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/crypto-bankruptcy-questions"
-    },
-    {
-      "text": "Protocol Fintech",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/"
-    },
-    {
-      "text": "\n        Crypto is facing down the bankruptcy question\n    ",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/crypto-bankruptcy-questions"
+      "text": "\n        Crypto bankruptcy plunges the industry into uncharted territory\n    ",
+      "url": "https://www.protocol.com/fintech/crypto-bankruptcy-voyager-celsius"
     },
     {
       "text": "Ryan Deffenbaugh",
       "url": "https://www.protocol.com/u/ryandeffenbaugh"
     },
     {
-      "text": "the Fintech team",
-      "url": "https://www.protocol.com/u/protocolfintechteam"
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/newsletters/protocol-enterprise/twilio-jeff-lawson-matt-hicks"
+    },
+    {
+      "text": "Protocol Enterprise",
+      "url": "https://www.protocol.com/newsletters/protocol-enterprise/"
+    },
+    {
+      "text": "\n        Welcome to your first bear market!\n    ",
+      "url": "https://www.protocol.com/newsletters/protocol-enterprise/twilio-jeff-lawson-matt-hicks"
+    },
+    {
+      "text": "the Enterprise team",
+      "url": "https://www.protocol.com/u/enterprisestaff"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/bulletins/russia-ban-crypto-payments"
+    },
+    {
+      "text": "cryptocurrency",
+      "url": "/tag/cryptocurrency"
+    },
+    {
+      "text": "Bulletins",
+      "url": "https://www.protocol.com/bulletins/"
+    },
+    {
+      "text": "\n        Russia is banning crypto payments\n    ",
+      "url": "https://www.protocol.com/bulletins/russia-ban-crypto-payments"
+    },
+    {
+      "text": "Lindsey Choo",
+      "url": "https://www.protocol.com/u/lindseychoo"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/bulletins/congress-democrats-crypto-mining-climate"
+    },
+    {
+      "text": "crypto mining",
+      "url": "/tag/crypto-mining"
+    },
+    {
+      "text": "Bulletins",
+      "url": "https://www.protocol.com/bulletins/"
+    },
+    {
+      "text": "\n        Democrats release 'disturbing' crypto mining investigation\n    ",
+      "url": "https://www.protocol.com/bulletins/congress-democrats-crypto-mining-climate"
+    },
+    {
+      "text": "Brian Kahn",
+      "url": "https://www.protocol.com/u/briankahn"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
@@ -2474,6 +2512,126 @@
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/newsletters/entertainment/sony-nfts-gaming-playstation-stars"
+    },
+    {
+      "text": "Protocol Entertainment",
+      "url": "https://www.protocol.com/newsletters/entertainment/"
+    },
+    {
+      "text": "\n        To the game industry, NFTs are already dead\n    ",
+      "url": "https://www.protocol.com/newsletters/entertainment/sony-nfts-gaming-playstation-stars"
+    },
+    {
+      "text": "Nick Statt",
+      "url": "https://www.protocol.com/u/nick"
+    },
+    {
+      "text": "Janko Roettgers",
+      "url": "https://www.protocol.com/u/jankoroettgers"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/fintech/polygon-antoni-martin-crypto"
+    },
+    {
+      "text": "cryptocurrency",
+      "url": "/tag/cryptocurrency"
+    },
+    {
+      "text": "Fintech",
+      "url": "https://www.protocol.com/fintech/"
+    },
+    {
+      "text": "\n        Crypto winter is the time to build, a Polygon co-founder says\n    ",
+      "url": "https://www.protocol.com/fintech/polygon-antoni-martin-crypto"
+    },
+    {
+      "text": "Lindsey Choo",
+      "url": "https://www.protocol.com/u/lindseychoo"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/newsletters/policy/usica-timeline-midterms"
+    },
+    {
+      "text": "Protocol Policy",
+      "url": "https://www.protocol.com/newsletters/policy/"
+    },
+    {
+      "text": "\n        The not-so-mysterious case of Democrats\u2019 shrinking tech agenda\n    ",
+      "url": "https://www.protocol.com/newsletters/policy/usica-timeline-midterms"
+    },
+    {
+      "text": "Hirsh Chitkara",
+      "url": "https://www.protocol.com/u/hirshchitkara"
+    },
+    {
+      "text": "Ben Brody",
+      "url": "https://www.protocol.com/u/ben"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/enterprise/twilio-jeff-lawson-profits-stock"
+    },
+    {
+      "text": "Enterprise",
+      "url": "https://www.protocol.com/enterprise/"
+    },
+    {
+      "text": "\n        How Twilio CEO Jeff Lawson is balancing profits against growth\n    ",
+      "url": "https://www.protocol.com/enterprise/twilio-jeff-lawson-profits-stock"
+    },
+    {
+      "text": "Aisha Counts",
+      "url": "https://www.protocol.com/u/aishacounts"
+    },
+    {
+      "text": "Joe Williams",
+      "url": "https://www.protocol.com/u/joewilliams"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/entertainment/what-to-watch-july-15"
+    },
+    {
+      "text": "#content",
+      "url": "/tag/content"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.protocol.com/entertainment/"
+    },
+    {
+      "text": "\n        'Abbott Elementary' is a perfect summer show, and more weekend recs\n    ",
+      "url": "https://www.protocol.com/entertainment/what-to-watch-july-15"
+    },
+    {
+      "text": "Janko Roettgers",
+      "url": "https://www.protocol.com/u/jankoroettgers"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
+      "url": "https://www.protocol.com/newsletters/protocol-fintech/crypto-bankruptcy-questions"
+    },
+    {
+      "text": "Protocol Fintech",
+      "url": "https://www.protocol.com/newsletters/protocol-fintech/"
+    },
+    {
+      "text": "\n        Crypto is facing down the bankruptcy question\n    ",
+      "url": "https://www.protocol.com/newsletters/protocol-fintech/crypto-bankruptcy-questions"
+    },
+    {
+      "text": "Ryan Deffenbaugh",
+      "url": "https://www.protocol.com/u/ryandeffenbaugh"
+    },
+    {
+      "text": "the Fintech team",
+      "url": "https://www.protocol.com/u/protocolfintechteam"
+    },
+    {
+      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
       "url": "https://www.protocol.com/newsletters/sourcecode/tech-earnings-preview"
     },
     {
@@ -2491,26 +2649,6 @@
     {
       "text": "Nat Rubio-Licht",
       "url": "https://www.protocol.com/u/natrubio-licht"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/fintech/crypto-bankruptcy-voyager-celsius"
-    },
-    {
-      "text": "cryptocurrency",
-      "url": "/tag/cryptocurrency"
-    },
-    {
-      "text": "Fintech",
-      "url": "https://www.protocol.com/fintech/"
-    },
-    {
-      "text": "\n        Crypto bankruptcy plunges the industry into uncharted territory\n    ",
-      "url": "https://www.protocol.com/fintech/crypto-bankruptcy-voyager-celsius"
-    },
-    {
-      "text": "Ryan Deffenbaugh",
-      "url": "https://www.protocol.com/u/ryandeffenbaugh"
     },
     {
       "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
@@ -2543,94 +2681,6 @@
     {
       "text": "the Enterprise team",
       "url": "https://www.protocol.com/u/enterprisestaff"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/bulletins/cerner-oracle-tech-va"
-    },
-    {
-      "text": "Bulletins",
-      "url": "https://www.protocol.com/bulletins/"
-    },
-    {
-      "text": "\n        Cerner tech glitches prevented a suicidal vet from getting help\n    ",
-      "url": "https://www.protocol.com/bulletins/cerner-oracle-tech-va"
-    },
-    {
-      "text": "Kate Kaye",
-      "url": "https://www.protocol.com/u/katekaye"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/bulletins/gm-ev-charging-network-evgo"
-    },
-    {
-      "text": "Bulletins",
-      "url": "https://www.protocol.com/bulletins/"
-    },
-    {
-      "text": "\n        GM gives interstate EV charging a huge boost\n    ",
-      "url": "https://www.protocol.com/bulletins/gm-ev-charging-network-evgo"
-    },
-    {
-      "text": "Lisa Martine Jenkins",
-      "url": "https://www.protocol.com/u/lisa_martine_jenkins"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/climate/granholm-critical-minerals-china-taiwan"
-    },
-    {
-      "text": "Protocol Climate",
-      "url": "https://www.protocol.com/newsletters/climate/"
-    },
-    {
-      "text": "\n        Critical minerals could become a geopolitical weapon\n    ",
-      "url": "https://www.protocol.com/newsletters/climate/granholm-critical-minerals-china-taiwan"
-    },
-    {
-      "text": "Lisa Martine Jenkins",
-      "url": "https://www.protocol.com/u/lisa_martine_jenkins"
-    },
-    {
-      "text": "Brian Kahn",
-      "url": "https://www.protocol.com/u/briankahn"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/defi-hacks-crypto"
-    },
-    {
-      "text": "Protocol Fintech",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/"
-    },
-    {
-      "text": "\n        DeFi hacks aren\u2019t going away\n    ",
-      "url": "https://www.protocol.com/newsletters/protocol-fintech/defi-hacks-crypto"
-    },
-    {
-      "text": "Lindsey Choo",
-      "url": "https://www.protocol.com/u/lindseychoo"
-    },
-    {
-      "text": "the Fintech team",
-      "url": "https://www.protocol.com/u/protocolfintechteam"
-    },
-    {
-      "text": "\n                                        \n                                        \n                                            \n                                        \n                                        \n                                    \n                            ",
-      "url": "https://www.protocol.com/workplace/scribe-tango-company-wiki-onboard"
-    },
-    {
-      "text": "Workplace",
-      "url": "https://www.protocol.com/workplace/"
-    },
-    {
-      "text": "\n        Train your remote workers with these ridiculously easy-to-use tools\n    ",
-      "url": "https://www.protocol.com/workplace/scribe-tango-company-wiki-onboard"
-    },
-    {
-      "text": "Lizzy Lawrence",
-      "url": "https://www.protocol.com/u/lizzylawrence"
     },
     {
       "text": "",
@@ -2706,7 +2756,7 @@
     }
   ],
   "server": "ia802507.us.archive.org",
-  "uniq": 308944427,
+  "uniq": 1399958486,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

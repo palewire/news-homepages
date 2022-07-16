@@ -1,5 +1,5 @@
 {
-  "created": 1657933010,
+  "created": 1657943020,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/2/items/nhk_news-2022",
@@ -890,31 +890,95 @@
       "sha1": "b60109f603feeb69803e9b25630e0118bbe7dbd3"
     },
     {
+      "name": "nhk_news-2022-07-16T10:32:48.017551+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657935183",
+      "size": "16663",
+      "md5": "200022642464fe8191e37a74547154f1",
+      "crc32": "90e37497",
+      "sha1": "041d2c46fa8711b02151613411fd26f305a8fcf6",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-07-16T10:32:48.017551+09:00.jpg",
+      "source": "original",
+      "mtime": "1657935176",
+      "size": "278357",
+      "md5": "e78b5fd63b666e9fc09e09892bc29c49",
+      "crc32": "a533aece",
+      "sha1": "84add2ce184829d5e25ff4462541aad3b7adc60d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhk_news-2022-07-16T10:32:48.017551+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhk_news-2022-07-16T10:32:48.017551+09:00.jpg",
+      "mtime": "1657938831",
+      "size": "9458",
+      "md5": "15d5bf44093462d4e606896b63308392",
+      "crc32": "cc97393b",
+      "sha1": "8ea0b43d8c571d95e8383dd8a25d0ba18da611ce"
+    },
+    {
+      "name": "nhk_news-2022-07-16T12:17:55.595508+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657941479",
+      "size": "16214",
+      "md5": "9b76c5ec7142f41a24fd70d05e1bcd3a",
+      "crc32": "87c618d4",
+      "sha1": "f4a3bdbe30c72b5ce01655b4e931ed387ce228ac",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-07-16T12:17:55.595508+09:00.jpg",
+      "source": "original",
+      "mtime": "1657941477",
+      "size": "269347",
+      "md5": "f0a95373f52a2e7d1a53544054f78c9a",
+      "crc32": "c787058f",
+      "sha1": "e49a8e5b1132d66d8c3c823cb40c238c5a649d08",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhk_news-2022-07-16T12:17:55.595508+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhk_news-2022-07-16T12:17:55.595508+09:00.jpg",
+      "mtime": "1657942902",
+      "size": "9393",
+      "md5": "0d4379bb891376a989dc2890058b68c8",
+      "crc32": "c9f465ef",
+      "sha1": "4dbe615e5be8d86a5903118abc20b3677a5023c0"
+    },
+    {
       "name": "nhk_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99b0c251ce77941410aae8dcf61e21c943539110",
-      "mtime": "1657904968",
-      "size": "19054",
-      "md5": "220a0bcd12bed47deee9a3bf9c300427",
-      "crc32": "3e3b5265",
-      "sha1": "01bafe4838df81183e890ce7a58cd342fb5bb8b0",
+      "btih": "1e6058d8a2a262d9f0db5fa149f7fc8ac67c9783",
+      "mtime": "1657942933",
+      "size": "20304",
+      "md5": "842c7c60c9100a630fc4fe714a74fce5",
+      "crc32": "b4ac3e0d",
+      "sha1": "63c1a764c766b9282f771691e2207c16801c6861",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhk_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e549036e3aa79e98f49d0beb3b1ded70",
+      "md5": "d035bbf3234d489c2de30e0de8ab8bd4",
       "summation": "md5"
     },
     {
       "name": "nhk_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657897536",
-      "size": "114688",
-      "md5": "ba3f5c83c1ef1afce503072152d51da4",
-      "crc32": "be3c9e1d",
-      "sha1": "c437858c3cfcbabe3385f85b72d2a39b482146d4",
+      "mtime": "1657941487",
+      "size": "118784",
+      "md5": "bf9eb7f15964a21f6c91795ecb1af59e",
+      "crc32": "40f96834",
+      "sha1": "b212145da093eb242781b88953b89cece4e8ae94",
       "format": "Metadata"
     },
     {
@@ -928,9 +992,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 88,
-  "item_last_updated": 1657904968,
-  "item_size": 7263759,
+  "files_count": 94,
+  "item_last_updated": 1657942933,
+  "item_size": 7868537,
   "metadata": {
     "identifier": "nhk_news-2022",
     "collection": [
@@ -947,536 +1011,10 @@
     "publicdate": "2022-07-09 02:39:07",
     "addeddate": "2022-07-09 02:39:07"
   },
-  "nhk_news-2022": [
-    {
-      "text": "NHK",
-      "url": "https://www.nhk.or.jp/"
-    },
-    {
-      "text": "\u304a\u3046\u3061\u3067\u5b66\u307c\u3046\uff01\nfor School",
-      "url": "https://www.nhk.or.jp/school/ouchi/?cid=dchk-commonheader"
-    },
-    {
-      "text": "\u65b0\u578b\u30b3\u30ed\u30ca",
-      "url": "https://www3.nhk.or.jp/news/special/coronavirus/?cid=dchk-commonheader"
-    },
-    {
-      "text": "\u30cb\u30e5\u30fc\u30b9",
-      "url": "https://www3.nhk.or.jp/news/"
-    },
-    {
-      "text": "\u756a\u7d44\u8868",
-      "url": "https://www.nhk.jp/timetable/?cid=dchk-commonheader"
-    },
-    {
-      "text": "NHK\u30d7\u30e9\u30b9",
-      "url": "https://plus.nhk.jp/?cid=dchk-commonheader"
-    },
-    {
-      "text": "\u53d7\u4fe1\u6599\u306e\u7a93\u53e3",
-      "url": "https://www.nhk-cs.jp/jushinryo/"
-    },
-    {
-      "text": "\u756a\u7d44\u8868\u756a\u7d44\u8868",
-      "url": "https://www.nhk.jp/timetable/?cid=dchk-commonheader"
-    },
-    {
-      "text": "NHK\u30d7\u30e9\u30b9NHK\u30d7\u30e9\u30b9",
-      "url": "https://plus.nhk.jp/?cid=dchk-commonheader"
-    },
-    {
-      "text": "\u5065\u5eb7",
-      "url": "https://www.nhk.or.jp/kenko/"
-    },
-    {
-      "text": "\u30c9\u30e9\u30de",
-      "url": "https://www.nhk.jp/g/drama/"
-    },
-    {
-      "text": "\u30a2\u30cb\u30e1",
-      "url": "https://www.nhk.jp/g/anime/"
-    },
-    {
-      "text": "NHK_PR",
-      "url": "https://www6.nhk.or.jp/nhkpr/"
-    },
-    {
-      "text": "\u30e9\u30b8\u30aa",
-      "url": "https://www.nhk.or.jp/radio/"
-    },
-    {
-      "text": "\u30b9\u30dd\u30fc\u30c4",
-      "url": "https://www3.nhk.or.jp/sports/"
-    },
-    {
-      "text": "for School",
-      "url": "https://www.nhk.or.jp/school/"
-    },
-    {
-      "text": "\u8a9e\u5b66",
-      "url": "https://www2.nhk.or.jp/gogaku/"
-    },
-    {
-      "text": "\u30a2\u30fc\u30ab\u30a4\u30d6\u30b9",
-      "url": "https://www.nhk.or.jp/archives/"
-    },
-    {
-      "text": "\u30cf\u30fc\u30c8\u30cd\u30c3\u30c8",
-      "url": "https://www.nhk.or.jp/heart-net/"
-    },
-    {
-      "text": "BS4K\u30fbBS8K",
-      "url": "https://www.nhk.or.jp/bs4k8k/"
-    },
-    {
-      "text": "WORLD",
-      "url": "https://www3.nhk.or.jp/nhkworld/"
-    },
-    {
-      "text": "\u30a4\u30d9\u30f3\u30c8\u89b3\u89a7\u52df\u96c6",
-      "url": "https://hh.pid.nhk.or.jp/pidh10/eventList.do"
-    },
-    {
-      "text": "\u53d7\u4fe1\u6599\u306e\u7a93\u53e3",
-      "url": "https://www.nhk-cs.jp/jushinryo/"
-    },
-    {
-      "text": "BS\u30e1\u30c3\u30bb\u30fc\u30b8\u306e\u6d88\u53bb",
-      "url": "https://pid.nhk.or.jp/cas/"
-    },
-    {
-      "text": "\u3054\u610f\u898b\u30fb\u304a\u554f\u3044\u5408\u308f\u305b",
-      "url": "https://www.nhk.or.jp/css/"
-    },
-    {
-      "text": "NHK\u30aa\u30f3\u30c7\u30de\u30f3\u30c9",
-      "url": "https://www.nhk-ondemand.jp/"
-    },
-    {
-      "text": "\u30c6\u30ad\u30b9\u30c8\u7248",
-      "url": "http://k.nhk.jp/"
-    },
-    {
-      "text": "  ",
-      "url": "/news/"
-    },
-    {
-      "text": "\u65b0\u7740",
-      "url": "/news/catnew.html"
-    },
-    {
-      "text": "\u5929\u6c17",
-      "url": "https://www.nhk.or.jp/kishou-saigai/"
-    },
-    {
-      "text": "  \u30cb\u30e5\u30fc\u30b9 ",
-      "url": "/news/"
-    },
-    {
-      "text": "\u65b0\u7740",
-      "url": "/news/catnew.html"
-    },
-    {
-      "text": "\u793e\u4f1a",
-      "url": "/news/cat01.html"
-    },
-    {
-      "text": "\u6c17\u8c61\u30fb\u707d\u5bb3",
-      "url": "/news/saigai.html"
-    },
-    {
-      "text": "\u79d1\u5b66\u30fb\u6587\u5316",
-      "url": "/news/cat03.html"
-    },
-    {
-      "text": "\u653f\u6cbb",
-      "url": "/news/cat04.html"
-    },
-    {
-      "text": "\u30d3\u30b8\u30cd\u30b9",
-      "url": "/news/business.html"
-    },
-    {
-      "text": "\u56fd\u969b",
-      "url": "/news/cat06.html"
-    },
-    {
-      "text": "\u30b9\u30dd\u30fc\u30c4",
-      "url": "/news/cat07.html"
-    },
-    {
-      "text": "\u66ae\u3089\u3057",
-      "url": "/news/cat02.html"
-    },
-    {
-      "text": "\u5730\u57df",
-      "url": "/lnews/"
-    },
-    {
-      "text": "\u5929\u6c17",
-      "url": "https://www.nhk.or.jp/kishou-saigai/"
-    },
-    {
-      "text": "\u52d5\u753b",
-      "url": "/news/movie.html"
-    },
-    {
-      "text": "News Up",
-      "url": "/news/netnewsup/"
-    },
-    {
-      "text": "\u7279\u96c6",
-      "url": "/news/tokushu/"
-    },
-    {
-      "text": "\u65b0\u7740",
-      "url": "/news/tokushu/"
-    },
-    {
-      "text": "WEB\u7279\u96c6",
-      "url": "/news/web_tokushu/"
-    },
-    {
-      "text": "\u30d3\u30b8\u30cd\u30b9\u7279\u96c6",
-      "url": "/news/business_tokushu/"
-    },
-    {
-      "text": "\u30b9\u30da\u30b7\u30e3\u30eb\u30b3\u30f3\u30c6\u30f3\u30c4",
-      "url": "/news/special/"
-    },
-    {
-      "text": "NEWS WEB EASY",
-      "url": "https://www3.nhk.or.jp/news/easy/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013720371000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\u5bae\u57ce \u6771\u677e\u5cf6\u5e02\u4ed8\u8fd1\u306b\u8a18\u9332\u7684\u306a\u5927\u96e8 \u707d\u5bb3\u306e\u5371\u967a\u8feb\u308b\n\t\t\t\t\t\t\t\t7\u670815\u65e5 23\u664207\u5206\n\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013720371000.html"
-    },
-    {
-      "text": "\u6c17\u8c61",
-      "url": "/news/word/0000035.html?word_result=%E6%B0%97%E8%B1%A1"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\u7dda\u72b6\u964d\u6c34\u5e2f\u767a\u751f\u306e\u304a\u305d\u308c \u3042\u3059\u5348\u524d\u306b\u304b\u3051\u4e5d\u5dde\u3068\u5c71\u53e3\u770c \u53b3\u91cd\u8b66\u6212\n\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013718341000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013718341000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\u7dda\u72b6\u964d\u6c34\u5e2f\u767a\u751f\u306e\u304a\u305d\u308c \u3042\u3059\u5348\u524d\u306b\u304b\u3051\u4e5d\u5dde\u3068\u5c71\u53e3\u770c \u53b3\u91cd\u8b66\u6212\n\t\t\t\t\t\t\t\t\t\t7\u670815\u65e5 22\u664243\u5206\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013718341000.html"
-    },
-    {
-      "text": "\u6c17\u8c61",
-      "url": "/news/word/0000035.html?word_result=%E6%B0%97%E8%B1%A1"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013720361000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\u3010\u6c17\u8c61\u4e88\u5831\u58eb\u89e3\u8aac\u3011\u5e83\u3044\u7bc4\u56f2\u3067\u5927\u6c17\u4e0d\u5b89\u5b9a \u5927\u96e8\u306b\u8b66\u6212 \u4eca\u5f8c\u306f\uff1f\n\t\t\t\t\t\t\t\t\t\t7\u670815\u65e5 23\u664234\u5206\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013720361000.html"
-    },
-    {
-      "text": "\u6c17\u8c61",
-      "url": "/news/word/0000035.html?word_result=%E6%B0%97%E8%B1%A1"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013718861000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\u5b89\u500d\u5143\u9996\u76f8\u9283\u6483\u304b\u30891\u9031\u9593 \u5bb9\u7591\u8005\u306e\u4eba\u7269\u50cf\u306f \u8b66\u5099\u306e\u554f\u984c\u70b9\u306f\n\t\t\t\t\t\t\t\t\t\t7\u670815\u65e5 20\u664259\u5206\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013718861000.html"
-    },
-    {
-      "text": "\u5b89\u500d\u664b\u4e09\u5143\u9996\u76f8 \u9283\u6483",
-      "url": "/news/word/0002129.html?word_result=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E5%85%83%E9%A6%96%E7%9B%B8%20%E9%8A%83%E6%92%83"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013718951000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\u65b0\u578b\u30b3\u30ed\u30ca\u306e\u611f\u67d3\u8005 10\u4e07\u4eba\u8d85 \u201c\u8a3a\u5bdf\u53d7\u3051\u3089\u308c\u305a\u201d\u75c5\u5e8a\u3072\u3063\u8feb\u3082\n\t\t\t\t\t\t\t\t\t\t7\u670815\u65e5 19\u664257\u5206\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013718951000.html"
-    },
-    {
-      "text": "\u65b0\u578b\u30b3\u30ed\u30ca\u30a6\u30a4\u30eb\u30b9",
-      "url": "/news/word/0000967.html?word_result=%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013720341000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\u30ed\u30b7\u30a2\u5916\u52d9\u7701\u304c\u5831\u5fa9\u63aa\u7f6e \u65e5\u672c\u306e\u8846\u8b70\u9662\u8b70\u54e1384\u4eba\u3092\u5165\u56fd\u7981\u6b62\u306b\n\t\t\t\t\t\t\t\t\t\t7\u670815\u65e5 23\u664214\u5206\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013720341000.html"
-    },
-    {
-      "text": "\u30ed\u30b7\u30a2",
-      "url": "/news/word/0001600.html?word_result=%E3%83%AD%E3%82%B7%E3%82%A2"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013720301000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\u6c96\u7e04 \u3072\u3093\u6b7b\u306e\u30a6\u30df\u30ac\u30e1 \u6f01\u696d\u8005\u300c\u7db2\u306b\u304b\u3089\u307e\u308a\u523a\u3057\u3066\u3057\u307e\u3063\u305f\u300d\n\t\t\t\t\t\t\t\t\t\t7\u670815\u65e5 22\u664221\u5206\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013720301000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220713/k10013715121000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\u3010\u8a73\u3057\u304f\u3011\u30aa\u30df\u30af\u30ed\u30f3\u682a\u300cBA.5\u300d\u6025\u5897 \u611f\u67d3\u529b\u306f? \u30d4\u30fc\u30af\u306f\u3044\u3064?\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220713/k10013715121000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "//www3.nhk.or.jp/news/special/saigai/select-news/20220527_01.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\u30b9\u30da\u30b7\u30e3\u30eb\u30b3\u30f3\u30c6\u30f3\u30c4\n\t\t\t\t\t\t\t\t\t\t\u300cNHK\u5168\u56fd\u30cf\u30b6\u30fc\u30c9\u30de\u30c3\u30d7\u300d\u5730\u57df\u306e\u30ea\u30b9\u30af\u3092\u8abf\u3079\u3066\u307f\u3088\u3046\n\t\t\t\t\t\t\t\t\t",
-      "url": "//www3.nhk.or.jp/news/special/saigai/select-news/20220527_01.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "//www3.nhk.or.jp/news/special/international_news_navi/articles/qa/2022/07/14/23764.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\u30b9\u30da\u30b7\u30e3\u30eb\u30b3\u30f3\u30c6\u30f3\u30c4\n\t\t\t\t\t\t\t\t\t\t\u30b9\u30ea\u30e9\u30f3\u30ab\u3067\u7d4c\u6e08\u5371\u6a5f \u306a\u305c\u5927\u7d71\u9818\u304c\u56fd\u5916\u8131\u51fa\uff1f\u3044\u3063\u305f\u3044\u4f55\u304c\uff1f\n\t\t\t\t\t\t\t\t\t",
-      "url": "//www3.nhk.or.jp/news/special/international_news_navi/articles/qa/2022/07/14/23764.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013717891000.html"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\tNews UP\n\t\t\t\t\t\t\t\t\t\t\u590f\u306e\u5168\u56fd\u9ad8\u6821\u91ce\u7403\u3078 \u540d\u5c06\u30fb\u524d\u7530\u4e09\u592b\u304b\u3089\u8a17\u3055\u308c\u305f\u6307\u63ee\u5b98\u306e\u899a\u609f\n\t\t\t\t\t\t\t\t\t",
-      "url": "/news/html/20220715/k10013717891000.html"
-    },
-    {
-      "text": "\u65b0\u7740\u30cb\u30e5\u30fc\u30b9\u4e00\u89a7\u3092\u898b\u308b",
-      "url": "/news/catnew.html"
-    },
-    {
-      "text": "\u65b0\u7740\u30cb\u30e5\u30fc\u30b9\u4e00\u89a7\u3092\u898b\u308b",
-      "url": "/news/catnew.html"
-    },
-    {
-      "text": "\u5730\u57df\u30cb\u30e5\u30fc\u30b9\u4e00\u89a7\u3092\u898b\u308b",
-      "url": "/lnews/"
-    },
-    {
-      "text": "\u30da\u30fc\u30b8\u306e\u5148\u982d\u3078\u623b\u308b",
-      "url": "#wrapper"
-    },
-    {
-      "text": "\u30cb\u30e5\u30fc\u30b9",
-      "url": "/news/"
-    },
-    {
-      "text": "\u65b0\u7740",
-      "url": "/news/catnew.html"
-    },
-    {
-      "text": "\u793e\u4f1a",
-      "url": "/news/cat01.html"
-    },
-    {
-      "text": "\u6c17\u8c61\u30fb\u707d\u5bb3",
-      "url": "/news/saigai.html"
-    },
-    {
-      "text": "\u79d1\u5b66\u30fb\u6587\u5316",
-      "url": "/news/cat03.html"
-    },
-    {
-      "text": "\u653f\u6cbb",
-      "url": "/news/cat04.html"
-    },
-    {
-      "text": "\u30d3\u30b8\u30cd\u30b9",
-      "url": "/news/business.html"
-    },
-    {
-      "text": "\u56fd\u969b",
-      "url": "/news/cat06.html"
-    },
-    {
-      "text": "\u30b9\u30dd\u30fc\u30c4",
-      "url": "/news/cat07.html"
-    },
-    {
-      "text": "\u66ae\u3089\u3057",
-      "url": "/news/cat02.html"
-    },
-    {
-      "text": "\u5730\u57df",
-      "url": "/lnews/"
-    },
-    {
-      "text": "\u52d5\u753b",
-      "url": "/news/movie.html"
-    },
-    {
-      "text": "News Up",
-      "url": "/news/netnewsup/"
-    },
-    {
-      "text": "\u7279\u96c6",
-      "url": "/news/tokushu/"
-    },
-    {
-      "text": "\u65b0\u7740",
-      "url": "/news/tokushu/"
-    },
-    {
-      "text": "WEB\u7279\u96c6",
-      "url": "/news/web_tokushu/"
-    },
-    {
-      "text": "\u30d3\u30b8\u30cd\u30b9\u7279\u96c6",
-      "url": "/news/business_tokushu/"
-    },
-    {
-      "text": "\u30b9\u30da\u30b7\u30e3\u30eb\u30b3\u30f3\u30c6\u30f3\u30c4",
-      "url": "/news/special/"
-    },
-    {
-      "text": "NEWS WEB EASY",
-      "url": "https://www3.nhk.or.jp/news/easy/"
-    },
-    {
-      "text": "\u30c8\u30c3\u30d7\u30da\u30fc\u30b8\u3078\u623b\u308b",
-      "url": "/news/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nhk.or.jp/common/sns/help.html"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/intent/tweet?text=NHK%20NEWS%20WEB%EF%BD%9CNHK%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%B5%E3%82%A4%E3%83%88%20%20&url=https://www3.nhk.or.jp/news/"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=1480146385671692&display=popup&href=https://www3.nhk.or.jp/news/&redirect_uri=https://www.facebook.com"
-    },
-    {
-      "text": "NHK NEWSWEB(facebook)",
-      "url": "https://www.facebook.com/nhknewsweb"
-    },
-    {
-      "text": "NHK\u30cb\u30e5\u30fc\u30b9(@nhk_news)",
-      "url": "https://twitter.com/nhk_news"
-    },
-    {
-      "text": "\u79d1\u5b66\u6587\u5316\u90e8(@nhk_kabun)",
-      "url": "https://twitter.com/nhk_kabun"
-    },
-    {
-      "text": "\u793e\u4f1a\u90e8(@nhk_syakaibu)",
-      "url": "https://twitter.com/nhk_syakaibu"
-    },
-    {
-      "text": "\u751f\u6d3b\u30fb\u9632\u707d(@nhk_seikatsu)",
-      "url": "https://twitter.com/nhk_seikatsu"
-    },
-    {
-      "text": "\u56fd\u969b\u90e8(@nhk_kokusai)",
-      "url": "https://twitter.com/nhk_kokusai"
-    },
-    {
-      "text": "\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u5831\u9053\u90e8(@nhk_network)",
-      "url": "https://twitter.com/nhk_network"
-    },
-    {
-      "text": "\u304a\u306f\u3088\u3046\u65e5\u672c",
-      "url": "https://www.nhk.jp/p/ohayou/ts/QLP4RZ8ZY3/"
-    },
-    {
-      "text": "\u30cb\u30e5\u30fc\u30b9LIVE!\u3086\u30465\u6642",
-      "url": "https://www.nhk.jp/p/ts/Q8V1XJ21NL/"
-    },
-    {
-      "text": "\u30cb\u30e5\u30fc\u30b97",
-      "url": "https://www.nhk.jp/p/news7/ts/YV1K1Z3YV8/"
-    },
-    {
-      "text": "\u30af\u30ed\u30fc\u30ba\u30a2\u30c3\u30d7\u73fe\u4ee3",
-      "url": "https://www.nhk.jp/p/gendai/ts/R7Y6NGLJ6G/"
-    },
-    {
-      "text": "\u30cb\u30e5\u30fc\u30b9\u30a6\u30aa\u30c3\u30c19",
-      "url": "https://www.nhk.jp/p/nw9/ts/V94JP16WGN/"
-    },
-    {
-      "text": "\u30b5\u30bf\u30c7\u30fc\u30a6\u30aa\u30c3\u30c19",
-      "url": "https://www.nhk.jp/p/ts/7K78K8ZNJV/"
-    },
-    {
-      "text": "\u624b\u8a71\u30cb\u30e5\u30fc\u30b9",
-      "url": "https://www.nhk.or.jp/shuwa/"
-    },
-    {
-      "text": "\u756a\u7d44\u4e00\u89a7\u306f\u3053\u3061\u3089",
-      "url": "https://www.nhk.or.jp/toppage/program_list/"
-    },
-    {
-      "text": "\u3089\u3058\u308b\u2605\u3089\u3058\u308b",
-      "url": "https://www.nhk.or.jp/radio/"
-    },
-    {
-      "text": "NHK\u30e9\u30b8\u30aa\u30cb\u30e5\u30fc\u30b9",
-      "url": "https://www.nhk.or.jp/radionews/"
-    },
-    {
-      "text": "NHK\u30b8\u30e3\u30fc\u30ca\u30eb",
-      "url": "https://www4.nhk.or.jp/nhkjournal/"
-    },
-    {
-      "text": "NHK",
-      "url": "https://www.nhk.or.jp/"
-    },
-    {
-      "text": "\u3054\u610f\u898b\u30fb\u304a\u554f\u3044\u5408\u308f\u305b",
-      "url": "https://www.nhk.or.jp/css/"
-    },
-    {
-      "text": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30bb\u30f3\u30bf\u30fc",
-      "url": "https://www.nhk.or.jp/privacy/"
-    },
-    {
-      "text": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30dd\u30ea\u30b7\u30fc",
-      "url": "https://www.nhk.or.jp/privacy/policy/"
-    },
-    {
-      "text": "NHK\u4e00\u822c\u30b5\u30a4\u30c8 \u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30ce\u30fc\u30c6\u30a3\u30b9\uff08\u30d1\u30fc\u30bd\u30ca\u30eb\u30c7\u30fc\u30bf\u306e\u53d6\u308a\u6271\u3044\uff09",
-      "url": "https://www.nhk.or.jp/privacy/notice/general/"
-    },
-    {
-      "text": "\u653e\u9001\u756a\u7d44\u3068\u8457\u4f5c\u6a29",
-      "url": "https://www.nhk.or.jp/toppage/nhk_info/copyright.html"
-    },
-    {
-      "text": "NHK\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30b5\u30fc\u30d3\u30b9\u5229\u7528\u898f\u7d04",
-      "url": "https://www.nhk.or.jp/rules/"
-    }
-  ],
-  "server": "ia902506.us.archive.org",
-  "uniq": 209527431,
+  "server": "ia802506.us.archive.org",
+  "uniq": 331006950,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }
