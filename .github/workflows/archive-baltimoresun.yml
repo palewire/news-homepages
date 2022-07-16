@@ -11,5 +11,38 @@ jobs:
     uses: palewire/news-homepages/.github/workflows/reusable-archive-single-site-workflow.yml@main
     with:
       handle: baltimoresun
-      slack-webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_BALTIMORESUN }}
     secrets: inherit
+
+  newsroom-slack:
+    name: Post to newsroom Slack
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [archive-site]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: slack
+        name: Post to Slack
+        uses: ./.github/actions/slack
+        with:
+          handle: baltimoresun
+          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_BALTIMORESUN }}
+
+  palewire-slack:
+    name: Post to palewire Slack
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [archive-site]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: slack
+        name: Post to Slack
+        uses: ./.github/actions/slack
+        with:
+          handle: baltimoresun
+          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_PALEWIRE }}
