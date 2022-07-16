@@ -31,7 +31,11 @@ def cli(archive_json):
 
     # Set the alt text for the image
     ts = archive_dict["timestamp"]
-    alt_text = f"{site['name']} homepage at {ts.strftime('%-I:%M %p')} on {ts.strftime('%B %d, %Y')}"
+    title_text = f"{ts.strftime('%-I:%M %p')} on {ts.strftime('%B %d, %Y')}"
+    alt_text = f"{site['name']} homepage at {title_text}"
+
+    # Set other URLs
+    archive_url = f"https://archive.org/details/{archive_dict['identifier']}"
 
     # Configure the Slack message
     payload = {
@@ -42,11 +46,42 @@ def cli(archive_json):
         "blocks": [
             {
                 "type": "image",
-                "title": {"type": "plain_text", "text": alt_text, "emoji": True},
+                "title": {"type": "plain_text", "text": title_text, "emoji": True},
                 "image_url": jpg_url,
                 "alt_text": alt_text,
             },
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": f"Hosted by an <{archive_url}|archive.org special collection>",
+                },
+                "accessory": {
+                    "type": "button",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":link: Get link",
+                        "emoji": True,
+                    },
+                    "value": "click_me_123",
+                    "url": jpg_url,
+                    "action_id": "button-action",
+                },
+            },
             {"type": "divider"},
+            {
+                "type": "context",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": ":rolled_up_newspaper: Archived by <https://palewire/who-is-ben-welsh|Ben Welsh’s> <https://homepages.news|homepages.news>",
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": ":bird: Follow <https://twitter.com/newshomepages|@newshomepages>",
+                    },
+                ],
+            },
         ],
     }
 
@@ -55,7 +90,9 @@ def cli(archive_json):
     assert url
 
     # Post to Slack
-    requests.post(url, json=payload)
+    r = requests.post(url, json=payload)
+
+    print(r.text)
 
 
 if __name__ == "__main__":
