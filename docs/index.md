@@ -31,6 +31,7 @@ reference
 ## Links
 
 - Internet Archive: [archive.org/details/news-homepages](https://archive.org/details/news-homepages)
+- Discord: [#news-homepages](https://discord.gg/xkTMPMHM)
 - Twitter: [@newshomepages](https://twitter.com/newshomepages)
 - Telegram: [newshomepages](https://t.me/newshomepages)
 - Code: [github.com/palewire/news-homepages](https://github.com/palewire/news-homepages)
