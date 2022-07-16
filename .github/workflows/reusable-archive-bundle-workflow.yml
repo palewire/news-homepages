@@ -162,6 +162,23 @@ jobs:
         with:
           command: jpg
 
+  discord:
+    name: Post to Discord
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [mosaic]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: telegram
+        name: Telegram
+        uses: ./.github/actions/discord
+        with:
+          bot-token: ${{ secrets.DISCORD_BOT_TOKEN }}
+          command: ${{ inputs.bundle }}
+
   tweet:
     name: Post to Twitter
     runs-on: ubuntu-latest

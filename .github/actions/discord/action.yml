@@ -2,9 +2,6 @@ name: Discord
 description: Post screenshots to a Discord channel
 
 inputs:
-  source:
-    description: “The site handle to screenshot”
-    required: true
   command:
     description: "The telegrammer.py command to run"
     required: true
@@ -17,11 +14,12 @@ runs:
   steps:
     - uses: actions/download-artifact@v3
       with:
-        name: screenshots
+        name: mosaics
+        path: ./_input
 
     - id: discord
       name: Discord
-      run: pipenv run python -m newshomepages.discorder ${{ inputs.command }} ${{ inputs.source }}
+      run: pipenv run python -m newshomepages.discorder ${{ inputs.command }} -i ./_input
       shell: bash
       env:
         DISCORD_BOT_TOKEN: ${{ inputs.bot-token }}

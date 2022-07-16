@@ -16,11 +16,11 @@ DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 class BotClient(discord.Client):
     """A chat client that posts the provided handle."""
 
-    def __init__(self, site_list: typing.List[dict], input_path: Path, *args, **kwargs):
+    def __init__(self, caption: str, path_list: typing.List[Path], *args, **kwargs):
         """Initialize object."""
         super().__init__(*args, **kwargs)
-        self.site_list = site_list
-        self.input_path = input_path
+        self.caption = caption
+        self.path_list = path_list
 
     async def on_ready(self):
         """Run after we connect to Discord."""
@@ -32,54 +32,49 @@ class BotClient(discord.Client):
         # Get the channel
         channel = self.get_channel(952969204892573827)
 
-        # Get the timestamp
-        now = datetime.now()
-
         # Loop through all the sites
-        for site in self.site_list:
+        for i, path in enumerate(self.path_list):
 
-            # Convert it to local time
-            tz = pytz.timezone(site["timezone"])
-            now_local = now.astimezone(tz)
+            # Figure out if we want the caption
+            if i == 0:
+                message = self.caption
+            else:
+                message = ""
 
-            # Create the caption
-            caption = f"The {site['name']} homepage at {now_local.strftime('%-I:%M %p')} local time"
-
-            # Get the image
-            image_path = self.input_path / f"{site['handle'].lower()}.jpg"
-
-            # Make the post
-            await channel.send(caption, file=discord.File(image_path))
+            # Post
+            await channel.send(message, file=discord.File(path))
 
             # Pause
             time.sleep(0.5)
 
 
-@click.group()
-def cli():
-    """Send a Discord message."""
-    pass
-
-
-@cli.command()
-@click.argument("handle")
-@click.option("-i", "--input-dir", "input_dir", default="./")
-def single(handle: str, input_dir: str):
-    """Send a single source."""
-    site = utils.get_site(handle)
-    input_path = Path(input_dir)
-    c = BotClient([site], input_path)
-    c.run(DISCORD_BOT_TOKEN)
-
-
-@cli.command()
+@click.command()
 @click.argument("slug")
 @click.option("-i", "--input-dir", "input_dir", default="./")
-def bundle(slug: str, input_dir: str):
-    """Send a bundle of sources."""
-    site_list = utils.get_sites_in_bundle(slug)
+def cli(slug: str, input_dir: str):
+    """Post a bundle of images to Discord."""
+    # Get the metadata
+    bundle = utils.get_bundle(slug)
+
+    # Get the timestamp
+    now = datetime.now()
+
+    # Convert it to local time
+    tz = pytz.timezone(bundle["timezone"])
+    now_local = now.astimezone(tz)
+
+    # Create the caption
+    caption = f"{bundle['name']} homepages at {now_local.strftime('%-I:%M %p')} in {bundle['location']}\n"
+
+    # Set the path
     input_path = Path(input_dir)
-    c = BotClient(site_list, input_path)
+
+    # Pull images from input directory
+    image_paths = list(input_path.glob("*.jpg"))
+    click.echo(f"{len(image_paths)} images discovered in {input_path}")
+
+    # Post
+    c = BotClient(caption, image_paths)
     c.run(DISCORD_BOT_TOKEN)
 
 
