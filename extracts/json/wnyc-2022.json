@@ -1,5 +1,5 @@
 {
-  "created": 1657887575,
+  "created": 1657973980,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/wnyc-2022",
@@ -2116,31 +2116,157 @@
       "sha1": "34c58618b0ba1eb8117ff151d01c99750d87838e"
     },
     {
+      "name": "wnyc-2022-07-15T12:04:53.582199-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901097",
+      "size": "29035",
+      "md5": "e905f04c3aede4836af21e4e3418fea4",
+      "crc32": "59ded22a",
+      "sha1": "1a64815742877ddf69132436e36ec1d8d093a83e",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-15T12:04:53.582199-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901099",
+      "size": "24665",
+      "md5": "bd9c97b924954655002f51ec1a6a986c",
+      "crc32": "327c03a4",
+      "sha1": "e3182f0f4228c0f478fe60514468154dd7b5ba13",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-15T12:04:53.582199-04:00.jpg",
+      "source": "original",
+      "mtime": "1657901095",
+      "size": "205208",
+      "md5": "010b26928383ffb35de3baa53879307c",
+      "crc32": "103503ea",
+      "sha1": "fcd7ec17584601e4eafe8deac0b1c7246cb67f59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-07-15T12:04:53.582199-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-07-15T12:04:53.582199-04:00.jpg",
+      "mtime": "1657901621",
+      "size": "8730",
+      "md5": "2b884a4ba08a7bb299f04108c1296882",
+      "crc32": "ba0ac92d",
+      "sha1": "982963da13516e9de13e9db759f2e627cd688a7b"
+    },
+    {
+      "name": "wnyc-2022-07-15T12:12:55.153956-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901580",
+      "size": "29035",
+      "md5": "e905f04c3aede4836af21e4e3418fea4",
+      "crc32": "59ded22a",
+      "sha1": "1a64815742877ddf69132436e36ec1d8d093a83e",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-15T12:12:55.153956-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901582",
+      "size": "24618",
+      "md5": "74aa9ddfa64427439ad12150c842ee79",
+      "crc32": "847ae9d0",
+      "sha1": "adc1ffdb6eaf79cc4e072ce224222f994bdae986",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-15T12:12:55.153956-04:00.jpg",
+      "source": "original",
+      "mtime": "1657901577",
+      "size": "205208",
+      "md5": "010b26928383ffb35de3baa53879307c",
+      "crc32": "103503ea",
+      "sha1": "fcd7ec17584601e4eafe8deac0b1c7246cb67f59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-07-15T12:12:55.153956-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-07-15T12:12:55.153956-04:00.jpg",
+      "mtime": "1657907353",
+      "size": "8730",
+      "md5": "2b884a4ba08a7bb299f04108c1296882",
+      "crc32": "ba0ac92d",
+      "sha1": "982963da13516e9de13e9db759f2e627cd688a7b"
+    },
+    {
+      "name": "wnyc-2022-07-16T00:07:18.989516-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657944442",
+      "size": "30704",
+      "md5": "45326135b75020a70b8e77002daa653d",
+      "crc32": "430f55db",
+      "sha1": "e52b8de7724e75cdd264583670bdd8a1e2a18baf",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-16T00:07:18.989516-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657944445",
+      "size": "24808",
+      "md5": "332eda39047640e6ba8071ed78feab50",
+      "crc32": "6892e76c",
+      "sha1": "f1f84a3f388f26f27277c268f934815396fb1c5f",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-07-16T00:07:18.989516-04:00.jpg",
+      "source": "original",
+      "mtime": "1657944440",
+      "size": "220056",
+      "md5": "950bdfb172e3f97aebc8053f432b0a47",
+      "crc32": "65093cc9",
+      "sha1": "85cd09a606dcd96ce72458622f772a998b06c505",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-07-16T00:07:18.989516-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-07-16T00:07:18.989516-04:00.jpg",
+      "mtime": "1657947226",
+      "size": "9253",
+      "md5": "66303bcdd06f35b951ba7c7ee9338077",
+      "crc32": "7d10bd80",
+      "sha1": "dcc7fa88278f4102f5bd7a2cdd4b93d9ec1b3f4a"
+    },
+    {
       "name": "wnyc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d5ce762909196c4c407d0607657ec5872087d447",
-      "mtime": "1657858965",
-      "size": "42715",
-      "md5": "e863d839b96e13cfa622f3006f49c28d",
-      "crc32": "01e9e292",
-      "sha1": "fa4b9cb0bf472b6bae8c0a7bf659c99c6685b2a1",
+      "btih": "554a79664fe50b2fa44dabae5e19be048748dded",
+      "mtime": "1657947238",
+      "size": "45194",
+      "md5": "9bbab78a8f3228e2fdce9ffa44adb40c",
+      "crc32": "862f1107",
+      "sha1": "b958fd3dd4b72c4449a134bd79a13018bfc2dfe7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "382103f30a26a2d1dbf705ac19165eb5",
+      "md5": "bdf7dde3607553cb41ba8da73ccd01ec",
       "summation": "md5"
     },
     {
       "name": "wnyc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657858883",
-      "size": "249856",
-      "md5": "be0fc358dd3d2b1a97569eba1d2215c6",
-      "crc32": "38539a6b",
-      "sha1": "17f096b61be8b6a63d4f21ed2cfa6e83d35c4db3",
+      "mtime": "1657944448",
+      "size": "262144",
+      "md5": "7a4487b9fe32c120881d3c3e274bfde3",
+      "crc32": "c89f1ca5",
+      "sha1": "7124afac2936b0d1a71adf8a07a5dfd88eee40b2",
       "format": "Metadata"
     },
     {
@@ -2154,9 +2280,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 205,
-  "item_last_updated": 1657858965,
-  "item_size": 13097988,
+  "files_count": 217,
+  "item_last_updated": 1657947238,
+  "item_size": 13932805,
   "metadata": {
     "identifier": "wnyc-2022",
     "collection": [
@@ -2174,7 +2300,7 @@
     "addeddate": "2022-06-27 18:14:25"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 992819523,
+  "uniq": 1573404400,
   "wnyc-2022": [
     {
       "text": "\n    \n  \n\n\n\n",
@@ -2293,24 +2419,36 @@
       "url": "https://www.instagram.com/wnyc"
     },
     {
-      "text": "BBC World Service",
-      "url": "https://www.wnyc.org/shows/bbc-world-service"
+      "text": "New Sounds",
+      "url": "https://www.newsounds.org/shows/newsounds"
+    },
+    {
+      "text": "#4508, The Turkish/Balkan Influence ",
+      "url": "http://www.newsounds.org/story/4508-turkishbalkan-influence-rbr/"
     },
     {
       "text": "    \n      ",
-      "url": "https://gothamist.com/news/police-watchdog-agency-weighs-rule-changes-that-would-expand-its-power-to-investigate-misconduct"
+      "url": "http://www.wnycstudios.org/story/writer-dmitry-bykov-putins-russia-land-most-free-slaves/"
     },
     {
-      "text": "\n            Police watchdog agency weighs rule changes that would expand its power to investigate misconduct\n          ",
-      "url": "https://gothamist.com/news/police-watchdog-agency-weighs-rule-changes-that-would-expand-its-power-to-investigate-misconduct"
+      "text": "\n            The Writer Dmitry Bykov on Putin\u2019s Russia, the Land of \u201cMost Free Slaves\u201d \n          ",
+      "url": "http://www.wnycstudios.org/story/writer-dmitry-bykov-putins-russia-land-most-free-slaves/"
+    },
+    {
+      "text": "\n              The New Yorker Radio Hour\n            ",
+      "url": "//www.wnycstudios.org/podcasts/tnyradiohour"
     },
     {
       "text": "    \n      ",
-      "url": "/story/many-try-to-return-to-normal-from-covid-but-disabled-people-face-a-different-reality/"
+      "url": "http://www.wnycstudios.org/story/on-the-media-how-to-report-a-cold-case/"
     },
     {
-      "text": "\n            Many try to return to normal from COVID, but disabled people face a different reality\n          ",
-      "url": "/story/many-try-to-return-to-normal-from-covid-but-disabled-people-face-a-different-reality/"
+      "text": "\n            How to Report a Cold Case\n          ",
+      "url": "http://www.wnycstudios.org/story/on-the-media-how-to-report-a-cold-case/"
+    },
+    {
+      "text": "\n              On the Media\n            ",
+      "url": "//www.wnycstudios.org/podcasts/otm"
     },
     {
       "text": "    \n      ",
@@ -2322,39 +2460,39 @@
     },
     {
       "text": "    \n      ",
-      "url": "/story/virginia-flooding-damages-more-than-100-homes-and-leaves-40-people-unaccounted-for/"
+      "url": "/story/buffalo-grocery-store-reopens-to-mixed-reactions-after-mass-shooting/"
     },
     {
-      "text": "\n            Crews have found all 44 Virginia residents who were missing after flooding\n          ",
-      "url": "/story/virginia-flooding-damages-more-than-100-homes-and-leaves-40-people-unaccounted-for/"
+      "text": "\n            Tops grocery store in Buffalo reopens to mixed reactions after mass shooting\n          ",
+      "url": "/story/buffalo-grocery-store-reopens-to-mixed-reactions-after-mass-shooting/"
     },
     {
-      "text": "    \n      ",
-      "url": "/story/the-us-student-population-is-more-diverse-but-schools-are-still-highly-segregated/"
-    },
-    {
-      "text": "\n            The U.S. student population is more diverse, but schools are still highly segregated\n          ",
-      "url": "/story/the-us-student-population-is-more-diverse-but-schools-are-still-highly-segregated/"
-    },
-    {
-      "text": "\n              Morning Edition\n            ",
-      "url": "//www.wnyc.org/shows/me"
+      "text": "\n              All Things Considered\n            ",
+      "url": "//www.wnyc.org/shows/atc"
     },
     {
       "text": "    \n      ",
-      "url": "/story/emmett-tills-family-says-white-pedestal-theory-has-denied-them-justice-for-decades/"
+      "url": "/story/three-men-who-spent-decades-in-prison-are-cleared-in-the-killing-of-a-nyc-subway-clerk/"
     },
     {
-      "text": "\n            Emmett Till's family says 'white pedestal' theory has denied them justice for decades\n          ",
-      "url": "/story/emmett-tills-family-says-white-pedestal-theory-has-denied-them-justice-for-decades/"
+      "text": "\n            Three men who spent decades in prison are cleared in the killing of a NYC subway clerk\n          ",
+      "url": "/story/three-men-who-spent-decades-in-prison-are-cleared-in-the-killing-of-a-nyc-subway-clerk/"
     },
     {
       "text": "    \n      ",
-      "url": "http://www.wnyc.org/story/jan-6-hearing-recap/"
+      "url": "/story/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package/"
     },
     {
-      "text": "\n            Jan. 6 Hearing Recap: Trump Allies And Violent Extremists\n          ",
-      "url": "http://www.wnyc.org/story/jan-6-hearing-recap/"
+      "text": "\n            Biden urges Democrats to pass slim health care bill after Manchin nixes climate action\n          ",
+      "url": "/story/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package/"
+    },
+    {
+      "text": "    \n      ",
+      "url": "http://www.wnyc.org/story/young-voters-and-aging-political-leadership/"
+    },
+    {
+      "text": "\n            Young Voters and Aging Political Leadership\n          ",
+      "url": "http://www.wnyc.org/story/young-voters-and-aging-political-leadership/"
     },
     {
       "text": "\n              The Brian Lehrer Show\n            ",
@@ -2374,27 +2512,15 @@
     },
     {
       "text": "    \n      ",
-      "url": "http://www.wnycstudios.org/story/relaxing-stressful-segment/"
+      "url": "http://www.wnycstudios.org/story/kelefa-sanneh-picks-three-songs-country-radio-right-now-segment/"
     },
     {
-      "text": "\n            Relaxing Is Stressful\n          ",
-      "url": "http://www.wnycstudios.org/story/relaxing-stressful-segment/"
+      "text": "\n            Kelefa Sanneh Picks Three Songs on Country Radio Right Now\n          ",
+      "url": "http://www.wnycstudios.org/story/kelefa-sanneh-picks-three-songs-country-radio-right-now-segment/"
     },
     {
       "text": "\n              The New Yorker Radio Hour\n            ",
       "url": "//www.wnycstudios.org/podcasts/tnyradiohour"
-    },
-    {
-      "text": "    \n      ",
-      "url": "http://www.wnyc.org/story/summer-music-reviewpreview/"
-    },
-    {
-      "text": "\n            Summer Music Review/Preview\n          ",
-      "url": "http://www.wnyc.org/story/summer-music-reviewpreview/"
-    },
-    {
-      "text": "\n              All Of It\n            ",
-      "url": "//www.wnyc.org/shows/all-of-it"
     },
     {
       "text": "    \n      ",
@@ -2410,15 +2536,27 @@
     },
     {
       "text": "    \n      ",
-      "url": "/story/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view/"
+      "url": "http://www.wnycstudios.org/story/menudo-forever-young-cements-legacy-puerto-rican-boy-band/"
     },
     {
-      "text": "\n            A provocative exhibit at NYC's Met Museum takes a new point of view\n          ",
-      "url": "/story/a-provocative-exhibit-at-nycs-met-museum-takes-a-new-point-of-view/"
+      "text": "\n            \"Menudo: Forever Young\" Cements the Legacy of the Puerto Rican Boy Band\n          ",
+      "url": "http://www.wnycstudios.org/story/menudo-forever-young-cements-legacy-puerto-rican-boy-band/"
     },
     {
-      "text": "\n              All Things Considered\n            ",
-      "url": "//www.wnyc.org/shows/atc"
+      "text": "\n              The Takeaway\n            ",
+      "url": "//www.wnycstudios.org/podcasts/takeaway"
+    },
+    {
+      "text": "    \n      ",
+      "url": "http://www.wnyc.org/story/summer-music-reviewpreview/"
+    },
+    {
+      "text": "\n            Summer Music Review/Preview\n          ",
+      "url": "http://www.wnyc.org/story/summer-music-reviewpreview/"
+    },
+    {
+      "text": "\n              All Of It\n            ",
+      "url": "//www.wnyc.org/shows/all-of-it"
     },
     {
       "text": "    \n      ",
@@ -2546,14 +2684,6 @@
     },
     {
       "text": "    \n      ",
-      "url": "//www.wnyc.org/story/monday-morning-politics-bidens-executive-order-abortion-and-preview-jan-6th-hearing/"
-    },
-    {
-      "text": "\n                  Monday Morning Politics: Biden's Executive Order on Abortion and Preview of Jan 6th Hearing\n                ",
-      "url": "http://www.wnyc.org/story/monday-morning-politics-bidens-executive-order-abortion-and-preview-jan-6th-hearing/"
-    },
-    {
-      "text": "    \n      ",
       "url": "//www.wnyc.org/story/federal-probe-nypds-special-victims-division/"
     },
     {
@@ -2570,11 +2700,27 @@
     },
     {
       "text": "    \n      ",
+      "url": "//www.wnyc.org/story/the-chart-that-explains-everyone-character-alignment/"
+    },
+    {
+      "text": "\n                  The Chart That Explains Everyone\n                ",
+      "url": "http://www.wnyc.org/story/the-chart-that-explains-everyone-character-alignment/"
+    },
+    {
+      "text": "    \n      ",
       "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-07-14/"
     },
     {
       "text": "\n                  'Greenwashing' Lawsuit; Comptroller Lander; NYPD's Special Victims Division; Outdoor Theater\n                ",
       "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-07-14/"
+    },
+    {
+      "text": "    \n      ",
+      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-07-15/"
+    },
+    {
+      "text": "\n                  US Rep. Ritchie Torres; CM Shekar Krishnan; Under-30 Democrats; Alternate Side Parking Returns\n                ",
+      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-07-15/"
     },
     {
       "text": "    \n      ",
@@ -2594,19 +2740,11 @@
     },
     {
       "text": "    \n      ",
-      "url": "//www.wnyc.org/story/all-of-it-2022-07-13/"
+      "url": "//www.wnyc.org/story/all-of-it-2022-07-15-badass-women/"
     },
     {
-      "text": "\n                  Ken Auletta on Harvey Weinstein, Chelsea Hotel Documentary, Full Bio: The Family Roe, Regina Spektor Listening Party\n                ",
-      "url": "http://www.wnyc.org/story/all-of-it-2022-07-13/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-07-12/"
-    },
-    {
-      "text": "\n                  January 6 Hearing Preview; 51 Council Members in 52 Weeks: Nantasha Williams; News From New York's Highest Court; News From Your Home Country\n                ",
-      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-07-12/"
+      "text": "\n                  Some Extraordinary Women: Jeanine Tesori, Nikole Hannah-Jones, Annie Leibovitz, Marrin Morris, And The Women Of Country Music\n                ",
+      "url": "http://www.wnyc.org/story/all-of-it-2022-07-15-badass-women/"
     },
     {
       "text": "    \n      ",
@@ -2615,6 +2753,14 @@
     {
       "text": "\n                  Jan 6 Hearing Recap; Safety and Self-Defense for Bodegas; Which U.S. 'Founding'?; Decluttering & Refurnishing \n                ",
       "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-07-13/"
+    },
+    {
+      "text": "    \n      ",
+      "url": "//www.wnyc.org/story/the-brian-lehrer-show-2022-07-15/"
+    },
+    {
+      "text": "\n                  US Rep. Ritchie Torres; CM Shekar Krishnan; Under-30 Democrats; Alternate Side Parking Returns\n                ",
+      "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-07-15/"
     },
     {
       "text": "    \n      ",
@@ -2639,14 +2785,6 @@
     {
       "text": "\n                  'Greenwashing' Lawsuit; Comptroller Lander; NYPD's Special Victims Division; Outdoor Theater\n                ",
       "url": "http://www.wnyc.org/story/the-brian-lehrer-show-2022-07-14/"
-    },
-    {
-      "text": "    \n      ",
-      "url": "//www.wqxr.org/story/handel-theodora-royal-opera-house-england/"
-    },
-    {
-      "text": "\n                  Saturday at 1pm: Handel's Theodora from the Royal Opera House (England)\n                ",
-      "url": "http://www.wqxr.org/story/handel-theodora-royal-opera-house-england/"
     },
     {
       "text": "    \n      ",

@@ -1,5 +1,5 @@
 {
-  "created": 1657855851,
+  "created": 1657973604,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/12/items/ncronline-2022",
@@ -562,31 +562,115 @@
       "sha1": "bb205f4a6be50c8da245a7916e25d06efce592e2"
     },
     {
+      "name": "ncronline-2022-07-15T10:05:01.929012-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657897504",
+      "size": "73943",
+      "md5": "71cf7cc5ec9e4f8cfebc09eace793068",
+      "crc32": "b73800a4",
+      "sha1": "0c6689c0dee822f74c09d6be365d7c8492503ef3",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-07-15T10:05:01.929012-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657897506",
+      "size": "43822",
+      "md5": "bf1fed21d690f880ab25a57f654819d1",
+      "crc32": "64574f02",
+      "sha1": "56acf7aa02125e20af1cfcae71b2da7fbb3115f8",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-07-15T10:05:01.929012-05:00.jpg",
+      "source": "original",
+      "mtime": "1657897503",
+      "size": "275671",
+      "md5": "d63860c567a62e1afc35b38dd471ea9f",
+      "crc32": "2e8271f8",
+      "sha1": "0ea475d42a30b0d1698038ea0a6f4e208310b630",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ncronline-2022-07-15T10:05:01.929012-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ncronline-2022-07-15T10:05:01.929012-05:00.jpg",
+      "mtime": "1657904931",
+      "size": "9972",
+      "md5": "a6c26241d2447cf2281fce158bc16fee",
+      "crc32": "7710ddd4",
+      "sha1": "debecaef3a66487fc27ee719c80e5439a76ff87c"
+    },
+    {
+      "name": "ncronline-2022-07-15T22:17:23.002158-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657941446",
+      "size": "73884",
+      "md5": "806f0754f8036e1e8acb15d59a19ece2",
+      "crc32": "4fe6ccbc",
+      "sha1": "47f095989015fe8e2f2a23c01214287e45348238",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-07-15T22:17:23.002158-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657941448",
+      "size": "43789",
+      "md5": "697cf640c59f42e54f7f5801bfb452d6",
+      "crc32": "85603858",
+      "sha1": "f10cb3faac47234109fb513c9c30c69b298e06c4",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-07-15T22:17:23.002158-05:00.jpg",
+      "source": "original",
+      "mtime": "1657941444",
+      "size": "275671",
+      "md5": "d63860c567a62e1afc35b38dd471ea9f",
+      "crc32": "2e8271f8",
+      "sha1": "0ea475d42a30b0d1698038ea0a6f4e208310b630",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ncronline-2022-07-15T22:17:23.002158-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ncronline-2022-07-15T22:17:23.002158-05:00.jpg",
+      "mtime": "1657942817",
+      "size": "9972",
+      "md5": "a6c26241d2447cf2281fce158bc16fee",
+      "crc32": "7710ddd4",
+      "sha1": "debecaef3a66487fc27ee719c80e5439a76ff87c"
+    },
+    {
       "name": "ncronline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e9ef009c12ced97ca11bc5ab9932e7e21499785e",
-      "mtime": "1657855835",
-      "size": "12671",
-      "md5": "47c2dd45bc015e910f7cfb5b769c8e9f",
-      "crc32": "1f11d96a",
-      "sha1": "e4b69e46c7a9860135411a0c76614fc3c875beef",
+      "btih": "be9c2e8e3f92308ac201b911f4f93224bab9eb49",
+      "mtime": "1657942834",
+      "size": "14357",
+      "md5": "2f3126637e6ba1dedb3fad4762f4fe4c",
+      "crc32": "27fb4c0d",
+      "sha1": "db0ef0e999612c5a38f65e6079dc0ab582bf0f2a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ncronline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04c522d996782f6d4aafa6725b711f50",
+      "md5": "c0f35a389904bafde55de2f14301f75a",
       "summation": "md5"
     },
     {
       "name": "ncronline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657855753",
-      "size": "73728",
-      "md5": "c72a883d52679162e0512ee62a51b4da",
-      "crc32": "cf09d273",
-      "sha1": "ddab2517513893270b26e0ce791cec76098f18a3",
+      "mtime": "1657941456",
+      "size": "81920",
+      "md5": "7069477aad4f0bb4bf6da00de76485fb",
+      "crc32": "44b00d39",
+      "sha1": "1bfa6dfa58417a5a1d634cee4b8bc069377f03c3",
       "format": "Metadata"
     },
     {
@@ -600,9 +684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 57,
-  "item_last_updated": 1657855835,
-  "item_size": 5323155,
+  "files_count": 65,
+  "item_last_updated": 1657942834,
+  "item_size": 6139757,
   "metadata": {
     "identifier": "ncronline-2022",
     "collection": [
@@ -619,8 +703,1642 @@
     "publicdate": "2022-07-09 04:01:00",
     "addeddate": "2022-07-09 04:01:00"
   },
+  "ncronline-2022": [
+    {
+      "text": "Jump to navigation",
+      "url": "#main-menu"
+    },
+    {
+      "text": "National Catholic Reporter",
+      "url": "/"
+    },
+    {
+      "text": "EarthBeat",
+      "url": "/earthbeat"
+    },
+    {
+      "text": "Global Sisters Report",
+      "url": "https://www.globalsistersreport.org/"
+    },
+    {
+      "text": "Free Newsletters",
+      "url": "/free-newsletters"
+    },
+    {
+      "text": "Our Facebook Page",
+      "url": "https://www.facebook.com/NCRonline/"
+    },
+    {
+      "text": "Follow us on Twitter",
+      "url": "https://twitter.com/NCRonline"
+    },
+    {
+      "text": "Follow us on Instagram",
+      "url": "https://www.instagram.com/ncronline/"
+    },
+    {
+      "text": "Our YouTube Channel",
+      "url": "https://www.youtube.com/user/NCRonline"
+    },
+    {
+      "text": "\n              \n                              The Independent News Source\n                          ",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "\n      Menu\n      Menu\n    ",
+      "url": "#"
+    },
+    {
+      "text": "Donate",
+      "url": "/donate?clickSource=mainnav"
+    },
+    {
+      "text": "Legacy Challenge",
+      "url": "/legacy"
+    },
+    {
+      "text": "Become a Member",
+      "url": "https://www.ncronline.org/forward/join?clickSource=mainnav"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/subscribe/new/ncr"
+    },
+    {
+      "text": " / Renew",
+      "url": "/renew"
+    },
+    {
+      "text": "Classifieds",
+      "url": "/classifieds"
+    },
+    {
+      "text": "Obituaries",
+      "url": "/obituaries"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "/channel/coronavirus"
+    },
+    {
+      "text": "Quick Reads",
+      "url": "/channel/quick-reads"
+    },
+    {
+      "text": "Accountability",
+      "url": "/channel/accountability"
+    },
+    {
+      "text": "Books",
+      "url": "/channel/books"
+    },
+    {
+      "text": "Columns",
+      "url": "/columns"
+    },
+    {
+      "text": "Justice",
+      "url": "/channel/justice"
+    },
+    {
+      "text": "Culture",
+      "url": "/channel/culture"
+    },
+    {
+      "text": "Parish",
+      "url": "/channel/parish"
+    },
+    {
+      "text": "People",
+      "url": "/channel/people"
+    },
+    {
+      "text": "Politics",
+      "url": "/channel/politics"
+    },
+    {
+      "text": "Spirituality",
+      "url": "/channel/spirituality"
+    },
+    {
+      "text": "Theology",
+      "url": "/channel/theology"
+    },
+    {
+      "text": "Vatican",
+      "url": "/channel/vatican"
+    },
+    {
+      "text": "World",
+      "url": "/channel/world"
+    },
+    {
+      "text": "Opinion",
+      "url": "/channel/opinion"
+    },
+    {
+      "text": "National Catholic Reporter",
+      "url": "/"
+    },
+    {
+      "text": "EarthBeat",
+      "url": "/earthbeat"
+    },
+    {
+      "text": "Global Sisters Report",
+      "url": "https://www.globalsistersreport.org/"
+    },
+    {
+      "text": "About NCR",
+      "url": "/about-us"
+    },
+    {
+      "text": "History, Financials and more",
+      "url": "/about-us"
+    },
+    {
+      "text": "Mission and Values",
+      "url": "/mission-and-values"
+    },
+    {
+      "text": "Staff & Contributors",
+      "url": "/false/national-catholic-reporter-staff-contributors"
+    },
+    {
+      "text": "Board of Directors",
+      "url": "/contact/national-catholic-reporter-publishing-company-board-directors"
+    },
+    {
+      "text": "Free Newsletters",
+      "url": "/free-newsletters"
+    },
+    {
+      "text": "",
+      "url": "/news/opinion/charity-bike-ride-leads-meditation-church-experience"
+    },
+    {
+      "text": "A charity bike ride leads to meditation, church experience",
+      "url": "/news/opinion/charity-bike-ride-leads-meditation-church-experience"
+    },
+    {
+      "text": "Mark Piper",
+      "url": "/authors/mark-piper"
+    },
+    {
+      "text": "Vatican astronomer praises beauty and potential of Webb space photos",
+      "url": "/news/earthbeat/vatican-astronomer-praises-beauty-and-potential-webb-space-photos"
+    },
+    {
+      "text": "Claire Giangrav\u00e9",
+      "url": "/authors/claire-giangrav"
+    },
+    {
+      "text": "Religion News Service",
+      "url": "/authors/religion-news-service"
+    },
+    {
+      "text": "Federal Reserve should steer clear of cryptocurrency and its charlatans",
+      "url": "/news/opinion/federal-reserve-should-steer-clear-cryptocurrency-and-its-charlatans"
+    },
+    {
+      "text": "Michael Sean Winters",
+      "url": "/authors/michael-sean-winters"
+    },
+    {
+      "text": "Your thoughts on the overturn of Roe",
+      "url": "/news/opinion/ncr-today/your-thoughts-overturn-roe"
+    },
+    {
+      "text": "NCR Staff",
+      "url": "/authors/ncr-staff"
+    },
+    {
+      "text": "",
+      "url": "/news/opinion/pope-francis-reforms-church-governance-are-unlike-any-vatican-ii"
+    },
+    {
+      "text": "Pope Francis' reforms to church governance are unlike any since Vatican II",
+      "url": "/news/opinion/pope-francis-reforms-church-governance-are-unlike-any-vatican-ii"
+    },
+    {
+      "text": "Thomas Reese",
+      "url": "/authors/thomas-reese"
+    },
+    {
+      "text": "Religion News Source",
+      "url": "/authors/religion-news-source"
+    },
+    {
+      "text": "What \u00d3scar Romero can teach us about Black Lives Matter",
+      "url": "/news/opinion/what-scar-romero-can-teach-us-about-black-lives-matter"
+    },
+    {
+      "text": "Elizabeth (Ro) Ajiduah",
+      "url": "/authors/elizabeth-ro-ajiduah"
+    },
+    {
+      "text": "",
+      "url": "/news/opinion/editorial-new-gun-control-law-good-now-lets-do-assault-weapons-ban"
+    },
+    {
+      "text": "Editorial: The new gun control law is good. Now, let's do an assault weapons ban.",
+      "url": "/news/opinion/editorial-new-gun-control-law-good-now-lets-do-assault-weapons-ban"
+    },
+    {
+      "text": "NCR Editorial Staff",
+      "url": "/authors/ncr-editorial-staff"
+    },
+    {
+      "text": "",
+      "url": "/news/justice/archbishop-wester-embarks-long-path-end-nuclear-threat"
+    },
+    {
+      "text": "Archbishop Wester embarks on the long path to end the nuclear threat",
+      "url": "/news/justice/archbishop-wester-embarks-long-path-end-nuclear-threat"
+    },
+    {
+      "text": "Dennis Sadowski",
+      "url": "/authors/dennis-sadowski"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Opinion",
+      "url": "/channel/opinion"
+    },
+    {
+      "text": "A charity bike ride leads to meditation, church experience",
+      "url": "/news/opinion/charity-bike-ride-leads-meditation-church-experience"
+    },
+    {
+      "text": "Mark Piper",
+      "url": "/authors/mark-piper"
+    },
+    {
+      "text": "Your thoughts on the overturn of Roe",
+      "url": "/news/opinion/ncr-today/your-thoughts-overturn-roe"
+    },
+    {
+      "text": "NCR Staff",
+      "url": "/authors/ncr-staff"
+    },
+    {
+      "text": "What \u00d3scar Romero can teach us about Black Lives Matter",
+      "url": "/news/opinion/what-scar-romero-can-teach-us-about-black-lives-matter"
+    },
+    {
+      "text": "Elizabeth (Ro) Ajiduah",
+      "url": "/authors/elizabeth-ro-ajiduah"
+    },
+    {
+      "text": "Pope Francis' reforms to church governance are unlike any since Vatican II",
+      "url": "/news/opinion/pope-francis-reforms-church-governance-are-unlike-any-vatican-ii"
+    },
+    {
+      "text": "Thomas Reese",
+      "url": "/authors/thomas-reese"
+    },
+    {
+      "text": "Religion News Source",
+      "url": "/authors/religion-news-source"
+    },
+    {
+      "text": "Federal Reserve should steer clear of cryptocurrency and its charlatans",
+      "url": "/news/opinion/federal-reserve-should-steer-clear-cryptocurrency-and-its-charlatans"
+    },
+    {
+      "text": "Michael Sean Winters",
+      "url": "/authors/michael-sean-winters"
+    },
+    {
+      "text": "Links: Irish synodal process; Democratic presidential hopefuls; gerrymandering",
+      "url": "/news/opinion/links-irish-synodal-process-democratic-presidential-hopefuls-gerrymandering"
+    },
+    {
+      "text": "Michael Sean Winters",
+      "url": "/authors/michael-sean-winters"
+    },
+    {
+      "text": "Vatican",
+      "url": "/channel/vatican"
+    },
+    {
+      "text": "",
+      "url": "/news/vatican/parent-sues-australian-cardinal-over-child-sex-abuse-charge"
+    },
+    {
+      "text": "Parent sues Australian cardinal over child sex abuse charge",
+      "url": "https://www.ncronline.org/news/vatican/parent-sues-australian-cardinal-over-child-sex-abuse-charge"
+    },
+    {
+      "text": "Associated Press",
+      "url": "/authors/associated-press-0"
+    },
+    {
+      "text": "",
+      "url": "/news/accountability/news/news/do-not-hide-reality-abuse-pope-tells-religious-orders"
+    },
+    {
+      "text": "Do not hide reality of abuse, pope tells religious orders",
+      "url": "https://www.ncronline.org/news/accountability/news/news/do-not-hide-reality-abuse-pope-tells-religious-orders"
+    },
+    {
+      "text": "Junno Arocho Esteves",
+      "url": "/authors/junno-arocho-esteves"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Humanity has 'moral obligation' to fight climate change, pope says",
+      "url": "/news/earthbeat/humanity-has-moral-obligation-fight-climate-change-pope-says"
+    },
+    {
+      "text": "Junno Arocho Esteves",
+      "url": "/authors/junno-arocho-esteves"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Pope confirms plans to meet Russia's Patriarch Kirill in Kazakhstan",
+      "url": "/news/vatican/pope-confirms-plans-meet-russias-patriarch-kirill-kazakhstan"
+    },
+    {
+      "text": "Junno Arocho Esteves",
+      "url": "/authors/junno-arocho-esteves"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Pope Francis names three women to Vatican office that recommends new bishops",
+      "url": "/news/vatican/news/news/pope-francis-names-three-women-vatican-office-recommends-new-bishops"
+    },
+    {
+      "text": "Christopher White",
+      "url": "/authors/christopher-white"
+    },
+    {
+      "text": "It's past time for the Vatican to investigate these two Texas bishops",
+      "url": "/news/opinion/its-past-time-vatican-investigate-these-two-texas-bishops"
+    },
+    {
+      "text": "Michael Sean Winters",
+      "url": "/authors/michael-sean-winters"
+    },
+    {
+      "text": "Politics",
+      "url": "/channel/politics"
+    },
+    {
+      "text": "",
+      "url": "/news/opinion/ncr-today/your-thoughts-overturn-roe"
+    },
+    {
+      "text": "Your thoughts on the overturn of Roe",
+      "url": "https://www.ncronline.org/news/opinion/ncr-today/your-thoughts-overturn-roe"
+    },
+    {
+      "text": "NCR Staff",
+      "url": "/authors/ncr-staff"
+    },
+    {
+      "text": "",
+      "url": "/news/opinion/federal-reserve-should-steer-clear-cryptocurrency-and-its-charlatans"
+    },
+    {
+      "text": "Federal Reserve should steer clear of cryptocurrency and its charlatans",
+      "url": "https://www.ncronline.org/news/opinion/federal-reserve-should-steer-clear-cryptocurrency-and-its-charlatans"
+    },
+    {
+      "text": "Michael Sean Winters",
+      "url": "/authors/michael-sean-winters"
+    },
+    {
+      "text": "Editorial: The new gun control law is good. Now, let's do an assault weapons ban.",
+      "url": "/news/opinion/editorial-new-gun-control-law-good-now-lets-do-assault-weapons-ban"
+    },
+    {
+      "text": "NCR Editorial Staff",
+      "url": "/authors/ncr-editorial-staff"
+    },
+    {
+      "text": "Links: Irish synodal process; Democratic presidential hopefuls; gerrymandering",
+      "url": "/news/opinion/links-irish-synodal-process-democratic-presidential-hopefuls-gerrymandering"
+    },
+    {
+      "text": "Michael Sean Winters",
+      "url": "/authors/michael-sean-winters"
+    },
+    {
+      "text": "On Communion for politicians, pope reiterates: Bishops should be pastoral",
+      "url": "/news/politics/communion-politicians-pope-reiterates-bishops-should-be-pastoral"
+    },
+    {
+      "text": "Junno Arocho Esteves",
+      "url": "/authors/junno-arocho-esteves"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Catholics must stand against Supreme Court's anti-life climate ruling",
+      "url": "/news/earthbeat/catholics-must-stand-against-supreme-courts-anti-life-climate-ruling"
+    },
+    {
+      "text": "John T. Pawlikowski",
+      "url": "/authors/john-t-pawlikowski"
+    },
+    {
+      "text": "People",
+      "url": "/channel/people"
+    },
+    {
+      "text": "",
+      "url": "/news/justice/archbishop-wester-embarks-long-path-end-nuclear-threat"
+    },
+    {
+      "text": "Archbishop Wester embarks on the long path to end the nuclear threat",
+      "url": "https://www.ncronline.org/news/justice/archbishop-wester-embarks-long-path-end-nuclear-threat"
+    },
+    {
+      "text": "Dennis Sadowski",
+      "url": "/authors/dennis-sadowski"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "",
+      "url": "/news/earthbeat/african-youth-deliver-environmental-demands-bishops-laudato-si-meeting"
+    },
+    {
+      "text": "African youth deliver environmental demands to bishops at Laudato Si' meeting",
+      "url": "https://www.ncronline.org/news/earthbeat/african-youth-deliver-environmental-demands-bishops-laudato-si-meeting"
+    },
+    {
+      "text": "Brian Roewe",
+      "url": "/authors/brian-roewe"
+    },
+    {
+      "text": "Bishop's removal of Paulists from Ohio State campus ministry sparks protest",
+      "url": "/news/people/bishops-removal-paulists-ohio-state-campus-ministry-sparks-protest"
+    },
+    {
+      "text": "Brian Fraga",
+      "url": "/authors/brian-fraga"
+    },
+    {
+      "text": "NCR, EarthBeat, Global Sisters Report receive 43 Catholic media awards",
+      "url": "/news/people/ncr-earthbeat-global-sisters-report-receive-43-catholic-media-awards"
+    },
+    {
+      "text": "NCR Staff",
+      "url": "/authors/ncr-staff"
+    },
+    {
+      "text": "Texas Catholic Charities CEO removed after planning women's empowerment summit",
+      "url": "/news/people/texas-catholic-charities-ceo-removed-after-planning-womens-empowerment-summit"
+    },
+    {
+      "text": "Brian Fraga",
+      "url": "/authors/brian-fraga"
+    },
+    {
+      "text": "Sr. Simone Campbell and 16 others receive the Presidential Medal of Freedom",
+      "url": "https://www.globalsistersreport.org/news/news/news/sr-simone-campbell-and-16-others-receive-presidential-medal-freedom"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "EarthBeat",
+      "url": "/earthbeat"
+    },
+    {
+      "text": "",
+      "url": "/news/earthbeat/vatican-astronomer-praises-beauty-and-potential-webb-space-photos"
+    },
+    {
+      "text": "Vatican astronomer praises beauty and potential of Webb space photos",
+      "url": "https://www.ncronline.org/news/earthbeat/vatican-astronomer-praises-beauty-and-potential-webb-space-photos"
+    },
+    {
+      "text": "Claire Giangrav\u00e9",
+      "url": "/authors/claire-giangrav"
+    },
+    {
+      "text": "Religion News Service",
+      "url": "/authors/religion-news-service"
+    },
+    {
+      "text": "",
+      "url": "/news/earthbeat/african-youth-deliver-environmental-demands-bishops-laudato-si-meeting"
+    },
+    {
+      "text": "African youth deliver environmental demands to bishops at Laudato Si' meeting",
+      "url": "https://www.ncronline.org/news/earthbeat/african-youth-deliver-environmental-demands-bishops-laudato-si-meeting"
+    },
+    {
+      "text": "Brian Roewe",
+      "url": "/authors/brian-roewe"
+    },
+    {
+      "text": "Scottish faith leaders call on COP26 president to ensure climate pledges are kept",
+      "url": "/news/earthbeat/scottish-faith-leaders-call-cop26-president-ensure-climate-pledges-are-kept"
+    },
+    {
+      "text": "Brian Roewe",
+      "url": "/authors/brian-roewe"
+    },
+    {
+      "text": "Farm settlement honoring US-born nun created, then revoked in Amazon",
+      "url": "https://www.globalsistersreport.org/news/news/news/farm-settlement-honoring-us-born-nun-created-then-revoked-amazon"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Humanity has 'moral obligation' to fight climate change, pope says",
+      "url": "/news/earthbeat/humanity-has-moral-obligation-fight-climate-change-pope-says"
+    },
+    {
+      "text": "Junno Arocho Esteves",
+      "url": "/authors/junno-arocho-esteves"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Catholics must stand against Supreme Court's anti-life climate ruling",
+      "url": "/news/earthbeat/catholics-must-stand-against-supreme-courts-anti-life-climate-ruling"
+    },
+    {
+      "text": "John T. Pawlikowski",
+      "url": "/authors/john-t-pawlikowski"
+    },
+    {
+      "text": "Culture",
+      "url": "/channel/culture"
+    },
+    {
+      "text": "",
+      "url": "/news/coronavirus/after-my-bout-covid-two-road-races-deepen-my-gratitude-running"
+    },
+    {
+      "text": "After my bout of COVID, two road races deepen my gratitude for running",
+      "url": "https://www.ncronline.org/news/coronavirus/after-my-bout-covid-two-road-races-deepen-my-gratitude-running"
+    },
+    {
+      "text": "Daniel P. Horan",
+      "url": "/authors/daniel-p-horan"
+    },
+    {
+      "text": "",
+      "url": "/news/opinion/netflixs-arcane-reminds-us-we-know-neither-day-nor-hour-reckoning"
+    },
+    {
+      "text": "Netflix's 'Arcane' reminds us we know neither the day nor the hour of reckoning",
+      "url": "https://www.ncronline.org/news/opinion/netflixs-arcane-reminds-us-we-know-neither-day-nor-hour-reckoning"
+    },
+    {
+      "text": "Jennifer Vosters",
+      "url": "/authors/jennifer-vosters"
+    },
+    {
+      "text": "Book outlines Herod the Great's 'suspicious, jealous, conniving, homicidal' legacy",
+      "url": "/news/opinion/book-outlines-herod-greats-suspicious-jealous-conniving-homicidal-legacy"
+    },
+    {
+      "text": "James P. Cahill ",
+      "url": "/authors/james-p-cahill"
+    },
+    {
+      "text": "Rembrandt's technique sheds light on how parables work",
+      "url": "/news/opinion/rembrandts-technique-sheds-light-how-parables-work"
+    },
+    {
+      "text": "David B. Gowler",
+      "url": "/authors/david-b-gowler"
+    },
+    {
+      "text": "'Emo' reggaeton brings out longing and nostalgia in the musical genre",
+      "url": "/news/opinion/emo-reggaeton-brings-out-longing-and-nostalgia-musical-genre"
+    },
+    {
+      "text": "Stephen G. Adubato",
+      "url": "/authors/stephen-g-adubato"
+    },
+    {
+      "text": "Historian's new book highlights Pius XII's moral failures",
+      "url": "/news/opinion/historians-new-book-highlights-pius-xiis-moral-failures"
+    },
+    {
+      "text": "Jason Berry",
+      "url": "/authors/jason-berry"
+    },
+    {
+      "text": "World",
+      "url": "/channel/global"
+    },
+    {
+      "text": "",
+      "url": "/news/vatican/parent-sues-australian-cardinal-over-child-sex-abuse-charge"
+    },
+    {
+      "text": "Parent sues Australian cardinal over child sex abuse charge",
+      "url": "https://www.ncronline.org/news/vatican/parent-sues-australian-cardinal-over-child-sex-abuse-charge"
+    },
+    {
+      "text": "Associated Press",
+      "url": "/authors/associated-press-0"
+    },
+    {
+      "text": "",
+      "url": "/news/world/new-zealand-bishops-urge-action-end-palestinian-suffering-holy-land"
+    },
+    {
+      "text": "New Zealand bishops urge action to end Palestinian suffering in Holy Land",
+      "url": "https://www.ncronline.org/news/world/new-zealand-bishops-urge-action-end-palestinian-suffering-holy-land"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "African youth deliver environmental demands to bishops at Laudato Si' meeting",
+      "url": "/news/earthbeat/african-youth-deliver-environmental-demands-bishops-laudato-si-meeting"
+    },
+    {
+      "text": "Brian Roewe",
+      "url": "/authors/brian-roewe"
+    },
+    {
+      "text": "Police in Northern Ireland investigate burning of Pope Francis image",
+      "url": "/news/world/police-northern-ireland-investigate-burning-pope-francis-image"
+    },
+    {
+      "text": "Michael Kelly",
+      "url": "/authors/michael-kelly"
+    },
+    {
+      "text": "South Sudan bishop urges steps to achieve long-term reconciliation",
+      "url": "/news/world/south-sudan-bishop-urges-steps-achieve-long-term-reconciliation"
+    },
+    {
+      "text": "Francis Njuguna",
+      "url": "/authors/francis-njuguna"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "As it was 40 years ago, nuclear disarmament is our only hope for the future",
+      "url": "/news/opinion/it-was-40-years-ago-nuclear-disarmament-our-only-hope-future"
+    },
+    {
+      "text": "Patrick O'Neill",
+      "url": "/authors/patrick-oneill"
+    },
+    {
+      "text": "Global Sisters Report",
+      "url": "https://www.globalsistersreport.org"
+    },
+    {
+      "text": "",
+      "url": "/news/ministry/column/through-service-i-feel-if-god-me-coming-out"
+    },
+    {
+      "text": "Through service, 'I feel as if the God in me is coming out'",
+      "url": "https://www.globalsistersreport.org/news/ministry/column/through-service-i-feel-if-god-me-coming-out"
+    },
+    {
+      "text": "Jennifer Wilson",
+      "url": "/authors/jennifer-wilson"
+    },
+    {
+      "text": "",
+      "url": "/news/social-justice/blog/keeping-faith-slow-road-justice"
+    },
+    {
+      "text": "Keeping the faith on the slow road to justice",
+      "url": "https://www.globalsistersreport.org/news/social-justice/blog/keeping-faith-slow-road-justice"
+    },
+    {
+      "text": "Maxine Kollasch",
+      "url": "/authors/maxine-kollasch"
+    },
+    {
+      "text": "On Greece's Santorini island, 13 cloistered nuns pray for the world",
+      "url": "https://www.globalsistersreport.org/news/religious-life/news/greeces-santorini-island-13-cloistered-nuns-pray-world"
+    },
+    {
+      "text": "Giovanna Dell'Orto",
+      "url": "/authors/giovanna-dellorto"
+    },
+    {
+      "text": "Associated Press",
+      "url": "/authors/associated-press-0"
+    },
+    {
+      "text": "The tragedy of the hidden war in Ethiopia's Tigray region",
+      "url": "https://www.globalsistersreport.org/news/social-justice/column/tragedy-hidden-war-ethiopias-tigray-region"
+    },
+    {
+      "text": "Naomi Nkrumah",
+      "url": "/authors/naomi-nkrumah"
+    },
+    {
+      "text": "Farm settlement honoring US-born nun created, then revoked in Amazon",
+      "url": "https://www.globalsistersreport.org/news/news/news/farm-settlement-honoring-us-born-nun-created-then-revoked-amazon"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "We can glide in the sky, but the wind will not blow indefinitely",
+      "url": "https://www.globalsistersreport.org/news/religious-life/column/we-can-glide-sky-wind-will-not-blow-indefinitely"
+    },
+    {
+      "text": "Julie A. Ferraro",
+      "url": "/authors/julie-ferraro"
+    },
+    {
+      "text": "Justice",
+      "url": "/channel/peace-justice"
+    },
+    {
+      "text": "",
+      "url": "/news/justice/biden-administration-urged-expand-immigration-status-venezuelans"
+    },
+    {
+      "text": "Biden administration urged to expand immigration status for Venezuelans",
+      "url": "https://www.ncronline.org/news/justice/biden-administration-urged-expand-immigration-status-venezuelans"
+    },
+    {
+      "text": "Rhina Guidos",
+      "url": "/authors/rhina-guidos"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "",
+      "url": "/news/opinion/what-scar-romero-can-teach-us-about-black-lives-matter"
+    },
+    {
+      "text": "What \u00d3scar Romero can teach us about Black Lives Matter",
+      "url": "https://www.ncronline.org/news/opinion/what-scar-romero-can-teach-us-about-black-lives-matter"
+    },
+    {
+      "text": "Elizabeth (Ro) Ajiduah",
+      "url": "/authors/elizabeth-ro-ajiduah"
+    },
+    {
+      "text": "Archbishop Wester embarks on the long path to end the nuclear threat",
+      "url": "/news/justice/archbishop-wester-embarks-long-path-end-nuclear-threat"
+    },
+    {
+      "text": "Dennis Sadowski",
+      "url": "/authors/dennis-sadowski"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "As it was 40 years ago, nuclear disarmament is our only hope for the future",
+      "url": "/news/opinion/it-was-40-years-ago-nuclear-disarmament-our-only-hope-future"
+    },
+    {
+      "text": "Patrick O'Neill",
+      "url": "/authors/patrick-oneill"
+    },
+    {
+      "text": "Bishops say US mass shootings have become 'shockingly commonplace'",
+      "url": "/news/justice/bishops-say-us-mass-shootings-have-become-shockingly-commonplace"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Church leaders push to expand their peacekeeping role in Africa",
+      "url": "/news/justice/church-leaders-push-expand-their-peacekeeping-role-africa"
+    },
+    {
+      "text": "Jonathan Luxmoore",
+      "url": "/authors/jonathan-luxmoore"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Accountability",
+      "url": "/channel/accountability"
+    },
+    {
+      "text": "",
+      "url": "/news/accountability/us-bishops-2930-abuse-victims-came-forward-2020-2021"
+    },
+    {
+      "text": "US bishops: 2,930 abuse victims came forward in 2020-2021",
+      "url": "https://www.ncronline.org/news/accountability/us-bishops-2930-abuse-victims-came-forward-2020-2021"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "",
+      "url": "/news/accountability/news/news/do-not-hide-reality-abuse-pope-tells-religious-orders"
+    },
+    {
+      "text": "Do not hide reality of abuse, pope tells religious orders",
+      "url": "https://www.ncronline.org/news/accountability/news/news/do-not-hide-reality-abuse-pope-tells-religious-orders"
+    },
+    {
+      "text": "Junno Arocho Esteves",
+      "url": "/authors/junno-arocho-esteves"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "German leaders see crisis as Catholics resign from the church",
+      "url": "/news/accountability/german-leaders-see-crisis-catholics-resign-church"
+    },
+    {
+      "text": "Thomas Winkel",
+      "url": "/authors/thomas-winkel"
+    },
+    {
+      "text": "Joachim Heinz",
+      "url": "/authors/joachim-heinz"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "FBI opens sweeping probe of clergy sex abuse in New Orleans",
+      "url": "/news/accountability/fbi-opens-sweeping-probe-clergy-sex-abuse-new-orleans"
+    },
+    {
+      "text": "Jim Mustian",
+      "url": "/authors/jim-mustian"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/authors/associated-press"
+    },
+    {
+      "text": "Vatican publishes slightly updated guidelines for handling abuse cases",
+      "url": "/news/accountability/vatican-publishes-slightly-updated-guidelines-handling-abuse-cases"
+    },
+    {
+      "text": "Cindy Wooden",
+      "url": "/authors/cindy-wooden"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Abuse survivors praise Supreme Court for declining to review California's Child Victims Act",
+      "url": "/news/accountability/abuse-survivors-praise-supreme-court-declining-review-californias-child-victims"
+    },
+    {
+      "text": "Katie Collins Scott",
+      "url": "/authors/katie-collins-scott"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "/channel/coronavirus"
+    },
+    {
+      "text": "",
+      "url": "/news/coronavirus/after-my-bout-covid-two-road-races-deepen-my-gratitude-running"
+    },
+    {
+      "text": "After my bout of COVID, two road races deepen my gratitude for running",
+      "url": "https://www.ncronline.org/news/coronavirus/after-my-bout-covid-two-road-races-deepen-my-gratitude-running"
+    },
+    {
+      "text": "Daniel P. Horan",
+      "url": "/authors/daniel-p-horan"
+    },
+    {
+      "text": "",
+      "url": "/news/coronavirus/news/vietnamese-sisters-look-ahead-after-covid-19-runs-rampant-through-motherhouse"
+    },
+    {
+      "text": "Vietnamese sisters look ahead after COVID-19 runs rampant through motherhouse",
+      "url": "https://www.globalsistersreport.org/news/coronavirus/news/vietnamese-sisters-look-ahead-after-covid-19-runs-rampant-through-motherhouse"
+    },
+    {
+      "text": "Joachim Pham",
+      "url": "/authors/joachim-pham"
+    },
+    {
+      "text": "As a world in pandemic seeks a return to normal, leaders urge vigilance, vaccines",
+      "url": "https://www.globalsistersreport.org/news/coronavirus/news/world-pandemic-seeks-return-normal-leaders-urge-vigilance-vaccines"
+    },
+    {
+      "text": "Chris Herlinger",
+      "url": "/authors/chris-herlinger"
+    },
+    {
+      "text": "GSR Staff",
+      "url": "/authors/gsr-staff"
+    },
+    {
+      "text": "Government to lift health measure that blocks entrance of asylum-seekers",
+      "url": "/news/coronavirus/government-lift-health-measure-blocks-entrance-asylum-seekers"
+    },
+    {
+      "text": "Rhina Guidos",
+      "url": "/authors/rhina-guidos"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "A pandemic is tough for new moms, but Catholic Latina moms faced added hurdles",
+      "url": "/news/coronavirus/pandemic-tough-new-moms-catholic-latina-moms-faced-added-hurdles"
+    },
+    {
+      "text": "Melissa Cedillo",
+      "url": "/authors/melissa-cedillo"
+    },
+    {
+      "text": "A hospital chaplain reflects on the power of memory during COVID-19",
+      "url": "/news/coronavirus/hospital-chaplain-reflects-power-memory-during-covid-19"
+    },
+    {
+      "text": "Steven Salido Fisher",
+      "url": "/authors/steven-salido-fisher"
+    },
+    {
+      "text": "Parish",
+      "url": "/channel/faith-parish"
+    },
+    {
+      "text": "",
+      "url": "/news/parish/after-fires-set-pastor-encourages-people-remember-we-are-church"
+    },
+    {
+      "text": "After fires set, pastor encourages people to remember 'we are the church'",
+      "url": "https://www.ncronline.org/news/parish/after-fires-set-pastor-encourages-people-remember-we-are-church"
+    },
+    {
+      "text": "Mark Zimmermann",
+      "url": "/authors/mark-zimmermann"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "",
+      "url": "/news/parish/police-deflect-rioters-portland-catholic-church-avert-vandalism"
+    },
+    {
+      "text": "Police deflect rioters from Portland Catholic church, avert vandalism",
+      "url": "https://www.ncronline.org/news/parish/police-deflect-rioters-portland-catholic-church-avert-vandalism"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Speakers: 'Embracing historical memory' strengthens church ministries today",
+      "url": "/news/parish/speakers-embracing-historical-memory-strengthens-church-ministries-today"
+    },
+    {
+      "text": "Norma Montenegro Flynn",
+      "url": "/authors/norma-montenegro-flynn"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Helping immigrants build a haven amid fear and anger",
+      "url": "/news/opinion/helping-immigrants-build-haven-amid-fear-and-anger"
+    },
+    {
+      "text": "Amy Ketner",
+      "url": "/authors/amy-ketner"
+    },
+    {
+      "text": "Study provides 'detailed snapshot' of state of permanent diaconate in U.S.",
+      "url": "/news/parish/study-provides-detailed-snapshot-state-permanent-diaconate-us"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Your thoughts on the failing church in the West",
+      "url": "/news/opinion/ncr-today/your-thoughts-failing-church-west"
+    },
+    {
+      "text": "NCR Staff",
+      "url": "/authors/ncr-staff"
+    },
+    {
+      "text": "Spirituality",
+      "url": "/channel/spirituality"
+    },
+    {
+      "text": "",
+      "url": "/news/opinion/scripture-life/fifteenth-sunday-ordinary-time-image-god"
+    },
+    {
+      "text": "Scripture for Life",
+      "url": "/columns/scripture-for-life"
+    },
+    {
+      "text": "Fifteenth Sunday in Ordinary Time: The image of God",
+      "url": "https://www.ncronline.org/news/opinion/scripture-life/fifteenth-sunday-ordinary-time-image-god"
+    },
+    {
+      "text": "Mary M. McGlone",
+      "url": "/authors/mary-m-mcglone"
+    },
+    {
+      "text": "",
+      "url": "/news/opinion/rembrandts-technique-sheds-light-how-parables-work"
+    },
+    {
+      "text": "Rembrandt's technique sheds light on how parables work",
+      "url": "https://www.ncronline.org/news/opinion/rembrandts-technique-sheds-light-how-parables-work"
+    },
+    {
+      "text": "David B. Gowler",
+      "url": "/authors/david-b-gowler"
+    },
+    {
+      "text": "Fourteenth Sunday in Ordinary Time: We are chosen to be vulnerable",
+      "url": "/news/spirituality/scripture-life/fourteenth-sunday-ordinary-time-we-are-chosen-be-vulnerable"
+    },
+    {
+      "text": "Mary M. McGlone",
+      "url": "/authors/mary-m-mcglone"
+    },
+    {
+      "text": "We can forgive",
+      "url": "/news/spirituality/pencil-preaching/we-can-forgive"
+    },
+    {
+      "text": "Pat Marrin",
+      "url": "/authors/pat-marrin"
+    },
+    {
+      "text": "Peter and Paul, Apostles",
+      "url": "/news/spirituality/pencil-preaching/peter-and-paul-apostles"
+    },
+    {
+      "text": "Pat Marrin",
+      "url": "/authors/pat-marrin"
+    },
+    {
+      "text": "Wake up!",
+      "url": "/news/spirituality/pencil-preaching/wake"
+    },
+    {
+      "text": "Pat Marrin",
+      "url": "/authors/pat-marrin"
+    },
+    {
+      "text": "Theology",
+      "url": "/channel/theology"
+    },
+    {
+      "text": "",
+      "url": "/news/opinion/online-course-shows-synodality-about-church-breaking-old-bad-habits"
+    },
+    {
+      "text": "Online course shows synodality is about the church breaking old, bad habits",
+      "url": "https://www.ncronline.org/news/opinion/online-course-shows-synodality-about-church-breaking-old-bad-habits"
+    },
+    {
+      "text": "Massimo Faggioli",
+      "url": "/authors/massimo-faggioli"
+    },
+    {
+      "text": "",
+      "url": "/news/opinion/rembrandts-technique-sheds-light-how-parables-work"
+    },
+    {
+      "text": "Rembrandt's technique sheds light on how parables work",
+      "url": "https://www.ncronline.org/news/opinion/rembrandts-technique-sheds-light-how-parables-work"
+    },
+    {
+      "text": "David B. Gowler",
+      "url": "/authors/david-b-gowler"
+    },
+    {
+      "text": "Australia's Catholic plenary council in crisis over role of women in church",
+      "url": "/news/theology/australias-catholic-plenary-council-crisis-over-role-women-church"
+    },
+    {
+      "text": "Marilyn Rodrigues",
+      "url": "/authors/marilyn-rodrigues"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Pope Francis' new apostolic letter is about more than 'liturgy wars'",
+      "url": "/news/opinion/pope-francis-new-apostolic-letter-about-more-liturgy-wars"
+    },
+    {
+      "text": "Michael Sean Winters",
+      "url": "/authors/michael-sean-winters"
+    },
+    {
+      "text": "We humans need to open our minds to the personhood of nonhuman animals",
+      "url": "/news/opinion/we-humans-need-open-our-minds-personhood-nonhuman-animals"
+    },
+    {
+      "text": "Daniel P. Horan",
+      "url": "/authors/daniel-p-horan"
+    },
+    {
+      "text": "Catholic Theological Society of America resolves to divest from fossil fuels",
+      "url": "/news/earthbeat/catholic-theological-society-america-resolves-divest-fossil-fuels"
+    },
+    {
+      "text": "Brian Roewe",
+      "url": "/authors/brian-roewe"
+    },
+    {
+      "text": "Quick Reads",
+      "url": "/channel/quick-reads"
+    },
+    {
+      "text": "Vatican removes Ohio priest from ministry after abuse allegations",
+      "url": "/news/accountability/vatican-removes-ohio-priest-ministry-after-abuse-allegations"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Gold ring stolen from St. Nicholas statue in Italian church",
+      "url": "/news/quick-reads/gold-ring-stolen-st-nicholas-statue-italian-church"
+    },
+    {
+      "text": "Associated Press",
+      "url": "/authors/associated-press-0"
+    },
+    {
+      "text": "Georgetown suspends law professor over 'lesser' Black woman tweets",
+      "url": "/news/quick-reads/georgetown-suspends-law-professor-over-lesser-black-woman-tweets"
+    },
+    {
+      "text": "Melissa Cedillo",
+      "url": "/authors/melissa-cedillo"
+    },
+    {
+      "text": "Germany's Cardinal Marx backs loosening of priestly celibacy",
+      "url": "/news/quick-reads/germanys-cardinal-marx-backs-loosening-priestly-celibacy"
+    },
+    {
+      "text": "Associated Press",
+      "url": "/authors/associated-press-0"
+    },
+    {
+      "text": "Top EU cardinal calls for change in church teaching on gay relationships",
+      "url": "/news/quick-reads/top-eu-cardinal-calls-change-church-teaching-gay-relationships"
+    },
+    {
+      "text": "Katholische Nachrichten-Agentur",
+      "url": "/authors/katholische-nachrichten-agentur"
+    },
+    {
+      "text": "Pope's music library contains nearly 2,000 CDs, includes Elvis",
+      "url": "/news/quick-reads/francis-chronicles/popes-music-library-contains-nearly-2000-cds-includes-elvis"
+    },
+    {
+      "text": "Carol Glatz",
+      "url": "/authors/carol-glatz"
+    },
+    {
+      "text": "Catholic News Service",
+      "url": "/authors/catholic-news-service"
+    },
+    {
+      "text": "Daniel P. Horan",
+      "url": "/authors/daniel-p-horan"
+    },
+    {
+      "text": "Joan Chittister",
+      "url": "/authors/joan-chittister"
+    },
+    {
+      "text": "Michael Sean Winters",
+      "url": "/authors/michael-sean-winters"
+    },
+    {
+      "text": "Phyllis Zagano",
+      "url": "/authors/phyllis-zagano"
+    },
+    {
+      "text": "Thomas Reese",
+      "url": "/authors/thomas-reese"
+    },
+    {
+      "text": "",
+      "url": "/blogs/ncr-today"
+    },
+    {
+      "text": "NCR Today",
+      "url": "/blogs/ncr-today"
+    },
+    {
+      "text": "multiple authors",
+      "url": "/taxonomy/term/98391"
+    },
+    {
+      "text": "\n  \n      \n",
+      "url": "/columns/ncr-connections"
+    },
+    {
+      "text": "NCR Connections",
+      "url": "/columns/ncr-connections"
+    },
+    {
+      "text": "Heidi Schlumpf",
+      "url": "/authors/heidi-schlumpf"
+    },
+    {
+      "text": "\n  \n      \n",
+      "url": "/columns/pencil-preaching"
+    },
+    {
+      "text": "Pencil Preaching",
+      "url": "/columns/pencil-preaching"
+    },
+    {
+      "text": "Pat Marrin",
+      "url": "/authors/pat-marrin"
+    },
+    {
+      "text": "",
+      "url": "/columns/sunday-resources"
+    },
+    {
+      "text": "Sunday Resources",
+      "url": "/columns/sunday-resources"
+    },
+    {
+      "text": "Multiple authors",
+      "url": "/taxonomy/term/131471"
+    },
+    {
+      "text": "",
+      "url": "/blogs/francis-chronicles"
+    },
+    {
+      "text": "The Francis Chronicles",
+      "url": "/blogs/francis-chronicles"
+    },
+    {
+      "text": "",
+      "url": "/columns/soul-seeing"
+    },
+    {
+      "text": "Soul Seeing",
+      "url": "/columns/soul-seeing"
+    },
+    {
+      "text": "Michael Leach and friends",
+      "url": "/taxonomy/term/29"
+    },
+    {
+      "text": "",
+      "url": "/columns/scripture-for-life"
+    },
+    {
+      "text": "Scripture for Life",
+      "url": "/columns/scripture-for-life"
+    },
+    {
+      "text": "Multiple authors",
+      "url": "/taxonomy/term/30"
+    },
+    {
+      "text": "",
+      "url": "/columns/theology-en-la-plaza"
+    },
+    {
+      "text": "Theology en la Plaza",
+      "url": "/columns/theology-en-la-plaza"
+    },
+    {
+      "text": "Multiple authors",
+      "url": "/taxonomy/term/113971"
+    },
+    {
+      "text": "Christine Schenk",
+      "url": "/authors/christine-schenk"
+    },
+    {
+      "text": "David E. DeCosse",
+      "url": "/authors/david-e-decosse"
+    },
+    {
+      "text": "Dwayne David Paul",
+      "url": "/authors/dwayne-david-paul"
+    },
+    {
+      "text": "Flora x. Tang",
+      "url": "/authors/flora-x-tang"
+    },
+    {
+      "text": "Fr. Peter Daly",
+      "url": "/authors/fr-peter-daly"
+    },
+    {
+      "text": "Hosffman Ospino",
+      "url": "/authors/hosffman-ospino"
+    },
+    {
+      "text": "James F. Keenan",
+      "url": "/authors/james-f-keenan"
+    },
+    {
+      "text": "Kate Hennessy",
+      "url": "/authors/kate-hennessy"
+    },
+    {
+      "text": "Rebecca Bratten Weiss",
+      "url": "/authors/rebecca-bratten-weiss"
+    },
+    {
+      "text": "Simone Campbell",
+      "url": "/authors/simone-campbell"
+    },
+    {
+      "text": "Stephen G. Adubato",
+      "url": "/authors/stephen-g-adubato"
+    },
+    {
+      "text": "Tia Noelle Pratt",
+      "url": "/authors/tia-noelle-pratt"
+    },
+    {
+      "text": "Yunuen Trujillo",
+      "url": "/authors/yunuen-trujillo"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "/channel/coronavirus"
+    },
+    {
+      "text": "Quick Reads",
+      "url": "/channel/quick-reads"
+    },
+    {
+      "text": "Accountability",
+      "url": "/channel/accountability"
+    },
+    {
+      "text": "Books",
+      "url": "/channel/books"
+    },
+    {
+      "text": "Columns",
+      "url": "/columns"
+    },
+    {
+      "text": "Justice",
+      "url": "/channel/justice"
+    },
+    {
+      "text": "Culture",
+      "url": "/channel/culture"
+    },
+    {
+      "text": "Parish",
+      "url": "/channel/parish"
+    },
+    {
+      "text": "People",
+      "url": "/channel/people"
+    },
+    {
+      "text": "Politics",
+      "url": "/channel/politics"
+    },
+    {
+      "text": "Spirituality",
+      "url": "/channel/spirituality"
+    },
+    {
+      "text": "Theology",
+      "url": "/channel/theology"
+    },
+    {
+      "text": "Vatican",
+      "url": "/channel/vatican"
+    },
+    {
+      "text": "World",
+      "url": "/channel/world"
+    },
+    {
+      "text": "Opinion",
+      "url": "/channel/opinion"
+    },
+    {
+      "text": "Global Sisters Report",
+      "url": "https://www.globalsistersreport.org/"
+    },
+    {
+      "text": "Advertise",
+      "url": "http://ncronline.org/advertise"
+    },
+    {
+      "text": "NCR Media Kit",
+      "url": "https://www.ncronline.org/files/NCR%202022%20Media%20Kit.pdf"
+    },
+    {
+      "text": "Online Advertising",
+      "url": "/web-rate-card"
+    },
+    {
+      "text": "Email Advertising",
+      "url": "/email-rate-card"
+    },
+    {
+      "text": "Classifieds",
+      "url": "/classifieds"
+    },
+    {
+      "text": "Obituaries",
+      "url": "/obituaries"
+    },
+    {
+      "text": "List Rental",
+      "url": "/list"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
+    },
+    {
+      "text": "Contact NCR Staff and Contributors",
+      "url": "/false/national-catholic-reporter-staff-contributors"
+    },
+    {
+      "text": "How to write for NCR",
+      "url": "/how-write-ncr"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "/false/join-conversation"
+    },
+    {
+      "text": "Job Opportunities at NCR",
+      "url": "https://www.ncronline.org/node/42846"
+    },
+    {
+      "text": "Change your Address",
+      "url": "/ncr-change-address"
+    },
+    {
+      "text": "Request a Sample",
+      "url": "/request-sample-issue"
+    },
+    {
+      "text": "Reprints",
+      "url": "/request-reprint-ncr-content"
+    },
+    {
+      "text": "Web User Guidelines",
+      "url": "/user-guidelines"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "Giving to NCR",
+      "url": "/donate/give-now"
+    },
+    {
+      "text": "About NCR",
+      "url": "/about-us"
+    },
+    {
+      "text": "Become a Member",
+      "url": "https://www.ncronline.org/forward?clickSource=footer&clickMedium=website"
+    },
+    {
+      "text": "Give Now",
+      "url": "/donate/give-now"
+    },
+    {
+      "text": "Your NCR Legacy",
+      "url": "https://ncronline.planmylegacy.org/"
+    },
+    {
+      "text": "Endowment Opportunities",
+      "url": "/donate/endowment-gifts"
+    },
+    {
+      "text": "Catholic Parish/Group Giving",
+      "url": "/donate/parish-giving"
+    },
+    {
+      "text": "Tributes",
+      "url": "https://www.ncronline.org/sites/default/files/Honor%20and%20Memoriam%20Pages.pdf"
+    },
+    {
+      "text": "Friends",
+      "url": "https://www.ncronline.org/sites/default/files/Donor%20listing%20pages%201a-12a.pdf"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/subscribe/new/ncr"
+    },
+    {
+      "text": "Subscribe to NCR",
+      "url": "/subscribe/new/ncr"
+    },
+    {
+      "text": "Give NCR as a Gift",
+      "url": "/subscribe/gift/ncr"
+    },
+    {
+      "text": "Renew",
+      "url": "/renew"
+    },
+    {
+      "text": "Kindle Edition",
+      "url": "/kindle-and-digital-editions-national-catholic-reporter"
+    },
+    {
+      "text": "NCRonline.org",
+      "url": "https://www.ncronline.org"
+    },
+    {
+      "text": "EarthBeat",
+      "url": "/earthbeat"
+    },
+    {
+      "text": "GlobalSistersReport.org",
+      "url": "https://www.globalsistersreport.org/"
+    },
+    {
+      "text": "Free Newsletters",
+      "url": "/free-newsletters"
+    },
+    {
+      "text": "Our Facebook Page",
+      "url": "https://www.facebook.com/NCRonline/"
+    },
+    {
+      "text": "Follow us on Twitter",
+      "url": "https://twitter.com/NCRonline"
+    },
+    {
+      "text": "Follow us on Instagram",
+      "url": "https://www.instagram.com/ncronline/"
+    },
+    {
+      "text": "Our YouTube Channel",
+      "url": "https://www.youtube.com/user/NCRonline"
+    }
+  ],
   "server": "ia802503.us.archive.org",
-  "uniq": 1575056232,
+  "uniq": 614260166,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

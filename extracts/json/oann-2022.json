@@ -1,5 +1,5 @@
 {
-  "created": 1657887312,
+  "created": 1657973652,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/22/items/oann-2022",
@@ -6400,31 +6400,157 @@
       "sha1": "e64a9a7ac478f7f24e07087b00fde664100695df"
     },
     {
+      "name": "oann-2022-07-15T11:07:49.958905-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657897676",
+      "size": "20719",
+      "md5": "b5b24cb9741e4ccd5b30c1484b65772d",
+      "crc32": "5819289c",
+      "sha1": "6a29c56015589d89a9ed82527edfa2fea74110ad",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-07-15T11:07:49.958905-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657897679",
+      "size": "14683",
+      "md5": "edfc947db2b11e58e82f9a5ee751f4f7",
+      "crc32": "60117a36",
+      "sha1": "d249f61d4aa6eb744d2e9e57e3e1326be7b2caf9",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-07-15T11:07:49.958905-04:00.jpg",
+      "source": "original",
+      "mtime": "1657897674",
+      "size": "282418",
+      "md5": "0777f13797f5d4395629917a5d494c11",
+      "crc32": "e82b21e6",
+      "sha1": "c2e80a2f0c918b4901ca1fd62dfea5345e48f1a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-07-15T11:07:49.958905-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-07-15T11:07:49.958905-04:00.jpg",
+      "mtime": "1657901294",
+      "size": "11350",
+      "md5": "4f71b00d300890d1342741e3e81f29e0",
+      "crc32": "a5a442fa",
+      "sha1": "a8a9afa05727f647c18321d49aa7d2b1581321f4"
+    },
+    {
+      "name": "oann-2022-07-15T12:05:15.815658-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901120",
+      "size": "20733",
+      "md5": "682bc1f64f863c4b573658c2405e3f89",
+      "crc32": "81f939c6",
+      "sha1": "221fd1abef92471a33b479398411aaaf1cd1c2e4",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-07-15T12:05:15.815658-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901123",
+      "size": "14913",
+      "md5": "1052998c729fa1b8b7457451b5884093",
+      "crc32": "aebed98e",
+      "sha1": "6fc00cda33fc1141c1b0f84e6d75fb23409d8895",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-07-15T12:05:15.815658-04:00.jpg",
+      "source": "original",
+      "mtime": "1657901117",
+      "size": "285772",
+      "md5": "35f48898ae600bae517a128983c5e69e",
+      "crc32": "71576180",
+      "sha1": "480b00d06676b8e2012bdd878ae347a7a2fcdcd3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-07-15T12:05:15.815658-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-07-15T12:05:15.815658-04:00.jpg",
+      "mtime": "1657907246",
+      "size": "11219",
+      "md5": "3013ef423a967e86abbe1421779c6336",
+      "crc32": "1126ba19",
+      "sha1": "21a94ec3f0249ea2fedc25972e5799d1f057a309"
+    },
+    {
+      "name": "oann-2022-07-15T23:18:33.262798-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657941518",
+      "size": "19995",
+      "md5": "5a66e39eb9f7790905f8b339169af0eb",
+      "crc32": "b9b2f095",
+      "sha1": "c58fa304452f8b066e978cbe5578837cafca14e8",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-07-15T23:18:33.262798-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657941520",
+      "size": "14614",
+      "md5": "11b07f80b7e74623bc067e59fd94e7c0",
+      "crc32": "c28152cc",
+      "sha1": "10557cb8d3aad63ce979b32eac48f8781f5dd77f",
+      "format": "JSON"
+    },
+    {
+      "name": "oann-2022-07-15T23:18:33.262798-04:00.jpg",
+      "source": "original",
+      "mtime": "1657941516",
+      "size": "267592",
+      "md5": "c85725a6c59be643f351b50b4a699dea",
+      "crc32": "ed71af65",
+      "sha1": "875965dae6897b09945760c8d940aeff7312b370",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oann-2022-07-15T23:18:33.262798-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oann-2022-07-15T23:18:33.262798-04:00.jpg",
+      "mtime": "1657942866",
+      "size": "11085",
+      "md5": "5eceefa5d58ba97ca0ca734f539937c7",
+      "crc32": "f86e56ac",
+      "sha1": "f8cc60319e55cdfd35f6c4ab8d3e0da3c8f929a0"
+    },
+    {
       "name": "oann-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a56faddf46e67dd60c3282eade998efe8551eb45",
-      "mtime": "1657855933",
-      "size": "126316",
-      "md5": "ee43398a83a80f7219cf911c4a182b40",
-      "crc32": "21e08853",
-      "sha1": "57321803cf7286c022c3a7c0b7624e2e1e9d7b18",
+      "btih": "85397ba9cf7fa0cefb7cb976047335c47830cc46",
+      "mtime": "1657942880",
+      "size": "128798",
+      "md5": "b1bf97e7c33bfd3c896f5d9cc582c7e1",
+      "crc32": "1e09e399",
+      "sha1": "7261012bd2437fc0b94b2f0303e511821998c7c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oann-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e69c570c616b18f82ed672adf793f0db",
+      "md5": "f29d36725ebf257317a4d8b4fc465325",
       "summation": "md5"
     },
     {
       "name": "oann-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657855818",
-      "size": "671744",
-      "md5": "c71c04de094afa3cdd58872f669ffe14",
-      "crc32": "fcc72e9e",
-      "sha1": "fc847926dd70480eeb066c601e8a81e1027fb3da",
+      "mtime": "1657941523",
+      "size": "684032",
+      "md5": "0960923973291ae875b85934f80b97b0",
+      "crc32": "46918e46",
+      "sha1": "8b5de50f8c8c746d19084868f496eec5aa80bd2c",
       "format": "Metadata"
     },
     {
@@ -6438,9 +6564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 609,
-  "item_last_updated": 1657855933,
-  "item_size": 59484609,
+  "files_count": 621,
+  "item_last_updated": 1657942880,
+  "item_size": 60474472,
   "metadata": {
     "identifier": "oann-2022",
     "collection": [
@@ -6643,96 +6769,96 @@
       "url": "https://live.oann.com"
     },
     {
-      "text": "\n\t\t\t\t\tSenate committee argues over state abortion laws\n\t\t\t\t",
-      "url": "https://www.oann.com/senate-committee-argues-over-state-abortion-laws/"
+      "text": "\n\t\t\t\t\tHouse Minority Leader McCarthy: Biden Saudi trip a \u2018real setback\u2019\n\t\t\t\t",
+      "url": "https://www.oann.com/biden-meets-with-saudi-crown-prince-bin-salman/"
     },
     {
-      "text": "\n\t\t\t\t\tTrump: Fmr wife Ivana passed away at age 73\n\t\t\t\t",
-      "url": "https://www.oann.com/trump-fmr-wife-ivana-passed-away-at-age-73/"
+      "text": "\n\t\t\t\t\tBiden meets with Palestinian leader Abbas\n\t\t\t\t",
+      "url": "https://www.oann.com/biden-meets-with-palestinian-leader-abbas/"
     },
     {
-      "text": "\n\t\t\t\t\tTrump returning to D.C. for first time since leaving WH\n\t\t\t\t",
-      "url": "https://www.oann.com/trump-returning-to-d-c-for-first-time-since-leaving-wh/"
+      "text": "\n\t\t\t\t\tEU finds Novavax COVID vaccine may cause severe allergic reaction\n\t\t\t\t",
+      "url": "https://www.oann.com/fda-grants-emergency-authorization-to-novavax-covid-vaccine/"
     },
     {
-      "text": "\n\t\t\t\t\tUber faces sexual assault lawsuit from 550+ women\n\t\t\t\t",
-      "url": "https://www.oann.com/uber-faces-sexual-assault-lawsuit-from-550-women/"
+      "text": "\n\t\t\t\t\tPelosi: House to vote on sweeping abortion law\n\t\t\t\t",
+      "url": "https://www.oann.com/pelosi-house-to-vote-on-sweeping-abortion-law/"
     },
     {
-      "text": "\n\t\t\t\t\tRep. Johnson slams Dems for saying Canada \u2018most free\u2019 country\n\t\t\t\t",
-      "url": "https://www.oann.com/rep-johnson-slams-dems-for-saying-canada-most-free-country/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/uber-faces-sexual-assault-lawsuit-from-550-women/"
-    },
-    {
-      "text": "Uber faces sexual assault lawsuit from 550+ women",
-      "url": "https://www.oann.com/uber-faces-sexual-assault-lawsuit-from-550-women/"
+      "text": "\n\t\t\t\t\tNew Nat\u2019l Suicide Prevention Lifeline starting July 16th\n\t\t\t\t",
+      "url": "https://www.oann.com/new-natl-suicide-prevention-lifeline-starting-july-16th/"
     },
     {
       "text": "",
-      "url": "https://www.oann.com/rep-johnson-slams-dems-for-saying-canada-most-free-country/"
+      "url": "https://www.oann.com/new-natl-suicide-prevention-lifeline-starting-july-16th/"
     },
     {
-      "text": "Rep. Johnson slams Dems for saying Canada \u2018most free\u2019 country",
-      "url": "https://www.oann.com/rep-johnson-slams-dems-for-saying-canada-most-free-country/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/senate-committee-argues-over-state-abortion-laws/"
-    },
-    {
-      "text": "Senate committee argues over state abortion laws",
-      "url": "https://www.oann.com/senate-committee-argues-over-state-abortion-laws/"
+      "text": "New Nat\u2019l Suicide Prevention Lifeline starting July 16th",
+      "url": "https://www.oann.com/new-natl-suicide-prevention-lifeline-starting-july-16th/"
     },
     {
       "text": "",
-      "url": "https://www.oann.com/trump-fmr-wife-ivana-passed-away-at-age-73/"
+      "url": "https://www.oann.com/biden-meets-with-saudi-crown-prince-bin-salman/"
     },
     {
-      "text": "Trump: Fmr wife Ivana passed away at age 73",
-      "url": "https://www.oann.com/trump-fmr-wife-ivana-passed-away-at-age-73/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/trump-returning-to-d-c-for-first-time-since-leaving-wh/"
-    },
-    {
-      "text": "Trump returning to D.C. for first time since leaving WH",
-      "url": "https://www.oann.com/trump-returning-to-d-c-for-first-time-since-leaving-wh/"
+      "text": "House Minority Leader McCarthy: Biden Saudi trip a \u2018real setback\u2019",
+      "url": "https://www.oann.com/biden-meets-with-saudi-crown-prince-bin-salman/"
     },
     {
       "text": "",
-      "url": "https://www.oann.com/one-on-one-with-wealth-advisor-eddy-gifford-with-tactive/"
+      "url": "https://www.oann.com/biden-meets-with-palestinian-leader-abbas/"
     },
     {
-      "text": "One-on-one with Wealth advisor, Eddy Gifford with Tactive",
-      "url": "https://www.oann.com/one-on-one-with-wealth-advisor-eddy-gifford-with-tactive/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/classroom-warfare/"
-    },
-    {
-      "text": "Classroom Warfare",
-      "url": "https://www.oann.com/classroom-warfare/"
+      "text": "Biden meets with Palestinian leader Abbas",
+      "url": "https://www.oann.com/biden-meets-with-palestinian-leader-abbas/"
     },
     {
       "text": "",
-      "url": "https://www.oann.com/gop-lawmakers-question-biden-oil-transfer-to-china-before-saudi-visit/"
+      "url": "https://www.oann.com/fda-grants-emergency-authorization-to-novavax-covid-vaccine/"
     },
     {
-      "text": "GOP lawmakers question Biden oil transfer to China before Saudi visit",
-      "url": "https://www.oann.com/gop-lawmakers-question-biden-oil-transfer-to-china-before-saudi-visit/"
+      "text": "EU finds Novavax COVID vaccine may cause severe allergic reaction",
+      "url": "https://www.oann.com/fda-grants-emergency-authorization-to-novavax-covid-vaccine/"
     },
     {
       "text": "",
-      "url": "https://www.oann.com/ariz-riddled-with-culture-of-incompetence/"
+      "url": "https://www.oann.com/pelosi-house-to-vote-on-sweeping-abortion-law/"
     },
     {
-      "text": "Ariz. riddled with culture of incompetence",
-      "url": "https://www.oann.com/ariz-riddled-with-culture-of-incompetence/"
+      "text": "Pelosi: House to vote on sweeping abortion law",
+      "url": "https://www.oann.com/pelosi-house-to-vote-on-sweeping-abortion-law/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/rabbi-menken-says-trump-not-biden-shouldve-received-the-israeli-presidential-medal-of-honor/"
+    },
+    {
+      "text": "Rabbi Menken says Trump not Biden should\u2019ve received the Israeli Presidential Medal of Honor",
+      "url": "https://www.oann.com/rabbi-menken-says-trump-not-biden-shouldve-received-the-israeli-presidential-medal-of-honor/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/economy-how-much-worse-can-it-get/"
+    },
+    {
+      "text": "Economy, how much worse can it get?",
+      "url": "https://www.oann.com/economy-how-much-worse-can-it-get/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/sen-graham-if-putin-succeeds-in-ukraine-world-will-unravel-pretty-quickly/"
+    },
+    {
+      "text": "Sen. Graham: If Putin succeeds in Ukraine \u2018world will unravel pretty quickly\u2019",
+      "url": "https://www.oann.com/sen-graham-if-putin-succeeds-in-ukraine-world-will-unravel-pretty-quickly/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/floridians-speak-on-president-bidens-negative-poll-results/"
+    },
+    {
+      "text": "Floridians speak on President Biden\u2019s negative poll results",
+      "url": "https://www.oann.com/floridians-speak-on-president-bidens-negative-poll-results/"
     },
     {
       "text": "Business",
@@ -6740,27 +6866,27 @@
     },
     {
       "text": "",
-      "url": "https://www.oann.com/ben-jerrys-proposes/"
+      "url": "https://www.oann.com/wall-st-ends-tumultuous/"
     },
     {
-      "text": "Ben & Jerry\u2019s proposes to mediate Israel dispute with parent Unilever",
-      "url": "https://www.oann.com/ben-jerrys-proposes/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/westjet-and-nav-canada-2/"
-    },
-    {
-      "text": "WestJet and NAV Canada restore service after outages delay 100 flights",
-      "url": "https://www.oann.com/westjet-and-nav-canada-2/"
+      "text": "Wall St ends tumultuous week with strong rally as rate hike fears wane",
+      "url": "https://www.oann.com/wall-st-ends-tumultuous/"
     },
     {
       "text": "",
-      "url": "https://www.oann.com/trades-by-feds-powell-2/"
+      "url": "https://www.oann.com/biden-steps-in-to/"
     },
     {
-      "text": "Trades by Fed\u2019s Powell, Clarida violated no rules -watchdog",
-      "url": "https://www.oann.com/trades-by-feds-powell-2/"
+      "text": "Biden steps in to help end freight rail carrier and union disputes",
+      "url": "https://www.oann.com/biden-steps-in-to/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/u-s-retail-sales-beat/"
+    },
+    {
+      "text": "U.S. retail sales beat expectations; manufacturing production slumps",
+      "url": "https://www.oann.com/u-s-retail-sales-beat/"
     },
     {
       "text": "Tech",
@@ -6768,27 +6894,27 @@
     },
     {
       "text": "",
-      "url": "https://www.oann.com/russias-m-video-starts-used-2/"
+      "url": "https://www.oann.com/netflix-back-up-after/"
     },
     {
-      "text": "Russia\u2019s M.Video starts used smartphone sales as foreign supplies dwindle",
-      "url": "https://www.oann.com/russias-m-video-starts-used-2/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/italys-competition-watchdog-probes-2/"
-    },
-    {
-      "text": "Italy\u2019s competition watchdog probes Google over data portability",
-      "url": "https://www.oann.com/italys-competition-watchdog-probes-2/"
+      "text": "Netflix back up after streaming issues",
+      "url": "https://www.oann.com/netflix-back-up-after/"
     },
     {
       "text": "",
-      "url": "https://www.oann.com/tsmc-sees-resilient-chip-2/"
+      "url": "https://www.oann.com/american-airlines-to-pre-pay/"
     },
     {
-      "text": "TSMC sees resilient chip sales boosting Q3; electronics demand cooling",
-      "url": "https://www.oann.com/tsmc-sees-resilient-chip-2/"
+      "text": "American Airlines to pre-pay for 50 air taxis from Vertical Aerospace",
+      "url": "https://www.oann.com/american-airlines-to-pre-pay/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/judge-in-twitter-v/"
+    },
+    {
+      "text": "Judge in Twitter v. Musk once made rare ruling: ordering a deal to close",
+      "url": "https://www.oann.com/judge-in-twitter-v/"
     },
     {
       "text": "Entertainment",
@@ -6796,35 +6922,35 @@
     },
     {
       "text": "",
-      "url": "https://www.oann.com/gun-shooting-survivor-gabby-2/"
+      "url": "https://www.oann.com/disneys-espn-to-hike/"
+    },
+    {
+      "text": "Disney\u2019s ESPN+ to hike monthly subscription by $3",
+      "url": "https://www.oann.com/disneys-espn-to-hike/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/after-pandemic-debut-k-pop/"
+    },
+    {
+      "text": "After pandemic debut, K-pop stars aespa rub shoulders with fans for first time",
+      "url": "https://www.oann.com/after-pandemic-debut-k-pop/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/actress-julianne-moore-to/"
+    },
+    {
+      "text": "Actress Julianne Moore to head Venice Film Festival jury",
+      "url": "https://www.oann.com/actress-julianne-moore-to/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/gun-shooting-survivor-gabby/"
     },
     {
       "text": "Gun shooting survivor Gabby Giffords shares her story in new film",
-      "url": "https://www.oann.com/gun-shooting-survivor-gabby-2/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/actor-kevin-spacey-pleads-3/"
-    },
-    {
-      "text": "Actor Kevin Spacey pleads not guilty to sex offence charges",
-      "url": "https://www.oann.com/actor-kevin-spacey-pleads-3/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/actor-kevin-spacey-due-2/"
-    },
-    {
-      "text": "Actor Kevin Spacey due in London court charged with sex offences",
-      "url": "https://www.oann.com/actor-kevin-spacey-due-2/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/judge-rejects-amber-heard-2/"
-    },
-    {
-      "text": "Judge rejects Amber Heard bid for new trial with Johnny Depp",
-      "url": "https://www.oann.com/judge-rejects-amber-heard-2/"
+      "url": "https://www.oann.com/gun-shooting-survivor-gabby/"
     },
     {
       "text": "Sports",
@@ -6832,35 +6958,35 @@
     },
     {
       "text": "",
-      "url": "https://www.oann.com/golf-woods-struggles-badly-on-2/"
+      "url": "https://www.oann.com/golf-smith-shoots-sublime-64/"
     },
     {
-      "text": "Golf-Woods struggles badly on St Andrews return",
-      "url": "https://www.oann.com/golf-woods-struggles-badly-on-2/"
-    },
-    {
-      "text": "",
-      "url": "https://www.oann.com/russian-basketball-boss-defends-2/"
-    },
-    {
-      "text": "Russian basketball boss defends Brittney Griner in drugs trial",
-      "url": "https://www.oann.com/russian-basketball-boss-defends-2/"
+      "text": "Golf-Smith shoots sublime 64, emotional Woods misses cut",
+      "url": "https://www.oann.com/golf-smith-shoots-sublime-64/"
     },
     {
       "text": "",
-      "url": "https://www.oann.com/golf-scheffler-moves-quietly-into-2/"
+      "url": "https://www.oann.com/golf-picture-perfect-open-so/"
     },
     {
-      "text": "Golf-Scheffler moves quietly into major contention as usual",
-      "url": "https://www.oann.com/golf-scheffler-moves-quietly-into-2/"
+      "text": "Golf-Picture perfect Open so far for Smith",
+      "url": "https://www.oann.com/golf-picture-perfect-open-so/"
     },
     {
       "text": "",
-      "url": "https://www.oann.com/cycling-pogacar-admits-lack-of-2/"
+      "url": "https://www.oann.com/olympics-thorpe-gets-his-due/"
     },
     {
-      "text": "Cycling-Pogacar admits lack of self-confidence, vows to fight on Tour de France",
-      "url": "https://www.oann.com/cycling-pogacar-admits-lack-of-2/"
+      "text": "Olympics-Thorpe gets his due 110 years after double gold at Stockholm Games",
+      "url": "https://www.oann.com/olympics-thorpe-gets-his-due/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oann.com/athletics-u-s-into-mixed-relay/"
+    },
+    {
+      "text": "Athletics-U.S. into mixed relay final to set up golden farewell for Felix",
+      "url": "https://www.oann.com/athletics-u-s-into-mixed-relay/"
     },
     {
       "text": "",
@@ -6872,7 +6998,7 @@
     },
     {
       "text": "",
-      "url": "https://www.oann.com/newsletter-2"
+      "url": "https://www.oann.com/alerts"
     },
     {
       "text": "\u20182000 Mules\u2019 reveals possible ballot trafficking scheme",
@@ -6959,10 +7085,10 @@
       "url": "https://www.constantcontact.com/legal/service-provider"
     }
   ],
-  "server": "ia801507.us.archive.org",
-  "uniq": 745890658,
+  "server": "ia601507.us.archive.org",
+  "uniq": 808890728,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

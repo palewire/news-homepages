@@ -1,5 +1,5 @@
 {
-  "created": 1657887516,
+  "created": 1657973925,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/10/items/torontostar-2022",
@@ -1906,31 +1906,157 @@
       "sha1": "f7b19fbcd806ff80b3db8cd330936f0abaefd078"
     },
     {
+      "name": "torontostar-2022-07-15T11:01:34.548544-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657897298",
+      "size": "40887",
+      "md5": "657021145e8722ff179f2b1917655394",
+      "crc32": "d88bc1a2",
+      "sha1": "f9088f21647502e9fdafa3a970fae536d96a1f9b",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-07-15T11:01:34.548544-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657897299",
+      "size": "42387",
+      "md5": "f92565420aa52d6425f42febaebdd400",
+      "crc32": "ab6fae9d",
+      "sha1": "b317a4d220eb4b6802cc5f818740846ebd7ffa50",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-07-15T11:01:34.548544-04:00.jpg",
+      "source": "original",
+      "mtime": "1657897296",
+      "size": "294211",
+      "md5": "5668cf757aab5fb3c75fcc3c2566a329",
+      "crc32": "a136679f",
+      "sha1": "982ad5f3c26ca66d99b22f224a11fc590856f540",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torontostar-2022-07-15T11:01:34.548544-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torontostar-2022-07-15T11:01:34.548544-04:00.jpg",
+      "mtime": "1657901559",
+      "size": "9111",
+      "md5": "a62c73a97a3a7fcd3da7e3177ad81733",
+      "crc32": "3a583c1d",
+      "sha1": "0085f438386a7d24073d7840616580b99d85ccbc"
+    },
+    {
+      "name": "torontostar-2022-07-15T12:10:59.462946-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901466",
+      "size": "33333",
+      "md5": "ac22c6017106cb7504943db0fd9675df",
+      "crc32": "230eb491",
+      "sha1": "467c6344b482a1bf073290c30c00c95e616286dc",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-07-15T12:10:59.462946-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901470",
+      "size": "42575",
+      "md5": "32d8138012de0e17733573cc57fed860",
+      "crc32": "775d8be0",
+      "sha1": "725d858eb2e239fe2e161631ba479a3798a05087",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-07-15T12:10:59.462946-04:00.jpg",
+      "source": "original",
+      "mtime": "1657901462",
+      "size": "296545",
+      "md5": "473d364aaa312288f6aae51066990d45",
+      "crc32": "55eed7fc",
+      "sha1": "564fddda5b4dd5644f0d298d3b54beb3d1471149",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torontostar-2022-07-15T12:10:59.462946-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torontostar-2022-07-15T12:10:59.462946-04:00.jpg",
+      "mtime": "1657907347",
+      "size": "9006",
+      "md5": "31668d228595c607c7b06e8fbda18094",
+      "crc32": "11329ee1",
+      "sha1": "267a3d50e88a926642caa5031b4e3aa060eeebea"
+    },
+    {
+      "name": "torontostar-2022-07-16T00:04:53.196408-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657944298",
+      "size": "48133",
+      "md5": "ef47c1065c13646e38affd902f0c7b5c",
+      "crc32": "c59d8476",
+      "sha1": "ee1a334afdc0793d86e62f19c779372aca870aba",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-07-16T00:04:53.196408-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657944300",
+      "size": "44598",
+      "md5": "c4340d7571334654bac830ff794741c3",
+      "crc32": "2b255cb8",
+      "sha1": "5127935eced8faee30781a9dff07db537a0ca265",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-07-16T00:04:53.196408-04:00.jpg",
+      "source": "original",
+      "mtime": "1657944296",
+      "size": "288639",
+      "md5": "e699d7200a68713b99ac92fe283e5bc0",
+      "crc32": "521260c0",
+      "sha1": "914cad9d05f566e1cbd850bbdbb51d33cf541204",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torontostar-2022-07-16T00:04:53.196408-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torontostar-2022-07-16T00:04:53.196408-04:00.jpg",
+      "mtime": "1657946847",
+      "size": "8699",
+      "md5": "1addc0292244cfc2f3133a3f9b50ad63",
+      "crc32": "dad5758d",
+      "sha1": "0e3d9d7b9ac5a41c26cee7cd26b3ba2f89018222"
+    },
+    {
       "name": "torontostar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9d241cd5511c83db826bc3c30598122fec7c74ff",
-      "mtime": "1657858872",
-      "size": "40120",
-      "md5": "c296383a180eb59e19031d8017f779f1",
-      "crc32": "f9fd8102",
-      "sha1": "576eb30feed33ac39df6d6241a2ea7e8c64db5f5",
+      "btih": "31c56050eee5eeddb25cc53ec6a6129f757399e0",
+      "mtime": "1657946854",
+      "size": "42683",
+      "md5": "3d5df75efa38a319b0ac3d423b055e44",
+      "crc32": "3b82e44a",
+      "sha1": "7a71f1fa7e60d6200c373aa8da95fada43a41d04",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torontostar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d32a7f1715bd64c4b190ef9785f89524",
+      "md5": "0831a5de0184cb469fdfc2d364c61b44",
       "summation": "md5"
     },
     {
       "name": "torontostar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657858790",
-      "size": "229376",
-      "md5": "585fee883ccd46bb7fa99187475341ae",
-      "crc32": "e5071bd1",
-      "sha1": "8c38d4a3097efc3923677bf754107085eecfa17a",
+      "mtime": "1657944304",
+      "size": "241664",
+      "md5": "a0dcf0ed83b9535dd5b8382de1861104",
+      "crc32": "6b8c98f8",
+      "sha1": "8690be37d818ca00e6f7f84c3a05244c5bece664",
       "format": "Metadata"
     },
     {
@@ -1944,9 +2070,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 185,
-  "item_last_updated": 1657858872,
-  "item_size": 16474164,
+  "files_count": 197,
+  "item_last_updated": 1657946854,
+  "item_size": 17647139,
   "metadata": {
     "identifier": "torontostar-2022",
     "collection": [
@@ -1963,7 +2089,7 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "server": "ia801508.us.archive.org",
+  "server": "ia601508.us.archive.org",
   "torontostar-2022": [
     {
       "text": "",
@@ -2398,104 +2524,104 @@
       "url": "https://www.thestar.com/topic.patrick_brown.html"
     },
     {
-      "text": "GTAShould you get a fourth COVID vaccine dose now or in the fall? Five experts weigh in4 hrs ago ",
-      "url": "/news/gta/2022/07/14/the-4th-dose-debate-should-i-get-a-covid-booster-now-or-in-the-fall-five-experts-weigh-in.html"
+      "text": "Provincial PoliticsDoug Ford\u2019s house is up for sale. Here\u2019s the asking priceOntario\u2019s premier and his wife are selling their six-bedroom home in the Etobicoke enclave known as \u201cPrincess Anne Manor.\u201d6 hrs ago ",
+      "url": "/politics/provincial/2022/07/15/doug-fords-house-is-up-for-sale-heres-the-asking-price.html"
     },
     {
-      "text": "CanadaMan acquitted in Air India bombing \u2014 Canada\u2019s worst mass murder \u2014 shot dead in Surrey, B.C.2 hrs ago ",
-      "url": "/news/canada/2022/07/14/man-acquitted-in-air-india-bombing-canadas-worst-mass-murder-shot-dead-in-surrey-bc.html"
+      "text": "GTAYonge St. van attack killer appeals murder convictions, says judge \u2018misapprehended\u2019 expert evidence4 hrs ago ",
+      "url": "/news/gta/2022/07/15/yonge-st-van-attack-killer-appeals-murder-convictions-says-judge-misapprehended-expert-evidence.html"
     },
     {
-      "text": "BusinessWill the return of mandatory random COVID testing for arriving  air travellers lead to more delays?7 hrs ago ",
-      "url": "/business/2022/07/14/will-the-return-of-mandatory-random-covid-testing-to-arriving-international-air-travellers-lead-to-more-delays.html"
+      "text": "Federal PoliticsDoes the Conservative leadership race need a third debate?7 hrs ago ",
+      "url": "/politics/federal/2022/07/15/does-the-conservative-leadership-race-need-a-third-debate.html"
     },
     {
-      "text": "WorldIvana Trump, first wife of former president, dies at age 733 hrs ago ",
-      "url": "/news/world/2022/07/14/ivana-trump-first-wife-of-former-president-dies-at-age-73.html"
+      "text": "GTAHow to (hopefully) not get COVID on your summer vacation5 hrs ago ",
+      "url": "/news/gta/2022/07/15/how-to-hopefully-not-get-covid-on-your-summer-vacation.html"
     },
     {
-      "text": "GTAOntarians can expect climate payment3 hrs ago ",
-      "url": "/news/gta/2022/07/14/ontarians-can-expect-climate-payment.html"
+      "text": "GTAUxbridge pair charged in multimillion-dollar GTA real estate scam4 hrs ago ",
+      "url": "/news/gta/2022/07/15/pair-charged-in-multimillion-dollar-gta-real-estate-scam.html"
     },
     {
-      "text": "CanadaHockey Canada has apologized amid its sexual misconduct scandal. But will the \u2018culture of secrecy\u2019 really change?2 hrs ago ",
-      "url": "/news/canada/2022/07/14/hockey-canada-has-apologized-amid-its-sexual-misconduct-scandal-but-will-the-culture-of-secrecy-really-change.html"
+      "text": "Canada\u2018I was so scared\u2019: Tears, anguish \u2014 and a walkout \u2014 as N.S. mass killer\u2019s wife testifies3 hrs ago ",
+      "url": "/news/canada/2022/07/15/portapique-rampage-shooters-wife-to-testify-today-at-public-inquiry.html"
     },
     {
-      "text": "Federal Politics\u2018It\u2019s simply genocide\u2019: Forced sterilizations still happen today and survivors should be compensated, senators tell Ottawa7 hrs ago ",
-      "url": "/politics/federal/2022/07/14/compensate-survivors-of-forced-sterilizations-senators-tell-canadian-government.html"
+      "text": "Star ExclusiveGreen Party threatens to expel aspiring leadership candidate for criticizing itQuebec Green leader Alex Tyrrell was invited to a special meeting Friday to defend himself for allegedly breaching the party\u2019s code of conduct. 7 hrs ago ",
+      "url": "/politics/federal/2022/07/15/green-party-threatens-to-expel-aspiring-leadership-candidate-for-criticizing-it.html"
     },
     {
-      "text": "GTACadaver dogs return a \u2018hit\u2019 in Etobicoke search for Nicole Morin, missing since 1985For now, it\u2019s far too early to say if the dogs have found the missing girl\u2019s body in an undisclosed Etobicoke park.9 hrs ago ",
-      "url": "/news/gta/2022/07/14/cadaver-dogs-return-a-hit-in-etobicoke-search-for-nicole-morin-missing-since-1985.html"
+      "text": "Analysis from WashingtonThis week in U.S. politics: Even a horrific child rape is reduced to business as usual in the debate over abortion rightsIt is the stuff of nightmares, of horror novels, and of real life for one American girl, Edward Keenan writes.5 hrs ago ",
+      "url": "/news/world/2022/07/15/this-week-in-us-politics-even-a-horrific-child-rape-is-reduced-to-business-as-usual-in-the-debate-over-abortion-rights.html"
     },
     {
-      "text": "GTAFormer North York pastor and wife charged in historic sexual assault against children",
-      "url": "/news/gta/2022/07/14/former-north-york-pastor-and-wife-charged-in-historic-sexual-assault-against-children.html"
+      "text": "GTATibetan community prays for rebirth at memorial to TTC fire attack victim Nyima Dolma",
+      "url": "/news/gta/2022/07/15/tibetan-community-prays-for-rebirth-at-memorial-to-ttc-fire-attack-victim-nyima-dolma.html"
     },
     {
-      "text": "GTADriver has vehicle carjacked at gunpoint in Vaughan, two suspects sought",
-      "url": "/news/gta/2022/07/14/driver-has-vehicle-carjacked-at-gunpoint-in-vaughan-two-suspects-sought.html"
+      "text": "CanadaMan acquitted in Air India bombing was ambushed at site of fatal shooting, RCMP say",
+      "url": "/news/canada/2022/07/15/man-acquitted-in-air-india-bombing-was-ambushed-at-site-of-fatal-shooting-rcmp-say.html"
     },
     {
-      "text": "GTAToronto\u2019s condo, apartment rents jump 20 per cent from June last year, report says",
-      "url": "/news/gta/2022/07/14/torontos-condo-apartment-rents-jump-20-per-cent-from-june-last-year-report-says.html"
+      "text": "BusinessMPs to grill witnesses from Rogers and CRTC over sweeping service outage",
+      "url": "/business/2022/07/15/mps-to-grill-witnesses-from-rogers-and-crtc-over-sweeping-service-outage.html"
     },
     {
-      "text": "Star ExclusiveMounties left voice recorders at home of senior Jason Kenney organizer during UCP probe",
-      "url": "/news/canada/2022/07/14/mounties-left-voice-recorders-at-home-of-senior-jason-kenney-organizer-during-ucp-probe.html"
+      "text": "Star ExclusiveDoug Ford is selling his house. Here's where he's moving to",
+      "url": "/politics/provincial/2022/07/13/doug-ford-is-selling-his-house-heres-where-hes-moving-to.html"
     },
     {
-      "text": "BusinessThe Bank of Canada suggests more rate hikes are on the way. Will they trigger a recession?18 hrs ago ",
-      "url": "/business/2022/07/14/could-rates-go-even-higher-bank-of-canada-says-this-may-be-just-the-beginning.html"
+      "text": "GTADrake fans balk at OVO Fest ticket prices: $900 for lawn seats, $2K for floor8 hrs ago ",
+      "url": "/news/gta/2022/07/15/drake-fans-balk-at-ovo-fest-ticket-prices-900-for-lawn-seats-2k-for-floor.html"
     },
     {
-      "text": "Canada\u2018We can exhale a little bit\u2019: Health Canada authorizes Moderna COVID vaccine for kids under five2 hrs ago ",
-      "url": "/news/canada/2022/07/14/health-canada-has-authorized-a-covid-vaccine-for-kids-under-five-heres-what-you-need-to-know.html"
+      "text": "Star ExclusiveWhat this year\u2019s \u2018exceptional circumstances\u2019 mean for 300,000 Canadians who got their passports late14 hrs ago ",
+      "url": "/news/canada/2022/07/15/almost-300000-canadians-got-their-passports-late-heres-why-none-of-them-will-be-compensated.html"
     },
     {
       "text": "Opinion",
       "url": "https://www.thestar.com/opinion.html"
     },
     {
-      "text": "Graham ThomsonThe anti-vax, anti-science and anti-reality campaign: Meet Danielle Smith, the favourite to be Alberta\u2019s next premier3 hrs ago ",
-      "url": "/politics/political-opinion/2022/07/14/anti-vax-anti-science-and-anti-reality-meet-danielle-smith-the-favourite-to-be-albertas-next-premier.html"
+      "text": "Althia RajWhy was Patrick Brown kicked out of the Conservative leadership race? Theories abound3 hrs ago ",
+      "url": "/politics/political-opinion/2022/07/15/why-was-patrick-brown-kicked-out-of-the-conservative-leadership-race-theories-abound.html"
     },
     {
-      "text": "Rick SalutinThe Rogers outage, and other scenes from the death of neo-liberalism6 hrs ago ",
-      "url": "/opinion/contributors/2022/07/14/the-rogers-outage-and-other-scenes-from-the-death-of-neo-liberalism.html"
+      "text": "Martin Regg CohnSri Lanka is a story of self-destruction despite the veneer of democracy4 hrs ago ",
+      "url": "/politics/political-opinion/2022/07/15/sri-lanka-is-a-story-of-self-destruction-despite-the-veneer-of-democracy.html"
     },
     {
-      "text": "Gregor ChisholmThe Blue Jays are the ones disadvantaged by vaccine mandates. But Americans can\u2019t seem to grasp that1 hr ago",
-      "url": "/sports/bluejays/opinion/2022/07/14/the-blue-jays-are-the-ones-disadvantaged-by-vaccine-mandates-but-americans-just-cant-seem-to-grasp-that.html"
+      "text": "Dave FeschukChange in hockey, and in Hockey Canada, will require more than to-do lists2 hrs ago ",
+      "url": "/sports/hockey/opinion/2022/07/15/change-in-hockey-and-in-hockey-canada-will-require-more-than-to-do-lists.html"
     },
     {
-      "text": "Thomas WalkomBy putting the economy at risk to fight inflation, the Bank of Canada is making the usual mistake5 hrs ago ",
-      "url": "/opinion/contributors/2022/07/14/by-putting-the-economy-at-risk-to-fight-inflation-the-bank-of-canada-is-making-the-usual-mistake.html"
+      "text": "Joe RicherWhen an agent offers to buy your home if they can\u2019t sell it15 hrs ago ",
+      "url": "/business/real_estate/2022/07/15/when-an-agent-offers-to-buy-your-home-if-they-cant-sell-it.html"
     },
     {
-      "text": "STAR EXCLUSIVEDoug Ford is selling his house. Here's where he's moving to1 day ago",
-      "url": "https://www.thestar.com/politics/provincial/2022/07/13/doug-ford-is-selling-his-house-heres-where-hes-moving-to.html?li_source=LI&li_medium=thestar_recommended_for_you"
+      "text": "RelationshipsADVICEMy old college roommate invited me to visit her. Then things got dirty and weird: Ask Ellie17 hrs ago ",
+      "url": "https://www.thestar.com/life/relationships/advice/2022/07/15/my-old-college-roommate-invited-me-to-visit-her-then-things-got-dirty-and-weird-ask-ellie.html?li_source=LI&li_medium=thestar_recommended_for_you"
     },
     {
-      "text": "LeafsANALYSISNine intriguing NHL free agents the Maple Leafs can afford2 days ago ",
-      "url": "https://www.thestar.com/sports/leafs/analysis/2022/07/12/nine-intriguing-nhl-free-agents-the-maple-leafs-can-afford.html?li_source=LI&li_medium=thestar_recommended_for_you"
+      "text": "STAR GRAPHICSWealthy Toronto pockets see big drops in average income, with a nearly 50 per cent decline in this swanky neighbourhood1 day ago",
+      "url": "https://www.thestar.com/news/gta/2022/07/13/wealthy-toronto-pockets-see-big-drops-in-average-income-with-a-nearly-50-per-cent-decline-in-yorkville.html?li_source=LI&li_medium=thestar_recommended_for_you"
     },
     {
-      "text": "SoccerOPINIONCanada Soccer gave its players the middle finger with Earl Cochrane move. Now they\u2019re really fighting back13 hrs ago ",
-      "url": "https://www.thestar.com/sports/soccer/opinion/2022/07/14/canada-soccer-gave-its-players-the-middle-finger-with-earl-cochrane-move-now-theyre-really-fighting-back.html?li_source=LI&li_medium=thestar_recommended_for_you"
+      "text": "RelationshipsADVICEI found out too late that my husband was too good to be true: Ask Ellie1 day ago",
+      "url": "https://www.thestar.com/life/relationships/advice/2022/07/14/i-found-out-too-late-that-my-husband-was-too-good-to-be-true-ask-ellie.html?li_source=LI&li_medium=thestar_recommended_for_you"
     },
     {
-      "text": "Star ColumnistsOPINIONFederal Green Party is now just a sad joke9 hrs ago ",
-      "url": "https://www.thestar.com/opinion/star-columnists/2022/07/14/federal-green-party-is-now-just-a-sad-joke.html?li_source=LI&li_medium=thestar_recommended_for_you"
-    },
-    {
-      "text": "EntertainmentOPINIONDon\u2019t obey Pete Davidson and Manscape your man bits \u2014 the Canadian health-care system has enough problems1 day ago",
+      "text": "EntertainmentOPINIONDon\u2019t obey Pete Davidson and Manscape your man bits \u2014 the Canadian health-care system has enough problems2 days ago ",
       "url": "https://www.thestar.com/entertainment/opinion/2022/07/12/dont-obey-pete-davidson-and-manscape-your-man-bits-the-canadian-health-care-system-has-enough-problems.html?li_source=LI&li_medium=thestar_recommended_for_you"
     },
     {
-      "text": "Real EstateMortgage rates are rising, but here\u2019s why you won\u2019t see a rash of Canadians losing their homesJul. 04, 2022",
-      "url": "https://www.thestar.com/business/real_estate/2022/07/04/mortgage-rates-are-rising-but-heres-why-you-wont-see-a-rash-of-canadians-losing-their-homes.html?li_source=LI&li_medium=thestar_recommended_for_you"
+      "text": "Leafs\u2018I\u2019m going to miss the boys.\u2019 Popular goalie Jack Campbell briefly reunites with former Maple Leafs teammates13 hrs ago ",
+      "url": "https://www.thestar.com/sports/leafs/2022/07/15/im-going-to-miss-the-boys-popular-goalie-jack-campbell-briefly-reunites-with-former-maple-leafs-teammates.html?li_source=LI&li_medium=thestar_recommended_for_you"
+    },
+    {
+      "text": "LeafsNew Leafs forward Nicolas Aub\u00e9-Kubel is warming up the enemy2 hrs ago ",
+      "url": "https://www.thestar.com/sports/leafs/2022/07/15/new-leafs-forward-nicolas-aub-kubel-is-warming-up-the-enemy.html?li_source=LI&li_medium=thestar_recommended_for_you"
     },
     {
       "text": "Register Now",
@@ -2522,291 +2648,315 @@
       "url": "/news/gta.html"
     },
     {
-      "text": "GTAHit-and-run killing of Brampton cyclist by runaway stolen trailer is \u2018still unbearable for me,\u2019 brother says7 hrs ago ",
-      "url": "/news/gta/2022/07/14/hit-and-run-killing-of-brampton-cyclist-by-runaway-stolen-trailer-is-still-unbearable-for-me-brother-says.html"
+      "text": "GTAEligible Ontarians can expect carbon tax rebates on Friday. Here\u2019s what you need to know11 hrs ago ",
+      "url": "/news/gta/2022/07/14/ontarians-can-expect-climate-payment.html"
     },
     {
-      "text": "GTAJudge slams Toronto cops for messaging each other while testifying in domestic violence trial\n13 hrs ago ",
-      "url": "/news/gta/2022/07/14/where-is-the-professionalism-here-judge-slams-toronto-cops-for-messaging-each-other-while-testifying-in-domestic-violence-trial.html"
+      "text": "GTAToronto police seek suspects in two presumed hate crime incidents2 hrs ago ",
+      "url": "/news/gta/2022/07/15/toronto-police-seek-suspects-in-two-presumed-hate-crime-incidents.html"
     },
     {
-      "text": "GTAToronto Metropolitan University, formerly Ryerson, floats new names for athletics team7 hrs ago ",
-      "url": "/news/gta/2022/07/14/toronto-metropolitan-university-formerly-ryerson-floats-new-names-for-athletics-team.html"
+      "text": "LOCAL : FROM OUR NETWORK25 people charged by several police forces in $1.7M drug bust dubbed Project Entrust10 hrs ago ",
+      "url": "/local-newmarket/news/crime/2022/07/15/25-people-charged-by-several-police-forces-in-1-7m-drug-bust-dubbed-project-entrust.html"
     },
     {
-      "text": "GTATrapped truck now freed from sinkhole in downtown Toronto11 hrs ago ",
-      "url": "/news/gta/2022/07/14/trapped-truck-now-freed-from-sinkhole-in-downtown-toronto.html"
+      "text": "GTAMissing Toronto man Raheem White found dead in city\u2019s west end12 hrs ago ",
+      "url": "/news/gta/2022/07/15/missing-toronto-man-raheem-white-found-dead-in-citys-west-end.html"
     },
     {
-      "text": "GTAEncampment clearings prompt \u2018urgent concerns about fairness\u2019: Ombudsman8 hrs ago ",
-      "url": "/news/gta/2022/07/14/encampment-clearings-prompt-urgent-concerns-about-fairness-ombudsman.html"
+      "text": "BusinessToronto craft beer company Amsterdam Brewery sold to Denmark\u2019s Royal Unibrew",
+      "url": "/business/2022/07/15/toronto-craft-beer-company-amsterdam-brewery-sold-to-denmarks-royal-unibrew.html"
     },
     {
-      "text": "MusicSix take-aways from the 2022 Polaris Prize Short List6 hrs ago ",
-      "url": "/entertainment/music/2022/07/14/polaris-prize-shortlist-charlotte-day-wilson-destroyer-snotty-nose-rez-kids-among-10-nominees-for-the-canadian-album-of-the-year.html"
+      "text": "LOCAL : FROM OUR NETWORKJustice of the peace may be removed from office",
+      "url": "/local-richmond-hill/news/2022/07/15/justice-of-the-peace-may-be-removed-from-office.html"
     },
     {
-      "text": "What\u2019s OnThe Honda Indy is roaring, Junior Carnival is jumping and Bloor is bustling: What to do in Toronto this weekendLooking for something to do in Toronto this weekend? We\u2019ve got you covered. 17 hrs ago ",
+      "text": "CanadaOakville man charged after allegedly trafficking three woman into sex work",
+      "url": "/news/canada/2022/07/15/oakville-ont-man-charged-after-allegedly-trafficking-three-woman-into-sex-work.html"
+    },
+    {
+      "text": "LOCAL : FROM OUR NETWORKVIDEO: York Regional Police seek public assistance after 74-year-old woman assaulted in Markham",
+      "url": "/local-markham/news/crime/2022/07/15/video-york-regional-police-seek-public-assistance-after-74-year-old-woman-assaulted-in-markham.html"
+    },
+    {
+      "text": "LeafsMaple Leafs sign forward Calle J\u00e4rnkrok to four-year dealThe average annual value of the reliable penalty killer\u2019s contract is $2.1 million, bigger than any of the Leafs other signings this week,...6 hrs ago ",
+      "url": "/sports/leafs/2022/07/15/maple-leafs-sign-forward-calle-jrnkrok-to-four-year-deal.html"
+    },
+    {
+      "text": "LOCAL : FROM OUR NETWORKNational Ice Cream Day: Here's how you can get free ice cream in Toronto this weekend8 hrs ago ",
+      "url": "/local-toronto-etobicoke/entertainment/2022/07/15/national-ice-cream-day-here-s-how-you-can-get-free-ice-cream-in-toronto-this-weekend.html"
+    },
+    {
+      "text": "GTADrake fans balk at OVO Fest ticket prices: $900 for lawn seats, $2K for floor8 hrs ago ",
+      "url": "/news/gta/2022/07/15/drake-fans-balk-at-ovo-fest-ticket-prices-900-for-lawn-seats-2k-for-floor.html"
+    },
+    {
+      "text": "GTAPassing on the joy of Caribbean Carnival to the next generation6 hrs ago ",
+      "url": "/news/gta/2022/07/15/passing-on-the-joy-of-caribbean-carnival-to-the-next-generation.html"
+    },
+    {
+      "text": "GTA Home HuntThis one-bedroom Toronto rental apartment was priced $400 below average. So why wasn\u2019t it leased?",
+      "url": "/news/gta/2022/07/11/this-one-bedroom-toronto-rental-apartment-was-priced-400-below-average-so-why-wasnt-it-leased.html"
+    },
+    {
+      "text": "What\u2019s OnThe Honda Indy is roaring, Junior Carnival is jumping and Bloor is bustling: What to do in Toronto this weekend",
       "url": "/news/gta/2022/07/14/the-honda-indy-is-roaring-junior-carnival-is-jumping-and-bloor-is-bustling-what-to-do-in-toronto-this-weekend.html"
     },
     {
-      "text": "GTAToronto Metropolitan University, formerly Ryerson, floats new names for athletics team7 hrs ago ",
-      "url": "/news/gta/2022/07/14/toronto-metropolitan-university-formerly-ryerson-floats-new-names-for-athletics-team.html"
-    },
-    {
-      "text": "TelevisionThe \u2018Friends Experience\u2019 is now there for you in Toronto15 hrs ago ",
-      "url": "/entertainment/television/2022/07/14/the-friends-experience-is-now-there-for-you-in-toronto.html"
-    },
-    {
-      "text": "FoodLooking for something to do with the kids this summer? Pick-your-own farms offer delicious taste of family fun17 hrs ago ",
+      "text": "FoodLooking for something to do with the kids this summer? Pick-your-own farms offer delicious taste of family fun",
       "url": "/news/gta/2022/07/14/looking-for-something-to-do-with-the-kids-this-summer-pick-your-own-farms-offer-delicious-taste-of-family-fun.html"
     },
     {
-      "text": "LOCAL : CRIMEMan charged after alleged historic sex assaults in Ajax5 hrs ago ",
-      "url": "/local-ajax/news/crime/2022/07/14/man-charged-after-alleged-historic-sex-assaults-in-ajax.html"
+      "text": "Wild in the CityPurple reign in July: Viper\u2019s bugloss stars in show of colour around town this month",
+      "url": "/life/2022/07/15/purple-reign-in-july-vipers-bugloss-stars-in-show-of-colour-around-town-this-month.html"
     },
     {
-      "text": "LOCAL : NEWSTown approves plans for new school in north Oakville1 hr ago",
-      "url": "/local-oakville/news/2022/07/14/town-approves-plans-for-new-school-in-north-oakville.html"
+      "text": "LOCAL : NEWS\u2018If we do find something, I always say it\u2019s the best of the worst\u2019: Struggles continue amid Durham affordable housing crisis11 mins ago ",
+      "url": "/local-oshawa/news/2022/07/15/if-we-do-find-something-i-always-say-it-s-the-best-of-the-worst-struggles-continue-amid-durham-affordable-housing-crisis.html"
     },
     {
-      "text": "LOCAL : NEWSPort Hope breaks ground on $5M rec centre expansion, project to wrap in early 20236 hrs ago ",
-      "url": "/local-northumberland/news/2022/07/14/port-hope-breaks-ground-on-5m-rec-centre-expansion-project-to-wrap-in-early-2023.html"
+      "text": "LOCAL : NEWMARKET ERAOpinionCould a Roe v. Wade-style reversal of abortion rights happen in Canada?6 hrs ago ",
+      "url": "/local-newmarket/opinion/2022/07/15/could-a-roe-v-wade-style-reversal-of-abortion-rights-happen-in-canada.html"
     },
     {
-      "text": "PROVINCIALDoug Ford is selling his house. Here's where he's moving to1 day ago",
+      "text": "LOCAL : NEWSOakville MP Anita Anand receives 2022 Global Citizen Award6 hrs ago ",
+      "url": "/local-oakville/news/2022/07/15/oakville-mp-anita-anand-receives-2022-global-citizen-award.html"
+    },
+    {
+      "text": "PROVINCIALDoug Ford is selling his house. Here's where he's moving to2 days ago ",
       "url": "https://www.thestar.com/politics/provincial/2022/07/13/doug-ford-is-selling-his-house-heres-where-hes-moving-to.html?itm_source=parsely-api"
     },
     {
-      "text": "OPINIONDon\u2019t obey Pete Davidson and Manscape your man bits \u2014 the Canadian health-care system has enough problems2 days ago ",
-      "url": "https://www.thestar.com/entertainment/opinion/2022/07/12/dont-obey-pete-davidson-and-manscape-your-man-bits-the-canadian-health-care-system-has-enough-problems.html?itm_source=parsely-api"
+      "text": "GTAEligible Ontarians can expect carbon tax rebates on Friday. Here\u2019s what you need to know1 day ago",
+      "url": "https://www.thestar.com/news/gta/2022/07/14/ontarians-can-expect-climate-payment.html?itm_source=parsely-api"
     },
     {
-      "text": "GTAMan accused of setting woman on fire at Kipling Station charged with first-degree murder3 days ago ",
-      "url": "https://www.thestar.com/news/gta/2022/07/11/man-accused-of-setting-woman-on-fire-at-kipling-station-charged-with-first-degree-murder.html?itm_source=parsely-api"
+      "text": "RELATIONSHIPSMy old college roommate invited me to visit her. Then things got dirty and weird: Ask Ellie17 hrs ago ",
+      "url": "https://www.thestar.com/life/relationships/advice/2022/07/15/my-old-college-roommate-invited-me-to-visit-her-then-things-got-dirty-and-weird-ask-ellie.html?itm_source=parsely-api"
     },
     {
-      "text": "PROVINCIALDoug Ford wants to combat labour shortages with more immigrants3 days ago ",
-      "url": "https://www.thestar.com/politics/provincial/2022/07/11/doug-ford-wants-to-combat-labour-shortages-with-more-immigrants.html?itm_source=parsely-api"
-    },
-    {
-      "text": "BUSINESSAn even bigger rate hike is expected Wednesday \u2014 and housing will take another hit, experts say2 days ago ",
-      "url": "https://www.thestar.com/business/2022/07/12/the-bank-of-canada-is-expected-to-hike-interest-rates-this-week-what-will-that-mean-for-home-prices-and-mortgages.html?itm_source=parsely-api"
-    },
-    {
-      "text": "WORLDIvana Trump, first wife of former president, dies at age 738 hrs ago ",
-      "url": "https://www.thestar.com/news/world/2022/07/14/ivana-trump-first-wife-of-former-president-dies-at-age-73.html?itm_source=parsely-api"
-    },
-    {
-      "text": "RELATIONSHIPSI found out too late that my husband was too good to be true: Ask Ellie18 hrs ago ",
-      "url": "https://www.thestar.com/life/relationships/advice/2022/07/14/i-found-out-too-late-that-my-husband-was-too-good-to-be-true-ask-ellie.html?itm_source=parsely-api"
-    },
-    {
-      "text": "NEWS'WARNING': Do not eat these mushrooms sold at Walmart and other stores due to large recall over fears they contain Listeria17 hrs ago ",
+      "text": "NEWS'WARNING': Do not eat these mushrooms sold at Walmart and other stores due to large recall over fears they contain Listeria1 day ago",
       "url": "https://www.thestar.com/local-burlington/news/2022/07/14/warning-do-not-eat-these-mushrooms-sold-at-walmart-and-other-stores-due-to-large-recall-over-fears-they-contain-listeria.html?itm_source=parsely-api"
     },
     {
-      "text": "CANADACanada bringing back mandatory random testing of travellers arriving at main airports14 hrs ago ",
-      "url": "https://www.thestar.com/news/canada/2022/07/14/canada-bringing-back-mandatory-random-testing-of-travellers-arriving-at-main-airports.html?itm_source=parsely-api"
+      "text": "POLITICAL OPINIONThe anti-vax, anti-science and anti-reality campaign: Meet Danielle Smith, the favourite to be Alberta\u2019s next premier1 day ago",
+      "url": "https://www.thestar.com/politics/political-opinion/2022/07/14/anti-vax-anti-science-and-anti-reality-meet-danielle-smith-the-favourite-to-be-albertas-next-premier.html?itm_source=parsely-api"
     },
     {
-      "text": "BLUEJAYSBlue Jays infighting is a concern, but firing Charlie Montoyo solves nothing1 day ago",
-      "url": "https://www.thestar.com/sports/bluejays/opinion/2022/07/13/blue-jays-infighting-is-a-concern-but-firing-charlie-montoyo-solves-nothing.html?itm_source=parsely-api"
+      "text": "OPINIONDon\u2019t obey Pete Davidson and Manscape your man bits \u2014 the Canadian health-care system has enough problems3 days ago ",
+      "url": "https://www.thestar.com/entertainment/opinion/2022/07/12/dont-obey-pete-davidson-and-manscape-your-man-bits-the-canadian-health-care-system-has-enough-problems.html?itm_source=parsely-api"
     },
     {
-      "text": "PROVINCIALDoug Ford is selling his house. Here's where he's moving to1 day ago",
+      "text": "PROVINCIALDoug Ford\u2019s house is up for sale. Here\u2019s the asking price9 hrs ago ",
+      "url": "https://www.thestar.com/politics/provincial/2022/07/15/doug-fords-house-is-up-for-sale-heres-the-asking-price.html?itm_source=parsely-api"
+    },
+    {
+      "text": "RELATIONSHIPSI found out too late that my husband was too good to be true: Ask Ellie1 day ago",
+      "url": "https://www.thestar.com/life/relationships/advice/2022/07/14/i-found-out-too-late-that-my-husband-was-too-good-to-be-true-ask-ellie.html?itm_source=parsely-api"
+    },
+    {
+      "text": "GTAShould you get a fourth COVID vaccine dose now or in the fall? Five experts weigh in1 day ago",
+      "url": "https://www.thestar.com/news/gta/2022/07/14/the-4th-dose-debate-should-i-get-a-covid-booster-now-or-in-the-fall-five-experts-weigh-in.html?itm_source=parsely-api"
+    },
+    {
+      "text": "CANADAMounties left voice recorders at home of senior Jason Kenney organizer during UCP probe1 day ago",
+      "url": "https://www.thestar.com/news/canada/2022/07/14/mounties-left-voice-recorders-at-home-of-senior-jason-kenney-organizer-during-ucp-probe.html?itm_source=parsely-api"
+    },
+    {
+      "text": "PROVINCIALDoug Ford is selling his house. Here's where he's moving to2 days ago ",
       "url": "https://www.thestar.com/politics/provincial/2022/07/13/doug-ford-is-selling-his-house-heres-where-hes-moving-to.html?itm_source=parsely-api"
     },
     {
-      "text": "OPINIONDon\u2019t obey Pete Davidson and Manscape your man bits \u2014 the Canadian health-care system has enough problems2 days ago ",
-      "url": "https://www.thestar.com/entertainment/opinion/2022/07/12/dont-obey-pete-davidson-and-manscape-your-man-bits-the-canadian-health-care-system-has-enough-problems.html?itm_source=parsely-api"
+      "text": "GTAEligible Ontarians can expect carbon tax rebates on Friday. Here\u2019s what you need to know1 day ago",
+      "url": "https://www.thestar.com/news/gta/2022/07/14/ontarians-can-expect-climate-payment.html?itm_source=parsely-api"
     },
     {
-      "text": "GTAMan accused of setting woman on fire at Kipling Station charged with first-degree murder3 days ago ",
-      "url": "https://www.thestar.com/news/gta/2022/07/11/man-accused-of-setting-woman-on-fire-at-kipling-station-charged-with-first-degree-murder.html?itm_source=parsely-api"
+      "text": "RELATIONSHIPSMy old college roommate invited me to visit her. Then things got dirty and weird: Ask Ellie17 hrs ago ",
+      "url": "https://www.thestar.com/life/relationships/advice/2022/07/15/my-old-college-roommate-invited-me-to-visit-her-then-things-got-dirty-and-weird-ask-ellie.html?itm_source=parsely-api"
     },
     {
-      "text": "PROVINCIALDoug Ford wants to combat labour shortages with more immigrants3 days ago ",
-      "url": "https://www.thestar.com/politics/provincial/2022/07/11/doug-ford-wants-to-combat-labour-shortages-with-more-immigrants.html?itm_source=parsely-api"
-    },
-    {
-      "text": "BUSINESSAn even bigger rate hike is expected Wednesday \u2014 and housing will take another hit, experts say2 days ago ",
-      "url": "https://www.thestar.com/business/2022/07/12/the-bank-of-canada-is-expected-to-hike-interest-rates-this-week-what-will-that-mean-for-home-prices-and-mortgages.html?itm_source=parsely-api"
-    },
-    {
-      "text": "WORLDIvana Trump, first wife of former president, dies at age 738 hrs ago ",
-      "url": "https://www.thestar.com/news/world/2022/07/14/ivana-trump-first-wife-of-former-president-dies-at-age-73.html?itm_source=parsely-api"
-    },
-    {
-      "text": "RELATIONSHIPSI found out too late that my husband was too good to be true: Ask Ellie18 hrs ago ",
-      "url": "https://www.thestar.com/life/relationships/advice/2022/07/14/i-found-out-too-late-that-my-husband-was-too-good-to-be-true-ask-ellie.html?itm_source=parsely-api"
-    },
-    {
-      "text": "NEWS'WARNING': Do not eat these mushrooms sold at Walmart and other stores due to large recall over fears they contain Listeria17 hrs ago ",
+      "text": "NEWS'WARNING': Do not eat these mushrooms sold at Walmart and other stores due to large recall over fears they contain Listeria1 day ago",
       "url": "https://www.thestar.com/local-burlington/news/2022/07/14/warning-do-not-eat-these-mushrooms-sold-at-walmart-and-other-stores-due-to-large-recall-over-fears-they-contain-listeria.html?itm_source=parsely-api"
     },
     {
-      "text": "CANADACanada bringing back mandatory random testing of travellers arriving at main airports14 hrs ago ",
-      "url": "https://www.thestar.com/news/canada/2022/07/14/canada-bringing-back-mandatory-random-testing-of-travellers-arriving-at-main-airports.html?itm_source=parsely-api"
+      "text": "POLITICAL OPINIONThe anti-vax, anti-science and anti-reality campaign: Meet Danielle Smith, the favourite to be Alberta\u2019s next premier1 day ago",
+      "url": "https://www.thestar.com/politics/political-opinion/2022/07/14/anti-vax-anti-science-and-anti-reality-meet-danielle-smith-the-favourite-to-be-albertas-next-premier.html?itm_source=parsely-api"
     },
     {
-      "text": "BLUEJAYSBlue Jays infighting is a concern, but firing Charlie Montoyo solves nothing1 day ago",
-      "url": "https://www.thestar.com/sports/bluejays/opinion/2022/07/13/blue-jays-infighting-is-a-concern-but-firing-charlie-montoyo-solves-nothing.html?itm_source=parsely-api"
+      "text": "OPINIONDon\u2019t obey Pete Davidson and Manscape your man bits \u2014 the Canadian health-care system has enough problems3 days ago ",
+      "url": "https://www.thestar.com/entertainment/opinion/2022/07/12/dont-obey-pete-davidson-and-manscape-your-man-bits-the-canadian-health-care-system-has-enough-problems.html?itm_source=parsely-api"
+    },
+    {
+      "text": "PROVINCIALDoug Ford\u2019s house is up for sale. Here\u2019s the asking price9 hrs ago ",
+      "url": "https://www.thestar.com/politics/provincial/2022/07/15/doug-fords-house-is-up-for-sale-heres-the-asking-price.html?itm_source=parsely-api"
+    },
+    {
+      "text": "RELATIONSHIPSI found out too late that my husband was too good to be true: Ask Ellie1 day ago",
+      "url": "https://www.thestar.com/life/relationships/advice/2022/07/14/i-found-out-too-late-that-my-husband-was-too-good-to-be-true-ask-ellie.html?itm_source=parsely-api"
+    },
+    {
+      "text": "GTAShould you get a fourth COVID vaccine dose now or in the fall? Five experts weigh in1 day ago",
+      "url": "https://www.thestar.com/news/gta/2022/07/14/the-4th-dose-debate-should-i-get-a-covid-booster-now-or-in-the-fall-five-experts-weigh-in.html?itm_source=parsely-api"
+    },
+    {
+      "text": "CANADAMounties left voice recorders at home of senior Jason Kenney organizer during UCP probe1 day ago",
+      "url": "https://www.thestar.com/news/canada/2022/07/14/mounties-left-voice-recorders-at-home-of-senior-jason-kenney-organizer-during-ucp-probe.html?itm_source=parsely-api"
     },
     {
       "text": "Business",
       "url": "https://www.thestar.com/business?li_source=LI&li_medium=thestar_business"
     },
     {
-      "text": "BusinessStocks tumble as investors react to higher-than-expected Bank of Canada rate hike7 hrs ago ",
-      "url": "https://www.thestar.com/business/2022/07/14/stocks-tumble-as-investors-react-to-higher-than-expected-bank-of-canada-rate-hike.html?li_source=LI&li_medium=thestar_business"
+      "text": "BusinessWe asked the experts how you can reach 911 in the event of a similar Rogers fiasco. It starts with a paper clip17 hrs ago ",
+      "url": "https://www.thestar.com/business/2022/07/15/we-asked-the-experts-how-you-can-reach-911-in-the-event-of-a-similar-rogers-fiasco-it-starts-with-a-paper-clip.html?li_source=LI&li_medium=thestar_business"
     },
     {
-      "text": "BusinessBank of Canada rate hike contributes to loonie falling to a 20-month low6 hrs ago ",
-      "url": "https://www.thestar.com/business/2022/07/14/canadian-dollar-falls-to-a-20-month-low-after-supersized-interest-rate-hike.html?li_source=LI&li_medium=thestar_business"
+      "text": "BusinessJune home sales down 24% from last year, 6% since May: CREA12 hrs ago ",
+      "url": "https://www.thestar.com/business/2022/07/15/june-home-sales-down-24-from-last-year-6-since-may-crea.html?li_source=LI&li_medium=thestar_business"
     },
     {
-      "text": "BusinessWhat if Elon Musk is ordered to complete the $44B Twitter deal and he just says \u2018no\u2019?6 hrs ago ",
-      "url": "https://www.thestar.com/business/2022/07/14/what-if-elon-musk-is-ordered-to-complete-twitter-deal-and-he-just-says-no.html?li_source=LI&li_medium=thestar_business"
+      "text": "Real EstateWhen an agent offers to buy your home if they can\u2019t sell it15 hrs ago ",
+      "url": "https://www.thestar.com/business/real_estate/2022/07/15/when-an-agent-offers-to-buy-your-home-if-they-cant-sell-it.html?li_source=LI&li_medium=thestar_business"
     },
     {
       "text": "Canada",
       "url": "https://www.thestar.com/news/canada.html?li_source=LI&li_medium=thestar_canada"
     },
     {
-      "text": "CanadaThere has been a big spike in homeless deaths in Toronto and other cities. The reasons go beyond a toxic drug supply12 hrs ago ",
-      "url": "https://www.thestar.com/news/canada/2022/07/14/there-has-been-a-big-spike-in-homeless-deaths-in-toronto-and-other-cities-the-reasons-go-beyond-a-toxic-drug-supply.html?li_source=LI&li_medium=thestar_canada"
+      "text": "CanadaB.C. Court of Appeal rejects private health care, says Charter breach OK2 hrs ago ",
+      "url": "https://www.thestar.com/news/canada/2022/07/15/bc-court-of-appeal-set-to-deliver-ruling-in-private-health-care-case.html?li_source=LI&li_medium=thestar_canada"
     },
     {
-      "text": "CanadaA new kind of Alberta conservative? Rebecca Schulz touting \u2018compassion and common sense\u2019 in UCP leadership bid1 day ago",
-      "url": "https://www.thestar.com/news/canada/2022/07/13/a-new-kind-of-alberta-conservative-rebecca-schulz-touting-compassion-and-common-sense-in-ucp-leadership-bid.html?li_source=LI&li_medium=thestar_canada"
+      "text": "CanadaMan acquitted in Air India bombing \u2014 Canada\u2019s worst mass murder \u2014 shot dead in Surrey, B.C.1 day ago",
+      "url": "https://www.thestar.com/news/canada/2022/07/14/man-acquitted-in-air-india-bombing-canadas-worst-mass-murder-shot-dead-in-surrey-bc.html?li_source=LI&li_medium=thestar_canada"
     },
     {
-      "text": "CanadaPatient dies while waiting hours to be seen in New Brunswick emergency department13 hrs ago ",
-      "url": "https://www.thestar.com/news/canada/2022/07/14/patient-dies-while-waiting-hours-to-be-seen-in-new-brunswick-emergency-department.html?li_source=LI&li_medium=thestar_canada"
+      "text": "CanadaOne person missing, eight rescued after rooftop parking lot collapse in Vancouver2 hrs ago ",
+      "url": "https://www.thestar.com/news/canada/2022/07/15/crews-still-checking-vancouver-building-for-possible-victims-after-roof-collapse.html?li_source=LI&li_medium=thestar_canada"
     },
     {
-      "text": "CanadaCanada bringing back mandatory random testing of travellers arriving at main airports7 hrs ago ",
+      "text": "CanadaJudge rejects $28-million class-action settlement in Catholic church sex abuse case1 day ago",
+      "url": "https://www.thestar.com/news/canada/2022/07/14/judge-rejects-28-million-class-action-settlement-in-catholic-church-sex-abuse-case.html?li_source=LI&li_medium=thestar_canada"
+    },
+    {
+      "text": "Canada\u2018Imminent threat\u2019: Woman charged after female hostage stabbed in Alberta law office5 hrs ago ",
+      "url": "https://www.thestar.com/news/canada/2022/07/15/woman-charged-with-attempted-murder-after-hostage-stabbed-in-alberta-law-office.html?li_source=LI&li_medium=thestar_canada"
+    },
+    {
+      "text": "CanadaCanada bringing back mandatory random testing of travellers arriving at main airports1 day ago",
       "url": "https://www.thestar.com/news/canada/2022/07/14/canada-bringing-back-mandatory-random-testing-of-travellers-arriving-at-main-airports.html?li_source=LI&li_medium=thestar_canada"
-    },
-    {
-      "text": "CanadaMan acquitted in 1985 Air India bombing shot dead in B.C., family says7 hrs ago ",
-      "url": "https://www.thestar.com/news/canada/2022/07/14/man-acquitted-in-air-india-bombing-shot-dead-reports-say.html?li_source=LI&li_medium=thestar_canada"
-    },
-    {
-      "text": "CanadaHealth Canada approves first COVID-19 vaccine for children under five8 hrs ago ",
-      "url": "https://www.thestar.com/news/canada/2022/07/14/cp-newsalert-health-canada-to-give-update-on-first-covid-19-vax-for-youngest-kids.html?li_source=LI&li_medium=thestar_canada"
     },
     {
       "text": "Politics",
       "url": "https://www.thestar.com/politics?li_source=LI&li_medium=thestar_politics"
     },
     {
-      "text": "PoliticsOPINIONThe anti-vax, anti-science and anti-reality campaign: Meet Danielle Smith, the favourite to be Alberta\u2019s next premier3 hrs ago ",
+      "text": "PoliticsOPINIONWhy was Patrick Brown kicked out of the Conservative leadership race? Theories abound3 hrs ago ",
+      "url": "https://www.thestar.com/politics/political-opinion/2022/07/15/why-was-patrick-brown-kicked-out-of-the-conservative-leadership-race-theories-abound.html?li_source=LI&li_medium=thestar_politics"
+    },
+    {
+      "text": "PoliticsOPINIONThe anti-vax, anti-science and anti-reality campaign: Meet Danielle Smith, the favourite to be Alberta\u2019s next premier13 hrs ago ",
       "url": "https://www.thestar.com/politics/political-opinion/2022/07/14/anti-vax-anti-science-and-anti-reality-meet-danielle-smith-the-favourite-to-be-albertas-next-premier.html?li_source=LI&li_medium=thestar_politics"
     },
     {
-      "text": "STAR EXCLUSIVEDoug Ford is selling his house. Here's where he's moving to1 day ago",
-      "url": "https://www.thestar.com/politics/provincial/2022/07/13/doug-ford-is-selling-his-house-heres-where-hes-moving-to.html?li_source=LI&li_medium=thestar_politics"
-    },
-    {
-      "text": "STAR EXCLUSIVEDoug Ford reveals how COVID helped his re-election and why he is staying out of the federal leadership race1 day ago",
-      "url": "https://www.thestar.com/politics/provincial/2022/07/13/doug-ford-reveals-how-covid-helped-his-re-election-and-why-he-is-staying-out-of-the-federal-leadership-race.html?li_source=LI&li_medium=thestar_politics"
+      "text": "PoliticsTrudeau event at brewery cancelled as apparent convoy protesters set up outside5 hrs ago ",
+      "url": "https://www.thestar.com/politics/2022/07/15/trudeau-event-at-brewery-cancelled-as-apparent-convoy-protesters-set-up-outside.html?li_source=LI&li_medium=thestar_politics"
     },
     {
       "text": "World",
       "url": "https://www.thestar.com/news/world?li_source=LI&li_medium=thestar_world"
     },
     {
-      "text": "United StatesOhio rape shows how a story can spread faster than factsNEW YORK (AP) \u2014 It took only four paragraphs in a regional newspaper to ignite a media conflagration over abortion that in two weeks engulfed President Joe Biden, the partisan press and some of the country\u2019s top news organizations.2 hrs ago ",
-      "url": "https://www.thestar.com/news/world/us/2022/07/14/ohio-rape-shows-how-story-can-spread-faster-than-facts.html?li_source=LI&li_medium=thestar_world"
+      "text": "United States\u2018Princess Doe\u2019 identified 40 years after remains were foundBLAIRSTOWN, N.J. (AP) \u2014 A girl who was dubbed Princess Doe after her remains were found 40 years ago in a New Jersey cemetery has been identified as a Long Island teenager, authorities announced Friday.9 hrs ago ",
+      "url": "https://www.thestar.com/news/world/us/2022/07/15/princess-doe-identified-40-years-after-remains-were-found.html?li_source=LI&li_medium=thestar_world"
     },
     {
-      "text": "EuropePolice: 14-year-old girl dies on Denmark amusement park ride14 hrs ago ",
-      "url": "https://www.thestar.com/news/world/europe/2022/07/14/police-14-year-old-girl-dies-on-denmark-amusement-park-ride.html?li_source=LI&li_medium=thestar_world"
+      "text": "EuropeDanish amusement park scraps ride after girl killed14 hrs ago ",
+      "url": "https://www.thestar.com/news/world/europe/2022/07/15/danish-amusement-park-scraps-ride-after-girl-killed.html?li_source=LI&li_medium=thestar_world"
     },
     {
-      "text": "United StatesAlex Jones defiant in deposition in Sandy Hook hoax lawsuit12 hrs ago ",
-      "url": "https://www.thestar.com/news/world/us/2022/07/14/alex-jones-defiant-in-deposition-in-sandy-hook-hoax-lawsuit.html?li_source=LI&li_medium=thestar_world"
+      "text": "United StatesIndiana doctor\u2019s lawyer tells AG to halt false statements4 hrs ago ",
+      "url": "https://www.thestar.com/news/world/us/2022/07/15/indiana-doctors-lawyer-tells-ag-to-halt-false-statements.html?li_source=LI&li_medium=thestar_world"
     },
     {
-      "text": "EuropeVan Gogh self-portrait found hidden behind another painting5 hrs ago ",
-      "url": "https://www.thestar.com/news/world/europe/2022/07/14/van-gogh-self-portrait-found-hidden-behind-another-painting.html?li_source=LI&li_medium=thestar_world"
+      "text": "United StatesSearch on for woman after child, car found stuck in Alaska3 hrs ago ",
+      "url": "https://www.thestar.com/news/world/us/2022/07/15/alaska-troopers-seek-grandmother-after-child-found-abandoned.html?li_source=LI&li_medium=thestar_world"
     },
     {
-      "text": "United StatesIdaho Republicans poised to reject 2020 election results10 hrs ago ",
-      "url": "https://www.thestar.com/news/world/us/2022/07/14/idaho-republicans-poised-to-reject-2020-election-results.html?li_source=LI&li_medium=thestar_world"
+      "text": "United StatesDeposition of Trump, 2 children delayed after Ivana\u2019s death12 hrs ago ",
+      "url": "https://www.thestar.com/news/world/us/2022/07/15/deposition-of-trump-2-children-delayed-after-ivanas-death.html?li_source=LI&li_medium=thestar_world"
     },
     {
-      "text": "United StatesA timeline of events surrounding Alex Murdaugh\u2019s charges11 hrs ago ",
-      "url": "https://www.thestar.com/news/world/us/2022/07/14/a-timeline-of-events-surrounding-alex-murdaughs-charges.html?li_source=LI&li_medium=thestar_world"
+      "text": "WorldA new 988 crisis number is about to launch in the U.S. Here\u2019s what you need to know.15 hrs ago ",
+      "url": "https://www.thestar.com/news/world/2022/07/15/a-new-988-crisis-number-is-about-to-launch-in-the-us-heres-what-you-need-to-know.html?li_source=LI&li_medium=thestar_world"
     },
     {
       "text": "Life",
       "url": "https://www.thestar.com/life?li_source=LI&li_medium=thestar_life"
     },
     {
-      "text": "RelationshipsADVICEI found out too late that my husband was too good to be true: Ask Ellie18 hrs ago ",
-      "url": "https://www.thestar.com/life/relationships/advice/2022/07/14/i-found-out-too-late-that-my-husband-was-too-good-to-be-true-ask-ellie.html?li_source=LI&li_medium=thestar_life"
+      "text": "RelationshipsADVICEMy old college roommate invited me to visit her. Then things got dirty and weird: Ask Ellie17 hrs ago ",
+      "url": "https://www.thestar.com/life/relationships/advice/2022/07/15/my-old-college-roommate-invited-me-to-visit-her-then-things-got-dirty-and-weird-ask-ellie.html?li_source=LI&li_medium=thestar_life"
     },
     {
-      "text": "RelationshipsToronto women turn to \u2018Unhinged\u2019 dating list to suss out problematic men3 hrs ago ",
+      "text": "RelationshipsToronto women turn to \u2018Unhinged\u2019 dating list to suss out problematic men1 day ago",
       "url": "https://www.thestar.com/life/relationships/2022/07/09/toronto-women-turn-to-unhinged-dating-list-to-suss-out-problematic-men.html?li_source=LI&li_medium=thestar_life"
     },
     {
-      "text": "Food & DrinkA gutsy cookbook that\u2019s good for you1 day ago",
-      "url": "https://www.thestar.com/ths/life/food-wine/2022/07/13/a-gutsy-cookbook-thats-good-for-you.html?li_source=LI&li_medium=thestar_life"
+      "text": "LifeEx-Scientologist Mike Rinder has memoir out in September3 days ago ",
+      "url": "https://www.thestar.com/life/2022/07/12/ex-scientologist-mike-rinder-has-memoir-out-in-september.html?li_source=LI&li_medium=thestar_life"
     },
     {
       "text": "Sports",
       "url": "https://www.thestar.com/sports.html?li_source=LI&li_medium=thestar_sports"
     },
     {
-      "text": "SoccerOPINIONCanada Soccer gave its players the middle finger with Earl Cochrane move. Now they\u2019re really fighting backAs the women\u2019s and men\u2019s national team players were calling for accountability and transparency, Canada Soccer appointed an inside man to general secretary.13 hrs ago ",
-      "url": "https://www.thestar.com/sports/soccer/opinion/2022/07/14/canada-soccer-gave-its-players-the-middle-finger-with-earl-cochrane-move-now-theyre-really-fighting-back.html?li_source=LI&li_medium=thestar_sports"
+      "text": "LeafsNew Leafs forward Nicolas Aub\u00e9-Kubel is warming up the enemyAub\u00e9-Kubel chose Toronto because he thinks there\u2019s a chance to repeat as a Stanley Cup champion.2 hrs ago ",
+      "url": "https://www.thestar.com/sports/leafs/2022/07/15/new-leafs-forward-nicolas-aub-kubel-is-warming-up-the-enemy.html?li_source=LI&li_medium=thestar_sports"
     },
     {
-      "text": "SportsCanadian sprinter Andre De Grasse lives for the moment. Does he have a couple more in him at the world championships?4 hrs ago ",
-      "url": "https://www.thestar.com/sports/2022/07/14/canadian-sprinter-andre-de-grasse-lives-for-the-moment-does-he-have-a-couple-more-in-him-at-the-world-championships.html?li_source=LI&li_medium=thestar_sports"
+      "text": "Leafs\u2018I\u2019m going to miss the boys.\u2019 Popular goalie Jack Campbell briefly reunites with former Maple Leafs teammates13 hrs ago ",
+      "url": "https://www.thestar.com/sports/leafs/2022/07/15/im-going-to-miss-the-boys-popular-goalie-jack-campbell-briefly-reunites-with-former-maple-leafs-teammates.html?li_source=LI&li_medium=thestar_sports"
     },
     {
-      "text": "RaptorsRaptors sign Champagnie to multi-year contract, Harper to two-way deal11 hrs ago ",
-      "url": "https://www.thestar.com/sports/raptors/2022/07/14/toronto-raptors-sign-forward-justin-champagnie-to-multi-year-contract.html?li_source=LI&li_medium=thestar_sports"
+      "text": "Blue JaysOPINIONThe Blue Jays are proud to select ... the best player available1 hr ago",
+      "url": "https://www.thestar.com/sports/bluejays/opinion/2022/07/15/the-blue-jays-are-proud-to-select-the-best-player-available.html?li_source=LI&li_medium=thestar_sports"
     },
     {
-      "text": "HockeyNHL free agency: Devils sign Palat, Capitals add Strome5 hrs ago ",
-      "url": "https://www.thestar.com/sports/hockey/2022/07/14/nhl-free-agency-devils-sign-palat-kadri-klingberg-wait.html?li_source=LI&li_medium=thestar_sports"
+      "text": "FootballToronto Argonauts remain very wary of short-handed Roughriders defence3 hrs ago ",
+      "url": "https://www.thestar.com/sports/football/cfl/2022/07/15/toronto-argonauts-remain-very-wary-of-short-handed-roughriders-defence.html?li_source=LI&li_medium=thestar_sports"
     },
     {
-      "text": "Blue Jays\u2018Our team comes first.\u2019 Blue Jays\u2019 George Springer to skip all-star weekend to rest sore elbow5 hrs ago ",
-      "url": "https://www.thestar.com/sports/bluejays/2022/07/14/our-team-comes-first-blue-jays-george-springer-to-skip-all-star-weekend-to-rest-sore-elbow.html?li_source=LI&li_medium=thestar_sports"
+      "text": "GolfTiger Woods gets emotional sendoff from St. Andrews10 hrs ago ",
+      "url": "https://www.thestar.com/sports/golf/2022/07/15/tiger-woods-gets-emotional-sendoff-from-st-andrews.html?li_source=LI&li_medium=thestar_sports"
     },
     {
-      "text": "LeafsLeafs star Mitch Marner says carjacking was \u2018a crazy day\u20191 hr ago",
-      "url": "https://www.thestar.com/sports/leafs/2022/07/14/leafs-star-mitch-marner-gives-thumbs-up-to-off-season-additions.html?li_source=LI&li_medium=thestar_sports"
+      "text": "GolfLIV defectors in contention for claret jug at British Open6 hrs ago ",
+      "url": "https://www.thestar.com/sports/golf/2022/07/15/liv-defectors-in-contention-for-claret-jug-at-british-open.html?li_source=LI&li_medium=thestar_sports"
     },
     {
-      "text": "Blue JaysOPINIONThe Blue Jays are the ones disadvantaged by vaccine mandates. But Americans can\u2019t seem to grasp that1 hr ago",
-      "url": "https://www.thestar.com/sports/bluejays/opinion/2022/07/14/the-blue-jays-are-the-ones-disadvantaged-by-vaccine-mandates-but-americans-just-cant-seem-to-grasp-that.html?li_source=LI&li_medium=thestar_sports"
+      "text": "Auto RacingGanassi teammates steer around Alex Palou mess at Honda Indy Toronto3 hrs ago ",
+      "url": "https://www.thestar.com/sports/auto-racing/2022/07/15/ganassi-teammates-steer-around-alex-palou-mess-at-honda-indy-toronto.html?li_source=LI&li_medium=thestar_sports"
     },
     {
-      "text": "HockeyOPINIONJohnny Gaudreau\u2019s stunning move and other takeaways from Day 1 of NHL free agency5 hrs ago ",
-      "url": "https://www.thestar.com/sports/hockey/opinion/2022/07/14/johnny-gaudreaus-stunning-move-and-other-takeaways-from-day-1-of-nhl-free-agency.html?li_source=LI&li_medium=thestar_sports"
+      "text": "Doug Smith's BlogOPINIONRaptors line a few pockets, set up camp battles but that's about it for now8 hrs ago ",
+      "url": "https://www.thestar.com/sports/doug_smiths_sports_blog/2022/07/15/raptors-line-a-few-pockets--set-up-camp-battles-but-that-s-about.html?li_source=LI&li_medium=thestar_sports"
     },
     {
       "text": "Entertainment",
       "url": "https://www.thestar.com/entertainment?li_source=LI&li_medium=thestar_entertainment"
     },
     {
-      "text": "EntertainmentOPINIONPay a monthly subscription for your car\u2019s heated seats? It\u2019s time for Big Auto to hit the brakes on cash grabs1 day ago",
-      "url": "https://www.thestar.com/entertainment/opinion/2022/07/13/pay-a-monthly-subscription-for-your-cars-heated-seats-its-time-for-big-auto-to-hit-the-brakes-on-cash-grabs.html?li_source=LI&li_medium=thestar_entertainment"
+      "text": "EntertainmentFX\u2019s \u2018The Bear\u2019 roars on TV with word of mouth, critic love1 day ago",
+      "url": "https://www.thestar.com/entertainment/2022/07/14/fxs-the-bear-roars-on-tv-with-word-of-mouth-critic-love.html?li_source=LI&li_medium=thestar_entertainment"
     },
     {
-      "text": "EntertainmentJane Lynch addresses why she and Lea Michele won\u2019t work together in Broadway\u2019s \u2018Funny Girl\u20191 day ago",
-      "url": "https://www.thestar.com/entertainment/2022/07/13/jane-lynch-addresses-why-she-and-glee-co-star-lea-michele-wont-work-together-in-broadways-funny-girl.html?li_source=LI&li_medium=thestar_entertainment"
+      "text": "TelevisionThe \u2018Friends Experience\u2019 is now there for you in Toronto1 day ago",
+      "url": "https://www.thestar.com/entertainment/television/2022/07/14/the-friends-experience-is-now-there-for-you-in-toronto.html?li_source=LI&li_medium=thestar_entertainment"
     },
     {
-      "text": "EntertainmentOPINIONDon\u2019t obey Pete Davidson and Manscape your man bits \u2014 the Canadian health-care system has enough problems1 day ago",
+      "text": "EntertainmentOPINIONDon\u2019t obey Pete Davidson and Manscape your man bits \u2014 the Canadian health-care system has enough problems2 days ago ",
       "url": "https://www.thestar.com/entertainment/opinion/2022/07/12/dont-obey-pete-davidson-and-manscape-your-man-bits-the-canadian-health-care-system-has-enough-problems.html?li_source=LI&li_medium=thestar_entertainment"
     },
     {
@@ -2814,47 +2964,47 @@
       "url": "https://www.thestar.com/life/fashion_style.html"
     },
     {
-      "text": "cosmetic treatmentsI tried \u2018lip blushing\u2019 a.k.a. permanent lip makeup7 hrs ago ",
+      "text": "costume design\u2018Mrs. Harris Goes to Paris\u2019 is a fashion dream come true12 hrs ago ",
+      "url": "/life/fashion_style/2022/07/15/mrs-harris-goes-to-paris-is-a-fashion-dream-come-true.html"
+    },
+    {
+      "text": "cosmetic treatmentsI tried \u2018lip blushing\u2019 a.k.a. permanent lip makeup1 day ago",
       "url": "/life/fashion_style/2022/07/14/i-tried-lip-blushing-aka-permanent-lip-makeup.html"
     },
     {
-      "text": "ShoppingThe most stylish deals at the massive Nordstrom sale8 hrs ago ",
+      "text": "ShoppingThe most stylish deals at the massive Nordstrom sale1 day ago",
       "url": "/life/fashion_style/2022/07/14/the-most-stylish-deals-at-the-massive-nordstrom-sale.html"
-    },
-    {
-      "text": "ShoppingHere\u2019s what to shop for on Amazon Prime Day1 day ago",
-      "url": "/life/fashion_style/2022/07/12/heres-what-to-shop-for-on-amazon-prime-day.html"
     },
     {
       "text": "Real Estate ",
       "url": "https://www.thestar.com/business/real_estate.html"
     },
     {
-      "text": "HomesHigh design and community at Mississauga\u2019s M City condos16 hrs ago ",
+      "text": "HomesHigh design and community at Mississauga\u2019s M City condos1 day ago",
       "url": "/life/homes/2022/07/14/high-design-and-community-at-mississaugas-m-city-condos.html"
     },
     {
-      "text": "HomesPushing lawn mowers to a greener future17 hrs ago ",
-      "url": "/life/homes/2022/07/14/pushing-lawn-mowers-to-a-greener-future.html"
+      "text": "HomesThese 7 shrubs have flower power that lasts1 day ago",
+      "url": "/life/homes/2022/07/14/these-7-shrubs-have-flower-power-that-lasts.html"
     },
     {
-      "text": "HomesThese 7 shrubs have flower power that lasts17 hrs ago ",
-      "url": "/life/homes/2022/07/14/these-7-shrubs-have-flower-power-that-lasts.html"
+      "text": "HomesPushing lawn mowers to a greener future1 day ago",
+      "url": "/life/homes/2022/07/14/pushing-lawn-mowers-to-a-greener-future.html"
     },
     {
       "text": "Autos",
       "url": "/autos"
     },
     {
-      "text": "AutosHyundai Ioniq 6 efficiency as sleek as its shape1 day ago",
+      "text": "AutosHyundai Ioniq 6 efficiency as sleek as its shape2 days ago ",
       "url": "/autos/2022/07/13/hyundai-ioniq-6-efficiency-as-sleek-as-its-shape.html"
     },
     {
-      "text": "AutosReviewReview: 2022 Hyundai Elantra N1 day ago",
+      "text": "AutosReviewReview: 2022 Hyundai Elantra N2 days ago ",
       "url": "/autos/review/2022/07/13/review-2022-hyundai-elantra-n.html"
     },
     {
-      "text": "AutosOpinionRacing Roundup: Max wins-two races, loses two others1 day ago",
+      "text": "AutosOpinionRacing Roundup: Max wins-two races, loses two others2 days ago ",
       "url": "/autos/opinion/2022/07/13/racing-roundup-max-wins-two-races-loses-two-others.html"
     },
     {
@@ -3075,12 +3225,12 @@
     },
     {
       "text": " \n     Want the Star's free morning newsletter? Click here to sign up for First Up. \n      \n     \n      ",
-      "url": "https://www.thestar.com/newsletters?nlid=631&nsrc=FirstUpToasterD"
+      "url": "https://www.thestar.com/newsletters?nlid=631&nsrc=FirstUpToasterC"
     }
   ],
-  "uniq": 666658685,
+  "uniq": 2069546380,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

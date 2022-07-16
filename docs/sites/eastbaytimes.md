@@ -17,7 +17,7 @@ orphan: true
 | Location       | Walnut Creek                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 198 screenshots stored at the Internet Archive.
+The archiving routine has captured 200 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

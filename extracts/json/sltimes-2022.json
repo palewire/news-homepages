@@ -1,5 +1,5 @@
 {
-  "created": 1657858688,
+  "created": 1657973821,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/15/items/sltimes-2022",
@@ -3416,31 +3416,157 @@
       "sha1": "6ca2631278a30ee270f0700fa88e76d86ee81c0a"
     },
     {
+      "name": "sltimes-2022-07-15T11:07:30.880703-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901255",
+      "size": "27533",
+      "md5": "44d0fe25cfae170976221b66d5e7fa35",
+      "crc32": "fd4b918f",
+      "sha1": "08480ea0bf20eb6993303b16a14ab8fa44c624ca",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-07-15T11:07:30.880703-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901259",
+      "size": "19811",
+      "md5": "e7aa85becc73e7053e0ef9e4c5c4b2da",
+      "crc32": "77480579",
+      "sha1": "385351a491f42c21098e96f713df274346447ee9",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-07-15T11:07:30.880703-05:00.jpg",
+      "source": "original",
+      "mtime": "1657901253",
+      "size": "361364",
+      "md5": "b2eb010cbc29b9e1102a137aa1d527af",
+      "crc32": "990f0d3f",
+      "sha1": "c5cbc1722c32dcd0efbba1355359ee5fe1a0db46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-07-15T11:07:30.880703-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-07-15T11:07:30.880703-05:00.jpg",
+      "mtime": "1657901747",
+      "size": "10423",
+      "md5": "542900b4c5d4cc65a90b98ca69f16a2d",
+      "crc32": "b144bd0d",
+      "sha1": "5d01e28781a6b7ac702cc73a242b76da8c474b24"
+    },
+    {
+      "name": "sltimes-2022-07-15T11:14:07.858597-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901652",
+      "size": "27565",
+      "md5": "12a83e8339cec8db0571f44092fe2327",
+      "crc32": "58785892",
+      "sha1": "180933c1f47966b074b8f55b31c7b737cd185148",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-07-15T11:14:07.858597-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901655",
+      "size": "19732",
+      "md5": "147f80fc40864c6a9b783dc7a6706ded",
+      "crc32": "b3931b4f",
+      "sha1": "cdfb73bb06f254a95270541d8503150872afa4dd",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-07-15T11:14:07.858597-05:00.jpg",
+      "source": "original",
+      "mtime": "1657901650",
+      "size": "402293",
+      "md5": "918d0615e4cb0b829ed1bcb9aadafe63",
+      "crc32": "c64d7398",
+      "sha1": "2bf6944922bb561d3b21191f6f64df35217e85cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-07-15T11:14:07.858597-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-07-15T11:14:07.858597-05:00.jpg",
+      "mtime": "1657907569",
+      "size": "10731",
+      "md5": "495a3915b4aea1ffe21bbc973a1a7765",
+      "crc32": "d9aa2606",
+      "sha1": "bfac29329340258bf2670111c02b93e45c23bc49"
+    },
+    {
+      "name": "sltimes-2022-07-15T23:03:14.575061-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657944198",
+      "size": "27774",
+      "md5": "dfec7ded6382d0a73551e289920b5197",
+      "crc32": "f9ea4f87",
+      "sha1": "8d64c96b34a3d0653e1e02941715a90f1fc62410",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-07-15T23:03:14.575061-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657944200",
+      "size": "19927",
+      "md5": "ed63c289b6298263acb3a375b1b2b30f",
+      "crc32": "567118ff",
+      "sha1": "a04f6c786cbcf4e9f17f86ea7b373677fc9242a5",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-07-15T23:03:14.575061-05:00.jpg",
+      "source": "original",
+      "mtime": "1657944196",
+      "size": "348542",
+      "md5": "976cd38dd08c6ebe586e605e481e00c1",
+      "crc32": "86a368d5",
+      "sha1": "65d5e65e5c1aaf2fb94f0dff06f8656fa1871d6c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-07-15T23:03:14.575061-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-07-15T23:03:14.575061-05:00.jpg",
+      "mtime": "1657946688",
+      "size": "10221",
+      "md5": "f8856d8c2003fb5a30684dd5d0eb1396",
+      "crc32": "e629c64e",
+      "sha1": "72240e360f98011f656ddc60ba2a3b54582dab5f"
+    },
+    {
       "name": "sltimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "198b84900293cab2c601f009cb41e3f537d4d70d",
-      "mtime": "1657858664",
-      "size": "69926",
-      "md5": "178a5f8a426012f787f4ee0ea8c99d83",
-      "crc32": "d0f7429d",
-      "sha1": "93275b59c2affdb8896fac7425b73314e4cb5de6",
+      "btih": "841423bc1a697288848de8f6c396ff4521d708de",
+      "mtime": "1657946692",
+      "size": "72444",
+      "md5": "2b9c96f9a2cc6b969f0db76bcc0f6114",
+      "crc32": "e84f6ccc",
+      "sha1": "108df0dd859b4b13d8ab0d9cd9e36f0abb3709fd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dfcb131037e9cf0b32b6adf6adebfe69",
+      "md5": "c53a7fd19274483f3591148349421019",
       "summation": "md5"
     },
     {
       "name": "sltimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657858581",
-      "size": "393216",
-      "md5": "e6f91378f47ceace0e4a3986015215bb",
-      "crc32": "e511da29",
-      "sha1": "82a52adfc3c67e051f05851128abb912571e5d04",
+      "mtime": "1657944206",
+      "size": "405504",
+      "md5": "c8bd41bc7aac4ed430338c8cce80a3ed",
+      "crc32": "18dc7e8c",
+      "sha1": "3abe5094a59ef35668af55cff754fe9a71acab72",
       "format": "Metadata"
     },
     {
@@ -3454,9 +3580,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 329,
-  "item_last_updated": 1657858664,
-  "item_size": 36439373,
+  "files_count": 341,
+  "item_last_updated": 1657946692,
+  "item_size": 37740095,
   "metadata": {
     "identifier": "sltimes-2022",
     "collection": [
@@ -3474,7 +3600,805 @@
     "addeddate": "2022-06-19 23:28:16"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 699438425,
+  "sltimes-2022": [
+    {
+      "text": "Subscribe",
+      "url": "https://www.stormlake.com/subscribe/"
+    },
+    {
+      "text": "Log In",
+      "url": "https://www.stormlake.com/login/"
+    },
+    {
+      "text": "My Account",
+      "url": "https://www.stormlake.com/account/"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "https://www.stormlake.com"
+    },
+    {
+      "text": "Login",
+      "url": "https://www.stormlake.com/login/"
+    },
+    {
+      "text": "My Account",
+      "url": "https://www.stormlake.com/account/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.stormlake.com/subscribe/"
+    },
+    {
+      "text": "News Sections ",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.stormlake.com/category/news/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.stormlake.com/category/sports/"
+    },
+    {
+      "text": "Family & Friends",
+      "url": "https://www.stormlake.com/category/family-friends/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.stormlake.com/category/obituaries/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.stormlake.com/category/opinion/"
+    },
+    {
+      "text": "Arts & Entertainment",
+      "url": "https://www.stormlake.com/category/arts-entertainment/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "/pageview/viewer/Classifieds"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://www.stormlake.com/category/e-edition/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.stormlake.com/contact-us/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.stormlake.com/about-us/"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://www.stormlake.com/advertise/"
+    },
+    {
+      "text": "Archives",
+      "url": "https://www.stormlake.com/archives/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.stormlake.com/privacy-policy/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.stormlake.com/category/news/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.stormlake.com/category/sports/"
+    },
+    {
+      "text": "Family & Friends",
+      "url": "https://www.stormlake.com/category/family-friends/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.stormlake.com/category/obituaries/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.stormlake.com/category/opinion/"
+    },
+    {
+      "text": "Arts & Entertainment",
+      "url": "https://www.stormlake.com/category/arts-entertainment/"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://www.stormlake.com/category/e-edition/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "/pageview/viewer/Classifieds"
+    },
+    {
+      "text": "Place an Ad",
+      "url": "https://www.stormlake.com/place-an-ad/"
+    },
+    {
+      "text": "Aurelia Star",
+      "url": "https://www.stormlake.com/aureliastar/"
+    },
+    {
+      "text": "Featured Stories",
+      "url": "https://www.stormlake.com/category/featured-stories/"
+    },
+    {
+      "text": "BVU announces addition of women\u2019s wrestling program",
+      "url": "https://www.stormlake.com/articles/bvu-announces-addition-of-womens-wrestling-program/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/bvu-announces-addition-of-womens-wrestling-program/"
+    },
+    {
+      "text": "Rolled ice cream arrives in Storm Lake",
+      "url": "https://www.stormlake.com/articles/rolled-ice-cream-arrives-in-storm-lake/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/rolled-ice-cream-arrives-in-storm-lake/"
+    },
+    {
+      "text": "Tax dollars work at piling up junked docks",
+      "url": "https://www.stormlake.com/articles/tax-dollars-work-at-piling-up-junked-docks/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/tax-dollars-work-at-piling-up-junked-docks/"
+    },
+    {
+      "text": "BVU announces addition of women\u2019s wrestling program",
+      "url": "https://www.stormlake.com/articles/bvu-announces-addition-of-womens-wrestling-program/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/bvu-announces-addition-of-womens-wrestling-program/"
+    },
+    {
+      "text": "Rolled ice cream arrives in Storm Lake",
+      "url": "https://www.stormlake.com/articles/rolled-ice-cream-arrives-in-storm-lake/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/rolled-ice-cream-arrives-in-storm-lake/"
+    },
+    {
+      "text": "1",
+      "url": ""
+    },
+    {
+      "text": "2",
+      "url": ""
+    },
+    {
+      "text": "3",
+      "url": ""
+    },
+    {
+      "text": "Prev",
+      "url": ""
+    },
+    {
+      "text": "Next",
+      "url": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/featured-job-listings/"
+    },
+    {
+      "text": "News",
+      "url": "https://www.stormlake.com/category/news/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/osha-investigating-workplace-accident-in-alta/"
+    },
+    {
+      "text": "OSHA investigating workplace accident in Alta",
+      "url": "https://www.stormlake.com/articles/osha-investigating-workplace-accident-in-alta/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/osha-investigating-workplace-accident-in-alta/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/city-housing-developer-get-on-the-same-typed-page/"
+    },
+    {
+      "text": "City, housing developer get on the same (typed) page",
+      "url": "https://www.stormlake.com/articles/city-housing-developer-get-on-the-same-typed-page/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/city-housing-developer-get-on-the-same-typed-page/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/tax-dollars-work-at-piling-up-junked-docks/"
+    },
+    {
+      "text": "Tax dollars work at piling up junked docks",
+      "url": "https://www.stormlake.com/articles/tax-dollars-work-at-piling-up-junked-docks/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/tax-dollars-work-at-piling-up-junked-docks/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/bv-county-drafts-rules-in-wake-of-lost-deposits/"
+    },
+    {
+      "text": "BV County drafts rules in wake of lost deposits",
+      "url": "https://www.stormlake.com/articles/bv-county-drafts-rules-in-wake-of-lost-deposits/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/bv-county-drafts-rules-in-wake-of-lost-deposits/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.stormlake.com/category/sports/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/bvu-students-documentary-on-girls-wrestling-makes-its-premier/"
+    },
+    {
+      "text": "BVU student\u2019s documentary on girls wrestling makes its premier",
+      "url": "https://www.stormlake.com/articles/bvu-students-documentary-on-girls-wrestling-makes-its-premier/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/bvu-students-documentary-on-girls-wrestling-makes-its-premier/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/newell-fonda-seeks-to-defend-title/"
+    },
+    {
+      "text": "Newell-Fonda softball seeks another state title",
+      "url": "https://www.stormlake.com/articles/newell-fonda-seeks-to-defend-title/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/newell-fonda-seeks-to-defend-title/"
+    },
+    {
+      "text": "STATE SOFTBALL PAIRINGS",
+      "url": "https://www.stormlake.com/articles/state-softball-pairings-6/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/state-softball-pairings-6/"
+    },
+    {
+      "text": "SUBSTATE BASEBALL",
+      "url": "https://www.stormlake.com/articles/substate-baseball/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/substate-baseball/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.stormlake.com/category/opinion/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/editorial-ready-to-move-on/"
+    },
+    {
+      "text": "Editorial: Ready to move on",
+      "url": "https://www.stormlake.com/articles/editorial-ready-to-move-on/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/editorial-ready-to-move-on/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/editorial-pipelines-will-happen/"
+    },
+    {
+      "text": "Editorial: Pipelines will happen",
+      "url": "https://www.stormlake.com/articles/editorial-pipelines-will-happen/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/editorial-pipelines-will-happen/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/what-happens-when-you-have-a-beef-with-a-judge/"
+    },
+    {
+      "text": "What happens when you have a beef with a judge?",
+      "url": "https://www.stormlake.com/articles/what-happens-when-you-have-a-beef-with-a-judge/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/what-happens-when-you-have-a-beef-with-a-judge/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/shootin-hoops-til-im-pooped/"
+    },
+    {
+      "text": "Shootin\u2019 hoops\u00a0\u2018til I\u2019m pooped",
+      "url": "https://www.stormlake.com/articles/shootin-hoops-til-im-pooped/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/shootin-hoops-til-im-pooped/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/letters-to-the-editor-70/"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "https://www.stormlake.com/articles/letters-to-the-editor-70/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/letters-to-the-editor-70/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.stormlake.com/category/obituaries/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/jimmy-bounyavouth/"
+    },
+    {
+      "text": "Jimmy Bounyavouth",
+      "url": "https://www.stormlake.com/articles/jimmy-bounyavouth/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/jimmy-bounyavouth/"
+    },
+    {
+      "text": "Dallas Steenblock",
+      "url": "https://www.stormlake.com/articles/dallas-steenblock-obituary/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/dallas-steenblock-obituary/"
+    },
+    {
+      "text": "Ellen Parker",
+      "url": "https://www.stormlake.com/articles/ellen-parker-obituary/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/ellen-parker-obituary/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/john-andersen-obituary/"
+    },
+    {
+      "text": "John Andersen",
+      "url": "https://www.stormlake.com/articles/john-andersen-obituary/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/john-andersen-obituary/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/scott-bryan-obituary/"
+    },
+    {
+      "text": "Scott Bryan",
+      "url": "https://www.stormlake.com/articles/scott-bryan-obituary/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/scott-bryan-obituary/"
+    },
+    {
+      "text": "Family & Friends",
+      "url": "https://www.stormlake.com/category/family-friends/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/sl-grad-earns-pulitzer/"
+    },
+    {
+      "text": "Storm Lake native Simons on Pulitzer-winning news team",
+      "url": "https://www.stormlake.com/articles/sl-grad-earns-pulitzer/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/sl-grad-earns-pulitzer/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/rolled-ice-cream-arrives-in-storm-lake/"
+    },
+    {
+      "text": "Rolled ice cream arrives in Storm Lake",
+      "url": "https://www.stormlake.com/articles/rolled-ice-cream-arrives-in-storm-lake/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/rolled-ice-cream-arrives-in-storm-lake/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/articles/cooking-up-a-good-time-at-the-bv%e2%80%88county-fair/"
+    },
+    {
+      "text": "Cooking up a good time at the BV\u2008County Fair",
+      "url": "https://www.stormlake.com/articles/cooking-up-a-good-time-at-the-bv%e2%80%88county-fair/"
+    },
+    {
+      "text": "...",
+      "url": "https://www.stormlake.com/articles/cooking-up-a-good-time-at-the-bv%e2%80%88county-fair/"
+    },
+    {
+      "text": "Storm Lake Times Pilot 7-1-2022",
+      "url": "https://www.stormlake.com/pageview/viewer/2022-07-01"
+    },
+    {
+      "text": "Storm Lake Times Pilot 7-15-2022",
+      "url": "https://www.stormlake.com/pageview/viewer/2022-07-15"
+    },
+    {
+      "text": "Storm Lake Times Pilot 7-13-2022",
+      "url": "https://www.stormlake.com/pageview/viewer/2022-07-13"
+    },
+    {
+      "text": "Storm Lake Times Pilot 7-8-2022",
+      "url": "https://www.stormlake.com/pageview/viewer/2022-07-08"
+    },
+    {
+      "text": "2022 Buena Vista County Fair Preview",
+      "url": "https://www.stormlake.com/pageview/viewer/2022-07-05"
+    },
+    {
+      "text": "Storm Lake Times Pilot 7-6-2022",
+      "url": "https://www.stormlake.com/pageview/viewer/2022-07-06"
+    },
+    {
+      "text": "Storm Lake Times Pilot 7-1-2022",
+      "url": "https://www.stormlake.com/pageview/viewer/2022-07-01"
+    },
+    {
+      "text": "Storm Lake Times Pilot 7-15-2022",
+      "url": "https://www.stormlake.com/pageview/viewer/2022-07-15"
+    },
+    {
+      "text": "1",
+      "url": ""
+    },
+    {
+      "text": "2",
+      "url": ""
+    },
+    {
+      "text": "3",
+      "url": ""
+    },
+    {
+      "text": "4",
+      "url": ""
+    },
+    {
+      "text": "5",
+      "url": ""
+    },
+    {
+      "text": "6",
+      "url": ""
+    },
+    {
+      "text": "Prev",
+      "url": ""
+    },
+    {
+      "text": "Next",
+      "url": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/wp-content/uploads/2022/04/Screen-Shot-2022-06-24-at-11.49.49-AM.png"
+    },
+    {
+      "text": "",
+      "url": "https://citizensfnb.com"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-30-at-3.46.30-PM.png"
+    },
+    {
+      "text": "",
+      "url": "https://www.weaverrealtors.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlakehomessite.com/"
+    },
+    {
+      "text": "",
+      "url": "https://stormlake.us20.list-manage.com/subscribe?u=1e6c5ac8fb97154a9000d622b&id=d2ab728750"
+    },
+    {
+      "text": "",
+      "url": "https://www.securitybanksl.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rightsize-storage.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.fratzkejensen.com/"
+    },
+    {
+      "text": "",
+      "url": "https://citizensfnb.com/personal/mobile-banking"
+    },
+    {
+      "text": "",
+      "url": "https://www.hy-vee.com/stores/detail.aspx?s=163"
+    },
+    {
+      "text": "",
+      "url": "https://www.centralbankonline.com/"
+    },
+    {
+      "text": "weather forecast",
+      "url": "https://www.willyweather.com/ia/buena-vista-county/storm-lake.html"
+    },
+    {
+      "text": "1John Andersen",
+      "url": "https://www.stormlake.com/articles/john-andersen-obituary/"
+    },
+    {
+      "text": "2Rolled ice cream arrives in Storm Lake",
+      "url": "https://www.stormlake.com/articles/rolled-ice-cream-arrives-in-storm-lake/"
+    },
+    {
+      "text": "3Editorial: The Cobb revived",
+      "url": "https://www.stormlake.com/articles/editorial-the-cobb-revived/"
+    },
+    {
+      "text": "4A little rain brings some peace of mind",
+      "url": "https://www.stormlake.com/articles/a-little-rain-brings-some-peace-of-mind/"
+    },
+    {
+      "text": "5BV County drafts rules in wake of lost deposits",
+      "url": "https://www.stormlake.com/articles/bv-county-drafts-rules-in-wake-of-lost-deposits/"
+    },
+    {
+      "text": "Tweets by SLTimes",
+      "url": "https://twitter.com/SLTimes?ref_src=twsrc%5Etfw"
+    },
+    {
+      "text": "",
+      "url": "https://citizensfnb.com/personal/mobile-banking"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlakehomessite.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.centralbankonline.com/"
+    },
+    {
+      "text": "",
+      "url": "https://citizensfnb.com"
+    },
+    {
+      "text": "",
+      "url": "https://stormlake.us20.list-manage.com/subscribe?u=1e6c5ac8fb97154a9000d622b&id=d2ab728750"
+    },
+    {
+      "text": "",
+      "url": "https://www.fratzkejensen.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.hy-vee.com/stores/detail.aspx?s=163"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-30-at-3.46.30-PM.png"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/wp-content/uploads/2022/04/Screen-Shot-2022-06-24-at-11.49.49-AM.png"
+    },
+    {
+      "text": "",
+      "url": "https://www.weaverrealtors.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rightsize-storage.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.securitybanksl.com/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://www.stormlake.com/pageview/viewer/Classifieds"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://www.stormlake.com/pageview/viewer/Classifieds"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://www.stormlake.com/pageview/viewer/Classifieds"
+    },
+    {
+      "text": "1",
+      "url": ""
+    },
+    {
+      "text": "Prev",
+      "url": ""
+    },
+    {
+      "text": "Next",
+      "url": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlakehomessite.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.weaverrealtors.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-30-at-3.46.30-PM.png"
+    },
+    {
+      "text": "",
+      "url": "https://www.centralbankonline.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.stormlake.com/wp-content/uploads/2022/04/Screen-Shot-2022-06-24-at-11.49.49-AM.png"
+    },
+    {
+      "text": "",
+      "url": "https://stormlake.us20.list-manage.com/subscribe?u=1e6c5ac8fb97154a9000d622b&id=d2ab728750"
+    },
+    {
+      "text": "",
+      "url": "https://www.hy-vee.com/stores/detail.aspx?s=163"
+    },
+    {
+      "text": "",
+      "url": "https://www.securitybanksl.com/"
+    },
+    {
+      "text": "",
+      "url": "https://citizensfnb.com"
+    },
+    {
+      "text": "",
+      "url": "https://www.rightsize-storage.com/"
+    },
+    {
+      "text": "",
+      "url": "https://citizensfnb.com/personal/mobile-banking"
+    },
+    {
+      "text": "",
+      "url": "https://www.fratzkejensen.com/"
+    },
+    {
+      "text": "\n\t\t\t\n\t",
+      "url": "/"
+    },
+    {
+      "text": "Featured Stories",
+      "url": "https://www.stormlake.com/category/featured-stories/"
+    },
+    {
+      "text": "Family & Friends",
+      "url": "https://www.stormlake.com/category/family-friends/"
+    },
+    {
+      "text": "Arts & Entertainment",
+      "url": "https://www.stormlake.com/articles/arts-entertainment/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://www.stormlake.com/pageview/viewer/Classifieds"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://www.stormlake.com/category/e-edition/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.stormlake.com/about-us/"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://www.stormlake.com/advertise/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.stormlake.com/contact-us/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.stormlake.com/subscribe/"
+    },
+    {
+      "text": "Archives",
+      "url": "https://www.stormlake.com/archives/"
+    },
+    {
+      "text": "Return Policy",
+      "url": "https://www.stormlake.com/return-policy/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.stormlake.com/privacy-policy/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t",
+      "url": "https://twitter.com/SLTimes"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t",
+      "url": "https://www.facebook.com/TheStormLakeTimes/"
+    },
+    {
+      "text": "Our Hometown",
+      "url": "http://our-hometown.com/"
+    },
+    {
+      "text": "DMCA Notices",
+      "url": "http://our-hometown.com/dmca/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy/"
+    },
+    {
+      "text": "Ok",
+      "url": "#"
+    },
+    {
+      "text": "Privacy policy",
+      "url": "/privacy-policy"
+    }
+  ],
+  "uniq": 407343803,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1657887539,
+  "created": 1657973944,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/16/items/vicenews-2022",
@@ -3270,31 +3270,115 @@
       "sha1": "2cdd31b4adb7205fbf163d7f2c12c67a695d87cf"
     },
     {
+      "name": "vicenews-2022-07-15T12:11:37.467702-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901506",
+      "size": "4855",
+      "md5": "3bc09d82e43d488dba87a2275b1634d2",
+      "crc32": "ad198c7e",
+      "sha1": "aa7814c1d943674aeee0ffa03b998631bc619049",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-07-15T12:11:37.467702-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901508",
+      "size": "12435",
+      "md5": "78953b241689519b6ef24f93f05c5803",
+      "crc32": "8af8d078",
+      "sha1": "96a379896c06ebfbeab5f5143244b772a94e9475",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-07-15T12:11:37.467702-04:00.jpg",
+      "source": "original",
+      "mtime": "1657901502",
+      "size": "174178",
+      "md5": "9502b6ad0c4e2fb2f8095d0ec46de1b7",
+      "crc32": "ad4f1df0",
+      "sha1": "e778d756c79868e24f9133c794ce15f1fb0a7c1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vicenews-2022-07-15T12:11:37.467702-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vicenews-2022-07-15T12:11:37.467702-04:00.jpg",
+      "mtime": "1657907316",
+      "size": "8708",
+      "md5": "268c8ba0381216c6e817356d919e7361",
+      "crc32": "fe6a8b6b",
+      "sha1": "1ee60bc441b7de745f1c6a971bd5a6185feea3cc"
+    },
+    {
+      "name": "vicenews-2022-07-16T00:05:54.981004-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657944360",
+      "size": "4855",
+      "md5": "3bc09d82e43d488dba87a2275b1634d2",
+      "crc32": "ad198c7e",
+      "sha1": "aa7814c1d943674aeee0ffa03b998631bc619049",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-07-16T00:05:54.981004-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657944362",
+      "size": "10591",
+      "md5": "a9570213551bb9dabeb178b169a93443",
+      "crc32": "9dfb2e48",
+      "sha1": "0e51595599b0c92c5660d7fca7d146ec7b8f8b43",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-07-16T00:05:54.981004-04:00.jpg",
+      "source": "original",
+      "mtime": "1657944358",
+      "size": "165573",
+      "md5": "b482f53f447d6ff2fb39467180bddab1",
+      "crc32": "8cd4910a",
+      "sha1": "2d15c8077f05c0eb4203eaf0775afe62f9122d10",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vicenews-2022-07-16T00:05:54.981004-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vicenews-2022-07-16T00:05:54.981004-04:00.jpg",
+      "mtime": "1657946968",
+      "size": "8693",
+      "md5": "22d11f851347a453e23ac14aa5293b48",
+      "crc32": "140a62d6",
+      "sha1": "4159c507db95bf753d3a0b48a4d369441a762a2d"
+    },
+    {
       "name": "vicenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1711ca538e21158f977a769a85ff8807f0ac81db",
-      "mtime": "1657858926",
-      "size": "66515",
-      "md5": "caa9aac180b233c98fe038a330d4a213",
-      "crc32": "b41e0469",
-      "sha1": "8a7c014ff1b34e4be2c872e7c57220c55e8bce88",
+      "btih": "21dab379825dba3daeedaf98d01dc9d1b728ee9c",
+      "mtime": "1657946976",
+      "size": "68191",
+      "md5": "eb8c3dab03b4653fbe686b8f26372bb5",
+      "crc32": "fd0c5050",
+      "sha1": "06d5c91245b74445c35454f0d4313b536992f11a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vicenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8195bd710eade705acf268032464030d",
+      "md5": "64d0d6c8b4f8f7182ca866178707499c",
       "summation": "md5"
     },
     {
       "name": "vicenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657858808",
-      "size": "376832",
-      "md5": "36dde44786b807fd791c7881f042e6e8",
-      "crc32": "d6b3f6e6",
-      "sha1": "06b71fe9a7712182c64da4134ddcff5206a8f67f",
+      "mtime": "1657944366",
+      "size": "385024",
+      "md5": "d6e4f07aa1650c91cd071c42d5e3160f",
+      "crc32": "90504e99",
+      "sha1": "be223802f821c16700c3844e897e846bf076e588",
       "format": "Metadata"
     },
     {
@@ -3308,9 +3392,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 315,
-  "item_last_updated": 1657858926,
-  "item_size": 18660246,
+  "files_count": 323,
+  "item_last_updated": 1657946976,
+  "item_size": 19060002,
   "metadata": {
     "identifier": "vicenews-2022",
     "collection": [
@@ -3327,8 +3411,8 @@
     "publicdate": "2022-06-19 23:29:15",
     "addeddate": "2022-06-19 23:29:15"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 814419891,
+  "server": "ia601501.us.archive.org",
+  "uniq": 2145872599,
   "vicenews-2022": [
     {
       "text": "",
@@ -3663,44 +3747,36 @@
       "url": "https://www.vice.com/en/article/y3pdwb/self-managed-abortion-pills-arizona"
     },
     {
-      "text": "Versace's Medusa Biggie interpreted by four emerging talents",
-      "url": "https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvQpdek-mC4NQSe0gf-VaKRVo9YSpC1qsoOdjlVWIAzSLdyjHB2JiP0a9LsgkkJ6BOMDMk-3y41bji3RltecxxrErXnuU_AcvulZcLYTAX8oDp1oJvfE3C_xiBbJfxZVMuYIO84iSRulHPTa7GLtpzXpN_kqYUf25JQKlVO-UApG_gxZ-5X95yv-aAi-FK3zpVzkDjDcse2px73eJC6RCYLkpB2tDm0oEr-Hc2skQ1mhO6XjAGYChC51bcnVN12RXWZroAcqQIz90e9fc9l5uOB4As_AzW-m_De2pCOpb_K6Kx91rfivzTarIVpZKU&sai=AMfl-YQrWMmk-gPedN0tmquYbyW6u_eVGQhxx1ZNCHPr3qSVi4xUwMlcr5h5YdYz9gWGuryB_qeIGJOplOKtF4kC_aY4kCo5PuRmcEwnrAHL4rhMyYERHtmlep67Mj2PCTk0&sig=Cg0ArKJSzMhJOcgUcBCPEAE&fbs_aeid=[gw_fbsaeid]&urlfix=1&adurl=https://i-d.vice.com/en_uk/partners/versace-biggie-2022-us/versaces-medusa-biggie-interpreted-by-four-emerging-talents"
-    },
-    {
-      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvQpdek-mC4NQSe0gf-VaKRVo9YSpC1qsoOdjlVWIAzSLdyjHB2JiP0a9LsgkkJ6BOMDMk-3y41bji3RltecxxrErXnuU_AcvulZcLYTAX8oDp1oJvfE3C_xiBbJfxZVMuYIO84iSRulHPTa7GLtpzXpN_kqYUf25JQKlVO-UApG_gxZ-5X95yv-aAi-FK3zpVzkDjDcse2px73eJC6RCYLkpB2tDm0oEr-Hc2skQ1mhO6XjAGYChC51bcnVN12RXWZroAcqQIz90e9fc9l5uOB4As_AzW-m_De2pCOpb_K6Kx91rfivzTarIVpZKU&sai=AMfl-YQrWMmk-gPedN0tmquYbyW6u_eVGQhxx1ZNCHPr3qSVi4xUwMlcr5h5YdYz9gWGuryB_qeIGJOplOKtF4kC_aY4kCo5PuRmcEwnrAHL4rhMyYERHtmlep67Mj2PCTk0&sig=Cg0ArKJSzMhJOcgUcBCPEAE&fbs_aeid=[gw_fbsaeid]&urlfix=1&adurl=https://i-d.vice.com/en_uk/partners/versace-biggie-2022-us/versaces-medusa-biggie-interpreted-by-four-emerging-talents"
-    },
-    {
-      "text": "@channel We\u2019re Laying Off 20% Of You, Says OpenSea CEO",
-      "url": "https://www.vice.com/en/article/jgp87b/opensea-lays-off-20-percent-employees-crypto-winter"
+      "text": "Notorious Drug Lord Rafael Caro Quintero Captured in Mexico",
+      "url": "https://www.vice.com/en/article/4axwgd/rafael-caro-quintero-captured-mexico"
     },
     {
       "text": "",
-      "url": "https://www.vice.com/en/article/jgp87b/opensea-lays-off-20-percent-employees-crypto-winter"
+      "url": "https://www.vice.com/en/article/4axwgd/rafael-caro-quintero-captured-mexico"
     },
     {
-      "text": "Terrence Howard Says He Reinvented Physics, Wants to Give Uganda New Forms of Flight, Defense",
-      "url": "https://www.vice.com/en/article/88qny5/terrence-howard-says-he-reinvented-physics-wants-to-give-uganda-new-forms-of-flight-defense"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/88qny5/terrence-howard-says-he-reinvented-physics-wants-to-give-uganda-new-forms-of-flight-defense"
-    },
-    {
-      "text": "Anti-Abortion Leader Tells Congress a 10-Year-Old\u2019s Abortion Wouldn\u2019t Count",
-      "url": "https://www.vice.com/en/article/wxn5mn/ohio-rape-abortion-child-americans-united-for-life"
+      "text": "Brittney Griner Had a Prescription for the Weed She Brought to Russia",
+      "url": "https://www.vice.com/en/article/xgyxe3/brittney-griner-weed-prescription-russia"
     },
     {
       "text": "",
-      "url": "https://www.vice.com/en/article/wxn5mn/ohio-rape-abortion-child-americans-united-for-life"
+      "url": "https://www.vice.com/en/article/xgyxe3/brittney-griner-weed-prescription-russia"
     },
     {
-      "text": "Boston\u2019s New Police Boss Was Once Mistaken for a Suspect and Beaten by Officers",
-      "url": "https://www.vice.com/en/article/m7gezb/bostons-new-police-boss-was-once-mistaken-for-a-suspect-and-beaten-by-officers"
+      "text": "\u2018Real Housewives\u2019 Grifter Jen Shah Could Face 14 Years for Scamming the Elderly",
+      "url": "https://www.vice.com/en/article/jgp8yb/real-housewives-grifter-jen-shah-could-face-14-years-for-scamming-the-elderly"
     },
     {
       "text": "",
-      "url": "https://www.vice.com/en/article/m7gezb/bostons-new-police-boss-was-once-mistaken-for-a-suspect-and-beaten-by-officers"
+      "url": "https://www.vice.com/en/article/jgp8yb/real-housewives-grifter-jen-shah-could-face-14-years-for-scamming-the-elderly"
+    },
+    {
+      "text": "This Humanoid Spider Crab Will Save Us All",
+      "url": "https://www.vice.com/en/article/4axvkd/this-humanoid-spider-crab-will-save-us-all"
+    },
+    {
+      "text": "",
+      "url": "https://www.vice.com/en/article/4axvkd/this-humanoid-spider-crab-will-save-us-all"
     },
     {
       "text": "Terms of Use",
@@ -3715,52 +3791,52 @@
       "url": "/en_us/create-account"
     },
     {
-      "text": "Alex Jones Begs Judge Not to Allow \u2018White Supremacy\u2019 Evidence at Trial",
-      "url": "https://www.vice.com/en/article/qjk8yb/alex-jones-white-supremacy-sandy-hook-trial"
+      "text": "Russian Military Is Bombing Ukraine With Grenades in Plastic Cups",
+      "url": "https://www.vice.com/en/article/88qnw5/russian-military-is-bombing-ukraine-with-grenades-in-plastic-cups"
     },
     {
       "text": "",
-      "url": "https://www.vice.com/en/article/qjk8yb/alex-jones-white-supremacy-sandy-hook-trial"
+      "url": "https://www.vice.com/en/article/88qnw5/russian-military-is-bombing-ukraine-with-grenades-in-plastic-cups"
     },
     {
-      "text": "Chechnya\u2019s Leader Captures and Kills Zelenskyy Double in Bizarre YouTube Skit",
-      "url": "https://www.vice.com/en/article/4axvzd/chechnyas-leader-captures-and-kills-zelenskyy-double-in-bizarre-youtube-skit"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/4axvzd/chechnyas-leader-captures-and-kills-zelenskyy-double-in-bizarre-youtube-skit"
-    },
-    {
-      "text": "Every Single House Republican Voted Against Investigating Neo-Nazis in the Military",
-      "url": "https://www.vice.com/en/article/pkgbny/republicans-investigate-neo-nazis-military"
+      "text": "Mexico\u2019s Ex\u2013Top Cop Says US Used Fake Russian Mobster to Set Him Up",
+      "url": "https://www.vice.com/en/article/pkgb7y/garcia-luna-russian-mobster-mexico-cartel"
     },
     {
       "text": "",
-      "url": "https://www.vice.com/en/article/pkgbny/republicans-investigate-neo-nazis-military"
+      "url": "https://www.vice.com/en/article/pkgb7y/garcia-luna-russian-mobster-mexico-cartel"
     },
     {
-      "text": "7 Women Accused of Being Witches Allegedly Kidnapped and Tortured in Peru",
-      "url": "https://www.vice.com/en/article/qjk8qm/witches-women-militia-peru"
-    },
-    {
-      "text": "",
-      "url": "https://www.vice.com/en/article/qjk8qm/witches-women-militia-peru"
-    },
-    {
-      "text": "Indiana Now Investigating Doctor Who Gave 10-Year-Old Rape Victim an Abortion",
-      "url": "https://www.vice.com/en/article/wxn53y/ohio-rape-abortion-indiana-child"
+      "text": "Republicans Didn\u2019t Dismantle Roe Alone. Plenty of Democrats Helped Too.",
+      "url": "https://www.vice.com/en/article/7k8vnd/republicans-didnt-dismantle-roe-alone-plenty-of-democrats-helped-too"
     },
     {
       "text": "",
-      "url": "https://www.vice.com/en/article/wxn53y/ohio-rape-abortion-indiana-child"
+      "url": "https://www.vice.com/en/article/7k8vnd/republicans-didnt-dismantle-roe-alone-plenty-of-democrats-helped-too"
     },
     {
-      "text": "Prosecutors Can\u2019t Stop Police From Investigating Abortions, Even if They Want To",
-      "url": "https://www.vice.com/en/article/pkgb5m/abortion-bans-local-prosecutors"
+      "text": "How Doomed Is Steve Bannon?",
+      "url": "https://www.vice.com/en/article/y3pdam/steven-bannon-trial-jan-6"
     },
     {
       "text": "",
-      "url": "https://www.vice.com/en/article/pkgb5m/abortion-bans-local-prosecutors"
+      "url": "https://www.vice.com/en/article/y3pdam/steven-bannon-trial-jan-6"
+    },
+    {
+      "text": "Senators Obsessed With Creating \u2018Space National Guard\u2019 for Some Reason",
+      "url": "https://www.vice.com/en/article/3adqg5/marco-rubio-and-dianne-feinstein-want-more-space-troops"
+    },
+    {
+      "text": "",
+      "url": "https://www.vice.com/en/article/3adqg5/marco-rubio-and-dianne-feinstein-want-more-space-troops"
+    },
+    {
+      "text": "Joe Biden Can\u2019t Stop Touching People in the Middle East",
+      "url": "https://www.vice.com/en/article/v7ve99/joe-biden-israel-saudi-arabia"
+    },
+    {
+      "text": "",
+      "url": "https://www.vice.com/en/article/v7ve99/joe-biden-israel-saudi-arabia"
     },
     {
       "text": "",
@@ -3804,7 +3880,7 @@
     }
   ],
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

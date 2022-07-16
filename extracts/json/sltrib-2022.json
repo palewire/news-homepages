@@ -1,5 +1,5 @@
 {
-  "created": 1657887443,
+  "created": 1657973823,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/21/items/sltrib-2022",
@@ -562,31 +562,115 @@
       "sha1": "261035df6c03dd60b6e95eb3c6f286193bfc6b6f"
     },
     {
+      "name": "sltrib-2022-07-15T10:07:46.852509-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901270",
+      "size": "23002",
+      "md5": "6a44d01f2cedb2c93292ab292fdd1943",
+      "crc32": "213b2a0c",
+      "sha1": "997bbf69c83259ca6e76c62258e1578c53ae0cc7",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-07-15T10:07:46.852509-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901273",
+      "size": "34434",
+      "md5": "fbbc5393397302297f96ac29c3e5ac9b",
+      "crc32": "ca0c2e9d",
+      "sha1": "91420da267b20f06c399c2edc3337ac131d82ee0",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-07-15T10:07:46.852509-06:00.jpg",
+      "source": "original",
+      "mtime": "1657901268",
+      "size": "289799",
+      "md5": "c374492313cf856e4c34f2198503d871",
+      "crc32": "b43b0736",
+      "sha1": "5a8915de151156d9e6a4b7163e95ab9148c969cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltrib-2022-07-15T10:07:46.852509-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltrib-2022-07-15T10:07:46.852509-06:00.jpg",
+      "mtime": "1657907217",
+      "size": "9537",
+      "md5": "ded8b8f0b5e348bad5015ed8c373a751",
+      "crc32": "f34293d2",
+      "sha1": "a9e0b709a2bad57d6332b156887986be0b1ede2d"
+    },
+    {
+      "name": "sltrib-2022-07-15T22:02:45.992726-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657944170",
+      "size": "19905",
+      "md5": "bcfafe23af372dc6a40db0c654ef5ae6",
+      "crc32": "6fb04959",
+      "sha1": "275bff8fb4e63a66010bd52f248aeeec9563bea3",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-07-15T22:02:45.992726-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657944172",
+      "size": "39077",
+      "md5": "c04adbd15f111f056772e3f87842dbe2",
+      "crc32": "4e411177",
+      "sha1": "9148c5ebc48d82b1e3d29118e5485531ef4fb05f",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-07-15T22:02:45.992726-06:00.jpg",
+      "source": "original",
+      "mtime": "1657944167",
+      "size": "284242",
+      "md5": "3bb9c20810bd090dc6b5ca64aac13866",
+      "crc32": "d5a2a9f2",
+      "sha1": "dbb463bc8b69bbfb3fa0bd9013140a27dd59bc01",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltrib-2022-07-15T22:02:45.992726-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltrib-2022-07-15T22:02:45.992726-06:00.jpg",
+      "mtime": "1657946744",
+      "size": "9716",
+      "md5": "61b41e67e40ca9c17f827c3d81da7ebd",
+      "crc32": "e7c28a04",
+      "sha1": "0bbfd039672f4c4a185424545e107fba1c351f91"
+    },
+    {
       "name": "sltrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "488df19b7ffae12efc86ca0a9e3bb108d92656d2",
-      "mtime": "1657858650",
-      "size": "12463",
-      "md5": "8ee0861da93c871d78feba89b7555ab4",
-      "crc32": "4f109990",
-      "sha1": "c1aebbb4dfbaa9b82e2ee20bc2c1bf7aac0138e3",
+      "btih": "fa6bbd46277b1e5c05ca013ec98755e95f8ab3ae",
+      "mtime": "1657946869",
+      "size": "14125",
+      "md5": "d041f547de3fa4d36ad2ca9f336b0d93",
+      "crc32": "d668996c",
+      "sha1": "5a5e21c3b49b09939c85b4b202854076f9ecec0a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5c06716908a8527b7e2633e38af129a6",
+      "md5": "98dc4a74258ade88d8cb6a3f0d4f2d07",
       "summation": "md5"
     },
     {
       "name": "sltrib-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657858584",
-      "size": "73728",
-      "md5": "b42cb6133e72448bef9971e3a34ed12d",
-      "crc32": "0a65a641",
-      "sha1": "84ae8f1ba4137e73055975c64aa0d24a8ce88810",
+      "mtime": "1657944178",
+      "size": "81920",
+      "md5": "6bc2361279e46fe315321cb76c621ec2",
+      "crc32": "6ad4095d",
+      "sha1": "be07489ff933aa1a3ee0297e981e94587b0f3cb5",
       "format": "Metadata"
     },
     {
@@ -600,9 +684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 57,
-  "item_last_updated": 1657858650,
-  "item_size": 4811373,
+  "files_count": 65,
+  "item_last_updated": 1657946869,
+  "item_size": 5530939,
   "metadata": {
     "identifier": "sltrib-2022",
     "collection": [
@@ -619,11 +703,15 @@
     "publicdate": "2022-07-09 04:03:05",
     "addeddate": "2022-07-09 04:03:05"
   },
-  "server": "ia801401.us.archive.org",
+  "server": "ia601401.us.archive.org",
   "sltrib-2022": [
     {
       "text": "Data Storage Policy",
       "url": "https://www.sltrib.com/privacy-policy/"
+    },
+    {
+      "text": "",
+      "url": "https://freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=sltrib.com&utm_content=sltrib_billboard_atf"
     },
     {
       "text": "E-edition",
@@ -686,52 +774,60 @@
       "url": "/support"
     },
     {
-      "text": "Here\u2019s why the first Twilight Concert of 2022 has been canceledBy Sean P. Means\u00a0|\u00a0Jul. 14, 2022, 6:41 p.m.",
-      "url": "/artsliving/2022/07/14/heres-why-first-twilight-concert"
+      "text": "Meet the first ever female president of SUUBy Courtney Tanner\u00a0|\u00a0Jul. 16, 2022, 2:40 a.m.",
+      "url": "/news/education/2022/07/15/meet-first-ever-female-president"
     },
     {
-      "text": "Donovan Mitchell\u2019s future with the Utah Jazz: the latest trade rumors, reports and intelBy Andy Larsen\u00a0|\u00a0Jul. 14, 2022, 10:50 p.m.",
-      "url": "/sports/jazz/2022/07/14/donovan-mitchells-future-with"
+      "text": "Zion vacation rentals are bringing noise to a small town and locals want the law changedBy Mark Eddington\u00a0|\u00a0Jul. 15, 2022, 5:03 p.m.",
+      "url": "/news/2022/07/15/locals-say-vacation-rentals-are"
     },
     {
-      "text": "Utah approaches 1 millionth confirmed COVID case as 7,819 test positive, 22 deaths reportedBy Robert Gehrke\u00a0|\u00a0Jul. 15, 2022, 12:27 a.m.",
-      "url": "/news/health/2022/07/14/utah-approaches-millionth"
+      "text": "Utah Jazz fans have a lot of questions about the Donovan Mitchell situation. We try to answer them allBy Andy Larsen\u00a0|\u00a0Jul. 16, 2022, 3:14 a.m.",
+      "url": "/sports/jazz/2022/07/15/utah-jazz-fans-have-lot"
     },
     {
-      "text": "West Jordan man accused of running over, killing wife at Salt Lake City airport pleads guilty",
-      "url": "/news/2022/07/14/west-jordan-man-accused-running/"
+      "text": "With the Great Salt Lake in peril, are golf courses a luxury Utah can no longer afford?",
+      "url": "/news/environment/2022/07/15/with-great-salt-lake-peril-are/"
     },
     {
-      "text": "Latest from Mormon Land: And they came to pass? An argument for girls delivering the sacrament.  ",
-      "url": "/religion/2022/07/14/latest-mormon-land-they-came/"
+      "text": "The Triple Team: Leandro Bolmaro impresses in Game 4, where is Jarrell Brantley now?",
+      "url": "/sports/jazz/2022/07/15/triple-team-leandro-bolmaro/"
     },
     {
-      "text": "SPONSOREDNexgard Chewables For Dog Reviews",
-      "url": "/sponsored/2022/07/12/nexgard-chewables-dog-reviews"
+      "text": "",
+      "url": "https://freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=sltrib.com&utm_content=sltrib_homepage_medrec_sidebar_atf"
     },
     {
-      "text": "PREMIUMSLC vintage shop owner says her business is suffering after moving to make way for luxury apartments",
-      "url": "/artsliving/2022/07/14/slc-vintage-shop-owner-says-her"
+      "text": "SPONSOREDReturning to the office? Three tips from AAA Smart Home to keep your home secure",
+      "url": "/sponsored/2022/06/29/returning-office-three-tips"
     },
     {
-      "text": "Utah, Pac-12 in holding pattern? What conference realignments mean for the U.",
-      "url": "/sports/utah-utes/2022/07/14/why-utah-pac-must-wait"
+      "text": "Utah wildfire updates: Jacob City Fire now 35% contained",
+      "url": "/news/2022/07/15/utah-wildfire-updates-jacob-city"
+    },
+    {
+      "text": "Parents accuse Utah school of retaliating against son after child said principal sexually abused him",
+      "url": "/news/education/2022/07/15/parents-accuse-utah-school"
+    },
+    {
+      "text": "",
+      "url": "https://freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=sltrib.com&utm_content=sltrib_billboard_incontent_1"
     },
     {
       "text": "News",
       "url": "/news"
     },
     {
-      "text": "Salt Lake City mayor calls for \u2018open, honest process\u2019 after school board puts district\u2019s first Black superintendent on leave",
-      "url": "/news/2022/07/14/salt-lake-city-mayor-calls-open"
+      "text": "Police search for Utah fugitive charged with killing ex-wife while their children were upstairs",
+      "url": "/news/2022/07/15/police-search-utah-fugitive"
     },
     {
-      "text": "West Jordan man accused of running over, killing wife at Salt Lake City airport pleads guilty",
-      "url": "/news/2022/07/14/west-jordan-man-accused-running/"
+      "text": "With the Great Salt Lake in peril, are golf courses a luxury Utah can no longer afford?",
+      "url": "/news/environment/2022/07/15/with-great-salt-lake-peril-are/"
     },
     {
-      "text": "Casi la mitad de los inquilinos de Salt Lake gastan m\u00e1s del 30% del salario en vivienda. S\u00ed, la gentrificaci\u00f3n est\u00e1 empeorando.",
-      "url": "/news/2022/07/14/casi-la-mitad-de-los-inquilinos/"
+      "text": "\u2018So much more than a house\u2019: Widow, kids of North Ogden Mayor Brent Taylor receive new home",
+      "url": "/news/2022/07/15/so-much-more-than-house-widow/"
     },
     {
       "text": "More News",
@@ -742,16 +838,16 @@
       "url": "/sports"
     },
     {
-      "text": "One of the top girls\u2019 basketball players in the country will transfer to a Utah high school",
-      "url": "/sports/high-school-sports/2022/07/14/one-top-girls-basketball-players"
+      "text": "Longtime Big 12 commissioner says BYU has rare \u2018worldwide reach.\u2019 Will the Cougars help define Bob Bowlsby\u2019s legacy?",
+      "url": "/sports/byu-cougars/2022/07/15/longtime-big-commissioner-says"
     },
     {
-      "text": "At St. Andrews, Utah golfer Tony Finau starts the Open Championshp over par",
-      "url": "/sports/2022/07/14/tony-finaus-open-championship/"
+      "text": "Gordon Monson: When Kyle Whittingham steps down at Utah, this now-wiser man should replace him",
+      "url": "/sports/utah-utes/2022/07/15/gordon-monson-when-kyle/"
     },
     {
-      "text": "Utah, Pac-12 in holding pattern? What conference realignments mean for the U.",
-      "url": "/sports/utah-utes/2022/07/14/why-utah-pac-must-wait/"
+      "text": "Donovan Mitchell\u2019s future with the Utah Jazz: the latest trade rumors, reports and intel",
+      "url": "/sports/jazz/2022/07/14/donovan-mitchells-future-with/"
     },
     {
       "text": "More Sports",
@@ -762,40 +858,48 @@
       "url": "https://www.sltrib.com/latest/"
     },
     {
-      "text": "Utah approaches 1 millionth confirmed COVID case as 7,819 test positive, 22 deaths reported",
-      "url": "/news/health/2022/07/14/utah-approaches-millionth"
+      "text": "Meet the first ever female president of SUU",
+      "url": "/news/education/2022/07/15/meet-first-ever-female-president"
     },
     {
-      "text": "Salt Lake City mayor calls for \u2018open, honest process\u2019 after school board puts district\u2019s first Black superintendent on leave",
-      "url": "/news/2022/07/14/salt-lake-city-mayor-calls-open"
+      "text": "The Triple Team: Leandro Bolmaro impresses in Game 4, where is Jarrell Brantley now?",
+      "url": "/sports/jazz/2022/07/15/triple-team-leandro-bolmaro"
     },
     {
-      "text": "Bagley Cartoon: Sports Ball",
-      "url": "/opinion/bagley/2022/07/14/bagley-cartoon-sports-ball"
+      "text": "Utah Jazz fans have a lot of questions about the Donovan Mitchell situation. We try to answer them all",
+      "url": "/sports/jazz/2022/07/15/utah-jazz-fans-have-lot"
     },
     {
-      "text": "Jana Riess: Oh, now I get it. Purging the word \u2018Mormon\u2019 is a bid for the mainstream",
-      "url": "/religion/2022/07/14/jana-riess-oh-now-i-get-it"
+      "text": "Utah\u2019s Tony Finau birdies No. 18 to make the cut in The Open Championship",
+      "url": "/sports/2022/07/15/utahs-tony-finau-birdies-no-make"
     },
     {
-      "text": "PREMIUMDonovan Mitchell\u2019s future with the Utah Jazz: the latest trade rumors, reports and intel",
-      "url": "/sports/jazz/2022/07/14/donovan-mitchells-future-with"
+      "text": "Bagley Cartoon: Deplorable",
+      "url": "/opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
+    },
+    {
+      "text": "",
+      "url": "https://freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=sltrib.com&utm_content=sltrib-com_direct_375x125"
+    },
+    {
+      "text": "",
+      "url": "https://freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=sltrib.com&utm_content=sltrib_billboard_incontent_2"
     },
     {
       "text": "POLITICS",
       "url": "https://www.sltrib.com/news/politics"
     },
     {
+      "text": "Is Gov. Spencer Cox\u2019s pick to run the Natural Resources Department violating the Utah Constitution?",
+      "url": "/news/politics/2022/07/15/is-gov-spencer-coxs-pick-run"
+    },
+    {
       "text": "Salt Lake County Council incumbent falls in Republican primary",
-      "url": "/news/politics/2022/07/12/salt-lake-county-council"
+      "url": "/news/politics/2022/07/12/salt-lake-county-council/"
     },
     {
       "text": "Jen Plumb ousts Derek Kitchen with paper-thin margin in Democratic primary for Senate District 9",
       "url": "/news/politics/2022/07/12/jen-plumb-ousts-derek-kitchen/"
-    },
-    {
-      "text": "Former Overstock CEO Patrick Byrne reportedly set to meet with Jan. 6 investigators",
-      "url": "/news/politics/2022/07/12/former-overstock-ceo-patrick/"
     },
     {
       "text": "More Politics",
@@ -806,16 +910,16 @@
       "url": "https://www.sltrib.com/opinion/"
     },
     {
+      "text": "Bagley Cartoon: Deplorable",
+      "url": "/opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
+    },
+    {
+      "text": "Eric C. Ewert: This is not a drought. This is aridification.",
+      "url": "/opinion/commentary/2022/07/15/eric-c-ewert-this-is-not-drought/"
+    },
+    {
       "text": "Goud Maragani: Why it is good to question the election process and results",
-      "url": "/opinion/commentary/2022/07/14/goud-maragani-why-it-is-good"
-    },
-    {
-      "text": "Bagley Cartoon: Sports Ball",
-      "url": "/opinion/bagley/2022/07/14/bagley-cartoon-sports-ball/"
-    },
-    {
-      "text": "Liz Owens: How we can trust the truths we do not live in?",
-      "url": "/opinion/commentary/2022/07/14/liz-owens-how-we-can-trust/"
+      "url": "/opinion/commentary/2022/07/14/goud-maragani-why-it-is-good/"
     },
     {
       "text": "More Opinion",
@@ -832,6 +936,14 @@
     {
       "text": "Support local journalism. Donate today.",
       "url": "https://www.sltrib.com/donate/"
+    },
+    {
+      "text": "",
+      "url": "https://freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=sltrib.com&utm_content=sltrib_direct_banner"
+    },
+    {
+      "text": "",
+      "url": "https://freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=sltrib.com&utm_content=sltrib_billboard_incontent_3"
     },
     {
       "text": "Religion",
@@ -858,96 +970,40 @@
       "url": "https://www.sltrib.com/artsliving/"
     },
     {
+      "text": "Scott D. Pierce: Jen Shah will be in season 3 of \u2018Real Housewives of SLC,\u2019 but who will want to watch?",
+      "url": "/artsliving/tv/2022/07/15/scott-d-pierce-jen-shah-will-be"
+    },
+    {
+      "text": "Here\u2019s why the first Twilight Concert of 2022 has been canceled",
+      "url": "/artsliving/2022/07/14/heres-why-first-twilight-concert/"
+    },
+    {
       "text": "Read some works by Utah\u2019s new poet laureate",
-      "url": "/artsliving/2022/07/14/meet-utahs-new-poet-laureate"
-    },
-    {
-      "text": "SLC vintage shop owner says her business is suffering after moving to make way for luxury apartments",
-      "url": "/artsliving/2022/07/14/slc-vintage-shop-owner-says-her/"
-    },
-    {
-      "text": "Roman-style pizza, Hawaiian doughnuts, Egyptian falafel and more at Food Truck Face Off",
-      "url": "/artsliving/food/2022/07/13/roman-style-pizza-hawaiian/"
+      "url": "/artsliving/2022/07/14/meet-utahs-new-poet-laureate/"
     },
     {
       "text": "More Culture",
       "url": "https://www.sltrib.com/artsliving/"
     },
     {
+      "text": "",
+      "url": "https://freestar.com/?utm_campaign=branding&utm_medium=superflex&utm_source=sltrib.com&utm_content=sltrib_homepage_medrec_sidebar_btf"
+    },
+    {
       "text": "Bagley",
       "url": "/opinion/bagley"
     },
     {
-      "text": "'Bagley Cartoon: Sports Ball'",
-      "url": "/opinion/bagley/2022/07/14/bagley-cartoon-sports-ball"
+      "text": "'Bagley Cartoon: Deplorable'",
+      "url": "/opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Sports%20Ball&url=https://www.sltrib.com//opinion/bagley/2022/07/14/bagley-cartoon-sports-ball"
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Deplorable&url=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/14/bagley-cartoon-sports-ball"
-    },
-    {
-      "text": "'Bagley Cartoon: The Final Frontier'",
-      "url": "/opinion/bagley/2022/07/13/bagley-cartoon-final-frontier"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20The%20Final%20Frontier&url=https://www.sltrib.com//opinion/bagley/2022/07/13/bagley-cartoon-final-frontier"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/13/bagley-cartoon-final-frontier"
-    },
-    {
-      "text": "'Bagley Cartoon: Wind-up MAGA'",
-      "url": "/opinion/bagley/2022/07/12/bagley-cartoon-wind-up-maga"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Wind-up%20MAGA&url=https://www.sltrib.com//opinion/bagley/2022/07/12/bagley-cartoon-wind-up-maga"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/12/bagley-cartoon-wind-up-maga"
-    },
-    {
-      "text": "'Bagley Cartoon: Smoke Gets in Your Eyes'",
-      "url": "/opinion/bagley/2022/07/11/bagley-cartoon-smoke-gets-your"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Smoke%20Gets%20in%20Your%20Eyes&url=https://www.sltrib.com//opinion/bagley/2022/07/11/bagley-cartoon-smoke-gets-your"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/11/bagley-cartoon-smoke-gets-your"
-    },
-    {
-      "text": "'Bagley Cartoon: Bringing Subpoenas to a Gunfight'",
-      "url": "/opinion/bagley/2022/07/08/bagley-cartoon-bringing"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Bringing%20Subpoenas%20to%20a%20Gunfight&url=https://www.sltrib.com//opinion/bagley/2022/07/08/bagley-cartoon-bringing"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/08/bagley-cartoon-bringing"
-    },
-    {
-      "text": "'Bagley Cartoon: The March of Progress'",
-      "url": "/opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20The%20March%20of%20Progress&url=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "'Bagley Cartoon: Sports Ball'",
@@ -1010,16 +1066,16 @@
       "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/08/bagley-cartoon-bringing"
     },
     {
-      "text": "'Bagley Cartoon: The March of Progress'",
-      "url": "/opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "text": "'Bagley Cartoon: Deplorable'",
+      "url": "/opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20The%20March%20of%20Progress&url=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Deplorable&url=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "'Bagley Cartoon: Sports Ball'",
@@ -1082,16 +1138,16 @@
       "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/08/bagley-cartoon-bringing"
     },
     {
-      "text": "'Bagley Cartoon: The March of Progress'",
-      "url": "/opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "text": "'Bagley Cartoon: Deplorable'",
+      "url": "/opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20The%20March%20of%20Progress&url=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Deplorable&url=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "'Bagley Cartoon: Sports Ball'",
@@ -1154,16 +1210,16 @@
       "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/08/bagley-cartoon-bringing"
     },
     {
-      "text": "'Bagley Cartoon: The March of Progress'",
-      "url": "/opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "text": "'Bagley Cartoon: Deplorable'",
+      "url": "/opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20The%20March%20of%20Progress&url=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Deplorable&url=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "'Bagley Cartoon: Sports Ball'",
@@ -1226,16 +1282,16 @@
       "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/08/bagley-cartoon-bringing"
     },
     {
-      "text": "'Bagley Cartoon: The March of Progress'",
-      "url": "/opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "text": "'Bagley Cartoon: Deplorable'",
+      "url": "/opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20The%20March%20of%20Progress&url=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Deplorable&url=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "'Bagley Cartoon: Sports Ball'",
@@ -1298,16 +1354,16 @@
       "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/08/bagley-cartoon-bringing"
     },
     {
-      "text": "'Bagley Cartoon: The March of Progress'",
-      "url": "/opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "text": "'Bagley Cartoon: Deplorable'",
+      "url": "/opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20The%20March%20of%20Progress&url=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Deplorable&url=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "'Bagley Cartoon: Sports Ball'",
@@ -1370,16 +1426,112 @@
       "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/08/bagley-cartoon-bringing"
     },
     {
-      "text": "'Bagley Cartoon: The March of Progress'",
-      "url": "/opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "text": "'Bagley Cartoon: Deplorable'",
+      "url": "/opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20The%20March%20of%20Progress&url=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Deplorable&url=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
     },
     {
       "text": "",
-      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/07/bagley-cartoon-march-progress"
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/15/bagley-cartoon-deplorable"
+    },
+    {
+      "text": "'Bagley Cartoon: Sports Ball'",
+      "url": "/opinion/bagley/2022/07/14/bagley-cartoon-sports-ball"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Sports%20Ball&url=https://www.sltrib.com//opinion/bagley/2022/07/14/bagley-cartoon-sports-ball"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/14/bagley-cartoon-sports-ball"
+    },
+    {
+      "text": "'Bagley Cartoon: The Final Frontier'",
+      "url": "/opinion/bagley/2022/07/13/bagley-cartoon-final-frontier"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20The%20Final%20Frontier&url=https://www.sltrib.com//opinion/bagley/2022/07/13/bagley-cartoon-final-frontier"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/13/bagley-cartoon-final-frontier"
+    },
+    {
+      "text": "'Bagley Cartoon: Wind-up MAGA'",
+      "url": "/opinion/bagley/2022/07/12/bagley-cartoon-wind-up-maga"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Wind-up%20MAGA&url=https://www.sltrib.com//opinion/bagley/2022/07/12/bagley-cartoon-wind-up-maga"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/12/bagley-cartoon-wind-up-maga"
+    },
+    {
+      "text": "'Bagley Cartoon: Smoke Gets in Your Eyes'",
+      "url": "/opinion/bagley/2022/07/11/bagley-cartoon-smoke-gets-your"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Smoke%20Gets%20in%20Your%20Eyes&url=https://www.sltrib.com//opinion/bagley/2022/07/11/bagley-cartoon-smoke-gets-your"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/11/bagley-cartoon-smoke-gets-your"
+    },
+    {
+      "text": "'Bagley Cartoon: Bringing Subpoenas to a Gunfight'",
+      "url": "/opinion/bagley/2022/07/08/bagley-cartoon-bringing"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/share?text=Bagley%20Cartoon:%20Bringing%20Subpoenas%20to%20a%20Gunfight&url=https://www.sltrib.com//opinion/bagley/2022/07/08/bagley-cartoon-bringing"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/dialog/share?app_id=913431655408104&display=page&href=https://www.sltrib.com//opinion/bagley/2022/07/08/bagley-cartoon-bringing"
+    },
+    {
+      "text": "",
+      "url": "https://freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=sltrib.com&utm_content=sltrib_billboard_incontent_4"
+    },
+    {
+      "text": "\n                \n                    \n                        \n                            \n                                \n                            \n                            Read More\n                            \n                                \n                            \n                        \n                    \n                \n            ",
+      "url": "https://www.sltrib.com/news/politics/2022/07/15/gov-coxs-pick-head-up-utah/?traffic_source=Connatix"
+    },
+    {
+      "text": "\n                \n                    \n                        \n                            \n                                \n                            \n                            Read More\n                            \n                                \n                            \n                        \n                    \n                \n            ",
+      "url": "https://www.sltrib.com/news/2022/07/15/utah-wildfire-updates-jacob-city/?traffic_source=Connatix"
+    },
+    {
+      "text": "\n                \n                    \n                        \n                            \n                                \n                            \n                            Read More\n                            \n                                \n                            \n                        \n                    \n                \n            ",
+      "url": "https://www.sltrib.com/opinion/commentary/2022/07/15/eric-c-ewert-this-is-not-drought/?traffic_source=Connatix"
+    },
+    {
+      "text": "\n                \n                    \n                        \n                            \n                                \n                            \n                            Read More\n                            \n                                \n                            \n                        \n                    \n                \n            ",
+      "url": "https://www.sltrib.com/news/2022/07/14/nearly-half-salt-lake-renters/?traffic_source=Connatix"
+    },
+    {
+      "text": "\n                \n                    \n                        \n                            \n                                \n                            \n                            Read More\n                            \n                                \n                            \n                        \n                    \n                \n            ",
+      "url": "https://www.sltrib.com/news/2022/07/15/locals-say-vacation-rentals-are/?traffic_source=Connatix"
+    },
+    {
+      "text": "\n                \n                    \n                        \n                            \n                                \n                            \n                            Read More\n                            \n                                \n                            \n                        \n                    \n                \n            ",
+      "url": "https://www.sltrib.com/news/2022/07/15/police-search-utah-fugitive/?traffic_source=Connatix"
+    },
+    {
+      "text": "Gov. Cox\u2019s pick to head up the Utah Department ofNatural Resources has been on the job since early July, even though he hasn\u2019t been officially nominated yet\n            \n        ",
+      "url": "https://www.sltrib.com/news/politics/2022/07/15/gov-coxs-pick-head-up-utah/?traffic_source=Connatix"
+    },
+    {
+      "text": "GO TO PAGE",
+      "url": "#"
     },
     {
       "text": "\u00a0Facebook",
@@ -1610,6 +1762,10 @@
       "url": "/"
     },
     {
+      "text": "",
+      "url": "https://freestar.com/?utm_campaign=branding&utm_medium=banner&utm_source=sltrib.com&utm_content=sltrib_adhesion"
+    },
+    {
       "text": "search by queryly ",
       "url": "https://www.queryly.com/"
     },
@@ -1618,9 +1774,9 @@
       "url": "#"
     }
   ],
-  "uniq": 243845774,
+  "uniq": 1302439503,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

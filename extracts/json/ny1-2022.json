@@ -1,5 +1,5 @@
 {
-  "created": 1657855958,
+  "created": 1657973620,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/14/items/ny1-2022",
@@ -1056,31 +1056,157 @@
       "sha1": "b86a8d273feac899555552ffaedbb6bf8f3f90f2"
     },
     {
+      "name": "ny1-2022-07-15T11:05:52.768422-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657897557",
+      "size": "28221",
+      "md5": "1b31ed22a4224b9dfba03047f409f126",
+      "crc32": "51d00359",
+      "sha1": "beb5570658af24a0041c94a49e786d0b34212dce",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-15T11:05:52.768422-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657897558",
+      "size": "49432",
+      "md5": "6e398da207b78c39cacceb7614b80862",
+      "crc32": "84c62a43",
+      "sha1": "c179e7a790e1ce2a9e3ba42daaf045015a6a6efc",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-15T11:05:52.768422-04:00.jpg",
+      "source": "original",
+      "mtime": "1657897555",
+      "size": "309399",
+      "md5": "0de1a798edd33ea5eef218539f62919d",
+      "crc32": "3e51cd88",
+      "sha1": "43cc5740bee4d0c507d7f371a33dd5893251f653",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ny1-2022-07-15T11:05:52.768422-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ny1-2022-07-15T11:05:52.768422-04:00.jpg",
+      "mtime": "1657901074",
+      "size": "9790",
+      "md5": "fd57da7cc46db698dcb4f8b69c3d9641",
+      "crc32": "4a914fe3",
+      "sha1": "f3da2d429d9e925cb535ce2ab0ae886bc80986fd"
+    },
+    {
+      "name": "ny1-2022-07-15T12:04:14.017266-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901057",
+      "size": "28033",
+      "md5": "94aff54bac18aa0e3de2003a96506cd7",
+      "crc32": "04053d5b",
+      "sha1": "1cbe11e8d5e8fa12d5c83efa56ec359741672b63",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-15T12:04:14.017266-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901059",
+      "size": "49333",
+      "md5": "0274ed20127c56ab43ba2ab0954a2b01",
+      "crc32": "75ac3774",
+      "sha1": "f3d9363f415595f5dacba002dc86a4a1c14784c2",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-15T12:04:14.017266-04:00.jpg",
+      "source": "original",
+      "mtime": "1657901055",
+      "size": "311117",
+      "md5": "be3a4a8a208a9efa7ff1a2ede44a1143",
+      "crc32": "1aac9b59",
+      "sha1": "4970f71f7bfe9e5d815862a402f306c087d4c784",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ny1-2022-07-15T12:04:14.017266-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ny1-2022-07-15T12:04:14.017266-04:00.jpg",
+      "mtime": "1657907094",
+      "size": "9822",
+      "md5": "2601357094124cfa811e4745b4e1e2e3",
+      "crc32": "392cb113",
+      "sha1": "a841ee366aeb61cbb0458d5949d1f7d5879e4ce3"
+    },
+    {
+      "name": "ny1-2022-07-15T23:17:56.556179-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657941479",
+      "size": "27751",
+      "md5": "3a9ee48f775e33c9901ff1780c8e6832",
+      "crc32": "70f587fc",
+      "sha1": "c91538abd1f9bcac3f354e27c79ed2e2bd6147a6",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-15T23:17:56.556179-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657941481",
+      "size": "49668",
+      "md5": "3644af018d5127bebf3807c8cc9f3174",
+      "crc32": "58ede98b",
+      "sha1": "293a574a7468d394022c5f1010507321a3dcbe12",
+      "format": "JSON"
+    },
+    {
+      "name": "ny1-2022-07-15T23:17:56.556179-04:00.jpg",
+      "source": "original",
+      "mtime": "1657941478",
+      "size": "308750",
+      "md5": "a30eb58b0a27430d0ead956908a6be51",
+      "crc32": "3d74dd84",
+      "sha1": "e84c65531454c05007284c9f49a640e035240ba4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ny1-2022-07-15T23:17:56.556179-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ny1-2022-07-15T23:17:56.556179-04:00.jpg",
+      "mtime": "1657942834",
+      "size": "9902",
+      "md5": "47ee70114ad13cdda17dfd4b935033f1",
+      "crc32": "534a08e6",
+      "sha1": "35f2983a68a1264485f3beaacfb5f0e23787d396"
+    },
+    {
       "name": "ny1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d606978f6fd9b7228d7f686c28eee8ed2fe760f0",
-      "mtime": "1657855904",
-      "size": "21991",
-      "md5": "5314e63d481d36d562cf1696c4c6160a",
-      "crc32": "ad5b8f36",
-      "sha1": "caba5783b0959e6e038c66842d9c2f2ace3c32b9",
+      "btih": "79ff469528c75b7bf12bfaba10df19304fee1c88",
+      "mtime": "1657942852",
+      "size": "24458",
+      "md5": "670385b4f73f8bcbd26f2e7cd23b8052",
+      "crc32": "17313ea0",
+      "sha1": "b59a5e19c272e78ba1bcf60705d8c21ad4c41d59",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ny1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bc91539142d1d3a0b65b3695875a7e63",
+      "md5": "c14cc10c17ad7c8a3d099c1d0bab152e",
       "summation": "md5"
     },
     {
       "name": "ny1-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657855800",
-      "size": "139264",
-      "md5": "c3296970dbc6c046e4e00ea01e5c1777",
-      "crc32": "4ca3e0bc",
-      "sha1": "790847fe59177490266345015f20f87690d8bb62",
+      "mtime": "1657941484",
+      "size": "151552",
+      "md5": "9f4dcaf23d4e84c0fc43b6fc39bb679d",
+      "crc32": "7c454174",
+      "sha1": "006ce382e501aa45ce55e5a9358598559b15172c",
       "format": "Metadata"
     },
     {
@@ -1094,9 +1220,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 104,
-  "item_last_updated": 1657855904,
-  "item_size": 10120907,
+  "files_count": 116,
+  "item_last_updated": 1657942852,
+  "item_size": 11326880,
   "metadata": {
     "identifier": "ny1-2022",
     "collection": [
@@ -1113,10 +1239,1496 @@
     "publicdate": "2022-07-04 21:49:52",
     "addeddate": "2022-07-04 21:49:52"
   },
-  "server": "ia601503.us.archive.org",
-  "uniq": 8332774,
+  "ny1-2022": [
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/weather"
+    },
+    {
+      "text": "74\u00b0",
+      "url": "/nyc/all-boroughs/weather"
+    },
+    {
+      "text": "All Boroughs",
+      "url": "//spectrumlocalnews.com/splash.html#nyc"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/weather"
+    },
+    {
+      "text": "74\u00b0",
+      "url": "/nyc/all-boroughs/weather"
+    },
+    {
+      "text": "New York City, NY",
+      "url": "/nyc/all-boroughs/weather"
+    },
+    {
+      "text": "EDIT",
+      "url": "javascript:void(0)"
+    },
+    {
+      "text": "",
+      "url": "http://twitter.com/ny1"
+    },
+    {
+      "text": "",
+      "url": "http://instagram.com/ny1"
+    },
+    {
+      "text": "",
+      "url": "http://facebook.com/ny1news"
+    },
+    {
+      "text": "Log In",
+      "url": "/nyc/all-boroughs/live-video/login"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/nyc/all-boroughs/live-video/watch_spectrum_news_live"
+    },
+    {
+      "text": "\n            Latest News\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            Headlines\n        ",
+      "url": "/nyc/all-boroughs/news"
+    },
+    {
+      "text": "\n            Coronavirus Coverage\n        ",
+      "url": "/nyc/all-boroughs/news/health-and-medicine/coronavirus-blog"
+    },
+    {
+      "text": "\n            Public Safety\n        ",
+      "url": "/nyc/all-boroughs/news/public-safety"
+    },
+    {
+      "text": "\n            Education\n        ",
+      "url": "/nyc/all-boroughs/news/education"
+    },
+    {
+      "text": "\n            Health\n        ",
+      "url": "/nyc/all-boroughs/news/health-and-medicine"
+    },
+    {
+      "text": "\n            In The Papers\n        ",
+      "url": "/nyc/all-boroughs/shows/in-the-papers"
+    },
+    {
+      "text": "\n            Mornings on 1\n        ",
+      "url": "/nyc/all-boroughs/shows/mornings-on-1"
+    },
+    {
+      "text": "\n            News All Day\n        ",
+      "url": "/nyc/all-boroughs/shows/news-all-day"
+    },
+    {
+      "text": "\n            In Focus with Cheryl Wills\n        ",
+      "url": "/section/in-focus/regions/nyc"
+    },
+    {
+      "text": "\n            NY1 Live at Ten\n        ",
+      "url": "/nyc/all-boroughs/shows/live-at-ten"
+    },
+    {
+      "text": "\n            Crosstown with Pat Kiernan\n        ",
+      "url": "/nyc/all-boroughs/news/crosstown-with-pat-kiernan"
+    },
+    {
+      "text": "\n            Exploring Your Health\n        ",
+      "url": "/nyc/all-boroughs/news/health-and-medicine/exploring-your-health"
+    },
+    {
+      "text": "\n            Pride Month\n        ",
+      "url": "/nyc/all-boroughs/news/pride-month-2022"
+    },
+    {
+      "text": "\n            Weather\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            NYC Weather\n        ",
+      "url": "/nyc/all-boroughs/weather"
+    },
+    {
+      "text": "\n            7 Day Forecast\n        ",
+      "url": "/nyc/all-boroughs/weather/7-day-forecast"
+    },
+    {
+      "text": "\n            Interactive Radar\n        ",
+      "url": "/nyc/all-boroughs/weather/interactive-radar"
+    },
+    {
+      "text": "\n            Watches and Warnings\n        ",
+      "url": "/nyc/all-boroughs/weather/watches-warnings"
+    },
+    {
+      "text": "\n            Weather Blog\n        ",
+      "url": "/nyc/all-boroughs/weather/weather-blogs"
+    },
+    {
+      "text": "\n            Transit\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            Transit News\n        ",
+      "url": "/nyc/all-boroughs/news/transit"
+    },
+    {
+      "text": "\n            Interactive Traffic Map\n        ",
+      "url": "/nyc/all-boroughs/weather/traffic-map"
+    },
+    {
+      "text": "\n            Politics\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            NYC Election Results\n        ",
+      "url": "/nyc/all-boroughs/politics/election-results"
+    },
+    {
+      "text": "\n            New York Politics\n        ",
+      "url": "/nyc/all-boroughs/politics"
+    },
+    {
+      "text": "\n            Inside City Hall\n        ",
+      "url": "/nyc/all-boroughs/politics/inside-city-hall"
+    },
+    {
+      "text": "\n            NY1 Political Buzz\n        ",
+      "url": "/nyc/all-boroughs/politics/ny1-political-buzz"
+    },
+    {
+      "text": "\n            Washington DC Bureau\n        ",
+      "url": "/nyc/all-boroughs/politics/Washington-DC-bureau"
+    },
+    {
+      "text": "\n            NY State of Politics Blog\n        ",
+      "url": "http://www.nystateofpolitics.com"
+    },
+    {
+      "text": "\n            New York State Government\n        ",
+      "url": "/nyc/all-boroughs/politics/state-government"
+    },
+    {
+      "text": "\n            Untangled with Josh Robin\n        ",
+      "url": "/nyc/all-boroughs/untangled"
+    },
+    {
+      "text": "\n            Arts+Culture\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            Arts\n        ",
+      "url": "/nyc/all-boroughs/lifestyles/arts"
+    },
+    {
+      "text": "\n            Style\n        ",
+      "url": "/nyc/all-boroughs/lifestyles/fashion"
+    },
+    {
+      "text": "\n            Theater Reviews\n        ",
+      "url": "/nyc/all-boroughs/lifestyles/theater-reviews"
+    },
+    {
+      "text": "\n            On Stage\n        ",
+      "url": "/nyc/all-boroughs/shows/on-stage"
+    },
+    {
+      "text": "\n            Community+Neighborhoods\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            Manhattan\n        ",
+      "url": "/nyc/manhattan"
+    },
+    {
+      "text": "\n            Brooklyn\n        ",
+      "url": "/nyc/brooklyn"
+    },
+    {
+      "text": "\n            The Bronx\n        ",
+      "url": "/nyc/bronx"
+    },
+    {
+      "text": "\n            Queens\n        ",
+      "url": "/nyc/queens"
+    },
+    {
+      "text": "\n            Staten Island\n        ",
+      "url": "/nyc/staten-island"
+    },
+    {
+      "text": "\n            Human Interest\n        ",
+      "url": "/nyc/all-boroughs/news/human-interest"
+    },
+    {
+      "text": "\n            Street Level\n        ",
+      "url": "/nyc/all-boroughs/news/street-level"
+    },
+    {
+      "text": "\n            Boro by Boro\n        ",
+      "url": "/nyc/all-boroughs/email-signup"
+    },
+    {
+      "text": "\n            Community Calendar\n        ",
+      "url": "/nyc/all-boroughs/calendar"
+    },
+    {
+      "text": "\n            New Yorker of the Week\n        ",
+      "url": "/nyc/all-boroughs/news/new-yorker-of-the-week"
+    },
+    {
+      "text": "\n            Scholar Athlete\n        ",
+      "url": "/nyc/all-boroughs/news/scholar-athlete"
+    },
+    {
+      "text": "\n            Podcasts\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            All Podcasts\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/ny1-podcasts?cq_ck=1627933807404"
+    },
+    {
+      "text": "\n            Crosstown with Pat Kiernan\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/news/crosstown-with-pat-kiernan"
+    },
+    {
+      "text": "\n            Off Topic/On Politics\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/politics/off-topic-on-politics"
+    },
+    {
+      "text": "\n            Talking Feds\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/Talking-Feds-Podcast"
+    },
+    {
+      "text": "\n            What Could Be\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs//What-Could-Be-Podcast"
+    },
+    {
+      "text": "\n            You Decide with Errol Louis\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/politics/you-decide-with-errol-louis"
+    },
+    {
+      "text": "\n            Inmigracion con Noticias\n        ",
+      "url": "https://www.ny1noticias.com/nyc/noticias/programas/inmigracion-podcast"
+    },
+    {
+      "text": "\n            Our Journalists\n        ",
+      "url": "/nyc/all-boroughs/about-us/staff-profiles"
+    },
+    {
+      "text": "\n            Latest News\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            Headlines\n        ",
+      "url": "/nyc/all-boroughs/news"
+    },
+    {
+      "text": "\n            Coronavirus Coverage\n        ",
+      "url": "/nyc/all-boroughs/news/health-and-medicine/coronavirus-blog"
+    },
+    {
+      "text": "\n            Public Safety\n        ",
+      "url": "/nyc/all-boroughs/news/public-safety"
+    },
+    {
+      "text": "\n            Education\n        ",
+      "url": "/nyc/all-boroughs/news/education"
+    },
+    {
+      "text": "\n            Health\n        ",
+      "url": "/nyc/all-boroughs/news/health-and-medicine"
+    },
+    {
+      "text": "\n            In The Papers\n        ",
+      "url": "/nyc/all-boroughs/shows/in-the-papers"
+    },
+    {
+      "text": "\n            Mornings on 1\n        ",
+      "url": "/nyc/all-boroughs/shows/mornings-on-1"
+    },
+    {
+      "text": "\n            News All Day\n        ",
+      "url": "/nyc/all-boroughs/shows/news-all-day"
+    },
+    {
+      "text": "\n            In Focus with Cheryl Wills\n        ",
+      "url": "/section/in-focus/regions/nyc"
+    },
+    {
+      "text": "\n            NY1 Live at Ten\n        ",
+      "url": "/nyc/all-boroughs/shows/live-at-ten"
+    },
+    {
+      "text": "\n            Crosstown with Pat Kiernan\n        ",
+      "url": "/nyc/all-boroughs/news/crosstown-with-pat-kiernan"
+    },
+    {
+      "text": "\n            Exploring Your Health\n        ",
+      "url": "/nyc/all-boroughs/news/health-and-medicine/exploring-your-health"
+    },
+    {
+      "text": "\n            Pride Month\n        ",
+      "url": "/nyc/all-boroughs/news/pride-month-2022"
+    },
+    {
+      "text": "\n            Weather\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            NYC Weather\n        ",
+      "url": "/nyc/all-boroughs/weather"
+    },
+    {
+      "text": "\n            7 Day Forecast\n        ",
+      "url": "/nyc/all-boroughs/weather/7-day-forecast"
+    },
+    {
+      "text": "\n            Interactive Radar\n        ",
+      "url": "/nyc/all-boroughs/weather/interactive-radar"
+    },
+    {
+      "text": "\n            Watches and Warnings\n        ",
+      "url": "/nyc/all-boroughs/weather/watches-warnings"
+    },
+    {
+      "text": "\n            Weather Blog\n        ",
+      "url": "/nyc/all-boroughs/weather/weather-blogs"
+    },
+    {
+      "text": "\n            Transit\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            Transit News\n        ",
+      "url": "/nyc/all-boroughs/news/transit"
+    },
+    {
+      "text": "\n            Interactive Traffic Map\n        ",
+      "url": "/nyc/all-boroughs/weather/traffic-map"
+    },
+    {
+      "text": "\n            Politics\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            NYC Election Results\n        ",
+      "url": "/nyc/all-boroughs/politics/election-results"
+    },
+    {
+      "text": "\n            New York Politics\n        ",
+      "url": "/nyc/all-boroughs/politics"
+    },
+    {
+      "text": "\n            Inside City Hall\n        ",
+      "url": "/nyc/all-boroughs/politics/inside-city-hall"
+    },
+    {
+      "text": "\n            NY1 Political Buzz\n        ",
+      "url": "/nyc/all-boroughs/politics/ny1-political-buzz"
+    },
+    {
+      "text": "\n            Washington DC Bureau\n        ",
+      "url": "/nyc/all-boroughs/politics/Washington-DC-bureau"
+    },
+    {
+      "text": "\n            NY State of Politics Blog\n        ",
+      "url": "http://www.nystateofpolitics.com"
+    },
+    {
+      "text": "\n            New York State Government\n        ",
+      "url": "/nyc/all-boroughs/politics/state-government"
+    },
+    {
+      "text": "\n            Untangled with Josh Robin\n        ",
+      "url": "/nyc/all-boroughs/untangled"
+    },
+    {
+      "text": "\n            Arts+Culture\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            Arts\n        ",
+      "url": "/nyc/all-boroughs/lifestyles/arts"
+    },
+    {
+      "text": "\n            Style\n        ",
+      "url": "/nyc/all-boroughs/lifestyles/fashion"
+    },
+    {
+      "text": "\n            Theater Reviews\n        ",
+      "url": "/nyc/all-boroughs/lifestyles/theater-reviews"
+    },
+    {
+      "text": "\n            On Stage\n        ",
+      "url": "/nyc/all-boroughs/shows/on-stage"
+    },
+    {
+      "text": "\n            Community+Neighborhoods\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            Manhattan\n        ",
+      "url": "/nyc/manhattan"
+    },
+    {
+      "text": "\n            Brooklyn\n        ",
+      "url": "/nyc/brooklyn"
+    },
+    {
+      "text": "\n            The Bronx\n        ",
+      "url": "/nyc/bronx"
+    },
+    {
+      "text": "\n            Queens\n        ",
+      "url": "/nyc/queens"
+    },
+    {
+      "text": "\n            Staten Island\n        ",
+      "url": "/nyc/staten-island"
+    },
+    {
+      "text": "\n            Human Interest\n        ",
+      "url": "/nyc/all-boroughs/news/human-interest"
+    },
+    {
+      "text": "\n            Street Level\n        ",
+      "url": "/nyc/all-boroughs/news/street-level"
+    },
+    {
+      "text": "\n            Boro by Boro\n        ",
+      "url": "/nyc/all-boroughs/email-signup"
+    },
+    {
+      "text": "\n            Community Calendar\n        ",
+      "url": "/nyc/all-boroughs/calendar"
+    },
+    {
+      "text": "\n            New Yorker of the Week\n        ",
+      "url": "/nyc/all-boroughs/news/new-yorker-of-the-week"
+    },
+    {
+      "text": "\n            Scholar Athlete\n        ",
+      "url": "/nyc/all-boroughs/news/scholar-athlete"
+    },
+    {
+      "text": "\n            Podcasts\n        ",
+      "url": "#"
+    },
+    {
+      "text": "\n            All Podcasts\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/ny1-podcasts?cq_ck=1627933807404"
+    },
+    {
+      "text": "\n            Crosstown with Pat Kiernan\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/news/crosstown-with-pat-kiernan"
+    },
+    {
+      "text": "\n            Off Topic/On Politics\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/politics/off-topic-on-politics"
+    },
+    {
+      "text": "\n            Talking Feds\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/Talking-Feds-Podcast"
+    },
+    {
+      "text": "\n            What Could Be\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs//What-Could-Be-Podcast"
+    },
+    {
+      "text": "\n            You Decide with Errol Louis\n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/politics/you-decide-with-errol-louis"
+    },
+    {
+      "text": "\n            Inmigracion con Noticias\n        ",
+      "url": "https://www.ny1noticias.com/nyc/noticias/programas/inmigracion-podcast"
+    },
+    {
+      "text": "\n            Our Journalists\n        ",
+      "url": "/nyc/all-boroughs/about-us/staff-profiles"
+    },
+    {
+      "text": "\n            \n                LIVE UPDATESHow Coronavirus is Impacting New York\n            \n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/news/health-and-medicine/coronavirus-blog"
+    },
+    {
+      "text": "\n            \n                GET OUR APPOur Spectrum News app is the most convenient way to get the stories that matter to you. Download it here.\n            \n        ",
+      "url": "https://spectrumlocalnews.com/app?cid=id-app14_m-display_s-web_cmp-app_launch_august2020_k-alert_bar_po-organic&ko_click_id=ko_ofvyfibzzt0xd3msr"
+    },
+    {
+      "text": "\n            \n                Vaccine FAQHow to Get the COVID-19 Vaccine in NYC\n            \n        ",
+      "url": "http://specne.ws/uvAYHP"
+    },
+    {
+      "text": "\n            \n                Off Topic PodcastTwo Democratic candidates for governor debate\n            \n        ",
+      "url": "https://www.ny1.com/nyc/all-boroughs/off-topic-on-politics/2022/06/03/suozzi-and-williams-face-off-on-ny1s-televised-democratic-gubernatorial-debate-notably-absent-kathy-hochul"
+    },
+    {
+      "text": "\n            \n                WEATHER ALERTView full list of weather alerts\n            \n        ",
+      "url": "/nyc/all-boroughs/weather/watches-warnings"
+    },
+    {
+      "text": "\n            \n                CLOSINGS ALERTView full list of closures\n            \n        ",
+      "url": "/nyc/all-boroughs/weather/closings"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/nyc/all-boroughs/live-video/watch_spectrum_news_live"
+    },
+    {
+      "text": "",
+      "url": "http://twitter.com/ny1"
+    },
+    {
+      "text": "",
+      "url": "http://instagram.com/ny1"
+    },
+    {
+      "text": "",
+      "url": "http://facebook.com/ny1news"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/news/2022/07/16/new-york-dems--infuriated--as-manchin-nixes-climate-spending"
+    },
+    {
+      "text": "2:01",
+      "url": "/nyc/all-boroughs/news/2022/07/16/new-york-dems--infuriated--as-manchin-nixes-climate-spending"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/news/2022/07/16/new-york-dems--infuriated--as-manchin-nixes-climate-spending"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/news/2022/07/16/new-york-dems--infuriated--as-manchin-nixes-climate-spending"
+    },
+    {
+      "text": "New York Dems 'infuriated' as Manchin nixes climate spending",
+      "url": "/nyc/all-boroughs/news/2022/07/16/new-york-dems--infuriated--as-manchin-nixes-climate-spending"
+    },
+    {
+      "text": "NEWS ALL DAY",
+      "url": "/nyc/all-boroughs/education/2022/07/15/preventing-the--summer-slip---prepping-kids-for-school-years"
+    },
+    {
+      "text": "4:03",
+      "url": "/nyc/all-boroughs/education/2022/07/15/preventing-the--summer-slip---prepping-kids-for-school-years"
+    },
+    {
+      "text": "NEWS ALL DAY",
+      "url": "/nyc/all-boroughs/education/2022/07/15/preventing-the--summer-slip---prepping-kids-for-school-years"
+    },
+    {
+      "text": "NEWS ALL DAY",
+      "url": "/nyc/all-boroughs/education/2022/07/15/preventing-the--summer-slip---prepping-kids-for-school-years"
+    },
+    {
+      "text": "Preventing the \"Summer Slip\": Prepping kids for school years",
+      "url": "/nyc/all-boroughs/education/2022/07/15/preventing-the--summer-slip---prepping-kids-for-school-years"
+    },
+    {
+      "text": "MORNINGS ON 1",
+      "url": "/nyc/all-boroughs/mornings-on-1/2022/07/15/pat-kiernan-interviews-nyc-transit-head-richard-davey"
+    },
+    {
+      "text": "6:33",
+      "url": "/nyc/all-boroughs/mornings-on-1/2022/07/15/pat-kiernan-interviews-nyc-transit-head-richard-davey"
+    },
+    {
+      "text": "MORNINGS ON 1",
+      "url": "/nyc/all-boroughs/mornings-on-1/2022/07/15/pat-kiernan-interviews-nyc-transit-head-richard-davey"
+    },
+    {
+      "text": "MORNINGS ON 1",
+      "url": "/nyc/all-boroughs/mornings-on-1/2022/07/15/pat-kiernan-interviews-nyc-transit-head-richard-davey"
+    },
+    {
+      "text": "The state of transit: One-on-one with NYC Transit President Richard Davey",
+      "url": "/nyc/all-boroughs/mornings-on-1/2022/07/15/pat-kiernan-interviews-nyc-transit-head-richard-davey"
+    },
+    {
+      "text": "PODCAST",
+      "url": "/nyc/all-boroughs/off-topic-on-politics/2022/07/14/monkeypox-and-covid-19-on-the-rise-in-the-five-boroughs"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/off-topic-on-politics/2022/07/14/monkeypox-and-covid-19-on-the-rise-in-the-five-boroughs"
+    },
+    {
+      "text": "PODCAST",
+      "url": "/nyc/all-boroughs/off-topic-on-politics/2022/07/14/monkeypox-and-covid-19-on-the-rise-in-the-five-boroughs"
+    },
+    {
+      "text": "PODCAST",
+      "url": "/nyc/all-boroughs/off-topic-on-politics/2022/07/14/monkeypox-and-covid-19-on-the-rise-in-the-five-boroughs"
+    },
+    {
+      "text": "Monkeypox and COVID-19 on the rise in the five boroughs",
+      "url": "/nyc/all-boroughs/off-topic-on-politics/2022/07/14/monkeypox-and-covid-19-on-the-rise-in-the-five-boroughs"
+    },
+    {
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/news/2022/07/08/what-you-need-to-know-about-the-monkeypox-outbreak"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/news/2022/07/08/what-you-need-to-know-about-the-monkeypox-outbreak"
+    },
+    {
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/news/2022/07/08/what-you-need-to-know-about-the-monkeypox-outbreak"
+    },
+    {
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/news/2022/07/08/what-you-need-to-know-about-the-monkeypox-outbreak"
+    },
+    {
+      "text": "What you need to know about the monkeypox outbreak",
+      "url": "/nyc/all-boroughs/news/2022/07/08/what-you-need-to-know-about-the-monkeypox-outbreak"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "/nyc/all-boroughs/news/special-reports/city-of-parks"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "https://www.spectrum.com/mobile/calculator?cmp=specnews_smo_052422&p1=855-217-9454"
+    },
+    {
+      "text": "\n            \n        ",
+      "url": "https://spectrumnews.smart.link/q0jwu5sd3?cid=id-app527_m-digital_s-web_cmp-2022-cm-organic-app-promo_c-livestream_mkt-nyc_po-organic"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/albert-vann--a-towering-figure-in-brooklyn-politics--dies-at-87"
+    },
+    {
+      "text": "2:02",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/albert-vann--a-towering-figure-in-brooklyn-politics--dies-at-87"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/albert-vann--a-towering-figure-in-brooklyn-politics--dies-at-87"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/albert-vann--a-towering-figure-in-brooklyn-politics--dies-at-87"
+    },
+    {
+      "text": "Albert Vann, a towering figure in Brooklyn politics, dies at 87",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/albert-vann--a-towering-figure-in-brooklyn-politics--dies-at-87"
+    },
+    {
+      "text": "INSIDE CITY HALL",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/15/districting-commission-member-talks-proposed-city-council-maps"
+    },
+    {
+      "text": "9:29",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/15/districting-commission-member-talks-proposed-city-council-maps"
+    },
+    {
+      "text": "INSIDE CITY HALL",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/15/districting-commission-member-talks-proposed-city-council-maps"
+    },
+    {
+      "text": "INSIDE CITY HALL",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/15/districting-commission-member-talks-proposed-city-council-maps"
+    },
+    {
+      "text": "Districting Commission member talks proposed City Council maps",
+      "url": "/nyc/all-boroughs/inside-city-hall/2022/07/15/districting-commission-member-talks-proposed-city-council-maps"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/new-council-districts-unveiled-by-districting-commission"
+    },
+    {
+      "text": "2:25",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/new-council-districts-unveiled-by-districting-commission"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/new-council-districts-unveiled-by-districting-commission"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/new-council-districts-unveiled-by-districting-commission"
+    },
+    {
+      "text": "New council districts unveiled by districting commission",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/new-council-districts-unveiled-by-districting-commission"
+    },
+    {
+      "text": "NEWS",
+      "url": "/nyc/all-boroughs/news/2022/07/14/ivana-trump-dies-former-president"
+    },
+    {
+      "text": "2:21",
+      "url": "/nyc/all-boroughs/news/2022/07/14/ivana-trump-dies-former-president"
+    },
+    {
+      "text": "NEWS",
+      "url": "/nyc/all-boroughs/news/2022/07/14/ivana-trump-dies-former-president"
+    },
+    {
+      "text": "NEWS",
+      "url": "/nyc/all-boroughs/news/2022/07/14/ivana-trump-dies-former-president"
+    },
+    {
+      "text": "Ivana Trump's cause of death revealed by medical examiner",
+      "url": "/nyc/all-boroughs/news/2022/07/14/ivana-trump-dies-former-president"
+    },
+    {
+      "text": "CAPITAL TONIGHT",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/15/will-overturning-roe-send-voters-to-the-polls-in-new-york-"
+    },
+    {
+      "text": "12:32",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/15/will-overturning-roe-send-voters-to-the-polls-in-new-york-"
+    },
+    {
+      "text": "CAPITAL TONIGHT",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/15/will-overturning-roe-send-voters-to-the-polls-in-new-york-"
+    },
+    {
+      "text": "CAPITAL TONIGHT",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/15/will-overturning-roe-send-voters-to-the-polls-in-new-york-"
+    },
+    {
+      "text": "Will overturning Roe send voters to the polls in New York?",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/15/will-overturning-roe-send-voters-to-the-polls-in-new-york-"
+    },
+    {
+      "text": "\n            Juan Manuel Ben\u00edtez  \n        ",
+      "url": "/nyc/all-boroughs/on-air/2020/02/03/juan-manuel-benitez"
+    },
+    {
+      "text": "\n             Juan Manuel joined NY1 in 2003 as a member of the reporting team launching our Spanish-language sister station NY1 Noticias.\n        ",
+      "url": "/nyc/all-boroughs/on-air/2020/02/03/juan-manuel-benitez"
+    },
+    {
+      "text": "THE BRONX",
+      "url": "/nyc/all-boroughs/news/2022/07/15/15-new-illegal-dumping-cameras-to-be-installed-across-south-bronx"
+    },
+    {
+      "text": "2:22",
+      "url": "/nyc/all-boroughs/news/2022/07/15/15-new-illegal-dumping-cameras-to-be-installed-across-south-bronx"
+    },
+    {
+      "text": "THE BRONX",
+      "url": "/nyc/all-boroughs/news/2022/07/15/15-new-illegal-dumping-cameras-to-be-installed-across-south-bronx"
+    },
+    {
+      "text": "THE BRONX",
+      "url": "/nyc/all-boroughs/news/2022/07/15/15-new-illegal-dumping-cameras-to-be-installed-across-south-bronx"
+    },
+    {
+      "text": "15 new illegal dumping cameras to be installed in South Bronx",
+      "url": "/nyc/all-boroughs/news/2022/07/15/15-new-illegal-dumping-cameras-to-be-installed-across-south-bronx"
+    },
+    {
+      "text": "BROOKLYN",
+      "url": "/nyc/all-boroughs/news/2022/07/15/man-exonerated-in-malcolm-x-killing-sues-nyc-for--40-million"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/news/2022/07/15/man-exonerated-in-malcolm-x-killing-sues-nyc-for--40-million"
+    },
+    {
+      "text": "BROOKLYN",
+      "url": "/nyc/all-boroughs/news/2022/07/15/man-exonerated-in-malcolm-x-killing-sues-nyc-for--40-million"
+    },
+    {
+      "text": "BROOKLYN",
+      "url": "/nyc/all-boroughs/news/2022/07/15/man-exonerated-in-malcolm-x-killing-sues-nyc-for--40-million"
+    },
+    {
+      "text": "Man exonerated in Malcolm X killing sues NYC for $40 million",
+      "url": "/nyc/all-boroughs/news/2022/07/15/man-exonerated-in-malcolm-x-killing-sues-nyc-for--40-million"
+    },
+    {
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/news/2022/07/15/three-digit-hotline-for-mental-health-crises-launching"
+    },
+    {
+      "text": "1:45",
+      "url": "/nyc/all-boroughs/news/2022/07/15/three-digit-hotline-for-mental-health-crises-launching"
+    },
+    {
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/news/2022/07/15/three-digit-hotline-for-mental-health-crises-launching"
+    },
+    {
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/news/2022/07/15/three-digit-hotline-for-mental-health-crises-launching"
+    },
+    {
+      "text": "Dial 9-8-8: Three-digit hotline for mental health crises launches Saturday",
+      "url": "/nyc/all-boroughs/news/2022/07/15/three-digit-hotline-for-mental-health-crises-launching"
+    },
+    {
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/news/2022/07/14/nyc-monkeypox-vaccine-appointments"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/news/2022/07/14/nyc-monkeypox-vaccine-appointments"
+    },
+    {
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/news/2022/07/14/nyc-monkeypox-vaccine-appointments"
+    },
+    {
+      "text": "HEALTH",
+      "url": "/nyc/all-boroughs/news/2022/07/14/nyc-monkeypox-vaccine-appointments"
+    },
+    {
+      "text": "NYC to open up 9,200 monkeypox vaccine appointments Friday",
+      "url": "/nyc/all-boroughs/news/2022/07/14/nyc-monkeypox-vaccine-appointments"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/15/watching-out-for-bicyclists--pedestrians-will-be-part-of-driver-s-ed-"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/15/watching-out-for-bicyclists--pedestrians-will-be-part-of-driver-s-ed-"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/15/watching-out-for-bicyclists--pedestrians-will-be-part-of-driver-s-ed-"
+    },
+    {
+      "text": "STATE OF POLITICS",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/15/watching-out-for-bicyclists--pedestrians-will-be-part-of-driver-s-ed-"
+    },
+    {
+      "text": "Watching out for bicyclists, pedestrians will be part of driver's ed",
+      "url": "/nyc/all-boroughs/ny-state-of-politics/2022/07/15/watching-out-for-bicyclists--pedestrians-will-be-part-of-driver-s-ed-"
+    },
+    {
+      "text": "PUBLIC SAFETY",
+      "url": "/nyc/all-boroughs/public-safety/2022/07/15/3-men-to-be-exonerated-of-1995-token-booth-clerk-murder-convictions"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/public-safety/2022/07/15/3-men-to-be-exonerated-of-1995-token-booth-clerk-murder-convictions"
+    },
+    {
+      "text": "PUBLIC SAFETY",
+      "url": "/nyc/all-boroughs/public-safety/2022/07/15/3-men-to-be-exonerated-of-1995-token-booth-clerk-murder-convictions"
+    },
+    {
+      "text": "PUBLIC SAFETY",
+      "url": "/nyc/all-boroughs/public-safety/2022/07/15/3-men-to-be-exonerated-of-1995-token-booth-clerk-murder-convictions"
+    },
+    {
+      "text": "3 men to be exonerated of 1995 token booth clerk murder convictions",
+      "url": "/nyc/all-boroughs/public-safety/2022/07/15/3-men-to-be-exonerated-of-1995-token-booth-clerk-murder-convictions"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/news/2022/07/16/new-york-dems--infuriated--as-manchin-nixes-climate-spending"
+    },
+    {
+      "text": "2:01",
+      "url": "/nyc/all-boroughs/news/2022/07/16/new-york-dems--infuriated--as-manchin-nixes-climate-spending"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/news/2022/07/16/new-york-dems--infuriated--as-manchin-nixes-climate-spending"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/news/2022/07/16/new-york-dems--infuriated--as-manchin-nixes-climate-spending"
+    },
+    {
+      "text": "New York Dems 'infuriated' as Manchin nixes climate spending",
+      "url": "/nyc/all-boroughs/news/2022/07/16/new-york-dems--infuriated--as-manchin-nixes-climate-spending"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/new-council-districts-unveiled-by-districting-commission"
+    },
+    {
+      "text": "2:25",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/new-council-districts-unveiled-by-districting-commission"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/new-council-districts-unveiled-by-districting-commission"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/new-council-districts-unveiled-by-districting-commission"
+    },
+    {
+      "text": "New council districts unveiled by districting commission",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/new-council-districts-unveiled-by-districting-commission"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/albert-vann--a-towering-figure-in-brooklyn-politics--dies-at-87"
+    },
+    {
+      "text": "2:02",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/albert-vann--a-towering-figure-in-brooklyn-politics--dies-at-87"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/albert-vann--a-towering-figure-in-brooklyn-politics--dies-at-87"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/albert-vann--a-towering-figure-in-brooklyn-politics--dies-at-87"
+    },
+    {
+      "text": "Albert Vann, a towering figure in Brooklyn politics, dies at 87",
+      "url": "/nyc/all-boroughs/politics/2022/07/15/albert-vann--a-towering-figure-in-brooklyn-politics--dies-at-87"
+    },
+    {
+      "text": "PUBLIC SAFETY",
+      "url": "/nyc/all-boroughs/news/2022/07/15/nyc-sees-11th-rikers-related-death-of-the-year"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/news/2022/07/15/nyc-sees-11th-rikers-related-death-of-the-year"
+    },
+    {
+      "text": "PUBLIC SAFETY",
+      "url": "/nyc/all-boroughs/news/2022/07/15/nyc-sees-11th-rikers-related-death-of-the-year"
+    },
+    {
+      "text": "PUBLIC SAFETY",
+      "url": "/nyc/all-boroughs/news/2022/07/15/nyc-sees-11th-rikers-related-death-of-the-year"
+    },
+    {
+      "text": "NYC sees 11th Rikers-related death of the year",
+      "url": "/nyc/all-boroughs/news/2022/07/15/nyc-sees-11th-rikers-related-death-of-the-year"
+    },
+    {
+      "text": "MANHATTAN",
+      "url": "/nyc/all-boroughs/news/2022/07/15/chase-bank-security-guard-stabbed-ues"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/news/2022/07/15/chase-bank-security-guard-stabbed-ues"
+    },
+    {
+      "text": "MANHATTAN",
+      "url": "/nyc/all-boroughs/news/2022/07/15/chase-bank-security-guard-stabbed-ues"
+    },
+    {
+      "text": "MANHATTAN",
+      "url": "/nyc/all-boroughs/news/2022/07/15/chase-bank-security-guard-stabbed-ues"
+    },
+    {
+      "text": "Security guard slashed, seriously hurt at UES bank: police",
+      "url": "/nyc/all-boroughs/news/2022/07/15/chase-bank-security-guard-stabbed-ues"
+    },
+    {
+      "text": "PUBLIC SAFETY",
+      "url": "/nyc/all-boroughs/public-safety/2022/07/15/3-men-to-be-exonerated-of-1995-token-booth-clerk-murder-convictions"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/public-safety/2022/07/15/3-men-to-be-exonerated-of-1995-token-booth-clerk-murder-convictions"
+    },
+    {
+      "text": "PUBLIC SAFETY",
+      "url": "/nyc/all-boroughs/public-safety/2022/07/15/3-men-to-be-exonerated-of-1995-token-booth-clerk-murder-convictions"
+    },
+    {
+      "text": "PUBLIC SAFETY",
+      "url": "/nyc/all-boroughs/public-safety/2022/07/15/3-men-to-be-exonerated-of-1995-token-booth-clerk-murder-convictions"
+    },
+    {
+      "text": "3 men to be exonerated of 1995 token booth clerk murder convictions",
+      "url": "/nyc/all-boroughs/public-safety/2022/07/15/3-men-to-be-exonerated-of-1995-token-booth-clerk-murder-convictions"
+    },
+    {
+      "text": "MORNINGS ON 1",
+      "url": "/nyc/all-boroughs/mornings-on-1/2022/07/15/pat-kiernan-interviews-nyc-transit-head-richard-davey"
+    },
+    {
+      "text": "6:33",
+      "url": "/nyc/all-boroughs/mornings-on-1/2022/07/15/pat-kiernan-interviews-nyc-transit-head-richard-davey"
+    },
+    {
+      "text": "MORNINGS ON 1",
+      "url": "/nyc/all-boroughs/mornings-on-1/2022/07/15/pat-kiernan-interviews-nyc-transit-head-richard-davey"
+    },
+    {
+      "text": "MORNINGS ON 1",
+      "url": "/nyc/all-boroughs/mornings-on-1/2022/07/15/pat-kiernan-interviews-nyc-transit-head-richard-davey"
+    },
+    {
+      "text": "The state of transit: One-on-one with NYC Transit President Richard Davey",
+      "url": "/nyc/all-boroughs/mornings-on-1/2022/07/15/pat-kiernan-interviews-nyc-transit-head-richard-davey"
+    },
+    {
+      "text": "TRANSIT",
+      "url": "/nyc/all-boroughs/transit/2022/07/14/nyc-ferry-to-raise-single-ride-fare--add-discounts-for-some-new-yorkers"
+    },
+    {
+      "text": "2:03",
+      "url": "/nyc/all-boroughs/transit/2022/07/14/nyc-ferry-to-raise-single-ride-fare--add-discounts-for-some-new-yorkers"
+    },
+    {
+      "text": "TRANSIT",
+      "url": "/nyc/all-boroughs/transit/2022/07/14/nyc-ferry-to-raise-single-ride-fare--add-discounts-for-some-new-yorkers"
+    },
+    {
+      "text": "TRANSIT",
+      "url": "/nyc/all-boroughs/transit/2022/07/14/nyc-ferry-to-raise-single-ride-fare--add-discounts-for-some-new-yorkers"
+    },
+    {
+      "text": "NYC Ferry to raise single-ride fare, add discounts for some New Yorkers",
+      "url": "/nyc/all-boroughs/transit/2022/07/14/nyc-ferry-to-raise-single-ride-fare--add-discounts-for-some-new-yorkers"
+    },
+    {
+      "text": "TRANSIT",
+      "url": "/nyc/all-boroughs/news/2022/07/04/nyc-s-alternate-side-parking-resumes"
+    },
+    {
+      "text": "1:55",
+      "url": "/nyc/all-boroughs/news/2022/07/04/nyc-s-alternate-side-parking-resumes"
+    },
+    {
+      "text": "TRANSIT",
+      "url": "/nyc/all-boroughs/news/2022/07/04/nyc-s-alternate-side-parking-resumes"
+    },
+    {
+      "text": "TRANSIT",
+      "url": "/nyc/all-boroughs/news/2022/07/04/nyc-s-alternate-side-parking-resumes"
+    },
+    {
+      "text": "NYC's alternate side parking resumes",
+      "url": "/nyc/all-boroughs/news/2022/07/04/nyc-s-alternate-side-parking-resumes"
+    },
+    {
+      "text": "ENTERTAINMENT",
+      "url": "/nyc/all-boroughs/arts/2022/07/08/-the-sopranos--actor-tony-sirico-has-died--co-star"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/arts/2022/07/08/-the-sopranos--actor-tony-sirico-has-died--co-star"
+    },
+    {
+      "text": "ENTERTAINMENT",
+      "url": "/nyc/all-boroughs/arts/2022/07/08/-the-sopranos--actor-tony-sirico-has-died--co-star"
+    },
+    {
+      "text": "ENTERTAINMENT",
+      "url": "/nyc/all-boroughs/arts/2022/07/08/-the-sopranos--actor-tony-sirico-has-died--co-star"
+    },
+    {
+      "text": "'Sopranos' actor Tony Sirico, 'Paulie Walnuts,' dies at 79",
+      "url": "/nyc/all-boroughs/arts/2022/07/08/-the-sopranos--actor-tony-sirico-has-died--co-star"
+    },
+    {
+      "text": "ARTS",
+      "url": "/nyc/all-boroughs/arts/2022/07/07/broadway-barks-returns-in-person-to-shubert-alley"
+    },
+    {
+      "text": "2:50",
+      "url": "/nyc/all-boroughs/arts/2022/07/07/broadway-barks-returns-in-person-to-shubert-alley"
+    },
+    {
+      "text": "ARTS",
+      "url": "/nyc/all-boroughs/arts/2022/07/07/broadway-barks-returns-in-person-to-shubert-alley"
+    },
+    {
+      "text": "ARTS",
+      "url": "/nyc/all-boroughs/arts/2022/07/07/broadway-barks-returns-in-person-to-shubert-alley"
+    },
+    {
+      "text": "Broadway Barks returns in person to Shubert Alley this Saturday",
+      "url": "/nyc/all-boroughs/arts/2022/07/07/broadway-barks-returns-in-person-to-shubert-alley"
+    },
+    {
+      "text": "CORONAVIRUS",
+      "url": "/nyc/all-boroughs/news/2022/07/05/broadway-begins-mask-optional-policy"
+    },
+    {
+      "text": "2:44",
+      "url": "/nyc/all-boroughs/news/2022/07/05/broadway-begins-mask-optional-policy"
+    },
+    {
+      "text": "CORONAVIRUS",
+      "url": "/nyc/all-boroughs/news/2022/07/05/broadway-begins-mask-optional-policy"
+    },
+    {
+      "text": "CORONAVIRUS",
+      "url": "/nyc/all-boroughs/news/2022/07/05/broadway-begins-mask-optional-policy"
+    },
+    {
+      "text": "Broadway begins mask-optional policy",
+      "url": "/nyc/all-boroughs/news/2022/07/05/broadway-begins-mask-optional-policy"
+    },
+    {
+      "text": "NYER OF THE WEEK",
+      "url": "/nyc/all-boroughs/nyer-of-the-week/2022/07/03/new-yorker-of-the-week--andy-hort"
+    },
+    {
+      "text": "2:00",
+      "url": "/nyc/all-boroughs/nyer-of-the-week/2022/07/03/new-yorker-of-the-week--andy-hort"
+    },
+    {
+      "text": "NYER OF THE WEEK",
+      "url": "/nyc/all-boroughs/nyer-of-the-week/2022/07/03/new-yorker-of-the-week--andy-hort"
+    },
+    {
+      "text": "NYER OF THE WEEK",
+      "url": "/nyc/all-boroughs/nyer-of-the-week/2022/07/03/new-yorker-of-the-week--andy-hort"
+    },
+    {
+      "text": "New Yorker of the Week: Andy Hort",
+      "url": "/nyc/all-boroughs/nyer-of-the-week/2022/07/03/new-yorker-of-the-week--andy-hort"
+    },
+    {
+      "text": "SCHOLAR ATHLETE",
+      "url": "/nyc/all-boroughs/scholar-athlete/2022/06/27/derwin-guzman--acing-the-execution-of-achieving-goals"
+    },
+    {
+      "text": "2:18",
+      "url": "/nyc/all-boroughs/scholar-athlete/2022/06/27/derwin-guzman--acing-the-execution-of-achieving-goals"
+    },
+    {
+      "text": "SCHOLAR ATHLETE",
+      "url": "/nyc/all-boroughs/scholar-athlete/2022/06/27/derwin-guzman--acing-the-execution-of-achieving-goals"
+    },
+    {
+      "text": "SCHOLAR ATHLETE",
+      "url": "/nyc/all-boroughs/scholar-athlete/2022/06/27/derwin-guzman--acing-the-execution-of-achieving-goals"
+    },
+    {
+      "text": "Derwin Guzman: Acing the execution of achieving goals",
+      "url": "/nyc/all-boroughs/scholar-athlete/2022/06/27/derwin-guzman--acing-the-execution-of-achieving-goals"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/orioles-win-streak-ends-at-10-bethancourt-rays-rally"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/orioles-win-streak-ends-at-10-bethancourt-rays-rally"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/orioles-win-streak-ends-at-10-bethancourt-rays-rally"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/orioles-win-streak-ends-at-10-bethancourt-rays-rally"
+    },
+    {
+      "text": "Orioles' win streak ends at 10; Bethancourt, Rays rally",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/orioles-win-streak-ends-at-10-bethancourt-rays-rally"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/at-least-5-die-after-storm-causes-montana-highway-pileup"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/at-least-5-die-after-storm-causes-montana-highway-pileup"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/at-least-5-die-after-storm-causes-montana-highway-pileup"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/at-least-5-die-after-storm-causes-montana-highway-pileup"
+    },
+    {
+      "text": "At least 5 die after storm causes Montana highway pileup",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/at-least-5-die-after-storm-causes-montana-highway-pileup"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/chez-reavie-has-late-eagle-leads-barracuda-championship"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/chez-reavie-has-late-eagle-leads-barracuda-championship"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/chez-reavie-has-late-eagle-leads-barracuda-championship"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/chez-reavie-has-late-eagle-leads-barracuda-championship"
+    },
+    {
+      "text": "Chez Reavie has late eagle, leads Barracuda Championship",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/chez-reavie-has-late-eagle-leads-barracuda-championship"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/plan-dropped-to-nominate-anti-abortion-lawyer-for-judgeship"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/plan-dropped-to-nominate-anti-abortion-lawyer-for-judgeship"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/plan-dropped-to-nominate-anti-abortion-lawyer-for-judgeship"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/plan-dropped-to-nominate-anti-abortion-lawyer-for-judgeship"
+    },
+    {
+      "text": "Plan dropped to nominate anti-abortion lawyer for judgeship",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/plan-dropped-to-nominate-anti-abortion-lawyer-for-judgeship"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/prosecutors-seek-15-year-sentence-for-armed-capitol-rioter"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/prosecutors-seek-15-year-sentence-for-armed-capitol-rioter"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/prosecutors-seek-15-year-sentence-for-armed-capitol-rioter"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/prosecutors-seek-15-year-sentence-for-armed-capitol-rioter"
+    },
+    {
+      "text": "Prosecutors seek 15-year sentence for armed Capitol rioter",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/16/prosecutors-seek-15-year-sentence-for-armed-capitol-rioter"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/manchin-wants-dems-to-pause-budget-bill-risking-its-fate"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/manchin-wants-dems-to-pause-budget-bill-risking-its-fate"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/manchin-wants-dems-to-pause-budget-bill-risking-its-fate"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/manchin-wants-dems-to-pause-budget-bill-risking-its-fate"
+    },
+    {
+      "text": "Biden tells Dems to quickly pass pared-down economic package",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/manchin-wants-dems-to-pause-budget-bill-risking-its-fate"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/mexico-captures-infamous-drug-lord-rafael-caro-quintero"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/mexico-captures-infamous-drug-lord-rafael-caro-quintero"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/mexico-captures-infamous-drug-lord-rafael-caro-quintero"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/mexico-captures-infamous-drug-lord-rafael-caro-quintero"
+    },
+    {
+      "text": "Mexico captures infamous drug lord Rafael Caro Quintero",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/mexico-captures-infamous-drug-lord-rafael-caro-quintero"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/china-leader-xi-visits-xinjiang-amid-human-rights-concerns"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/china-leader-xi-visits-xinjiang-amid-human-rights-concerns"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/china-leader-xi-visits-xinjiang-amid-human-rights-concerns"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/china-leader-xi-visits-xinjiang-amid-human-rights-concerns"
+    },
+    {
+      "text": "China's Xi, in Xinjiang, signals no change to Uyghur policy",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/china-leader-xi-visits-xinjiang-amid-human-rights-concerns"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-online/2022/07/15/ukrainian-rescue-teams-hunt-for-survivors-in-vinnytsia"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-online/2022/07/15/ukrainian-rescue-teams-hunt-for-survivors-in-vinnytsia"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-online/2022/07/15/ukrainian-rescue-teams-hunt-for-survivors-in-vinnytsia"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-online/2022/07/15/ukrainian-rescue-teams-hunt-for-survivors-in-vinnytsia"
+    },
+    {
+      "text": "Russian cruise missiles rain down on southern Ukrainian city",
+      "url": "/nyc/all-boroughs/ap-online/2022/07/15/ukrainian-rescue-teams-hunt-for-survivors-in-vinnytsia"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/billy-corgan-to-play-charity-show-for-july-4-parade-victims"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/billy-corgan-to-play-charity-show-for-july-4-parade-victims"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/billy-corgan-to-play-charity-show-for-july-4-parade-victims"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/billy-corgan-to-play-charity-show-for-july-4-parade-victims"
+    },
+    {
+      "text": "Billy Corgan to play charity show for July 4 parade victims",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/billy-corgan-to-play-charity-show-for-july-4-parade-victims"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/academy-museum-to-honor-julia-roberts-at-2nd-annual-gala"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/academy-museum-to-honor-julia-roberts-at-2nd-annual-gala"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/academy-museum-to-honor-julia-roberts-at-2nd-annual-gala"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/academy-museum-to-honor-julia-roberts-at-2nd-annual-gala"
+    },
+    {
+      "text": "Academy Museum to honor Julia Roberts at 2nd annual gala",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/academy-museum-to-honor-julia-roberts-at-2nd-annual-gala"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/julianne-moore-to-lead-venice-film-festival-jury-this-fall"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/julianne-moore-to-lead-venice-film-festival-jury-this-fall"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/julianne-moore-to-lead-venice-film-festival-jury-this-fall"
+    },
+    {
+      "text": "",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/julianne-moore-to-lead-venice-film-festival-jury-this-fall"
+    },
+    {
+      "text": "Julianne Moore to lead Venice Film Festival jury this fall",
+      "url": "/nyc/all-boroughs/ap-top-news/2022/07/15/julianne-moore-to-lead-venice-film-festival-jury-this-fall"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "/nyc/all-boroughs"
+    },
+    {
+      "text": "\n            Spectrum News\n        ",
+      "url": "/splash"
+    },
+    {
+      "text": "\n            CONTACT\n        ",
+      "url": "/nyc/all-boroughs/about-us/contact-us"
+    },
+    {
+      "text": "\n            ABOUT\n        ",
+      "url": "/nyc/all-boroughs/about-us"
+    },
+    {
+      "text": "\n            RSS\n        ",
+      "url": "/nyc/all-boroughs/rss"
+    },
+    {
+      "text": "\n            FAQ\n        ",
+      "url": "/nyc/all-boroughs/about-us/faq"
+    },
+    {
+      "text": "\n            SITEMAP\n        ",
+      "url": "/nyc/all-boroughs/sitemap"
+    },
+    {
+      "text": "\n            CAREERS\n        ",
+      "url": "https://jobs.spectrum.com/content-media-news"
+    },
+    {
+      "text": "\n            ADVERTISE WITH US\n        ",
+      "url": "https://go2.spectrumreach.com/bigapple_spectrumnews_tv"
+    },
+    {
+      "text": "\n            CERTIFICATIONS\n        ",
+      "url": "/nyc/all-boroughs/about-us/certifications"
+    },
+    {
+      "text": "\n            TERMS\n        ",
+      "url": "https://www.spectrum.com/policies/residential-terms.html"
+    },
+    {
+      "text": "\n            PRIVACY\n        ",
+      "url": "https://www.spectrum.com/policies/privacy-policy.html"
+    },
+    {
+      "text": "\n            California Consumer Privacy Rights\n        ",
+      "url": "https://www.spectrum.com/policies/california"
+    },
+    {
+      "text": "\n            California Consumer Do Not Sell My Personal Information\n        ",
+      "url": "https://spectrum.com/policies/your-privacy-rights-opt-out"
+    },
+    {
+      "text": "",
+      "url": "http://facebook.com/ny1news"
+    },
+    {
+      "text": "",
+      "url": "http://twitter.com/ny1"
+    },
+    {
+      "text": "",
+      "url": "http://instagram.com/ny1"
+    }
+  ],
+  "server": "ia801503.us.archive.org",
+  "uniq": 1961417903,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }

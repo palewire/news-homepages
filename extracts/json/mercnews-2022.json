@@ -1,5 +1,5 @@
 {
-  "created": 1657887193,
+  "created": 1657973566,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/16/items/mercnews-2022",
@@ -8048,31 +8048,157 @@
       "sha1": "aa3e462b0bc5c101cc53ee2d533b45d15b750274"
     },
     {
+      "name": "mercnews-2022-07-15T08:03:28.631804-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657897415",
+      "size": "43112",
+      "md5": "dcf8781a5f7f615a585567803fceaa41",
+      "crc32": "ba091ca7",
+      "sha1": "3d19fc21a9bc6b8c9b919229a185dc4af71d78fc",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-07-15T08:03:28.631804-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657897417",
+      "size": "59814",
+      "md5": "58f5add9820b39db760b668156476c1d",
+      "crc32": "5b138ca1",
+      "sha1": "09a1a0382548f17bb8fb6adbada08f10e92ca464",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-07-15T08:03:28.631804-07:00.jpg",
+      "source": "original",
+      "mtime": "1657897410",
+      "size": "280396",
+      "md5": "e0202417126e7d72a14109e226e9f9e3",
+      "crc32": "df923a8f",
+      "sha1": "30c0119c5020e52879824c281e075ad13cd83818",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-07-15T08:03:28.631804-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-07-15T08:03:28.631804-07:00.jpg",
+      "mtime": "1657904907",
+      "size": "9684",
+      "md5": "85d9302e7d5b1522a89a5a9c2768f704",
+      "crc32": "95bcde46",
+      "sha1": "3d509638b95a64c75bebad4aa985c98b27ef9e1e"
+    },
+    {
+      "name": "mercnews-2022-07-15T11:16:24.340381-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657908998",
+      "size": "43291",
+      "md5": "fad98b0773d80c68b920188ce16e7f94",
+      "crc32": "ae9c2704",
+      "sha1": "4a37b8f3015181dc14808616d40b9dd54cf0f424",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-07-15T11:16:24.340381-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657909002",
+      "size": "55514",
+      "md5": "db9aaa878d185d43dc106e8ce6e1fa14",
+      "crc32": "9de59543",
+      "sha1": "0e81a178dbae81c894bb868e27329977853cf7eb",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-07-15T11:16:24.340381-07:00.jpg",
+      "source": "original",
+      "mtime": "1657908993",
+      "size": "275016",
+      "md5": "097c7a4ea56ac93664a0051336fb93ec",
+      "crc32": "0350eed6",
+      "sha1": "574fd7b73bf7fec1186bf469265cb4d772a3bdb9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-07-15T11:16:24.340381-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-07-15T11:16:24.340381-07:00.jpg",
+      "mtime": "1657913985",
+      "size": "9672",
+      "md5": "65bf64c7296d81092641c37d2b4bdd51",
+      "crc32": "a54f6899",
+      "sha1": "a60d733d03f47536dca25e4fd846d67b29d20ed2"
+    },
+    {
+      "name": "mercnews-2022-07-15T20:16:13.530342-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657941380",
+      "size": "41600",
+      "md5": "373382095d8a31afd7b2c85254363af2",
+      "crc32": "0d3fca55",
+      "sha1": "42f2495d743f83b100dd567476a2330588e377ae",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-07-15T20:16:13.530342-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657941381",
+      "size": "48239",
+      "md5": "788dbaad36f96bd413349c4498a97309",
+      "crc32": "862e7532",
+      "sha1": "87f4fbe468d42a0a05b7aac40cde26c6ba9a5527",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-07-15T20:16:13.530342-07:00.jpg",
+      "source": "original",
+      "mtime": "1657941378",
+      "size": "268599",
+      "md5": "ded5bd9801e31326af0b81acbee15f4b",
+      "crc32": "5102956a",
+      "sha1": "b5c369126d4d8d52f93c23ba2814a2b6ded62cca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-07-15T20:16:13.530342-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-07-15T20:16:13.530342-07:00.jpg",
+      "mtime": "1657942762",
+      "size": "9595",
+      "md5": "1c46126254b729a1a5e6029f8fd2a7bd",
+      "crc32": "3751588b",
+      "sha1": "c5ca8d52b0f6d5f0eef7d55f9e6920e91e890aeb"
+    },
+    {
       "name": "mercnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e9344a1e2f2ae51e03e93065cc7b6db6b2aaa21",
-      "mtime": "1657855764",
-      "size": "162943",
-      "md5": "b0b035204aa139355e9503de1df47d43",
-      "crc32": "5b04944f",
-      "sha1": "7e36e345847d36ddbb4b35e19b4c8e41ad2fbcd0",
+      "btih": "93c8af9da2d0959ee704f8c70a8ff6f27a0415a5",
+      "mtime": "1657942789",
+      "size": "165470",
+      "md5": "7b54eeab8f2fbee90750a086f87967b6",
+      "crc32": "e2646edd",
+      "sha1": "5560be544f47d341ffe265aa4e81bd36037b3132",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mercnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "98db28313eb4cd22db9594b977609a55",
+      "md5": "112efe84f476645eeae6cc788e7bef73",
       "summation": "md5"
     },
     {
       "name": "mercnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657855689",
-      "size": "884736",
-      "md5": "b98708f23f267b78546d7ec42279744a",
-      "crc32": "0fdf5b35",
-      "sha1": "b573749f4a834a015def5370d329e13c987402a8",
+      "mtime": "1657941385",
+      "size": "897024",
+      "md5": "a28ef8da9b42d5a6a167d634801ba5da",
+      "crc32": "902f03b9",
+      "sha1": "3047be8001d82d7c5fe2b1233eec3d4a1064fb80",
       "format": "Metadata"
     },
     {
@@ -8086,9 +8212,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 769,
-  "item_last_updated": 1657855764,
-  "item_size": 79142217,
+  "files_count": 781,
+  "item_last_updated": 1657942789,
+  "item_size": 80301564,
   "mercnews-2022": [
     {
       "text": "Data Storage Policy",
@@ -8103,7 +8229,7 @@
       "url": "https://checkout.mercurynews.com/?g2i_source=Event&g2i_medium=link&g2i_campaign=nav&g2i_or_o=event&g2i_or_p=nav&returnUrl=https%253A%252F%252Fwww.mercurynews.com%252F"
     },
     {
-      "text": "\n\t\t\t72\u00b0F\n\t\t\t\n\t\t",
+      "text": "\n\t\t\t70\u00b0F\n\t\t\t\n\t\t",
       "url": "http://www.accuweather.com/en/us/san-jose-ca/95110/weather-warnings/39768_pc?lang=en-us&partner=mng_28"
     },
     {
@@ -8471,7 +8597,7 @@
       "url": "https://www.mercurynews.com/login?returnUrl=https%3A%2F%2Fwww.mercurynews.com%2F"
     },
     {
-      "text": "\n\t\t\t72\u00b0F\n\t\t\t\n\t\t",
+      "text": "\n\t\t\t70\u00b0F\n\t\t\t\n\t\t",
       "url": "http://www.accuweather.com/en/us/san-jose-ca/95110/weather-warnings/39768_pc?lang=en-us&partner=mng_28"
     },
     {
@@ -8523,220 +8649,172 @@
       "url": "http://enewspaper.mercurynews.com"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tThe Peter Fire update\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/california-fire-destroys-12-structures-forces-evacuations/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSJ\u2019s 21st homicide\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/san-jose-woman-stabbed-to-death-downtown/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia\u2019s oldest person dies\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/she-saw-so-much-californias-oldest-person-longtime-berkeley-resident-dies-at-114/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWas D.B. Cooper from Santa Cruz?\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/was-d-b-cooper-from-santa-cruz-netflix-series-explores-hunt-for-famed-hijacker/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tIllegal eviction warning\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/california-ag-puts-law-enforcement-on-notice-over-illegal-evictions/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tTesla\u2019s Autopilot chief quits\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/teslas-autopilot-chief-quits-company-after-feds-announce-expanded-safety-probe/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSteph vs. LeBron\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/steph-curry-is-second-best-player-in-nba-history-says-former-executive/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tExperts lament \u2018race against time\u2019 as monkeypox vaccine supplies dwindle\t\t\n\n\t\t\t",
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMonkeypox vaccine shortage\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/14/experts-lament-race-against-time-as-monkeypox-vaccine-supplies-dwindle/"
     },
     {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/experts-lament-race-against-time-as-monkeypox-vaccine-supplies-dwindle/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tIvana Trump dies\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/14/ivana-trump-stayed-friends-with-trump-even-after-nasty-divorce-rape-allegations-marla-maples/"
     },
     {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/experts-lament-race-against-time-as-monkeypox-vaccine-supplies-dwindle/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/experts-lament-race-against-time-as-monkeypox-vaccine-supplies-dwindle/"
-    },
-    {
-      "text": "",
+      "text": "\n\t\n\t\t\t\t\n\t\t\tRV ban battle continues\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/14/mountain-view-legal-battle-over-rv-ban-continues-as-tows-tickets-remain-illegal-until-end-of-august/"
     },
     {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/mountain-view-legal-battle-over-rv-ban-continues-as-tows-tickets-remain-illegal-until-end-of-august/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tMountain View: Legal battle over RV ban continues as tows, tickets remain illegal until end of August\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/mountain-view-legal-battle-over-rv-ban-continues-as-tows-tickets-remain-illegal-until-end-of-august/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/ivana-trump-first-wife-of-former-president-donald-trump-dies-at-73/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/ivana-trump-first-wife-of-former-president-donald-trump-dies-at-73/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tIvana Trump, first wife of former President Donald Trump, dies at 73\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/ivana-trump-first-wife-of-former-president-donald-trump-dies-at-73/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/new-video-explores-massive-wildfire-at-big-basin-redwoods-state-park-and-the-forests-recovery/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/new-video-explores-massive-wildfire-at-big-basin-redwoods-state-park-and-the-forests-recovery/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWatch: New video explores massive wildfire at Big Basin Redwoods State Park and the forest\u2019s recovery\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/new-video-explores-massive-wildfire-at-big-basin-redwoods-state-park-and-the-forests-recovery/"
-    },
-    {
-      "text": "",
+      "text": "\n\t\n\t\t\t\t\n\t\t\tNew \u2018Frontier Village\u2019 beer\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/14/new-beer-named-after-san-joses-beloved-frontier-village/"
     },
     {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBiden\u2019s fist bump\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/bidens-saudi-visit-aims-to-balance-rights-oil-security/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMap: Washburn Fire perimeter and evacuations; it\u2019s now season\u2019s No. 2 fire\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/map-washburn-fire-perimeter-and-evacuations-its-now-seasons-no-2-fire/"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tGov. Newsom blasts UCLA for Big Ten move, vows action by UC regents\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/pac-12-here-comes-newsom-governor-roasts-ucla-for-lack-of-transparency-in-big-ten-move-vows-regental-action/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/pac-12-here-comes-newsom-governor-roasts-ucla-for-lack-of-transparency-in-big-ten-move-vows-regental-action/"
+    },
+    {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/new-beer-named-after-san-joses-beloved-frontier-village/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tNew beer named after San Jose\u2019s beloved Frontier Village\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/new-beer-named-after-san-joses-beloved-frontier-village/"
+      "url": "https://www.mercurynews.com/2022/07/15/pac-12-here-comes-newsom-governor-roasts-ucla-for-lack-of-transparency-in-big-ten-move-vows-regental-action/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/san-jose-84-year-old-man-charged-with-murder-in-shooting-of-neighbor/"
+      "url": "https://www.mercurynews.com/2022/07/11/pac-12-survival-guide-the-strategic-merits-of-a-merger-with-the-big-12/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSan Jose: 84-year-old man charged with murder in shooting of neighbor\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/san-jose-84-year-old-man-charged-with-murder-in-shooting-of-neighbor/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPac-12 and Big 12 should join forces to counteract the SEC, Big Ten\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/11/pac-12-survival-guide-the-strategic-merits-of-a-merger-with-the-big-12/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/police-searching-for-suspects-after-armed-bank-robbery-in-gilroy/"
+      "url": "https://www.mercurynews.com/2022/07/09/pac-12-survival-guide-examining-the-fear-index-as-vultures-circle-and-uncertainty-looms/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tPolice searching for suspects after armed bank robbery in Gilroy\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/police-searching-for-suspects-after-armed-bank-robbery-in-gilroy/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tPac-12 realignment Fear Index: Anxiety levels if the league dissolves\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/09/pac-12-survival-guide-examining-the-fear-index-as-vultures-circle-and-uncertainty-looms/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/un-25m-kids-missed-routine-vaccinations-because-of-covid/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tUN: 25M kids missed routine vaccinations because of COVID\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/un-25m-kids-missed-routine-vaccinations-because-of-covid/"
+      "url": "https://www.mercurynews.com/2022/07/15/pac-12-here-comes-newsom-governor-roasts-ucla-for-lack-of-transparency-in-big-ten-move-vows-regental-action/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/sf-giants-acquire-two-new-pitchers-with-jose-alvarez-recovery-slowed-mcgee-gone/"
+      "url": "https://www.mercurynews.com/2022/07/15/santa-clara-county-sheriff-corruption-trial-set-for-late-september-start/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/santa-clara-county-sheriff-corruption-trial-set-for-late-september-start/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSF Giants acquire two new pitchers with Jose \u00c1lvarez recovery slowed, McGee gone\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/sf-giants-acquire-two-new-pitchers-with-jose-alvarez-recovery-slowed-mcgee-gone/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/oakland-man-gets-40-years-in-federal-prison-for-mailing-bombs-to-cops/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOakland man gets 40 years in federal prison for mailing bombs to cops in revenge plot\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/oakland-man-gets-40-years-in-federal-prison-for-mailing-bombs-to-cops/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSanta Clara County sheriff corruption trial set for late-September start\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/santa-clara-county-sheriff-corruption-trial-set-for-late-september-start/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/biden-lapid-differ-on-how-to-stop-irans-nuclear-ambitions/"
+      "url": "https://www.mercurynews.com/2022/07/15/ucsf-doctor-abortion-boat-prrowess-meg-autry/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/ucsf-doctor-abortion-boat-prrowess-meg-autry/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBiden, Lapid differ on how to stop Iran\u2019s nuclear ambitions\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/biden-lapid-differ-on-how-to-stop-irans-nuclear-ambitions/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tUCSF doctor wants to offer abortions aboard an ocean vessel. Can she actually do it?\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/ucsf-doctor-abortion-boat-prrowess-meg-autry/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/dozens-of-criminal-cases-dropped-over-crimes-and-misconduct-by-east-contra-costa-cops-da-says/"
+      "url": "https://www.mercurynews.com/2022/07/15/santa-clara-county-voters-ok-term-limits-measure-criticized-as-misleading/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/santa-clara-county-voters-ok-term-limits-measure-criticized-as-misleading/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDozens of criminal cases dropped over crimes and misconduct by East Contra Costa cops, DA says\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/dozens-of-criminal-cases-dropped-over-crimes-and-misconduct-by-east-contra-costa-cops-da-says/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSanta Clara County voters OK term limits measure criticized as misleading\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/santa-clara-county-voters-ok-term-limits-measure-criticized-as-misleading/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/skittles-are-toxic-san-leandro-man-claims-in-lawsuit-citing-eu-ban/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/skittles-are-toxic-san-leandro-man-claims-in-lawsuit-citing-eu-ban/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSkittles are toxic, San Leandro man claims in lawsuit, citing EU ban\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/skittles-are-toxic-san-leandro-man-claims-in-lawsuit-citing-eu-ban/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/san-jose-berryessa-school-district-sued-over-alleged-sexual-abuse-by-former-teacher/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSan Jose: Berryessa school district sued over alleged sexual abuse by former teacher\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/san-jose-berryessa-school-district-sued-over-alleged-sexual-abuse-by-former-teacher/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/san-jose-man-killed-in-morning-shooting-at-the-plant/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSan Jose: Man killed in morning shooting at The Plant\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/san-jose-man-killed-in-morning-shooting-at-the-plant/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/las-vegas-poaches-another-east-bay-sports-team/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLas Vegas poaches another East Bay sports team\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/las-vegas-poaches-another-east-bay-sports-team/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/saratoga-san-jose-man-killed-after-driving-off-highway-9/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSaratoga: San Jose man killed after driving off Highway 9\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/saratoga-san-jose-man-killed-after-driving-off-highway-9/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/santa-clara-county-launches-988-a-24-hour-mental-health-crisis-hotline/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSanta Clara County launches 988, a 24-hour mental health crisis hotline\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/santa-clara-county-launches-988-a-24-hour-mental-health-crisis-hotline/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/berkeley-man-charged-with-human-trafficking-of-a-minor/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBerkeley man charged with human trafficking of a minor\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/berkeley-man-charged-with-human-trafficking-of-a-minor/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/by-avoiding-surgery-jose-alvarez-hopes-to-pitch-again-for-sf-giants-this-season/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBy avoiding surgery, Jos\u00e9 \u00c1lvarez hopes to pitch again for SF Giants this season\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/by-avoiding-surgery-jose-alvarez-hopes-to-pitch-again-for-sf-giants-this-season/"
     },
     {
       "text": "\n\t\tSubscribe",
@@ -8759,44 +8837,44 @@
       "url": "https://www.mercurynews.com/feed/"
     },
     {
-      "text": "\n                Map: 4.6 Ridgecrest earthquake felt in Los Angeles, biggest in 6 months\n            ",
-      "url": "https://www.mercurynews.com/2022/07/14/map-4-6-ridgecrest-earthquake-felt-in-los-angeles/"
+      "text": "\n                Orioles\u2019 10-game winning streak ends with 5-4 loss to Rays in AL East wake-up call\n            ",
+      "url": "https://www.mercurynews.com/2022/07/15/orioles-10-game-winning-streak-ends-with-5-4-loss-to-rays-in-al-east-wake-up-call/"
     },
     {
-      "text": "\n                All-Stars Jeff McNeil and Starling Marte return to Mets lineup at Wrigley\n            ",
-      "url": "https://www.mercurynews.com/2022/07/14/all-stars-jeff-mcneil-and-starling-marte-return-to-mets-lineup-at-wrigley/"
+      "text": "\n                Berkeley man charged with human trafficking of a minor\n            ",
+      "url": "https://www.mercurynews.com/2022/07/15/berkeley-man-charged-with-human-trafficking-of-a-minor/"
     },
     {
-      "text": "\n                Jacob deGrom completes four-inning rehab start at Triple-A Syracuse: \u2018I had to really trust the process\u2019\n            ",
-      "url": "https://www.mercurynews.com/2022/07/14/jacob-degrom-completes-four-inning-rehab-start-at-triple-a-syracuse-i-had-to-really-trust-the-process/"
+      "text": "\n                MLB to pay minor leaguers $185 million to settle lawsuit\n            ",
+      "url": "https://www.mercurynews.com/2022/07/15/mlb-to-pay-minor-leaguers-185-million-to-settle-lawsuit/"
     },
     {
-      "text": "\n                Police searching for suspects after armed bank robbery in Gilroy\n            ",
-      "url": "https://www.mercurynews.com/2022/07/14/police-searching-for-suspects-after-armed-bank-robbery-in-gilroy/"
+      "text": "\n                House votes to restore abortion rights, Senate odds dim\n            ",
+      "url": "https://www.mercurynews.com/2022/07/15/house-votes-to-restore-abortion-rights-senate-odds-dim/"
     },
     {
-      "text": "\n                UN: 25M kids missed routine vaccinations because of COVID\n            ",
-      "url": "https://www.mercurynews.com/2022/07/14/un-25m-kids-missed-routine-vaccinations-because-of-covid/"
+      "text": "\n                By avoiding surgery, Jos\u00e9 \u00c1lvarez hopes to pitch again for SF Giants this season\n            ",
+      "url": "https://www.mercurynews.com/2022/07/15/by-avoiding-surgery-jose-alvarez-hopes-to-pitch-again-for-sf-giants-this-season/"
     },
     {
-      "text": "\n                California high school football star dies in swimming hole accident\n            ",
-      "url": "https://www.mercurynews.com/2022/07/14/california-high-school-football-star-dies-in-swimming-hole-accident/"
+      "text": "\n                Ivana Trump\u2019s death ruled accidental by medical examiner\n            ",
+      "url": "https://www.mercurynews.com/2022/07/15/ivana-trumps-death-ruled-accidental-by-medical-examiner/"
     },
     {
-      "text": "\n                Dear Abby: My husband \u2018doesn\u2019t know\u2019 where the money went, and I am furious\n            ",
-      "url": "https://www.mercurynews.com/2022/07/14/dear-abby-husbands-dishonesty-about-finances-imperils-marriage/"
+      "text": "\n                Ask Amy: I\u2019m angry that I had to find this out from my Amazon account\n            ",
+      "url": "https://www.mercurynews.com/2022/07/15/ask-amy-adolescents-gender-identification-causes-confusion/"
     },
     {
-      "text": "\n                Ask Amy: My bedtime comfort has become a terrible habit I can\u2019t quit\n            ",
-      "url": "https://www.mercurynews.com/2022/07/13/ask-amy-my-bedtime-comfort-has-become-a-terrible-habit-i-cant-quit/"
+      "text": "\n                Dear Abby: He wants the child from his affair to live with us, and I\u2019m too stressed already\n            ",
+      "url": "https://www.mercurynews.com/2022/07/15/dear-abby-he-wants-the-child-from-his-affair-to-live-with-us/"
     },
     {
-      "text": "\n                Ivana Trump, first wife of former President Donald Trump, dies at 73\n            ",
-      "url": "https://www.mercurynews.com/2022/07/14/ivana-trump-first-wife-of-former-president-donald-trump-dies-at-73/"
+      "text": "\n                Here comes Newsom: Governor roasts UCLA for lack of transparency in Pac-12 to Big Ten move, vows UC regent action\n            ",
+      "url": "https://www.mercurynews.com/2022/07/15/pac-12-here-comes-newsom-governor-roasts-ucla-for-lack-of-transparency-in-big-ten-move-vows-regental-action/"
     },
     {
-      "text": "\n                The argument for Steph Curry as No. 2 behind MJ, ahead of LeBron James\n            ",
-      "url": "https://www.mercurynews.com/2022/07/14/steph-curry-is-second-best-player-in-nba-history-says-former-executive/"
+      "text": "\n                Hotline mailbag: Best guess on survival scenarios, Pac-12 vs. Big 12 valuation, expansion options, Newsom\u2019s involvement and more\n            ",
+      "url": "https://www.mercurynews.com/2022/07/15/hotline-mailbag-best-guess-on-survival-scenarios-pac-12-vs-big-12-valuation-expansion-options-newsoms-involvement-and-more/"
     },
     {
       "text": "\n\t\t\t\tCrime and Public Safety\n\t\t\t",
@@ -8804,55 +8882,39 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/officer-in-jan-6-motorcade-corroborates-heated-exchange/"
+      "url": "https://www.mercurynews.com/2022/07/15/oakland-man-gets-17-years-in-prison-for-killing-sisters-allegedly-abusive-boyfriend/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/officer-in-jan-6-motorcade-corroborates-heated-exchange/"
+      "url": "https://www.mercurynews.com/2022/07/15/oakland-man-gets-17-years-in-prison-for-killing-sisters-allegedly-abusive-boyfriend/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOfficer in Jan. 6 motorcade corroborates heated exchange\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/officer-in-jan-6-motorcade-corroborates-heated-exchange/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOakland man gets 17 years in prison for killing sister\u2019s allegedly abusive boyfriend\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/oakland-man-gets-17-years-in-prison-for-killing-sisters-allegedly-abusive-boyfriend/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/secret-service-reportedly-erases-texts-after-being-asked-to-keep-them/"
+      "url": "https://www.mercurynews.com/2022/07/15/former-overstock-ceo-testifies-to-jan-6-panel-for-8-hours/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tSecret Service reportedly erases texts after being asked to keep them\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/secret-service-reportedly-erases-texts-after-being-asked-to-keep-them/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFormer Overstock CEO testifies to Jan. 6 panel for 8 hours\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/former-overstock-ceo-testifies-to-jan-6-panel-for-8-hours/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/alex-murdaugh-charged-with-murder-in-deaths-of-wife-son/"
+      "url": "https://www.mercurynews.com/2022/07/15/berkeley-man-shot-multiple-times-in-west-oakland/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tAlex Murdaugh charged with murder in deaths of wife, son\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/alex-murdaugh-charged-with-murder-in-deaths-of-wife-son/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBerkeley man shot multiple times in West Oakland\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/berkeley-man-shot-multiple-times-in-west-oakland/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/oakley-woman-charged-with-21-felonies-related-to-sexual-misconduct-with-minors/"
+      "url": "https://www.mercurynews.com/2022/07/15/mexican-forces-nab-infamous-drug-lord-caro-quintero/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tOakley woman charged with 21 felonies related to sexual misconduct with minors\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/oakley-woman-charged-with-21-felonies-related-to-sexual-misconduct-with-minors/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMexican forces nab infamous drug lord Caro Quintero\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/mexican-forces-nab-infamous-drug-lord-caro-quintero/"
     },
     {
       "text": "\n\t\t\t\tSports\n\t\t\t",
@@ -8860,55 +8922,39 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/steph-curry-is-second-best-player-in-nba-history-says-former-executive/"
+      "url": "https://www.mercurynews.com/2022/07/15/athletics-unveil-latest-plan-for-montas-return-from-shoulder-injury/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/steph-curry-is-second-best-player-in-nba-history-says-former-executive/"
+      "url": "https://www.mercurynews.com/2022/07/15/athletics-unveil-latest-plan-for-montas-return-from-shoulder-injury/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAthletics unveil latest plan for Montas\u2019 return from shoulder injury\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/athletics-unveil-latest-plan-for-montas-return-from-shoulder-injury/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThe argument for Steph Curry as No. 2 behind MJ, ahead of LeBron James\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/steph-curry-is-second-best-player-in-nba-history-says-former-executive/"
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/warriors-owner-joe-lacob-bashes-nba-luxury-tax-rules-on-andre-iguodalas-podcast/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWarriors owner Joe Lacob bashes NBA luxury tax rules on Andre Iguodala\u2019s podcast\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/warriors-owner-joe-lacob-bashes-nba-luxury-tax-rules-on-andre-iguodalas-podcast/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/james-wiseman-jonathan-kuminga-show-growth-in-loss-to-thunder/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tJames Wiseman, Jonathan Kuminga show growth in loss to Thunder\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/james-wiseman-jonathan-kuminga-show-growth-in-loss-to-thunder/"
     },
     {
       "text": "",
       "url": "https://www.mercurynews.com/2022/07/14/aytons-offer-sheet-from-pacers-helps-the-warriors-in-multiple-ways/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tAyton\u2019s offer sheet from Pacers helps the Warriors in multiple ways\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/14/aytons-offer-sheet-from-pacers-helps-the-warriors-in-multiple-ways/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/13/kurtenbach-welcome-to-the-rebuild-the-sharks-trade-of-brent-burns-marks-the-real-start-of-the-mike-grier-era/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tKurtenbach: Welcome to the rebuild \u2014 the Sharks\u2019 trade of Brent Burns marks the real start of the Mike Grier era\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/kurtenbach-welcome-to-the-rebuild-the-sharks-trade-of-brent-burns-marks-the-real-start-of-the-mike-grier-era/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/inside-the-49ers-bryant-young-sends-compelling-support-to-alex-smith/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tInside the 49ers: Bryant Young sends support to Alex Smith, daughter amid tumor treatment\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/inside-the-49ers-bryant-young-sends-compelling-support-to-alex-smith/"
     },
     {
       "text": "\n\t\t\t\tReal Estate\n\t\t\t",
@@ -8916,55 +8962,39 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/wildfire-threat-becomes-tool-to-fight-home-builders/"
+      "url": "https://www.mercurynews.com/2022/07/15/tire-store-sprout-shuttered-san-jose-retail-site-develop-covid-economy/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/wildfire-threat-becomes-tool-to-fight-home-builders/"
+      "url": "https://www.mercurynews.com/2022/07/15/tire-store-sprout-shuttered-san-jose-retail-site-develop-covid-economy/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tTire store may replace closed San Jose retail site\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/tire-store-sprout-shuttered-san-jose-retail-site-develop-covid-economy/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/tech-unit-of-japanese-auto-titan-leases-big-palo-alto-office-site/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tAutonomous vehicle unit of Toyota takes big chunk of Palo Alto office space\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/tech-unit-of-japanese-auto-titan-leases-big-palo-alto-office-site/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/14/mountain-view-legal-battle-over-rv-ban-continues-as-tows-tickets-remain-illegal-until-end-of-august/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLegal battle in Mountain View over RV ban continues as tows, tickets remain illegal until end of August\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/14/mountain-view-legal-battle-over-rv-ban-continues-as-tows-tickets-remain-illegal-until-end-of-august/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/14/wildfire-threat-becomes-tool-to-fight-home-builders/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tWildfire threat becomes tool to fight home builders in California\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/14/wildfire-threat-becomes-tool-to-fight-home-builders/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/hotel-construct-develop-slump-slowdown-bay-area-california-covid-tech/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tHotel openings slump in California, Bay Area stays stable\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/hotel-construct-develop-slump-slowdown-bay-area-california-covid-tech/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/13/californias-insurer-of-last-resort-accused-of-wrongly-denying-wildfire-claims/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia\u2019s \u2018insurer of last resort\u2019 accused of wrongly denying wildfire claims\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/californias-insurer-of-last-resort-accused-of-wrongly-denying-wildfire-claims/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/13/california-ag-puts-law-enforcement-on-notice-over-illegal-evictions/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia AG puts law enforcement on notice over illegal evictions\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/california-ag-puts-law-enforcement-on-notice-over-illegal-evictions/"
     },
     {
       "text": "Photos",
@@ -8972,15 +9002,35 @@
     },
     {
       "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/skateboarders-find-their-home-at-downtowns-circle-a/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/skateboarders-find-their-home-at-downtowns-circle-a/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tSkateboarders find their home at San Jose downtown\u2019s Circle-A\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/skateboarders-find-their-home-at-downtowns-circle-a/"
+    },
+    {
+      "text": "",
+      "url": "https://www.mercurynews.com/2022/07/15/bay-area-stargazers-meet-webb-telescope-researcher-at-chabot-college/"
+    },
+    {
+      "text": "\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/bay-area-stargazers-meet-webb-telescope-researcher-at-chabot-college/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBay Area stargazers meet Webb telescope researcher at Chabot College\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/bay-area-stargazers-meet-webb-telescope-researcher-at-chabot-college/"
+    },
+    {
+      "text": "",
       "url": "https://www.mercurynews.com/2022/07/14/california-high-school-football-star-dies-in-swimming-hole-accident/"
     },
     {
       "text": "\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/14/california-high-school-football-star-dies-in-swimming-hole-accident/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia high school football star dies in swimming hole accident\t\t\n\n\t\t\t",
@@ -8995,10 +9045,6 @@
       "url": "https://www.mercurynews.com/2022/07/14/new-video-explores-massive-wildfire-at-big-basin-redwoods-state-park-and-the-forests-recovery/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
       "text": "\n\t\n\t\t\t\t\n\t\t\tWatch: New video explores massive wildfire at Big Basin Redwoods State Park and the forest\u2019s recovery\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/14/new-video-explores-massive-wildfire-at-big-basin-redwoods-state-park-and-the-forests-recovery/"
     },
@@ -9009,10 +9055,6 @@
     {
       "text": "\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/13/top-5-moments-for-brent-burns-with-the-san-jose-sharks/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tTop 5 moments for Brent Burns with the San Jose Sharks\t\t\n\n\t\t\t",
@@ -9027,10 +9069,6 @@
       "url": "https://www.mercurynews.com/2022/07/13/was-d-b-cooper-from-santa-cruz-netflix-series-explores-hunt-for-famed-hijacker/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
       "text": "\n\t\n\t\t\t\t\n\t\t\tWas D.B. Cooper from Santa Cruz? Netflix series explores hunt for famed hijacker\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/13/was-d-b-cooper-from-santa-cruz-netflix-series-explores-hunt-for-famed-hijacker/"
     },
@@ -9041,10 +9079,6 @@
     {
       "text": "\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/13/what-to-watch-crawdads-a-mostly-stellar-take-on-beloved-novel/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tWhat to watch: \u2018Crawdads\u2019 a mostly stellar take on beloved novel\t\t\n\n\t\t\t",
@@ -9059,10 +9093,6 @@
       "url": "https://www.mercurynews.com/2022/07/12/yosemite-fire-why-giant-sequoia-trees-are-surviving-now-when-others-died-in-recent-fires/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
       "text": "\n\t\n\t\t\t\t\n\t\t\tYosemite fire: Why giant sequoia trees are surviving now when others died in recent fires\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/12/yosemite-fire-why-giant-sequoia-trees-are-surviving-now-when-others-died-in-recent-fires/"
     },
@@ -9073,10 +9103,6 @@
     {
       "text": "\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/12/piedmont-man-raising-awareness-of-california-crises-with-billboards/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tEast Bay man raising awareness of California's crises with billboards\t\t\n\n\t\t\t",
@@ -9091,10 +9117,6 @@
       "url": "https://www.mercurynews.com/2022/07/12/photos-ancient-space-twinkles-in-first-nasa-webb-telescope-images/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
       "text": "\n\t\n\t\t\t\t\n\t\t\tPhotos: Ancient space twinkles in first NASA Webb Telescope images\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/12/photos-ancient-space-twinkles-in-first-nasa-webb-telescope-images/"
     },
@@ -9105,10 +9127,6 @@
     {
       "text": "\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/11/yosemite-fire-grows-to-2340-acres-disrupts-vacation-plans-for-thousands/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
     },
     {
       "text": "\n\t\n\t\t\t\t\n\t\t\tYosemite fire disrupts vacation plans for thousands, others make the best of a hazy situation\t\t\n\n\t\t\t",
@@ -9123,44 +9141,8 @@
       "url": "https://www.mercurynews.com/2022/07/11/homeless-camp-fire-in-west-oakland-shuts-down-freeways/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
       "text": "\n\t\n\t\t\t\t\n\t\t\tHomeless camp fire in West Oakland shuts down freeways, railroad service\t\t\n\n\t\t\t",
       "url": "https://www.mercurynews.com/2022/07/11/homeless-camp-fire-in-west-oakland-shuts-down-freeways/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/11/travel-what-its-like-to-sail-on-the-new-disney-wish-cruise-ship/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/11/travel-what-its-like-to-sail-on-the-new-disney-wish-cruise-ship/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWhat it\u2019s like to sail on the new Disney Wish cruise ship\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/11/travel-what-its-like-to-sail-on-the-new-disney-wish-cruise-ship/"
-    },
-    {
-      "text": "",
-      "url": "https://www.mercurynews.com/2022/07/11/tripadvisors-top-u-s-and-world-attractions-for-2022/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/11/tripadvisors-top-u-s-and-world-attractions-for-2022/"
-    },
-    {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tTripadvisor\u2019s top U.S. and world attractions for 2022\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/11/tripadvisors-top-u-s-and-world-attractions-for-2022/"
     },
     {
       "text": "\n\t\t\t\tCoronavirus\n\t\t\t",
@@ -9168,55 +9150,39 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/with-covid-surging-los-angeles-may-soon-require-masks/"
+      "url": "https://www.mercurynews.com/2022/07/15/bart-will-lift-its-covid-mask-mandate-on-monday-again-but-could-it-be-back-soon/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/with-covid-surging-los-angeles-may-soon-require-masks/"
+      "url": "https://www.mercurynews.com/2022/07/15/bart-will-lift-its-covid-mask-mandate-on-monday-again-but-could-it-be-back-soon/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWith COVID surging, Los Angeles may soon require masks\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/with-covid-surging-los-angeles-may-soon-require-masks/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tBART lifts its COVID mask mandate Monday \u2014 again. Could it be back soon?\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/bart-will-lift-its-covid-mask-mandate-on-monday-again-but-could-it-be-back-soon/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/why-the-omicron-offshoot-ba-5-is-a-big-deal/"
+      "url": "https://www.mercurynews.com/2022/07/15/employers-who-want-workers-in-the-office-more-often-may-be-in-for-a-fight/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWhy the Omicron offshoot BA.5 is a big deal\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/why-the-omicron-offshoot-ba-5-is-a-big-deal/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tEmployers who want workers in the office more often may be in for a fight\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/employers-who-want-workers-in-the-office-more-often-may-be-in-for-a-fight/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/13/bay-area-seeing-uptick-in-monkeypox-cases-as-vaccine-supplies-run-dry/"
+      "url": "https://www.mercurynews.com/2022/07/14/un-25m-kids-missed-routine-vaccinations-because-of-covid/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tBay Area seeing uptick in monkeypox cases as vaccine supplies run dry\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/bay-area-seeing-uptick-in-monkeypox-cases-as-vaccine-supplies-run-dry/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tUN: 25 million kids missed routine vaccinations because of COVID\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/14/un-25m-kids-missed-routine-vaccinations-because-of-covid/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/13/qa-someone-in-your-family-has-covid-now-what/"
+      "url": "https://www.mercurynews.com/2022/07/14/experts-lament-race-against-time-as-monkeypox-vaccine-supplies-dwindle/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tQ&A: Someone in your family has COVID. Now what?\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/qa-someone-in-your-family-has-covid-now-what/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tExperts lament \u2018race against time\u2019 as monkeypox vaccine supplies dwindle\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/14/experts-lament-race-against-time-as-monkeypox-vaccine-supplies-dwindle/"
     },
     {
       "text": "\n\t\t\t\tOpinion\n\t\t\t",
@@ -9224,55 +9190,39 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/9359852-webb-telescope-photos-scientists-bay-area/"
+      "url": "https://www.mercurynews.com/2022/07/15/opinion-bill-would-provide-broadband-access-throughout-california/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/9359852-webb-telescope-photos-scientists-bay-area/"
+      "url": "https://www.mercurynews.com/2022/07/15/opinion-bill-would-provide-broadband-access-throughout-california/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEditorial: Eye-popping Webb telescope photos inspire us all\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/9359852-webb-telescope-photos-scientists-bay-area/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: Bill would provide broadband access throughout California\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/opinion-bill-would-provide-broadband-access-throughout-california/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/13/editorial-what-is-congress-waiting-for-on-chips-act/"
+      "url": "https://www.mercurynews.com/2022/07/15/opinion-san-jose-should-welcome-refugees-other-immigrants/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tEditorial: Stop dithering on $52 billion CHIPS Act\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/editorial-what-is-congress-waiting-for-on-chips-act/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tOpinion: San Jose should welcome refugees, other immigrants\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/opinion-san-jose-should-welcome-refugees-other-immigrants/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/13/letters-904/"
+      "url": "https://www.mercurynews.com/2022/07/14/letters-905/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLetters: Enforcing conservation | Fractious Cupertino | Same old politics | Energy independence | Video games\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/13/letters-904/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLetters: For the sequoias | School expansion | Disregarding truth | Misinformation | Common sense | Nice people | First Amendment\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/14/letters-905/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/letters-906/"
+      "url": "https://www.mercurynews.com/2022/07/15/letters-908/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tLetters: A\u2019s staying | Doonesbury hits | Prop. 8 fears | No new permits | Clean drilling\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/letters-906/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tLetters: Special class | Foster youth | Trump\u2019s sycophants | Ageist stereotypes | Lives first\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/letters-908/"
     },
     {
       "text": "\n\t\t\t\tThings To Do\n\t\t\t",
@@ -9280,55 +9230,39 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/ivana-trump-stayed-friends-with-trump-even-after-nasty-divorce-rape-allegations-marla-maples/"
+      "url": "https://www.mercurynews.com/2022/07/15/napas-famed-artisan-the-model-bakery-is-coming-to-the-east-bay/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/ivana-trump-stayed-friends-with-trump-even-after-nasty-divorce-rape-allegations-marla-maples/"
+      "url": "https://www.mercurynews.com/2022/07/15/napas-famed-artisan-the-model-bakery-is-coming-to-the-east-bay/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tIvana Trump stayed friends with Trump even after nasty divorce, rape allegations, Marla Maples\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/ivana-trump-stayed-friends-with-trump-even-after-nasty-divorce-rape-allegations-marla-maples/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tNapa\u2019s famed, artisan The Model Bakery is coming to the East Bay\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/napas-famed-artisan-the-model-bakery-is-coming-to-the-east-bay/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/top-decorating-tip-for-new-homeowners-practice-patience/"
+      "url": "https://www.mercurynews.com/2022/07/15/review-teen-dreamers-seek-sanctuary-in-berkeley-rep-play/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tTop decorating tip for new homeowners: Practice patience\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/top-decorating-tip-for-new-homeowners-practice-patience/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tReview: Teen DREAMers seek \u2018Sanctuary\u2019 in Berkeley Rep play\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/review-teen-dreamers-seek-sanctuary-in-berkeley-rep-play/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/2-world-premieres-coming-in-theatreworks-2022-23-season/"
+      "url": "https://www.mercurynews.com/2022/07/15/mega-millions-480-million-jackpot-is-among-the-largest-in-its-history/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\t2 world premieres coming in TheatreWorks\u2019 2022-23 season\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/2-world-premieres-coming-in-theatreworks-2022-23-season/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tMega Millions $480 million jackpot is among the largest in its history\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/mega-millions-480-million-jackpot-is-among-the-largest-in-its-history/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/did-demi-moore-sneak-her-dog-into-the-louvre-for-mona-lisa-photo-op/"
+      "url": "https://www.mercurynews.com/2022/07/15/former-usher-now-runs-three-major-theaters-in-san-francisco/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tDid Demi Moore sneak her dog into the Louvre for Mona Lisa photo op?\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/did-demi-moore-sneak-her-dog-into-the-louvre-for-mona-lisa-photo-op/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tFormer usher now runs three major theaters in San Francisco\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/former-usher-now-runs-three-major-theaters-in-san-francisco/"
     },
     {
       "text": "\n\t\t\t\tBusiness\n\t\t\t",
@@ -9336,75 +9270,59 @@
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/californias-pump-prices-drop-below-6-with-more-room-to-slide/"
+      "url": "https://www.mercurynews.com/2022/07/15/what-if-musk-is-ordered-to-do-twitter-deal-and-he-just-says-no/"
     },
     {
       "text": "\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/californias-pump-prices-drop-below-6-with-more-room-to-slide/"
+      "url": "https://www.mercurynews.com/2022/07/15/what-if-musk-is-ordered-to-do-twitter-deal-and-he-just-says-no/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia\u2019s gas prices drop below $6 with more room to slide\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/californias-pump-prices-drop-below-6-with-more-room-to-slide/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tWhat if Elon Musk is ordered to do Twitter deal and he just says no?\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/what-if-musk-is-ordered-to-do-twitter-deal-and-he-just-says-no/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/yes-totally-broke-armie-hammer-is-selling-hotel-timeshares-in-the-cayman-islands-report-says/"
+      "url": "https://www.mercurynews.com/2022/07/15/vermont-ski-resort-changes-its-insensitive-name/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tYes, \u2018totally broke\u2019 Armie Hammer is selling hotel timeshares in the Cayman Islands, report says\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/yes-totally-broke-armie-hammer-is-selling-hotel-timeshares-in-the-cayman-islands-report-says/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tVermont ski resort changes its \u2018insensitive\u2019 name\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/vermont-ski-resort-changes-its-insensitive-name/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/worlds-best-airlines-for-2022-ranked-by-airlineratings-com/"
+      "url": "https://www.mercurynews.com/2022/07/15/report-pilot-mobile-recycling-programs-arent-fix-for-californias-crumbling-system/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
-    },
-    {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tWorld\u2019s best airlines for 2022, ranked by AirlineRatings.com\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/worlds-best-airlines-for-2022-ranked-by-airlineratings-com/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tReport: Pilot \u2018mobile recycling\u2019 programs aren\u2019t fix for California\u2019s crumbling system\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/report-pilot-mobile-recycling-programs-arent-fix-for-californias-crumbling-system/"
     },
     {
       "text": "",
-      "url": "https://www.mercurynews.com/2022/07/14/the-new-californian-is-single-and-looking-for-the-golden-state-dream/"
+      "url": "https://www.mercurynews.com/2022/07/15/california-social-media-addiction-bill-drops-parent-lawsuits/"
     },
     {
-      "text": "Science | ",
-      "url": "https://www.mercurynews.com/news/science/"
+      "text": "\n\t\n\t\t\t\t\n\t\t\tCalifornia\u2019s first in the US social media addiction bill drops parent lawsuits\t\t\n\n\t\t\t",
+      "url": "https://www.mercurynews.com/2022/07/15/california-social-media-addiction-bill-drops-parent-lawsuits/"
     },
     {
-      "text": "\n\t\n\t\t\t\t\n\t\t\tThe new Californian is single and looking for the Golden State dream\t\t\n\n\t\t\t",
-      "url": "https://www.mercurynews.com/2022/07/14/the-new-californian-is-single-and-looking-for-the-golden-state-dream/"
+      "text": "Ivana Trump, ex-wife of Donald, dies at 73 in NYC apartment after fall",
+      "url": "https://www.nydailynews.com/snyde/ny-ivana-trump-dead-former-wife-donald-20220714-zp6pxpapwbfgpd42sclpkaqvre-story.html?itm_source=parsely-api"
     },
     {
-      "text": "NYPD will continue marijuana-testing protocols after a memo said random testing would cease",
-      "url": "https://www.nydailynews.com/new-york/nyc-crime/ny-nypd-bans-marijuana-testing-cops-weed-20220713-abiqyp4mkjbczpie4es3zlusia-story.html?itm_source=parsely-api"
+      "text": "U.S. attorney sues Cubs, alleging disability law violations in Wrigley Field renovations",
+      "url": "https://www.chicagotribune.com/news/criminal-justice/ct-us-attorneys-office-sues-cubs-wrigley-field-renovations-disability-act-20220714-dtlwhoixdvfntdro7jmtfrxzvq-story.html?itm_source=parsely-api"
+    },
+    {
+      "text": "Margaritaville at Sea cruise ship at Fla. port under \u2018No Sail Order\u2019",
+      "url": "https://www.orlandosentinel.com/business/tourism/os-bz-margaritaville-at-sea-cruise-ship-no-sail-order-20220714-hux64caaizdzhfqb6ppw4wesqq-story.html?itm_source=parsely-api"
+    },
+    {
+      "text": "Teen charged with murder in encounter between bat-wielding man and squeegee workers",
+      "url": "https://www.baltimoresun.com/news/crime/bs-md-ci-cr-baltimore-police-squeegee-worker-shooting-arrest-20220714-ahdgmb5rcbgy3i2fe6xkcdqnpi-story.html?itm_source=parsely-api"
     },
     {
       "text": "Ex-Baltimore Police sergeant who planted BB gun on man hit with a car is sentenced to 21 months in prison",
       "url": "https://www.baltimoresun.com/news/crime/bs-md-ci-cr-baltimore-police-gttf-sentencing-bb-gun-20220713-rpwqkkfsxrdb5izfxkyxcxotp4-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "Active shooter call in Chicago was bogus: police",
-      "url": "https://www.chicagotribune.com/news/breaking/ct-willis-tower-active-shooter-scare-20220713-2ybx4remwjbinee7okcrvo6wsu-story.html?itm_source=parsely-api"
-    },
-    {
-      "text": "Drop in metro Denver home sales will be steeper than expected",
-      "url": "https://www.denverpost.com/2022/07/13/denver-homes-sales-drop-prediction/?itm_source=parsely-api"
-    },
-    {
-      "text": "Tech-linked layoffs jolt hundreds of Bay Area workers, including Tesla employees",
-      "url": "https://www.mercurynews.com/2022/07/13/tech-job-cuts-jolt-659-job-cut-bay-area-worker-tesla-facebook/?itm_source=parsely-api"
     },
     {
       "text": "",
@@ -9623,10 +9541,10 @@
     "publicdate": "2022-03-23 02:09:12",
     "addeddate": "2022-03-23 02:09:12"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 330085175,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1832904870,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

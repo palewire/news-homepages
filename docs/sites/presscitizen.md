@@ -17,7 +17,7 @@ orphan: true
 | Location       | Iowa City                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 165 screenshots stored at the Internet Archive.
+The archiving routine has captured 167 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

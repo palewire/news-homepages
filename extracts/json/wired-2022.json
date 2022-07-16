@@ -1,5 +1,5 @@
 {
-  "created": 1657887566,
+  "created": 1657973970,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/33/items/wired-2022",
@@ -1402,31 +1402,157 @@
       "sha1": "ce25e9b97cd1137b04c2430f195e141b92d87602"
     },
     {
+      "name": "wired-2022-07-15T09:13:06.693260-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901591",
+      "size": "34716",
+      "md5": "38f79dcfad7e3efdb93e7e4c35fbfce6",
+      "crc32": "cb89e958",
+      "sha1": "fea990bc941c610f5cf17b24a2a29749ec5da754",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-07-15T09:13:06.693260-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901593",
+      "size": "20226",
+      "md5": "9344262d37a7509231e2722878f2baf1",
+      "crc32": "2aa48341",
+      "sha1": "73e5a6c651c84b085ff7a9cb88b4a0ae96ba7918",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-07-15T09:13:06.693260-07:00.jpg",
+      "source": "original",
+      "mtime": "1657901589",
+      "size": "304330",
+      "md5": "d012e1d0bfffce165e76780dec3152c8",
+      "crc32": "96af7ff9",
+      "sha1": "fcbb58edcc0e6f4ebaf7ce4bbcbf3cca24ab6c74",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-07-15T09:13:06.693260-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-07-15T09:13:06.693260-07:00.jpg",
+      "mtime": "1657907420",
+      "size": "10640",
+      "md5": "e5f18a0c22dd89cb526ec84c8a386fa3",
+      "crc32": "c74cb188",
+      "sha1": "d014c821531f9abfdb017de68a0bdc5933af19ad"
+    },
+    {
+      "name": "wired-2022-07-15T11:21:04.300480-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657909275",
+      "size": "34668",
+      "md5": "f2ad92fb853b2763606e2fe29869d40f",
+      "crc32": "40e7c24d",
+      "sha1": "5af30790c6913685a128f988bdaff8cdeaca18b1",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-07-15T11:21:04.300480-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657909279",
+      "size": "21979",
+      "md5": "691d9de1c3250ed44cfc16b6294872bd",
+      "crc32": "6af301d1",
+      "sha1": "40c42535df4643490e3b3c012e377d8ab89029b6",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-07-15T11:21:04.300480-07:00.jpg",
+      "source": "original",
+      "mtime": "1657909267",
+      "size": "299290",
+      "md5": "387371bd3918cc662a5275f9a21c1f5f",
+      "crc32": "a53c9561",
+      "sha1": "cf499d9017cf63055e5c356e5753ec85a92c5cd4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-07-15T11:21:04.300480-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-07-15T11:21:04.300480-07:00.jpg",
+      "mtime": "1657914186",
+      "size": "10640",
+      "md5": "8dcd01f0c351bbc512b9adee615ade99",
+      "crc32": "4fbad6ac",
+      "sha1": "1313966a8178ae0b5222a9796e509815fa264693"
+    },
+    {
+      "name": "wired-2022-07-15T21:06:40.995942-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657944405",
+      "size": "34693",
+      "md5": "fead989484b6b3e012d9cb4ead1e13b3",
+      "crc32": "349bb5c5",
+      "sha1": "159b9d3a54c0d2b688f47fdcb512e875509cbc51",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-07-15T21:06:40.995942-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657944406",
+      "size": "22060",
+      "md5": "f5df2ac926e85264b2693bcd0e3796a0",
+      "crc32": "b3e422b3",
+      "sha1": "028a8b590e35693a17070ce849907cf4788e2208",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-07-15T21:06:40.995942-07:00.jpg",
+      "source": "original",
+      "mtime": "1657944402",
+      "size": "310009",
+      "md5": "45d1dd74b10d7cca182d22f64597737b",
+      "crc32": "f3f80150",
+      "sha1": "5125d37896422a8e92c6997692e353fc85dde4c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-07-15T21:06:40.995942-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-07-15T21:06:40.995942-07:00.jpg",
+      "mtime": "1657947133",
+      "size": "10677",
+      "md5": "dd86ef2721088923a22e39726278eaa5",
+      "crc32": "a972d95c",
+      "sha1": "34c1afd9ac22264090700f2753e8b319b185be0f"
+    },
+    {
       "name": "wired-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7a812a465f9d078dcf4321ffaaeadd62387e9066",
-      "mtime": "1657858987",
-      "size": "29035",
-      "md5": "2a5866b7ab811b64ea776aca4559b8dc",
-      "crc32": "cf0bf296",
-      "sha1": "a260bb7a1fb1999b9364b2ba16c9628ef1f271ba",
+      "btih": "1e1dc44367d9599cf6636162a1082602ea9ddd59",
+      "mtime": "1657947219",
+      "size": "31529",
+      "md5": "a05881c58f3c04d3561ce445e09f9b12",
+      "crc32": "74dc374b",
+      "sha1": "2bb1e2743f7cceb8ea5759bb71325344105d98da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wired-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9dd9d00a61cfc75463d0e05d74008ad1",
+      "md5": "e962f7ea07336fc60703d3c78d3600de",
       "summation": "md5"
     },
     {
       "name": "wired-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657858900",
-      "size": "172032",
-      "md5": "c92de85435cba4d80e0f2bdadecbcebf",
-      "crc32": "88ebb965",
-      "sha1": "a931cfa2da5879f32d8cb6fd766f211ea65d6f40",
+      "mtime": "1657944430",
+      "size": "184320",
+      "md5": "a1afaf51fe7281768b980bc0f6b70f55",
+      "crc32": "9ffe9d41",
+      "sha1": "d2838b59e93dc9e6d91d6a535de64902f900d77e",
       "format": "Metadata"
     },
     {
@@ -1440,9 +1566,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1657858987,
-  "item_size": 11844380,
+  "files_count": 149,
+  "item_last_updated": 1657947219,
+  "item_size": 12973090,
   "metadata": {
     "identifier": "wired-2022",
     "collection": [
@@ -1459,8 +1585,8 @@
     "publicdate": "2022-07-04 20:17:35",
     "addeddate": "2022-07-04 20:17:35"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 1364236594,
+  "server": "ia801409.us.archive.org",
+  "uniq": 234511268,
   "wired-2022": [
     {
       "text": "Skip to main content",
@@ -1512,11 +1638,11 @@
     },
     {
       "text": "SUBSCRIBE",
-      "url": "https://subscribe.wired.com/subscribe/wired/145192?source=JNY_WIR_GLOBAL_NAV_CTA_0_2022_ALLSITE_CTRL_FREE_PAY_TEST_ZZ_PANELB"
+      "url": "https://subscribe.wired.com/subscribe/wired/145192?source=JNY_WIR_GLOBAL_NAV_CTA_0_2022_ALLSITE_CTRL_FREE_PAY_TEST_ZZ_PANELA "
     },
     {
-      "text": "Get WIRED  + a free tote  \n        SUBSCRIBE",
-      "url": "https://subscribe.wired.com/subscribe/wired/145192?source=JNY_WIR_DESKTOP_NAV_ROLLOVER_0_2022_ALLSITE_CTRL_FREE_PAY_TEST_ZZ_PANELB"
+      "text": "Get WIRED  + a free tote \n        SUBSCRIBE",
+      "url": "https://subscribe.wired.com/subscribe/wired/145192?source=JNY_WIR_DESKTOP_NAV_ROLLOVER_0_2022_ALLSITE_CTRL_FREE_PAY_TEST_ZZ_PANELA "
     },
     {
       "text": "SearchSearch",
@@ -1596,6 +1722,138 @@
     },
     {
       "text": "",
+      "url": "/story/the-speedy-downfall-of-rapid-delivery/"
+    },
+    {
+      "text": "The Speedy Downfall of Rapid Delivery Startups",
+      "url": "/story/the-speedy-downfall-of-rapid-delivery/"
+    },
+    {
+      "text": "Arielle Pardes",
+      "url": "/author/arielle-pardes"
+    },
+    {
+      "text": "",
+      "url": "/story/sleep-disruption-heat-wave/"
+    },
+    {
+      "text": "How Heat Waves Are Messing Up Your Sleep",
+      "url": "/story/sleep-disruption-heat-wave/"
+    },
+    {
+      "text": "Sabrina Weiss",
+      "url": "/author/sabrina-weiss"
+    },
+    {
+      "text": "",
+      "url": "/story/2022-midterms-polls-g-elliott-morris-q-a/"
+    },
+    {
+      "text": "Have Pollsters Cleaned Up Their Act in Time for the Midterms?",
+      "url": "/story/2022-midterms-polls-g-elliott-morris-q-a/"
+    },
+    {
+      "text": "Gilad Edelman",
+      "url": "/author/gilad-edelman"
+    },
+    {
+      "text": "",
+      "url": "/story/sims-4-high-school-demonschool-persona"
+    },
+    {
+      "text": "The Agony and Ecstasy of Playing Out Your School Years in Games",
+      "url": "/story/sims-4-high-school-demonschool-persona"
+    },
+    {
+      "text": "Megan Farokhmanesh",
+      "url": "author/megan-farokhmanesh"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/geeks-guide-chris-matheson"
+    },
+    {
+      "text": "Richard Matheson Explored Loneliness Through Sci-Fi",
+      "url": "/2022/07/geeks-guide-chris-matheson"
+    },
+    {
+      "text": "Geek's Guide to the Galaxy",
+      "url": "author/geeks-guide-to-the-galaxy"
+    },
+    {
+      "text": "",
+      "url": "/story/plaintext-elon-musk-tweets"
+    },
+    {
+      "text": "Even Twitter Thinks Elon Musk's Tweets Are Out of Control",
+      "url": "/story/plaintext-elon-musk-tweets"
+    },
+    {
+      "text": "Steven Levy",
+      "url": "author/steven-levy"
+    },
+    {
+      "text": "",
+      "url": "/gallery/best-sleep-gadgets"
+    },
+    {
+      "text": "The Best Sleep Gadgets and Apps",
+      "url": "/gallery/best-sleep-gadgets"
+    },
+    {
+      "text": "Simon Hill",
+      "url": "author/simon-hill"
+    },
+    {
+      "text": "",
+      "url": "/story/emmy-nominations-severance-yellowjackets"
+    },
+    {
+      "text": "The Emmy Nominations Prove No One Knows How to Watch TV Anymore",
+      "url": "/story/emmy-nominations-severance-yellowjackets"
+    },
+    {
+      "text": "Angela Watercutter",
+      "url": "author/angela-watercutter"
+    },
+    {
+      "text": "",
+      "url": "https://www.wired.com/story/the-pandemic-fueled-a-superbug-surge-can-medicine-recover#intcid=_wired-verso-hp-trending_6a892cd0-ab84-4f20-be5f-890966b82ded_popular4-1"
+    },
+    {
+      "text": "The Pandemic Fueled a Superbug Surge. Can Medicine Recover?",
+      "url": "https://www.wired.com/story/the-pandemic-fueled-a-superbug-surge-can-medicine-recover#intcid=_wired-verso-hp-trending_6a892cd0-ab84-4f20-be5f-890966b82ded_popular4-1"
+    },
+    {
+      "text": "",
+      "url": "https://www.wired.com/story/web-deanonymization-side-channel-attack-njit#intcid=_wired-verso-hp-trending_6a892cd0-ab84-4f20-be5f-890966b82ded_popular4-1"
+    },
+    {
+      "text": "A New Attack Can Unmask Anonymous Users on Any Major Browser",
+      "url": "https://www.wired.com/story/web-deanonymization-side-channel-attack-njit#intcid=_wired-verso-hp-trending_6a892cd0-ab84-4f20-be5f-890966b82ded_popular4-1"
+    },
+    {
+      "text": "",
+      "url": "https://www.wired.com/story/texas-precarious-power-grid-exposes-a-nasty-feedback-loop#intcid=_wired-verso-hp-trending_6a892cd0-ab84-4f20-be5f-890966b82ded_popular4-1"
+    },
+    {
+      "text": "Texas\u2019 Precarious Power Grid Exposes a Nasty Feedback Loop",
+      "url": "https://www.wired.com/story/texas-precarious-power-grid-exposes-a-nasty-feedback-loop#intcid=_wired-verso-hp-trending_6a892cd0-ab84-4f20-be5f-890966b82ded_popular4-1"
+    },
+    {
+      "text": "",
+      "url": "https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery#intcid=_wired-verso-hp-trending_6a892cd0-ab84-4f20-be5f-890966b82ded_popular4-1"
+    },
+    {
+      "text": "The Speedy Downfall of Rapid Delivery Startups",
+      "url": "https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery#intcid=_wired-verso-hp-trending_6a892cd0-ab84-4f20-be5f-890966b82ded_popular4-1"
+    },
+    {
+      "text": "Longreads",
+      "url": "https://www.wired.com/category/backchannel/"
+    },
+    {
+      "text": "",
       "url": "/story/meet-the-lobbyist-next-door/"
     },
     {
@@ -1608,135 +1866,11 @@
     },
     {
       "text": "",
-      "url": "/story/the-pandemic-fueled-a-superbug-surge-can-medicine-recover/"
-    },
-    {
-      "text": "The Pandemic Fueled a Superbug Surge. Can Medicine Recover?",
-      "url": "/story/the-pandemic-fueled-a-superbug-surge-can-medicine-recover/"
-    },
-    {
-      "text": "Maryn McKenna",
-      "url": "/author/maryn-mckenna"
-    },
-    {
-      "text": "",
-      "url": "/story/web-deanonymization-side-channel-attack-njit/"
-    },
-    {
-      "text": "A New Attack Can Unmask Anonymous Users on Any Major Browser",
-      "url": "/story/web-deanonymization-side-channel-attack-njit/"
-    },
-    {
-      "text": "Lily Hay Newman",
-      "url": "/author/lily-hay-newman"
-    },
-    {
-      "text": "",
-      "url": "/story/best-amazon-prime-day-leftover-deals-2022"
-    },
-    {
-      "text": "Prime Day Has Ended, but These 66 Great Deals Are Going Strong",
-      "url": "/story/best-amazon-prime-day-leftover-deals-2022"
-    },
-    {
-      "text": "Scott Gilbertson",
-      "url": "author/scott-gilbertson"
-    },
-    {
-      "text": "",
-      "url": "/story/camera-photo-and-video-lighting-buying-guide"
-    },
-    {
-      "text": "Light Your Photos and Videos Properly With This Camera Gear",
-      "url": "/story/camera-photo-and-video-lighting-buying-guide"
-    },
-    {
-      "text": "Stinson Carter",
-      "url": "author/stinson-carter"
-    },
-    {
-      "text": "",
-      "url": "/story/how-to-light-photos-and-videos-expert-advice"
-    },
-    {
-      "text": "How to Light Your Photos and Videos Like a Pro",
-      "url": "/story/how-to-light-photos-and-videos-expert-advice"
-    },
-    {
-      "text": "Stinson Carter",
-      "url": "author/stinson-carter"
-    },
-    {
-      "text": "",
-      "url": "/story/health-business-deprivation-technology"
-    },
-    {
-      "text": "The \u2018Shamanification\u2019 of the Tech CEO",
-      "url": "/story/health-business-deprivation-technology"
-    },
-    {
-      "text": "Manvir Singh",
-      "url": "author/manvir-singh"
-    },
-    {
-      "text": "",
-      "url": "/story/gadget-lab-podcast-557"
-    },
-    {
-      "text": "What Happens Next for Vaping",
-      "url": "/story/gadget-lab-podcast-557"
-    },
-    {
-      "text": "WIRED Staff",
-      "url": "author/wired-staff"
-    },
-    {
-      "text": "",
-      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2022-2#intcid=_wired-verso-hp-trending_dfbafac3-7c43-488c-853d-f2f548680eb6_popular4-1"
-    },
-    {
-      "text": "The 79 Best Prime Day Deals Under $50 (Day 2)",
-      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2022-2#intcid=_wired-verso-hp-trending_dfbafac3-7c43-488c-853d-f2f548680eb6_popular4-1"
-    },
-    {
-      "text": "",
-      "url": "https://www.wired.com/story/best-prime-day-deals-2022-6#intcid=_wired-verso-hp-trending_dfbafac3-7c43-488c-853d-f2f548680eb6_popular4-1"
-    },
-    {
-      "text": "The 92 Absolute Best Prime Day Deals We've Found (Day 2)",
-      "url": "https://www.wired.com/story/best-prime-day-deals-2022-6#intcid=_wired-verso-hp-trending_dfbafac3-7c43-488c-853d-f2f548680eb6_popular4-1"
-    },
-    {
-      "text": "",
-      "url": "https://www.wired.com/story/star-wars-movies-ranked#intcid=_wired-verso-hp-trending_dfbafac3-7c43-488c-853d-f2f548680eb6_popular4-1"
-    },
-    {
-      "text": "The First\u2014and Last\u2014Time We Rank the Star Wars Movies",
-      "url": "https://www.wired.com/story/star-wars-movies-ranked#intcid=_wired-verso-hp-trending_dfbafac3-7c43-488c-853d-f2f548680eb6_popular4-1"
-    },
-    {
-      "text": "",
-      "url": "https://www.wired.com/story/web-deanonymization-side-channel-attack-njit#intcid=_wired-verso-hp-trending_dfbafac3-7c43-488c-853d-f2f548680eb6_popular4-1"
-    },
-    {
-      "text": "A New Attack Can Unmask Anonymous Users on Any Major Browser",
-      "url": "https://www.wired.com/story/web-deanonymization-side-channel-attack-njit#intcid=_wired-verso-hp-trending_dfbafac3-7c43-488c-853d-f2f548680eb6_popular4-1"
-    },
-    {
-      "text": "Longreads",
-      "url": "https://www.wired.com/category/backchannel/"
-    },
-    {
-      "text": "",
       "url": "/story/david-wengrow-dawn-of-everything/"
     },
     {
       "text": "Humans Have Always Been Wrong About Humans",
       "url": "/story/david-wengrow-dawn-of-everything/"
-    },
-    {
-      "text": "Virginia Heffernan",
-      "url": "/author/virginia-heffernan"
     },
     {
       "text": "",
@@ -1763,20 +1897,16 @@
       "url": "/story/can-democracy-include-a-world-beyond-humans/"
     },
     {
-      "text": "",
-      "url": "/story/provincetown-covid-delta-outbreak-response/"
-    },
-    {
-      "text": "When Covid Came for Provincetown",
-      "url": "/story/provincetown-covid-delta-outbreak-response/"
-    },
-    {
       "text": "Business",
       "url": "https://www.wired.com/category/business/"
     },
     {
       "text": "",
-      "url": "/story/twitters-case-in-india-could-have-massive-ripple-effects"
+      "url": "/story/flying-ferry-stockholm"
+    },
+    {
+      "text": "Is It a Bird? Is It a Plane? No, It\u2019s a Flying Ferry",
+      "url": "/story/flying-ferry-stockholm"
     },
     {
       "text": "Twitter\u2019s Case in India Could Have Massive Ripple Effects",
@@ -1785,10 +1915,6 @@
     {
       "text": "How Might Your Data Be Used to Pin Charges on You?",
       "url": "/story/how-might-your-data-be-used-against-you"
-    },
-    {
-      "text": "As Elon Musk Walks, Twitter Workers Say No One\u2019s in Charge",
-      "url": "/story/as-elon-musk-walks-twitter-workers-say-no-ones-in-charge"
     },
     {
       "text": "Culture",
@@ -1816,19 +1942,19 @@
     },
     {
       "text": "",
-      "url": "/story/coffee-gear-deals-prime-day-2"
+      "url": "/story/how-to-light-photos-and-videos-expert-advice"
     },
     {
-      "text": "15 Prime Day Deals on Coffee Gear, Subscriptions, and More",
-      "url": "/story/coffee-gear-deals-prime-day-2"
+      "text": "How to Light Your Photos and Videos Like a Pro",
+      "url": "/story/how-to-light-photos-and-videos-expert-advice"
     },
     {
-      "text": "The 66 Best Prime Day Deals if You Work From Home (Day 2)",
-      "url": "/story/best-amazon-prime-day-home-office-laptop-deals-2022-4"
+      "text": "What Happens Next for Vaping",
+      "url": "/story/gadget-lab-podcast-557"
     },
     {
-      "text": "The 79 Best Prime Day Deals Under $50 (Day 2)",
-      "url": "/story/best-amazon-prime-day-deals-under-50-2022-3"
+      "text": "The 53 Best Kitchen and Home Deals for Prime Day",
+      "url": "/story/best-amazon-prime-day-smart-home-kitchen-deals-2022-3"
     },
     {
       "text": "Ideas",
@@ -1836,7 +1962,11 @@
     },
     {
       "text": "",
-      "url": "/story/race-germany-covid-19"
+      "url": "/story/health-business-deprivation-technology"
+    },
+    {
+      "text": "The \u2018Shamanification\u2019 of the Tech CEO",
+      "url": "/story/health-business-deprivation-technology"
     },
     {
       "text": "What Germany's Lack of Race Data Means During a Pandemic",
@@ -1847,16 +1977,16 @@
       "url": "/story/social-media-content-property"
     },
     {
-      "text": "\u2018Clean Slate\u2019 Justice Laws Offer a Second Chance\u2014Only to Some",
-      "url": "/story/clean-slate-law-race"
-    },
-    {
       "text": "Science",
       "url": "https://www.wired.com/category/science/"
     },
     {
       "text": "",
-      "url": "/story/turkey-rare-earth-metals"
+      "url": "/story/can-reengineered-aluminum-help-fill-the-demand-for-copper"
+    },
+    {
+      "text": "Can Reengineered Aluminum Help Fill the Demand for Copper?",
+      "url": "/story/can-reengineered-aluminum-help-fill-the-demand-for-copper"
     },
     {
       "text": "Turkey Probably Hasn\u2019t Found the Rare Earth Metals It Says It Has",
@@ -1867,16 +1997,16 @@
       "url": "/story/what-humans-can-learn-from-the-sea-cucumbers-toxic-arsenal"
     },
     {
-      "text": "The James Webb Telescope's First Photos Show Its Extraordinary Power",
-      "url": "/story/the-james-webb-telescopes-first-photos-show-its-extraordinary-power"
-    },
-    {
       "text": "Security",
       "url": "https://www.wired.com/category/security/"
     },
     {
       "text": "",
-      "url": "/story/retbleed-intel-amd-cpu-attack"
+      "url": "/story/web-deanonymization-side-channel-attack-njit"
+    },
+    {
+      "text": "A New Attack Can Unmask Anonymous Users on Any Major Browser",
+      "url": "/story/web-deanonymization-side-channel-attack-njit"
     },
     {
       "text": "New \u2018Retbleed\u2019 Attack Can Swipe Key Data From Intel and AMD CPUs",
@@ -1885,10 +2015,6 @@
     {
       "text": "A Privacy Panic Flares Up in India After Police Pull Payment Data",
       "url": "/story/police-pull-indian-payments-data"
-    },
-    {
-      "text": "The January 6 Insurrection Hearings Are Just Heating Up",
-      "url": "/story/january-6-insurrection-hearings-heating-up"
     },
     {
       "text": "Artificial Intelligence",
@@ -1916,7 +2042,11 @@
     },
     {
       "text": "",
-      "url": "/story/the-secrets-of-covid-brain-fog-are-starting-to-lift"
+      "url": "/story/the-pandemic-fueled-a-superbug-surge-can-medicine-recover"
+    },
+    {
+      "text": "The Pandemic Fueled a Superbug Surge. Can Medicine Recover?",
+      "url": "/story/the-pandemic-fueled-a-superbug-surge-can-medicine-recover"
     },
     {
       "text": "The Secrets of Covid \u2018Brain Fog\u2019 Are Starting to Lift",
@@ -1927,16 +2057,16 @@
       "url": "/story/covid-19-data-switch"
     },
     {
-      "text": "Covid Shots for Little Kids Are Finally Here. Now for the Hardest Part",
-      "url": "/story/covid-19-vaccine-little-kids-delivery"
-    },
-    {
       "text": "Games",
       "url": "https://www.wired.com/tag/video-games/"
     },
     {
       "text": "",
-      "url": "/story/amazon-prime-day-2022-video-game-gear-deals-1"
+      "url": "/story/f1-22-consummerism"
+    },
+    {
+      "text": "F1 22 Perfectly Simulates the Morality Vacuum of Formula 1",
+      "url": "/story/f1-22-consummerism"
     },
     {
       "text": "15 Great Deals on Gaming Gear for Prime Day",
@@ -1945,10 +2075,6 @@
     {
       "text": "How I Accidentally Broke My Doomscrolling Habit",
       "url": "/story/stop-doomscrolling-with-mobile-games"
-    },
-    {
-      "text": "How to Get Into Voice Acting for Video Games",
-      "url": "/story/how-to-video-game-voice-acting-tips"
     },
     {
       "text": "Climate",
@@ -2139,6 +2265,10 @@
       "url": "https://www.wired.com/video/watch/wired-news-and-science-nuro-car"
     },
     {
+      "text": "1 Year of WIRED for $29.99 $10\n        Get WIRED\n      Subscribe",
+      "url": "https://subscribe.wired.com/subscribe/wired/145192?source=JNY_WIR_GLOBAL_CM_FOOTER_0_2022_ALLSITE_CTRL_FREE_PAY_TEST_ZZ_PANELA"
+    },
+    {
       "text": "",
       "url": "/"
     },
@@ -2245,10 +2375,50 @@
     {
       "text": "Ad Choices",
       "url": "http://www.condenast.com/privacy-policy#privacypolicy-optout"
+    },
+    {
+      "text": "close dialog",
+      "url": "javascript:void(0)"
+    },
+    {
+      "text": "user agreement",
+      "url": "https://www.condenast.com/user-agreement"
+    },
+    {
+      "text": " class action waiver and arbitration provisions",
+      "url": "https://www.condenast.com/user-agreement#section-viii-g"
+    },
+    {
+      "text": "privacy policy and cookie statement",
+      "url": "https://www.condenast.com/privacy-policy"
+    },
+    {
+      "text": "user agreement",
+      "url": "https://www.condenast.com/user-agreement"
+    },
+    {
+      "text": " class action waiver and arbitration provisions",
+      "url": "https://www.condenast.com/user-agreement#section-viii-g"
+    },
+    {
+      "text": "privacy policy and cookie statement",
+      "url": "https://www.condenast.com/privacy-policy"
+    },
+    {
+      "text": "Unlock my offer",
+      "url": "https://subscribe.wired.com/subscribe/splits/wired/WIR_BX_redirect?source=BCX_WIR_NEWSLETTER_CAPTURE_MULTIPAGE_0_2022_ZZ"
+    },
+    {
+      "text": "",
+      "url": ""
+    },
+    {
+      "text": "close dialog",
+      "url": "javascript:void(0)"
     }
   ],
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

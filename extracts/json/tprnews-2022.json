@@ -1,5 +1,5 @@
 {
-  "created": 1657887517,
+  "created": 1657973927,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/16/items/tprnews-2022",
@@ -940,31 +940,115 @@
       "sha1": "b6495d4fdfa4b6829042f7308e3555c678dec288"
     },
     {
+      "name": "tprnews-2022-07-15T11:11:16.942764-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901482",
+      "size": "22626",
+      "md5": "a6c1e41404e2d17ba70b77c1afde2952",
+      "crc32": "ff62273c",
+      "sha1": "e8d539b92f1d56377cf8fd459de21c9ae38b1d1c",
+      "format": "JSON"
+    },
+    {
+      "name": "tprnews-2022-07-15T11:11:16.942764-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901487",
+      "size": "49346",
+      "md5": "1d58a17a26b7fe794cce2d68ccacd9e2",
+      "crc32": "e957a96f",
+      "sha1": "7cce71f9b206a677dc538c64b2ae272b2d257617",
+      "format": "JSON"
+    },
+    {
+      "name": "tprnews-2022-07-15T11:11:16.942764-05:00.jpg",
+      "source": "original",
+      "mtime": "1657901479",
+      "size": "239720",
+      "md5": "38b1da1ec013fcef3d487ea04625d40e",
+      "crc32": "7ea1fec8",
+      "sha1": "cc7365ea221ca3805dfeb5f24b4693a01c66e4bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tprnews-2022-07-15T11:11:16.942764-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tprnews-2022-07-15T11:11:16.942764-05:00.jpg",
+      "mtime": "1657907277",
+      "size": "9287",
+      "md5": "0eb7002e781c4d64a5628d192f7b5bf3",
+      "crc32": "98129c05",
+      "sha1": "a5c280267074bda87a55bfcd8c6e61cf88ee6013"
+    },
+    {
+      "name": "tprnews-2022-07-15T23:05:44.902232-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657944349",
+      "size": "22869",
+      "md5": "b3962503aca43e10e964db8b587ac23f",
+      "crc32": "07c0df27",
+      "sha1": "8af3d3e5b5b313431a6208064c916d42147e604e",
+      "format": "JSON"
+    },
+    {
+      "name": "tprnews-2022-07-15T23:05:44.902232-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657944351",
+      "size": "49447",
+      "md5": "7b4828096a60cd19dae70ad7102e8227",
+      "crc32": "d801e9e4",
+      "sha1": "4ae50bb3a524993ef398a0fa1d04a72ae4dd3418",
+      "format": "JSON"
+    },
+    {
+      "name": "tprnews-2022-07-15T23:05:44.902232-05:00.jpg",
+      "source": "original",
+      "mtime": "1657944347",
+      "size": "244957",
+      "md5": "51e97ea87aae4266bdf1642cebefb260",
+      "crc32": "8eef08a5",
+      "sha1": "1239707dc90ed89dc1ae80d1afb56e3cda810ebe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tprnews-2022-07-15T23:05:44.902232-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tprnews-2022-07-15T23:05:44.902232-05:00.jpg",
+      "mtime": "1657946910",
+      "size": "9556",
+      "md5": "8635990675b18379bb4d892337f78e7e",
+      "crc32": "c5d45ce8",
+      "sha1": "3c5b7d567fe02eec09afc447028158a99bb101f9"
+    },
+    {
       "name": "tprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88c9885a0eb7eee80a1a3b78193cad3e575dd814",
-      "mtime": "1657858846",
-      "size": "20049",
-      "md5": "14e08bf83b5e7b33b528f5d991843185",
-      "crc32": "721514af",
-      "sha1": "616cab15bf80ca256b196ee7cbec9282b0467d29",
+      "btih": "4c56e2fbae0cf8edf753f05203199f207959c362",
+      "mtime": "1657946920",
+      "size": "21739",
+      "md5": "f15364e551842802065f3448f3b44586",
+      "crc32": "38a50d98",
+      "sha1": "4f1873417c4203d0224f0b914540406fef838c9c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d03f607e7388449feb09e14120f0e6d9",
+      "md5": "0192a5942cd4fa42a503d1e82ccacf8b",
       "summation": "md5"
     },
     {
       "name": "tprnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657858800",
-      "size": "118784",
-      "md5": "27a574576af0c480e24daa850d22ce28",
-      "crc32": "eb3a63f6",
-      "sha1": "210e24ec12b39a738e40814ba6e09b6b162a2074",
+      "mtime": "1657944354",
+      "size": "135168",
+      "md5": "23705e703fad5a99734c95c5cd510b64",
+      "crc32": "a1b427ee",
+      "sha1": "616d6579f30e37a3f31de8e2756cba124deec339",
       "format": "Metadata"
     },
     {
@@ -978,9 +1062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 93,
-  "item_last_updated": 1657858846,
-  "item_size": 7751062,
+  "files_count": 101,
+  "item_last_updated": 1657946920,
+  "item_size": 8416944,
   "metadata": {
     "identifier": "tprnews-2022",
     "collection": [
@@ -997,7 +1081,7 @@
     "publicdate": "2022-07-04 21:47:12",
     "addeddate": "2022-07-04 21:47:12"
   },
-  "server": "ia601503.us.archive.org",
+  "server": "ia801503.us.archive.org",
   "tprnews-2022": [
     {
       "text": "\n    \n        \n            \n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n\n        \n    \n    ",
@@ -2209,67 +2293,75 @@
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/san-antonio/covid-19-tracker"
-    },
-    {
-      "text": "News",
-      "url": "https://www.tpr.org/news"
-    },
-    {
-      "text": "7-day moving average of coronavirus cases hits 1,000s for 1st time since February ",
-      "url": "https://www.tpr.org/san-antonio/covid-19-tracker"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/environment/2022-07-14/wildfires-burn-west-of-san-antonio-aquifer-dips-toward-stage-4-water-restrictions"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.tpr.org/environment"
-    },
-    {
-      "text": "Wildfires burn west of San Antonio, aquifer dips toward stage 4 water restrictions",
-      "url": "https://www.tpr.org/environment/2022-07-14/wildfires-burn-west-of-san-antonio-aquifer-dips-toward-stage-4-water-restrictions"
-    },
-    {
-      "text": "Brian Kirkpatrick",
-      "url": "https://www.tpr.org/people/brian-kirkpatrick"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/2022-07-14/2-cases-of-monkeypox-identified-in-san-antonio"
+      "url": "https://www.tpr.org/bioscience-medicine/2022-07-15/home-testing-makes-predicting-new-covid-waves-in-texas-challenging"
     },
     {
       "text": "Bioscience-Medicine",
       "url": "https://www.tpr.org/bioscience-medicine"
     },
     {
-      "text": "2 cases of monkeypox identified in San Antonio",
-      "url": "https://www.tpr.org/2022-07-14/2-cases-of-monkeypox-identified-in-san-antonio"
+      "text": "Home testing makes predicting new COVID waves in Texas challenging",
+      "url": "https://www.tpr.org/bioscience-medicine/2022-07-15/home-testing-makes-predicting-new-covid-waves-in-texas-challenging"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/news/2022-07-14/ivana-trump-first-wife-of-donald-trump-is-dead-at-73"
+      "url": "https://www.tpr.org/border-immigration/2022-07-15/mexico-captures-an-infamous-drug-lord-who-killed-a-dea-agent"
     },
     {
-      "text": "News",
-      "url": "https://www.tpr.org/news"
+      "text": "Border & Immigration",
+      "url": "https://www.tpr.org/border-immigration"
     },
     {
-      "text": "Ivana Trump, first wife of Donald Trump, is dead at 73",
-      "url": "https://www.tpr.org/news/2022-07-14/ivana-trump-first-wife-of-donald-trump-is-dead-at-73"
+      "text": "Mexico captures an infamous drug lord who killed a DEA agent",
+      "url": "https://www.tpr.org/border-immigration/2022-07-15/mexico-captures-an-infamous-drug-lord-who-killed-a-dea-agent"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/government-politics/2022-07-14/texas-sues-after-biden-administration-issues-guidance-saying-doctors-can-perform-abortions-in-emerge"
+      "url": "https://www.tpr.org/government-politics/2022-07-15/gov-abbotts-campaign-eyes-the-vote-of-people-of-color-in-texas"
     },
     {
       "text": "Government/Politics",
       "url": "https://www.tpr.org/government-politics"
     },
     {
-      "text": "Texas sues after Biden administration issues guidance saying doctors can perform abortions in emergencies",
-      "url": "https://www.tpr.org/government-politics/2022-07-14/texas-sues-after-biden-administration-issues-guidance-saying-doctors-can-perform-abortions-in-emerge"
+      "text": "Gov. Abbott\u2019s campaign eyes the vote of people of color in Texas",
+      "url": "https://www.tpr.org/government-politics/2022-07-15/gov-abbotts-campaign-eyes-the-vote-of-people-of-color-in-texas"
+    },
+    {
+      "text": "Sergio Mart\u00ednez-Beltr\u00e1n",
+      "url": "https://www.tpr.org/people/sergio-martinez-beltran"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.tpr.org/government-politics/2022-07-15/texas-dems-want-to-flip-the-state-their-strategy-is-to-focus-on-local-races"
+    },
+    {
+      "text": "Government/Politics",
+      "url": "https://www.tpr.org/government-politics"
+    },
+    {
+      "text": "Texas Dems want to flip the state. Their strategy is to focus on local races. ",
+      "url": "https://www.tpr.org/government-politics/2022-07-15/texas-dems-want-to-flip-the-state-their-strategy-is-to-focus-on-local-races"
+    },
+    {
+      "text": "Sergio Mart\u00ednez-Beltr\u00e1n",
+      "url": "https://www.tpr.org/people/sergio-martinez-beltran"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.tpr.org/podcast/fronteras/2022-07-15/fronteras-latino-involvement-in-clinical-trials-involves-overcoming-cultural-physical-and-institutional-barriers"
+    },
+    {
+      "text": "Public Health",
+      "url": "https://www.tpr.org/public-health"
+    },
+    {
+      "text": "Fronteras: Latino involvement in clinical trials involves overcoming cultural, physical and institutional barriers",
+      "url": "https://www.tpr.org/podcast/fronteras/2022-07-15/fronteras-latino-involvement-in-clinical-trials-involves-overcoming-cultural-physical-and-institutional-barriers"
+    },
+    {
+      "text": "Norma Martinez",
+      "url": "https://www.tpr.org/people/norma-martinez"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n\n    \n    \n\n\n",
@@ -2381,19 +2473,19 @@
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.tpr.org/government-politics/2022-07-14/texas-sues-after-biden-administration-issues-guidance-saying-doctors-can-perform-abortions-in-emerge"
+    },
+    {
+      "text": "Texas sues after Biden administration issues guidance saying doctors can perform abortions in emergencies",
+      "url": "https://www.tpr.org/government-politics/2022-07-14/texas-sues-after-biden-administration-issues-guidance-saying-doctors-can-perform-abortions-in-emerge"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
       "url": "https://www.tpr.org/news/2022-07-14/some-uvalde-families-turn-their-grief-and-anger-into-activism-for-gun-control"
     },
     {
       "text": "Some Uvalde families turn their grief and anger into activism for gun control",
       "url": "https://www.tpr.org/news/2022-07-14/some-uvalde-families-turn-their-grief-and-anger-into-activism-for-gun-control"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/government-politics/2022-07-14/texas-democrats-to-kick-off-2022-convention"
-    },
-    {
-      "text": "Texas Democrats to kick off 2022 convention",
-      "url": "https://www.tpr.org/government-politics/2022-07-14/texas-democrats-to-kick-off-2022-convention"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
@@ -2429,35 +2521,35 @@
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/bioscience-medicine/2022-07-13/pharmacies-may-violate-civil-rights-if-they-refuse-meds-linked-to-abortion-feds-warn"
+      "url": "https://www.tpr.org/podcast/texas-matters/2022-07-15/texas-matters-climate-change-is-right-here-right-now"
     },
     {
-      "text": "Pharmacies may violate civil rights if they refuse meds linked to abortion, feds warn",
-      "url": "https://www.tpr.org/bioscience-medicine/2022-07-13/pharmacies-may-violate-civil-rights-if-they-refuse-meds-linked-to-abortion-feds-warn"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/podcast/texas-matters/2022-07-01/texas-matters-diagnosis-diabetes"
-    },
-    {
-      "text": "Texas Matters: Diagnosis Diabetes ",
-      "url": "https://www.tpr.org/podcast/texas-matters/2022-07-01/texas-matters-diagnosis-diabetes"
+      "text": "Texas Matters: Climate change is right here, right now",
+      "url": "https://www.tpr.org/podcast/texas-matters/2022-07-15/texas-matters-climate-change-is-right-here-right-now"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/environment/2022-07-13/ercot-again-asks-texans-to-conserve-power-as-energy-supply-tightens"
+      "url": "https://www.tpr.org/san-antonio/covid-19-tracker"
     },
     {
-      "text": "ERCOT again asks Texans to conserve power as energy supply tightens",
-      "url": "https://www.tpr.org/environment/2022-07-13/ercot-again-asks-texans-to-conserve-power-as-energy-supply-tightens"
+      "text": "7-day moving average of coronavirus cases hits 1,000s for 1st time since February ",
+      "url": "https://www.tpr.org/san-antonio/covid-19-tracker"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/environment/2022-07-12/cps-energy-says-they-have-enough-energy-for-the-remainder-of-the-summer"
+      "url": "https://www.tpr.org/environment/2022-07-15/ozone-pollution-standards-may-pit-texas-against-epa"
     },
     {
-      "text": "CPS Energy says they have enough energy for the remainder of the summer",
-      "url": "https://www.tpr.org/environment/2022-07-12/cps-energy-says-they-have-enough-energy-for-the-remainder-of-the-summer"
+      "text": "Ozone pollution standards may pit Texas against EPA",
+      "url": "https://www.tpr.org/environment/2022-07-15/ozone-pollution-standards-may-pit-texas-against-epa"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.tpr.org/environment/2022-07-14/wildfires-burn-west-of-san-antonio-aquifer-dips-toward-stage-4-water-restrictions"
+    },
+    {
+      "text": "Wildfires burn west of San Antonio, aquifer dips toward stage 4 water restrictions",
+      "url": "https://www.tpr.org/environment/2022-07-14/wildfires-burn-west-of-san-antonio-aquifer-dips-toward-stage-4-water-restrictions"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
@@ -2477,19 +2569,19 @@
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.tpr.org/2022-07-15/when-it-comes-to-data-on-your-phone-deleting-a-text-isnt-the-end-of-the-story"
+    },
+    {
+      "text": "When it comes to data on your phone, deleting a text isn't the end of the story",
+      "url": "https://www.tpr.org/2022-07-15/when-it-comes-to-data-on-your-phone-deleting-a-text-isnt-the-end-of-the-story"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
       "url": "https://www.tpr.org/technology-entrepreneurship/2022-07-11/privacy-advocates-fear-google-will-be-used-to-prosecute-abortion-seekers"
     },
     {
       "text": "Privacy advocates fear Google will be used to prosecute abortion seekers",
       "url": "https://www.tpr.org/technology-entrepreneurship/2022-07-11/privacy-advocates-fear-google-will-be-used-to-prosecute-abortion-seekers"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/technology-entrepreneurship/2022-07-08/elon-musk-wants-out-of-the-twitter-deal-it-could-end-up-costing-at-least-1-billion"
-    },
-    {
-      "text": "Elon Musk wants out of the Twitter deal. It could end up costing at least $1 billion",
-      "url": "https://www.tpr.org/technology-entrepreneurship/2022-07-08/elon-musk-wants-out-of-the-twitter-deal-it-could-end-up-costing-at-least-1-billion"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
@@ -2509,39 +2601,39 @@
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/arts-culture/2022-07-14/remembering-richard-taruskin-a-writer-who-made-you-care-about-1-000-years-of-music"
+      "url": "https://www.tpr.org/arts-culture/2022-07-15/whats-making-us-happy-a-guide-to-your-weekend-listening-and-viewing"
     },
     {
-      "text": "Remembering Richard Taruskin, a writer who made you care about 1,000 years of music",
-      "url": "https://www.tpr.org/arts-culture/2022-07-14/remembering-richard-taruskin-a-writer-who-made-you-care-about-1-000-years-of-music"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/arts-culture/2022-07-13/austin-based-music-group-celebrates-ukrainian-spirit-with-live-score-of-classic-silent-film"
-    },
-    {
-      "text": "Austin-based music group celebrates Ukrainian spirit with live score of classic silent film",
-      "url": "https://www.tpr.org/arts-culture/2022-07-13/austin-based-music-group-celebrates-ukrainian-spirit-with-live-score-of-classic-silent-film"
+      "text": "What's making us happy: A guide to your weekend listening and viewing",
+      "url": "https://www.tpr.org/arts-culture/2022-07-15/whats-making-us-happy-a-guide-to-your-weekend-listening-and-viewing"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.tpr.org/tpr-noticias/2022-07-14/algunas-familias-de-uvalde-convierten-su-dolor-y-enojo-en-activismo-a-favor-del-control-de-las-armas"
+      "url": "https://www.tpr.org/podcast/worth-repeating/2022-07-15/surviving-disco-fever-and-other-san-antonio-stories"
     },
     {
-      "text": "Algunas familias de Uvalde convierten su dolor y enojo en activismo a favor del control de las armas",
-      "url": "https://www.tpr.org/tpr-noticias/2022-07-14/algunas-familias-de-uvalde-convierten-su-dolor-y-enojo-en-activismo-a-favor-del-control-de-las-armas"
+      "text": "Surviving Disco Fever, And Other San Antonio Stories",
+      "url": "https://www.tpr.org/podcast/worth-repeating/2022-07-15/surviving-disco-fever-and-other-san-antonio-stories"
     },
     {
-      "text": "ERCOT vuelve a pedir a los tejanos que conserven la electricidad a medida que se reduce el suministr",
-      "url": "https://www.tpr.org/tpr-noticias/2022-07-14/ercot-vuelve-a-pedir-a-los-tejanos-que-conserven-la-electricidad-a-medida-que-se-reduce-el-suministr"
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.tpr.org/2022-07-15/tops-grocery-store-in-buffalo-reopens-to-mixed-reactions-after-mass-shooting"
     },
     {
-      "text": "C\u00f3mo activistas mexicanas est\u00e1n brindando medicamentos para abortos a las tejanas",
-      "url": "https://www.tpr.org/tpr-noticias/2022-07-14/como-activistas-mexicanas-estan-brindando-medicamentos-para-abortos-a-las-tejanas"
+      "text": "Tops grocery store in Buffalo reopens to mixed reactions after mass shooting",
+      "url": "https://www.tpr.org/2022-07-15/tops-grocery-store-in-buffalo-reopens-to-mixed-reactions-after-mass-shooting"
     },
     {
-      "text": "Secret Service erased Jan. 6 texts after officials requested them, watchdog says",
-      "url": "https://www.tpr.org/2022-07-14/secret-service-erased-jan-6-texts-after-officials-requested-them-watchdog-says"
+      "text": "President Biden meets with the Saudi royal family in a politically fraught gathering",
+      "url": "https://www.tpr.org/2022-07-15/president-biden-meets-with-the-saudi-royal-family-in-a-politically-fraught-gathering"
+    },
+    {
+      "text": "Sen. Joe Manchin pulled the plug on major spending to address climate change",
+      "url": "https://www.tpr.org/2022-07-15/sen-joe-manchin-pulled-the-plug-on-major-spending-to-address-climate-change"
+    },
+    {
+      "text": "The lowrider community wants all of California to join San Jose and end cruising bans",
+      "url": "https://www.tpr.org/2022-07-15/the-lowrider-community-wants-all-of-california-to-join-san-jose-and-end-cruising-bans"
     },
     {
       "text": "twitter",
@@ -2612,9 +2704,9 @@
       "url": "https://prx.org/"
     }
   ],
-  "uniq": 562945017,
+  "uniq": 1707663065,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }

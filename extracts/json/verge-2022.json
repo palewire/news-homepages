@@ -1,5 +1,5 @@
 {
-  "created": 1657858933,
+  "created": 1657973941,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/verge-2022",
@@ -2862,31 +2862,157 @@
       "sha1": "84349cf5ac9b00ca382992785c67ea6339fe1d56"
     },
     {
+      "name": "verge-2022-07-15T12:11:38.860720-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901505",
+      "size": "37637",
+      "md5": "463f07734e5f7d28d01393bc6771c5d8",
+      "crc32": "31e674c3",
+      "sha1": "e2dfac60e7f3d386c92b8fb2e9785e4b2d6be402",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-07-15T12:11:38.860720-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901508",
+      "size": "57325",
+      "md5": "434da164678f4d1fa4f98233c80d61a2",
+      "crc32": "ac5a83ad",
+      "sha1": "5ce9437a1f73caa57696aab4dabdb9bff526edeb",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-07-15T12:11:38.860720-04:00.jpg",
+      "source": "original",
+      "mtime": "1657901501",
+      "size": "338094",
+      "md5": "5ab5267b14e2d87116bfcf55c70c6c52",
+      "crc32": "c5138aa9",
+      "sha1": "f2c13c14b008de3c13e5501f583f2d6a5ecd1a79",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "verge-2022-07-15T12:11:38.860720-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verge-2022-07-15T12:11:38.860720-04:00.jpg",
+      "mtime": "1657907418",
+      "size": "12497",
+      "md5": "862837f3f59cc4ef2220cd65618bea15",
+      "crc32": "cb1bb533",
+      "sha1": "25f44a764f93a80f7e63b696151a2e41e8ad2df8"
+    },
+    {
+      "name": "verge-2022-07-15T14:21:17.370055-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657909282",
+      "size": "37326",
+      "md5": "febedc91337ae55b63e256d73d9d6667",
+      "crc32": "b35fc650",
+      "sha1": "b2a2f337f87bab8445216eb00843488e0d0a3bc7",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-07-15T14:21:17.370055-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657909285",
+      "size": "56477",
+      "md5": "1c9fbaf8011f802a62b7fab9f82e65b2",
+      "crc32": "d0f690e9",
+      "sha1": "cd313da4a446dfa8aed52d929b1825e7098b3a2b",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-07-15T14:21:17.370055-04:00.jpg",
+      "source": "original",
+      "mtime": "1657909279",
+      "size": "301553",
+      "md5": "f172cf47e18555b6af87abd8db430191",
+      "crc32": "b8b30fad",
+      "sha1": "c5388deaac7ba9fa9ba13862ff72a3a6e9b92336",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "verge-2022-07-15T14:21:17.370055-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verge-2022-07-15T14:21:17.370055-04:00.jpg",
+      "mtime": "1657914122",
+      "size": "12110",
+      "md5": "259838c3521e55bfb77de19441347b01",
+      "crc32": "768cf5da",
+      "sha1": "72364b0073ee3cffa479c748686a8ec1fb23c1bb"
+    },
+    {
+      "name": "verge-2022-07-16T00:05:39.538511-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657944344",
+      "size": "38368",
+      "md5": "288aac0bfe27865fda5ce369d9134943",
+      "crc32": "fb44a51f",
+      "sha1": "3324afcdb14b578b231f382458f8ab48aabb4968",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-07-16T00:05:39.538511-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657944347",
+      "size": "58938",
+      "md5": "3118d154a25c63478c53b18b9d7c6d57",
+      "crc32": "df5c3304",
+      "sha1": "6e7f6588696c210a210d88448153158048c67490",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-07-16T00:05:39.538511-04:00.jpg",
+      "source": "original",
+      "mtime": "1657944342",
+      "size": "304830",
+      "md5": "5c6959b4c30d1a7ff8db86252a6115d0",
+      "crc32": "1d65938b",
+      "sha1": "281b79f565d6f3458065a9d5f127eab4ce2b7a64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "verge-2022-07-16T00:05:39.538511-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verge-2022-07-16T00:05:39.538511-04:00.jpg",
+      "mtime": "1657947001",
+      "size": "12114",
+      "md5": "7edeb6c8a8d788685f4cc28a9fdf8810",
+      "crc32": "71bf804e",
+      "sha1": "20c3f972401f3cdaf23a9346bbe49eef0a2486f1"
+    },
+    {
       "name": "verge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9748897c578974a2caef0de1d27870e978d36225",
-      "mtime": "1657858920",
-      "size": "58158",
-      "md5": "4c850d77e07207796f28acf747ea9e31",
-      "crc32": "50f8c147",
-      "sha1": "78168e22e05d77d0addecfb1df140c0cc883470c",
+      "btih": "41af485a04947901b70bed3bb1be4f30b1bb5a0c",
+      "mtime": "1657947013",
+      "size": "60672",
+      "md5": "0e306f5889d845f4de3af87c46624f3e",
+      "crc32": "a559bc3b",
+      "sha1": "70417fc6b7dbeebfc48e04cee063d4732c3b48cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "verge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4653c5a9100958fb8c3f2de74fc6cf1d",
+      "md5": "4cf4396143f5890528a23c1d93766510",
       "summation": "md5"
     },
     {
       "name": "verge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657858825",
-      "size": "327680",
-      "md5": "40ed13e5cde39de28539959884c1e5da",
-      "crc32": "21134307",
-      "sha1": "c58ca8564a2aeebdb7db07d48ae4b532d6213f01",
+      "mtime": "1657944415",
+      "size": "344064",
+      "md5": "4afb15b3cb20b591594883213cc8714e",
+      "crc32": "e0f1afd5",
+      "sha1": "8b31e6603feb3fe7d22b5ea51c1b8fcf7264075e",
       "format": "Metadata"
     },
     {
@@ -2900,9 +3026,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 276,
-  "item_last_updated": 1657858920,
-  "item_size": 30292114,
+  "files_count": 288,
+  "item_last_updated": 1657947013,
+  "item_size": 31578281,
   "metadata": {
     "identifier": "verge-2022",
     "collection": [
@@ -2919,10 +3045,1204 @@
     "publicdate": "2022-06-24 23:03:27",
     "addeddate": "2022-06-24 23:03:27"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 55204530,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1131423206,
+  "verge-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#content"
+    },
+    {
+      "text": "\n          The Verge homepage\n          \n  \n\n\n          \n        ",
+      "url": "/"
+    },
+    {
+      "text": "Something else",
+      "url": "https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price"
+    },
+    {
+      "text": "\n        \n          The Verge homepage\n          \n            \n  \n\n\n          \n        \n        \n          \n            \n  \n\n\n          \n        \n        \n        \n      ",
+      "url": "/"
+    },
+    {
+      "text": "\n          Follow The Verge on Facebook\n\n          \n        ",
+      "url": "https://www.facebook.com/verge"
+    },
+    {
+      "text": "\n          Follow The Verge on Twitter\n\n          \n        ",
+      "url": "https://twitter.com/verge"
+    },
+    {
+      "text": "\n          RSS feed (all stories on The Verge)\n\n          \n        ",
+      "url": "/rss/index.xml"
+    },
+    {
+      "text": "\n          Log in or sign up\n        ",
+      "url": "https://auth.voxmedia.com/login?community_id=372&return_to=https://www.theverge.com/"
+    },
+    {
+      "text": "Log In",
+      "url": "https://auth.voxmedia.com/login?community_id=372&return_to=https://www.theverge.com/"
+    },
+    {
+      "text": "Sign Up",
+      "url": "https://auth.voxmedia.com/signup?community_id=372&return_to=https://www.theverge.com/"
+    },
+    {
+      "text": "\n              Tech\n              \n                \n              \n              ",
+      "url": "/tech"
+    },
+    {
+      "text": "\n              Reviews\n              \n                \n              \n              ",
+      "url": "/reviews"
+    },
+    {
+      "text": "\n              Science\n              \n                \n              \n              ",
+      "url": "/science"
+    },
+    {
+      "text": "\n              Creators\n              \n                \n              \n              ",
+      "url": "/creators"
+    },
+    {
+      "text": "\n              Entertainment\n              \n                \n              \n              ",
+      "url": "/entertainment"
+    },
+    {
+      "text": "\n              Video\n              \n              ",
+      "url": "https://goo.gl/G5RXGs"
+    },
+    {
+      "text": "\n              Features\n              \n              ",
+      "url": "/features"
+    },
+    {
+      "text": "\n              Podcasts\n              \n              ",
+      "url": "/podcasts"
+    },
+    {
+      "text": "\n              Newsletters\n              \n              ",
+      "url": "/pages/newsletters"
+    },
+    {
+      "text": "\n              Merch Store\n              \n              ",
+      "url": "https://store.dftba.com/collections/the-verge"
+    },
+    {
+      "text": "\n            Tech\n            \n              \n            \n          ",
+      "url": "/tech"
+    },
+    {
+      "text": "\n                          Video\n                        ",
+      "url": "https://goo.gl/G5RXGs"
+    },
+    {
+      "text": "\n                          Amazon\n                        ",
+      "url": "/amazon"
+    },
+    {
+      "text": "\n                          Apple\n                        ",
+      "url": "/apple"
+    },
+    {
+      "text": "\n                          Facebook\n                        ",
+      "url": "/facebook"
+    },
+    {
+      "text": "\n                          Google\n                        ",
+      "url": "/google"
+    },
+    {
+      "text": "\n                          Microsoft\n                        ",
+      "url": "/microsoft"
+    },
+    {
+      "text": "\n                          Samsung\n                        ",
+      "url": "/samsung"
+    },
+    {
+      "text": "\n                          Tesla\n                        ",
+      "url": "/tesla-motors"
+    },
+    {
+      "text": "\n                          AI\n                        ",
+      "url": "/ai-artificial-intelligence"
+    },
+    {
+      "text": "\n                          Cars\n                        ",
+      "url": "/cars"
+    },
+    {
+      "text": "\n                          Cybersecurity\n                        ",
+      "url": "/cyber-security"
+    },
+    {
+      "text": "\n                          Mobile\n                        ",
+      "url": "/mobile"
+    },
+    {
+      "text": "\n                          Policy\n                        ",
+      "url": "/policy"
+    },
+    {
+      "text": "\n                          Privacy\n                        ",
+      "url": "/privacy"
+    },
+    {
+      "text": "\n                          Scooters\n                        ",
+      "url": "/scooters"
+    },
+    {
+      "text": "All Tech",
+      "url": "/tech"
+    },
+    {
+      "text": "\n            Reviews\n            \n              \n            \n          ",
+      "url": "/reviews"
+    },
+    {
+      "text": "\n                          Phones\n                        ",
+      "url": "/phone-review"
+    },
+    {
+      "text": "\n                          Laptops\n                        ",
+      "url": "/laptop-review"
+    },
+    {
+      "text": "\n                          Headphones\n                        ",
+      "url": "/headphone-review"
+    },
+    {
+      "text": "\n                          Cameras\n                        ",
+      "url": "/camera-review"
+    },
+    {
+      "text": "\n                          Tablets\n                        ",
+      "url": "/tablet-review"
+    },
+    {
+      "text": "\n                          Smartwatches\n                        ",
+      "url": "/smartwatch-review"
+    },
+    {
+      "text": "\n                          Speakers\n                        ",
+      "url": "/speaker-review"
+    },
+    {
+      "text": "\n                          Drones\n                        ",
+      "url": "/drone-review"
+    },
+    {
+      "text": "\n                          Accessories\n                        ",
+      "url": "/tech-accessory-review"
+    },
+    {
+      "text": "\n                          Buying Guides\n                        ",
+      "url": "/this-is-my-next"
+    },
+    {
+      "text": "\n                          How-tos\n                        ",
+      "url": "/how-to"
+    },
+    {
+      "text": "\n                          Deals\n                        ",
+      "url": "/good-deals"
+    },
+    {
+      "text": "More from Verge Reviews",
+      "url": "/reviews"
+    },
+    {
+      "text": "\n            Science\n            \n              \n            \n          ",
+      "url": "/science"
+    },
+    {
+      "text": "\n                          Video\n                        ",
+      "url": "http://bit.ly/2FqJZMl"
+    },
+    {
+      "text": "\n                          Space\n                        ",
+      "url": "/space"
+    },
+    {
+      "text": "\n                          NASA\n                        ",
+      "url": "/nasa"
+    },
+    {
+      "text": "\n                          SpaceX\n                        ",
+      "url": "/spacex"
+    },
+    {
+      "text": "\n                          Health\n                        ",
+      "url": "/health"
+    },
+    {
+      "text": "\n                          Energy\n                        ",
+      "url": "/energy"
+    },
+    {
+      "text": "\n                          Environment\n                        ",
+      "url": "/environment"
+    },
+    {
+      "text": "All Science",
+      "url": "/science"
+    },
+    {
+      "text": "\n            Creators\n            \n              \n            \n          ",
+      "url": "/creators"
+    },
+    {
+      "text": "\n                          YouTube\n                        ",
+      "url": "/youtube"
+    },
+    {
+      "text": "\n                          Instagram\n                        ",
+      "url": "/instagram"
+    },
+    {
+      "text": "\n                          Adobe\n                        ",
+      "url": "/adobe"
+    },
+    {
+      "text": "\n                          Kickstarter\n                        ",
+      "url": "/kickstarter"
+    },
+    {
+      "text": "\n                          Tumblr\n                        ",
+      "url": "/tumblr"
+    },
+    {
+      "text": "\n                          Art Club\n                        ",
+      "url": "art-club"
+    },
+    {
+      "text": "\n                          Cameras\n                        ",
+      "url": "/camera-review"
+    },
+    {
+      "text": "\n                          Photography\n                        ",
+      "url": "/photography"
+    },
+    {
+      "text": "\n                          What\u2019s in your bag?\n                        ",
+      "url": "/whats-in-your-bag"
+    },
+    {
+      "text": "All Creators",
+      "url": "/creators"
+    },
+    {
+      "text": "\n            Entertainment\n            \n              \n            \n          ",
+      "url": "/entertainment"
+    },
+    {
+      "text": "\n                          Film\n                        ",
+      "url": "/film"
+    },
+    {
+      "text": "\n                          TV\n                        ",
+      "url": "/tv"
+    },
+    {
+      "text": "\n                          Games\n                        ",
+      "url": "/games"
+    },
+    {
+      "text": "\n                          Fortnite\n                        ",
+      "url": "/fortnite"
+    },
+    {
+      "text": "\n                          Game of Thrones\n                        ",
+      "url": "/game-of-thrones"
+    },
+    {
+      "text": "\n                          Books\n                        ",
+      "url": "/books"
+    },
+    {
+      "text": "\n                          Comics\n                        ",
+      "url": "/comics"
+    },
+    {
+      "text": "\n                          Music\n                        ",
+      "url": "/music"
+    },
+    {
+      "text": "All Entertainment",
+      "url": "/entertainment"
+    },
+    {
+      "text": "\n            Video\n            \n          ",
+      "url": "https://goo.gl/G5RXGs"
+    },
+    {
+      "text": "\n            Features\n            \n          ",
+      "url": "/features"
+    },
+    {
+      "text": "\n            Podcasts\n            \n          ",
+      "url": "/podcasts"
+    },
+    {
+      "text": "\n            Newsletters\n            \n          ",
+      "url": "/pages/newsletters"
+    },
+    {
+      "text": "\n            Merch Store\n            \n          ",
+      "url": "https://store.dftba.com/collections/the-verge"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n  \n    \n  \n\n  \n\n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657940774_594_223274\" data-cdata='{\"image_id\":71123615,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71123615/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.0.jpg\" alt=\"\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23220797/elon-musk-twitter-trial-scheduling-delaware-acquisition-lawsuit"
+    },
+    {
+      "text": "Elon Musk wants Twitter trial to wait until February 2023",
+      "url": "https://www.theverge.com/2022/7/15/23220797/elon-musk-twitter-trial-scheduling-delaware-acquisition-lawsuit"
+    },
+    {
+      "text": "Jay Peters",
+      "url": "https://www.theverge.com/authors/jay-peters"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657940774_4557_223277\" data-cdata='{\"image_id\":71123272,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71123272/bfarsace_190101_5333_0009.0.jpg\" alt=\"The M2 MacBook Air on a table displaying the About This Mac window over a purple marbled background.\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/23220299/apple-macbook-air-m2-slow-ssd-read-write-speeds-testing-benchmark"
+    },
+    {
+      "text": "We benchmarked the base M2 MacBook Air\u2019s storage and (surprise!) it\u2019s slow",
+      "url": "https://www.theverge.com/23220299/apple-macbook-air-m2-slow-ssd-read-write-speeds-testing-benchmark"
+    },
+    {
+      "text": "Monica Chin",
+      "url": "https://www.theverge.com/authors/monica-chin"
+    },
+    {
+      "text": "\n    \n      \n        24\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/23220299/apple-macbook-air-m2-slow-ssd-read-write-speeds-testing-benchmark#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657940774_6464_223281\" data-cdata='{\"image_id\":71122192,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71122192/jupiter_hi_res_atmo_1__1_.0.png\" alt=\"\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23220184/nasa-james-webb-space-telescope-jupiter-europa-solar-system"
+    },
+    {
+      "text": "Jupiter photos from NASA\u2019s new space telescope are teaser of Solar System images to come",
+      "url": "https://www.theverge.com/2022/7/15/23220184/nasa-james-webb-space-telescope-jupiter-europa-solar-system"
+    },
+    {
+      "text": "Loren Grush",
+      "url": "https://www.theverge.com/authors/loren-grush"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n  \n    \n  \n\n  \n\n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657940774_2138_223284\" data-cdata='{\"image_id\":71120721,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71120721/ajohnson_220708_5332_0008.0.jpg\" alt=\"\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n        \n          \n            7\n          \n        \n      \n      \n    ",
+      "url": "https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price"
+    },
+    {
+      "text": "Nothing Phone 1 review: something else",
+      "url": "https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price"
+    },
+    {
+      "text": "Allison Johnson",
+      "url": "https://www.theverge.com/users/Allison%20Johnson"
+    },
+    {
+      "text": "\n    \n      \n        47\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657940774_9025_223288\" data-cdata='{\"image_id\":71123084,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71123084/1355933139.0.jpg\" alt=\"San Diego Comic-Con Special Edition - General Atmosphere And Cosplay\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23205625/san-diego-comic-con-2022-panel-schedule"
+    },
+    {
+      "text": "San Diego Comic-Con 2022: all the best panels, trailers, and news to watch out for ",
+      "url": "https://www.theverge.com/2022/7/15/23205625/san-diego-comic-con-2022-panel-schedule"
+    },
+    {
+      "text": "Charles Pulliam-Moore",
+      "url": "https://www.theverge.com/authors/charles-pulliam-moore"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657940774_8886_223291\" data-cdata='{\"image_id\":71121349,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71121349/B1.C4.R103.04.0.jpg\" alt=\"\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/design/23206001/midjourney-ai-art-horror-arg-game-rob-sheridan"
+    },
+    {
+      "text": "An experimental horror ARG is testing the boundaries of AI art",
+      "url": "https://www.theverge.com/design/23206001/midjourney-ai-art-horror-arg-game-rob-sheridan"
+    },
+    {
+      "text": "Alexis Ong",
+      "url": "https://www.theverge.com/users/AlexisOng"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657940774_2225_223294\" data-cdata='{\"image_id\":71122338,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71122338/FXuPH_2VUAAnywv.0.jpeg\" alt=\"\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23220335/bungie-sony-acquisition-complete-official-done"
+    },
+    {
+      "text": "Bungie is now officially part of Sony",
+      "url": "https://www.theverge.com/2022/7/15/23220335/bungie-sony-acquisition-complete-official-done"
+    },
+    {
+      "text": "Jay Peters",
+      "url": "https://www.theverge.com/authors/jay-peters"
+    },
+    {
+      "text": "\n    \n      \n        6\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23220335/bungie-sony-acquisition-complete-official-done#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1657940774_7108_223298\" data-cdata='{\"image_id\":71120994,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71120994/VRG_Illo_STK022_K_Radtke_Musk_Stock_Neutral.0.jpg\" alt=\"A photo illustration of Elon Musk looking pensive.\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23216684/twitter-elon-musk-lawsuit-tweets"
+    },
+    {
+      "text": "Twitter aims its most powerful weapon at\u00a0Elon Musk: his own tweets",
+      "url": "https://www.theverge.com/2022/7/15/23216684/twitter-elon-musk-lawsuit-tweets"
+    },
+    {
+      "text": "Elizabeth Lopatto",
+      "url": "https://www.theverge.com/authors/elizabeth-lopatto"
+    },
+    {
+      "text": "\n    \n      \n        71\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23216684/twitter-elon-musk-lawsuit-tweets#comments"
+    },
+    {
+      "text": "Never tweet",
+      "url": "https://www.theverge.com/2022/7/15/23216684/twitter-elon-musk-lawsuit-tweets"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23220697/twitter-app-chirps-sounds-refresh"
+    },
+    {
+      "text": "You\u2019re not hearing things \u2014 yes, the Twitter app chirps now",
+      "url": "https://www.theverge.com/2022/7/15/23220697/twitter-app-chirps-sounds-refresh"
+    },
+    {
+      "text": "Jay Peters",
+      "url": "https://www.theverge.com/authors/jay-peters"
+    },
+    {
+      "text": "\n    \n      \n        4\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23220697/twitter-app-chirps-sounds-refresh#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23220509/halo-infinite-network-co-op-mission-replay-flight-test"
+    },
+    {
+      "text": "Halo Infinite\u2019s network co-op test is now live",
+      "url": "https://www.theverge.com/2022/7/15/23220509/halo-infinite-network-co-op-mission-replay-flight-test"
+    },
+    {
+      "text": "Jay Peters",
+      "url": "https://www.theverge.com/authors/jay-peters"
+    },
+    {
+      "text": "\n    \n      \n        2\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23220509/halo-infinite-network-co-op-mission-replay-flight-test#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23220304/espn-plus-streaming-price-hike-disney-plus-hulu-bundle"
+    },
+    {
+      "text": "ESPN Plus is about to get even more expensive",
+      "url": "https://www.theverge.com/2022/7/15/23220304/espn-plus-streaming-price-hike-disney-plus-hulu-bundle"
+    },
+    {
+      "text": "Jay Peters",
+      "url": "https://www.theverge.com/authors/jay-peters"
+    },
+    {
+      "text": "Richard Lawler",
+      "url": "https://www.theverge.com/authors/richard-lawler"
+    },
+    {
+      "text": "\n    \n      \n        6\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23220304/espn-plus-streaming-price-hike-disney-plus-hulu-bundle#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23220267/sims-4-sexual-orientation-new-update-maxis-ea"
+    },
+    {
+      "text": "The Sims 4 is expanding its sexual orientation options with new update",
+      "url": "https://www.theverge.com/2022/7/15/23220267/sims-4-sexual-orientation-new-update-maxis-ea"
+    },
+    {
+      "text": "Ash Parrish",
+      "url": "https://www.theverge.com/authors/ash-parrish"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/23188678/accessibility-disability-tech"
+    },
+    {
+      "text": "Accessibility Week",
+      "url": "https://www.theverge.com/23188678/accessibility-disability-tech"
+    },
+    {
+      "text": "View All Stories",
+      "url": "https://www.theverge.com/23188678/accessibility-disability-tech"
+    },
+    {
+      "text": "Exploring the technological advances in accessibility",
+      "url": "https://www.theverge.com/23188678/accessibility-disability-tech"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23220069/amazon-prime-air-drone-delivery-packages-test-texas-california"
+    },
+    {
+      "text": "Amazon\u2019s Prime Air drone delivery tests are coming to Texas, too",
+      "url": "https://www.theverge.com/2022/7/15/23220069/amazon-prime-air-drone-delivery-packages-test-texas-california"
+    },
+    {
+      "text": "Jasmine Hicks",
+      "url": "https://www.theverge.com/authors/jasmine-hicks"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23220195/steam-deck-playdate-simulator"
+    },
+    {
+      "text": "Even the Playdate Simulator can run on Steam Deck",
+      "url": "https://www.theverge.com/2022/7/15/23220195/steam-deck-playdate-simulator"
+    },
+    {
+      "text": "Jay Peters",
+      "url": "https://www.theverge.com/authors/jay-peters"
+    },
+    {
+      "text": "\n    \n      \n        1\n      \n      comment\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23220195/steam-deck-playdate-simulator#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/23220109/james-webb-space-telescope-stars-diffraction-spike"
+    },
+    {
+      "text": "Why stars look spiky in images from the James Webb Space Telescope",
+      "url": "https://www.theverge.com/23220109/james-webb-space-telescope-stars-diffraction-spike"
+    },
+    {
+      "text": "Mary Beth Griggs",
+      "url": "https://www.theverge.com/authors/mary-beth-griggs"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23220111/ifixit-steam-deck-fan-battery-replacement-kits-in-stock"
+    },
+    {
+      "text": "iFixit\u2019s Steam Deck fan and battery replacement kits are finally in stock",
+      "url": "https://www.theverge.com/2022/7/15/23220111/ifixit-steam-deck-fan-battery-replacement-kits-in-stock"
+    },
+    {
+      "text": "Alex Cranz",
+      "url": "https://www.theverge.com/authors/alex-cranz"
+    },
+    {
+      "text": "\n    \n      \n        2\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23220111/ifixit-steam-deck-fan-battery-replacement-kits-in-stock#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n        \n          Play\n\n        \n      \n      \n        \n          \n            9\n          \n        \n      \n      \n    ",
+      "url": "https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review"
+    },
+    {
+      "text": "\n              Laptop Reviews\n            ",
+      "url": "https://www.theverge.com/laptop-review"
+    },
+    {
+      "text": "Apple\u2019s new MacBook Air M2 is the start of a whole new Air-a",
+      "url": "https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review"
+    },
+    {
+      "text": "Dan Seifert",
+      "url": "https://www.theverge.com/authors/dan-seifert"
+    },
+    {
+      "text": "\n    \n      \n        147\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review#comments"
+    },
+    {
+      "text": "\n    \n      .st1{fill:#fff}.st2{fill:#f05354}\n\n      \n    \n  ",
+      "url": "https://www.voxmedia.com/careers"
+    },
+    {
+      "text": "We're building great things, and we need your talent.",
+      "url": "https://www.voxmedia.com/careers"
+    },
+    {
+      "text": "",
+      "url": "https://www.voxmedia.com/careers"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23219999/nasa-spacex-iss-emit-instrument-dust-climate-research"
+    },
+    {
+      "text": "NASA just launched a powerful new instrument to study dust ",
+      "url": "https://www.theverge.com/2022/7/15/23219999/nasa-spacex-iss-emit-instrument-dust-climate-research"
+    },
+    {
+      "text": "Justine Calma",
+      "url": "https://www.theverge.com/authors/justine-calma"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23220056/apple-music-sessions-live-performances-spatial-audio-announced"
+    },
+    {
+      "text": "Apple Music subscribers will get exclusive live performances in spatial audio",
+      "url": "https://www.theverge.com/2022/7/15/23220056/apple-music-sessions-live-performances-spatial-audio-announced"
+    },
+    {
+      "text": "Chris Welch",
+      "url": "https://www.theverge.com/authors/chris-welch"
+    },
+    {
+      "text": "\n    \n      \n        10\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23220056/apple-music-sessions-live-performances-spatial-audio-announced#comments"
+    },
+    {
+      "text": "\n        \n          Featured Videos\n        \n      ",
+      "url": "/featured-video"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/2Xrt8Na8mNrvgGkVpJZZGbSz98g=/0x0:2040x1360/250x141/filters:focal(853x509:1179x835):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/NgjDtOxFyEEI-fQE4yfupJYN5FQ=/0x0:2040x1360/500x281/filters:focal(853x509:1179x835):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/mjxmlUm0PTe68KKt3NNy0zDdPzY=/0x0:2040x1360/250x141/filters:focal(853x509:1179x835)/cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/yDroFwP0LGt_F6Td7CtqVinFMhI=/0x0:2040x1360/500x281/filters:focal(853x509:1179x835)/cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"2040\" src=\"https://cdn.vox-cdn.com/thumbor/S6sAfX2kvUvt7I6QqI5T-ePjUpY=/0x0:2040x1360/1200x675/filters:focal(853x509:1179x835)/cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657941667_3148_251684\" data-cdata='{\"image_id\":71114455,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Apple\u2019s new MacBook Air M2 is the start of a whole new Air-a\n            \n              New design, new display, new processor, new price\n            \n          \n        ",
+      "url": "https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review"
+    },
+    {
+      "text": "\n            Play\n video for Apple\u2019s new MacBook Air M2 is the start of a whole new Air-a\n          ",
+      "url": "https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/7PXepU0_J_1VTNbPr3xIuUsHt_s=/0x0:2040x1530/250x141/filters:focal(857x602:1183x928):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71098865/npatel_20210512_4552_0022.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/e2G3nc-TOFehgUo1L8NrxsrQL0E=/0x0:2040x1530/500x281/filters:focal(857x602:1183x928):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71098865/npatel_20210512_4552_0022.0.jpg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/5qaL8liCM3rYw1OExZeucTcJZQ0=/0x0:2040x1530/250x141/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/71098865/npatel_20210512_4552_0022.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/N32J0C19p5BQrffNC06Bi9ZBQ00=/0x0:2040x1530/500x281/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/71098865/npatel_20210512_4552_0022.0.jpg 500w\" sizes=\"250px\" alt=\"Starlink dish in the back of a truck\" data-upload-width=\"2040\" src=\"https://cdn.vox-cdn.com/thumbor/1bBSf0C-uqpjD9V6-GZ1hHjcYio=/0x0:2040x1530/1200x675/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/71098865/npatel_20210512_4552_0022.0.jpg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"Starlink dish in the back of a truck\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657941667_4809_251687\" data-cdata='{\"image_id\":71098865,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"Starlink dish in the back of a truck\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71098865/npatel_20210512_4552_0022.0.jpg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            How Starlink and other satellite services are changing the shape of the internet\n            \n              Building an orbital internet\n            \n          \n        ",
+      "url": "https://www.theverge.com/23204125/starlink-oneweb-project-kuiper-satellite-internet-service-elon-musk"
+    },
+    {
+      "text": "\n            Play\n video for How Starlink and other satellite services are changing the shape of the internet\n          ",
+      "url": "https://www.theverge.com/23204125/starlink-oneweb-project-kuiper-satellite-internet-service-elon-musk"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/-SmDlt6sfKX5peGBMRSKN6VOP_U=/0x0:2040x1360/250x141/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71037667/bfarsace_220630_5325_0006.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/pRc_hlJtSMcBq6v164IgnobU7Vk=/0x0:2040x1360/500x281/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71037667/bfarsace_220630_5325_0006.0.jpg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/dmcmImtExCur5C3ssfoXuAM6Iz0=/0x0:2040x1360/250x141/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71037667/bfarsace_220630_5325_0006.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/WHJOL0FH0PXrc-sOQr1rDb1U5_s=/0x0:2040x1360/500x281/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71037667/bfarsace_220630_5325_0006.0.jpg 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"2040\" src=\"https://cdn.vox-cdn.com/thumbor/t_Q8cTW8mLUGLDAyHSeUIrfDaTM=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71037667/bfarsace_220630_5325_0006.0.jpg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657941667_4958_251690\" data-cdata='{\"image_id\":71037667,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71037667/bfarsace_220630_5325_0006.0.jpg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Insta360\u2019s 1-inch 360 mod sets the stage for 360 cameras to come\n            \n              But bigger sensors come at bigger costs\n            \n          \n        ",
+      "url": "https://www.theverge.com/23190146/insta360-one-rs-1-inch-360-edition-camera-review"
+    },
+    {
+      "text": "\n            Play\n video for Insta360\u2019s 1-inch 360 mod sets the stage for 360 cameras to come\n          ",
+      "url": "https://www.theverge.com/23190146/insta360-one-rs-1-inch-360-edition-camera-review"
+    },
+    {
+      "text": "More in Featured Videos",
+      "url": "/featured-video"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.voxmedia.com/legal/privacy-notice"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/23203408/ventje-frank-westland-review-price"
+    },
+    {
+      "text": "Ventje VW campervan review: \u2018work from home\u2019 from anywhere",
+      "url": "https://www.theverge.com/23203408/ventje-frank-westland-review-price"
+    },
+    {
+      "text": "Thomas Ricker",
+      "url": "https://www.theverge.com/authors/thomas-ricker"
+    },
+    {
+      "text": "\n    \n      \n        17\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/23203408/ventje-frank-westland-review-price#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23219962/988-mental-health-crisis-suicide-hotline-lifeline"
+    },
+    {
+      "text": "New \u2018988\u2019 mental\u00a0health\u00a0crisis hotline launches Saturday",
+      "url": "https://www.theverge.com/2022/7/15/23219962/988-mental-health-crisis-suicide-hotline-lifeline"
+    },
+    {
+      "text": "Nicole Wetsman",
+      "url": "https://www.theverge.com/authors/nicole-wetsman"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/good-deals/2022/7/15/23216226/macbook-16-pro-zendure-power-bank-echo-show-google-nest-hub-deal-sale"
+    },
+    {
+      "text": "The powerful 16-inch MacBook Pro is at an all-time low",
+      "url": "https://www.theverge.com/good-deals/2022/7/15/23216226/macbook-16-pro-zendure-power-bank-echo-show-google-nest-hub-deal-sale"
+    },
+    {
+      "text": "Sheena Vasani",
+      "url": "https://www.theverge.com/authors/sheena-vasani"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/good-deals/2022/7/15/23220073/xbox-series-x-console-restock-amazon-inventory-check-invite-deal-sale"
+    },
+    {
+      "text": "Amazon is giving out invites to buy the Xbox Series X at a discounted price (Update: no longer available)",
+      "url": "https://www.theverge.com/good-deals/2022/7/15/23220073/xbox-series-x-console-restock-amazon-inventory-check-invite-deal-sale"
+    },
+    {
+      "text": "Antonio G. Di Benedetto",
+      "url": "https://www.theverge.com/authors/antonio-g-di-benedetto"
+    },
+    {
+      "text": "\n    \n      \n        2\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/good-deals/2022/7/15/23220073/xbox-series-x-console-restock-amazon-inventory-check-invite-deal-sale#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23219955/russia-roscosmos-dmitry-rogozin-replaced-nasa-crew-swap"
+    },
+    {
+      "text": "Russia ousts boisterous\u00a0space\u00a0chief Dmitry Rogozin",
+      "url": "https://www.theverge.com/2022/7/15/23219955/russia-roscosmos-dmitry-rogozin-replaced-nasa-crew-swap"
+    },
+    {
+      "text": "Loren Grush",
+      "url": "https://www.theverge.com/authors/loren-grush"
+    },
+    {
+      "text": "So long, Dmitry",
+      "url": "https://www.theverge.com/2022/7/15/23219955/russia-roscosmos-dmitry-rogozin-replaced-nasa-crew-swap"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/23205223/tech-journalism-accessibility-assistive-coverage"
+    },
+    {
+      "text": "\n            Accessibility Week\n          ",
+      "url": "https://www.theverge.com/23188678/accessibility-disability-tech"
+    },
+    {
+      "text": "Tech journalism\u2019s accessibility problem",
+      "url": "https://www.theverge.com/23205223/tech-journalism-accessibility-assistive-coverage"
+    },
+    {
+      "text": "Monica Chin",
+      "url": "https://www.theverge.com/authors/monica-chin"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/23220001/macbook-air-m2-review-elon-twitter-apple-beta-ios-16-vergecast"
+    },
+    {
+      "text": "Vergecast: MacBook Air M2 review, Elon vs. Twitter, and Apple beta season",
+      "url": "https://www.theverge.com/23220001/macbook-air-m2-review-elon-twitter-apple-beta-ios-16-vergecast"
+    },
+    {
+      "text": "Andrew Marino",
+      "url": "https://www.theverge.com/authors/andrew-marino"
+    },
+    {
+      "text": "Liam James",
+      "url": "https://www.theverge.com/users/liamhjames"
+    },
+    {
+      "text": "\n    \n      \n        1\n      \n      comment\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/23220001/macbook-air-m2-review-elon-twitter-apple-beta-ios-16-vergecast#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23219283/lego-the-office-ideas-set-walmart"
+    },
+    {
+      "text": "Lego is releasing an incredible set based on The Office",
+      "url": "https://www.theverge.com/2022/7/15/23219283/lego-the-office-ideas-set-walmart"
+    },
+    {
+      "text": "Jay Peters",
+      "url": "https://www.theverge.com/authors/jay-peters"
+    },
+    {
+      "text": "\n    \n      \n        25\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23219283/lego-the-office-ideas-set-walmart#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23219953/suzume-trailer-crunchyroll-2023-makoto-shinkai"
+    },
+    {
+      "text": "Watch the latest trailer for Suzume from the director behind Your Name",
+      "url": "https://www.theverge.com/2022/7/15/23219953/suzume-trailer-crunchyroll-2023-makoto-shinkai"
+    },
+    {
+      "text": "Andrew Webster",
+      "url": "https://www.theverge.com/authors/andrew-webster"
+    },
+    {
+      "text": "\n    \n      \n        1\n      \n      comment\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23219953/suzume-trailer-crunchyroll-2023-makoto-shinkai#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/23204468/imessage-ios-16-apple-unsend-edit-how-to"
+    },
+    {
+      "text": "How to edit or unsend an iMessage in iOS 16",
+      "url": "https://www.theverge.com/23204468/imessage-ios-16-apple-unsend-edit-how-to"
+    },
+    {
+      "text": "Barbara Krasnoff",
+      "url": "https://www.theverge.com/authors/barbara-krasnoff"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/14/23216359/nothing-phone-1-london-launch-hype"
+    },
+    {
+      "text": "Hot and hyped: inside the strange launch of the Nothing Phone 1  ",
+      "url": "https://www.theverge.com/2022/7/14/23216359/nothing-phone-1-london-launch-hype"
+    },
+    {
+      "text": "Jon Porter",
+      "url": "https://www.theverge.com/authors/jon-porter"
+    },
+    {
+      "text": "\n    \n      \n        42\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/14/23216359/nothing-phone-1-london-launch-hype#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/23180516/iphone-accessibility-apple-how-to"
+    },
+    {
+      "text": "\n            Accessibility Week\n          ",
+      "url": "https://www.theverge.com/23188678/accessibility-disability-tech"
+    },
+    {
+      "text": "How to make the most of your iPhone\u2019s accessibility features",
+      "url": "https://www.theverge.com/23180516/iphone-accessibility-apple-how-to"
+    },
+    {
+      "text": "Joe Stanganelli",
+      "url": "https://www.theverge.com/users/JoeStanganelli"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23219885/microsoft-windows-12-2024-next-major-windows-version-rumors"
+    },
+    {
+      "text": "Microsoft could be readying Windows 12 for 2024 in a major shakeup",
+      "url": "https://www.theverge.com/2022/7/15/23219885/microsoft-windows-12-2024-next-major-windows-version-rumors"
+    },
+    {
+      "text": "Tom Warren",
+      "url": "https://www.theverge.com/authors/tom-warren"
+    },
+    {
+      "text": "\n    \n      \n        64\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23219885/microsoft-windows-12-2024-next-major-windows-version-rumors#comments"
+    },
+    {
+      "text": "\n        \n          Reviews\n        \n      ",
+      "url": "/reviews"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/WFt12MeCw6C__gojlZberVLShM4=/0x0:2040x1360/250x167/filters:focal(853x509:1179x835):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/Jx2QaEUPinZxrguL9bUzW1SnpLU=/0x0:2040x1360/500x333/filters:focal(853x509:1179x835):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/M_yOKni_3scFQ1LJD0r6OY6DNKU=/0x0:2040x1360/250x167/filters:focal(853x509:1179x835)/cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/V7N9St4xRvRZcwFlWD1nWm0yDDQ=/0x0:2040x1360/500x333/filters:focal(853x509:1179x835)/cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"2040\" src=\"https://cdn.vox-cdn.com/thumbor/DYgBlIdGnCAetzW8l8ShZO0NIkI=/0x0:2040x1360/1200x800/filters:focal(853x509:1179x835)/cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657941667_7073_251694\" data-cdata='{\"image_id\":71114455,\"ratio\":\"standard\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71114455/bfarsace_190101_5333_0008.0.jpg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Apple\u2019s new MacBook Air M2 is the start of a whole new Air-a\n            \n              New design, new display, new processor, new price\n            \n          \n        ",
+      "url": "https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review"
+    },
+    {
+      "text": "\n            Play\n video for Apple\u2019s new MacBook Air M2 is the start of a whole new Air-a\n          ",
+      "url": "https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/QifRmFlmfANA1D6HlYvFiVXzeHg=/0x0:2040x1360/250x167/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71123272/bfarsace_190101_5333_0009.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/VAtmXuvPbO0ghi6TO5daD_DX8Sk=/0x0:2040x1360/500x333/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71123272/bfarsace_190101_5333_0009.0.jpg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/A3-DNYRoGi3tAJBpHA3fYSxPqNg=/0x0:2040x1360/250x167/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71123272/bfarsace_190101_5333_0009.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/8d6XC4a8SUMlsywssBM6PLkMmng=/0x0:2040x1360/500x333/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71123272/bfarsace_190101_5333_0009.0.jpg 500w\" sizes=\"250px\" alt=\"The M2 MacBook Air on a table displaying the About This Mac window over a purple marbled background.\" data-upload-width=\"2040\" src=\"https://cdn.vox-cdn.com/thumbor/IT5N22G-OTq7T5o58HMLY9xN46Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71123272/bfarsace_190101_5333_0009.0.jpg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"The M2 MacBook Air on a table displaying the About This Mac window over a purple marbled background.\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1657941667_3716_251696\" data-cdata='{\"image_id\":71123272,\"ratio\":\"standard\"}'>\n<noscript><img alt=\"The M2 MacBook Air on a table displaying the About This Mac window over a purple marbled background.\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71123272/bfarsace_190101_5333_0009.0.jpg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            We benchmarked the base M2 MacBook Air\u2019s storage and (surprise!) it\u2019s slow\n            \n              If you want the faster SSD, you\u2019ll have to pay for it\n            \n          \n        ",
+      "url": "https://www.theverge.com/23220299/apple-macbook-air-m2-slow-ssd-read-write-speeds-testing-benchmark"
+    },
+    {
+      "text": "More in Reviews",
+      "url": "/reviews"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23219873/intel-cpu-chip-price-increase"
+    },
+    {
+      "text": "Intel plans to raise CPU prices this year",
+      "url": "https://www.theverge.com/2022/7/15/23219873/intel-cpu-chip-price-increase"
+    },
+    {
+      "text": "Tom Warren",
+      "url": "https://www.theverge.com/authors/tom-warren"
+    },
+    {
+      "text": "\n    \n      \n        16\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23219873/intel-cpu-chip-price-increase#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23218671/dbrand-something-decal-skins-looks-like-nothing-phone-1"
+    },
+    {
+      "text": "Dbrand trolls Nothing with Something... decals",
+      "url": "https://www.theverge.com/2022/7/15/23218671/dbrand-something-decal-skins-looks-like-nothing-phone-1"
+    },
+    {
+      "text": "Umar Shakir",
+      "url": "https://www.theverge.com/authors/umar-shakir"
+    },
+    {
+      "text": "\n    \n      \n        8\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23218671/dbrand-something-decal-skins-looks-like-nothing-phone-1#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/6/24/23178786/verge-next-gen-essays-call-for-pitches-young-writers"
+    },
+    {
+      "text": "Young writers, send us your pitches",
+      "url": "https://www.theverge.com/2022/6/24/23178786/verge-next-gen-essays-call-for-pitches-young-writers"
+    },
+    {
+      "text": "Russell Brandom",
+      "url": "https://www.theverge.com/authors/russell-brandom"
+    },
+    {
+      "text": "\n    \n      \n        31\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/6/24/23178786/verge-next-gen-essays-call-for-pitches-young-writers#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/15/23219844/shopify-augmented-reality-roomplan-api-iphone-lidar-scanner"
+    },
+    {
+      "text": "Watch this impressive AR demo \u2018reset\u2019 a room using latest Apple tech  ",
+      "url": "https://www.theverge.com/2022/7/15/23219844/shopify-augmented-reality-roomplan-api-iphone-lidar-scanner"
+    },
+    {
+      "text": "Jon Porter",
+      "url": "https://www.theverge.com/authors/jon-porter"
+    },
+    {
+      "text": "\n    \n      \n        2\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/15/23219844/shopify-augmented-reality-roomplan-api-iphone-lidar-scanner#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022"
+    },
+    {
+      "text": "Amazon Prime Day 2022: the best deals still available",
+      "url": "https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022"
+    },
+    {
+      "text": "Alice Newcome-Beill",
+      "url": "https://www.theverge.com/authors/alice-newcome-beill"
+    },
+    {
+      "text": "Oh, you thought we were done?",
+      "url": "https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/14/23219419/amazon-ring-law-enforcement-no-warrant-no-consent"
+    },
+    {
+      "text": "Today I learned Amazon has a form so police can get my data without permission or a warrant",
+      "url": "https://www.theverge.com/2022/7/14/23219419/amazon-ring-law-enforcement-no-warrant-no-consent"
+    },
+    {
+      "text": "Sean Hollister",
+      "url": "https://www.theverge.com/authors/sean-hollister"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/tldr/2022/7/14/23219443/google-chromeos-not-chrome-os-branding"
+    },
+    {
+      "text": "It\u2019s ChromeOS now, not Chrome OS",
+      "url": "https://www.theverge.com/tldr/2022/7/14/23219443/google-chromeos-not-chrome-os-branding"
+    },
+    {
+      "text": "Jay Peters",
+      "url": "https://www.theverge.com/authors/jay-peters"
+    },
+    {
+      "text": "\n    \n      \n        12\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/tldr/2022/7/14/23219443/google-chromeos-not-chrome-os-branding#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/23138391/verge-favorite-summer-gear-2022"
+    },
+    {
+      "text": "The Verge\u2019s favorite summer gear for 2022",
+      "url": "https://www.theverge.com/23138391/verge-favorite-summer-gear-2022"
+    },
+    {
+      "text": "Verge Staff",
+      "url": "https://www.theverge.com/users/The%20Verge"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/23218727/hyundai-ioniq-6-video-trashion-metaverse-nft-cringe"
+    },
+    {
+      "text": "Hyundai imagines a grim future where metaverse \u2018artists\u2019 live in their cars",
+      "url": "https://www.theverge.com/23218727/hyundai-ioniq-6-video-trashion-metaverse-nft-cringe"
+    },
+    {
+      "text": "Andrew J. Hawkins",
+      "url": "https://www.theverge.com/authors/andrew-j-hawkins"
+    },
+    {
+      "text": "\n    \n      \n        13\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/23218727/hyundai-ioniq-6-video-trashion-metaverse-nft-cringe#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/14/23219072/wordle-the-party-game-multiplayer-board-new-york-times-hasbro"
+    },
+    {
+      "text": "Wordle is being turned into a multiplayer board game",
+      "url": "https://www.theverge.com/2022/7/14/23219072/wordle-the-party-game-multiplayer-board-new-york-times-hasbro"
+    },
+    {
+      "text": "Jay Peters",
+      "url": "https://www.theverge.com/authors/jay-peters"
+    },
+    {
+      "text": "\n    \n      \n        10\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/14/23219072/wordle-the-party-game-multiplayer-board-new-york-times-hasbro#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/14/23219076/opensea-nft-layoffs-web3-crypto"
+    },
+    {
+      "text": "Giant NFT marketplace OpenSea lays off about 20 percent of its staff",
+      "url": "https://www.theverge.com/2022/7/14/23219076/opensea-nft-layoffs-web3-crypto"
+    },
+    {
+      "text": "Richard Lawler",
+      "url": "https://www.theverge.com/authors/richard-lawler"
+    },
+    {
+      "text": "\n    \n      \n        14\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/14/23219076/opensea-nft-layoffs-web3-crypto#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/14/23218987/twitter-cotweet-trick-unlisted-tweet-hidden-search-timeline"
+    },
+    {
+      "text": "This is an unlisted tweet",
+      "url": "https://www.theverge.com/2022/7/14/23218987/twitter-cotweet-trick-unlisted-tweet-hidden-search-timeline"
+    },
+    {
+      "text": "Sean Hollister",
+      "url": "https://www.theverge.com/authors/sean-hollister"
+    },
+    {
+      "text": "\n    \n      \n        2\n      \n      comments\n    \n    \n      / \n      new\n    \n  ",
+      "url": "https://www.theverge.com/2022/7/14/23218987/twitter-cotweet-trick-unlisted-tweet-hidden-search-timeline#comments"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.theverge.com/2022/7/14/23219030/facebook-multiple-profiles-meta-active-users"
+    },
+    {
+      "text": "Facebook\u2019s new test allows people to have up to five profiles",
+      "url": "https://www.theverge.com/2022/7/14/23219030/facebook-multiple-profiles-meta-active-users"
+    },
+    {
+      "text": "Mia Sato",
+      "url": "https://www.theverge.com/authors/mia-sato"
+    },
+    {
+      "text": "More Stories",
+      "url": "https://www.theverge.com/archives"
+    },
+    {
+      "text": "\n        \n          \n  \n\n\n        \n        Chorus\n      ",
+      "url": "/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.voxmedia.com/legal/privacy-notice"
+    },
+    {
+      "text": "Cookie Policy",
+      "url": "https://www.voxmedia.com/legal/cookie-policy"
+    },
+    {
+      "text": "Do Not Sell My Personal Info",
+      "url": "/contact#donotsell"
+    },
+    {
+      "text": "Licensing FAQ",
+      "url": "https://www.voxmedia.com/pages/licensing"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.voxmedia.com/legal/accessibility"
+    },
+    {
+      "text": "Platform Status",
+      "url": "https://status.voxmedia.com"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact-the-verge"
+    },
+    {
+      "text": "Tip Us",
+      "url": "https://www.theverge.com/a/tip-us-secure-contact-email"
+    },
+    {
+      "text": "Community Guidelines",
+      "url": "/community-guidelines"
+    },
+    {
+      "text": "About",
+      "url": "/about-the-verge"
+    },
+    {
+      "text": "Ethics Statement",
+      "url": "/ethics-statement"
+    },
+    {
+      "text": "Vox MediaVox Media\nVox Media logo.",
+      "url": "https://www.voxmedia.com"
+    },
+    {
+      "text": "Advertise with us",
+      "url": "https://www.voxmedia.com/vox-advertising"
+    },
+    {
+      "text": "Jobs @ Vox Media",
+      "url": "https://jobs.voxmedia.com"
+    },
+    {
+      "text": "Vox Media",
+      "url": "https://www.voxmedia.com"
+    }
+  ],
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

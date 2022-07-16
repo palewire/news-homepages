@@ -17,7 +17,7 @@ orphan: true
 | Location       | Vancouver                                                                 |
 | Timezone       | America/Vancouver                                                                 |
 
-The archiving routine has captured 45 screenshots stored at the Internet Archive.
+The archiving routine has captured 47 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
