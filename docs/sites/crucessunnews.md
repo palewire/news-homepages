@@ -17,7 +17,7 @@ orphan: true
 | Location       | Las Cruces                                                                 |
 | Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 171 screenshots stored at the Internet Archive.
+The archiving routine has captured 172 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

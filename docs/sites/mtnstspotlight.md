@@ -17,7 +17,7 @@ orphan: true
 | Location       | Charleston                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 84 screenshots stored at the Internet Archive.
+The archiving routine has captured 85 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
