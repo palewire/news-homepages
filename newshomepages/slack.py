@@ -19,11 +19,21 @@ from . import utils
 )
 def cli(archive_json):
     """Post image to Slack channel."""
+    # Read in artifact from archive.org upload
     data = json.load(archive_json)
+
+    # Read in URL from archive artifact
     jpg_url = next(s for s in data if s.endswith(".jpg"))
+
+    # Parse the site data from the archive URL
     archive_dict = utils.parse_archive_url(jpg_url)
     site = utils.get_site(archive_dict["handle"])
-    alt_text = f"{site['name']} homepage at {archive_dict['timestamp'].strftime('%-I:%M %p')} on {archive_dict['timestamp'].strftime('%B %d, %Y')}"
+
+    # Set the alt text for the image
+    ts = archive_dict["timestamp"]
+    alt_text = f"{site['name']} homepage at {ts.strftime('%-I:%M %p')} on {ts.strftime('%B %d, %Y')}"
+
+    # Configure the Slack message
     payload = {
         "username": "News Homepages",
         "icon_emoji": ":rolled_up_newspaper:",
@@ -39,8 +49,12 @@ def cli(archive_json):
             {"type": "divider"},
         ],
     }
+
+    # Verify we have a Slack webhook URL
     url = os.getenv("SLACK_WEBHOOK_URL")
     assert url
+
+    # Post to Slack
     requests.post(url, json=payload)
 
 
