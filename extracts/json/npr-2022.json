@@ -1,5 +1,5 @@
 {
-  "created": 1657887279,
+  "created": 1657933014,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/npr-2022",
@@ -3922,31 +3922,157 @@
       "sha1": "0362d7fa897a89ef3df79a5a7210e505275ee33a"
     },
     {
+      "name": "npr-2022-07-15T11:00:51.122130-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657897258",
+      "size": "24618",
+      "md5": "e0fc33fc8c452e79cc0369096acd8391",
+      "crc32": "fb617ced",
+      "sha1": "f5408b08cb383c36bed6def5b0c455a5bf7cfede",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-15T11:00:51.122130-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657897259",
+      "size": "35549",
+      "md5": "02667c0f4b9c1b92a7b3c430bd1b8993",
+      "crc32": "aa40fab4",
+      "sha1": "9018a293bd67e0255126cf818831d5718d422a18",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-15T11:00:51.122130-04:00.jpg",
+      "source": "original",
+      "mtime": "1657897256",
+      "size": "224872",
+      "md5": "c2aa8d6b7a4973ea8a55c6db87393f2f",
+      "crc32": "9d9331ab",
+      "sha1": "b4033d16d0f9d008980ac67fc359a81036cc1f5e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-15T11:00:51.122130-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-15T11:00:51.122130-04:00.jpg",
+      "mtime": "1657897584",
+      "size": "9850",
+      "md5": "c82d09743a3b4bd53e8ed602e721196a",
+      "crc32": "dc2821b5",
+      "sha1": "0f0f81f9ca0740441b7b0973c26035d09f928e9c"
+    },
+    {
+      "name": "npr-2022-07-15T11:05:23.330755-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657897526",
+      "size": "24618",
+      "md5": "e0fc33fc8c452e79cc0369096acd8391",
+      "crc32": "fb617ced",
+      "sha1": "f5408b08cb383c36bed6def5b0c455a5bf7cfede",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-15T11:05:23.330755-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657897529",
+      "size": "35783",
+      "md5": "dce1a495fefe99ef70fb1045ebbbcb2e",
+      "crc32": "9081f748",
+      "sha1": "3a5d897da81494cbee1d96d7b01182c63c710918",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-15T11:05:23.330755-04:00.jpg",
+      "source": "original",
+      "mtime": "1657897525",
+      "size": "252436",
+      "md5": "1cb3a106e19fce00af7ebc359fc00879",
+      "crc32": "71673ea8",
+      "sha1": "0a91758d02ce66b95cce682d3f048c94ac724dc6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-15T11:05:23.330755-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-15T11:05:23.330755-04:00.jpg",
+      "mtime": "1657904978",
+      "size": "10046",
+      "md5": "51c00df5f8a88d91bd5e5f9a5bdacb56",
+      "crc32": "3b4cb53f",
+      "sha1": "4759702260e6ace9229eb9a46440e3bb2d999ec8"
+    },
+    {
+      "name": "npr-2022-07-15T17:09:37.588325-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657919389",
+      "size": "28317",
+      "md5": "8290382b615731e281c1c1dd2434632a",
+      "crc32": "8b0425cc",
+      "sha1": "8716ebb141a251d6def50664e0d4d2853ba0115e",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-15T17:09:37.588325-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657919393",
+      "size": "43238",
+      "md5": "ff31bbc48b8465fabc2e8679deb8022b",
+      "crc32": "ee42f9f3",
+      "sha1": "1b70f6bb24f7c1b4f3751dae0caf6ac17ef6c699",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-15T17:09:37.588325-04:00.jpg",
+      "source": "original",
+      "mtime": "1657919383",
+      "size": "273506",
+      "md5": "c2aee8e3f53ab5d6f76ad5c17e14f664",
+      "crc32": "89e9dd82",
+      "sha1": "0a7c9968bfc47621d7a1db51c4f3aebb628a122d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-15T17:09:37.588325-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-15T17:09:37.588325-04:00.jpg",
+      "mtime": "1657922510",
+      "size": "10006",
+      "md5": "57276c9b8ce24ad4da6619eea6d7f2fe",
+      "crc32": "f3a67e6f",
+      "sha1": "30fcf0ed8dea364f65f658fbfbcb48fd0121d956"
+    },
+    {
       "name": "npr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5210601969bbafdd4f4fdc07fc5c2032d5f7027e",
-      "mtime": "1657855935",
-      "size": "78016",
-      "md5": "0e602adf7c6a2a1141858bc61041e076",
-      "crc32": "b98fa3e8",
-      "sha1": "af23413f2f6f6621fd1949a0ddd2ba4a3093362c",
+      "btih": "9934c9d045a85b2249dad30093ce22adce98111d",
+      "mtime": "1657922518",
+      "size": "80485",
+      "md5": "def159ec4f0273998f7ba724a298e546",
+      "crc32": "b00682b3",
+      "sha1": "ac3021c5da7ddfd74787d787230b00a10f323256",
       "format": "Archive BitTorrent"
     },
     {
       "name": "npr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb16368f31f4386d2ec51b4cf3bebf74",
+      "md5": "55f89b92c2ae677bd6ac3e1a815a5151",
       "summation": "md5"
     },
     {
       "name": "npr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657855790",
-      "size": "438272",
-      "md5": "12326c8665169fe5f0db3ee343a6a0d5",
-      "crc32": "e5afb48f",
-      "sha1": "c7707ad5be874689934b723b1ad316437a243b46",
+      "mtime": "1657920894",
+      "size": "458752",
+      "md5": "f44dbed522f9a13a6a54e5fa74e785ff",
+      "crc32": "4505212f",
+      "sha1": "040071955198125b36d4e9c8393504ca75557e99",
       "format": "Metadata"
     },
     {
@@ -3960,9 +4086,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 377,
-  "item_last_updated": 1657855935,
-  "item_size": 30863907,
+  "files_count": 389,
+  "item_last_updated": 1657922518,
+  "item_size": 31859695,
   "metadata": {
     "identifier": "npr-2022",
     "collection": [
@@ -4210,6 +4336,190 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111650228/doctor-told-the-state-she-performed-abortion-on-10-year-old-girl-document-shows"
+    },
+    {
+      "text": "\n                        Reproductive rights in America\n                        ",
+      "url": "https://www.npr.org/series/1096684820/roe-v-wade-and-the-future-of-reproductive-rights-in-america"
+    },
+    {
+      "text": "\n                An Indiana doctor told the state she performed abortion on 10-year-old girl, document shows\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111650228/doctor-told-the-state-she-performed-abortion-on-10-year-old-girl-document-shows"
+    },
+    {
+      "text": "\n                The Indiana health department document obtained by NPR shows the physician reported the procedure to the state. The release of the document comes after Indiana's attorney general said he would investigate the physician.\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111650228/doctor-told-the-state-she-performed-abortion-on-10-year-old-girl-document-shows"
+    },
+    {
+      "text": "\n        \n            Indiana AG warned over remark about abortion provided for a 10-year-old rape victim\n        \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111773589/indiana-ag-warned-over-remark-about-abortion-provided-for-a-10-year-old-rape-vic"
+    },
+    {
+      "text": "\n        \n            A rape, an abortion, and a one-source story: a child's ordeal becomes national news\n        \n    ",
+      "url": "https://www.npr.org/2022/07/13/1111285143/abortion-10-year-old-raped-ohio"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111760958/jayland-walker-autopsy-shot-akron"
+    },
+    {
+      "text": "\n                            National\n                            ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n            Medical examiner says Jayland Walker was shot dozens of times\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111760958/jayland-walker-autopsy-shot-akron"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/15/1111157900/we-asked-you-answered-npr-readers-share-how-they-handled-covid-on-vacation"
+    },
+    {
+      "text": "\n                            Goats and Soda\n                            ",
+      "url": "https://www.npr.org/sections/goatsandsoda/"
+    },
+    {
+      "text": "\n            We asked, you answered: NPR readers share how they handled COVID on vacation\n            ",
+      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/15/1111157900/we-asked-you-answered-npr-readers-share-how-they-handled-covid-on-vacation"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111675233/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package"
+    },
+    {
+      "text": "\n                            Politics\n                            ",
+      "url": "https://www.npr.org/sections/politics/"
+    },
+    {
+      "text": "\n            Manchin rejects climate and tax provisions in Democrats' spending package\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111675233/manchin-rejects-climate-and-tax-provisions-in-democrats-spending-package"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah"
+    },
+    {
+      "text": "\n                            Middle East\n                            ",
+      "url": "https://www.npr.org/sections/middle-east/"
+    },
+    {
+      "text": "\n            Biden gives the Saudi crown prince a fist bump as meetings begin in Jeddah\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111706564/biden-saudi-crown-prince-mbs-fist-bump-jeddah"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111731127/brittney-griner-cannabis-russia-trial"
+    },
+    {
+      "text": "\n                            World\n                            ",
+      "url": "https://www.npr.org/sections/world/"
+    },
+    {
+      "text": "\n            Brittney Griner had a doctor's note for cannabis use, her lawyer tells Russian court\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111731127/brittney-griner-cannabis-russia-trial"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111658447/gregory-robinson-nasa-james-webb-telescope-director"
+    },
+    {
+      "text": "\n                            Space\n                            ",
+      "url": "https://www.npr.org/sections/space/"
+    },
+    {
+      "text": "\n            How the son of sharecroppers helped send the world's most powerful telescope to space\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111658447/gregory-robinson-nasa-james-webb-telescope-director"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/13/1111300716/lifestyle-creep-definition"
+    },
+    {
+      "text": "\n                                    Life Kit\n                                ",
+      "url": "https://www.npr.org/lifekit"
+    },
+    {
+      "text": "\n                    If your spending is eating your savings, you might be experiencing 'lifestyle creep'\n                ",
+      "url": "https://www.npr.org/2022/07/13/1111300716/lifestyle-creep-definition"
+    },
+    {
+      "text": "                    \n                    Making more money tends to lead to spending more money. It's a phenomenon known as \"lifestyle creep.\" Paco de Leon, author of Finance for the People, shares advice on keeping your long-term financial goals in check and fending off the subconscious urge to automatically increase spending when your income increases.\n                ",
+      "url": "https://www.npr.org/2022/07/13/1111300716/lifestyle-creep-definition"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            23:38\n                        \n                    \n                \n            ",
+      "url": "https://play.podtrac.com/npr-510338/edge1.pod.npr.org/anon.npr-mp3/npr/lifekit/2022/07/20220714_lifekit_119d9a0e-9327-4510-9e39-7cdd3719e979.mp3?orgId=1&topicId=1018&aggIds=676529561,1092864813&d=1418&p=510338&story=1111300716&t=podcast&e=1111300716&dl=1&sc=siteplayer&size=22691885&awCollectionId=510338&awEpisodeId=1111300716&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "Download",
+      "url": "https://play.podtrac.com/npr-510338/edge1.pod.npr.org/anon.npr-mp3/npr/lifekit/2022/07/20220714_lifekit_119d9a0e-9327-4510-9e39-7cdd3719e979.mp3?orgId=1&topicId=1018&aggIds=676529561,1092864813&d=1418&p=510338&story=1111300716&t=podcast&e=1111300716&dl=1&sc=siteplayer&size=22691885&awCollectionId=510338&awEpisodeId=1111300716&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n                    \n                    Transcript\n                  ",
+      "url": "https://www.npr.org/transcripts/1111300716"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/14/1111256322/normal-family-chrysta-bilton-sperm-bank-donor"
+    },
+    {
+      "text": "\n                                    Shots - Health News\n                                ",
+      "url": "https://www.npr.org/sections/health-shots/"
+    },
+    {
+      "text": "\n                    This author's 'Normal Family' includes a sperm donor dad and 35 siblings\n                ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/14/1111256322/normal-family-chrysta-bilton-sperm-bank-donor"
+    },
+    {
+      "text": "                    \n                    Chrysta Bilton's mother was a lesbian who asked a man she'd just met to be her sperm donor. It was only much later that Bilton learned the same man had donated sperm to countless other women.\n                ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/14/1111256322/normal-family-chrysta-bilton-sperm-bank-donor"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            35:25\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/fa/2022/07/20220714_fa_01.mp3?orgId=427869011&topicId=1164&d=2125&p=13&story=1111256322&dl=1&sc=siteplayer&size=34007711&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "Download",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/fa/2022/07/20220714_fa_01.mp3?orgId=427869011&topicId=1164&d=2125&p=13&story=1111256322&dl=1&sc=siteplayer&size=34007711&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n                    \n                    Transcript\n                  ",
+      "url": "https://www.npr.org/transcripts/1111256322"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111739166/jim-thorpe-reinstated-1912-olympics"
+    },
+    {
+      "text": "\n                        Sports\n                        ",
+      "url": "https://www.npr.org/sections/sports/"
+    },
+    {
+      "text": "\n                Jim Thorpe is reinstated as the sole winner of two events in the 1912 Olympics\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111739166/jim-thorpe-reinstated-1912-olympics"
+    },
+    {
+      "text": "\n                The legendary athlete is declared the sole winner of the  Olympic pentathlon and decathlon in Stockholm \u2014 nearly 110 years after being stripped of those gold medals for violations of amateurism rules.\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111739166/jim-thorpe-reinstated-1912-olympics"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/15/1111316589/988-suicide-hotline-number"
+    },
+    {
+      "text": "\n                        Shots - Health News\n                        ",
+      "url": "https://www.npr.org/sections/health-shots/"
+    },
+    {
+      "text": "\n                The new 988 crisis number is about to launch. Here's what to know\n            ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/15/1111316589/988-suicide-hotline-number"
+    },
+    {
+      "text": "\n                Mental health advocates hope the new hotline will make it much easier to get support if you're in crisis or helping someone who is. Here's how it works and what could stand in its way.\n            ",
+      "url": "https://www.npr.org/sections/health-shots/2022/07/15/1111316589/988-suicide-hotline-number"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
       "url": "https://www.npr.org/2022/07/14/1111618620/secret-service-erased-texts-from-two-day-period-spanning-jan-6-attack-watchdog-s"
     },
     {
@@ -4217,7 +4527,7 @@
       "url": "https://www.npr.org/sections/politics/"
     },
     {
-      "text": "\n                Secret Service erased texts from two-day period spanning Jan. 6 attack, watchdog says\n            ",
+      "text": "\n                The Secret Service erased texts from a two-day period spanning the Jan. 6 attack, watchdog says\n            ",
       "url": "https://www.npr.org/2022/07/14/1111618620/secret-service-erased-texts-from-two-day-period-spanning-jan-6-attack-watchdog-s"
     },
     {
@@ -4226,50 +4536,242 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111520145/alex-murdaugh-murder-indicted-south-carolina"
+      "url": "https://www.npr.org/sections/pictureshow/2022/07/15/1111058176/michigan-elvis-presley-tribute-festival"
     },
     {
-      "text": "\n                            Law\n                            ",
-      "url": "https://www.npr.org/sections/law/"
+      "text": "\n                                    The Picture Show\n                                    ",
+      "url": "https://www.npr.org/sections/pictureshow/"
     },
     {
-      "text": "\n            Lawyer Alex Murdaugh is indicted for murder, in the latest twist to his wife and son's killings\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111520145/alex-murdaugh-murder-indicted-south-carolina"
+      "text": "\n                        The King still draws a crowd at Michigan Elvisfest, one of largest in North America\n                    ",
+      "url": "https://www.npr.org/sections/pictureshow/2022/07/15/1111058176/michigan-elvis-presley-tribute-festival"
     },
     {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111394875/envigo-animal-rescue-beagles"
-    },
-    {
-      "text": "\n                            Animals\n                            ",
-      "url": "https://www.npr.org/sections/animals/"
-    },
-    {
-      "text": "\n            Animal rescue groups across the U.S. band together to rescue 4,000 beagles\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111394875/envigo-animal-rescue-beagles"
+      "text": "\n                        Thousands converged at the Wayne County Fairgrounds for the Michigan Elvisfest in Belleville to celebrate the life and work of Elvis Presley.\n                    ",
+      "url": "https://www.npr.org/sections/pictureshow/2022/07/15/1111058176/michigan-elvis-presley-tribute-festival"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111563442/buffalo-mass-shooting-suspect-indicted-hate-crime-charges-tops-supermarket"
+      "url": "https://www.npr.org/2022/07/15/1111383520/texas-abortion-laws-prosecutors"
     },
     {
-      "text": "\n                            National\n                            ",
+      "text": "\n                        Reproductive rights in America\n                        ",
+      "url": "https://www.npr.org/series/1096684820/roe-v-wade-and-the-future-of-reproductive-rights-in-america"
+    },
+    {
+      "text": "\n                Texas conservatives have a plan to get around DAs who won't enforce abortion laws\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111383520/texas-abortion-laws-prosecutors"
+    },
+    {
+      "text": "\n                A Republican state legislator's proposal would allow prosecutors from around the state to step in when local DAs refuse to press charges over abortion, as at least five Texas prosecutors have vowed.\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111383520/texas-abortion-laws-prosecutors"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1110472870/la-malinche"
+    },
+    {
+      "text": "\n                                    Culture\n                                    ",
+      "url": "https://www.npr.org/sections/culture/"
+    },
+    {
+      "text": "\n                        La Malinche was a young linguist forced to serve the Spanish conquerors\n                    ",
+      "url": "https://www.npr.org/2022/07/15/1110472870/la-malinche"
+    },
+    {
+      "text": "\n                        Her complex legacy after 500 years as a survivor and, to some, a traitor is explored in festivals and a major museum exhibition.\n                    ",
+      "url": "https://www.npr.org/2022/07/15/1110472870/la-malinche"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            4:58\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220715_me_la_malinche_was_a_young_linguist_forced_to_serve_the_spanish_conquerors.mp3?orgId=1&topicId=1008&d=298&p=3&story=1110472870&dl=1&sc=siteplayer&size=4784005&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "Download",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220715_me_la_malinche_was_a_young_linguist_forced_to_serve_the_spanish_conquerors.mp3?orgId=1&topicId=1008&d=298&p=3&story=1110472870&dl=1&sc=siteplayer&size=4784005&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n                    \n                    Transcript\n                  ",
+      "url": "https://www.npr.org/transcripts/1110472870"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111409130/a-self-serve-grocery-store-helps-feed-a-small-minnesota-town"
+    },
+    {
+      "text": "\n                        National\n                        ",
       "url": "https://www.npr.org/sections/national/"
     },
     {
-      "text": "\n            Suspect in the Buffalo mass shooting has been indicted on federal hate crime charges\n            ",
+      "text": "\n                A self-serve grocery store helps feed a small Minnesota town\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111409130/a-self-serve-grocery-store-helps-feed-a-small-minnesota-town"
+    },
+    {
+      "text": "\n                When the local grocery store closed after seven decades in business, residents of Evansville, Minn., had to drive 20 miles to the nearest supermarket. Now groceries are available around the clock.\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111409130/a-self-serve-grocery-store-helps-feed-a-small-minnesota-town"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111590216/wordle-board-game-party-hasbro-new-york-times"
+    },
+    {
+      "text": "\n                        Games & Humor\n                        ",
+      "url": "https://www.npr.org/sections/games-humor/"
+    },
+    {
+      "text": "\n                Wordle is about to become a board game. Can it compete with the classic?\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111590216/wordle-board-game-party-hasbro-new-york-times"
+    },
+    {
+      "text": "\n                Hasbro has partnered with the New York Times Co. to make a party game inspired by the hit digital puzzle. The ability to easily share your results on social media was part of the original game's draw.\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111590216/wordle-board-game-party-hasbro-new-york-times"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111656963/the-naming-of-an-interim-president-puts-an-end-to-a-political-dynasty-in-sri-lan"
+    },
+    {
+      "text": "\n                        Asia\n                        ",
+      "url": "https://www.npr.org/sections/asia/"
+    },
+    {
+      "text": "\n                The naming of an interim president puts an end to a political dynasty in Sri Lanka\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111656963/the-naming-of-an-interim-president-puts-an-end-to-a-political-dynasty-in-sri-lan"
+    },
+    {
+      "text": "\n                Prime Minister Ranil Wickremesinghe was sworn in as Sri Lanka's interim president until Parliament elects a successor to Gotabaya Rajapaksa, who resigned after mass protests forced him from office.\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111656963/the-naming-of-an-interim-president-puts-an-end-to-a-political-dynasty-in-sri-lan"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111598878/north-carolina-green-party-petition-signatures-hoh-beasley"
+    },
+    {
+      "text": "\n                        Elections\n                        ",
+      "url": "https://www.npr.org/sections/elections/"
+    },
+    {
+      "text": "\n                North Carolina's Green Party says Democrats are working to keep it off the 2022 ballot\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111598878/north-carolina-green-party-petition-signatures-hoh-beasley"
+    },
+    {
+      "text": "\n                The North Carolina Board of Elections, which is controlled by Democrats, has \u2014 so far \u2014 refused to give the Green Party a spot on the ballot, citing possible fraud in their ballot petition.\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111598878/north-carolina-green-party-petition-signatures-hoh-beasley"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111648759/covid-19-coronavirus-omicron-variant-ba5-cdc-vaccines-masks-mayo-clinic"
+    },
+    {
+      "text": "\n                                    Health\n                                    ",
+      "url": "https://www.npr.org/sections/health/"
+    },
+    {
+      "text": "\n                        The omicron subvariant dominating U.S. COVID-19 cases is more vaccine-resistant\n                    ",
+      "url": "https://www.npr.org/2022/07/15/1111648759/covid-19-coronavirus-omicron-variant-ba5-cdc-vaccines-masks-mayo-clinic"
+    },
+    {
+      "text": "\n                        The BA.5 strain represented 65% of cases from July 3 to 9, according to data from the Centers of Disease Control and Prevention.\n                    ",
+      "url": "https://www.npr.org/2022/07/15/1111648759/covid-19-coronavirus-omicron-variant-ba5-cdc-vaccines-masks-mayo-clinic"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111542132/the-gray-man-ryan-gosling-chris-evans-ana-de-armas"
+    },
+    {
+      "text": "\n                        Pop Culture Happy Hour\n                        ",
+      "url": "https://www.npr.org/series/pop-culture-happy-hour"
+    },
+    {
+      "text": "\n                'The Gray Man' review: Even on-screen assassins need something to believe in\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111542132/the-gray-man-ryan-gosling-chris-evans-ana-de-armas"
+    },
+    {
+      "text": "\n                The action-packed thriller starring Ryan Gosling and Chris Evans is clever, stylish and fun to watch. But it's still missing something essential.\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111542132/the-gray-man-ryan-gosling-chris-evans-ana-de-armas"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/14/1111520145/alex-murdaugh-murder-indicted-south-carolina"
+    },
+    {
+      "text": "\n                        Law\n                        ",
+      "url": "https://www.npr.org/sections/law/"
+    },
+    {
+      "text": "\n                Lawyer Alex Murdaugh is indicted for murder, in the latest twist to his wife and son's killings\n            ",
+      "url": "https://www.npr.org/2022/07/14/1111520145/alex-murdaugh-murder-indicted-south-carolina"
+    },
+    {
+      "text": "\n                South Carolina lawyer Alex Murdaugh's indictment on charges that he murdered his wife and son is the latest bombshell to drop in a case that has transfixed the public.\n            ",
+      "url": "https://www.npr.org/2022/07/14/1111520145/alex-murdaugh-murder-indicted-south-carolina"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/14/1111394875/envigo-animal-rescue-beagles"
+    },
+    {
+      "text": "\n                        Animals\n                        ",
+      "url": "https://www.npr.org/sections/animals/"
+    },
+    {
+      "text": "\n                Animal rescue groups across the U.S. band together to rescue 4,000 beagles\n            ",
+      "url": "https://www.npr.org/2022/07/14/1111394875/envigo-animal-rescue-beagles"
+    },
+    {
+      "text": "\n                A federal judge ordered thousands of dogs to be rehomed from a Virginia research facility after several inspections revealed poor conditions. Animal rescue groups are working to do just that.\n            ",
+      "url": "https://www.npr.org/2022/07/14/1111394875/envigo-animal-rescue-beagles"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
       "url": "https://www.npr.org/2022/07/14/1111563442/buffalo-mass-shooting-suspect-indicted-hate-crime-charges-tops-supermarket"
     },
     {
+      "text": "\n                        National\n                        ",
+      "url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "text": "\n                The suspect in the Buffalo mass shooting has been indicted on federal hate crime charges\n            ",
+      "url": "https://www.npr.org/2022/07/14/1111563442/buffalo-mass-shooting-suspect-indicted-hate-crime-charges-tops-supermarket"
+    },
+    {
+      "text": "\n                The white gunman has been held without bail since his arrest after the May 14 shooting that killed 10 Black people and injured three others at a supermarket in Buffalo, N.Y.\n            ",
+      "url": "https://www.npr.org/2022/07/14/1111563442/buffalo-mass-shooting-suspect-indicted-hate-crime-charges-tops-supermarket"
+    },
+    {
+      "text": "\n        \n            Buffalo's Tops grocery will reopen Friday following the mass shooting in May\n        \n    ",
+      "url": "https://www.npr.org/2022/07/12/1110935176/buffalo-tops-grocery-reopening-july-15"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1109357515/ludovico-einaudi-tiny-desk-concert"
+    },
+    {
+      "text": "\n                                    Tiny Desk\n                                    ",
+      "url": "https://www.npr.org/series/tiny-desk-concerts/"
+    },
+    {
+      "text": "\n                        Ludovico Einaudi: Tiny Desk Concert\n                    ",
+      "url": "https://www.npr.org/2022/07/15/1109357515/ludovico-einaudi-tiny-desk-concert"
+    },
+    {
+      "text": "\n                        The Italian pianist and composer brings his emotional and reflective music to the Tiny Desk.\n                    ",
+      "url": "https://www.npr.org/2022/07/15/1109357515/ludovico-einaudi-tiny-desk-concert"
+    },
+    {
       "text": "\n            \n                \n                \n                \n            \n    ",
       "url": "https://www.npr.org/2022/07/14/1111579480/ivana-trump-dead-obituary"
     },
     {
-      "text": "\n                            Politics\n                            ",
+      "text": "\n                        Politics\n                        ",
       "url": "https://www.npr.org/sections/politics/"
     },
     {
-      "text": "\n            Ivana Trump, first wife of Donald Trump, is dead at 73\n            ",
+      "text": "\n                Ivana Trump, first wife of Donald Trump, is dead at 73\n            ",
+      "url": "https://www.npr.org/2022/07/14/1111579480/ivana-trump-dead-obituary"
+    },
+    {
+      "text": "\n                Ivana Trump, the first wife of former President Donald Trump, has died at the age of 73, the Trump family confirmed in a statement.\n            ",
       "url": "https://www.npr.org/2022/07/14/1111579480/ivana-trump-dead-obituary"
     },
     {
@@ -4277,23 +4779,51 @@
       "url": "https://www.npr.org/2022/07/14/1111527437/van-gogh-painting-discovered-self-portrait"
     },
     {
-      "text": "\n                            Fine Art\n                            ",
+      "text": "\n                        Fine Art\n                        ",
       "url": "https://www.npr.org/sections/fine-art/"
     },
     {
-      "text": "\n            A hidden self-portrait of Van Gogh has been discovered. Take a look at the ghostly image\n            ",
+      "text": "\n                A hidden self-portrait of Van Gogh has been discovered. Take a look at the ghostly image\n            ",
       "url": "https://www.npr.org/2022/07/14/1111527437/van-gogh-painting-discovered-self-portrait"
+    },
+    {
+      "text": "\n                As it prepared for an exhibit, the National Galleries of Scotland X-rayed a Vincent Van Gogh painting \u2014 and, on the back of it, found a previously unknown self-portrait, covered by glue and cardboard.\n            ",
+      "url": "https://www.npr.org/2022/07/14/1111527437/van-gogh-painting-discovered-self-portrait"
+    },
+    {
+      "text": "\n        \n            Van Gogh painting stolen after thieves apparently smash Dutch museum entrance\n        \n    ",
+      "url": "https://www.npr.org/2020/03/30/823965150/van-gogh-painting-stolen-after-thieves-apparently-smash-dutch-museum-entrance"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/15/1111652023/chinas-economic-growth-slows-following-covid-lockdowns"
+    },
+    {
+      "text": "\n                        Business\n                        ",
+      "url": "https://www.npr.org/sections/business/"
+    },
+    {
+      "text": "\n                China's economic growth slows following COVID lockdowns\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111652023/chinas-economic-growth-slows-following-covid-lockdowns"
+    },
+    {
+      "text": "\n                China's economy contracted in the three months ending in June compared with the previous quarter after Shanghai and other cities shut down to fight coronavirus outbreaks.\n            ",
+      "url": "https://www.npr.org/2022/07/15/1111652023/chinas-economic-growth-slows-following-covid-lockdowns"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
       "url": "https://www.npr.org/2022/07/14/1111451346/community-unites-after-an-lgbtq-senior-housing-project-in-boston-was-defaced"
     },
     {
-      "text": "\n                            National\n                            ",
+      "text": "\n                        National\n                        ",
       "url": "https://www.npr.org/sections/national/"
     },
     {
-      "text": "\n            Community unites after an LGBTQ+ senior housing project in Boston was defaced\n            ",
+      "text": "\n                A community unites after an LGBTQ+ senior housing project in Boston was defaced\n            ",
+      "url": "https://www.npr.org/2022/07/14/1111451346/community-unites-after-an-lgbtq-senior-housing-project-in-boston-was-defaced"
+    },
+    {
+      "text": "\n                Vandals in Boston defaced the perimeter of the construction site over the weekend, spraying hate-filled messages and death threats on banners and posters. They included threats saying, \"We will burn this.\"\n            ",
       "url": "https://www.npr.org/2022/07/14/1111451346/community-unites-after-an-lgbtq-senior-housing-project-in-boston-was-defaced"
     },
     {
@@ -4314,55 +4844,19 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111548439/ntsb-texas-accident-new-mexico-golfers"
+      "url": "https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi"
     },
     {
-      "text": "\n                        National\n                        ",
-      "url": "https://www.npr.org/sections/national/"
+      "text": "\n                        Animals\n                        ",
+      "url": "https://www.npr.org/sections/animals/"
     },
     {
-      "text": "\n                NTSB now says a 13-year-old was not a driver in a Texas crash that killed 9 people\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111548439/ntsb-texas-accident-new-mexico-golfers"
+      "text": "\n                How do you move 250 elephants to their new home? Very carefully\n            ",
+      "url": "https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi"
     },
     {
-      "text": "\n                A Texas man, not his 13-year-old son, was driving the pickup truck that crossed into the oncoming lane and struck a van carrying New Mexico college golfers, killing nine people, investigators said.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111548439/ntsb-texas-accident-new-mexico-golfers"
-    },
-    {
-      "text": "\n        \n            9 people died in a Texas crash involving college golf teams from New Mexico\n        \n    ",
-      "url": "https://www.npr.org/2022/03/16/1086847645/west-texas-deadly-crash-golf-teams-university-southwest"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1110935176/buffalo-tops-grocery-reopening-july-15"
-    },
-    {
-      "text": "\n                        National\n                        ",
-      "url": "https://www.npr.org/sections/national/"
-    },
-    {
-      "text": "\n                Buffalo's Tops grocery will reopen Friday following the mass shooting in May\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110935176/buffalo-tops-grocery-reopening-july-15"
-    },
-    {
-      "text": "\n                The Tops Friendly Markets grocery store opened on Jefferson Avenue on the East Side of Buffalo in 2003. The newly remodled store will reopen to the public on July 15.\n            ",
-      "url": "https://www.npr.org/2022/07/12/1110935176/buffalo-tops-grocery-reopening-july-15"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111549121/ukraine-vinnytsia-russian-cruise-missiles-attack"
-    },
-    {
-      "text": "\n                        Ukraine invasion \u2014 explained\n                        ",
-      "url": "https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained"
-    },
-    {
-      "text": "\n                A Russian strike on a humanitarian hub is part of a pattern, Ukrainian officials say\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111549121/ukraine-vinnytsia-russian-cruise-missiles-attack"
-    },
-    {
-      "text": "\n                More than 20 people were killed when Russian missiles hit several buildings in Vinnytsia, a central city that has become a major logistical hub for humanitarian aid and military operations.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111549121/ukraine-vinnytsia-russian-cruise-missiles-attack"
+      "text": "\n                One by one, the elephants are being sedated and moved from Malawi's overcrowded Liwonde National Park to the much larger Kasungu park 236 miles away in the country's north.\n            ",
+      "url": "https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -4375,390 +4869,6 @@
     {
       "text": "\n                On their way to deliver the mail, postal trucks spew tons of dangerous air pollutants. Advocates say USPS's giant fleet is perfect for conversion to electric vehicles. But a plan to replace its gas-guzzling trucks with more of the same only includes 20% EVs. Sixteen states, environmentalists, and the U.A.W sued to challenge the plan.\n            ",
       "url": "https://whyy.org/articles/lawsuit-usps-electric-vehicles-pennsylvania-delaware-new-jersey/"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111541333/italy-mario-draghi-resignation"
-    },
-    {
-      "text": "\n                        Europe\n                        ",
-      "url": "https://www.npr.org/sections/europe/"
-    },
-    {
-      "text": "\n                Italy's president rejects Prime Minister Mario Draghi's offer to resign\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111541333/italy-mario-draghi-resignation"
-    },
-    {
-      "text": "\n                The premier offered to quit after a coalition ally refused to support a key bill, but the nation's president asked Draghi to see if he can still find a majority in Parliament willing to back him.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111541333/italy-mario-draghi-resignation"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi"
-    },
-    {
-      "text": "\n                                    Animals\n                                    ",
-      "url": "https://www.npr.org/sections/animals/"
-    },
-    {
-      "text": "\n                        How do you move 250 elephants to their new home? Very carefully\n                    ",
-      "url": "https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi"
-    },
-    {
-      "text": "\n                        One by one, the elephants are being sedated and moved from Malawi's overcrowded Liwonde National Park to the much larger Kasungu park 236 miles away in the country's north.\n                    ",
-      "url": "https://www.npr.org/2022/07/14/1111555644/elephants-moved-malawi"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l"
-    },
-    {
-      "text": "\n                        Economy\n                        ",
-      "url": "https://www.npr.org/sections/economy/"
-    },
-    {
-      "text": "\n                There's a massive housing shortage across the U.S. Here's how bad it is where you live\n            ",
-      "url": "https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l"
-    },
-    {
-      "text": "\n                Hundreds of cities and towns are seriously short of housing, both homes to buy and rentals, according to a new study. It's the main reason that home prices and rents are so high.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea"
-    },
-    {
-      "text": "\n                        World\n                        ",
-      "url": "https://www.npr.org/sections/world/"
-    },
-    {
-      "text": "\n                Members of Brittney Griner's Russian team defend her character, on and off the court\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea"
-    },
-    {
-      "text": "\n                Griner appeared moved by the testimony of her friends, tearing up repeatedly during Thursday's proceedings. Her longtime team doctor added that Griner has never failed a drug test.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111492772/brittney-griner-trial-resumes-guilty-plea"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia"
-    },
-    {
-      "text": "\n                                    Middle East\n                                    ",
-      "url": "https://www.npr.org/sections/middle-east/"
-    },
-    {
-      "text": "\n                        Biden stops short of saying he will raise Khashoggi's killing in Saudi Arabia\n                    ",
-      "url": "https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia"
-    },
-    {
-      "text": "\n                        President Biden said \"I always bring up human rights\" on foreign trips, but stopped short of saying he would raise the 2018 killing of journalist Jamal Khashoggi when he meets Saudi leaders.\n                    ",
-      "url": "https://www.npr.org/2022/07/14/1111496523/biden-stops-short-of-saying-he-will-raise-khashoggis-killing-in-saudi-arabia"
-    },
-    {
-      "text": "\n        \n            Biden is building on the Abraham Accords, part of Trump's legacy in the Middle East\n        \n    ",
-      "url": "https://www.npr.org/2022/07/09/1110109088/biden-is-building-on-the-abraham-accords-part-of-trumps-legacy-in-the-middle-eas"
-    },
-    {
-      "text": "\n        \n            Biden tries fist bumps instead of handshakes ahead of Saudi crown prince meeting\n        \n    ",
-      "url": "https://www.npr.org/2022/07/13/1111291815/biden-handshake-middle-east-trip"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/deceptivecadence/2022/07/14/1111497758/remembering-richard-taruskin-musicologist"
-    },
-    {
-      "text": "\n                                    Deceptive Cadence\n                                ",
-      "url": "https://www.npr.org/sections/deceptivecadence/"
-    },
-    {
-      "text": "\n                    Remembering Richard Taruskin, a writer who made you care about 1,000 years of music\n                ",
-      "url": "https://www.npr.org/sections/deceptivecadence/2022/07/14/1111497758/remembering-richard-taruskin-musicologist"
-    },
-    {
-      "text": "                    \n                    Hear the towering \u2013 and polarizing \u2013 author in conversation about his 4,000-page book, The Oxford History of Western Music.\n                ",
-      "url": "https://www.npr.org/sections/deceptivecadence/2022/07/14/1111497758/remembering-richard-taruskin-musicologist"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111060299/school-segregation-report"
-    },
-    {
-      "text": "\n                                    Education\n                                ",
-      "url": "https://www.npr.org/sections/education/"
-    },
-    {
-      "text": "\n                    The U.S. student population is more diverse, but schools are still highly segregated\n                ",
-      "url": "https://www.npr.org/2022/07/14/1111060299/school-segregation-report"
-    },
-    {
-      "text": "                    \n                    A new report from the U.S. Government Accountability Office finds that public schools remain highly segregated along racial, ethnic and socioeconomic lines. One reason: school district secession.\n                ",
-      "url": "https://www.npr.org/2022/07/14/1111060299/school-segregation-report"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            3:12\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220714_me_the_us_student_population_is_more_diverse_but_schools_are_still_highly_segregated.mp3?orgId=1&topicId=1013&d=192&p=3&story=1111060299&dl=1&sc=siteplayer&size=3076224&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220714_me_the_us_student_population_is_more_diverse_but_schools_are_still_highly_segregated.mp3?orgId=1&topicId=1013&d=192&p=3&story=1111060299&dl=1&sc=siteplayer&size=3076224&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n                    \n                    Transcript\n                  ",
-      "url": "https://www.npr.org/transcripts/1111060299"
-    },
-    {
-      "text": "\n        \n            Why white school districts have so much more money\n        \n    ",
-      "url": "https://www.npr.org/2019/02/26/696794821/why-white-school-districts-have-so-much-more-money"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111492659/virginia-flooding-buchanan"
-    },
-    {
-      "text": "\n                        National\n                        ",
-      "url": "https://www.npr.org/sections/national/"
-    },
-    {
-      "text": "\n                Crews have found all 44 Virginia residents who were missing after flooding\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111492659/virginia-flooding-buchanan"
-    },
-    {
-      "text": "\n                Authorities in southwest Virginia had feared the worst as they were inundated with calls from people who said they were unable to reach family members. But by noon Thursday, everyone had been located.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111492659/virginia-flooding-buchanan"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111505514/regina-carter-kenny-garrett-and-louis-hayes-named-2023-nea-jazz-masters"
-    },
-    {
-      "text": "\n                                    Music News\n                                    ",
-      "url": "https://www.npr.org/sections/music-news/"
-    },
-    {
-      "text": "\n                        Regina Carter, Kenny Garrett and Louis Hayes are named 2023 NEA Jazz Masters\n                    ",
-      "url": "https://www.npr.org/2022/07/14/1111505514/regina-carter-kenny-garrett-and-louis-hayes-named-2023-nea-jazz-masters"
-    },
-    {
-      "text": "\n                        The trio of players, all from Detroit, along with producer and author Sue Mingus, will be celebrated in a tribute concert next spring.\n                    ",
-      "url": "https://www.npr.org/2022/07/14/1111505514/regina-carter-kenny-garrett-and-louis-hayes-named-2023-nea-jazz-masters"
-    },
-    {
-      "text": "\n        \n            Charles Mingus contained multitudes, but his native language was protest\n        \n    ",
-      "url": "https://www.npr.org/2022/04/22/1094097303/charles-mingus-centennial-100-protest-contradiction"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1109874420/covid-safety-disabled-people-immunocompromised"
-    },
-    {
-      "text": "\n                        The Coronavirus Crisis\n                        ",
-      "url": "https://www.npr.org/series/812054919/the-coronavirus-crisis"
-    },
-    {
-      "text": "\n                Many try to return to normal from COVID, but disabled people face a different reality\n            ",
-      "url": "https://www.npr.org/2022/07/14/1109874420/covid-safety-disabled-people-immunocompromised"
-    },
-    {
-      "text": "\n                With COVID safety protocols rescinding around the country, many are returning to a sense of pre-pandemic normalcy. But disabled and immunocompromised people can't do so, and are being left behind.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1109874420/covid-safety-disabled-people-immunocompromised"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111411384/irs-head-is-getting-questioned-by-lawmakers-after-former-fbi-officials-were-audi"
-    },
-    {
-      "text": "\n                        Politics\n                        ",
-      "url": "https://www.npr.org/sections/politics/"
-    },
-    {
-      "text": "\n                The IRS chief is getting questioned by lawmakers after former FBI officials were audited\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111411384/irs-head-is-getting-questioned-by-lawmakers-after-former-fbi-officials-were-audi"
-    },
-    {
-      "text": "\n                U.S. Tax Commissioner Charles Rettig, who was appointed by President Trump in 2018, will face questions behind closed doors from lawmakers in the House and Senate before the end of the month.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111411384/irs-head-is-getting-questioned-by-lawmakers-after-former-fbi-officials-were-audi"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu"
-    },
-    {
-      "text": "\n                                    Goats and Soda\n                                ",
-      "url": "https://www.npr.org/sections/goatsandsoda/"
-    },
-    {
-      "text": "\n                    Abortion laws in Colombia are now among the most liberal in the Americas\n                ",
-      "url": "https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu"
-    },
-    {
-      "text": "                    \n                    The Constitutional Court issued the ruling in February of this year. It's part of a so-called \"green wave\" of liberalizing abortion rights in some Latin America countries. And it's led to protests.\n                ",
-      "url": "https://www.npr.org/sections/goatsandsoda/2022/05/10/1097570784/colombia-legalized-abortions-for-the-first-24-weeks-of-pregnancy-a-backlash-ensu"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            4:58\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/03/20220330_atc_colombia_abortion_law.mp3?orgId=1&topicId=1031&d=298&story=1097570784&dl=1&sc=siteplayer&size=4780662&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/03/20220330_atc_colombia_abortion_law.mp3?orgId=1&topicId=1031&d=298&story=1097570784&dl=1&sc=siteplayer&size=4780662&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/12/1111038172/buck-supermoon-july-full-moon"
-    },
-    {
-      "text": "\n                                    Space\n                                    ",
-      "url": "https://www.npr.org/sections/space/"
-    },
-    {
-      "text": "\n                        A buck supermoon rose on Wednesday. Here's what it looked like around the world\n                    ",
-      "url": "https://www.npr.org/2022/07/12/1111038172/buck-supermoon-july-full-moon"
-    },
-    {
-      "text": "\n                        July's supermoon is the third in a series of four in 2022. While the full moon occurred on Wednesday, it will appear full for about three days, through Friday morning.\n                    ",
-      "url": "https://www.npr.org/2022/07/12/1111038172/buck-supermoon-july-full-moon"
-    },
-    {
-      "text": "\n        \n            NASA's James Webb telescope captures groundbreaking images of distant galaxies\n        \n    ",
-      "url": "https://www.npr.org/sections/pictureshow/2022/07/12/1111002820/webb-telescope-images-nasa"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111486251/the-war-in-ukraine-is-playing-a-special-role-in-frances-bastille-day-parade"
-    },
-    {
-      "text": "\n                        Europe\n                        ",
-      "url": "https://www.npr.org/sections/europe/"
-    },
-    {
-      "text": "\n                The war in Ukraine is playing a special role in France's Bastille Day parade\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111486251/the-war-in-ukraine-is-playing-a-special-role-in-frances-bastille-day-parade"
-    },
-    {
-      "text": "\n                France is celebrating its national holiday with thousands of French troops marching down the Champs-Elysees avenue alongside Eastern European allies touched most closely by the war in Ukraine.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111486251/the-war-in-ukraine-is-playing-a-special-role-in-frances-bastille-day-parade"
-    },
-    {
-      "text": "\n        \n            Ukraine invasion \u2014 explained\n        \n    ",
-      "url": "https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/14/1111297318/over-the-counter-birth-control-pills"
-    },
-    {
-      "text": "\n                        Shots - Health News\n                        ",
-      "url": "https://www.npr.org/sections/health-shots/"
-    },
-    {
-      "text": "\n                Over-the-counter birth control pills are available worldwide. The U.S. may be next\n            ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/14/1111297318/over-the-counter-birth-control-pills"
-    },
-    {
-      "text": "\n                Birth control pills are available in the U.S. only with a prescription. Now a drugmaker is asking the FDA to approve a progestin-only contraceptive that would be available without one at pharmacies.\n            ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/14/1111297318/over-the-counter-birth-control-pills"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111225956/super-nintendo-game-manuals"
-    },
-    {
-      "text": "\n                                    Games & Humor\n                                ",
-      "url": "https://www.npr.org/sections/games-humor/"
-    },
-    {
-      "text": "\n                    A super fan collected every Super Nintendo game manual and made them free\n                ",
-      "url": "https://www.npr.org/2022/07/14/1111225956/super-nintendo-game-manuals"
-    },
-    {
-      "text": "                    \n                    Kerry Hays has crowdsourced the manuals for upwards of 850 unique Super Nintendo games and made them free on an online archive.\n                ",
-      "url": "https://www.npr.org/2022/07/14/1111225956/super-nintendo-game-manuals"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            3:06\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220713_atc_snes_manuals.mp3?orgId=1&topicId=1052&d=186&story=1111225956&dl=1&sc=siteplayer&size=2983019&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220713_atc_snes_manuals.mp3?orgId=1&topicId=1052&d=186&story=1111225956&dl=1&sc=siteplayer&size=2983019&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111380028/emmett-till-warrant-family-arrest-lynching"
-    },
-    {
-      "text": "\n                                    National\n                                ",
-      "url": "https://www.npr.org/sections/national/"
-    },
-    {
-      "text": "\n                    Emmett Till's family says 'white pedestal' theory has denied them justice for decades\n                ",
-      "url": "https://www.npr.org/2022/07/14/1111380028/emmett-till-warrant-family-arrest-lynching"
-    },
-    {
-      "text": "                    \n                    The family of Emmett Till want authorities to serve a 1955 arrest warrant to the white woman they say is responsible for his murder and kidnapping.\n                ",
-      "url": "https://www.npr.org/2022/07/14/1111380028/emmett-till-warrant-family-arrest-lynching"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            4:28\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220713_atc_why_the_family_of_emmitt_till_want_authorities_to_serve_a_67-year-old_arrest_warrant.mp3?orgId=1&topicId=1003&d=268&story=1111380028&dl=1&sc=siteplayer&size=4301680&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220713_atc_why_the_family_of_emmitt_till_want_authorities_to_serve_a_67-year-old_arrest_warrant.mp3?orgId=1&topicId=1003&d=268&story=1111380028&dl=1&sc=siteplayer&size=4301680&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111471532/space-science-stars-radio-waves-signals-galaxy-lightyears-mit"
-    },
-    {
-      "text": "\n                                    Space\n                                    ",
-      "url": "https://www.npr.org/sections/space/"
-    },
-    {
-      "text": "\n                        Scientists have picked up a radio signal 'heartbeat' billions of light-years away\n                    ",
-      "url": "https://www.npr.org/2022/07/14/1111471532/space-science-stars-radio-waves-signals-galaxy-lightyears-mit"
-    },
-    {
-      "text": "\n                        Scientists have not been able to pinpoint the exact location of the radio waves yet, but suspect the source could be neutron stars, which are made from collapsed cores of giant stars.\n                    ",
-      "url": "https://www.npr.org/2022/07/14/1111471532/space-science-stars-radio-waves-signals-galaxy-lightyears-mit"
-    },
-    {
-      "text": "\n        \n            NASA's James Webb telescope captures groundbreaking images of distant galaxies\n        \n    ",
-      "url": "https://www.npr.org/sections/pictureshow/2022/07/12/1111002820/webb-telescope-images-nasa"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111482529/kevin-spacey-uk-sex-assault-charges"
-    },
-    {
-      "text": "\n                        Culture\n                        ",
-      "url": "https://www.npr.org/sections/culture/"
-    },
-    {
-      "text": "\n                Spacey pleads not guilty to charges in the U.K. that he sexually assaulted three men\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111482529/kevin-spacey-uk-sex-assault-charges"
-    },
-    {
-      "text": "\n                Actor Kevin Spacey's trial in the United Kingdom has been scheduled to begin in June 2023. He faces a separate civil sex-assault lawsuit in the United States from another man, actor Anthony Rapp.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111482529/kevin-spacey-uk-sex-assault-charges"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1109356764/curse-of-lono-tiny-desk-home-concert"
-    },
-    {
-      "text": "\n                        Tiny Desk\n                        ",
-      "url": "https://www.npr.org/series/tiny-desk-concerts/"
-    },
-    {
-      "text": "\n                Curse Of Lono: Tiny Desk (Home) Concert\n            ",
-      "url": "https://www.npr.org/2022/07/14/1109356764/curse-of-lono-tiny-desk-home-concert"
-    },
-    {
-      "text": "\n                The band, led by singer and songwriter Felix Bechtolsheimer, performs dark but beautiful songs from its evocative 2022 album People In Cars.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1109356764/curse-of-lono-tiny-desk-home-concert"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -4775,98 +4885,6 @@
     {
       "text": "\n                When was the last time you picked up a pen and composed a letter to a friend or a family member? NPR's poet in residence Kwame Alexander wants you to share a poem in letter form.\n            ",
       "url": "https://www.npr.org/2022/07/14/1110899503/poems-you-mail-share-a-poem"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/13/1111348722/pharmacies-may-violate-civil-rights-if-they-refuse-meds-linked-to-abortion-feds-"
-    },
-    {
-      "text": "\n                        Shots - Health News\n                        ",
-      "url": "https://www.npr.org/sections/health-shots/"
-    },
-    {
-      "text": "\n                Pharmacies may violate civil rights if they refuse meds linked to abortion, feds warn\n            ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/13/1111348722/pharmacies-may-violate-civil-rights-if-they-refuse-meds-linked-to-abortion-feds-"
-    },
-    {
-      "text": "\n                Pharmacists refusing to fill prescriptions for medications used for abortion could be violating civil rights law. The meds are also used to treat miscarriages, arthritis and ulcers.\n            ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/13/1111348722/pharmacies-may-violate-civil-rights-if-they-refuse-meds-linked-to-abortion-feds-"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/13/1111137152/these-brazilian-besties-are-inventing-an-mrna-vaccine-as-a-gift-to-the-world"
-    },
-    {
-      "text": "\n                                    Goats and Soda\n                                    ",
-      "url": "https://www.npr.org/sections/goatsandsoda/"
-    },
-    {
-      "text": "\n                        These Brazilian besties are inventing an mRNA vaccine as a gift to the world\n                    ",
-      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/13/1111137152/these-brazilian-besties-are-inventing-an-mrna-vaccine-as-a-gift-to-the-world"
-    },
-    {
-      "text": "\n                        Pfizer and Moderna have refused to divulge details of how to make their cutting-edge COVID shots. Here's what two scientists \u2014 and longtime best friends \u2014 are doing about it.\n                    ",
-      "url": "https://www.npr.org/sections/goatsandsoda/2022/07/13/1111137152/these-brazilian-besties-are-inventing-an-mrna-vaccine-as-a-gift-to-the-world"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            7:53\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220713_atc_how_two_brazilian_best_pals_plan_to_bring_the_mrna_vaccine_recipe_to_everyone.mp3?orgId=1&topicId=1031&d=473&p=2&story=1111137152&dl=1&sc=siteplayer&size=7572629&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220713_atc_how_two_brazilian_best_pals_plan_to_bring_the_mrna_vaccine_recipe_to_everyone.mp3?orgId=1&topicId=1031&d=473&p=2&story=1111137152&dl=1&sc=siteplayer&size=7572629&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n                    \n                    Transcript\n                  ",
-      "url": "https://www.npr.org/transcripts/1111137152"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris"
-    },
-    {
-      "text": "\n                        Movies\n                        ",
-      "url": "https://www.npr.org/sections/movies/"
-    },
-    {
-      "text": "\n                Dreaming of Dior, a charwoman follows her bliss in 'Mrs. Harris Goes to Paris'\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris"
-    },
-    {
-      "text": "\n                A widowed cleaning lady in 1950s London sets her heart on a designer dress in this charm-filled adaptation of Paul Gallico's 1958 novel.\n            ",
-      "url": "https://www.npr.org/2022/07/14/1111073363/dreaming-of-dior-a-charwoman-follows-her-bliss-in-mrs-harris-goes-to-paris"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/13/1111285143/abortion-10-year-old-raped-ohio"
-    },
-    {
-      "text": "\n                        Reproductive rights in America\n                        ",
-      "url": "https://www.npr.org/series/1096684820/roe-v-wade-and-the-future-of-reproductive-rights-in-america"
-    },
-    {
-      "text": "\n                How a child's abortion ordeal became national news\n            ",
-      "url": "https://www.npr.org/2022/07/13/1111285143/abortion-10-year-old-raped-ohio"
-    },
-    {
-      "text": "\n                The Indianapolis Star's story about an anonymous child rape victim from Ohio who crossed state lines to get an abortion became a political lightning rod. Now a man has been arraigned for the rape.\n            ",
-      "url": "https://www.npr.org/2022/07/13/1111285143/abortion-10-year-old-raped-ohio"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/13/1110570938/black-gun-owners-supreme-court-concealed-carry-new-york"
-    },
-    {
-      "text": "\n                        Race\n                        ",
-      "url": "https://www.npr.org/sections/race/"
-    },
-    {
-      "text": "\n                Black gun owners have mixed feelings about the Supreme Court's concealed-carry ruling\n            ",
-      "url": "https://www.npr.org/2022/07/13/1110570938/black-gun-owners-supreme-court-concealed-carry-new-york"
-    },
-    {
-      "text": "\n                The United States has often been hostile toward Black gun ownership, but African Americans are the fastest growing demographic of armed weapons buyers in the country.\n            ",
-      "url": "https://www.npr.org/2022/07/13/1110570938/black-gun-owners-supreme-court-concealed-carry-new-york"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -5022,7 +5040,7 @@
     }
   ],
   "server": "ia601409.us.archive.org",
-  "uniq": 633340615,
+  "uniq": 1040738049,
   "workable_servers": [
     "ia601409.us.archive.org",
     "ia801409.us.archive.org"

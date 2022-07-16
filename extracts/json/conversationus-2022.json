@@ -118,11 +118,11 @@
     },
     {
       "text": "Sign up as a reader",
-      "url": "/sign_up?return_to=%2Fus"
+      "url": "/sign_up?return_to=/us"
     },
     {
       "text": "Sign in",
-      "url": "/sign_in?return_to=%2Fus"
+      "url": "/sign_in?return_to=/us"
     },
     {
       "text": "\n    \n",
@@ -833,16 +833,16 @@
       "url": "/the-james-webb-space-telescope-is-finally-ready-to-do-science-and-its-seeing-the-universe-more-clearly-than-even-its-own-engineers-hoped-for-184989"
     },
     {
-      "text": "How hot is too hot for the human body? Our lab found heat + humidity gets dangerous faster than many people\u00a0realize",
-      "url": "/how-hot-is-too-hot-for-the-human-body-our-lab-found-heat-humidity-gets-dangerous-faster-than-many-people-realize-185593"
+      "text": "James Webb Space Telescope: An astronomer explains the stunning, newly released first\u00a0images",
+      "url": "/james-webb-space-telescope-an-astronomer-explains-the-stunning-newly-released-first-images-186800"
     },
     {
       "text": "Manuscripts and art support archaeological evidence that syphilis was in Europe long before explorers could have brought it home from the\u00a0Americas",
       "url": "/manuscripts-and-art-support-archaeological-evidence-that-syphilis-was-in-europe-long-before-explorers-could-have-brought-it-home-from-the-americas-182114"
     },
     {
-      "text": "Migraine sufferers have treatment choices \u2013 a neurologist explains options beyond just pain\u00a0medication",
-      "url": "/migraine-sufferers-have-treatment-choices-a-neurologist-explains-options-beyond-just-pain-medication-181348"
+      "text": "How hot is too hot for the human body? Our lab found heat + humidity gets dangerous faster than many people\u00a0realize",
+      "url": "/how-hot-is-too-hot-for-the-human-body-our-lab-found-heat-humidity-gets-dangerous-faster-than-many-people-realize-185593"
     },
     {
       "text": "Tell us",
@@ -1345,7 +1345,7 @@
       "url": "https://theconversation.com/us/who-we-are"
     }
   ],
-  "created": 1657886888,
+  "created": 1657932611,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/34/items/conversationus-2022",
@@ -1908,31 +1908,73 @@
       "sha1": "2de2cd46cc0655be41c1de7abaaf931b4e18c2fe"
     },
     {
+      "name": "conversationus-2022-07-15T08:46:33.712878-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657889196",
+      "size": "53033",
+      "md5": "df0b3efdaa9adaa2cb58c9515c801a9c",
+      "crc32": "907ea08a",
+      "sha1": "0185e0d26e8f4175426508c5f3537987267c86ae",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-07-15T08:46:33.712878-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657889197",
+      "size": "42745",
+      "md5": "ca68db520b82289132a35caaabfdad7e",
+      "crc32": "15eeb891",
+      "sha1": "37619063ce847cde4db52a17da3b50dac78d5b58",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-07-15T08:46:33.712878-04:00.jpg",
+      "source": "original",
+      "mtime": "1657889195",
+      "size": "326687",
+      "md5": "efa70afef7297a8a1899b2c35c156941",
+      "crc32": "0a6fbc83",
+      "sha1": "7cbfb03c063b35f911df91c5a34c4e2fdeaa6371",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "conversationus-2022-07-15T08:46:33.712878-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "conversationus-2022-07-15T08:46:33.712878-04:00.jpg",
+      "mtime": "1657897909",
+      "size": "10381",
+      "md5": "1524bcf70b0ff5ac9e3bff5c4360a969",
+      "crc32": "2d836e74",
+      "sha1": "16f34cfb13301ba36db099b7a670f85633f15b80"
+    },
+    {
       "name": "conversationus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "70b8dd4c51c02f555378d8d89889af5b4e3cd225",
-      "mtime": "1657846710",
-      "size": "12958",
-      "md5": "b82c788557bfbe8693af5c71d411b794",
-      "crc32": "85312632",
-      "sha1": "f862df2c53c3769628939a40ad5f564798b95f57",
+      "btih": "dac8100c47746feee217e6acde27362c5c360daa",
+      "mtime": "1657897913",
+      "size": "13832",
+      "md5": "09c734fac09eea2632e4a7a1394fe9df",
+      "crc32": "4969565b",
+      "sha1": "7a2296bbaca8c87b2cdc5b1847a31007c651a78f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "conversationus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "21cba6258d23669f952d870c379fa962",
+      "md5": "3c83c4c66d7c4fb171e6070af9591d91",
       "summation": "md5"
     },
     {
       "name": "conversationus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657846633",
-      "size": "73728",
-      "md5": "85e254e6c74c14ee2f257e158965c424",
-      "crc32": "c70b0326",
-      "sha1": "a37b7e358893077652ceb2ce17898448c4f94c0a",
+      "mtime": "1657889201",
+      "size": "77824",
+      "md5": "e013eb27a525bab32bf12e46fda1da31",
+      "crc32": "8d58d2ac",
+      "sha1": "89aa702dd49b7f40068dd9d42f08cf474af96171",
       "format": "Metadata"
     },
     {
@@ -1946,9 +1988,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 57,
-  "item_last_updated": 1657846710,
-  "item_size": 4979415,
+  "files_count": 61,
+  "item_last_updated": 1657897913,
+  "item_size": 5417231,
   "metadata": {
     "identifier": "conversationus-2022",
     "collection": [
@@ -1965,10 +2007,10 @@
     "publicdate": "2022-07-09 03:57:31",
     "addeddate": "2022-07-09 03:57:31"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 1762955780,
+  "server": "ia902501.us.archive.org",
+  "uniq": 1185893183,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

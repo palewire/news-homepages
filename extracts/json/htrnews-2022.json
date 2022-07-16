@@ -1,5 +1,5 @@
 {
-  "created": 1657879741,
+  "created": 1657932789,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/24/items/htrnews-2022",
@@ -6926,31 +6926,73 @@
       "sha1": "2bcc7044089e2e0cb9848501a2fb18656c0361a5"
     },
     {
+      "name": "htrnews-2022-07-15T08:56:02.590857-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657893366",
+      "size": "22929",
+      "md5": "ef021f1b2b44d65f160267f32c4f0022",
+      "crc32": "679830d7",
+      "sha1": "442420ace3948fcf037d8a8ba2c2d98aeb2cfee0",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-07-15T08:56:02.590857-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657893368",
+      "size": "65075",
+      "md5": "eb8e4d71f6d285b0fbb4db074c86773b",
+      "crc32": "142fa464",
+      "sha1": "dfae8c5f60fb87d67a9b7f2121396bf1d4999e1d",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-07-15T08:56:02.590857-05:00.jpg",
+      "source": "original",
+      "mtime": "1657893364",
+      "size": "299187",
+      "md5": "0b76565c8ada83a6bf8d3f3b0bff2047",
+      "crc32": "52f505a5",
+      "sha1": "44b914fc438f4348f680b1f82b5069bec09578c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-07-15T08:56:02.590857-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-07-15T08:56:02.590857-05:00.jpg",
+      "mtime": "1657901985",
+      "size": "9525",
+      "md5": "bde5e3a7f041c1829d806dea18d1dcc6",
+      "crc32": "fc3171a6",
+      "sha1": "c10c0c5ad136fbd6f0d6e68912365820cb34f53b"
+    },
+    {
       "name": "htrnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "18716c7694bb900241dcd8497637c4f5ffe524d6",
-      "mtime": "1657851707",
-      "size": "139442",
-      "md5": "fd7bf5f59bc1f58da8133149e5561df6",
-      "crc32": "53b04515",
-      "sha1": "fb347fb6cef6653375393c972f05300a2f2794ad",
+      "btih": "874767a59171c4e518b191facfaf53170e3b3684",
+      "mtime": "1657902024",
+      "size": "140287",
+      "md5": "a3e05ae7747c0dc261bd8ba3b5e2f147",
+      "crc32": "8f7b6d33",
+      "sha1": "430a2263338efc015822251a5c17d2863d801951",
       "format": "Archive BitTorrent"
     },
     {
       "name": "htrnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e521721d12d5f7afbdb63c3a502fd6f2",
+      "md5": "dc78d2dafc5c451f98dd07ab706def98",
       "summation": "md5"
     },
     {
       "name": "htrnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657851625",
-      "size": "770048",
-      "md5": "b4335b80d6c6a8d428d59f2aa5d74cdb",
-      "crc32": "c39b1f87",
-      "sha1": "cb19c231c34a4a65234eab4e45b3ca4d23840530",
+      "mtime": "1657893371",
+      "size": "774144",
+      "md5": "246091ac41b2d936006177df286cfb06",
+      "crc32": "aad26c7b",
+      "sha1": "05d9ec6f7230fffb3f6bfc6dcf4b1b95e60896aa",
       "format": "Metadata"
     },
     {
@@ -6964,9 +7006,647 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 663,
-  "item_last_updated": 1657851707,
-  "item_size": 55998226,
+  "files_count": 667,
+  "htrnews-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/nanobar?gps-source=CPTILELEFT&itm_campaign=2022MIDSUMMER&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2022MIDSUMMER&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Packers",
+      "url": "/packers/"
+    },
+    {
+      "text": "Ideas Lab",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://www.htrnews.com/obituaries/"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.htrnews.com/user/enewspaper"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.htrnews.com/public-notices"
+    },
+    {
+      "text": "",
+      "url": "/search/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "https://subscribe.htrnews.com/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2022MIDSUMMER&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://login.htrnews.com/PMAC-GUP/authenticate/?success-url=https%3A%2F%2Fwww.htrnews.com%2F&cancel-url=https%3A%2F%2Fwww.htrnews.com%2F"
+    },
+    {
+      "text": " Manitowoc, find out who bought and sold property in the city",
+      "url": "/story/money/2022/07/15/manitowoc-homes-sold-and-real-estate-transfers-july-15-2022/10054410002/"
+    },
+    {
+      "text": "Manitowoc County's COVID-19 Community Level rises to medium. What this means for residents.",
+      "url": "/story/news/2022/07/14/covid-19-cases-manitowoc-county-community-level-rises-medium/10063763002/"
+    },
+    {
+      "text": "What you need to know about Wisconsin's race for attorney general",
+      "url": "/story/news/politics/elections/2022/07/14/wisconsin-attorney-general-election-candidates-abortion-law-after-roe-v-wade-overturned/7755800001/"
+    },
+    {
+      "text": "'Resilience' has become a critical life skill. Here's the science behind it.",
+      "url": "/in-depth/news/2022/07/14/whats-science-behind-resilience-how-do-we-nurture-it/7280507001/"
+    },
+    {
+      "text": " Packers' two-back offense expands Aaron Jones' receiver\u2026",
+      "url": "/story/sports/nfl/packers/2022/07/15/packers-two-back-offense-of-aaron-jones-and-aj-dillon-could-help-aaron-rodgers-without-davante-adams/7751462001/"
+    },
+    {
+      "text": " Voters care about clean water. Now they're trying to get\u2026",
+      "url": "/story/news/politics/2022/07/15/pfas-clean-water-rising-issues-wisconsin-marquette-poll-finds/7746843001/"
+    },
+    {
+      "text": " American Airlines adds larger jets, nonstop flights for\u2026",
+      "url": "/story/sports/nfl/packers/2022/07/15/american-airlines-adds-seats-flights-green-bay-packers-home-games/10057319002/"
+    },
+    {
+      "text": " 'Hey, dere, Nandor.' FX/Hulu vampire comedy spoofs\u2026",
+      "url": "/story/entertainment/television/2022/07/14/what-we-do-shadows-plays-wisconsin-accent-packers-laughs/10059468002/"
+    },
+    {
+      "text": "The push for more inclusive, equitable healthcare",
+      "url": "https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsv4BZXxbZ8T4o0u9yevw2Q7dLSH1OXzIMGrDjS_wzhyd4q_RT3FKCtkL07luZpQ-Q1xEVQj6B8wFTeE5qJvKNZplP_5nMMrw0elKdh9OaOkdCC1dzdgxxxoFcJ4_j8yFJcUZd8GjBmxko5pT_lkxyQ-nnVjUfD35ta81HS0AA7L3n-LHy4XxjoZh7RGrpNQ2soOQqKVbmDZo0wPKBlPM4KHanAMOCYESxGM5jN8btbLzZKRWPCovbrS7JIa8xKTErDgfEjSXzRzAbg_-ROsf2JdJDPUbu-a4PdQuwKE1v8dF4SjM_6OJiYKgC8RVXrV51JdbeFXh5za-qp8cIeMn_eh_7kk4jNykg&sig=Cg0ArKJSzEbKblOG6ppfEAE&fbs_aeid=[gw_fbsaeid]&urlfix=1&adurl=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fsponsor-story%2Fpfizer%2F2022%2F06%2F22%2Fimproving-health-equity-america-importance-inclusivity%2F7555890001%2F%3Fmvt%3Di%26mvn%3D25d597bad6ec4988b8b53169e22c7fdb%26mvp%3DNA-GANNLOCASITEMANA-11238693%26mvl%3DKey-tangent-tile%2520%255BTangent%2520Desktop%2520Tile%255D%26utm_campaign%3D6ca8feadc1fb48789bd9682b7e81b859%26utm_source%3Dpolar%26utm_medium%3Dcpc"
+    },
+    {
+      "text": " Here are the Packers training camp dates open to the\u2026",
+      "url": "/story/news/2022/06/22/green-bay-packers-announce-2022-training-camp-dates-practices-open-public-nfl/7700121001/"
+    },
+    {
+      "text": " Voters care about clean water. Now they're trying to get lawmakers to pay attention\u00a0",
+      "url": "/story/news/politics/2022/07/15/pfas-clean-water-rising-issues-wisconsin-marquette-poll-finds/7746843001/"
+    },
+    {
+      "text": " Manitowoc County's COVID-19 Community Level rises to medium. What this means for residents.\u00a0",
+      "url": "/story/news/2022/07/14/covid-19-cases-manitowoc-county-community-level-rises-medium/10063763002/"
+    },
+    {
+      "text": " WEC administrator: Voters must place own ballots in the mail\u00a0",
+      "url": "/story/news/politics/elections/2022/07/14/wisconsin-voters-must-place-their-own-ballots-mail/10060842002/"
+    },
+    {
+      "text": "More in News",
+      "url": "/news/"
+    },
+    {
+      "text": " Wisconsin Football Coaches Association all-star games this weekend at Titan Stadium in Oshkosh\u00a0",
+      "url": "/story/sports/high-school/football/2022/07/14/rosters-for-wisconsin-football-coaches-association-all-star-games-at-titan-stadium-in-oshkosh/10044050002/"
+    },
+    {
+      "text": " Golf Coaches Association of Wisconsin announces 2022 boys all-state team\u00a0",
+      "url": "/story/sports/high-school/golf/2022/07/14/mason-schmidtke-sheboygan-north-on-golf-coaches-association-of-wisconsin-boys-all-state-first-team/7750443001/"
+    },
+    {
+      "text": " Prospect Mario Feliciano expanding his knowledge on Brewers' road trip\u00a0",
+      "url": "/story/sports/mlb/brewers/2022/07/14/prospect-mario-feliciano-expanding-his-knowledge-brewers-road-trip/10057202002/"
+    },
+    {
+      "text": "More in Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": " Manitowoc, find out who bought and sold property in the city\u00a0",
+      "url": "/story/money/2022/07/15/manitowoc-homes-sold-and-real-estate-transfers-july-15-2022/10054410002/"
+    },
+    {
+      "text": " American Airlines adds larger jets, nonstop flights for Packers games\u00a0",
+      "url": "/story/sports/nfl/packers/2022/07/15/american-airlines-adds-seats-flights-green-bay-packers-home-games/10057319002/"
+    },
+    {
+      "text": " How Green Bay travelers can save money on flights despite surging airfare costs\u00a0",
+      "url": "/story/money/2022/07/12/appleton-flight-expenses-reach-record-highs-heres-how-save-money/7635064001/"
+    },
+    {
+      "text": "More in Business",
+      "url": "/business/"
+    },
+    {
+      "text": " 5 things to do in Manitowoc: Acoustic Fest, Wine with Alpacas and Treehouse Theatre's 'Jungle Book'\u00a0",
+      "url": "/story/entertainment/2022/07/13/manitowoc-events-acoustic-fest-and-treehouse-theaters-jungle-book-set/10018127002/"
+    },
+    {
+      "text": " 5 fascinating historical markers in Manitowoc County feature SS Badger, USS Cobia, ice cream sundae\u00a0",
+      "url": "/story/entertainment/2022/07/12/manitowoc-historical-markers-car-ferries-cobia-submarine-ice-cream-sundae/7648636001/"
+    },
+    {
+      "text": " T-28 Trojan Warbirds are coming to Sheboygan. Here's when and what to know if you go.\u00a0",
+      "url": "/story/entertainment/2022/07/13/sheboygan-t-28-trojan-warbirds-fighter-planes-top-gun-coming/10037049002/"
+    },
+    {
+      "text": "More in Go 920!",
+      "url": "/go-920/"
+    },
+    {
+      "text": " Schoolhouse being razed near Mishicot was built in 1887. What to know about Kettle Range School.\u00a0",
+      "url": "/story/life/2022/07/14/kettle-range-school-manitowoc-county-built-1880-s-history/10052679002/"
+    },
+    {
+      "text": " Their Beatles-themed Airbnb rental near Lambeau welcomes guests from around world\u00a0",
+      "url": "/story/entertainment/2022/07/14/beatles-themed-airbnb-near-lambeau-field-hosts-fans-around-world-paul-mccartney-superfan/7815768001/"
+    },
+    {
+      "text": " 15 things you have to do in Door County\u00a0",
+      "url": "/story/travel/wisconsin/2021/07/20/door-county-bucket-list-things-to-do/7995629002/"
+    },
+    {
+      "text": "More in Life",
+      "url": "/life/"
+    },
+    {
+      "text": " Opinion: Gun violence is an epidemic, but the U.S. can fight it. Ban military-grade weapons.\u00a0Jeanne F. Williams\u00a0",
+      "url": "/story/opinion/2022/07/14/gun-violence-epidemic-ban-military-grade-weapons-and-ammunition/10033000002/"
+    },
+    {
+      "text": " Opinion: Vos and Gableman have treated Wisconsin's tradition of transparency with contempt\u00a0Bill Lueders\u00a0",
+      "url": "/story/opinion/2022/07/14/vos-and-gableman-treat-wisconsin-history-transparency-contempt/10052171002/"
+    },
+    {
+      "text": " Wisconsin has the worst smoking disparity rates in the nation\u00a0James E. Causey\u00a0",
+      "url": "/story/opinion/2022/07/14/wisconsin-smoking-rates-worst-disparity-between-black-white-adults/7814801001/"
+    },
+    {
+      "text": "More in Ideas Lab",
+      "url": "/opinion/"
+    },
+    {
+      "text": "",
+      "url": "/picture-gallery/news/2022/07/10/manitowoc-fourth-july-fireworks-give-smiles/10023455002/"
+    },
+    {
+      "text": "Get Summer Waves!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/AIA-and-Beachwaver-Summer/?itm_campaign=AIA%20and%20Beachwaver%20Summer%20Sweeps&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Get A VIP Experience!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://usatoday.secondstreetapp.com/LAB-Golf-VIP-Putting-Experience/?itm_campaign=LAB%20Golf%20Putter&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "Winners Announced!\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+      "url": "https://htrnews.secondstreetapp.com/Best-of-the-Lakeshore-2022-Winners/?itm_campaign=Best%20of%20the%20Lakeshore%202022&itm_medium=con&itm_source=secondStreet"
+    },
+    {
+      "text": "More in Contests",
+      "url": "/contests/?itm_campaign=tangent.htrnews.com&itm_medium=more-in-contest&itm_source=homepage-widget"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "",
+      "url": "https://popup.taboola.com/"
+    },
+    {
+      "text": "Smart Lifestyle Trends",
+      "url": "https://prod-use.perf-serving.com/click/VDdl-yYGytg3BLwv_ybWe5boAmgDtHTboAc5q4WLyxx9n7oD8dNelBI474NMrFSF2U7-R_2JVRLiiIAYykHuMiznmtGaBMy7lORSQvNAds6Mce87c1FocDZZLWm2TVcLo_b3YcgLyXsuMGPgm6HT8p3fe_g75rNgTSyO5n5l-c0MidI51CN1Jh5nofaEwIpqtXTV7BG-s2n_AWB-LbTEGQsSEpEqteMrTGkvF011OteqHlMb8sp3wj8iOvOvPng_wEqsHzqDwuLAcG1d7wzMmPHN0YClwRks7d9HK5hdLJ42PMKbMWnFmFILKODx6f8jaa1nKxysmlDmsOqYumdGQgJvtgYR6iyOplJzXYibqM_L6koJHnvRO_is8zF0dEOXZHXEVzF2ISLIx0y6jTXSFZgkzIPai2WNzYVy84ZWaCOuWd_aL-u2N-fYZinzd5avDwk6EAzy6s50U9UL9CsmnyFkzxd5jnK4J4L469U18uk8IiI2YMnSqZUgzJ2QWGOwV0N35KYPIIKie3HvDWqaqRD5N_82qm78deTrEmKAKBO3rzwrJv_FFA9P9rg9VVijAfjmXGVhHe8eHaYZM7nhmQBZF1WLyrrl4TabGwikHQgBCTLBgjKx8rMQGkFv159dBwzzW7Sy8jaX1QvyykyL7BjPCxJa1K5UkXyQs78yoYU2M5T8V9UHvw7nsrMwZCg8gLs8sEjwILNZN_1OyxzQYH8S-oeISbjRpBMFGNxIYA1lvvL8XjZoTq5AgWKGDiUcm6_PSWIUEVB_egMt94Jk1n6wYWKlWoiwQupggzTkGbdug-nYQGLgBWHkaJnHRUzJy-5Hzzca1V5GZwg18g2JbIkPy47iQQ7Ea0Yg92IQsNnuCV4GJhR3Oz_efLXcGpjcvtGjE56HzwCkgv20l0ls7Sghq8y9jbv7-5HnBfsDKcewFsGq85P_MEVesHBRmNBRE4ZpwXB0DdeSy_ZKuoUGSsWBjv2NHS9SLLFmUt0tS8acXmYdkjOh7AH6mYDUcQu9civLobC2ZjwqAt6zZ5WtWWvk8DZ-lJz3x9sslEolFgaB-VuGJw8KnT-kDBJ-uSYqgKpXuVDlJx87lUwTFsiLVqd0Pk3LOh16eKGafU1vSJArI-ekpWvM6i0Oo60XGhjpJWkQiYGKxIMVg22ze0zOAWO8DtTVoUTNSkZ0q2KDx4JVQEVSbsGeV7ozQrnduQ_dFYw2KVkgHHlJkCDi5FxpP2NI///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolMHf9q-0yI0B#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolMHf9q-0yI0B"
+    },
+    {
+      "text": "Virginia Seniors with No Life Insurance Get a $250k Policy for $18/month2022 Life insurance fact is surprising seniors all over Virginia.Smart Lifestyle Trends|",
+      "url": "https://prod-use.perf-serving.com/click/VDdl-yYGytg3BLwv_ybWe5boAmgDtHTboAc5q4WLyxx9n7oD8dNelBI474NMrFSF2U7-R_2JVRLiiIAYykHuMiznmtGaBMy7lORSQvNAds6Mce87c1FocDZZLWm2TVcLo_b3YcgLyXsuMGPgm6HT8p3fe_g75rNgTSyO5n5l-c0MidI51CN1Jh5nofaEwIpqtXTV7BG-s2n_AWB-LbTEGQsSEpEqteMrTGkvF011OteqHlMb8sp3wj8iOvOvPng_wEqsHzqDwuLAcG1d7wzMmPHN0YClwRks7d9HK5hdLJ42PMKbMWnFmFILKODx6f8jaa1nKxysmlDmsOqYumdGQgJvtgYR6iyOplJzXYibqM_L6koJHnvRO_is8zF0dEOXZHXEVzF2ISLIx0y6jTXSFZgkzIPai2WNzYVy84ZWaCOuWd_aL-u2N-fYZinzd5avDwk6EAzy6s50U9UL9CsmnyFkzxd5jnK4J4L469U18uk8IiI2YMnSqZUgzJ2QWGOwV0N35KYPIIKie3HvDWqaqRD5N_82qm78deTrEmKAKBO3rzwrJv_FFA9P9rg9VVijAfjmXGVhHe8eHaYZM7nhmQBZF1WLyrrl4TabGwikHQgBCTLBgjKx8rMQGkFv159dBwzzW7Sy8jaX1QvyykyL7BjPCxJa1K5UkXyQs78yoYU2M5T8V9UHvw7nsrMwZCg8gLs8sEjwILNZN_1OyxzQYH8S-oeISbjRpBMFGNxIYA1lvvL8XjZoTq5AgWKGDiUcm6_PSWIUEVB_egMt94Jk1n6wYWKlWoiwQupggzTkGbdug-nYQGLgBWHkaJnHRUzJy-5Hzzca1V5GZwg18g2JbIkPy47iQQ7Ea0Yg92IQsNnuCV4GJhR3Oz_efLXcGpjcvtGjE56HzwCkgv20l0ls7Sghq8y9jbv7-5HnBfsDKcewFsGq85P_MEVesHBRmNBRE4ZpwXB0DdeSy_ZKuoUGSsWBjv2NHS9SLLFmUt0tS8acXmYdkjOh7AH6mYDUcQu9civLobC2ZjwqAt6zZ5WtWWvk8DZ-lJz3x9sslEolFgaB-VuGJw8KnT-kDBJ-uSYqgKpXuVDlJx87lUwTFsiLVqd0Pk3LOh16eKGafU1vSJArI-ekpWvM6i0Oo60XGhjpJWkQiYGKxIMVg22ze0zOAWO8DtTVoUTNSkZ0q2KDx4JVQEVSbsGeV7ozQrnduQ_dFYw2KVkgHHlJkCDi5FxpP2NI///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolMHf9q-0yI0B#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolMHf9q-0yI0B"
+    },
+    {
+      "text": "",
+      "url": "https://prod-use.perf-serving.com/click/VDdl-yYGytg3BLwv_ybWe5boAmgDtHTboAc5q4WLyxx9n7oD8dNelBI474NMrFSF2U7-R_2JVRLiiIAYykHuMiznmtGaBMy7lORSQvNAds6Mce87c1FocDZZLWm2TVcLo_b3YcgLyXsuMGPgm6HT8p3fe_g75rNgTSyO5n5l-c0MidI51CN1Jh5nofaEwIpqtXTV7BG-s2n_AWB-LbTEGQsSEpEqteMrTGkvF011OteqHlMb8sp3wj8iOvOvPng_wEqsHzqDwuLAcG1d7wzMmPHN0YClwRks7d9HK5hdLJ42PMKbMWnFmFILKODx6f8jaa1nKxysmlDmsOqYumdGQgJvtgYR6iyOplJzXYibqM_L6koJHnvRO_is8zF0dEOXZHXEVzF2ISLIx0y6jTXSFZgkzIPai2WNzYVy84ZWaCOuWd_aL-u2N-fYZinzd5avDwk6EAzy6s50U9UL9CsmnyFkzxd5jnK4J4L469U18uk8IiI2YMnSqZUgzJ2QWGOwV0N35KYPIIKie3HvDWqaqRD5N_82qm78deTrEmKAKBO3rzwrJv_FFA9P9rg9VVijAfjmXGVhHe8eHaYZM7nhmQBZF1WLyrrl4TabGwikHQgBCTLBgjKx8rMQGkFv159dBwzzW7Sy8jaX1QvyykyL7BjPCxJa1K5UkXyQs78yoYU2M5T8V9UHvw7nsrMwZCg8gLs8sEjwILNZN_1OyxzQYH8S-oeISbjRpBMFGNxIYA1lvvL8XjZoTq5AgWKGDiUcm6_PSWIUEVB_egMt94Jk1n6wYWKlWoiwQupggzTkGbdug-nYQGLgBWHkaJnHRUzJy-5Hzzca1V5GZwg18g2JbIkPy47iQQ7Ea0Yg92IQsNnuCV4GJhR3Oz_efLXcGpjcvtGjE56HzwCkgv20l0ls7Sghq8y9jbv7-5HnBfsDKcewFsGq85P_MEVesHBRmNBRE4ZpwXB0DdeSy_ZKuoUGSsWBjv2NHS9SLLFmUt0tS8acXmYdkjOh7AH6mYDUcQu9civLobC2ZjwqAt6zZ5WtWWvk8DZ-lJz3x9sslEolFgaB-VuGJw8KnT-kDBJ-uSYqgKpXuVDlJx87lUwTFsiLVqd0Pk3LOh16eKGafU1vSJArI-ekpWvM6i0Oo60XGhjpJWkQiYGKxIMVg22ze0zOAWO8DtTVoUTNSkZ0q2KDx4JVQEVSbsGeV7ozQrnduQ_dFYw2KVkgHHlJkCDi5FxpP2NI///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolMHf9q-0yI0B#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolMHf9q-0yI0B"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ear Today",
+      "url": "https://prod-use.perf-serving.com/click/WF8AVhLCEGdctarXIWEqHrRpPIGPCtsdhO97WcTJ54ez7SN1V7CO7WHdNRUpX0JuYNxTf64pCsn19oV7W4uRXdh1Ap_Fl5nZ0q1Luik-mRO2JfmWEIKiNy9F0OecBw8999Ap61dWvaHAVhnMJsi0L_yX0rC0LkMbq9FCUggu7aLgPCr2JA58Wtf45v97XJZzuw69j1JyqG-0_3NMOIEPLuiop6cFpxqw3_ipjps_MVlP385mGTQD4bNT1eI4j2X9SNFaxfUkbKdfIkvdBCEYjPaXCvKGZoA7yHOC27BCsMbsuDrN4KXT_6FrN0KHvUG56pvT8suoyFIIWWPYrjSB3Avhf1TpUbewSU4IbJFsdzAcMqscWPcTbxCRa2Khv0Xt8pq7pJJ8Tb9W4TLp9T_YP90DEipXeAq3ctd2i6ua9Lo9V__6V3WMsu_UGL0KACj21Zk8AcmR3v_qnYtJ4AqGoT2Mc4Wwjv48PZ3AAI4du7YGRMa3VIgc7_aTSQwuT4IrwKO4JE-XH82izsnWQjuxwibhtdh7n1AwBNKK5p66bYkF0btHW-hrqoPgNATEAV6mCcF-oLAGcfeutji5xdmdUAHp72IVD6Oho6UJ7cN0j4BWjJOG7ZQyPM8dvosowkGTKNVvMFjMOeVcurUpZxPbFw6Vdih6dd3WW7dEsVXvQlSlo5xZNral4fBg7HWMVefvTwC_8FOkUiGZIAi1VgqyT7DEgYshQlRLo3itTOKse4UNmXnG9Wix9mnZvkAFgeK3y8WuL1x7UWlKw2E0ADdnMZi26oMdaxExmSX7N9oEnHWfT2KwRkjyd7k_UYvE63sVlstKCYCUM9ZXIhx3u-CyFvMn2Pjm_o5u53yXVZgmCqzYLPGTffLUi3zHimRfYCVDs5EM-75rqYN-WBIyYVoPTNKWsVhNojawiRZj-WOoNOp45sux4GLeCD640ryIm1G-pP0Vi6PRE8mLJLC1kWllNW2vonmTnyGCNgBUXWQn2t92zzV2f6SEjgyfSvaqPW60al4I6KxbJFHjCezrZe76ckFfjOJqLD1SV_8H3hUXygkKjYefrXWS3DsxizS7xD0C3tFFGNxoUJBUJfb_B3ghVgz_ADDpDjUOLuWS3FV75xWS0ohBJsbrkZPdkV_Sgh5pHgadUaOO4NBoguEuMOXwsl7ORgzR_XezILIPJR-l6XZC3029Pe7N-OUuIHPS0xW1j9ilpUM51Br0DQDsD63zGC38LA///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco3NDWitXz29hA#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco3NDWitXz29hA"
+    },
+    {
+      "text": "\u201cGame-Changer\u201d For Seniors With Hearing Loss in the U.S.The #1 hearing aids featuring German technology and enhanced speech clarity. Secure your no-risk trial todayEar Today|",
+      "url": "https://prod-use.perf-serving.com/click/WF8AVhLCEGdctarXIWEqHrRpPIGPCtsdhO97WcTJ54ez7SN1V7CO7WHdNRUpX0JuYNxTf64pCsn19oV7W4uRXdh1Ap_Fl5nZ0q1Luik-mRO2JfmWEIKiNy9F0OecBw8999Ap61dWvaHAVhnMJsi0L_yX0rC0LkMbq9FCUggu7aLgPCr2JA58Wtf45v97XJZzuw69j1JyqG-0_3NMOIEPLuiop6cFpxqw3_ipjps_MVlP385mGTQD4bNT1eI4j2X9SNFaxfUkbKdfIkvdBCEYjPaXCvKGZoA7yHOC27BCsMbsuDrN4KXT_6FrN0KHvUG56pvT8suoyFIIWWPYrjSB3Avhf1TpUbewSU4IbJFsdzAcMqscWPcTbxCRa2Khv0Xt8pq7pJJ8Tb9W4TLp9T_YP90DEipXeAq3ctd2i6ua9Lo9V__6V3WMsu_UGL0KACj21Zk8AcmR3v_qnYtJ4AqGoT2Mc4Wwjv48PZ3AAI4du7YGRMa3VIgc7_aTSQwuT4IrwKO4JE-XH82izsnWQjuxwibhtdh7n1AwBNKK5p66bYkF0btHW-hrqoPgNATEAV6mCcF-oLAGcfeutji5xdmdUAHp72IVD6Oho6UJ7cN0j4BWjJOG7ZQyPM8dvosowkGTKNVvMFjMOeVcurUpZxPbFw6Vdih6dd3WW7dEsVXvQlSlo5xZNral4fBg7HWMVefvTwC_8FOkUiGZIAi1VgqyT7DEgYshQlRLo3itTOKse4UNmXnG9Wix9mnZvkAFgeK3y8WuL1x7UWlKw2E0ADdnMZi26oMdaxExmSX7N9oEnHWfT2KwRkjyd7k_UYvE63sVlstKCYCUM9ZXIhx3u-CyFvMn2Pjm_o5u53yXVZgmCqzYLPGTffLUi3zHimRfYCVDs5EM-75rqYN-WBIyYVoPTNKWsVhNojawiRZj-WOoNOp45sux4GLeCD640ryIm1G-pP0Vi6PRE8mLJLC1kWllNW2vonmTnyGCNgBUXWQn2t92zzV2f6SEjgyfSvaqPW60al4I6KxbJFHjCezrZe76ckFfjOJqLD1SV_8H3hUXygkKjYefrXWS3DsxizS7xD0C3tFFGNxoUJBUJfb_B3ghVgz_ADDpDjUOLuWS3FV75xWS0ohBJsbrkZPdkV_Sgh5pHgadUaOO4NBoguEuMOXwsl7ORgzR_XezILIPJR-l6XZC3029Pe7N-OUuIHPS0xW1j9ilpUM51Br0DQDsD63zGC38LA///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco3NDWitXz29hA#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco3NDWitXz29hA"
+    },
+    {
+      "text": "",
+      "url": "https://prod-use.perf-serving.com/click/WF8AVhLCEGdctarXIWEqHrRpPIGPCtsdhO97WcTJ54ez7SN1V7CO7WHdNRUpX0JuYNxTf64pCsn19oV7W4uRXdh1Ap_Fl5nZ0q1Luik-mRO2JfmWEIKiNy9F0OecBw8999Ap61dWvaHAVhnMJsi0L_yX0rC0LkMbq9FCUggu7aLgPCr2JA58Wtf45v97XJZzuw69j1JyqG-0_3NMOIEPLuiop6cFpxqw3_ipjps_MVlP385mGTQD4bNT1eI4j2X9SNFaxfUkbKdfIkvdBCEYjPaXCvKGZoA7yHOC27BCsMbsuDrN4KXT_6FrN0KHvUG56pvT8suoyFIIWWPYrjSB3Avhf1TpUbewSU4IbJFsdzAcMqscWPcTbxCRa2Khv0Xt8pq7pJJ8Tb9W4TLp9T_YP90DEipXeAq3ctd2i6ua9Lo9V__6V3WMsu_UGL0KACj21Zk8AcmR3v_qnYtJ4AqGoT2Mc4Wwjv48PZ3AAI4du7YGRMa3VIgc7_aTSQwuT4IrwKO4JE-XH82izsnWQjuxwibhtdh7n1AwBNKK5p66bYkF0btHW-hrqoPgNATEAV6mCcF-oLAGcfeutji5xdmdUAHp72IVD6Oho6UJ7cN0j4BWjJOG7ZQyPM8dvosowkGTKNVvMFjMOeVcurUpZxPbFw6Vdih6dd3WW7dEsVXvQlSlo5xZNral4fBg7HWMVefvTwC_8FOkUiGZIAi1VgqyT7DEgYshQlRLo3itTOKse4UNmXnG9Wix9mnZvkAFgeK3y8WuL1x7UWlKw2E0ADdnMZi26oMdaxExmSX7N9oEnHWfT2KwRkjyd7k_UYvE63sVlstKCYCUM9ZXIhx3u-CyFvMn2Pjm_o5u53yXVZgmCqzYLPGTffLUi3zHimRfYCVDs5EM-75rqYN-WBIyYVoPTNKWsVhNojawiRZj-WOoNOp45sux4GLeCD640ryIm1G-pP0Vi6PRE8mLJLC1kWllNW2vonmTnyGCNgBUXWQn2t92zzV2f6SEjgyfSvaqPW60al4I6KxbJFHjCezrZe76ckFfjOJqLD1SV_8H3hUXygkKjYefrXWS3DsxizS7xD0C3tFFGNxoUJBUJfb_B3ghVgz_ADDpDjUOLuWS3FV75xWS0ohBJsbrkZPdkV_Sgh5pHgadUaOO4NBoguEuMOXwsl7ORgzR_XezILIPJR-l6XZC3029Pe7N-OUuIHPS0xW1j9ilpUM51Br0DQDsD63zGC38LA///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco3NDWitXz29hA#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco3NDWitXz29hA"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=9e751165ab5d0fcd21ac5806c8a94ff3&sd=v2_2ae2ee15888d71f56873e8ccaf1f2323_b8360664-fc7e-4dda-b1a8-9faf15613084-tuct9caf464_1657892580_1657892580_CIi3jgYQhNo9GKHV5JCgMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGie4fPVv5r3zrsBcAE&ui=b8360664-fc7e-4dda-b1a8-9faf15613084-tuct9caf464&it=text&ii=~~V1~~1412621151817854133~~vz-QoN0i61sm8qptYT9KjF9hTfSBL6e1oZ2Q0cgzxvAkJWqSB904Bu0HuhdmkZ41IUO3tctVGwuDyEcpKY9AbBctSksBh_VXUqHQYIGPxtzLVmPOfR2s8Kow9TyFL9wvIKRkbUDSNqvLvww_ZkYD_2jm9sWy_3qAk6zjK73kdG8VhTTormZ3QMWeIWEgsinT-brtyLQk59VLXkzbXEgLv85_eI_VejWYJIOHORHByV_c99qoaqlcQ4HWejyq-JvccUOyUU7wCKnEzf7e1z5_Gvaez0tOr1WL0CyOcugScTsg2EfnFpNR3WCf0K8kZXcVKftRqznusvWaYBmDKZhtvj8deFaAFYIWSEs0V5sl0KB-LY86ET-LBuqlXMWG2uWUOaY1MjK5Av39gTBBR_FizLCXYfub7tv7zi5HkTtjdADx0ipba_yO-2apuvxn76ZdqYBYVoBRU3udxdGSzc92MzNIua2MieTRvg8QVu3jK4Bg8TkdNiHcARRAtUNUgH6Ezp9-IH8RYYJz72AKUaL6eM01aqScvAz8AaLnaiARNNo0Piyqx7yqzyl9hK7jqwYAyEYGvRZRWZkwbVoV3sUyZAL5Zke9lv-uzz0dx2j6_ghS21JdyZf1ntXYEOR6JErBWzI3EAPegxXBRJsUbglio8lA8tKDifCmX9zTf8JWjMSgCbDbiM5AsfkfVrxfKffqHsPJYIzfzI5HAG6rLOpSUbZswUiD7rDE0FeBbg5WW9667sUQ4BN7B5HNbdVDc4011M9DGZqF2Uf8cQS3Hd5Vw9W32JQk1J2awXRzt8IN9g6YpvsWy9yLO73K5JfqQnQtl8dvz-9Rm_2RsslOd6jIlGORYnr2PkYk4Lk8EjFeGBxrgoiXXYGZsfmy2D9jDVBARKLXhAJ7CGYr81q0XXxmk8uB45Is7yKt4k8bIuTM67OXvlUct8ge-Ze07_TQobOgQFj4e5jCldLED7ChBLzaVqT41H4Z3tmHj6xgsTodjD566A4NnPwEpSEG3yY_VXUS3S1PlBBXuxNW59Fk-5AhMOExEFwq_w0V2DspyXiiROUJSTTYYUgqtmC1F73ZkOEv-p8W4bStF_qAz7EqVS2tq7tJySJHOBZP3SvR7FUsG-Di9kseBVZsecTFlL8x4_Piyzf5fVWVMrwti7IEcp5OhB5sihDXziUpOOZS5nCtol2F_N1LWJm-6w-U_NLsiQ5SmfHtPBlDVWFF9n_I-oHjLNIY3z62hM-4AVgQ-REDZ2zazD2MbOUZyMvNPcb52z5MFipFqt-Z7TiEoCt71wbCm_mzrJrqPbE1cfwce4pqOAC8FI7jZMrDXDD91DvRtvW1Z7F5-5SDv5eW9RIp7_V12zkQ6glbYQ6UOvTYqBv8_-AFtSxV74xspNTogBnik0RxgnQTE4FvhVuTm2xJU_wDq9XQqRDSXVaGLbS4wv9VpkoyGcN9pIcfqsOwNo2DW-2sfyep_vpxwZASXLDWjWG5LIWouk2hiUpNqFLKJ3MyoX2B0QQlafErI7eIgUVFS_TRauAH-PMub9iFdw5Wc4pZrJZzKXAQ03UjLlHIT5H8xqxSJ4uQf_AooDx7SHQeidDttF6OT82k7AvaYKIKhb6S9-uCrykCPf_5nVA3vi4o8vK68Razv5LCrAyg2NSqW9SVewwFx6i5DF-ihj1eanSxzIYluXjDXSaMOhJClQwnJzk0yPhCuRnAMspWU8Y4lQaah35v3TdGfWtbV9EWBGM6duD187PHwm073bWtk0vEew6VEERvVKVJOf-ChQjjhvruzpEBNJ4M-kSyMt7YIJJq8n1qewiqXe6TjEYRUSGhGIxi2mNeOuraQ4NNlyddeqQuBxbyLrUk5gVlojuMTLqhKgnfk714gN63YE3BnRQ6wsq-fDK2Q51ZW3npMX5qSPejmeB0Dq3M4W-MNMlWy3LGouhrm4U6EeYkIoblIW2D8yD5krmPaP-LA3h-h-2ssJBGM6RtNeHH2cMSa9-ukDtUsj2b-p1uVjwgtA02zYEMq72JWTz4h3yIzw0jLHrUEt_0JTNbOBF02hoyZHSktPQoAbRjrqM5S00x9b7AunkbBOoLGC5irOMwaogjO2sK6cjO&pt=home&li=rbox-h2v&sig=d0a76a66a08e86ad76cffb5403764f849a7c3f2868e5&redir=https%3A%2F%2Fprod-use.perf-serving.com%2Fclick%2FWF8AVhLCEGdctarXIWEqHrRpPIGPCtsdhO97WcTJ54ez7SN1V7CO7WHdNRUpX0JuYNxTf64pCsn19oV7W4uRXdh1Ap_Fl5nZ0q1Luik-mRO2JfmWEIKiNy9F0OecBw8999Ap61dWvaHAVhnMJsi0L_yX0rC0LkMbq9FCUggu7aLgPCr2JA58Wtf45v97XJZzuw69j1JyqG-0_3NMOIEPLuiop6cFpxqw3_ipjps_MVlP385mGTQD4bNT1eI4j2X9SNFaxfUkbKdfIkvdBCEYjPaXCvKGZoA7yHOC27BCsMbsuDrN4KXT_6FrN0KHvUG56pvT8suoyFIIWWPYrjSB3Avhf1TpUbewSU4IbJFsdzAcMqscWPcTbxCRa2Khv0Xt8pq7pJJ8Tb9W4TLp9T_YP90DEipXeAq3ctd2i6ua9Lo9V__6V3WMsu_UGL0KACj21Zk8AcmR3v_qnYtJ4AqGoT2Mc4Wwjv48PZ3AAI4du7YGRMa3VIgc7_aTSQwuT4IrwKO4JE-XH82izsnWQjuxwibhtdh7n1AwBNKK5p66bYkF0btHW-hrqoPgNATEAV6mCcF-oLAGcfeutji5xdmdUAHp72IVD6Oho6UJ7cN0j4BWjJOG7ZQyPM8dvosowkGTKNVvMFjMOeVcurUpZxPbFw6Vdih6dd3WW7dEsVXvQlSlo5xZNral4fBg7HWMVefvTwC_8FOkUiGZIAi1VgqyT7DEgYshQlRLo3itTOKse4UNmXnG9Wix9mnZvkAFgeK3y8WuL1x7UWlKw2E0ADdnMZi26oMdaxExmSX7N9oEnHWfT2KwRkjyd7k_UYvE63sVlstKCYCUM9ZXIhx3u-CyFvMn2Pjm_o5u53yXVZgmCqzYLPGTffLUi3zHimRfYCVDs5EM-75rqYN-WBIyYVoPTNKWsVhNojawiRZj-WOoNOp45sux4GLeCD640ryIm1G-pP0Vi6PRE8mLJLC1kWllNW2vonmTnyGCNgBUXWQn2t92zzV2f6SEjgyfSvaqPW60al4I6KxbJFHjCezrZe76ckFfjOJqLD1SV_8H3hUXygkKjYefrXWS3DsxizS7xD0C3tFFGNxoUJBUJfb_B3ghVgz_ADDpDjUOLuWS3FV75xWS0ohBJsbrkZPdkV_Sgh5pHgadUaOO4NBoguEuMOXwsl7ORgzR_XezILIPJR-l6XZC3029Pe7N-OUuIHPS0xW1j9ilpUM51Br0DQDsD63zGC38LA%2F%2F%2F%3Futm_source%3Dtaboola%26utm_medium%3Dreferral%26tblci%3DGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco3NDWitXz29hA%23tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco3NDWitXz29hA&vi=1657892580001&p=bidswitch-iponwebperformance&r=48&lti=deflated&ppb=CPQD&cpb=EhMyMDIyMDcxNC0yOC1SRUxFQVNFGN6329MGIJz__________wEqGXVzLnRhYm9vbGFzeW5kaWNhdGlvbi5jb20yCHRyYzEwMjI0OICgn6cBQJGkDkiw5Q9QpMvZA1j_A2MI1xYQ1R8YI2RjCJYUEJscGBhkYwjSAxDgBhgIZGMI7wMQigcYCWRjCIstEJ0-GCpkYwj0FBCeHRgfZGMIpCcQijUYL2R4AYABtYgBiAH8ja7HAZABFw&cta=true"
+    },
+    {
+      "text": "ExpertsInMoney.co",
+      "url": "https://prod-use.perf-serving.com/click/4l-roFlfw358lj1PlST9P-mvtFuGVTcoy429aKmfDd1tJfO30TCBuXCTR8w_FVSzWVrv9Vb8oL3JbyA6AX0dEvMj_KnKxAyTul_cVcQz38QhgEeyKjK8JuRpAk_mezWJdFIfracGq4kndNbGggMPiRAN2yREXBEr1QLd6N7lbXPNW3lxlubjdls6UnUOkUf0B2oR9B5fRABuVQEdG1-qZqtVGQEvdFZBpspFH8YZ2tWNZ2e8G0dmWp4QkWpzLtKpePCkmOu1FcGJ9T5o_XduQKQmLG00ilHB4XBZ-1StLc_X3x0qB60ENZJWLGzmjhjuy1x4KdFL2j061lJAVudCeyYexQhpUgtmyBTdddpLI9gL_bQrxK23YpavDb2sug5JrbeF72kviAkg7Hpars9Nqc4D7mOC7tySyYd93wfSCEgIUWjcAZxRR_CdQwofjGN4xu5ywbZ3Kjgvy3ml-vZRQAr-g4TtL6YkfYWuN4bSoAleveLpOqvEVSPOpAExTcTbekfhlIYuh_EuNbwmPQ9A9KlrE1YqYfuXpGrXh12NoQE_i8xwaWoY5jVZI8I3zLAOOP0d9BebD1PveXgjwn3MS5uzD3xK4SiEponsAdPGFAhMVKMyhPNKjXEZ_mVch3VI7szPOOXZJ6ygxLp-QRo46yP2tER1g62hx2j_CQRFDmi5M62Kx4DWkus-JrprfZufAkq3d00Si0UkyV4nGAK_inCvpNvSHLMuEjYx6mFuFeodETHefxerU7kXqAeG17S8JdfdrpUC-2NQlxyRmNwFC74KMM60YJh-dlbNmIzG0wYTDZd-kkPnvzAB3ViMf6adxey2kmpKcfq4fPNDmgi0wPeHQQXX6fzQF97XIu4w-GXlVaEa2SR64t1jEx5i3zzLXtu3YOE7oJ_dO7NyboewxDFya5CfZ52lDYAVCT20T5NEZUsZS4DoTEsRxjXntx0J9EpRcnY3atz20v7cSmlSAIgEvItSrUlEHypgaqatiQ5MykexE8O6_uwlK8xJeobBI4YWXPOAelMvT0dQ9fGLPP00pi9J00nzEMT889spQWeZTfieg9D0SpljOqHFs06zwM_m6Emo8UD-03F1QBp-WhaerGhGywlM88WGgLZ12AkLGS2CtUswR6wyVHEGWDeA1aeY4cbPB1Dub0-w4WIBADkCDOgNLhQjn9TV4iWKQloAEyVqvgOdyyXMU9gfKiryxuzjrlQkpgYBnKQ///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco95DM2aPvnrKzAQ#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco95DM2aPvnrKzAQ"
+    },
+    {
+      "text": "Prime Is Now $139, But Few Know This Saving TrickAmazon Prime has millions of subscribers, but only few know about this amazing savings trick!ExpertsInMoney.co|",
+      "url": "https://prod-use.perf-serving.com/click/4l-roFlfw358lj1PlST9P-mvtFuGVTcoy429aKmfDd1tJfO30TCBuXCTR8w_FVSzWVrv9Vb8oL3JbyA6AX0dEvMj_KnKxAyTul_cVcQz38QhgEeyKjK8JuRpAk_mezWJdFIfracGq4kndNbGggMPiRAN2yREXBEr1QLd6N7lbXPNW3lxlubjdls6UnUOkUf0B2oR9B5fRABuVQEdG1-qZqtVGQEvdFZBpspFH8YZ2tWNZ2e8G0dmWp4QkWpzLtKpePCkmOu1FcGJ9T5o_XduQKQmLG00ilHB4XBZ-1StLc_X3x0qB60ENZJWLGzmjhjuy1x4KdFL2j061lJAVudCeyYexQhpUgtmyBTdddpLI9gL_bQrxK23YpavDb2sug5JrbeF72kviAkg7Hpars9Nqc4D7mOC7tySyYd93wfSCEgIUWjcAZxRR_CdQwofjGN4xu5ywbZ3Kjgvy3ml-vZRQAr-g4TtL6YkfYWuN4bSoAleveLpOqvEVSPOpAExTcTbekfhlIYuh_EuNbwmPQ9A9KlrE1YqYfuXpGrXh12NoQE_i8xwaWoY5jVZI8I3zLAOOP0d9BebD1PveXgjwn3MS5uzD3xK4SiEponsAdPGFAhMVKMyhPNKjXEZ_mVch3VI7szPOOXZJ6ygxLp-QRo46yP2tER1g62hx2j_CQRFDmi5M62Kx4DWkus-JrprfZufAkq3d00Si0UkyV4nGAK_inCvpNvSHLMuEjYx6mFuFeodETHefxerU7kXqAeG17S8JdfdrpUC-2NQlxyRmNwFC74KMM60YJh-dlbNmIzG0wYTDZd-kkPnvzAB3ViMf6adxey2kmpKcfq4fPNDmgi0wPeHQQXX6fzQF97XIu4w-GXlVaEa2SR64t1jEx5i3zzLXtu3YOE7oJ_dO7NyboewxDFya5CfZ52lDYAVCT20T5NEZUsZS4DoTEsRxjXntx0J9EpRcnY3atz20v7cSmlSAIgEvItSrUlEHypgaqatiQ5MykexE8O6_uwlK8xJeobBI4YWXPOAelMvT0dQ9fGLPP00pi9J00nzEMT889spQWeZTfieg9D0SpljOqHFs06zwM_m6Emo8UD-03F1QBp-WhaerGhGywlM88WGgLZ12AkLGS2CtUswR6wyVHEGWDeA1aeY4cbPB1Dub0-w4WIBADkCDOgNLhQjn9TV4iWKQloAEyVqvgOdyyXMU9gfKiryxuzjrlQkpgYBnKQ///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco95DM2aPvnrKzAQ#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco95DM2aPvnrKzAQ"
+    },
+    {
+      "text": "",
+      "url": "https://prod-use.perf-serving.com/click/4l-roFlfw358lj1PlST9P-mvtFuGVTcoy429aKmfDd1tJfO30TCBuXCTR8w_FVSzWVrv9Vb8oL3JbyA6AX0dEvMj_KnKxAyTul_cVcQz38QhgEeyKjK8JuRpAk_mezWJdFIfracGq4kndNbGggMPiRAN2yREXBEr1QLd6N7lbXPNW3lxlubjdls6UnUOkUf0B2oR9B5fRABuVQEdG1-qZqtVGQEvdFZBpspFH8YZ2tWNZ2e8G0dmWp4QkWpzLtKpePCkmOu1FcGJ9T5o_XduQKQmLG00ilHB4XBZ-1StLc_X3x0qB60ENZJWLGzmjhjuy1x4KdFL2j061lJAVudCeyYexQhpUgtmyBTdddpLI9gL_bQrxK23YpavDb2sug5JrbeF72kviAkg7Hpars9Nqc4D7mOC7tySyYd93wfSCEgIUWjcAZxRR_CdQwofjGN4xu5ywbZ3Kjgvy3ml-vZRQAr-g4TtL6YkfYWuN4bSoAleveLpOqvEVSPOpAExTcTbekfhlIYuh_EuNbwmPQ9A9KlrE1YqYfuXpGrXh12NoQE_i8xwaWoY5jVZI8I3zLAOOP0d9BebD1PveXgjwn3MS5uzD3xK4SiEponsAdPGFAhMVKMyhPNKjXEZ_mVch3VI7szPOOXZJ6ygxLp-QRo46yP2tER1g62hx2j_CQRFDmi5M62Kx4DWkus-JrprfZufAkq3d00Si0UkyV4nGAK_inCvpNvSHLMuEjYx6mFuFeodETHefxerU7kXqAeG17S8JdfdrpUC-2NQlxyRmNwFC74KMM60YJh-dlbNmIzG0wYTDZd-kkPnvzAB3ViMf6adxey2kmpKcfq4fPNDmgi0wPeHQQXX6fzQF97XIu4w-GXlVaEa2SR64t1jEx5i3zzLXtu3YOE7oJ_dO7NyboewxDFya5CfZ52lDYAVCT20T5NEZUsZS4DoTEsRxjXntx0J9EpRcnY3atz20v7cSmlSAIgEvItSrUlEHypgaqatiQ5MykexE8O6_uwlK8xJeobBI4YWXPOAelMvT0dQ9fGLPP00pi9J00nzEMT889spQWeZTfieg9D0SpljOqHFs06zwM_m6Emo8UD-03F1QBp-WhaerGhGywlM88WGgLZ12AkLGS2CtUswR6wyVHEGWDeA1aeY4cbPB1Dub0-w4WIBADkCDOgNLhQjn9TV4iWKQloAEyVqvgOdyyXMU9gfKiryxuzjrlQkpgYBnKQ///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco95DM2aPvnrKzAQ#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco95DM2aPvnrKzAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Smart Lifestyle Trends",
+      "url": "https://prod-use.perf-serving.com/click/P5sv36LqaRy-uL9f08SQpiJDrUdJXql1ebKDJw8LgVbm3sGaIk-Y-y0E0bqCAzC3ZyoidhHvaSM7zE969uYVpchLfl4wddW9133rrE-zPHi9Tb5Rs9vqPGOdkBxl2vFPxuO3zC-lKvOtjIm_nyuGYIwV99opfGV22EY2_P2atPBAsCQUhR7GUJfCFArbCSkcTJLT9CDnZL7L5Z-JS2KLDfPoqhT3Oq0_WO7hTJ4J09k9rOU9z-c8svbTtXmJpgWHm2WFTMfPUOR5mwDbqLIr-m8TwNFODIyN8-KYekgCVhUQu0Up45jld_hNOBPNwWP3fXaIP4V81Ozv_gbandSVnvavbf14oTBSXFpVWUjODcB15sK-MS6XmarkBCHTfREKAt9iR47e8EL-U1S7alv3xbwMUTGGnNCi784NVflsEvM_l5rwnEqOd1_66xyzS6h9_w9W0yKlYB1RxGNa0mv5_lQNQ25ceSlRj499cSFdCa-J-O8VXYVavJhVuTgbpo0R-28t5XzOwsHu7W40K6GEWQmufZPIAKw-pxW-GUsxj4_MY9ON0fnwayIaQQ3hcGvl_auEHqpVwVSVjI-FyXxjF0x_lM9-z3Tr5XpSte22lMJzf2N2LRZzsGZX8PUUpnvVuYbq7keBZ_tRwAoueOu6lYIRGfcJpXEQjymj3GO1dp8JiDjK61TOld1GXnytHmAGmPVR9wFfDFQz2OAEK-heTktkBGf0q5vRC31mOZ1-5zIk_WiX0rDzBX-DhE0G2X5lKWXBI3_OJZBWbRWhdtrdzrjmszs_0XlnpTz9B13Tni8ry-yRvWV3zB1wWD-Q45SkTZHhOdFn6daniC-sOLgNF0Hxe5w3EOlk748WOriWOsyJdtv-u1Lor4-q53BzvMyc06UftoY16yZOO-BxbTpevN3ZxoKMlDYenfe8lisqVaBqKvnkYnfwldmiPe7jVlHs154Yf1RXYcBul0X6lNjrqamJyUvwtnSiHUyfRp7HCJ_BByZGWotIIv_v6kumiFT4oMC9nhw-w8JQY0BZicaBM9JfoWxuid8u200_-lvOESeak3-a-A2i_lEpOMxlhxeX8_AvlPT4ja-mFCtVPafsn6AfYHeUH9aggg4nmTAymVMv3UaNxgTNa3nBFWB_zdSvhvoU0u8z4Uj2_HpLLwKBW7Cvui-dACD2Qe23VORDvZXdmfBkwWF79R2w1WbV01J1n6-cXAgJFwPWqmZyrxX6AoM///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolefJjLbxxOgu#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolefJjLbxxOgu"
+    },
+    {
+      "text": "Virginia Launches New Policy For Cars Used Less Than 50 Miles/DayDo not pay your next car insurance bill until you read this...Smart Lifestyle Trends|",
+      "url": "https://prod-use.perf-serving.com/click/P5sv36LqaRy-uL9f08SQpiJDrUdJXql1ebKDJw8LgVbm3sGaIk-Y-y0E0bqCAzC3ZyoidhHvaSM7zE969uYVpchLfl4wddW9133rrE-zPHi9Tb5Rs9vqPGOdkBxl2vFPxuO3zC-lKvOtjIm_nyuGYIwV99opfGV22EY2_P2atPBAsCQUhR7GUJfCFArbCSkcTJLT9CDnZL7L5Z-JS2KLDfPoqhT3Oq0_WO7hTJ4J09k9rOU9z-c8svbTtXmJpgWHm2WFTMfPUOR5mwDbqLIr-m8TwNFODIyN8-KYekgCVhUQu0Up45jld_hNOBPNwWP3fXaIP4V81Ozv_gbandSVnvavbf14oTBSXFpVWUjODcB15sK-MS6XmarkBCHTfREKAt9iR47e8EL-U1S7alv3xbwMUTGGnNCi784NVflsEvM_l5rwnEqOd1_66xyzS6h9_w9W0yKlYB1RxGNa0mv5_lQNQ25ceSlRj499cSFdCa-J-O8VXYVavJhVuTgbpo0R-28t5XzOwsHu7W40K6GEWQmufZPIAKw-pxW-GUsxj4_MY9ON0fnwayIaQQ3hcGvl_auEHqpVwVSVjI-FyXxjF0x_lM9-z3Tr5XpSte22lMJzf2N2LRZzsGZX8PUUpnvVuYbq7keBZ_tRwAoueOu6lYIRGfcJpXEQjymj3GO1dp8JiDjK61TOld1GXnytHmAGmPVR9wFfDFQz2OAEK-heTktkBGf0q5vRC31mOZ1-5zIk_WiX0rDzBX-DhE0G2X5lKWXBI3_OJZBWbRWhdtrdzrjmszs_0XlnpTz9B13Tni8ry-yRvWV3zB1wWD-Q45SkTZHhOdFn6daniC-sOLgNF0Hxe5w3EOlk748WOriWOsyJdtv-u1Lor4-q53BzvMyc06UftoY16yZOO-BxbTpevN3ZxoKMlDYenfe8lisqVaBqKvnkYnfwldmiPe7jVlHs154Yf1RXYcBul0X6lNjrqamJyUvwtnSiHUyfRp7HCJ_BByZGWotIIv_v6kumiFT4oMC9nhw-w8JQY0BZicaBM9JfoWxuid8u200_-lvOESeak3-a-A2i_lEpOMxlhxeX8_AvlPT4ja-mFCtVPafsn6AfYHeUH9aggg4nmTAymVMv3UaNxgTNa3nBFWB_zdSvhvoU0u8z4Uj2_HpLLwKBW7Cvui-dACD2Qe23VORDvZXdmfBkwWF79R2w1WbV01J1n6-cXAgJFwPWqmZyrxX6AoM///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolefJjLbxxOgu#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolefJjLbxxOgu"
+    },
+    {
+      "text": "",
+      "url": "https://prod-use.perf-serving.com/click/P5sv36LqaRy-uL9f08SQpiJDrUdJXql1ebKDJw8LgVbm3sGaIk-Y-y0E0bqCAzC3ZyoidhHvaSM7zE969uYVpchLfl4wddW9133rrE-zPHi9Tb5Rs9vqPGOdkBxl2vFPxuO3zC-lKvOtjIm_nyuGYIwV99opfGV22EY2_P2atPBAsCQUhR7GUJfCFArbCSkcTJLT9CDnZL7L5Z-JS2KLDfPoqhT3Oq0_WO7hTJ4J09k9rOU9z-c8svbTtXmJpgWHm2WFTMfPUOR5mwDbqLIr-m8TwNFODIyN8-KYekgCVhUQu0Up45jld_hNOBPNwWP3fXaIP4V81Ozv_gbandSVnvavbf14oTBSXFpVWUjODcB15sK-MS6XmarkBCHTfREKAt9iR47e8EL-U1S7alv3xbwMUTGGnNCi784NVflsEvM_l5rwnEqOd1_66xyzS6h9_w9W0yKlYB1RxGNa0mv5_lQNQ25ceSlRj499cSFdCa-J-O8VXYVavJhVuTgbpo0R-28t5XzOwsHu7W40K6GEWQmufZPIAKw-pxW-GUsxj4_MY9ON0fnwayIaQQ3hcGvl_auEHqpVwVSVjI-FyXxjF0x_lM9-z3Tr5XpSte22lMJzf2N2LRZzsGZX8PUUpnvVuYbq7keBZ_tRwAoueOu6lYIRGfcJpXEQjymj3GO1dp8JiDjK61TOld1GXnytHmAGmPVR9wFfDFQz2OAEK-heTktkBGf0q5vRC31mOZ1-5zIk_WiX0rDzBX-DhE0G2X5lKWXBI3_OJZBWbRWhdtrdzrjmszs_0XlnpTz9B13Tni8ry-yRvWV3zB1wWD-Q45SkTZHhOdFn6daniC-sOLgNF0Hxe5w3EOlk748WOriWOsyJdtv-u1Lor4-q53BzvMyc06UftoY16yZOO-BxbTpevN3ZxoKMlDYenfe8lisqVaBqKvnkYnfwldmiPe7jVlHs154Yf1RXYcBul0X6lNjrqamJyUvwtnSiHUyfRp7HCJ_BByZGWotIIv_v6kumiFT4oMC9nhw-w8JQY0BZicaBM9JfoWxuid8u200_-lvOESeak3-a-A2i_lEpOMxlhxeX8_AvlPT4ja-mFCtVPafsn6AfYHeUH9aggg4nmTAymVMv3UaNxgTNa3nBFWB_zdSvhvoU0u8z4Uj2_HpLLwKBW7Cvui-dACD2Qe23VORDvZXdmfBkwWF79R2w1WbV01J1n6-cXAgJFwPWqmZyrxX6AoM///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolefJjLbxxOgu#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcolefJjLbxxOgu"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "US Medicare Quotes",
+      "url": "https://prod-use.perf-serving.com/click/bwOa6zqCiz8FhArJSvCXAsbx_QnIXKamzdOMaFk1zbmXZ6i6AaDe99OOKUliT_H03CDymgovzO2kiMPMu6LZEU4szMcl5DitzjFN5-UGNV41FFR-4I4fFeUarNGs2wEgqNjV7xuB2p1tLQbgX2BzYnIzR9o9JCNYdHb_SnAYh6RlIeMen4nQMaZcJdamuH0BuSMgBfpwhdEYzBkWkdW-frCECt4Gd512Xd_-vMP_tXhJiG1S1k6fCBYfwipnAzTYPPYcscg-uP_yq7mFnhoBvzfZJtitmi60lTs21IK_hqFo-1rN5ubhDj9jI3UAU32136tFMo5xQVidu_1tY-fN58OLUnhNGnBBVNfbdiMgYL4Rfh8cYciulnBWUfyIqfg267C6ZAfSJC62La6yIiKNHbjUSHF9lo5MAOprjpZV_Wn8VWKS4xbFhZS9ujYZL4qUiSL2e04eEzI-j4hwEYdlP-kulGoHIXaZtgOatVMnL1Ib4IY94UPlgmNaSMJ7JSTOlveT4A2WyscBS-SbTbCncrvKb32W6CdqG70JnEWHLyTEA9cubwIhR5Aq-u8USm3Cz0uJr0cS1ZhSMdUh2iFW9TIhKnEkvfYr_r2TEm1xh5EGvqkEOfcEPdZZu1eFgrzcNiWKhtGM8aHAldQ5HPuEd2DAB8IwNTdw7FtBd5KmzBocMoV4j2NobPo1rjIU0kS_yMMreo-asYhfCRoYzq9TEKZ6zOTKehsoge4_4NGd31dxDA75oAX1MFatuZqBTA7uyNOB9hwjstYFtZcetQsSFJLt--ECmGFDqkWCkDFkZCnILylHOLj9Oy3JcEcuJfweo017YaXQLqfvtisX2amkIa18qRmJOsBRjqDQveW6j5XSgZp5rw-M8zqQZ5wagVhXTxZzGuTyxA3clbiFV87HUYQaUR461Fa0vdpcWWpw7byFpNtHPmK3chB3Ul1r8dta5FOSk7KxF7OcSASD8xGMBnhzCuUrGixHF9-FgNzVuA2cMkh2fI1TpDC66QLEsfwncCtszCtKlOT0ijHLYBCKr26NcvovXThHY8s-NDy2yzNpfGevtUQ9oPkt4k4XMc4nVphvj5bqnC7nZA4yF-LpXHa-1sVx8P9YATgMpnNqRw14pu1Ujvt60ICPtf-HDRqbI2SBcM23LJBKzSDGHN2z4QUG8G1osIIz362jceoNCNwfF7wYxZF5yPhLOKbHVZDw46DC46v0FjMNi9CdVrGJTpib_g///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcov-Gm_bmh-LYZ#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcov-Gm_bmh-LYZ"
+    },
+    {
+      "text": "Up to $900 \"Grocery Benefit\" Everyone on Medicare Can Apply ForClaim Up To $900 -If You Are Currently On Medicare- To Help You Pay For Your Groceries!US Medicare Quotes|",
+      "url": "https://prod-use.perf-serving.com/click/bwOa6zqCiz8FhArJSvCXAsbx_QnIXKamzdOMaFk1zbmXZ6i6AaDe99OOKUliT_H03CDymgovzO2kiMPMu6LZEU4szMcl5DitzjFN5-UGNV41FFR-4I4fFeUarNGs2wEgqNjV7xuB2p1tLQbgX2BzYnIzR9o9JCNYdHb_SnAYh6RlIeMen4nQMaZcJdamuH0BuSMgBfpwhdEYzBkWkdW-frCECt4Gd512Xd_-vMP_tXhJiG1S1k6fCBYfwipnAzTYPPYcscg-uP_yq7mFnhoBvzfZJtitmi60lTs21IK_hqFo-1rN5ubhDj9jI3UAU32136tFMo5xQVidu_1tY-fN58OLUnhNGnBBVNfbdiMgYL4Rfh8cYciulnBWUfyIqfg267C6ZAfSJC62La6yIiKNHbjUSHF9lo5MAOprjpZV_Wn8VWKS4xbFhZS9ujYZL4qUiSL2e04eEzI-j4hwEYdlP-kulGoHIXaZtgOatVMnL1Ib4IY94UPlgmNaSMJ7JSTOlveT4A2WyscBS-SbTbCncrvKb32W6CdqG70JnEWHLyTEA9cubwIhR5Aq-u8USm3Cz0uJr0cS1ZhSMdUh2iFW9TIhKnEkvfYr_r2TEm1xh5EGvqkEOfcEPdZZu1eFgrzcNiWKhtGM8aHAldQ5HPuEd2DAB8IwNTdw7FtBd5KmzBocMoV4j2NobPo1rjIU0kS_yMMreo-asYhfCRoYzq9TEKZ6zOTKehsoge4_4NGd31dxDA75oAX1MFatuZqBTA7uyNOB9hwjstYFtZcetQsSFJLt--ECmGFDqkWCkDFkZCnILylHOLj9Oy3JcEcuJfweo017YaXQLqfvtisX2amkIa18qRmJOsBRjqDQveW6j5XSgZp5rw-M8zqQZ5wagVhXTxZzGuTyxA3clbiFV87HUYQaUR461Fa0vdpcWWpw7byFpNtHPmK3chB3Ul1r8dta5FOSk7KxF7OcSASD8xGMBnhzCuUrGixHF9-FgNzVuA2cMkh2fI1TpDC66QLEsfwncCtszCtKlOT0ijHLYBCKr26NcvovXThHY8s-NDy2yzNpfGevtUQ9oPkt4k4XMc4nVphvj5bqnC7nZA4yF-LpXHa-1sVx8P9YATgMpnNqRw14pu1Ujvt60ICPtf-HDRqbI2SBcM23LJBKzSDGHN2z4QUG8G1osIIz362jceoNCNwfF7wYxZF5yPhLOKbHVZDw46DC46v0FjMNi9CdVrGJTpib_g///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcov-Gm_bmh-LYZ#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcov-Gm_bmh-LYZ"
+    },
+    {
+      "text": "",
+      "url": "https://prod-use.perf-serving.com/click/bwOa6zqCiz8FhArJSvCXAsbx_QnIXKamzdOMaFk1zbmXZ6i6AaDe99OOKUliT_H03CDymgovzO2kiMPMu6LZEU4szMcl5DitzjFN5-UGNV41FFR-4I4fFeUarNGs2wEgqNjV7xuB2p1tLQbgX2BzYnIzR9o9JCNYdHb_SnAYh6RlIeMen4nQMaZcJdamuH0BuSMgBfpwhdEYzBkWkdW-frCECt4Gd512Xd_-vMP_tXhJiG1S1k6fCBYfwipnAzTYPPYcscg-uP_yq7mFnhoBvzfZJtitmi60lTs21IK_hqFo-1rN5ubhDj9jI3UAU32136tFMo5xQVidu_1tY-fN58OLUnhNGnBBVNfbdiMgYL4Rfh8cYciulnBWUfyIqfg267C6ZAfSJC62La6yIiKNHbjUSHF9lo5MAOprjpZV_Wn8VWKS4xbFhZS9ujYZL4qUiSL2e04eEzI-j4hwEYdlP-kulGoHIXaZtgOatVMnL1Ib4IY94UPlgmNaSMJ7JSTOlveT4A2WyscBS-SbTbCncrvKb32W6CdqG70JnEWHLyTEA9cubwIhR5Aq-u8USm3Cz0uJr0cS1ZhSMdUh2iFW9TIhKnEkvfYr_r2TEm1xh5EGvqkEOfcEPdZZu1eFgrzcNiWKhtGM8aHAldQ5HPuEd2DAB8IwNTdw7FtBd5KmzBocMoV4j2NobPo1rjIU0kS_yMMreo-asYhfCRoYzq9TEKZ6zOTKehsoge4_4NGd31dxDA75oAX1MFatuZqBTA7uyNOB9hwjstYFtZcetQsSFJLt--ECmGFDqkWCkDFkZCnILylHOLj9Oy3JcEcuJfweo017YaXQLqfvtisX2amkIa18qRmJOsBRjqDQveW6j5XSgZp5rw-M8zqQZ5wagVhXTxZzGuTyxA3clbiFV87HUYQaUR461Fa0vdpcWWpw7byFpNtHPmK3chB3Ul1r8dta5FOSk7KxF7OcSASD8xGMBnhzCuUrGixHF9-FgNzVuA2cMkh2fI1TpDC66QLEsfwncCtszCtKlOT0ijHLYBCKr26NcvovXThHY8s-NDy2yzNpfGevtUQ9oPkt4k4XMc4nVphvj5bqnC7nZA4yF-LpXHa-1sVx8P9YATgMpnNqRw14pu1Ujvt60ICPtf-HDRqbI2SBcM23LJBKzSDGHN2z4QUG8G1osIIz362jceoNCNwfF7wYxZF5yPhLOKbHVZDw46DC46v0FjMNi9CdVrGJTpib_g///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcov-Gm_bmh-LYZ#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUcov-Gm_bmh-LYZ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "NewTech",
+      "url": "https://ac.2022gadgets.com/?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Americans+Are+Replacing+AC%27s+With+This+Tiny+Cooler&platform=Desktop&campaign_id=17540732&campaign_item_id=3424640769&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1af3d80db432b4f78f5de696d06ac6bf.jpg&click_id=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo"
+    },
+    {
+      "text": "Americans Are Replacing AC's With This Tiny CoolerThis AC turned my room into an icebox quicker than any other AC I've triedNewTech|",
+      "url": "https://ac.2022gadgets.com/?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Americans+Are+Replacing+AC%27s+With+This+Tiny+Cooler&platform=Desktop&campaign_id=17540732&campaign_item_id=3424640769&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1af3d80db432b4f78f5de696d06ac6bf.jpg&click_id=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo"
+    },
+    {
+      "text": "",
+      "url": "https://ac.2022gadgets.com/?site=gannettcompany-heraldtimesreporter&site_id=1010948&title=Americans+Are+Replacing+AC%27s+With+This+Tiny+Cooler&platform=Desktop&campaign_id=17540732&campaign_item_id=3424640769&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F1af3d80db432b4f78f5de696d06ac6bf.jpg&click_id=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-original-03:Below Homepage Feed - Feed Redesign | Card 1:"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=9e751165ab5d0fcd21ac5806c8a94ff3&sd=v2_2ae2ee15888d71f56873e8ccaf1f2323_b8360664-fc7e-4dda-b1a8-9faf15613084-tuct9caf464_1657892580_1657892580_CIi3jgYQhNo9GKHV5JCgMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGie4fPVv5r3zrsBcAE&ui=b8360664-fc7e-4dda-b1a8-9faf15613084-tuct9caf464&it=text&ii=~~V1~~-4579164104374759491~~DAf_TjdKU0KIftmPDwZa4870JrIttwUTCefNzOmObBT6nH0OabNJtzzP-ddPU2nvK8Bm7FKD2NW1M1BCiW1-kuMDMqg65-jJbi04eURsbtqeHe1S9jo_X4timp5pCZhQIKiYZmEl3RMjJoyLcF9x2L7I5MK7B1QpyhF1wERuIDVo2Oq0RS2DNJwFtQu2bmIxurOygszEKnfPoVz8jrMGT0o4WjYEFxaJoixpnQpdazkS9WMHhPu51njIZOeAHLVs_fUngWKwXjZz9PmLtDRJgz9NphNIo4ggCOEeudoPqF9Cd3vT9BTqsc3eu3LaT0CduEjIn6p3dLxd4EFkAMUwlg&pt=home&li=rbox-h2v&sig=89f0dcb8ede7f68a66c3eeadc340a72fd7e04a50961e&redir=https%3A%2F%2Fac.2022gadgets.com%2F%3Fsite%3Dgannettcompany-heraldtimesreporter%26site_id%3D1010948%26title%3DAmericans%2BAre%2BReplacing%2BAC%2527s%2BWith%2BThis%2BTiny%2BCooler%26platform%3DDesktop%26campaign_id%3D17540732%26campaign_item_id%3D3424640769%26thumbnail%3Dhttp%253A%252F%252Fcdn.taboola.com%252Flibtrc%252Fstatic%252Fthumbnails%252F1af3d80db432b4f78f5de696d06ac6bf.jpg%26click_id%3DGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo%26tblci%3DGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo%23tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyCtnFgog8b33_zLhYRo&vi=1657892580001&p=pandamobonetwork-xydigital-sc&r=45&lti=deflated&ppb=CPQD&cpb=EhMyMDIyMDcxNC0yOC1SRUxFQVNFGN6329MGIJz__________wEqGXVzLnRhYm9vbGFzeW5kaWNhdGlvbi5jb20yCHRyYzEwMjI0OICgn6cBQJGkDkiw5Q9QpMvZA1j_A2MI1xYQ1R8YI2RjCJYUEJscGBhkYwjSAxDgBhgIZGMI7wMQigcYCWRjCIstEJ0-GCpkYwj0FBCeHRgfZGMIpCcQijUYL2R4AYABtYgBiAH8ja7HAZABFw&cta=true"
+    },
+    {
+      "text": "ViralBezz",
+      "url": "https://viralbezz.com/love-them?utm_source=taboola&utm_medium=lovers+12&utm_campaign=1010948&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDkg1Eot7P5zaLCw8yyAQ#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDkg1Eot7P5zaLCw8yyAQ"
+    },
+    {
+      "text": "[IMPORTANT] 10 Ways to Show Your Cats You Love ThemViralBezz|",
+      "url": "https://viralbezz.com/love-them?utm_source=taboola&utm_medium=lovers+12&utm_campaign=1010948&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDkg1Eot7P5zaLCw8yyAQ#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDkg1Eot7P5zaLCw8yyAQ"
+    },
+    {
+      "text": "",
+      "url": "https://viralbezz.com/love-them?utm_source=taboola&utm_medium=lovers+12&utm_campaign=1010948&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDkg1Eot7P5zaLCw8yyAQ#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDkg1Eot7P5zaLCw8yyAQ"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Greedyfinance",
+      "url": "https://greedyfinance.com/index.php/en/2021/08/06/bizarre-things-every-tourist-should-experience-at-least-once-in-japan/?utm_source=tab-12049581&utm_medium=1010948&utm_term=taboola&utm_campaign=SN_GDF_QuirkyJapan_EN_TC12864_JDW_EN_US_D_Smartbid_12049581"
+    },
+    {
+      "text": "40 Seriously Weird Things That Exist Only In JapanGreedyfinance|",
+      "url": "https://greedyfinance.com/index.php/en/2021/08/06/bizarre-things-every-tourist-should-experience-at-least-once-in-japan/?utm_source=tab-12049581&utm_medium=1010948&utm_term=taboola&utm_campaign=SN_GDF_QuirkyJapan_EN_TC12864_JDW_EN_US_D_Smartbid_12049581"
+    },
+    {
+      "text": "",
+      "url": "https://greedyfinance.com/index.php/en/2021/08/06/bizarre-things-every-tourist-should-experience-at-least-once-in-japan/?utm_source=tab-12049581&utm_medium=1010948&utm_term=taboola&utm_campaign=SN_GDF_QuirkyJapan_EN_TC12864_JDW_EN_US_D_Smartbid_12049581"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 2:"
+    },
+    {
+      "text": "mymzo.com",
+      "url": "https://mymzo.com/10-new-green-technologies-that-will-change-the-world/?utm_source=gannettcompany-heraldtimesreporter&utm_medium=htrnews.com&utm_campaign=OHT-DSK-ADV46-10-new-green-technologies&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDO31Io1JWWwrnQ7Jto#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDO31Io1JWWwrnQ7Jto"
+    },
+    {
+      "text": "10 New Green Technologies That Will Change The Worldmymzo.com|",
+      "url": "https://mymzo.com/10-new-green-technologies-that-will-change-the-world/?utm_source=gannettcompany-heraldtimesreporter&utm_medium=htrnews.com&utm_campaign=OHT-DSK-ADV46-10-new-green-technologies&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDO31Io1JWWwrnQ7Jto#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDO31Io1JWWwrnQ7Jto"
+    },
+    {
+      "text": "",
+      "url": "https://mymzo.com/10-new-green-technologies-that-will-change-the-world/?utm_source=gannettcompany-heraldtimesreporter&utm_medium=htrnews.com&utm_campaign=OHT-DSK-ADV46-10-new-green-technologies&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDO31Io1JWWwrnQ7Jto#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDO31Io1JWWwrnQ7Jto"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "ViralBezz",
+      "url": "https://viralbezz.com/cats-slap/?utm_source=AhmedCat&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyD4z1IovMDhl9Lk__NW#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyD4z1IovMDhl9Lk__NW"
+    },
+    {
+      "text": "Cats Slap Each Other for 4 ReasonsViralBezz|",
+      "url": "https://viralbezz.com/cats-slap/?utm_source=AhmedCat&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyD4z1IovMDhl9Lk__NW#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyD4z1IovMDhl9Lk__NW"
+    },
+    {
+      "text": "",
+      "url": "https://viralbezz.com/cats-slap/?utm_source=AhmedCat&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyD4z1IovMDhl9Lk__NW#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyD4z1IovMDhl9Lk__NW"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-feed-desktop-03:Below Homepage Feed - Feed Redesign | Card 3:"
+    },
+    {
+      "text": "Packers' Rodgers needs a security blanket with go-to receiver Adams gone",
+      "url": "/story/sports/nfl/packers/2022/07/14/green-bay-packers-aaron-rodgers-needs-new-target-receiver-davante-adams-gone/7751441001/"
+    },
+    {
+      "text": "WEC administrator: Voters must place own ballots in the mail",
+      "url": "/story/news/politics/elections/2022/07/14/wisconsin-voters-must-place-their-own-ballots-mail/10060842002/"
+    },
+    {
+      "text": "Schoolhouse being razed near Mishicot was built in 1887. What to know about Kettle Range School.",
+      "url": "/story/life/2022/07/14/kettle-range-school-manitowoc-county-built-1880-s-history/10052679002/"
+    },
+    {
+      "text": "Get to know Sway Brewing and Blending, Door County's newest craft brewery",
+      "url": "/story/entertainment/nightlife/beer/2022/07/15/door-county-baileys-harbor-add-sway-brewing-craft-brewery-scene/10047290002/"
+    },
+    {
+      "text": "Get a six-month Herald Times Reporter subscription for $1",
+      "url": "/story/news/local/2018/02/06/herald-times-reporter-digital-subscription/1087736001/"
+    },
+    {
+      "text": "",
+      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Right-Rail"
+    },
+    {
+      "text": "Smart Lifestyle Trends",
+      "url": "https://prod-use.perf-serving.com/click/W-GxCKyDPLkYFNfFjDVhD6c5yOGJIxRZNapyl0GjYkh6w46Q0uaB0EJoB9132wXCs44VZHGES-wZN1vJZ_XM_5591KByScg47q0wto9_4rTqBVW1_mO6Zdbm9zm8iO_N9Kbly9anY_edeiFQxZX-VJKqruxe-I9xSYWk5qJ_jwI1MuYsY0xjKJs0GuH57gebI4a2DoBFJrRC-m155-fkbQ3w262DyltLvrwWfvax6YCADTedpeCijMak6bRgXx2kdrh5N9rKx51ZCdlD0fuO2m3zmiFDu5Sd_tdmTKt0Eup9iLpFZnI9Qfo57KAOE7IrwfGDt3d31P7WoQAtenbtGuaNy6IvcXd72LSefBhe4upk2FMoWaa3BU1MuwrKx5aGhgmvw2M5WKR5Su56RbHhyusS7RvUB-eu0Od_q8iI9vK-tUW67-FYvNGCQ2sQn-E9fLAtB_9Mp_OSJT1skPDj3GoWJR72iTnpBRcwcpqxlXFudCHMiwqvRHkjGSs8FqvSYlolyBDfWNmekWBYWPEsSZ5lAuHS1bFu5c3W-3CCCy0sRW53Vu7u8nmlfExjr2e9Zjg0ugvNAAEjU4wAGqYLQjUYsqsNcF9FmQs5TmaHbjctZKk3ms3qtVCtOuGZoe9wgxHvKkehoe8O8_n9_PdIZXVo4ihcPRdT8_5DoNHXm7eVrQHUuOYH7K5QXUGT-DUvcM3zXDMQhZdItx2uUYcKAJNHgEBqcUZrODhjQxihfbGW6Eu81BoEnoHE2Tfo-SRDsaXgB0fz57tEZVNkHklsdk33eoaP5GD5XLjMY-FpVGjcZT0kN-4xUZK8iIwcsPe8vNxahqCC-dPSbRctCxw0C-HOEAP-719YFsJN2y53vEJy3vgDY56Lruk2YKu1VwBJg0-rmO7Bv9AYz_LGuItqNVG545S3NaiDbVxlFEKnX3B8pYEDt0Vkj4EeYhquAC_xNzhHEvi-nBKYUShMD4hYlDVEA0vbv9nmr8S7B4eGpoNlFOyM3ohdKcxd3MigZuSKYzg4cvhOyoqJMqd6J06ovjqtO-ExN-_eCLGwy7HvDFtv1cnk9VEHJmq4GZlSdq2GT1Q0tcHs0bg66SlxVLFTK90xJUR2jRqLKhVlaX47n5vDnI85UEte-zQFiOCQzNTzDqa3YQ5-CizUTYNjHB0jMHIK19do1UPqOWORFG5dbZez1Jn63oATjX4_l2Qlq5mKoJqaNWCG7wIYU0Ajvakb1yUNzA///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco7bLRgvzC4_E9#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco7bLRgvzC4_E9"
+    },
+    {
+      "text": "Virginia Launches New Policy For Cars Used Less Than 50 Miles/DaySmart Lifestyle Trends|",
+      "url": "https://prod-use.perf-serving.com/click/W-GxCKyDPLkYFNfFjDVhD6c5yOGJIxRZNapyl0GjYkh6w46Q0uaB0EJoB9132wXCs44VZHGES-wZN1vJZ_XM_5591KByScg47q0wto9_4rTqBVW1_mO6Zdbm9zm8iO_N9Kbly9anY_edeiFQxZX-VJKqruxe-I9xSYWk5qJ_jwI1MuYsY0xjKJs0GuH57gebI4a2DoBFJrRC-m155-fkbQ3w262DyltLvrwWfvax6YCADTedpeCijMak6bRgXx2kdrh5N9rKx51ZCdlD0fuO2m3zmiFDu5Sd_tdmTKt0Eup9iLpFZnI9Qfo57KAOE7IrwfGDt3d31P7WoQAtenbtGuaNy6IvcXd72LSefBhe4upk2FMoWaa3BU1MuwrKx5aGhgmvw2M5WKR5Su56RbHhyusS7RvUB-eu0Od_q8iI9vK-tUW67-FYvNGCQ2sQn-E9fLAtB_9Mp_OSJT1skPDj3GoWJR72iTnpBRcwcpqxlXFudCHMiwqvRHkjGSs8FqvSYlolyBDfWNmekWBYWPEsSZ5lAuHS1bFu5c3W-3CCCy0sRW53Vu7u8nmlfExjr2e9Zjg0ugvNAAEjU4wAGqYLQjUYsqsNcF9FmQs5TmaHbjctZKk3ms3qtVCtOuGZoe9wgxHvKkehoe8O8_n9_PdIZXVo4ihcPRdT8_5DoNHXm7eVrQHUuOYH7K5QXUGT-DUvcM3zXDMQhZdItx2uUYcKAJNHgEBqcUZrODhjQxihfbGW6Eu81BoEnoHE2Tfo-SRDsaXgB0fz57tEZVNkHklsdk33eoaP5GD5XLjMY-FpVGjcZT0kN-4xUZK8iIwcsPe8vNxahqCC-dPSbRctCxw0C-HOEAP-719YFsJN2y53vEJy3vgDY56Lruk2YKu1VwBJg0-rmO7Bv9AYz_LGuItqNVG545S3NaiDbVxlFEKnX3B8pYEDt0Vkj4EeYhquAC_xNzhHEvi-nBKYUShMD4hYlDVEA0vbv9nmr8S7B4eGpoNlFOyM3ohdKcxd3MigZuSKYzg4cvhOyoqJMqd6J06ovjqtO-ExN-_eCLGwy7HvDFtv1cnk9VEHJmq4GZlSdq2GT1Q0tcHs0bg66SlxVLFTK90xJUR2jRqLKhVlaX47n5vDnI85UEte-zQFiOCQzNTzDqa3YQ5-CizUTYNjHB0jMHIK19do1UPqOWORFG5dbZez1Jn63oATjX4_l2Qlq5mKoJqaNWCG7wIYU0Ajvakb1yUNzA///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco7bLRgvzC4_E9#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco7bLRgvzC4_E9"
+    },
+    {
+      "text": "",
+      "url": "https://prod-use.perf-serving.com/click/W-GxCKyDPLkYFNfFjDVhD6c5yOGJIxRZNapyl0GjYkh6w46Q0uaB0EJoB9132wXCs44VZHGES-wZN1vJZ_XM_5591KByScg47q0wto9_4rTqBVW1_mO6Zdbm9zm8iO_N9Kbly9anY_edeiFQxZX-VJKqruxe-I9xSYWk5qJ_jwI1MuYsY0xjKJs0GuH57gebI4a2DoBFJrRC-m155-fkbQ3w262DyltLvrwWfvax6YCADTedpeCijMak6bRgXx2kdrh5N9rKx51ZCdlD0fuO2m3zmiFDu5Sd_tdmTKt0Eup9iLpFZnI9Qfo57KAOE7IrwfGDt3d31P7WoQAtenbtGuaNy6IvcXd72LSefBhe4upk2FMoWaa3BU1MuwrKx5aGhgmvw2M5WKR5Su56RbHhyusS7RvUB-eu0Od_q8iI9vK-tUW67-FYvNGCQ2sQn-E9fLAtB_9Mp_OSJT1skPDj3GoWJR72iTnpBRcwcpqxlXFudCHMiwqvRHkjGSs8FqvSYlolyBDfWNmekWBYWPEsSZ5lAuHS1bFu5c3W-3CCCy0sRW53Vu7u8nmlfExjr2e9Zjg0ugvNAAEjU4wAGqYLQjUYsqsNcF9FmQs5TmaHbjctZKk3ms3qtVCtOuGZoe9wgxHvKkehoe8O8_n9_PdIZXVo4ihcPRdT8_5DoNHXm7eVrQHUuOYH7K5QXUGT-DUvcM3zXDMQhZdItx2uUYcKAJNHgEBqcUZrODhjQxihfbGW6Eu81BoEnoHE2Tfo-SRDsaXgB0fz57tEZVNkHklsdk33eoaP5GD5XLjMY-FpVGjcZT0kN-4xUZK8iIwcsPe8vNxahqCC-dPSbRctCxw0C-HOEAP-719YFsJN2y53vEJy3vgDY56Lruk2YKu1VwBJg0-rmO7Bv9AYz_LGuItqNVG545S3NaiDbVxlFEKnX3B8pYEDt0Vkj4EeYhquAC_xNzhHEvi-nBKYUShMD4hYlDVEA0vbv9nmr8S7B4eGpoNlFOyM3ohdKcxd3MigZuSKYzg4cvhOyoqJMqd6J06ovjqtO-ExN-_eCLGwy7HvDFtv1cnk9VEHJmq4GZlSdq2GT1Q0tcHs0bg66SlxVLFTK90xJUR2jRqLKhVlaX47n5vDnI85UEte-zQFiOCQzNTzDqa3YQ5-CizUTYNjHB0jMHIK19do1UPqOWORFG5dbZez1Jn63oATjX4_l2Qlq5mKoJqaNWCG7wIYU0Ajvakb1yUNzA///?utm_source=taboola&utm_medium=referral&tblci=GiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco7bLRgvzC4_E9#tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco7bLRgvzC4_E9"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Ad",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=gannettcompany-heraldtimesreporter&utm_medium=referral&utm_content=thumbnails-rr:Right Rail Home Thumbnails - Redesign:"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://trc.taboola.com/gannettcompany-heraldtimesreporter/log/3/click?pi=%2F&ri=b9314413e71ada85e4eaaadfa7443ff4&sd=v2_2ae2ee15888d71f56873e8ccaf1f2323_b8360664-fc7e-4dda-b1a8-9faf15613084-tuct9caf464_1657892580_1657892580_CIi3jgYQhNo9GKHV5JCgMCABKAEw4QE4kaQOQLDlD0iky9kDUP8DWABgAGie4fPVv5r3zrsBcAE&ui=b8360664-fc7e-4dda-b1a8-9faf15613084-tuct9caf464&it=text&ii=~~V1~~7131021016985914259~~cuTSpaZh92AEC1rG5GCFjVJ-XhVqDcOj7jkXe5BL8gApVl-xdLkwPKQYmOmll1_mIqmiOFfgOo5pQHIcTGkB9DmxLpRkbD5_Xc-pF94hzXQmT8eQYB9agi_F1A3PyH7pRsXkoTzz4ymhDL6vlWNCB1O3guJN5TpR6LIMJ4uAaVQVhTTormZ3QMWeIWEgsinT-brtyLQk59VLXkzbXEgLv85_eI_VejWYJIOHORHByV8ppDGfL851KOUAuEozOmy36rZIjl9m0o-RYs-KM42z2FE8Hn_bMGQsRpDWFSljfGIEcVTuJJavIz2Tsp2pSBb7gAIpPvLRXuIIFSnw1LXIfupjtexsKgkAXyEH8MEEdVxwPVLp_KHaRo_j3h70ehYZeelfa3vcDdBjh-TDDhweDlos7qgAUEuverWjtB9I5M04OZpu5BIjXw2sIANYFa7SqH0cMroGFdNzawTcMuo7LLfjQ-Bqy28GFlQJYo_UAnhNAqnqkjdYRaOzxyzf-3pWIZ6iNDrlCPwK9cnoTDavc_9lh9taposu7d0Uvy7Z3F51YMxMti2LjuHoS01FW7ZAOpCn06lOQlLqjMYcuAIuboDF0BJilkUvv3vOOh4jY4OGNbDgJI1gs_uRYF76KG5dLbo5qBiJwzJXGxsvRsx6kQgko2moyXvwJTzKg7z95z_kIVak4Hq9JkfIx9YNo5MHDgLyXicpongjnkn4SLDOjXN2-K2WSUh9LSU8BLtY3t4ryYy8cruc1Ytss8m1QHQbnjZKzEHtCQR-hwK6fJqHKsH4Fu5in8uW6cJ99aiz5dkwlg6VYz2ns1XOiQjdUjl3Xj74dQUXOfMaGopYCvtAd7661jHs0EbT12punZbKyXOS42JYtIFyEd2OjwXs6Cp3vAheG4W7X-czSYfzlB2bAR9BAjsruTki4kUf3t1h4y0ZL1XF7sUuu99nR5XS9Pb8-0i8Wq3NTbhTnZXaLgsFtFMYv62AYucvoC_X6vVBQE9KxX2L4a5Gqiy109y3sVrJfusld9SUEdUtPRLsEbGFaUGSX2ucibkOtDlm8wCI6ZXbKB4tfJmaxT2Oh_PGvR9PCmqI_f3AEx-lAR1oT0D96coUU0XgwHQgWQ4hzuSNoGb4Z2hGRDlCaYmdYXFvrktNHv9PuG0aKJs2FwmY48G6bqO7H1fkwIlGu6gTuUdz2qYRmDqSm0UnB2-8tSuqEX9vhEp7CBFu4GKlUo53KjSNzg8fMOC8qu88R3P26gSm4AK_FRSrD_PBWj2NIVuBt4v0vbPXxyggLYBANoGG6hwY5mQz-SVFIadfl8I37rx14cfPVGJ9-quosmatIXdrrKukrcnXNhbLGVzdbsE6UOjb4vq_7M29GmgUeP2WRYr2qziMCybAN7HPZM6biU9xpIgjUhlbGE98xokeRX5cWsQZUseF1ZRZ-Khm0HxS_kn0U5Adm5XGrClACDvvNZ16Cc6clXxS4D45i84Rot4mk7ez62eNGwmxBGyBakxDjfawvVPL9Q8rgAg43pSnMLi9bDF50M58r8woXhhMuPJuFJGpQn1KPCDkcMW8_qNebpupWWCFyBZHtkChsuG_ATc94ZTgvSvmi0wndYAu3NQsL5t-GxxOJF4113dK0I5SA8HVJhh9eg3-T-LVFtJ6R_4EOoYtr3M67AcQcPqUyEiYV1ZlL_YtGzbhj1o1PwT_jBT8Nj-umS1dBGzQb7DIpW7MrxL7XOeoIWhIF0MOES_juKqsWt9W-bsGDTwpaIgVcJZfg_W4zKjnwRofnZ9oTPtMZljp-W_h7bRNd1lBC38ojXuMLekGOqN5K3awAcikscsFuI-_ienFj6BDk5jhrdQxxYN5Ys_M0eSFbSOKNTYit_zbpiTZxMWnbo9m4p2TPUDYqroQKWHANLtGEM2C8Fr1gbkv2Fw8-fFm_xrGPG7bKKGg1Gvwq1ZeyuqztHoDDQ8mkV8zHSgd-kEzKgvK-tRUXpIYs8gJ6DamvFgBiTnoky28M-y292BAXswoXmNAFSMaRsJURvqY2803ctO7dsSe7Y5NH5In7B1pAzol71DT7Fwetchpanlk-v7DWtlXzVR-velQcxkKILhKeRFQIlX2hOTm1-8vVZO3idwFS741Mp9jhDZg5BGMTM09g_ZsHNupK3KOs4a_7qIOhgu9DqiwHekR&pt=home&li=rbox-h2m&sig=36dad1818dd343f71d4edd874edab66c7289b844016d&redir=https%3A%2F%2Fprod-use.perf-serving.com%2Fclick%2FW-GxCKyDPLkYFNfFjDVhD6c5yOGJIxRZNapyl0GjYkh6w46Q0uaB0EJoB9132wXCs44VZHGES-wZN1vJZ_XM_5591KByScg47q0wto9_4rTqBVW1_mO6Zdbm9zm8iO_N9Kbly9anY_edeiFQxZX-VJKqruxe-I9xSYWk5qJ_jwI1MuYsY0xjKJs0GuH57gebI4a2DoBFJrRC-m155-fkbQ3w262DyltLvrwWfvax6YCADTedpeCijMak6bRgXx2kdrh5N9rKx51ZCdlD0fuO2m3zmiFDu5Sd_tdmTKt0Eup9iLpFZnI9Qfo57KAOE7IrwfGDt3d31P7WoQAtenbtGuaNy6IvcXd72LSefBhe4upk2FMoWaa3BU1MuwrKx5aGhgmvw2M5WKR5Su56RbHhyusS7RvUB-eu0Od_q8iI9vK-tUW67-FYvNGCQ2sQn-E9fLAtB_9Mp_OSJT1skPDj3GoWJR72iTnpBRcwcpqxlXFudCHMiwqvRHkjGSs8FqvSYlolyBDfWNmekWBYWPEsSZ5lAuHS1bFu5c3W-3CCCy0sRW53Vu7u8nmlfExjr2e9Zjg0ugvNAAEjU4wAGqYLQjUYsqsNcF9FmQs5TmaHbjctZKk3ms3qtVCtOuGZoe9wgxHvKkehoe8O8_n9_PdIZXVo4ihcPRdT8_5DoNHXm7eVrQHUuOYH7K5QXUGT-DUvcM3zXDMQhZdItx2uUYcKAJNHgEBqcUZrODhjQxihfbGW6Eu81BoEnoHE2Tfo-SRDsaXgB0fz57tEZVNkHklsdk33eoaP5GD5XLjMY-FpVGjcZT0kN-4xUZK8iIwcsPe8vNxahqCC-dPSbRctCxw0C-HOEAP-719YFsJN2y53vEJy3vgDY56Lruk2YKu1VwBJg0-rmO7Bv9AYz_LGuItqNVG545S3NaiDbVxlFEKnX3B8pYEDt0Vkj4EeYhquAC_xNzhHEvi-nBKYUShMD4hYlDVEA0vbv9nmr8S7B4eGpoNlFOyM3ohdKcxd3MigZuSKYzg4cvhOyoqJMqd6J06ovjqtO-ExN-_eCLGwy7HvDFtv1cnk9VEHJmq4GZlSdq2GT1Q0tcHs0bg66SlxVLFTK90xJUR2jRqLKhVlaX47n5vDnI85UEte-zQFiOCQzNTzDqa3YQ5-CizUTYNjHB0jMHIK19do1UPqOWORFG5dbZez1Jn63oATjX4_l2Qlq5mKoJqaNWCG7wIYU0Ajvakb1yUNzA%2F%2F%2F%3Futm_source%3Dtaboola%26utm_medium%3Dreferral%26tblci%3DGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco7bLRgvzC4_E9%23tblciGiDuw0WclyPkrJYTBT1zDnQe_YOXaaXBNCdCv2CUyKsqtyDLiUco7bLRgvzC4_E9&vi=1657892580001&p=bidswitch-iponwebperformance&r=18&lti=deflated&ppb=COEH&cpb=EhMyMDIyMDcxNC0yOC1SRUxFQVNFGN6329MGIJz__________wEqGXVzLnRhYm9vbGFzeW5kaWNhdGlvbi5jb20yCHRyYzEwMjI0OICgn6cBQJGkDkiw5Q9QpMvZA1j_A2MI1xYQ1R8YI2RjCJYUEJscGBhkYwjSAxDgBhgIZGMI7wMQigcYCWRjCIstEJ0-GCpkYwj0FBCeHRgfZGMIpCcQijUYL2R4AYABtYgBiAH8ja7HAZABFw&cta=true"
+    },
+    {
+      "text": "Staff Directory",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.gannett.com/careers/"
+    },
+    {
+      "text": "Accessibility Support",
+      "url": "https://cm.htrnews.com/accessibility"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap/"
+    },
+    {
+      "text": "Legals",
+      "url": "https://www.htrnews.com/public-notices"
+    },
+    {
+      "text": "Our Ethical Principles",
+      "url": "https://cm.htrnews.com/ethical-conduct"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://cm.htrnews.com/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://cm.htrnews.com/privacy"
+    },
+    {
+      "text": "Your California Privacy Rights / Privacy Policy",
+      "url": "https://cm.htrnews.com/privacy-policy/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.htrnews.com/story/news/local/2022/01/21/how-contact-manitowoc-herald-times-staff-and-customer-service/9035728002/"
+    },
+    {
+      "text": "Support Local Businesses",
+      "url": "https://supportlocal.usatoday.com/?utm_source=bnm&utm_medium=editorial&utm_campaign=supportlocal&utm_content=quicklinks&utm_term=manitowoc"
+    },
+    {
+      "text": "Advertise Your Business",
+      "url": "https://localiq.com/markets/Wisconsin/"
+    },
+    {
+      "text": "Advertising Terms and Conditions",
+      "url": "https://cm.htrnews.com/advertising-terms-conditions"
+    },
+    {
+      "text": "Buy and Sell",
+      "url": "/placead/"
+    },
+    {
+      "text": "Licensing & Reprints",
+      "url": "https://imagn.com/licensing-reprints/"
+    },
+    {
+      "text": "Help Center",
+      "url": "https://help.htrnews.com/"
+    },
+    {
+      "text": "Subscriber Guide",
+      "url": "https://cm.htrnews.com/subscriberguide"
+    },
+    {
+      "text": "My Account",
+      "url": "https://account.htrnews.com/"
+    },
+    {
+      "text": "Feedback",
+      "url": "https://cm.htrnews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.htrnews.com%2F&marketName=htrnews&cta=Footer"
+    },
+    {
+      "text": "Subscribe Today",
+      "url": "https://subscribe.htrnews.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://profile.htrnews.com/newsletters/manage"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.htrnews.com/subscriberguide/apps/"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/HeraldTimesReporter"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/htrnews"
+    },
+    {
+      "text": "E-Edition",
+      "url": "https://user.htrnews.com/user/enewspaper"
+    },
+    {
+      "text": "Storytellers",
+      "url": "https://www.storytellersproject.com/"
+    },
+    {
+      "text": "Archives",
+      "url": "http://www.tkqlhce.com/click-8144810-11570746?url=http://archives.htrnews.com"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "http://static.htrnews.com/rss/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.htrnews.com/jobs/"
+    },
+    {
+      "text": "Cars",
+      "url": "/cars/"
+    },
+    {
+      "text": "Homes",
+      "url": "http://www.htrnews.com/marketplace/real-estate/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://classifieds.htrnews.com"
+    },
+    {
+      "text": "Education",
+      "url": "https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Manitowoc+Herald+Times+Reporter"
+    },
+    {
+      "text": "Reviewed",
+      "url": "https://www.reviewed.com/"
+    },
+    {
+      "text": "10Best",
+      "url": "https://www.10best.com/"
+    },
+    {
+      "text": "USA TODAY Sports+",
+      "url": "https://www.usatodaysportsplus.com/"
+    },
+    {
+      "text": "Reach Local",
+      "url": "http://www.reachlocal.com/us/en"
+    }
+  ],
+  "item_last_updated": 1657902024,
+  "item_size": 56399883,
   "metadata": {
     "identifier": "htrnews-2022",
     "collection": [
@@ -6983,10 +7663,10 @@
     "publicdate": "2022-03-27 23:07:58",
     "addeddate": "2022-03-27 23:07:58"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 1218343372,
+  "server": "ia802504.us.archive.org",
+  "uniq": 1583979684,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }

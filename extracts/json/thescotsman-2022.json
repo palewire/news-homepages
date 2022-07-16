@@ -1,5 +1,5 @@
 {
-  "created": 1657887507,
+  "created": 1657933273,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/14/items/thescotsman-2022",
@@ -706,31 +706,73 @@
       "sha1": "fb963bda3665f957fe2911a48dd8d686af5014e2"
     },
     {
+      "name": "thescotsman-2022-07-15T17:10:38.858391+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901447",
+      "size": "70560",
+      "md5": "15759c72cb6da6795cdcc32b53d314e3",
+      "crc32": "7d8865f9",
+      "sha1": "09e018781a11675233346fe78ffa5c93f7531014",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-07-15T17:10:38.858391+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901451",
+      "size": "66974",
+      "md5": "382b908225775a31675fd2538b654e37",
+      "crc32": "5ecce94f",
+      "sha1": "42d505aa80b289778c1bc3a563dded893f567eaf",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-07-15T17:10:38.858391+01:00.jpg",
+      "source": "original",
+      "mtime": "1657901442",
+      "size": "194619",
+      "md5": "868584fa0cf7e1ed9fdf41f1f040b68c",
+      "crc32": "3e67b2e8",
+      "sha1": "df7607403b647200680a0d64d469f46df4c1b1d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thescotsman-2022-07-15T17:10:38.858391+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thescotsman-2022-07-15T17:10:38.858391+01:00.jpg",
+      "mtime": "1657907367",
+      "size": "8448",
+      "md5": "c3eeba0cf9f97d2036fc9baa984be223",
+      "crc32": "f155a30c",
+      "sha1": "72166843231814225af53366ebbec02a9dbc29de"
+    },
+    {
       "name": "thescotsman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6bb5220bc6321d2b3ae8576a3e79bf28b45e7853",
-      "mtime": "1657858862",
-      "size": "15463",
-      "md5": "b5b41806f7743db38e79d98594dc2200",
-      "crc32": "e6a052b8",
-      "sha1": "2b7317e541ce0406dbcbcf4da586e6f73be2935d",
+      "btih": "a5c13af15e878996bebac0451072e5510b2a6331",
+      "mtime": "1657907423",
+      "size": "16304",
+      "md5": "c32631f8102a4055e8c6eb30cbaa3ed3",
+      "crc32": "c71e9672",
+      "sha1": "c1af334c8308b2524c4ecb8407babd43383df322",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thescotsman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c8fc899f839bdae31a2d042d00a90d6",
+      "md5": "616e385fa0c12ea5b6a4dd9cfcdb94c2",
       "summation": "md5"
     },
     {
       "name": "thescotsman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657858729",
-      "size": "81920",
-      "md5": "a7aac9f5c278213f7e37d88821549896",
-      "crc32": "1c440823",
-      "sha1": "2b3223a2430ee75aea67c9f0be4099992416bd0d",
+      "mtime": "1657901558",
+      "size": "86016",
+      "md5": "1cd934a724f4dc1d538affdfb03fe228",
+      "crc32": "9f272d59",
+      "sha1": "1f9539a94999678003f9b5efbc9f51b68f99132a",
       "format": "Metadata"
     },
     {
@@ -744,9 +786,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 70,
-  "item_last_updated": 1657858862,
-  "item_size": 5915912,
+  "files_count": 74,
+  "item_last_updated": 1657907423,
+  "item_size": 6261450,
   "metadata": {
     "identifier": "thescotsman-2022",
     "collection": [
@@ -763,7 +805,7 @@
     "publicdate": "2022-07-06 21:13:25",
     "addeddate": "2022-07-06 21:13:25"
   },
-  "server": "ia801406.us.archive.org",
+  "server": "ia601406.us.archive.org",
   "thescotsman-2022": [
     {
       "text": " \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ",
@@ -999,15 +1041,159 @@
     },
     {
       "text": "",
-      "url": "/news/transport/scotrail-services-set-to-be-crippled-as-two-further-days-of-rail-strikes-announced-3769045"
+      "url": "/news/weather/weather-scotland-amber-alert-for-extreme-heat-in-scotland-as-temperatures-soar-in-heatwave-3769444"
     },
     {
       "text": "\n\n",
-      "url": "/news/transport/scotrail-services-set-to-be-crippled-as-two-further-days-of-rail-strikes-announced-3769045"
+      "url": "/news/weather/weather-scotland-amber-alert-for-extreme-heat-in-scotland-as-temperatures-soar-in-heatwave-3769444"
     },
     {
-      "text": " ScotRail services set to be crippled as two further rail strikes announced ",
-      "url": "/news/transport/scotrail-services-set-to-be-crippled-as-two-further-days-of-rail-strikes-announced-3769045"
+      "text": " Amber alert for extreme heat in Scotland as temperatures soar ",
+      "url": "/news/weather/weather-scotland-amber-alert-for-extreme-heat-in-scotland-as-temperatures-soar-in-heatwave-3769444"
+    },
+    {
+      "text": "Weather",
+      "url": "/news/weather"
+    },
+    {
+      "text": "",
+      "url": "/sport/golf/tiger-woods-admits-150th-open-may-have-been-his-last-at-st-andrews-3770412"
+    },
+    {
+      "text": "\n\n",
+      "url": "/sport/golf/tiger-woods-admits-150th-open-may-have-been-his-last-at-st-andrews-3770412"
+    },
+    {
+      "text": " Tiger Woods admits 150th Open may have been his last at St Andrews ",
+      "url": "/sport/golf/tiger-woods-admits-150th-open-may-have-been-his-last-at-st-andrews-3770412"
+    },
+    {
+      "text": "Golf",
+      "url": "/sport/golf"
+    },
+    {
+      "text": "",
+      "url": "/news/politics/liz-truss-makes-multibillion-pound-pledges-for-tory-leadership-in-zoom-hustings-3770307"
+    },
+    {
+      "text": "\n\n",
+      "url": "/news/politics/liz-truss-makes-multibillion-pound-pledges-for-tory-leadership-in-zoom-hustings-3770307"
+    },
+    {
+      "text": " Liz Truss makes multibillion-pound pledges for Tory leadership in Zoom hustings ",
+      "url": "/news/politics/liz-truss-makes-multibillion-pound-pledges-for-tory-leadership-in-zoom-hustings-3770307"
+    },
+    {
+      "text": "Politics",
+      "url": "/news/politics"
+    },
+    {
+      "text": "",
+      "url": "/news/politics/what-have-the-tory-leadership-candidates-said-about-climate-change-voting-records-of-future-pm-hopefuls-3769371"
+    },
+    {
+      "text": "\n\n",
+      "url": "/news/politics/what-have-the-tory-leadership-candidates-said-about-climate-change-voting-records-of-future-pm-hopefuls-3769371"
+    },
+    {
+      "text": " How have Tory leadership candidates voted on climate change? ",
+      "url": "/news/politics/what-have-the-tory-leadership-candidates-said-about-climate-change-voting-records-of-future-pm-hopefuls-3769371"
+    },
+    {
+      "text": "Politics",
+      "url": "/news/politics"
+    },
+    {
+      "text": "",
+      "url": "/news/politics/conservative-leadership-debates-when-is-the-first-televised-debate-how-to-watch-who-is-the-chair-and-when-are-the-other-debates-3769555"
+    },
+    {
+      "text": "\n\n",
+      "url": "/news/politics/conservative-leadership-debates-when-is-the-first-televised-debate-how-to-watch-who-is-the-chair-and-when-are-the-other-debates-3769555"
+    },
+    {
+      "text": " Everything you need to know about the Conservative leadership debates ",
+      "url": "/news/politics/conservative-leadership-debates-when-is-the-first-televised-debate-how-to-watch-who-is-the-chair-and-when-are-the-other-debates-3769555"
+    },
+    {
+      "text": "Politics",
+      "url": "/news/politics"
+    },
+    {
+      "text": "",
+      "url": "/health/one-in-16-scots-has-covid-as-infections-jump-in-a-week-3769864"
+    },
+    {
+      "text": "\n\n",
+      "url": "/health/one-in-16-scots-has-covid-as-infections-jump-in-a-week-3769864"
+    },
+    {
+      "text": " One in 16 Scots has Covid as infections jump in a week ",
+      "url": "/health/one-in-16-scots-has-covid-as-infections-jump-in-a-week-3769864"
+    },
+    {
+      "text": "Health",
+      "url": "/health"
+    },
+    {
+      "text": "",
+      "url": "/news/national/giant-beanotown-sign-unveiled-over-dundee-to-mark-citys-comic-heritage-3770340"
+    },
+    {
+      "text": "\n\n",
+      "url": "/news/national/giant-beanotown-sign-unveiled-over-dundee-to-mark-citys-comic-heritage-3770340"
+    },
+    {
+      "text": " Giant \u2018Beanotown\u2019 sign unveiled over Dundee to mark city\u2019s comic heritage ",
+      "url": "/news/national/giant-beanotown-sign-unveiled-over-dundee-to-mark-citys-comic-heritage-3770340"
+    },
+    {
+      "text": "National",
+      "url": "/news/national"
+    },
+    {
+      "text": "",
+      "url": "/news/transport/edinburgh-airport-suspends-phone-helpline-after-passengers-abuse-staff-3769335"
+    },
+    {
+      "text": "\n\n",
+      "url": "/news/transport/edinburgh-airport-suspends-phone-helpline-after-passengers-abuse-staff-3769335"
+    },
+    {
+      "text": " Edinburgh Airport suspends phone helpline after passengers abuse staff ",
+      "url": "/news/transport/edinburgh-airport-suspends-phone-helpline-after-passengers-abuse-staff-3769335"
+    },
+    {
+      "text": "Transport",
+      "url": "/news/transport"
+    },
+    {
+      "text": "",
+      "url": "/arts-and-culture/film-and-tv/euromillions-jackpot-feeling-lucky-10-dream-scottish-castles-islands-and-estates-that-euromillions-winners-could-afford-3769821"
+    },
+    {
+      "text": "\n \n\n",
+      "url": "/arts-and-culture/film-and-tv/euromillions-jackpot-feeling-lucky-10-dream-scottish-castles-islands-and-estates-that-euromillions-winners-could-afford-3769821"
+    },
+    {
+      "text": " 10 dream Scottish castles, islands and estates Euromillions winners could afford ",
+      "url": "/arts-and-culture/film-and-tv/euromillions-jackpot-feeling-lucky-10-dream-scottish-castles-islands-and-estates-that-euromillions-winners-could-afford-3769821"
+    },
+    {
+      "text": "Film and TV",
+      "url": "/arts-and-culture/film-and-tv"
+    },
+    {
+      "text": "",
+      "url": "/news/transport/two-rescued-after-scotrail-train-driver-spots-capsized-boat-in-river-clyde-3769886"
+    },
+    {
+      "text": "\n\n",
+      "url": "/news/transport/two-rescued-after-scotrail-train-driver-spots-capsized-boat-in-river-clyde-3769886"
+    },
+    {
+      "text": " Two rescued after ScotRail train driver spots capsized boat in River Clyde ",
+      "url": "/news/transport/two-rescued-after-scotrail-train-driver-spots-capsized-boat-in-river-clyde-3769886"
     },
     {
       "text": "Transport",
@@ -1028,150 +1214,6 @@
     {
       "text": "Columnists",
       "url": "/news/opinion/columnists"
-    },
-    {
-      "text": "",
-      "url": "/news/national/scottish-hill-goes-on-sale-for-ps33m-with-price-expected-to-soar-in-hot-market-3768901"
-    },
-    {
-      "text": "\n\n",
-      "url": "/news/national/scottish-hill-goes-on-sale-for-ps33m-with-price-expected-to-soar-in-hot-market-3768901"
-    },
-    {
-      "text": " Scottish hill goes on sale for \u00a33.3m\u00a0with price expected to soar in 'hot' market ",
-      "url": "/news/national/scottish-hill-goes-on-sale-for-ps33m-with-price-expected-to-soar-in-hot-market-3768901"
-    },
-    {
-      "text": "National",
-      "url": "/news/national"
-    },
-    {
-      "text": "",
-      "url": "/sport/golf/scotland-always-puts-on-a-show-for-the-open-but-this-really-is-a-bit-special-martin-dempster-3768042"
-    },
-    {
-      "text": "\n\n",
-      "url": "/sport/golf/scotland-always-puts-on-a-show-for-the-open-but-this-really-is-a-bit-special-martin-dempster-3768042"
-    },
-    {
-      "text": " Scotland always puts on a show for The Open but this really is a bit special - M... ",
-      "url": "/sport/golf/scotland-always-puts-on-a-show-for-the-open-but-this-really-is-a-bit-special-martin-dempster-3768042"
-    },
-    {
-      "text": "Golf",
-      "url": "/sport/golf"
-    },
-    {
-      "text": "",
-      "url": "/news/politics/analysis-penny-mordaunt-charge-continues-as-rivals-struggle-for-attack-line-3768923"
-    },
-    {
-      "text": "",
-      "url": "/news/politics/analysis-penny-mordaunt-charge-continues-as-rivals-struggle-for-attack-line-3768923"
-    },
-    {
-      "text": " Penny Mordaunt charge continues as rivals struggle for attack line ",
-      "url": "/news/politics/analysis-penny-mordaunt-charge-continues-as-rivals-struggle-for-attack-line-3768923"
-    },
-    {
-      "text": "Politics",
-      "url": "/news/politics"
-    },
-    {
-      "text": "",
-      "url": "/news/national/surprise-as-hospitals-1960s-tower-block-gets-listed-building-status-3768954"
-    },
-    {
-      "text": "\n\n",
-      "url": "/news/national/surprise-as-hospitals-1960s-tower-block-gets-listed-building-status-3768954"
-    },
-    {
-      "text": " \u2018Surprise\u2019 as hospital's 1960s tower block gets listed building status ",
-      "url": "/news/national/surprise-as-hospitals-1960s-tower-block-gets-listed-building-status-3768954"
-    },
-    {
-      "text": "National",
-      "url": "/news/national"
-    },
-    {
-      "text": "",
-      "url": "/news/environment/big-butterfly-count-time-running-out-to-save-some-iconic-butterfly-species-say-experts-3768367"
-    },
-    {
-      "text": "",
-      "url": "/news/environment/big-butterfly-count-time-running-out-to-save-some-iconic-butterfly-species-say-experts-3768367"
-    },
-    {
-      "text": " Time running out to save some iconic butterfly species, say experts ",
-      "url": "/news/environment/big-butterfly-count-time-running-out-to-save-some-iconic-butterfly-species-say-experts-3768367"
-    },
-    {
-      "text": "Environment",
-      "url": "/news/environment"
-    },
-    {
-      "text": "",
-      "url": "/news/politics/nicola-sturgeon-open-to-negotiation-on-her-independence-referendum-plans-3768282"
-    },
-    {
-      "text": "\n\n",
-      "url": "/news/politics/nicola-sturgeon-open-to-negotiation-on-her-independence-referendum-plans-3768282"
-    },
-    {
-      "text": " Nicola Sturgeon 'open to negotiation' on her independence referendum plans ",
-      "url": "/news/politics/nicola-sturgeon-open-to-negotiation-on-her-independence-referendum-plans-3768282"
-    },
-    {
-      "text": "Politics",
-      "url": "/news/politics"
-    },
-    {
-      "text": "",
-      "url": "/news/world/ivana-trump-donald-trumps-first-wife-dies-aged-73-3769036"
-    },
-    {
-      "text": "\n\n",
-      "url": "/news/world/ivana-trump-donald-trumps-first-wife-dies-aged-73-3769036"
-    },
-    {
-      "text": " Ivana Trump, Donald Trump's first wife, dies aged 73 ",
-      "url": "/news/world/ivana-trump-donald-trumps-first-wife-dies-aged-73-3769036"
-    },
-    {
-      "text": "World",
-      "url": "/news/world"
-    },
-    {
-      "text": "",
-      "url": "/news/politics/penny-mordaunt-momentum-continues-as-infighting-dogs-tory-leadership-content-3768944"
-    },
-    {
-      "text": "\n\n",
-      "url": "/news/politics/penny-mordaunt-momentum-continues-as-infighting-dogs-tory-leadership-content-3768944"
-    },
-    {
-      "text": " Rishi Sunak leads leadership race as candidates turn on Penny Mordaunt ",
-      "url": "/news/politics/penny-mordaunt-momentum-continues-as-infighting-dogs-tory-leadership-content-3768944"
-    },
-    {
-      "text": "Politics",
-      "url": "/news/politics"
-    },
-    {
-      "text": "",
-      "url": "/news/national/comedian-rhod-gilbert-announces-he-is-receiving-treatment-for-cancer-3768967"
-    },
-    {
-      "text": "\n\n",
-      "url": "/news/national/comedian-rhod-gilbert-announces-he-is-receiving-treatment-for-cancer-3768967"
-    },
-    {
-      "text": " Comedian Rhod Gilbert announces he is receiving treatment for cancer ",
-      "url": "/news/national/comedian-rhod-gilbert-announces-he-is-receiving-treatment-for-cancer-3768967"
-    },
-    {
-      "text": "National",
-      "url": "/news/national"
     },
     {
       "text": "Scotsman Video",
@@ -1363,6 +1405,22 @@
     },
     {
       "text": "",
+      "url": "/sport/golf/tiger-woods-admits-150th-open-may-have-been-his-last-at-st-andrews-3770412"
+    },
+    {
+      "text": "\n\n",
+      "url": "/sport/golf/tiger-woods-admits-150th-open-may-have-been-his-last-at-st-andrews-3770412"
+    },
+    {
+      "text": " Tiger Woods admits 150th Open may have been his last at St Andrews ",
+      "url": "/sport/golf/tiger-woods-admits-150th-open-may-have-been-his-last-at-st-andrews-3770412"
+    },
+    {
+      "text": "Golf",
+      "url": "/sport/golf"
+    },
+    {
+      "text": "",
       "url": "/sport/golf/how-the-great-tiger-woods-was-tamed-by-the-old-course-in-a-six-hour-slog-at-the-150th-open-3769031"
     },
     {
@@ -1490,22 +1548,6 @@
       "url": "/sport/rugby-union"
     },
     {
-      "text": "",
-      "url": "/sport/golf/phil-mickelson-claims-missing-champions-dinner-for-150th-open-wasnt-purely-his-call-3768378"
-    },
-    {
-      "text": "\n\n",
-      "url": "/sport/golf/phil-mickelson-claims-missing-champions-dinner-for-150th-open-wasnt-purely-his-call-3768378"
-    },
-    {
-      "text": " Phil Mickelson claims missing Champions' Dinner for 150th Open wasn't purely his... ",
-      "url": "/sport/golf/phil-mickelson-claims-missing-champions-dinner-for-150th-open-wasnt-purely-his-call-3768378"
-    },
-    {
-      "text": "Golf",
-      "url": "/sport/golf"
-    },
-    {
       "text": "Ukraine Crisis",
       "url": "/topic/ukraine"
     },
@@ -1563,6 +1605,22 @@
     },
     {
       "text": "",
+      "url": "/news/politics/i-am-backing-penny-mordaunt-says-eastbourne-mp-caroline-ansell-3770180"
+    },
+    {
+      "text": "",
+      "url": "/news/politics/i-am-backing-penny-mordaunt-says-eastbourne-mp-caroline-ansell-3770180"
+    },
+    {
+      "text": " \"I am backing Penny Mordaunt\" says Eastbourne MP Caroline Ansell ",
+      "url": "/news/politics/i-am-backing-penny-mordaunt-says-eastbourne-mp-caroline-ansell-3770180"
+    },
+    {
+      "text": "Politics",
+      "url": "/news/politics"
+    },
+    {
+      "text": "",
       "url": "/news/politics/liz-truss-who-is-liz-truss-the-true-blue-tory-mp-and-foreign-secretary-standing-in-the-conservative-leadership-election-3768237"
     },
     {
@@ -1595,15 +1653,47 @@
     },
     {
       "text": "",
-      "url": "/news/politics/nicola-sturgeon-what-time-is-first-minister-nicola-sturgeon-speaking-today-how-to-watch-indyref2-speech-3747554"
+      "url": "/news/politics/analysis-penny-mordaunt-charge-continues-as-rivals-struggle-for-attack-line-3768923"
+    },
+    {
+      "text": "",
+      "url": "/news/politics/analysis-penny-mordaunt-charge-continues-as-rivals-struggle-for-attack-line-3768923"
+    },
+    {
+      "text": " Penny Mordaunt charge continues as rivals struggle for attack line ",
+      "url": "/news/politics/analysis-penny-mordaunt-charge-continues-as-rivals-struggle-for-attack-line-3768923"
+    },
+    {
+      "text": "Politics",
+      "url": "/news/politics"
+    },
+    {
+      "text": "",
+      "url": "/news/politics/penny-mordaunt-momentum-continues-as-infighting-dogs-tory-leadership-content-3768944"
     },
     {
       "text": "\n\n",
-      "url": "/news/politics/nicola-sturgeon-what-time-is-first-minister-nicola-sturgeon-speaking-today-how-to-watch-indyref2-speech-3747554"
+      "url": "/news/politics/penny-mordaunt-momentum-continues-as-infighting-dogs-tory-leadership-content-3768944"
     },
     {
-      "text": " Here's how to watch Nicola Sturgeon speak on indyref2 later today ",
-      "url": "/news/politics/nicola-sturgeon-what-time-is-first-minister-nicola-sturgeon-speaking-today-how-to-watch-indyref2-speech-3747554"
+      "text": " Rishi Sunak leads leadership race as candidates turn on Penny Mordaunt ",
+      "url": "/news/politics/penny-mordaunt-momentum-continues-as-infighting-dogs-tory-leadership-content-3768944"
+    },
+    {
+      "text": "Politics",
+      "url": "/news/politics"
+    },
+    {
+      "text": "",
+      "url": "/news/politics/nicola-sturgeon-open-to-negotiation-on-her-independence-referendum-plans-3768282"
+    },
+    {
+      "text": "\n\n",
+      "url": "/news/politics/nicola-sturgeon-open-to-negotiation-on-her-independence-referendum-plans-3768282"
+    },
+    {
+      "text": " Nicola Sturgeon 'open to negotiation' on her independence referendum plans ",
+      "url": "/news/politics/nicola-sturgeon-open-to-negotiation-on-her-independence-referendum-plans-3768282"
     },
     {
       "text": "Politics",
@@ -1620,54 +1710,6 @@
     {
       "text": " Nicola Sturgeon: I did not pay much attention to protest by Alba MPs ",
       "url": "/news/politics/nicola-sturgeon-i-did-not-pay-much-attention-to-protest-by-alba-mps-3768654"
-    },
-    {
-      "text": "Politics",
-      "url": "/news/politics"
-    },
-    {
-      "text": "",
-      "url": "/news/politics/whats-in-nicola-sturgeons-latest-independence-paper-3768607"
-    },
-    {
-      "text": "\n\n",
-      "url": "/news/politics/whats-in-nicola-sturgeons-latest-independence-paper-3768607"
-    },
-    {
-      "text": " What's in Nicola Sturgeon's latest independence paper? ",
-      "url": "/news/politics/whats-in-nicola-sturgeons-latest-independence-paper-3768607"
-    },
-    {
-      "text": "Politics",
-      "url": "/news/politics"
-    },
-    {
-      "text": "",
-      "url": "/news/politics/conservative-leadership-suella-braverman-eliminated-as-tory-prime-minister-contenders-whittled-down-to-five-3768514"
-    },
-    {
-      "text": "\n\n",
-      "url": "/news/politics/conservative-leadership-suella-braverman-eliminated-as-tory-prime-minister-contenders-whittled-down-to-five-3768514"
-    },
-    {
-      "text": " Suella Braverman eliminated from Conservative leadership race ",
-      "url": "/news/politics/conservative-leadership-suella-braverman-eliminated-as-tory-prime-minister-contenders-whittled-down-to-five-3768514"
-    },
-    {
-      "text": "Politics",
-      "url": "/news/politics"
-    },
-    {
-      "text": "",
-      "url": "/news/politics/some-families-are-resorting-to-stealing-baby-formula-because-of-high-prices-says-snp-mp-3768118"
-    },
-    {
-      "text": "\n\n",
-      "url": "/news/politics/some-families-are-resorting-to-stealing-baby-formula-because-of-high-prices-says-snp-mp-3768118"
-    },
-    {
-      "text": " Some families are resorting to stealing baby formula, says SNP MP ",
-      "url": "/news/politics/some-families-are-resorting-to-stealing-baby-formula-because-of-high-prices-says-snp-mp-3768118"
     },
     {
       "text": "Politics",
@@ -1795,6 +1837,70 @@
     },
     {
       "text": "",
+      "url": "/recommended/best-summer-sleeping-bags-2022-uk-3235769"
+    },
+    {
+      "text": "",
+      "url": "/recommended/best-summer-sleeping-bags-2022-uk-3235769"
+    },
+    {
+      "text": " Best sleeping bags for camping in summer 2022 UK ",
+      "url": "/recommended/best-summer-sleeping-bags-2022-uk-3235769"
+    },
+    {
+      "text": "Recommended",
+      "url": "/recommended"
+    },
+    {
+      "text": "",
+      "url": "/recommended/best-running-shoes-men-2022-trainers-on-cloud-hoka-saucony-3101752"
+    },
+    {
+      "text": "",
+      "url": "/recommended/best-running-shoes-men-2022-trainers-on-cloud-hoka-saucony-3101752"
+    },
+    {
+      "text": " 9 best running shoes for men 2022: men\u2019s trainers from On Cloud, Hoka ",
+      "url": "/recommended/best-running-shoes-men-2022-trainers-on-cloud-hoka-saucony-3101752"
+    },
+    {
+      "text": "Recommended",
+      "url": "/recommended"
+    },
+    {
+      "text": "",
+      "url": "/recommended/best-cooling-fans-electric-standing-fans-2022-uk-3266062"
+    },
+    {
+      "text": "",
+      "url": "/recommended/best-cooling-fans-electric-standing-fans-2022-uk-3266062"
+    },
+    {
+      "text": " The best electric standing fans for cooling you down this summer ",
+      "url": "/recommended/best-cooling-fans-electric-standing-fans-2022-uk-3266062"
+    },
+    {
+      "text": "Recommended",
+      "url": "/recommended"
+    },
+    {
+      "text": "",
+      "url": "/recommended/aldi-announces-new-budget-gazebo-on-sale-in-time-for-the-heatwave-3769166"
+    },
+    {
+      "text": "",
+      "url": "/recommended/aldi-announces-new-budget-gazebo-on-sale-in-time-for-the-heatwave-3769166"
+    },
+    {
+      "text": " Aldi\u2019s new gazebo on sale in time for the heatwave - how to buy ",
+      "url": "/recommended/aldi-announces-new-budget-gazebo-on-sale-in-time-for-the-heatwave-3769166"
+    },
+    {
+      "text": "Recommended",
+      "url": "/recommended"
+    },
+    {
+      "text": "",
       "url": "/recommended/best-ice-cream-makers-uk-2022-3137509"
     },
     {
@@ -1836,70 +1942,6 @@
     {
       "text": " Best men\u2019s hiking shorts: sweat-wicking, breathable walking shorts ",
       "url": "/recommended/best-mens-hiking-shorts-uk-2022-3708625"
-    },
-    {
-      "text": "Recommended",
-      "url": "/recommended"
-    },
-    {
-      "text": "",
-      "url": "/recommended/best-portable-bbqs-uk-2022-small-gas-barbecues-3713946"
-    },
-    {
-      "text": "",
-      "url": "/recommended/best-portable-bbqs-uk-2022-small-gas-barbecues-3713946"
-    },
-    {
-      "text": " Best portable BBQs: small barbecues, including bucket and camping BBQs ",
-      "url": "/recommended/best-portable-bbqs-uk-2022-small-gas-barbecues-3713946"
-    },
-    {
-      "text": "Recommended",
-      "url": "/recommended"
-    },
-    {
-      "text": "",
-      "url": "/recommended/how-to-keep-your-dog-cool-in-the-heat-3273301"
-    },
-    {
-      "text": "",
-      "url": "/recommended/how-to-keep-your-dog-cool-in-the-heat-3273301"
-    },
-    {
-      "text": " How to keep your dog cool in the heat - cooling mats and splash pools ",
-      "url": "/recommended/how-to-keep-your-dog-cool-in-the-heat-3273301"
-    },
-    {
-      "text": "Recommended",
-      "url": "/recommended"
-    },
-    {
-      "text": "",
-      "url": "/recommended/best-camping-gas-stoves-uk-2022-argos-blacks-campingaz-3265431"
-    },
-    {
-      "text": "",
-      "url": "/recommended/best-camping-gas-stoves-uk-2022-argos-blacks-campingaz-3265431"
-    },
-    {
-      "text": " Best camping stoves in stock in the UK from Argos, Blacks, Decathlon ",
-      "url": "/recommended/best-camping-gas-stoves-uk-2022-argos-blacks-campingaz-3265431"
-    },
-    {
-      "text": "Recommended",
-      "url": "/recommended"
-    },
-    {
-      "text": "",
-      "url": "/recommended/best-power-banks-uk-2022-chargers-3724715"
-    },
-    {
-      "text": "",
-      "url": "/recommended/best-power-banks-uk-2022-chargers-3724715"
-    },
-    {
-      "text": " Best power banks: chargers for phones, devices over multiple days ",
-      "url": "/recommended/best-power-banks-uk-2022-chargers-3724715"
     },
     {
       "text": "Recommended",
@@ -1963,6 +2005,38 @@
     },
     {
       "text": "",
+      "url": "/lifestyle/homes-and-gardens/the-open-st-andrews-four-scottish-homes-for-sale-which-suit-open-golf-fans-down-to-a-tee-3767763"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/homes-and-gardens/the-open-st-andrews-four-scottish-homes-for-sale-which-suit-open-golf-fans-down-to-a-tee-3767763"
+    },
+    {
+      "text": " The Open St Andrews: Four Scottish homes for sale which suit Open golf fans down... ",
+      "url": "/lifestyle/homes-and-gardens/the-open-st-andrews-four-scottish-homes-for-sale-which-suit-open-golf-fans-down-to-a-tee-3767763"
+    },
+    {
+      "text": "Homes and Gardens",
+      "url": "/lifestyle/homes-and-gardens"
+    },
+    {
+      "text": "",
+      "url": "/lifestyle/homes-and-gardens/heatwave-weather-warning-how-house-design-can-keep-you-cool-amid-met-office-weather-warning-for-extreme-heat-3767718"
+    },
+    {
+      "text": "\n\n",
+      "url": "/lifestyle/homes-and-gardens/heatwave-weather-warning-how-house-design-can-keep-you-cool-amid-met-office-weather-warning-for-extreme-heat-3767718"
+    },
+    {
+      "text": " Heatwave weather warning: How house design can keep you cool amid Met Office wea... ",
+      "url": "/lifestyle/homes-and-gardens/heatwave-weather-warning-how-house-design-can-keep-you-cool-amid-met-office-weather-warning-for-extreme-heat-3767718"
+    },
+    {
+      "text": "Homes and Gardens",
+      "url": "/lifestyle/homes-and-gardens"
+    },
+    {
+      "text": "",
       "url": "/lifestyle/homes-and-gardens/new-builds-invitation-to-showhome-triple-treat-3767823"
     },
     {
@@ -1978,40 +2052,40 @@
       "url": "/lifestyle/homes-and-gardens"
     },
     {
-      "text": "",
-      "url": "/lifestyle/homes-and-gardens/area-viewing-selection-of-homes-to-suit-you-to-a-tee-3767763"
+      "text": "Heritage and Retro",
+      "url": "/heritage-and-retro"
     },
     {
       "text": "",
-      "url": "/lifestyle/homes-and-gardens/area-viewing-selection-of-homes-to-suit-you-to-a-tee-3767763"
+      "url": "/heritage-and-retro/heritage/dogs-that-do-and-dont-mix-here-are-the-10-most-and-least-sociable-breeds-of-adorable-dog-from-the-vizsla-to-the-golden-retriever-3664026"
     },
     {
-      "text": " Area viewing: Selection of homes to suit you to a tee ",
-      "url": "/lifestyle/homes-and-gardens/area-viewing-selection-of-homes-to-suit-you-to-a-tee-3767763"
+      "text": "\n \n\n",
+      "url": "/heritage-and-retro/heritage/dogs-that-do-and-dont-mix-here-are-the-10-most-and-least-sociable-breeds-of-adorable-dog-from-the-vizsla-to-the-golden-retriever-3664026"
     },
     {
-      "text": "Homes and Gardens",
-      "url": "/lifestyle/homes-and-gardens"
+      "text": " The 10 most and least sociable breeds of adorable dog ",
+      "url": "/heritage-and-retro/heritage/dogs-that-do-and-dont-mix-here-are-the-10-most-and-least-sociable-breeds-of-adorable-dog-from-the-vizsla-to-the-golden-retriever-3664026"
+    },
+    {
+      "text": "Heritage",
+      "url": "/heritage-and-retro/heritage"
     },
     {
       "text": "",
-      "url": "/lifestyle/homes-and-gardens/kirsty-mcluckie-passive-ways-of-chilling-3767718"
+      "url": "/news/national/surprise-as-hospitals-1960s-tower-block-gets-listed-building-status-3768954"
     },
     {
       "text": "\n\n",
-      "url": "/lifestyle/homes-and-gardens/kirsty-mcluckie-passive-ways-of-chilling-3767718"
+      "url": "/news/national/surprise-as-hospitals-1960s-tower-block-gets-listed-building-status-3768954"
     },
     {
-      "text": " Kirsty McLuckie: Passive ways of chilling ",
-      "url": "/lifestyle/homes-and-gardens/kirsty-mcluckie-passive-ways-of-chilling-3767718"
+      "text": " \u2018Surprise\u2019 as hospital's 1960s tower block gets listed building status ",
+      "url": "/news/national/surprise-as-hospitals-1960s-tower-block-gets-listed-building-status-3768954"
     },
     {
-      "text": "Homes and Gardens",
-      "url": "/lifestyle/homes-and-gardens"
-    },
-    {
-      "text": "Heritage and Retro",
-      "url": "/heritage-and-retro"
+      "text": "National",
+      "url": "/news/national"
     },
     {
       "text": "",
@@ -2094,40 +2168,24 @@
       "url": "/heritage-and-retro/heritage"
     },
     {
+      "text": "Obituaries",
+      "url": "/news/obituaries"
+    },
+    {
       "text": "",
-      "url": "/heritage-and-retro/heritage/the-laddie-from-france-and-his-love-verse-for-scots-3761116"
+      "url": "/news/people/scotsman-obituaries-monty-norman-songwriter-behind-the-james-bond-theme-3769676"
     },
     {
       "text": "\n\n",
-      "url": "/heritage-and-retro/heritage/the-laddie-from-france-and-his-love-verse-for-scots-3761116"
+      "url": "/news/people/scotsman-obituaries-monty-norman-songwriter-behind-the-james-bond-theme-3769676"
     },
     {
-      "text": " The laddie from France and his love verse for Scots ",
-      "url": "/heritage-and-retro/heritage/the-laddie-from-france-and-his-love-verse-for-scots-3761116"
+      "text": " Scotsman Obituaries: Monty Norman, songwriter behind the James Bond theme ",
+      "url": "/news/people/scotsman-obituaries-monty-norman-songwriter-behind-the-james-bond-theme-3769676"
     },
     {
-      "text": "Heritage",
-      "url": "/heritage-and-retro/heritage"
-    },
-    {
-      "text": "",
-      "url": "/lifestyle/travel/13-things-you-should-never-say-to-someone-from-scotland-and-why-3759479"
-    },
-    {
-      "text": "\n \n\n",
-      "url": "/lifestyle/travel/13-things-you-should-never-say-to-someone-from-scotland-and-why-3759479"
-    },
-    {
-      "text": " 13 things you should NEVER say to someone from Scotland (and why) ",
-      "url": "/lifestyle/travel/13-things-you-should-never-say-to-someone-from-scotland-and-why-3759479"
-    },
-    {
-      "text": "Travel",
-      "url": "/lifestyle/travel"
-    },
-    {
-      "text": "Obituaries",
-      "url": "/news/obituaries"
+      "text": "People",
+      "url": "/news/people"
     },
     {
       "text": "",
@@ -2140,22 +2198,6 @@
     {
       "text": " Scotsman Obituaries: Shinzo Abe, former prime minister of Japan ",
       "url": "/news/people/scotsman-obituaries-shinzo-abe-former-prime-minister-of-japan-3766441"
-    },
-    {
-      "text": "People",
-      "url": "/news/people"
-    },
-    {
-      "text": "",
-      "url": "/news/people/obituaries-bobby-hope-scottish-footballer-who-became-west-brom-legend-3765085"
-    },
-    {
-      "text": "\n\n",
-      "url": "/news/people/obituaries-bobby-hope-scottish-footballer-who-became-west-brom-legend-3765085"
-    },
-    {
-      "text": " Obituaries: Bobby Hope, Scottish footballer who became West Brom legend ",
-      "url": "/news/people/obituaries-bobby-hope-scottish-footballer-who-became-west-brom-legend-3765085"
     },
     {
       "text": "People",
@@ -2367,6 +2409,38 @@
     },
     {
       "text": "",
+      "url": "/sport/rugby-union/allan-dell-signs-for-glasgow-warriors-but-still-no-announcement-on-new-coach-3769773"
+    },
+    {
+      "text": "",
+      "url": "/sport/rugby-union/allan-dell-signs-for-glasgow-warriors-but-still-no-announcement-on-new-coach-3769773"
+    },
+    {
+      "text": " Prop signs for Glasgow Warriors but still no announcement on new coach ",
+      "url": "/sport/rugby-union/allan-dell-signs-for-glasgow-warriors-but-still-no-announcement-on-new-coach-3769773"
+    },
+    {
+      "text": "Rugby Union",
+      "url": "/sport/rugby-union"
+    },
+    {
+      "text": "",
+      "url": "/sport/rugby-union/gregor-townsend-explains-scotland-change-of-captain-absence-of-ben-white-and-doubling-down-on-blair-kinghorn-at-10-3769046"
+    },
+    {
+      "text": "",
+      "url": "/sport/rugby-union/gregor-townsend-explains-scotland-change-of-captain-absence-of-ben-white-and-doubling-down-on-blair-kinghorn-at-10-3769046"
+    },
+    {
+      "text": " Townsend explains change of captain, absence of White, and Kinghorn at 10 ",
+      "url": "/sport/rugby-union/gregor-townsend-explains-scotland-change-of-captain-absence-of-ben-white-and-doubling-down-on-blair-kinghorn-at-10-3769046"
+    },
+    {
+      "text": "Rugby Union",
+      "url": "/sport/rugby-union"
+    },
+    {
+      "text": "",
       "url": "/sport/rugby-union/scotland-under-20s-kenny-murray-makes-big-demands-after-latest-defeat-not-helped-by-local-car-accident-3765866"
     },
     {
@@ -2478,36 +2552,20 @@
       "url": "/sport/rugby-union"
     },
     {
-      "text": "",
-      "url": "/sport/rugby-union/kyle-rowe-injury-update-on-scotland-debutant-who-was-stretchered-off-against-argentina-3762702"
+      "text": "Must Read",
+      "url": "/must-read"
     },
     {
       "text": "",
-      "url": "/sport/rugby-union/kyle-rowe-injury-update-on-scotland-debutant-who-was-stretchered-off-against-argentina-3762702"
-    },
-    {
-      "text": " Kyle Rowe: Injury update on Scotland debutant who was stretchered off ",
-      "url": "/sport/rugby-union/kyle-rowe-injury-update-on-scotland-debutant-who-was-stretchered-off-against-argentina-3762702"
-    },
-    {
-      "text": "Rugby Union",
-      "url": "/sport/rugby-union"
+      "url": "/must-read/prime-day-2022-was-the-biggest-prime-day-event-ever-3769254"
     },
     {
       "text": "",
-      "url": "/sport/rugby-union/rory-darge-lays-down-scotland-gauntlet-and-says-there-is-more-to-come-against-argentina-3762910"
+      "url": "/must-read/prime-day-2022-was-the-biggest-prime-day-event-ever-3769254"
     },
     {
-      "text": "",
-      "url": "/sport/rugby-union/rory-darge-lays-down-scotland-gauntlet-and-says-there-is-more-to-come-against-argentina-3762910"
-    },
-    {
-      "text": " Darge: There's more to come against Argentina ",
-      "url": "/sport/rugby-union/rory-darge-lays-down-scotland-gauntlet-and-says-there-is-more-to-come-against-argentina-3762910"
-    },
-    {
-      "text": "Rugby Union",
-      "url": "/sport/rugby-union"
+      "text": " Prime Day 2022 was the Biggest Prime Day Event Ever ",
+      "url": "/must-read/prime-day-2022-was-the-biggest-prime-day-event-ever-3769254"
     },
     {
       "text": "Must Read",
@@ -2540,22 +2598,6 @@
     {
       "text": " Travel: The Treehouses at Lanrick, Doune ",
       "url": "/must-read/the-treehouses-at-lanrick-we-spend-a-magical-night-in-a-perthshire-woodland-3767720"
-    },
-    {
-      "text": "Must Read",
-      "url": "/must-read"
-    },
-    {
-      "text": "",
-      "url": "/must-read/day-two-is-here-prime-day-continues-helping-prime-members-save-more-and-smile-more-3767023"
-    },
-    {
-      "text": "",
-      "url": "/must-read/day-two-is-here-prime-day-continues-helping-prime-members-save-more-and-smile-more-3767023"
-    },
-    {
-      "text": " Day Two is Here! Prime Day Continues, Helping Prime Members Save More and Smile ... ",
-      "url": "/must-read/day-two-is-here-prime-day-continues-helping-prime-members-save-more-and-smile-more-3767023"
     },
     {
       "text": "Must Read",
@@ -2667,11 +2709,11 @@
     },
     {
       "text": "Readers Charter",
-      "url": "https://www.jpimedia.co.uk/readers-charter/?__hstc=113132251.5552944652161d8e0802b57046035517.1657857995358.1657857995358.1657857995358.1&__hssc=113132251.1.1657857995359&__hsfp=393538133"
+      "url": "https://www.jpimedia.co.uk/readers-charter/?__hstc=113132251.3d9771c9b8dab6c8e9c66e6978d7afd4.1657899833141.1657899833141.1657899833141.1&__hssc=113132251.1.1657899833142&__hsfp=393538133"
     },
     {
       "text": "\n              \n\n",
-      "url": "https://www.nationalworldplc.com/?__hstc=113132251.5552944652161d8e0802b57046035517.1657857995358.1657857995358.1657857995358.1&__hssc=113132251.1.1657857995359&__hsfp=393538133"
+      "url": "https://www.nationalworldplc.com/?__hstc=113132251.3d9771c9b8dab6c8e9c66e6978d7afd4.1657899833141.1657899833141.1657899833141.1&__hssc=113132251.1.1657899833142&__hsfp=393538133"
     },
     {
       "text": "Cookie Settings",
@@ -3014,9 +3056,9 @@
       "url": "https://policies.google.com/terms"
     }
   ],
-  "uniq": 879329895,
+  "uniq": 279231960,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

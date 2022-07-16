@@ -1,5 +1,5 @@
 {
-  "created": 1657887500,
+  "created": 1657933262,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/thelensnola-2022",
@@ -562,31 +562,73 @@
       "sha1": "7b4cfe2e8629fca46e20894f84ab2d1570b9c534"
     },
     {
+      "name": "thelensnola-2022-07-15T11:10:00.300932-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657901406",
+      "size": "14941",
+      "md5": "b073e269e8468250d68302c17e6b59f6",
+      "crc32": "08432f86",
+      "sha1": "195980611185bc2fab9d3cb334dfccdd34a56529",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-07-15T11:10:00.300932-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657901408",
+      "size": "12333",
+      "md5": "c19b216c53240e4de74d4e4911376c38",
+      "crc32": "af026293",
+      "sha1": "aaf50ae31585383fa9a56ecf20773e73822b45dd",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-07-15T11:10:00.300932-05:00.jpg",
+      "source": "original",
+      "mtime": "1657901403",
+      "size": "344739",
+      "md5": "e3754fee8630d05a5d3aa4d90b898586",
+      "crc32": "258a5edb",
+      "sha1": "8dfd6ceed085eb842e2ee1e4a60e4292bfc46f73",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelensnola-2022-07-15T11:10:00.300932-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelensnola-2022-07-15T11:10:00.300932-05:00.jpg",
+      "mtime": "1657907276",
+      "size": "12223",
+      "md5": "fd264413e81d9ba84f9037213384ada0",
+      "crc32": "2f66d1b7",
+      "sha1": "72bcebb05a56c7367181a22e5232ad9920662220"
+    },
+    {
       "name": "thelensnola-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b699b28b2657b278c2e3b872e0df79c45566a57",
-      "mtime": "1657858925",
-      "size": "12717",
-      "md5": "4facfb8287091c74a535a4dca94ceeb7",
-      "crc32": "19d41f9b",
-      "sha1": "fe0981c76d5a636b375d1a318d876afc90fbc8b2",
+      "btih": "3ec82b3e5e5013dc7bdd193e93b95be3895f31aa",
+      "mtime": "1657907280",
+      "size": "13579",
+      "md5": "22accf41697ce34c2e0e3731134b02ff",
+      "crc32": "a9d26004",
+      "sha1": "74c9d6d26c22b2c48748a65ca4b8d97fdb7eebef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelensnola-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "581e1073f2e9962635992d8eeefddbcd",
+      "md5": "d12d370f089595214f4c9b558adf8ed8",
       "summation": "md5"
     },
     {
       "name": "thelensnola-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657858734",
-      "size": "73728",
-      "md5": "4ea0330c676dabe8960b9cd0b621e2a6",
-      "crc32": "3574ede8",
-      "sha1": "d24719f82c657b79f68fe72e913aaea2eb8e02d1",
+      "mtime": "1657901521",
+      "size": "77824",
+      "md5": "ede6f06d97982a2143532ed8e1ed334b",
+      "crc32": "6bcdd1ad",
+      "sha1": "804cd9ff14a146a466acadbe1caa5b61d9ec588b",
       "format": "Metadata"
     },
     {
@@ -600,9 +642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 57,
-  "item_last_updated": 1657858925,
-  "item_size": 3522653,
+  "files_count": 61,
+  "item_last_updated": 1657907280,
+  "item_size": 3911847,
   "metadata": {
     "identifier": "thelensnola-2022",
     "collection": [
@@ -1014,7 +1056,7 @@
       "url": "https://newspack.pub/"
     }
   ],
-  "uniq": 8755888,
+  "uniq": 408054837,
   "workable_servers": [
     "ia902509.us.archive.org",
     "ia802509.us.archive.org"
