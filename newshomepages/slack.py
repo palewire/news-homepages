@@ -77,7 +77,7 @@ def cli(archive_json):
                 "elements": [
                     {
                         "type": "mrkdwn",
-                        "text": ":rolled_up_newspaper: Archived by <https://palewire/who-is-ben-welsh|Ben Welsh’s> <https://homepages.news|homepages.news>",
+                        "text": ":rolled_up_newspaper: Archived by <https://palewi.re/who-is-ben-welsh/|Ben Welsh’s> <https://homepages.news|homepages.news>",
                     },
                     {
                         "type": "mrkdwn",
