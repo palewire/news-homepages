@@ -45,8 +45,11 @@ def cli(archive_json):
         "unfurl_media": True,
         "blocks": [
             {
+                "type": "header",
+                "text": {"type": "plain_text", "text": title_text, "emoji": True},
+            },
+            {
                 "type": "image",
-                "title": {"type": "plain_text", "text": title_text, "emoji": True},
                 "image_url": jpg_url,
                 "alt_text": alt_text,
             },
