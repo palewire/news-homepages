@@ -2,6 +2,7 @@ import csv
 import typing
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import urlparse
 
 import pytz
 
@@ -14,6 +15,19 @@ EXTENSIONS_PATH = THIS_DIR / "extensions"
 EXTRACT_DIR = THIS_DIR.parent / "extracts"
 NOTEBOOKS_DIR = THIS_DIR.parent / "notebooks"
 DOCS_DIR = THIS_DIR.parent / "docs"
+
+
+def parse_archive_url(url):
+    """Parse the handle and timestamp from an archive.org URL."""
+    o = urlparse(url)
+    path_list = o.path.split("/")
+    identifier = path_list[-2]
+    handle = identifier[:-5]
+    time_string = time_string = (
+        path_list[-1].replace(f"{handle}-", "").replace(".jpg", "")
+    )
+    timestamp = datetime.fromisoformat(time_string)
+    return dict(identifier=identifier, handle=handle, timestamp=timestamp)
 
 
 def get_user_agent() -> str:

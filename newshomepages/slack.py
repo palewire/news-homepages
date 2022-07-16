@@ -5,6 +5,8 @@ import sys
 import click
 import requests
 
+from . import utils
+
 
 @click.command()
 @click.option(
@@ -18,13 +20,24 @@ import requests
 def cli(archive_json):
     """Post image to Slack channel."""
     data = json.load(archive_json)
-    jpg = next(s for s in data if s.endswith(".jpg"))
+    jpg_url = next(s for s in data if s.endswith(".jpg"))
+    archive_dict = utils.parse_archive_url(jpg_url)
+    site = utils.get_site(archive_dict["handle"])
+    alt_text = f"{site['name']} homepage at {archive_dict['timestamp'].strftime('%-I:%M %p')} on {archive_dict['timestamp'].strftime('%B %d, %Y')}"
     payload = {
         "username": "News Homepages",
         "icon_emoji": ":rolled_up_newspaper:",
         "unfurl_links": True,
         "unfurl_media": True,
-        "text": jpg,
+        "blocks": [
+            {
+                "type": "image",
+                "title": {"type": "plain_text", "text": alt_text, "emoji": True},
+                "image_url": jpg_url,
+                "alt_text": alt_text,
+            },
+            {"type": "divider"},
+        ],
     }
     url = os.getenv("SLACK_WEBHOOK_URL")
     assert url
