@@ -7,6 +7,10 @@ on:
         description: "The handle of the site to archive"
         required: true
         type: string
+      slack-webhook-url:
+        description: "The Slack webhook to post"
+        required: false
+        type: string
 
 jobs:
   jpg:
@@ -102,3 +106,39 @@ jobs:
       - id: commit
         name: Commit
         uses: ./.github/actions/commit
+
+  newsroom-slack:
+    name: Post to newsroom Slack
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [archive,commit]
+    if: ${{ inputs.slack-webhook-url != '' }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: slack
+        name: Post to Slack
+        uses: ./.github/actions/slack
+        with:
+          handle: ${{ inputs.handle }}
+          webhook-url: ${{ inputs.slack-webhook-url }}
+
+  palewire-slack:
+    name: Post to palewire Slack
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [archive,commit]
+    if: ${{ inputs.slack-webhook-url != '' }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: slack
+        name: Post to Slack
+        uses: ./.github/actions/slack
+        with:
+          handle: ${{ inputs.handle }}
+          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_PALEWIRE }}

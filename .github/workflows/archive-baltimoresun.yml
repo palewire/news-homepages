@@ -8,8 +8,8 @@ on:
 jobs:
   archive-site:
     name: Archive bundle
-    uses: palewire/news-homepages/.github/workflows/reusable-archive-and-slack-workflow.yml@main
+    uses: palewire/news-homepages/.github/workflows/reusable-archive-single-site-workflow.yml@main
     with:
       handle: baltimoresun
-      webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_BALTIMORESUN }}
+      slack-webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_BALTIMORESUN }}
     secrets: inherit
