@@ -22,27 +22,41 @@ Install pre-commit hooks.
 pipenv run pre-commit install
 ```
 
-Install Chrome as the shot-scraper web browser.
+Install Chrome for our web scraper.
 
 ```bash
-pipenv run shot-scraper install --browser=chrome
+pipenv run playwright install --with-deps chromium
 ```
 
-You're ready to work.
-
-## Usage
-
-### Screenshots
-
-Try a screenshot. The `shoot.py` command, as well as all the other commands, expects you pass in the Twitter handle of the target site. The supported sites are listed in [`newshomepages/sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv).
+You're ready to work. Try a screenshot with the `screenshot.py` command. As with other commands, it expects you pass in the Twitter handle of the target site. The supported sites are listed in [`newshomepages/sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv). We use them as a unique identifier across the project.
 
 ```bash
 pipenv run python -m newshomepages.screenshot latimes
 ```
 
-### Tweeting
+## Environment variables
 
-Posting to Twitter and other platforms requires a variety of credentials stored in environment variables. I recommend you create a `.env` file. There you need to store a Twitter access key and app token that has the permissions necessary to post.
+Some of the commands require that you set environment variables with secret credentials. I recommend you create a `.env` file at the root of the project for use with pipenv. Here's all of them.
+
+### Discord
+
+```
+DISCORD_BOT_TOKEN=
+```
+
+### Slack
+
+```
+SLACK_WEBHOOK_URL=
+```
+
+### Telegram
+
+```
+TELEGRAM_API_KEY=
+```
+
+### Twitter
 
 ```
 TWITTER_CONSUMER_KEY=
@@ -51,52 +65,10 @@ TWITTER_ACCESS_TOKEN_KEY=
 TWITTER_ACCESS_TOKEN_SECRET=
 ```
 
-Now you can post tweets by running the following:
-
-```bash
-pipenv run python -m newshomepages.tweet single latimes
-```
-
-### Telegram
-
-Posting to Telegram requires you add a working API key to the environment.
-
-```
-TELEGRAM_API_KEY=
-```
-
-Then you can post a single site with the following:
-
-```bash
-pipenv run python -m newshomepages.telegrammer single latimes
-```
-
-### Discord
-
-Posting to Discord requires you add a working bot token to the environment.
-
-```
-DISCORD_BOT_TOKEN=
-```
-
-Then you can post a single site with the following:
-
-```bash
-pipenv run python -m newshomepages.discorder single latimes
-```
-
-### Archiving
-
-To store the file in the Internet Archive you’ll need to add an access key pair and the unique identifier of a collection to the environment.
+### The Internet Archive
 
 ```
 IA_ACCESS_KEY=
 IA_SECRET_KEY=
 IA_COLLECTION=
-```
-
-Then you can upload a file by running the following:
-
-```bash
-pipenv run python -m newshomepages.archive latimes
 ```
