@@ -46,7 +46,7 @@ def cli(archive_json):
         "blocks": [
             {
                 "type": "header",
-                "text": {"type": "plain_text", "text": title_text, "emoji": True},
+                "text": {"type": "plain_text", "text": ":camera_with_flash: " + title_text, "emoji": True},
             },
             {
                 "type": "image",
