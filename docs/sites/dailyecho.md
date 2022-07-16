@@ -17,7 +17,7 @@ orphan: true
 | Location       | Southampton                                                                 |
 | Timezone       | Europe/London                                                                 |
 
-The archiving routine has captured 10 screenshots stored at the Internet Archive.
+The archiving routine has captured 11 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
