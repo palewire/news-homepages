@@ -59,17 +59,6 @@ def cli(archive_json):
                     "type": "mrkdwn",
                     "text": f"Hosted by an <{archive_url}|archive.org special collection>",
                 },
-                "accessory": {
-                    "type": "button",
-                    "text": {
-                        "type": "plain_text",
-                        "text": ":link: Get link",
-                        "emoji": True,
-                    },
-                    "value": "click_me_123",
-                    "url": jpg_url,
-                    "action_id": "button-action",
-                },
             },
             {"type": "divider"},
             {
