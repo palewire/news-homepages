@@ -13,6 +13,8 @@ IA_ACCESS_KEY = os.getenv("IA_ACCESS_KEY")
 IA_SECRET_KEY = os.getenv("IA_SECRET_KEY")
 IA_COLLECTION = os.getenv("IA_COLLECTION")
 
+CURRENT_YEAR = datetime.now().year
+
 
 @click.group()
 def cli():
@@ -21,20 +23,23 @@ def cli():
 
 
 @cli.command()
-def download():
+@click.option("-y", "--year", "year", default=CURRENT_YEAR)
+def download(year: str):
     """Download the full list of Internet Archive items as JSON."""
     click.echo(
-        f"Extracting metadata for the Internet Archive collection {IA_COLLECTION}"
+        f"Extracting {year} metadata for the Internet Archive collection {IA_COLLECTION}"
     )
     collection = internetarchive.get_item(IA_COLLECTION)
     with open(utils.EXTRACT_DIR / "json" / f"{IA_COLLECTION}.json", "w") as fh:
         json.dump(collection.item_metadata, fh, indent=2)
 
+    # Go get all the items in the collection from that year
     item_list = internetarchive.search_items(
-        f"collection:{IA_COLLECTION}"
+        f"collection:{IA_COLLECTION} AND identifier:(*-{year})"
     ).iter_as_items()
     for item in item_list:
         click.echo(f"Extracting metadata for the {item.identifier} item")
+        # Save it locally
         with open(utils.EXTRACT_DIR / "json" / f"{item.identifier}.json", "w") as fh:
             json.dump(item.item_metadata, fh, indent=2)
             time.sleep(0.2)
