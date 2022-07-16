@@ -96,8 +96,15 @@ def cli(archive_json):
     r = requests.post(url, json=payload)
 
     # Make sure it went okay
-    assert r.status_code == 200
-    assert r.text == "ok"
+    try:
+        assert r.status_code == 200
+        assert r.text == "ok"
+    except AssertionError as e:
+        click.echo(e)
+        click.echo("\n\n")
+        click.echo("Payload")
+        click.echo("================")
+        click.echo(json.dumps(payload, indent=4))
 
 
 if __name__ == "__main__":
