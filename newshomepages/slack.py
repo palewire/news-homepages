@@ -35,7 +35,7 @@ def cli(archive_json):
     alt_text = f"{site['name']} homepage at {title_text}"
 
     # Set other URLs
-    archive_url = f"https://archive.org/details/{archive_dict['identifier']}"
+    # archive_url = f"https://archive.org/details/{archive_dict['identifier']}"
 
     # Configure the Slack message
     payload = {
@@ -52,13 +52,6 @@ def cli(archive_json):
                 "type": "image",
                 "image_url": jpg_url,
                 "alt_text": alt_text,
-            },
-            {
-                "type": "section",
-                "text": {
-                    "type": "mrkdwn",
-                    "text": f"Hosted by an <{archive_url}|archive.org special collection>",
-                },
             },
             {"type": "divider"},
             {
