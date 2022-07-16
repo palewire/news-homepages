@@ -7,14 +7,14 @@
 
 Adding a new site requires that a new row be added to [`sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv) with, at a minimum, the Twitter handle, URL, name, location and timezone of the target.
 
-You can also override the system’s defaults by adding optional attributes for the width, height and time delay of the screenshots.
+You can also override the system’s default by an adding optional attribute for time delay before the screenshot.
 
 ## Test the screenshot
 
 After doing that, you should verify the site works by running the `shoot.py` command and inspecting the result.
 
 ```bash
-pipenv run python -m newshomepages.shoot single your-handle
+pipenv run python -m newshomepages.shoot your-handle
 ```
 
 ## Hide ads and pop ups

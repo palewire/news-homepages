@@ -8,22 +8,27 @@ from playwright.sync_api import Error, sync_playwright
 
 from . import utils
 
-DEFAULT_WIDTH = "1300"
-DEFAULT_HEIGHT = "1600"
-
 
 @click.command()
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
 @click.option("-w", "--wait", "wait", default=5000)
-def cli(handle: str, output_dir: str, wait: str):
+@click.option("-x", "--width", "width", default=1300)
+@click.option("-y", "--height", "height", default=1600)
+def cli(handle: str, output_dir: str, wait: str, width: str, height: str):
     """Screenshot the provided homepage."""
     site = utils.get_site(handle)
     output_path = Path(output_dir)
-    _screenshot(site, output_path, wait=int(wait))
+    _screenshot(site, output_path, wait=int(wait), width=int(width), height=int(height))
 
 
-def _screenshot(site: typing.Dict, output_path: Path, wait: int = 5000):
+def _screenshot(
+    site: typing.Dict,
+    output_path: Path,
+    wait: int = 5000,
+    width: int = 1300,
+    height: int = 1600,
+):
     """Shoot the provided site."""
     click.echo(f"Screenshotting {site['name']}")
 
@@ -58,8 +63,8 @@ def _screenshot(site: typing.Dict, output_path: Path, wait: int = 5000):
             ],
             user_agent=utils.get_user_agent(),
             viewport={
-                "width": int(site["width"] or DEFAULT_WIDTH),
-                "height": int(site["height"] or DEFAULT_HEIGHT),
+                "width": width,
+                "height": height,
             },
         )
 
