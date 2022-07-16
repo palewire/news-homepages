@@ -105,6 +105,7 @@ def cli(archive_json):
         click.echo("Payload")
         click.echo("================")
         click.echo(json.dumps(payload, indent=4))
+        sys.exit(1)
 
 
 if __name__ == "__main__":
