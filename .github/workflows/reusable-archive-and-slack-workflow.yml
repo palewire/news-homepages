@@ -1,0 +1,55 @@
+name: "Reusable workflow: Archive and Slack"
+
+on:
+  workflow_call:
+    inputs:
+      handle:
+        description: "The handle of the site to archive"
+        required: true
+        type: string
+      webhook-url:
+        description: "The Slack webhook to post"
+        required: true
+        type: string
+
+jobs:
+  archive-site:
+    name: Archive bundle
+    uses: palewire/news-homepages/.github/workflows/reusable-archive-single-site-workflow.yml@main
+    with:
+      handle: ${{ inputs.handle }}
+    secrets: inherit
+
+  newsroom-slack:
+    name: Post to newsroom Slack
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [archive-site]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: slack
+        name: Post to Slack
+        uses: ./.github/actions/slack
+        with:
+          handle: ${{ inputs.handle }}
+          webhook-url: ${{ inputs.webhook-url }}
+
+  palewire-slack:
+    name: Post to palewire Slack
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [archive-site]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: slack
+        name: Post to Slack
+        uses: ./.github/actions/slack
+        with:
+          handle: ${{ inputs.handle }}
+          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_PALEWIRE }}
