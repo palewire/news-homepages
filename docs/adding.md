@@ -8,6 +8,10 @@
 :depth: 1
 ```
 
+```{note}
+If you lack the technical skills or time to add sources yourself, you can always make a request of the project's maintainers by [submitting a feature request](https://github.com/palewire/news-homepages/issues) on GitHub or by emailing [b@palewi.re](mailto:b@palewi.re).
+```
+
 ## Adding a site
 
 ### 1. Add record to `sites.csv` file
