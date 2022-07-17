@@ -1,5 +1,5 @@
 {
-  "created": 1657946795,
+  "created": 1658019781,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/17/items/theatlantic-2022",
@@ -2450,31 +2450,73 @@
       "sha1": "2a6d39a640681dfbc5d9df99ca780d9261c1d255"
     },
     {
+      "name": "theatlantic-2022-07-16T11:47:08.622073-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657986432",
+      "size": "25125",
+      "md5": "87ea65e1458a02439cc4ec47e077ef3d",
+      "crc32": "762b72e5",
+      "sha1": "e79b83f613609c9aca8f7c580c5f118711950a36",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-07-16T11:47:08.622073-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657986434",
+      "size": "28874",
+      "md5": "b3b696249ba3bd1cc7af088dcd377bd5",
+      "crc32": "d75ec4e5",
+      "sha1": "3dcfa0d10e0820f04ad0ca190872ef386dd04851",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-07-16T11:47:08.622073-04:00.jpg",
+      "source": "original",
+      "mtime": "1657986430",
+      "size": "301997",
+      "md5": "8492bfa12f2f7305c82d005e2f7730b1",
+      "crc32": "106cb404",
+      "sha1": "91d780572bf37ac8723014095168ad505799a615",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-07-16T11:47:08.622073-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-07-16T11:47:08.622073-04:00.jpg",
+      "mtime": "1657990309",
+      "size": "9756",
+      "md5": "063445620a1a0682e95b2c155914e183",
+      "crc32": "cbefcf66",
+      "sha1": "b2f26ac98fec4651a28aaa23e7b8c4cc702adefc"
+    },
+    {
       "name": "theatlantic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f06da673154b6750b310c1e23e08ee5c0a79cfa2",
-      "mtime": "1657946773",
-      "size": "51232",
-      "md5": "5cfe1e6a969897140fee912acc985177",
-      "crc32": "4883ac74",
-      "sha1": "4f0c306d6e5d4a7a50c2898306d82d9aa5e8211f",
+      "btih": "f7eedc3be75d3de92d3415521d444ed696f1eecd",
+      "mtime": "1657990312",
+      "size": "52073",
+      "md5": "742c99c8071c27563686fe92c60f5e54",
+      "crc32": "01482213",
+      "sha1": "fbd01d578ed283f558c597e19b1c556c3bcbb701",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theatlantic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d10bcd43d43889686c12e04b4aba77ca",
+      "md5": "84f0b1e062138f7e1c0a42dabe6160fc",
       "summation": "md5"
     },
     {
       "name": "theatlantic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657944254",
-      "size": "290816",
-      "md5": "2cd3cb1c44bf653c99869e28e1dfc760",
-      "crc32": "3043cfbe",
-      "sha1": "ad81313c0f45cec0af4bb4060783331f1195e7d6",
+      "mtime": "1657986437",
+      "size": "294912",
+      "md5": "e1709a26f13968247ee3a16e4fe64f2d",
+      "crc32": "638d4bf3",
+      "sha1": "c5b65a01b41aca6fcc243c37b60b9f556de4531a",
       "format": "Metadata"
     },
     {
@@ -2488,9 +2530,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 237,
-  "item_last_updated": 1657946773,
-  "item_size": 20042387,
+  "files_count": 241,
+  "item_last_updated": 1657990312,
+  "item_size": 20413076,
   "metadata": {
     "identifier": "theatlantic-2022",
     "collection": [
@@ -2508,7 +2550,917 @@
     "addeddate": "2022-06-24 23:01:58"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 145785342,
+  "theatlantic-2022": [
+    {
+      "text": "Skip to content",
+      "url": "#main-content"
+    },
+    {
+      "text": "The Atlantic",
+      "url": "https://www.theatlantic.com"
+    },
+    {
+      "text": "Popular",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "Latest",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.theatlantic.com/politics/"
+    },
+    {
+      "text": "Ideas",
+      "url": "https://www.theatlantic.com/ideas/"
+    },
+    {
+      "text": "Fiction",
+      "url": "https://www.theatlantic.com/category/fiction/"
+    },
+    {
+      "text": "Technology",
+      "url": "https://www.theatlantic.com/technology/"
+    },
+    {
+      "text": "Science",
+      "url": "https://www.theatlantic.com/science/"
+    },
+    {
+      "text": "Photo",
+      "url": "https://www.theatlantic.com/photo/"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.theatlantic.com/business/"
+    },
+    {
+      "text": "Culture",
+      "url": "https://www.theatlantic.com/culture/"
+    },
+    {
+      "text": "Planet",
+      "url": "https://www.theatlantic.com/planet/"
+    },
+    {
+      "text": "Global",
+      "url": "https://www.theatlantic.com/international/"
+    },
+    {
+      "text": "Books",
+      "url": "https://www.theatlantic.com/books/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.theatlantic.com/podcasts/"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.theatlantic.com/health/"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.theatlantic.com/education/"
+    },
+    {
+      "text": "Projects",
+      "url": "https://www.theatlantic.com/projects/"
+    },
+    {
+      "text": "America In Person",
+      "url": "https://www.theatlantic.com/projects/america-in-person/"
+    },
+    {
+      "text": "Family",
+      "url": "https://www.theatlantic.com/family/"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.theatlantic.com/events/"
+    },
+    {
+      "text": "Shadowland",
+      "url": "https://www.theatlantic.com/shadowland/"
+    },
+    {
+      "text": "Progress",
+      "url": "https://www.theatlantic.com/progress/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.theatlantic.com/follow-the-atlantic/"
+    },
+    {
+      "text": "Play Crossword",
+      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/magazine/"
+    },
+    {
+      "text": "Latest Issue",
+      "url": "https://www.theatlantic.com/magazine/"
+    },
+    {
+      "text": "Past Issues",
+      "url": "https://www.theatlantic.com/magazine/backissues/"
+    },
+    {
+      "text": "Give a Gift",
+      "url": "https://accounts.theatlantic.com/products/gift"
+    },
+    {
+      "text": "Dear Therapist",
+      "url": "/projects/dear-therapist/"
+    },
+    {
+      "text": "Crossword Puzzle",
+      "url": "/free-daily-crossword-puzzle/"
+    },
+    {
+      "text": "Magazine Archive",
+      "url": "/magazine/backissues/"
+    },
+    {
+      "text": "Your Subscription",
+      "url": "https://accounts.theatlantic.com/accounts/subscription/"
+    },
+    {
+      "text": "Popular",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "Latest",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com"
+    },
+    {
+      "text": "Sign In",
+      "url": "https://accounts.theatlantic.com/login/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.theatlantic.com/subscribe/navbar/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/joe-manchin-democratic-climate-tax-bill/670537/"
+    },
+    {
+      "text": "It\u2019s Joe Manchin\u2019s America",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/joe-manchin-democratic-climate-tax-bill/670537/"
+    },
+    {
+      "text": "Russell Berman",
+      "url": "https://www.theatlantic.com/author/russell-berman/"
+    },
+    {
+      "text": "The Shame of the Secret Service",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/07/the-shame-of-the-secret-service/670550/"
+    },
+    {
+      "text": "David A. Graham",
+      "url": "https://www.theatlantic.com/author/david-a-graham/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/07/the-shame-of-the-secret-service/670550/"
+    },
+    {
+      "text": "Russia\u2019s Invasion Is Making Ukraine More Democratic",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/russian-invasion-ukraine-democracy-changes/661451/"
+    },
+    {
+      "text": "Nataliya Gumenyuk",
+      "url": "https://www.theatlantic.com/author/nataliya-gumenyuk/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/russian-invasion-ukraine-democracy-changes/661451/"
+    },
+    {
+      "text": "You\u2019ve Never Seen Anything Quite Like The Rehearsal ",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/the-rehearsal-tv-show-review-nathan-fielder/670546/"
+    },
+    {
+      "text": "Shirley Li",
+      "url": "https://www.theatlantic.com/author/shirley-li/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/the-rehearsal-tv-show-review-nathan-fielder/670546/"
+    },
+    {
+      "text": "An Army of Turtles is Doing Cyclone Reconnaissance",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/predicting-cyclones-hard-can-turtles-help/670548/"
+    },
+    {
+      "text": "Kate Golden",
+      "url": "https://www.theatlantic.com/author/kate-golden/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/predicting-cyclones-hard-can-turtles-help/670548/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/uyghur-poems-chinese-prison/670536/"
+    },
+    {
+      "text": "Uyghur Poems From a Chinese Prison",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/uyghur-poems-chinese-prison/670536/"
+    },
+    {
+      "text": "Yasmeen Serhan",
+      "url": "https://www.theatlantic.com/author/yasmeen-serhan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/where-the-crawdads-sing-movie-review-delia-owens/670533/"
+    },
+    {
+      "text": "When a Troubling Book Gets a Hollywood Makeover",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/where-the-crawdads-sing-movie-review-delia-owens/670533/"
+    },
+    {
+      "text": "Shirley Li",
+      "url": "https://www.theatlantic.com/author/shirley-li/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2022/07/ba5-covid-subvariants-forever/670514/"
+    },
+    {
+      "text": "The BA.5 Wave Is What COVID Normal Looks Like",
+      "url": "https://www.theatlantic.com/health/archive/2022/07/ba5-covid-subvariants-forever/670514/"
+    },
+    {
+      "text": "Katherine J. Wu",
+      "url": "https://www.theatlantic.com/author/katherine-j-wu/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/supreme-court-epa-climate-crisis-texas-california/670526/"
+    },
+    {
+      "text": "Mother Nature Dissents",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/supreme-court-epa-climate-crisis-texas-california/670526/"
+    },
+    {
+      "text": "Ronald Brownstein",
+      "url": "https://www.theatlantic.com/author/ronald-brownstein/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/us-fascination-israel-jews-arc-of-covenant-review-russell-mead/670525/"
+    },
+    {
+      "text": "What We Talk About When We Talk About Israel",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/us-fascination-israel-jews-arc-of-covenant-review-russell-mead/670525/"
+    },
+    {
+      "text": "Matti Friedman",
+      "url": "https://www.theatlantic.com/author/matti-friedman/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/where-the-crawdads-sing-delia-mark-owens-zambia-murder/670479/"
+    },
+    {
+      "text": "Where the Crawdads Sing Author Wanted for Questioning in Murder",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/where-the-crawdads-sing-delia-mark-owens-zambia-murder/670479/"
+    },
+    {
+      "text": "Jeffrey Goldberg",
+      "url": "https://www.theatlantic.com/author/jeffrey-goldberg/"
+    },
+    {
+      "text": "Discover  The Atlantic\u2019s\u00a0Archive",
+      "url": "https://www.theatlantic.com/archive/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/archive/"
+    },
+    {
+      "text": "Why Does America Support Israel?",
+      "url": "https://newsletters.theatlantic.com/deep-shtetl/62cf09b668f61f0021d786ca/biden-israel-lobby-america-walter-mead/"
+    },
+    {
+      "text": "Yair Rosenberg",
+      "url": "https://www.theatlantic.com/author/yair-rosenberg/"
+    },
+    {
+      "text": "",
+      "url": "https://newsletters.theatlantic.com/deep-shtetl/62cf09b668f61f0021d786ca/biden-israel-lobby-america-walter-mead/"
+    },
+    {
+      "text": "Ignore the Chaos. Britain\u2019s System Is Working.",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/britain-arcane-constitution-boris-johnson-resignation/670527/"
+    },
+    {
+      "text": "Tom McTague",
+      "url": "https://www.theatlantic.com/author/tom-mctague/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/britain-arcane-constitution-boris-johnson-resignation/670527/"
+    },
+    {
+      "text": "Joe Manchin\u2019s Fickleness Is a Needless Catastrophe",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/joe-manchin-energy-climate-change-bill/670538/"
+    },
+    {
+      "text": "Robinson Meyer",
+      "url": "https://www.theatlantic.com/author/robinson-meyer/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/joe-manchin-energy-climate-change-bill/670538/"
+    },
+    {
+      "text": "Explore Newsletters",
+      "url": "https://www.theatlantic.com/subscriber-newsletters/"
+    },
+    {
+      "text": "Writers",
+      "url": "https://www.theatlantic.com/writers/"
+    },
+    {
+      "text": "see all",
+      "url": "https://www.theatlantic.com/writers/"
+    },
+    {
+      "text": "Yasmeen Serhan",
+      "url": "https://www.theatlantic.com/author/yasmeen-serhan/"
+    },
+    {
+      "text": "Uyghur Poems From a Chinese Prison",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/uyghur-poems-chinese-prison/670536/"
+    },
+    {
+      "text": "Shirley Li",
+      "url": "https://www.theatlantic.com/author/shirley-li/"
+    },
+    {
+      "text": "You\u2019ve Never Seen Anything Quite Like The Rehearsal",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/the-rehearsal-tv-show-review-nathan-fielder/670546/"
+    },
+    {
+      "text": "David A. Graham",
+      "url": "https://www.theatlantic.com/author/david-a-graham/"
+    },
+    {
+      "text": "The Shame of the Secret Service",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/07/the-shame-of-the-secret-service/670550/"
+    },
+    {
+      "text": "Robinson Meyer",
+      "url": "https://www.theatlantic.com/author/robinson-meyer/"
+    },
+    {
+      "text": "Joe Manchin\u2019s Fickleness Is a Needless Catastrophe",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/joe-manchin-energy-climate-change-bill/670538/"
+    },
+    {
+      "text": "Russell Berman",
+      "url": "https://www.theatlantic.com/author/russell-berman/"
+    },
+    {
+      "text": "It\u2019s Joe Manchin\u2019s America",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/joe-manchin-democratic-climate-tax-bill/670537/"
+    },
+    {
+      "text": "Marina Koren",
+      "url": "https://www.theatlantic.com/author/marina-koren/"
+    },
+    {
+      "text": "Seriously, What\u2019s Making All These Mysterious Space Signals?",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/fast-radio-waves-burst-cosmic-mystery/670532/"
+    },
+    {
+      "text": "David Sims",
+      "url": "https://www.theatlantic.com/author/david-sims/"
+    },
+    {
+      "text": "Netflix\u2019s Persuasion Tries to Have It All",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/persuasion-jane-austen-movie-review-netflix/670524/"
+    },
+    {
+      "text": "Ronald Brownstein",
+      "url": "https://www.theatlantic.com/author/ronald-brownstein/"
+    },
+    {
+      "text": "Mother Nature Dissents",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/supreme-court-epa-climate-crisis-texas-california/670526/"
+    },
+    {
+      "text": "Tom McTague",
+      "url": "https://www.theatlantic.com/author/tom-mctague/"
+    },
+    {
+      "text": "Ignore the Chaos. Britain\u2019s System Is Working.",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/britain-arcane-constitution-boris-johnson-resignation/670527/"
+    },
+    {
+      "text": "Alan Taylor",
+      "url": "https://www.theatlantic.com/author/alan-taylor/"
+    },
+    {
+      "text": "Photos of the Week: Elephant Rescue, Buck Moon, Love Parade",
+      "url": "https://www.theatlantic.com/photo/2022/07/photos-of-the-week-elephant-rescue-buck-moon-love-parade/670528/"
+    },
+    {
+      "text": "Ed Yong",
+      "url": "https://www.theatlantic.com/author/ed-yong/"
+    },
+    {
+      "text": "How to Successfully Smash Your Face Against a Tree",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/woodpeckers-brain-injury-protection-evolutionary-adaptation/670516/"
+    },
+    {
+      "text": "Elizabeth Bruenig",
+      "url": "https://www.theatlantic.com/author/elizabeth-bruenig/"
+    },
+    {
+      "text": "Texas\u2019s Season in Hell",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/texas-summer-uvalde-shooting-video-police-response/670519/"
+    },
+    {
+      "text": "Magazine",
+      "url": "https://www.theatlantic.com/magazine/backissues/"
+    },
+    {
+      "text": "past issues",
+      "url": "https://www.theatlantic.com/magazine/backissues/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/subscribe/magazinemodule1/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.theatlantic.com/subscribe/magazinemodule1/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts/"
+    },
+    {
+      "text": "see all",
+      "url": "/podcasts/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/experiment/"
+    },
+    {
+      "text": "Stories From an Unfinished Country",
+      "url": "/podcasts/experiment/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/floodlines/"
+    },
+    {
+      "text": "The Story of an Unnatural Disaster",
+      "url": "/podcasts/floodlines/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2021/06/is-it-over/619174/"
+    },
+    {
+      "text": "Is It Over?",
+      "url": "https://www.theatlantic.com/health/archive/2021/06/is-it-over/619174/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/07/forgive-yourself-overcome-regret-howto/661476/"
+    },
+    {
+      "text": "How to Forgive Ourselves for What We Can\u2019t Change",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/07/forgive-yourself-overcome-regret-howto/661476/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/05/top-gun/629897/"
+    },
+    {
+      "text": "Top Gun",
+      "url": "https://www.theatlantic.com/podcasts/archive/2022/05/top-gun/629897/"
+    },
+    {
+      "text": "Latest",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "see all",
+      "url": "https://www.theatlantic.com/latest/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/predicting-cyclones-hard-can-turtles-help/670548/"
+    },
+    {
+      "text": "An Army of Turtles is Doing Cyclone Reconnaissance",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/predicting-cyclones-hard-can-turtles-help/670548/"
+    },
+    {
+      "text": "Kate Golden",
+      "url": "https://www.theatlantic.com/author/kate-golden/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/uyghur-poems-chinese-prison/670536/"
+    },
+    {
+      "text": "Uyghur Poems From a Chinese Prison",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/uyghur-poems-chinese-prison/670536/"
+    },
+    {
+      "text": "Yasmeen Serhan",
+      "url": "https://www.theatlantic.com/author/yasmeen-serhan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/the-rehearsal-tv-show-review-nathan-fielder/670546/"
+    },
+    {
+      "text": "You\u2019ve Never Seen Anything Quite Like The Rehearsal",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/the-rehearsal-tv-show-review-nathan-fielder/670546/"
+    },
+    {
+      "text": "Shirley Li",
+      "url": "https://www.theatlantic.com/author/shirley-li/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/russian-invasion-ukraine-democracy-changes/661451/"
+    },
+    {
+      "text": "Russia\u2019s Invasion Is Making Ukraine More Democratic",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/russian-invasion-ukraine-democracy-changes/661451/"
+    },
+    {
+      "text": "Nataliya Gumenyuk",
+      "url": "https://www.theatlantic.com/author/nataliya-gumenyuk/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/07/the-shame-of-the-secret-service/670550/"
+    },
+    {
+      "text": "The Shame of the Secret Service",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/07/the-shame-of-the-secret-service/670550/"
+    },
+    {
+      "text": "David A. Graham",
+      "url": "https://www.theatlantic.com/author/david-a-graham/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/joe-manchin-energy-climate-change-bill/670538/"
+    },
+    {
+      "text": "Joe Manchin\u2019s Fickleness Is a Needless Catastrophe",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/joe-manchin-energy-climate-change-bill/670538/"
+    },
+    {
+      "text": "Robinson Meyer",
+      "url": "https://www.theatlantic.com/author/robinson-meyer/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/joe-manchin-democratic-climate-tax-bill/670537/"
+    },
+    {
+      "text": "It\u2019s Joe Manchin\u2019s America",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/joe-manchin-democratic-climate-tax-bill/670537/"
+    },
+    {
+      "text": "Russell Berman",
+      "url": "https://www.theatlantic.com/author/russell-berman/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/fast-radio-waves-burst-cosmic-mystery/670532/"
+    },
+    {
+      "text": "Seriously, What\u2019s Making All These Mysterious Space Signals?",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/fast-radio-waves-burst-cosmic-mystery/670532/"
+    },
+    {
+      "text": "Marina Koren",
+      "url": "https://www.theatlantic.com/author/marina-koren/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/books-briefing-imogen-binnie-kim-kelly/670491/"
+    },
+    {
+      "text": "The Ways We Make a Living",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/books-briefing-imogen-binnie-kim-kelly/670491/"
+    },
+    {
+      "text": "Elise Hannum",
+      "url": "https://www.theatlantic.com/author/elise-hannum/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/joe-biden-middle-east-israel-iran/670530/"
+    },
+    {
+      "text": "When Iran Says \u2018Death to Israel,\u2019 It Means It",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/joe-biden-middle-east-israel-iran/670530/"
+    },
+    {
+      "text": "Behnam Ben Taleblu",
+      "url": "https://www.theatlantic.com/author/behnam-ben-taleblu/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/where-the-crawdads-sing-movie-review-delia-owens/670533/"
+    },
+    {
+      "text": "When a Troubling Book Gets a Hollywood Makeover",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/where-the-crawdads-sing-movie-review-delia-owens/670533/"
+    },
+    {
+      "text": "Shirley Li",
+      "url": "https://www.theatlantic.com/author/shirley-li/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/us-fascination-israel-jews-arc-of-covenant-review-russell-mead/670525/"
+    },
+    {
+      "text": "What We Talk About When We Talk About Israel",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/us-fascination-israel-jews-arc-of-covenant-review-russell-mead/670525/"
+    },
+    {
+      "text": "Matti Friedman",
+      "url": "https://www.theatlantic.com/author/matti-friedman/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/persuasion-jane-austen-movie-review-netflix/670524/"
+    },
+    {
+      "text": "Netflix\u2019s Persuasion Tries to Have It All",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/persuasion-jane-austen-movie-review-netflix/670524/"
+    },
+    {
+      "text": "David Sims",
+      "url": "https://www.theatlantic.com/author/david-sims/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/supreme-court-religion-schools-prayer-kennedy-carson/661365/"
+    },
+    {
+      "text": "The Supreme Court Has Ushered In a New Era of Religion at School",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/supreme-court-religion-schools-prayer-kennedy-carson/661365/"
+    },
+    {
+      "text": "Adam Laats",
+      "url": "https://www.theatlantic.com/author/adam-laats/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/supreme-court-epa-climate-crisis-texas-california/670526/"
+    },
+    {
+      "text": "Mother Nature Dissents",
+      "url": "https://www.theatlantic.com/politics/archive/2022/07/supreme-court-epa-climate-crisis-texas-california/670526/"
+    },
+    {
+      "text": "Ronald Brownstein",
+      "url": "https://www.theatlantic.com/author/ronald-brownstein/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/britain-arcane-constitution-boris-johnson-resignation/670527/"
+    },
+    {
+      "text": "Ignore the Chaos. Britain\u2019s System Is Working.",
+      "url": "https://www.theatlantic.com/international/archive/2022/07/britain-arcane-constitution-boris-johnson-resignation/670527/"
+    },
+    {
+      "text": "Tom McTague",
+      "url": "https://www.theatlantic.com/author/tom-mctague/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/photo/2022/07/photos-of-the-week-elephant-rescue-buck-moon-love-parade/670528/"
+    },
+    {
+      "text": "Photos of the Week: Elephant Rescue, Buck Moon, Love Parade",
+      "url": "https://www.theatlantic.com/photo/2022/07/photos-of-the-week-elephant-rescue-buck-moon-love-parade/670528/"
+    },
+    {
+      "text": "Alan Taylor",
+      "url": "https://www.theatlantic.com/author/alan-taylor/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/biden-saudi-arabia-visit-jamal-khashoggi-legacy/670531/"
+    },
+    {
+      "text": "What Joe Biden Should Know About Jamal Khashoggi",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/biden-saudi-arabia-visit-jamal-khashoggi-legacy/670531/"
+    },
+    {
+      "text": "Graeme Wood",
+      "url": "https://www.theatlantic.com/author/graeme-wood/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/07/local-prosecutors-cant-protect-abortion-rights/670529/"
+    },
+    {
+      "text": "Local Prosecutors Can\u2019t Protect Abortion Rights",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/07/local-prosecutors-cant-protect-abortion-rights/670529/"
+    },
+    {
+      "text": "David A. Graham",
+      "url": "https://www.theatlantic.com/author/david-a-graham/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/woodpeckers-brain-injury-protection-evolutionary-adaptation/670516/"
+    },
+    {
+      "text": "How to Successfully Smash Your Face Against a Tree",
+      "url": "https://www.theatlantic.com/science/archive/2022/07/woodpeckers-brain-injury-protection-evolutionary-adaptation/670516/"
+    },
+    {
+      "text": "Ed Yong",
+      "url": "https://www.theatlantic.com/author/ed-yong/"
+    },
+    {
+      "text": "Popular",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "see all",
+      "url": "https://www.theatlantic.com/most-popular/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2022/07/ba5-covid-subvariants-forever/670514/"
+    },
+    {
+      "text": "The BA.5 Wave Is What COVID Normal Looks Like",
+      "url": "https://www.theatlantic.com/health/archive/2022/07/ba5-covid-subvariants-forever/670514/"
+    },
+    {
+      "text": "Katherine J. Wu",
+      "url": "https://www.theatlantic.com/author/katherine-j-wu/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/six-ways-make-maintain-friends/661232/"
+    },
+    {
+      "text": "The Six Forces That Fuel Friendship",
+      "url": "https://www.theatlantic.com/family/archive/2022/06/six-ways-make-maintain-friends/661232/"
+    },
+    {
+      "text": "Julie Beck",
+      "url": "https://www.theatlantic.com/author/julie-beck/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/where-the-crawdads-sing-delia-mark-owens-zambia-murder/670479/"
+    },
+    {
+      "text": "Where the Crawdads Sing Author Wanted for Questioning in Murder",
+      "url": "https://www.theatlantic.com/books/archive/2022/07/where-the-crawdads-sing-delia-mark-owens-zambia-murder/670479/"
+    },
+    {
+      "text": "Jeffrey Goldberg",
+      "url": "https://www.theatlantic.com/author/jeffrey-goldberg/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/where-the-crawdads-sing-movie-review-delia-owens/670533/"
+    },
+    {
+      "text": "When a Troubling Book Gets a Hollywood Makeover",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/where-the-crawdads-sing-movie-review-delia-owens/670533/"
+    },
+    {
+      "text": "Shirley Li",
+      "url": "https://www.theatlantic.com/author/shirley-li/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/07/the-shame-of-the-secret-service/670550/"
+    },
+    {
+      "text": "The Shame of the Secret Service",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/07/the-shame-of-the-secret-service/670550/"
+    },
+    {
+      "text": "David A. Graham",
+      "url": "https://www.theatlantic.com/author/david-a-graham/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/health/archive/2022/07/dobbs-roe-overturned-vasectomy-movement/661518/"
+    },
+    {
+      "text": "The Vasectomy Influencers",
+      "url": "https://www.theatlantic.com/health/archive/2022/07/dobbs-roe-overturned-vasectomy-movement/661518/"
+    },
+    {
+      "text": "Kaitlyn Tiffany",
+      "url": "https://www.theatlantic.com/author/kaitlyn-tiffany/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/04/the-problem-with-jon-stewart-tucker-carlson/629608/"
+    },
+    {
+      "text": "What Happened to Jon Stewart?",
+      "url": "https://www.theatlantic.com/culture/archive/2022/04/the-problem-with-jon-stewart-tucker-carlson/629608/"
+    },
+    {
+      "text": "Devin Gordon",
+      "url": "https://www.theatlantic.com/author/devin-gordon/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/the-rehearsal-tv-show-review-nathan-fielder/670546/"
+    },
+    {
+      "text": "You\u2019ve Never Seen Anything Quite Like The Rehearsal",
+      "url": "https://www.theatlantic.com/culture/archive/2022/07/the-rehearsal-tv-show-review-nathan-fielder/670546/"
+    },
+    {
+      "text": "Shirley Li",
+      "url": "https://www.theatlantic.com/author/shirley-li/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/how-supreme-court-could-upend-integrity-our-elections/670472/"
+    },
+    {
+      "text": "The Case That Could Blow Up American Election Law",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/how-supreme-court-could-upend-integrity-our-elections/670472/"
+    },
+    {
+      "text": "Thomas Wolf",
+      "url": "https://www.theatlantic.com/author/thomas-wolf/"
+    },
+    {
+      "text": "Ethan Herenstein",
+      "url": "https://www.theatlantic.com/author/ethan-herenstein/"
+    },
+    {
+      "text": "",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/adam-tooze-chartbook-substack-newsletter-inflation-crisis/661467/"
+    },
+    {
+      "text": "A Crisis Historian Has Some Bad News for Us",
+      "url": "https://www.theatlantic.com/ideas/archive/2022/07/adam-tooze-chartbook-substack-newsletter-inflation-crisis/661467/"
+    },
+    {
+      "text": "Annie Lowrey",
+      "url": "https://www.theatlantic.com/author/annie-lowrey/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.theatlantic.com/newsletters/"
+    },
+    {
+      "text": "See All",
+      "url": "https://www.theatlantic.com/newsletters/"
+    },
+    {
+      "text": "The Atlantic's Privacy Policy",
+      "url": "https://www.theatlantic.com/privacy-policy/"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.theatlantic.com/terms-and-conditions/"
+    },
+    {
+      "text": "Crossword",
+      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
+    },
+    {
+      "text": "Play Crossword",
+      "url": "https://www.theatlantic.com/free-daily-crossword-puzzle/"
+    }
+  ],
+  "uniq": 111034182,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"
