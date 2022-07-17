@@ -118,11 +118,11 @@
     },
     {
       "text": "Sign up as a reader",
-      "url": "/sign_up?return_to=/us"
+      "url": "/sign_up?return_to=%2Fus"
     },
     {
       "text": "Sign in",
-      "url": "/sign_in?return_to=/us"
+      "url": "/sign_in?return_to=%2Fus"
     },
     {
       "text": "\n    \n",
@@ -829,12 +829,12 @@
       "url": "/to-search-for-alien-life-astronomers-will-look-for-clues-in-the-atmospheres-of-distant-planets-and-the-james-webb-space-telescope-just-proved-its-possible-to-do-so-184828"
     },
     {
-      "text": "Abortion decision cherry-picks history \u2013 when the US Constitution was ratified, women had much more autonomy over abortion decisions than during 19th\u00a0century",
-      "url": "/abortion-decision-cherry-picks-history-when-the-us-constitution-was-ratified-women-had-much-more-autonomy-over-abortion-decisions-than-during-19th-century-185947"
-    },
-    {
       "text": "James Webb Space Telescope: An astronomer explains the stunning, newly released first\u00a0images",
       "url": "/james-webb-space-telescope-an-astronomer-explains-the-stunning-newly-released-first-images-186800"
+    },
+    {
+      "text": "Abortion decision cherry-picks history \u2013 when the US Constitution was ratified, women had much more autonomy over abortion decisions than during 19th\u00a0century",
+      "url": "/abortion-decision-cherry-picks-history-when-the-us-constitution-was-ratified-women-had-much-more-autonomy-over-abortion-decisions-than-during-19th-century-185947"
     },
     {
       "text": "The James Webb Space Telescope is finally ready to do science \u2013 and it\u2019s seeing the universe more clearly than even its own engineers hoped\u00a0for",
@@ -1341,7 +1341,7 @@
       "url": "https://theconversation.com/us/who-we-are"
     }
   ],
-  "created": 1658019073,
+  "created": 1658059669,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/34/items/conversationus-2022",
@@ -2030,31 +2030,73 @@
       "sha1": "16f34cfb13301ba36db099b7a670f85633f15b80"
     },
     {
+      "name": "conversationus-2022-07-16T20:57:13.805412-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658019436",
+      "size": "53241",
+      "md5": "81c6c5afad02a0a9599d8b193198a85f",
+      "crc32": "e1780c26",
+      "sha1": "20d4261bf3c6ce8c549326fe89016c200bc0e379",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-07-16T20:57:13.805412-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658019438",
+      "size": "42825",
+      "md5": "c7069a4b8fbccc67b27704e01ef18808",
+      "crc32": "b15533b5",
+      "sha1": "34afcd102c496c2ecae7802351f9851e198f4dd1",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-07-16T20:57:13.805412-04:00.jpg",
+      "source": "original",
+      "mtime": "1658019435",
+      "size": "326687",
+      "md5": "efa70afef7297a8a1899b2c35c156941",
+      "crc32": "0a6fbc83",
+      "sha1": "7cbfb03c063b35f911df91c5a34c4e2fdeaa6371",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "conversationus-2022-07-16T20:57:13.805412-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "conversationus-2022-07-16T20:57:13.805412-04:00.jpg",
+      "mtime": "1658019500",
+      "size": "10381",
+      "md5": "1524bcf70b0ff5ac9e3bff5c4360a969",
+      "crc32": "2d836e74",
+      "sha1": "16f34cfb13301ba36db099b7a670f85633f15b80"
+    },
+    {
       "name": "conversationus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c8b71521fa41bb4150432984943e2dd4b551b0ed",
-      "mtime": "1657983054",
-      "size": "15560",
-      "md5": "f7bd3863fdc7f20c7686062a8f739108",
-      "crc32": "d47f0220",
-      "sha1": "f5dd7fa753909a11619791a6a42136c387e464c9",
+      "btih": "1e01d60fc8cb8b706dd7d73ad8d8f27d8926d3bb",
+      "mtime": "1658019504",
+      "size": "16434",
+      "md5": "f9c68f22d41cec2fc79927101efcd320",
+      "crc32": "b97627ed",
+      "sha1": "eba7f5bba4acf4cce50412ca37252ccdecaaf459",
       "format": "Archive BitTorrent"
     },
     {
       "name": "conversationus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46a819d4681f2a79fc462dcadf352e67",
+      "md5": "fbf839183b4da2439638159dfecdfecf",
       "summation": "md5"
     },
     {
       "name": "conversationus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657975293",
-      "size": "86016",
-      "md5": "59051dec1edfc1871a14e55622fc3bdc",
-      "crc32": "afe24c5e",
-      "sha1": "ef7eb9ce88f34c1752b70eb8d69622507616314f",
+      "mtime": "1658019442",
+      "size": "98304",
+      "md5": "9de92a08a5948634d8ef414db5037b59",
+      "crc32": "73341aff",
+      "sha1": "c96e0fafcd9e55bea0e6b8583cb8a811c2c5a9d6",
       "format": "Metadata"
     },
     {
@@ -2068,9 +2110,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 69,
-  "item_last_updated": 1657983054,
-  "item_size": 6293411,
+  "files_count": 73,
+  "item_last_updated": 1658019504,
+  "item_size": 6739707,
   "metadata": {
     "identifier": "conversationus-2022",
     "collection": [
@@ -2088,7 +2130,7 @@
     "addeddate": "2022-07-09 03:57:31"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 961934657,
+  "uniq": 103668253,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

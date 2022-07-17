@@ -1,5 +1,5 @@
 {
-  "created": 1658019807,
+  "created": 1658060256,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/4/items/thelasentinel-2022",
@@ -10420,31 +10420,73 @@
       "sha1": "c77d347d3f7ee63443f42db7e3a8494f9f967b53"
     },
     {
+      "name": "thelasentinel-2022-07-16T21:09:32.740402-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658030976",
+      "size": "42368",
+      "md5": "384d6dce3e3c1ff8782731e44fa2cb2d",
+      "crc32": "b8bd4035",
+      "sha1": "da774534f02e34a48e646343cec37c5b24eac67e",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-07-16T21:09:32.740402-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658030978",
+      "size": "48226",
+      "md5": "8ec3a31b4823afd66cf4dff31aed5574",
+      "crc32": "e7d404c8",
+      "sha1": "2f3ca85d63e0f40bac09e1d065f40b3ccf98856e",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-07-16T21:09:32.740402-07:00.jpg",
+      "source": "original",
+      "mtime": "1658030974",
+      "size": "304988",
+      "md5": "7671b6d56af243124801cde17df82882",
+      "crc32": "d2e056d2",
+      "sha1": "b25a5742ffe7a9cd9b8ebe0a74f297df1d88d32d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-07-16T21:09:32.740402-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-07-16T21:09:32.740402-07:00.jpg",
+      "mtime": "1658032415",
+      "size": "11185",
+      "md5": "80bb59438f0ab85023d14cc780ad2fbf",
+      "crc32": "6c9073f9",
+      "sha1": "66b3780bc866a74e4dd2d292cdf8c83f802a6575"
+    },
+    {
       "name": "thelasentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6be9f8635bae8c6b5891f746275c543b74638bc5",
-      "mtime": "1657995531",
-      "size": "216608",
-      "md5": "1faabb312e6292c09583202df60d71a3",
-      "crc32": "4a1206c7",
-      "sha1": "128ede518eabb41edf0c847aa4b740eb269b1e65",
+      "btih": "0aaa926e1ae1b0ee19478dccda9e0d38796d4a15",
+      "mtime": "1658032465",
+      "size": "217478",
+      "md5": "8bb06facb7c9fd4fad0c6ba2bcd8e06c",
+      "crc32": "c135d5e2",
+      "sha1": "d08bb64f7321c0e05b4d5e37a39dfb0d242935c5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelasentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fdc99755a4a4599d6c097e4b752765ab",
+      "md5": "33cc1a7cbf23a9a9c44bd6dbaec7e41f",
       "summation": "md5"
     },
     {
       "name": "thelasentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657995308",
-      "size": "1146880",
-      "md5": "bd0d361bfb5098e76ace0a2ac6dd57c0",
-      "crc32": "09bd22a1",
-      "sha1": "834174ca0d18f138c861c20706794d1505528994",
+      "mtime": "1658030985",
+      "size": "1150976",
+      "md5": "f3b3e02a26b3c3a852984b14a6b9aa2e",
+      "crc32": "b42fa151",
+      "sha1": "0c01a1cf1eba42ea845c152a839d3418020d717c",
       "format": "Metadata"
     },
     {
@@ -10458,9 +10500,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 995,
-  "item_last_updated": 1657995531,
-  "item_size": 123342346,
+  "files_count": 999,
+  "item_last_updated": 1658032465,
+  "item_size": 123754079,
   "metadata": {
     "identifier": "thelasentinel-2022",
     "collection": [
@@ -10477,7 +10519,7 @@
     "publicdate": "2022-03-25 02:05:03",
     "addeddate": "2022-03-25 02:05:03"
   },
-  "server": "ia802503.us.archive.org",
+  "server": "ia902503.us.archive.org",
   "thelasentinel-2022": [
     {
       "text": "Podcasts",
@@ -12084,9 +12126,9 @@
       "url": "http://tasteofsoul.org/"
     }
   ],
-  "uniq": 1571489332,
+  "uniq": 1301319656,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

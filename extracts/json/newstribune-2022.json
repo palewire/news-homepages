@@ -1,5 +1,5 @@
 {
-  "created": 1657988124,
+  "created": 1658060041,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/13/items/newstribune-2022",
@@ -1056,31 +1056,73 @@
       "sha1": "b0e7200d7c87a58e4fc2486c9eb512b8481bcdcd"
     },
     {
+      "name": "newstribune-2022-07-16T22:27:38.855920-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658028462",
+      "size": "23189",
+      "md5": "f2a0b92498173799335784d173d5acbe",
+      "crc32": "596130f1",
+      "sha1": "041fe2fc74de514c14088b53a8060ac604c8cfa8",
+      "format": "JSON"
+    },
+    {
+      "name": "newstribune-2022-07-16T22:27:38.855920-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658028463",
+      "size": "13119",
+      "md5": "90a2879fa74bb7924a52f1163033c8f7",
+      "crc32": "6d49b961",
+      "sha1": "68f14e16cea6a636141e7bda4cee46cd91bd141d",
+      "format": "JSON"
+    },
+    {
+      "name": "newstribune-2022-07-16T22:27:38.855920-05:00.jpg",
+      "source": "original",
+      "mtime": "1658028460",
+      "size": "323628",
+      "md5": "0a228fdb5615828327a2011dc5a5cb71",
+      "crc32": "83b7a321",
+      "sha1": "61329e2ff50b442276869adf281e297e43f14274",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newstribune-2022-07-16T22:27:38.855920-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstribune-2022-07-16T22:27:38.855920-05:00.jpg",
+      "mtime": "1658029159",
+      "size": "9443",
+      "md5": "763991d61eff8721bfa0d24dcecf7e64",
+      "crc32": "ed1dc23d",
+      "sha1": "b125608c7bcc8bb08358ca8a1cd274bfa459f7cc"
+    },
+    {
       "name": "newstribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "24f9215ca588993db0cfc8f60238941328824750",
-      "mtime": "1657988108",
-      "size": "22782",
-      "md5": "ad3bd11d1650b85d6a30ea29272c4f40",
-      "crc32": "f686ac4b",
-      "sha1": "ad5792b93cba89beb7dd3a39b71d38ac14be46bb",
+      "btih": "b724550485f804794eb9972abc0b5de6fdae20f5",
+      "mtime": "1658029164",
+      "size": "23643",
+      "md5": "43ed9428b72786af2691329b97d04774",
+      "crc32": "e7bf6a70",
+      "sha1": "3b39a29fd72b6012273bdd64b907ec3942c2a11a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newstribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbc004815a702b0310ff106d8c5098fd",
+      "md5": "369bdd5be599dd0afb23f63358f0e28f",
       "summation": "md5"
     },
     {
       "name": "newstribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657982820",
-      "size": "139264",
-      "md5": "db98b27336f12b946feb57802ec2aae0",
-      "crc32": "07de09c9",
-      "sha1": "cff2af2010e36a9eb9042a674f8a88cffc3d1424",
+      "mtime": "1658028468",
+      "size": "143360",
+      "md5": "677e60639ca010616c6da61d06bde140",
+      "crc32": "b5571490",
+      "sha1": "e407d15950db135fe8a9bfcf28e2f8a31fc0e32d",
       "format": "Metadata"
     },
     {
@@ -1094,9 +1136,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 104,
-  "item_last_updated": 1657988108,
-  "item_size": 8871138,
+  "files_count": 108,
+  "item_last_updated": 1658029164,
+  "item_size": 9245474,
   "metadata": {
     "identifier": "newstribune-2022",
     "collection": [
@@ -1113,10 +1155,596 @@
     "publicdate": "2022-07-04 21:49:35",
     "addeddate": "2022-07-04 21:49:35"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 165947351,
+  "newstribune-2022": [
+    {
+      "text": "Local News",
+      "url": "/news/jefferson-city/"
+    },
+    {
+      "text": "Missouri News",
+      "url": "/news/missouri/"
+    },
+    {
+      "text": "Nation",
+      "url": "/news/national/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "/obituaries/"
+    },
+    {
+      "text": "World",
+      "url": "/news/international/"
+    },
+    {
+      "text": "Business",
+      "url": "/news/business"
+    },
+    {
+      "text": "Politics",
+      "url": "/news/politics"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/news/podcasts/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "/news/features/entertainment/"
+    },
+    {
+      "text": "Weddings & Anniversaries",
+      "url": "/couples/"
+    },
+    {
+      "text": "Flavor",
+      "url": "/news/features/food/"
+    },
+    {
+      "text": "Health",
+      "url": "/news/health/"
+    },
+    {
+      "text": "Style",
+      "url": "/news/features/style/"
+    },
+    {
+      "text": "NT Rewards",
+      "url": "https://www.newstribune.com/NTREWARDS/"
+    },
+    {
+      "text": "All Opinion",
+      "url": "/news/opinion/"
+    },
+    {
+      "text": "Editorials",
+      "url": "/news/opinion/editorials/"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "/news/opinion/letters/"
+    },
+    {
+      "text": "Submit a Letter to the Editor",
+      "url": "/letters-to-editor/"
+    },
+    {
+      "text": "High School",
+      "url": "/news/sports/preps/"
+    },
+    {
+      "text": "All College",
+      "url": "/news/sports/college/"
+    },
+    {
+      "text": "Kansas City Chiefs",
+      "url": "/news/sports/pro/kansas-city-chiefs/"
+    },
+    {
+      "text": "All Pro",
+      "url": "/news/sports/pro/"
+    },
+    {
+      "text": "\n\n",
+      "url": "/"
+    },
+    {
+      "text": "Sign\u00a0in",
+      "url": "/auth/login?r=//www.newstribune.com/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://subscribe.wehco.com/subscription/news-tribune/"
+    },
+    {
+      "text": "Sign\u00a0in",
+      "url": "/auth/login?r=//www.newstribune.com/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://subscribe.wehco.com/subscription/news-tribune/"
+    },
+    {
+      "text": "Today's Edition",
+      "url": "/eedition/"
+    },
+    {
+      "text": "Local",
+      "url": "/news/jefferson-city/"
+    },
+    {
+      "text": "Missouri",
+      "url": "/news/missouri/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/news/opinion/"
+    },
+    {
+      "text": "Obits",
+      "url": "/obituaries/"
+    },
+    {
+      "text": "Sports",
+      "url": "/news/sports/"
+    },
+    {
+      "text": "GoMidMo",
+      "url": "/news/gomidmo/"
+    },
+    {
+      "text": "HER Magazine",
+      "url": "https://www.newstribune.com/her/"
+    },
+    {
+      "text": "Events",
+      "url": "/go/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://www.midmoclassifieds.com/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters/"
+    },
+    {
+      "text": "Election '22",
+      "url": "/election/"
+    },
+    {
+      "text": "Contests",
+      "url": "/special-sections/contests/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://midmocareers.com/"
+    },
+    {
+      "text": "Special Sections",
+      "url": "/special-sections/"
+    },
+    {
+      "text": "National",
+      "url": "/news/national/"
+    },
+    {
+      "text": "World",
+      "url": "/news/international/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/river-city-habitat-for-humanity-celebrates-125th/"
+    },
+    {
+      "text": "River City Habitat for Humanity celebrates 125th home",
+      "url": "/news/2022/jul/16/river-city-habitat-for-humanity-celebrates-125th/"
+    },
+    {
+      "text": "Joe Gamm",
+      "url": "/staff/joe-gamm/"
+    },
+    {
+      "text": "Missouri governor says no to special session on abortion",
+      "url": "/news/2022/jul/16/missouri-governor-says-no-to-special-session-on/"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/staff/the-associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/missouri-governor-says-no-to-special-session-on/"
+    },
+    {
+      "text": "Missionaries cycling to raise money for pregnancy help centers",
+      "url": "/news/2022/jul/16/missionaries-cycling-to-raise-money-for-pregnancy-help-centers/"
+    },
+    {
+      "text": "Joe Gamm",
+      "url": "/staff/joe-gamm/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/missionaries-cycling-to-raise-money-for-pregnancy-help-centers/"
+    },
+    {
+      "text": "Jefferson City School District promotes special services leaders",
+      "url": "/news/2022/jul/16/jefferson-city-school-district-promotes-special/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/jefferson-city-school-district-promotes-special/"
+    },
+    {
+      "text": "Local teacher chosen as a regional teacher of year",
+      "url": "/news/2022/jul/16/local-teacher-chosen-as-a-regional-teacher-of-year/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/local-teacher-chosen-as-a-regional-teacher-of-year/"
+    },
+    {
+      "text": "Latest News",
+      "url": "news/news/"
+    },
+    {
+      "text": "Stocks end higher on Wall Street, still down for the week",
+      "url": "/news/2022/jul/16/stocks-end-higher-on-wall-street-still-down-for/"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/staff/the-associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/stocks-end-higher-on-wall-street-still-down-for/"
+    },
+    {
+      "text": "Grant Street work resumes on Monday",
+      "url": "/news/2022/jul/16/grant-street-work-resumes-on-monday/"
+    },
+    {
+      "text": "Deposition of Trump, 2 children delayed after Ivana\u2019s death",
+      "url": "/news/2022/jul/16/deposition-of-trump-2-children-delayed-after/"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/staff/the-associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/deposition-of-trump-2-children-delayed-after/"
+    },
+    {
+      "text": "Jefferson City News",
+      "url": "/news/jefferson-city/"
+    },
+    {
+      "text": "Missionaries cycling to raise money for pregnancy help centers",
+      "url": "/news/2022/jul/16/missionaries-cycling-to-raise-money-for-pregnancy-help-centers/"
+    },
+    {
+      "text": "Joe Gamm",
+      "url": "/staff/joe-gamm/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/missionaries-cycling-to-raise-money-for-pregnancy-help-centers/"
+    },
+    {
+      "text": "Grant Street work resumes on Monday",
+      "url": "/news/2022/jul/16/grant-street-work-resumes-on-monday/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/news/opinion/"
+    },
+    {
+      "text": "EDITORIAL: A bold venture to cut Rx costs",
+      "url": "/news/2022/jul/16/editorial-a-bold-venture-to-cut-rx-costs/"
+    },
+    {
+      "text": "Tribune News Service",
+      "url": "/staff/tribune-news-service/"
+    },
+    {
+      "text": "COMMENTARY: Same-sex couple preach to Catholic parish on Father\u2019s Day",
+      "url": "/news/2022/jul/16/commentary-same-sex-couple-preach-to-catholic/"
+    },
+    {
+      "text": "Tim Mattingly",
+      "url": "/staff/tim-mattingly/"
+    },
+    {
+      "text": "Features",
+      "url": "/news/features/"
+    },
+    {
+      "text": "Springfield offers ideal weekend getaway options",
+      "url": "/news/2022/jul/14/springfield-offers-ideal-weekend-getaway-options/"
+    },
+    {
+      "text": "Jordan Thornsberry",
+      "url": "/staff/jordan-thornsberry/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/14/springfield-offers-ideal-weekend-getaway-options/"
+    },
+    {
+      "text": "\u2018Ozarks Alive\u2019 founder to speak at Missouri State Archives",
+      "url": "/news/2022/jul/14/ozarks-alive-founder-to-speak-at-missouri-state/"
+    },
+    {
+      "text": "Jordan Thornsberry",
+      "url": "/staff/jordan-thornsberry/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/14/ozarks-alive-founder-to-speak-at-missouri-state/"
+    },
+    {
+      "text": "Sports",
+      "url": "/news/sports/"
+    },
+    {
+      "text": "Gorman\u2019s home run propels Cardinals past Reds 7-3",
+      "url": "/news/2022/jul/16/gormans-home-run-propels-cardinals-past-reds-7-3/"
+    },
+    {
+      "text": "Associated Press",
+      "url": "/staff/associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/gormans-home-run-propels-cardinals-past-reds-7-3/"
+    },
+    {
+      "text": "Blue Jays romp past depleted Royals",
+      "url": "/news/2022/jul/16/blue-jays-romp-past-royals/"
+    },
+    {
+      "text": "Associated Press",
+      "url": "/staff/associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/blue-jays-romp-past-royals/"
+    },
+    {
+      "text": "World News",
+      "url": "/news/world/"
+    },
+    {
+      "text": "Putin reshuffles top officials, names new space agency head",
+      "url": "/news/2022/jul/16/putin-reshuffles-top-officials-names-new-space/"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/staff/the-associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/putin-reshuffles-top-officials-names-new-space/"
+    },
+    {
+      "text": "Sri Lanka\u2019s prime minister sworn in as interim president",
+      "url": "/news/2022/jul/16/sri-lankas-prime-minister-sworn-in-as-interim/"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/staff/the-associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/sri-lankas-prime-minister-sworn-in-as-interim/"
+    },
+    {
+      "text": "National News",
+      "url": "/news/national/"
+    },
+    {
+      "text": "Deposition of Trump, 2 children delayed after Ivana\u2019s death",
+      "url": "/news/2022/jul/16/deposition-of-trump-2-children-delayed-after/"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/staff/the-associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/deposition-of-trump-2-children-delayed-after/"
+    },
+    {
+      "text": "Texas hospitals delaying care over abortion law, letter says",
+      "url": "/news/2022/jul/16/texas-hospitals-delaying-care-over-abortion-law/"
+    },
+    {
+      "text": "The Associated Press",
+      "url": "/staff/the-associated-press/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/texas-hospitals-delaying-care-over-abortion-law/"
+    },
+    {
+      "text": "News Tribune podcasts",
+      "url": "/news/podcasts/"
+    },
+    {
+      "text": "LISTEN: NT on Tap -- Former Stanislaus pastor accused of embezzling money",
+      "url": "/news/2022/jul/13/listen-nt-on-tap-former-stanislaus-pastor-accused-of-embezzling-money/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/13/listen-nt-on-tap-former-stanislaus-pastor-accused-of-embezzling-money/"
+    },
+    {
+      "text": "LISTEN: NT on Tap -- Perceptions of police, feat. Police Chief Eric Wilde",
+      "url": "/news/2022/jul/07/listen-nt-on-tap-perceptions-of-police-feat-police-chief-eric-wilde/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/07/listen-nt-on-tap-perceptions-of-police-feat-police-chief-eric-wilde/"
+    },
+    {
+      "text": "MORE LATEST NEWS",
+      "url": "/news/news/"
+    },
+    {
+      "text": "Local News",
+      "url": "/news/jefferson-city/"
+    },
+    {
+      "text": "Missouri News",
+      "url": "/news/missouri/"
+    },
+    {
+      "text": "Business",
+      "url": "/news/business"
+    },
+    {
+      "text": "Opinion",
+      "url": "/news/opinion/letters/"
+    },
+    {
+      "text": "Nation",
+      "url": "/news/national/"
+    },
+    {
+      "text": "World",
+      "url": "/news/international/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/news/podcasts/"
+    },
+    {
+      "text": "Today's Edition",
+      "url": "https://newstribune.pressreader.com/news-tribune-ereader"
+    },
+    {
+      "text": "Archives",
+      "url": "/archivesearch/"
+    },
+    {
+      "text": "Health",
+      "url": "/news/health/"
+    },
+    {
+      "text": "All Sports",
+      "url": "/news/sports/"
+    },
+    {
+      "text": "High School",
+      "url": "/news/sports/preps/"
+    },
+    {
+      "text": "College",
+      "url": "/news/sports/college/"
+    },
+    {
+      "text": "Pro",
+      "url": "/news/sports/pro/"
+    },
+    {
+      "text": "Kansas City Chiefs",
+      "url": "/news/sports/pro/kansas-city-chiefs/"
+    },
+    {
+      "text": "Weddings & Anniversaries",
+      "url": "/couples/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "/obituaries/"
+    },
+    {
+      "text": "HER Magazine",
+      "url": "https://www.newstribune.com/her/"
+    },
+    {
+      "text": "Style",
+      "url": "/news/features/style/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "/news/features/entertainment/"
+    },
+    {
+      "text": "Flavor",
+      "url": "/news/features/food/"
+    },
+    {
+      "text": "Jefferson City Landmarks",
+      "url": "/landmark/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "http://www.midmoclassifieds.com/"
+    },
+    {
+      "text": "Legal Notices",
+      "url": "http://newstribune.classifieds.adicio.com/g/public-notices-30772919-b"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.midmocareers.com/"
+    },
+    {
+      "text": "Autos",
+      "url": "http://www.midmoclassifieds.com/"
+    },
+    {
+      "text": "Events",
+      "url": "/go/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters/"
+    },
+    {
+      "text": "California Democrat",
+      "url": "https://californiademocrat.com/"
+    },
+    {
+      "text": "Fulton Sun",
+      "url": "https://fultonsun.com/"
+    },
+    {
+      "text": "NT Rewards",
+      "url": "https://www.newstribune.com/NTREWARDS/"
+    },
+    {
+      "text": "Advertise",
+      "url": "/advertise/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://subscribe.wehco.com/subscription/news-tribune/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/contact/"
+    },
+    {
+      "text": "About Us",
+      "url": "/about-us/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/privacy-policy/"
+    },
+    {
+      "text": "Commercial Printing",
+      "url": "https://www.midmoprinting.com/"
+    }
+  ],
+  "server": "ia801409.us.archive.org",
+  "uniq": 243190936,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

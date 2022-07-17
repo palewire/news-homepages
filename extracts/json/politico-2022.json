@@ -1,5 +1,5 @@
 {
-  "created": 1658019604,
+  "created": 1658060126,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/14/items/politico-2022",
@@ -2000,31 +2000,73 @@
       "sha1": "3c20e5067da29bfadb8680b262fa92037a9476f4"
     },
     {
+      "name": "politico-2022-07-16T23:30:05.900612-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658028609",
+      "size": "59676",
+      "md5": "4574cae356479375bff393d3c6daf29a",
+      "crc32": "7ba85447",
+      "sha1": "925cf9a63ba73fc212253cea468387e8d6cc4167",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-07-16T23:30:05.900612-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658028610",
+      "size": "47436",
+      "md5": "eed8268245eb84c24fce99bf8dde6ca1",
+      "crc32": "89761ffd",
+      "sha1": "27cbe8ebf49fbf98a2cf3277a7fb2939d8e72422",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-07-16T23:30:05.900612-04:00.jpg",
+      "source": "original",
+      "mtime": "1658028607",
+      "size": "276634",
+      "md5": "f14775181b7b2e18e360bd0c65b4c9e6",
+      "crc32": "f73c42f9",
+      "sha1": "4b7e9e68673ae5fe9b39f575f7249d968a2cb330",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politico-2022-07-16T23:30:05.900612-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politico-2022-07-16T23:30:05.900612-04:00.jpg",
+      "mtime": "1658029384",
+      "size": "9236",
+      "md5": "1211bad1f6f1abe38b5d121e4142d353",
+      "crc32": "565876b6",
+      "sha1": "d9642bcfc705c8d2fea652802db0804e24705b9b"
+    },
+    {
       "name": "politico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2fba740af65f04a64e4f716890b3ccccc61fe4b",
-      "mtime": "1657988329",
-      "size": "41504",
-      "md5": "6ed011a9f3d7acb6febb191574426220",
-      "crc32": "2f0a98b4",
-      "sha1": "0033a84a492cbc8949087b5e285449afea5e5991",
+      "btih": "876bfcc6d1e7b2ec83e00f56156906fe9feb45fc",
+      "mtime": "1658029413",
+      "size": "42353",
+      "md5": "3c438c7d58a92369ffd7c1da00f580e1",
+      "crc32": "1f607800",
+      "sha1": "c2ff307e54fff8d22b7dc5f312fc1b5f26de6213",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4131a62bc5069bdefa9be444e5dc8e1a",
+      "md5": "f621067d284ebe9c7205a29adfa69e82",
       "summation": "md5"
     },
     {
       "name": "politico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657983003",
-      "size": "241664",
-      "md5": "32e12e71cefe834829ce4008043ab156",
-      "crc32": "c4d53897",
-      "sha1": "688ccc796beb5a5766e42adc73d14dedd8a1a713",
+      "mtime": "1658028628",
+      "size": "245760",
+      "md5": "751e6021d08c2056071fa88bd64f4848",
+      "crc32": "5f2e4b8c",
+      "sha1": "d0ffbbff69973886c7fc8b195d3f4b1c7c9320d2",
       "format": "Metadata"
     },
     {
@@ -2038,9 +2080,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 194,
-  "item_last_updated": 1657988329,
-  "item_size": 18795796,
+  "files_count": 198,
+  "item_last_updated": 1658029413,
+  "item_size": 19193723,
   "metadata": {
     "identifier": "politico-2022",
     "collection": [
@@ -2323,6 +2365,14 @@
       "url": "{{permalink}}"
     },
     {
+      "text": "\nFederal judge blocks Education Department\u2019s Title IX guidance that protects transgender students\n",
+      "url": "https://www.politico.com/news/2022/07/16/education-departments-title-ix-guidance-transgender-students-00046209"
+    },
+    {
+      "text": "\nPlaybook: The politics of a fist-bump\n",
+      "url": "https://www.politico.com/newsletters/playbook/2022/07/16/the-politics-of-a-fist-bump-00046207"
+    },
+    {
       "text": "\nIvana Trump's death ruled an accident, medical examiner says\n",
       "url": "https://www.politico.com/news/2022/07/15/ivana-trumps-death-ruled-an-accident-medical-examiner-says-00046201"
     },
@@ -2355,12 +2405,80 @@
       "url": "https://www.politico.com/news/2022/07/15/canadian-lawmakers-nord-stream-turbines-00046112"
     },
     {
-      "text": "\nJudge questions FBI arrest tactics against Trump adviser Navarro\n",
-      "url": "https://www.politico.com/news/2022/07/15/judge-questions-feds-tactics-in-navarro-arrest-00046085"
+      "text": "Global Investigation",
+      "url": "https://www.politico.com/news/special-report"
     },
     {
-      "text": "\nPhil Murphy pushes bipartisanship as he takes helm at NGA\n",
-      "url": "https://www.politico.com/news/2022/07/15/phil-murphy-governors-nga-bipartisanship-00046102"
+      "text": "\u2018I mean you no harm\u2019: From troubled teen to neo-Nazi foot soldier",
+      "url": "https://www.politico.com/news/2022/07/16/neo-nazi-white-supremacist-teenagers-00045589"
+    },
+    {
+      "text": "Bryan Bender",
+      "url": "https://www.politico.com/staff/bryan-bender"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/16/neo-nazi-white-supremacist-teenagers-00045589"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/16/bidens-middle-east-reputation-00046214"
+    },
+    {
+      "text": "Foreign Policy",
+      "url": "https://www.politico.com/news/foreign-policy"
+    },
+    {
+      "text": "Biden's Middle East expedition: Reputation dinged, interests secured? ",
+      "url": "https://www.politico.com/news/2022/07/16/bidens-middle-east-reputation-00046214"
+    },
+    {
+      "text": "Alexander Ward",
+      "url": "https://www.politico.com/staff/alexander-ward"
+    },
+    {
+      "text": "Jonathan Lemire",
+      "url": "https://www.politico.com/staff/jonathan-lemire"
+    },
+    {
+      "text": "Biden says U.S. 'will not walk away' from Middle East",
+      "url": "https://www.politico.com/news/2022/07/16/biden-says-u-s-will-not-walk-away-from-middle-east-00046204"
+    },
+    {
+      "text": "\n\n\n\n\nThe Weekend\n\n",
+      "url": "https://www.politico.com/newsletters/politico-weekend"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/magazine/2022/07/15/lis-smith-q-and-a-00045604"
+    },
+    {
+      "text": "Q&A",
+      "url": "https://www.politico.com/news/q-a"
+    },
+    {
+      "text": "\u2018I Had Been Seen as a Little Radioactive\u2019: Lis Smith Talks Mayor Pete, How She Picks Stars and the Future of the Democratic Party",
+      "url": "https://www.politico.com/news/magazine/2022/07/15/lis-smith-q-and-a-00045604"
+    },
+    {
+      "text": "Adam Wren",
+      "url": "https://www.politico.com/staff/adam-wren"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/16/new-york-housing-crunch-00045575"
+    },
+    {
+      "text": "New York",
+      "url": "https://www.politico.com/news/new-york"
+    },
+    {
+      "text": "New York tried to make apartments affordable. The opposite happened.",
+      "url": "https://www.politico.com/news/2022/07/16/new-york-housing-crunch-00045575"
+    },
+    {
+      "text": "Janaki Chadha",
+      "url": "https://www.politico.com/staff/janaki-chadha"
     },
     {
       "text": "Health Care",
@@ -2373,10 +2491,6 @@
     {
       "text": "Ruth Reader",
       "url": "https://www.politico.com/staff/ruth-reader"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/16/abortion-foes-move-to-block-online-ads-for-reproductive-services-00046195"
     },
     {
       "text": "insurrection fallout",
@@ -2399,8 +2513,12 @@
       "url": "https://www.politico.com/news/2022/07/15/jan-6-committee-subpoenas-secret-service-amid-text-message-controversy-00046199"
     },
     {
-      "text": "Justice Dept. backs House over Jan. 6 subpoena to Meadows",
-      "url": "https://www.politico.com/news/2022/07/15/justice-dept-jan-6-subpoena-meadows-00046193"
+      "text": "MORE TOP HEADLINES",
+      "url": "https://www.politico.com/politics"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/15/democrats-manchin-climate-activists-00046081"
     },
     {
       "text": "Energy & Environment",
@@ -2408,10 +2526,6 @@
     },
     {
       "text": "Democrats, climate activists grasp for comeback after blow from Manchin",
-      "url": "https://www.politico.com/news/2022/07/15/democrats-manchin-climate-activists-00046081"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
       "url": "https://www.politico.com/news/2022/07/15/democrats-manchin-climate-activists-00046081"
     },
     {
@@ -2440,58 +2554,6 @@
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/16/neo-nazi-white-supremacist-teenagers-00045589"
-    },
-    {
-      "text": "Global Investigation",
-      "url": "https://www.politico.com/news/special-report"
-    },
-    {
-      "text": "\u2018I mean you no harm\u2019: From troubled teen to neo-Nazi foot soldier",
-      "url": "https://www.politico.com/news/2022/07/16/neo-nazi-white-supremacist-teenagers-00045589"
-    },
-    {
-      "text": "Bryan Bender",
-      "url": "https://www.politico.com/staff/bryan-bender"
-    },
-    {
-      "text": "New York",
-      "url": "https://www.politico.com/news/new-york"
-    },
-    {
-      "text": "New York tried to make apartments affordable. The opposite happened.",
-      "url": "https://www.politico.com/news/2022/07/16/new-york-housing-crunch-00045575"
-    },
-    {
-      "text": "Janaki Chadha",
-      "url": "https://www.politico.com/staff/janaki-chadha"
-    },
-    {
-      "text": "White House",
-      "url": "https://www.politico.com/white-house"
-    },
-    {
-      "text": "Biden fist bump with MBS triggers backlash",
-      "url": "https://www.politico.com/news/2022/07/15/a-fist-bump-at-the-palace-biden-squares-off-with-mbs-00046106"
-    },
-    {
-      "text": "Quint Forgey",
-      "url": "https://www.politico.com/staff/quint-forgey"
-    },
-    {
-      "text": "Kelly Hooper",
-      "url": "https://www.politico.com/staff/kelly-hooper"
-    },
-    {
-      "text": "Biden says U.S. 'will not walk away' from Middle East",
-      "url": "https://www.politico.com/news/2022/07/16/biden-says-u-s-will-not-walk-away-from-middle-east-00046204"
-    },
-    {
-      "text": "MORE TOP HEADLINES",
-      "url": "https://www.politico.com/politics"
-    },
-    {
-      "text": "\n\n \n\n\n\n\n",
       "url": "https://www.politico.com/news/2022/07/15/moms-for-liberty-desantis-00046178"
     },
     {
@@ -2525,26 +2587,6 @@
     {
       "text": "Monkeypox cases are increasing and the U.S. doesn't have enough vaccines to meet demand",
       "url": "https://www.politico.com/news/2022/07/15/monkeypox-cdc-vaccine-00046153"
-    },
-    {
-      "text": "\n\n\n\n\nThe Weekend\n\n",
-      "url": "https://www.politico.com/newsletters/politico-weekend"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/magazine/2022/07/15/lis-smith-q-and-a-00045604"
-    },
-    {
-      "text": "Q&A",
-      "url": "https://www.politico.com/news/q-a"
-    },
-    {
-      "text": "90 Minutes With America\u2019s Most Notorious Political Strategist",
-      "url": "https://www.politico.com/news/magazine/2022/07/15/lis-smith-q-and-a-00045604"
-    },
-    {
-      "text": "Adam Wren",
-      "url": "https://www.politico.com/staff/adam-wren"
     },
     {
       "text": "VIDEO",
@@ -2895,7 +2937,7 @@
       "url": "https://www.politico.com/staff/sabrina-rodriguez"
     },
     {
-      "text": "\n \n\n\n\n\n\n",
+      "text": "\n\n\n\n\n\n\n",
       "url": "https://www.politico.com/news/2022/07/10/did-minnesota-accidentally-legalize-weed-its-complicated-00044544"
     },
     {
@@ -2999,7 +3041,7 @@
       "url": "https://www.politico.com/health-care"
     },
     {
-      "text": "\n\n\n\n\n\n\n",
+      "text": "\n \n\n\n\n\n\n",
       "url": "https://www.politico.com/news/2022/07/14/young-kids-covid-vaccines-low-demand-00045706"
     },
     {
@@ -3127,7 +3169,7 @@
       "url": "https://www.politico.com/staff/sarah-ferris"
     },
     {
-      "text": "\n\n\n\n\n\n\n",
+      "text": "\n \n\n\n\n\n\n",
       "url": "https://www.politico.com/news/2022/07/13/amazon-gave-ring-videos-to-police-without-owners-permission-00045513"
     },
     {
@@ -3212,15 +3254,7 @@
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/15/republicans-fear-abortion-backlash-00046005"
-    },
-    {
-      "text": "\u2018Oh, God, no\u2019: Republicans fear voter backlash after Indiana child rape case",
-      "url": "https://www.politico.com/news/2022/07/15/republicans-fear-abortion-backlash-00046005"
-    },
-    {
-      "text": "Republicans wince as their Ukrainian-born colleague thrashes Zelenskyy",
-      "url": "https://www.politico.com/news/2022/07/15/republicans-spartz-ukraine-zelenskyy-00045949"
+      "url": "https://www.politico.com/news/2022/07/15/jan-6-trump-operative-false-electors-00046175"
     },
     {
       "text": "Trump campaign operative who delivered Jan. 6 false elector lists is identified",
@@ -3231,15 +3265,23 @@
       "url": "https://www.politico.com/news/2022/07/15/ivana-trumps-death-ruled-an-accident-medical-examiner-says-00046201"
     },
     {
-      "text": "National Right to Life official: 10-year-old should have had baby",
-      "url": "https://www.politico.com/news/2022/07/14/anti-abotion-10-year-old-ohio-00045843"
+      "text": "Republicans wince as their Ukrainian-born colleague thrashes Zelenskyy",
+      "url": "https://www.politico.com/news/2022/07/15/republicans-spartz-ukraine-zelenskyy-00045949"
+    },
+    {
+      "text": "\u2018Oh, God, no\u2019: Republicans fear voter backlash after Indiana child rape case",
+      "url": "https://www.politico.com/news/2022/07/15/republicans-fear-abortion-backlash-00046005"
+    },
+    {
+      "text": "Justice Dept. backs House over Jan. 6 subpoena to Meadows",
+      "url": "https://www.politico.com/news/2022/07/15/justice-dept-jan-6-subpoena-meadows-00046193"
     },
     {
       "text": "VIDEO",
       "url": "https://www.politico.com/video"
     },
     {
-      "text": "\n\n\n\n \n\n\n",
+      "text": "\n\n\n\n\n\n\n",
       "url": "https://www.politico.com/video/2022/07/08/efforts-to-free-brittney-griner-630941"
     },
     {
@@ -3451,10 +3493,10 @@
       "url": "https://www.onetrust.com/products/cookie-consent/"
     }
   ],
-  "server": "ia902500.us.archive.org",
-  "uniq": 1299661130,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1160112313,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

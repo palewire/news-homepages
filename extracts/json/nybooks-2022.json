@@ -1,5 +1,5 @@
 {
-  "created": 1658019546,
+  "created": 1658060054,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/32/items/nybooks-2022",
@@ -1066,31 +1066,73 @@
       "sha1": "6c59e92938170277bee3d204df88f3cc6de81231"
     },
     {
+      "name": "nybooks-2022-07-16T23:28:40.025529-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658028525",
+      "size": "20677",
+      "md5": "59e5e0a2ffa5146b8a5adf9ff8f57af3",
+      "crc32": "a0ba2062",
+      "sha1": "84bf95dea65b269367b2d2261dbb41c42ec2c1bf",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-16T23:28:40.025529-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658028530",
+      "size": "46081",
+      "md5": "29b793d09a01caf0a2354a9f5983e8c2",
+      "crc32": "e75de894",
+      "sha1": "9181bdd0fd84c7a63195b02deabfef9ec098c5a3",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-16T23:28:40.025529-04:00.jpg",
+      "source": "original",
+      "mtime": "1658028521",
+      "size": "358702",
+      "md5": "5d1536d16dfc79c38cf32e452833bf18",
+      "crc32": "d8862d4e",
+      "sha1": "fecf05ea7836bd456a6a0f67c59ed7e34befc014",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nybooks-2022-07-16T23:28:40.025529-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nybooks-2022-07-16T23:28:40.025529-04:00.jpg",
+      "mtime": "1658029200",
+      "size": "10025",
+      "md5": "f2b8a8ea5b831d3ab848e280f099ce9e",
+      "crc32": "28c9dcfa",
+      "sha1": "899656a429c198a34a99598cc79276fe2a0ec128"
+    },
+    {
       "name": "nybooks-2022_archive.torrent",
       "source": "metadata",
-      "btih": "177f60b6c247fb4b2e2f1648fdbc75409b258b27",
-      "mtime": "1657988260",
-      "size": "22687",
-      "md5": "872f60e9b9c37c79264833d35fce85dc",
-      "crc32": "7d9ff5a1",
-      "sha1": "1cd1b387e0525cf361e2de8c5b1766d8195d53a0",
+      "btih": "4f36545f112c97e093fa4a1aedbe313ef8cad998",
+      "mtime": "1658029213",
+      "size": "23533",
+      "md5": "ef9b1bcc346ad3e4e2fe78ffd7328ea0",
+      "crc32": "3724590d",
+      "sha1": "9c9f51d8c51f65d42c3dec87c513e5bed40b5edb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nybooks-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55371cd42958cdfcd0390aed361a496b",
+      "md5": "bfc5d9ecd511cbbabfa18bb724b1b607",
       "summation": "md5"
     },
     {
       "name": "nybooks-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657982876",
-      "size": "139264",
-      "md5": "5e0a038e777be917ba3ab26d7b330b43",
-      "crc32": "2ae5e9b7",
-      "sha1": "afb27bc5a3c4ef19af9a9e89ca62d5bc04272895",
+      "mtime": "1658028533",
+      "size": "143360",
+      "md5": "398029457785f526ba0ed7d29b8d7b0f",
+      "crc32": "b2dcf638",
+      "sha1": "414fc1113d3ea51f8d5dfeb97417074ae94d1f50",
       "format": "Metadata"
     },
     {
@@ -1104,9 +1146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 105,
-  "item_last_updated": 1657988260,
-  "item_size": 11118887,
+  "files_count": 109,
+  "item_last_updated": 1658029213,
+  "item_size": 11559314,
   "metadata": {
     "identifier": "nybooks-2022",
     "collection": [
@@ -1147,6 +1189,14 @@
     {
       "text": "\n\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t",
       "url": "https://www.nybooks.com"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\tSign In\n\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nybooks.com/account/signin/?current_page=https%3A%2F%2Fwww.nybooks.com%2F"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://subscribe.nybooks.info/ecom/nyb/app/live/subscriptions?org=NYB&publ=NY&key_code=EPHGNPA&type=S&gift_key=GPHGNPA"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\tPolitics\n\t\t\t\t\t\t\t\t",
@@ -1285,12 +1335,12 @@
       "url": "https://www.nybooks.com"
     },
     {
-      "text": "My Account",
-      "url": "https://subscribe.nybooks.info/ecom/nyb/app/live/subcustserv?org=NYB&publ=NY&php=y"
+      "text": "Sign In",
+      "url": "https://www.nybooks.com/account/signin/?current_page=https%3A%2F%2Fwww.nybooks.com%2F"
     },
     {
-      "text": "Logout",
-      "url": "https://www.nybooks.com/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=4acc37e8c1"
+      "text": "Subscribe",
+      "url": "https://subscribe.nybooks.info/ecom/nyb/app/live/subscriptions?org=NYB&publ=NY&key_code=EPHGNPA&type=S&gift_key=GPHGNPA"
     },
     {
       "text": "\n                    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                ",
@@ -1549,16 +1599,16 @@
       "url": "https://www.nybooks.com/articles/2022/07/21/meridian-response-ben-lerner/"
     },
     {
+      "text": "\n                                                                \n                    \n                        \n                    \n                \n                        \n                \n\n\nGeoff McFetridge, interviewed by Leanne Shapton            \n            The Edge of Legibility\n            \u201cDesign and commercial art can be like assembling a sculpture out of found objects; building something unusual out of the familiar.\u201d\n\n                July 16, 2022\n\n        ",
+      "url": "https://www.nybooks.com/daily/2022/07/16/the-edge-of-legibility-geoff-mcfetridge/"
+    },
+    {
       "text": "\n                                                                \n                    \n                        \n                    \n                \n                        \n                \n\n\nRumaan Alam, interviewed by Daniel Drake            \n            Reading in the Bath\n            \u201cI read to be lifted out of my own life, which I thought boring.\u201d\n\n                July 9, 2022\n\n        ",
       "url": "https://www.nybooks.com/daily/2022/07/09/reading-in-the-bath-rumaan-alam/"
     },
     {
       "text": "\n                                                                \n                    \n                        \n                    \n                \n                        \n                \n\n\nLaura Kolbe, interviewed by Lauren Kane            \n            One Mind Humming\n            \u201cIn my practice I seek to have it both ways: to respect patients and my own mind enough to believe that we can meet in the open field of conversation with our mutual intuitions, experiences, and bodies of knowledge.\u201d\n\n                July 2, 2022\n\n        ",
       "url": "https://www.nybooks.com/daily/2022/07/02/one-mind-humming-laura-kolbe/"
-    },
-    {
-      "text": "\n                                                                \n                    \n                        \n                    \n                \n                        \n                \n\n\nJarrett Earnest, interviewed by Daniel Drake            \n            Dimensions of Devotion\n            \u201cArt is a social phenomenon. It is a knot that exists between people.\u201d\n\n                June 25, 2022\n\n        ",
-      "url": "https://www.nybooks.com/daily/2022/06/25/dimensions-of-devotion-jarrett-earnest/"
     },
     {
       "text": "More",
@@ -1629,20 +1679,20 @@
       "url": "politics"
     },
     {
-      "text": "\n                                    \n                                        \n\t\n\nSarah Blackwood                                    \n                                    Spiritual Exercises\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/secret-to-superhuman-strength-alison-bechdel/"
-    },
-    {
-      "text": "\n                                    \n                                        \n\t\n\nHelon Habila                                    \n                                    Crude Reality\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/crude-reality-how-beautiful-we-were-imbolo-mbue/"
-    },
-    {
       "text": "\n                                    \n                                        \n\t\n\nSigrid Nunez                                    \n                                    The Lady Vanishes\n                                        July 21, 2022 issue\n\n                                ",
       "url": "https://www.nybooks.com/articles/2022/07/21/the-lady-vanishes-portrait-of-an-unknown-lady-gainza/"
     },
     {
       "text": "\n                                    \n                                        \n\t\n\nAaron Matz                                    \n                                    Flaubert\u2019s Planet\n                                        July 21, 2022 issue\n\n                                ",
       "url": "https://www.nybooks.com/articles/2022/07/21/nutmegs-curse-amitav-ghosh-climate-crisis/"
+    },
+    {
+      "text": "\n                                    \n                                        \n\t\n\nBen Lerner                                    \n                                    Meridian Response\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/meridian-response-ben-lerner/"
+    },
+    {
+      "text": "\n                                    \n                                        \n\t\n\nShane McCrae                                    \n                                    The White People in My Blood\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/the-white-people-in-my-blood-shane-mccrae/"
     },
     {
       "text": "More Literature",
@@ -1874,7 +1924,7 @@
     }
   ],
   "server": "ia802501.us.archive.org",
-  "uniq": 1760858479,
+  "uniq": 2093096912,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

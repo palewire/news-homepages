@@ -1,5 +1,5 @@
 {
-  "created": 1657985759,
+  "created": 1658024757,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/28/items/grist-2022",
@@ -688,31 +688,73 @@
       "sha1": "f4d80ab2e3e983940f3a54bea393b267aa77028a"
     },
     {
+      "name": "grist-2022-07-16T19:22:59.374750-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658024585",
+      "size": "44760",
+      "md5": "11a589f42146977f56951634a6c7568b",
+      "crc32": "666a0e53",
+      "sha1": "f091d4854c8ecb505c5a42e317624629f5b3f689",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-07-16T19:22:59.374750-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658024586",
+      "size": "34879",
+      "md5": "2bbda14d1ce8d6f51e2dcc86960dcfb6",
+      "crc32": "cfcb2ec3",
+      "sha1": "9e1af346264bc29604269f2cd4453554de0ee54e",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-07-16T19:22:59.374750-07:00.jpg",
+      "source": "original",
+      "mtime": "1658024580",
+      "size": "221957",
+      "md5": "2a5f75d47a96cd6d626a1228ed5cfe1c",
+      "crc32": "1afa2056",
+      "sha1": "fa40e7bea0eda6fca9cb5b44b359a95a9da27ca4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "grist-2022-07-16T19:22:59.374750-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "grist-2022-07-16T19:22:59.374750-07:00.jpg",
+      "mtime": "1658024669",
+      "size": "8429",
+      "md5": "ee9e856a9264d3d544edd1cef6d7d994",
+      "crc32": "31e6eada",
+      "sha1": "17e2e88dad5cb80d822add24084d255007732fb2"
+    },
+    {
       "name": "grist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9178896cb46c58f288083cce64612b4ccea5c1d4",
-      "mtime": "1657985745",
-      "size": "14852",
-      "md5": "89889c6c7959127f8214d38049090715",
-      "crc32": "b46d4473",
-      "sha1": "a916efaab050d05391f985f03aecc5d04222c23c",
+      "btih": "e9a6d20de80b90bc1fafaac0d6a89240cbae6401",
+      "mtime": "1658024734",
+      "size": "15689",
+      "md5": "8530008815c54b5d8bb4a4fcf2199aa6",
+      "crc32": "0e9ca205",
+      "sha1": "47a42986326d9214e63acc2bd9c5ebea9ee39eca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "grist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d70b1e4d987c477a8375e937fb36bee6",
+      "md5": "474a9795cb9978eed6dc7ac6a36d6879",
       "summation": "md5"
     },
     {
       "name": "grist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657979000",
-      "size": "86016",
-      "md5": "0e0d894cd57f266c0345990487bb710a",
-      "crc32": "226479ce",
-      "sha1": "0837efe135a0874851e3d567ab852c1a36cf9172",
+      "mtime": "1658024593",
+      "size": "90112",
+      "md5": "9ae713766996145b0dd1bfed9bfaefeb",
+      "crc32": "ee9c8cd4",
+      "sha1": "a763814320a6fef877a8de43513bc3d997a49e68",
       "format": "Metadata"
     },
     {
@@ -726,9 +768,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 69,
-  "item_last_updated": 1657985745,
-  "item_size": 5108843,
+  "files_count": 73,
+  "item_last_updated": 1658024734,
+  "item_size": 5423801,
   "metadata": {
     "identifier": "grist-2022",
     "collection": [
@@ -746,7 +788,7 @@
     "addeddate": "2022-07-09 03:58:54"
   },
   "server": "ia801502.us.archive.org",
-  "uniq": 943798338,
+  "uniq": 1401891994,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1658019506,
+  "created": 1658060011,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/natgeo-2022",
@@ -1066,31 +1066,73 @@
       "sha1": "2e3d4df2ebc0f6baf7e4c09b596bf6789691b500"
     },
     {
+      "name": "natgeo-2022-07-16T23:26:50.066800-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658028414",
+      "size": "40255",
+      "md5": "1342f4ab46df4db90ae34fccc7e98798",
+      "crc32": "bd6d9e11",
+      "sha1": "8228f756d9ea255e2b9706f3c70256eed1f5a571",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-07-16T23:26:50.066800-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658028416",
+      "size": "25854",
+      "md5": "754de294ef139aa26c4710cbdc7c0d93",
+      "crc32": "d59928e4",
+      "sha1": "2d5d6432009e90b4cd1bb27d886848548f895b72",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-07-16T23:26:50.066800-04:00.jpg",
+      "source": "original",
+      "mtime": "1658028412",
+      "size": "250227",
+      "md5": "93ff218b34346a7330b215aa169e3228",
+      "crc32": "e4aaba99",
+      "sha1": "b310cd90aa3e7018a350519fc24c42ec867ea0f7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "natgeo-2022-07-16T23:26:50.066800-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "natgeo-2022-07-16T23:26:50.066800-04:00.jpg",
+      "mtime": "1658029116",
+      "size": "10490",
+      "md5": "1591daade19877cc90439cd673e3fdf3",
+      "crc32": "19e4a0a4",
+      "sha1": "d71dcb9a2c8766ab7905f796fd50113f64a4850b"
+    },
+    {
       "name": "natgeo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6cabae779c5892d4a5940f64fe093eae7fa7f619",
-      "mtime": "1657988235",
-      "size": "22432",
-      "md5": "0f52ded695286f29cb274df5db5668a3",
-      "crc32": "b0b7544b",
-      "sha1": "7deaa0bbad83f8a9d28fce185d961c0e77900589",
+      "btih": "7fcaff9d90b19598063be958d8c4f0123a90ba7b",
+      "mtime": "1658029120",
+      "size": "23274",
+      "md5": "849d9004efdbab3ae1fdb996a07105c0",
+      "crc32": "b871435c",
+      "sha1": "5b203735b346d4f36e3340703815ce097ad4ddea",
       "format": "Archive BitTorrent"
     },
     {
       "name": "natgeo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ffc561a74d70f7563857c69ea583d68f",
+      "md5": "1e041bb69cdb346b6631fee8985ca1dc",
       "summation": "md5"
     },
     {
       "name": "natgeo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657982787",
-      "size": "139264",
-      "md5": "32cd274ee90ebacb36d84e0cb880e006",
-      "crc32": "c809773e",
-      "sha1": "0896ea81a9a08de22f4c7f7de89f893ebe076484",
+      "mtime": "1658028418",
+      "size": "143360",
+      "md5": "ba61f082a810b46dd283db1fbd44ee28",
+      "crc32": "fa32555d",
+      "sha1": "b9acc286719c8f93940efe64c63aeea2aa1403c4",
       "format": "Metadata"
     },
     {
@@ -1104,9 +1146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 105,
-  "item_last_updated": 1657988235,
-  "item_size": 7805764,
+  "files_count": 109,
+  "item_last_updated": 1658029120,
+  "item_size": 8137528,
   "metadata": {
     "identifier": "natgeo-2022",
     "collection": [
@@ -1805,18 +1847,6 @@
       "url": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
     },
     {
-      "text": "California Privacy Notice",
-      "url": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/#heading1"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://disneytermsofuse.com/english/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
-    },
-    {
       "text": "Your California Privacy Rights",
       "url": "https://disneyprivacycenter.com/notice-to-california-residents/"
     },
@@ -1946,7 +1976,7 @@
     }
   ],
   "server": "ia801405.us.archive.org",
-  "uniq": 1075925039,
+  "uniq": 908958206,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

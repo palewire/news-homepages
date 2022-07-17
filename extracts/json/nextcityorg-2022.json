@@ -1,5 +1,5 @@
 {
-  "created": 1658011135,
+  "created": 1658060044,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/14/items/nextcityorg-2022",
@@ -898,31 +898,73 @@
       "sha1": "2fe0b5455927496f442da372c8fe65c94564c442"
     },
     {
+      "name": "nextcityorg-2022-07-16T23:27:47.478480-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658028471",
+      "size": "18806",
+      "md5": "ca1195d167a905c2b7a63f2ea1131a8c",
+      "crc32": "5671cff3",
+      "sha1": "9bcb7536e73a39756de2fc9ff1ec64cf471175a3",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-07-16T23:27:47.478480-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658028473",
+      "size": "19646",
+      "md5": "3002fc2c5adac7e4daca41e33268d32b",
+      "crc32": "c4398ef2",
+      "sha1": "2b3ffbdcf324a77d0b367637492225d195fa56cc",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-07-16T23:27:47.478480-04:00.jpg",
+      "source": "original",
+      "mtime": "1658028469",
+      "size": "324053",
+      "md5": "c7a89524319661723b4ee929ae372eb1",
+      "crc32": "0f99ab6f",
+      "sha1": "535290c5b2cd440ce651f23e2652a4096f0bfa5d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nextcityorg-2022-07-16T23:27:47.478480-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nextcityorg-2022-07-16T23:27:47.478480-04:00.jpg",
+      "mtime": "1658029144",
+      "size": "11011",
+      "md5": "59474af70d487150085dd31affaf9d9b",
+      "crc32": "7b0691c5",
+      "sha1": "61b1485251fb6f4ca573f7c0a502227c718b263f"
+    },
+    {
       "name": "nextcityorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "61fbdb8705dae4bd52e793458c5aabb532b83e44",
-      "mtime": "1658011130",
-      "size": "19637",
-      "md5": "fd9275ee819c03facc4812e720678136",
-      "crc32": "233e02f7",
-      "sha1": "6a842414947155c55b2f3cdd61d19b2565a6b9bd",
+      "btih": "e3dfc9175cd92bce3b342dbcb82ec71fc89c3317",
+      "mtime": "1658029148",
+      "size": "20499",
+      "md5": "5cb8f31eee1abecf77f5dfc9044f2902",
+      "crc32": "0375df42",
+      "sha1": "d589ec153bd5609958f7bd78d390a92d2b306239",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nextcityorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb0535cae2c2847019a615e03d0a03fc",
+      "md5": "707da8130270a428b45bf7d4055b621a",
       "summation": "md5"
     },
     {
       "name": "nextcityorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658011084",
-      "size": "114688",
-      "md5": "d714a5db17e67c6b6dafa84dcbfa40ab",
-      "crc32": "95b2b70a",
-      "sha1": "5335837d4134ba632cedea22bac40ea8eb45830c",
+      "mtime": "1658028477",
+      "size": "126976",
+      "md5": "03b78d0fb83c23b60cd864b7da8f69e8",
+      "crc32": "12c5503b",
+      "sha1": "11e5ed3be55f8da8c822d146a49f2480fb37ce59",
       "format": "Metadata"
     },
     {
@@ -936,9 +978,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 89,
-  "item_last_updated": 1658011130,
-  "item_size": 8199628,
+  "files_count": 93,
+  "item_last_updated": 1658029148,
+  "item_size": 8586294,
   "metadata": {
     "identifier": "nextcityorg-2022",
     "collection": [
@@ -955,10 +997,684 @@
     "publicdate": "2022-07-09 04:01:27",
     "addeddate": "2022-07-09 04:01:27"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 308747841,
+  "nextcityorg-2022": [
+    {
+      "text": "Menu",
+      "url": "#"
+    },
+    {
+      "text": "Solutions for Liberated Cities",
+      "url": "/about"
+    },
+    {
+      "text": "Login",
+      "url": "/login"
+    },
+    {
+      "text": "Join",
+      "url": "/membership"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/nextcityorg"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/nextcityorg"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/nextcityorg/"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/the-next-american-city"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/feeds/daily"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/app"
+    },
+    {
+      "text": "Become A Member",
+      "url": "https://nextcity.org/membership"
+    },
+    {
+      "text": "Donate",
+      "url": "https://nextcity.org/donate"
+    },
+    {
+      "text": "Login",
+      "url": "https://nextcity.org/login"
+    },
+    {
+      "text": "FAQ",
+      "url": "https://nextcity.org/membership/faq"
+    },
+    {
+      "text": "Newsletter",
+      "url": "https://nextcity.org/newsletter"
+    },
+    {
+      "text": "Upcoming Events",
+      "url": "https://nextcity.org/events"
+    },
+    {
+      "text": "Webinar Library",
+      "url": "https://nextcity.org/webinars"
+    },
+    {
+      "text": "Ebooks",
+      "url": "https://nextcity.org/ebooks"
+    },
+    {
+      "text": "Podcast",
+      "url": "https://nextcity.org/podcast"
+    },
+    {
+      "text": "Features",
+      "url": "https://nextcity.org/features"
+    },
+    {
+      "text": "Latest News",
+      "url": "https://nextcity.org/urbanist-news"
+    },
+    {
+      "text": "Economics",
+      "url": "https://nextcity.org/economics"
+    },
+    {
+      "text": "Housing",
+      "url": "https://nextcity.org/housing"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://nextcity.org/transportation"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "https://nextcity.org/culture"
+    },
+    {
+      "text": "Environment",
+      "url": "https://nextcity.org/environment"
+    },
+    {
+      "text": "Technology",
+      "url": "https://nextcity.org/technology"
+    },
+    {
+      "text": "Topics",
+      "url": "/topics"
+    },
+    {
+      "text": "Gentrification",
+      "url": "https://nextcity.org/gentrification"
+    },
+    {
+      "text": "Poverty",
+      "url": "https://nextcity.org/poverty"
+    },
+    {
+      "text": "Infrastructure",
+      "url": "https://nextcity.org/infrastructure"
+    },
+    {
+      "text": "Police",
+      "url": "https://nextcity.org/police"
+    },
+    {
+      "text": "Community Engagement",
+      "url": "https://nextcity.org/community+engagement"
+    },
+    {
+      "text": "COVID-19",
+      "url": "https://nextcity.org/covid-19"
+    },
+    {
+      "text": "Vanguard",
+      "url": "https://nextcity.org/vanguard"
+    },
+    {
+      "text": "Apply for Vanguard",
+      "url": "https://nextcity.org/vanguard/apply"
+    },
+    {
+      "text": "Vanguards Directory",
+      "url": "https://nextcity.org/vanguard/members"
+    },
+    {
+      "text": "Host Vanguard",
+      "url": "https://nextcity.org/vanguard/host"
+    },
+    {
+      "text": "Sponsor Vanguard",
+      "url": "https://nextcity.org/vanguard/sponsor"
+    },
+    {
+      "text": "Shop",
+      "url": "https://shop.nextcity.org"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://jobs.nextcity.org"
+    },
+    {
+      "text": "Post a Job",
+      "url": "https://nextcity.org/jobs"
+    },
+    {
+      "text": "Find a Job",
+      "url": "https://jobs.nextcity.org"
+    },
+    {
+      "text": "About Next City",
+      "url": "https://nextcity.org/about"
+    },
+    {
+      "text": "Contact",
+      "url": "https://nextcity.org/about/contact"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://nextcity.org/advertise"
+    },
+    {
+      "text": "Pitch a Story",
+      "url": "https://nextcity.org/pitch"
+    },
+    {
+      "text": "Press Room",
+      "url": "https://nextcity.org/press"
+    },
+    {
+      "text": "COVID-19 Response Directory",
+      "url": "https://nextcity.org/covid-19-response-directory"
+    },
+    {
+      "text": "\u00d7",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tHow Transit Agencies Are Engaging the Transit Professionals of Tomorrow\n\t\t\t\t\t\tFrom TikTok to youth advisory boards, West Coast transit agencies are working to connect with young riders.\n\t\t\t\t\t\n\t\t\t\n\t\t",
+      "url": "https://nextcity.org/urbanist-news/how-transit-agencies-are-engaging-youth-transportation"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\"}\n\t\t\t\t\t\t",
+      "url": "https://nextcity.org/urbanist-news/economics-in-brief-philly-public-bank-project-sees-a-major-obstacle1"
+    },
+    {
+      "text": "Economics in Brief: Philly Public Bank Project Sees a Major Obstacle",
+      "url": "https://nextcity.org/urbanist-news/economics-in-brief-philly-public-bank-project-sees-a-major-obstacle1"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\"}\n\t\t\t\t\t\t",
+      "url": "https://nextcity.org/urbanist-news/qa-empowering-us-finance-literacy-for-indigenous-communities"
+    },
+    {
+      "text": "Q&A: Empowering U.S. Finance Literacy for Indigenous Communities",
+      "url": "https://nextcity.org/urbanist-news/qa-empowering-us-finance-literacy-for-indigenous-communities"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\"}\n\t\t\t\t\t\t",
+      "url": "https://nextcity.org/urbanist-news/black-homeowner-intergenerational-wealth-through-estate-planning-nyc"
+    },
+    {
+      "text": "Building Black Intergenerational Wealth Through Estate Planning",
+      "url": "https://nextcity.org/urbanist-news/black-homeowner-intergenerational-wealth-through-estate-planning-nyc"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\"}\n\t\t\t\t\t\t",
+      "url": "press/entry/an-update-from-next-citys-executive-director"
+    },
+    {
+      "text": "An Update From Next City\u2019s Executive Director",
+      "url": "press/entry/an-update-from-next-citys-executive-director"
+    },
+    {
+      "text": "How Transit Agencies Are Engaging the Transit Professionals of Tomorrow",
+      "url": "https://nextcity.org/urbanist-news/how-transit-agencies-are-engaging-youth-transportation"
+    },
+    {
+      "text": "Economics in Brief: Philly Public Bank Project Sees a Major Obstacle",
+      "url": "https://nextcity.org/urbanist-news/economics-in-brief-philly-public-bank-project-sees-a-major-obstacle1"
+    },
+    {
+      "text": "Q&A: Empowering U.S. Finance Literacy for Indigenous Communities",
+      "url": "https://nextcity.org/urbanist-news/qa-empowering-us-finance-literacy-for-indigenous-communities"
+    },
+    {
+      "text": "Black, Indigenous & Low-Income Pedestrians Killed at Disproportionately Higher Rates During Pandemic",
+      "url": "https://nextcity.org/urbanist-news/black-indigenous-low-income-pedestrians-killed-higher-rates-during-pandemic"
+    },
+    {
+      "text": "Housing in Brief: Congress Finds Private Equity Kept Buying Homes, Hiking Fees Over Pandemic",
+      "url": "https://nextcity.org/urbanist-news/congress-finds-private-equity-kept-buying-homes-hiking-fees-over-pandemic"
+    },
+    {
+      "text": "Building Black Intergenerational Wealth Through Estate Planning",
+      "url": "https://nextcity.org/urbanist-news/black-homeowner-intergenerational-wealth-through-estate-planning-nyc"
+    },
+    {
+      "text": "How a \u2018Music Audit\u2019 Led to Equitable Economic Development in Huntsville, Ala.",
+      "url": "https://nextcity.org/urbanist-news/music-audit-led-to-equitable-economic-development-in-huntsville-alabama"
+    },
+    {
+      "text": "Become A Member",
+      "url": "/membership"
+    },
+    {
+      "text": "Login",
+      "url": "/login"
+    },
+    {
+      "text": "Upcoming Event",
+      "url": "/events"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/events/detail/a-path-to-equitable-economic-development"
+    },
+    {
+      "text": "A Path To Equitable Economic Development",
+      "url": "https://nextcity.org/events/detail/a-path-to-equitable-economic-development"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://nextcity.org/events/detail/a-path-to-equitable-economic-development"
+    },
+    {
+      "text": "RSVP Now",
+      "url": "https://nextcity.org/events/rsvp/a-path-to-equitable-economic-development"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/ebooks/equitable-pathways-to-small-business-recovery-an-all-hands-approach"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/ebooks/the-future-of-monumentality-a-next-city-ebook"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/ebooks/jump-starting-the-green-new-deal"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/ebooks/the-clean-slate"
+    },
+    {
+      "text": "See all Ebooks",
+      "url": "/ebooks"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/webinars/planning-for-innovative-urban-mobility-in-jersey-city"
+    },
+    {
+      "text": "Planning for Innovative Urban Mobility in Jersey City",
+      "url": "https://nextcity.org/webinars/planning-for-innovative-urban-mobility-in-jersey-city"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/webinars/flash-webinar-how-inflation-and-strong-labor-markets-affect-black-brown-com"
+    },
+    {
+      "text": "Bottom Line Conversations: How Inflation and Strong Labor Markets Affect Black & Brown Communities",
+      "url": "https://nextcity.org/webinars/flash-webinar-how-inflation-and-strong-labor-markets-affect-black-brown-com"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/webinars/designing-cities-with-public-trust"
+    },
+    {
+      "text": "Designing Cities with Public Trust",
+      "url": "https://nextcity.org/webinars/designing-cities-with-public-trust"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/webinars/flash-webinar-what-the-community-reinvestment-act-changes-mean-for-more-equ"
+    },
+    {
+      "text": "Flash Webinar: What the Community Reinvestment Act Changes Mean for More Equitable Cities",
+      "url": "https://nextcity.org/webinars/flash-webinar-what-the-community-reinvestment-act-changes-mean-for-more-equ"
+    },
+    {
+      "text": "See all Webinars",
+      "url": "/webinars"
+    },
+    {
+      "text": "The Next City Podcast",
+      "url": "/podcast"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/podcast/episode/can-this-beer-stop-lesbian-bars-from-going-extinct"
+    },
+    {
+      "text": "Can This Beer Stop Lesbian Bars From Going Extinct?",
+      "url": "https://nextcity.org/podcast/episode/can-this-beer-stop-lesbian-bars-from-going-extinct"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/podcast/episode/the-case-for-guaranteed-income-for-transgender-americans"
+    },
+    {
+      "text": "The Case for Guaranteed Income for Transgender Americans",
+      "url": "https://nextcity.org/podcast/episode/the-case-for-guaranteed-income-for-transgender-americans"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/podcast/episode/where-overdue-library-books-became-a-thing-of-the-past"
+    },
+    {
+      "text": "Where Overdue Library Books Became a Thing of the Past",
+      "url": "https://nextcity.org/podcast/episode/where-overdue-library-books-became-a-thing-of-the-past"
+    },
+    {
+      "text": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/next-city/id1589481246"
+    },
+    {
+      "text": "Spotify",
+      "url": "https://open.spotify.com/show/7crfHpG3IMmkBRhEC8ZOl7?si=56b098671e6245ad"
+    },
+    {
+      "text": "The Bottom Line",
+      "url": "/thebottomline"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/economics-in-brief-philly-public-bank-project-sees-a-major-obstacle1"
+    },
+    {
+      "text": "Economics in Brief: Philly Public Bank Project Sees a Major Obstacle",
+      "url": "https://nextcity.org/urbanist-news/economics-in-brief-philly-public-bank-project-sees-a-major-obstacle1"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/how-denver-is-working-to-make-its-cannabis-economy-more-equitable"
+    },
+    {
+      "text": "How Denver Is Working to Make Its Cannabis Economy More Equitable",
+      "url": "https://nextcity.org/urbanist-news/how-denver-is-working-to-make-its-cannabis-economy-more-equitable"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/economics-in-brief-minimum-wage-hikes-will-affect-millions-of-workers"
+    },
+    {
+      "text": "Economics in Brief: Minimum Wage Hikes Will Affect Millions of Workers",
+      "url": "https://nextcity.org/urbanist-news/economics-in-brief-minimum-wage-hikes-will-affect-millions-of-workers"
+    },
+    {
+      "text": "Sign Up: The Bottom Line Newsletter By Oscar Perry Abello",
+      "url": "/thebottomline/newsletter"
+    },
+    {
+      "text": "Backyard",
+      "url": "/backyard"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/congress-finds-private-equity-kept-buying-homes-hiking-fees-over-pandemic"
+    },
+    {
+      "text": "Housing in Brief: Congress Finds Private Equity Kept Buying Homes, Hiking Fees Over Pandemic",
+      "url": "https://nextcity.org/urbanist-news/congress-finds-private-equity-kept-buying-homes-hiking-fees-over-pandemic"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/black-homeowner-intergenerational-wealth-through-estate-planning-nyc"
+    },
+    {
+      "text": "Building Black Intergenerational Wealth Through Estate Planning",
+      "url": "https://nextcity.org/urbanist-news/black-homeowner-intergenerational-wealth-through-estate-planning-nyc"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/evanstons-first-reparations-payments-have-gone-out-heres-how-it-was-spent"
+    },
+    {
+      "text": "Evanston\u2019s First \u201cReparations\u201d Payments Have Gone Out. Here\u2019s How It Was Spent.",
+      "url": "https://nextcity.org/urbanist-news/evanstons-first-reparations-payments-have-gone-out-heres-how-it-was-spent"
+    },
+    {
+      "text": "Sign Up: The Backyard Newsletter by Roshan Abraham",
+      "url": "/backyard/newsletter"
+    },
+    {
+      "text": "Transportation",
+      "url": "/transportation"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/how-transit-agencies-are-engaging-youth-transportation"
+    },
+    {
+      "text": "How Transit Agencies Are Engaging the Transit Professionals of Tomorrow",
+      "url": "https://nextcity.org/urbanist-news/how-transit-agencies-are-engaging-youth-transportation"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/black-indigenous-low-income-pedestrians-killed-higher-rates-during-pandemic"
+    },
+    {
+      "text": "Black, Indigenous & Low-Income Pedestrians Killed at Disproportionately Higher Rates During Pandemic",
+      "url": "https://nextcity.org/urbanist-news/black-indigenous-low-income-pedestrians-killed-higher-rates-during-pandemic"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/facing-an-energy-crisis-a-syrian-engineer-designed-electric-tuk-tuks"
+    },
+    {
+      "text": "Facing an Energy Crisis, a Syrian Engineer Designed Electric Tuk-Tuks",
+      "url": "https://nextcity.org/urbanist-news/facing-an-energy-crisis-a-syrian-engineer-designed-electric-tuk-tuks"
+    },
+    {
+      "text": "Sign up for our Transportation & Infrastructure digest",
+      "url": "/newsletter/transportation"
+    },
+    {
+      "text": "Arts & Culture",
+      "url": "/culture"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/music-audit-led-to-equitable-economic-development-in-huntsville-alabama"
+    },
+    {
+      "text": "How a \u2018Music Audit\u2019 Led to Equitable Economic Development in Huntsville, Ala.",
+      "url": "https://nextcity.org/urbanist-news/music-audit-led-to-equitable-economic-development-in-huntsville-alabama"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/abolitionists-push-back-against-new-york-citys-proposed-plan-for-a-feminist"
+    },
+    {
+      "text": "Abolitionists Push Back Against New York City\u2019s Proposed Plan For a \u2018Feminist Jail\u2019",
+      "url": "https://nextcity.org/urbanist-news/abolitionists-push-back-against-new-york-citys-proposed-plan-for-a-feminist"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/how-katowice-poland-went-from-coal-city-to-culture-and-conference-hub"
+    },
+    {
+      "text": "How Katowice, Poland Went From Coal City to Culture And Conference Hub",
+      "url": "https://nextcity.org/urbanist-news/how-katowice-poland-went-from-coal-city-to-culture-and-conference-hub"
+    },
+    {
+      "text": "Sign up for our Arts & Culture digest",
+      "url": "/newsletter/culture"
+    },
+    {
+      "text": "Environment",
+      "url": "/environment"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/using-moss-to-push-government-action-in-seattles-duwamish-valley"
+    },
+    {
+      "text": "Using Moss To Push Government Action in Seattle\u2019s Duwamish Valley",
+      "url": "https://nextcity.org/urbanist-news/using-moss-to-push-government-action-in-seattles-duwamish-valley"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/supreme-court-ruling-how-cities-can-lead-the-fight-against-climate-change"
+    },
+    {
+      "text": "After The Supreme Court Ruling, Here\u2019s How Cities Can Lead the Fight Against Climate Change",
+      "url": "https://nextcity.org/urbanist-news/supreme-court-ruling-how-cities-can-lead-the-fight-against-climate-change"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/urbanist-news/how-katowice-poland-went-from-coal-city-to-culture-and-conference-hub"
+    },
+    {
+      "text": "How Katowice, Poland Went From Coal City to Culture And Conference Hub",
+      "url": "https://nextcity.org/urbanist-news/how-katowice-poland-went-from-coal-city-to-culture-and-conference-hub"
+    },
+    {
+      "text": "Sign up for our Environment & Energy digest",
+      "url": "/newsletter/environment"
+    },
+    {
+      "text": "View all jobs",
+      "url": "https://jobs.nextcity.org"
+    },
+    {
+      "text": "Learn more about us \u2192",
+      "url": "/about"
+    },
+    {
+      "text": "Become A Member",
+      "url": "/membership"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/nextcityorg"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/nextcityorg"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/nextcityorg/"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/the-next-american-city"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/feeds/daily"
+    },
+    {
+      "text": "",
+      "url": "https://nextcity.org/app"
+    },
+    {
+      "text": "Latest News",
+      "url": "https://nextcity.org/urbanist-news"
+    },
+    {
+      "text": "Upcoming Events",
+      "url": "https://nextcity.org/events"
+    },
+    {
+      "text": "Webinar Library",
+      "url": "https://nextcity.org/webinars"
+    },
+    {
+      "text": "Ebook Library",
+      "url": "https://nextcity.org/ebooks"
+    },
+    {
+      "text": "Podcast",
+      "url": "https://nextcity.org/podcast"
+    },
+    {
+      "text": "Features",
+      "url": "https://nextcity.org/features"
+    },
+    {
+      "text": "Topics",
+      "url": "https://nextcity.org/topics"
+    },
+    {
+      "text": "Vanguard",
+      "url": "https://nextcity.org/vanguard"
+    },
+    {
+      "text": "Shop",
+      "url": "https://shop.nextcity.org"
+    },
+    {
+      "text": "Donate",
+      "url": "https://nextcity.org/donate"
+    },
+    {
+      "text": "About Next City",
+      "url": "https://nextcity.org/about"
+    },
+    {
+      "text": "Contact",
+      "url": "https://nextcity.org/about/contact"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://nextcity.org/mediakit"
+    },
+    {
+      "text": "Pitch a Story",
+      "url": "https://nextcity.org/pitch"
+    },
+    {
+      "text": "Press Room",
+      "url": "https://nextcity.org/press"
+    },
+    {
+      "text": "Login",
+      "url": "https://nextcity.org/login"
+    },
+    {
+      "text": "Post a Job Listing",
+      "url": "https://nextcity.org/jobs"
+    },
+    {
+      "text": "Find A Job",
+      "url": "https://jobs.nextcity.org"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://nextcity.org/privacy"
+    },
+    {
+      "text": "Terms",
+      "url": "https://nextcity.org/terms"
+    },
+    {
+      "text": "\u00d7",
+      "url": "#"
+    },
+    {
+      "text": "\n\t\t\n\t\tNever Miss A StoryDownload our app",
+      "url": "/app"
+    },
+    {
+      "text": "\u00d7",
+      "url": "#"
+    }
+  ],
+  "server": "ia601504.us.archive.org",
+  "uniq": 1006437715,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }
