@@ -2,12 +2,8 @@ name: Status report
 
 on:
   schedule:
-    - cron: "0 9 * * 0"
+    - cron: "0 16 * * 0"
   workflow_dispatch:
-
-concurrency:
-  group: status-report
-  cancel-in-progress: true
 
 jobs:
   calculate:
@@ -46,20 +42,6 @@ jobs:
           git add ./notebooks
           git commit -m "Status report data update" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
-
-  tweet:
-    name: Tweet
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    needs: [calculate]
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
-
-      - id: install
-        name: Install Python dependencies
-        uses: ./.github/actions/install
 
       - id: tweet
         name: Tweet
