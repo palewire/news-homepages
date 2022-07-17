@@ -1,5 +1,5 @@
 {
-  "created": 1657964823,
+  "created": 1657985908,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/jn_japanese-2022",
@@ -1004,31 +1004,73 @@
       "sha1": "a74ce2c3c2d2e44d533d010217c57a12fb953a20"
     },
     {
+      "name": "jn_japanese-2022-07-16T22:45:19.380955+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657979122",
+      "size": "36032",
+      "md5": "8041f299026c4c862c96fda5b0e3a3d0",
+      "crc32": "717ac0b7",
+      "sha1": "e56745c95886eedab7426db4882ea1169a7c1bae",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-07-16T22:45:19.380955+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657979123",
+      "size": "71143",
+      "md5": "df286dd40ec7c515019e15a21b3b38da",
+      "crc32": "b2a3c742",
+      "sha1": "2f4846cc73e65b107bf641379f1b75c2330430e0",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-07-16T22:45:19.380955+09:00.jpg",
+      "source": "original",
+      "mtime": "1657979120",
+      "size": "272272",
+      "md5": "a61ea57c837b40fe6d2f229858cc0f54",
+      "crc32": "e795e173",
+      "sha1": "a9d112919340780b58f71813cc006f03cff56c5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jn_japanese-2022-07-16T22:45:19.380955+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jn_japanese-2022-07-16T22:45:19.380955+09:00.jpg",
+      "mtime": "1657985856",
+      "size": "9228",
+      "md5": "6e9e4a9b4930a928580a3a85d076c3a2",
+      "crc32": "dd2627d2",
+      "sha1": "e6be99f892e7ab9a7ded38a5d41e8f06695d96c7"
+    },
+    {
       "name": "jn_japanese-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cfcd07a7d422fdd1873fa6d0aeec5b8be5c15b68",
-      "mtime": "1657938745",
-      "size": "21775",
-      "md5": "66a3fafb73d9a98c3d6020f98016ddd1",
-      "crc32": "b29375cb",
-      "sha1": "baaaf920850e30901754ba1ce94bac855fa2d5f6",
+      "btih": "237bf7587d69752656907e6e703e64397b04526d",
+      "mtime": "1657985876",
+      "size": "22636",
+      "md5": "24597c6cb670512d99595bd82afa5838",
+      "crc32": "bde54161",
+      "sha1": "4604ffa719d2a30a169682706a357a7a821e4cea",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jn_japanese-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b09c149c31d4c8b53266a636d7ca4b14",
+      "md5": "a89ad1bf122d785c2975c776f3edddd6",
       "summation": "md5"
     },
     {
       "name": "jn_japanese-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657938532",
-      "size": "135168",
-      "md5": "29bff547ad68afb6d2b14c5a991f62b0",
-      "crc32": "2ad432d1",
-      "sha1": "96e33395e7bfd96e435d3f2bdb74a88e16352958",
+      "mtime": "1657979126",
+      "size": "139264",
+      "md5": "cd8cdc5f923a8fd5c71fd14ce16d5b72",
+      "crc32": "2c39fef4",
+      "sha1": "70469e14c968eeb8520803b399c775cd13d4348b",
       "format": "Metadata"
     },
     {
@@ -1042,9 +1084,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 99,
-  "item_last_updated": 1657938745,
-  "item_size": 9826754,
+  "files_count": 103,
+  "item_last_updated": 1657985876,
+  "item_size": 10220386,
   "metadata": {
     "identifier": "jn_japanese-2022",
     "collection": [
@@ -1061,10 +1103,10 @@
     "publicdate": "2022-07-09 02:39:08",
     "addeddate": "2022-07-09 02:39:08"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 14440020,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1268431391,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

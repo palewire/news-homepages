@@ -1,5 +1,5 @@
 {
-  "created": 1657973476,
+  "created": 1658019313,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/28/items/kcrg-2022",
@@ -6754,31 +6754,73 @@
       "sha1": "5857bd1b96a7de49ddfc483bdfe15bb075fbecd4"
     },
     {
+      "name": "kcrg-2022-07-16T08:45:26.361357-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657979133",
+      "size": "35683",
+      "md5": "23b34bb0828ea5e84b35301b76c07f87",
+      "crc32": "e35960f9",
+      "sha1": "9ebf47bee915e7a94ae81ab1467fdaabafe0cbfa",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-07-16T08:45:26.361357-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657979135",
+      "size": "19912",
+      "md5": "48dab6621efa46bb20c31cf0ee88fe13",
+      "crc32": "01c9c28c",
+      "sha1": "daa0ba6db4a3b51e2e25e5bb1beb7d0613243c6b",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-07-16T08:45:26.361357-05:00.jpg",
+      "source": "original",
+      "mtime": "1657979132",
+      "size": "323333",
+      "md5": "0a4997718b753e897992a11e45d22d19",
+      "crc32": "738e5442",
+      "sha1": "d732139c93fcc2d69726b8f9420c51e5b2acdd7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-07-16T08:45:26.361357-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrg-2022-07-16T08:45:26.361357-05:00.jpg",
+      "mtime": "1657985890",
+      "size": "10004",
+      "md5": "9fc0a96e74e9e45d638f289579aeebb2",
+      "crc32": "f570fff7",
+      "sha1": "8be4b740cceb241f914b380754606178d6e8fac2"
+    },
+    {
       "name": "kcrg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a7363a4d157b817d82d8753c0f43909e27672f0e",
-      "mtime": "1657939508",
-      "size": "134484",
-      "md5": "a918f4304b013d36ab9cae735e267b56",
-      "crc32": "589e3d47",
-      "sha1": "7803703ecf24314c4f160b264be26cf53404b634",
+      "btih": "14cf323d655a50a431713b6cecd7a92ebb123536",
+      "mtime": "1657985942",
+      "size": "135318",
+      "md5": "68bfb321651e95eb4f627af388d6f42f",
+      "crc32": "09e94a12",
+      "sha1": "5c72dd2b60e38a3d94bf8997378faf51d96cf1d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ae0c3acc1dd38e1d710d88d9e6ffffcc",
+      "md5": "34842b5ef081a345d7fa0177a3417745",
       "summation": "md5"
     },
     {
       "name": "kcrg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657938690",
-      "size": "741376",
-      "md5": "922f35b86a77c209c7b0db0cf2988648",
-      "crc32": "98cea116",
-      "sha1": "ee01afd2ac2e978badd6a824799d3723dbba846c",
+      "mtime": "1657979138",
+      "size": "745472",
+      "md5": "6022f6964edafcde63916b0c431cdad0",
+      "crc32": "680eb477",
+      "sha1": "9ae900b52313a90edb73efc114b02768fe3b3f4c",
       "format": "Metadata"
     },
     {
@@ -6792,9 +6834,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 646,
-  "item_last_updated": 1657939508,
-  "item_size": 66481662,
+  "files_count": 650,
+  "item_last_updated": 1657985942,
+  "item_size": 66875524,
   "kcrg-2022": [
     {
       "text": "Skip to content",
@@ -6829,7 +6871,7 @@
       "url": "/"
     },
     {
-      "text": "77\u00b0Cedar Rapids, IA",
+      "text": "72\u00b0Cedar Rapids, IA",
       "url": "/weather/"
     },
     {
@@ -7041,12 +7083,12 @@
       "url": "https://www.graydc.com/"
     },
     {
-      "text": "Investigate TV",
-      "url": "https://www.investigatetv.com/"
-    },
-    {
       "text": "PowerNation",
       "url": "/powernation"
+    },
+    {
+      "text": "Investigate TV",
+      "url": "https://www.investigatetv.com/"
     },
     {
       "text": "Latest Newscasts",
@@ -7073,16 +7115,20 @@
       "url": "https://www.youtube.com/user/kcrgdotcom"
     },
     {
+      "text": "4 weather alerts in effect",
+      "url": "/weather/alerts/"
+    },
+    {
       "text": "ALERT: Lyric & Elizabeth: Ten Years Later",
       "url": "/2022/07/13/lyric-elizabeth-ten-years-later/"
     },
     {
-      "text": " 10 years after Evansdale case, investigators inching closer to justiceNew technology and help from the public could help break Evansdale cousins case.",
-      "url": "/2022/07/15/10-years-after-evansdale-case-investigators-inching-closer-justice/"
+      "text": "Evansdale park and foundation honor victims that were taken too soon",
+      "url": "/video/2022/07/16/evansdale-park-foundation-honor-victims-that-were-taken-too-soon/"
     },
     {
       "text": "",
-      "url": "/2022/07/15/10-years-after-evansdale-case-investigators-inching-closer-justice/"
+      "url": "/video/2022/07/16/evansdale-park-foundation-honor-victims-that-were-taken-too-soon/"
     },
     {
       "text": "Iowa",
@@ -7097,11 +7143,75 @@
       "url": "/2022/07/15/cedar-rapids-movie-theater-begins-youth-escort-policy/"
     },
     {
-      "text": "News",
-      "url": "/2022/07/15/7-year-old-completes-challenge-mowing-50-lawns-cedar-rapids/"
+      "text": "Local",
+      "url": "/2022/07/16/driver-still-large-after-cedar-falls-car-chase/"
     },
     {
       "text": "",
+      "url": "/2022/07/16/driver-still-large-after-cedar-falls-car-chase/"
+    },
+    {
+      "text": "Driver still at large after Cedar Falls Car Chase",
+      "url": "/2022/07/16/driver-still-large-after-cedar-falls-car-chase/"
+    },
+    {
+      "text": "Garage Flooring Products",
+      "url": "https://searchlistnow.com/index.php?rgid=339467&gclid=GiCW38Cl-mou5s1QwN1GpMH8BhElUSoeeZsNCQmKicD39yD_zlgo3Nebre733crfAQ#tblciGiCW38Cl-mou5s1QwN1GpMH8BhElUSoeeZsNCQmKicD39yD_zlgo3Nebre733crfAQ"
+    },
+    {
+      "text": "Concrete Garage Floor Paint SaleGarage Flooring Products|",
+      "url": "https://searchlistnow.com/index.php?rgid=339467&gclid=GiCW38Cl-mou5s1QwN1GpMH8BhElUSoeeZsNCQmKicD39yD_zlgo3Nebre733crfAQ#tblciGiCW38Cl-mou5s1QwN1GpMH8BhElUSoeeZsNCQmKicD39yD_zlgo3Nebre733crfAQ"
+    },
+    {
+      "text": "",
+      "url": "https://searchlistnow.com/index.php?rgid=339467&gclid=GiCW38Cl-mou5s1QwN1GpMH8BhElUSoeeZsNCQmKicD39yD_zlgo3Nebre733crfAQ#tblciGiCW38Cl-mou5s1QwN1GpMH8BhElUSoeeZsNCQmKicD39yD_zlgo3Nebre733crfAQ"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Recommended by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Recommended by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-kcrg&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/16/police-recover-body-girl-who-drowned-raccoon-river/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/16/police-recover-body-girl-who-drowned-raccoon-river/"
+    },
+    {
+      "text": "Police recover body of girl who drowned in Raccoon River",
+      "url": "/2022/07/16/police-recover-body-girl-who-drowned-raccoon-river/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/16/missouri-resident-infected-by-suspected-brain-eating-amoeba-an-iowa-lake-has-died/"
+    },
+    {
+      "text": "Missouri resident infected by suspected brain-eating amoeba\ufeff in an Iowa lake has died",
+      "url": "/2022/07/16/missouri-resident-infected-by-suspected-brain-eating-amoeba-an-iowa-lake-has-died/"
+    },
+    {
+      "text": "Iowa",
+      "url": "/2022/07/16/accident-i-80-causes-semi-fall-its-side-catch-fire/"
+    },
+    {
+      "text": "Accident on I-80 causes semi to fall on its side and catch fire",
+      "url": "/2022/07/16/accident-i-80-causes-semi-fall-its-side-catch-fire/"
+    },
+    {
+      "text": "News",
       "url": "/2022/07/15/7-year-old-completes-challenge-mowing-50-lawns-cedar-rapids/"
     },
     {
@@ -7110,10 +7220,6 @@
     },
     {
       "text": "Local",
-      "url": "/2022/07/15/univ-iowa-makes-changes-scheduling-accommodate-large-freshman-class/"
-    },
-    {
-      "text": "",
       "url": "/2022/07/15/univ-iowa-makes-changes-scheduling-accommodate-large-freshman-class/"
     },
     {
@@ -7127,6 +7233,58 @@
     {
       "text": "Johnson County officials arrest juveniles for stealing Cedar Rapids vehicle",
       "url": "/2022/07/15/johnson-county-officials-arrest-juveniles-stealing-cedar-rapids-vehicle/"
+    },
+    {
+      "text": "Local",
+      "url": "/2022/07/15/10-years-after-evansdale-case-investigators-inching-closer-justice/"
+    },
+    {
+      "text": " 10 years after Evansdale case, investigators inching closer to justice",
+      "url": "/2022/07/15/10-years-after-evansdale-case-investigators-inching-closer-justice/"
+    },
+    {
+      "text": "",
+      "url": "/weather/radar/#click-through-url"
+    },
+    {
+      "text": "LATEST VIDEO",
+      "url": "/video/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/16/cloudy-saturday-before-temperatures-rise-next-week/"
+    },
+    {
+      "text": "A cloudy Saturday before temperatures rise next week",
+      "url": "/video/2022/07/16/cloudy-saturday-before-temperatures-rise-next-week/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/16/marcus-theatre-age-restriction/"
+    },
+    {
+      "text": "Marcus Theatre age restriction",
+      "url": "/video/2022/07/16/marcus-theatre-age-restriction/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/16/evansdale-park-foundation-honor-victims-that-were-taken-too-soon/"
+    },
+    {
+      "text": "Evansdale park and foundation honor victims that were taken too soon",
+      "url": "/video/2022/07/16/evansdale-park-foundation-honor-victims-that-were-taken-too-soon/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/15/univ-iowa-makes-changes-scheduling-accommodate-large-freshman-class/"
+    },
+    {
+      "text": "Univ. of Iowa makes changes to scheduling to accommodate large freshman class",
+      "url": "/video/2022/07/15/univ-iowa-makes-changes-scheduling-accommodate-large-freshman-class/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
     },
     {
       "text": "National",
@@ -7167,50 +7325,6 @@
     {
       "text": " State not teaching officials about tool used to solve missing person cases; 67% not in federal database",
       "url": "/2022/07/15/state-not-teaching-officials-about-tool-used-solve-missing-person-cases-67-not-federal-database/"
-    },
-    {
-      "text": "",
-      "url": "/weather/radar/#click-through-url"
-    },
-    {
-      "text": "LATEST VIDEO",
-      "url": "/video/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/15/univ-iowa-makes-changes-scheduling-accommodate-large-freshman-class/"
-    },
-    {
-      "text": "Univ. of Iowa makes changes to scheduling to accommodate large freshman class",
-      "url": "/video/2022/07/15/univ-iowa-makes-changes-scheduling-accommodate-large-freshman-class/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/15/firetruck-drives-through-iowa-around-country/"
-    },
-    {
-      "text": "Firetruck from 1937 drives through Iowa around country",
-      "url": "/video/2022/07/15/firetruck-drives-through-iowa-around-country/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/15/elementary-student-completes-yard-challenge/"
-    },
-    {
-      "text": "Elementary student completes '50 yard' challenge",
-      "url": "/video/2022/07/15/elementary-student-completes-yard-challenge/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/15/muscatine-playground-reopens-public/"
-    },
-    {
-      "text": "Muscatine playground reopens to public",
-      "url": "/video/2022/07/15/muscatine-playground-reopens-public/"
-    },
-    {
-      "text": "MORE NEWS",
-      "url": "/news/"
     },
     {
       "text": "Local",
@@ -7269,6 +7383,10 @@
       "url": "/2022/07/14/fairfield-teen-requests-change-venue-murder-trial/"
     },
     {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
       "text": "Sports",
       "url": "/2022/07/15/mccaffery-brothers-open-up-their-future/"
     },
@@ -7309,10 +7427,6 @@
       "url": "/2022/07/14/man-sought-shooting-chicago-officer-arrested-iowa/"
     },
     {
-      "text": "MORE NEWS",
-      "url": "/news/"
-    },
-    {
       "text": "Iowa",
       "url": "/2022/07/14/authorities-identify-victim-train-semi-crash-southwest-iowa/"
     },
@@ -7351,46 +7465,6 @@
     {
       "text": " 19th century beer cave rediscovered in central Iowa",
       "url": "/2022/07/14/19th-century-beer-cave-rediscovered-central-iowa/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/07/13/emergency-crews-palisades-kepler-state-park-possible-drowning/"
-    },
-    {
-      "text": " Emergency crews searching for person who went into the water at Palisades-Kepler State Park",
-      "url": "/2022/07/13/emergency-crews-palisades-kepler-state-park-possible-drowning/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/07/14/biden-lapid-discuss-iran-integrating-israel-middle-east/"
-    },
-    {
-      "text": " Biden, Lapid agree to stop Iran nuke program, differ on how",
-      "url": "/2022/07/14/biden-lapid-discuss-iran-integrating-israel-middle-east/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/07/14/sen-grassley-restricting-people-traveling-abortion-access-unconstitutional/"
-    },
-    {
-      "text": " Sen. Grassley: Restricting people from traveling for abortion access unconstitutional",
-      "url": "/2022/07/14/sen-grassley-restricting-people-traveling-abortion-access-unconstitutional/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/07/14/iowa-sen-ernst-meet-with-border-patrol-southern-border/"
-    },
-    {
-      "text": " Iowa Sen. Ernst to meet with border patrol at southern border",
-      "url": "/2022/07/14/iowa-sen-ernst-meet-with-border-patrol-southern-border/"
-    },
-    {
-      "text": "Iowa",
-      "url": "/2022/07/14/1-person-dies-w-iowa-when-truck-collides-with-train/"
-    },
-    {
-      "text": "1 person dies in W. Iowa when truck collides with train",
-      "url": "/2022/07/14/1-person-dies-w-iowa-when-truck-collides-with-train/"
     },
     {
       "text": "News",
@@ -7477,6 +7551,10 @@
       "url": "/advertising/"
     },
     {
+      "text": "Do Not Sell My Information",
+      "url": "#"
+    },
+    {
       "text": "search by queryly ",
       "url": "https://www.queryly.com/"
     },
@@ -7501,10 +7579,10 @@
     "publicdate": "2022-03-25 03:35:21",
     "addeddate": "2022-03-25 03:35:21"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1489334226,
+  "server": "ia902507.us.archive.org",
+  "uniq": 1409395897,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

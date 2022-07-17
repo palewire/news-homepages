@@ -433,7 +433,7 @@
       "url": "/the_delacorte_lectures"
     }
   ],
-  "created": 1657973273,
+  "created": 1658019062,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/22/items/cjr-2022",
@@ -2970,31 +2970,73 @@
       "sha1": "2664d8a49b8a7194d9293a5ea5b97388d5c1f076"
     },
     {
+      "name": "cjr-2022-07-16T08:40:32.556451-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657975235",
+      "size": "13156",
+      "md5": "02498d2ab62efac175c1da16955585cb",
+      "crc32": "48f6e70d",
+      "sha1": "a7b90e226c0e0d725af35e3b891b8106f8068c7b",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-07-16T08:40:32.556451-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657975236",
+      "size": "14808",
+      "md5": "b1f4520fb1ddf0c9b4a7a1fdb1a81865",
+      "crc32": "24e4a3f4",
+      "sha1": "4311bf51e3d46e2a6a9b987f01e10439a7e3a32f",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-07-16T08:40:32.556451-04:00.jpg",
+      "source": "original",
+      "mtime": "1657975233",
+      "size": "255414",
+      "md5": "9b7486d0fa98bf8c2fbc1b4e0b36d6a8",
+      "crc32": "ee4be4ae",
+      "sha1": "e62f087b6367bcbda62bed3006e675837f7fd20b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cjr-2022-07-16T08:40:32.556451-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cjr-2022-07-16T08:40:32.556451-04:00.jpg",
+      "mtime": "1657983017",
+      "size": "10162",
+      "md5": "7b267ca49af7e1b32b2925457627503f",
+      "crc32": "ef6bd587",
+      "sha1": "2664d8a49b8a7194d9293a5ea5b97388d5c1f076"
+    },
+    {
       "name": "cjr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2b627d755d07fed47196321f2427ef08af550c1",
-      "mtime": "1657938616",
-      "size": "50917",
-      "md5": "30e2717fef07417a56f68fdcff7156b6",
-      "crc32": "053f689d",
-      "sha1": "efc70f7ab29d374cd90bdcce415aefcbcc994995",
+      "btih": "16e7463c3ff10e45c20228c43898ed95801906ec",
+      "mtime": "1657983029",
+      "size": "51747",
+      "md5": "5cd3fb4fc9bef4fbd66174752e087795",
+      "crc32": "329c4115",
+      "sha1": "f13e03babaa396642088f1831b0655ed53b590f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cjr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac73672fa8ae790321de70781a63b0da",
+      "md5": "70d4fed6590404eea94e2dac675982b3",
       "summation": "md5"
     },
     {
       "name": "cjr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657933091",
-      "size": "294912",
-      "md5": "8bddf3a0c7d1697eafa8dc623df66fc0",
-      "crc32": "c7d7c1c4",
-      "sha1": "487a36d04b76a767892917b3b4f38021a3f216c3",
+      "mtime": "1657975241",
+      "size": "299008",
+      "md5": "133293c928ff56bf8667ff3e733297de",
+      "crc32": "b302fc73",
+      "sha1": "1cba148bd03a12c7a5f8858d9240a59af633e911",
       "format": "Metadata"
     },
     {
@@ -3008,9 +3050,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1657938616,
-  "item_size": 19778666,
+  "files_count": 249,
+  "item_last_updated": 1657983029,
+  "item_size": 20077132,
   "metadata": {
     "identifier": "cjr-2022",
     "collection": [
@@ -3027,10 +3069,10 @@
     "publicdate": "2022-06-24 22:53:41",
     "addeddate": "2022-06-24 22:53:41"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 2138116971,
+  "server": "ia601508.us.archive.org",
+  "uniq": 1475082398,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

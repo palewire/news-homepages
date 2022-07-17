@@ -1,5 +1,5 @@
 {
-  "created": 1657973968,
+  "created": 1658019926,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/35/items/wcfcourier-2022",
@@ -6514,31 +6514,73 @@
       "sha1": "368d91a5f48ed45c5a8fddc74350e64e610b48c2"
     },
     {
+      "name": "wcfcourier-2022-07-16T10:51:33.666093-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657986696",
+      "size": "24807",
+      "md5": "88c3d307bbbf936b04b6f9458656a6a2",
+      "crc32": "71765f19",
+      "sha1": "21c157b1c660c5560d9d7e79943b46f3f06223d7",
+      "format": "JSON"
+    },
+    {
+      "name": "wcfcourier-2022-07-16T10:51:33.666093-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657986699",
+      "size": "78206",
+      "md5": "05d2f6f1f62555db295b75efd4aef103",
+      "crc32": "12b1d17c",
+      "sha1": "42101c5f8d24b31fdc95fc25676baf120d2c4bcb",
+      "format": "JSON"
+    },
+    {
+      "name": "wcfcourier-2022-07-16T10:51:33.666093-05:00.jpg",
+      "source": "original",
+      "mtime": "1657986695",
+      "size": "276477",
+      "md5": "d49749cdd05f27d08c438505212dca6f",
+      "crc32": "d0e7e85e",
+      "sha1": "6b73ea370dac5590328ce97ee595f5c91493fef6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wcfcourier-2022-07-16T10:51:33.666093-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wcfcourier-2022-07-16T10:51:33.666093-05:00.jpg",
+      "mtime": "1657990553",
+      "size": "12092",
+      "md5": "a581d6fa92fe3d0905d51bb49ff545e1",
+      "crc32": "f8fe72e2",
+      "sha1": "ee66ed4f81329e1f3c56873a9a2cc56730588f30"
+    },
+    {
       "name": "wcfcourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea76a4c0071a24a97b5758451d555a8f733f1992",
-      "mtime": "1657947240",
-      "size": "133249",
-      "md5": "5a909071da0f4458bbea3314bc52875f",
-      "crc32": "6b487525",
-      "sha1": "15b7b65dcf69022e5efa97282a51789f3a8c5f07",
+      "btih": "f32616ba06803dd9ef783b8017322a1b7ccdd72d",
+      "mtime": "1657990717",
+      "size": "134087",
+      "md5": "3dbd69dba64560141ef922ab3e0e1625",
+      "crc32": "da17aa15",
+      "sha1": "37249e71ea818311a385006a79999a3557eca3d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wcfcourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "39ff6e96b0de31f8fb7f324c09478198",
+      "md5": "4e74c0a29783f4458ca863aa71d98766",
       "summation": "md5"
     },
     {
       "name": "wcfcourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657944424",
-      "size": "708608",
-      "md5": "547c6fe189f3d81d8103c0f4929adb8a",
-      "crc32": "5c251770",
-      "sha1": "404eb8f2875e1e8208d75a2557c95354b7ab7070",
+      "mtime": "1657986701",
+      "size": "712704",
+      "md5": "5751d4887ec9b8f83d39e53669a6d94c",
+      "crc32": "dcd11f8f",
+      "sha1": "163b4acba3ee1a35cac3a507eca844ce4ff6c88b",
       "format": "Metadata"
     },
     {
@@ -6552,9 +6594,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 622,
-  "item_last_updated": 1657947240,
-  "item_size": 66748994,
+  "files_count": 626,
+  "item_last_updated": 1657990717,
+  "item_size": 67145510,
   "metadata": {
     "identifier": "wcfcourier-2022",
     "collection": [
@@ -6571,768 +6613,1264 @@
     "publicdate": "2022-03-25 14:09:45",
     "addeddate": "2022-03-25 14:09:45"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1571452954,
-  "wcfcourier-2022": {
-    "role": "WebArea",
-    "name": "Waterloo-Cedar Falls Courier: The Cedar Valley's h | The Cedar Valley's Home Page",
-    "children": [
-      {
-        "role": "link",
-        "name": "Skip to main content"
-      },
-      {
-        "role": "link",
-        "name": "Skip to main content"
-      },
-      {
-        "role": "link",
-        "name": "Waterloo Cedar Falls Courier"
-      },
-      {
-        "role": "button",
-        "name": "Submit Site Search"
-      },
-      {
-        "role": "textbox",
-        "name": "Search The Courier",
-        "description": "Site Search"
-      },
-      {
-        "role": "link",
-        "name": "Subscribe $1 for 6 months"
-      },
-      {
-        "role": "button",
-        "name": "Main Menu"
-      },
-      {
-        "role": "link",
-        "name": "Log In"
-      },
-      {
-        "role": "link",
-        "name": "E-Edition"
-      },
-      {
-        "role": "link",
-        "name": "News"
-      },
-      {
-        "role": "link",
-        "name": "Obituaries"
-      },
-      {
-        "role": "link",
-        "name": "Sports"
-      },
-      {
-        "role": "link",
-        "name": "Opinion"
-      },
-      {
-        "role": "link",
-        "name": "Entertainment"
-      },
-      {
-        "role": "link",
-        "name": "Lifestyles"
-      },
-      {
-        "role": "link",
-        "name": "Jobs"
-      },
-      {
-        "role": "link",
-        "name": "74\u00b0 Mostly Cloudy"
-      },
-      {
-        "role": "region",
-        "name": "Main Content",
-        "children": [
-          {
-            "role": "link",
-            "name": "Waterloo Open gets off to late start as Richey leads after first round"
-          },
-          {
-            "role": "link",
-            "name": "Waterloo Open gets off to late start as Richey leads after first round"
-          },
-          {
-            "role": "link",
-            "name": "UNI golfers prepare for next season at Waterloo Open"
-          },
-          {
-            "role": "link",
-            "name": "UNI golfers prepare for next season at Waterloo Open"
-          },
-          {
-            "role": "link",
-            "name": "Hinson: Don\u2019t prosecute women for abortions, but doctors could be"
-          },
-          {
-            "role": "link",
-            "name": "Hinson: Don\u2019t prosecute women for abortions, but doctors could be"
-          },
-          {
-            "role": "link",
-            "name": "Some charges against East Moline woman accused in fatal I-74 bridge collision dropped"
-          },
-          {
-            "role": "link",
-            "name": "Some charges against East Moline woman accused in fatal I-74 bridge collision dropped"
-          },
-          {
-            "role": "link",
-            "name": "Former captain Olson returns to Black Hawks as assistant coach"
-          },
-          {
-            "role": "link",
-            "name": "Former captain Olson returns to Black Hawks as assistant coach"
-          },
-          {
-            "role": "link",
-            "name": "Capitol Notebook: Iowa criminal investigation official to head state\u2019s school safety bureau"
-          },
-          {
-            "role": "link",
-            "name": "Capitol Notebook: Iowa criminal investigation official to head state\u2019s school safety bureau"
-          },
-          {
-            "role": "link",
-            "name": "PHOTOS: Action from the opening round of the 89th Waterloo Open Friday"
-          },
-          {
-            "role": "link",
-            "name": "PHOTOS: Action from the opening round of the 89th Waterloo Open Friday"
-          },
-          {
-            "role": "region",
-            "name": "Advertisement",
-            "description": "3rd party ad content"
-          },
-          {
-            "role": "heading",
-            "name": "Recommended For You",
-            "level": 3
-          },
-          {
-            "role": "link",
-            "name": "Police investigating grocery store robbery in Waterloo"
-          },
-          {
-            "role": "link",
-            "name": "Police investigating grocery store robbery in Waterloo"
-          },
-          {
-            "role": "link",
-            "name": "Waterloo and Cedar Falls neighbors: Obituaries for July 15"
-          },
-          {
-            "role": "link",
-            "name": "Waterloo and Cedar Falls neighbors: Obituaries for July 15"
-          },
-          {
-            "role": "link",
-            "name": "Former accountant arrested for allegedly stealing from business"
-          },
-          {
-            "role": "link",
-            "name": "Former accountant arrested for allegedly stealing from business"
-          },
-          {
-            "role": "region",
-            "name": "Advertisement",
-            "description": "3rd party ad content"
-          },
-          {
-            "role": "heading",
-            "name": "The Latest",
-            "level": 3
-          },
-          {
-            "role": "link",
-            "name": "Waterloo and Cedar Falls speaks up: Letters to the editor for the week of Jul. 15, 2022"
-          },
-          {
-            "role": "link",
-            "name": "Waterloo and Cedar Falls speaks up: Letters to the editor for the week of Jul. 15, 2022"
-          },
-          {
-            "role": "link",
-            "name": "Arizona 12-year-old chose John Deere for Make-A-Wish visit"
-          },
-          {
-            "role": "link",
-            "name": "Arizona 12-year-old chose John Deere for Make-A-Wish visit"
-          },
-          {
-            "role": "link",
-            "name": "What you missed this week in notable Waterloo and Cedar Falls crimes and court cases"
-          },
-          {
-            "role": "link",
-            "name": "What you missed this week in notable Waterloo and Cedar Falls crimes and court cases"
-          },
-          {
-            "role": "link",
-            "name": "Facing housing crunch, University of Iowa reopening dorm, nixing quarantine space"
-          },
-          {
-            "role": "link",
-            "name": "Facing housing crunch, University of Iowa reopening dorm, nixing quarantine space"
-          },
-          {
-            "role": "heading",
-            "name": "Interact With Us",
-            "level": 3
-          },
-          {
-            "role": "link",
-            "name": "Get the most recent local obituaries delivered to your inbox."
-          },
-          {
-            "role": "link",
-            "name": "Get the most recent local obituaries delivered to your inbox."
-          },
-          {
-            "role": "link",
-            "name": "Discover something delicious with our Food & Drink newsletter!"
-          },
-          {
-            "role": "link",
-            "name": "Discover something delicious with our Food & Drink newsletter!"
-          },
-          {
-            "role": "link",
-            "name": "Latest Video"
-          },
-          {
-            "role": "link",
-            "name": "Two London families have epic water balloon battle during heat wave"
-          },
-          {
-            "role": "link",
-            "name": "Two London families have epic water balloon battle during heat wave"
-          },
-          {
-            "role": "link",
-            "name": "Sweet like sugar: Survey finds many don't know where sugar is lurking in their food"
-          },
-          {
-            "role": "link",
-            "name": "Sweet like sugar: Survey finds many don't know where sugar is lurking in their food"
-          },
-          {
-            "role": "link",
-            "name": "Hugh Grant tipped to play Prince Andrew in new movie"
-          },
-          {
-            "role": "link",
-            "name": "Hugh Grant tipped to play Prince Andrew in new movie"
-          },
-          {
-            "role": "link",
-            "name": "TikTok to put content ratings on videos that show 'overtly mature' themes"
-          },
-          {
-            "role": "link",
-            "name": "TikTok to put content ratings on videos that show 'overtly mature' themes"
-          },
-          {
-            "role": "link",
-            "name": "Sports"
-          },
-          {
-            "role": "link",
-            "name": "Game postponed, Wages honored"
-          },
-          {
-            "role": "link",
-            "name": "Game postponed, Wages honored"
-          },
-          {
-            "role": "link",
-            "name": "Saturday at St. Andrews: Wagers to watch in third round of British Open"
-          },
-          {
-            "role": "link",
-            "name": "Saturday at St. Andrews: Wagers to watch in third round of British Open"
-          },
-          {
-            "role": "link",
-            "name": "FrontPageBets analyzes NBA futures as free agency shakes up contenders"
-          },
-          {
-            "role": "link",
-            "name": "FrontPageBets analyzes NBA futures as free agency shakes up contenders"
-          },
-          {
-            "role": "link",
-            "name": "Hawkeyes' Ortega honored for being herself"
-          },
-          {
-            "role": "link",
-            "name": "Hawkeyes' Ortega honored for being herself"
-          },
-          {
-            "role": "heading",
-            "name": "Listen Now Podcasts",
-            "level": 3
-          },
-          {
-            "role": "link",
-            "name": "Discovery of bowhunter's remains after more than five decades gives family closure | Behind the Headlines Podcast"
-          },
-          {
-            "role": "link",
-            "name": "Discovery of bowhunter's remains after more than five decades gives family closure | Behind the Headlines Podcast"
-          },
-          {
-            "role": "link",
-            "name": "Why are teens reporting record levels of sadness? | The Ethical Life podcast"
-          },
-          {
-            "role": "link",
-            "name": "Why are teens reporting record levels of sadness? | The Ethical Life podcast"
-          },
-          {
-            "role": "link",
-            "name": "The top things everyone should know about weather | Across the Sky podcast"
-          },
-          {
-            "role": "link",
-            "name": "The top things everyone should know about weather | Across the Sky podcast"
-          },
-          {
-            "role": "link",
-            "name": "Listen to Across the Sky podcast; episode 13 coming soon!"
-          },
-          {
-            "role": "link",
-            "name": "Listen to Across the Sky podcast; episode 13 coming soon!"
-          },
-          {
-            "role": "link",
-            "name": "Entertainment"
-          },
-          {
-            "role": "link",
-            "name": "Hugh Grant tipped to play Prince Andrew in new movie"
-          },
-          {
-            "role": "link",
-            "name": "Hugh Grant tipped to play Prince Andrew in new movie"
-          },
-          {
-            "role": "link",
-            "name": "Alex Rodriguez calls Jennifer Lopez the greatest performer alive"
-          },
-          {
-            "role": "link",
-            "name": "Alex Rodriguez calls Jennifer Lopez the greatest performer alive"
-          },
-          {
-            "role": "link",
-            "name": "Robert Downey Jr. reportedly paid for Armie Hammer to attend rehab"
-          },
-          {
-            "role": "link",
-            "name": "Robert Downey Jr. reportedly paid for Armie Hammer to attend rehab"
-          },
-          {
-            "role": "heading",
-            "name": "Local Events",
-            "level": 3
-          },
-          {
-            "role": "heading",
-            "name": "Affiliate",
-            "level": 3
-          },
-          {
-            "role": "link",
-            "name": "Make the most of Amazon Prime Day with these 10 tech deals"
-          },
-          {
-            "role": "link",
-            "name": "Make the most of Amazon Prime Day with these 10 tech deals"
-          },
-          {
-            "role": "link",
-            "name": "4 gifts for the sports enthusiast"
-          },
-          {
-            "role": "link",
-            "name": "4 gifts for the sports enthusiast"
-          },
-          {
-            "role": "link",
-            "name": "6 items every incoming freshman needs for college"
-          },
-          {
-            "role": "link",
-            "name": "6 items every incoming freshman needs for college"
-          },
-          {
-            "role": "link",
-            "name": "7 must-buy items for the home chef"
-          },
-          {
-            "role": "link",
-            "name": "7 must-buy items for the home chef"
-          },
-          {
-            "role": "link",
-            "name": "Latest Galleries"
-          },
-          {
-            "role": "link",
-            "name": "Not real news: Fact-checking claims about medically necessary abortions, gas prices and more"
-          },
-          {
-            "role": "link",
-            "name": "Not real news: Fact-checking claims about medically necessary abortions, gas prices and more"
-          },
-          {
-            "role": "link",
-            "name": "10 iconic filming locations in New York City"
-          },
-          {
-            "role": "link",
-            "name": "10 iconic filming locations in New York City"
-          },
-          {
-            "role": "link",
-            "name": "10 iconic filming locations in Los Angeles"
-          },
-          {
-            "role": "link",
-            "name": "10 iconic filming locations in Los Angeles"
-          },
-          {
-            "role": "link",
-            "name": "History of famous firsts in space"
-          },
-          {
-            "role": "link",
-            "name": "History of famous firsts in space"
-          },
-          {
-            "role": "link",
-            "name": "Local Businesses"
-          },
-          {
-            "role": "link",
-            "name": "Midwest Overhead Crane Corp"
-          },
-          {
-            "role": "link",
-            "name": "13900 Sunfish Lake Blvd, Ramsey, MN 55303"
-          },
-          {
-            "role": "link",
-            "name": "AG Vantage FS"
-          },
-          {
-            "role": "link",
-            "name": "1600 8TH ST. SW, Waverly, IA 50677"
-          },
-          {
-            "role": "link",
-            "name": "International Paper"
-          },
-          {
-            "role": "link",
-            "name": "800 W Parker St, Waterloo, IA 50703"
-          },
-          {
-            "role": "heading",
-            "name": "Print Ads",
-            "level": 3
-          },
-          {
-            "role": "link",
-            "name": "FACTORY DIRECT MATTRESS - Ad from 2022-07-10"
-          },
-          {
-            "role": "text",
-            "name": "Furniture"
-          },
-          {
-            "role": "link",
-            "name": "CNA - Ad from 2022-07-10"
-          },
-          {
-            "role": "text",
-            "name": "Office"
-          },
-          {
-            "role": "link",
-            "name": "Waterloo Community Schools - Legals - Ad from 2022-07-15"
-          },
-          {
-            "role": "text",
-            "name": "Other"
-          },
-          {
-            "role": "link",
-            "name": "Nartak Media Group - Ad from 2022-07-10"
-          },
-          {
-            "role": "text",
-            "name": "Office"
-          },
-          {
-            "role": "link",
-            "name": "Community Bank & Trust - Ad from 2022-07-10"
-          },
-          {
-            "role": "text",
-            "name": "Finance"
-          },
-          {
-            "role": "link",
-            "name": "FARMERS NATIONAL COMPANY - Ad from 2022-07-10"
-          },
-          {
-            "role": "text",
-            "name": "Sale"
-          },
-          {
-            "role": "link",
-            "name": "HY-VEE FOOD STORES - Ad from 2022-07-13"
-          },
-          {
-            "role": "link",
-            "name": "SALE"
-          },
-          {
-            "role": "link",
-            "name": "EMMETT DONNELLY - Ad from 2022-07-10"
-          },
-          {
-            "role": "text",
-            "name": "Office"
-          },
-          {
-            "role": "link",
-            "name": "Cedar Falls, City of - Legals - Ad from 2022-07-13"
-          },
-          {
-            "role": "text",
-            "name": "Other"
-          },
-          {
-            "role": "link",
-            "name": "P&K Midwest - Ad from 2022-07-10"
-          },
-          {
-            "role": "link",
-            "name": "SALE"
-          },
-          {
-            "role": "link",
-            "name": "FACTORY DIRECT MATTRESS - Ad from 2022-07-10"
-          },
-          {
-            "role": "text",
-            "name": "Furniture"
-          },
-          {
-            "role": "link",
-            "name": "CNA - Ad from 2022-07-10"
-          },
-          {
-            "role": "text",
-            "name": "Office"
-          },
-          {
-            "role": "link",
-            "name": "Waterloo Community Schools - Legals - Ad from 2022-07-15"
-          },
-          {
-            "role": "text",
-            "name": "Other"
-          },
-          {
-            "role": "link",
-            "name": "Nartak Media Group - Ad from 2022-07-10"
-          },
-          {
-            "role": "text",
-            "name": "Office"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Waterloo Cedar Falls Courier"
-      },
-      {
-        "role": "link",
-        "name": "Facebook",
-        "description": "Facebook"
-      },
-      {
-        "role": "link",
-        "name": "Twitter",
-        "description": "Twitter"
-      },
-      {
-        "role": "link",
-        "name": "LinkedIn",
-        "description": "LinkedIn"
-      },
-      {
-        "role": "link",
-        "name": "Instagram",
-        "description": "Instagram"
-      },
-      {
-        "role": "heading",
-        "name": "Sites & Partners",
-        "level": 4
-      },
-      {
-        "role": "link",
-        "name": "Call the Courier"
-      },
-      {
-        "role": "link",
-        "name": "E-Edition"
-      },
-      {
-        "role": "link",
-        "name": "Email Updates"
-      },
-      {
-        "role": "link",
-        "name": "Events Calendar"
-      },
-      {
-        "role": "link",
-        "name": "Text Alerts"
-      },
-      {
-        "role": "link",
-        "name": "Online Features"
-      },
-      {
-        "role": "link",
-        "name": "CedarValleyInclusion.com"
-      },
-      {
-        "role": "heading",
-        "name": "Services",
-        "level": 4
-      },
-      {
-        "role": "link",
-        "name": "Activate Full Access"
-      },
-      {
-        "role": "link",
-        "name": "Advertise with Us"
-      },
-      {
-        "role": "link",
-        "name": "Contact Us"
-      },
-      {
-        "role": "link",
-        "name": "Job Search"
-      },
-      {
-        "role": "link",
-        "name": "Start a Subscription"
-      },
-      {
-        "role": "link",
-        "name": "Customer Service"
-      },
-      {
-        "role": "link",
-        "name": "Work here"
-      },
-      {
-        "role": "link",
-        "name": "Become a Carrier"
-      },
-      {
-        "role": "text",
-        "name": "\u00a9 Copyright 2022"
-      },
-      {
-        "role": "link",
-        "name": "The Courier"
-      },
-      {
-        "role": "text",
-        "name": ", 6915 Chancellor Drive, Suite B Cedar Falls, IA 50613"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "link",
-        "name": "Terms of Use"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "link",
-        "name": "Privacy Policy"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "link",
-        "name": "Do Not Sell My Info"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "Cookie Preferences"
-      },
-      {
-        "role": "text",
-        "name": "Powered by"
-      },
-      {
-        "role": "link",
-        "name": "BLOX Content Management System",
-        "description": "BLOX Content Management System"
-      },
-      {
-        "role": "text",
-        "name": "from"
-      },
-      {
-        "role": "link",
-        "name": "TownNews.com",
-        "description": "TownNews.com BLOX Newspaper Content Management"
-      },
-      {
-        "role": "text",
-        "name": "."
-      },
-      {
-        "role": "Iframe",
-        "name": ""
-      }
-    ]
-  },
+  "server": "ia601407.us.archive.org",
+  "uniq": 2085082641,
+  "wcfcourier-2022": [
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "text": "Skip to main content",
+      "url": "#main-page-container"
+    },
+    {
+      "text": "Skip to main content",
+      "url": "https://wcfcourier.com/#main-page-container"
+    },
+    {
+      "text": "",
+      "url": "https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjsv1bk4EKaDNWoEhueoMKFnNXnucrlz3TfJ110i5aumjGRgm6VIqEb85EYytVT65sF_FXRd3fBe3SOS5MI-H_L_nEXivJBHZUZB-YqbC5NcpwyTjGiEDBgo2pxWox3we27SRM5HXqINYjOvNYXN1_u2u6UU_zZ5hUPY5vRuD8-3BAYqGcUgiqXOtUu5kqPEm865wh4iN_tCM_mDTsfhS85Y6JR8GVfqtE7p7JCJ1sCt1YqqD8uOU8FboMaUFDXzcJhMzj2X8i3PYSn2RPvYGPSPry2KmB2PLptSjhZTIIb4_gdyTU5og_ab4v2tZjYg9GJDEYa9XKGM%2526sai%253DAMfl-YQjS-xGlbXneuUR-wZgDNEJatjWFMlZd4AJyKBVVg030_iypp9G1teiKgpapuKQnQZdTk3O8Ry6NYKZXIYaaFdPBth2ZYCILacw21uWeZ4P70cTfFIwM15zIQ0xqX7t%2526sig%253DCg0ArKJSzNiAsJKPwIKHEAE%2526fbs_aeid%253D%255Bgw_fbsaeid%255D%2526urlfix%253D1%2526adurl%253Dhttps://www.governmentjobs.com/careers/iowa?location[0]=eldora%20-%2050627%20-%20hardin%20county&sort=PositionTitle%7CAscending"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "\n                    \n                        \n                    \n                    \n                        72\u00b0\n                    \n                    \n                ",
+      "url": "/weather/?weather_zip=50613"
+    },
+    {
+      "text": "\n                                        \n        \n        \n     Log In\n                                    ",
+      "url": "https://wcfcourier.com/users/login/?referer_url=https%3A%2F%2Fwcfcourier.com%2F"
+    },
+    {
+      "text": "Subscribe $1 for 6 months",
+      "url": "https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=wcfcourier.com&SubscriberLevel=DOP&Return=https%3A%2F%2Fwcfcourier.com%2F#tracking-source=header&ir=true"
+    },
+    {
+      "text": "\n                                        \n                                        Guest\n                                    ",
+      "url": "https://wcfcourier.com/users/admin/"
+    },
+    {
+      "text": "Read Today's E-edition",
+      "url": "/eedition/"
+    },
+    {
+      "text": "\n                    \n                        \n                    News\n                ",
+      "url": "https://wcfcourier.com/news#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Local\n                                ",
+      "url": "https://wcfcourier.com/news/local/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    COVID-19\n                                ",
+      "url": "https://wcfcourier.com/resources#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Crime\n                                ",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Education\n                                ",
+      "url": "https://wcfcourier.com/news/local/education/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Politics\n                                ",
+      "url": "https://wcfcourier.com/news/local/govt-and-politics/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    State & Regional\n                                ",
+      "url": "https://wcfcourier.com/news/local/state-and-regional/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    National\n                                ",
+      "url": "https://wcfcourier.com/news/national/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    World\n                                ",
+      "url": "https://wcfcourier.com/news/world/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Public Records\n                                ",
+      "url": "https://wcfcourier.com/news/local/public-records/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Call the Courier\n                                ",
+      "url": "https://wcfcourier.com/special-section/call-the-courier/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Multimedia\n                                ",
+      "url": "https://wcfcourier.com/multimedia/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    News Tip\n                                ",
+      "url": "https://wcfcourier.com/news-tip/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Obituaries\n                ",
+      "url": "https://wcfcourier.com/lifestyles/announcements/obituaries/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Share a story\n                                ",
+      "url": "https://wcfcourier.com/place_an_ad/obituaries#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Recent Obituaries\n                                ",
+      "url": "https://wcfcourier.com/lifestyles/announcements/obituaries/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Find an Obituary\n                                ",
+      "url": "https://wcfcourier.com/lifestyles/announcements/obituaries/search/?c=lifestyles/announcements/obituaries*&t=article,collection#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Archives\n                                ",
+      "url": "https://wcfcourier.newspapers.com/?xid=1663#"
+    },
+    {
+      "text": "\n                    \n                        \n                    Opinion\n                ",
+      "url": "https://wcfcourier.com/opinion#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Submit a letter\n                                ",
+      "url": "https://wcfcourier.com/forms/contact/letter_to_the_editor/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Letters\n                                ",
+      "url": "https://wcfcourier.com/opinion/letters#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Editorial\n                                ",
+      "url": "https://wcfcourier.com/opinion/editorial#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Guest/Columnists\n                                ",
+      "url": "https://wcfcourier.com/opinion/columnists#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Sports\n                ",
+      "url": "https://wcfcourier.com/sports#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Cedar Valley Preps\n                                ",
+      "url": "https://wcfcourier.com/sports/high-school#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    College\n                                ",
+      "url": "https://wcfcourier.com/sports/college#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Waterloo Black Hawks\n                                ",
+      "url": "https://wcfcourier.com/sports/hockey/blackhawks#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Blogs\n                                ",
+      "url": "https://wcfcourier.com/sports/blogs#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Professional\n                                ",
+      "url": "https://wcfcourier.com/sports/professional/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Betting\n                                ",
+      "url": "https://wcfcourier.com/sports/betting/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Entertainment\n                ",
+      "url": "https://wcfcourier.com/entertainment#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Event Calendar\n                                ",
+      "url": "https://wcfcourier.com/calendar#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Local\n                                ",
+      "url": "https://wcfcourier.com/entertainment/local_entertainment/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Movies\n                                ",
+      "url": "https://wcfcourier.com/entertainment/movies#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Music\n                                ",
+      "url": "https://wcfcourier.com/entertainment/music#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Television\n                                ",
+      "url": "https://wcfcourier.com/entertainment/television/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    TV Guide\n                                ",
+      "url": "https://wcfcourier.com/entertainment/television/listings#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Games\n                                ",
+      "url": "https://wcfcourier.com/games#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Bookshelf\n                                ",
+      "url": "https://wcfcourier.com/bookshelf#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Contests\n                                ",
+      "url": "https://wcfcourier.com/contests/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Lifestyles\n                ",
+      "url": "https://wcfcourier.com/lifestyles#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Celebrations\n                                ",
+      "url": "https://wcfcourier.com/announcements/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Health\n                                ",
+      "url": "https://wcfcourier.com/lifestyles/health-med-fit#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Home & Garden\n                                ",
+      "url": "https://wcfcourier.com/lifestyles/home-and-garden#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Faith\n                                ",
+      "url": "https://wcfcourier.com/lifestyles/faith-and-values#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Food\n                                ",
+      "url": "https://wcfcourier.com/lifestyles/food-and-cooking#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Parenting\n                                ",
+      "url": "https://wcfcourier.com/lifestyles/parenting/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    People\n                                ",
+      "url": "https://wcfcourier.com/people/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Pets\n                                ",
+      "url": "https://wcfcourier.com/lifestyles/pets/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Travel\n                                ",
+      "url": "https://wcfcourier.com/travel/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Business\n                ",
+      "url": "https://wcfcourier.com/business/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Local \n                                ",
+      "url": "https://wcfcourier.com/business/local/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    World\n                                ",
+      "url": "https://wcfcourier.com/business/national-and-international/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Technology\n                                ",
+      "url": "https://wcfcourier.com/business/technology/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Speaking of Business\n                                ",
+      "url": "https://wcfcourier.com/business/speaking_of_business/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Submit a Speaking of Business\n                                ",
+      "url": "https://wcfcourier.com/forms/speakingofbusiness/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Bookshelf\n                                ",
+      "url": "https://wcfcourier.com/app/bookshelf/businessmonthly/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Personal Finance\n                                ",
+      "url": "https://wcfcourier.com/business/investment/personal-finance/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    Business Monthly\n                ",
+      "url": "https://wcfcourier.com/exclusive/businessmonthly/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Feast and Field\n                ",
+      "url": "https://wcfcourier.com/lifestyles/food-and-cooking/feast-and-field/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Partners\n                                ",
+      "url": "https://wcfcourier.com/lifestyles/food-and-cooking/feast-and-field/partners/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    Brand Ave. Studios\n                ",
+      "url": "https://wcfcourier.com/brandavestudios/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Print Edition\n                ",
+      "url": "https://wcfcourier.com/eedition#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    E-Edition\n                                ",
+      "url": "https://wcfcourier.com/eedition#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    E-Edition Archives\n                                ",
+      "url": "https://wcfcourier.com/news/archives/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                        \n                    Buy & Sell\n                ",
+      "url": "https://wcfcourier.com/ads#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Place an Ad\n                                ",
+      "url": "https://wcfcourier.com/place_an_ad#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Jobs\n                                ",
+      "url": "https://wcfcourier.com/jobs#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Homes\n                                ",
+      "url": "https://wcfcourier.com/homes#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Cars\n                                ",
+      "url": "https://autos.wcfcourier.com/"
+    },
+    {
+      "text": "\n                                    Classifieds\n                                ",
+      "url": "https://wcfcourier.com/ads#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Business Directory\n                                ",
+      "url": "https://wcfcourier.com/places#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    I Love A Deal\n                                ",
+      "url": "https://wcfcourier.com/deals/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Manage Subscription\n                                ",
+      "url": "https://wcfcourier.com/services#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Activate Digital Subscription\n                                ",
+      "url": "https://wcfcourier.com/activate/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Newsletter sign-up\n                                ",
+      "url": "https://wcfcourier.com/newsletters#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Subscribe\n                                ",
+      "url": "https://wcfcourier.com/subscribenow#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Contact us\n                                ",
+      "url": "https://wcfcourier.com/contact#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                                    Help Center\n                                ",
+      "url": "https://wcfcourier.com/helpcenter/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    Mobile Apps\n                ",
+      "url": "https://wcfcourier.com/apps/#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    Weather: Live Radar\n                ",
+      "url": "https://wcfcourier.com/weather/?mode=radar#tracking-source=menu-nav"
+    },
+    {
+      "text": "\n                    \n                    Facebook\n                ",
+      "url": "/facebook"
+    },
+    {
+      "text": "\n                    \n                    Twitter\n                ",
+      "url": "/twitter"
+    },
+    {
+      "text": "\n                    \n                    LinkedIn\n                ",
+      "url": "https://www.linkedin.com/company/waterloo-cedar-falls-courier"
+    },
+    {
+      "text": "\n                    \n                    Instagram\n                ",
+      "url": "/instagram"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "/terms"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Subscribe $1 for 6 months",
+      "url": "https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=wcfcourier.com&SubscriberLevel=DOP&Return=https%3A%2F%2Fwcfcourier.com%2F#tracking-source=header&ir=true"
+    },
+    {
+      "text": "Read Today's E-Edition",
+      "url": "/eedition/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Join",
+      "url": "https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=wcfcourier.com&SubscriberLevel=DOP&Return=https%3A%2F%2Fwcfcourier.com%2F#tracking-source=header&ir=true"
+    },
+    {
+      "text": "\n                                                    \n                                                        \n        \n        \n    \n                                                    \n                                                    Log In\n                                                ",
+      "url": "https://wcfcourier.com/users/login/?referer_url=https%3A%2F%2Fwcfcourier.com%2F"
+    },
+    {
+      "text": "My Membership",
+      "url": "https://subscriberservices.lee.net/subscriberservices/Content/AccountStatus.aspx?Domain=wcfcourier.com"
+    },
+    {
+      "text": "Help Center",
+      "url": "/helpcenter/"
+    },
+    {
+      "text": " Dashboard",
+      "url": "https://wcfcourier.com/users/admin/"
+    },
+    {
+      "text": " Profile",
+      "url": ""
+    },
+    {
+      "text": " Saved items",
+      "url": "https://wcfcourier.com/users/admin/list/"
+    },
+    {
+      "text": "E-Edition\n                    \n                ",
+      "url": "https://wcfcourier.com/eedition/#tracking-source=main-nav"
+    },
+    {
+      "text": "News\n                    \n                ",
+      "url": "https://wcfcourier.com/news/#tracking-source=main-nav"
+    },
+    {
+      "text": "Obituaries\n                    \n                ",
+      "url": "https://wcfcourier.com/lifestyles/announcements/obituaries/#tracking-source=main-nav"
+    },
+    {
+      "text": "Sports\n                    \n                ",
+      "url": "https://wcfcourier.com/sports/#tracking-source=main-nav"
+    },
+    {
+      "text": "Opinion\n                    \n                ",
+      "url": "https://wcfcourier.com/opinion/#tracking-source=main-nav"
+    },
+    {
+      "text": "Entertainment \n                    \n                ",
+      "url": "https://wcfcourier.com/entertainment/#tracking-source=main-nav"
+    },
+    {
+      "text": "Lifestyles\n                    \n                ",
+      "url": "https://wcfcourier.com/lifestyles/#tracking-source=main-nav"
+    },
+    {
+      "text": "Jobs\n                    \n                ",
+      "url": "https://wcfcourier.com/jobs/#tracking-source=main-nav"
+    },
+    {
+      "text": "\n                                                \n                                                    \n                                                    \n                                                \n                                                \n                                                    72\u00b0\n                                                    Cloudy\n                                                \n                                                \n                                            ",
+      "url": "/weather/?weather_zip=50613"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/three-arrested-after-driver-leads-cedar-falls-police-on-high-speed-chase/article_6cacc45c-c36a-5696-96d8-0f8c512c64cc.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Three arrested after driver leads Cedar Falls police on high speed chase",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/three-arrested-after-driver-leads-cedar-falls-police-on-high-speed-chase/article_6cacc45c-c36a-5696-96d8-0f8c512c64cc.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/state-and-regional/11-iowa-nursing-homes-have-closed-since-december-amid-limited-state-funding/article_66ed1d62-6929-5e88-a151-d5ea7148fab7.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            11 Iowa nursing homes have closed since December amid limited state funding",
+      "url": "https://wcfcourier.com/news/state-and-regional/11-iowa-nursing-homes-have-closed-since-december-amid-limited-state-funding/article_66ed1d62-6929-5e88-a151-d5ea7148fab7.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/education/hawkeye-community-college-instant-enrollment-event-set-thursday/article_81c1b8eb-7be8-53e6-93cb-0810168a123a.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Hawkeye Community College instant enrollment event set Thursday",
+      "url": "https://wcfcourier.com/news/local/education/hawkeye-community-college-instant-enrollment-event-set-thursday/article_81c1b8eb-7be8-53e6-93cb-0810168a123a.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/state-and-regional/govt-and-politics/tucker-carlson-rallies-conservatives-at-evangelical-advocacy-event/article_7cacccef-45a0-5855-bf5e-a7fc9522f983.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Tucker Carlson rallies conservatives at evangelical advocacy event",
+      "url": "https://wcfcourier.com/news/state-and-regional/govt-and-politics/tucker-carlson-rallies-conservatives-at-evangelical-advocacy-event/article_7cacccef-45a0-5855-bf5e-a7fc9522f983.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/cedar-valley-united-way-announces-1-7-million-in-grants/article_122e2122-3636-591e-ac90-1750fa1dfce2.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Cedar Valley United Way announces $1.7 million in grants",
+      "url": "https://wcfcourier.com/news/local/cedar-valley-united-way-announces-1-7-million-in-grants/article_122e2122-3636-591e-ac90-1750fa1dfce2.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/man-arrested-in-cedar-falls-vet-clinic-burglaries/article_bb31bade-af78-54c9-bc25-93dba71293c7.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Man arrested in Cedar Falls vet clinic burglaries",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/man-arrested-in-cedar-falls-vet-clinic-burglaries/article_bb31bade-af78-54c9-bc25-93dba71293c7.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/sports/golf/professional/waterloo-open-gets-off-to-late-start-as-richey-leads-after-first-round/article_8bad5e67-d111-5697-adcc-662e66caa7fe.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Waterloo Open gets off to late start as Richey leads after first round",
+      "url": "https://wcfcourier.com/sports/golf/professional/waterloo-open-gets-off-to-late-start-as-richey-leads-after-first-round/article_8bad5e67-d111-5697-adcc-662e66caa7fe.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/sports/college/uni/golf/uni-golfers-prepare-for-next-season-at-waterloo-open/article_2077cae6-4553-5850-be55-9c034a6fdf1e.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            UNI golfers prepare for next season at Waterloo Open",
+      "url": "https://wcfcourier.com/sports/college/uni/golf/uni-golfers-prepare-for-next-season-at-waterloo-open/article_2077cae6-4553-5850-be55-9c034a6fdf1e.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/national/govt-and-politics/hinson-don-t-prosecute-women-for-abortions-but-doctors-could-be/article_dd6c0c8f-a0c6-56a5-8b27-c7ed1ad035cc.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Hinson: Don\u2019t prosecute women for abortions, but doctors could be",
+      "url": "https://wcfcourier.com/news/national/govt-and-politics/hinson-don-t-prosecute-women-for-abortions-but-doctors-could-be/article_dd6c0c8f-a0c6-56a5-8b27-c7ed1ad035cc.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/some-charges-against-east-moline-woman-accused-in-fatal-i-74-bridge-collision-dropped/article_958cb34c-eb23-5bd8-b832-f2d1539a31d4.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Some charges against East Moline woman accused in fatal I-74 bridge collision dropped",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/some-charges-against-east-moline-woman-accused-in-fatal-i-74-bridge-collision-dropped/article_958cb34c-eb23-5bd8-b832-f2d1539a31d4.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/sports/hockey/blackhawks/former-captain-olson-returns-to-black-hawks-as-assistant-coach/article_153d0aae-8e40-514a-8d13-d761437894e4.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Former captain Olson returns to Black Hawks as assistant coach",
+      "url": "https://wcfcourier.com/sports/hockey/blackhawks/former-captain-olson-returns-to-black-hawks-as-assistant-coach/article_153d0aae-8e40-514a-8d13-d761437894e4.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/state-and-regional/govt-and-politics/capitol-notebook-iowa-criminal-investigation-official-to-head-state-s-school-safety-bureau/article_a2a0695f-231a-5b60-8432-1008249a2164.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Capitol Notebook: Iowa criminal investigation official to head state\u2019s school safety bureau",
+      "url": "https://wcfcourier.com/news/state-and-regional/govt-and-politics/capitol-notebook-iowa-criminal-investigation-official-to-head-state-s-school-safety-bureau/article_a2a0695f-231a-5b60-8432-1008249a2164.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/sports/golf/photos-action-from-the-opening-round-of-the-89th-waterloo-open-friday/collection_6c016060-d84a-5d66-8a43-bb632fcac60e.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            PHOTOS: Action from the opening round of the 89th Waterloo Open Friday",
+      "url": "https://wcfcourier.com/sports/golf/photos-action-from-the-opening-round-of-the-89th-waterloo-open-friday/collection_6c016060-d84a-5d66-8a43-bb632fcac60e.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/local-groups-seek-volunteers/article_4ba3ab48-9187-5a5e-8a47-34c39c337628.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Local groups seek volunteers",
+      "url": "https://wcfcourier.com/news/local/local-groups-seek-volunteers/article_4ba3ab48-9187-5a5e-8a47-34c39c337628.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/education/hawkeye-community-college-to-hold-ignite-parent-s-night-monday/article_fdd7fea9-2569-534b-8cb9-98fcc115eb61.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Hawkeye Community College to hold IGNITE parent\u2019s night Monday",
+      "url": "https://wcfcourier.com/news/local/education/hawkeye-community-college-to-hold-ignite-parent-s-night-monday/article_fdd7fea9-2569-534b-8cb9-98fcc115eb61.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/education/wartburg-receives-grant-for-electric-vehicle-charging-stations/article_1b7a01c3-b287-5400-addd-5baaa73a7518.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Wartburg receives grant for electric vehicle charging stations",
+      "url": "https://wcfcourier.com/news/local/education/wartburg-receives-grant-for-electric-vehicle-charging-stations/article_1b7a01c3-b287-5400-addd-5baaa73a7518.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/police-investigating-grocery-store-robbery-in-waterloo/article_525e17e3-885d-5f69-91ab-cdd03c131041.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Police investigating grocery store robbery in Waterloo",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/police-investigating-grocery-store-robbery-in-waterloo/article_525e17e3-885d-5f69-91ab-cdd03c131041.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/irish-whiskey-history-and-music-workshops-among-offerings-at-16th-annual-iowa-irish-fest/article_771877a0-ff53-57a3-a27a-b0c8b3c6e4f2.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Irish whiskey, history and music workshops among offerings at 16th annual Iowa Irish Fest",
+      "url": "https://wcfcourier.com/news/local/irish-whiskey-history-and-music-workshops-among-offerings-at-16th-annual-iowa-irish-fest/article_771877a0-ff53-57a3-a27a-b0c8b3c6e4f2.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                    Article-video\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/weather/watch-now-rain-likely-in-eastern-iowa-friday-hot-temperatures-in-western-iowa/article_6790fcbd-5145-52bf-8194-5bc582774d5b.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Watch now: Rain likely in eastern Iowa Friday, hot temperatures in western Iowa",
+      "url": "https://wcfcourier.com/weather/watch-now-rain-likely-in-eastern-iowa-friday-hot-temperatures-in-western-iowa/article_6790fcbd-5145-52bf-8194-5bc582774d5b.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/govt-and-politics/independence-special-mayoral-election-set-for-tuesday/article_85793fc8-cce6-589c-b3c2-8662603e3743.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Independence special mayoral election set for Tuesday",
+      "url": "https://wcfcourier.com/news/local/govt-and-politics/independence-special-mayoral-election-set-for-tuesday/article_85793fc8-cce6-589c-b3c2-8662603e3743.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/officials-hope-to-complete-waterloo-airport-parking-lot-project-next-year/article_3d084cc7-14d1-5d99-b993-7b3eb207ec4a.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Officials hope to complete Waterloo airport parking lot project next year",
+      "url": "https://wcfcourier.com/news/local/officials-hope-to-complete-waterloo-airport-parking-lot-project-next-year/article_3d084cc7-14d1-5d99-b993-7b3eb207ec4a.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/govt-and-politics/waterloo-chief-financial-officer-set-to-retire/article_f05959fb-0574-55bf-a59d-adb005408ecf.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Waterloo chief financial officer set to retire",
+      "url": "https://wcfcourier.com/news/local/govt-and-politics/waterloo-chief-financial-officer-set-to-retire/article_f05959fb-0574-55bf-a59d-adb005408ecf.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/lifestyles/ask-amy-adolescent-s-gender-identification-causes-confusion/article_4c468321-c1b2-540c-aab6-c40e215b89bd.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            ASK AMY: Adolescent\u2019s gender identification causes confusion",
+      "url": "https://wcfcourier.com/lifestyles/ask-amy-adolescent-s-gender-identification-causes-confusion/article_4c468321-c1b2-540c-aab6-c40e215b89bd.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/sports/basketball/professional/jacobson-sees-big-things-for-former-panthers-in-nba-summer-league/article_c470c34c-a67e-5167-82b0-45bee6dceece.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Jacobson sees big things for former Panthers in NBA Summer League",
+      "url": "https://wcfcourier.com/sports/basketball/professional/jacobson-sees-big-things-for-former-panthers-in-nba-summer-league/article_c470c34c-a67e-5167-82b0-45bee6dceece.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/a-time-to-celebrate-heritage-days-takes-over-waverly-this-weekend/article_0d641f0e-5d54-5f92-93f7-ef85b74854d9.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            A time to celebrate: Heritage Days takes over Waverly this weekend",
+      "url": "https://wcfcourier.com/news/local/a-time-to-celebrate-heritage-days-takes-over-waverly-this-weekend/article_0d641f0e-5d54-5f92-93f7-ef85b74854d9.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/emergency-food-and-shelter-funding-applications-accepted/article_6f1ce7f5-8825-5343-8c94-08dfc0ca40ac.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Emergency food and shelter funding applications accepted",
+      "url": "https://wcfcourier.com/news/local/emergency-food-and-shelter-funding-applications-accepted/article_6f1ce7f5-8825-5343-8c94-08dfc0ca40ac.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/former-accountant-arrested-for-allegedly-stealing-from-business/article_ef3ca707-189d-5dd8-9adc-3e687fa09a95.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Former accountant arrested for allegedly stealing from business",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/former-accountant-arrested-for-allegedly-stealing-from-business/article_ef3ca707-189d-5dd8-9adc-3e687fa09a95.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/sports/baseball/cedar-falls-phillips-named-to-first-team-all-mississippi-valley/article_540832d3-2962-5497-8124-67cb43b76b95.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Cedar Falls' Phillips named to first team all-Mississippi Valley",
+      "url": "https://wcfcourier.com/sports/baseball/cedar-falls-phillips-named-to-first-team-all-mississippi-valley/article_540832d3-2962-5497-8124-67cb43b76b95.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/catholic-daughters-award-scholarships/article_c9c7d960-9b39-5e3a-9c3e-d639250de4bc.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            Catholic Daughters award scholarships",
+      "url": "https://wcfcourier.com/news/local/catholic-daughters-award-scholarships/article_c9c7d960-9b39-5e3a-9c3e-d639250de4bc.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/update-with-names-one-transported-for-non-life-threatening-stab-wound-near-waterloos-greenbelt-lake/article_c5e630f1-1e64-5e8b-9e9d-69c8e66339d3.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n        \n        \n            UPDATE WITH NAMES: One transported for non-life threatening stab wound near Waterloo's Greenbelt Lake",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/update-with-names-one-transported-for-non-life-threatening-stab-wound-near-waterloos-greenbelt-lake/article_c5e630f1-1e64-5e8b-9e9d-69c8e66339d3.html#tracking-source=home-top-story"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/man-arrested-in-cedar-falls-vet-clinic-burglaries/article_bb31bade-af78-54c9-bc25-93dba71293c7.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n        \n        \n            Man arrested in Cedar Falls vet clinic burglaries",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/man-arrested-in-cedar-falls-vet-clinic-burglaries/article_bb31bade-af78-54c9-bc25-93dba71293c7.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/waterloo-and-cedar-falls-neighbors-obituaries-for-july-16/collection_7ed16db2-fb22-54fa-867b-52439631c9fc.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n        \n        \n            Waterloo and Cedar Falls neighbors: Obituaries for July 16",
+      "url": "https://wcfcourier.com/news/local/waterloo-and-cedar-falls-neighbors-obituaries-for-july-16/collection_7ed16db2-fb22-54fa-867b-52439631c9fc.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/police-investigating-grocery-store-robbery-in-waterloo/article_525e17e3-885d-5f69-91ab-cdd03c131041.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n        \n        \n            Police investigating grocery store robbery in Waterloo",
+      "url": "https://wcfcourier.com/news/local/crime-and-courts/police-investigating-grocery-store-robbery-in-waterloo/article_525e17e3-885d-5f69-91ab-cdd03c131041.html#tracking-source=mp-homepage"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/newly-constructed-houses-you-can-buy-in-waterloo-and-cedar-falls/collection_93f93387-7403-58f2-b5c8-c9f9e270579d.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n        \n            Newly constructed houses you can buy in Waterloo and Cedar Falls",
+      "url": "https://wcfcourier.com/news/local/newly-constructed-houses-you-can-buy-in-waterloo-and-cedar-falls/collection_93f93387-7403-58f2-b5c8-c9f9e270579d.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/waterloo-and-cedar-falls-neighbors-obituaries-for-july-16/collection_7ed16db2-fb22-54fa-867b-52439631c9fc.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n        \n            Waterloo and Cedar Falls neighbors: Obituaries for July 16",
+      "url": "https://wcfcourier.com/news/local/waterloo-and-cedar-falls-neighbors-obituaries-for-july-16/collection_7ed16db2-fb22-54fa-867b-52439631c9fc.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/state-and-regional/govt-and-politics/tucker-carlson-rallies-conservatives-at-evangelical-advocacy-event/article_e11892d5-10b7-57ce-a8b5-bc0d30175f77.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n        \n            Tucker Carlson rallies conservatives at evangelical advocacy event",
+      "url": "https://wcfcourier.com/news/state-and-regional/govt-and-politics/tucker-carlson-rallies-conservatives-at-evangelical-advocacy-event/article_e11892d5-10b7-57ce-a8b5-bc0d30175f77.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/local/waterloo-and-cedar-falls-speaks-up-letters-to-the-editor-for-the-week-of-jul/collection_0a3a24f8-8594-5e9c-914d-4190cb7c9cfe.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n        \n        \n            Waterloo and Cedar Falls speaks up: Letters to the editor for the week of Jul. 15, 2022",
+      "url": "https://wcfcourier.com/news/local/waterloo-and-cedar-falls-speaks-up-letters-to-the-editor-for-the-week-of-jul/collection_0a3a24f8-8594-5e9c-914d-4190cb7c9cfe.html#tracking-source=home-the-latest"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/members/promo/email/get-the-most-recent-local-obituaries-delivered-to-your-inbox/article_158c4d75-5d66-5c5e-9649-dd6b271b3737.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n        \n        \n            Get the most recent local obituaries delivered to your inbox.",
+      "url": "https://wcfcourier.com/members/promo/email/get-the-most-recent-local-obituaries-delivered-to-your-inbox/article_158c4d75-5d66-5c5e-9649-dd6b271b3737.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/members/promo/email/discover-something-delicious-with-our-food-drink-newsletter/article_adc56aac-9790-53ca-8f62-ec041cd07bb0.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n        \n        \n            Discover something delicious with our Food & Drink newsletter!",
+      "url": "https://wcfcourier.com/members/promo/email/discover-something-delicious-with-our-food-drink-newsletter/article_adc56aac-9790-53ca-8f62-ec041cd07bb0.html#tracking-source=home-promo"
+    },
+    {
+      "text": "\n                \n                Latest Video\n                \n                    ",
+      "url": "/video/"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/news/national/ricky-martin-accused-of-incest-by-his-21-year-old-nephew-and-could-face-up/video_350223a5-ac7f-5fd4-9297-efce01ab07aa.html"
+    },
+    {
+      "text": "\n        \n        \n            Ricky Martin accused of incest by his 21-year-old nephew and could face up to 50 years\u2019 jail if convicted",
+      "url": "/news/national/ricky-martin-accused-of-incest-by-his-21-year-old-nephew-and-could-face-up/video_350223a5-ac7f-5fd4-9297-efce01ab07aa.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/weather/saturday-july-16-weather-update-for-iowa-and-western-illinois/video_b324d711-056b-506a-a28a-a33ecf9b65a3.html"
+    },
+    {
+      "text": "\n        \n        \n            Saturday, July 16 weather update for Iowa and western Illinois",
+      "url": "/weather/saturday-july-16-weather-update-for-iowa-and-western-illinois/video_b324d711-056b-506a-a28a-a33ecf9b65a3.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/news/world/two-london-families-have-epic-water-balloon-battle-during-heat-wave/video_66701384-38eb-53b4-b6eb-d7303c06aa1c.html"
+    },
+    {
+      "text": "\n        \n        \n            Two London families have epic water balloon battle during heat wave",
+      "url": "/news/world/two-london-families-have-epic-water-balloon-battle-during-heat-wave/video_66701384-38eb-53b4-b6eb-d7303c06aa1c.html"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "/lifestyles/health-med-fit/sweet-like-sugar-survey-finds-many-dont-know-where-sugar-is-lurking-in-their-food/video_9ef70c4f-fbbf-52a8-ad4b-aee5de318fa9.html"
+    },
+    {
+      "text": "\n        \n        \n            Sweet like sugar: Survey finds many don't know where sugar is lurking in their food",
+      "url": "/lifestyles/health-med-fit/sweet-like-sugar-survey-finds-many-dont-know-where-sugar-is-lurking-in-their-food/video_9ef70c4f-fbbf-52a8-ad4b-aee5de318fa9.html"
+    },
+    {
+      "text": "\n                \n                Sports\n                \n                    ",
+      "url": "https://wcfcourier.com/sports/#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/sports/baseball/professional/minor/midwest-league/game-postponed-wages-honored/article_0f7a5372-15cc-5d49-8fbc-f3bc954a6300.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n        \n            Game postponed, Wages honored",
+      "url": "https://wcfcourier.com/sports/baseball/professional/minor/midwest-league/game-postponed-wages-honored/article_0f7a5372-15cc-5d49-8fbc-f3bc954a6300.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/sports/betting/saturday-at-st-andrews-wagers-to-watch-in-third-round-of-british-open/article_f1aa1804-8e05-5304-9b9e-092c3e0a3923.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n        \n            Saturday at St. Andrews: Wagers to watch in third round of British Open",
+      "url": "https://wcfcourier.com/sports/betting/saturday-at-st-andrews-wagers-to-watch-in-third-round-of-british-open/article_f1aa1804-8e05-5304-9b9e-092c3e0a3923.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/sports/betting/frontpagebets-analyzes-nba-futures-as-free-agency-shakes-up-contenders/article_8e262d0e-9f33-54a4-8929-16dda64ebf99.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n        \n            FrontPageBets analyzes NBA futures as free agency shakes up contenders",
+      "url": "https://wcfcourier.com/sports/betting/frontpagebets-analyzes-nba-futures-as-free-agency-shakes-up-contenders/article_8e262d0e-9f33-54a4-8929-16dda64ebf99.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/sports/college/hawkeyes-ortega-honored-for-being-herself/article_9768973b-2b9f-599e-a7a4-cb4c160ff7bb.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n        \n        \n            Hawkeyes' Ortega honored for being herself",
+      "url": "https://wcfcourier.com/sports/college/hawkeyes-ortega-honored-for-being-herself/article_9768973b-2b9f-599e-a7a4-cb4c160ff7bb.html#tracking-source=home-sports"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/national/discovery-of-bowhunters-remains-after-more-than-five-decades-gives-family-closure-behind-the-headlines/article_6085508b-352d-596c-8b1e-2f8cd691ca65.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n        \n            Discovery of bowhunter's remains after more than five decades gives family closure | Behind the Headlines Podcast",
+      "url": "https://wcfcourier.com/news/national/discovery-of-bowhunters-remains-after-more-than-five-decades-gives-family-closure-behind-the-headlines/article_6085508b-352d-596c-8b1e-2f8cd691ca65.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/opinion/columnists/why-are-teens-reporting-record-levels-of-sadness-the-ethical-life-podcast/article_334acb2a-6d5d-5c0b-a6a2-c16b4d4f3154.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n        \n            Why are teens reporting record levels of sadness? | The Ethical Life podcast",
+      "url": "https://wcfcourier.com/opinion/columnists/why-are-teens-reporting-record-levels-of-sadness-the-ethical-life-podcast/article_334acb2a-6d5d-5c0b-a6a2-c16b4d4f3154.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/national/the-top-things-everyone-should-know-about-weather-across-the-sky-podcast/article_6dbe75fb-2445-5ef9-856a-774e9848bcd2.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n        \n            The top things everyone should know about weather | Across the Sky podcast",
+      "url": "https://wcfcourier.com/news/national/the-top-things-everyone-should-know-about-weather-across-the-sky-podcast/article_6dbe75fb-2445-5ef9-856a-774e9848bcd2.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n                \n                \n                    Audio\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/weather/listen-to-across-the-sky-podcast-episode-13-coming-soon/article_b7c7537c-2985-5e67-8d3b-6264c135431c.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n        \n        \n            Listen to Across the Sky podcast; episode 13 coming soon!",
+      "url": "https://wcfcourier.com/weather/listen-to-across-the-sky-podcast-episode-13-coming-soon/article_b7c7537c-2985-5e67-8d3b-6264c135431c.html#tracking-source=home-audio"
+    },
+    {
+      "text": "\n                \n                Entertainment\n                \n                    ",
+      "url": "https://wcfcourier.com/entertainment/#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/national/ricky-martin-accused-of-incest-by-his-21-year-old-nephew-and-could-face-up/video_350223a5-ac7f-5fd4-9297-efce01ab07aa.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n        \n        \n            Ricky Martin accused of incest by his 21-year-old nephew and could face up to 50 years\u2019 jail if convicted",
+      "url": "https://wcfcourier.com/news/national/ricky-martin-accused-of-incest-by-his-21-year-old-nephew-and-could-face-up/video_350223a5-ac7f-5fd4-9297-efce01ab07aa.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/entertainment/movies/hugh-grant-tipped-to-play-prince-andrew-in-new-movie/video_bb763ecd-29bb-57ad-8236-76875d7e3079.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n        \n        \n            Hugh Grant tipped to play Prince Andrew in new movie",
+      "url": "https://wcfcourier.com/entertainment/movies/hugh-grant-tipped-to-play-prince-andrew-in-new-movie/video_bb763ecd-29bb-57ad-8236-76875d7e3079.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                \n                    Video\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/entertainment/music/alex-rodriguez-calls-jennifer-lopez-the-greatest-performer-alive/video_fb94ec51-40cd-5b5d-9e82-512a25c4ff6c.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n        \n        \n            Alex Rodriguez calls Jennifer Lopez the greatest performer alive",
+      "url": "https://wcfcourier.com/entertainment/music/alex-rodriguez-calls-jennifer-lopez-the-greatest-performer-alive/video_fb94ec51-40cd-5b5d-9e82-512a25c4ff6c.html#tracking-source=home-entertainment"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/brandavestudios/make-the-most-of-amazon-prime-day-with-these-10-tech-deals/article_f23bbefe-800a-5c91-9884-6a29c476031f.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n        \n        \n            Make the most of Amazon Prime Day with these 10 tech deals",
+      "url": "https://wcfcourier.com/brandavestudios/make-the-most-of-amazon-prime-day-with-these-10-tech-deals/article_f23bbefe-800a-5c91-9884-6a29c476031f.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/brandavestudios/4-gifts-for-the-sports-enthusiast/article_9795ae4d-25d0-5e34-839e-32cba37fa14d.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n        \n        \n            4 gifts for the sports enthusiast",
+      "url": "https://wcfcourier.com/brandavestudios/4-gifts-for-the-sports-enthusiast/article_9795ae4d-25d0-5e34-839e-32cba37fa14d.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/brandavestudios/6-items-every-incoming-freshman-needs-for-college/article_9b19a661-1dc8-543a-bf2f-9c412c39003d.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n        \n        \n            6 items every incoming freshman needs for college",
+      "url": "https://wcfcourier.com/brandavestudios/6-items-every-incoming-freshman-needs-for-college/article_9b19a661-1dc8-543a-bf2f-9c412c39003d.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/brandavestudios/7-must-buy-items-for-the-home-chef/article_d6b0c25e-dd32-502d-9cca-6df119802af4.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n        \n        \n            7 must-buy items for the home chef",
+      "url": "https://wcfcourier.com/brandavestudios/7-must-buy-items-for-the-home-chef/article_d6b0c25e-dd32-502d-9cca-6df119802af4.html#tracking-source=affiliates-homepage"
+    },
+    {
+      "text": "\n                \n                Latest Galleries\n                \n                    ",
+      "url": "https://wcfcourier.com/gallery/#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/from-credit-cards-to-paypal-comparing-the-security-of-online-payment-methods/collection_b1884bd0-4e4b-5215-b85b-cd738dc76bd9.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n        \n            From credit cards to PayPal: Comparing the security of online payment methods",
+      "url": "https://wcfcourier.com/news/from-credit-cards-to-paypal-comparing-the-security-of-online-payment-methods/collection_b1884bd0-4e4b-5215-b85b-cd738dc76bd9.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/lifestyles/pets/photos-dandelion-loving-tortoise-named-tyrion-is-a-kansas-city-celeb/collection_110c7d6d-41d9-51fa-b721-76d9bc821a37.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n        \n            Photos: Dandelion-loving tortoise named Tyrion is a Kansas City celeb",
+      "url": "https://wcfcourier.com/lifestyles/pets/photos-dandelion-loving-tortoise-named-tyrion-is-a-kansas-city-celeb/collection_110c7d6d-41d9-51fa-b721-76d9bc821a37.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/national/today-in-history-july-16/collection_40444853-f2b3-5f34-8b96-b87cda0aba06.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n        \n            Today in history: July 16",
+      "url": "https://wcfcourier.com/news/national/today-in-history-july-16/collection_40444853-f2b3-5f34-8b96-b87cda0aba06.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                \n                    Collection\n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/news/archives/celebrity-birthdays-july-16/collection_d3b00faa-057c-5e12-b5f5-5121ab80d470.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n        \n        \n            Celebrity Birthdays: July 16",
+      "url": "https://wcfcourier.com/news/archives/celebrity-birthdays-july-16/collection_d3b00faa-057c-5e12-b5f5-5121ab80d470.html#tracking-source=home-galleries"
+    },
+    {
+      "text": "\n                \n                Local Businesses\n                \n                    ",
+      "url": "https://wcfcourier.com/places/#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n        \n        \n            Lighthouse Fellowship",
+      "url": "https://wcfcourier.com/places/religious_organizations/churches/other/lighthouse-fellowship/business_1109997603.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n                                        1737 Cornwall Ave, Waterloo, IA 50702\n                                    ",
+      "url": "https://www.google.com/maps/dir//1737%20Cornwall%20Ave%2BWaterloo%2BIA%2B50702"
+    },
+    {
+      "text": "\n                             Website\n                        ",
+      "url": "http://FACEBOOK.COM/PAGES/MILLINGTON-TN/LIGHTHOUSE-FELLOW"
+    },
+    {
+      "text": "\n        \n        \n            Industrial Standard Tooling",
+      "url": "https://wcfcourier.com/places/industry_manufacturing/machinery_equipment/miscellaneous/industrial-standard-tooling/business_1109997783.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n                                        105 E 9th St, Waterloo, IA 50703\n                                    ",
+      "url": "https://www.google.com/maps/dir//105%20E%209th%20St%2BWaterloo%2BIA%2B50703"
+    },
+    {
+      "text": "\n                             Website\n                        ",
+      "url": "http://IST-IA.COM"
+    },
+    {
+      "text": "\n        \n        \n            Linn Haven Rehab & Healthcare",
+      "url": "https://wcfcourier.com/places/linn-haven-rehab-healthcare/business_4000112163.html#tracking-source=home-businesses"
+    },
+    {
+      "text": "\n                                        530 S LINN AVE, New Hampton, IA 50659\n                                    ",
+      "url": "https://www.google.com/maps/dir//530%20S%20LINN%20AVE%2BNew%20Hampton%2BIA%2B50659"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/service/home/construction/modern-builders---ad-from-2022-07-13/pdfdisplayad_66a4cdc9-9a69-5043-a86a-eb8096f270b4.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            Modern Builders - Ad from 2022-07-13",
+      "url": "https://wcfcourier.com/ads/service/home/construction/modern-builders---ad-from-2022-07-13/pdfdisplayad_66a4cdc9-9a69-5043-a86a-eb8096f270b4.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/service/home/construction/city-builders-supply---ad-from-2022-07-10/pdfdisplayad_ccc7bf08-9c65-5467-bbbc-53ffd8da2230.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            CITY BUILDERS & SUPPLY - Ad from 2022-07-10",
+      "url": "https://wcfcourier.com/ads/service/home/construction/city-builders-supply---ad-from-2022-07-10/pdfdisplayad_ccc7bf08-9c65-5467-bbbc-53ffd8da2230.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/service/home/furniture/factory-direct-mattress---ad-from-2022-07-13/pdfdisplayad_ac989940-0fdf-56f9-a5fa-3d4c781fe136.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            FACTORY DIRECT MATTRESS - Ad from 2022-07-13",
+      "url": "https://wcfcourier.com/ads/service/home/furniture/factory-direct-mattress---ad-from-2022-07-13/pdfdisplayad_ac989940-0fdf-56f9-a5fa-3d4c781fe136.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/other/waterloo-community-schools---legals---ad-from-2022-07-15/pdfdisplayad_88df7706-b696-55ad-8a2a-2972c6951bbf.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            Waterloo Community Schools - Legals - Ad from 2022-07-15",
+      "url": "https://wcfcourier.com/ads/other/waterloo-community-schools---legals---ad-from-2022-07-15/pdfdisplayad_88df7706-b696-55ad-8a2a-2972c6951bbf.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/service/city-of-waterloo---ad-from-2022-07-10/pdfdisplayad_80cd795d-391e-595c-9107-424e5b390a2a.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            City of Waterloo - Ad from 2022-07-10",
+      "url": "https://wcfcourier.com/ads/service/city-of-waterloo---ad-from-2022-07-10/pdfdisplayad_80cd795d-391e-595c-9107-424e5b390a2a.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/other/waterloo-community-schools---legals---ad-from-2022-07-15/pdfdisplayad_aeee12e0-9621-5707-9512-d423ebce7c39.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            Waterloo Community Schools - Legals - Ad from 2022-07-15",
+      "url": "https://wcfcourier.com/ads/other/waterloo-community-schools---legals---ad-from-2022-07-15/pdfdisplayad_aeee12e0-9621-5707-9512-d423ebce7c39.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/service/health/medical/western-home-communities---ad-from-2022-07-10/pdfdisplayad_f3d09b7d-6d3b-5e3f-9fe5-da1893fd7e1d.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            WESTERN HOME COMMUNITIES - Ad from 2022-07-10",
+      "url": "https://wcfcourier.com/ads/service/health/medical/western-home-communities---ad-from-2022-07-10/pdfdisplayad_f3d09b7d-6d3b-5e3f-9fe5-da1893fd7e1d.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/service/office/cna---ad-from-2022-07-11/pdfdisplayad_12b846fd-8daf-57fb-8d82-10c990e32ebf.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            CNA - Ad from 2022-07-11",
+      "url": "https://wcfcourier.com/ads/service/office/cna---ad-from-2022-07-11/pdfdisplayad_12b846fd-8daf-57fb-8d82-10c990e32ebf.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/service/city-of-waterloo---ad-from-2022-07-10/pdfdisplayad_b4ff42af-2cf9-5316-9153-68194de40ccc.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            City of Waterloo - Ad from 2022-07-10",
+      "url": "https://wcfcourier.com/ads/service/city-of-waterloo---ad-from-2022-07-10/pdfdisplayad_b4ff42af-2cf9-5316-9153-68194de40ccc.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/service/finance/dupaco-community-credit-union---print---ad-from-2022-07-10/pdfdisplayad_949c63c4-6bcb-5817-a677-9c6fe354f286.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            Dupaco Community Credit Union - Print - Ad from 2022-07-10",
+      "url": "https://wcfcourier.com/ads/service/finance/dupaco-community-credit-union---print---ad-from-2022-07-10/pdfdisplayad_949c63c4-6bcb-5817-a677-9c6fe354f286.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/service/home/construction/modern-builders---ad-from-2022-07-13/pdfdisplayad_66a4cdc9-9a69-5043-a86a-eb8096f270b4.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            Modern Builders - Ad from 2022-07-13",
+      "url": "https://wcfcourier.com/ads/service/home/construction/modern-builders---ad-from-2022-07-13/pdfdisplayad_66a4cdc9-9a69-5043-a86a-eb8096f270b4.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/service/home/construction/city-builders-supply---ad-from-2022-07-10/pdfdisplayad_ccc7bf08-9c65-5467-bbbc-53ffd8da2230.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            CITY BUILDERS & SUPPLY - Ad from 2022-07-10",
+      "url": "https://wcfcourier.com/ads/service/home/construction/city-builders-supply---ad-from-2022-07-10/pdfdisplayad_ccc7bf08-9c65-5467-bbbc-53ffd8da2230.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/service/home/furniture/factory-direct-mattress---ad-from-2022-07-13/pdfdisplayad_ac989940-0fdf-56f9-a5fa-3d4c781fe136.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            FACTORY DIRECT MATTRESS - Ad from 2022-07-13",
+      "url": "https://wcfcourier.com/ads/service/home/furniture/factory-direct-mattress---ad-from-2022-07-13/pdfdisplayad_ac989940-0fdf-56f9-a5fa-3d4c781fe136.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n                \n                \n                \n                \n                        \n                ",
+      "url": "https://wcfcourier.com/ads/other/waterloo-community-schools---legals---ad-from-2022-07-15/pdfdisplayad_88df7706-b696-55ad-8a2a-2972c6951bbf.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "\n        \n        \n            Waterloo Community Schools - Legals - Ad from 2022-07-15",
+      "url": "https://wcfcourier.com/ads/other/waterloo-community-schools---legals---ad-from-2022-07-15/pdfdisplayad_88df7706-b696-55ad-8a2a-2972c6951bbf.html#tracking-source=print-ads-carousel"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "\n                    \n                    Facebook\n                ",
+      "url": "/facebook"
+    },
+    {
+      "text": "\n                    \n                    Twitter\n                ",
+      "url": "/twitter"
+    },
+    {
+      "text": "\n                    \n                    LinkedIn\n                ",
+      "url": "https://www.linkedin.com/company/waterloo-cedar-falls-courier"
+    },
+    {
+      "text": "\n                    \n                    Instagram\n                ",
+      "url": "/instagram"
+    },
+    {
+      "text": "Call the Courier\n                    \n                ",
+      "url": "/special-section/call-the-courier/"
+    },
+    {
+      "text": "E-Edition\n                    \n                ",
+      "url": "/eedition/"
+    },
+    {
+      "text": "Email Updates\n                    \n                ",
+      "url": "/newsletters/"
+    },
+    {
+      "text": "Events Calendar\n                    \n                ",
+      "url": "/calendar/"
+    },
+    {
+      "text": "Text Alerts\n                    \n                ",
+      "url": "/forms/text-alerts/"
+    },
+    {
+      "text": "Online Features\n                    \n                ",
+      "url": "/online_features/"
+    },
+    {
+      "text": "CedarValleyInclusion.com\n                    \n                ",
+      "url": "http://CedarValleyInclusion.com"
+    },
+    {
+      "text": "Activate Full Access\n                    \n                ",
+      "url": "/activate/"
+    },
+    {
+      "text": "Advertise with Us\n                    \n                ",
+      "url": "http://wcfcourier.com/article_8316b482-4d3a-11e7-9277-772688041fc4.html"
+    },
+    {
+      "text": "Contact Us\n                    \n                ",
+      "url": "/contact-us"
+    },
+    {
+      "text": "Job Search\n                    \n                ",
+      "url": "/jobs/"
+    },
+    {
+      "text": "Start a Subscription\n                    \n                ",
+      "url": "/subscribenow/"
+    },
+    {
+      "text": "Customer Service\n                    \n                ",
+      "url": "/customer-service/"
+    },
+    {
+      "text": "Work here\n                    \n                ",
+      "url": "http://lee.net/careers/opportunities/?utm_source=newspaper&utm_medium=blox&utm_campaign=workhere"
+    },
+    {
+      "text": "Become a Carrier\n                    \n                ",
+      "url": "https://wcfcourier.com/forms/deliver_the_globe_gazette/"
+    },
+    {
+      "text": "The Courier",
+      "url": "/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "/terms/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy/"
+    },
+    {
+      "text": "Do Not Sell My Info",
+      "url": "/privacy/#ccpa"
+    },
+    {
+      "text": "BLOX Content Management System",
+      "url": "https://bloxcms.com"
+    },
+    {
+      "text": "TownNews.com",
+      "url": "https://townnews.com/"
+    },
+    {
+      "text": "",
+      "url": "{{url}}"
+    },
+    {
+      "text": "Notifications",
+      "url": "#notify-panel-content"
+    },
+    {
+      "text": "Settings",
+      "url": "#notify-panel-settings"
+    },
+    {
+      "text": " Close",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjst_V9_WjLfEUNe8Wuzkq_FEy_n_wVKBFy7HcKLUwGlJGXT0PMjDM_TZya-0wec6p5GLBLaDZ-IbnYNRzSa626TLC_q1nXPeFj6k-2XOUCgn5fxoMLej58ZKVEAzs7GDB6BHXvOOfwwu4rjiJPUKHh0lol6jh-Ee0SGuN9vIiwt2xuwSuWQXEcnee3UVSeJGg6r-ujwR9fKw19isv3ViFWZEhNbjIadq28NKDfwQWnl204A0SHt_49iKgWNOU2IB6XxV3cBi8y4v4_K0I1lkmmrFTZCjpfCjgKz-YMo6Y0f31y-nPkMEgw9PucmNYwaRsQH8LYBWTA%2526sai%253DAMfl-YSzBz3xf6iEfmEp-BXVA24UkTT_8gZ9CMJltlG-tkzN7sOw7RAllol79-VTdxOuGUX1E4NjHd6vKyx0aVQrGfmTPwDc5SUPCh5uIvysJb-jPwxJjVoBU9y9u9xN_is%2526sig%253DCg0ArKJSzDB6sMYEhMz8EAE%2526fbs_aeid%253D%255Bgw_fbsaeid%255D%2526urlfix%253D1%2526adurl%253Dhttps://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=wcfcourier.com&SubscriberLevel=DOP&Price=1.00&utm_source=wcfcourier.com&utm_medium=display&utm_campaign=july2022_DFP"
+    }
+  ],
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

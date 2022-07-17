@@ -1,5 +1,5 @@
 {
-  "created": 1657942916,
+  "created": 1658019549,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/16/items/nypost-2022",
@@ -1022,31 +1022,73 @@
       "sha1": "d0eba1fe55957ccce948e35487c6def9aa9a2cd2"
     },
     {
+      "name": "nypost-2022-07-16T10:47:37.881708-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1657982864",
+      "size": "59499",
+      "md5": "f38dbd87e661b8a0e9a04e5f0de2e8f9",
+      "crc32": "9797007c",
+      "sha1": "86e2d283c593af18e9c359592ba38c0fb3e664c0",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-07-16T10:47:37.881708-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1657982866",
+      "size": "62469",
+      "md5": "5a722beb93e599737152c764a6aeda83",
+      "crc32": "cd762d75",
+      "sha1": "026b634369315d20a554d2a5542c497e4740a805",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-07-16T10:47:37.881708-04:00.jpg",
+      "source": "original",
+      "mtime": "1657982859",
+      "size": "365518",
+      "md5": "e21c2342e481e601bdb34ef339fba985",
+      "crc32": "ca29b855",
+      "sha1": "71009e65e51c636162c9dee496dc8e5b404330d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nypost-2022-07-16T10:47:37.881708-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nypost-2022-07-16T10:47:37.881708-04:00.jpg",
+      "mtime": "1657988151",
+      "size": "11699",
+      "md5": "9c813ffb5bc2f9bc2f904d71caec6c5f",
+      "crc32": "73c44dcd",
+      "sha1": "d7e6cbb581675cf7d8b870e485a5fa5a92ecd6b1"
+    },
+    {
       "name": "nypost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ff04825da6492542f2058a86c0a3e01a9988ae9",
-      "mtime": "1657942882",
-      "size": "21526",
-      "md5": "e74a1afd73ea604d961ecf9c607303f4",
-      "crc32": "396e72a0",
-      "sha1": "63933ff36b6ac61761764540812a8c3ac26bc489",
+      "btih": "6ef28bd2486e9f9da9fc958687569e88441f740e",
+      "mtime": "1657988157",
+      "size": "22368",
+      "md5": "5d65514ee362296354f1da6e091683f4",
+      "crc32": "a193e4a8",
+      "sha1": "9d0b12a5c8d8a562f2182bd72fa20d0d4aa738df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nypost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e887673d299f3a0a68a1d09ef3844ad0",
+      "md5": "62e66f83f9faf33f47c270b207edebcf",
       "summation": "md5"
     },
     {
       "name": "nypost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1657941496",
-      "size": "122880",
-      "md5": "c635753e3d0a9ae3d5458f9513c7b8cf",
-      "crc32": "ccd70489",
-      "sha1": "0fb677914ce0f05506bf4a7b1670043809ec3298",
+      "mtime": "1657982871",
+      "size": "126976",
+      "md5": "20ce1a2cbdcc65c660203e9c6444b392",
+      "crc32": "2d513224",
+      "sha1": "404d8c277f3325dc8ca12d612cb660e21637bbdb",
       "format": "Metadata"
     },
     {
@@ -1060,9 +1102,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1657942882,
-  "item_size": 12629619,
+  "files_count": 104,
+  "item_last_updated": 1657988157,
+  "item_size": 13133742,
   "metadata": {
     "identifier": "nypost-2022",
     "collection": [
@@ -1079,8 +1121,1754 @@
     "publicdate": "2022-07-04 21:50:06",
     "addeddate": "2022-07-04 21:50:06"
   },
+  "nypost-2022": [
+    {
+      "text": "\n\tSkip to search results",
+      "url": "#search-results"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Metro",
+      "url": "/metro/"
+    },
+    {
+      "text": "Page Six",
+      "url": "https://pagesix.com/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Post Sports+",
+      "url": "/sports-plus/"
+    },
+    {
+      "text": "Sports Betting",
+      "url": "https://nypost.com/post-action-betting/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "/entertainment/"
+    },
+    {
+      "text": "Fashion",
+      "url": "/fashion/"
+    },
+    {
+      "text": "Shopping",
+      "url": "https://nypost.com/shopping/"
+    },
+    {
+      "text": "Living",
+      "url": "/living/"
+    },
+    {
+      "text": "Media",
+      "url": "/media/"
+    },
+    {
+      "text": "Tech",
+      "url": "/tech/"
+    },
+    {
+      "text": "Real Estate",
+      "url": "/real-estate/"
+    },
+    {
+      "text": "Astrology",
+      "url": "https://nypost.com/astrology/"
+    },
+    {
+      "text": "Video",
+      "url": "/video/"
+    },
+    {
+      "text": "Photos",
+      "url": "/photos/"
+    },
+    {
+      "text": "Visual Stories",
+      "url": "https://nypost.com/web-stories/"
+    },
+    {
+      "text": "Sub Menu 1",
+      "url": "#"
+    },
+    {
+      "text": "Covers",
+      "url": "https://nypost.com/covers/"
+    },
+    {
+      "text": "Columnists",
+      "url": "https://nypost.com/columnists/"
+    },
+    {
+      "text": "Horoscopes",
+      "url": "https://nypost.com/horoscopes/"
+    },
+    {
+      "text": "Sports Odds",
+      "url": "https://nypost.com/odds/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://nypost.com/podcasts/"
+    },
+    {
+      "text": "Careers",
+      "url": "/careers/"
+    },
+    {
+      "text": "Sub menu 2",
+      "url": "#"
+    },
+    {
+      "text": "Email Newsletters",
+      "url": "https://email.nypost.com/"
+    },
+    {
+      "text": "Official Store",
+      "url": "https://shop.nypost.com/"
+    },
+    {
+      "text": "Home Delivery",
+      "url": "https://subscribe.nypost.com/"
+    },
+    {
+      "text": "Tips",
+      "url": "/tips/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tEmail\n\t\t\t\t\t",
+      "url": "https://email.nypost.com/"
+    },
+    {
+      "text": "\n\t\t\t\t\tNew York Post\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "https://nypost.com"
+    },
+    {
+      "text": "New!Sports Plus!Get 30 Days Free",
+      "url": "/account/subscribe"
+    },
+    {
+      "text": "\nJoin the Post Wanted newsletter for a weekly roundup of the best shopping deals! Sign Up \n\n",
+      "url": "https://email.nypost.com/post-wanted/"
+    },
+    {
+      "text": "\nThe Show LIVE podcast event in LA ahead of the all-star game 7/19. Learn More \n\n",
+      "url": "https://events.nypost.com/theshowLA"
+    },
+    {
+      "text": "\nEarly access: The Show LIVE IN NYC, special guests Ron Darling and David Cone. Get Tickets \n\n",
+      "url": "https://events.nypost.com/theshowpodcastatpaley"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/ivana-trumps-friends-worried-about-treacherous-staircase/"
+    },
+    {
+      "text": "Ivana Trump's friends worried about her 'treacherous' stairs before death",
+      "url": "https://nypost.com/2022/07/16/ivana-trumps-friends-worried-about-treacherous-staircase/"
+    },
+    {
+      "text": "One of Ivana Trump\u2019s best friends always worried that Ivana might slip on what she called the beautiful but \u201ctreacherous\u201d staircase at her luxury Manhattan home.",
+      "url": "https://nypost.com/2022/07/16/ivana-trumps-friends-worried-about-treacherous-staircase/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/paul-pelosi-buys-tech-chip-stocks-before-big-subsidy-vote/"
+    },
+    {
+      "text": "Nancy Pelosi\u2019s hubby buys millions in computer-chip stocks before big subsidy vote",
+      "url": "https://nypost.com/2022/07/16/paul-pelosi-buys-tech-chip-stocks-before-big-subsidy-vote/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/lebron-james-describes-hatred-of-boston-racist-as-fk/"
+    },
+    {
+      "text": "LeBron slams these fans as 'racist as f\u2013k'",
+      "url": "https://nypost.com/2022/07/15/lebron-james-describes-hatred-of-boston-racist-as-fk/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/university-of-austin-students-share-anti-woke-forbidden-lessons/"
+    },
+    {
+      "text": "Students reveal \u2018forbidden lessons\u2019 taught at anti-woke University of Austin",
+      "url": "https://nypost.com/2022/07/16/university-of-austin-students-share-anti-woke-forbidden-lessons/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/biden-poses-for-family-photo-with-middle-east-leaders/"
+    },
+    {
+      "text": "What pariah?\nBiden stands shoulder to shoulder with Saudi crown prince in 'family photo' featuring Middle East leaders",
+      "url": "https://nypost.com/2022/07/16/biden-poses-for-family-photo-with-middle-east-leaders/"
+    },
+    {
+      "text": "President Biden stood shoulder to shoulder Saturday with Saudi Arabia\u2019s Crown Prince Mohammed bin Salman, along with leaders from Bahrain, Egypt, Iraq and Jordan.",
+      "url": "https://nypost.com/2022/07/16/biden-poses-for-family-photo-with-middle-east-leaders/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/anti-asian-pepper-spray-attacker-madeline-barker-cant-afford-bail/"
+    },
+    {
+      "text": "Anti-Asian pepper-spray attacker can't afford bail",
+      "url": "https://nypost.com/2022/07/16/anti-asian-pepper-spray-attacker-madeline-barker-cant-afford-bail/"
+    },
+    {
+      "text": "",
+      "url": "https://pagesix.com/2022/07/16/meghan-markle-furious-over-vanity-fair-cover-that-announced-harry-relationship/"
+    },
+    {
+      "text": "Meghan Markle furious over Vanity Fair cover that announced her relationship to Harry",
+      "url": "https://pagesix.com/2022/07/16/meghan-markle-furious-over-vanity-fair-cover-that-announced-harry-relationship/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/hobo-builds-house-on-the-manhattan-bridge/"
+    },
+    {
+      "text": "Bridge too far gone",
+      "url": "https://nypost.com/2022/07/16/hobo-builds-house-on-the-manhattan-bridge/"
+    },
+    {
+      "text": "Hobo builds house on the Manhattan Bridge",
+      "url": "https://nypost.com/2022/07/16/hobo-builds-house-on-the-manhattan-bridge/"
+    },
+    {
+      "text": "An industrious vagrant has boldly built a 16-square foot wooden home right on the Manhattan Bridge bike path.",
+      "url": "https://nypost.com/2022/07/16/hobo-builds-house-on-the-manhattan-bridge/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/kodak-black-arrested-in-florida-for-alleged-oxycodone-pills-possession/"
+    },
+    {
+      "text": "Rapper whose sentence was once commuted by Trump arrested again",
+      "url": "https://nypost.com/2022/07/16/kodak-black-arrested-in-florida-for-alleged-oxycodone-pills-possession/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/fdny-boat-in-fatal-crash-lacked-staffing-approval-for-cruise/"
+    },
+    {
+      "text": "'Breakdown:' FDNY boat in crash that killed Belgian firefighter lacked staffing, approval for cruise",
+      "url": "https://nypost.com/2022/07/16/fdny-boat-in-fatal-crash-lacked-staffing-approval-for-cruise/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/former-wwe-ring-girl-to-wrestle-conn-sen-richard-blumenthal-at-polls/"
+    },
+    {
+      "text": "Former WWE ring girl to wrestle Conn. Sen. Richard Blumenthal at polls",
+      "url": "https://nypost.com/2022/07/16/former-wwe-ring-girl-to-wrestle-conn-sen-richard-blumenthal-at-polls/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/actors-politicians-fighting-to-save-iconic-theatre-80/"
+    },
+    {
+      "text": "Casting hope\nActors, politicians fighting to save iconic NYC theater facing bankruptcy auction",
+      "url": "https://nypost.com/2022/07/16/actors-politicians-fighting-to-save-iconic-theatre-80/"
+    },
+    {
+      "text": "On July 21, a judge will decide whether to convert Locran Otway\u2019s Chapter 11 bankruptcy, filed in December 2020, into Chapter 7 \u2014 which will most likely end in an auction.",
+      "url": "https://nypost.com/2022/07/16/actors-politicians-fighting-to-save-iconic-theatre-80/"
+    },
+    {
+      "text": "",
+      "url": "https://pagesix.com/2022/07/16/rick-astley-is-happy-he-retired-at-27-i-would-have-self-imploded/"
+    },
+    {
+      "text": "Singer Rick Astley is happy he retired at 27: I would have 'self-imploded'",
+      "url": "https://pagesix.com/2022/07/16/rick-astley-is-happy-he-retired-at-27-i-would-have-self-imploded/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/why-cruise-ships-are-still-a-health-disaster-waiting-to-happen/"
+    },
+    {
+      "text": "Why cruise ships are still a health disaster waiting to happen",
+      "url": "https://nypost.com/2022/07/16/why-cruise-ships-are-still-a-health-disaster-waiting-to-happen/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/enola-gay-co-pilots-logbook-recording-first-a-bomb-up-for-auction/"
+    },
+    {
+      "text": "Take note",
+      "url": "https://nypost.com/2022/07/16/enola-gay-co-pilots-logbook-recording-first-a-bomb-up-for-auction/"
+    },
+    {
+      "text": "Enola Gay co-pilot's logbook recording first A-bomb up for auction",
+      "url": "https://nypost.com/2022/07/16/enola-gay-co-pilots-logbook-recording-first-a-bomb-up-for-auction/"
+    },
+    {
+      "text": "The sole in-flight documentation of the American bombing of Hiroshima was made by the Enola Gay\u2019s co-pilot Capt. Robert E. Lewis.",
+      "url": "https://nypost.com/2022/07/16/enola-gay-co-pilots-logbook-recording-first-a-bomb-up-for-auction/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/woman-shot-in-chest-while-standing-next-to-toddler-in-stroller-in-queens/"
+    },
+    {
+      "text": "Mother shot while standing with her young kids in NYC",
+      "url": "https://nypost.com/2022/07/15/woman-shot-in-chest-while-standing-next-to-toddler-in-stroller-in-queens/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/debit-cards-for-kids-teaching-tool-or-too-much-too-soon/"
+    },
+    {
+      "text": "'My 11-year-old uses her debit card to treat herself to Starbucks'",
+      "url": "https://nypost.com/2022/07/16/debit-cards-for-kids-teaching-tool-or-too-much-too-soon/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/katie-hill-files-for-bankruptcy-after-revenge-porn-case-cost-her-200k/"
+    },
+    {
+      "text": "Ex-pol files for bankruptcy after 'revenge porn' case cost her $200K",
+      "url": "https://nypost.com/2022/07/15/katie-hill-files-for-bankruptcy-after-revenge-porn-case-cost-her-200k/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/azsia-johnson-mom-of-two-slain-on-nyc-street-laid-to-rest/"
+    },
+    {
+      "text": "'This is a senseless loss'",
+      "url": "https://nypost.com/2022/07/15/azsia-johnson-mom-of-two-slain-on-nyc-street-laid-to-rest/"
+    },
+    {
+      "text": "Mom gunned down while pushing stroller laid to rest in emotional scene",
+      "url": "https://nypost.com/2022/07/15/azsia-johnson-mom-of-two-slain-on-nyc-street-laid-to-rest/"
+    },
+    {
+      "text": "Johnson\u2019s loved ones gathered in East New York for an afternoon viewing and evening funeral, which Mayor Eric Adams briefly attended.\u00a0",
+      "url": "https://nypost.com/2022/07/15/azsia-johnson-mom-of-two-slain-on-nyc-street-laid-to-rest/"
+    },
+    {
+      "text": "Metro",
+      "url": "https://nypost.com/metro/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/public-shagging-going-extinct-in-nyc/"
+    },
+    {
+      "text": "\n\nNo sex in the city: Public shagging going extinct in NYC",
+      "url": "https://nypost.com/2022/07/16/public-shagging-going-extinct-in-nyc/"
+    },
+    {
+      "text": "\n\nGrammar-challenged judge fingered in road rage incident at Brooklyn school",
+      "url": "https://nypost.com/2022/07/16/judge-jill-epstein-got-into-road-rage-incident-at-nyc-school/"
+    },
+    {
+      "text": "\n\nHomeless man found with rope around neck in Central Park was killed",
+      "url": "https://nypost.com/2022/07/15/homeless-man-found-with-rope-around-neck-in-central-park-was-killed/"
+    },
+    {
+      "text": "\n\nOn the clock: $tate workers in NY made record haul, near $1B of OT for 2021",
+      "url": "https://nypost.com/2022/07/15/state-workers-in-ny-made-record-haul-near-1b-of-ot-for-2021/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/demi-moore-brings-dog-into-the-louvre-despite-strict-animal-ban/"
+    },
+    {
+      "text": "Art snob",
+      "url": "https://nypost.com/2022/07/16/demi-moore-brings-dog-into-the-louvre-despite-strict-animal-ban/"
+    },
+    {
+      "text": "Actress sneaks pet dog into historic museum despite strict animal ban",
+      "url": "https://nypost.com/2022/07/16/demi-moore-brings-dog-into-the-louvre-despite-strict-animal-ban/"
+    },
+    {
+      "text": "Who said dogs couldn\u2019t be cultured?",
+      "url": "https://nypost.com/2022/07/16/demi-moore-brings-dog-into-the-louvre-despite-strict-animal-ban/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/no-need-for-yankees-to-hit-panic-button-amid-first-rut/"
+    },
+    {
+      "text": "Ian O'Connor",
+      "url": "https://nypost.com/author/ian-oconnor/"
+    },
+    {
+      "text": "No need for Yankees to hit panic button",
+      "url": "https://nypost.com/2022/07/16/no-need-for-yankees-to-hit-panic-button-amid-first-rut/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/texas-man-kameron-gammage-charged-with-murdering-infant-son/"
+    },
+    {
+      "text": "Father with 'extreme anger problem' charged with murdering infant son",
+      "url": "https://nypost.com/2022/07/16/texas-man-kameron-gammage-charged-with-murdering-infant-son/"
+    },
+    {
+      "text": "",
+      "url": "https://pagesix.com/2022/07/16/jak-knight-stand-up-comedian-and-bust-down-star-dead-at-28/"
+    },
+    {
+      "text": "Netflix comedian, actor dead at 28",
+      "url": "https://pagesix.com/2022/07/16/jak-knight-stand-up-comedian-and-bust-down-star-dead-at-28/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/chick-fil-a-makes-some-of-the-best-fried-chicken-in-new-york/"
+    },
+    {
+      "text": "Steve Cuozzo",
+      "url": "https://nypost.com/author/steve-cuozzo/"
+    },
+    {
+      "text": "Bird is the word\nHow Chick-Fil-A makes some of the best chicken in NYC",
+      "url": "https://nypost.com/2022/07/15/chick-fil-a-makes-some-of-the-best-fried-chicken-in-new-york/"
+    },
+    {
+      "text": "The fast-food chain has brought affordable relief from the dry, overpriced chicken plaguing the city.\u00a0",
+      "url": "https://nypost.com/2022/07/15/chick-fil-a-makes-some-of-the-best-fried-chicken-in-new-york/"
+    },
+    {
+      "text": "",
+      "url": "https://pagesix.com/2022/07/16/britney-spears-sings-new-rendition-of-baby-one-more-time/"
+    },
+    {
+      "text": "Britney Spears sings new rendition of 'Baby One More Time' a capella",
+      "url": "https://pagesix.com/2022/07/16/britney-spears-sings-new-rendition-of-baby-one-more-time/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/ricky-martin-accused-of-incest-in-shocking-puerto-rico-reports/"
+    },
+    {
+      "text": "Ricky Martin denies 'disgusting' bombshell 'incest' sex crime accusations",
+      "url": "https://nypost.com/2022/07/15/ricky-martin-accused-of-incest-in-shocking-puerto-rico-reports/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/for-60k-you-can-live-in-the-middle-of-the-ocean-in-this-wwii-sea-fort/"
+    },
+    {
+      "text": "Holding down the fort",
+      "url": "https://nypost.com/2022/07/15/for-60k-you-can-live-in-the-middle-of-the-ocean-in-this-wwii-sea-fort/"
+    },
+    {
+      "text": "For $60K you can live on the water in this WWII sea vessel",
+      "url": "https://nypost.com/2022/07/15/for-60k-you-can-live-in-the-middle-of-the-ocean-in-this-wwii-sea-fort/"
+    },
+    {
+      "text": "The ship once featured 12-inches of armor on one side and a battery of weapons on the other \u2014 enough to support a garrison of up to 200 soldiers, according to the listing.",
+      "url": "https://nypost.com/2022/07/15/for-60k-you-can-live-in-the-middle-of-the-ocean-in-this-wwii-sea-fort/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/as-the-us-turns-away-from-saudi-arabia-and-the-middle-east-china-moves-in/"
+    },
+    {
+      "text": "Harry J. Kazianis",
+      "url": "https://nypost.com/author/harry-j-kazianis/"
+    },
+    {
+      "text": "As the US turns away from Saudi Arabia and the Middle East, China moves in",
+      "url": "https://nypost.com/2022/07/15/as-the-us-turns-away-from-saudi-arabia-and-the-middle-east-china-moves-in/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/stranger-things-star-noah-schnapp-opens-up-about-wills-sexuality/"
+    },
+    {
+      "text": "'Stranger Things' star Noah Schnapp opens up about Will's long-simmering sexuality",
+      "url": "https://nypost.com/2022/07/15/stranger-things-star-noah-schnapp-opens-up-about-wills-sexuality/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/anti-woke-comic-book-defies-cancel-culture-earns-1-7m-in-four-days/"
+    },
+    {
+      "text": "Anti-woke comic book defies cancel culture, earns $1.7M in four days",
+      "url": "https://nypost.com/2022/07/15/anti-woke-comic-book-defies-cancel-culture-earns-1-7m-in-four-days/"
+    },
+    {
+      "text": "Ukraine War",
+      "url": "https://nypost.com/tag/ukraine-war/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/tiktok-accused-of-hampering-ukraine-war-crimes-investigations-report/"
+    },
+    {
+      "text": "App trouble\nTikTok accused of hampering Ukraine war crimes investigations: report",
+      "url": "https://nypost.com/2022/07/15/tiktok-accused-of-hampering-ukraine-war-crimes-investigations-report/"
+    },
+    {
+      "text": "Activists and lawyers who have been trying to use TikTok to gather evidence of war crimes in Ukraine say they face roadblocks from the Chinese-owned app, according to a report.\u00a0",
+      "url": "https://nypost.com/2022/07/15/tiktok-accused-of-hampering-ukraine-war-crimes-investigations-report/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/british-aid-worker-dies-in-rebel-captivity-in-ukraine/"
+    },
+    {
+      "text": "UK aid worker dies while held by Russian-backed rebel forces in Ukraine",
+      "url": "https://nypost.com/2022/07/15/british-aid-worker-dies-in-rebel-captivity-in-ukraine/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/14/ukrainian-official-proposes-commission-to-help-track-weapons/"
+    },
+    {
+      "text": "Ukrainian official proposes commission to help track weapons",
+      "url": "https://nypost.com/2022/07/14/ukrainian-official-proposes-commission-to-help-track-weapons/"
+    },
+    {
+      "text": "",
+      "url": "https://pagesix.com/2022/07/15/megan-fox-jokes-she-doesnt-exercise-with-photo-of-her-six-pack-abs/"
+    },
+    {
+      "text": "Jabs at her abs",
+      "url": "https://pagesix.com/2022/07/15/megan-fox-jokes-she-doesnt-exercise-with-photo-of-her-six-pack-abs/"
+    },
+    {
+      "text": "Megan Fox jokes she doesn't exercise with photo of her six-pack",
+      "url": "https://pagesix.com/2022/07/15/megan-fox-jokes-she-doesnt-exercise-with-photo-of-her-six-pack-abs/"
+    },
+    {
+      "text": "Despite the fact that her six-pack abs and perfectly toned arms were on full display in the shot, Fox facetiously captioned the image, \u201cI don\u2019t exercise.\u201d",
+      "url": "https://pagesix.com/2022/07/15/megan-fox-jokes-she-doesnt-exercise-with-photo-of-her-six-pack-abs/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/more-housing-isnt-the-solution-to-homelessness-its-treatment/"
+    },
+    {
+      "text": "Michele Steeb",
+      "url": "https://nypost.com/author/michele-steeb/"
+    },
+    {
+      "text": "More housing isn't the solution to homelessness \u2014 it's treatment",
+      "url": "https://nypost.com/2022/07/15/more-housing-isnt-the-solution-to-homelessness-its-treatment/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/texas-rep-maya-flores-mocks-jill-biden-with-taco-inflation-meme/"
+    },
+    {
+      "text": "Hispanic Texas pol grills Jill Biden with taco inflation meme",
+      "url": "https://nypost.com/2022/07/15/texas-rep-maya-flores-mocks-jill-biden-with-taco-inflation-meme/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/derek-jeter-plans-to-do-something-in-baseball-again/"
+    },
+    {
+      "text": "Derek Jeter reveals his post-Marlins plans",
+      "url": "https://nypost.com/2022/07/15/derek-jeter-plans-to-do-something-in-baseball-again/"
+    },
+    {
+      "text": "",
+      "url": "https://pagesix.com/2022/07/15/we-tried-the-naked-illusion-dress-celebrities-love/"
+    },
+    {
+      "text": "In the flesh\nI wore the 'naked' illusion dress celebrities love \u2014 here's what happened",
+      "url": "https://pagesix.com/2022/07/15/we-tried-the-naked-illusion-dress-celebrities-love/"
+    },
+    {
+      "text": "This faux flesh-flashing fad isn\u2019t for the faint of heart \u2014 but I had to know if a non-famous person could pull off one of these sexy styles in public.",
+      "url": "https://pagesix.com/2022/07/15/we-tried-the-naked-illusion-dress-celebrities-love/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/mayor-eric-adams-looking-for-a-smokes-person-to-manage-nycs-weed-habit/"
+    },
+    {
+      "text": "Mayor Eric Adams looking for a smokes person to manage NYC's weed habit",
+      "url": "https://nypost.com/2022/07/15/mayor-eric-adams-looking-for-a-smokes-person-to-manage-nycs-weed-habit/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/mexico-captures-fugitive-drug-lord-wanted-in-1985-dea-agent-murder/"
+    },
+    {
+      "text": "Fugitive drug lord wanted in 1985 murder of DEA agent captured by Mexico",
+      "url": "https://nypost.com/2022/07/15/mexico-captures-fugitive-drug-lord-wanted-in-1985-dea-agent-murder/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/this-man-moved-into-a-home-depot-shed-after-being-in-debt/"
+    },
+    {
+      "text": "No tears shed",
+      "url": "https://nypost.com/2022/07/15/this-man-moved-into-a-home-depot-shed-after-being-in-debt/"
+    },
+    {
+      "text": "Family moves into Home Depot shed after going into debt, makes huge profit",
+      "url": "https://nypost.com/2022/07/15/this-man-moved-into-a-home-depot-shed-after-being-in-debt/"
+    },
+    {
+      "text": "Nick and Meghan Lucido swapped a 2,000-square-foot home for an 860-square-foot shed to solve their financial woes.",
+      "url": "https://nypost.com/2022/07/15/this-man-moved-into-a-home-depot-shed-after-being-in-debt/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://nypost.com/opinion/"
+    },
+    {
+      "text": "See All\n\n",
+      "url": "https://nypost.com/opinion/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/western-dictator-envy-ignores-strengths-of-democracy/"
+    },
+    {
+      "text": "John Stossel",
+      "url": "https://nypost.com/author/john-stossel/"
+    },
+    {
+      "text": "Western 'dictator envy' ignores the far greater strengths of  democracy",
+      "url": "https://nypost.com/2022/07/15/western-dictator-envy-ignores-strengths-of-democracy/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/offshore-drilling-produces-not-just-oil-but-fish-and-lots-of-them/"
+    },
+    {
+      "text": "Humberto Fontova",
+      "url": "https://nypost.com/author/humberto-fontova/"
+    },
+    {
+      "text": "Ignore the greenies: Offshore drilling produces not just oil  but fish \u2014 and lots of them",
+      "url": "https://nypost.com/2022/07/15/offshore-drilling-produces-not-just-oil-but-fish-and-lots-of-them/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/coach-joe-kennedys-supreme-court-win-i-fought-for-right-to-pray/"
+    },
+    {
+      "text": "Joseph Kennedy",
+      "url": "https://nypost.com/author/joseph-kennedy/"
+    },
+    {
+      "text": "Coach fired for 50-yard-line prayers beams after Supreme Court win: 'I fought for this right'",
+      "url": "https://nypost.com/2022/07/15/coach-joe-kennedys-supreme-court-win-i-fought-for-right-to-pray/"
+    },
+    {
+      "text": "See All\n\n",
+      "url": "https://nypost.com/opinion/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/yankees-doomed-by-wild-pitch-in-extra-inning-loss-to-red-sox/"
+    },
+    {
+      "text": "Opportunity lost",
+      "url": "https://nypost.com/2022/07/15/yankees-doomed-by-wild-pitch-in-extra-inning-loss-to-red-sox/"
+    },
+    {
+      "text": "Yankees doomed by wild pitch in back-and-forth loss to Red Sox",
+      "url": "https://nypost.com/2022/07/15/yankees-doomed-by-wild-pitch-in-extra-inning-loss-to-red-sox/"
+    },
+    {
+      "text": "In a season in which they did almost everything right in the first half, the Yankees are finding out how the other half lives.",
+      "url": "https://nypost.com/2022/07/15/yankees-doomed-by-wild-pitch-in-extra-inning-loss-to-red-sox/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/jacob-degroms-rehab-getting-there-as-he-builds-up-before-mets-return/"
+    },
+    {
+      "text": "Next step",
+      "url": "https://nypost.com/2022/07/15/jacob-degroms-rehab-getting-there-as-he-builds-up-before-mets-return/"
+    },
+    {
+      "text": "Jacob deGrom faces this final part of rehab ",
+      "url": "https://nypost.com/2022/07/15/jacob-degroms-rehab-getting-there-as-he-builds-up-before-mets-return/"
+    },
+    {
+      "text": "Another tune up awaits him next week, and then it could be go time at Citi Field for the Mets ace.",
+      "url": "https://nypost.com/2022/07/15/jacob-degroms-rehab-getting-there-as-he-builds-up-before-mets-return/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://nypost.com/sports/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/yankees-aaron-boone-ejected-while-arguing-another-strike-call/"
+    },
+    {
+      "text": "\n\nWhy Aaron Boone blew his top and was ejected again",
+      "url": "https://nypost.com/2022/07/16/yankees-aaron-boone-ejected-while-arguing-another-strike-call/"
+    },
+    {
+      "text": "\n\nGolf star refuses to get in middle of more PGA-LIV division",
+      "url": "https://nypost.com/2022/07/15/british-open-dustin-johnson-wont-get-in-middle-of-pga-liv-division/"
+    },
+    {
+      "text": "\n\nOne-time top Mets pick ready for his second MLB draft",
+      "url": "https://nypost.com/2022/07/16/ex-mets-top-pick-kumar-rocker-set-for-his-second-mlb-draft/"
+    },
+    {
+      "text": "Mark Cannizzaro",
+      "url": "https://nypost.com/author/mark-cannizzaro/"
+    },
+    {
+      "text": "\n\nTiger Woods on likely his last British Open at St. Andrews: 'I had a few tears'",
+      "url": "https://nypost.com/2022/07/15/tiger-woods-had-a-few-tears-at-likely-final-st-andrews-british-open/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/rangers-sign-adam-sykora-to-three-year-entry-level-deal/"
+    },
+    {
+      "text": "Rangers sign teenage draft pick: 'Best day ever'",
+      "url": "https://nypost.com/2022/07/15/rangers-sign-adam-sykora-to-three-year-entry-level-deal/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/trey-dombroski-proving-velocity-isnt-everything-in-mlb-draft/"
+    },
+    {
+      "text": "Ex-Monmouth ace proving velocity isn't everything",
+      "url": "https://nypost.com/2022/07/16/trey-dombroski-proving-velocity-isnt-everything-in-mlb-draft/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/rory-mcilroy-stays-in-contention-at-british-open/"
+    },
+    {
+      "text": "Is it his time again?\nPGA Tour star still has good shot to break major drought",
+      "url": "https://nypost.com/2022/07/15/rory-mcilroy-stays-in-contention-at-british-open/"
+    },
+    {
+      "text": "Rory McIlroy didn\u2019t shoot another 66 on Friday, but he did post a 68 and has himself in contention to win his first major championship since 2014.",
+      "url": "https://nypost.com/2022/07/15/rory-mcilroy-stays-in-contention-at-british-open/"
+    },
+    {
+      "text": "Page Six\n\n",
+      "url": "https://pagesix.com"
+    },
+    {
+      "text": "",
+      "url": "https://pagesix.com/2022/07/16/how-euphoria-star-chloe-cherry-keeps-her-lips-looking-luscious/"
+    },
+    {
+      "text": "How 'Euphoria' star Chloe Cherry keeps her famous lips looking luscious",
+      "url": "https://pagesix.com/2022/07/16/how-euphoria-star-chloe-cherry-keeps-her-lips-looking-luscious/"
+    },
+    {
+      "text": "\u201cI\u2019m definitely\u00a0extremely flattered,\u201d Cherry tells Page Six Style of the \u201ccrazy\u201d attention surrounding her pout.",
+      "url": "https://pagesix.com/2022/07/16/how-euphoria-star-chloe-cherry-keeps-her-lips-looking-luscious/"
+    },
+    {
+      "text": "",
+      "url": "https://pagesix.com/2022/07/16/chris-hemsworth-says-wife-family-called-histhor-muscles-too-much/"
+    },
+    {
+      "text": "Chris Hemsworth says wife, family thought 'Thor' muscles were 'too much'",
+      "url": "https://pagesix.com/2022/07/16/chris-hemsworth-says-wife-family-called-histhor-muscles-too-much/"
+    },
+    {
+      "text": "",
+      "url": "https://pagesix.com/2022/07/16/beyonce-called-out-austin-powers-in-goldmember-poster-for-making-her-too-skinny/"
+    },
+    {
+      "text": "Beyonc\u00e9 critiqued 'Austin Powers In Goldmember' poster for making her 'too skinny'",
+      "url": "https://pagesix.com/2022/07/16/beyonce-called-out-austin-powers-in-goldmember-poster-for-making-her-too-skinny/"
+    },
+    {
+      "text": "",
+      "url": "https://pagesix.com/2022/07/16/vanessa-hudgens-stuns-in-pink-while-gisele-takes-the-wheel/"
+    },
+    {
+      "text": "Best star snaps of the week: Beauties and the beach",
+      "url": "https://pagesix.com/2022/07/16/vanessa-hudgens-stuns-in-pink-while-gisele-takes-the-wheel/"
+    },
+    {
+      "text": "",
+      "url": "https://pagesix.com/2022/07/15/ricky-martin-denies-having-sexual-relationship-with-nephew/"
+    },
+    {
+      "text": "Ricky Martin denies shocking claims of incestuous relationship with nephew",
+      "url": "https://pagesix.com/2022/07/15/ricky-martin-denies-having-sexual-relationship-with-nephew/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/johnny-depp-reunites-with-attorney-camille-vasquez-in-europe/"
+    },
+    {
+      "text": "Hello, Johnny! ",
+      "url": "https://nypost.com/2022/07/15/johnny-depp-reunites-with-attorney-camille-vasquez-in-europe/"
+    },
+    {
+      "text": "Depp spotted reuniting with attorney Camille Vasquez in Europe",
+      "url": "https://nypost.com/2022/07/15/johnny-depp-reunites-with-attorney-camille-vasquez-in-europe/"
+    },
+    {
+      "text": "The \u201cEdward Scissorhands\u201d star, 59, was seen smiling as he met up with the glamorous lawyer, 38, at a musical gig in Prague on Monday.",
+      "url": "https://nypost.com/2022/07/15/johnny-depp-reunites-with-attorney-camille-vasquez-in-europe/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/clare-pooley-novel-celebrates-commuting-with-strangers/"
+    },
+    {
+      "text": "New novel celebrates the joy of commuting with strangers",
+      "url": "https://nypost.com/2022/07/16/clare-pooley-novel-celebrates-commuting-with-strangers/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/billy-corgan-announces-benefit-concert-for-highland-park-parade-shooting-victims/"
+    },
+    {
+      "text": "Billy Corgan announces benefit concert for Highland Park victims",
+      "url": "https://nypost.com/2022/07/16/billy-corgan-announces-benefit-concert-for-highland-park-parade-shooting-victims/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/weird-al-yankovic-tells-alanis-morissette-to-stay-in-your-lane-for-her-play-on-words/"
+    },
+    {
+      "text": "'Weird Al' Yankovic tells Alanis Morissette to 'stay in your lane' for word play",
+      "url": "https://nypost.com/2022/07/16/weird-al-yankovic-tells-alanis-morissette-to-stay-in-your-lane-for-her-play-on-words/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/disney-world-guests-escape-from-sinking-splash-mountain-log-boat-caught-on-video/"
+    },
+    {
+      "text": "Disney World guests' escape from sinking Splash Mountain log boat caught on video",
+      "url": "https://nypost.com/2022/07/15/disney-world-guests-escape-from-sinking-splash-mountain-log-boat-caught-on-video/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/guests-speechless-as-mom-gets-engaged-at-daughters-wedding/"
+    },
+    {
+      "text": "Guests speechless after mom gets engaged at her daughter's wedding",
+      "url": "https://nypost.com/2022/07/15/guests-speechless-as-mom-gets-engaged-at-daughters-wedding/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/when-boy-banders-go-solo-from-michael-jackson-to-harry-styles-to-btss-j-hope/"
+    },
+    {
+      "text": "Go their own way\nWhen boy-banders go solo: from Michael Jackson to Harry Styles to BTS's J-Hope",
+      "url": "https://nypost.com/2022/07/15/when-boy-banders-go-solo-from-michael-jackson-to-harry-styles-to-btss-j-hope/"
+    },
+    {
+      "text": "As J-Hope releases \u201cJack in the Box,\u201d his debut album sans BTS, we look back on the hits and misses when boy-banders have gone solo.",
+      "url": "https://nypost.com/2022/07/15/when-boy-banders-go-solo-from-michael-jackson-to-harry-styles-to-btss-j-hope/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/elon-musk-says-tesla-may-lower-car-prices-if-inflation-eases/"
+    },
+    {
+      "text": "Maximum overdrive",
+      "url": "https://nypost.com/2022/07/15/elon-musk-says-tesla-may-lower-car-prices-if-inflation-eases/"
+    },
+    {
+      "text": "Musk says Tesla may lower vehicle prices if inflation eases",
+      "url": "https://nypost.com/2022/07/15/elon-musk-says-tesla-may-lower-car-prices-if-inflation-eases/"
+    },
+    {
+      "text": "Tesla\u00a0Chief Executive Officer Elon\u00a0Musk\u00a0said Friday the electric automaker could lower prices for cars if inflation calms down.",
+      "url": "https://nypost.com/2022/07/15/elon-musk-says-tesla-may-lower-car-prices-if-inflation-eases/"
+    },
+    {
+      "text": "Business",
+      "url": "https://nypost.com/business/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/elon-musk-responds-to-meritless-twitter-suit-says-he-wants-to-push-trial-back-to-2023/"
+    },
+    {
+      "text": "\n\nElon Musk responds to 'meritless' Twitter suit, says he wants to push trial back to 2023",
+      "url": "https://nypost.com/2022/07/15/elon-musk-responds-to-meritless-twitter-suit-says-he-wants-to-push-trial-back-to-2023/"
+    },
+    {
+      "text": "\n\nLarry Summers says this is when the unrealistic Fed 'lost its way'",
+      "url": "https://nypost.com/2022/07/15/larry-summers-says-the-federal-reserve-is-wrong-about-economy/"
+    },
+    {
+      "text": "\n\nSkittles contain toxin that makes them unsafe to eat: lawsuit",
+      "url": "https://nypost.com/2022/07/15/skittles-contain-toxin-and-are-unsafe-to-eat-lawsuit-claims/"
+    },
+    {
+      "text": "\n\nJudge in Musk v. Twitter case once made rare order forcing deal to close",
+      "url": "https://nypost.com/2022/07/15/judge-in-musk-v-twitter-case-made-rare-order-forcing-deal-to-close/"
+    },
+    {
+      "text": "post wanted",
+      "url": "https://nypost.com/shopping/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/article/best-nordstrom-anniversary-sale-picks-2022/"
+    },
+    {
+      "text": "\nShop 'til you drop with these 50 Nordstrom Anniversary Sale 2022 picks",
+      "url": "https://nypost.com/article/best-nordstrom-anniversary-sale-picks-2022/"
+    },
+    {
+      "text": "Treat yourself to a little Nordstrom therapy.",
+      "url": "https://nypost.com/article/best-nordstrom-anniversary-sale-picks-2022/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/09/best-nordstrom-anniversary-sale-2022-designer-deals/"
+    },
+    {
+      "text": "Shop designer deals like you mean it during the Nordstrom Anniversary Sale 2022 ",
+      "url": "https://nypost.com/2022/07/09/best-nordstrom-anniversary-sale-2022-designer-deals/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/article/best-nordstrom-anniversary-sale-2022-home-decor-deals/"
+    },
+    {
+      "text": "Nordstrom Anniversary Sale 2022: Shop the best home decor items",
+      "url": "https://nypost.com/article/best-nordstrom-anniversary-sale-2022-home-decor-deals/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/article/best-nordstrom-anniversary-sale-2022-kitchen-deals/"
+    },
+    {
+      "text": "18 Nordstrom Anniversary Sale 2022 kitchen deals you don't want to miss",
+      "url": "https://nypost.com/article/best-nordstrom-anniversary-sale-2022-kitchen-deals/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/article/best-nordstrom-anniversary-sale-2022-beauty-deals/"
+    },
+    {
+      "text": "We're glossing over these 20 best beauty deals during the Nordstrom Anniversary Sale",
+      "url": "https://nypost.com/article/best-nordstrom-anniversary-sale-2022-beauty-deals/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/love-is-blind-lauren-and-cameron-hamilton-talk-soiree-essentials/"
+    },
+    {
+      "text": "\u2018Love Is Blind\u2019 Lauren and Cameron Hamilton talk love and soir\u00e9e essentials",
+      "url": "https://nypost.com/2022/07/15/love-is-blind-lauren-and-cameron-hamilton-talk-soiree-essentials/"
+    },
+    {
+      "text": "Videos",
+      "url": "/video/"
+    },
+    {
+      "text": "More Videos\n\n",
+      "url": "/video/"
+    },
+    {
+      "text": "\n",
+      "url": "https://nypost.com/video/bathroom-hand-dryer-germs-test-movie-theater-gas-station-and-more/"
+    },
+    {
+      "text": "Bathroom hand dryer germs test: Movie theater, gas station and more",
+      "url": "https://nypost.com/video/bathroom-hand-dryer-germs-test-movie-theater-gas-station-and-more/"
+    },
+    {
+      "text": "\n\n\nCarnival ride collapses mid-air in terrifying video",
+      "url": "https://nypost.com/video/carnival-ride-collapses-mid-air-in-terrifying-video/"
+    },
+    {
+      "text": "\n\n\nWoman eats 24-inch pizza all by herself",
+      "url": "https://nypost.com/video/woman-eats-24-inch-pizza-all-by-herself/"
+    },
+    {
+      "text": "\n\n\nApplebee\u2019s date from hell | Post Poppin\u2019 with Asia Grace",
+      "url": "https://nypost.com/video/applebees-date-from-hell-post-poppin-with-asia-grace/"
+    },
+    {
+      "text": "News\n\n",
+      "url": "https://nypost.com/news/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/michigan-single-engine-plane-crash-leaves-no-survivors-officials-say/"
+    },
+    {
+      "text": "Michigan officials say there 'appears to be no survivors' after single-engine plane crashes",
+      "url": "https://nypost.com/2022/07/16/michigan-single-engine-plane-crash-leaves-no-survivors-officials-say/"
+    },
+    {
+      "text": "Jim Thorpe reinstated as sole winner for 1912 Olympic golds",
+      "url": "https://nypost.com/2022/07/16/jim-thorpe-reinstated-as-sole-winner-for-1912-olympic-golds/"
+    },
+    {
+      "text": "Jan. 6 committee subpoenas Secret Service over deleted text messages",
+      "url": "https://nypost.com/2022/07/16/jan-6-committee-subpoenas-secret-service-over-deleted-text-messages/"
+    },
+    {
+      "text": "Dust storm causes deadly Montana pileup",
+      "url": "https://nypost.com/2022/07/16/montana-pileup-caused-by-dust-storm-leaves-at-least-5-dead/"
+    },
+    {
+      "text": "Sports\n\n",
+      "url": "https://nypost.com/sports/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/french-grand-prix-best-bets-include-slow-starting-great/"
+    },
+    {
+      "text": "French Grand Prix best bets include slow-starting great",
+      "url": "https://nypost.com/2022/07/16/french-grand-prix-best-bets-include-slow-starting-great/"
+    },
+    {
+      "text": "Olympic star caps career with memorable bronze at world championships",
+      "url": "https://nypost.com/2022/07/16/allyson-felix-caps-career-with-bronze-medal-in-world-championships/"
+    },
+    {
+      "text": "Lakers star, longtime agent part ways: 'Irreconcilable differences'",
+      "url": "https://nypost.com/2022/07/16/russell-westbrook-splits-with-agent-thad-foucher-irreconcilable-differences/"
+    },
+    {
+      "text": "Can Bengals go over their win total again after Super Bowl run?",
+      "url": "https://nypost.com/2022/07/16/why-you-should-bet-the-under-for-bengals-win-total-in-2022/"
+    },
+    {
+      "text": "Metro\n\n",
+      "url": "https://nypost.com/metro/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/nyc-body-artist-andy-gould-hits-union-square-to-paint-the-naked/"
+    },
+    {
+      "text": "Naked city: Artist hits Union Square to paint NYers bodies",
+      "url": "https://nypost.com/2022/07/16/nyc-body-artist-andy-gould-hits-union-square-to-paint-the-naked/"
+    },
+    {
+      "text": "Cops probing 66-year-old woman\u2019s suspicious death in Bronx apartment",
+      "url": "https://nypost.com/2022/07/16/nypd-investigating-womans-suspicious-death-in-nyc-apartment/"
+    },
+    {
+      "text": "Eric Adams' 2025 reelection campaign has already raised $850K",
+      "url": "https://nypost.com/2022/07/15/eric-adams-2025-reelection-campaign-has-already-raised-850k/"
+    },
+    {
+      "text": "3 convictions overturned in horrific 1995 murder case probed by disgraced NYPD cop",
+      "url": "https://nypost.com/2022/07/15/trio-cleared-after-25-years-behind-bars-for-brooklyn-slaying/"
+    },
+    {
+      "text": "Entertainment\n\n",
+      "url": "https://nypost.com/entertainment/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/tiktok-stars-random-acts-of-kindness-slammed-dehumanizing-clickbait/"
+    },
+    {
+      "text": "TikTok star's 'random acts of kindness' slammed as 'dehumanizing' clickbait",
+      "url": "https://nypost.com/2022/07/15/tiktok-stars-random-acts-of-kindness-slammed-dehumanizing-clickbait/"
+    },
+    {
+      "text": "Nathan Fielder takes gonzo comedy to a new level in 'The Rehearsal': review",
+      "url": "https://nypost.com/2022/07/15/nathan-fielder-goes-gonzo-in-hbos-the-rehearsal-review/"
+    },
+    {
+      "text": "Harry Styles wears a wig, fans say: 'We're being robbed of bald Harry'",
+      "url": "https://nypost.com/2022/07/15/harry-styles-wears-a-wig-fans-say-were-being-robbed-of-bald-harry/"
+    },
+    {
+      "text": "William Hart, lead singer of the Delfonics, dead at 77",
+      "url": "https://nypost.com/2022/07/15/william-hart-lead-singer-of-the-delfonics-dead-at-77/"
+    },
+    {
+      "text": "opinion \n\n",
+      "url": "https://nypost.com/opinion/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/the-two-and-three-wheeled-menaces-on-nyc-streets-must-be-stopped/"
+    },
+    {
+      "text": "The two-and three-wheeled menaces on NYC streets must be stopped",
+      "url": "https://nypost.com/2022/07/15/the-two-and-three-wheeled-menaces-on-nyc-streets-must-be-stopped/"
+    },
+    {
+      "text": "Biden (reluctantly) faces reality in Saudi sitdown",
+      "url": "https://nypost.com/2022/07/15/biden-reluctantly-faces-reality-in-saudi-sitdown/"
+    },
+    {
+      "text": "DeSantis' Disney hit hurts taxpayers and other commentary",
+      "url": "https://nypost.com/2022/07/15/desantis-disney-hit-hurts-taxpayers-and-other-commentary/"
+    },
+    {
+      "text": "Letters to the Editor \u2014 July 16, 2022",
+      "url": "https://nypost.com/2022/07/15/letters-to-the-editor-july-16-2022/"
+    },
+    {
+      "text": "business\n\n",
+      "url": "https://nypost.com/business/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/walmart-adds-another-adult-brand-to-its-shelves/"
+    },
+    {
+      "text": "Walmart adds another adult brand to its shelves",
+      "url": "https://nypost.com/2022/07/15/walmart-adds-another-adult-brand-to-its-shelves/"
+    },
+    {
+      "text": "Russian space chief who trolled Elon Musk fired by Kremlin",
+      "url": "https://nypost.com/2022/07/15/russian-space-chief-dmitry-rogozin-fired-after-elon-musk-troll/"
+    },
+    {
+      "text": "Offices in Japan to install 'nap boxes' so workers can sleep standing up",
+      "url": "https://nypost.com/2022/07/15/japan-to-install-nap-boxes-so-workers-can-sleep-standing-up/"
+    },
+    {
+      "text": "LEGO unveils new 'The Office' set based on classic sitcom",
+      "url": "https://nypost.com/2022/07/15/lego-unveils-new-the-office-set/"
+    },
+    {
+      "text": "fashion\n\n",
+      "url": "https://nypost.com/fashion/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/article/best-cocktail-dresses-weddings-parties/"
+    },
+    {
+      "text": "Best cocktail dresses for weddings, parties and more",
+      "url": "https://nypost.com/article/best-cocktail-dresses-weddings-parties/"
+    },
+    {
+      "text": "Inside the fabulous Dior couture world of 'Mrs. Harris Goes to Paris'",
+      "url": "https://nypost.com/2022/07/14/mrs-harris-goes-to-paris-re-creates-fabulous-dior-couture/"
+    },
+    {
+      "text": "Gucci's former main office in London lists for $66M",
+      "url": "https://nypost.com/2022/07/07/guccis-former-main-office-in-london-lists-for-66m/"
+    },
+    {
+      "text": "Kim Kardashian's surprising beauty secret: At-home laser treatments",
+      "url": "https://nypost.com/2022/07/07/kim-kardashians-surprising-beauty-secret-laser-treatments/"
+    },
+    {
+      "text": "shopping\n\n",
+      "url": "https://nypost.com/shopping/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/16/make-your-wine-taste-better-with-this-electric-decanter/"
+    },
+    {
+      "text": "Make your wine taste better in minutes with this electric decanter",
+      "url": "https://nypost.com/2022/07/16/make-your-wine-taste-better-with-this-electric-decanter/"
+    },
+    {
+      "text": "Make wireless charging convenient with this multitasking power station",
+      "url": "https://nypost.com/2022/07/16/make-wireless-charging-easy-with-a-multitasking-power-station/"
+    },
+    {
+      "text": "This refurbished MacBook Air helps you be productive, saving over $700",
+      "url": "https://nypost.com/2022/07/16/get-this-refurbished-macbook-air-and-save-over-700-now/"
+    },
+    {
+      "text": "Get Jillian Michaels top-rated fitness app, now 66% off",
+      "url": "https://nypost.com/2022/07/16/get-jillian-michaels-top-rated-fitness-app-now-66-off/"
+    },
+    {
+      "text": "Real estate\n\n",
+      "url": "https://nypost.com/real-estate/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/be-neighbors-with-j-lo-and-chelsea-clinton-for-13-75m/"
+    },
+    {
+      "text": "Be neighbors with J.Lo and Chelsea Clinton for $13.75M",
+      "url": "https://nypost.com/2022/07/15/be-neighbors-with-j-lo-and-chelsea-clinton-for-13-75m/"
+    },
+    {
+      "text": "Former HBO exec sells East Village penthouse for nearly $5M",
+      "url": "https://nypost.com/2022/07/15/former-hbo-exec-sells-nyc-penthouse-for-nearly-5m/"
+    },
+    {
+      "text": "WeWork co-founder Adam Neumann selling Westchester estate for $4.5M",
+      "url": "https://nypost.com/2022/07/15/wework-co-founder-adam-neumann-selling-ny-estate-for-4-5m/"
+    },
+    {
+      "text": "Iconic NYC bookstore finds new home next door",
+      "url": "https://nypost.com/2022/07/15/iconic-nyc-bookstore-finds-new-home-next-door/"
+    },
+    {
+      "text": "living\n\n",
+      "url": "https://nypost.com/living/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/iranian-man-has-water-bottle-removed-from-anus/"
+    },
+    {
+      "text": "The shocking truth behind my husband's constipation ",
+      "url": "https://nypost.com/2022/07/15/iranian-man-has-water-bottle-removed-from-anus/"
+    },
+    {
+      "text": "\u2018Drunk\u2019 New York man sends hook-up texts in a group chat",
+      "url": "https://nypost.com/2022/07/15/drunk-new-york-man-sends-hook-up-texts-in-a-group-chat/"
+    },
+    {
+      "text": "NYC pub sells gallon of beer for price of gas to protest Biden inflation",
+      "url": "https://nypost.com/2022/07/15/nyc-pub-sells-gallon-of-beer-for-price-of-gas-to-protest-biden-inflation/"
+    },
+    {
+      "text": "Model calls for curvier Hooters servers in sexy shoot with hot wings",
+      "url": "https://nypost.com/2022/07/15/model-calls-for-curvier-hooters-servers-in-sexy-shoot-with-hot-wings/"
+    },
+    {
+      "text": "tech\n\n",
+      "url": "https://nypost.com/tech/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/amazon-may-kill-amazon-basics-other-private-brands-report/"
+    },
+    {
+      "text": "Why Amazon might kill Amazon Basics and other private label brands: report",
+      "url": "https://nypost.com/2022/07/15/amazon-may-kill-amazon-basics-other-private-brands-report/"
+    },
+    {
+      "text": "Mark Cuban claims Bill Gates once stole his 'girls' in Las Vegas",
+      "url": "https://nypost.com/2022/07/15/mark-cuban-claims-bill-gates-stole-his-girls-in-las-vegas/"
+    },
+    {
+      "text": "Facebook owner Meta releases first human rights report",
+      "url": "https://nypost.com/2022/07/14/facebook-owner-meta-releases-first-human-rights-report/"
+    },
+    {
+      "text": "Facebook tests letting users have up to five profiles on one account",
+      "url": "https://nypost.com/2022/07/14/facebook-testing-ways-to-allow-five-profiles-on-one-account/"
+    },
+    {
+      "text": "media\n\n",
+      "url": "https://nypost.com/media/"
+    },
+    {
+      "text": "",
+      "url": "https://nypost.com/2022/07/15/disney-to-hike-price-of-espn-by-43/"
+    },
+    {
+      "text": "Disney to hike price of ESPN's streaming service by 43%",
+      "url": "https://nypost.com/2022/07/15/disney-to-hike-price-of-espn-by-43/"
+    },
+    {
+      "text": "'DO NOT PUB': ABC mistakenly publishes rough draft of Ivana Trump obit",
+      "url": "https://nypost.com/2022/07/15/do-not-pub-abc-mistakenly-publishes-rough-draft-of-ivana-trump-obit/"
+    },
+    {
+      "text": "ESPN star will be off air while recovering from shoulder surgery",
+      "url": "https://nypost.com/2022/07/14/stephen-a-smith-missing-first-take-due-to-shoulder-injury/"
+    },
+    {
+      "text": "Warner Bros. studio hit with COVID outbreak as LA faces mask mandates",
+      "url": "https://nypost.com/2022/07/14/warner-bros-studio-hit-with-covid-outbreak-as-la-faces-mask-mandates/"
+    },
+    {
+      "text": "\n\t\t\t\t\tFacebook\n\t\t\t\t",
+      "url": "https://www.facebook.com/nypost"
+    },
+    {
+      "text": "\n\t\t\t\t\tTwitter\n\t\t\t\t",
+      "url": "https://twitter.com/nypost"
+    },
+    {
+      "text": "\n\t\t\t\t\tInstagram\n\t\t\t\t",
+      "url": "https://instagram.com/nypost"
+    },
+    {
+      "text": "\n\t\t\t\t\tLinkedIn\n\t\t\t\t",
+      "url": "https://www.linkedin.com/company/new-york-post"
+    },
+    {
+      "text": "\n\t\t\t\t\tEmail\n\t\t\t\t",
+      "url": "https://email.nypost.com/"
+    },
+    {
+      "text": "straight to your inbox",
+      "url": "https://email.nypost.com/"
+    },
+    {
+      "text": "\n\t\t\t\tSign Up\n\t\t\t\t\n\t\t\t",
+      "url": "https://email.nypost.com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/15/this-man-moved-into-a-home-depot-shed-after-being-in-debt/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tThis family moved into a Home Depot shed after going into debt \u2060\u2014 then made a huge profit selling it\t\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/15/this-man-moved-into-a-home-depot-shed-after-being-in-debt/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://pagesix.com/2022/07/14/tom-brady-wealth-is-the-hardest-thing-about-parenting/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tTom Brady: My wealth is the 'hardest thing' about parenting\t\t\t\t\t\t",
+      "url": "https://pagesix.com/2022/07/14/tom-brady-wealth-is-the-hardest-thing-about-parenting/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/14/im-70-but-look-much-younger-thanks-to-these-three-rules-of-skincare/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\tI'm 70 \u2014 but look much younger thanks to these three rules of skincare\t\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/14/im-70-but-look-much-younger-thanks-to-these-three-rules-of-skincare/"
+    },
+    {
+      "text": "\n\t\t\t\t\tSNAPS\n\t\t\t\t",
+      "url": "/photos/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tIvana Trump's life in photos\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/14/ivana-trumps-life-in-photos/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tShirtless Leonardo DiCaprio yachts in Saint-Tropez and more star snaps\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://pagesix.com/2022/07/15/shirtless-leonardo-dicaprio-yachts-in-saint-tropez-and-more-star-snaps/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tIvana Trump through the years \u2014 as seen on the front page of The Post\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/14/ivana-trump-ex-wife-of-former-president-trump-in-post-covers/"
+    },
+    {
+      "text": "\n\t\t\t\t\tMore Photos\n\t\t\t\t\t\n\t\t\t\t",
+      "url": "/photos/"
+    },
+    {
+      "text": "",
+      "url": "https://www.outbrain.com/what-is/default/en"
+    },
+    {
+      "text": "\n\t\t\t\tHoroscopes\t\t\t",
+      "url": "https://nypost.com/horoscopes/"
+    },
+    {
+      "text": "\n\t\t\tCancer\t\t",
+      "url": "https://nypost.com/horoscopes/cancer/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t",
+      "url": "https://nypost.com/horoscopes/cancer/"
+    },
+    {
+      "text": "\n\t\t\t\tAll Horoscopes\n\t\t\t\t\n\t\t\t",
+      "url": "https://nypost.com/horoscopes/"
+    },
+    {
+      "text": "\n\t\t\tColumnists\n\t\t",
+      "url": "https://nypost.com/columnists/"
+    },
+    {
+      "text": "\n\t\t\t\t\tIan O'Connor\t\t\t\t",
+      "url": "https://nypost.com/2022/07/16/no-need-for-yankees-to-hit-panic-button-amid-first-rut/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/16/no-need-for-yankees-to-hit-panic-button-amid-first-rut/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tNo need for Yankees to hit panic button\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/16/no-need-for-yankees-to-hit-panic-button-amid-first-rut/"
+    },
+    {
+      "text": "\n\t\t\t\t\tJennifer Gould\t\t\t\t",
+      "url": "https://nypost.com/2022/07/15/be-neighbors-with-j-lo-and-chelsea-clinton-for-13-75m/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/15/be-neighbors-with-j-lo-and-chelsea-clinton-for-13-75m/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tBe neighbors with J.Lo and Chelsea Clinton for $13.75M\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/15/be-neighbors-with-j-lo-and-chelsea-clinton-for-13-75m/"
+    },
+    {
+      "text": "\n\t\t\t\t\tSteve Cuozzo\t\t\t\t",
+      "url": "https://nypost.com/2022/07/15/chick-fil-a-makes-some-of-the-best-fried-chicken-in-new-york/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/15/chick-fil-a-makes-some-of-the-best-fried-chicken-in-new-york/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tHow Chick-Fil-A makes some of the best chicken in NYC\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/15/chick-fil-a-makes-some-of-the-best-fried-chicken-in-new-york/"
+    },
+    {
+      "text": "\n\t\t\t\t\tMark Cannizzaro\t\t\t\t",
+      "url": "https://nypost.com/2022/07/15/tiger-woods-had-a-few-tears-at-likely-final-st-andrews-british-open/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/15/tiger-woods-had-a-few-tears-at-likely-final-st-andrews-british-open/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tTiger Woods on likely his final British Open at St. Andrews: 'I had a few tears'\t\t\t\t\t",
+      "url": "https://nypost.com/2022/07/15/tiger-woods-had-a-few-tears-at-likely-final-st-andrews-british-open/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t\t\tSee All Columnists\t\t\t\n\t\t",
+      "url": "https://nypost.com/columnists/"
+    },
+    {
+      "text": "\n\t\t\t\t\tCovers\n\t\t\t\t",
+      "url": "https://nypost.com/covers/"
+    },
+    {
+      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tFront Cover\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tBack Cover\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tFlip for back cover\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "url": "https://nypost.com/cover/july-16-2022/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tBrowse Covers\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://nypost.com/covers/"
+    },
+    {
+      "text": "\n\t\t\t\n\t\t",
+      "url": "https://decider.com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "url": "https://decider.com/2022/07/14/whoopi-goldberg-addresses-joy-behar-absence-the-view-pregnant/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\tWhoopi Goldberg Finally Addresses Joy Behar\u2019s Absence on \u2018The View\u2019: \u201cMaybe She\u2019s Pregnant\u201d\t\t\t\t\t",
+      "url": "https://decider.com/2022/07/14/whoopi-goldberg-addresses-joy-behar-absence-the-view-pregnant/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\tSee All\t\t\n\t",
+      "url": "https://decider.com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tFacebook\n\t\t\t\t\t\t\t",
+      "url": "https://www.facebook.com/nypost"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tTwitter\n\t\t\t\t\t\t\t",
+      "url": "https://twitter.com/nypost"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tInstagram\n\t\t\t\t\t\t\t",
+      "url": "https://instagram.com/nypost"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tLinkedIn\n\t\t\t\t\t\t\t",
+      "url": "https://www.linkedin.com/company/new-york-post"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tEmail\n\t\t\t\t\t\t\t",
+      "url": "https://email.nypost.com/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\tYouTube\n\t\t\t\t\t\t\t",
+      "url": "https://www.youtube.com/nypost"
+    },
+    {
+      "text": "Sections & Features",
+      "url": "#"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Metro",
+      "url": "/metro/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Sports Betting",
+      "url": "https://nypost.com/post-action-betting/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "/entertainment/"
+    },
+    {
+      "text": "Fashion",
+      "url": "/fashion/"
+    },
+    {
+      "text": "Shopping",
+      "url": "https://nypost.com/shopping/"
+    },
+    {
+      "text": "Living",
+      "url": "/living/"
+    },
+    {
+      "text": "Media",
+      "url": "/media/"
+    },
+    {
+      "text": "Tech",
+      "url": "/tech/"
+    },
+    {
+      "text": "Real Estate",
+      "url": "/real-estate/"
+    },
+    {
+      "text": "Astrology",
+      "url": "https://nypost.com/astrology/"
+    },
+    {
+      "text": "Video",
+      "url": "/video/"
+    },
+    {
+      "text": "Photos",
+      "url": "/photos/"
+    },
+    {
+      "text": "Visual Stories",
+      "url": "https://nypost.com/web-stories/"
+    },
+    {
+      "text": "Alexa",
+      "url": "/alexa/"
+    },
+    {
+      "text": "Covers",
+      "url": "/covers/"
+    },
+    {
+      "text": "Horoscopes",
+      "url": "/horoscopes/"
+    },
+    {
+      "text": "Sports Odds",
+      "url": "https://nypost.com/odds/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://nypost.com/podcasts/"
+    },
+    {
+      "text": "Columnists",
+      "url": "/columnists/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "/classifieds/"
+    },
+    {
+      "text": "Post Sports+",
+      "url": "#"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/account/subscribe/"
+    },
+    {
+      "text": "Articles",
+      "url": "/sports-plus/"
+    },
+    {
+      "text": "Manage",
+      "url": "/account/settings/"
+    },
+    {
+      "text": "Newsletters & Feeds",
+      "url": "#"
+    },
+    {
+      "text": "Email Newsletters",
+      "url": "https://email.nypost.com/"
+    },
+    {
+      "text": "RSS Feeds",
+      "url": "https://nypost.com/rssfeeds/"
+    },
+    {
+      "text": "NY Post Official Store",
+      "url": "https://shop.nypost.com/"
+    },
+    {
+      "text": "Home Delivery",
+      "url": "#"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://subscribe.nypost.com/"
+    },
+    {
+      "text": "Manage Subscription",
+      "url": "https://my.nypost.com/"
+    },
+    {
+      "text": "Delivery Help",
+      "url": "https://nypost.com/home-delivery/"
+    },
+    {
+      "text": "Help/Support",
+      "url": "#"
+    },
+    {
+      "text": "About New York Post",
+      "url": "https://nypost.com/about-new-york-post/"
+    },
+    {
+      "text": "Customer Service",
+      "url": "https://nypost.com/customer-service/"
+    },
+    {
+      "text": "App FAQ & Help",
+      "url": "http://nypost.help/"
+    },
+    {
+      "text": "Community Guidelines",
+      "url": "https://nypost.com/community-guidelines/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "#"
+    },
+    {
+      "text": "Tips",
+      "url": "https://nypost.com/tips/"
+    },
+    {
+      "text": "Newsroom",
+      "url": "https://nypost.com/contact/"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "https://nypost.com/contact/"
+    },
+    {
+      "text": "Reprints",
+      "url": "http://www.nypostreprints.com/"
+    },
+    {
+      "text": "Careers",
+      "url": "/careers/"
+    },
+    {
+      "text": "Apps",
+      "url": "#"
+    },
+    {
+      "text": "iPhone App",
+      "url": "https://itunes.apple.com/us/app/new-york-post-iphone-edition/id410094240?mt=8"
+    },
+    {
+      "text": "iPad App",
+      "url": "https://itunes.apple.com/us/app/new-york-post-ipad-edition/id378590820?mt=8"
+    },
+    {
+      "text": "Android Phone",
+      "url": "https://play.google.com/store/apps/details?id=br.com.golmobile.nypost&hl=en"
+    },
+    {
+      "text": "Android Tablet",
+      "url": "https://play.google.com/store/apps/details?id=com.nypost.tablet&hl=en"
+    },
+    {
+      "text": "Advertise",
+      "url": "#"
+    },
+    {
+      "text": "Media Kit",
+      "url": "http://advertising.nypost.com/"
+    },
+    {
+      "text": "Contact",
+      "url": "http://advertising.nypost.com/#contact"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://nypost.com/terms/"
+    },
+    {
+      "text": "Membership Terms",
+      "url": "https://nypost.com/membership-terms/"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://nypost.com/privacy/"
+    },
+    {
+      "text": "Your Ad Choices",
+      "url": "https://nypost.com/privacy/#adchoices"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://nypost.com/sitemap/"
+    },
+    {
+      "text": "Your California Privacy Rights",
+      "url": "https://nypost.com/ca-privacy-rights/"
+    },
+    {
+      "text": "",
+      "url": "https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=nypost.com"
+    },
+    {
+      "text": "California Privacy Notice",
+      "url": "https://nypost.com/ca-privacy-rights/"
+    },
+    {
+      "text": " Privacy Notice",
+      "url": "https://nypost.com/privacy/?_ga=2.162180159.2021409786.1576596116-971237461.1576596116#information-we-share"
+    },
+    {
+      "text": "here",
+      "url": "https://www.iabprivacy.com/optout.html"
+    },
+    {
+      "text": "Submit Request",
+      "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/8930e991-baac-4a05-89f0-fc400879fa8a/99e0d3e5-614d-4289-860a-d9efb91e9ad8.html"
+    },
+    {
+      "text": "Submit an Opt Out Request",
+      "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/8930e991-baac-4a05-89f0-fc400879fa8a/8fb051a8-a4bd-4664-986a-3f5db39c29f6.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    }
+  ],
   "server": "ia802506.us.archive.org",
-  "uniq": 573639785,
+  "uniq": 1014254839,
   "workable_servers": [
     "ia802506.us.archive.org",
     "ia902506.us.archive.org"
