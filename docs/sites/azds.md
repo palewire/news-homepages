@@ -17,7 +17,7 @@ orphan: true
 | Location       | Flagstaff                                                                 |
 | Timezone       | America/Phoenix                                                                 |
 
-The archiving routine has captured 27 screenshots stored at the Internet Archive.
+The archiving routine has captured 28 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

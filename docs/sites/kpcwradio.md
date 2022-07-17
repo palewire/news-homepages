@@ -17,7 +17,7 @@ orphan: true
 | Location       | Park City                                                                 |
 | Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 16 screenshots stored at the Internet Archive.
+The archiving routine has captured 17 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

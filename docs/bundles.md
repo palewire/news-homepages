@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 30 bundles of sites.
+The archiving routine is currently organized into 31 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -33,6 +33,7 @@ The archiving routine is currently organized into 30 bundles of sites.
 |[Technology](https://palewi.re/docs/news-homepages/bundles/tech.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/tech.xml)|
 |[Texas](https://palewi.re/docs/news-homepages/bundles/texas.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/texas.xml)|
 |[U.K. national news](https://palewi.re/docs/news-homepages/bundles/uk-national.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/uk-national.xml)|
+|[U.S. left wing](https://palewi.re/docs/news-homepages/bundles/us-left-wing.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/us-left-wing.xml)|
 |[U.S. national news](https://palewi.re/docs/news-homepages/bundles/us-national.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/us-national.xml)|
 |[U.S. right wing](https://palewi.re/docs/news-homepages/bundles/us-right-wing.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/us-right-wing.xml)|
 |[Washington](https://palewi.re/docs/news-homepages/bundles/washington.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/washington.xml)|
