@@ -1,5 +1,5 @@
 {
-  "created": 1658060219,
+  "created": 1658073047,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/techcrunch-2022",
@@ -3838,31 +3838,73 @@
       "sha1": "255706cf31ace0f52f52f7b9834e9b6a81395a91"
     },
     {
+      "name": "techcrunch-2022-07-17T08:44:21.236796-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658072665",
+      "size": "29317",
+      "md5": "f1f3e7fb06efdac31623ed50ac8365be",
+      "crc32": "582ea4e3",
+      "sha1": "d7494de5e2c563de09850c34d49d75da0414e2ce",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-17T08:44:21.236796-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658072667",
+      "size": "12335",
+      "md5": "005378279bd144bc36825108b5ddb4a3",
+      "crc32": "386ec36a",
+      "sha1": "fbcf00378b75da11231c0bf7dbd91b9f13679c9f",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-07-17T08:44:21.236796-07:00.jpg",
+      "source": "original",
+      "mtime": "1658072664",
+      "size": "209056",
+      "md5": "f145e9d76c8abf80ba7106de58d5eba1",
+      "crc32": "cc811111",
+      "sha1": "23f495833bf434688660655d3f57b67e13c329d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-07-17T08:44:21.236796-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-07-17T08:44:21.236796-07:00.jpg",
+      "mtime": "1658073013",
+      "size": "8425",
+      "md5": "933af5426dbce50f55e917dfcf931021",
+      "crc32": "fd8dcd0c",
+      "sha1": "e3835b38e64afbefd8da0a104ed198b814575112"
+    },
+    {
       "name": "techcrunch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ab94974372b01036b0799dfcd91c5a6dc2dfccd6",
-      "mtime": "1658032446",
-      "size": "78773",
-      "md5": "d6bebe998f1194a29737e80be06b0a91",
-      "crc32": "ff84ff7e",
-      "sha1": "fb7c7a8120582fffee68d9c83ca81e42d8a6a5e6",
+      "btih": "c6d171168dd4dd5fae6307f2a6c74236261ab790",
+      "mtime": "1658073025",
+      "size": "79610",
+      "md5": "495a6d3fae1ff3dbfb0ef9fc5bd28b7e",
+      "crc32": "32f40ce1",
+      "sha1": "fbcf6ce78ad8b23bf20b58b4e0888e2940bd2eb5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techcrunch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7b0855b8f36fafc1ebd27d6ca5f5674e",
+      "md5": "f46a467ae5be60a021df48f86a569555",
       "summation": "md5"
     },
     {
       "name": "techcrunch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658030918",
-      "size": "438272",
-      "md5": "e4983d768a34652ee8086c3974fa44f0",
-      "crc32": "6ba9d6d7",
-      "sha1": "4d2bcae9edceef719f41f47fed0895ab507c4c1f",
+      "mtime": "1658072670",
+      "size": "442368",
+      "md5": "7bd6bfde4b01977be713047585fb085b",
+      "crc32": "14f71670",
+      "sha1": "4aa592355fa73f2696d637583887690233270b29",
       "format": "Metadata"
     },
     {
@@ -3876,9 +3918,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 369,
-  "item_last_updated": 1658032446,
-  "item_size": 25436820,
+  "files_count": 373,
+  "item_last_updated": 1658073025,
+  "item_size": 25700886,
   "metadata": {
     "identifier": "techcrunch-2022",
     "collection": [
@@ -3895,472 +3937,10 @@
     "publicdate": "2022-06-24 23:01:49",
     "addeddate": "2022-06-24 23:01:49"
   },
-  "server": "ia801505.us.archive.org",
-  "techcrunch-2022": [
-    {
-      "text": "TechCrunch",
-      "url": "https://techcrunch.com/"
-    },
-    {
-      "text": "Login",
-      "url": "https://oidc.techcrunch.com/login/?prompt=login&dest=https%3A%2F%2Ftechcrunch.com%2F"
-    },
-    {
-      "text": "Join TechCrunch+",
-      "url": "/subscribe?tpcc=homepagetout"
-    },
-    {
-      "text": "TC Sessions: Robotics",
-      "url": "/events/tc-sessions-robotics-2022/"
-    },
-    {
-      "text": "Startups",
-      "url": "/category/startups/"
-    },
-    {
-      "text": "TechCrunch+",
-      "url": "/techcrunchplus/?tpcc=ecleftnav"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/pages/podcasts/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/newsletters"
-    },
-    {
-      "text": "Startup Battlefield",
-      "url": "/events/tc-disrupt-2022/startup-battlefield-200/"
-    },
-    {
-      "text": "Advertise",
-      "url": "/pages/advertisement-events-calendar/"
-    },
-    {
-      "text": "Events",
-      "url": "/events/"
-    },
-    {
-      "text": "More",
-      "url": "/"
-    },
-    {
-      "text": "This Week in Apps: Elon wants out, TikTok\u2019s content ratings, a new milestone for subscription revenue",
-      "url": "/2022/07/16/this-week-in-apps-elon-wants-out-tiktoks-content-ratings-a-new-milestone-for-subscription-revenue/"
-    },
-    {
-      "text": "Sarah Perez",
-      "url": "/author/sarah-perez/"
-    },
-    {
-      "text": "",
-      "url": "/2022/07/16/this-week-in-apps-elon-wants-out-tiktoks-content-ratings-a-new-milestone-for-subscription-revenue/"
-    },
-    {
-      "text": "TechCrunch",
-      "url": "/"
-    },
-    {
-      "text": "Market Analysis",
-      "url": "/techcrunchplus/market-analysis/"
-    },
-    {
-      "text": "After Roe\u2019s reversal, founders of women\u2019s health startups prepare for battle",
-      "url": "/2022/07/16/after-roes-reversal-founders-of-womens-health-startups-prepare-for-battle/"
-    },
-    {
-      "text": "Dominic-Madori Davis",
-      "url": "/author/dominic-madori-davis/"
-    },
-    {
-      "text": "TC Sessions: Robotics 2022",
-      "url": "/events/tc-sessions-robotics-2022/"
-    },
-    {
-      "text": "Building the future of robotics",
-      "url": "/2022/07/16/building-the-future-of-robotics/"
-    },
-    {
-      "text": "Alex Wilhelm",
-      "url": "/author/alex-wilhelm/"
-    },
-    {
-      "text": "Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos",
-      "url": "/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/"
-    },
-    {
-      "text": "Kyle Wiggers",
-      "url": "/author/kyle-wiggers/"
-    },
-    {
-      "text": "Devin Coldewey",
-      "url": "/author/devin-coldewey/"
-    },
-    {
-      "text": "Nothing Phone (1) review",
-      "url": "/2022/07/15/nothing-phone-1-review/"
-    },
-    {
-      "text": "Brian Heater",
-      "url": "/author/brian-heater/"
-    },
-    {
-      "text": "Microsoft\u2019s layoffs, Airlift\u2019s shutdown and Lofi Girl\u2019s unplanned study break",
-      "url": "/2022/07/16/microsofts-layoffs-airlifts-shutdown-and-lofi-girls-unplanned-study-break/"
-    },
-    {
-      "text": "Greg Kumparak",
-      "url": "/author/greg-kumparak/"
-    },
-    {
-      "text": "TC Sessions: Robotics 2022",
-      "url": "/events/tc-sessions-robotics-2022/"
-    },
-    {
-      "text": "Building the future of robotics",
-      "url": "/2022/07/16/building-the-future-of-robotics/"
-    },
-    {
-      "text": "Alex Wilhelm",
-      "url": "/author/alex-wilhelm/"
-    },
-    {
-      "text": "Market Analysis",
-      "url": "/techcrunchplus/market-analysis/"
-    },
-    {
-      "text": "After Roe\u2019s reversal, founders of women\u2019s health startups prepare for battle",
-      "url": "/2022/07/16/after-roes-reversal-founders-of-womens-health-startups-prepare-for-battle/"
-    },
-    {
-      "text": "Dominic-Madori Davis",
-      "url": "/author/dominic-madori-davis/"
-    },
-    {
-      "text": "This Week in Apps: Elon wants out, TikTok\u2019s content ratings, a new milestone for subscription revenue",
-      "url": "/2022/07/16/this-week-in-apps-elon-wants-out-tiktoks-content-ratings-a-new-milestone-for-subscription-revenue/"
-    },
-    {
-      "text": "Sarah Perez",
-      "url": "/author/sarah-perez/"
-    },
-    {
-      "text": "Market dissonance doesn\u2019t always include an easy hot take",
-      "url": "/2022/07/16/market-dissonance-doesnt-always-include-an-easy-hot-take/"
-    },
-    {
-      "text": "Natasha Mascarenhas",
-      "url": "/author/natasha-mascarenhas/"
-    },
-    {
-      "text": "TechCrunch",
-      "url": "/"
-    },
-    {
-      "text": "Market Analysis",
-      "url": "/techcrunchplus/market-analysis/"
-    },
-    {
-      "text": "Empowering a new wave of health tech startups \u2014 with data",
-      "url": "/2022/07/16/empowering-a-new-wave-of-health-tech-startups-with-data/"
-    },
-    {
-      "text": "Anna Heim",
-      "url": "/author/anna-heim/"
-    },
-    {
-      "text": "Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos",
-      "url": "/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/"
-    },
-    {
-      "text": "Kyle Wiggers",
-      "url": "/author/kyle-wiggers/"
-    },
-    {
-      "text": "Devin Coldewey",
-      "url": "/author/devin-coldewey/"
-    },
-    {
-      "text": "Big tech companies in the spotlight as South Africa investigates dominance abuse",
-      "url": "/2022/07/16/big-tech-companies-in-the-spotlight-as-south-africa-investigates-dominance-abuse/"
-    },
-    {
-      "text": "Annie Njanja",
-      "url": "/author/annie-njanja/"
-    },
-    {
-      "text": "TechCrunchTC Sessions: Space 2022Dec 6Discover what's on the horizon for the next frontierSpecial Launch Pricing Available Nowcarat-rightBuy Now",
-      "url": "/events/tc-sessions-space-2022/"
-    },
-    {
-      "text": "Analysts estimate single digit growth for all retailers during Prime Day sales",
-      "url": "/2022/07/16/analysts-estimate-single-digit-growth-for-all-retailers-during-prime-day-sales/"
-    },
-    {
-      "text": "Ivan Mehta",
-      "url": "/author/ivan-mehta/"
-    },
-    {
-      "text": "See all newsletters(opens in a new window)",
-      "url": "https://link.techcrunch.com/join/134/signup-all-newsletters"
-    },
-    {
-      "text": "TechCrunch",
-      "url": "/"
-    },
-    {
-      "text": "Market Analysis",
-      "url": "/techcrunchplus/market-analysis/"
-    },
-    {
-      "text": "Once a key driver of global venture activity, fintech investment slows around the world",
-      "url": "/2022/07/16/once-a-key-driver-of-global-venture-activity-fintech-investment-slows-around-the-world/"
-    },
-    {
-      "text": "Alex Wilhelm",
-      "url": "/author/alex-wilhelm/"
-    },
-    {
-      "text": "Mary Ann Azevedo",
-      "url": "/author/mary-ann-azevedo-2/"
-    },
-    {
-      "text": "Natasha Mascarenhas",
-      "url": "/author/natasha-mascarenhas/"
-    },
-    {
-      "text": "TC Sessions: Robotics 2022",
-      "url": "/events/tc-sessions-robotics-2022/"
-    },
-    {
-      "text": "Sign Up",
-      "url": "/events/tc-sessions-robotics-2022/#tickets"
-    },
-    {
-      "text": "Be a Sponsor",
-      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
-    },
-    {
-      "text": "TechCrunch Live with Underscore VC and Hi Marley",
-      "url": "/events/techcrunch-live-with-underscore-vc-and-hi-marley/"
-    },
-    {
-      "text": "Register",
-      "url": "/events/techcrunch-live-with-underscore-vc-and-hi-marley/#tickets"
-    },
-    {
-      "text": "Be a Sponsor",
-      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
-    },
-    {
-      "text": "TechCrunch Disrupt 2022",
-      "url": "/events/tc-disrupt-2022/"
-    },
-    {
-      "text": "Buy Tickets",
-      "url": "/events/tc-disrupt-2022/tickets/"
-    },
-    {
-      "text": "Be a Sponsor",
-      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
-    },
-    {
-      "text": "TechCrunch Sessions: Crypto 2022",
-      "url": "/events/tc-sessions-crypto-2022/"
-    },
-    {
-      "text": "Buy Tickets",
-      "url": "/events/tc-sessions-crypto-2022/#tickets"
-    },
-    {
-      "text": "Be a Sponsor",
-      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
-    },
-    {
-      "text": "TC Sessions: Space 2022",
-      "url": "/events/tc-sessions-space-2022/"
-    },
-    {
-      "text": "Buy Tickets",
-      "url": "/events/tc-sessions-space-2022/#tickets"
-    },
-    {
-      "text": "Be a Sponsor",
-      "url": "http://info.techcrunch.com/SponsorshipsInterest.html"
-    },
-    {
-      "text": "Making sense of the market right now with Danny Rimer of Index Ventures",
-      "url": "/2022/07/15/making-sense-of-the-market-right-now-with-danny-rimer-of-index-ventures/"
-    },
-    {
-      "text": "Connie Loizos",
-      "url": "/author/connie-loizos/"
-    },
-    {
-      "text": "Elon Musk pushes for the Twitter trial to start next year",
-      "url": "/2022/07/15/elon-musk-twitter-lawsuit-timeline-february/"
-    },
-    {
-      "text": "Taylor Hatmaker",
-      "url": "/author/taylor-hatmaker/"
-    },
-    {
-      "text": "Daily Crunch: After developers complain, Microsoft clarifies new policy on open source monetization",
-      "url": "/2022/07/15/microsoft-clarifies-new-policy-on-open-source-monetization/"
-    },
-    {
-      "text": "Christine Hall",
-      "url": "/author/christine-hall/"
-    },
-    {
-      "text": "Haje Jan Kamps",
-      "url": "/author/haje-jan-kamps-2/"
-    },
-    {
-      "text": "Cryptominers defend gigawatt-scale energy usage called out by Congress",
-      "url": "/2022/07/15/cryptominers-defend-gigawatt-scale-energy-usage-called-out-by-congress/"
-    },
-    {
-      "text": "Harri Weber",
-      "url": "/author/harri-weber/"
-    },
-    {
-      "text": "Astrology addicts can now see zodiac content on Bumble",
-      "url": "/2022/07/15/astrology-addicts-can-now-see-zodiac-content-on-bumble/"
-    },
-    {
-      "text": "Lauren Forristal",
-      "url": "/author/lauren-forristal/"
-    },
-    {
-      "text": "Hulu is turning Spotify\u2019s most popular playlist into a new docuseries, \u2018RapCaviar Presents\u2019",
-      "url": "/2022/07/15/hulu-is-turning-spotifys-most-popular-playlist-into-a-new-docuseries-rapcaviar-presents/"
-    },
-    {
-      "text": "Lauren Forristal",
-      "url": "/author/lauren-forristal/"
-    },
-    {
-      "text": "Nothing Phone (1) review",
-      "url": "/2022/07/15/nothing-phone-1-review/"
-    },
-    {
-      "text": "Brian Heater",
-      "url": "/author/brian-heater/"
-    },
-    {
-      "text": "Sony officially owns Bungie now",
-      "url": "/2022/07/15/sony-owns-bungie/"
-    },
-    {
-      "text": "Taylor Hatmaker",
-      "url": "/author/taylor-hatmaker/"
-    },
-    {
-      "text": "TechCrunch",
-      "url": "/"
-    },
-    {
-      "text": "Market Analysis",
-      "url": "/techcrunchplus/market-analysis/"
-    },
-    {
-      "text": "Despite creaky markets, European edtech is showing its resilience",
-      "url": "/2022/07/15/despite-creaky-markets-european-edtech-is-showing-its-resilience/"
-    },
-    {
-      "text": "Rhys Spence",
-      "url": "/author/rhys-spence/"
-    },
-    {
-      "text": "TechCrunch podcasts this week: Bowery Farms, web3 startup Yat and Stripe\u2019s internal valuation",
-      "url": "/2022/07/15/bowery-farms-web3-startup-yat-and-stripes-internal-valuation/"
-    },
-    {
-      "text": "Henry Pickavet",
-      "url": "/author/henry-pickavet/"
-    },
-    {
-      "text": "About",
-      "url": "/"
-    },
-    {
-      "text": "TechCrunch",
-      "url": "/"
-    },
-    {
-      "text": "Staff",
-      "url": "/pages/about-techcrunch"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/pages/contact-us/"
-    },
-    {
-      "text": "Advertise",
-      "url": "/pages/advertisement-events-calendar/"
-    },
-    {
-      "text": "Crunchboard Jobs",
-      "url": "https://www.crunchboard.com/"
-    },
-    {
-      "text": "Legal",
-      "url": "/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/index.html"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html"
-    },
-    {
-      "text": "TechCrunch+ Terms",
-      "url": "/pages/extra-crunch-terms-of-service/"
-    },
-    {
-      "text": "Privacy Dashboard",
-      "url": "https://guce.techcrunch.com/privacy-dashboard?locale=en-US"
-    },
-    {
-      "text": "Code of Conduct",
-      "url": "/pages/code-of-conduct/"
-    },
-    {
-      "text": "About Our Ads",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "FacebookFacebook(opens in a new window)",
-      "url": "https://www.facebook.com//techcrunch"
-    },
-    {
-      "text": "TwitterTwitter(opens in a new window)",
-      "url": "https://twitter.com/techcrunch"
-    },
-    {
-      "text": "YouTubeYouTube(opens in a new window)",
-      "url": "http://www.youtube.com/user/techcrunch"
-    },
-    {
-      "text": "InstagramInstagram(opens in a new window)",
-      "url": "http://instagram.com/techcrunch"
-    },
-    {
-      "text": "LinkedInLinkedIn(opens in a new window)",
-      "url": "http://www.linkedin.com/company/techcrunch"
-    },
-    {
-      "text": "WordPress VIP(opens in a new window)",
-      "url": "https://vip.wordpress.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit"
-    }
-  ],
-  "uniq": 1779071518,
+  "server": "ia601505.us.archive.org",
+  "uniq": 2087090986,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

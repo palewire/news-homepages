@@ -1,5 +1,5 @@
 {
-  "created": 1658047471,
+  "created": 1658069520,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/23/items/nikkei-2022",
@@ -1150,31 +1150,73 @@
       "sha1": "4e4902639afc1e8c823f33b01ef5afd0672084ac"
     },
     {
+      "name": "nikkei-2022-07-17T23:47:29.478940+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658069252",
+      "size": "66988",
+      "md5": "bf7f6e2109810ab87a1999dbb85f051f",
+      "crc32": "b746dafa",
+      "sha1": "4b0ecb5f6f36be41bd8a13b6b07591369ce6fff9",
+      "format": "JSON"
+    },
+    {
+      "name": "nikkei-2022-07-17T23:47:29.478940+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658069254",
+      "size": "161515",
+      "md5": "c2f53a888c8a78daec47611e36416fa2",
+      "crc32": "39503946",
+      "sha1": "6ce30d24d49baa062e25112657f3778cbfeafa40",
+      "format": "JSON"
+    },
+    {
+      "name": "nikkei-2022-07-17T23:47:29.478940+09:00.jpg",
+      "source": "original",
+      "mtime": "1658069250",
+      "size": "304945",
+      "md5": "f523d4c05ed987e2edd4a91db93282b4",
+      "crc32": "8b90a77e",
+      "sha1": "449d2d992743ba4b8a8830405e95c10af2a66952",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nikkei-2022-07-17T23:47:29.478940+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nikkei-2022-07-17T23:47:29.478940+09:00.jpg",
+      "mtime": "1658069361",
+      "size": "10622",
+      "md5": "13e9e76bc4edee57cabeb3eff3d9c7e6",
+      "crc32": "cdb67e26",
+      "sha1": "e547cdf792d8716655ef4552fea8b87790dd3038"
+    },
+    {
       "name": "nikkei-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c256be456d2fe1678f4cd7f0cb6110cac75c89df",
-      "mtime": "1658029173",
-      "size": "24391",
-      "md5": "a956a94cfe5f2b4f31f3698663baff90",
-      "crc32": "6d06e7f3",
-      "sha1": "a136a9b9bb37af61795fa294faab3b3a651d1865",
+      "btih": "f3899a6c4eb981832bae81e9bea875f43aa4e78f",
+      "mtime": "1658069403",
+      "size": "25234",
+      "md5": "fe3b819d1f8fa6005e420990e33015d4",
+      "crc32": "1bc95e74",
+      "sha1": "87780dd200c322ba30fd832f136413d9d0e49582",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nikkei-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a586f94b0f95d89bc28a3082abfff1d6",
+      "md5": "4a42d2af83135b1ddfe29882cea18b73",
       "summation": "md5"
     },
     {
       "name": "nikkei-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658028484",
-      "size": "147456",
-      "md5": "a1007fa3177e687c9418d865d80f4bda",
-      "crc32": "4a762b6d",
-      "sha1": "2c48d52bf2e16451774af543c1c0dd408e7739b9",
+      "mtime": "1658069257",
+      "size": "151552",
+      "md5": "714b95823cd7737b3f24ab50b821248a",
+      "crc32": "8caf3b79",
+      "sha1": "eb6c0045f6f80372e4c66da6be130b457ea1fbbf",
       "format": "Metadata"
     },
     {
@@ -1188,9 +1230,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 113,
-  "item_last_updated": 1658029173,
-  "item_size": 14816250,
+  "files_count": 117,
+  "item_last_updated": 1658069403,
+  "item_size": 15365259,
   "metadata": {
     "identifier": "nikkei-2022",
     "collection": [
@@ -1208,7 +1250,7 @@
     "addeddate": "2022-07-09 02:39:07"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 365782390,
+  "uniq": 279173883,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

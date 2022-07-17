@@ -118,11 +118,11 @@
     },
     {
       "text": "Sign up as a reader",
-      "url": "/sign_up?return_to=%2Fus"
+      "url": "/sign_up?return_to=/us"
     },
     {
       "text": "Sign in",
-      "url": "/sign_in?return_to=%2Fus"
+      "url": "/sign_in?return_to=/us"
     },
     {
       "text": "\n    \n",
@@ -1341,7 +1341,7 @@
       "url": "https://theconversation.com/us/who-we-are"
     }
   ],
-  "created": 1658059669,
+  "created": 1658073885,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/34/items/conversationus-2022",
@@ -2072,31 +2072,73 @@
       "sha1": "16f34cfb13301ba36db099b7a670f85633f15b80"
     },
     {
+      "name": "conversationus-2022-07-17T08:45:20.018886-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658061923",
+      "size": "53331",
+      "md5": "3c80de111e292c43cb88d977c43f4fca",
+      "crc32": "7eaced54",
+      "sha1": "fda36ce0ed02ad2f88a11e019742ce64582a8efb",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-07-17T08:45:20.018886-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658061925",
+      "size": "42821",
+      "md5": "d4b19ae36c45801a2763fd89fff54532",
+      "crc32": "272116eb",
+      "sha1": "bcbd208d33d1438229f998fba3d363392c5f13f3",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-07-17T08:45:20.018886-04:00.jpg",
+      "source": "original",
+      "mtime": "1658061922",
+      "size": "326687",
+      "md5": "efa70afef7297a8a1899b2c35c156941",
+      "crc32": "0a6fbc83",
+      "sha1": "7cbfb03c063b35f911df91c5a34c4e2fdeaa6371",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "conversationus-2022-07-17T08:45:20.018886-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "conversationus-2022-07-17T08:45:20.018886-04:00.jpg",
+      "mtime": "1658062459",
+      "size": "10381",
+      "md5": "1524bcf70b0ff5ac9e3bff5c4360a969",
+      "crc32": "2d836e74",
+      "sha1": "16f34cfb13301ba36db099b7a670f85633f15b80"
+    },
+    {
       "name": "conversationus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e01d60fc8cb8b706dd7d73ad8d8f27d8926d3bb",
-      "mtime": "1658019504",
-      "size": "16434",
-      "md5": "f9c68f22d41cec2fc79927101efcd320",
-      "crc32": "b97627ed",
-      "sha1": "eba7f5bba4acf4cce50412ca37252ccdecaaf459",
+      "btih": "fe5caf5a04a5d04b3116f8cb3e667b464e2cfd82",
+      "mtime": "1658062475",
+      "size": "17309",
+      "md5": "5d4ec089af373cd4423255fa6007f857",
+      "crc32": "1f04b96c",
+      "sha1": "101cefb0b83354dde6035a982bd3a66a6d516d44",
       "format": "Archive BitTorrent"
     },
     {
       "name": "conversationus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbf839183b4da2439638159dfecdfecf",
+      "md5": "0d9de075c1a7df8eea028fbfa97d4ef2",
       "summation": "md5"
     },
     {
       "name": "conversationus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658019442",
-      "size": "98304",
-      "md5": "9de92a08a5948634d8ef414db5037b59",
-      "crc32": "73341aff",
-      "sha1": "c96e0fafcd9e55bea0e6b8583cb8a811c2c5a9d6",
+      "mtime": "1658061928",
+      "size": "102400",
+      "md5": "d5d89e99c708f82b4b72ba54aabc92df",
+      "crc32": "853ff19f",
+      "sha1": "c113b2562d987909e3666f694e643b471241306a",
       "format": "Metadata"
     },
     {
@@ -2110,9 +2152,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 73,
-  "item_last_updated": 1658019504,
-  "item_size": 6739707,
+  "files_count": 77,
+  "item_last_updated": 1658062475,
+  "item_size": 7177898,
   "metadata": {
     "identifier": "conversationus-2022",
     "collection": [
@@ -2129,10 +2171,10 @@
     "publicdate": "2022-07-09 03:57:31",
     "addeddate": "2022-07-09 03:57:31"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 103668253,
+  "server": "ia902501.us.archive.org",
+  "uniq": 968706771,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

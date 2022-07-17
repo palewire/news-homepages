@@ -17,7 +17,7 @@ orphan: true
 | Location       | Asheville                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 176 screenshots stored at the Internet Archive.
+The archiving routine has captured 177 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
