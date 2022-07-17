@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Infowars
+
+![Infowars](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/infowars.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.infowars.com/](https://www.infowars.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/infowars.xml) |
+| Twitter handle | [@infowars](https://www.twitter.com/infowars)                     |
+| Location       | Austin                                                                 |
+| Timezone       | America/Chicago                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |
