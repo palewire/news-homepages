@@ -17,7 +17,8 @@ orphan: true
 | Location       | Moscow                                                                 |
 | Timezone       | Europe/Moscow                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[sputnikint-2022](https://archive.org/details/sputnikint-2022)|
