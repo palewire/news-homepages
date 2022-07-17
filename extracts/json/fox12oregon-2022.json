@@ -1,5 +1,5 @@
 {
-  "created": 1658024600,
+  "created": 1658073933,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/35/items/fox12oregon-2022",
@@ -1108,31 +1108,73 @@
       "sha1": "241bd9135094e78dfa5d674189b67a74e3b271f1"
     },
     {
+      "name": "fox12oregon-2022-07-17T06:43:59.161047-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658065442",
+      "size": "36574",
+      "md5": "7ea95f072e8c16553ab61e56f2f630dd",
+      "crc32": "c671ef89",
+      "sha1": "aa7ceb5c4aaa662718962704e335c4102e66e0b6",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-07-17T06:43:59.161047-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658065444",
+      "size": "23593",
+      "md5": "6d9dfab083da0b87b386572f158654b6",
+      "crc32": "1a6a7b7c",
+      "sha1": "c283908e671f2cd92d92513d4022ff8a1ac0b44d",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-07-17T06:43:59.161047-07:00.jpg",
+      "source": "original",
+      "mtime": "1658065440",
+      "size": "351191",
+      "md5": "d79063fe5bc8a584387788a6792962e0",
+      "crc32": "81f38652",
+      "sha1": "b40535ef3deefb89e3d78204303f023b22895335",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-07-17T06:43:59.161047-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-07-17T06:43:59.161047-07:00.jpg",
+      "mtime": "1658065522",
+      "size": "11190",
+      "md5": "3c1506e91a0d0734267132e2d1e48079",
+      "crc32": "1c5493e5",
+      "sha1": "521b2a09a29af8796c651ec0ce152c22d2e11279"
+    },
+    {
       "name": "fox12oregon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cec5e6743f503d9492c05648c553e43b8af23840",
-      "mtime": "1658024573",
-      "size": "23987",
-      "md5": "2590672d87173a225c1076613161d819",
-      "crc32": "ffe1218b",
-      "sha1": "8718b6dea9897db93b0b882d5fccb4ddc9db1d5c",
+      "btih": "c1a6d9f1adc35c146f1ed125998e934a5aaff302",
+      "mtime": "1658065532",
+      "size": "24849",
+      "md5": "092c6dd3064096101076ae520a1f7a2e",
+      "crc32": "cf9a195b",
+      "sha1": "9b5ddf28d140474019b348faa573b31ccbfec1c9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox12oregon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a59e23222e5ba9275701b33b83d8b3be",
+      "md5": "2a41cf90dbeff2c0dbbe390e426c5b1f",
       "summation": "md5"
     },
     {
       "name": "fox12oregon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658024503",
-      "size": "143360",
-      "md5": "c97f0918808132a35a8eed3830a9d5e9",
-      "crc32": "d8f61416",
-      "sha1": "7a99ca5b2e25990c04e72e2f9521810c3b756070",
+      "mtime": "1658065448",
+      "size": "147456",
+      "md5": "6e962a74c1608f55d69dc4e588e390b3",
+      "crc32": "1b6cb4ec",
+      "sha1": "5994b4c3713516ffcf84d40ac074c01159e0d0f6",
       "format": "Metadata"
     },
     {
@@ -1146,9 +1188,883 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 109,
-  "item_last_updated": 1658024573,
-  "item_size": 11778050,
+  "files_count": 113,
+  "fox12oregon-2022": [
+    {
+      "text": "Skip to content",
+      "url": "#main"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "61\u00b0Portland, OR",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon"
+    },
+    {
+      "text": "Outdoor GPS",
+      "url": "/outdoorgps"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "/programming/schedule"
+    },
+    {
+      "text": "Steals & Deals",
+      "url": "https://localstealsanddeals.com/?utm_source=Meredith&utm_medium=banner&utm_campaign=KPTV&knocking_aff=KPTV"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "/page/advertise-with-us/"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/livestream"
+    },
+    {
+      "text": "Home",
+      "url": "/homepage"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "National News",
+      "url": "/news/national"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "/health/coronavirus"
+    },
+    {
+      "text": "Digital Exclusives",
+      "url": "/news/digital-exclusives"
+    },
+    {
+      "text": "FOX 12 Featured Stories",
+      "url": "/video-gallery/news/features/"
+    },
+    {
+      "text": "Most Wanted",
+      "url": "/news/crime/most-wanted"
+    },
+    {
+      "text": "School Authority",
+      "url": "/news/education/school-authority"
+    },
+    {
+      "text": "Submit a Tip",
+      "url": "/page/submit-a-tip"
+    },
+    {
+      "text": "News Links - As Seen On TV",
+      "url": "/page/as-seen-on"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Submit Weather Photos",
+      "url": "/page/submit-weather-photos"
+    },
+    {
+      "text": "Weather Blog",
+      "url": "/weather/blog"
+    },
+    {
+      "text": "Weather Podcast",
+      "url": "/podcasts/weather"
+    },
+    {
+      "text": "7 Day Forecast",
+      "url": "/weather/7day"
+    },
+    {
+      "text": "Weather Maps",
+      "url": "/weather/maps"
+    },
+    {
+      "text": "Closings",
+      "url": "/weather/closings"
+    },
+    {
+      "text": "Weather Alerts",
+      "url": "/weather/alerts"
+    },
+    {
+      "text": "Wildfires",
+      "url": "/wildfires"
+    },
+    {
+      "text": "Digital Exclusives",
+      "url": "https://www.kptv.com/news/digital-exclusives/"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic"
+    },
+    {
+      "text": "Gas Prices",
+      "url": "/traffic/gas-prices"
+    },
+    {
+      "text": "Community",
+      "url": "/community"
+    },
+    {
+      "text": "Community Calendar",
+      "url": "/community/calendar"
+    },
+    {
+      "text": "Hunger Free Project",
+      "url": "/hungerfreeproject"
+    },
+    {
+      "text": "Clean Water - It's Our Future",
+      "url": "/page/clean-water-its-our-future/"
+    },
+    {
+      "text": "Better Together",
+      "url": "/page/better-together"
+    },
+    {
+      "text": "Be The Change",
+      "url": "/page/be-the-change"
+    },
+    {
+      "text": "Surprise Squad",
+      "url": "/page/surprise-squad"
+    },
+    {
+      "text": "Rose Festival",
+      "url": "/rosefestival/"
+    },
+    {
+      "text": "Classroom of the Month",
+      "url": "/page/classroom"
+    },
+    {
+      "text": "Submit Photos & Video",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports"
+    },
+    {
+      "text": "High Schools",
+      "url": "/sports/high-school"
+    },
+    {
+      "text": "Trail Blazers",
+      "url": "/sports/nba/blazers"
+    },
+    {
+      "text": "Timbers",
+      "url": "/sports/mls/timbers"
+    },
+    {
+      "text": "Thorns",
+      "url": "/sports/nwsl/thorns"
+    },
+    {
+      "text": "National Sports",
+      "url": "/sports/national"
+    },
+    {
+      "text": "Outdoor GPS",
+      "url": "/outdoorgps"
+    },
+    {
+      "text": "Health",
+      "url": "/health"
+    },
+    {
+      "text": "Kaiser Permanente Thrive",
+      "url": "/health/kaiser-permanente"
+    },
+    {
+      "text": "Providence Health & Services",
+      "url": "/health/providence"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon"
+    },
+    {
+      "text": "On the Go",
+      "url": "/programming/good-day-oregon/on-the-go/"
+    },
+    {
+      "text": "Andy's Adventures",
+      "url": "/video-gallery/programming/good-day-oregon/andys-adventures"
+    },
+    {
+      "text": "Share Your Child's 1st Birthday",
+      "url": "/page/1st-birthday"
+    },
+    {
+      "text": "Good Day Pets",
+      "url": "/page/good-day-pets/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/about-us/contact-us"
+    },
+    {
+      "text": "Meet the Team",
+      "url": "/about-us/meet-the-team"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "/programming/schedule"
+    },
+    {
+      "text": "Our Apps",
+      "url": "/page/apps/"
+    },
+    {
+      "text": "FOX 12 on Youtube",
+      "url": "https://www.youtube.com/c/fox12"
+    },
+    {
+      "text": "Alexa",
+      "url": "/page/alexa"
+    },
+    {
+      "text": "Get a Copy of a Newscast",
+      "url": "/page/get-a-copy-of-a-newscast/"
+    },
+    {
+      "text": "FOX 12 Plus",
+      "url": "/page/fox-12-plus/"
+    },
+    {
+      "text": "Station Video Tour",
+      "url": "/page/fox-oregon-station-tour/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://gray.tv/careers#currentopenings"
+    },
+    {
+      "text": "Closed Captioning",
+      "url": "/page/closed-captioning"
+    },
+    {
+      "text": "Translators",
+      "url": "/page/kptv-translators/"
+    },
+    {
+      "text": "NextGen TV",
+      "url": "/page/nextgen-tv"
+    },
+    {
+      "text": "Steals & Deals",
+      "url": "https://localstealsanddeals.com/?utm_source=Meredith&utm_medium=banner&utm_campaign=KPTV&knocking_aff=KPTV"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "/page/advertise-with-us/"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/livestream"
+    },
+    {
+      "text": "Latest Newscasts",
+      "url": "https://www.vuit.com/publishers/226/kptv/vod"
+    },
+    {
+      "text": "Job Connection",
+      "url": "/business/jobs"
+    },
+    {
+      "text": "Circle - Country Music & Lifestyle",
+      "url": "https://www.circleallaccess.com/"
+    },
+    {
+      "text": "Gray DC Bureau",
+      "url": "https://www.graydc.com/"
+    },
+    {
+      "text": "Investigate TV",
+      "url": "https://www.investigatetv.com/"
+    },
+    {
+      "text": "PowerNation",
+      "url": "/powernation"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/fox12oregon"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/fox12oregon"
+    },
+    {
+      "text": "",
+      "url": "https://www.twitter.com/fox12oregon"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCyWF77WR3CfkZ52cc9XK5wQ"
+    },
+    {
+      "text": "New report shows sharp increase in Portland gun violenceA new report released by Portland Mayor Ted Wheeler\u2019s office shows a sharp increase in gun violence.",
+      "url": "/2022/07/16/new-report-shows-sharp-increase-portland-gun-violence/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/16/new-report-shows-sharp-increase-portland-gun-violence/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/one-person-shot-portland-one-person-detained/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/16/one-person-shot-portland-one-person-detained/"
+    },
+    {
+      "text": "One person shot-and-killed in Portland, one person detained",
+      "url": "/2022/07/16/one-person-shot-portland-one-person-detained/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/oregon-call-center-prepares-988-suicide-hotline-rollout/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/16/oregon-call-center-prepares-988-suicide-hotline-rollout/"
+    },
+    {
+      "text": " Oregon call center prepares for 988 suicide hotline rollout",
+      "url": "/2022/07/16/oregon-call-center-prepares-988-suicide-hotline-rollout/"
+    },
+    {
+      "text": "Online Shopping Tools",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=meredith-kptv&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278718&campaign=19603838&click_id=GiApo3ZPvclSa5He2il1Vcu2q-XnCmQCUYAG5qmN0-SRsCD-_lMo8_r0xvCSgMc6&tblci=GiApo3ZPvclSa5He2il1Vcu2q-XnCmQCUYAG5qmN0-SRsCD-_lMo8_r0xvCSgMc6#tblciGiApo3ZPvclSa5He2il1Vcu2q-XnCmQCUYAG5qmN0-SRsCD-_lMo8_r0xvCSgMc6"
+    },
+    {
+      "text": "Amazon Left Scrambling As Shoppers Find Out About Secret DealsOnline Shopping Tools|",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=meredith-kptv&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278718&campaign=19603838&click_id=GiApo3ZPvclSa5He2il1Vcu2q-XnCmQCUYAG5qmN0-SRsCD-_lMo8_r0xvCSgMc6&tblci=GiApo3ZPvclSa5He2il1Vcu2q-XnCmQCUYAG5qmN0-SRsCD-_lMo8_r0xvCSgMc6#tblciGiApo3ZPvclSa5He2il1Vcu2q-XnCmQCUYAG5qmN0-SRsCD-_lMo8_r0xvCSgMc6"
+    },
+    {
+      "text": "",
+      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=meredith-kptv&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278718&campaign=19603838&click_id=GiApo3ZPvclSa5He2il1Vcu2q-XnCmQCUYAG5qmN0-SRsCD-_lMo8_r0xvCSgMc6&tblci=GiApo3ZPvclSa5He2il1Vcu2q-XnCmQCUYAG5qmN0-SRsCD-_lMo8_r0xvCSgMc6#tblciGiApo3ZPvclSa5He2il1Vcu2q-XnCmQCUYAG5qmN0-SRsCD-_lMo8_r0xvCSgMc6"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=meredith-kptv&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Sponsored",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=meredith-kptv&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Recommended by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=meredith-kptv&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "Recommended by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=meredith-kptv&utm_medium=referral&utm_content=thumbnails-native:Homepage Native Backfill:"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/pedestrian-killed-portland-crash-involving-2-vehicles/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/16/pedestrian-killed-portland-crash-involving-2-vehicles/"
+    },
+    {
+      "text": "Pedestrian killed in Portland crash involving 2 vehicles",
+      "url": "/2022/07/16/pedestrian-killed-portland-crash-involving-2-vehicles/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/multiple-shots-fired-hazel-dell-apartments-2-injured/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/16/multiple-shots-fired-hazel-dell-apartments-2-injured/"
+    },
+    {
+      "text": "Multiple shots fired at Hazel Dell apartments, 2 injured",
+      "url": "/2022/07/16/multiple-shots-fired-hazel-dell-apartments-2-injured/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/2-dead-after-vehicle-crashes-into-power-pole-near-lyons/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/16/2-dead-after-vehicle-crashes-into-power-pole-near-lyons/"
+    },
+    {
+      "text": "2 dead after vehicle crashes into power pole near Lyons",
+      "url": "/2022/07/16/2-dead-after-vehicle-crashes-into-power-pole-near-lyons/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/firefighters-rescue-3-cats-3-dogs-burning-home-eugene/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/16/firefighters-rescue-3-cats-3-dogs-burning-home-eugene/"
+    },
+    {
+      "text": "Firefighters rescue 3 cats, 3 dogs from burning home in Eugene",
+      "url": "/2022/07/16/firefighters-rescue-3-cats-3-dogs-burning-home-eugene/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/family-friends-remember-kevin-mcdowell-hold-memorial-friday/"
+    },
+    {
+      "text": " Family and friends remember Kevin McDowell, hold memorial on Friday",
+      "url": "/2022/07/16/family-friends-remember-kevin-mcdowell-hold-memorial-friday/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/exclusive-portland-woman-seeks-justice-after-unprovoked-killing-husband/"
+    },
+    {
+      "text": " EXCLUSIVE: Portland woman seeks justice after unprovoked killing of husband",
+      "url": "/2022/07/16/exclusive-portland-woman-seeks-justice-after-unprovoked-killing-husband/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/portland-police-investigating-powellhurst-gilbert-neighborhood-shooting/"
+    },
+    {
+      "text": "One dead after shooting in Powellhurst-Gilbert neighborhood ",
+      "url": "/2022/07/16/portland-police-investigating-powellhurst-gilbert-neighborhood-shooting/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "/hungerfreeproject"
+    },
+    {
+      "text": "",
+      "url": "/hungerfreeproject"
+    },
+    {
+      "text": "",
+      "url": "/page/as-seen-on/"
+    },
+    {
+      "text": "",
+      "url": "/page/as-seen-on/"
+    },
+    {
+      "text": "FOX 12 Plus+",
+      "url": "/page/fox-12-plus"
+    },
+    {
+      "text": "",
+      "url": "/page/fox-12-plus"
+    },
+    {
+      "text": "FOX 12's Most Wanted",
+      "url": "/news/crime/most-wanted"
+    },
+    {
+      "text": "",
+      "url": "/news/crime/most-wanted"
+    },
+    {
+      "text": "Digital Exclusives",
+      "url": "/news/digital-exclusives"
+    },
+    {
+      "text": "",
+      "url": "/news/digital-exclusives"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon/"
+    },
+    {
+      "text": "",
+      "url": "/programming/good-day-oregon/"
+    },
+    {
+      "text": "On The Go",
+      "url": "/programming/good-day-oregon/on-the-go/"
+    },
+    {
+      "text": "",
+      "url": "/programming/good-day-oregon/on-the-go/"
+    },
+    {
+      "text": "Submit Photos & Videos",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "LATEST VIDEO",
+      "url": "/video-gallery/news"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/16/national-suicide-hotline-launching-saturday-oregon/"
+    },
+    {
+      "text": "988 National Suicide Hotline launching Saturday in Oregon",
+      "url": "/video/2022/07/16/national-suicide-hotline-launching-saturday-oregon/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/16/family-friends-remember-kevin-mcdowell-hold-memorial-friday/"
+    },
+    {
+      "text": "Family and friends remember Kevin McDowell, hold memorial on Friday",
+      "url": "/video/2022/07/16/family-friends-remember-kevin-mcdowell-hold-memorial-friday/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/16/friday-evening-fox-weather-forecast/"
+    },
+    {
+      "text": "Friday evening FOX 12 weather forecast (7/15)",
+      "url": "/video/2022/07/16/friday-evening-fox-weather-forecast/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/16/multiple-agencies-respond-extinguish-hillsboro-brush-fire/"
+    },
+    {
+      "text": "Multiple agencies respond; extinguish Hillsboro brush fire",
+      "url": "/video/2022/07/16/multiple-agencies-respond-extinguish-hillsboro-brush-fire/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/murder-suspect-custody-after-deadly-hillsboro-shooting/"
+    },
+    {
+      "text": "Murder suspect in custody after deadly Hillsboro shooting",
+      "url": "/2022/07/16/murder-suspect-custody-after-deadly-hillsboro-shooting/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/portland-man-gets-15-years-prison-after-double-murder-attempt/"
+    },
+    {
+      "text": "Portland man gets 15 years in prison after double murder attempt",
+      "url": "/2022/07/15/portland-man-gets-15-years-prison-after-double-murder-attempt/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/multiple-agencies-respond-extinguish-hillsboro-brush-fire/"
+    },
+    {
+      "text": " Multiple agencies respond, extinguish Hillsboro brush fire",
+      "url": "/2022/07/16/multiple-agencies-respond-extinguish-hillsboro-brush-fire/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/new-bilingual-crossing-beacons-unveiled-cornelius/"
+    },
+    {
+      "text": " New bilingual crossing beacons unveiled in Cornelius",
+      "url": "/2022/07/15/new-bilingual-crossing-beacons-unveiled-cornelius/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/friends-family-community-members-mourn-spencer-webb-eugene/"
+    },
+    {
+      "text": " Friends, family, community members mourn Spencer Webb in Eugene",
+      "url": "/2022/07/15/friends-family-community-members-mourn-spencer-webb-eugene/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/world-athletic-championship-kicks-off-eugene/"
+    },
+    {
+      "text": " World Athletic Championship kicks off in Eugene",
+      "url": "/2022/07/15/world-athletic-championship-kicks-off-eugene/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/oregon-nurses-association-votes-yes-new-contract-providence-st-vincent/"
+    },
+    {
+      "text": "Oregon Nurses Association votes yes to new contract at Providence St. Vincent",
+      "url": "/2022/07/15/oregon-nurses-association-votes-yes-new-contract-providence-st-vincent/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/2-firefighters-injured-while-battling-two-alarm-house-fire-nw-portland/"
+    },
+    {
+      "text": "2 firefighters injured while battling two-alarm house fire in NW Portland",
+      "url": "/2022/07/15/2-firefighters-injured-while-battling-two-alarm-house-fire-nw-portland/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/portland-timbers-thorns-volunteer-with-habitat-humanity/"
+    },
+    {
+      "text": " Portland Timbers and Thorns volunteer with Habitat for Humanity",
+      "url": "/2022/07/16/portland-timbers-thorns-volunteer-with-habitat-humanity/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/some-local-law-enforcement-say-measure-110-is-backfiring/"
+    },
+    {
+      "text": " Some in local law enforcement say Measure 110 is backfiring",
+      "url": "/2022/07/15/some-local-law-enforcement-say-measure-110-is-backfiring/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/armed-suspect-arrested-during-illegal-marijuana-bust-central-point/"
+    },
+    {
+      "text": "Armed suspect arrested during illegal marijuana bust in Central Point",
+      "url": "/2022/07/15/armed-suspect-arrested-during-illegal-marijuana-bust-central-point/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/oregon-dhs-seeks-help-locating-missing-mom-son-portland/"
+    },
+    {
+      "text": "Oregon DHS seeks help locating missing mom, son from Portland",
+      "url": "/2022/07/15/oregon-dhs-seeks-help-locating-missing-mom-son-portland/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/dayton-elementary-school-teacher-arrested-sexual-contact-with-minor/"
+    },
+    {
+      "text": "Dayton elementary school teacher arrested for sexual contact with a minor",
+      "url": "/2022/07/15/dayton-elementary-school-teacher-arrested-sexual-contact-with-minor/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/exclusive-close-friends-remember-spencer-webb-his-life-off-field/"
+    },
+    {
+      "text": " EXCLUSIVE: Close friends remember Spencer Webb for his life on and off the field",
+      "url": "/2022/07/15/exclusive-close-friends-remember-spencer-webb-his-life-off-field/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/rose-city-sneakerfest-celebrates-sneaker-culture/"
+    },
+    {
+      "text": " Rose City Sneakerfest celebrates sneaker culture",
+      "url": "/2022/07/15/rose-city-sneakerfest-celebrates-sneaker-culture/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/innertuber-dies-after-injuries-sustained-boat-crash/"
+    },
+    {
+      "text": "Innertuber dies after injuries sustained in boat crash on Willamette River",
+      "url": "/2022/07/15/innertuber-dies-after-injuries-sustained-boat-crash/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/lot-us-are-afraid-vancouver-safe-stay-community-members-upset-after-attack-with-golf-club/"
+    },
+    {
+      "text": " \u2018A lot of us are afraid\u2019: Vancouver Safe Stay Community members upset after attack ",
+      "url": "/2022/07/15/lot-us-are-afraid-vancouver-safe-stay-community-members-upset-after-attack-with-golf-club/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/bicyclist-hit-killed-by-driver-north-portland-identified/"
+    },
+    {
+      "text": "Bicyclist hit, killed by driver in north Portland identified",
+      "url": "/2022/07/15/bicyclist-hit-killed-by-driver-north-portland-identified/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/eugene-businesses-prepare-world-athletics-championships/"
+    },
+    {
+      "text": " Eugene businesses prepare for the World Athletics Championships",
+      "url": "/2022/07/15/eugene-businesses-prepare-world-athletics-championships/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/santiam-horse-camp-reopens-after-2020-fire-damage/"
+    },
+    {
+      "text": " Santiam Horse Camp reopens after 2020 fire damage",
+      "url": "/2022/07/15/santiam-horse-camp-reopens-after-2020-fire-damage/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/no-criminal-charges-driver-deadly-sherwood-crash/"
+    },
+    {
+      "text": "No criminal charges for driver in deadly Sherwood crash",
+      "url": "/2022/07/15/no-criminal-charges-driver-deadly-sherwood-crash/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/15/portland-timbers-thorns-help-pack-food-boxes-sunshine-division/"
+    },
+    {
+      "text": " Portland Timbers, Thorns help pack food boxes at Sunshine Division",
+      "url": "/2022/07/15/portland-timbers-thorns-help-pack-food-boxes-sunshine-division/"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "About Us",
+      "url": "/about-us"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "/programming/schedule"
+    },
+    {
+      "text": "Community Calendar",
+      "url": "/community/calendar"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Meet the Team",
+      "url": "/about-us/meet-the-team"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/video/livestream"
+    },
+    {
+      "text": "Submit Photos & Video",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "/page/advertise-with-us/"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon"
+    },
+    {
+      "text": "Sign Up for Newsletters",
+      "url": "/newsletter"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic"
+    },
+    {
+      "text": "Careers",
+      "url": "https://gray.tv/careers#currentopenings"
+    },
+    {
+      "text": "KPTV Public Inspection File",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPTV"
+    },
+    {
+      "text": "KPDX Public Inspection File",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPDX"
+    },
+    {
+      "text": "Closed Captioning/Audio Description",
+      "url": "/page/closed-captioning"
+    },
+    {
+      "text": "FCC Applications",
+      "url": "https://webpubcontent.gray.tv/gdm/fcc/kptv-fcc_applications.pdf"
+    },
+    {
+      "text": "KPTV Children's Programming",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPTV/programs-list"
+    },
+    {
+      "text": "KPDX Children's Programming",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPDX/programs-list"
+    },
+    {
+      "text": "EEO Public File Report",
+      "url": "https://publicfiles.fcc.gov/api/manager/download/13d93aa2-4579-eff3-7899-81ec77639306/de328b66-3a49-489f-8137-1524077cac7c.pdf"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "/terms-of-service"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "Advertising",
+      "url": "/advertising"
+    },
+    {
+      "text": "search by queryly ",
+      "url": "https://www.queryly.com/"
+    },
+    {
+      "text": "Advanced Search",
+      "url": "#"
+    }
+  ],
+  "item_last_updated": 1658065532,
+  "item_size": 12205556,
   "metadata": {
     "identifier": "fox12oregon-2022",
     "collection": [
@@ -1166,7 +2082,7 @@
     "addeddate": "2022-07-04 21:52:58"
   },
   "server": "ia601403.us.archive.org",
-  "uniq": 2045517930,
+  "uniq": 510598407,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

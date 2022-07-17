@@ -1,5 +1,5 @@
 {
-  "created": 1658059925,
+  "created": 1658066338,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/12/items/lasvegassun-2022",
@@ -1108,31 +1108,73 @@
       "sha1": "38f0637c8a845acb0d995a582f4371837ccd78aa"
     },
     {
+      "name": "lasvegassun-2022-07-17T06:48:10.128037-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658065693",
+      "size": "2403",
+      "md5": "e5132308ecab29ff214ab259b99b68a5",
+      "crc32": "ff2a1697",
+      "sha1": "bb0726980b448ca55b9d3b9ddc8cd34ecc14227d",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-07-17T06:48:10.128037-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658065694",
+      "size": "12770",
+      "md5": "05a1646d77a7f619dad0d9a3dcac9a3a",
+      "crc32": "dab4156c",
+      "sha1": "e3fc782c1eb67eeda5d354b0f46bc81f9ac29a8e",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-07-17T06:48:10.128037-07:00.jpg",
+      "source": "original",
+      "mtime": "1658065691",
+      "size": "337339",
+      "md5": "bf1bc7e0140e0f497a122d2096eac4db",
+      "crc32": "e56d3b86",
+      "sha1": "15746c025d3bfb81ef131b38a4a8f804a4a878db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lasvegassun-2022-07-17T06:48:10.128037-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lasvegassun-2022-07-17T06:48:10.128037-07:00.jpg",
+      "mtime": "1658066166",
+      "size": "9904",
+      "md5": "0b8271ab589e6986c3978be03d3eeede",
+      "crc32": "3c35f808",
+      "sha1": "1bf5d69f811e8e6d0138d67159138564d915acab"
+    },
+    {
       "name": "lasvegassun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07f922caf68126e9116108450836383d72c53343",
-      "mtime": "1658024831",
-      "size": "23853",
-      "md5": "5fcf877ba70ac72ad1f71c2fe4f3dbf6",
-      "crc32": "cf434dbc",
-      "sha1": "14a8ba55d97a38967edbc4253c468b8dd1591d17",
+      "btih": "6642e16f141e9e721f72442fc83b74e9035c571a",
+      "mtime": "1658066283",
+      "size": "24713",
+      "md5": "67c0b4c5274ee200b0696c66906429f1",
+      "crc32": "dc196dd7",
+      "sha1": "a0dc9fa59c37d5bf76f2ec11fd69cc515858ea45",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lasvegassun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d75286dd63b9b76706681bbc9ec9fbd",
+      "md5": "5e38797fea6a0a6cfa580522719b8f35",
       "summation": "md5"
     },
     {
       "name": "lasvegassun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658024781",
-      "size": "143360",
-      "md5": "1e8fc5914f1966ea46938e80b4a7bb13",
-      "crc32": "8e7f7948",
-      "sha1": "21bec00126e95c5c4871fa366d5e40c63662c7f9",
+      "mtime": "1658065697",
+      "size": "147456",
+      "md5": "11438759c39af2fbd8b6a68493be1d22",
+      "crc32": "78d6724e",
+      "sha1": "b7afa173e7e0778ce74ae1be99b0f5be9fa333ea",
       "format": "Metadata"
     },
     {
@@ -1146,479 +1188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 109,
-  "item_last_updated": 1658024831,
-  "item_size": 9842155,
-  "lasvegassun-2022": [
-    {
-      "text": "  ",
-      "url": "/"
-    },
-    {
-      "text": "102\u00b0",
-      "url": "/weather/"
-    },
-    {
-      "text": "News",
-      "url": "/news/"
-    },
-    {
-      "text": "Business",
-      "url": "//vegasinc.lasvegassun.com/"
-    },
-    {
-      "text": "Sports",
-      "url": "/news/sports/"
-    },
-    {
-      "text": "Politics",
-      "url": "/news/politics/"
-    },
-    {
-      "text": "Opinion",
-      "url": "/news/opinion/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/ae/"
-    },
-    {
-      "text": "Calendar",
-      "url": "https://lasvegasweekly.com/events/"
-    },
-    {
-      "text": "Health",
-      "url": "/news/health/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts/"
-    },
-    {
-      "text": "Las Vegas Weekly",
-      "url": "//lasvegasweekly.com/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "/subscribe/"
-    },
-    {
-      "text": "Betting",
-      "url": "/news/sports/betting/"
-    },
-    {
-      "text": "Las Vegas Raiders",
-      "url": "/news/las-vegas-raiders/"
-    },
-    {
-      "text": "UNLV Sports",
-      "url": "/news/sports/unlv/"
-    },
-    {
-      "text": "Marijuana Laws",
-      "url": "/news/las-vegas-recreational-marijuana-laws/"
-    },
-    {
-      "text": "Gaming",
-      "url": "/business/gaming/"
-    },
-    {
-      "text": "Golden Knights",
-      "url": "/news/sports/nhl/vgk/"
-    },
-    {
-      "text": "Smith's World",
-      "url": "/news/opinion/smiths-world/"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "/news/coronavirus-las-vegas/"
-    },
-    {
-      "text": "Newsletter",
-      "url": "//visitor.r20.constantcontact.com/manage/optin?v=0012UVvq9vDWuw26NdK6-VSo2a2RLPMa-KbMDZ0cvT7-2rB6LBbBMLpB7NgqPQDR_rHUry93nXXlsbgITrtazTFQh4ZuNR9905D2fjaOXHmaLA%3D"
-    },
-    {
-      "text": "Raiders put Carr in position to succeed heading into training camp",
-      "url": "/news/2022/jul/16/raiders-have-put-derek-carr-in-position-to-succeed/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/16/raiders-have-put-derek-carr-in-position-to-succeed/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/16/expert-26-million-for-security-upgrades-at-eldorad/"
-    },
-    {
-      "text": "Expert: $26 million for security upgrades at Eldorado is \u2018a\u00a0lot\u2019",
-      "url": "/news/2022/jul/16/expert-26-million-for-security-upgrades-at-eldorad/"
-    },
-    {
-      "text": "Parroting Trump, GOP primary losers cast doubt on elections",
-      "url": "/news/2022/jul/16/parroting-trump-gop-primary-losers-cast-doubt-on-e/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/16/parroting-trump-gop-primary-losers-cast-doubt-on-e/"
-    },
-    {
-      "text": "More News",
-      "url": "/news/"
-    },
-    {
-      "text": "Weekend wagers: Bets on the Open Championship, UFC, MLB and more",
-      "url": "/blogs/talking-points/2022/jul/16/bets-vegas-wagers-sports-books-open-ufc-mlb-picks/"
-    },
-    {
-      "text": "Usher aims for a memorable experience with his new Las Vegas residency show",
-      "url": "//lasvegasweekly.com/news/2022/jul/14/usher-aims-for-a-memorable-experience-residency/"
-    },
-    {
-      "text": "Man admits stealing explosives found at Henderson hotel",
-      "url": "/news/2022/jul/15/man-admits-stealing-explosives-found-at-las-vegas/"
-    },
-    {
-      "text": "Station Casinos tearing down 3 closed casinos, selling land",
-      "url": "/news/2022/jul/15/station-casinos-tearing-down-3-closed-casinos-sell/"
-    },
-    {
-      "text": "UNLV football adds trip to USC to future schedule",
-      "url": "/news/2022/jul/15/unlv-football-adds-usc-to-future-schedule/"
-    },
-    {
-      "text": "Warrant revoked for indicted Colo. clerk after Las Vegas trip",
-      "url": "/news/2022/jul/15/warrant-revoked-for-indicted-colo-clerk-after-las/"
-    },
-    {
-      "text": "G League Ignite moving to Henderson",
-      "url": "/news/2022/jul/15/g-league-ignite-moving-to-henderson/"
-    },
-    {
-      "text": "Breaking News \u00bb",
-      "url": "/news/breakingnews/"
-    },
-    {
-      "text": "Today's News \u00bb",
-      "url": "/news/today/"
-    },
-    {
-      "text": "Saturday's Paper \u00bb",
-      "url": "/todays-paper/"
-    },
-    {
-      "text": "U.S. & World",
-      "url": "/news/us-world/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/16/bidens-mideast-trip-aimed-at-reassuring-wary-leade/"
-    },
-    {
-      "text": "Biden\u2019s Mideast trip aimed at reassuring wary leaders",
-      "url": "/news/2022/jul/16/bidens-mideast-trip-aimed-at-reassuring-wary-leade/"
-    },
-    {
-      "text": "Cargo plane operated by Ukraine carrier crashes in Greece",
-      "url": "/news/2022/jul/17/cargo-plane-operated-by-ukraine-carrier-crashes-in/"
-    },
-    {
-      "text": "Champion driver Bobby East fatally stabbed at gas station",
-      "url": "/news/2022/jul/16/champion-driver-bobby-east-fatally-stabbed-at-gas-/"
-    },
-    {
-      "text": "2 kids among 6 dead in Montana highway pileup, 8 others hurt",
-      "url": "/news/2022/jul/16/2-kids-among-6-dead-in-montana-highway-pileup-8-ot/"
-    },
-    {
-      "text": "Russia steps up attacks across Ukraine\u2019s north, east, south",
-      "url": "/news/2022/jul/16/russia-steps-up-attacks-across-ukraines-north-east/"
-    },
-    {
-      "text": "Sheriff: Florida woman found dead, grabbed by gators in pond",
-      "url": "/news/2022/jul/16/sheriff-florida-woman-found-dead-grabbed-by-gators/"
-    },
-    {
-      "text": "Camilla at 75: Duchess of Cornwall marks milestone birthday",
-      "url": "/news/2022/jul/16/camilla-at-75-duchess-of-cornwall-marks-milestone-/"
-    },
-    {
-      "text": "All U.S. & World",
-      "url": "/news/us-world/"
-    },
-    {
-      "text": "Washington",
-      "url": "/news/washington/"
-    },
-    {
-      "text": "Nation",
-      "url": "/news/nation/"
-    },
-    {
-      "text": "World",
-      "url": "/news/world/"
-    },
-    {
-      "text": "Las Vegas Magazine",
-      "url": "https://lasvegasmagazine.com"
-    },
-    {
-      "text": "  Usher kicks off his new shows in Las Vegas  Enjoy \u2018My Way\u2014The Las Vegas Residency\u2019 July 20 and 22-23 at Dolby Live at Park ...   ",
-      "url": "//lasvegasmagazine.com/entertainment/2022/jul/15/usher-las-vegas-residency-dolby-live-park-mgm/"
-    },
-    {
-      "text": "  Jack Binion's Steak brings its popular venue to Las Vegas  Bally's guests will find a Horseshoe favorite serving up these quality dishes.   ",
-      "url": "//lasvegasmagazine.com/dining/2022/jul/15/jack-binions-steak-dining-las-vegas-ballys/"
-    },
-    {
-      "text": "News",
-      "url": "/news/index.html"
-    },
-    {
-      "text": "McIlroy, Hovland avoid blunders to share British Open lead",
-      "url": "/news/2022/jul/16/mcilroy-hovland-avoid-blunders-to-share-british-op/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/16/mcilroy-hovland-avoid-blunders-to-share-british-op/"
-    },
-    {
-      "text": "Chilean cowboys gather for blessing at national shrine",
-      "url": "/news/2022/jul/16/chilean-cowboys-gather-for-blessing-at-national-sh/"
-    },
-    {
-      "text": "Altuve, Arenado, Chisholm, Rod\u00f3n won\u2019t play in All-Star Game",
-      "url": "/news/2022/jul/16/altuve-arenado-chisholm-rod\u00f3n-wont-play-in-all-sta/"
-    },
-    {
-      "text": "Opinion",
-      "url": "/news/opinion/"
-    },
-    {
-      "text": "",
-      "url": "/news/opinion/smiths-world/"
-    },
-    {
-      "text": "Latest editorial cartoon by Mike Smith \u00bb",
-      "url": "/news/opinion/smiths-world/"
-    },
-    {
-      "text": "Editorial: Clark County sheriff bows to con man who blasts his record on\u00a0crime",
-      "url": "/news/2022/jul/14/clark-county-sheriff-bends-the-knee-to-a-conman-wh/"
-    },
-    {
-      "text": " Just another (yawn) supermoon? You\u2019re looking at it all\u00a0wrong",
-      "url": "/news/2022/jul/16/just-another-yawn-supermoon-youre-looking-at-it-al/"
-    },
-    {
-      "text": " Should children under 5 be vaccinated against\u00a0COVID? ",
-      "url": "/news/2022/jul/16/should-children-under-5-be-vaccinated-against-covi/"
-    },
-    {
-      "text": "Letters \u00bb",
-      "url": "/news/opinion/letters/"
-    },
-    {
-      "text": "More Opinion \u00bb",
-      "url": "/news/opinion/"
-    },
-    {
-      "text": "Las Vegas Weekly",
-      "url": "//lasvegasweekly.com/"
-    },
-    {
-      "text": "",
-      "url": "//lasvegasweekly.com/ae/fine-art/2022/jul/14/cosmopolitan-discover-stephen-powers-murals/"
-    },
-    {
-      "text": "Take the stairs at the Cosmopolitan to discover Stephen Powers\u2019 striking murals",
-      "url": "//lasvegasweekly.com/ae/fine-art/2022/jul/14/cosmopolitan-discover-stephen-powers-murals/"
-    },
-    {
-      "text": "Exploring New Orleans Square, the unexpected cultural hot spot of Commercial Center",
-      "url": "//lasvegasweekly.com/news/2022/jul/14/exploring-new-orleans-square-cultural-hot-spot/"
-    },
-    {
-      "text": "Raiders put Carr in position to succeed heading into training camp",
-      "url": "/news/2022/jul/16/raiders-have-put-derek-carr-in-position-to-succeed/"
-    },
-    {
-      "text": "\nScene in Vegas",
-      "url": "/ae/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"
-    },
-    {
-      "text": "Dining: The Mayfair Supper Club has updated its exciting show",
-      "url": "https://lasvegasmagazine.com/dining/2022/jul/15/mayfair-supper-club-bellagio-las-vegas-dining/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"
-    },
-    {
-      "text": "",
-      "url": "https://lasvegasmagazine.com/dining/2022/jul/15/mayfair-supper-club-bellagio-las-vegas-dining/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"
-    },
-    {
-      "text": "Dining: Enjoy French dishes at Bardot Brasserie",
-      "url": "https://lasvegasmagazine.com/dining/2022/jul/15/bardot-brasserie-aria-french-cuisine-las-vegas/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"
-    },
-    {
-      "text": "",
-      "url": "https://lasvegasmagazine.com/dining/2022/jul/15/bardot-brasserie-aria-french-cuisine-las-vegas/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"
-    },
-    {
-      "text": "Entertainment: Get higher learning at High Roller in Las Vegas",
-      "url": "https://lasvegasmagazine.com/entertainment/2022/jul/15/high-roller-las-vegas-linq-promenade-attraction/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"
-    },
-    {
-      "text": "",
-      "url": "https://lasvegasmagazine.com/entertainment/2022/jul/15/high-roller-las-vegas-linq-promenade-attraction/?utm_source=sidebar&utm_medium=banner&utm_campaign=sceneOnSunPromo"
-    },
-    {
-      "text": "Featured Galleries",
-      "url": "/photos/"
-    },
-    {
-      "text": "",
-      "url": "/photos/galleries/2022/jul/16/0716_sun_WSOPMainEvent/"
-    },
-    {
-      "text": "Espen Jorstad Wins WSOP Main\u00a0Event",
-      "url": "/photos/galleries/2022/jul/16/0716_sun_WSOPMainEvent/"
-    },
-    {
-      "text": "",
-      "url": "/photos/galleries/2022/jul/15/0715_sun_WSOPMainEventFinalTable/"
-    },
-    {
-      "text": "2022 WSOP Main Event Final Table\u00a0Begins",
-      "url": "/photos/galleries/2022/jul/15/0715_sun_WSOPMainEventFinalTable/"
-    },
-    {
-      "text": "",
-      "url": "/photos/galleries/2022/jul/12/0712_sun_DonovanWilliams/"
-    },
-    {
-      "text": "Donovan Williams: NBA Summer\u00a0League",
-      "url": "/photos/galleries/2022/jul/12/0712_sun_DonovanWilliams/"
-    },
-    {
-      "text": "More photos \u00bb",
-      "url": "/photos/"
-    },
-    {
-      "text": "AP Headlines",
-      "url": "/news/apnews"
-    },
-    {
-      "text": "News",
-      "url": "/news/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/ae/"
-    },
-    {
-      "text": "Opinion",
-      "url": "/news/opinion/"
-    },
-    {
-      "text": "Sports",
-      "url": "/news/sports/"
-    },
-    {
-      "text": "Politics",
-      "url": "/news/politics/"
-    },
-    {
-      "text": "Vegas INC - Business",
-      "url": "//vegasinc.lasvegassun.com/"
-    },
-    {
-      "text": "U.S. & World",
-      "url": "/news/us-world/"
-    },
-    {
-      "text": "Today's Paper",
-      "url": "/todays-paper/"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "Pulitzer Prize for Public Service",
-      "url": "/news/2009/apr/21/sun-wins-pulitzer-prize/"
-    },
-    {
-      "text": "best news website in the nation",
-      "url": "/awards/web/"
-    },
-    {
-      "text": "DuPont Award for broadcast journalism",
-      "url": "/news/2010/dec/22/sun-wins-national-media-award-telling-story-gambli/"
-    },
-    {
-      "text": "About Us",
-      "url": "/about/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/staff/"
-    },
-    {
-      "text": "Advertising",
-      "url": "/advertising/"
-    },
-    {
-      "text": "FAQ",
-      "url": "/about/faq/"
-    },
-    {
-      "text": "User Agreement",
-      "url": "/about/useragreement/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy-policy/"
-    },
-    {
-      "text": "Awards",
-      "url": "/awards/"
-    },
-    {
-      "text": "Twitter",
-      "url": "/twitter/"
-    },
-    {
-      "text": "Facebook",
-      "url": "//www.facebook.com/lasvegassun"
-    },
-    {
-      "text": "RSS",
-      "url": "/rss/"
-    },
-    {
-      "text": "Mobile",
-      "url": "//m.lasvegassun.com/"
-    },
-    {
-      "text": "Greenspun Media Group",
-      "url": "//gmgvegas.com/"
-    },
-    {
-      "text": "Vegas Inc",
-      "url": "//vegasinc.lasvegassun.com"
-    },
-    {
-      "text": "Las Vegas Weekly",
-      "url": "//lasvegasweekly.com/"
-    },
-    {
-      "text": "Las Vegas Magazine",
-      "url": "//lasvegasmagazine.com"
-    },
-    {
-      "text": "Las Vegas Sun",
-      "url": "//lasvegassun.com/"
-    }
-  ],
+  "files_count": 113,
+  "item_last_updated": 1658066283,
+  "item_size": 10209527,
   "metadata": {
     "identifier": "lasvegassun-2022",
     "collection": [
@@ -1636,7 +1208,7 @@
     "addeddate": "2022-07-04 21:55:34"
   },
   "server": "ia601407.us.archive.org",
-  "uniq": 902413411,
+  "uniq": 206227044,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"

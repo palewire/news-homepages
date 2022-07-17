@@ -461,7 +461,7 @@
       "url": "https://ghost.org/"
     }
   ],
-  "created": 1658059606,
+  "created": 1658073857,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/10/items/bklyner-2022",
@@ -3964,31 +3964,73 @@
       "sha1": "5a5c5186036b2431f6d539415895d9680925fe81"
     },
     {
+      "name": "bklyner-2022-07-17T08:43:05.467335-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658061789",
+      "size": "24969",
+      "md5": "947f86306b01366e958a5c200d426c50",
+      "crc32": "cd401e15",
+      "sha1": "90d315deebf9e19055dbe547a9386be8dcf6f148",
+      "format": "JSON"
+    },
+    {
+      "name": "bklyner-2022-07-17T08:43:05.467335-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658061791",
+      "size": "21177",
+      "md5": "6004b7622492d90d9741daa330f7e61a",
+      "crc32": "1d8a92c3",
+      "sha1": "36a5840e42c507bd3e4b9cf3c701bf77ea50770e",
+      "format": "JSON"
+    },
+    {
+      "name": "bklyner-2022-07-17T08:43:05.467335-04:00.jpg",
+      "source": "original",
+      "mtime": "1658061788",
+      "size": "374094",
+      "md5": "602b29b40af5194d94582ed94aabba7c",
+      "crc32": "d53a39e2",
+      "sha1": "aa9bf8e142fd4de6d00afdc6e969f1ffb528c3dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bklyner-2022-07-17T08:43:05.467335-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bklyner-2022-07-17T08:43:05.467335-04:00.jpg",
+      "mtime": "1658062411",
+      "size": "10607",
+      "md5": "e8da156684c5cb6bfad090181679cf1a",
+      "crc32": "6ecbb88e",
+      "sha1": "6b8607403f91dd2529d5377c0749d92988f4644e"
+    },
+    {
       "name": "bklyner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1a316c6296f37afa94da0099e7926870d4baf252",
-      "mtime": "1658019310",
-      "size": "71598",
-      "md5": "885061c215e28e3c565658f214ed2a61",
-      "crc32": "1280ac4c",
-      "sha1": "d4327ddc88b7ba18720285a3f7b38458b0380a9d",
+      "btih": "26fab0f0ad284673a7726db884da245384ec5394",
+      "mtime": "1658062455",
+      "size": "72424",
+      "md5": "c606fee58ce16ac78b6e1ab193059735",
+      "crc32": "fcd86fd2",
+      "sha1": "4ac1a17ce1158f153b505ec34292d89117d36049",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bklyner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a9a4060f6252719186468d0b2889f057",
+      "md5": "cb03658393a58bed193d8a605fd6724a",
       "summation": "md5"
     },
     {
       "name": "bklyner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658019239",
-      "size": "397312",
-      "md5": "e95e1bea18f69ddd8b3d594a7aa2134c",
-      "crc32": "f24ebd8e",
-      "sha1": "7337bf4ee2608b87a1d673cad6f50ade40bdb017",
+      "mtime": "1658061794",
+      "size": "401408",
+      "md5": "cc92b2a2f7c8f9c17a6f3c7420118563",
+      "crc32": "8aeae7f6",
+      "sha1": "958fb6db902ea5f3562ced819d28f586e6a5a8ae",
       "format": "Metadata"
     },
     {
@@ -4002,9 +4044,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 337,
-  "item_last_updated": 1658019310,
-  "item_size": 37365300,
+  "files_count": 341,
+  "item_last_updated": 1658062455,
+  "item_size": 37801069,
   "metadata": {
     "identifier": "bklyner-2022",
     "collection": [
@@ -4021,10 +4063,10 @@
     "publicdate": "2022-06-19 23:23:06",
     "addeddate": "2022-06-19 23:23:06"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 943905207,
+  "server": "ia801506.us.archive.org",
+  "uniq": 765085012,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }
