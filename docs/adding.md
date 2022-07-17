@@ -1,7 +1,7 @@
 ```{include} _templates/nav.html
 ```
 
-## Adding sources
+## Adding sites and bundles
 
 ```{contents} Sections
 :local:
