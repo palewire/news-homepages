@@ -52,7 +52,6 @@ def _screenshot(
         context = playwright.chromium.launch_persistent_context(
             data_dir,
             channel="chrome",
-            headless=False,
             args=[
                 f"--disable-extensions-except={extensions_str}",
                 f"--load-extension={extensions_str}",
