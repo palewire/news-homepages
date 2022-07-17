@@ -16,10 +16,10 @@ Adding a new site requires that a new row be added to [`sources/sites.csv`](http
 
 ### Test the screenshot
 
-After doing that, you should verify the site works by running the `shoot.py` command and inspecting the result.
+After doing that, you should verify the site works by running the `screenshot.py` command and inspecting the result.
 
 ```bash
-pipenv run python -m newshomepages.shoot your-handle
+pipenv run python -m newshomepages.screenshot your-handle
 ```
 
 ### Hide ads and popups
