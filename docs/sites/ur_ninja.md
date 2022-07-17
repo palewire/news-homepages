@@ -17,7 +17,7 @@ orphan: true
 | Location       | Minneapolis                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 80 screenshots stored at the Internet Archive.
+The archiving routine has captured 81 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

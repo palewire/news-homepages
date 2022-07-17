@@ -17,7 +17,7 @@ orphan: true
 | Location       | Salt Lake City                                                                 |
 | Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 59 screenshots stored at the Internet Archive.
+The archiving routine has captured 60 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

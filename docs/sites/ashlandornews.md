@@ -17,7 +17,7 @@ orphan: true
 | Location       | Ashland                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 15 screenshots stored at the Internet Archive.
+The archiving routine has captured 16 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
