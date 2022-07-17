@@ -27,7 +27,7 @@ runs:
 
     - id: send-slack
       name: Post to Slack
-      run: pipenv run python -m newshomepages.slack < ./_input/${{ inputs.handle }}.json
+      run: pipenv run python -m newshomepages.slack ./_input/${{ inputs.handle }}.json
       shell: bash
       env:
         SLACK_WEBHOOK_URL: ${{ inputs.webhook-url }}

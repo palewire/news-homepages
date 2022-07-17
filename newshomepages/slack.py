@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+from pathlib import Path
 
 import click
 import requests
@@ -9,21 +10,20 @@ from . import utils
 
 
 @click.command()
-@click.option(
-    "-a",
-    "--archive-json",
-    "archive_json",
-    help="archive JSON artifact to work with",
-    type=click.File("r"),
-    default=sys.stdin,
-)
-def cli(archive_json):
+@click.argument("artifact_path")
+def cli(artifact_path: str):
     """Post image to Slack channel."""
+    # Get the image
+    artifact_obj = Path(artifact_path)
+    assert artifact_obj.exists()
+
     # Read in artifact from archive.org upload
-    data = json.load(archive_json)
+    click.echo(f"Retrieving artifact from {artifact_obj}")
+    data = json.load(open(artifact_obj))
 
     # Read in URL from archive artifact
     jpg_url = next(s for s in data if s.endswith(".jpg"))
+    click.echo(f"JPG url found: {jpg_url}")
 
     # Parse the site data from the archive URL
     archive_dict = utils.parse_archive_url(jpg_url)
@@ -46,7 +46,11 @@ def cli(archive_json):
         "blocks": [
             {
                 "type": "header",
-                "text": {"type": "plain_text", "text": ":camera_with_flash: " + title_text, "emoji": True},
+                "text": {
+                    "type": "plain_text",
+                    "text": ":camera_with_flash: " + title_text,
+                    "emoji": True,
+                },
             },
             {
                 "type": "image",
@@ -93,6 +97,7 @@ def cli(archive_json):
     assert url
 
     # Post to Slack
+    click.echo(f"Posting {site['name']} to Slack")
     r = requests.post(url, json=payload)
 
     # Make sure it went okay
