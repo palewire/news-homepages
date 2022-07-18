@@ -7,6 +7,11 @@ on:
         description: 'Site handle'
         required: true
         type: string
+      tweet:
+        description: 'Tweet'
+        required: true
+        type: boolean
+        default: false
 
 jobs:
   archive-site:
