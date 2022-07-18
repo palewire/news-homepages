@@ -17,7 +17,8 @@ orphan: true
 | Location       | McAllen                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[rgvfox-2022](https://archive.org/details/rgvfox-2022)|

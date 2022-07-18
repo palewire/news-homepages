@@ -17,7 +17,8 @@ orphan: true
 | Location       | Austin                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[kxan_news-2022](https://archive.org/details/kxan_news-2022)|

@@ -17,9 +17,8 @@ orphan: true
 | Location       | Chicago                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 38 screenshots stored at the Internet Archive.
+The archiving routine has captured 19 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
-|[inthesetimesmag-2022](https://archive.org/details/inthesetimesmag-2022)|
 |[inthesetimesmag-2022](https://archive.org/details/inthesetimesmag-2022)|
