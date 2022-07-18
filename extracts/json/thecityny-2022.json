@@ -1,5 +1,5 @@
 {
-  "created": 1658106242,
+  "created": 1658146822,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/27/items/thecityny-2022",
@@ -3670,31 +3670,73 @@
       "sha1": "923641d3a050a5f751dc829ab63c98e6390c7c35"
     },
     {
+      "name": "thecityny-2022-07-18T00:17:01.364523-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658117826",
+      "size": "31855",
+      "md5": "ed723382a3bc38226f2ed12ca0aea3bb",
+      "crc32": "c724e8c2",
+      "sha1": "080b62edb55ddc9d973bde63b61de26d3a031042",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-07-18T00:17:01.364523-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658117827",
+      "size": "38404",
+      "md5": "eb44dbf85b262b60572f79abac3d73a6",
+      "crc32": "dae3c630",
+      "sha1": "2c11ec8aaef8198bc23ab61d1150723476fc17b1",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-07-18T00:17:01.364523-04:00.jpg",
+      "source": "original",
+      "mtime": "1658117824",
+      "size": "227690",
+      "md5": "1a7ef9c9b6513f08450213e8f12716d5",
+      "crc32": "29120b2a",
+      "sha1": "b162bdaa4d6cfc8cbdaa597f0d8e351fe6200c46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-07-18T00:17:01.364523-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-07-18T00:17:01.364523-04:00.jpg",
+      "mtime": "1658119361",
+      "size": "9255",
+      "md5": "0d771fc4548aa1d4329c11a99b64a2a1",
+      "crc32": "fd7898ae",
+      "sha1": "923641d3a050a5f751dc829ab63c98e6390c7c35"
+    },
+    {
       "name": "thecityny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8145e92416ce5dbdcd5abc7d79cc8026c226a52d",
-      "mtime": "1658073002",
-      "size": "75169",
-      "md5": "35bcd664b3ab789c33b0efeba72fe3ea",
-      "crc32": "a4c5bad5",
-      "sha1": "ff21a646124943602e0638d648a28e0e78b909d7",
+      "btih": "c34646dc96f862e4fb7f397ae224c342ca30a710",
+      "mtime": "1658119506",
+      "size": "76002",
+      "md5": "f33f0d1b453a3b7cf9bf4f300daddba7",
+      "crc32": "f4911e50",
+      "sha1": "cf376c94f797c1859ff766c6c1bff94a44607bc7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecityny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f7cbf04bca1c87d58aac94e5aa16806f",
+      "md5": "e51fa5217559f91e4d9abb744d238452",
       "summation": "md5"
     },
     {
       "name": "thecityny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658072695",
-      "size": "417792",
-      "md5": "2d1379c31eb5acf688f0766bfed78d0e",
-      "crc32": "9083bf20",
-      "sha1": "dacff00cccdf39e9fdd1c1b5123b5fc4dcf52169",
+      "mtime": "1658117831",
+      "size": "425984",
+      "md5": "047cdfafefa969365941a76a5a511fa3",
+      "crc32": "a89dfdc9",
+      "sha1": "ecec69cf26ea21cca96077508b85b4f49f61500c",
       "format": "Metadata"
     },
     {
@@ -3708,9 +3750,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 353,
-  "item_last_updated": 1658073002,
-  "item_size": 27914713,
+  "files_count": 357,
+  "item_last_updated": 1658119506,
+  "item_size": 28230942,
   "metadata": {
     "identifier": "thecityny-2022",
     "collection": [
@@ -3727,7 +3769,7 @@
     "publicdate": "2022-06-19 23:28:39",
     "addeddate": "2022-06-19 23:28:39"
   },
-  "server": "ia601400.us.archive.org",
+  "server": "ia801400.us.archive.org",
   "thecityny-2022": [
     {
       "text": "Donate",
@@ -4634,9 +4676,9 @@
       "url": "https://www.thecity.nyc/legal/cookie-policy"
     }
   ],
-  "uniq": 825231248,
+  "uniq": 827354423,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

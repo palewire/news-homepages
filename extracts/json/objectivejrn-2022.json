@@ -1,5 +1,5 @@
 {
-  "created": 1658106088,
+  "created": 1658146601,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/27/items/objectivejrn-2022",
@@ -772,31 +772,73 @@
       "sha1": "d45a9846ed9e961ef29fee31dd4d230dd0e3a6ee"
     },
     {
+      "name": "objectivejrn-2022-07-17T20:29:39.104565-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658114983",
+      "size": "14758",
+      "md5": "891b3d3982af907a614c41d6c3e7c67c",
+      "crc32": "b6f362c8",
+      "sha1": "cfa9255fb50c729fb5e884e2686f060c9b23d7c0",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-07-17T20:29:39.104565-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658114984",
+      "size": "12256",
+      "md5": "e6408b5f6f06393cae3f8f20a00e5206",
+      "crc32": "0a4f52b6",
+      "sha1": "fe1d59b158a852b7ddbec7d8c50bd4cdf2339b1a",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-07-17T20:29:39.104565-07:00.jpg",
+      "source": "original",
+      "mtime": "1658114981",
+      "size": "287885",
+      "md5": "4c9e9b8af027687c917f5f14e93b16a1",
+      "crc32": "0e5b0770",
+      "sha1": "1ed51cdeeca4caf92b2e47c0f591d2a9867be820",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "objectivejrn-2022-07-17T20:29:39.104565-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "objectivejrn-2022-07-17T20:29:39.104565-07:00.jpg",
+      "mtime": "1658116791",
+      "size": "10622",
+      "md5": "d79af2458f0d7f2e28e6a156ed197616",
+      "crc32": "187816f5",
+      "sha1": "d45a9846ed9e961ef29fee31dd4d230dd0e3a6ee"
+    },
+    {
       "name": "objectivejrn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0970447a70abec5b1ae61eb4b4d4c35f94f363bf",
-      "mtime": "1658069422",
-      "size": "17058",
-      "md5": "aea95e5a20cd20149ae41a99e4dc395c",
-      "crc32": "a5d69799",
-      "sha1": "109118185fa67ba33799615f0d978ed2f0a3bbaa",
+      "btih": "0394a3c3c3061576fbc0586858052eedeb9e88df",
+      "mtime": "1658116828",
+      "size": "17924",
+      "md5": "8613e1a538fe6300181bd005324adf54",
+      "crc32": "e4d89303",
+      "sha1": "81922164d936e96d18c43d856f44079208c2bc6f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "objectivejrn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28ce82afa021d49dafb6b9cf52f155a4",
+      "md5": "ba5394d04a1c9c9eb2bc3351cca83c11",
       "summation": "md5"
     },
     {
       "name": "objectivejrn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658069297",
-      "size": "102400",
-      "md5": "e00bd467d0867a6b6663cecdecc42040",
-      "crc32": "96866ddc",
-      "sha1": "cd228a824c360e57501bd3f8becbd7744198deb5",
+      "mtime": "1658114988",
+      "size": "106496",
+      "md5": "c56177f14a4278a8db49107594381255",
+      "crc32": "8df52173",
+      "sha1": "82694f9aeedbdbc1fb92ba4b9430d55237b4cdfe",
       "format": "Metadata"
     },
     {
@@ -810,9 +852,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 77,
-  "item_last_updated": 1658069422,
-  "item_size": 5110143,
+  "files_count": 81,
+  "item_last_updated": 1658116828,
+  "item_size": 5440626,
   "metadata": {
     "identifier": "objectivejrn-2022",
     "collection": [
@@ -1243,10 +1285,10 @@
       "url": "https://objectivejournalism.org/privacy-policy"
     }
   ],
-  "server": "ia801401.us.archive.org",
-  "uniq": 1150333176,
+  "server": "ia601401.us.archive.org",
+  "uniq": 2015119431,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

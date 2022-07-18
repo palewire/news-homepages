@@ -1,5 +1,5 @@
 {
-  "created": 1658105865,
+  "created": 1658146256,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/28/items/grist-2022",
@@ -772,31 +772,73 @@
       "sha1": "ab124546367d225a89702760b33526081d3f46c7"
     },
     {
+      "name": "grist-2022-07-17T19:22:03.373907-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658110925",
+      "size": "44255",
+      "md5": "69b8c648e67b736eb762873a41766b3b",
+      "crc32": "ab1d9e76",
+      "sha1": "f9a90d0b3303ee1ff6c8456b1dc178771c19b918",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-07-17T19:22:03.373907-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658110926",
+      "size": "34879",
+      "md5": "53a7f3829ac90ada1ff7391e9644012a",
+      "crc32": "1e676d88",
+      "sha1": "3624ebfaaac20e80d9605add0c4dcf04157e0d86",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-07-17T19:22:03.373907-07:00.jpg",
+      "source": "original",
+      "mtime": "1658110924",
+      "size": "243024",
+      "md5": "2d41e64ea89da3a2722a921476fd06f1",
+      "crc32": "626e568c",
+      "sha1": "de6354bff23717d3b7c25b2b9d8a4dd367556775",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "grist-2022-07-17T19:22:03.373907-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "grist-2022-07-17T19:22:03.373907-07:00.jpg",
+      "mtime": "1658111597",
+      "size": "8765",
+      "md5": "ea634d223251d9f6a984837b73f826cc",
+      "crc32": "9da486a6",
+      "sha1": "ab124546367d225a89702760b33526081d3f46c7"
+    },
+    {
       "name": "grist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2da97d849d733d3a7ac62c722127de1eba8bab9f",
-      "mtime": "1658065624",
-      "size": "16506",
-      "md5": "5f8c18adc2776dc353479fd4e99a12f1",
-      "crc32": "533be326",
-      "sha1": "52856aaa55a2190510d0084958158343f113c5c5",
+      "btih": "c23fad883632b5caabd61caa40c79a06aeeb5525",
+      "mtime": "1658111616",
+      "size": "17344",
+      "md5": "774538b6e4853e2bb5a77687835c18e9",
+      "crc32": "b697d668",
+      "sha1": "e8e3bcdaa43fadc0ec11305f42c6dfd2287ac768",
       "format": "Archive BitTorrent"
     },
     {
       "name": "grist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5329b50294683ad4655552dcd60c5f78",
+      "md5": "a83d3f03c2c057a806320e4876644dcc",
       "summation": "md5"
     },
     {
       "name": "grist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658065509",
-      "size": "94208",
-      "md5": "20668feb65b60149414e01ba41be5b97",
-      "crc32": "eadbf325",
-      "sha1": "d2f19e1220b1af607b398d84c108886f40de69a8",
+      "mtime": "1658110932",
+      "size": "106496",
+      "md5": "19daf7dc14140ee1b414c68ed2345531",
+      "crc32": "88e097f6",
+      "sha1": "4b0990c6b84c8cca8d7ccf93e2560bf8718a3af7",
       "format": "Metadata"
     },
     {
@@ -810,7 +852,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 77,
+  "files_count": 81,
   "grist-2022": [
     {
       "text": " Skip to Content \u21b5ENTER ",
@@ -1877,10 +1919,6 @@
       "url": "https://grist.org/about/privacy/"
     },
     {
-      "text": "Read the issue",
-      "url": "https://grist.org/fix/july-2022-joy-issue/?utm_campaign=wisepop&utm_source=fix&utm_content=joy"
-    },
-    {
       "text": "  ",
       "url": "#"
     },
@@ -1899,10 +1937,14 @@
     {
       "text": "  Hide Interface ",
       "url": "#"
+    },
+    {
+      "text": "Read the issue",
+      "url": "https://grist.org/fix/july-2022-joy-issue/?utm_campaign=wisepop&utm_source=fix&utm_content=joy"
     }
   ],
-  "item_last_updated": 1658065624,
-  "item_size": 5760140,
+  "item_last_updated": 1658111616,
+  "item_size": 6104189,
   "metadata": {
     "identifier": "grist-2022",
     "collection": [
@@ -1919,10 +1961,10 @@
     "publicdate": "2022-07-09 03:58:54",
     "addeddate": "2022-07-09 03:58:54"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 1163831831,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1374139529,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

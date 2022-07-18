@@ -1,5 +1,5 @@
 {
-  "created": 1658106059,
+  "created": 1658146572,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/npr-2022",
@@ -4384,31 +4384,73 @@
       "sha1": "0ffe297a8886952eb40893be48494a1112b1b671"
     },
     {
+      "name": "npr-2022-07-17T23:28:55.031558-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658114938",
+      "size": "19819",
+      "md5": "b6f70538b9818f66afaf89f30d3b4f98",
+      "crc32": "de9343f0",
+      "sha1": "bd2ab3f6d74f3c428e983330782d37a95d5eead6",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-17T23:28:55.031558-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658114940",
+      "size": "34236",
+      "md5": "c06f5900a56bc67c0a6d21e89165deb7",
+      "crc32": "4c894bf2",
+      "sha1": "dc51c25405f0432fe6728f96c838a93a7876eee1",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-17T23:28:55.031558-04:00.jpg",
+      "source": "original",
+      "mtime": "1658114937",
+      "size": "249214",
+      "md5": "84e81c97809801fd6115e088425a52d4",
+      "crc32": "fa67f08f",
+      "sha1": "34a5d57e4e48596d66c593ffe0d639d9ac0d3be2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-17T23:28:55.031558-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-17T23:28:55.031558-04:00.jpg",
+      "mtime": "1658116743",
+      "size": "9717",
+      "md5": "43011a78af06c6ecdbadc684cda4d8ac",
+      "crc32": "8205ffc5",
+      "sha1": "501fb9f4a37eadd81cc9e2a67c5531eb42249c38"
+    },
+    {
       "name": "npr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbe053c6f7dde39605b91108d539801490e144c5",
-      "mtime": "1658092605",
-      "size": "87060",
-      "md5": "b17503ad8b32e3f98e266e18cb8cf1ec",
-      "crc32": "bf22ddb2",
-      "sha1": "724ec2fbcdaacc3004e730717db26131f8ed7685",
+      "btih": "6684438d8db1e04b27a6be604dd2993c2965483b",
+      "mtime": "1658116765",
+      "size": "87889",
+      "md5": "46d803d1410a0811f126cb5b4e4d0b5b",
+      "crc32": "1608a15b",
+      "sha1": "c60c362d42d09c71bd1a6fb0bc5fce692bb8b9ab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "npr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19220e4bde5975c12745ea4d1fed2f32",
+      "md5": "7a53990006596a2d29087c5681a9712e",
       "summation": "md5"
     },
     {
       "name": "npr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658092240",
-      "size": "491520",
-      "md5": "6d97ed49317da0c3b0c195fe35283b56",
-      "crc32": "10e8bdf5",
-      "sha1": "d3220266ad6a5fe40154b7d95725171be6c14702",
+      "mtime": "1658114944",
+      "size": "495616",
+      "md5": "39ab8ec07ca645e01e007c6235456b05",
+      "crc32": "731cb128",
+      "sha1": "f85a8d403619502c577c65deed78e01ada104bec",
       "format": "Metadata"
     },
     {
@@ -4422,9 +4464,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 421,
-  "item_last_updated": 1658092605,
-  "item_size": 34550899,
+  "files_count": 425,
+  "item_last_updated": 1658116765,
+  "item_size": 34868810,
   "metadata": {
     "identifier": "npr-2022",
     "collection": [
@@ -4455,16 +4497,8 @@
       "url": "/"
     },
     {
-      "text": "Sign In",
-      "url": "#"
-    },
-    {
       "text": "NPR Shop",
       "url": "https://shop.npr.org"
-    },
-    {
-      "text": "Donate",
-      "url": "/donations/support"
     },
     {
       "text": "Home",
@@ -4619,10 +4653,6 @@
       "url": "/search/"
     },
     {
-      "text": "Sign In",
-      "url": "#"
-    },
-    {
       "text": "NPR Shop",
       "url": "https://shop.npr.org"
     },
@@ -4691,12 +4721,8 @@
       "url": "https://www.tpr.org/news/2022-07-17/texas-house-report-blames-local-state-and-federal-officers-for-systemic-failure-in-uvalde"
     },
     {
-      "text": "\n                The report from the Texas House committee investigating the shooting offers the clearest, most-detailed picture yet of what happened that day as law enforcement waited more than an hour to confront the gunman.\n            ",
+      "text": "\n                The report from the Texas House committee investigating the shooting offers the clearest, most-detailed picture yet of what happened that day as nearly 400 law enforcement officers waited more than an hour to confront the gunman.\n            ",
       "url": "https://www.tpr.org/news/2022-07-17/texas-house-report-blames-local-state-and-federal-officers-for-systemic-failure-in-uvalde"
-    },
-    {
-      "text": "\n        \n            The school will be rebuilt\n        \n    ",
-      "url": "https://www.npr.org/2022/06/29/1108487919/uvalde-texas-robb-elementary-school-shooting-demolished-rebuilt"
     },
     {
       "text": "\n        \n            He lost 11 students and was badly wounded. Now he looks for a path forward\n        \n    ",
@@ -4705,6 +4731,22 @@
     {
       "text": "\n        \n            The victims are not getting funds fast enough, local officials say\n        \n    ",
       "url": "https://www.npr.org/2022/07/06/1110147335/uvalde-shooting-victims-and-families-funds"
+    },
+    {
+      "text": "\n        \n            A report detailed the missed warning signs and motives of the Uvalde gunman\n        \n    ",
+      "url": "https://www.npr.org/2022/07/17/1111945402/uvalde-shooter-warning-signs-report"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/17/1111921705/parts-of-the-u-s-and-europe-are-bracing-for-some-of-their-hottest-temperatures-y"
+    },
+    {
+      "text": "\n                            Weather\n                            ",
+      "url": "https://www.npr.org/sections/weather"
+    },
+    {
+      "text": "\n            Parts of the U.S. and Europe are bracing for some of their hottest temperatures yet\n            ",
+      "url": "https://www.npr.org/2022/07/17/1111921705/parts-of-the-u-s-and-europe-are-bracing-for-some-of-their-hottest-temperatures-y"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -4732,51 +4774,39 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/17/1111921705/parts-of-the-u-s-and-europe-are-bracing-for-some-of-their-hottest-temperatures-y"
+      "url": "https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l"
     },
     {
-      "text": "\n                            Weather\n                            ",
-      "url": "https://www.npr.org/sections/weather"
+      "text": "\n                            Economy\n                            ",
+      "url": "https://www.npr.org/sections/economy/"
     },
     {
-      "text": "\n            Parts of the U.S. and Europe are bracing for some of their hottest temperatures yet\n            ",
-      "url": "https://www.npr.org/2022/07/17/1111921705/parts-of-the-u-s-and-europe-are-bracing-for-some-of-their-hottest-temperatures-y"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/17/1111748358/democrats-face-hard-truths-on-abortion-rights-in-wisconsin-midterm-races"
-    },
-    {
-      "text": "\n                            Elections\n                            ",
-      "url": "https://www.npr.org/sections/elections/"
-    },
-    {
-      "text": "\n            Democrats face hard truths on abortion rights in Wisconsin midterm races\n            ",
-      "url": "https://www.npr.org/2022/07/17/1111748358/democrats-face-hard-truths-on-abortion-rights-in-wisconsin-midterm-races"
+      "text": "\n            There's a massive housing shortage across the U.S. Here's how bad it is where you live\n            ",
+      "url": "https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike"
+      "url": "https://www.npr.org/2022/07/11/1110958388/steve-stoute-on-staying-one-step-ahead-of-the-music-industry"
     },
     {
-      "text": "\n                            Ukraine invasion \u2014 explained\n                            ",
-      "url": "https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained"
+      "text": "\n                            The Limits with Jay Williams\n                            ",
+      "url": "https://www.npr.org/podcasts/510365/the-limits-with-jay-williams"
     },
     {
-      "text": "\n            Ukrainian villagers flee Russian-occupied Kherson on foot, bike and wheelchair\n            ",
-      "url": "https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike"
+      "text": "\n            Meet the mogul behind the rise of Mariah Carey, Will Smith and Nas\n            ",
+      "url": "https://www.npr.org/2022/07/11/1110958388/steve-stoute-on-staying-one-step-ahead-of-the-music-industry"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.cpr.org/2022/07/15/colorado-springs-man-completes-pikes-peak-peanut-push/"
+      "url": "https://www.npr.org/2022/07/17/1111940993/possible-explanation-behind-long-islands-recent-series-of-shark-encounters"
     },
     {
-      "text": "\n            He broke the record for the fastest time to push a peanut to the summit of Pikes Peak with his nose\n            ",
-      "url": "https://www.cpr.org/2022/07/15/colorado-springs-man-completes-pikes-peak-peanut-push/"
+      "text": "\n                            Animals\n                            ",
+      "url": "https://www.npr.org/sections/animals/"
     },
     {
-      "text": "Help me find another station",
-      "url": "/stations/"
+      "text": "\n            Sharks mistaking feet for fish are likely behind Long Island attacks\n            ",
+      "url": "https://www.npr.org/2022/07/17/1111940993/possible-explanation-behind-long-islands-recent-series-of-shark-encounters"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -4800,6 +4830,38 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/17/1111940084/jennifer-lopez-ben-affleck-married"
+    },
+    {
+      "text": "\n                        Pop Culture\n                        ",
+      "url": "https://www.npr.org/sections/pop-culture/"
+    },
+    {
+      "text": "\n                Jennifer Lopez and Ben Affleck got married in Las Vegas\n            ",
+      "url": "https://www.npr.org/2022/07/17/1111940084/jennifer-lopez-ben-affleck-married"
+    },
+    {
+      "text": "\n                The couple dated in the early 2000s before rekindling their romance last year.\n            ",
+      "url": "https://www.npr.org/2022/07/17/1111940084/jennifer-lopez-ben-affleck-married"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/17/1111923413/cherokee-tribe-rename-smoky-mountains-national-park-clingmans-dome"
+    },
+    {
+      "text": "\n                        History\n                        ",
+      "url": "https://www.npr.org/sections/history/"
+    },
+    {
+      "text": "\n                Cherokee tribe supports renaming Clingmans Dome in Smoky Mountains National Park\n            ",
+      "url": "https://www.npr.org/2022/07/17/1111923413/cherokee-tribe-rename-smoky-mountains-national-park-clingmans-dome"
+    },
+    {
+      "text": "\n                The Cherokee Indians referred to the mountain as Kuwahi for hundreds of years, long before it was dubbed Clingmans Dome in 1859.\n            ",
+      "url": "https://www.npr.org/2022/07/17/1111923413/cherokee-tribe-rename-smoky-mountains-national-park-clingmans-dome"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
       "url": "https://www.npr.org/2022/07/17/1111926421/british-open-winner-cameron-smith-golf"
     },
     {
@@ -4816,47 +4878,91 @@
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/11/1110958388/steve-stoute-on-staying-one-step-ahead-of-the-music-industry"
+      "url": "https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike"
     },
     {
-      "text": "\n                                    The Limits with Jay Williams\n                                    ",
-      "url": "https://www.npr.org/podcasts/510365/the-limits-with-jay-williams"
+      "text": "\n                                    Ukraine invasion \u2014 explained\n                                    ",
+      "url": "https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained"
     },
     {
-      "text": "\n                        Meet the mogul behind the rise of Mariah Carey, Will Smith and Nas\n                    ",
-      "url": "https://www.npr.org/2022/07/11/1110958388/steve-stoute-on-staying-one-step-ahead-of-the-music-industry"
+      "text": "\n                        Ukrainian villagers flee Russian-occupied Kherson on foot, bike and wheelchair\n                    ",
+      "url": "https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike"
     },
     {
-      "text": "\n                        Steve Stoute's resume rivals any of the biggest players in the industry. Now, he's attempting to shake up the music business by giving artists the ability to distribute their work across platforms without signing to a label.\n                    ",
-      "url": "https://www.npr.org/2022/07/11/1110958388/steve-stoute-on-staying-one-step-ahead-of-the-music-industry"
+      "text": "\n                        Ukraine lost territory to Russia in the southern Kherson region early in the war. Residents fleeing rural villages there describe their desperation under Russian military control.\n                    ",
+      "url": "https://www.npr.org/2022/07/17/1111022553/ukraine-villagers-flee-russia-controlled-kherson-region-bike"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            5:31\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2022/07/20220717_wesun_ukrainian_villagers_flee_russian-occupied_kherson_on_foot_bike_and_wheelchair.mp3?orgId=1&topicId=1004&aggIds=1082539802&d=331&p=10&story=1111022553&dl=1&sc=siteplayer&size=5304365&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
       "text": "Download",
-      "url": "https://play.podtrac.com/npr-510365/edge1.pod.npr.org/anon.npr-mp3/npr/limits/2022/07/20220712_limits_6249c1cb-cbb8-4c9c-8073-70314d42f707.mp3?orgId=1&topicId=1008&d=2516&p=510365&story=1110958388&t=podcast&e=1110958388&dl=1&sc=siteplayer&size=40261861&awCollectionId=510365&awEpisodeId=1110958388&dl=1&aw_0_1st.playerid=siteplayer"
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2022/07/20220717_wesun_ukrainian_villagers_flee_russian-occupied_kherson_on_foot_bike_and_wheelchair.mp3?orgId=1&topicId=1004&aggIds=1082539802&d=331&p=10&story=1111022553&dl=1&sc=siteplayer&size=5304365&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
       "text": "\n                    \n                    Transcript\n                  ",
-      "url": "https://www.npr.org/transcripts/1110958388"
+      "url": "https://www.npr.org/transcripts/1111022553"
+    },
+    {
+      "text": "\n        \n            Riding Ukraine's last train line out of Donbas with families fleeing for their lives\n        \n    ",
+      "url": "https://www.npr.org/2022/07/12/1111131957/ukraine-evacuation-train-donbas"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l"
+      "url": "https://www.npr.org/2022/07/17/1111594252/questions-linger-over-where-the-crawdads-sing-author-as-film-adaptation-is-relea"
     },
     {
-      "text": "\n                                    Economy\n                                ",
-      "url": "https://www.npr.org/sections/economy/"
+      "text": "\n                                    Culture\n                                ",
+      "url": "https://www.npr.org/sections/culture/"
     },
     {
-      "text": "\n                    There's a massive housing shortage across the U.S. Here's how bad it is where you live\n                ",
-      "url": "https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l"
+      "text": "\n                    Questions linger over the author of 'Where the Crawdads Sing' as the film adaptation is released\n                ",
+      "url": "https://www.npr.org/2022/07/17/1111594252/questions-linger-over-where-the-crawdads-sing-author-as-film-adaptation-is-relea"
     },
     {
-      "text": "                    \n                    Hundreds of cities and towns are seriously short of housing, both homes to buy and rentals, according to a new study. It's the main reason that home prices and rents are so high.\n                ",
-      "url": "https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l"
+      "text": "                    \n                    Resurfaced news about author Delia Owen may overshadow the film adaptation of her bestselling 2018 novel about a young woman raised in the marshes of North Carolina.\n                ",
+      "url": "https://www.npr.org/2022/07/17/1111594252/questions-linger-over-where-the-crawdads-sing-author-as-film-adaptation-is-relea"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            4:34\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220717_atc_questions_linger_over_where_the_crawdads_sing_author_as_film_adaptation_is_released.mp3?orgId=1&topicId=1008&d=274&p=2&story=1111594252&dl=1&sc=siteplayer&size=4390706&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
       "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220714_me_how_to_solve_the_nations_housing_shortage.mp3?orgId=1&topicId=1017&d=259&story=1109345201&dl=1&sc=siteplayer&size=4158320&dl=1&aw_0_1st.playerid=siteplayer"
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220717_atc_questions_linger_over_where_the_crawdads_sing_author_as_film_adaptation_is_released.mp3?orgId=1&topicId=1008&d=274&p=2&story=1111594252&dl=1&sc=siteplayer&size=4390706&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
+      "text": "\n                    \n                    Transcript\n                  ",
+      "url": "https://www.npr.org/transcripts/1111594252"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.npr.org/2022/07/17/1111748358/democrats-face-hard-truths-on-abortion-rights-in-wisconsin-midterm-races"
+    },
+    {
+      "text": "\n                        Elections\n                        ",
+      "url": "https://www.npr.org/sections/elections/"
+    },
+    {
+      "text": "\n                Democrats face hard truths on abortion rights in Wisconsin midterm races\n            ",
+      "url": "https://www.npr.org/2022/07/17/1111748358/democrats-face-hard-truths-on-abortion-rights-in-wisconsin-midterm-races"
+    },
+    {
+      "text": "\n                Democrats in Wisconsin are hoping to unseat Republican Sen. Ron Johnson and reelect Gov. Tony Evers. But even if they win, it might not translate to much action on abortion rights.\n            ",
+      "url": "https://www.npr.org/2022/07/17/1111748358/democrats-face-hard-truths-on-abortion-rights-in-wisconsin-midterm-races"
+    },
+    {
+      "text": "\n            \n                \n                \n                \n            \n    ",
+      "url": "https://www.cpr.org/2022/07/15/colorado-springs-man-completes-pikes-peak-peanut-push/"
+    },
+    {
+      "text": "\n                This person pushed a peanut with his proboscis to the pinnacle of Pikes Peak\n            ",
+      "url": "https://www.cpr.org/2022/07/15/colorado-springs-man-completes-pikes-peak-peanut-push/"
+    },
+    {
+      "text": "\n                It took twice as long as he anticipated, but the Colorado Springs man reached the 14,115-foot summit in record time. He's the fourth person to push a peanut to the top of the mountain, and supporters are going nuts.\n            ",
+      "url": "https://www.cpr.org/2022/07/15/colorado-springs-man-completes-pikes-peak-peanut-push/"
     },
     {
       "text": "\n            \n                \n                \n                \n            \n    ",
@@ -4889,6 +4995,10 @@
     {
       "text": "                    \n                    Institutional racism, greed, and a broken global health system are all working against African nations where people are dying from COVID in silence, according to a scathing assessment from one expert.\n                ",
       "url": "https://www.npr.org/2022/07/17/1111767414/covid-vaccines-boosters-africa-global-health"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            7:35\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220712_atc_as_wealthy_nations_push_4th_booster_shots_africa_is_being_left_behind.mp3?orgId=1&topicId=1128&d=455&story=1111767414&dl=1&sc=siteplayer&size=7284655&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
       "text": "Download",
@@ -4927,6 +5037,10 @@
       "url": "https://www.npr.org/2022/07/16/1111517804/gun-deaths-control-mass-shooting-laws"
     },
     {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            11:20\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220711_atc_a_look_at_one_of_the_thousands_of_gun_deaths_that_didnt_make_national_headlines.mp3?orgId=1&topicId=1003&d=680&story=1111517804&dl=1&sc=siteplayer&size=10889971&dl=1&aw_0_1st.playerid=siteplayer"
+    },
+    {
       "text": "Download",
       "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220711_atc_a_look_at_one_of_the_thousands_of_gun_deaths_that_didnt_make_national_headlines.mp3?orgId=1&topicId=1003&d=680&story=1111517804&dl=1&sc=siteplayer&size=10889971&dl=1&aw_0_1st.playerid=siteplayer"
     },
@@ -4945,6 +5059,10 @@
     {
       "text": "                    \n                    Chrysta Bilton's mother was a lesbian who asked a man she'd just met to be her sperm donor. It was only much later that Bilton learned the same man had donated sperm to countless other women.\n                ",
       "url": "https://www.npr.org/sections/health-shots/2022/07/14/1111256322/normal-family-chrysta-bilton-sperm-bank-donor"
+    },
+    {
+      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            35:25\n                        \n                    \n                \n            ",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/fa/2022/07/20220714_fa_01.mp3?orgId=427869011&topicId=1164&d=2125&p=13&story=1111256322&dl=1&sc=siteplayer&size=34007711&dl=1&aw_0_1st.playerid=siteplayer"
     },
     {
       "text": "Download",
@@ -4987,16 +5105,16 @@
       "url": "https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s"
     },
     {
-      "text": "\n        \n            Are COVID hospitalizations high where you live? Look up your hospital\n        \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2020/12/09/944379919/new-data-reveal-which-hospitals-are-dangerously-full-is-yours"
-    },
-    {
       "text": "\n        \n            How are the COVID-19 vaccine and booster campaigns going in your state?\n        \n    ",
       "url": "https://www.npr.org/sections/health-shots/2021/01/28/960901166/how-is-the-covid-19-vaccination-campaign-going-in-your-state"
     },
     {
       "text": "\n        \n            Do you need to wear a mask where you live? Understand the CDC's new guidance\n        \n    ",
       "url": "https://www.npr.org/sections/health-shots/2021/07/28/1021795290/cdc-mask-guidelines-indoors-vaccinated-by-county-covid-spread"
+    },
+    {
+      "text": "\n        \n            Are COVID hospitalizations high where you live? Look up your hospital\n        \n    ",
+      "url": "https://www.npr.org/sections/health-shots/2020/12/09/944379919/new-data-reveal-which-hospitals-are-dangerously-full-is-yours"
     },
     {
       "text": "news",
@@ -5124,7 +5242,7 @@
     }
   ],
   "server": "ia801409.us.archive.org",
-  "uniq": 1475301984,
+  "uniq": 802116329,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

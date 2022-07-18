@@ -1,5 +1,5 @@
 {
-  "created": 1658083108,
+  "created": 1658146829,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/14/items/thedispatch-2022",
@@ -100,31 +100,73 @@
       "sha1": "0d4f66938c03dadb5f3d94b1efda1ce57ee33879"
     },
     {
+      "name": "thedispatch-2022-07-18T00:17:04.883537-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658117827",
+      "size": "16379",
+      "md5": "baa9bacb1c2b59e55ac116632737bdd5",
+      "crc32": "4c4db357",
+      "sha1": "be878092bcd44c109edcaee2e83d54429dc29e6f",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-07-18T00:17:04.883537-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658117828",
+      "size": "15101",
+      "md5": "067ff678338a984667a4cb5c0538cdc7",
+      "crc32": "7365826b",
+      "sha1": "7f60b732dad37ea83d8be63b1e615a9fc1cc3d35",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-07-18T00:17:04.883537-04:00.jpg",
+      "source": "original",
+      "mtime": "1658117825",
+      "size": "246685",
+      "md5": "3c729b41614a118473fe19aacd8f02e3",
+      "crc32": "3a909c21",
+      "sha1": "81a597ea83e853e808be826bd9fb36632478b00b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedispatch-2022-07-18T00:17:04.883537-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedispatch-2022-07-18T00:17:04.883537-04:00.jpg",
+      "mtime": "1658119291",
+      "size": "8765",
+      "md5": "b80995b992112f1c9573767b92ad7789",
+      "crc32": "04963a8b",
+      "sha1": "06c06227cfcdd240b12e5f1b686891c79a46e1ff"
+    },
+    {
       "name": "thedispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f113bd9681aa4c41ec08dc7a5f1a44a2c2060a8",
-      "mtime": "1658072994",
-      "size": "3355",
-      "md5": "a19d600ba6dee7de17644833bf845b98",
-      "crc32": "3db4895e",
-      "sha1": "23999b2c3d8c8e503db2f8f789dadb2ce6cdf55f",
+      "btih": "eeecc1fa660145e68f44e3ed874ce4001c3e6106",
+      "mtime": "1658119307",
+      "size": "4196",
+      "md5": "d2f2337d896ab91dfae277c3282a9e06",
+      "crc32": "39d1dd6a",
+      "sha1": "31e8b1181296d6df23f848f42a444dc8cfad6e64",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a525dd1be2808e290e06051d7d61a23d",
+      "md5": "d706c7bd80fee9c0e97823a97394fbfb",
       "summation": "md5"
     },
     {
       "name": "thedispatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658072704",
-      "size": "28672",
-      "md5": "99ee8d49e2f91713f9dccc4e40252484",
-      "crc32": "047aa9be",
-      "sha1": "d03e30f2e07c675f3304ca3ec403cf58932a7d0b",
+      "mtime": "1658117832",
+      "size": "32768",
+      "md5": "854b33125d562135efc2cb8ad74f3395",
+      "crc32": "29a46d9a",
+      "sha1": "6970f9f24eb34c74185786e50ae9287bb770d29e",
       "format": "Metadata"
     },
     {
@@ -138,9 +180,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 13,
-  "item_last_updated": 1658072994,
-  "item_size": 620022,
+  "files_count": 17,
+  "item_last_updated": 1658119307,
+  "item_size": 911889,
   "metadata": {
     "identifier": "thedispatch-2022",
     "collection": [
@@ -158,7 +200,537 @@
     "addeddate": "2022-07-17 15:04:01"
   },
   "server": "ia601505.us.archive.org",
-  "uniq": 1612548363,
+  "thedispatch-2022": [
+    {
+      "text": "",
+      "url": "https://thedispatch.com"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "The G-File",
+      "url": "https://gfile.thedispatch.com"
+    },
+    {
+      "text": "The French Press",
+      "url": "https://frenchpress.thedispatch.com"
+    },
+    {
+      "text": "The Morning Dispatch",
+      "url": "https://morning.thedispatch.com"
+    },
+    {
+      "text": "The Sweep",
+      "url": "https://sweep.thedispatch.com"
+    },
+    {
+      "text": "Uphill",
+      "url": "https://uphill.thedispatch.com"
+    },
+    {
+      "text": "Vital Interests",
+      "url": "https://vitalinterests.thedispatch.com"
+    },
+    {
+      "text": "Capitolism",
+      "url": "https://capitolism.thedispatch.com"
+    },
+    {
+      "text": "The Dispatch Weekly",
+      "url": "https://weekly.thedispatch.com"
+    },
+    {
+      "text": "The Dispatch Fact Check",
+      "url": "https://factcheck.thedispatch.com"
+    },
+    {
+      "text": "The Remnant",
+      "url": "https://remnant.thedispatch.com"
+    },
+    {
+      "text": "The Dispatch Podcast",
+      "url": "https://podcast.thedispatch.com"
+    },
+    {
+      "text": "Advisory Opinions",
+      "url": "https://advisoryopinions.thedispatch.com"
+    },
+    {
+      "text": "The Hangover",
+      "url": "https://hangoverpodcast.thedispatch.com"
+    },
+    {
+      "text": "Good Faith",
+      "url": "https://goodfaith.thedispatch.com"
+    },
+    {
+      "text": "The Current",
+      "url": "https://current.thedispatch.com"
+    },
+    {
+      "text": "The Dispatch Book Club",
+      "url": "https://bookclub204.substack.com"
+    },
+    {
+      "text": "Store",
+      "url": "https://dispatchstore.myshopify.com"
+    },
+    {
+      "text": "Archive",
+      "url": "/archive"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Login",
+      "url": "https://substack.com/sign-in?redirect=%2F&for_pub=thedispatch"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Archive",
+      "url": "/archive"
+    },
+    {
+      "text": "Top posts",
+      "url": "/archive?sort=top"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Archive",
+      "url": "/archive"
+    },
+    {
+      "text": "Authors",
+      "url": "/about?sort=people"
+    },
+    {
+      "text": "Login",
+      "url": "https://substack.com/sign-in?redirect=%2F&for_pub=thedispatch"
+    },
+    {
+      "text": "The Hobbesian World of \u2018The Boys\u2019",
+      "url": "https://thedispatch.com/p/the-hobbesian-world-of-the-boys"
+    },
+    {
+      "text": "Amazon's superhero social satire advances an understanding of power Thomas Hobbes would find familiar.",
+      "url": "https://thedispatch.com/p/the-hobbesian-world-of-the-boys"
+    },
+    {
+      "text": "Nick Mauer",
+      "url": "/people/49725835-nick-mauer"
+    },
+    {
+      "text": "14",
+      "url": "https://thedispatch.com/p/the-hobbesian-world-of-the-boys/comments"
+    },
+    {
+      "text": "A 2020 Election Report \u2018By Conservatives, For Conservatives\u2019 ",
+      "url": "https://thedispatch.com/p/a-2020-election-report-by-conservatives"
+    },
+    {
+      "text": "Former judges, senators, and politicos take a deep dive into claims of fraud and find them baseless.",
+      "url": "https://thedispatch.com/p/a-2020-election-report-by-conservatives"
+    },
+    {
+      "text": "Price St. Clair",
+      "url": "/people/39957904-price-st-clair"
+    },
+    {
+      "text": "120",
+      "url": "https://thedispatch.com/p/a-2020-election-report-by-conservatives/comments"
+    },
+    {
+      "text": "The Autocrats Strike Back?",
+      "url": "https://thedispatch.com/p/the-autocrats-strike-back"
+    },
+    {
+      "text": "A review of two new books from Gideon Rachman and Mois\u00e9s Na\u00edm that explore the rise of illiberal leaders.",
+      "url": "https://thedispatch.com/p/the-autocrats-strike-back"
+    },
+    {
+      "text": "Peter C. Meilaender",
+      "url": "/people/95029108-peter-c-meilaender"
+    },
+    {
+      "text": "13",
+      "url": "https://thedispatch.com/p/the-autocrats-strike-back/comments"
+    },
+    {
+      "text": "Snake Island: The Start of Ukraine\u2019s Counteroffensive?",
+      "url": "https://thedispatch.com/p/snake-island-the-start-of-ukraines"
+    },
+    {
+      "text": "Ukraine has reclaimed the island with the help of NATO weaponry.",
+      "url": "https://thedispatch.com/p/snake-island-the-start-of-ukraines"
+    },
+    {
+      "text": "James Brooke",
+      "url": "/people/97603271-james-brooke"
+    },
+    {
+      "text": "16",
+      "url": "https://thedispatch.com/p/snake-island-the-start-of-ukraines/comments"
+    },
+    {
+      "text": "The God Gap Helps Explain a 'Seismic Shift' in American Politics",
+      "url": "https://frenchpress.thedispatch.com/p/the-most-important-religious-divide"
+    },
+    {
+      "text": "David French",
+      "url": "https://thedispatch.com/people/5849328-david-french"
+    },
+    {
+      "text": "498",
+      "url": "https://frenchpress.thedispatch.com/p/the-most-important-religious-divide/comments"
+    },
+    {
+      "text": "Kamala Harris, the Great Unifier",
+      "url": "https://gfile.thedispatch.com/p/kamala-harris-the-great-unifier"
+    },
+    {
+      "text": "Jonah Goldberg",
+      "url": "https://thedispatch.com/people/4350832-jonah-goldberg"
+    },
+    {
+      "text": "391",
+      "url": "https://gfile.thedispatch.com/p/kamala-harris-the-great-unifier/comments"
+    },
+    {
+      "text": "No, Ron DeSantis Isn\u2019t Worse than Trump",
+      "url": "https://frenchpress.thedispatch.com/p/no-ron-desantis-isnt-worse-than-trump"
+    },
+    {
+      "text": "David French",
+      "url": "https://thedispatch.com/people/5849328-david-french"
+    },
+    {
+      "text": "495",
+      "url": "https://frenchpress.thedispatch.com/p/no-ron-desantis-isnt-worse-than-trump/comments"
+    },
+    {
+      "text": "Finding the Lost Boys of American Life",
+      "url": "https://frenchpress.thedispatch.com/p/finding-the-lost-boys-of-american"
+    },
+    {
+      "text": "David French",
+      "url": "https://thedispatch.com/people/5849328-david-french"
+    },
+    {
+      "text": "618",
+      "url": "https://frenchpress.thedispatch.com/p/finding-the-lost-boys-of-american/comments"
+    },
+    {
+      "text": "Lying Liars and the Marks Who Love Them",
+      "url": "https://gfile.thedispatch.com/p/lying-liars-and-the-marks-who-love"
+    },
+    {
+      "text": "Jonah Goldberg",
+      "url": "https://thedispatch.com/people/4350832-jonah-goldberg"
+    },
+    {
+      "text": "557",
+      "url": "https://gfile.thedispatch.com/p/lying-liars-and-the-marks-who-love/comments"
+    },
+    {
+      "text": "The Case for Prosecuting Donald Trump Just Got Much Stronger",
+      "url": "https://frenchpress.thedispatch.com/p/the-case-for-prosecuting-donald-trump"
+    },
+    {
+      "text": "David French",
+      "url": "https://thedispatch.com/people/5849328-david-french"
+    },
+    {
+      "text": "564",
+      "url": "https://frenchpress.thedispatch.com/p/the-case-for-prosecuting-donald-trump/comments"
+    },
+    {
+      "text": "See all popular ",
+      "url": "/archive?sort=top"
+    },
+    {
+      "text": "",
+      "url": "javascript:void(0)"
+    },
+    {
+      "text": "Our Best Stuff From Yet Another Week We Relived the 2020 Election",
+      "url": "https://weekly.thedispatch.com/p/our-best-stuff-from-yet-another-week"
+    },
+    {
+      "text": "The January 6 committee hears from a witness who regrets participating in the Capitol riot.",
+      "url": "https://weekly.thedispatch.com/p/our-best-stuff-from-yet-another-week"
+    },
+    {
+      "text": "Rachael Larimore",
+      "url": "https://thedispatch.com/people/4860655-rachael-larimore"
+    },
+    {
+      "text": "16",
+      "url": "https://weekly.thedispatch.com/p/our-best-stuff-from-yet-another-week/comments"
+    },
+    {
+      "text": "The God Gap Helps Explain a 'Seismic Shift' in American Politics",
+      "url": "https://frenchpress.thedispatch.com/p/the-most-important-religious-divide"
+    },
+    {
+      "text": "The most important religious divide isn't between right and left, but between left and left",
+      "url": "https://frenchpress.thedispatch.com/p/the-most-important-religious-divide"
+    },
+    {
+      "text": "David French",
+      "url": "https://thedispatch.com/people/5849328-david-french"
+    },
+    {
+      "text": "498",
+      "url": "https://frenchpress.thedispatch.com/p/the-most-important-religious-divide/comments"
+    },
+    {
+      "text": "Beautiful People Don't Just Happen",
+      "url": "https://goodfaith.thedispatch.com/p/beautiful-people-dont-just-happen"
+    },
+    {
+      "text": "Listen now | David talks to Scott Sauls, an author and pastor of Christ Presbyterian Church in Nashville, Tennessee. They talk about handling the\u2026",
+      "url": "https://goodfaith.thedispatch.com/p/beautiful-people-dont-just-happen"
+    },
+    {
+      "text": "David French",
+      "url": "https://thedispatch.com/people/5849328-david-french"
+    },
+    {
+      "text": "9",
+      "url": "https://goodfaith.thedispatch.com/p/beautiful-people-dont-just-happen/comments"
+    },
+    {
+      "text": "Terms of Engagement",
+      "url": "https://remnant.thedispatch.com/p/terms-of-engagement"
+    },
+    {
+      "text": "Listen now (68 min) | July\u2019s drive-time Remnant extravaganza is here, and it\u2019s as deprived of substance as you\u2019d expect. Wedding proposals, cruises\u2026",
+      "url": "https://remnant.thedispatch.com/p/terms-of-engagement"
+    },
+    {
+      "text": "Jonah Goldberg",
+      "url": "/people/4350832-jonah-goldberg"
+    },
+    {
+      "text": "Ryan Brown",
+      "url": "/people/28065705-ryan-brown"
+    },
+    {
+      "text": "Guy Denton",
+      "url": "/people/32589075-guy-denton"
+    },
+    {
+      "text": "22",
+      "url": "https://remnant.thedispatch.com/p/terms-of-engagement/comments"
+    },
+    {
+      "text": "Lying Liars and the Marks Who Love Them",
+      "url": "https://gfile.thedispatch.com/p/lying-liars-and-the-marks-who-love"
+    },
+    {
+      "text": "Why are people so willingly manipulated?",
+      "url": "https://gfile.thedispatch.com/p/lying-liars-and-the-marks-who-love"
+    },
+    {
+      "text": "Jonah Goldberg",
+      "url": "https://thedispatch.com/people/4350832-jonah-goldberg"
+    },
+    {
+      "text": "557",
+      "url": "https://gfile.thedispatch.com/p/lying-liars-and-the-marks-who-love/comments"
+    },
+    {
+      "text": "Democrats Call Out Biden Administration on Solar Companies with Ties to Uyghur Forced Labor",
+      "url": "https://uphill.thedispatch.com/p/democrats-call-out-biden-administration"
+    },
+    {
+      "text": "Plus: How the president's own party is reacting to his meeting with the Saudi crown prince.",
+      "url": "https://uphill.thedispatch.com/p/democrats-call-out-biden-administration"
+    },
+    {
+      "text": "Haley Byrd Wilt",
+      "url": "/people/21384768-haley-byrd-wilt"
+    },
+    {
+      "text": "Harvest Prude",
+      "url": "/people/3434438-harvest-prude"
+    },
+    {
+      "text": "26",
+      "url": "https://uphill.thedispatch.com/p/democrats-call-out-biden-administration/comments"
+    },
+    {
+      "text": "The Morning Dispatch: What's Keeping Brittney Griner in Russia",
+      "url": "https://morning.thedispatch.com/p/the-morning-dispatch-whats-keeping"
+    },
+    {
+      "text": "Russia has hinted it wants a detainee swap to release the WNBA superstar, but U.S. officials are leery of the terms.",
+      "url": "https://morning.thedispatch.com/p/the-morning-dispatch-whats-keeping"
+    },
+    {
+      "text": "Declan Garvey",
+      "url": "/people/5849330-declan-garvey"
+    },
+    {
+      "text": "Esther Eaton",
+      "url": "/people/85362546-esther-eaton"
+    },
+    {
+      "text": "534",
+      "url": "https://morning.thedispatch.com/p/the-morning-dispatch-whats-keeping/comments"
+    },
+    {
+      "text": "Inflation Surges to 40-Year High",
+      "url": "https://podcast.thedispatch.com/p/inflation-surges-to-40-year-high"
+    },
+    {
+      "text": "Listen now | Sarah, David, and Jonah reflect on the problem of inflation, which surged to 9.1 percent this week and look ahead to the presidential race\u2026",
+      "url": "https://podcast.thedispatch.com/p/inflation-surges-to-40-year-high"
+    },
+    {
+      "text": "Sarah Isgur",
+      "url": "https://thedispatch.com/people/5849329-sarah-isgur"
+    },
+    {
+      "text": "82",
+      "url": "https://podcast.thedispatch.com/p/inflation-surges-to-40-year-high/comments"
+    },
+    {
+      "text": "See all ",
+      "url": "/archive?sort=new"
+    },
+    {
+      "text": "The God Gap Helps Explain a 'Seismic Shift' in American Politics",
+      "url": "https://frenchpress.thedispatch.com/p/the-most-important-religious-divide"
+    },
+    {
+      "text": "David French",
+      "url": "https://thedispatch.com/people/5849328-david-french"
+    },
+    {
+      "text": "498",
+      "url": "https://frenchpress.thedispatch.com/p/the-most-important-religious-divide/comments"
+    },
+    {
+      "text": "Kamala Harris, the Great Unifier",
+      "url": "https://gfile.thedispatch.com/p/kamala-harris-the-great-unifier"
+    },
+    {
+      "text": "Jonah Goldberg",
+      "url": "https://thedispatch.com/people/4350832-jonah-goldberg"
+    },
+    {
+      "text": "391",
+      "url": "https://gfile.thedispatch.com/p/kamala-harris-the-great-unifier/comments"
+    },
+    {
+      "text": "No, Ron DeSantis Isn\u2019t Worse than Trump",
+      "url": "https://frenchpress.thedispatch.com/p/no-ron-desantis-isnt-worse-than-trump"
+    },
+    {
+      "text": "David French",
+      "url": "https://thedispatch.com/people/5849328-david-french"
+    },
+    {
+      "text": "495",
+      "url": "https://frenchpress.thedispatch.com/p/no-ron-desantis-isnt-worse-than-trump/comments"
+    },
+    {
+      "text": "Finding the Lost Boys of American Life",
+      "url": "https://frenchpress.thedispatch.com/p/finding-the-lost-boys-of-american"
+    },
+    {
+      "text": "David French",
+      "url": "https://thedispatch.com/people/5849328-david-french"
+    },
+    {
+      "text": "618",
+      "url": "https://frenchpress.thedispatch.com/p/finding-the-lost-boys-of-american/comments"
+    },
+    {
+      "text": "Lying Liars and the Marks Who Love Them",
+      "url": "https://gfile.thedispatch.com/p/lying-liars-and-the-marks-who-love"
+    },
+    {
+      "text": "Jonah Goldberg",
+      "url": "https://thedispatch.com/people/4350832-jonah-goldberg"
+    },
+    {
+      "text": "557",
+      "url": "https://gfile.thedispatch.com/p/lying-liars-and-the-marks-who-love/comments"
+    },
+    {
+      "text": "The Case for Prosecuting Donald Trump Just Got Much Stronger",
+      "url": "https://frenchpress.thedispatch.com/p/the-case-for-prosecuting-donald-trump"
+    },
+    {
+      "text": "David French",
+      "url": "https://thedispatch.com/people/5849328-david-french"
+    },
+    {
+      "text": "564",
+      "url": "https://frenchpress.thedispatch.com/p/the-case-for-prosecuting-donald-trump/comments"
+    },
+    {
+      "text": "See all popular ",
+      "url": "/archive?sort=top"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Archive",
+      "url": "/archive"
+    },
+    {
+      "text": "Authors",
+      "url": "/about?sort=people"
+    },
+    {
+      "text": "Sitemap",
+      "url": "/sitemap"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://thedispatch.com/privacy"
+    },
+    {
+      "text": "Terms",
+      "url": "/tos"
+    },
+    {
+      "text": "Collection notice",
+      "url": "https://substack.com/ccpa#personal-data-collected"
+    },
+    {
+      "text": " Publish on Substack",
+      "url": "https://substack.com/signup?utm_source=substack&utm_medium=web&utm_content=footer"
+    },
+    {
+      "text": " Get the app",
+      "url": "https://substack.com/app/app-store-redirect?utm_campaign=app-marketing&utm_content=web-footer-button"
+    },
+    {
+      "text": "Substack",
+      "url": "https://substack.com"
+    },
+    {
+      "text": "turn on JavaScript",
+      "url": "https://enable-javascript.com/"
+    }
+  ],
+  "uniq": 52196401,
   "workable_servers": [
     "ia601505.us.archive.org",
     "ia801505.us.archive.org"
