@@ -66,7 +66,7 @@ def jpg(input_dir: str, output_dir: str):
 @cli.command()
 @click.option("-i", "--input-dir", "input_dir", default="./latest-screenshots")
 @click.option("-o", "--output-dir", "output_dir", default="./")
-def gif(input_dir: str, output_dir: str, maximium_slides: int = 10):
+def gif(input_dir: str, output_dir: str, maximium_slides: int = 15):
     """Combine images into a mosaic GIF."""
     # Get a list of images
     input_path = Path(input_dir)
@@ -83,7 +83,6 @@ def gif(input_dir: str, output_dir: str, maximium_slides: int = 10):
     slide_count = math.floor(len(image_paths) / (n * n))
 
     # Cap the slide count
-    maximium_slides = 15
     if slide_count > maximium_slides:
         click.echo(
             f"Capping images at {maximium_slides} to accomodate Twitter size limits"
