@@ -66,7 +66,7 @@ def jpg(input_dir: str, output_dir: str):
 @cli.command()
 @click.option("-i", "--input-dir", "input_dir", default="./latest-screenshots")
 @click.option("-o", "--output-dir", "output_dir", default="./")
-def gif(input_dir: str, output_dir: str):
+def gif(input_dir: str, output_dir: str, maximium_slides: int = 10):
     """Combine images into a mosaic GIF."""
     # Get a list of images
     input_path = Path(input_dir)
@@ -79,8 +79,16 @@ def gif(input_dir: str, output_dir: str):
     output_path.mkdir(parents=True, exist_ok=True)
 
     # Set the size of our grids and the number of slides
-    n = 3
+    n = 2
     slide_count = math.floor(len(image_paths) / (n * n))
+
+    # Cap the slide count
+    maximium_slides = 15
+    if slide_count > maximium_slides:
+        click.echo(
+            f"Capping images at {maximium_slides} to accomodate Twitter size limits"
+        )
+        slide_count = maximium_slides
 
     # Pull random images from our source list
     random_images = []
@@ -96,7 +104,7 @@ def gif(input_dir: str, output_dir: str):
     for i, image_chunk in enumerate(utils.chunk(sorted_images, n * n)):
         click.echo(f"Creating slide {i+1}")
 
-        size = list(map(math.floor, (600 / n, 338 / n)))
+        size = list(map(math.floor, (1200 / n, 675 / n)))
         shape = (n, n)
 
         # Open images and resize them
