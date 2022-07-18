@@ -1,5 +1,5 @@
 {
-  "created": 1658073111,
+  "created": 1658082190,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/voicesofbay-2022",
@@ -1108,31 +1108,73 @@
       "sha1": "d86eb29dddfd09b5e11226ac9a1f19b04407f4fa"
     },
     {
+      "name": "voicesofbay-2022-07-17T11:14:00.100522-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658081643",
+      "size": "31211",
+      "md5": "ae861cacf363c06b0ed9c01a7f263ed3",
+      "crc32": "6ebe59fb",
+      "sha1": "e1e643f67496f271e6facad922f06a802b4dfa65",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-07-17T11:14:00.100522-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658081645",
+      "size": "14943",
+      "md5": "0dc139620845d143a713984901c64fc0",
+      "crc32": "04e213b9",
+      "sha1": "afc15c3f577656e5bb6f7aa1fa5b8f411f31e96f",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-07-17T11:14:00.100522-07:00.jpg",
+      "source": "original",
+      "mtime": "1658081641",
+      "size": "166334",
+      "md5": "eca81af77529bc4c81b7e713cc42220f",
+      "crc32": "feb28db8",
+      "sha1": "6c87e233568aabb40fc8b89732fa19241385c1e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voicesofbay-2022-07-17T11:14:00.100522-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voicesofbay-2022-07-17T11:14:00.100522-07:00.jpg",
+      "mtime": "1658081899",
+      "size": "8028",
+      "md5": "48f866682ac751120b7fd5ab4b44f8f5",
+      "crc32": "a42f15f9",
+      "sha1": "75949f5c75450dbbb102e0b3902a0a268e8b16e0"
+    },
+    {
       "name": "voicesofbay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "95a25c31d9aa005be47168d5d541da70a659ef96",
-      "mtime": "1658073081",
-      "size": "23741",
-      "md5": "2dac512245ae59ad629a13802eef9e37",
-      "crc32": "ebb50308",
-      "sha1": "3ed9f903a1a4758f099d6f8e50ce8877139833f9",
+      "btih": "c466104ba32237444ca1daa35b64e9eaa0e900ec",
+      "mtime": "1658082044",
+      "size": "24582",
+      "md5": "c4f9671956f5fe93dcbc0540e3a059ce",
+      "crc32": "e77b6812",
+      "sha1": "2399028da7681268748d4c6594e008d877609d9d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voicesofbay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d20bbdf25541464d47da28ef696a5492",
+      "md5": "ab87f70bdd83cef77a0597ee286ad51a",
       "summation": "md5"
     },
     {
       "name": "voicesofbay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658072868",
-      "size": "143360",
-      "md5": "6c096dedc826c1a448178983710b7a89",
-      "crc32": "5374ab0b",
-      "sha1": "5cf0083d255f5fc106faeeb525475b9ab7c4fb79",
+      "mtime": "1658081647",
+      "size": "147456",
+      "md5": "0865e495b3b12580e8c699b4484d2181",
+      "crc32": "61c5cfdf",
+      "sha1": "cb8861738f2ebf54f0b3fcf43d13a54c3c977d8f",
       "format": "Metadata"
     },
     {
@@ -1146,9 +1188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 109,
-  "item_last_updated": 1658073081,
-  "item_size": 5922812,
+  "files_count": 113,
+  "item_last_updated": 1658082044,
+  "item_size": 6148265,
   "metadata": {
     "identifier": "voicesofbay-2022",
     "collection": [
@@ -1165,10 +1207,10 @@
     "publicdate": "2022-07-09 04:04:49",
     "addeddate": "2022-07-09 04:04:49"
   },
-  "server": "ia601503.us.archive.org",
-  "uniq": 110528816,
+  "server": "ia801503.us.archive.org",
+  "uniq": 715829205,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }
