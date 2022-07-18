@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. left wing
 
-The most recent homepages from 17 news sites in this bundle.
+The most recent homepages from 18 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -90,6 +90,15 @@ The most recent homepages from 17 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/rawstory.html">Raw Story</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/salon.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salon.jpg"
+     alt="Salon"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/salon.html">Salon</a></p>
 </div>
 
 <div class="latest-child">
@@ -188,6 +197,7 @@ The most recent homepages from 17 news sites in this bundle.
 |[Media Matters](https://palewi.re/docs/news-homepages/sites/mmfa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mmfa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mmfa.xml)|
 |[Mother Jones](https://palewi.re/docs/news-homepages/sites/motherjones.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/motherjones.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/motherjones.xml)|
 |[Raw Story](https://palewi.re/docs/news-homepages/sites/rawstory.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rawstory.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rawstory.xml)|
+|[Salon](https://palewi.re/docs/news-homepages/sites/salon.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salon.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/salon.xml)|
 |[Slate](https://palewi.re/docs/news-homepages/sites/slate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/slate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/slate.xml)|
 |[Baffler](https://palewi.re/docs/news-homepages/sites/thebafflermag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thebafflermag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thebafflermag.xml)|
 |[Intercept](https://palewi.re/docs/news-homepages/sites/theintercept.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theintercept.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theintercept.xml)|

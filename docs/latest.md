@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 502 news sites.
+The most recent homepages captured from 503 news sites.
 
 <div class="latest-parent">
 
@@ -3497,6 +3497,15 @@ The most recent homepages captured from 502 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/sahanjournal.html">Sahan Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/salon.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salon.jpg"
+     alt="Salon"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/salon.html">Salon</a></p>
 </div>
 
 <div class="latest-child">

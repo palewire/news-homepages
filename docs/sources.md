@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 502 sites.
+The archiving routine is currently capturing 503 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -397,6 +397,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[RTE](https://palewi.re/docs/news-homepages/sites/rtenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rtenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rtenews.xml)|
 |[Sacramento Bee](https://palewi.re/docs/news-homepages/sites/sacbee_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sacbee_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sacbee_news.xml)|
 |[Sahan Journal](https://palewi.re/docs/news-homepages/sites/sahanjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sahanjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sahanjournal.xml)|
+|[Salon](https://palewi.re/docs/news-homepages/sites/salon.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salon.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/salon.xml)|
 |[Salt Lake Tribune](https://palewi.re/docs/news-homepages/sites/sltrib.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sltrib.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sltrib.xml)|
 |[San Antonio Express-News](https://palewi.re/docs/news-homepages/sites/expressnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/expressnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/expressnews.xml)|
 |[San Diego Union Tribune](https://palewi.re/docs/news-homepages/sites/sdut.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sdut.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sdut.xml)|
