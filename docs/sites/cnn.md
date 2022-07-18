@@ -17,7 +17,7 @@ orphan: true
 | Location       | Atlanta                                                                 |
 | Timezone       | US/Eastern                                                                 |
 
-The archiving routine has captured 590 screenshots stored at the Internet Archive.
+The archiving routine has captured 591 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

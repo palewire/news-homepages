@@ -7,7 +7,7 @@ orphan: true
 
 # Southern California
 
-The most recent homepages from 19 news sites in this bundle.
+The most recent homepages from 20 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -36,6 +36,15 @@ The most recent homepages from 19 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/inewsource.html">inewsource</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/kcrw.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcrw.jpg"
+     alt="KCRW"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/kcrw.html">KCRW</a></p>
 </div>
 
 <div class="latest-child">
@@ -200,6 +209,7 @@ The most recent homepages from 19 news sites in this bundle.
 |[ABC7](https://palewi.re/docs/news-homepages/sites/abc7.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abc7.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abc7.xml)|
 |[FOX 11 Los Angeles](https://palewi.re/docs/news-homepages/sites/foxla.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxla.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foxla.xml)|
 |[inewsource](https://palewi.re/docs/news-homepages/sites/inewsource.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inewsource.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/inewsource.xml)|
+|[KCRW](https://palewi.re/docs/news-homepages/sites/kcrw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcrw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcrw.xml)|
 |[Knock.LA](https://palewi.re/docs/news-homepages/sites/knockdotla.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knockdotla.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/knockdotla.xml)|
 |[KPBS](https://palewi.re/docs/news-homepages/sites/kpbs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kpbs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kpbs.xml)|
 |[KPCC](https://palewi.re/docs/news-homepages/sites/kpcc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kpcc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kpcc.xml)|

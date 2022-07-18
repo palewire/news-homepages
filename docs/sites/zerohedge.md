@@ -14,7 +14,7 @@ orphan: true
 | Site           | [https://www.zerohedge.com/](https://www.zerohedge.com/)                                                    |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/zerohedge.xml) |
 | Twitter handle | [@zerohedge](https://www.twitter.com/zerohedge)                     |
-| Location       | New York                                                                 |
+| Location       | New York City                                                                 |
 | Timezone       | America/New_York                                                                 |
 
 The archiving routine has captured 2 screenshots stored at the Internet Archive.

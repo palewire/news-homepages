@@ -7,7 +7,7 @@ orphan: true
 
 # California Bay Area
 
-The most recent homepages from 18 news sites in this bundle.
+The most recent homepages from 19 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -54,6 +54,15 @@ The most recent homepages from 18 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/el_timpano.html">El Tímpano</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/kqed.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kqed.jpg"
+     alt="KQED"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/kqed.html">KQED</a></p>
 </div>
 
 <div class="latest-child">
@@ -193,6 +202,7 @@ The most recent homepages from 18 news sites in this bundle.
 |[The Berkeleyside](https://palewi.re/docs/news-homepages/sites/berkeleyside.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkeleyside.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/berkeleyside.xml)|
 |[East Bay Times](https://palewi.re/docs/news-homepages/sites/eastbaytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eastbaytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eastbaytimes.xml)|
 |[El Tímpano](https://palewi.re/docs/news-homepages/sites/el_timpano.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_timpano.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_timpano.xml)|
+|[KQED](https://palewi.re/docs/news-homepages/sites/kqed.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kqed.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kqed.xml)|
 |[Lookout Santa Cruz](https://palewi.re/docs/news-homepages/sites/lookoutscruz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lookoutscruz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lookoutscruz.xml)|
 |[Mercury News](https://palewi.re/docs/news-homepages/sites/mercnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mercnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mercnews.xml)|
 |[Mission Local](https://palewi.re/docs/news-homepages/sites/mlnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mlnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mlnow.xml)|

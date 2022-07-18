@@ -1,5 +1,5 @@
 {
-  "created": 1658073652,
+  "created": 1658106269,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/35/items/theprospect-2022",
@@ -47,21 +47,32 @@
       "rotation": "0"
     },
     {
+      "name": "theprospect-2022-07-17T11:59:51.849352-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theprospect-2022-07-17T11:59:51.849352-04:00.jpg",
+      "mtime": "1658074154",
+      "size": "9834",
+      "md5": "aaf8b54336a02c0ec14640108d75baee",
+      "crc32": "0acdd095",
+      "sha1": "5dada08dcfce244435ab23e928e8efa1f83a1a2e"
+    },
+    {
       "name": "theprospect-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7c14824db7792eb5778bc2485dadbfb9a7625475",
-      "mtime": "1658073651",
-      "size": "2287",
-      "md5": "3104e3447f58972a2d72941318cac506",
-      "crc32": "fdc8963b",
-      "sha1": "3c086e6888823a7c6e5f6d4a1fee7249575a0045",
+      "btih": "26cd6b1c681f629035c31d6c86aff7eaf28d7ef1",
+      "mtime": "1658074161",
+      "size": "2494",
+      "md5": "0f296882ee5829a42c0e1fd9234f1c47",
+      "crc32": "a0a227fc",
+      "sha1": "107e6f7b40c7c7e4e496def90e3090cc7075f62b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theprospect-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b09f257aa522990e4f3dc6a85b09b87b",
+      "md5": "7a1808ff04fb5835ecdc536d2eee6477",
       "summation": "md5"
     },
     {
@@ -85,9 +96,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 8,
-  "item_last_updated": 1658073651,
-  "item_size": 353648,
+  "files_count": 9,
+  "item_last_updated": 1658074161,
+  "item_size": 363689,
   "metadata": {
     "identifier": "theprospect-2022",
     "collection": [
@@ -104,21 +115,688 @@
     "publicdate": "2022-07-17 16:00:07",
     "addeddate": "2022-07-17 16:00:07"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "server": "ia801502.us.archive.org",
+  "theprospect-2022": [
     {
-      "task_id": 3335198445,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "text": "Skip to main content",
+      "url": "#maincontent"
+    },
+    {
+      "text": "Become A Member",
+      "url": "https://prospect.org/membership"
+    },
+    {
+      "text": "My Account",
+      "url": "/my-account"
+    },
+    {
+      "text": "\n    \n    \n    \n    \n                                                                       ",
+      "url": "https://prospect.org"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "Money, Politics and Power",
+      "url": "https://prospect.org/power"
+    },
+    {
+      "text": "Supply Chain",
+      "url": "https://prospect.org/supply-chain"
+    },
+    {
+      "text": "Working in America",
+      "url": "https://prospect.org/labor"
+    },
+    {
+      "text": "The Alt-Labor Chronicles: America\u2019s Worker Centers",
+      "url": "https://prospect.org/labor/the-alt-labor-chronicles-america-s-worker-centers"
+    },
+    {
+      "text": "Housing and Transportation",
+      "url": "https://prospect.org/infrastructure"
+    },
+    {
+      "text": "Building Back America",
+      "url": "https://prospect.org/infrastructure/building-back-america"
+    },
+    {
+      "text": "Energy and the Environment",
+      "url": "https://prospect.org/environment"
+    },
+    {
+      "text": "Climate of Opportunity",
+      "url": "https://prospect.org/environment/climate-of-opportunity"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://prospect.org/coronavirus"
+    },
+    {
+      "text": "Civil Rights in America",
+      "url": "https://prospect.org/civil-rights"
+    },
+    {
+      "text": "Health and Social Policy",
+      "url": "https://prospect.org/health"
+    },
+    {
+      "text": "Day One Agenda",
+      "url": "https://prospect.org/day-one-agenda"
+    },
+    {
+      "text": "Law and Justice",
+      "url": "https://prospect.org/justice"
+    },
+    {
+      "text": "America and the World",
+      "url": "https://prospect.org/world"
+    },
+    {
+      "text": "Economic Policy",
+      "url": "https://prospect.org/economy"
+    },
+    {
+      "text": "The Prospect Archive",
+      "url": "https://prospect.org/archive"
+    },
+    {
+      "text": "15th Anniversary",
+      "url": "https://prospect.org/archive/15th-anniversary"
+    },
+    {
+      "text": "20th Anniversary",
+      "url": "https://prospect.org/archive/20th-anniversary"
+    },
+    {
+      "text": "On The Web",
+      "url": "https://prospect.org/archive/on-the-web"
+    },
+    {
+      "text": "Home",
+      "url": "https://prospect.org"
+    },
+    {
+      "text": "RSS",
+      "url": "https://prospect.org/api/rss/content.rss"
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://prospect.org/topics/ukraine/"
+    },
+    {
+      "text": "Roe v. Wade",
+      "url": "https://prospect.org/topics/reproductive_rights/"
+    },
+    {
+      "text": "Global Warning",
+      "url": "https://prospect.org/environment"
+    },
+    {
+      "text": "Supply Chain",
+      "url": "https://prospect.org/supply-chain"
+    },
+    {
+      "text": "Executive Action Tracker",
+      "url": "https://prospect.org/day-one-agenda/executive-action-tracker"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/may-build-back-better-never-be-spoken-of-again/"
+    },
+    {
+      "text": "May Build Back Better Never Be Spoken Of Again",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/may-build-back-better-never-be-spoken-of-again/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/may-build-back-better-never-be-spoken-of-again/"
+    },
+    {
+      "text": "David Dayen",
+      "url": "https://prospect.org/topics/david-dayen/"
+    },
+    {
+      "text": "Our Latest",
+      "url": "https://prospect.org/latest"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/politics/polling-nation-feeling-crisis-of-confidence/"
+    },
+    {
+      "text": "Polling: Nation Feeling Crisis of Confidence",
+      "url": "https://prospect.org/politics/polling-nation-feeling-crisis-of-confidence/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/politics/polling-nation-feeling-crisis-of-confidence/"
+    },
+    {
+      "text": "David Dayen",
+      "url": "https://prospect.org/topics/david-dayen/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/politics/biden-should-not-trade-executive-actions-for-mythical-senate-promises/"
+    },
+    {
+      "text": "Biden Should Not Trade Executive Actions for Mythical Senate Promises",
+      "url": "https://prospect.org/politics/biden-should-not-trade-executive-actions-for-mythical-senate-promises/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/politics/biden-should-not-trade-executive-actions-for-mythical-senate-promises/"
+    },
+    {
+      "text": "Dorothy Slater",
+      "url": "https://prospect.org/topics/dorothy-slater/"
+    },
+    {
+      "text": "Toni Aguilar Rosenthal",
+      "url": "https://prospect.org/topics/toni-aguilar-rosenthal/"
+    },
+    {
+      "text": "Left Anchor Podcast",
+      "url": "https://prospect.org/podcasts"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/podcasts/the-ethics-of-socialism/"
+    },
+    {
+      "text": "The Ethics of Socialism",
+      "url": "https://prospect.org/podcasts/the-ethics-of-socialism/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/podcasts/the-ethics-of-socialism/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/politics/altercation-do-we-really-need-to-appreciate-coup-expertise/"
+    },
+    {
+      "text": "Altercation: Do We Really Need to Appreciate Coup Expertise?",
+      "url": "https://prospect.org/politics/altercation-do-we-really-need-to-appreciate-coup-expertise/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/politics/altercation-do-we-really-need-to-appreciate-coup-expertise/"
+    },
+    {
+      "text": "Eric Alterman",
+      "url": "https://prospect.org/topics/eric-alterman/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/where-markets-dont-go-heres-how-state-can-step-in/"
+    },
+    {
+      "text": "Where Markets Don\u2019t Go, Here\u2019s How the State Can Step In",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/where-markets-dont-go-heres-how-state-can-step-in/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/where-markets-dont-go-heres-how-state-can-step-in/"
+    },
+    {
+      "text": "Harold Meyerson",
+      "url": "https://prospect.org/topics/harold-meyerson/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/politics/aipac-has-taken-over-the-democratic-primary-process/"
+    },
+    {
+      "text": "AIPAC Has Taken Over the Democratic Primary Process",
+      "url": "https://prospect.org/politics/aipac-has-taken-over-the-democratic-primary-process/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/politics/aipac-has-taken-over-the-democratic-primary-process/"
+    },
+    {
+      "text": "Alexander Sammon",
+      "url": "https://prospect.org/topics/alexander-sammon/"
+    },
+    {
+      "text": "Jun 2022 Issue",
+      "url": "https://prospect.org/archive"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/topics/jun-2022-issue/"
+    },
+    {
+      "text": "From the Magazine",
+      "url": "https://prospect.org/archive"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/culture/books/pain-profiteers-mariner-olson-reviews/"
+    },
+    {
+      "text": "The Pain Profiteers",
+      "url": "https://prospect.org/culture/books/pain-profiteers-mariner-olson-reviews/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/culture/books/pain-profiteers-mariner-olson-reviews/"
+    },
+    {
+      "text": "Rhoda Feng",
+      "url": "https://prospect.org/topics/rhoda-feng/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/culture/books/giant-pandemic-pool-of-money-mcswane-review/"
+    },
+    {
+      "text": "The Giant Pandemic Pool of Money",
+      "url": "https://prospect.org/culture/books/giant-pandemic-pool-of-money-mcswane-review/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/culture/books/giant-pandemic-pool-of-money-mcswane-review/"
+    },
+    {
+      "text": "Robin Kaiser-Schatzlein",
+      "url": "https://prospect.org/topics/robin-kaiser-schatzlein/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/politics/in-pennsylvania-democrats-suburban-strategy-is-being-put-to-the-test/"
+    },
+    {
+      "text": "In Pennsylvania, Democrats\u2019 Suburban Strategy Is Being Put to the Test",
+      "url": "https://prospect.org/politics/in-pennsylvania-democrats-suburban-strategy-is-being-put-to-the-test/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/politics/in-pennsylvania-democrats-suburban-strategy-is-being-put-to-the-test/"
+    },
+    {
+      "text": "Ryan Cooper",
+      "url": "https://prospect.org/topics/ryan-cooper/"
+    },
+    {
+      "text": "View more",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/infrastructure/transportation/opting-out-of-mass-transit/"
+    },
+    {
+      "text": "Opting Out of Mass Transit?",
+      "url": "https://prospect.org/infrastructure/transportation/opting-out-of-mass-transit/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/infrastructure/transportation/opting-out-of-mass-transit/"
+    },
+    {
+      "text": "Gabrielle Gurley",
+      "url": "https://prospect.org/topics/gabrielle-gurley/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/economy/railroad-profit-making-strategy-comes-at-a-cost/"
+    },
+    {
+      "text": "Railroad Profit-Making Strategy Comes at a Cost",
+      "url": "https://prospect.org/economy/railroad-profit-making-strategy-comes-at-a-cost/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/economy/railroad-profit-making-strategy-comes-at-a-cost/"
+    },
+    {
+      "text": "David Dayen",
+      "url": "https://prospect.org/topics/david-dayen/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/fed-is-one-trick-pony/"
+    },
+    {
+      "text": "The Fed Is a One-Trick Pony",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/fed-is-one-trick-pony/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/fed-is-one-trick-pony/"
+    },
+    {
+      "text": "Robert Kuttner",
+      "url": "https://prospect.org/topics/robert-kuttner/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/politics/senate-democrats-must-shoot-down-bidens-anti-abortion-court-nominee/"
+    },
+    {
+      "text": "Senate Democrats Must Shoot Down Biden\u2019s Anti-Abortion Court Nominee",
+      "url": "https://prospect.org/politics/senate-democrats-must-shoot-down-bidens-anti-abortion-court-nominee/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/politics/senate-democrats-must-shoot-down-bidens-anti-abortion-court-nominee/"
+    },
+    {
+      "text": "Ryan Cooper",
+      "url": "https://prospect.org/topics/ryan-cooper/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/labor/dollar-store-workers-organizing-for-justice/"
+    },
+    {
+      "text": "Dollar Store Workers Organizing for Justice",
+      "url": "https://prospect.org/labor/dollar-store-workers-organizing-for-justice/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/labor/dollar-store-workers-organizing-for-justice/"
+    },
+    {
+      "text": "Bryce Covert",
+      "url": "https://prospect.org/topics/bryce-covert/"
+    },
+    {
+      "text": "View more",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/pages/crux-knowledge-tracker-and-hub/"
+    },
+    {
+      "text": "Featured Video",
+      "url": "https://prospect.org/videos"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/videos/china-supply-chain-mess/"
+    },
+    {
+      "text": "\u23e9 China and the Supply Chain Mess",
+      "url": "https://prospect.org/videos/china-supply-chain-mess/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/videos/china-supply-chain-mess/"
+    },
+    {
+      "text": "Videos",
+      "url": "https://prospect.org/videos"
+    },
+    {
+      "text": "Feb 2022 Issue: The Supply Chain",
+      "url": "https://prospect.org/topics/feb-2022-issue/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/topics/apr-2022-issue/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/economy/we-were-warned-about-the-ports/"
+    },
+    {
+      "text": "We Were Warned About the Ports",
+      "url": "https://prospect.org/economy/we-were-warned-about-the-ports/"
+    },
+    {
+      "text": "Alexander Sammon",
+      "url": "https://prospect.org/topics/alexander-sammon/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/labor/labor-fight-brews-on-the-docks/"
+    },
+    {
+      "text": "Labor Fight Brews on the Docks",
+      "url": "https://prospect.org/labor/labor-fight-brews-on-the-docks/"
+    },
+    {
+      "text": "Ella Fanger",
+      "url": "https://prospect.org/topics/ella-fanger/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/economy/big-business-games-the-supply-chain/"
+    },
+    {
+      "text": "Big Business Games the Supply Chain",
+      "url": "https://prospect.org/economy/big-business-games-the-supply-chain/"
+    },
+    {
+      "text": "Rose Adams",
+      "url": "https://prospect.org/topics/rose-adams/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/health/medical-emergency-supply-chain/"
+    },
+    {
+      "text": "Medical Emergency",
+      "url": "https://prospect.org/health/medical-emergency-supply-chain/"
+    },
+    {
+      "text": "Esther Eriksson von Allmen",
+      "url": "https://prospect.org/topics/esther-eriksson-von-allmen/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/politics/abortion-rights-supporters-are-in-step-with-the-mainstream/"
+    },
+    {
+      "text": "Abortion Rights Supporters Are in Step With the Mainstream",
+      "url": "https://prospect.org/politics/abortion-rights-supporters-are-in-step-with-the-mainstream/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/politics/abortion-rights-supporters-are-in-step-with-the-mainstream/"
+    },
+    {
+      "text": "Atima Omara",
+      "url": "https://prospect.org/topics/atima-omara/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/environment/texas-grid-heaves-under-extreme-heat/"
+    },
+    {
+      "text": "Texas Grid Heaves Under Extreme Heat",
+      "url": "https://prospect.org/environment/texas-grid-heaves-under-extreme-heat/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/environment/texas-grid-heaves-under-extreme-heat/"
+    },
+    {
+      "text": "Lee Harris",
+      "url": "https://prospect.org/topics/lee-harris/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/politics/trump-to-his-gangs-attack/"
+    },
+    {
+      "text": "Trump to His Gangs: Attack!",
+      "url": "https://prospect.org/politics/trump-to-his-gangs-attack/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/politics/trump-to-his-gangs-attack/"
+    },
+    {
+      "text": "Harold Meyerson",
+      "url": "https://prospect.org/topics/harold-meyerson/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/the-speech-biden-needs-to-give/"
+    },
+    {
+      "text": "The Speech Biden Needs to Give",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/the-speech-biden-needs-to-give/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/blogs-and-newsletters/tap/the-speech-biden-needs-to-give/"
+    },
+    {
+      "text": "Robert Kuttner",
+      "url": "https://prospect.org/topics/robert-kuttner/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/health/how-hospitals-undermine-reproductive-rights/"
+    },
+    {
+      "text": "How Hospitals Undermine Reproductive Rights",
+      "url": "https://prospect.org/health/how-hospitals-undermine-reproductive-rights/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/health/how-hospitals-undermine-reproductive-rights/"
+    },
+    {
+      "text": "Robert Kuttner",
+      "url": "https://prospect.org/topics/robert-kuttner/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/labor/new-york-gov-hochuls-husband-works-for-corporate-giant-accused-of-union-busting/"
+    },
+    {
+      "text": "New York Gov. Hochul\u2019s Husband Works for Corporate Giant Accused of Union-Busting",
+      "url": "https://prospect.org/labor/new-york-gov-hochuls-husband-works-for-corporate-giant-accused-of-union-busting/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/labor/new-york-gov-hochuls-husband-works-for-corporate-giant-accused-of-union-busting/"
+    },
+    {
+      "text": "Mike Elk",
+      "url": "https://prospect.org/topics/mike-elk/"
+    },
+    {
+      "text": "Rachel Phua",
+      "url": "https://prospect.org/topics/rachel-phua/"
+    },
+    {
+      "text": "View more",
+      "url": "#"
+    },
+    {
+      "text": "The Ethics of Socialism",
+      "url": "https://prospect.org/podcasts/the-ethics-of-socialism/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/podcasts/the-ethics-of-socialism/"
+    },
+    {
+      "text": "Prospect Staff",
+      "url": "https://prospect.org/topics/prospect-staff/"
+    },
+    {
+      "text": "The January 6 Hearings",
+      "url": "https://prospect.org/podcasts/the-january-6-hearings/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/podcasts/the-january-6-hearings/"
+    },
+    {
+      "text": "Prospect Staff",
+      "url": "https://prospect.org/topics/prospect-staff/"
+    },
+    {
+      "text": "The State of American Socialism",
+      "url": "https://prospect.org/podcasts/the-state-of-american-socialism/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/podcasts/the-state-of-american-socialism/"
+    },
+    {
+      "text": "Prospect Staff",
+      "url": "https://prospect.org/topics/prospect-staff/"
+    },
+    {
+      "text": "Getting Real About the Post-\u2018Roe\u2019 World",
+      "url": "https://prospect.org/justice/getting-real-about-the-post-roe-world/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/justice/getting-real-about-the-post-roe-world/"
+    },
+    {
+      "text": "Scott Lemieux",
+      "url": "https://prospect.org/topics/scott-lemieux/"
+    },
+    {
+      "text": "Fighting for Abortion Rights All Over Again",
+      "url": "https://prospect.org/justice/fighting-for-abortion-rights-all-over-again/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://prospect.org/justice/fighting-for-abortion-rights-all-over-again/"
+    },
+    {
+      "text": "Heather Booth",
+      "url": "https://prospect.org/topics/heather-booth/"
+    },
+    {
+      "text": "",
+      "url": "#"
+    },
+    {
+      "text": "About the Prospect / Contact Info ",
+      "url": "https://prospect.org/about"
+    },
+    {
+      "text": "Browse Archive / Back Issues",
+      "url": "https://prospect.org/archive"
+    },
+    {
+      "text": "Subscription Services",
+      "url": "https://prospect.org/subscribe"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://prospect.org/privacy-policy"
+    },
+    {
+      "text": "DONATE TO THE PROSPECT",
+      "url": "https://prospect.org/donate"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/theprospect"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/TheAmericanProspect/"
+    },
+    {
+      "text": "",
+      "url": "https://prospect.org/api/rss/all.rss"
+    },
+    {
+      "text": "Metro Publisher\u2122",
+      "url": "https://www.metropublisher.com"
     }
   ],
-  "uniq": 237339051,
+  "uniq": 1964744217,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

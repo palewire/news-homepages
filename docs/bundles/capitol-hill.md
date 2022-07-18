@@ -7,9 +7,18 @@ orphan: true
 
 # Capitol Hill
 
-The most recent homepages from 12 news sites in this bundle.
+The most recent homepages from 14 news sites in this bundle.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/axios.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/axios.jpg"
+     alt="Axios"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/axios.html">Axios</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/cookpolitical.html">
@@ -45,6 +54,15 @@ The most recent homepages from 12 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/eenewsupdates.html">E&E News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gridnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gridnews.jpg"
+     alt="Grid"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gridnews.html">Grid</a></p>
 </div>
 
 <div class="latest-child">
@@ -134,10 +152,12 @@ The most recent homepages from 12 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[Axios](https://palewi.re/docs/news-homepages/sites/axios.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/axios.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/axios.xml)|
 |[Cook Political Report](https://palewi.re/docs/news-homepages/sites/cookpolitical.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cookpolitical.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cookpolitical.xml)|
 |[CQ](https://palewi.re/docs/news-homepages/sites/cqnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cqnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cqnow.xml)|
 |[Decision Desk HQ](https://palewi.re/docs/news-homepages/sites/decisiondeskhq.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/decisiondeskhq.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/decisiondeskhq.xml)|
 |[E&E News](https://palewi.re/docs/news-homepages/sites/eenewsupdates.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eenewsupdates.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eenewsupdates.xml)|
+|[Grid](https://palewi.re/docs/news-homepages/sites/gridnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gridnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gridnews.xml)|
 |[National Journal](https://palewi.re/docs/news-homepages/sites/nationaljournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nationaljournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nationaljournal.xml)|
 |[POLITICO](https://palewi.re/docs/news-homepages/sites/politico.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politico.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/politico.xml)|
 |[Politifact ](https://palewi.re/docs/news-homepages/sites/politifact.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politifact.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/politifact.xml)|

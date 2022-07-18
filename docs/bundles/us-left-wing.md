@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. left wing
 
-The most recent homepages from 15 news sites in this bundle.
+The most recent homepages from 17 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -93,6 +93,15 @@ The most recent homepages from 15 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/slate.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/slate.jpg"
+     alt="Slate"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/slate.html">Slate</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thebafflermag.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thebafflermag.jpg"
      alt="Baffler"
@@ -146,6 +155,15 @@ The most recent homepages from 15 news sites in this bundle.
  <p><a href="../sites/ur_ninja.html">Unicorn Riot</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/voxdotcom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voxdotcom.jpg"
+     alt="Vox"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/voxdotcom.html">Vox</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -170,9 +188,11 @@ The most recent homepages from 15 news sites in this bundle.
 |[Media Matters](https://palewi.re/docs/news-homepages/sites/mmfa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mmfa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mmfa.xml)|
 |[Mother Jones](https://palewi.re/docs/news-homepages/sites/motherjones.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/motherjones.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/motherjones.xml)|
 |[Raw Story](https://palewi.re/docs/news-homepages/sites/rawstory.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rawstory.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rawstory.xml)|
+|[Slate](https://palewi.re/docs/news-homepages/sites/slate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/slate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/slate.xml)|
 |[Baffler](https://palewi.re/docs/news-homepages/sites/thebafflermag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thebafflermag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thebafflermag.xml)|
 |[Intercept](https://palewi.re/docs/news-homepages/sites/theintercept.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theintercept.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theintercept.xml)|
 |[The Nation](https://palewi.re/docs/news-homepages/sites/thenation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thenation.xml)|
 |[American Prospect](https://palewi.re/docs/news-homepages/sites/theprospect.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theprospect.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theprospect.xml)|
 |[Truthout](https://palewi.re/docs/news-homepages/sites/truthout.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/truthout.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/truthout.xml)|
 |[Unicorn Riot](https://palewi.re/docs/news-homepages/sites/ur_ninja.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ur_ninja.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ur_ninja.xml)|
+|[Vox](https://palewi.re/docs/news-homepages/sites/voxdotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voxdotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/voxdotcom.xml)|

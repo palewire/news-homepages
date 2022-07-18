@@ -7,7 +7,7 @@ orphan: true
 
 # Arizona
 
-The most recent homepages from 4 news sites in this bundle.
+The most recent homepages from 5 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -39,6 +39,15 @@ The most recent homepages from 4 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/tucsonsentinel.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonsentinel.jpg"
+     alt="Tucson Sentinel"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/tucsonsentinel.html">Tucson Sentinel</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/tucsonstar.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonstar.jpg"
      alt="Arizona Daily Star"
@@ -65,4 +74,5 @@ The most recent homepages from 4 news sites in this bundle.
 |[Arizona Republic](https://palewi.re/docs/news-homepages/sites/azcentral.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/azcentral.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/azcentral.xml)|
 |[Arizona Daily Sun](https://palewi.re/docs/news-homepages/sites/azds.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/azds.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/azds.xml)|
 |[News 4](https://palewi.re/docs/news-homepages/sites/kvoa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kvoa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kvoa.xml)|
+|[Tucson Sentinel](https://palewi.re/docs/news-homepages/sites/tucsonsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tucsonsentinel.xml)|
 |[Arizona Daily Star](https://palewi.re/docs/news-homepages/sites/tucsonstar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonstar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tucsonstar.xml)|
