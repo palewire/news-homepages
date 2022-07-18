@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Galveston County Daily News
+
+![Galveston County Daily News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/galvnews.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.galvnews.com/](https://www.galvnews.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/galvnews.xml) |
+| Twitter handle | [@GalvNews](https://www.twitter.com/GalvNews)                     |
+| Location       | Galveston                                                                 |
+| Timezone       | America/Chicago                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |

@@ -7,7 +7,7 @@ orphan: true
 
 # Eastern Europe
 
-The most recent homepages from 6 news sites in this bundle.
+The most recent homepages from 7 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -48,6 +48,15 @@ The most recent homepages from 6 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ocmediaorg.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocmediaorg.jpg"
+     alt="Open Caucasus Media"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ocmediaorg.html">Open Caucasus Media</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/ukrinform.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ukrinform.jpg"
      alt="Ukrinform"
@@ -84,5 +93,6 @@ The most recent homepages from 6 news sites in this bundle.
 |[Kyiv Independent](https://palewi.re/docs/news-homepages/sites/kyivindependent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kyivindependent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kyivindependent.xml)|
 |[KyivPost](https://palewi.re/docs/news-homepages/sites/kyivpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kyivpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kyivpost.xml)|
 |[Meduza](https://palewi.re/docs/news-homepages/sites/meduzaproject.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/meduzaproject.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/meduzaproject.xml)|
+|[Open Caucasus Media](https://palewi.re/docs/news-homepages/sites/ocmediaorg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocmediaorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ocmediaorg.xml)|
 |[Ukrinform](https://palewi.re/docs/news-homepages/sites/ukrinform.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ukrinform.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ukrinform.xml)|
 |[ZN.UA](https://palewi.re/docs/news-homepages/sites/zn_ua.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/zn_ua.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/zn_ua.xml)|

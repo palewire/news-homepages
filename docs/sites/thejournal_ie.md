@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Journal.ie
+
+![Journal.ie](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thejournal_ie.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.thejournal.ie/](https://www.thejournal.ie/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thejournal_ie.xml) |
+| Twitter handle | [@thejournal_ie](https://www.twitter.com/thejournal_ie)                     |
+| Location       | Dublin                                                                 |
+| Timezone       | Europe/Dublin                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |

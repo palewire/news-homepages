@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Hollywood Reporter
+
+![Hollywood Reporter](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thr.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.hollywoodreporter.com/](https://www.hollywoodreporter.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thr.xml) |
+| Twitter handle | [@THR](https://www.twitter.com/THR)                     |
+| Location       | Los Angeles                                                                 |
+| Timezone       | America/Los_Angeles                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |

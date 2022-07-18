@@ -7,9 +7,18 @@ orphan: true
 
 # New York City
 
-The most recent homepages from 11 news sites in this bundle.
+The most recent homepages from 12 news sites in this bundle.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bklyner.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bklyner.jpg"
+     alt="Bklyner"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/bklyner.html">Bklyner</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/citylimitsnews.html">
@@ -125,6 +134,7 @@ The most recent homepages from 11 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[Bklyner](https://palewi.re/docs/news-homepages/sites/bklyner.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bklyner.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bklyner.xml)|
 |[City Limits](https://palewi.re/docs/news-homepages/sites/citylimitsnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/citylimitsnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/citylimitsnews.xml)|
 |[Documented](https://palewi.re/docs/news-homepages/sites/documentedny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/documentedny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/documentedny.xml)|
 |[Gothamist](https://palewi.re/docs/news-homepages/sites/gothamist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gothamist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gothamist.xml)|

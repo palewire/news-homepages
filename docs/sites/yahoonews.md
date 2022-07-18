@@ -14,7 +14,7 @@ orphan: true
 | Site           | [https://news.yahoo.com/](https://news.yahoo.com/)                                                    |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/yahoonews.xml) |
 | Twitter handle | [@YahooNews](https://www.twitter.com/YahooNews)                     |
-| Location       | New York                                                                 |
+| Location       | New York City                                                                 |
 | Timezone       | America/New_York                                                                 |
 
 The archiving routine has captured 102 screenshots stored at the Internet Archive.

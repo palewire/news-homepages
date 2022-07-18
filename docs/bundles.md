@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 31 bundles of sites.
+The archiving routine is currently organized into 33 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -13,8 +13,10 @@ The archiving routine is currently organized into 31 bundles of sites.
 |[Capitol Hill](https://palewi.re/docs/news-homepages/bundles/capitol-hill.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/capitol-hill.xml)|
 |[Chicago](https://palewi.re/docs/news-homepages/bundles/chicago.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/chicago.xml)|
 |[Eastern Europe](https://palewi.re/docs/news-homepages/bundles/eastern-europe.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/eastern-europe.xml)|
+|[Entertainment](https://palewi.re/docs/news-homepages/bundles/entertainment.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/entertainment.xml)|
 |[France](https://palewi.re/docs/news-homepages/bundles/france.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/france.xml)|
 |[Iowa](https://palewi.re/docs/news-homepages/bundles/iowa.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/iowa.xml)|
+|[Ireland](https://palewi.re/docs/news-homepages/bundles/ireland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/ireland.xml)|
 |[Japan](https://palewi.re/docs/news-homepages/bundles/japan.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/japan.xml)|
 |[Las Vegas](https://palewi.re/docs/news-homepages/bundles/las-vegas.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/las-vegas.xml)|
 |[Maryland](https://palewi.re/docs/news-homepages/bundles/maryland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/maryland.xml)|
