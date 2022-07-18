@@ -25,6 +25,7 @@ extracts
 
 gettingstarted
 adding
+slack
 reference
 ```
 
