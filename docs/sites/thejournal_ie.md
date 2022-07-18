@@ -17,7 +17,8 @@ orphan: true
 | Location       | Dublin                                                                 |
 | Timezone       | Europe/Dublin                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[thejournal_ie-2022](https://archive.org/details/thejournal_ie-2022)|

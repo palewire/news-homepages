@@ -17,7 +17,8 @@ orphan: true
 | Location       | Belfast                                                                 |
 | Timezone       | Europe/Dublin                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[news_letter-2022](https://archive.org/details/news_letter-2022)|

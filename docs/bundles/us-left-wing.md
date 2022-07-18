@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. left wing
 
-The most recent homepages from 18 news sites in this bundle.
+The most recent homepages from 21 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -18,6 +18,15 @@ The most recent homepages from 18 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/alternet.html">AlterNet</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/atlblog.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atlblog.jpg"
+     alt="Above the Law"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/atlblog.html">Above the Law</a></p>
 </div>
 
 <div class="latest-child">
@@ -48,6 +57,15 @@ The most recent homepages from 18 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/fairmediawatch.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fairmediawatch.jpg"
+     alt="Fairness and Accuracy in Reporting"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/fairmediawatch.html">Fairness and Accuracy in Reporting</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/inthesetimesmag.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inthesetimesmag.jpg"
      alt="In These Times "
@@ -63,6 +81,15 @@ The most recent homepages from 18 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/jacobin.html">Jacobin</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jezebel.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jezebel.jpg"
+     alt="Jezebel"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/jezebel.html">Jezebel</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,11 +216,14 @@ The most recent homepages from 18 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[AlterNet](https://palewi.re/docs/news-homepages/sites/alternet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alternet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alternet.xml)|
+|[Above the Law](https://palewi.re/docs/news-homepages/sites/atlblog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atlblog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/atlblog.xml)|
 |[Common Dreams](https://palewi.re/docs/news-homepages/sites/commondreams.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/commondreams.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/commondreams.xml)|
 |[Daily Kos](https://palewi.re/docs/news-homepages/sites/dailykos.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailykos.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailykos.xml)|
 |[Democracy Now!](https://palewi.re/docs/news-homepages/sites/democracynow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/democracynow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/democracynow.xml)|
+|[Fairness and Accuracy in Reporting](https://palewi.re/docs/news-homepages/sites/fairmediawatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fairmediawatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fairmediawatch.xml)|
 |[In These Times ](https://palewi.re/docs/news-homepages/sites/inthesetimesmag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inthesetimesmag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/inthesetimesmag.xml)|
 |[Jacobin](https://palewi.re/docs/news-homepages/sites/jacobin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jacobin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jacobin.xml)|
+|[Jezebel](https://palewi.re/docs/news-homepages/sites/jezebel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jezebel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jezebel.xml)|
 |[Media Matters](https://palewi.re/docs/news-homepages/sites/mmfa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mmfa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mmfa.xml)|
 |[Mother Jones](https://palewi.re/docs/news-homepages/sites/motherjones.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/motherjones.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/motherjones.xml)|
 |[Raw Story](https://palewi.re/docs/news-homepages/sites/rawstory.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rawstory.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rawstory.xml)|

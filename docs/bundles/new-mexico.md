@@ -7,9 +7,18 @@ orphan: true
 
 # New Mexico
 
-The most recent homepages from 5 news sites in this bundle.
+The most recent homepages from 6 news sites in this bundle.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/abqbizfirst.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqbizfirst.jpg"
+     alt="Albuquerque Business First"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/abqbizfirst.html">Albuquerque Business First</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/abqjournal.html">
@@ -71,6 +80,7 @@ The most recent homepages from 5 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[Albuquerque Business First](https://palewi.re/docs/news-homepages/sites/abqbizfirst.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqbizfirst.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abqbizfirst.xml)|
 |[Albuquerque Journal](https://palewi.re/docs/news-homepages/sites/abqjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abqjournal.xml)|
 |[Las Cruces Sun News](https://palewi.re/docs/news-homepages/sites/crucessunnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/crucessunnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/crucessunnews.xml)|
 |[Searchlight New Mexico](https://palewi.re/docs/news-homepages/sites/searchlightnm.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/searchlightnm.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/searchlightnm.xml)|

@@ -7,7 +7,7 @@ orphan: true
 
 # Texas
 
-The most recent homepages from 32 news sites in this bundle.
+The most recent homepages from 33 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -162,6 +162,15 @@ The most recent homepages from 32 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/kxan_news.html">KXAN</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lubbockonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lubbockonline.jpg"
+     alt="Lubbock Avalanche-Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/lubbockonline.html">Lubbock Avalanche-Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -331,6 +340,7 @@ The most recent homepages from 32 news sites in this bundle.
 |[KUT](https://palewi.re/docs/news-homepages/sites/kut.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kut.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kut.xml)|
 |[KVUE](https://palewi.re/docs/news-homepages/sites/kvue.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kvue.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kvue.xml)|
 |[KXAN](https://palewi.re/docs/news-homepages/sites/kxan_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kxan_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kxan_news.xml)|
+|[Lubbock Avalanche-Journal](https://palewi.re/docs/news-homepages/sites/lubbockonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lubbockonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lubbockonline.xml)|
 |[Marfa Public Radio](https://palewi.re/docs/news-homepages/sites/marfaradio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marfaradio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/marfaradio.xml)|
 |[Midland Reporter-Telegram](https://palewi.re/docs/news-homepages/sites/mwtnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mwtnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mwtnews.xml)|
 |[NBC DFW](https://palewi.re/docs/news-homepages/sites/nbcdfw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcdfw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcdfw.xml)|
