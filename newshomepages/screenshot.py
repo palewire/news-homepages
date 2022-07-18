@@ -154,6 +154,15 @@ def _screenshot(
         css = """document.body.style.overflow = 'hidden';"""
         page.evaluate(css)
 
+        # Prevent Playwright from hovering over a link and highlighting it
+        click.echo("Preventing mouse hovers")
+        css = """
+        const style = document.createElement("style");
+        style.innerHTML = "a:hover, a:focus { color: initial; text-decoration: initial; }";
+        document.head.appendChild(style);
+        """
+        page.evaluate(css)
+
         # Give it another beat
         click.echo(f"Waiting {wait_seconds} seconds")
         time.sleep(wait_seconds)
