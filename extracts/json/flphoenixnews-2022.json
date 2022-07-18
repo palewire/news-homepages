@@ -1,5 +1,5 @@
 {
-  "created": 1658073930,
+  "created": 1658146202,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/12/items/flphoenixnews-2022",
@@ -3522,31 +3522,73 @@
       "sha1": "6d0d3a407ef564483255dc4a41c964c37deb57b5"
     },
     {
+      "name": "flphoenixnews-2022-07-17T22:20:21.037081-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658110824",
+      "size": "15866",
+      "md5": "d7cf7d83edb3697d741dfdc86f92f813",
+      "crc32": "1feb07c1",
+      "sha1": "4e726b2122270c3835597bd6116d4ee24fa8a193",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-07-17T22:20:21.037081-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658110826",
+      "size": "13953",
+      "md5": "f9593bebe1347727bce9d11e0b59a289",
+      "crc32": "d9ddd209",
+      "sha1": "b6c31ef23d47de3bd32327003fa607209bc51b45",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-07-17T22:20:21.037081-04:00.jpg",
+      "source": "original",
+      "mtime": "1658110823",
+      "size": "314726",
+      "md5": "73752ca1a74b9f0b111ed8375146fe89",
+      "crc32": "ae89d0eb",
+      "sha1": "f29f00c12b19b1c9f277ffdcb2a11d82a50dfce7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flphoenixnews-2022-07-17T22:20:21.037081-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flphoenixnews-2022-07-17T22:20:21.037081-04:00.jpg",
+      "mtime": "1658110957",
+      "size": "10514",
+      "md5": "1b81162b54eeef1afa62116e3d34a5d8",
+      "crc32": "ca4532fc",
+      "sha1": "40271296db3e8a49e384f85e1f1456b1ac501f94"
+    },
+    {
       "name": "flphoenixnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f95ea73cab164aa9e04d0b08f4b90af2026f8fae",
-      "mtime": "1658065511",
-      "size": "73814",
-      "md5": "f4ff8c58b4757b08e25b23081627267c",
-      "crc32": "38c8618f",
-      "sha1": "4148ca3be0e8a4ed1d3a996e684fd3995c249239",
+      "btih": "f88e6db0458b415bab185238c40c02b9e0df1339",
+      "mtime": "1658110965",
+      "size": "74664",
+      "md5": "9ad4c51df84de7c77671fb72c7ed390d",
+      "crc32": "71c7b22b",
+      "sha1": "76c69e9a94f271bca779ba78fbb3808cbcefc910",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flphoenixnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc8f2bf16c63a360d98bac9922c4e36f",
+      "md5": "b567c33789f53a9c214123f179c7b85b",
       "summation": "md5"
     },
     {
       "name": "flphoenixnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658065418",
-      "size": "409600",
-      "md5": "89ec48336585448cecec65f638c796f6",
-      "crc32": "72d674d9",
-      "sha1": "6194aa56d9ea3eb0bb9b6bb74df0e1a80fce99dc",
+      "mtime": "1658110828",
+      "size": "413696",
+      "md5": "939bd765e4d62c472dd757b565d5881d",
+      "crc32": "50386386",
+      "sha1": "4e1cbca6835aa40b898f3f7fe919fd8fa190e602",
       "format": "Metadata"
     },
     {
@@ -3560,9 +3602,431 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 339,
-  "item_last_updated": 1658065511,
-  "item_size": 30530971,
+  "files_count": 343,
+  "flphoenixnews-2022": [
+    {
+      "text": "\n                \n            ",
+      "url": "/"
+    },
+    {
+      "text": "HOME",
+      "url": "/"
+    },
+    {
+      "text": "NEWS",
+      "url": "/news"
+    },
+    {
+      "text": "Education",
+      "url": "https://floridaphoenix.com/education/"
+    },
+    {
+      "text": "Health",
+      "url": "https://floridaphoenix.com/health/"
+    },
+    {
+      "text": "Politics & Law",
+      "url": "https://floridaphoenix.com/politics-and-law/"
+    },
+    {
+      "text": "Environment",
+      "url": "https://floridaphoenix.com/environment/"
+    },
+    {
+      "text": "Culture & Society",
+      "url": "https://floridaphoenix.com/culture-and-society/"
+    },
+    {
+      "text": "Working & The Economy",
+      "url": "https://floridaphoenix.com/working-and-the-economy/"
+    },
+    {
+      "text": "COMMENTARY",
+      "url": "/commentary"
+    },
+    {
+      "text": "ABOUT",
+      "url": "/about"
+    },
+    {
+      "text": "SUBSCRIBE",
+      "url": "/subscribe"
+    },
+    {
+      "text": "DONATE",
+      "url": "/donate"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/FLPhoenixNews"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/Florida.Phoenix.News/"
+    },
+    {
+      "text": "\n                    \n                ",
+      "url": "https://floridaphoenix.com"
+    },
+    {
+      "text": "Education",
+      "url": "https://floridaphoenix.com/education/"
+    },
+    {
+      "text": "Health",
+      "url": "https://floridaphoenix.com/health/"
+    },
+    {
+      "text": "Politics & Law",
+      "url": "https://floridaphoenix.com/politics-and-law/"
+    },
+    {
+      "text": "Environment",
+      "url": "https://floridaphoenix.com/environment/"
+    },
+    {
+      "text": "Culture & Society",
+      "url": "https://floridaphoenix.com/culture-and-society/"
+    },
+    {
+      "text": "Working & The Economy",
+      "url": "https://floridaphoenix.com/working-and-the-economy/"
+    },
+    {
+      "text": "",
+      "url": "https://floridaphoenix.com/2022/07/17/dem-gov-pritzker-fls-desantis-is-trump-in-a-mask-and-gop-likes-white-extremism/"
+    },
+    {
+      "text": " Dem Gov. Pritzker: FL\u2019s DeSantis is Trump in a mask and GOP likes white extremism",
+      "url": "https://floridaphoenix.com/2022/07/17/dem-gov-pritzker-fls-desantis-is-trump-in-a-mask-and-gop-likes-white-extremism/"
+    },
+    {
+      "text": "Laura Cassels",
+      "url": "https://floridaphoenix.com/author/laura-cassels/"
+    },
+    {
+      "text": "",
+      "url": "https://floridaphoenix.com/2022/07/16/fl-attorney-general-moody-mum-on-abortion-at-moms-summit-as-pro-choice-protesters-shout-outside/"
+    },
+    {
+      "text": " FL Attorney General Moody mum on abortion at \u2018Moms\u2019 summit as pro-choice protesters shout outside",
+      "url": "https://floridaphoenix.com/2022/07/16/fl-attorney-general-moody-mum-on-abortion-at-moms-summit-as-pro-choice-protesters-shout-outside/"
+    },
+    {
+      "text": "Laura Cassels",
+      "url": "https://floridaphoenix.com/author/laura-cassels/"
+    },
+    {
+      "text": "",
+      "url": "https://floridaphoenix.com/2022/07/16/u-s-house-passes-bills-to-ensure-nationwide-abortion-access-interstate-travel/"
+    },
+    {
+      "text": " U.S. House passes bills to ensure nationwide abortion access, interstate travel",
+      "url": "https://floridaphoenix.com/2022/07/16/u-s-house-passes-bills-to-ensure-nationwide-abortion-access-interstate-travel/"
+    },
+    {
+      "text": "Jennifer Shutt",
+      "url": "https://floridaphoenix.com/author/jennifer-shutt/"
+    },
+    {
+      "text": " Betsy DeVos calls for abolition of federal Education Department she once led",
+      "url": "https://floridaphoenix.com/blog/betsy-devos-calls-for-abolition-of-federal-education-department-she-once-led/"
+    },
+    {
+      "text": "Laura Cassels",
+      "url": "https://floridaphoenix.com/author/laura-cassels/"
+    },
+    {
+      "text": " Climate change legislation still could pass Congress this year, Manchin insists",
+      "url": "https://floridaphoenix.com/2022/07/15/climate-change-legislation-still-could-pass-congress-this-year-manchin-insists/"
+    },
+    {
+      "text": "Jacob Fischler",
+      "url": "https://floridaphoenix.com/author/jacob-fischler/"
+    },
+    {
+      "text": " CDC warns the public: Monkeypox cases will be mounting throughout the summer as outbreak continues",
+      "url": "https://floridaphoenix.com/2022/07/15/cdc-warns-the-public-monkeypox-cases-will-be-mounting-throughout-the-summer-as-outbreak-continues/"
+    },
+    {
+      "text": "Issac Morgan",
+      "url": "https://floridaphoenix.com/author/issac-morgan/"
+    },
+    {
+      "text": " DeSantis calls on conservative \u2018Moms\u2019 at national summit to fight \u2018leftist\u2019 agenda",
+      "url": "https://floridaphoenix.com/2022/07/15/desantis-calls-on-conservative-moms-at-national-summit-to-fight-leftist-agenda/"
+    },
+    {
+      "text": "Laura Cassels",
+      "url": "https://floridaphoenix.com/author/laura-cassels/"
+    },
+    {
+      "text": " As aging farmers retire, lawmakers explore how to boost beginning producers",
+      "url": "https://floridaphoenix.com/2022/07/15/as-aging-farmers-retire-lawmakers-explore-how-to-boost-beginning-producers/"
+    },
+    {
+      "text": "Allison Winter",
+      "url": "https://floridaphoenix.com/author/allison-winter/"
+    },
+    {
+      "text": " Federal law that protects emergency life-saving abortions challenged in Texas suit",
+      "url": "https://floridaphoenix.com/2022/07/14/federal-law-that-protects-emergency-life-saving-abortions-challenged-in-texas-suit/"
+    },
+    {
+      "text": "Jennifer Shutt",
+      "url": "https://floridaphoenix.com/author/jennifer-shutt/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/subscribe"
+    },
+    {
+      "text": "Commentary",
+      "url": "/commentary"
+    },
+    {
+      "text": " Ohio Republicans\u2019 attempted erasure of a 10-year-old rape victim is incredibly sick and disturbed",
+      "url": "https://floridaphoenix.com/2022/07/15/ohio-republicans-attempted-erasure-of-a-10-year-old-rape-victim-is-incredibly-sick-and-disturbed/"
+    },
+    {
+      "text": "David DeWitt",
+      "url": "https://floridaphoenix.com/author/daviddewitt/"
+    },
+    {
+      "text": " The political cost of rising gas prices is mitigated by the GOP\u2019s success and denial",
+      "url": "https://floridaphoenix.com/2022/07/09/the-political-cost-of-rising-gas-prices-is-mitigated-by-the-gops-success-and-denial/"
+    },
+    {
+      "text": "Jonathan Rothermel",
+      "url": "https://floridaphoenix.com/author/jonathanrothermel/"
+    },
+    {
+      "text": " American democracy is in danger, and we\u2019re running out of time to save it",
+      "url": "https://floridaphoenix.com/2022/07/08/american-democracy-is-in-danger-and-were-running-out-of-time-to-save-it/"
+    },
+    {
+      "text": "Diane Roberts",
+      "url": "https://floridaphoenix.com/author/diane-roberts/"
+    },
+    {
+      "text": " U.S. Supreme Court screw-up shackles the EPA on climate change",
+      "url": "https://floridaphoenix.com/2022/07/07/u-s-supreme-court-screw-up-shackles-the-epa-on-climate-change/"
+    },
+    {
+      "text": "Craig Pittman",
+      "url": "https://floridaphoenix.com/author/craig-pittman/"
+    },
+    {
+      "text": "READ MORE ",
+      "url": "/commentary"
+    },
+    {
+      "text": "The Phoenix Flyer",
+      "url": "/blog"
+    },
+    {
+      "text": " \u2018DeSantis Watch\u2019: Progressive groups blast governor for affordable housing crisis, other issues",
+      "url": "https://floridaphoenix.com/blog/desantis-watch-progressive-groups-blast-gov-desantis-for-affordable-housing-crisis-and-other-issues/"
+    },
+    {
+      "text": "Issac Morgan",
+      "url": "https://floridaphoenix.com/author/issac-morgan/"
+    },
+    {
+      "text": " State hopes military vets, ex-cops, can fill staff shortages at child-protection agency",
+      "url": "https://floridaphoenix.com/blog/state-hopes-military-vets-ex-cops-can-fill-staff-shortages-at-child-protection-agency/"
+    },
+    {
+      "text": "Imani Thomas",
+      "url": "https://floridaphoenix.com/author/imanithomas/"
+    },
+    {
+      "text": " 6th Circuit lifts injunction on Tennessee\u2019s 6-week abortion ban",
+      "url": "https://floridaphoenix.com/blog/6th-circuit-lifts-injunction-on-tennessees-6-week-abortion-ban/"
+    },
+    {
+      "text": "Anita Wadhwani",
+      "url": "https://floridaphoenix.com/author/anitawadhwani/"
+    },
+    {
+      "text": " FL Sen. Rubio\u2019s new video features claims about former police chief Val Demings\u2019 \u201cdefunding\u201d stance",
+      "url": "https://floridaphoenix.com/blog/sen-rubios-new-video-features-fl-police-making-claims-about-val-demings-stance-on-law-and-order/"
+    },
+    {
+      "text": "Issac Morgan",
+      "url": "https://floridaphoenix.com/author/issac-morgan/"
+    },
+    {
+      "text": "READ MORE ",
+      "url": "/blog"
+    },
+    {
+      "text": "DONATE",
+      "url": "/donate"
+    },
+    {
+      "text": "",
+      "url": "https://floridaphoenix.com/2022/07/14/desantis-view-of-fl-abortion-precedents-closer-to-china-and-north-korea/"
+    },
+    {
+      "text": " DeSantis\u2019 view of FL abortion precedents: \u2018Closer to China and North Korea\u2019",
+      "url": "https://floridaphoenix.com/2022/07/14/desantis-view-of-fl-abortion-precedents-closer-to-china-and-north-korea/"
+    },
+    {
+      "text": "Michael Moline",
+      "url": "https://floridaphoenix.com/author/michael-moline/"
+    },
+    {
+      "text": "",
+      "url": "https://floridaphoenix.com/2022/07/14/same-sex-marriage-and-contraception-at-risk-after-abortion-ruling-u-s-house-panel-told/"
+    },
+    {
+      "text": " Same-sex marriage and contraception at risk after abortion ruling, U.S. House panel told",
+      "url": "https://floridaphoenix.com/2022/07/14/same-sex-marriage-and-contraception-at-risk-after-abortion-ruling-u-s-house-panel-told/"
+    },
+    {
+      "text": "Jennifer Shutt",
+      "url": "https://floridaphoenix.com/author/jennifer-shutt/"
+    },
+    {
+      "text": "",
+      "url": "https://floridaphoenix.com/2022/07/14/global-officials-call-meeting-to-consider-monkeypox-public-health-emergency-fl-cases-on-the-rise/"
+    },
+    {
+      "text": " Global officials call meeting to consider monkeypox public health emergency; FL cases on the rise",
+      "url": "https://floridaphoenix.com/2022/07/14/global-officials-call-meeting-to-consider-monkeypox-public-health-emergency-fl-cases-on-the-rise/"
+    },
+    {
+      "text": "Issac Morgan",
+      "url": "https://floridaphoenix.com/author/issac-morgan/"
+    },
+    {
+      "text": "",
+      "url": "https://floridaphoenix.com/2022/07/14/pregnant-patients-without-access-to-abortion-face-a-death-sentence-u-s-house-panel-told/"
+    },
+    {
+      "text": " Pregnant patients without access to abortion face a \u2018death sentence,\u2019 U.S. House panel told",
+      "url": "https://floridaphoenix.com/2022/07/14/pregnant-patients-without-access-to-abortion-face-a-death-sentence-u-s-house-panel-told/"
+    },
+    {
+      "text": "Ariana Figueroa",
+      "url": "https://floridaphoenix.com/author/ariana-figueroa/"
+    },
+    {
+      "text": "",
+      "url": "https://floridaphoenix.com/2022/07/14/conservative-moms-for-liberty-activists-and-fl-democrats-gather-at-summits-in-tampa/"
+    },
+    {
+      "text": " Conservative \u2018Moms For Liberty\u2019 activists and FL Democrats gather at summits in Tampa",
+      "url": "https://floridaphoenix.com/2022/07/14/conservative-moms-for-liberty-activists-and-fl-democrats-gather-at-summits-in-tampa/"
+    },
+    {
+      "text": "Laura Cassels",
+      "url": "https://floridaphoenix.com/author/laura-cassels/"
+    },
+    {
+      "text": "READ MORE ",
+      "url": "/news"
+    },
+    {
+      "text": "Register to vote",
+      "url": "https://www.dos.myflorida.com/elections/for-voters/voter-registration/register-to-vote-or-update-your-information/"
+    },
+    {
+      "text": "Find your precinct",
+      "url": "https://www.dos.myflorida.com/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup/"
+    },
+    {
+      "text": "Find your state legislator",
+      "url": "https://www.flsenate.gov/Senators/Find"
+    },
+    {
+      "text": "Contact your U.S. representative",
+      "url": "https://www.house.gov/representatives#state-florida"
+    },
+    {
+      "text": "Contact your U.S. senator",
+      "url": "https://www.senate.gov/senators/senators-contact.htm"
+    },
+    {
+      "text": "Register to vote",
+      "url": "https://www.dos.myflorida.com/elections/for-voters/voter-registration/register-to-vote-or-update-your-information/"
+    },
+    {
+      "text": "Find your precinct",
+      "url": "https://www.dos.myflorida.com/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup/"
+    },
+    {
+      "text": "Find your state legislator",
+      "url": "https://www.flsenate.gov/Senators/Find"
+    },
+    {
+      "text": "Contact your U.S. representative",
+      "url": "https://www.house.gov/representatives#state-florida"
+    },
+    {
+      "text": "Contact your U.S. senator",
+      "url": "https://www.senate.gov/senators/senators-contact.htm"
+    },
+    {
+      "text": "",
+      "url": "mailto:info@floridaphoenix.com"
+    },
+    {
+      "text": "DEIJ Policy",
+      "url": "/deij-policy"
+    },
+    {
+      "text": "Ethics Policy",
+      "url": "/ethics-policy"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "\n                                \n                            ",
+      "url": "https://twitter.com/FLPhoenixNews"
+    },
+    {
+      "text": "\n                                \n                            ",
+      "url": "https://www.facebook.com/Florida.Phoenix.News/"
+    },
+    {
+      "text": "\n                                \n                            ",
+      "url": "https://apple.news/Tarc84CWVTgK_jM8jliYsag"
+    },
+    {
+      "text": "DEIJ Policy",
+      "url": "/deij-policy"
+    },
+    {
+      "text": "Ethics Policy",
+      "url": "/ethics-policy"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "mailto:info@floridaphoenix.com"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "https://twitter.com/FLPhoenixNews"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "https://www.facebook.com/Florida.Phoenix.News/"
+    },
+    {
+      "text": "\n                            \n                        ",
+      "url": "https://apple.news/Tarc84CWVTgK_jM8jliYsag"
+    }
+  ],
+  "item_last_updated": 1658110965,
+  "item_size": 30890976,
   "metadata": {
     "identifier": "flphoenixnews-2022",
     "collection": [
@@ -3579,10 +4043,10 @@
     "publicdate": "2022-06-19 23:24:00",
     "addeddate": "2022-06-19 23:24:00"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 15286052,
+  "server": "ia801409.us.archive.org",
+  "uniq": 168773164,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

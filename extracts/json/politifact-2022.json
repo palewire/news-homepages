@@ -1,5 +1,5 @@
 {
-  "created": 1658106129,
+  "created": 1658146661,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -2620,31 +2620,73 @@
       "sha1": "76365ccbb0c7657a8c62c33a356e2368f62c71b6"
     },
     {
+      "name": "politifact-2022-07-17T23:30:41.862443-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658115045",
+      "size": "36000",
+      "md5": "d25fd3983bb2a84388d92bbbd6faf8af",
+      "crc32": "fd82bcbe",
+      "sha1": "b7dcfe5ddb09dce93f9d97290881cc87a125ed9d",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-17T23:30:41.862443-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658115046",
+      "size": "22240",
+      "md5": "d8b300db2260391d265de82a6d9228e6",
+      "crc32": "761ad485",
+      "sha1": "f609181ea538e0aac3af1d8f1660b738c4bbec83",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-17T23:30:41.862443-04:00.jpg",
+      "source": "original",
+      "mtime": "1658115043",
+      "size": "186527",
+      "md5": "77ba7c8f95cc7c68cbcd65cf883abf9a",
+      "crc32": "098f854c",
+      "sha1": "a7d89594619ff238cec6bb2df6eb12d9ae55e877",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-07-17T23:30:41.862443-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-17T23:30:41.862443-04:00.jpg",
+      "mtime": "1658116845",
+      "size": "8703",
+      "md5": "39e4bd060742492a435ef9a5e58bd9c4",
+      "crc32": "97671368",
+      "sha1": "76365ccbb0c7657a8c62c33a356e2368f62c71b6"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a97359f35bcaae15ecdaedc3f2b7d57233bd59d5",
-      "mtime": "1658069808",
-      "size": "54180",
-      "md5": "623d63f8fa0cd15ca0cd03f0f135486f",
-      "crc32": "faf6c74a",
-      "sha1": "0ba7654a67e60b8e3459e83ecfd4468f36b3dd24",
+      "btih": "67f0afbd6690283bd8a0cf8a6007c8e9d59bc6f2",
+      "mtime": "1658116852",
+      "size": "55037",
+      "md5": "68e578f3266ebec56deea9da6d29e845",
+      "crc32": "338a6f83",
+      "sha1": "427ee964823a9ec48f954fe4f101de7f4fe74db6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "66da99de7509735bb5dee9b1d5f18529",
+      "md5": "a92adbaeec866f09c07bdfdfdf9f68b1",
       "summation": "md5"
     },
     {
       "name": "politifact-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658069388",
-      "size": "303104",
-      "md5": "fb14ede56111bf543be885f87941d33e",
-      "crc32": "f6d07aad",
-      "sha1": "03f1eab62c14ba1c9065168b84551a6b72746c9b",
+      "mtime": "1658115051",
+      "size": "307200",
+      "md5": "d827c560afc94d6a4243a97bee827f4e",
+      "crc32": "bf02c177",
+      "sha1": "435bb8838d39e9d3886cac89a4a7e5e92a325e3a",
       "format": "Metadata"
     },
     {
@@ -2658,9 +2700,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 253,
-  "item_last_updated": 1658069808,
-  "item_size": 17249144,
+  "files_count": 257,
+  "item_last_updated": 1658116852,
+  "item_size": 17507567,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -3003,6 +3045,14 @@
       "url": "/factchecks/2022/jun/28/instagram-posts/headline-about-texas-lawmakers-anti-abortion-bill-/"
     },
     {
+      "text": "\nKathy Hochul\n",
+      "url": "/personalities/kathy-hochul/"
+    },
+    {
+      "text": "\n\nLee Zeldin \u201cvoted for abortion bans even when the mother\u2019s health is at risk.\u201d\n",
+      "url": "/factchecks/2022/jul/17/kathy-hochul/zeldin-supported-bill-narrow-exceptions/"
+    },
+    {
       "text": "\nCatherine Glenn Foster\n",
       "url": "/personalities/catherine-glenn-foster/"
     },
@@ -3073,14 +3123,6 @@
     {
       "text": "\nThe Wisconsin Supreme Court decision declaring ballot drop boxes illegal \"includes the 2020 Presidential Election.\"\n",
       "url": "/factchecks/2022/jul/14/donald-trump/trump-back-hot-seat-claim-linking-ballot-box-rulin/"
-    },
-    {
-      "text": "\nGreg Abbott\n",
-      "url": "/personalities/greg-abbott/"
-    },
-    {
-      "text": "\nTexas' public high school graduation rate is at 90% overall.\n",
-      "url": "/factchecks/2022/jul/14/greg-abbott/abbott-right-graduation-rate-90/"
     },
     {
       "text": "View all",
@@ -3287,7 +3329,7 @@
       "url": "https://www.usatoday.com/story/news/factcheck/2022/07/15/fact-check-years-old-usda-rule-allows-china-process-us-poultry/10031250002/"
     },
     {
-      "text": "\n\n\n\n\n",
+      "text": "\n\n\n\n \n",
       "url": "https://www.washingtonpost.com/politics/2022/07/15/rnc-biden-cheap-fake-paints-misleading-picture-mental-fitness/"
     },
     {
@@ -3351,7 +3393,7 @@
       "url": "/personalities/kamala-harris/"
     },
     {
-      "text": "\nCharles Schumer\n",
+      "text": "\n Charles Schumer\n",
       "url": "/personalities/charles-schumer/"
     },
     {
@@ -3479,10 +3521,10 @@
       "url": "/copyright/"
     }
   ],
-  "server": "ia801407.us.archive.org",
-  "uniq": 417075124,
+  "server": "ia601407.us.archive.org",
+  "uniq": 1812981287,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

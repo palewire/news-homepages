@@ -118,11 +118,11 @@
     },
     {
       "text": "Sign up as a reader",
-      "url": "/sign_up?return_to=/us"
+      "url": "/sign_up?return_to=%2Fus"
     },
     {
       "text": "Sign in",
-      "url": "/sign_in?return_to=/us"
+      "url": "/sign_in?return_to=%2Fus"
     },
     {
       "text": "\n    \n",
@@ -821,24 +821,24 @@
       "url": "https://theconversation.com/profiles/stefanie-lindquist-518039"
     },
     {
-      "text": "Manuscripts and art support archaeological evidence that syphilis was in Europe long before explorers could have brought it home from the\u00a0Americas",
-      "url": "/manuscripts-and-art-support-archaeological-evidence-that-syphilis-was-in-europe-long-before-explorers-could-have-brought-it-home-from-the-americas-182114"
-    },
-    {
       "text": "To search for alien life, astronomers will look for clues in the atmospheres of distant planets \u2013\u00a0and the James Webb Space Telescope just proved it\u2019s possible to do\u00a0so",
       "url": "/to-search-for-alien-life-astronomers-will-look-for-clues-in-the-atmospheres-of-distant-planets-and-the-james-webb-space-telescope-just-proved-its-possible-to-do-so-184828"
+    },
+    {
+      "text": "Manuscripts and art support archaeological evidence that syphilis was in Europe long before explorers could have brought it home from the\u00a0Americas",
+      "url": "/manuscripts-and-art-support-archaeological-evidence-that-syphilis-was-in-europe-long-before-explorers-could-have-brought-it-home-from-the-americas-182114"
     },
     {
       "text": "James Webb Space Telescope: An astronomer explains the stunning, newly released first\u00a0images",
       "url": "/james-webb-space-telescope-an-astronomer-explains-the-stunning-newly-released-first-images-186800"
     },
     {
-      "text": "Abortion decision cherry-picks history \u2013 when the US Constitution was ratified, women had much more autonomy over abortion decisions than during 19th\u00a0century",
-      "url": "/abortion-decision-cherry-picks-history-when-the-us-constitution-was-ratified-women-had-much-more-autonomy-over-abortion-decisions-than-during-19th-century-185947"
+      "text": "With Trump\u2019s role on Jan. 6 becoming clearer, and potentially criminal, GOP voters are starting to look at different\u00a0options",
+      "url": "/with-trumps-role-on-jan-6-becoming-clearer-and-potentially-criminal-gop-voters-are-starting-to-look-at-different-options-186108"
     },
     {
-      "text": "The James Webb Space Telescope is finally ready to do science \u2013 and it\u2019s seeing the universe more clearly than even its own engineers hoped\u00a0for",
-      "url": "/the-james-webb-space-telescope-is-finally-ready-to-do-science-and-its-seeing-the-universe-more-clearly-than-even-its-own-engineers-hoped-for-184989"
+      "text": "Why does love feel magical? It\u2019s an evolutionary advantage",
+      "url": "/why-does-love-feel-magical-its-an-evolutionary-advantage-180443"
     },
     {
       "text": "Tell us",
@@ -1341,7 +1341,7 @@
       "url": "https://theconversation.com/us/who-we-are"
     }
   ],
-  "created": 1658105745,
+  "created": 1658146101,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/34/items/conversationus-2022",
@@ -2114,31 +2114,73 @@
       "sha1": "16f34cfb13301ba36db099b7a670f85633f15b80"
     },
     {
+      "name": "conversationus-2022-07-17T21:02:47.579510-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658106171",
+      "size": "53203",
+      "md5": "9410f1cc2ab4c871e5b19d73c2035cdf",
+      "crc32": "1b0df098",
+      "sha1": "73804287d77b39e350b41f7e6bb4ae6d0d938a4e",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-07-17T21:02:47.579510-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658106172",
+      "size": "42579",
+      "md5": "744d10a43c7ecd9a6a298f8545ab935a",
+      "crc32": "2286f684",
+      "sha1": "373b591c369d4ceefa237f17af5522c07e88f4e5",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-07-17T21:02:47.579510-04:00.jpg",
+      "source": "original",
+      "mtime": "1658106169",
+      "size": "326687",
+      "md5": "efa70afef7297a8a1899b2c35c156941",
+      "crc32": "0a6fbc83",
+      "sha1": "7cbfb03c063b35f911df91c5a34c4e2fdeaa6371",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "conversationus-2022-07-17T21:02:47.579510-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "conversationus-2022-07-17T21:02:47.579510-04:00.jpg",
+      "mtime": "1658106621",
+      "size": "10381",
+      "md5": "1524bcf70b0ff5ac9e3bff5c4360a969",
+      "crc32": "2d836e74",
+      "sha1": "16f34cfb13301ba36db099b7a670f85633f15b80"
+    },
+    {
       "name": "conversationus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe5caf5a04a5d04b3116f8cb3e667b464e2cfd82",
-      "mtime": "1658062475",
-      "size": "17309",
-      "md5": "5d4ec089af373cd4423255fa6007f857",
-      "crc32": "1f04b96c",
-      "sha1": "101cefb0b83354dde6035a982bd3a66a6d516d44",
+      "btih": "086708e3d89831f297a83134d07b68962c2f2254",
+      "mtime": "1658106651",
+      "size": "18183",
+      "md5": "bb5d7b626cd7fd790c029a0427d01518",
+      "crc32": "03c105ab",
+      "sha1": "cc4dcbdab0f6b80dc11e8bd13a888cd8d7c1fa45",
       "format": "Archive BitTorrent"
     },
     {
       "name": "conversationus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d9de075c1a7df8eea028fbfa97d4ef2",
+      "md5": "fc402bace81b9f9d96ee21145bedc708",
       "summation": "md5"
     },
     {
       "name": "conversationus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658061928",
-      "size": "102400",
-      "md5": "d5d89e99c708f82b4b72ba54aabc92df",
-      "crc32": "853ff19f",
-      "sha1": "c113b2562d987909e3666f694e643b471241306a",
+      "mtime": "1658106176",
+      "size": "106496",
+      "md5": "34440f17f93c66c6e98ee7c1583a2158",
+      "crc32": "5e44cc9a",
+      "sha1": "6153f65be266fe465656f2b1de722e1e37adb875",
       "format": "Metadata"
     },
     {
@@ -2152,9 +2194,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 77,
-  "item_last_updated": 1658062475,
-  "item_size": 7177898,
+  "files_count": 81,
+  "item_last_updated": 1658106651,
+  "item_size": 7615718,
   "metadata": {
     "identifier": "conversationus-2022",
     "collection": [
@@ -2172,7 +2214,7 @@
     "addeddate": "2022-07-09 03:57:31"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 1421920234,
+  "uniq": 221410225,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

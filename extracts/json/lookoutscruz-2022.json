@@ -1,5 +1,5 @@
 {
-  "created": 1658105998,
+  "created": 1658146449,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/0/items/lookoutscruz-2022",
@@ -1128,31 +1128,73 @@
       "sha1": "58205af9d0f130de36ff81f59d71dc423d96e0ad"
     },
     {
+      "name": "lookoutscruz-2022-07-17T20:25:47.113330-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658114751",
+      "size": "14955",
+      "md5": "34bbe5b62ebfa1ad692351c9375512a2",
+      "crc32": "5ee42c78",
+      "sha1": "6f9f55bb1bbf0c1a68376d632746ef1a5361ca9d",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-07-17T20:25:47.113330-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658114753",
+      "size": "62738",
+      "md5": "8897040ad81fe1861ee3f53a6b8b2e3f",
+      "crc32": "f1df8830",
+      "sha1": "c452a8dbae1705924a1882c7383e653cec3dd238",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-07-17T20:25:47.113330-07:00.jpg",
+      "source": "original",
+      "mtime": "1658114749",
+      "size": "372917",
+      "md5": "769197093ac889b3e3dc590255cb402b",
+      "crc32": "c78f0795",
+      "sha1": "f4b731bb924ea7e3948fbd3e608c671a69509da8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lookoutscruz-2022-07-17T20:25:47.113330-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lookoutscruz-2022-07-17T20:25:47.113330-07:00.jpg",
+      "mtime": "1658115867",
+      "size": "11397",
+      "md5": "d262fc61ce786a0f331647f35d801aec",
+      "crc32": "882b39e5",
+      "sha1": "d2a58bab509f55ae519e9c3f5e2db164125aef48"
+    },
+    {
       "name": "lookoutscruz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "62335fac386530d23dc679471634a11a86f53de0",
-      "mtime": "1658081750",
-      "size": "24510",
-      "md5": "cc1e4406702f86138fb1aed270b6a93e",
-      "crc32": "dcbb0ff1",
-      "sha1": "f1a541139c4cd0da3349253acf4fed92b2843df2",
+      "btih": "6891e3213e12b5f8c15b2d105760840c3ba7f6c9",
+      "mtime": "1658115878",
+      "size": "25356",
+      "md5": "08f8b3f3f533275722ba5ad42f173e6a",
+      "crc32": "32590f13",
+      "sha1": "8dedb8381b6e03b475393a1f96a5b128d188866d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lookoutscruz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c47a9b759c1fc34263ac9964ed8e1691",
+      "md5": "003df8f8fb264147d2fec56f6c190c28",
       "summation": "md5"
     },
     {
       "name": "lookoutscruz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658081585",
-      "size": "147456",
-      "md5": "f363ab08cd75ea928296bcf82bd1b475",
-      "crc32": "d2d3c625",
-      "sha1": "e18d545350cf4dbb80a433fe879da8d39155525b",
+      "mtime": "1658114758",
+      "size": "151552",
+      "md5": "bef0d49be29cf929a7c895092b8a1d43",
+      "crc32": "04aafcde",
+      "sha1": "8d6bca47148f6201b514c1d3886c94e5ebc093c4",
       "format": "Metadata"
     },
     {
@@ -1166,9 +1208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 111,
-  "item_last_updated": 1658081750,
-  "item_size": 11061032,
+  "files_count": 115,
+  "item_last_updated": 1658115878,
+  "item_size": 11527981,
   "lookoutscruz-2022": [
     {
       "text": "Election 2022 \ud83d\uddf3",
@@ -1335,7 +1377,7 @@
       "url": "https://lookout.co/santacruz/"
     },
     {
-      "text": "\n    \n        \n            \n            62\u00b0F\n            Hi\n            74\u00b0\n            Lo\n            53\u00b0\n        \n    \n",
+      "text": "\n    \n        \n            \n            59\u00b0F\n            Hi\n            72\u00b0\n            Lo\n            52\u00b0\n        \n    \n",
       "url": "https://lookout.co/santacruz/weather"
     },
     {
@@ -1735,7 +1777,7 @@
       "url": "https://lookout.co/santacruz/food-drink/story/2022-07-15/eaters-digest-top-local-yelp-spots-asian-snack-shack-pretty-good-burger"
     },
     {
-      "text": "document.querySelector('a#b51wpwfimhc000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', 'https://ad.broadstreetads.com/click/508741/c386266/z96493?', true);\n    xmlhttp.send();\n})",
+      "text": "document.querySelector('a#b11zo01wms0000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', 'https://ad.broadstreetads.com/click/508741/c386266/z96493?', true);\n    xmlhttp.send();\n})",
       "url": "https://cabrillomusic.org/"
     },
     {
@@ -2679,7 +2721,7 @@
       "url": "https://lookout.co/santacruz/people/liza-monroy"
     },
     {
-      "text": "document.querySelector('a#bm3npijlxc0000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', 'https://ad.broadstreetads.com/click/503514/c382074/z92591?', true);\n    xmlhttp.send();\n})",
+      "text": "document.querySelector('a#b5zjsd1nadc000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', 'https://ad.broadstreetads.com/click/503514/c382074/z92591?', true);\n    xmlhttp.send();\n})",
       "url": "https://santacruzshakespeare.org/season-2022?utm_source=lookout&utm_medium=website&utm_campaign=2022_season"
     },
     {
@@ -2788,7 +2830,7 @@
     "addeddate": "2022-07-09 04:00:07"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1479991479,
+  "uniq": 619612391,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"
