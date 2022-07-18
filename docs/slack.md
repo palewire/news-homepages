@@ -7,19 +7,19 @@ The News Homepages [open-source system](https://github.com/palewire/news-homepag
 
 The tool is used by the Baltimore Sun to save and share an image three times each day. Here's what it looks like:
 
-![Baltimore Sun Slack bot](./static/img/slack-baltimore-sun.png)
+![Baltimore Sun Slack bot](./_static/img/slack-baltimore-sun.png)
 
 Our maintainers are happy to supply a similar bot to any newsroom that wants one. Here's what it takes.
 
 ```{note}
-If you're not comfortable with the technical tools described below, reach out to project maintainer Ben Welsh for help. You can do this by emailing Ben Welsh at [b@palewi.re](mailto:b@palewi.re) or sending him a direct message on Twitter at [@palewire](https://twitter.com/palewire). We want you to get your bot and will do what we can to make it happen.
+If you're not comfortable with the technical tools described below, reach out to project maintainer Ben Welsh for help. You can do this by emailing [b@palewi.re](mailto:b@palewi.re) or sending him a direct message on Twitter at [@palewire](https://twitter.com/palewire). We want you to get your bot and will do what we can to make it happen.
 ```
 
-## 1. An incoming Slack webhook.
+## 1. An incoming Slack webhook
 
 Incoming webhooks are Slack's simplest way to support automatic posts from outside sources. The official Slack documentation walks you through [how to create one](https://slack.com/help/articles/115005265063-Incoming-webhooks-for-Slack). Follow the instructions there.
 
-Create a channel with a name like "#homepage-screenshots" and connect it to the webhook. You can name the app whatever you'd like, though our recommendation is to name your app "News Homepages" and use [our logo from Twitter](https://twitter.com/newshomepages).
+Create a channel with a name like "#homepage-screenshots" and connect it to the webhook. You can name the app whatever you'd like, though our recommendation is to name it "News Homepages" and use [our logo from Twitter](https://twitter.com/newshomepages).
 
 The process will yield a webhook URL with the authority to post into the channel. Save it for later.
 
