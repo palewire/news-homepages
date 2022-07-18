@@ -81,7 +81,7 @@ def cli(artifact_path: str):
                 "elements": [
                     {
                         "type": "mrkdwn",
-                        "text": ":rolled_up_newspaper: Archived by <https://palewi.re/who-is-ben-welsh/|Ben Welsh's> <https://homepages.news|homepages.news>",
+                        "text": ":robot_face: Automated by <https://palewi.re/who-is-ben-welsh/|Ben Welsh's> <https://homepages.news|homepages.news>",
                     },
                     {
                         "type": "mrkdwn",
