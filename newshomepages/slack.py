@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+import time
 from pathlib import Path
 
 import click
@@ -24,6 +25,18 @@ def cli(artifact_path: str):
     # Read in URL from archive artifact
     jpg_url = next(s for s in data if s.endswith(".jpg"))
     click.echo(f"JPG url found: {jpg_url}")
+
+    # Verify that the URL resolves
+    if not requests.get(jpg_url).ok:
+        # If it doesn't, wait 60 seconds
+        # The most common problem here is that the Internet Archive
+        # has fully processed the file yet.
+        click.echo("URL does not exist. Waiting 60 seconds to try again.")
+        time.sleep(60)
+        if not requests.get(jpg_url).ok:
+            # If it still fails, throw an error
+            click.echo("URL does not exist")
+            sys.exit(1)
 
     # Parse the site data from the archive URL
     archive_dict = utils.parse_archive_url(jpg_url)
