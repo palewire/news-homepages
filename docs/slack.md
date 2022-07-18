@@ -5,7 +5,7 @@
 
 The News Homepages [open-source system](https://github.com/palewire/news-homepages) supports the creation of bots that post a site's latest screenshots into a private [Slack](https://en.wikipedia.org/wiki/Slack_(software)) channel.
 
-The tool is used by the Baltimore Sun to save and share an image three times each day. Here's what it looks like:
+The tool is used by the Baltimore Sun and the Atlanta Journal-Constitution to save and share an image three times each day. Here's what it looks like:
 
 ![Baltimore Sun Slack bot](./_static/img/slack-baltimore-sun.png)
 
