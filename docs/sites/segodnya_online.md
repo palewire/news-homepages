@@ -17,7 +17,8 @@ orphan: true
 | Location       | Kiev                                                                 |
 | Timezone       | Europe/Kiev                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 9 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[segodnya_online-2022](https://archive.org/details/segodnya_online-2022)|

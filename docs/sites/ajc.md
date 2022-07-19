@@ -17,7 +17,8 @@ orphan: true
 | Location       | Atlanta                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 4 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[ajc-2022](https://archive.org/details/ajc-2022)|

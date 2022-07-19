@@ -17,7 +17,7 @@ orphan: true
 | Location       | London                                                                 |
 | Timezone       | Europe/London                                                                 |
 
-The archiving routine has captured 279 screenshots stored at the Internet Archive.
+The archiving routine has captured 280 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

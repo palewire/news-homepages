@@ -17,7 +17,7 @@ orphan: true
 | Location       | Osaka                                                                 |
 | Timezone       | Asia/Tokyo                                                                 |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
