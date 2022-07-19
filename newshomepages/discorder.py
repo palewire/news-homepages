@@ -18,7 +18,7 @@ class BotClient(discord.Client):
 
     def __init__(self, caption: str, path_list: typing.List[Path], *args, **kwargs):
         """Initialize object."""
-        super().__init__(*args, **kwargs)
+        super().__init__(intents=discord.Intents.default(), **kwargs)
         self.caption = caption
         self.path_list = path_list
 
