@@ -1,5 +1,5 @@
 {
-  "created": 1658146946,
+  "created": 1658190675,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -7748,31 +7748,73 @@
       "sha1": "5fda2790c3b9922132cac6ebb6d9121a9b71214e"
     },
     {
+      "name": "washtimes-2022-07-18T14:11:36.175369-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658167909",
+      "size": "98725",
+      "md5": "04cfd95b253eb82224de757b8fe4a7e8",
+      "crc32": "ea20452a",
+      "sha1": "72f545908bce9c865d865ec7919eb15f1c5a9046",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-07-18T14:11:36.175369-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658167912",
+      "size": "61142",
+      "md5": "4cd005e9ba67051fb40f8ff9d8e6f09e",
+      "crc32": "e9203af0",
+      "sha1": "32cde790b98b47a0198cafde7889ab1e1604e00f",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-07-18T14:11:36.175369-04:00.jpg",
+      "source": "original",
+      "mtime": "1658167908",
+      "size": "369457",
+      "md5": "5e04cce7033f1c14e287b5e1965c07b3",
+      "crc32": "8bad5849",
+      "sha1": "a15b1b46280a65b5254ea6e516f7ecffb22cc38b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-07-18T14:11:36.175369-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-07-18T14:11:36.175369-04:00.jpg",
+      "mtime": "1658172056",
+      "size": "10865",
+      "md5": "076ae34f4f3f8999d0cb315020f6d911",
+      "crc32": "591eb74b",
+      "sha1": "61971928c3c53ad6f6986aa406b5f15190a2c9fa"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3bb6abacd540bdb8afb66c14b741ecb5a172fa03",
-      "mtime": "1658119489",
-      "size": "158739",
-      "md5": "a584fbd4672485e93a3e0d7164bc5a4b",
-      "crc32": "bb12d04b",
-      "sha1": "10f3dad34802ba52178597919a55fc440f00c527",
+      "btih": "a4ea4077010f172ef34574b5f90b18492589bd58",
+      "mtime": "1658172074",
+      "size": "159593",
+      "md5": "af2707ed07c8ffa80f8de36c2ad752e3",
+      "crc32": "0009bff3",
+      "sha1": "7e14964ea7b13e57f2b7970a27b92191bbf98bd9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2ace628d6f22fcb0a43bcbe13cc48a5",
+      "md5": "72f693c883d6b07d26b8be5d3290ee09",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658118078",
-      "size": "860160",
-      "md5": "699143f1219485a93fc17a6f8fda39b6",
-      "crc32": "ce537e60",
-      "sha1": "07031fb4f4868d0daa3ab68b3049ee9f5a569af9",
+      "mtime": "1658167916",
+      "size": "864256",
+      "md5": "d8c0fcb257f86b26acf7c363c1da2677",
+      "crc32": "13a5d864",
+      "sha1": "6d7593eb945e1e2a7cb8ca768fca4f3ca4d8c45c",
       "format": "Metadata"
     },
     {
@@ -7786,9 +7828,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 741,
-  "item_last_updated": 1658119489,
-  "item_size": 96358872,
+  "files_count": 745,
+  "item_last_updated": 1658172074,
+  "item_size": 96904011,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -7806,7 +7848,7 @@
     "addeddate": "2022-03-25 18:45:19"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 1288330085,
+  "uniq": 971393755,
   "washtimes-2022": [
     {
       "text": "Skip to content",
@@ -8322,11 +8364,19 @@
     },
     {
       "text": "",
-      "url": "/specials/politically-unstable-podcast/"
+      "url": "/specials/front-page-podcast/"
     },
     {
-      "text": "If you missed it: Kellyanne Conway",
-      "url": "/specials/politically-unstable-podcast/"
+      "text": "Listen to Monday\u2019s Front Page Podcast",
+      "url": "/specials/front-page-podcast/"
+    },
+    {
+      "text": "",
+      "url": "/specials/capitol-hill-show-podcast/"
+    },
+    {
+      "text": "NEW: Trump the statesman or Trump the pariah?",
+      "url": "/specials/capitol-hill-show-podcast/"
     },
     {
       "text": "",
@@ -8337,28 +8387,20 @@
       "url": "/specials/bold-blunt-podcast/"
     },
     {
-      "text": "",
-      "url": "/specials/history-happens-podcast/"
-    },
-    {
-      "text": "Weekend Listen: The legacy of Phyllis Schlafly",
-      "url": "/specials/history-happens-podcast/"
+      "text": "Ukraine",
+      "url": "/topics/ukraine/"
     },
     {
       "text": "Donald Trump",
       "url": "/topics/donald-trump/"
     },
     {
+      "text": "Cameron Smith",
+      "url": "/topics/cameron-smith/"
+    },
+    {
       "text": "Juan Soto",
       "url": "/topics/juan-soto/"
-    },
-    {
-      "text": "Ukraine",
-      "url": "/topics/ukraine/"
-    },
-    {
-      "text": "Joe Biden",
-      "url": "/topics/joe-biden/"
     },
     {
       "text": "Supreme Court",
@@ -8369,88 +8411,88 @@
       "url": "/topics/andrews/"
     },
     {
-      "text": "Atlanta Braves",
-      "url": "/topics/atlanta-braves/"
-    },
-    {
       "text": "Iran",
       "url": "/topics/iran/"
     },
     {
-      "text": "Los Angeles Dodgers",
-      "url": "/topics/los-angeles-dodgers/"
+      "text": "Los Angeles",
+      "url": "/topics/los-angeles/"
     },
     {
       "text": "Rory McIlroy",
       "url": "/topics/rory-mcilroy/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/17/bernie-sanders-says-joe-manchin-sabotaged-bidens-a/"
-    },
-    {
-      "text": "Bernie Sanders says Joe Manchin \u2018sabotaged\u2019 Biden\u2019s agenda",
-      "url": "/news/2022/jul/17/bernie-sanders-says-joe-manchin-sabotaged-bidens-a/"
+      "text": "Russia",
+      "url": "/topics/russia/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/17/judge-charles-atchley-delivers-blow-bidens-gender-/"
+      "url": "/news/2022/jul/18/sergei-shoigu-russian-defense-chief-orders-troops-/"
     },
     {
-      "text": "Federal judge delivers blow to Biden administration\u2019s gender-identity directives",
-      "url": "/news/2022/jul/17/judge-charles-atchley-delivers-blow-bidens-gender-/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/16/dc-venue-cancels-appearance-conservative-comedian-/"
-    },
-    {
-      "text": "D.C. venue cancels appearance by conservative comic who catcalled AOC at Capitol",
-      "url": "/news/2022/jul/16/dc-venue-cancels-appearance-conservative-comedian-/"
+      "text": "Russian defense chief orders troops to target U.S.-supplied missiles in Ukraine",
+      "url": "/news/2022/jul/18/sergei-shoigu-russian-defense-chief-orders-troops-/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/17/nationals-enter-all-star-break-reeling-sotos-futur/"
+      "url": "/news/2022/jul/18/us-streamlines-process-afghan-allies-get-visas/"
     },
     {
-      "text": "Nationals enter All-Star break reeling with Soto\u2019s future in question",
-      "url": "/news/2022/jul/17/nationals-enter-all-star-break-reeling-sotos-futur/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/editorial-tax-increases-from-democrats/"
-    },
-    {
-      "text": "Tax increases from Democrats",
-      "url": "/news/2022/jul/17/editorial-tax-increases-from-democrats/"
+      "text": "U.S. streamlines process for Afghan allies to get visas",
+      "url": "/news/2022/jul/18/us-streamlines-process-afghan-allies-get-visas/"
     },
     {
       "text": "",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D4&id=id4&path=%2F&date=7%2F18%2F2022"
+      "url": "/news/2022/jul/18/john-fetterman-knocks-mehmet-oz-carpetbagger-attac/"
+    },
+    {
+      "text": "Fetterman knocks Oz with carpetbagger attacks, digs into N.J.-Pa. rivalry",
+      "url": "/news/2022/jul/18/john-fetterman-knocks-mehmet-oz-carpetbagger-attac/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/extreme-heat-warning-goes-into-effect-in-uk/"
+    },
+    {
+      "text": "Extreme heat warning goes into effect in U.K.",
+      "url": "/news/2022/jul/18/extreme-heat-warning-goes-into-effect-in-uk/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/jill-biden-says-president-had-so-many-hopes-and-pl/"
+    },
+    {
+      "text": "Jill Biden says president had \u2018so many hopes and plans\u2019 amid stalled agenda",
+      "url": "/news/2022/jul/18/jill-biden-says-president-had-so-many-hopes-and-pl/"
+    },
+    {
+      "text": "",
+      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D2&id=id2&path=%2F&date=7%2F18%2F2022"
     },
     {
       "text": "Doctor: \u201cDoing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)\u201d",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D4&id=id4&path=%2F&date=7%2F18%2F2022"
+      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D2&id=id2&path=%2F&date=7%2F18%2F2022"
     },
     {
-      "text": "'Bidenvilles' popping up across America",
-      "url": "https://www.washingtontimes.com/news/2022/jul/17/inside-beltway-bidenvilles-pop-across-america/"
-    },
-    {
-      "text": "'More dead bodies' than Afghanistan: Veterans say southern border is 'war zone'",
+      "text": "Military vets say border is like a 'war zone'",
       "url": "https://www.washingtontimes.com/news/2022/jul/17/military-vets-say-border-war-zone/"
-    },
-    {
-      "text": "Nancy Pelosi's husband buys $5 million in chip stocks before Senate vote on chip subsidy bill",
-      "url": "https://www.washingtontimes.com/news/2022/jul/16/nancy-pelosis-husband-buys-5-million-chip-stocks-s/"
     },
     {
       "text": "Democrats taking crazy to a new level",
       "url": "https://www.washingtontimes.com/news/2022/jul/17/democrats-taking-crazy-to-a-new-level/"
     },
     {
-      "text": "Donald Trump for president in 2024",
-      "url": "https://www.washingtontimes.com/news/2022/jul/16/donald-trump-for-president-in-2024/"
+      "text": "'Bidenvilles' popping up across America",
+      "url": "https://www.washingtontimes.com/news/2022/jul/17/inside-beltway-bidenvilles-pop-across-america/"
+    },
+    {
+      "text": "Federal judge delivers blow to Biden administration's gender-identity directives",
+      "url": "https://www.washingtontimes.com/news/2022/jul/17/judge-charles-atchley-delivers-blow-bidens-gender-/"
+    },
+    {
+      "text": "Nancy Pelosi's husband buys $5 million in chip stocks before Senate vote on chip subsidy bill",
+      "url": "https://www.washingtontimes.com/news/2022/jul/16/nancy-pelosis-husband-buys-5-million-chip-stocks-s/"
     },
     {
       "text": "Inside The Beltway",
@@ -8530,15 +8572,39 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/16/nancy-pelosis-husband-buys-5-million-chip-stocks-s/"
+      "url": "/news/2022/jul/18/kamala-harris-compares-supreme-court-abortion-ruli/"
     },
     {
-      "text": "Pelosi\u2019s husband buys $5 million in chip stocks before Senate vote on chip subsidy bill",
-      "url": "/news/2022/jul/16/nancy-pelosis-husband-buys-5-million-chip-stocks-s/"
+      "text": "Kamala Harris compares Supreme Court abortion ruling to slavery in a speech to NAACP",
+      "url": "/news/2022/jul/18/kamala-harris-compares-supreme-court-abortion-ruli/"
     },
     {
-      "text": "Mica Soellner",
-      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
+      "text": "Dave Boyer",
+      "url": "https://www.washingtontimes.com/staff/dave-boyer/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/trans-prisoner-demi-minor-transferred-out-womens-f/"
+    },
+    {
+      "text": "Transgender inmate moved out of women\u2019s facility in N.J. after impregnating two prisoners",
+      "url": "/news/2022/jul/18/trans-prisoner-demi-minor-transferred-out-womens-f/"
+    },
+    {
+      "text": "Valerie Richardson",
+      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/supreme-courts-religious-liberty-rulings-give-new-/"
+    },
+    {
+      "text": "Supreme Court\u2019s religious liberty rulings give new life to legal battle for gay-marriage opponent",
+      "url": "/news/2022/jul/18/supreme-courts-religious-liberty-rulings-give-new-/"
+    },
+    {
+      "text": "Alex Swoyer",
+      "url": "https://www.washingtontimes.com/staff/alex-swoyer/"
     },
     {
       "text": "",
@@ -8549,36 +8615,12 @@
       "url": "/news/2022/jul/17/biden-comes-empty-handed-saudi-arabia-marshals-reg/"
     },
     {
-      "text": "Joseph Clark",
-      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
-    },
-    {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
-    },
-    {
-      "text": "Guy Taylor",
-      "url": "https://www.washingtontimes.com/staff/guy-taylor/"
-    },
-    {
       "text": "",
-      "url": "/news/2022/jul/15/china-wants-control-pacific-islands-drive-global-c/"
+      "url": "/news/2022/jul/17/judge-charles-atchley-delivers-blow-bidens-gender-/"
     },
     {
-      "text": "China wants control of Pacific Islands in drive for global clout",
-      "url": "/news/2022/jul/15/china-wants-control-pacific-islands-drive-global-c/"
-    },
-    {
-      "text": "Bill Gertz",
-      "url": "https://www.washingtontimes.com/staff/bill-gertz/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/democrats-taking-crazy-to-a-new-level/"
-    },
-    {
-      "text": "Democrats taking crazy to a new level",
-      "url": "/news/2022/jul/17/democrats-taking-crazy-to-a-new-level/"
+      "text": "Federal judge delivers blow to Biden administration's gender-identity directives",
+      "url": "/news/2022/jul/17/judge-charles-atchley-delivers-blow-bidens-gender-/"
     },
     {
       "text": "",
@@ -8590,19 +8632,11 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/17/bernie-sanders-rips-joe-biden-saudi-arabia-trip/"
+      "url": "/news/2022/jul/15/china-wants-control-pacific-islands-drive-global-c/"
     },
     {
-      "text": "Bernie Sanders rips Biden for Saudi Arabia trip",
-      "url": "/news/2022/jul/17/bernie-sanders-rips-joe-biden-saudi-arabia-trip/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/house-jan-6-panel-expects-subpoenaed-secret-servic/"
-    },
-    {
-      "text": "House Jan. 6 panel expects subpoenaed Secret Service texts soon, member says",
-      "url": "/news/2022/jul/17/house-jan-6-panel-expects-subpoenaed-secret-servic/"
+      "text": "China wants control of Pacific Islands in drive for global clout",
+      "url": "/news/2022/jul/15/china-wants-control-pacific-islands-drive-global-c/"
     },
     {
       "text": "",
@@ -8614,27 +8648,79 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/17/bernie-sanders-says-joe-manchin-sabotaged-bidens-a/"
+      "url": "/news/2022/jul/18/sergei-shoigu-russian-defense-chief-orders-troops-/"
     },
     {
-      "text": "Bernie Sanders says Joe Manchin \u2018sabotaged\u2019 Biden\u2019s agenda",
-      "url": "/news/2022/jul/17/bernie-sanders-says-joe-manchin-sabotaged-bidens-a/"
+      "text": "Russian defense chief orders troops to target U.S.-supplied missiles in Ukraine",
+      "url": "/news/2022/jul/18/sergei-shoigu-russian-defense-chief-orders-troops-/"
     },
     {
-      "text": "Ramsey Touchberry",
-      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+      "text": "Mike Glenn",
+      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/17/judge-charles-atchley-delivers-blow-bidens-gender-/"
+      "url": "/news/2022/jul/18/us-streamlines-process-afghan-allies-get-visas/"
     },
     {
-      "text": "Federal judge delivers blow to Biden administration\u2019s gender-identity directives",
-      "url": "/news/2022/jul/17/judge-charles-atchley-delivers-blow-bidens-gender-/"
+      "text": "U.S. streamlines process for Afghan allies to get visas",
+      "url": "/news/2022/jul/18/us-streamlines-process-afghan-allies-get-visas/"
     },
     {
-      "text": "Valerie Richardson",
-      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
+      "text": "Stephen Dinan",
+      "url": "https://www.washingtontimes.com/staff/stephen-dinan/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/john-fetterman-knocks-mehmet-oz-carpetbagger-attac/"
+    },
+    {
+      "text": "Fetterman knocks Oz with carpetbagger attacks, digs into N.J.-Pa. rivalry",
+      "url": "/news/2022/jul/18/john-fetterman-knocks-mehmet-oz-carpetbagger-attac/"
+    },
+    {
+      "text": "Seth McLaughlin",
+      "url": "https://www.washingtontimes.com/staff/seth-mclaughlin/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/extreme-heat-warning-goes-into-effect-in-uk/"
+    },
+    {
+      "text": "Extreme heat warning goes into effect in U.K.",
+      "url": "/news/2022/jul/18/extreme-heat-warning-goes-into-effect-in-uk/"
+    },
+    {
+      "text": "Culture",
+      "url": "/culture/"
+    },
+    {
+      "text": "View all ",
+      "url": "/culture/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/overwhelming-majority-voters-tell-pollsters-they-w/"
+    },
+    {
+      "text": "Overwhelming majority of voters tell pollsters they want parental notification for minors\u2019 abortions",
+      "url": "/news/2022/jul/18/overwhelming-majority-voters-tell-pollsters-they-w/"
+    },
+    {
+      "text": "Kerry Picket",
+      "url": "https://www.washingtontimes.com/staff/kerry-picket/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/supreme-courts-religious-liberty-rulings-give-new-/"
+    },
+    {
+      "text": "Supreme Court\u2019s religious liberty rulings give new life to legal battle for gay-marriage opponent",
+      "url": "/news/2022/jul/18/supreme-courts-religious-liberty-rulings-give-new-/"
+    },
+    {
+      "text": "Alex Swoyer",
+      "url": "https://www.washingtontimes.com/staff/alex-swoyer/"
     },
     {
       "text": "",
@@ -8647,26 +8733,6 @@
     {
       "text": "Mica Soellner",
       "url": "https://www.washingtontimes.com/staff/mica-soellner/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/nationals-enter-all-star-break-reeling-sotos-futur/"
-    },
-    {
-      "text": "Nationals enter All-Star break reeling with Soto\u2019s future in question",
-      "url": "/news/2022/jul/17/nationals-enter-all-star-break-reeling-sotos-futur/"
-    },
-    {
-      "text": "Jacob Calvin Meyer",
-      "url": "https://www.washingtontimes.com/staff/jacob-calvin-meyer/"
-    },
-    {
-      "text": "Culture",
-      "url": "/culture/"
-    },
-    {
-      "text": "View all ",
-      "url": "/culture/"
     },
     {
       "text": "",
@@ -8681,40 +8747,24 @@
       "url": "https://www.washingtontimes.com/staff/matt-delaney/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/16/dc-venue-cancels-appearance-conservative-comedian-/"
-    },
-    {
-      "text": "D.C. venue cancels appearance by conservative comic who catcalled AOC at Capitol",
-      "url": "/news/2022/jul/16/dc-venue-cancels-appearance-conservative-comedian-/"
-    },
-    {
-      "text": "Mica Soellner",
-      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/ben-affleck-jennifer-lopez-wed-in-las-vegas-drive-/"
-    },
-    {
-      "text": "Ben Affleck and Jennifer Lopez wed at drive-through chapel in Las Vegas",
-      "url": "/news/2022/jul/17/ben-affleck-jennifer-lopez-wed-in-las-vegas-drive-/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/ouch-actor-bryan-cranston-hit-by-liner-at-all-star/"
-    },
-    {
-      "text": "Actor Bryan Cranston hit by liner at All-Star celeb softball",
-      "url": "/news/2022/jul/17/ouch-actor-bryan-cranston-hit-by-liner-at-all-star/"
-    },
-    {
       "text": "White House Watch",
       "url": "/news/white-house/"
     },
     {
       "text": "View all ",
       "url": "/news/white-house/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/jill-biden-says-president-had-so-many-hopes-and-pl/"
+    },
+    {
+      "text": "Jill Biden says president had \u2018so many hopes and plans\u2019 amid stalled agenda",
+      "url": "/news/2022/jul/18/jill-biden-says-president-had-so-many-hopes-and-pl/"
+    },
+    {
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
     },
     {
       "text": "",
@@ -8757,18 +8807,6 @@
       "url": "/news/2022/jul/17/bidens-realism-approach-runs-head-on-into-liberal-/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/15/joe-biden-faces-national-rail-strike-on-top-of-eco/"
-    },
-    {
-      "text": "On top of economic woes, Biden faces national rail strike",
-      "url": "/news/2022/jul/15/joe-biden-faces-national-rail-strike-on-top-of-eco/"
-    },
-    {
-      "text": "Susan Ferrechio",
-      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
-    },
-    {
       "text": "Politics",
       "url": "/news/politics/"
     },
@@ -8778,51 +8816,51 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/17/ted-cruz-says-supreme-court-ruling-legalizing-gay-/"
+      "url": "/news/2022/jul/18/kamala-harris-compares-supreme-court-abortion-ruli/"
     },
     {
-      "text": "Ted Cruz says Supreme Court ruling legalizing gay marriage \u2018clearly wrong\u2019",
-      "url": "/news/2022/jul/17/ted-cruz-says-supreme-court-ruling-legalizing-gay-/"
+      "text": "Kamala Harris compares Supreme Court abortion ruling to slavery in a speech to NAACP",
+      "url": "/news/2022/jul/18/kamala-harris-compares-supreme-court-abortion-ruli/"
     },
     {
-      "text": "Ramsey Touchberry",
-      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/bernie-sanders-rips-joe-biden-saudi-arabia-trip/"
-    },
-    {
-      "text": "Bernie Sanders rips Biden for Saudi Arabia trip",
-      "url": "/news/2022/jul/17/bernie-sanders-rips-joe-biden-saudi-arabia-trip/"
-    },
-    {
-      "text": "Ramsey Touchberry",
-      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+      "text": "Dave Boyer",
+      "url": "https://www.washingtontimes.com/staff/dave-boyer/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/17/inside-beltway-bidenvilles-pop-across-america/"
+      "url": "/news/2022/jul/18/us-streamlines-process-afghan-allies-get-visas/"
     },
     {
-      "text": "\u2018Bidenvilles\u2019 popping up across America",
-      "url": "/news/2022/jul/17/inside-beltway-bidenvilles-pop-across-america/"
+      "text": "U.S. streamlines process for Afghan allies to get visas",
+      "url": "/news/2022/jul/18/us-streamlines-process-afghan-allies-get-visas/"
     },
     {
-      "text": "Jennifer Harper",
-      "url": "https://www.washingtontimes.com/staff/jennifer-harper/"
+      "text": "Stephen Dinan",
+      "url": "https://www.washingtontimes.com/staff/stephen-dinan/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/16/nancy-pelosis-husband-buys-5-million-chip-stocks-s/"
+      "url": "/news/2022/jul/18/john-fetterman-knocks-mehmet-oz-carpetbagger-attac/"
     },
     {
-      "text": "Pelosi\u2019s husband buys $5 million in chip stocks before Senate vote on chip subsidy bill",
-      "url": "/news/2022/jul/16/nancy-pelosis-husband-buys-5-million-chip-stocks-s/"
+      "text": "Fetterman knocks Oz with carpetbagger attacks, digs into N.J.-Pa. rivalry",
+      "url": "/news/2022/jul/18/john-fetterman-knocks-mehmet-oz-carpetbagger-attac/"
     },
     {
-      "text": "Mica Soellner",
-      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
+      "text": "Seth McLaughlin",
+      "url": "https://www.washingtontimes.com/staff/seth-mclaughlin/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/bernie-sanders-backs-mandela-barnes-wisconsin-sena/"
+    },
+    {
+      "text": "Bernie Sanders backs Mandela Barnes in Wisconsin Senate primary",
+      "url": "/news/2022/jul/18/bernie-sanders-backs-mandela-barnes-wisconsin-sena/"
+    },
+    {
+      "text": "Seth McLaughlin",
+      "url": "https://www.washingtontimes.com/staff/seth-mclaughlin/"
     },
     {
       "text": "Dive Deeper",
@@ -8834,19 +8872,27 @@
     },
     {
       "text": "",
+      "url": "/news/2022/jul/17/military-vets-say-border-war-zone/"
+    },
+    {
+      "text": "\u2018More dead bodies\u2019 than Afghanistan: Veterans say southern border is \u2018war zone\u2019",
+      "url": "/news/2022/jul/17/military-vets-say-border-war-zone/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/17/biden-comes-empty-handed-saudi-arabia-marshals-reg/"
+    },
+    {
+      "text": "Biden comes up empty-handed in Saudi Arabia, but marshals region against Iran",
+      "url": "/news/2022/jul/17/biden-comes-empty-handed-saudi-arabia-marshals-reg/"
+    },
+    {
+      "text": "",
       "url": "/news/2022/jul/14/supreme-courts-pro-second-amendment-ruling-will-cr/"
     },
     {
       "text": "Supreme Court\u2019s pro-Second Amendment ruling fuels gun rights groups to target bans, age limits",
       "url": "/news/2022/jul/14/supreme-courts-pro-second-amendment-ruling-will-cr/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/14/bragging-rights-gov-larry-hogan-trump-line-marylan/"
-    },
-    {
-      "text": "Bragging rights for Hogan, Trump on the line in Maryland\u2019s gubernatorial primary Tuesday",
-      "url": "/news/2022/jul/14/bragging-rights-gov-larry-hogan-trump-line-marylan/"
     },
     {
       "text": "",
@@ -8857,20 +8903,48 @@
       "url": "/news/2022/jul/14/recent-tests-us-close-gap-hypersonics-china-russia/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/14/new-york-makes-nearly-everywhere-gun-free-zone-aft/"
-    },
-    {
-      "text": "New York makes nearly everywhere \u2018gun free\u2019 zone after Supreme Court ruling",
-      "url": "/news/2022/jul/14/new-york-makes-nearly-everywhere-gun-free-zone-aft/"
-    },
-    {
       "text": "National",
       "url": "/news/national/"
     },
     {
       "text": "View all ",
       "url": "/news/national/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/trans-prisoner-demi-minor-transferred-out-womens-f/"
+    },
+    {
+      "text": "Transgender inmate moved out of women\u2019s facility in N.J. after impregnating two prisoners",
+      "url": "/news/2022/jul/18/trans-prisoner-demi-minor-transferred-out-womens-f/"
+    },
+    {
+      "text": "Valerie Richardson",
+      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/google-ordered-to-pay-nearly-1-million-in-legal-fe/"
+    },
+    {
+      "text": "Federal judge orders Google to pay nearly $1 million in legal fees for misconduct",
+      "url": "/news/2022/jul/18/google-ordered-to-pay-nearly-1-million-in-legal-fe/"
+    },
+    {
+      "text": "Ryan Lovelace",
+      "url": "https://www.washingtontimes.com/staff/ryan-lovelace/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/black-lives-matter-protesters-confronted-by-minnea/"
+    },
+    {
+      "text": "BLM protesters confronted by Minneapolis mom who was target of gunman",
+      "url": "/news/2022/jul/18/black-lives-matter-protesters-confronted-by-minnea/"
+    },
+    {
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
     },
     {
       "text": "",
@@ -8885,38 +8959,6 @@
       "url": "https://www.washingtontimes.com/staff/stephen-dinan/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/17/judge-charles-atchley-delivers-blow-bidens-gender-/"
-    },
-    {
-      "text": "Federal judge delivers blow to Biden administration\u2019s gender-identity directives",
-      "url": "/news/2022/jul/17/judge-charles-atchley-delivers-blow-bidens-gender-/"
-    },
-    {
-      "text": "Valerie Richardson",
-      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/indiana-mall-gunman-shot-killed-by-armed-civilians/"
-    },
-    {
-      "text": "Armed civilian shoots, kills Indiana mall gunman",
-      "url": "/news/2022/jul/17/indiana-mall-gunman-shot-killed-by-armed-civilians/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/15/twisting-wind-texas-faces-blackouts-heat-wave-stra/"
-    },
-    {
-      "text": "Twisting in the wind: Texas faces blackouts as heat wave strains windmill-reliant power grid",
-      "url": "/news/2022/jul/15/twisting-wind-texas-faces-blackouts-heat-wave-stra/"
-    },
-    {
-      "text": "Susan Ferrechio",
-      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
-    },
-    {
       "text": "World",
       "url": "/news/world/"
     },
@@ -8926,15 +8968,31 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/17/tehran-claims-biden-stoked-iranophobia-mideast-tri/"
+      "url": "/news/2022/jul/18/europe-broils-in-heat-wave-that-fuels-fires-in-fra/"
     },
     {
-      "text": "Iran lashes out at Biden, accuses him of stoking tensions",
-      "url": "/news/2022/jul/17/tehran-claims-biden-stoked-iranophobia-mideast-tri/"
+      "text": "Europe broils in heat wave that fuels fires in France, Spain",
+      "url": "/news/2022/jul/18/europe-broils-in-heat-wave-that-fuels-fires-in-fra/"
     },
     {
-      "text": "Guy Taylor",
-      "url": "https://www.washingtontimes.com/staff/guy-taylor/"
+      "text": "",
+      "url": "/news/2022/jul/18/sergei-shoigu-russian-defense-chief-orders-troops-/"
+    },
+    {
+      "text": "Russian defense chief orders troops to target U.S.-supplied missiles in Ukraine",
+      "url": "/news/2022/jul/18/sergei-shoigu-russian-defense-chief-orders-troops-/"
+    },
+    {
+      "text": "Mike Glenn",
+      "url": "https://www.washingtontimes.com/staff/mike-glenn/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/17/zelenskyy-fires-top-security-chief-ivan-bakanov-pr/"
+    },
+    {
+      "text": "Zelenskyy fires top security chief over security breaches",
+      "url": "/news/2022/jul/17/zelenskyy-fires-top-security-chief-ivan-bakanov-pr/"
     },
     {
       "text": "",
@@ -8949,28 +9007,36 @@
       "url": "https://www.washingtontimes.com/staff/bill-gertz/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/17/zelenskyy-fires-top-security-chief-ivan-bakanov-pr/"
-    },
-    {
-      "text": "Zelenskyy fires top security chief over security breaches",
-      "url": "/news/2022/jul/17/zelenskyy-fires-top-security-chief-ivan-bakanov-pr/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/16/uk-gets-ready-for-travel-disruptions-as-temps-may-/"
-    },
-    {
-      "text": "UK gets ready for travel disruptions as temps may hit 104 F",
-      "url": "/news/2022/jul/16/uk-gets-ready-for-travel-disruptions-as-temps-may-/"
-    },
-    {
       "text": "Sports",
       "url": "/sports/"
     },
     {
       "text": "View all ",
       "url": "/sports/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/british-open-champion-cameron-smith-deflects-when-/"
+    },
+    {
+      "text": "British Open champion Cameron Smith deflects when asked about LIV Golf rumors",
+      "url": "/news/2022/jul/18/british-open-champion-cameron-smith-deflects-when-/"
+    },
+    {
+      "text": "Jacob Calvin Meyer",
+      "url": "https://www.washingtontimes.com/staff/jacob-calvin-meyer/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/ex-vikings-linebacker-mike-zimmer-didnt-kirk-cousi/"
+    },
+    {
+      "text": "Ex-Vikings linebacker: Mike Zimmer didn\u2019t like Kirk Cousins, and it was obvious",
+      "url": "/news/2022/jul/18/ex-vikings-linebacker-mike-zimmer-didnt-kirk-cousi/"
+    },
+    {
+      "text": "Jacob Calvin Meyer",
+      "url": "https://www.washingtontimes.com/staff/jacob-calvin-meyer/"
     },
     {
       "text": "",
@@ -8995,30 +9061,6 @@
     {
       "text": "Jacob Calvin Meyer",
       "url": "https://www.washingtontimes.com/staff/jacob-calvin-meyer/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/selling-soto-now-may-be-nationals-best-option/"
-    },
-    {
-      "text": "LOVERRO: Selling off Soto to contender now may be best Nationals can do",
-      "url": "/news/2022/jul/17/selling-soto-now-may-be-nationals-best-option/"
-    },
-    {
-      "text": "Thom Loverro",
-      "url": "https://www.washingtontimes.com/staff/thom-loverro/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/juan-soto-trade-rumors-dampers-bradley-beal-terry-/"
-    },
-    {
-      "text": "The Wizards paid Beal. The Commanders paid McLaurin. So why won\u2019t the Nats pay Soto?",
-      "url": "/news/2022/jul/17/juan-soto-trade-rumors-dampers-bradley-beal-terry-/"
-    },
-    {
-      "text": "Matthew Paras",
-      "url": "https://www.washingtontimes.com/staff/matthew-paras/"
     },
     {
       "text": "Sponsored Content",
@@ -9062,75 +9104,31 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/16/dc-venue-cancels-appearance-conservative-comedian-/"
+      "url": "/news/2022/jul/18/john-fetterman-knocks-mehmet-oz-carpetbagger-attac/"
     },
     {
-      "text": "D.C. venue cancels appearance by conservative comic who catcalled AOC at Capitol",
-      "url": "/news/2022/jul/16/dc-venue-cancels-appearance-conservative-comedian-/"
+      "text": "Fetterman knocks Oz with carpetbagger attacks, digs into N.J.-Pa. rivalry",
+      "url": "/news/2022/jul/18/john-fetterman-knocks-mehmet-oz-carpetbagger-attac/"
     },
     {
-      "text": "Mica Soellner",
-      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/nationals-enter-all-star-break-reeling-sotos-futur/"
-    },
-    {
-      "text": "Nationals enter All-Star break reeling with Soto\u2019s future in question",
-      "url": "/news/2022/jul/17/nationals-enter-all-star-break-reeling-sotos-futur/"
-    },
-    {
-      "text": "Jacob Calvin Meyer",
-      "url": "https://www.washingtontimes.com/staff/jacob-calvin-meyer/"
+      "text": "Seth McLaughlin",
+      "url": "https://www.washingtontimes.com/staff/seth-mclaughlin/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/17/editorial-tax-increases-from-democrats/"
+      "url": "/news/2022/jul/18/extreme-heat-warning-goes-into-effect-in-uk/"
     },
     {
-      "text": "Tax increases from Democrats",
-      "url": "/news/2022/jul/17/editorial-tax-increases-from-democrats/"
-    },
-    {
-      "text": "Editorial Board",
-      "url": "https://www.washingtontimes.com/staff/editorial-board/"
+      "text": "Extreme heat warning goes into effect in U.K.",
+      "url": "/news/2022/jul/18/extreme-heat-warning-goes-into-effect-in-uk/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/17/zelenskyy-fires-top-security-chief-ivan-bakanov-pr/"
+      "url": "/news/2022/jul/18/jill-biden-says-president-had-so-many-hopes-and-pl/"
     },
     {
-      "text": "Zelenskyy fires top security chief over security breaches",
-      "url": "/news/2022/jul/17/zelenskyy-fires-top-security-chief-ivan-bakanov-pr/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/uvalde-families-to-receive-new-report-on-police-fa/"
-    },
-    {
-      "text": "\u2018Systemic failures\u2019 in Uvalde school massacre, report finds",
-      "url": "/news/2022/jul/17/uvalde-families-to-receive-new-report-on-police-fa/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/16/israel-strikes-gaza-after-rocket-attacks-hours-aft/"
-    },
-    {
-      "text": "Israel strikes Gaza after rocket attacks, hours after Biden visit",
-      "url": "/news/2022/jul/16/israel-strikes-gaza-after-rocket-attacks-hours-aft/"
-    },
-    {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/17/inflation-unacceptably-high-moving-right-direction/"
-    },
-    {
-      "text": "Inflation \u2018unacceptably high\u2019 but \u2018moving in the right direction,\u2019 White House economic adviser says",
-      "url": "/news/2022/jul/17/inflation-unacceptably-high-moving-right-direction/"
+      "text": "Jill Biden says president had \u2018so many hopes and plans\u2019 amid stalled agenda",
+      "url": "/news/2022/jul/18/jill-biden-says-president-had-so-many-hopes-and-pl/"
     },
     {
       "text": "Ramsey Touchberry",
@@ -9138,35 +9136,79 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/16/no-health-benefits-alcohol-young-people-few-older-/"
+      "url": "/news/2022/jul/18/mike-pence-endorses-karrin-taylor-robson-gop-rival/"
     },
     {
-      "text": "No health benefits from alcohol for young people, few for older people: Study",
-      "url": "/news/2022/jul/16/no-health-benefits-alcohol-young-people-few-older-/"
+      "text": "Mike Pence endorses GOP rival of Trump-backed candidate for Arizona governor",
+      "url": "/news/2022/jul/18/mike-pence-endorses-karrin-taylor-robson-gop-rival/"
     },
     {
-      "text": "Matt Delaney",
-      "url": "https://www.washingtontimes.com/staff/matt-delaney/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/16/notorious-cartel-leader-captured-mexico-awaiting-e/"
-    },
-    {
-      "text": "Notorious cartel leader captured in Mexico; awaits extradition to U.S.",
-      "url": "/news/2022/jul/16/notorious-cartel-leader-captured-mexico-awaiting-e/"
-    },
-    {
-      "text": "Matt Delaney",
-      "url": "https://www.washingtontimes.com/staff/matt-delaney/"
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/17/no-major-problems-with-ballot-drop-boxes-in-2020-a/"
+      "url": "/news/2022/jul/18/black-lives-matter-protesters-confronted-by-minnea/"
     },
     {
-      "text": "No major problems with ballot drop boxes in 2020, AP finds",
-      "url": "/news/2022/jul/17/no-major-problems-with-ballot-drop-boxes-in-2020-a/"
+      "text": "BLM protesters confronted by Minneapolis mom who was target of gunman",
+      "url": "/news/2022/jul/18/black-lives-matter-protesters-confronted-by-minnea/"
+    },
+    {
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/18/damning-report-new-footage-show-chaos-of-uvalde-re/"
+    },
+    {
+      "text": "Damning report, new footage show chaos of Uvalde response",
+      "url": "/news/2022/jul/18/damning-report-new-footage-show-chaos-of-uvalde-re/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/17/bernie-sanders-says-joe-manchin-sabotaged-bidens-a/"
+    },
+    {
+      "text": "Bernie Sanders says Joe Manchin \u2018sabotaged\u2019 Biden\u2019s agenda",
+      "url": "/news/2022/jul/17/bernie-sanders-says-joe-manchin-sabotaged-bidens-a/"
+    },
+    {
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/17/indiana-mall-gunman-shot-killed-by-armed-civilians/"
+    },
+    {
+      "text": "Armed civilian shoots, kills Indiana mall gunman",
+      "url": "/news/2022/jul/17/indiana-mall-gunman-shot-killed-by-armed-civilians/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/15/threat-election-eve-rail-strike-tests-bidens-pro-u/"
+    },
+    {
+      "text": "Threat of election-eve rail strike tests Biden\u2019s pro-union persona",
+      "url": "/news/2022/jul/15/threat-election-eve-rail-strike-tests-bidens-pro-u/"
+    },
+    {
+      "text": "Susan Ferrechio",
+      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/16/nancy-pelosis-husband-buys-5-million-chip-stocks-s/"
+    },
+    {
+      "text": "Pelosi\u2019s husband buys $5 million in chip stocks before Senate vote on chip subsidy bill",
+      "url": "/news/2022/jul/16/nancy-pelosis-husband-buys-5-million-chip-stocks-s/"
+    },
+    {
+      "text": "Mica Soellner",
+      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
     },
     {
       "text": "",
@@ -9230,11 +9272,11 @@
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/14/violence-is-the-lefts-new-race-card/"
+      "url": "/news/2022/jul/18/ding-dong-anthony-fauci-retire-reportedly/"
     },
     {
-      "text": "Violence is the left\u2019s new race card",
-      "url": "/news/2022/jul/14/violence-is-the-lefts-new-race-card/"
+      "text": "Ding, dong, Anthony Fauci to retire (reportedly)",
+      "url": "/news/2022/jul/18/ding-dong-anthony-fauci-retire-reportedly/"
     },
     {
       "text": "Cheryl K. Chumley",
@@ -9242,11 +9284,11 @@
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/12/white-house-fakes-new-fears-manufacture-more-covid/"
+      "url": "/news/2022/jul/14/violence-is-the-lefts-new-race-card/"
     },
     {
-      "text": "White House fakes new fears to manufacture more COVID-19 hysteria",
-      "url": "/news/2022/jul/12/white-house-fakes-new-fears-manufacture-more-covid/"
+      "text": "Violence is the left\u2019s new race card",
+      "url": "/news/2022/jul/14/violence-is-the-lefts-new-race-card/"
     },
     {
       "text": "Cheryl K. Chumley",
@@ -9457,60 +9499,60 @@
       "url": "/news/waste-fraud-abuse/"
     },
     {
+      "text": "Trial expected to begin for ex-Trump adviser Steve Bannon",
+      "url": "/news/2022/jul/18/trial-expected-begin-ex-trump-adviser-steve-bannon/"
+    },
+    {
+      "text": "Damning report, new footage show chaos of Uvalde response",
+      "url": "/news/2022/jul/18/damning-report-new-footage-show-chaos-of-uvalde-re/"
+    },
+    {
       "text": "DOJ investigating Md. state police for discriminatory hiring, promotion practices",
       "url": "/news/2022/jul/16/doj-investigating-md-state-police-discriminatory-h/"
-    },
-    {
-      "text": "House Jan. 6 committee subpoenas Secret Service for missing texts",
-      "url": "/news/2022/jul/16/house-jan-6-committee-subpoenas-secret-service-mis/"
-    },
-    {
-      "text": "DHS watchdog accuses Secret Service of deleting texts surrounding Capitol riot",
-      "url": "/news/2022/jul/15/dhs-ig-accuses-secret-service-deleting-texts-surro/"
     },
     {
       "text": "Security",
       "url": "/news/security/"
     },
     {
+      "text": "Russian defense chief orders troops to target U.S.-supplied missiles in Ukraine",
+      "url": "/news/2022/jul/18/sergei-shoigu-russian-defense-chief-orders-troops-/"
+    },
+    {
+      "text": "U.S. approves $108 million in military aid to Taiwan amid tensions with China",
+      "url": "/news/2022/jul/18/us-approves-108-million-military-aid-taiwan-amid-t/"
+    },
+    {
       "text": "\u2018More dead bodies\u2019 than Afghanistan: Veterans say southern border is \u2018war zone\u2019",
       "url": "/news/2022/jul/17/military-vets-say-border-war-zone/"
-    },
-    {
-      "text": "Iran lashes out at Biden, accuses him of stoking tensions",
-      "url": "/news/2022/jul/17/tehran-claims-biden-stoked-iranophobia-mideast-tri/"
-    },
-    {
-      "text": "Six terrorism suspects nabbed at southern border in June",
-      "url": "/news/2022/jul/16/six-terrorism-suspects-nabbed-southern-border-june/"
     },
     {
       "text": "D.C. Local",
       "url": "/news/local/"
     },
     {
+      "text": "Armed man at Wharf was fatally shot by off-duty D.C. police officer: Report",
+      "url": "/news/2022/jul/18/armed-man-wharf-was-fatally-shot-duty-dc-police-of/"
+    },
+    {
+      "text": "Maryland GOP Senate candidate arrested for false child trafficking report days before primary",
+      "url": "/news/2022/jul/18/ryan-dark-white-maryland-gop-senate-candidate-arre/"
+    },
+    {
       "text": "Youngkin shifts Virginia right, raising profile inside GOP",
       "url": "/news/2022/jul/17/gov-glenn-youngkin-shifts-virginia-right-raising-p/"
-    },
-    {
-      "text": "Man shot and killed by off-duty police in DC\u2019s Wharf area",
-      "url": "/news/2022/jul/17/man-shot-and-killed-by-off-duty-police-in-dcs-whar/"
-    },
-    {
-      "text": "Christian youth workers, chaperones safe in Panama unrest and headed home",
-      "url": "/news/2022/jul/16/christian-youth-workers-chaperones-safe-panama-unr/"
     },
     {
       "text": "World",
       "url": "/news/world/"
     },
     {
-      "text": "Iran lashes out at Biden, accuses him of stoking tensions",
-      "url": "/news/2022/jul/17/tehran-claims-biden-stoked-iranophobia-mideast-tri/"
+      "text": "Europe broils in heat wave that fuels fires in France, Spain",
+      "url": "/news/2022/jul/18/europe-broils-in-heat-wave-that-fuels-fires-in-fra/"
     },
     {
-      "text": "China wants control of Pacific Islands in drive for global clout",
-      "url": "/news/2022/jul/15/china-wants-control-pacific-islands-drive-global-c/"
+      "text": "Russian defense chief orders troops to target U.S.-supplied missiles in Ukraine",
+      "url": "/news/2022/jul/18/sergei-shoigu-russian-defense-chief-orders-troops-/"
     },
     {
       "text": "Zelenskyy fires top security chief over security breaches",
@@ -9521,32 +9563,32 @@
       "url": "/news/business-economy/"
     },
     {
+      "text": "Delta places order for 100 Boeing 737 aircraft",
+      "url": "/news/2022/jul/18/delta-places-order-for-100-boeing-737-aircraft/"
+    },
+    {
+      "text": "General Motors CEO Mary Barra stands by ambitious EV pledge",
+      "url": "/news/2022/jul/18/general-motors-ceo-mary-barra-stands-by-ambitious-/"
+    },
+    {
       "text": "Inflation \u2018unacceptably high\u2019 but \u2018moving in the right direction,\u2019 White House economic adviser says",
       "url": "/news/2022/jul/17/inflation-unacceptably-high-moving-right-direction/"
-    },
-    {
-      "text": "Texas crypto mines briefly shut down to help conserve power during heat wave",
-      "url": "/news/2022/jul/16/texas-crypto-mines-briefly-shut-down-help-conserve/"
-    },
-    {
-      "text": "Hertz hit by dozens of lawsuits over alleged false reports of stolen rentals",
-      "url": "/news/2022/jul/16/hertz-hit-dozens-lawsuits-over-alleged-false-repor/"
     },
     {
       "text": "Faith & Family",
       "url": "/news/faith-family/"
     },
     {
-      "text": "Christian youth workers, chaperones safe in Panama unrest and headed home",
-      "url": "/news/2022/jul/16/christian-youth-workers-chaperones-safe-panama-unr/"
+      "text": "Overwhelming majority of voters tell pollsters they want parental notification for minors\u2019 abortions",
+      "url": "/news/2022/jul/18/overwhelming-majority-voters-tell-pollsters-they-w/"
     },
     {
-      "text": "Pope seeks prayers for his \u2018penitential\u2019 Canadian pilgrimage",
-      "url": "/news/2022/jul/17/pope-seeks-prayers-for-his-penitential-canadian-pi/"
+      "text": "Supreme Court\u2019s religious liberty rulings give new life to legal battle for gay-marriage opponent",
+      "url": "/news/2022/jul/18/supreme-courts-religious-liberty-rulings-give-new-/"
     },
     {
-      "text": "Doctor\u2019s lawyer defends steps in 10-year-old girl\u2019s abortion",
-      "url": "/news/2022/jul/14/doctors-lawyer-defends-steps-in-10-year-old-girls-/"
+      "text": "Ted Cruz says Supreme Court ruling legalizing gay marriage \u2018clearly wrong\u2019",
+      "url": "/news/2022/jul/17/ted-cruz-says-supreme-court-ruling-legalizing-gay-/"
     },
     {
       "text": "Health",
@@ -9569,20 +9611,24 @@
       "url": "/culture/entertainment/"
     },
     {
-      "text": "\u2018Fantastic Beasts: The Secrets of Dumbledore\u2019 4K Ultra HD movie review",
-      "url": "/news/2022/jul/17/fantastic-beasts-secrets-dumbledore-4k-ultra-hd-mo/"
+      "text": "Don McLean looks back at his masterpiece, \u2018American Pie\u2019",
+      "url": "/news/2022/jul/18/don-mclean-looks-back-at-his-masterpiece-american-/"
     },
     {
-      "text": "Actor Bryan Cranston hit by liner at All-Star celeb softball",
-      "url": "/news/2022/jul/17/ouch-actor-bryan-cranston-hit-by-liner-at-all-star/"
+      "text": "Ben Affleck and Jennifer Lopez wed at drive-through chapel in Las Vegas",
+      "url": "/news/2022/jul/17/ben-affleck-jennifer-lopez-wed-in-las-vegas-drive-/"
     },
     {
-      "text": "Upcoming \u2018Wordle\u2019 board game puts the play in wordplay",
-      "url": "/news/2022/jul/15/upcoming-wordle-board-game-puts-play-wordplay/"
+      "text": "Prosecutor: U.S. judge reneged on promise in Polanski sex case",
+      "url": "/news/2022/jul/18/prosecutor-us-judge-reneged-on-promise-in-roman-po/"
     },
     {
       "text": "Travel",
       "url": "/culture/travel/"
+    },
+    {
+      "text": "Extreme heat warning goes into effect in U.K.",
+      "url": "/news/2022/jul/18/extreme-heat-warning-goes-into-effect-in-uk/"
     },
     {
       "text": "Academy Museum to honor Julia Roberts at 2nd annual gala",
@@ -9593,32 +9639,28 @@
       "url": "/news/2022/jul/15/canada-resuming-mandatory-random-covid-19-testing-/"
     },
     {
-      "text": "Petty parking putdowns from locals could harm tourism, Arizona town fears",
-      "url": "/news/2022/jul/15/police-jerome-arizona-tourists-locals-parking/"
-    },
-    {
       "text": "Technology",
       "url": "/culture/technology/"
     },
     {
-      "text": "\u2018Fantastic Beasts: The Secrets of Dumbledore\u2019 4K Ultra HD movie review",
-      "url": "/news/2022/jul/17/fantastic-beasts-secrets-dumbledore-4k-ultra-hd-mo/"
+      "text": "Federal judge orders Google to pay nearly $1 million in legal fees for misconduct",
+      "url": "/news/2022/jul/18/google-ordered-to-pay-nearly-1-million-in-legal-fe/"
     },
     {
-      "text": "Texas crypto mines briefly shut down to help conserve power during heat wave",
-      "url": "/news/2022/jul/16/texas-crypto-mines-briefly-shut-down-help-conserve/"
+      "text": "Pelosi\u2019s husband buys $5 million in chip stocks before Senate vote on chip subsidy bill",
+      "url": "/news/2022/jul/16/nancy-pelosis-husband-buys-5-million-chip-stocks-s/"
     },
     {
-      "text": "New funding spurs more Iowa electric vehicle charging spots",
-      "url": "/news/2022/jul/16/new-funding-spurs-more-iowa-electric-vehicle-charg/"
+      "text": "General Motors CEO Mary Barra stands by ambitious EV pledge",
+      "url": "/news/2022/jul/18/general-motors-ceo-mary-barra-stands-by-ambitious-/"
     },
     {
       "text": "Energy & Environment",
       "url": "/specials/energy-environment-news/"
     },
     {
-      "text": "Biden leaves Saudi Arabia without oil deal amid criticism for meeting with crown prince",
-      "url": "/news/2022/jul/15/biden-says-no-immediate-deal-oil-saudi-arabia/"
+      "text": "General Motors CEO Mary Barra stands by ambitious EV pledge",
+      "url": "/news/2022/jul/18/general-motors-ceo-mary-barra-stands-by-ambitious-/"
     },
     {
       "text": "Banking & Finance",
@@ -9641,16 +9683,16 @@
       "url": "/specials/second-amendment-and-gun-control/"
     },
     {
-      "text": "Atlanta suburb to allow non-teachers to be armed at school",
-      "url": "/news/2022/jul/15/atlanta-suburb-allow-non-teachers-be-armed-school/"
+      "text": "BLM protesters confronted by Minneapolis mom who was target of gunman",
+      "url": "/news/2022/jul/18/black-lives-matter-protesters-confronted-by-minnea/"
     },
     {
       "text": "Immigration Reform",
       "url": "/specials/immigration-reform/"
     },
     {
-      "text": "Asylum wait lists at U.S. border frustrate, confuse migrants",
-      "url": "/news/2022/jul/13/asylum-wait-lists-at-us-border-frustrate-confuse-m/"
+      "text": "'More dead bodies' than Afghanistan: Veterans say southern border is 'war zone'",
+      "url": "/news/2022/jul/17/military-vets-say-border-war-zone/"
     },
     {
       "text": "Homeland & Cybersecurity",
@@ -9665,8 +9707,8 @@
       "url": "/specials/defense-aerospace/"
     },
     {
-      "text": "Israel strikes Gaza after rocket attacks, hours after Biden visit",
-      "url": "/news/2022/jul/16/israel-strikes-gaza-after-rocket-attacks-hours-aft/"
+      "text": "Russian defense chief orders troops to target U.S.-supplied missiles in Ukraine",
+      "url": "/news/2022/jul/18/sergei-shoigu-russian-defense-chief-orders-troops-/"
     },
     {
       "text": "Taxes & Budget",
@@ -9689,8 +9731,8 @@
       "url": "/specials/transportation-infrastructure/"
     },
     {
-      "text": "Delta Air Lines charters plane from London to send home 1,000 lost pieces of luggage",
-      "url": "/news/2022/jul/14/delta-air-lines-charters-plane-london-send-home-10/"
+      "text": "General Motors CEO Mary Barra stands by ambitious EV pledge",
+      "url": "/news/2022/jul/18/general-motors-ceo-mary-barra-stands-by-ambitious-/"
     },
     {
       "text": "Terms of Use",

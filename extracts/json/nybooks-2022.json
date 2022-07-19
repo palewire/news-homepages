@@ -1,5 +1,5 @@
 {
-  "created": 1658146580,
+  "created": 1658190390,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/32/items/nybooks-2022",
@@ -1192,31 +1192,73 @@
       "sha1": "899656a429c198a34a99598cc79276fe2a0ec128"
     },
     {
+      "name": "nybooks-2022-07-18T13:57:16.980970-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658167040",
+      "size": "20696",
+      "md5": "edf3b30c43d6bbbe45163f7062e3a52d",
+      "crc32": "d6c6e1db",
+      "sha1": "75ac3e5bac744744bb9f9c5d950b3bbd3c33fb46",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-18T13:57:16.980970-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658167041",
+      "size": "46105",
+      "md5": "23bcf56e1a74c61e39399f448b2d4cf2",
+      "crc32": "1e095e7f",
+      "sha1": "76e3459f6b0aff2825a47480e3e2b6327e5c08d9",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-18T13:57:16.980970-04:00.jpg",
+      "source": "original",
+      "mtime": "1658167038",
+      "size": "327929",
+      "md5": "065a63649bcb6a401fe76d429f300cf3",
+      "crc32": "778f3f3a",
+      "sha1": "699f4097dddff67136a82a84bb0c5b4cc4c75fc1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nybooks-2022-07-18T13:57:16.980970-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nybooks-2022-07-18T13:57:16.980970-04:00.jpg",
+      "mtime": "1658171231",
+      "size": "9832",
+      "md5": "6c6f07d6a85bdbe376c8c26c5882e023",
+      "crc32": "43403a18",
+      "sha1": "4f60bc2efd2e1e519933a3243ce81ccaa6180ae5"
+    },
+    {
       "name": "nybooks-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ffae79fa84990c0ff2fd6df537ee7d0d669875e4",
-      "mtime": "1658116755",
-      "size": "25205",
-      "md5": "143962b7abae8ccf298f15ab5bbfdeae",
-      "crc32": "2facad4c",
-      "sha1": "1521c9cc75e2e625919397c59307225179c6c349",
+      "btih": "6504b3e9a30e73f60bff5607b7a21365712fdbd2",
+      "mtime": "1658171236",
+      "size": "26050",
+      "md5": "a37bfb8ba7203dec2fc480b6ee1905b6",
+      "crc32": "5d8f4f6e",
+      "sha1": "820d950a48a4bb07e4b0b33ccfd599bc858aa16e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nybooks-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b222bf964e37b45bae5cd241281daea",
+      "md5": "5369759384771a51693f5309d160b3f5",
       "summation": "md5"
     },
     {
       "name": "nybooks-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658114951",
-      "size": "151552",
-      "md5": "75cbef93da9bea8ff0f47cf057e7279d",
-      "crc32": "d129baf6",
-      "sha1": "2b45cda14b919fdab76fe9a268447db774ee2dec",
+      "mtime": "1658167044",
+      "size": "155648",
+      "md5": "e4ec02a6422f0d8fac4c009c35528e37",
+      "crc32": "6520aa0b",
+      "sha1": "4138cff4c3299166ca1604cf1c4baa78e38e9a67",
       "format": "Metadata"
     },
     {
@@ -1230,9 +1272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 117,
-  "item_last_updated": 1658116755,
-  "item_size": 12440048,
+  "files_count": 121,
+  "item_last_updated": 1658171236,
+  "item_size": 12849551,
   "metadata": {
     "identifier": "nybooks-2022",
     "collection": [
@@ -1563,24 +1605,24 @@
       "url": "http://www.nyrb.com/"
     },
     {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nLucy Ives\t\t\t\t\t\t\n\t\t\t\t\t\tA Line that Wants to Speak\n\t\t\t\t\t\tThe Beat artist Rick Barton, a fixture of the San Francisco caf\u00e9 scene, filled notebooks with expressive line drawings that are only now getting their due.\n\n\t\t\t\t\t\t    July 12, 2022\n\n\t\t\t\t\t",
+      "url": "https://www.nybooks.com/daily/2022/07/12/a-line-that-wants-to-speak-rick-barton/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nRobert Kuttner\t\t\t\t\t\t\n\t\t\t\t\t\tFree Markets, Besieged Citizens\n\t\t\t\t\t\tWhy did Democratic presidents embrace an economic credo that annihilated their own public philosophy and its appeal to the electorate?\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
+      "url": "https://www.nybooks.com/articles/2022/07/21/free-markets-besieged-citizens-gerstle-kuttner/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nFT\t\t\t\t\t\n\t\t\t\t\tApropos of Nothing\n\t\t\t\t\tNonbeing belongs to that category of concepts that seem self-evident and self-explanatory, but have been objects of deepest perplexity for philosophers.\n\n\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t",
+      "url": "https://www.nybooks.com/articles/2022/07/21/absence-and-nothing-stephen-mumford/"
+    },
+    {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nVerlyn Klinkenborg\t\t\t\t\t\t\n\t\t\t\t\t\tThe Forest\u2019s-Eye View\n\t\t\t\t\t\tTwo new books investigate the ways in which deforestation affects climate change, and climate change affects forests.\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
       "url": "https://www.nybooks.com/articles/2022/07/21/the-forests-eye-view-ever-green-the-treeline/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nLucy Ives\t\t\t\t\t\t\n\t\t\t\t\t\tA Line that Wants to Speak\n\t\t\t\t\t\tThe Beat artist Rick Barton, a fixture of the San Francisco caf\u00e9 scene, filled notebooks with expressive line drawings that are only now getting their due.\n\n\t\t\t\t\t\t    July 12, 2022\n\n\t\t\t\t\t",
-      "url": "https://www.nybooks.com/daily/2022/07/12/a-line-that-wants-to-speak-rick-barton/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nRobert Kuttner\t\t\t\t\t\n\t\t\t\t\tFree Markets, Besieged Citizens\n\t\t\t\t\tWhy did Democratic presidents embrace an economic credo that annihilated their own public philosophy and its appeal to the electorate?\n\n\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t",
-      "url": "https://www.nybooks.com/articles/2022/07/21/free-markets-besieged-citizens-gerstle-kuttner/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nSarah Blackwood\t\t\t\t\t\t\n\t\t\t\t\t\tSpiritual Exercises\n\t\t\t\t\t\tIn her most recent graphic novel, Alison Bechdel explores her lifelong obsession with fitness.\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nSarah Blackwood\t\t\t\t\t\t\n\t\t\t\t\t\tSpiritual Exercises\n\t\t\t\t\t\tIn her most recent graphic novel, Alison Bechdel explores her lifelong obsession with fitness.\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
       "url": "https://www.nybooks.com/articles/2022/07/21/secret-to-superhuman-strength-alison-bechdel/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nHelon Habila\t\t\t\t\t\t\n\t\t\t\t\t\tCrude Reality\n\t\t\t\t\t\tImbolo Mbue\u2019s How Beautiful We Were confronts the often ignored messiness and violence of oil extraction.\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
-      "url": "https://www.nybooks.com/articles/2022/07/21/crude-reality-how-beautiful-we-were-imbolo-mbue/"
     },
     {
       "text": "\n                                                                                                                                                                                                                                                                        \n                                                    \n                                                \n                                                                                                                            \n                                            \n\n\nAaron Matz                                        \n                                        Flaubert\u2019s Planet\n                                        Do novelists, and their readers, bear some responsibility for the climate crisis?\n\n                                            July 21, 2022 issue\n\n                                    ",
@@ -1607,16 +1649,16 @@
       "url": "https://www.nybooks.com/articles/2022/07/21/shes-capital-zola-namwali-serpell/"
     },
     {
-      "text": "\n                                                                                        \n                                                \n\n\nFT                                            \n                                            Apropos of Nothing\n                                            Nonbeing belongs to that category of concepts that seem self-evident and self-explanatory, but have been objects of deepest perplexity for philosophers.\n\n                                                July 21, 2022 issue\n\n                                        ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/absence-and-nothing-stephen-mumford/"
-    },
-    {
       "text": "\n                                                                                        \n                                                \n\n\nDaniel Immerwahr                                            \n                                            Wielding Wheat\n                                            A new history makes a case for the world-ordering power of wheat.\n\n                                                July 21, 2022 issue\n\n                                        ",
       "url": "https://www.nybooks.com/articles/2022/07/21/wielding-wheat-oceans-of-grain-nelson/"
     },
     {
       "text": "\n                                                                                        \n                                                \n\n\nMiranda Seymour                                            \n                                            \u2018Turbulence and Misery\u2019\n                                            Anguish, provoked by her acute sense of physical and social inadequacy, was essential for Jean Stafford\u2019s literary talent to flourish.\n\n                                                July 21, 2022 issue\n\n                                        ",
       "url": "https://www.nybooks.com/articles/2022/07/21/turbulence-and-misery-jean-stafford-seymour/"
+    },
+    {
+      "text": "\n                                                                                        \n                                                \n\n\nHelon Habila                                            \n                                            Crude Reality\n                                            Imbolo Mbue\u2019s How Beautiful We Were confronts the often ignored messiness and violence of oil extraction.\n\n                                                July 21, 2022 issue\n\n                                        ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/crude-reality-how-beautiful-we-were-imbolo-mbue/"
     },
     {
       "text": "\n                        \n                            \u201cThe hunting of dangerous beasts, lions above all, served the Assyrian kings, and later those of Persia, as a display of power and dominion; large game parks were established in capital cities to allow them to demonstrate their prowess.\u201d\n                        \n                        \u2014 James Romm: Kings of the Universe\n                    ",
@@ -1763,10 +1805,6 @@
       "url": "politics"
     },
     {
-      "text": "\n                                    \n                                        \n\t\n\nDeborah Eisenberg                                    \n                                    Condemned to Life\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/i-who-have-never-known-men-harpman/"
-    },
-    {
       "text": "\n                                    \n                                        \n\t\n\nAlice Kaplan                                    \n                                    The Master of Blame\n                                        July 21, 2022 issue\n\n                                ",
       "url": "https://www.nybooks.com/articles/2022/07/21/the-master-of-blame-louis-ferdinand-celine/"
     },
@@ -1777,6 +1815,10 @@
     {
       "text": "\n                                    \n                                        \n\t\n\nSarah Blackwood                                    \n                                    Spiritual Exercises\n                                        July 21, 2022 issue\n\n                                ",
       "url": "https://www.nybooks.com/articles/2022/07/21/secret-to-superhuman-strength-alison-bechdel/"
+    },
+    {
+      "text": "\n                                    \n                                        \n\t\n\nHelon Habila                                    \n                                    Crude Reality\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/crude-reality-how-beautiful-we-were-imbolo-mbue/"
     },
     {
       "text": "More Literature",
@@ -2008,7 +2050,7 @@
     }
   ],
   "server": "ia802501.us.archive.org",
-  "uniq": 637719775,
+  "uniq": 670525740,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

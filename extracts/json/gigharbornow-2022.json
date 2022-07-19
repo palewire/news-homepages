@@ -1,5 +1,5 @@
 {
-  "created": 1658146248,
+  "created": 1658190204,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/26/items/gigharbornow-2022",
@@ -814,31 +814,73 @@
       "sha1": "fee236dd9fd6a22de1298143c3cd8e8c01cb2d63"
     },
     {
+      "name": "gigharbornow-2022-07-18T10:47:33.030885-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658166456",
+      "size": "25317",
+      "md5": "054e4ac8a8f9adc9b76f9355bf7c4e48",
+      "crc32": "a57beac9",
+      "sha1": "c57cd04dcb01b9fddfeb6b8775456fa5bac66564",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-07-18T10:47:33.030885-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658166458",
+      "size": "28371",
+      "md5": "ff726b022c089f05e86bf60e64a6ed34",
+      "crc32": "e41aae98",
+      "sha1": "f09c7d9d0d552330bd748f02e523dfeca6b91f5c",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-07-18T10:47:33.030885-07:00.jpg",
+      "source": "original",
+      "mtime": "1658166455",
+      "size": "128157",
+      "md5": "e8a8739f7a04850f47876fb9618f9fd8",
+      "crc32": "030870b2",
+      "sha1": "e5f75e654af241b16dfe08daf6f935bdec6a71dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gigharbornow-2022-07-18T10:47:33.030885-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gigharbornow-2022-07-18T10:47:33.030885-07:00.jpg",
+      "mtime": "1658169860",
+      "size": "7348",
+      "md5": "e925497722da8d97ed12bc9ca38ecb32",
+      "crc32": "fc7119a7",
+      "sha1": "558039615ef0d8805a67ccfb3ba6ea7e4429ae01"
+    },
+    {
       "name": "gigharbornow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6896a582641daee83006db74a0f7f8f6c873cfeb",
-      "mtime": "1658111587",
-      "size": "17901",
-      "md5": "47a190f1d1f1f4062cb4c3b75588ee64",
-      "crc32": "eceb2bdb",
-      "sha1": "cd9c0d6827d2fd5086f10e4c33320de6570db10f",
+      "btih": "30e733f18c6bb64a1f5a6641cdeb1377fb0ef774",
+      "mtime": "1658169914",
+      "size": "18746",
+      "md5": "dd66788f1875b9bed8e8e188f1f27406",
+      "crc32": "7221a1ee",
+      "sha1": "6f3c160027e746183d6cd6ac32ca70fd81e6d253",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gigharbornow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ade79042c53f28f62494d9fe0e9d3c3",
+      "md5": "f0c016fc6c981820d4045ae4bb6a7cd1",
       "summation": "md5"
     },
     {
       "name": "gigharbornow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658110941",
-      "size": "106496",
-      "md5": "eb26485ebe2d625bf3c08c757c5a13a8",
-      "crc32": "dca3ff6a",
-      "sha1": "f481602e87a2a26669f4fc518b8366fe9b8566ab",
+      "mtime": "1658166465",
+      "size": "110592",
+      "md5": "ad808d51fcff7852024b9f3fdaddbfbf",
+      "crc32": "eb753a6d",
+      "sha1": "a6ff8e3585fdc66b1e37b04ec67142b17c5adc67",
       "format": "Metadata"
     },
     {
@@ -852,7 +894,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 81,
+  "files_count": 85,
   "gigharbornow-2022": [
     {
       "text": "\n\n\n\n\n\n\n\n\n\n",
@@ -1747,8 +1789,8 @@
       "url": "#"
     }
   ],
-  "item_last_updated": 1658111587,
-  "item_size": 4774750,
+  "item_last_updated": 1658169914,
+  "item_size": 4968884,
   "metadata": {
     "identifier": "gigharbornow-2022",
     "collection": [
@@ -1765,10 +1807,10 @@
     "publicdate": "2022-07-09 03:58:50",
     "addeddate": "2022-07-09 03:58:50"
   },
-  "server": "ia902508.us.archive.org",
-  "uniq": 1760667993,
+  "server": "ia802508.us.archive.org",
+  "uniq": 482203059,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }

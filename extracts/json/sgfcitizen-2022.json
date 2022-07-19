@@ -1,5 +1,5 @@
 {
-  "created": 1658146770,
+  "created": 1658190522,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/sgfcitizen-2022",
@@ -814,31 +814,73 @@
       "sha1": "fb55a884d2c5e6d8f431ad2ea1a2e41d7eb0752b"
     },
     {
+      "name": "sgfcitizen-2022-07-18T13:04:02.303600-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658167446",
+      "size": "30208",
+      "md5": "30c94ce949fa7d82db06dd9f46bbd360",
+      "crc32": "53ccc683",
+      "sha1": "802fa309121e99bbc387fab367b388f3ca4a30d0",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-07-18T13:04:02.303600-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658167448",
+      "size": "33218",
+      "md5": "2fd5493791b04587f9bae93654a09808",
+      "crc32": "e28206d0",
+      "sha1": "6bd726e748c21ac7e8c6ace432e798b37f720a8b",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-07-18T13:04:02.303600-05:00.jpg",
+      "source": "original",
+      "mtime": "1658167444",
+      "size": "266949",
+      "md5": "d005b070df339ec34df9661b5e524230",
+      "crc32": "c06e7478",
+      "sha1": "8a57dc06ba1b9aa14f7697ea161434cc3215be8c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sgfcitizen-2022-07-18T13:04:02.303600-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sgfcitizen-2022-07-18T13:04:02.303600-05:00.jpg",
+      "mtime": "1658171643",
+      "size": "9346",
+      "md5": "4800563ffcdbc9d10ed86c3349ac185a",
+      "crc32": "a928f4c2",
+      "sha1": "5ed1aaf66160d5eb054276ed630ac81a32e21d12"
+    },
+    {
       "name": "sgfcitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e5c40338b1216edc7725e333d2f30b4268d91fb",
-      "mtime": "1658119219",
-      "size": "17814",
-      "md5": "d601b3d7fd796dd3343529178699a8bc",
-      "crc32": "edc1afa7",
-      "sha1": "04ade79396161bbf1df7ff4a724cd58ddf435ea6",
+      "btih": "b335ac0563322c36038e8d5fddb3ff9f1c4c4ee0",
+      "mtime": "1658171681",
+      "size": "18671",
+      "md5": "010af8bedbd2f933a2c4c10b5af3d01b",
+      "crc32": "8df26221",
+      "sha1": "1373519574c08eee7d6ee195f9c16807f3793688",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sgfcitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "82357743cde2e2e49f885dae9895e865",
+      "md5": "0d2fd66abf3ddc41765b748237cfd446",
       "summation": "md5"
     },
     {
       "name": "sgfcitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658117705",
-      "size": "106496",
-      "md5": "6ce9372f779cf3d53e65389a8e47c592",
-      "crc32": "481c5250",
-      "sha1": "ed216f4f9b64863e7de3ae24d9b5064ac40c2517",
+      "mtime": "1658167452",
+      "size": "110592",
+      "md5": "fde8e5dbbbde0dc24c2d59bca73fcd21",
+      "crc32": "1c47d274",
+      "sha1": "edf0133f82ba30d057af6f430f2f7e36a736fef3",
       "format": "Metadata"
     },
     {
@@ -852,9 +894,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 81,
-  "item_last_updated": 1658119219,
-  "item_size": 7054545,
+  "files_count": 85,
+  "item_last_updated": 1658171681,
+  "item_size": 7399219,
   "metadata": {
     "identifier": "sgfcitizen-2022",
     "collection": [
@@ -1199,7 +1241,19 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sgfcitizen.org/health/when-a-911-dispatcher-sends-overdose-alert-springfield-responds-at-a-cost/"
+      "url": "https://sgfcitizen.org/springfield-government/springfield-elections-citizen-participation/who-will-you-vote-for-to-represent-district-137-thomas-barr-or-darin-chappell/"
+    },
+    {
+      "text": "Who will you vote for to represent District 137: Thomas Barr or Darin Chappell?",
+      "url": "https://sgfcitizen.org/springfield-government/springfield-elections-citizen-participation/who-will-you-vote-for-to-represent-district-137-thomas-barr-or-darin-chappell/"
+    },
+    {
+      "text": "",
+      "url": "https://sgfcitizen.org/author/jmcgee/"
+    },
+    {
+      "text": "Jack McGee",
+      "url": "https://sgfcitizen.org/author/jmcgee/"
     },
     {
       "text": "When a 911 dispatcher sends \u2018overdose alert,\u2019 Springfield responds \u2014 at a cost",
@@ -1214,60 +1268,48 @@
       "url": "https://sgfcitizen.org/author/kathleen-odell/"
     },
     {
-      "text": "Blue lips and frenzied 911 calls: Springfield\u2019s growing opioid obsession plagues city",
-      "url": "https://sgfcitizen.org/health/blue-lips-and-frenzied-911-calls-springfields-growing-opioid-obsession-plagues-city/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sgfcitizen.org/springfield-government/springfield-greene-county/springfield-city-council-considers-3-6m-upgrade-for-sewage-plant/"
     },
     {
-      "text": "",
-      "url": "https://sgfcitizen.org/author/kathleen-odell/"
+      "text": "Springfield City Council considers $3.6M upgrade for sewage plant",
+      "url": "https://sgfcitizen.org/springfield-government/springfield-greene-county/springfield-city-council-considers-3-6m-upgrade-for-sewage-plant/"
     },
     {
-      "text": "Kathleen O'Dell",
-      "url": "https://sgfcitizen.org/author/kathleen-odell/"
+      "text": "Rance Burger",
+      "url": "https://sgfcitizen.org/author/rburger/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sgfcitizen.org/springfield-mo-life/springfield-outdoors-recreation/a-whitewater-kayak-park-at-lake-springfield-maybe/"
+      "url": "https://sgfcitizen.org/health/greene-county-has-an-opioid-crisis-so-when-will-the-states-drug-monitoring-program-launch/"
     },
     {
-      "text": "A whitewater kayak park at Lake Springfield? Maybe\u2026",
-      "url": "https://sgfcitizen.org/springfield-mo-life/springfield-outdoors-recreation/a-whitewater-kayak-park-at-lake-springfield-maybe/"
+      "text": "Greene County has an opioid crisis. So when will the state\u2019s drug monitoring program launch?",
+      "url": "https://sgfcitizen.org/health/greene-county-has-an-opioid-crisis-so-when-will-the-states-drug-monitoring-program-launch/"
     },
     {
-      "text": "Wes Johnson",
-      "url": "https://sgfcitizen.org/author/wes-johnson-contributor/"
+      "text": "Jack McGee",
+      "url": "https://sgfcitizen.org/author/jmcgee/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sgfcitizen.org/springfield-sports/speedy-mike-antico-racing-his-way-up-the-cardinals-ladder/"
-    },
-    {
-      "text": "Speedy Mike Antico racing his way up the Cardinals\u2019 ladder",
-      "url": "https://sgfcitizen.org/springfield-sports/speedy-mike-antico-racing-his-way-up-the-cardinals-ladder/"
-    },
-    {
-      "text": "Lyndal Scranton",
-      "url": "https://sgfcitizen.org/author/lyndal-scranton-contributor/"
-    },
-    {
-      "text": "document.querySelector('a#bad827kjbr4000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', 'https://ad.broadstreetads.com/click/509486/c386948/z94232?', true);\n    xmlhttp.send();\n})",
-      "url": "https://www.cfozarks.org/what-we-do?utm_source=sdc&utm_medium=box&utm_id=001"
+      "text": "document.querySelector('a#bu3vnp2uscg000000').addEventListener('click', function () {\n    var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');\n    xmlhttp.open('GET', 'https://ad.broadstreetads.com/click/445159/c347235/z94232?', true);\n    xmlhttp.send();\n})",
+      "url": "https://www.mattaxneuprater.com/cataracts/"
     },
     {
       "text": "Answer Man: What's going on at the Pensmore Mansion?",
       "url": "https://sgfcitizen.org/springfield-mo-life/steve-pokin-columns/answer-man-whats-going-on-at-the-pensmore-mansion/"
     },
     {
-      "text": "Someone planted hundreds of sunflowers on an empty Downtown Springfield lot",
-      "url": "https://sgfcitizen.org/springfield-mo-life/someone-planted-hundreds-of-sunflowers-on-an-empty-downtown-springfield-lot/"
-    },
-    {
       "text": "Why Springfield residents are steamed about 7 Brew's coffee shop drive-thru",
       "url": "https://sgfcitizen.org/springfield-government/springfield-greene-county/why-springfield-residents-are-steamed-about-7-brews-coffee-shop-drive-thru/"
     },
     {
-      "text": "A whitewater kayak park at Lake Springfield? Maybe...",
-      "url": "https://sgfcitizen.org/springfield-mo-life/springfield-outdoors-recreation/a-whitewater-kayak-park-at-lake-springfield-maybe/"
+      "text": "Someone planted hundreds of sunflowers on an empty Downtown Springfield lot",
+      "url": "https://sgfcitizen.org/springfield-mo-life/someone-planted-hundreds-of-sunflowers-on-an-empty-downtown-springfield-lot/"
+    },
+    {
+      "text": "U.S. Senate campaign: Kunce, Schmitt lead pack as money pours into race",
+      "url": "https://sgfcitizen.org/springfield-government/springfield-elections-citizen-participation/u-s-senate-campaign-money-pours-into-candidate-and-independent-funds/"
     },
     {
       "text": "Blue lips and frenzied 911 calls: Springfield's growing opioid obsession plagues city",
@@ -1280,6 +1322,18 @@
     {
       "text": "latest news",
       "url": "https://sgfcitizen.org/tag/top-stories/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sgfcitizen.org/springfield-government/springfield-elections-citizen-participation/u-s-senate-campaign-money-pours-into-candidate-and-independent-funds/"
+    },
+    {
+      "text": "U.S. Senate campaign: Kunce, Schmitt lead pack as money pours into race",
+      "url": "https://sgfcitizen.org/springfield-government/springfield-elections-citizen-participation/u-s-senate-campaign-money-pours-into-candidate-and-independent-funds/"
+    },
+    {
+      "text": "David Stoeffler",
+      "url": "https://sgfcitizen.org/author/dstoeffler/"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -1307,11 +1361,31 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "url": "https://sgfcitizen.org/springfield-sports/speedy-mike-antico-racing-his-way-up-the-cardinals-ladder/"
+    },
+    {
+      "text": "Speedy Mike Antico racing his way up the Cardinals\u2019 ladder",
+      "url": "https://sgfcitizen.org/springfield-sports/speedy-mike-antico-racing-his-way-up-the-cardinals-ladder/"
+    },
+    {
+      "text": "Lyndal Scranton",
+      "url": "https://sgfcitizen.org/author/lyndal-scranton-contributor/"
+    },
+    {
+      "text": "SPRINGFIELD LIFE",
+      "url": "https://sgfcitizen.org/category/springfield-mo-life/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "url": "https://sgfcitizen.org/springfield-mo-life/steve-pokin-columns/pokin-around-moxie-to-show-flying-greek-film-about-local-jeweler-who-was-once-a-pro-wrestler/"
     },
     {
       "text": "Pokin Around: Moxie to show \u2018Flying Greek\u2019 film about local jeweler who was once a pro wrestler",
       "url": "https://sgfcitizen.org/springfield-mo-life/steve-pokin-columns/pokin-around-moxie-to-show-flying-greek-film-about-local-jeweler-who-was-once-a-pro-wrestler/"
+    },
+    {
+      "text": "",
+      "url": "https://sgfcitizen.org/author/spokin/"
     },
     {
       "text": "Steve Pokin",
@@ -1326,44 +1400,12 @@
       "url": "https://sgfcitizen.org/springfield-mo-life/springfield-arts-culture/glo-centers-art-gallery-open-house-debuts-this-weekend/"
     },
     {
-      "text": "Abigail Zajac",
-      "url": "https://sgfcitizen.org/author/abigail-zajac/"
-    },
-    {
-      "text": "SPRINGFIELD LIFE",
-      "url": "https://sgfcitizen.org/category/springfield-mo-life/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sgfcitizen.org/springfield-mo-life/someone-planted-hundreds-of-sunflowers-on-an-empty-downtown-springfield-lot/"
-    },
-    {
-      "text": "Someone planted hundreds of sunflowers on an empty Downtown Springfield lot",
-      "url": "https://sgfcitizen.org/springfield-mo-life/someone-planted-hundreds-of-sunflowers-on-an-empty-downtown-springfield-lot/"
-    },
-    {
       "text": "",
       "url": "https://sgfcitizen.org/author/abigail-zajac/"
     },
     {
       "text": "Abigail Zajac",
       "url": "https://sgfcitizen.org/author/abigail-zajac/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sgfcitizen.org/springfield-mo-life/springfield-arts-culture/springfield-contemporary-theatre-announces-27th-season/"
-    },
-    {
-      "text": "Springfield Contemporary Theatre announces 27th season",
-      "url": "https://sgfcitizen.org/springfield-mo-life/springfield-arts-culture/springfield-contemporary-theatre-announces-27th-season/"
-    },
-    {
-      "text": "",
-      "url": "https://sgfcitizen.org/author/jkessinger/"
-    },
-    {
-      "text": "Jeff Kessinger",
-      "url": "https://sgfcitizen.org/author/jkessinger/"
     },
     {
       "text": "SCHOOLS  & CHILDREN",
@@ -1531,15 +1573,15 @@
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://sgfcitizen.org/springfield-government/unsheltered-and-sleeping-on-public-land-pay-up-new-law-says/"
+      "url": "https://sgfcitizen.org/health/blue-lips-and-frenzied-911-calls-springfields-growing-opioid-obsession-plagues-city/"
     },
     {
-      "text": "Unsheltered and sleeping on public land? Pay up, new law says",
-      "url": "https://sgfcitizen.org/springfield-government/unsheltered-and-sleeping-on-public-land-pay-up-new-law-says/"
+      "text": "Blue lips and frenzied 911 calls: Springfield\u2019s growing opioid obsession plagues city",
+      "url": "https://sgfcitizen.org/health/blue-lips-and-frenzied-911-calls-springfields-growing-opioid-obsession-plagues-city/"
     },
     {
-      "text": "Jack McGee",
-      "url": "https://sgfcitizen.org/author/jmcgee/"
+      "text": "Kathleen O'Dell",
+      "url": "https://sgfcitizen.org/author/kathleen-odell/"
     },
     {
       "text": "Lives remembered",
@@ -1826,7 +1868,7 @@
       "url": "https://sgfcitizen.org/privacy-policy/"
     }
   ],
-  "uniq": 659389955,
+  "uniq": 2073744576,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

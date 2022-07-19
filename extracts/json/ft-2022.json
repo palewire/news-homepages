@@ -1,5 +1,5 @@
 {
-  "created": 1658138425,
+  "created": 1658190184,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/17/items/ft-2022",
@@ -11990,31 +11990,73 @@
       "sha1": "35dcff0fa937097838782fea9039945e87b2b6f7"
     },
     {
+      "name": "ft-2022-07-18T18:47:28.294796+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658166460",
+      "size": "39541",
+      "md5": "8b61bfa3301d92728b2f3f634bee0011",
+      "crc32": "07f8a910",
+      "sha1": "9a214582531db28da6c60ef36a0a2dc3d595af7c",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-18T18:47:28.294796+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658166462",
+      "size": "52008",
+      "md5": "b6ddb83d9913a18482dde80841ee8e93",
+      "crc32": "fc8fcaed",
+      "sha1": "c0f407642af0afee924bd4b40370984a26d106ae",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-18T18:47:28.294796+01:00.jpg",
+      "source": "original",
+      "mtime": "1658166453",
+      "size": "313062",
+      "md5": "6cfc21b90a381313873e746f98a0f4bf",
+      "crc32": "0c7e4e89",
+      "sha1": "b5e71726267ed3d1f9852bcf37b5535c019f6be7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-07-18T18:47:28.294796+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-07-18T18:47:28.294796+01:00.jpg",
+      "mtime": "1658169884",
+      "size": "10337",
+      "md5": "6fd6f3d44a160b561d70d66d5ca94fe4",
+      "crc32": "2d2f4631",
+      "sha1": "c28110c3a5769f2e4076398d813c18aa0adf0ccc"
+    },
+    {
       "name": "ft-2022_archive.torrent",
       "source": "metadata",
-      "btih": "12875058e9fdec20235d231fe62904053affc424",
-      "mtime": "1658138394",
-      "size": "235423",
-      "md5": "848e1144c7c291ad8d861616a56b2b78",
-      "crc32": "536ebd71",
-      "sha1": "d47dd5c0a7dc1dddabd54ebf440dbfe237e3fb11",
+      "btih": "7e2dd680794a493ec68bd69a6f762836f57f949e",
+      "mtime": "1658169897",
+      "size": "236229",
+      "md5": "386c6f9e5c176125edae68663f77f5c8",
+      "crc32": "5ca35ceb",
+      "sha1": "feb1c560fc255d01798cc7785086542b66e26a4a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ft-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92b472133a5be0dfd5a798301c01e246",
+      "md5": "f1515b991e468bc0bc9f1e003d9acc3f",
       "summation": "md5"
     },
     {
       "name": "ft-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658135775",
-      "size": "1294336",
-      "md5": "48779735849cfc153f57a602f34958b0",
-      "crc32": "c38a897e",
-      "sha1": "bdde43fee63f1b0a4f3ca2d097201c7a9a011d71",
+      "mtime": "1658166466",
+      "size": "1298432",
+      "md5": "0eca19c2c2c936d8255d39de8e9f5820",
+      "crc32": "493a966c",
+      "sha1": "e39542a303d72cb1634f12154fb34144a1927abb",
       "format": "Metadata"
     },
     {
@@ -12028,9 +12070,2123 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1144,
-  "item_last_updated": 1658138394,
-  "item_size": 121883758,
+  "files_count": 1148,
+  "ft-2022": [
+    {
+      "text": "Accessibility help",
+      "url": "https://www.ft.com/accessibility"
+    },
+    {
+      "text": "Skip to navigation",
+      "url": "#site-navigation"
+    },
+    {
+      "text": "Skip to content",
+      "url": "#site-content"
+    },
+    {
+      "text": "Skip to footer",
+      "url": "#site-footer"
+    },
+    {
+      "text": "FTSE 100+0.98%",
+      "url": "https://markets.ft.com/data/indices/tearsheet/summary?s=FTSE:FSI"
+    },
+    {
+      "text": "Euro/Dollar+0.48%",
+      "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=EURUSD"
+    },
+    {
+      "text": "Pound/Dollar+1.07%",
+      "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=GBPUSD"
+    },
+    {
+      "text": "Brent Crude Oil+4.12%",
+      "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=IB.1:IEU"
+    },
+    {
+      "text": "10 Year US Gov-1.25%",
+      "url": "https://markets.ft.com/data/indices/tearsheet/summary?s=JPMUS10YCMY:REU"
+    },
+    {
+      "text": "Visit Markets Data",
+      "url": "https://markets.ft.com/data"
+    },
+    {
+      "text": "cookies",
+      "url": "http://help.ft.com/help/legal-privacy/cookies/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tAccept & continue\n\t\t\t\t\t\t\t\t",
+      "url": "https://consent.ft.com/__consent/consent-record-cookie?redirect=https://www.ft.com"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tManage cookies\n\t\t\t\t\t\t\t\t",
+      "url": "/preferences/manage-cookies"
+    },
+    {
+      "text": "Sign In",
+      "url": "/login?location=/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/products?segmentId=f860e6c2-18af-ab30-cd5e-6e3a456f9265"
+    },
+    {
+      "text": "Open side navigation menu",
+      "url": "#o-header-drawer"
+    },
+    {
+      "text": "Open search bar",
+      "url": "#o-header-search-primary"
+    },
+    {
+      "text": "Financial Times",
+      "url": "/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/products?segmentId=f860e6c2-18af-ab30-cd5e-6e3a456f9265"
+    },
+    {
+      "text": "Sign In",
+      "url": "/login?location=/"
+    },
+    {
+      "text": "myFT",
+      "url": "/myft"
+    },
+    {
+      "text": "See all quotes matching undefined",
+      "url": "https://markets.ft.com/data/search?query=undefined"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "Markets Data",
+      "url": "https://markets.ft.com/data"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "World",
+      "url": "/world"
+    },
+    {
+      "text": "World Home",
+      "url": "/world"
+    },
+    {
+      "text": "Global Economy",
+      "url": "/global-economy"
+    },
+    {
+      "text": "UK",
+      "url": "/world/uk"
+    },
+    {
+      "text": "US",
+      "url": "/world/us"
+    },
+    {
+      "text": "China",
+      "url": "/world/asia-pacific/china"
+    },
+    {
+      "text": "Africa",
+      "url": "/world/africa"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific"
+    },
+    {
+      "text": "Emerging Markets",
+      "url": "/emerging-markets"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe"
+    },
+    {
+      "text": "War in Ukraine",
+      "url": "/war-in-ukraine"
+    },
+    {
+      "text": "Americas",
+      "url": "/world/americas"
+    },
+    {
+      "text": "Middle East & North Africa",
+      "url": "/world/mideast"
+    },
+    {
+      "text": "Australia & NZ",
+      "url": "/australia-newzealand"
+    },
+    {
+      "text": "Volodymyr Zelenskyy fires security chiefs over \u2018treasonous\u2019 officials",
+      "url": "/content/07399198-76d8-4b88-9650-92ae078bf321"
+    },
+    {
+      "text": "Bank of England battle looms over plans for second \u2018Big Bang\u2019",
+      "url": "/content/89c5979f-dda3-49cd-be6d-6f737b067111"
+    },
+    {
+      "text": "Joe Biden\u2019s fist bump belies unease between US and Saudi Arabia",
+      "url": "/content/ebc55f75-5c98-440d-9a45-c32272632350"
+    },
+    {
+      "text": "Met Office raises forecasts as UK prepares to swelter in record temperatures",
+      "url": "/content/c289312d-bfa4-431a-bd0f-c7f8e3c3d265"
+    },
+    {
+      "text": "Mongolia says Russia-China gas pipeline will break ground in 2024",
+      "url": "/content/f0080bf6-5e7d-44be-871f-a5d44dccf5c5"
+    },
+    {
+      "text": "UK",
+      "url": "/world/uk"
+    },
+    {
+      "text": "UK Home",
+      "url": "/world/uk"
+    },
+    {
+      "text": "UK Business & Economy",
+      "url": "/uk-business-economy"
+    },
+    {
+      "text": "UK Politics & Policy",
+      "url": "/world/uk/politics"
+    },
+    {
+      "text": "Brexit",
+      "url": "/brexit"
+    },
+    {
+      "text": "UK Companies",
+      "url": "/companies/uk"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "/personal-finance"
+    },
+    {
+      "text": "Bank of England battle looms over plans for second \u2018Big Bang\u2019",
+      "url": "/content/89c5979f-dda3-49cd-be6d-6f737b067111"
+    },
+    {
+      "text": "Met Office raises forecasts as UK prepares to swelter in record temperatures",
+      "url": "/content/c289312d-bfa4-431a-bd0f-c7f8e3c3d265"
+    },
+    {
+      "text": "Tory candidates united on tough stance towards public sector pay",
+      "url": "/content/511cf752-0ae5-4def-92a1-13fdd9cc5b63"
+    },
+    {
+      "text": "Boris Johnson\u2019s allies step up their attacks on Rishi Sunak",
+      "url": "/content/08f7c219-ee8d-49ac-986b-d719a14f746a"
+    },
+    {
+      "text": "Millions of British public sector workers to be offered 5% pay rise",
+      "url": "/content/e2bfadf9-7339-4086-8f93-919bf123420f"
+    },
+    {
+      "text": "Companies",
+      "url": "/companies"
+    },
+    {
+      "text": "Companies Home",
+      "url": "/companies"
+    },
+    {
+      "text": "Energy",
+      "url": "/companies/energy"
+    },
+    {
+      "text": "Financials",
+      "url": "/companies/financials"
+    },
+    {
+      "text": "Health",
+      "url": "/companies/health"
+    },
+    {
+      "text": "Industrials",
+      "url": "/companies/industrials"
+    },
+    {
+      "text": "Media",
+      "url": "/companies/media"
+    },
+    {
+      "text": "Professional Services",
+      "url": "/companies/professional-services"
+    },
+    {
+      "text": "Retail & Consumer",
+      "url": "/companies/retail-consumer"
+    },
+    {
+      "text": "Tech Sector",
+      "url": "/companies/technology"
+    },
+    {
+      "text": "Telecoms",
+      "url": "/companies/telecoms"
+    },
+    {
+      "text": "Transport",
+      "url": "/companies/transport"
+    },
+    {
+      "text": "Half a trillion dollars wiped from once high-flying fintechs",
+      "url": "/content/338eda46-04e5-46b3-a71d-a429d21c490c"
+    },
+    {
+      "text": "PwC set for record revenues as it rejects audit and consulting split",
+      "url": "/content/8eaa2a28-9b76-477a-9999-a837b2934d44"
+    },
+    {
+      "text": "The Bank of England\u2019s bizarre mortgage decision",
+      "url": "/content/f6c8d623-f800-4d85-95c8-eb37d9a3502f"
+    },
+    {
+      "text": "Starbucks examines sale of its UK business",
+      "url": "/content/bf998a33-d2cf-477b-abbb-bf4fc659cfc5"
+    },
+    {
+      "text": "US defence industry boss calls for clarity on what arms Ukraine needs",
+      "url": "/content/0f987ebb-963b-4702-b3b5-ea0336785bab"
+    },
+    {
+      "text": "Tech",
+      "url": "/technology"
+    },
+    {
+      "text": "Markets",
+      "url": "/markets"
+    },
+    {
+      "text": "Markets Home",
+      "url": "/markets"
+    },
+    {
+      "text": "Alphaville",
+      "url": "/alphaville"
+    },
+    {
+      "text": "Markets Data",
+      "url": "https://markets.ft.com/data"
+    },
+    {
+      "text": "Capital Markets",
+      "url": "/capital-markets"
+    },
+    {
+      "text": "Commodities",
+      "url": "/commodities"
+    },
+    {
+      "text": "Currencies",
+      "url": "/currencies"
+    },
+    {
+      "text": "Equities",
+      "url": "/equities"
+    },
+    {
+      "text": "Fund Management",
+      "url": "/fund-management"
+    },
+    {
+      "text": "Trading",
+      "url": "/ft-trading-room"
+    },
+    {
+      "text": "Moral Money",
+      "url": "/moral-money"
+    },
+    {
+      "text": "ETF Hub",
+      "url": "https://etf.ft.com"
+    },
+    {
+      "text": "Cryptofinance",
+      "url": "/cryptofinance"
+    },
+    {
+      "text": "Live news updates: Scottish consumers could pay less for power under UK electricity proposals",
+      "url": "/content/6821e7c9-9c81-41aa-a82c-3d818b1aaa6e"
+    },
+    {
+      "text": "Sri Lanka opposition leader calls on IMF for \u2018humane\u2019 treatment",
+      "url": "/content/1888e903-ea07-4540-a997-7b0de5501029"
+    },
+    {
+      "text": "Japan struggles with self-regulation during crypto meltdown",
+      "url": "/content/75a05077-6ac8-4365-a8c5-28fc8928b505"
+    },
+    {
+      "text": "China\u2019s growth hopes rest on troubled local government financing vehicles",
+      "url": "/content/046ee12c-d15e-4f75-b66a-bc3a70cd4fc8"
+    },
+    {
+      "text": "The great squeeze",
+      "url": "/content/c6754739-9c2e-4854-b568-435ab2d1e529"
+    },
+    {
+      "text": "Climate",
+      "url": "/climate-capital"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion"
+    },
+    {
+      "text": "Opinion Home",
+      "url": "/opinion"
+    },
+    {
+      "text": "Columnists",
+      "url": "/columnists"
+    },
+    {
+      "text": "The FT View",
+      "url": "/ft-view"
+    },
+    {
+      "text": "The Big Read",
+      "url": "/the-big-read"
+    },
+    {
+      "text": "Lex",
+      "url": "/lex"
+    },
+    {
+      "text": "Obituaries",
+      "url": "/obituaries"
+    },
+    {
+      "text": "Letters",
+      "url": "/letters"
+    },
+    {
+      "text": "The Bank of England\u2019s bizarre mortgage decision",
+      "url": "/content/f6c8d623-f800-4d85-95c8-eb37d9a3502f"
+    },
+    {
+      "text": "Here\u2019s how to solve the productivity paradox",
+      "url": "/content/1c7bba9f-4e01-4e54-921b-198369f25950"
+    },
+    {
+      "text": "Personal branding: we may cringe, but it works\u2009",
+      "url": "/content/6b618766-9ced-4826-b6e7-e63c14c9923e"
+    },
+    {
+      "text": "A German gas crisis will cause jitters across Europe",
+      "url": "/content/3458db6f-66f2-48ee-b344-0d1930204b07"
+    },
+    {
+      "text": "China\u2019s zero-Covid policy has damaged its stock of global talent",
+      "url": "/content/fef5a71d-8a19-4f65-804e-42bfb02af083"
+    },
+    {
+      "text": "Work & Careers",
+      "url": "/work-careers"
+    },
+    {
+      "text": "Work & Careers Home",
+      "url": "/work-careers"
+    },
+    {
+      "text": "Business School Rankings",
+      "url": "https://rankings.ft.com/"
+    },
+    {
+      "text": "Business Education",
+      "url": "/business-education"
+    },
+    {
+      "text": "Entrepreneurship",
+      "url": "/entrepreneurship"
+    },
+    {
+      "text": "Recruitment",
+      "url": "/recruitment"
+    },
+    {
+      "text": "Business Books",
+      "url": "/business-books"
+    },
+    {
+      "text": "Business Travel",
+      "url": "/business-travel"
+    },
+    {
+      "text": "Corinne Le Qu\u00e9r\u00e9: \u2018Could we just adapt to climate change? The answer is no\u2019",
+      "url": "/content/94475cf3-df95-41bf-bef4-06e76a4df7df"
+    },
+    {
+      "text": "Personal branding: we may cringe, but it works\u2009",
+      "url": "/content/6b618766-9ced-4826-b6e7-e63c14c9923e"
+    },
+    {
+      "text": "Cut the meetings, make more friends",
+      "url": "/content/c95da4e0-ecd3-4f4d-9faa-ac2a3dc4fc15"
+    },
+    {
+      "text": "Why an executive coach is now a must-have for CEOs ",
+      "url": "/content/5f734f71-5e84-4771-b267-589359b812c7"
+    },
+    {
+      "text": "FT business books: what to read this month",
+      "url": "/content/db769ad8-79ed-4097-97c7-637496f5da0b"
+    },
+    {
+      "text": "Life & Arts",
+      "url": "/life-arts"
+    },
+    {
+      "text": "Life & Arts Home",
+      "url": "/life-arts"
+    },
+    {
+      "text": "Arts",
+      "url": "/arts"
+    },
+    {
+      "text": "Books",
+      "url": "/books"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "/food-drink"
+    },
+    {
+      "text": "FT Magazine",
+      "url": "/magazine"
+    },
+    {
+      "text": "House & Home",
+      "url": "/house-home"
+    },
+    {
+      "text": "Style",
+      "url": "/style"
+    },
+    {
+      "text": "Travel",
+      "url": "/travel"
+    },
+    {
+      "text": "FT Globetrotter",
+      "url": "/globetrotter"
+    },
+    {
+      "text": "A new \u2018miracle\u2019 weight-loss drug really works \u2014 raising huge questions",
+      "url": "/content/96a61dc0-249a-4e4e-96a2-2b6a382b7a3b"
+    },
+    {
+      "text": "I earn \u00a310.71 an hour. Here\u2019s what the cost of living crisis has been like",
+      "url": "/content/af633a2e-3e46-4eaa-9173-167b87dc8c3e"
+    },
+    {
+      "text": "Why CEOs are so WTF about WFH",
+      "url": "/content/8a3f1fa7-8c0c-4068-b0d9-f12c84f0b8d6"
+    },
+    {
+      "text": "Which second-hand sports car should you buy? ",
+      "url": "/content/43c9d7c9-9b9b-4cf0-ba71-92b428dfab65"
+    },
+    {
+      "text": "A gustatory trip to Paris with chef Ollie Dabbous",
+      "url": "/content/a4031bc2-2954-4ced-8192-89e189190741"
+    },
+    {
+      "text": "HTSI",
+      "url": "/htsi"
+    },
+    {
+      "text": "Menu",
+      "url": "#"
+    },
+    {
+      "text": "Search",
+      "url": "#"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "World",
+      "url": "/world"
+    },
+    {
+      "text": "UK",
+      "url": "/world/uk"
+    },
+    {
+      "text": "Companies",
+      "url": "/companies"
+    },
+    {
+      "text": "Tech",
+      "url": "/technology"
+    },
+    {
+      "text": "Markets",
+      "url": "/markets"
+    },
+    {
+      "text": "Climate",
+      "url": "/climate-capital"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion"
+    },
+    {
+      "text": "Work & Careers",
+      "url": "/work-careers"
+    },
+    {
+      "text": "Life & Arts",
+      "url": "/life-arts"
+    },
+    {
+      "text": "HTSI",
+      "url": "/htsi"
+    },
+    {
+      "text": "Financial Times",
+      "url": "/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/products?segmentId=f860e6c2-18af-ab30-cd5e-6e3a456f9265"
+    },
+    {
+      "text": "Sign In",
+      "url": "/login?location=/"
+    },
+    {
+      "text": "See all quotes matching undefined",
+      "url": "https://markets.ft.com/data/search?query=undefined"
+    },
+    {
+      "text": "Start a 4-week trial",
+      "url": "https://subs.ft.com/sd33_ddd?segmentid=61895f85-b88c-ba04-7a0a-b3ca54c20651"
+    },
+    {
+      "text": "Goldman Sachs Group",
+      "url": "https://www.ft.com/stream/980562d6-2db0-4b25-a349-b83d4b86bea7"
+    },
+    {
+      "text": "Goldman Sachs traders help profits beat forecast as dealmaking slumps",
+      "url": "/content/5c0c341f-6a02-4996-9b6c-e927e69273ea"
+    },
+    {
+      "text": "Wall Street bank\u2019s second-quarter net income falls 47% as revenues decline",
+      "url": "/content/5c0c341f-6a02-4996-9b6c-e927e69273ea"
+    },
+    {
+      "text": "BofA profits hit by dealmaking slump",
+      "url": "/content/188aceb2-adaf-41f5-a218-d23c92e6401d"
+    },
+    {
+      "text": "",
+      "url": "/content/0a917386-7a62-4e4a-9b89-123933f750a6"
+    },
+    {
+      "text": "EU defence",
+      "url": "https://www.ft.com/stream/292346d7-940c-4d17-850b-328300f192ce"
+    },
+    {
+      "text": "The Big Read. Europe\u2019s defence sector: will war in Ukraine transform\u00a0its fortunes?",
+      "url": "/content/0a917386-7a62-4e4a-9b89-123933f750a6"
+    },
+    {
+      "text": "",
+      "url": "/content/1d95f26b-10ae-4104-8f6e-8f9c2a904ab1"
+    },
+    {
+      "text": "Property developers bet on City of London\u2019s appeal with new towers",
+      "url": "/content/1d95f26b-10ae-4104-8f6e-8f9c2a904ab1"
+    },
+    {
+      "text": " opinion content.\u00a0Here\u2019s how to solve the productivity paradox",
+      "url": "/content/1c7bba9f-4e01-4e54-921b-198369f25950"
+    },
+    {
+      "text": "Ruchir Sharma",
+      "url": "https://www.ft.com/ruchir-sharma"
+    },
+    {
+      "text": "",
+      "url": "/content/6821e7c9-9c81-41aa-a82c-3d818b1aaa6e"
+    },
+    {
+      "text": "FT live news",
+      "url": "https://www.ft.com/stream/71da3673-1793-4e83-a4b1-2d08639fe0f6"
+    },
+    {
+      "text": "Live news updates: EU to double gas deliveries from Azerbaijan in effort to cut reliance on Russia",
+      "url": "/content/6821e7c9-9c81-41aa-a82c-3d818b1aaa6e"
+    },
+    {
+      "text": " markets content.\u00a0Markets Briefing. Stocks turn higher as traders scale back US rate rise expectations",
+      "url": "/content/8e43c455-e8d3-484f-afff-d7d6e8f6a8da"
+    },
+    {
+      "text": "",
+      "url": "/content/338eda46-04e5-46b3-a71d-a429d21c490c"
+    },
+    {
+      "text": "Fintech",
+      "url": "https://www.ft.com/fintech"
+    },
+    {
+      "text": "Half a trillion dollars wiped from once high-flying fintechs",
+      "url": "/content/338eda46-04e5-46b3-a71d-a429d21c490c"
+    },
+    {
+      "text": "Digital companies that boomed during lockdowns hit by fears they cannot withstand a recession",
+      "url": "/content/338eda46-04e5-46b3-a71d-a429d21c490c"
+    },
+    {
+      "text": "",
+      "url": "/content/2dfa5e56-5761-4b78-bf8f-abf185503e92"
+    },
+    {
+      "text": "Conservative Party UK",
+      "url": "https://www.ft.com/conservative-party-uk"
+    },
+    {
+      "text": "Tory leadership TV debate cancelled after Sunak and Truss pull out",
+      "url": "/content/2dfa5e56-5761-4b78-bf8f-abf185503e92"
+    },
+    {
+      "text": "Withdrawals follow concerns that previous debates have exposed deep divisions between the candidates",
+      "url": "/content/2dfa5e56-5761-4b78-bf8f-abf185503e92"
+    },
+    {
+      "text": "Inside Politics. Race on the right fires up as Badenoch battles Truss",
+      "url": "/content/1f9e5d8e-2a65-49d3-ad79-e2fa6e9c3694"
+    },
+    {
+      "text": "",
+      "url": "/content/75f6ba16-d259-45f3-b6c3-b15ba9f53e92"
+    },
+    {
+      "text": "Binance",
+      "url": "https://www.ft.com/stream/d6493bab-a6ad-4150-a1df-9ed2fda224df"
+    },
+    {
+      "text": "Dutch central bank fines Binance in blow to exchange\u2019s European push",
+      "url": "/content/75f6ba16-d259-45f3-b6c3-b15ba9f53e92"
+    },
+    {
+      "text": "Regulators say sprawling crypto platform offered services in the Netherlands without proper permissions",
+      "url": "/content/75f6ba16-d259-45f3-b6c3-b15ba9f53e92"
+    },
+    {
+      "text": "Climate change",
+      "url": "https://www.ft.com/stream/24ad2c58-14fb-4217-b6f7-7ef88ac51375"
+    },
+    {
+      "text": "The Henry Mance Interview. Corinne Le Qu\u00e9r\u00e9: \u2018Could we just adapt to climate change? The answer is no\u2019",
+      "url": "/content/94475cf3-df95-41bf-bef4-06e76a4df7df"
+    },
+    {
+      "text": "The Canadian-born climate scientist stays cool as politicians fail to act, saying we have the solutions we need \u2014 we just have to use them",
+      "url": "/content/94475cf3-df95-41bf-bef4-06e76a4df7df"
+    },
+    {
+      "text": "",
+      "url": "/content/94475cf3-df95-41bf-bef4-06e76a4df7df"
+    },
+    {
+      "text": "",
+      "url": "/content/07df3f2e-6991-4842-a047-41f2b6fb853d"
+    },
+    {
+      "text": "Germany",
+      "url": "https://www.ft.com/topics/places/Germany"
+    },
+    {
+      "text": "News in-depth. Russian gas cuts threaten to shutter Germany industry",
+      "url": "/content/07df3f2e-6991-4842-a047-41f2b6fb853d"
+    },
+    {
+      "text": "Many industrial companies have few options, if supplies dwindle or Moscow halts all flows",
+      "url": "/content/07df3f2e-6991-4842-a047-41f2b6fb853d"
+    },
+    {
+      "text": "",
+      "url": "/content/89c5979f-dda3-49cd-be6d-6f737b067111"
+    },
+    {
+      "text": "UK financial regulation",
+      "url": "https://www.ft.com/stream/da459607-5dad-4189-bccf-a74189ec8155"
+    },
+    {
+      "text": "Bank of England battle looms over plans for second \u2018Big Bang\u2019",
+      "url": "/content/89c5979f-dda3-49cd-be6d-6f737b067111"
+    },
+    {
+      "text": "Sunak and Zahawi back bill ditching EU rules and allowing ministers to question regulatory decisions",
+      "url": "/content/89c5979f-dda3-49cd-be6d-6f737b067111"
+    },
+    {
+      "text": " opinion content.\u00a0Inside Business. The Bank of England\u2019s bizarre mortgage decision",
+      "url": "/content/f6c8d623-f800-4d85-95c8-eb37d9a3502f"
+    },
+    {
+      "text": "Patrick Jenkins",
+      "url": "https://www.ft.com/patrick-jenkins"
+    },
+    {
+      "text": "",
+      "url": "/content/c289312d-bfa4-431a-bd0f-c7f8e3c3d265"
+    },
+    {
+      "text": "Met Office UK",
+      "url": "https://www.ft.com/stream/d50abf74-3ea5-4a37-97a7-f4f13f19c3d5"
+    },
+    {
+      "text": "Met Office raises forecasts as UK prepares to swelter in record temperatures",
+      "url": "/content/c289312d-bfa4-431a-bd0f-c7f8e3c3d265"
+    },
+    {
+      "text": "London and south-east under red warning with disruptions to travel, hospitals and schools expected",
+      "url": "/content/c289312d-bfa4-431a-bd0f-c7f8e3c3d265"
+    },
+    {
+      "text": "Where do Tory candidates stand on UK\u2019s net zero pledge?",
+      "url": "/content/7985a47e-2eb1-4d3b-8ad3-ac35c511e10c"
+    },
+    {
+      "text": "",
+      "url": "/content/07399198-76d8-4b88-9650-92ae078bf321"
+    },
+    {
+      "text": "War in Ukraine",
+      "url": "https://www.ft.com/war-in-ukraine"
+    },
+    {
+      "text": "Zelenskyy fires security chiefs over \u2018treasonous\u2019 officials",
+      "url": "/content/07399198-76d8-4b88-9650-92ae078bf321"
+    },
+    {
+      "text": "Head of SBU and chief prosecutor sacked after scores of staff accused of working alongside Russian forces",
+      "url": "/content/07399198-76d8-4b88-9650-92ae078bf321"
+    },
+    {
+      "text": "EU\u2019s chief diplomat expects Ukraine grain deal \u2018this week\u2019 to unblock supplies ",
+      "url": "/content/3ba433da-60e1-4849-8646-4945487e0f3a"
+    },
+    {
+      "text": "Central banks embrace big rises to bolster currencies and fight inflation",
+      "url": "/content/d189b2f2-808a-4a9b-a856-234181f98c2f"
+    },
+    {
+      "text": "Zelenskyy fires security chiefs over \u2018treasonous\u2019 officials",
+      "url": "/content/07399198-76d8-4b88-9650-92ae078bf321"
+    },
+    {
+      "text": "Bank of England battle looms over plans for second \u2018Big Bang\u2019",
+      "url": "/content/89c5979f-dda3-49cd-be6d-6f737b067111"
+    },
+    {
+      "text": "The sultan, his family and a $15bn dispute over oil in Malaysia   ",
+      "url": "/content/0f4b655d-ef28-446a-8e3c-37090ef138da"
+    },
+    {
+      "text": " opinion content.\u00a0Personal branding: we may cringe, but it works\u2009",
+      "url": "/content/6b618766-9ced-4826-b6e7-e63c14c9923e"
+    },
+    {
+      "text": "",
+      "url": "/content/d992dcfb-3809-4a0f-aac4-beb381056f6e"
+    },
+    {
+      "text": "Grant Thornton UK LLP",
+      "url": "https://www.ft.com/stream/ec2e9db3-5230-4542-bb9a-098c6dafecda"
+    },
+    {
+      "text": "Grant Thornton fined for \u2018serious failings\u2019 in Sports Direct audits",
+      "url": "/content/d992dcfb-3809-4a0f-aac4-beb381056f6e"
+    },
+    {
+      "text": "Auditor and former partner receive severe reprimands over their handling of financial inspections",
+      "url": "/content/d992dcfb-3809-4a0f-aac4-beb381056f6e"
+    },
+    {
+      "text": "",
+      "url": "/content/8eaa2a28-9b76-477a-9999-a837b2934d44"
+    },
+    {
+      "text": "PwC",
+      "url": "https://www.ft.com/stream/16467d92-aef7-43f1-a843-d3de1b94c59f"
+    },
+    {
+      "text": "PwC set for record revenues as it rejects audit and consulting split",
+      "url": "/content/8eaa2a28-9b76-477a-9999-a837b2934d44"
+    },
+    {
+      "text": "Global chief Bob Moritz says the benefits of keeping the divisions together are greater than the risks ",
+      "url": "/content/8eaa2a28-9b76-477a-9999-a837b2934d44"
+    },
+    {
+      "text": "",
+      "url": "/content/202ae637-4454-4763-a601-719df87f8105"
+    },
+    {
+      "text": "GAM Holding AG",
+      "url": "https://www.ft.com/stream/61bca953-2979-4986-8f8d-2e180af01061"
+    },
+    {
+      "text": "Swiss investment group GAM issues profit warning",
+      "url": "/content/202ae637-4454-4763-a601-719df87f8105"
+    },
+    {
+      "text": "Assets under management drop 17% following market fallout from war in Ukraine",
+      "url": "/content/202ae637-4454-4763-a601-719df87f8105"
+    },
+    {
+      "text": "",
+      "url": "/content/806732c5-0f90-4270-8571-6a28a376f445"
+    },
+    {
+      "text": "Direct Line issues profit warning as inflation pushes up claims costs ",
+      "url": "/content/806732c5-0f90-4270-8571-6a28a376f445"
+    },
+    {
+      "text": "Insurer cancels share buybacks as higher prices for car parts and used vehicles weigh on earnings",
+      "url": "/content/806732c5-0f90-4270-8571-6a28a376f445"
+    },
+    {
+      "text": "Deliveroo downgrades growth forecast as cost of living crisis bites",
+      "url": "/content/3946e4a5-3f38-42c5-ae37-39cca9633407"
+    },
+    {
+      "text": "",
+      "url": "/content/5b676830-b94c-48a2-9f95-36df3f0f0e6e"
+    },
+    {
+      "text": "European Central Bank",
+      "url": "https://www.ft.com/stream/60da3242-e372-44d6-8b46-b497ef106d88"
+    },
+    {
+      "text": "News in-depth. Italian political upheaval provides test of ECB\u2019s resolve",
+      "url": "/content/5b676830-b94c-48a2-9f95-36df3f0f0e6e"
+    },
+    {
+      "text": "Former central bank president Mario Draghi\u2019s troubles complicate the task facing his successor, Christine Lagarde",
+      "url": "/content/5b676830-b94c-48a2-9f95-36df3f0f0e6e"
+    },
+    {
+      "text": "Hungary optimistic on \u20ac15bn EU funds after pledges on energy and corruption ",
+      "url": "/content/c8b56137-f769-451d-8408-928767652897"
+    },
+    {
+      "text": "",
+      "url": "/content/d12159d4-8d94-44ae-92fe-d4ad0b731006"
+    },
+    {
+      "text": "Coronavirus pandemic",
+      "url": "https://www.ft.com/coronavirus"
+    },
+    {
+      "text": "China braced for renewed lockdowns as Omicron subvariant spreads",
+      "url": "/content/d12159d4-8d94-44ae-92fe-d4ad0b731006"
+    },
+    {
+      "text": "Shanghai and Tianjin order mass testing as infectious BA.5 strain threatens economic recovery",
+      "url": "/content/d12159d4-8d94-44ae-92fe-d4ad0b731006"
+    },
+    {
+      "text": "",
+      "url": "/content/4061b75f-66c0-4a51-9a26-c9fd539c6624"
+    },
+    {
+      "text": "Pakistan",
+      "url": "https://www.ft.com/stream/73e19e72-0019-41a2-82e2-68d686c874cc"
+    },
+    {
+      "text": "Imran Khan demands early elections after dominating Punjab poll",
+      "url": "/content/4061b75f-66c0-4a51-9a26-c9fd539c6624"
+    },
+    {
+      "text": "Former prime minister was the beneficiary of voter anger over Pakistan\u2019s cost of living crisis",
+      "url": "/content/4061b75f-66c0-4a51-9a26-c9fd539c6624"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion"
+    },
+    {
+      "text": " opinion content.\u00a0A German gas crisis will cause jitters across Europe",
+      "url": "/content/3458db6f-66f2-48ee-b344-0d1930204b07"
+    },
+    {
+      "text": "As Russia seeks to make others pay the price for its war in Ukraine, an EU-wide energy security strategy is needed",
+      "url": "/content/3458db6f-66f2-48ee-b344-0d1930204b07"
+    },
+    {
+      "text": "Constanze Stelzenm\u00fcller",
+      "url": "https://www.ft.com/constanze-stelzenm%C3%BCller"
+    },
+    {
+      "text": "",
+      "url": "/content/3458db6f-66f2-48ee-b344-0d1930204b07"
+    },
+    {
+      "text": " opinion content.\u00a0China\u2019s zero-Covid policy has damaged its stock of global talent",
+      "url": "/content/fef5a71d-8a19-4f65-804e-42bfb02af083"
+    },
+    {
+      "text": "Huiyao Wang",
+      "url": "https://www.ft.com/stream/3bc59f0c-133b-4a0a-8d81-3d22d5883a8c"
+    },
+    {
+      "text": " opinion content.\u00a0The FT View. Italy still needs Mario Draghi",
+      "url": "/content/5e8015e4-1a38-4da7-abbf-9b54a28aacb0"
+    },
+    {
+      "text": "The editorial board",
+      "url": "https://www.ft.com/ft-view"
+    },
+    {
+      "text": " opinion content.\u00a0Markets Insight. Time to destigmatise \u2018khaki finance\u2019",
+      "url": "/content/45b0cb96-9cb6-405a-b15c-99e599836fc0"
+    },
+    {
+      "text": "Huw van Steenis",
+      "url": "https://www.ft.com/topics/people/Huw_van_Steenis"
+    },
+    {
+      "text": " opinion content.\u00a0A gulf divides the Tory leadership race from the public",
+      "url": "/content/7c6a7b6c-1aa9-42fe-bf22-b3e2f1129135"
+    },
+    {
+      "text": "Luke Tryl",
+      "url": "https://www.ft.com/stream/8c893d54-d42a-4514-8c09-e2ced4cc72f5"
+    },
+    {
+      "text": " opinion content.\u00a0Abe\u2019s assassination has shone a light on Japan\u2019s faith industry",
+      "url": "/content/c6bf00b0-5c65-4d54-b552-b16a571e0f81"
+    },
+    {
+      "text": "Leo Lewis",
+      "url": "https://www.ft.com/leo-lewis"
+    },
+    {
+      "text": " opinion content.\u00a0Unhedged. The great squeeze",
+      "url": "/content/c6754739-9c2e-4854-b568-435ab2d1e529"
+    },
+    {
+      "text": "Robert Armstrong",
+      "url": "https://www.ft.com/robert-armstrong"
+    },
+    {
+      "text": "The FT View",
+      "url": "https://www.ft.com/ft-view"
+    },
+    {
+      "text": "Lex",
+      "url": "https://www.ft.com/lex"
+    },
+    {
+      "text": "Inside Business",
+      "url": "https://www.ft.com/companies/inside-business"
+    },
+    {
+      "text": "Markets Insight",
+      "url": "https://www.ft.com/markets/insight"
+    },
+    {
+      "text": "Global Insight",
+      "url": "https://www.ft.com/world/global-insight"
+    },
+    {
+      "text": "Unhedged",
+      "url": "https://www.ft.com/unhedged"
+    },
+    {
+      "text": "The Top Line",
+      "url": "https://www.ft.com/companies/the-top-line"
+    },
+    {
+      "text": "UK News",
+      "url": "/world/uk"
+    },
+    {
+      "text": "Tory leadership election tracker",
+      "url": "/content/5ed407bd-ac0d-4293-a0fe-c01dfa15d9d2"
+    },
+    {
+      "text": "How much support do each of the candidates have to become the party\u2019s leader and the UK\u2019s next prime minister?",
+      "url": "/content/5ed407bd-ac0d-4293-a0fe-c01dfa15d9d2"
+    },
+    {
+      "text": "",
+      "url": "/content/5ed407bd-ac0d-4293-a0fe-c01dfa15d9d2"
+    },
+    {
+      "text": "GSK spin-off Haleon becomes world\u2019s biggest standalone consumer health group",
+      "url": "/content/45dc4b67-f4a5-4fac-8c35-1d63b823c065"
+    },
+    {
+      "text": "Tory candidates united on tough stance towards public sector pay",
+      "url": "/content/511cf752-0ae5-4def-92a1-13fdd9cc5b63"
+    },
+    {
+      "text": "News in-depth. Boris Johnson\u2019s allies step up their attacks on Rishi Sunak",
+      "url": "/content/08f7c219-ee8d-49ac-986b-d719a14f746a"
+    },
+    {
+      "text": "LV\u2019s Mark Hartigan quits seven months after failed Bain deal",
+      "url": "/content/2495e183-7e2a-4d3c-a9e6-29491df41e16"
+    },
+    {
+      "text": "Starbucks examines sale of its UK business",
+      "url": "/content/bf998a33-d2cf-477b-abbb-bf4fc659cfc5"
+    },
+    {
+      "text": "UK\u2019s independent pubs on the brink as costs spiral",
+      "url": "/content/e87fe103-276c-4ae3-8293-31de592044ce"
+    },
+    {
+      "text": "UK Business & Economy",
+      "url": "https://www.ft.com/uk-business-economy"
+    },
+    {
+      "text": "UK Politics & Policy",
+      "url": "https://www.ft.com/world/uk/politics"
+    },
+    {
+      "text": "UK Companies",
+      "url": "https://www.ft.com/companies/uk"
+    },
+    {
+      "text": "Brexit",
+      "url": "https://www.ft.com/brexit"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "https://www.ft.com/personal-finance"
+    },
+    {
+      "text": "Payne's Politics PodcastListen to the latest episode",
+      "url": "https://www.ft.com/paynes-politics"
+    },
+    {
+      "text": "",
+      "url": "https://www.ft.com/paynes-politics"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts"
+    },
+    {
+      "text": "",
+      "url": "/content/b55a160f-6ef5-4ee5-8fe9-77d850c78203"
+    },
+    {
+      "text": "FT News Briefing. Sri Lanka picks a new leader",
+      "url": "/content/b55a160f-6ef5-4ee5-8fe9-77d850c78203"
+    },
+    {
+      "text": "",
+      "url": "/content/6d09914f-f41f-42ca-8c1f-654bcc5eb644"
+    },
+    {
+      "text": "FT Weekend podcast. Martin Wolf on how to change one's mind",
+      "url": "/content/6d09914f-f41f-42ca-8c1f-654bcc5eb644"
+    },
+    {
+      "text": "",
+      "url": "/content/3e2451dd-0128-42ae-83ff-e41028a602ff"
+    },
+    {
+      "text": "Behind the Money. Why companies could soon pay for climate change",
+      "url": "/content/3e2451dd-0128-42ae-83ff-e41028a602ff"
+    },
+    {
+      "text": "",
+      "url": "/content/9fe8d00f-ca21-43bc-bf7a-bf765c493044"
+    },
+    {
+      "text": "Rachman Review. Russia\u2019s future: a giant Iran of Eurasia",
+      "url": "/content/9fe8d00f-ca21-43bc-bf7a-bf765c493044"
+    },
+    {
+      "text": "Life & Arts",
+      "url": "/life-arts"
+    },
+    {
+      "text": "Arts",
+      "url": "https://www.ft.com/arts"
+    },
+    {
+      "text": "Books",
+      "url": "https://www.ft.com/books"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "https://www.ft.com/food-drink"
+    },
+    {
+      "text": "FT Magazine",
+      "url": "https://www.ft.com/magazine"
+    },
+    {
+      "text": "Style",
+      "url": "https://www.ft.com/style"
+    },
+    {
+      "text": "House & Home",
+      "url": "https://www.ft.com/house-home"
+    },
+    {
+      "text": "Travel",
+      "url": "https://www.ft.com/travel"
+    },
+    {
+      "text": "FT Globetrotter",
+      "url": "https://www.ft.com/globetrotter"
+    },
+    {
+      "text": "HTSI",
+      "url": "https://www.ft.com/htsi"
+    },
+    {
+      "text": "",
+      "url": "/content/2e3f8f9e-5829-4d61-8455-ab22c034cf26"
+    },
+    {
+      "text": "Style",
+      "url": "https://www.ft.com/style"
+    },
+    {
+      "text": "In the Tory leadership race, there are no style winners",
+      "url": "/content/2e3f8f9e-5829-4d61-8455-ab22c034cf26"
+    },
+    {
+      "text": "",
+      "url": "/content/43c9d7c9-9b9b-4cf0-ba71-92b428dfab65"
+    },
+    {
+      "text": "Cars, bikes, planes and boats",
+      "url": "https://www.ft.com/stream/00581ec1-a773-43a6-92b4-a17a5413c15a"
+    },
+    {
+      "text": "HTSI. Which second-hand sports car should you buy? ",
+      "url": "/content/43c9d7c9-9b9b-4cf0-ba71-92b428dfab65"
+    },
+    {
+      "text": "",
+      "url": "/content/74a7240b-cad9-465a-b61d-78762b119506"
+    },
+    {
+      "text": "Books",
+      "url": "https://www.ft.com/books"
+    },
+    {
+      "text": "Review. The Twilight World by Werner Herzog \u2014 a director\u2019s literary debut",
+      "url": "/content/74a7240b-cad9-465a-b61d-78762b119506"
+    },
+    {
+      "text": "",
+      "url": "/content/6b5be38b-cb6e-46f0-8ac6-83fc840ab37d"
+    },
+    {
+      "text": "Style",
+      "url": "https://www.ft.com/style"
+    },
+    {
+      "text": "HTSI. The best sandals for the office",
+      "url": "/content/6b5be38b-cb6e-46f0-8ac6-83fc840ab37d"
+    },
+    {
+      "text": "",
+      "url": "/content/955f2421-7dc6-4bea-9501-b8646c8ba0a1"
+    },
+    {
+      "text": "Review. The best of TV and streaming this week",
+      "url": "/content/955f2421-7dc6-4bea-9501-b8646c8ba0a1"
+    },
+    {
+      "text": "Video",
+      "url": "/video"
+    },
+    {
+      "text": " play content.\u00a0",
+      "url": "/video/44f4b910-80f3-4728-a846-89e768b8a099"
+    },
+    {
+      "text": "Banks",
+      "url": "https://www.ft.com/banks"
+    },
+    {
+      "text": " video content.\u00a0Credit Suisse: what next for the crisis-hit bank? | FT Film ",
+      "url": "/video/44f4b910-80f3-4728-a846-89e768b8a099"
+    },
+    {
+      "text": " play content.\u00a0",
+      "url": "/video/f1bad2b5-b3bf-4125-b8c7-74d0218006c6"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.ft.com/stream/3f74186b-57e2-4dc6-b70b-5380c1c784ea"
+    },
+    {
+      "text": " video content.\u00a0Abortion law: Roe vs Wade and the US constitution",
+      "url": "/video/f1bad2b5-b3bf-4125-b8c7-74d0218006c6"
+    },
+    {
+      "text": " play content.\u00a0",
+      "url": "/video/766899b7-e2e3-4de6-b42c-82dc2077e00f"
+    },
+    {
+      "text": "Financial services",
+      "url": "https://www.ft.com/companies/financial-services"
+    },
+    {
+      "text": " video content.\u00a0Hong Kong's future as Asia's financial centre | FT Film",
+      "url": "/video/766899b7-e2e3-4de6-b42c-82dc2077e00f"
+    },
+    {
+      "text": " play content.\u00a0",
+      "url": "/video/f6fe2afe-5810-4887-8d5b-c378e0b553dc"
+    },
+    {
+      "text": "David Allen Green",
+      "url": "https://www.ft.com/stream/3fb8deee-75dc-49f0-9988-714bce7ba1fa"
+    },
+    {
+      "text": " opinion content.\u00a0Is the Northern Ireland Protocol bill a breach of international law?",
+      "url": "/video/f6fe2afe-5810-4887-8d5b-c378e0b553dc"
+    },
+    {
+      "text": "FT Magazine. I earn \u00a310.71 an hour. Here\u2019s what the cost of living crisis has been like",
+      "url": "/content/af633a2e-3e46-4eaa-9173-167b87dc8c3e"
+    },
+    {
+      "text": "With inflation hitting a 40-year high in the UK, I decided to start tracking my spending",
+      "url": "/content/af633a2e-3e46-4eaa-9173-167b87dc8c3e"
+    },
+    {
+      "text": "",
+      "url": "/content/af633a2e-3e46-4eaa-9173-167b87dc8c3e"
+    },
+    {
+      "text": "Cryptofinance. Celsius\u2019s fall into bankruptcy and the future of crypto",
+      "url": "/content/003219f5-8484-4b56-a506-f2df0b0e14cd"
+    },
+    {
+      "text": "The Big Read. What Sri Lanka reveals about the risks in emerging markets",
+      "url": "/content/5ac44901-e989-42d6-ab4f-c168cd13196d"
+    },
+    {
+      "text": "We should worry about price of food more than petrol, warns BlackRock\u2019s Fink",
+      "url": "/content/7dd4c4cc-bb2d-4725-a1de-f95c394bad93"
+    },
+    {
+      "text": " opinion content.\u00a0Dear Jonathan. How do I side step into a job in international trade?",
+      "url": "/content/27bce05a-133a-4800-870c-8aa6bc74a3ff"
+    },
+    {
+      "text": "Jonathan Black",
+      "url": "https://www.ft.com/stream/bfe9ec23-d4d5-43c2-9f77-a710da004fc8"
+    },
+    {
+      "text": "Nikkei Asia. Samsung slips further behind TSMC in chipmaking race",
+      "url": "/content/bb13d912-773a-4c1a-bf33-358b3c40ca5a"
+    },
+    {
+      "text": "Review. FT business books: what to read this month",
+      "url": "/content/db769ad8-79ed-4097-97c7-637496f5da0b"
+    },
+    {
+      "text": "Moral Money",
+      "url": "https://www.ft.com/moral-money"
+    },
+    {
+      "text": "Due Diligence",
+      "url": "https://www.ft.com/due-diligence"
+    },
+    {
+      "text": "Cryptocurrencies",
+      "url": "https://www.ft.com/cryptocurrencies"
+    },
+    {
+      "text": "Special Reports",
+      "url": "https://www.ft.com/reports"
+    },
+    {
+      "text": "Climate Capital",
+      "url": "https://www.ft.com/climate-capital"
+    },
+    {
+      "text": "Moral MoneySign up for our newsletter",
+      "url": "https://ep.ft.com/newsletters/5ce7dcb373511b000490ac5b/subscribe"
+    },
+    {
+      "text": "",
+      "url": "https://ep.ft.com/newsletters/5ce7dcb373511b000490ac5b/subscribe"
+    },
+    {
+      "text": "Markets News",
+      "url": "/markets"
+    },
+    {
+      "text": "End of cheap money era scuppers dozens of corporate bond deals",
+      "url": "/content/4a145840-7cb2-4f42-b83a-bd1a69e71eef"
+    },
+    {
+      "text": "Companies abandon plans to issue debt at the last minute as investors demand higher returns",
+      "url": "/content/4a145840-7cb2-4f42-b83a-bd1a69e71eef"
+    },
+    {
+      "text": "",
+      "url": "/content/4a145840-7cb2-4f42-b83a-bd1a69e71eef"
+    },
+    {
+      "text": "Debt sell-off intensifies strains for more than a dozen emerging markets",
+      "url": "/content/5c948d5f-6822-4852-ac18-3fe24c60eade"
+    },
+    {
+      "text": "Market Questions. Will the ECB unveil its new \u2018anti-fragmentation\u2019 tool?",
+      "url": "/content/f143ff77-da7c-4155-87b6-5db114b9344c"
+    },
+    {
+      "text": "Investors warn of looming downgrades to US and European earnings forecasts",
+      "url": "/content/2ae1debe-9017-4d11-b35c-142b5aba92bc"
+    },
+    {
+      "text": "Italian debt market flashes warning as Draghi government teeters",
+      "url": "/content/f01e3706-515c-4cb9-91e6-d53739767926"
+    },
+    {
+      "text": "EquitiesFirst revealed as mysterious debtor to troubled crypto firm Celsius",
+      "url": "/content/70bd513e-8a10-4c96-b7e2-c43dea8df554"
+    },
+    {
+      "text": " markets content.\u00a0Markets Briefing. US stocks rise as survey points to easing of inflation expectations",
+      "url": "/content/b2568c9e-bdfd-4830-a6d7-a38591ecf56c"
+    },
+    {
+      "text": "Alphaville",
+      "url": "https://www.ft.com/alphaville"
+    },
+    {
+      "text": "Markets Data",
+      "url": "https://markets.ft.com/data"
+    },
+    {
+      "text": "Capital Markets",
+      "url": "https://www.ft.com/capital-markets"
+    },
+    {
+      "text": "Commodities",
+      "url": "https://www.ft.com/commodities"
+    },
+    {
+      "text": "Currencies",
+      "url": "https://www.ft.com/currencies"
+    },
+    {
+      "text": "Equities",
+      "url": "https://www.ft.com/equities"
+    },
+    {
+      "text": "Fund Management",
+      "url": "https://www.ft.com/fund-management"
+    },
+    {
+      "text": "FT Trading Room",
+      "url": "https://www.ft.com/ft-trading-room"
+    },
+    {
+      "text": "Moral Money",
+      "url": "https://www.ft.com/moral-money"
+    },
+    {
+      "text": "ETF Hub",
+      "url": "https://etf.ft.com/"
+    },
+    {
+      "text": "Technology",
+      "url": "/technology"
+    },
+    {
+      "text": " opinion content.\u00a0Outlook. Reversing Roe has sharpened the data-mining threat",
+      "url": "/content/915c6d2b-3035-4d0c-b018-32e793a176f1"
+    },
+    {
+      "text": "US campaigners worry that fertility apps could be weaponised against women seeking abortions ",
+      "url": "/content/915c6d2b-3035-4d0c-b018-32e793a176f1"
+    },
+    {
+      "text": "Jessica Rawnsley",
+      "url": "https://www.ft.com/stream/9dc6a91f-40e4-4081-8495-5f555e18a4be"
+    },
+    {
+      "text": "",
+      "url": "/content/915c6d2b-3035-4d0c-b018-32e793a176f1"
+    },
+    {
+      "text": "Aerospace groups shore up cyber defence of \u2018massive\u2019 attack surface",
+      "url": "/content/eab3079d-ddc4-4f27-9608-3ba22e158064"
+    },
+    {
+      "text": "Nikkei Asia. Samsung slips further behind TSMC in chipmaking race",
+      "url": "/content/bb13d912-773a-4c1a-bf33-358b3c40ca5a"
+    },
+    {
+      "text": "Investor in Oxford university spinouts raises \u00a3250mn ",
+      "url": "/content/9ba99519-6545-495f-98d4-8a3cd9b85070"
+    },
+    {
+      "text": "News in-depth. India escalates crackdown on Chinese phonemakers ",
+      "url": "/content/c335c72e-2633-49a4-b8c8-4205d20014da"
+    },
+    {
+      "text": "Tiger Global-backed Missfresh faces fight for survival",
+      "url": "/content/3cab1f0d-ba13-4673-9095-439701ae2fd1"
+    },
+    {
+      "text": "Musk asks court to reject Twitter\u2019s request for \u2018warp speed\u2019 trial",
+      "url": "/content/50691d5a-f454-4d96-803a-ac31bdf22805"
+    },
+    {
+      "text": "#techFT",
+      "url": "https://www.ft.com/techft"
+    },
+    {
+      "text": "FintechFT",
+      "url": "https://www.ft.com/fintechft"
+    },
+    {
+      "text": "FintechFTSign up for our newsletter",
+      "url": "https://ep.ft.com/newsletters/575981ede74eb90300a44d8e/subscribe"
+    },
+    {
+      "text": "",
+      "url": "https://ep.ft.com/newsletters/575981ede74eb90300a44d8e/subscribe"
+    },
+    {
+      "text": "FT Live",
+      "url": "https://live.ft.com"
+    },
+    {
+      "text": "Preparing the Insurance Industry for the Next Crisis",
+      "url": "https://resilientinsurance.live.ft.com/?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
+    },
+    {
+      "text": "FT Live",
+      "url": "https://live.ft.com"
+    },
+    {
+      "text": "How will the risk of recession impact M&A trends?",
+      "url": "https://recessionmergers.live.ft.com/?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
+    },
+    {
+      "text": "FT Live",
+      "url": "https://live.ft.com"
+    },
+    {
+      "text": "  The Next Stage of Pharma's Digital Revolution",
+      "url": "https://pharmadigitalrevolution.live.ft.com/?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
+    },
+    {
+      "text": "Women In Business Forum",
+      "url": "https://forums.ft.com/women-in-business-forum?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
+    },
+    {
+      "text": "Future Forum",
+      "url": "https://forums.ft.com/future-forum?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
+    },
+    {
+      "text": "Climate Capital Council",
+      "url": "https://forums.ft.com/climate-capital-council?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
+    },
+    {
+      "text": "View Site Tips",
+      "url": "/tour"
+    },
+    {
+      "text": "Help Centre",
+      "url": "http://help.ft.com"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://aboutus.ft.com/contact-us"
+    },
+    {
+      "text": "About Us",
+      "url": "http://www.ft.com/aboutus"
+    },
+    {
+      "text": "Accessibility",
+      "url": "/accessibility"
+    },
+    {
+      "text": "myFT Tour",
+      "url": "/tour/myft"
+    },
+    {
+      "text": "Careers",
+      "url": "https://aboutus.ft.com/en-gb/careers/"
+    },
+    {
+      "text": "Terms & Conditions",
+      "url": "http://help.ft.com/help/legal-privacy/terms-conditions/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "http://help.ft.com/help/legal-privacy/privacy/"
+    },
+    {
+      "text": "Cookies",
+      "url": "http://help.ft.com/help/legal-privacy/cookies/"
+    },
+    {
+      "text": "Copyright",
+      "url": "http://help.ft.com/help/legal-privacy/copyright/copyright-policy/"
+    },
+    {
+      "text": "Slavery Statement & Policies",
+      "url": "https://help.ft.com/help/legal/slavery-statement/"
+    },
+    {
+      "text": "Share News Tips Securely",
+      "url": "/securedrop"
+    },
+    {
+      "text": "Individual Subscriptions",
+      "url": "http://www.ft.com/products"
+    },
+    {
+      "text": "Group Subscriptions",
+      "url": "https://enterprise.ft.com/en-gb/services/group-subscriptions/group-contact-us/?segmentId=383c7f63-abf4-b62d-cb33-4c278e6fdf61&cpccampaign=B2B_link_ft.com_footer"
+    },
+    {
+      "text": "Republishing",
+      "url": "https://enterprise.ft.com/en-gb/services/republishing/"
+    },
+    {
+      "text": "Executive Job Search",
+      "url": "https://www.exec-appointments.com/"
+    },
+    {
+      "text": "Advertise with the FT",
+      "url": "http://fttoolkit.co.uk/"
+    },
+    {
+      "text": "Follow the FT on Twitter",
+      "url": "https://twitter.com/financialtimes"
+    },
+    {
+      "text": "FT Channels",
+      "url": "https://channels.ft.com/"
+    },
+    {
+      "text": "Secondary Schools",
+      "url": "https://enterprise.ft.com/en-gb/services/group-subscriptions/secondary-education/"
+    },
+    {
+      "text": "Portfolio",
+      "url": "https://markets.ft.com/data/portfolio/dashboard"
+    },
+    {
+      "text": "Today's Newspaper (ePaper)",
+      "url": "https://www.ft.com/todaysnewspaper"
+    },
+    {
+      "text": "Alerts Hub",
+      "url": "http://markets.ft.com/data/alerts/"
+    },
+    {
+      "text": "Business School Rankings",
+      "url": "https://rankings.ft.com/"
+    },
+    {
+      "text": "Enterprise Tools",
+      "url": "https://kat.ft.com/"
+    },
+    {
+      "text": "News feed",
+      "url": "/news-feed"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters"
+    },
+    {
+      "text": "Currency Converter",
+      "url": "https://markets.ft.com/research/Markets/Currencies?segid=70113"
+    },
+    {
+      "text": "FT Community",
+      "url": "https://www.ft.com/tour/community"
+    },
+    {
+      "text": "FT Live",
+      "url": "http://live.ft.com/"
+    },
+    {
+      "text": "FT Forums",
+      "url": "https://forums.ft.com/"
+    },
+    {
+      "text": "FT Board Director",
+      "url": "https://enterprise.ft.com/board-director-membership"
+    },
+    {
+      "text": "Board Director Programme",
+      "url": "https://bdp.ft.com/"
+    },
+    {
+      "text": "More from the FT Group",
+      "url": "https://ft.com/more-from-ft-group"
+    },
+    {
+      "text": "FT Editorial Code of Practice",
+      "url": "http://aboutus.ft.com/en-gb/ft-editorial-code/"
+    },
+    {
+      "text": "Financial Times",
+      "url": "/"
+    },
+    {
+      "text": "Subscribe for full access",
+      "url": "/products?segmentId=4526c036-7527-ab37-9a29-0b0403fa0b5f"
+    },
+    {
+      "text": "See all quotes matching undefined",
+      "url": "https://markets.ft.com/data/search?query=undefined"
+    },
+    {
+      "text": "Switch to International Edition",
+      "url": "/?edition=international"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "World",
+      "url": "/world"
+    },
+    {
+      "text": "Global Economy",
+      "url": "/global-economy"
+    },
+    {
+      "text": "UK",
+      "url": "/world/uk"
+    },
+    {
+      "text": "US",
+      "url": "/world/us"
+    },
+    {
+      "text": "China",
+      "url": "/world/asia-pacific/china"
+    },
+    {
+      "text": "Africa",
+      "url": "/world/africa"
+    },
+    {
+      "text": "Asia Pacific",
+      "url": "/world/asia-pacific"
+    },
+    {
+      "text": "Emerging Markets",
+      "url": "/emerging-markets"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe"
+    },
+    {
+      "text": "War in Ukraine",
+      "url": "/war-in-ukraine"
+    },
+    {
+      "text": "Americas",
+      "url": "/world/americas"
+    },
+    {
+      "text": "Middle East & North Africa",
+      "url": "/world/mideast"
+    },
+    {
+      "text": "Australia & NZ",
+      "url": "/australia-newzealand"
+    },
+    {
+      "text": "UK",
+      "url": "/world/uk"
+    },
+    {
+      "text": "UK Business & Economy",
+      "url": "/uk-business-economy"
+    },
+    {
+      "text": "UK Politics & Policy",
+      "url": "/world/uk/politics"
+    },
+    {
+      "text": "Brexit",
+      "url": "/brexit"
+    },
+    {
+      "text": "UK Companies",
+      "url": "/companies/uk"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "/personal-finance"
+    },
+    {
+      "text": "Companies",
+      "url": "/companies"
+    },
+    {
+      "text": "Energy",
+      "url": "/companies/energy"
+    },
+    {
+      "text": "Financials",
+      "url": "/companies/financials"
+    },
+    {
+      "text": "Health",
+      "url": "/companies/health"
+    },
+    {
+      "text": "Industrials",
+      "url": "/companies/industrials"
+    },
+    {
+      "text": "Media",
+      "url": "/companies/media"
+    },
+    {
+      "text": "Professional Services",
+      "url": "/companies/professional-services"
+    },
+    {
+      "text": "Retail & Consumer",
+      "url": "/companies/retail-consumer"
+    },
+    {
+      "text": "Tech Sector",
+      "url": "/companies/technology"
+    },
+    {
+      "text": "Telecoms",
+      "url": "/companies/telecoms"
+    },
+    {
+      "text": "Transport",
+      "url": "/companies/transport"
+    },
+    {
+      "text": "Tech",
+      "url": "/technology"
+    },
+    {
+      "text": "Markets",
+      "url": "/markets"
+    },
+    {
+      "text": "Alphaville",
+      "url": "/alphaville"
+    },
+    {
+      "text": "Markets Data",
+      "url": "https://markets.ft.com/data"
+    },
+    {
+      "text": "Capital Markets",
+      "url": "/capital-markets"
+    },
+    {
+      "text": "Commodities",
+      "url": "/commodities"
+    },
+    {
+      "text": "Currencies",
+      "url": "/currencies"
+    },
+    {
+      "text": "Equities",
+      "url": "/equities"
+    },
+    {
+      "text": "Fund Management",
+      "url": "/fund-management"
+    },
+    {
+      "text": "Trading",
+      "url": "/ft-trading-room"
+    },
+    {
+      "text": "Moral Money",
+      "url": "/moral-money"
+    },
+    {
+      "text": "ETF Hub",
+      "url": "https://etf.ft.com"
+    },
+    {
+      "text": "Cryptofinance",
+      "url": "/cryptofinance"
+    },
+    {
+      "text": "Climate",
+      "url": "/climate-capital"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion"
+    },
+    {
+      "text": "Columnists",
+      "url": "/columnists"
+    },
+    {
+      "text": "The FT View",
+      "url": "/ft-view"
+    },
+    {
+      "text": "The Big Read",
+      "url": "/the-big-read"
+    },
+    {
+      "text": "Lex",
+      "url": "/lex"
+    },
+    {
+      "text": "Obituaries",
+      "url": "/obituaries"
+    },
+    {
+      "text": "Letters",
+      "url": "/letters"
+    },
+    {
+      "text": "Work & Careers",
+      "url": "/work-careers"
+    },
+    {
+      "text": "Business School Rankings",
+      "url": "https://rankings.ft.com/"
+    },
+    {
+      "text": "Business Education",
+      "url": "/business-education"
+    },
+    {
+      "text": "Entrepreneurship",
+      "url": "/entrepreneurship"
+    },
+    {
+      "text": "Recruitment",
+      "url": "/recruitment"
+    },
+    {
+      "text": "Business Books",
+      "url": "/business-books"
+    },
+    {
+      "text": "Business Travel",
+      "url": "/business-travel"
+    },
+    {
+      "text": "Life & Arts",
+      "url": "/life-arts"
+    },
+    {
+      "text": "Arts",
+      "url": "/arts"
+    },
+    {
+      "text": "Books",
+      "url": "/books"
+    },
+    {
+      "text": "Food & Drink",
+      "url": "/food-drink"
+    },
+    {
+      "text": "FT Magazine",
+      "url": "/magazine"
+    },
+    {
+      "text": "House & Home",
+      "url": "/house-home"
+    },
+    {
+      "text": "Style",
+      "url": "/style"
+    },
+    {
+      "text": "Travel",
+      "url": "/travel"
+    },
+    {
+      "text": "FT Globetrotter",
+      "url": "/globetrotter"
+    },
+    {
+      "text": "Personal Finance",
+      "url": "/personal-finance"
+    },
+    {
+      "text": "Property & Mortgages",
+      "url": "/personal-finance/mortgages"
+    },
+    {
+      "text": "Investments",
+      "url": "/personal-finance/investments"
+    },
+    {
+      "text": "Pensions",
+      "url": "/personal-finance/pensions"
+    },
+    {
+      "text": "Tax",
+      "url": "/personal-finance/tax"
+    },
+    {
+      "text": "Banking & Savings",
+      "url": "/personal-finance/banking-savings"
+    },
+    {
+      "text": "Advice & Comment",
+      "url": "/personal-finance/advice-commment"
+    },
+    {
+      "text": "Next Act",
+      "url": "/next-act"
+    },
+    {
+      "text": "HTSI",
+      "url": "/htsi"
+    },
+    {
+      "text": "Special Reports",
+      "url": "/special-reports"
+    },
+    {
+      "text": "Lex",
+      "url": "/lex"
+    },
+    {
+      "text": "Alphaville",
+      "url": "/alphaville"
+    },
+    {
+      "text": "Lunch with the FT",
+      "url": "/lunch-with-the-ft"
+    },
+    {
+      "text": "FT Globetrotter",
+      "url": "/globetrotter"
+    },
+    {
+      "text": "#techAsia",
+      "url": "https://www.ft.com/tech-asia"
+    },
+    {
+      "text": "Moral Money",
+      "url": "/moral-money"
+    },
+    {
+      "text": "FTfm",
+      "url": "/ftfm"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters"
+    },
+    {
+      "text": "Video",
+      "url": "/video"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.ft.com/podcasts"
+    },
+    {
+      "text": "News feed",
+      "url": "/news-feed"
+    },
+    {
+      "text": "FT Community",
+      "url": "/tour/community"
+    },
+    {
+      "text": "FT Live",
+      "url": "http://live.ft.com/"
+    },
+    {
+      "text": "FT Forums",
+      "url": "https://forums.ft.com/"
+    },
+    {
+      "text": "Board Director Programme",
+      "url": "https://bdp.ft.com/"
+    },
+    {
+      "text": "myFT",
+      "url": "/myft"
+    },
+    {
+      "text": "Portfolio",
+      "url": "https://markets.ft.com/data/portfolio/dashboard"
+    },
+    {
+      "text": "Today's Newspaper (ePaper)",
+      "url": "https://www.ft.com/todaysnewspaper"
+    },
+    {
+      "text": "Crossword",
+      "url": "https://www.ft.com/crossword"
+    },
+    {
+      "text": "Our Apps",
+      "url": "https://www.ft.com/tour/apps"
+    },
+    {
+      "text": "Help Centre",
+      "url": "http://help.ft.com"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/products?segmentId=d290332b-e8e8-d29b-2ff4-2019b13f008a"
+    },
+    {
+      "text": "Sign In",
+      "url": "/login?location=/"
+    }
+  ],
+  "item_last_updated": 1658169897,
+  "item_size": 122303608,
   "metadata": {
     "identifier": "ft-2022",
     "collection": [
@@ -12047,10 +14203,10 @@
     "publicdate": "2022-03-23 08:03:16",
     "addeddate": "2022-03-23 08:03:16"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 851796668,
+  "server": "ia902502.us.archive.org",
+  "uniq": 1936666933,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }
