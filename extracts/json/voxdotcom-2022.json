@@ -1,5 +1,5 @@
 {
-  "created": 1658190663,
+  "created": 1658233133,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/22/items/voxdotcom-2022",
@@ -3194,31 +3194,63 @@
       "sha1": "6d3184ff19d6623bcbb49e01a33d2282dce91a64"
     },
     {
+      "name": "voxdotcom-2022-07-19T00:29:06.538516-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658204949",
+      "size": "50751",
+      "md5": "261583b50ed32c3ccfead869ee6d7679",
+      "crc32": "59cfb9a1",
+      "sha1": "acd0b1d568abe60ced7ad391ea09cb3ba236c09d",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-07-19T00:29:06.538516-04:00.jpg",
+      "source": "original",
+      "mtime": "1658204948",
+      "size": "297255",
+      "md5": "43b18307a8e3815ec00cac5e23778251",
+      "crc32": "a9e6a938",
+      "sha1": "9b2b7cfa62e1e046536b1691a442840667319084",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voxdotcom-2022-07-19T00:29:06.538516-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voxdotcom-2022-07-19T00:29:06.538516-04:00.jpg",
+      "mtime": "1658205394",
+      "size": "8941",
+      "md5": "586790a50012a8b704a7192f3ec4f8d5",
+      "crc32": "16da40f0",
+      "sha1": "760639f6c95f5a1f56ba979a50045594e6911941"
+    },
+    {
       "name": "voxdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9adeacd4589282cef590bfc2cd298a031847c641",
-      "mtime": "1658172060",
-      "size": "65753",
-      "md5": "e517bf5ec34dedb840849977da78ed8d",
-      "crc32": "464272b7",
-      "sha1": "831e0ce939c3760812d644fb6d73e95f6b969fa0",
+      "btih": "7f6c98cba378fe83fb20fa53d0397096774f0b17",
+      "mtime": "1658205400",
+      "size": "66391",
+      "md5": "7bf458aa5381099d2d7d1c08a0865e0b",
+      "crc32": "8fc6f96b",
+      "sha1": "0e5019868f25bdca7b550f45e6b80e47b16c54d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voxdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7744af5daa9fc083ab46bc56420df17b",
+      "md5": "7628d7e954c5e40427762b203b9350c3",
       "summation": "md5"
     },
     {
       "name": "voxdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658167956",
+      "mtime": "1658204953",
       "size": "372736",
-      "md5": "5160f23d81f5cf947051d8244296eefd",
-      "crc32": "e60459fd",
-      "sha1": "678b79abd329672efc73b2dcaa4043de537062a9",
+      "md5": "385096a34385bf9bac18b3a67cedf0a6",
+      "crc32": "a40373b9",
+      "sha1": "2489ce6759c1454dc2bdc043b97a82e05110fc80",
       "format": "Metadata"
     },
     {
@@ -3232,9 +3264,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 308,
-  "item_last_updated": 1658172060,
-  "item_size": 26126968,
+  "files_count": 311,
+  "item_last_updated": 1658205400,
+  "item_size": 26484553,
   "metadata": {
     "identifier": "voxdotcom-2022",
     "collection": [
@@ -3251,1327 +3283,984 @@
     "publicdate": "2022-06-19 23:29:34",
     "addeddate": "2022-06-19 23:29:34"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 1306269088,
-  "voxdotcom-2022": {
-    "role": "WebArea",
-    "name": "Vox - Understand the News",
-    "children": [
-      {
-        "role": "link",
-        "name": "Skip to main content"
-      },
-      {
-        "role": "link",
-        "name": "Vox homepage",
-        "children": [
-          {
-            "role": "text",
-            "name": "Vox homepage"
-          }
-        ]
-      },
-      {
-        "role": "heading",
-        "name": "Give",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Give"
-      },
-      {
-        "role": "heading",
-        "name": "Site search",
-        "level": 2
-      },
-      {
-        "role": "button",
-        "name": "Search"
-      },
-      {
-        "role": "heading",
-        "name": "Vox main menu",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "MIDTERM ELECTIONS"
-      },
-      {
-        "role": "link",
-        "name": "EVEN BETTER"
-      },
-      {
-        "role": "text",
-        "name": "MORE"
-      },
-      {
-        "role": "textbox",
-        "name": "Search"
-      },
-      {
-        "role": "button",
-        "name": "Search"
-      },
-      {
-        "role": "heading",
-        "name": "Help us keep Vox paywall-free",
-        "level": 5
-      },
-      {
-        "role": "text",
-        "name": "People turn to Vox for understanding. Whether it's someone who wants to know how a new healthcare policy will impact their family, or a teacher using one of our videos in the classroom, our unique explanatory journalism empowers people to understand the issues facing society. We believe that work should always be free. But that work requires a lot of resources, including multiple teams throughout the newsroom, to make happen. Financial gifts from readers directly supports our journalism."
-      },
-      {
-        "role": "text",
-        "name": "Will you make an annual gift today to help us keep Vox free?"
-      },
-      {
-        "role": "link",
-        "name": "Yes, I'll give"
-      },
-      {
-        "role": "main",
-        "name": "",
-        "children": [
-          {
-            "role": "heading",
-            "name": "TOP STORIES",
-            "level": 2
-          },
-          {
-            "role": "text",
-            "name": "Filed under:"
-          },
-          {
-            "role": "link",
-            "name": "FUTURE PERFECT"
-          },
-          {
-            "role": "link",
-            "name": "Costco\u2019s inflation-proof $4.99 rotisserie chicken, explained"
-          },
-          {
-            "role": "text",
-            "name": "Picking apart what the retail giant\u2019s poultry staple says about the present and future of factory farming."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Kenny Torrella"
-          },
-          {
-            "role": "link",
-            "name": "BA.5 doesn\u2019t care that you just had Covid-19"
-          },
-          {
-            "role": "text",
-            "name": "The omicron subvariant is tuned to evade immunity, even from previous omicron infections."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Umair Irfan"
-          },
-          {
-            "role": "link",
-            "name": "Biden sought to end endless wars. So what\u2019s the military doing in Somalia?"
-          },
-          {
-            "role": "text",
-            "name": "US military personnel\u2019s return to Somalia, briefly explained."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Jonathan Guyer"
-          },
-          {
-            "role": "link",
-            "name": "What is Steve Bannon planning in his war room?"
-          },
-          {
-            "role": "text",
-            "name": "A Q&A with journalist Jennifer Senior about her new profile of Trumpism\u2019s key propagandist \u2014 and where things may be headed next."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Sean Illing"
-          },
-          {
-            "role": "link",
-            "name": "The case of the missing fireflies"
-          },
-          {
-            "role": "text",
-            "name": "Today, Explained to Kids explores why whole species are losing their habitats and what humans can do about it."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Vox Staff"
-          },
-          {
-            "role": "link",
-            "name": "Sadhguru, the spiritual leader with ties to Will Smith and Modi, explained"
-          },
-          {
-            "role": "text",
-            "name": "The West\u2019s obsession with gurus has made him a regular on podcasts and panels. Critics say he\u2019s \"a neoliberal guru for neoliberal times.\""
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Sonia Paul"
-          },
-          {
-            "role": "link",
-            "name": "How can Sri Lanka move forward?"
-          },
-          {
-            "role": "text",
-            "name": "Sri Lanka\u2019s president is out. Now comes the hard part."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ellen Ioanes"
-          },
-          {
-            "role": "link",
-            "name": "Netflix\u2019s Persuasion is an absolute disaster"
-          },
-          {
-            "role": "text",
-            "name": "The new adaptation of the Jane Austen classic, starring Dakota Johnson, swings wildly from dour to dull."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Constance Grady"
-          },
-          {
-            "role": "heading",
-            "name": "UNDERSTAND THE NEWS WITH",
-            "level": 2
-          },
-          {
-            "role": "text",
-            "name": "Today, Explained"
-          },
-          {
-            "role": "button",
-            "name": "Subscribe"
-          },
-          {
-            "role": "text",
-            "name": "LISTEN NOW IN APP OR ON PUBLIC RADIO"
-          },
-          {
-            "role": "text",
-            "name": "The Island of Explained: The missing firefly"
-          },
-          {
-            "role": "text",
-            "name": "Luz the firefly is missing, and producers Izii and Sara want to know why. They take a trip to the Island of Explained, where they learn why whole species are losing their habitats and what humans can do about it."
-          },
-          {
-            "role": "Iframe",
-            "name": ""
-          },
-          {
-            "role": "heading",
-            "name": "THE LATEST",
-            "level": 2
-          },
-          {
-            "role": "link",
-            "name": "Vox\u2019s audience support program, explained"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Vox Staff"
-          },
-          {
-            "role": "text",
-            "name": "May 23"
-          },
-          {
-            "role": "link",
-            "name": "Build Back Better may end up a health care bill, thanks to Joe Manchin"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Li Zhou"
-          },
-          {
-            "role": "text",
-            "name": "July 18"
-          },
-          {
-            "role": "link",
-            "name": "Why the US doesn\u2019t want Turkey to invade Syria"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ellen Ioanes"
-          },
-          {
-            "role": "text",
-            "name": "July 17"
-          },
-          {
-            "role": "link",
-            "name": "Sri Lanka\u2019s protests are just the beginning of global instability"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Jen Kirby"
-          },
-          {
-            "role": "text",
-            "name": "July 16"
-          },
-          {
-            "role": "link",
-            "name": "Why BA.5 is cause for concern, but not alarm. Yet."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Keren Landman"
-          },
-          {
-            "role": "text",
-            "name": "July 15"
-          },
-          {
-            "role": "link",
-            "name": "Take a mental break with the newest Vox crossword"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Vox Staff"
-          },
-          {
-            "role": "text",
-            "name": "July 1"
-          },
-          {
-            "role": "link",
-            "name": "This Michigan Democrat wants her party to \u201ccall bullshit, bullshit\u201d"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Li Zhou"
-          },
-          {
-            "role": "text",
-            "name": "July 15"
-          },
-          {
-            "role": "link",
-            "name": "Fire of Love, about married volcanologists, is this summer\u2019s must-see doc"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Alissa Wilkinson"
-          },
-          {
-            "role": "text",
-            "name": "July 15"
-          },
-          {
-            "role": "link",
-            "name": "Amazon executives have discussed ditching Amazon Basics to appease regulators"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Jason Del Rey"
-          },
-          {
-            "role": "text",
-            "name": "July 15"
-          },
-          {
-            "role": "text",
-            "name": "FROM VOX MEDIA"
-          },
-          {
-            "role": "link",
-            "name": "We're building great things, and we need your talent."
-          },
-          {
-            "role": "link",
-            "name": ""
-          },
-          {
-            "role": "link",
-            "name": "Biden arrives in a Saudi Arabia where human rights violations go far beyond Khashoggi\u2019s murder"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Jonathan Guyer"
-          },
-          {
-            "role": "text",
-            "name": "July 15"
-          },
-          {
-            "role": "link",
-            "name": "Can pharmacists refuse to fill prescriptions for drugs that can be used in abortions?"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ian Millhiser"
-          },
-          {
-            "role": "text",
-            "name": "July 15"
-          },
-          {
-            "role": "link",
-            "name": "The race to replace \u2014 and escape \u2014 Boris Johnson"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Jen Kirby"
-          },
-          {
-            "role": "text",
-            "name": "July 14"
-          },
-          {
-            "role": "link",
-            "name": "Reproductive rights have never been secure. Ask Black women."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Fabiola Cineas"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "What Joe Biden and Israel\u2019s prime minister have in common"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Zack Beauchamp"
-          },
-          {
-            "role": "text",
-            "name": "July 14"
-          },
-          {
-            "role": "link",
-            "name": "Biden says he wants a two-state solution. Why is he silent on Israeli settlements?"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Jonathan Guyer"
-          },
-          {
-            "role": "text",
-            "name": "July 14"
-          },
-          {
-            "role": "link",
-            "name": "How the pandemic screwed up our antibiotics"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Sigal Samuel"
-          },
-          {
-            "role": "text",
-            "name": "July 14"
-          },
-          {
-            "role": "link",
-            "name": "How the world changed its mind on Tracy Flick"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Constance Grady"
-          },
-          {
-            "role": "text",
-            "name": "July 14"
-          },
-          {
-            "role": "link",
-            "name": "We all just fell for Amazon\u2019s made-up holiday yet again"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Emily Stewart"
-          },
-          {
-            "role": "text",
-            "name": "July 14"
-          },
-          {
-            "role": "link",
-            "name": "Why adoption won\u2019t fill the gaps of a Roe-less America"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Emily St. James"
-          },
-          {
-            "role": "text",
-            "name": "July 14"
-          },
-          {
-            "role": "link",
-            "name": "The world is getting better. That doesn\u2019t mean it\u2019s good enough."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Kelsey Piper"
-          },
-          {
-            "role": "text",
-            "name": "July 14"
-          },
-          {
-            "role": "link",
-            "name": "VIDEO"
-          },
-          {
-            "role": "link",
-            "name": "How abortion bans make inequality worse"
-          },
-          {
-            "role": "link",
-            "name": "Play video for How abortion bans make inequality worse"
-          },
-          {
-            "role": "link",
-            "name": "How the \u201clost cities\u201d of the Amazon were finally found"
-          },
-          {
-            "role": "link",
-            "name": "Play video for How the \u201clost cities\u201d of the Amazon were finally found"
-          },
-          {
-            "role": "link",
-            "name": "Sign up for the Vox video newsletter"
-          },
-          {
-            "role": "link",
-            "name": "More in Video \u25b6"
-          },
-          {
-            "role": "img",
-            "name": "vox-mark"
-          },
-          {
-            "role": "heading",
-            "name": "Sign up for the newsletter The Weeds",
-            "level": 2
-          },
-          {
-            "role": "text",
-            "name": "Understand how policy impacts people. Delivered Fridays."
-          },
-          {
-            "role": "text",
-            "name": "Email"
-          },
-          {
-            "role": "text",
-            "name": "(required)"
-          },
-          {
-            "role": "textbox",
-            "name": "Email (required) Email (required)",
-            "required": true,
-            "invalid": "true"
-          },
-          {
-            "role": "text",
-            "name": "By submitting your email, you agree to our"
-          },
-          {
-            "role": "link",
-            "name": "Terms"
-          },
-          {
-            "role": "text",
-            "name": "and"
-          },
-          {
-            "role": "link",
-            "name": "Privacy Notice"
-          },
-          {
-            "role": "text",
-            "name": ". You can opt out at any time. This site is protected by reCAPTCHA and the Google"
-          },
-          {
-            "role": "link",
-            "name": "Privacy Policy"
-          },
-          {
-            "role": "text",
-            "name": "and"
-          },
-          {
-            "role": "link",
-            "name": "Terms of Service"
-          },
-          {
-            "role": "text",
-            "name": "apply. For more newsletters, check out our"
-          },
-          {
-            "role": "link",
-            "name": "newsletters page"
-          },
-          {
-            "role": "text",
-            "name": "."
-          },
-          {
-            "role": "button",
-            "name": "SUBSCRIBE"
-          },
-          {
-            "role": "link",
-            "name": "EXPLAINERS"
-          },
-          {
-            "role": "link",
-            "name": "Sadhguru, the spiritual leader with ties to Will Smith and Modi, explained"
-          },
-          {
-            "role": "link",
-            "name": "More in Explainers \u25b6"
-          },
-          {
-            "role": "heading",
-            "name": "PODCAST",
-            "level": 2
-          },
-          {
-            "role": "text",
-            "name": "The Weeds"
-          },
-          {
-            "role": "button",
-            "name": "Subscribe"
-          },
-          {
-            "role": "text",
-            "name": "SUBSCRIBE NOW"
-          },
-          {
-            "role": "text",
-            "name": "The legal limbo of abortion rights"
-          },
-          {
-            "role": "text",
-            "name": "Roe v. Wade is gone, but its demise raises a whole host of new questions."
-          },
-          {
-            "role": "Iframe",
-            "name": ""
-          },
-          {
-            "role": "link",
-            "name": "7 governor\u2019s races that could hinge on abortion politics"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Nicole Narea"
-          },
-          {
-            "role": "text",
-            "name": "July 14"
-          },
-          {
-            "role": "link",
-            "name": "Amazon\u2019s Ring privacy problem is back"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Sara Morrison"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "Elon Musk fans can\u2019t handle the truth"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Whizy Kim"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "How the News Feed turned Facebook into a juggernaut"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Shirin Ghaffary"
-          },
-          {
-            "role": "text",
-            "name": "and"
-          },
-          {
-            "role": "link",
-            "name": "Alex Heath"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "The challenge of turning pro-choice Americans into pro-choice voters"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Rachel M. Cohen"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "The inflation numbers are bad \u2014 but how bad are they?"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Madeleine Ngo"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "A complete timeline of the Lea Michele-Beanie Feldstein-Funny Girl casting controversy"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Constance Grady"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "How to admit you\u2019re wrong"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Allie Volpe"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "How the Fed ended the last great American inflation \u2014 and how much it hurt"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Dylan Matthews"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "Even Better"
-          },
-          {
-            "role": "link",
-            "name": "View All"
-          },
-          {
-            "role": "img",
-            "name": "An illustration shows a woman with a thought bubble emerging from her mouth. The though bubble has a large red X over it."
-          },
-          {
-            "role": "link",
-            "name": "How to admit you\u2019re wrong"
-          },
-          {
-            "role": "img",
-            "name": "Two people in a boat rescue a man stuck on the roof"
-          },
-          {
-            "role": "link",
-            "name": "Preparing for extreme weather is a community concern. Here\u2019s how to be ready."
-          },
-          {
-            "role": "link",
-            "name": "How to be a little less judgmental"
-          },
-          {
-            "role": "img",
-            "name": "A cartoon image of two men leaning in for a kiss."
-          },
-          {
-            "role": "link",
-            "name": "How to date when it feels like everyone forgot how to date"
-          },
-          {
-            "role": "link",
-            "name": "Tacky is back!"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Rebecca Jennings"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "The inside story at Meta as it moves beyond Facebook"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Samantha Oltman"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "America has an innovation problem. The H-1B visa backlog is making it worse."
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Miranda Dixon-Luinenburg"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "Don\u2019t mind the economy, now is still a good time to find a new job"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Rani Molla"
-          },
-          {
-            "role": "text",
-            "name": "July 13"
-          },
-          {
-            "role": "link",
-            "name": "Donald Trump\u2019s tampering, a rioter\u2019s remorse, and other January 6 hearing takeaways"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ben Jacobs"
-          },
-          {
-            "role": "text",
-            "name": "July 12"
-          },
-          {
-            "role": "link",
-            "name": "Josh Hawley\u2019s viral transphobic comments, briefly explained"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Li Zhou"
-          },
-          {
-            "role": "text",
-            "name": "July 12"
-          },
-          {
-            "role": "link",
-            "name": "A needed nuclear option for climate change"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Bryan Walsh"
-          },
-          {
-            "role": "text",
-            "name": "July 12"
-          },
-          {
-            "role": "link",
-            "name": "Trump\u2019s totally \u201cunhinged\u201d West Wing meeting"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ben Jacobs"
-          },
-          {
-            "role": "text",
-            "name": "July 12"
-          },
-          {
-            "role": "link",
-            "name": "A Trump judge seized control of ICE. Will the Supreme Court stop him?"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Ian Millhiser"
-          },
-          {
-            "role": "text",
-            "name": "July 12"
-          },
-          {
-            "role": "link",
-            "name": "Why the new James Webb Space Telescope images are such a big deal"
-          },
-          {
-            "role": "text",
-            "name": "By"
-          },
-          {
-            "role": "link",
-            "name": "Brian Resnick"
-          },
-          {
-            "role": "text",
-            "name": "July 12"
-          },
-          {
-            "role": "link",
-            "name": "PODCASTS"
-          },
-          {
-            "role": "link",
-            "name": "Helping you understand the most important news in the world, five days a week"
-          },
-          {
-            "role": "link",
-            "name": "A science show about everything we don\u2019t know"
-          },
-          {
-            "role": "link",
-            "name": "Your guide to the most interesting and important tech and business news of the day"
-          },
-          {
-            "role": "link",
-            "name": "More in Podcasts \u25b6"
-          },
-          {
-            "role": "img",
-            "name": "vox-mark"
-          },
-          {
-            "role": "heading",
-            "name": "Sign up for the newsletter VoxCare",
-            "level": 2
-          },
-          {
-            "role": "text",
-            "name": "Dylan Scott guides you through the fallout of the Covid-19 pandemic and the health care policies that matter most."
-          },
-          {
-            "role": "text",
-            "name": "Email"
-          },
-          {
-            "role": "text",
-            "name": "(required)"
-          },
-          {
-            "role": "textbox",
-            "name": "",
-            "required": true,
-            "invalid": "true"
-          },
-          {
-            "role": "text",
-            "name": "By submitting your email, you agree to our"
-          },
-          {
-            "role": "link",
-            "name": "Terms"
-          },
-          {
-            "role": "text",
-            "name": "and"
-          },
-          {
-            "role": "link",
-            "name": "Privacy Notice"
-          },
-          {
-            "role": "text",
-            "name": ". You can opt out at any time. This site is protected by reCAPTCHA and the Google"
-          },
-          {
-            "role": "link",
-            "name": "Privacy Policy"
-          },
-          {
-            "role": "text",
-            "name": "and"
-          },
-          {
-            "role": "link",
-            "name": "Terms of Service"
-          },
-          {
-            "role": "text",
-            "name": "apply. For more newsletters, check out our"
-          },
-          {
-            "role": "link",
-            "name": "newsletters page"
-          },
-          {
-            "role": "text",
-            "name": "."
-          },
-          {
-            "role": "button",
-            "name": "SUBSCRIBE"
-          },
-          {
-            "role": "heading",
-            "name": "Pagination",
-            "level": 2
-          },
-          {
-            "role": "link",
-            "name": "MORE STORIES"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Chorus"
-      },
-      {
-        "role": "link",
-        "name": "Terms of Use"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Privacy Notice"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Cookie Policy"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Do Not Sell My Personal Info"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Licensing FAQ"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Accessibility"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Platform Status"
-      },
-      {
-        "role": "link",
-        "name": "Contact"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Send Us a Tip"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Masthead"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "About Us"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Press Room"
-      },
-      {
-        "role": "text",
-        "name": "\u2022"
-      },
-      {
-        "role": "link",
-        "name": "Editorial Ethics and Guidelines"
-      },
-      {
-        "role": "link",
-        "name": "Vox Media Vox Media"
-      },
-      {
-        "role": "link",
-        "name": "Author Login"
-      },
-      {
-        "role": "link",
-        "name": "Advertise with us"
-      },
-      {
-        "role": "link",
-        "name": "Jobs @ Vox Media"
-      },
-      {
-        "role": "text",
-        "name": "\u00a9 2022"
-      },
-      {
-        "role": "link",
-        "name": "Vox Media"
-      },
-      {
-        "role": "text",
-        "name": ", LLC. All Rights Reserved"
-      }
-    ]
-  },
+  "server": "ia801506.us.archive.org",
+  "uniq": 765945608,
+  "voxdotcom-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#content"
+    },
+    {
+      "text": "\n        \n          Vox homepage\n          \n            \n  \n\n\n          \n        \n        \n          \n            \n  \n\n\n          \n        \n        \n        \n      ",
+      "url": "/"
+    },
+    {
+      "text": "Give",
+      "url": "http://vox.com/pages/support-now?itm_campaign=contribute&itm_medium=site&itm_source=navigation"
+    },
+    {
+      "text": "Newsletters",
+      "url": "http://vox.com/pages/newsletters/?itm_campaign=contribute&itm_medium=site&itm_source=navigation"
+    },
+    {
+      "text": "\n              Midterm Elections\n              \n              ",
+      "url": "/midterm-elections-2022"
+    },
+    {
+      "text": "\n              Even Better\n              \n              ",
+      "url": "https://www.vox.com/even-better"
+    },
+    {
+      "text": "\n              Recode\n              \n              ",
+      "url": "/recode"
+    },
+    {
+      "text": "\n              The Goods\n              \n              ",
+      "url": "https://www.vox.com/the-goods"
+    },
+    {
+      "text": "\n              Future Perfect\n              \n              ",
+      "url": "https://www.vox.com/future-perfect"
+    },
+    {
+      "text": "\n              The Highlight\n              \n              ",
+      "url": "https://www.vox.com/the-highlight"
+    },
+    {
+      "text": "\n              Crossword\n              \n              ",
+      "url": "https://www.vox.com/21523212/crossword-puzzles-free-daily-printable"
+    },
+    {
+      "text": "\n              Podcasts\n              \n              ",
+      "url": "/pages/podcasts"
+    },
+    {
+      "text": "\n              Video\n              \n              ",
+      "url": "/videos"
+    },
+    {
+      "text": "\n              Explainers\n              \n              ",
+      "url": "/explainers"
+    },
+    {
+      "text": "\n              Covid\n              \n              ",
+      "url": "https://www.vox.com/coronavirus-covid19/"
+    },
+    {
+      "text": "\n              Culture\n              \n              ",
+      "url": "/culture"
+    },
+    {
+      "text": "\n              Politics & Policy\n              \n              ",
+      "url": "/policy-and-politics"
+    },
+    {
+      "text": "\n              Science & Health\n              \n              ",
+      "url": "/science-and-health"
+    },
+    {
+      "text": "\n              World\n              \n              ",
+      "url": "/world"
+    },
+    {
+      "text": "\n              Technology\n              \n              ",
+      "url": "/technology"
+    },
+    {
+      "text": "\n              Energy & Environment\n              \n              ",
+      "url": "/energy-and-environment"
+    },
+    {
+      "text": "\n              Business & Finance\n              \n              ",
+      "url": "/business-and-finance"
+    },
+    {
+      "text": "\n            Midterm Elections\n            \n          ",
+      "url": "/midterm-elections-2022"
+    },
+    {
+      "text": "\n            Even Better\n            \n          ",
+      "url": "https://www.vox.com/even-better"
+    },
+    {
+      "text": "\n            Recode\n            \n          ",
+      "url": "/recode"
+    },
+    {
+      "text": "\n            The Goods\n            \n          ",
+      "url": "https://www.vox.com/the-goods"
+    },
+    {
+      "text": "\n            Future Perfect\n            \n          ",
+      "url": "https://www.vox.com/future-perfect"
+    },
+    {
+      "text": "\n            The Highlight\n            \n          ",
+      "url": "https://www.vox.com/the-highlight"
+    },
+    {
+      "text": "\n            Crossword\n            \n          ",
+      "url": "https://www.vox.com/21523212/crossword-puzzles-free-daily-printable"
+    },
+    {
+      "text": "\n            Podcasts\n            \n          ",
+      "url": "/pages/podcasts"
+    },
+    {
+      "text": "\n            Video\n            \n          ",
+      "url": "/videos"
+    },
+    {
+      "text": "\n            Explainers\n            \n          ",
+      "url": "/explainers"
+    },
+    {
+      "text": "\n            Covid\n            \n          ",
+      "url": "https://www.vox.com/coronavirus-covid19/"
+    },
+    {
+      "text": "\n            Culture\n            \n          ",
+      "url": "/culture"
+    },
+    {
+      "text": "\n            Politics & Policy\n            \n          ",
+      "url": "/policy-and-politics"
+    },
+    {
+      "text": "\n            Science & Health\n            \n          ",
+      "url": "/science-and-health"
+    },
+    {
+      "text": "\n            World\n            \n          ",
+      "url": "/world"
+    },
+    {
+      "text": "\n            Technology\n            \n          ",
+      "url": "/technology"
+    },
+    {
+      "text": "\n            Energy & Environment\n            \n          ",
+      "url": "/energy-and-environment"
+    },
+    {
+      "text": "\n            Business & Finance\n            \n          ",
+      "url": "/business-and-finance"
+    },
+    {
+      "text": "Yes, I'll give",
+      "url": "http://vox.com/pages/support-now?itm_campaign=paywallfreewikibanner&itm_medium=site&itm_source=banner"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1658202695_5847_161945\" data-cdata='{\"image_id\":71149754,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71149754/1241634770.0.jpg\" alt=\"\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23269195/uvalde-texas-investigation-shooting-police"
+    },
+    {
+      "text": "3 takeaways from Texas\u2019s investigation of the Uvalde school shooting",
+      "url": "https://www.vox.com/23269195/uvalde-texas-investigation-shooting-police"
+    },
+    {
+      "text": "Nicole Narea",
+      "url": "https://www.vox.com/authors/nicole-narea"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1658202695_9358_161948\" data-cdata='{\"image_id\":71146904,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71146904/GettyImages_1072209546.0.jpg\" alt=\"A Costco retail employee packs up rotisserie chickens for sale.\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/future-perfect/23207301/costco-rotisserie-chicken-poultry-farming-inflation"
+    },
+    {
+      "text": "Costco\u2019s inflation-proof $4.99 rotisserie chicken, explained",
+      "url": "https://www.vox.com/future-perfect/23207301/costco-rotisserie-chicken-poultry-farming-inflation"
+    },
+    {
+      "text": "Kenny Torrella",
+      "url": "https://www.vox.com/authors/kenny-torrella"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1658202695_2159_161951\" data-cdata='{\"image_id\":71139139,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71139139/GettyImages_1241840522.0.jpeg\" alt=\"People crowd onto a ferry boat going from Toronto to Centre Island at the ferry terminal in Toronto, Ontario, Canada on July 08, 2022.\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23200811/covid-19-omicron-ba5-reinfection-vaccine-paxlovid"
+    },
+    {
+      "text": "BA.5 doesn\u2019t care that you just had Covid-19",
+      "url": "https://www.vox.com/23200811/covid-19-omicron-ba5-reinfection-vaccine-paxlovid"
+    },
+    {
+      "text": "Umair Irfan",
+      "url": "https://www.vox.com/authors/umair-irfan"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1658202695_3090_161954\" data-cdata='{\"image_id\":71147387,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71147387/GettyImages_856677066.0.jpg\" alt=\"A man wearing a turban and sporting a long white beard. \"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23206916/sadhguru-explained-save-the-soil-modi"
+    },
+    {
+      "text": "Sadhguru, the spiritual leader with ties to Will Smith and Modi, explained",
+      "url": "https://www.vox.com/23206916/sadhguru-explained-save-the-soil-modi"
+    },
+    {
+      "text": "Sonia Paul",
+      "url": "https://www.vox.com/users/SoniaPaul"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1658202695_318_161957\" data-cdata='{\"image_id\":71146940,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71146940/973400962.0.jpg\" alt=\"Soldiers atop a barricade wall.\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23204510/somalia-us-troops-return-shabaab-biden"
+    },
+    {
+      "text": "Biden sought to end endless wars. So what\u2019s the military doing in Somalia?",
+      "url": "https://www.vox.com/23204510/somalia-us-troops-return-shabaab-biden"
+    },
+    {
+      "text": "Jonathan Guyer",
+      "url": "https://www.vox.com/authors/jonathan-guyer"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1658202695_964_161960\" data-cdata='{\"image_id\":71054621,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71054621/1322576691.0.jpg\" alt=\"Senators Meet On New Infrastructure Plan After Talks With President Biden Collapse\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/6/23197398/build-back-better-prescription-drug-prices"
+    },
+    {
+      "text": "Build Back Better may end up a health care bill, thanks to Joe Manchin",
+      "url": "https://www.vox.com/2022/7/6/23197398/build-back-better-prescription-drug-prices"
+    },
+    {
+      "text": "Li Zhou",
+      "url": "https://www.vox.com/authors/li-zhou"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1658202695_3668_161963\" data-cdata='{\"image_id\":71139040,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71139040/1403109984.0.jpg\" alt=\"Trump Adviser Steve Bannon Goes To Court To Contest Contempt Charges\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/17/23217452/steve-bannon-january-6-trump-propaganda-election"
+    },
+    {
+      "text": "What is Steve Bannon planning in his war room?",
+      "url": "https://www.vox.com/2022/7/17/23217452/steve-bannon-january-6-trump-propaganda-election"
+    },
+    {
+      "text": "Sean Illing",
+      "url": "https://www.vox.com/authors/sean-illing"
+    },
+    {
+      "text": "\n      \n        \n          \n  \n\n  \n    \n  \n\n  \n\n\n\n  \n\n\n\n\n  \n    \n<div class=\"c-dynamic-image c-dynamic-image__bg-image\" data-chorus-optimize-field=\"main_image\" data-cid=\"site/dynamic_size_image-1658202695_9149_161966\" data-cdata='{\"image_id\":71144448,\"ratio\":\"*\"}'>\n  <noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71144448/1241751332.0.jpg\" alt=\"A mother and two children kneel outside an open tent door at a camp on June 22, 2022.\"></noscript>\n  \n</div>\n\n  \n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/17/23259615/why-the-us-doesnt-want-turkey-to-invade-syria"
+    },
+    {
+      "text": "Why the US doesn\u2019t want Turkey to invade Syria",
+      "url": "https://www.vox.com/2022/7/17/23259615/why-the-us-doesnt-want-turkey-to-invade-syria"
+    },
+    {
+      "text": "Ellen Ioanes",
+      "url": "https://www.vox.com/authors/ellen-ioanes"
+    },
+    {
+      "text": "Apple",
+      "url": "https://itunes.apple.com/us/podcast/today-explained/id1346207297?mt=2"
+    },
+    {
+      "text": "Stitcher",
+      "url": "https://www.stitcher.com/podcast/stitcher/today-explained"
+    },
+    {
+      "text": "Spotify",
+      "url": "https://open.spotify.com/show/3pXx5SXzXwJxnf4A5pWN2A"
+    },
+    {
+      "text": "Radio",
+      "url": "https://www.vox.com/23003036/today-explained-podcast-public-radio"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2020/4/8/21212928/voxs-audience-support-program-explained"
+    },
+    {
+      "text": "Vox\u2019s audience support program, explained",
+      "url": "https://www.vox.com/2020/4/8/21212928/voxs-audience-support-program-explained"
+    },
+    {
+      "text": "Vox Staff",
+      "url": "https://www.vox.com/authors/vox-staff"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/explainers/2022/7/16/23228128/sri-lanka-president-gotabaya-rajapaksa-resignation-future"
+    },
+    {
+      "text": "How can Sri Lanka move forward?",
+      "url": "https://www.vox.com/explainers/2022/7/16/23228128/sri-lanka-president-gotabaya-rajapaksa-resignation-future"
+    },
+    {
+      "text": "Ellen Ioanes",
+      "url": "https://www.vox.com/authors/ellen-ioanes"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23207998/species-habitat-loss-biodiversity-today-explained"
+    },
+    {
+      "text": "The case of the missing fireflies",
+      "url": "https://www.vox.com/23207998/species-habitat-loss-biodiversity-today-explained"
+    },
+    {
+      "text": "Vox Staff",
+      "url": "https://www.vox.com/authors/vox-staff"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23211533/sri-lanka-protests-food-fuel-ukraine-war"
+    },
+    {
+      "text": "Sri Lanka\u2019s protests are just the beginning of global instability ",
+      "url": "https://www.vox.com/23211533/sri-lanka-protests-food-fuel-ukraine-war"
+    },
+    {
+      "text": "Jen Kirby",
+      "url": "https://www.vox.com/authors/jen-kirby"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/science-and-health/2022/7/15/23206836/ba5-variant-covid-south-africa-portugal"
+    },
+    {
+      "text": "Why BA.5 is cause for concern, but not alarm. Yet.",
+      "url": "https://www.vox.com/science-and-health/2022/7/15/23206836/ba5-variant-covid-south-africa-portugal"
+    },
+    {
+      "text": "Keren Landman",
+      "url": "https://www.vox.com/authors/keren-landman"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/21523212/crossword-puzzles-free-daily-printable"
+    },
+    {
+      "text": "Take a mental break with the newest Vox crossword",
+      "url": "https://www.vox.com/21523212/crossword-puzzles-free-daily-printable"
+    },
+    {
+      "text": "Vox Staff",
+      "url": "https://www.vox.com/authors/vox-staff"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/15/23220096/mallory-mcmorrow-michigan-viral-speech-abortion-rights"
+    },
+    {
+      "text": "This Michigan Democrat wants her party to \u201ccall bullshit, bullshit\u201d",
+      "url": "https://www.vox.com/2022/7/15/23220096/mallory-mcmorrow-michigan-viral-speech-abortion-rights"
+    },
+    {
+      "text": "Li Zhou",
+      "url": "https://www.vox.com/authors/li-zhou"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/culture/23220006/netflix-persuasion-review-dakota-johnson-jane-austen-henry-golding"
+    },
+    {
+      "text": "Netflix\u2019s Persuasion is an absolute disaster",
+      "url": "https://www.vox.com/culture/23220006/netflix-persuasion-review-dakota-johnson-jane-austen-henry-golding"
+    },
+    {
+      "text": "Constance Grady",
+      "url": "https://www.vox.com/authors/constance-grady"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23206005/fire-love-review-interview-volcano-krafft"
+    },
+    {
+      "text": "Fire of Love, about married volcanologists, is this summer\u2019s must-see doc",
+      "url": "https://www.vox.com/23206005/fire-love-review-interview-volcano-krafft"
+    },
+    {
+      "text": "Alissa Wilkinson",
+      "url": "https://www.vox.com/authors/alissa-wilkinson"
+    },
+    {
+      "text": "\n    \n      .st1{fill:#fff}.st2{fill:#f05354}\n\n      \n    \n  ",
+      "url": "https://www.voxmedia.com/careers"
+    },
+    {
+      "text": "We're building great things, and we need your talent.",
+      "url": "https://www.voxmedia.com/careers"
+    },
+    {
+      "text": "",
+      "url": "https://www.voxmedia.com/careers"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/recode/2022/7/15/23219277/amazon-basics-private-label-antitrust-concessions"
+    },
+    {
+      "text": "Amazon executives have discussed ditching Amazon Basics to appease regulators ",
+      "url": "https://www.vox.com/recode/2022/7/15/23219277/amazon-basics-private-label-antitrust-concessions"
+    },
+    {
+      "text": "Jason Del Rey",
+      "url": "https://www.vox.com/authors/jason-del-rey"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23219049/biden-saudi-arabia-human-rights-mbs-khashoggi"
+    },
+    {
+      "text": "Biden arrives in a Saudi Arabia where human rights violations go far beyond Khashoggi\u2019s murder",
+      "url": "https://www.vox.com/23219049/biden-saudi-arabia-human-rights-mbs-khashoggi"
+    },
+    {
+      "text": "Jonathan Guyer",
+      "url": "https://www.vox.com/authors/jonathan-guyer"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23207949/supreme-court-abortion-methotrexate-prescription-pharmacist-refuse"
+    },
+    {
+      "text": "Can pharmacists refuse to fill prescriptions for drugs that can be used in abortions?",
+      "url": "https://www.vox.com/23207949/supreme-court-abortion-methotrexate-prescription-pharmacist-refuse"
+    },
+    {
+      "text": "Ian Millhiser",
+      "url": "https://www.vox.com/authors/ian-millhiser"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23205101/abortion-rights-reproductive-justice-black-women"
+    },
+    {
+      "text": "Reproductive rights have never been secure. Ask Black women.",
+      "url": "https://www.vox.com/23205101/abortion-rights-reproductive-justice-black-women"
+    },
+    {
+      "text": "Fabiola Cineas",
+      "url": "https://www.vox.com/authors/fabiola-cineas"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/14/23205607/conservative-leadership-contest-sunak-mordaunt-truss-johnson-prime-minister"
+    },
+    {
+      "text": "The race to replace \u2014 and escape \u2014 Boris Johnson",
+      "url": "https://www.vox.com/2022/7/14/23205607/conservative-leadership-contest-sunak-mordaunt-truss-johnson-prime-minister"
+    },
+    {
+      "text": "Jen Kirby",
+      "url": "https://www.vox.com/authors/jen-kirby"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/policy-and-politics/2022/7/14/23206625/biden-lapid-israel-anti-democratic"
+    },
+    {
+      "text": "What Joe Biden and Israel\u2019s prime minister have in common",
+      "url": "https://www.vox.com/policy-and-politics/2022/7/14/23206625/biden-lapid-israel-anti-democratic"
+    },
+    {
+      "text": "Zack Beauchamp",
+      "url": "https://www.vox.com/authors/zack-beauchamp"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23207299/israel-palestine-settlements-chart-two-state-biden-visit"
+    },
+    {
+      "text": "Biden says he wants a two-state solution. Why is he silent on Israeli settlements?",
+      "url": "https://www.vox.com/23207299/israel-palestine-settlements-chart-two-state-biden-visit"
+    },
+    {
+      "text": "Jonathan Guyer",
+      "url": "https://www.vox.com/authors/jonathan-guyer"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/future-perfect/23207257/covid-pandemic-antibiotics-antimicrobial-resistance"
+    },
+    {
+      "text": "How the pandemic screwed up our antibiotics",
+      "url": "https://www.vox.com/future-perfect/23207257/covid-pandemic-antibiotics-antimicrobial-resistance"
+    },
+    {
+      "text": "Sigal Samuel",
+      "url": "https://www.vox.com/authors/sigal-samuel"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/culture/23159969/tracy-flick-cant-win-election-tom-perrotta-reese-witherspoon"
+    },
+    {
+      "text": "How the world changed its mind on Tracy Flick",
+      "url": "https://www.vox.com/culture/23159969/tracy-flick-cant-win-election-tom-perrotta-reese-witherspoon"
+    },
+    {
+      "text": "Constance Grady",
+      "url": "https://www.vox.com/authors/constance-grady"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/the-goods/2022/7/14/23203964/amazon-prime-day-2022-deals-capitalism-discounts"
+    },
+    {
+      "text": "We all just fell for Amazon\u2019s made-up holiday yet again ",
+      "url": "https://www.vox.com/the-goods/2022/7/14/23203964/amazon-prime-day-2022-deals-capitalism-discounts"
+    },
+    {
+      "text": "Emily Stewart",
+      "url": "https://www.vox.com/authors/emily-stewart"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/policy-and-politics/23200880/adoption-abortion-roe-we-will-adopt-your-baby-kathryn-joyce"
+    },
+    {
+      "text": "Why adoption won\u2019t fill the gaps of a Roe-less America",
+      "url": "https://www.vox.com/policy-and-politics/23200880/adoption-abortion-roe-we-will-adopt-your-baby-kathryn-joyce"
+    },
+    {
+      "text": "Emily St. James",
+      "url": "https://www.vox.com/authors/emily-st-james"
+    },
+    {
+      "text": "\n        \n          Video\n        \n      ",
+      "url": "/videos"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/2geihsxoU0E9MCfD35msQ1_yBIk=/0x0:1920x1080/250x141/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png 250w, https://cdn.vox-cdn.com/thumbor/8RV7U0K0I-rT2ZGAkOciXYWvBg4=/0x0:1920x1080/500x281/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/Ra5h1TpeOAAWFwhTyUcSRjksOQg=/0x0:1920x1080/250x141/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png 250w, https://cdn.vox-cdn.com/thumbor/XkwJTu35MQxzNNKS6qypuLg3I0Y=/0x0:1920x1080/500x281/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"1920\" src=\"https://cdn.vox-cdn.com/thumbor/BlHuJiEcoy6uSgX4oaH6JmUcaNw=/0x0:1920x1080/1200x675/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1658200702_5156_146750\" data-cdata='{\"image_id\":71068922,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71068922/TurnawayThumb_Clean.0.png\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            How abortion bans make inequality worse\n            \n              The study that offers a glimpse into a post-Roe v. Wade future.\n            \n          \n        ",
+      "url": "https://www.vox.com/videos/2022/7/8/23199289/abortion-bans-inequality-financial-distress"
+    },
+    {
+      "text": "\n            Play\n video for How abortion bans make inequality worse\n          ",
+      "url": "https://www.vox.com/videos/2022/7/8/23199289/abortion-bans-inequality-financial-distress"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/9UR4DwH3_AlrVFarn9K_x0kEJJQ=/0x0:1920x1080/250x141/filters:focal(815x397:1121x703):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg 250w, https://cdn.vox-cdn.com/thumbor/b0SPsiLDqP7LJr7axrOoVmS5v40=/0x0:1920x1080/500x281/filters:focal(815x397:1121x703):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/F9flIIj1LUHVNqL2GrkYbbmDTjk=/0x0:1920x1080/250x141/filters:focal(815x397:1121x703)/cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg 250w, https://cdn.vox-cdn.com/thumbor/XhSYFxh0xPeZbQpgFoXbd-BW-xI=/0x0:1920x1080/500x281/filters:focal(815x397:1121x703)/cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"1920\" src=\"https://cdn.vox-cdn.com/thumbor/hwIWRGiZiIy4Jiu4kNNrsrTuFeE=/0x0:1920x1080/1200x675/filters:focal(815x397:1121x703)/cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1658200702_477_146753\" data-cdata='{\"image_id\":71058856,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71058856/thumb_clean.0.jpeg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            How the \u201clost cities\u201d of the Amazon were finally found \n            \n              And why they were so hard to see.\n            \n          \n        ",
+      "url": "https://www.vox.com/2022/7/7/23198540/lost-cities-amazon-rainforest-archaeology"
+    },
+    {
+      "text": "\n            Play\n video for How the \u201clost cities\u201d of the Amazon were finally found \n          ",
+      "url": "https://www.vox.com/2022/7/7/23198540/lost-cities-amazon-rainforest-archaeology"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/qVghg5dQHpYXZ56cdPmtoDNpfGs=/0x0:1547x423/250x141/filters:focal(712x104:958x350):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png 250w, https://cdn.vox-cdn.com/thumbor/5UqPhjYyVWC6CwnNVTxa9aGUHRk=/0x0:1547x423/500x281/filters:focal(712x104:958x350):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/lhm-5oAm1OopZUpESktkpFPYNwQ=/0x0:1547x423/250x141/filters:focal(712x104:958x350)/cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png 250w, https://cdn.vox-cdn.com/thumbor/6WZbhJG4FvVKX74tc2F5vEuCy-Q=/0x0:1547x423/500x281/filters:focal(712x104:958x350)/cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png 500w\" sizes=\"250px\" alt=\"\" data-upload-width=\"1547\" src=\"https://cdn.vox-cdn.com/thumbor/o4xFubJJwkOw0Q_RJ1p6YAkRqyY=/0x0:1547x423/1200x675/filters:focal(712x104:958x350)/cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"\" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1658200702_54_146755\" data-cdata='{\"image_id\":69033029,\"ratio\":\"cinema\"}'>\n<noscript><img alt=\"\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/69033029/newsletter_art.0.png\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Sign up for the Vox video newsletter\n            \n              Don\u2019t miss our new video projects, returning series, and opportunities to get involved with our reporting.\n            \n          \n        ",
+      "url": "http://vox.com/video-newsletter"
+    },
+    {
+      "text": "More in Video",
+      "url": "/videos"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.voxmedia.com/legal/privacy-notice"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "newsletters page",
+      "url": "https://www.vox.com/pages/newsletters"
+    },
+    {
+      "text": "\n        \n          Explainers\n        \n      ",
+      "url": "/explainers"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/_DnbAtZe-yATQ-wNGwI_b2qHLoc=/0x0:3680x2456/250x188/filters:focal(1546x934:2134x1522):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71147387/GettyImages_856677066.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/l4oDPx7J4xrvVLPq8Bm-sGREFi8=/0x0:3680x2456/500x375/filters:focal(1546x934:2134x1522):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/71147387/GettyImages_856677066.0.jpg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/ahVZNXag2YHevGNyLFvT3UDYc3s=/0x0:3680x2456/250x188/filters:focal(1546x934:2134x1522)/cdn.vox-cdn.com/uploads/chorus_image/image/71147387/GettyImages_856677066.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/RHFWnf8gs_nl7M0oN-Ek1Wex5HE=/0x0:3680x2456/500x375/filters:focal(1546x934:2134x1522)/cdn.vox-cdn.com/uploads/chorus_image/image/71147387/GettyImages_856677066.0.jpg 500w\" sizes=\"250px\" alt=\"A man wearing a turban and sporting a long white beard. \" data-upload-width=\"3680\" src=\"https://cdn.vox-cdn.com/thumbor/AlM_hoXEq6_THmzrY3oUqRtrpg8=/0x0:3680x2456/1200x900/filters:focal(1546x934:2134x1522)/cdn.vox-cdn.com/uploads/chorus_image/image/71147387/GettyImages_856677066.0.jpg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" alt=\"A man wearing a turban and sporting a long white beard. \" data-chorus-optimize-field=\"main_image\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs\" data-cid=\"site/dynamic_size_image-1658200245_4251_156748\" data-cdata='{\"image_id\":71147387,\"ratio\":\"standard\"}'>\n<noscript><img alt=\"A man wearing a turban and sporting a long white beard. \" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/71147387/GettyImages_856677066.0.jpg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Sadhguru, the spiritual leader with ties to Will Smith and Modi, explained\n            \n              The West\u2019s obsession with gurus has made him a regular on podcasts and panels. Some say he\u2019s \"a neoliberal guru for neoliberal times.\"\n            \n          \n        ",
+      "url": "https://www.vox.com/23206916/sadhguru-explained-save-the-soil-modi"
+    },
+    {
+      "text": "More in Explainers",
+      "url": "/explainers"
+    },
+    {
+      "text": "Apple",
+      "url": "https://itunes.apple.com/us/podcast/the-weeds/id1042433083"
+    },
+    {
+      "text": "Stitcher",
+      "url": "https://www.stitcher.com/podcast/stitcher/voxs-the-weeds"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/future-perfect/23198871/charles-kenny-interview-economist-getting-better"
+    },
+    {
+      "text": "The world is getting better. That doesn\u2019t mean it\u2019s good enough. ",
+      "url": "https://www.vox.com/future-perfect/23198871/charles-kenny-interview-economist-getting-better"
+    },
+    {
+      "text": "Kelsey Piper",
+      "url": "https://www.vox.com/authors/kelsey-piper"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/14/23208518/governor-abortion-midterms-georgia-pennsylvania-michigan-kansas"
+    },
+    {
+      "text": "7 governor\u2019s races that could hinge on abortion politics",
+      "url": "https://www.vox.com/2022/7/14/23208518/governor-abortion-midterms-georgia-pennsylvania-michigan-kansas"
+    },
+    {
+      "text": "Nicole Narea",
+      "url": "https://www.vox.com/authors/nicole-narea"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/recode/23207072/amazon-ring-privacy-police-footage"
+    },
+    {
+      "text": "Amazon\u2019s Ring privacy problem is back",
+      "url": "https://www.vox.com/recode/23207072/amazon-ring-privacy-police-footage"
+    },
+    {
+      "text": "Sara Morrison",
+      "url": "https://www.vox.com/authors/sara-morrison"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/recode/23207361/elon-musk-twitter-narrative-billionaire"
+    },
+    {
+      "text": "Elon Musk fans can\u2019t handle the truth",
+      "url": "https://www.vox.com/recode/23207361/elon-musk-twitter-narrative-billionaire"
+    },
+    {
+      "text": "Whizy Kim",
+      "url": "https://www.vox.com/authors/whizy-kim"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/recode/23207399/facebook-news-feed-history-podcast"
+    },
+    {
+      "text": "How the News Feed turned Facebook into a juggernaut",
+      "url": "https://www.vox.com/recode/23207399/facebook-news-feed-history-podcast"
+    },
+    {
+      "text": "Shirin Ghaffary",
+      "url": "https://www.vox.com/authors/shirin-ghaffary"
+    },
+    {
+      "text": "Alex Heath",
+      "url": "https://www.vox.com/users/Alex%20Heath"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/13/23204957/roe-wade-abortion-dobbs-persuasion-midterms"
+    },
+    {
+      "text": "The challenge of turning pro-choice Americans into pro-choice voters",
+      "url": "https://www.vox.com/2022/7/13/23204957/roe-wade-abortion-dobbs-persuasion-midterms"
+    },
+    {
+      "text": "Rachel M. Cohen",
+      "url": "https://www.vox.com/authors/rachel-m-cohen"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/13/23206038/inflation-cpi-economy-prices"
+    },
+    {
+      "text": "The inflation numbers are bad \u2014 but how bad are they?",
+      "url": "https://www.vox.com/2022/7/13/23206038/inflation-cpi-economy-prices"
+    },
+    {
+      "text": "Madeleine Ngo",
+      "url": "https://www.vox.com/authors/madeleine-ngo"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/culture/23205237/lea-michele-beanie-feldstein-funny-girl-casting-controversy"
+    },
+    {
+      "text": "A complete timeline of the Lea Michele-Beanie Feldstein-Funny Girl casting controversy",
+      "url": "https://www.vox.com/culture/23205237/lea-michele-beanie-feldstein-funny-girl-casting-controversy"
+    },
+    {
+      "text": "Constance Grady",
+      "url": "https://www.vox.com/authors/constance-grady"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/even-better/23198698/how-to-admit-youre-wrong"
+    },
+    {
+      "text": "How to admit you\u2019re wrong",
+      "url": "https://www.vox.com/even-better/23198698/how-to-admit-youre-wrong"
+    },
+    {
+      "text": "Allie Volpe",
+      "url": "https://www.vox.com/users/allie.volpe"
+    },
+    {
+      "text": "Even Better",
+      "url": "https://www.vox.com/even-better"
+    },
+    {
+      "text": "View All",
+      "url": "https://www.vox.com/even-better"
+    },
+    {
+      "text": "How to admit you\u2019re wrong",
+      "url": "https://www.vox.com/even-better/23198698/how-to-admit-youre-wrong"
+    },
+    {
+      "text": "Preparing for extreme weather is a community concern. Here\u2019s how to be ready.",
+      "url": "https://www.vox.com/even-better/23196757/summer-disaster-weather-preparation-community-hurricane-wildfire-drought-heatwave-flood"
+    },
+    {
+      "text": "How to be a little less judgmental",
+      "url": "https://www.vox.com/even-better/23188518/be-less-judgmental-tips"
+    },
+    {
+      "text": "How to date when it feels like everyone forgot how to date ",
+      "url": "https://www.vox.com/23184875/dating-pandemic-tips-better-dater"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/future-perfect/2022/7/13/23188455/inflation-paul-volcker-shock-recession-1970s"
+    },
+    {
+      "text": "How the Fed ended the last great American inflation \u2014 and how much it hurt",
+      "url": "https://www.vox.com/future-perfect/2022/7/13/23188455/inflation-paul-volcker-shock-recession-1970s"
+    },
+    {
+      "text": "Dylan Matthews",
+      "url": "https://www.vox.com/authors/dylan"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/the-goods/23205791/tacky-very-famous-bad-taste"
+    },
+    {
+      "text": "Tacky is back!",
+      "url": "https://www.vox.com/the-goods/23205791/tacky-very-famous-bad-taste"
+    },
+    {
+      "text": "Rebecca Jennings",
+      "url": "https://www.vox.com/authors/rebecca-jennings"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/6/23196899/land-of-the-giants-meta-facebook-mark-zuckerberg-podcast-vox-recode-verge"
+    },
+    {
+      "text": "The inside story at Meta as it moves beyond Facebook",
+      "url": "https://www.vox.com/2022/7/6/23196899/land-of-the-giants-meta-facebook-mark-zuckerberg-podcast-vox-recode-verge"
+    },
+    {
+      "text": "Samantha Oltman",
+      "url": "https://www.vox.com/authors/samantha-oltman"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/future-perfect/23177446/immigrants-tech-companies-united-states-innovation-h1b-visas-immigration"
+    },
+    {
+      "text": "America has an innovation problem. The H-1B visa backlog is making it worse.",
+      "url": "https://www.vox.com/future-perfect/23177446/immigrants-tech-companies-united-states-innovation-h1b-visas-immigration"
+    },
+    {
+      "text": "Miranda Dixon-Luinenburg",
+      "url": "https://www.vox.com/authors/miranda-dixon-luinenburg"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/recode/23203511/recession-job-market-hiring-layoffs-benefits"
+    },
+    {
+      "text": "Don\u2019t mind the economy, now is still a good time to find a new job",
+      "url": "https://www.vox.com/recode/23203511/recession-job-market-hiring-layoffs-benefits"
+    },
+    {
+      "text": "Rani Molla",
+      "url": "https://www.vox.com/authors/rani-molla"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23205667/donald-trump-witness-tampering-january-6-hearing-takeaways"
+    },
+    {
+      "text": "Donald Trump\u2019s tampering, a rioter\u2019s remorse, and other January 6 hearing takeaways ",
+      "url": "https://www.vox.com/23205667/donald-trump-witness-tampering-january-6-hearing-takeaways"
+    },
+    {
+      "text": "Ben Jacobs",
+      "url": "https://www.vox.com/users/ben.jacobs"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/2022/7/12/23205239/josh-hawley-abortion-rights-khiara-bridges"
+    },
+    {
+      "text": "Josh Hawley\u2019s viral transphobic comments, briefly explained",
+      "url": "https://www.vox.com/2022/7/12/23205239/josh-hawley-abortion-rights-khiara-bridges"
+    },
+    {
+      "text": "Li Zhou",
+      "url": "https://www.vox.com/authors/li-zhou"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/future-perfect/2022/7/12/23205691/germany-energy-crisis-nuclear-power-coal-climate-change-russia-ukraine"
+    },
+    {
+      "text": "A needed nuclear option for climate change",
+      "url": "https://www.vox.com/future-perfect/2022/7/12/23205691/germany-energy-crisis-nuclear-power-coal-climate-change-russia-ukraine"
+    },
+    {
+      "text": "Bryan Walsh",
+      "url": "https://www.vox.com/authors/bryan-walsh"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23205660/trump-unhinged-giuliani-flynn-powell-january-6"
+    },
+    {
+      "text": "Trump\u2019s totally \u201cunhinged\u201d West Wing meeting",
+      "url": "https://www.vox.com/23205660/trump-unhinged-giuliani-flynn-powell-january-6"
+    },
+    {
+      "text": "Ben Jacobs",
+      "url": "https://www.vox.com/users/ben.jacobs"
+    },
+    {
+      "text": "\n      \n        \n          \n\n\n\n        \n      \n      \n      \n      \n    ",
+      "url": "https://www.vox.com/23204150/supreme-court-ice-texas-united-states-drew-tipton-immigration"
+    },
+    {
+      "text": "A Trump judge seized control of ICE. Will the Supreme Court stop him?",
+      "url": "https://www.vox.com/23204150/supreme-court-ice-texas-united-states-drew-tipton-immigration"
+    },
+    {
+      "text": "Ian Millhiser",
+      "url": "https://www.vox.com/authors/ian-millhiser"
+    },
+    {
+      "text": "\n        \n          Podcasts\n        \n      ",
+      "url": "/podcasts"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/ASKcY_h32TXddw3_6bWOlklmRKg=/250x250/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png 250w, https://cdn.vox-cdn.com/thumbor/fm674V3nqlu3vRZaLV16XvOwU9Y=/500x500/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/Y6a3AY1eeRb4EHTOjlWOVFo2Q_E=/250x250/cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png 250w, https://cdn.vox-cdn.com/thumbor/NhXtGDzjofJFfr2Q156XieKhj5A=/500x500/cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png 500w\" sizes=\"250px\" alt=\"\" src=\"https://cdn.vox-cdn.com/thumbor/lrViPx0qA8oDNWROkLCiqAyFPsI=/1200x1200/cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" data-chorus-optimize-field=\"main_image\" src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png\" data-cid=\"site/dynamic_size_image-1658199806_9107_160169\" data-cdata='{\"ratio\":\"square\"}'>\n<noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_image/image/58682849/vox_todayexplained_cl_podcastartwork.0.png\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Helping you understand the most important news in the world, five days a week\n            \n          \n        ",
+      "url": "https://www.vox.com/today-explained"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/lZlYTmC_tlK6xUcppnwF9HWibVA=/250x250/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png 250w, https://cdn.vox-cdn.com/thumbor/yniOoWCsREv7sTySR1hj7EByk8A=/500x500/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/J2plKc89WvARtx_kEjP9WcwZDk0=/250x250/cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png 250w, https://cdn.vox-cdn.com/thumbor/nXcDeFYFjwN1oBZAa6088U_bhN8=/500x500/cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png 500w\" sizes=\"250px\" alt=\"\" src=\"https://cdn.vox-cdn.com/thumbor/4DVUAxUWSHrBWtx-o667aCu8UjM=/1200x1200/cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" data-chorus-optimize-field=\"main_image\" src=\"https://cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png\" data-cid=\"site/dynamic_size_image-1658199806_9389_160171\" data-cdata='{\"ratio\":\"square\"}'>\n<noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_asset/file/22325290/Unexplainable_500x500.png\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            A science show about everything we don\u2019t know\n            \n          \n        ",
+      "url": "https://www.vox.com/unexplainable"
+    },
+    {
+      "text": "\n          \n            \n              \n                \n  \n    \n\n\n  <source\n    srcset=\"https://cdn.vox-cdn.com/thumbor/xGZXAVoeOZ0T3V8gyAQTuIjX-O4=/250x250/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg 250w, https://cdn.vox-cdn.com/thumbor/Aea_QiJhM1MVDkhur3fNLGiEEVw=/500x500/filters:format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg 500w\"\n    sizes=\"250px\"\n    type=\"image/webp\"\n  >\n\n\n<img srcset=\"https://cdn.vox-cdn.com/thumbor/RyaLul6Ijgoqla0SzfTSsgdqCE4=/250x250/cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg 250w, https://cdn.vox-cdn.com/thumbor/REoE_awpP_WCYTTiZzEqtkBuL_E=/500x500/cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg 500w\" sizes=\"250px\" alt=\"\" src=\"https://cdn.vox-cdn.com/thumbor/IpedZ1_3BSKU5TUtCEspmrgLARk=/1200x1200/cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg\" />\n\n  \n  \n    \n<img class=\"c-dynamic-image \" data-chorus-optimize-field=\"main_image\" src=\"https://cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg\" data-cid=\"site/dynamic_size_image-1658199806_6537_160173\" data-cdata='{\"ratio\":\"square\"}'>\n<noscript><img src=\"https://cdn.vox-cdn.com/uploads/chorus_asset/file/22245650/REC_013_RecodeDaily_TileArt_500x500.jpg\"></noscript>\n\n  \n\n\n              \n            \n          \n          \n            \n            Your guide to the most interesting and important tech and business news of the day\n            \n          \n        ",
+      "url": "https://www.vox.com/recode-daily"
+    },
+    {
+      "text": "More in Podcasts",
+      "url": "/podcasts"
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.voxmedia.com/legal/privacy-notice"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "newsletters page",
+      "url": "https://www.vox.com/pages/newsletters"
+    },
+    {
+      "text": "More Stories",
+      "url": "https://www.vox.com/archives"
+    },
+    {
+      "text": "\n        \n          \n  \n\n\n        \n        Chorus\n      ",
+      "url": "/"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.voxmedia.com/legal/terms-of-use"
+    },
+    {
+      "text": "Privacy Notice",
+      "url": "https://www.voxmedia.com/legal/privacy-notice"
+    },
+    {
+      "text": "Cookie Policy",
+      "url": "https://www.voxmedia.com/legal/cookie-policy"
+    },
+    {
+      "text": "Do Not Sell My Personal Info",
+      "url": "/contact#donotsell"
+    },
+    {
+      "text": "Licensing FAQ",
+      "url": "https://www.voxmedia.com/pages/licensing"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.voxmedia.com/legal/accessibility"
+    },
+    {
+      "text": "Platform Status",
+      "url": "https://status.voxmedia.com"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
+    },
+    {
+      "text": "Send Us a Tip",
+      "url": "/contact#tip"
+    },
+    {
+      "text": "Masthead",
+      "url": "/masthead"
+    },
+    {
+      "text": "About Us",
+      "url": "/pages/about-us"
+    },
+    {
+      "text": "Press Room",
+      "url": "/press-room"
+    },
+    {
+      "text": "Editorial Ethics and Guidelines",
+      "url": "https://www.vox.com/2018/12/7/18113237/ethics-and-guidelines-at-vox-com"
+    },
+    {
+      "text": "Vox MediaVox Media\nVox Media logo.",
+      "url": "https://www.voxmedia.com"
+    },
+    {
+      "text": "Author Login",
+      "url": "https://voxmedia.stories.usechorus.com/?community_id=441"
+    },
+    {
+      "text": "Advertise with us",
+      "url": "https://www.voxmedia.com/vox-advertising"
+    },
+    {
+      "text": "Jobs @ Vox Media",
+      "url": "https://jobs.voxmedia.com"
+    },
+    {
+      "text": "Vox Media",
+      "url": "https://www.voxmedia.com"
+    }
+  ],
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

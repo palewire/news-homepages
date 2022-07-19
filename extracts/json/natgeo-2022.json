@@ -1,5 +1,5 @@
 {
-  "created": 1658190363,
+  "created": 1658232806,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/natgeo-2022",
@@ -1234,31 +1234,73 @@
       "sha1": "67845583b0771d111ff23f7fa96db5db2cf14336"
     },
     {
+      "name": "natgeo-2022-07-18T23:36:20.396028-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658201786",
+      "size": "39238",
+      "md5": "eba71caf8bd31d06b23c3cc8dcec52bb",
+      "crc32": "65ffc8b0",
+      "sha1": "4f387fd0359cfa336b476f28e7ef3f6f7f72191f",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-07-18T23:36:20.396028-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658201788",
+      "size": "25653",
+      "md5": "2a01165a2736d833d948cd8e755eeb92",
+      "crc32": "29efb237",
+      "sha1": "1b74711aa28265f8b4cf496595cda286bab56ca5",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-07-18T23:36:20.396028-04:00.jpg",
+      "source": "original",
+      "mtime": "1658201785",
+      "size": "237739",
+      "md5": "ba02df5502c0b6aff6e6587397cd19b5",
+      "crc32": "45e07abb",
+      "sha1": "23a94e7dca36e120db2f02c01d2672bbd3f83dc7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "natgeo-2022-07-18T23:36:20.396028-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "natgeo-2022-07-18T23:36:20.396028-04:00.jpg",
+      "mtime": "1658202280",
+      "size": "10285",
+      "md5": "7b4af4114460f941e6ee6bc2b29b522a",
+      "crc32": "72b1c798",
+      "sha1": "1c4d3dbfbf9e6bfbb2f9cb22f052ac6ff8c311ed"
+    },
+    {
       "name": "natgeo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6e0a16d320ad267eed5b3570cfe46d1fd71d2218",
-      "mtime": "1658171121",
-      "size": "25780",
-      "md5": "1cfee8ed8d0d8ded3d250e40b03e0f70",
-      "crc32": "fc827e8f",
-      "sha1": "dd63c04d1c8c6f7daa564c33ac85ef52c24a28d7",
+      "btih": "a0dc068a69f5ab7cfce652ff979aac69396944ee",
+      "mtime": "1658202313",
+      "size": "26602",
+      "md5": "0bdbbaa908c64023d43edde15b3d0f7f",
+      "crc32": "3a281681",
+      "sha1": "56deef7ef06bbca3d351be6860a32e1d933fbdb9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "natgeo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d8e3af5d59793bb29f9db75b97eddb90",
+      "md5": "d0bfcdbf0543b67c7ce988e2dc616043",
       "summation": "md5"
     },
     {
       "name": "natgeo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658166965",
-      "size": "155648",
-      "md5": "63bbfd09e6ffb5df58a24f2b083521ee",
-      "crc32": "83f71284",
-      "sha1": "1b38a7237b22e4933daf0e93fad855763ec7d512",
+      "mtime": "1658201791",
+      "size": "159744",
+      "md5": "7aba0fecda4b4496804ea6a81f2dc70c",
+      "crc32": "30764965",
+      "sha1": "19d0b53955b03909f8187008a8e4675379b55ea0",
       "format": "Metadata"
     },
     {
@@ -1272,9 +1314,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 121,
-  "item_last_updated": 1658171121,
-  "item_size": 9122804,
+  "files_count": 125,
+  "item_last_updated": 1658202313,
+  "item_size": 9440637,
   "metadata": {
     "identifier": "natgeo-2022",
     "collection": [
@@ -1317,6 +1359,14 @@
       "url": "https://www.nationalgeographic.com/subscribe/magazines?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=subscribelateststories::int_add=subscribelateststories"
     },
     {
+      "text": "There\u2019s a better way to hike the Inca Trail",
+      "url": "https://www.nationalgeographic.com/travel/article/explore-inca-life-beyond-machu-picchu-on-this-trail"
+    },
+    {
+      "text": "Adventure",
+      "url": "https://www.nationalgeographic.com/adventure"
+    },
+    {
       "text": "The overlooked toll of drinking alcohol while pregnant",
       "url": "https://www.nationalgeographic.com/magazine/article/the-overlooked-toll-of-drinking-alcohol-while-pregnant"
     },
@@ -1355,14 +1405,6 @@
     {
       "text": "Kingdoms of the Dadanites and Lihyanites",
       "url": "https://www.nationalgeographic.com/travel/article/paid-content-kingdoms-of-dadanites-and-lihyanites"
-    },
-    {
-      "text": "This Renaissance 'superdome' took more than 100 years to build",
-      "url": "https://www.nationalgeographic.com/history/history-magazine/article/this-renaissance-superdome-took-more-than-100-years-to-build"
-    },
-    {
-      "text": "History Magazine",
-      "url": "https://www.nationalgeographic.com/history/magazine"
     },
     {
       "text": "See More",
@@ -1813,6 +1855,14 @@
       "url": "https://www.nationalgeographic.com/expeditions/trip-types/river/"
     },
     {
+      "text": "There\u2019s a better way to hike the Inca Trail",
+      "url": "https://www.nationalgeographic.com/travel/article/explore-inca-life-beyond-machu-picchu-on-this-trail"
+    },
+    {
+      "text": "Adventure",
+      "url": "https://www.nationalgeographic.com/adventure"
+    },
+    {
       "text": "10 epic family adventures for last-minute planners",
       "url": "https://www.nationalgeographic.com/travel/article/10-epic-family-adventures-for-last-minute-planners"
     },
@@ -1851,18 +1901,6 @@
     {
       "text": "World Heritage",
       "url": "https://www.nationalgeographic.com/travel/world-heritage"
-    },
-    {
-      "text": "In search of lost magical summers in the Catskills",
-      "url": "https://www.nationalgeographic.com/travel/article/in-search-of-lost-magical-summers-in-the-catskills"
-    },
-    {
-      "text": "Magazine",
-      "url": "https://www.nationalgeographic.com/magazine"
-    },
-    {
-      "text": "Family",
-      "url": "https://www.nationalgeographic.com/family"
     },
     {
       "text": "See More",
@@ -1963,18 +2001,6 @@
     {
       "text": "",
       "url": "https://www.nationalgeographic.com/impact"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://disneytermsofuse.com/english/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"
-    },
-    {
-      "text": "California Privacy Notice",
-      "url": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/#heading1"
     },
     {
       "text": "Terms of Use",
@@ -2113,10 +2139,10 @@
       "url": "https://www.onetrust.com/products/cookie-consent/"
     }
   ],
-  "server": "ia601405.us.archive.org",
-  "uniq": 603126432,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1536285854,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658169675,
+  "created": 1658232580,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/35/items/fox12oregon-2022",
@@ -1234,31 +1234,73 @@
       "sha1": "d1f30f13eec28171a5bba571a45fbbbda2f2a1f9"
     },
     {
+      "name": "fox12oregon-2022-07-18T19:23:35.818420-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658197418",
+      "size": "36042",
+      "md5": "4e424ef1bd3e61f6b5f693c881f693ff",
+      "crc32": "17fc8922",
+      "sha1": "7b23cc6fde1a593f756b233d96519ef8ffdcb37b",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-07-18T19:23:35.818420-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658197420",
+      "size": "20880",
+      "md5": "7c9601df320509bc8180ee39b2337e5c",
+      "crc32": "f1afd02c",
+      "sha1": "a17a547d1f2a7d8c13c9443691fcba3417f3164f",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-07-18T19:23:35.818420-07:00.jpg",
+      "source": "original",
+      "mtime": "1658197417",
+      "size": "354230",
+      "md5": "805f2ad5309010b10d0905e452d8e12a",
+      "crc32": "4a5b2971",
+      "sha1": "68c621c8ad55271c5d8ad950c553f712a2c1cdbb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-07-18T19:23:35.818420-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-07-18T19:23:35.818420-07:00.jpg",
+      "mtime": "1658197763",
+      "size": "11331",
+      "md5": "0bca524fbbafd58bc183028877a895a9",
+      "crc32": "4f375736",
+      "sha1": "dd39596e21b8c16bff74d4dfdc9a6403fb3ab8f4"
+    },
+    {
       "name": "fox12oregon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae5a98126186cbb10d16305a62ed7830e1a776f7",
-      "mtime": "1658169659",
-      "size": "26553",
-      "md5": "bbaae5bbc649de3c69e9c58d3bfc9027",
-      "crc32": "a4a096fe",
-      "sha1": "8ffb15ce5a6fb8a6a15353060e2b56bef2c848fc",
+      "btih": "b00557b31d68ff8b9c3a914c92b57372e11a94b8",
+      "mtime": "1658197768",
+      "size": "27415",
+      "md5": "75b9d28493414b115b7cff30cb5eac18",
+      "crc32": "9f4c3d9e",
+      "sha1": "1f101a36859764bd234c41b0ece0cebd81769ea3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox12oregon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52f5f18f8576c219e285805c7b307626",
+      "md5": "84deaccb768bd9fcf61615255bf06078",
       "summation": "md5"
     },
     {
       "name": "fox12oregon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658166391",
-      "size": "155648",
-      "md5": "4ab89244034fd34546e06ef452370545",
-      "crc32": "6dfa92ff",
-      "sha1": "17670bddbc801f39cc60c15c75e35c4c6e3b4970",
+      "mtime": "1658197424",
+      "size": "159744",
+      "md5": "1fbc0618eaa2533d3276efe0aae61f1a",
+      "crc32": "efe1d468",
+      "sha1": "34c5dd175dd947e4a8af54669877c07705f40084",
       "format": "Metadata"
     },
     {
@@ -1272,9 +1314,851 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 121,
-  "item_last_updated": 1658169659,
-  "item_size": 13105204,
+  "files_count": 125,
+  "fox12oregon-2022": [
+    {
+      "text": "Skip to content",
+      "url": "#main"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "79\u00b0Portland, OR",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon"
+    },
+    {
+      "text": "Outdoor GPS",
+      "url": "/outdoorgps"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "/programming/schedule"
+    },
+    {
+      "text": "Steals & Deals",
+      "url": "https://localstealsanddeals.com/?utm_source=Meredith&utm_medium=banner&utm_campaign=KPTV&knocking_aff=KPTV"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "/page/advertise-with-us/"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/livestream"
+    },
+    {
+      "text": "Home",
+      "url": "/homepage"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "National News",
+      "url": "/news/national"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "/health/coronavirus"
+    },
+    {
+      "text": "Digital Exclusives",
+      "url": "/news/digital-exclusives"
+    },
+    {
+      "text": "FOX 12 Featured Stories",
+      "url": "/video-gallery/news/features/"
+    },
+    {
+      "text": "Most Wanted",
+      "url": "/news/crime/most-wanted"
+    },
+    {
+      "text": "School Authority",
+      "url": "/news/education/school-authority"
+    },
+    {
+      "text": "Submit a Tip",
+      "url": "/page/submit-a-tip"
+    },
+    {
+      "text": "News Links - As Seen On TV",
+      "url": "/page/as-seen-on"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Submit Weather Photos",
+      "url": "/page/submit-weather-photos"
+    },
+    {
+      "text": "Weather Blog",
+      "url": "/weather/blog"
+    },
+    {
+      "text": "Weather Podcast",
+      "url": "/podcasts/weather"
+    },
+    {
+      "text": "7 Day Forecast",
+      "url": "/weather/7day"
+    },
+    {
+      "text": "Weather Maps",
+      "url": "/weather/maps"
+    },
+    {
+      "text": "Closings",
+      "url": "/weather/closings"
+    },
+    {
+      "text": "Weather Alerts",
+      "url": "/weather/alerts"
+    },
+    {
+      "text": "Wildfires",
+      "url": "/wildfires"
+    },
+    {
+      "text": "Digital Exclusives",
+      "url": "https://www.kptv.com/news/digital-exclusives/"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic"
+    },
+    {
+      "text": "Gas Prices",
+      "url": "/traffic/gas-prices"
+    },
+    {
+      "text": "Community",
+      "url": "/community"
+    },
+    {
+      "text": "Community Calendar",
+      "url": "/community/calendar"
+    },
+    {
+      "text": "Hunger Free Project",
+      "url": "/hungerfreeproject"
+    },
+    {
+      "text": "Clean Water - It's Our Future",
+      "url": "/page/clean-water-its-our-future/"
+    },
+    {
+      "text": "Better Together",
+      "url": "/page/better-together"
+    },
+    {
+      "text": "Be The Change",
+      "url": "/page/be-the-change"
+    },
+    {
+      "text": "Surprise Squad",
+      "url": "/page/surprise-squad"
+    },
+    {
+      "text": "Rose Festival",
+      "url": "/rosefestival/"
+    },
+    {
+      "text": "Classroom of the Month",
+      "url": "/page/classroom"
+    },
+    {
+      "text": "Submit Photos & Video",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports"
+    },
+    {
+      "text": "High Schools",
+      "url": "/sports/high-school"
+    },
+    {
+      "text": "Trail Blazers",
+      "url": "/sports/nba/blazers"
+    },
+    {
+      "text": "Timbers",
+      "url": "/sports/mls/timbers"
+    },
+    {
+      "text": "Thorns",
+      "url": "/sports/nwsl/thorns"
+    },
+    {
+      "text": "National Sports",
+      "url": "/sports/national"
+    },
+    {
+      "text": "Outdoor GPS",
+      "url": "/outdoorgps"
+    },
+    {
+      "text": "Health",
+      "url": "/health"
+    },
+    {
+      "text": "Kaiser Permanente Thrive",
+      "url": "/health/kaiser-permanente"
+    },
+    {
+      "text": "Providence Health & Services",
+      "url": "/health/providence"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon"
+    },
+    {
+      "text": "On the Go",
+      "url": "/programming/good-day-oregon/on-the-go/"
+    },
+    {
+      "text": "Andy's Adventures",
+      "url": "/video-gallery/programming/good-day-oregon/andys-adventures"
+    },
+    {
+      "text": "Share Your Child's 1st Birthday",
+      "url": "/page/1st-birthday"
+    },
+    {
+      "text": "Good Day Pets",
+      "url": "/page/good-day-pets/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/about-us/contact-us"
+    },
+    {
+      "text": "Meet the Team",
+      "url": "/about-us/meet-the-team"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "/programming/schedule"
+    },
+    {
+      "text": "Our Apps",
+      "url": "/page/apps/"
+    },
+    {
+      "text": "FOX 12 on Youtube",
+      "url": "https://www.youtube.com/c/fox12"
+    },
+    {
+      "text": "Alexa",
+      "url": "/page/alexa"
+    },
+    {
+      "text": "Get a Copy of a Newscast",
+      "url": "/page/get-a-copy-of-a-newscast/"
+    },
+    {
+      "text": "FOX 12 Plus",
+      "url": "/page/fox-12-plus/"
+    },
+    {
+      "text": "Station Video Tour",
+      "url": "/page/fox-oregon-station-tour/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://gray.tv/careers#currentopenings"
+    },
+    {
+      "text": "Closed Captioning",
+      "url": "/page/closed-captioning"
+    },
+    {
+      "text": "Translators",
+      "url": "/page/kptv-translators/"
+    },
+    {
+      "text": "NextGen TV",
+      "url": "/page/nextgen-tv"
+    },
+    {
+      "text": "Steals & Deals",
+      "url": "https://localstealsanddeals.com/?utm_source=Meredith&utm_medium=banner&utm_campaign=KPTV&knocking_aff=KPTV"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "/page/advertise-with-us/"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/livestream"
+    },
+    {
+      "text": "Latest Newscasts",
+      "url": "https://www.vuit.com/publishers/226/kptv/vod"
+    },
+    {
+      "text": "Job Connection",
+      "url": "/business/jobs"
+    },
+    {
+      "text": "Circle - Country Music & Lifestyle",
+      "url": "https://www.circleallaccess.com/"
+    },
+    {
+      "text": "Gray DC Bureau",
+      "url": "https://www.graydc.com/"
+    },
+    {
+      "text": "Investigate TV",
+      "url": "https://www.investigatetv.com/"
+    },
+    {
+      "text": "PowerNation",
+      "url": "/powernation"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/fox12oregon"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/fox12oregon"
+    },
+    {
+      "text": "",
+      "url": "https://www.twitter.com/fox12oregon"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UCyWF77WR3CfkZ52cc9XK5wQ"
+    },
+    {
+      "text": " New report shows sharp increase in Portland gun violenceA new report released by Portland Mayor Ted Wheeler\u2019s office shows a sharp increase in gun violence.",
+      "url": "/2022/07/16/new-report-shows-sharp-increase-portland-gun-violence/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/16/new-report-shows-sharp-increase-portland-gun-violence/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/missing-portland-four-year-old-believed-be-danger/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/18/missing-portland-four-year-old-believed-be-danger/"
+    },
+    {
+      "text": "Missing Portland four-year-old believed to be in danger",
+      "url": "/2022/07/18/missing-portland-four-year-old-believed-be-danger/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/oregon-man-gets-2-life-sentences-after-pleading-guilty-murder-his-grandparents/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/18/oregon-man-gets-2-life-sentences-after-pleading-guilty-murder-his-grandparents/"
+    },
+    {
+      "text": "Oregon man gets 2 life sentences after pleading guilty to murdering his grandparents",
+      "url": "/2022/07/18/oregon-man-gets-2-life-sentences-after-pleading-guilty-murder-his-grandparents/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/19/deans-beauty-salon-barber-shop-joins-portland-historic-register/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/19/deans-beauty-salon-barber-shop-joins-portland-historic-register/"
+    },
+    {
+      "text": " Longest black-owned business in Oregon joins the National Historic Register",
+      "url": "/2022/07/19/deans-beauty-salon-barber-shop-joins-portland-historic-register/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/oregon-state-police-searching-3rd-burglary-suspect-after-car-chase-island-city/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/18/oregon-state-police-searching-3rd-burglary-suspect-after-car-chase-island-city/"
+    },
+    {
+      "text": "Oregon State Police searching for 3rd burglary suspect after a car chase in Island City",
+      "url": "/2022/07/18/oregon-state-police-searching-3rd-burglary-suspect-after-car-chase-island-city/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/trial-patriot-prayer-leader-joey-gibson-begins-multnomah-county/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/18/trial-patriot-prayer-leader-joey-gibson-begins-multnomah-county/"
+    },
+    {
+      "text": " Trial for Patriot Prayer leader Joey Gibson begins in Multnomah County",
+      "url": "/2022/07/18/trial-patriot-prayer-leader-joey-gibson-begins-multnomah-county/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/oregon-prisoner-escapes-custody-near-lebanon/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/18/oregon-prisoner-escapes-custody-near-lebanon/"
+    },
+    {
+      "text": "Oregon prisoner escapes custody near Lebanon",
+      "url": "/2022/07/18/oregon-prisoner-escapes-custody-near-lebanon/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/director-portland-housing-bureau-resigning-after-five-years/"
+    },
+    {
+      "text": "Director of Portland Housing Bureau resigning after five years",
+      "url": "/2022/07/18/director-portland-housing-bureau-resigning-after-five-years/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/missing-woman-wilderville-area/"
+    },
+    {
+      "text": "Missing woman in Wilderville area",
+      "url": "/2022/07/18/missing-woman-wilderville-area/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/southbound-i-5-closed-near-hazel-dell-due-deadly-crash/"
+    },
+    {
+      "text": "Southbound I-5 closed near Hazel Dell due to deadly crash",
+      "url": "/2022/07/18/southbound-i-5-closed-near-hazel-dell-due-deadly-crash/"
+    },
+    {
+      "text": "",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "/hungerfreeproject"
+    },
+    {
+      "text": "",
+      "url": "/hungerfreeproject"
+    },
+    {
+      "text": "",
+      "url": "/page/as-seen-on/"
+    },
+    {
+      "text": "",
+      "url": "/page/as-seen-on/"
+    },
+    {
+      "text": "FOX 12 Plus+",
+      "url": "/page/fox-12-plus"
+    },
+    {
+      "text": "",
+      "url": "/page/fox-12-plus"
+    },
+    {
+      "text": "FOX 12's Most Wanted",
+      "url": "/news/crime/most-wanted"
+    },
+    {
+      "text": "",
+      "url": "/news/crime/most-wanted"
+    },
+    {
+      "text": "Digital Exclusives",
+      "url": "/news/digital-exclusives"
+    },
+    {
+      "text": "",
+      "url": "/news/digital-exclusives"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon/"
+    },
+    {
+      "text": "",
+      "url": "/programming/good-day-oregon/"
+    },
+    {
+      "text": "On The Go",
+      "url": "/programming/good-day-oregon/on-the-go/"
+    },
+    {
+      "text": "",
+      "url": "/programming/good-day-oregon/on-the-go/"
+    },
+    {
+      "text": "Submit Photos & Videos",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "LATEST VIDEO",
+      "url": "/video-gallery/news"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/19/trial-patriot-prayer-leader-joey-gibson-begins-multnomah-county/"
+    },
+    {
+      "text": "Trial for Patriot Prayer leader Joey Gibson begins in Multnomah County",
+      "url": "/video/2022/07/19/trial-patriot-prayer-leader-joey-gibson-begins-multnomah-county/"
+    },
+    {
+      "text": "Mayor Ted Wheeler releases new report on Portland gun violence",
+      "url": "/video/2022/07/19/mayor-ted-wheeler-releases-new-report-portland-gun-violence/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/19/longest-black-owned-business-oregon-joins-national-historic-register/"
+    },
+    {
+      "text": "Longest black-owned business in Oregon joins the National Historic Register",
+      "url": "/video/2022/07/19/longest-black-owned-business-oregon-joins-national-historic-register/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/18/trial-patriot-prayer-leader-joey-gibson-begins-multnomah-county/"
+    },
+    {
+      "text": "Trial for Patriot Prayer leader Joey Gibson begins in Multnomah County",
+      "url": "/video/2022/07/18/trial-patriot-prayer-leader-joey-gibson-begins-multnomah-county/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/jack-black-visits-oregon-lake-over-weekend/"
+    },
+    {
+      "text": "Jack Black visits Oregon lake over the weekend",
+      "url": "/2022/07/18/jack-black-visits-oregon-lake-over-weekend/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/osp-investigating-hit-and-run-involving-bicyclist-josephine-county/"
+    },
+    {
+      "text": "OSP investigating hit-and-run involving bicyclist in Josephine County",
+      "url": "/2022/07/18/osp-investigating-hit-and-run-involving-bicyclist-josephine-county/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/driver-dies-after-hitting-parked-car-rolling-down-embankment-ne-marine-drive/"
+    },
+    {
+      "text": " Driver dies after hitting parked car, rolling down embankment on NE Marine Drive",
+      "url": "/2022/07/18/driver-dies-after-hitting-parked-car-rolling-down-embankment-ne-marine-drive/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/law-enforcement-issues-125-citations-oregon-country-fair/"
+    },
+    {
+      "text": "Law enforcement issues 125 citations at Oregon Country Fair",
+      "url": "/2022/07/18/law-enforcement-issues-125-citations-oregon-country-fair/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/people-color-outdoors-creates-an-inclusive-environment-adventure/"
+    },
+    {
+      "text": " People of Color Outdoors creates an inclusive environment for adventure",
+      "url": "/2022/07/18/people-color-outdoors-creates-an-inclusive-environment-adventure/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/17/3-shootings-within-30-minutes-portland-sunday-2-dead/"
+    },
+    {
+      "text": " 3 shootings within 30 minutes in Portland Sunday, 2 dead",
+      "url": "/2022/07/17/3-shootings-within-30-minutes-portland-sunday-2-dead/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/new-salt-straw-scoop-shop-opening-beaverton-this-friday/"
+    },
+    {
+      "text": "New Salt & Straw scoop shop opening in Beaverton this Friday",
+      "url": "/2022/07/18/new-salt-straw-scoop-shop-opening-beaverton-this-friday/"
+    },
+    {
+      "text": "National News",
+      "url": "/2022/07/17/uvalde-families-receive-new-report-police-failures/"
+    },
+    {
+      "text": " Uvalde report: 376 officers but \u2018egregiously poor\u2019 decisions ",
+      "url": "/2022/07/17/uvalde-families-receive-new-report-police-failures/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/impairment-suspected-crash-hwy-20-near-sweet-home-2-injured/"
+    },
+    {
+      "text": "Impairment suspected in crash on Hwy 20 near Sweet Home, 2 injured",
+      "url": "/2022/07/18/impairment-suspected-crash-hwy-20-near-sweet-home-2-injured/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/17/2-dead-vancouver-house-party-shooting/"
+    },
+    {
+      "text": " 2 dead in Vancouver house party shooting",
+      "url": "/2022/07/17/2-dead-vancouver-house-party-shooting/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/antelope-man-found-dead-crash-highway-293/"
+    },
+    {
+      "text": "Antelope man found dead in crash on Highway 293",
+      "url": "/2022/07/18/antelope-man-found-dead-crash-highway-293/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/18/mora-scores-equalizer-timbers-tie-1-1-with-whitecaps/"
+    },
+    {
+      "text": "Mora scores equalizer, Timbers tie 1-1 with Whitecaps",
+      "url": "/2022/07/18/mora-scores-equalizer-timbers-tie-1-1-with-whitecaps/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/17/oregon-man-sets-up-road-block-shoots-alleged-thief-public-road-police/"
+    },
+    {
+      "text": "Oregon man sets up road block, shoots alleged thief on public road: Police",
+      "url": "/2022/07/17/oregon-man-sets-up-road-block-shoots-alleged-thief-public-road-police/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/pedestrian-killed-portland-crash-involving-2-vehicles/"
+    },
+    {
+      "text": " Driver flees after killing person, 2 dogs in Portland",
+      "url": "/2022/07/16/pedestrian-killed-portland-crash-involving-2-vehicles/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/one-person-shot-portland-one-person-detained/"
+    },
+    {
+      "text": "One person shot-and-killed in Portland, one person detained",
+      "url": "/2022/07/16/one-person-shot-portland-one-person-detained/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/oregon-call-center-prepares-988-suicide-hotline-rollout/"
+    },
+    {
+      "text": " Oregon call center prepares for 988 suicide hotline rollout",
+      "url": "/2022/07/16/oregon-call-center-prepares-988-suicide-hotline-rollout/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/multiple-shots-fired-hazel-dell-apartments-2-injured/"
+    },
+    {
+      "text": "Multiple shots fired at Hazel Dell apartments, 2 injured",
+      "url": "/2022/07/16/multiple-shots-fired-hazel-dell-apartments-2-injured/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/2-dead-after-vehicle-crashes-into-power-pole-near-lyons/"
+    },
+    {
+      "text": "2 dead after vehicle crashes into power pole near Lyons",
+      "url": "/2022/07/16/2-dead-after-vehicle-crashes-into-power-pole-near-lyons/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/firefighters-rescue-3-cats-3-dogs-burning-home-eugene/"
+    },
+    {
+      "text": "Firefighters rescue 3 cats, 3 dogs from burning home in Eugene",
+      "url": "/2022/07/16/firefighters-rescue-3-cats-3-dogs-burning-home-eugene/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/family-friends-remember-kevin-mcdowell-hold-memorial-friday/"
+    },
+    {
+      "text": " Family and friends remember Kevin McDowell, hold memorial on Friday",
+      "url": "/2022/07/16/family-friends-remember-kevin-mcdowell-hold-memorial-friday/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/exclusive-portland-woman-seeks-justice-after-unprovoked-killing-husband/"
+    },
+    {
+      "text": " EXCLUSIVE: Portland woman seeks justice after unprovoked killing of husband",
+      "url": "/2022/07/16/exclusive-portland-woman-seeks-justice-after-unprovoked-killing-husband/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/16/portland-police-investigating-powellhurst-gilbert-neighborhood-shooting/"
+    },
+    {
+      "text": "One dead after shooting in Powellhurst-Gilbert neighborhood ",
+      "url": "/2022/07/16/portland-police-investigating-powellhurst-gilbert-neighborhood-shooting/"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "About Us",
+      "url": "/about-us"
+    },
+    {
+      "text": "TV Schedule",
+      "url": "/programming/schedule"
+    },
+    {
+      "text": "Community Calendar",
+      "url": "/community/calendar"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Meet the Team",
+      "url": "/about-us/meet-the-team"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/video/livestream"
+    },
+    {
+      "text": "Submit Photos & Video",
+      "url": "/community/user-content"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "/page/advertise-with-us/"
+    },
+    {
+      "text": "Good Day Oregon",
+      "url": "/programming/good-day-oregon"
+    },
+    {
+      "text": "Sign Up for Newsletters",
+      "url": "/newsletter"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic"
+    },
+    {
+      "text": "Careers",
+      "url": "https://gray.tv/careers#currentopenings"
+    },
+    {
+      "text": "KPTV Public Inspection File",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPTV"
+    },
+    {
+      "text": "KPDX Public Inspection File",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPDX"
+    },
+    {
+      "text": "Closed Captioning/Audio Description",
+      "url": "/page/closed-captioning"
+    },
+    {
+      "text": "FCC Applications",
+      "url": "https://webpubcontent.gray.tv/gdm/fcc/kptv-fcc_applications.pdf"
+    },
+    {
+      "text": "KPTV Children's Programming",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPTV/programs-list"
+    },
+    {
+      "text": "KPDX Children's Programming",
+      "url": "https://publicfiles.fcc.gov/tv-profile/KPDX/programs-list"
+    },
+    {
+      "text": "EEO Public File Report",
+      "url": "https://publicfiles.fcc.gov/api/manager/download/13d93aa2-4579-eff3-7899-81ec77639306/de328b66-3a49-489f-8137-1524077cac7c.pdf"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "/terms-of-service"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "Advertising",
+      "url": "/advertising"
+    },
+    {
+      "text": "search by queryly ",
+      "url": "https://www.queryly.com/"
+    },
+    {
+      "text": "Advanced Search",
+      "url": "#"
+    }
+  ],
+  "item_last_updated": 1658197768,
+  "item_size": 13532645,
   "metadata": {
     "identifier": "fox12oregon-2022",
     "collection": [
@@ -1292,7 +2176,7 @@
     "addeddate": "2022-07-04 21:52:58"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 358032249,
+  "uniq": 2099468413,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

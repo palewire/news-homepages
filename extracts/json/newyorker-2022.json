@@ -1,5 +1,5 @@
 {
-  "created": 1658190381,
+  "created": 1658232831,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -2664,31 +2664,73 @@
       "sha1": "678c56c05b8285280f1ddd583d69fb4e0599f7ea"
     },
     {
+      "name": "newyorker-2022-07-18T23:37:42.590748-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658201865",
+      "size": "44553",
+      "md5": "546af850001b0ebdfcada9c0ccae22c2",
+      "crc32": "4e7332c4",
+      "sha1": "cb75b8b1e858062568d5ed79ccb6b674abbf47b7",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-07-18T23:37:42.590748-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658201867",
+      "size": "24464",
+      "md5": "29b23878d15d45989a0d493424eba06a",
+      "crc32": "449756a5",
+      "sha1": "e8ba29aa2c047da6b983516d6a40eabe2c42f8b0",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-07-18T23:37:42.590748-04:00.jpg",
+      "source": "original",
+      "mtime": "1658201864",
+      "size": "299124",
+      "md5": "e69f524c7709f1d9515572222ef7369d",
+      "crc32": "d9b32546",
+      "sha1": "895af130810b698882288fef3ac9bd72daf404cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-07-18T23:37:42.590748-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-07-18T23:37:42.590748-04:00.jpg",
+      "mtime": "1658202344",
+      "size": "9639",
+      "md5": "80838cb49958654996206d62c7cb2e38",
+      "crc32": "1489af4a",
+      "sha1": "2fb976999e0f2cc8a0a49438e48f00e64bbf55da"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07a28c9de43191e38fe0394bec79a76c7c546db7",
-      "mtime": "1658171258",
-      "size": "54981",
-      "md5": "1a056601c934f3b38758d6487fb29100",
-      "crc32": "34cd167b",
-      "sha1": "3358e7b711a7461e56ceb3c2271adab94494d733",
+      "btih": "818346664bc7947424933a50621218c4ad2545bb",
+      "mtime": "1658202499",
+      "size": "55834",
+      "md5": "4d780236ddce3517b214bb4dc804d7c1",
+      "crc32": "eb26bed7",
+      "sha1": "1a9f49f63c5a28033ef4ed2d92982894248557b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eb11df8ea7efcbe4e2a5c329f30b13ff",
+      "md5": "e3b464b1fca9ef3744834b5ad3eee137",
       "summation": "md5"
     },
     {
       "name": "newyorker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658167061",
-      "size": "307200",
-      "md5": "ac4b71ff81c99befd922a69c422a7c2a",
-      "crc32": "dbe01da8",
-      "sha1": "ae65c17500a073e27a82a29bdfc4c84fe2a0af19",
+      "mtime": "1658201871",
+      "size": "311296",
+      "md5": "22cf55689285e306e5f60a1c2852b6c2",
+      "crc32": "2303b255",
+      "sha1": "28d6a9108d67341fd2378d284db8c75bc74d1285",
       "format": "Metadata"
     },
     {
@@ -2702,9 +2744,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 257,
-  "item_last_updated": 1658171258,
-  "item_size": 23459173,
+  "files_count": 261,
+  "item_last_updated": 1658202499,
+  "item_size": 23841902,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -2721,1224 +2763,952 @@
     "publicdate": "2022-06-24 22:58:35",
     "addeddate": "2022-06-24 22:58:35"
   },
-  "newyorker-2022": {
-    "role": "WebArea",
-    "name": "The New Yorker",
-    "children": [
-      {
-        "role": "link",
-        "name": "Skip to main content"
-      },
-      {
-        "role": "link",
-        "name": "LG Cartton"
-      },
-      {
-        "role": "link",
-        "name": "The New Yorker"
-      },
-      {
-        "role": "link",
-        "name": "Newsletter"
-      },
-      {
-        "role": "link",
-        "name": "Sign In"
-      },
-      {
-        "role": "link",
-        "name": "Subscribe"
-      },
-      {
-        "role": "link",
-        "name": "Search Search"
-      },
-      {
-        "role": "link",
-        "name": "News"
-      },
-      {
-        "role": "link",
-        "name": "Books & Culture"
-      },
-      {
-        "role": "link",
-        "name": "Fiction & Poetry"
-      },
-      {
-        "role": "link",
-        "name": "Humor & Cartoons"
-      },
-      {
-        "role": "link",
-        "name": "Magazine"
-      },
-      {
-        "role": "link",
-        "name": "Puzzles & Games"
-      },
-      {
-        "role": "link",
-        "name": "Video"
-      },
-      {
-        "role": "link",
-        "name": "Podcasts"
-      },
-      {
-        "role": "link",
-        "name": "Archive"
-      },
-      {
-        "role": "link",
-        "name": "Goings On"
-      },
-      {
-        "role": "link",
-        "name": "Shop"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "main",
-        "name": "",
-        "children": [
-          {
-            "role": "text",
-            "name": "Support"
-          },
-          {
-            "role": "text",
-            "name": "The New Yorker\u2019s"
-          },
-          {
-            "role": "text",
-            "name": "award-winning journalism."
-          },
-          {
-            "role": "link",
-            "name": "Subscribe today \u00bb"
-          },
-          {
-            "role": "heading",
-            "name": "News & Culture",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "A Reporter at Large The Haves and the Have-Yachts Luxury ships attract outrage and political scrutiny. The ultra-rich are buying them in record numbers. By Evan Osnos",
-            "children": [
-              {
-                "role": "link",
-                "name": "A Reporter at Large"
-              },
-              {
-                "role": "link",
-                "name": "The Haves and the Have-Yachts"
-              },
-              {
-                "role": "link",
-                "name": "Evan Osnos"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The Sporting Scene Can Pickleball Save America? The sport, beloved for its democratic spirit, could unite the country\u2014if it doesn\u2019t divide itself first. By Sarah Larson",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Sporting Scene"
-              },
-              {
-                "role": "link",
-                "name": "Can Pickleball Save America?"
-              },
-              {
-                "role": "link",
-                "name": "Sarah Larson"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Personal History A Recipe for Forgiveness My father was troubled, moody, and struggled with alcoholism. Making dinner for our family was what brought him back to us. By Helen Longstreth",
-            "children": [
-              {
-                "role": "link",
-                "name": "Personal History"
-              },
-              {
-                "role": "link",
-                "name": "A Recipe for Forgiveness"
-              },
-              {
-                "role": "link",
-                "name": "Helen Longstreth"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The New Yorker Interview Jay Duplass Doesn\u2019t Want to Be a Coen Brother Anymore The director-actor-writer-producer on uncoupling with his brother and creative partner, his role in Season 2 of \u201cIndustry,\u201d and his most ambitious project yet. By Naomi Fry",
-            "children": [
-              {
-                "role": "link",
-                "name": "The New Yorker Interview"
-              },
-              {
-                "role": "link",
-                "name": "Jay Duplass Doesn\u2019t Want to Be a Coen Brother Anymore"
-              },
-              {
-                "role": "link",
-                "name": "Naomi Fry"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Essay Is Abortion Sacred? By Jia Tolentino",
-            "children": [
-              {
-                "role": "link",
-                "name": "Essay"
-              },
-              {
-                "role": "link",
-                "name": "Is Abortion Sacred?"
-              },
-              {
-                "role": "link",
-                "name": "Jia Tolentino"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The Art World Fault Lines in America and Ukraine By Peter Schjeldahl",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Art World"
-              },
-              {
-                "role": "link",
-                "name": "Fault Lines in America and Ukraine"
-              },
-              {
-                "role": "link",
-                "name": "Peter Schjeldahl"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Photo Booth Wendy Red Star\u2019s Indigenous Gaze By Tiffany Midge",
-            "children": [
-              {
-                "role": "link",
-                "name": "Photo Booth"
-              },
-              {
-                "role": "link",
-                "name": "Wendy Red Star\u2019s Indigenous Gaze"
-              },
-              {
-                "role": "link",
-                "name": "Tiffany Midge"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "This Week\u2019s Issue",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "July 25, 2022",
-            "children": [
-              {
-                "role": "link",
-                "name": "July 25, 2022"
-              }
-            ]
-          },
-          {
-            "role": "link",
-            "name": "Table of Contents \u00bb"
-          },
-          {
-            "role": "region",
-            "name": "Advertisement",
-            "description": "3rd party ad content"
-          },
-          {
-            "role": "heading",
-            "name": "Puzzles & Games",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "Name Drop A quiz that tests your knowledge of notable people, published every weekday.",
-            "children": [
-              {
-                "role": "link",
-                "name": "Name Drop"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The Crossword A puzzle that ranges from lightly to considerably challenging, published every weekday.",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Crossword"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The Cryptic Crossword A weekly puzzle for lovers of wily wordplay.",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Cryptic Crossword"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Caption Contest We provide a cartoon, you provide a caption.",
-            "children": [
-              {
-                "role": "link",
-                "name": "Caption Contest"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Spotlight",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "Comment Herschel Walker\u2019s Deficits Are Not the Only Cause for Concern His Senate candidacy is a clear example of the warping effect that Donald Trump has had on the G.O.P. nationally. By Jelani Cobb",
-            "children": [
-              {
-                "role": "link",
-                "name": "Comment"
-              },
-              {
-                "role": "link",
-                "name": "Herschel Walker\u2019s Deficits Are Not the Only Cause for Concern"
-              },
-              {
-                "role": "link",
-                "name": "Jelani Cobb"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Here To There Dept. Supply-Chain\u00a0Problems?\u00a0Try a Cargo\u00a0Schooner The crew of Grain de Sail, a sailboat carrying a load of French biodynamic wines, hoists the mainsail and floats into town. By Adam Iscoe",
-            "children": [
-              {
-                "role": "link",
-                "name": "Here To There Dept."
-              },
-              {
-                "role": "link",
-                "name": "Supply-Chain\u00a0Problems?\u00a0Try a Cargo\u00a0Schooner"
-              },
-              {
-                "role": "link",
-                "name": "Adam Iscoe"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Dispatch Treating Rape Victims in Ukraine A grassroots effort is offering mental-health care to Ukrainians who\u2019ve faced sexual violence at the hands of the Russian invasion force. By Joshua Yaffa",
-            "children": [
-              {
-                "role": "link",
-                "name": "Dispatch"
-              },
-              {
-                "role": "link",
-                "name": "Treating Rape Victims in Ukraine"
-              },
-              {
-                "role": "link",
-                "name": "Joshua Yaffa"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Daily Comment Congress Punts on Serious Climate Legislation, Again Joe Manchin tanks a big chance to cut the heat. By Bill McKibben",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Comment"
-              },
-              {
-                "role": "link",
-                "name": "Congress Punts on Serious Climate Legislation, Again"
-              },
-              {
-                "role": "link",
-                "name": "Bill McKibben"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Our Local Correspondents Proving That the State Killed Your Son A New York State prison told Lonnie Hamilton that his son had hanged himself. He believed there was more to the story. By Jennifer Gonnerman",
-            "children": [
-              {
-                "role": "link",
-                "name": "Our Local Correspondents"
-              },
-              {
-                "role": "link",
-                "name": "Proving That the State Killed Your Son"
-              },
-              {
-                "role": "link",
-                "name": "Jennifer Gonnerman"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Daily Comment Biden Caters to Autocrats and Draws Battle Lines in the Middle East The President rallied Israel and key Arab nations as diplomacy on Iran\u2019s nuclear program falters. By Robin Wright",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Comment"
-              },
-              {
-                "role": "link",
-                "name": "Biden Caters to Autocrats and Draws Battle Lines in the Middle East"
-              },
-              {
-                "role": "link",
-                "name": "Robin Wright"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Medical Dispatch What\u2019s at Stake in the Fight Against Monkeypox There\u2019s still time for a forceful global response to shape the future of the disease. By Dhruv Khullar",
-            "children": [
-              {
-                "role": "link",
-                "name": "Medical Dispatch"
-              },
-              {
-                "role": "link",
-                "name": "What\u2019s at Stake in the Fight Against Monkeypox"
-              },
-              {
-                "role": "link",
-                "name": "Dhruv Khullar"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Elements The Bizarre Bird That\u2019s Breaking the Tree of Life Darwin thought that family trees could explain evolution. The hoatzin suggests otherwise. By Ben Crair",
-            "children": [
-              {
-                "role": "link",
-                "name": "Elements"
-              },
-              {
-                "role": "link",
-                "name": "The Bizarre Bird That\u2019s Breaking the Tree of Life"
-              },
-              {
-                "role": "link",
-                "name": "Ben Crair"
-              }
-            ]
-          },
-          {
-            "role": "text",
-            "name": "The best of"
-          },
-          {
-            "role": "text",
-            "name": "The New Yorker"
-          },
-          {
-            "role": "text",
-            "name": ", in your in-box."
-          },
-          {
-            "role": "link",
-            "name": "Sign up now for our newsletters today."
-          },
-          {
-            "role": "heading",
-            "name": "Listen to The New Yorker",
-            "level": 2
-          },
-          {
-            "role": "text",
-            "name": "Catch up where and when it suits you. For easy listening,\u00a0"
-          },
-          {
-            "role": "link",
-            "name": "download the New Yorker app"
-          },
-          {
-            "role": "text",
-            "name": "."
-          },
-          {
-            "role": "button",
-            "name": "Dept. of Transportation The VW Bus Took the Sixties on the Road. Now It\u2019s Getting a Makeover Once, it sparked dreams of community and counterculture. What\u2019s gained\u2014and lost\u2014when\u00a0flower power is electrified? By Jill Lepore",
-            "children": [
-              {
-                "role": "link",
-                "name": "Dept. of Transportation"
-              },
-              {
-                "role": "link",
-                "name": "The VW Bus Took the Sixties on the Road. Now It\u2019s Getting a Makeover"
-              },
-              {
-                "role": "link",
-                "name": "Jill Lepore"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Books Why Storytelling Is Part of Being a Good Doctor Physicians\u2019 education puts science front and center, but narrative can be a surprisingly powerful medicine. By Jerome Groopman",
-            "children": [
-              {
-                "role": "link",
-                "name": "Books"
-              },
-              {
-                "role": "link",
-                "name": "Why Storytelling Is Part of Being a Good Doctor"
-              },
-              {
-                "role": "link",
-                "name": "Jerome Groopman"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Letter from Lusanga Can an Artists\u2019 Collective in Africa Repair a Colonial Legacy? Its founders believe that they can help heal the effects of more than a century of plunder. By Alice Gregory",
-            "children": [
-              {
-                "role": "link",
-                "name": "Letter from Lusanga"
-              },
-              {
-                "role": "link",
-                "name": "Can an Artists\u2019 Collective in Africa Repair a Colonial Legacy?"
-              },
-              {
-                "role": "link",
-                "name": "Alice Gregory"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Books When Tribal Nations Expel Their Black Members Clashes between sovereignty rights and civil rights reveal\u00a0an uncomfortable and complicated story about race and belonging in America. By Philip Deloria",
-            "children": [
-              {
-                "role": "link",
-                "name": "Books"
-              },
-              {
-                "role": "link",
-                "name": "When Tribal Nations Expel Their Black Members"
-              },
-              {
-                "role": "link",
-                "name": "Philip Deloria"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Contributors",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "John Cassidy Our Columnists Joe Manchin Plays the Role of Wrecker, Again",
-            "children": [
-              {
-                "role": "link",
-                "name": "Our Columnists"
-              },
-              {
-                "role": "link",
-                "name": "Joe Manchin Plays the Role of Wrecker, Again"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Mary Norris Culture Desk My Last Visit with John Bennet",
-            "children": [
-              {
-                "role": "link",
-                "name": "Culture Desk"
-              },
-              {
-                "role": "link",
-                "name": "My Last Visit with John Bennet"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Hannah Goldfield Tables for Two At Laser Wolf, Dinner Is Even Better than the Sunset",
-            "children": [
-              {
-                "role": "link",
-                "name": "Tables for Two"
-              },
-              {
-                "role": "link",
-                "name": "At Laser Wolf, Dinner Is Even Better than the Sunset"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Vinson Cunningham Dept. of Heirlooms When Songs Make Church a Home",
-            "children": [
-              {
-                "role": "link",
-                "name": "Dept. of Heirlooms"
-              },
-              {
-                "role": "link",
-                "name": "When Songs Make Church a Home"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Naomi Fry Culture Desk How Victoria\u2019s Secret Created the American Fantasy Woman",
-            "children": [
-              {
-                "role": "link",
-                "name": "Culture Desk"
-              },
-              {
-                "role": "link",
-                "name": "How Victoria\u2019s Secret Created the American Fantasy Woman"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Eliza Griswold Dispatch The Kids Who Lost Parents to covid",
-            "children": [
-              {
-                "role": "link",
-                "name": "Dispatch"
-              },
-              {
-                "role": "link",
-                "name": "The Kids Who Lost Parents to covid"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Anthony Lane Culture Desk The Must-See Films of Marco Bellocchio",
-            "children": [
-              {
-                "role": "link",
-                "name": "Culture Desk"
-              },
-              {
-                "role": "link",
-                "name": "The Must-See Films of Marco Bellocchio"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Isaac Chotiner Q. & A. How Not to Fight Inflation",
-            "children": [
-              {
-                "role": "link",
-                "name": "Q. & A."
-              },
-              {
-                "role": "link",
-                "name": "How Not to Fight Inflation"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Daily Cartoon",
-            "level": 2
-          },
-          {
-            "role": "link",
-            "name": "This week\u2019s cartoons \u00bb"
-          },
-          {
-            "role": "button",
-            "name": "Share on Facebook Share on Twitter Share via Email Get in store",
-            "children": [
-              {
-                "role": "generic",
-                "name": "",
-                "children": [
-                  {
-                    "role": "link",
-                    "name": ""
-                  },
-                  {
-                    "role": "link",
-                    "name": "Share on Facebook"
-                  },
-                  {
-                    "role": "link",
-                    "name": "Share on Twitter"
-                  },
-                  {
-                    "role": "link",
-                    "name": "Share via Email"
-                  },
-                  {
-                    "role": "link",
-                    "name": "Get in store"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "role": "link",
-            "name": "Sign up for the Daily Humor newsletter \u00bb"
-          },
-          {
-            "role": "heading",
-            "name": "New Yorker Favorites",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "The New Yorker Recommends Sign up to receive our weekly newsletter about what to read, watch, and listen to.",
-            "children": [
-              {
-                "role": "link",
-                "name": "The New Yorker Recommends"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Photo Booth The work of great photographers, past and present.",
-            "children": [
-              {
-                "role": "link",
-                "name": "Photo Booth"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The New Yorker Documentary Uncommon perspectives on issues that matter to us now.",
-            "children": [
-              {
-                "role": "link",
-                "name": "The New Yorker Documentary"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The New Yorker Radio Hour A weekly mix of in-depth interviews, profiles, and more, hosted by David Remnick.",
-            "children": [
-              {
-                "role": "link",
-                "name": "The New Yorker Radio Hour"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "From This Week\u2019s Issue",
-            "level": 2
-          },
-          {
-            "role": "link",
-            "name": "All issues \u00bb"
-          },
-          {
-            "role": "text",
-            "name": "Evan Osnos on"
-          },
-          {
-            "role": "link",
-            "name": "the superyacht boom"
-          },
-          {
-            "role": "text",
-            "name": ", Alice Gregory on"
-          },
-          {
-            "role": "link",
-            "name": "a controversial Congolese art collective"
-          },
-          {
-            "role": "text",
-            "name": ", Sarah Larson on"
-          },
-          {
-            "role": "link",
-            "name": "the joys of pickleball"
-          },
-          {
-            "role": "text",
-            "name": ", and more."
-          },
-          {
-            "role": "link",
-            "name": "Table of Contents \u00bb"
-          },
-          {
-            "role": "text",
-            "name": "July 25, 2022"
-          },
-          {
-            "role": "link",
-            "name": "Silhouettes of people across the seareflective water."
-          },
-          {
-            "role": "text",
-            "name": "\u201cTime for Reflection,\u201d by Christoph Niemann."
-          },
-          {
-            "role": "link",
-            "name": "The New Yorker Journalism that matters The New Yorker Magazine Get 12 weeks for $29.99 $12 Subscribe Cancel anytime."
-          },
-          {
-            "role": "heading",
-            "name": "Fiction",
-            "level": 2
-          },
-          {
-            "role": "link",
-            "name": "All fiction \u00bb"
-          },
-          {
-            "role": "link",
-            "name": "\u201cElmhurst\u201d"
-          },
-          {
-            "role": "link",
-            "name": "A goldfish in a clear plastic bag."
-          },
-          {
-            "role": "text",
-            "name": "BY"
-          },
-          {
-            "role": "link",
-            "name": "Han Ong"
-          },
-          {
-            "role": "text",
-            "name": "Photograph by Ina Jang for The New Yorker"
-          },
-          {
-            "role": "text",
-            "name": "Is the boy in the window attempting telepathy with Shara? If not, why won\u2019t he look away? His head is three floors up, a postcard. But he\u2019s found the sun. Solo, while the other windows on all sides of him feature multiple scowlers, some holding out their cell phones to record."
-          },
-          {
-            "role": "text",
-            "name": "As above, so below: Shara, on the sidewalk, stands amid scowlers, too. Ranters and chanters."
-          },
-          {
-            "role": "link",
-            "name": "Continue reading \u00bb"
-          },
-          {
-            "role": "button",
-            "name": "This Week in Fiction Han Ong on Heartbreak and Exploding Heads",
-            "children": [
-              {
-                "role": "link",
-                "name": "This Week in Fiction"
-              },
-              {
-                "role": "link",
-                "name": "Han Ong on Heartbreak and Exploding Heads"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The Writer\u2019s Voice The Author Reads \u201cElmhurst\u201d",
-            "children": [
-              {
-                "role": "link",
-                "name": "The Writer\u2019s Voice"
-              },
-              {
-                "role": "link",
-                "name": "The Author Reads \u201cElmhurst\u201d"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Humor",
-            "level": 2
-          },
-          {
-            "role": "button",
-            "name": "Shouts & Murmurs Letter of Resignation I hereby resign, because\u2014sorry, Hillary\u2014it\u2019s unclear that the baby-eating is getting us any closer to that promised New World Order. By Robert Carlock",
-            "children": [
-              {
-                "role": "link",
-                "name": "Shouts & Murmurs"
-              },
-              {
-                "role": "link",
-                "name": "Letter of Resignation"
-              },
-              {
-                "role": "link",
-                "name": "Robert Carlock"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Daily Shouts Finding Your Best Selfie Angle Look down, look up, give up. By Zo\u00e9 Gillette",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Shouts"
-              },
-              {
-                "role": "link",
-                "name": "Finding Your Best Selfie Angle"
-              },
-              {
-                "role": "link",
-                "name": "Zo\u00e9 Gillette"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Satire from The Borowitz Report Marjorie Taylor Greene Makes Accusations Against Telescope The congresswoman told reporters that the James Webb telescope was making other galaxies available to Jewish lasers. By Andy Borowitz",
-            "children": [
-              {
-                "role": "link",
-                "name": "Satire from The Borowitz Report"
-              },
-              {
-                "role": "link",
-                "name": "Marjorie Taylor Greene Makes Accusations Against Telescope"
-              },
-              {
-                "role": "link",
-                "name": "Andy Borowitz"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Blitt\u2019s Kvetchbook What the Webb Telescope Found in Deepest Space A stunning revelation from the far, far distant past. By Barry Blitt",
-            "children": [
-              {
-                "role": "link",
-                "name": "Blitt\u2019s Kvetchbook"
-              },
-              {
-                "role": "link",
-                "name": "What the Webb Telescope Found in Deepest Space"
-              },
-              {
-                "role": "link",
-                "name": "Barry Blitt"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Daily Shouts The Complete Guide to Manipulating Me Whatever your intentions, entrapping me in your personal psychic pyramid scheme has never been easier. By Alex Baia",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Shouts"
-              },
-              {
-                "role": "link",
-                "name": "The Complete Guide to Manipulating Me"
-              },
-              {
-                "role": "link",
-                "name": "Alex Baia"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Daily Shouts One Moth\u2019s Time to Shine It\u2019s brutal out there. By Mads Horwath",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Shouts"
-              },
-              {
-                "role": "link",
-                "name": "One Moth\u2019s Time to Shine"
-              },
-              {
-                "role": "link",
-                "name": "Mads Horwath"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Video",
-            "level": 2
-          },
-          {
-            "role": "Iframe",
-            "name": "Video Player"
-          },
-          {
-            "role": "link",
-            "name": "The Eightysomethings Launching Standup-Comedy Careers"
-          },
-          {
-            "role": "link",
-            "name": "Black Gold: Can the Oil Industry Adapt to a Changing World?"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Journalism that matters Woman reading a book and The New Yorker magazine Get 12 weeks for $29.99 $6 Subscribe Cancel anytime."
-      },
-      {
-        "role": "link",
-        "name": "The New Yorker"
-      },
-      {
-        "role": "text",
-        "name": "Sections"
-      },
-      {
-        "role": "link",
-        "name": "News"
-      },
-      {
-        "role": "link",
-        "name": "Books & Culture"
-      },
-      {
-        "role": "link",
-        "name": "Fiction & Poetry"
-      },
-      {
-        "role": "link",
-        "name": "Humor & Cartoons"
-      },
-      {
-        "role": "link",
-        "name": "Magazine"
-      },
-      {
-        "role": "link",
-        "name": "Crossword"
-      },
-      {
-        "role": "link",
-        "name": "Video"
-      },
-      {
-        "role": "link",
-        "name": "Podcasts"
-      },
-      {
-        "role": "link",
-        "name": "Archive"
-      },
-      {
-        "role": "link",
-        "name": "Goings On"
-      },
-      {
-        "role": "text",
-        "name": "More"
-      },
-      {
-        "role": "link",
-        "name": "Customer Care"
-      },
-      {
-        "role": "link",
-        "name": "Shop The New Yorker"
-      },
-      {
-        "role": "link",
-        "name": "Buy Covers and Cartoons"
-      },
-      {
-        "role": "link",
-        "name": "Cond\u00e9 Nast Store"
-      },
-      {
-        "role": "link",
-        "name": "Digital Access"
-      },
-      {
-        "role": "link",
-        "name": "Newsletters"
-      },
-      {
-        "role": "link",
-        "name": "Jigsaw Puzzle"
-      },
-      {
-        "role": "link",
-        "name": "RSS"
-      },
-      {
-        "role": "link",
-        "name": "Site Map"
-      },
-      {
-        "role": "link",
-        "name": "About"
-      },
-      {
-        "role": "link",
-        "name": "Careers"
-      },
-      {
-        "role": "link",
-        "name": "Contact"
-      },
-      {
-        "role": "link",
-        "name": "F.A.Q."
-      },
-      {
-        "role": "link",
-        "name": "Media Kit"
-      },
-      {
-        "role": "link",
-        "name": "Press"
-      },
-      {
-        "role": "link",
-        "name": "Accessibility Help"
-      },
-      {
-        "role": "link",
-        "name": "Cond\u00e9 Nast Spotlight"
-      },
-      {
-        "role": "text",
-        "name": "\u00a9"
-      },
-      {
-        "role": "text",
-        "name": "2022"
-      },
-      {
-        "role": "text",
-        "name": "Cond\u00e9 Nast. All rights reserved. Use of this site constitutes acceptance of our"
-      },
-      {
-        "role": "link",
-        "name": "User Agreement"
-      },
-      {
-        "role": "text",
-        "name": "and"
-      },
-      {
-        "role": "link",
-        "name": "Privacy Policy and Cookie Statement"
-      },
-      {
-        "role": "text",
-        "name": "and"
-      },
-      {
-        "role": "link",
-        "name": "Your California Privacy Rights."
-      },
-      {
-        "role": "text",
-        "name": "The New Yorker"
-      },
-      {
-        "role": "text",
-        "name": "may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond\u00e9 Nast."
-      },
-      {
-        "role": "link",
-        "name": "Ad Choices"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Facebook"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Twitter"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Snapchat"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on YouTube"
-      },
-      {
-        "role": "link",
-        "name": "Follow us on Instagram"
-      },
-      {
-        "role": "button",
-        "name": "Cookies Settings"
-      }
-    ]
-  },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1590873322,
+  "newyorker-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#main-content"
+    },
+    {
+      "text": "\n    Get 12 weeks for $29.99 $12",
+      "url": "https://www.newyorker.com/v2/offers/tny008?source=Site_0_JNY_NYR_HOMEPAGE_NAV_LEFT_0_US_CONTROL_AOC_TEST_JUL22_PANELA_ZZ"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Newsletter",
+      "url": "/newsletters"
+    },
+    {
+      "text": "View saved stories",
+      "url": "/account/saved"
+    },
+    {
+      "text": "Sign In",
+      "url": "/auth/initiate?redirectURL=%2F&source=VERSO_NAVIGATION"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://www.newyorker.com/v2/offers/tny008?source=Site_0_JNY_NYR_DESKTOP_GLOBAL_NAV_CTA_0_US_CONTROL_AOC_TEST_JUL22_PANELA_ZZ"
+    },
+    {
+      "text": "        \n          \n            \n          \n        \n        Journalism that matters\n        Get 12 weeks for $29.99 $12\n        Subscribe\n        Cancel anytime.\n      ",
+      "url": "https://www.newyorker.com/v2/offers/tny008?source=Site_0_JNY_NYR_DESKTOP_GLOBAL_NAV_ROLLOVER_0_US_CONTROL_AOC_TEST_JUL22_PANELA_ZZ"
+    },
+    {
+      "text": "SearchSearch",
+      "url": "/search"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Books & Culture",
+      "url": "/culture"
+    },
+    {
+      "text": "Fiction & Poetry",
+      "url": "/fiction-and-poetry"
+    },
+    {
+      "text": "Humor & Cartoons",
+      "url": "/humor"
+    },
+    {
+      "text": "Magazine",
+      "url": "/magazine"
+    },
+    {
+      "text": "Puzzles & Games",
+      "url": "/crossword-puzzles-and-games"
+    },
+    {
+      "text": "Video",
+      "url": "https://video.newyorker.com"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcast"
+    },
+    {
+      "text": "Archive",
+      "url": "/archive"
+    },
+    {
+      "text": "Goings On",
+      "url": "https://www.newyorker.com/goings-on-about-town"
+    },
+    {
+      "text": "Shop",
+      "url": "https://store.newyorker.com"
+    },
+    {
+      "text": "View saved stories",
+      "url": "/account/saved"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Subscribe today \u00bb",
+      "url": "https://subscribe.newyorker.com/subscribe/splits/newyorker/NYR_homepage_banner?source=HCL_NYR_HOMEPAGE_BANNER_0 "
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/25/the-haves-and-the-have-yachts"
+    },
+    {
+      "text": "A Reporter at Large",
+      "url": "/magazine/a-reporter-at-large"
+    },
+    {
+      "text": "The Haves and the Have-Yachts",
+      "url": "/magazine/2022/07/25/the-haves-and-the-have-yachts"
+    },
+    {
+      "text": "Evan Osnos",
+      "url": "/contributors/evan-osnos"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/25/can-pickleball-save-america"
+    },
+    {
+      "text": "The Sporting Scene",
+      "url": "/magazine/the-sporting-scene"
+    },
+    {
+      "text": "Can Pickleball Save America?",
+      "url": "/magazine/2022/07/25/can-pickleball-save-america"
+    },
+    {
+      "text": "Sarah Larson",
+      "url": "/contributors/sarah-larson"
+    },
+    {
+      "text": "",
+      "url": "/culture/personal-history/a-recipe-for-forgiveness"
+    },
+    {
+      "text": "Personal History",
+      "url": "/culture/personal-history"
+    },
+    {
+      "text": "A Recipe for Forgiveness",
+      "url": "/culture/personal-history/a-recipe-for-forgiveness"
+    },
+    {
+      "text": "Helen Longstreth",
+      "url": "/contributors/helen-longstreth"
+    },
+    {
+      "text": "",
+      "url": "/culture/the-new-yorker-interview/jay-duplass-doesnt-want-to-be-a-coen-brother-anymore"
+    },
+    {
+      "text": "The New Yorker Interview",
+      "url": "/culture/the-new-yorker-interview"
+    },
+    {
+      "text": "Jay Duplass Doesn\u2019t Want to Be a Coen Brother Anymore",
+      "url": "/culture/the-new-yorker-interview/jay-duplass-doesnt-want-to-be-a-coen-brother-anymore"
+    },
+    {
+      "text": "Naomi Fry",
+      "url": "/contributors/naomi-fry"
+    },
+    {
+      "text": "Essay",
+      "url": "/culture/essay"
+    },
+    {
+      "text": "",
+      "url": "/culture/essay/is-abortion-sacred"
+    },
+    {
+      "text": "Is Abortion Sacred?",
+      "url": "/culture/essay/is-abortion-sacred"
+    },
+    {
+      "text": "Jia Tolentino",
+      "url": "/contributors/jia-tolentino"
+    },
+    {
+      "text": "Elements",
+      "url": "/science/elements"
+    },
+    {
+      "text": "",
+      "url": "/science/elements/the-first-images-from-the-james-webb-telescope-are-breathtaking-and-significant"
+    },
+    {
+      "text": "The First Images from the James Webb Telescope Are Breathtaking\u2014and Significant",
+      "url": "/science/elements/the-first-images-from-the-james-webb-telescope-are-breathtaking-and-significant"
+    },
+    {
+      "text": "Rivka Galchen",
+      "url": "/contributors/rivka-galchen"
+    },
+    {
+      "text": "The Art World",
+      "url": "/magazine/the-art-world"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/25/fault-lines-in-america-and-ukraine"
+    },
+    {
+      "text": "Fault Lines in America and Ukraine",
+      "url": "/magazine/2022/07/25/fault-lines-in-america-and-ukraine"
+    },
+    {
+      "text": "Peter Schjeldahl",
+      "url": "/contributors/peter-schjeldahl"
+    },
+    {
+      "text": "",
+      "url": "/magazine"
+    },
+    {
+      "text": "July 25, 2022",
+      "url": "/magazine"
+    },
+    {
+      "text": "Table of Contents \u00bb",
+      "url": "/magazine"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/latest"
+    },
+    {
+      "text": "Name Drop",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop/latest"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/latest"
+    },
+    {
+      "text": "The Crossword",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/crossword/latest"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/latest"
+    },
+    {
+      "text": "The Cryptic Crossword",
+      "url": "https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/latest"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/cartoons/contest"
+    },
+    {
+      "text": "Caption Contest",
+      "url": "https://www.newyorker.com/cartoons/contest"
+    },
+    {
+      "text": "",
+      "url": "/culture/photo-booth/wendy-red-stars-indigenous-gaze"
+    },
+    {
+      "text": "Photo Booth",
+      "url": "/culture/photo-booth"
+    },
+    {
+      "text": "Wendy Red Star\u2019s Indigenous Gaze",
+      "url": "/culture/photo-booth/wendy-red-stars-indigenous-gaze"
+    },
+    {
+      "text": "Tiffany Midge",
+      "url": "/contributors/tiffany-midge"
+    },
+    {
+      "text": "",
+      "url": "/news/dispatch/the-psychologists-treating-rape-victims-in-ukraine"
+    },
+    {
+      "text": "Dispatch",
+      "url": "/news/dispatch"
+    },
+    {
+      "text": "Treating Rape Victims in Ukraine",
+      "url": "/news/dispatch/the-psychologists-treating-rape-victims-in-ukraine"
+    },
+    {
+      "text": "Joshua Yaffa",
+      "url": "/contributors/joshua-yaffa"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/25/herschel-walkers-deficits-are-not-the-only-cause-for-concern"
+    },
+    {
+      "text": "Comment",
+      "url": "/magazine/comment"
+    },
+    {
+      "text": "Herschel Walker\u2019s Deficits Are Not the Only Cause for Concern",
+      "url": "/magazine/2022/07/25/herschel-walkers-deficits-are-not-the-only-cause-for-concern"
+    },
+    {
+      "text": "Jelani Cobb",
+      "url": "/contributors/jelani-cobb"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/25/supply-chain-problems-try-a-cargo-schooner"
+    },
+    {
+      "text": "Here To There Dept.",
+      "url": "/magazine/here-to-there-dept"
+    },
+    {
+      "text": "Supply-Chain Problems?\u00a0Try a Cargo\u00a0Schooner",
+      "url": "/magazine/2022/07/25/supply-chain-problems-try-a-cargo-schooner"
+    },
+    {
+      "text": "Adam Iscoe",
+      "url": "/contributors/adam-iscoe"
+    },
+    {
+      "text": "",
+      "url": "/news/daily-comment/for-the-third-time-in-three-decades-congress-punts-on-serious-climate-legislation"
+    },
+    {
+      "text": "Daily Comment",
+      "url": "/news/daily-comment"
+    },
+    {
+      "text": "Congress Punts on Serious Climate Legislation, Again",
+      "url": "/news/daily-comment/for-the-third-time-in-three-decades-congress-punts-on-serious-climate-legislation"
+    },
+    {
+      "text": "Bill McKibben",
+      "url": "/contributors/bill-mckibben"
+    },
+    {
+      "text": "",
+      "url": "/news/our-local-correspondents/proving-that-the-state-killed-your-son"
+    },
+    {
+      "text": "Our Local Correspondents",
+      "url": "/news/our-local-correspondents"
+    },
+    {
+      "text": "Proving That the State Killed Your Son",
+      "url": "/news/our-local-correspondents/proving-that-the-state-killed-your-son"
+    },
+    {
+      "text": "Jennifer Gonnerman",
+      "url": "/contributors/jennifer-gonnerman"
+    },
+    {
+      "text": "",
+      "url": "/news/daily-comment/biden-caters-to-autocrats-and-draws-battle-lines-in-the-middle-east"
+    },
+    {
+      "text": "Daily Comment",
+      "url": "/news/daily-comment"
+    },
+    {
+      "text": "Biden Caters to Autocrats and Draws Battle Lines in the Middle East",
+      "url": "/news/daily-comment/biden-caters-to-autocrats-and-draws-battle-lines-in-the-middle-east"
+    },
+    {
+      "text": "Robin Wright",
+      "url": "/contributors/robin-wright"
+    },
+    {
+      "text": "",
+      "url": "/science/medical-dispatch/whats-at-stake-in-the-fight-against-monkeypox"
+    },
+    {
+      "text": "Medical Dispatch",
+      "url": "/science/medical-dispatch"
+    },
+    {
+      "text": "What\u2019s at Stake in the Fight Against Monkeypox",
+      "url": "/science/medical-dispatch/whats-at-stake-in-the-fight-against-monkeypox"
+    },
+    {
+      "text": "Dhruv Khullar",
+      "url": "/contributors/dhruv-khullar"
+    },
+    {
+      "text": "Sign up now for our newsletters today.",
+      "url": "https://www.newyorker.com/newsletter"
+    },
+    {
+      "text": "download the New Yorker app",
+      "url": "https://apps.apple.com/us/app/the-new-yorker/id1081530898"
+    },
+    {
+      "text": "Audio available",
+      "url": "/magazine/2022/07/25/the-vw-bus-took-the-sixties-on-the-road-now-its-getting-a-twenty-first-century-makeover"
+    },
+    {
+      "text": "Dept. of Transportation",
+      "url": "/magazine/dept-of-transportation"
+    },
+    {
+      "text": "The VW Bus Took the Sixties on the Road. Now It\u2019s Getting a Makeover",
+      "url": "/magazine/2022/07/25/the-vw-bus-took-the-sixties-on-the-road-now-its-getting-a-twenty-first-century-makeover"
+    },
+    {
+      "text": "Jill Lepore",
+      "url": "/contributors/jill-lepore"
+    },
+    {
+      "text": "Audio available",
+      "url": "/magazine/2022/07/25/why-storytelling-is-part-of-being-a-good-doctor-all-that-moves-us-jay-wellons"
+    },
+    {
+      "text": "Books",
+      "url": "/magazine/books"
+    },
+    {
+      "text": "Why Storytelling Is Part of Being a Good Doctor",
+      "url": "/magazine/2022/07/25/why-storytelling-is-part-of-being-a-good-doctor-all-that-moves-us-jay-wellons"
+    },
+    {
+      "text": "Jerome Groopman",
+      "url": "/contributors/jerome-groopman"
+    },
+    {
+      "text": "Audio available",
+      "url": "/magazine/2022/07/25/can-an-artists-collective-in-africa-repair-a-colonial-legacy"
+    },
+    {
+      "text": "Letter from Lusanga",
+      "url": "/magazine/letter-from-lusanga"
+    },
+    {
+      "text": "Can an Artists\u2019 Collective in Africa Repair a Colonial Legacy?",
+      "url": "/magazine/2022/07/25/can-an-artists-collective-in-africa-repair-a-colonial-legacy"
+    },
+    {
+      "text": "Alice Gregory",
+      "url": "/contributors/alice-gregory"
+    },
+    {
+      "text": "Audio available",
+      "url": "/magazine/2022/07/25/when-tribal-nations-expel-their-black-members-caleb-gayle-we-refuse-to-forget-alaina-e-roberts-ive-been-here-all-the-while"
+    },
+    {
+      "text": "Books",
+      "url": "/magazine/books"
+    },
+    {
+      "text": "When Tribal Nations Expel Their Black Members",
+      "url": "/magazine/2022/07/25/when-tribal-nations-expel-their-black-members-caleb-gayle-we-refuse-to-forget-alaina-e-roberts-ive-been-here-all-the-while"
+    },
+    {
+      "text": "Philip Deloria",
+      "url": "/contributors/philip-deloria"
+    },
+    {
+      "text": "",
+      "url": "/news/our-columnists/joe-manchin-plays-the-role-of-wrecker-again"
+    },
+    {
+      "text": "Our Columnists",
+      "url": "/news/our-columnists"
+    },
+    {
+      "text": "Joe Manchin Plays the Role of Wrecker, Again",
+      "url": "/news/our-columnists/joe-manchin-plays-the-role-of-wrecker-again"
+    },
+    {
+      "text": "",
+      "url": "/culture/culture-desk/my-last-visit-with-john-bennet"
+    },
+    {
+      "text": "Culture Desk",
+      "url": "/culture/culture-desk"
+    },
+    {
+      "text": "My Last Visit with John Bennet",
+      "url": "/culture/culture-desk/my-last-visit-with-john-bennet"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/25/at-laser-wolf-dinner-is-even-better-than-the-sunset"
+    },
+    {
+      "text": "Tables for Two",
+      "url": "/magazine/tables-for-two"
+    },
+    {
+      "text": "At Laser Wolf, Dinner Is Even Better than the Sunset",
+      "url": "/magazine/2022/07/25/at-laser-wolf-dinner-is-even-better-than-the-sunset"
+    },
+    {
+      "text": "",
+      "url": "/culture/dept-of-heirlooms/the-songs-that-made-church-a-home"
+    },
+    {
+      "text": "Dept. of Heirlooms",
+      "url": "/culture/dept-of-heirlooms"
+    },
+    {
+      "text": "When Songs Make Church a Home",
+      "url": "/culture/dept-of-heirlooms/the-songs-that-made-church-a-home"
+    },
+    {
+      "text": "",
+      "url": "/culture/culture-desk/how-victorias-secret-created-the-american-fantasy-woman"
+    },
+    {
+      "text": "Culture Desk",
+      "url": "/culture/culture-desk"
+    },
+    {
+      "text": "How Victoria\u2019s Secret Created the American Fantasy Woman",
+      "url": "/culture/culture-desk/how-victorias-secret-created-the-american-fantasy-woman"
+    },
+    {
+      "text": "",
+      "url": "/news/dispatch/the-kids-who-lost-parents-to-covid"
+    },
+    {
+      "text": "Dispatch",
+      "url": "/news/dispatch"
+    },
+    {
+      "text": "The Kids Who Lost Parents to COVID",
+      "url": "/news/dispatch/the-kids-who-lost-parents-to-covid"
+    },
+    {
+      "text": "",
+      "url": "/culture/culture-desk/the-must-see-films-of-marco-bellocchio"
+    },
+    {
+      "text": "Culture Desk",
+      "url": "/culture/culture-desk"
+    },
+    {
+      "text": "The Must-See Films of Marco Bellocchio",
+      "url": "/culture/culture-desk/the-must-see-films-of-marco-bellocchio"
+    },
+    {
+      "text": "",
+      "url": "/news/q-and-a/how-not-to-fight-inflation"
+    },
+    {
+      "text": "Q. & A.",
+      "url": "/news/q-and-a"
+    },
+    {
+      "text": "How Not to Fight Inflation",
+      "url": "/news/q-and-a/how-not-to-fight-inflation"
+    },
+    {
+      "text": "This week\u2019s cartoons \u00bb",
+      "url": "https://www.newyorker.com/cartoons/issue-cartoons/cartoons-from-the-july-25-2022-issue"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/cartoon/a26916"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/dialog/feed?&display=popup&caption=&app_id=1147169538698836&link=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26916%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker%26utm_social-type%3Dearned"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/intent/tweet/?url=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26916%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker%26utm_social-type%3Dearned&text=&via=NewYorker"
+    },
+    {
+      "text": "Email",
+      "url": "mailto:?subject=&body=https%3A%2F%2Fwww.newyorker.com%2Fcartoon%2Fa26916%3Futm_source%3Donsite-share%26utm_medium%3Demail%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker"
+    },
+    {
+      "text": "Shopping",
+      "url": "https://condenaststore.com/conde-nast-brand/cartoons"
+    },
+    {
+      "text": "Sign up for the Daily Humor newsletter \u00bb",
+      "url": "https://www.newyorker.com/newsletter/humor"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/newsletter/recommends"
+    },
+    {
+      "text": "The New Yorker Recommends",
+      "url": "https://www.newyorker.com/newsletter/recommends"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/culture/photo-booth"
+    },
+    {
+      "text": "Photo Booth",
+      "url": "https://www.newyorker.com/culture/photo-booth"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/video/series/the-new-yorker-documentary"
+    },
+    {
+      "text": "The New Yorker Documentary",
+      "url": "https://www.newyorker.com/video/series/the-new-yorker-documentary"
+    },
+    {
+      "text": "",
+      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour"
+    },
+    {
+      "text": "The New Yorker Radio Hour",
+      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour"
+    },
+    {
+      "text": "All issues \u00bb",
+      "url": "https://www.newyorker.com/magazine"
+    },
+    {
+      "text": "the superyacht boom",
+      "url": "https://www.newyorker.com/magazine/2022/07/25/the-haves-and-the-have-yachts"
+    },
+    {
+      "text": "a controversial Congolese art collective",
+      "url": "https://www.newyorker.com/magazine/2022/07/25/can-an-artists-collective-in-africa-repair-a-colonial-legacy"
+    },
+    {
+      "text": "the joys of pickleball",
+      "url": "https://www.newyorker.com/magazine/2022/07/25/can-pickleball-save-america"
+    },
+    {
+      "text": "Table of Contents \u00bb",
+      "url": "/magazine"
+    },
+    {
+      "text": "",
+      "url": "/magazine"
+    },
+    {
+      "text": "\n      Journalism that matters\n      Get 12 weeks for $29.99 $12\n        Subscribe\n        Cancel anytime.\n    \n    Get 12 weeks for $29.99 $12\n      Subscribe\n      Cancel anytime.",
+      "url": "https://www.newyorker.com/v2/offers/tny008?source=Site_0_JNY_NYR_DESKTOP_HOMEPAGE_CONTENT_RIVER_0_US_CONTROL_AOC_TEST_JUL22_PANELA_ZZ"
+    },
+    {
+      "text": "All fiction \u00bb",
+      "url": "https://www.newyorker.com/fiction-and-poetry"
+    },
+    {
+      "text": "\u201cElmhurst\u201d",
+      "url": "/magazine/2022/07/25/elmhurst"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/25/elmhurst"
+    },
+    {
+      "text": "Han Ong",
+      "url": "/contributors/han-ong"
+    },
+    {
+      "text": "Continue reading \u00bb",
+      "url": "/magazine/2022/07/25/elmhurst"
+    },
+    {
+      "text": "This Week in Fiction",
+      "url": "/books/this-week-in-fiction"
+    },
+    {
+      "text": "",
+      "url": "/books/this-week-in-fiction/han-ong-07-25-22"
+    },
+    {
+      "text": "Han Ong on Heartbreak and Exploding Heads",
+      "url": "/books/this-week-in-fiction/han-ong-07-25-22"
+    },
+    {
+      "text": "The Writer\u2019s Voice",
+      "url": "/podcast/the-writers-voice"
+    },
+    {
+      "text": "",
+      "url": "/podcast/the-writers-voice/han-ong-reads-elmhurst"
+    },
+    {
+      "text": "The Author Reads \u201cElmhurst\u201d",
+      "url": "/podcast/the-writers-voice/han-ong-reads-elmhurst"
+    },
+    {
+      "text": "",
+      "url": "/magazine/2022/07/25/farewell-global-liberal-cannibalistic-pedophile-conspiracy"
+    },
+    {
+      "text": "Shouts & Murmurs",
+      "url": "/magazine/shouts-murmurs"
+    },
+    {
+      "text": "Letter of Resignation",
+      "url": "/magazine/2022/07/25/farewell-global-liberal-cannibalistic-pedophile-conspiracy"
+    },
+    {
+      "text": "Robert Carlock",
+      "url": "/contributors/robert-carlock"
+    },
+    {
+      "text": "",
+      "url": "/humor/daily-shouts/finding-your-best-selfie-angle"
+    },
+    {
+      "text": "Daily Shouts",
+      "url": "/humor/daily-shouts"
+    },
+    {
+      "text": "Finding Your Best Selfie Angle",
+      "url": "/humor/daily-shouts/finding-your-best-selfie-angle"
+    },
+    {
+      "text": "Zo\u00e9 Gillette",
+      "url": "/contributors/zoe-gillette"
+    },
+    {
+      "text": "",
+      "url": "/humor/borowitz-report/marjorie-taylor-greene-accuses-james-webb-telescope-of-making-other-galaxies-available-to-jewish-lasers"
+    },
+    {
+      "text": "Satire from The Borowitz Report",
+      "url": "/humor/borowitz-report"
+    },
+    {
+      "text": "Marjorie Taylor Greene Makes Accusations Against Telescope",
+      "url": "/humor/borowitz-report/marjorie-taylor-greene-accuses-james-webb-telescope-of-making-other-galaxies-available-to-jewish-lasers"
+    },
+    {
+      "text": "Andy Borowitz",
+      "url": "/contributors/andy-borowitz"
+    },
+    {
+      "text": "",
+      "url": "/cartoons/blitts-kvetchbook/what-the-webb-telescope-found-in-deepest-space"
+    },
+    {
+      "text": "Blitt\u2019s Kvetchbook",
+      "url": "/cartoons/blitts-kvetchbook"
+    },
+    {
+      "text": "What the Webb Telescope Found in Deepest Space",
+      "url": "/cartoons/blitts-kvetchbook/what-the-webb-telescope-found-in-deepest-space"
+    },
+    {
+      "text": "Barry Blitt",
+      "url": "/contributors/barry-blitt"
+    },
+    {
+      "text": "",
+      "url": "/humor/daily-shouts/the-complete-guide-to-manipulating-me"
+    },
+    {
+      "text": "Daily Shouts",
+      "url": "/humor/daily-shouts"
+    },
+    {
+      "text": "The Complete Guide to Manipulating Me",
+      "url": "/humor/daily-shouts/the-complete-guide-to-manipulating-me"
+    },
+    {
+      "text": "Alex Baia",
+      "url": "/contributors/alex-baia"
+    },
+    {
+      "text": "",
+      "url": "/humor/daily-shouts/one-moths-time-to-shine"
+    },
+    {
+      "text": "Daily Shouts",
+      "url": "/humor/daily-shouts"
+    },
+    {
+      "text": "One Moth\u2019s Time to Shine",
+      "url": "/humor/daily-shouts/one-moths-time-to-shine"
+    },
+    {
+      "text": "Mads Horwath",
+      "url": "/contributors/mads-horwath"
+    },
+    {
+      "text": "iconPlayCNE",
+      "url": "https://www.newyorker.com/video/watch/still-standing"
+    },
+    {
+      "text": "The Eightysomethings Launching Standup-Comedy Careers",
+      "url": "https://www.newyorker.com/video/watch/still-standing"
+    },
+    {
+      "text": "iconPlayCNE",
+      "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-black-gold"
+    },
+    {
+      "text": "Black Gold: Can the Oil Industry Adapt to a Changing World?",
+      "url": "https://www.newyorker.com/video/watch/the-new-yorker-documentary-black-gold"
+    },
+    {
+      "text": "\n      Journalism that matters \n      Get 12 weeks for $29.99 $6\n        Subscribe\n        Cancel anytime.\n    \n    Get 12 weeks for $29.99 $6\n      Subscribe\n      Cancel anytime.",
+      "url": "https://www.newyorker.com/v2/offers/tny008?source=Site_0_JNY_NYR_DESKTOP_GLOBAL_FOOTER_0_US_CONTROL_AOC_TEST_JUL22_PANELA_ZZ"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Books & Culture",
+      "url": "/culture"
+    },
+    {
+      "text": "Fiction & Poetry",
+      "url": "/fiction-and-poetry"
+    },
+    {
+      "text": "Humor & Cartoons",
+      "url": "/humor"
+    },
+    {
+      "text": "Magazine",
+      "url": "/magazine"
+    },
+    {
+      "text": "Crossword",
+      "url": "/crossword-puzzles-and-games"
+    },
+    {
+      "text": "Video",
+      "url": "https://video.newyorker.com"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcast"
+    },
+    {
+      "text": "Archive",
+      "url": "/archive"
+    },
+    {
+      "text": "Goings On",
+      "url": "/goings-on-about-town"
+    },
+    {
+      "text": "Customer Care",
+      "url": "http://w1.buysub.com/servlet/CSGateway?cds_mag_code=NYR"
+    },
+    {
+      "text": "Shop The New Yorker",
+      "url": "https://store.newyorker.com"
+    },
+    {
+      "text": "Buy Covers and Cartoons",
+      "url": "https://condenaststore.com/art/new+yorker+covers"
+    },
+    {
+      "text": "Cond\u00e9 Nast Store",
+      "url": "https://condenaststore.com/conde-nast-brand/thenewyorker"
+    },
+    {
+      "text": "Digital Access",
+      "url": "/digital-editions"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletter"
+    },
+    {
+      "text": "Jigsaw Puzzle",
+      "url": "/jigsaw"
+    },
+    {
+      "text": "RSS",
+      "url": "/about/feeds"
+    },
+    {
+      "text": "Site Map",
+      "url": "/sitemap"
+    },
+    {
+      "text": "About",
+      "url": "/about/us"
+    },
+    {
+      "text": "Careers",
+      "url": "/about/careers"
+    },
+    {
+      "text": "Contact",
+      "url": "/about/contact"
+    },
+    {
+      "text": "F.A.Q.",
+      "url": "/about/faq"
+    },
+    {
+      "text": "Media Kit",
+      "url": "http://www.condenast.com/brands/the-new-yorker"
+    },
+    {
+      "text": "Press",
+      "url": "/about/press"
+    },
+    {
+      "text": "Accessibility Help",
+      "url": "/about/accessibility-help"
+    },
+    {
+      "text": "Cond\u00e9 Nast Spotlight",
+      "url": "https://www.cnspotlight.com/ "
+    },
+    {
+      "text": "User Agreement",
+      "url": "https://www.condenast.com/user-agreement/"
+    },
+    {
+      "text": "Privacy Policy and Cookie Statement",
+      "url": "http://www.condenast.com/privacy-policy#privacypolicy"
+    },
+    {
+      "text": "Your California Privacy Rights.",
+      "url": "http://www.condenast.com/privacy-policy#privacypolicy-california"
+    },
+    {
+      "text": "Ad Choices",
+      "url": "http://www.condenast.com/privacy-policy#privacypolicy-optout"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/newyorker/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/NewYorker/"
+    },
+    {
+      "text": "Snapchat",
+      "url": "https://www.snapchat.com/add/newyorkermag"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://www.youtube.com/user/NewYorkerDotCom/"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/newyorkermag/"
+    }
+  ],
+  "server": "ia601503.us.archive.org",
+  "uniq": 144958358,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

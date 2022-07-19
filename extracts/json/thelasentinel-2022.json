@@ -1,5 +1,5 @@
 {
-  "created": 1658190583,
+  "created": 1658233069,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/4/items/thelasentinel-2022",
@@ -10672,31 +10672,73 @@
       "sha1": "f959a8659eff79ca5dfd2c63884edf147c764650"
     },
     {
+      "name": "thelasentinel-2022-07-18T21:26:11.291670-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658204778",
+      "size": "42548",
+      "md5": "20f64e5a641d3a970687c5554bb46d5d",
+      "crc32": "07fd8956",
+      "sha1": "570bcec91e9b40b1d738eb3d99697e9ab2e0b97b",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-07-18T21:26:11.291670-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658204780",
+      "size": "52504",
+      "md5": "eed6a6866c7ba29464260b95512275a9",
+      "crc32": "c617bda6",
+      "sha1": "0d5aac0be6376bf838401cede796786cb9a251a7",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-07-18T21:26:11.291670-07:00.jpg",
+      "source": "original",
+      "mtime": "1658204777",
+      "size": "304981",
+      "md5": "32a312b9f52532e0d818a81d54b28d9c",
+      "crc32": "2148793f",
+      "sha1": "fd18e1f13c9a6eba2c3b64c7f06746f0b97895c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-07-18T21:26:11.291670-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-07-18T21:26:11.291670-07:00.jpg",
+      "mtime": "1658205331",
+      "size": "11185",
+      "md5": "2862273e3adbeadab5fb99f57c948adb",
+      "crc32": "c0c291c0",
+      "sha1": "3e8a91db65d3c63b6b662d86b4ecd46c28a076e1"
+    },
+    {
       "name": "thelasentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d535fdeb79d41b3c474fc6cda7326b1bfea7ccc5",
-      "mtime": "1658172839",
-      "size": "221808",
-      "md5": "6b993ef334147a4b84f769f98b67f92b",
-      "crc32": "12772bf6",
-      "sha1": "1580ea78066209f7630c52e30ac52d1347e65e32",
+      "btih": "474e422019e449cfac132203a883f5a64d941561",
+      "mtime": "1658205425",
+      "size": "222678",
+      "md5": "f6d6aa237f28606002c8d6b967a486c0",
+      "crc32": "caa500d5",
+      "sha1": "9f6a07bb04340241e4192bd4ffacc6277da9ef90",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelasentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "49bcc5bcca11b69f39df3fd2f34f01b5",
+      "md5": "349a22ca4970018449a8414f028ffe9f",
       "summation": "md5"
     },
     {
       "name": "thelasentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658169345",
-      "size": "1175552",
-      "md5": "3399aebdfda1f80083bcb3dc92e79272",
-      "crc32": "23fa3db8",
-      "sha1": "20ab72ef3944390b572d6eee12f2abb516f269b3",
+      "mtime": "1658204782",
+      "size": "1179648",
+      "md5": "7b88a36b9bdf5637bf479cde62b7a721",
+      "crc32": "4c8ab267",
+      "sha1": "6b9507f036eff901d018e3f56f0856ad63533669",
       "format": "Metadata"
     },
     {
@@ -10710,9 +10752,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1019,
-  "item_last_updated": 1658172839,
-  "item_size": 125808963,
+  "files_count": 1023,
+  "item_last_updated": 1658205425,
+  "item_size": 126225147,
   "metadata": {
     "identifier": "thelasentinel-2022",
     "collection": [
@@ -10748,7 +10790,7 @@
       "url": "/epaper"
     },
     {
-      "text": " Subscribe ",
+      "text": " Subscribe //<![CDATA[\n(function(){for(var g=\"function\"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError(\"ES3 does not support getters and setters.\");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h=\"undefined\"!=typeof window&&window===this?this:\"undefined\"!=typeof global&&null!=global?global:this,k=[\"String\",\"prototype\",\"repeat\"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError(\"The 'this' value for String.prototype.repeat must not be null or undefined\");c=this+\"\";if(0>b||1342177279<b)throw new RangeError(\"Invalid count value\");b|=0;for(var a=\"\";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split(\".\"),d=t;a[0]in d||!d.execScript||d.execScript(\"var \"+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener(\"load\",b,!1);else if(c.attachEvent)c.attachEvent(\"onload\",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute(\"data-pagespeed-url-hash\");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+(\"pageYOffset\"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+(\"pageXOffset\"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+\",\"+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u(\"pagespeed.CriticalImages.checkImageForCriticality\",function(b){x.checkImageForCriticality(b)});u(\"pagespeed.CriticalImages.checkCriticalImages\",function(){A(x)});function A(b){b.b={};for(var c=[\"IMG\",\"INPUT\"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a=\"oh=\"+b.l;b.f&&(a+=\"&n=\"+b.f);if(c=!!b.a.length)for(a+=\"&ci=\"+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=\",\"+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e=\"&rd=\"+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject(\"Msxml2.XMLHTTP\")}catch(r){try{f=new ActiveXObject(\"Microsoft.XMLHTTP\")}catch(D){}}f&&(f.open(\"POST\",d+(-1==d.indexOf(\"?\")?\"?\":\"&\")+\"url=\"+encodeURIComponent(b)),f.setRequestHeader(\"Content-Type\",\"application/x-www-form-urlencoded\"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName(\"IMG\");if(!c.length)return{};var a=c[0];if(!(\"naturalWidth\"in a&&\"naturalHeight\"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute(\"data-pagespeed-url-hash\");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C=\"\";u(\"pagespeed.CriticalImages.getBeaconData\",function(){return C});u(\"pagespeed.CriticalImages.Run\",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://lasentinel.net/','82dtZm2p5Q',true,false,'Td8WKH0Auhs');\n//]]>",
       "url": "/subscribe"
     },
     {
@@ -11576,6 +11618,14 @@
       "url": "https://lasentinel.net/the-person-has-been-rated-resilient.html"
     },
     {
+      "text": "Taco Bell\u2019s Social Impact Program",
+      "url": "https://lasentinel.net/taco-bells-social-impact-program.html"
+    },
+    {
+      "text": "",
+      "url": "https://lasentinel.net/taco-bells-social-impact-program.html"
+    },
+    {
       "text": "NEWS",
       "url": "https://lasentinel.net/news"
     },
@@ -12336,7 +12386,7 @@
       "url": "http://tasteofsoul.org/"
     }
   ],
-  "uniq": 1822976945,
+  "uniq": 1909065588,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"
