@@ -172,8 +172,8 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: telegram
-        name: Telegram
+      - id: discord
+        name: Discord
         uses: ./.github/actions/discord
         with:
           bot-token: ${{ secrets.DISCORD_BOT_TOKEN }}

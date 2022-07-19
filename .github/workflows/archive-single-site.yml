@@ -15,7 +15,7 @@ on:
 
 jobs:
   archive-site:
-    name: Archive bundle
+    name: Archive site
     uses: palewire/news-homepages/.github/workflows/reusable-archive-single-site-workflow.yml@main
     with:
       handle: ${{ inputs.handle }}
