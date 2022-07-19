@@ -1,5 +1,5 @@
 {
-  "created": 1658188165,
+  "created": 1658228460,
   "d1": "ia902206.us.archive.org",
   "d2": "ia802206.us.archive.org",
   "dir": "/20/items/guardian-2022",
@@ -12052,31 +12052,83 @@
       "sha1": "f3cda8891aa8269a80397ca7c6833ada286d470e"
     },
     {
+      "name": "guardian-2022-07-19T03:24:58.611138+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658197502",
+      "size": "48045",
+      "md5": "5af6d758155a7f6d3a4f3c322abf95a5",
+      "crc32": "12381673",
+      "sha1": "cfbe8d99d9a5f91b01d33c6588e8453606a0f136",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-07-19T03:24:58.611138+01:00.jpg",
+      "source": "original",
+      "mtime": "1658197500",
+      "size": "354896",
+      "md5": "4d910a214182dd3c6155f0229fb7fc00",
+      "crc32": "acec6b22",
+      "sha1": "fb0165209fdb61d1a6c0a0d0610ae169a78a534d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "guardian-2022-07-19T03:24:58.611138+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "guardian-2022-07-19T03:24:58.611138+01:00.jpg",
+      "mtime": "1658198261",
+      "size": "10462",
+      "md5": "f60b921bd9fd3a530eea12c787ce70ea",
+      "crc32": "ef25a2fe",
+      "sha1": "afd2047d51818f7b332d318bfd9f28330e6aa7e5"
+    },
+    {
+      "name": "guardian-2022-07-19T10:22:11.775932+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658222533",
+      "size": "48319",
+      "md5": "63dde9c975c1b722b6a6a3b1555e9159",
+      "crc32": "5dc4a0e5",
+      "sha1": "52aa24dd6f1280193b4386550e69950b879bca52",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-07-19T10:22:11.775932+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658222535",
+      "size": "106067",
+      "md5": "6b2b934b14994f5d8b18f6025fb41b54",
+      "crc32": "b5933480",
+      "sha1": "b8956879b58c180de014b9fc281228aead53a43a",
+      "format": "JSON"
+    },
+    {
       "name": "guardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "18d07652bcfd5876a32b0d79205179313bd63a7e",
-      "mtime": "1658170404",
-      "size": "244959",
-      "md5": "349a4d5e0775cca4f7609486708c7f04",
-      "crc32": "ad1d3ed2",
-      "sha1": "a44c0d3b7792296be82f461dc618f7282100aa6c",
+      "btih": "ca2b57e5317f51d608f1ee9d16d43a920f7cc67e",
+      "mtime": "1658222604",
+      "size": "246024",
+      "md5": "c16ec88b0f7a0c81d41a5e7eb6a0ebf6",
+      "crc32": "22ad548f",
+      "sha1": "c358f5871b6e6262092a5e6ee5c18abad509a4a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "guardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99d6d90c84e93d0837cbf32d667e4a49",
+      "md5": "862650948551853df776644f4a8a2ae2",
       "summation": "md5"
     },
     {
       "name": "guardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658166507",
-      "size": "1310720",
-      "md5": "4554a854a630097c352ca32c52ad03cc",
-      "crc32": "c221f4a9",
-      "sha1": "d36d63cb2be4c026287dca4333e136a72b84f4d3",
+      "mtime": "1658222550",
+      "size": "1323008",
+      "md5": "d4c814d51213f86f01344f5570c55aaa",
+      "crc32": "fb513e78",
+      "sha1": "413fae059026d875870a4c7548e3a43c6ae0585f",
       "format": "Metadata"
     },
     {
@@ -12090,9 +12142,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1150,
-  "item_last_updated": 1658170404,
-  "item_size": 150884453,
+  "files_count": 1155,
+  "item_last_updated": 1658222604,
+  "item_size": 151465595,
   "metadata": {
     "identifier": "guardian-2022",
     "collection": [
@@ -12109,10 +12161,10 @@
     "publicdate": "2022-03-23 08:03:23",
     "addeddate": "2022-03-23 08:03:23"
   },
-  "server": "ia802206.us.archive.org",
-  "uniq": 270235166,
+  "server": "ia902206.us.archive.org",
+  "uniq": 450164031,
   "workable_servers": [
-    "ia802206.us.archive.org",
-    "ia902206.us.archive.org"
+    "ia902206.us.archive.org",
+    "ia802206.us.archive.org"
   ]
 }

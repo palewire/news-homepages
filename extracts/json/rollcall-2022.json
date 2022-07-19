@@ -1,5 +1,5 @@
 {
-  "created": 1658171539,
+  "created": 1658232978,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/rollcall-2022",
@@ -1162,31 +1162,73 @@
       "sha1": "02668cedc1be3c46d21361e2816bd7eb6fb1c438"
     },
     {
+      "name": "rollcall-2022-07-18T23:42:19.553314-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658202142",
+      "size": "37791",
+      "md5": "c263e5c88a693c3e07d2f20e265e5f82",
+      "crc32": "ac7320eb",
+      "sha1": "a6c441839e71f5de898b0891fdb72cd472737076",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-07-18T23:42:19.553314-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658202147",
+      "size": "27786",
+      "md5": "9aeff5109e55f8be9d5b8a068c372861",
+      "crc32": "c3dd1d5a",
+      "sha1": "27aa1eb74d8028221188dbad0fa9522987fb53ee",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-07-18T23:42:19.553314-04:00.jpg",
+      "source": "original",
+      "mtime": "1658202140",
+      "size": "251661",
+      "md5": "670fc80dbbf648b717d704459c800b36",
+      "crc32": "00b17a41",
+      "sha1": "b495b1af1823d5198510bcac5fdbde2d246c42bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollcall-2022-07-18T23:42:19.553314-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollcall-2022-07-18T23:42:19.553314-04:00.jpg",
+      "mtime": "1658202748",
+      "size": "10548",
+      "md5": "80829a52fcb639e72634909eb637a2ac",
+      "crc32": "fd717659",
+      "sha1": "325a12b1e2d2f2e0d1893b3f3d7bde49451d132f"
+    },
+    {
       "name": "rollcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "793a5a3b0ffcd03956be003448b97517a435b8eb",
-      "mtime": "1658171507",
-      "size": "24595",
-      "md5": "3249c7000a146a5e538c2f33e9dbeeb4",
-      "crc32": "e86b6412",
-      "sha1": "aad4951dde9efe117e7ce98e436942b952b8bfb4",
+      "btih": "4a899621ca4f2cd35f74e593ce3125bc16e948ad",
+      "mtime": "1658202777",
+      "size": "25445",
+      "md5": "7645bd7ff4fc094c79b7da32bca112de",
+      "crc32": "a54b201b",
+      "sha1": "77381d11acc0cea795e0f6482bfa8b6f44ba12f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86287aa1713c1459998fe7a463471ba1",
+      "md5": "534560d36acdf660d4ead9232496ba21",
       "summation": "md5"
     },
     {
       "name": "rollcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658167303",
-      "size": "147456",
-      "md5": "86245fbaea59a5ffc674373e652dbf68",
-      "crc32": "1a2995a5",
-      "sha1": "94fbbf84455b41855e371c14004d982a11a2878c",
+      "mtime": "1658202151",
+      "size": "151552",
+      "md5": "2ffa610bd0b8eb05e82f79bc38d57027",
+      "crc32": "a26e0f4b",
+      "sha1": "c4e954dde24e08559814a8583ed657c9b3a0cae6",
       "format": "Metadata"
     },
     {
@@ -1200,9 +1242,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 114,
-  "item_last_updated": 1658171507,
-  "item_size": 9736574,
+  "files_count": 118,
+  "item_last_updated": 1658202777,
+  "item_size": 10069306,
   "metadata": {
     "identifier": "rollcall-2022",
     "collection": [
@@ -1219,10 +1261,968 @@
     "publicdate": "2022-07-04 21:52:31",
     "addeddate": "2022-07-04 21:52:31"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 1416888590,
+  "rollcall-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Campaigns",
+      "url": "https://www.rollcall.com/section/campaigns/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "White House",
+      "url": "https://www.rollcall.com/section/white-house/"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.rollcall.com/category/coronavirus/"
+    },
+    {
+      "text": "Defense",
+      "url": "https://www.rollcall.com/category/defense/"
+    },
+    {
+      "text": "Energy",
+      "url": "https://www.rollcall.com/category/energy/"
+    },
+    {
+      "text": "Fintech",
+      "url": "https://www.rollcall.com/category/fintech/"
+    },
+    {
+      "text": "Health Care",
+      "url": "https://www.rollcall.com/category/health-care/"
+    },
+    {
+      "text": "Technology",
+      "url": "https://www.rollcall.com/category/technology/"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://www.rollcall.com/category/transportation/"
+    },
+    {
+      "text": "All Policy",
+      "url": "https://www.rollcall.com/section/policy/"
+    },
+    {
+      "text": "Heard on the Hill",
+      "url": "https://www.rollcall.com/section/heard-on-the-hill/"
+    },
+    {
+      "text": "CQ Budget",
+      "url": "https://www.rollcall.com/podcast/cq-budget-podcast/"
+    },
+    {
+      "text": "CQ on Congress",
+      "url": "https://www.rollcall.com/podcast/cq-on-congress/"
+    },
+    {
+      "text": "CQ Future",
+      "url": "https://rollcall.com/podcast/cq-future/"
+    },
+    {
+      "text": "Equal Time",
+      "url": "https://rollcall.com/podcast/equal-time/"
+    },
+    {
+      "text": "Fintech Beat",
+      "url": "https://www.rollcall.com/podcast/fintech-beat/"
+    },
+    {
+      "text": "Policy Briefs",
+      "url": "https://www.rollcall.com/podcasts/policy-briefs/cq-roll-call-policy-briefs/"
+    },
+    {
+      "text": "Political Theater",
+      "url": "https://www.rollcall.com/podcast/political-theater/"
+    },
+    {
+      "text": "Oversight",
+      "url": "https://www.rollcall.com/jonestown/"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.rollcall.com/section/video/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.rollcall.com/newsletters/"
+    },
+    {
+      "text": "Capitol Ink",
+      "url": "https://www.rollcall.com/category/capitol-ink/"
+    },
+    {
+      "text": "Roll Call e-Edition",
+      "url": "https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&pubid=7d81bad7-99d5-4bc5-9bd0-5e1834301040"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.rollcall.com/section/opinion/"
+    },
+    {
+      "text": "Events",
+      "url": "/events/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://www.rcjobs.com/"
+    },
+    {
+      "text": "Campaigns",
+      "url": "https://www.rollcall.com/section/campaigns/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "White House",
+      "url": "https://www.rollcall.com/section/white-house/"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.rollcall.com/category/coronavirus/"
+    },
+    {
+      "text": "Defense",
+      "url": "https://www.rollcall.com/category/defense/"
+    },
+    {
+      "text": "Energy",
+      "url": "https://www.rollcall.com/category/energy/"
+    },
+    {
+      "text": "Fintech",
+      "url": "https://www.rollcall.com/category/fintech/"
+    },
+    {
+      "text": "Health Care",
+      "url": "https://www.rollcall.com/category/health-care/"
+    },
+    {
+      "text": "Technology",
+      "url": "https://www.rollcall.com/category/technology/"
+    },
+    {
+      "text": "Transportation",
+      "url": "https://www.rollcall.com/category/transportation/"
+    },
+    {
+      "text": "All Policy",
+      "url": "https://www.rollcall.com/section/policy/"
+    },
+    {
+      "text": "Heard on the Hill",
+      "url": "https://www.rollcall.com/section/heard-on-the-hill/"
+    },
+    {
+      "text": "CQ Budget",
+      "url": "https://www.rollcall.com/podcast/cq-budget-podcast/"
+    },
+    {
+      "text": "CQ on Congress",
+      "url": "https://www.rollcall.com/podcast/cq-on-congress/"
+    },
+    {
+      "text": "CQ Future",
+      "url": "https://rollcall.com/podcast/cq-future/"
+    },
+    {
+      "text": "Equal Time",
+      "url": "https://rollcall.com/podcast/equal-time/"
+    },
+    {
+      "text": "Fintech Beat",
+      "url": "https://www.rollcall.com/podcast/fintech-beat/"
+    },
+    {
+      "text": "Policy Briefs",
+      "url": "https://www.rollcall.com/podcasts/policy-briefs/cq-roll-call-policy-briefs/"
+    },
+    {
+      "text": "Political Theater",
+      "url": "https://www.rollcall.com/podcast/political-theater/"
+    },
+    {
+      "text": "Oversight",
+      "url": "https://www.rollcall.com/jonestown/"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.rollcall.com/section/video/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.rollcall.com/newsletters/"
+    },
+    {
+      "text": "Capitol Ink",
+      "url": "https://www.rollcall.com/category/capitol-ink/"
+    },
+    {
+      "text": "Roll Call e-Edition",
+      "url": "https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&pubid=7d81bad7-99d5-4bc5-9bd0-5e1834301040"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.rollcall.com/section/opinion/"
+    },
+    {
+      "text": "Events",
+      "url": "/events/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://www.rcjobs.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/18/senate-ndaa-has-13-billion-extra-for-defense-inflation/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "Senate NDAA has $13 billion extra for defense inflation",
+      "url": "https://www.rollcall.com/2022/07/18/senate-ndaa-has-13-billion-extra-for-defense-inflation/"
+    },
+    {
+      "text": "John M. Donnelly",
+      "url": "https://www.rollcall.com/author/john-m-donnelly/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/18/house-appropriations-bill-sprint-seeks-to-buck-recent-history/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "House appropriations bill sprint seeks to buck recent history",
+      "url": "https://www.rollcall.com/2022/07/18/house-appropriations-bill-sprint-seeks-to-buck-recent-history/"
+    },
+    {
+      "text": "Paul M. Krawzak",
+      "url": "https://www.rollcall.com/author/paul-m-krawzak/"
+    },
+    {
+      "text": "Aidan Quigley",
+      "url": "https://www.rollcall.com/author/aidan-quigley/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/18/ndaa-a-magnet-for-far-reaching-amendments/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "NDAA a magnet for far-reaching amendments",
+      "url": "https://www.rollcall.com/2022/07/18/ndaa-a-magnet-for-far-reaching-amendments/"
+    },
+    {
+      "text": "Mark Satter",
+      "url": "https://www.rollcall.com/author/mark-satter/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/18/immigration-agency-backlog-weighs-on-congressional-offices/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "Immigration agency backlog weighs on congressional offices",
+      "url": "https://www.rollcall.com/2022/07/18/immigration-agency-backlog-weighs-on-congressional-offices/"
+    },
+    {
+      "text": "Suzanne Monyak",
+      "url": "https://www.rollcall.com/author/suzanne-monyak/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/18/staff-in-several-house-offices-to-begin-the-process-of-unionizing/"
+    },
+    {
+      "text": "Heard on the Hill",
+      "url": "https://www.rollcall.com/section/heard-on-the-hill/"
+    },
+    {
+      "text": "Staff in several House offices begin the process of unionizing",
+      "url": "https://www.rollcall.com/2022/07/18/staff-in-several-house-offices-to-begin-the-process-of-unionizing/"
+    },
+    {
+      "text": "Chris Cioffi",
+      "url": "https://www.rollcall.com/author/chris-cioffi/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/18/capitol-lens-porcine-language/"
+    },
+    {
+      "text": "Heard on the Hill",
+      "url": "https://www.rollcall.com/section/heard-on-the-hill/"
+    },
+    {
+      "text": "Capitol Lens | Porcine language\u00a0",
+      "url": "https://www.rollcall.com/2022/07/18/capitol-lens-porcine-language/"
+    },
+    {
+      "text": "Sarah Silbiger",
+      "url": "https://www.rollcall.com/author/sarah-silbiger/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/18/confused-about-2022-you-should-be/"
+    },
+    {
+      "text": "Campaigns",
+      "url": "https://www.rollcall.com/section/campaigns/"
+    },
+    {
+      "text": "Confused about 2022? You should be",
+      "url": "https://www.rollcall.com/2022/07/18/confused-about-2022-you-should-be/"
+    },
+    {
+      "text": "Stuart Rothenberg",
+      "url": "https://www.rollcall.com/author/stuart-rothenberg/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/18/new-fec-filings-show-no-sign-of-donors-abandoning-democrats/"
+    },
+    {
+      "text": "Campaigns",
+      "url": "https://www.rollcall.com/section/campaigns/"
+    },
+    {
+      "text": "New FEC filings show no sign of donors abandoning Democrats",
+      "url": "https://www.rollcall.com/2022/07/18/new-fec-filings-show-no-sign-of-donors-abandoning-democrats/"
+    },
+    {
+      "text": "Herb Jackson",
+      "url": "https://www.rollcall.com/author/herb-jackson/"
+    },
+    {
+      "text": "",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6065360138&iu=/4218"
+    },
+    {
+      "text": "U.S. Regulators Step Up to Face Climate-Related Financial Risks",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6065360138&iu=/4218"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/18/after-manchin-tanks-talks-climate-action-moves-to-life-support/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "After Manchin tanks talks, climate action moves to life support",
+      "url": "https://www.rollcall.com/2022/07/18/after-manchin-tanks-talks-climate-action-moves-to-life-support/"
+    },
+    {
+      "text": "Benjamin J. Hulac",
+      "url": "https://www.rollcall.com/author/benjamin-j-hulac/"
+    },
+    {
+      "text": "David Jordan",
+      "url": "https://www.rollcall.com/author/david-jordan/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/18/what-to-watch-in-tuesdays-maryland-contests/"
+    },
+    {
+      "text": "Campaigns",
+      "url": "https://www.rollcall.com/section/campaigns/"
+    },
+    {
+      "text": "What to watch in Tuesday\u2019s Maryland contests",
+      "url": "https://www.rollcall.com/2022/07/18/what-to-watch-in-tuesdays-maryland-contests/"
+    },
+    {
+      "text": "Kate Ackley",
+      "url": "https://www.rollcall.com/author/kate-ackley/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/15/manchin-wants-progress-on-inflation-before-action-on-broader-budget-bill/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "Biden OKs health care-focused budget pact struck in Senate",
+      "url": "https://www.rollcall.com/2022/07/15/manchin-wants-progress-on-inflation-before-action-on-broader-budget-bill/"
+    },
+    {
+      "text": "Aidan Quigley",
+      "url": "https://www.rollcall.com/author/aidan-quigley/"
+    },
+    {
+      "text": "",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6068045444&iu=/4218"
+    },
+    {
+      "text": "Webinar",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6068045444&iu=/4218"
+    },
+    {
+      "text": "July 20, 2 PM ET | The New Policymakers: SCOTUS and its Growing Influence",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6068045444&iu=/4218"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/15/house-ndaa-would-further-limit-pentagon-officials-stock-ownership/"
+    },
+    {
+      "text": "Policy",
+      "url": "https://www.rollcall.com/section/policy/"
+    },
+    {
+      "text": "House NDAA would further limit Pentagon officials\u2019 stock ownership",
+      "url": "https://www.rollcall.com/2022/07/15/house-ndaa-would-further-limit-pentagon-officials-stock-ownership/"
+    },
+    {
+      "text": "John M. Donnelly",
+      "url": "https://www.rollcall.com/author/john-m-donnelly/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/15/parliamentary-procedures-and-other-perplexities-congressional-hits-and-misses/"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.rollcall.com/section/video/"
+    },
+    {
+      "text": "Parliamentary procedures and other perplexities \u2014 Congressional Hits and Misses",
+      "url": "https://www.rollcall.com/2022/07/15/parliamentary-procedures-and-other-perplexities-congressional-hits-and-misses/"
+    },
+    {
+      "text": "Chris Hale",
+      "url": "https://www.rollcall.com/author/chris-hale/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/15/cannabis-banking-provisions-clear-house-for-seventh-time/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "Cannabis banking provisions clear House for seventh time",
+      "url": "https://www.rollcall.com/2022/07/15/cannabis-banking-provisions-clear-house-for-seventh-time/"
+    },
+    {
+      "text": "Caitlin Reilly",
+      "url": "https://www.rollcall.com/author/caitlin-reilly/"
+    },
+    {
+      "text": "",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6051042381&iu=/4218"
+    },
+    {
+      "text": "VoterVoice",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6051042381&iu=/4218"
+    },
+    {
+      "text": "Your #1 grassroots advocacy tool to rally supporters and make sure your message is amplified across all levels of government",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6051042381&iu=/4218"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/15/enforcement-superfund-nominees-for-epa-in-confirmation-limbo/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "Enforcement, Superfund nominees for EPA in confirmation limbo",
+      "url": "https://www.rollcall.com/2022/07/15/enforcement-superfund-nominees-for-epa-in-confirmation-limbo/"
+    },
+    {
+      "text": "Benjamin J. Hulac",
+      "url": "https://www.rollcall.com/author/benjamin-j-hulac/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/15/photos-of-the-week-ending-july-15-2022/"
+    },
+    {
+      "text": "Heard on the Hill",
+      "url": "https://www.rollcall.com/section/heard-on-the-hill/"
+    },
+    {
+      "text": "Photos of the week ending July 15, 2022",
+      "url": "https://www.rollcall.com/2022/07/15/photos-of-the-week-ending-july-15-2022/"
+    },
+    {
+      "text": "Bill Clark",
+      "url": "https://www.rollcall.com/author/bill-clark/"
+    },
+    {
+      "text": "Tom Williams",
+      "url": "https://www.rollcall.com/author/tom-williams/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/15/defense-bill-could-be-best-shot-for-immigration-changes/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "Defense bill could be best shot for immigration changes",
+      "url": "https://www.rollcall.com/2022/07/15/defense-bill-could-be-best-shot-for-immigration-changes/"
+    },
+    {
+      "text": "Caroline Simon",
+      "url": "https://www.rollcall.com/author/caroline-simon/"
+    },
+    {
+      "text": "",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6045741286&iu=/4218"
+    },
+    {
+      "text": "Curate",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6045741286&iu=/4218"
+    },
+    {
+      "text": "A Powerful Local Tracking Tool: The Best Way to Manage Your Relationship in Your Home District",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6045741286&iu=/4218"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/15/to-get-trump-jan-6-committee-would-need-to-start-connecting-some-dots-directly-to-him/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.rollcall.com/section/opinion/"
+    },
+    {
+      "text": "To \u2018get Trump,\u2019 Jan. 6 committee would need to start connecting some dots \u2014 directly to him",
+      "url": "https://www.rollcall.com/2022/07/15/to-get-trump-jan-6-committee-would-need-to-start-connecting-some-dots-directly-to-him/"
+    },
+    {
+      "text": "John T. Bennett",
+      "url": "https://www.rollcall.com/author/john-t-bennett/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/manchin-upends-effort-for-a-downsized-build-back-better/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "Manchin upends effort for a downsized `Build Back Better\u2019",
+      "url": "https://www.rollcall.com/2022/07/14/manchin-upends-effort-for-a-downsized-build-back-better/"
+    },
+    {
+      "text": "Lindsey McPherson",
+      "url": "https://www.rollcall.com/author/lindsey-mcpherson/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/house-easily-passes-ndaa/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "House easily passes NDAA",
+      "url": "https://www.rollcall.com/2022/07/14/house-easily-passes-ndaa/"
+    },
+    {
+      "text": "Mark Satter",
+      "url": "https://www.rollcall.com/author/mark-satter/"
+    },
+    {
+      "text": "",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5927679965&iu=/4218"
+    },
+    {
+      "text": "Community",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5927679965&iu=/4218"
+    },
+    {
+      "text": "Centralize constituent relationships into one cohesive platform with Fireside",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5927679965&iu=/4218"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/senate-to-push-ahead-on-semiconductor-manufacturing-bill/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "Senate to push ahead on semiconductor manufacturing bill",
+      "url": "https://www.rollcall.com/2022/07/14/senate-to-push-ahead-on-semiconductor-manufacturing-bill/"
+    },
+    {
+      "text": "Aidan Quigley",
+      "url": "https://www.rollcall.com/author/aidan-quigley/"
+    },
+    {
+      "text": "Laura Weiss",
+      "url": "https://www.rollcall.com/author/laura-weiss/"
+    },
+    {
+      "text": "Lindsey McPherson",
+      "url": "https://www.rollcall.com/author/lindsey-mcpherson/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/bipartisan-bill-would-clarify-that-vp-role-with-electors-is-only-ceremonial/"
+    },
+    {
+      "text": "Campaigns",
+      "url": "https://www.rollcall.com/section/campaigns/"
+    },
+    {
+      "text": "Bipartisan bill would clarify that VP role with electors is only ceremonial",
+      "url": "https://www.rollcall.com/2022/07/14/bipartisan-bill-would-clarify-that-vp-role-with-electors-is-only-ceremonial/"
+    },
+    {
+      "text": "Chris Cioffi",
+      "url": "https://www.rollcall.com/author/chris-cioffi/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/democrats-preview-same-sex-marriage-contraception-votes-at-hearing/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "Democrats preview same-sex marriage, contraception votes at hearing",
+      "url": "https://www.rollcall.com/2022/07/14/democrats-preview-same-sex-marriage-contraception-votes-at-hearing/"
+    },
+    {
+      "text": "Michael Macagnone",
+      "url": "https://www.rollcall.com/author/michael-macagnone/"
+    },
+    {
+      "text": "",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5332907434&iu=/4218"
+    },
+    {
+      "text": "ROLL CALL NEWSPAPER",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5332907434&iu=/4218"
+    },
+    {
+      "text": "Read the latest issue",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=5332907434&iu=/4218"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/sequoias-safe-for-now-as-lawmakers-debate-forest-policies/"
+    },
+    {
+      "text": "Policy",
+      "url": "https://www.rollcall.com/section/policy/"
+    },
+    {
+      "text": "Sequoias safe for now, as lawmakers debate forest policies",
+      "url": "https://www.rollcall.com/2022/07/14/sequoias-safe-for-now-as-lawmakers-debate-forest-policies/"
+    },
+    {
+      "text": "Keith Lewis",
+      "url": "https://www.rollcall.com/author/keith-lewis/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/capitol-lens-veterans-day/"
+    },
+    {
+      "text": "Heard on the Hill",
+      "url": "https://www.rollcall.com/section/heard-on-the-hill/"
+    },
+    {
+      "text": "Capitol Lens | Veterans\u2019 day",
+      "url": "https://www.rollcall.com/2022/07/14/capitol-lens-veterans-day/"
+    },
+    {
+      "text": "Tom Williams",
+      "url": "https://www.rollcall.com/author/tom-williams/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/at-the-races-build-back-something/"
+    },
+    {
+      "text": "Campaigns",
+      "url": "https://www.rollcall.com/section/campaigns/"
+    },
+    {
+      "text": "At the Races: Build back something?",
+      "url": "https://www.rollcall.com/2022/07/14/at-the-races-build-back-something/"
+    },
+    {
+      "text": "Mary Ellen McIntire",
+      "url": "https://www.rollcall.com/author/mary-ellen-mcintire/"
+    },
+    {
+      "text": "Stephanie Akin",
+      "url": "https://www.rollcall.com/author/stephanie-akin/"
+    },
+    {
+      "text": "Kate Ackley",
+      "url": "https://www.rollcall.com/author/kate-ackley/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/pentagon-hill-added-58-billion-to-current-defense-budget/"
+    },
+    {
+      "text": "Policy",
+      "url": "https://www.rollcall.com/section/policy/"
+    },
+    {
+      "text": "Pentagon: Hill added $58 billion to current defense budget",
+      "url": "https://www.rollcall.com/2022/07/14/pentagon-hill-added-58-billion-to-current-defense-budget/"
+    },
+    {
+      "text": "John M. Donnelly",
+      "url": "https://www.rollcall.com/author/john-m-donnelly/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/doctors-warn-us-monkeypox-response-is-lagging/"
+    },
+    {
+      "text": "Policy",
+      "url": "https://www.rollcall.com/section/policy/"
+    },
+    {
+      "text": "Doctors warn US monkeypox response is lagging",
+      "url": "https://www.rollcall.com/2022/07/14/doctors-warn-us-monkeypox-response-is-lagging/"
+    },
+    {
+      "text": "Ariel Cohen",
+      "url": "https://www.rollcall.com/author/ariel-cohen/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/capitol-ink-still-unhinged/"
+    },
+    {
+      "text": "Capitol Ink",
+      "url": "https://www.rollcall.com/section/capitol-ink/"
+    },
+    {
+      "text": "Capitol Ink | Still unhinged",
+      "url": "https://www.rollcall.com/2022/07/14/capitol-ink-still-unhinged/"
+    },
+    {
+      "text": "R.J. Matson",
+      "url": "https://www.rollcall.com/author/r-j-matson/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/sec-seeks-to-ease-barriers-for-investors-esg-proposals/"
+    },
+    {
+      "text": "Policy",
+      "url": "https://www.rollcall.com/section/policy/"
+    },
+    {
+      "text": "SEC seeks to ease barriers for investors\u2019 ESG proposals",
+      "url": "https://www.rollcall.com/2022/07/14/sec-seeks-to-ease-barriers-for-investors-esg-proposals/"
+    },
+    {
+      "text": "Ellen Meyers",
+      "url": "https://www.rollcall.com/author/ellen-meyers/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/national-988-crisis-hotline-readies-for-rollout/"
+    },
+    {
+      "text": "Policy",
+      "url": "https://www.rollcall.com/section/policy/"
+    },
+    {
+      "text": "National 988 crisis hotline readied for rollout",
+      "url": "https://www.rollcall.com/2022/07/14/national-988-crisis-hotline-readies-for-rollout/"
+    },
+    {
+      "text": "Sandhya Raman",
+      "url": "https://www.rollcall.com/author/sandhya-raman/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/push-for-medicaid-home-health-resumes-in-reconciliation-talks/"
+    },
+    {
+      "text": "Congress",
+      "url": "https://www.rollcall.com/section/congress/"
+    },
+    {
+      "text": "Reconciliation talks so far quiet on Medicaid expansion",
+      "url": "https://www.rollcall.com/2022/07/14/push-for-medicaid-home-health-resumes-in-reconciliation-talks/"
+    },
+    {
+      "text": "Lauren Clason",
+      "url": "https://www.rollcall.com/author/lauren-clason/"
+    },
+    {
+      "text": "Jessie Hellmann",
+      "url": "https://www.rollcall.com/author/jessie-hellmann/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/what-it-means-to-be-surprised-by-the-massacre-in-highland-park/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.rollcall.com/section/opinion/"
+    },
+    {
+      "text": "What it means to be \u2018surprised\u2019 by the massacre in Highland Park",
+      "url": "https://www.rollcall.com/2022/07/14/what-it-means-to-be-surprised-by-the-massacre-in-highland-park/"
+    },
+    {
+      "text": "Mary C. Curtis",
+      "url": "https://www.rollcall.com/author/mary-c-curtis/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/big-money-dominates-in-marylands-4th-district/"
+    },
+    {
+      "text": "Campaigns",
+      "url": "https://www.rollcall.com/section/campaigns/"
+    },
+    {
+      "text": "Big money dominates in Maryland\u2019s 4th District",
+      "url": "https://www.rollcall.com/2022/07/14/big-money-dominates-in-marylands-4th-district/"
+    },
+    {
+      "text": "Kate Ackley",
+      "url": "https://www.rollcall.com/author/kate-ackley/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/14/ratings-show-gop-taking-house-control-but-no-red-wave-yet/"
+    },
+    {
+      "text": "Campaigns",
+      "url": "https://www.rollcall.com/section/campaigns/"
+    },
+    {
+      "text": "Ratings show GOP taking House control, but no red wave \u2014 yet",
+      "url": "https://www.rollcall.com/2022/07/14/ratings-show-gop-taking-house-control-but-no-red-wave-yet/"
+    },
+    {
+      "text": "Nathan L. Gonzales",
+      "url": "https://www.rollcall.com/author/nathan-l-gonzales/"
+    },
+    {
+      "text": "See All",
+      "url": "/section/video"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/2022/07/15/parliamentary-procedures-and-other-perplexities-congressional-hits-and-misses/"
+    },
+    {
+      "text": "Parliamentary procedures and other perplexities \u2014 Congressional Hits and Misses",
+      "url": "https://www.rollcall.com/2022/07/15/parliamentary-procedures-and-other-perplexities-congressional-hits-and-misses/"
+    },
+    {
+      "text": "Chris Hale",
+      "url": "https://www.rollcall.com/author/chris-hale/"
+    },
+    {
+      "text": "See All",
+      "url": "/section/podcasts"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/podcasts/cq-budget-podcast/build-back-better-unravels/"
+    },
+    {
+      "text": "\u2018Build Back Better\u2019 unravels",
+      "url": "https://www.rollcall.com/podcasts/cq-budget-podcast/build-back-better-unravels/"
+    },
+    {
+      "text": "CQ Budget Podcast",
+      "url": "https://www.rollcall.com/podcast/cq-budget-podcast/"
+    },
+    {
+      "text": "",
+      "url": "https://www.rollcall.com/congressional-calendar/"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "About",
+      "url": "https://www.rollcall.com/about/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.rollcall.com/about/contact-cq-roll-call/"
+    },
+    {
+      "text": "Advertise",
+      "url": "https://fiscalnote.com/products/advertising/?pos=ftr&src=rc"
+    },
+    {
+      "text": "Events",
+      "url": "/events"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.fiscalnote.com/privacy/"
+    },
+    {
+      "text": "RC Jobs",
+      "url": "https://www.rcjobs.com/?pos=ftr&src=rc"
+    },
+    {
+      "text": "Newsletters",
+      "url": "https://www.rollcall.com/newsletters/"
+    },
+    {
+      "text": "The Staff",
+      "url": "https://www.rollcall.com/about/masthead/"
+    },
+    {
+      "text": "Subscriptions",
+      "url": "https://www.cambeywest.com/subscribe2/?p=rol&f=paid"
+    }
+  ],
+  "server": "ia801407.us.archive.org",
+  "uniq": 1467837170,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }
