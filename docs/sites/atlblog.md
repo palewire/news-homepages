@@ -17,7 +17,8 @@ orphan: true
 | Location       | New York City                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[atlblog-2022](https://archive.org/details/atlblog-2022)|
