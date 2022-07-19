@@ -1,16 +1,16 @@
-name: "Archive and Slack: Los Angeles Times"
+name: "Archive and Slack: Baltimore Sun"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 13,19,1 * * *"
+    - cron: "0 10,16,22 * * *"
 
 jobs:
   archive-site:
     name: Archive bundle
     uses: palewire/news-homepages/.github/workflows/reusable-archive-single-site-workflow.yml@main
     with:
-      handle: latimes
+      handle: baltimoresun
     secrets: inherit
 
   newsroom-slack:
@@ -27,8 +27,8 @@ jobs:
         name: Post to Slack
         uses: ./.github/actions/slack
         with:
-          handle: latimes
-          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_LATIMES }}
+          handle: baltimoresun
+          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_BALTIMORESUN }}
 
   palewire-slack:
     name: Post to palewire Slack
@@ -44,5 +44,5 @@ jobs:
         name: Post to Slack
         uses: ./.github/actions/slack
         with:
-          handle: latimes
+          handle: baltimoresun
           webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_PALEWIRE }}
