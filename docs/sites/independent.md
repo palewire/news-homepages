@@ -11,7 +11,7 @@ orphan: true
 
 | Attribute      | Value                                                                               |
 | :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.independent.co.uk/](https://www.independent.co.uk/)                                                    |
+| Site           | [https://www.independent.co.uk/news/uk](https://www.independent.co.uk/news/uk)                                                    |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/independent.xml) |
 | Twitter handle | [@Independent](https://www.twitter.com/Independent)                     |
 | Location       | London                                                                 |
