@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Rome News-Tribune
+
+![Rome News-Tribune](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/romenewstribune.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.northwestgeorgianews.com/rome](https://www.northwestgeorgianews.com/rome)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/romenewstribune.xml) |
+| Twitter handle | [@romenewstribune](https://www.twitter.com/romenewstribune)                     |
+| Location       | Rome                                                                 |
+| Timezone       | America/New_York                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |
