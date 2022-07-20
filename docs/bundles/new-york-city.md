@@ -7,7 +7,7 @@ orphan: true
 
 # New York City
 
-The most recent homepages from 12 news sites in this bundle.
+The most recent homepages from 15 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -57,6 +57,24 @@ The most recent homepages from 12 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/humansofny.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humansofny.jpg"
+     alt="Humans of New York"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/humansofny.html">Humans of New York</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newyorker.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newyorker.jpg"
+     alt="New Yorker"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/newyorker.html">New Yorker</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/ny1.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ny1.jpg"
      alt="NY1"
@@ -102,6 +120,15 @@ The most recent homepages from 12 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nytimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg"
+     alt="New York Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/nytimes.html">New York Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thecityny.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecityny.jpg"
      alt="The City"
@@ -139,10 +166,13 @@ The most recent homepages from 12 news sites in this bundle.
 |[Documented](https://palewi.re/docs/news-homepages/sites/documentedny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/documentedny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/documentedny.xml)|
 |[Gothamist](https://palewi.re/docs/news-homepages/sites/gothamist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gothamist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gothamist.xml)|
 |[Hell Gate](https://palewi.re/docs/news-homepages/sites/hellgateny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hellgateny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hellgateny.xml)|
+|[Humans of New York](https://palewi.re/docs/news-homepages/sites/humansofny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humansofny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humansofny.xml)|
+|[New Yorker](https://palewi.re/docs/news-homepages/sites/newyorker.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newyorker.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newyorker.xml)|
 |[NY1](https://palewi.re/docs/news-homepages/sites/ny1.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ny1.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ny1.xml)|
 |[Daily News](https://palewi.re/docs/news-homepages/sites/nydailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nydailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nydailynews.xml)|
 |[New York](https://palewi.re/docs/news-homepages/sites/nymag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nymag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nymag.xml)|
 |[New York Post](https://palewi.re/docs/news-homepages/sites/nypost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nypost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nypost.xml)|
 |[New York Focus](https://palewi.re/docs/news-homepages/sites/nysfocus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nysfocus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nysfocus.xml)|
+|[New York Times](https://palewi.re/docs/news-homepages/sites/nytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml)|
 |[The City](https://palewi.re/docs/news-homepages/sites/thecityny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecityny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thecityny.xml)|
 |[WNYC](https://palewi.re/docs/news-homepages/sites/wnyc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnyc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wnyc.xml)|

@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 522 sites.
+The archiving routine is currently capturing 523 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -228,6 +228,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[hromadske](https://palewi.re/docs/news-homepages/sites/hromadskeua.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hromadskeua.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hromadskeua.xml)|
 |[Huffington Post](https://palewi.re/docs/news-homepages/sites/huffpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/huffpost.xml)|
 |[Human Events](https://palewi.re/docs/news-homepages/sites/humanevents.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humanevents.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humanevents.xml)|
+|[Humans of New York](https://palewi.re/docs/news-homepages/sites/humansofny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humansofny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humansofny.xml)|
 |[ICIJ](https://palewi.re/docs/news-homepages/sites/icijorg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/icijorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/icijorg.xml)|
 |[In These Times ](https://palewi.re/docs/news-homepages/sites/inthesetimesmag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inthesetimesmag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/inthesetimesmag.xml)|
 |[Independent.ie](https://palewi.re/docs/news-homepages/sites/independent_ie.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/independent_ie.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/independent_ie.xml)|

@@ -7,7 +7,7 @@ orphan: true
 
 # Maryland
 
-The most recent homepages from 16 news sites in this bundle.
+The most recent homepages from 17 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -155,6 +155,15 @@ The most recent homepages from 16 news sites in this bundle.
  <p><a href="../sites/umd_sbs.html">Stories Beneath the Shell</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/washingtonpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg"
+     alt="Washington Post"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/washingtonpost.html">Washington Post</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -186,3 +195,4 @@ The most recent homepages from 16 news sites in this bundle.
 |[Left Bench](https://palewi.re/docs/news-homepages/sites/theleftbench.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theleftbench.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theleftbench.xml)|
 |[Real News](https://palewi.re/docs/news-homepages/sites/therealnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/therealnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/therealnews.xml)|
 |[Stories Beneath the Shell](https://palewi.re/docs/news-homepages/sites/umd_sbs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/umd_sbs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/umd_sbs.xml)|
+|[Washington Post](https://palewi.re/docs/news-homepages/sites/washingtonpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/washingtonpost.xml)|

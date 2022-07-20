@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 522 news sites.
+The most recent homepages captured from 523 news sites.
 
 <div class="latest-parent">
 
@@ -1976,6 +1976,15 @@ The most recent homepages captured from 522 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/humanevents.html">Human Events</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/humansofny.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humansofny.jpg"
+     alt="Humans of New York"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/humansofny.html">Humans of New York</a></p>
 </div>
 
 <div class="latest-child">
