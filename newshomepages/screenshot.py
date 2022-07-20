@@ -132,6 +132,7 @@ def _screenshot(
             ".fancybox-overlay",  # Ad overlay
             ".signup-box",  # Popup ad
             ".newspack-lightbox",  # Popup
+            ".adunit-googleadmanager",  # Google ad
         ]
         target_str = ",".join(target_list)
         javascript = (
