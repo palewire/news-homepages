@@ -17,7 +17,7 @@ orphan: true
 | Location       | Austin                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 66 screenshots stored at the Internet Archive.
+The archiving routine has captured 67 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

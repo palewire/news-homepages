@@ -17,7 +17,7 @@ orphan: true
 | Location       | Phoenix                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 86 screenshots stored at the Internet Archive.
+The archiving routine has captured 87 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

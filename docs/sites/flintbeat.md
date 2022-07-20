@@ -17,7 +17,7 @@ orphan: true
 | Location       | Flint                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 87 screenshots stored at the Internet Archive.
+The archiving routine has captured 88 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
