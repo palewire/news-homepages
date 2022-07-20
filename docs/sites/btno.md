@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Bergens Tidende
+
+![Bergens Tidende](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/btno.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.bt.no/](https://www.bt.no/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/btno.xml) |
+| Twitter handle | [@btno](https://www.twitter.com/btno)                     |
+| Location       | Bergen                                                                 |
+| Timezone       | Europe/Oslo                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |
