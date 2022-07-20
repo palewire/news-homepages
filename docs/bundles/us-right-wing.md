@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. right wing
 
-The most recent homepages from 26 news sites in this bundle.
+The most recent homepages from 27 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -90,6 +90,15 @@ The most recent homepages from 26 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/firstthingsmag.html">First Things</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/foxnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxnews.jpg"
+     alt="Fox News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/foxnews.html">Fox News</a></p>
 </div>
 
 <div class="latest-child">
@@ -269,6 +278,7 @@ The most recent homepages from 26 news sites in this bundle.
 |[Drudge Report](https://palewi.re/docs/news-homepages/sites/drudge.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/drudge.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/drudge.xml)|
 |[Federalist](https://palewi.re/docs/news-homepages/sites/fdrlst.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fdrlst.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fdrlst.xml)|
 |[First Things](https://palewi.re/docs/news-homepages/sites/firstthingsmag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/firstthingsmag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/firstthingsmag.xml)|
+|[Fox News](https://palewi.re/docs/news-homepages/sites/foxnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foxnews.xml)|
 |[Washington Free Beacon](https://palewi.re/docs/news-homepages/sites/freebeacon.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/freebeacon.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/freebeacon.xml)|
 |[Gateway Pundit](https://palewi.re/docs/news-homepages/sites/gatewaypundit.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gatewaypundit.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gatewaypundit.xml)|
 |[HotAir](https://palewi.re/docs/news-homepages/sites/hotairblog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hotairblog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hotairblog.xml)|

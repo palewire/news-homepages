@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. left wing
 
-The most recent homepages from 21 news sites in this bundle.
+The most recent homepages from 23 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -66,6 +66,15 @@ The most recent homepages from 21 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/huffpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpost.jpg"
+     alt="Huffington Post"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/huffpost.html">Huffington Post</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/inthesetimesmag.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inthesetimesmag.jpg"
      alt="In These Times "
@@ -108,6 +117,15 @@ The most recent homepages from 21 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/motherjones.html">Mother Jones</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/msnbc.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msnbc.jpg"
+     alt="MSNBC"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/msnbc.html">MSNBC</a></p>
 </div>
 
 <div class="latest-child">
@@ -221,11 +239,13 @@ The most recent homepages from 21 news sites in this bundle.
 |[Daily Kos](https://palewi.re/docs/news-homepages/sites/dailykos.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailykos.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailykos.xml)|
 |[Democracy Now!](https://palewi.re/docs/news-homepages/sites/democracynow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/democracynow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/democracynow.xml)|
 |[Fairness and Accuracy in Reporting](https://palewi.re/docs/news-homepages/sites/fairmediawatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fairmediawatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fairmediawatch.xml)|
+|[Huffington Post](https://palewi.re/docs/news-homepages/sites/huffpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/huffpost.xml)|
 |[In These Times ](https://palewi.re/docs/news-homepages/sites/inthesetimesmag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inthesetimesmag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/inthesetimesmag.xml)|
 |[Jacobin](https://palewi.re/docs/news-homepages/sites/jacobin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jacobin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jacobin.xml)|
 |[Jezebel](https://palewi.re/docs/news-homepages/sites/jezebel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jezebel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jezebel.xml)|
 |[Media Matters](https://palewi.re/docs/news-homepages/sites/mmfa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mmfa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mmfa.xml)|
 |[Mother Jones](https://palewi.re/docs/news-homepages/sites/motherjones.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/motherjones.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/motherjones.xml)|
+|[MSNBC](https://palewi.re/docs/news-homepages/sites/msnbc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msnbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/msnbc.xml)|
 |[Raw Story](https://palewi.re/docs/news-homepages/sites/rawstory.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rawstory.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rawstory.xml)|
 |[Salon](https://palewi.re/docs/news-homepages/sites/salon.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salon.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/salon.xml)|
 |[Slate](https://palewi.re/docs/news-homepages/sites/slate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/slate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/slate.xml)|
