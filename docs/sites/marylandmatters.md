@@ -17,7 +17,7 @@ orphan: true
 | Location       | Takoma Park                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 179 screenshots stored at the Internet Archive.
+The archiving routine has captured 181 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -17,7 +17,7 @@ orphan: true
 | Location       | Madison                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 20 screenshots stored at the Internet Archive.
+The archiving routine has captured 22 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

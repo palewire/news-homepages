@@ -1,5 +1,5 @@
 {
-  "created": 1658232956,
+  "created": 1658279296,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/31/items/quillette-2022",
@@ -142,31 +142,73 @@
       "sha1": "747f47182c4f7df9edecd455e93ddf3d448313c5"
     },
     {
+      "name": "quillette-2022-07-19T16:48:43.875978+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658245726",
+      "size": "9189",
+      "md5": "9bda03dd4af374595384a774b9fcf3af",
+      "crc32": "34f38aca",
+      "sha1": "e782807c98e2603e928551b9f5c109d88e5cd835",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-07-19T16:48:43.875978+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658245728",
+      "size": "5820",
+      "md5": "abcdd474f3c183587a71f246cc86191b",
+      "crc32": "d2a432bd",
+      "sha1": "34b43a0220ef00ea1f776efbb7a873048a7466bf",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-07-19T16:48:43.875978+01:00.jpg",
+      "source": "original",
+      "mtime": "1658245724",
+      "size": "172327",
+      "md5": "b4906d020208732505e5a25320ed54fe",
+      "crc32": "d085db6b",
+      "sha1": "cc101e3f4d11cc6e2c265175d69e8611f59023a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quillette-2022-07-19T16:48:43.875978+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quillette-2022-07-19T16:48:43.875978+01:00.jpg",
+      "mtime": "1658246890",
+      "size": "8965",
+      "md5": "c455518b9e69c80991743fc46f614b67",
+      "crc32": "e8c5d342",
+      "sha1": "ecf9e06729759ae666b8b9ffa56b73178fa84d11"
+    },
+    {
       "name": "quillette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "38074da5d62197c64d07fc54988ea26a8a4481a0",
-      "mtime": "1658202690",
-      "size": "4148",
-      "md5": "d8e588c0f4e0b4b3417932532f49e7e2",
-      "crc32": "b3739703",
-      "sha1": "c240e6e0925c6a7b930afdaa2425beef8ea4478a",
+      "btih": "a7d1be641307cd71e589fe1b9f8f7413e33dac52",
+      "mtime": "1658246953",
+      "size": "4979",
+      "md5": "2d060058cf59382c935c5f92a60984d0",
+      "crc32": "abf9fd4f",
+      "sha1": "89631945cac4b71276590e2af00465ef2b0df70e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quillette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "743738ffd5c4c8cbabbf04264bfa8d5f",
+      "md5": "23f96a1d066c55317f522f894c040948",
       "summation": "md5"
     },
     {
       "name": "quillette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658202082",
-      "size": "32768",
-      "md5": "595bf1ead83441b801585cfa4db62208",
-      "crc32": "dc99a771",
-      "sha1": "8a79bfffdac2e4c977ec463afb806b6119787c32",
+      "mtime": "1658245731",
+      "size": "36864",
+      "md5": "525019784fda2619f2c726775917816a",
+      "crc32": "59ebd361",
+      "sha1": "2e6782cb9446a163afb5ff1963ddd90ff0f77f4e",
       "format": "Metadata"
     },
     {
@@ -180,9 +222,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 17,
-  "item_last_updated": 1658202690,
-  "item_size": 760091,
+  "files_count": 21,
+  "item_last_updated": 1658246953,
+  "item_size": 961319,
   "metadata": {
     "identifier": "quillette-2022",
     "collection": [
@@ -239,6 +281,18 @@
     {
       "text": "Science / Tech",
       "url": "/tag/science-tech/"
+    },
+    {
+      "text": "Podcast # 193: Understanding Wokeness as a Make-Work Strategy for the Privileged Class",
+      "url": "/2022/07/19/understanding-wokeness-as-a-make-work-strategy-for-privileged-white-collar-workers/"
+    },
+    {
+      "text": "\n            \n              \n            \n          \n            Quillette\n            19 Jul 2022\n            \n              1 min read\n            \n          \n        ",
+      "url": "/author/quillette-magazine/"
+    },
+    {
+      "text": "Podcast",
+      "url": "/tag/podcast/"
     },
     {
       "text": "Cognitive Distortions",
@@ -325,18 +379,6 @@
       "url": "/tag/politics/"
     },
     {
-      "text": "Germany's Energy Catastrophe",
-      "url": "/2022/07/14/germanys-energy-catastrophe/"
-    },
-    {
-      "text": "\n            \n              \n            \n          \n            Lea Booth\n            14 Jul 2022\n            \n              8 min read\n            \n          \n        ",
-      "url": "/author/leabooth/"
-    },
-    {
-      "text": "energy",
-      "url": "/tag/energy/"
-    },
-    {
       "text": "\n        Show Your Support Today\n      ",
       "url": "/subscribe"
     },
@@ -398,7 +440,7 @@
     }
   ],
   "server": "ia801505.us.archive.org",
-  "uniq": 449033447,
+  "uniq": 1894463377,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

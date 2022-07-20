@@ -17,7 +17,7 @@ orphan: true
 | Location       | Denton                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 3 screenshots stored at the Internet Archive.
+The archiving routine has captured 5 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

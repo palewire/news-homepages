@@ -1,5 +1,5 @@
 {
-  "created": 1658202440,
+  "created": 1658279198,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/newspressnow-2022",
@@ -856,31 +856,63 @@
       "sha1": "48087278a83d517683ef50fc8c628c077c3fe9c3"
     },
     {
+      "name": "newspressnow-2022-07-19T10:44:32.983956-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658245476",
+      "size": "28166",
+      "md5": "790020136b74adbb8b656f2ddfdf11fe",
+      "crc32": "b891d94e",
+      "sha1": "a5e406e3608749f5b2a659a928d2c954db63a875",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-19T10:44:32.983956-05:00.jpg",
+      "source": "original",
+      "mtime": "1658245474",
+      "size": "359865",
+      "md5": "283627dca6f36967d55118d791b52a23",
+      "crc32": "59f10814",
+      "sha1": "b9b60b7bf2e47b35b5485e410c180200906c83f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newspressnow-2022-07-19T10:44:32.983956-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newspressnow-2022-07-19T10:44:32.983956-05:00.jpg",
+      "mtime": "1658246651",
+      "size": "10845",
+      "md5": "6b5d980b842fafad5a4e13fe5b5129e1",
+      "crc32": "3c1e96cf",
+      "sha1": "ccf22766da57c396c1cb40d4165136db4a082af0"
+    },
+    {
       "name": "newspressnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bf8fa3273773a125a46b6f57fdce55ce7b6859f6",
-      "mtime": "1658202405",
-      "size": "18366",
-      "md5": "114a9cd241e69fb7355973dc33c53844",
-      "crc32": "41ef1cea",
-      "sha1": "1923a0c9c9f3cb9c83d0ebbe3ae7be25cbe2184e",
+      "btih": "2fabebfc45f8b3d126bd380c019836b38484d05e",
+      "mtime": "1658246654",
+      "size": "19017",
+      "md5": "762b1b84f6be5844b08a8b815f43a397",
+      "crc32": "5ac44cbf",
+      "sha1": "db6302c1a06c9d779218abced126d0248dfa230b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newspressnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f042716bd9ba021aa487e5808ee8c736",
+      "md5": "6e09fe87dd4707cb4a12c427bb2eb215",
       "summation": "md5"
     },
     {
       "name": "newspressnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658201868",
-      "size": "86016",
-      "md5": "65aa5d95f221d51709d42e523cc74f3c",
-      "crc32": "4c236249",
-      "sha1": "8d027bf72bd7929dbab538fcb742946490793371",
+      "mtime": "1658245478",
+      "size": "90112",
+      "md5": "f3b0646c01be14d2c9f35242cc326c5d",
+      "crc32": "049fcc12",
+      "sha1": "5e9f8c123f052d8b50dfb23a2d64ce146ca63cd9",
       "format": "Metadata"
     },
     {
@@ -894,9 +926,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 83,
-  "item_last_updated": 1658202405,
-  "item_size": 11519608,
+  "files_count": 86,
+  "item_last_updated": 1658246654,
+  "item_size": 11923231,
   "metadata": {
     "identifier": "newspressnow-2022",
     "collection": [
@@ -913,8 +945,1085 @@
     "publicdate": "2022-07-04 21:49:25",
     "addeddate": "2022-07-04 21:49:25"
   },
+  "newspressnow-2022": {
+    "role": "WebArea",
+    "name": "News-Press NOW | St. Joseph news, sports, entertainment and business.",
+    "children": [
+      {
+        "role": "Iframe",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Skip to main content"
+      },
+      {
+        "role": "complementary",
+        "name": "Left Main Menu"
+      },
+      {
+        "role": "button",
+        "name": "Left Main Menu"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "eEDITION"
+      },
+      {
+        "role": "link",
+        "name": "WATCH"
+      },
+      {
+        "role": "link",
+        "name": "Weather"
+      },
+      {
+        "role": "link",
+        "name": "SUBSCRIBE"
+      },
+      {
+        "role": "link",
+        "name": "LOG IN"
+      },
+      {
+        "role": "link",
+        "name": "News"
+      },
+      {
+        "role": "link",
+        "name": "Sports"
+      },
+      {
+        "role": "link",
+        "name": "Obituaries"
+      },
+      {
+        "role": "link",
+        "name": "Marketplace"
+      },
+      {
+        "role": "link",
+        "name": "Local Links"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "heading",
+        "name": "TOP VIDEOS",
+        "level": 3
+      },
+      {
+        "role": "Iframe",
+        "name": ""
+      },
+      {
+        "role": "heading",
+        "name": "TOP STORIES",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "'Fast Track' program likely to help junior college"
+      },
+      {
+        "role": "link",
+        "name": "'Fast Track' program likely to help junior college"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "11 HRS AGO"
+      },
+      {
+        "role": "text",
+        "name": "Regional higher education leaders are keen for a reform signed into law by Gov. Mike Parson last week, as they prepare to take over degree programs in the area that tend to take two years to c\u2026"
+      },
+      {
+        "role": "link",
+        "name": "City's unique sewer system requires stormwater attention"
+      },
+      {
+        "role": "link",
+        "name": "City's unique sewer system requires stormwater attention"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "11 HRS AGO"
+      },
+      {
+        "role": "text",
+        "name": "St. Joseph is only one of six cities in Missouri with a combined sewer system, making it more difficult to maintain."
+      },
+      {
+        "role": "link",
+        "name": "Mosaic preps training camp medical tent, urges caution with heat"
+      },
+      {
+        "role": "link",
+        "name": "Mosaic preps training camp medical tent, urges caution with heat"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "11 HRS AGO"
+      },
+      {
+        "role": "text",
+        "name": "Missouri Western State University will be packed with excited Chiefs fans come next week, but one thing people will need to be cautious of is the heat."
+      },
+      {
+        "role": "link",
+        "name": "Proper training essential when using self-defense tools"
+      },
+      {
+        "role": "link",
+        "name": "Proper training essential when using self-defense tools"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "12 HRS AGO"
+      },
+      {
+        "role": "text",
+        "name": "Self-defense tools can be a good way to evoke a sense of personal security, but proper training is vital before handling firearms, pepper sprays and other safety devices."
+      },
+      {
+        "role": "text",
+        "name": "Electric vehicles heading into heart of US market"
+      },
+      {
+        "role": "button",
+        "name": ""
+      },
+      {
+        "role": "button",
+        "name": "volume_offvolume_up"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "text",
+        "name": "volume_off"
+      },
+      {
+        "role": "slider",
+        "name": "",
+        "valuetext": "",
+        "valuemax": 0,
+        "valuemin": 0,
+        "orientation": "horizontal",
+        "value": 0
+      },
+      {
+        "role": "text",
+        "name": "-0:00"
+      },
+      {
+        "role": "text",
+        "name": "share"
+      },
+      {
+        "role": "text",
+        "name": "fullscreen"
+      },
+      {
+        "role": "text",
+        "name": "Auto (nullp)"
+      },
+      {
+        "role": "text",
+        "name": "Subtitles Off"
+      },
+      {
+        "role": "text",
+        "name": "Electric vehicles heading into heart of US market"
+      },
+      {
+        "role": "text",
+        "name": "General news"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "1:39"
+      },
+      {
+        "role": "text",
+        "name": "Backseat Bets: Who will win head-to-head at Pocono?"
+      },
+      {
+        "role": "text",
+        "name": "NASCAR"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "5:48"
+      },
+      {
+        "role": "text",
+        "name": "Debate: Which drivers will claim two final spots of 2022 playoffs"
+      },
+      {
+        "role": "text",
+        "name": "NASCAR"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "2:35"
+      },
+      {
+        "role": "text",
+        "name": "Panthers debut all-black helmets to pair with 'TNF' color rush uniforms"
+      },
+      {
+        "role": "text",
+        "name": "NFL"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "0:32"
+      },
+      {
+        "role": "text",
+        "name": "'GMFB' reacts to Ja'Marr Chase not a top 10 WR in 'Madden NFL 23'"
+      },
+      {
+        "role": "text",
+        "name": "NFL"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "4:45"
+      },
+      {
+        "role": "text",
+        "name": "Expectations for Trey Lance 'GMFB'"
+      },
+      {
+        "role": "text",
+        "name": "NFL"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "9:41"
+      },
+      {
+        "role": "text",
+        "name": "Which QB will thrive under their new head coach? 'GMFB'"
+      },
+      {
+        "role": "text",
+        "name": "NFL"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "7:49"
+      },
+      {
+        "role": "text",
+        "name": "What does a successful '22 season look like for Jaguars? 'GMFB'"
+      },
+      {
+        "role": "text",
+        "name": "NFL"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "2:37"
+      },
+      {
+        "role": "text",
+        "name": "Scott Pioli: Giants players will see heightened sense of urgency from Brian Daboll"
+      },
+      {
+        "role": "text",
+        "name": "NFL"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "7:10"
+      },
+      {
+        "role": "text",
+        "name": "Who is your 'CHAOS' team for '22 season? 'GMFB'"
+      },
+      {
+        "role": "text",
+        "name": "NFL"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "6:19"
+      },
+      {
+        "role": "link",
+        "name": "SPECIAL REPORTS"
+      },
+      {
+        "role": "link",
+        "name": "Clergy react as ruling shields school prayer"
+      },
+      {
+        "role": "link",
+        "name": "Clergy react as ruling shields school prayer"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "JUL 6, 2022"
+      },
+      {
+        "role": "link",
+        "name": "City budget hit hard by rising gas prices"
+      },
+      {
+        "role": "link",
+        "name": "City budget hit hard by rising gas prices"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "JUL 6, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Turner revitalizing Mustangs baseball in debut season as owner"
+      },
+      {
+        "role": "link",
+        "name": "Turner revitalizing Mustangs baseball in debut season as owner"
+      },
+      {
+        "role": "text",
+        "name": "MAY 28, 2022"
+      },
+      {
+        "role": "link",
+        "name": "More Special Reports \u2192"
+      },
+      {
+        "role": "link",
+        "name": "REGIONAL NEWS"
+      },
+      {
+        "role": "link",
+        "name": "KC Scholars gets grant from Enterprise"
+      },
+      {
+        "role": "link",
+        "name": "KC Scholars gets grant from Enterprise"
+      },
+      {
+        "role": "text",
+        "name": "2 HRS AGO"
+      },
+      {
+        "role": "link",
+        "name": "Woman hurt in WaveRunner crash at Lake of the Ozarks"
+      },
+      {
+        "role": "link",
+        "name": "QUESTION OF THE DAY: Should the homeless be allowed to use the Wabash Bus Station as a shelter due to the weather?"
+      },
+      {
+        "role": "link",
+        "name": "Jefferson City approves funding to give employee raises, a one-time $2,500 payment"
+      },
+      {
+        "role": "link",
+        "name": "Teen to be charged as adult after fatal February shooting"
+      },
+      {
+        "role": "link",
+        "name": "More Regional News \u2192"
+      },
+      {
+        "role": "link",
+        "name": "SPORTS"
+      },
+      {
+        "role": "link",
+        "name": "Benton shortstop Coy commits to Kansas"
+      },
+      {
+        "role": "link",
+        "name": "Benton shortstop Coy commits to Kansas"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "11 HRS AGO"
+      },
+      {
+        "role": "link",
+        "name": "Mustangs score five runs on four hits to defeat Bombers"
+      },
+      {
+        "role": "link",
+        "name": "Mustangs snap three-game skid on Saturday"
+      },
+      {
+        "role": "link",
+        "name": "Thrasher replaces Dillon as Western golf coach"
+      },
+      {
+        "role": "link",
+        "name": "Missouri Western finalizing plans for Chiefs training camp, reflect on the process"
+      },
+      {
+        "role": "link",
+        "name": "More Local Sports \u2192"
+      },
+      {
+        "role": "link",
+        "name": "LIFE"
+      },
+      {
+        "role": "link",
+        "name": "\u201872: Nixon win not even close"
+      },
+      {
+        "role": "link",
+        "name": "\u201872: Nixon win not even close"
+      },
+      {
+        "role": "text",
+        "name": "JUL 15, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Pet of the Week: Timid dog will need patience, kindness"
+      },
+      {
+        "role": "link",
+        "name": "Phil Welch Stadium to host 'Encanto' movie night on Friday"
+      },
+      {
+        "role": "link",
+        "name": "Dual events bring summer festivities Downtown on Friday"
+      },
+      {
+        "role": "link",
+        "name": "1982: Polsky the new mayor"
+      },
+      {
+        "role": "link",
+        "name": "More Life Stories \u2192"
+      },
+      {
+        "role": "link",
+        "name": "OPINION"
+      },
+      {
+        "role": "link",
+        "name": "The governor's tax gambit"
+      },
+      {
+        "role": "text",
+        "name": "Missouri\u2019s regular legislative session wasn\u2019t a complete dud."
+      },
+      {
+        "role": "link",
+        "name": "The governor's tax gambit"
+      },
+      {
+        "role": "link",
+        "name": "An encouraging trend in highway safety"
+      },
+      {
+        "role": "text",
+        "name": "Driving is a privilege \u2014 not a right. States require certain minimum standards before issuin\u2026"
+      },
+      {
+        "role": "link",
+        "name": "An encouraging trend in highway safety"
+      },
+      {
+        "role": "link",
+        "name": "Vintage planes send a message"
+      },
+      {
+        "role": "text",
+        "name": "If a B-29 \u201cDoc\u201d or the SB2C Helldiver rumbles across the skies of St. Joseph, you can\u2019t help\u2026"
+      },
+      {
+        "role": "link",
+        "name": "Vintage planes send a message"
+      },
+      {
+        "role": "link",
+        "name": "Just three digits away"
+      },
+      {
+        "role": "text",
+        "name": "Over the last several months, St. Joseph residents have grown accustomed to dialing the thre\u2026"
+      },
+      {
+        "role": "link",
+        "name": "Just three digits away"
+      },
+      {
+        "role": "link",
+        "name": "More Opinion \u2192"
+      },
+      {
+        "role": "link",
+        "name": "NATION AND WORLD NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Sri Lanka lawmakers to pick new president among PM, 2 rivals"
+      },
+      {
+        "role": "link",
+        "name": "Sri Lanka lawmakers to pick new president among PM, 2 rivals"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "2 MIN AGO"
+      },
+      {
+        "role": "link",
+        "name": "UK breaks record for highest temperature as Europe sizzles"
+      },
+      {
+        "role": "link",
+        "name": "Lebanese forces, investigative judge raid central bank"
+      },
+      {
+        "role": "link",
+        "name": "Stocks make another run at rising as profit reports roll in"
+      },
+      {
+        "role": "link",
+        "name": "EXPLAINER: Twitter, Musk and the Delaware Chancery Court"
+      },
+      {
+        "role": "link",
+        "name": "See more Nation and World News \u2192"
+      },
+      {
+        "role": "link",
+        "name": "LOCAL NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Businesses prepare for Chiefs, fans coming to town"
+      },
+      {
+        "role": "link",
+        "name": "BUSINESS"
+      },
+      {
+        "role": "link",
+        "name": "Businesses prepare for Chiefs, fans coming to town"
+      },
+      {
+        "role": "link",
+        "name": "Man charged with murder in shooting on Kickapoo Reservation"
+      },
+      {
+        "role": "link",
+        "name": "COURTS"
+      },
+      {
+        "role": "link",
+        "name": "Man charged with murder in shooting on Kickapoo Reservation"
+      },
+      {
+        "role": "link",
+        "name": "Confusion lingers after abortion trigger law"
+      },
+      {
+        "role": "link",
+        "name": "LOCAL NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Confusion lingers after abortion trigger law"
+      },
+      {
+        "role": "link",
+        "name": "CAP no longer pursuing tiny homes plan"
+      },
+      {
+        "role": "link",
+        "name": "SOCIAL SERVICES"
+      },
+      {
+        "role": "link",
+        "name": "CAP no longer pursuing tiny homes plan"
+      },
+      {
+        "role": "link",
+        "name": "More Local News \u2192"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "link",
+        "name": "Local Forecast"
+      },
+      {
+        "role": "text",
+        "name": "4 HRS AGO"
+      },
+      {
+        "role": "heading",
+        "name": "MOST POPULAR",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "Nightclub hosting grand opening on Friday"
+      },
+      {
+        "role": "link",
+        "name": "Car flips in two-vehicle crash on the Belt"
+      },
+      {
+        "role": "link",
+        "name": "Tech N9ne to perform at Red Rally"
+      },
+      {
+        "role": "link",
+        "name": "June restaurant inspections"
+      },
+      {
+        "role": "link",
+        "name": "15 arrests made in overnight police operation"
+      },
+      {
+        "role": "link",
+        "name": "Police working accident near Shoppes at North Village"
+      },
+      {
+        "role": "link",
+        "name": "Business helps people 'sort it out'"
+      },
+      {
+        "role": "link",
+        "name": "City considers Discovery Center funding change"
+      },
+      {
+        "role": "link",
+        "name": "Sunday morning shooting results in fatality"
+      },
+      {
+        "role": "link",
+        "name": "Three dead after crash outside of Sturgeon Saturday morning"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "heading",
+        "name": "TRENDING RECIPE EXCHANGE",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "This recipe is great as it could be enjoyed as a salad or a sandwich. It's creamy with tender, juicy chicken. See how you can make it for your next meal."
+      },
+      {
+        "role": "link",
+        "name": "Uncle Wiley's Chicken Salad",
+        "description": "This recipe is great as it could be enjoyed as a salad or a sandwich. It's creamy with tender, juicy chicken. See how you can make it for your next meal."
+      },
+      {
+        "role": "link",
+        "name": "An easy pasta salad for summer cookouts that's tangy and full of fresh flavor. Your Memorial Day, Labor Day, July 4th, etc. barbecues just got tastier."
+      },
+      {
+        "role": "link",
+        "name": "Favorite Pasta Salad",
+        "description": "An easy pasta salad for summer cookouts that's tangy and full of fresh flavor. Your Memorial Day, Labor Day, July 4th, etc. barbecues just got tastier."
+      },
+      {
+        "role": "link",
+        "name": "Baking chicken and dumplings takes more time than usual, but the end result is wonderfully creamy. It's a simple dinner that's packed with flavor."
+      },
+      {
+        "role": "link",
+        "name": "Baked Chicken and Dumplins",
+        "description": "Baking chicken and dumplings takes more time than usual, but the end result is wonderfully creamy. It's a simple dinner that's packed with flavor."
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "Iframe",
+        "name": "Primis Frame"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "Iframe",
+        "name": ""
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "heading",
+        "name": "MORE TOP VIDEOS",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "'Fast Track' program likely to help junior college"
+      },
+      {
+        "role": "link",
+        "name": "'Fast Track' program likely to help junior college"
+      },
+      {
+        "role": "link",
+        "name": "City's unique sewer system requires stormwater attention"
+      },
+      {
+        "role": "link",
+        "name": "City's unique sewer system requires stormwater attention"
+      },
+      {
+        "role": "link",
+        "name": "Businesses prepare for Chiefs, fans coming to town"
+      },
+      {
+        "role": "link",
+        "name": "Businesses prepare for Chiefs, fans coming to town"
+      },
+      {
+        "role": "link",
+        "name": "Chiefs Training Camp set to return in coming weeks"
+      },
+      {
+        "role": "link",
+        "name": "Chiefs Training Camp set to return in coming weeks"
+      },
+      {
+        "role": "link",
+        "name": "Business helps people 'sort it out'"
+      },
+      {
+        "role": "link",
+        "name": "Business helps people 'sort it out'"
+      },
+      {
+        "role": "link",
+        "name": "Freudenthal employees reflect on business expansion"
+      },
+      {
+        "role": "link",
+        "name": "Freudenthal employees reflect on business expansion"
+      },
+      {
+        "role": "link",
+        "name": "Christian music artist Adelaide visits Downtown St. Joseph"
+      },
+      {
+        "role": "link",
+        "name": "Christian music artist Adelaide visits Downtown St. Joseph"
+      },
+      {
+        "role": "link",
+        "name": "Confusion lingers after abortion trigger law"
+      },
+      {
+        "role": "link",
+        "name": "Confusion lingers after abortion trigger law"
+      },
+      {
+        "role": "link",
+        "name": "See more Top Videos \u2192"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "heading",
+        "name": "NPG NEWSPAPERS",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Atchison Globe"
+      },
+      {
+        "role": "link",
+        "name": "Courier-Tribune"
+      },
+      {
+        "role": "link",
+        "name": "Gladstone Dispatch"
+      },
+      {
+        "role": "link",
+        "name": "Green Acres Publication"
+      },
+      {
+        "role": "link",
+        "name": "Hiawatha World"
+      },
+      {
+        "role": "link",
+        "name": "Miami County Republic"
+      },
+      {
+        "role": "link",
+        "name": "Save Now"
+      },
+      {
+        "role": "link",
+        "name": "St. Joseph News-Press"
+      },
+      {
+        "role": "heading",
+        "name": "NPG BROADCAST",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "KCJO - St. Joseph, Mo"
+      },
+      {
+        "role": "link",
+        "name": "KECY - Yuma, Az / El Centro, Ca"
+      },
+      {
+        "role": "link",
+        "name": "KESQ - Thousand Palms, Ca"
+      },
+      {
+        "role": "link",
+        "name": "KEYT - Santa Barbara, Ca"
+      },
+      {
+        "role": "link",
+        "name": "KIFI - Idaho Falls, Id"
+      },
+      {
+        "role": "link",
+        "name": "KION - Salinas, Ca"
+      },
+      {
+        "role": "link",
+        "name": "KMIZ - Columbia, Mo"
+      },
+      {
+        "role": "link",
+        "name": "KNPG - St. Joseph, Mo"
+      },
+      {
+        "role": "link",
+        "name": "KNPN - St. Joseph, Mo"
+      },
+      {
+        "role": "link",
+        "name": "KRDO - Colorado Springs, Co"
+      },
+      {
+        "role": "link",
+        "name": "KTVZ - Bend, Or"
+      },
+      {
+        "role": "link",
+        "name": "KVIA - El Paso, Tx"
+      },
+      {
+        "role": "heading",
+        "name": "NPG COMPANIES",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "News-Press Media Group"
+      },
+      {
+        "role": "link",
+        "name": "BERKS Group"
+      },
+      {
+        "role": "link",
+        "name": "News-Press & Gazette Co."
+      },
+      {
+        "role": "link",
+        "name": "SUBSCRIBE"
+      },
+      {
+        "role": "link",
+        "name": "ADVERTISE"
+      },
+      {
+        "role": "link",
+        "name": "FEEDBACK"
+      },
+      {
+        "role": "link",
+        "name": "CAREERS"
+      },
+      {
+        "role": "link",
+        "name": "CONTACT"
+      },
+      {
+        "role": "link",
+        "name": "PRIVACY"
+      },
+      {
+        "role": "link",
+        "name": "TERMS"
+      },
+      {
+        "role": "link",
+        "name": "CLOSED CAPTIONING"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "text",
+        "name": "\u00a9 2021 NEWS-PRESS & GAZETTE CO."
+      },
+      {
+        "role": "text",
+        "name": "Powered by"
+      },
+      {
+        "role": "link",
+        "name": "BLOX Content Management System",
+        "description": "BLOX Content Management System"
+      },
+      {
+        "role": "text",
+        "name": "from"
+      },
+      {
+        "role": "link",
+        "name": "TownNews.com",
+        "description": "TownNews.com BLOX Newspaper Content Management"
+      },
+      {
+        "role": "text",
+        "name": "."
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      }
+    ]
+  },
   "server": "ia801500.us.archive.org",
-  "uniq": 1217342922,
+  "uniq": 252430480,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

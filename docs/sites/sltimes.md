@@ -17,7 +17,7 @@ orphan: true
 | Location       | Storm Lake                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 88 screenshots stored at the Internet Archive.
+The archiving routine has captured 90 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

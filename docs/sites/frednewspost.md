@@ -17,7 +17,7 @@ orphan: true
 | Location       | Frederick                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 178 screenshots stored at the Internet Archive.
+The archiving routine has captured 180 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

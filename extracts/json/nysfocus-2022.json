@@ -1,5 +1,5 @@
 {
-  "created": 1658232855,
+  "created": 1658279222,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/35/items/nysfocus-2022",
@@ -1024,31 +1024,73 @@
       "sha1": "cc20c57677fd2843c50579bababc7f7d02d311d1"
     },
     {
+      "name": "nysfocus-2022-07-19T11:45:48.278586-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658245552",
+      "size": "54073",
+      "md5": "3e5db522f731cb783de0794543beb1e8",
+      "crc32": "b9288e7b",
+      "sha1": "e35992d66ab3afb61c570f500761aa31a739b867",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-07-19T11:45:48.278586-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658245554",
+      "size": "45941",
+      "md5": "c53ae998b97ca4a4fbe521e8a16033d6",
+      "crc32": "8ac358ea",
+      "sha1": "4ff1487e84d50ec76eccc8ef9ae165a8a30eda28",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-07-19T11:45:48.278586-04:00.jpg",
+      "source": "original",
+      "mtime": "1658245551",
+      "size": "253207",
+      "md5": "6eff5b46dd25cd72b8c36d20dda15e26",
+      "crc32": "be917c73",
+      "sha1": "ffe3e505e679929c9afc98871d25e544fe092e00",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nysfocus-2022-07-19T11:45:48.278586-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nysfocus-2022-07-19T11:45:48.278586-04:00.jpg",
+      "mtime": "1658247014",
+      "size": "9767",
+      "md5": "13dff92445bf96080e3248fbd12bedce",
+      "crc32": "93003673",
+      "sha1": "cc20c57677fd2843c50579bababc7f7d02d311d1"
+    },
+    {
       "name": "nysfocus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d89b3d3c4a83efe01f873089c9d1706fc19a6355",
-      "mtime": "1658202501",
-      "size": "21844",
-      "md5": "0523057b158ae43d2c28ed1b70ec7273",
-      "crc32": "343a1b7a",
-      "sha1": "6884169400d6448162be76dbb306e51768b27092",
+      "btih": "dfbba7ba18dc7cc4610354d8d8e7625b3129f89a",
+      "mtime": "1658247114",
+      "size": "22693",
+      "md5": "54f077ee2bbd4971fa95594b9b232378",
+      "crc32": "4f7c77e1",
+      "sha1": "f698eef7eacc11743f46a864b22aeab4818361e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nysfocus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e5e19d0aaa86ad2504fd43ebb050128d",
+      "md5": "d1ee7053d02081a057077df5cda1107b",
       "summation": "md5"
     },
     {
       "name": "nysfocus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658201915",
-      "size": "135168",
-      "md5": "5c598ca1ec380e8e2c9e8c9b4028f926",
-      "crc32": "f06a5eec",
-      "sha1": "9e0e616703a0f870f2a2d2e72a67c6eaa7cb0292",
+      "mtime": "1658245556",
+      "size": "139264",
+      "md5": "abfbaa8434a130fdab6afadf5239f118",
+      "crc32": "9f15450a",
+      "sha1": "a027a2316b0c0208ab62a7159d0f1a1fcdec5508",
       "format": "Metadata"
     },
     {
@@ -1062,9 +1104,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 101,
-  "item_last_updated": 1658202501,
-  "item_size": 8887565,
+  "files_count": 105,
+  "item_last_updated": 1658247114,
+  "item_size": 9255498,
   "metadata": {
     "identifier": "nysfocus-2022",
     "collection": [
@@ -2471,10 +2513,10 @@
       "url": "https://www.nysfocus.com/about/"
     }
   ],
-  "server": "ia902503.us.archive.org",
-  "uniq": 776147795,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1658155335,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }
