@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 33 bundles of sites.
+The archiving routine is currently organized into 35 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -11,6 +11,7 @@ The archiving routine is currently organized into 33 bundles of sites.
 |[California Bay Area](https://palewi.re/docs/news-homepages/bundles/bay-area.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/bay-area.xml)|
 |[Canada](https://palewi.re/docs/news-homepages/bundles/canada.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/canada.xml)|
 |[Capitol Hill](https://palewi.re/docs/news-homepages/bundles/capitol-hill.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/capitol-hill.xml)|
+|[Chess](https://palewi.re/docs/news-homepages/bundles/chess.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/chess.xml)|
 |[Chicago](https://palewi.re/docs/news-homepages/bundles/chicago.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/chicago.xml)|
 |[Eastern Europe](https://palewi.re/docs/news-homepages/bundles/eastern-europe.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/eastern-europe.xml)|
 |[Entertainment](https://palewi.re/docs/news-homepages/bundles/entertainment.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/entertainment.xml)|
@@ -26,6 +27,7 @@ The archiving routine is currently organized into 33 bundles of sites.
 |[New Mexico](https://palewi.re/docs/news-homepages/bundles/new-mexico.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-mexico.xml)|
 |[New York City](https://palewi.re/docs/news-homepages/bundles/new-york-city.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-york-city.xml)|
 |[North Carolina](https://palewi.re/docs/news-homepages/bundles/north-carolina.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/north-carolina.xml)|
+|[Norway](https://palewi.re/docs/news-homepages/bundles/norway.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/norway.xml)|
 |[Oregon](https://palewi.re/docs/news-homepages/bundles/oregon.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/oregon.xml)|
 |[Philadelphia](https://palewi.re/docs/news-homepages/bundles/philadelphia.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/philadelphia.xml)|
 |[Russia](https://palewi.re/docs/news-homepages/bundles/russia.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/russia.xml)|

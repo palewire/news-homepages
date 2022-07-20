@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 511 news sites.
+The most recent homepages captured from 522 news sites.
 
 <div class="latest-parent">
 
@@ -113,6 +113,15 @@ The most recent homepages captured from 511 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/atlblog.html">Above the Law</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/aftenposten.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aftenposten.jpg"
+     alt="Aftenposten"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/aftenposten.html">Aftenposten</a></p>
 </div>
 
 <div class="latest-child">
@@ -521,6 +530,15 @@ The most recent homepages captured from 511 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/btno.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/btno.jpg"
+     alt="Bergens Tidende"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/btno.html">Bergens Tidende</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/bettergov.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bettergov.jpg"
      alt="Better Government Association"
@@ -845,6 +863,33 @@ The most recent homepages captured from 511 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/chesscom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chesscom.jpg"
+     alt="Chess.com"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/chesscom.html">Chess.com</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/chess24com.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chess24com.jpg"
+     alt="chess24"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/chess24com.html">chess24</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/chessbase.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chessbase.jpg"
+     alt="ChessBase"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/chessbase.html">ChessBase</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/chicago_reader.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chicago_reader.jpg"
      alt="Chicago Reader"
@@ -1058,6 +1103,33 @@ The most recent homepages captured from 511 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/curbed.html">Curbed</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dagbladet.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dagbladet.jpg"
+     alt="Dagbladet"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/dagbladet.html">Dagbladet</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dn_no.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dn_no.jpg"
+     alt="Dagens Næringsliv"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/dn_no.html">Dagens Næringsliv</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dagsavisen.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dagsavisen.jpg"
+     alt="Dagsavisen"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/dagsavisen.html">Dagsavisen</a></p>
 </div>
 
 <div class="latest-child">
@@ -2879,6 +2951,15 @@ The most recent homepages captured from 511 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nettavisen.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nettavisen.jpg"
+     alt="Nettavisen"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/nettavisen.html">Nettavisen</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/knprnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knprnews.jpg"
      alt="Nevada Public Radio"
@@ -3038,6 +3119,15 @@ The most recent homepages captured from 511 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/npr.html">NPR</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nrk.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nrk.jpg"
+     alt="NRK"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/nrk.html">NRK</a></p>
 </div>
 
 <div class="latest-child">
@@ -4343,6 +4433,15 @@ The most recent homepages captured from 511 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/verge.html">Verge</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/vgnett.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vgnett.jpg"
+     alt="VG"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/vgnett.html">VG</a></p>
 </div>
 
 <div class="latest-child">
