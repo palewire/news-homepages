@@ -1,5 +1,5 @@
 {
-  "created": 1658232633,
+  "created": 1658278956,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/huffpost-2022",
@@ -3526,31 +3526,157 @@
       "sha1": "305751b2376b1014039c3706ddd6993c22c0c511"
     },
     {
+      "name": "huffpost-2022-07-19T10:12:39.509105-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658239965",
+      "size": "34881",
+      "md5": "155225e920602ca60ab122b4a1837c88",
+      "crc32": "f39af3fa",
+      "sha1": "443873918ef8dc838906c0bb537219860dd84ddc",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-19T10:12:39.509105-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658239966",
+      "size": "35983",
+      "md5": "1b9ea4c690b607122cc1dbac7601c3c3",
+      "crc32": "bc650a51",
+      "sha1": "6d899906f0a618d6f80d914411cd242f8f49a904",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-19T10:12:39.509105-04:00.jpg",
+      "source": "original",
+      "mtime": "1658239963",
+      "size": "215404",
+      "md5": "a6eb7ac76908a4bf24aed33a9d3d4ec8",
+      "crc32": "baf672f8",
+      "sha1": "26dfc9e02dd600e038e3d7bec1254846848ecc09",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-07-19T10:12:39.509105-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-07-19T10:12:39.509105-04:00.jpg",
+      "mtime": "1658242748",
+      "size": "9945",
+      "md5": "fc5457503c9cc70d2f48956a84c1b5cc",
+      "crc32": "a4b94b87",
+      "sha1": "77e6365fa99c8b5bfef355fad8afa08823926d3a"
+    },
+    {
+      "name": "huffpost-2022-07-19T11:50:09.644086-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658245812",
+      "size": "34647",
+      "md5": "1c1b6e8ea6d4ec7fa68b20a8dba338ef",
+      "crc32": "7997864f",
+      "sha1": "0aef0753459033345be27c2ef247cd2277600136",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-19T11:50:09.644086-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658245813",
+      "size": "61045",
+      "md5": "0011ce575b808f54443369885c7af15e",
+      "crc32": "f1b1be2d",
+      "sha1": "75f3f49c3055fb61a2251376a14623a83cc66393",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-19T11:50:09.644086-04:00.jpg",
+      "source": "original",
+      "mtime": "1658245810",
+      "size": "215234",
+      "md5": "b667d4381468988188bcac3c95de457a",
+      "crc32": "34acb444",
+      "sha1": "c1758ccb8b8c82c3e1e696d205c71de6f5f921f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-07-19T11:50:09.644086-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-07-19T11:50:09.644086-04:00.jpg",
+      "mtime": "1658246933",
+      "size": "9968",
+      "md5": "d2f9cf7ce06bc4d440ca87251921f2df",
+      "crc32": "c16173e7",
+      "sha1": "885b0d1b393e9008d66838efc1e6ca66c4a49200"
+    },
+    {
+      "name": "huffpost-2022-07-19T17:13:47.048842-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658265234",
+      "size": "34738",
+      "md5": "e985b4a70d52bf10a4b0730b9bb74b13",
+      "crc32": "d2ae8e74",
+      "sha1": "77333dca4298bb3f9c97a3fa0f3bf6f388317207",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-19T17:13:47.048842-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658265235",
+      "size": "36774",
+      "md5": "c81efbcc3e7cc62e01e79fee2cb61531",
+      "crc32": "7b5e4c24",
+      "sha1": "2e7bfa735e95f3f517198ab3f347c88446f0368b",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-07-19T17:13:47.048842-04:00.jpg",
+      "source": "original",
+      "mtime": "1658265231",
+      "size": "232216",
+      "md5": "4351e21eebc59edc2c416f6e54b5cccc",
+      "crc32": "bd2078d5",
+      "sha1": "8ff006cad42f52af2d70591e2f19a9a3e3ec8a95",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-07-19T17:13:47.048842-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-07-19T17:13:47.048842-04:00.jpg",
+      "mtime": "1658265330",
+      "size": "10425",
+      "md5": "58c9f6ad5f12ae3d4e2668ab8f58464b",
+      "crc32": "1ca6b9f9",
+      "sha1": "de5d39ece8b2cb240eac5aa7e7df3c7d4280f549"
+    },
+    {
       "name": "huffpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5695df357d55f9f9d3184d6cf80f2fd37519ce3a",
-      "mtime": "1658198247",
-      "size": "71948",
-      "md5": "30474160ee498e36b7964fee9bd36f35",
-      "crc32": "8efdd8d4",
-      "sha1": "97a5edd2a66df56f57c30aead8a4465e23344553",
+      "btih": "6d8342f4c74e727c9f23411754a4c245c8b134ed",
+      "mtime": "1658265340",
+      "size": "74476",
+      "md5": "75338489920cdaaf88ac642c7c42593e",
+      "crc32": "a04a01aa",
+      "sha1": "21474b721d5a97b0bdf1ff8565a98074aeb93c57",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d8dd05a92c894a872b9e2ce4cfc03ada",
+      "md5": "53b0abe62394b7039ee885bc5b2d698d",
       "summation": "md5"
     },
     {
       "name": "huffpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658197567",
-      "size": "397312",
-      "md5": "240ee53571067193519211824559dbf5",
-      "crc32": "c64475e5",
-      "sha1": "8a29f42954af660547c052b7be9b4224f6051448",
+      "mtime": "1658265238",
+      "size": "409600",
+      "md5": "1fcb50096e541703781af665c814dbda",
+      "crc32": "6ea8af50",
+      "sha1": "035a419ecbafee4d081dc8340173fbe606aaf190",
       "format": "Metadata"
     },
     {
@@ -3564,7 +3690,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 339,
+  "files_count": 351,
   "huffpost-2022": [
     {
       "text": "Skip to Main Content",
@@ -3687,7 +3813,7 @@
       "url": "/life/huffpost-shopping"
     },
     {
-      "text": "Communities",
+      "text": "Voices",
       "url": "/voices/"
     },
     {
@@ -3727,12 +3853,8 @@
       "url": "/horoscopes"
     },
     {
-      "text": "Pride In Full Color",
-      "url": "/voices/topic/pride-2022"
-    },
-    {
-      "text": "Sleep On It",
-      "url": "/life/topic/sleep-on-it"
+      "text": "We All Belong",
+      "url": "/voices/topic/we-all-belong"
     },
     {
       "text": "Newsletters",
@@ -3851,6 +3973,10 @@
       "url": "/section/huffpost-personal"
     },
     {
+      "text": "VOICES",
+      "url": "/voices"
+    },
+    {
       "text": "SHOPPING",
       "url": "/life/huffpost-shopping"
     },
@@ -3860,215 +3986,239 @@
     },
     {
       "text": "Go to featured article",
-      "url": "https://www.huffpost.com/entry/trial-expected-to-begin-for-ex-trump-adviser-steve-bannon_n_62d51ff6e4b0116f21bdb3ab"
+      "url": "https://www.huffpost.com/entry/congress-arrests-supreme-court-abortion-protest_n_62d6ef83e4b092a3f6c1b9c6"
     },
     {
-      "text": "BANNON ON TRIAL \u2014 JURY SELECTION BEGINS",
-      "url": "https://www.huffpost.com/entry/trial-expected-to-begin-for-ex-trump-adviser-steve-bannon_n_62d51ff6e4b0116f21bdb3ab"
+      "text": "17 DEM LAWMAKERS ARRESTED AT SCOTUS \u2014 AOC, OMAR, TLAIB",
+      "url": "https://www.huffpost.com/entry/congress-arrests-supreme-court-abortion-protest_n_62d6ef83e4b092a3f6c1b9c6"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/europe-broils-in-heat-wave-fires-in-france-spain_n_62d56e4ee4b0f69130327c7a"
+      "url": "https://www.huffpost.com/entry/uk-temperature-record-europe-heat_n_62d6971de4b008a2d03e86a0"
     },
     {
       "text": "World News",
       "url": "https://www.huffpost.com/news/world-news"
     },
     {
-      "text": "Europe Broils In Heat Wave That Fuels Fires In France, Spain",
-      "url": "https://www.huffpost.com/entry/europe-broils-in-heat-wave-fires-in-france-spain_n_62d56e4ee4b0f69130327c7a"
+      "text": "HELL HEAT IN UK: Britain Breaks Record For Highest Temperature Ever Recorded",
+      "url": "https://www.huffpost.com/entry/uk-temperature-record-europe-heat_n_62d6971de4b008a2d03e86a0"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/uk-heat-wave-transit_n_62d59322e4b0116f21bec69e"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.huffpost.com/impact/green"
-    },
-    {
-      "text": "MORE: Severe UK Heat Wave Disrupts Transit Across The Country",
-      "url": "https://www.huffpost.com/entry/uk-heat-wave-transit_n_62d59322e4b0116f21bec69e"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/texas-state-police-uvalde-internal-review_n_62d5c367e4b0116f21bf19a1"
-    },
-    {
-      "text": "U.S. News",
-      "url": "https://www.huffpost.com/news/us-news"
-    },
-    {
-      "text": "Texas State Police Launch Internal Review Of Uvalde School Shooting Response",
-      "url": "https://www.huffpost.com/entry/texas-state-police-uvalde-internal-review_n_62d5c367e4b0116f21bf19a1"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/buffalo-supermarket-shooting_n_62d59ed6e4b008a2d03cfc2c"
-    },
-    {
-      "text": "U.S. News",
-      "url": "https://www.huffpost.com/news/us-news"
-    },
-    {
-      "text": "Buffalo Supermarket Shooter Arraigned On Federal Charges",
-      "url": "https://www.huffpost.com/entry/buffalo-supermarket-shooting_n_62d59ed6e4b008a2d03cfc2c"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/idaho-patriot-front-court-hearing_n_62d57d71e4b0f69130329b27"
-    },
-    {
-      "text": "U.S. News",
-      "url": "https://www.huffpost.com/news/us-news"
-    },
-    {
-      "text": "6 Members Of White Supremacist \u2018Patriot Front\u2019 Group Expected In Idaho Court",
-      "url": "https://www.huffpost.com/entry/idaho-patriot-front-court-hearing_n_62d57d71e4b0f69130329b27"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/gop-ukraine-aid_n_62d5cc17e4b0f69130331d50"
+      "url": "https://www.huffpost.com/entry/national-archives-deleted-secret-service-texts_n_62d6c6bbe4b008a2d03f1ac4"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Republicans Begin To Sour On Aid To Ukraine",
-      "url": "https://www.huffpost.com/entry/gop-ukraine-aid_n_62d5cc17e4b0f69130331d50"
+      "text": "National Archives Calls For Investigation Into Deleted Jan. 6 Secret Service Texts",
+      "url": "https://www.huffpost.com/entry/national-archives-deleted-secret-service-texts_n_62d6c6bbe4b008a2d03f1ac4"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/jody-hice-georgia-election-investigation_n_62d59838e4b0116f21bed36a"
+      "url": "https://www.huffpost.com/entry/in-historic-first-witness-explains-how-to-self-manage-abortion-in-front-of-congress_n_62d6cb35e4b092a3f6c16c70"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Rep. Jody Hice Subpoenaed In Georgia Election Investigation",
-      "url": "https://www.huffpost.com/entry/jody-hice-georgia-election-investigation_n_62d59838e4b0116f21bed36a"
+      "text": "In Historic First, Witness Explains How To Self-Manage Abortion In Front Of Congress",
+      "url": "https://www.huffpost.com/entry/in-historic-first-witness-explains-how-to-self-manage-abortion-in-front-of-congress_n_62d6cb35e4b092a3f6c16c70"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/indiana-mall-shooting-attacker_n_62d5adfde4b0116f21befbb8"
-    },
-    {
-      "text": "U.S. News",
-      "url": "https://www.huffpost.com/news/us-news"
-    },
-    {
-      "text": "Indiana Shooting Victims Identified As Police Laud Actions Of Man Who Killed Attacker",
-      "url": "https://www.huffpost.com/entry/indiana-mall-shooting-attacker_n_62d5adfde4b0116f21befbb8"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/europe-heat-wave-photos_n_62d57a90e4b0f6913032976e"
-    },
-    {
-      "text": "World News",
-      "url": "https://www.huffpost.com/news/world-news"
-    },
-    {
-      "text": "Striking Photos Show Europe Trying To Cope With Brutal Heat Wave",
-      "url": "https://www.huffpost.com/entry/europe-heat-wave-photos_n_62d57a90e4b0f6913032976e"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/republican-senate-candidate-maryland-false-child-trafficking_n_62d55189e4b0f69130322be3"
+      "url": "https://www.huffpost.com/entry/election-deniers-mitt-romney-democrats_n_62d6e6d9e4b0ed8ba494bbec"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Republican Senate Candidate Charged With Making False Child Trafficking Allegations",
-      "url": "https://www.huffpost.com/entry/republican-senate-candidate-maryland-false-child-trafficking_n_62d55189e4b0f69130322be3"
+      "text": "Mitt Romney Warns Democrats Against \u2018Stupid\u2019 Strategy Of Helping GOP Election Deniers",
+      "url": "https://www.huffpost.com/entry/election-deniers-mitt-romney-democrats_n_62d6e6d9e4b0ed8ba494bbec"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/heres-why-jennifer-garner-was-flying-high-during-ben-afflecks-vegas-wedding_n_62d5aef6e4b0116f21befd8c"
+      "url": "https://www.huffpost.com/entry/indiana-rape-victim-lawsuit-rokita_n_62d6de06e4b008a2d03f546a"
     },
     {
-      "text": "Entertainment",
-      "url": "https://www.huffpost.com/entertainment/entertainment"
+      "text": "Politics",
+      "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Here\u2019s Why Jennifer Garner Was Flying High During Ben Affleck\u2019s Vegas Wedding",
-      "url": "https://www.huffpost.com/entry/heres-why-jennifer-garner-was-flying-high-during-ben-afflecks-vegas-wedding_n_62d5aef6e4b0116f21befd8c"
+      "text": "Doctor Who Provided Legal Abortion To 10-Year-Old To Sue Indiana AG For Defamation",
+      "url": "https://www.huffpost.com/entry/indiana-rape-victim-lawsuit-rokita_n_62d6de06e4b008a2d03f546a"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/union-elections-jump-amid-worker-organizing-wave_n_62d59cfee4b0e6fc1a9a045b"
+      "url": "https://www.huffpost.com/entry/former-nyc-mayor-bill-de-blasio-ends-campaign-congress_n_62d6eb85e4b0e6fc1a9c748a"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.huffpost.com/news/politics"
+    },
+    {
+      "text": "Former New York Mayor Bill de Blasio Ends Campaign For Congress",
+      "url": "https://www.huffpost.com/entry/former-nyc-mayor-bill-de-blasio-ends-campaign-congress_n_62d6eb85e4b0e6fc1a9c748a"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/elon-musk-twitter-lawsuit-outcomes_n_62d5639de4b092a3f6bec713"
     },
     {
       "text": "Business",
       "url": "https://www.huffpost.com/impact/business"
     },
     {
-      "text": "More Workers Are Demanding Union Elections Now Than They Have In Years",
-      "url": "https://www.huffpost.com/entry/union-elections-jump-amid-worker-organizing-wave_n_62d59cfee4b0e6fc1a9a045b"
+      "text": "How Does Twitter\u2019s Legal Battle Against Elon Musk End?",
+      "url": "https://www.huffpost.com/entry/elon-musk-twitter-lawsuit-outcomes_n_62d5639de4b092a3f6bec713"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/blake-masters-best-man-arizona-gop-senate-race_n_62d5e23de4b0116f21bf2eeb"
+      "url": "https://www.huffpost.com/entry/former-white-house-aides-next-jan-6-hearing_n_62d6b7ade4b008a2d03eef39"
     },
     {
       "text": "Politics",
       "url": "https://www.huffpost.com/news/politics"
     },
     {
-      "text": "Trump-Backed Senate Candidate Scorched By Friend Who Served As His Best Man",
-      "url": "https://www.huffpost.com/entry/blake-masters-best-man-arizona-gop-senate-race_n_62d5e23de4b0116f21bf2eeb"
+      "text": "Former Trump White House Aides To Testify At Next Jan. 6 Prime-Time Hearing",
+      "url": "https://www.huffpost.com/entry/former-white-house-aides-next-jan-6-hearing_n_62d6b7ade4b008a2d03eef39"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/mark-cuban-elon-musk-how-many-kids-weird-answer_n_62d5b81de4b092a3f6bf7074"
+      "url": "https://www.huffpost.com/entry/husbands-death-suicide-love-grief_n_62d00bd7e4b0c0bdba6727c8"
+    },
+    {
+      "text": "HuffPost Personal",
+      "url": "https://www.huffpost.com/section/huffpost-personal"
+    },
+    {
+      "text": "I\u2019ve Lost 2 Husbands To Suicide. Here\u2019s What Living Through The Unimaginable Taught Me.",
+      "url": "https://www.huffpost.com/entry/husbands-death-suicide-love-grief_n_62d00bd7e4b0c0bdba6727c8"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/black-excellence-pregnant-baby_n_62cec335e4b0eef119c0e128"
+    },
+    {
+      "text": "Voices",
+      "url": "https://www.huffpost.com/voices/voices"
+    },
+    {
+      "text": "I Was Raised to Strive For \u2018Black Excellence.\u2019 When I Got Pregnant, I Had to Rethink Everything",
+      "url": "https://www.huffpost.com/entry/black-excellence-pregnant-baby_n_62cec335e4b0eef119c0e128"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/sesame-place-viral-video-allegedly-racist_n_62d6ef79e4b0116f21c1524c"
+    },
+    {
+      "text": "U.S. News",
+      "url": "https://www.huffpost.com/news/us-news"
+    },
+    {
+      "text": "Sesame Place Under Fire After Muppet Character Appears To Snub 2 Black Girls",
+      "url": "https://www.huffpost.com/entry/sesame-place-viral-video-allegedly-racist_n_62d6ef79e4b0116f21c1524c"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/south-africa-bar-teen-death-methanol_n_62d6b684e4b092a3f6c12ebb"
+    },
+    {
+      "text": "World News",
+      "url": "https://www.huffpost.com/news/world-news"
+    },
+    {
+      "text": "Methanol Found In Blood Of Teens Who Died In South African Bar",
+      "url": "https://www.huffpost.com/entry/south-africa-bar-teen-death-methanol_n_62d6b684e4b092a3f6c12ebb"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/chelsea-handler-jo-koy-split_n_62d6c27de4b0f6913034ec53"
     },
     {
       "text": "Entertainment",
       "url": "https://www.huffpost.com/entertainment/entertainment"
     },
     {
-      "text": "Mark Cuban Asked Elon Musk How Many Kids He\u2019s Going To Have, And Got A Weird Answer",
-      "url": "https://www.huffpost.com/entry/mark-cuban-elon-musk-how-many-kids-weird-answer_n_62d5b81de4b092a3f6bf7074"
+      "text": "Chelsea Handler And Jo Koy Split After Already Recording 1-Year Anniversary Video",
+      "url": "https://www.huffpost.com/entry/chelsea-handler-jo-koy-split_n_62d6c27de4b0f6913034ec53"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/linda-evangelista-fendi_l_62d52517e4b0116f21bdbf24"
+      "url": "https://www.huffpost.com/entry/michael-baltimore-most-wanted-marshals_n_62d6cb77e4b008a2d03f29da"
     },
     {
-      "text": "Style & Beauty",
-      "url": "https://www.huffpost.com/life/style"
+      "text": "U.S. News",
+      "url": "https://www.huffpost.com/news/us-news"
     },
     {
-      "text": "Linda Evangelista Shows Off New Modeling Gig After She Was \u2018Brutally Disfigured\u2019",
-      "url": "https://www.huffpost.com/entry/linda-evangelista-fendi_l_62d52517e4b0116f21bdbf24"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/ronny-jackson-gun-video_n_62d4f01ae4b0f69130316972"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.huffpost.com/news/politics"
-    },
-    {
-      "text": "\u2018Unhinged\u2019: Right-Wing Lawmaker Ripped Over Gun-Toting \u2018Message\u2019 For Biden",
-      "url": "https://www.huffpost.com/entry/ronny-jackson-gun-video_n_62d4f01ae4b0f69130316972"
+      "text": "Michael Baltimore Of \u201990 Day Fianc\u00e9\u2032 Added To Most Wanted List For Murder",
+      "url": "https://www.huffpost.com/entry/michael-baltimore-most-wanted-marshals_n_62d6cb77e4b008a2d03f29da"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/zia-sheikh_l_62c6f422e4b0d74019809d4b"
+      "url": "https://www.huffpost.com/entry/emily-ratajkowski-has-reportedly-split-from-husband-sebastian-bear-mcclard_n_62d6edefe4b0116f21c14f8e"
     },
     {
-      "text": "Food & Drink",
-      "url": "https://www.huffpost.com/life/taste"
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
     },
     {
-      "text": "The Drug- And Alcohol-Fueled Lifestyle Of Chefs: How Does One Escape?",
-      "url": "https://www.huffpost.com/entry/zia-sheikh_l_62c6f422e4b0d74019809d4b"
+      "text": "Emily Ratajkowski Has Reportedly Split From Husband",
+      "url": "https://www.huffpost.com/entry/emily-ratajkowski-has-reportedly-split-from-husband-sebastian-bear-mcclard_n_62d6edefe4b0116f21c14f8e"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/arnold-schwarzenegger-farted-face-miriam-margolyes_n_62d6797ae4b092a3f6c07d39"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
+    },
+    {
+      "text": "Co-Star Accuses Arnold Schwarzenegger Of Disgusting Act And Hasn\u2019t Forgiven Him",
+      "url": "https://www.huffpost.com/entry/arnold-schwarzenegger-farted-face-miriam-margolyes_n_62d6797ae4b092a3f6c07d39"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/how-to-make-air-travel-more-bearable-now_l_62cf3683e4b0e6251b38668f"
+    },
+    {
+      "text": "Travel",
+      "url": "https://www.huffpost.com/life/travel"
+    },
+    {
+      "text": "Flying Is A Nightmare Right Now. These 12 Tips Can Help Make It Easier.",
+      "url": "https://www.huffpost.com/entry/how-to-make-air-travel-more-bearable-now_l_62cf3683e4b0e6251b38668f"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/happy-couples-household-chores_l_62cf0068e4b0e6251b3819cf"
+    },
+    {
+      "text": "Relationships",
+      "url": "https://www.huffpost.com/life/relationships"
+    },
+    {
+      "text": "How The Happiest Couples Split Up Household Chores",
+      "url": "https://www.huffpost.com/entry/happy-couples-household-chores_l_62cf0068e4b0e6251b3819cf"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/earwax-dry-skin-genetics_l_62d05e89e4b0eef119c39cc1"
+    },
+    {
+      "text": "Wellness",
+      "url": "https://www.huffpost.com/life/healthy-living"
+    },
+    {
+      "text": "So That\u2019s Why Some People Have More Earwax Than Others",
+      "url": "https://www.huffpost.com/entry/earwax-dry-skin-genetics_l_62d05e89e4b0eef119c39cc1"
     },
     {
       "text": "",
@@ -4084,51 +4234,35 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/happy-couples-household-chores_l_62cf0068e4b0e6251b3819cf"
+      "url": "https://www.huffpost.com/entry/air-conditioner-ac-unit-modern-minimal_l_62d16791e4b02d3ecf330681"
     },
     {
-      "text": "Relationships",
-      "url": "https://www.huffpost.com/life/relationships"
-    },
-    {
-      "text": "Here\u2019s How The Happiest Couples Split Up Household Chores",
-      "url": "https://www.huffpost.com/entry/happy-couples-household-chores_l_62cf0068e4b0e6251b3819cf"
+      "text": "5 AC Units That Aren\u2019t Total Eyesores",
+      "url": "https://www.huffpost.com/entry/air-conditioner-ac-unit-modern-minimal_l_62d16791e4b02d3ecf330681"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/children-groomer-fears-comprehensive-sex-ed_l_62cf1fdce4b0eef119c19e88"
+      "url": "https://www.huffpost.com/entry/best-lawn-mowers-reviews_l_62d0acd6e4b02d3ecf319fda"
     },
     {
-      "text": "Parenting",
-      "url": "https://www.huffpost.com/life/parents"
-    },
-    {
-      "text": "Worried About Grooming? Teaching Kids Comprehensive Sex Ed Could Help.",
-      "url": "https://www.huffpost.com/entry/children-groomer-fears-comprehensive-sex-ed_l_62cf1fdce4b0eef119c19e88"
+      "text": "Reviewer-Approved Lawn Mowers For A Variety of Yards",
+      "url": "https://www.huffpost.com/entry/best-lawn-mowers-reviews_l_62d0acd6e4b02d3ecf319fda"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/tushbaby-baby-hip-carrier_l_62cf1f0be4b02074ac91b3cf"
+      "url": "https://www.huffpost.com/entry/cool-beaded-jewelry_l_62d1bd2de4b0116f21bbaa1f"
     },
     {
-      "text": "The Ergonomic Baby Carrier That\u2019s Blowing Up On TikTok Is Pediatrician-Approved",
-      "url": "https://www.huffpost.com/entry/tushbaby-baby-hip-carrier_l_62cf1f0be4b02074ac91b3cf"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/best-home-decor-accent-pieces_l_62d0517ce4b09423278593b3"
-    },
-    {
-      "text": "Small Home Decor For An Instant Visual Boost",
-      "url": "https://www.huffpost.com/entry/best-home-decor-accent-pieces_l_62d0517ce4b09423278593b3"
+      "text": "This Elevated Beaded Jewelry Has Graduated From Summer Camp",
+      "url": "https://www.huffpost.com/entry/cool-beaded-jewelry_l_62d1bd2de4b0116f21bbaa1f"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/easy-gardening-products_l_62d08b70e4b0be7955b19b93"
+      "url": "https://www.huffpost.com/entry/34-things-youll-get-plenty-of-use-out-of_l_62c5f179e4b0359fa47689fb"
     },
     {
-      "text": "Flex Your Green Thumb With 25 Items That Make Gardening So Much Easier",
-      "url": "https://www.huffpost.com/entry/easy-gardening-products_l_62d08b70e4b0be7955b19b93"
+      "text": "29 Things You\u2019ll Get Plenty Of Use Out Of",
+      "url": "https://www.huffpost.com/entry/34-things-youll-get-plenty-of-use-out-of_l_62c5f179e4b0359fa47689fb"
     },
     {
       "text": "",
@@ -4139,96 +4273,80 @@
       "url": "https://www.huffpost.com/entry/nordstrom-anniversary-sale_l_62c4849ce4b00a9334ede791"
     },
     {
-      "text": "\n      \n         \n            \n               \n            \n            \n         \n      \n   ",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=ei9tgYEGIS_8XxiH7C8NiYBP1hiz4cHQYgt_4Ju6q2P0WgTn2mPyotg7v17wKWs3gIFE.z7Y9PHAKLNVAr2BHuZvzommz5heGmGsh0VhiibwYfzYHQl_ewGfNijFGnSGYher.do4o0pQFXK.6qx0EhR8HRrbCfxNnyb8djm6jPKa04rjTP3YO0n7KZGTUFHNHgIUYv2q2y8pyBlCVU78qTPIWBJnx80Gbk1oGGDdmOkLoGwsxYPzoE7X9vxIdIsK4ToLvm0a50ptRE5QDf4GNQ5EowIOnFGlpp7xlOovZ1GR16jz8QyuTOVRPP3cElgezxbYnoJPB3V8qLlaJ66fUiHlOwi58r96749t2qnFz7dGjN2lz_gGpCQu7tpg5J_VhVrHmVIr1ftHVeY5PBmvFx_kyscrjhtPGwpJvq9CycDHFo2xuORn91ERrEIRtC.6BoWA_R6H4mokQFdvkJ.jJto6uueyQsaCiMPOOFRS3QJLWRo2APDd.LeaWAU8xpuBKDAX_uKVgw1O9D_06c1EnbkrsCOxwl6t1W.G5Uu6Byr.ptiNaZKP06siiHO8QrAZBogqgmI_UVzVUYEhQ.qG38l7t73WbynhwK2Q1l3r9.rTN7jdoGzXAEYDGe86yVyNZbBEG3X0CCGzEMj6zIN7VDZI429ttjOZ98iUvTk.IKa4W..ZXUURo84Jz8pl.W4uUUvKsp4u08rHgq_q_ZoP8mHqac0kgRsWM3g5W1mXCjuRJ7iq3z7w0DaBtLlNI8937EZyn21sAPsWAPjQ0guwvXNhF0HCkM3i49Y-"
-    },
-    {
-      "text": "\n               16 Famous Logos With A Hidden Meaning\n            ",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=ei9tgYEGIS_8XxiH7C8NiYBP1hiz4cHQYgt_4Ju6q2P0WgTn2mPyotg7v17wKWs3gIFE.z7Y9PHAKLNVAr2BHuZvzommz5heGmGsh0VhiibwYfzYHQl_ewGfNijFGnSGYher.do4o0pQFXK.6qx0EhR8HRrbCfxNnyb8djm6jPKa04rjTP3YO0n7KZGTUFHNHgIUYv2q2y8pyBlCVU78qTPIWBJnx80Gbk1oGGDdmOkLoGwsxYPzoE7X9vxIdIsK4ToLvm0a50ptRE5QDf4GNQ5EowIOnFGlpp7xlOovZ1GR16jz8QyuTOVRPP3cElgezxbYnoJPB3V8qLlaJ66fUiHlOwi58r96749t2qnFz7dGjN2lz_gGpCQu7tpg5J_VhVrHmVIr1ftHVeY5PBmvFx_kyscrjhtPGwpJvq9CycDHFo2xuORn91ERrEIRtC.6BoWA_R6H4mokQFdvkJ.jJto6uueyQsaCiMPOOFRS3QJLWRo2APDd.LeaWAU8xpuBKDAX_uKVgw1O9D_06c1EnbkrsCOxwl6t1W.G5Uu6Byr.ptiNaZKP06siiHO8QrAZBogqgmI_UVzVUYEhQ.qG38l7t73WbynhwK2Q1l3r9.rTN7jdoGzXAEYDGe86yVyNZbBEG3X0CCGzEMj6zIN7VDZI429ttjOZ98iUvTk.IKa4W..ZXUURo84Jz8pl.W4uUUvKsp4u08rHgq_q_ZoP8mHqac0kgRsWM3g5W1mXCjuRJ7iq3z7w0DaBtLlNI8937EZyn21sAPsWAPjQ0guwvXNhF0HCkM3i49Y-"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/cute-maternity-swimsuits_l_62d026c4e4b0c0bdba675c26"
-    },
-    {
-      "text": "The Cutest Maternity Swimwear For Moms-To-Be",
-      "url": "https://www.huffpost.com/entry/cute-maternity-swimsuits_l_62d026c4e4b0c0bdba675c26"
-    },
-    {
       "text": "GO TO PAGE",
       "url": "#"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/emilia-clarke-brain-aneurysm_n_62d56603e4b0116f21be689d"
+      "url": "https://www.huffpost.com/entry/helen-mirren-wrote-queen-elizabeth_n_62d6d788e4b0f6913035279f"
     },
     {
       "text": "Entertainment",
       "url": "https://www.huffpost.com/entertainment/entertainment"
     },
     {
-      "text": "Emilia Clarke Says \u2018Quite A Bit Missing\u2019 From Her Brain After Aneurysms",
-      "url": "https://www.huffpost.com/entry/emilia-clarke-brain-aneurysm_n_62d56603e4b0116f21be689d"
+      "text": "Helen Mirren Wrote To The Queen Before Acting Out \u2018Profoundly Painful\u2019 Part Of Her Life",
+      "url": "https://www.huffpost.com/entry/helen-mirren-wrote-queen-elizabeth_n_62d6d788e4b0f6913035279f"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/camilla-duchess-of-cornwall-75-birthday_n_62d5a0f8e4b0f6913032e42c"
+      "url": "https://www.huffpost.com/entry/bret-goldstein-parents-thor-cameo_n_62d6de34e4b092a3f6c1981a"
     },
     {
       "text": "Entertainment",
       "url": "https://www.huffpost.com/entertainment/entertainment"
     },
     {
-      "text": "Camilla, Duchess Of Cornwall, Rings In Her 75th Birthday With Brand New Portraits",
-      "url": "https://www.huffpost.com/entry/camilla-duchess-of-cornwall-75-birthday_n_62d5a0f8e4b0f6913032e42c"
+      "text": "Brett Goldstein Sent Parents To See \u2018Thor\u2019 Without Spoiling His Post-Credits Cameo",
+      "url": "https://www.huffpost.com/entry/bret-goldstein-parents-thor-cameo_n_62d6de34e4b092a3f6c1981a"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/sylvester-stallone-rocky-rights-irwin-winkler_n_62d56005e4b092a3f6bebd96"
+      "url": "https://www.huffpost.com/entry/chrissy-teigen-why-she-quit-drinking_n_62d6b9b5e4b0e6fc1a9bfcbf"
     },
     {
       "text": "Entertainment",
       "url": "https://www.huffpost.com/entertainment/entertainment"
     },
     {
-      "text": "Sylvester Stallone Pulls No Punches In Asking Producer For \u2018Rocky\u2019 Rights",
-      "url": "https://www.huffpost.com/entry/sylvester-stallone-rocky-rights-irwin-winkler_n_62d56005e4b092a3f6bebd96"
+      "text": "Chrissy Teigen Reveals Why She Quit Drinking As She Celebrates 1 Year Sober",
+      "url": "https://www.huffpost.com/entry/chrissy-teigen-why-she-quit-drinking_n_62d6b9b5e4b0e6fc1a9bfcbf"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/us-israel-policy-maryland-michigan-democratic-primaries_n_62d44d04e4b0f69130310b79"
+      "url": "https://www.huffpost.com/entry/brandee-evans-p-valley_n_62d5d834e4b008a2d03d4498"
     },
     {
-      "text": "Politics",
-      "url": "https://www.huffpost.com/news/politics"
+      "text": "Black Voices",
+      "url": "https://www.huffpost.com/voices/black-voices"
     },
     {
-      "text": "Israel Policy Doesn\u2019t Matter To Most Voters. It\u2019s Dominating Democratic Primaries Anyway.",
-      "url": "https://www.huffpost.com/entry/us-israel-policy-maryland-michigan-democratic-primaries_n_62d44d04e4b0f69130310b79"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/drew-barrymore-rain_n_62d511c5e4b008a2d03bb5ba"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://www.huffpost.com/entertainment/entertainment"
-    },
-    {
-      "text": "Drew Barrymore Goes Bonkers For Rain On Her Face In Video And Fans Lap It Up",
-      "url": "https://www.huffpost.com/entry/drew-barrymore-rain_n_62d511c5e4b008a2d03bb5ba"
+      "text": "Brandee Evans Is Strong As Hell. She Just Doesn\u2019t Want To Always Have To Be.",
+      "url": "https://www.huffpost.com/entry/brandee-evans-p-valley_n_62d5d834e4b008a2d03d4498"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/bc-us-wayward-dolphin_n_62d5ce1ae4b0116f21bf204f"
+      "url": "https://www.huffpost.com/entry/showcase-cinemas-heat-wave-promotion_n_62d6b80be4b092a3f6c1348f"
     },
     {
-      "text": "Environment",
-      "url": "https://www.huffpost.com/impact/green"
+      "text": "Weird News",
+      "url": "https://www.huffpost.com/section/weird-news"
     },
     {
-      "text": "Wayward Dolphin Caught On Video Doing Flips In Connecticut River",
-      "url": "https://www.huffpost.com/entry/bc-us-wayward-dolphin_n_62d5ce1ae4b0116f21bf204f"
+      "text": "British Cinema Chain Offers Redheads Free Tickets During Heat Wave",
+      "url": "https://www.huffpost.com/entry/showcase-cinemas-heat-wave-promotion_n_62d6b80be4b092a3f6c1348f"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/tom-cruise-salma-hayek-dinner_n_62d67f49e4b008a2d03e4880"
+    },
+    {
+      "text": "Celebrity",
+      "url": "https://www.huffpost.com/entertainment/celebrity"
+    },
+    {
+      "text": "Tom Cruise Grabs Dinner With Salma Hayek, Poses For Photos With Fans",
+      "url": "https://www.huffpost.com/entry/tom-cruise-salma-hayek-dinner_n_62d67f49e4b008a2d03e4880"
     },
     {
       "text": "Read HuffPost Personal.",
@@ -4236,11 +4354,235 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/wearing-a-bikini-in-your-50s_n_62d47abde4b0e6fc1a98521d"
+      "url": "https://www.huffpost.com/entry/house-democrats-bolsonaro-brazil_n_62d49013e4b0f69130312f1d"
     },
     {
-      "text": "HuffPost Personal",
-      "url": "https://www.huffpost.com/section/huffpost-personal"
+      "text": "Politics",
+      "url": "https://www.huffpost.com/news/politics"
+    },
+    {
+      "text": "House Dems Ask Biden To Pressure Bolsonaro Over Killings Of Dom Phillips And Bruno Pereira",
+      "url": "https://www.huffpost.com/entry/house-democrats-bolsonaro-brazil_n_62d49013e4b0f69130312f1d"
+    },
+    {
+      "text": "Travis Waldron",
+      "url": "https://www.huffpost.com/author/travis-waldron"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/ken-jennings-circumcised-painful_n_62d6b667e4b008a2d03eea5e"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
+    },
+    {
+      "text": "Ken Jennings Makes Circumcision Joke On \u2018Jeopardy!\u2019 And Fans Say It\u2019s A Cut Above",
+      "url": "https://www.huffpost.com/entry/ken-jennings-circumcised-painful_n_62d6b667e4b008a2d03eea5e"
+    },
+    {
+      "text": "Ron Dicker",
+      "url": "https://www.huffpost.com/author/ron-dicker"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/ideological-battles-are-fading-from-democratic-primaries_n_62d5faf3e4b008a2d03d5907"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.huffpost.com/news/politics"
+    },
+    {
+      "text": "Ideological Battles Are Fading From Democratic Primaries",
+      "url": "https://www.huffpost.com/entry/ideological-battles-are-fading-from-democratic-primaries_n_62d5faf3e4b008a2d03d5907"
+    },
+    {
+      "text": "Kevin Robillard",
+      "url": "https://www.huffpost.com/author/kevin-robillard"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/house-to-vote-on-same-sex-marriage-push-back-against-court_n_62d680f4e4b008a2d03e4fee"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.huffpost.com/news/politics"
+    },
+    {
+      "text": "House To Vote On Same-Sex Marriage, Push Back Against Supreme Court",
+      "url": "https://www.huffpost.com/entry/house-to-vote-on-same-sex-marriage-push-back-against-court_n_62d680f4e4b008a2d03e4fee"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/steven-spielberg-on-marcus-mumford-music-video_n_62d692c3e4b0e6fc1a9b83c0"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
+    },
+    {
+      "text": "Steven Spielberg Just Directed His First Music Video \u2014 On A Phone",
+      "url": "https://www.huffpost.com/entry/steven-spielberg-on-marcus-mumford-music-video_n_62d692c3e4b0e6fc1a9b83c0"
+    },
+    {
+      "text": "Marco Margaritoff",
+      "url": "https://www.huffpost.com/author/marco-margaritoff"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/gop-ukraine-aid_n_62d5cc17e4b0f69130331d50"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.huffpost.com/news/politics"
+    },
+    {
+      "text": "Republicans Begin To Sour On Aid To Ukraine",
+      "url": "https://www.huffpost.com/entry/gop-ukraine-aid_n_62d5cc17e4b0f69130331d50"
+    },
+    {
+      "text": "Jonathan Nicholson",
+      "url": "https://www.huffpost.com/author/jonathan-nicholson"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/late-show-stephen-colbert-no-charges-capitol_n_62d66791e4b0116f21bfdafa"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
+    },
+    {
+      "text": "\u2018Late Show With Stephen Colbert\u2019 Crew Won\u2019t Be Charged After Capitol Arrests",
+      "url": "https://www.huffpost.com/entry/late-show-stephen-colbert-no-charges-capitol_n_62d66791e4b0116f21bfdafa"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/stephen-colbert-donald-trump_n_62d66d58e4b008a2d03e0863"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
+    },
+    {
+      "text": "Stephen Colbert Renames Mobster Movie For Trump After Alleged Witness Tampering",
+      "url": "https://www.huffpost.com/entry/stephen-colbert-donald-trump_n_62d66d58e4b008a2d03e0863"
+    },
+    {
+      "text": "Ron Dicker",
+      "url": "https://www.huffpost.com/author/ron-dicker"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/karen-firestone-cnbc_n_62d69012e4b0ed8ba493cdca"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
+    },
+    {
+      "text": "Man In Underwear Interrupts CNBC Stock Segment Because... Live TV",
+      "url": "https://www.huffpost.com/entry/karen-firestone-cnbc_n_62d69012e4b0ed8ba493cdca"
+    },
+    {
+      "text": "Ron Dicker",
+      "url": "https://www.huffpost.com/author/ron-dicker"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/breaking-bad-bronze-statues_n_62d6a2fce4b0ed8ba493ffaf"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.huffpost.com/entertainment/entertainment"
+    },
+    {
+      "text": "Albuquerque To Unveil Statues Of Walter White And Jesse Pinkman From \u2018Breaking Bad\u2019",
+      "url": "https://www.huffpost.com/entry/breaking-bad-bronze-statues_n_62d6a2fce4b0ed8ba493ffaf"
+    },
+    {
+      "text": "Marco Margaritoff",
+      "url": "https://www.huffpost.com/author/marco-margaritoff"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/climate-change-biden-executive-action_n_62d5fc23e4b0e6fc1a9a6549"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.huffpost.com/news/politics"
+    },
+    {
+      "text": "Democrats Want Biden To Go \u2018Beast Mode\u2019 And Fight Climate Change Via Executive Action",
+      "url": "https://www.huffpost.com/entry/climate-change-biden-executive-action_n_62d5fc23e4b0e6fc1a9a6549"
+    },
+    {
+      "text": "Igor Bobic",
+      "url": "https://www.huffpost.com/author/igor-bobic"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/blake-masters-best-man-arizona-gop-senate-race_n_62d5e23de4b0116f21bf2eeb"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.huffpost.com/news/politics"
+    },
+    {
+      "text": "Trump-Backed Senate Candidate Scorched By Friend Who Served As His Best Man",
+      "url": "https://www.huffpost.com/entry/blake-masters-best-man-arizona-gop-senate-race_n_62d5e23de4b0116f21bf2eeb"
+    },
+    {
+      "text": "Josephine Harvey",
+      "url": "https://www.huffpost.com/author/josie-harvey"
+    },
+    {
+      "text": "",
+      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
+    },
+    {
+      "text": "Dog Leads Rescue Team To Owner Who Fell 70 Feet From RidgeHuffPost ",
+      "url": "https://www.huffpost.com/entry/dog-saves-owner-70-foot-fall_n_62d6f13ce4b03dbb99116063"
+    },
+    {
+      "text": "Abortion Is On The Ballot In This Critical Arizona Prosecutor RaceHuffPost ",
+      "url": "https://www.huffpost.com/entry/maricopa-county-attorney-abortion-julie-gunnigle_n_62d701f5e4b081f3a8f8137b"
+    },
+    {
+      "text": "Carl Nassib Reflects On Coming Out 1 Year Later: 'I Hope I Can Be A Positive Push'HuffPost ",
+      "url": "https://www.huffpost.com/entry/carl-nassib-good-morning-america-interview_n_62d6e36ae4b008a2d03f5e6e"
+    },
+    {
+      "text": "Man Fatally Shot In Brooklyn While Reserving Parking Spots For 'Law & Order' FilmingHuffPost ",
+      "url": "https://www.huffpost.com/entry/man-shot-brooklyn-law-order_n_62d6ffcae4b03dbb991177dd"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/famous-ex-boyfriend-actor_n_619a73cee4b0ae9a42a247fd"
+    },
+    {
+      "text": "A Guy I Once Dated Is Now Famous, And It\u2019s As Weird As You\u2019d Imagine",
+      "url": "https://www.huffpost.com/entry/famous-ex-boyfriend-actor_n_619a73cee4b0ae9a42a247fd"
+    },
+    {
+      "text": "Jennifer FurnerGuest Writer",
+      "url": "https://www.huffpost.com/author/jennifer-furner"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/unicorn-single-female-swinger-sex-life_n_5c339c6de4b01b7197a2d4d0"
+    },
+    {
+      "text": "I Was A \u2018Unicorn,\u2019 A Single Female Swinger, But My Sex Life Was Far From Magical",
+      "url": "https://www.huffpost.com/entry/unicorn-single-female-swinger-sex-life_n_5c339c6de4b01b7197a2d4d0"
+    },
+    {
+      "text": "Ajah HalesGuest Writer",
+      "url": "https://www.huffpost.com/author/ajah-hales"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/wearing-a-bikini-in-your-50s_n_62d47abde4b0e6fc1a98521d"
     },
     {
       "text": "I\u2019m In My 50s. Here\u2019s Why I Refuse To Stop Rocking A Bikini.",
@@ -4249,330 +4591,6 @@
     {
       "text": "Leslie Rasmussen",
       "url": "https://www.huffpost.com/author/lesl4-972"
-    },
-    {
-      "text": "\n      \n         \n            \n               \n            \n            \n         \n      \n   ",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=0j.mDGYGIS_5Tq5X52XllOfmrLEOudSdLehtBqYe6aYnridZYQolwTdqWcu.3CGlUlHIoHHBTQOJTdXCvhpDXUDywNIXRKhqfBwX.f9oiYF.xLP5BqzybNKovHb_TF7NTGddp3l3.dlK98sQhk2EelyYDsjxt4dKQTL_7zD6IukJwDsdsxX9EajEcPjat_1wxtXBsR3VClhuwsAss1k2OgaF7QVjm8vLHoM_uEFN5FQsKEPQpQkx80UgZRKeEG6iWxk_NKaUD5UfAHb56TsAcST4coZBxPmM8qQGAK7PW2nSZdCKAwWqv6aas_EOobI.mm1r.GeZitZxGQIAXWpTEvcyUZYnk8Ld7NWDRvteTNRI9Pv4GT7uj.eOv4xAU4Wg1CPQNIIHHYkIy6qtrQ2WpJwUonpc6SkoL_2K6nL4a4Oe5rl.kCOYMmis9JHxN8obw1S3KXTyqbbcV5e.sjd23EcvCnimH.8t0GDKG8NoYb4Of0pGyGkdagFmUXD1cc4u1eroosDejM_vOxAy_kc2ykXIusCnDc3YbtBlW9UBW4TAds9NRFTduWrFncIHbI6TUwmOD2kjvwdof7GI7eJy3tcXXGWR.jfY3SNx6TmbNHZhEXng8Nb6kti6x0v.Isd3VPjPKBEZrMoWVgIzoc9A1O81eC9dwRJ6CsRQRZuPvwmBOvIYTpZLVxir5UsgYzg55iw5zQdO.ieyrUyCsCFc9QmM8qAOCTVE_B_J0y98OilNJBco.8YxpWtgL917bb6arOzjQcZaIB.niOJ52Y3WVyPiQDrHTBmBWVWhDN3PZeCiYI4NMu9fMebv5RZzOJzIKXwD65L0GmvbeF_jUTieD8dfyZ.6kHEvuXswEuBEj3WfEgHzH3lMYr5NHD2N_8qrCnyY3gQ1coDHdqbFsGwhGvo7kq1v8Tj2qO.jnK48LH6cCQaMZdFb3oIK3Z3UjIsQ08kvHmJDZiiuet..lMwMmjojblXM1zaRyU58l47R"
-    },
-    {
-      "text": "\n            Stay at JW Marriott Hotel Santo Domingo\n         ",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=0j.mDGYGIS_5Tq5X52XllOfmrLEOudSdLehtBqYe6aYnridZYQolwTdqWcu.3CGlUlHIoHHBTQOJTdXCvhpDXUDywNIXRKhqfBwX.f9oiYF.xLP5BqzybNKovHb_TF7NTGddp3l3.dlK98sQhk2EelyYDsjxt4dKQTL_7zD6IukJwDsdsxX9EajEcPjat_1wxtXBsR3VClhuwsAss1k2OgaF7QVjm8vLHoM_uEFN5FQsKEPQpQkx80UgZRKeEG6iWxk_NKaUD5UfAHb56TsAcST4coZBxPmM8qQGAK7PW2nSZdCKAwWqv6aas_EOobI.mm1r.GeZitZxGQIAXWpTEvcyUZYnk8Ld7NWDRvteTNRI9Pv4GT7uj.eOv4xAU4Wg1CPQNIIHHYkIy6qtrQ2WpJwUonpc6SkoL_2K6nL4a4Oe5rl.kCOYMmis9JHxN8obw1S3KXTyqbbcV5e.sjd23EcvCnimH.8t0GDKG8NoYb4Of0pGyGkdagFmUXD1cc4u1eroosDejM_vOxAy_kc2ykXIusCnDc3YbtBlW9UBW4TAds9NRFTduWrFncIHbI6TUwmOD2kjvwdof7GI7eJy3tcXXGWR.jfY3SNx6TmbNHZhEXng8Nb6kti6x0v.Isd3VPjPKBEZrMoWVgIzoc9A1O81eC9dwRJ6CsRQRZuPvwmBOvIYTpZLVxir5UsgYzg55iw5zQdO.ieyrUyCsCFc9QmM8qAOCTVE_B_J0y98OilNJBco.8YxpWtgL917bb6arOzjQcZaIB.niOJ52Y3WVyPiQDrHTBmBWVWhDN3PZeCiYI4NMu9fMebv5RZzOJzIKXwD65L0GmvbeF_jUTieD8dfyZ.6kHEvuXswEuBEj3WfEgHzH3lMYr5NHD2N_8qrCnyY3gQ1coDHdqbFsGwhGvo7kq1v8Tj2qO.jnK48LH6cCQaMZdFb3oIK3Z3UjIsQ08kvHmJDZiiuet..lMwMmjojblXM1zaRyU58l47R"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/anthony-fauci-retirement-white-house-biden-niaid_n_62d56fb2e4b0f6913032800a"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.huffpost.com/news/politics"
-    },
-    {
-      "text": "Anthony Fauci Reveals Plans To Retire At End Of Biden\u2019s Term",
-      "url": "https://www.huffpost.com/entry/anthony-fauci-retirement-white-house-biden-niaid_n_62d56fb2e4b0f6913032800a"
-    },
-    {
-      "text": "Nina Golgowski",
-      "url": "https://www.huffpost.com/author/nina-golgowski"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/rhoyle-ivy-king-all-american-homecoming_n_62c3613ae4b0ffe00a157fc1"
-    },
-    {
-      "text": "Culture & Arts",
-      "url": "https://www.huffpost.com/entertainment/arts"
-    },
-    {
-      "text": "Rhoyle Ivy King Is Portraying The Character He Needed Growing Up",
-      "url": "https://www.huffpost.com/entry/rhoyle-ivy-king-all-american-homecoming_n_62c3613ae4b0ffe00a157fc1"
-    },
-    {
-      "text": "Christopher A. Daniel",
-      "url": "https://www.huffpost.com/author/christopher-daniel"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/chris-evans-laser-focused-partner_n_62d58effe4b0116f21bebdde"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://www.huffpost.com/entertainment/entertainment"
-    },
-    {
-      "text": "Look Alive, Because Chris Evans Is \u2018Laser-Focused\u2019 On Finding His Life Partner",
-      "url": "https://www.huffpost.com/entry/chris-evans-laser-focused-partner_n_62d58effe4b0116f21bebdde"
-    },
-    {
-      "text": "Cole Delbyck",
-      "url": "https://www.huffpost.com/author/cole-delbyck"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/bernie-sanders-joe-manchin-sabotage_n_62d4dc15e4b0ed8ba490d251"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.huffpost.com/news/politics"
-    },
-    {
-      "text": "Bernie Sanders: Joe Manchin Has \u2018Sabotaged\u2019 President\u2019s Agenda",
-      "url": "https://www.huffpost.com/entry/bernie-sanders-joe-manchin-sabotage_n_62d4dc15e4b0ed8ba490d251"
-    },
-    {
-      "text": "Nick Visser",
-      "url": "https://www.huffpost.com/author/nick-visser"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/bend-it-like-beckham-south-asian-representation_n_62c86a0be4b06e3d9bb50101"
-    },
-    {
-      "text": "Culture & Arts",
-      "url": "https://www.huffpost.com/entertainment/arts"
-    },
-    {
-      "text": "How \u2018Bend It Like Beckham\u2019 Was A Watershed Moment For South Asians",
-      "url": "https://www.huffpost.com/entry/bend-it-like-beckham-south-asian-representation_n_62c86a0be4b06e3d9bb50101"
-    },
-    {
-      "text": "Bedatri D. Choudhury",
-      "url": "https://www.huffpost.com/author/bedatri-d-choudhury"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/scott-gottlieb-monkeypox_n_62d4d7b4e4b0f691303159eb"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.huffpost.com/news/politics"
-    },
-    {
-      "text": "U.S. Has Probably \u2018Failed To Contain\u2019 Monkeypox, Says Former FDA Commissioner",
-      "url": "https://www.huffpost.com/entry/scott-gottlieb-monkeypox_n_62d4d7b4e4b0f691303159eb"
-    },
-    {
-      "text": "Nick Visser",
-      "url": "https://www.huffpost.com/author/nick-visser"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/resident-evil-popular-netflix-shows_l_62d4ccdbe4b008a2d03b6d48"
-    },
-    {
-      "text": "Home & Living",
-      "url": "https://www.huffpost.com/life/huffpost-home"
-    },
-    {
-      "text": "This New Horror Adaptation Is The Top Show On Netflix Right Now",
-      "url": "https://www.huffpost.com/entry/resident-evil-popular-netflix-shows_l_62d4ccdbe4b008a2d03b6d48"
-    },
-    {
-      "text": "Caroline Bologna",
-      "url": "https://www.huffpost.com/author/caroline-bologna"
-    },
-    {
-      "text": "\n      \n         \n            \n               \n            \n            \n         \n      \n   ",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=wVyd58QGIS8wjukGznQBUBg6Zq._K9TY6.KQzqdK0S70JAUDa1vUtqBtZC1xAwFW2HkqhwjYAnUKnuT3IX06SCaOtQm9P4eocX8.ynIgXdlET.q_Tibt1pgitjbPwb7tB7ZCPzOQqmDj4Ff.WBaU8aJqO99AIdnP7wCEwNjvu0t_IpUzMc7y5M.v4zC5b1WshemKiOv4fklZu2HPQ86TjQDOr5LhItoFeeIjOug368Ger2rzjRTpzGtbacjHeUv.trQV2j_AtGhXPxSKgEQv0x11fPb10.2e.PAp5fPUHdM_PFC4O1TbSFrNfWWlQkOosU9fjhlNXVABIZ9keG62887VVog_DKoxXYghu2Xu8LQoFG4hl095xOvWy0n4BgroLta1NGbyHse.jf0y3NfV0NJCApiPfXL20pDzxr06fAl0Ip4JHmdlLb14nPsk3qk8bjV9saupmvKnaEw3D3dPr6ScrXFSq58Q7Q9Ef574dP7FNdlidXCyJFvyVbZzEgpqcRSuN7ev5Py2LPFoTtYzVeP0xyu1xAneoYD8TL7Y9d1qsbrOFJvcuCiMXI.vLrW.cgjK7FqEcCxE9wz9A5bkKqbzEOtDgm2avtsGwyk7HAKkX47F2GnaDtLmWFUx0SCIXFHAHYW5sCeO5yzBbdImDmueCJXaAQMxYDVTvHQ_rF8azwRnHBbnUSasbWTm7x8i4liptSCPrs4WDKE6DxQqKbjzN_W.9rb9gQ6R6ROszIM75AzP92P.80HFx.lSm8c-"
-    },
-    {
-      "text": "\n            The Most Successful American Idols, Ranked\n         ",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=wVyd58QGIS8wjukGznQBUBg6Zq._K9TY6.KQzqdK0S70JAUDa1vUtqBtZC1xAwFW2HkqhwjYAnUKnuT3IX06SCaOtQm9P4eocX8.ynIgXdlET.q_Tibt1pgitjbPwb7tB7ZCPzOQqmDj4Ff.WBaU8aJqO99AIdnP7wCEwNjvu0t_IpUzMc7y5M.v4zC5b1WshemKiOv4fklZu2HPQ86TjQDOr5LhItoFeeIjOug368Ger2rzjRTpzGtbacjHeUv.trQV2j_AtGhXPxSKgEQv0x11fPb10.2e.PAp5fPUHdM_PFC4O1TbSFrNfWWlQkOosU9fjhlNXVABIZ9keG62887VVog_DKoxXYghu2Xu8LQoFG4hl095xOvWy0n4BgroLta1NGbyHse.jf0y3NfV0NJCApiPfXL20pDzxr06fAl0Ip4JHmdlLb14nPsk3qk8bjV9saupmvKnaEw3D3dPr6ScrXFSq58Q7Q9Ef574dP7FNdlidXCyJFvyVbZzEgpqcRSuN7ev5Py2LPFoTtYzVeP0xyu1xAneoYD8TL7Y9d1qsbrOFJvcuCiMXI.vLrW.cgjK7FqEcCxE9wz9A5bkKqbzEOtDgm2avtsGwyk7HAKkX47F2GnaDtLmWFUx0SCIXFHAHYW5sCeO5yzBbdImDmueCJXaAQMxYDVTvHQ_rF8azwRnHBbnUSasbWTm7x8i4liptSCPrs4WDKE6DxQqKbjzN_W.9rb9gQ6R6ROszIM75AzP92P.80HFx.lSm8c-"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/noah-schnapp-doja-cat-beef_n_62d4ce1ae4b092a3f6bdb273"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://www.huffpost.com/entertainment/entertainment"
-    },
-    {
-      "text": "Noah Schnapp Addresses Doja Cat Beef Over Screenshot Of DMs",
-      "url": "https://www.huffpost.com/entry/noah-schnapp-doja-cat-beef_n_62d4ce1ae4b092a3f6bdb273"
-    },
-    {
-      "text": "Josephine Harvey",
-      "url": "https://www.huffpost.com/author/josie-harvey"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/bc-us-odd-sock-warranty-lawsuit_n_62d5cdfde4b0ed8ba492975f"
-    },
-    {
-      "text": "Weird News",
-      "url": "https://www.huffpost.com/section/weird-news"
-    },
-    {
-      "text": "Lawsuit Says Bass Pro Won\u2019t Honor Lifetime Warranty On Socks",
-      "url": "https://www.huffpost.com/entry/bc-us-odd-sock-warranty-lawsuit_n_62d5cdfde4b0ed8ba492975f"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/jennifer-lopez-ben-affleck-wedding-details_n_62d498ade4b0f691303130f5"
-    },
-    {
-      "text": "Entertainment",
-      "url": "https://www.huffpost.com/entertainment/entertainment"
-    },
-    {
-      "text": "Jennifer Lopez Spills Details On Wedding To Ben Affleck: \u2018Twenty Years Patient\u2019",
-      "url": "https://www.huffpost.com/entry/jennifer-lopez-ben-affleck-wedding-details_n_62d498ade4b0f691303130f5"
-    },
-    {
-      "text": "Josephine Harvey",
-      "url": "https://www.huffpost.com/author/josie-harvey"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/shelly-ann-fraser-pryce-100-meters-world-championships_n_62d51eace4b008a2d03bd112"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.huffpost.com/section/sports"
-    },
-    {
-      "text": "Watch A 35-Year-Old Mom Become The World\u2019s Fastest Woman \u2015 Again",
-      "url": "https://www.huffpost.com/entry/shelly-ann-fraser-pryce-100-meters-world-championships_n_62d51eace4b008a2d03bd112"
-    },
-    {
-      "text": "",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "Here's How Finger Length Correlates IntelligenceHealthdish Online  | Sponsored\n    \n      \n    \n  ",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=C.koN.QGIS8XIdM6znBW3rGYoSTu57r4m2xrNLMWqYJaClBnHgqDnVZTT1Ln.pZGcGQe8tXI82F94_bwXr4AOA6NDu6eTwtbqV5dJoiEDtu0WADtHkbof0S6vgiOGKOr3mbnKX0Mn5NBH0xnEzmHk.rlLOM7_ILOEpQxgIZtcu0FW8I8BCT0VR4l6aSTRMYhJWPzixckUlBzMOD2BfSXBzwS42sqpon4UPtjIsTCdxcHIg_isDsAy_b6TyOnUWNkAbEwrK15N0UC0DZgvFWpRJjAqmEthBgzOhFOfMarRF7QKrVjW47IgSXodTpVowVsVFxajOdzaNtEjerd0wMIwLMczztv1rSgzwqqSHZjG1voTcpJEwPve06L.xb0QxtliIzDm734GksVY41L2gEbYM8I.mI3kZTfx78md23cYIhYN5_.KEOm8mxqaQ.brVKQv2Ld6EDbeEy1LeQkHIQmdT5ljAkpIT3A.hHLgK8J_B7RiH65LiYPlvjgEHORx9uKQ5vlNE3zYSqVxK459.xRnQnQtF8zCKzbDlnyvbRyut15d.4C1GpmBNRT0CaiSy.5jgHv4KO1UenbKSmvJlv4ubsW8b2p5thj5Hj9ljTOkV0Vj0bJM2cqYZyvqP.6eP_k4CWQPlAy19g904squqzQHi.nDcLkfW3WSgD0G3HkzZFKCCpco1i9Oly0bRyCtxr5pX2.vrxoZ60Q1G5kzIAab8BxTpIKUlghs7z7Umn9tLXFXkGuduY7bh7kqNKzpLPOZ6IwXOGfRndsxyV3Hewe8H_M38XO_9KirlX4ueEsEYQKWWHvmlBHtyj2c0XHfTgSd0pikZ94pai2yaOYhI54t9.A4pv."
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=C.koN.QGIS8XIdM6znBW3rGYoSTu57r4m2xrNLMWqYJaClBnHgqDnVZTT1Ln.pZGcGQe8tXI82F94_bwXr4AOA6NDu6eTwtbqV5dJoiEDtu0WADtHkbof0S6vgiOGKOr3mbnKX0Mn5NBH0xnEzmHk.rlLOM7_ILOEpQxgIZtcu0FW8I8BCT0VR4l6aSTRMYhJWPzixckUlBzMOD2BfSXBzwS42sqpon4UPtjIsTCdxcHIg_isDsAy_b6TyOnUWNkAbEwrK15N0UC0DZgvFWpRJjAqmEthBgzOhFOfMarRF7QKrVjW47IgSXodTpVowVsVFxajOdzaNtEjerd0wMIwLMczztv1rSgzwqqSHZjG1voTcpJEwPve06L.xb0QxtliIzDm734GksVY41L2gEbYM8I.mI3kZTfx78md23cYIhYN5_.KEOm8mxqaQ.brVKQv2Ld6EDbeEy1LeQkHIQmdT5ljAkpIT3A.hHLgK8J_B7RiH65LiYPlvjgEHORx9uKQ5vlNE3zYSqVxK459.xRnQnQtF8zCKzbDlnyvbRyut15d.4C1GpmBNRT0CaiSy.5jgHv4KO1UenbKSmvJlv4ubsW8b2p5thj5Hj9ljTOkV0Vj0bJM2cqYZyvqP.6eP_k4CWQPlAy19g904squqzQHi.nDcLkfW3WSgD0G3HkzZFKCCpco1i9Oly0bRyCtxr5pX2.vrxoZ60Q1G5kzIAab8BxTpIKUlghs7z7Umn9tLXFXkGuduY7bh7kqNKzpLPOZ6IwXOGfRndsxyV3Hewe8H_M38XO_9KirlX4ueEsEYQKWWHvmlBHtyj2c0XHfTgSd0pikZ94pai2yaOYhI54t9.A4pv."
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=C.koN.QGIS8XIdM6znBW3rGYoSTu57r4m2xrNLMWqYJaClBnHgqDnVZTT1Ln.pZGcGQe8tXI82F94_bwXr4AOA6NDu6eTwtbqV5dJoiEDtu0WADtHkbof0S6vgiOGKOr3mbnKX0Mn5NBH0xnEzmHk.rlLOM7_ILOEpQxgIZtcu0FW8I8BCT0VR4l6aSTRMYhJWPzixckUlBzMOD2BfSXBzwS42sqpon4UPtjIsTCdxcHIg_isDsAy_b6TyOnUWNkAbEwrK15N0UC0DZgvFWpRJjAqmEthBgzOhFOfMarRF7QKrVjW47IgSXodTpVowVsVFxajOdzaNtEjerd0wMIwLMczztv1rSgzwqqSHZjG1voTcpJEwPve06L.xb0QxtliIzDm734GksVY41L2gEbYM8I.mI3kZTfx78md23cYIhYN5_.KEOm8mxqaQ.brVKQv2Ld6EDbeEy1LeQkHIQmdT5ljAkpIT3A.hHLgK8J_B7RiH65LiYPlvjgEHORx9uKQ5vlNE3zYSqVxK459.xRnQnQtF8zCKzbDlnyvbRyut15d.4C1GpmBNRT0CaiSy.5jgHv4KO1UenbKSmvJlv4ubsW8b2p5thj5Hj9ljTOkV0Vj0bJM2cqYZyvqP.6eP_k4CWQPlAy19g904squqzQHi.nDcLkfW3WSgD0G3HkzZFKCCpco1i9Oly0bRyCtxr5pX2.vrxoZ60Q1G5kzIAab8BxTpIKUlghs7z7Umn9tLXFXkGuduY7bh7kqNKzpLPOZ6IwXOGfRndsxyV3Hewe8H_M38XO_9KirlX4ueEsEYQKWWHvmlBHtyj2c0XHfTgSd0pikZ94pai2yaOYhI54t9.A4pv."
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=C.koN.QGIS8XIdM6znBW3rGYoSTu57r4m2xrNLMWqYJaClBnHgqDnVZTT1Ln.pZGcGQe8tXI82F94_bwXr4AOA6NDu6eTwtbqV5dJoiEDtu0WADtHkbof0S6vgiOGKOr3mbnKX0Mn5NBH0xnEzmHk.rlLOM7_ILOEpQxgIZtcu0FW8I8BCT0VR4l6aSTRMYhJWPzixckUlBzMOD2BfSXBzwS42sqpon4UPtjIsTCdxcHIg_isDsAy_b6TyOnUWNkAbEwrK15N0UC0DZgvFWpRJjAqmEthBgzOhFOfMarRF7QKrVjW47IgSXodTpVowVsVFxajOdzaNtEjerd0wMIwLMczztv1rSgzwqqSHZjG1voTcpJEwPve06L.xb0QxtliIzDm734GksVY41L2gEbYM8I.mI3kZTfx78md23cYIhYN5_.KEOm8mxqaQ.brVKQv2Ld6EDbeEy1LeQkHIQmdT5ljAkpIT3A.hHLgK8J_B7RiH65LiYPlvjgEHORx9uKQ5vlNE3zYSqVxK459.xRnQnQtF8zCKzbDlnyvbRyut15d.4C1GpmBNRT0CaiSy.5jgHv4KO1UenbKSmvJlv4ubsW8b2p5thj5Hj9ljTOkV0Vj0bJM2cqYZyvqP.6eP_k4CWQPlAy19g904squqzQHi.nDcLkfW3WSgD0G3HkzZFKCCpco1i9Oly0bRyCtxr5pX2.vrxoZ60Q1G5kzIAab8BxTpIKUlghs7z7Umn9tLXFXkGuduY7bh7kqNKzpLPOZ6IwXOGfRndsxyV3Hewe8H_M38XO_9KirlX4ueEsEYQKWWHvmlBHtyj2c0XHfTgSd0pikZ94pai2yaOYhI54t9.A4pv."
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=C.koN.QGIS8XIdM6znBW3rGYoSTu57r4m2xrNLMWqYJaClBnHgqDnVZTT1Ln.pZGcGQe8tXI82F94_bwXr4AOA6NDu6eTwtbqV5dJoiEDtu0WADtHkbof0S6vgiOGKOr3mbnKX0Mn5NBH0xnEzmHk.rlLOM7_ILOEpQxgIZtcu0FW8I8BCT0VR4l6aSTRMYhJWPzixckUlBzMOD2BfSXBzwS42sqpon4UPtjIsTCdxcHIg_isDsAy_b6TyOnUWNkAbEwrK15N0UC0DZgvFWpRJjAqmEthBgzOhFOfMarRF7QKrVjW47IgSXodTpVowVsVFxajOdzaNtEjerd0wMIwLMczztv1rSgzwqqSHZjG1voTcpJEwPve06L.xb0QxtliIzDm734GksVY41L2gEbYM8I.mI3kZTfx78md23cYIhYN5_.KEOm8mxqaQ.brVKQv2Ld6EDbeEy1LeQkHIQmdT5ljAkpIT3A.hHLgK8J_B7RiH65LiYPlvjgEHORx9uKQ5vlNE3zYSqVxK459.xRnQnQtF8zCKzbDlnyvbRyut15d.4C1GpmBNRT0CaiSy.5jgHv4KO1UenbKSmvJlv4ubsW8b2p5thj5Hj9ljTOkV0Vj0bJM2cqYZyvqP.6eP_k4CWQPlAy19g904squqzQHi.nDcLkfW3WSgD0G3HkzZFKCCpco1i9Oly0bRyCtxr5pX2.vrxoZ60Q1G5kzIAab8BxTpIKUlghs7z7Umn9tLXFXkGuduY7bh7kqNKzpLPOZ6IwXOGfRndsxyV3Hewe8H_M38XO_9KirlX4ueEsEYQKWWHvmlBHtyj2c0XHfTgSd0pikZ94pai2yaOYhI54t9.A4pv."
-    },
-    {
-      "text": "Why am I seeing this ad?",
-      "url": "https://legal.yahoo.com/sg/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "Advertise with us",
-      "url": "https://gemini.yahoo.com/advertiser/home?utm_source=ad-dot-com"
-    },
-    {
-      "text": "Stay at Residence Inn Orlando at SeaWorld\u00aeMarriott Bonvoy  | Sponsored\n    \n      \n    \n  ",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=JXXlzxsGIS80XSNb_NRzXkN9O5.IXxs4w6wLfPXgqOzHycGd.oxzRxkwGr5rxqpbP9Pik3ZEQr0THBBC0vZCTsSf4gXceZ86x3irnO5m4vaj.bs.6I4eQD4BLbBID__jr1S.0TsmOM2Wv0ga5jKZ24qBjCnyNXFJLcGZx3p1ZexdIG9prxQWO0Wlbl4_QVsjqMBhXdO.wELOLuFNlpF0TRow8b._5Y9ZLsUMtwwMIAzmS2zX5bBH5WJd6nV0jfZYnEOdfW5g8e94z8sls0WbrKH6xgPjoiYXpQamXjEJguZXztCwY6AI2BaLBhznFS7rUf0odYiJoinFT0Rkx.3ROSU6LhLkHXDX2mf1QmNZ6g8fV3xrgmXpgf2HDW2OLrmzgBU4M9qZXBe.5I18scWqdBy3SYAzqr4BZXAq4g3r77fAfKBzuNcfWPG8Vx82FmB5ZWqGJ4svy7pZJjJYlSP997MbTde92wsh7GiQ4d4xyk9v84Uu0vMhVw5QRvKmV.tmwRKQXP2ow3dTgOhonPNId0urGHF1.ZxxEiIbPG6Tu1FECYLqpop_0Fl1HnEXrwUHL2Jp8ydjPhJUVwGJGvIV68UxndsJL_LkmbWoVI8zoTTduq9_wHidU0e8Vh2G2jPtwbRpeov.9.uHsHf39zlAHt32hvTcbR2ElJHmojDlhg8GoO1feQphnF71512ktb9PeLzomE8fim4mKDusCKvWRkoMGzTLA5ISAoWHGvwoFR3vxqLVWItiVHcn0cCy8cKmqEq6RV9r8_9TwVP838wEn83YtmzvdOshIWxpah3pJAOrc6eOdhaMUR2aEzgBq8gdZcJ7j4RCpfYWxPSvdhGYXpaEtBYTuC4tWtXc5Hly6TjITAJwH69fIAH6I9YWZHlw.VJhfAmZZTAmBQiStOicIQMzlCVaR2eYntfGo9SZtKASSYh46UsQyF0GkABm2rqXIWAUZFl1fdqEHWOqPFRDR6N9PpSp_w--"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=JXXlzxsGIS80XSNb_NRzXkN9O5.IXxs4w6wLfPXgqOzHycGd.oxzRxkwGr5rxqpbP9Pik3ZEQr0THBBC0vZCTsSf4gXceZ86x3irnO5m4vaj.bs.6I4eQD4BLbBID__jr1S.0TsmOM2Wv0ga5jKZ24qBjCnyNXFJLcGZx3p1ZexdIG9prxQWO0Wlbl4_QVsjqMBhXdO.wELOLuFNlpF0TRow8b._5Y9ZLsUMtwwMIAzmS2zX5bBH5WJd6nV0jfZYnEOdfW5g8e94z8sls0WbrKH6xgPjoiYXpQamXjEJguZXztCwY6AI2BaLBhznFS7rUf0odYiJoinFT0Rkx.3ROSU6LhLkHXDX2mf1QmNZ6g8fV3xrgmXpgf2HDW2OLrmzgBU4M9qZXBe.5I18scWqdBy3SYAzqr4BZXAq4g3r77fAfKBzuNcfWPG8Vx82FmB5ZWqGJ4svy7pZJjJYlSP997MbTde92wsh7GiQ4d4xyk9v84Uu0vMhVw5QRvKmV.tmwRKQXP2ow3dTgOhonPNId0urGHF1.ZxxEiIbPG6Tu1FECYLqpop_0Fl1HnEXrwUHL2Jp8ydjPhJUVwGJGvIV68UxndsJL_LkmbWoVI8zoTTduq9_wHidU0e8Vh2G2jPtwbRpeov.9.uHsHf39zlAHt32hvTcbR2ElJHmojDlhg8GoO1feQphnF71512ktb9PeLzomE8fim4mKDusCKvWRkoMGzTLA5ISAoWHGvwoFR3vxqLVWItiVHcn0cCy8cKmqEq6RV9r8_9TwVP838wEn83YtmzvdOshIWxpah3pJAOrc6eOdhaMUR2aEzgBq8gdZcJ7j4RCpfYWxPSvdhGYXpaEtBYTuC4tWtXc5Hly6TjITAJwH69fIAH6I9YWZHlw.VJhfAmZZTAmBQiStOicIQMzlCVaR2eYntfGo9SZtKASSYh46UsQyF0GkABm2rqXIWAUZFl1fdqEHWOqPFRDR6N9PpSp_w--"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=JXXlzxsGIS80XSNb_NRzXkN9O5.IXxs4w6wLfPXgqOzHycGd.oxzRxkwGr5rxqpbP9Pik3ZEQr0THBBC0vZCTsSf4gXceZ86x3irnO5m4vaj.bs.6I4eQD4BLbBID__jr1S.0TsmOM2Wv0ga5jKZ24qBjCnyNXFJLcGZx3p1ZexdIG9prxQWO0Wlbl4_QVsjqMBhXdO.wELOLuFNlpF0TRow8b._5Y9ZLsUMtwwMIAzmS2zX5bBH5WJd6nV0jfZYnEOdfW5g8e94z8sls0WbrKH6xgPjoiYXpQamXjEJguZXztCwY6AI2BaLBhznFS7rUf0odYiJoinFT0Rkx.3ROSU6LhLkHXDX2mf1QmNZ6g8fV3xrgmXpgf2HDW2OLrmzgBU4M9qZXBe.5I18scWqdBy3SYAzqr4BZXAq4g3r77fAfKBzuNcfWPG8Vx82FmB5ZWqGJ4svy7pZJjJYlSP997MbTde92wsh7GiQ4d4xyk9v84Uu0vMhVw5QRvKmV.tmwRKQXP2ow3dTgOhonPNId0urGHF1.ZxxEiIbPG6Tu1FECYLqpop_0Fl1HnEXrwUHL2Jp8ydjPhJUVwGJGvIV68UxndsJL_LkmbWoVI8zoTTduq9_wHidU0e8Vh2G2jPtwbRpeov.9.uHsHf39zlAHt32hvTcbR2ElJHmojDlhg8GoO1feQphnF71512ktb9PeLzomE8fim4mKDusCKvWRkoMGzTLA5ISAoWHGvwoFR3vxqLVWItiVHcn0cCy8cKmqEq6RV9r8_9TwVP838wEn83YtmzvdOshIWxpah3pJAOrc6eOdhaMUR2aEzgBq8gdZcJ7j4RCpfYWxPSvdhGYXpaEtBYTuC4tWtXc5Hly6TjITAJwH69fIAH6I9YWZHlw.VJhfAmZZTAmBQiStOicIQMzlCVaR2eYntfGo9SZtKASSYh46UsQyF0GkABm2rqXIWAUZFl1fdqEHWOqPFRDR6N9PpSp_w--"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=JXXlzxsGIS80XSNb_NRzXkN9O5.IXxs4w6wLfPXgqOzHycGd.oxzRxkwGr5rxqpbP9Pik3ZEQr0THBBC0vZCTsSf4gXceZ86x3irnO5m4vaj.bs.6I4eQD4BLbBID__jr1S.0TsmOM2Wv0ga5jKZ24qBjCnyNXFJLcGZx3p1ZexdIG9prxQWO0Wlbl4_QVsjqMBhXdO.wELOLuFNlpF0TRow8b._5Y9ZLsUMtwwMIAzmS2zX5bBH5WJd6nV0jfZYnEOdfW5g8e94z8sls0WbrKH6xgPjoiYXpQamXjEJguZXztCwY6AI2BaLBhznFS7rUf0odYiJoinFT0Rkx.3ROSU6LhLkHXDX2mf1QmNZ6g8fV3xrgmXpgf2HDW2OLrmzgBU4M9qZXBe.5I18scWqdBy3SYAzqr4BZXAq4g3r77fAfKBzuNcfWPG8Vx82FmB5ZWqGJ4svy7pZJjJYlSP997MbTde92wsh7GiQ4d4xyk9v84Uu0vMhVw5QRvKmV.tmwRKQXP2ow3dTgOhonPNId0urGHF1.ZxxEiIbPG6Tu1FECYLqpop_0Fl1HnEXrwUHL2Jp8ydjPhJUVwGJGvIV68UxndsJL_LkmbWoVI8zoTTduq9_wHidU0e8Vh2G2jPtwbRpeov.9.uHsHf39zlAHt32hvTcbR2ElJHmojDlhg8GoO1feQphnF71512ktb9PeLzomE8fim4mKDusCKvWRkoMGzTLA5ISAoWHGvwoFR3vxqLVWItiVHcn0cCy8cKmqEq6RV9r8_9TwVP838wEn83YtmzvdOshIWxpah3pJAOrc6eOdhaMUR2aEzgBq8gdZcJ7j4RCpfYWxPSvdhGYXpaEtBYTuC4tWtXc5Hly6TjITAJwH69fIAH6I9YWZHlw.VJhfAmZZTAmBQiStOicIQMzlCVaR2eYntfGo9SZtKASSYh46UsQyF0GkABm2rqXIWAUZFl1fdqEHWOqPFRDR6N9PpSp_w--"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=JXXlzxsGIS80XSNb_NRzXkN9O5.IXxs4w6wLfPXgqOzHycGd.oxzRxkwGr5rxqpbP9Pik3ZEQr0THBBC0vZCTsSf4gXceZ86x3irnO5m4vaj.bs.6I4eQD4BLbBID__jr1S.0TsmOM2Wv0ga5jKZ24qBjCnyNXFJLcGZx3p1ZexdIG9prxQWO0Wlbl4_QVsjqMBhXdO.wELOLuFNlpF0TRow8b._5Y9ZLsUMtwwMIAzmS2zX5bBH5WJd6nV0jfZYnEOdfW5g8e94z8sls0WbrKH6xgPjoiYXpQamXjEJguZXztCwY6AI2BaLBhznFS7rUf0odYiJoinFT0Rkx.3ROSU6LhLkHXDX2mf1QmNZ6g8fV3xrgmXpgf2HDW2OLrmzgBU4M9qZXBe.5I18scWqdBy3SYAzqr4BZXAq4g3r77fAfKBzuNcfWPG8Vx82FmB5ZWqGJ4svy7pZJjJYlSP997MbTde92wsh7GiQ4d4xyk9v84Uu0vMhVw5QRvKmV.tmwRKQXP2ow3dTgOhonPNId0urGHF1.ZxxEiIbPG6Tu1FECYLqpop_0Fl1HnEXrwUHL2Jp8ydjPhJUVwGJGvIV68UxndsJL_LkmbWoVI8zoTTduq9_wHidU0e8Vh2G2jPtwbRpeov.9.uHsHf39zlAHt32hvTcbR2ElJHmojDlhg8GoO1feQphnF71512ktb9PeLzomE8fim4mKDusCKvWRkoMGzTLA5ISAoWHGvwoFR3vxqLVWItiVHcn0cCy8cKmqEq6RV9r8_9TwVP838wEn83YtmzvdOshIWxpah3pJAOrc6eOdhaMUR2aEzgBq8gdZcJ7j4RCpfYWxPSvdhGYXpaEtBYTuC4tWtXc5Hly6TjITAJwH69fIAH6I9YWZHlw.VJhfAmZZTAmBQiStOicIQMzlCVaR2eYntfGo9SZtKASSYh46UsQyF0GkABm2rqXIWAUZFl1fdqEHWOqPFRDR6N9PpSp_w--"
-    },
-    {
-      "text": "Why am I seeing this ad?",
-      "url": "https://legal.yahoo.com/sg/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "Advertise with us",
-      "url": "https://gemini.yahoo.com/advertiser/home?utm_source=ad-dot-com"
-    },
-    {
-      "text": "These Could Be The Funniest Animal Pictures EverGotGravyNetwork  | Sponsored\n    \n      \n    \n  ",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=p6N09roGIS8IN3S6BWnX6gmADW2MHdmCbrqVfA77EWEg64blRx2EB0wWrVxP7ON0W4.Iy9KdOtoEaFOujxr5vlcAQiSvrQAvTHXBOviSljZP9taI4bqZcT9DORzG57F7awWPwm4gqANHDrfCheoYT9nk5XFO5glVBFyVmF_yzzEQctk_C8tJDfG3H6T89psHhg84QFSDrOY9.efq8whavhfNPVZbmW6IdwTMBP5_4zM9oM2hEhZDlFJIHbaP9YeIqFgEX6eF.7qlOHHtvRUQhectZru7tYlTO1NZ3H36uy0gH8rhL3hqYmhDDEP3S7XZEJ7aDYUBp.sS8kPSr.kB4QUhTZKqYI9BZY5M3kNrcA_l4OBBmPMXQc7CRati7OuJx.1YXqqbN32.k5eQyFBIfRHnBUwB0RCEseBk5lPhduRBVoMfWqjh0GPAssgX8woBq7QK07bwhDGXpSXwLyMz_5C5IL2yDMYPVVvpxrVhHabWP7jxGNbfKxcgOoDKsf1p5297AdXiqI.Fa0U49E_SBi5yVH..y.pNZ4nE1LUToJ8sfIpaV4S5r4FOwhgJdC6vb9yrfZord4mVC3hEUTvAwBGNlgaRMj9Cki2r6URktpkMWXN3Z33vspMz_MjiN4hatais5dVQUJwQH4slq0SOeeK9qHL6AZyLNuvNsirVhKf0THRVGkS8AKFy9ZKZwevrX6apytD0gU.c8F_WtbcSiDkbrP4umCG0tfALy9dGtvphBQ8NkqZwp.7.OyPJf565nujbEMvPm0N85LuNuQ3X"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=p6N09roGIS8IN3S6BWnX6gmADW2MHdmCbrqVfA77EWEg64blRx2EB0wWrVxP7ON0W4.Iy9KdOtoEaFOujxr5vlcAQiSvrQAvTHXBOviSljZP9taI4bqZcT9DORzG57F7awWPwm4gqANHDrfCheoYT9nk5XFO5glVBFyVmF_yzzEQctk_C8tJDfG3H6T89psHhg84QFSDrOY9.efq8whavhfNPVZbmW6IdwTMBP5_4zM9oM2hEhZDlFJIHbaP9YeIqFgEX6eF.7qlOHHtvRUQhectZru7tYlTO1NZ3H36uy0gH8rhL3hqYmhDDEP3S7XZEJ7aDYUBp.sS8kPSr.kB4QUhTZKqYI9BZY5M3kNrcA_l4OBBmPMXQc7CRati7OuJx.1YXqqbN32.k5eQyFBIfRHnBUwB0RCEseBk5lPhduRBVoMfWqjh0GPAssgX8woBq7QK07bwhDGXpSXwLyMz_5C5IL2yDMYPVVvpxrVhHabWP7jxGNbfKxcgOoDKsf1p5297AdXiqI.Fa0U49E_SBi5yVH..y.pNZ4nE1LUToJ8sfIpaV4S5r4FOwhgJdC6vb9yrfZord4mVC3hEUTvAwBGNlgaRMj9Cki2r6URktpkMWXN3Z33vspMz_MjiN4hatais5dVQUJwQH4slq0SOeeK9qHL6AZyLNuvNsirVhKf0THRVGkS8AKFy9ZKZwevrX6apytD0gU.c8F_WtbcSiDkbrP4umCG0tfALy9dGtvphBQ8NkqZwp.7.OyPJf565nujbEMvPm0N85LuNuQ3X"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=p6N09roGIS8IN3S6BWnX6gmADW2MHdmCbrqVfA77EWEg64blRx2EB0wWrVxP7ON0W4.Iy9KdOtoEaFOujxr5vlcAQiSvrQAvTHXBOviSljZP9taI4bqZcT9DORzG57F7awWPwm4gqANHDrfCheoYT9nk5XFO5glVBFyVmF_yzzEQctk_C8tJDfG3H6T89psHhg84QFSDrOY9.efq8whavhfNPVZbmW6IdwTMBP5_4zM9oM2hEhZDlFJIHbaP9YeIqFgEX6eF.7qlOHHtvRUQhectZru7tYlTO1NZ3H36uy0gH8rhL3hqYmhDDEP3S7XZEJ7aDYUBp.sS8kPSr.kB4QUhTZKqYI9BZY5M3kNrcA_l4OBBmPMXQc7CRati7OuJx.1YXqqbN32.k5eQyFBIfRHnBUwB0RCEseBk5lPhduRBVoMfWqjh0GPAssgX8woBq7QK07bwhDGXpSXwLyMz_5C5IL2yDMYPVVvpxrVhHabWP7jxGNbfKxcgOoDKsf1p5297AdXiqI.Fa0U49E_SBi5yVH..y.pNZ4nE1LUToJ8sfIpaV4S5r4FOwhgJdC6vb9yrfZord4mVC3hEUTvAwBGNlgaRMj9Cki2r6URktpkMWXN3Z33vspMz_MjiN4hatais5dVQUJwQH4slq0SOeeK9qHL6AZyLNuvNsirVhKf0THRVGkS8AKFy9ZKZwevrX6apytD0gU.c8F_WtbcSiDkbrP4umCG0tfALy9dGtvphBQ8NkqZwp.7.OyPJf565nujbEMvPm0N85LuNuQ3X"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=p6N09roGIS8IN3S6BWnX6gmADW2MHdmCbrqVfA77EWEg64blRx2EB0wWrVxP7ON0W4.Iy9KdOtoEaFOujxr5vlcAQiSvrQAvTHXBOviSljZP9taI4bqZcT9DORzG57F7awWPwm4gqANHDrfCheoYT9nk5XFO5glVBFyVmF_yzzEQctk_C8tJDfG3H6T89psHhg84QFSDrOY9.efq8whavhfNPVZbmW6IdwTMBP5_4zM9oM2hEhZDlFJIHbaP9YeIqFgEX6eF.7qlOHHtvRUQhectZru7tYlTO1NZ3H36uy0gH8rhL3hqYmhDDEP3S7XZEJ7aDYUBp.sS8kPSr.kB4QUhTZKqYI9BZY5M3kNrcA_l4OBBmPMXQc7CRati7OuJx.1YXqqbN32.k5eQyFBIfRHnBUwB0RCEseBk5lPhduRBVoMfWqjh0GPAssgX8woBq7QK07bwhDGXpSXwLyMz_5C5IL2yDMYPVVvpxrVhHabWP7jxGNbfKxcgOoDKsf1p5297AdXiqI.Fa0U49E_SBi5yVH..y.pNZ4nE1LUToJ8sfIpaV4S5r4FOwhgJdC6vb9yrfZord4mVC3hEUTvAwBGNlgaRMj9Cki2r6URktpkMWXN3Z33vspMz_MjiN4hatais5dVQUJwQH4slq0SOeeK9qHL6AZyLNuvNsirVhKf0THRVGkS8AKFy9ZKZwevrX6apytD0gU.c8F_WtbcSiDkbrP4umCG0tfALy9dGtvphBQ8NkqZwp.7.OyPJf565nujbEMvPm0N85LuNuQ3X"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=p6N09roGIS8IN3S6BWnX6gmADW2MHdmCbrqVfA77EWEg64blRx2EB0wWrVxP7ON0W4.Iy9KdOtoEaFOujxr5vlcAQiSvrQAvTHXBOviSljZP9taI4bqZcT9DORzG57F7awWPwm4gqANHDrfCheoYT9nk5XFO5glVBFyVmF_yzzEQctk_C8tJDfG3H6T89psHhg84QFSDrOY9.efq8whavhfNPVZbmW6IdwTMBP5_4zM9oM2hEhZDlFJIHbaP9YeIqFgEX6eF.7qlOHHtvRUQhectZru7tYlTO1NZ3H36uy0gH8rhL3hqYmhDDEP3S7XZEJ7aDYUBp.sS8kPSr.kB4QUhTZKqYI9BZY5M3kNrcA_l4OBBmPMXQc7CRati7OuJx.1YXqqbN32.k5eQyFBIfRHnBUwB0RCEseBk5lPhduRBVoMfWqjh0GPAssgX8woBq7QK07bwhDGXpSXwLyMz_5C5IL2yDMYPVVvpxrVhHabWP7jxGNbfKxcgOoDKsf1p5297AdXiqI.Fa0U49E_SBi5yVH..y.pNZ4nE1LUToJ8sfIpaV4S5r4FOwhgJdC6vb9yrfZord4mVC3hEUTvAwBGNlgaRMj9Cki2r6URktpkMWXN3Z33vspMz_MjiN4hatais5dVQUJwQH4slq0SOeeK9qHL6AZyLNuvNsirVhKf0THRVGkS8AKFy9ZKZwevrX6apytD0gU.c8F_WtbcSiDkbrP4umCG0tfALy9dGtvphBQ8NkqZwp.7.OyPJf565nujbEMvPm0N85LuNuQ3X"
-    },
-    {
-      "text": "Why am I seeing this ad?",
-      "url": "https://legal.yahoo.com/sg/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "Advertise with us",
-      "url": "https://gemini.yahoo.com/advertiser/home?utm_source=ad-dot-com"
-    },
-    {
-      "text": "The Most Successful American Idols, RankedHistoryChronicle  | Sponsored\n    \n      \n    \n  ",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=mqrANLgGIS_UVzF38Z.ynkdAPWUZQtOVLLEghcR0Q3YD7TXtTpP6W0AGhFJjGhXXP5r24MsMUHlnTWqggYdz8e3d_je2Fu8Rl1m3qFQBagHesUVaOJeR5DhbtrU574i8cXt6V.h46AuvRHwuaMtVhbE.ljqvY115RcRXSoXz1u7tvHyWWgj6_2bEge43TN_Tgut9TkFh0Ghsl1kLS78dGCF0bur0WKYDQZkUpuiqlxDz3FRtt.AN6niVrMyE1AdUmkXD6V5ArSsCbq9dUkGLb5usDu96RbPmoHs1oGsI.rKSH5V6w3Gq69PG0X0NlZuEF716FOMbG3WBkA_aHumx1TuPq3CyUtY6zBI.mX9QOmO5sLN9cwX89m0qO5IRNvpbLtpkUhVM3VJhj7tqMtqJuylhuSUfEpmUFP2xzr56HCanhn3rBV354wRPE9v70.XzUk_5b8hDaK7fKOWJxkau833IU_G0p1JoZPGds9VcRs5uUCcIRPPrU0hhoB3cwgAwJPLd029JjazE1Hdl91og0_qMA_wZfDQQpflhZ2Yyb3Ec3e1yoPTXm42QtimM3lcMnNG.suPunGgQudn2xUKY3Dva8Hcu.ET5ahn379Q6guXVMtELMxftlZbk.3K_.ZZzNw7Xc_IWxXo7LqgGwLsIWugxwmOHGKjzX1SfPfgqgoGaWE7PRtzrPYxPLMTn22Z8WxBAS08rHig1QxDmu.t5OAfUtBBpD6XKo7bev9F5m0SVSp58O101kIE-"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=mqrANLgGIS_UVzF38Z.ynkdAPWUZQtOVLLEghcR0Q3YD7TXtTpP6W0AGhFJjGhXXP5r24MsMUHlnTWqggYdz8e3d_je2Fu8Rl1m3qFQBagHesUVaOJeR5DhbtrU574i8cXt6V.h46AuvRHwuaMtVhbE.ljqvY115RcRXSoXz1u7tvHyWWgj6_2bEge43TN_Tgut9TkFh0Ghsl1kLS78dGCF0bur0WKYDQZkUpuiqlxDz3FRtt.AN6niVrMyE1AdUmkXD6V5ArSsCbq9dUkGLb5usDu96RbPmoHs1oGsI.rKSH5V6w3Gq69PG0X0NlZuEF716FOMbG3WBkA_aHumx1TuPq3CyUtY6zBI.mX9QOmO5sLN9cwX89m0qO5IRNvpbLtpkUhVM3VJhj7tqMtqJuylhuSUfEpmUFP2xzr56HCanhn3rBV354wRPE9v70.XzUk_5b8hDaK7fKOWJxkau833IU_G0p1JoZPGds9VcRs5uUCcIRPPrU0hhoB3cwgAwJPLd029JjazE1Hdl91og0_qMA_wZfDQQpflhZ2Yyb3Ec3e1yoPTXm42QtimM3lcMnNG.suPunGgQudn2xUKY3Dva8Hcu.ET5ahn379Q6guXVMtELMxftlZbk.3K_.ZZzNw7Xc_IWxXo7LqgGwLsIWugxwmOHGKjzX1SfPfgqgoGaWE7PRtzrPYxPLMTn22Z8WxBAS08rHig1QxDmu.t5OAfUtBBpD6XKo7bev9F5m0SVSp58O101kIE-"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=mqrANLgGIS_UVzF38Z.ynkdAPWUZQtOVLLEghcR0Q3YD7TXtTpP6W0AGhFJjGhXXP5r24MsMUHlnTWqggYdz8e3d_je2Fu8Rl1m3qFQBagHesUVaOJeR5DhbtrU574i8cXt6V.h46AuvRHwuaMtVhbE.ljqvY115RcRXSoXz1u7tvHyWWgj6_2bEge43TN_Tgut9TkFh0Ghsl1kLS78dGCF0bur0WKYDQZkUpuiqlxDz3FRtt.AN6niVrMyE1AdUmkXD6V5ArSsCbq9dUkGLb5usDu96RbPmoHs1oGsI.rKSH5V6w3Gq69PG0X0NlZuEF716FOMbG3WBkA_aHumx1TuPq3CyUtY6zBI.mX9QOmO5sLN9cwX89m0qO5IRNvpbLtpkUhVM3VJhj7tqMtqJuylhuSUfEpmUFP2xzr56HCanhn3rBV354wRPE9v70.XzUk_5b8hDaK7fKOWJxkau833IU_G0p1JoZPGds9VcRs5uUCcIRPPrU0hhoB3cwgAwJPLd029JjazE1Hdl91og0_qMA_wZfDQQpflhZ2Yyb3Ec3e1yoPTXm42QtimM3lcMnNG.suPunGgQudn2xUKY3Dva8Hcu.ET5ahn379Q6guXVMtELMxftlZbk.3K_.ZZzNw7Xc_IWxXo7LqgGwLsIWugxwmOHGKjzX1SfPfgqgoGaWE7PRtzrPYxPLMTn22Z8WxBAS08rHig1QxDmu.t5OAfUtBBpD6XKo7bev9F5m0SVSp58O101kIE-"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=mqrANLgGIS_UVzF38Z.ynkdAPWUZQtOVLLEghcR0Q3YD7TXtTpP6W0AGhFJjGhXXP5r24MsMUHlnTWqggYdz8e3d_je2Fu8Rl1m3qFQBagHesUVaOJeR5DhbtrU574i8cXt6V.h46AuvRHwuaMtVhbE.ljqvY115RcRXSoXz1u7tvHyWWgj6_2bEge43TN_Tgut9TkFh0Ghsl1kLS78dGCF0bur0WKYDQZkUpuiqlxDz3FRtt.AN6niVrMyE1AdUmkXD6V5ArSsCbq9dUkGLb5usDu96RbPmoHs1oGsI.rKSH5V6w3Gq69PG0X0NlZuEF716FOMbG3WBkA_aHumx1TuPq3CyUtY6zBI.mX9QOmO5sLN9cwX89m0qO5IRNvpbLtpkUhVM3VJhj7tqMtqJuylhuSUfEpmUFP2xzr56HCanhn3rBV354wRPE9v70.XzUk_5b8hDaK7fKOWJxkau833IU_G0p1JoZPGds9VcRs5uUCcIRPPrU0hhoB3cwgAwJPLd029JjazE1Hdl91og0_qMA_wZfDQQpflhZ2Yyb3Ec3e1yoPTXm42QtimM3lcMnNG.suPunGgQudn2xUKY3Dva8Hcu.ET5ahn379Q6guXVMtELMxftlZbk.3K_.ZZzNw7Xc_IWxXo7LqgGwLsIWugxwmOHGKjzX1SfPfgqgoGaWE7PRtzrPYxPLMTn22Z8WxBAS08rHig1QxDmu.t5OAfUtBBpD6XKo7bev9F5m0SVSp58O101kIE-"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=mqrANLgGIS_UVzF38Z.ynkdAPWUZQtOVLLEghcR0Q3YD7TXtTpP6W0AGhFJjGhXXP5r24MsMUHlnTWqggYdz8e3d_je2Fu8Rl1m3qFQBagHesUVaOJeR5DhbtrU574i8cXt6V.h46AuvRHwuaMtVhbE.ljqvY115RcRXSoXz1u7tvHyWWgj6_2bEge43TN_Tgut9TkFh0Ghsl1kLS78dGCF0bur0WKYDQZkUpuiqlxDz3FRtt.AN6niVrMyE1AdUmkXD6V5ArSsCbq9dUkGLb5usDu96RbPmoHs1oGsI.rKSH5V6w3Gq69PG0X0NlZuEF716FOMbG3WBkA_aHumx1TuPq3CyUtY6zBI.mX9QOmO5sLN9cwX89m0qO5IRNvpbLtpkUhVM3VJhj7tqMtqJuylhuSUfEpmUFP2xzr56HCanhn3rBV354wRPE9v70.XzUk_5b8hDaK7fKOWJxkau833IU_G0p1JoZPGds9VcRs5uUCcIRPPrU0hhoB3cwgAwJPLd029JjazE1Hdl91og0_qMA_wZfDQQpflhZ2Yyb3Ec3e1yoPTXm42QtimM3lcMnNG.suPunGgQudn2xUKY3Dva8Hcu.ET5ahn379Q6guXVMtELMxftlZbk.3K_.ZZzNw7Xc_IWxXo7LqgGwLsIWugxwmOHGKjzX1SfPfgqgoGaWE7PRtzrPYxPLMTn22Z8WxBAS08rHig1QxDmu.t5OAfUtBBpD6XKo7bev9F5m0SVSp58O101kIE-"
-    },
-    {
-      "text": "Why am I seeing this ad?",
-      "url": "https://legal.yahoo.com/sg/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "Advertise with us",
-      "url": "https://gemini.yahoo.com/advertiser/home?utm_source=ad-dot-com"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/met-my-boyfriend-bdsm-kink-dungeon_n_5d643bb3e4b008b1fd1f625c"
-    },
-    {
-      "text": "I Got Into BDSM At 50 And Met My 30-Year-Old Boyfriend At A Dungeon",
-      "url": "https://www.huffpost.com/entry/met-my-boyfriend-bdsm-kink-dungeon_n_5d643bb3e4b008b1fd1f625c"
-    },
-    {
-      "text": "V.V. ValentineGuest Writer",
-      "url": "https://www.huffpost.com/author/vv-valentine"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/covid-doctors-politics_n_6227b7e6e4b0dd8abd5a0a65"
-    },
-    {
-      "text": "I Was A COVID Doctor. Here\u2019s The One Thing I Refuse To Do As We \u2018Get Back To Normal.\u2019",
-      "url": "https://www.huffpost.com/entry/covid-doctors-politics_n_6227b7e6e4b0dd8abd5a0a65"
-    },
-    {
-      "text": "Dipti S. BarotGuest Writer",
-      "url": "https://www.huffpost.com/author/dipti-s-barot"
     },
     {
       "text": "",
@@ -4588,15 +4606,19 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/nude-body-painting-husband-wife-andy-golub_n_62cc5e41e4b02e0ac917a9aa"
+      "url": "https://www.huffpost.com/entry/maricopa-county-attorney-abortion-julie-gunnigle_n_62d701f5e4b081f3a8f8137b"
     },
     {
-      "text": "I Stripped Down For Nude Body Painting At Age 75 \u2015 And So Did My Husband. Here's How It Felt.",
-      "url": "https://www.huffpost.com/entry/nude-body-painting-husband-wife-andy-golub_n_62cc5e41e4b02e0ac917a9aa"
+      "text": "Abortion Is On The Ballot In This Critical Arizona Prosecutor Race",
+      "url": "https://www.huffpost.com/entry/maricopa-county-attorney-abortion-julie-gunnigle_n_62d701f5e4b081f3a8f8137b"
     },
     {
-      "text": "Catherine Hiller",
-      "url": "https://www.huffpost.com/author/catherine-hiller-753"
+      "text": "",
+      "url": "https://www.huffpost.com/entry/dr-oz-fundraising-problems_n_62d63e67e4b092a3f6bfeee6"
+    },
+    {
+      "text": "Dr. Oz Has Weirdest Explanation For Why No One Is Donating To His Campaign",
+      "url": "https://www.huffpost.com/entry/dr-oz-fundraising-problems_n_62d63e67e4b092a3f6bfeee6"
     },
     {
       "text": "",
@@ -4608,27 +4630,11 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/norm-eisen-secret-service-witness-tampering-obstruction-of-justice-cassidy-hutchinsin_n_62d4c5b3e4b0ed8ba490c241"
+      "url": "https://www.huffpost.com/entry/jody-hice-georgia-election-investigation_n_62d59838e4b0116f21bed36a"
     },
     {
-      "text": "Secret Service Riot Conduct Raises 'Obstruction Of Justice' Concerns: Ex-White House Lawyer",
-      "url": "https://www.huffpost.com/entry/norm-eisen-secret-service-witness-tampering-obstruction-of-justice-cassidy-hutchinsin_n_62d4c5b3e4b0ed8ba490c241"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/no-problems-with-ballot-drop-boxes-in-2020_n_62d52845e4b0f6913031c8d2"
-    },
-    {
-      "text": "No Major Problems With Ballot Drop Boxes In 2020, AP Finds",
-      "url": "https://www.huffpost.com/entry/no-problems-with-ballot-drop-boxes-in-2020_n_62d52845e4b0f6913031c8d2"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/14th-amendment-constitution-insurrectionist-ban-trump-lawsuit-alan-morrison_n_62d49f2be4b0f6913031334b"
-    },
-    {
-      "text": "Dems Should Sue Now To Stop Trump Run Under Constitution Insurrectionist Ban: Lawyer",
-      "url": "https://www.huffpost.com/entry/14th-amendment-constitution-insurrectionist-ban-trump-lawsuit-alan-morrison_n_62d49f2be4b0f6913031334b"
+      "text": "Rep. Jody Hice Subpoenaed In Georgia Election Investigation",
+      "url": "https://www.huffpost.com/entry/jody-hice-georgia-election-investigation_n_62d59838e4b0116f21bed36a"
     },
     {
       "text": "More Politics",
@@ -4636,39 +4642,47 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/the-idol-trailer-stars-lily-rose-depp-the-weeknd_n_62d56c52e4b0f691303277bd"
+      "url": "https://www.huffpost.com/entry/seth-meyers-sidney-powell_n_62d64582e4b0116f21bf9518"
     },
     {
-      "text": "'The Idol' Trailer Stars Lily-Rose Depp In 'Sleaziest Love Story' With The Weeknd",
-      "url": "https://www.huffpost.com/entry/the-idol-trailer-stars-lily-rose-depp-the-weeknd_n_62d56c52e4b0f691303277bd"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/bruce-willis-returns-nakatomi-plaza_n_62d4b739e4b0e6fc1a986728"
-    },
-    {
-      "text": "Bruce Willis Breaks 34-Year-Old 'Die Hard' Promise In Spectacular Fashion",
-      "url": "https://www.huffpost.com/entry/bruce-willis-returns-nakatomi-plaza_n_62d4b739e4b0e6fc1a986728"
+      "text": "Seth Meyers Can't Get Over 1 Weird Element Of Sidney Powell's Jan. 6 Testimony",
+      "url": "https://www.huffpost.com/entry/seth-meyers-sidney-powell_n_62d64582e4b0116f21bf9518"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/matthew-modine-donald-trump_n_62d4cfa7e4b0116f21bd500a"
+      "url": "https://www.huffpost.com/entry/ted-nugent-rosa-parks_n_62d65348e4b0ed8ba4932992"
     },
     {
-      "text": "Matthew Modine Hits Trump With Scathing 'Stranger Things' Comparison",
-      "url": "https://www.huffpost.com/entry/matthew-modine-donald-trump_n_62d4cfa7e4b0116f21bd500a"
+      "text": "Ted Nugent Compares Himself To Rosa Parks As He Tries To Sell Autographs",
+      "url": "https://www.huffpost.com/entry/ted-nugent-rosa-parks_n_62d65348e4b0ed8ba4932992"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/the-chainsmokers-to-perform-at-the-edge-of-space_n_62d59770e4b008a2d03ceef7"
+      "url": "https://www.huffpost.com/entry/harry-styles-course-university_n_62d62f50e4b0e6fc1a9aa0c0"
     },
     {
-      "text": "The Chainsmokers To Perform At The Edge Of Space",
-      "url": "https://www.huffpost.com/entry/the-chainsmokers-to-perform-at-the-edge-of-space_n_62d59770e4b008a2d03ceef7"
+      "text": "You Can Now Take A Whole Damn College Course On Harry Styles",
+      "url": "https://www.huffpost.com/entry/harry-styles-course-university_n_62d62f50e4b0e6fc1a9aa0c0"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/dana-carvey-church-lady-update_n_62d6282ae4b0ed8ba492edb9"
+    },
+    {
+      "text": "\u2018Kimmel\u2019 Host Dana Carvey Reveals Which Of His Iconic Characters Is Now In Jail",
+      "url": "https://www.huffpost.com/entry/dana-carvey-church-lady-update_n_62d6282ae4b0ed8ba492edb9"
     },
     {
       "text": "More Entertainment",
       "url": "https://www.huffpost.com/entertainment/"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/persuasion-popular-netflix-movies_l_62d4d297e4b0f6913031546a"
+    },
+    {
+      "text": "This New Jane Austen Adaptation Is The Top Movie On Netflix Right Now",
+      "url": "https://www.huffpost.com/entry/persuasion-popular-netflix-movies_l_62d4d297e4b0f6913031546a"
     },
     {
       "text": "",
@@ -4680,6 +4694,14 @@
     },
     {
       "text": "",
+      "url": "https://www.huffpost.com/entry/children-groomer-fears-comprehensive-sex-ed_l_62cf1fdce4b0eef119c19e88"
+    },
+    {
+      "text": "Worried About Grooming? Teaching Kids Comprehensive Sex Ed Could Help.",
+      "url": "https://www.huffpost.com/entry/children-groomer-fears-comprehensive-sex-ed_l_62cf1fdce4b0eef119c19e88"
+    },
+    {
+      "text": "",
       "url": "https://www.huffpost.com/entry/988-mental-health-suicide-hotline_l_62d02b88e4b02074ac934a82"
     },
     {
@@ -4687,56 +4709,40 @@
       "url": "https://www.huffpost.com/entry/988-mental-health-suicide-hotline_l_62d02b88e4b02074ac934a82"
     },
     {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/funniest-parenting-tweets_l_62d17df3e4b04aa0fe672e09"
-    },
-    {
-      "text": "The Funniest Tweets From Parents This Week",
-      "url": "https://www.huffpost.com/entry/funniest-parenting-tweets_l_62d17df3e4b04aa0fe672e09"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/earwax-removal-pain-blocked-doctor_l_62cd7fefe4b0359fa48134ac"
-    },
-    {
-      "text": "How To Know When Your Earwax Needs Medical Attention",
-      "url": "https://www.huffpost.com/entry/earwax-removal-pain-blocked-doctor_l_62cd7fefe4b0359fa48134ac"
-    },
-    {
       "text": "More Life",
       "url": "https://www.huffpost.com/life/"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/how-to-treat-bug-bites-dermatologists_l_629e5e54e4b090b53b882a74"
+      "url": "https://www.huffpost.com/entry/durable-shoes-standing-all-day_l_62c82ec1e4b045168461bac6"
     },
     {
-      "text": "What Dermatologists Use When They\u2019re Covered In Bug Bites",
-      "url": "https://www.huffpost.com/entry/how-to-treat-bug-bites-dermatologists_l_629e5e54e4b090b53b882a74"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/amazon-prime-last-chance-deals_l_62cc385fe4b045168465bd02"
-    },
-    {
-      "text": "Feeling Prime Day FOMO? Amazon Has More Deals Right Now",
-      "url": "https://www.huffpost.com/entry/amazon-prime-last-chance-deals_l_62cc385fe4b045168465bd02"
+      "text": "20 Shoes Reviewers Swear You Can Comfortably Wear For Hours And Hours",
+      "url": "https://www.huffpost.com/entry/durable-shoes-standing-all-day_l_62c82ec1e4b045168461bac6"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/favorite-walking-shoes-amazon_l_6201266fe4b0b69cfe91fa34"
+      "url": "https://www.huffpost.com/entry/cleaning-products-that-work_l_62bcb0e7e4b014f50a2d4175"
     },
     {
-      "text": "These $38 Walking Shoes Are The Best I\u2019ve Ever Worn, Hands Down",
-      "url": "https://www.huffpost.com/entry/favorite-walking-shoes-amazon_l_6201266fe4b0b69cfe91fa34"
+      "text": "33 Cleaning Products With Really Convincing Before And After Pictures",
+      "url": "https://www.huffpost.com/entry/cleaning-products-that-work_l_62bcb0e7e4b014f50a2d4175"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/wireless-neck-fan-summer_l_627a64ade4b0d7ea4cd27209"
+      "url": "https://www.huffpost.com/entry/useful-summer-products_l_62bf1fbee4b0f6125726ac02"
     },
     {
-      "text": "You Need This Portable Neck Fan For The Summer",
-      "url": "https://www.huffpost.com/entry/wireless-neck-fan-summer_l_627a64ade4b0d7ea4cd27209"
+      "text": "52 Things You\u2019ll Wish You\u2019d Bought Last Summer Because They\u2019re That Good",
+      "url": "https://www.huffpost.com/entry/useful-summer-products_l_62bf1fbee4b0f6125726ac02"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/best-beauty-products-from-reviewers_l_62bf550de4b00a9334e80f41"
+    },
+    {
+      "text": "44 Beauty Products Reviewers Agree Are Very Good At Their Jobs",
+      "url": "https://www.huffpost.com/entry/best-beauty-products-from-reviewers_l_62bf550de4b00a9334e80f41"
     },
     {
       "text": "More Shopping",
@@ -4744,35 +4750,35 @@
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/bc-us-abortion-mississippi_n_62d60381e4b0ed8ba492c4de"
+      "url": "https://www.huffpost.com/entry/how-to-find-therapist-black-mental-health_l_5ee7edbac5b6a5cad74f81e7"
     },
     {
-      "text": "Owner: Mississippi Abortion Clinic Is Sold, Won't Reopen",
-      "url": "https://www.huffpost.com/entry/bc-us-abortion-mississippi_n_62d60381e4b0ed8ba492c4de"
-    },
-    {
-      "text": "",
-      "url": "https://www.huffpost.com/entry/prince-harry-nelson-mandel_n_62d57bdae4b0116f21be98fa"
-    },
-    {
-      "text": "Prince Harry Talks About 'Global Assault On Democracy' In Emotional UN Address",
-      "url": "https://www.huffpost.com/entry/prince-harry-nelson-mandel_n_62d57bdae4b0116f21be98fa"
+      "text": "How To Find A Therapist Who Focuses On Black Mental Health",
+      "url": "https://www.huffpost.com/entry/how-to-find-therapist-black-mental-health_l_5ee7edbac5b6a5cad74f81e7"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/anthony-richardson-ar15_n_62d53a2be4b0e6fc1a992037"
+      "url": "https://www.huffpost.com/entry/dont-know-my-sexual-orientation_n_60ccaab9e4b01af0c26fbc33"
     },
     {
-      "text": "Star Quarterback Drops 'AR-15' Nickname For A Sensible Reason",
-      "url": "https://www.huffpost.com/entry/anthony-richardson-ar15_n_62d53a2be4b0e6fc1a992037"
+      "text": "I Don\u2019t Have A Label For My Sexual Orientation \u2014 And I\u2019m OK With That",
+      "url": "https://www.huffpost.com/entry/dont-know-my-sexual-orientation_n_60ccaab9e4b01af0c26fbc33"
     },
     {
       "text": "",
-      "url": "https://www.huffpost.com/entry/genius-beauty-products_l_62ca3600e4b06e3d9bb61bba"
+      "url": "https://www.huffpost.com/entry/guys-dating-compare-dev-patel_n_62a0e279e4b0cdccbe4abe64"
     },
     {
-      "text": "We're Not Quite Sure Why You Don't Own These 28 Genius Beauty Products Yet",
-      "url": "https://www.huffpost.com/entry/genius-beauty-products_l_62ca3600e4b06e3d9bb61bba"
+      "text": "Guys Often Compare Me To A Famous Actor. They Think It\u2019s A Compliment \u2014 Here\u2019s Why It\u2019s Not.",
+      "url": "https://www.huffpost.com/entry/guys-dating-compare-dev-patel_n_62a0e279e4b0cdccbe4abe64"
+    },
+    {
+      "text": "",
+      "url": "https://www.huffpost.com/entry/phoebe-robinson-wants-everythings-trash-to-be-a-salve-for-these-times_n_62cdc5d5e4b0aa392d4543db"
+    },
+    {
+      "text": "Phoebe Robinson\u2019s New Show Is An Escape From The Times We\u2019re Living In",
+      "url": "https://www.huffpost.com/entry/phoebe-robinson-wants-everythings-trash-to-be-a-salve-for-these-times_n_62cdc5d5e4b0aa392d4543db"
     },
     {
       "text": "More Communities",
@@ -4803,7 +4809,7 @@
       "url": "/life/"
     },
     {
-      "text": "COMMUNITIES",
+      "text": "VOICES",
       "url": "/voices/"
     },
     {
@@ -4879,8 +4885,8 @@
       "url": "javascript:window.__uspapi('displayUspUi');"
     }
   ],
-  "item_last_updated": 1658198247,
-  "item_size": 28028858,
+  "item_last_updated": 1658265340,
+  "item_size": 28974934,
   "metadata": {
     "identifier": "huffpost-2022",
     "collection": [
@@ -4898,7 +4904,7 @@
     "addeddate": "2022-06-24 22:56:52"
   },
   "server": "ia902502.us.archive.org",
-  "uniq": 2015013855,
+  "uniq": 128898580,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"

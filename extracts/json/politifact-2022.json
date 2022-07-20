@@ -1,5 +1,5 @@
 {
-  "created": 1658232932,
+  "created": 1658279271,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -2746,31 +2746,73 @@
       "sha1": "9e2040b5dafea0eb6e0d49b195e3f6313cd7521d"
     },
     {
+      "name": "politifact-2022-07-19T11:47:32.522554-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658245655",
+      "size": "35791",
+      "md5": "29321c050fb1ac5dae08a4db07237db6",
+      "crc32": "fa7017df",
+      "sha1": "9896b5582abd80c32d1ce2d8bddefa205bb01b7f",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-19T11:47:32.522554-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658245656",
+      "size": "22595",
+      "md5": "897e9ea7d5e55f23a7ad324ab85be2a3",
+      "crc32": "2ffb30f6",
+      "sha1": "b501478a714308ddf145546311ca7799a33bc842",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-07-19T11:47:32.522554-04:00.jpg",
+      "source": "original",
+      "mtime": "1658245653",
+      "size": "146448",
+      "md5": "79e57807e6e07e7a7be236816cc06089",
+      "crc32": "4059980b",
+      "sha1": "73fa8942817d3ff316c4d22f2797468839db2264",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-07-19T11:47:32.522554-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-07-19T11:47:32.522554-04:00.jpg",
+      "mtime": "1658247003",
+      "size": "8005",
+      "md5": "3b539abead6ad349d89ad82f71922637",
+      "crc32": "69c7c93d",
+      "sha1": "88ad89fbb6e03ce923ad93d36fd3ec18e2713c63"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fdbf5139f53d3dbb4c8b19f116fd318dbd6d7746",
-      "mtime": "1658202609",
-      "size": "56731",
-      "md5": "332e2d32781408b67f2dd26e9eb2ed6d",
-      "crc32": "6f7821df",
-      "sha1": "04983b22d6dfd3e024895c5ef9df8b73ae600109",
+      "btih": "fe65c53e18497cad7733ad567b5220a01f9a453e",
+      "mtime": "1658247184",
+      "size": "57568",
+      "md5": "16680361ffb1ebccde6bde7f9eb9c6f1",
+      "crc32": "d1198e2a",
+      "sha1": "e9f641f477d138a4365cbea0f51a11600351a652",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7a19fb1ba7e68de997cc6207e7b825bf",
+      "md5": "6c64cb41b2f5e469541b870258691c26",
       "summation": "md5"
     },
     {
       "name": "politifact-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658201993",
-      "size": "319488",
-      "md5": "297f828fa291ba8864d948878b4f2201",
-      "crc32": "fa71b873",
-      "sha1": "407d349eb4a340b56f2a4a42b8b337174aa4b095",
+      "mtime": "1658245659",
+      "size": "323584",
+      "md5": "e49f13139925929726d9aaf8c4c68587",
+      "crc32": "07d1a45e",
+      "sha1": "900dd5c304acd44a52ef960b0878e4c676ce6beb",
       "format": "Metadata"
     },
     {
@@ -2784,9 +2826,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 265,
-  "item_last_updated": 1658202609,
-  "item_size": 17988868,
+  "files_count": 269,
+  "item_last_updated": 1658247184,
+  "item_size": 18206640,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -2937,7 +2979,7 @@
       "url": "/personalities/kamala-harris/"
     },
     {
-      "text": "\nCharles Schumer\n",
+      "text": "\n Charles Schumer\n",
       "url": "/personalities/charles-schumer/"
     },
     {
@@ -3037,7 +3079,7 @@
       "url": "/media-kit/"
     },
     {
-      "text": "\nSuggest a Fact-check\n",
+      "text": "\n Suggest a Fact-check\n",
       "url": "/suggest/statement/"
     },
     {
@@ -3065,12 +3107,8 @@
       "url": "/membership/"
     },
     {
-      "text": "\nPlanned Parenthood Votes\n",
-      "url": "/personalities/planned-parenthood-votes/"
-    },
-    {
-      "text": "\nMehmet Oz \u201cwants to make abortion a crime in Pennsylvania.\u201d\n",
-      "url": "/factchecks/2022/jul/18/planned-parenthood-votes/mehmet-oz-has-said-he-supports-more-restrictions-a/"
+      "text": "\nAbortion bans without rape exceptions: where are they?\n",
+      "url": "/article/2022/jul/18/next-frontier-battle-over-abortion-bans-carve-outs/"
     },
     {
       "text": "\nMonica Crowley\n",
@@ -3101,7 +3139,7 @@
       "url": "/personalities/kevin-mccarthy/"
     },
     {
-      "text": "\n\u201cAmerican oil is \u2026 more affordable\u201d than foreign oil.\n ",
+      "text": "\n\u201cAmerican oil is \u2026 more affordable\u201d than foreign oil.\n",
       "url": "/factchecks/2022/jun/24/kevin-mccarthy/kevin-mccarthy-said-domestic-oil-more-affordable-i/"
     },
     {
@@ -3127,6 +3165,14 @@
     {
       "text": "\nA Texas GOP lawmaker recently introduced a bill that would allow the death penalty for women who have an abortion.\n",
       "url": "/factchecks/2022/jun/28/instagram-posts/headline-about-texas-lawmakers-anti-abortion-bill-/"
+    },
+    {
+      "text": "\nFacebook posts\n",
+      "url": "/personalities/facebook-posts/"
+    },
+    {
+      "text": "\nCNN coverage has evidence of the \u201csingle most egregious, real-time example of electronic vote fraud.\u201d\n",
+      "url": "/factchecks/2022/jul/19/facebook-posts/facebook-post-relies-debunked-conspiracy-theory-el/"
     },
     {
       "text": "\nInstagram posts\n",
@@ -3201,16 +3247,24 @@
       "url": "/factchecks/2022/jul/15/viral-image/image-trump-train-truck-crashed-bridge-digitally-e/"
     },
     {
-      "text": "\nInstagram posts\n",
-      "url": "/personalities/instagram-posts/"
-    },
-    {
-      "text": "\nVideo shows Biden giving the \"same exact speech\" months apart.\n",
-      "url": "/factchecks/2022/jul/15/instagram-posts/no-biden-didnt-give-same-exact-speech-months-apart/"
-    },
-    {
       "text": "View all",
       "url": "/factchecks/list/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "/article/2022/jul/19/reinfections-are-going-continue-occur-covid-19-imm/"
+    },
+    {
+      "text": "\n\u2018Reinfections are going to continue to occur\u2019: COVID-19 immunity and the risks of reinfection\n",
+      "url": "/article/2022/jul/19/reinfections-are-going-continue-occur-covid-19-imm/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "/article/2022/jul/19/fact-checking-attacks-gop-arizona-governor-candida/"
+    },
+    {
+      "text": "\nFact-checking attacks on GOP Arizona governor candidate Kari Lake in TV ad narrated by drag queen\n",
+      "url": "/article/2022/jul/19/fact-checking-attacks-gop-arizona-governor-candida/"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -3253,7 +3307,7 @@
       "url": "/article/2022/jul/13/bombing-controversial-georgia-guidestones-fuels-on/"
     },
     {
-      "text": "\n\n\n\n\n\n\n",
+      "text": "\n\n\n\n\n \n\n",
       "url": "/article/2022/jul/13/three-things-know-about-insurance-coverage-abortio/"
     },
     {
@@ -3275,22 +3329,6 @@
     {
       "text": "\n\u2018A call to action\u2019: Jan. 6 hearing shows Trump\u2019s sway on rioters with words, tweets\n",
       "url": "/article/2022/jul/13/call-action-jan-6-hearing-shows-trumps-sway-rioter/"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "/article/2022/jul/12/what-illinois-red-flag-gun-law-means-after-highlan/"
-    },
-    {
-      "text": "\nWhat Illinois\u2019 \u2018red flag\u2019 gun law means after the Highland Park shooting\n",
-      "url": "/article/2022/jul/12/what-illinois-red-flag-gun-law-means-after-highlan/"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "/article/2022/jul/11/why-us-selling-stockpiled-oil-china-we-have-answer/"
-    },
-    {
-      "text": "\nWhy is the US selling stockpiled oil to China? We have answers\n",
-      "url": "/article/2022/jul/11/why-us-selling-stockpiled-oil-china-we-have-answer/"
     },
     {
       "text": "View all",
@@ -3349,7 +3387,7 @@
       "url": "/personalities/mandela-barnes/"
     },
     {
-      "text": "\nSays U.S. Sen. Ron Johnson, his prospective opponent, has received $1.2 million from the gun lobby.\n",
+      "text": "\nSays U.S. Sen. Ron Johnson, his prospective opponent, has received $1.2 million from the gun lobby.\n ",
       "url": "/factchecks/2022/jun/28/mandela-barnes/barnes-partially-right-claim-johnson-has-received-/"
     },
     {
@@ -3398,6 +3436,14 @@
     },
     {
       "text": "\n\n\n\n\n",
+      "url": "https://www.washingtonpost.com/politics/2022/07/19/misleading-claim-that-democratic-candidate-sued-group-nuns-over-contraception-coverage/"
+    },
+    {
+      "text": "\nThe misleading claim that a Democratic candidate \u2018sued\u2019 a group of nuns over contraception coverage\n",
+      "url": "https://www.washingtonpost.com/politics/2022/07/19/misleading-claim-that-democratic-candidate-sued-group-nuns-over-contraception-coverage/"
+    },
+    {
+      "text": "\n\n\n\n\n",
       "url": "https://www.reuters.com/article/factcheck-antarctica-image/fact-check-widely-viewed-picture-is-a-computer-generated-illustration-of-antarctica-as-it-appears-from-space-idUSL1N2YZ26X"
     },
     {
@@ -3427,14 +3473,6 @@
     {
       "text": "\nChinese facilities have been eligible to process and export US chicken for years\n",
       "url": "https://www.msn.com/en-us/news/us/fact-check-chinese-facilities-have-been-eligible-to-process-and-export-us-chicken-for-years/ar-AAZCKTv?li=BBnbfcL"
-    },
-    {
-      "text": "\n\n\n\n\n",
-      "url": "https://www.reuters.com/article/factcheck-celebration-draghi/fact-check-video-of-italian-protesters-is-not-a-celebration-of-draghi-resignation-idUSL1N2YZ0VR"
-    },
-    {
-      "text": "\nVideo of Italian protesters is not a celebration of Draghi resignation\n",
-      "url": "https://www.reuters.com/article/factcheck-celebration-draghi/fact-check-video-of-italian-protesters-is-not-a-celebration-of-draghi-resignation-idUSL1N2YZ0VR"
     },
     {
       "text": "View more",
@@ -3589,7 +3627,7 @@
       "url": "https://twitter.com/Politifact/"
     },
     {
-      "text": "\n\n\n\n",
+      "text": "\n\n\n\n ",
       "url": "https://www.facebook.com/politifact/"
     },
     {
@@ -3606,7 +3644,7 @@
     }
   ],
   "server": "ia801407.us.archive.org",
-  "uniq": 2026259355,
+  "uniq": 1339597782,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

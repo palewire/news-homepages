@@ -1,5 +1,5 @@
 {
-  "created": 1658233020,
+  "created": 1658279388,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/26/items/spotlightpa-2022",
@@ -898,31 +898,73 @@
       "sha1": "f1693502e94d520f7acabe3df1d3e939c107cfc5"
     },
     {
+      "name": "spotlightpa-2022-07-19T12:58:08.896274-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658249892",
+      "size": "32346",
+      "md5": "f2a837f800328f2c6cad46cfab269ae8",
+      "crc32": "f622fb72",
+      "sha1": "04db663b601daf6477d117434f115fd39ec1a81f",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-07-19T12:58:08.896274-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658249894",
+      "size": "25557",
+      "md5": "d233748727114e17a9d587d011312751",
+      "crc32": "de981ff1",
+      "sha1": "3d202e84f4b546191d5bb6be4443102b7169054c",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-07-19T12:58:08.896274-04:00.jpg",
+      "source": "original",
+      "mtime": "1658249891",
+      "size": "256281",
+      "md5": "4255ff4dcc57588bf1030f916c6900a9",
+      "crc32": "b15278d7",
+      "sha1": "6443470162e4bb73448e3d4462a35224acb718d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spotlightpa-2022-07-19T12:58:08.896274-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spotlightpa-2022-07-19T12:58:08.896274-04:00.jpg",
+      "mtime": "1658250605",
+      "size": "9702",
+      "md5": "c44e3951a6acc0b62b46bdc22da6558f",
+      "crc32": "fdf489de",
+      "sha1": "7e2355ef2a574c4f723ada7ae568632a4659e65f"
+    },
+    {
       "name": "spotlightpa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84811c50ad4b6213a580a2fa3a5ede92385535a3",
-      "mtime": "1658205041",
-      "size": "19599",
-      "md5": "8d2d804495783f0c7ec068cee7b13e4e",
-      "crc32": "f4ebfda8",
-      "sha1": "cd1c5b92d725912973a701a8d1ba46b51d31c107",
+      "btih": "5e25e2dbe05c6b95b3068126663ba426329d3086",
+      "mtime": "1658250610",
+      "size": "20440",
+      "md5": "6f57fbf3fcced33d6555a1b4399445ee",
+      "crc32": "2dced097",
+      "sha1": "e69960f206cff620686d0c0d604f78c49b6ab6eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spotlightpa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7f2066cbbb93e37347b39c6139ab829",
+      "md5": "63a9bf17cbb517bba959b44f2866fcd4",
       "summation": "md5"
     },
     {
       "name": "spotlightpa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658204628",
-      "size": "114688",
-      "md5": "5743c0d2b4f7c706073559489d4f0509",
-      "crc32": "ec744d5a",
-      "sha1": "172652195c802ca9d6ede96d3157b6434c10ebe0",
+      "mtime": "1658249897",
+      "size": "126976",
+      "md5": "4458ab5ec8b59ee5688006b9ccf81b88",
+      "crc32": "7a9d2c75",
+      "sha1": "4561eb1f932b50b6ce5f57dab319f810831c8ecd",
       "format": "Metadata"
     },
     {
@@ -936,9 +978,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 89,
-  "item_last_updated": 1658205041,
-  "item_size": 7391539,
+  "files_count": 93,
+  "item_last_updated": 1658250610,
+  "item_size": 7728554,
   "metadata": {
     "identifier": "spotlightpa-2022",
     "collection": [
@@ -1054,6 +1096,22 @@
       "url": "/news/2022/01/pennsylvania-scholarships-corporate-tax-credit-accountability/"
     },
     {
+      "text": "Events",
+      "url": "/topics/events/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/07/pennsylvania-budget-2022-breakdown-event/"
+    },
+    {
+      "text": "You\u2019re invited! A free virtual panel on the new Pa. budget and what it prioritizes",
+      "url": "/news/2022/07/pennsylvania-budget-2022-breakdown-event/"
+    },
+    {
+      "text": "by\nSpotlight PA Staff",
+      "url": "/news/2022/07/pennsylvania-budget-2022-breakdown-event/"
+    },
+    {
       "text": "Health",
       "url": "/topics/health/"
     },
@@ -1086,22 +1144,6 @@
       "url": "/newsletters/palocal/jul-15-thorny-push-for-pennsylvanias-first-national-park/"
     },
     {
-      "text": "Government",
-      "url": "/topics/government/"
-    },
-    {
-      "text": "",
-      "url": "/statecollege/2022/07/centre-county-transparency-public-records/"
-    },
-    {
-      "text": "Spotlight PA tested government transparency in Centre County. Tell us what to look for in the salary data.",
-      "url": "/statecollege/2022/07/centre-county-transparency-public-records/"
-    },
-    {
-      "text": "by\nEmma Dooling of Spotlight PA",
-      "url": "/statecollege/2022/07/centre-county-transparency-public-records/"
-    },
-    {
       "text": "Donate now\nYes, accountability matters\n",
       "url": "https://checkout.fundjournalism.org/memberform?org_id=spotlightpa&campaign=701f4000000TVuDAAW&theme=&amount=15&installmentPeriod=monthly&utm_source=spotlightpa.org&utm_medium=home&utm_campaign=homepage:midpage"
     },
@@ -1110,24 +1152,24 @@
       "url": "/donate"
     },
     {
-      "text": "1\nHere\u2019s how Pennsylvania plans to spend its billions in federal stimulus money (full list)",
+      "text": "1\nGOP wins 2021 election for the Pennsylvania Supreme Court, plus other results",
+      "url": "/news/2021/11/election-results-2021-pennsylvania-supreme-court-candidates/"
+    },
+    {
+      "text": "2\nHere\u2019s how Pennsylvania plans to spend its billions in federal stimulus money (full list)",
       "url": "/news/2022/07/pa-stimulus-2022-money-gov-wolf-update-budget/"
     },
     {
-      "text": "2\nNew Pa. budget injects $125M into private school tax credit program that lacks basic accountability",
+      "text": "3\nNew Pa. budget injects $125M into private school tax credit program that lacks basic accountability",
       "url": "/news/2022/07/pa-private-school-tax-credit-expansion-transparency/"
-    },
-    {
-      "text": "3\nPennsylvania has a new child care tax credit. Here\u2019s what you need to know.",
-      "url": "/news/2022/07/pennsylvania-child-care-tax-credit-explainer/"
     },
     {
       "text": "4\nPennsylvania is sitting on billions in stimulus money. Lawmakers may actually agree on a plan to spend some of it. ",
       "url": "/news/2022/06/pa-stimulus-money-budget-spending/"
     },
     {
-      "text": "5\nPennsylvania\u2019s state budget is officially late. Here\u2019s what you need to know.",
-      "url": "/news/2022/07/pennsylvania-state-budget-explainer-late/"
+      "text": "5\nPennsylvania has a new child care tax credit. Here\u2019s what you need to know.",
+      "url": "/news/2022/07/pennsylvania-child-care-tax-credit-explainer/"
     },
     {
       "text": "",
@@ -1187,6 +1229,22 @@
     },
     {
       "text": "",
+      "url": "/newsletters/papost/jul-19-federal-push-for-state-red-flag-laws-stalls-in-pennsylvania/"
+    },
+    {
+      "text": "Red-flag resistance, Mastriano's Facebook cleanse, and how a bill becomes law by default",
+      "url": "/newsletters/papost/jul-19-federal-push-for-state-red-flag-laws-stalls-in-pennsylvania/"
+    },
+    {
+      "text": "Plus, Pa. psychiatric hospital called '21st century asylum.'",
+      "url": "/newsletters/papost/jul-19-federal-push-for-state-red-flag-laws-stalls-in-pennsylvania/"
+    },
+    {
+      "text": "PA Post",
+      "url": "/newsletters/papost/"
+    },
+    {
+      "text": "",
       "url": "/newsletters/papost/jul-18-pennsylvania-injects-125m-into-unproven-school-program/"
     },
     {
@@ -1230,6 +1288,14 @@
       "url": "/newsletters/papost/jul-14-gov-wolfs-notable-veto-tally-continues-to-grow/"
     },
     {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
       "text": "PA Post",
       "url": "/newsletters/papost/"
     },
@@ -1244,14 +1310,6 @@
     {
       "text": "Plus, Wolf takes executive action on abortion access.",
       "url": "/newsletters/papost/jul-13-what-you-need-to-know-about-pennsylvanias-newest-tax-credit/"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
     },
     {
       "text": "The Capitol",
@@ -1302,6 +1360,14 @@
       "url": "/news/2022/07/pa-police-hiring-database-loophole-event/"
     },
     {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
       "text": "PA Post",
       "url": "/newsletters/papost/"
     },
@@ -1316,14 +1382,6 @@
     {
       "text": "Plus, anti-abortion measure moves closer to Pa. ballots.",
       "url": "/newsletters/papost/jul-11-whats-inside-pennsylvanias-new-45-2-billion-state-budget/"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
     },
     {
       "text": "Elections",
@@ -1374,6 +1432,14 @@
       "url": "/news/2022/07/pa-budget-education-funding-stimulus-money-plan/"
     },
     {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
       "text": "Health",
       "url": "/topics/health/"
     },
@@ -1388,14 +1454,6 @@
     {
       "text": "by\nStephen Caruso of Spotlight PA",
       "url": "/news/2022/07/pa-abortion-restrictions-constitutional-amendment-voter-id/"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
     },
     {
       "text": "PA Post",
@@ -1446,6 +1504,14 @@
       "url": "/newsletters/papost/jul-7-what-major-court-ruling-means-for-gun-control-in-pennsylvania/"
     },
     {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
       "text": "PA Post",
       "url": "/newsletters/papost/"
     },
@@ -1460,14 +1526,6 @@
     {
       "text": "Plus, the state's GOP nominee for governor is spreading baseless claims about nursing home deaths.\u00a0",
       "url": "/newsletters/papost/jul-6-pennsylvanias-other-looming-abortion-fight/"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
     },
     {
       "text": "PA Post",
@@ -1518,6 +1576,14 @@
       "url": "/news/2022/07/pennsylvania-state-budget-explainer-late/"
     },
     {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
       "text": "PA Post",
       "url": "/newsletters/papost/"
     },
@@ -1532,14 +1598,6 @@
     {
       "text": "Plus, hot-button bills are en route to Gov. Wolf.",
       "url": "/newsletters/papost/jun-30-contested-pitt-funding-is-latest-budget-block/"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
     },
     {
       "text": "The Capitol",
@@ -1590,6 +1648,14 @@
       "url": "/news/2022/06/pennsylvania-police-misconduct-database-act-57-panel/"
     },
     {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
       "text": "Elections",
       "url": "/topics/elections/"
     },
@@ -1604,14 +1670,6 @@
     {
       "text": "by\nDenise Clay-Murray of Votebeat",
       "url": "/news/2022/06/pennsylvania-doug-mastriano-voter-roll-clean/"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
     },
     {
       "text": "PA Post",
@@ -1662,6 +1720,14 @@
       "url": "/news/2022/06/pa-state-police-department-count-discrepancy/"
     },
     {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
+      "text": "",
+      "url": "/newsletters"
+    },
+    {
       "text": "Politics",
       "url": "/topics/politics/"
     },
@@ -1678,14 +1744,6 @@
       "url": "/news/2022/06/roe-v-wade-supreme-court-overturn-pennsylvania/"
     },
     {
-      "text": "",
-      "url": "/newsletters"
-    },
-    {
-      "text": "",
-      "url": "/newsletters"
-    },
-    {
       "text": "PA Post",
       "url": "/newsletters/papost/"
     },
@@ -1700,22 +1758,6 @@
     {
       "text": "Plus, Pa. Republicans' 2020 meddling on display.",
       "url": "/newsletters/papost/jun-24-nursing-homes-say-wolfs-91m-rate-hike-not-enough/"
-    },
-    {
-      "text": "Health",
-      "url": "/topics/health/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/06/pa-nursing-home-staffing-proposal-91-million-wolf/"
-    },
-    {
-      "text": "Wolf pushes $91 million for nursing homes to offset costs of proposed new staffing regulations, but industry says it\u2019s not enough",
-      "url": "/news/2022/06/pa-nursing-home-staffing-proposal-91-million-wolf/"
-    },
-    {
-      "text": "by\nJaxon White of Spotlight PA",
-      "url": "/news/2022/06/pa-nursing-home-staffing-proposal-91-million-wolf/"
     },
     {
       "text": "Try again?",
@@ -1862,7 +1904,7 @@
       "url": "/newsletters"
     }
   ],
-  "uniq": 649008424,
+  "uniq": 2018571073,
   "workable_servers": [
     "ia601503.us.archive.org",
     "ia801503.us.archive.org"

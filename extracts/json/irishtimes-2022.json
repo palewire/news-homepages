@@ -1,5 +1,5 @@
 {
-  "created": 1658198231,
+  "created": 1658278978,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/3/items/irishtimes-2022",
@@ -142,31 +142,73 @@
       "sha1": "ee8d648663932d4a12083a4dc3e65269e2f75fd9"
     },
     {
+      "name": "irishtimes-2022-07-19T15:19:47.677303+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658240390",
+      "size": "54113",
+      "md5": "14b4ce61fad86946ce2239a9cfe8438a",
+      "crc32": "973225d5",
+      "sha1": "a9a326026159e08a49710c9039e501714f314075",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-07-19T15:19:47.677303+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658240395",
+      "size": "42513",
+      "md5": "38e863665c991462fdf69156fd7381d5",
+      "crc32": "43d621a7",
+      "sha1": "398ff992dd0a8a6be42edf93010434c340c4279c",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-07-19T15:19:47.677303+01:00.jpg",
+      "source": "original",
+      "mtime": "1658240388",
+      "size": "246913",
+      "md5": "e20d5e8187875b7806eceff0e8ca5235",
+      "crc32": "accef470",
+      "sha1": "1c2683e3b36a317a19673cf60ffa9d640993252e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishtimes-2022-07-19T15:19:47.677303+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishtimes-2022-07-19T15:19:47.677303+01:00.jpg",
+      "mtime": "1658243268",
+      "size": "8924",
+      "md5": "1d058b418829759a6180a022546e1b33",
+      "crc32": "7486f480",
+      "sha1": "db4308629b0127134690cb2c0e95f1ee2bcdc74b"
+    },
+    {
       "name": "irishtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "590538c343532c394eeea2ff49a953d6e720ac33",
-      "mtime": "1658198212",
-      "size": "4192",
-      "md5": "f793a7a5c0bc83d0d3f587feae84ee66",
-      "crc32": "45ad0648",
-      "sha1": "f557cd1ccd518e4aea1bad76186ed4b6f8b41e0f",
+      "btih": "cc9795a8a8f87d1986fec3774beef3d9ff33badc",
+      "mtime": "1658243281",
+      "size": "5029",
+      "md5": "9077e41ebdb6130557e65932e40b6feb",
+      "crc32": "e16a0adf",
+      "sha1": "009cd3b4cd0c92bf658ec5532c3794969540187b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26e9cb0c31e8101d5dc52721d055ee2a",
+      "md5": "dc777a6a5ffe405bbc86a33f5b0f18d8",
       "summation": "md5"
     },
     {
       "name": "irishtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658197614",
-      "size": "32768",
-      "md5": "3038c8ab1b472d93237c8896a1c896e6",
-      "crc32": "6db48c11",
-      "sha1": "8f2bb265e0b84ad858f6be004537fb66cf1544b5",
+      "mtime": "1658240399",
+      "size": "36864",
+      "md5": "c5ebd36156e8635c653a2f649975da18",
+      "crc32": "e890d4b6",
+      "sha1": "ada19a83c5c3117765995dee93b86cd9a9e6083f",
       "format": "Metadata"
     },
     {
@@ -180,9 +222,1475 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 17,
-  "item_last_updated": 1658198212,
-  "item_size": 1145220,
+  "files_count": 21,
+  "irishtimes-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "Subscriber Only",
+      "url": "/subscriber-only/"
+    },
+    {
+      "text": "Help Centre(Opens in new window)",
+      "url": "https://help.irishtimes.com/s/"
+    },
+    {
+      "text": "Crosswords & Puzzles",
+      "url": "/crosswords-puzzles/"
+    },
+    {
+      "text": "Climate Crisis",
+      "url": "/environment/climate-crisis/"
+    },
+    {
+      "text": "War in Europe",
+      "url": "/tags/ukraine-crisis/"
+    },
+    {
+      "text": "Covid-19",
+      "url": "/health/covid-19/"
+    },
+    {
+      "text": "Dublin",
+      "url": "/ireland/dublin/"
+    },
+    {
+      "text": "Your Money",
+      "url": "/your-money/"
+    },
+    {
+      "text": "Best Place to Holiday",
+      "url": "/tags/best-place-to-holiday/"
+    },
+    {
+      "text": "Newsletters",
+      "url": "/newsletters/"
+    },
+    {
+      "text": "Listen",
+      "url": "/listen/"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "Latest",
+      "url": "/latest/"
+    },
+    {
+      "text": "Subscriber Only",
+      "url": "/subscriber-only/"
+    },
+    {
+      "text": "Ireland",
+      "url": "/ireland/"
+    },
+    {
+      "text": "Dublin",
+      "url": "/ireland/dublin/"
+    },
+    {
+      "text": "Education",
+      "url": "/ireland/education/"
+    },
+    {
+      "text": "Housing & Planning",
+      "url": "/ireland/housing-planning/"
+    },
+    {
+      "text": "Social Affairs",
+      "url": "/ireland/social-affairs/"
+    },
+    {
+      "text": "Politics",
+      "url": "/politics/"
+    },
+    {
+      "text": "Oireachtas",
+      "url": "/politics/oireachtas/"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Editorials",
+      "url": "/opinion/editorials/"
+    },
+    {
+      "text": "An Irish Diary",
+      "url": "/opinion/an-irish-diary/"
+    },
+    {
+      "text": "Letters",
+      "url": "/opinion/letters/"
+    },
+    {
+      "text": "Cartoon",
+      "url": "/opinion/cartoon/"
+    },
+    {
+      "text": "Business",
+      "url": "/business/"
+    },
+    {
+      "text": "Economy",
+      "url": "/business/economy/"
+    },
+    {
+      "text": "Farming & Food",
+      "url": "/business/farming-food/"
+    },
+    {
+      "text": "Financial Services",
+      "url": "/business/financial-services/"
+    },
+    {
+      "text": "Innovation",
+      "url": "/business/innovation/"
+    },
+    {
+      "text": "Markets",
+      "url": "/business/markets/"
+    },
+    {
+      "text": "Work",
+      "url": "/business/work/"
+    },
+    {
+      "text": "World",
+      "url": "/world/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "UK",
+      "url": "/world/uk/"
+    },
+    {
+      "text": "US",
+      "url": "/world/us/"
+    },
+    {
+      "text": "Canada",
+      "url": "/world/canada/"
+    },
+    {
+      "text": "Australia",
+      "url": "/world/australia/"
+    },
+    {
+      "text": "Africa",
+      "url": "/world/africa/"
+    },
+    {
+      "text": "Americas",
+      "url": "/world/americas/"
+    },
+    {
+      "text": "Asia-Pacific",
+      "url": "/world/asia-pacific/"
+    },
+    {
+      "text": "Middle East",
+      "url": "/world/middle-east/"
+    },
+    {
+      "text": "Sport",
+      "url": "/sport/"
+    },
+    {
+      "text": "Gaelic Games",
+      "url": "/sport/gaelic-games/"
+    },
+    {
+      "text": "Rugby",
+      "url": "/sport/rugby/"
+    },
+    {
+      "text": "Soccer",
+      "url": "/sport/soccer/"
+    },
+    {
+      "text": "Golf",
+      "url": "/sport/golf/"
+    },
+    {
+      "text": "Racing",
+      "url": "/sport/racing/"
+    },
+    {
+      "text": "Athletics",
+      "url": "/sport/athletics/"
+    },
+    {
+      "text": "Boxing",
+      "url": "/sport/boxing/"
+    },
+    {
+      "text": "Cycling",
+      "url": "/sport/cycling/"
+    },
+    {
+      "text": "Hockey",
+      "url": "/sport/hockey/"
+    },
+    {
+      "text": "Tennis",
+      "url": "/sport/tennis/"
+    },
+    {
+      "text": "Your Money",
+      "url": "/your-money/"
+    },
+    {
+      "text": "Pricewatch",
+      "url": "/tags/pricewatch/"
+    },
+    {
+      "text": "Crime & Law",
+      "url": "/crime-law/"
+    },
+    {
+      "text": "Courts",
+      "url": "/crime-law/courts/"
+    },
+    {
+      "text": "Property",
+      "url": "/property/"
+    },
+    {
+      "text": "Residential",
+      "url": "/property/residential/"
+    },
+    {
+      "text": "Commercial Property",
+      "url": "/property/commercial-property/"
+    },
+    {
+      "text": "Food",
+      "url": "/food/"
+    },
+    {
+      "text": "Drink",
+      "url": "/food/drink/"
+    },
+    {
+      "text": "Recipes",
+      "url": "/food/recipes/"
+    },
+    {
+      "text": "Restaurants",
+      "url": "/food/restaurants/"
+    },
+    {
+      "text": "Health",
+      "url": "/health/"
+    },
+    {
+      "text": "Your Family",
+      "url": "/health/your-family/"
+    },
+    {
+      "text": "Your Fitness",
+      "url": "/health/your-fitness/"
+    },
+    {
+      "text": "Your Wellness",
+      "url": "/health/your-wellness/"
+    },
+    {
+      "text": "Life & Style",
+      "url": "/life-style/"
+    },
+    {
+      "text": "Fashion",
+      "url": "/life-style/fashion/"
+    },
+    {
+      "text": "Fine Art & Antiques",
+      "url": "/life-style/fine-art-antiques/"
+    },
+    {
+      "text": "Gardening",
+      "url": "/life-style/gardening/"
+    },
+    {
+      "text": "People",
+      "url": "/life-style/people/"
+    },
+    {
+      "text": "Travel",
+      "url": "/life-style/travel/"
+    },
+    {
+      "text": "Culture",
+      "url": "/culture/"
+    },
+    {
+      "text": "Art",
+      "url": "/culture/art/"
+    },
+    {
+      "text": "Books",
+      "url": "/culture/books/"
+    },
+    {
+      "text": "Film",
+      "url": "/culture/film/"
+    },
+    {
+      "text": "Music",
+      "url": "/culture/music/"
+    },
+    {
+      "text": "Stage",
+      "url": "/culture/stage/"
+    },
+    {
+      "text": "TV & Radio",
+      "url": "/culture/tv-radio/"
+    },
+    {
+      "text": "Environment",
+      "url": "/environment/"
+    },
+    {
+      "text": "Climate Crisis",
+      "url": "/environment/climate-crisis/"
+    },
+    {
+      "text": "Technology",
+      "url": "/technology/"
+    },
+    {
+      "text": "Big Tech",
+      "url": "/technology/big-tech/"
+    },
+    {
+      "text": "Consumer Tech",
+      "url": "/technology/consumer-tech/"
+    },
+    {
+      "text": "Data & Security",
+      "url": "/technology/data-security/"
+    },
+    {
+      "text": "Gaming",
+      "url": "/technology/gaming/"
+    },
+    {
+      "text": "Science",
+      "url": "/science/"
+    },
+    {
+      "text": "Space",
+      "url": "/science/space/"
+    },
+    {
+      "text": "Media",
+      "url": "/media/"
+    },
+    {
+      "text": "Abroad",
+      "url": "/abroad/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "/obituaries/"
+    },
+    {
+      "text": "Transport",
+      "url": "/transport/"
+    },
+    {
+      "text": "Motors",
+      "url": "/motors/"
+    },
+    {
+      "text": "Car Reviews",
+      "url": "/motors/car-reviews/"
+    },
+    {
+      "text": "Listen",
+      "url": "/listen/"
+    },
+    {
+      "text": "Podcasts",
+      "url": "/podcasts/"
+    },
+    {
+      "text": "GUBU",
+      "url": "/podcasts/gubu/"
+    },
+    {
+      "text": "Borderlines",
+      "url": "/podcasts/borderlines/"
+    },
+    {
+      "text": "Inside Politics",
+      "url": "/podcasts/inside-politics/"
+    },
+    {
+      "text": "In the News",
+      "url": "/podcasts/in-the-news/"
+    },
+    {
+      "text": "The Women's Podcast",
+      "url": "/podcasts/the-womens-podcast/"
+    },
+    {
+      "text": "Inside Business",
+      "url": "/podcasts/inside-business/"
+    },
+    {
+      "text": "Ross O'Carroll-Kelly",
+      "url": "/podcasts/ross-ocarroll-kelly/"
+    },
+    {
+      "text": "Atlantic",
+      "url": "/podcasts/atlantic/"
+    },
+    {
+      "text": "Video",
+      "url": "/video/"
+    },
+    {
+      "text": "Photography",
+      "url": "/photography/"
+    },
+    {
+      "text": "History",
+      "url": "/history/"
+    },
+    {
+      "text": "Century",
+      "url": "/history/century/"
+    },
+    {
+      "text": "Tuarasc\u00e1il",
+      "url": "/tuarascail/"
+    },
+    {
+      "text": "Student Hub",
+      "url": "/student-hub/"
+    },
+    {
+      "text": "Offbeat",
+      "url": "/offbeat/"
+    },
+    {
+      "text": "Crosswords & Puzzles",
+      "url": "/crosswords-puzzles/"
+    },
+    {
+      "text": "Simplex",
+      "url": "/crosswords-puzzles/simplex/"
+    },
+    {
+      "text": "Crosaire",
+      "url": "/crosswords-puzzles/crosaire/"
+    },
+    {
+      "text": "Sudoku",
+      "url": "/crosswords-puzzles/sudoku/"
+    },
+    {
+      "text": "Family Notices(Opens in new window)",
+      "url": "https://notices.irishtimes.com/"
+    },
+    {
+      "text": "Sponsored",
+      "url": "/sponsored/"
+    },
+    {
+      "text": "Advertising Feature",
+      "url": "/advertising-feature/"
+    },
+    {
+      "text": "Special Reports",
+      "url": "/special-reports/"
+    },
+    {
+      "text": "Competitions",
+      "url": "/competitions/"
+    },
+    {
+      "text": "Weather Forecast",
+      "url": "/weather/"
+    },
+    {
+      "text": "Our mission ",
+      "url": "/about-us/the-irish-times-trust/"
+    },
+    {
+      "text": "Courts",
+      "url": "/crime-law/courts/"
+    },
+    {
+      "text": "\u2018We want to see change,\u2019 parents say as hospital apologises after baby\u2019s death",
+      "url": "/crime-law/courts/2022/07/19/we-want-to-see-change-parents-say-as-hospital-apologises-after-babys-death/"
+    },
+    {
+      "text": "Our Lady of Lourdes Hospital apologises to Baby Danny Ryan\u2019s parents for \u2018deficits in care\u2019",
+      "url": "/crime-law/courts/2022/07/19/we-want-to-see-change-parents-say-as-hospital-apologises-after-babys-death/"
+    },
+    {
+      "text": "Ireland",
+      "url": "/ireland/"
+    },
+    {
+      "text": "Thunderstorm warning for seven counties amid high-temperature warning for Leinster",
+      "url": "/ireland/2022/07/19/thunderstorm-warning-for-seven-counties-as-high-temperature-warning-remains-in-place-for-leinster/"
+    },
+    {
+      "text": "Heavy showers and possibility of local flooding in Carlow, Kilkenny, Wexford, Wicklow, Cork, Tipperary and Waterford",
+      "url": "/ireland/2022/07/19/thunderstorm-warning-for-seven-counties-as-high-temperature-warning-remains-in-place-for-leinster/"
+    },
+    {
+      "text": "Europe must act now or risk tougher Covid measures later \u2014 WHO ",
+      "url": "/health/2022/07/19/europe-must-act-now-or-risk-tougher-covid-measures-later-who/"
+    },
+    {
+      "text": "WHO Regional Director for Europe urges countries to take action now to avoid overwhelming health systems in autumn and winter",
+      "url": "/health/2022/07/19/europe-must-act-now-or-risk-tougher-covid-measures-later-who/"
+    },
+    {
+      "text": "",
+      "url": "/business/2022/07/19/irish-passport-ranked-sixth-most-powerful-globally/"
+    },
+    {
+      "text": "Irish passport ranked joint sixth most powerful globally",
+      "url": "/business/2022/07/19/irish-passport-ranked-sixth-most-powerful-globally/"
+    },
+    {
+      "text": "",
+      "url": "/opinion/2022/07/19/fintan-otoole-the-celtic-tiger-lives-on-in-the-tory-partys-bizarre-dreams/"
+    },
+    {
+      "text": "Fintan O\u2019Toole: Celtic Tiger lives on in Tory party\u2019s bizarre dreams",
+      "url": "/opinion/2022/07/19/fintan-otoole-the-celtic-tiger-lives-on-in-the-tory-partys-bizarre-dreams/"
+    },
+    {
+      "text": "\u2018I am entering my 60s and I just wish I did not feel so alone\u2019",
+      "url": "/health/your-wellness/2022/07/19/i-am-entering-my-60s-and-i-just-wish-i-did-not-feel-so-alone/"
+    },
+    {
+      "text": "",
+      "url": "/health/your-wellness/2022/07/19/i-am-entering-my-60s-and-i-just-wish-i-did-not-feel-so-alone/"
+    },
+    {
+      "text": "Rugby",
+      "url": "/sport/rugby/"
+    },
+    {
+      "text": "Player-by-player - How Ireland\u2019s history makers fared in New Zealand",
+      "url": "/sport/rugby/2022/07/19/player-by-player-how-irelands-history-makers-fared-in-new-zealand/"
+    },
+    {
+      "text": "",
+      "url": "/sport/rugby/2022/07/19/player-by-player-how-irelands-history-makers-fared-in-new-zealand/"
+    },
+    {
+      "text": "Film",
+      "url": "/culture/film/"
+    },
+    {
+      "text": "G\u00e9rard Depardieu, \u2018not fully cancelled\u2019, is \u2018France incarnate\u2019",
+      "url": "/culture/film/2022/07/19/gerard-depardieu-not-fully-cancelled-is-france-incarnate/"
+    },
+    {
+      "text": "",
+      "url": "/culture/film/2022/07/19/gerard-depardieu-not-fully-cancelled-is-france-incarnate/"
+    },
+    {
+      "text": "Owen Doyle: Ryan Jones diagnosis provides rugby with yet another existential crisis",
+      "url": "/sport/rugby/2022/07/19/owen-doyle-ryan-jones-dementia-cte-ireland-tour-of-new-zealand-2022-series-win/"
+    },
+    {
+      "text": "AIB to pull cash services from 70 more branches amid shift to digital banking ",
+      "url": "/business/financial-services/2022/07/19/aib-to-pull-cash-services-from-70-more-branches-amid-shift-to-digital-banking/"
+    },
+    {
+      "text": "Europe heatwave: Temperature hits 40 degrees in UK for first time ",
+      "url": "/world/europe/2022/07/19/european-heatwave-latest/"
+    },
+    {
+      "text": "October date set for Cab case against Kinahan and Kavanagh over Dublin property",
+      "url": "/crime-law/courts/2022/07/19/october-date-set-for-cab-case-against-kinahan-and-kavanagh-over-dublin-property/"
+    },
+    {
+      "text": "Dublin\u2019s South William Street to be fully pedestrianised",
+      "url": "/ireland/dublin/2022/07/19/dublins-south-william-street-to-be-fully-pedestrianised/"
+    },
+    {
+      "text": "Is Armie Hammer really flogging timeshares in the Caymans?",
+      "url": "/culture/film/2022/07/19/is-armie-hammer-really-selling-timeshares-in-the-caymans/"
+    },
+    {
+      "text": "In the News",
+      "url": "/podcasts/in-the-news/"
+    },
+    {
+      "text": "Will Mo Farah\u2019s story help other victims of human trafficking?",
+      "url": "/podcasts/in-the-news/will-mo-farahs-story-help-other-victims-of-human-trafficking/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/in-the-news/will-mo-farahs-story-help-other-victims-of-human-trafficking/"
+    },
+    {
+      "text": "OPINION",
+      "url": "/opinion/"
+    },
+    {
+      "text": "Russian public buys into Putin\u2019s propaganda and supports his war",
+      "url": "/opinion/2022/07/19/russian-public-buys-into-putins-propaganda-and-supports-his-war/"
+    },
+    {
+      "text": "Russians must start to reimagine what it means to be Russian and take their damaged identity into their own hands",
+      "url": "/opinion/2022/07/19/russian-public-buys-into-putins-propaganda-and-supports-his-war/"
+    },
+    {
+      "text": "",
+      "url": "/opinion/2022/07/19/fintan-otoole-the-celtic-tiger-lives-on-in-the-tory-partys-bizarre-dreams/"
+    },
+    {
+      "text": "Fintan O\u2019Toole: Celtic Tiger lives on in Tory party\u2019s bizarre dreams",
+      "url": "/opinion/2022/07/19/fintan-otoole-the-celtic-tiger-lives-on-in-the-tory-partys-bizarre-dreams/"
+    },
+    {
+      "text": "Cartoon",
+      "url": "/opinion/cartoon/"
+    },
+    {
+      "text": "Martyn Turner",
+      "url": "/opinion/cartoon/2022/07/19/martyn-turner/"
+    },
+    {
+      "text": "",
+      "url": "/opinion/cartoon/2022/07/19/martyn-turner/"
+    },
+    {
+      "text": "If we are not prepared to defend ourselves we should outsource our security",
+      "url": "/opinion/2022/07/19/if-we-are-not-prepared-to-defend-ourselves-we-should-outsource-our-security/"
+    },
+    {
+      "text": "",
+      "url": "/opinion/2022/07/18/abortion-just-one-element-of-us-white-christian-nationalist-agenda/"
+    },
+    {
+      "text": "Abortion just one element of US White Christian Nationalist agenda",
+      "url": "/opinion/2022/07/18/abortion-just-one-element-of-us-white-christian-nationalist-agenda/"
+    },
+    {
+      "text": "HIGHLIGHTS",
+      "url": "/highlights/"
+    },
+    {
+      "text": "",
+      "url": "/sport/gaelic-games/2022/07/18/kevin-mcstay-a-resurgent-galway-are-never-to-be-treated-lightly/"
+    },
+    {
+      "text": "Kevin McStay: A resurgent Galway are never to be treated lightly",
+      "url": "/sport/gaelic-games/2022/07/18/kevin-mcstay-a-resurgent-galway-are-never-to-be-treated-lightly/"
+    },
+    {
+      "text": "",
+      "url": "/health/your-wellness/2022/07/19/keeping-mum-im-sorry-i-forgot-you-were-my-daughter/"
+    },
+    {
+      "text": "Dementia Diary: \u2018I\u2019m sorry. I forgot you were my daughter\u2019",
+      "url": "/health/your-wellness/2022/07/19/keeping-mum-im-sorry-i-forgot-you-were-my-daughter/"
+    },
+    {
+      "text": "",
+      "url": "/world/europe/2022/07/19/italys-hard-right-parties-ready-to-fill-void-if-draghi-quits/"
+    },
+    {
+      "text": "Italy\u2019s hard-right parties ready to fill void if Draghi quits",
+      "url": "/world/europe/2022/07/19/italys-hard-right-parties-ready-to-fill-void-if-draghi-quits/"
+    },
+    {
+      "text": "",
+      "url": "/life-style/people/2022/07/19/im-one-of-you-now-maybe-not-in-looks-but-in-thinking-this-is-my-home/"
+    },
+    {
+      "text": "\u2018I remember Irish tap water tasted so sweet \u2014 and the same with the potatoes: they were really tasty\u2019",
+      "url": "/life-style/people/2022/07/19/im-one-of-you-now-maybe-not-in-looks-but-in-thinking-this-is-my-home/"
+    },
+    {
+      "text": "PODCASTS",
+      "url": "/podcasts/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/in-the-news/will-mo-farahs-story-help-other-victims-of-human-trafficking/"
+    },
+    {
+      "text": "In the News",
+      "url": "/podcasts/in-the-news/"
+    },
+    {
+      "text": "Will Mo Farah\u2019s story help other victims of human trafficking?",
+      "url": "/podcasts/in-the-news/will-mo-farahs-story-help-other-victims-of-human-trafficking/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/inside-politics/poll-electorate-sends-mixed-messages-on-cost-of-living-refugees-and-abortion-restrictions/"
+    },
+    {
+      "text": "Inside Politics",
+      "url": "/podcasts/inside-politics/"
+    },
+    {
+      "text": "Poll: Electorate sends mixed messages on cost of living, refugees and abortion restrictions",
+      "url": "/podcasts/inside-politics/poll-electorate-sends-mixed-messages-on-cost-of-living-refugees-and-abortion-restrictions/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/ross-ocarroll-kelly/ross-ocarroll-kelly-i-wonder-sometimes-are-these-kids-definitely-mine/"
+    },
+    {
+      "text": "Ross O'Carroll-Kelly",
+      "url": "/podcasts/ross-ocarroll-kelly/"
+    },
+    {
+      "text": "Ross O\u2019Carroll-Kelly: \u2018I wonder sometimes are these kids definitely mine\u2019",
+      "url": "/podcasts/ross-ocarroll-kelly/ross-ocarroll-kelly-i-wonder-sometimes-are-these-kids-definitely-mine/"
+    },
+    {
+      "text": "",
+      "url": "/podcasts/inside-politics/confidence-vote-a-damp-squib-for-sinn-fein/"
+    },
+    {
+      "text": "Inside Politics",
+      "url": "/podcasts/inside-politics/"
+    },
+    {
+      "text": "Confidence vote a damp squib for Sinn F\u00e9in",
+      "url": "/podcasts/inside-politics/confidence-vote-a-damp-squib-for-sinn-fein/"
+    },
+    {
+      "text": "PHOTOGRAPHY",
+      "url": "/photography/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/gallery/photography/2022/07/18/images-of-the-day/"
+    },
+    {
+      "text": "Gallery",
+      "url": "/gallery/photography/2022/07/17/images-of-the-weekend/"
+    },
+    {
+      "text": "1State to suspend visa-free travel for refugees from 20 \u2018safe\u2019 countries ",
+      "url": "/ireland/2022/07/19/state-to-suspend-visa-free-travel-for-refugees-from-20-safe-countries/"
+    },
+    {
+      "text": "2Thunderstorm warning for seven counties amid high-temperature warning for Leinster",
+      "url": "/ireland/2022/07/19/thunderstorm-warning-for-seven-counties-as-high-temperature-warning-remains-in-place-for-leinster/"
+    },
+    {
+      "text": "3Dublin\u2019s South William Street to be fully pedestrianised",
+      "url": "/ireland/dublin/2022/07/19/dublins-south-william-street-to-be-fully-pedestrianised/"
+    },
+    {
+      "text": "4Irish passport ranked joint sixth most powerful globally",
+      "url": "/business/2022/07/19/irish-passport-ranked-sixth-most-powerful-globally/"
+    },
+    {
+      "text": "5Aer Lingus loses San Francisco flight due to staff illness",
+      "url": "/business/2022/07/18/aer-lingus-loses-san-francisco-flight-to-staff-illness/"
+    },
+    {
+      "text": "VIDEOS",
+      "url": "/video/"
+    },
+    {
+      "text": "Video",
+      "url": "/video/culture/art/2022/07/14/115-original-works-showcased-in-new-dublin-exhibition/"
+    },
+    {
+      "text": "115 original works showcased in new Dublin exhibition",
+      "url": "/video/culture/art/2022/07/14/115-original-works-showcased-in-new-dublin-exhibition/"
+    },
+    {
+      "text": "Enda O'Dowd",
+      "url": "/author/enda-odowd/"
+    },
+    {
+      "text": "Video",
+      "url": "/video/world/us/2022/07/15/biden-history-of-irish-catholics-not-fundamentally-unlike-the-palestinian-people/"
+    },
+    {
+      "text": "Biden: History of Irish Catholics 'not fundamentally unlike the Palestinian people'",
+      "url": "/video/world/us/2022/07/15/biden-history-of-irish-catholics-not-fundamentally-unlike-the-palestinian-people/"
+    },
+    {
+      "text": "POLITICS",
+      "url": "/politics/"
+    },
+    {
+      "text": "Sinn F\u00e9in\u2019s US organisation raises \u20ac603,000 in donations",
+      "url": "/politics/2022/07/19/sinn-feins-us-arm-raises-612000-in-donations/"
+    },
+    {
+      "text": "Simon Carswell",
+      "url": "/author/simon-carswell/"
+    },
+    {
+      "text": "",
+      "url": "/politics/2022/07/19/bertie-ahern-pragmatic-dealmaker-with-ruthless-streak-british-view-of-taoiseach-in-1998/"
+    },
+    {
+      "text": "Bertie Ahern: pragmatic dealmaker with ruthless streak - British view of taoiseach in 1998",
+      "url": "/politics/2022/07/19/bertie-ahern-pragmatic-dealmaker-with-ruthless-streak-british-view-of-taoiseach-in-1998/"
+    },
+    {
+      "text": "",
+      "url": "/politics/2022/07/17/taoiseach-brushes-aside-questions-on-fianna-fail-leadership/"
+    },
+    {
+      "text": "Taoiseach brushes aside questions on Fianna F\u00e1il leadership",
+      "url": "/politics/2022/07/17/taoiseach-brushes-aside-questions-on-fianna-fail-leadership/"
+    },
+    {
+      "text": "Pat Leahy",
+      "url": "/author/pat-leahy/"
+    },
+    {
+      "text": "Pat Leahy: Government has D\u00e1il majority to tough it out but does it have will?",
+      "url": "/opinion/2022/07/16/pat-leahy-government-has-dail-majority-to-tough-it-out-but-does-it-have-will/"
+    },
+    {
+      "text": "",
+      "url": "/politics/2022/07/15/concerns-at-irelands-ability-to-meet-its-obligations-to-refugees/"
+    },
+    {
+      "text": "Irish Times poll: Most voters believe it important to help those at risk but are concerned about capacity",
+      "url": "/politics/2022/07/15/concerns-at-irelands-ability-to-meet-its-obligations-to-refugees/"
+    },
+    {
+      "text": "",
+      "url": "/politics/2022/07/17/ryan-confident-agriculture-emissions-deal-will-be-struck/"
+    },
+    {
+      "text": "Ryan confident agriculture emissions deal will be struck",
+      "url": "/politics/2022/07/17/ryan-confident-agriculture-emissions-deal-will-be-struck/"
+    },
+    {
+      "text": "",
+      "url": "/politics/2022/07/16/state-has-role-to-play-in-fixing-construction-defects-but-so-does-industry-mcgrath-says/"
+    },
+    {
+      "text": "State has role to play in fixing construction defects, but so does industry, McGrath says",
+      "url": "/politics/2022/07/16/state-has-role-to-play-in-fixing-construction-defects-but-so-does-industry-mcgrath-says/"
+    },
+    {
+      "text": "SUBSCRIBER ONLY",
+      "url": "/subscriber-only/"
+    },
+    {
+      "text": "",
+      "url": "/health/your-wellness/2022/07/19/i-am-entering-my-60s-and-i-just-wish-i-did-not-feel-so-alone/"
+    },
+    {
+      "text": "\u2018I am entering my 60s and I just wish I did not feel so alone\u2019",
+      "url": "/health/your-wellness/2022/07/19/i-am-entering-my-60s-and-i-just-wish-i-did-not-feel-so-alone/"
+    },
+    {
+      "text": "",
+      "url": "/culture/books/review/2022/07/19/piety-and-privilege-catholic-secondary-schooling-in-ireland-and-the-theocratic-state/"
+    },
+    {
+      "text": "Piety and Privilege: The forces that have shaped secondary schooling in Ireland",
+      "url": "/culture/books/review/2022/07/19/piety-and-privilege-catholic-secondary-schooling-in-ireland-and-the-theocratic-state/"
+    },
+    {
+      "text": "",
+      "url": "/your-money/2022/07/19/is-it-time-for-annuities-to-make-a-come-back/"
+    },
+    {
+      "text": "Is it time for annuities to make a come-back?",
+      "url": "/your-money/2022/07/19/is-it-time-for-annuities-to-make-a-come-back/"
+    },
+    {
+      "text": "",
+      "url": "/sport/rugby/2022/07/19/gerry-thornley-new-zealand-tour-shows-foolishness-of-scrapping-summer-series-template/"
+    },
+    {
+      "text": "Gerry Thornley: New Zealand tour shows foolishness of scrapping summer series template",
+      "url": "/sport/rugby/2022/07/19/gerry-thornley-new-zealand-tour-shows-foolishness-of-scrapping-summer-series-template/"
+    },
+    {
+      "text": "WORLD",
+      "url": "/world/"
+    },
+    {
+      "text": "Europe heatwave: Temperature hits 40 degrees in UK for first time ",
+      "url": "/world/europe/2022/07/19/european-heatwave-latest/"
+    },
+    {
+      "text": "Wildfires in France, Portugal, Spain and Greece force thousands of people to evacuate",
+      "url": "/world/europe/2022/07/19/european-heatwave-latest/"
+    },
+    {
+      "text": "Russia strikes cities across Ukraine, gas supplies in focus",
+      "url": "/world/europe/2022/07/19/zelenskiy-suspends-28-more-security-officials-amid-concerns-of-collaboration/"
+    },
+    {
+      "text": "Zelenskiy suspends 28 more security officials amid concerns of collaboration, Putin travels to Iran to meet Ayatollah Khamenei and Turkey\u2019s Erdogan",
+      "url": "/world/europe/2022/07/19/zelenskiy-suspends-28-more-security-officials-amid-concerns-of-collaboration/"
+    },
+    {
+      "text": "",
+      "url": "/world/europe/2022/07/19/italys-hard-right-parties-ready-to-fill-void-if-draghi-quits/"
+    },
+    {
+      "text": "Europe",
+      "url": "/world/europe/"
+    },
+    {
+      "text": "Italy\u2019s hard-right parties ready to fill void if Draghi quits",
+      "url": "/world/europe/2022/07/19/italys-hard-right-parties-ready-to-fill-void-if-draghi-quits/"
+    },
+    {
+      "text": "",
+      "url": "/world/australia/2022/07/19/australian-animals-at-dire-risk-with-environment-in-shocking-decline/"
+    },
+    {
+      "text": "Australian animals at dire risk with environment in \u2018shocking\u2019 decline",
+      "url": "/world/australia/2022/07/19/australian-animals-at-dire-risk-with-environment-in-shocking-decline/"
+    },
+    {
+      "text": "Country has lost more mammal species than any other, says five-year report card",
+      "url": "/world/australia/2022/07/19/australian-animals-at-dire-risk-with-environment-in-shocking-decline/"
+    },
+    {
+      "text": "",
+      "url": "/world/africa/2022/07/19/tensions-spread-in-sudan-as-tribal-clashes-rage-on-and-death-toll-rises-to-64/"
+    },
+    {
+      "text": "Tensions spread in Sudan as tribal clashes rage on and death toll rises to 64",
+      "url": "/world/africa/2022/07/19/tensions-spread-in-sudan-as-tribal-clashes-rage-on-and-death-toll-rises-to-64/"
+    },
+    {
+      "text": "Curfew imposed in two major towns of Blue Nile State and security forces deployed following fighting between Hausa and Funj tribes",
+      "url": "/world/africa/2022/07/19/tensions-spread-in-sudan-as-tribal-clashes-rage-on-and-death-toll-rises-to-64/"
+    },
+    {
+      "text": "BUSINESS",
+      "url": "/business/"
+    },
+    {
+      "text": "Twitter\u2019s request to fast-track Elon Musk lawsuit gets court hearing",
+      "url": "/business/2022/07/19/twitters-request-to-fast-track-elon-musk-lawsuit-gets-court-hearing/"
+    },
+    {
+      "text": "",
+      "url": "/business/2022/07/19/record-672m-spent-on-research-funding-in-2021/"
+    },
+    {
+      "text": "Record \u20ac672m spent on research funding in 2021",
+      "url": "/business/2022/07/19/record-672m-spent-on-research-funding-in-2021/"
+    },
+    {
+      "text": "",
+      "url": "/business/2022/07/19/france-to-pay-97bn-for-nationalisation-of-edf/"
+    },
+    {
+      "text": "France to pay \u20ac9.7bn for nationalisation of EDF",
+      "url": "/business/2022/07/19/france-to-pay-97bn-for-nationalisation-of-edf/"
+    },
+    {
+      "text": "",
+      "url": "/your-money/2022/07/19/will-it-pay-to-switch-mortgages-and-lock-in-to-a-long-term-fixed-rate/"
+    },
+    {
+      "text": "Your Money",
+      "url": "/your-money/"
+    },
+    {
+      "text": "Will it pay to switch mortgages and lock in to a long-term fixed rate?",
+      "url": "/your-money/2022/07/19/will-it-pay-to-switch-mortgages-and-lock-in-to-a-long-term-fixed-rate/"
+    },
+    {
+      "text": "Fiona Reddan",
+      "url": "/author/fiona-reddan/"
+    },
+    {
+      "text": "Is it time for annuities to make a come-back?",
+      "url": "/your-money/2022/07/19/is-it-time-for-annuities-to-make-a-come-back/"
+    },
+    {
+      "text": "Laura Slattery",
+      "url": "/author/laura-slattery/"
+    },
+    {
+      "text": "What would a single brand for Irish public media content look like?",
+      "url": "/media/2022/07/18/what-would-a-single-brand-for-irish-public-media-content-look-like/"
+    },
+    {
+      "text": "SPORT",
+      "url": "/sport/"
+    },
+    {
+      "text": "Owen Doyle: Ryan Jones diagnosis provides rugby with yet another existential crisis",
+      "url": "/sport/rugby/2022/07/19/owen-doyle-ryan-jones-dementia-cte-ireland-tour-of-new-zealand-2022-series-win/"
+    },
+    {
+      "text": "Owen Doyle",
+      "url": "/author/owen-doyle/"
+    },
+    {
+      "text": "",
+      "url": "/sport/rugby/2022/07/19/andrew-porter-no-ban-citing-brodie-retallick-ireland-tour-of-new-zealand-2022/"
+    },
+    {
+      "text": "Andrew Porter avoids ban for high shot on Brodie Retallick ",
+      "url": "/sport/rugby/2022/07/19/andrew-porter-no-ban-citing-brodie-retallick-ireland-tour-of-new-zealand-2022/"
+    },
+    {
+      "text": "",
+      "url": "/sport/rugby/2022/07/19/player-by-player-how-irelands-history-makers-fared-in-new-zealand/"
+    },
+    {
+      "text": "Player-by-player - How Ireland\u2019s history makers fared in New Zealand",
+      "url": "/sport/rugby/2022/07/19/player-by-player-how-irelands-history-makers-fared-in-new-zealand/"
+    },
+    {
+      "text": "",
+      "url": "/sport/gaelic-games/2022/07/18/kevin-mcstay-a-resurgent-galway-are-never-to-be-treated-lightly/"
+    },
+    {
+      "text": "Gaelic Games",
+      "url": "/sport/gaelic-games/"
+    },
+    {
+      "text": "Kevin McStay: A resurgent Galway are never to be treated lightly",
+      "url": "/sport/gaelic-games/2022/07/18/kevin-mcstay-a-resurgent-galway-are-never-to-be-treated-lightly/"
+    },
+    {
+      "text": "",
+      "url": "/sport/golf/2022/07/19/cameron-smith-liv-golf-open-2022/"
+    },
+    {
+      "text": "LIV golf in talks with Open winner Cameron Smith according to Ian Baker-Finch",
+      "url": "/sport/golf/2022/07/19/cameron-smith-liv-golf-open-2022/"
+    },
+    {
+      "text": "Former Open winner encourages compatriot to join Rory McIlroy in staying put on the PGA Tour",
+      "url": "/sport/golf/2022/07/19/cameron-smith-liv-golf-open-2022/"
+    },
+    {
+      "text": "",
+      "url": "/sport/rugby/2022/07/19/gerry-thornley-new-zealand-tour-shows-foolishness-of-scrapping-summer-series-template/"
+    },
+    {
+      "text": "Gerry Thornley: New Zealand tour shows foolishness of scrapping summer series template",
+      "url": "/sport/rugby/2022/07/19/gerry-thornley-new-zealand-tour-shows-foolishness-of-scrapping-summer-series-template/"
+    },
+    {
+      "text": "Last vestiges of amateur era tours being scrapped by World Rugby from 2024 onwards",
+      "url": "/sport/rugby/2022/07/19/gerry-thornley-new-zealand-tour-shows-foolishness-of-scrapping-summer-series-template/"
+    },
+    {
+      "text": "LIFE & STYLE",
+      "url": "/life-style/"
+    },
+    {
+      "text": "",
+      "url": "/life-style/people/2022/07/19/i-was-like-wow-an-irish-scientist-on-his-glow-fish-discovery/"
+    },
+    {
+      "text": "People",
+      "url": "/life-style/people/"
+    },
+    {
+      "text": "\u2018I was, like, Wow\u2019: An Irish scientist on his glow-fish discovery",
+      "url": "/life-style/people/2022/07/19/i-was-like-wow-an-irish-scientist-on-his-glow-fish-discovery/"
+    },
+    {
+      "text": "",
+      "url": "/life-style/people/2022/07/19/im-one-of-you-now-maybe-not-in-looks-but-in-thinking-this-is-my-home/"
+    },
+    {
+      "text": "People",
+      "url": "/life-style/people/"
+    },
+    {
+      "text": "\u2018I remember Irish tap water tasted so sweet \u2014 and the same with the potatoes: they were really tasty\u2019",
+      "url": "/life-style/people/2022/07/19/im-one-of-you-now-maybe-not-in-looks-but-in-thinking-this-is-my-home/"
+    },
+    {
+      "text": "",
+      "url": "/life-style/fashion/2022/07/18/why-gigi-hadids-a-big-fan-of-this-irish-designer/"
+    },
+    {
+      "text": "Why Gigi Hadid\u2019s a big fan of this Irish designer",
+      "url": "/life-style/fashion/2022/07/18/why-gigi-hadids-a-big-fan-of-this-irish-designer/"
+    },
+    {
+      "text": "",
+      "url": "/life-style/2022/07/18/as-temperatures-climb-these-are-the-urgent-steps-we-need-to-take-to-cool-our-sweltering-cities/"
+    },
+    {
+      "text": "As temperatures climb, we can design our cities to be cooler. Here\u2019s how",
+      "url": "/life-style/2022/07/18/as-temperatures-climb-these-are-the-urgent-steps-we-need-to-take-to-cool-our-sweltering-cities/"
+    },
+    {
+      "text": "",
+      "url": "/food/drink/2022/07/23/is-this-the-most-perfect-summer-wine-of-all/"
+    },
+    {
+      "text": "Drink",
+      "url": "/food/drink/"
+    },
+    {
+      "text": "Is this the most perfect summer wine of all? ",
+      "url": "/food/drink/2022/07/23/is-this-the-most-perfect-summer-wine-of-all/"
+    },
+    {
+      "text": "",
+      "url": "/food/2022/07/18/say-goodbye-to-banana-bread-and-try-buns-instead/"
+    },
+    {
+      "text": "Say goodbye to banana bread and try buns instead",
+      "url": "/food/2022/07/18/say-goodbye-to-banana-bread-and-try-buns-instead/"
+    },
+    {
+      "text": "",
+      "url": "/food/2022/07/12/kids-in-the-kitchen-four-easy-picnic-dishes/"
+    },
+    {
+      "text": "Kids in the Kitchen: Four easy picnic dishes ",
+      "url": "/food/2022/07/12/kids-in-the-kitchen-four-easy-picnic-dishes/"
+    },
+    {
+      "text": "YOUR MONEY",
+      "url": "/your-money/"
+    },
+    {
+      "text": "",
+      "url": "/your-money/2022/07/19/will-it-pay-to-switch-mortgages-and-lock-in-to-a-long-term-fixed-rate/"
+    },
+    {
+      "text": "Will it pay to switch mortgages and lock in to a long-term fixed rate?",
+      "url": "/your-money/2022/07/19/will-it-pay-to-switch-mortgages-and-lock-in-to-a-long-term-fixed-rate/"
+    },
+    {
+      "text": "",
+      "url": "/your-money/2022/07/18/how-much-money-have-you-saved-working-from-home-we-have-the-figures/"
+    },
+    {
+      "text": "How much money have you saved working from home? We have the figures",
+      "url": "/your-money/2022/07/18/how-much-money-have-you-saved-working-from-home-we-have-the-figures/"
+    },
+    {
+      "text": "",
+      "url": "/your-money/2022/07/19/is-it-time-for-annuities-to-make-a-come-back/"
+    },
+    {
+      "text": "Is it time for annuities to make a come-back?",
+      "url": "/your-money/2022/07/19/is-it-time-for-annuities-to-make-a-come-back/"
+    },
+    {
+      "text": "",
+      "url": "/your-money/2022/07/18/i-lose-money-almost-every-other-week-and-certainly-lately/"
+    },
+    {
+      "text": "\u2018I lose money almost every other week, and certainly lately\u2019",
+      "url": "/your-money/2022/07/18/i-lose-money-almost-every-other-week-and-certainly-lately/"
+    },
+    {
+      "text": "THE UBER FILES",
+      "url": "/tags/uber-files/"
+    },
+    {
+      "text": "Uber files revelations underline the value of whistleblowing",
+      "url": "/opinion/2022/07/16/uber-files-revelations-underline-the-value-of-whistleblowing/"
+    },
+    {
+      "text": "Irishman exposed his former employer\u2019s dirty tricks, so it\u2019s reassuring that Uber lobbying in Ireland ultimately failed",
+      "url": "/opinion/2022/07/16/uber-files-revelations-underline-the-value-of-whistleblowing/"
+    },
+    {
+      "text": "",
+      "url": "/opinion/2022/07/16/uber-files-revelations-underline-the-value-of-whistleblowing/"
+    },
+    {
+      "text": "What we learned about lobbying in Ireland from the Uber Files",
+      "url": "/opinion/2022/07/18/what-we-learned-about-lobbying-from-the-uber-files/"
+    },
+    {
+      "text": "The Uber Files shine spotlight on Irish lobbying regulation",
+      "url": "/politics/2022/07/12/the-uber-files-shine-spotlight-on-irish-lobbying-regulation/"
+    },
+    {
+      "text": "Uber files: EU ombudsman Emily O\u2019Reilly calls for \u2018culture change at the top\u2019",
+      "url": "/ireland/2022/07/13/uber-files-eu-ombudsman-emily-oreilly-calls-for-culture-change-at-the-top/"
+    },
+    {
+      "text": "Uber files: Lobbyist joked about finding \u2018amazing\u2019 job for Irish EU official ",
+      "url": "/ireland/2022/07/13/uber-files-lobbyist-joked-about-finding-amazing-job-for-irish-eu-official-over-lunch/"
+    },
+    {
+      "text": "PROPERTY",
+      "url": "/property/"
+    },
+    {
+      "text": "",
+      "url": "/property/residential/2022/07/19/five-homes-on-view-this-week/"
+    },
+    {
+      "text": "Five homes on view this week",
+      "url": "/property/residential/2022/07/19/five-homes-on-view-this-week/"
+    },
+    {
+      "text": "",
+      "url": "/property/residential/2022/07/19/im-selling-my-rental-home-how-much-capital-gains-tax-will-i-have-to-pay/"
+    },
+    {
+      "text": "I\u2019m selling my rental home. How much capital gains tax will I have to pay?",
+      "url": "/property/residential/2022/07/19/im-selling-my-rental-home-how-much-capital-gains-tax-will-i-have-to-pay/"
+    },
+    {
+      "text": "",
+      "url": "/property/residential/2022/07/19/phibsborough-home-of-john-romantic-irelands-dead-and-gone-oleary-on-sale-for-875000/"
+    },
+    {
+      "text": "\u2018Romantic Ireland\u2019s dead and gone\u2019: Dublin home of leading Fenian John O\u2019Leary on sale for \u20ac875,000",
+      "url": "/property/residential/2022/07/19/phibsborough-home-of-john-romantic-irelands-dead-and-gone-oleary-on-sale-for-875000/"
+    },
+    {
+      "text": "",
+      "url": "/property/residential/2022/07/18/were-ready-to-buy-our-first-home-but-dont-know-where-or-what-to-look-for/"
+    },
+    {
+      "text": "We\u2019re ready to buy our first home but don\u2019t know where or what to look for",
+      "url": "/property/residential/2022/07/18/were-ready-to-buy-our-first-home-but-dont-know-where-or-what-to-look-for/"
+    },
+    {
+      "text": "CULTURE",
+      "url": "/culture/"
+    },
+    {
+      "text": "",
+      "url": "/culture/2022/07/19/galway-international-arts-festival-back-with-a-bang/"
+    },
+    {
+      "text": "Galway is hot and hopping as the international arts festival returns with a bang",
+      "url": "/culture/2022/07/19/galway-international-arts-festival-back-with-a-bang/"
+    },
+    {
+      "text": "",
+      "url": "/culture/film/2022/07/19/is-armie-hammer-really-selling-timeshares-in-the-caymans/"
+    },
+    {
+      "text": "Is Armie Hammer really flogging timeshares in the Caymans?",
+      "url": "/culture/film/2022/07/19/is-armie-hammer-really-selling-timeshares-in-the-caymans/"
+    },
+    {
+      "text": "",
+      "url": "/culture/books/review/2022/07/19/piety-and-privilege-catholic-secondary-schooling-in-ireland-and-the-theocratic-state/"
+    },
+    {
+      "text": "Piety and Privilege: The forces that have shaped secondary schooling in Ireland",
+      "url": "/culture/books/review/2022/07/19/piety-and-privilege-catholic-secondary-schooling-in-ireland-and-the-theocratic-state/"
+    },
+    {
+      "text": "",
+      "url": "/culture/books/2022/07/19/danish-writings-gothic-labyrinth-of-self-reflection/"
+    },
+    {
+      "text": "Danish writing\u2019s Gothic labyrinth of self-reflection",
+      "url": "/culture/books/2022/07/19/danish-writings-gothic-labyrinth-of-self-reflection/"
+    },
+    {
+      "text": "COVID-19",
+      "url": "/health/covid-19/"
+    },
+    {
+      "text": "",
+      "url": "/health/2022/07/19/europe-must-act-now-or-risk-tougher-covid-measures-later-who/"
+    },
+    {
+      "text": "Europe must act now or risk tougher Covid measures later \u2014 WHO ",
+      "url": "/health/2022/07/19/europe-must-act-now-or-risk-tougher-covid-measures-later-who/"
+    },
+    {
+      "text": "",
+      "url": "/world/africa/2022/07/11/ghanas-shoestring-film-industry-struggles-in-a-post-covid-post-dvd-world/"
+    },
+    {
+      "text": "Ghana\u2019s shoestring film industry struggles in a post-Covid, post-DVD world",
+      "url": "/world/africa/2022/07/11/ghanas-shoestring-film-industry-struggles-in-a-post-covid-post-dvd-world/"
+    },
+    {
+      "text": "",
+      "url": "/your-money/2022/07/18/i-lose-money-almost-every-other-week-and-certainly-lately/"
+    },
+    {
+      "text": "\u2018I lose money almost every other week, and certainly lately\u2019",
+      "url": "/your-money/2022/07/18/i-lose-money-almost-every-other-week-and-certainly-lately/"
+    },
+    {
+      "text": "Tony Clayton-Lea",
+      "url": "/author/tony-clayton-lea/"
+    },
+    {
+      "text": "",
+      "url": "/health/2022/07/15/coronavirus-recipe-for-disaster-warn-nurses-as-disease-rips-through-hospitals/"
+    },
+    {
+      "text": "Coronavirus: \u2018Recipe for disaster\u2019, warn nurses as disease rips through hospitals ",
+      "url": "/health/2022/07/15/coronavirus-recipe-for-disaster-warn-nurses-as-disease-rips-through-hospitals/"
+    },
+    {
+      "text": "Ronan McGreevy",
+      "url": "/author/ronan-mcgreevy/"
+    },
+    {
+      "text": "",
+      "url": "/crosswords-puzzles/"
+    },
+    {
+      "text": "Crosswords & Puzzles",
+      "url": "/crosswords-puzzles/"
+    },
+    {
+      "text": "",
+      "url": "https://www.recruitireland.com"
+    },
+    {
+      "text": "Recruit Ireland",
+      "url": "https://www.recruitireland.com"
+    },
+    {
+      "text": "",
+      "url": "/listen/"
+    },
+    {
+      "text": "Listen",
+      "url": "/listen/"
+    },
+    {
+      "text": "\n        \n    ",
+      "url": "https://www.irishtimes.com/epaper"
+    },
+    {
+      "text": "",
+      "url": "/tags/summer-of-family/"
+    },
+    {
+      "text": "Summer of Family",
+      "url": "/tags/summer-of-family/"
+    },
+    {
+      "text": "",
+      "url": "/tags/best-place-to-holiday/"
+    },
+    {
+      "text": "Best Places to Holiday",
+      "url": "/tags/best-place-to-holiday/"
+    },
+    {
+      "text": "",
+      "url": "https://notices.irishtimes.com/"
+    },
+    {
+      "text": "Family Notices",
+      "url": "https://notices.irishtimes.com/"
+    },
+    {
+      "text": "",
+      "url": "https://www.irishtimes.com/search/?query=Ireland"
+    },
+    {
+      "text": "Archive Search",
+      "url": "https://www.irishtimes.com/search/?query=Ireland"
+    },
+    {
+      "text": "\n    ",
+      "url": "https://apps.apple.com/ie/developer/the-irish-times-ltd/id365544597"
+    },
+    {
+      "text": "\n    ",
+      "url": "https://play.google.com/store/apps/developer?id=The+Irish+Times+Ltd"
+    },
+    {
+      "text": "MyHome.ie(Opens in new window)",
+      "url": "https://www.myhome.ie/"
+    },
+    {
+      "text": "Top 1000(Opens in new window)",
+      "url": "https://www.top1000.ie/"
+    },
+    {
+      "text": "The Gloss(Opens in new window)",
+      "url": "https://www.thegloss.ie/"
+    },
+    {
+      "text": "Recruit Ireland(Opens in new window)",
+      "url": "https://recruitireland.com/"
+    },
+    {
+      "text": "Irish Times Training(Opens in new window)",
+      "url": "https://www.irishtimestraining.com/"
+    },
+    {
+      "text": "Terms & Conditions",
+      "url": "/policy-and-terms/terms-conditions/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/policy-and-terms/privacy-policy/"
+    },
+    {
+      "text": "Cookie Information",
+      "url": "/policy-and-terms/cookie-policy/"
+    },
+    {
+      "text": "Cookie Settings",
+      "url": "#/"
+    },
+    {
+      "text": "Community Standards",
+      "url": "/policy-and-terms/community-standards/"
+    },
+    {
+      "text": "Copyright",
+      "url": "/policy-and-terms/copyright/"
+    },
+    {
+      "text": "search by queryly ",
+      "url": "https://www.queryly.com/"
+    },
+    {
+      "text": "Advanced Search",
+      "url": "#"
+    },
+    {
+      "text": "cookie policy",
+      "url": "https://www.irishtimes.com/policy-and-terms/cookie-policy"
+    },
+    {
+      "text": "More information",
+      "url": "https://www.irishtimes.com/policy-and-terms/cookie-policy"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    }
+  ],
+  "item_last_updated": 1658243281,
+  "item_size": 1502616,
   "metadata": {
     "identifier": "irishtimes-2022",
     "collection": [
@@ -199,10 +1707,10 @@
     "publicdate": "2022-07-18 02:24:06",
     "addeddate": "2022-07-18 02:24:06"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 816226712,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1580452229,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

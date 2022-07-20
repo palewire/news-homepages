@@ -1,5 +1,5 @@
 {
-  "created": 1658232789,
+  "created": 1658279168,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/16/items/mmfa-2022",
@@ -184,31 +184,115 @@
       "sha1": "d219e2241ce34ac7aa1a7ec636a248c919a2c134"
     },
     {
+      "name": "mmfa-2022-07-19T11:41:59.656715-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658245323",
+      "size": "22110",
+      "md5": "4326ac44b79d1d3840417a6cb7db10c2",
+      "crc32": "eb4f0553",
+      "sha1": "afef96c167b6f67d6da85a6ee31672e9c631f039",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-07-19T11:41:59.656715-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658245324",
+      "size": "28686",
+      "md5": "adda3ece55eac754d2a342f8a3413a26",
+      "crc32": "917d058f",
+      "sha1": "664b0c8666a8deb44dd31199602abf2bf5093750",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-07-19T11:41:59.656715-04:00.jpg",
+      "source": "original",
+      "mtime": "1658245321",
+      "size": "243121",
+      "md5": "dc627bb25bddf786ac2ab1624e45ddba",
+      "crc32": "31a5b524",
+      "sha1": "f1776b3a367783a1b950df70de653b64b2f0c9ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mmfa-2022-07-19T11:41:59.656715-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mmfa-2022-07-19T11:41:59.656715-04:00.jpg",
+      "mtime": "1658246496",
+      "size": "10700",
+      "md5": "64342a7923fb9b5929e72e4464fb8e06",
+      "crc32": "066612f7",
+      "sha1": "dd6d694139601e00ce548157d5bd6a7c7b8aa641"
+    },
+    {
+      "name": "mmfa-2022-07-19T12:55:35.918360-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658249739",
+      "size": "22083",
+      "md5": "8c9a9fcac2f2ec72c42dc6575349c69e",
+      "crc32": "84489bef",
+      "sha1": "38798fb8c8f0c3193d8a90fd8f60a3f1f5594e1a",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-07-19T12:55:35.918360-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658249741",
+      "size": "28674",
+      "md5": "fb9be45bb0ab00b5b5b0ea7519209868",
+      "crc32": "f6fa91dc",
+      "sha1": "6e26c2a73749c20b20da60dfe713e4af833e35fb",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-07-19T12:55:35.918360-04:00.jpg",
+      "source": "original",
+      "mtime": "1658249737",
+      "size": "243899",
+      "md5": "060b6533c1e0f62c645ddea13fb10b33",
+      "crc32": "ade67be5",
+      "sha1": "071e7e3ae68435ce65f007f1bcdeb72af8d0595e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mmfa-2022-07-19T12:55:35.918360-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mmfa-2022-07-19T12:55:35.918360-04:00.jpg",
+      "mtime": "1658250436",
+      "size": "10679",
+      "md5": "5c69a516dbafdf9b2a7b5af3c9cb8cfa",
+      "crc32": "d367b55c",
+      "sha1": "ef2c13355f1c4d3c45d536d994c010f14b68140c"
+    },
+    {
       "name": "mmfa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "24fa7c4b11e5838f6d299fae1c32611c0839db0e",
-      "mtime": "1658202327",
-      "size": "4884",
-      "md5": "795cc689a145a59047b6d9cf5e664cff",
-      "crc32": "13965ab9",
-      "sha1": "b13476c67517ed7567cec6d0d881f122accf0ba8",
+      "btih": "606ee406c5f7fb5aa2d8572a1e155e2f11ed5bc5",
+      "mtime": "1658250450",
+      "size": "6532",
+      "md5": "c1fc25650c29a2cb031d1331975759f7",
+      "crc32": "b334b78e",
+      "sha1": "7164930e420a204e2923e0a6af103c3c3ae1d334",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mmfa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f23952ac6c404063bfb74711ad6aeac",
+      "md5": "03b4ef2e3ff21a60de00c3b1377dd13f",
       "summation": "md5"
     },
     {
       "name": "mmfa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658201803",
-      "size": "36864",
-      "md5": "0df4bfb8bc0f5aa265198c24e543b623",
-      "crc32": "dd38281e",
-      "sha1": "fea253572b1a417836d9b93d8c48e7d642f36230",
+      "mtime": "1658249744",
+      "size": "45056",
+      "md5": "9d1e90610b9c0f7a2dce67c4357367cd",
+      "crc32": "afdd41dd",
+      "sha1": "1057732b0b7f32ca774a1eafecf11d71bc353313",
       "format": "Metadata"
     },
     {
@@ -222,9 +306,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 21,
-  "item_last_updated": 1658202327,
-  "item_size": 1290274,
+  "files_count": 29,
+  "item_last_updated": 1658250450,
+  "item_size": 1910066,
   "metadata": {
     "identifier": "mmfa-2022",
     "collection": [
@@ -415,6 +499,18 @@
       "url": "/fox-news/fox-news-attacks-biden-surging-gasoline-prices-they-fall-27th-consecutive-day"
     },
     {
+      "text": "Twitter should follow Reddit\u2019s lead and take action against the \u201cgroomer\u201d smear inciting anti-LGBTQ harassment \n",
+      "url": "/twitter/twitter-should-follow-reddits-lead-and-take-action-against-groomer-smear-inciting-anti"
+    },
+    {
+      "text": "Newsmax's Eric Bolling: \u201cNothing would make me happier than to see Fauci in those leg\u00a0irons being escorted through an\u00a0airport somewhere\u201d\n",
+      "url": "/eric-bolling/newsmaxs-eric-bolling-nothing-would-make-me-happier-see-fauci-those-leg-irons-being"
+    },
+    {
+      "text": "Newsmax host calls Fox News a \u201cgiant bully, rather than a legitimate news source\u201d\n",
+      "url": "/eric-bolling/newsmax-host-calls-fox-news-giant-bully-rather-legitimate-news-source"
+    },
+    {
       "text": "Laura Ingraham: \u201cRepublicans are kind of afraid of the gun issue sometimes because they feel like there will be another mass shooting\u201d\n",
       "url": "/laura-ingraham/laura-ingraham-republicans-are-kind-afraid-gun-issue-sometimes-because-they-feel"
     },
@@ -441,18 +537,6 @@
     {
       "text": "ABC\u2019s Martha Raddatz plays devil\u2019s advocate for Sen. Joe Manchin in an interview with Sen. Bernie Sanders about climate legislation\n",
       "url": "/week/abcs-martha-raddatz-plays-devils-advocate-sen-joe-manchin-interview-sen-bernie-sanders-about"
-    },
-    {
-      "text": "Fox\u2019s Will Cain argues that the founding fathers shouldn\u2019t be described as slaveowners because \u201cslavery was commonplace\u201d\n",
-      "url": "/fox-friends/foxs-will-cain-argues-founding-fathers-shouldnt-be-described-slaveowners-because"
-    },
-    {
-      "text": "Tucker Carlson is in Iowa selling cheap hats and streaming subscriptions\n",
-      "url": "/tucker-carlson/tucker-carlson-iowa-selling-cheap-hats-and-streaming-subscriptions"
-    },
-    {
-      "text": "To deflect from shocking reality of Republican abortion bans, right-wing media are trying to make the Ohio case about immigration\n",
-      "url": "/fox-news/deflect-shocking-reality-republican-abortion-bans-right-wing-media-are-trying-make-ohio"
     },
     {
       "text": "\n            \n              Current page\n            1",
@@ -707,10 +791,10 @@
       "url": "https://www.youtube.com/channel/UC_70iWZ6ym2cglS_kv5YfmA"
     }
   ],
-  "server": "ia801409.us.archive.org",
-  "uniq": 516125207,
+  "server": "ia601409.us.archive.org",
+  "uniq": 881818397,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }
