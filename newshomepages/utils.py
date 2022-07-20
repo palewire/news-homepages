@@ -35,7 +35,7 @@ def get_user_agent() -> str:
     return "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
 
 
-def get_site_list() -> typing.List[typing.Dict]:
+def get_site_list():
     """Get the full list of supported sites.
 
     Returns a list of dictionaries.
@@ -47,6 +47,10 @@ def get_site_list() -> typing.List[typing.Dict]:
 
     # Sort it alphabetically
     sorted_list = sorted(site_list, key=lambda x: x["handle"].lower())
+
+    # Split the bundles in a list
+    for s in sorted_list:
+        s["bundle_list"] = s["bundle"].split("|")
 
     # Return it
     return sorted_list
@@ -97,7 +101,7 @@ def get_sites_in_bundle(slug: str) -> typing.List[typing.Dict]:
     """
     bundle = get_bundle(slug)
     site_list = get_site_list()
-    return [s for s in site_list if s["bundle"] == bundle["slug"]]
+    return [s for s in site_list if bundle["slug"] in s["bundle_list"]]
 
 
 def get_screenshot_list() -> typing.List[typing.Dict[str, typing.Any]]:
