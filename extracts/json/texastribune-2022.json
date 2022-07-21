@@ -1,5 +1,5 @@
 {
-  "created": 1658279428,
+  "created": 1658363537,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/texastribune-2022",
@@ -2830,31 +2830,93 @@
       "sha1": "1023065cbbcace1ae6627a2e89c091e5e09fd6dc"
     },
     {
+      "name": "texastribune-2022-07-19T23:20:42.909000-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658290844",
+      "size": "37998",
+      "md5": "096f5307d18adaaa79eb0d3ea9648218",
+      "crc32": "97298f32",
+      "sha1": "e217f716c47c7b62d9ebf47a1e185ca234b61781",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-07-19T23:20:42.909000-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658290845",
+      "size": "21952",
+      "md5": "7611555c6521eaf49b25d8553148c627",
+      "crc32": "3ab80311",
+      "sha1": "377e686ab8069b849c7cafa60da4661be0495d33",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-07-20T11:44:49.157415-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658335496",
+      "size": "37970",
+      "md5": "105b7948e28a5766f99bd6dd1d249b6f",
+      "crc32": "ed2d80d2",
+      "sha1": "11bc65b4ae90f4e1878fe1c14cde9c21b7c2dcb3",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-07-20T11:44:49.157415-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658335497",
+      "size": "21850",
+      "md5": "587c6ad93f4e8c32436729c0e25f6c03",
+      "crc32": "f944cf6e",
+      "sha1": "1898639486d38234ee985673e9f3af5fea6cc801",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-07-20T11:44:49.157415-05:00.jpg",
+      "source": "original",
+      "mtime": "1658335494",
+      "size": "301806",
+      "md5": "1aeb1cde386f90c3e0115df46e8e5ce3",
+      "crc32": "5590de38",
+      "sha1": "dabf200f41f1517607ba24f7793605973bfd2184",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texastribune-2022-07-20T11:44:49.157415-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texastribune-2022-07-20T11:44:49.157415-05:00.jpg",
+      "mtime": "1658339368",
+      "size": "9594",
+      "md5": "688a33629ee92375dd38b009a2aaa0e9",
+      "crc32": "4b1e1946",
+      "sha1": "85165244dcf31835c9d0b277043234dd4ab8c3d1"
+    },
+    {
       "name": "texastribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ac525be66840a81cead13ec2f572c55b75d4cab5",
-      "mtime": "1658250630",
-      "size": "59159",
-      "md5": "db962dc435f7a60fbd72dbc50b92434e",
-      "crc32": "f3fa796d",
-      "sha1": "a2479d18c676f8b037b2889d6bce4ec86506e21c",
+      "btih": "4152c355dbcb2e907e3613ae55df1a25a203757e",
+      "mtime": "1658339373",
+      "size": "60457",
+      "md5": "c57f0bb3bd3d58696e57d894e3fac040",
+      "crc32": "853e51a4",
+      "sha1": "162f3d881e7bb839080474579dc701c96a385b91",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texastribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3111de6e79cfffcb5c1186d2e548d0a5",
+      "md5": "b63f9ca30f4d35e8dc1bb238514a7a86",
       "summation": "md5"
     },
     {
       "name": "texastribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658249994",
-      "size": "327680",
-      "md5": "09dfc5eb3c11c254cf9548efbfecc66b",
-      "crc32": "9f8fa465",
-      "sha1": "10b9f4afbc188f479ab7fac1869f58223c0a02b6",
+      "mtime": "1658335502",
+      "size": "339968",
+      "md5": "51634439848bf0b1d0a6790e5a472026",
+      "crc32": "9fcf3be0",
+      "sha1": "735abc836fa77fe74b0ab4f257b0f19f27eb003a",
       "format": "Metadata"
     },
     {
@@ -2868,9 +2930,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 273,
-  "item_last_updated": 1658250630,
-  "item_size": 23243459,
+  "files_count": 279,
+  "item_last_updated": 1658339373,
+  "item_size": 23688215,
   "metadata": {
     "identifier": "texastribune-2022",
     "collection": [
@@ -2889,10 +2951,6 @@
   },
   "server": "ia601407.us.archive.org",
   "texastribune-2022": [
-    {
-      "text": " BUY TICKETS ",
-      "url": "https://festival-platform.texastribune.org?promo=site-message-bar&tr=true"
-    },
     {
       "text": "Skip to main content",
       "url": "#main-tt-content"
@@ -2966,32 +3024,40 @@
       "url": "https://festival-platform.texastribune.org/?promo=site-topic-bar&tr=true"
     },
     {
+      "text": "Texas universities grapple with how to provide reproductive health care information to students amid new abortion laws",
+      "url": "/2022/07/20/texas-universities-abortion-reproductive-care/"
+    },
+    {
+      "text": "Kate McGee",
+      "url": "/about/staff/kate-mcgee/"
+    },
+    {
+      "text": "\n  \n  \n    \n      \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
+      "url": "/2022/07/20/texas-universities-abortion-reproductive-care/"
+    },
+    {
+      "text": "Here\u2019s how much Greg Abbott and Beto O\u2019Rourke have raised in the race for Texas governor",
+      "url": "/2022/07/19/abbott-beto-fundraising-governor-2022/"
+    },
+    {
+      "text": "Carla Astudillo",
+      "url": "/about/staff/carla-astudillo/"
+    },
+    {
+      "text": "Eric Lau",
+      "url": "/about/staff/eric-lau/"
+    },
+    {
+      "text": "\n  \n  \n    \n      \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
+      "url": "/2022/07/19/abbott-beto-fundraising-governor-2022/"
+    },
+    {
       "text": "How to know the difference between a local power outage and rolling blackouts",
       "url": "/2022/07/19/ercot-power-grid-outage-texas/"
     },
     {
-      "text": "Megan Munce",
-      "url": "/about/staff/megan-munce/"
-    },
-    {
-      "text": "\n  \n  \n    \n      \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
+      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
       "url": "/2022/07/19/ercot-power-grid-outage-texas/"
-    },
-    {
-      "text": "\u201cWhat are you going to do about your failures?\u201d: Uvalde parents demand answers at school board meeting",
-      "url": "/2022/07/18/uvalde-school-shooting-parents-officials/"
-    },
-    {
-      "text": "Uriel J. Garc\u00eda",
-      "url": "/about/staff/uriel-j-garcia/"
-    },
-    {
-      "text": "Jaden Edison",
-      "url": "/about/staff/jaden-edison/"
-    },
-    {
-      "text": "\n  \n  \n    \n      \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
-      "url": "/2022/07/18/uvalde-school-shooting-parents-officials/"
     },
     {
       "text": "\u201cWhat are you going to do about your failures?\u201d: Uvalde parents demand answers at school board meeting",
@@ -3026,12 +3092,128 @@
       "url": "/2022/07/17/house-uvalde-investigation-takeaways/"
     },
     {
-      "text": "A year before Uvalde shooting, gunman had threatened women, carried around a dead cat and been nicknamed \u201cschool shooter\u201d",
-      "url": "/2022/07/17/uvalde-shooter-warnings-background/"
+      "text": "Uvalde school officials will vote on firing district police Chief Pete Arredondo",
+      "url": "/2022/07/20/uvalde-district-chief-arredondo/"
+    },
+    {
+      "text": "William Melhado",
+      "url": "/about/staff/william-melhado/"
+    },
+    {
+      "text": "Full Story\u00a0\n",
+      "url": "/2022/07/20/uvalde-district-chief-arredondo/"
     },
     {
       "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
-      "url": "/2022/07/17/uvalde-shooter-warnings-background/"
+      "url": "/2022/07/20/uvalde-district-chief-arredondo/"
+    },
+    {
+      "text": "Texas officials celebrated end of abortion rights after cutting back postpartum Medicaid extension",
+      "url": "/2022/07/20/texas-postpartum-medicaid-abortion/"
+    },
+    {
+      "text": "Lomi Kriel",
+      "url": "/about/staff/lomi-kriel/"
+    },
+    {
+      "text": "Full Story\u00a0\n",
+      "url": "/2022/07/20/texas-postpartum-medicaid-abortion/"
+    },
+    {
+      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
+      "url": "/2022/07/20/texas-postpartum-medicaid-abortion/"
+    },
+    {
+      "text": "Only one Texas Republican in Congress voted to protect marriage equality",
+      "url": "/2022/07/19/congress-same-sex-marriage-texas/"
+    },
+    {
+      "text": "Eric Neugeboren",
+      "url": "/about/staff/eric-neugeboren/"
+    },
+    {
+      "text": "Full Story\u00a0\n",
+      "url": "/2022/07/19/congress-same-sex-marriage-texas/"
+    },
+    {
+      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
+      "url": "/2022/07/19/congress-same-sex-marriage-texas/"
+    },
+    {
+      "text": "Rural Texas districts struggling to attract teachers are switching to four-day school weeks",
+      "url": "/2022/07/19/texas-schools-four-day-weeks/"
+    },
+    {
+      "text": "Brian Lopez",
+      "url": "/about/staff/brian-lopez/"
+    },
+    {
+      "text": "Full Story\u00a0\n",
+      "url": "/2022/07/19/texas-schools-four-day-weeks/"
+    },
+    {
+      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
+      "url": "/2022/07/19/texas-schools-four-day-weeks/"
+    },
+    {
+      "text": "Upcoming Texas Tribune events",
+      "url": "/events/"
+    },
+    {
+      "text": "The Future of Rural Texas",
+      "url": "https://future-of-rural-texas.splashthat.com"
+    },
+    {
+      "text": "attend",
+      "url": "https://future-of-rural-texas.splashthat.com"
+    },
+    {
+      "text": "watch",
+      "url": "https://www.texastribune.org/2022/07/14/future-of-rural-texas/"
+    },
+    {
+      "text": "The Texas Tribune FestivalSept. 22-24",
+      "url": "https://festival.texastribune.org/"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://festival.texastribune.org/"
+    },
+    {
+      "text": "More upcoming events",
+      "url": "/events/"
+    },
+    {
+      "text": "U.S. Rep. Veronica Escobar arrested outside Supreme Court during protest over Roe reversal",
+      "url": "/2022/07/19/veronica-escobar-arrested-roe-protest/"
+    },
+    {
+      "text": "Matthew Choi",
+      "url": "/about/staff/matthew-choi/"
+    },
+    {
+      "text": "Full Story\u00a0\n",
+      "url": "/2022/07/19/veronica-escobar-arrested-roe-protest/"
+    },
+    {
+      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
+      "url": "/2022/07/19/veronica-escobar-arrested-roe-protest/"
+    },
+    {
+      "text": "Blogger with ties to Vicente Gonzalez lobs racist attack at his congressional opponent Mayra Flores",
+      "url": "/2022/07/19/mayra-flores-gonzalez-mchale-racist-1658251711/"
+    },
+    {
+      "text": "Matthew Choi",
+      "url": "/about/staff/matthew-choi/"
+    },
+    {
+      "text": "Full Story\u00a0\n",
+      "url": "/2022/07/19/mayra-flores-gonzalez-mchale-racist-1658251711/"
+    },
+    {
+      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
+      "url": "/2022/07/19/mayra-flores-gonzalez-mchale-racist-1658251711/"
     },
     {
       "text": "T-Squared: Even more big-name speakers at #TribFest22",
@@ -3048,6 +3230,62 @@
     {
       "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
       "url": "/2022/07/19/texas-tribune-festival-speakers/"
+    },
+    {
+      "text": "terms of service",
+      "url": "/terms-of-service/"
+    },
+    {
+      "text": "privacy policy",
+      "url": "/privacy/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Become a member today.",
+      "url": "https://support.texastribune.org/donate?installmentPeriod=monthly&amount=15&utm_campaign=trib-marketing&utm_source=homepage-ribbon&utm_medium=website&utm_content=membership-promo-b"
+    },
+    {
+      "text": "How to know the difference between a local power outage and rolling blackouts",
+      "url": "/2022/07/19/ercot-power-grid-outage-texas/"
+    },
+    {
+      "text": "Megan Munce",
+      "url": "/about/staff/megan-munce/"
+    },
+    {
+      "text": "Full Story\u00a0\n",
+      "url": "/2022/07/19/ercot-power-grid-outage-texas/"
+    },
+    {
+      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
+      "url": "/2022/07/19/ercot-power-grid-outage-texas/"
+    },
+    {
+      "text": "\u201cWhat are you going to do about your failures?\u201d: Uvalde parents demand answers at school board meeting",
+      "url": "/2022/07/18/uvalde-school-shooting-parents-officials/"
+    },
+    {
+      "text": "Uriel J. Garc\u00eda",
+      "url": "/about/staff/uriel-j-garcia/"
+    },
+    {
+      "text": "Jaden Edison",
+      "url": "/about/staff/jaden-edison/"
+    },
+    {
+      "text": "Full Story\u00a0\n",
+      "url": "/2022/07/18/uvalde-school-shooting-parents-officials/"
+    },
+    {
+      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
+      "url": "/2022/07/18/uvalde-school-shooting-parents-officials/"
     },
     {
       "text": "Texas Department of Public Safety investigating how 91 of its troopers and Rangers responded to Uvalde school shooting",
@@ -3106,34 +3344,6 @@
       "url": "/2022/07/18/texas-marijuana-laws-2022-law-legal/"
     },
     {
-      "text": "Upcoming Texas Tribune events",
-      "url": "/events/"
-    },
-    {
-      "text": "The Future of Rural Texas",
-      "url": "https://future-of-rural-texas.splashthat.com"
-    },
-    {
-      "text": "attend",
-      "url": "https://future-of-rural-texas.splashthat.com"
-    },
-    {
-      "text": "watch",
-      "url": "https://www.texastribune.org/2022/07/14/future-of-rural-texas/"
-    },
-    {
-      "text": "The Texas Tribune FestivalSept. 22-24",
-      "url": "https://festival.texastribune.org/"
-    },
-    {
-      "text": "Learn more",
-      "url": "https://festival.texastribune.org/"
-    },
-    {
-      "text": "More upcoming events",
-      "url": "/events/"
-    },
-    {
       "text": "Uvalde parents\u2019 anger and quest for answers persist after committee faults school and police in mass shooting",
       "url": "/2022/07/17/uvalde-shooting-report-parents/"
     },
@@ -3152,6 +3362,14 @@
     {
       "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
       "url": "/2022/07/17/uvalde-shooting-report-parents/"
+    },
+    {
+      "text": "",
+      "url": "/theblast/"
+    },
+    {
+      "text": "Subscribe to The Blast",
+      "url": "https://support.texastribune.org/blastform"
     },
     {
       "text": "Uvalde police lieutenant placed on leave after report faults several agencies\u2019 school shooting response",
@@ -3194,26 +3412,6 @@
       "url": "/2022/05/27/uvalde-texas-school-shooting-timeline/"
     },
     {
-      "text": "terms of service",
-      "url": "/terms-of-service/"
-    },
-    {
-      "text": "privacy policy",
-      "url": "/privacy/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://policies.google.com/privacy"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://policies.google.com/terms"
-    },
-    {
-      "text": "Become a member today.",
-      "url": "https://support.texastribune.org/donate?installmentPeriod=monthly&amount=15&utm_campaign=trib-marketing&utm_source=homepage-ribbon&utm_medium=website&utm_content=membership-promo-b"
-    },
-    {
       "text": "Five takeaways from the House committee report on the Uvalde shooting",
       "url": "/2022/07/17/house-uvalde-investigation-takeaways/"
     },
@@ -3228,6 +3426,34 @@
     {
       "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
       "url": "/2022/07/17/house-uvalde-investigation-takeaways/"
+    },
+    {
+      "text": "Elected Officials Directory",
+      "url": "/directory/"
+    },
+    {
+      "text": "Government Salaries Explorer",
+      "url": "https://salaries.texastribune.org/"
+    },
+    {
+      "text": "Texas Public Schools Explorer",
+      "url": "https://schools.texastribune.org/"
+    },
+    {
+      "text": "Coronavirus Tracker",
+      "url": "https://apps.texastribune.org/features/2020/texas-coronavirus-cases-map/"
+    },
+    {
+      "text": "\n      \n    ",
+      "url": "/about/tips"
+    },
+    {
+      "text": "Send us a confidential tip",
+      "url": "/about/tips"
+    },
+    {
+      "text": "Learn more.",
+      "url": "/about/tips"
     },
     {
       "text": "A year before Uvalde shooting, gunman had threatened women, carried around a dead cat and been nicknamed \u201cschool shooter\u201d",
@@ -3276,174 +3502,6 @@
     {
       "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
       "url": "/2022/07/16/texas-abortion-democrats-biden-emergency/"
-    },
-    {
-      "text": "Texas Democratic Party Chair Gilberto Hinojosa fends off two challengers, wins another term",
-      "url": "/2022/07/16/texas-democratic-party-hinojosa/"
-    },
-    {
-      "text": "Patrick Svitek",
-      "url": "/about/staff/patrick-svitek/"
-    },
-    {
-      "text": "Full Story\u00a0\n",
-      "url": "/2022/07/16/texas-democratic-party-hinojosa/"
-    },
-    {
-      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
-      "url": "/2022/07/16/texas-democratic-party-hinojosa/"
-    },
-    {
-      "text": "Beto O\u2019Rourke gets $2 million, his largest campaign donation yet, from Austin couple",
-      "url": "/2022/07/16/beto-orourke-donor-simone-tench-coxe/"
-    },
-    {
-      "text": "Patrick Svitek",
-      "url": "/about/staff/patrick-svitek/"
-    },
-    {
-      "text": "Full Story\u00a0\n",
-      "url": "/2022/07/16/beto-orourke-donor-simone-tench-coxe/"
-    },
-    {
-      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
-      "url": "/2022/07/16/beto-orourke-donor-simone-tench-coxe/"
-    },
-    {
-      "text": "",
-      "url": "/theblast/"
-    },
-    {
-      "text": "Subscribe to The Blast",
-      "url": "https://support.texastribune.org/blastform"
-    },
-    {
-      "text": "At Texas Democratic Party convention, recognition of high stakes and a tough road ahead",
-      "url": "/2022/07/15/texas-democrats-convention-headwinds/"
-    },
-    {
-      "text": "Joshua Fechter",
-      "url": "/about/staff/joshua-fechter/"
-    },
-    {
-      "text": "Full Story\u00a0\n",
-      "url": "/2022/07/15/texas-democrats-convention-headwinds/"
-    },
-    {
-      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
-      "url": "/2022/07/15/texas-democrats-convention-headwinds/"
-    },
-    {
-      "text": "Uvalde residents frustrated with officials over finger pointing, conflicting accounts and leaked video",
-      "url": "/2022/07/15/uvalde-shooting-details-officials/"
-    },
-    {
-      "text": "Uriel J. Garc\u00eda",
-      "url": "/about/staff/uriel-j-garcia/"
-    },
-    {
-      "text": "Full Story\u00a0\n",
-      "url": "/2022/07/15/uvalde-shooting-details-officials/"
-    },
-    {
-      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
-      "url": "/2022/07/15/uvalde-shooting-details-officials/"
-    },
-    {
-      "text": "Limiting crypto helped the Texas power grid weather a heat wave",
-      "url": "/2022/07/15/crypto-energy-texas-power-grid/"
-    },
-    {
-      "text": "Full Story\u00a0\n",
-      "url": "/2022/07/15/crypto-energy-texas-power-grid/"
-    },
-    {
-      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
-      "url": "/2022/07/15/crypto-energy-texas-power-grid/"
-    },
-    {
-      "text": "Elected Officials Directory",
-      "url": "/directory/"
-    },
-    {
-      "text": "Government Salaries Explorer",
-      "url": "https://salaries.texastribune.org/"
-    },
-    {
-      "text": "Texas Public Schools Explorer",
-      "url": "https://schools.texastribune.org/"
-    },
-    {
-      "text": "Coronavirus Tracker",
-      "url": "https://apps.texastribune.org/features/2020/texas-coronavirus-cases-map/"
-    },
-    {
-      "text": "\n      \n    ",
-      "url": "/about/tips"
-    },
-    {
-      "text": "Send us a confidential tip",
-      "url": "/about/tips"
-    },
-    {
-      "text": "Learn more.",
-      "url": "/about/tips"
-    },
-    {
-      "text": "Texas hospitals are putting pregnant patients at risk by denying care out of fear of abortion laws, medical group says",
-      "url": "/2022/07/15/texas-hospitals-abortion-laws/"
-    },
-    {
-      "text": "Reese Oxner",
-      "url": "/about/staff/reese-oxner/"
-    },
-    {
-      "text": "Mar\u00eda M\u00e9ndez",
-      "url": "/about/staff/maria-mendez/"
-    },
-    {
-      "text": "Full Story\u00a0\n",
-      "url": "/2022/07/15/texas-hospitals-abortion-laws/"
-    },
-    {
-      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
-      "url": "/2022/07/15/texas-hospitals-abortion-laws/"
-    },
-    {
-      "text": "U.S. House approves Rep. Lizzie Fletcher\u2019s bill to protect the right to seek an abortion out of state",
-      "url": "/2022/07/15/lizzie-fletcher-out-of-state-abortions-texas/"
-    },
-    {
-      "text": "Eric Neugeboren",
-      "url": "/about/staff/eric-neugeboren/"
-    },
-    {
-      "text": "Full Story\u00a0\n",
-      "url": "/2022/07/15/lizzie-fletcher-out-of-state-abortions-texas/"
-    },
-    {
-      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
-      "url": "/2022/07/15/lizzie-fletcher-out-of-state-abortions-texas/"
-    },
-    {
-      "text": "TribCast: Are there signs of life for Beto O\u2019Rourke\u2019s campaign?",
-      "url": "/2022/07/15/tribcast-beto-abbott-ercot/"
-    },
-    {
-      "text": "Matthew Watkins",
-      "url": "/about/staff/matthew-watkins/"
-    },
-    {
-      "text": "Justin Dehn",
-      "url": "/about/staff/justin-dehn/"
-    },
-    {
-      "text": "Full Story\u00a0\n",
-      "url": "/2022/07/15/tribcast-beto-abbott-ercot/"
-    },
-    {
-      "text": "\n  \n  \n    \n      \n        \n          \n        \n        \n          \n          \n          \n        \n      \n    \n  \n\n\n",
-      "url": "/2022/07/15/tribcast-beto-abbott-ercot/"
     },
     {
       "text": "More News",
@@ -3622,7 +3680,7 @@
       "url": "/test/hotbots/"
     }
   ],
-  "uniq": 1109609272,
+  "uniq": 1621155774,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"

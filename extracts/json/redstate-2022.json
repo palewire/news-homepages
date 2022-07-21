@@ -1,5 +1,5 @@
 {
-  "created": 1658279309,
+  "created": 1658363429,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/28/items/redstate-2022",
@@ -258,31 +258,157 @@
       "sha1": "3fa7544e55ff791526fe356e970b8361232f22aa"
     },
     {
+      "name": "redstate-2022-07-19T23:38:00.738753-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658288284",
+      "size": "33090",
+      "md5": "56e2ce95941bb339ecc9d8a4491c0cf4",
+      "crc32": "15e04a50",
+      "sha1": "c8d44ca5eeb966efafd223bb73b6299bb5b1d47a",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-19T23:38:00.738753-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658288285",
+      "size": "29019",
+      "md5": "bf4cf43f110fd48bce76022241739acb",
+      "crc32": "e5da549a",
+      "sha1": "b7e385d03fb42a298e03c12c90478d4944af7bbc",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-19T23:38:00.738753-04:00.jpg",
+      "source": "original",
+      "mtime": "1658288282",
+      "size": "279762",
+      "md5": "4e41168cb93136e752e7e1fe52b53fec",
+      "crc32": "f8e19f1c",
+      "sha1": "f94d713364f4527c134db2c95b95db0ba21b9794",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "redstate-2022-07-19T23:38:00.738753-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "redstate-2022-07-19T23:38:00.738753-04:00.jpg",
+      "mtime": "1658288403",
+      "size": "10482",
+      "md5": "6fa75fa8ada2204217fea66bb6501c79",
+      "crc32": "49ee176c",
+      "sha1": "03c48a70b3117a616dd10a5198383cd1b534dcc4"
+    },
+    {
+      "name": "redstate-2022-07-20T12:15:15.054655-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658333718",
+      "size": "32635",
+      "md5": "8b7ae4c38cb14625b520136242597b36",
+      "crc32": "6c6d6687",
+      "sha1": "b192b45a4f17f5b49f39feacbf51b54ef98646ae",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-20T12:15:15.054655-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658333720",
+      "size": "28853",
+      "md5": "3b150ede5ed7a41e1e4ecf23ecb20841",
+      "crc32": "d1fb720e",
+      "sha1": "b12291c5dcab35f935dd834d101456e726cbe4a5",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-20T12:15:15.054655-04:00.jpg",
+      "source": "original",
+      "mtime": "1658333717",
+      "size": "278558",
+      "md5": "7a027587f4b5457bfcb2bd7ac2a17a6c",
+      "crc32": "63b4d9b4",
+      "sha1": "fbbbd61c91e8ff7961adabd848c15822fecf6315",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "redstate-2022-07-20T12:15:15.054655-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "redstate-2022-07-20T12:15:15.054655-04:00.jpg",
+      "mtime": "1658336152",
+      "size": "10375",
+      "md5": "4931efffdca10cbdd323d622634f32c3",
+      "crc32": "66e1a78d",
+      "sha1": "0176147c883c45e368ae445c8b758f86edff2c2e"
+    },
+    {
+      "name": "redstate-2022-07-20T12:54:15.581824-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658336059",
+      "size": "32443",
+      "md5": "bfa309d2bac392d0ca5f5c57f58a5ae9",
+      "crc32": "297a2b1f",
+      "sha1": "18b79cb65821ea4d40e3b0de91cef0262ef1c44e",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-20T12:54:15.581824-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658336061",
+      "size": "28616",
+      "md5": "3e95506cbbdadb33e74c2aca586c9d37",
+      "crc32": "818981d0",
+      "sha1": "ca9cbb75673b1d53336343a4e32ad8092bb67b1c",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-07-20T12:54:15.581824-04:00.jpg",
+      "source": "original",
+      "mtime": "1658336057",
+      "size": "281200",
+      "md5": "54bda8213491e75bc226d6d0eb7dc2cb",
+      "crc32": "9dc5fe3f",
+      "sha1": "b329a88fb614973a8ab3f4360d6bb4f0ae318fb1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "redstate-2022-07-20T12:54:15.581824-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "redstate-2022-07-20T12:54:15.581824-04:00.jpg",
+      "mtime": "1658339890",
+      "size": "10152",
+      "md5": "931be7cd7840f7cd3e3ccb589b7d6913",
+      "crc32": "69f0365f",
+      "sha1": "10241ed0c37196e2b90ea4364918af9ba04033ad"
+    },
+    {
       "name": "redstate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aafd4b4338541aef73b40680cfcc30adba20b504",
-      "mtime": "1658251361",
-      "size": "6476",
-      "md5": "f84855772bad74e90edc04df2d3b578c",
-      "crc32": "2b8e9bf9",
-      "sha1": "3742a81995d8a2ff83475a5682f1689dc78a67ac",
+      "btih": "ed4b20755808d77d78382ca866d131967d7f7bac",
+      "mtime": "1658339894",
+      "size": "9006",
+      "md5": "0b15530d79f9d9015da393dd62e70028",
+      "crc32": "91d2475e",
+      "sha1": "bb2cc2685137764bb099258b3ecad16cebb66091",
       "format": "Archive BitTorrent"
     },
     {
       "name": "redstate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3860f457302a63fc6d8df2ab2dc6ac41",
+      "md5": "b9bf6c0d68a09daae3f3383298221174",
       "summation": "md5"
     },
     {
       "name": "redstate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658250436",
-      "size": "45056",
-      "md5": "8169fef64d76c456ad368b0b3f6ff196",
-      "crc32": "64f9a972",
-      "sha1": "466c8282da03f516c8012ab7223c0068ceb44278",
+      "mtime": "1658336204",
+      "size": "57344",
+      "md5": "21c23d3428369a7b55b4479b685edddf",
+      "crc32": "f5e87d5f",
+      "sha1": "5ee9dade66b8df8c8dc44889ab09ca54fed29963",
       "format": "Metadata"
     },
     {
@@ -296,9 +422,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 28,
-  "item_last_updated": 1658251361,
-  "item_size": 2112686,
+  "files_count": 40,
+  "item_last_updated": 1658339894,
+  "item_size": 3182689,
   "metadata": {
     "identifier": "redstate-2022",
     "collection": [
@@ -438,115 +564,11 @@
     },
     {
       "text": "\n\n",
-      "url": "/sister-toldjah/2022/07/19/desperate-democrat-congressman-hands-mayra-flores-a-gift-ahead-of-november-election-n597674"
+      "url": "/sister-toldjah/2022/07/20/dr-jill-hits-a-new-low-as-biden-white-house-close-to-hitting-rock-bottom-n598484"
     },
     {
-      "text": "Desperate Democrat Congressman Hands Mayra Flores a Gift Ahead of November Election",
-      "url": "/sister-toldjah/2022/07/19/desperate-democrat-congressman-hands-mayra-flores-a-gift-ahead-of-november-election-n597674"
-    },
-    {
-      "text": "Sister Toldjah",
-      "url": "/author/sister-toldjah"
-    },
-    {
-      "text": "\n\n",
-      "url": "/smoosieq/2022/07/19/who-is-financing-eric-greitens-and-where-is-that-money-going-n594133"
-    },
-    {
-      "text": "Who Is Financing Eric Greitens - and Where Is That Money Going?",
-      "url": "/smoosieq/2022/07/19/who-is-financing-eric-greitens-and-where-is-that-money-going-n594133"
-    },
-    {
-      "text": "Susie Moore",
-      "url": "/author/smoosieq"
-    },
-    {
-      "text": "\n\n ",
-      "url": "/mike_miller/2022/07/19/of-heroes-and-villains-right-is-wrong-and-wrong-is-right-in-left-wing-america-n597585"
-    },
-    {
-      "text": "Of Heroes and Villains: Right Is Wrong and Wrong Is Right in Left-Wing America",
-      "url": "/mike_miller/2022/07/19/of-heroes-and-villains-right-is-wrong-and-wrong-is-right-in-left-wing-america-n597585"
-    },
-    {
-      "text": "Mike Miller",
-      "url": "/author/mike_miller"
-    },
-    {
-      "text": "\n\n",
-      "url": "/bonchie/2022/07/19/saga-of-racist-sesame-street-mascot-draws-outrage-and-gets-more-absurd-from-there-n597609"
-    },
-    {
-      "text": "Saga of 'Racist' Sesame Street Mascot Draws Outrage - and Gets More Absurd From There",
-      "url": "/bonchie/2022/07/19/saga-of-racist-sesame-street-mascot-draws-outrage-and-gets-more-absurd-from-there-n597609"
-    },
-    {
-      "text": "Bonchie",
-      "url": "/author/bonchie"
-    },
-    {
-      "text": "\n\n",
-      "url": "/carcand/2022/07/19/biden-energy-advisor-acknowledges-whats-really-driving-the-admins-plan-for-oil-and-gas-n597673"
-    },
-    {
-      "text": "Biden Energy Advisor Acknowledges What's Really Driving the Admin's Plan for Oil And Gas",
-      "url": "/carcand/2022/07/19/biden-energy-advisor-acknowledges-whats-really-driving-the-admins-plan-for-oil-and-gas-n597673"
-    },
-    {
-      "text": "Cameron Arcand",
-      "url": "/author/carcand"
-    },
-    {
-      "text": "Why We Can't Have Nice Things: 'Good Samaritan' Who Saved Indiana Mall Goers Is Denounced as No Hero ",
-      "url": "https://redstate.com/alexparker/2022/07/18/why-we-cant-have-nice-things-good-samaritan-who-saved-indiana-mall-goers-is-denounced-as-no-hero-n597392"
-    },
-    {
-      "text": "Who Is Financing Eric Greitens - and Where Is That Money Going? ",
-      "url": "https://redstate.com/smoosieq/2022/07/19/who-is-financing-eric-greitens-and-where-is-that-money-going-n594133"
-    },
-    {
-      "text": "Biden Energy Advisor Acknowledges What's Really Driving the Admin's Plan for Oil And Gas ",
-      "url": "https://redstate.com/carcand/2022/07/19/biden-energy-advisor-acknowledges-whats-really-driving-the-admins-plan-for-oil-and-gas-n597673"
-    },
-    {
-      "text": "Saga of 'Racist' Sesame Street Mascot Draws Outrage - and Gets More Absurd From There ",
-      "url": "https://redstate.com/bonchie/2022/07/19/saga-of-racist-sesame-street-mascot-draws-outrage-and-gets-more-absurd-from-there-n597609"
-    },
-    {
-      "text": "State of the Union: Cops Get Shot at by an Arrested Man's Family Member \u2014 Who's Four ",
-      "url": "https://redstate.com/alexparker/2022/07/19/state-of-the-union-cops-get-shot-at-by-an-arrested-mans-family-member-whos-four-n597541"
-    },
-    {
-      "text": "\n\n",
-      "url": "/jeffc/2022/07/19/people-are-speaking-out-against-lia-thomas-but-its-not-enough-n597376"
-    },
-    {
-      "text": "People Are Speaking out Against Lia Thomas, but It\u2019s Not Enough",
-      "url": "/jeffc/2022/07/19/people-are-speaking-out-against-lia-thomas-but-its-not-enough-n597376"
-    },
-    {
-      "text": "Jeff Charles",
-      "url": "/author/jeffc"
-    },
-    {
-      "text": "\n\n",
-      "url": "/jimthompson/2022/07/19/tuesday-toon-joe-biden-made-a-booboo-n597648"
-    },
-    {
-      "text": "Tuesday 'Toon: Joe Biden Made a BooBoo",
-      "url": "/jimthompson/2022/07/19/tuesday-toon-joe-biden-made-a-booboo-n597648"
-    },
-    {
-      "text": "Jim Thompson",
-      "url": "/author/jimthompson"
-    },
-    {
-      "text": "\n\n",
-      "url": "/sister-toldjah/2022/07/19/facts-get-dropped-after-noted-view-grifter-alyssa-farah-accuses-ron-desantis-of-grifting-n597641"
-    },
-    {
-      "text": "Facts Get Dropped After Noted 'View' Grifter Alyssa Farah Accuses Ron DeSantis of Grifting",
-      "url": "/sister-toldjah/2022/07/19/facts-get-dropped-after-noted-view-grifter-alyssa-farah-accuses-ron-desantis-of-grifting-n597641"
+      "text": "'Dr.' Jill Hits a New Low as Biden White House Close to Hitting Rock Bottom",
+      "url": "/sister-toldjah/2022/07/20/dr-jill-hits-a-new-low-as-biden-white-house-close-to-hitting-rock-bottom-n598484"
     },
     {
       "text": "Sister Toldjah",
@@ -554,11 +576,35 @@
     },
     {
       "text": "\n\n",
-      "url": "/jeffc/2022/07/19/progressives-crusade-against-crisis-pregnancy-centers-shows-they-are-not-pro-choice-n597624"
+      "url": "/redstatestaff/2022/07/20/vip-gold-chat-well-be-back-the-fall-and-rise-of-america-with-kurt-schlichter-n597864"
     },
     {
-      "text": "Progressives\u2019 Crusade Against Crisis Pregnancy Centers Shows They Are Not 'Pro-Choice'",
-      "url": "/jeffc/2022/07/19/progressives-crusade-against-crisis-pregnancy-centers-shows-they-are-not-pro-choice-n597624"
+      "text": "VIP Gold Chat: We'll Be Back: The Fall and Rise of America With Kurt Schlichter",
+      "url": "/redstatestaff/2022/07/20/vip-gold-chat-well-be-back-the-fall-and-rise-of-america-with-kurt-schlichter-n597864"
+    },
+    {
+      "text": "RedState Staff",
+      "url": "/author/redstatestaff"
+    },
+    {
+      "text": "\n\n",
+      "url": "/brandon_morse/2022/07/20/auto-draft-54-2-n598499"
+    },
+    {
+      "text": "RedState LIVE! Is Happening Now: Colbert's Capitol Riot and AOC's \"Arrest\"",
+      "url": "/brandon_morse/2022/07/20/auto-draft-54-2-n598499"
+    },
+    {
+      "text": "Brandon Morse",
+      "url": "/author/brandon_morse"
+    },
+    {
+      "text": "\n\n",
+      "url": "/jeffc/2022/07/20/democrats-show-how-they-feel-about-violence-against-pro-life-organizations-n598465"
+    },
+    {
+      "text": "Democrats Show How They Feel About Violence Against Pro-Life Organizations",
+      "url": "/jeffc/2022/07/20/democrats-show-how-they-feel-about-violence-against-pro-life-organizations-n598465"
     },
     {
       "text": "Jeff Charles",
@@ -566,47 +612,55 @@
     },
     {
       "text": "\n\n",
-      "url": "/andrewmalcolm/2022/07/19/no-tiptoeing-for-mike-pence-hes-running-right-at-donald-trump-for-2024-n597548"
+      "url": "/bonchie/2022/07/20/ron-desantis-lays-waste-to-gavin-newsoms-laughably-dishonest-attacks-n598377"
     },
     {
-      "text": "No Tiptoeing for Mike Pence: He's Running Right at Donald Trump for 2024",
-      "url": "/andrewmalcolm/2022/07/19/no-tiptoeing-for-mike-pence-hes-running-right-at-donald-trump-for-2024-n597548"
-    },
-    {
-      "text": "Andrew Malcolm",
-      "url": "/author/andrewmalcolm"
-    },
-    {
-      "text": "\n\n",
-      "url": "/alexparker/2022/07/19/state-of-the-union-cops-get-shot-at-by-an-arrested-mans-family-member-whos-four-n597541"
-    },
-    {
-      "text": "State of the Union: Cops Get Shot at by an Arrested Man's Family Member \u2014 Who's Four",
-      "url": "/alexparker/2022/07/19/state-of-the-union-cops-get-shot-at-by-an-arrested-mans-family-member-whos-four-n597541"
-    },
-    {
-      "text": "Alex Parker",
-      "url": "/author/alexparker"
-    },
-    {
-      "text": "\n\n",
-      "url": "/bonchie/2022/07/19/americas-insanely-two-tiered-justice-system-perfectly-encapsulated-in-sentencing-of-antifa-arsonist-n597589"
-    },
-    {
-      "text": "America's Insanely Two-Tiered Justice System Perfectly Encapsulated in Sentencing of Antifa Arsonist",
-      "url": "/bonchie/2022/07/19/americas-insanely-two-tiered-justice-system-perfectly-encapsulated-in-sentencing-of-antifa-arsonist-n597589"
+      "text": "Ron DeSantis Lays Waste to Gavin Newsom's Laughably Dishonest Attacks",
+      "url": "/bonchie/2022/07/20/ron-desantis-lays-waste-to-gavin-newsoms-laughably-dishonest-attacks-n598377"
     },
     {
       "text": "Bonchie",
       "url": "/author/bonchie"
     },
     {
-      "text": "\n\n",
-      "url": "/jenniferoo/2022/07/19/naomi-wolf-links-communist-china-and-its-executed-purpose-of-inflicting-the-covid-vaccines-on-america-and-europe-n597395"
+      "text": "Capitol Police Release Damning Facts, Slam DOJ Decision to Not Charge the 'Colbert Nine' ",
+      "url": "https://redstate.com/bonchie/2022/07/20/capitol-police-release-damning-facts-slam-doj-decision-to-not-charge-the-colbert-nine-n598358"
     },
     {
-      "text": "Naomi Wolf Links Communist China and Its Executed Purpose of Inflicting the COVID Vaccines on America and Europe",
-      "url": "/jenniferoo/2022/07/19/naomi-wolf-links-communist-china-and-its-executed-purpose-of-inflicting-the-covid-vaccines-on-america-and-europe-n597395"
+      "text": "'Dr.' Jill Hits a New Low as Biden White House Close to Hitting Rock Bottom ",
+      "url": "https://redstate.com/sister-toldjah/2022/07/20/dr-jill-hits-a-new-low-as-biden-white-house-close-to-hitting-rock-bottom-n598484"
+    },
+    {
+      "text": "The Democrats' Base Is Fleeing at an Alarming Rate ",
+      "url": "https://redstate.com/joesquire/2022/07/20/the-democrats-base-is-fleeing-at-an-alarming-rate-n598351"
+    },
+    {
+      "text": "Ron DeSantis Lays Waste to Gavin Newsom's Laughably Dishonest Attacks ",
+      "url": "https://redstate.com/bonchie/2022/07/20/ron-desantis-lays-waste-to-gavin-newsoms-laughably-dishonest-attacks-n598377"
+    },
+    {
+      "text": "Mayra Flores Continues to Kick Bootie as Democratic Opponent Steps in It yet Again ",
+      "url": "https://redstate.com/sister-toldjah/2022/07/20/mayra-flores-continues-to-kick-bootie-as-democratic-opponent-steps-in-it-yet-again-n598423"
+    },
+    {
+      "text": "\n\n",
+      "url": "/sister-toldjah/2022/07/20/mayra-flores-continues-to-kick-bootie-as-democratic-opponent-steps-in-it-yet-again-n598423"
+    },
+    {
+      "text": "Mayra Flores Continues to Kick Bootie as Democratic Opponent Steps in It yet Again",
+      "url": "/sister-toldjah/2022/07/20/mayra-flores-continues-to-kick-bootie-as-democratic-opponent-steps-in-it-yet-again-n598423"
+    },
+    {
+      "text": "Sister Toldjah",
+      "url": "/author/sister-toldjah"
+    },
+    {
+      "text": "\n\n",
+      "url": "/jenniferoo/2022/07/20/missouri-ag-eric-schmitt-and-scotland-county-sheriff-vow-to-fight-the-fbi-trojan-horse-audit-n598302"
+    },
+    {
+      "text": "Missouri AG Eric Schmitt and Scotland County Sheriff Vow to Fight the FBI Trojan Horse Audit",
+      "url": "/jenniferoo/2022/07/20/missouri-ag-eric-schmitt-and-scotland-county-sheriff-vow-to-fight-the-fbi-trojan-horse-audit-n598302"
     },
     {
       "text": "Jennifer Oliver O'Connell",
@@ -614,35 +668,11 @@
     },
     {
       "text": "\n\n",
-      "url": "/mike_miller/2022/07/19/woke-college-professors-call-on-archeologists-to-stop-identifying-ancient-human-remains-by-gender-n597422"
+      "url": "/jerrywilson/2022/07/20/rob-manfred-turns-up-the-stupidity-regarding-the-as-future-in-oakland-n598310"
     },
     {
-      "text": "Woke College Professors Call on Archeologists to Stop Identifying Ancient Human Remains by Gender",
-      "url": "/mike_miller/2022/07/19/woke-college-professors-call-on-archeologists-to-stop-identifying-ancient-human-remains-by-gender-n597422"
-    },
-    {
-      "text": "Mike Miller",
-      "url": "/author/mike_miller"
-    },
-    {
-      "text": "\n\n",
-      "url": "/levon/2022/07/19/joe-rogan-and-tom-segura-criticize-donald-trump-n597514"
-    },
-    {
-      "text": "Joe Rogan and Tom Segura Criticize Donald Trump",
-      "url": "/levon/2022/07/19/joe-rogan-and-tom-segura-criticize-donald-trump-n597514"
-    },
-    {
-      "text": "Levon Satamian",
-      "url": "/author/levon"
-    },
-    {
-      "text": "\n\n",
-      "url": "/jerrywilson/2022/07/19/at-home-run-derby-albert-pujols-stood-athwart-times-relentless-march-and-ordered-it-to-briefly-stop-n597488"
-    },
-    {
-      "text": "At Home Run Derby, Albert Pujols stood Athwart Time\u2019s Relentless March and Ordered It to (Briefly) Stop",
-      "url": "/jerrywilson/2022/07/19/at-home-run-derby-albert-pujols-stood-athwart-times-relentless-march-and-ordered-it-to-briefly-stop-n597488"
+      "text": "Rob Manfred Turns up the Stupidity Regarding the A\u2019s Future in Oakland",
+      "url": "/jerrywilson/2022/07/20/rob-manfred-turns-up-the-stupidity-regarding-the-as-future-in-oakland-n598310"
     },
     {
       "text": "Jerry Wilson",
@@ -650,11 +680,23 @@
     },
     {
       "text": "\n\n",
-      "url": "/nick-arama/2022/07/18/decision-is-in-on-whether-stephen-colberts-crew-will-be-prosecuted-for-arrest-at-capitol-complex-n597408"
+      "url": "/joesquire/2022/07/20/the-democrats-base-is-fleeing-at-an-alarming-rate-n598351"
     },
     {
-      "text": "Decision Is in on Whether Stephen Colbert's Crew Will Be Prosecuted for Arrest at Capitol Complex",
-      "url": "/nick-arama/2022/07/18/decision-is-in-on-whether-stephen-colberts-crew-will-be-prosecuted-for-arrest-at-capitol-complex-n597408"
+      "text": "The Democrats' Base Is Fleeing at an Alarming Rate",
+      "url": "/joesquire/2022/07/20/the-democrats-base-is-fleeing-at-an-alarming-rate-n598351"
+    },
+    {
+      "text": "Joe Cunningham",
+      "url": "/author/joesquire"
+    },
+    {
+      "text": "\n\n",
+      "url": "/nick-arama/2022/07/20/bidens-bike-fall-gets-humorous-recognition-as-lawmaker-raises-questions-about-mental-capacity-n598303"
+    },
+    {
+      "text": "Biden's Bike Fall Gets Humorous Recognition as Lawmaker Raises Questions About Mental Capacity",
+      "url": "/nick-arama/2022/07/20/bidens-bike-fall-gets-humorous-recognition-as-lawmaker-raises-questions-about-mental-capacity-n598303"
     },
     {
       "text": "Nick Arama",
@@ -662,11 +704,47 @@
     },
     {
       "text": "\n\n",
-      "url": "/alexparker/2022/07/18/why-we-cant-have-nice-things-good-samaritan-who-saved-indiana-mall-goers-is-denounced-as-no-hero-n597392"
+      "url": "/jimthompson/2022/07/20/humpday-toon-aoc-the-drama-queen-n598314"
     },
     {
-      "text": "Why We Can't Have Nice Things: 'Good Samaritan' Who Saved Indiana Mall Goers Is Denounced as No Hero",
-      "url": "/alexparker/2022/07/18/why-we-cant-have-nice-things-good-samaritan-who-saved-indiana-mall-goers-is-denounced-as-no-hero-n597392"
+      "text": "HumpDay 'Toon: AOC the Drama Queen",
+      "url": "/jimthompson/2022/07/20/humpday-toon-aoc-the-drama-queen-n598314"
+    },
+    {
+      "text": "Jim Thompson",
+      "url": "/author/jimthompson"
+    },
+    {
+      "text": "\n\n",
+      "url": "/bonchie/2022/07/20/capitol-police-release-damning-facts-slam-doj-decision-to-not-charge-the-colbert-nine-n598358"
+    },
+    {
+      "text": "Capitol Police Release Damning Facts, Slam DOJ Decision to Not Charge the 'Colbert Nine'",
+      "url": "/bonchie/2022/07/20/capitol-police-release-damning-facts-slam-doj-decision-to-not-charge-the-colbert-nine-n598358"
+    },
+    {
+      "text": "Bonchie",
+      "url": "/author/bonchie"
+    },
+    {
+      "text": "\n\n",
+      "url": "/beccalower/2022/07/20/trump-endorsed-candidate-dan-cox-defeats-hogan-pick-in-gop-gubernatorial-primary-n598313"
+    },
+    {
+      "text": "Trump-Endorsed Candidate Dan Cox Defeats Hogan Pick in Maryland GOP Gubernatorial Primary",
+      "url": "/beccalower/2022/07/20/trump-endorsed-candidate-dan-cox-defeats-hogan-pick-in-gop-gubernatorial-primary-n598313"
+    },
+    {
+      "text": "Becca Lower",
+      "url": "/author/beccalower"
+    },
+    {
+      "text": "\n\n",
+      "url": "/alexparker/2022/07/20/professor-insists-anti-cheating-rules-arent-fair-to-black-and-latinx-students-n598300"
+    },
+    {
+      "text": "Professor Insists Anti-Cheating Rules Aren't Fair to 'Black and Latinx' Students",
+      "url": "/alexparker/2022/07/20/professor-insists-anti-cheating-rules-arent-fair-to-black-and-latinx-students-n598300"
     },
     {
       "text": "Alex Parker",
@@ -674,23 +752,11 @@
     },
     {
       "text": "\n\n",
-      "url": "/streiff/2022/07/18/chicoms-whine-ominously-about-us-military-sales-to-republic-of-china-as-the-window-closes-on-reunification-n597197"
+      "url": "/carcand/2022/07/19/neil-parrott-defeats-matthew-foldi-in-crowded-maryland-sixth-cong-district-gop-primary-n598285"
     },
     {
-      "text": "ChiComs Whine Ominously About US Military Sales to Republic of China as the Window Closes on 'Reunification'",
-      "url": "/streiff/2022/07/18/chicoms-whine-ominously-about-us-military-sales-to-republic-of-china-as-the-window-closes-on-reunification-n597197"
-    },
-    {
-      "text": "streiff",
-      "url": "/author/streiff"
-    },
-    {
-      "text": "\n\n",
-      "url": "/carcand/2022/07/18/uc-irvine-is-reinstating-their-indoor-mask-mandate-of-course-n597283"
-    },
-    {
-      "text": "UC Irvine Is Reinstating Their Indoor Mask Mandate, of Course",
-      "url": "/carcand/2022/07/18/uc-irvine-is-reinstating-their-indoor-mask-mandate-of-course-n597283"
+      "text": "Neil Parrott Defeats Matthew Foldi in Crowded, Maryland Sixth Cong. District GOP Primary",
+      "url": "/carcand/2022/07/19/neil-parrott-defeats-matthew-foldi-in-crowded-maryland-sixth-cong-district-gop-primary-n598285"
     },
     {
       "text": "Cameron Arcand",
@@ -698,35 +764,95 @@
     },
     {
       "text": "\n\n",
-      "url": "/chris-talgo/2022/07/18/the-biden-administration-is-deliberately-sabotaging-u-s-energy-production-n597200"
+      "url": "/nick-arama/2022/07/19/the-details-of-how-good-guy-with-gun-took-out-indiana-mall-mass-shooter-are-even-more-amazing-n598228"
     },
     {
-      "text": "The Biden Administration Is Deliberately Sabotaging U.S. Energy Production",
-      "url": "/chris-talgo/2022/07/18/the-biden-administration-is-deliberately-sabotaging-u-s-energy-production-n597200"
+      "text": "Man who Neutralized Greenwood Mall Shooter Did in 15 Seconds What 376 Law Enforcement Officers in Uvalde Couldn't Do in 77 Minutes",
+      "url": "/nick-arama/2022/07/19/the-details-of-how-good-guy-with-gun-took-out-indiana-mall-mass-shooter-are-even-more-amazing-n598228"
     },
     {
-      "text": "Chris Talgo",
-      "url": "/author/chris-talgo"
-    },
-    {
-      "text": "\n\n",
-      "url": "/bonchie/2022/07/18/joe-biden-hits-another-milestone-of-pure-ineptitude-n597358"
-    },
-    {
-      "text": "Joe Biden Hits Another Milestone of Pure Ineptitude",
-      "url": "/bonchie/2022/07/18/joe-biden-hits-another-milestone-of-pure-ineptitude-n597358"
-    },
-    {
-      "text": "Bonchie",
-      "url": "/author/bonchie"
+      "text": "Nick Arama",
+      "url": "/author/nick-arama"
     },
     {
       "text": "\n\n",
-      "url": "/mike_miller/2022/07/18/watch-fox-news-host-suggests-bidens-handlers-are-feeding-him-drugs-to-allow-him-to-function-n597224"
+      "url": "/levon/2022/07/19/if-the-dnc-follows-chris-cillizzas-ranking-of-the-2024-democratic-field-they-will-lose-badly-n598204"
     },
     {
-      "text": "Watch: Fox News Host Suggests Biden's Handlers Are 'Feeding Him Drugs to Allow Him to Function'",
-      "url": "/mike_miller/2022/07/18/watch-fox-news-host-suggests-bidens-handlers-are-feeding-him-drugs-to-allow-him-to-function-n597224"
+      "text": "If the DNC Follows Chris Cillizza's Ranking of the 2024 Democratic Field, They Will Lose\u2014Badly",
+      "url": "/levon/2022/07/19/if-the-dnc-follows-chris-cillizzas-ranking-of-the-2024-democratic-field-they-will-lose-badly-n598204"
+    },
+    {
+      "text": "Levon Satamian",
+      "url": "/author/levon"
+    },
+    {
+      "text": "\n\n",
+      "url": "/nick-arama/2022/07/19/wh-confirms-they-are-considering-radical-climate-move-that-could-be-incredibly-destructive-n598214"
+    },
+    {
+      "text": "WH Confirms They Are Considering Radical Climate Move That Could Be Incredibly Destructive",
+      "url": "/nick-arama/2022/07/19/wh-confirms-they-are-considering-radical-climate-move-that-could-be-incredibly-destructive-n598214"
+    },
+    {
+      "text": "Nick Arama",
+      "url": "/author/nick-arama"
+    },
+    {
+      "text": "\n\n",
+      "url": "/alexparker/2022/07/19/sga-judicial-candidate-is-canned-after-quoting-the-bible-courts-dont-need-religious-nuts-n598197"
+    },
+    {
+      "text": "SGA Judicial Candidate Is Canned After Quoting the Bible \u2014 Courts Don't Need Religious Nuts",
+      "url": "/alexparker/2022/07/19/sga-judicial-candidate-is-canned-after-quoting-the-bible-courts-dont-need-religious-nuts-n598197"
+    },
+    {
+      "text": "Alex Parker",
+      "url": "/author/alexparker"
+    },
+    {
+      "text": "\n\n",
+      "url": "/jenniferoo/2022/07/19/exclusive-underground-moms-group-exposes-ferrers-plan-to-return-to-mandates-in-opposition-to-medical-data-n597770"
+    },
+    {
+      "text": "EXCLUSIVE: Underground Moms Group Exposes LA Public Health's Plan to Return to Mandates the County's Own Doctors Say Aren't Needed",
+      "url": "/jenniferoo/2022/07/19/exclusive-underground-moms-group-exposes-ferrers-plan-to-return-to-mandates-in-opposition-to-medical-data-n597770"
+    },
+    {
+      "text": "Jennifer Oliver O'Connell",
+      "url": "/author/jenniferoo"
+    },
+    {
+      "text": "\n\n",
+      "url": "/nick-arama/2022/07/19/wh-response-to-why-bidens-schedule-has-been-empty-for-two-days-is-pretty-pathetic-n598143"
+    },
+    {
+      "text": "WH Response to Why Biden's Schedule Has Been Empty for Two Days Is Pretty Pathetic",
+      "url": "/nick-arama/2022/07/19/wh-response-to-why-bidens-schedule-has-been-empty-for-two-days-is-pretty-pathetic-n598143"
+    },
+    {
+      "text": "Nick Arama",
+      "url": "/author/nick-arama"
+    },
+    {
+      "text": "\n\n",
+      "url": "/jeffc/2022/07/19/homeland-security-finally-admits-what-we-all-knew-about-disinformation-governance-board-n598031"
+    },
+    {
+      "text": "Homeland Security Finally Admits What We All Knew About 'Disinformation Governance Board'",
+      "url": "/jeffc/2022/07/19/homeland-security-finally-admits-what-we-all-knew-about-disinformation-governance-board-n598031"
+    },
+    {
+      "text": "Jeff Charles",
+      "url": "/author/jeffc"
+    },
+    {
+      "text": "\n\n",
+      "url": "/mike_miller/2022/07/19/nbc-news-reporter-suffers-freak-out-about-heat-wave-blames-climate-change-on-joe-manchin-n597797"
+    },
+    {
+      "text": "NBC News Reporter Suffers Freak-out About 'Heat Wave,' Blames 'Climate Change' on Joe Manchin",
+      "url": "/mike_miller/2022/07/19/nbc-news-reporter-suffers-freak-out-about-heat-wave-blames-climate-change-on-joe-manchin-n597797"
     },
     {
       "text": "Mike Miller",
@@ -734,191 +860,11 @@
     },
     {
       "text": "\n\n",
-      "url": "/jeffc/2022/07/18/no-seriously-they-really-are-after-your-kids-n597312"
+      "url": "/bobhoge/2022/07/19/vacuum-cleaner-of-doom-prince-harry-roundly-spanked-by-critics-for-his-constitution-bashing-un-speech-n598103"
     },
     {
-      "text": "No Seriously, They Really Are After Your Kids",
-      "url": "/jeffc/2022/07/18/no-seriously-they-really-are-after-your-kids-n597312"
-    },
-    {
-      "text": "Jeff Charles",
-      "url": "/author/jeffc"
-    },
-    {
-      "text": "\n\n",
-      "url": "/carcand/2022/07/18/interview-illinois-gubernatorial-gop-nominee-darren-bailey-blames-pritzker-and-democrats-for-states-high-crime-n597332"
-    },
-    {
-      "text": "INTERVIEW: Illinois Gubernatorial GOP Nominee Darren Bailey Blames Pritzker and Democrats for State's High Crime",
-      "url": "/carcand/2022/07/18/interview-illinois-gubernatorial-gop-nominee-darren-bailey-blames-pritzker-and-democrats-for-states-high-crime-n597332"
-    },
-    {
-      "text": "Cameron Arcand",
-      "url": "/author/carcand"
-    },
-    {
-      "text": "\n\n",
-      "url": "/levon/2022/07/18/several-gop-senators-visit-the-southern-border-drug-cartels-are-taking-full-advantage-n597297"
-    },
-    {
-      "text": "Several GOP Senators Visit the Southern Border: \u2018Drug Cartels Are Taking Full Advantage\u2019",
-      "url": "/levon/2022/07/18/several-gop-senators-visit-the-southern-border-drug-cartels-are-taking-full-advantage-n597297"
-    },
-    {
-      "text": "Levon Satamian",
-      "url": "/author/levon"
-    },
-    {
-      "text": "\n\n",
-      "url": "/nick-arama/2022/07/18/wh-effort-to-clean-up-after-biden-and-harris-goes-all-kinds-of-wrong-n597275"
-    },
-    {
-      "text": "WH Effort to Clean up After Biden and Harris Goes All Kinds of Wrong",
-      "url": "/nick-arama/2022/07/18/wh-effort-to-clean-up-after-biden-and-harris-goes-all-kinds-of-wrong-n597275"
-    },
-    {
-      "text": "Nick Arama",
-      "url": "/author/nick-arama"
-    },
-    {
-      "text": "\n\n",
-      "url": "/jimthompson/2022/07/18/bonus-cartoon-media-monkeys-n597316"
-    },
-    {
-      "text": "Bonus Cartoon: Media Monkeys",
-      "url": "/jimthompson/2022/07/18/bonus-cartoon-media-monkeys-n597316"
-    },
-    {
-      "text": "Jim Thompson",
-      "url": "/author/jimthompson"
-    },
-    {
-      "text": "\n\n",
-      "url": "/brandon_morse/2022/07/18/the-good-guy-with-a-gun-is-the-logical-outcome-of-a-free-society-and-a-much-needed-one-n597271"
-    },
-    {
-      "text": "The 'Good Guy With a Gun' Is the Logical Outcome of a Free Society, and a Much Needed One",
-      "url": "/brandon_morse/2022/07/18/the-good-guy-with-a-gun-is-the-logical-outcome-of-a-free-society-and-a-much-needed-one-n597271"
-    },
-    {
-      "text": "Brandon Morse",
-      "url": "/author/brandon_morse"
-    },
-    {
-      "text": "\n\n",
-      "url": "/levon/2022/07/18/florida-attorney-general-asks-biden-to-proclaim-fentanyl-as-a-weapon-of-mass-destruction-n597261"
-    },
-    {
-      "text": "Florida Attorney General Asks Biden to Proclaim Fentanyl a Weapon of Mass Destruction",
-      "url": "/levon/2022/07/18/florida-attorney-general-asks-biden-to-proclaim-fentanyl-as-a-weapon-of-mass-destruction-n597261"
-    },
-    {
-      "text": "Levon Satamian",
-      "url": "/author/levon"
-    },
-    {
-      "text": "\n\n",
-      "url": "/brandon_morse/2022/07/18/the-terminal-list-review-the-most-important-television-show-in-recent-history-n597181"
-    },
-    {
-      "text": "'The Terminal List' Review: The Most Important Television Show In Recent History",
-      "url": "/brandon_morse/2022/07/18/the-terminal-list-review-the-most-important-television-show-in-recent-history-n597181"
-    },
-    {
-      "text": "Brandon Morse",
-      "url": "/author/brandon_morse"
-    },
-    {
-      "text": "\n\n",
-      "url": "/nick-arama/2022/07/18/biden-and-deese-try-to-bamboozle-america-on-gas-prices-get-nailed-with-their-own-words-n597161"
-    },
-    {
-      "text": "Biden and Deese Try to Bamboozle America on Gas Prices, Get Nailed With Their Own Words",
-      "url": "/nick-arama/2022/07/18/biden-and-deese-try-to-bamboozle-america-on-gas-prices-get-nailed-with-their-own-words-n597161"
-    },
-    {
-      "text": "Nick Arama",
-      "url": "/author/nick-arama"
-    },
-    {
-      "text": "\n\n",
-      "url": "/bonchie/2022/07/18/kamala-harris-gives-a-mind-numbing-lesson-on-assault-weapons-and-venn-diagrams-n597163"
-    },
-    {
-      "text": "Kamala Harris Gives a Mind-Numbing Lesson on 'Assault Weapons' and 'Venn Diagrams'",
-      "url": "/bonchie/2022/07/18/kamala-harris-gives-a-mind-numbing-lesson-on-assault-weapons-and-venn-diagrams-n597163"
-    },
-    {
-      "text": "Bonchie",
-      "url": "/author/bonchie"
-    },
-    {
-      "text": "\n\n",
-      "url": "/levon/2022/07/18/robbers-steal-up-to-150-million-of-jewelry-from-armored-truck-n597145"
-    },
-    {
-      "text": "Robbers Steal up to $150 Million of Jewelry From Armored Truck",
-      "url": "/levon/2022/07/18/robbers-steal-up-to-150-million-of-jewelry-from-armored-truck-n597145"
-    },
-    {
-      "text": "Levon Satamian",
-      "url": "/author/levon"
-    },
-    {
-      "text": "\n\n",
-      "url": "/carcand/2022/07/18/sen-ted-cruz-slams-prince-harry-for-contending-the-united-states-is-rolling-back-constitutional-rights-n597162"
-    },
-    {
-      "text": "Sen. Ted Cruz Slams Prince Harry for Contending the United States Is 'Rolling Back' Constitutional Rights",
-      "url": "/carcand/2022/07/18/sen-ted-cruz-slams-prince-harry-for-contending-the-united-states-is-rolling-back-constitutional-rights-n597162"
-    },
-    {
-      "text": "Cameron Arcand",
-      "url": "/author/carcand"
-    },
-    {
-      "text": "\n\n",
-      "url": "/jeffc/2022/07/18/don-lemon-doubles-down-on-media-activism-despite-new-cnn-leadership-n597152"
-    },
-    {
-      "text": "Don Lemon Doubles Down on Media Activism Despite New CNN Leadership",
-      "url": "/jeffc/2022/07/18/don-lemon-doubles-down-on-media-activism-despite-new-cnn-leadership-n597152"
-    },
-    {
-      "text": "Jeff Charles",
-      "url": "/author/jeffc"
-    },
-    {
-      "text": "\n\n",
-      "url": "/nick-arama/2022/07/18/msnbcs-stephanie-ruhle-busted-parroting-exact-words-of-dnc-official-against-arming-teachers-n597028"
-    },
-    {
-      "text": "MSNBC's Stephanie Ruhle Busted Parroting Exact Words of DNC Official Against Arming Teachers",
-      "url": "/nick-arama/2022/07/18/msnbcs-stephanie-ruhle-busted-parroting-exact-words-of-dnc-official-against-arming-teachers-n597028"
-    },
-    {
-      "text": "Nick Arama",
-      "url": "/author/nick-arama"
-    },
-    {
-      "text": "\n\n",
-      "url": "/levon/2022/07/18/msnbc-guests-compare-gop-to-mussolini-hitler-n596866"
-    },
-    {
-      "text": "MSNBC Guests Compare GOP to Mussolini, Hitler",
-      "url": "/levon/2022/07/18/msnbc-guests-compare-gop-to-mussolini-hitler-n596866"
-    },
-    {
-      "text": "Levon Satamian",
-      "url": "/author/levon"
-    },
-    {
-      "text": "\n\n",
-      "url": "/bobhoge/2022/07/18/left-wing-taxpayer-funded-npr-sets-up-a-disinformation-team-n597022"
-    },
-    {
-      "text": "Left-Wing, Taxpayer-Funded NPR Sets up a 'Disinformation Team'",
-      "url": "/bobhoge/2022/07/18/left-wing-taxpayer-funded-npr-sets-up-a-disinformation-team-n597022"
+      "text": "'Vacuum-Cleaner of Doom' Prince Harry Roundly Spanked by Critics for His Constitution-Bashing UN Speech",
+      "url": "/bobhoge/2022/07/19/vacuum-cleaner-of-doom-prince-harry-roundly-spanked-by-critics-for-his-constitution-bashing-un-speech-n598103"
     },
     {
       "text": "Bob Hoge",
@@ -926,23 +872,35 @@
     },
     {
       "text": "\n\n",
-      "url": "/mike_miller/2022/07/18/bidens-latest-scheme-to-provide-nationwide-abortion-is-pure-desperation-n596983"
+      "url": "/nick-arama/2022/07/19/pranksters-trick-stephen-king-into-thinking-hes-talking-to-zelensky-then-he-shows-how-twisted-leftists-are-in-ukraine-cult-n598014"
     },
     {
-      "text": "Biden's Latest Scheme to Provide Nationwide Abortion Is Pure Desperation",
-      "url": "/mike_miller/2022/07/18/bidens-latest-scheme-to-provide-nationwide-abortion-is-pure-desperation-n596983"
+      "text": "Pranksters Trick Stephen King Into Thinking He's Talking to Zelensky, Then He Shows How Twisted Leftists Are in Ukraine Cult",
+      "url": "/nick-arama/2022/07/19/pranksters-trick-stephen-king-into-thinking-hes-talking-to-zelensky-then-he-shows-how-twisted-leftists-are-in-ukraine-cult-n598014"
     },
     {
-      "text": "Mike Miller",
-      "url": "/author/mike_miller"
+      "text": "Nick Arama",
+      "url": "/author/nick-arama"
     },
     {
       "text": "\n\n",
-      "url": "/carcand/2022/07/18/over-207000-migrant-encounters-at-southern-border-in-june-2022-slated-to-dwarf-2021-numbers-n597037"
+      "url": "/bradslager/2022/07/19/the-lie-able-sources-podcast-transitory-definitions-the-colbert-9-and-yet-another-desantis-bombshell-fails-to-detonate-n597881"
     },
     {
-      "text": "Over 207,000 Migrant Encounters at Southern Border in June, 2022 Slated to Dwarf 2021 Numbers",
-      "url": "/carcand/2022/07/18/over-207000-migrant-encounters-at-southern-border-in-june-2022-slated-to-dwarf-2021-numbers-n597037"
+      "text": "The Lie-Able Sources Podcast: Transitory Definitions, the Colbert 9, and Yet Another DeSantis Bombshell Fails to Detonate",
+      "url": "/bradslager/2022/07/19/the-lie-able-sources-podcast-transitory-definitions-the-colbert-9-and-yet-another-desantis-bombshell-fails-to-detonate-n597881"
+    },
+    {
+      "text": "Brad Slager",
+      "url": "/author/bradslager"
+    },
+    {
+      "text": "\n\n",
+      "url": "/carcand/2022/07/19/white-house-calls-texas-and-arizonas-decision-to-bus-migrants-to-east-coast-shameful-n598065"
+    },
+    {
+      "text": "White House Calls Texas' and Arizona's Decision to Bus Migrants to East Coast 'Shameful'",
+      "url": "/carcand/2022/07/19/white-house-calls-texas-and-arizonas-decision-to-bus-migrants-to-east-coast-shameful-n598065"
     },
     {
       "text": "Cameron Arcand",
@@ -950,35 +908,35 @@
     },
     {
       "text": "\n\n",
-      "url": "/sister-toldjah/2022/07/18/sen-chris-murphy-strangely-silent-after-his-good-guy-with-a-gun-theory-goes-down-in-flames-n597032"
+      "url": "/redstatestaff/2022/07/19/live-election-results-maryland-n597808"
     },
     {
-      "text": "Sen. Chris Murphy Strangely Silent After His 'Good Guy With a Gun' Theory Goes Down in Flames",
-      "url": "/sister-toldjah/2022/07/18/sen-chris-murphy-strangely-silent-after-his-good-guy-with-a-gun-theory-goes-down-in-flames-n597032"
+      "text": "LIVE ELECTION RESULTS: Maryland",
+      "url": "/redstatestaff/2022/07/19/live-election-results-maryland-n597808"
     },
     {
-      "text": "Sister Toldjah",
-      "url": "/author/sister-toldjah"
-    },
-    {
-      "text": "\n\n",
-      "url": "/brandon_morse/2022/07/18/auto-draft-19-n597102"
-    },
-    {
-      "text": "RedState LIVE! Is Happening Now: Woke Culture Is the Quest to Destroy it All",
-      "url": "/brandon_morse/2022/07/18/auto-draft-19-n597102"
-    },
-    {
-      "text": "Brandon Morse",
-      "url": "/author/brandon_morse"
+      "text": "RedState Staff",
+      "url": "/author/redstatestaff"
     },
     {
       "text": "\n\n",
-      "url": "/jimthompson/2022/07/18/monday-editorial-cartoon-uvalde-police-tape-has-a-new-purpose-n597030"
+      "url": "/bonchie/2022/07/19/secret-service-leaves-the-january-6th-committee-and-the-press-fuming-with-announcement-on-supposed-evidence-n598066"
     },
     {
-      "text": "Monday Editorial Cartoon: Uvalde 'Police Tape' Has a New Purpose",
-      "url": "/jimthompson/2022/07/18/monday-editorial-cartoon-uvalde-police-tape-has-a-new-purpose-n597030"
+      "text": "Secret Service Leaves the January 6th Committee and the Press Fuming With Announcement on Supposed 'Evidence'",
+      "url": "/bonchie/2022/07/19/secret-service-leaves-the-january-6th-committee-and-the-press-fuming-with-announcement-on-supposed-evidence-n598066"
+    },
+    {
+      "text": "Bonchie",
+      "url": "/author/bonchie"
+    },
+    {
+      "text": "\n\n",
+      "url": "/jimthompson/2022/07/19/watch-armed-atf-agents-show-up-at-gun-owners-home-unannounced-to-inspect-lawfully-purchased-guns-n598051"
+    },
+    {
+      "text": "Watch: Armed ATF Agents Show up at Gun Owner's Home Unannounced, to Inspect Lawfully Purchased Guns",
+      "url": "/jimthompson/2022/07/19/watch-armed-atf-agents-show-up-at-gun-owners-home-unannounced-to-inspect-lawfully-purchased-guns-n598051"
     },
     {
       "text": "Jim Thompson",
@@ -986,23 +944,167 @@
     },
     {
       "text": "\n\n",
-      "url": "/smoosieq/2022/07/18/yet-another-good-guy-with-gun-story-this-time-in-missouri-n597036"
+      "url": "/jeffc/2022/07/19/sesame-street-is-a-white-supremacist-production-and-should-be-shut-down-immediately-n597897"
     },
     {
-      "text": "Yet Another Good-Guy-With-Gun Story - This Time in Missouri",
-      "url": "/smoosieq/2022/07/18/yet-another-good-guy-with-gun-story-this-time-in-missouri-n597036"
+      "text": "Sesame Street Is a White Supremacist Production and Should Be Shut Down Immediately",
+      "url": "/jeffc/2022/07/19/sesame-street-is-a-white-supremacist-production-and-should-be-shut-down-immediately-n597897"
     },
     {
-      "text": "Susie Moore",
-      "url": "/author/smoosieq"
+      "text": "Jeff Charles",
+      "url": "/author/jeffc"
     },
     {
       "text": "\n\n",
-      "url": "/carcand/2022/07/18/dr-fauci-expected-to-retire-before-bidens-first-term-ends-n597006"
+      "url": "/sister-toldjah/2022/07/19/ilhan-omar-and-pretending-trend-together-after-people-notice-something-curious-about-arrest-video-n598002"
     },
     {
-      "text": "Dr. Fauci Expected to Retire Before Biden's First Term Ends",
-      "url": "/carcand/2022/07/18/dr-fauci-expected-to-retire-before-bidens-first-term-ends-n597006"
+      "text": "'Ilhan Omar' and 'Pretending' Trend Together After People Notice Something Curious About \u2018Arrest\u2019 Video",
+      "url": "/sister-toldjah/2022/07/19/ilhan-omar-and-pretending-trend-together-after-people-notice-something-curious-about-arrest-video-n598002"
+    },
+    {
+      "text": "Sister Toldjah",
+      "url": "/author/sister-toldjah"
+    },
+    {
+      "text": "\n\n",
+      "url": "/nick-arama/2022/07/19/dem-lawmaker-has-orwellian-suggestion-to-make-abortion-less-negative-n597928"
+    },
+    {
+      "text": "Dem Lawmaker Has Orwellian Suggestion to Make Abortion Less 'Negative'",
+      "url": "/nick-arama/2022/07/19/dem-lawmaker-has-orwellian-suggestion-to-make-abortion-less-negative-n597928"
+    },
+    {
+      "text": "Nick Arama",
+      "url": "/author/nick-arama"
+    },
+    {
+      "text": "\n\n",
+      "url": "/redstate-guest-editorial/2022/07/19/dont-call-it-democracy-its-the-economy-stupid-n597988"
+    },
+    {
+      "text": "Don't Call It Democracy - It's the Economy, Stupid!",
+      "url": "/redstate-guest-editorial/2022/07/19/dont-call-it-democracy-its-the-economy-stupid-n597988"
+    },
+    {
+      "text": "RedState Guest Editorial",
+      "url": "/author/redstate-guest-editorial"
+    },
+    {
+      "text": "\n\n",
+      "url": "/bonchie/2022/07/19/the-gloves-come-off-after-uscp-arrests-16-members-of-congress-over-scotus-protest-n597904"
+    },
+    {
+      "text": "The Gloves Come off After USCP Arrests 16 Members of Congress Over SCOTUS Protest",
+      "url": "/bonchie/2022/07/19/the-gloves-come-off-after-uscp-arrests-16-members-of-congress-over-scotus-protest-n597904"
+    },
+    {
+      "text": "Bonchie",
+      "url": "/author/bonchie"
+    },
+    {
+      "text": "\n\n",
+      "url": "/bradslager/2022/07/19/feminism-has-come-full-circle-as-their-tactics-are-eliminating-women-n597727"
+    },
+    {
+      "text": "Feminism Has Come Full Circle as Their Tactics Are Eliminating Women",
+      "url": "/bradslager/2022/07/19/feminism-has-come-full-circle-as-their-tactics-are-eliminating-women-n597727"
+    },
+    {
+      "text": "Brad Slager",
+      "url": "/author/bradslager"
+    },
+    {
+      "text": "\n\n",
+      "url": "/levon/2022/07/19/two-gop-candidates-have-all-but-officially-announced-2024-white-house-bid-n597873"
+    },
+    {
+      "text": "Two GOP Candidates Have All but Officially Announced 2024 White House Bid",
+      "url": "/levon/2022/07/19/two-gop-candidates-have-all-but-officially-announced-2024-white-house-bid-n597873"
+    },
+    {
+      "text": "Levon Satamian",
+      "url": "/author/levon"
+    },
+    {
+      "text": "\n\n",
+      "url": "/sister-toldjah/2022/07/19/watch-the-views-sunny-hostin-accidentally-tells-on-gun-grabbers-in-good-guys-with-guns-rant-n597877"
+    },
+    {
+      "text": "Watch: The View's Sunny Hostin Accidentally Tells on Gun Grabbers in 'Good Guys With Guns' Rant",
+      "url": "/sister-toldjah/2022/07/19/watch-the-views-sunny-hostin-accidentally-tells-on-gun-grabbers-in-good-guys-with-guns-rant-n597877"
+    },
+    {
+      "text": "Sister Toldjah",
+      "url": "/author/sister-toldjah"
+    },
+    {
+      "text": "\n\n",
+      "url": "/brandon_morse/2022/07/19/cringe-aoc-pretends-to-get-arrested-at-the-supreme-court-n597851"
+    },
+    {
+      "text": "Cringe: AOC Pretends to Get Arrested at the Supreme Court",
+      "url": "/brandon_morse/2022/07/19/cringe-aoc-pretends-to-get-arrested-at-the-supreme-court-n597851"
+    },
+    {
+      "text": "Brandon Morse",
+      "url": "/author/brandon_morse"
+    },
+    {
+      "text": "\n\n",
+      "url": "/bonchie/2022/07/19/noted-religious-scholar-kamala-harris-shares-what-god-thinks-about-abortion-n597876"
+    },
+    {
+      "text": "Noted Religious Scholar Kamala Harris Shares What God Thinks About Abortion",
+      "url": "/bonchie/2022/07/19/noted-religious-scholar-kamala-harris-shares-what-god-thinks-about-abortion-n597876"
+    },
+    {
+      "text": "Bonchie",
+      "url": "/author/bonchie"
+    },
+    {
+      "text": "\n\n",
+      "url": "/bobhoge/2022/07/19/woke-ny-da-bragg-finally-drops-murder-charges-against-bodega-worker-who-defended-himself-n597788"
+    },
+    {
+      "text": "Woke NY DA Bragg Finally Drops Murder Charges Against Bodega Worker Who Defended Himself",
+      "url": "/bobhoge/2022/07/19/woke-ny-da-bragg-finally-drops-murder-charges-against-bodega-worker-who-defended-himself-n597788"
+    },
+    {
+      "text": "Bob Hoge",
+      "url": "/author/bobhoge"
+    },
+    {
+      "text": "\n\n",
+      "url": "/brandon_morse/2022/07/19/biden-isnt-the-democrat-partys-biggest-problem-n597654"
+    },
+    {
+      "text": "Biden Isn't the Democrat Party's Biggest Problem",
+      "url": "/brandon_morse/2022/07/19/biden-isnt-the-democrat-partys-biggest-problem-n597654"
+    },
+    {
+      "text": "Brandon Morse",
+      "url": "/author/brandon_morse"
+    },
+    {
+      "text": "\n\n",
+      "url": "/levon/2022/07/19/san-diego-unified-president-gives-outrageous-response-about-children-who-dont-want-to-wear-a-mask-n597774"
+    },
+    {
+      "text": "San Diego Unified President Gives Outrageous Response About Children Who Don\u2019t Want to Wear a Mask",
+      "url": "/levon/2022/07/19/san-diego-unified-president-gives-outrageous-response-about-children-who-dont-want-to-wear-a-mask-n597774"
+    },
+    {
+      "text": "Levon Satamian",
+      "url": "/author/levon"
+    },
+    {
+      "text": "\n\n",
+      "url": "/carcand/2022/07/19/report-explosion-at-hoover-dam-cause-unknown-n597854"
+    },
+    {
+      "text": "Updated: Report: Explosion at Hoover Dam, Cause Unknown",
+      "url": "/carcand/2022/07/19/report-explosion-at-hoover-dam-cause-unknown-n597854"
     },
     {
       "text": "Cameron Arcand",
@@ -1010,83 +1112,107 @@
     },
     {
       "text": "\n\n",
-      "url": "/bonchie/2022/07/18/gavin-newsom-reveals-the-hilariously-dumb-reason-hes-targeting-ron-desantis-n596967"
+      "url": "/jeffc/2022/07/19/3-reasons-why-anti-gunners-detest-good-guys-with-guns-n597822"
     },
     {
-      "text": "Gavin Newsom Reveals the Hilariously Dumb Reason He's Targeting Ron DeSantis",
-      "url": "/bonchie/2022/07/18/gavin-newsom-reveals-the-hilariously-dumb-reason-hes-targeting-ron-desantis-n596967"
+      "text": "3 Reasons Why Anti-Gunners Detest \u2018Good Guys With Guns\u2019",
+      "url": "/jeffc/2022/07/19/3-reasons-why-anti-gunners-detest-good-guys-with-guns-n597822"
     },
     {
-      "text": "Bonchie",
-      "url": "/author/bonchie"
-    },
-    {
-      "text": "\n\n",
-      "url": "/smoosieq/2022/07/18/moore-to-the-point-missing-the-forest-for-the-trees-n596978"
-    },
-    {
-      "text": "Moore to the Point - Missing the Forest for the Trees",
-      "url": "/smoosieq/2022/07/18/moore-to-the-point-missing-the-forest-for-the-trees-n596978"
-    },
-    {
-      "text": "Susie Moore",
-      "url": "/author/smoosieq"
+      "text": "Jeff Charles",
+      "url": "/author/jeffc"
     },
     {
       "text": "\n\n",
-      "url": "/bonchie/2022/07/18/anti-gun-activist-rages-after-good-guy-with-a-gun-drops-mass-shooter-in-indiana-n596951"
+      "url": "/brandon_morse/2022/07/19/disney-has-only-itself-to-blame-as-thor-love-and-thunder-falls-short-of-expectations-n597752"
     },
     {
-      "text": "Anti-Gun Activist Rages After Good Guy With a Gun Drops Mass Shooter in Indiana",
-      "url": "/bonchie/2022/07/18/anti-gun-activist-rages-after-good-guy-with-a-gun-drops-mass-shooter-in-indiana-n596951"
+      "text": "Disney Has Only Itself to Blame as 'Thor: Love and Thunder' Falls Short of Expectations",
+      "url": "/brandon_morse/2022/07/19/disney-has-only-itself-to-blame-as-thor-love-and-thunder-falls-short-of-expectations-n597752"
     },
     {
-      "text": "Bonchie",
-      "url": "/author/bonchie"
+      "text": "Brandon Morse",
+      "url": "/author/brandon_morse"
     },
     {
       "text": "\n\n",
-      "url": "/joesquire/2022/07/18/hispanic-and-working-class-voters-are-both-fleeing-from-progressives-n596949"
+      "url": "/levon/2022/07/19/donald-trump-criticizes-larry-hogan-ahead-of-maryland-primary-calls-him-a-shutdown-rino-n597441"
     },
     {
-      "text": "Hispanic and Working Class Voters Are Both Fleeing From Progressives",
-      "url": "/joesquire/2022/07/18/hispanic-and-working-class-voters-are-both-fleeing-from-progressives-n596949"
+      "text": "Donald Trump Criticizes Larry Hogan Ahead of Maryland Primary, Calls Him a \u2018Shutdown RINO\u2019",
+      "url": "/levon/2022/07/19/donald-trump-criticizes-larry-hogan-ahead-of-maryland-primary-calls-him-a-shutdown-rino-n597441"
     },
     {
-      "text": "Joe Cunningham",
-      "url": "/author/joesquire"
+      "text": "Levon Satamian",
+      "url": "/author/levon"
+    },
+    {
+      "text": "\n\n",
+      "url": "/nick-arama/2022/07/19/biden-now-considering-climate-move-that-will-devastate-country-n597683"
+    },
+    {
+      "text": "Biden Now Considering Climate Move That Will Devastate Country",
+      "url": "/nick-arama/2022/07/19/biden-now-considering-climate-move-that-will-devastate-country-n597683"
+    },
+    {
+      "text": "Nick Arama",
+      "url": "/author/nick-arama"
+    },
+    {
+      "text": "\n\n",
+      "url": "/carcand/2022/07/19/homeland-security-advisers-there-is-no-need-for-a-disinformation-governance-board-n597733"
+    },
+    {
+      "text": "Homeland Security Advisers: 'There Is No Need for a Disinformation Governance Board'",
+      "url": "/carcand/2022/07/19/homeland-security-advisers-there-is-no-need-for-a-disinformation-governance-board-n597733"
+    },
+    {
+      "text": "Cameron Arcand",
+      "url": "/author/carcand"
+    },
+    {
+      "text": "\n\n",
+      "url": "/jeffc/2022/07/19/heres-why-pro-abortionists-have-to-use-deflection-and-deception-in-the-abortion-debate-n597403"
+    },
+    {
+      "text": "Here's Why Pro-Abortionists Have to Use Deflection and Deception in the Abortion Debate",
+      "url": "/jeffc/2022/07/19/heres-why-pro-abortionists-have-to-use-deflection-and-deception-in-the-abortion-debate-n597403"
+    },
+    {
+      "text": "Jeff Charles",
+      "url": "/author/jeffc"
     },
     {
       "text": "\n",
-      "url": "https://townhall.com/tipsheet/mattvespa/2022/07/19/ny-mag-the-death-of-the-democrats-agenda-is-complete-n2610419"
+      "url": "https://townhall.com/tipsheet/miacathell/2022/07/20/hunter-biden-icloud-leak-n2610057"
     },
     {
-      "text": "Liberal Writer Zeros in on the Democrats' Existential Threat",
-      "url": "https://townhall.com/tipsheet/mattvespa/2022/07/19/ny-mag-the-death-of-the-democrats-agenda-is-complete-n2610419"
-    },
-    {
-      "text": "\n",
-      "url": "https://twitchy.com/sarahd-313035/2022/07/19/cori-bush-staffer-deletes-threat-to-put-our-bodies-between-joe-manchins-greed-and-the-people-we-serve-if-biden-doesnt-act-now-on-climate/"
-    },
-    {
-      "text": "Cori Bush staffer deletes threat 'to put our bodies between Joe Manchin's greed and the people we serve' if Biden doesn't act now on climate",
-      "url": "https://twitchy.com/sarahd-313035/2022/07/19/cori-bush-staffer-deletes-threat-to-put-our-bodies-between-joe-manchins-greed-and-the-people-we-serve-if-biden-doesnt-act-now-on-climate/"
+      "text": "The Top Nightmare Fuel From the Hunter Biden iCloud 'Leak'",
+      "url": "https://townhall.com/tipsheet/miacathell/2022/07/20/hunter-biden-icloud-leak-n2610057"
     },
     {
       "text": "\n",
-      "url": "https://redstate.com/alexparker/2022/07/18/why-we-cant-have-nice-things-good-samaritan-who-saved-indiana-mall-goers-is-denounced-as-no-hero-n597392"
+      "url": "https://twitchy.com/samj-3930/2022/07/20/looks-like-the-worlds-most-annoying-band-cori-bush-sharing-post-arrest-pic-posing-with-the-squad-backfires-spectacularly/"
     },
     {
-      "text": "Why We Can't Have Nice Things: 'Good Samaritan' Who Saved Indiana Mall Goers Is Denounced as No Hero",
-      "url": "https://redstate.com/alexparker/2022/07/18/why-we-cant-have-nice-things-good-samaritan-who-saved-indiana-mall-goers-is-denounced-as-no-hero-n597392"
+      "text": "Cori Bush sharing post 'arrest' pic posing with the squad BACKFIRES spectacularly",
+      "url": "https://twitchy.com/samj-3930/2022/07/20/looks-like-the-worlds-most-annoying-band-cori-bush-sharing-post-arrest-pic-posing-with-the-squad-backfires-spectacularly/"
     },
     {
       "text": "\n",
-      "url": "https://pjmedia.com/columns/rabbi-michael-barclay/2022/07/18/an-open-letter-to-alan-dershowitz-n1613687"
+      "url": "https://redstate.com/bonchie/2022/07/20/capitol-police-release-damning-facts-slam-doj-decision-to-not-charge-the-colbert-nine-n598358"
     },
     {
-      "text": "An Open Letter to Alan Dershowitz",
-      "url": "https://pjmedia.com/columns/rabbi-michael-barclay/2022/07/18/an-open-letter-to-alan-dershowitz-n1613687"
+      "text": "Capitol Police Release Damning Facts, Slam DOJ Decision to Not Charge the 'Colbert Nine'",
+      "url": "https://redstate.com/bonchie/2022/07/20/capitol-police-release-damning-facts-slam-doj-decision-to-not-charge-the-colbert-nine-n598358"
+    },
+    {
+      "text": "\n",
+      "url": "https://pjmedia.com/news-and-politics/gwendolynsims/2022/07/19/tsa-one-travelers-mortifying-experience-at-lax-will-hopefully-lead-to-improvements-for-all-n1610101"
+    },
+    {
+      "text": "TSA: One Traveler's Mortifying Experience at LAX Will Hopefully Lead to Improvements for All",
+      "url": "https://pjmedia.com/news-and-politics/gwendolynsims/2022/07/19/tsa-one-travelers-mortifying-experience-at-lax-will-hopefully-lead-to-improvements-for-all-n1610101"
     },
     {
       "text": "",
@@ -1146,7 +1272,7 @@
     }
   ],
   "server": "ia601407.us.archive.org",
-  "uniq": 1939875832,
+  "uniq": 1250434726,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"

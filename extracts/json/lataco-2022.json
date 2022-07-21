@@ -1,5 +1,5 @@
 {
-  "created": 1658279080,
+  "created": 1658342825,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/35/items/lataco-2022",
@@ -1392,31 +1392,157 @@
       "sha1": "fe4d7896fa17de76491b7cb4aae247597f25c75c"
     },
     {
+      "name": "lataco-2022-07-19T19:22:06.857238-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658283732",
+      "size": "18895",
+      "md5": "904685c8d85f71459c1dc728f1903624",
+      "crc32": "6ff4ff71",
+      "sha1": "c4e2ac3c1b9382b704a089dea81de432f6b30200",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-19T19:22:06.857238-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658283734",
+      "size": "12145",
+      "md5": "24da21b16788bbb9126a2a643386cfa1",
+      "crc32": "f1613c66",
+      "sha1": "325855e9fe178d9405d617d4324734e2cf7a78af",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-19T19:22:06.857238-07:00.jpg",
+      "source": "original",
+      "mtime": "1658283731",
+      "size": "272708",
+      "md5": "37138d648e11b1655723ac632c9e79de",
+      "crc32": "3fd7c8b7",
+      "sha1": "2ec2857df1a78db4311de7404281e9161401f9f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-07-19T19:22:06.857238-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-07-19T19:22:06.857238-07:00.jpg",
+      "mtime": "1658283910",
+      "size": "9927",
+      "md5": "97c0704d741d2d8b361a7cad30716533",
+      "crc32": "d41aa4e1",
+      "sha1": "b14baf14f03c5f59d03517a72f003f7a38721149"
+    },
+    {
+      "name": "lataco-2022-07-20T07:30:28.307486-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658327431",
+      "size": "18691",
+      "md5": "75bb684ccbf8e4fa82f1fa137070205a",
+      "crc32": "c6e49b9e",
+      "sha1": "6ec0e68fe96c73786178979e8f8daa3bf7175399",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-20T07:30:28.307486-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658327433",
+      "size": "12145",
+      "md5": "24da21b16788bbb9126a2a643386cfa1",
+      "crc32": "f1613c66",
+      "sha1": "325855e9fe178d9405d617d4324734e2cf7a78af",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-20T07:30:28.307486-07:00.jpg",
+      "source": "original",
+      "mtime": "1658327429",
+      "size": "272708",
+      "md5": "37138d648e11b1655723ac632c9e79de",
+      "crc32": "3fd7c8b7",
+      "sha1": "2ec2857df1a78db4311de7404281e9161401f9f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-07-20T07:30:28.307486-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-07-20T07:30:28.307486-07:00.jpg",
+      "mtime": "1658333333",
+      "size": "9927",
+      "md5": "97c0704d741d2d8b361a7cad30716533",
+      "crc32": "d41aa4e1",
+      "sha1": "b14baf14f03c5f59d03517a72f003f7a38721149"
+    },
+    {
+      "name": "lataco-2022-07-20T11:10:08.745798-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658340613",
+      "size": "18935",
+      "md5": "d6e048d58f69a495553c7598bccce02c",
+      "crc32": "61d8751c",
+      "sha1": "15f5111476de1f46b08065efd13b5a778c39041d",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-20T11:10:08.745798-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658340615",
+      "size": "12221",
+      "md5": "b722e70a39bf69bef81c641ba09adadf",
+      "crc32": "8086e271",
+      "sha1": "4d7e8fabd5d011917c04de4bb7485ec688a9ca61",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-20T11:10:08.745798-07:00.jpg",
+      "source": "original",
+      "mtime": "1658340610",
+      "size": "271453",
+      "md5": "d3fdd6f2793459ca658e48cebabcee14",
+      "crc32": "55b1be6d",
+      "sha1": "cdc4524011652242f4a3b8455895067945eb1731",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-07-20T11:10:08.745798-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-07-20T11:10:08.745798-07:00.jpg",
+      "mtime": "1658342736",
+      "size": "10115",
+      "md5": "f96e1faa722a3ee658b9cdc374650352",
+      "crc32": "f71860f4",
+      "sha1": "d0c71446a284c60da5af4b5bc8d4d9ed4f737253"
+    },
+    {
       "name": "lataco-2022_archive.torrent",
       "source": "metadata",
-      "btih": "34fba30ee151f20f626eadf06701083fc8e2e085",
-      "mtime": "1658254513",
-      "size": "28891",
-      "md5": "79615b66b7db1d132bef5ff88bb2304c",
-      "crc32": "f73fc332",
-      "sha1": "24f74b78b8f5bfcc1c430126777a3b2ca08f791a",
+      "btih": "64aca19fff5cc744901bdfc9a3f46645720b5f76",
+      "mtime": "1658342773",
+      "size": "31395",
+      "md5": "6caa8cd0352bb87c271ee1277dea2ac4",
+      "crc32": "46f24522",
+      "sha1": "b6e8340e89efeb7ba7a4ec3a73b5878d1271febb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lataco-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92c124ffd2970cfd65113ac4a7a1156a",
+      "md5": "43410de563609ad7f838eeabc6e8c51f",
       "summation": "md5"
     },
     {
       "name": "lataco-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658254197",
-      "size": "172032",
-      "md5": "217fbcf89ad10da10b62e2395b779225",
-      "crc32": "053e2241",
-      "sha1": "082decde3f4a31465b3e19edb1ef7d0ae47631e7",
+      "mtime": "1658340619",
+      "size": "184320",
+      "md5": "aaeea1e07d78103147675259828779d6",
+      "crc32": "336a43e6",
+      "sha1": "9e73921eea958023aa09bb386e61d5886916afa0",
       "format": "Metadata"
     },
     {
@@ -1430,463 +1556,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 136,
-  "item_last_updated": 1658254513,
-  "item_size": 10307919,
-  "lataco-2022": [
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://www.lataco.com"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://www.lataco.com"
-    },
-    {
-      "text": "",
-      "url": "https://www.lataco.com"
-    },
-    {
-      "text": "News",
-      "url": "https://www.lataco.com/category/news/"
-    },
-    {
-      "text": "See All",
-      "url": "https://www.lataco.com/category/news/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/mitrice-richardson-death/"
-    },
-    {
-      "text": "\nHeadlines: Street Takeover and Car Crash Already at 6th Street Bridge; Untangling the Sheriff \u2018Cover-Up\u2019 In Mitrice Richardson\u2019s Suspicious Death ",
-      "url": "https://www.lataco.com/mitrice-richardson-death/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/knotts-berry-fights/"
-    },
-    {
-      "text": "\nHeadlines: Fights Shut Down Knotts Berry Farm; How Disneyland Has Gotten So Damn Expensive ",
-      "url": "https://www.lataco.com/knotts-berry-fights/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/san-pedro-gentrification/"
-    },
-    {
-      "text": "\nA Love Letter to \u2018My Grimy\u2019 San Pedro, On The Dawn Of Its Gentrification ",
-      "url": "https://www.lataco.com/san-pedro-gentrification/"
-    },
-    {
-      "text": "Tacos",
-      "url": "https://www.lataco.com/category/tacos/"
-    },
-    {
-      "text": "See All",
-      "url": "https://www.lataco.com/category/tacos/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/churro-dodger-car/"
-    },
-    {
-      "text": "\nLincoln Heights\u2019 Dodger-Themed Churro Mobile is Everything We Love On Wheels ",
-      "url": "https://www.lataco.com/churro-dodger-car/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/olivia-restaurant-vegan-vegetarian/"
-    },
-    {
-      "text": "\n\u2018Our Communities Depend on Each Other:\u2019 Olivia in K-Town Is Using Food to Unite Korean and Latino Cultures ",
-      "url": "https://www.lataco.com/olivia-restaurant-vegan-vegetarian/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/tacos-melrose-umbrella/"
-    },
-    {
-      "text": "\nTaco of the Week: This Cocktail Bar-Taquer\u00eda Hybrid Makes the Most Tender Handmade Tortillas On Melrose\u00a0\u00a0 ",
-      "url": "https://www.lataco.com/tacos-melrose-umbrella/"
-    },
-    {
-      "text": "Guides",
-      "url": "https://www.lataco.com/tag/guides/"
-    },
-    {
-      "text": "Music",
-      "url": "https://www.lataco.com/category/music/"
-    },
-    {
-      "text": "See All",
-      "url": "https://www.lataco.com/category/music/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/03-greedo-possibility-of-parole/"
-    },
-    {
-      "text": "\nWatts Rapper 03 Greedo\u2019s Possibility of Parole Gives L.A. Rap Fans Hope After Series of Losses ",
-      "url": "https://www.lataco.com/03-greedo-possibility-of-parole/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/levitt-pavilion-15/"
-    },
-    {
-      "text": "\nFrom Ska to Cumbia: Levitt LA Has Been Offering Free Concerts for the MacArthur Park Community for 15 Years ",
-      "url": "https://www.lataco.com/levitt-pavilion-15/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/a-night-out-full-of-booze-and-jazz-in-highland-park-as-told-by-a-35mm-film-camera/"
-    },
-    {
-      "text": "\nA Night Out Full of Booze and Jazz In Highland Park, As Told By a 35mm Film Camera\u00a0 ",
-      "url": "https://www.lataco.com/a-night-out-full-of-booze-and-jazz-in-highland-park-as-told-by-a-35mm-film-camera/"
-    },
-    {
-      "text": "L.A.",
-      "url": "https://www.lataco.com/category/los-angeles/"
-    },
-    {
-      "text": "See All",
-      "url": "https://www.lataco.com/category/los-angeles/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/olivia-restaurant-vegan-vegetarian/"
-    },
-    {
-      "text": "\n\u2018Our Communities Depend on Each Other:\u2019 Olivia in K-Town Is Using Food to Unite Korean and Latino Cultures ",
-      "url": "https://www.lataco.com/olivia-restaurant-vegan-vegetarian/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/street-vending-hate-crime/"
-    },
-    {
-      "text": "\nThis Santa Ana Councilman Wants To Make Any and All Attacks On Street Vendors \u2018Hate Crimes\u2019 ",
-      "url": "https://www.lataco.com/street-vending-hate-crime/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/la-times-drug-test-weed/"
-    },
-    {
-      "text": "\nMore Than 140 L.A. Times Staff Members Demand The Times Stop Surprise Testing New Hires For Weed ",
-      "url": "https://www.lataco.com/la-times-drug-test-weed/"
-    },
-    {
-      "text": "Shop",
-      "url": "https://shop.lataco.com"
-    },
-    {
-      "text": "Join L.A. Taco",
-      "url": "https://www.lataco.com/join/"
-    },
-    {
-      "text": "Become a Member",
-      "url": "https://www.lataco.com/join/"
-    },
-    {
-      "text": "Sponsor L.A. TACO",
-      "url": "https://www.lataco.com/sponsor/"
-    },
-    {
-      "text": "Donate",
-      "url": "https://www.paypal.com/donate?hosted_button_id=6QEZ2FKQBQYHQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.twitter.com/lataco"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/lataco"
-    },
-    {
-      "text": "",
-      "url": "https://www.youtube.com/LATACO"
-    },
-    {
-      "text": "",
-      "url": "http://tiktok.com/@l.a.taco"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/rey-mysterio-jr-tijuana-wwe/"
-    },
-    {
-      "text": "\nFrom Tijuana to Madison Square Garden: Mexican Wrestler Rey Mysterio Jr. Celebrates 20 Years In the WWE ",
-      "url": "https://www.lataco.com/rey-mysterio-jr-tijuana-wwe/"
-    },
-    {
-      "text": "Karina Santellano",
-      "url": "https://www.lataco.com/author/karinas/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/mitrice-richardson-death/"
-    },
-    {
-      "text": "\nHeadlines: Street Takeover and Car Crash Already at 6th Street Bridge; Untangling the Sheriff \u2018Cover-Up\u2019 In Mitrice Richardson\u2019s Suspicious Death ",
-      "url": "https://www.lataco.com/mitrice-richardson-death/"
-    },
-    {
-      "text": "L.A. TACO",
-      "url": "https://www.lataco.com/author/admin-2-2-2-2/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/churro-dodger-car/"
-    },
-    {
-      "text": "\nLincoln Heights\u2019 Dodger-Themed Churro Mobile is Everything We Love On Wheels ",
-      "url": "https://www.lataco.com/churro-dodger-car/"
-    },
-    {
-      "text": "Hadley Tomicki",
-      "url": "https://www.lataco.com/author/hadley/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/olivia-restaurant-vegan-vegetarian/"
-    },
-    {
-      "text": "\n\u2018Our Communities Depend on Each Other:\u2019 Olivia in K-Town Is Using Food to Unite Korean and Latino Cultures ",
-      "url": "https://www.lataco.com/olivia-restaurant-vegan-vegetarian/"
-    },
-    {
-      "text": "Vladimir Santos",
-      "url": "https://www.lataco.com/author/vladsantos/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/knotts-berry-fights/"
-    },
-    {
-      "text": "\nHeadlines: Fights Shut Down Knotts Berry Farm; How Disneyland Has Gotten So Damn Expensive ",
-      "url": "https://www.lataco.com/knotts-berry-fights/"
-    },
-    {
-      "text": "L.A. TACO",
-      "url": "https://www.lataco.com/author/admin-2-2-2-2/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/street-vending-hate-crime/"
-    },
-    {
-      "text": "\nThis Santa Ana Councilman Wants To Make Any and All Attacks On Street Vendors \u2018Hate Crimes\u2019 ",
-      "url": "https://www.lataco.com/street-vending-hate-crime/"
-    },
-    {
-      "text": "Hadley Tomicki",
-      "url": "https://www.lataco.com/author/hadley/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/san-pedro-gentrification/"
-    },
-    {
-      "text": "\nA Love Letter to \u2018My Grimy\u2019 San Pedro, On The Dawn Of Its Gentrification ",
-      "url": "https://www.lataco.com/san-pedro-gentrification/"
-    },
-    {
-      "text": "Leonardo Poareo",
-      "url": "https://www.lataco.com/author/leonardopoareo/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/mask-mandate-july-la/"
-    },
-    {
-      "text": "\nHeadlines: Indoor Mask Mandate May Return On July 29; Officer Grazed By Bullet Confronting Fairfax Thieves ",
-      "url": "https://www.lataco.com/mask-mandate-july-la/"
-    },
-    {
-      "text": "L.A. TACO",
-      "url": "https://www.lataco.com/author/admin-2-2-2-2/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/cbd-drinks-work-anxiety/"
-    },
-    {
-      "text": "\nDo CBD Drinks Actually Calm Your Anxiety? We Tested Some to Find Out (Plus THC-Ones, Too) ",
-      "url": "https://www.lataco.com/cbd-drinks-work-anxiety/"
-    },
-    {
-      "text": "Lexis-Olivier Ray",
-      "url": "https://www.lataco.com/author/lexisolivierray/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/tacos-melrose-umbrella/"
-    },
-    {
-      "text": "\nTaco of the Week: This Cocktail Bar-Taquer\u00eda Hybrid Makes the Most Tender Handmade Tortillas On Melrose\u00a0\u00a0 ",
-      "url": "https://www.lataco.com/tacos-melrose-umbrella/"
-    },
-    {
-      "text": "Hadley Tomicki",
-      "url": "https://www.lataco.com/author/hadley/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/710-protest-water-reduced-la/"
-    },
-    {
-      "text": "\nHeadlines: L.A.\u2019s Water Restrictions Help Reduce June Water Use by 9%; Truck Drivers Stop Traffic on the 710 to Protest ",
-      "url": "https://www.lataco.com/710-protest-water-reduced-la/"
-    },
-    {
-      "text": "L.A. TACO",
-      "url": "https://www.lataco.com/author/admin-2-2-2-2/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/la-times-drug-test-weed/"
-    },
-    {
-      "text": "\nMore Than 140 L.A. Times Staff Members Demand The Times Stop Surprise Testing New Hires For Weed ",
-      "url": "https://www.lataco.com/la-times-drug-test-weed/"
-    },
-    {
-      "text": "Lexis-Olivier Ray",
-      "url": "https://www.lataco.com/author/lexisolivierray/"
-    },
-    {
-      "text": "\n ",
-      "url": "https://www.lataco.com/proud-boys-sheriffs/"
-    },
-    {
-      "text": "\nHeadlines: Punk Legends Descendents Not Down With Oath Keeper Wearing Their Shirt; An Apology For Forcibly Sterilizing Over 200 Women ",
-      "url": "https://www.lataco.com/proud-boys-sheriffs/"
-    },
-    {
-      "text": "L.A. TACO",
-      "url": "https://www.lataco.com/author/admin-2-2-2-2/"
-    },
-    {
-      "text": "2",
-      "url": "https://www.lataco.com/page/2/"
-    },
-    {
-      "text": "3",
-      "url": "https://www.lataco.com/page/3/"
-    },
-    {
-      "text": "1,031",
-      "url": "https://www.lataco.com/page/1031/"
-    },
-    {
-      "text": "",
-      "url": "https://www.lataco.com/page/2/"
-    },
-    {
-      "text": "",
-      "url": "https://www.lataco.com/join/?utm_source=lataco.com&utm_medium=web&utm_campaign=sidebar"
-    },
-    {
-      "text": "Business Membership",
-      "url": "https://www.lataco.com/business-membership-join"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.lataco.com"
-    },
-    {
-      "text": "",
-      "url": "https://www.lataco.com"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Join L.A. TACO",
-      "url": "https://www.lataco.com/join/"
-    },
-    {
-      "text": "Sponsor L.A. TACO",
-      "url": "https://www.lataco.com/sponsor/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.lataco.com/category/news/"
-    },
-    {
-      "text": "Guides",
-      "url": "https://www.lataco.com/tag/guides/"
-    },
-    {
-      "text": "Tacos",
-      "url": "https://www.lataco.com/category/tacos/"
-    },
-    {
-      "text": "Taco Shop",
-      "url": "http://shop.lataco.com"
-    },
-    {
-      "text": "About Us",
-      "url": "https://www.lataco.com/about/"
-    },
-    {
-      "text": "Members",
-      "url": "https://www.lataco.com/members/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.lataco.com/blog/send-us-your-stuff/"
-    },
-    {
-      "text": "",
-      "url": "https://www.twitter.com/lataco"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/lataco"
-    },
-    {
-      "text": "",
-      "url": "https://www.youtube.com/LATACO"
-    },
-    {
-      "text": "",
-      "url": "http://tiktok.com/@l.a.taco"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Search powered by Jetpack",
-      "url": "https://jetpack.com/search?utm_source=poweredby"
-    }
-  ],
+  "files_count": 148,
+  "item_last_updated": 1658342773,
+  "item_size": 11262581,
   "metadata": {
     "identifier": "lataco-2022",
     "collection": [
@@ -1904,7 +1576,7 @@
     "addeddate": "2022-07-09 04:00:32"
   },
   "server": "ia902509.us.archive.org",
-  "uniq": 1108332081,
+  "uniq": 1151941591,
   "workable_servers": [
     "ia902509.us.archive.org",
     "ia802509.us.archive.org"

@@ -12,7 +12,7 @@
 
 ### 1. Add record to `sites.csv` file
 
-Adding a new site requires that a new row be added to [`sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv) with, at a minimum, the Twitter handle, URL, name, location and timezone of the target. You can also override the system’s default by an adding optional attribute for the time delay before the screenshot, which, if provided, is expected in milliseconds.
+Adding a new site requires that a new row be added to [`sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv) with, at a minimum, the Twitter handle, URL, name, location and time zone of the target. Time zones should be provided in [Python's standard formatting scheme](https://gist.github.com/heyalexej/8bf688fd67d7199be4a1682b3eec7568). You can override the system’s default by adding an optional attribute for the time delay before the screenshot, which, if provided, is expected in milliseconds.
 
 ### Test the screenshot
 
@@ -24,7 +24,7 @@ pipenv run python -m newshomepages.screenshot your-handle
 
 ### Hide ads and popups
 
-If there are popups or ads that interfere with the screenshot, our aim to eliminate them via JavaScript.
+If there are popups or ads that interfere with the screenshot, our aim is to eliminate them via JavaScript.
 
 There are two techniques for acheiving the goal:
 
@@ -42,9 +42,15 @@ This method also can accomodate more complicated manipulations of the page. Cons
 
 ### Add to a bundle
 
-Then you should link the site’s row to one of the topical bundles defined in [`sources/bundles.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/bundles.csv). This is done by putting the slug of the desired bundle into your site’s bundle field.
+Then you should link the site’s row to one or more of the topical bundles defined in [`sources/bundles.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/bundles.csv). This is done by putting the slugs of the desired bundles into your site’s bundle field.
 
-If an suitable bundle does not exist, you can add one to the bundle data file, as described below.
+If you'd like to link a site with more than bundle, you should separate the slugs with `|`. For example, MSNBC is bundled with both national news outlets and left wing sites. So it's bundle field looks like:
+
+```
+us-nationa|us-left-wing
+```
+
+If an suitable bundle for your site does not exist, you can add one to the separate bundle data file, as described below.
 
 ## Adding a bundle
 
@@ -52,7 +58,7 @@ Bundles are collections of sites that are grouped together for archiving, presen
 
 ### Scheduling actions
 
-While all sites in our directory are archived at least two times per day, bundles can have additional archiving runs scheduled via GitHub Actions. This allow for optimizing our runs for local time and also results in a tweet automatically posted to the [@newshomepages](https://twitter.com/newshomepages) account.
+While all sites in our directory are archived at least two times per day, bundles can have additional archiving runs scheduled via GitHub Actions. This allows for optimizing our runs for local time and also results in a tweet automatically posted to the [@newshomepages](https://twitter.com/newshomepages) account.
 
 Adding a new batch run requires creating a new YAML file in the `.github/workflows` directory that inherits from a reusable workflow shared by similar files. It should be named `archive-your-bundle-slug.yml`. If you'd like to schedule a new bundle run, submit a file like this via pull request. You should only need to customize the name, the cron and the bundle.
 

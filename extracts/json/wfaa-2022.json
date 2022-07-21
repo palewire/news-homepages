@@ -1,5 +1,5 @@
 {
-  "created": 1658279551,
+  "created": 1658363676,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/wfaa-2022",
@@ -226,31 +226,115 @@
       "sha1": "1d9d87ab4af66fe29bd8f785edfa846a863b1de9"
     },
     {
+      "name": "wfaa-2022-07-19T23:25:19.966634-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658291122",
+      "size": "6529",
+      "md5": "38f9a9db60c3a2e518eac4a139ccf614",
+      "crc32": "47452432",
+      "sha1": "bf669360c864ead627b53baa261b3172bc4c4cc4",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-07-19T23:25:19.966634-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658291124",
+      "size": "76132",
+      "md5": "9b6f8d0344aa43c0368d2c32301e2b95",
+      "crc32": "02e383a4",
+      "sha1": "b08015c0f8dc4366194a66b9ad005688509555fd",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-07-19T23:25:19.966634-05:00.jpg",
+      "source": "original",
+      "mtime": "1658291121",
+      "size": "249080",
+      "md5": "696cefafc5fe97cc11d5b85d102e22df",
+      "crc32": "3b146000",
+      "sha1": "b56a4ef5dfcfd52e0a6bf1196ad869844367c316",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wfaa-2022-07-19T23:25:19.966634-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wfaa-2022-07-19T23:25:19.966634-05:00.jpg",
+      "mtime": "1658291216",
+      "size": "9525",
+      "md5": "3432fa68f6589813aabf13d7ceffe199",
+      "crc32": "758e098e",
+      "sha1": "321a780adb5e81bb777ba412f2aa4a61c8e29597"
+    },
+    {
+      "name": "wfaa-2022-07-20T11:50:16.719300-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658335819",
+      "size": "6521",
+      "md5": "badcf717d6b40ea492b85ebaf544f3ff",
+      "crc32": "5235bb74",
+      "sha1": "23962efa965127785086ef6dace7c9ad058bd834",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-07-20T11:50:16.719300-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658335820",
+      "size": "84570",
+      "md5": "2c0488bdb07429fbaedb46db8539935a",
+      "crc32": "ed9b9981",
+      "sha1": "d0a6c27fee0116e0f3a9f93e7a1b41cc76fdf6ea",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-07-20T11:50:16.719300-05:00.jpg",
+      "source": "original",
+      "mtime": "1658335817",
+      "size": "252544",
+      "md5": "a17575d489f7a0b46c6e09c6d4683e45",
+      "crc32": "5f348a6f",
+      "sha1": "4dc736411cba2cd07495007138b8eb5a3c45aad9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wfaa-2022-07-20T11:50:16.719300-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wfaa-2022-07-20T11:50:16.719300-05:00.jpg",
+      "mtime": "1658339640",
+      "size": "9336",
+      "md5": "fc85dbc01d84d718caf1a3cfeb6f8125",
+      "crc32": "17274103",
+      "sha1": "88c01f3fc131e03db20a815a46f18c5f81820c61"
+    },
+    {
       "name": "wfaa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c781e078e7e2d2a666e320d6d8f2237912c417ee",
-      "mtime": "1658250937",
-      "size": "5708",
-      "md5": "263a397d39e2c7e6bc872d5506210a9c",
-      "crc32": "261f1622",
-      "sha1": "18aacd34c0aaed0576e824ad018faaa0bd77bf40",
+      "btih": "6fad62dc5fdf940fc167b338a8e1acae67ee4b19",
+      "mtime": "1658339646",
+      "size": "7353",
+      "md5": "9e82d3f9f3e8ababe1bd4d838b56c095",
+      "crc32": "7a098894",
+      "sha1": "0eafdb79e2ad263b0fba63577cff6cf8a436721a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wfaa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb43912c4984ca4ca4e9f7cc4cf9688e",
+      "md5": "2f8d10e5586dd0e9357040ca51a7c172",
       "summation": "md5"
     },
     {
       "name": "wfaa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658250321",
-      "size": "40960",
-      "md5": "416ddca039c3347119bf2fb40e6e12f3",
-      "crc32": "ade0c2d7",
-      "sha1": "c4c52051902445790a6fddf5f8eb9bd12a1a8e0b",
+      "mtime": "1658335829",
+      "size": "49152",
+      "md5": "66b24259fffe2e451c15899c5a1f8e60",
+      "crc32": "1e8500d0",
+      "sha1": "c9679a5ebb804fb8feea8cb4ff349a405d318499",
       "format": "Metadata"
     },
     {
@@ -264,9 +348,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 25,
-  "item_last_updated": 1658250937,
-  "item_size": 1825114,
+  "files_count": 33,
+  "item_last_updated": 1658339646,
+  "item_size": 2529188,
   "metadata": {
     "identifier": "wfaa-2022",
     "collection": [
@@ -284,7 +368,7 @@
     "addeddate": "2022-07-18 00:06:04"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 504198280,
+  "uniq": 570301051,
   "wfaa-2022": [
     {
       "text": "Skip Navigation",
@@ -347,20 +431,36 @@
       "url": "/features"
     },
     {
+      "text": "\n                                                !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                            ",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "A look back at the destructive 2011 Possum Kingdom Complex Fire",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "\n                                                !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                            ",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "One of Texas' most-destructive wildfires in history started near Possum Kingdom Lake",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "\n                                                !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                            ",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "148K acres and 215 homes destroyed: How fire ravaged Possum Kingdom in 2011",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/crime/trophy-club-texas-tarrant-county-june-2022-shooting-standoff-house-fire-updates-suspect-identified/287-b6c787f9-c77c-4534-836a-d4994ea1ccbb"
+      "url": "https://www.wfaa.com/article/news/local/animal-cruelty-texas-heat-wave-dead-miniature-horses-emus-and-a-bull-found-without-water-in-parker-county-officials-say/287-f36c0936-b1b3-4d36-8c44-c06f868a207f"
     },
     {
-      "text": "Suspect identified in connection to Tarrant County standoff",
-      "url": "https://www.wfaa.com/article/news/crime/trophy-club-texas-tarrant-county-june-2022-shooting-standoff-house-fire-updates-suspect-identified/287-b6c787f9-c77c-4534-836a-d4994ea1ccbb"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/video/news/local/midday-minute-tuesday-headlines-you-should-know/287-2d2266c8-66fa-4eea-874f-499ccd2bce05"
-    },
-    {
-      "text": "Midday Minute: Tuesday headlines you should know",
-      "url": "https://www.wfaa.com/video/news/local/midday-minute-tuesday-headlines-you-should-know/287-2d2266c8-66fa-4eea-874f-499ccd2bce05"
+      "text": "Dead miniature horses, emus and a bull found without water in Parker County, officials say",
+      "url": "https://www.wfaa.com/article/news/local/animal-cruelty-texas-heat-wave-dead-miniature-horses-emus-and-a-bull-found-without-water-in-parker-county-officials-say/287-f36c0936-b1b3-4d36-8c44-c06f868a207f"
     },
     {
       "text": "\n                                        Weather\n                            ",
@@ -400,19 +500,19 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/video/weather/dfw-weather-why-fire-conditions-are-so-risky-this-week/287-f8a1fdb2-5db3-4dc7-9772-e18d41971032"
+      "url": "https://www.wfaa.com/video/weather/dfw-weather-the-hottest-temps-of-the-season-continue/287-a964305e-6cda-4b9b-8c3d-799428e6a0c7"
     },
     {
-      "text": "DFW weather: Why fire conditions are so risky this week",
-      "url": "https://www.wfaa.com/video/weather/dfw-weather-why-fire-conditions-are-so-risky-this-week/287-f8a1fdb2-5db3-4dc7-9772-e18d41971032"
+      "text": "DFW weather: The hottest temps of the season continue",
+      "url": "https://www.wfaa.com/video/weather/dfw-weather-the-hottest-temps-of-the-season-continue/287-a964305e-6cda-4b9b-8c3d-799428e6a0c7"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/weather/heating-up-again-over-the-weekend/287-44004e7d-f174-44d8-91eb-a0a61d7e243f"
+      "url": "https://www.wfaa.com/video/weather/dfw-weather-small-storm-chances-coming-wednesday-thursday/287-90e9a158-f202-442e-a4ab-6954081d623e"
     },
     {
-      "text": "Dangerous heat and fire danger continues",
-      "url": "https://www.wfaa.com/article/weather/heating-up-again-over-the-weekend/287-44004e7d-f174-44d8-91eb-a0a61d7e243f"
+      "text": "DFW weather: Small storm chances coming Wednesday, Thursday",
+      "url": "https://www.wfaa.com/video/weather/dfw-weather-small-storm-chances-coming-wednesday-thursday/287-90e9a158-f202-442e-a4ab-6954081d623e"
     },
     {
       "text": "\n                                        Near Me\n                            ",
@@ -435,7 +535,7 @@
       "url": "/search"
     },
     {
-      "text": "\n                    \n                        \n                            Right Now\n                            Dallas, TX\u00a0\u00bb\n                        \n                        \n                            \n                                95\u00b0\n\n                                \n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                \n                            \n                            Dallas, TX\u00a0\u00bb\n                        \n                    \n                ",
+      "text": "\n                    \n                        \n                            Right Now\n                            Dallas, TX\u00a0\u00bb\n                        \n                        \n                            \n                                93\u00b0\n\n                                \n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                \n                            \n                            Dallas, TX\u00a0\u00bb\n                        \n                    \n                ",
       "url": "/weather"
     },
     {
@@ -503,28 +603,12 @@
       "url": "https://www.wfaa.com/familyfirst"
     },
     {
-      "text": "\n                            NOW: Live North Texas fire conditions, heat forecast\n                            Read More \u00bb\n                        ",
-      "url": "/video/news/live_breaking/now-live-north-texas-fire-conditions-heat-forecast/287-5e049887-92d3-415b-828a-084a84a0eba0"
-    },
-    {
       "text": "\n                            \n                            Read More \u00bb\n                        ",
       "url": "#"
     },
     {
-      "text": "More (0) \u00bb",
+      "text": "More () \u00bb",
       "url": "/breaking-news"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/crews-battling-large-wildfire-near-glen-rose-somervell-county-texas/287-ad3d99f0-1d1b-4008-a826-297e8f403463"
-    },
-    {
-      "text": "Chalk Mountain Fire grows to 4,000 acres, nearly tripling in size overnight, officials say",
-      "url": "https://www.wfaa.com/article/news/local/crews-battling-large-wildfire-near-glen-rose-somervell-county-texas/287-ad3d99f0-1d1b-4008-a826-297e8f403463"
-    },
-    {
-      "text": "A wildfire in Somervell County, southwest of Fort Worth, nearly tripled in size overnight, growing from around 1,200 acres to 4,000 acres",
-      "url": "https://www.wfaa.com/article/news/local/crews-battling-large-wildfire-near-glen-rose-somervell-county-texas/287-ad3d99f0-1d1b-4008-a826-297e8f403463"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
@@ -535,36 +619,56 @@
       "url": "https://www.wfaa.com/article/news/local/texas-wildfire-updates-fires-possum-kingdom-lake-chalk-creek-somervell-king-creek-dfw-weather-latest-acreage-containment-and-conditions/287-2a29fc9b-5d85-46a5-b5fd-09309cae43a4"
     },
     {
+      "text": "We're tracking each of the wildfires crews were battling across the North Texas area.",
+      "url": "https://www.wfaa.com/article/news/local/texas-wildfire-updates-fires-possum-kingdom-lake-chalk-creek-somervell-king-creek-dfw-weather-latest-acreage-containment-and-conditions/287-2a29fc9b-5d85-46a5-b5fd-09309cae43a4"
+    },
+    {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/money/business/dfw-housing-market-real-estate-dallas-fort-worth-leads-us-with-home-sales-price-jump-near-30/287-7492de82-bb8e-4ecf-96b9-b745768f6eed"
+      "url": "https://www.wfaa.com/article/news/local/texas-ranches-for-sale-fossil-gate-farms-6-houses-and-even-more-barns-a-20-million-ranch-in-the-heart-of-north-texas-is-up-for-sale/287-37df31c6-738a-45b2-86a5-f63442fabab4"
     },
     {
-      "text": "Dallas-Fort Worth leads US with home sales price jump near 30%",
-      "url": "https://www.wfaa.com/article/money/business/dfw-housing-market-real-estate-dallas-fort-worth-leads-us-with-home-sales-price-jump-near-30/287-7492de82-bb8e-4ecf-96b9-b745768f6eed"
+      "text": "6 houses and even more barns: A $20 million ranch in the heart of North Texas is up for sale",
+      "url": "https://www.wfaa.com/article/news/local/texas-ranches-for-sale-fossil-gate-farms-6-houses-and-even-more-barns-a-20-million-ranch-in-the-heart-of-north-texas-is-up-for-sale/287-37df31c6-738a-45b2-86a5-f63442fabab4"
     },
     {
-      "text": "Uvalde bodycam footage: A breakdown of the 7 police body camera videos released from the Robb Elementary school shooting response",
-      "url": "https://www.wfaa.com/article/news/special-reports/uvalde-school-shooting/uvalde-robb-elementary-school-bodycam-video-police-response-breakdown/287-3844fccf-7aea-430d-85a3-1b9f0c2ff0f7"
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/news/local/irving-fire-hotel-near-dfw-airport/287-d7c892a5-511d-4546-b314-2148525d52cf"
     },
     {
-      "text": "Lost in Azle, found in Arlington: How a missing show dog reunited with his family after 8 months",
-      "url": "https://www.wfaa.com/article/life/heartwarming/texas-dog-reunited-with-family-after-8-eight-months-missing-arlington-azle-american-bully/287-1d712a15-8e76-4e80-a475-b9e67f6ee2d9"
+      "text": "Fire destroys hotel near DFW Airport, officials say",
+      "url": "https://www.wfaa.com/article/news/local/irving-fire-hotel-near-dfw-airport/287-d7c892a5-511d-4546-b314-2148525d52cf"
     },
     {
-      "text": "Suspect identified in connection to Tarrant County standoff",
-      "url": "https://www.wfaa.com/article/news/crime/trophy-club-texas-tarrant-county-june-2022-shooting-standoff-house-fire-updates-suspect-identified/287-b6c787f9-c77c-4534-836a-d4994ea1ccbb"
+      "text": "Here's where the Chalk Mountain Fire stands on Wednesday after more growth",
+      "url": "https://www.wfaa.com/article/news/local/crews-battling-large-wildfire-near-glen-rose-somervell-county-texas/287-ad3d99f0-1d1b-4008-a826-297e8f403463"
     },
     {
-      "text": "'You need to clean house': Uvalde parents call for resignations and terminations inside school district",
-      "url": "https://www.wfaa.com/article/news/special-reports/uvalde-school-shooting/uvalde-parents-students-frustrations-school-board-meeting/287-4a3d079f-2f5f-494f-9f51-99e35cef16dc"
+      "text": "A look back at the destructive 2011 Possum Kingdom Complex Fire",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
     },
     {
-      "text": "8 homes destroyed in Possum Kingdom Lake fire: Latest acreage and containment",
-      "url": "https://www.wfaa.com/article/news/local/wildfire-burning-possum-kingdom-lake-palo-pinto-county/287-ad60bf1a-0243-4b77-8dba-a9d7c49396ce"
+      "text": "One of Texas' most-destructive wildfires in history started near Possum Kingdom Lake",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
     },
     {
-      "text": "Dallas ISD is requiring clear backpacks for older students. But do they work?",
-      "url": "https://www.wfaa.com/article/news/local/dallas-isd-new-backpack-rule-is-requiring-clear-backpacks-for-older-students-but-do-they-work/287-3a0b4ee0-9838-44af-9add-68cf3ea8a1ee"
+      "text": "148K acres and 215 homes destroyed: How fire ravaged Possum Kingdom in 2011",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "Dead miniature horses, emus and a bull found without water in Parker County, officials say",
+      "url": "https://www.wfaa.com/article/news/local/animal-cruelty-texas-heat-wave-dead-miniature-horses-emus-and-a-bull-found-without-water-in-parker-county-officials-say/287-f36c0936-b1b3-4d36-8c44-c06f868a207f"
+    },
+    {
+      "text": "Calling all parents! Share your Back to School wisdom and worries with WFAA's new Parent Survey",
+      "url": "https://www.wfaa.com/article/news/local/outreach/back-to-school/share-your-back-to-school-wisdom-and-worries-with-wfaas-new-parent-survey/287-cdbf076c-12ef-4202-ba99-0401621b685e"
+    },
+    {
+      "text": "'Texas children are suffering': School board asks TEA to prioritize mental health over standardized testing",
+      "url": "https://www.wfaa.com/article/news/education/standardized-testing-overshadows-need-for-mental-health-teacher-retention-in-texas-schools/503-b930cac7-a979-490c-a9e5-7517a8edb178"
+    },
+    {
+      "text": "What happens when you're 'credit invisible'? Many people are turning to family and friends",
+      "url": "https://www.wfaa.com/article/money/business/dfw-inflation-what-happens-when-youre-credit-invisible-many-people-are-turning-to-family-and-friends/287-7c2cceb7-ce87-41d5-92d4-a71f7c124c21"
     },
     {
       "text": "Dangerous heat and fire danger continues",
@@ -720,27 +824,27 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/education/schools/richardson-isd-lone-finalist-superintendent-opening-tabitha-branum/287-84455490-38f3-424f-bd10-fa47aca45d42"
+      "url": "https://www.wfaa.com/article/news/crime/dfw-teens-arrested-aggravated-robbery-may-connected-at-least-10/287-104a010c-e35c-4a9c-a8b1-74ec813973d1"
     },
     {
-      "text": "Richardson ISD names lone finalist for superintendent opening",
-      "url": "https://www.wfaa.com/article/news/education/schools/richardson-isd-lone-finalist-superintendent-opening-tabitha-branum/287-84455490-38f3-424f-bd10-fa47aca45d42"
+      "text": "Police: Two teens arrested after aggravated robbery, may be connected to at least 10 across North Dallas",
+      "url": "https://www.wfaa.com/article/news/crime/dfw-teens-arrested-aggravated-robbery-may-connected-at-least-10/287-104a010c-e35c-4a9c-a8b1-74ec813973d1"
     },
     {
-      "text": "Current interim superintendent Tabitha Branum was named the lone finalist.",
-      "url": "https://www.wfaa.com/article/news/education/schools/richardson-isd-lone-finalist-superintendent-opening-tabitha-branum/287-84455490-38f3-424f-bd10-fa47aca45d42"
+      "text": "DPD identified the two suspects as 17-year-old Giovanni Martinez-Castro and 17-year-old Abraham Leone.",
+      "url": "https://www.wfaa.com/article/news/crime/dfw-teens-arrested-aggravated-robbery-may-connected-at-least-10/287-104a010c-e35c-4a9c-a8b1-74ec813973d1"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/money/business/right-on-the-money/rents-rising-more-apartments-being-built-dfw-but-many-are-luxury/287-6306286f-6408-4c4c-b0d5-cad9a55fa6c2"
+      "url": "https://www.wfaa.com/article/news/local/texas/texas-energy-experts-say-extreme-demand-generators-postpone-maintenance/287-054ba767-d83f-402a-9870-a9180e8c8704"
     },
     {
-      "text": "With rents rising, more apartments are being built in DFW. But, many of them are of the luxury variety",
-      "url": "https://www.wfaa.com/article/money/business/right-on-the-money/rents-rising-more-apartments-being-built-dfw-but-many-are-luxury/287-6306286f-6408-4c4c-b0d5-cad9a55fa6c2"
+      "text": "Energy experts say extreme demand is requiring Texas generators to postpone needed maintenance",
+      "url": "https://www.wfaa.com/article/news/local/texas/texas-energy-experts-say-extreme-demand-generators-postpone-maintenance/287-054ba767-d83f-402a-9870-a9180e8c8704"
     },
     {
-      "text": "Lower rent units have been disappearing.",
-      "url": "https://www.wfaa.com/article/money/business/right-on-the-money/rents-rising-more-apartments-being-built-dfw-but-many-are-luxury/287-6306286f-6408-4c4c-b0d5-cad9a55fa6c2"
+      "text": "Aging generators with planned maintenance are staying online, but this could lead to \"catastrophic\" failure later on.",
+      "url": "https://www.wfaa.com/article/news/local/texas/texas-energy-experts-say-extreme-demand-generators-postpone-maintenance/287-054ba767-d83f-402a-9870-a9180e8c8704"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
@@ -756,103 +860,75 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/education/schools/richardson-isd-lone-finalist-superintendent-opening-tabitha-branum/287-84455490-38f3-424f-bd10-fa47aca45d42"
+      "url": "https://www.wfaa.com/article/news/crime/dfw-teens-arrested-aggravated-robbery-may-connected-at-least-10/287-104a010c-e35c-4a9c-a8b1-74ec813973d1"
     },
     {
-      "text": "Richardson ISD names lone finalist for superintendent opening",
-      "url": "https://www.wfaa.com/article/news/education/schools/richardson-isd-lone-finalist-superintendent-opening-tabitha-branum/287-84455490-38f3-424f-bd10-fa47aca45d42"
+      "text": "Police: Two teens arrested after aggravated robbery, may be connected to at least 10 across North Dallas",
+      "url": "https://www.wfaa.com/article/news/crime/dfw-teens-arrested-aggravated-robbery-may-connected-at-least-10/287-104a010c-e35c-4a9c-a8b1-74ec813973d1"
     },
     {
-      "text": "Current interim superintendent Tabitha Branum was named the lone finalist.",
-      "url": "https://www.wfaa.com/article/news/education/schools/richardson-isd-lone-finalist-superintendent-opening-tabitha-branum/287-84455490-38f3-424f-bd10-fa47aca45d42"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/money/business/right-on-the-money/rents-rising-more-apartments-being-built-dfw-but-many-are-luxury/287-6306286f-6408-4c4c-b0d5-cad9a55fa6c2"
-    },
-    {
-      "text": "With rents rising, more apartments are being built in DFW. But, many of them are of the luxury variety",
-      "url": "https://www.wfaa.com/article/money/business/right-on-the-money/rents-rising-more-apartments-being-built-dfw-but-many-are-luxury/287-6306286f-6408-4c4c-b0d5-cad9a55fa6c2"
-    },
-    {
-      "text": "Lower rent units have been disappearing.",
-      "url": "https://www.wfaa.com/article/money/business/right-on-the-money/rents-rising-more-apartments-being-built-dfw-but-many-are-luxury/287-6306286f-6408-4c4c-b0d5-cad9a55fa6c2"
-    },
-    {
-      "text": "Blue Angels name first female F/A-18E/F fighter jet demonstration pilot",
-      "url": "https://www.wfaa.com/article/news/national/military-news/blue-angels-first-female-super-hornet-jet-demonstration-pilot-lt-amanda-lee/291-99291641-473e-4bf6-94b6-5e524784fe12"
-    },
-    {
-      "text": "Former Trump aides expected to testify at next Jan. 6 hearing",
-      "url": "https://www.wfaa.com/article/news/nation-world/former-white-house-aides-testify-next-jan-6-hearing/507-28ce563d-f140-4440-ba17-96520cd9a55c"
-    },
-    {
-      "text": "Uvalde bodycam footage: A breakdown of the 7 police body camera videos released from the Robb Elementary school shooting response",
-      "url": "https://www.wfaa.com/article/news/special-reports/uvalde-school-shooting/uvalde-robb-elementary-school-bodycam-video-police-response-breakdown/287-3844fccf-7aea-430d-85a3-1b9f0c2ff0f7"
-    },
-    {
-      "text": "Jury selection for ex-Trump adviser Bannon heads for 2nd day",
-      "url": "https://www.wfaa.com/article/news/nation-world/trial-expected-to-begin-for-steve-bannon/507-255d57bf-a497-48c2-bdb8-5e898314cd46"
-    },
-    {
-      "text": "Wedding guests stunned as massive Hawaii wave demolishes ceremony setup",
-      "url": "https://www.wfaa.com/article/news/nation-world/video-hawaii-waves-crash-wedding-homes-south-swell/507-2a480cbf-2875-48ce-9443-4ba6b8d550bc"
-    },
-    {
-      "text": "Iconic toy brand that went bankrupt making comeback with shops in Macy\u2019s",
-      "url": "https://www.wfaa.com/article/news/nation-world/toys-r-us-every-macys-in-the-us/507-d23df229-0212-4267-a6c8-e75e27de8dc5"
-    },
-    {
-      "text": "Blue Angels name first female F/A-18E/F fighter jet demonstration pilot",
-      "url": "https://www.wfaa.com/article/news/national/military-news/blue-angels-first-female-super-hornet-jet-demonstration-pilot-lt-amanda-lee/291-99291641-473e-4bf6-94b6-5e524784fe12"
-    },
-    {
-      "text": "Former Trump aides expected to testify at next Jan. 6 hearing",
-      "url": "https://www.wfaa.com/article/news/nation-world/former-white-house-aides-testify-next-jan-6-hearing/507-28ce563d-f140-4440-ba17-96520cd9a55c"
-    },
-    {
-      "text": "Uvalde bodycam footage: A breakdown of the 7 police body camera videos released from the Robb Elementary school shooting response",
-      "url": "https://www.wfaa.com/article/news/special-reports/uvalde-school-shooting/uvalde-robb-elementary-school-bodycam-video-police-response-breakdown/287-3844fccf-7aea-430d-85a3-1b9f0c2ff0f7"
-    },
-    {
-      "text": "Jury selection for ex-Trump adviser Bannon heads for 2nd day",
-      "url": "https://www.wfaa.com/article/news/nation-world/trial-expected-to-begin-for-steve-bannon/507-255d57bf-a497-48c2-bdb8-5e898314cd46"
-    },
-    {
-      "text": "Wedding guests stunned as massive Hawaii wave demolishes ceremony setup",
-      "url": "https://www.wfaa.com/article/news/nation-world/video-hawaii-waves-crash-wedding-homes-south-swell/507-2a480cbf-2875-48ce-9443-4ba6b8d550bc"
-    },
-    {
-      "text": "Iconic toy brand that went bankrupt making comeback with shops in Macy\u2019s",
-      "url": "https://www.wfaa.com/article/news/nation-world/toys-r-us-every-macys-in-the-us/507-d23df229-0212-4267-a6c8-e75e27de8dc5"
+      "text": "DPD identified the two suspects as 17-year-old Giovanni Martinez-Castro and 17-year-old Abraham Leone.",
+      "url": "https://www.wfaa.com/article/news/crime/dfw-teens-arrested-aggravated-robbery-may-connected-at-least-10/287-104a010c-e35c-4a9c-a8b1-74ec813973d1"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/life/heartwarming/texas-dog-reunited-with-family-after-8-eight-months-missing-arlington-azle-american-bully/287-1d712a15-8e76-4e80-a475-b9e67f6ee2d9"
+      "url": "https://www.wfaa.com/article/news/local/texas/texas-energy-experts-say-extreme-demand-generators-postpone-maintenance/287-054ba767-d83f-402a-9870-a9180e8c8704"
     },
     {
-      "text": "Lost in Azle, found in Arlington: How a missing show dog reunited with his family after 8 months",
-      "url": "https://www.wfaa.com/article/life/heartwarming/texas-dog-reunited-with-family-after-8-eight-months-missing-arlington-azle-american-bully/287-1d712a15-8e76-4e80-a475-b9e67f6ee2d9"
+      "text": "Energy experts say extreme demand is requiring Texas generators to postpone needed maintenance",
+      "url": "https://www.wfaa.com/article/news/local/texas/texas-energy-experts-say-extreme-demand-generators-postpone-maintenance/287-054ba767-d83f-402a-9870-a9180e8c8704"
     },
     {
-      "text": "His name may be Bowser, but the American Bully was rescued like Princess Peach by a superhero mother-daughter duo.",
-      "url": "https://www.wfaa.com/article/life/heartwarming/texas-dog-reunited-with-family-after-8-eight-months-missing-arlington-azle-american-bully/287-1d712a15-8e76-4e80-a475-b9e67f6ee2d9"
+      "text": "Aging generators with planned maintenance are staying online, but this could lead to \"catastrophic\" failure later on.",
+      "url": "https://www.wfaa.com/article/news/local/texas/texas-energy-experts-say-extreme-demand-generators-postpone-maintenance/287-054ba767-d83f-402a-9870-a9180e8c8704"
     },
     {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
+      "text": "Here's what you need to know about monkeypox",
+      "url": "https://www.wfaa.com/article/news/health/what-we-know-monkeypox/285-99ab39f6-b3f0-41af-a4c6-5792d86e98e3"
     },
     {
-      "text": "'He's my miracle': Houston man with brain tumor given two months to live, but he's still alive six years later",
-      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
+      "text": "Biden to announce new actions on climate change as he considers emergency declaration",
+      "url": "https://www.wfaa.com/article/news/nation-world/biden-climate-change-new-actions/507-b93a14bf-f1d1-4d07-ac3e-af57009379a1"
     },
     {
-      "text": "\u201cTo me, its 100% God,\" said Israel Lemus. \"The first thing I do when I wake up and the last thing I do before going to sleep is thank God for that day.\u201d",
-      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
+      "text": "Study: Student gains last year narrowed COVID learning gap",
+      "url": "https://www.wfaa.com/article/news/nation-world/study-student-gains-covid-learning-gap/507-640f2cb9-4017-4499-8621-f22d3258875f"
     },
     {
-      "text": "More Heartwarming",
-      "url": "/section/heartwarming"
+      "text": "Jennifer Lopez, Ben Affleck wed in Las Vegas drive-through",
+      "url": "https://www.wfaa.com/article/news/entertainment-news/jennifer-lopez-ben-affleck-wed-in-las-vegas-drive-through-marriage/507-f6496944-6d34-416f-9a7e-025437e46978"
+    },
+    {
+      "text": "Did anybody win the Mega Millions jackpot?",
+      "url": "https://www.wfaa.com/article/news/nation-world/mega-millions/507-24964c35-3ce9-4ee4-9046-263ea5101408"
+    },
+    {
+      "text": "Tuesday's Mega Millions jackpot soars even higher",
+      "url": "https://www.wfaa.com/article/news/nation-world/mega-millions-jackpot-jumps-to-555-million-july-19/507-fc86a264-91b3-4c88-885a-afbf94c3ad91"
+    },
+    {
+      "text": "Here's what you need to know about monkeypox",
+      "url": "https://www.wfaa.com/article/news/health/what-we-know-monkeypox/285-99ab39f6-b3f0-41af-a4c6-5792d86e98e3"
+    },
+    {
+      "text": "Biden to announce new actions on climate change as he considers emergency declaration",
+      "url": "https://www.wfaa.com/article/news/nation-world/biden-climate-change-new-actions/507-b93a14bf-f1d1-4d07-ac3e-af57009379a1"
+    },
+    {
+      "text": "Study: Student gains last year narrowed COVID learning gap",
+      "url": "https://www.wfaa.com/article/news/nation-world/study-student-gains-covid-learning-gap/507-640f2cb9-4017-4499-8621-f22d3258875f"
+    },
+    {
+      "text": "Jennifer Lopez, Ben Affleck wed in Las Vegas drive-through",
+      "url": "https://www.wfaa.com/article/news/entertainment-news/jennifer-lopez-ben-affleck-wed-in-las-vegas-drive-through-marriage/507-f6496944-6d34-416f-9a7e-025437e46978"
+    },
+    {
+      "text": "Did anybody win the Mega Millions jackpot?",
+      "url": "https://www.wfaa.com/article/news/nation-world/mega-millions/507-24964c35-3ce9-4ee4-9046-263ea5101408"
+    },
+    {
+      "text": "Tuesday's Mega Millions jackpot soars even higher",
+      "url": "https://www.wfaa.com/article/news/nation-world/mega-millions-jackpot-jumps-to-555-million-july-19/507-fc86a264-91b3-4c88-885a-afbf94c3ad91"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
@@ -884,99 +960,175 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/crime/trophy-club-texas-tarrant-county-june-2022-shooting-standoff-house-fire-updates-suspect-identified/287-b6c787f9-c77c-4534-836a-d4994ea1ccbb"
+      "url": "https://www.wfaa.com/article/life/heartwarming/texas-dog-reunited-with-family-after-8-eight-months-missing-arlington-azle-american-bully/287-1d712a15-8e76-4e80-a475-b9e67f6ee2d9"
     },
     {
-      "text": "Suspect identified in connection to Tarrant County standoff",
-      "url": "https://www.wfaa.com/article/news/crime/trophy-club-texas-tarrant-county-june-2022-shooting-standoff-house-fire-updates-suspect-identified/287-b6c787f9-c77c-4534-836a-d4994ea1ccbb"
+      "text": "Lost in Azle, found in Arlington: How a missing show dog reunited with his family after 8 months",
+      "url": "https://www.wfaa.com/article/life/heartwarming/texas-dog-reunited-with-family-after-8-eight-months-missing-arlington-azle-american-bully/287-1d712a15-8e76-4e80-a475-b9e67f6ee2d9"
     },
     {
-      "text": "The hours-long standoff happened on Indian Creek Drive in June when deputies were serving a warrant. He shot at deputies and caused the house to be set on fire.",
-      "url": "https://www.wfaa.com/article/news/crime/trophy-club-texas-tarrant-county-june-2022-shooting-standoff-house-fire-updates-suspect-identified/287-b6c787f9-c77c-4534-836a-d4994ea1ccbb"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/crews-battling-large-wildfire-near-glen-rose-somervell-county-texas/287-ad3d99f0-1d1b-4008-a826-297e8f403463"
-    },
-    {
-      "text": "Chalk Mountain Fire grows to 4,000 acres, nearly tripling in size overnight, officials say",
-      "url": "https://www.wfaa.com/article/news/local/crews-battling-large-wildfire-near-glen-rose-somervell-county-texas/287-ad3d99f0-1d1b-4008-a826-297e8f403463"
-    },
-    {
-      "text": "A wildfire in Somervell County, southwest of Fort Worth, nearly tripled in size overnight, growing from around 1,200 acres to 4,000 acres",
-      "url": "https://www.wfaa.com/article/news/local/crews-battling-large-wildfire-near-glen-rose-somervell-county-texas/287-ad3d99f0-1d1b-4008-a826-297e8f403463"
+      "text": "His name may be Bowser, but the American Bully was rescued like Princess Peach by a superhero mother-daughter duo.",
+      "url": "https://www.wfaa.com/article/life/heartwarming/texas-dog-reunited-with-family-after-8-eight-months-missing-arlington-azle-american-bully/287-1d712a15-8e76-4e80-a475-b9e67f6ee2d9"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/crime/trophy-club-texas-tarrant-county-june-2022-shooting-standoff-house-fire-updates-suspect-identified/287-b6c787f9-c77c-4534-836a-d4994ea1ccbb"
+      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
     },
     {
-      "text": "Suspect identified in connection to Tarrant County standoff",
-      "url": "https://www.wfaa.com/article/news/crime/trophy-club-texas-tarrant-county-june-2022-shooting-standoff-house-fire-updates-suspect-identified/287-b6c787f9-c77c-4534-836a-d4994ea1ccbb"
+      "text": "'He's my miracle': Houston man with brain tumor given two months to live, but he's still alive six years later",
+      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
     },
     {
-      "text": "The hours-long standoff happened on Indian Creek Drive in June when deputies were serving a warrant. He shot at deputies and caused the house to be set on fire.",
-      "url": "https://www.wfaa.com/article/news/crime/trophy-club-texas-tarrant-county-june-2022-shooting-standoff-house-fire-updates-suspect-identified/287-b6c787f9-c77c-4534-836a-d4994ea1ccbb"
+      "text": "\u201cTo me, its 100% God,\" said Israel Lemus. \"The first thing I do when I wake up and the last thing I do before going to sleep is thank God for that day.\u201d",
+      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
     },
     {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/crews-battling-large-wildfire-near-glen-rose-somervell-county-texas/287-ad3d99f0-1d1b-4008-a826-297e8f403463"
+      "text": "More Heartwarming",
+      "url": "/section/heartwarming"
     },
     {
-      "text": "Chalk Mountain Fire grows to 4,000 acres, nearly tripling in size overnight, officials say",
-      "url": "https://www.wfaa.com/article/news/local/crews-battling-large-wildfire-near-glen-rose-somervell-county-texas/287-ad3d99f0-1d1b-4008-a826-297e8f403463"
+      "text": "\n                                                !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                            ",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
     },
     {
-      "text": "A wildfire in Somervell County, southwest of Fort Worth, nearly tripled in size overnight, growing from around 1,200 acres to 4,000 acres",
-      "url": "https://www.wfaa.com/article/news/local/crews-battling-large-wildfire-near-glen-rose-somervell-county-texas/287-ad3d99f0-1d1b-4008-a826-297e8f403463"
+      "text": "A look back at the destructive 2011 Possum Kingdom Complex Fire",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
     },
     {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/sports/patrick-mahomes-texas-school-commercial-nfl-chiefs/287-160c45ba-7d0c-48db-8841-7e2616457036"
+      "text": "The Possum Kingdom Complex Fire started on April 9, 2011, and burned for 34 days.",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
     },
     {
-      "text": "Star in town: NFL QB Patrick Mahomes shot a commercial at a North Texas high school",
-      "url": "https://www.wfaa.com/article/sports/patrick-mahomes-texas-school-commercial-nfl-chiefs/287-160c45ba-7d0c-48db-8841-7e2616457036"
+      "text": "\n                                                !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                            ",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
     },
     {
-      "text": "Arlington's football Twitter account posted a sneak-peek video of the commercial Sunday night.",
-      "url": "https://www.wfaa.com/article/sports/patrick-mahomes-texas-school-commercial-nfl-chiefs/287-160c45ba-7d0c-48db-8841-7e2616457036"
+      "text": "One of Texas' most-destructive wildfires in history started near Possum Kingdom Lake",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
     },
     {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/sports/mlb/rangers/juan-soto-trade-rumors-could-the-texas-rangers-actually-have-a-chance-at-juan-soto-an-espn-insider-is-teasing-us/287-b579a92a-bbe5-49b7-8988-02ef30a7289e"
+      "text": "The Possum Kingdom Complex Fire started on April 9, 2011, and burned for 34 days.",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
     },
     {
-      "text": "Could the Rangers actually have a chance at Juan Soto? An ESPN insider is teasing us",
-      "url": "https://www.wfaa.com/article/sports/mlb/rangers/juan-soto-trade-rumors-could-the-texas-rangers-actually-have-a-chance-at-juan-soto-an-espn-insider-is-teasing-us/287-b579a92a-bbe5-49b7-8988-02ef30a7289e"
+      "text": "\n                                                !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                            ",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
     },
     {
-      "text": "Olney on Monday listed the Rangers as No. 2 on Soto's list of potential suitors, behind the San Diego Padres.",
-      "url": "https://www.wfaa.com/article/sports/mlb/rangers/juan-soto-trade-rumors-could-the-texas-rangers-actually-have-a-chance-at-juan-soto-an-espn-insider-is-teasing-us/287-b579a92a-bbe5-49b7-8988-02ef30a7289e"
+      "text": "148K acres and 215 homes destroyed: How fire ravaged Possum Kingdom in 2011",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
     },
     {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/sports/patrick-mahomes-texas-school-commercial-nfl-chiefs/287-160c45ba-7d0c-48db-8841-7e2616457036"
-    },
-    {
-      "text": "Star in town: NFL QB Patrick Mahomes shot a commercial at a North Texas high school",
-      "url": "https://www.wfaa.com/article/sports/patrick-mahomes-texas-school-commercial-nfl-chiefs/287-160c45ba-7d0c-48db-8841-7e2616457036"
-    },
-    {
-      "text": "Arlington's football Twitter account posted a sneak-peek video of the commercial Sunday night.",
-      "url": "https://www.wfaa.com/article/sports/patrick-mahomes-texas-school-commercial-nfl-chiefs/287-160c45ba-7d0c-48db-8841-7e2616457036"
+      "text": "The Possum Kingdom Complex Fire started on April 9, 2011, and burned for 34 days.",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/sports/mlb/rangers/juan-soto-trade-rumors-could-the-texas-rangers-actually-have-a-chance-at-juan-soto-an-espn-insider-is-teasing-us/287-b579a92a-bbe5-49b7-8988-02ef30a7289e"
+      "url": "https://www.wfaa.com/article/news/local/animal-cruelty-texas-heat-wave-dead-miniature-horses-emus-and-a-bull-found-without-water-in-parker-county-officials-say/287-f36c0936-b1b3-4d36-8c44-c06f868a207f"
     },
     {
-      "text": "Could the Rangers actually have a chance at Juan Soto? An ESPN insider is teasing us",
-      "url": "https://www.wfaa.com/article/sports/mlb/rangers/juan-soto-trade-rumors-could-the-texas-rangers-actually-have-a-chance-at-juan-soto-an-espn-insider-is-teasing-us/287-b579a92a-bbe5-49b7-8988-02ef30a7289e"
+      "text": "Dead miniature horses, emus and a bull found without water in Parker County, officials say",
+      "url": "https://www.wfaa.com/article/news/local/animal-cruelty-texas-heat-wave-dead-miniature-horses-emus-and-a-bull-found-without-water-in-parker-county-officials-say/287-f36c0936-b1b3-4d36-8c44-c06f868a207f"
     },
     {
-      "text": "Olney on Monday listed the Rangers as No. 2 on Soto's list of potential suitors, behind the San Diego Padres.",
-      "url": "https://www.wfaa.com/article/sports/mlb/rangers/juan-soto-trade-rumors-could-the-texas-rangers-actually-have-a-chance-at-juan-soto-an-espn-insider-is-teasing-us/287-b579a92a-bbe5-49b7-8988-02ef30a7289e"
+      "text": "The animals who died did not have a fresh water source, according to a news release from the sheriff's office.",
+      "url": "https://www.wfaa.com/article/news/local/animal-cruelty-texas-heat-wave-dead-miniature-horses-emus-and-a-bull-found-without-water-in-parker-county-officials-say/287-f36c0936-b1b3-4d36-8c44-c06f868a207f"
+    },
+    {
+      "text": "\n                                                !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                            ",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "A look back at the destructive 2011 Possum Kingdom Complex Fire",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "The Possum Kingdom Complex Fire started on April 9, 2011, and burned for 34 days.",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "\n                                                !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                            ",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "One of Texas' most-destructive wildfires in history started near Possum Kingdom Lake",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "The Possum Kingdom Complex Fire started on April 9, 2011, and burned for 34 days.",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "\n                                                !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                            ",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "148K acres and 215 homes destroyed: How fire ravaged Possum Kingdom in 2011",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "The Possum Kingdom Complex Fire started on April 9, 2011, and burned for 34 days.",
+      "url": "https://www.wfaa.com/article/news/local/possum-kingdom-lake-history-2011/287-4f70128f-f66e-4504-a03c-ae2759f80384"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/news/local/animal-cruelty-texas-heat-wave-dead-miniature-horses-emus-and-a-bull-found-without-water-in-parker-county-officials-say/287-f36c0936-b1b3-4d36-8c44-c06f868a207f"
+    },
+    {
+      "text": "Dead miniature horses, emus and a bull found without water in Parker County, officials say",
+      "url": "https://www.wfaa.com/article/news/local/animal-cruelty-texas-heat-wave-dead-miniature-horses-emus-and-a-bull-found-without-water-in-parker-county-officials-say/287-f36c0936-b1b3-4d36-8c44-c06f868a207f"
+    },
+    {
+      "text": "The animals who died did not have a fresh water source, according to a news release from the sheriff's office.",
+      "url": "https://www.wfaa.com/article/news/local/animal-cruelty-texas-heat-wave-dead-miniature-horses-emus-and-a-bull-found-without-water-in-parker-county-officials-say/287-f36c0936-b1b3-4d36-8c44-c06f868a207f"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/sports/locked-on/lo-national/locked-on-nfl/nfl-top-50-for-2022-stefon-diggs-alvin-kamara-dalvin-cook-headline-40-31-section/535-77f06b42-ed1d-4020-ac77-8422fe95cc1a"
+    },
+    {
+      "text": "NFL Top 50 for 2022: Stefon Diggs, Alvin Kamara, Dalvin Cook headline 40-31 section",
+      "url": "https://www.wfaa.com/article/sports/locked-on/lo-national/locked-on-nfl/nfl-top-50-for-2022-stefon-diggs-alvin-kamara-dalvin-cook-headline-40-31-section/535-77f06b42-ed1d-4020-ac77-8422fe95cc1a"
+    },
+    {
+      "text": "We're inside 50 days away from the NFL season and our friends at Locked On Sports are putting out a unique NFL top 50 player ranking this week.",
+      "url": "https://www.wfaa.com/article/sports/locked-on/lo-national/locked-on-nfl/nfl-top-50-for-2022-stefon-diggs-alvin-kamara-dalvin-cook-headline-40-31-section/535-77f06b42-ed1d-4020-ac77-8422fe95cc1a"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/sports/nfl/cowboys/dont-count-on-dallas-cowboys-trading-for-bengals-s-jessie-bates/287-ddc5f606-e3ce-48de-a476-db9fcdc10eda"
+    },
+    {
+      "text": "Don\u2019t count on Cowboys trading for Bengals S Jessie Bates",
+      "url": "https://www.wfaa.com/article/sports/nfl/cowboys/dont-count-on-dallas-cowboys-trading-for-bengals-s-jessie-bates/287-ddc5f606-e3ce-48de-a476-db9fcdc10eda"
+    },
+    {
+      "text": "Cincinnati Bengals safety Jessie Bates will likely be a big name in trade rumors but there\u2019s ample reason to believe the Dallas Cowboys won\u2019t be among the pursuers.",
+      "url": "https://www.wfaa.com/article/sports/nfl/cowboys/dont-count-on-dallas-cowboys-trading-for-bengals-s-jessie-bates/287-ddc5f606-e3ce-48de-a476-db9fcdc10eda"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/sports/locked-on/lo-national/locked-on-nfl/nfl-top-50-for-2022-stefon-diggs-alvin-kamara-dalvin-cook-headline-40-31-section/535-77f06b42-ed1d-4020-ac77-8422fe95cc1a"
+    },
+    {
+      "text": "NFL Top 50 for 2022: Stefon Diggs, Alvin Kamara, Dalvin Cook headline 40-31 section",
+      "url": "https://www.wfaa.com/article/sports/locked-on/lo-national/locked-on-nfl/nfl-top-50-for-2022-stefon-diggs-alvin-kamara-dalvin-cook-headline-40-31-section/535-77f06b42-ed1d-4020-ac77-8422fe95cc1a"
+    },
+    {
+      "text": "We're inside 50 days away from the NFL season and our friends at Locked On Sports are putting out a unique NFL top 50 player ranking this week.",
+      "url": "https://www.wfaa.com/article/sports/locked-on/lo-national/locked-on-nfl/nfl-top-50-for-2022-stefon-diggs-alvin-kamara-dalvin-cook-headline-40-31-section/535-77f06b42-ed1d-4020-ac77-8422fe95cc1a"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/sports/nfl/cowboys/dont-count-on-dallas-cowboys-trading-for-bengals-s-jessie-bates/287-ddc5f606-e3ce-48de-a476-db9fcdc10eda"
+    },
+    {
+      "text": "Don\u2019t count on Cowboys trading for Bengals S Jessie Bates",
+      "url": "https://www.wfaa.com/article/sports/nfl/cowboys/dont-count-on-dallas-cowboys-trading-for-bengals-s-jessie-bates/287-ddc5f606-e3ce-48de-a476-db9fcdc10eda"
+    },
+    {
+      "text": "Cincinnati Bengals safety Jessie Bates will likely be a big name in trade rumors but there\u2019s ample reason to believe the Dallas Cowboys won\u2019t be among the pursuers.",
+      "url": "https://www.wfaa.com/article/sports/nfl/cowboys/dont-count-on-dallas-cowboys-trading-for-bengals-s-jessie-bates/287-ddc5f606-e3ce-48de-a476-db9fcdc10eda"
     },
     {
       "text": "\n             About Us",

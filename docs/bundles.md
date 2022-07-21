@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 35 bundles of sites.
+The archiving routine is currently organized into 36 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -16,6 +16,7 @@ The archiving routine is currently organized into 35 bundles of sites.
 |[Eastern Europe](https://palewi.re/docs/news-homepages/bundles/eastern-europe.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/eastern-europe.xml)|
 |[Entertainment](https://palewi.re/docs/news-homepages/bundles/entertainment.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/entertainment.xml)|
 |[France](https://palewi.re/docs/news-homepages/bundles/france.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/france.xml)|
+|[Georgia](https://palewi.re/docs/news-homepages/bundles/georgia.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/georgia.xml)|
 |[Iowa](https://palewi.re/docs/news-homepages/bundles/iowa.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/iowa.xml)|
 |[Ireland](https://palewi.re/docs/news-homepages/bundles/ireland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/ireland.xml)|
 |[Japan](https://palewi.re/docs/news-homepages/bundles/japan.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/japan.xml)|

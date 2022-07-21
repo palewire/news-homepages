@@ -7,9 +7,18 @@ orphan: true
 
 # Arizona
 
-The most recent homepages from 5 news sites in this bundle.
+The most recent homepages from 6 news sites in this bundle.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/arizcir.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/arizcir.jpg"
+     alt="Arizona Center for Investigative Reporting"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/arizcir.html">Arizona Center for Investigative Reporting</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/azcentral.html">
@@ -71,6 +80,7 @@ The most recent homepages from 5 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[Arizona Center for Investigative Reporting](https://palewi.re/docs/news-homepages/sites/arizcir.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/arizcir.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/arizcir.xml)|
 |[Arizona Republic](https://palewi.re/docs/news-homepages/sites/azcentral.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/azcentral.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/azcentral.xml)|
 |[Arizona Daily Sun](https://palewi.re/docs/news-homepages/sites/azds.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/azds.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/azds.xml)|
 |[News 4](https://palewi.re/docs/news-homepages/sites/kvoa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kvoa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kvoa.xml)|

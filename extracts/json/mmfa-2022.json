@@ -1,5 +1,5 @@
 {
-  "created": 1658279168,
+  "created": 1658363224,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/16/items/mmfa-2022",
@@ -268,31 +268,157 @@
       "sha1": "ef2c13355f1c4d3c45d536d994c010f14b68140c"
     },
     {
+      "name": "mmfa-2022-07-19T23:32:41.988975-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658287966",
+      "size": "22051",
+      "md5": "e9fa30cf34631d3ee3b04568aafe9ee8",
+      "crc32": "46efd5d8",
+      "sha1": "cfe72a84f4f3749aceb1973ed9c08ab167dd29e0",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-07-19T23:32:41.988975-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658287967",
+      "size": "28698",
+      "md5": "f6ba36ec71130bbc207b57692161b753",
+      "crc32": "53548c8e",
+      "sha1": "0bf3f064f6a119504d0c5685a32908d2e9783abe",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-07-19T23:32:41.988975-04:00.jpg",
+      "source": "original",
+      "mtime": "1658287964",
+      "size": "272773",
+      "md5": "4c6f0729d65bcce3b4b405bc9b017145",
+      "crc32": "9449d114",
+      "sha1": "a788298843b33d380e72a85b7c7c74f00abba7d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mmfa-2022-07-19T23:32:41.988975-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mmfa-2022-07-19T23:32:41.988975-04:00.jpg",
+      "mtime": "1658288178",
+      "size": "10266",
+      "md5": "6454cce7d1c0fb44cccf11a62d949652",
+      "crc32": "da222b6e",
+      "sha1": "e827e1b8713b7dbb198dc91999666f551a350ebc"
+    },
+    {
+      "name": "mmfa-2022-07-20T12:07:50.521819-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658333274",
+      "size": "18259",
+      "md5": "c24ffacafc00d95bccad699d324c762d",
+      "crc32": "da74c994",
+      "sha1": "2289ee01e00105a56aaa9d3ec2d3cd1f95e7fdf8",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-07-20T12:07:50.521819-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658333276",
+      "size": "21214",
+      "md5": "bd583a2408ef2ac011e6ef1c896bf798",
+      "crc32": "67b4de97",
+      "sha1": "77cd2df56e4c3b31ac67b899834d31276fc41765",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-07-20T12:07:50.521819-04:00.jpg",
+      "source": "original",
+      "mtime": "1658333272",
+      "size": "243379",
+      "md5": "6afa0bdf1a59593eec92d398f2524090",
+      "crc32": "9809d8bd",
+      "sha1": "00f37eb58a932ab1f3d920072fb069cab6819858",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mmfa-2022-07-20T12:07:50.521819-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mmfa-2022-07-20T12:07:50.521819-04:00.jpg",
+      "mtime": "1658335311",
+      "size": "10907",
+      "md5": "52c16a2d226879659e94c9bbbe5ee9f7",
+      "crc32": "ff5ef6b2",
+      "sha1": "cc95e811b67cd4be84e2d47da32b30360629904d"
+    },
+    {
+      "name": "mmfa-2022-07-20T12:39:55.921812-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658335199",
+      "size": "18307",
+      "md5": "885cff8dd0d27992a61503fd4e31f105",
+      "crc32": "8098445d",
+      "sha1": "0573bb916a39ff65914a2ca7e8fbf14f57c848db",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-07-20T12:39:55.921812-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658335201",
+      "size": "21294",
+      "md5": "d20af28423f9b95291e030817df97f56",
+      "crc32": "4b1cf2d4",
+      "sha1": "0ec6caecca38b7a6e40a2ec7670c3436387cef0c",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-07-20T12:39:55.921812-04:00.jpg",
+      "source": "original",
+      "mtime": "1658335197",
+      "size": "242771",
+      "md5": "9128c506cac1d2da9b97483d460a0c2f",
+      "crc32": "b66022f0",
+      "sha1": "868b4dc3abcf92cb3b6bc95391acf77899eb7a03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mmfa-2022-07-20T12:39:55.921812-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mmfa-2022-07-20T12:39:55.921812-04:00.jpg",
+      "mtime": "1658339356",
+      "size": "10903",
+      "md5": "3b06354b0e92cd38f36f0ce3ae384064",
+      "crc32": "4468b72b",
+      "sha1": "6906a94a1d0c2d5cd2a5244cdbe892e057da5c78"
+    },
+    {
       "name": "mmfa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "606ee406c5f7fb5aa2d8572a1e155e2f11ed5bc5",
-      "mtime": "1658250450",
-      "size": "6532",
-      "md5": "c1fc25650c29a2cb031d1331975759f7",
-      "crc32": "b334b78e",
-      "sha1": "7164930e420a204e2923e0a6af103c3c3ae1d334",
+      "btih": "85c300fc35102ecba3bcfd9029ce4bea2ef20bb6",
+      "mtime": "1658339362",
+      "size": "9015",
+      "md5": "36f71a7c86342fc66bc696aeda5a464f",
+      "crc32": "c4fd6de8",
+      "sha1": "80ceb5dbaf6507340801798b404184d1567a5b75",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mmfa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03b4ef2e3ff21a60de00c3b1377dd13f",
+      "md5": "21a39295bc23b75eefe1bd4a304a9923",
       "summation": "md5"
     },
     {
       "name": "mmfa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658249744",
-      "size": "45056",
-      "md5": "9d1e90610b9c0f7a2dce67c4357367cd",
-      "crc32": "afdd41dd",
-      "sha1": "1057732b0b7f32ca774a1eafecf11d71bc353313",
+      "mtime": "1658335490",
+      "size": "57344",
+      "md5": "b75dca2af445c024e20cd0fedbea6356",
+      "crc32": "904ec191",
+      "sha1": "e021f13573f718a9a055182cb74014bdc4e06f6d",
       "format": "Metadata"
     },
     {
@@ -306,9 +432,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 29,
-  "item_last_updated": 1658250450,
-  "item_size": 1910066,
+  "files_count": 41,
+  "item_last_updated": 1658339362,
+  "item_size": 2845659,
   "metadata": {
     "identifier": "mmfa-2022",
     "collection": [
@@ -459,32 +585,36 @@
       "url": "https://www.youtube.com/channel/UC_70iWZ6ym2cglS_kv5YfmA"
     },
     {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n    Jesse Watters wants to pretend the end of Roe is no big deal. Reality keeps proving him wrong\n    \n  ",
-      "url": "/jesse-watters/jesse-watters-repeatedly-fails-efforts-suppress-critical-reporting-ohio-ten-year-old"
+      "text": "\n    \n      \n              \n  \n      \n                  \n              \n                  \n\n  \n\n\n\n\n  \n\n          \n  \n    With OAN deal about to expire, Verizon shouldn\u2019t capitulate to the network's last-ditch attacks\n  ",
+      "url": "/one-america-news-network/red-herring-verizon-shouldnt-capitulate-oans-last-ditch-attacks-its"
     },
     {
       "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Local print and digital coverage often caved to anti-abortion spin after Roe was overturned\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/18/22 9:37 AM EDT\n\n    \n  ",
       "url": "/local-news/local-print-and-digital-coverage-often-caved-anti-abortion-spin-after-roe-was-overturned"
     },
     {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Tucker Carlson is in Iowa selling cheap hats and streaming subscriptions\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/16/22 1:42 PM EDT\n\n    \n  ",
-      "url": "/tucker-carlson/tucker-carlson-iowa-selling-cheap-hats-and-streaming-subscriptions"
+      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Climate cover-up: When TV networks cover extreme, deadly heat wave, they ignore connection to climate change two-thirds of the time\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/19/22 3:33 PM EDT\n\n    \n  ",
+      "url": "/cable-news/national-tv-networks-mention-climate-change-32-segments-global-extreme-heat"
     },
     {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      One America News is promoting election deniers running for key state offices in midterms\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/18/22 10:13 AM EDT\n\n    \n  ",
-      "url": "/one-america-news-network/one-america-news-promoting-election-deniers-running-key-state-executive"
+      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Tucker Carlson gives a full endorsement of the white supremacist \u201cgreat replacement\u201d conspiracy theory\n\n\n      \n\n\n      \n        \n          Video & Audio\n    \n    \n  \n\n    \n  \n  07/19/22 9:42 PM EDT\n\n    \n  ",
+      "url": "/tucker-carlson/tucker-carlson-gives-full-endorsement-white-supremacist-great-replacement-conspiracy"
     },
     {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Allie Beth Stuckey teeters between culture war crusader and fundamentalist Christian propagandist  \n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/14/22 9:23 AM EDT\n\n    \n  ",
-      "url": "/blazetv/allie-beth-stuckey-teeters-between-culture-war-crusader-and-fundamentalist-christian"
+      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      A QAnon influencer wants to use an Arizona gubernatorial candidate to get his message out \u2013 and it seems to be working\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/20/22 9:24 AM EDT\n\n    \n  ",
+      "url": "/qanon-conspiracy-theory/qanon-influencer-wants-use-arizona-gubernatorial-candidate-get-his-message"
+    },
+    {
+      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Jesse Watters wants to pretend the end of Roe is no big deal. Reality keeps proving him wrong\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/15/22 8:55 AM EDT\n\n    \n  ",
+      "url": "/jesse-watters/jesse-watters-repeatedly-fails-efforts-suppress-critical-reporting-ohio-ten-year-old"
+    },
+    {
+      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Fox used Biden's ill-advised trip to Saudi Arabia to continue its unwavering support for the fossil fuel industry\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/19/22 12:28 PM EDT\n\n    \n  ",
+      "url": "/fox-news/fox-news-used-president-joe-bidens-ill-advised-trip-saudi-arabia-continue-its-unwavering"
     },
     {
       "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      These media figures discredited a report on a 10-year-old girl needing an abortion. There was just an arrest in the case.\n\n\n      \n\n\n      \n        \n          Research/Study\n    \n    \n  \n\n    \n  \n  07/13/22 5:06 PM EDT\n\n    \n  ",
       "url": "/fox-news/these-media-figures-discredited-report-10-year-old-girl-needing-medical-abortion-there-was"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      The Wall Street Journal issues a non-apology for denying a 10-year-old\u2019s rape\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/14/22 11:30 AM EDT\n\n    \n  ",
-      "url": "/wall-street-journal/wall-street-journal-issues-non-apology-denying-10-year-olds-rape"
     },
     {
       "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Laura Ingraham\u2019s reaction to her friend Pat Cipollone\u2019s testimony shows how Fox was complicit in Trump's coup\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/13/22 1:14 PM EDT\n\n    \n  ",
@@ -495,48 +625,44 @@
       "url": "/immigration/first-half-2022-fox-news-feverishly-pushed-debunked-racist-and-inflammatory-narratives"
     },
     {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Fox News attacks Biden for \u201csurging\u201d gasoline prices as they fall for 27th consecutive day\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/11/22 3:08 PM EDT\n\n    \n  ",
-      "url": "/fox-news/fox-news-attacks-biden-surging-gasoline-prices-they-fall-27th-consecutive-day"
+      "text": "Right-wing media narratives have put Indiana abortion provider in danger as hate spreads through social media \n",
+      "url": "/4chan/right-wing-media-narratives-have-put-indiana-abortion-provider-danger-hate-spreads-through"
     },
     {
-      "text": "Twitter should follow Reddit\u2019s lead and take action against the \u201cgroomer\u201d smear inciting anti-LGBTQ harassment \n",
-      "url": "/twitter/twitter-should-follow-reddits-lead-and-take-action-against-groomer-smear-inciting-anti"
+      "text": "Fox host downplays the record heat wave: \u201cDon't panic. It is summer\u201d \n",
+      "url": "/climate-deniers/fox-host-downplays-record-heat-wave-dont-panic-it-summer"
     },
     {
-      "text": "Newsmax's Eric Bolling: \u201cNothing would make me happier than to see Fauci in those leg\u00a0irons being escorted through an\u00a0airport somewhere\u201d\n",
-      "url": "/eric-bolling/newsmaxs-eric-bolling-nothing-would-make-me-happier-see-fauci-those-leg-irons-being"
+      "text": "On Nevada radio, Jim Marchant has been unleashing bizarre and unhinged conspiracy theories about the \u201ccabal\u201d \n",
+      "url": "/voter-fraud-and-suppression/nevada-radio-jim-marchant-has-been-unleashing-bizarre-and-unhinged"
     },
     {
-      "text": "Newsmax host calls Fox News a \u201cgiant bully, rather than a legitimate news source\u201d\n",
-      "url": "/eric-bolling/newsmax-host-calls-fox-news-giant-bully-rather-legitimate-news-source"
+      "text": "A QAnon influencer wants to use an Arizona gubernatorial candidate to get his message out \u2013 and it seems to be working\n",
+      "url": "/qanon-conspiracy-theory/qanon-influencer-wants-use-arizona-gubernatorial-candidate-get-his-message"
     },
     {
-      "text": "Laura Ingraham: \u201cRepublicans are kind of afraid of the gun issue sometimes because they feel like there will be another mass shooting\u201d\n",
-      "url": "/laura-ingraham/laura-ingraham-republicans-are-kind-afraid-gun-issue-sometimes-because-they-feel"
+      "text": "Conservatives invent conspiracy theories about Indiana doctor to distract from their cruel, unpopular anti-abortion policies\n",
+      "url": "/supreme-court/conservatives-invent-conspiracy-theories-about-indiana-doctor-distract-their-cruel"
     },
     {
-      "text": "Tucker Carlson calls Illinois Gov. J.B. Pritzker a \u201cslave\u201d to teachers unions\n",
-      "url": "/tucker-carlson/tucker-carlson-calls-illinois-gov-jb-pritzker-slave-teachers-unions"
+      "text": "Red Herring: Verizon shouldn\u2019t capitulate to OAN\u2019s last-ditch attacks as its contract expires\n",
+      "url": "/one-america-news-network/red-herring-verizon-shouldnt-capitulate-oans-last-ditch-attacks-its"
     },
     {
-      "text": "OAN host lies that \u201cabortions are never necessary to save the life of the mother\u201d\n",
-      "url": "/one-america-news-network/oan-host-lies-abortions-are-never-necessary-save-life-mother"
+      "text": "Fox News' Newt Gingrich suggests that the climate crisis is \u201call a bunch of lies\u201d\n",
+      "url": "/fox-news/fox-news-newt-gingrich-suggests-climate-crisis-all-bunch-lies"
     },
     {
-      "text": "One America News is promoting election deniers running for key state offices in midterms\n",
-      "url": "/one-america-news-network/one-america-news-promoting-election-deniers-running-key-state-executive"
+      "text": "White supremacist Stephen Miller claims \u201cunending migration\u201d is \u201ceroding and destroying\u201d American values\n",
+      "url": "/fox-news/white-supremacist-stephen-miller-claims-unending-migration-eroding-and-destroying-american"
     },
     {
-      "text": "Local print and digital coverage often caved to anti-abortion spin after Roe was overturned\n",
-      "url": "/local-news/local-print-and-digital-coverage-often-caved-anti-abortion-spin-after-roe-was-overturned"
+      "text": "Tucker Carlson gives a full endorsement of the white supremacist \u201cgreat replacement\u201d conspiracy theory\n",
+      "url": "/tucker-carlson/tucker-carlson-gives-full-endorsement-white-supremacist-great-replacement-conspiracy"
     },
     {
-      "text": "On YouTube, The Daily Wire's Jordan Peterson calls gender-affirming care for minors \u201cNazi medical experiment-level wrong\u201d\n",
-      "url": "/daily-wire/youtube-daily-wires-jordan-peterson-calls-gender-affirming-care-minors-nazi-medical"
-    },
-    {
-      "text": "ABC\u2019s Martha Raddatz plays devil\u2019s advocate for Sen. Joe Manchin in an interview with Sen. Bernie Sanders about climate legislation\n",
-      "url": "/week/abcs-martha-raddatz-plays-devils-advocate-sen-joe-manchin-interview-sen-bernie-sanders-about"
+      "text": "In segment on extreme heat, Fox's flagship news program ignores link to climate change\n",
+      "url": "/bret-baier/segment-extreme-heat-foxs-flagship-news-program-ignores-link-climate-change"
     },
     {
       "text": "\n            \n              Current page\n            1",
@@ -545,30 +671,6 @@
     {
       "text": "\n            Next page\n              \n          \u203a\u203a\n    \n    \n  \n\n          ",
       "url": "?page=1"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Anti-choice publications react to Roe's reversal with misinformation about abortion pill and contraceptives \n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/08/22 12:30 PM EDT\n\n    \n  ",
-      "url": "/live-action/anti-choice-publications-react-roes-reversal-misinformation-about-abortion-pill-and"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      How right-wing media reacted to the Supreme Court overturning Roe v. Wade\n\n\n      \n\n\n      \n        \n          Narrative/Timeline\n    \n    \n  \n\n    \n  \n  06/24/22 6:42 PM EDT\n\n    \n  ",
-      "url": "/fox-news/how-right-wing-media-reacted-supreme-court-overturning-roe-v-wade"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      After Roe, mainstream outlets are pretending conservatives actually care about children\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  06/27/22 2:04 PM EDT\n\n    \n  ",
-      "url": "/supreme-court/after-roe-mainstream-outlets-are-pretending-conservatives-actually-care-about"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Covering leaked Supreme Court draft, mainstream print media often left out crucial context about the catastrophic impacts of Roe\u2019s reversal\n\n\n      \n\n\n      \n        \n          Research/Study\n    \n    \n  \n\n    \n  \n  06/08/22 9:23 AM EDT\n\n    \n  ",
-      "url": "/new-york-times/covering-leaked-supreme-court-draft-mainstream-print-media-often-left-out-crucial"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      After years of excusing violence against abortion providers, right-wing media fearmonger about post-Roe left-wing violence\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  05/05/22 4:23 PM EDT\n\n    \n  ",
-      "url": "/supreme-court/after-years-excusing-violence-against-abortion-providers-right-wing-media-fearmonger"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Mainstream media have enabled the approaching fall of Roe just like their right-wing counterparts\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  05/03/22 4:47 PM EDT\n\n    \n  ",
-      "url": "/supreme-court/mainstream-media-have-enabled-approaching-fall-roe-just-their-right-wing-counterparts"
     },
     {
       "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      At every step of the way, right-wing media provided the pretext for Trump\u2019s attempted coup\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  09/24/21 1:10 PM EDT\n\n    \n  ",
@@ -595,30 +697,6 @@
       "url": "/fox-news/2-weeks-after-it-called-election-fox-news-cast-doubt-results-nearly-800-times"
     },
     {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Fox\u2019s coverage in the wake of the Uvalde shooting favors nonexistent culture wars over murdered children\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  06/01/22 9:16 AM EDT\n\n    \n  ",
-      "url": "/fox-news/foxs-coverage-wake-uvalde-shooting-favors-nonexistent-culture-wars-over-murdered-children"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Fox News blames everything but guns for Uvalde massacre\n\n\n      \n\n\n      \n        \n          Research/Study\n    \n    \n  \n\n    \n  \n  05/25/22 3:02 PM EDT\n\n    \n  ",
-      "url": "/fox-news/fox-news-blames-everything-guns-uvalde-massacre"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Fox's focus on mental health after mass shootings is a cynical dodge\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  05/25/22 12:51 PM EDT\n\n    \n  ",
-      "url": "/fox-news/foxs-focus-mental-health-after-mass-shootings-cynical-dodge"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      A Fox News employee defending gun manufacturers works for a gun manufacturer\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  05/25/22 3:13 PM EDT\n\n    \n  ",
-      "url": "/fox-news/fox-news-employee-defending-gun-manufacturers-works-gun-manufacturer"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      After Uvalde, Fox News invites \u201cexperts\u201d to push controversial, counterproductive policies\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  05/25/22 3:13 PM EDT\n\n    \n  ",
-      "url": "/fox-news/after-uvalde-fox-news-invites-experts-push-controversial-counterproductive-policies"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Fox News guest calls for \u201cman traps\u201d and \u201ctrip wires\u201d instead of gun control to stop mass shootings\n\n\n      \n\n\n      \n        \n          Video & Audio\n    \n    \n  \n\n    \n  \n  05/24/22 9:42 PM EDT\n\n    \n  ",
-      "url": "/sean-hannity/fox-news-guest-calls-man-traps-and-trip-wires-instead-gun-control-stop-mass-shootings"
-    },
-    {
       "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      These are Fox News' leading advertisers\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  07/26/19 1:37 PM EDT\n\n    \n  ",
       "url": "/fox-news/these-are-fox-news-leading-advertisers"
     },
@@ -629,30 +707,6 @@
     {
       "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      These are Laura Ingraham's leading advertisers\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  10/29/19 12:15 PM EDT\n\n    \n  ",
       "url": "/fox-news/these-are-laura-ingrahams-leading-advertisers"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Tucker Carlson not only promoted the white nationalist \u201cgreat replacement\u201d theory, but repeatedly called on his audience to take action\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  05/16/22 2:51 PM EDT\n\n    \n  ",
-      "url": "/tucker-carlson/tucker-carlson-not-only-promoted-white-nationalist-great-replacement-theory"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Fox News is the Republican Party. Here are over 400 examples proving it.\n\n\n      \n\n\n      \n        \n          Research/Study\n    \n    \n  \n\n    \n  \n  05/16/22 10:59 AM EDT\n\n    \n  ",
-      "url": "/fox-news/fox-news-republican-party-here-are-over-400-examples-proving-it"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Fox leaves its advertisers without plausible deniability in wake of white supremacist massacre\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  05/17/22 1:35 PM EDT\n\n    \n  ",
-      "url": "/fox-news/fox-leaves-its-advertisers-without-plausible-deniability-wake-white-supremacist-massacre"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      The Fox News Lie\n\n\n      \n\n\n      \n        \n          Research/Study\n    \n    \n  \n\n    \n  \n  05/16/22 8:27 AM EDT\n\n    \n  ",
-      "url": "/fox-news/fox-news-lie-0"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Tucker Carlson's descent into white supremacy: A timeline\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  10/28/18 12:00 PM EDT\n\n    \n  ",
-      "url": "/tucker-carlson/tucker-carlsons-descent-white-supremacy-timeline"
-    },
-    {
-      "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Timeline: Tucker Carlson\u2019s unhinged COVID-19 coverage\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  12/27/20 11:08 AM EST\n\n    \n  ",
-      "url": "/tucker-carlson/timeline-tucker-carlsons-unhinged-covid-19-coverage"
     },
     {
       "text": "\n    \n      \n              \n  \n    \n\n\n\n\n\n  \n\n          \n  \n\n    \n      Elon Musk\u2019s plan to reinstate Trump on Twitter would just reignite a race to the bottom\n\n\n      \n\n\n      \n        \n          Article\n    \n    \n  \n\n    \n  \n  05/10/22 2:44 PM EDT\n\n    \n  ",
@@ -791,10 +845,10 @@
       "url": "https://www.youtube.com/channel/UC_70iWZ6ym2cglS_kv5YfmA"
     }
   ],
-  "server": "ia601409.us.archive.org",
-  "uniq": 881818397,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1784506015,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }
