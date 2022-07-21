@@ -1,5 +1,5 @@
 {
-  "created": 1658363088,
+  "created": 1658405519,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/kqed-2022",
@@ -2798,31 +2798,73 @@
       "sha1": "a504a86340ac18a8169da3d674a453ee5faeb739"
     },
     {
+      "name": "kqed-2022-07-20T19:27:52.053472-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658370475",
+      "size": "28673",
+      "md5": "7edbc958ed9dd56bf15de19ca992cd84",
+      "crc32": "f6a348bd",
+      "sha1": "0ceac4f47c68c8e0b38fd2bbd754b4f71da283dc",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-07-20T19:27:52.053472-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658370476",
+      "size": "18273",
+      "md5": "7194dbfda8ed79c7ca4119fe8ba03c66",
+      "crc32": "996243c1",
+      "sha1": "5fcc5194f8b0cbc97ba48605eb913d3d7e3fd8d1",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-07-20T19:27:52.053472-07:00.jpg",
+      "source": "original",
+      "mtime": "1658370473",
+      "size": "262985",
+      "md5": "7a9bf9166b5eaa34a29ceb778dce294c",
+      "crc32": "49435cb2",
+      "sha1": "83f0da7e1c76cb1465b4ad46fac884d0a637efbd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-07-20T19:27:52.053472-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-07-20T19:27:52.053472-07:00.jpg",
+      "mtime": "1658371742",
+      "size": "9333",
+      "md5": "9c76bd4344bbac56bbb535a90d3dd00f",
+      "crc32": "2361bf90",
+      "sha1": "fa05401bb7ffc74d9acda33045a560c9f83d835c"
+    },
+    {
       "name": "kqed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "826eaf20fd3ba9fb26c8ef717a99f4c8c5e0502b",
-      "mtime": "1658333326",
-      "size": "56201",
-      "md5": "885e15059dcc07fc96755b24eb81bceb",
-      "crc32": "a2dc0670",
-      "sha1": "a2d1ba5404345c61664bf5b16064eb4073e09200",
+      "btih": "d0c41c10c3cc2968d8d6636a565e59c4d6bfb4f8",
+      "mtime": "1658371748",
+      "size": "57014",
+      "md5": "375606c5724c75b68eb505c00d5a6d7a",
+      "crc32": "a5438628",
+      "sha1": "fd24dca01eda198c5fbe40a6de128ac8e1186407",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kqed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "baca2e2a0567dfecd492af2fe2d70398",
+      "md5": "e9ad97b85aec067cc913f238b95f66d1",
       "summation": "md5"
     },
     {
       "name": "kqed-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658327352",
-      "size": "323584",
-      "md5": "35555f1664f119a099f183aaa45f8ba5",
-      "crc32": "21f8709e",
-      "sha1": "b471a0c4d301da1e5a4dbf5c6de945a5ad82d975",
+      "mtime": "1658370482",
+      "size": "327680",
+      "md5": "1548840abf9ef2e35e7ace51821be972",
+      "crc32": "7e80894e",
+      "sha1": "70e6201252fc3dd11319e16f348eb6387dc36116",
       "format": "Metadata"
     },
     {
@@ -2836,9 +2878,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 270,
-  "item_last_updated": 1658333326,
-  "item_size": 19576575,
+  "files_count": 274,
+  "item_last_updated": 1658371748,
+  "item_size": 19900748,
   "kqed-2022": [
     {
       "text": "Skip to Nav",
@@ -2905,16 +2947,16 @@
       "url": "/thedolist"
     },
     {
-      "text": "Affordability",
-      "url": "/thehustle"
-    },
-    {
       "text": "Cultural Commentary",
       "url": "/artscommentary"
     },
     {
       "text": "Food & Drink",
       "url": "/food"
+    },
+    {
+      "text": "Rebel Girls",
+      "url": "/rebelgirls"
     },
     {
       "text": "Arts Video",
@@ -3033,16 +3075,16 @@
       "url": "/thedolist"
     },
     {
-      "text": "Affordability",
-      "url": "/thehustle"
-    },
-    {
       "text": "Cultural Commentary",
       "url": "/artscommentary"
     },
     {
       "text": "Food & Drink",
       "url": "/food"
+    },
+    {
+      "text": "Rebel Girls",
+      "url": "/rebelgirls"
     },
     {
       "text": "Arts Video",
@@ -3225,16 +3267,16 @@
       "url": "/thedolist"
     },
     {
-      "text": "Affordability",
-      "url": "/thehustle"
-    },
-    {
       "text": "Cultural Commentary",
       "url": "/artscommentary"
     },
     {
       "text": "Food & Drink",
       "url": "/food"
+    },
+    {
+      "text": "Rebel Girls",
+      "url": "/rebelgirls"
     },
     {
       "text": "Arts Video",
@@ -3361,11 +3403,11 @@
       "url": "/corporate-sponsorship"
     },
     {
-      "text": "Morning Edition",
-      "url": "/radio/program/morning-edition"
+      "text": "BBC World Service",
+      "url": "/radio/program/bbc-world-service"
     },
     {
-      "text": "Across the U.S., the cost of gas and groceries is climbing. But one economist says those who live outside the big cities may be feeling more pain. From commuter costs to health care, people in rural areas are spending more and going into debt. How far will they go for relief?  ",
+      "text": "A one-hour radio program that provides international news, analysis and information in English and 42 other languages. Their global network of correspondents provide impartial news and reports on location.",
       "url": "/radio"
     },
     {
@@ -3377,11 +3419,11 @@
       "url": "/radio/schedule"
     },
     {
-      "text": "Morning Edition",
-      "url": "/radio/program/morning-edition"
+      "text": "BBC World Service",
+      "url": "/radio/program/bbc-world-service"
     },
     {
-      "text": "Across the U.S., the cost of gas and groceries is climbing. But one economist says those who live outside the big cities may be feeling more pain. From commuter costs to health care, people in rural areas are spending more and going into debt. How far will they go for relief?  ",
+      "text": "A one-hour radio program that provides international news, analysis and information in English and 42 other languages. Their global network of correspondents provide impartial news and reports on location.",
       "url": "/radio"
     },
     {
@@ -3394,7 +3436,31 @@
     },
     {
       "text": "",
-      "url": "/news/11919941/closure-of-oaklands-largest-homeless-encampment-put-on-hold-for-now"
+      "url": "/news/11919474/as-big-basin-finally-reopens-indigenous-stewardship-key-among-plans-for-parks-rebirth"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11919723/forum-have-you-thought-about-leaving-the-us"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11920007/worth-going-to-jail-if-necessary-rep-jackie-speier-on-getting-arrested-in-fight-for-abortion-rights"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11919984/they-all-deserve-options-california-opens-pathway-for-students-with-major-cognitive-disabilities-to-earn-high-school-diploma"
     },
     {
       "text": "Save Article",
@@ -3410,31 +3476,7 @@
     },
     {
       "text": "",
-      "url": "/news/11919886/judge-sets-october-trial-date-in-twitter-lawsuit-against-elon-musk"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11919898/time-is-of-the-essence-pelosi-urges-feds-to-step-up-monkeypox-response"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11919866/a-new-online-tool-helps-california-tenants-respond-to-eviction-notices"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/science/1979849/decades-of-good-fires-save-yosemites-iconic-grove-of-ancient-sequoia-trees"
+      "url": "/news/11919941/closure-of-oaklands-largest-homeless-encampment-put-on-hold-for-now"
     },
     {
       "text": "Save Article",
@@ -3486,7 +3528,7 @@
     },
     {
       "text": "",
-      "url": "/arts/13916300/my-name-is-andrea-dworkin-documentary-pratibha-parmar"
+      "url": "/arts/13916195/papsolutely-fabulous-nan-and-the-lower-body-brings-feminist-issues-to-the-stage"
     },
     {
       "text": "Save Article",
@@ -3494,7 +3536,7 @@
     },
     {
       "text": "",
-      "url": "/arts/13916312/taiwan-bento-closing-taiwanese-restaurant-oakland"
+      "url": "/arts/13916358/quidditch-rebrand-quadball-harry-potter-jk-rowling-transphobia"
     },
     {
       "text": "Save Article",
@@ -3502,7 +3544,7 @@
     },
     {
       "text": "",
-      "url": "/arts/13916267/learn-the-story-of-san-franciscos-toughest-skate-spot-in-new-thrasher-video"
+      "url": "/arts/13916333/if-cities-could-dance-austin-salsa"
     },
     {
       "text": "Save Article",
@@ -3666,6 +3708,38 @@
     },
     {
       "text": "",
+      "url": "/news/11919723/forum-have-you-thought-about-leaving-the-us"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11920007/worth-going-to-jail-if-necessary-rep-jackie-speier-on-getting-arrested-in-fight-for-abortion-rights"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11919474/as-big-basin-finally-reopens-indigenous-stewardship-key-among-plans-for-parks-rebirth"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "/news/11919984/they-all-deserve-options-california-opens-pathway-for-students-with-major-cognitive-disabilities-to-earn-high-school-diploma"
+    },
+    {
+      "text": "Save Article",
+      "url": "#"
+    },
+    {
+      "text": "",
       "url": "/news/11919970/u-s-house-passes-same-sex-marriage-bill-in-retort-to-conservative-supreme-court"
     },
     {
@@ -3683,38 +3757,6 @@
     {
       "text": "",
       "url": "/news/11919886/judge-sets-october-trial-date-in-twitter-lawsuit-against-elon-musk"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11919898/time-is-of-the-essence-pelosi-urges-feds-to-step-up-monkeypox-response"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/news/11919866/a-new-online-tool-helps-california-tenants-respond-to-eviction-notices"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/science/1979849/decades-of-good-fires-save-yosemites-iconic-grove-of-ancient-sequoia-trees"
-    },
-    {
-      "text": "Save Article",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/science/1979834/carpenter-bees-stab-flowers-to-steal-their-nectar"
     },
     {
       "text": "Save Article",
@@ -3861,10 +3903,10 @@
     "publicdate": "2022-06-24 22:56:44",
     "addeddate": "2022-06-24 22:56:44"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 537519404,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1545390086,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

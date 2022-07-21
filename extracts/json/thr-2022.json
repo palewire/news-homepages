@@ -1,5 +1,5 @@
 {
-  "created": 1658363612,
+  "created": 1658405910,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/0/items/thr-2022",
@@ -258,31 +258,73 @@
       "sha1": "966ea1697e94defcce9a4a1f07a8e4d7b68014b6"
     },
     {
+      "name": "thr-2022-07-20T21:30:42.607105-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658377845",
+      "size": "39915",
+      "md5": "17c4dc0bbbcd97b7d47a51d85aa1c76c",
+      "crc32": "b28620d9",
+      "sha1": "6cfae73bb59226aab09fd0e6392ae698cf2d467a",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-07-20T21:30:42.607105-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658377846",
+      "size": "59053",
+      "md5": "5afa976b0db816d7ec11707bc31133b3",
+      "crc32": "88d5b4b5",
+      "sha1": "8fcf0bdd745a05c4c19752f5f9aed71bc312b292",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-07-20T21:30:42.607105-07:00.jpg",
+      "source": "original",
+      "mtime": "1658377844",
+      "size": "352813",
+      "md5": "4c98dd4c8793a98164a9bf95aa4f66f4",
+      "crc32": "24cf427a",
+      "sha1": "8832881f7ede948702aed5e8b7af95d0b6da5b1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thr-2022-07-20T21:30:42.607105-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thr-2022-07-20T21:30:42.607105-07:00.jpg",
+      "mtime": "1658380329",
+      "size": "9764",
+      "md5": "b34c4574f60ace0d260e43d8dafabced",
+      "crc32": "3e548951",
+      "sha1": "299e80b880af3d456b3cd1582fee1e7cb0dbc417"
+    },
+    {
       "name": "thr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4aa230f92d338a6fa0eeeaaccedf2ab9a47630ad",
-      "mtime": "1658339658",
-      "size": "6327",
-      "md5": "959fd5a713ca5c7b524bfcd4c325f7da",
-      "crc32": "c1642cc0",
-      "sha1": "aab9592b39bf1a54adcca590f7ca1f5390d4949e",
+      "btih": "078bbf33c11c59fef83722f846e46497872015cd",
+      "mtime": "1658380356",
+      "size": "7156",
+      "md5": "cc4568a18c9dab4785289f83ac5fb6e9",
+      "crc32": "c7763e7c",
+      "sha1": "d55c0ef2f7550dd752e0c580f4f2c7c4b7d2011a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "54e998151db09e0289c6968c9dbea5b6",
+      "md5": "4ad97f15d18651e1bad24bae76707880",
       "summation": "md5"
     },
     {
       "name": "thr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658335657",
-      "size": "45056",
-      "md5": "78c5f8bdaa461a780db665235717098b",
-      "crc32": "bdff41e9",
-      "sha1": "d72ac67e4f89204f0aba8885e337634a200a0c2d",
+      "mtime": "1658377850",
+      "size": "49152",
+      "md5": "da49c413874aaa78d016d30fdb1ce2fe",
+      "crc32": "63030375",
+      "sha1": "39a2335bf8c780744520dfe7950afc1f51af04e1",
       "format": "Metadata"
     },
     {
@@ -296,9 +338,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 28,
-  "item_last_updated": 1658339658,
-  "item_size": 2771118,
+  "files_count": 32,
+  "item_last_updated": 1658380356,
+  "item_size": 3237588,
   "metadata": {
     "identifier": "thr-2022",
     "collection": [
@@ -316,1515 +358,1493 @@
     "addeddate": "2022-07-18 04:18:56"
   },
   "server": "ia801408.us.archive.org",
-  "thr-2022": {
-    "role": "WebArea",
-    "name": "The Hollywood Reporter",
-    "children": [
-      {
-        "role": "link",
-        "name": "Skip to main content"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "button",
-        "name": "Plus Icon Click to expand the Mega Menu"
-      },
-      {
-        "role": "button",
-        "name": "Click to expand search form"
-      },
-      {
-        "role": "link",
-        "name": "GOT A TIP?"
-      },
-      {
-        "role": "link",
-        "name": "The Hollywood Reporter homepage"
-      },
-      {
-        "role": "link",
-        "name": "NEWSLETTERS"
-      },
-      {
-        "role": "link",
-        "name": "SUBSCRIBE"
-      },
-      {
-        "role": "heading",
-        "name": "site categories",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "NEWS"
-      },
-      {
-        "role": "link",
-        "name": "FILM"
-      },
-      {
-        "role": "link",
-        "name": "TV"
-      },
-      {
-        "role": "link",
-        "name": "AWARDS"
-      },
-      {
-        "role": "link",
-        "name": "LIFESTYLE"
-      },
-      {
-        "role": "link",
-        "name": "BUSINESS"
-      },
-      {
-        "role": "link",
-        "name": "GLOBAL"
-      },
-      {
-        "role": "link",
-        "name": "VIDEO"
-      },
-      {
-        "role": "link",
-        "name": "PODCASTS"
-      },
-      {
-        "role": "link",
-        "name": "SUSTAINABILITY"
-      },
-      {
-        "role": "text",
-        "name": "TOP STORY"
-      },
-      {
-        "role": "img",
-        "name": "illustration of characters from this summer's"
-      },
-      {
-        "role": "link",
-        "name": "Hollywood\u2019s Mirage Earnings Season: Fear That the Worst Isn\u2019t Here Yet"
-      },
-      {
-        "role": "text",
-        "name": "Summer blockbusters and streaming hits could obscure the economic pain of entertainment giants facing the rest of the year amid an advertising pullback, inflation drag and\u202fsupply chain issues."
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "CAITLIN HUSTON"
-      },
-      {
-        "role": "text",
-        "name": ","
-      },
-      {
-        "role": "link",
-        "name": "GEORG SZALAI"
-      },
-      {
-        "role": "link",
-        "name": "House of the Dragon"
-      },
-      {
-        "role": "link",
-        "name": "TV"
-      },
-      {
-        "role": "link",
-        "name": "Inside \u2018House of the Dragon\u2019 Part 2: \u201cIt\u2019s a Powerful, Dark, Shakespearean Tragedy\u201d"
-      },
-      {
-        "role": "text",
-        "name": "The two-part report continues on the set of 'Dragon': The cast opens up about their characters, the showrunners explain how the new series tackles issues of race and sexual violence, and a look at the franchise\u2019s future."
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "JAMES HIBBERD"
-      },
-      {
-        "role": "link",
-        "name": "Netflix Rome Reed Hastings"
-      },
-      {
-        "role": "link",
-        "name": "BUSINESS"
-      },
-      {
-        "role": "link",
-        "name": "Wall Street Debates Netflix: Is the Worst Over Or Has Its Growth Stalled?"
-      },
-      {
-        "role": "text",
-        "name": "As the streaming giant embraces advertising and stabilizes its content spend at $17 billion annually, financial observers' reactions range from relief at beating low expectations to an outlier call to sell the company entirely."
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "GEORG SZALAI"
-      },
-      {
-        "role": "link",
-        "name": "Team Guardians of the Galaxy at"
-      },
-      {
-        "role": "link",
-        "name": "MOVIE NEWS"
-      },
-      {
-        "role": "link",
-        "name": "Comic-Con Returns: A Guide to the Biggest Panels"
-      },
-      {
-        "role": "text",
-        "name": "Marvel and DC will duel it out on Saturday, while prequels to fantasy favorites 'Game of Thrones' and 'Lord of the Rings' will make their cases heard at Hall H."
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "AARON COUCH"
-      },
-      {
-        "role": "heading",
-        "name": "LATEST NEWS",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Marvel\u2019s Movie Math: Comic Creators Claim It\u2019s \u201cBait and Switch\u201d On Payments"
-      },
-      {
-        "role": "link",
-        "name": "MOVIE FEATURES"
-      },
-      {
-        "role": "text",
-        "name": "08:05 AM"
-      },
-      {
-        "role": "link",
-        "name": "\u2018Bridgerton\u2019 Adds Trio to Season 3 Cast"
-      },
-      {
-        "role": "link",
-        "name": "TV NEWS"
-      },
-      {
-        "role": "text",
-        "name": "07:30 AM"
-      },
-      {
-        "role": "link",
-        "name": "Wall Street Debates Netflix: Is the Worst Over Or Has Its Growth Stalled?"
-      },
-      {
-        "role": "link",
-        "name": "BUSINESS NEWS"
-      },
-      {
-        "role": "text",
-        "name": "07:08 AM"
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "link",
-        "name": "VFX House Cinesite Acquires Montreal\u2019s L\u2019Atelier Animation"
-      },
-      {
-        "role": "link",
-        "name": "BUSINESS NEWS"
-      },
-      {
-        "role": "text",
-        "name": "07:00 AM"
-      },
-      {
-        "role": "link",
-        "name": "Lilly Singh Inks First Look Deal With Blink49 Studios, Bell Media"
-      },
-      {
-        "role": "link",
-        "name": "TV NEWS"
-      },
-      {
-        "role": "text",
-        "name": "07:00 AM"
-      },
-      {
-        "role": "link",
-        "name": "CNN Hires Washington Post Spox Kristine Coratti Kelly to Lead Communications"
-      },
-      {
-        "role": "link",
-        "name": "TV NEWS"
-      },
-      {
-        "role": "text",
-        "name": "06:58 AM"
-      },
-      {
-        "role": "link",
-        "name": "AMC Theatres Repurchases High-Interest Debt at Steep Discount"
-      },
-      {
-        "role": "link",
-        "name": "BUSINESS NEWS"
-      },
-      {
-        "role": "text",
-        "name": "06:16 AM"
-      },
-      {
-        "role": "link",
-        "name": "Inside \u2018House of the Dragon\u2019 Part 2: \u201cIt\u2019s a Powerful, Dark, Shakespearean Tragedy\u201d"
-      },
-      {
-        "role": "link",
-        "name": "TV FEATURES"
-      },
-      {
-        "role": "text",
-        "name": "06:00 AM"
-      },
-      {
-        "role": "link",
-        "name": "Comic-Con Returns: A Guide to the Biggest Panels"
-      },
-      {
-        "role": "link",
-        "name": "MOVIE NEWS"
-      },
-      {
-        "role": "text",
-        "name": "06:00 AM"
-      },
-      {
-        "role": "link",
-        "name": "Olivia Colman, Luke Evans, Jessie Buckley, Johnny Flynn Join Voice Cast of Netflix\u2019s \u2018Scrooge: A Christmas Carol\u2019 Animation"
-      },
-      {
-        "role": "link",
-        "name": "TV NEWS"
-      },
-      {
-        "role": "text",
-        "name": "06:00 AM"
-      },
-      {
-        "role": "link",
-        "name": "Dan Lin Launches BIPOC-Focused Content Accelerator Rideback Rise"
-      },
-      {
-        "role": "link",
-        "name": "MOVIE NEWS"
-      },
-      {
-        "role": "text",
-        "name": "06:00 AM"
-      },
-      {
-        "role": "link",
-        "name": "Shania Twain\u2019s Netflix Documentary \u2018Not Just a Girl\u2019 Releases Trailer"
-      },
-      {
-        "role": "link",
-        "name": "MOVIE NEWS"
-      },
-      {
-        "role": "text",
-        "name": "05:30 AM"
-      },
-      {
-        "role": "link",
-        "name": "Hollywood\u2019s Mirage Earnings Season: Fear That the Worst Isn\u2019t Here Yet"
-      },
-      {
-        "role": "link",
-        "name": "BUSINESS NEWS"
-      },
-      {
-        "role": "text",
-        "name": "04:30 AM"
-      },
-      {
-        "role": "link",
-        "name": "Venice Film Festival Names Isabel Coixet Horizons Jury President"
-      },
-      {
-        "role": "link",
-        "name": "MOVIE NEWS"
-      },
-      {
-        "role": "text",
-        "name": "04:00 AM"
-      },
-      {
-        "role": "link",
-        "name": "Stuart Brennan Sets Action-Fantasy Feature \u2018Warchief,\u2019 Now Shooting in U.K. (Exclusive)"
-      },
-      {
-        "role": "link",
-        "name": "MOVIE NEWS"
-      },
-      {
-        "role": "text",
-        "name": "02:17 AM"
-      },
-      {
-        "role": "link",
-        "name": "Tim Burton to Receive Lumiere Award for Lifetime Achievement"
-      },
-      {
-        "role": "link",
-        "name": "MOVIE NEWS"
-      },
-      {
-        "role": "text",
-        "name": "02:05 AM"
-      },
-      {
-        "role": "link",
-        "name": "\u2018A Quiet Place: Day One\u2019 Prequel Pushes Back Release Date to 2024"
-      },
-      {
-        "role": "link",
-        "name": "MOVIE NEWS"
-      },
-      {
-        "role": "text",
-        "name": "11:29 PM"
-      },
-      {
-        "role": "link",
-        "name": "Former Warner Bros. Exec Launches Production Company Big Owl Pictures in Australia"
-      },
-      {
-        "role": "link",
-        "name": "BUSINESS NEWS"
-      },
-      {
-        "role": "text",
-        "name": "09:31 PM"
-      },
-      {
-        "role": "button",
-        "name": "ICON LINK PLUS ICON MORE NEWS",
-        "children": [
-          {
-            "role": "link",
-            "name": "ICON LINK PLUS ICON"
-          },
-          {
-            "role": "link",
-            "name": "MORE NEWS"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Heat Vision"
-      },
-      {
-        "role": "text",
-        "name": "THR's voice in the geek sphere"
-      },
-      {
-        "role": "link",
-        "name": "illustration of a man and woman"
-      },
-      {
-        "role": "link",
-        "name": "Marvel\u2019s Movie Math: Comic Creators Claim It's \"Bait and Switch\" On Payments"
-      },
-      {
-        "role": "text",
-        "name": "8:05 AM"
-      },
-      {
-        "role": "text",
-        "name": "Writers and artists who create characters that power the Marvel Cinematic Universe say the company offers a labyrinthine compensation system that underpays them."
-      },
-      {
-        "role": "link",
-        "name": "Comic-Con Returns: A Guide to the Biggest Panels"
-      },
-      {
-        "role": "text",
-        "name": "6:00 AM"
-      },
-      {
-        "role": "link",
-        "name": "'A Quiet Place: Day One' Prequel Pushes Back Release Date to 2024"
-      },
-      {
-        "role": "text",
-        "name": "11:29 PM"
-      },
-      {
-        "role": "button",
-        "name": "VIEW ALL HEAT VISION ARTICLES VIEW ALL",
-        "children": [
-          {
-            "role": "link",
-            "name": "VIEW ALL"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Live Feed"
-      },
-      {
-        "role": "text",
-        "name": "Inside the show and biz of TV"
-      },
-      {
-        "role": "link",
-        "name": "Bridgerton casts Sam Phillips, Daniel Francis"
-      },
-      {
-        "role": "link",
-        "name": "'Bridgerton' Adds Trio to Season 3 Cast"
-      },
-      {
-        "role": "text",
-        "name": "7:30 AM"
-      },
-      {
-        "role": "text",
-        "name": "Sam Phillips, Daniel Francis and James Phoon have joined the Netflix hit, which is back in production in London."
-      },
-      {
-        "role": "link",
-        "name": "'Better Call Saul' Director Breaks Down Pivotal 'Fun and Games' Scenes"
-      },
-      {
-        "role": "text",
-        "name": "3:40 PM"
-      },
-      {
-        "role": "link",
-        "name": "Salli Richardson-Whitfield Extends HBO Overall Deal"
-      },
-      {
-        "role": "text",
-        "name": "3:00 PM"
-      },
-      {
-        "role": "button",
-        "name": "VIEW ALL LIVE FEED ARTICLES VIEW ALL",
-        "children": [
-          {
-            "role": "link",
-            "name": "VIEW ALL"
-          }
-        ]
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "heading",
-        "name": "Featured Videos",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "See All Featured Videos"
-      },
-      {
-        "role": "generic",
-        "name": "Heat Vision Breakdown thumbnail",
-        "children": [
-          {
-            "role": "link",
-            "name": "Heat Vision Breakdown thumbnail"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Everything You Need to Know About the \u2018Thor Love and Thunder\u2019 Key Characters | Heat Vision Breakdown"
-      },
-      {
-        "role": "text",
-        "name": "Get to know all the key characters in Marvel\u2019s upcoming \u2018Thor Love and Thunder\u2019 in our latest Heat Vision Breakdown episode."
-      },
-      {
-        "role": "generic",
-        "name": "Shania Twain",
-        "children": [
-          {
-            "role": "link",
-            "name": "Shania Twain"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Shania Twain\u2019s Netflix Documentary \u2018Not Just a Girl\u2019 Releases Trailer | THR News"
-      },
-      {
-        "role": "generic",
-        "name": "MoNique",
-        "children": [
-          {
-            "role": "link",
-            "name": "MoNique"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Mo\u2019Nique to Film Netflix Comedy Special After Streamer Settles Discrimination Lawsuit | THR News"
-      },
-      {
-        "role": "generic",
-        "name": "Craig Robinson - Video - 2022",
-        "children": [
-          {
-            "role": "link",
-            "name": "Craig Robinson - Video - 2022"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Craig Robinson Evacuated From North Carolina Comedy Club Where a Gunman Opened Fire | THR News"
-      },
-      {
-        "role": "generic",
-        "name": "Michael Pe\u00f1a Headshot",
-        "children": [
-          {
-            "role": "link",
-            "name": "Michael Pe\u00f1a Headshot"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Michael Pe\u00f1a to Star as Astronaut Jose Hernandez in \u2018A Million Miles Away\u2019 for Amazon | THR News"
-      },
-      {
-        "role": "generic",
-        "name": "Law & Order Organized Crime",
-        "children": [
-          {
-            "role": "link",
-            "name": "Law & Order Organized Crime"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "\u2018Law & Order: Organized Crime\u2019 Crew Member Killed in New York | THR News"
-      },
-      {
-        "role": "heading",
-        "name": "MOST POPULAR",
-        "level": 2
-      },
-      {
-        "role": "generic",
-        "name": ". L.Q. Jones, \u2018Wild Bunch\u2019 Actor and Member of Peckinpah\u2019s Posse, Dies at 94 BY MIKE BARNES . \u2018Terminal List\u2019 Author Responds to Negative Reviews of Chris Pratt Series, Says Critics Are \u201cTriggered\u201d by\u2026 BY RYAN GAJEWSKI . 2022 Emmy Awards Nominations Revealed BY HILARY LEWIS, KIMBERLY NORDYKE Next Page dot 1 Page dot 2 Page dot 3",
-        "children": [
-          {
-            "role": "text",
-            "name": "1"
-          },
-          {
-            "role": "text",
-            "name": "."
-          },
-          {
-            "role": "link",
-            "name": "L.Q. Jones, \u2018Wild Bunch\u2019 Actor and Member of Peckinpah\u2019s Posse, Dies at 94"
-          },
-          {
-            "role": "text",
-            "name": "BY"
-          },
-          {
-            "role": "link",
-            "name": "MIKE BARNES"
-          },
-          {
-            "role": "text",
-            "name": "2"
-          },
-          {
-            "role": "text",
-            "name": "."
-          },
-          {
-            "role": "link",
-            "name": "\u2018Terminal List\u2019 Author Responds to Negative Reviews of Chris Pratt Series, Says Critics Are \u201cTriggered\u201d by\u2026"
-          },
-          {
-            "role": "text",
-            "name": "BY"
-          },
-          {
-            "role": "link",
-            "name": "RYAN GAJEWSKI"
-          },
-          {
-            "role": "text",
-            "name": "3"
-          },
-          {
-            "role": "text",
-            "name": "."
-          },
-          {
-            "role": "link",
-            "name": "2022 Emmy Awards Nominations Revealed"
-          },
-          {
-            "role": "text",
-            "name": "BY"
-          },
-          {
-            "role": "link",
-            "name": "HILARY LEWIS"
-          },
-          {
-            "role": "text",
-            "name": ","
-          },
-          {
-            "role": "link",
-            "name": "KIMBERLY NORDYKE"
-          },
-          {
-            "role": "button",
-            "name": "Next"
-          },
-          {
-            "role": "listitem",
-            "name": "Page dot 1",
-            "level": 1
-          },
-          {
-            "role": "listitem",
-            "name": "Page dot 2",
-            "level": 1
-          },
-          {
-            "role": "listitem",
-            "name": "Page dot 3",
-            "level": 1
-          }
-        ]
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "heading",
-        "name": "Reviews",
-        "level": 2
-      },
-      {
-        "role": "heading",
-        "name": "MOVIES",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "See All Movie Reviews"
-      },
-      {
-        "role": "link",
-        "name": "Eva Reign stars as Kelsa and Abubakr Ali as Khal in Billy Porter\u2019s directorial debut ANYTHING\u2019S POSSIBLE"
-      },
-      {
-        "role": "link",
-        "name": "Billy Porter\u2019s \u2018Anything\u2019s Possible\u2019: Film Review"
-      },
-      {
-        "role": "link",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "LOVIA GYARKYE"
-      },
-      {
-        "role": "link",
-        "name": "Murina"
-      },
-      {
-        "role": "link",
-        "name": "\u2018Murina\u2019: Film Review"
-      },
-      {
-        "role": "link",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "SHERI LINDEN"
-      },
-      {
-        "role": "link",
-        "name": "Ryan Gosling as Six in The Gray Man."
-      },
-      {
-        "role": "link",
-        "name": "Ryan Gosling and Chris Evans in Netflix\u2019s \u2018The Gray Man\u2019: Film Review"
-      },
-      {
-        "role": "link",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "JOHN DEFORE"
-      },
-      {
-        "role": "link",
-        "name": "Michael Cera as \u201cHank\u201d in Paws of Fury: The Legend of Hank"
-      },
-      {
-        "role": "link",
-        "name": "\u2018Paws of Fury: The Legend of Hank\u2019: Film Review"
-      },
-      {
-        "role": "link",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "FRANK SCHECK"
-      },
-      {
-        "role": "link",
-        "name": "Kya (Daisy Edgar-Jones) in WHERE THE CRAWDADS SING."
-      },
-      {
-        "role": "link",
-        "name": "Daisy Edgar-Jones in \u2018Where the Crawdads Sing\u2019: Film Review"
-      },
-      {
-        "role": "link",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "LOVIA GYARKYE"
-      },
-      {
-        "role": "heading",
-        "name": "TV",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "See All TV Reviews"
-      },
-      {
-        "role": "link",
-        "name": "Desus Nice and The Kid Mero in 'Desus & Mero' season two"
-      },
-      {
-        "role": "link",
-        "name": "Critic\u2019s Notebook: Showtime\u2019s \u2018Desus & Mero\u2019 Is Gone Way Too Soon"
-      },
-      {
-        "role": "link",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "DANIEL FIENBERG"
-      },
-      {
-        "role": "link",
-        "name": "Derek Jeter in ESPN's \"The Captain.\""
-      },
-      {
-        "role": "link",
-        "name": "ESPN\u2019s \u2018The Captain\u2019: TV Review"
-      },
-      {
-        "role": "link",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "DANIEL FIENBERG"
-      },
-      {
-        "role": "link",
-        "name": "Rap Sh!t"
-      },
-      {
-        "role": "link",
-        "name": "HBO Max\u2019s \u2018Rap Sh!t\u2019: TV Review"
-      },
-      {
-        "role": "link",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "LOVIA GYARKYE"
-      },
-      {
-        "role": "link",
-        "name": "The Rehearsal"
-      },
-      {
-        "role": "link",
-        "name": "HBO\u2019s \u2018The Rehearsal\u2019: TV Review"
-      },
-      {
-        "role": "link",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "DANIEL FIENBERG"
-      },
-      {
-        "role": "link",
-        "name": "Photo of longtime CEO Les Wexner from the docuseries 'Victoria's Secret: Angels and Demons'"
-      },
-      {
-        "role": "link",
-        "name": "Hulu\u2019s \u2018Victoria\u2019s Secret: Angels and Demons\u2019: TV Review"
-      },
-      {
-        "role": "link",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "ANGIE HAN"
-      },
-      {
-        "role": "heading",
-        "name": "FEATURED VOICES",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "See All Featured Voices"
-      },
-      {
-        "role": "link",
-        "name": "Image of Daniel Fienberg"
-      },
-      {
-        "role": "link",
-        "name": "DANIEL FIENBERG"
-      },
-      {
-        "role": "link",
-        "name": "Showtime\u2019s \u2018Desus & Mero\u2019 Is Gone Way Too Soon"
-      },
-      {
-        "role": "link",
-        "name": "Image of Keli Goff"
-      },
-      {
-        "role": "link",
-        "name": "KELI GOFF"
-      },
-      {
-        "role": "link",
-        "name": "Having More Women in Power Could Have Raised Urgency of Protecting Roe"
-      },
-      {
-        "role": "link",
-        "name": "Image of Tyler Coates"
-      },
-      {
-        "role": "link",
-        "name": "TYLER COATES"
-      },
-      {
-        "role": "link",
-        "name": "What the \u2018Yellowstone\u2019 Snub Really Means for the Emmys"
-      },
-      {
-        "role": "link",
-        "name": "Image of Ilene Kahn Power"
-      },
-      {
-        "role": "link",
-        "name": "ILENE KAHN POWER"
-      },
-      {
-        "role": "link",
-        "name": "I Had a Pre-Roe Illegal Abortion. We Can\u2019t Go Back"
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "heading",
-        "name": "SHOPPING WITH THR",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "SEE ALL SEE ALL SHOPPING WITH THR ARTICLES"
-      },
-      {
-        "role": "link",
-        "name": "The Best Tablets for Taking Notes for School and Work (Plus the Best Deals Right Now)"
-      },
-      {
-        "role": "link",
-        "name": "Best Tablets for Taking Notes in"
-      },
-      {
-        "role": "link",
-        "name": "The Best Tablet Accessories for Every Type of Screen Setup, from Stylish Keyboards to Slim Cases"
-      },
-      {
-        "role": "link",
-        "name": "Azio IZO portable Bluetooth keyboard"
-      },
-      {
-        "role": "link",
-        "name": "The Best Toiletry Bags for Keeping Your Travel Essentials Organized"
-      },
-      {
-        "role": "link",
-        "name": "Best Toiletry Bags"
-      },
-      {
-        "role": "link",
-        "name": "From Luggage to Packable Hats, the Best Travel Essentials to Shop at the Nordstrom Anniversary Sale"
-      },
-      {
-        "role": "link",
-        "name": "Vacay Luggage and Brixton Hat from"
-      },
-      {
-        "role": "heading",
-        "name": "LIFESTYLE",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "How Hollywood Lives"
-      },
-      {
-        "role": "link",
-        "name": "SEE ALL SEE ALL LIFESTYLE ARTICLES"
-      },
-      {
-        "role": "link",
-        "name": "Works by Kirk Henriques (on view"
-      },
-      {
-        "role": "link",
-        "name": "LOCAL NEWS"
-      },
-      {
-        "role": "link",
-        "name": "Will This Avenue Become the Next Hot Block in Los Angeles?"
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "GARY BAUM"
-      },
-      {
-        "role": "link",
-        "name": "Mia Isaac"
-      },
-      {
-        "role": "link",
-        "name": "MOVIE FEATURES"
-      },
-      {
-        "role": "link",
-        "name": "Next Big Thing: Mia Isaac on the Advice John Cho Gave Her While Filming Debut \u2018Don\u2019t Make Me Go\u2019"
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "MIA GALUPPO"
-      },
-      {
-        "role": "link",
-        "name": "The Woodley Estate in Encino"
-      },
-      {
-        "role": "link",
-        "name": "REAL ESTATE"
-      },
-      {
-        "role": "link",
-        "name": "Spanish Home Built in 1932 for \u2018Wizard of Oz\u2019 Choreographer Lists for $5M (Exclusive)"
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "DEGEN PENER"
-      },
-      {
-        "role": "link",
-        "name": "Peyton Manning, Steph Curry, Drake"
-      },
-      {
-        "role": "link",
-        "name": "TV NEWS"
-      },
-      {
-        "role": "link",
-        "name": "Steph Curry on Why He Texted Drake, Peyton Manning Before Agreeing to Host ESPY Awards"
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "CHRIS GARDNER"
-      },
-      {
-        "role": "heading",
-        "name": "Podcasts",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "See All Podcasts"
-      },
-      {
-        "role": "link",
-        "name": "Ms. Marvel \u2018Ms. Marvel\u2019 Boss Unpacks the Finale, \u2018X-Men\u2019 Ties and Exploring Partition"
-      },
-      {
-        "role": "link",
-        "name": "Awards Chatter podcast art Listen to 50-Plus Emmy Nominees\u2019 \u2018Awards Chatter\u2019 Podcast Episodes"
-      },
-      {
-        "role": "heading",
-        "name": "HIGHLIGHTS FROM THE MAGAZINE",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "SUBSCRIBE SIGN UP"
-      },
-      {
-        "role": "link",
-        "name": "THR cover 22 low res"
-      },
-      {
-        "role": "link",
-        "name": "COVER STORY"
-      },
-      {
-        "role": "link",
-        "name": "Inside \u2018House of the Dragon\u2019 Part 1: The Battle to Replace \u2018Game of Thrones\u2019"
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "JAMES HIBBERD"
-      },
-      {
-        "role": "link",
-        "name": "House of Dragons"
-      },
-      {
-        "role": "link",
-        "name": "COVER STORY"
-      },
-      {
-        "role": "link",
-        "name": "Inside \u2018House of the Dragon\u2019 Part 2: \u201cIt\u2019s a Powerful, Dark, Shakespearean Tragedy\u201d"
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "JAMES HIBBERD"
-      },
-      {
-        "role": "link",
-        "name": "House of the Dragon"
-      },
-      {
-        "role": "link",
-        "name": "BUSINESS"
-      },
-      {
-        "role": "link",
-        "name": "Why That Reality TV Song Sounds Familiar (But Isn\u2019t)"
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "KIRSTEN CHUBA"
-      },
-      {
-        "role": "link",
-        "name": "When That Reality TV Song Sounds"
-      },
-      {
-        "role": "link",
-        "name": "BUSINESS"
-      },
-      {
-        "role": "link",
-        "name": "UTA\u2019s Private Equity Move: A Battle for Scale With CAA and WME"
-      },
-      {
-        "role": "text",
-        "name": "BY"
-      },
-      {
-        "role": "link",
-        "name": "ALEX WEPRIN"
-      },
-      {
-        "role": "link",
-        "name": "Marvel Movie Math: Comic Creators Claim"
-      },
-      {
-        "role": "text",
-        "name": "ADVERTISEMENT"
-      },
-      {
-        "role": "link",
-        "name": "PMC Logo"
-      },
-      {
-        "role": "heading",
-        "name": "MOST POPULAR",
-        "level": 2
-      },
-      {
-        "role": "text",
-        "name": "1"
-      },
-      {
-        "role": "text",
-        "name": "."
-      },
-      {
-        "role": "link",
-        "name": "Vanessa Bryant\u2019s Vacation Selfies Featuring Her Beautiful Daughters Show a Glimpse Into Their Grand Family Traditions"
-      },
-      {
-        "role": "text",
-        "name": "2"
-      },
-      {
-        "role": "text",
-        "name": "."
-      },
-      {
-        "role": "link",
-        "name": "Erykah Badu \"Shocked Thee Sh*t\" Out Of Megan Thee Stallion With Her Twerk Moves"
-      },
-      {
-        "role": "text",
-        "name": "3"
-      },
-      {
-        "role": "text",
-        "name": "."
-      },
-      {
-        "role": "link",
-        "name": "A Hidden Self-Portrait Has Been Discovered Beneath Van Gogh Painting"
-      },
-      {
-        "role": "text",
-        "name": "4"
-      },
-      {
-        "role": "text",
-        "name": "."
-      },
-      {
-        "role": "link",
-        "name": "OG Peach NeNe Leakes Flipping Recently Purchased Waldorf Astoria Villa"
-      },
-      {
-        "role": "heading",
-        "name": "YOU MAY ALSO LIKE",
-        "level": 2
-      },
-      {
-        "role": "generic",
-        "name": "The Home Depot Just Dropped Their 2022 Halloween Decor Lineup, and Everything is Giant 6 HOURS AGO Johnson & Johnson Heiress Lists Stylishly Renovated Midcentury Hideaway 7 HOURS AGO VH1\u2019s \u2018Black Ink Crew Chicago\u2019 Set To Return Bigger And Better This\u00a0August 7 HOURS AGO Previous Next",
-        "children": [
-          {
-            "role": "link",
-            "name": "The Home Depot Just Dropped Their 2022 Halloween Decor Lineup, and Everything is Giant 6 HOURS AGO"
-          },
-          {
-            "role": "link",
-            "name": "Johnson & Johnson Heiress Lists Stylishly Renovated Midcentury Hideaway 7 HOURS AGO"
-          },
-          {
-            "role": "link",
-            "name": "VH1\u2019s \u2018Black Ink Crew Chicago\u2019 Set To Return Bigger And Better This\u00a0August 7 HOURS AGO"
-          },
-          {
-            "role": "button",
-            "name": "Previous",
-            "disabled": true
-          },
-          {
-            "role": "button",
-            "name": "Next"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "THR cover 22 low res"
-      },
-      {
-        "role": "heading",
-        "name": "Subscriber Support",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Get the Magazine"
-      },
-      {
-        "role": "link",
-        "name": "Customer Service"
-      },
-      {
-        "role": "link",
-        "name": "Back Issues"
-      },
-      {
-        "role": "link",
-        "name": "E-edition Access"
-      },
-      {
-        "role": "heading",
-        "name": "The Hollywood Reporter",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "About Us"
-      },
-      {
-        "role": "link",
-        "name": "Advertise"
-      },
-      {
-        "role": "link",
-        "name": "Careers"
-      },
-      {
-        "role": "link",
-        "name": "Contact Us"
-      },
-      {
-        "role": "link",
-        "name": "Accessibility"
-      },
-      {
-        "role": "heading",
-        "name": "Legal",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Terms of Use"
-      },
-      {
-        "role": "link",
-        "name": "AdChoices"
-      },
-      {
-        "role": "heading",
-        "name": "Follow Us",
-        "level": 3
-      },
-      {
-        "role": "button",
-        "name": "Icon Link Plus Icon FACEBOOK",
-        "children": [
-          {
-            "role": "link",
-            "name": "Icon Link Plus Icon"
-          },
-          {
-            "role": "link",
-            "name": "FACEBOOK"
-          }
-        ]
-      },
-      {
-        "role": "button",
-        "name": "Icon Link Plus Icon TWITTER",
-        "children": [
-          {
-            "role": "link",
-            "name": "Icon Link Plus Icon"
-          },
-          {
-            "role": "link",
-            "name": "TWITTER"
-          }
-        ]
-      },
-      {
-        "role": "button",
-        "name": "Icon Link Plus Icon INSTAGRAM",
-        "children": [
-          {
-            "role": "link",
-            "name": "Icon Link Plus Icon"
-          },
-          {
-            "role": "link",
-            "name": "INSTAGRAM"
-          }
-        ]
-      },
-      {
-        "role": "button",
-        "name": "Icon Link Plus Icon YOUTUBE",
-        "children": [
-          {
-            "role": "link",
-            "name": "Icon Link Plus Icon"
-          },
-          {
-            "role": "link",
-            "name": "YOUTUBE"
-          }
-        ]
-      },
-      {
-        "role": "heading",
-        "name": "Newsletter Sign Up",
-        "level": 3
-      },
-      {
-        "role": "textbox",
-        "name": "",
-        "required": true,
-        "invalid": "true"
-      },
-      {
-        "role": "button",
-        "name": "SUBSCRIBE Sign Up"
-      },
-      {
-        "role": "heading",
-        "name": "Have a Tip?",
-        "level": 3
-      },
-      {
-        "role": "text",
-        "name": "Send us a tip using our anonymous form."
-      },
-      {
-        "role": "link",
-        "name": "SEND US A TIP SIGN UP"
-      },
-      {
-        "role": "link",
-        "name": "Icon Link Plus Icon"
-      },
-      {
-        "role": "text",
-        "name": "The Hollywood Reporter is a part of Penske Media Corporation. \u00a9 2022 The Hollywood Reporter, LLC. All Rights Reserved."
-      },
-      {
-        "role": "text",
-        "name": "THE HOLLYWOOD REPORTER is a registered trademark of The Hollywood Reporter, LLC."
-      },
-      {
-        "role": "link",
-        "name": "Powered by WordPress.com VIP"
-      },
-      {
-        "role": "heading",
-        "name": "OUR SITES",
-        "level": 3
-      },
-      {
-        "role": "text",
-        "name": "ad"
-      }
-    ]
-  },
-  "uniq": 1284730304,
+  "thr-2022": [
+    {
+      "text": "\n\t\t\tSkip to main content\t\t",
+      "url": "#pagetop"
+    },
+    {
+      "text": "\n\tGot a tip?",
+      "url": "https://tipline.hollywoodreporter.com/"
+    },
+    {
+      "text": "\n\t\t\t\tThe Hollywood Reporter homepage\n\t",
+      "url": "https://www.hollywoodreporter.com/"
+    },
+    {
+      "text": "\n\tNewsletters",
+      "url": "https://pages.email.hollywoodreporter.com/signup/"
+    },
+    {
+      "text": "\n\tSubscribe",
+      "url": "/subscribe-2/"
+    },
+    {
+      "text": "\n\n\t\n\t\tSee My Options\t\n\n\t\t\tSign Up\n\t\n\t",
+      "url": "/subscribe-2/"
+    },
+    {
+      "text": "\n\tNews",
+      "url": "https://www.hollywoodreporter.com/c/news/"
+    },
+    {
+      "text": "\n\tFilm",
+      "url": "https://www.hollywoodreporter.com/c/movies/"
+    },
+    {
+      "text": "\n\tTV",
+      "url": "https://www.hollywoodreporter.com/c/tv/"
+    },
+    {
+      "text": "\n\tAwards",
+      "url": "https://www.hollywoodreporter.com/t/awards/"
+    },
+    {
+      "text": "\n\tLifestyle",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/"
+    },
+    {
+      "text": "\n\tBusiness",
+      "url": "https://www.hollywoodreporter.com/c/business/"
+    },
+    {
+      "text": "\n\tGlobal",
+      "url": "https://www.hollywoodreporter.com/t/international/"
+    },
+    {
+      "text": "\n\tVideo",
+      "url": "https://www.hollywoodreporter.com/video/"
+    },
+    {
+      "text": "\n\tPodcasts",
+      "url": "https://www.hollywoodreporter.com/t/thrpodcasts/"
+    },
+    {
+      "text": "\n\tSustainability",
+      "url": "https://sustainability.hollywoodreporter.com/"
+    },
+    {
+      "text": "\n\t\t\t\tThe Hollywood Reporter homepage\n\t",
+      "url": "/"
+    },
+    {
+      "text": "\n\tNews",
+      "url": "https://www.hollywoodreporter.com/c/news/"
+    },
+    {
+      "text": "\n\tFilm",
+      "url": "https://www.hollywoodreporter.com/c/movies/"
+    },
+    {
+      "text": "\n\tTV",
+      "url": "https://www.hollywoodreporter.com/c/tv/"
+    },
+    {
+      "text": "\n\tAwards",
+      "url": "https://www.hollywoodreporter.com/t/awards/"
+    },
+    {
+      "text": "\n\tLifestyle",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/"
+    },
+    {
+      "text": "\n\tBusiness",
+      "url": "https://www.hollywoodreporter.com/c/business/"
+    },
+    {
+      "text": "\n\tGlobal",
+      "url": "https://www.hollywoodreporter.com/t/international/"
+    },
+    {
+      "text": "\n\tVideo",
+      "url": "https://www.hollywoodreporter.com/video/"
+    },
+    {
+      "text": "\n\tPodcasts",
+      "url": "https://www.hollywoodreporter.com/t/thrpodcasts/"
+    },
+    {
+      "text": "\n\tSustainability",
+      "url": "https://sustainability.hollywoodreporter.com/"
+    },
+    {
+      "text": "\n\tSubscribe",
+      "url": "/subscribe-2/"
+    },
+    {
+      "text": "\n\n\t\n\t\tSee My Options\t\n\n\t\t\tSign Up\n\t\n\t",
+      "url": "/subscribe-2/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tMarvel\u2019s Movie Math: Comic Creators Claim It\u2019s \u201cBait and Switch\u201d On Payments\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/marvel-movie-math-comic-creators-1235183158/"
+    },
+    {
+      "text": "Aaron Couch",
+      "url": "https://www.hollywoodreporter.com/author/aaron-couch/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/general-news/dave-chappelle-comedy-show-dropped-minneapolis-venue-1235183874/"
+    },
+    {
+      "text": "\n\t\n\tGeneral News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/news/general-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tDave Chappelle Comedy Show Dropped by Minneapolis Venue After Criticism\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/general-news/dave-chappelle-comedy-show-dropped-minneapolis-venue-1235183874/"
+    },
+    {
+      "text": "Ryan Gajewski",
+      "url": "https://www.hollywoodreporter.com/author/ryan-gajewski/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/inside-house-of-the-dragon-trailer-cast-1235182776/"
+    },
+    {
+      "text": "\n\t\n\tTV\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/tv/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tInside \u2018House of the Dragon\u2019 Part 2: \u201cIt\u2019s a Powerful, Dark, Shakespearean Tragedy\u201d\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/inside-house-of-the-dragon-trailer-cast-1235182776/"
+    },
+    {
+      "text": "James Hibberd",
+      "url": "https://www.hollywoodreporter.com/author/james-hibberd/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/business-news/los-angeles-tv-shoot-days-decline-but-overall-filming-remains-robust-1235183602/"
+    },
+    {
+      "text": "\n\t\n\tBusiness\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/business/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tLos Angeles TV Shoot Days Decline, But Overall Filming Remains Robust\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/business-news/los-angeles-tv-shoot-days-decline-but-overall-filming-remains-robust-1235183602/"
+    },
+    {
+      "text": "Winston Cho",
+      "url": "https://www.hollywoodreporter.com/author/winston-cho/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2022-espy-awards-full-winners-list-1235183655/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tESPY Awards: Full List of Winners\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2022-espy-awards-full-winners-list-1235183655/"
+    },
+    {
+      "text": "\n\t\n\tTV News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/tv/tv-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/yeezy-gap-engineered-by-balenciaga-how-to-shop-online-1235183910/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tHere\u2019s How to Shop Yeezy Gap Engineered by Balenciaga If You Can\u2019t Go in Person Tomorrow\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/yeezy-gap-engineered-by-balenciaga-how-to-shop-online-1235183910/"
+    },
+    {
+      "text": "\n\t\n\tShopping\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/shopping/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-wicked-movie-audition-glinda-1235183906/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tAmanda Seyfried Says She \u201cBent Over Backwards\u201d to Audition for \u2018Wicked\u2019 Movie Role\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-wicked-movie-audition-glinda-1235183906/"
+    },
+    {
+      "text": "\n\t\n\tMovie News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/movies/movie-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/linda-evangelista-coolsculpting-suit-settled-disfigured-1235183868/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tLinda Evangelista Settles CoolSculpting Suit After \u201cHorrific Ordeal\u201d With Cosmetic Procedure\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/linda-evangelista-coolsculpting-suit-settled-disfigured-1235183868/"
+    },
+    {
+      "text": "\n\t\n\tLifestyle News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/lifestyle-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-missing-persons-drama-found-1235183885/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tMissing-Persons Drama \u2018Found\u2019 Scores Series Pickup at NBC\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-missing-persons-drama-found-1235183885/"
+    },
+    {
+      "text": "\n\t\n\tTV News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/tv/tv-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/general-news/dave-chappelle-comedy-show-dropped-minneapolis-venue-1235183874/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tDave Chappelle Comedy Show Dropped by Minneapolis Venue After Criticism\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/general-news/dave-chappelle-comedy-show-dropped-minneapolis-venue-1235183874/"
+    },
+    {
+      "text": "\n\t\n\tGeneral News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/news/general-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rebecca-balding-dead-soap-charmed-1235183829/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tRebecca Balding, Actress on \u2018Soap\u2019 and \u2018Charmed,\u2019 Dies at 73\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rebecca-balding-dead-soap-charmed-1235183829/"
+    },
+    {
+      "text": "\n\t\n\tTV News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/tv/tv-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/apple-jennifer-lawrence-causeway-1235183727/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tApple Acquires Jennifer Lawrence Feature \u2018Causeway\u2019\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/apple-jennifer-lawrence-causeway-1235183727/"
+    },
+    {
+      "text": "\n\t\n\tMovie News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/movies/movie-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/business-news/chris-licht-cnn-executive-team-1235183757/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tChris Licht Sets His Leadership Team at CNN\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/business-news/chris-licht-cnn-executive-team-1235183757/"
+    },
+    {
+      "text": "\n\t\n\tBusiness News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/business/business-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tanya-kersey-dead-hollywood-black-film-festival-founder-1235183347/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tTanya Kersey, Hollywood Black Film Festival Founder, Dies at 61\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tanya-kersey-dead-hollywood-black-film-festival-founder-1235183347/"
+    },
+    {
+      "text": "\n\t\n\tMovie News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/movies/movie-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-kurt-wyatt-russell-godzilla-series-1235182137/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tKurt, Wyatt Russell Board Apple TV+ and Legendary\u2019s Godzilla Series\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-kurt-wyatt-russell-godzilla-series-1235182137/"
+    },
+    {
+      "text": "\n\t\n\tTV News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/tv/tv-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/georgia-abortion-law-ban-effect-appeals-court-1235183719/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tAppeals Court Says Georgia Abortion Law Should Take Effect\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/georgia-abortion-law-ban-effect-appeals-court-1235183719/"
+    },
+    {
+      "text": "\n\t\n\tPolitics News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/news/politics-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/digital/faze-clan-gaming-creator-economy-plans-1235183613/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tThe Gaming Creator Economy Goes Public as FaZe Clan Closes $725M SPAC Merger\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/digital/faze-clan-gaming-creator-economy-plans-1235183613/"
+    },
+    {
+      "text": "\n\t\n\tDigital\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/business/digital/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/business-news/gersh-agency-publicist-cari-ross-communications-executive-1235183622/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tVeteran Publicist Cari Ross Joins Gersh as Communications Chief\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/business-news/gersh-agency-publicist-cari-ross-communications-executive-1235183622/"
+    },
+    {
+      "text": "\n\t\n\tBusiness News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/business/business-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/anthony-carrigan-henry-winkler-barry-season-four-emmys-2022-1235182520/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\t\u2018Barry\u2019 Stars Talk the Show\u2019s Dark Tones and Plans for Season Four: \u201cWe\u2019re Going to Manage to Keep Things Funny\u201d\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/anthony-carrigan-henry-winkler-barry-season-four-emmys-2022-1235182520/"
+    },
+    {
+      "text": "\n\t\n\tTV Features\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/tv/tv-features/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/general-news/ivana-trump-funeral-donald-trump-family-attend-1235183686/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tIvana Trump Remembered at New York City Funeral\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/general-news/ivana-trump-funeral-donald-trump-family-attend-1235183686/"
+    },
+    {
+      "text": "\n\t\n\tGeneral News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/news/general-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/business-news/los-angeles-tv-shoot-days-decline-but-overall-filming-remains-robust-1235183602/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tLos Angeles TV Shoot Days Decline, But Overall Filming Remains Robust\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/business-news/los-angeles-tv-shoot-days-decline-but-overall-filming-remains-robust-1235183602/"
+    },
+    {
+      "text": "\n\t\n\tBusiness News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/business/business-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/please-dont-destroy-snl-movie-judd-apatow-1235183628/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tUniversal Pictures Nabs Buddy Comedy From \u2018SNL\u2019 Please Don\u2019t Destroy Group\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/please-dont-destroy-snl-movie-judd-apatow-1235183628/"
+    },
+    {
+      "text": "\n\t\n\tMovie News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/movies/movie-news/"
+    },
+    {
+      "text": "\n\tIcon Link\n\n\t\tPlus Icon\n\t\n\n\t\n\t\n\n",
+      "url": "https://www.hollywoodreporter.com/page/2/"
+    },
+    {
+      "text": "\n\t\n\tMore News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/page/2/"
+    },
+    {
+      "text": "\n\t\t\t\tHeat Vision\n\t",
+      "url": "https://www.hollywoodreporter.com/e/heat-vision/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-kurt-wyatt-russell-godzilla-series-1235182137/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tKurt, Wyatt Russell Board Apple TV+ and Legendary's Godzilla Series\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-kurt-wyatt-russell-godzilla-series-1235182137/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tKevin Bacon Runs a Killer Gay Conversion Camp in New Trailer for Blumhouse Slasher Pic \u2018They/Them\u2019\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/they-them-trailer-kevin-bacon-conversion-camp-1235183588/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tChristina Ricci to Star as Harley Quinn in Next Podcast From Spotify, Warner Bros. (Exclusive)\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/digital/harley-quinn-christina-ricci-billy-magnussen-justin-hartley-spotify-warner-bros-1235183550/"
+    },
+    {
+      "text": "\n\t\n\tView All\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/e/heat-vision/"
+    },
+    {
+      "text": "\n\t\t\t\tLive Feed\n\t",
+      "url": "https://www.hollywoodreporter.com/e/live-feed/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-missing-persons-drama-found-1235183885/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tMissing-Persons Drama 'Found' Scores Series Pickup at NBC\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-missing-persons-drama-found-1235183885/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tComedy Central to Air South Park 25th Anniversary Concert Event (Exclusive)\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/south-park-25th-anniversary-concert-premiere-comedy-central-1235183448/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tABC's 'Beauty and the Beast' Special Casts H.E.R. as Belle\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/abc-beauty-beast-her-belle-1235183492/"
+    },
+    {
+      "text": "\n\t\n\tView All\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/e/live-feed/"
+    },
+    {
+      "text": "\n\tSee All",
+      "url": "https://www.hollywoodreporter.com/video"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/everything-you-need-to-know-about-the-thor-love-and-thunder-key-characters-heat-vision-breakdown/"
+    },
+    {
+      "text": "\n\t\n\t\tEverything You Need to Know About the \u2018Thor Love and Thunder\u2019 Key Characters | Heat Vision Breakdown\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/everything-you-need-to-know-about-the-thor-love-and-thunder-key-characters-heat-vision-breakdown/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/abcs-beauty-and-the-beast-special-casts-h-e-r-as-belle-thr-news/"
+    },
+    {
+      "text": "\n\t\n\t\tABC\u2019s \u2018Beauty and the Beast\u2019 Special Casts H.E.R. as Belle | THR News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/abcs-beauty-and-the-beast-special-casts-h-e-r-as-belle-thr-news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/jamie-lee-curtis-returns-for-final-battle-in-first-halloween-ends-trailer-thr-news/"
+    },
+    {
+      "text": "\n\t\n\t\tJamie Lee Curtis Returns for Final Battle in First \u2018Halloween Ends\u2019 Trailer | THR News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/jamie-lee-curtis-returns-for-final-battle-in-first-halloween-ends-trailer-thr-news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/bridgerton-adds-trio-to-season-3-cast-thr-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\u2018Bridgerton\u2019 Adds Trio to Season 3 Cast | THR News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/bridgerton-adds-trio-to-season-3-cast-thr-news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/sony-shifts-madame-web-to-fall-2023-thr-news/"
+    },
+    {
+      "text": "\n\t\n\t\tSony Shifts \u2018Madame Web\u2019 to Fall 2023 | THR News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/sony-shifts-madame-web-to-fall-2023-thr-news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/a-quiet-place-day-one-prequel-pushes-back-release-date-to-2024-thr-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\u2018A Quiet Place: Day One\u2019 Prequel Pushes Back Release Date to 2024 | THR News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/a-quiet-place-day-one-prequel-pushes-back-release-date-to-2024-thr-news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/abcs-beauty-and-the-beast-special-casts-h-e-r-as-belle-thr-news/"
+    },
+    {
+      "text": "\n\t\n\t\tABC\u2019s \u2018Beauty and the Beast\u2019 Special Casts H.E.R. as Belle | THR News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/abcs-beauty-and-the-beast-special-casts-h-e-r-as-belle-thr-news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/jamie-lee-curtis-returns-for-final-battle-in-first-halloween-ends-trailer-thr-news/"
+    },
+    {
+      "text": "\n\t\n\t\tJamie Lee Curtis Returns for Final Battle in First \u2018Halloween Ends\u2019 Trailer | THR News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/jamie-lee-curtis-returns-for-final-battle-in-first-halloween-ends-trailer-thr-news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/bridgerton-adds-trio-to-season-3-cast-thr-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\u2018Bridgerton\u2019 Adds Trio to Season 3 Cast | THR News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/bridgerton-adds-trio-to-season-3-cast-thr-news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/sony-shifts-madame-web-to-fall-2023-thr-news/"
+    },
+    {
+      "text": "\n\t\n\t\tSony Shifts \u2018Madame Web\u2019 to Fall 2023 | THR News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/sony-shifts-madame-web-to-fall-2023-thr-news/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/a-quiet-place-day-one-prequel-pushes-back-release-date-to-2024-thr-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\u2018A Quiet Place: Day One\u2019 Prequel Pushes Back Release Date to 2024 | THR News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/video/a-quiet-place-day-one-prequel-pushes-back-release-date-to-2024-thr-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tL.Q. Jones, \u2018Wild Bunch\u2019 Actor and Member of Peckinpah\u2019s Posse, Dies at 94\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/l-q-jones-dead-wild-bunch-peckinpah-1235177736/"
+    },
+    {
+      "text": "Mike Barnes",
+      "url": "https://www.hollywoodreporter.com/author/mike-barnes-thr/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\t\u2018Terminal List\u2019 Author Responds to Negative Reviews of Chris Pratt Series, Says Critics Are \u201cTriggered\u201d by\u2026\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/terminal-list-author-negative-reviews-amazon-series-1235177771/"
+    },
+    {
+      "text": "Ryan Gajewski",
+      "url": "https://www.hollywoodreporter.com/author/ryan-gajewski/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\t2022 Emmy Awards Nominations Revealed\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2022-emmys-nominations-nominees-list-1235177772/"
+    },
+    {
+      "text": "Hilary Lewis",
+      "url": "https://www.hollywoodreporter.com/author/hilary-lewis/"
+    },
+    {
+      "text": "Kimberly Nordyke",
+      "url": "https://www.hollywoodreporter.com/author/kimberly-nordyke/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tJak Knight, Stand-Up Comedian, Writer and Actor, Dies at 28\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/jak-knight-dead-stand-up-comedian-actor-1235181487/"
+    },
+    {
+      "text": "Chris Gardner",
+      "url": "https://www.hollywoodreporter.com/author/chris-gardner/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\t\u2018She-Hulk\u2019 Star Jameela Jamil Addresses Criticism of Her Show Look: \u201cI Accept Every Ounce of Shade\u201d\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/she-hulk-jameela-jamil-marvel-responds-criticism-1235177809/"
+    },
+    {
+      "text": "Ryan Gajewski",
+      "url": "https://www.hollywoodreporter.com/author/ryan-gajewski/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tTom Hanks Reacts to Tim Allen\u2019s \u2018Lightyear\u2019 Absence: \u201cI Don\u2019t Understand That\u201d\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-hanks-tim-allen-lightyear-1235175770/"
+    },
+    {
+      "text": "Ryan Gajewski",
+      "url": "https://www.hollywoodreporter.com/author/ryan-gajewski/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tHow \u2018Better Call Saul\u2019 Writer-EP Gordon Smith Brought a 13-Year-Old \u2018Breaking Bad\u2019 Story to a Close\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/how-better-call-saul-writer-ep-gordon-smith-brought-a-13-year-old-breaking-bad-story-to-a-close-1235180005/"
+    },
+    {
+      "text": "Brian Davids",
+      "url": "https://www.hollywoodreporter.com/author/brian-davids/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tCharlie Cox, Vincent D\u2019Onofrio Returning for Marvel Series \u2018Echo\u2019\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/charlie-cox-vincent-donofrio-echo-1235170929/"
+    },
+    {
+      "text": "Aaron Couch",
+      "url": "https://www.hollywoodreporter.com/author/aaron-couch/"
+    },
+    {
+      "text": "Borys Kit",
+      "url": "https://www.hollywoodreporter.com/author/borys-kit/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\t\u2018The Simpsons\u2019 Star Yeardley Smith Marries Former Detective She Met During Springfield Appearance (Exclusive)\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/simpsons-star-yeardley-smith-wedding-marriage-detective-dan-1235178433/"
+    },
+    {
+      "text": "Chris Gardner",
+      "url": "https://www.hollywoodreporter.com/author/chris-gardner/"
+    },
+    {
+      "text": "\n\tSee All",
+      "url": "https://www.hollywoodreporter.com/c/movies/movie-reviews/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/not-okay-review-1235181213/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\t\u2018Not Okay\u2019 Review: Zoey Deutch Dazzles in Better-Than-OK Social Media Satire\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/not-okay-review-1235181213/"
+    },
+    {
+      "text": "\n\t\tBy ",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/not-okay-review-1235181213/"
+    },
+    {
+      "text": "Sheri Linden",
+      "url": "https://www.hollywoodreporter.com/author/sheri-linden/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/jordan-peele-nope-film-daniel-kaluuya-1235182873/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\t\u2018Nope\u2019 Review: Jordan Peele\u2019s Rapturous and Suspenseful Sci-Fi Ride\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/jordan-peele-nope-film-daniel-kaluuya-1235182873/"
+    },
+    {
+      "text": "\n\t\tBy ",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/jordan-peele-nope-film-daniel-kaluuya-1235182873/"
+    },
+    {
+      "text": "Lovia Gyarkye",
+      "url": "https://www.hollywoodreporter.com/author/lovia-gyarkye/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/billy-porters-anythings-possible-film-1235181455/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tBilly Porter\u2019s \u2018Anything\u2019s Possible\u2019: Film Review\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/billy-porters-anythings-possible-film-1235181455/"
+    },
+    {
+      "text": "\n\t\tBy ",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/billy-porters-anythings-possible-film-1235181455/"
+    },
+    {
+      "text": "Lovia Gyarkye",
+      "url": "https://www.hollywoodreporter.com/author/lovia-gyarkye/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/murina-review-1235177365/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\t\u2018Murina\u2019: Film Review\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/murina-review-1235177365/"
+    },
+    {
+      "text": "\n\t\tBy ",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/murina-review-1235177365/"
+    },
+    {
+      "text": "Sheri Linden",
+      "url": "https://www.hollywoodreporter.com/author/sheri-linden/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/ryan-gosling-chris-evans-netflixs-the-gray-man-1235179054/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tRyan Gosling and Chris Evans in Netflix\u2019s \u2018The Gray Man\u2019: Film Review\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/ryan-gosling-chris-evans-netflixs-the-gray-man-1235179054/"
+    },
+    {
+      "text": "\n\t\tBy ",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/ryan-gosling-chris-evans-netflixs-the-gray-man-1235179054/"
+    },
+    {
+      "text": "John DeFore",
+      "url": "https://www.hollywoodreporter.com/author/john-defore/"
+    },
+    {
+      "text": "\n\tSee All",
+      "url": "https://www.hollywoodreporter.com/c/tv/tv-reviews/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/desus-mero-showtime-critics-appreciation-1235183228/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tCritic\u2019s Notebook: Showtime\u2019s \u2018Desus & Mero\u2019 Is Gone Way Too Soon\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/desus-mero-showtime-critics-appreciation-1235183228/"
+    },
+    {
+      "text": "\n\t\tBy ",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/desus-mero-showtime-critics-appreciation-1235183228/"
+    },
+    {
+      "text": "Daniel Fienberg",
+      "url": "https://www.hollywoodreporter.com/author/daniel-fienberg/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-captain-review-1235181292/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tESPN\u2019s \u2018The Captain\u2019: TV Review\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-captain-review-1235181292/"
+    },
+    {
+      "text": "\n\t\tBy ",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-captain-review-1235181292/"
+    },
+    {
+      "text": "Daniel Fienberg",
+      "url": "https://www.hollywoodreporter.com/author/daniel-fienberg/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/issa-raes-rap-sht-review-1235181008/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tHBO Max\u2019s \u2018Rap Sh!t\u2019: TV Review\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/issa-raes-rap-sht-review-1235181008/"
+    },
+    {
+      "text": "\n\t\tBy ",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/issa-raes-rap-sht-review-1235181008/"
+    },
+    {
+      "text": "Lovia Gyarkye",
+      "url": "https://www.hollywoodreporter.com/author/lovia-gyarkye/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-rehearsal-nathan-fielder-1235178614/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tHBO\u2019s \u2018The Rehearsal\u2019: TV Review\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-rehearsal-nathan-fielder-1235178614/"
+    },
+    {
+      "text": "\n\t\tBy ",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-rehearsal-nathan-fielder-1235178614/"
+    },
+    {
+      "text": "Daniel Fienberg",
+      "url": "https://www.hollywoodreporter.com/author/daniel-fienberg/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/victorias-secret-angels-and-demons-tv-review-1235179100/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tHulu\u2019s \u2018Victoria\u2019s Secret: Angels and Demons\u2019: TV Review\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/victorias-secret-angels-and-demons-tv-review-1235179100/"
+    },
+    {
+      "text": "\n\t\tBy ",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/victorias-secret-angels-and-demons-tv-review-1235179100/"
+    },
+    {
+      "text": "Angie Han",
+      "url": "https://www.hollywoodreporter.com/author/angie-han/"
+    },
+    {
+      "text": "\n\tSee All",
+      "url": "https://www.hollywoodreporter.com/t/featured-voices/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/author/daniel-fienberg/"
+    },
+    {
+      "text": "\n\t\n\tDaniel Fienberg\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/author/daniel-fienberg/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tShowtime\u2019s \u2018Desus & Mero\u2019 Is Gone Way Too Soon\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/desus-mero-showtime-critics-appreciation-1235183228/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/author/keli-goff/"
+    },
+    {
+      "text": "\n\t\n\tKeli Goff\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/author/keli-goff/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tHaving More Women in Power Could Have Raised Urgency of Protecting Roe\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/roe-overturned-more-women-in-power-1235178231/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/author/tyler-coates/"
+    },
+    {
+      "text": "\n\t\n\tTyler Coates\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/author/tyler-coates/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tWhat the \u2018Yellowstone\u2019 Snub Really Means for the Emmys\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/yellowstone-2022-emmys-snub-1235180435/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/author/ilene-kahn-power/"
+    },
+    {
+      "text": "\n\t\n\tIlene Kahn Power\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/author/ilene-kahn-power/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tI Had a Pre-Roe Illegal Abortion. We Can\u2019t Go Back\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/guest-column-i-had-a-pre-roe-illegal-abortion-we-cant-go-back-1235181491/"
+    },
+    {
+      "text": "\n\n\t\n\t\tSee All\t\n\n\t\t\tSee All Shopping With THR Articles\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/shopping/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tHere's How to Shop Yeezy Gap Engineered by Balenciaga If You Can't Go in Person Tomorrow\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/yeezy-gap-engineered-by-balenciaga-how-to-shop-online-1235183910/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/yeezy-gap-engineered-by-balenciaga-how-to-shop-online-1235183910/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tThe 10+ Best Beach Towels for Your Ultimate Beach Day Setup\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-beach-towels-1235179516/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-beach-towels-1235179516/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tThe Best Tablets for Taking Notes for School and Work (Plus the Best Deals Right Now)\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-note-taking-tablets-1234991562/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-note-taking-tablets-1234991562/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tThe Best Tablet Accessories for Every Type of Screen Setup, from Stylish Keyboards to Slim Cases\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-tablet-accessories-1235167681/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-tablet-accessories-1235167681/"
+    },
+    {
+      "text": "\n\n\t\n\t\tSee all\t\n\n\t\t\tSee All Lifestyle Articles\n\t\n\t",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/local-news/western-avenue-los-angeles-art-galleries-shops-1235180440/"
+    },
+    {
+      "text": "\n\t\n\tLocal News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/news/local-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tWill This Avenue Become the Next Hot Block in Los Angeles?\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/news/local-news/western-avenue-los-angeles-art-galleries-shops-1235180440/"
+    },
+    {
+      "text": "Gary Baum",
+      "url": "https://www.hollywoodreporter.com/author/gary-baum-thr/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/mia-isaac-dont-make-me-go-john-cho-1235180439/"
+    },
+    {
+      "text": "\n\t\n\tMovie Features\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/movies/movie-features/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tNext Big Thing: Mia Isaac on the Advice John Cho Gave Her While Filming Debut \u2018Don\u2019t Make Me Go\u2019\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/mia-isaac-dont-make-me-go-john-cho-1235180439/"
+    },
+    {
+      "text": "Mia Galuppo",
+      "url": "https://www.hollywoodreporter.com/author/mia-galuppo/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/broadway-keeps-mask-optional-policy-for-audiences-in-august-and-beyond-1235182705/"
+    },
+    {
+      "text": "\n\t\n\tLifestyle News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/lifestyle-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tBroadway Keeps \u201cMask Optional\u201d Policy For Audiences In August and Beyond\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/broadway-keeps-mask-optional-policy-for-audiences-in-august-and-beyond-1235182705/"
+    },
+    {
+      "text": "Caitlin Huston",
+      "url": "https://www.hollywoodreporter.com/author/caitlin-huston/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/steph-curry-espys-awards-host-monologue-1235182221/"
+    },
+    {
+      "text": "\n\t\n\tTV News\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/tv/tv-news/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tSteph Curry on Why He Texted Drake, Peyton Manning Before Agreeing to Host ESPY Awards\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/steph-curry-espys-awards-host-monologue-1235182221/"
+    },
+    {
+      "text": "Chris Gardner",
+      "url": "https://www.hollywoodreporter.com/author/chris-gardner/"
+    },
+    {
+      "text": "\n\tSee All",
+      "url": "https://www.hollywoodreporter.com/t/thrpodcasts/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\t\u2018Ms. Marvel\u2019 Boss Unpacks the Finale, \u2018X-Men\u2019 Ties and Exploring Partition\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/ms-marvel-finale-xmen-explained-1235180803/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tListen to 50-Plus Emmy Nominees\u2019 \u2018Awards Chatter\u2019 Podcast Episodes\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/emmy-nominees-awards-chatter-podcast-episodes-1235179316/"
+    },
+    {
+      "text": "\n\n\t\n\t\tSubscribe\t\n\n\t\t\tSign Up\n\t\n\t",
+      "url": "/subscribe-2/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "/subscribe-2/"
+    },
+    {
+      "text": "\n\t\n\tCover Story\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/t/thr-cover-story/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tInside \u2018House of the Dragon\u2019: The Battle to Replace \u2018Game of Thrones\u2019\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-game-of-thrones-prequels-1235181929/"
+    },
+    {
+      "text": "James Hibberd",
+      "url": "https://www.hollywoodreporter.com/author/james-hibberd/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-game-of-thrones-prequels-1235181929/"
+    },
+    {
+      "text": "\n\t\n\tCover Story\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/t/thr-cover-story/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tInside \u2018House of the Dragon\u2019 Part 2: \u201cIt\u2019s a Powerful, Dark, Shakespearean Tragedy\u201d\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/inside-house-of-the-dragon-trailer-cast-1235182776/"
+    },
+    {
+      "text": "James Hibberd",
+      "url": "https://www.hollywoodreporter.com/author/james-hibberd/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/inside-house-of-the-dragon-trailer-cast-1235182776/"
+    },
+    {
+      "text": "\n\t\n\tBusiness\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/business/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tHollywood\u2019s Mirage Earnings Season: Fear That the Worst Isn\u2019t Here Yet\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-q2-2022-earnings-preview-1235183214/"
+    },
+    {
+      "text": "Caitlin Huston",
+      "url": "https://www.hollywoodreporter.com/author/caitlin-huston/"
+    },
+    {
+      "text": "Georg Szalai",
+      "url": "https://www.hollywoodreporter.com/author/georg-szalai/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-q2-2022-earnings-preview-1235183214/"
+    },
+    {
+      "text": "\n\t\n\tMovie Features\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/c/movies/movie-features/"
+    },
+    {
+      "text": "\n\t\n\t\t\n\t\t\t\t\tMarvel\u2019s Movie Math: Comic Creators Claim It\u2019s \u201cBait and Switch\u201d On Payments\t\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/marvel-movie-math-comic-creators-1235183158/"
+    },
+    {
+      "text": "Aaron Couch",
+      "url": "https://www.hollywoodreporter.com/author/aaron-couch/"
+    },
+    {
+      "text": "\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/marvel-movie-math-comic-creators-1235183158/"
+    },
+    {
+      "text": "\n\t\t\t\tPMC Logo\n\t",
+      "url": "https://pmc.com"
+    },
+    {
+      "text": "\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tVanessa Bryant\u2019s Vacation Selfies Featuring Her Beautiful Daughters Show a Glimpse Into Their Grand Family Traditions\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t",
+      "url": "https://www.sheknows.com/parenting/articles/2596038/vanessa-bryant-vacation-family-photos/"
+    },
+    {
+      "text": "\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\t\t\n\t.b{fill:#000}\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tErykah Badu \"Shocked Thee Sh*t\" Out Of Megan Thee Stallion With Her Twerk Moves\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t",
+      "url": "https://www.vibe.com/news/entertainment/erykah-badu-megan-thee-stallion-twerk-1234678196/"
+    },
+    {
+      "text": "\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tOG Peach NeNe Leakes Flipping Recently Purchased Waldorf Astoria Villa\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t",
+      "url": "https://www.dirt.com/gallery/entertainers/reality-tv/nene-leakes-house-atlanta-waldorf-astoria-1203571399/"
+    },
+    {
+      "text": "\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\t\t\n\t.st0{fill-rule:evenodd;clip-rule:evenodd}\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tRaiders Lead NFL in Ticket Revenue With $119 Million\t\t\n\t\n\n\t\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t",
+      "url": "https://www.sportico.com/leagues/football/2022/raiders-lead-nfl-in-ticket-revenue-with-119-million-1234682797/"
+    },
+    {
+      "text": "\n\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tPrice Drop: This Is Now the Cheapest Smart Plug on Amazon \u2014 Just $6 for a Limited Time\t\t\n\t\n\n\t\t\n\t\t\t\t\t\n\t3 hours ago\n\n\t\t\n\t\t\n\t\t\t\n\n\t\t",
+      "url": "https://spy.com/articles/gadgets/smart-home/vont-smaart-plug-deal-1202872056/"
+    },
+    {
+      "text": "\n\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tRadiant Wallace Neff-Designed Home in Palm Springs Up for Grabs\t\t\n\t\n\n\t\t\n\t\t\t\t\t\n\t5 hours ago\n\n\t\t\n\t\t\n\t\t\t\n\n\t\t",
+      "url": "https://www.dirt.com/gallery/more-dirt/real-estate-listings/wallace-neff-designed-house-palm-springs-1203571692/"
+    },
+    {
+      "text": "\n\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\t\t\n\t.b{fill:#000}\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tH.E.R. Lands Role As Belle In\u00a0ABC\u2019s \u2018Beauty And The Beast\u2019 30th Anniversary\u00a0Special\t\t\n\t\n\n\t\t\n\t\t\t\t\t\n\t3 hours ago\n\n\t\t\n\t\t\n\t\t\t\n\n\t\t",
+      "url": "https://www.vibe.com/news/entertainment/her-belle-beauty-beast-abc-special-1234679753/"
+    },
+    {
+      "text": "\n\t\n\t\n\t\t\t\t\t\n\t\n\t\t\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\t\t\t\t\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\t\t\tWisin y Yandel, CNCO, & More Highlights From Premios Juventud 2022\u00a0Rehearsals\t\t\n\t\n\n\t\t\n\t\t\t\t\t\n\t4 hours ago\n\n\t\t\n\t\t\n\t\t\t\n\n\t\t",
+      "url": "https://www.billboard.com/music/latin/premios-juventud-2022-rehearsals-highlights-1235116361/"
+    },
+    {
+      "text": "\n\t\n\t\n\t\t\t\t\t\t\n\t\t\t\n\t\n\t\t\t",
+      "url": "/subscribe-2/"
+    },
+    {
+      "text": "\n\tGet the Magazine",
+      "url": "/subscribe-3/"
+    },
+    {
+      "text": "\n\tCustomer Service",
+      "url": "/services/"
+    },
+    {
+      "text": "\n\tBack Issues",
+      "url": "https://shop.hollywoodreporter.com/"
+    },
+    {
+      "text": "\n\tE-edition Access",
+      "url": "https://emagazines.com/library"
+    },
+    {
+      "text": "\n\tAbout Us",
+      "url": "/masthead/"
+    },
+    {
+      "text": "\n\tAdvertise",
+      "url": "/mediakit/"
+    },
+    {
+      "text": "\n\tCareers",
+      "url": "https://pmc.com/careers-listing/"
+    },
+    {
+      "text": "\n\tContact Us",
+      "url": "/contact/"
+    },
+    {
+      "text": "\n\tAccessibility",
+      "url": "/accessibility/"
+    },
+    {
+      "text": "\n\tTerms of Use",
+      "url": "https://pmc.com/terms-of-use/"
+    },
+    {
+      "text": "\n\tAdChoices",
+      "url": "https://optout.aboutads.info/?c=2&lang=EN"
+    },
+    {
+      "text": "\n\tIcon Link\n\n\t\tPlus Icon\n\t\n\n\t\n\t\n\n",
+      "url": "https://www.facebook.com/HollywoodReporter"
+    },
+    {
+      "text": "\n\t\n\tfacebook\n\t\t\t",
+      "url": "https://www.facebook.com/HollywoodReporter"
+    },
+    {
+      "text": "\n\tIcon Link\n\n\t\tPlus Icon\n\t\n\n\t\n\t\n\n",
+      "url": "https://twitter.com/thr"
+    },
+    {
+      "text": "\n\t\n\ttwitter\n\t\t\t",
+      "url": "https://twitter.com/thr"
+    },
+    {
+      "text": "\n\tIcon Link\n\n\t\tPlus Icon\n\t\n\n\t\n\t\n\n",
+      "url": "https://www.instagram.com/hollywoodreporter"
+    },
+    {
+      "text": "\n\t\n\tinstagram\n\t\t\t",
+      "url": "https://www.instagram.com/hollywoodreporter"
+    },
+    {
+      "text": "\n\tIcon Link\n\n\t\tPlus Icon\n\t\n\n\t\n\t\n\n",
+      "url": "https://www.youtube.com/hollywoodreporter"
+    },
+    {
+      "text": "\n\t\n\tyoutube\n\t\t\t",
+      "url": "https://www.youtube.com/hollywoodreporter"
+    },
+    {
+      "text": "\n\n\t\n\t\tSend Us a Tip\t\n\n\t\t\tSign Up\n\t\n\t",
+      "url": "https://tipline.hollywoodreporter.com/"
+    },
+    {
+      "text": "\n\tIcon Link\n\n\t\tPlus Icon\n\t\n\n\t\n\t\n\n",
+      "url": "https://pmc.com"
+    },
+    {
+      "text": "\n\tPowered by WordPress.com VIP",
+      "url": "https://vip.wordpress.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit"
+    },
+    {
+      "text": "\n\tArtnews",
+      "url": "https://artnews.com/"
+    },
+    {
+      "text": "\n\tBGR",
+      "url": "https://bgr.com/"
+    },
+    {
+      "text": "\n\tBillboard",
+      "url": "https://billboard.com/"
+    },
+    {
+      "text": "\n\tDeadline",
+      "url": "https://deadline.com/"
+    },
+    {
+      "text": "\n\tFairchild Media",
+      "url": "https://fairchildlive.com/"
+    },
+    {
+      "text": "\n\tFootwear News",
+      "url": "https://footwearnews.com/"
+    },
+    {
+      "text": "\n\tGold Derby",
+      "url": "https://www.goldderby.com/"
+    },
+    {
+      "text": "\n\tIndieWire",
+      "url": "https://www.indiewire.com/"
+    },
+    {
+      "text": "\n\tRobb Report",
+      "url": "https://robbreport.com/"
+    },
+    {
+      "text": "\n\tRolling Stone",
+      "url": "https://www.rollingstone.com/"
+    },
+    {
+      "text": "\n\tSheKnows",
+      "url": "https://www.sheknows.com/"
+    },
+    {
+      "text": "\n\tShe Media",
+      "url": "https://www.shemedia.com/"
+    },
+    {
+      "text": "\n\tSoaps",
+      "url": "https://soaps.sheknows.com/"
+    },
+    {
+      "text": "\n\tSourcing Journal",
+      "url": "https://sourcingjournal.com/"
+    },
+    {
+      "text": "\n\tSportico",
+      "url": "https://www.sportico.com/"
+    },
+    {
+      "text": "\n\tSpy",
+      "url": "https://spy.com/"
+    },
+    {
+      "text": "\n\tStyleCaster",
+      "url": "https://stylecaster.com/"
+    },
+    {
+      "text": "\n\tThe Hollywood Reporter",
+      "url": "https://hollywoodreporter.com/"
+    },
+    {
+      "text": "\n\tTVLine",
+      "url": "https://tvline.com/"
+    },
+    {
+      "text": "\n\tVariety",
+      "url": "https://variety.com/"
+    },
+    {
+      "text": "\n\tVibe",
+      "url": "https://vibe.com/"
+    },
+    {
+      "text": "\n\tWWD",
+      "url": "https://wwd.com/"
+    },
+    {
+      "text": "\n\t\t\t\tThe Hollywood Reporter homepage\n\t",
+      "url": "/"
+    },
+    {
+      "text": "\n\tNews",
+      "url": "https://www.hollywoodreporter.com/c/news/"
+    },
+    {
+      "text": "\n\tLatest News",
+      "url": "https://www.hollywoodreporter.com/c/news/general-news/"
+    },
+    {
+      "text": "\n\tCulture & Politics",
+      "url": "https://www.hollywoodreporter.com/c/news/politics-news/"
+    },
+    {
+      "text": "\n\tTech & Digital",
+      "url": "https://www.hollywoodreporter.com/c/business/digital/"
+    },
+    {
+      "text": "\n\tMusic",
+      "url": "https://www.hollywoodreporter.com/c/news/music-news/"
+    },
+    {
+      "text": "\n\tLA/Local",
+      "url": "https://www.hollywoodreporter.com/c/news/local-news/"
+    },
+    {
+      "text": "\n\tTHR Investigates",
+      "url": "https://www.hollywoodreporter.com/t/thr-investigates/"
+    },
+    {
+      "text": "\n\tObituaries",
+      "url": "https://www.hollywoodreporter.com/t/obituaries/"
+    },
+    {
+      "text": "\n\tSustainability Issue",
+      "url": "https://sustainability.hollywoodreporter.com/"
+    },
+    {
+      "text": "\n\tFilm",
+      "url": "https://www.hollywoodreporter.com/c/movies/"
+    },
+    {
+      "text": "\n\tNews",
+      "url": "https://www.hollywoodreporter.com/c/movies/movie-news/"
+    },
+    {
+      "text": "\n\tFeatures",
+      "url": "https://www.hollywoodreporter.com/c/movies/movie-features/"
+    },
+    {
+      "text": "\n\tReviews",
+      "url": "https://www.hollywoodreporter.com/c/movies/movie-reviews/"
+    },
+    {
+      "text": "\n\tBox Office",
+      "url": "https://www.hollywoodreporter.com/t/box-office/"
+    },
+    {
+      "text": "\n\tHeat Vision",
+      "url": "https://www.hollywoodreporter.com/e/heat-vision/"
+    },
+    {
+      "text": "\n\tTV",
+      "url": "https://www.hollywoodreporter.com/c/tv/"
+    },
+    {
+      "text": "\n\tNews",
+      "url": "https://www.hollywoodreporter.com/c/tv/tv-news/"
+    },
+    {
+      "text": "\n\tFeatures",
+      "url": "https://www.hollywoodreporter.com/c/tv/tv-features/"
+    },
+    {
+      "text": "\n\tReviews",
+      "url": "https://www.hollywoodreporter.com/c/tv/tv-reviews/"
+    },
+    {
+      "text": "\n\tRatings",
+      "url": "https://www.hollywoodreporter.com/t/tv-ratings/"
+    },
+    {
+      "text": "\n\tLive Feed",
+      "url": "https://www.hollywoodreporter.com/e/live-feed/"
+    },
+    {
+      "text": "\n\tHeat Vision",
+      "url": "https://www.hollywoodreporter.com/e/heat-vision/"
+    },
+    {
+      "text": "\n\tThe Fien Print",
+      "url": "https://www.hollywoodreporter.com/e/the-fien-print/"
+    },
+    {
+      "text": "\n\tTV's Top 5 Podcast",
+      "url": "https://www.hollywoodreporter.com/t/tvs-top-5-podcast/"
+    },
+    {
+      "text": "\n\tAwards",
+      "url": "#"
+    },
+    {
+      "text": "\n\tNews",
+      "url": "https://www.hollywoodreporter.com/t/awards/"
+    },
+    {
+      "text": "\n\tAwards Chatter Podcast",
+      "url": "https://www.hollywoodreporter.com/t/awards-chatter-podcast/"
+    },
+    {
+      "text": "\n\tFeinberg Forecast",
+      "url": "https://www.hollywoodreporter.com/t/feinberg-forecast/"
+    },
+    {
+      "text": "\n\tBehind The Screen",
+      "url": "https://www.hollywoodreporter.com/e/behind-the-screen/"
+    },
+    {
+      "text": "\n\tThe Race",
+      "url": "https://www.hollywoodreporter.com/e/the-race/"
+    },
+    {
+      "text": "\n\tTHR Presents",
+      "url": "https://www.hollywoodreporter.com/thrpresents/"
+    },
+    {
+      "text": "\n\tLifestyle",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/"
+    },
+    {
+      "text": "\n\tNews",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/lifestyle-news/"
+    },
+    {
+      "text": "\n\tStyle",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/style/"
+    },
+    {
+      "text": "\n\tShopping",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/shopping/"
+    },
+    {
+      "text": "\n\tArts",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/arts/"
+    },
+    {
+      "text": "\n\tReal Estate",
+      "url": "https://www.hollywoodreporter.com/c/lifestyle/real-estate/"
+    },
+    {
+      "text": "\n\tRambling Reporter",
+      "url": "https://www.hollywoodreporter.com/e/rambling-reporter/"
+    },
+    {
+      "text": "\n\tBusiness",
+      "url": "https://www.hollywoodreporter.com/c/business/"
+    },
+    {
+      "text": "\n\tNews",
+      "url": "https://www.hollywoodreporter.com/c/business/business-news/"
+    },
+    {
+      "text": "\n\tFeatures & Columns",
+      "url": "https://www.hollywoodreporter.com/t/business-features/"
+    },
+    {
+      "text": "\n\tRepresentation",
+      "url": "https://www.hollywoodreporter.com/t/representation-in-hollywood/"
+    },
+    {
+      "text": "\n\tTHR, Esq",
+      "url": "https://www.hollywoodreporter.com/e/thr-esq/"
+    },
+    {
+      "text": "\n\tMore Essentials",
+      "url": "#"
+    },
+    {
+      "text": "\n\tInternational News",
+      "url": "https://www.hollywoodreporter.com/t/international/"
+    },
+    {
+      "text": "\n\tVideo",
+      "url": "https://www.hollywoodreporter.com/video/"
+    },
+    {
+      "text": "\n\tPodcasts",
+      "url": "https://www.hollywoodreporter.com/t/thrpodcasts/"
+    },
+    {
+      "text": "\n\tFeatured Voices",
+      "url": "https://www.hollywoodreporter.com/t/featured-voices/"
+    },
+    {
+      "text": "\n\tFollow thr on facebook\n\n\n\n\t\n\t\n\n",
+      "url": "https://www.facebook.com/HollywoodReporter"
+    },
+    {
+      "text": "\n\tFollow thr on twitter\n\n\n\n\t\n\t\n\n",
+      "url": "https://twitter.com/thr"
+    },
+    {
+      "text": "\n\tFollow thr on instagram\n\n\n\n\t\n\t\n\n",
+      "url": "https://www.instagram.com/hollywoodreporter"
+    },
+    {
+      "text": "\n\tFollow thr on youtube\n\n\n\n\t\n\t\n\n",
+      "url": "https://www.youtube.com/hollywoodreporter"
+    },
+    {
+      "text": "\n\tAbout Us",
+      "url": "/masthead/"
+    },
+    {
+      "text": "\n\tAdvertise",
+      "url": "/mediakit/"
+    },
+    {
+      "text": "\n\tCareers",
+      "url": "https://pmc.com/careers-listing/"
+    },
+    {
+      "text": "\n\tContact Us",
+      "url": "/contact/"
+    },
+    {
+      "text": "\n\tIcon Link\n\n\t\tPlus Icon\n\t\n\n\t\n\t\n\n",
+      "url": "https://pmc.com/"
+    },
+    {
+      "text": "More information",
+      "url": "https://cookiepedia.co.uk/giving-consent-to-cookies"
+    },
+    {
+      "text": "",
+      "url": "https://onetrust.com/poweredbyonetrust"
+    }
+  ],
+  "uniq": 694534170,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1658362882,
+  "created": 1658405373,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/firstthingsmag-2022",
@@ -394,31 +394,73 @@
       "sha1": "1170bed8cb2af2867ab39e1936f687b0f273bcb0"
     },
     {
+      "name": "firstthingsmag-2022-07-20T22:22:32.985082-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658370156",
+      "size": "34551",
+      "md5": "1e5d3c28fda88c57f3e3f8013cc4d697",
+      "crc32": "97ac02d4",
+      "sha1": "c908b5493879260f2bfdc461006ed32f87c6fcde",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-07-20T22:22:32.985082-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658370158",
+      "size": "20649",
+      "md5": "4b769f92021f27461a341a63b8131c7c",
+      "crc32": "8b941ec3",
+      "sha1": "9e37487e17108ad35554daad517493993717990d",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-07-20T22:22:32.985082-04:00.jpg",
+      "source": "original",
+      "mtime": "1658370155",
+      "size": "217466",
+      "md5": "fe0c4667f48c617e6f6557a3a7619b0c",
+      "crc32": "bce96a6f",
+      "sha1": "d5e66975f14abc491bf590a45c8a9403aa99e097",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "firstthingsmag-2022-07-20T22:22:32.985082-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "firstthingsmag-2022-07-20T22:22:32.985082-04:00.jpg",
+      "mtime": "1658371204",
+      "size": "9166",
+      "md5": "661680285e8cafb3c5f587521ab7e108",
+      "crc32": "936cbde4",
+      "sha1": "c309b97129123b41d6cfb688a22be39552874487"
+    },
+    {
       "name": "firstthingsmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84a1dfb7a2751f71799b9f15c6ac0e94c2a2d3a8",
-      "mtime": "1658339844",
-      "size": "9416",
-      "md5": "41398c2d33fc7e1a115adaaa3d04342e",
-      "crc32": "14bff36c",
-      "sha1": "158bb029ffada503ec43406737877eff5a79bd38",
+      "btih": "27c07a61c2090b061aaea94e2afe57e32686f5a2",
+      "mtime": "1658371210",
+      "size": "10290",
+      "md5": "ba65b5049c2150457dc705ea96bc358d",
+      "crc32": "4543980c",
+      "sha1": "74dc599fa6785585f3b69d0f4c049bfbac2d296f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "firstthingsmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77672f56d85c9e98b2e124622beceb28",
+      "md5": "b6a4679407e63f8bb706039023222c05",
       "summation": "md5"
     },
     {
       "name": "firstthingsmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658336092",
-      "size": "57344",
-      "md5": "16e06113be3f85a916c4f124ab0a4107",
-      "crc32": "ac5bb1b1",
-      "sha1": "87c08c233768225979f1ef97f47d8e1101e375e7",
+      "mtime": "1658370161",
+      "size": "61440",
+      "md5": "7acd81afd037dbb73a3f8c8e9674b810",
+      "crc32": "00e5eec2",
+      "sha1": "52ac84a7b8cace648f73c5ef197a17f5c6b774a5",
       "format": "Metadata"
     },
     {
@@ -432,7 +474,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 41,
+  "files_count": 45,
   "firstthingsmag-2022": [
     {
       "text": " donation",
@@ -875,20 +917,20 @@
       "url": "web-exclusives/2022/07/the-irrepressible-irreplaceable-midge-decter"
     },
     {
-      "text": "Algis Valiunas",
-      "url": "web-exclusives/2022/07/devils-in-the-mind"
-    },
-    {
-      "text": "Devils in the Mind",
-      "url": "web-exclusives/2022/07/devils-in-the-mind"
-    },
-    {
       "text": "Mark Bauerlein",
       "url": "web-exclusives/2022/07/well-done-bishop-mcmanus"
     },
     {
       "text": "Well Done, Bishop McManus",
       "url": "web-exclusives/2022/07/well-done-bishop-mcmanus"
+    },
+    {
+      "text": "Algis Valiunas",
+      "url": "web-exclusives/2022/07/devils-in-the-mind"
+    },
+    {
+      "text": "Devils in the Mind",
+      "url": "web-exclusives/2022/07/devils-in-the-mind"
     },
     {
       "text": "Catherine Glenn Foster",
@@ -1207,8 +1249,8 @@
       "url": "http://www.firstthings.com/donate?trk=PU1MoHP"
     }
   ],
-  "item_last_updated": 1658339844,
-  "item_size": 2079331,
+  "item_last_updated": 1658371210,
+  "item_size": 2366133,
   "metadata": {
     "identifier": "firstthingsmag-2022",
     "collection": [
@@ -1226,7 +1268,7 @@
     "addeddate": "2022-07-17 15:03:04"
   },
   "server": "ia601406.us.archive.org",
-  "uniq": 998749581,
+  "uniq": 1073231923,
   "workable_servers": [
     "ia601406.us.archive.org",
     "ia801406.us.archive.org"

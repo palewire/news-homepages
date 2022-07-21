@@ -1,5 +1,5 @@
 {
-  "created": 1658337744,
+  "created": 1658376307,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/22/items/openvallejo-2022",
@@ -1402,31 +1402,73 @@
       "sha1": "4c61466911fed83ecdc685f7c8f11be613cee3c8"
     },
     {
+      "name": "openvallejo-2022-07-20T20:38:17.517760-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658374700",
+      "size": "18121",
+      "md5": "550c2910109fe7b7ac0b0218520373cb",
+      "crc32": "77126935",
+      "sha1": "7bc2b4362a2f8ceb39418c25f31caa39ed76fee5",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-07-20T20:38:17.517760-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658374701",
+      "size": "21796",
+      "md5": "13f192efae2a1926af9f7d064d75039b",
+      "crc32": "967151d3",
+      "sha1": "b4dc1a586048b45c0c67cc8e0808620f8cf2b992",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-07-20T20:38:17.517760-07:00.jpg",
+      "source": "original",
+      "mtime": "1658374699",
+      "size": "292536",
+      "md5": "f47f4a37d0370e35650dc5b977bde7e8",
+      "crc32": "74728352",
+      "sha1": "5d69a396e787dfbfc8cb3d98b4917d66c7188b2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "openvallejo-2022-07-20T20:38:17.517760-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "openvallejo-2022-07-20T20:38:17.517760-07:00.jpg",
+      "mtime": "1658376293",
+      "size": "10990",
+      "md5": "48817ed6723b4167b3d356fec52fd6f3",
+      "crc32": "4c8c3beb",
+      "sha1": "e5dbd58a363a74f2e5786f93f5520b6b33991a93"
+    },
+    {
       "name": "openvallejo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee8c1be9a37493913094afd8482fcf1aa8b4dfcd",
-      "mtime": "1658337709",
-      "size": "29837",
-      "md5": "f96e1045739e38c4dcf3388e84d4fdbc",
-      "crc32": "eea2001b",
-      "sha1": "0cb8bcb0594c5a9ca07030d932aa89267108d3fd",
+      "btih": "db2a67e9c963df1bb5c36aa7e6c45bd50edd06bb",
+      "mtime": "1658376299",
+      "size": "30699",
+      "md5": "6fc846c776f68af959fe4d1def2e8d91",
+      "crc32": "e5bfc015",
+      "sha1": "cb2acd0bc3d19629d358b4b2b1b96b5708f424c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "openvallejo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a188e3b5feb510c6cc0b836d4ae0350",
+      "md5": "5a46aafac54e4cb7ff72cd79637a51ae",
       "summation": "md5"
     },
     {
       "name": "openvallejo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658333553",
-      "size": "172032",
-      "md5": "8312a2e1b8b5a8e299a8b1ee4744ad4d",
-      "crc32": "97e93cee",
-      "sha1": "889f58e182916b4ced16375cf4802b2a25549b60",
+      "mtime": "1658374704",
+      "size": "176128",
+      "md5": "604aaecf6fe1f01dc0b403d2717e016d",
+      "crc32": "33a1d9f8",
+      "sha1": "5b14503fa2546b3f4a5707a8c5967063d210c0bb",
       "format": "Metadata"
     },
     {
@@ -1440,9 +1482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1658337709,
-  "item_size": 11008853,
+  "files_count": 141,
+  "item_last_updated": 1658376299,
+  "item_size": 11357254,
   "metadata": {
     "identifier": "openvallejo-2022",
     "collection": [
@@ -1459,10 +1501,10 @@
     "publicdate": "2022-07-09 04:01:53",
     "addeddate": "2022-07-09 04:01:53"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 914351777,
+  "server": "ia902503.us.archive.org",
+  "uniq": 1428138100,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

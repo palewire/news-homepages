@@ -1,5 +1,5 @@
 {
-  "created": 1658362956,
+  "created": 1658405417,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/35/items/gcm_nf-2022",
@@ -1486,31 +1486,73 @@
       "sha1": "8f58c2f86fcd196cfa8f01081db97d3b8d493171"
     },
     {
+      "name": "gcm_nf-2022-07-20T21:24:02.578426-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658370245",
+      "size": "6765",
+      "md5": "2912544d9e979c1081b20e29d7aa33bf",
+      "crc32": "9a09fff5",
+      "sha1": "d403ad8a26d5a78a2541e843e66e8e47df34c371",
+      "format": "JSON"
+    },
+    {
+      "name": "gcm_nf-2022-07-20T21:24:02.578426-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658370247",
+      "size": "9905",
+      "md5": "0dcfcd7ae5a2e4e1e3783e2aedc7f6a4",
+      "crc32": "08288b97",
+      "sha1": "a368c1b7f58f95944c3c46607f148f30aaae8960",
+      "format": "JSON"
+    },
+    {
+      "name": "gcm_nf-2022-07-20T21:24:02.578426-05:00.jpg",
+      "source": "original",
+      "mtime": "1658370244",
+      "size": "237940",
+      "md5": "3000e8fc9f74fc21f07b1aebfb2236f8",
+      "crc32": "8ad30c72",
+      "sha1": "493874c2945256c59f592d063db59f9a4d37aad8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gcm_nf-2022-07-20T21:24:02.578426-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gcm_nf-2022-07-20T21:24:02.578426-05:00.jpg",
+      "mtime": "1658371495",
+      "size": "8727",
+      "md5": "a09f65e7b943bea69d096c96e00fb5c6",
+      "crc32": "fe68a004",
+      "sha1": "2259275f7aafc684a8c85054dee8364337087873"
+    },
+    {
       "name": "gcm_nf-2022_archive.torrent",
       "source": "metadata",
-      "btih": "848a29683c85ffecccde3e23b99462f26b047dc2",
-      "mtime": "1658340021",
-      "size": "30615",
-      "md5": "02a24cb673393bcf1e733412aeb0eaa7",
-      "crc32": "bfde06ed",
-      "sha1": "de3e6269ff6ceca024afc19926df49dd8da46b3f",
+      "btih": "254f0a3f97ccfbe1236b023491a94ba52e55c096",
+      "mtime": "1658371510",
+      "size": "31434",
+      "md5": "03d12932588c7600c39da0a956032008",
+      "crc32": "e2f81d54",
+      "sha1": "b0ec6387e11d3cf1e53738593aed379c901a6c3f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gcm_nf-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5e548d98388e0c5a2b57dae270ea93c5",
+      "md5": "de1894c894017be6c5ce6d634dfe57b3",
       "summation": "md5"
     },
     {
       "name": "gcm_nf-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658335935",
-      "size": "180224",
-      "md5": "9fce108c545837bf5c9291ce968cf38f",
-      "crc32": "a875d5e7",
-      "sha1": "62d6bdc984911de2597cdf871f12ffdc192a87cb",
+      "mtime": "1658370254",
+      "size": "184320",
+      "md5": "7f12b105ccd017fd942d4b94e2a1700e",
+      "crc32": "0dcf2c20",
+      "sha1": "564893b7d8ee24a8b0ceb12d74496a1c44cebed2",
       "format": "Metadata"
     },
     {
@@ -1524,7 +1566,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 145,
+  "files_count": 149,
   "gcm_nf-2022": [
     {
       "text": "Follow",
@@ -1923,8 +1965,8 @@
       "url": "https://cmitsolutions.com/oak-park-hinsdale-oak-brook/"
     }
   ],
-  "item_last_updated": 1658340021,
-  "item_size": 9179019,
+  "item_last_updated": 1658371510,
+  "item_size": 9447271,
   "metadata": {
     "identifier": "gcm_nf-2022",
     "collection": [
@@ -1941,10 +1983,10 @@
     "publicdate": "2022-07-09 03:58:48",
     "addeddate": "2022-07-09 03:58:48"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1191089491,
+  "server": "ia601405.us.archive.org",
+  "uniq": 1836221891,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

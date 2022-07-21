@@ -1,5 +1,5 @@
 {
-  "created": 1658350332,
+  "created": 1658405602,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/mddailyrecord-2022",
@@ -772,31 +772,73 @@
       "sha1": "546d1f94a441ef139dd9e619b689565f0c4742af"
     },
     {
+      "name": "mddailyrecord-2022-07-20T23:34:02.188093-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658374445",
+      "size": "1027",
+      "md5": "04c81f2efd7bc46a9d9b23de024616e7",
+      "crc32": "806ea26b",
+      "sha1": "8e7efc706cde24589407f63660e923c1e957d613",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-07-20T23:34:02.188093-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658374447",
+      "size": "194",
+      "md5": "11caf1dcc9a289b9b444a15539cef173",
+      "crc32": "0f4945ac",
+      "sha1": "e04cb2d7a0ec0bd88ffeeb852e66831e21dee563",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-07-20T23:34:02.188093-04:00.jpg",
+      "source": "original",
+      "mtime": "1658374444",
+      "size": "352073",
+      "md5": "b5c5254488bd5302173b3272c05dd2f8",
+      "crc32": "38a2ad9b",
+      "sha1": "1fbb7de88461e632a1692d443d7e35cc14f62697",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mddailyrecord-2022-07-20T23:34:02.188093-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mddailyrecord-2022-07-20T23:34:02.188093-04:00.jpg",
+      "mtime": "1658375944",
+      "size": "10475",
+      "md5": "5314eeb1401f3b056043d13df6ab71b9",
+      "crc32": "e90b7ad0",
+      "sha1": "d79ffde97e749a4c59423cb89e2a01a6b9bbac87"
+    },
+    {
       "name": "mddailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6569ebb8248bc8762156676314e83422ee9df9e3",
-      "mtime": "1658337473",
-      "size": "17167",
-      "md5": "bc5f927e6929a177edcae4ff1ac5820f",
-      "crc32": "fc871739",
-      "sha1": "8d449a1c77b61e9e95f0099597ad1356a75d8853",
+      "btih": "5b321f3cbeb0840f7b4afdb997b7a4931197dddf",
+      "mtime": "1658376056",
+      "size": "18034",
+      "md5": "6b2cf3267749975a7f6ff0819f38608c",
+      "crc32": "5690edcd",
+      "sha1": "a70c7567c371f56b32ff6bd1310ec7574f1e63bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mddailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc2db371e76afd795d6b5f8272f4b030",
+      "md5": "bb4e9fb50442e53e1558221223975d08",
       "summation": "md5"
     },
     {
       "name": "mddailyrecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658333274",
-      "size": "102400",
-      "md5": "e67d227b6d2f645bf014b3f01ea9f712",
-      "crc32": "98790919",
-      "sha1": "c05ec000cd64a78d6de5339043e772750c1c9cc4",
+      "mtime": "1658374451",
+      "size": "106496",
+      "md5": "c25ac51dbfdd59789806c7b83b6e06e6",
+      "crc32": "8fd4aab9",
+      "sha1": "75b87258d3eed791b3319fea87f1480d30cb34e6",
       "format": "Metadata"
     },
     {
@@ -810,9 +852,19 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 77,
-  "item_last_updated": 1658337473,
-  "item_size": 7251463,
+  "files_count": 81,
+  "item_last_updated": 1658376056,
+  "item_size": 7620195,
+  "mddailyrecord-2022": [
+    {
+      "text": "website accessibility",
+      "url": "https://userway.org"
+    },
+    {
+      "text": " Click To Continue To Site  Tap To Continue To The Site ",
+      "url": "javascript:void(0)"
+    }
+  ],
   "metadata": {
     "identifier": "mddailyrecord-2022",
     "collection": [
@@ -829,10 +881,10 @@
     "publicdate": "2022-07-13 02:25:07",
     "addeddate": "2022-07-13 02:25:07"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1266272192,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1284940501,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

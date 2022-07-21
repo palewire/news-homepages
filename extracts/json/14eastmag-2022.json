@@ -1,5 +1,5 @@
 {
-  "created": 1658339738,
+  "created": 1658365849,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/14eastmag-2022",
@@ -4477,31 +4477,73 @@
       "sha1": "b2406356489618dfe2a87f6c75762444b28048e8"
     },
     {
+      "name": "14eastmag-2022-07-20T20:01:35.400065-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658365300",
+      "size": "25237",
+      "md5": "b73b4025bce79c31c03b39ce6c637aeb",
+      "crc32": "5dbd86ea",
+      "sha1": "e39467e82a218b4c0c5696208e8d49a1ee2abc62",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-07-20T20:01:35.400065-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658365302",
+      "size": "41134",
+      "md5": "6c95e8e6499011c1628f5e03bc196873",
+      "crc32": "97b71870",
+      "sha1": "152ead4bc8349c75eccbb622037b8e9cd6e51f96",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-07-20T20:01:35.400065-05:00.jpg",
+      "source": "original",
+      "mtime": "1658365297",
+      "size": "259805",
+      "md5": "08d7479116683bdf63fd1c4366c4e0b9",
+      "crc32": "a3aa073f",
+      "sha1": "b4531995e59cba658737ae5cb20321bbce1ccb1c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "14eastmag-2022-07-20T20:01:35.400065-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "14eastmag-2022-07-20T20:01:35.400065-05:00.jpg",
+      "mtime": "1658365813",
+      "size": "9599",
+      "md5": "cd6a2a96436d6db5496b05f5dde545e9",
+      "crc32": "7978d56a",
+      "sha1": "b2406356489618dfe2a87f6c75762444b28048e8"
+    },
+    {
       "name": "14eastmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbcc5839ea710493f1a499c08dc556ebc8588e07",
-      "mtime": "1658339725",
-      "size": "91623",
-      "md5": "701d9e881f660082524a9315a3109a03",
-      "crc32": "be3d7be9",
-      "sha1": "ef355b904e0c6da6db92c7ddb30bdc6f3f4bdbaa",
+      "btih": "0db958cb7949ec9810c498d6125835f19f1294ad",
+      "mtime": "1658365822",
+      "size": "92476",
+      "md5": "49d8b9f08d4ad5d4a47a31ac6def0848",
+      "crc32": "df195dbd",
+      "sha1": "e85fd3a0eee470423d849640b39fdeba1f4be0a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "14eastmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec5b1600ed0dd5f456bd150027256803",
+      "md5": "27bce6ef54d546fb6799a7204c6aa8b8",
       "summation": "md5"
     },
     {
       "name": "14eastmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658335898",
-      "size": "512000",
-      "md5": "6cf47fd4b4525e8a5eb09dc820827fdb",
-      "crc32": "7b310cd2",
-      "sha1": "143fa0fef9fa33178caab1d2609eeaa334d1f031",
+      "mtime": "1658365308",
+      "size": "516096",
+      "md5": "202c3b1ed11f34d1da7b0a0b77369e99",
+      "crc32": "038e04be",
+      "sha1": "88995777e30bfa07f541695398411ff351047134",
       "format": "Metadata"
     },
     {
@@ -4526,9 +4568,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 431,
-  "item_last_updated": 1658339725,
-  "item_size": 33498752,
+  "files_count": 435,
+  "item_last_updated": 1658365822,
+  "item_size": 33839476,
   "metadata": {
     "identifier": "14eastmag-2022",
     "collection": [
@@ -4545,10 +4587,10 @@
     "publicdate": "2022-06-19 23:22:49",
     "addeddate": "2022-06-19 23:22:49"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 1077372981,
+  "server": "ia902505.us.archive.org",
+  "uniq": 35519159,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

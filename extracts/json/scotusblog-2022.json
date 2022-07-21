@@ -1,5 +1,5 @@
 {
-  "created": 1658363459,
+  "created": 1658405809,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/5/items/scotusblog-2022",
@@ -2828,31 +2828,73 @@
       "sha1": "b49e62c1a20ebd3da7347328db27655d32990f7f"
     },
     {
+      "name": "scotusblog-2022-07-21T00:25:33.212238-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658377548",
+      "size": "50292",
+      "md5": "9ae1b29ca25be1199acb70cd1d0b1913",
+      "crc32": "38c3d2ed",
+      "sha1": "f7b71b8fcb2eaaf813447c56e4445b270c0875d7",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-07-21T00:25:33.212238-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658377550",
+      "size": "18675",
+      "md5": "c7aa3506f28a6a059797c20e65372a26",
+      "crc32": "61b6dea7",
+      "sha1": "f881d9a94b7cd8892f46857b3ee98ae72ee7c52c",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-07-21T00:25:33.212238-04:00.jpg",
+      "source": "original",
+      "mtime": "1658377546",
+      "size": "291287",
+      "md5": "8920a24b9138c9e62d8b91289d96432d",
+      "crc32": "1abd8375",
+      "sha1": "6ed9424770e82d5b16d469e8c6daf7228bab1e50",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scotusblog-2022-07-21T00:25:33.212238-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotusblog-2022-07-21T00:25:33.212238-04:00.jpg",
+      "mtime": "1658380056",
+      "size": "10049",
+      "md5": "3575895d6ca737992d5b3ca3c55e7f21",
+      "crc32": "b0bf002d",
+      "sha1": "b49e62c1a20ebd3da7347328db27655d32990f7f"
+    },
+    {
       "name": "scotusblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a57dd2f3ff3ab6e73dff3f51229a343b0c5852fd",
-      "mtime": "1658339278",
-      "size": "58766",
-      "md5": "1413dbc6faf059d9ebf6cac581b65ff0",
-      "crc32": "6509d5d1",
-      "sha1": "abc9edaa85701731da42d245248618ca599c9975",
+      "btih": "e97a1af5dc5478c2fb76c4eb81ce1e96769ea4b3",
+      "mtime": "1658380089",
+      "size": "59624",
+      "md5": "c39a94023053352a893aaeec4394a47f",
+      "crc32": "90799670",
+      "sha1": "58f7249fab9dcd3685fc87b9a76931c33a5d13aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotusblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c709d92a84788e264123f6cd60809369",
+      "md5": "15133b206529c6aeee732bfbef197345",
       "summation": "md5"
     },
     {
       "name": "scotusblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658335337",
-      "size": "331776",
-      "md5": "97fee5656b3152a8f1aede0bab01fb58",
-      "crc32": "da931b51",
-      "sha1": "0c672ebcbf659ea4ba86ee90df384bd4491f0964",
+      "mtime": "1658377564",
+      "size": "335872",
+      "md5": "31db1cbb15ab125f833c7d0f7cc13f12",
+      "crc32": "b33231c0",
+      "sha1": "01779deb074ceb0c9b5822e4d0d722596c1d8df5",
       "format": "Metadata"
     },
     {
@@ -2866,9 +2908,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 273,
-  "item_last_updated": 1658339278,
-  "item_size": 26579198,
+  "files_count": 277,
+  "item_last_updated": 1658380089,
+  "item_size": 26954455,
   "metadata": {
     "identifier": "scotusblog-2022",
     "collection": [
@@ -3511,10 +3553,6 @@
       "url": "https://www.scotusblog.com/events/"
     },
     {
-      "text": "STATISTICAL SNAPSHOT: 2021-22 TERM",
-      "url": "/statistics/"
-    },
-    {
       "text": "",
       "url": "https://twitter.com/SCOTUSblog"
     },
@@ -3544,7 +3582,7 @@
     }
   ],
   "server": "ia902503.us.archive.org",
-  "uniq": 891775404,
+  "uniq": 1924925421,
   "workable_servers": [
     "ia902503.us.archive.org",
     "ia802503.us.archive.org"

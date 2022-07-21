@@ -1,5 +1,5 @@
 {
-  "created": 1658363244,
+  "created": 1658405634,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/natgeo-2022",
@@ -1402,31 +1402,73 @@
       "sha1": "6fe672bd94c6a33972ba293738c1677f38945155"
     },
     {
+      "name": "natgeo-2022-07-20T23:35:12.430576-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658374516",
+      "size": "39306",
+      "md5": "14372a90ed4d379a80857832125e0780",
+      "crc32": "e68259ae",
+      "sha1": "dc25e237930cdba755decc8eb54ebc4aa663abed",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-07-20T23:35:12.430576-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658374517",
+      "size": "26264",
+      "md5": "0e4f36a3be781dacf80caeb81355d6ad",
+      "crc32": "bd3a49ad",
+      "sha1": "6f2c813e30608c5ef884fcf000ad08bafdf37835",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-07-20T23:35:12.430576-04:00.jpg",
+      "source": "original",
+      "mtime": "1658374514",
+      "size": "239057",
+      "md5": "4a88edc7d010d32e8ad56ae2dd17e56c",
+      "crc32": "9b866b7c",
+      "sha1": "674d51b8a59a92301281fe8e7d1c128559a6cf09",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "natgeo-2022-07-20T23:35:12.430576-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "natgeo-2022-07-20T23:35:12.430576-04:00.jpg",
+      "mtime": "1658376018",
+      "size": "10213",
+      "md5": "34774804efad1ac75c73c92354cbc9d8",
+      "crc32": "5e7dc0e1",
+      "sha1": "78bfddee603c4fbb772f6d366cfc2673db473f9e"
+    },
+    {
       "name": "natgeo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "657b16ddb7559b7082c6ff5947fca7f0c2f9d9c4",
-      "mtime": "1658337586",
-      "size": "29107",
-      "md5": "f3193dcc2ded380a52f0577631daba03",
-      "crc32": "3b77e42c",
-      "sha1": "4847ef49bc4cebe0cc5caaa1490ee5b7860b411a",
+      "btih": "359d96aca5c62265d34e1171a729efdecf10b532",
+      "mtime": "1658376038",
+      "size": "29949",
+      "md5": "9b470f130d88df3145944428c7e3a9e0",
+      "crc32": "67cd85a3",
+      "sha1": "246c6f520f8ebd3f5679a887ee087db4e7ef6f05",
       "format": "Archive BitTorrent"
     },
     {
       "name": "natgeo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "42c15e67e83428fe484a58ebd04ce683",
+      "md5": "9f31c06aceaeaa896bc9f9b38e9f1902",
       "summation": "md5"
     },
     {
       "name": "natgeo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658333375",
-      "size": "172032",
-      "md5": "febf8b3de217e8e0045084770a9cedc6",
-      "crc32": "7dcb9efd",
-      "sha1": "98a8c7f9b406d6c03e4afc526a555bfbf686380d",
+      "mtime": "1658374522",
+      "size": "176128",
+      "md5": "2daf85e4805b465e765d583b6ab61f2b",
+      "crc32": "015739b0",
+      "sha1": "dc5e68bb6387ee20aab094763ad6d66f0e8058a4",
       "format": "Metadata"
     },
     {
@@ -1440,9 +1482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1658337586,
-  "item_size": 10366839,
+  "files_count": 141,
+  "item_last_updated": 1658376038,
+  "item_size": 10686617,
   "metadata": {
     "identifier": "natgeo-2022",
     "collection": [
@@ -2281,10 +2323,10 @@
       "url": "https://www.onetrust.com/products/cookie-consent/"
     }
   ],
-  "server": "ia601405.us.archive.org",
-  "uniq": 1023794910,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1818864521,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

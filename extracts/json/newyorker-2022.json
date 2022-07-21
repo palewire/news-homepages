@@ -1,5 +1,5 @@
 {
-  "created": 1658363276,
+  "created": 1658405664,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -2822,31 +2822,63 @@
       "sha1": "fdf4589ea8f1dcfa04c7c2a3c96da1441d891a5a"
     },
     {
+      "name": "newyorker-2022-07-20T23:37:18.696238-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658374643",
+      "size": "46274",
+      "md5": "069ad97e04bc1a4cf211b037b1f7ea91",
+      "crc32": "502db02a",
+      "sha1": "45a6bf80b180dab5bcf44682e233ba40b786e5e4",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-07-20T23:37:18.696238-04:00.jpg",
+      "source": "original",
+      "mtime": "1658374641",
+      "size": "347896",
+      "md5": "4e160eea73ceccb79babcc6363054abb",
+      "crc32": "c5beb2c3",
+      "sha1": "c517963a329feb6d2395fae57575769dd4b29da1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-07-20T23:37:18.696238-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-07-20T23:37:18.696238-04:00.jpg",
+      "mtime": "1658376221",
+      "size": "9530",
+      "md5": "75ce03924e20e2e8755869be96e4d838",
+      "crc32": "00055895",
+      "sha1": "971445d4c3d87dbf36b383048c44af0f026baaac"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e0289ddde44303f31c29b5063ba4e3390a3ee05d",
-      "mtime": "1658337612",
-      "size": "58161",
-      "md5": "94e9604db01ddc468229fc7541729dd8",
-      "crc32": "e2594a7d",
-      "sha1": "ff9275b33531c30e03b9a97b4870bdfe22c4420d",
+      "btih": "3676e0887d7b5b03fdf9b988e2bb7f8fb1bb5c80",
+      "mtime": "1658376226",
+      "size": "58802",
+      "md5": "4178b860df23f0d710f694282aab73f9",
+      "crc32": "09bad52d",
+      "sha1": "6f079b8f076c93bde81c253d66978def7484ff6b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c5dbe5ea6d6c668a693bdbfb4dba90b2",
+      "md5": "b4698228ee63a1449e232de9c9dd1e1a",
       "summation": "md5"
     },
     {
       "name": "newyorker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658333441",
+      "mtime": "1658374645",
       "size": "327680",
-      "md5": "a74b6f74f16f4999af1c2fc68f8549cb",
-      "crc32": "838704c3",
-      "sha1": "1b1a30167ac90ca02ede2b6dc74a43f4e36b186c",
+      "md5": "91ebb07fd0e521ca50189c5dfb12ae7d",
+      "crc32": "6b3fe9b3",
+      "sha1": "012c745beedf4e3828c8ead69531edbf8424c1ad",
       "format": "Metadata"
     },
     {
@@ -2860,9 +2892,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 272,
-  "item_last_updated": 1658337612,
-  "item_size": 24969408,
+  "files_count": 275,
+  "item_last_updated": 1658376226,
+  "item_size": 25373749,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -2987,7 +3019,43 @@
           },
           {
             "role": "button",
-            "name": "Dept. of Transportation The VW Bus Took the Sixties on the Road. Now It\u2019s Getting a Makeover Once, it sparked dreams of community and counterculture. What\u2019s gained\u2014and lost\u2014when\u00a0flower power is electrified? By Jill Lepore",
+            "name": "Letter from Silicon Valley Waymo Cars and Honey Bears The logic of scale is imposing a copy-paste sensibility on San Francisco. By Anna Wiener",
+            "children": [
+              {
+                "role": "link",
+                "name": "Letter from Silicon Valley"
+              },
+              {
+                "role": "link",
+                "name": "Waymo Cars and Honey Bears"
+              },
+              {
+                "role": "link",
+                "name": "Anna Wiener"
+              }
+            ]
+          },
+          {
+            "role": "button",
+            "name": "Our Columnists Trump Seeks Money and Revenge in Hosting the New Saudi Golf League The former President ignores protests from 9/11 families and tries to undermine the P.G.A. Tour that shunned him after January 6th. By John Cassidy",
+            "children": [
+              {
+                "role": "link",
+                "name": "Our Columnists"
+              },
+              {
+                "role": "link",
+                "name": "Trump Seeks Money and Revenge in Hosting the New Saudi Golf League"
+              },
+              {
+                "role": "link",
+                "name": "John Cassidy"
+              }
+            ]
+          },
+          {
+            "role": "button",
+            "name": "Dept. of Transportation The VW Bus Is Getting a Makeover In the sixties, it sparked dreams of community and counterculture. What\u2019s gained\u2014and lost\u2014when\u00a0flower power is electrified? By Jill Lepore",
             "children": [
               {
                 "role": "link",
@@ -2995,7 +3063,7 @@
               },
               {
                 "role": "link",
-                "name": "The VW Bus Took the Sixties on the Road. Now It\u2019s Getting a Makeover"
+                "name": "The VW Bus Is Getting a Makeover"
               },
               {
                 "role": "link",
@@ -3023,25 +3091,25 @@
           },
           {
             "role": "button",
-            "name": "Daily Comment Justice Neil Gorsuch\u2019s Radical Reinterpretation of the First Amendment His opinion in the case of a public-high-school football coach who led prayers on the fifty-yard line privileges religious speech. By Fabio Bertoni",
+            "name": "Letter from the South A Bookseller Who Helped Transform Oxford, Mississippi By Casey Cep",
             "children": [
               {
                 "role": "link",
-                "name": "Daily Comment"
+                "name": "Letter from the South"
               },
               {
                 "role": "link",
-                "name": "Justice Neil Gorsuch\u2019s Radical Reinterpretation of the First Amendment"
+                "name": "A Bookseller Who Helped Transform Oxford, Mississippi"
               },
               {
                 "role": "link",
-                "name": "Fabio Bertoni"
+                "name": "Casey Cep"
               }
             ]
           },
           {
             "role": "button",
-            "name": "Letter from Lusanga Can an Artists\u2019 Collective in Africa Repair a Colonial Legacy? Its founders believe that they can use the tools of the Western art world to help heal the effects of more than a century of plunder. By Alice Gregory",
+            "name": "Letter from Lusanga Can an Artists\u2019 Collective in Africa Repair a Colonial Legacy? By Alice Gregory",
             "children": [
               {
                 "role": "link",
@@ -3059,19 +3127,37 @@
           },
           {
             "role": "button",
-            "name": "Q. & A. Alan Dershowitz\u2019s Martha\u2019s Vineyard Cancellation By Isaac Chotiner",
+            "name": "Afterword Ivana Trump Was Always the Boss of Her By Susan Orlean",
             "children": [
               {
                 "role": "link",
-                "name": "Q. & A."
+                "name": "Afterword"
               },
               {
                 "role": "link",
-                "name": "Alan Dershowitz\u2019s Martha\u2019s Vineyard Cancellation"
+                "name": "Ivana Trump Was Always the Boss of Her"
               },
               {
                 "role": "link",
-                "name": "Isaac Chotiner"
+                "name": "Susan Orlean"
+              }
+            ]
+          },
+          {
+            "role": "button",
+            "name": "Daily Comment Justice Neil Gorsuch\u2019s Radical Reinterpretation of the First Amendment By Fabio Bertoni",
+            "children": [
+              {
+                "role": "link",
+                "name": "Daily Comment"
+              },
+              {
+                "role": "link",
+                "name": "Justice Neil Gorsuch\u2019s Radical Reinterpretation of the First Amendment"
+              },
+              {
+                "role": "link",
+                "name": "Fabio Bertoni"
               }
             ]
           },
@@ -3090,64 +3176,6 @@
               {
                 "role": "link",
                 "name": "Sheelah Kolhatkar"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Pop-Up Wyatt Cenac and Donwill Shop for the Blaxploitation Sound By Natalie Meade",
-            "children": [
-              {
-                "role": "link",
-                "name": "Pop-Up"
-              },
-              {
-                "role": "link",
-                "name": "Wyatt Cenac and Donwill Shop for the Blaxploitation Sound"
-              },
-              {
-                "role": "link",
-                "name": "Natalie Meade"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Letter from the Southwest The True Costs of Inflation in Small-Town Texas By Rachel Monroe",
-            "children": [
-              {
-                "role": "link",
-                "name": "Letter from the Southwest"
-              },
-              {
-                "role": "link",
-                "name": "The True Costs of Inflation in Small-Town Texas"
-              },
-              {
-                "role": "link",
-                "name": "Rachel Monroe"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "The New Yorker Documentary Life and Death on an Israeli Sheep Farm Film by Omer Daida Text by Naaman Zhou",
-            "children": [
-              {
-                "role": "link",
-                "name": "The New Yorker Documentary"
-              },
-              {
-                "role": "link",
-                "name": "Life and Death on an Israeli Sheep Farm"
-              },
-              {
-                "role": "link",
-                "name": "Omer Daida"
-              },
-              {
-                "role": "link",
-                "name": "Naaman Zhou"
               }
             ]
           },
@@ -3208,6 +3236,82 @@
           },
           {
             "role": "button",
+            "name": "Pop-Up Wyatt Cenac and Donwill Shop for the Blaxploitation Sound If you attend their\u00a0pop-up\u00a0film series \u201cShouting at the Screen,\u201d prepare to take a drink every time a pimp suit appears onscreen. By Natalie Meade",
+            "children": [
+              {
+                "role": "link",
+                "name": "Pop-Up"
+              },
+              {
+                "role": "link",
+                "name": "Wyatt Cenac and Donwill Shop for the Blaxploitation Sound"
+              },
+              {
+                "role": "link",
+                "name": "Natalie Meade"
+              }
+            ]
+          },
+          {
+            "role": "button",
+            "name": "Q. & A. Alan Dershowitz\u2019s Martha\u2019s Vineyard Cancellation Recently, the emeritus Harvard law professor has felt shunned at his usual haunts. Is it \u201ccancel culture,\u201d or something else? By Isaac Chotiner",
+            "children": [
+              {
+                "role": "link",
+                "name": "Q. & A."
+              },
+              {
+                "role": "link",
+                "name": "Alan Dershowitz\u2019s Martha\u2019s Vineyard Cancellation"
+              },
+              {
+                "role": "link",
+                "name": "Isaac Chotiner"
+              }
+            ]
+          },
+          {
+            "role": "button",
+            "name": "Letter from the Southwest The True Costs of Inflation in Small-Town Texas When R-BBQ had to cut its hours and reduce its portions, the effects rippled through the community. By Rachel Monroe",
+            "children": [
+              {
+                "role": "link",
+                "name": "Letter from the Southwest"
+              },
+              {
+                "role": "link",
+                "name": "The True Costs of Inflation in Small-Town Texas"
+              },
+              {
+                "role": "link",
+                "name": "Rachel Monroe"
+              }
+            ]
+          },
+          {
+            "role": "button",
+            "name": "The New Yorker Documentary Life and Death on an Israeli Sheep Farm In \u201cHerd,\u201d the filmmaker Omer Daida follows a young girl grappling with her love for the natural world and her wish to help her father in his work. Film by Omer Daida Text by Naaman Zhou",
+            "children": [
+              {
+                "role": "link",
+                "name": "The New Yorker Documentary"
+              },
+              {
+                "role": "link",
+                "name": "Life and Death on an Israeli Sheep Farm"
+              },
+              {
+                "role": "link",
+                "name": "Omer Daida"
+              },
+              {
+                "role": "link",
+                "name": "Naaman Zhou"
+              }
+            ]
+          },
+          {
+            "role": "button",
             "name": "Elements The Breathtaking\u2014and Significant\u2014Images from the James Webb Telescope Reminiscent of Vermeer, but carrying news of the origins of the universe, the photos are just the beginning. By Rivka Galchen",
             "children": [
               {
@@ -3262,25 +3366,7 @@
           },
           {
             "role": "button",
-            "name": "Essay Is Abortion Sacred? Abortion is often talked about as a grave act. But bringing a new life into the world can feel like the decision that more clearly risks being a moral mistake. By Jia Tolentino",
-            "children": [
-              {
-                "role": "link",
-                "name": "Essay"
-              },
-              {
-                "role": "link",
-                "name": "Is Abortion Sacred?"
-              },
-              {
-                "role": "link",
-                "name": "Jia Tolentino"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Personal History A Recipe for Forgiveness My father was troubled, moody, and struggled with alcoholism. Making dinner for our family was what brought him back to us. By Helen Longstreth",
+            "name": "Personal History A Recipe for Forgiveness My father was troubled, moody, and struggling with alcoholism. Making dinner for our family was what brought him back to us. By Helen Longstreth",
             "children": [
               {
                 "role": "link",
@@ -3293,60 +3379,6 @@
               {
                 "role": "link",
                 "name": "Helen Longstreth"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Comment Herschel Walker\u2019s Deficits Are Not the Only Cause for Concern His Senate candidacy is a clear example of the warping effect that Donald Trump has had on the G.O.P. nationally. By Jelani Cobb",
-            "children": [
-              {
-                "role": "link",
-                "name": "Comment"
-              },
-              {
-                "role": "link",
-                "name": "Herschel Walker\u2019s Deficits Are Not the Only Cause for Concern"
-              },
-              {
-                "role": "link",
-                "name": "Jelani Cobb"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Photo Booth Wendy Red Star\u2019s Indigenous Gaze The Crow photographer and multimedia artist confronts settler narratives with sly doses of \u201cIndi\u2019n humor.\u201d By Tiffany Midge",
-            "children": [
-              {
-                "role": "link",
-                "name": "Photo Booth"
-              },
-              {
-                "role": "link",
-                "name": "Wendy Red Star\u2019s Indigenous Gaze"
-              },
-              {
-                "role": "link",
-                "name": "Tiffany Midge"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Daily Comment Biden Draws Battle Lines in the Middle East The President rallied Israel and key Arab nations as diplomacy on Iran\u2019s nuclear program falters. By Robin Wright",
-            "children": [
-              {
-                "role": "link",
-                "name": "Daily Comment"
-              },
-              {
-                "role": "link",
-                "name": "Biden Draws Battle Lines in the Middle East"
-              },
-              {
-                "role": "link",
-                "name": "Robin Wright"
               }
             ]
           },
@@ -3462,7 +3494,21 @@
           },
           {
             "role": "button",
-            "name": "Bill McKibben Daily Comment Yet Again, Congress Punts on Serious Climate Legislation",
+            "name": "Jia Tolentino Essay Is Abortion Sacred?",
+            "children": [
+              {
+                "role": "link",
+                "name": "Essay"
+              },
+              {
+                "role": "link",
+                "name": "Is Abortion Sacred?"
+              }
+            ]
+          },
+          {
+            "role": "button",
+            "name": "Robin Wright Daily Comment Biden Caters to Autocrats and Draws Battle Lines in the Middle East",
             "children": [
               {
                 "role": "link",
@@ -3470,35 +3516,7 @@
               },
               {
                 "role": "link",
-                "name": "Yet Again, Congress Punts on Serious Climate Legislation"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Mary Norris Culture Desk My Last Visit with John Bennet",
-            "children": [
-              {
-                "role": "link",
-                "name": "Culture Desk"
-              },
-              {
-                "role": "link",
-                "name": "My Last Visit with John Bennet"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Jennifer Gonnerman Our Local Correspondents Proving That the State Killed Your Son",
-            "children": [
-              {
-                "role": "link",
-                "name": "Our Local Correspondents"
-              },
-              {
-                "role": "link",
-                "name": "Proving That the State Killed Your Son"
+                "name": "Biden Caters to Autocrats and Draws Battle Lines in the Middle East"
               }
             ]
           },
@@ -3532,6 +3550,48 @@
           },
           {
             "role": "button",
+            "name": "Mary Norris Culture Desk My Last Visit with John Bennet",
+            "children": [
+              {
+                "role": "link",
+                "name": "Culture Desk"
+              },
+              {
+                "role": "link",
+                "name": "My Last Visit with John Bennet"
+              }
+            ]
+          },
+          {
+            "role": "button",
+            "name": "Jennifer Gonnerman Our Local Correspondents Proving That the State Killed Your Son",
+            "children": [
+              {
+                "role": "link",
+                "name": "Our Local Correspondents"
+              },
+              {
+                "role": "link",
+                "name": "Proving That the State Killed Your Son"
+              }
+            ]
+          },
+          {
+            "role": "button",
+            "name": "Bill McKibben Daily Comment Yet Again, Congress Punts on Serious Climate Legislation",
+            "children": [
+              {
+                "role": "link",
+                "name": "Daily Comment"
+              },
+              {
+                "role": "link",
+                "name": "Yet Again, Congress Punts on Serious Climate Legislation"
+              }
+            ]
+          },
+          {
+            "role": "button",
             "name": "Naomi Fry Culture Desk How Victoria\u2019s Secret Created the American Fantasy Woman",
             "children": [
               {
@@ -3541,34 +3601,6 @@
               {
                 "role": "link",
                 "name": "How Victoria\u2019s Secret Created the American Fantasy Woman"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "John Cassidy Our Columnists Joe Manchin Plays the Role of Wrecker, Again",
-            "children": [
-              {
-                "role": "link",
-                "name": "Our Columnists"
-              },
-              {
-                "role": "link",
-                "name": "Joe Manchin Plays the Role of Wrecker, Again"
-              }
-            ]
-          },
-          {
-            "role": "button",
-            "name": "Eliza Griswold Dispatch The Kids Who Lost Parents to covid",
-            "children": [
-              {
-                "role": "link",
-                "name": "Dispatch"
-              },
-              {
-                "role": "link",
-                "name": "The Kids Who Lost Parents to covid"
               }
             ]
           },
@@ -4115,7 +4147,7 @@
     ]
   },
   "server": "ia601503.us.archive.org",
-  "uniq": 293997852,
+  "uniq": 1626634036,
   "workable_servers": [
     "ia601503.us.archive.org",
     "ia801503.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1658363666,
+  "created": 1658405956,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -8042,31 +8042,73 @@
       "sha1": "ef4ba3dd8929eb564928a262fa07dde62587cfe2"
     },
     {
+      "name": "washtimes-2022-07-21T00:33:21.506536-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658378011",
+      "size": "97598",
+      "md5": "e0072d504525ba074d5e0442b572bc24",
+      "crc32": "473a4bd6",
+      "sha1": "9ae9474d1d275a21a3ed3cc77e84004380e78405",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-07-21T00:33:21.506536-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658378013",
+      "size": "60515",
+      "md5": "5a9b083e4cb90b051ca1bedb2d8a06ec",
+      "crc32": "c24b7473",
+      "sha1": "d6f9e77fe8149e1b52c5a2ac004a0e1fd2d53f67",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-07-21T00:33:21.506536-04:00.jpg",
+      "source": "original",
+      "mtime": "1658378009",
+      "size": "350154",
+      "md5": "d591be3499969821682487441acd7ac4",
+      "crc32": "8a2a23c9",
+      "sha1": "48ca74d4ffc9a28ab7dd17626d7095c0e3cef143",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-07-21T00:33:21.506536-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-07-21T00:33:21.506536-04:00.jpg",
+      "mtime": "1658380478",
+      "size": "10984",
+      "md5": "099cc5bfd7ba2f8ff6c7b639feaa0e87",
+      "crc32": "2d7bd029",
+      "sha1": "8d4837ecbce5742d595fddb51b5f33d8c52cc143"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f7c601145c2dfe4ac7ea64cc62fcc4f741db7ab",
-      "mtime": "1658339936",
-      "size": "164721",
-      "md5": "c0aaefd87b1e8ba84bb26e3ef7c72bf6",
-      "crc32": "fdbc758b",
-      "sha1": "b2bd75c33b0235cc9fd5c3843f6afb28d3dbf94f",
+      "btih": "2a93edf340ee5f0e77af57ceb9be48b2b494548c",
+      "mtime": "1658380559",
+      "size": "165575",
+      "md5": "e493c8846829d9363f8eddef5fc3010b",
+      "crc32": "8c087a4e",
+      "sha1": "ff955da5cbd4180106b4490fa3592b92b7c9dc62",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e06cc8db35751e39221a61ffcb7dbcb4",
+      "md5": "85d317b49d49f5de8d49d0d9e6821a5e",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658336225",
-      "size": "888832",
-      "md5": "948d8c0cdcdc933de2c65bc55534f841",
-      "crc32": "69bb4279",
-      "sha1": "a2a100c4d5b0e5b35256ee863efd605acffd9d49",
+      "mtime": "1658378016",
+      "size": "892928",
+      "md5": "d943f17527b3f80f315e1dfa40fb398c",
+      "crc32": "ae74b30a",
+      "sha1": "1185a3f06acd566f54bf3afc45e22c3be5a0e4c2",
       "format": "Metadata"
     },
     {
@@ -8080,9 +8122,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 769,
-  "item_last_updated": 1658339936,
-  "item_size": 100216104,
+  "files_count": 773,
+  "item_last_updated": 1658380559,
+  "item_size": 100740305,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -8099,8 +8141,8 @@
     "publicdate": "2022-03-25 18:45:19",
     "addeddate": "2022-03-25 18:45:19"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 13303801,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1132591360,
   "washtimes-2022": [
     {
       "text": "Skip to content",
@@ -8651,8 +8693,24 @@
       "url": "/topics/donald-trump/"
     },
     {
+      "text": "China",
+      "url": "/topics/china/"
+    },
+    {
       "text": "Senate",
       "url": "/topics/senate/"
+    },
+    {
+      "text": "Supreme Court",
+      "url": "/topics/supreme-court/"
+    },
+    {
+      "text": "Ukraine",
+      "url": "/topics/ukraine/"
+    },
+    {
+      "text": "Jill Biden",
+      "url": "/topics/jill-biden/"
     },
     {
       "text": "Joe Biden",
@@ -8663,104 +8721,88 @@
       "url": "/topics/los-angeles/"
     },
     {
-      "text": "Supreme Court",
-      "url": "/topics/supreme-court/"
+      "text": "",
+      "url": "/news/2022/jul/20/steve-bannon-criminal-contempt-trial-prosecution-r/"
     },
     {
-      "text": "New York",
-      "url": "/topics/new-york/"
-    },
-    {
-      "text": "New York City",
-      "url": "/topics/new-york-city/"
-    },
-    {
-      "text": "Alex Murdaugh",
-      "url": "/topics/alex-murdaugh/"
+      "text": "Prosecution rests case in Steve Bannon criminal contempt trial",
+      "url": "/news/2022/jul/20/steve-bannon-criminal-contempt-trial-prosecution-r/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/larry-hogan-will-not-vote-maryland-gop-gubernatori/"
+      "url": "/news/2022/jul/20/william-burns-cia-chief-says-china-plans-taiwan-ta/"
     },
     {
-      "text": "Maryland Gov. Larry Hogan will not vote for GOP gubernatorial nominee Dan Cox",
-      "url": "/news/2022/jul/20/larry-hogan-will-not-vote-maryland-gop-gubernatori/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/20/alex-murdaugh-disbarred-south-carolina-attorney-pl/"
-    },
-    {
-      "text": "Alex Murdaugh, disbarred South Carolina attorney, pleads not guilty to murdering wife and son",
-      "url": "/news/2022/jul/20/alex-murdaugh-disbarred-south-carolina-attorney-pl/"
+      "text": "CIA chief: China set for takeover of Taiwan in next few years",
+      "url": "/news/2022/jul/20/william-burns-cia-chief-says-china-plans-taiwan-ta/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/secret-service-yet-uncover-missing-jan-6-texts-hou/"
+      "url": "/news/2022/jul/20/joe-biden-says-he-has-cancer-fossil-fuel-emissions/"
     },
     {
-      "text": "Secret Service yet to uncover missing Jan. 6 texts for House probe",
-      "url": "/news/2022/jul/20/secret-service-yet-uncover-missing-jan-6-texts-hou/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/20/wisconsin-lawmaker-trump-called-again-about-decert/"
-    },
-    {
-      "text": "Wisconsin lawmaker: Trump called again about decertifying the election",
-      "url": "/news/2022/jul/20/wisconsin-lawmaker-trump-called-again-about-decert/"
+      "text": "Biden says he has cancer from fossil-fuel emissions in latest gaffe",
+      "url": "/news/2022/jul/20/joe-biden-says-he-has-cancer-fossil-fuel-emissions/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/steve-bannon-rips-bennie-thomson-not-showing-conte/"
+      "url": "/news/2022/jul/20/the-mouth-of-a-bear-ukrainian-refugees-sent-to-rus/"
     },
     {
-      "text": "\u2018Gutless\u2019: Steve Bannon rips Bennie Thomson for not showing up for contempt trial",
-      "url": "/news/2022/jul/19/steve-bannon-rips-bennie-thomson-not-showing-conte/"
+      "text": "\u2018The mouth of a bear\u2019: Ukrainian refugees sent to Russia",
+      "url": "/news/2022/jul/20/the-mouth-of-a-bear-ukrainian-refugees-sent-to-rus/"
     },
     {
       "text": "",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D1&id=id1&path=%2F&date=7%2F20%2F2022"
+      "url": "/news/2022/jul/19/justices-face-challenge-over-trump-judges/"
+    },
+    {
+      "text": "Supreme Court asked to punish Texas over use of \u2018Trump judges\u2019",
+      "url": "/news/2022/jul/19/justices-face-challenge-over-trump-judges/"
+    },
+    {
+      "text": "",
+      "url": "https://api.innerskinresearch.com/alternRD/?s=img&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D2&id=id2&path=%2F&date=7%2F21%2F2022"
     },
     {
       "text": "Doctor: \u201cDoing This Every Morning Can Snap Back Sagging Skin (No Creams Needed)\u201d",
-      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D1&id=id1&path=%2F&date=7%2F20%2F2022"
+      "url": "https://api.innerskinresearch.com/alternRD/?s=html&url=https%3A%2F%2Fwww2.innerskinresearch.com%2Fcid%2F7013w000001vCvaAAE%3Fsubid4%3D2&id=id2&path=%2F&date=7%2F21%2F2022"
     },
     {
-      "text": "Train and arm teachers. They would be the 'unknown factor' in every single school",
-      "url": "https://www.washingtontimes.com/news/2022/jun/7/train-and-arm-teachers-they-would-be-the-unknown-f/"
+      "text": "Jill to Joe Biden: It's over",
+      "url": "https://www.washingtontimes.com/news/2022/jul/20/jill-to-joe-biden-its-over/"
     },
     {
-      "text": "Justice Gorsuch lays out Constitution's separation of powers with remarkable clarity",
-      "url": "https://www.washingtontimes.com/news/2022/jul/19/gorsuch-lays-out-constitutions-separation-powers-r/"
+      "text": "China is not the Soviet Union, Beijing's ambassador tells security conference",
+      "url": "https://www.washingtontimes.com/news/2022/jul/20/china-not-soviet-union-beijings-ambassador-qin-gon/"
     },
     {
-      "text": "'Gutless': Steve Bannon rips Bennie Thomson for not showing up for contempt trial",
-      "url": "https://www.washingtontimes.com/news/2022/jul/19/steve-bannon-rips-bennie-thomson-not-showing-conte/"
+      "text": "Joe Biden says he has cancer from fossil-fuel emissions in latest gaffe",
+      "url": "https://www.washingtontimes.com/news/2022/jul/20/joe-biden-says-he-has-cancer-fossil-fuel-emissions/"
     },
     {
-      "text": "Michigan Gov. Gretchen Whitmer set to veto funding for adoption, pro-life pregnancy centers",
-      "url": "https://www.washingtontimes.com/news/2022/jul/19/gretchen-whitmer-veto-funding-adoption-alternative/"
+      "text": "Jill Biden hates half of America",
+      "url": "https://www.washingtontimes.com/news/2022/jul/20/jill-biden-hates-half-of-america/"
     },
     {
-      "text": "White House eyeing press shop shakeup as Biden tries to boost fortunes: Report",
-      "url": "https://www.washingtontimes.com/news/2022/jul/20/white-house-eyeing-press-shop-shakeup-joe-biden-tr/"
+      "text": "400-pound ray jumps into boat and gives birth during fishing event",
+      "url": "https://www.washingtontimes.com/news/2022/jul/20/400-pound-ray-jumps-boat-and-gives-birth-during-fi/"
     },
     {
       "text": "Inside The Beltway",
       "url": "/news/inside-the-beltway/"
     },
     {
-      "text": "A year of near-silence from the major media on border crisis",
-      "url": "/news/2022/jul/19/inside-beltway-year-media-silence/"
+      "text": "So is the sky falling yet? Or is it Biden\u2019s climate agenda?",
+      "url": "/news/2022/jul/20/inside-beltway-so-sky-falling-yet/"
     },
     {
       "text": "Inside The Ring",
       "url": "/news/inside-the-ring/"
     },
     {
-      "text": "Navy warship marks S. China Sea ruling anniversary",
-      "url": "/news/2022/jul/13/navy-warship-marks-south-china-sea-ruling-annivers/"
+      "text": "Space Force leader backs soft Biden agenda",
+      "url": "/news/2022/jul/20/inside-ring-space-force-leader-backs-soft-biden-ag/"
     },
     {
       "text": "Nuclear Option",
@@ -8803,16 +8845,12 @@
       "url": "//www.washingtontimes.com/puzzles/sudoku/"
     },
     {
-      "text": "Biden ready to invoke \u2018domestic mobilization\u2019 against climate crisis after Congress failed",
-      "url": "/news/2022/jul/19/biden-ready-declare-climate-emergency-flex-executi/"
+      "text": "Defense bill directs Pentagon to end costly search for extremism in military ranks",
+      "url": "/news/2022/jul/20/senators-flag-pentagon-excessive-spending-looking-/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/biden-ready-declare-climate-emergency-flex-executi/"
-    },
-    {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
+      "url": "/news/2022/jul/20/senators-flag-pentagon-excessive-spending-looking-/"
     },
     {
       "text": "Susan Ferrechio",
@@ -8820,71 +8858,71 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/merriam-webster-includes-gender-identity-updated-d/"
+      "url": "/news/2022/jul/20/mike-pence-returns-capitol-and-embraced-gop-lawmak/"
     },
     {
-      "text": "Merriam-Webster\u2019s \u2018female\u2019 definition now includes nod to gender identity",
-      "url": "/news/2022/jul/20/merriam-webster-includes-gender-identity-updated-d/"
+      "text": "Mike Pence returns to Capitol and is embraced by GOP lawmakers \u2014 behind closed doors",
+      "url": "/news/2022/jul/20/mike-pence-returns-capitol-and-embraced-gop-lawmak/"
     },
     {
-      "text": "Matt Delaney",
-      "url": "https://www.washingtontimes.com/staff/matt-delaney/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/19/big-city-mayors-ask-federal-money-after-surge-ille/"
-    },
-    {
-      "text": "Cities swarmed with asylum seekers plead for aid",
-      "url": "/news/2022/jul/19/big-city-mayors-ask-federal-money-after-surge-ille/"
-    },
-    {
-      "text": "Stephen Dinan",
-      "url": "https://www.washingtontimes.com/staff/stephen-dinan/"
+      "text": "Seth McLaughlin",
+      "url": "https://www.washingtontimes.com/staff/seth-mclaughlin/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/democrats-see-opening-squeeze-marijuana-legislatio/"
+      "url": "/news/2022/jul/20/gop-lawmaker-calls-atf-explain-video-agents-asking/"
     },
     {
-      "text": "Democrats turn to marijuana after failure on Biden\u2019s agenda",
-      "url": "/news/2022/jul/19/democrats-see-opening-squeeze-marijuana-legislatio/"
+      "text": "GOP lawmaker calls on ATF to explain video of agents asking firearms owner for gun serial numbers",
+      "url": "/news/2022/jul/20/gop-lawmaker-calls-atf-explain-video-agents-asking/"
     },
     {
-      "text": "Susan Ferrechio",
-      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/19/possible-recession-looms-anniversary-bidens-predic/"
-    },
-    {
-      "text": "Possible recession looms on anniversary of Biden's prediction of 'temporary' inflation",
-      "url": "/news/2022/jul/19/possible-recession-looms-anniversary-bidens-predic/"
+      "text": "Kerry Picket",
+      "url": "https://www.washingtontimes.com/staff/kerry-picket/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/house-gop-calls-probe-bidens-mismanagement-oil-res/"
+      "url": "/news/2022/jul/20/blue-state-push-remove-abortion-barriers-spurs-gos/"
     },
     {
-      "text": "House GOP calls for probe into Biden's 'mismanagement' of oil reserves after overseas sales",
-      "url": "/news/2022/jul/19/house-gop-calls-probe-bidens-mismanagement-oil-res/"
+      "text": "\u2018Serial Killer\u2019 podcast raises Gosnell warning with abortion laws in flux",
+      "url": "/news/2022/jul/20/blue-state-push-remove-abortion-barriers-spurs-gos/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/19/democrats-roll-out-long-wishlist-climate-change-ex/"
-    },
-    {
-      "text": "Democrats roll out wish list of climate change executive orders for Biden",
-      "url": "/news/2022/jul/19/democrats-roll-out-long-wishlist-climate-change-ex/"
+      "text": "Valerie Richardson",
+      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/white-house-says-ample-evidence-russia-intends-ann/"
+      "url": "/news/2022/jul/20/biden-unveils-executive-action-climate-change-stop/"
     },
     {
-      "text": "White House says there's 'ample evidence' Russia intends to annex additional Ukrainian territory",
-      "url": "/news/2022/jul/19/white-house-says-ample-evidence-russia-intends-ann/"
+      "text": "Biden unveils executive action on climate change but stops far short of declaring national emergency",
+      "url": "/news/2022/jul/20/biden-unveils-executive-action-climate-change-stop/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/house-gop-bets-mike-lawlers-run-oust-dccc-chair-ne/"
+    },
+    {
+      "text": "House GOP bets on assemblyman's run to oust DCCC chair in New York congressional district",
+      "url": "/news/2022/jul/20/house-gop-bets-mike-lawlers-run-oust-dccc-chair-ne/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/pentagon-pulls-more-rocket-launchers-us-inventory-/"
+    },
+    {
+      "text": "U.S. steps up rocket shipments to Ukraine amid intense fighting in Donbas region",
+      "url": "/news/2022/jul/20/pentagon-pulls-more-rocket-launchers-us-inventory-/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/china-not-soviet-union-beijings-ambassador-qin-gon/"
+    },
+    {
+      "text": "China is not the Soviet Union, Beijing's ambassador tells security conference",
+      "url": "/news/2022/jul/20/china-not-soviet-union-beijings-ambassador-qin-gon/"
     },
     {
       "text": "",
@@ -8896,47 +8934,47 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/larry-hogan-will-not-vote-maryland-gop-gubernatori/"
+      "url": "/news/2022/jul/20/steve-bannon-criminal-contempt-trial-prosecution-r/"
     },
     {
-      "text": "Maryland Gov. Larry Hogan will not vote for GOP gubernatorial nominee Dan Cox",
-      "url": "/news/2022/jul/20/larry-hogan-will-not-vote-maryland-gop-gubernatori/"
+      "text": "Prosecution rests case in Steve Bannon criminal contempt trial",
+      "url": "/news/2022/jul/20/steve-bannon-criminal-contempt-trial-prosecution-r/"
     },
     {
-      "text": "Seth McLaughlin",
-      "url": "https://www.washingtontimes.com/staff/seth-mclaughlin/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/20/alex-murdaugh-disbarred-south-carolina-attorney-pl/"
-    },
-    {
-      "text": "Alex Murdaugh, disbarred South Carolina attorney, pleads not guilty to murdering wife and son",
-      "url": "/news/2022/jul/20/alex-murdaugh-disbarred-south-carolina-attorney-pl/"
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/secret-service-yet-uncover-missing-jan-6-texts-hou/"
+      "url": "/news/2022/jul/20/william-burns-cia-chief-says-china-plans-taiwan-ta/"
     },
     {
-      "text": "Secret Service yet to uncover missing Jan. 6 texts for House probe",
-      "url": "/news/2022/jul/20/secret-service-yet-uncover-missing-jan-6-texts-hou/"
+      "text": "CIA chief: China set for takeover of Taiwan in next few years",
+      "url": "/news/2022/jul/20/william-burns-cia-chief-says-china-plans-taiwan-ta/"
     },
     {
-      "text": "Mica Soellner",
-      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
+      "text": "Bill Gertz",
+      "url": "https://www.washingtontimes.com/staff/bill-gertz/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/wisconsin-lawmaker-trump-called-again-about-decert/"
+      "url": "/news/2022/jul/20/joe-biden-says-he-has-cancer-fossil-fuel-emissions/"
     },
     {
-      "text": "Wisconsin lawmaker: Trump called again about decertifying the election",
-      "url": "/news/2022/jul/20/wisconsin-lawmaker-trump-called-again-about-decert/"
+      "text": "Biden says he has cancer from fossil-fuel emissions in latest gaffe",
+      "url": "/news/2022/jul/20/joe-biden-says-he-has-cancer-fossil-fuel-emissions/"
     },
     {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+      "text": "Victor Morton",
+      "url": "https://www.washingtontimes.com/staff/victor-morton/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/the-mouth-of-a-bear-ukrainian-refugees-sent-to-rus/"
+    },
+    {
+      "text": "\u2018The mouth of a bear\u2019: Ukrainian refugees sent to Russia",
+      "url": "/news/2022/jul/20/the-mouth-of-a-bear-ukrainian-refugees-sent-to-rus/"
     },
     {
       "text": "Culture",
@@ -8945,6 +8983,18 @@
     {
       "text": "View all ",
       "url": "/culture/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/marina-volz-trans-child-porn-convict-new-jersey-wo/"
+    },
+    {
+      "text": "Trans woman convicted of child pornography serving time at New Jersey women\u2019s prison",
+      "url": "/news/2022/jul/20/marina-volz-trans-child-porn-convict-new-jersey-wo/"
+    },
+    {
+      "text": "Matt Delaney",
+      "url": "https://www.washingtontimes.com/staff/matt-delaney/"
     },
     {
       "text": "",
@@ -8972,14 +9022,6 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/ivana-trumps-life-to-be-celebrated-at-a-funeral-ma/"
-    },
-    {
-      "text": "Ivana Trump\u2019s life to be celebrated at a funeral Mass in NYC",
-      "url": "/news/2022/jul/20/ivana-trumps-life-to-be-celebrated-at-a-funeral-ma/"
-    },
-    {
-      "text": "",
       "url": "/news/2022/jul/19/aoc-omar-fake-being-handcuffed-protest-outside-sup/"
     },
     {
@@ -9000,31 +9042,39 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/possible-recession-looms-anniversary-bidens-predic/"
+      "url": "/news/2022/jul/20/joe-biden-says-he-has-cancer-fossil-fuel-emissions/"
     },
     {
-      "text": "Possible recession looms on anniversary of Biden\u2019s prediction of \u2018temporary\u2019 inflation",
-      "url": "/news/2022/jul/19/possible-recession-looms-anniversary-bidens-predic/"
+      "text": "Biden says he has cancer from fossil-fuel emissions in latest gaffe",
+      "url": "/news/2022/jul/20/joe-biden-says-he-has-cancer-fossil-fuel-emissions/"
     },
     {
-      "text": "Dave Boyer",
-      "url": "https://www.washingtontimes.com/staff/dave-boyer/"
+      "text": "Victor Morton",
+      "url": "https://www.washingtontimes.com/staff/victor-morton/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/biden-ready-declare-climate-emergency-flex-executi/"
+      "url": "/news/2022/jul/20/biden-unveils-executive-action-climate-change-stop/"
     },
     {
-      "text": "Biden ready to invoke \u2018domestic mobilization\u2019 against climate crisis after Congress failed",
-      "url": "/news/2022/jul/19/biden-ready-declare-climate-emergency-flex-executi/"
+      "text": "Biden unveils executive action on climate change but stops far short of declaring national emergency",
+      "url": "/news/2022/jul/20/biden-unveils-executive-action-climate-change-stop/"
     },
     {
-      "text": "Jeff Mordock",
-      "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
+      "text": "Ramsey Touchberry",
+      "url": "https://www.washingtontimes.com/staff/ramsey-touchberry/"
     },
     {
-      "text": "Susan Ferrechio",
-      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
+      "text": "",
+      "url": "/news/2022/jul/20/white-house-eyeing-press-shop-shakeup-joe-biden-tr/"
+    },
+    {
+      "text": "White House eyeing press shop shake-up as Biden tries to boost fortunes: Report",
+      "url": "/news/2022/jul/20/white-house-eyeing-press-shop-shakeup-joe-biden-tr/"
+    },
+    {
+      "text": "Tom Howell Jr.",
+      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
     },
     {
       "text": "",
@@ -9039,18 +9089,6 @@
       "url": "https://www.washingtontimes.com/staff/jeff-mordock/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/19/jill-biden-approval-rating-sinks-new-low/"
-    },
-    {
-      "text": "Jill Biden\u2019s approval rating sinks to new low",
-      "url": "/news/2022/jul/19/jill-biden-approval-rating-sinks-new-low/"
-    },
-    {
-      "text": "Victor Morton",
-      "url": "https://www.washingtontimes.com/staff/victor-morton/"
-    },
-    {
       "text": "Politics",
       "url": "/news/politics/"
     },
@@ -9060,35 +9098,35 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/secret-service-yet-uncover-missing-jan-6-texts-hou/"
+      "url": "/news/2022/jul/20/mike-pence-returns-capitol-and-embraced-gop-lawmak/"
     },
     {
-      "text": "Secret Service yet to uncover missing Jan. 6 texts for House probe",
-      "url": "/news/2022/jul/20/secret-service-yet-uncover-missing-jan-6-texts-hou/"
+      "text": "Mike Pence returns to Capitol and is embraced by GOP lawmakers \u2014 behind closed doors",
+      "url": "/news/2022/jul/20/mike-pence-returns-capitol-and-embraced-gop-lawmak/"
     },
     {
-      "text": "Mica Soellner",
-      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/20/wisconsin-lawmaker-trump-called-again-about-decert/"
-    },
-    {
-      "text": "Wisconsin lawmaker: Trump called again about decertifying the election",
-      "url": "/news/2022/jul/20/wisconsin-lawmaker-trump-called-again-about-decert/"
-    },
-    {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+      "text": "Seth McLaughlin",
+      "url": "https://www.washingtontimes.com/staff/seth-mclaughlin/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/house-gop-bets-mike-lawlers-run-oust-dccc-chair-ne/"
+      "url": "/news/2022/jul/20/steve-bannon-criminal-contempt-trial-prosecution-r/"
     },
     {
-      "text": "House GOP bets on assemblyman\u2019s run to oust DCCC chair in New York congressional district",
-      "url": "/news/2022/jul/20/house-gop-bets-mike-lawlers-run-oust-dccc-chair-ne/"
+      "text": "Prosecution rests case in Steve Bannon criminal contempt trial",
+      "url": "/news/2022/jul/20/steve-bannon-criminal-contempt-trial-prosecution-r/"
+    },
+    {
+      "text": "Joseph Clark",
+      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/gop-lawmaker-calls-atf-explain-video-agents-asking/"
+    },
+    {
+      "text": "GOP lawmaker calls on ATF to explain video of agents asking firearms owner for gun serial numbers",
+      "url": "/news/2022/jul/20/gop-lawmaker-calls-atf-explain-video-agents-asking/"
     },
     {
       "text": "Kerry Picket",
@@ -9096,15 +9134,15 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/house-dems-pass-gay-marriage-protection-bill-shore/"
+      "url": "/news/2022/jul/20/senators-flag-pentagon-excessive-spending-looking-/"
     },
     {
-      "text": "House Dems pass same-sex marriage protection bill, shore up messaging for midterm campaigns",
-      "url": "/news/2022/jul/19/house-dems-pass-gay-marriage-protection-bill-shore/"
+      "text": "Defense bill directs Pentagon to end costly search for extremism in military ranks",
+      "url": "/news/2022/jul/20/senators-flag-pentagon-excessive-spending-looking-/"
     },
     {
-      "text": "Mica Soellner",
-      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
+      "text": "Susan Ferrechio",
+      "url": "https://www.washingtontimes.com/staff/susan-ferrechio/"
     },
     {
       "text": "Dive Deeper",
@@ -9156,43 +9194,51 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/uvalde-schools-looking-to-fire-police-chief-after-/"
+      "url": "/news/2022/jul/19/justices-face-challenge-over-trump-judges/"
     },
     {
-      "text": "Uvalde schools looking to fire police chief after shooting",
-      "url": "/news/2022/jul/20/uvalde-schools-looking-to-fire-police-chief-after-/"
+      "text": "Supreme Court asked to punish Texas over use of \u2018Trump judges\u2019",
+      "url": "/news/2022/jul/19/justices-face-challenge-over-trump-judges/"
     },
     {
-      "text": "",
-      "url": "/news/2022/jul/20/alex-murdaugh-disbarred-south-carolina-attorney-pl/"
-    },
-    {
-      "text": "Alex Murdaugh, disbarred South Carolina attorney, pleads not guilty to murdering wife and son",
-      "url": "/news/2022/jul/20/alex-murdaugh-disbarred-south-carolina-attorney-pl/"
+      "text": "Stephen Dinan",
+      "url": "https://www.washingtontimes.com/staff/stephen-dinan/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/mega-millions-jackpot-grows-more-600-million/"
+      "url": "/news/2022/jul/20/blue-state-push-remove-abortion-barriers-spurs-gos/"
     },
     {
-      "text": "Mega Millions jackpot grows to more than $600 million",
-      "url": "/news/2022/jul/20/mega-millions-jackpot-grows-more-600-million/"
+      "text": "\u2018Serial Killer\u2019 podcast raises Gosnell warning with abortion laws in flux",
+      "url": "/news/2022/jul/20/blue-state-push-remove-abortion-barriers-spurs-gos/"
     },
     {
-      "text": "Matt Delaney",
-      "url": "https://www.washingtontimes.com/staff/matt-delaney/"
+      "text": "Valerie Richardson",
+      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/cdc-ends-color-coded-covid-19-monitoring-system/"
+      "url": "/news/2022/jul/20/homero-zamorano-jr-christian-martinez-of-pasadena-/"
     },
     {
-      "text": "CDC ends color-coded COVID-19 monitoring system",
-      "url": "/news/2022/jul/20/cdc-ends-color-coded-covid-19-monitoring-system/"
+      "text": "Grand jury charges two men with smuggling operation that killed 53 migrants",
+      "url": "/news/2022/jul/20/homero-zamorano-jr-christian-martinez-of-pasadena-/"
     },
     {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+      "text": "Stephen Dinan",
+      "url": "https://www.washingtontimes.com/staff/stephen-dinan/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/immigration-related-lockdowns-fed-lack-vigilance-u/"
+    },
+    {
+      "text": "Immigration-related lockdowns fed lack of \u2018vigilance\u2019 in Uvalde, Texas report says",
+      "url": "/news/2022/jul/20/immigration-related-lockdowns-fed-lack-vigilance-u/"
+    },
+    {
+      "text": "Vaughn Cockayne",
+      "url": "https://www.washingtontimes.com/staff/vaughn-cockayne/"
     },
     {
       "text": "World",
@@ -9204,11 +9250,31 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/south-korea-flies-first-homegrown-supersonic-jet-f/"
+      "url": "/news/2022/jul/20/william-burns-cia-chief-says-china-plans-taiwan-ta/"
     },
     {
-      "text": "South Korea flies first homegrown supersonic jet fighter",
-      "url": "/news/2022/jul/20/south-korea-flies-first-homegrown-supersonic-jet-f/"
+      "text": "CIA chief: China set for takeover of Taiwan in next few years",
+      "url": "/news/2022/jul/20/william-burns-cia-chief-says-china-plans-taiwan-ta/"
+    },
+    {
+      "text": "Bill Gertz",
+      "url": "https://www.washingtontimes.com/staff/bill-gertz/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/the-mouth-of-a-bear-ukrainian-refugees-sent-to-rus/"
+    },
+    {
+      "text": "\u2018The mouth of a bear\u2019: Ukrainian refugees sent to Russia",
+      "url": "/news/2022/jul/20/the-mouth-of-a-bear-ukrainian-refugees-sent-to-rus/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/pentagon-pulls-more-rocket-launchers-us-inventory-/"
+    },
+    {
+      "text": "U.S. steps up rocket shipments to Ukraine amid intense fighting in Donbas region",
+      "url": "/news/2022/jul/20/pentagon-pulls-more-rocket-launchers-us-inventory-/"
     },
     {
       "text": "Mike Glenn",
@@ -9216,43 +9282,15 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/climate-activists-target-uk-media-offices-over-che/"
+      "url": "/news/2022/jul/20/china-not-soviet-union-beijings-ambassador-qin-gon/"
     },
     {
-      "text": "Climate activists target UK media offices over cheery heat wave coverage",
-      "url": "/news/2022/jul/20/climate-activists-target-uk-media-offices-over-che/"
+      "text": "China is not the Soviet Union, Beijing\u2019s ambassador tells security conference",
+      "url": "/news/2022/jul/20/china-not-soviet-union-beijings-ambassador-qin-gon/"
     },
     {
-      "text": "Matt Delaney",
-      "url": "https://www.washingtontimes.com/staff/matt-delaney/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/20/eu-draws-up-energy-plan-in-case-of-russian-gas-cut/"
-    },
-    {
-      "text": "EU draws up energy plan in case of Russian gas cutoff, urges its members to cut use by 15%",
-      "url": "/news/2022/jul/20/eu-draws-up-energy-plan-in-case-of-russian-gas-cut/"
-    },
-    {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/19/china-threatens-strong-response-if-nancy-pelosi-vi/"
-    },
-    {
-      "text": "China threatens strong response if Pelosi visits Taiwan",
-      "url": "/news/2022/jul/19/china-threatens-strong-response-if-nancy-pelosi-vi/"
-    },
-    {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
-    },
-    {
-      "text": "Kerry Picket",
-      "url": "https://www.washingtontimes.com/staff/kerry-picket/"
+      "text": "Bill Gertz",
+      "url": "https://www.washingtontimes.com/staff/bill-gertz/"
     },
     {
       "text": "Sports",
@@ -9264,19 +9302,11 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/stanton-buxton-hrs-lead-al-over-nl-for-9th-straigh/"
+      "url": "/news/2022/jul/20/older-team-capitals-have-variety-spots-grabs/"
     },
     {
-      "text": "Stanton, Buxton HRs lead AL over NL for 9th straight ASG win",
-      "url": "/news/2022/jul/19/stanton-buxton-hrs-lead-al-over-nl-for-9th-straigh/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/19/deshazor-everett-pleads-guilty-reckless-driving-af/"
-    },
-    {
-      "text": "Deshazor Everett pleads guilty to reckless driving after fatal car accident",
-      "url": "/news/2022/jul/19/deshazor-everett-pleads-guilty-reckless-driving-af/"
+      "text": "For an older team, Capitals have variety of spots up for grabs",
+      "url": "/news/2022/jul/20/older-team-capitals-have-variety-spots-grabs/"
     },
     {
       "text": "Matthew Paras",
@@ -9284,11 +9314,11 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/commanders-training-camp-preview-can-carson-wentz-/"
+      "url": "/news/2022/jul/20/commanders-training-camp-preview-will-jamin-davis-/"
     },
     {
-      "text": "Commanders training camp preview: Can Wentz thrive with Washington\u2019s supporting cast?",
-      "url": "/news/2022/jul/19/commanders-training-camp-preview-can-carson-wentz-/"
+      "text": "Commanders training camp preview: Will Jamin Davis make Year 2 leap?",
+      "url": "/news/2022/jul/20/commanders-training-camp-preview-will-jamin-davis-/"
     },
     {
       "text": "Matthew Paras",
@@ -9296,15 +9326,19 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/lia-thomass-woman-year-nomination-makes-mockery-wo/"
+      "url": "/news/2022/jul/20/mlbs-second-half-starts-with-yankees-dodgers-astro/"
     },
     {
-      "text": "Riley Gaines: Lia Thomas\u2019 NCAA Woman of the Year nomination \u2018insulting\u2019 to female athletes",
-      "url": "/news/2022/jul/19/lia-thomass-woman-year-nomination-makes-mockery-wo/"
+      "text": "MLB\u2019s second half starts with Yankees, Dodgers, Astros top of the heap",
+      "url": "/news/2022/jul/20/mlbs-second-half-starts-with-yankees-dodgers-astro/"
     },
     {
-      "text": "Valerie Richardson",
-      "url": "https://www.washingtontimes.com/staff/valerie-richardson/"
+      "text": "",
+      "url": "/news/2022/jul/20/tadej-pogacar-wins-stage-17-jonas-vingegaard-moves/"
+    },
+    {
+      "text": "Pogacar sprints to Tour de France stage win but still trails Vingegaard for overall lead",
+      "url": "/news/2022/jul/20/tadej-pogacar-wins-stage-17-jonas-vingegaard-moves/"
     },
     {
       "text": "Sponsored Content",
@@ -9348,51 +9382,23 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/secret-service-yet-uncover-missing-jan-6-texts-hou/"
+      "url": "/news/2022/jul/20/joe-biden-says-he-has-cancer-fossil-fuel-emissions/"
     },
     {
-      "text": "Secret Service yet to uncover missing Jan. 6 texts for House probe",
-      "url": "/news/2022/jul/20/secret-service-yet-uncover-missing-jan-6-texts-hou/"
+      "text": "Biden says he has cancer from fossil-fuel emissions in latest gaffe",
+      "url": "/news/2022/jul/20/joe-biden-says-he-has-cancer-fossil-fuel-emissions/"
     },
     {
-      "text": "Mica Soellner",
-      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/20/wisconsin-lawmaker-trump-called-again-about-decert/"
-    },
-    {
-      "text": "Wisconsin lawmaker: Trump called again about decertifying the election",
-      "url": "/news/2022/jul/20/wisconsin-lawmaker-trump-called-again-about-decert/"
-    },
-    {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+      "text": "Victor Morton",
+      "url": "https://www.washingtontimes.com/staff/victor-morton/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/steve-bannon-rips-bennie-thomson-not-showing-conte/"
+      "url": "/news/2022/jul/20/the-mouth-of-a-bear-ukrainian-refugees-sent-to-rus/"
     },
     {
-      "text": "\u2018Gutless\u2019: Steve Bannon rips Bennie Thomson for not showing up for contempt trial",
-      "url": "/news/2022/jul/19/steve-bannon-rips-bennie-thomson-not-showing-conte/"
-    },
-    {
-      "text": "Joseph Clark",
-      "url": "https://www.washingtontimes.com/staff/joseph-clark/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/20/house-gop-bets-mike-lawlers-run-oust-dccc-chair-ne/"
-    },
-    {
-      "text": "House GOP bets on assemblyman\u2019s run to oust DCCC chair in New York congressional district",
-      "url": "/news/2022/jul/20/house-gop-bets-mike-lawlers-run-oust-dccc-chair-ne/"
-    },
-    {
-      "text": "Kerry Picket",
-      "url": "https://www.washingtontimes.com/staff/kerry-picket/"
+      "text": "\u2018The mouth of a bear\u2019: Ukrainian refugees sent to Russia",
+      "url": "/news/2022/jul/20/the-mouth-of-a-bear-ukrainian-refugees-sent-to-rus/"
     },
     {
       "text": "",
@@ -9408,47 +9414,23 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/20/cdc-ends-color-coded-covid-19-monitoring-system/"
+      "url": "/news/2022/jul/20/jill-to-joe-biden-its-over/"
     },
     {
-      "text": "CDC ends color-coded COVID-19 monitoring system",
-      "url": "/news/2022/jul/20/cdc-ends-color-coded-covid-19-monitoring-system/"
+      "text": "Jill to Joe Biden: It\u2019s over",
+      "url": "/news/2022/jul/20/jill-to-joe-biden-its-over/"
     },
     {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/20/eu-draws-up-energy-plan-in-case-of-russian-gas-cut/"
-    },
-    {
-      "text": "EU draws up energy plan in case of Russian gas cutoff, urges its members to cut use by 15%",
-      "url": "/news/2022/jul/20/eu-draws-up-energy-plan-in-case-of-russian-gas-cut/"
-    },
-    {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+      "text": "Cal Thomas",
+      "url": "https://www.washingtontimes.com/staff/cal-thomas/"
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/aoc-omar-fake-being-handcuffed-protest-outside-sup/"
+      "url": "/news/2022/jul/20/house-gop-renews-calls-support-taiwan-amid-reports/"
     },
     {
-      "text": "AOC, Omar fake being handcuffed in protest outside Supreme Court",
-      "url": "/news/2022/jul/19/aoc-omar-fake-being-handcuffed-protest-outside-sup/"
-    },
-    {
-      "text": "Matt Delaney",
-      "url": "https://www.washingtontimes.com/staff/matt-delaney/"
-    },
-    {
-      "text": "",
-      "url": "/news/2022/jul/19/house-dems-pass-gay-marriage-protection-bill-shore/"
-    },
-    {
-      "text": "House Dems pass same-sex marriage protection bill, shore up messaging for midterm campaigns",
-      "url": "/news/2022/jul/19/house-dems-pass-gay-marriage-protection-bill-shore/"
+      "text": "House GOP renews calls to support Taiwan amid reports of Pelosi visit",
+      "url": "/news/2022/jul/20/house-gop-renews-calls-support-taiwan-amid-reports/"
     },
     {
       "text": "Mica Soellner",
@@ -9456,19 +9438,59 @@
     },
     {
       "text": "",
-      "url": "/news/2022/jul/19/china-threatens-strong-response-if-nancy-pelosi-vi/"
+      "url": "/news/2022/jul/20/secret-service-yet-uncover-missing-jan-6-texts-hou/"
     },
     {
-      "text": "China threatens strong response if Pelosi visits Taiwan",
-      "url": "/news/2022/jul/19/china-threatens-strong-response-if-nancy-pelosi-vi/"
+      "text": "Secret Service yet to uncover missing Jan. 6 texts for House probe",
+      "url": "/news/2022/jul/20/secret-service-yet-uncover-missing-jan-6-texts-hou/"
     },
     {
-      "text": "Tom Howell Jr.",
-      "url": "https://www.washingtontimes.com/staff/tom-howell-jr/"
+      "text": "Mica Soellner",
+      "url": "https://www.washingtontimes.com/staff/mica-soellner/"
     },
     {
-      "text": "Kerry Picket",
-      "url": "https://www.washingtontimes.com/staff/kerry-picket/"
+      "text": "",
+      "url": "/news/2022/jul/20/immigration-related-lockdowns-fed-lack-vigilance-u/"
+    },
+    {
+      "text": "Immigration-related lockdowns fed lack of \u2018vigilance\u2019 in Uvalde, Texas report says",
+      "url": "/news/2022/jul/20/immigration-related-lockdowns-fed-lack-vigilance-u/"
+    },
+    {
+      "text": "Vaughn Cockayne",
+      "url": "https://www.washingtontimes.com/staff/vaughn-cockayne/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/pro-trump-legal-group-accuses-amazon-racial-discri/"
+    },
+    {
+      "text": "Pro-Trump legal group accuses Amazon of racial discrimination",
+      "url": "/news/2022/jul/20/pro-trump-legal-group-accuses-amazon-racial-discri/"
+    },
+    {
+      "text": "Alex Swoyer",
+      "url": "https://www.washingtontimes.com/staff/alex-swoyer/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/report-brazil-authorities-pay-no-mind-to-deforesta/"
+    },
+    {
+      "text": "Report: Brazil authorities pay no mind to deforestation",
+      "url": "/news/2022/jul/20/report-brazil-authorities-pay-no-mind-to-deforesta/"
+    },
+    {
+      "text": "",
+      "url": "/news/2022/jul/20/justice-dept-takes-sylvia-colemans-religious-discr/"
+    },
+    {
+      "text": "Justice Department takes up detention officer\u2019s religious discrimination suit against Michigan city",
+      "url": "/news/2022/jul/20/justice-dept-takes-sylvia-colemans-religious-discr/"
+    },
+    {
+      "text": "Mark A. Kellner",
+      "url": "https://www.washingtontimes.com/staff/mark-a-kellner/"
     },
     {
       "text": "",
@@ -9499,28 +9521,28 @@
       "url": ""
     },
     {
-      "text": "Michael McKenna",
-      "url": "/staff/michael-mckenna/"
+      "text": "Joseph Curl",
+      "url": "/staff/joseph-curl/"
     },
     {
-      "text": "Justice Gorsuch lays out Constitution\u2019s separation of powers with remarkable clarity",
-      "url": "/news/2022/jul/19/gorsuch-lays-out-constitutions-separation-powers-r/"
-    },
-    {
-      "text": "",
-      "url": ""
+      "text": "Jill Biden hates half of America",
+      "url": "/news/2022/jul/20/jill-biden-hates-half-of-america/"
     },
     {
       "text": "",
       "url": ""
     },
     {
-      "text": "R. Emmett Tyrrell Jr.",
-      "url": "/staff/r-emmett-tyrrell-jr/"
+      "text": "",
+      "url": ""
     },
     {
-      "text": "Making the mass murderers pay",
-      "url": "/news/2022/jul/19/making-the-mass-murderers-pay/"
+      "text": "Andrew P. Napolitano",
+      "url": "/staff/andrew-p-napolitano/"
+    },
+    {
+      "text": "The Uvalde disaster and our right to self-defense",
+      "url": "/news/2022/jul/20/the-uvalde-disaster-and-our-right-to-self-defense/"
     },
     {
       "text": "MORE COLUMNISTS ",
@@ -9579,7 +9601,7 @@
       "url": "/news/2022/jul/20/white-house-eyeing-press-shop-shakeup-joe-biden-tr/"
     },
     {
-      "text": "White House eyeing press shop shakeup as Biden tries to boost fortunes: Report",
+      "text": "White House eyeing press shop shake-up as Biden tries to boost fortunes: Report",
       "url": "/news/2022/jul/20/white-house-eyeing-press-shop-shakeup-joe-biden-tr/"
     },
     {
@@ -9604,19 +9626,23 @@
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/20/karrin-taylor-robson-goldwater-version-au-h20/"
+      "url": "/news/2022/jul/20/jill-biden-hates-half-of-america/"
     },
     {
-      "text": "Karrin Taylor Robson is Goldwater Version AU-H2.0",
-      "url": "/news/2022/jul/20/karrin-taylor-robson-goldwater-version-au-h20/"
+      "text": "Jill Biden hates half of America",
+      "url": "/news/2022/jul/20/jill-biden-hates-half-of-america/"
+    },
+    {
+      "text": "Joseph Curl",
+      "url": "https://www.washingtontimes.com/staff/joseph-curl/"
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/19/gorsuch-lays-out-constitutions-separation-powers-r/"
+      "url": "/news/2022/jul/20/why-the-jan-6-committee-is-doomed-to-fail/"
     },
     {
-      "text": "Justice Gorsuch lays out Constitution\u2019s separation of powers with remarkable clarity",
-      "url": "/news/2022/jul/19/gorsuch-lays-out-constitutions-separation-powers-r/"
+      "text": "Why the Jan. 6 committee is doomed to fail",
+      "url": "/news/2022/jul/20/why-the-jan-6-committee-is-doomed-to-fail/"
     },
     {
       "text": "Michael McKenna",
@@ -9624,35 +9650,35 @@
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/19/making-the-mass-murderers-pay/"
+      "url": "/news/2022/jul/20/jill-to-joe-biden-its-over/"
     },
     {
-      "text": "Making the mass murderers pay",
-      "url": "/news/2022/jul/19/making-the-mass-murderers-pay/"
+      "text": "Jill to Joe Biden: It\u2019s over",
+      "url": "/news/2022/jul/20/jill-to-joe-biden-its-over/"
     },
     {
-      "text": "R. Emmett Tyrrell Jr.",
-      "url": "https://www.washingtontimes.com/staff/r-emmett-tyrrell-jr/"
-    },
-    {
-      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/19/powells-fools-journey-chasing-inflation/"
-    },
-    {
-      "text": "Powell\u2019s fool\u2019s journey chasing inflation",
-      "url": "/news/2022/jul/19/powells-fools-journey-chasing-inflation/"
-    },
-    {
-      "text": "Peter Morici",
-      "url": "https://www.washingtontimes.com/staff/peter-morici/"
+      "text": "Cal Thomas",
+      "url": "https://www.washingtontimes.com/staff/cal-thomas/"
     },
     {
       "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
-      "url": "/news/2022/jul/19/on-the-precipice-of-world-war-iii-and-us-leadershi/"
+      "url": "/news/2022/jul/20/the-uvalde-disaster-and-our-right-to-self-defense/"
     },
     {
-      "text": "World War III on the brink and U.S. leadership is missing",
-      "url": "/news/2022/jul/19/on-the-precipice-of-world-war-iii-and-us-leadershi/"
+      "text": "The Uvalde disaster and our right to self-defense",
+      "url": "/news/2022/jul/20/the-uvalde-disaster-and-our-right-to-self-defense/"
+    },
+    {
+      "text": "Andrew P. Napolitano",
+      "url": "https://www.washingtontimes.com/staff/andrew-p-napolitano/"
+    },
+    {
+      "text": "\n\t\t\n\t\t\t\n\t\t\n    ",
+      "url": "/news/2022/jul/20/misinformation-threatens-sound-immigration-policy/"
+    },
+    {
+      "text": "Misinformation threatens sound immigration policy",
+      "url": "/news/2022/jul/20/misinformation-threatens-sound-immigration-policy/"
     },
     {
       "text": "Latest Cartoon",
@@ -9663,7 +9689,7 @@
       "url": "/cartoons/"
     },
     {
-      "text": "Foreign Oil",
+      "text": "D.C. power couple",
       "url": "/cartoons/"
     },
     {
@@ -9740,7 +9766,7 @@
     },
     {
       "text": "View today's front page >",
-      "url": "/multimedia/image/8_a01-wtna0720jpg/"
+      "url": "/multimedia/image/7_a01-wtna0721jpg/"
     },
     {
       "text": "Waste, Fraud & Abuse",
@@ -9763,16 +9789,16 @@
       "url": "/news/security/"
     },
     {
-      "text": "Army cuts force size amid unprecedented battle for recruits",
-      "url": "/news/2022/jul/19/army-cuts-force-size-amid-unprecedented-battle-for/"
+      "text": "CIA chief: China set for takeover of Taiwan in next few years",
+      "url": "/news/2022/jul/20/william-burns-cia-chief-says-china-plans-taiwan-ta/"
     },
     {
-      "text": "Cities swarmed with asylum seekers plead for aid",
-      "url": "/news/2022/jul/19/big-city-mayors-ask-federal-money-after-surge-ille/"
+      "text": "Georgia base: Lightning strike kills soldier, injures 9",
+      "url": "/news/2022/jul/20/georgia-base-lightning-strike-kills-soldier-injure/"
     },
     {
-      "text": "China threatens strong response if Pelosi visits Taiwan",
-      "url": "/news/2022/jul/19/china-threatens-strong-response-if-nancy-pelosi-vi/"
+      "text": "U.S. steps up rocket shipments to Ukraine amid intense fighting in Donbas region",
+      "url": "/news/2022/jul/20/pentagon-pulls-more-rocket-launchers-us-inventory-/"
     },
     {
       "text": "D.C. Local",
@@ -9783,7 +9809,7 @@
       "url": "/news/2022/jul/20/larry-hogan-will-not-vote-maryland-gop-gubernatori/"
     },
     {
-      "text": "COVID vaccine required for older students ahead of DC school year",
+      "text": "COVID vaccine required for older students ahead of D.C. school year",
       "url": "/news/2022/jul/20/covid-vaccine-required-older-students-ahead-dc-sch/"
     },
     {
@@ -9795,36 +9821,40 @@
       "url": "/news/world/"
     },
     {
-      "text": "South Korea flies first homegrown supersonic jet fighter",
-      "url": "/news/2022/jul/20/south-korea-flies-first-homegrown-supersonic-jet-f/"
+      "text": "CIA chief: China set for takeover of Taiwan in next few years",
+      "url": "/news/2022/jul/20/william-burns-cia-chief-says-china-plans-taiwan-ta/"
     },
     {
-      "text": "Climate activists target UK media offices over cheery heat wave coverage",
-      "url": "/news/2022/jul/20/climate-activists-target-uk-media-offices-over-che/"
+      "text": "\u2018The mouth of a bear\u2019: Ukrainian refugees sent to Russia",
+      "url": "/news/2022/jul/20/the-mouth-of-a-bear-ukrainian-refugees-sent-to-rus/"
     },
     {
-      "text": "EU draws up energy plan in case of Russian gas cutoff, urges its members to cut use by 15%",
-      "url": "/news/2022/jul/20/eu-draws-up-energy-plan-in-case-of-russian-gas-cut/"
+      "text": "U.S. steps up rocket shipments to Ukraine amid intense fighting in Donbas region",
+      "url": "/news/2022/jul/20/pentagon-pulls-more-rocket-launchers-us-inventory-/"
     },
     {
       "text": "Business & Economy",
       "url": "/news/business-economy/"
     },
     {
-      "text": "Facebook shifts focus away from newsletter service as competition with TikTok heats up",
-      "url": "/news/2022/jul/20/facebook-shifts-focus-away-newsletter-service-comp/"
+      "text": "Pro-Trump legal group accuses Amazon of racial discrimination",
+      "url": "/news/2022/jul/20/pro-trump-legal-group-accuses-amazon-racial-discri/"
     },
     {
-      "text": "Wall Street ticks higher, adding to gains after big rally",
-      "url": "/news/2022/jul/20/wall-street-ticks-higher-adding-to-gains-after-big/"
+      "text": "OSHA investigating death of Amazon worker in Prime Day event",
+      "url": "/news/2022/jul/20/amazon-workers-prime-day-death-subject-osha-invest/"
     },
     {
-      "text": "Jury: Tesla just 1% to blame for teen driver\u2019s fiery crash",
-      "url": "/news/2022/jul/20/jury-tesla-just-1-to-blame-for-teen-drivers-fiery-/"
+      "text": "Netflix Q2 subscriber loss widens, but not as much as feared",
+      "url": "/news/2022/jul/19/netflix-q2-subscriber-loss-widens-but-not-as-much-/"
     },
     {
       "text": "Faith & Family",
       "url": "/news/faith-family/"
+    },
+    {
+      "text": "Justice Department takes up detention officer\u2019s religious discrimination suit against Michigan city",
+      "url": "/news/2022/jul/20/justice-dept-takes-sylvia-colemans-religious-discr/"
     },
     {
       "text": "Juvenile arrested in connection with attacks on Bethesda churches",
@@ -9835,47 +9865,47 @@
       "url": "/news/2022/jul/19/dallas-schools-require-clear-backpacks-response-uv/"
     },
     {
-      "text": "Texas sues Biden administration over abortions in hospital emergency rooms",
-      "url": "/news/2022/jul/18/texas-sues-biden-administration-over-abortions-in-/"
-    },
-    {
       "text": "Health",
       "url": "/culture/health/"
     },
     {
-      "text": "CDC ends color-coded COVID-19 monitoring system",
+      "text": "Unvaccinated first responders likelier to catch COVID, doubt vaccines: Study",
+      "url": "/news/2022/jul/19/unvaccinated-first-responders-likelier-catch-covid/"
+    },
+    {
+      "text": "COVID vaccine required for older students ahead of D.C. school year",
+      "url": "/news/2022/jul/20/covid-vaccine-required-older-students-ahead-dc-sch/"
+    },
+    {
+      "text": "CDC ends color-coded COVID-19 monitoring system for cruise ships",
       "url": "/news/2022/jul/20/cdc-ends-color-coded-covid-19-monitoring-system/"
-    },
-    {
-      "text": "Northeast officials tell residents to prepare for oppressive heat",
-      "url": "/news/2022/jul/20/northeast-officials-tell-residents-prepare-oppress/"
-    },
-    {
-      "text": "South Carolina conservatives suggest almost total abortion ban",
-      "url": "/news/2022/jul/19/south-carolina-conservatives-suggest-almost-total-/"
     },
     {
       "text": "Entertainment",
       "url": "/culture/entertainment/"
     },
     {
+      "text": "As recruiters struggle, Air Force seeks lift from \u2018Top Gun\u2019",
+      "url": "/news/2022/jul/20/as-recruiters-struggle-air-force-seeks-lift-from-t/"
+    },
+    {
+      "text": "Review: The good, the bad and Jordan Peele\u2019s \u2018Nope\u2019",
+      "url": "/news/2022/jul/20/review-the-good-the-bad-and-jordan-peeles-nope/"
+    },
+    {
       "text": "World chess champ Magnus Carlsen to relinquish crown",
       "url": "/news/2022/jul/20/magnus-carlsen-world-chess-champ-relinquish-crown/"
-    },
-    {
-      "text": "Joe Rogan\u2019s podcast potshots at the homeless land him in hot water",
-      "url": "/news/2022/jul/20/joe-rogans-podcast-potshots-homeless-land-him-hot-/"
-    },
-    {
-      "text": "Ivana Trump\u2019s life to be celebrated at a funeral Mass in NYC",
-      "url": "/news/2022/jul/20/ivana-trumps-life-to-be-celebrated-at-a-funeral-ma/"
     },
     {
       "text": "Travel",
       "url": "/culture/travel/"
     },
     {
-      "text": "Hoover Dam transformer explodes; no one hurt",
+      "text": "Florida manatees improving but still face water pollution, chronic starvation",
+      "url": "/news/2022/jul/20/officials-starvation-threat-not-over-for-florida-m/"
+    },
+    {
+      "text": "Hoover Dam transformer explodes",
       "url": "/news/2022/jul/20/hoover-dam-transformer-explodes-no-one-hurt/"
     },
     {
@@ -9883,47 +9913,43 @@
       "url": "/news/2022/jul/20/uk-weather-turmoil-disrupts-train-travel-for-3rd-d/"
     },
     {
-      "text": "Sesame Place apologizes after Black girls snubbed at parade",
-      "url": "/news/2022/jul/19/sesame-place-apologizes-after-black-girls-snubbed-/"
-    },
-    {
       "text": "Technology",
       "url": "/culture/technology/"
     },
     {
-      "text": "Facebook shifts focus away from newsletter service as competition with TikTok heats up",
-      "url": "/news/2022/jul/20/facebook-shifts-focus-away-newsletter-service-comp/"
+      "text": "Pro-Trump legal group accuses Amazon of racial discrimination",
+      "url": "/news/2022/jul/20/pro-trump-legal-group-accuses-amazon-racial-discri/"
     },
     {
-      "text": "Taxpayer cash infusion for the semiconductor industry survives crucial test vote in Senate",
-      "url": "/news/2022/jul/19/taxpayer-cash-infusion-semiconductor-industry-surv/"
+      "text": "NASA aiming for late August test flight of giant moon rocket",
+      "url": "/news/2022/jul/20/nasa-aiming-for-late-august-test-flight-of-giant-m/"
     },
     {
-      "text": "Judge sets October trial for Musk-Twitter takeover dispute",
-      "url": "/news/2022/jul/19/judge-sets-october-trial-for-musk-twitter-takeover/"
+      "text": "Netflix Q2 subscriber loss widens, but not as much as feared",
+      "url": "/news/2022/jul/19/netflix-q2-subscriber-loss-widens-but-not-as-much-/"
     },
     {
       "text": "Energy & Environment",
       "url": "/specials/energy-environment-news/"
     },
     {
-      "text": "Northeast officials tell residents to prepare for oppressive heat",
-      "url": "/news/2022/jul/20/northeast-officials-tell-residents-prepare-oppress/"
+      "text": "Biden unveils executive action on climate change but stops far short of declaring national emergency",
+      "url": "/news/2022/jul/20/biden-unveils-executive-action-climate-change-stop/"
     },
     {
       "text": "Banking & Finance",
       "url": "/specials/banking-finance/"
     },
     {
-      "text": "Democrats turn to marijuana after failure on Biden's agenda",
-      "url": "/news/2022/jul/19/democrats-see-opening-squeeze-marijuana-legislatio/"
+      "text": "Pro-Trump legal group accuses Amazon of racial discrimination",
+      "url": "/news/2022/jul/20/pro-trump-legal-group-accuses-amazon-racial-discri/"
     },
     {
       "text": "Coronavirus (COVID-19) pandemic updates",
       "url": "/specials/coronavirus-covid-19-pandemic-updates/"
     },
     {
-      "text": "CDC ends color-coded COVID-19 monitoring system",
+      "text": "CDC ends color-coded COVID-19 monitoring system for cruise ships",
       "url": "/news/2022/jul/20/cdc-ends-color-coded-covid-19-monitoring-system/"
     },
     {
@@ -9931,8 +9957,8 @@
       "url": "/specials/second-amendment-and-gun-control/"
     },
     {
-      "text": "Supreme Court approval rating continues steady decline, poll finds",
-      "url": "/news/2022/jul/20/supreme-court-approval-rating-continues-steady-dec/"
+      "text": "Gun-control activist David Hogg disrupts congressional hearing on new 'assault weapon' ban",
+      "url": "/news/2022/jul/20/david-hogg-gun-control-activist-disrupts-congressi/"
     },
     {
       "text": "Immigration Reform",
@@ -9955,8 +9981,8 @@
       "url": "/specials/defense-aerospace/"
     },
     {
-      "text": "White House says there's 'ample evidence' Russia intends to annex additional Ukrainian territory",
-      "url": "/news/2022/jul/19/white-house-says-ample-evidence-russia-intends-ann/"
+      "text": "Space Force leader backs soft Biden agenda",
+      "url": "/news/2022/jul/20/inside-ring-space-force-leader-backs-soft-biden-ag/"
     },
     {
       "text": "Taxes & Budget",
@@ -10440,7 +10466,7 @@
     }
   ],
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

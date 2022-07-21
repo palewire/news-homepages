@@ -1,5 +1,5 @@
 {
-  "created": 1658363388,
+  "created": 1658405747,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/14/items/politico-2022",
@@ -2336,31 +2336,73 @@
       "sha1": "ce85f429957227dc7d9d3ecfd4e4ba786093b46f"
     },
     {
+      "name": "politico-2022-07-20T23:38:44.778490-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658374729",
+      "size": "57121",
+      "md5": "a12466af78bba35aa1fc12339857a43a",
+      "crc32": "31c8db9b",
+      "sha1": "410cd44676cd107dc0e8b8c1fe595cc0dcc4406a",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-07-20T23:38:44.778490-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658374731",
+      "size": "46653",
+      "md5": "3da35e7828be0fed292fe86bb646795e",
+      "crc32": "8af686f7",
+      "sha1": "622101afc856d06d1653cd407b20b57d4889a71f",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-07-20T23:38:44.778490-04:00.jpg",
+      "source": "original",
+      "mtime": "1658374728",
+      "size": "279101",
+      "md5": "c59f4ee56b8f5b1335fdd25b9b5b7b66",
+      "crc32": "e2431a79",
+      "sha1": "9f6c506ac23ba90411de31a902e15116259bec16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politico-2022-07-20T23:38:44.778490-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politico-2022-07-20T23:38:44.778490-04:00.jpg",
+      "mtime": "1658376509",
+      "size": "9350",
+      "md5": "d6932f155796b6d548edbb0781e08262",
+      "crc32": "c459c5e5",
+      "sha1": "13da9d3489786e5f58b1633ac4d4f0d7e1abe85e"
+    },
+    {
       "name": "politico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b17858e914369c91dccd8ba3f0b7d3c8a273ed3f",
-      "mtime": "1658337813",
-      "size": "48256",
-      "md5": "c1bc8365a4d978476ef28d48332aa3f3",
-      "crc32": "19641c95",
-      "sha1": "01edcb7cfda6141ccabcace237357c656b4ac4d4",
+      "btih": "a9c1b25167c33a4a56b301817735a77eb1b7ee2c",
+      "mtime": "1658376639",
+      "size": "49105",
+      "md5": "3ec88d82b72eabdf80edfc9b92f8fbcf",
+      "crc32": "74c16112",
+      "sha1": "ec502f635bf3dd1b6e53a86848f293d874727efc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b9f5a595e83da2b51823243de6fab6e2",
+      "md5": "5fc4fdad29eaa39602badc84da93b74f",
       "summation": "md5"
     },
     {
       "name": "politico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658333657",
-      "size": "278528",
-      "md5": "6e46615736eb992cd76d03478c04522f",
-      "crc32": "de3b1232",
-      "sha1": "1a0c8b64ca16d04693701f99028146d24b3c5ec3",
+      "mtime": "1658374735",
+      "size": "282624",
+      "md5": "ec83d8727b934402e1fc974116157191",
+      "crc32": "2273f180",
+      "sha1": "a040695c02eacce77e643200592e3c1f30d4bd71",
       "format": "Metadata"
     },
     {
@@ -2374,9 +2416,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 226,
-  "item_last_updated": 1658337813,
-  "item_size": 21951391,
+  "files_count": 230,
+  "item_last_updated": 1658376639,
+  "item_size": 22348561,
   "metadata": {
     "identifier": "politico-2022",
     "collection": [
@@ -2663,52 +2705,152 @@
       "url": "{{permalink}}"
     },
     {
-      "text": "\nAustin pledges more rocket systems for Ukraine\n",
+      "text": "\nFuneral held for Ivana Trump; ex-president pays tribute\n",
+      "url": "https://www.politico.com/news/2022/07/20/funeral-held-for-ivana-trump-ex-president-pays-tribute-00047073"
+    },
+    {
+      "text": "\nCIA Director: Putin 'too healthy'\n",
+      "url": "https://www.politico.com/news/2022/07/20/cia-putin-health-00047046"
+    },
+    {
+      "text": "\nBiden on Pelosi trip to Taiwan: \u2018The military thinks it's not a good idea\u2019\n",
+      "url": "https://www.politico.com/news/2022/07/20/biden-pelosi-trip-taiwan-china-military-00047031"
+    },
+    {
+      "text": "\nLarry Hogan snubs Republican victor in Maryland, escalating Trump proxy war \n",
+      "url": "https://www.politico.com/news/2022/07/20/larry-hogan-republican-proxy-war-dan-cox-00046987"
+    },
+    {
+      "text": "\nChina's ambassador tries to cast \u2018no limits\u2019 with Russia as a \u2018misunderstanding\u2019\n",
+      "url": "https://www.politico.com/news/2022/07/20/chinas-ambassador-russia-misunderstanding-00047001"
+    },
+    {
+      "text": "\nPublix heiress gives $50K to conservative education group Moms for Liberty PAC\n",
+      "url": "https://www.politico.com/news/2022/07/20/moms-liberty-pac-publix-heiress-00046921"
+    },
+    {
+      "text": "\nMore monkeypox doses coming to New York as city also braces for Covid surge\n",
+      "url": "https://www.politico.com/news/2022/07/20/monkeypox-new-york-covid-00046917"
+    },
+    {
+      "text": "\nNASA aiming for late August test flight of giant moon rocket\n",
+      "url": "https://www.politico.com/news/2022/07/20/nasa-test-flight-giant-moon-rocket-00046946"
+    },
+    {
+      "text": "\nAdams claims Texas, Arizona busing asylum seekers to New York\n",
+      "url": "https://www.politico.com/news/2022/07/20/adams-asylum-seekers-new-york-00046661"
+    },
+    {
+      "text": "\nU.S. intensifying weapons deliveries to Ukraine, Austin says\n",
       "url": "https://www.politico.com/news/2022/07/20/austin-more-us-rocket-systems-ukraine-00046856"
     },
     {
-      "text": "\nBiden to announce small steps as climate agenda stalls\n",
-      "url": "https://www.politico.com/news/2022/07/20/biden-to-climate-agenda-massachusetts-00046802"
+      "text": "\nBannon\u2019s fight with Jan. 6 committee spills into contempt trial\n",
+      "url": "https://www.politico.com/news/2022/07/20/judge-vows-bannon-trial-wont-be-political-circus-00046859"
     },
     {
       "text": "\nThe frontline workers at risk in Europe\u2019s heat wave\n",
       "url": "https://www.politico.com/www.politico.eu/article/heat-wave-europe-temperature-frontline-workers-at-risk/"
     },
     {
-      "text": "\nFDA announces external review of food safety and tobacco regulatory offices\n",
-      "url": "https://www.politico.com/news/2022/07/19/fda-announces-food-safety-tobacco-review-00046685"
+      "text": "Supreme Court",
+      "url": "https://www.politico.com/news/us-supreme-court"
     },
     {
-      "text": "\nPandemic overdose deaths spiked among people of color \n",
-      "url": "https://www.politico.com/news/2022/07/19/overdose-deaths-spike-among-people-of-color-00046638"
+      "text": "Former religious right leader: I saw our phrases in Alito\u2019s abortion opinion",
+      "url": "https://www.politico.com/news/2022/07/20/religious-right-alito-abortion-00047055"
     },
     {
-      "text": "\nPutin, in Tehran, gets strong support from Iran over Ukraine\n",
-      "url": "https://www.politico.com/news/2022/07/19/putin-russia-iran-ukraine-00046646"
+      "text": "Josh Gerstein",
+      "url": "https://www.politico.com/staff/joshgerstein"
     },
     {
-      "text": "\nUkraine's first lady visits White House to meet with Jill Biden\n",
-      "url": "https://www.politico.com/news/2022/07/19/ukrainian-first-lady-white-house-jill-biden-00046601"
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/20/religious-right-alito-abortion-00047055"
     },
     {
-      "text": "\nFalse Georgia electors are deemed targets of DA criminal probe\n",
-      "url": "https://www.politico.com/news/2022/07/19/false-georgia-electors-da-probe-00046593"
+      "text": "Congress",
+      "url": "https://www.politico.com/congress"
     },
     {
-      "text": "\nOhio Supreme Court scraps 2nd GOP-drawn congressional map\n",
-      "url": "https://www.politico.com/news/2022/07/19/ohio-supreme-court-scraps-2nd-gop-drawn-congressional-map-00046583"
+      "text": "GOP freezes up on same-sex marriage ",
+      "url": "https://www.politico.com/news/2022/07/20/gop-freezes-same-sex-marriage-00046924"
     },
     {
-      "text": "\nIndiana doctor moves toward suing AG who threatened to charge her over 10-year-old\u2019s abortion\n",
-      "url": "https://www.politico.com/news/2022/07/19/indiana-doctor-ag-10-year-old-abortion-00046543"
+      "text": "Burgess Everett",
+      "url": "https://www.politico.com/staff/burgess-everett"
     },
     {
-      "text": "\nSteven Dettelbach sworn in as ATF director\n",
-      "url": "https://www.politico.com/news/2022/07/19/steven-dettelbach-sworn-in-atf-director-00046584"
+      "text": "\n\n\n\n\n\n\n ",
+      "url": "https://www.politico.com/news/2022/07/20/nebraska-governor-makes-big-donation-to-take-out-greitens-00047081"
     },
     {
-      "text": "\nBiden issues executive order aimed at American hostages abroad\n",
-      "url": "https://www.politico.com/news/2022/07/19/american-hostages-abroad-executive-order-00046457"
+      "text": "Elections",
+      "url": "https://www.politico.com/news/elections"
+    },
+    {
+      "text": "Nebraska governor makes big donation to take out Greitens",
+      "url": "https://www.politico.com/news/2022/07/20/nebraska-governor-makes-big-donation-to-take-out-greitens-00047081"
+    },
+    {
+      "text": "Alex Isenstadt",
+      "url": "https://www.politico.com/staff/alex-isenstadt"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/20/climate-emergency-biden-consequences-00046885"
+    },
+    {
+      "text": "Energy & Environment",
+      "url": "https://www.politico.com/energy-and-environment"
+    },
+    {
+      "text": "Declaring a climate emergency could unlock potent tools for Biden \u2014 at a steep cost",
+      "url": "https://www.politico.com/news/2022/07/20/climate-emergency-biden-consequences-00046885"
+    },
+    {
+      "text": "Alex Guill\u00e9n",
+      "url": "https://www.politico.com/staff/alex-guillen"
+    },
+    {
+      "text": "Ben Lefebvre",
+      "url": "https://www.politico.com/staff/ben-lefebvre"
+    },
+    {
+      "text": "Biden announces modest steps to fight climate's \u2018clear and present danger\u2019",
+      "url": "https://www.politico.com/news/2022/07/20/biden-seeks-to-revive-climate-change-agenda-00046968"
+    },
+    {
+      "text": "Energy & Environment",
+      "url": "https://www.politico.com/energy-and-environment"
+    },
+    {
+      "text": "Impact of Supreme Court's climate ruling spreads",
+      "url": "https://www.politico.com/news/2022/07/20/chill-from-scotus-climate-ruling-hits-wide-range-of-biden-actions-00045920"
+    },
+    {
+      "text": "Alex Guill\u00e9n",
+      "url": "https://www.politico.com/staff/alex-guillen"
+    },
+    {
+      "text": "Foreign Policy",
+      "url": "https://www.politico.com/news/foreign-policy"
+    },
+    {
+      "text": "Pelosi to Blinken: Label Russia as terrorist state, or else Congress will",
+      "url": "https://www.politico.com/news/2022/07/20/pelosi-to-blinken-label-russia-as-terrorist-state-or-else-congress-will-00047076"
+    },
+    {
+      "text": "Alexander Ward",
+      "url": "https://www.politico.com/staff/alexander-ward"
+    },
+    {
+      "text": "Betsy Woodruff Swan",
+      "url": "https://www.politico.com/staff/betsy-woodruff-swan"
+    },
+    {
+      "text": "MORE TOP HEADLINES",
+      "url": "https://www.politico.com/politics"
     },
     {
       "text": "Insurrection Fallout",
@@ -2723,196 +2865,68 @@
       "url": "https://www.politico.com/staff/david-siders"
     },
     {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/20/jan-6-hearings-trump-support-falls-00046662"
+      "text": "Senators finalize bipartisan proposal designed to prevent another Jan. 6",
+      "url": "https://www.politico.com/news/2022/07/20/bipartisan-senators-finalize-proposal-to-prevent-another-jan-6-00046906"
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/20/judge-vows-bannon-trial-wont-be-political-circus-00046859"
+      "url": "https://www.politico.com/news/2022/07/20/giuliani-georgia-grand-jury-trump-00046888"
     },
     {
-      "text": "Judge vows Bannon trial won't be \u2018political circus\u2019",
-      "url": "https://www.politico.com/news/2022/07/20/judge-vows-bannon-trial-wont-be-political-circus-00046859"
+      "text": "Legal",
+      "url": "https://www.politico.com/tag/legal"
+    },
+    {
+      "text": "Giuliani ordered to testify before Georgia grand jury investigating Trump election effort",
+      "url": "https://www.politico.com/news/2022/07/20/giuliani-georgia-grand-jury-trump-00046888"
     },
     {
       "text": "Kyle Cheney",
       "url": "https://www.politico.com/staff/kyle-cheney"
     },
     {
-      "text": "Josh Gerstein",
-      "url": "https://www.politico.com/staff/joshgerstein"
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.eu/article/liz-truss-comeback-tory-pm-run-off/"
+    },
+    {
+      "text": "Europe",
+      "url": "https://www.politico.com/news/europe"
+    },
+    {
+      "text": "Liz Truss, Britain's comeback kid",
+      "url": "https://www.politico.eu/article/liz-truss-comeback-tory-pm-run-off/"
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/minutes/congress/07-20-2022/roys-pence-praise/"
-    },
-    {
-      "text": "Congress Minutes",
-      "url": "https://www.politico.com/minutes/congress/"
-    },
-    {
-      "text": "Conservatives applaud Pence for resisting pressure on Jan. 6",
-      "url": "https://www.politico.com/minutes/congress/07-20-2022/roys-pence-praise/"
-    },
-    {
-      "text": "Olivia Beavers",
-      "url": "https://www.politico.com/staff/olivia-beavers"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/20/ashley-hinson-iowa-gop-00046637"
-    },
-    {
-      "text": "Elections",
-      "url": "https://www.politico.com/news/elections"
-    },
-    {
-      "text": "This House GOP first-termer could rise all the way to leadership",
-      "url": "https://www.politico.com/news/2022/07/20/ashley-hinson-iowa-gop-00046637"
-    },
-    {
-      "text": "Olivia Beavers",
-      "url": "https://www.politico.com/staff/olivia-beavers"
-    },
-    {
-      "text": "Trump wins proxy war with Hogan in Maryland primary \u2014 boosted by Democrats",
-      "url": "https://www.politico.com/news/2022/07/19/hogan-trump-maryland-primary-00046639"
-    },
-    {
-      "text": "Zach Montellaro",
-      "url": "https://www.politico.com/staff/zach-montellaro"
-    },
-    {
-      "text": "Full Maryland primary results ",
-      "url": "https://www.politico.com/2022-election/results/maryland/"
-    },
-    {
-      "text": "The Fifty",
-      "url": "https://www.politico.com/series/states/the-fifty"
-    },
-    {
-      "text": "London Breed is beating the progressives. But is she actually fixing anything?",
-      "url": "https://www.politico.com/news/2022/07/20/london-breed-san-francisco-00046633"
-    },
-    {
-      "text": "Jeremy B. White",
-      "url": "https://www.politico.com/staff/jeremy-b-white"
+      "url": "https://www.politico.com/news/2022/07/20/health-officials-pandemic-response-office-00047050"
     },
     {
       "text": "Health Care",
       "url": "https://www.politico.com/health-care"
     },
     {
-      "text": "Covid cases are skyrocketing again. States have no new plans.",
-      "url": "https://www.politico.com/news/2022/07/20/states-meet-new-covid-wave-00046640"
+      "text": "Biden administration plans to elevate pandemic response office",
+      "url": "https://www.politico.com/news/2022/07/20/health-officials-pandemic-response-office-00047050"
     },
     {
-      "text": "Megan Messerly",
-      "url": "https://www.politico.com/staff/megan-messerly"
+      "text": "Sarah Owermohle",
+      "url": "https://www.politico.com/staff/sarah-owermohle"
     },
     {
-      "text": "Krista Mahr",
-      "url": "https://www.politico.com/staff/krista-mahr"
-    },
-    {
-      "text": "Adam Cancryn",
-      "url": "https://www.politico.com/staff/adam-cancryn"
-    },
-    {
-      "text": "MORE TOP HEADLINES",
-      "url": "https://www.politico.com/politics"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/19/abortion-biden-roe-v-wade-00046644"
-    },
-    {
-      "text": "White House",
-      "url": "https://www.politico.com/white-house"
-    },
-    {
-      "text": "White House is weighing executive action to ensure abortion pill access",
-      "url": "https://www.politico.com/news/2022/07/19/abortion-biden-roe-v-wade-00046644"
-    },
-    {
-      "text": "Adam Cancryn",
-      "url": "https://www.politico.com/staff/adam-cancryn"
-    },
-    {
-      "text": "Opinion | \nIt\u2019s Time for Democrats to Play Hardball to Thwart Mitch McConnell",
-      "url": "https://www.politico.com/news/magazine/2022/07/20/democrats-mitch-mcconnell-senate-00046578"
-    },
-    {
-      "text": "Opinion | \nYou Trust the Media More Than You Say You Do",
-      "url": "https://www.politico.com/news/magazine/2022/07/20/gallup-polls-wrong-trust-media-00046654"
-    },
-    {
-      "text": "Jack Shafer",
-      "url": "https://www.politico.com/staff/jack-shafer"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/19/house-republicans-same-sex-marriage-law-00046682"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.politico.com/congress"
-    },
-    {
-      "text": "47 House Republicans vote to write same-sex marriage into law",
-      "url": "https://www.politico.com/news/2022/07/19/house-republicans-same-sex-marriage-law-00046682"
-    },
-    {
-      "text": "Anthony Adragna",
-      "url": "https://www.politico.com/staff/anthony-adragna"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/19/manchin-senate-agenda-00046623"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.politico.com/congress"
-    },
-    {
-      "text": "Senate's season of Manchin starts winding down",
-      "url": "https://www.politico.com/news/2022/07/19/manchin-senate-agenda-00046623"
-    },
-    {
-      "text": "Burgess Everett",
-      "url": "https://www.politico.com/staff/burgess-everett"
-    },
-    {
-      "text": "Marianne LeVine",
-      "url": "https://www.politico.com/staff/marianne-levine"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/19/house-democrats-gun-laws-00046675"
-    },
-    {
-      "text": "Congress",
-      "url": "https://www.politico.com/congress"
-    },
-    {
-      "text": "House Dems still wrangling the votes for an assault weapons ban",
-      "url": "https://www.politico.com/news/2022/07/19/house-democrats-gun-laws-00046675"
-    },
-    {
-      "text": "Jordain Carney",
-      "url": "https://www.politico.com/staff/jordain-carney"
-    },
-    {
-      "text": "Sarah Ferris",
-      "url": "https://www.politico.com/staff/sarah-ferris"
+      "text": "Erin Banco",
+      "url": "https://www.politico.com/staff/erin-banco"
     },
     {
       "text": "VIDEO",
       "url": "https://www.politico.com/video"
     },
     {
-      "text": "From Election Night to Jan. 6: A plot grows within Trump\u2019s W.H.",
-      "url": "https://www.politico.com/video/2022/07/19/from-election-night-to-jan-6-a-plot-grows-within-trumps-w-h-639481"
+      "text": "\n\n\n\n \n\n\n",
+      "url": "https://www.politico.com/news/2022/07/20/key-midterm-elections-inflation-00047056"
+    },
+    {
+      "text": "Inside the Forecast: Vulnerable Dems and inflation rates collide in key races",
+      "url": "https://www.politico.com/news/2022/07/20/key-midterm-elections-inflation-00047056"
     },
     {
       "text": "NEWSLETTERS ",
@@ -2955,6 +2969,14 @@
       "url": "/magazine"
     },
     {
+      "text": "\n\n\n\n\n\n\n\n\nFourth Estate\n\n\nOpinion | \nYou Trust the Media More Than You Say You Do\n\nA new poll shows confidence in the press is still sinking. Don\u2019t believe it.\n\n\n\nOpinion by \nJack Shafer\n\n\n\n\n",
+      "url": "https://www.politico.com/news/magazine/2022/07/20/gallup-polls-wrong-trust-media-00046654"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n\nPolitics\n\n\nOpinion | \nIt\u2019s Time for Democrats to Play Hardball to Thwart Mitch McConnell\n\nThe Senate needs to act quickly or Republicans could block hundreds of judicial nominees.\n\n \n\nOpinion by \nRuss Feingold\n\n\n\n\n",
+      "url": "https://www.politico.com/news/magazine/2022/07/20/democrats-mitch-mcconnell-senate-00046578"
+    },
+    {
       "text": "\n\n\n\n\n\n\n\n\nPolitical Science\n\n\nOpinion | \nThe Supreme Court is Now Operating Outside of American Public Opinion\n\nOur research shows the Court took a sharp swerve two years ago \u2014 and its decisions now closely mirror the views of the average Republican, not the average American.\n\n\n\nOpinion by \nStephen Jessee, \nNeil Malhotra and \nMaya Sen\n\n\n\n\n",
       "url": "https://www.politico.com/news/magazine/2022/07/19/supreme-court-republican-views-analysis-public-opinion-00046445"
     },
@@ -2963,7 +2985,7 @@
       "url": "https://www.politico.com/news/magazine/2022/07/17/when-ivana-trump-met-sarah-palin-00046211"
     },
     {
-      "text": "\n\n\n\n\n\n\n\n\nPostscript\n\n\nWithout Ivana, There\u2019s No \u2018The Donald\u2019\n\nThe future president of the United States wouldn\u2019t have gotten anywhere without a driven Czech model.\n\n \n\nBy \nGwenda Blair\n\n\n\n\n",
+      "text": "\n\n\n\n\n\n\n\n\nPostscript\n\n\nWithout Ivana, There\u2019s No \u2018The Donald\u2019\n\nThe future president of the United States wouldn\u2019t have gotten anywhere without a driven Czech model.\n\n\n\nBy \nGwenda Blair\n\n\n\n\n",
       "url": "https://www.politico.com/news/magazine/2022/07/17/without-ivana-trump-there-is-no-donald-trump"
     },
     {
@@ -2971,7 +2993,7 @@
       "url": "https://www.politico.com/news/magazine/2022/07/15/i-once-supported-putin-now-i-know-the-truth-00031740"
     },
     {
-      "text": "\n\n\n\n\n\n\n\n\nQ&A\n\n\n\u2018I Had Been Seen as a Little Radioactive\u2019: Lis Smith Talks Mayor Pete, How She Picks Stars and the Future of the Democratic Party\n\n 90 minutes with one of America's top political consultants. \n\n\n\nBy \nAdam Wren\n\n\n\n\n",
+      "text": "\n\n\n\n\n\n\n\n\nQ&A\n\n\n\u2018I Had Been Seen as a Little Radioactive\u2019: Lis Smith Talks Mayor Pete, How She Picks Stars and the Future of the Democratic Party\n\n90 minutes with one of America's top political consultants. \n\n\n\nBy \nAdam Wren\n\n\n\n\n",
       "url": "https://www.politico.com/news/magazine/2022/07/15/lis-smith-q-and-a-00045604"
     },
     {
@@ -2979,11 +3001,11 @@
       "url": "https://www.politico.com/news/magazine/2022/07/15/capital-city-ruy-teixeira-american-enterprise-institute-00045819"
     },
     {
-      "text": "\n\n\n\n\n\n\n\n\nPolitics\n\n\nOpinion | \nHow Kevin McCarthy Misplayed His Hand on the Jan. 6 Hearings\n\nWhat the Democrats owe to the Republican leader.\n \n\n\nOpinion by \nJeff Greenfield\n\n\n\n\n",
+      "text": "\n\n\n\n\n\n\n\n\nPolitics\n\n\nOpinion | \nHow Kevin McCarthy Misplayed His Hand on the Jan. 6 Hearings\n\nWhat the Democrats owe to the Republican leader.\n\n\n\nOpinion by \nJeff Greenfield\n\n\n\n\n",
       "url": "https://www.politico.com/news/magazine/2022/07/15/january-6-kevin-mccarthy-00045990"
     },
     {
-      "text": "\n\n\n\n\n\n\n\n\nLaw And Order\n\n\nOpinion | \nHow Announcing His 2024 Campaign Could Be Trump\u2019s Best Legal Defense\n\nThe former president can throw a major wrench in the pending and potential criminal investigations that might implicate him.\n\n\n\nOpinion by \nAnkush Khardori\n\n\n\n\n",
+      "text": "\n\n\n\n\n\n\n\n\nLaw And Order\n\n\nOpinion | \nHow Announcing His 2024 Campaign Could Be Trump\u2019s Best Legal Defense\n\n The former president can throw a major wrench in the pending and potential criminal investigations that might implicate him.\n\n\n\nOpinion by \nAnkush Khardori\n\n\n\n\n",
       "url": "https://www.politico.com/news/magazine/2022/07/14/trump-2024-campaign-legal-defense-00045996"
     },
     {
@@ -2993,14 +3015,6 @@
     {
       "text": "\n\n\n\n\n\n\n\n\nColumn | Altitude\n\n\nThe Republican Who Wants To End The Trump Era \u2014 Without Taking on Trump\n\nGlenn Youngkin\u2019s potential candidacy would be laughable in an earlier era. It may be serious in this one.\n\n\n\nBy \nJohn F. Harris\n\n\n\n\n",
       "url": "https://www.politico.com/news/magazine/2022/07/14/youngkin-trump-republican-00045766"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n\n\nQ&A\n\n\nThe Man at the Center of the New Cyber World War\n\n Yurii Shchyhol\u2019s job is to protect Ukraine against ongoing Russia cyberattacks. But the war he\u2019s fighting is global, he says \u2014 and he has some advice for the rest of us.\n\n\n\nBy \nKenneth R. Rosen\n\n\n\n\n",
-      "url": "https://www.politico.com/news/magazine/2022/07/14/russia-cyberattacks-ukraine-cybersecurity-00045486"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n\n\nWashington And The World\n\n\nOpinion | \nA New Shape for US-Saudi Relations \n\n\u201cOil for security\u201d is now in the past. As my nation develops, we can build a partnership around energy, stability and regional growth.\n\n\n\nOpinion by \nReema Bandar Alsaud\n\n\n\n\n",
-      "url": "https://www.politico.com/news/magazine/2022/07/14/new-us-saudi-partnership-stability-00045806"
     },
     {
       "text": "INTERACTIVES",
@@ -3020,55 +3034,55 @@
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/18/rand-lights-into-mcconnell-over-secret-judicial-deal-00046441"
+      "url": "https://www.politico.com/news/2022/07/19/house-republicans-same-sex-marriage-law-00046682"
     },
     {
-      "text": "Rand Paul lights into McConnell over 'secret' judicial deal",
-      "url": "https://www.politico.com/news/2022/07/18/rand-lights-into-mcconnell-over-secret-judicial-deal-00046441"
+      "text": "47 House Republicans vote to write same-sex marriage into law",
+      "url": "https://www.politico.com/news/2022/07/19/house-republicans-same-sex-marriage-law-00046682"
     },
     {
-      "text": "Burgess Everett",
-      "url": "https://www.politico.com/staff/burgess-everett"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/19/sprint-through-the-finish-why-the-jan-6-committee-isnt-nearly-done-00046453"
-    },
-    {
-      "text": "\u2018Sprint through the finish\u2019: Why the Jan. 6 committee isn't nearly done",
-      "url": "https://www.politico.com/news/2022/07/19/sprint-through-the-finish-why-the-jan-6-committee-isnt-nearly-done-00046453"
-    },
-    {
-      "text": "Kyle Cheney",
-      "url": "https://www.politico.com/staff/kyle-cheney"
-    },
-    {
-      "text": "Nicholas Wu",
-      "url": "https://www.politico.com/staff/nicholas-wu"
+      "text": "Anthony Adragna",
+      "url": "https://www.politico.com/staff/anthony-adragna"
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/19/hunter-biden-gop-2023-00046419"
+      "url": "https://www.politico.com/news/2022/07/20/congress-china-bill-gutted-00046842"
     },
     {
-      "text": "It's not just Hunter Biden: Prepare for a 2023 packed with House GOP investigations",
-      "url": "https://www.politico.com/news/2022/07/19/hunter-biden-gop-2023-00046419"
+      "text": "How Congress' dream of a China confrontation got gutted",
+      "url": "https://www.politico.com/news/2022/07/20/congress-china-bill-gutted-00046842"
+    },
+    {
+      "text": "Andrew Desiderio",
+      "url": "https://www.politico.com/staff/andrew-desiderio"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/20/ashley-hinson-iowa-gop-00046637"
+    },
+    {
+      "text": "This House GOP first-termer could rise all the way to leadership",
+      "url": "https://www.politico.com/news/2022/07/20/ashley-hinson-iowa-gop-00046637"
+    },
+    {
+      "text": "Olivia Beavers",
+      "url": "https://www.politico.com/staff/olivia-beavers"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/19/house-democrats-gun-laws-00046675"
+    },
+    {
+      "text": "House Dems still wrangling the votes for an assault weapons ban",
+      "url": "https://www.politico.com/news/2022/07/19/house-democrats-gun-laws-00046675"
     },
     {
       "text": "Jordain Carney",
       "url": "https://www.politico.com/staff/jordain-carney"
     },
     {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/17/luria-new-jan-6-hearing-evidence-00046244"
-    },
-    {
-      "text": "Luria touts new evidence, witnesses ahead of highly anticipated Jan. 6 hearing",
-      "url": "https://www.politico.com/news/2022/07/17/luria-new-jan-6-hearing-evidence-00046244"
-    },
-    {
-      "text": "Kelly Hooper",
-      "url": "https://www.politico.com/staff/kelly-hooper"
+      "text": "Sarah Ferris",
+      "url": "https://www.politico.com/staff/sarah-ferris"
     },
     {
       "text": "WHITE HOUSE ",
@@ -3089,6 +3103,18 @@
     {
       "text": "Jonathan Lemire",
       "url": "https://www.politico.com/staff/jonathan-lemire"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/19/american-hostages-abroad-executive-order-00046457"
+    },
+    {
+      "text": "Biden issues executive order aimed at American hostages abroad",
+      "url": "https://www.politico.com/news/2022/07/19/american-hostages-abroad-executive-order-00046457"
+    },
+    {
+      "text": "Myah Ward",
+      "url": "https://www.politico.com/staff/myah-ward"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -3115,24 +3141,20 @@
       "url": "https://www.politico.com/staff/sabrina-rodriguez"
     },
     {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/16/bidens-middle-east-reputation-00046214"
-    },
-    {
-      "text": "Biden's Middle East expedition: Reputation dinged, interests secured? ",
-      "url": "https://www.politico.com/news/2022/07/16/bidens-middle-east-reputation-00046214"
-    },
-    {
-      "text": "Alexander Ward",
-      "url": "https://www.politico.com/staff/alexander-ward"
-    },
-    {
-      "text": "Jonathan Lemire",
-      "url": "https://www.politico.com/staff/jonathan-lemire"
-    },
-    {
       "text": "ELECTIONS",
       "url": "https://www.politico.com/news/elections"
+    },
+    {
+      "text": "\n\n\n\n \n\n\n",
+      "url": "https://www.politico.com/news/2022/07/19/hogan-trump-maryland-primary-00046639"
+    },
+    {
+      "text": "Trump wins proxy war with Hogan in Maryland primary \u2014 boosted by Democrats",
+      "url": "https://www.politico.com/news/2022/07/19/hogan-trump-maryland-primary-00046639"
+    },
+    {
+      "text": "Zach Montellaro",
+      "url": "https://www.politico.com/staff/zach-montellaro"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -3148,27 +3170,15 @@
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/19/de-blasio-drops-out-ny-10-00046565"
+      "url": "https://www.politico.com/news/2022/07/18/pence-endorses-robson-arizona-governor-00046289"
     },
     {
-      "text": "De Blasio drops out of race for NY-10 \u2014 and from electoral politics altogether",
-      "url": "https://www.politico.com/news/2022/07/19/de-blasio-drops-out-ny-10-00046565"
+      "text": "Pence endorses Robson for Arizona governor, colliding with Trump in key primary",
+      "url": "https://www.politico.com/news/2022/07/18/pence-endorses-robson-arizona-governor-00046289"
     },
     {
-      "text": "Joe Anuta",
-      "url": "https://www.politico.com/staff/joe-anuta"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/18/val-demings-covid-democrats-tampa-conference-00046335"
-    },
-    {
-      "text": "Val Demings announces she has Covid after attending Dem's Tampa conference",
-      "url": "https://www.politico.com/news/2022/07/18/val-demings-covid-democrats-tampa-conference-00046335"
-    },
-    {
-      "text": "Hannah Farrow",
-      "url": "https://www.politico.com/staff/hannah-farrow"
+      "text": "Alex Isenstadt",
+      "url": "https://www.politico.com/staff/alex-isenstadt"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -3184,19 +3194,27 @@
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/15/jan-6-trump-operative-false-electors-00046175"
+      "url": "https://www.politico.com/news/2022/07/19/false-georgia-electors-da-probe-00046593"
     },
     {
-      "text": "Trump campaign operative who delivered Jan. 6 false elector lists is identified",
-      "url": "https://www.politico.com/news/2022/07/15/jan-6-trump-operative-false-electors-00046175"
+      "text": "False Georgia electors are deemed targets of DA criminal probe",
+      "url": "https://www.politico.com/news/2022/07/19/false-georgia-electors-da-probe-00046593"
     },
     {
       "text": "Kyle Cheney",
       "url": "https://www.politico.com/staff/kyle-cheney"
     },
     {
-      "text": "Nicholas Wu",
-      "url": "https://www.politico.com/staff/nicholas-wu"
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/18/dhs-location-data-aclu-00046208"
+    },
+    {
+      "text": "Homeland Security records show 'shocking' use of phone data, ACLU says",
+      "url": "https://www.politico.com/news/2022/07/18/dhs-location-data-aclu-00046208"
+    },
+    {
+      "text": "Alfred Ng",
+      "url": "https://www.politico.com/staff/alfred-ng"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -3228,15 +3246,15 @@
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/18/dhs-location-data-aclu-00046208"
+      "url": "https://www.politico.com/news/2022/07/20/london-breed-san-francisco-00046633"
     },
     {
-      "text": "Homeland Security records show 'shocking' use of phone data, ACLU says",
-      "url": "https://www.politico.com/news/2022/07/18/dhs-location-data-aclu-00046208"
+      "text": "London Breed is beating the progressives. But is she actually fixing anything?",
+      "url": "https://www.politico.com/news/2022/07/20/london-breed-san-francisco-00046633"
     },
     {
-      "text": "Alfred Ng",
-      "url": "https://www.politico.com/staff/alfred-ng"
+      "text": "Jeremy B. White",
+      "url": "https://www.politico.com/staff/jeremy-b-white"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -3252,18 +3270,18 @@
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/16/new-york-housing-crunch-00045575"
+      "url": "https://www.politico.com/news/2022/07/19/indiana-doctor-ag-10-year-old-abortion-00046543"
     },
     {
-      "text": "New York tried to make apartments affordable. The opposite happened.",
-      "url": "https://www.politico.com/news/2022/07/16/new-york-housing-crunch-00045575"
+      "text": "Indiana doctor moves toward suing AG who threatened to charge her over 10-year-old\u2019s abortion",
+      "url": "https://www.politico.com/news/2022/07/19/indiana-doctor-ag-10-year-old-abortion-00046543"
     },
     {
-      "text": "Janaki Chadha",
-      "url": "https://www.politico.com/staff/janaki-chadha"
+      "text": "Alice Miranda Ollstein",
+      "url": "https://www.politico.com/staff/alice-miranda-ollstein"
     },
     {
-      "text": "\n\n\n\n\n \n\n",
+      "text": "\n\n\n\n\n\n\n",
       "url": "https://www.politico.com/news/2022/07/15/moms-for-liberty-desantis-00046178"
     },
     {
@@ -3275,23 +3293,31 @@
       "url": "https://www.politico.com/staff/andrew-atterbury"
     },
     {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/14/legal-shield-social-media-facebook-00045226"
-    },
-    {
-      "text": "A legal shield for social media is showing cracks",
-      "url": "https://www.politico.com/news/2022/07/14/legal-shield-social-media-facebook-00045226"
-    },
-    {
-      "text": "Susannah Luthi",
-      "url": "https://www.politico.com/staff/susannah-luthi"
-    },
-    {
       "text": "INTERNATIONAL",
       "url": "https://www.politico.com/news/foreign-policy"
     },
     {
       "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/20/ukraine-zelenska-congress-russia-00046916"
+    },
+    {
+      "text": "Zelenska to Congress: \u2018Russia is destroying our people\u2019",
+      "url": "https://www.politico.com/news/2022/07/20/ukraine-zelenska-congress-russia-00046916"
+    },
+    {
+      "text": "Andrew Desiderio",
+      "url": "https://www.politico.com/staff/andrew-desiderio"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.eu/article/britain-next-prime-minister-rishi-sunak-or-liz-truss/"
+    },
+    {
+      "text": "Britain\u2019s next prime minister will be Rishi Sunak or Liz Truss",
+      "url": "https://www.politico.eu/article/britain-next-prime-minister-rishi-sunak-or-liz-truss/"
+    },
+    {
+      "text": "\n\n\n \n\n\n\n",
       "url": "https://www.politico.com/news/2022/07/18/ukraine-politics-zelenskyy-00046370"
     },
     {
@@ -3301,18 +3327,6 @@
     {
       "text": "Christopher Miller",
       "url": "https://www.politico.com/staff/christopher-miller"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/16/neo-nazi-white-supremacist-teenagers-00045589"
-    },
-    {
-      "text": "\u2018I mean you no harm\u2019: From troubled teen to neo-Nazi foot soldier",
-      "url": "https://www.politico.com/news/2022/07/16/neo-nazi-white-supremacist-teenagers-00045589"
-    },
-    {
-      "text": "Bryan Bender",
-      "url": "https://www.politico.com/staff/bryan-bender"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -3327,20 +3341,52 @@
       "url": "https://www.politico.com/staff/hailey-fuchs"
     },
     {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.eu/article/europe-temperature-heat-wave-drought/"
-    },
-    {
-      "text": "Europe\u2019s big dry",
-      "url": "https://www.politico.eu/article/europe-temperature-heat-wave-drought/"
-    },
-    {
-      "text": "Karl Mathiesen",
-      "url": "https://www.politico.com/staff/karl-mathiesen"
-    },
-    {
       "text": "HEALTH CARE",
       "url": "https://www.politico.com/health-care"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/20/to-fight-inequity-africa-wants-to-produce-its-own-vaccines-first-it-needs-to-find-buyers-00046550"
+    },
+    {
+      "text": "To fight inequity, Africa wants to produce its own vaccines. First, it needs to find buyers.",
+      "url": "https://www.politico.com/news/2022/07/20/to-fight-inequity-africa-wants-to-produce-its-own-vaccines-first-it-needs-to-find-buyers-00046550"
+    },
+    {
+      "text": "Carmen Paun",
+      "url": "https://www.politico.com/staff/carmen-paun"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/20/adams-asylum-seekers-new-york-00046661"
+    },
+    {
+      "text": "Adams claims Texas, Arizona busing asylum seekers to New York",
+      "url": "https://www.politico.com/news/2022/07/20/adams-asylum-seekers-new-york-00046661"
+    },
+    {
+      "text": "Janaki Chadha",
+      "url": "https://www.politico.com/staff/janaki-chadha"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/20/states-meet-new-covid-wave-00046640"
+    },
+    {
+      "text": "Covid cases are skyrocketing again. States have no new plans.",
+      "url": "https://www.politico.com/news/2022/07/20/states-meet-new-covid-wave-00046640"
+    },
+    {
+      "text": "Megan Messerly",
+      "url": "https://www.politico.com/staff/megan-messerly"
+    },
+    {
+      "text": "Krista Mahr",
+      "url": "https://www.politico.com/staff/krista-mahr"
+    },
+    {
+      "text": "Adam Cancryn",
+      "url": "https://www.politico.com/staff/adam-cancryn"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -3353,6 +3399,22 @@
     {
       "text": "Alfred Ng",
       "url": "https://www.politico.com/staff/alfred-ng"
+    },
+    {
+      "text": "EARLIER",
+      "url": "https://www.politico.com/politics"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/18/rand-lights-into-mcconnell-over-secret-judicial-deal-00046441"
+    },
+    {
+      "text": "Rand Paul lights into McConnell over 'secret' judicial deal",
+      "url": "https://www.politico.com/news/2022/07/18/rand-lights-into-mcconnell-over-secret-judicial-deal-00046441"
+    },
+    {
+      "text": "Burgess Everett",
+      "url": "https://www.politico.com/staff/burgess-everett"
     },
     {
       "text": "\n\n\n\n\n\n\n",
@@ -3368,58 +3430,94 @@
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/16/abortion-foes-move-to-block-online-ads-for-reproductive-services-00046195"
+      "url": "https://www.politico.com/news/2022/07/19/de-blasio-drops-out-ny-10-00046565"
     },
     {
-      "text": "Abortion foes move to block online ads for reproductive services",
-      "url": "https://www.politico.com/news/2022/07/16/abortion-foes-move-to-block-online-ads-for-reproductive-services-00046195"
+      "text": "De Blasio drops out of race for NY-10 \u2014 and from electoral politics altogether",
+      "url": "https://www.politico.com/news/2022/07/19/de-blasio-drops-out-ny-10-00046565"
     },
     {
-      "text": "Ruth Reader",
-      "url": "https://www.politico.com/staff/ruth-reader"
+      "text": "Joe Anuta",
+      "url": "https://www.politico.com/staff/joe-anuta"
     },
     {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/15/indiana-doc-abortion-10-year-old-ag-cease-and-desist-00046156"
+      "text": "\n\n \n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/19/ukrainian-first-lady-white-house-jill-biden-00046601"
     },
     {
-      "text": "Indiana doc who performed abortion for 10-year-old tells AG to cease and desist",
-      "url": "https://www.politico.com/news/2022/07/15/indiana-doc-abortion-10-year-old-ag-cease-and-desist-00046156"
+      "text": "Ukraine's first lady visits White House to meet with Jill Biden",
+      "url": "https://www.politico.com/news/2022/07/19/ukrainian-first-lady-white-house-jill-biden-00046601"
     },
     {
-      "text": "Alice Miranda Ollstein",
-      "url": "https://www.politico.com/staff/alice-miranda-ollstein"
-    },
-    {
-      "text": "EARLIER",
-      "url": "https://www.politico.com/politics"
+      "text": "Olivia Olander",
+      "url": "https://www.politico.com/staff/olivia-olander"
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/15/manchin-disputes-claims-he-rejected-dems-climate-and-energy-spending-00046065"
+      "url": "https://www.politico.com/news/2022/07/19/steven-dettelbach-sworn-in-atf-director-00046584"
     },
     {
-      "text": "Manchin disputes claims he rejected Dems\u2019 climate and energy spending",
-      "url": "https://www.politico.com/news/2022/07/15/manchin-disputes-claims-he-rejected-dems-climate-and-energy-spending-00046065"
+      "text": "Steven Dettelbach sworn in as ATF director",
+      "url": "https://www.politico.com/news/2022/07/19/steven-dettelbach-sworn-in-atf-director-00046584"
     },
     {
-      "text": "Kelsey Tamborrino",
-      "url": "https://www.politico.com/staff/kelsey-tamborrino"
+      "text": "Mohar Chatterjee",
+      "url": "https://www.politico.com/staff/mohar-chatterjee"
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/18/pence-endorses-robson-arizona-governor-00046289"
+      "url": "https://www.politico.com/news/2022/07/18/val-demings-covid-democrats-tampa-conference-00046335"
     },
     {
-      "text": "Pence endorses Robson for Arizona governor, colliding with Trump in key primary",
-      "url": "https://www.politico.com/news/2022/07/18/pence-endorses-robson-arizona-governor-00046289"
+      "text": "Val Demings announces she has Covid after attending Dem's Tampa conference",
+      "url": "https://www.politico.com/news/2022/07/18/val-demings-covid-democrats-tampa-conference-00046335"
     },
     {
-      "text": "Alex Isenstadt",
-      "url": "https://www.politico.com/staff/alex-isenstadt"
+      "text": "Hannah Farrow",
+      "url": "https://www.politico.com/staff/hannah-farrow"
     },
     {
-      "text": "\n\n\n\n\n\n \n",
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/19/hunter-biden-gop-2023-00046419"
+    },
+    {
+      "text": "It's not just Hunter Biden: Prepare for a 2023 packed with House GOP investigations",
+      "url": "https://www.politico.com/news/2022/07/19/hunter-biden-gop-2023-00046419"
+    },
+    {
+      "text": "Jordain Carney",
+      "url": "https://www.politico.com/staff/jordain-carney"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/16/new-york-housing-crunch-00045575"
+    },
+    {
+      "text": "New York tried to make apartments affordable. The opposite happened.",
+      "url": "https://www.politico.com/news/2022/07/16/new-york-housing-crunch-00045575"
+    },
+    {
+      "text": "Janaki Chadha",
+      "url": "https://www.politico.com/staff/janaki-chadha"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/news/2022/07/19/sprint-through-the-finish-why-the-jan-6-committee-isnt-nearly-done-00046453"
+    },
+    {
+      "text": "\u2018Sprint through the finish\u2019: Why the Jan. 6 committee isn't nearly done",
+      "url": "https://www.politico.com/news/2022/07/19/sprint-through-the-finish-why-the-jan-6-committee-isnt-nearly-done-00046453"
+    },
+    {
+      "text": "Kyle Cheney",
+      "url": "https://www.politico.com/staff/kyle-cheney"
+    },
+    {
+      "text": "Nicholas Wu",
+      "url": "https://www.politico.com/staff/nicholas-wu"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n",
       "url": "https://www.politico.com/news/2022/07/19/biden-trip-climate-emergency-00046524"
     },
     {
@@ -3443,7 +3541,7 @@
       "url": "https://www.politico.com/staff/alex-guillen"
     },
     {
-      "text": "\n\n\n\n\n\n \n",
+      "text": "\n\n\n\n\n\n\n",
       "url": "https://www.politico.com/news/2022/07/18/probe-trump-existing-jan-6-cases-00046274"
     },
     {
@@ -3460,123 +3558,31 @@
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/18/bannon-trial-set-to-open-tuesday-as-jury-selection-winds-down-00046439"
+      "url": "https://www.politico.com/news/2022/07/19/ohio-supreme-court-scraps-2nd-gop-drawn-congressional-map-00046583"
     },
     {
-      "text": "Bannon trial set to open Tuesday as jury selection winds down",
-      "url": "https://www.politico.com/news/2022/07/18/bannon-trial-set-to-open-tuesday-as-jury-selection-winds-down-00046439"
+      "text": "Ohio Supreme Court scraps 2nd GOP-drawn congressional map",
+      "url": "https://www.politico.com/news/2022/07/19/ohio-supreme-court-scraps-2nd-gop-drawn-congressional-map-00046583"
     },
     {
-      "text": "Josh Gerstein",
-      "url": "https://www.politico.com/staff/joshgerstein"
-    },
-    {
-      "text": "Kyle Cheney",
-      "url": "https://www.politico.com/staff/kyle-cheney"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/18/democrats-murkowski-alaska-republican-fans-00046159"
-    },
-    {
-      "text": "Democrats for Murkowski: Alaska Republican counts her fans across the aisle",
-      "url": "https://www.politico.com/news/2022/07/18/democrats-murkowski-alaska-republican-fans-00046159"
-    },
-    {
-      "text": "Burgess Everett",
-      "url": "https://www.politico.com/staff/burgess-everett"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/19/inflation-biden-wall-street-recession-00046161"
-    },
-    {
-      "text": "Wall Street braces for economic \u2018hurricane\u2019",
-      "url": "https://www.politico.com/news/2022/07/19/inflation-biden-wall-street-recession-00046161"
-    },
-    {
-      "text": "Ben White",
-      "url": "https://www.politico.com/staff/ben-white"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/19/documents-antitrust-case-google-amazon-00046522"
-    },
-    {
-      "text": "New internal documents show tech giants pushing out competitors",
-      "url": "https://www.politico.com/news/2022/07/19/documents-antitrust-case-google-amazon-00046522"
-    },
-    {
-      "text": "Josh Sisco",
-      "url": "https://www.politico.com/staff/josh-sisco"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/15/democrats-manchin-climate-activists-00046081"
-    },
-    {
-      "text": "Democrats, climate activists grasp for comeback after blow from Manchin",
-      "url": "https://www.politico.com/news/2022/07/15/democrats-manchin-climate-activists-00046081"
-    },
-    {
-      "text": "Kelsey Tamborrino",
-      "url": "https://www.politico.com/staff/kelsey-tamborrino"
-    },
-    {
-      "text": "Josh Siegel",
-      "url": "https://www.politico.com/staff/josh-siegel"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/17/gop-endorsements-25-year-old-matthew-foldi-00046173"
-    },
-    {
-      "text": "National GOP endorsements poured in for a 25-year-old. It might not matter.",
-      "url": "https://www.politico.com/news/2022/07/17/gop-endorsements-25-year-old-matthew-foldi-00046173"
-    },
-    {
-      "text": "Sarah Ferris",
-      "url": "https://www.politico.com/staff/sarah-ferris"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/15/jan-6-committee-subpoenas-secret-service-amid-text-message-controversy-00046199"
-    },
-    {
-      "text": "Jan. 6 committee subpoenas Secret Service amid text message controversy",
-      "url": "https://www.politico.com/news/2022/07/15/jan-6-committee-subpoenas-secret-service-amid-text-message-controversy-00046199"
-    },
-    {
-      "text": "Nicholas Wu",
-      "url": "https://www.politico.com/staff/nicholas-wu"
-    },
-    {
-      "text": "Kyle Cheney",
-      "url": "https://www.politico.com/staff/kyle-cheney"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/news/2022/07/19/mastriano-pennsylvania-governor-race-00046423"
-    },
-    {
-      "text": "Democrats boosted a MAGA longshot in the Pa. gov\u2019s race. Now he\u2019s got a real shot at winning.",
-      "url": "https://www.politico.com/news/2022/07/19/mastriano-pennsylvania-governor-race-00046423"
-    },
-    {
-      "text": "It's not just Hunter Biden: Prepare for a 2023 packed with House GOP investigations",
-      "url": "https://www.politico.com/news/2022/07/19/hunter-biden-gop-2023-00046419"
+      "text": "\u2018It\u2019s the accumulation\u2019: The Jan. 6 hearings are wounding Trump, after all",
+      "url": "https://www.politico.com/news/2022/07/20/jan-6-hearings-trump-support-falls-00046662"
     },
     {
       "text": "47 House Republicans vote to write same-sex marriage into law",
       "url": "https://www.politico.com/news/2022/07/19/house-republicans-same-sex-marriage-law-00046682"
     },
     {
-      "text": "Bannon defense to jury: Jan. 6 contempt charge fueled by politics",
-      "url": "https://www.politico.com/news/2022/07/19/brief-delay-bannon-trial-evidence-00046539"
+      "text": "It's not just Hunter Biden: Prepare for a 2023 packed with House GOP investigations",
+      "url": "https://www.politico.com/news/2022/07/19/hunter-biden-gop-2023-00046419"
     },
     {
-      "text": "Rand Paul lights into McConnell over 'secret' judicial deal",
-      "url": "https://www.politico.com/news/2022/07/18/rand-lights-into-mcconnell-over-secret-judicial-deal-00046441"
+      "text": "Democrats boosted a MAGA longshot in the Pa. gov\u2019s race. Now he\u2019s got a real shot at winning.",
+      "url": "https://www.politico.com/news/2022/07/19/mastriano-pennsylvania-governor-race-00046423"
+    },
+    {
+      "text": "Bannon\u2019s fight with Jan. 6 committee spills into contempt trial",
+      "url": "https://www.politico.com/news/2022/07/20/judge-vows-bannon-trial-wont-be-political-circus-00046859"
     },
     {
       "text": "VIDEO",
@@ -3584,22 +3590,22 @@
     },
     {
       "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/video/2022/07/19/schumer-maga-republicans-attacks-on-marriage-equality-are-unhinged-638688"
+      "url": "https://www.politico.com/video/2022/07/19/from-election-night-to-jan-6-a-plot-grows-within-trumps-w-h-639481"
     },
     {
-      "text": "\nSchumer: MAGA Republicans attacks on marriage equality are \u2018unhinged\u2019",
-      "url": "https://www.politico.com/video/2022/07/19/schumer-maga-republicans-attacks-on-marriage-equality-are-unhinged-638688"
-    },
-    {
-      "text": "\n\n\n\n\n\n\n",
-      "url": "https://www.politico.com/video/2022/07/19/steven-dettelbach-is-sworn-in-as-new-atf-director-638754"
-    },
-    {
-      "text": "\nSteven Dettelbach is sworn in as ATF director",
-      "url": "https://www.politico.com/video/2022/07/19/steven-dettelbach-is-sworn-in-as-new-atf-director-638754"
+      "text": "\nFrom Election Night to Jan. 6: A plot grows within Trump\u2019s W.H.",
+      "url": "https://www.politico.com/video/2022/07/19/from-election-night-to-jan-6-a-plot-grows-within-trumps-w-h-639481"
     },
     {
       "text": "\n\n\n\n\n\n\n",
+      "url": "https://www.politico.com/video/2022/07/19/brutality-on-the-ground-jan-6-witnesses-reveal-the-stoking-of-a-riot-639518"
+    },
+    {
+      "text": "\nBrutality on the ground: Jan. 6 witnesses reveal the stoking of a riot",
+      "url": "https://www.politico.com/video/2022/07/19/brutality-on-the-ground-jan-6-witnesses-reveal-the-stoking-of-a-riot-639518"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n ",
       "url": "https://www.politico.com/video/2022/07/19/not-stringing-anybody-along-manchin-defends-himself-against-criticism-laughs-at-party-switching-rumors-638650"
     },
     {
@@ -3651,7 +3657,7 @@
       "url": "https://www.politico.com/news/magazine/2022/07/17/without-ivana-trump-there-is-no-donald-trump"
     },
     {
-      "text": "\n\n\n\n\n\n\n",
+      "text": "\n\n \n\n\n\n\n",
       "url": "https://www.politico.com/news/2022/07/15/republicans-fear-abortion-backlash-00046005"
     },
     {
@@ -3783,7 +3789,7 @@
       "url": "https://www.politico.com/privacy"
     },
     {
-      "text": "More information",
+      "text": "More Information",
       "url": "https://cookiepedia.co.uk/giving-consent-to-cookies"
     },
     {
@@ -3795,10 +3801,10 @@
       "url": "https://www.onetrust.com/products/cookie-consent/"
     }
   ],
-  "server": "ia802500.us.archive.org",
-  "uniq": 505507881,
+  "server": "ia902500.us.archive.org",
+  "uniq": 691342857,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }
