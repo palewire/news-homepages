@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 555 sites.
+The archiving routine is currently capturing 560 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -47,6 +47,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Aspen Journalism](https://palewi.re/docs/news-homepages/sites/aspenjournalism.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspenjournalism.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aspenjournalism.xml)|
 |[Associated Press](https://palewi.re/docs/news-homepages/sites/ap.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ap.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ap.xml)|
 |[Athens Banner-Herald](https://palewi.re/docs/news-homepages/sites/onlineathens.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/onlineathens.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/onlineathens.xml)|
+|[Athletic](https://palewi.re/docs/news-homepages/sites/theathletic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theathletic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theathletic.xml)|
 |[Atlanta Civic Circle](https://palewi.re/docs/news-homepages/sites/atlciviccircle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atlciviccircle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/atlciviccircle.xml)|
 |[Atlanta Journal-Constitution](https://palewi.re/docs/news-homepages/sites/ajc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ajc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ajc.xml)|
 |[Atlantic](https://palewi.re/docs/news-homepages/sites/theatlantic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theatlantic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theatlantic.xml)|
@@ -93,6 +94,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Bulwark](https://palewi.re/docs/news-homepages/sites/bulwarkonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bulwarkonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bulwarkonline.xml)|
 |[Buzzfeed News](https://palewi.re/docs/news-homepages/sites/buzzfeednews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/buzzfeednews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/buzzfeednews.xml)|
 |[Calgary Herald](https://palewi.re/docs/news-homepages/sites/calgaryherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/calgaryherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/calgaryherald.xml)|
+|[Calmatters](https://palewi.re/docs/news-homepages/sites/calmatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/calmatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/calmatters.xml)|
 |[Canopy Atlanta](https://palewi.re/docs/news-homepages/sites/canopyatl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/canopyatl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/canopyatl.xml)|
 |[Capital B Atlanta](https://palewi.re/docs/news-homepages/sites/capitalb_atl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capitalb_atl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capitalb_atl.xml)|
 |[Capital Gazette](https://palewi.re/docs/news-homepages/sites/capgaznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capgaznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capgaznews.xml)|
@@ -213,6 +215,8 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[France 24 English](https://palewi.re/docs/news-homepages/sites/france24_en.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/france24_en.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/france24_en.xml)|
 |[franceinfo](https://palewi.re/docs/news-homepages/sites/franceinfo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/franceinfo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/franceinfo.xml)|
 |[Frederick News-Post](https://palewi.re/docs/news-homepages/sites/frednewspost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/frednewspost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/frednewspost.xml)|
+|[Freethink](https://palewi.re/docs/news-homepages/sites/freethinkmedia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/freethinkmedia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/freethinkmedia.xml)|
+|[Gainesville Sun](https://palewi.re/docs/news-homepages/sites/gainesvillesun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gainesvillesun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gainesvillesun.xml)|
 |[Galveston County Daily News](https://palewi.re/docs/news-homepages/sites/galvnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/galvnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/galvnews.xml)|
 |[Gateway Pundit](https://palewi.re/docs/news-homepages/sites/gatewaypundit.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gatewaypundit.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gatewaypundit.xml)|
 |[Gawker](https://palewi.re/docs/news-homepages/sites/gawker.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gawker.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gawker.xml)|
@@ -351,6 +355,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[NBC10 Philadelphia](https://palewi.re/docs/news-homepages/sites/nbcphiladelphia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcphiladelphia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcphiladelphia.xml)|
 |[Nettavisen](https://palewi.re/docs/news-homepages/sites/nettavisen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nettavisen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nettavisen.xml)|
 |[Nevada Public Radio](https://palewi.re/docs/news-homepages/sites/knprnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knprnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/knprnews.xml)|
+|[New Republic](https://palewi.re/docs/news-homepages/sites/newrepublic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newrepublic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newrepublic.xml)|
 |[New Scientist](https://palewi.re/docs/news-homepages/sites/newscientist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newscientist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newscientist.xml)|
 |[New York](https://palewi.re/docs/news-homepages/sites/nymag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nymag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nymag.xml)|
 |[New York Focus](https://palewi.re/docs/news-homepages/sites/nysfocus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nysfocus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nysfocus.xml)|

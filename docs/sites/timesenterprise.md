@@ -17,7 +17,8 @@ orphan: true
 | Location       | Thomasville                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[timesenterprise-2022](https://archive.org/details/timesenterprise-2022)|

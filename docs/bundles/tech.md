@@ -7,7 +7,7 @@ orphan: true
 
 # Technology
 
-The most recent homepages from 14 news sites in this bundle.
+The most recent homepages from 15 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -45,6 +45,15 @@ The most recent homepages from 14 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/engadget.html">Engadget</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/freethinkmedia.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/freethinkmedia.jpg"
+     alt="Freethink"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/freethinkmedia.html">Freethink</a></p>
 </div>
 
 <div class="latest-child">
@@ -156,6 +165,7 @@ The most recent homepages from 14 news sites in this bundle.
 |[Boing Boing](https://palewi.re/docs/news-homepages/sites/boingboing.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/boingboing.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/boingboing.xml)|
 |[CNET](https://palewi.re/docs/news-homepages/sites/cnet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cnet.xml)|
 |[Engadget](https://palewi.re/docs/news-homepages/sites/engadget.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/engadget.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/engadget.xml)|
+|[Freethink](https://palewi.re/docs/news-homepages/sites/freethinkmedia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/freethinkmedia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/freethinkmedia.xml)|
 |[Gizmodo](https://palewi.re/docs/news-homepages/sites/gizmodo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gizmodo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gizmodo.xml)|
 |[Mashable](https://palewi.re/docs/news-homepages/sites/mashable.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mashable.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mashable.xml)|
 |[Protocol](https://palewi.re/docs/news-homepages/sites/protocol.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/protocol.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/protocol.xml)|

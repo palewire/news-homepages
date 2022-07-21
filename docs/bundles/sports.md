@@ -7,7 +7,7 @@ orphan: true
 
 # Sports
 
-The most recent homepages from 7 news sites in this bundle.
+The most recent homepages from 8 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -74,6 +74,15 @@ The most recent homepages from 7 news sites in this bundle.
  <p><a href="../sites/sinow.html">Sports Illustrated</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theathletic.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theathletic.jpg"
+     alt="Athletic"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theathletic.html">Athletic</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -96,3 +105,4 @@ The most recent homepages from 7 news sites in this bundle.
 |[Fox Sports](https://palewi.re/docs/news-homepages/sites/foxsports.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxsports.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foxsports.xml)|
 |[SB Nation](https://palewi.re/docs/news-homepages/sites/sbnation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sbnation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sbnation.xml)|
 |[Sports Illustrated](https://palewi.re/docs/news-homepages/sites/sinow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sinow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sinow.xml)|
+|[Athletic](https://palewi.re/docs/news-homepages/sites/theathletic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theathletic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theathletic.xml)|

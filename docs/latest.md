@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 555 news sites.
+The most recent homepages captured from 560 news sites.
 
 <div class="latest-parent">
 
@@ -347,6 +347,15 @@ The most recent homepages captured from 555 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/onlineathens.html">Athens Banner-Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theathletic.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theathletic.jpg"
+     alt="Athletic"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/theathletic.html">Athletic</a></p>
 </div>
 
 <div class="latest-child">
@@ -761,6 +770,15 @@ The most recent homepages captured from 555 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/calgaryherald.html">Calgary Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/calmatters.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/calmatters.jpg"
+     alt="Calmatters"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/calmatters.html">Calmatters</a></p>
 </div>
 
 <div class="latest-child">
@@ -1841,6 +1859,24 @@ The most recent homepages captured from 555 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/frednewspost.html">Frederick News-Post</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/freethinkmedia.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/freethinkmedia.jpg"
+     alt="Freethink"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/freethinkmedia.html">Freethink</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gainesvillesun.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gainesvillesun.jpg"
+     alt="Gainesville Sun"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/gainesvillesun.html">Gainesville Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -3083,6 +3119,15 @@ The most recent homepages captured from 555 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/knprnews.html">Nevada Public Radio</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newrepublic.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newrepublic.jpg"
+     alt="New Republic"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/newrepublic.html">New Republic</a></p>
 </div>
 
 <div class="latest-child">

@@ -17,7 +17,7 @@ orphan: true
 | Location       | Davenport                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 171 screenshots stored at the Internet Archive.
+The archiving routine has captured 174 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

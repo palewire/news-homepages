@@ -17,7 +17,8 @@ orphan: true
 | Location       | Hamburg                                                                 |
 | Timezone       | Europe/Berlin                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[chess24com-2022](https://archive.org/details/chess24com-2022)|

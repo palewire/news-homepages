@@ -17,7 +17,7 @@ orphan: true
 | Location       | Dublin                                                                 |
 | Timezone       | Europe/Dublin                                                                 |
 
-The archiving routine has captured 4 screenshots stored at the Internet Archive.
+The archiving routine has captured 6 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

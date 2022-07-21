@@ -17,7 +17,8 @@ orphan: true
 | Location       | Rome                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[romenewstribune-2022](https://archive.org/details/romenewstribune-2022)|

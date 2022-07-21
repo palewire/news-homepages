@@ -17,7 +17,8 @@ orphan: true
 | Location       | Oslo                                                                 |
 | Timezone       | Europe/Oslo                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[dn_no-2022](https://archive.org/details/dn_no-2022)|

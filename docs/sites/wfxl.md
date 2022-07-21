@@ -17,7 +17,8 @@ orphan: true
 | Location       | Albany                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 1 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[wfxl-2022](https://archive.org/details/wfxl-2022)|
