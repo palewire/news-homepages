@@ -1,5 +1,5 @@
 {
-  "created": 1658279379,
+  "created": 1658363482,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/slate-2022",
@@ -2800,31 +2800,147 @@
       "sha1": "8554c2dc2fc8c4999e3d9a901e60de20c36703e2"
     },
     {
+      "name": "slate-2022-07-20T00:18:55.617541-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658290738",
+      "size": "36811",
+      "md5": "23f76ec582b63e3a1aef23a7ad00aca2",
+      "crc32": "a90601f9",
+      "sha1": "1d71d0134ada19eed0c550b0339f05b247325f87",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-07-20T00:18:55.617541-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658290739",
+      "size": "53926",
+      "md5": "bcc2c215a75739a51818320fbfe20e0d",
+      "crc32": "5f788898",
+      "sha1": "f444e647b3b871f3106442ef7375796eff7415f5",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-07-20T00:18:55.617541-04:00.jpg",
+      "source": "original",
+      "mtime": "1658290736",
+      "size": "240527",
+      "md5": "e792d6ded34f3d803857fd7bfbcd58e8",
+      "crc32": "f5d624c6",
+      "sha1": "fa1e9e24f64d3a8586ab43a6dc38b7f4d7a84703",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "slate-2022-07-20T00:18:55.617541-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "slate-2022-07-20T00:18:55.617541-04:00.jpg",
+      "mtime": "1658290830",
+      "size": "9505",
+      "md5": "e9b291edc79bd94af88cd72ed9323faf",
+      "crc32": "eda8eaf4",
+      "sha1": "b5ed8564c370cea391527f8ec75bcc5984a4ccef"
+    },
+    {
+      "name": "slate-2022-07-20T12:39:58.465868-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658335202",
+      "size": "37256",
+      "md5": "4c50d5ac7e040557b2d7c287228ff2e5",
+      "crc32": "c9bd373d",
+      "sha1": "1348c23d38e085af2b59b4bef9b5edb7ccde195c",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-07-20T12:39:58.465868-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658335204",
+      "size": "51362",
+      "md5": "7bb36571e64a3619007fcaa2879a63b0",
+      "crc32": "e070bf4b",
+      "sha1": "99fca3cfa972cf125f82b108600a6b852c313dbe",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-07-20T12:39:58.465868-04:00.jpg",
+      "source": "original",
+      "mtime": "1658335200",
+      "size": "241413",
+      "md5": "66ace41ad5269e05ae628ebfbaf0b785",
+      "crc32": "7e102d69",
+      "sha1": "2cc587405a5a48268b78670787fb5c1dced691cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "slate-2022-07-20T12:39:58.465868-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "slate-2022-07-20T12:39:58.465868-04:00.jpg",
+      "mtime": "1658335455",
+      "size": "9791",
+      "md5": "364f73c001b38b3970892f258f6b95c8",
+      "crc32": "37685633",
+      "sha1": "ce918a4f316f0d9b83d0706f418c992055617e40"
+    },
+    {
+      "name": "slate-2022-07-20T12:42:04.266938-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658335332",
+      "size": "37476",
+      "md5": "be2dccde13e980b816959cfb4698fa60",
+      "crc32": "ea4909f4",
+      "sha1": "735aaa750215775e154bc81f4dff85a88dade6a2",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-07-20T12:42:04.266938-04:00.jpg",
+      "source": "original",
+      "mtime": "1658335326",
+      "size": "241468",
+      "md5": "a3a616da4039981a8b3994121a3be249",
+      "crc32": "8086128c",
+      "sha1": "49ea95fa5bf8b71e26404606e4f42d4191bb4ccc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "slate-2022-07-20T12:42:04.266938-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "slate-2022-07-20T12:42:04.266938-04:00.jpg",
+      "mtime": "1658339388",
+      "size": "9774",
+      "md5": "cc0acc5be7e754859ad80aed7a40ba30",
+      "crc32": "45a0a369",
+      "sha1": "3d0e8f73f4472ec11eab9cbc3e194cbe116749a3"
+    },
+    {
       "name": "slate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "37698d72ea326ed113e6a4126a24c783e19b471c",
-      "mtime": "1658250628",
-      "size": "56578",
-      "md5": "d6dfc539d18dbe6f1a20e10deb9b18ef",
-      "crc32": "fee04f75",
-      "sha1": "5c285c47d117bfac61aa93134d97231e12eb409e",
+      "btih": "4da7e07e6e88f94648a4d3db9e1f19f7a230c3b4",
+      "mtime": "1658339392",
+      "size": "58861",
+      "md5": "90e8ee5488c72645e62f2539053f5895",
+      "crc32": "3dc4b395",
+      "sha1": "af4bea6a994df43d6b58e7decbc7b82bf9abd740",
       "format": "Archive BitTorrent"
     },
     {
       "name": "slate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd0663f3a72775dd397ba171eab359df",
+      "md5": "6a766d2b562fb022ecacaeedf90d0b30",
       "summation": "md5"
     },
     {
       "name": "slate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658249903",
-      "size": "319488",
-      "md5": "9c070c22e18fc9542849cc3b4115bf33",
-      "crc32": "cb913e01",
-      "sha1": "4922422bbd1ebc68098f9a8966980ff9ee3027fb",
+      "mtime": "1658335563",
+      "size": "331776",
+      "md5": "5850fd2d33aebb3556a1dc9b46688560",
+      "crc32": "238af747",
+      "sha1": "c0d85731cf3efb751a571568017cfed700d0a87e",
       "format": "Metadata"
     },
     {
@@ -2838,9 +2954,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 270,
-  "item_last_updated": 1658250628,
-  "item_size": 23074523,
+  "files_count": 281,
+  "item_last_updated": 1658339392,
+  "item_size": 24058403,
   "metadata": {
     "identifier": "slate-2022",
     "collection": [
@@ -2857,1028 +2973,1232 @@
     "publicdate": "2022-06-24 23:01:12",
     "addeddate": "2022-06-24 23:01:12"
   },
-  "server": "ia801405.us.archive.org",
-  "slate-2022": [
-    {
-      "text": "Skip to the content",
-      "url": "#main"
-    },
-    {
-      "text": "Abortion Islands",
-      "url": "https://slate.com/news-and-politics/2022/07/roe-v-wade-illinois-prepares-to-become-and-abortion-island.html"
-    },
-    {
-      "text": "Caste Discrimination",
-      "url": "https://slate.com/technology/2022/07/caste-silicon-valley-thenmozhi-soundararajan.html"
-    },
-    {
-      "text": "Doug Mastriano",
-      "url": "https://slate.com/news-and-politics/2022/07/doug-mastriano-gab-followers-pennsylvania-governor.html"
-    },
-    {
-      "text": "Where the Crawdads Sing",
-      "url": "https://slate.com/culture/2022/07/where-the-crawdads-sing-movie-review-delia-owens.html"
-    },
-    {
-      "text": "James Webb Space Telescope",
-      "url": "https://slate.com/technology/2022/07/james-webb-space-telescope-photos-colors-infrared.html"
-    },
-    {
-      "text": "ICE",
-      "url": "https://slate.com/news-and-politics/2022/07/muslim-marine-recruit-ice-flouts-military-policy.html"
-    },
-    {
-      "text": "The Surge",
-      "url": "https://slate.com/news-and-politics/2022/07/joe-biden-donezo-dems-trump-running-again.html"
-    },
-    {
-      "text": "Sign In",
-      "url": "https://slate.com/sign-in"
-    },
-    {
-      "text": "\n                Account\n\n    ",
-      "url": "https://slate.com/account"
-    },
-    {
-      "text": "\n                Sign out\n\n    ",
-      "url": "https://slate.com/sign-out"
-    },
-    {
-      "text": "\n    \n      Slate homepage\n      \n    \n  ",
-      "url": "https://slate.com"
-    },
-    {
-      "text": "News & Politics",
-      "url": "/news-and-politics"
-    },
-    {
-      "text": "Culture",
-      "url": "/culture"
-    },
-    {
-      "text": "Technology",
-      "url": "/technology"
-    },
-    {
-      "text": "Business",
-      "url": "/business"
-    },
-    {
-      "text": "Human Interest",
-      "url": "/human-interest"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts"
-    },
-    {
-      "text": "Abortion Islands",
-      "url": "https://slate.com/news-and-politics/2022/07/roe-v-wade-illinois-prepares-to-become-and-abortion-island.html"
-    },
-    {
-      "text": "Caste Discrimination",
-      "url": "https://slate.com/technology/2022/07/caste-silicon-valley-thenmozhi-soundararajan.html"
-    },
-    {
-      "text": "Doug Mastriano",
-      "url": "https://slate.com/news-and-politics/2022/07/doug-mastriano-gab-followers-pennsylvania-governor.html"
-    },
-    {
-      "text": "Where the Crawdads Sing",
-      "url": "https://slate.com/culture/2022/07/where-the-crawdads-sing-movie-review-delia-owens.html"
-    },
-    {
-      "text": "James Webb Space Telescope",
-      "url": "https://slate.com/technology/2022/07/james-webb-space-telescope-photos-colors-infrared.html"
-    },
-    {
-      "text": "ICE",
-      "url": "https://slate.com/news-and-politics/2022/07/muslim-marine-recruit-ice-flouts-military-policy.html"
-    },
-    {
-      "text": "The Surge",
-      "url": "https://slate.com/news-and-politics/2022/07/joe-biden-donezo-dems-trump-running-again.html"
-    },
-    {
-      "text": "News & Politics",
-      "url": "/news-and-politics"
-    },
-    {
-      "text": "Culture",
-      "url": "/culture"
-    },
-    {
-      "text": "Technology",
-      "url": "/technology"
-    },
-    {
-      "text": "Business",
-      "url": "/business"
-    },
-    {
-      "text": "Human Interest",
-      "url": "/human-interest"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts"
-    },
-    {
-      "text": "\n            \n              \n            \n            Search\n          ",
-      "url": "/search"
-    },
-    {
-      "text": "\n              \n                Slate on Instagram\n                \n              \n            ",
-      "url": "https://www.instagram.com/slate/"
-    },
-    {
-      "text": "\n              \n                Slate on Twitter\n                \n              \n            ",
-      "url": "https://twitter.com/slate"
-    },
-    {
-      "text": "\n              \n                Slate on Facebook\n                \n              \n            ",
-      "url": "https://www.facebook.com/Slate/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://slate.com/plus?utm_medium=link&utm_campaign=plus&utm_content=nav_bar&utm_source=nav"
-    },
-    {
-      "text": "Sign in",
-      "url": "https://slate.com/sign-in"
-    },
-    {
-      "text": "Account",
-      "url": "https://slate.com/account"
-    },
-    {
-      "text": "Sign out",
-      "url": "https://slate.com/sign-out"
-    },
-    {
-      "text": "\n    \n      Slate homepage\n      \n    \n  ",
-      "url": "https://slate.com"
-    },
-    {
-      "text": "Account",
-      "url": "https://slate.com/account"
-    },
-    {
-      "text": "\n              Often Races Across Great Distances\n            ",
-      "url": "https://slate.com/culture/2022/07/gray-man-netflix-movie-chris-evans-ryan-gosling.html"
-    },
-    {
-      "text": "\n            \n              Slate on Instagram\n              \n            \n          ",
-      "url": "https://www.instagram.com/slate/"
-    },
-    {
-      "text": "\n            \n              Slate on Twitter\n              \n            \n          ",
-      "url": "https://twitter.com/slate"
-    },
-    {
-      "text": "\n            \n              Slate on Facebook\n              \n            \n          ",
-      "url": "https://www.facebook.com/Slate/"
-    },
-    {
-      "text": "\n    \n\n    \n      \n        \n        The Wild Strategy Democrats Keep Taking With Trump Loons\n      \n\n        \n          Jim Newell\n        \n\n      \n    \n  ",
-      "url": "https://slate.com/news-and-politics/2022/07/maryland-governor-primary-hogan-trump-schulz-cox.html"
-    },
-    {
-      "text": "\n\n      \n        \n      \n\n    \n      \n        \n        Jennifer Lopez and Ben Affleck\u2019s Surprise Vegas Union Leaves a Big Question Mark\n      \n        \n          Heather Schwedel\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/human-interest/2022/07/jennifer-lopez-affleck-ben-marriage-last-name.html"
-    },
-    {
-      "text": "\n\n\n    \n      \n        \n        Can You Totally Avoid Catching COVID? These People Have.\n      \n        \n          Hannah Docter-Loeb and Emma Wallenbrock\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/technology/2022/07/covid-negative-masks-vaccines-variants.html"
-    },
-    {
-      "text": "\n\n\n    \n      \n        \n        Bringing Back a Grand American Institution Could Transform Society. Why Don\u2019t We?\n      \n        \n          Henry Grabar\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/business/2022/07/hotels-rental-market-housing-prices-shortage-solution.html"
-    },
-    {
-      "text": "\n\n\n    \n      \n        \n        Netflix\u2019s Most Expensive Movie Ever Makes the Globe-Trotting Bourne Trilogy Look Provincial\n      \n        \n          Dana Stevens\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/culture/2022/07/gray-man-netflix-movie-chris-evans-ryan-gosling.html"
-    },
-    {
-      "text": "\n\n\n    \n      \n        \n        If You\u2019re Uncomfortable With Abortion, Consider This Centuries-Old Method for Preventing Pregnancy\n      \n        \n          Cari Sietstra and Wendy R. Sheldon\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/technology/2022/07/period-pills-pregnancy-fertility-menstrual-regulation.html"
-    },
-    {
-      "text": "\n\n\n    \n      \n        \n        An Abortion Clinic in Illinois Has Gone From 100 Calls a Day to 600\n      \n        \n          Hannah Docter-Loeb\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/news-and-politics/2022/07/roe-v-wade-illinois-prepares-to-become-and-abortion-island.html"
-    },
-    {
-      "text": "\n\n\n    \n      \n        \n        Why Europeans Took So Long to Learn the Crawl Stroke\n      \n        \n          Karen Eva Carr\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/human-interest/2022/07/history-of-the-crawl-stroke-karen-eva-carr-shifting-currents.html"
-    },
-    {
-      "text": "\n\n\n    \n      \n        \n        How the River Thames Came Back After Being Declared \u201cBiologically Dead\u201d\n      \n        \n          Mia Jackson\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/business/2022/07/london-river-thames-biologically-dead-revival.html"
-    },
-    {
-      "text": "\n\n\n    \n      \n        \n        I\u2019ve Had It With My Mischievous Twins\u2019 Antics\n      \n        \n          Doyin Richards\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/human-interest/2022/07/identical-twins-confusion-tricks.html"
-    },
-    {
-      "text": "\n      Podcast\n      What Next\n      Daily news and analysis from Slate.\n    ",
-      "url": "/podcasts/what-next"
-    },
-    {
-      "text": "\n        \n\n",
-      "url": "https://slate.com/podcasts/what-next/2022/07/some-prosecutors-recoil-at-idea-of-enforcing-abortion-bans"
-    },
-    {
-      "text": "\n        The Prosecutors Stuck With Abortion Bans\n        In conservative states, some public attorneys are trying to signal that they\u2019ll treat Dobbs-triggered cases with skepticism.\n      ",
-      "url": "https://slate.com/podcasts/what-next/2022/07/some-prosecutors-recoil-at-idea-of-enforcing-abortion-bans"
-    },
-    {
-      "text": "\n            \n\n          Slate\n\n      ",
-      "url": "https://slate.com/podcasts/what-next/2022/07/some-prosecutors-recoil-at-idea-of-enforcing-abortion-bans"
-    },
-    {
-      "text": "\n            \n\n          Apple Podcasts\n\n      ",
-      "url": "https://itunes.apple.com/us/podcast/id1438906889"
-    },
-    {
-      "text": "\n            \n              \n            \n          \n          Spotify\n\n      ",
-      "url": "https://open.spotify.com/show/7IT5Yn1zGDH1cYXh38dned?si=7dU1wk4UTlajAQ2WEUGLlQ"
-    },
-    {
-      "text": "\n            \n              \n            \n          \n          Stitcher\n\n      ",
-      "url": "https://www.stitcher.com/podcast/slate/what-next"
-    },
-    {
-      "text": "Want to listen ad free?",
-      "url": "/plus?utm_medium=link&utm_campaign=plus&utm_content=what_next_promo&utm_source=homepage"
-    },
-    {
-      "text": "\n    \n\n    \n      \n        \n        My Neighbor Caught Me in \u2026 a Very Compromising Position. I Can\u2019t Believe How I Reacted.\n      \n\n        \n          How to Do It\n        \n\n      \n    \n  ",
-      "url": "https://slate.com/human-interest/2022/07/caught-by-neighbor-advice.html"
-    },
-    {
-      "text": "\n\n      \n        \n      \n\n    \n      \n        \n        Netflix\u2019s Jane Austen Adaptation Is a Disaster, but It Has One Great Idea\n      \n        \n          Anna Nordberg\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/culture/2022/07/persuasion-netflix-henry-golding-dakota-johnson.html"
-    },
-    {
-      "text": "\n\n      \n        \n      \n\n    \n      \n        \n        There\u2019s a Looming Workplace Crisis. Employers Don\u2019t Care.\n      \n        \n          Alison Green\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/human-interest/2022/07/covid-sick-leave-time-off-pandemic-work-crisis.html"
-    },
-    {
-      "text": "\n\n\n    \n      \n        \n        I\u2019m Black. Remote Work Has Been Great for My Mental Health.\n      \n        \n          LeRon Barton\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/technology/2022/07/racism-remote-work-mental-health.html"
-    },
-    {
-      "text": "\n\n\n    \n      \n        \n        The Hidden Discrimination Affecting Silicon Valley Workers\n      \n        \n          Lizzie O\u2019Leary\n        \n      \n    \n\n  ",
-      "url": "https://slate.com/technology/2022/07/caste-silicon-valley-thenmozhi-soundararajan.html"
-    },
-    {
-      "text": "\n          \n\n      ",
-      "url": "/human-interest/dear-prudence"
-    },
-    {
-      "text": "View all",
-      "url": "/human-interest/dear-prudence"
-    },
-    {
-      "text": "\n\n        \n          \n        \n\n        \n\n            \n              \n                I can dimly understand how she made this stupid blunder, but I am not sympathetic\u2014I am enraged.\n                \n                  \n                \n              \n            \n        \n      ",
-      "url": "https://slate.com/human-interest/2022/07/sister-storage-bill-heirlooms-dear-prudence-advice.html"
-    },
-    {
-      "text": "\n          \n            \n            Help! My Multimillionaire Father Won\u2019t Pay for the Wedding I\u2019ve Planned.\n          \n        ",
-      "url": "https://slate.com/human-interest/2022/07/dear-prudie-multimillionaire-father-wont-pay-wedding.html"
-    },
-    {
-      "text": "\n              \n  \n    Content Locked\n    \n  \n    for Slate Plus members\n    \n  \n\n\n          \n            \n            Help! I\u2019m Still Deeply Hurt by What My Friends Forgot to Do at My Wedding\n          \n        ",
-      "url": "https://slate.com/human-interest/2022/07/friends-wedding-gifts-dear-prudence-advice.html"
-    },
-    {
-      "text": "\n              \n  \n    Content Locked\n    \n  \n    for Slate Plus members\n    \n  \n\n\n          \n            \n            Dear Prudence Uncensored: \u201cWorried Friendly Friend\u201d\n          \n        ",
-      "url": "https://slate.com/human-interest/2022/07/dear-prudence-uncensored-worried-friendly-friend.html"
-    },
-    {
-      "text": "\n              \n  \n    Content Locked\n    \n  \n    for Slate Plus members\n    \n  \n\n\n          \n            \n            Help! My Friend Is Spreading a Horrible\u2014and Impossible\u2014Rumor About Me in Our Small Town.\n          \n        ",
-      "url": "https://slate.com/human-interest/2022/07/rumor-baby-fatherhood-dear-prudence-advice.html"
-    },
-    {
-      "text": "\n        \n          \n        \n\n        \n          Care and Feeding\n          My Son Is Miserable in Middle School. Is This Normal?\n        \n      ",
-      "url": "https://slate.com/human-interest/2022/07/anxiety-middle-school-students.html"
-    },
-    {
-      "text": "View all Most Recent stories",
-      "url": "https://slate.com/full-slate"
-    },
-    {
-      "text": "\n        \n          6h ago\n        \n        \n              \n  \n    Content Locked\n    \n  \n    for Slate Plus members\n    \n  \n\n\n          \nDoyin Richards\n            \n          \n            Dear Care and Feeding: My Husband Made a Hugely Selfish Decision\u2014but I Am Enjoying the Consequences\n          \n        \n      ",
-      "url": "https://slate.com/human-interest/2022/07/husband-job-another-state-parenting-advice-care-and-feeding.html"
-    },
-    {
-      "text": "\n        \n          6h ago\n        \n        \n          \n\n      \n        Podcast Episode\n        \n      \n    \n              How To!\n\n          \n            My Kids Think I\u2019m an Emotional ATM. How Do I Pull the Plug?\n          \n        \n      ",
-      "url": "https://slate.com/podcasts/how-to/2022/07/how-to-help-young-adults-be-independent"
-    },
-    {
-      "text": "\n        \n          6h ago\n        \n        \n          \nR. Eric Thomas\n            \n          \n            Help! My Selfish Sister Forgot to Pay a Bill and Lost Precious Family Heirlooms.\n          \n        \n      ",
-      "url": "https://slate.com/human-interest/2022/07/sister-storage-bill-heirlooms-dear-prudence-advice.html"
-    },
-    {
-      "text": "\n        \n          6h ago\n        \n        \n          \nDoyin Richards\n            \n          \n            Dear Care and Feeding: I\u2019ve Had It With My Mischievous Twins\u2019 Antics\n          \n        \n      ",
-      "url": "https://slate.com/human-interest/2022/07/identical-twins-confusion-tricks.html"
-    },
-    {
-      "text": "\n        \n          7h ago\n        \n        \n          \nJim Newell\n            \n          \n            The Wild Strategy Democrats Keep Taking With Trump Loons\n          \n        \n      ",
-      "url": "https://slate.com/news-and-politics/2022/07/maryland-governor-primary-hogan-trump-schulz-cox.html"
-    },
-    {
-      "text": "\n        \n          7h ago\n        \n        \n          \n\n      \n        Podcast Episode\n        \n      \n    \n              What Next\n\n          \n            The Prosecutors Stuck With Abortion Bans\n          \n        \n      ",
-      "url": "https://slate.com/podcasts/what-next/2022/07/some-prosecutors-recoil-at-idea-of-enforcing-abortion-bans"
-    },
-    {
-      "text": "\n\n          \n            \n          \n\n\n          \n            \n            There\u2019s a Looming Workplace Crisis. Employers Don\u2019t Care.\n          \n\n        \nAlison Green\n                  \n\n      ",
-      "url": "https://slate.com/human-interest/2022/07/covid-sick-leave-time-off-pandemic-work-crisis.html"
-    },
-    {
-      "text": "\n\n          \n            \n          \n\n\n          \n            \n            Netflix\u2019s Most Expensive Movie Ever Makes the Globe-Trotting Bourne Trilogy Look Provincial\n          \n\n        \nDana Stevens\n                  \n\n      ",
-      "url": "https://slate.com/culture/2022/07/gray-man-netflix-movie-chris-evans-ryan-gosling.html"
-    },
-    {
-      "text": "\n\n\n\n          \n            Can You Totally Avoid Catching COVID? These People Have.\n          \n            The \u201cNOVIDs\u201d share their secrets.\n\n        \nHannah Docter-Loeb and Emma Wallenbrock\n                  \n\n      ",
-      "url": "https://slate.com/technology/2022/07/covid-negative-masks-vaccines-variants.html"
-    },
-    {
-      "text": "\n\n\n\n          \n            How to Do Fertility Control Like It\u2019s 1865\n          \n            For centuries, regulating your menses\u2014and stopping a potential pregnancy\u2014was legal under common law.\n\n        \nCari Sietstra and Wendy R. Sheldon\n                  \n\n      ",
-      "url": "https://slate.com/technology/2022/07/period-pills-pregnancy-fertility-menstrual-regulation.html"
-    },
-    {
-      "text": "Culture",
-      "url": "https://slate.com/culture"
-    },
-    {
-      "text": "Movies",
-      "url": "/culture/movies"
-    },
-    {
-      "text": "Music",
-      "url": "/culture/music"
-    },
-    {
-      "text": "Television",
-      "url": "/culture/television"
-    },
-    {
-      "text": "Books",
-      "url": "/culture/books"
-    },
-    {
-      "text": "Video Games",
-      "url": "/culture/video-games"
-    },
-    {
-      "text": "Sports",
-      "url": "/culture/sports"
-    },
-    {
-      "text": "Wide Angle",
-      "url": "/culture/wide-angle"
-    },
-    {
-      "text": "Brow Beat",
-      "url": "/culture/brow-beat"
-    },
-    {
-      "text": "\n        View all\n        Culture\n      ",
-      "url": "/culture"
-    },
-    {
-      "text": "\n          \n\n          \n            \n              Why the Internet Is So Obsessed With Lea Michele Replacing Beanie Feldstein in Funny Girl\n            \n            \nHeather Schwedel\n              \n              The answer manages to involve backstage drama, Glee parallels, ill-founded rumors, TikTok, and Babs.\n          \n        ",
-      "url": "https://slate.com/culture/2022/07/lea-michele-beanie-feldstein-funny-girl-drama-explained.html"
-    },
-    {
-      "text": "\n\n            \n              The Dumb Rule That Cost an American Hurdler a Shot at a World Title\n            \n            \n\n      \n        Podcast Episode\n        \n      \n    \n                Hang Up and Listen\n\n\n        ",
-      "url": "https://slate.com/podcasts/hang-up-and-listen/2022/07/the-world-track-and-field-championships-the-angels-and-juan-soto-and-brittney-griner-on-hang-up-and-listen"
-    },
-    {
-      "text": "\n\n            \n              Netflix\u2019s Most Expensive Movie Ever Makes the Globe-Trotting Bourne Trilogy Look Provincial\n            \n            \nDana Stevens\n              \n\n        ",
-      "url": "https://slate.com/culture/2022/07/gray-man-netflix-movie-chris-evans-ryan-gosling.html"
-    },
-    {
-      "text": "\n\n            \n              There Will Never Be Another Tiger Woods. There Is Now a Rory McIlroy.\n            \n            \nAlex Kirshner\n              \n\n        ",
-      "url": "https://slate.com/culture/2022/07/rory-mcilroy-2022-british-open.html"
-    },
-    {
-      "text": "\n\n            \n              Netflix\u2019s Jane Austen Adaptation Is a  Disaster, but It Has One Great Idea\n            \n            \nAnna Nordberg\n              \n\n        ",
-      "url": "https://slate.com/culture/2022/07/persuasion-netflix-henry-golding-dakota-johnson.html"
-    },
-    {
-      "text": "\n\n            \n              The Urban Club Music That Bridged \u201980s Genres: Freestyle\n            \n            \n\n      \n        Podcast Episode\n        \n      \n    \n                Hit Parade\n\n\n        ",
-      "url": "https://slate.com/podcasts/hit-parade/2022/07/freestyle-set-the-tempo-for-mid-80s-dance-music"
-    },
-    {
-      "text": "\n\n            \n              Our CEO Tried to Scam Me\n            \n            \n\n      \n        Podcast Episode\n        \n      \n    \n                ICYMI\n\n\n        ",
-      "url": "https://slate.com/podcasts/icymi/2022/07/robocallers-scammers-unrelenting-taking-toll"
-    },
-    {
-      "text": "Tech & Business",
-      "url": "https://slate.com/technology"
-    },
-    {
-      "text": "Moneybox",
-      "url": "/business/moneybox"
-    },
-    {
-      "text": "Metropolis",
-      "url": "/business/metropolis"
-    },
-    {
-      "text": "The Industry",
-      "url": "/technology/the-industry"
-    },
-    {
-      "text": "The Media",
-      "url": "/business/the-media"
-    },
-    {
-      "text": "Users",
-      "url": "/technology/users"
-    },
-    {
-      "text": "Future Tense",
-      "url": "/technology/future-tense"
-    },
-    {
-      "text": "Science",
-      "url": "/technology/science"
-    },
-    {
-      "text": "Medical Examiner",
-      "url": "/technology/medical-examiner"
-    },
-    {
-      "text": "\n        View all\n        Tech & Business\n      ",
-      "url": "/technology"
-    },
-    {
-      "text": "\n          \n\n          \n            \n              Texas Claimed It \u201cFixed\u201d Its Electricity Grid. It Doesn\u2019t Look Very Fixed!\n            \n            \nNitish Pahwa\n              \n          \n        ",
-      "url": "https://slate.com/technology/2022/07/texas-power-grid-electricity-ercot-abbott-heat.html"
-    },
-    {
-      "text": "\n          \n            \n              Can You Totally Avoid Catching COVID? These People Have.\n            \n            \nHannah Docter-Loeb and Emma Wallenbrock\n              \n          \n        ",
-      "url": "https://slate.com/technology/2022/07/covid-negative-masks-vaccines-variants.html"
-    },
-    {
-      "text": "\n          \n            \n              If You\u2019re Uncomfortable With Abortion, Consider This Centuries-Old Method for Preventing Pregnancy \n            \n            \nCari Sietstra and Wendy R. Sheldon\n              \n          \n        ",
-      "url": "https://slate.com/technology/2022/07/period-pills-pregnancy-fertility-menstrual-regulation.html"
-    },
-    {
-      "text": "\n          \n            \n              Bringing Back a Grand American Institution Could Transform Society. Why Don\u2019t We?\n            \n            \nHenry Grabar\n              \n          \n        ",
-      "url": "https://slate.com/business/2022/07/hotels-rental-market-housing-prices-shortage-solution.html"
-    },
-    {
-      "text": "\n          \n            \n              The Colors in the James Webb Space Telescope Photos Are Fake\n            \n            \nSarah Braner\n              \n          \n        ",
-      "url": "https://slate.com/technology/2022/07/james-webb-space-telescope-photos-colors-infrared.html"
-    },
-    {
-      "text": "\n          \n            \n              My Daughter Demands I Give Her the Family Home. My New Wife Has Other Ideas.\n            \n            \nElizabeth Spiers\n              \n          \n        ",
-      "url": "https://slate.com/business/2022/07/daughter-inheritance-house-finance-advice.html"
-    },
-    {
-      "text": "\n          \n            \n              I\u2019m Black. Remote Work Has Been Great for My Mental Health.\n            \n            \nLeRon Barton\n              \n          \n        ",
-      "url": "https://slate.com/technology/2022/07/racism-remote-work-mental-health.html"
-    },
-    {
-      "text": "\n\n          \n            \n          \n\n          \n            \n              Silicon Valley Has a Caste Problem\n            \n            \nLizzie O\u2019Leary\n              \n          \n        ",
-      "url": "https://slate.com/technology/2022/07/caste-silicon-valley-thenmozhi-soundararajan.html"
-    },
-    {
-      "text": "Human Interest",
-      "url": "https://slate.com/human-interest"
-    },
-    {
-      "text": "Family",
-      "url": "/human-interest/family"
-    },
-    {
-      "text": "Relationships",
-      "url": "/human-interest/relationships"
-    },
-    {
-      "text": "Work",
-      "url": "/human-interest/work"
-    },
-    {
-      "text": "Downtime",
-      "url": "/human-interest/downtime"
-    },
-    {
-      "text": "Dear Prudence",
-      "url": "/human-interest/dear-prudence "
-    },
-    {
-      "text": "Care and Feeding",
-      "url": "/human-interest/care-and-feeding"
-    },
-    {
-      "text": "How to Do It",
-      "url": "/human-interest/how-to-do-it"
-    },
-    {
-      "text": "\n        View all\n        Human Interest\n      ",
-      "url": "/human-interest"
-    },
-    {
-      "text": "\n          \n\n          \n            \n              What It Took for One Gilded Age Socialite to Get a Divorce\u2014and Keep Her Dignity\n            \n            \nApril White\n              \n              Money, discretion, and a chance blessing from a king.\n          \n        ",
-      "url": "https://slate.com/human-interest/2022/07/history-of-divorce-april-white-sioux-falls-divorce-colony.html"
-    },
-    {
-      "text": "\n\n                \n  \n    Content Locked\n    \n  \n    for Slate Plus members\n    \n  \n\n\n            \n              Dear Care and Feeding: My Husband Made a Hugely Selfish Decision\u2014but I Am Enjoying the Consequences\n            \n            \nDoyin Richards\n              \n\n        ",
-      "url": "https://slate.com/human-interest/2022/07/husband-job-another-state-parenting-advice-care-and-feeding.html"
-    },
-    {
-      "text": "\n\n            \n              My Kids Think I\u2019m an Emotional ATM. How Do I Pull the Plug?\n            \n            \n\n      \n        Podcast Episode\n        \n      \n    \n                How To!\n\n\n        ",
-      "url": "https://slate.com/podcasts/how-to/2022/07/how-to-help-young-adults-be-independent"
-    },
-    {
-      "text": "\n\n            \n              Help! My Selfish Sister Forgot to Pay a Bill and Lost Precious Family Heirlooms.\n            \n            \nR. Eric Thomas\n              \n\n        ",
-      "url": "https://slate.com/human-interest/2022/07/sister-storage-bill-heirlooms-dear-prudence-advice.html"
-    },
-    {
-      "text": "\n\n            \n              Dear Care and Feeding: I\u2019ve Had It With My Mischievous Twins\u2019 Antics\n            \n            \nDoyin Richards\n              \n\n        ",
-      "url": "https://slate.com/human-interest/2022/07/identical-twins-confusion-tricks.html"
-    },
-    {
-      "text": "\n\n            \n              Jennifer Lopez and Ben Affleck\u2019s Surprise Vegas Wedding Leaves a Big Question Mark\n            \n            \nHeather Schwedel\n              \n\n        ",
-      "url": "https://slate.com/human-interest/2022/07/jennifer-lopez-affleck-ben-marriage-last-name.html"
-    },
-    {
-      "text": "\n\n            \n              Help! My Annoying Aunt Claims She\u2019s \u201cAllergic\u201d to MSG, So I Slipped Some in Her Food to See.\n            \n            \nR. Eric Thomas\n              \n\n        ",
-      "url": "https://slate.com/human-interest/2022/07/aunt-msg-fake-allergy-dear-prudence-advice.html"
-    },
-    {
-      "text": "News & Politics",
-      "url": "https://slate.com/news-and-politics"
-    },
-    {
-      "text": "Politics",
-      "url": "/news-and-politics/politics"
-    },
-    {
-      "text": "Jurisprudence",
-      "url": "/news-and-politics/jurisprudence"
-    },
-    {
-      "text": "War Stories",
-      "url": "/news-and-politics/war-stories"
-    },
-    {
-      "text": "The World",
-      "url": "/news-and-politics/the-world"
-    },
-    {
-      "text": "The Slatest",
-      "url": "/news-and-politics/the-slatest"
-    },
-    {
-      "text": "\n        View all\n        News & Politics\n      ",
-      "url": "/news-and-politics"
-    },
-    {
-      "text": "\n          \n\n          \n            \n              Who Gets to Be a Church These Days?\n            \n            \nMolly Olmstead\n              \n          \n        ",
-      "url": "https://slate.com/news-and-politics/2022/07/family-research-council-church-state-separation.html"
-    },
-    {
-      "text": "\n          \n            \n              The Prosecutors Stuck With Abortion Bans\n            \n            \n\n      \n        Podcast Episode\n        \n      \n    \n                What Next\n\n          \n        ",
-      "url": "https://slate.com/podcasts/what-next/2022/07/some-prosecutors-recoil-at-idea-of-enforcing-abortion-bans"
-    },
-    {
-      "text": "\n          \n            \n              An Abortion Clinic in Illinois Has Gone From 100 Calls a Day to 600\n            \n            \nHannah Docter-Loeb\n              \n          \n        ",
-      "url": "https://slate.com/news-and-politics/2022/07/roe-v-wade-illinois-prepares-to-become-and-abortion-island.html"
-    },
-    {
-      "text": "\n          \n            \n              The Biden Problem\n            \n            \n\n      \n        Podcast Episode\n        \n      \n    \n                What Next\n\n          \n        ",
-      "url": "https://slate.com/podcasts/what-next/2022/07/the-democrats-have-a-biden-problem"
-    },
-    {
-      "text": "\n          \n            \n              Think You\u2019re Pretty Smart? Prove It With This Week\u2019s Quiz.\n            \n            \nRay Hamel\n              \n          \n        ",
-      "url": "https://slate.com/news-and-politics/2022/07/slate-trivia-quiz-history-ships-crime-fiction.html"
-    },
-    {
-      "text": "\n          \n            \n              \u201cThis Black Man Was Not Gonna Stand Before the Supreme Court and Say, I\u2019m Here to Win an Easy Case.\u201d\n            \n            \n\n      \n        Podcast Episode\n        \n      \n    \n                Amicus\n\n          \n        ",
-      "url": "https://slate.com/podcasts/amicus/2022/07/eric-holder-the-supreme-court-eviscerated-the-crown-jewel-of-the-civil-rights-movement"
-    },
-    {
-      "text": "\n          \n            \n              Is Joe Biden Really Donezo?\n            \n            \nJim Newell\n              \n          \n        ",
-      "url": "https://slate.com/news-and-politics/2022/07/joe-biden-donezo-dems-trump-running-again.html"
-    },
-    {
-      "text": "\n\n          \n            \n          \n\n          \n            \n              The Wild Strategy Democrats Keep Taking With Trump Loons\n            \n            \nJim Newell\n              \n          \n        ",
-      "url": "https://slate.com/news-and-politics/2022/07/maryland-governor-primary-hogan-trump-schulz-cox.html"
-    },
-    {
-      "text": "Elle",
-      "url": "https://www.elle.com/culture/movies-tv/g38848086/top-actors-who-look-different-in-real-life/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_elm_d_i_g38848086&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCyqkQo8dTR8_SFooF-"
-    },
-    {
-      "text": "40 Stars Who Look Nothing Like Their CharactersElle|",
-      "url": "https://www.elle.com/culture/movies-tv/g38848086/top-actors-who-look-different-in-real-life/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_elm_d_i_g38848086&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCyqkQo8dTR8_SFooF-"
-    },
-    {
-      "text": "",
-      "url": "https://www.elle.com/culture/movies-tv/g38848086/top-actors-who-look-different-in-real-life/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_elm_d_i_g38848086&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCyqkQo8dTR8_SFooF-"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
-    },
-    {
-      "text": "Esquire",
-      "url": "https://www.esquire.com/lifestyle/g12199946/new-york-1970s/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_esq_d_c_g12199946&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCvmkUopfrH6-mm-bv0AQ"
-    },
-    {
-      "text": "Photos of New York in the 1970sEsquire|",
-      "url": "https://www.esquire.com/lifestyle/g12199946/new-york-1970s/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_esq_d_c_g12199946&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCvmkUopfrH6-mm-bv0AQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.esquire.com/lifestyle/g12199946/new-york-1970s/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_esq_d_c_g12199946&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCvmkUopfrH6-mm-bv0AQ"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
-    },
-    {
-      "text": "Grishay",
-      "url": "https://tick.busterry.com/8f9ebc9e-9131-40e2-8d49-c4cb88c731ca?site=slate-homepage&site_id=1152902&title=The+Comfy+Women%27s+Sneakers+Are+Taking+Arizona+By+Storm&platform=Desktop&campaign_id=19629354&campaign_item_id=3438646683&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe9d2834d6b8cbcf37149123c6fe4b1a7.jpg&campaign_name=sh00625_us_pc_0629_dev_grishay&utm_campaign=sh00625_us_pc_0629_dev_grishay&utm_medium=1152902&click_id=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-&utm_source=taboola&utm_medium=1152902&utm_campaign=sh00625_us_pc_0629_dev_grishay&utm_content=3438646683&utm_term=19629354&sitedomain=slate.com&title=The+Comfy+Women%27s+Sneakers+Are+Taking+Arizona+By+Storm&tblci=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-"
-    },
-    {
-      "text": "The Comfy Women's Sneakers Are Taking Arizona By StormGrishay|",
-      "url": "https://tick.busterry.com/8f9ebc9e-9131-40e2-8d49-c4cb88c731ca?site=slate-homepage&site_id=1152902&title=The+Comfy+Women%27s+Sneakers+Are+Taking+Arizona+By+Storm&platform=Desktop&campaign_id=19629354&campaign_item_id=3438646683&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe9d2834d6b8cbcf37149123c6fe4b1a7.jpg&campaign_name=sh00625_us_pc_0629_dev_grishay&utm_campaign=sh00625_us_pc_0629_dev_grishay&utm_medium=1152902&click_id=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-&utm_source=taboola&utm_medium=1152902&utm_campaign=sh00625_us_pc_0629_dev_grishay&utm_content=3438646683&utm_term=19629354&sitedomain=slate.com&title=The+Comfy+Women%27s+Sneakers+Are+Taking+Arizona+By+Storm&tblci=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-"
-    },
-    {
-      "text": "",
-      "url": "https://tick.busterry.com/8f9ebc9e-9131-40e2-8d49-c4cb88c731ca?site=slate-homepage&site_id=1152902&title=The+Comfy+Women%27s+Sneakers+Are+Taking+Arizona+By+Storm&platform=Desktop&campaign_id=19629354&campaign_item_id=3438646683&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2Fe9d2834d6b8cbcf37149123c6fe4b1a7.jpg&campaign_name=sh00625_us_pc_0629_dev_grishay&utm_campaign=sh00625_us_pc_0629_dev_grishay&utm_medium=1152902&click_id=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-&utm_source=taboola&utm_medium=1152902&utm_campaign=sh00625_us_pc_0629_dev_grishay&utm_content=3438646683&utm_term=19629354&sitedomain=slate.com&title=The+Comfy+Women%27s+Sneakers+Are+Taking+Arizona+By+Storm&tblci=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-04-stream:Below Homepage Feed | Card 1:"
-    },
-    {
-      "text": "Read More",
-      "url": "https://trc.taboola.com/slate-homepage/log/3/click?pi=%2F&ri=342492fd8e9dd96381b74652bf73a59f&sd=v2_f86071481363b8fcdd78c7a45d9a44b0_27bef631-af79-4f59-b836-340a22be4ac9-tuct9d06022_1658247842_1658247842_CIi3jgYQhq9GGISVmLqhMCABKAEw4QE4kaQOQJiuDkjAy9kDUPEFWABgAGie4fPVv5r3zrsBcAE&ui=27bef631-af79-4f59-b836-340a22be4ac9-tuct9d06022&it=text&ii=~~V1~~4470160180116238586~~Bvvr2GU-m4136Yb2s7LoovNCXqbJFtOe5LEO8QkcPCkndpXq_nTToVci-tV_1bYyPVPbFHdycXfyr1VxmozLcWANN93_dhGoNVU93HODOAawecwlYupV-ADLiqSJCBxnkF2brjDLkjXtE0mWjyPKoFnFXeb-uloOOUnZR6JMi7sTg-_9RYbLFsJaIWAlQOQFP8Mj0SpiSYWwDT9FkUszAMm23qnmx5VJ01qlobRjjBYa15iy-2o19vUFMdRklfzVMlo50CpYvfwv7xoEc4vaM0XW4MJSXZ6sq6EzxEDTRJ_mYyf2pDc7Q8mjkja-4ReW&pt=home&li=rbox-h2v&sig=ec6b890139089b7e0372566d69d0fda79b7921f89126&redir=https%3A%2F%2Ftick.busterry.com%2F8f9ebc9e-9131-40e2-8d49-c4cb88c731ca%3Fsite%3Dslate-homepage%26site_id%3D1152902%26title%3DThe%2BComfy%2BWomen%2527s%2BSneakers%2BAre%2BTaking%2BArizona%2BBy%2BStorm%26platform%3DDesktop%26campaign_id%3D19629354%26campaign_item_id%3D3438646683%26thumbnail%3Dhttp%253A%252F%252Fcdn.taboola.com%252Flibtrc%252Fstatic%252Fthumbnails%252Fe9d2834d6b8cbcf37149123c6fe4b1a7.jpg%26campaign_name%3Dsh00625_us_pc_0629_dev_grishay%26utm_campaign%3Dsh00625_us_pc_0629_dev_grishay%26utm_medium%3D1152902%26click_id%3DGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-%26utm_source%3Dtaboola%26utm_medium%3D1152902%26utm_campaign%3Dsh00625_us_pc_0629_dev_grishay%26utm_content%3D3438646683%26utm_term%3D19629354%26sitedomain%3Dslate.com%26title%3DThe%2BComfy%2BWomen%2527s%2BSneakers%2BAre%2BTaking%2BArizona%2BBy%2BStorm%26tblci%3DGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-%23tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCD6Fgo9aKZ0NGWuOY-&vi=1658247842436&p=surmobiinternational2022-grishay-sc&r=77&lti=deflated&ppb=CMsB&cpb=EhIyMDIyMDcxOS02LVJFTEVBU0UYz7MCIJrDMyoZbGEudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMjAyOTM4gPL1owFAkaQOSJiuDlDAy9kDWPEFYwjN__________8BEM3__________wEYM2RjCNcWENUfGCNkYwjt__________8BEO3__________wEYE2RjCLwXEOogGCRkYwiWFBCbHBgYZGMI0gMQ4AYYCGRjCOoqEJ05GAlkYwiLLRCdPhgqZGMI9BQQnh0YH2RjCKQnEIo1GC9keAGAAbWIAYgB_I2uxwGQARc&cta=true"
-    },
-    {
-      "text": "Amy Coney Barrett Is in Over Her Head Mark Joseph SternMark Joseph SternUser: Mark Joseph Stern",
-      "url": "https://slate.com/news-and-politics/2022/07/amy-coney-barrett-abortion-supreme-court-blunders.html"
-    },
-    {
-      "text": "The Great Mystery Ivana Trump Left Behind Natalie ShutlerNatalie ShutlerUser: Natalie Shutler",
-      "url": "https://slate.com/news-and-politics/2022/07/ivana-trump-death-donald-marriage-history-obit.html"
-    },
-    {
-      "text": "The Hidden Message in Bill Barr\u2019s Jan. 6 Hearing Testimony Dahlia LithwickDahlia LithwickUser: Dahlia Lithwick",
-      "url": "https://slate.com/news-and-politics/2022/06/jan-6-hearings-bill-barrs-testimony-election-subversion-donald-trump-silly.html"
-    },
-    {
-      "text": "Americans Take Way Too Much Melatonin. It\u2019s Leading to Terrible Things. Emma WallenbrockEmma WallenbrockUser: Emma Wallenbrock",
-      "url": "https://slate.com/technology/2022/06/melatonin-overdose-kids-drug-prescription.html"
-    },
-    {
-      "text": "A New Netflix Hit Has Fans in Ecstasy, but They\u2019re Missing Its Troubling Subtext Nitish PahwaNitish PahwaUser: Nitish Pahwa",
-      "url": "https://slate.com/culture/2022/06/rrr-review-indian-blockbuster-netflix-hindu-nationalism.html"
-    },
-    {
-      "text": "\u201cThe Organs Come Out These Large Holes Because the Wounds Are So Big\u201d Mary HarrisMary HarrisUser: Mary Harris",
-      "url": "https://slate.com/news-and-politics/2022/06/gun-violence-mass-shootings-photos-horror.html"
-    },
-    {
-      "text": "Esquire",
-      "url": "https://www.esquire.com/entertainment/movies/g38635661/brat-pack-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_esq_d_i_g38635661&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCvmkUotcboxZmtkJGnAQ"
-    },
-    {
-      "text": "Esquire|",
-      "url": "https://www.esquire.com/entertainment/movies/g38635661/brat-pack-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_esq_d_i_g38635661&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCvmkUotcboxZmtkJGnAQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.esquire.com/entertainment/movies/g38635661/brat-pack-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_esq_d_i_g38635661&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCvmkUotcboxZmtkJGnAQ"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
-    },
-    {
-      "text": "Elle",
-      "url": "https://www.elle.com/culture/celebrities/g26310/celebrity-prom-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_elm_d_c_g26310_v2&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCyqkQohoXMor_6jI5r"
-    },
-    {
-      "text": "Elle|",
-      "url": "https://www.elle.com/culture/celebrities/g26310/celebrity-prom-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_elm_d_c_g26310_v2&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCyqkQohoXMor_6jI5r"
-    },
-    {
-      "text": "",
-      "url": "https://www.elle.com/culture/celebrities/g26310/celebrity-prom-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_elm_d_c_g26310_v2&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCyqkQohoXMor_6jI5r"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
-    },
-    {
-      "text": "Yahoo! Search",
-      "url": "https://ou-isc-cruises.gunuj.com/rd/-vacation_t/?evtolg=d_serp_imp&gt0=11&ggb=2&gjl=t2l&a=isc_tbl_00_00_--tc-10125826-spid-2-dmid-11-sid-1152902--&g57=10125826&gu8=58907&g1d=42947&gks=BORAT&aid=gnz-cruises-desktop-sc&ghj=2&tsn=21F77F6E5EE0&site=slate-homepage&network=taboola&gr3=slate-homepage&gkf=slate-homepage&glb=19775728&g2z=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCZ8lgoz9HQ5Ly_wotl&ob_click_id=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCZ8lgoz9HQ5Ly_wotl&oiu=slate-homepage&rty=1152902&zb6=3441769984&adtitle=Empty+Alaska+Cruise+Cabins+Cost+Almost+Nothing&utm_source=taboola&utm_medium=referral#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCZ8lgoz9HQ5Ly_wotl"
-    },
-    {
-      "text": "Yahoo! Search|",
-      "url": "https://ou-isc-cruises.gunuj.com/rd/-vacation_t/?evtolg=d_serp_imp&gt0=11&ggb=2&gjl=t2l&a=isc_tbl_00_00_--tc-10125826-spid-2-dmid-11-sid-1152902--&g57=10125826&gu8=58907&g1d=42947&gks=BORAT&aid=gnz-cruises-desktop-sc&ghj=2&tsn=21F77F6E5EE0&site=slate-homepage&network=taboola&gr3=slate-homepage&gkf=slate-homepage&glb=19775728&g2z=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCZ8lgoz9HQ5Ly_wotl&ob_click_id=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCZ8lgoz9HQ5Ly_wotl&oiu=slate-homepage&rty=1152902&zb6=3441769984&adtitle=Empty+Alaska+Cruise+Cabins+Cost+Almost+Nothing&utm_source=taboola&utm_medium=referral#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCZ8lgoz9HQ5Ly_wotl"
-    },
-    {
-      "text": "",
-      "url": "https://ou-isc-cruises.gunuj.com/rd/-vacation_t/?evtolg=d_serp_imp&gt0=11&ggb=2&gjl=t2l&a=isc_tbl_00_00_--tc-10125826-spid-2-dmid-11-sid-1152902--&g57=10125826&gu8=58907&g1d=42947&gks=BORAT&aid=gnz-cruises-desktop-sc&ghj=2&tsn=21F77F6E5EE0&site=slate-homepage&network=taboola&gr3=slate-homepage&gkf=slate-homepage&glb=19775728&g2z=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCZ8lgoz9HQ5Ly_wotl&ob_click_id=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCZ8lgoz9HQ5Ly_wotl&oiu=slate-homepage&rty=1152902&zb6=3441769984&adtitle=Empty+Alaska+Cruise+Cabins+Cost+Almost+Nothing&utm_source=taboola&utm_medium=referral#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCZ8lgoz9HQ5Ly_wotl"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 2:"
-    },
-    {
-      "text": "Good Housekeeping",
-      "url": "https://www.goodhousekeeping.com/life/entertainment/g39492860/top-classic-oscar-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_ghk_d_i_g39492860&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCC8mkQoz8jmxYz--c3sAQ"
-    },
-    {
-      "text": "Good Housekeeping|",
-      "url": "https://www.goodhousekeeping.com/life/entertainment/g39492860/top-classic-oscar-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_ghk_d_i_g39492860&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCC8mkQoz8jmxYz--c3sAQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.goodhousekeeping.com/life/entertainment/g39492860/top-classic-oscar-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_ghk_d_i_g39492860&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCC8mkQoz8jmxYz--c3sAQ"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 3:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 3:"
-    },
-    {
-      "text": "Gundry MD",
-      "url": "https://www2.thenewgutfix.com/cid/7013w000001vBgLAAU?subid1=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDTrUQovYHCofK70pKeAQ&utm_content=site_slate-homepage_campaign_id_3035398178_\n#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDTrUQovYHCofK70pKeAQ"
-    },
-    {
-      "text": "Gundry MD|",
-      "url": "https://www2.thenewgutfix.com/cid/7013w000001vBgLAAU?subid1=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDTrUQovYHCofK70pKeAQ&utm_content=site_slate-homepage_campaign_id_3035398178_\n#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDTrUQovYHCofK70pKeAQ"
-    },
-    {
-      "text": "",
-      "url": "https://www2.thenewgutfix.com/cid/7013w000001vBgLAAU?subid1=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDTrUQovYHCofK70pKeAQ&utm_content=site_slate-homepage_campaign_id_3035398178_\n#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDTrUQovYHCofK70pKeAQ"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 3:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 3:"
-    },
-    {
-      "text": "DogFoodDiscovery.com",
-      "url": "https://rtb-usw.mfadsrvr.com/click/CToF7qhZWGzm_HlNrRx0IrCedKkVTAroI9YEllZLB5uA1jngmVYhfbZfAZLTFTD0n7_UBCxHGEZFIn2EG1ou4W1DQKtDtZxSZ_YmvPAbz3O2VREasOA2ii7EC801hCMBIPkA5t91r_PO7iD3jLi0qqWBJf6ncXycfnDwWimVfiUE627B4OfuLZQ5AReTI-yrRPsWwzuTk9aO_awJWsFXhSISeknO7RrqP5W9sGtI0SuQoNA__MaHMl4UjgiIeQVdtjH9VUKrP7jGZPqZtaXsTZLm4mc0Cly47k9jybupV09K3IXEAEPqdxf-Qm3kRJOUPrPokYXrMS_8Tkofd9NHMHc///?lp_domain=www2.dogfooddiscovery.com&utm_source=taboola&utm_medium=referral&tblci=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDV6EUo4Puy1sTM5KwS#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDV6EUo4Puy1sTM5KwS"
-    },
-    {
-      "text": "DogFoodDiscovery.com|",
-      "url": "https://rtb-usw.mfadsrvr.com/click/CToF7qhZWGzm_HlNrRx0IrCedKkVTAroI9YEllZLB5uA1jngmVYhfbZfAZLTFTD0n7_UBCxHGEZFIn2EG1ou4W1DQKtDtZxSZ_YmvPAbz3O2VREasOA2ii7EC801hCMBIPkA5t91r_PO7iD3jLi0qqWBJf6ncXycfnDwWimVfiUE627B4OfuLZQ5AReTI-yrRPsWwzuTk9aO_awJWsFXhSISeknO7RrqP5W9sGtI0SuQoNA__MaHMl4UjgiIeQVdtjH9VUKrP7jGZPqZtaXsTZLm4mc0Cly47k9jybupV09K3IXEAEPqdxf-Qm3kRJOUPrPokYXrMS_8Tkofd9NHMHc///?lp_domain=www2.dogfooddiscovery.com&utm_source=taboola&utm_medium=referral&tblci=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDV6EUo4Puy1sTM5KwS#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDV6EUo4Puy1sTM5KwS"
-    },
-    {
-      "text": "",
-      "url": "https://rtb-usw.mfadsrvr.com/click/CToF7qhZWGzm_HlNrRx0IrCedKkVTAroI9YEllZLB5uA1jngmVYhfbZfAZLTFTD0n7_UBCxHGEZFIn2EG1ou4W1DQKtDtZxSZ_YmvPAbz3O2VREasOA2ii7EC801hCMBIPkA5t91r_PO7iD3jLi0qqWBJf6ncXycfnDwWimVfiUE627B4OfuLZQ5AReTI-yrRPsWwzuTk9aO_awJWsFXhSISeknO7RrqP5W9sGtI0SuQoNA__MaHMl4UjgiIeQVdtjH9VUKrP7jGZPqZtaXsTZLm4mc0Cly47k9jybupV09K3IXEAEPqdxf-Qm3kRJOUPrPokYXrMS_8Tkofd9NHMHc///?lp_domain=www2.dogfooddiscovery.com&utm_source=taboola&utm_medium=referral&tblci=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDV6EUo4Puy1sTM5KwS#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCDV6EUo4Puy1sTM5KwS"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 4:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 4:"
-    },
-    {
-      "text": "Car &amp; Driver",
-      "url": "https://www.caranddriver.com/features/g15381133/honda-civic-models-history/?utm_source=taboola_dda&utm_medium=cpm&utm_campaign=dda_tb_cd_d_i_g15381133&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCGvkYo_uSI7pKehfIK"
-    },
-    {
-      "text": "Car & Driver|",
-      "url": "https://www.caranddriver.com/features/g15381133/honda-civic-models-history/?utm_source=taboola_dda&utm_medium=cpm&utm_campaign=dda_tb_cd_d_i_g15381133&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCGvkYo_uSI7pKehfIK"
-    },
-    {
-      "text": "",
-      "url": "https://www.caranddriver.com/features/g15381133/honda-civic-models-history/?utm_source=taboola_dda&utm_medium=cpm&utm_campaign=dda_tb_cd_d_i_g15381133&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCGvkYo_uSI7pKehfIK"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 4:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-03:Below Homepage Feed | Card 4:"
-    },
-    {
-      "text": "Good Housekeeping",
-      "url": "https://www.goodhousekeeping.com/life/entertainment/g39004753/top-mtv-spring-break-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_ghk_d_i_g39004753&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCC8mkQos9CvtrPlkvS2AQ"
-    },
-    {
-      "text": "Good Housekeeping|",
-      "url": "https://www.goodhousekeeping.com/life/entertainment/g39004753/top-mtv-spring-break-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_ghk_d_i_g39004753&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCC8mkQos9CvtrPlkvS2AQ"
-    },
-    {
-      "text": "",
-      "url": "https://www.goodhousekeeping.com/life/entertainment/g39004753/top-mtv-spring-break-photos/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_ghk_d_i_g39004753&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCC8mkQos9CvtrPlkvS2AQ"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
-    },
-    {
-      "text": "Grammarly",
-      "url": "https://www.grammarly.com?utm_source=taboola&utm_campaign=NAPredictiveDesktopV3&utm_medium=cpc&utm_content=slate-homepage&utm_placement=Desktop&tblci=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCD67j4oxPDplIDwqY5r#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCD67j4oxPDplIDwqY5r"
-    },
-    {
-      "text": "Grammarly|",
-      "url": "https://www.grammarly.com?utm_source=taboola&utm_campaign=NAPredictiveDesktopV3&utm_medium=cpc&utm_content=slate-homepage&utm_placement=Desktop&tblci=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCD67j4oxPDplIDwqY5r#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCD67j4oxPDplIDwqY5r"
-    },
-    {
-      "text": "",
-      "url": "https://www.grammarly.com?utm_source=taboola&utm_campaign=NAPredictiveDesktopV3&utm_medium=cpc&utm_content=slate-homepage&utm_placement=Desktop&tblci=GiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCD67j4oxPDplIDwqY5r#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCD67j4oxPDplIDwqY5r"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
-    },
-    {
-      "text": "House Beautiful",
-      "url": "https://www.housebeautiful.com/design-inspiration/g38891207/american-homes-year-you-were-born/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_hbl_d_i_g38891207&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCRu0QopurG7NGio7Am"
-    },
-    {
-      "text": "House Beautiful|",
-      "url": "https://www.housebeautiful.com/design-inspiration/g38891207/american-homes-year-you-were-born/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_hbl_d_i_g38891207&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCRu0QopurG7NGio7Am"
-    },
-    {
-      "text": "",
-      "url": "https://www.housebeautiful.com/design-inspiration/g38891207/american-homes-year-you-were-born/?utm_source=taboola_arb&utm_medium=cpm&utm_campaign=arb_tb_hbl_d_i_g38891207&utm_content=slate-homepage#tblciGiBbElf_DBBRLQ0CdOVO1vdWGK6f4a3Q1Fz4lobztJ8tWCCRu0QopurG7NGio7Am"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
-    },
-    {
-      "text": "Sponsored",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=slate-homepage&utm_medium=referral&utm_content=thumbs-feed-02:Below Homepage Feed | Card 5:"
-    },
-    {
-      "text": "About Us",
-      "url": "/about"
-    },
-    {
-      "text": "Work With Us",
-      "url": "https://jobs.lever.co/slate"
-    },
-    {
-      "text": "Contact",
-      "url": "/contact"
-    },
-    {
-      "text": "Pitch Guidelines",
-      "url": "/pitch"
-    },
-    {
-      "text": "Send Us Tips",
-      "url": "/tips"
-    },
-    {
-      "text": "Corrections",
-      "url": "/news-and-politics/corrections"
-    },
-    {
-      "text": "Commenting",
-      "url": "/commenting"
-    },
-    {
-      "text": "Reprints",
-      "url": "http://www.slatereprints.com/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://slate.com/plus"
-    },
-    {
-      "text": "Sign In",
-      "url": "https://slate.com/sign-in"
-    },
-    {
-      "text": "Account",
-      "url": "https://slate.com/account"
-    },
-    {
-      "text": "Subscription FAQs",
-      "url": "/plus/faq"
-    },
-    {
-      "text": "Podcast FAQs",
-      "url": "/podcastfaqs"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/signup"
-    },
-    {
-      "text": "Customer Support",
-      "url": "https://slatehelp.freshdesk.com/support/solutions"
-    },
-    {
-      "text": "Site Advertising",
-      "url": "http://mediakit.slate.com/"
-    },
-    {
-      "text": "Podcast Advertising",
-      "url": "http://mediakit.slate.com/"
-    },
-    {
-      "text": "AdChoices",
-      "url": "http://optout.aboutads.info/"
-    },
-    {
-      "text": "Cookie Preferences",
-      "url": "/do-not-sell"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t",
-      "url": "https://www.facebook.com/Slate/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t",
-      "url": "https://twitter.com/slate"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t",
-      "url": "https://www.instagram.com/slate/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tRSS Feed\n\t\t\t\t\t",
-      "url": "/rss"
-    },
-    {
-      "text": "User Agreement",
-      "url": "/terms"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://slate.com/privacy"
-    },
-    {
-      "text": "More information",
-      "url": "https://cookiepedia.co.uk/giving-consent-to-cookies"
-    },
-    {
-      "text": "here",
-      "url": "https://policies.google.com/privacy"
-    },
-    {
-      "text": "",
-      "url": "https://www.onetrust.com/products/cookie-consent/"
-    }
-  ],
-  "uniq": 107771576,
+  "server": "ia601405.us.archive.org",
+  "slate-2022": {
+    "role": "WebArea",
+    "name": "Slate Magazine - Politics, Business, Technology, and the Arts",
+    "children": [
+      {
+        "role": "link",
+        "name": "Skip to the content"
+      },
+      {
+        "role": "heading",
+        "name": "Notable topics",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "Abortion Islands"
+      },
+      {
+        "role": "link",
+        "name": "Caste Discrimination"
+      },
+      {
+        "role": "link",
+        "name": "Doug Mastriano"
+      },
+      {
+        "role": "link",
+        "name": "Where the Crawdads Sing"
+      },
+      {
+        "role": "link",
+        "name": "James Webb Space Telescope"
+      },
+      {
+        "role": "link",
+        "name": "ICE"
+      },
+      {
+        "role": "link",
+        "name": "The Surge"
+      },
+      {
+        "role": "Iframe",
+        "name": "offer_c7d79d4e2e25329063b6-0"
+      },
+      {
+        "role": "link",
+        "name": "Sign In"
+      },
+      {
+        "role": "link",
+        "name": "Slate homepage"
+      },
+      {
+        "role": "textbox",
+        "name": "Enter query"
+      },
+      {
+        "role": "button",
+        "name": "Submit search"
+      },
+      {
+        "role": "img",
+        "name": "Enter query"
+      },
+      {
+        "role": "link",
+        "name": "News & Politics"
+      },
+      {
+        "role": "link",
+        "name": "Culture"
+      },
+      {
+        "role": "link",
+        "name": "Technology"
+      },
+      {
+        "role": "link",
+        "name": "Business"
+      },
+      {
+        "role": "link",
+        "name": "Human Interest"
+      },
+      {
+        "role": "link",
+        "name": "Podcasts"
+      },
+      {
+        "role": "img",
+        "name": "*"
+      },
+      {
+        "role": "link",
+        "name": "WEIRD NEWS ABOUT YOUR DAD ON THE INTERNET"
+      },
+      {
+        "role": "text",
+        "name": "FOLLOW US"
+      },
+      {
+        "role": "link",
+        "name": "Slate on Instagram"
+      },
+      {
+        "role": "link",
+        "name": "Slate on Twitter"
+      },
+      {
+        "role": "link",
+        "name": "Slate on Facebook"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0"
+      },
+      {
+        "role": "link",
+        "name": "GREATEST FICTIONAL DEATHS"
+      },
+      {
+        "role": "text",
+        "name": "\u00a0"
+      },
+      {
+        "role": "link",
+        "name": "The 50 Greatest Fictional Deaths of All Time DAN KOIS The most tearjerking, hilarious, satisfying, and shocking death scenes in 2,500 years of culture."
+      },
+      {
+        "role": "link",
+        "name": "Stephen King, David Simon, and More on the Death Scenes That Haunt Them"
+      },
+      {
+        "role": "link",
+        "name": "How Sesame Street Turned a Real-Life Death Into One of Its Most Important Episodes"
+      },
+      {
+        "role": "link",
+        "name": "What the Ending of Thelma & Louise Really Means"
+      },
+      {
+        "role": "link",
+        "name": "Doonesbury\u2019s Creator Remembers the Controversial Storyline That Brought AIDS to the Funny Pages"
+      },
+      {
+        "role": "heading",
+        "name": "MOVIES",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "The Top 5 Mob Movie Deaths of All Time"
+      },
+      {
+        "role": "link",
+        "name": "Contagion\u2019s Screenwriter on Why He Needed to Saw Open Gwyneth Paltrow\u2019s Head"
+      },
+      {
+        "role": "heading",
+        "name": "TELEVISION",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "The Most Devastating Scene in Cartoon Dog History Has a Surprising Lesson"
+      },
+      {
+        "role": "link",
+        "name": "The Most Excruciating Death Scene in The Wire"
+      },
+      {
+        "role": "link",
+        "name": "The Story Behind the Sitcom Death That Shocked America"
+      },
+      {
+        "role": "heading",
+        "name": "WRITING",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "Stephen King on Why He Had to Begin It by Killing a 6-Year-Old"
+      },
+      {
+        "role": "link",
+        "name": "The Creator of \u201cScrappy Doo Found Dead in Miami\u201d Reveals the Story Behind the Meme"
+      },
+      {
+        "role": "link",
+        "name": "The Overstory\u2019s Most Shattering Death Isn\u2019t a Person or an Animal"
+      },
+      {
+        "role": "link",
+        "name": "Junot D\u00edaz on Why the Life of Oscar Wao Had to Be So Brief"
+      },
+      {
+        "role": "Iframe",
+        "name": "offer-0-t7loe"
+      },
+      {
+        "role": "link",
+        "name": "PODCAST WHAT NEXT Daily news and analysis from Slate."
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "A Different Kind of Pollution \u201cSensory pollution\u201d in the environment can be just as harmful as chemical pollution\u2014but it\u2019s also much easier to fix."
+      },
+      {
+        "role": "text",
+        "name": "LISTEN ON:"
+      },
+      {
+        "role": "link",
+        "name": "Slate"
+      },
+      {
+        "role": "link",
+        "name": "Apple Podcasts"
+      },
+      {
+        "role": "link",
+        "name": "Spotify"
+      },
+      {
+        "role": "link",
+        "name": "Stitcher"
+      },
+      {
+        "role": "link",
+        "name": "Want to listen ad free?"
+      },
+      {
+        "role": "link",
+        "name": "Why This \u201cOriginalist\u201d Supreme Court Would Disappoint the Founders WILLIAM M. TREANOR"
+      },
+      {
+        "role": "link",
+        "name": "Hear Me Out: Do Not Trade One of the Best Young Baseball Players Ever ALEX KIRSHNER"
+      },
+      {
+        "role": "heading",
+        "name": "THE RIGHT",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "The Real Reason the GOP Is Rushing to Pass Abortion Bans Without Exceptions for Rape MARK JOSEPH STERN"
+      },
+      {
+        "role": "link",
+        "name": "Steve Bannon\u2019s Trial Is, Delightfully, a Boring One JEREMY STAHL"
+      },
+      {
+        "role": "link",
+        "name": "The Wild Strategy Democrats Keep Taking With Trump Loons JIM NEWELL"
+      },
+      {
+        "role": "text",
+        "name": "ADVERTISEMENT"
+      },
+      {
+        "role": "link",
+        "name": "Dear Pruduence"
+      },
+      {
+        "role": "link",
+        "name": "VIEW ALL"
+      },
+      {
+        "role": "link",
+        "name": "\u201c I can dimly understand how she made this stupid blunder, but I am not sympathetic\u2014I am enraged."
+      },
+      {
+        "role": "link",
+        "name": "Help! My Multimillionaire Father Won\u2019t Pay for the Wedding I\u2019ve Planned."
+      },
+      {
+        "role": "link",
+        "name": "Content Locked for Slate Plus members Help! I\u2019m Still Deeply Hurt by What My Friends Forgot to Do at My Wedding"
+      },
+      {
+        "role": "link",
+        "name": "Content Locked for Slate Plus members Dear Prudence Uncensored: \u201cWorried Friendly Friend\u201d"
+      },
+      {
+        "role": "link",
+        "name": "Content Locked for Slate Plus members Help! My Friend Is Spreading a Horrible\u2014and Impossible\u2014Rumor About Me in Our Small Town."
+      },
+      {
+        "role": "link",
+        "name": "And other advice... CARE AND FEEDING My Son Is Miserable in Middle School. Is This Normal?"
+      },
+      {
+        "role": "text",
+        "name": "ADVERTISEMENT"
+      },
+      {
+        "role": "heading",
+        "name": "MOST RECENT",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "VIEW ALL MOST RECENT STORIES"
+      },
+      {
+        "role": "link",
+        "name": "5H AGO DAN KOIS The 50 Greatest Fictional Deaths of All Time"
+      },
+      {
+        "role": "link",
+        "name": "5H AGO DAN KOIS How Sesame Street Turned a Real-Life Death Into One of Its Most Important Episodes"
+      },
+      {
+        "role": "link",
+        "name": "5H AGO DAN KOIS Stephen King, David Simon, and More on the Death Scenes That Haunt Them"
+      },
+      {
+        "role": "link",
+        "name": "5H AGO DAN KOIS Doonesbury\u2019s Creator Remembers the Controversial Storyline That Brought AIDS to the Funny Pages"
+      },
+      {
+        "role": "link",
+        "name": "5H AGO DAN KOIS The Most Devastating Scene in Cartoon Dog History Has a Surprising Lesson"
+      },
+      {
+        "role": "link",
+        "name": "5H AGO DAN KOIS What the Ending of Thelma & Louise Really Means"
+      },
+      {
+        "role": "heading",
+        "name": "MOST READ",
+        "level": 2
+      },
+      {
+        "role": "link",
+        "name": "The Real Reason Why the GOP Is Rushing to Pass Abortion Bans Without Exceptions for Rape MARK JOSEPH STERN"
+      },
+      {
+        "role": "link",
+        "name": "The 50 Greatest Fictional Deaths of All Time DAN KOIS"
+      },
+      {
+        "role": "link",
+        "name": "A Proxy Battle for the Soul of the Maryland Republican Not pictured: the Democratic Governors Association. JIM NEWELL"
+      },
+      {
+        "role": "link",
+        "name": "I\u2019ve Found the Secret to a Higher-Paying Job. I\u2019m Worried About What It\u2019ll Cost My Family. I\u2019m worried I\u2019m going to start falling behind. ATHENA VALENTINE"
+      },
+      {
+        "role": "link",
+        "name": "CULTURE"
+      },
+      {
+        "role": "text",
+        "name": "WHAT IT ALL MEANS"
+      },
+      {
+        "role": "link",
+        "name": "Movies"
+      },
+      {
+        "role": "link",
+        "name": "Music"
+      },
+      {
+        "role": "link",
+        "name": "Television"
+      },
+      {
+        "role": "link",
+        "name": "Books"
+      },
+      {
+        "role": "link",
+        "name": "Video Games"
+      },
+      {
+        "role": "link",
+        "name": "Sports"
+      },
+      {
+        "role": "link",
+        "name": "Wide Angle"
+      },
+      {
+        "role": "link",
+        "name": "Brow Beat"
+      },
+      {
+        "role": "link",
+        "name": "VIEW ALL CULTURE"
+      },
+      {
+        "role": "link",
+        "name": "Why the Internet Is So Obsessed With Lea Michele Replacing Beanie Feldstein in Funny Girl HEATHER SCHWEDEL The answer manages to involve backstage drama, Glee parallels, ill-founded rumors, TikTok, and Babs."
+      },
+      {
+        "role": "link",
+        "name": "The 50 Greatest Fictional Deaths of All Time DAN KOIS"
+      },
+      {
+        "role": "link",
+        "name": "How Sesame Street Turned a Real-Life Death Into One of Its Most Important Episodes DAN KOIS"
+      },
+      {
+        "role": "link",
+        "name": "Stephen King, David Simon, and More on the Death Scenes That Haunt Them DAN KOIS"
+      },
+      {
+        "role": "link",
+        "name": "Doonesbury\u2019s Creator Remembers the Controversial Storyline That Brought AIDS to the Funny Pages DAN KOIS"
+      },
+      {
+        "role": "link",
+        "name": "The Most Devastating Scene in Cartoon Dog History Has a Surprising Lesson DAN KOIS"
+      },
+      {
+        "role": "link",
+        "name": "What the Ending of Thelma & Louise Really Means DAN KOIS"
+      },
+      {
+        "role": "link",
+        "name": "TECH & BUSINESS"
+      },
+      {
+        "role": "text",
+        "name": "WHERE WE\u2019RE HEADED"
+      },
+      {
+        "role": "link",
+        "name": "Moneybox"
+      },
+      {
+        "role": "link",
+        "name": "Metropolis"
+      },
+      {
+        "role": "link",
+        "name": "The Industry"
+      },
+      {
+        "role": "link",
+        "name": "The Media"
+      },
+      {
+        "role": "link",
+        "name": "Users"
+      },
+      {
+        "role": "link",
+        "name": "Future Tense"
+      },
+      {
+        "role": "link",
+        "name": "Science"
+      },
+      {
+        "role": "link",
+        "name": "Medical Examiner"
+      },
+      {
+        "role": "link",
+        "name": "VIEW ALL TECH & BUSINESS"
+      },
+      {
+        "role": "link",
+        "name": "Silicon Valley Has a Caste Problem LIZZIE O\u2019LEARY"
+      },
+      {
+        "role": "link",
+        "name": "I\u2019ve Found the Secret to a Higher-Paying Job. I\u2019m Worried About What It\u2019ll Cost My Family. ATHENA VALENTINE"
+      },
+      {
+        "role": "link",
+        "name": "Can You Totally Avoid Catching COVID? These People Have. HANNAH DOCTER-LOEB AND EMMA WALLENBROCK"
+      },
+      {
+        "role": "link",
+        "name": "If You\u2019re Uncomfortable With Abortion, Consider This Centuries-Old Method for Preventing Pregnancy CARI SIETSTRA AND WENDY R. SHELDON"
+      },
+      {
+        "role": "link",
+        "name": "Bringing Back a Grand American Institution Could Transform Society. Why Don\u2019t We? HENRY GRABAR"
+      },
+      {
+        "role": "link",
+        "name": "The Colors in the James Webb Space Telescope Photos Are Fake SARAH BRANER"
+      },
+      {
+        "role": "link",
+        "name": "My Daughter Demands I Give Her the Family Home. My New Wife Has Other Ideas. ELIZABETH SPIERS"
+      },
+      {
+        "role": "link",
+        "name": "Are COVID Reinfections as Common as They Seem? EMILY OSTER"
+      },
+      {
+        "role": "text",
+        "name": "ADVERTISEMENT"
+      },
+      {
+        "role": "link",
+        "name": "HUMAN INTEREST"
+      },
+      {
+        "role": "text",
+        "name": "AN HONEST GUIDE TO MODERN LIFE"
+      },
+      {
+        "role": "link",
+        "name": "Family"
+      },
+      {
+        "role": "link",
+        "name": "Relationships"
+      },
+      {
+        "role": "link",
+        "name": "Work"
+      },
+      {
+        "role": "link",
+        "name": "Downtime"
+      },
+      {
+        "role": "link",
+        "name": "Dear Prudence"
+      },
+      {
+        "role": "link",
+        "name": "Care and Feeding"
+      },
+      {
+        "role": "link",
+        "name": "How to Do It"
+      },
+      {
+        "role": "link",
+        "name": "VIEW ALL HUMAN INTEREST"
+      },
+      {
+        "role": "link",
+        "name": "What It Took for One Gilded Age Socialite to Get a Divorce\u2014and Keep Her Dignity APRIL WHITE Money, discretion, and a chance blessing from a king."
+      },
+      {
+        "role": "link",
+        "name": "Demystifying Monkeypox Podcast Episode OUTWARD"
+      },
+      {
+        "role": "link",
+        "name": "The Middle-Aged Women Who Really, Really Love Minions Explain Themselves HANNAH DOCTER-LOEB"
+      },
+      {
+        "role": "link",
+        "name": "I Think the Way My Husband Pursued Me Years Ago Is Now Considered Harassment! Podcast Episode BIG MOOD LITTLE MOOD"
+      },
+      {
+        "role": "link",
+        "name": "I\u2019ve Discovered How to Make Women Orgasm in a Way That\u2019s Never Been Done Before JESSICA STOYA"
+      },
+      {
+        "role": "link",
+        "name": "Content Locked for Slate Plus members Dear Care and Feeding: My Husband Made a Hugely Selfish Decision\u2014but I Am Enjoying the Consequences DOYIN RICHARDS"
+      },
+      {
+        "role": "link",
+        "name": "My Kids Think I\u2019m an Emotional ATM. How Do I Pull the Plug? Podcast Episode HOW TO!"
+      },
+      {
+        "role": "link",
+        "name": "NEWS & POLITICS"
+      },
+      {
+        "role": "text",
+        "name": "WHAT REALLY MATTERS"
+      },
+      {
+        "role": "link",
+        "name": "Politics"
+      },
+      {
+        "role": "link",
+        "name": "Jurisprudence"
+      },
+      {
+        "role": "link",
+        "name": "War Stories"
+      },
+      {
+        "role": "link",
+        "name": "The World"
+      },
+      {
+        "role": "link",
+        "name": "The Slatest"
+      },
+      {
+        "role": "link",
+        "name": "VIEW ALL NEWS & POLITICS"
+      },
+      {
+        "role": "link",
+        "name": "Who Gets to Be a Church These Days? MOLLY OLMSTEAD"
+      },
+      {
+        "role": "link",
+        "name": "Fani Willis\u2019 Trump Probe \u201cTarget Letters\u201d Are a Big Deal DENNIS AFTERGUT, NORMAN L. EISEN, AND WILLIAM F. WELD"
+      },
+      {
+        "role": "link",
+        "name": "Why This \u201cOriginalist\u201d Supreme Court Would Disappoint the Founders WILLIAM M. TREANOR"
+      },
+      {
+        "role": "link",
+        "name": "Is There a Market for Mass Shooters\u2019 Murderabilia? ADAM SZETELA"
+      },
+      {
+        "role": "link",
+        "name": "Nothing to See Here, Folks JEREMY STAHL"
+      },
+      {
+        "role": "link",
+        "name": "\u201cI Didn\u2019t Make This Law, and Now I\u2019m Stuck With It\u201d MARY HARRIS"
+      },
+      {
+        "role": "link",
+        "name": "Why Eric Holder Refused to Argue in Front of SCOTUS as Attorney General DAHLIA LITHWICK"
+      },
+      {
+        "role": "link",
+        "name": "A Different Kind of Pollution Podcast Episode WHAT NEXT"
+      },
+      {
+        "role": "text",
+        "name": "YOU MAY LIKE"
+      },
+      {
+        "role": "link",
+        "name": "Avoid Writing Mistakes With This Desktop App"
+      },
+      {
+        "role": "link",
+        "name": "Avoid Writing Mistakes With This Desktop App GRAMMARLY|SPONSORED Install Now",
+        "description": "Avoid Writing Mistakes With This Desktop App",
+        "children": [
+          {
+            "role": "text",
+            "name": "Avoid Writing Mistakes With This Desktop App"
+          },
+          {
+            "role": "text",
+            "name": "GRAMMARLY"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "SPONSORED"
+          },
+          {
+            "role": "link",
+            "name": "Install Now",
+            "children": [
+              {
+                "role": "button",
+                "name": "Install Now"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "New Truck's Finally On Sale"
+      },
+      {
+        "role": "link",
+        "name": "New Truck's Finally On Sale ALL THINGS AUTO|SPONSORED Learn More",
+        "description": "New Truck's Finally On Sale",
+        "children": [
+          {
+            "role": "text",
+            "name": "New Truck's Finally On Sale"
+          },
+          {
+            "role": "text",
+            "name": "ALL THINGS AUTO"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "SPONSORED"
+          },
+          {
+            "role": "link",
+            "name": "Learn More",
+            "children": [
+              {
+                "role": "button",
+                "name": "Learn More"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "P90X Trainer: This Is What \"Ripped\" Old Guys Do Differently (Genius!)"
+      },
+      {
+        "role": "link",
+        "name": "P90X Trainer: This Is What \"Ripped\" Old Guys Do Differently (Genius!) POWER LIFE|SPONSORED",
+        "description": "P90X Trainer: This Is What \"Ripped\" Old Guys Do Differently (Genius!)",
+        "children": [
+          {
+            "role": "text",
+            "name": "P90X Trainer: This Is What \"Ripped\" Old Guys Do Differently (Genius!)"
+          },
+          {
+            "role": "text",
+            "name": "POWER LIFE"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "SPONSORED"
+          }
+        ]
+      },
+      {
+        "role": "text",
+        "name": "MORE FROM SLATE"
+      },
+      {
+        "role": "link",
+        "name": "Amy Coney Barrett Is in Over Her Head MARK JOSEPH STERN",
+        "description": "Amy Coney Barrett Is in Over Her Head"
+      },
+      {
+        "role": "link",
+        "name": "The Great Mystery Ivana Trump Left Behind NATALIE SHUTLER",
+        "description": "The Great Mystery Ivana Trump Left Behind"
+      },
+      {
+        "role": "link",
+        "name": "The Hidden Message in Bill Barr\u2019s Jan. 6 Hearing Testimony DAHLIA LITHWICK",
+        "description": "The Hidden Message in Bill Barr\u2019s Jan. 6 Hearing Testimony"
+      },
+      {
+        "role": "link",
+        "name": "Americans Take Way Too Much Melatonin. It\u2019s Leading to Terrible Things. EMMA WALLENBROCK",
+        "description": "Americans Take Way Too Much Melatonin. It\u2019s Leading to Terrible Things."
+      },
+      {
+        "role": "link",
+        "name": "A New Netflix Hit Has Fans in Ecstasy, but They\u2019re Missing Its Troubling Subtext NITISH PAHWA",
+        "description": "A New Netflix Hit Has Fans in Ecstasy, but They\u2019re Missing Its Troubling Subtext"
+      },
+      {
+        "role": "link",
+        "name": "\u201cThe Organs Come Out These Large Holes Because the Wounds Are So Big\u201d MARY HARRIS",
+        "description": "\u201cThe Organs Come Out These Large Holes Because the Wounds Are So Big\u201d"
+      },
+      {
+        "role": "link",
+        "name": "If you like to play Age of Empires, try out this game. No Ads. No Install."
+      },
+      {
+        "role": "link",
+        "name": "Elvenar -Fantasy City Builder Game | Sponsored If you like to play Age of Empires, try out this game. No Ads. No Install.",
+        "description": "If you like to play Age of Empires, try out this game. No Ads. No Install.",
+        "children": [
+          {
+            "role": "text",
+            "name": "Elvenar -Fantasy City Builder Game"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "Sponsored"
+          },
+          {
+            "role": "text",
+            "name": "If you like to play Age of Empires, try out this game. No Ads. No Install."
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "Want To Speak Spanish This Summer... Here's The Answer"
+      },
+      {
+        "role": "link",
+        "name": "Babbel | Sponsored Want To Speak Spanish This Summer... Here's The Answer",
+        "description": "Want To Speak Spanish This Summer... Here's The Answer",
+        "children": [
+          {
+            "role": "text",
+            "name": "Babbel"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "Sponsored"
+          },
+          {
+            "role": "text",
+            "name": "Want To Speak Spanish This Summer... Here's The Answer"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "The genius shopping trick every Amazon Prime Member should know"
+      },
+      {
+        "role": "link",
+        "name": "Capital One Shopping | Sponsored The genius shopping trick every Amazon Prime Member should know",
+        "description": "The genius shopping trick every Amazon Prime Member should know",
+        "children": [
+          {
+            "role": "text",
+            "name": "Capital One Shopping"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "Sponsored"
+          },
+          {
+            "role": "text",
+            "name": "The genius shopping trick every Amazon Prime Member should know"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "Unable to play media.",
+        "description": "10 Reasons Men Are Jumping on This Radical New Face Cream"
+      },
+      {
+        "role": "link",
+        "name": "Particle for Men | Sponsored 10 Reasons Men Are Jumping on This Radical New Face Cream",
+        "description": "10 Reasons Men Are Jumping on This Radical New Face Cream",
+        "children": [
+          {
+            "role": "text",
+            "name": "Particle for Men"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "Sponsored"
+          },
+          {
+            "role": "text",
+            "name": "10 Reasons Men Are Jumping on This Radical New Face Cream"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "The Best walking Shoes for Men to Wear All Day Long No Tired."
+      },
+      {
+        "role": "link",
+        "name": "COMFY SHOES | Sponsored The Best walking Shoes for Men to Wear All Day Long No Tired.",
+        "description": "The Best walking Shoes for Men to Wear All Day Long No Tired.",
+        "children": [
+          {
+            "role": "text",
+            "name": "COMFY SHOES"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "Sponsored"
+          },
+          {
+            "role": "text",
+            "name": "The Best walking Shoes for Men to Wear All Day Long No Tired."
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "Top Heart Surgeon: This Simple Trick Helps Empty Your Bowels Every Morning"
+      },
+      {
+        "role": "link",
+        "name": "Gundry MD Bio Complete 3 Supplement | Sponsored Top Heart Surgeon: This Simple Trick Helps Empty Your Bowels Every Morning",
+        "description": "Top Heart Surgeon: This Simple Trick Helps Empty Your Bowels Every Morning",
+        "children": [
+          {
+            "role": "text",
+            "name": "Gundry MD Bio Complete 3 Supplement"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "Sponsored"
+          },
+          {
+            "role": "text",
+            "name": "Top Heart Surgeon: This Simple Trick Helps Empty Your Bowels Every Morning"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "The Killer Hybrid Electric Redesigned Chevy Blazer Is Coming"
+      },
+      {
+        "role": "link",
+        "name": "The Electric Chevy Blazer | Sponsored The Killer Hybrid Electric Redesigned Chevy Blazer Is Coming",
+        "description": "The Killer Hybrid Electric Redesigned Chevy Blazer Is Coming",
+        "children": [
+          {
+            "role": "text",
+            "name": "The Electric Chevy Blazer"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "Sponsored"
+          },
+          {
+            "role": "text",
+            "name": "The Killer Hybrid Electric Redesigned Chevy Blazer Is Coming"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "Unable to play media.",
+        "description": "New Shaftless Stair Lifts (Take a Look at the Prices)"
+      },
+      {
+        "role": "link",
+        "name": "Stair Lifts | Search Ads | Sponsored New Shaftless Stair Lifts (Take a Look at the Prices)",
+        "description": "New Shaftless Stair Lifts (Take a Look at the Prices)",
+        "children": [
+          {
+            "role": "text",
+            "name": "Stair Lifts | Search Ads"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "Sponsored"
+          },
+          {
+            "role": "text",
+            "name": "New Shaftless Stair Lifts (Take a Look at the Prices)"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "The Best Men's Shoes for Walking and Standing All Day"
+      },
+      {
+        "role": "link",
+        "name": "Madzarato | Sponsored The Best Men's Shoes for Walking and Standing All Day",
+        "description": "The Best Men's Shoes for Walking and Standing All Day",
+        "children": [
+          {
+            "role": "text",
+            "name": "Madzarato"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "Sponsored"
+          },
+          {
+            "role": "text",
+            "name": "The Best Men's Shoes for Walking and Standing All Day"
+          }
+        ]
+      },
+      {
+        "role": "link",
+        "name": "Unable to play media.",
+        "description": "Mature Trainer: This Is What \"Ripped\" Old Guys Do Differently (Genius!)"
+      },
+      {
+        "role": "link",
+        "name": "Power Life | Sponsored Mature Trainer: This Is What \"Ripped\" Old Guys Do Differently (Genius!)",
+        "description": "Mature Trainer: This Is What \"Ripped\" Old Guys Do Differently (Genius!)",
+        "children": [
+          {
+            "role": "text",
+            "name": "Power Life"
+          },
+          {
+            "role": "text",
+            "name": "|"
+          },
+          {
+            "role": "link",
+            "name": "Sponsored"
+          },
+          {
+            "role": "text",
+            "name": "Mature Trainer: This Is What \"Ripped\" Old Guys Do Differently (Genius!)"
+          }
+        ]
+      },
+      {
+        "role": "heading",
+        "name": "ABOUT",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "About Us"
+      },
+      {
+        "role": "link",
+        "name": "Work With Us"
+      },
+      {
+        "role": "link",
+        "name": "Contact"
+      },
+      {
+        "role": "link",
+        "name": "Pitch Guidelines"
+      },
+      {
+        "role": "link",
+        "name": "Send Us Tips"
+      },
+      {
+        "role": "link",
+        "name": "Corrections"
+      },
+      {
+        "role": "link",
+        "name": "Commenting"
+      },
+      {
+        "role": "link",
+        "name": "Reprints"
+      },
+      {
+        "role": "heading",
+        "name": "SUBSCRIPTIONS",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Subscribe"
+      },
+      {
+        "role": "link",
+        "name": "Sign In"
+      },
+      {
+        "role": "link",
+        "name": "Account"
+      },
+      {
+        "role": "link",
+        "name": "Subscription FAQs"
+      },
+      {
+        "role": "link",
+        "name": "Podcast FAQs"
+      },
+      {
+        "role": "link",
+        "name": "Newsletters"
+      },
+      {
+        "role": "link",
+        "name": "Customer Support"
+      },
+      {
+        "role": "heading",
+        "name": "ADVERTISING",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Site Advertising"
+      },
+      {
+        "role": "link",
+        "name": "Podcast Advertising"
+      },
+      {
+        "role": "link",
+        "name": "AdChoices"
+      },
+      {
+        "role": "link",
+        "name": "Cookie Preferences"
+      },
+      {
+        "role": "img",
+        "name": "The Slate Group logo"
+      },
+      {
+        "role": "text",
+        "name": "Slate is published by The Slate Group, a Graham Holdings Company."
+      },
+      {
+        "role": "heading",
+        "name": "FOLLOW US",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Facebook"
+      },
+      {
+        "role": "link",
+        "name": "Twitter"
+      },
+      {
+        "role": "link",
+        "name": "Instagram"
+      },
+      {
+        "role": "link",
+        "name": "RSS Feed"
+      },
+      {
+        "role": "link",
+        "name": "User Agreement"
+      },
+      {
+        "role": "text",
+        "name": "\u2022"
+      },
+      {
+        "role": "link",
+        "name": "Privacy Policy"
+      },
+      {
+        "role": "text",
+        "name": "All contents \u00a9 2022 The Slate Group LLC. All rights reserved."
+      },
+      {
+        "role": "generic",
+        "name": "We Use Cookies and Related Technology",
+        "focused": true,
+        "children": [
+          {
+            "role": "heading",
+            "name": "We Use Cookies and Related Technology",
+            "level": 2
+          },
+          {
+            "role": "text",
+            "name": "Slate and our partners use cookies and related technology to deliver relevant advertising on our site, in emails and across the Internet. We and our partners also use these technologies to personalize content and perform site analytics. For more information, see our terms and privacy policy."
+          },
+          {
+            "role": "link",
+            "name": "More information about your privacy"
+          },
+          {
+            "role": "button",
+            "name": "OK"
+          },
+          {
+            "role": "button",
+            "name": "Close"
+          }
+        ]
+      }
+    ]
+  },
+  "uniq": 858142258,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

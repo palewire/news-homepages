@@ -1,5 +1,5 @@
 {
-  "created": 1658279048,
+  "created": 1658363098,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/kvpr-2022",
@@ -940,31 +940,115 @@
       "sha1": "a828660a6c59aace8756d7391e5c6ce60757f618"
     },
     {
+      "name": "kvpr-2022-07-19T19:21:52.423802-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658283716",
+      "size": "25161",
+      "md5": "a6c3b9ba0779adbd933e431a0705c9d5",
+      "crc32": "3323976e",
+      "sha1": "37ec93ee2f31033a77305ee69763d38894b1df6b",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-07-19T19:21:52.423802-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658283717",
+      "size": "45065",
+      "md5": "9a2a7ff3de7e2ffa6cda70b4a7601909",
+      "crc32": "7255dd14",
+      "sha1": "5d30600dc0b2afc8479aa58399184774320ebbaa",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-07-19T19:21:52.423802-07:00.jpg",
+      "source": "original",
+      "mtime": "1658283714",
+      "size": "251953",
+      "md5": "2720e5d480fcd2ff5bbbe937f362a140",
+      "crc32": "22959243",
+      "sha1": "bbfd0704a767d0a4511a528fbb614b8d67e7e138",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvpr-2022-07-19T19:21:52.423802-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvpr-2022-07-19T19:21:52.423802-07:00.jpg",
+      "mtime": "1658283920",
+      "size": "10009",
+      "md5": "b32627c0fc3dd903149c2819746302dd",
+      "crc32": "f55b8de0",
+      "sha1": "b6215dda1ea31b74ed3c6591c0d4e4f30cce0aa0"
+    },
+    {
+      "name": "kvpr-2022-07-20T07:29:10.896969-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658327353",
+      "size": "25263",
+      "md5": "907542ea105f9d88eade53c9743ba4f3",
+      "crc32": "d5bdbebd",
+      "sha1": "6c1219410a7ec51a32174e21861feae8d2f48e1e",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-07-20T07:29:10.896969-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658327354",
+      "size": "45270",
+      "md5": "d1a186f8c758391cb2ba4b3f1a342761",
+      "crc32": "e08cd944",
+      "sha1": "35a2f83e2d57cc4cc0cca11c9ab00d2c55851116",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-07-20T07:29:10.896969-07:00.jpg",
+      "source": "original",
+      "mtime": "1658327351",
+      "size": "251029",
+      "md5": "b9006426e8066ff4a172115c6c5d5122",
+      "crc32": "2dbaca21",
+      "sha1": "3bbbfff04fd0dafb4a459ccb803d6577ffd42c6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvpr-2022-07-20T07:29:10.896969-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvpr-2022-07-20T07:29:10.896969-07:00.jpg",
+      "mtime": "1658333301",
+      "size": "10098",
+      "md5": "272a838b9e4fc1d9505e4b11ce7889cb",
+      "crc32": "117b9819",
+      "sha1": "b61b735952def19a902b95f9899bc339f2610598"
+    },
+    {
       "name": "kvpr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bad6dc5e12808e7bf0d7ed8aaa64b8670f6da853",
-      "mtime": "1658243616",
-      "size": "19795",
-      "md5": "0fdae1dd29aea94156ac78c2cd1707d0",
-      "crc32": "728efe38",
-      "sha1": "a271a31054324bd570a2112eb4e34ec5a05a6c9e",
+      "btih": "279f6e4f7507b4d99f05926d5833c7ee42e02a5c",
+      "mtime": "1658333306",
+      "size": "21463",
+      "md5": "ea76cac654b7bc06f55b1f301ce8c2d0",
+      "crc32": "08bedc80",
+      "sha1": "422cfcc9f43bbc1cd2b80aaf4f23ba6edea4d63e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvpr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "314de20ba2518750b09c87d753d40b4c",
+      "md5": "cc730c34df412002afb1a21b529d77ce",
       "summation": "md5"
     },
     {
       "name": "kvpr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658240669",
-      "size": "118784",
-      "md5": "cb466f8735c1c4920f02d90327de31e1",
-      "crc32": "80bef9b7",
-      "sha1": "a40904c87b8238400300490813300f721d2e35a1",
+      "mtime": "1658327357",
+      "size": "135168",
+      "md5": "9eaea0abdb0526dea6e11abf6156ee02",
+      "crc32": "258930e9",
+      "sha1": "02d7f0e65b4722e72ca9707dd0a5c4bb100f3e53",
       "format": "Metadata"
     },
     {
@@ -978,9 +1062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 93,
-  "item_last_updated": 1658243616,
-  "item_size": 8381674,
+  "files_count": 101,
+  "item_last_updated": 1658333306,
+  "item_size": 9063574,
   "kvpr-2022": [
     {
       "text": "\n    \n        \n            \n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n\n        \n    \n    ",
@@ -1940,11 +2024,27 @@
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.kvpr.org/environment/2022-07-19/agencies-looking-to-plan-b-as-more-valley-towns-on-brink-of-going-dry-and-emergency-water-suppliers-are-tapped-out"
+    },
+    {
+      "text": "Environment",
+      "url": "https://www.kvpr.org/environment"
+    },
+    {
+      "text": "Agencies looking to \u201cPlan B\u201d as more valley towns on brink of going dry and emergency water suppliers are tapped out",
+      "url": "https://www.kvpr.org/environment/2022-07-19/agencies-looking-to-plan-b-as-more-valley-towns-on-brink-of-going-dry-and-emergency-water-suppliers-are-tapped-out"
+    },
+    {
+      "text": "Jesse Vad",
+      "url": "https://www.kvpr.org/people/jesse-vad"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
       "url": "https://www.kvpr.org/local-news/2022-07-18/fresno-city-council-president-nelson-esparza-facing-felony-charges-of-attempted-extortion"
     },
     {
-      "text": "Local News",
-      "url": "https://www.kvpr.org/local-news"
+      "text": "Government & Politics",
+      "url": "https://www.kvpr.org/government-politics"
     },
     {
       "text": "Fresno City Council President Nelson Esparza facing felony charge of attempted extortion ",
@@ -1953,6 +2053,70 @@
     {
       "text": "Soreath Hok",
       "url": "https://www.kvpr.org/people/soreath-hok"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-19/decades-of-good-fires-save-yosemites-iconic-grove-of-ancient-sequoia-trees"
+    },
+    {
+      "text": "NPR News",
+      "url": "https://www.kvpr.org/npr-news"
+    },
+    {
+      "text": "Decades of 'good fires' save Yosemite's iconic grove of ancient sequoia trees",
+      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-19/decades-of-good-fires-save-yosemites-iconic-grove-of-ancient-sequoia-trees"
+    },
+    {
+      "text": "Eric Westervelt",
+      "url": "https://www.kvpr.org/people/eric-westervelt"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-20/documents-show-the-secret-strategy-behind-trumps-census-citizenship-question-push"
+    },
+    {
+      "text": "NPR News",
+      "url": "https://www.kvpr.org/npr-news"
+    },
+    {
+      "text": "Documents show the secret strategy behind Trump's census citizenship question push",
+      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-20/documents-show-the-secret-strategy-behind-trumps-census-citizenship-question-push"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-20/corruption-concerns-involving-ukraine-are-revived-as-the-war-with-russia-drags-on"
+    },
+    {
+      "text": "NPR News",
+      "url": "https://www.kvpr.org/npr-news"
+    },
+    {
+      "text": "Corruption concerns involving Ukraine are revived as the war with Russia drags on ",
+      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-20/corruption-concerns-involving-ukraine-are-revived-as-the-war-with-russia-drags-on"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-20/time-bomb-lead-pipes-will-be-removed-but-first-water-utilities-have-to-find-them"
+    },
+    {
+      "text": "NPR News",
+      "url": "https://www.kvpr.org/npr-news"
+    },
+    {
+      "text": "'Time bomb' lead pipes will be removed. But first water utilities have to find them",
+      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-20/time-bomb-lead-pipes-will-be-removed-but-first-water-utilities-have-to-find-them"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-20/with-the-midterms-in-their-sights-defending-trump-isnt-a-republican-priority"
+    },
+    {
+      "text": "NPR News",
+      "url": "https://www.kvpr.org/npr-news"
+    },
+    {
+      "text": "With the midterms in their sights, defending Trump isn't a Republican priority",
+      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-20/with-the-midterms-in-their-sights-defending-trump-isnt-a-republican-priority"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
@@ -1972,63 +2136,35 @@
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-18/these-are-the-4-key-takeaways-from-the-uvalde-shooting-investigation-report"
+      "url": "https://www.kvpr.org/community/2022-07-19/got-an-eviction-notice-this-california-website-will-help-you-file-a-response"
     },
     {
-      "text": "NPR News",
-      "url": "https://www.kvpr.org/npr-news"
+      "text": "Community",
+      "url": "https://www.kvpr.org/community"
     },
     {
-      "text": "These are the 4 key takeaways from the Uvalde shooting investigation report",
-      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-18/these-are-the-4-key-takeaways-from-the-uvalde-shooting-investigation-report"
+      "text": "Got an eviction notice? This California website will help you file a response.",
+      "url": "https://www.kvpr.org/community/2022-07-19/got-an-eviction-notice-this-california-website-will-help-you-file-a-response"
     },
     {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/npr-news/2022-07-19/biden-issues-a-new-executive-order-relating-to-hostages-and-detained-americans"
-    },
-    {
-      "text": "NPR News",
-      "url": "https://www.kvpr.org/npr-news"
-    },
-    {
-      "text": "Biden issues a new executive order relating to hostages and detained Americans",
-      "url": "https://www.kvpr.org/npr-news/2022-07-19/biden-issues-a-new-executive-order-relating-to-hostages-and-detained-americans"
+      "text": "Manuela Tobias",
+      "url": "https://www.kvpr.org/people/manuela-tobias"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-19/decades-of-good-fires-save-yosemites-iconic-grove-of-ancient-sequoia-trees"
+      "url": "https://www.kvpr.org/health/2022-07-19/covered-california-insurance-rates-to-increase"
     },
     {
-      "text": "NPR News",
-      "url": "https://www.kvpr.org/npr-news"
+      "text": "Health",
+      "url": "https://www.kvpr.org/health"
     },
     {
-      "text": "Decades of 'good fires' save Yosemite's iconic grove of ancient sequoia trees",
-      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-19/decades-of-good-fires-save-yosemites-iconic-grove-of-ancient-sequoia-trees"
+      "text": "Covered California insurance rates to increase",
+      "url": "https://www.kvpr.org/health/2022-07-19/covered-california-insurance-rates-to-increase"
     },
     {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-19/colleges-navigate-confusing-legal-landscapes-as-new-abortion-laws-take-effect"
-    },
-    {
-      "text": "NPR News",
-      "url": "https://www.kvpr.org/npr-news"
-    },
-    {
-      "text": "Colleges navigate confusing legal landscapes as new abortion laws take effect",
-      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-19/colleges-navigate-confusing-legal-landscapes-as-new-abortion-laws-take-effect"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-19/democrats-say-voters-are-watching-the-jan-6-hearings-but-its-not-their-top-issue"
-    },
-    {
-      "text": "NPR News",
-      "url": "https://www.kvpr.org/npr-news"
-    },
-    {
-      "text": "Democrats say voters are watching the Jan. 6 hearings, but it's not their top issue",
-      "url": "https://www.kvpr.org/npr-news/npr-news/2022-07-19/democrats-say-voters-are-watching-the-jan-6-hearings-but-its-not-their-top-issue"
+      "text": "Ana B. Ibarra",
+      "url": "https://www.kvpr.org/people/ana-b-ibarra"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
@@ -2041,42 +2177,6 @@
     {
       "text": "CARE Court: Can California counties make it work?",
       "url": "https://www.kvpr.org/health/2022-07-14/care-court-can-california-counties-make-it-work"
-    },
-    {
-      "text": "Jocelyn Wiener",
-      "url": "https://www.kvpr.org/people/jocelyn-wiener"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/health/2022-07-15/east-orosi-water-pump-failure"
-    },
-    {
-      "text": "Health",
-      "url": "https://www.kvpr.org/health"
-    },
-    {
-      "text": "Tiny Valley community goes nearly 24 hours without water after its only well fails",
-      "url": "https://www.kvpr.org/health/2022-07-15/east-orosi-water-pump-failure"
-    },
-    {
-      "text": "Esther Quintanilla",
-      "url": "https://www.kvpr.org/people/esther-quintanilla"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/environment/2022-07-14/central-valley-air-advisers-resign-over-pollution-program"
-    },
-    {
-      "text": "Environment",
-      "url": "https://www.kvpr.org/environment"
-    },
-    {
-      "text": "Central Valley air advisers resign over pollution program",
-      "url": "https://www.kvpr.org/environment/2022-07-14/central-valley-air-advisers-resign-over-pollution-program"
-    },
-    {
-      "text": "Kathleen Ronayne / Associated Press",
-      "url": "https://www.kvpr.org/people/kathleen-ronayne-associated-press"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
@@ -2116,27 +2216,27 @@
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/government-politics/2022-07-01/california-sets-nations-toughest-plastics-reduction-rules"
+      "url": "https://www.kvpr.org/health/2022-07-15/east-orosi-water-pump-failure"
     },
     {
-      "text": "Government & Politics",
-      "url": "https://www.kvpr.org/government-politics"
+      "text": "Tiny Valley community goes nearly 24 hours without water after its only well fails",
+      "url": "https://www.kvpr.org/health/2022-07-15/east-orosi-water-pump-failure"
     },
     {
-      "text": "California sets nation's toughest plastics reduction rules",
-      "url": "https://www.kvpr.org/government-politics/2022-07-01/california-sets-nations-toughest-plastics-reduction-rules"
+      "text": "Esther Quintanilla",
+      "url": "https://www.kvpr.org/people/esther-quintanilla"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/environment/2022-07-13/yosemite-wildfire-moving-east-into-sierra-national-forest"
+      "url": "https://www.kvpr.org/environment/2022-07-14/central-valley-air-advisers-resign-over-pollution-program"
     },
     {
-      "text": "Yosemite wildfire moving east into Sierra National Forest",
-      "url": "https://www.kvpr.org/environment/2022-07-13/yosemite-wildfire-moving-east-into-sierra-national-forest"
+      "text": "Central Valley air advisers resign over pollution program",
+      "url": "https://www.kvpr.org/environment/2022-07-14/central-valley-air-advisers-resign-over-pollution-program"
     },
     {
-      "text": "Associated Press",
-      "url": "https://www.kvpr.org/people/associated-press"
+      "text": "Kathleen Ronayne / Associated Press",
+      "url": "https://www.kvpr.org/people/kathleen-ronayne-associated-press"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
@@ -2161,18 +2261,6 @@
     {
       "text": "Associated Press",
       "url": "https://www.kvpr.org/people/associated-press"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/health/2022-07-07/food-production-employers-violated-covid-19-guidelines-in-2020-and-2021"
-    },
-    {
-      "text": "Food production employers repeatedly violated COVID-19 guidelines, report says",
-      "url": "https://www.kvpr.org/health/2022-07-07/food-production-employers-violated-covid-19-guidelines-in-2020-and-2021"
-    },
-    {
-      "text": "Esther Quintanilla",
-      "url": "https://www.kvpr.org/people/esther-quintanilla"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n\n    \n    \n\n\n",
@@ -2200,6 +2288,14 @@
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
+      "url": "https://www.kvpr.org/environment/2022-07-13/yosemite-wildfire-moving-east-into-sierra-national-forest"
+    },
+    {
+      "text": "Yosemite wildfire moving east into Sierra National Forest",
+      "url": "https://www.kvpr.org/environment/2022-07-13/yosemite-wildfire-moving-east-into-sierra-national-forest"
+    },
+    {
+      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
       "url": "https://www.kvpr.org/environment/2022-07-08/wildfire-rages-near-yosemite-grove-of-giant-sequoia-trees"
     },
     {
@@ -2208,11 +2304,11 @@
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/local-news/2022-06-24/new-kvpr-reporter-esther-quintanilla-investigates-how-oil-wells-impact-the-health-of-neighboring-communities"
+      "url": "https://www.kvpr.org/government-politics/2022-07-01/california-sets-nations-toughest-plastics-reduction-rules"
     },
     {
-      "text": "New KVPR reporter Esther Quintanilla investigates how oil wells impact the health of neighboring communities",
-      "url": "https://www.kvpr.org/local-news/2022-06-24/new-kvpr-reporter-esther-quintanilla-investigates-how-oil-wells-impact-the-health-of-neighboring-communities"
+      "text": "California sets nation's toughest plastics reduction rules",
+      "url": "https://www.kvpr.org/government-politics/2022-07-01/california-sets-nations-toughest-plastics-reduction-rules"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
@@ -2224,11 +2320,11 @@
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/local-news/2022-06-27/california-voters-to-decide-on-amendment-to-state-constitution-to-protect-abortion-rights-in-november"
+      "url": "https://www.kvpr.org/health/2022-07-07/food-production-employers-violated-covid-19-guidelines-in-2020-and-2021"
     },
     {
-      "text": "California voters to decide on amendment to state constitution to protect abortion rights in November",
-      "url": "https://www.kvpr.org/local-news/2022-06-27/california-voters-to-decide-on-amendment-to-state-constitution-to-protect-abortion-rights-in-november"
+      "text": "Food production employers repeatedly violated COVID-19 guidelines, report says",
+      "url": "https://www.kvpr.org/health/2022-07-07/food-production-employers-violated-covid-19-guidelines-in-2020-and-2021"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
@@ -2237,14 +2333,6 @@
     {
       "text": "Bakeries, markets and balloons: How health officials aim to vaccinate Fresno County\u2019s youngest kids",
       "url": "https://www.kvpr.org/health/2022-07-05/fresno-county-child-vaccinations"
-    },
-    {
-      "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
-      "url": "https://www.kvpr.org/health/2022-07-10/california-will-require-health-facilities-to-start-sharing-patient-data-with-each-other"
-    },
-    {
-      "text": "California will require health facilities to start sharing patient data with each other",
-      "url": "https://www.kvpr.org/health/2022-07-10/california-will-require-health-facilities-to-start-sharing-patient-data-with-each-other"
     },
     {
       "text": "\n    \n    \n        \n            \n        \n    \n\n    \n    \n        \n    \n            \n    \n\n    \n        \n    \n\n    \n\n    \n    \n\n\n",
@@ -2419,10 +2507,10 @@
     "publicdate": "2022-07-09 04:00:32",
     "addeddate": "2022-07-09 04:00:32"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 2051819026,
+  "server": "ia902507.us.archive.org",
+  "uniq": 75970683,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658279459,
+  "created": 1658339488,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/35/items/thenation-2022",
@@ -1402,31 +1402,157 @@
       "sha1": "6d2213b302ce6a6e2da68f55d0fc4207545467a4"
     },
     {
+      "name": "thenation-2022-07-20T00:21:52.055104-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658290915",
+      "size": "20741",
+      "md5": "a38d55a001f9b9977046d6bd3462be1d",
+      "crc32": "c6d88c63",
+      "sha1": "e1c5ee2ca6caeee08d39fa148d8c8d2368a921cc",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-20T00:21:52.055104-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658290917",
+      "size": "17090",
+      "md5": "8cb71d0771d1f0dd8cbffa627e134a1f",
+      "crc32": "b8132627",
+      "sha1": "523c627c6b692764f9fa900fc4c4cc380f2722d4",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-20T00:21:52.055104-04:00.jpg",
+      "source": "original",
+      "mtime": "1658290913",
+      "size": "216145",
+      "md5": "05f27297c3373cbc3be71195887e4b37",
+      "crc32": "942f9914",
+      "sha1": "548cb463d3891ef7436672403453848567971f7d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenation-2022-07-20T00:21:52.055104-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenation-2022-07-20T00:21:52.055104-04:00.jpg",
+      "mtime": "1658291095",
+      "size": "8902",
+      "md5": "2ca5fad32f2f030a415eb5fbf227a259",
+      "crc32": "276942a6",
+      "sha1": "ec99c71776b2be8852b13c9f3c90bda8900aa5e1"
+    },
+    {
+      "name": "thenation-2022-07-20T12:41:00.965193-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658335265",
+      "size": "20726",
+      "md5": "a706406827b053382b405318442bbbae",
+      "crc32": "464fb899",
+      "sha1": "b2d0d9b2de375260cebb90e9ffcb750978cfc107",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-20T12:41:00.965193-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658335267",
+      "size": "17062",
+      "md5": "1a487688817801fa2bf636e4e9c2317d",
+      "crc32": "8ef99d0c",
+      "sha1": "a3f31eb04a497b1fffbe0de4634e607d71a51d30",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-20T12:41:00.965193-04:00.jpg",
+      "source": "original",
+      "mtime": "1658335263",
+      "size": "248849",
+      "md5": "865ea4854fbfd6f220c9528db983d8ba",
+      "crc32": "18b7587d",
+      "sha1": "fd2dcfbfa0f92587040ffbe853abdd964f88ba07",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenation-2022-07-20T12:41:00.965193-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenation-2022-07-20T12:41:00.965193-04:00.jpg",
+      "mtime": "1658335603",
+      "size": "9228",
+      "md5": "38f9546f323c0967e02071e47ff56212",
+      "crc32": "e2931f62",
+      "sha1": "f06edaa3e0c3860c57895044ff537319dc8b7d10"
+    },
+    {
+      "name": "thenation-2022-07-20T12:46:04.011201-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658335567",
+      "size": "20726",
+      "md5": "a706406827b053382b405318442bbbae",
+      "crc32": "464fb899",
+      "sha1": "b2d0d9b2de375260cebb90e9ffcb750978cfc107",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-20T12:46:04.011201-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658335569",
+      "size": "17013",
+      "md5": "9b16cfd3359670bcfe77ebae9cfb581d",
+      "crc32": "1d1f1a32",
+      "sha1": "4b41fe49435b47607f3d7dbe61fa21390845e32f",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-07-20T12:46:04.011201-04:00.jpg",
+      "source": "original",
+      "mtime": "1658335565",
+      "size": "248849",
+      "md5": "865ea4854fbfd6f220c9528db983d8ba",
+      "crc32": "18b7587d",
+      "sha1": "fd2dcfbfa0f92587040ffbe853abdd964f88ba07",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenation-2022-07-20T12:46:04.011201-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenation-2022-07-20T12:46:04.011201-04:00.jpg",
+      "mtime": "1658339449",
+      "size": "9228",
+      "md5": "38f9546f323c0967e02071e47ff56212",
+      "crc32": "e2931f62",
+      "sha1": "f06edaa3e0c3860c57895044ff537319dc8b7d10"
+    },
+    {
       "name": "thenation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "119cfc60a4b4204591c4af60d03ef7f874542b72",
-      "mtime": "1658250700",
-      "size": "29486",
-      "md5": "eef05330ee5fb1315b802be2bb2df9f0",
-      "crc32": "9a5f90b1",
-      "sha1": "4634da2e8f1415edf80506bc9d51bfca09e7eb1e",
+      "btih": "e9343c4f671f3aa0377cecc61ea8aeb8a990e2fd",
+      "mtime": "1658339471",
+      "size": "32005",
+      "md5": "9fcec80b0507135fc763c722c0ddfd56",
+      "crc32": "c08b6144",
+      "sha1": "2fb404f2725b4054b011b693fe9f9c3c7bc3a46e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "377c704971188177d76521864ac942b7",
+      "md5": "d2219ae0d14c8b479703ac6033ae050d",
       "summation": "md5"
     },
     {
       "name": "thenation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658250095",
-      "size": "172032",
-      "md5": "a352d4f4893640a4a591c9363973f1af",
-      "crc32": "c8773ab1",
-      "sha1": "6e976ae638f3d4a3027250f283978c8fac0bbebf",
+      "mtime": "1658335643",
+      "size": "188416",
+      "md5": "eaaab2b7ec07added47026a8d1da99ad",
+      "crc32": "e12e7115",
+      "sha1": "e13dfc17c1ac115de95b6d4f363cebf2a73a8c31",
       "format": "Metadata"
     },
     {
@@ -1440,9 +1566,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1658250700,
-  "item_size": 9581522,
+  "files_count": 149,
+  "item_last_updated": 1658339471,
+  "item_size": 10454984,
   "metadata": {
     "identifier": "thenation-2022",
     "collection": [
@@ -1460,661 +1586,7 @@
     "addeddate": "2022-07-04 21:46:22"
   },
   "server": "ia801502.us.archive.org",
-  "thenation-2022": [
-    {
-      "text": "Ad Policy",
-      "url": "http://www.thenation.com/advertising-policy"
-    },
-    {
-      "text": "Skip to content",
-      "url": "#content"
-    },
-    {
-      "text": "\nFacebook\n",
-      "url": "https://www.facebook.com/TheNationMagazine"
-    },
-    {
-      "text": "\nTwitter\n",
-      "url": "https://twitter.com/thenation"
-    },
-    {
-      "text": "\nInstagram\n",
-      "url": "https://www.instagram.com/nationmag/"
-    },
-    {
-      "text": "\nDonate ",
-      "url": "https://www.thenation.com/donate-website/?sourceid=1020082"
-    },
-    {
-      "text": "Log In",
-      "url": "https://www.thenation.com/login/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.thenation.com/content/podcasts/"
-    },
-    {
-      "text": "Books & The Arts",
-      "url": "https://www.thenation.com/content/books-and-the-arts/"
-    },
-    {
-      "text": "Climate Justice",
-      "url": "https://www.thenation.com/climate-change/"
-    },
-    {
-      "text": "Abortion Rights",
-      "url": "https://www.thenation.com/abortion-rights/"
-    },
-    {
-      "text": "Poetry",
-      "url": "https://www.thenation.com/poetry/"
-    },
-    {
-      "text": "\n\n\n",
-      "url": "https://www.thenation.com"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.thenation.com/politics/"
-    },
-    {
-      "text": "World",
-      "url": "https://www.thenation.com/world/"
-    },
-    {
-      "text": "Culture",
-      "url": "https://www.thenation.com/culture/"
-    },
-    {
-      "text": "Events",
-      "url": "https://www.thenation.com/events"
-    },
-    {
-      "text": "Shop",
-      "url": "https://shop.thenation.com/"
-    },
-    {
-      "text": "Current Issue",
-      "url": "https://www.thenation.com/issue/july-25-august-1-2022-issue/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://link.thenation.com/join/12x/newslettersignupverify"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://subscriptions.thenation.com/Nation_index?pk=G2A1TB9"
-    },
-    {
-      "text": "Search",
-      "url": "#"
-    },
-    {
-      "text": "\nToggle Menu\n",
-      "url": "#mobile-menu"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com"
-    },
-    {
-      "text": "\nLog In\n",
-      "url": "https://www.thenation.com/login/"
-    },
-    {
-      "text": "\nfb\n",
-      "url": "javascript:void(0)"
-    },
-    {
-      "text": "\ntw\n",
-      "url": "javascript:void(0)"
-    },
-    {
-      "text": "\nmail\n",
-      "url": "javascript:void(0)"
-    },
-    {
-      "text": "\nmsg\n",
-      "url": "javascript:void(0)"
-    },
-    {
-      "text": "\nwa\n",
-      "url": "javascript:void(0)"
-    },
-    {
-      "text": "\nsms\n",
-      "url": "javascript:void(0)"
-    },
-    {
-      "text": "Events",
-      "url": "https://www.thenation.com/events/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.thenation.com/subject/politics/"
-    },
-    {
-      "text": "World",
-      "url": "https://www.thenation.com/subject/world/"
-    },
-    {
-      "text": "Climate",
-      "url": "https://www.thenation.com/climate-change/"
-    },
-    {
-      "text": "Activism",
-      "url": "https://www.thenation.com/subject/activism/"
-    },
-    {
-      "text": "Culture",
-      "url": "https://www.thenation.com/culture/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://www.thenation.com/content/podcasts/"
-    },
-    {
-      "text": "Shop",
-      "url": "https://shop.thenation.com/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://subscriptions.thenation.com/Nation_index?pk=G2A1TB9"
-    },
-    {
-      "text": "Current Issue",
-      "url": "https://www.thenation.com/issue/july-25-august-1-2022-issue/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://link.thenation.com/join/12x/newslettersignupverify"
-    },
-    {
-      "text": "Donate",
-      "url": "https://www.thenation.com/donate-website/?sourceid=1020082"
-    },
-    {
-      "text": "Log In",
-      "url": "https://www.thenation.com/login/"
-    },
-    {
-      "text": "\nFacebook\n",
-      "url": "https://www.facebook.com/TheNationMagazine"
-    },
-    {
-      "text": "\nTwitter\n",
-      "url": "https://twitter.com/thenation"
-    },
-    {
-      "text": "\nInstagram\n",
-      "url": "https://www.instagram.com/nationmag/"
-    },
-    {
-      "text": "\nForgot Your Password?\n",
-      "url": "https://subscriptions.thenation.com/Nation_ForgotPass"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://subscriptions.thenation.com/Nation_index?pk=G2A1TB9"
-    },
-    {
-      "text": "Activate",
-      "url": "https://subscriptions.thenation.com/loading.do?omedasite=nation_index"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/politics/democracy-america-accountability-january-6/"
-    },
-    {
-      "text": "We Can\u2019t Have Democracy Without Accountability",
-      "url": "https://www.thenation.com/article/politics/democracy-america-accountability-january-6/"
-    },
-    {
-      "text": "Karen J. Greenberg",
-      "url": "https://www.thenation.com/authors/karen-j-greenberg/"
-    },
-    {
-      "text": "\nSupreme Court ",
-      "url": "https://www.thenation.com/subject/supreme-court/"
-    },
-    {
-      "text": "Voting Isn\u2019t Enough. Our Democracy Requires Radical Reform.",
-      "url": "https://www.thenation.com/article/politics/democracy-scotus-radical-reform/"
-    },
-    {
-      "text": "Representative Ilhan Omar",
-      "url": "https://www.thenation.com/authors/representative-ilhan-omar/"
-    },
-    {
-      "text": "\nCampaigns and Elections ",
-      "url": "https://www.thenation.com/subject/campaigns-and-elections/"
-    },
-    {
-      "text": "Joe Biden's Age Isn't the Problem",
-      "url": "https://www.thenation.com/article/politics/biden-old-age/"
-    },
-    {
-      "text": "Andrew V. Lorenzen",
-      "url": "https://www.thenation.com/authors/andrew-v-lorenzen/"
-    },
-    {
-      "text": "\nCulture ",
-      "url": "https://www.thenation.com/subject/culture/"
-    },
-    {
-      "text": "You Can\u2019t Buy These Books",
-      "url": "https://www.thenation.com/article/culture/internet-archive-lawsuit-libraries/"
-    },
-    {
-      "text": "Maria Bustillos",
-      "url": "https://www.thenation.com/authors/maria-bustillos-2/"
-    },
-    {
-      "text": "Ad Policy",
-      "url": "http://www.thenation.com/advertising-policy"
-    },
-    {
-      "text": "Privacy Policy here.",
-      "url": "https://www.thenation.com/privacy-policy"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/politics/democracy-scotus-radical-reform/"
-    },
-    {
-      "text": "Voting Isn\u2019t Enough. Our Democracy Requires Radical Reform.",
-      "url": "https://www.thenation.com/article/politics/democracy-scotus-radical-reform/"
-    },
-    {
-      "text": "Representative Ilhan Omar",
-      "url": "https://www.thenation.com/authors/representative-ilhan-omar/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/politics/democracy-america-accountability-january-6/"
-    },
-    {
-      "text": "We Can\u2019t Have Democracy Without Accountability",
-      "url": "https://www.thenation.com/article/politics/democracy-america-accountability-january-6/"
-    },
-    {
-      "text": "Karen J. Greenberg",
-      "url": "https://www.thenation.com/authors/karen-j-greenberg/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/politics/biden-old-age/"
-    },
-    {
-      "text": "Joe Biden's Age Isn't the Problem",
-      "url": "https://www.thenation.com/article/politics/biden-old-age/"
-    },
-    {
-      "text": "Andrew V. Lorenzen",
-      "url": "https://www.thenation.com/authors/andrew-v-lorenzen/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/society/roe-illegal-abortion/"
-    },
-    {
-      "text": "\u201cI Called Jane\u201d for a Pre-\u201cRoe\u201d Illegal Abortion",
-      "url": "https://www.thenation.com/article/society/roe-illegal-abortion/"
-    },
-    {
-      "text": "Carol Chapman",
-      "url": "https://www.thenation.com/authors/carol-chapman/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/society/supreme-court-dangerous/"
-    },
-    {
-      "text": "The Problem of the Supreme Court",
-      "url": "https://www.thenation.com/article/society/supreme-court-dangerous/"
-    },
-    {
-      "text": "Louis Michael Seidman",
-      "url": "https://www.thenation.com/authors/louis-michael-seidman/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/culture/sisters-mokomo-jyoti-thottam/"
-    },
-    {
-      "text": "A History of the Partition Through the Eyes of Appalachian Nuns",
-      "url": "https://www.thenation.com/article/culture/sisters-mokomo-jyoti-thottam/"
-    },
-    {
-      "text": "Zoya Qureshi",
-      "url": "https://www.thenation.com/authors/zoya-qureshi/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/culture/andrew-holleran-kingdom-sand/"
-    },
-    {
-      "text": "What It Means to Be an Elderly Gay Man Today",
-      "url": "https://www.thenation.com/article/culture/andrew-holleran-kingdom-sand/"
-    },
-    {
-      "text": "Joshua Gutterman Tranen",
-      "url": "https://www.thenation.com/authors/joshua-gutterman-tranen/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/culture/qa-edafe-okporo-asylum/"
-    },
-    {
-      "text": "Edafe Okporo's Manifesto for the Migrant",
-      "url": "https://www.thenation.com/article/culture/qa-edafe-okporo-asylum/"
-    },
-    {
-      "text": "John Washington",
-      "url": "https://www.thenation.com/authors/john-washington/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/world/comfort-women-japan-korea-germany/"
-    },
-    {
-      "text": "The Fight Over Berlin\u2019s Comfort Woman Statue",
-      "url": "https://www.thenation.com/article/world/comfort-women-japan-korea-germany/"
-    },
-    {
-      "text": "Seth Berkman",
-      "url": "https://www.thenation.com/authors/seth-berkman/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/world/shinzo-abe-assassination/"
-    },
-    {
-      "text": "The Misremembering of Shinzo Abe",
-      "url": "https://www.thenation.com/article/world/shinzo-abe-assassination/"
-    },
-    {
-      "text": "Lisa Torio",
-      "url": "https://www.thenation.com/authors/lisa-torio-2/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/world/boris-johnson-trump/"
-    },
-    {
-      "text": "The UK Held Corruption Accountable. Why Can\u2019t We?",
-      "url": "https://www.thenation.com/article/world/boris-johnson-trump/"
-    },
-    {
-      "text": "Sasha Abramsky",
-      "url": "https://www.thenation.com/authors/sasha-abramsky/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/culture/paula-rego-abortion-scotus/"
-    },
-    {
-      "text": "How Paula Rego's Abortion Pictures Changed the Conversation",
-      "url": "https://www.thenation.com/article/culture/paula-rego-abortion-scotus/"
-    },
-    {
-      "text": "Margaret Spillane",
-      "url": "https://www.thenation.com/authors/margaret-spillane/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://www.thenation.com/article/politics/roe-dobbs-aclu/"
-    },
-    {
-      "text": "After \u201cDobbs,\u201d the Path Forward Is Not Through the Courts",
-      "url": "https://www.thenation.com/article/politics/roe-dobbs-aclu/"
-    },
-    {
-      "text": "Anthony D. Romero",
-      "url": "https://www.thenation.com/authors/anthony-d-romero/"
-    },
-    {
-      "text": "\n\n\n",
-      "url": "https://www.thenation.com/podcast/politics/sms-nichols-solnit-lutunatabua/"
-    },
-    {
-      "text": "\n\nListen: \nJohn Nichols on the \u201cStop the Steal\u201d Rally, Plus Rebecca Solnit and Thelma Young Lutunatabua on Climate Change",
-      "url": "https://www.thenation.com/podcast/politics/sms-nichols-solnit-lutunatabua/"
-    },
-    {
-      "text": "\n\n\n",
-      "url": "https://www.thenation.com/podcast/society/this-is-america-with-howard-bryant/?audio=audio"
-    },
-    {
-      "text": "\n Listen: \n\u201cThis Is America\u201d With Howard Bryant ",
-      "url": "https://www.thenation.com/podcast/society/this-is-america-with-howard-bryant/?audio=audio"
-    },
-    {
-      "text": "\n\n\n",
-      "url": "https://www.thenation.com/podcast/activism/sms-david-cole-sarah-posner/?audio=audio"
-    },
-    {
-      "text": "\n Listen: \nDavid Cole on What To Do About the Supreme Court, and Sarah Posner on School Prayer ",
-      "url": "https://www.thenation.com/podcast/activism/sms-david-cole-sarah-posner/?audio=audio"
-    },
-    {
-      "text": "\n\n\n",
-      "url": "https://www.thenation.com/podcast/politics/time-of-monsters-pink-tide/?audio=audio"
-    },
-    {
-      "text": "\n Listen: \nThe Pink Tide\u2019s Second Surge ",
-      "url": "https://www.thenation.com/podcast/politics/time-of-monsters-pink-tide/?audio=audio"
-    },
-    {
-      "text": "See All Multimedia >",
-      "url": "/multimedia"
-    },
-    {
-      "text": "Ad Policy",
-      "url": "http://www.thenation.com/advertising-policy"
-    },
-    {
-      "text": "July 25/August 1, 2022, Issue",
-      "url": "https://www.thenation.com/issue/july-25-august-1-2022-issue/"
-    },
-    {
-      "text": "Tove Ditlevsen\u2019s Unsentimental Education",
-      "url": "https://www.thenation.com/article/culture/tove-ditlevson-trouble-faces/"
-    },
-    {
-      "text": "Lily Meyer",
-      "url": "https://www.thenation.com/authors/lily-meyer/"
-    },
-    {
-      "text": "Cuba One Year After the Protests",
-      "url": "https://www.thenation.com/article/world/cuba-havana-diaz-canel/"
-    },
-    {
-      "text": "William M. LeoGrande",
-      "url": "https://www.thenation.com/authors/william-leogrande/"
-    },
-    {
-      "text": "\"The Worst Abuser You Could Ever Have\"",
-      "url": "https://www.thenation.com/article/society/tracy-mccarter-suvived-punished/"
-    },
-    {
-      "text": "Victoria Law",
-      "url": "https://www.thenation.com/authors/victoria-law/"
-    },
-    {
-      "text": "\nSee Full Issue\n",
-      "url": "https://www.thenation.com/issue/july-25-august-1-2022-issue/"
-    },
-    {
-      "text": "Subscribe to The Nation",
-      "url": "https://subscriptions.thenation.com/Nation_index?pk=G2A1SFT"
-    },
-    {
-      "text": "x",
-      "url": "javascript:void(0)"
-    },
-    {
-      "text": "",
-      "url": "https://www.thenation.com"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/TheNationMagazine"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/thenation"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/nationmag/"
-    },
-    {
-      "text": "",
-      "url": "http://www.thenation.com/feed/?post_type=article"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.thenation.com/privacy-policy"
-    },
-    {
-      "text": "Sections",
-      "url": "#"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.thenation.com/politics/"
-    },
-    {
-      "text": "World",
-      "url": "https://www.thenation.com/subject/world/"
-    },
-    {
-      "text": "Economy",
-      "url": "https://www.thenation.com/subject/economy/"
-    },
-    {
-      "text": "Climate Change",
-      "url": "https://www.thenation.com/climate-change/"
-    },
-    {
-      "text": "Culture",
-      "url": "https://www.thenation.com/culture/"
-    },
-    {
-      "text": "Society",
-      "url": "https://www.thenation.com/subject/society/"
-    },
-    {
-      "text": "OppArt",
-      "url": "https://www.thenation.com/content/oppart/"
-    },
-    {
-      "text": "The Nation",
-      "url": "#"
-    },
-    {
-      "text": "About",
-      "url": "https://www.thenation.com/about-us-and-contact/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.thenation.com/privacy-policy/"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://www.thenation.com/termsofuse/"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://www.thenation.com/advertise/"
-    },
-    {
-      "text": "Comments Policy",
-      "url": "https://www.thenation.com/community-guidelines/"
-    },
-    {
-      "text": "Contact Us",
-      "url": "https://www.thenation.com/contact-us/"
-    },
-    {
-      "text": "Help",
-      "url": "https://www.thenation.com/help/"
-    },
-    {
-      "text": "Jobs and Internships",
-      "url": "https://www.thenation.com/jobs/"
-    },
-    {
-      "text": "Support The Nation",
-      "url": "https://www.thenation.com/donation"
-    },
-    {
-      "text": "Nation Events",
-      "url": "https://www.thenation.com/events"
-    },
-    {
-      "text": "Nation Shop",
-      "url": "https://shop.thenation.com"
-    },
-    {
-      "text": "Nation Travels",
-      "url": "https://www.thenation.com/travels"
-    },
-    {
-      "text": "Nation Wine Club",
-      "url": "https://www.thenationwineclub.com"
-    },
-    {
-      "text": "The Nation Fund",
-      "url": "https://thenationfund.org/"
-    },
-    {
-      "text": "Magazine",
-      "url": "#"
-    },
-    {
-      "text": "Current Issue",
-      "url": "https://www.thenation.com/issue/"
-    },
-    {
-      "text": "Masthead",
-      "url": "https://www.thenation.com/masthead/"
-    },
-    {
-      "text": "Archive",
-      "url": "https://www.thenation.com/archive/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "https://subscriptions.thenation.com/Nation_index?pk=G1A1FDF"
-    },
-    {
-      "text": "Renew",
-      "url": "https://subscriptions.thenation.com/loading.do?omedasite=Nation_CustServ&version=1&page=1"
-    },
-    {
-      "text": "Gift Subscriptions",
-      "url": "https://subscriptions.thenation.com/loading.do?omedasite=Nation_Gift"
-    },
-    {
-      "text": "Academic Rate",
-      "url": "https://subscriptions.thenation.com/loading.do?omedasite=Nation_digitalacademic"
-    },
-    {
-      "text": "Subscription Service",
-      "url": "https://www.thenation.com/subscription-services/"
-    },
-    {
-      "text": "Reprints",
-      "url": "http://www.thenationreprints.com/"
-    },
-    {
-      "text": "Do Not Rent or Sell My Data",
-      "url": "https://www.thenation.com/privacy-contact-form/"
-    }
-  ],
-  "uniq": 293515974,
+  "uniq": 2055874755,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1658278883,
+  "created": 1658362916,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/26/items/france24-2022",
@@ -7996,31 +7996,157 @@
       "sha1": "dc76dc8d2b5e717f8c6356001b65fac63cc8346d"
     },
     {
+      "name": "france24-2022-07-20T04:17:20.476206+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658283446",
+      "size": "27867",
+      "md5": "9d775b394fe5907deff87d7cd3780e53",
+      "crc32": "2b560628",
+      "sha1": "d5e006a0cbdd1e4a95c6f5b3f1444bec5816fa47",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-07-20T04:17:20.476206+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658283448",
+      "size": "50336",
+      "md5": "bcaffa32d318d0060db51b5f98f1a784",
+      "crc32": "084b037d",
+      "sha1": "30dead591dd89c11b6afa06462ef0d3a663e5013",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-07-20T04:17:20.476206+02:00.jpg",
+      "source": "original",
+      "mtime": "1658283444",
+      "size": "214149",
+      "md5": "30f69bc043835defbe74d15528a99fdf",
+      "crc32": "2b2aa513",
+      "sha1": "50c31072093bed651a66fa7c9ec615b4ce0b2767",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-07-20T04:17:20.476206+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-07-20T04:17:20.476206+02:00.jpg",
+      "mtime": "1658283801",
+      "size": "9083",
+      "md5": "de2ee8eb186e58c4480524870cde60dc",
+      "crc32": "2ba1a1bf",
+      "sha1": "3a6193a4e07d6e4632d0c1d5a87b6b0fd16fc012"
+    },
+    {
+      "name": "france24-2022-07-20T10:10:31.983625+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658304638",
+      "size": "28322",
+      "md5": "c9fb183c10955f689d20163c78d551fd",
+      "crc32": "63a36a91",
+      "sha1": "b196a53d4fa61756a8c0c95bd56a4a72c60e46d4",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-07-20T10:10:31.983625+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658304640",
+      "size": "51290",
+      "md5": "dd1ef3ff7b68eee2157e25ca36002599",
+      "crc32": "46fbafba",
+      "sha1": "476f5e8c44de15b16b91da664b2fd61e8309c6e4",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-07-20T10:10:31.983625+02:00.jpg",
+      "source": "original",
+      "mtime": "1658304636",
+      "size": "266596",
+      "md5": "a6870fda2f10f75db3acea966ae55b31",
+      "crc32": "4bdd5184",
+      "sha1": "013a8d5e37ff9026b9be7bb6bfac85f97309fc48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-07-20T10:10:31.983625+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-07-20T10:10:31.983625+02:00.jpg",
+      "mtime": "1658310649",
+      "size": "9515",
+      "md5": "9834c0c1f080a76d8e6ba999d4fd7843",
+      "crc32": "59c0392f",
+      "sha1": "63d294be9dbdf58f36b41df263a600a85305bd7d"
+    },
+    {
+      "name": "france24-2022-07-20T16:22:55.062017+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658326981",
+      "size": "28303",
+      "md5": "2d5c8aadc946a6020e7b8552e861e35b",
+      "crc32": "4ae4fa4a",
+      "sha1": "f5188a0fbb878c9a005bc639091995621882455e",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-07-20T16:22:55.062017+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658326983",
+      "size": "51341",
+      "md5": "268ac2bda83fc26ede35ce83649c8168",
+      "crc32": "89ce9e59",
+      "sha1": "4c116e1874904496f1352771f255fd4e5817ee8c",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-07-20T16:22:55.062017+02:00.jpg",
+      "source": "original",
+      "mtime": "1658326980",
+      "size": "271444",
+      "md5": "932c5cfd89b52148a28e7c4ae065b0f3",
+      "crc32": "f0540ec0",
+      "sha1": "63407d273cf454400ecf705f5c93dac2b199d491",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-07-20T16:22:55.062017+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-07-20T16:22:55.062017+02:00.jpg",
+      "mtime": "1658333061",
+      "size": "9727",
+      "md5": "40092432dadb0f5466fbc29920b92b43",
+      "crc32": "01b52e75",
+      "sha1": "8f6a99f7c167ae66ae8793e5aa872859908a5cf0"
+    },
+    {
       "name": "france24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d9e55715804f81bea26c7486616b32352f784f17",
-      "mtime": "1658243189",
-      "size": "161458",
-      "md5": "a7c767474a3f91f160ad8af85726f860",
-      "crc32": "7d87e94e",
-      "sha1": "61d490be2a3a4becb7d994cc1341454e8a4ab2ce",
+      "btih": "23793f63d3106f0cc848eb2465064b02a5b83edb",
+      "mtime": "1658333109",
+      "size": "163985",
+      "md5": "962aaed8bd6301cdce650b36566f270d",
+      "crc32": "691912fa",
+      "sha1": "c563e5ab5d4deb918ec944ae2a89bd3003e05537",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "06b9ba298a52a634fc5d84113c5492cd",
+      "md5": "aba17e890dc1a10f7e7638f6048bc725",
       "summation": "md5"
     },
     {
       "name": "france24-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658240137",
-      "size": "884736",
-      "md5": "98b8482c74f5868c88645a4f009e1810",
-      "crc32": "e36cf203",
-      "sha1": "2ccd902a748073d4649ab0c8ad82d1f4c251a6a3",
+      "mtime": "1658326988",
+      "size": "897024",
+      "md5": "018deae332c991d665fa5c4eb36496da",
+      "crc32": "ed9d4dae",
+      "sha1": "f3cc610d95a7e90989a28b37242e92de2acbaf6e",
       "format": "Metadata"
     },
     {
@@ -8034,8 +8160,12 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 765,
+  "files_count": 777,
   "france24-2022": [
+    {
+      "text": "Voir nos partenaires",
+      "url": "javascript:Didomi.preferences.show('vendors')"
+    },
     {
       "text": "Acc\u00e9der au contenu principal",
       "url": "#main-content"
@@ -8297,8 +8427,8 @@
       "url": "/fr/"
     },
     {
-      "text": "#Canicule",
-      "url": "https://www.france24.com/fr/tag/canicule/"
+      "text": "#Sri Lanka",
+      "url": "https://www.france24.com/fr/tag/sri-lanka/"
     },
     {
       "text": "#Guerre en Ukraine",
@@ -8341,72 +8471,72 @@
       "url": "#"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nCanicule : la vigilance rouge lev\u00e9e, plus de 19\u00a0000\u00a0hectares br\u00fbl\u00e9s en Gironde\n                                \n        ",
-      "url": "/fr/france/20220719-canicule-la-vigilance-rouge-lev%C3%A9e-17-000-hectares-br%C3%BBl%C3%A9s-en-gironde"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                HEURE PAR HEURE\n                                                    \nEn direct : les objectifs russes ne se concentrent plus \"uniquement\" sur le Donbass, selon Lavrov\n                                \n        ",
+      "url": "/fr/europe/20220720-en-direct-olena-zelenska-premi%C3%A8re-dame-ukrainienne-attendue-devant-le-congr%C3%A8s-am%C3%A9ricain"
     },
     {
-      "text": "\n            \n                            \n\n                         Des records de chaleur battus partout en France, une nuit caniculaire attendue\n        ",
-      "url": "/fr/france/20220718-des-records-de-chaleur-battus-partout-en-france-une-nuit-caniculaire-attendue"
-    },
-    {
-      "text": "\n            \n                            \n\n                         Incendies en Gironde : une catastrophe \u00e9cologique et une gestion des for\u00eats \u00e0 repenser\n        ",
-      "url": "/fr/france/20220718-incendies-en-gironde-une-catastrophe-%C3%A9cologique-et-une-gestion-des-for%C3%AAts-%C3%A0-repenser"
-    },
-    {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                HEURE PAR HEURE\n                                                    En direct : le limogeage du chef des services de s\u00e9curit\u00e9 valid\u00e9e par le parlement ukrainien\n                            \n        ",
+      "text": "\n            \n                            \n\n                         Ukraine : Vladimir Poutine \u00e9voque des avanc\u00e9es sur l'exportation de c\u00e9r\u00e9ales russes\n        ",
       "url": "/fr/europe/20220719-en-direct-olena-zelenska-la-femme-du-pr%C3%A9sident-ukrainien-en-visite-aux-%C3%A9tats-unis"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nPoutine et Erdogan \u00e0 T\u00e9h\u00e9ran pour \u00e9voquer le blocage des c\u00e9r\u00e9ales ukrainiennes\n                            \n        ",
+      "text": "\n            \n                            \n\n                         Guerre en Syrie et hydrocarbures au c\u0153ur du sommet Iran-Russie-Turquie\n        ",
       "url": "/fr/europe/20220719-poutine-et-erdogan-%C3%A0-t%C3%A9h%C3%A9ran-pour-%C3%A9voquer-le-blocage-des-c%C3%A9r%C3%A9ales-ukrainiennes"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Succession de Boris Johnson : Rishi Sunak creuse l'\u00e9cart face \u00e0 ses trois adversaires\n                            \n        ",
-      "url": "/fr/europe/20220718-succession-de-boris-johnson-rishi-sunak-creuse-l-%C3%A9cart-face-%C3%A0-ses-trois-adversaires"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                REPORTAGE\n                                                    Campings calcin\u00e9s en Gironde : \"On pensait revenir mais finalement on a tout perdu!\"\n                            \n        ",
+      "url": "/fr/france/20220720-campings-calcin%C3%A9s-en-gironde-on-pensait-revenir-mais-finalement-on-a-tout-perdu"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    La variole du singe ravive les craintes d\u2019une stigmatisation de la communaut\u00e9 gay\n                            \n        ",
-      "url": "/fr/france/20220719-la-variole-du-singe-ravive-les-craintes-d-une-stigmatisation-de-la-communaut%C3%A9-gay"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                AVANT-PAPIER\n                                                    Euro-f\u00e9minin 2022\u00a0: les Fran\u00e7aises vont-elles enfin d\u00e9passer les quarts de finale\u00a0?\n                            \n        ",
+      "url": "/fr/sports/20220720-euro-f%C3%A9minin-2022-les-fran%C3%A7aises-vont-elles-enfin-d%C3%A9passer-les-quarts-de-finale"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                OR NOIR\n                                                    \nCrise \u00e9nerg\u00e9tique : quand les Occidentaux font les yeux doux aux monarchies du Golfe\n                            \n        ",
-      "url": "/fr/france/20220718-crise-%C3%A9nerg%C3%A9tique-quand-les-occidentaux-font-les-yeux-doux-aux-monarchies-du-golfe"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nSri Lanka : l'ex-Premier ministre Ranil Wickremesinghe \u00e9lu pr\u00e9sident par le Parlement\n                            \n        ",
+      "url": "/fr/info-en-continu/20220720-%F0%9F%94%B4-sri-lanka-l-ex-premier-ministre-ranil-wickremesinghe-%C3%A9lu-pr%C3%A9sident-par-le-parlement"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nEmmanuel Macron signe un accord sur la coop\u00e9ration \u00e9nerg\u00e9tique avec \"MBZ\"\n                            \n        ",
-      "url": "/fr/france/20220718-emmanuel-macron-re%C3%A7oit-le-pr%C3%A9sident-des-%C3%A9mirats-arabes-unis-mbz-pour-discuter-d-%C3%A9nergie"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nItalie : Mario Draghi appelle \u00e0 un nouveau \"pacte de confiance\" pour sauver son gouvernement\n                            \n        ",
+      "url": "/fr/europe/20220720-italie-mario-draghi-appelle-%C3%A0-un-nouveau-pacte-de-confiance-pour-sauver-son-gouvernement"
     },
     {
-      "text": "\n        \nL'Europe de tous les records, entre incendies, canicules et s\u00e9cheresses\n        \n    ",
-      "url": "/fr/vid%C3%A9o/20220719-l-europe-de-tous-les-records-entre-incendies-canicules-et-s%C3%A9cheresses"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Reportage\n                                                    \nCrise c\u00e9r\u00e9ali\u00e8re : Kiev accuse Moscou de d\u00e9truire d\u00e9lib\u00e9r\u00e9ment les cultures\n                            \n        ",
+      "url": "/fr/europe/20220720-crise-c%C3%A9r%C3%A9ali%C3%A8re-kiev-accuse-moscou-de-d%C3%A9truire-d%C3%A9lib%C3%A9r%C3%A9ment-les-cultures"
     },
     {
-      "text": "\n        L1: accord de principe pour l'arriv\u00e9e \u00e0 l'OM du Lensois Jonathan Clauss\n        \n    ",
-      "url": "/fr/info-en-continu/20220719-l1-accord-de-principe-pour-l-arriv%C3%A9e-%C3%A0-l-om-du-lensois-jonathan-clauss"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Laurent Nu\u00f1ez succ\u00e8de \u00e0 Didier Lallement \u00e0 la t\u00eate de la Pr\u00e9fecture de police \u00e0 Paris\n                            \n        ",
+      "url": "/fr/france/20220720-laurent-nu%C3%B1ez-succ%C3%A8de-%C3%A0-didier-lallement-%C3%A0-la-t%C3%AAte-de-la-pr%C3%A9fecture-de-police-%C3%A0-paris"
     },
     {
-      "text": "\n        \nLa vague de chaleur \"improbable sans tenir compte de l'effet du changement climatique\"\n        \n    ",
-      "url": "/fr/vid%C3%A9o/20220719-la-vague-de-chaleur-improbable-sans-tenir-compte-de-l-effet-du-changement-climatique"
+      "text": "\n        \nIncendies en Gironde: \"Peu de pompiers en France ont pu \u00eatre confront\u00e9s \u00e0 ce type de feu\"\n        \n    ",
+      "url": "/fr/vid%C3%A9o/20220720-incendies-en-gironde-peu-de-pompiers-en-france-ont-pu-%C3%AAtre-confront%C3%A9s-%C3%A0-ce-type-de-feu"
     },
     {
-      "text": "\n        \nIncendies en France : plus de 1 400 hectares de v\u00e9g\u00e9tation consum\u00e9s dans le Finist\u00e8re\n        \n    ",
-      "url": "/fr/vid%C3%A9o/20220719-incendies-en-france-plus-de-1-400-hectares-de-v%C3%A9g%C3%A9tation-consum%C3%A9s-dans-le-finist%C3%A8re"
+      "text": "\n        Foot: Paris, encore en rodage, fait le m\u00e9tier contre Kawasaki\n        \n    ",
+      "url": "/fr/info-en-continu/20220720-foot-paris-encore-en-rodage-fait-le-m%C3%A9tier-contre-kawasaki"
     },
     {
-      "text": "\n        \nIncendies en Gironde : des conditions m\u00e9t\u00e9orologiques plus favorables mais des feux toujours f\u00e9roces\n        \n    ",
-      "url": "/fr/vid%C3%A9o/20220719-incendies-en-gironde-des-conditions-m%C3%A9t%C3%A9orologiques-plus-favorables-mais-des-feux-toujours-f%C3%A9roces"
+      "text": "\n        En mer, Charlie Dalin \"invente\" son nouveau bateau volant pour le Vend\u00e9e Globe 2024\n        \n    ",
+      "url": "/fr/info-en-continu/20220720-en-mer-charlie-dalin-invente-son-nouveau-bateau-volant-pour-le-vend%C3%A9e-globe-2024"
+    },
+    {
+      "text": "\n        Laurent Nu\u00f1ez succ\u00e8de \u00e0 Didier Lallement \u00e0 la t\u00eate de la pr\u00e9fecture de police de Paris\n        \n    ",
+      "url": "/fr/info-en-continu/20220720-laurent-nu%C3%B1ez-succ%C3%A8de-%C3%A0-didier-lallement-%C3%A0-la-t%C3%AAte-de-la-pr%C3%A9fecture-de-police-de-paris-1"
+    },
+    {
+      "text": "\n        Golf: Stenson d\u00e9mis de ses fonctions de capitaine de l'Europe pour la Ryder Cup\n        \n    ",
+      "url": "/fr/info-en-continu/20220720-golf-stenson-d%C3%A9mis-de-ses-fonctions-de-capitaine-de-l-europe-pour-la-ryder-cup"
     },
     {
       "text": "\n                    Toute l'actualit\u00e9 en direct \n\n                ",
       "url": "/fr/infocontinu"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                COMPTE-RENDU\n                                                    Euro-f\u00e9minin 2022 : la VAR prive la France d'une victoire face \u00e0 l'Islande avant les quarts\n                                \n        ",
-      "url": "/fr/sports/20220718-euro-f%C3%A9minin-2022-la-var-prive-la-france-d-une-victoire-face-%C3%A0-l-islande-avant-les-quarts"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                UN MAILLOT JAUNE POUR DEUX\n                                                    Tour de France : Tadej Pogacar peut-il encore renverser Jonas Vingegaard ?\n                                \n        ",
+      "url": "/fr/sports/20220719-tour-de-france-tadej-pogacar-peut-il-encore-renverser-jonas-vingegaard"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                EURO F\u00c9MININ 2022\n                                                    Euro-f\u00e9minin 2022 : Grace Geyoro, nouveau phare des Bleues apr\u00e8s la blessure de Katoto\n                            \n        ",
-      "url": "/fr/sports/20220718-euro-f%C3%A9minin-2022-grace-geyoro-nouveau-phare-des-bleues-apr%C3%A8s-la-blessure-de-katoto"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                PORTRAIT\n                                                    Euro-f\u00e9minin 2022\u00a0: Melvine Malard, un joker en or pour les Bleues\n                            \n        ",
+      "url": "/fr/sports/20220719-euro-f%C3%A9minin-2022-melvine-malard-un-joker-en-or-pour-les-bleues"
     },
     {
       "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                ActuElles\n                                                    \nLe retour du Tour de France Femmes, une \u00e9tape majeure pour le cyclisme f\u00e9minin\n                            \n        ",
@@ -8421,72 +8551,72 @@
       "url": "https://www.france24.com/fr/sports/"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                UN MAILLOT JAUNE POUR DEUX\n                                                    Tour de France : Tadej Pogacar peut-il encore renverser Jonas Vingegaard ?\n                            \n        ",
-      "url": "/fr/sports/20220719-tour-de-france-tadej-pogacar-peut-il-encore-renverser-jonas-vingegaard"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nL\u00e9gislatives au S\u00e9n\u00e9gal : en France, la bataille des coalitions pour les votes de la diaspora\n                            \n        ",
+      "url": "/fr/vid%C3%A9o/20220720-l%C3%A9gislatives-au-s%C3%A9n%C3%A9gal-en-france-la-bataille-des-coalitions-pour-les-votes-de-la-diaspora"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nPr\u00e9sidentielle au Sri Lanka : le chef de l'opposition retire sa candidature\n                            \n        ",
-      "url": "/fr/asie-pacifique/20220719-pr%C3%A9sidentielle-au-sri-lanka-le-chef-de-l-opposition-renonce-%C3%A0-%C3%AAtre-candidat"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \u00c9tats-Unis : la Chambre des repr\u00e9sentants vote une loi pour prot\u00e9ger le mariage homosexuel\n                            \n        ",
+      "url": "/fr/am%C3%A9riques/20220720-la-chambre-des-repr%C3%A9sentants-vote-une-loi-pour-prot%C3%A9ger-le-mariage-homosexuel-aux-%C3%A9tats-unis"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Un chef de l'arm\u00e9e isra\u00e9lienne effectue une premi\u00e8re visite officielle au Maroc\n                            \n        ",
-      "url": "/fr/moyen-orient/20220719-premi%C3%A8re-visite-officielle-d-un-chef-de-l-arm%C3%A9e-isra%C3%A9lienne-au-maroc"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Mercato : Robert Lewandowski s'engage pour cinq ans au FC Barcelone\n                            \n        ",
+      "url": "/fr/sports/20220720-mercato-robert-lewandowski-s-engage-pour-cinq-ans-au-fc-barcelone"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                R\u00c9CHAUFFEMENT CLIMATIQUE\n                                                    \nIncendies en Gironde : une catastrophe \u00e9cologique et une gestion des for\u00eats \u00e0 repenser\n                            \n        ",
-      "url": "/fr/france/20220718-incendies-en-gironde-une-catastrophe-%C3%A9cologique-et-une-gestion-des-for%C3%AAts-%C3%A0-repenser"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                R\u00c9CHAUFFEMENT CLIMATIQUE\n                                                    En images : France, Espagne, Gr\u00e8ce, Maroc... Avec la canicule, l'Europe et le Maghreb s'embrasent\n                            \n        ",
+      "url": "/fr/diaporama/20220719-en-images-france-espagne-gr%C3%A8ce-maroc-avec-la-canicule-l-europe-et-le-maghreb-s-embrasent"
     },
     {
-      "text": "\n                                                                                                                \n    \n    \n        \n\n    \n\n\n    \n\n                                        \n                LIVEBLOG\n                                                    Euro-f\u00e9minin 2022 :  la France conc\u00e8de le nul face \u00e0 l'Islande, revivez le fil du match\n                            \n        ",
-      "url": "/fr/sports/20220718-euro-f%C3%A9minin-2022-suivez-en-direct-le-match-entre-l-islande-et-la-france"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Rached Ghannouchi, le chef du parti Ennahda, reste en libert\u00e9 en Tunisie\n                            \n        ",
+      "url": "/fr/afrique/20220719-rached-ghannouchi-le-chef-du-parti-ennahda-reste-en-libert%C3%A9-en-tunisie"
     },
     {
       "text": "\n                                                                                                                \n    \n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Rafle du V\u00e9l d'Hiv\u00a0: les derniers t\u00e9moins\n                                \n        ",
       "url": "https://webdoc.france24.com/rafle-vel-dhiv-derniers-temoins/"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    D\u00e9couvrez la nouvelle \u00e9quipe gouvernementale d'\u00c9lisabeth Borne\n                            \n        ",
-      "url": "https://graphics.france24.com/trombinoscope-gouvernement-borne-remaniement-portraits/"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                R\u00c9CHAUFFEMENT CLIMATIQUE\n                                                    \nIncendies en Gironde : une catastrophe \u00e9cologique et une gestion des for\u00eats \u00e0 repenser\n                            \n        ",
+      "url": "/fr/france/20220718-incendies-en-gironde-une-catastrophe-%C3%A9cologique-et-une-gestion-des-for%C3%AAts-%C3%A0-repenser"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Sur Infomigrants\n                                                    Associations et patrons se mobilisent pour les jeunes apprentis \u00e9trangers menac\u00e9s d'expulsion\n                            \n        ",
-      "url": "http://www.infomigrants.net/fr/post/41749/en-france-associations-et-patrons-se-mobilisent-pour-les-jeunes-apprentis-etrangers-menaces-dexpulsion"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                SUR INFOMIGRANTS\n                                                    \"Elle est ma deuxi\u00e8me maman\" : Armel, le jeune ivoirien accueilli par Brigitte, la b\u00e9n\u00e9vole bretonne\n                            \n        ",
+      "url": "http://www.infomigrants.net/fr/post/41924/elle-est-ma-deuxieme-maman--la-rencontre-darmel-ivoirien-de-16-ans-avec-brigitte-benevole-bretonne"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                INTERVIEW\n                                                    Au Sri Lanka, \"le renouvellement politique ne sera pas facile\" apr\u00e8s le d\u00e9part du pr\u00e9sident\n                            \n        ",
-      "url": "/fr/asie-pacifique/20220712-sri-lanka-l-%C3%AEle-ruin%C3%A9e-esp%C3%A8re-un-renouvellement-politique-apr%C3%A8s-le-d%C3%A9part-du-pr%C3%A9sident"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                INTERVIEW\n                                                    \nMarion Rousse : \"L'impact du Tour de France f\u00e9minin va bien au-del\u00e0 du sport\"\n                            \n        ",
+      "url": "/fr/sports/20220714-marion-rousse-l-impact-du-tour-de-france-f%C3%A9minin-va-bien-au-del%C3%A0-du-sport"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                P\u00e9docriminalit\u00e9\n                                                    Abus sexuels dans l'\u00c9glise\u00a0: des indemnisations au compte-gouttes et des proc\u00e9dures opaques\n                            \n        ",
-      "url": "/fr/france/20220712-abus-sexuels-dans-l-%C3%A9glise-des-indemnisations-au-compte-gouttes-et-des-proc%C3%A9dures-opaques"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                JUSTICE\n                                                    Dans le proc\u00e8s Twitter-Elon Musk, le r\u00f4le crucial de la Cour de chancellerie du Delaware\n                            \n        ",
+      "url": "/fr/%C3%A9co-tech/20220716-dans-le-proc%C3%A8s-twitter-elon-musk-le-r%C3%B4le-crucial-de-la-cour-de-chancellerie-du-delaware"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                ESPACE\n                                                    \nT\u00e9lescope James-Webb\u00a0: une premi\u00e8re photo de l'infiniment ancien dans l'univers\n                            \n        ",
-      "url": "/fr/%C3%A9co-tech/20220712-t%C3%A9lescope-james-webb-une-premi%C3%A8re-photo-de-l-infiniment-ancien-dans-l-univers"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                SCANDALE BANCAIRE\n                                                    Chine : des banques locales en p\u00e9ril, des criminels et un immense scandale financier\n                            \n        ",
+      "url": "/fr/%C3%A9co-tech/20220714-chine-des-banques-locales-en-p%C3%A9ril-des-criminels-et-un-immense-scandale-financier"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nAssembl\u00e9e nationale : coup d'envoi des d\u00e9bats sur le pouvoir d'achat\n                            \n        ",
-      "url": "/fr/%C3%A9co-tech/20220718-le-projet-de-loi-pouvoir-d-achat-arriv%C3%A9-%C3%A0-l-assembl%C3%A9e-nationale-promet-des-d%C3%A9bats-anim%C3%A9s"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Royaume-Uni : la canicule fait tomber un record de chaleur, plus de 40\u00b0C \u00e0 Heathrow\n                            \n        ",
+      "url": "/fr/europe/20220719-canicule-un-record-de-chaleur-au-royaume-uni-plus-de-40%C2%B0c-recens%C3%A9s-%C3%A0-heathrow"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                L'Entretien de France 24\n                                                    \nPascal Ianni : \"L'arm\u00e9e fran\u00e7aise a d\u00e9cid\u00e9 de quitter le Mali, mais le combat continue ailleurs\"\n                            \n        ",
-      "url": "/fr/%C3%A9missions/l-entretien/20220718-pascal-ianni-l-arm%C3%A9e-fran%C3%A7aise-a-d%C3%A9cid%C3%A9-de-quitter-le-mali-mais-le-combat-continue-ailleurs"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                SANT\u00c9\n                                                    \nCanicule : pourquoi les fortes chaleurs sont plus dangereuses pour les femmes\n                            \n        ",
+      "url": "/fr/france/20220719-canicule-pourquoi-les-fortes-chaleurs-sont-plus-dangereuses-pour-les-femmes"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nMario Draghi \u00e0 Alger pour sceller l'augmentation de la fourniture de gaz alg\u00e9rien \u00e0 l'Italie\n                            \n        ",
-      "url": "/fr/afrique/20220718-mario-draghi-%C3%A0-alger-pour-sceller-l-augmentation-de-la-fourniture-de-gaz-alg%C3%A9rien-%C3%A0-l-italie"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \n\u00c9dition sp\u00e9ciale : incendies et canicule font suffoquer la France\n                            \n        ",
+      "url": "/fr/vid%C3%A9o/20220719-%C3%A9dition-sp%C3%A9ciale-incendies-et-canicule-font-suffoquer-la-france"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    P\u00e9nuries d'\u00e9nergies : la grande distribution s'accorde pour consommer moins d\u00e8s l'automne\n                            \n        ",
-      "url": "/fr/france/20220718-p%C3%A9nuries-d-%C3%A9nergies-la-grande-distribution-s-accorde-pour-consommer-moins-d%C3%A8s-l-automne"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nTwitter\u00a0: le proc\u00e8s contre Elon Musk aura lieu en octobre\n                            \n        ",
+      "url": "/fr/am%C3%A9riques/20220719-twitter-le-proc%C3%A8s-de-la-plateforme-contre-elon-musk-aura-lieu-en-octobre"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nLa France et la Grande-Bretagne affrontent des records de temp\u00e9rature\n                            \n        ",
-      "url": "/fr/france/20220718-la-france-et-la-grande-bretagne-se-pr%C3%A9parent-%C3%A0-des-records-de-temp%C3%A9rature"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                LE FIL DU 19 JUILLET\n                                                    Ukraine : Vladimir Poutine \u00e9voque des avanc\u00e9es sur l'exportation de c\u00e9r\u00e9ales russes\n                            \n        ",
+      "url": "/fr/europe/20220719-en-direct-olena-zelenska-la-femme-du-pr%C3%A9sident-ukrainien-en-visite-aux-%C3%A9tats-unis"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                SURCHAUFFE\n                                                    Les pays europ\u00e9ens \u00e0 l'\u00e9preuve des canicules, plus intenses et plus fr\u00e9quentes\n                            \n        ",
-      "url": "/fr/europe/20220717-les-pays-europ%C3%A9ens-%C3%A0-l-%C3%A9preuve-des-canicules-plus-intenses-et-plus-fr%C3%A9quentes"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nGuerre en Syrie et hydrocarbures au c\u0153ur du sommet Iran-Russie-Turquie\n                            \n        ",
+      "url": "/fr/europe/20220719-poutine-et-erdogan-%C3%A0-t%C3%A9h%C3%A9ran-pour-%C3%A9voquer-le-blocage-des-c%C3%A9r%C3%A9ales-ukrainiennes"
     },
     {
       "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Reporters\n                                                    \nDu Sahel \u00e0 Duba\u00ef : les routes de l'or sale\n                                \n        ",
@@ -8517,31 +8647,35 @@
       "url": "/fr/\u00e9missions/derni\u00e8res-\u00e9missions/"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Succession de Boris Johnson : cinq candidats \u00e0 couteaux tir\u00e9s lors du deuxi\u00e8me d\u00e9bat t\u00e9l\u00e9vis\u00e9\n                            \n        ",
-      "url": "/fr/europe/20220717-succession-%C3%A0-boris-johnson-les-cinq-candidats-%C3%A0-couteaux-tir%C3%A9s-lors-du-deuxi%C3%A8me-d%C3%A9bat-t%C3%A9l%C3%A9vis%C3%A9"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    La variole du singe ravive les craintes d\u2019une stigmatisation de la communaut\u00e9 gay\n                            \n        ",
+      "url": "/fr/france/20220719-la-variole-du-singe-ravive-les-craintes-d-une-stigmatisation-de-la-communaut%C3%A9-gay"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    T\u00e9h\u00e9ran a \"les capacit\u00e9s techniques\" de fabriquer une bombe atomique, selon un responsable\n                            \n        ",
-      "url": "/fr/moyen-orient/20220717-selon-un-responsable-iranien-t%C3%A9h%C3%A9ran-a-la-capacit%C3%A9-technique-de-fabriquer-une-bombe-atomique"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                16E ETAPE\n                                                    Tour de France : Hugo Houle d\u00e9croche la victoire, Pogacar et Vingegaard se marquent pour le jaune\n                            \n        ",
+      "url": "/fr/sports/20220719-tour-de-france-hugo-houle-d%C3%A9croche-la-victoire-pogacar-et-vingegaard-se-marquent-pour-le-jaune"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nLe proc\u00e8s de Nikolas Cruz, tueur du lyc\u00e9e de Parkland, s'ouvre en Floride\n                            \n        ",
-      "url": "/fr/am%C3%A9riques/20220718-%C3%A9tats-unis-le-proc%C3%A8s-de-la-tuerie-du-lyc%C3%A9e-de-parkland-s-ouvre-en-floride"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nLa vigilance rouge lev\u00e9e, plus de 19\u00a0000\u00a0hectares br\u00fbl\u00e9s en Gironde\n                            \n        ",
+      "url": "/fr/france/20220719-canicule-la-vigilance-rouge-lev%C3%A9e-17-000-hectares-br%C3%BBl%C3%A9s-en-gironde"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nLe Sri Lanka renouvelle l'\u00e9tat d'urgence avant un vote d\u00e9cisif\n                            \n        ",
-      "url": "/fr/asie-pacifique/20220718-le-sri-lanka-renouvelle-l-%C3%A9tat-d-urgence-avant-un-vote-d%C3%A9cisif"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    France\u00a0: l'\u00c9tat pr\u00e9voit de renationaliser EDF via une OPA \u00e0 9,7 milliards d'euros\n                            \n        ",
+      "url": "/fr/france/20220719-u"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Laurent Wauquiez renonce \u00e0 la pr\u00e9sidence des R\u00e9publicains et se tourne vers 2027\n                            \n        ",
-      "url": "/fr/france/20220717-laurent-wauquiez-renonce-%C3%A0-%C3%AAtre-candidat-%C3%A0-la-pr%C3%A9sidence-des-r%C3%A9publicains"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                Disparition\n                                                    \nD\u00e9c\u00e8s de la chanteuse et actrice iconique Dani\n                            \n        ",
+      "url": "/fr/france/20220719-d%C3%A9c%C3%A8s-de-la-chanteuse-et-actrice-dani"
     },
     {
-      "text": "\n                                                                                                                \n    \n    \n        \n\n    \n\n\n    \n\n                                        \n                REPORTAGE\n                                                    \nItalie : une toile pour prote\u0301ger le glacier de Presena contre le r\u00e9chauffement climatique\n                            \n        ",
-      "url": "/fr/europe/20220717-italie-une-immense-toile-blanche-contre-la-fonte-du-glacier-de-presena"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nPr\u00e9sidentielle au Sri Lanka : le chef de l'opposition retire sa candidature\n                            \n        ",
+      "url": "/fr/asie-pacifique/20220719-pr%C3%A9sidentielle-au-sri-lanka-le-chef-de-l-opposition-renonce-%C3%A0-%C3%AAtre-candidat"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nGabon : les autorit\u00e9s mobilis\u00e9es pour enrayer le conflit de cohabitation avec les \u00e9l\u00e9phants\n                                \n        ",
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nL\u00e9gislatives au S\u00e9n\u00e9gal : en France, la bataille des coalitions pour les votes de la diaspora\n                                \n        ",
+      "url": "/fr/vid%C3%A9o/20220720-l%C3%A9gislatives-au-s%C3%A9n%C3%A9gal-en-france-la-bataille-des-coalitions-pour-les-votes-de-la-diaspora"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nGabon : les autorit\u00e9s mobilis\u00e9es pour enrayer le conflit de cohabitation avec les \u00e9l\u00e9phants\n                            \n        ",
       "url": "/fr/vid%C3%A9o/20220715-gabon-les-autorit%C3%A9s-mobilis%C3%A9es-pour-enrayer-le-conflit-de-cohabitation-entre-hommes-et-%C3%A9l%C3%A9phants"
     },
     {
@@ -8551,10 +8685,6 @@
     {
       "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nMajor G\u00e9rald, youtubeur star de la L\u00e9gion \u00e9trang\u00e8re\n                            \n        ",
       "url": "/fr/vid%C3%A9o/20220713-major-g%C3%A9rald-youtubeur-star-de-la-l%C3%A9gion-%C3%A9trang%C3%A8re"
-    },
-    {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nS\u00e9n\u00e9gal : un mus\u00e9e sous-marin dans la baie de Dakar\n                            \n        ",
-      "url": "/fr/vid%C3%A9o/20220712-s%C3%A9n%C3%A9gal-un-mus%C3%A9e-sous-marin-dans-la-baie-de-dakar"
     },
     {
       "text": "\n                    Regarder toute l'actualit\u00e9 en vid\u00e9os \n\n                ",
@@ -8577,44 +8707,48 @@
       "url": "/fr/tag/pr\u00e9sidence-fran\u00e7aise-de-l-ue/"
     },
     {
-      "text": "\n                        \n                \n                                                    Rafle du V\u00e9l d'Hiv\u00a0: les derniers t\u00e9moins\n                            \n        ",
-      "url": "https://webdoc.france24.com/rafle-vel-dhiv-derniers-temoins/"
+      "text": "\n                        \n                \n                                                    \nEmmanuel Macron signe un accord sur la coop\u00e9ration \u00e9nerg\u00e9tique avec \"MBZ\"\n                            \n        ",
+      "url": "/fr/france/20220718-emmanuel-macron-re%C3%A7oit-le-pr%C3%A9sident-des-%C3%A9mirats-arabes-unis-mbz-pour-discuter-d-%C3%A9nergie"
     },
     {
-      "text": "\n                        \n                COMM\u00c9MORATIONS\n                                                    \nV\u00e9l d'Hiv : \"La France s'est trahie elle-m\u00eame\" pendant le r\u00e9gime de Vichy, affirme Macron\n                            \n        ",
-      "url": "/fr/france/20220717-en-direct-comm%C3%A9morations-des-80-ans-de-la-rafle-du-vel-d-hiv"
+      "text": "\n                        \n                OR NOIR\n                                                    \nCrise \u00e9nerg\u00e9tique : quand les Occidentaux font les yeux doux aux monarchies du Golfe\n                            \n        ",
+      "url": "/fr/france/20220718-crise-%C3%A9nerg%C3%A9tique-quand-les-occidentaux-font-les-yeux-doux-aux-monarchies-du-golfe"
     },
     {
-      "text": "\n                        \n                LE FIL DU 17 JUILLET\n                                                    \nGuerre en Ukraine : Volodymyr Zelensky limoge le chef de la s\u00e9curit\u00e9 et la procureure g\u00e9n\u00e9rale\n                            \n        ",
-      "url": "/fr/europe/20220717-en-direct-la-guerre-de-la-russie-contre-l-ukraine-fermement-condamn%C3%A9e-au-g20"
+      "text": "\n                        \n                UN MAILLOT JAUNE POUR DEUX\n                                                    Tour de France : Tadej Pogacar peut-il encore renverser Jonas Vingegaard ?\n                            \n        ",
+      "url": "/fr/sports/20220719-tour-de-france-tadej-pogacar-peut-il-encore-renverser-jonas-vingegaard"
     },
     {
-      "text": "\n                        \n                LISTE DE D\u00c9PART\n                                                    Tour de France Femmes : la liste des 144 coureuses engag\u00e9es\n                            \n        ",
-      "url": "/fr/sports/20220718-tour-de-france-femmes-la-liste-des-144-coureuses-engag%C3%A9es"
+      "text": "\n                        \n                \n                                                    Succession de Boris Johnson : Rishi Sunak creuse l'\u00e9cart face \u00e0 ses trois adversaires\n                            \n        ",
+      "url": "/fr/europe/20220718-succession-de-boris-johnson-rishi-sunak-creuse-l-%C3%A9cart-face-%C3%A0-ses-trois-adversaires"
     },
     {
-      "text": "\n                        \n                \n                                                    \nUn avion cargo charg\u00e9 d'armes fabriqu\u00e9es en Serbie s'\u00e9crase en Gr\u00e8ce\n                            \n        ",
-      "url": "/fr/europe/20220717-un-avion-cargo-charg%C3%A9-d-armes-fabriqu%C3%A9es-en-serbie-s-%C3%A9crase-en-gr%C3%A8ce"
+      "text": "\n                        \n                \n                                                    Un chef de l'arm\u00e9e isra\u00e9lienne effectue une premi\u00e8re visite officielle au Maroc\n                            \n        ",
+      "url": "/fr/moyen-orient/20220719-premi%C3%A8re-visite-officielle-d-un-chef-de-l-arm%C3%A9e-isra%C3%A9lienne-au-maroc"
     },
     {
-      "text": "\n                        \n                PORTRAIT\n                                                    L'impopulaire Didier Lallement, un pr\u00e9fet de police de Paris \"reflet de son \u00e9poque\"\n                            \n        ",
-      "url": "/fr/france/20220716-l-impopulaire-didier-lallement-un-pr%C3%A9fet-de-police-de-paris-reflet-de-son-%C3%A9poque"
+      "text": "\n                        \n                LIVEBLOG\n                                                    Euro-f\u00e9minin 2022 :  la France conc\u00e8de le nul face \u00e0 l'Islande, revivez le fil du match\n                            \n        ",
+      "url": "/fr/sports/20220718-euro-f%C3%A9minin-2022-suivez-en-direct-le-match-entre-l-islande-et-la-france"
     },
     {
-      "text": "\n                        \n                \n                                                    Rugby : le Chili cr\u00e9e la surprise en se qualifiant pour la Coupe du monde 2023\n                            \n        ",
-      "url": "/fr/sports/20220717-rugby-le-chili-cr%C3%A9e-la-surprise-en-se-qualifiant-pour-la-coupe-du-monde-2023"
+      "text": "\n                        \n                \n                                                    \nAssembl\u00e9e nationale : coup d'envoi des d\u00e9bats sur le pouvoir d'achat\n                            \n        ",
+      "url": "/fr/%C3%A9co-tech/20220718-le-projet-de-loi-pouvoir-d-achat-arriv%C3%A9-%C3%A0-l-assembl%C3%A9e-nationale-promet-des-d%C3%A9bats-anim%C3%A9s"
+    },
+    {
+      "text": "\n                        \n                L'Entretien de France 24\n                                                    \nPascal Ianni : \"L'arm\u00e9e fran\u00e7aise a d\u00e9cid\u00e9 de quitter le Mali, mais le combat continue ailleurs\"\n                            \n        ",
+      "url": "/fr/%C3%A9missions/l-entretien/20220718-pascal-ianni-l-arm%C3%A9e-fran%C3%A7aise-a-d%C3%A9cid%C3%A9-de-quitter-le-mali-mais-le-combat-continue-ailleurs"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Rached Ghannouchi, le chef du parti Ennahda, reste en libert\u00e9 en Tunisie\n                            \n        ",
+      "url": "/fr/afrique/20220719-rached-ghannouchi-le-chef-du-parti-ennahda-reste-en-libert%C3%A9-en-tunisie"
+    },
+    {
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nM\u00e9diation du Togo dans l\u2019affaire des 49 militaires ivoiriens d\u00e9tenus au Mali\n                            \n        ",
+      "url": "/fr/%C3%A9missions/journal-de-l-afrique/20220719-m%C3%A9diation-du-togo-dans-l-affaire-des-49-militaires-ivoiriens-d%C3%A9tenus-au-mali"
     },
     {
       "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nTchad : des groupes rebelles quittent les pourparlers de paix\n                            \n        ",
       "url": "/fr/%C3%A9missions/journal-de-l-afrique/20220718-tchad-des-groupes-rebelles-quittent-les-pourparlers-de-paix"
-    },
-    {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nMario Draghi \u00e0 Alger pour sceller l'augmentation de la fourniture de gaz alg\u00e9rien \u00e0 l'Italie\n                            \n        ",
-      "url": "/fr/afrique/20220718-mario-draghi-%C3%A0-alger-pour-sceller-l-augmentation-de-la-fourniture-de-gaz-alg%C3%A9rien-%C3%A0-l-italie"
-    },
-    {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    \nPascal Ianni : \"L'arm\u00e9e fran\u00e7aise a d\u00e9cid\u00e9 de quitter le Mali, mais le combat continue ailleurs\"\n                            \n        ",
-      "url": "/fr/%C3%A9missions/l-entretien/20220718-pascal-ianni-l-arm%C3%A9e-fran%C3%A7aise-a-d%C3%A9cid%C3%A9-de-quitter-le-mali-mais-le-combat-continue-ailleurs"
     },
     {
       "text": "\n                    Lire plus d'actualit\u00e9s africaines \n\n                ",
@@ -8637,16 +8771,16 @@
       "url": "/fr/tag/tech/"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Tour de France : Tadej Pogacar peut-il encore renverser Jonas Vingegaard ?\n                            \n        ",
-      "url": "/fr/sports/20220719-tour-de-france-tadej-pogacar-peut-il-encore-renverser-jonas-vingegaard"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Euro-f\u00e9minin 2022\u00a0: les Fran\u00e7aises vont-elles enfin d\u00e9passer les quarts de finale\u00a0?\n                            \n        ",
+      "url": "/fr/sports/20220720-euro-f%C3%A9minin-2022-les-fran%C3%A7aises-vont-elles-enfin-d%C3%A9passer-les-quarts-de-finale"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Euro-f\u00e9minin 2022 : la VAR prive la France d'une victoire face \u00e0 l'Islande avant les quarts\n                            \n        ",
-      "url": "/fr/sports/20220718-euro-f%C3%A9minin-2022-la-var-prive-la-france-d-une-victoire-face-%C3%A0-l-islande-avant-les-quarts"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Mercato : Robert Lewandowski s'engage pour cinq ans au FC Barcelone\n                            \n        ",
+      "url": "/fr/sports/20220720-mercato-robert-lewandowski-s-engage-pour-cinq-ans-au-fc-barcelone"
     },
     {
-      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Tour de France Femmes : la liste des 144 coureuses engag\u00e9es\n                            \n        ",
-      "url": "/fr/sports/20220718-tour-de-france-femmes-la-liste-des-144-coureuses-engag%C3%A9es"
+      "text": "\n                                                                                                                \n\n    \n        \n\n    \n\n\n    \n\n                                        \n                \n                                                    Tour de France : Hugo Houle d\u00e9croche la victoire, Pogacar et Vingegaard se marquent pour le jaune\n                            \n        ",
+      "url": "/fr/sports/20220719-tour-de-france-hugo-houle-d%C3%A9croche-la-victoire-pogacar-et-vingegaard-se-marquent-pour-le-jaune"
     },
     {
       "text": "\n                    Lire plus d'infos et r\u00e9sultats sportifs \n\n                ",
@@ -8781,8 +8915,8 @@
       "url": "/fr/archives/2006/"
     }
   ],
-  "item_last_updated": 1658243189,
-  "item_size": 61356125,
+  "item_last_updated": 1658333109,
+  "item_size": 62388913,
   "metadata": {
     "identifier": "france24-2022",
     "collection": [
@@ -8799,10 +8933,10 @@
     "publicdate": "2022-04-09 13:41:21",
     "addeddate": "2022-04-09 13:41:21"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 1686283342,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1164958543,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

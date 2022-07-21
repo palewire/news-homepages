@@ -1,5 +1,5 @@
 {
-  "created": 1658279418,
+  "created": 1658363530,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/32/items/telegraph-2022",
@@ -11916,31 +11916,157 @@
       "sha1": "a370724fcd68427360fc860425f0603abdd92f1b"
     },
     {
+      "name": "telegraph-2022-07-20T05:20:16.706705+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658290819",
+      "size": "32539",
+      "md5": "bc1d708211199f2cee4739fd8407f83b",
+      "crc32": "c3bab76b",
+      "sha1": "ec844a3618a24b91474264e6a02622560d5c04f9",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-07-20T05:20:16.706705+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658290821",
+      "size": "29227",
+      "md5": "2a918b3413c8a880e349e5afc0fda146",
+      "crc32": "fdbcddca",
+      "sha1": "e9f33dd4fdecae716e4d0e47806797fb4b1f8a57",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-07-20T05:20:16.706705+01:00.jpg",
+      "source": "original",
+      "mtime": "1658290818",
+      "size": "346084",
+      "md5": "5eb1ef22399e2888a7e7652415cae1eb",
+      "crc32": "6533a343",
+      "sha1": "840a3f8d3569795325c89947bc571369653ee4e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-07-20T05:20:16.706705+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-07-20T05:20:16.706705+01:00.jpg",
+      "mtime": "1658290941",
+      "size": "9547",
+      "md5": "df3772537c560a69fa46812a83850bfd",
+      "crc32": "ed17b28d",
+      "sha1": "5f31e127a81df0b0f150e2c4a08706b6a5c96858"
+    },
+    {
+      "name": "telegraph-2022-07-20T10:06:48.145191+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658308014",
+      "size": "30655",
+      "md5": "1445c6730e0a989411f68842b97686e3",
+      "crc32": "97cb155a",
+      "sha1": "d423fef9a5251aff88d0ecd08eb2923320870939",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-07-20T10:06:48.145191+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658308016",
+      "size": "27847",
+      "md5": "42adbd5d41232f8ac17b98f566b80025",
+      "crc32": "3e696e98",
+      "sha1": "bf6d47e57510a9fc7fed35b9e7d8898ae5b24367",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-07-20T10:06:48.145191+01:00.jpg",
+      "source": "original",
+      "mtime": "1658308013",
+      "size": "361647",
+      "md5": "9ebfd909960c82210c05e7cf9f8c6de9",
+      "crc32": "76197e69",
+      "sha1": "fedcd972982930a9bed9e9481db27438ee654f5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-07-20T10:06:48.145191+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-07-20T10:06:48.145191+01:00.jpg",
+      "mtime": "1658313947",
+      "size": "9371",
+      "md5": "d938ede86dc45ec65e41d6b464ddfbef",
+      "crc32": "67dab837",
+      "sha1": "fc02f52d82f0a86a76bb702586a0e691a5d5e816"
+    },
+    {
+      "name": "telegraph-2022-07-20T17:45:07.127571+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658335510",
+      "size": "30670",
+      "md5": "ad03dff4d0251b34ae29de1c51960722",
+      "crc32": "d7bd1ef7",
+      "sha1": "60b85d695b0831e306fb36c840b72803dc1b2b59",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-07-20T17:45:07.127571+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658335511",
+      "size": "27247",
+      "md5": "1ebd7317ba8104dd0874f24bb8515925",
+      "crc32": "d82fadb4",
+      "sha1": "e3b6a85209e4fc801c1a33c1f0f72a4eabee710f",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-07-20T17:45:07.127571+01:00.jpg",
+      "source": "original",
+      "mtime": "1658335508",
+      "size": "344577",
+      "md5": "20edbac41989df83f6efde371f700522",
+      "crc32": "c47a50aa",
+      "sha1": "69ccd28236cb480310aa2ad1e4e0b915c2ef1a54",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-07-20T17:45:07.127571+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-07-20T17:45:07.127571+01:00.jpg",
+      "mtime": "1658339424",
+      "size": "9558",
+      "md5": "0dee3102190ccd0676fa7f83c9892a55",
+      "crc32": "e66207c3",
+      "sha1": "6e4386275f1749f9739faeea52d8d802f4eebf23"
+    },
+    {
       "name": "telegraph-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b359d5194b88c3548ecee063386052af97720f00",
-      "mtime": "1658250784",
-      "size": "241680",
-      "md5": "1c4aa29b30c87c2dc6f0030756fa4309",
-      "crc32": "3446d52c",
-      "sha1": "f8ad0a22776a04c22d8e7f9c5e16557fd20fad86",
+      "btih": "273c045762e476b5309fe63c0a53d3c6bb8019a3",
+      "mtime": "1658339494",
+      "size": "244219",
+      "md5": "20bd4019ab22f842c809d2d86f2a82e5",
+      "crc32": "bd8e7a2f",
+      "sha1": "981a018ff725d6a9fc4edbadc019e0c9d9fa77fd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraph-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d424879fb5146d030d103c74d2a27c37",
+      "md5": "ac5a61023c2b1f079164899c062f398e",
       "summation": "md5"
     },
     {
       "name": "telegraph-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658249970",
-      "size": "1302528",
-      "md5": "73c872c5a43fe120264928257a46c502",
-      "crc32": "a0187849",
-      "sha1": "fa611a90326c460d23fd4dec5e9d75694b10bf84",
+      "mtime": "1658335515",
+      "size": "1314816",
+      "md5": "dc5f686c1a8db4945d32021eb68fd9f2",
+      "crc32": "20ffb6ec",
+      "sha1": "45bf00674f1257d1dbd88a72fef3f73b5f2c776e",
       "format": "Metadata"
     },
     {
@@ -11954,9 +12080,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1137,
-  "item_last_updated": 1658250784,
-  "item_size": 116721977,
+  "files_count": 1149,
+  "item_last_updated": 1658339494,
+  "item_size": 117995773,
   "metadata": {
     "identifier": "telegraph-2022",
     "collection": [
@@ -11974,1023 +12100,745 @@
     "addeddate": "2022-03-23 08:03:49"
   },
   "server": "ia902501.us.archive.org",
-  "telegraph-2022": {
-    "role": "WebArea",
-    "name": "The Telegraph - Telegraph Online, Daily Telegraph, Sunday Telegraph - Telegraph",
-    "children": [
-      {
-        "role": "link",
-        "name": "Jump to content"
-      },
-      {
-        "role": "link",
-        "name": "The Telegraph logo"
-      },
-      {
-        "role": "link",
-        "name": "PLAY NOW: PLUSWORD"
-      },
-      {
-        "role": "text",
-        "name": "Play our new PlusWord puzzle for free. A new one added daily"
-      },
-      {
-        "role": "link",
-        "name": "SIGN UP: NEWS HEADLINES NEWSLETTER"
-      },
-      {
-        "role": "text",
-        "name": "A curated selection of the best news journalism picked personally just for you,"
-      },
-      {
-        "role": "link",
-        "name": "SIGN UP: CHOPPER'S POLITICS NEWSLETTER"
-      },
-      {
-        "role": "text",
-        "name": "The inside story from the corridors of Westminster - every weekday"
-      },
-      {
-        "role": "link",
-        "name": "News"
-      },
-      {
-        "role": "link",
-        "name": "Sport"
-      },
-      {
-        "role": "link",
-        "name": "Business"
-      },
-      {
-        "role": "link",
-        "name": "Opinion"
-      },
-      {
-        "role": "link",
-        "name": "Ukraine"
-      },
-      {
-        "role": "link",
-        "name": "Money"
-      },
-      {
-        "role": "link",
-        "name": "Life"
-      },
-      {
-        "role": "link",
-        "name": "Style"
-      },
-      {
-        "role": "link",
-        "name": "Travel"
-      },
-      {
-        "role": "link",
-        "name": "Culture"
-      },
-      {
-        "role": "link",
-        "name": "PlusWord"
-      },
-      {
-        "role": "link",
-        "name": "Search The Telegraph"
-      },
-      {
-        "role": "link",
-        "name": "Subscribe now Free for one month"
-      },
-      {
-        "role": "link",
-        "name": "Log in"
-      },
-      {
-        "role": "link",
-        "name": "View all sections"
-      },
-      {
-        "role": "heading",
-        "name": "Major news and other news",
-        "level": 1
-      },
-      {
-        "role": "link",
-        "name": "38.1 MONDAY\u2019S HIGH SANTON DOWNHAM 31 HOTTEST RIGHT NOW LONDON CITY AIRPORT AT 9AM READ OUR COVERAGE OF THE UK HEATWAVE"
-      },
-      {
-        "role": "heading",
-        "name": "HEATWAVE",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Live Britain endures hottest night ever as temperatures tipped to hit record 41C"
-      },
-      {
-        "role": "text",
-        "name": "Temperatures didn't fall below 25C in places"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Boy, 14, drowns in Thames amid warnings over swimming in open water"
-      },
-      {
-        "role": "link",
-        "name": "Temperature record set to fall \u2013 and \u2018heat dome\u2019 will keep the scorching days coming"
-      },
-      {
-        "role": "link",
-        "name": "Hosepipe bans on the cards as reservoirs run dry"
-      },
-      {
-        "role": "link",
-        "name": "Comment Has the heatwave driven us all mad?"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Michael Deacon"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Michael Deacon"
-      },
-      {
-        "role": "heading",
-        "name": "POLITICS",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Kemi Badenoch emerges as potential Tory kingmaker as she gains votes in third round"
-      },
-      {
-        "role": "text",
-        "name": "Backers of both Liz Truss and Penny Mordaunt are already courting those who voted for the former communities minister"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Live Next PM must 'understand the life you live', says Penny Mordaunt in swipe at rivals"
-      },
-      {
-        "role": "link",
-        "name": "Rory Stewart: 'Watching the contest has really brought home to me my flaws'"
-      },
-      {
-        "role": "link",
-        "name": "Penny Mordaunt 'skipped work' as she prepared leadership bid"
-      },
-      {
-        "role": "heading",
-        "name": "NEWS BRIEFING",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Live Ukraine war Kremlin's struggle to sustain combat power is 'becoming increasingly acute', MoD says"
-      },
-      {
-        "role": "link",
-        "name": "Why sharks are growing to 'insane' sizes"
-      },
-      {
-        "role": "link",
-        "name": "Why Helen Mirren wrote the Queen a warning about her royal role"
-      },
-      {
-        "role": "heading",
-        "name": "BUSINESS",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Andrew Bailey battles to protect his empire as Tory criticism builds"
-      },
-      {
-        "role": "text",
-        "name": "Bank of England faces its greatest challenge since independence amid push for reform"
-      },
-      {
-        "role": "link",
-        "name": "",
-        "children": [
-          {
-            "role": "img",
-            "name": "Andrew Bailey"
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "Gen Z drives \u00a325bn plunge in spending as income shock hits"
-      },
-      {
-        "role": "link",
-        "name": "Live Workers flock back to job market despite record 3.7pc fall in wages"
-      },
-      {
-        "role": "link",
-        "name": "'Slasher' airlines' low wages led to travel chaos, says Heathrow boss"
-      },
-      {
-        "role": "heading",
-        "name": "FEATURES",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Air con could solve Britain\u2019s heatwave crisis \u2013 but it comes at a cost"
-      },
-      {
-        "role": "text",
-        "name": "Extreme temperatures could become a regular occurrence, but it\u2019ll take more than cold cash to cool Britannia"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Call Bethal, Final Episode The Telegraph's investigative podcast into child sex abuse in the Jehovah's Witnesses"
-      },
-      {
-        "role": "link",
-        "name": "Mark Hix: The real reason I had to close my pub \u2013 and it's not Covid"
-      },
-      {
-        "role": "heading",
-        "name": "MONEY",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Four ways to make sure you're buying the best value shares"
-      },
-      {
-        "role": "text",
-        "name": "Questor looks at how to tell if a stock is undervalued or overvalued"
-      },
-      {
-        "role": "link",
-        "name": "Summer holiday camps costs hit \u00a3900 \u2013 and it will stop parents from working"
-      },
-      {
-        "role": "link",
-        "name": "Savers can get the best deals in two years"
-      },
-      {
-        "role": "heading",
-        "name": "OPINION",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "The Tories are in a far more terrible crisis than anyone is ready to admit"
-      },
-      {
-        "role": "text",
-        "name": "Divided, broken and out of ideas, the party already seems to be wandering in the political wilderness"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Sherelle Jacobs"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Sherelle Jacobs"
-      },
-      {
-        "role": "link",
-        "name": "How I will solve Britain\u2019s housing crisis"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Penny Mordaunt"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Penny Mordaunt"
-      },
-      {
-        "role": "link",
-        "name": "This Conservative competition is doing its job"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Charles Moore"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Charles Moore"
-      },
-      {
-        "role": "link",
-        "name": "Climate change denial is melting before our very eyes"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Suzanne Moore"
-      },
-      {
-        "role": "link",
-        "name": "Germany\u2019s energy bailout is too little too late if Putin turns off taps"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Ben Marlow"
-      },
-      {
-        "role": "link",
-        "name": "The Met Office\u2019s job is to forecast the weather, not to be chief nanny"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Ross Clark"
-      },
-      {
-        "role": "link",
-        "name": "Cheating is rife, students are depressed \u2013 universities must end \u2018remote learning\u2019"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Celia Walden"
-      },
-      {
-        "role": "link",
-        "name": "Matt cartoon"
-      },
-      {
-        "role": "link",
-        "name": "ALEX CARTOONS: JULY 2022"
-      },
-      {
-        "role": "link",
-        "name": "LETTERS TO THE EDITOR"
-      },
-      {
-        "role": "link",
-        "name": "Two hot days close down public services, leaving the rest of us to get on with life the best we can"
-      },
-      {
-        "role": "link",
-        "name": "THE TELEGRAPH VIEW"
-      },
-      {
-        "role": "link",
-        "name": "When we next endure a heatwave, is it too much to ask that there is better planning and less panic?"
-      },
-      {
-        "role": "link",
-        "name": "Britain is living through strange political times"
-      },
-      {
-        "role": "link",
-        "name": "OBITUARIES"
-      },
-      {
-        "role": "link",
-        "name": "Claes Oldenburg, veteran of Pop Art known for his whimsical oversized sculptures"
-      },
-      {
-        "role": "link",
-        "name": "John Milne, policeman, art student, crime novelist and television scriptwriter"
-      },
-      {
-        "role": "text",
-        "name": "Advertisement"
-      },
-      {
-        "role": "link",
-        "name": "News"
-      },
-      {
-        "role": "link",
-        "name": "\u2018Jealous\u2019 woman in Sports Direct love triangle \u2018sought dark web hitman to murder her rival\u2019"
-      },
-      {
-        "role": "text",
-        "name": "Online advert offered \u2018\u00a31,000 or more\u2019 and posted the full address of colleague who was also dating their former manager, court hears"
-      },
-      {
-        "role": "link",
-        "name": "Prince Harry attacks Roe v Wade ruling as \u2018global assault on democracy and freedom\u2019"
-      },
-      {
-        "role": "link",
-        "name": "Supreme Court refuses to throw out Nicola Sturgeon\u2019s request for IndyRef2 ruling"
-      },
-      {
-        "role": "link",
-        "name": "National archives: Home Office helped Sir William Walton get into Italy with restricted drugs"
-      },
-      {
-        "role": "link",
-        "name": "Prince Charles: \u2018Record temperatures\u2019 prove I\u2019m right about climate change"
-      },
-      {
-        "role": "link",
-        "name": "Tackle street crime not Twitter jokes, Rishi Sunak tells police forces"
-      },
-      {
-        "role": "link",
-        "name": "Almost 200 schools ignore Government plea not to close in heatwave"
-      },
-      {
-        "role": "link",
-        "name": "Millions of dollars worth of gems stolen from armoured truck in California"
-      },
-      {
-        "role": "link",
-        "name": "Woman fatally mauled by two alligators in golf course pond"
-      },
-      {
-        "role": "link",
-        "name": "Business"
-      },
-      {
-        "role": "link",
-        "name": "Alex Cartoon"
-      },
-      {
-        "role": "link",
-        "name": "Why Britain\u2019s rail network just can\u2019t cope in the heat"
-      },
-      {
-        "role": "link",
-        "name": "Threat of more strikes as public sector workers face below-inflation pay rises"
-      },
-      {
-        "role": "link",
-        "name": "Haleon is London\u2019s newest hot share \u2013 but it could be a debt trap for investors"
-      },
-      {
-        "role": "link",
-        "name": "BAE to work on the first new supersonic fighter jet in almost 40 years"
-      },
-      {
-        "role": "link",
-        "name": "Gazprom cuts gas supplies as Kremlin escalates energy war in Europe"
-      },
-      {
-        "role": "link",
-        "name": "Russia moves closer to cutting off gas as Gazprom declares force majeure on supplies\u00a0"
-      },
-      {
-        "role": "link",
-        "name": "Millions of pounds needed to meet UK heat pump targets, warns National Grid"
-      },
-      {
-        "role": "link",
-        "name": "Sport"
-      },
-      {
-        "role": "link",
-        "name": "Athletics Shelly-Ann Fraser-Pryce adjusts her wig during 200m heats"
-      },
-      {
-        "role": "img",
-        "name": "Shelly-Ann Fraser-Pryce, who owns her own hair salon in Jamaica, was wearing her third different hairpiece of the championships"
-      },
-      {
-        "role": "link",
-        "name": "Athletics Laura Muir claims bronze in 1500m at World Championships"
-      },
-      {
-        "role": "link",
-        "name": "Tennis Russian No 1 tennis player Daria Kasatkina reveals she is gay and hits out at Ukraine invasion"
-      },
-      {
-        "role": "link",
-        "name": "Oliver Brown The future of the Ryder Cup is at stake - LIV's toxicity knows no bounds"
-      },
-      {
-        "role": "link",
-        "name": "Athletics Dina Asher Smith and her 94 steps to immortality"
-      },
-      {
-        "role": "link",
-        "name": "Football Fewer errors than the men: The truth about women\u2019s goalkeepers"
-      },
-      {
-        "role": "text",
-        "name": "Advertisement"
-      },
-      {
-        "role": "heading",
-        "name": "Life & Style",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Travel The perfect city break for summer \u2013 with miles of golden beaches to explore"
-      },
-      {
-        "role": "text",
-        "name": "Combine a cultural break in Lisbon with days out on its glorious beaches to enjoy the ultimate summer escape \u2013 here's how to do it"
-      },
-      {
-        "role": "img",
-        "name": "Galapinhos Beach beach holidays near Lisbon portugal city breaks travel summer"
-      },
-      {
-        "role": "link",
-        "name": "Comment Is Harry not even allowed to enjoy a joke, Meghan?"
-      },
-      {
-        "role": "text",
-        "name": "With the woke Duchess policing his friends\u2019 banter, it\u2019s hard to envisage married life being a barrel of laughs for the Duke of Sussex"
-      },
-      {
-        "role": "link",
-        "name": "Celia Walden"
-      },
-      {
-        "role": "link",
-        "name": "Articles by Celia Walden"
-      },
-      {
-        "role": "img",
-        "name": "Harry Meghan Sussex"
-      },
-      {
-        "role": "link",
-        "name": "Lisa Armstrong What I wear to go on a walk"
-      },
-      {
-        "role": "text",
-        "name": "Dressing for the nation's favourite physical activity can be tricky but, as our columnist explains, it's all about working from the soles up"
-      },
-      {
-        "role": "img",
-        "name": "'All I know is that I walk more than my mother and grandmother did at my age,' says Armstrong"
-      },
-      {
-        "role": "link",
-        "name": "Health Heatstroke signs to watch out for - and how to treat symptoms in hot weather"
-      },
-      {
-        "role": "link",
-        "name": "Travel Meet the forgotten heroes plotting to save your summer holiday"
-      },
-      {
-        "role": "link",
-        "name": "Health Deadly \u2018nosebleed\u2019 illness identified as \u2018rat fever\u2019"
-      },
-      {
-        "role": "link",
-        "name": "Marriage Diaries I love my wife more than she loves me"
-      },
-      {
-        "role": "link",
-        "name": "Rosa Silverman I went to Liz Truss\u2019s school \u2013 the children even bullied the teachers"
-      },
-      {
-        "role": "img",
-        "name": "Liz Truss Tory leadership election Prime Minister"
-      },
-      {
-        "role": "link",
-        "name": "Victoria\u2019s Secret, uncovered: the troubling reality behind the sex-kitten fantasy"
-      },
-      {
-        "role": "img",
-        "name": "(L-R) Victoria\u2019s Secret models Lily Aldridge, Karlie Kloss, Adriana Lima, Doutzen Kroes and Candice Swanepoel at a fashion show in 2013"
-      },
-      {
-        "role": "link",
-        "name": "Arts and Entertainment"
-      },
-      {
-        "role": "link",
-        "name": "TV Long Lost Family Special: The Unknown Soldiers, review: a moving military education"
-      },
-      {
-        "role": "text",
-        "name": "4/5"
-      },
-      {
-        "role": "img",
-        "name": "2nd Lieutenant Leslie Wallace Ablett is laid to rest at Tyne Cot Cemetery near Ypres, Belgium"
-      },
-      {
-        "role": "link",
-        "name": "Theatre Much Ado About Nothing, National Theatre, review: Blissful revival of a conveyor-belt classic"
-      },
-      {
-        "role": "text",
-        "name": "4/5"
-      },
-      {
-        "role": "img",
-        "name": "Katherine Parkinson (right) as Beatrice"
-      },
-      {
-        "role": "link",
-        "name": "Music Of course the Proms still has faith in classical music"
-      },
-      {
-        "role": "img",
-        "name": "In rude health: Saturday\u2019s Prom at the Royal Albert Hall, with John Wilson conducting"
-      },
-      {
-        "role": "link",
-        "name": "TV Witness Number 3, review: low-budget Channel 5 thriller punches above its weight"
-      },
-      {
-        "role": "text",
-        "name": "3/5"
-      },
-      {
-        "role": "img",
-        "name": "Nina Toussaint-White as Jodie in Channel 5 thriller Witness No 3"
-      },
-      {
-        "role": "text",
-        "name": "Advertisement"
-      },
-      {
-        "role": "heading",
-        "name": "News in focus",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Ukraine\u2019s spy problem runs deeper than Volodymyr Zelensky\u2019s childhood friend"
-      },
-      {
-        "role": "text",
-        "name": "The Ukrainian president's recent swathe of sackings reveals a government blighted by treachery, collaboration and internal rivalries"
-      },
-      {
-        "role": "img",
-        "name": "Iryna Venediktova stands in an office"
-      },
-      {
-        "role": "link",
-        "name": "Wagner group promises \u2018travel and friendship\u2019 in mercenary recruitment drive"
-      },
-      {
-        "role": "img",
-        "name": "video: Wagner group promises \u2018travel and friendship\u2019 in mercenary recruitment drive"
-      },
-      {
-        "role": "link",
-        "name": "Incoming fire soothes people of Kherson as Ukrainian fightback starts"
-      },
-      {
-        "role": "img",
-        "name": "A poster is stuck to a brick wall displaying a man's face with RIP emblazoned on his forehead"
-      },
-      {
-        "role": "link",
-        "name": "Liz Truss interview \u2018I want the biggest change in economic policy for 30 years\u2019"
-      },
-      {
-        "role": "img",
-        "name": "Liz Truss"
-      },
-      {
-        "role": "link",
-        "name": "At home in Sri Lanka: My son\u2019s classmate dropped out because he couldn't afford school shoes"
-      },
-      {
-        "role": "img",
-        "name": "Sri Lankan protestors"
-      },
-      {
-        "role": "text",
-        "name": "Advertisement"
-      },
-      {
-        "role": "heading",
-        "name": "More topics",
-        "level": 2
-      },
-      {
-        "role": "link",
-        "name": "Family"
-      },
-      {
-        "role": "link",
-        "name": "How to keep your dog and other pets cool in a heatwave and when is too hot to walk them outside?"
-      },
-      {
-        "role": "img",
-        "name": "hot temperatures should walk dog heat uk july 2022 weather heatwave how keep pets cool outside summer"
-      },
-      {
-        "role": "link",
-        "name": "How to (safely) go wild swimming in the heat"
-      },
-      {
-        "role": "link",
-        "name": "Women"
-      },
-      {
-        "role": "link",
-        "name": "Fewer errors than the men: The truth about women\u2019s goalkeepers"
-      },
-      {
-        "role": "link",
-        "name": "It must be terribly difficult being the only one in the village with a pool"
-      },
-      {
-        "role": "link",
-        "name": "Luxury"
-      },
-      {
-        "role": "link",
-        "name": "Why you can\u2019t buy a Rolex \u2013 and it\u2019s not because of the price"
-      },
-      {
-        "role": "img",
-        "name": "Has Rolex become the most unattainable luxury brand around?"
-      },
-      {
-        "role": "link",
-        "name": "Chanel's new headquarters isn't what you would expect"
-      },
-      {
-        "role": "link",
-        "name": "Health & Fitness"
-      },
-      {
-        "role": "link",
-        "name": "Heatstroke signs to watch out for - and how to treat symptoms in hot weather"
-      },
-      {
-        "role": "img",
-        "name": "Heatstroke symptoms treatments how treat stop keep cool heatwave adults warning signs hot weather sun uk 2021"
-      },
-      {
-        "role": "link",
-        "name": "Eight things you should know about sun cream when applying it during the heatwave"
-      },
-      {
-        "role": "link",
-        "name": "Money"
-      },
-      {
-        "role": "link",
-        "name": "Haleon is London\u2019s newest hot share \u2013 but it could be a debt trap for investors"
-      },
-      {
-        "role": "img",
-        "name": "sensodyne toothpaste glaxosmithkline gsk haleon consumer health"
-      },
-      {
-        "role": "link",
-        "name": "Working in a heatwave: Your rights as Britain endures extreme temperatures"
-      },
-      {
-        "role": "link",
-        "name": "Food & Drink"
-      },
-      {
-        "role": "link",
-        "name": "The best 8 foods to freeze at home in 2022"
-      },
-      {
-        "role": "img",
-        "name": "food freeze home start not refreeze healthy eat perishables 2022 zero waste last longer"
-      },
-      {
-        "role": "link",
-        "name": "How to pack a fuss-free summer picnic \u2013 and the kit to buy \u2013 to enjoy during the hot weather"
-      },
-      {
-        "role": "link",
-        "name": "Gardening"
-      },
-      {
-        "role": "link",
-        "name": "How to improve dark dingy corners of your garden \u2014 what to buy and plant to create an oasis"
-      },
-      {
-        "role": "img",
-        "name": "how to improve dark dingy corners of garden shade gardening expert uk 2022"
-      },
-      {
-        "role": "link",
-        "name": "How to protect plants in your garden during the hot weather this summer"
-      },
-      {
-        "role": "link",
-        "name": "Fashion & Beauty"
-      },
-      {
-        "role": "link",
-        "name": "What I wear to go on a walk"
-      },
-      {
-        "role": "img",
-        "name": "'All I know is that I walk more than my mother and grandmother did at my age,' says Armstrong"
-      },
-      {
-        "role": "link",
-        "name": "Victoria\u2019s Secret, uncovered: the troubling reality behind the sex-kitten fantasy"
-      },
-      {
-        "role": "link",
-        "name": "Cars"
-      },
-      {
-        "role": "link",
-        "name": "How to use your car\u2019s air conditioning effectively in hot weather this summer"
-      },
-      {
-        "role": "img",
-        "name": "how to use air conditioning best way in cars advice hot weather heatwave coming uk july 2022 summer"
-      },
-      {
-        "role": "link",
-        "name": "The electric cars with the best \u2013 and worst \u2013 battery life if you\u2019re looking to buy in 2022"
-      },
-      {
-        "role": "link",
-        "name": "Travel"
-      },
-      {
-        "role": "link",
-        "name": "The coastal corner of Scotland that's shamefully under-visited"
-      },
-      {
-        "role": "img",
-        "name": "best beaches east coast Scotland holidays travel border Berwickshire trips holiday summer 2022"
-      },
-      {
-        "role": "link",
-        "name": "The perfect city break for summer \u2013 with miles of golden beaches to explore"
-      },
-      {
-        "role": "link",
-        "name": "Culture"
-      },
-      {
-        "role": "link",
-        "name": "What\u2019s on TV tonight: Britain\u2019s Tourette\u2019s Mystery: Scarlett Moffatt Investigates, and more"
-      },
-      {
-        "role": "img",
-        "name": "Reality TV star and presenter Scarlett Moffatt"
-      },
-      {
-        "role": "link",
-        "name": "Rory Stewart: 'Watching the contest has really brought home to me my flaws'"
-      },
-      {
-        "role": "link",
-        "name": "Recommended"
-      },
-      {
-        "role": "link",
-        "name": "The best portable air conditioners to cool your home this summer"
-      },
-      {
-        "role": "img",
-        "name": "best portable air conditioners 2022 heatwave hot summer cool down"
-      },
-      {
-        "role": "link",
-        "name": "The best mattress for 2022, including pocket-sprung, memory foam and hybrid mattresses"
-      },
-      {
-        "role": "link",
-        "name": "The best cordless vacuum cleaners for 2022, tried and tested"
-      },
-      {
-        "role": "img",
-        "name": "IPSO regulated",
-        "description": "IPSO regulated"
-      },
-      {
-        "role": "link",
-        "name": "The Daily Telegraph is a member of the Independent Press Standards Organisation (IPSO) and we subscribe to its Editors' Code of Practice. Find out more here."
-      },
-      {
-        "role": "text",
-        "name": "The Telegraph"
-      },
-      {
-        "role": "text",
-        "name": "The Telegraph logo"
-      },
-      {
-        "role": "text",
-        "name": "Back to top"
-      },
-      {
-        "role": "text",
-        "name": "Follow us on:"
-      },
-      {
-        "role": "text",
-        "name": "Facebook icon"
-      },
-      {
-        "role": "text",
-        "name": "Instagram icon"
-      },
-      {
-        "role": "text",
-        "name": "Twitter icon"
-      },
-      {
-        "role": "text",
-        "name": "Snapchat icon"
-      },
-      {
-        "role": "text",
-        "name": "LinkedIn icon"
-      },
-      {
-        "role": "text",
-        "name": "YouTube icon"
-      },
-      {
-        "role": "text",
-        "name": "Contact us"
-      },
-      {
-        "role": "text",
-        "name": "About us"
-      },
-      {
-        "role": "text",
-        "name": "Telegraph Extra"
-      },
-      {
-        "role": "text",
-        "name": "Reader Prints"
-      },
-      {
-        "role": "text",
-        "name": "Branded Content"
-      },
-      {
-        "role": "text",
-        "name": "Syndication and Commissioning"
-      },
-      {
-        "role": "text",
-        "name": "Guidelines"
-      },
-      {
-        "role": "text",
-        "name": "Privacy"
-      },
-      {
-        "role": "text",
-        "name": "Terms and Conditions"
-      },
-      {
-        "role": "text",
-        "name": "Advertising Terms"
-      },
-      {
-        "role": "text",
-        "name": "Fantasy Sport"
-      },
-      {
-        "role": "text",
-        "name": "UK Voucher Codes"
-      },
-      {
-        "role": "text",
-        "name": "Betting Offers"
-      },
-      {
-        "role": "text",
-        "name": "Modern Slavery"
-      },
-      {
-        "role": "text",
-        "name": "Tax Strategy"
-      },
-      {
-        "role": "text",
-        "name": "Broadband and Mobile Deals"
-      },
-      {
-        "role": "text",
-        "name": "Manage Cookies"
-      },
-      {
-        "role": "text",
-        "name": "\u00a9 Telegraph Media Group Limited 2022"
-      }
-    ]
-  },
-  "uniq": 1308565841,
+  "telegraph-2022": [
+    {
+      "text": "Jump to content",
+      "url": "#main-content"
+    },
+    {
+      "text": "\n\nThe Telegraph logo\n\n\n",
+      "url": "/"
+    },
+    {
+      "text": "\nPLAY NOW: PlusWord\n",
+      "url": "https://www.telegraph.co.uk/news/plusword/"
+    },
+    {
+      "text": "\nSIGN UP: FILM NEWSLETTER\n",
+      "url": "https://secure.telegraph.co.uk/secure/newsletter/film/?icid=Culture_Film_text_portal_utility-bar"
+    },
+    {
+      "text": "\nWATCH: TONIGHT'S TV\n",
+      "url": "https://www.telegraph.co.uk/tv/tv-guide/?icid=editorial_editorial_nav-bar_generic_utility-bar"
+    },
+    {
+      "text": "\n\n\nNews\n\n\n",
+      "url": "/news/"
+    },
+    {
+      "text": "\n\n\nSport\n\n\n",
+      "url": "/sport/"
+    },
+    {
+      "text": "\n\n\nBusiness\n\n\n",
+      "url": "/business/"
+    },
+    {
+      "text": "\n\n\nOpinion\n\n\n",
+      "url": "/opinion/"
+    },
+    {
+      "text": "\n\n\nUkraine\n\n\n",
+      "url": "/russia-ukraine-war/"
+    },
+    {
+      "text": "\n\n\nMoney\n\n\n",
+      "url": "/money/"
+    },
+    {
+      "text": "\n\n\nLife\n\n\n",
+      "url": "/lifestyle/"
+    },
+    {
+      "text": "\n\n\nStyle\n\n\n",
+      "url": "/style/"
+    },
+    {
+      "text": "\n\n\nTravel\n\n\n",
+      "url": "/travel/"
+    },
+    {
+      "text": "\n\n\nCulture\n\n\n",
+      "url": "/culture/"
+    },
+    {
+      "text": "\n\n\nPlusWord\n\n\n",
+      "url": "https://www.telegraph.co.uk/news/plusword/"
+    },
+    {
+      "text": "\n\nSearch Icon\n\n\n",
+      "url": "https://www.telegraph.co.uk/search.html"
+    },
+    {
+      "text": "\n\n\nSubscribe now\n\n\nFree for one month\n\n\n\n\n\n",
+      "url": "https://premium.telegraph.co.uk/?ICID=portal_premiumsub_generic_index_topnav"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\tLog in\n\t\t\t\t\t\t\t\t",
+      "url": "/secure/login/?redirectTo=https%3A%2F%2Fwww.telegraph.co.uk%2F"
+    },
+    {
+      "text": "\n\n",
+      "url": "/all-sections/"
+    },
+    {
+      "text": "\nClaim this offer\n\nCorner Circle Decoration\n\n\n\n\n\n\n\n\n\n\n\n",
+      "url": "https://secure.telegraph.co.uk/customer/secure/get-started/?productId=nyytq4zthbvwsoliojugwyzzmyzha3dt&offerId=digital-month-intro-RP208&campaignId=082A&ICID=conversion-subscription_onsite-asset_onsite-asset_homepage_puff"
+    },
+    {
+      "text": "\n\n\n\n\nLive\n\n\nSunak and Truss to go head-to-head for Tory leadership after Mordaunt voted out \u2013 latest reaction\n\n",
+      "url": "/politics/2022/07/20/tory-leadership-vote-truss-mordaunt-sunak-boris-johnson-pmqs/"
+    },
+    {
+      "text": "\n\n\n\n\n\n",
+      "url": "/politics/2022/07/20/tory-leadership-vote-truss-mordaunt-sunak-boris-johnson-pmqs/"
+    },
+    {
+      "text": "\n\nTimetable\nWhen the new Prime Minister will be announced and what happens now\n\n",
+      "url": "/politics/2022/07/20/tory-leadership-race-timetable-rishi-sunak-liz-truss-prime-minister/"
+    },
+    {
+      "text": "\n\nPMQs: Johnson in farewell swipe at Sunak \u2013 but May unmoved\n\n",
+      "url": "/politics/2022/07/20/hasta-la-vista-baby-boris-johnson-bids-farewell-pmqs-hints/"
+    },
+    {
+      "text": "\n\nWho's backing whom in the Conservative leadership race?\n\n",
+      "url": "/politics/2022/07/20/who-tory-leadership-backers-badenoch-mordaunt-truss-sunak/"
+    },
+    {
+      "text": "\n\nWhy inflation will be a disaster for house prices\n\n",
+      "url": "/property/house-prices/why-inflation-will-disaster-house-prices/"
+    },
+    {
+      "text": "\n\n\n\n\nLive\n\n\nBritain\u2019s nuclear power push boosted as Sizewell C given green light\n\n",
+      "url": "/business/2022/07/20/ftse-100-markets-live-news-netflix-inflation-public-sector/"
+    },
+    {
+      "text": "\n\nRoyal Mail losing \u00a31m a day as it threatens union with split\n\n",
+      "url": "/business/2022/07/20/royal-mail-losing-1m-day-threatens-union-split/"
+    },
+    {
+      "text": "\n\nGoodbye, Dame Deborah James: Family attend funeral of cancer campaigner who raised almost \u00a37m\n\n",
+      "url": "/news/2022/07/20/goodbye-dame-deborah-james-family-attend-funeral-cancer-campaigner/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n",
+      "url": "/news/2022/07/20/goodbye-dame-deborah-james-family-attend-funeral-cancer-campaigner/"
+    },
+    {
+      "text": "\n\nHeatwave\nLondon's firefighters had busiest day 'since Second World War'\n\n",
+      "url": "/news/2022/07/19/london-fire-wennington-dartford-upminster-green-uk-heatwave-summer/"
+    },
+    {
+      "text": "\n\nWennington fire: Compost blaze that devastated village started just yards from fire station\n\n",
+      "url": "/news/2022/07/20/wennington-fire-compost-blaze-devastated-village-started-just/"
+    },
+    {
+      "text": "\n\nBritain\u2019s oldest shipwreck has been found \u2013 and its morbid cargo may have sent it to its grave\n\n",
+      "url": "/news/2022/07/20/britains-oldest-shipwreck-has-found-morbid-cargo-may-have/"
+    },
+    {
+      "text": "\n\nJust Stop Oil protesters blockade M25 and cause closure near Heathrow after record heatwave\n\n",
+      "url": "/news/2022/07/20/just-stop-oil-protesters-blockade-m25-cause-nine-mile-queue/"
+    },
+    {
+      "text": "\n\nWatch\nThe strongman tactic that left shuffling Putin with no idea where to look\n\n",
+      "url": "/world-news/2022/07/20/watch-awkward-moment-putin-kept-waiting-photo-erdogan/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n",
+      "url": "/world-news/2022/07/20/watch-awkward-moment-putin-kept-waiting-photo-erdogan/"
+    },
+    {
+      "text": "\n\nWhy the world chess champion is refusing to defend his title\n\n",
+      "url": "/world-news/2022/07/20/world-chess-champion-refuses-defend-title-dont-particularly/"
+    },
+    {
+      "text": "\n\nNew EU envoy to China backs Taiwan 'reunification'\n\n",
+      "url": "/world-news/2022/07/20/eu-divided-taiwan-new-ambassador-voices-support-reunification/"
+    },
+    {
+      "text": "\n\n\n\n\nLive\n\n\nUkraine war\nRussian invasion no longer limited to Donbas, warns Sergei Lavrov\n\n",
+      "url": "/world-news/2022/07/20/russia-ukraine-news-war-latest-weapons-sanctions-putin-iran/"
+    },
+    {
+      "text": "\n\nThe \u2018golden villages\u2019 where homeowners are protected from the house price crash\n\n",
+      "url": "/property/house-prices/golden-villages-where-homeowners-protected-house-price-crash/"
+    },
+    {
+      "text": "\n\nHMRC hunts down taxpayers over \u2018careless mistakes\u2019\n\n",
+      "url": "/tax/news/hmrc-hunts-taxpayers-careless-mistakes/"
+    },
+    {
+      "text": "\n\nMoral Money\n\u2018My daughter wants me to look after the grandchildren for the summer \u2013 can I say no?\u2019\n\n",
+      "url": "/money/consumer-affairs/daughter-wants-look-grandchildren-summer-can-say-no/"
+    },
+    {
+      "text": "\n\nThe UK's biggest summer rip-offs \u2013 and their affordable alternatives\n\n",
+      "url": "/travel/destinations/europe/united-kingdom/uks-biggest-summer-rip-offs-affordable-alternatives/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n",
+      "url": "/travel/destinations/europe/united-kingdom/uks-biggest-summer-rip-offs-affordable-alternatives/"
+    },
+    {
+      "text": "\n\nThe new trail that is putting Austria on the summer holiday map\n\n",
+      "url": "/travel/walking-holidays/new-trail-putting-austria-summer-holiday-map/"
+    },
+    {
+      "text": "\n\nAirports are in chaos \u2013 these are the three things we want fixed now\n\n",
+      "url": "/travel/advice/why-campaigning-end-airport-chaos-now/"
+    },
+    {
+      "text": "\n\nBoris was a master of the Commons. We won't see his like again\n\n",
+      "url": "/news/2022/07/20/boris-master-commons-wont-see-like-time/"
+    },
+    {
+      "text": "\n\n\n\n\n\n",
+      "url": "/authors/s/sa-se/sam-ashworth-hayes/"
+    },
+    {
+      "text": "\nSam Ashworth-Hayes\n",
+      "url": "/authors/s/sa-se/sam-ashworth-hayes/"
+    },
+    {
+      "text": "\n\nLabour is still stuck in the shadow of Jeremy Corbyn\n\n",
+      "url": "/news/2022/07/20/labour-still-stuck-shadow-jeremy-corbyn/"
+    },
+    {
+      "text": "\n\n\n\n\n\n",
+      "url": "/authors/t/tk-to/tom-harris/"
+    },
+    {
+      "text": "\nTom Harris\n",
+      "url": "/authors/t/tk-to/tom-harris/"
+    },
+    {
+      "text": "\n\nHasta la vista, Boris \u2013 but the PM could well be back\n\n",
+      "url": "/politics/2022/07/20/hasta-la-vista-boris-pm-could-back/"
+    },
+    {
+      "text": "\n\n\n\n\n\n",
+      "url": "/authors/m/ma-me/madeline-grant/"
+    },
+    {
+      "text": "\nMadeline Grant\n",
+      "url": "/authors/m/ma-me/madeline-grant/"
+    },
+    {
+      "text": "\n\nNorth Carolina trade agreement is just the start of a UK-US relationship that will stand the test of time\n\n",
+      "url": "/business/2022/07/20/north-carolina-trade-deal-just-start-uk-us-relationship-will/"
+    },
+    {
+      "text": "\nPenny Mordaunt\n",
+      "url": "/authors/p/pa-pe/penny-mordaunt/"
+    },
+    {
+      "text": "\n\nOur new PM needs experience: This is not an episode of The Apprentice\n\n",
+      "url": "/news/2022/07/19/new-pm-needs-experience-not-episode-apprentice/"
+    },
+    {
+      "text": "\nPhilip Johnston\n",
+      "url": "/authors/p/pf-pj/philip-johnston/"
+    },
+    {
+      "text": "\n\nWe are witnessing the death of free-spending Britain\n\n",
+      "url": "/business/2022/07/20/witnessing-death-free-spending-britain/"
+    },
+    {
+      "text": "\nBen Marlow\n",
+      "url": "/authors/b/ba-be/ben-marlow/"
+    },
+    {
+      "text": "\n\nThe far-Left will never stop their anti-Jewish hate\n\n",
+      "url": "/columnists/2022/07/20/far-left-will-never-stop-anti-jewish-hate/"
+    },
+    {
+      "text": "\nTanya Gold\n",
+      "url": "/authors/t/ta-te/tanya-gold/"
+    },
+    {
+      "text": "\n\n\n\n\n\n",
+      "url": "/news/0/matt-cartoons-july-2022/"
+    },
+    {
+      "text": "\n\nAlex cartoons: July 2022\n\n\n\n\n",
+      "url": "/business/2022/06/30/alex-cartoons-july-2022/"
+    },
+    {
+      "text": "\n\nLetters to the editor\n\n\n\n\n",
+      "url": "/opinion/letters/"
+    },
+    {
+      "text": "\n\nTwo days of hot weather turned into Project Fear in favour of net zero\n\n",
+      "url": "/opinion/2022/07/20/letters-two-days-hot-weather-turned-project-fear-favour-net/"
+    },
+    {
+      "text": "\n\nThe Telegraph View\n\n\n\n\n",
+      "url": "/opinion/telegraph-view/"
+    },
+    {
+      "text": "\n\nPutin's visit to Iran should be cause for concern in London and Washington\n\n",
+      "url": "/opinion/2022/07/20/putins-visit-iran-should-cause-concern-london-washington/"
+    },
+    {
+      "text": "\n\nAn autumn of discontent would harm us all. There is no case for public sector strikes\n\n",
+      "url": "/opinion/2022/07/19/autumn-discontent-would-harm-us-no-case-public-sector-strikes/"
+    },
+    {
+      "text": "\n\nObituaries\n\n\n\n\n",
+      "url": "/obituaries/"
+    },
+    {
+      "text": "\n\nRichard Seal, organist and choirmaster who introduced girls to cathedral choirs\n\n",
+      "url": "/obituaries/2022/07/20/richard-seal-organist-choirmaster-who-introduced-girls-cathedral/"
+    },
+    {
+      "text": "\n\nCorrelli Barnett, military historian who dissected Britain\u2019s historical and present status in the world\n\n",
+      "url": "/obituaries/2022/07/19/correlli-barnett-military-historian-who-unafraid-make-enemies/"
+    },
+    {
+      "text": "\nNews\n",
+      "url": "/news/"
+    },
+    {
+      "text": "\n\nFire breaks out on top floor of high-rise block of flats in London\n\n",
+      "url": "/news/2022/07/20/fire-breaks-top-floor-18-storey-block-flats-london/"
+    },
+    {
+      "text": "\n\nPrince William to honour JFK and host 2022 Earthshot Prize in Boston\n\n",
+      "url": "/royal-family/2022/07/20/prince-william-honour-jfk-host-2022-earthshot-prize-boston/"
+    },
+    {
+      "text": "\n\nPictured: Father holds hand of dead son as fresh Russian air strikes hit Kharkiv\n\n",
+      "url": "/world-news/2022/07/20/pictured-father-holds-hand-dead-son-fresh-russian-air-strikes/"
+    },
+    {
+      "text": "\n\nBritish troops banned from paying for prostitutes while overseas\n\n",
+      "url": "/news/2022/07/20/british-troops-banned-paying-prostitutes-overseas/"
+    },
+    {
+      "text": "\n\nTop huntsman wins appeal against conviction for encouraging illegal fox hunting\n\n",
+      "url": "/news/2022/07/20/top-huntsman-wins-appeal-against-conviction-encouraging-illegal/"
+    },
+    {
+      "text": "\n\nRail services severely disrupted after extreme heat causes widespread damage\n\n",
+      "url": "/news/2022/07/20/heatwave-causes-severe-disruption-across-britains-railways/"
+    },
+    {
+      "text": "\n\nHRT to be offered over the counter for first time\n\n",
+      "url": "/news/2022/07/20/hrt-offered-counter-first-time/"
+    },
+    {
+      "text": "\n\nIdentical twins separated as toddlers developed \u2018striking\u2019 differences in IQ\n\n",
+      "url": "/global-health/climate-and-people/identical-twins-separated-toddlers-developed-striking-differences/"
+    },
+    {
+      "text": "\n\nLucky Briton wins record \u00a3195m EuroMillions jackpot\n\n",
+      "url": "/news/2022/07/20/lucky-briton-wins-record-195m-euromillions-jackpot/"
+    },
+    {
+      "text": "\nBusiness\n",
+      "url": "/business/"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n",
+      "url": "/business/alex-cartoon/"
+    },
+    {
+      "text": "\n\nThe dangerous signs that price rises are here to stay\n\n",
+      "url": "/business/2022/07/20/food-fuel-prices-drive-uk-inflation-94pc/"
+    },
+    {
+      "text": "\n\nTech companies run hoses on the roof to cool servers in heatwave\n\n",
+      "url": "/business/2022/07/20/tech-companies-turn-hose-pipes-keep-data-centres-cool-heatwave/"
+    },
+    {
+      "text": "\n\nHouse prices \u00a332,000 higher than a year ago\n\n\n",
+      "url": "/property/house-prices/house-prices-32000-higher-year-ago/"
+    },
+    {
+      "text": "\n\nRecord inflation wipes \u00a314,000 off the state pension\n\n",
+      "url": "/pensions-retirement/news/record-inflation-wipes-14000-state-pension/"
+    },
+    {
+      "text": "\n\nPensioners release a record amount of cash from their homes\n\n",
+      "url": "/property/news/pensioners-release-record-amount-cash-homes/"
+    },
+    {
+      "text": "\n\nSavers\u2019 nest eggs losing \u00a34,000 a year to inflation\n\n",
+      "url": "/personal-banking/savings/savers-nest-eggs-losing-4000-year-inflation/"
+    },
+    {
+      "text": "\n\nTrain operators seek to scrap peak and off-peak rail fares\n\n",
+      "url": "/business/2022/07/20/train-operators-seek-scrap-peak-off-peak-rail-fares/"
+    },
+    {
+      "text": "\nSport\n",
+      "url": "/sport/"
+    },
+    {
+      "text": "\n\nWatch: Jake Wightman wins shock 1,500m world title with father commentating on race\n\n",
+      "url": "/athletics/2022/07/20/shock-victory-jake-wightman-claims-world-championships-gold/"
+    },
+    {
+      "text": "\n\nRugby Union\nWarren Gatland picks his 23-man Lions squad - and some of his selections may surprise you\n\n",
+      "url": "/rugby-union/2022/07/20/warren-gatland-picks-23-man-lions-squad-selections-may-surprise/"
+    },
+    {
+      "text": "\n\nTour de France 2022\nPogacar pips Vingegaard to stage win as Thomas loses time\n\n",
+      "url": "/cycling/2022/07/20/tour-de-france-2022-stage-17-live-updates-results-pogacar-vingegaard/"
+    },
+    {
+      "text": "\n\nCricket\nWasim Akram: Put ODI cricket out of its misery\n\n",
+      "url": "/cricket/2022/07/20/wasim-akram-put-odi-cricket-misery/"
+    },
+    {
+      "text": "\n\nGolf\nHenrik Stenson stripped of Ryder Cup captaincy after defecting to Saudis' LIV rebel series\n\n",
+      "url": "/golf/2022/07/19/henrik-stenson-will-stripped-ryder-cup-captaincy-defecting-saudis/"
+    },
+    {
+      "text": "\n\nFootball\nManchester United tour diary: Harry Maguire's warm reception from fans\n\n",
+      "url": "/football/2022/07/20/manchester-united-tour-diary-harry-maguires-warm-reception-fans/"
+    },
+    {
+      "text": "\n\nStyle\nThe secret to hosting a fashionable lunch? Match your tablecloth \n\n",
+      "url": "/fashion/style/secret-hosting-fashionable-lunch-match-tablecloth/"
+    },
+    {
+      "text": "\n\nMotoring\nThe Telegraph way to attend a summer festival\n\n",
+      "url": "/cars/advice/telegraph-way-attend-summer-festival/"
+    },
+    {
+      "text": "\n\nFood & Drink\nRevealed: The world's 50 best restaurants \u2013 including two from the UK\n\n",
+      "url": "/food-and-drink/restaurants/why-copenhagen-food-capital-world-who-else-makes-top-50/"
+    },
+    {
+      "text": "\n\nWomen\nI handed my baby over to his adoptive parents \u2013 and then I cried for days\n\n",
+      "url": "/women/life/forced-give-baby-away-16-now-first-time-dont-feel-ashamed/"
+    },
+    {
+      "text": "\n\nAsk Gill\nMy hold luggage never arrived at Heathrow \u2013 and no one will take responsibility\n\n",
+      "url": "/travel/advice/hold-luggage-never-arrived-heathrow-no-one-will-take-responsibility/"
+    },
+    {
+      "text": "\n\nTanya Gold\nToo many brides have the same wedding dream \u2013 I\u2019d rather just get married at home\n\n",
+      "url": "/columnists/2022/07/20/many-brides-have-wedding-dream-rather-just-get-married-home/"
+    },
+    {
+      "text": "\n\nMotoring\nNissan Juke review: there are only a few reasons why you'd want to buy this hybrid\n\n",
+      "url": "/cars/nissan/nissan-juke-review-hybrid-power-helps-small-funky-suv-back-winning/"
+    },
+    {
+      "text": "\n\nRoyal family gallery\nCharles and Camilla visit Cornwall and Prince Harry speaks at the UN\n\n",
+      "url": "/news/2022/07/20/royal-family-pictures-week-charles-camilla-visit-cornwall-prince/"
+    },
+    {
+      "text": "\n\nStyle\nThe grown up guide to wearing polka dots\n\n",
+      "url": "/fashion/style/grown-guide-wearing-polka-dots/"
+    },
+    {
+      "text": "\nArts and Entertainment\n\n\n\n\n\n\n\n",
+      "url": "/culture/"
+    },
+    {
+      "text": "\n\nArt\nThe architectural eyesores that could become Meccas for culture lovers\n\n",
+      "url": "/art/architecture/architectural-eyesores-could-become-meccas-culture-lovers/"
+    },
+    {
+      "text": "\n\nCrazy for You, Chichester Festival Theatre, review: a magnificent revival with songs that knock you for six\n\n",
+      "url": "/theatre/what-to-see/crazy-chichester-festival-theatre-review-magnificent-revival/"
+    },
+    {
+      "text": "\n\nBooks\nThe only man to write a funny book about the Third Reich\n\n",
+      "url": "/books/what-to-read/man-write-funny-book-third-reich/"
+    },
+    {
+      "text": "\n\nRadio\nNo more rural idyll: even The Archers is feeling the cost-of-living pinch\n\n",
+      "url": "/radio/what-to-listen-to/no-rural-idyll-even-archers-feeling-cost-of-living-pinch/"
+    },
+    {
+      "text": "\n\nIn pictures: Wildfires and lightning strike after record-breaking heat\n\n",
+      "url": "/news/2022/07/19/uk-heatwave-pictures-temperature-soar-wildfires-europe-china-america/"
+    },
+    {
+      "text": "\n\nAir con could solve Britain\u2019s heatwave crisis \u2013 but it comes at a cost\n\n",
+      "url": "/news/2022/07/18/air-con-could-solve-britains-heatwave-crisis-comes-cost/"
+    },
+    {
+      "text": "\n\nDread the dentist? Now the NHS thinks you shouldn\u2019t go so often\n\n",
+      "url": "/news/2022/07/19/dental-check-ups-could-extended-every-two-years-free-appointments/"
+    },
+    {
+      "text": "\n\n\u2018Guilt-free flying\u2019 ready for takeoff, powered by electric planes and cooking oil fuel\n\n",
+      "url": "/news/2022/07/19/guilt-free-flying-government-promises-zero-emission-routes-2030/"
+    },
+    {
+      "text": "\n\nDrink-driver accidentally runs over his own brother after night at pub\n\n",
+      "url": "/news/2022/07/19/devoted-brother-ran-sibling-accident-had-drinking/"
+    },
+    {
+      "text": "\nFamily\n\n\n\n\n\n\n\n",
+      "url": "/family/"
+    },
+    {
+      "text": "\n\nHow to keep your dog and other pets cool in a heatwave and when is too hot to walk them outside?\n\n",
+      "url": "/family/pets/keep-dog-pets-cool-hot-weather-heatwave-walk-outside-2022/"
+    },
+    {
+      "text": "\n\nHow to (safely) go wild swimming in the heat\n\n",
+      "url": "/family/life/how-safely-go-wild-swimming-heat/"
+    },
+    {
+      "text": "\nWomen\n\n\n\n\n\n\n\n",
+      "url": "/women/"
+    },
+    {
+      "text": "\n\nI was forced to give my baby away at 16 \u2013 now, for the first time, I don\u2019t feel ashamed\n\n",
+      "url": "/women/life/forced-give-baby-away-16-now-first-time-dont-feel-ashamed/"
+    },
+    {
+      "text": "\n\nIt must be terribly difficult being the only one in the village with a pool\n\n",
+      "url": "/women/life/must-terribly-difficult-one-village-pool/"
+    },
+    {
+      "text": "\nLuxury\n\n\n\n\n\n\n\n",
+      "url": "/luxury/"
+    },
+    {
+      "text": "\n\nWhy you can\u2019t buy a Rolex \u2013 and it\u2019s not because of the price\n\n",
+      "url": "/fashion/style/cant-buy-rolex-not-price/"
+    },
+    {
+      "text": "\n\nChanel's new headquarters isn't what you would expect\n\n",
+      "url": "/fashion/brands/chanels-new-headquarters-isnt-would-expect/"
+    },
+    {
+      "text": "\nHealth & Fitness\n\n\n\n\n\n\n\n",
+      "url": "/health-fitness/"
+    },
+    {
+      "text": "\n\nEight things you should know about sun cream when applying it during the heatwave\n\n",
+      "url": "/health-fitness/body/sun-cream-factor-long-lasting-hot-weather-heatwave-uk-2022/"
+    },
+    {
+      "text": "\n\nHeatstroke signs to watch out for - and how to treat symptoms in hot weather\n\n",
+      "url": "/health-fitness/body/heatstroke-signs-symptoms-watch-for-how-best-treatment/"
+    },
+    {
+      "text": "\nMoney\n\n\n\n\n\n\n\n",
+      "url": "/money/"
+    },
+    {
+      "text": "\n\nWorking in a heatwave: Your rights as Britain endures extreme temperatures\n\n",
+      "url": "/money/consumer-affairs/working-heatwave-uk-section-44-employers-rights/"
+    },
+    {
+      "text": "\n\nHouse prices \u00a332,000 higher than a year ago\n\n\n",
+      "url": "/property/house-prices/house-prices-32000-higher-year-ago/"
+    },
+    {
+      "text": "\nFood & Drink\n\n\n\n\n\n\n\n",
+      "url": "/food-and-drink/"
+    },
+    {
+      "text": "\n\nThe best 8 foods to freeze at home in 2022\n\n",
+      "url": "/food-and-drink/features/best-top-foods-freeze-home-cheese-eggs-sustainable-cost-2022/"
+    },
+    {
+      "text": "\n\nHow to pack a fuss-free summer picnic \u2013 and the kit to buy \u2013 to enjoy during the hot weather\n\n",
+      "url": "/food-and-drink/features/pack-fuss-free-summer-picnic-uk-hot-weather-families-2022/"
+    },
+    {
+      "text": "\nGardening\n\n\n\n\n\n\n\n",
+      "url": "/gardening/"
+    },
+    {
+      "text": "\n\nThe best seeds to sow this summer to create a flourishing vegetable patch to last until autumn\n\n",
+      "url": "/gardening/how-to-grow/best-seeds-sow-vegetable-patch-garden-allotment-summer-autumn-2022/"
+    },
+    {
+      "text": "\n\nHow to protect plants in your garden during the hot weather this summer\n\n",
+      "url": "/gardening/how-to-grow/protect-plants-care-garden-heatwave-hot-weather-uk-summer-2022/"
+    },
+    {
+      "text": "\nFashion & Beauty\n\n\n\n\n\n\n\n",
+      "url": "/fashion/"
+    },
+    {
+      "text": "\n\nVictoria Beckham's 6 tips for looking glam in the heat\n\n",
+      "url": "/beauty/people/victoria-beckhams-6-tips-looking-glam-heat/"
+    },
+    {
+      "text": "\n\nThe grown up guide to wearing polka dots\n\n",
+      "url": "/fashion/style/grown-guide-wearing-polka-dots/"
+    },
+    {
+      "text": "\nCars\n\n\n\n\n\n\n\n",
+      "url": "/cars/"
+    },
+    {
+      "text": "\n\nThe Telegraph way to attend a summer festival\n\n",
+      "url": "/cars/advice/telegraph-way-attend-summer-festival/"
+    },
+    {
+      "text": "\n\nHow to use your car\u2019s air conditioning effectively in hot weather this summer\n\n",
+      "url": "/cars/advice/car-air-conditioning-effectively-hot-weather-heatwave-uk-summer-2022/"
+    },
+    {
+      "text": "\nTravel\n\n\n\n\n\n\n\n",
+      "url": "/travel/"
+    },
+    {
+      "text": "\n\n20 of the best outdoor swimming pools and lidos in the UK\n\n",
+      "url": "/travel/lists/best-outdoor-swimming-pools-lidos-uk-london/"
+    },
+    {
+      "text": "\n\nThe best alternatives to the UK's busiest beaches for the summer heatwave\n\n",
+      "url": "/travel/lists/best-alternative-secret-beaches-quiet-uk-heatwave-hot-summer-2022/"
+    },
+    {
+      "text": "\nCulture\n\n\n\n\n\n\n\n",
+      "url": "/culture/"
+    },
+    {
+      "text": "\n\nThe Ukrainian rock star dodging bullets on tour: \u2018If the shelling gets too close you stop playing\u2019\n\n",
+      "url": "/music/what-to-listen-to/ukrainian-rock-star-dodging-bullets-tour-shelling-gets-close/"
+    },
+    {
+      "text": "\n\nThe Telegraph way to attend a summer festival\n\n",
+      "url": "/cars/advice/telegraph-way-attend-summer-festival/"
+    },
+    {
+      "text": "\nRecommended\n\n\n\n\n\n\n\n",
+      "url": "https://www.telegraph.co.uk/recommended/"
+    },
+    {
+      "text": "\n\nThe best portable air conditioners to cool your home this summer\n\n",
+      "url": "/interiors/home/best-portable-air-conditioners/"
+    },
+    {
+      "text": "\n\nThe best mattress for 2022, including pocket-sprung, memory foam and hybrid mattresses\n\n",
+      "url": "/health-fitness/mind/how-to-choose-the-best-mattress/"
+    },
+    {
+      "text": "\n\nThe best cordless vacuum cleaners for 2022, tried and tested\n\n",
+      "url": "/recommended/home/best-cordless-vacuums/"
+    },
+    {
+      "text": "\nThe Daily Telegraph is a member of the Independent Press Standards Organisation (IPSO) and we subscribe to its Editors' Code of Practice. Find out more here.\n",
+      "url": "https://www.telegraph.co.uk/contact-us/editorial-complaints/"
+    },
+    {
+      "text": "\n\nThe Telegraph\n\n\n",
+      "url": "/"
+    },
+    {
+      "text": "\nBack to top\n\n\n\n",
+      "url": "#navigation"
+    },
+    {
+      "text": "\n\nFacebook icon\n\n\n",
+      "url": "https://www.facebook.com/TELEGRAPH.CO.UK/"
+    },
+    {
+      "text": "\n\nInstagram icon\n\n\n",
+      "url": "https://www.instagram.com/telegraph/"
+    },
+    {
+      "text": "\n\nTwitter icon\n\n\n",
+      "url": "https://twitter.com/@Telegraph"
+    },
+    {
+      "text": "\n\nSnapchat icon\n\n\n",
+      "url": "https://www.snapchat.com/discover/The_Telegraph/8148798159"
+    },
+    {
+      "text": "\n\nLinkedIn icon\n\n\n",
+      "url": "https://www.linkedin.com/company/9053/"
+    },
+    {
+      "text": "\n\nYouTube icon\n\n\n\n",
+      "url": "https://www.youtube.com/channel/UCPgLNge0xqQHWM5B5EFH9Cg"
+    },
+    {
+      "text": "Contact us",
+      "url": "/contact-us/"
+    },
+    {
+      "text": "About us",
+      "url": "https://corporate.telegraph.co.uk/"
+    },
+    {
+      "text": "Telegraph Extra",
+      "url": "https://extra.telegraph.co.uk/"
+    },
+    {
+      "text": "Reader Prints",
+      "url": "https://telegraph.newsprints.co.uk/"
+    },
+    {
+      "text": "Branded Content",
+      "url": "/branded-content/"
+    },
+    {
+      "text": "Syndication and Commissioning",
+      "url": "/syndication/"
+    },
+    {
+      "text": "Guidelines",
+      "url": "/about-us/editorial-and-commercial-guidelines3/"
+    },
+    {
+      "text": "Privacy",
+      "url": "/about-us/privacy-and-cookie-policy/"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "/about-us/terms-and-conditions/"
+    },
+    {
+      "text": "Advertising Terms",
+      "url": "/about-us/advertising-terms-and-conditions3/"
+    },
+    {
+      "text": "Fantasy Sport",
+      "url": "https://fantasyfootball.telegraph.co.uk/"
+    },
+    {
+      "text": "UK Voucher Codes",
+      "url": "https://www.telegraph.co.uk/vouchercodes"
+    },
+    {
+      "text": "Betting Offers",
+      "url": "/betting/free-bets/"
+    },
+    {
+      "text": "Modern Slavery",
+      "url": "/about-us/modern-slavery-statement/"
+    },
+    {
+      "text": "Tax Strategy",
+      "url": "/about-us/press-acquisitions-limited-tax-strategy-financial-year-2021/"
+    },
+    {
+      "text": "Broadband and Mobile Deals",
+      "url": "https://www.telegraph.co.uk/compare"
+    },
+    {
+      "text": "Manage Cookies",
+      "url": "#"
+    },
+    {
+      "text": "adblocking instructions",
+      "url": "https://www.telegraph.co.uk/go/adblocking/"
+    },
+    {
+      "text": "Start your free trial",
+      "url": "https://secure.telegraph.co.uk/customer/secure/get-started/?productId=nyytq4zthbvwsoliojugwyzzmyzha3dt&offerId=digital-month-intro-RP208&campaignId=082A&ICID=conversion-subscription_onsite-asset_overlay_nonengaged&redirectTo=https%3A%2F%2Fwww.telegraph.co.uk%2F"
+    }
+  ],
+  "uniq": 2011681935,
   "workable_servers": [
     "ia902501.us.archive.org",
     "ia802501.us.archive.org"

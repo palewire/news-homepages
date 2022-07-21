@@ -1,5 +1,5 @@
 {
-  "created": 1658278980,
+  "created": 1658363027,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/35/items/jacobin-2022",
@@ -1402,31 +1402,157 @@
       "sha1": "0d82cb89632075e059397d6ee6379647252825da"
     },
     {
+      "name": "jacobin-2022-07-19T22:19:44.264374-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658283589",
+      "size": "20773",
+      "md5": "b097ee0b0cf854117762b7c207884df9",
+      "crc32": "5622d178",
+      "sha1": "1a31ece531bed7b128b3d79e87bc9f24de913717",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-19T22:19:44.264374-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658283590",
+      "size": "13633",
+      "md5": "28337a9d9aaae9f3a88ab441e265b359",
+      "crc32": "4add9cce",
+      "sha1": "3cab9493406b2bde31b155eadcf438e6047305b7",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-19T22:19:44.264374-04:00.jpg",
+      "source": "original",
+      "mtime": "1658283587",
+      "size": "347907",
+      "md5": "65f763d7ee8fbb1f347fd3c78c322571",
+      "crc32": "2c9d955a",
+      "sha1": "fe43a8bc681c2315290066ea33d5271fbe9d0f5e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jacobin-2022-07-19T22:19:44.264374-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jacobin-2022-07-19T22:19:44.264374-04:00.jpg",
+      "mtime": "1658283785",
+      "size": "9909",
+      "md5": "288dad8c89b462ab746a3a40291be016",
+      "crc32": "b017e3b6",
+      "sha1": "b3292f07a1ab20a78ec0290ffe9458da700f3630"
+    },
+    {
+      "name": "jacobin-2022-07-20T10:27:23.514821-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658327246",
+      "size": "20757",
+      "md5": "2a77d7eb1329020a6dbe8495a05e5f8b",
+      "crc32": "132ec3b5",
+      "sha1": "ca9ac55236815081fe0fe1170ebc39ec29cde545",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-20T10:27:23.514821-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658327248",
+      "size": "13633",
+      "md5": "f74a2a62f3080ceff59e0b92245471ba",
+      "crc32": "66c00c0e",
+      "sha1": "f7c9c2f6f7c096b9003857acc053c858b580003b",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-20T10:27:23.514821-04:00.jpg",
+      "source": "original",
+      "mtime": "1658327245",
+      "size": "317959",
+      "md5": "cd118955efd511c9d4f130fd9ad4666a",
+      "crc32": "245d733e",
+      "sha1": "988e7127fc637a1ab3884129b14e44d18f5359c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jacobin-2022-07-20T10:27:23.514821-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jacobin-2022-07-20T10:27:23.514821-04:00.jpg",
+      "mtime": "1658333200",
+      "size": "9899",
+      "md5": "b337cae79523855fbd4d70809699a748",
+      "crc32": "f4b7582d",
+      "sha1": "b96f3774d6c6eff8693d2bd51f13d962c166679f"
+    },
+    {
+      "name": "jacobin-2022-07-20T12:40:04.898850-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658335208",
+      "size": "20757",
+      "md5": "2a77d7eb1329020a6dbe8495a05e5f8b",
+      "crc32": "132ec3b5",
+      "sha1": "ca9ac55236815081fe0fe1170ebc39ec29cde545",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-20T12:40:04.898850-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658335211",
+      "size": "13633",
+      "md5": "f74a2a62f3080ceff59e0b92245471ba",
+      "crc32": "66c00c0e",
+      "sha1": "f7c9c2f6f7c096b9003857acc053c858b580003b",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-07-20T12:40:04.898850-04:00.jpg",
+      "source": "original",
+      "mtime": "1658335206",
+      "size": "317959",
+      "md5": "cd118955efd511c9d4f130fd9ad4666a",
+      "crc32": "245d733e",
+      "sha1": "988e7127fc637a1ab3884129b14e44d18f5359c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jacobin-2022-07-20T12:40:04.898850-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jacobin-2022-07-20T12:40:04.898850-04:00.jpg",
+      "mtime": "1658339135",
+      "size": "9899",
+      "md5": "b337cae79523855fbd4d70809699a748",
+      "crc32": "f4b7582d",
+      "sha1": "b96f3774d6c6eff8693d2bd51f13d962c166679f"
+    },
+    {
       "name": "jacobin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c4eccc220173b40684f41433c1f927e0fb57306",
-      "mtime": "1658250372",
-      "size": "29281",
-      "md5": "4155d356af514b336fc52f725bdb1ee1",
-      "crc32": "1039f2d2",
-      "sha1": "ee13c499e7fa93b75252d641b2a2bed6dc22389d",
+      "btih": "8ec341a7000cadd8aa5346fd6a6ce160e903bc01",
+      "mtime": "1658339141",
+      "size": "31816",
+      "md5": "8b5c01bf8ad7479b8fb8f311bb29c153",
+      "crc32": "493ed0a2",
+      "sha1": "2d602bf1113d1a95d9b42a2551a1bf16e4984fc5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jacobin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72b9c33b7c0c61cbf326fdae379be0d7",
+      "md5": "7b2d26a3a817c0fafa44810d681c8e89",
       "summation": "md5"
     },
     {
       "name": "jacobin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658249732",
-      "size": "172032",
-      "md5": "a259bb2f0f2b68172e540dce2419b29b",
-      "crc32": "73ee8acb",
-      "sha1": "68689a28d070888cdb3495b2e8f6fdf105354089",
+      "mtime": "1658335214",
+      "size": "184320",
+      "md5": "6c5d5ce9256c10a2f847a6f7b3803b76",
+      "crc32": "3bed8208",
+      "sha1": "bae0aad34d86a661fee59a68c98c601082e0d236",
       "format": "Metadata"
     },
     {
@@ -1440,9 +1566,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1658250372,
-  "item_size": 11559546,
+  "files_count": 149,
+  "item_last_updated": 1658339141,
+  "item_size": 12691087,
   "jacobin-2022": [
     {
       "text": "\n        \n        \n  Jacobin Logo\n  \n  \n  \n  \n  \n  \n  \n\n\n\n  Jacobin Icon\n  \n\n\n        Jacobin\n      ",
@@ -1470,10 +1596,34 @@
     },
     {
       "text": "\n    \n  ",
+      "url": "/2022/07/copaganda-police-propaganda-public-relations-pr-communications"
+    },
+    {
+      "text": "\n            Police Departments Spend Vast Sums of Money Creating \u201cCopaganda\u201d\n          ",
+      "url": "/2022/07/copaganda-police-propaganda-public-relations-pr-communications"
+    },
+    {
+      "text": "Alec Karakatsanis",
+      "url": "/author/alec-karakatsanis"
+    },
+    {
+      "text": "\n    \n  ",
+      "url": "/2022/07/mike-davis-urbanism-bombing-private-property-legacy"
+    },
+    {
+      "text": "\n        What Would Mike Davis Bomb?\n      ",
+      "url": "/2022/07/mike-davis-urbanism-bombing-private-property-legacy"
+    },
+    {
+      "text": "Samuel Stein",
+      "url": "/author/samuel-stein"
+    },
+    {
+      "text": "\n    \n  ",
       "url": "/2022/07/karl-marx-eurocentrism-western-capitalism-colonialism"
     },
     {
-      "text": "\n            No, Karl Marx Was Not Eurocentric\n          ",
+      "text": "\n        No, Karl Marx Was Not Eurocentric\n      ",
       "url": "/2022/07/karl-marx-eurocentrism-western-capitalism-colonialism"
     },
     {
@@ -1482,51 +1632,47 @@
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/boris-johnson-britain-conservative-party-deep-state"
+      "url": "/2022/07/north-carolina-amazon-workers-organizing-cause-union"
     },
     {
-      "text": "\n        Boris Johnson Has Many Enemies, but the Deep State Isn\u2019t One of Them\n      ",
-      "url": "/2022/07/boris-johnson-britain-conservative-party-deep-state"
+      "text": "\n        Amazon Workers in North Carolina Are Building a Union\n      ",
+      "url": "/2022/07/north-carolina-amazon-workers-organizing-cause-union"
     },
     {
-      "text": "Daniel Finn",
-      "url": "/author/daniel-finn"
-    },
-    {
-      "text": "\n    \n  ",
-      "url": "/2022/07/hamas-elections-covenant-media-antisemitism-terrorism"
-    },
-    {
-      "text": "\n        Stop Using Hamas as a Bogeyman to Silence Palestinians\n      ",
-      "url": "/2022/07/hamas-elections-covenant-media-antisemitism-terrorism"
-    },
-    {
-      "text": "Julian Sayarer",
-      "url": "/author/julian-sayarer"
+      "text": "Alex N. Press",
+      "url": "/author/alex-press"
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/andre-breton-haiti-revolution-communists-surrealism"
+      "url": "/2022/07/biden-khashoggi-mbs-saudis-uae-israel"
     },
     {
-      "text": "\n        The Founder of Surrealism Helped Inspire a Revolution in Haiti\n      ",
-      "url": "/2022/07/andre-breton-haiti-revolution-communists-surrealism"
+      "text": "\n        Joe Biden\u2019s Middle East Trip Was a Gift to the World\u2019s Autocrats\n      ",
+      "url": "/2022/07/biden-khashoggi-mbs-saudis-uae-israel"
     },
     {
-      "text": "Michael L\u00f6wy",
-      "url": "/author/michael-lowy"
+      "text": "Branko Marcetic",
+      "url": "/author/branko-marcetic"
     },
     {
-      "text": "\n    \n  ",
-      "url": "/2022/07/paul-robeson-american-extreme-right-racism-civil-rights-socialists"
+      "text": "\n      To Reduce Methane Emissions, Take on the Oil and Gas Companies\n    ",
+      "url": "/2022/07/methane-emissions-oil-and-gas-companies-fossil-fuel-ipcc-cop26-climate-crisis"
     },
     {
-      "text": "\n        Paul Robeson Spent His Life Fighting Against America\u2019s Extreme Right\n      ",
-      "url": "/2022/07/paul-robeson-american-extreme-right-racism-civil-rights-socialists"
+      "text": "\n      France\u2019s Left Needs to Speak to All Parts of the Working Class\n    ",
+      "url": "/2022/07/french-left-nupes-vote-demographics-rural-voters-base"
     },
     {
-      "text": "Joel Whitney",
-      "url": "/author/joel-whitney"
+      "text": "\n      Rick Caruso Is a Los Angeles Good Old Boy Posing as a Political Outsider\n    ",
+      "url": "/2022/07/rick-caruso-billionaire-la-mayor-race"
+    },
+    {
+      "text": "\n      Expropriate Canada\u2019s New Pandemic-Era Billionaires\n    ",
+      "url": "/2022/07/expropriate-canadas-new-pandemic-era-billionaires"
+    },
+    {
+      "text": "\n      Under Jair Bolsonaro, Meat Is Becoming an Unaffordable Luxury Item for Most Brazilians\n    ",
+      "url": "/2022/07/brazilian-meat-beef-prices-affordability-inflation"
     },
     {
       "text": "\n      By Embracing Viktor Orb\u00e1n, the Right Is Signaling Support for \u201cIlliberal Democracy\u201d at Home\n    ",
@@ -1539,26 +1685,6 @@
     {
       "text": "\n      In Croatia, There Is No Alternative to Joining the Eurozone\n    ",
       "url": "/2022/07/croatia-euro-currency-eurozone-emu-ecb"
-    },
-    {
-      "text": "\n      Spain Is at the Forefront of Expanding Women\u2019s Rights\n    ",
-      "url": "/2022/07/spain-is-at-the-forefront-of-expanding-womens-rights"
-    },
-    {
-      "text": "\n      Alicia Raboy Was Killed for Her Radical Politics\n    ",
-      "url": "/2022/07/looking-for-alicia-marc-raboy-book-review"
-    },
-    {
-      "text": "\n      Canada Is Showering Arms Dealers With Money While One in Four Can\u2019t Afford Groceries\n    ",
-      "url": "/2022/07/canadian-military-spending-inflation-hunger"
-    },
-    {
-      "text": "\n      We Needed the Great Revolutions to Open the Path to Freedom\n    ",
-      "url": "/2022/07/enzo-traverso-revolution-intellectual-history-book-review"
-    },
-    {
-      "text": "\n      The Current Union Organizing Wave Is Being Held Back by an Underfunded NLRB\n    ",
-      "url": "/2022/07/union-organizing-nlrb-funding"
     },
     {
       "text": "\n            Issue No.\n            45\n          ",
@@ -1606,51 +1732,71 @@
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/democratic-party-voter-base-biden-administration-rich-white-suburbs"
+      "url": "/2022/07/mlb-all-star-game-labor-unions-minor-league-concessions-sanders"
     },
     {
-      "text": "\n        The Democratic Base Keeps Getting Richer and Whiter\n      ",
-      "url": "/2022/07/democratic-party-voter-base-biden-administration-rich-white-suburbs"
+      "text": "\n        As You Watch Tonight\u2019s MLB All-Star Game, Remember These Three Baseball Labor Struggles\n      ",
+      "url": "/2022/07/mlb-all-star-game-labor-unions-minor-league-concessions-sanders"
     },
     {
-      "text": "Branko Marcetic",
-      "url": "/author/branko-marcetic"
-    },
-    {
-      "text": "\n    \n  ",
-      "url": "/2022/07/putin-war-russia-ukraine-empire-lies"
-    },
-    {
-      "text": "\n        I Marched Against Putin\u2019s War for the Same Reason I Protested the War in Iraq\n      ",
-      "url": "/2022/07/putin-war-russia-ukraine-empire-lies"
-    },
-    {
-      "text": "Niko Vorobyov",
-      "url": "/author/niko-vorobyov"
+      "text": "Michael Arria",
+      "url": "/author/michael-aria"
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/new-democrats-blue-centrist-clintonism-welfare-reform"
+      "url": "/2022/07/hamas-elections-covenant-media-antisemitism-terrorism"
     },
     {
-      "text": "\n        How the Democrats Learned to Stop Worrying and Love the Free Market\n      ",
-      "url": "/2022/07/new-democrats-blue-centrist-clintonism-welfare-reform"
+      "text": "\n        Stop Using Hamas as a Bogeyman to Silence Palestinians\n      ",
+      "url": "/2022/07/hamas-elections-covenant-media-antisemitism-terrorism"
     },
     {
-      "text": "Maia Silber",
-      "url": "/author/maia-silber"
+      "text": "Julian Sayarer",
+      "url": "/author/julian-sayarer"
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/methane-emissions-oil-and-gas-companies-fossil-fuel-ipcc-cop26-climate-crisis"
+      "url": "/2022/07/andre-breton-haiti-revolution-communists-surrealism"
     },
     {
-      "text": "\n        To Reduce Methane Emissions, Take on the Oil and Gas Companies\n      ",
-      "url": "/2022/07/methane-emissions-oil-and-gas-companies-fossil-fuel-ipcc-cop26-climate-crisis"
+      "text": "\n        The Founder of Surrealism Helped Inspire a Revolution in Haiti\n      ",
+      "url": "/2022/07/andre-breton-haiti-revolution-communists-surrealism"
     },
     {
-      "text": "Rishika Pardikar",
-      "url": "/author/rishika-pardikar"
+      "text": "Michael L\u00f6wy",
+      "url": "/author/michael-lowy"
+    },
+    {
+      "text": "\n    \n  ",
+      "url": "/2022/07/boris-johnson-britain-conservative-party-deep-state"
+    },
+    {
+      "text": "\n        Boris Johnson Has Many Enemies, but the Deep State Isn\u2019t One of Them\n      ",
+      "url": "/2022/07/boris-johnson-britain-conservative-party-deep-state"
+    },
+    {
+      "text": "Daniel Finn",
+      "url": "/author/daniel-finn"
+    },
+    {
+      "text": "\n      Spain Is at the Forefront of Expanding Women\u2019s Rights\n    ",
+      "url": "/2022/07/spain-is-at-the-forefront-of-expanding-womens-rights"
+    },
+    {
+      "text": "\n      Alicia Raboy Was Killed for Her Radical Politics\n    ",
+      "url": "/2022/07/looking-for-alicia-marc-raboy-book-review"
+    },
+    {
+      "text": "\n      Canada Is Showering Arms Dealers With Money While One in Four Can\u2019t Afford Groceries\n    ",
+      "url": "/2022/07/canadian-military-spending-inflation-hunger"
+    },
+    {
+      "text": "\n      We Needed the Great Revolutions to Open the Path to Freedom\n    ",
+      "url": "/2022/07/enzo-traverso-revolution-intellectual-history-book-review"
+    },
+    {
+      "text": "\n      The Current Union Organizing Wave Is Being Held Back by an Underfunded NLRB\n    ",
+      "url": "/2022/07/union-organizing-nlrb-funding"
     },
     {
       "text": "\n      How Germany\u2019s Memory Culture Censors Palestinians\n    ",
@@ -1663,26 +1809,6 @@
     {
       "text": "\n      We Don\u2019t Need More Homeowners. We Need Public Housing.\n    ",
       "url": "/2022/07/housing-rights-social-ownership-market-solution"
-    },
-    {
-      "text": "\n      The GOP Is Dismantling Our Democracy. Democrats Are Letting Them Get Away With It.\n    ",
-      "url": "/2022/07/gop-democratic-party-failure-defend-rights-supreme-court"
-    },
-    {
-      "text": "\n      The Japanese Communist Party Has Been a Vital Presence in Japan\u2019s Politics\n    ",
-      "url": "/2022/07/japan-communist-party-history-politics-100-anniversary"
-    },
-    {
-      "text": "\n      New South Wales Public Sector Workers Are Striking Against the Cost-of-Living Crisis\n    ",
-      "url": "/2022/07/nsw-australia-workers-strikes-safety-wages"
-    },
-    {
-      "text": "\n      The Strenuous Comedy of Thor: Love and Thunder\n    ",
-      "url": "/2022/07/taika-waititi-thor-love-thunder-comedy-marvel"
-    },
-    {
-      "text": "\n      The Japanese Left Has a Complex and Turbulent History\n    ",
-      "url": "/2022/07/japan-new-old-left-jcp-long-60s"
     },
     {
       "text": "\n          \n  Facebook Icon\n  \n\n          Facebook\n        ",
@@ -1718,51 +1844,71 @@
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/french-left-nupes-vote-demographics-rural-voters-base"
+      "url": "/2022/07/paul-robeson-american-extreme-right-racism-civil-rights-socialists"
     },
     {
-      "text": "\n        France\u2019s Left Needs to Speak to All Parts of the Working Class\n      ",
-      "url": "/2022/07/french-left-nupes-vote-demographics-rural-voters-base"
+      "text": "\n        Paul Robeson Spent His Life Fighting Against America\u2019s Extreme Right\n      ",
+      "url": "/2022/07/paul-robeson-american-extreme-right-racism-civil-rights-socialists"
     },
     {
-      "text": "Fabien Escalona",
-      "url": "/author/fabien-escalona"
-    },
-    {
-      "text": "\n    \n  ",
-      "url": "/2022/07/rick-caruso-billionaire-la-mayor-race"
-    },
-    {
-      "text": "\n        Rick Caruso Is a Los Angeles Good Old Boy Posing as a Political Outsider\n      ",
-      "url": "/2022/07/rick-caruso-billionaire-la-mayor-race"
-    },
-    {
-      "text": "Abe Asher",
-      "url": "/author/abe-asher"
+      "text": "Joel Whitney",
+      "url": "/author/joel-whitney"
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/expropriate-canadas-new-pandemic-era-billionaires"
+      "url": "/2022/07/democratic-party-voter-base-biden-administration-rich-white-suburbs"
     },
     {
-      "text": "\n        Expropriate Canada\u2019s New Pandemic-Era Billionaires\n      ",
-      "url": "/2022/07/expropriate-canadas-new-pandemic-era-billionaires"
+      "text": "\n        The Democratic Base Keeps Getting Richer and Whiter\n      ",
+      "url": "/2022/07/democratic-party-voter-base-biden-administration-rich-white-suburbs"
     },
     {
-      "text": "Mitchell Thompson",
-      "url": "/author/mitchell-thompson"
+      "text": "Branko Marcetic",
+      "url": "/author/branko-marcetic"
     },
     {
       "text": "\n    \n  ",
-      "url": "/2022/07/brazilian-meat-beef-prices-affordability-inflation"
+      "url": "/2022/07/putin-war-russia-ukraine-empire-lies"
     },
     {
-      "text": "\n        Under Jair Bolsonaro, Meat Is Becoming an Unaffordable Luxury Item for Most Brazilians\n      ",
-      "url": "/2022/07/brazilian-meat-beef-prices-affordability-inflation"
+      "text": "\n        I Marched Against Putin\u2019s War for the Same Reason I Protested the War in Iraq\n      ",
+      "url": "/2022/07/putin-war-russia-ukraine-empire-lies"
     },
     {
-      "text": "Oscar Broughton",
-      "url": "/author/oscar-broughton"
+      "text": "Niko Vorobyov",
+      "url": "/author/niko-vorobyov"
+    },
+    {
+      "text": "\n    \n  ",
+      "url": "/2022/07/new-democrats-blue-centrist-clintonism-welfare-reform"
+    },
+    {
+      "text": "\n        How the Democrats Learned to Stop Worrying and Love the Free Market\n      ",
+      "url": "/2022/07/new-democrats-blue-centrist-clintonism-welfare-reform"
+    },
+    {
+      "text": "Maia Silber",
+      "url": "/author/maia-silber"
+    },
+    {
+      "text": "\n      The GOP Is Dismantling Our Democracy. Democrats Are Letting Them Get Away With It.\n    ",
+      "url": "/2022/07/gop-democratic-party-failure-defend-rights-supreme-court"
+    },
+    {
+      "text": "\n      The Japanese Communist Party Has Been a Vital Presence in Japan\u2019s Politics\n    ",
+      "url": "/2022/07/japan-communist-party-history-politics-100-anniversary"
+    },
+    {
+      "text": "\n      New South Wales Public Sector Workers Are Striking Against the Cost-of-Living Crisis\n    ",
+      "url": "/2022/07/nsw-australia-workers-strikes-safety-wages"
+    },
+    {
+      "text": "\n      The Strenuous Comedy of Thor: Love and Thunder\n    ",
+      "url": "/2022/07/taika-waititi-thor-love-thunder-comedy-marvel"
+    },
+    {
+      "text": "\n      The Japanese Left Has a Complex and Turbulent History\n    ",
+      "url": "/2022/07/japan-new-old-left-jcp-long-60s"
     },
     {
       "text": "\n      The Democrats Didn\u2019t Just Fail to Defend Social Programs. They Actively Undermined Them.\n    ",
@@ -1773,28 +1919,8 @@
       "url": "/2022/07/john-bolton-us-imperialism-antidemocratic-foreign-policy"
     },
     {
-      "text": "\n      Bolivia\u2019s Postcoup President Jeanine \u00c1\u00f1ez Has Been Brought to Justice\n    ",
+      "text": "\n      Bolivia\u2019s Coup President Jeanine \u00c1\u00f1ez Has Been Brought to Justice\n    ",
       "url": "/2022/07/bolivia-coup-anez-trial-violence-mas"
-    },
-    {
-      "text": "\n      In This Michigan Primary, Gig Workers\u2019 Rights Are on the Ballot\n    ",
-      "url": "/2022/07/michigan-primary-gig-workers-rights-prop-22-election-primary"
-    },
-    {
-      "text": "\n      To Celebrate Bastille Day, $7.89 Subscriptions\n    ",
-      "url": "/2022/07/party-like-its-1789"
-    },
-    {
-      "text": "\n      I Am Spending July 14 in Israel\u2019s Bastille as a Political Prisoner\n    ",
-      "url": "/2022/07/bastille-day-israel-palestine-salah-hamouri-macron"
-    },
-    {
-      "text": "\n      Ukraine\u2019s War Economy Is Being Choked by Neoliberal Dogmas\n    ",
-      "url": "/2022/07/ukraine-neoliberalism-war-russia-eu-imf"
-    },
-    {
-      "text": "\n      The Uber Leak Exposes Its Global War on Workers\n    ",
-      "url": "/2022/07/uber-files-leak-global-war-workers-lobbying"
     },
     {
       "text": "\n        \n        \n  Catalyst Logo\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n      ",
@@ -1885,10 +2011,10 @@
     "publicdate": "2022-07-04 21:54:25",
     "addeddate": "2022-07-04 21:54:25"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 553700423,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1645162729,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

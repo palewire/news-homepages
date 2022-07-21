@@ -1,5 +1,5 @@
 {
-  "created": 1658250612,
+  "created": 1658363033,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/18/items/jezebel-2022",
@@ -184,31 +184,157 @@
       "sha1": "1dda26a990e0eb3b804277fe2812d556cec69c00"
     },
     {
+      "name": "jezebel-2022-07-19T22:20:11.137043-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658283614",
+      "size": "35091",
+      "md5": "88b93bd67b23679754325313b2ccf429",
+      "crc32": "27deb737",
+      "sha1": "33e17112a5c50231a00e17070e7f525be3e04321",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-07-19T22:20:11.137043-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658283616",
+      "size": "15107",
+      "md5": "0dc45b8045907feec476313f133fd221",
+      "crc32": "f131fcf6",
+      "sha1": "d24961a5a037f69e2cbd8c010191039535d0de00",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-07-19T22:20:11.137043-04:00.jpg",
+      "source": "original",
+      "mtime": "1658283613",
+      "size": "269832",
+      "md5": "ba83e73b2877d313d87ee64a5834c45e",
+      "crc32": "8fb7b2fd",
+      "sha1": "d8d419e41857beac86ce742f19fc495935de3b50",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jezebel-2022-07-19T22:20:11.137043-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jezebel-2022-07-19T22:20:11.137043-04:00.jpg",
+      "mtime": "1658283738",
+      "size": "10549",
+      "md5": "7d9d664f6ac7bab82df8d5a84d682d43",
+      "crc32": "df3f084d",
+      "sha1": "55ecf2ace87eaf57c062c3e7b6e39f3d7520f2dc"
+    },
+    {
+      "name": "jezebel-2022-07-20T10:27:47.933945-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658327270",
+      "size": "30533",
+      "md5": "94cd115434cf72cf83e45e14bf5ffbb0",
+      "crc32": "da75e44a",
+      "sha1": "26dd0da054a992eb66018abb1025406330a35a18",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-07-20T10:27:47.933945-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658327272",
+      "size": "15018",
+      "md5": "0cacc8528f5b2118a34cd4baf3bc0f6d",
+      "crc32": "6421eb23",
+      "sha1": "386ee4cdc74c3bc607194b2b5c8dd7f6da936d01",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-07-20T10:27:47.933945-04:00.jpg",
+      "source": "original",
+      "mtime": "1658327269",
+      "size": "269805",
+      "md5": "3bd08cdd07b419dfea0f4257b9c2594f",
+      "crc32": "dc96ece9",
+      "sha1": "3eb964c1f913174ae1f15464172ef1ff7c47c49c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jezebel-2022-07-20T10:27:47.933945-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jezebel-2022-07-20T10:27:47.933945-04:00.jpg",
+      "mtime": "1658333243",
+      "size": "10551",
+      "md5": "7bf3acadb45386f26d0efdb28d192955",
+      "crc32": "441c8384",
+      "sha1": "2f611c4b88ac0d4bede431960097d19533dbcb55"
+    },
+    {
+      "name": "jezebel-2022-07-20T12:40:10.803292-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658335215",
+      "size": "34235",
+      "md5": "35cb51f96f5299854af86afac223a318",
+      "crc32": "c0f549e5",
+      "sha1": "3fa49c5ab6cfecd38cb25692a65eff27d2f1be3e",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-07-20T12:40:10.803292-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658335217",
+      "size": "15055",
+      "md5": "7dd2fab16859240d85d9b15b98f36b62",
+      "crc32": "3705109f",
+      "sha1": "48b6718e74820a1cc5cad907e3deef0394ea64d9",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-07-20T12:40:10.803292-04:00.jpg",
+      "source": "original",
+      "mtime": "1658335213",
+      "size": "272199",
+      "md5": "ae511149c7726570dfb8830c26c88424",
+      "crc32": "4dc02a2c",
+      "sha1": "1f8cc0c739224e1ddf44841895d6ae1763c6a306",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jezebel-2022-07-20T12:40:10.803292-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jezebel-2022-07-20T12:40:10.803292-04:00.jpg",
+      "mtime": "1658339116",
+      "size": "10273",
+      "md5": "2edf881b006e81763ac06995c95886a7",
+      "crc32": "689437bc",
+      "sha1": "cac5923e74c8138f20175b99cb629299c53da503"
+    },
+    {
       "name": "jezebel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a730be25c058d4ba46bd522e8dfe921c0faa612",
-      "mtime": "1658250572",
-      "size": "4961",
-      "md5": "65db2cb69096ebae939eb0f93f2f3cb2",
-      "crc32": "6e85e5a8",
-      "sha1": "cbdbbd1e781b37bcb2c00584f69f9767ad731aa8",
+      "btih": "4a0b72786e941816959979c572231e93a6704759",
+      "mtime": "1658339132",
+      "size": "7480",
+      "md5": "33fc0205fe4f6c60cb0f9a7c5112be6e",
+      "crc32": "e380de14",
+      "sha1": "71e306c9b273ea72a3531636cbdc6d1c4a53d86c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jezebel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8203325f8557156dd2824508890f8fca",
+      "md5": "f0a4db6012149bdd51f9515961e100bd",
       "summation": "md5"
     },
     {
       "name": "jezebel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658249736",
-      "size": "36864",
-      "md5": "48c89766a42b07b0462be1c7eec27f6e",
-      "crc32": "70623053",
-      "sha1": "c49fa48c719f408ec87839bc9d99632c055e0287",
+      "mtime": "1658335233",
+      "size": "49152",
+      "md5": "efef5aee032f5bd40f40182a35ab4902",
+      "crc32": "85ed0870",
+      "sha1": "c7d2dc9456930d6f40fa86f40b7f14a8986a3e91",
       "format": "Metadata"
     },
     {
@@ -222,9 +348,479 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 21,
-  "item_last_updated": 1658250572,
-  "item_size": 1468307,
+  "files_count": 33,
+  "item_last_updated": 1658339132,
+  "item_size": 2471362,
+  "jezebel-2022": [
+    {
+      "text": "00:56Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\nWho is Ken and What is \"Ken-ergy\"?",
+      "url": "https://jezebel.com/who-is-ken-and-what-is-kenergy-1849192201"
+    },
+    {
+      "text": "00:49Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\nGOP Congressman Spent His Sunday Daring Biden to \u2018Come and Get\u2019 His Guns",
+      "url": "https://jezebel.com/gop-congressman-spent-his-sunday-daring-biden-to-come-1849191660"
+    },
+    {
+      "text": "01:28Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\nRepublicans Pull Out All the Stupid Stops While Debating Abortion",
+      "url": "https://jezebel.com/republicans-pull-out-all-the-stupid-stops-while-debatin-1849184840"
+    },
+    {
+      "text": "01:04Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\nDoja Cat Needs a Little Offline Time",
+      "url": "https://jezebel.com/doja-cat-needs-a-little-offline-time-1849184529"
+    },
+    {
+      "text": "Jezebel",
+      "url": "https://jezebel.com/latest"
+    },
+    {
+      "text": "Show all",
+      "url": "https://jezebel.com/latest"
+    },
+    {
+      "text": "",
+      "url": "https://theinventory.com/15-off-sharkninja-for-black-friday-in-july-1849199017"
+    },
+    {
+      "text": "The Inventory",
+      "url": "https://theinventory.com"
+    },
+    {
+      "text": "15% Off SharkNinja for Black Friday in July",
+      "url": "https://theinventory.com/15-off-sharkninja-for-black-friday-in-july-1849199017"
+    },
+    {
+      "text": "Erin O'Brien",
+      "url": "/author/eobrien"
+    },
+    {
+      "text": "",
+      "url": "https://jezebel.com/elon-musks-dad-says-company-wants-his-sperm-to-impregna-1849199125"
+    },
+    {
+      "text": "Dirt Bag",
+      "url": "https://jezebel.com/celebrities/dirt-bag"
+    },
+    {
+      "text": "Elon Musk's Dad Says Company Wants His Sperm to Impregnate 'High-Class' Women",
+      "url": "https://jezebel.com/elon-musks-dad-says-company-wants-his-sperm-to-impregna-1849199125"
+    },
+    {
+      "text": "Gabrielle Bruney",
+      "url": "/author/gabriellebruney"
+    },
+    {
+      "text": "Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n",
+      "url": "https://jezebel.com/the-hate-watch-i-grew-to-love-sister-wives-1849197537"
+    },
+    {
+      "text": "Video",
+      "url": "https://jezebel.com/entertainment/video"
+    },
+    {
+      "text": "The Hate-Watch I Grew to Love: 'Sister Wives'",
+      "url": "https://jezebel.com/the-hate-watch-i-grew-to-love-sister-wives-1849197537"
+    },
+    {
+      "text": "Ezinne Ukoha",
+      "url": "/author/ezzie224"
+    },
+    {
+      "text": "Kady Ruth Ashcraft",
+      "url": "/author/kruth"
+    },
+    {
+      "text": "",
+      "url": "https://jezebel.com/michigan-s-highest-paid-public-employee-is-now-vocally-1849195804"
+    },
+    {
+      "text": "News",
+      "url": "https://jezebel.com/latest/news"
+    },
+    {
+      "text": "Michigan\u2019s Highest Paid Public Employee Is Now Vocally Anti-Abortion",
+      "url": "https://jezebel.com/michigan-s-highest-paid-public-employee-is-now-vocally-1849195804"
+    },
+    {
+      "text": "Caitlin Cruz",
+      "url": "/author/caitlincruz"
+    },
+    {
+      "text": "",
+      "url": "https://jezebel.com/prep-hiv-prevention-failures-successes-1849169554"
+    },
+    {
+      "text": "",
+      "url": "https://jezebel.com/prep-hiv-prevention-failures-successes-1849169554"
+    },
+    {
+      "text": "PrEP Gave Us a Tool for Ending HIV, But It Has Failed to DeliverOn its 10th anniversary, queer, Black, and Latinx communities are calling attention to the unfulfilled promise of this groundbreaking medication.",
+      "url": "https://jezebel.com/prep-hiv-prevention-failures-successes-1849169554"
+    },
+    {
+      "text": "Rich Juzwiak",
+      "url": "/author/richjuz"
+    },
+    {
+      "text": "Jezebel Deals of the Day",
+      "url": "https://kinjadeals.theinventory.com"
+    },
+    {
+      "text": "View all",
+      "url": "https://kinjadeals.theinventory.com"
+    },
+    {
+      "text": "",
+      "url": "https://theinventory.com/best-deals-of-the-day-lg-tv-leantravel-packing-cubes-1847628359"
+    },
+    {
+      "text": "Best Deals of the Day: JBL Headphones, Oral-B Toothbrush, BetterHelp,...",
+      "url": "https://theinventory.com/best-deals-of-the-day-lg-tv-leantravel-packing-cubes-1847628359"
+    },
+    {
+      "text": "",
+      "url": "https://www.amazon.com/gp/product/B0933D3SN6?ots=1&slotNum=0&imprToken=50c1066e-e701-7a17-030&asc_campaign=InlineText&asc_refurl=https://theinventory.com/take-19-off-on-the-apple-tv-4k-and-complete-your-voltr-1848488785&asc_source=theinventory.com&tag=kinjainventorylink-20"
+    },
+    {
+      "text": "Apple TV 4KThe apps are intuitive, the playback is crystal clear, and the newly redesigned remote finally works like it\u2019s supposed to: as a TV remote.",
+      "url": "https://www.amazon.com/gp/product/B0933D3SN6?ots=1&slotNum=0&imprToken=50c1066e-e701-7a17-030&asc_campaign=InlineText&asc_refurl=https://theinventory.com/take-19-off-on-the-apple-tv-4k-and-complete-your-voltr-1848488785&asc_source=theinventory.com&tag=kinjainventorylink-20"
+    },
+    {
+      "text": "",
+      "url": "https://www.amazon.com/dp/B09JQMJHXY?psc=1&linkCode=ogi&th=1&smid=ATVPDKIKX0DER"
+    },
+    {
+      "text": "Apple AirPods ProThese earbuds have active noise cancellation, transparency mode, and active EQ.",
+      "url": "https://www.amazon.com/dp/B09JQMJHXY?psc=1&linkCode=ogi&th=1&smid=ATVPDKIKX0DER"
+    },
+    {
+      "text": "Politics",
+      "url": "https://jezebel.com/politics"
+    },
+    {
+      "text": "Show all",
+      "url": "https://jezebel.com/politics"
+    },
+    {
+      "text": "Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n",
+      "url": "https://jezebel.com/activist-explains-self-managed-abortions-in-congression-1849196907"
+    },
+    {
+      "text": "Video",
+      "url": "https://jezebel.com/politics/video"
+    },
+    {
+      "text": "Activist Explains Self-Managed Abortions in Congressional Hearing",
+      "url": "https://jezebel.com/activist-explains-self-managed-abortions-in-congression-1849196907"
+    },
+    {
+      "text": "Kady Ruth Ashcraft",
+      "url": "/author/kruth"
+    },
+    {
+      "text": "",
+      "url": "https://jezebel.com/abortion-provider-who-cared-for-10-year-old-rape-surviv-1849195190"
+    },
+    {
+      "text": "Abortion",
+      "url": "https://jezebel.com/politics/abortion"
+    },
+    {
+      "text": "Abortion Provider Who Cared for 10-Year-Old Rape Survivor Launches Defamation Case Against Indiana A.G.",
+      "url": "https://jezebel.com/abortion-provider-who-cared-for-10-year-old-rape-surviv-1849195190"
+    },
+    {
+      "text": "Susan Rinkunas",
+      "url": "/author/susanrinkunas"
+    },
+    {
+      "text": "",
+      "url": "https://jezebel.com/louisiana-woman-was-subjected-to-painful-hours-long-l-1849194953"
+    },
+    {
+      "text": "Abortion",
+      "url": "https://jezebel.com/politics/abortion"
+    },
+    {
+      "text": "Louisiana Woman Was Subjected to \u2018Painful, Hours-Long' Labor to Birth Dead Fetus",
+      "url": "https://jezebel.com/louisiana-woman-was-subjected-to-painful-hours-long-l-1849194953"
+    },
+    {
+      "text": "Kylie Cheung",
+      "url": "/author/kcheung"
+    },
+    {
+      "text": "Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n",
+      "url": "https://jezebel.com/gop-congressman-spent-his-sunday-daring-biden-to-come-1849191660"
+    },
+    {
+      "text": "News",
+      "url": "https://jezebel.com/politics/news"
+    },
+    {
+      "text": "Rep. Ronny Jackson Got Real Riled Up On a Sunday",
+      "url": "https://jezebel.com/gop-congressman-spent-his-sunday-daring-biden-to-come-1849191660"
+    },
+    {
+      "text": "Kady Ruth Ashcraft",
+      "url": "/author/kruth"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://jezebel.com/entertainment"
+    },
+    {
+      "text": "Show all",
+      "url": "https://jezebel.com/entertainment"
+    },
+    {
+      "text": "Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n",
+      "url": "https://jezebel.com/the-hate-watch-i-grew-to-love-sister-wives-1849197537"
+    },
+    {
+      "text": "Video",
+      "url": "https://jezebel.com/entertainment/video"
+    },
+    {
+      "text": "The Hate-Watch I Grew to Love: 'Sister Wives'",
+      "url": "https://jezebel.com/the-hate-watch-i-grew-to-love-sister-wives-1849197537"
+    },
+    {
+      "text": "Ezinne Ukoha",
+      "url": "/author/ezzie224"
+    },
+    {
+      "text": "Kady Ruth Ashcraft",
+      "url": "/author/kruth"
+    },
+    {
+      "text": "",
+      "url": "https://jezebel.com/aftershock-examines-the-fallout-of-the-black-maternal-m-1849195954"
+    },
+    {
+      "text": "Movies",
+      "url": "https://jezebel.com/entertainment/movies"
+    },
+    {
+      "text": "'Aftershock' Examines the Fallout of the Black Maternal Mortality Crisis",
+      "url": "https://jezebel.com/aftershock-examines-the-fallout-of-the-black-maternal-m-1849195954"
+    },
+    {
+      "text": "Gabrielle Bruney",
+      "url": "/author/gabriellebruney"
+    },
+    {
+      "text": "",
+      "url": "https://jezebel.com/persuasion-isn-t-great-but-it-isn-t-that-fucking-bad-1849194493"
+    },
+    {
+      "text": "Movies",
+      "url": "https://jezebel.com/entertainment/movies"
+    },
+    {
+      "text": "'Persuasion' Isn't Great, But It Isn't That Bad",
+      "url": "https://jezebel.com/persuasion-isn-t-great-but-it-isn-t-that-fucking-bad-1849194493"
+    },
+    {
+      "text": "Lauren Tousignant",
+      "url": "/author/ltousignant"
+    },
+    {
+      "text": "Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n",
+      "url": "https://jezebel.com/who-is-ken-and-what-is-kenergy-1849192201"
+    },
+    {
+      "text": "Movies",
+      "url": "https://jezebel.com/entertainment/movies"
+    },
+    {
+      "text": "Who Is Ken and What Is \"Kenergy\"?",
+      "url": "https://jezebel.com/who-is-ken-and-what-is-kenergy-1849192201"
+    },
+    {
+      "text": "Kady Ruth Ashcraft",
+      "url": "/author/kruth"
+    },
+    {
+      "text": "Audra Heinrichs",
+      "url": "/author/audraheinrichs"
+    },
+    {
+      "text": "Style",
+      "url": "https://jezebel.com/style"
+    },
+    {
+      "text": "Show all",
+      "url": "https://jezebel.com/style"
+    },
+    {
+      "text": "",
+      "url": "https://jezebel.com/miami-swim-week-2022-armed-models-ninja-turtle-pecs-1849196307"
+    },
+    {
+      "text": "Fashion",
+      "url": "https://jezebel.com/style/fashion"
+    },
+    {
+      "text": "Miami Swim Week 2022: Armed Models, Ninja Turtle Pecs, and a Vagina Moth",
+      "url": "https://jezebel.com/miami-swim-week-2022-armed-models-ninja-turtle-pecs-1849196307"
+    },
+    {
+      "text": "Lauren Tousignant",
+      "url": "/author/ltousignant"
+    },
+    {
+      "text": "",
+      "url": "https://jezebel.com/whats-the-deal-with-tape-bikinis-1849195144"
+    },
+    {
+      "text": "Fashion",
+      "url": "https://jezebel.com/style/fashion"
+    },
+    {
+      "text": "What's the Deal With 'Tape Bikinis?'",
+      "url": "https://jezebel.com/whats-the-deal-with-tape-bikinis-1849195144"
+    },
+    {
+      "text": "Caitlin Cruz",
+      "url": "/author/caitlincruz"
+    },
+    {
+      "text": "",
+      "url": "https://jezebel.com/florence-pugh-freed-the-nipple-and-these-visionaries-h-1849165334"
+    },
+    {
+      "text": "Fashion",
+      "url": "https://jezebel.com/style/fashion"
+    },
+    {
+      "text": "Florence Pugh Freed the Nipple, and These Visionaries Helped Pave the Way Before Her",
+      "url": "https://jezebel.com/florence-pugh-freed-the-nipple-and-these-visionaries-h-1849165334"
+    },
+    {
+      "text": "Kylie Cheung",
+      "url": "/author/kcheung"
+    },
+    {
+      "text": "Fashion",
+      "url": "https://jezebel.com/style/fashion"
+    },
+    {
+      "text": "What's the Deal With 'Tape Bikinis?'",
+      "url": "https://jezebel.com/whats-the-deal-with-tape-bikinis-1849195144"
+    },
+    {
+      "text": "Abortion",
+      "url": "https://jezebel.com/politics/abortion"
+    },
+    {
+      "text": "Louisiana Woman Was Subjected to \u2018Painful, Hours-Long' Labor to Birth Dead Fetus",
+      "url": "https://jezebel.com/louisiana-woman-was-subjected-to-painful-hours-long-l-1849194953"
+    },
+    {
+      "text": "Dirt Bag",
+      "url": "https://jezebel.com/celebrities/dirt-bag"
+    },
+    {
+      "text": "Elon Musk's Dad Says Company Wants His Sperm to Impregnate 'High-Class' Women",
+      "url": "https://jezebel.com/elon-musks-dad-says-company-wants-his-sperm-to-impregna-1849199125"
+    },
+    {
+      "text": "Sexual Health",
+      "url": "https://jezebel.com/health/sexual-health"
+    },
+    {
+      "text": "Post-Roe, Porn Actors Are Avoiding 'Creampie' Scenes & Pivoting to Girl-on-Girl",
+      "url": "https://jezebel.com/post-roe-porn-actors-are-avoiding-creampie-scenes-pi-1849195605"
+    },
+    {
+      "text": "Abortion",
+      "url": "https://jezebel.com/politics/abortion"
+    },
+    {
+      "text": "Just 3 Weeks Post-Roe, The Stories Emerging Are Worse Than Anyone Imagined",
+      "url": "https://jezebel.com/just-3-weeks-post-roe-the-stories-emerging-are-worse-t-1849188588"
+    },
+    {
+      "text": "",
+      "url": "https://deadspin.com/lebron-james-told-the-truth-about-brittney-griner-and-b-1849195091"
+    },
+    {
+      "text": "Deadspin",
+      "url": "https://deadspin.com"
+    },
+    {
+      "text": "LeBron James told the truth about Brittney Griner and Boston\u2026 people got mad \u2014 in other news, water is wet",
+      "url": "https://deadspin.com/lebron-james-told-the-truth-about-brittney-griner-and-b-1849195091"
+    },
+    {
+      "text": "",
+      "url": "https://deadspin.com/under-pressure-these-qbs-need-to-produce-in-2022-or-th-1849197170"
+    },
+    {
+      "text": "Deadspin",
+      "url": "https://deadspin.com"
+    },
+    {
+      "text": "Under pressure: These QBs need to produce in 2022 or they could lose their jobs",
+      "url": "https://deadspin.com/under-pressure-these-qbs-need-to-produce-in-2022-or-th-1849197170"
+    },
+    {
+      "text": "Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n",
+      "url": "https://jezebel.com/who-is-ken-and-what-is-kenergy-1849192201"
+    },
+    {
+      "text": "Movies",
+      "url": "https://jezebel.com/entertainment/movies"
+    },
+    {
+      "text": "Who Is Ken and What Is \"Kenergy\"?",
+      "url": "https://jezebel.com/who-is-ken-and-what-is-kenergy-1849192201"
+    },
+    {
+      "text": "",
+      "url": "https://kotaku.com/magnus-carlsen-world-chess-championship-2023-1849199392"
+    },
+    {
+      "text": "Kotaku",
+      "url": "https://kotaku.com"
+    },
+    {
+      "text": "5-Time World Chess Champion Won't Defend Title, Doesn't Care Anymore",
+      "url": "https://kotaku.com/magnus-carlsen-world-chess-championship-2023-1849199392"
+    },
+    {
+      "text": "",
+      "url": "https://deadspin.com/lebron-james-told-the-truth-about-brittney-griner-and-b-1849195091"
+    },
+    {
+      "text": "LeBron James told the truth about Brittney Griner and Boston\u2026 people got mad \u2014 in other news, water is wet",
+      "url": "https://deadspin.com/lebron-james-told-the-truth-about-brittney-griner-and-b-1849195091"
+    },
+    {
+      "text": "",
+      "url": "https://deadspin.com/under-pressure-these-qbs-need-to-produce-in-2022-or-th-1849197170"
+    },
+    {
+      "text": "Under pressure: These QBs need to produce in 2022 or they could lose their jobs",
+      "url": "https://deadspin.com/under-pressure-these-qbs-need-to-produce-in-2022-or-th-1849197170"
+    },
+    {
+      "text": "Now playing\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n",
+      "url": "https://jezebel.com/who-is-ken-and-what-is-kenergy-1849192201"
+    },
+    {
+      "text": "Who Is Ken and What Is \"Kenergy\"?",
+      "url": "https://jezebel.com/who-is-ken-and-what-is-kenergy-1849192201"
+    },
+    {
+      "text": "",
+      "url": "https://kotaku.com/magnus-carlsen-world-chess-championship-2023-1849199392"
+    },
+    {
+      "text": "5-Time World Chess Champion Won't Defend Title, Doesn't Care Anymore",
+      "url": "https://kotaku.com/magnus-carlsen-world-chess-championship-2023-1849199392"
+    }
+  ],
   "metadata": {
     "identifier": "jezebel-2022",
     "collection": [
@@ -241,10 +837,10 @@
     "publicdate": "2022-07-18 17:50:14",
     "addeddate": "2022-07-18 17:50:14"
   },
-  "server": "ia902508.us.archive.org",
-  "uniq": 593288400,
+  "server": "ia802508.us.archive.org",
+  "uniq": 612318657,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }
