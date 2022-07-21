@@ -58,7 +58,7 @@ Bundles are collections of sites that are grouped together for archiving, presen
 
 ### Scheduling actions
 
-While all sites in our directory are archived at least two times per day, bundles can have additional archiving runs scheduled via GitHub Actions. This allow for optimizing our runs for local time and also results in a tweet automatically posted to the [@newshomepages](https://twitter.com/newshomepages) account.
+While all sites in our directory are archived at least two times per day, bundles can have additional archiving runs scheduled via GitHub Actions. This allows for optimizing our runs for local time and also results in a tweet automatically posted to the [@newshomepages](https://twitter.com/newshomepages) account.
 
 Adding a new batch run requires creating a new YAML file in the `.github/workflows` directory that inherits from a reusable workflow shared by similar files. It should be named `archive-your-bundle-slug.yml`. If you'd like to schedule a new bundle run, submit a file like this via pull request. You should only need to customize the name, the cron and the bundle.
 
