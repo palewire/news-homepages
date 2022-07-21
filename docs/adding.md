@@ -12,7 +12,7 @@
 
 ### 1. Add record to `sites.csv` file
 
-Adding a new site requires that a new row be added to [`sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv) with, at a minimum, the Twitter handle, URL, name, location and timezone of the target. You can also override the system’s default by adding an optional attribute for the time delay before the screenshot, which, if provided, is expected in milliseconds.
+Adding a new site requires that a new row be added to [`sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv) with, at a minimum, the Twitter handle, URL, name, location and timezone of the target. Time zones should be provided in [Python's standard formatting scheme](https://gist.github.com/heyalexej/8bf688fd67d7199be4a1682b3eec7568). You can override the system’s default by adding an optional attribute for the time delay before the screenshot, which, if provided, is expected in milliseconds.
 
 ### Test the screenshot
 
