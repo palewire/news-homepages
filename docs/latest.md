@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 560 news sites.
+The most recent homepages captured from 561 news sites.
 
 <div class="latest-parent">
 
@@ -2930,6 +2930,15 @@ The most recent homepages captured from 560 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/mlnow.html">Mission Local</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mstodaynews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mstodaynews.jpg"
+     alt="Mississippi Today"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/mstodaynews.html">Mississippi Today</a></p>
 </div>
 
 <div class="latest-child">

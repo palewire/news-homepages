@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 560 sites.
+The archiving routine is currently capturing 561 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -334,6 +334,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Minneapolis Star Tribune](https://palewi.re/docs/news-homepages/sites/startribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/startribune.xml)|
 |[MinnPost](https://palewi.re/docs/news-homepages/sites/minnpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/minnpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/minnpost.xml)|
 |[Mission Local](https://palewi.re/docs/news-homepages/sites/mlnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mlnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mlnow.xml)|
+|[Mississippi Today](https://palewi.re/docs/news-homepages/sites/mstodaynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mstodaynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mstodaynews.xml)|
 |[Missouri Independent](https://palewi.re/docs/news-homepages/sites/mo_independent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mo_independent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mo_independent.xml)|
 |[Mongabay](https://palewi.re/docs/news-homepages/sites/mongabay.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mongabay.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mongabay.xml)|
 |[Montana Free Press](https://palewi.re/docs/news-homepages/sites/mtfreepress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtfreepress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtfreepress.xml)|
