@@ -24,7 +24,7 @@ pipenv run python -m newshomepages.screenshot your-handle
 
 ### Hide ads and popups
 
-If there are popups or ads that interfere with the screenshot, our aim to eliminate them via JavaScript.
+If there are popups or ads that interfere with the screenshot, our aim is to eliminate them via JavaScript.
 
 There are two techniques for acheiving the goal:
 
