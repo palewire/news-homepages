@@ -42,9 +42,15 @@ This method also can accomodate more complicated manipulations of the page. Cons
 
 ### Add to a bundle
 
-Then you should link the site’s row to one of the topical bundles defined in [`sources/bundles.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/bundles.csv). This is done by putting the slug of the desired bundle into your site’s bundle field.
+Then you should link the site’s row to one or more of the topical bundles defined in [`sources/bundles.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/bundles.csv). This is done by putting the slugs of the desired bundles into your site’s bundle field.
 
-If an suitable bundle does not exist, you can add one to the bundle data file, as described below.
+If you'd like to link a site with more than bundle, you should separate the slugs with `|`. For example, MSNBC is bundled with both national news outlets and left wing sites. So it's bundle field looks like:
+
+```
+us-nationa|us-left-wing
+```
+
+If an suitable bundle for your site does not exist, you can add one to the separate bundle data file, as described below.
 
 ## Adding a bundle
 
