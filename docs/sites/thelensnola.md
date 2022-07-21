@@ -17,7 +17,7 @@ orphan: true
 | Location       | New Orleans                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 24 screenshots stored at the Internet Archive.
+The archiving routine has captured 25 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
