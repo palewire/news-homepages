@@ -4886,15 +4886,6 @@ The most recent homepages captured from 561 news sites.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/wrblnews3.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrblnews3.jpg"
-     alt="WBRL News 3"
-     loading="lazy">
- </a>
- <p><a href="./sites/wrblnews3.html">WBRL News 3</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/wfaa.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wfaa.jpg"
      alt="WFAA"
@@ -4973,6 +4964,15 @@ The most recent homepages captured from 561 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/thewrap.html">Wrap</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wrblnews3.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrblnews3.jpg"
+     alt="WRBL News 3"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/wrblnews3.html">WRBL News 3</a></p>
 </div>
 
 <div class="latest-child">

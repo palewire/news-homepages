@@ -275,10 +275,10 @@ The most recent homepages from 35 news sites in this bundle.
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/wrblnews3.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrblnews3.jpg"
-     alt="WBRL News 3"
+     alt="WRBL News 3"
      loading="lazy">
  </a>
- <p><a href="../sites/wrblnews3.html">WBRL News 3</a></p>
+ <p><a href="../sites/wrblnews3.html">WRBL News 3</a></p>
 </div>
 
 <div class="latest-child">
@@ -370,7 +370,7 @@ The most recent homepages from 35 news sites in this bundle.
 |[WALB News 10](https://palewi.re/docs/news-homepages/sites/walbnews10.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/walbnews10.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/walbnews10.xml)|
 |[Fox 31 WFXL-TV](https://palewi.re/docs/news-homepages/sites/wfxl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wfxl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wfxl.xml)|
 |[WJBF](https://palewi.re/docs/news-homepages/sites/wjbf.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wjbf.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wjbf.xml)|
-|[WBRL News 3](https://palewi.re/docs/news-homepages/sites/wrblnews3.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrblnews3.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wrblnews3.xml)|
+|[WRBL News 3](https://palewi.re/docs/news-homepages/sites/wrblnews3.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrblnews3.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wrblnews3.xml)|
 |[News 12 NBC 26](https://palewi.re/docs/news-homepages/sites/wrdw_wagt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrdw_wagt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wrdw_wagt.xml)|
 |[WSAV News 3](https://palewi.re/docs/news-homepages/sites/wsav.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wsav.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wsav.xml)|
 |[WSB-TV](https://palewi.re/docs/news-homepages/sites/wsbtv.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wsbtv.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wsbtv.xml)|

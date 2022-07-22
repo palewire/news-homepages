@@ -5,13 +5,13 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# WBRL News 3
+# WRBL News 3
 
-![WBRL News 3](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrblnews3.jpg)
+![WRBL News 3](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrblnews3.jpg)
 
 | Attribute      | Value                                                                               |
 | :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.wbrl.com](https://www.wbrl.com)                                                    |
+| Site           | [https://www.wrbl.com/](https://www.wrbl.com/)                                                    |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wrblnews3.xml) |
 | Twitter handle | [@wrblnews3](https://www.twitter.com/wrblnews3)                     |
 | Location       | Columbus                                                                 |

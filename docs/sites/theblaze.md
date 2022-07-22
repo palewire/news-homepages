@@ -17,7 +17,7 @@ orphan: true
 | Location       | Irving                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 196 screenshots stored at the Internet Archive.
+The archiving routine has captured 197 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

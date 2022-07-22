@@ -17,7 +17,7 @@ orphan: true
 | Location       | Burlington                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 91 screenshots stored at the Internet Archive.
+The archiving routine has captured 92 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

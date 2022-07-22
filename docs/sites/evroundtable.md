@@ -17,7 +17,7 @@ orphan: true
 | Location       | Evanston                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 37 screenshots stored at the Internet Archive.
+The archiving routine has captured 38 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

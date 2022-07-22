@@ -17,7 +17,7 @@ orphan: true
 | Location       | Palo Alto                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 63 screenshots stored at the Internet Archive.
+The archiving routine has captured 64 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

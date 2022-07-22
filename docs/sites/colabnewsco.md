@@ -17,7 +17,7 @@ orphan: true
 | Location       | Denver                                                                 |
 | Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 26 screenshots stored at the Internet Archive.
+The archiving routine has captured 27 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
