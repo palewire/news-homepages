@@ -1,5 +1,5 @@
 {
-  "created": 1658449909,
+  "created": 1658492589,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/5/items/uvaldenews-2022",
@@ -394,31 +394,73 @@
       "sha1": "8e1b9f969a0d9970665e6dc900c05353403f3941"
     },
     {
+      "name": "uvaldenews-2022-07-21T23:34:45.433384-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658464490",
+      "size": "20320",
+      "md5": "538b48d2bf5c4d6720cb85a7e9728405",
+      "crc32": "551528f1",
+      "sha1": "02f8736788077683c7140e1e8377b6f282b81c7a",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-07-21T23:34:45.433384-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658464491",
+      "size": "17326",
+      "md5": "5012463b31302641bd6bb20fda389bdb",
+      "crc32": "f69d7c35",
+      "sha1": "860304c249314b72df52a076c796ae3caaa0c148",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-07-21T23:34:45.433384-05:00.jpg",
+      "source": "original",
+      "mtime": "1658464487",
+      "size": "221823",
+      "md5": "7be4ec4746112be58c7223dd49db3088",
+      "crc32": "af2bf393",
+      "sha1": "346afd802bcf56ae9a33e811d5c71a863226abb0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uvaldenews-2022-07-21T23:34:45.433384-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uvaldenews-2022-07-21T23:34:45.433384-05:00.jpg",
+      "mtime": "1658476713",
+      "size": "9960",
+      "md5": "ec9095e712d47060f79845ff66e6f279",
+      "crc32": "d24da6d8",
+      "sha1": "8e1b9f969a0d9970665e6dc900c05353403f3941"
+    },
+    {
       "name": "uvaldenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98c06562535cf9f58c52a9191582066a79016ddb",
-      "mtime": "1658432005",
-      "size": "9255",
-      "md5": "b35b77b96a2bcec4a25ced29fa593e17",
-      "crc32": "b51351c5",
-      "sha1": "27a86616378065f796249f1f781ec45b444e30ae",
+      "btih": "1854739d647d465fa39fdbb6dc494451d876eb1b",
+      "mtime": "1658476718",
+      "size": "10092",
+      "md5": "ea141c8ce08a85859b046f5577227228",
+      "crc32": "7b40f3cb",
+      "sha1": "00caa0f92445341efc7b707f92bee16a954664f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uvaldenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d01423f711e3ab74b23260f036fda407",
+      "md5": "6acfbcae4f6ac8fcbc2fe22d0684bd24",
       "summation": "md5"
     },
     {
       "name": "uvaldenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658422689",
-      "size": "57344",
-      "md5": "bcd3716b2e556e2e08e080159088eede",
-      "crc32": "9b9e101a",
-      "sha1": "c0d02116a96442c8f181f711e2250486d83a673c",
+      "mtime": "1658464494",
+      "size": "61440",
+      "md5": "53192503be8b4ad41bd7a5c42678b19a",
+      "crc32": "6d2a6db8",
+      "sha1": "8290e3ce413a1adf3d3b258801a36ed93442de71",
       "format": "Metadata"
     },
     {
@@ -432,9 +474,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 41,
-  "item_last_updated": 1658432005,
-  "item_size": 2343127,
+  "files_count": 45,
+  "item_last_updated": 1658476718,
+  "item_size": 2617489,
   "metadata": {
     "identifier": "uvaldenews-2022",
     "collection": [
@@ -451,8 +493,8 @@
     "publicdate": "2022-07-18 00:05:55",
     "addeddate": "2022-07-18 00:05:55"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1615874490,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1401171886,
   "uvaldenews-2022": [
     {
       "text": "E-Edition",
@@ -1104,7 +1146,7 @@
     }
   ],
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

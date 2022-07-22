@@ -385,7 +385,7 @@
       "url": "http://www.americanpublicmedia.org/privacy/"
     }
   ],
-  "created": 1658449099,
+  "created": 1658491624,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/32/items/apmreports-2022",
@@ -4244,31 +4244,73 @@
       "sha1": "a401dd1180739d24a67460aa5f0e7a43e1347bb2"
     },
     {
+      "name": "apmreports-2022-07-21T20:03:57.349594-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658451842",
+      "size": "13637",
+      "md5": "05d905a6a757220aada61cd0b9cf746c",
+      "crc32": "9c789209",
+      "sha1": "fae678d7b7dba5b0fb7523c77c20affca75bb424",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-07-21T20:03:57.349594-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658451844",
+      "size": "10912",
+      "md5": "584603b3a3dfa273726b5e21f2905d91",
+      "crc32": "b3168399",
+      "sha1": "0c660c82357ab2c40e6282e5b881ad6122ee725e",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-07-21T20:03:57.349594-05:00.jpg",
+      "source": "original",
+      "mtime": "1658451839",
+      "size": "328442",
+      "md5": "d78f2367f661c1e7937ce33d5bac5d5c",
+      "crc32": "ab04082d",
+      "sha1": "e5ab9d3d533f81462f687c8b6e57d929f0472bf1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "apmreports-2022-07-21T20:03:57.349594-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "apmreports-2022-07-21T20:03:57.349594-05:00.jpg",
+      "mtime": "1658457440",
+      "size": "10777",
+      "md5": "a07ff38fe63e32aa3ebe1004d8644f53",
+      "crc32": "53d5663f",
+      "sha1": "a401dd1180739d24a67460aa5f0e7a43e1347bb2"
+    },
+    {
       "name": "apmreports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2631702262061e12eb5824847619ef1aac80aa85",
-      "mtime": "1658418061",
-      "size": "79594",
-      "md5": "0954720b7f42bbd932ff4ac7ec8e3e1c",
-      "crc32": "d7cc60eb",
-      "sha1": "9dd001b2a9389dc02a38d197aa08d16d44332dc5",
+      "btih": "9b51f3f1d2bd8ad9954578c3d4de062837a9817b",
+      "mtime": "1658457468",
+      "size": "80452",
+      "md5": "1570bee5c01afe108b366f1365b72b61",
+      "crc32": "8ea13c7d",
+      "sha1": "64507d0e2ded28ad051d06164a9c7f485db0c3c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "apmreports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "357427978768bd3ed10c65a2099d9fe8",
+      "md5": "b626361c956b20015e0cc7a9e1942d56",
       "summation": "md5"
     },
     {
       "name": "apmreports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658407838",
-      "size": "442368",
-      "md5": "24c70ea16dd7c76a229f510cd53a1aa6",
-      "crc32": "73a904fe",
-      "sha1": "a8a0f1f73ff55b1d1de37ca517082c0d96d40d5e",
+      "mtime": "1658451847",
+      "size": "446464",
+      "md5": "566d7833846ab87b215b9db3c097c7bb",
+      "crc32": "e05e1eb2",
+      "sha1": "9bcaa26656f608a20fb2eb66ac83ce11d80b1e74",
       "format": "Metadata"
     },
     {
@@ -4282,9 +4324,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 371,
-  "item_last_updated": 1658418061,
-  "item_size": 33350694,
+  "files_count": 375,
+  "item_last_updated": 1658457468,
+  "item_size": 33719416,
   "metadata": {
     "identifier": "apmreports-2022",
     "collection": [
@@ -4302,7 +4344,7 @@
     "addeddate": "2022-06-19 23:22:49"
   },
   "server": "ia802504.us.archive.org",
-  "uniq": 289886148,
+  "uniq": 781263463,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

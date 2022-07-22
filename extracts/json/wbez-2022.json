@@ -1,5 +1,5 @@
 {
-  "created": 1658432302,
+  "created": 1658492619,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/wbez-2022",
@@ -3680,31 +3680,73 @@
       "sha1": "828aa8208511356cc41bb6e778a6bf80091f2ad7"
     },
     {
+      "name": "wbez-2022-07-21T23:36:04.704103-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658464567",
+      "size": "18600",
+      "md5": "167c1f5a1e40a1fa6902550981c6bbcb",
+      "crc32": "257762e8",
+      "sha1": "59587049e4d7ac2bb9dc93b7639c735b5d550b67",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-21T23:36:04.704103-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658464569",
+      "size": "13484",
+      "md5": "b7039c66c2e3b2b6a30aa24fba3ff381",
+      "crc32": "a6ca7905",
+      "sha1": "ccded453dc8cb54a2a6e7832b2683cde71a506bb",
+      "format": "JSON"
+    },
+    {
+      "name": "wbez-2022-07-21T23:36:04.704103-05:00.jpg",
+      "source": "original",
+      "mtime": "1658464566",
+      "size": "286849",
+      "md5": "63933c92111105ae6ede5969eab1535e",
+      "crc32": "72b4a043",
+      "sha1": "5372147a57c81a63579d8d46e182f860e02ac6c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbez-2022-07-21T23:36:04.704103-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-07-21T23:36:04.704103-05:00.jpg",
+      "mtime": "1658477106",
+      "size": "9869",
+      "md5": "6b173b0b0d18296c6582a0fb4b2b41fe",
+      "crc32": "b2f3fd92",
+      "sha1": "b4de3a68476fc1b9ab587e62e53a65363b776d48"
+    },
+    {
       "name": "wbez-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84df596930d4d6f736ab0fd24e9e55dc0d2c6e03",
-      "mtime": "1658432263",
-      "size": "73746",
-      "md5": "9d1cf6262d239550ef9681751759ee30",
-      "crc32": "a58e98dd",
-      "sha1": "c75a68b95842d5106fda4e00d0b24c8f6893d5fc",
+      "btih": "dc8cd8d51b3a4c345c39cd9f3dbeb427492928ad",
+      "mtime": "1658477117",
+      "size": "74559",
+      "md5": "94f80dbaec7c67f33bb5d48e808f54ef",
+      "crc32": "666ee3a9",
+      "sha1": "788fabbf679e9c79ab27ac5c9c72ed2ccb4fd897",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wbez-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1d050cd32ce4aaaaec4beb1590a22c4",
+      "md5": "9220e815ff2f2c8a48a6675be7869034",
       "summation": "md5"
     },
     {
       "name": "wbez-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658423102",
-      "size": "417792",
-      "md5": "4c1d9234bc3a534ac48ba01b40e8c328",
-      "crc32": "4722b26e",
-      "sha1": "cf2c4cd98568ee555945041ea64646013c902581",
+      "mtime": "1658464573",
+      "size": "421888",
+      "md5": "cd296ee76e3cc3a87ba5adbb79ed748a",
+      "crc32": "396c1bc2",
+      "sha1": "c70f624ed7e5a62289def0eed28ca5eebb0d59bd",
       "format": "Metadata"
     },
     {
@@ -3718,9 +3760,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 354,
-  "item_last_updated": 1658432263,
-  "item_size": 30654331,
+  "files_count": 358,
+  "item_last_updated": 1658477117,
+  "item_size": 30988042,
   "metadata": {
     "identifier": "wbez-2022",
     "collection": [
@@ -3737,10 +3779,380 @@
     "publicdate": "2022-06-24 23:03:38",
     "addeddate": "2022-06-24 23:03:38"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 1360357471,
+  "server": "ia802505.us.archive.org",
+  "uniq": 648450230,
+  "wbez-2022": [
+    {
+      "text": "\n      Skip to main content\n    ",
+      "url": "#maincontent"
+    },
+    {
+      "text": "Home ",
+      "url": "/"
+    },
+    {
+      "text": "\n          Listen Live\n          ",
+      "url": "/#player"
+    },
+    {
+      "text": "\n          Search ",
+      "url": "/search"
+    },
+    {
+      "text": "\n          Menu\n          ",
+      "url": "/#menu"
+    },
+    {
+      "text": "\n          Donate ",
+      "url": "https://donate.wbez.org/?affordance_placement=header"
+    },
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "    ",
+      "url": "/#player"
+    },
+    {
+      "text": "",
+      "url": "/search"
+    },
+    {
+      "text": "",
+      "url": "/#menu"
+    },
+    {
+      "text": "\n        A Chicago cop who took a gun off the street gets fired for how she did it\n      ",
+      "url": "/stories/chicago-cop-fired-after-taking-gun-off-street/abe7b97e-14a3-4b05-b5e6-e6118e41bc17"
+    },
+    {
+      "text": "\n        The Jan. 6 committee holds its 8th hearing Thursday night. Here\u2019s what to expect\n      ",
+      "url": "/stories/the-jan-6-committee-holds-its-8th-hearing-thursday-night-heres-what-to-expect/e1889b7c-2f65-4a17-b43d-a136b3b2b09d"
+    },
+    {
+      "text": "\n        LISTEN LIVE: NPR\u2019s coverage and analysis of the Jan. 6 hearings\n      ",
+      "url": "/stories/npr-coverage-and-analysis-of-the-jan-6-hearings/4f43652d-773b-439c-892c-7cc6c8dd55f3"
+    },
+    {
+      "text": "\n        As monkeypox cases near 200 in Chicago, Pritzker pushes feds for more vaccines to slow the spread\n      ",
+      "url": "/stories/pritzker-pushes-for-more-monkeypox-vaccines-to-slow-spread/a8b70649-f865-4c92-825e-3e1f3f1d177d"
+    },
+    {
+      "text": "\n        Florence Price was one of the greatest composers you might not know of\n      ",
+      "url": "/stories/who-was-florence-price/a07ae174-7c33-43ef-a877-ae68ed82fb47"
+    },
+    {
+      "text": "\n      Consider donating today\n    ",
+      "url": "https://donate.wbez.org/?affordance_placement=Affordance-No-Thanks"
+    },
+    {
+      "text": "\n        Hearing the call of the kayak and \u2018river therapy\u2019 in northern Illinois\n      ",
+      "url": "/stories/kayaking-canoeing-and-boating-boom-in-illinois/4d7c2a96-9e82-402b-b1d7-d1d9552ab989"
+    },
+    {
+      "text": "\n        In order to attend a Ph.D. program, he needs Gov. Pritzker\u2019s help getting out of prison\n      ",
+      "url": "/stories/in-order-to-attend-a-phd-program-he-needs-gov-pritzkers-help-getting-out-of-prison/1d280749-a4af-43f8-8c50-6d5f08993421"
+    },
+    {
+      "text": "\n        How Chicago\u2019s political conventions have altered American history\n      ",
+      "url": "/stories/shermann-dilla-thomas-on-chicagos-political-conventions/a0f2a72d-9adf-41d4-96ba-e5ecc06b3162"
+    },
+    {
+      "text": "\n        My first year sober: Why I did it and what I\u2019ve learned\n      ",
+      "url": "/stories/my-first-year-sober-why-i-did-it-and-what-ive-learned/431fbe7b-c3af-4c43-a0e3-9719e17ad75d"
+    },
+    {
+      "text": "\n        With Roe v. Wade overturned, Chicago area residents share their perspectives on abortion\n      ",
+      "url": "/stories/abortion-perspectives-from-chicago-area-residents/6ce5f5d1-9bae-42bb-85e1-ae56e9962d76"
+    },
+    {
+      "text": "\n          Things to do this summer in and around Chicago\n        ",
+      "url": "/collections/things-to-do-this-summer-in-and-around-chicago/189"
+    },
+    {
+      "text": "\n        The WBEZ guide to the best free things to do this summer\n      ",
+      "url": "/stories/chicago-free-things-to-do-summer-music-concerts-theater-dance-neighborhood-festivals/e418f574-41ce-41ed-b6f1-13307e6b7404"
+    },
+    {
+      "text": "\n        Updated: The WBEZ guide to 80-plus summer farmers\u2019 markets in Chicago and the suburbs\n      ",
+      "url": "/stories/2022-farmers-markets-in-chicago-and-suburbs/9be36896-1eda-46f9-a42c-63c39ffa64dd"
+    },
+    {
+      "text": "\n        Chicago helped \u2018first-gen kid\u2019 KAINA find her voice. Now she\u2019s using it.\n      ",
+      "url": "/stories/kaina-plays-chicagos-pitchfork-music-festival/561deaed-f0ae-422e-9a5b-e0798ff95fde"
+    },
+    {
+      "text": "\n        Education\n      ",
+      "url": "/topics/education/05a15558-22e6-45f0-81a8-7f201d2f6f3a"
+    },
+    {
+      "text": "\n        Chicago students get to rate their public school lunches\n      ",
+      "url": "/stories/chicago-students-get-to-rate-their-public-school-lunches/9d70f535-27d0-4706-a777-ca2aef87fcc4"
+    },
+    {
+      "text": "\n        Culture & The Arts\n      ",
+      "url": "/topics/culture-and-the-arts/7af0c1d9-286b-4fd1-b741-6f79bfd6814a"
+    },
+    {
+      "text": "\n        What\u2019s that building? Thornton Distilling Co.\n      ",
+      "url": "/stories/whats-that-building-thornton-distilling/7ceedbda-fb70-4c95-83bd-7c85aeead8ae"
+    },
+    {
+      "text": "\n        Environment & Public Health\n      ",
+      "url": "/topics/environment-and-public-health/78f1d3ad-6823-451d-9de7-302f95acbc4e"
+    },
+    {
+      "text": "\n        Can Chicago slow the spread of monkeypox?\n      ",
+      "url": "/stories/chicago-monkeypox-cases-rise-with-vaccines-limited/45611254-2362-42ad-8b2c-c3bca71cf205"
+    },
+    {
+      "text": "\n        WBEZ Presents: Food Aid 2022 - Day 1\n      ",
+      "url": "/events/wbez-presents-food-aid-2022-day-1/188"
+    },
+    {
+      "text": "\n        More events \u2192\n      ",
+      "url": "/events"
+    },
+    {
+      "text": "\n        NPR\n        ",
+      "url": "/shows/npr/1552b01f-fc6b-4d96-8e14-8a1b54d0b974"
+    },
+    {
+      "text": "\n        Biden tests positive for COVID, and shows mild symptoms, White House says\n      ",
+      "url": "/stories/biden-tests-positive-for-covid-and-shows-mild-symptoms-white-house-says/d38b3495-b983-4dc9-9fc2-1c6d71faf129"
+    },
+    {
+      "text": "\n        Politics\n      ",
+      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
+    },
+    {
+      "text": "\n        Chicago speeders could still get $35 tickets after a City Council vote\n      ",
+      "url": "/stories/chicago-aldermen-vote-to-keep-speed-cameras/dc36dfc6-878e-4e7a-a259-f01019bcdabe"
+    },
+    {
+      "text": "\n        Culture & The Arts\n      ",
+      "url": "/topics/culture-and-the-arts/7af0c1d9-286b-4fd1-b741-6f79bfd6814a"
+    },
+    {
+      "text": "\n        32 Chicago concertgoers on music for a complicated moment\n      ",
+      "url": "/stories/pitchfork-chicago-concertgoers-share-current-favorite-musicians/1b17aa2f-e669-46ed-b6bd-f0b6f4f01627"
+    },
+    {
+      "text": "\n        Lightfoot gives NASCAR green flag for three years of races through streets of Chicago\n      ",
+      "url": "/stories/lightfoot-gives-nascar-green-flag-for-three-years-of-races-through-streets-of-chicago/9c5d30c1-72df-4a35-8a35-4f5afe5bad97"
+    },
+    {
+      "text": "\n        Environment & Public Health\n      ",
+      "url": "/topics/environment-and-public-health/78f1d3ad-6823-451d-9de7-302f95acbc4e"
+    },
+    {
+      "text": "\n        City violated residents\u2019 civil rights by moving polluters to Black, Latino neighborhoods, HUD says\n      ",
+      "url": "/stories/chicago-violated-civil-rights-by-moving-polluters-to-black-latino-neighborhoods/99611c7b-7c8c-41ef-8b0b-54b7e280b01f"
+    },
+    {
+      "text": "\n        Politics\n      ",
+      "url": "/topics/politics/dffc3082-fb73-4de7-a2f1-70c7608b4f62"
+    },
+    {
+      "text": "\n        Illinois Gov. JB Pritzker tests positive for COVID-19 after appearing at Florida event\n      ",
+      "url": "/stories/gov-jb-pritzker-tests-positive-for-covid-19/09821cb0-b76c-4cdb-b2d3-27079d71e1ae"
+    },
+    {
+      "text": "\n        Education\n      ",
+      "url": "/topics/education/05a15558-22e6-45f0-81a8-7f201d2f6f3a"
+    },
+    {
+      "text": "\n        More Chicago high school grads are eyeing HBCUs as their top college choice\n      ",
+      "url": "/stories/more-chicago-high-school-grads-are-eyeing-hbcus-as-their-top-college-choice/7f105aa3-955f-486a-8797-57dcde1e638f"
+    },
+    {
+      "text": "\n        Education\n      ",
+      "url": "/topics/education/05a15558-22e6-45f0-81a8-7f201d2f6f3a"
+    },
+    {
+      "text": "\n        Chicago is moving forward with effort to build South Loop high school\n      ",
+      "url": "/stories/chicago-is-moving-forward-with-effort-to-build-south-loop-high-school/3f8026a8-d244-412b-b554-6d9c99a81276"
+    },
+    {
+      "text": "\n        Past redlining practices linked to present-day abandoned properties in Cook County, new report says\n      ",
+      "url": "/stories/past-redlining-practices-linked-to-present-day-abandoned-properties-in-cook-county-new-report-says/2b88b3f8-de6e-41d5-a5c0-c390e81a5f71"
+    },
+    {
+      "text": "\n        Education\n      ",
+      "url": "/topics/education/05a15558-22e6-45f0-81a8-7f201d2f6f3a"
+    },
+    {
+      "text": "\n        In an age of misinformation, why are there so few librarians at Chicago Public Schools?\n      ",
+      "url": "/stories/why-are-there-so-few-librarians-at-chicago-public-schools/b365f55b-51b8-4a98-9f88-c2154158f739"
+    },
+    {
+      "text": "\n        Criminal Justice\n      ",
+      "url": "/topics/criminal-justice/ffa74088-0ab8-406a-b1f9-b15dd6d39880"
+    },
+    {
+      "text": "\n        Survivor\u2019s guilt and anxiety abound in the wake of mass shootings\n      ",
+      "url": "/stories/survivors-guilt-and-anxiety-abound-after-highland-park-shooting/c147af8d-ea35-4a98-a14a-d5858225cba8"
+    },
+    {
+      "text": "\n        Criminal Justice\n      ",
+      "url": "/topics/criminal-justice/ffa74088-0ab8-406a-b1f9-b15dd6d39880"
+    },
+    {
+      "text": "\n        A massive influx of federal anti-violence dollars starts to hit the streets of Chicago\n      ",
+      "url": "/stories/federal-funds-for-chicago-violence-prevention/5d3bcdb3-5f3c-4cff-a002-fe43c4d72b46"
+    },
+    {
+      "text": "\n        Culture & The Arts\n      ",
+      "url": "/topics/culture-and-the-arts/7af0c1d9-286b-4fd1-b741-6f79bfd6814a"
+    },
+    {
+      "text": "\n        The antidote for burned-out millennials? It\u2019s the climbing gym.\n      ",
+      "url": "/stories/chicago-climbing-gyms-popular-with-millennials/91f52f57-1de1-45d7-a9fd-a95a11be5176"
+    },
+    {
+      "text": "\n        Criminal Justice\n      ",
+      "url": "/topics/criminal-justice/ffa74088-0ab8-406a-b1f9-b15dd6d39880"
+    },
+    {
+      "text": "\n        As violent crime in Chicago soared, arrests fell to historic lows\n      ",
+      "url": "/stories/chicago-arrests-fall-to-historic-lows/7e96f7fe-c394-4c8e-8650-9b0371f1842c"
+    },
+    {
+      "text": "\n      DONATE NOW\n    ",
+      "url": "https://donate.wbez.org/?affordance_placement=Home_End"
+    },
+    {
+      "text": "WBEZ.org ",
+      "url": "/"
+    },
+    {
+      "text": "",
+      "url": "//twitter.com/WBEZ"
+    },
+    {
+      "text": "",
+      "url": "//www.facebook.com/wbez915"
+    },
+    {
+      "text": "",
+      "url": "//instagram.com/wbezchicago/"
+    },
+    {
+      "text": "",
+      "url": "//www.youtube.com/user/wbez"
+    },
+    {
+      "text": "\n            About Us\n          ",
+      "url": "/about"
+    },
+    {
+      "text": "\n              Careers\n            ",
+      "url": "/jobs"
+    },
+    {
+      "text": "\n              Staff\n            ",
+      "url": "/staff"
+    },
+    {
+      "text": "\n              Contact Us\n            ",
+      "url": "/contact"
+    },
+    {
+      "text": "\n              The Sounding Board\n            ",
+      "url": "/pages/sounding-board"
+    },
+    {
+      "text": "\n              Radio Schedule\n            ",
+      "url": "/schedule"
+    },
+    {
+      "text": "\n              Board of Directors\n            ",
+      "url": "/pages/board-of-directors"
+    },
+    {
+      "text": "\n              Pressroom\n            ",
+      "url": "/pressroom"
+    },
+    {
+      "text": "\n              Public & Financial Documents\n            ",
+      "url": "/pages/public-financial-documents"
+    },
+    {
+      "text": "\n              Newsletters & Email Alerts\n            ",
+      "url": "/newsletters"
+    },
+    {
+      "text": "\n              Volunteer\n            ",
+      "url": "//cloud.email.wbez.org/volunteers"
+    },
+    {
+      "text": "\n              Events Calendar\n            ",
+      "url": "/events"
+    },
+    {
+      "text": "\n              Wait Wait \u2026 Don't Tell Me! Tickets\n            ",
+      "url": "/events/wait-wait-dont-tell-me-tickets"
+    },
+    {
+      "text": "\n              Mobile Apps\n            ",
+      "url": "/mobile-apps"
+    },
+    {
+      "text": "\n            Support\n          ",
+      "url": "/support-us"
+    },
+    {
+      "text": "\n              Donate\n            ",
+      "url": "https://donate.wbez.org/?affordance_placement=footer"
+    },
+    {
+      "text": "\n              Join our Giving Circles\n            ",
+      "url": "/pages/giving-circles"
+    },
+    {
+      "text": "\n              Donate Your Car\n            ",
+      "url": "//wbez.careasy.org/home"
+    },
+    {
+      "text": "\n              Gifts of Securities\n            ",
+      "url": "/pages/securities"
+    },
+    {
+      "text": "\n              Planned Giving\n            ",
+      "url": "/pages/planned-giving"
+    },
+    {
+      "text": "\n              Matching Gifts\n            ",
+      "url": "/support-us/matching-gifts"
+    },
+    {
+      "text": "\n              Become a Sponsor\n            ",
+      "url": "//wbezsponsor.org/"
+    },
+    {
+      "text": "\n              Manage Your Membership Account\n            ",
+      "url": "https://donate.wbez.org/user"
+    },
+    {
+      "text": "\n          Privacy Policy\n        ",
+      "url": "//www.wbez.org/privacy-policy"
+    },
+    {
+      "text": "\n          Terms of Use\n        ",
+      "url": "//www.wbez.org/terms-of-use"
+    },
+    {
+      "text": "\n          FCC Public Filing Info\n        ",
+      "url": "//publicfiles.fcc.gov/fm-profile/wbez"
+    },
+    {
+      "text": "\n          Notice of FCC Applications\n        ",
+      "url": "//wbez-assets.s3.amazonaws.com/pdf/fcc-notices_8-12-2020.pdf"
+    }
+  ],
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }
