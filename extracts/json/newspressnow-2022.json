@@ -1,5 +1,5 @@
 {
-  "created": 1658376188,
+  "created": 1658449638,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/newspressnow-2022",
@@ -1004,31 +1004,63 @@
       "sha1": "ceb8a792b7ef2e501021354ea901264b03c7475a"
     },
     {
+      "name": "newspressnow-2022-07-21T10:33:07.555828-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658417595",
+      "size": "28507",
+      "md5": "209aef48eb175b3ee0409c8edc2ba329",
+      "crc32": "67684682",
+      "sha1": "93431daf8aab8617d95116b8d65e8e981f226b62",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-21T10:33:07.555828-05:00.jpg",
+      "source": "original",
+      "mtime": "1658417590",
+      "size": "368450",
+      "md5": "20ad40bfc6e46bdffa530551da214a8f",
+      "crc32": "d36238fb",
+      "sha1": "81394a610850743479cf292945eaa3c558d17d50",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newspressnow-2022-07-21T10:33:07.555828-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newspressnow-2022-07-21T10:33:07.555828-05:00.jpg",
+      "mtime": "1658426712",
+      "size": "11056",
+      "md5": "9b4a279e57b987c3480c3e868cd56e43",
+      "crc32": "183e9bfc",
+      "sha1": "9a6028d82c21b210153f13fb4dec2d027875de62"
+    },
+    {
       "name": "newspressnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b876a7957abe4a7ec24aa8a7acf856cc294776b",
-      "mtime": "1658376171",
-      "size": "21401",
-      "md5": "340e75d505d204517d4b7ad5f2fee265",
-      "crc32": "6aa9528c",
-      "sha1": "ef5a5c7f2ee1364a02be8b0e7ae0004fe8071370",
+      "btih": "447f7e75d048d7ba36261b0445b6a1bede6544d1",
+      "mtime": "1658426844",
+      "size": "22032",
+      "md5": "4fad8f4cf32e31664348dedf1d4732b4",
+      "crc32": "5c284b0c",
+      "sha1": "abbff3af5dc5f91f807cafe36984b11de1ff11fb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newspressnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "21f83cb5064283fab9cff0a70de3bc51",
+      "md5": "a2a796882d83f761153f4b40d34fd371",
       "summation": "md5"
     },
     {
       "name": "newspressnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658374576",
+      "mtime": "1658417599",
       "size": "110592",
-      "md5": "2d0baa5480e5518bcebdc101efe15e37",
-      "crc32": "d096456c",
-      "sha1": "8fcf3db73dd186a2113fcf408eb490c40700b8c8",
+      "md5": "cf9abf845084f9317c55b4859d0c7886",
+      "crc32": "dbe321ad",
+      "sha1": "f2eceb4d69c5b873ecda6cf42e9538302c200680",
       "format": "Metadata"
     },
     {
@@ -1042,9 +1074,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 97,
-  "item_last_updated": 1658376171,
-  "item_size": 13192623,
+  "files_count": 100,
+  "item_last_updated": 1658426844,
+  "item_size": 13601267,
   "metadata": {
     "identifier": "newspressnow-2022",
     "collection": [
@@ -1061,10 +1093,1104 @@
     "publicdate": "2022-07-04 21:49:25",
     "addeddate": "2022-07-04 21:49:25"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 1954800470,
+  "newspressnow-2022": {
+    "role": "WebArea",
+    "name": "News-Press NOW | St. Joseph news, sports, entertainment and business.",
+    "children": [
+      {
+        "role": "Iframe",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "Skip to main content"
+      },
+      {
+        "role": "complementary",
+        "name": "Left Main Menu"
+      },
+      {
+        "role": "button",
+        "name": "Left Main Menu"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": "eEDITION"
+      },
+      {
+        "role": "link",
+        "name": "WATCH"
+      },
+      {
+        "role": "link",
+        "name": "Weather"
+      },
+      {
+        "role": "link",
+        "name": "SUBSCRIBE"
+      },
+      {
+        "role": "link",
+        "name": "LOG IN"
+      },
+      {
+        "role": "link",
+        "name": "News"
+      },
+      {
+        "role": "link",
+        "name": "Sports"
+      },
+      {
+        "role": "link",
+        "name": "Obituaries"
+      },
+      {
+        "role": "link",
+        "name": "Marketplace"
+      },
+      {
+        "role": "link",
+        "name": "Local Links"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "heading",
+        "name": "TOP VIDEOS",
+        "level": 3
+      },
+      {
+        "role": "Iframe",
+        "name": ""
+      },
+      {
+        "role": "heading",
+        "name": "TOP STORIES",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Looming bus changes draw concerns from residents"
+      },
+      {
+        "role": "link",
+        "name": "Looming bus changes draw concerns from residents"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "11 HRS AGO"
+      },
+      {
+        "role": "text",
+        "name": "With changes approaching for St. Joseph\u2019s transit system, some residents are voicing concerns about the updates."
+      },
+      {
+        "role": "link",
+        "name": "Conserving energy important as temperatures rise"
+      },
+      {
+        "role": "link",
+        "name": "Conserving energy important as temperatures rise"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "10 HRS AGO"
+      },
+      {
+        "role": "text",
+        "name": "This week\u2019s heat wave has many St. Joseph residents turning up the air conditioning, but increased energy usage may impact power reliability."
+      },
+      {
+        "role": "link",
+        "name": "Reptiles, amphibians, kids make for good chemistry"
+      },
+      {
+        "role": "link",
+        "name": "Reptiles, amphibians, kids make for good chemistry"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "10 HRS AGO"
+      },
+      {
+        "role": "text",
+        "name": "The Griffon Lab drives to wherever in town there are kids ready to learn, always bringing a few friends, usually whatever professors Mark Mills and Mike Ducey have fished out of the ponds at M\u2026"
+      },
+      {
+        "role": "link",
+        "name": "No answers 18 years after Ashley Martinez disappeared"
+      },
+      {
+        "role": "link",
+        "name": "No answers 18 years after Ashley Martinez disappeared"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "10 HRS AGO"
+      },
+      {
+        "role": "text",
+        "name": "It\u2019s been 18 years since Ashley Martinez disappeared after a trip to Krug Pool, and her case has left more questions than answers."
+      },
+      {
+        "role": "text",
+        "name": "Are Raiders overhyped or underhyped? |'GMFB'"
+      },
+      {
+        "role": "button",
+        "name": ""
+      },
+      {
+        "role": "button",
+        "name": "volume_offvolume_up"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "text",
+        "name": "volume_off"
+      },
+      {
+        "role": "slider",
+        "name": "",
+        "valuetext": "",
+        "valuemax": 0,
+        "valuemin": 0,
+        "orientation": "horizontal",
+        "value": 0
+      },
+      {
+        "role": "text",
+        "name": "-0:00"
+      },
+      {
+        "role": "text",
+        "name": "share"
+      },
+      {
+        "role": "text",
+        "name": "fullscreen"
+      },
+      {
+        "role": "text",
+        "name": "Auto (nullp)"
+      },
+      {
+        "role": "text",
+        "name": "Subtitles Off"
+      },
+      {
+        "role": "text",
+        "name": "Are Raiders overhyped or underhyped? |'GMFB'"
+      },
+      {
+        "role": "text",
+        "name": "NFL"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "7:18"
+      },
+      {
+        "role": "text",
+        "name": "'GMFB' hands NFL players wrestling nicknames, signature moves"
+      },
+      {
+        "role": "text",
+        "name": "NFL"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "2:17"
+      },
+      {
+        "role": "text",
+        "name": "Need2Know: San Bernardino Police Shooting, WHO Monkeypox Meeting, Another Jan. 6 Hearing"
+      },
+      {
+        "role": "text",
+        "name": "Business"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "5:52"
+      },
+      {
+        "role": "text",
+        "name": "Ideal landing spot for Jimmy Garoppolo 'GMFB'"
+      },
+      {
+        "role": "text",
+        "name": "NFL"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "9:09"
+      },
+      {
+        "role": "text",
+        "name": "Top rated RBs, biggest snubs in 'Madden 23' 'GMFB'"
+      },
+      {
+        "role": "text",
+        "name": "NFL"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "5:23"
+      },
+      {
+        "role": "text",
+        "name": "Endangered apes help poor Ugandan community thrive"
+      },
+      {
+        "role": "text",
+        "name": "General news"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "3:39"
+      },
+      {
+        "role": "text",
+        "name": "Oldest male giant panda in captivity dies in Hong Kong"
+      },
+      {
+        "role": "text",
+        "name": "General news"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "1:55"
+      },
+      {
+        "role": "text",
+        "name": "AP Top Stories July 21 Morning"
+      },
+      {
+        "role": "text",
+        "name": "General news"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "0:56"
+      },
+      {
+        "role": "text",
+        "name": "Ukrainian service members learn new weapons"
+      },
+      {
+        "role": "text",
+        "name": "General news"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "1:32"
+      },
+      {
+        "role": "text",
+        "name": "Saype's \"human chain\" takes Brazil beaches"
+      },
+      {
+        "role": "text",
+        "name": "General news"
+      },
+      {
+        "role": "text",
+        "name": "|"
+      },
+      {
+        "role": "text",
+        "name": "1:40"
+      },
+      {
+        "role": "link",
+        "name": "SPECIAL REPORTS"
+      },
+      {
+        "role": "link",
+        "name": "Clergy react as ruling shields school prayer"
+      },
+      {
+        "role": "link",
+        "name": "Clergy react as ruling shields school prayer"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "JUL 6, 2022"
+      },
+      {
+        "role": "link",
+        "name": "City budget hit hard by rising gas prices"
+      },
+      {
+        "role": "link",
+        "name": "City budget hit hard by rising gas prices"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "JUL 6, 2022"
+      },
+      {
+        "role": "link",
+        "name": "Turner revitalizing Mustangs baseball in debut season as owner"
+      },
+      {
+        "role": "link",
+        "name": "Turner revitalizing Mustangs baseball in debut season as owner"
+      },
+      {
+        "role": "text",
+        "name": "MAY 28, 2022"
+      },
+      {
+        "role": "link",
+        "name": "More Special Reports \u2192"
+      },
+      {
+        "role": "link",
+        "name": "REGIONAL NEWS"
+      },
+      {
+        "role": "link",
+        "name": "3 seek election to western at-large commission seat"
+      },
+      {
+        "role": "link",
+        "name": "3 seek election to western at-large commission seat"
+      },
+      {
+        "role": "text",
+        "name": "2 HRS AGO"
+      },
+      {
+        "role": "link",
+        "name": "MoDOT to hold public meeting Thursday about future of Interstate 70 in Boone County"
+      },
+      {
+        "role": "link",
+        "name": "QUESTION OF THE DAY: Are you visiting the Boone County Fair this week or weekend?"
+      },
+      {
+        "role": "link",
+        "name": "Local businesses give Route B/Paris Road safety audit recommendations"
+      },
+      {
+        "role": "link",
+        "name": "Former Gov. and ex-wife expected to testify during closed deposition during custody hearing"
+      },
+      {
+        "role": "link",
+        "name": "More Regional News \u2192"
+      },
+      {
+        "role": "link",
+        "name": "SPORTS"
+      },
+      {
+        "role": "link",
+        "name": "Staunch defense gives Mustangs 5-2 victory over Mudcats"
+      },
+      {
+        "role": "link",
+        "name": "Staunch defense gives Mustangs 5-2 victory over Mudcats"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "10 HRS AGO"
+      },
+      {
+        "role": "link",
+        "name": "Northwest Missouri State quarterback to hold a wide receiver and quarterback football camp"
+      },
+      {
+        "role": "link",
+        "name": "Missouri Western defensive back catching the eyes of NFL scouts, prepares for senior season"
+      },
+      {
+        "role": "link",
+        "name": "Benton shortstop Coy commits to Kansas"
+      },
+      {
+        "role": "link",
+        "name": "Mustangs score five runs on four hits to defeat Bombers"
+      },
+      {
+        "role": "link",
+        "name": "More Local Sports \u2192"
+      },
+      {
+        "role": "link",
+        "name": "LIFE"
+      },
+      {
+        "role": "link",
+        "name": "Strong cast lifts 'Nope' to a yes"
+      },
+      {
+        "role": "link",
+        "name": "Strong cast lifts 'Nope' to a yes"
+      },
+      {
+        "role": "text",
+        "name": "10 HRS AGO"
+      },
+      {
+        "role": "link",
+        "name": "\u201872: Nixon win not even close"
+      },
+      {
+        "role": "link",
+        "name": "Pet of the Week: Timid dog will need patience, kindness"
+      },
+      {
+        "role": "link",
+        "name": "Phil Welch Stadium to host 'Encanto' movie night on Friday"
+      },
+      {
+        "role": "link",
+        "name": "Dual events bring summer festivities Downtown on Friday"
+      },
+      {
+        "role": "link",
+        "name": "More Life Stories \u2192"
+      },
+      {
+        "role": "link",
+        "name": "OPINION"
+      },
+      {
+        "role": "link",
+        "name": "A requiem for a bridge"
+      },
+      {
+        "role": "text",
+        "name": "That sound you heard Tuesday evening might have been the Interstate 229 double-decker bridge\u2026"
+      },
+      {
+        "role": "link",
+        "name": "A requiem for a bridge"
+      },
+      {
+        "role": "link",
+        "name": "The Shuffle: What happened to dancing in St. Joseph?"
+      },
+      {
+        "role": "text",
+        "name": "By Andrew Gaug News-Press NOW"
+      },
+      {
+        "role": "text",
+        "name": "On an almost yearly basis, someone will ask me where in the area they can go to dance."
+      },
+      {
+        "role": "link",
+        "name": "The Shuffle: What happened to dancing in St. Joseph?"
+      },
+      {
+        "role": "img",
+        "name": "Alonzo Weston"
+      },
+      {
+        "role": "link",
+        "name": "Getting to know each other can reduce racism"
+      },
+      {
+        "role": "text",
+        "name": "By Alonzo Weston News-Press NOW"
+      },
+      {
+        "role": "text",
+        "name": "Racism will always be with us it seems. But it doesn\u2019t have to be. People can change."
+      },
+      {
+        "role": "link",
+        "name": "Getting to know each other can reduce racism"
+      },
+      {
+        "role": "link",
+        "name": "County makes strides toward openness"
+      },
+      {
+        "role": "text",
+        "name": "You have to hand it to Scott Burnham. When the Buchanan County Eastern District commissioner\u2026"
+      },
+      {
+        "role": "link",
+        "name": "County makes strides toward openness"
+      },
+      {
+        "role": "link",
+        "name": "More Opinion \u2192"
+      },
+      {
+        "role": "link",
+        "name": "NATION AND WORLD NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Turkey denies carrying out deadly strikes in northern Iraq"
+      },
+      {
+        "role": "link",
+        "name": "Turkey denies carrying out deadly strikes in northern Iraq"
+      },
+      {
+        "role": "text",
+        "name": "UPDATED"
+      },
+      {
+        "role": "text",
+        "name": "43 MIN AGO"
+      },
+      {
+        "role": "link",
+        "name": "Europe's central bank backs larger-than-expected rate hike"
+      },
+      {
+        "role": "link",
+        "name": "Key Russia-Europe gas pipeline reopens but outlook unclear"
+      },
+      {
+        "role": "link",
+        "name": "Stocks open lower on Wall Street; ECB joins inflation fight"
+      },
+      {
+        "role": "link",
+        "name": "Steve Bannon's defense to begin in ex-Trump adviser's trial"
+      },
+      {
+        "role": "link",
+        "name": "See more Nation and World News \u2192"
+      },
+      {
+        "role": "link",
+        "name": "LOCAL NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Motorcyclist seriously injured in Wednesday crash"
+      },
+      {
+        "role": "link",
+        "name": "PUBLIC SAFETY"
+      },
+      {
+        "role": "link",
+        "name": "Motorcyclist seriously injured in Wednesday crash"
+      },
+      {
+        "role": "link",
+        "name": "Changes completed to Missouri Theater"
+      },
+      {
+        "role": "link",
+        "name": "LOCAL NEWS"
+      },
+      {
+        "role": "link",
+        "name": "Changes completed to Missouri Theater"
+      },
+      {
+        "role": "link",
+        "name": "Unemployment hits record low in Missouri"
+      },
+      {
+        "role": "link",
+        "name": "BUSINESS"
+      },
+      {
+        "role": "link",
+        "name": "Unemployment hits record low in Missouri"
+      },
+      {
+        "role": "link",
+        "name": "Lakefront Lane house fire under investigation"
+      },
+      {
+        "role": "link",
+        "name": "PUBLIC SAFETY"
+      },
+      {
+        "role": "link",
+        "name": "Lakefront Lane house fire under investigation"
+      },
+      {
+        "role": "link",
+        "name": "More Local News \u2192"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "link",
+        "name": "Local Forecast"
+      },
+      {
+        "role": "text",
+        "name": "2 HRS AGO"
+      },
+      {
+        "role": "heading",
+        "name": "MOST POPULAR",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "New I-229 alternative added to the four other proposals"
+      },
+      {
+        "role": "link",
+        "name": "Tech N9ne to perform at Red Rally"
+      },
+      {
+        "role": "link",
+        "name": "June restaurant inspections"
+      },
+      {
+        "role": "link",
+        "name": "Police working accident near Shoppes at North Village"
+      },
+      {
+        "role": "link",
+        "name": "Business helps people 'sort it out'"
+      },
+      {
+        "role": "link",
+        "name": "Nightclub hosting grand opening on Friday"
+      },
+      {
+        "role": "link",
+        "name": "City considers Discovery Center funding change"
+      },
+      {
+        "role": "link",
+        "name": "Sunday morning shooting results in fatality"
+      },
+      {
+        "role": "link",
+        "name": "Three dead after crash outside of Sturgeon Saturday morning"
+      },
+      {
+        "role": "link",
+        "name": "15 arrests made in overnight police operation"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "heading",
+        "name": "TRENDING RECIPE EXCHANGE",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "There are not many dishes that are centered around onions, but this certainly does. This recipe might be the best onion you will ever eat, see for yourself."
+      },
+      {
+        "role": "link",
+        "name": "Smoked Bacon Wrapped French Vidalia Onion",
+        "description": "There are not many dishes that are centered around onions, but this certainly does. This recipe might be the best onion you will ever eat, see for yourself."
+      },
+      {
+        "role": "link",
+        "name": "When sliced, this makes a great presentation and a delicious different banana bread with a cream cheese center."
+      },
+      {
+        "role": "link",
+        "name": "Aunt Lynda's Cream Cheese Filled Banana Bread",
+        "description": "When sliced, this makes a great presentation and a delicious different banana bread with a cream cheese center."
+      },
+      {
+        "role": "link",
+        "name": "This mac and cheese recipe is one that should be made when you're in the mood for a cheat meal. See what makes this dish so popular."
+      },
+      {
+        "role": "link",
+        "name": "Sweetie Pie's Mac & Cheese",
+        "description": "This mac and cheese recipe is one that should be made when you're in the mood for a cheat meal. See what makes this dish so popular."
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "Iframe",
+        "name": "Primis Frame"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "Iframe",
+        "name": ""
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "heading",
+        "name": "MORE TOP VIDEOS",
+        "level": 3
+      },
+      {
+        "role": "link",
+        "name": "Missouri director of ag visits St. Joseph"
+      },
+      {
+        "role": "link",
+        "name": "Missouri director of ag visits St. Joseph"
+      },
+      {
+        "role": "link",
+        "name": "Kids, reptiles make for good chemistry"
+      },
+      {
+        "role": "link",
+        "name": "Kids, reptiles make for good chemistry"
+      },
+      {
+        "role": "link",
+        "name": "Conserving energy important as temperatures rise"
+      },
+      {
+        "role": "link",
+        "name": "Conserving energy important as temperatures rise"
+      },
+      {
+        "role": "link",
+        "name": "Looming bus changes draw concerns from residents"
+      },
+      {
+        "role": "link",
+        "name": "Looming bus changes draw concerns from residents"
+      },
+      {
+        "role": "link",
+        "name": "No answers 18 years after Ashley Martinez disappeared"
+      },
+      {
+        "role": "link",
+        "name": "No answers 18 years after Ashley Martinez disappeared"
+      },
+      {
+        "role": "link",
+        "name": "Unemployment hits record low in Missouri"
+      },
+      {
+        "role": "link",
+        "name": "Unemployment hits record low in Missouri"
+      },
+      {
+        "role": "link",
+        "name": "New I-229 alternative added to the four other proposals"
+      },
+      {
+        "role": "link",
+        "name": "New I-229 alternative added to the four other proposals"
+      },
+      {
+        "role": "link",
+        "name": "MWSU promotes rapid courses of study"
+      },
+      {
+        "role": "link",
+        "name": "MWSU promotes rapid courses of study"
+      },
+      {
+        "role": "link",
+        "name": "See more Top Videos \u2192"
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      },
+      {
+        "role": "heading",
+        "name": "NPG NEWSPAPERS",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "Atchison Globe"
+      },
+      {
+        "role": "link",
+        "name": "Courier-Tribune"
+      },
+      {
+        "role": "link",
+        "name": "Gladstone Dispatch"
+      },
+      {
+        "role": "link",
+        "name": "Green Acres Publication"
+      },
+      {
+        "role": "link",
+        "name": "Hiawatha World"
+      },
+      {
+        "role": "link",
+        "name": "Miami County Republic"
+      },
+      {
+        "role": "link",
+        "name": "Save Now"
+      },
+      {
+        "role": "link",
+        "name": "St. Joseph News-Press"
+      },
+      {
+        "role": "heading",
+        "name": "NPG BROADCAST",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "KCJO - St. Joseph, Mo"
+      },
+      {
+        "role": "link",
+        "name": "KECY - Yuma, Az / El Centro, Ca"
+      },
+      {
+        "role": "link",
+        "name": "KESQ - Thousand Palms, Ca"
+      },
+      {
+        "role": "link",
+        "name": "KEYT - Santa Barbara, Ca"
+      },
+      {
+        "role": "link",
+        "name": "KIFI - Idaho Falls, Id"
+      },
+      {
+        "role": "link",
+        "name": "KION - Salinas, Ca"
+      },
+      {
+        "role": "link",
+        "name": "KMIZ - Columbia, Mo"
+      },
+      {
+        "role": "link",
+        "name": "KNPG - St. Joseph, Mo"
+      },
+      {
+        "role": "link",
+        "name": "KNPN - St. Joseph, Mo"
+      },
+      {
+        "role": "link",
+        "name": "KRDO - Colorado Springs, Co"
+      },
+      {
+        "role": "link",
+        "name": "KTVZ - Bend, Or"
+      },
+      {
+        "role": "link",
+        "name": "KVIA - El Paso, Tx"
+      },
+      {
+        "role": "heading",
+        "name": "NPG COMPANIES",
+        "level": 4
+      },
+      {
+        "role": "link",
+        "name": "News-Press Media Group"
+      },
+      {
+        "role": "link",
+        "name": "BERKS Group"
+      },
+      {
+        "role": "link",
+        "name": "News-Press & Gazette Co."
+      },
+      {
+        "role": "link",
+        "name": "SUBSCRIBE"
+      },
+      {
+        "role": "link",
+        "name": "ADVERTISE"
+      },
+      {
+        "role": "link",
+        "name": "FEEDBACK"
+      },
+      {
+        "role": "link",
+        "name": "CAREERS"
+      },
+      {
+        "role": "link",
+        "name": "CONTACT"
+      },
+      {
+        "role": "link",
+        "name": "PRIVACY"
+      },
+      {
+        "role": "link",
+        "name": "TERMS"
+      },
+      {
+        "role": "link",
+        "name": "CLOSED CAPTIONING"
+      },
+      {
+        "role": "link",
+        "name": ""
+      },
+      {
+        "role": "text",
+        "name": "\u00a9 2021 NEWS-PRESS & GAZETTE CO."
+      },
+      {
+        "role": "text",
+        "name": "Powered by"
+      },
+      {
+        "role": "link",
+        "name": "BLOX Content Management System",
+        "description": "BLOX Content Management System"
+      },
+      {
+        "role": "text",
+        "name": "from"
+      },
+      {
+        "role": "link",
+        "name": "TownNews.com",
+        "description": "TownNews.com BLOX Newspaper Content Management"
+      },
+      {
+        "role": "text",
+        "name": "."
+      },
+      {
+        "role": "region",
+        "name": "Advertisement",
+        "description": "3rd party ad content"
+      }
+    ]
+  },
+  "server": "ia801500.us.archive.org",
+  "uniq": 1005709909,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658395064,
+  "created": 1658436295,
   "d1": "ia903007.us.archive.org",
   "d2": "ia803007.us.archive.org",
   "dir": "/16/items/latimes-2022",
@@ -18634,31 +18634,199 @@
       "sha1": "32866a97d67a589e72f9d486e2191484ba457b4d"
     },
     {
+      "name": "latimes-2022-07-21T06:16:52.163607-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658409416",
+      "size": "43371",
+      "md5": "00ff231799ad9164bafa87ebcbe5b69c",
+      "crc32": "3415a2e3",
+      "sha1": "f671a0215a0ce625806d9630d8a2fa5a08acd6c0",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-07-21T06:16:52.163607-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658409417",
+      "size": "53686",
+      "md5": "c83777a0d5edee1fc7675ea2093d6357",
+      "crc32": "44c9fa80",
+      "sha1": "a5a7c304c066b267c7fba8a35ff086d69d93733a",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-07-21T06:16:52.163607-07:00.jpg",
+      "source": "original",
+      "mtime": "1658409414",
+      "size": "261282",
+      "md5": "714eeb284cc9321fefeffe7ae20bbf25",
+      "crc32": "8c65f292",
+      "sha1": "1abb87c698d8a17465e6b665fbe3f85b38f3ad93",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-07-21T06:16:52.163607-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-07-21T06:16:52.163607-07:00.jpg",
+      "mtime": "1658415283",
+      "size": "9153",
+      "md5": "16d819117c80d477ca40fffd0d9a6c99",
+      "crc32": "c75e3d0f",
+      "sha1": "b89c94c6a8331602be87d948ca1d81b12c3c42ab"
+    },
+    {
+      "name": "latimes-2022-07-21T07:17:03.576304-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658413027",
+      "size": "43112",
+      "md5": "4618c054d0d62c37c34d49893f6b9ea8",
+      "crc32": "de89fe30",
+      "sha1": "c553710ac49dbafe5c55307564d3bfcc47c97a24",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-07-21T07:17:03.576304-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658413029",
+      "size": "53855",
+      "md5": "f9e216e20cc0c0a1751f5ade31052e88",
+      "crc32": "fb12a6b4",
+      "sha1": "32aab37f7eee21df3cac4e3758c8dcf80993633c",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-07-21T07:17:03.576304-07:00.jpg",
+      "source": "original",
+      "mtime": "1658413025",
+      "size": "261590",
+      "md5": "182c08814720468092597db7ddae81f3",
+      "crc32": "b0317537",
+      "sha1": "71ee1792f3bd25062c8efd0aadb3b2f8629be0ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-07-21T07:17:03.576304-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-07-21T07:17:03.576304-07:00.jpg",
+      "mtime": "1658423703",
+      "size": "9066",
+      "md5": "39e23a214271039945eaba6106693727",
+      "crc32": "9b71bd45",
+      "sha1": "ebd407ad48289331850c99255dd3955fe651d165"
+    },
+    {
+      "name": "latimes-2022-07-21T11:08:45.922593-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658426932",
+      "size": "43246",
+      "md5": "97e9dfdd5c6493e6582544d023fa6811",
+      "crc32": "2fa2f44c",
+      "sha1": "459d8466ae052ae40108d14d8f347c992ad73809",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-07-21T11:08:45.922593-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658426934",
+      "size": "53765",
+      "md5": "f8a987a457c8a541b98dc6eed1bc38f2",
+      "crc32": "53e4441b",
+      "sha1": "27775103d0456564bd6eded4277ab3c7c114bc3e",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-07-21T11:08:45.922593-07:00.jpg",
+      "source": "original",
+      "mtime": "1658426927",
+      "size": "249016",
+      "md5": "60d65370444e71fdcece0d47af5711d4",
+      "crc32": "761b87da",
+      "sha1": "87ab98616e16a7cb5ed3e0b64a132e165d8a61fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-07-21T11:08:45.922593-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-07-21T11:08:45.922593-07:00.jpg",
+      "mtime": "1658430818",
+      "size": "9060",
+      "md5": "609631d36b5d6640729195d29db12414",
+      "crc32": "4161a4b8",
+      "sha1": "c01165c9d021aa59988f46de65df3a2f9060b90a"
+    },
+    {
+      "name": "latimes-2022-07-21T12:05:04.957403-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658430309",
+      "size": "43491",
+      "md5": "1cd3a010791b6b02d040b7ec83b843ae",
+      "crc32": "b3c8a612",
+      "sha1": "a8309cecca427944649962cf39aff1e7c4b08d4a",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-07-21T12:05:04.957403-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658430312",
+      "size": "54120",
+      "md5": "231ee41c9f3c7dca7e0120f4be207026",
+      "crc32": "1d494ddd",
+      "sha1": "5727317b263bb3c0d2a9fe8076d052765f2a20da",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-07-21T12:05:04.957403-07:00.jpg",
+      "source": "original",
+      "mtime": "1658430307",
+      "size": "250015",
+      "md5": "bd199a4164d48a9ed71afc816722529c",
+      "crc32": "3c3387e9",
+      "sha1": "08a80641eef5e81065104e8d29a84e47e010d738",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-07-21T12:05:04.957403-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-07-21T12:05:04.957403-07:00.jpg",
+      "mtime": "1658436215",
+      "size": "9030",
+      "md5": "89082cecdfe7763f4ff20d5d0a04c00d",
+      "crc32": "c2e8472e",
+      "sha1": "7fa9e1942599e337ba8657dba131902361996663"
+    },
+    {
       "name": "latimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "94f61d3e5eec404e7798c32cf4229baeb8e69240",
-      "mtime": "1658371889",
-      "size": "373999",
-      "md5": "422b5c6f1cc3b520b51fc605e8a7add4",
-      "crc32": "e7a5ec22",
-      "sha1": "9862ca3aa6a962762a73fad1e7bcb403c2dd3931",
+      "btih": "3d2d7b7270f2817fdebee1c9695da00129420ea2",
+      "mtime": "1658436245",
+      "size": "377339",
+      "md5": "54cec410dd35319eed6b60fc2c9895c0",
+      "crc32": "2ba8071c",
+      "sha1": "7bad2bfad343779721dee072248632f609701d26",
       "format": "Archive BitTorrent"
     },
     {
       "name": "latimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "953bec30729235290a5353be777bddff",
+      "md5": "81a6abac066254dc97a9d634dbc2c0e4",
       "summation": "md5"
     },
     {
       "name": "latimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658370550",
-      "size": "2002944",
-      "md5": "93c07ae8acc5f9eec760ab9a3b947af9",
-      "crc32": "fb950b22",
-      "sha1": "4ef7f392f4dcfdc91a15db9f0a4ba422c0958f25",
+      "mtime": "1658430858",
+      "size": "2019328",
+      "md5": "74cff00dcaf3542ec42382b4e6a7fb3e",
+      "crc32": "d62105d1",
+      "sha1": "f37ce4c0888e08a1872cf713572b884f966957d5",
       "format": "Metadata"
     },
     {
@@ -18672,9 +18840,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1775,
-  "item_last_updated": 1658371889,
-  "item_size": 201212465,
+  "files_count": 1791,
+  "item_last_updated": 1658436245,
+  "item_size": 202679047,
   "metadata": {
     "identifier": "latimes-2022",
     "collection": [
@@ -18691,10 +18859,10 @@
     "publicdate": "2022-03-22 20:29:38",
     "addeddate": "2022-03-22 20:29:38"
   },
-  "server": "ia803007.us.archive.org",
-  "uniq": 1126680781,
+  "server": "ia903007.us.archive.org",
+  "uniq": 158562355,
   "workable_servers": [
-    "ia803007.us.archive.org",
-    "ia903007.us.archive.org"
+    "ia903007.us.archive.org",
+    "ia803007.us.archive.org"
   ]
 }

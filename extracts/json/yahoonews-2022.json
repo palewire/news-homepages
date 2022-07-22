@@ -1,5 +1,5 @@
 {
-  "created": 1658405991,
+  "created": 1658442049,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -4866,31 +4866,157 @@
       "sha1": "e9b31970c090190d6d893bc672c3c37eba9474a8"
     },
     {
+      "name": "yahoonews-2022-07-21T11:26:07.915952-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658417181",
+      "size": "37286",
+      "md5": "95ad390561af51db24f1388fd4bd3bb5",
+      "crc32": "47424857",
+      "sha1": "0ebe30024ee726153ed0bdc381ac9538a2737357",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-21T11:26:07.915952-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658417182",
+      "size": "18976",
+      "md5": "99fe6886f1f428bd80a9b543120f0b23",
+      "crc32": "2535469f",
+      "sha1": "f0a7107bd3654d39ff634be3597f8ca8fd0cf5ba",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-21T11:26:07.915952-04:00.jpg",
+      "source": "original",
+      "mtime": "1658417179",
+      "size": "314156",
+      "md5": "1fefad88b3b3473fc0d27a2611151857",
+      "crc32": "8fdc1978",
+      "sha1": "d4687b6aac8a6fb903568d33b94fcd34f8dd6eb7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-21T11:26:07.915952-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-21T11:26:07.915952-04:00.jpg",
+      "mtime": "1658422889",
+      "size": "10210",
+      "md5": "0a686e3399b5683c53cf653adb463748",
+      "crc32": "30c7db73",
+      "sha1": "4b8f32b2aa84972b66f65af92a5bf6dc515e01ba"
+    },
+    {
+      "name": "yahoonews-2022-07-21T13:00:35.741209-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658422848",
+      "size": "36747",
+      "md5": "07264260102e3e023b51584ec3954fec",
+      "crc32": "0fc39aa4",
+      "sha1": "b264e05a7735f301f7a879549768f34f183b11a7",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-21T13:00:35.741209-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658422850",
+      "size": "17468",
+      "md5": "d84e38a248ff109b271d841e77fc7e48",
+      "crc32": "59138cf8",
+      "sha1": "0120b1d2674713282414055a261c6f25b78b31f2",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-21T13:00:35.741209-04:00.jpg",
+      "source": "original",
+      "mtime": "1658422846",
+      "size": "325186",
+      "md5": "487116be574e92787a2668fde14e3fa6",
+      "crc32": "2000e096",
+      "sha1": "42bbe617a12e59b6209d61e855562010148b3213",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-21T13:00:35.741209-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-21T13:00:35.741209-04:00.jpg",
+      "mtime": "1658432084",
+      "size": "10271",
+      "md5": "ff39707f71dc709238421c69a9fb45af",
+      "crc32": "d8e139a3",
+      "sha1": "81dbc1a08447f72f55214f32d18cf12a91792ba5"
+    },
+    {
+      "name": "yahoonews-2022-07-21T17:11:10.646041-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658437873",
+      "size": "38931",
+      "md5": "fb3ced82b88b3b44e02a8d6a5c784c4c",
+      "crc32": "4c9d43cf",
+      "sha1": "8c3dabfd3e9029483e299551738f2eb89621a722",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-21T17:11:10.646041-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658437874",
+      "size": "19102",
+      "md5": "2329a20686dfa54f21bb817d8f07291e",
+      "crc32": "f08b6e0e",
+      "sha1": "a51158b0021be275e3e9beca988eba958c51981e",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-07-21T17:11:10.646041-04:00.jpg",
+      "source": "original",
+      "mtime": "1658437871",
+      "size": "321302",
+      "md5": "25bcc78b8705ec1eed389bee15612a19",
+      "crc32": "1364510b",
+      "sha1": "84108c76901d83dee20e97e5ca48b73b63f63d7a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-07-21T17:11:10.646041-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-07-21T17:11:10.646041-04:00.jpg",
+      "mtime": "1658442025",
+      "size": "10055",
+      "md5": "1ff2e0bcb27666122492855b926f1aeb",
+      "crc32": "8c109172",
+      "sha1": "966a47b905f2ef160b384477c49d68a61d2d87f2"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da3cd3bda92be09870704b45f866ed9dbd079bbd",
-      "mtime": "1658380572",
-      "size": "99639",
-      "md5": "ca235eb0063715280c28dc39c1f1e8cd",
-      "crc32": "6f88eccf",
-      "sha1": "739e298a7c22c8e79d5612e59f5b6ff699239024",
+      "btih": "cfe0aea13884746a12a9a3ea66bb8aa471f0401a",
+      "mtime": "1658442032",
+      "size": "102181",
+      "md5": "01665f391bf6034a15f11cb4e4c5d9a1",
+      "crc32": "b26e8324",
+      "sha1": "773ccb106934881a93bdd15e042fcce7002e4d55",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "382aa3cfdbeb2a41ca5bbf50182194d6",
+      "md5": "b89e99cb1cc59908018cf39af19563a3",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658378085",
-      "size": "548864",
-      "md5": "258197f9678d34f296bd8b402d55fbb6",
-      "crc32": "d9e9a4a3",
-      "sha1": "53f6b2db7b1de500c94b4faacfa04193b67aa1a7",
+      "mtime": "1658437879",
+      "size": "561152",
+      "md5": "8915d58b3fabdb049f4ec8c57361dd8c",
+      "crc32": "4040b7da",
+      "sha1": "8968788042894be0f5cfab9ee70773f2452d7cfb",
       "format": "Metadata"
     },
     {
@@ -4904,9 +5030,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 467,
-  "item_last_updated": 1658380572,
-  "item_size": 44861059,
+  "files_count": 479,
+  "item_last_updated": 1658442032,
+  "item_size": 46035579,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -4923,324 +5049,10 @@
     "publicdate": "2022-06-24 23:04:11",
     "addeddate": "2022-06-24 23:04:11"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 436575214,
+  "server": "ia801403.us.archive.org",
+  "uniq": 330123238,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
-  ],
-  "yahoonews-2022": [
-    {
-      "text": "      HOME",
-      "url": "https://www.yahoo.com/"
-    },
-    {
-      "text": " MAIL",
-      "url": "https://mail.yahoo.com/"
-    },
-    {
-      "text": " NEWS",
-      "url": "https://news.yahoo.com/"
-    },
-    {
-      "text": " FINANCE",
-      "url": "https://finance.yahoo.com/"
-    },
-    {
-      "text": " SPORTS",
-      "url": "https://sports.yahoo.com/"
-    },
-    {
-      "text": " ENTERTAINMENT",
-      "url": "https://www.yahoo.com/entertainment/"
-    },
-    {
-      "text": " LIFE",
-      "url": "https://www.yahoo.com/lifestyle"
-    },
-    {
-      "text": " SEARCH",
-      "url": "https://search.yahoo.com/search/"
-    },
-    {
-      "text": " SHOPPING",
-      "url": "https://shopping.yahoo.com/"
-    },
-    {
-      "text": " YAHOO PLUS",
-      "url": "https://www.yahoo.com/plus"
-    },
-    {
-      "text": " MORE...",
-      "url": "https://www.yahoo.com/everything/"
-    },
-    {
-      "text": "    Upgrade Now   ",
-      "url": "https://ad.doubleclick.net/ddm/trackclk/N360801.1913355YAHOOADMANAGER/B23644564.308265615;dc_trk_aid=490102767;dc_trk_cid=127172993;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
-    },
-    {
-      "text": "                   Yahoo News",
-      "url": "https://news.yahoo.com/"
-    },
-    {
-      "text": "Sign in",
-      "url": "https://login.yahoo.com/?.lang=en-US&src=news&.done=https%3A%2F%2Fnews.yahoo.com%2F&pspid=1197800621&activity=ybar-signin"
-    },
-    {
-      "text": "       Mail",
-      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
-    },
-    {
-      "text": "Sign in",
-      "url": "https://mail.yahoo.com/?pspid=1197800621&activity=ybar-mail"
-    },
-    {
-      "text": " News   News",
-      "url": "https://news.yahoo.com"
-    },
-    {
-      "text": " US   US",
-      "url": "https://news.yahoo.com/us/"
-    },
-    {
-      "text": " Politics   Politics",
-      "url": "https://news.yahoo.com/politics/"
-    },
-    {
-      "text": " World   World",
-      "url": "https://news.yahoo.com/world/"
-    },
-    {
-      "text": " COVID-19   COVID-19",
-      "url": "https://news.yahoo.com/coronavirus/"
-    },
-    {
-      "text": " Climate Change   Climate Change",
-      "url": "https://www.yahoo.com/news/tagged/climate-change/"
-    },
-    {
-      "text": " Health   Health",
-      "url": "https://news.yahoo.com/health/"
-    },
-    {
-      "text": " Science   Science",
-      "url": "https://news.yahoo.com/science/"
-    },
-    {
-      "text": " Originals   Originals",
-      "url": "https://news.yahoo.com/originals/"
-    },
-    {
-      "text": "The 360The 360",
-      "url": "https://news.yahoo.com/tagged/360/"
-    },
-    {
-      "text": "Skullduggery PodcastSkullduggery Podcast",
-      "url": "https://news.yahoo.com/tagged/skullduggery/"
-    },
-    {
-      "text": "ConspiracylandConspiracyland",
-      "url": "https://news.yahoo.com/tagged/conspiracyland/"
-    },
-    {
-      "text": " Veterans   Veterans",
-      "url": "https://www.yahoo.com/partner/wounded-warrior-project/index.html"
-    },
-    {
-      "text": " Contact Us   Contact Us",
-      "url": "https://yahoo.uservoice.com/forums/204992-us-news"
-    },
-    {
-      "text": "'They are no more': Ukrainian first lady's stinging addressUkrainian first lady Olena Zelenska presented images of young girls and boys killed by Russian missile strikes as she addressed Congress on Wednesday.'How many children like him' \u00bb",
-      "url": "/ukrainian-first-lady-zelenska-address-to-congress-russia-war-162633847.html"
-    },
-    {
-      "text": "Son of retired N.Y. judge kills mom before 16-story jump",
-      "url": "/son-retired-n-y-judge-122108845.html"
-    },
-    {
-      "text": "'Was it revenge?': Fidgeting Putin is kept waiting",
-      "url": "/fidgeting-putin-kept-waiting-erdogan-082551129.html"
-    },
-    {
-      "text": "'I smell a rat': Secret Service deleted key text messages",
-      "url": "/secret-service-deleted-jan-6-text-messages-after-house-requested-them-211753131.html"
-    },
-    {
-      "text": "Siblings say more abuse after 'House of Horror' rescue",
-      "url": "https://www.yahoo.com/gma/turpin-siblings-file-lawsuit-alleging-113700433.html"
-    },
-    {
-      "text": "'Totally different': GOP base shifts on Trump amid probe",
-      "url": "/accumulation-jan-6-hearings-wounding-083000217.html"
-    },
-    {
-      "text": "Pakistan police arrest 2 men accused of gang raping US woman",
-      "url": "/pakistan-police-arrest-2-men-084722392.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=lpVSursGIS_ixFQTNUvrCw.s6GyOd7Pb.0vcG2F4VAvUF4m0CdR0kZ1Y.EV4EdBCjCgccqx.W2FeVyhED.iSXnNcQZ8cSUcNYcVBKJw1f3tnCljVyAmVAyL.uc8I56viFm9FylOm_TkSVhKiSuNXljlqYD1RWz1IvBGdZXndVYUVqR2vAvw4E5BI7.EHxL5XB6RGjyl9xlXzPWrmLD2UBkvvb9nGOeVLOUD4S6vnDW.0vismcaJTl0JfMxiwHvqe7ym.6E4Wr39J8GJlivjvakT_h94AAsKxsE.pOqwdRHpYKwgrdKYUF.u.Coh0e9uLPw_6athP58s.X5ITSz.LkYOduBBEpzZGcCAeF5T_5kDLf0xbZNWBWp3v6Y4Axhdiyur06T.ffGV2HulBlxOW8bJod5mOEmZJNMD7KQYlWuuwK03e5ufgM1qQvUEq.ooscV8WN1mAphESNsFuLoE5VFZaPegaYdpGofSwpiLR6DCXlGZU..3oF.NDIqiFwdnLCfyYM3uBO7cNSZRSXUf1pCCeZxHHf9_Bml1j.WrrdZdO1b0Q19vzIjwWO69e__SHxbQO45b34.kWtL07Ye7fYQOMAt.9H35uo3mhssVzsbFJwR7HVDpkG3DpXMkrAFTFNk41GV4PA79MZMZRInF7kbKD.lJ76Dd.HpN4Fcz1nt25pWlL1xaSPDnHcvakQ8p7P59pDyaV0n9KEp_fB8VrlLyf9nQ4c2eeXu87DDDambhIcdFsyv9GqukWD2_puhOPoy2GaCsxw6e.f870c87QIpgq8yhhtEyxUWD_hq9U5zi33am92OryuCz3N9zzWpxraRDpbMJmW.nX6RbFZJw84nZLoMURF0ZU"
-    },
-    {
-      "text": "Ad",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "Guardio",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=lpVSursGIS_ixFQTNUvrCw.s6GyOd7Pb.0vcG2F4VAvUF4m0CdR0kZ1Y.EV4EdBCjCgccqx.W2FeVyhED.iSXnNcQZ8cSUcNYcVBKJw1f3tnCljVyAmVAyL.uc8I56viFm9FylOm_TkSVhKiSuNXljlqYD1RWz1IvBGdZXndVYUVqR2vAvw4E5BI7.EHxL5XB6RGjyl9xlXzPWrmLD2UBkvvb9nGOeVLOUD4S6vnDW.0vismcaJTl0JfMxiwHvqe7ym.6E4Wr39J8GJlivjvakT_h94AAsKxsE.pOqwdRHpYKwgrdKYUF.u.Coh0e9uLPw_6athP58s.X5ITSz.LkYOduBBEpzZGcCAeF5T_5kDLf0xbZNWBWp3v6Y4Axhdiyur06T.ffGV2HulBlxOW8bJod5mOEmZJNMD7KQYlWuuwK03e5ufgM1qQvUEq.ooscV8WN1mAphESNsFuLoE5VFZaPegaYdpGofSwpiLR6DCXlGZU..3oF.NDIqiFwdnLCfyYM3uBO7cNSZRSXUf1pCCeZxHHf9_Bml1j.WrrdZdO1b0Q19vzIjwWO69e__SHxbQO45b34.kWtL07Ye7fYQOMAt.9H35uo3mhssVzsbFJwR7HVDpkG3DpXMkrAFTFNk41GV4PA79MZMZRInF7kbKD.lJ76Dd.HpN4Fcz1nt25pWlL1xaSPDnHcvakQ8p7P59pDyaV0n9KEp_fB8VrlLyf9nQ4c2eeXu87DDDambhIcdFsyv9GqukWD2_puhOPoy2GaCsxw6e.f870c87QIpgq8yhhtEyxUWD_hq9U5zi33am92OryuCz3N9zzWpxraRDpbMJmW.nX6RbFZJw84nZLoMURF0ZU"
-    },
-    {
-      "text": "Remove Malware Hiding on Your Computer",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=lpVSursGIS_ixFQTNUvrCw.s6GyOd7Pb.0vcG2F4VAvUF4m0CdR0kZ1Y.EV4EdBCjCgccqx.W2FeVyhED.iSXnNcQZ8cSUcNYcVBKJw1f3tnCljVyAmVAyL.uc8I56viFm9FylOm_TkSVhKiSuNXljlqYD1RWz1IvBGdZXndVYUVqR2vAvw4E5BI7.EHxL5XB6RGjyl9xlXzPWrmLD2UBkvvb9nGOeVLOUD4S6vnDW.0vismcaJTl0JfMxiwHvqe7ym.6E4Wr39J8GJlivjvakT_h94AAsKxsE.pOqwdRHpYKwgrdKYUF.u.Coh0e9uLPw_6athP58s.X5ITSz.LkYOduBBEpzZGcCAeF5T_5kDLf0xbZNWBWp3v6Y4Axhdiyur06T.ffGV2HulBlxOW8bJod5mOEmZJNMD7KQYlWuuwK03e5ufgM1qQvUEq.ooscV8WN1mAphESNsFuLoE5VFZaPegaYdpGofSwpiLR6DCXlGZU..3oF.NDIqiFwdnLCfyYM3uBO7cNSZRSXUf1pCCeZxHHf9_Bml1j.WrrdZdO1b0Q19vzIjwWO69e__SHxbQO45b34.kWtL07Ye7fYQOMAt.9H35uo3mhssVzsbFJwR7HVDpkG3DpXMkrAFTFNk41GV4PA79MZMZRInF7kbKD.lJ76Dd.HpN4Fcz1nt25pWlL1xaSPDnHcvakQ8p7P59pDyaV0n9KEp_fB8VrlLyf9nQ4c2eeXu87DDDambhIcdFsyv9GqukWD2_puhOPoy2GaCsxw6e.f870c87QIpgq8yhhtEyxUWD_hq9U5zi33am92OryuCz3N9zzWpxraRDpbMJmW.nX6RbFZJw84nZLoMURF0ZU"
-    },
-    {
-      "text": "Former clerk for Supreme Court Justice Clarence Thomas says he is a 'wonderful' person with 'originalist' views, but 'he will be judged for what he does as a justice'",
-      "url": "/former-clerk-supreme-court-justice-010827108.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Bruce Springsteen fans experience sticker shock over 2023 U.S. tour tickets cost",
-      "url": "/bruce-springsteen-fans-experience-sticker-011349483.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Goldman Sachs: The economy 'is going to slow a lot' \u2014 but there is one big upside",
-      "url": "/economy-about-to-slow-goldman-but-one-big-upside-183124420.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=pRfBFKcGIS.j4dJurtJfyv1YmdUyTCQxHjtY.qO67hWo29aIipcbwhEBIfQKAjMIml9v36oB.chcbpmGFyyzO_1yjxrNspT2nxED.s7n_.bmlWetiWAzwunkpoFewwIeyy7Uoo4U4f.HpmZhenRAqXcwUknsIdfccMxYHU2BFRkvyGV.uuqg74liPdS3HWkcn7YIcz3im9FPBVFuWuLo8i.hlbfx2YUmrqmqFT7LNVZ8arw4jkL1648KhTURDwVhK1aVS8DeODX79L2kPVsGVSW6rD2k1eTARjJsL8pft7C3l2ZD5Vx8cUX14bwVdjsFfAT0ukXFOTOc872.wB42fNEROr0T5xAQG9kQ87JM4ACZu80YH4aPllWHl9UjMMw3UVYXbqotwy5BV1DOheg175cjKVj3zvchy.MIPbeQJF42HCKIns0V5FBQ0dimKKX2AljVeslcDG9GJ3FhWfdYpu3c4aDQn2gd9zF7VeeozZq3_1rrJZ585f0VBslF8bkAE4DnLP1Lulef7lN_0uElHtiLBBKpYIAsXmn5o75_4YeLWZ8SeSxWqzVofAqHlWFJjRnnjqypTHP9lRKp_X8OWaBHj.CVbx2wIvsyXdZCV2XUBosjc4mWczv_YY6mScKJrJZnG2FuzMUfpjNbwIBibr8-"
-    },
-    {
-      "text": "Ad",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "SmartAsset",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=pRfBFKcGIS.j4dJurtJfyv1YmdUyTCQxHjtY.qO67hWo29aIipcbwhEBIfQKAjMIml9v36oB.chcbpmGFyyzO_1yjxrNspT2nxED.s7n_.bmlWetiWAzwunkpoFewwIeyy7Uoo4U4f.HpmZhenRAqXcwUknsIdfccMxYHU2BFRkvyGV.uuqg74liPdS3HWkcn7YIcz3im9FPBVFuWuLo8i.hlbfx2YUmrqmqFT7LNVZ8arw4jkL1648KhTURDwVhK1aVS8DeODX79L2kPVsGVSW6rD2k1eTARjJsL8pft7C3l2ZD5Vx8cUX14bwVdjsFfAT0ukXFOTOc872.wB42fNEROr0T5xAQG9kQ87JM4ACZu80YH4aPllWHl9UjMMw3UVYXbqotwy5BV1DOheg175cjKVj3zvchy.MIPbeQJF42HCKIns0V5FBQ0dimKKX2AljVeslcDG9GJ3FhWfdYpu3c4aDQn2gd9zF7VeeozZq3_1rrJZ585f0VBslF8bkAE4DnLP1Lulef7lN_0uElHtiLBBKpYIAsXmn5o75_4YeLWZ8SeSxWqzVofAqHlWFJjRnnjqypTHP9lRKp_X8OWaBHj.CVbx2wIvsyXdZCV2XUBosjc4mWczv_YY6mScKJrJZnG2FuzMUfpjNbwIBibr8-"
-    },
-    {
-      "text": "San Francisco: Bank Accounts With 7X the Average Rate",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=pRfBFKcGIS.j4dJurtJfyv1YmdUyTCQxHjtY.qO67hWo29aIipcbwhEBIfQKAjMIml9v36oB.chcbpmGFyyzO_1yjxrNspT2nxED.s7n_.bmlWetiWAzwunkpoFewwIeyy7Uoo4U4f.HpmZhenRAqXcwUknsIdfccMxYHU2BFRkvyGV.uuqg74liPdS3HWkcn7YIcz3im9FPBVFuWuLo8i.hlbfx2YUmrqmqFT7LNVZ8arw4jkL1648KhTURDwVhK1aVS8DeODX79L2kPVsGVSW6rD2k1eTARjJsL8pft7C3l2ZD5Vx8cUX14bwVdjsFfAT0ukXFOTOc872.wB42fNEROr0T5xAQG9kQ87JM4ACZu80YH4aPllWHl9UjMMw3UVYXbqotwy5BV1DOheg175cjKVj3zvchy.MIPbeQJF42HCKIns0V5FBQ0dimKKX2AljVeslcDG9GJ3FhWfdYpu3c4aDQn2gd9zF7VeeozZq3_1rrJZ585f0VBslF8bkAE4DnLP1Lulef7lN_0uElHtiLBBKpYIAsXmn5o75_4YeLWZ8SeSxWqzVofAqHlWFJjRnnjqypTHP9lRKp_X8OWaBHj.CVbx2wIvsyXdZCV2XUBosjc4mWczv_YY6mScKJrJZnG2FuzMUfpjNbwIBibr8-"
-    },
-    {
-      "text": "Orange County woman who experienced anti-Asian hate at a Halsey concert speaks up",
-      "url": "/orange-county-woman-experienced-anti-222923019.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Ivana Trump's funeral in photos: Who attended the 'glamorous celebration of her life'",
-      "url": "/ivana-trumps-funeral-photos-attended-000720317.html"
-    },
-    {
-      "text": "Donald Trump among mourners at Ivana Trump\u2019s funeralYahoo News Video",
-      "url": "/donald-trump-among-mourners-ivana-212312490.html"
-    },
-    {
-      "text": "Mourners gather for Ivana Trump's funeralYahoo News Video",
-      "url": "/mourners-gather-ivana-trumps-funeral-193114022.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Georgia school logo resembling a Nazi symbol sparks outrage",
-      "url": "/georgia-school-logo-resembling-nazi-233505943.html"
-    },
-    {
-      "text": "Georgia school faces outrage for new logo that resembles Nazi crestThe Hill",
-      "url": "/georgia-school-faces-outrage-logo-212234268.html"
-    },
-    {
-      "text": "Georgia school under fire for unveiling \u2018sick\u2019 new logo that resembles Nazi symbolThe Independent",
-      "url": "/anger-georgia-school-unveils-logo-085411345.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=R.QjMVwGIS_hzTydvyVxxjqGXOePhGY8E1aWbO_tAeVo..NaP5LhictOxlrGsSiWYlbQ4Ea7npjEIz2X.E2xOrqVe_3Z5sLcxSrAmdRBHkuoR5Un9VbLuEC6RJwpGZEGj.VFnA5ay4UqvyXZMfxEUpRn8.DcGn4SDzBWIyFFnZxSCk04sGoTX8rv.NU2iK6vcsC.RRnC5OT_ouOG6m_TxJsAOOpx4i0DOEjzmLRtCD__R5WtWk3x4O3rkiGRFNGHP6TJDHUkIpuSReextxzPi18b3fWFlCOXC7sBBL7VSk65CVK.riCfMXKrxL9zx.MbK7oC_c_XHvfJeBHktJHjN058N3UNEmmv.HBT5.99r_qu8Lls_9exGc8HOj.aAP8_Rcf9EfGtn0W5O9Em8xPEgKLB9ltZj8WV6gKsOo4F2qMmyx.a6Ct5zGDfseoGmy3lq0kP1pKxfEmYAaQKTbCtu4GJQ4iye2AuYC1XZf30W5NFnv.6zdwcvISQSBg0xgmMbt0aRdFnfVoTUuDpufGrMag3Cjfj7Oo6yb8ySPOBgmuz9jTJYQNrrrigmv7mrH2Wwzth_o6O6R5LJi_b3eEnNsEwngm9pi4.zHe51BZtn8UcEbQzgcwVsNSBM_KVwvvpOKl1E_6SvHxP720FiSbRLThjYyf8_4NWHHrpQ.MUyeCoCMpKYghqwUDNrFzdQK5I6DRwrxopNg_.rGD2DFJwuPRvW3UXS6YAA8llqeQo3wib_37N4GqdRHLc42OtHo31popYXYtGwQmIwvatd0tJZ_N.s0m4Uw--"
-    },
-    {
-      "text": "Ad",
-      "url": "https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html"
-    },
-    {
-      "text": "SolarExpert",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=R.QjMVwGIS_hzTydvyVxxjqGXOePhGY8E1aWbO_tAeVo..NaP5LhictOxlrGsSiWYlbQ4Ea7npjEIz2X.E2xOrqVe_3Z5sLcxSrAmdRBHkuoR5Un9VbLuEC6RJwpGZEGj.VFnA5ay4UqvyXZMfxEUpRn8.DcGn4SDzBWIyFFnZxSCk04sGoTX8rv.NU2iK6vcsC.RRnC5OT_ouOG6m_TxJsAOOpx4i0DOEjzmLRtCD__R5WtWk3x4O3rkiGRFNGHP6TJDHUkIpuSReextxzPi18b3fWFlCOXC7sBBL7VSk65CVK.riCfMXKrxL9zx.MbK7oC_c_XHvfJeBHktJHjN058N3UNEmmv.HBT5.99r_qu8Lls_9exGc8HOj.aAP8_Rcf9EfGtn0W5O9Em8xPEgKLB9ltZj8WV6gKsOo4F2qMmyx.a6Ct5zGDfseoGmy3lq0kP1pKxfEmYAaQKTbCtu4GJQ4iye2AuYC1XZf30W5NFnv.6zdwcvISQSBg0xgmMbt0aRdFnfVoTUuDpufGrMag3Cjfj7Oo6yb8ySPOBgmuz9jTJYQNrrrigmv7mrH2Wwzth_o6O6R5LJi_b3eEnNsEwngm9pi4.zHe51BZtn8UcEbQzgcwVsNSBM_KVwvvpOKl1E_6SvHxP720FiSbRLThjYyf8_4NWHHrpQ.MUyeCoCMpKYghqwUDNrFzdQK5I6DRwrxopNg_.rGD2DFJwuPRvW3UXS6YAA8llqeQo3wib_37N4GqdRHLc42OtHo31popYXYtGwQmIwvatd0tJZ_N.s0m4Uw--"
-    },
-    {
-      "text": "California Will Cover The Cost To Install Solar Panel",
-      "url": "https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=R.QjMVwGIS_hzTydvyVxxjqGXOePhGY8E1aWbO_tAeVo..NaP5LhictOxlrGsSiWYlbQ4Ea7npjEIz2X.E2xOrqVe_3Z5sLcxSrAmdRBHkuoR5Un9VbLuEC6RJwpGZEGj.VFnA5ay4UqvyXZMfxEUpRn8.DcGn4SDzBWIyFFnZxSCk04sGoTX8rv.NU2iK6vcsC.RRnC5OT_ouOG6m_TxJsAOOpx4i0DOEjzmLRtCD__R5WtWk3x4O3rkiGRFNGHP6TJDHUkIpuSReextxzPi18b3fWFlCOXC7sBBL7VSk65CVK.riCfMXKrxL9zx.MbK7oC_c_XHvfJeBHktJHjN058N3UNEmmv.HBT5.99r_qu8Lls_9exGc8HOj.aAP8_Rcf9EfGtn0W5O9Em8xPEgKLB9ltZj8WV6gKsOo4F2qMmyx.a6Ct5zGDfseoGmy3lq0kP1pKxfEmYAaQKTbCtu4GJQ4iye2AuYC1XZf30W5NFnv.6zdwcvISQSBg0xgmMbt0aRdFnfVoTUuDpufGrMag3Cjfj7Oo6yb8ySPOBgmuz9jTJYQNrrrigmv7mrH2Wwzth_o6O6R5LJi_b3eEnNsEwngm9pi4.zHe51BZtn8UcEbQzgcwVsNSBM_KVwvvpOKl1E_6SvHxP720FiSbRLThjYyf8_4NWHHrpQ.MUyeCoCMpKYghqwUDNrFzdQK5I6DRwrxopNg_.rGD2DFJwuPRvW3UXS6YAA8llqeQo3wib_37N4GqdRHLc42OtHo31popYXYtGwQmIwvatd0tJZ_N.s0m4Uw--"
-    },
-    {
-      "text": "Apology after Black girls snubbed at park parade",
-      "url": "/apology-black-girls-snubbed-park-192436944.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Elon Musk Soaks Up Sun While Spending Time with Pals Aboard Luxury Yacht in Greece",
-      "url": "/elon-musk-soaks-sun-while-180000761.html"
-    },
-    {
-      "text": "Twitter, Tesla CEO Elon Musk go to court for first timeYahoo Finance Video",
-      "url": "/twitter-tesla-ceo-elon-musk-133146037.html"
-    },
-    {
-      "text": "Elon Musk spends time aboard luxury yacht in Greece amid Twitter disputePeople",
-      "url": "/elon-musk-spends-time-aboard-185648354.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Russia's Putin: We are yet to see the quality of returned Nord Stream 1 equipment",
-      "url": "/russias-putin-yet-see-quality-131829775.html"
-    },
-    {
-      "text": "Putin: Quality of returned Nord Stream 1 turbine unclearReuters Videos",
-      "url": "/putin-quality-returned-nord-stream-180350126.html"
-    },
-    {
-      "text": "Europe races to cut gas usage after Putin warningReuters Videos",
-      "url": "/europe-races-cut-gas-usage-132645044.html"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Will AI one day become sentient?",
-      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
-    },
-    {
-      "text": "Read the 360",
-      "url": "https://news.yahoo.com/should-we-be-worried-about-ai-becoming-sentient-141300344.html"
-    }
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

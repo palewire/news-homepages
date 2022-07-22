@@ -1,5 +1,5 @@
 {
-  "created": 1658405527,
+  "created": 1658449470,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/15/items/kvue-2022",
@@ -352,31 +352,73 @@
       "sha1": "1ea9b8509249fd831642bf32a555fea29033d749"
     },
     {
+      "name": "kvue-2022-07-21T09:21:05.475735-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658413270",
+      "size": "7455",
+      "md5": "d20ec691a1cea21bca91ed607f445615",
+      "crc32": "f21deed3",
+      "sha1": "f842906edb87f15351bb05522944935caf12c0af",
+      "format": "JSON"
+    },
+    {
+      "name": "kvue-2022-07-21T09:21:05.475735-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658413271",
+      "size": "56994",
+      "md5": "01c0a47c4f5d025f365d451ec3b4bcda",
+      "crc32": "585cfc97",
+      "sha1": "0b4104d6a04421d1674252dd7e55bb8a9a4a512c",
+      "format": "JSON"
+    },
+    {
+      "name": "kvue-2022-07-21T09:21:05.475735-05:00.jpg",
+      "source": "original",
+      "mtime": "1658413268",
+      "size": "260830",
+      "md5": "76b7cb7c4134e9ac46753180e3d59427",
+      "crc32": "b37eb116",
+      "sha1": "f65a05c83a10c9c458234c456cb365e1c15ecf2e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvue-2022-07-21T09:21:05.475735-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvue-2022-07-21T09:21:05.475735-05:00.jpg",
+      "mtime": "1658421698",
+      "size": "9544",
+      "md5": "f8a6f146b8ddc4180e834c3bf30f08c7",
+      "crc32": "71269c2d",
+      "sha1": "69afa37bd9009060177dddae65431d0192bc875a"
+    },
+    {
       "name": "kvue-2022_archive.torrent",
       "source": "metadata",
-      "btih": "065b7999b11299822ce0f956c21f64b063b4bb6b",
-      "mtime": "1658371777",
-      "size": "8165",
-      "md5": "c485d051150d2fb59b246caa35167224",
-      "crc32": "c1cd22c6",
-      "sha1": "b2ef6f0c8f4b255c8fd441eb9a2da6911c0d0781",
+      "btih": "5e70bbb5c3cefc07a472d49ff9dd38993df29220",
+      "mtime": "1658421706",
+      "size": "8997",
+      "md5": "40e289df59643f3f3bb3a8fa728f0f52",
+      "crc32": "76183b78",
+      "sha1": "c8c04c2b7524af4acd2bb0466808d88fcaba7e57",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvue-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "80aea3087a0f626f5e41376a086823a6",
+      "md5": "22a88ddb241682d703e9a5981d391102",
       "summation": "md5"
     },
     {
       "name": "kvue-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658370504",
-      "size": "53248",
-      "md5": "6eec991a83e1aad81384694e38abb572",
-      "crc32": "4313e747",
-      "sha1": "02cee6d5ae1be2b2c2c7fe35a8d2bf792edc174a",
+      "mtime": "1658413277",
+      "size": "57344",
+      "md5": "0d7a4c4d4239a83de90640cdc09ba97e",
+      "crc32": "6bf3cee5",
+      "sha1": "58e86284a6a621cd9780bcbe84726b2e2bf1ae99",
       "format": "Metadata"
     },
     {
@@ -390,9 +432,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 37,
-  "item_last_updated": 1658371777,
-  "item_size": 2555876,
+  "files_count": 41,
+  "item_last_updated": 1658421706,
+  "item_size": 2895627,
   "kvue-2022": [
     {
       "text": "Skip Navigation",
@@ -456,19 +498,19 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
+      "url": "https://www.kvue.com/article/news/local/travis-county-esd-no-2-cadets-graduate/269-f1e74ced-9468-4482-9321-1d0396576cbd"
     },
     {
-      "text": "Lake Travis ISD school board considers $703 million bond for 3 new schools, tech and more",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
+      "text": "Travis County ESD No. 2 to graduate new class on Thursday",
+      "url": "https://www.kvue.com/article/news/local/travis-county-esd-no-2-cadets-graduate/269-f1e74ced-9468-4482-9321-1d0396576cbd"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/video/news/special-reports/uvalde-school-shooting/closer-look-at-alerrt-active-shooter-training-program/269-8d3c9a2b-d870-435b-b810-0b3765855207"
+      "url": "https://www.kvue.com/article/news/politics/austin-mayor-and-council/austin-city-council-abortion-grace-act/269-a5950cd5-2c1c-4cc4-9798-1405bc5e57dd"
     },
     {
-      "text": "A closer look at 'ALERRT' active shooter training program",
-      "url": "https://www.kvue.com/video/news/special-reports/uvalde-school-shooting/closer-look-at-alerrt-active-shooter-training-program/269-8d3c9a2b-d870-435b-b810-0b3765855207"
+      "text": "Austin City Council to address abortion rights in special meeting",
+      "url": "https://www.kvue.com/article/news/politics/austin-mayor-and-council/austin-city-council-abortion-grace-act/269-a5950cd5-2c1c-4cc4-9798-1405bc5e57dd"
     },
     {
       "text": "\n                                        Weather\n                            ",
@@ -555,7 +597,7 @@
       "url": "/search"
     },
     {
-      "text": "\n                    \n                        \n                            Right Now\n                            Austin, TX\u00a0\u00bb\n                        \n                        \n                            \n                                92\u00b0\n\n                                \n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                \n                            \n                            Austin, TX\u00a0\u00bb\n                        \n                    \n                ",
+      "text": "\n                    \n                        \n                            Right Now\n                            Austin, TX\u00a0\u00bb\n                        \n                        \n                            \n                                82\u00b0\n\n                                \n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                \n                            \n                            Austin, TX\u00a0\u00bb\n                        \n                    \n                ",
       "url": "/weather"
     },
     {
@@ -608,11 +650,11 @@
     },
     {
       "text": "\n                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                    ",
-      "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/five-texas-officers-uvalde-school-mass-shooting/269-96397708-168c-4ed8-baf9-01b15c1cfb8c"
+      "url": "https://www.kvue.com/article/news/crime/austin-shooting-oltorf-first-street/269-9e24f690-de4f-41f3-b14f-14b82421418e"
     },
     {
-      "text": "\n                Five Texas officers directly engaged with gunman during Uvalde mass shooting, reports show\n                    Officer-involved shooting reports indicate five officers were directly involved with the gunman and two of those were hurt while at the scene on May 24.\n            ",
-      "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/five-texas-officers-uvalde-school-mass-shooting/269-96397708-168c-4ed8-baf9-01b15c1cfb8c"
+      "text": "\n                Police investigating fatal shooting at South Austin gas station\n                    The murder near the intersection of South First Street and West Oltorf Street is Austin's 41st homicide of the year.\n            ",
+      "url": "https://www.kvue.com/article/news/crime/austin-shooting-oltorf-first-street/269-9e24f690-de4f-41f3-b14f-14b82421418e"
     },
     {
       "text": "Weather",
@@ -711,20 +753,20 @@
       "url": "https://www.kvue.com/article/news/news-links-on-kvue/269-44048917"
     },
     {
-      "text": "Uvalde school district recommends firing school police chief Pete Arredondo, report says",
-      "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/ap-uvalde-school-district-recommends-firing-police-chief-pete-arredondo/273-f34f6bdc-b82f-46b3-a580-433e0e20a792"
+      "text": "Swimmer dies after going missing on Lake Travis",
+      "url": "https://www.kvue.com/article/news/local/missing-swimmer-death-bob-wentz-park/269-43fa47e6-6f49-45c0-8b6f-bf9df2787965"
+    },
+    {
+      "text": "Five Texas officers directly engaged with gunman during Uvalde mass shooting, reports show",
+      "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/five-texas-officers-uvalde-school-mass-shooting/269-96397708-168c-4ed8-baf9-01b15c1cfb8c"
     },
     {
       "text": "In wake of Uvalde shooting, former Navy SEAL believes tactical military training would be beneficial for police",
       "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/uvalde-shooting-former-navy-seal-tactical-military-training/269-22ac8160-e23c-4a3b-8c08-7b5eda007a34"
     },
     {
-      "text": "Kaitlin Armstrong pleads not guilty to murder charge",
-      "url": "https://www.kvue.com/article/news/crime/kaitlin-armstrong-first-court-appearance/269-3fdb736d-5b15-4f19-861e-78eb14b56260"
-    },
-    {
-      "text": "Preparing to keep kids safe: A look at ALERRT active shooter training",
-      "url": "https://www.kvue.com/article/news/education/schools/alerrt-active-shooter-training/269-14320f79-fa19-4916-a7e8-4a8cba9f9966"
+      "text": "Uvalde school district recommends firing school police chief Pete Arredondo, report says",
+      "url": "https://www.kvue.com/article/news/special-reports/uvalde-school-shooting/ap-uvalde-school-district-recommends-firing-police-chief-pete-arredondo/273-f34f6bdc-b82f-46b3-a580-433e0e20a792"
     },
     {
       "text": "Share your concerns: 2022 back-to-school survey",
@@ -736,75 +778,75 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
+      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
     },
     {
-      "text": "Lake Travis ISD school board considers $703 million bond for 3 new schools, tech and more",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
+      "text": "Typhoon Texas to dump 15,000 pounds of ice into wave pool for the 'ultimate cool down'",
+      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
     },
     {
-      "text": "The massive bond, if approved, would be broken up into three propositions for voters to decide on.",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/local/missing-swimmer-death-bob-wentz-park/269-43fa47e6-6f49-45c0-8b6f-bf9df2787965"
-    },
-    {
-      "text": "Swimmer dies after going missing on Lake Travis",
-      "url": "https://www.kvue.com/article/news/local/missing-swimmer-death-bob-wentz-park/269-43fa47e6-6f49-45c0-8b6f-bf9df2787965"
-    },
-    {
-      "text": "Despite CPR efforts from first responders, the swimmer did not survive, rescuers said.",
-      "url": "https://www.kvue.com/article/news/local/missing-swimmer-death-bob-wentz-park/269-43fa47e6-6f49-45c0-8b6f-bf9df2787965"
+      "text": "The water park said you can also expect snow machines and an appearance by Elsa from Disney's \"Frozen.\"",
+      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/nation-world/tesla-2q-profit-bitcoin/507-625debc3-e06f-420c-9c73-2d8773125dd2"
+      "url": "https://www.kvue.com/article/weather/tis-almost-the-season-counting-down-to-cooler-temperatures/269-552362d4-4264-48eb-9bbf-2e55cd655b0f"
     },
     {
-      "text": "Tesla 2Q profit drops from 1Q, but company beats estimates",
-      "url": "https://www.kvue.com/article/news/nation-world/tesla-2q-profit-bitcoin/507-625debc3-e06f-420c-9c73-2d8773125dd2"
+      "text": "'Tis (almost) the season: Counting down to cooler temperatures",
+      "url": "https://www.kvue.com/article/weather/tis-almost-the-season-counting-down-to-cooler-temperatures/269-552362d4-4264-48eb-9bbf-2e55cd655b0f"
     },
     {
-      "text": "The company revealed it has converted 75% of its bitcoin investment to cash after the cryptocurrency's price plummeted this year.",
-      "url": "https://www.kvue.com/article/news/nation-world/tesla-2q-profit-bitcoin/507-625debc3-e06f-420c-9c73-2d8773125dd2"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
-    },
-    {
-      "text": "Lake Travis ISD school board considers $703 million bond for 3 new schools, tech and more",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
-    },
-    {
-      "text": "The massive bond, if approved, would be broken up into three propositions for voters to decide on.",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
+      "text": "With record heat currently in the forecast, we thought we'd look ahead to cooler days.",
+      "url": "https://www.kvue.com/article/weather/tis-almost-the-season-counting-down-to-cooler-temperatures/269-552362d4-4264-48eb-9bbf-2e55cd655b0f"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/local/missing-swimmer-death-bob-wentz-park/269-43fa47e6-6f49-45c0-8b6f-bf9df2787965"
+      "url": "https://www.kvue.com/article/news/crime/kaitlin-armstrong-first-court-appearance/269-3fdb736d-5b15-4f19-861e-78eb14b56260"
     },
     {
-      "text": "Swimmer dies after going missing on Lake Travis",
-      "url": "https://www.kvue.com/article/news/local/missing-swimmer-death-bob-wentz-park/269-43fa47e6-6f49-45c0-8b6f-bf9df2787965"
+      "text": "Kaitlin Armstrong pleads not guilty to murder charge",
+      "url": "https://www.kvue.com/article/news/crime/kaitlin-armstrong-first-court-appearance/269-3fdb736d-5b15-4f19-861e-78eb14b56260"
     },
     {
-      "text": "Despite CPR efforts from first responders, the swimmer did not survive, rescuers said.",
-      "url": "https://www.kvue.com/article/news/local/missing-swimmer-death-bob-wentz-park/269-43fa47e6-6f49-45c0-8b6f-bf9df2787965"
+      "text": "Armstrong is facing a first-degree murder charge in connection with the death of professional cyclist Anna Moriah Wilson.",
+      "url": "https://www.kvue.com/article/news/crime/kaitlin-armstrong-first-court-appearance/269-3fdb736d-5b15-4f19-861e-78eb14b56260"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/nation-world/tesla-2q-profit-bitcoin/507-625debc3-e06f-420c-9c73-2d8773125dd2"
+      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
     },
     {
-      "text": "Tesla 2Q profit drops from 1Q, but company beats estimates",
-      "url": "https://www.kvue.com/article/news/nation-world/tesla-2q-profit-bitcoin/507-625debc3-e06f-420c-9c73-2d8773125dd2"
+      "text": "Typhoon Texas to dump 15,000 pounds of ice into wave pool for the 'ultimate cool down'",
+      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
     },
     {
-      "text": "The company revealed it has converted 75% of its bitcoin investment to cash after the cryptocurrency's price plummeted this year.",
-      "url": "https://www.kvue.com/article/news/nation-world/tesla-2q-profit-bitcoin/507-625debc3-e06f-420c-9c73-2d8773125dd2"
+      "text": "The water park said you can also expect snow machines and an appearance by Elsa from Disney's \"Frozen.\"",
+      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.kvue.com/article/weather/tis-almost-the-season-counting-down-to-cooler-temperatures/269-552362d4-4264-48eb-9bbf-2e55cd655b0f"
+    },
+    {
+      "text": "'Tis (almost) the season: Counting down to cooler temperatures",
+      "url": "https://www.kvue.com/article/weather/tis-almost-the-season-counting-down-to-cooler-temperatures/269-552362d4-4264-48eb-9bbf-2e55cd655b0f"
+    },
+    {
+      "text": "With record heat currently in the forecast, we thought we'd look ahead to cooler days.",
+      "url": "https://www.kvue.com/article/weather/tis-almost-the-season-counting-down-to-cooler-temperatures/269-552362d4-4264-48eb-9bbf-2e55cd655b0f"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.kvue.com/article/news/crime/kaitlin-armstrong-first-court-appearance/269-3fdb736d-5b15-4f19-861e-78eb14b56260"
+    },
+    {
+      "text": "Kaitlin Armstrong pleads not guilty to murder charge",
+      "url": "https://www.kvue.com/article/news/crime/kaitlin-armstrong-first-court-appearance/269-3fdb736d-5b15-4f19-861e-78eb14b56260"
+    },
+    {
+      "text": "Armstrong is facing a first-degree murder charge in connection with the death of professional cyclist Anna Moriah Wilson.",
+      "url": "https://www.kvue.com/article/news/crime/kaitlin-armstrong-first-court-appearance/269-3fdb736d-5b15-4f19-861e-78eb14b56260"
     },
     {
       "text": "Privacy Policy",
@@ -839,6 +881,30 @@
       "url": "https://www.kvue.com/article/syndication/heartthreads/10-most-uplifting-videos-2021-heartwarming-heartthreads/507-bbcbe78a-edc1-43c9-b722-80db1e6ab6b7"
     },
     {
+      "text": "Delfonics lead singer William 'Poogie' Hart dead at 77",
+      "url": "https://www.kvue.com/article/news/nation-world/william-poogie-hart-delfonics-lead-singer-dead-at-77/507-a7a856aa-5daf-4f61-a256-1a13d4cf8b78"
+    },
+    {
+      "text": "William 'Poogie' Hart, Delfonics lead singer, dead at 77",
+      "url": "https://www.kvue.com/article/news/nation-world/william-poogie-hart-delfonics-lead-singer-dead-at-77/507-a7a856aa-5daf-4f61-a256-1a13d4cf8b78"
+    },
+    {
+      "text": "William 'Poogie' Hart, lead singer of Grammy-winning trio the Delfonics, dies at 77",
+      "url": "https://www.kvue.com/article/news/nation-world/william-poogie-hart-delfonics-lead-singer-dead-at-77/507-a7a856aa-5daf-4f61-a256-1a13d4cf8b78"
+    },
+    {
+      "text": "William 'Poogie' Hart, lead singer of the Delfonics, dies at 77",
+      "url": "https://www.kvue.com/article/news/nation-world/william-poogie-hart-delfonics-lead-singer-dead-at-77/507-a7a856aa-5daf-4f61-a256-1a13d4cf8b78"
+    },
+    {
+      "text": "Aurora theater shooting survivor marries officer who responded to the scene",
+      "url": "https://www.kvue.com/article/news/nation-world/aurora-theater-shooting-survivor-marries-officer-who-responded/73-a59b4e65-5f48-4217-bcda-c19dbfe7b71e"
+    },
+    {
+      "text": "Megan Rapinoe and others urge freedom for Brittney Griner at The ESPYS",
+      "url": "https://www.kvue.com/article/sports/brittney-griner-was-front-and-center-at-the-espys/507-7936ece4-3392-48b1-a340-2c0c7cfd29c0"
+    },
+    {
       "text": "Tesla 2Q profit drops from 1Q, but company beats estimates",
       "url": "https://www.kvue.com/article/news/nation-world/tesla-2q-profit-bitcoin/507-625debc3-e06f-420c-9c73-2d8773125dd2"
     },
@@ -851,16 +917,28 @@
       "url": "https://www.kvue.com/article/news/nation-world/us-home-sales-fell-in-june/507-325b1dee-7050-483b-afa4-32db479ad790"
     },
     {
-      "text": "Police: Armed bystander shot and killed Greenwood Park Mall shooter in just 15 seconds",
-      "url": "https://www.kvue.com/article/news/crime/multiple-victims-reported-in-shooting-at-greenwood-park-mall/531-df15bbf5-8eca-4220-b149-7de4735fbe37"
+      "text": "Delfonics lead singer William 'Poogie' Hart dead at 77",
+      "url": "https://www.kvue.com/article/news/nation-world/william-poogie-hart-delfonics-lead-singer-dead-at-77/507-a7a856aa-5daf-4f61-a256-1a13d4cf8b78"
     },
     {
-      "text": "Did anybody win the Mega Millions jackpot?",
-      "url": "https://www.kvue.com/article/news/nation-world/mega-millions/507-24964c35-3ce9-4ee4-9046-263ea5101408"
+      "text": "William 'Poogie' Hart, Delfonics lead singer, dead at 77",
+      "url": "https://www.kvue.com/article/news/nation-world/william-poogie-hart-delfonics-lead-singer-dead-at-77/507-a7a856aa-5daf-4f61-a256-1a13d4cf8b78"
     },
     {
-      "text": "Tuesday's Mega Millions jackpot soars even higher",
-      "url": "https://www.kvue.com/article/news/nation-world/mega-millions-jackpot-jumps-to-555-million-july-19/507-fc86a264-91b3-4c88-885a-afbf94c3ad91"
+      "text": "William 'Poogie' Hart, lead singer of Grammy-winning trio the Delfonics, dies at 77",
+      "url": "https://www.kvue.com/article/news/nation-world/william-poogie-hart-delfonics-lead-singer-dead-at-77/507-a7a856aa-5daf-4f61-a256-1a13d4cf8b78"
+    },
+    {
+      "text": "William 'Poogie' Hart, lead singer of the Delfonics, dies at 77",
+      "url": "https://www.kvue.com/article/news/nation-world/william-poogie-hart-delfonics-lead-singer-dead-at-77/507-a7a856aa-5daf-4f61-a256-1a13d4cf8b78"
+    },
+    {
+      "text": "Aurora theater shooting survivor marries officer who responded to the scene",
+      "url": "https://www.kvue.com/article/news/nation-world/aurora-theater-shooting-survivor-marries-officer-who-responded/73-a59b4e65-5f48-4217-bcda-c19dbfe7b71e"
+    },
+    {
+      "text": "Megan Rapinoe and others urge freedom for Brittney Griner at The ESPYS",
+      "url": "https://www.kvue.com/article/sports/brittney-griner-was-front-and-center-at-the-espys/507-7936ece4-3392-48b1-a340-2c0c7cfd29c0"
     },
     {
       "text": "Tesla 2Q profit drops from 1Q, but company beats estimates",
@@ -875,64 +953,52 @@
       "url": "https://www.kvue.com/article/news/nation-world/us-home-sales-fell-in-june/507-325b1dee-7050-483b-afa4-32db479ad790"
     },
     {
-      "text": "Police: Armed bystander shot and killed Greenwood Park Mall shooter in just 15 seconds",
-      "url": "https://www.kvue.com/article/news/crime/multiple-victims-reported-in-shooting-at-greenwood-park-mall/531-df15bbf5-8eca-4220-b149-7de4735fbe37"
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.kvue.com/article/news/local/travis-county-esd-no-2-cadets-graduate/269-f1e74ced-9468-4482-9321-1d0396576cbd"
     },
     {
-      "text": "Did anybody win the Mega Millions jackpot?",
-      "url": "https://www.kvue.com/article/news/nation-world/mega-millions/507-24964c35-3ce9-4ee4-9046-263ea5101408"
+      "text": "Travis County ESD No. 2 to graduate new class on Thursday",
+      "url": "https://www.kvue.com/article/news/local/travis-county-esd-no-2-cadets-graduate/269-f1e74ced-9468-4482-9321-1d0396576cbd"
     },
     {
-      "text": "Tuesday's Mega Millions jackpot soars even higher",
-      "url": "https://www.kvue.com/article/news/nation-world/mega-millions-jackpot-jumps-to-555-million-july-19/507-fc86a264-91b3-4c88-885a-afbf94c3ad91"
+      "text": "This will be the first graduating class from the ESD's in-house firefighter/EMT certification program.",
+      "url": "https://www.kvue.com/article/news/local/travis-county-esd-no-2-cadets-graduate/269-f1e74ced-9468-4482-9321-1d0396576cbd"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
+      "url": "https://www.kvue.com/article/news/politics/austin-mayor-and-council/austin-city-council-abortion-grace-act/269-a5950cd5-2c1c-4cc4-9798-1405bc5e57dd"
     },
     {
-      "text": "Lake Travis ISD school board considers $703 million bond for 3 new schools, tech and more",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
+      "text": "Austin City Council to address abortion rights in special meeting",
+      "url": "https://www.kvue.com/article/news/politics/austin-mayor-and-council/austin-city-council-abortion-grace-act/269-a5950cd5-2c1c-4cc4-9798-1405bc5e57dd"
     },
     {
-      "text": "The massive bond, if approved, would be broken up into three propositions for voters to decide on.",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/weather/forecast/austin-weather-central-texas-forecast/269-43840919"
-    },
-    {
-      "text": "Forecast: Hottest day of the week Wednesday; Excessive Heat Warning in effect",
-      "url": "https://www.kvue.com/article/weather/forecast/austin-weather-central-texas-forecast/269-43840919"
-    },
-    {
-      "text": "Here are the latest updates from the KVUE Storm Team.",
-      "url": "https://www.kvue.com/article/weather/forecast/austin-weather-central-texas-forecast/269-43840919"
+      "text": "The GRACE Act would not necessarily legalize abortion within Austin's city limits, but it would direct City officials on how to investigate reports of abortion.",
+      "url": "https://www.kvue.com/article/news/politics/austin-mayor-and-council/austin-city-council-abortion-grace-act/269-a5950cd5-2c1c-4cc4-9798-1405bc5e57dd"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
+      "url": "https://www.kvue.com/article/news/local/travis-county-esd-no-2-cadets-graduate/269-f1e74ced-9468-4482-9321-1d0396576cbd"
     },
     {
-      "text": "Lake Travis ISD school board considers $703 million bond for 3 new schools, tech and more",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
+      "text": "Travis County ESD No. 2 to graduate new class on Thursday",
+      "url": "https://www.kvue.com/article/news/local/travis-county-esd-no-2-cadets-graduate/269-f1e74ced-9468-4482-9321-1d0396576cbd"
     },
     {
-      "text": "The massive bond, if approved, would be broken up into three propositions for voters to decide on.",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/lake-travis-isd-school-board-considers-703-million-bond/269-3d9c16ac-1903-471c-bddb-5567168de180"
+      "text": "This will be the first graduating class from the ESD's in-house firefighter/EMT certification program.",
+      "url": "https://www.kvue.com/article/news/local/travis-county-esd-no-2-cadets-graduate/269-f1e74ced-9468-4482-9321-1d0396576cbd"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/weather/forecast/austin-weather-central-texas-forecast/269-43840919"
+      "url": "https://www.kvue.com/article/news/politics/austin-mayor-and-council/austin-city-council-abortion-grace-act/269-a5950cd5-2c1c-4cc4-9798-1405bc5e57dd"
     },
     {
-      "text": "Forecast: Hottest day of the week Wednesday; Excessive Heat Warning in effect",
-      "url": "https://www.kvue.com/article/weather/forecast/austin-weather-central-texas-forecast/269-43840919"
+      "text": "Austin City Council to address abortion rights in special meeting",
+      "url": "https://www.kvue.com/article/news/politics/austin-mayor-and-council/austin-city-council-abortion-grace-act/269-a5950cd5-2c1c-4cc4-9798-1405bc5e57dd"
     },
     {
-      "text": "Here are the latest updates from the KVUE Storm Team.",
-      "url": "https://www.kvue.com/article/weather/forecast/austin-weather-central-texas-forecast/269-43840919"
+      "text": "The GRACE Act would not necessarily legalize abortion within Austin's city limits, but it would direct City officials on how to investigate reports of abortion.",
+      "url": "https://www.kvue.com/article/news/politics/austin-mayor-and-council/austin-city-council-abortion-grace-act/269-a5950cd5-2c1c-4cc4-9798-1405bc5e57dd"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
@@ -1116,7 +1182,7 @@
     "addeddate": "2022-07-18 00:04:44"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1135403126,
+  "uniq": 357623353,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

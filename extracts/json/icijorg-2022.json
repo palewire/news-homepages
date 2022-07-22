@@ -1,5 +1,5 @@
 {
-  "created": 1658405453,
+  "created": 1658449406,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/3/items/icijorg-2022",
@@ -4256,31 +4256,73 @@
       "sha1": "49766751e438d6197e4d8f63dfaab80431b8add6"
     },
     {
+      "name": "icijorg-2022-07-21T10:11:55.932550-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658412719",
+      "size": "18683",
+      "md5": "21fe6e484a1e59154e09fb11a5e4d14d",
+      "crc32": "53f200d4",
+      "sha1": "51c6cafe91f15d74d7fed1cf77f9c135e2024726",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-07-21T10:11:55.932550-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658412723",
+      "size": "23512",
+      "md5": "abfa338989745517285ca3ab4982e3f8",
+      "crc32": "84b7ab7e",
+      "sha1": "bfffdceee1853ae39690ddb1111aa51e297cd736",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-07-21T10:11:55.932550-04:00.jpg",
+      "source": "original",
+      "mtime": "1658412717",
+      "size": "319501",
+      "md5": "0c71d5c7df549142b5db97bff49dc00d",
+      "crc32": "a6f0b86c",
+      "sha1": "a125da069913ed661ef9c184b8145ee67116cbcf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "icijorg-2022-07-21T10:11:55.932550-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "icijorg-2022-07-21T10:11:55.932550-04:00.jpg",
+      "mtime": "1658421254",
+      "size": "11328",
+      "md5": "673d8668aae8f52881f2121153c52a31",
+      "crc32": "30cb388e",
+      "sha1": "df1c205e2b230a075c15eae88859f8f43a9ab75d"
+    },
+    {
       "name": "icijorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c2e9a894599c808067a7c7ae2475aec0310d1f1a",
-      "mtime": "1658371586",
-      "size": "86330",
-      "md5": "8bd3fac6f320f0f8f00cc6b00ba68eb7",
-      "crc32": "2cb66cbe",
-      "sha1": "8c5ad129d5337667b8cbe5d46618c6def7e3f28a",
+      "btih": "96ebfa321849f6baad45652b44085cd911b6fe4c",
+      "mtime": "1658421308",
+      "size": "87156",
+      "md5": "ac7e3e8de3ea5b90bc6e1d497e6ea812",
+      "crc32": "396645d8",
+      "sha1": "f1ea39351aa2f688b6a16c32335668e3b0ff7555",
       "format": "Archive BitTorrent"
     },
     {
       "name": "icijorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "56c03eeafe027b722261b414ab69c896",
+      "md5": "025a7aa9e04d5057c9e8f091fdec03b5",
       "summation": "md5"
     },
     {
       "name": "icijorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658370346",
-      "size": "483328",
-      "md5": "60dd2316ea2ec772cc243a72e16f4184",
-      "crc32": "edd06792",
-      "sha1": "6552b375e18e019b5bf28368cfb9174f45a9e863",
+      "mtime": "1658412727",
+      "size": "487424",
+      "md5": "42f708715351e8fab636dd9e307231b5",
+      "crc32": "513abc39",
+      "sha1": "b938c046e982b93e3a8a9e9b538702c1b6397a98",
       "format": "Metadata"
     },
     {
@@ -4294,7 +4336,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 409,
+  "files_count": 413,
   "icijorg-2022": [
     {
       "text": "Investigations",
@@ -5069,8 +5111,8 @@
       "url": "/topics/"
     }
   ],
-  "item_last_updated": 1658371586,
-  "item_size": 35316546,
+  "item_last_updated": 1658421308,
+  "item_size": 35694492,
   "metadata": {
     "identifier": "icijorg-2022",
     "collection": [
@@ -5088,7 +5130,7 @@
     "addeddate": "2022-06-18 03:25:07"
   },
   "server": "ia902508.us.archive.org",
-  "uniq": 1899698407,
+  "uniq": 1752762761,
   "workable_servers": [
     "ia902508.us.archive.org",
     "ia802508.us.archive.org"
