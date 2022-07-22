@@ -17,7 +17,7 @@ orphan: true
 | Location       | Bend                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 35 screenshots stored at the Internet Archive.
+The archiving routine has captured 36 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -17,7 +17,7 @@ orphan: true
 | Location       | Stamford                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 34 screenshots stored at the Internet Archive.
+The archiving routine has captured 35 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
