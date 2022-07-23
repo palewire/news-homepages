@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 570 sites.
+The archiving routine is currently capturing 572 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -246,6 +246,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Houston Chronicle](https://palewi.re/docs/news-homepages/sites/houstonchron.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/houstonchron.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/houstonchron.xml)|
 |[hromadske](https://palewi.re/docs/news-homepages/sites/hromadskeua.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hromadskeua.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hromadskeua.xml)|
 |[Huffington Post](https://palewi.re/docs/news-homepages/sites/huffpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/huffpost.xml)|
+|[HuffPost Canada](https://palewi.re/docs/news-homepages/sites/huffpostcanada.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpostcanada.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/huffpostcanada.xml)|
 |[Human Events](https://palewi.re/docs/news-homepages/sites/humanevents.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humanevents.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humanevents.xml)|
 |[Humans of New York](https://palewi.re/docs/news-homepages/sites/humansofny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humansofny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humansofny.xml)|
 |[ICIJ](https://palewi.re/docs/news-homepages/sites/icijorg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/icijorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/icijorg.xml)|
@@ -395,6 +396,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Orange County Register](https://palewi.re/docs/news-homepages/sites/ocregister.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ocregister.xml)|
 |[Oregon Capital Chronicle](https://palewi.re/docs/news-homepages/sites/orcapchronicle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/orcapchronicle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/orcapchronicle.xml)|
 |[Oregonian](https://palewi.re/docs/news-homepages/sites/oregonian.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oregonian.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oregonian.xml)|
+|[Organized Crime and Corruption Reporting Project](https://palewi.re/docs/news-homepages/sites/occrp.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/occrp.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/occrp.xml)|
 |[Ottawa Citizen](https://palewi.re/docs/news-homepages/sites/ottawacitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottawacitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ottawacitizen.xml)|
 |[Ottumwa Courier](https://palewi.re/docs/news-homepages/sites/ottumwacourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottumwacourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ottumwacourier.xml)|
 |[Outlier Media](https://palewi.re/docs/news-homepages/sites/media_outlier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/media_outlier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/media_outlier.xml)|
