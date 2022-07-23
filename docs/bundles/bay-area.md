@@ -21,24 +21,6 @@ The most recent homepages from 20 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/bcn_foundation.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg"
-     alt="Local News Matters"
-     loading="lazy">
- </a>
- <p><a href="../sites/bcn_foundation.html">Local News Matters</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/berkeleyside.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkeleyside.jpg"
-     alt="The Berkeleyside"
-     loading="lazy">
- </a>
- <p><a href="../sites/berkeleyside.html">The Berkeleyside</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/calmatters.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/calmatters.jpg"
      alt="Calmatters"
@@ -72,6 +54,15 @@ The most recent homepages from 20 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/kqed.html">KQED</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bcn_foundation.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg"
+     alt="Local News Matters"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/bcn_foundation.html">Local News Matters</a></p>
 </div>
 
 <div class="latest-child">
@@ -111,15 +102,6 @@ The most recent homepages from 20 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/oaklandside.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oaklandside.jpg"
-     alt="The Oaklandside"
-     loading="lazy">
- </a>
- <p><a href="../sites/oaklandside.html">The Oaklandside</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/openvallejo.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/openvallejo.jpg"
      alt="Open Vallejo"
@@ -156,15 +138,6 @@ The most recent homepages from 20 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/scsentinel.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scsentinel.jpg"
-     alt="Santa Cruz Sentinel"
-     loading="lazy">
- </a>
- <p><a href="../sites/scsentinel.html">Santa Cruz Sentinel</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/sfchronicle.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sfchronicle.jpg"
      alt="San Francisco Chronicle"
@@ -180,6 +153,33 @@ The most recent homepages from 20 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/sjspotlight.html">San José Spotlight</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/scsentinel.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scsentinel.jpg"
+     alt="Santa Cruz Sentinel"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/scsentinel.html">Santa Cruz Sentinel</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/berkeleyside.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkeleyside.jpg"
+     alt="The Berkeleyside"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/berkeleyside.html">The Berkeleyside</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/oaklandside.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oaklandside.jpg"
+     alt="The Oaklandside"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/oaklandside.html">The Oaklandside</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,22 +207,22 @@ The most recent homepages from 20 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[Bay Nature](https://palewi.re/docs/news-homepages/sites/baynature.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baynature.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baynature.xml)|
-|[Local News Matters](https://palewi.re/docs/news-homepages/sites/bcn_foundation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bcn_foundation.xml)|
-|[The Berkeleyside](https://palewi.re/docs/news-homepages/sites/berkeleyside.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkeleyside.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/berkeleyside.xml)|
 |[Calmatters](https://palewi.re/docs/news-homepages/sites/calmatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/calmatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/calmatters.xml)|
 |[East Bay Times](https://palewi.re/docs/news-homepages/sites/eastbaytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eastbaytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eastbaytimes.xml)|
 |[El Tímpano](https://palewi.re/docs/news-homepages/sites/el_timpano.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_timpano.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_timpano.xml)|
 |[KQED](https://palewi.re/docs/news-homepages/sites/kqed.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kqed.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kqed.xml)|
+|[Local News Matters](https://palewi.re/docs/news-homepages/sites/bcn_foundation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bcn_foundation.xml)|
 |[Lookout Santa Cruz](https://palewi.re/docs/news-homepages/sites/lookoutscruz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lookoutscruz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lookoutscruz.xml)|
 |[Mercury News](https://palewi.re/docs/news-homepages/sites/mercnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mercnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mercnews.xml)|
 |[Mission Local](https://palewi.re/docs/news-homepages/sites/mlnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mlnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mlnow.xml)|
 |[NBC Bay Area](https://palewi.re/docs/news-homepages/sites/nbcbayarea.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcbayarea.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcbayarea.xml)|
-|[The Oaklandside](https://palewi.re/docs/news-homepages/sites/oaklandside.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oaklandside.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oaklandside.xml)|
 |[Open Vallejo](https://palewi.re/docs/news-homepages/sites/openvallejo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/openvallejo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/openvallejo.xml)|
 |[Peninsula Press](https://palewi.re/docs/news-homepages/sites/peninsupress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/peninsupress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/peninsupress.xml)|
 |[Point Reyes Light](https://palewi.re/docs/news-homepages/sites/pointreyeslight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pointreyeslight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pointreyeslight.xml)|
 |[Sacramento Bee](https://palewi.re/docs/news-homepages/sites/sacbee_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sacbee_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sacbee_news.xml)|
-|[Santa Cruz Sentinel](https://palewi.re/docs/news-homepages/sites/scsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scsentinel.xml)|
 |[San Francisco Chronicle](https://palewi.re/docs/news-homepages/sites/sfchronicle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sfchronicle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sfchronicle.xml)|
 |[San José Spotlight](https://palewi.re/docs/news-homepages/sites/sjspotlight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sjspotlight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sjspotlight.xml)|
+|[Santa Cruz Sentinel](https://palewi.re/docs/news-homepages/sites/scsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scsentinel.xml)|
+|[The Berkeleyside](https://palewi.re/docs/news-homepages/sites/berkeleyside.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkeleyside.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/berkeleyside.xml)|
+|[The Oaklandside](https://palewi.re/docs/news-homepages/sites/oaklandside.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oaklandside.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oaklandside.xml)|
 |[Voices of Monterey Bay](https://palewi.re/docs/news-homepages/sites/voicesofbay.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voicesofbay.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/voicesofbay.xml)|

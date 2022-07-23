@@ -93,12 +93,12 @@ The most recent homepages from 16 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/newshour.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg"
-     alt="PBS News Hour"
+ <a href="https://palewi.re/docs/news-homepages/sites/nytimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg"
+     alt="New York Times"
      loading="lazy">
  </a>
- <p><a href="../sites/newshour.html">PBS News Hour</a></p>
+ <p><a href="../sites/nytimes.html">New York Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -111,12 +111,12 @@ The most recent homepages from 16 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/nytimes.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg"
-     alt="New York Times"
+ <a href="https://palewi.re/docs/news-homepages/sites/newshour.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg"
+     alt="PBS News Hour"
      loading="lazy">
  </a>
- <p><a href="../sites/nytimes.html">New York Times</a></p>
+ <p><a href="../sites/newshour.html">PBS News Hour</a></p>
 </div>
 
 <div class="latest-child">
@@ -129,21 +129,21 @@ The most recent homepages from 16 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/washingtonpost.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg"
-     alt="Washington Post"
-     loading="lazy">
- </a>
- <p><a href="../sites/washingtonpost.html">Washington Post</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/wsj.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wsj.jpg"
      alt="Wall Street Journal"
      loading="lazy">
  </a>
  <p><a href="../sites/wsj.html">Wall Street Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/washingtonpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg"
+     alt="Washington Post"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/washingtonpost.html">Washington Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -179,10 +179,10 @@ The most recent homepages from 16 news sites in this bundle.
 |[Huffington Post](https://palewi.re/docs/news-homepages/sites/huffpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/huffpost.xml)|
 |[MSNBC](https://palewi.re/docs/news-homepages/sites/msnbc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msnbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/msnbc.xml)|
 |[NBC News](https://palewi.re/docs/news-homepages/sites/nbcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcnews.xml)|
-|[PBS News Hour](https://palewi.re/docs/news-homepages/sites/newshour.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newshour.xml)|
-|[NPR](https://palewi.re/docs/news-homepages/sites/npr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/npr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/npr.xml)|
 |[New York Times](https://palewi.re/docs/news-homepages/sites/nytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml)|
+|[NPR](https://palewi.re/docs/news-homepages/sites/npr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/npr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/npr.xml)|
+|[PBS News Hour](https://palewi.re/docs/news-homepages/sites/newshour.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newshour.xml)|
 |[USA Today](https://palewi.re/docs/news-homepages/sites/usatoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usatoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/usatoday.xml)|
-|[Washington Post](https://palewi.re/docs/news-homepages/sites/washingtonpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/washingtonpost.xml)|
 |[Wall Street Journal](https://palewi.re/docs/news-homepages/sites/wsj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wsj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wsj.xml)|
+|[Washington Post](https://palewi.re/docs/news-homepages/sites/washingtonpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/washingtonpost.xml)|
 |[Yahoo! News](https://palewi.re/docs/news-homepages/sites/yahoonews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yahoonews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yahoonews.xml)|

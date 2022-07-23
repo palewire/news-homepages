@@ -12,12 +12,30 @@ The most recent homepages from 17 news sites in this bundle.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/baltimorebanner.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebanner.jpg"
+     alt="Baltimore Banner"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/baltimorebanner.html">Baltimore Banner</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/baltbeat.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltbeat.jpg"
      alt="Baltimore Beat"
      loading="lazy">
  </a>
  <p><a href="../sites/baltbeat.html">Baltimore Beat</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/baltimorebrew.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebrew.jpg"
+     alt="Baltimore Brew"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/baltimorebrew.html">Baltimore Brew</a></p>
 </div>
 
 <div class="latest-child">
@@ -39,39 +57,12 @@ The most recent homepages from 17 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/baltimorebanner.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebanner.jpg"
-     alt="Baltimore Banner"
-     loading="lazy">
- </a>
- <p><a href="../sites/baltimorebanner.html">Baltimore Banner</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/baltimorebrew.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebrew.jpg"
-     alt="Baltimore Brew"
-     loading="lazy">
- </a>
- <p><a href="../sites/baltimorebrew.html">Baltimore Brew</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/baltimoremag.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoremag.jpg"
      alt="Baltimore Magazine"
      loading="lazy">
  </a>
  <p><a href="../sites/baltimoremag.html">Baltimore Magazine</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/baltimoresun.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoresun.jpg"
-     alt="The Baltimore Sun"
-     loading="lazy">
- </a>
- <p><a href="../sites/baltimoresun.html">The Baltimore Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -102,12 +93,12 @@ The most recent homepages from 17 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/marylandmatters.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marylandmatters.jpg"
-     alt="Maryland Matters"
+ <a href="https://palewi.re/docs/news-homepages/sites/theleftbench.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theleftbench.jpg"
+     alt="Left Bench"
      loading="lazy">
  </a>
- <p><a href="../sites/marylandmatters.html">Maryland Matters</a></p>
+ <p><a href="../sites/theleftbench.html">Left Bench</a></p>
 </div>
 
 <div class="latest-child">
@@ -120,21 +111,12 @@ The most recent homepages from 17 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/thedbk.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedbk.jpg"
-     alt="The Diamondback"
+ <a href="https://palewi.re/docs/news-homepages/sites/marylandmatters.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marylandmatters.jpg"
+     alt="Maryland Matters"
      loading="lazy">
  </a>
- <p><a href="../sites/thedbk.html">The Diamondback</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/theleftbench.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theleftbench.jpg"
-     alt="Left Bench"
-     loading="lazy">
- </a>
- <p><a href="../sites/theleftbench.html">Left Bench</a></p>
+ <p><a href="../sites/marylandmatters.html">Maryland Matters</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,6 +135,24 @@ The most recent homepages from 17 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/umd_sbs.html">Stories Beneath the Shell</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/baltimoresun.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoresun.jpg"
+     alt="The Baltimore Sun"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/baltimoresun.html">The Baltimore Sun</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thedbk.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedbk.jpg"
+     alt="The Diamondback"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thedbk.html">The Diamondback</a></p>
 </div>
 
 <div class="latest-child">
@@ -179,20 +179,20 @@ The most recent homepages from 17 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[Baltimore Banner](https://palewi.re/docs/news-homepages/sites/baltimorebanner.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebanner.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimorebanner.xml)|
 |[Baltimore Beat](https://palewi.re/docs/news-homepages/sites/baltbeat.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltbeat.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltbeat.xml)|
+|[Baltimore Brew](https://palewi.re/docs/news-homepages/sites/baltimorebrew.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebrew.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimorebrew.xml)|
 |[Baltimore Business Journal](https://palewi.re/docs/news-homepages/sites/baltbizonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltbizonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltbizonline.xml)|
 |[Baltimore Fishbowl](https://palewi.re/docs/news-homepages/sites/baltfishbowl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltfishbowl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltfishbowl.xml)|
-|[Baltimore Banner](https://palewi.re/docs/news-homepages/sites/baltimorebanner.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebanner.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimorebanner.xml)|
-|[Baltimore Brew](https://palewi.re/docs/news-homepages/sites/baltimorebrew.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimorebrew.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimorebrew.xml)|
 |[Baltimore Magazine](https://palewi.re/docs/news-homepages/sites/baltimoremag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoremag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimoremag.xml)|
-|[The Baltimore Sun](https://palewi.re/docs/news-homepages/sites/baltimoresun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoresun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimoresun.xml)|
 |[Capital Gazette](https://palewi.re/docs/news-homepages/sites/capgaznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capgaznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capgaznews.xml)|
 |[Capital News Service](https://palewi.re/docs/news-homepages/sites/cnsmd.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnsmd.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cnsmd.xml)|
 |[Frederick News-Post](https://palewi.re/docs/news-homepages/sites/frednewspost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/frednewspost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/frednewspost.xml)|
-|[Maryland Matters](https://palewi.re/docs/news-homepages/sites/marylandmatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marylandmatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/marylandmatters.xml)|
-|[Maryland Daily Record](https://palewi.re/docs/news-homepages/sites/mddailyrecord.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mddailyrecord.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mddailyrecord.xml)|
-|[The Diamondback](https://palewi.re/docs/news-homepages/sites/thedbk.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedbk.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedbk.xml)|
 |[Left Bench](https://palewi.re/docs/news-homepages/sites/theleftbench.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theleftbench.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theleftbench.xml)|
+|[Maryland Daily Record](https://palewi.re/docs/news-homepages/sites/mddailyrecord.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mddailyrecord.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mddailyrecord.xml)|
+|[Maryland Matters](https://palewi.re/docs/news-homepages/sites/marylandmatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marylandmatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/marylandmatters.xml)|
 |[Real News](https://palewi.re/docs/news-homepages/sites/therealnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/therealnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/therealnews.xml)|
 |[Stories Beneath the Shell](https://palewi.re/docs/news-homepages/sites/umd_sbs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/umd_sbs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/umd_sbs.xml)|
+|[The Baltimore Sun](https://palewi.re/docs/news-homepages/sites/baltimoresun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoresun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimoresun.xml)|
+|[The Diamondback](https://palewi.re/docs/news-homepages/sites/thedbk.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedbk.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedbk.xml)|
 |[Washington Post](https://palewi.re/docs/news-homepages/sites/washingtonpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/washingtonpost.xml)|

@@ -21,6 +21,15 @@ The most recent homepages from 17 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gcm_nf.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gcm_nf.jpg"
+     alt="Austin Weekly News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gcm_nf.html">Austin Weekly News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/bettergov.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bettergov.jpg"
      alt="Better Government Association"
@@ -57,6 +66,15 @@ The most recent homepages from 17 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/suntimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/suntimes.jpg"
+     alt="Chicago Sun-Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/suntimes.html">Chicago Sun-Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/chicagotribune.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chicagotribune.jpg"
      alt="Chicago Tribune"
@@ -81,15 +99,6 @@ The most recent homepages from 17 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/evroundtable.html">Evanston RoundTable</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/gcm_nf.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gcm_nf.jpg"
-     alt="Austin Weekly News"
-     loading="lazy">
- </a>
- <p><a href="../sites/gcm_nf.html">Austin Weekly News</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,15 +135,6 @@ The most recent homepages from 17 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/southsideweekly.html">South Side Weekly</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/suntimes.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/suntimes.jpg"
-     alt="Chicago Sun-Times"
-     loading="lazy">
- </a>
- <p><a href="../sites/suntimes.html">Chicago Sun-Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,19 +180,19 @@ The most recent homepages from 17 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[14 East](https://palewi.re/docs/news-homepages/sites/14eastmag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/14eastmag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/14eastmag.xml)|
+|[Austin Weekly News](https://palewi.re/docs/news-homepages/sites/gcm_nf.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gcm_nf.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gcm_nf.xml)|
 |[Better Government Association](https://palewi.re/docs/news-homepages/sites/bettergov.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bettergov.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bettergov.xml)|
 |[Block Club Chicago](https://palewi.re/docs/news-homepages/sites/blockclubchi.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/blockclubchi.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/blockclubchi.xml)|
 |[Chicago Reader](https://palewi.re/docs/news-homepages/sites/chicago_reader.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chicago_reader.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chicago_reader.xml)|
 |[Chicago Reporter](https://palewi.re/docs/news-homepages/sites/chicagoreporter.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chicagoreporter.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chicagoreporter.xml)|
+|[Chicago Sun-Times](https://palewi.re/docs/news-homepages/sites/suntimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/suntimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/suntimes.xml)|
 |[Chicago Tribune](https://palewi.re/docs/news-homepages/sites/chicagotribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chicagotribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chicagotribune.xml)|
 |[Cicero Independiente](https://palewi.re/docs/news-homepages/sites/ciceronoticias.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ciceronoticias.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ciceronoticias.xml)|
 |[Evanston RoundTable](https://palewi.re/docs/news-homepages/sites/evroundtable.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/evroundtable.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/evroundtable.xml)|
-|[Austin Weekly News](https://palewi.re/docs/news-homepages/sites/gcm_nf.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gcm_nf.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gcm_nf.xml)|
 |[Injustice Watch](https://palewi.re/docs/news-homepages/sites/injusticewatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/injusticewatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/injusticewatch.xml)|
 |[NBC Chicago](https://palewi.re/docs/news-homepages/sites/nbcchicago.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcchicago.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcchicago.xml)|
 |[Pitchfork](https://palewi.re/docs/news-homepages/sites/pitchfork.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pitchfork.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pitchfork.xml)|
 |[South Side Weekly](https://palewi.re/docs/news-homepages/sites/southsideweekly.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/southsideweekly.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/southsideweekly.xml)|
-|[Chicago Sun-Times](https://palewi.re/docs/news-homepages/sites/suntimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/suntimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/suntimes.xml)|
 |[The TriiBE](https://palewi.re/docs/news-homepages/sites/thetriibe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetriibe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetriibe.xml)|
 |[WBEZ](https://palewi.re/docs/news-homepages/sites/wbez.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wbez.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wbez.xml)|
 |[WTTW](https://palewi.re/docs/news-homepages/sites/wttw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wttw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wttw.xml)|

@@ -39,6 +39,15 @@ The most recent homepages from 6 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thenewmexican.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewmexican.jpg"
+     alt="Santa Fe New Mexican"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thenewmexican.html">Santa Fe New Mexican</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/searchlightnm.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/searchlightnm.jpg"
      alt="Searchlight New Mexico"
@@ -54,15 +63,6 @@ The most recent homepages from 6 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/source_nm.html">Source New Mexico</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/thenewmexican.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewmexican.jpg"
-     alt="Santa Fe New Mexican"
-     loading="lazy">
- </a>
- <p><a href="../sites/thenewmexican.html">Santa Fe New Mexican</a></p>
 </div>
 
 </div>
@@ -83,6 +83,6 @@ The most recent homepages from 6 news sites in this bundle.
 |[Albuquerque Business First](https://palewi.re/docs/news-homepages/sites/abqbizfirst.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqbizfirst.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abqbizfirst.xml)|
 |[Albuquerque Journal](https://palewi.re/docs/news-homepages/sites/abqjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abqjournal.xml)|
 |[Las Cruces Sun News](https://palewi.re/docs/news-homepages/sites/crucessunnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/crucessunnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/crucessunnews.xml)|
+|[Santa Fe New Mexican](https://palewi.re/docs/news-homepages/sites/thenewmexican.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewmexican.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thenewmexican.xml)|
 |[Searchlight New Mexico](https://palewi.re/docs/news-homepages/sites/searchlightnm.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/searchlightnm.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/searchlightnm.xml)|
 |[Source New Mexico](https://palewi.re/docs/news-homepages/sites/source_nm.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/source_nm.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/source_nm.xml)|
-|[Santa Fe New Mexican](https://palewi.re/docs/news-homepages/sites/thenewmexican.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewmexican.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thenewmexican.xml)|

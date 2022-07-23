@@ -21,12 +21,12 @@ The most recent homepages from 6 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/azcentral.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/azcentral.jpg"
-     alt="Arizona Republic"
+ <a href="https://palewi.re/docs/news-homepages/sites/tucsonstar.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonstar.jpg"
+     alt="Arizona Daily Star"
      loading="lazy">
  </a>
- <p><a href="../sites/azcentral.html">Arizona Republic</a></p>
+ <p><a href="../sites/tucsonstar.html">Arizona Daily Star</a></p>
 </div>
 
 <div class="latest-child">
@@ -36,6 +36,15 @@ The most recent homepages from 6 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/azds.html">Arizona Daily Sun</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/azcentral.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/azcentral.jpg"
+     alt="Arizona Republic"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/azcentral.html">Arizona Republic</a></p>
 </div>
 
 <div class="latest-child">
@@ -56,15 +65,6 @@ The most recent homepages from 6 news sites in this bundle.
  <p><a href="../sites/tucsonsentinel.html">Tucson Sentinel</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/tucsonstar.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonstar.jpg"
-     alt="Arizona Daily Star"
-     loading="lazy">
- </a>
- <p><a href="../sites/tucsonstar.html">Arizona Daily Star</a></p>
-</div>
-
 </div>
 
 ## About this bundle
@@ -81,8 +81,8 @@ The most recent homepages from 6 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[Arizona Center for Investigative Reporting](https://palewi.re/docs/news-homepages/sites/arizcir.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/arizcir.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/arizcir.xml)|
-|[Arizona Republic](https://palewi.re/docs/news-homepages/sites/azcentral.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/azcentral.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/azcentral.xml)|
+|[Arizona Daily Star](https://palewi.re/docs/news-homepages/sites/tucsonstar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonstar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tucsonstar.xml)|
 |[Arizona Daily Sun](https://palewi.re/docs/news-homepages/sites/azds.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/azds.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/azds.xml)|
+|[Arizona Republic](https://palewi.re/docs/news-homepages/sites/azcentral.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/azcentral.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/azcentral.xml)|
 |[News 4](https://palewi.re/docs/news-homepages/sites/kvoa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kvoa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kvoa.xml)|
 |[Tucson Sentinel](https://palewi.re/docs/news-homepages/sites/tucsonsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tucsonsentinel.xml)|
-|[Arizona Daily Star](https://palewi.re/docs/news-homepages/sites/tucsonstar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonstar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tucsonstar.xml)|

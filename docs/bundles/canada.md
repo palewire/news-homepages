@@ -7,7 +7,7 @@ orphan: true
 
 # Canada
 
-The most recent homepages from 17 news sites in this bundle.
+The most recent homepages from 18 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -48,15 +48,6 @@ The most recent homepages from 17 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/georgiastraight.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/georgiastraight.jpg"
-     alt="The Georgia Straight"
-     loading="lazy">
- </a>
- <p><a href="../sites/georgiastraight.html">The Georgia Straight</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/globalnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/globalnews.jpg"
      alt="Global News"
@@ -66,12 +57,12 @@ The most recent homepages from 17 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/globeandmail.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/globeandmail.jpg"
-     alt="The Globe and Mail"
+ <a href="https://palewi.re/docs/news-homepages/sites/huffpostcanada.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpostcanada.jpg"
+     alt="HuffPost Canada"
      loading="lazy">
  </a>
- <p><a href="../sites/globeandmail.html">The Globe and Mail</a></p>
+ <p><a href="../sites/huffpostcanada.html">HuffPost Canada</a></p>
 </div>
 
 <div class="latest-child">
@@ -84,21 +75,21 @@ The most recent homepages from 17 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/ledevoir.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ledevoir.jpg"
-     alt="Le Devoir"
-     loading="lazy">
- </a>
- <p><a href="../sites/ledevoir.html">Le Devoir</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/lp_lapresse.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lp_lapresse.jpg"
      alt="La Presse"
      loading="lazy">
  </a>
  <p><a href="../sites/lp_lapresse.html">La Presse</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ledevoir.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ledevoir.jpg"
+     alt="Le Devoir"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ledevoir.html">Le Devoir</a></p>
 </div>
 
 <div class="latest-child">
@@ -129,6 +120,24 @@ The most recent homepages from 17 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/georgiastraight.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/georgiastraight.jpg"
+     alt="The Georgia Straight"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/georgiastraight.html">The Georgia Straight</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/globeandmail.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/globeandmail.jpg"
+     alt="The Globe and Mail"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/globeandmail.html">The Globe and Mail</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thehilltimes.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thehilltimes.jpg"
      alt="The Hill Times"
@@ -138,21 +147,21 @@ The most recent homepages from 17 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/thetorontosun.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetorontosun.jpg"
-     alt="Toronto Sun"
-     loading="lazy">
- </a>
- <p><a href="../sites/thetorontosun.html">Toronto Sun</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/torontostar.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/torontostar.jpg"
      alt="Toronto Star"
      loading="lazy">
  </a>
  <p><a href="../sites/torontostar.html">Toronto Star</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thetorontosun.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetorontosun.jpg"
+     alt="Toronto Sun"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thetorontosun.html">Toronto Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -183,16 +192,17 @@ The most recent homepages from 17 news sites in this bundle.
 |[CBC News](https://palewi.re/docs/news-homepages/sites/cbcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cbcnews.xml)|
 |[CTV News](https://palewi.re/docs/news-homepages/sites/ctvnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ctvnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ctvnews.xml)|
 |[Financial Post](https://palewi.re/docs/news-homepages/sites/financialpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/financialpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/financialpost.xml)|
-|[The Georgia Straight](https://palewi.re/docs/news-homepages/sites/georgiastraight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/georgiastraight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/georgiastraight.xml)|
 |[Global News](https://palewi.re/docs/news-homepages/sites/globalnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/globalnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/globalnews.xml)|
-|[The Globe and Mail](https://palewi.re/docs/news-homepages/sites/globeandmail.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/globeandmail.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/globeandmail.xml)|
+|[HuffPost Canada](https://palewi.re/docs/news-homepages/sites/huffpostcanada.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpostcanada.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/huffpostcanada.xml)|
 |[La Journal de Montréal](https://palewi.re/docs/news-homepages/sites/jdemontreal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jdemontreal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jdemontreal.xml)|
-|[Le Devoir](https://palewi.re/docs/news-homepages/sites/ledevoir.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ledevoir.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ledevoir.xml)|
 |[La Presse](https://palewi.re/docs/news-homepages/sites/lp_lapresse.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lp_lapresse.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lp_lapresse.xml)|
+|[Le Devoir](https://palewi.re/docs/news-homepages/sites/ledevoir.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ledevoir.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ledevoir.xml)|
 |[Montreal Gazette](https://palewi.re/docs/news-homepages/sites/mtlgazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtlgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtlgazette.xml)|
 |[National Post](https://palewi.re/docs/news-homepages/sites/nationalpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nationalpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nationalpost.xml)|
 |[Ottawa Citizen](https://palewi.re/docs/news-homepages/sites/ottawacitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottawacitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ottawacitizen.xml)|
+|[The Georgia Straight](https://palewi.re/docs/news-homepages/sites/georgiastraight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/georgiastraight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/georgiastraight.xml)|
+|[The Globe and Mail](https://palewi.re/docs/news-homepages/sites/globeandmail.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/globeandmail.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/globeandmail.xml)|
 |[The Hill Times](https://palewi.re/docs/news-homepages/sites/thehilltimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thehilltimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thehilltimes.xml)|
-|[Toronto Sun](https://palewi.re/docs/news-homepages/sites/thetorontosun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetorontosun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetorontosun.xml)|
 |[Toronto Star](https://palewi.re/docs/news-homepages/sites/torontostar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/torontostar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/torontostar.xml)|
+|[Toronto Sun](https://palewi.re/docs/news-homepages/sites/thetorontosun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetorontosun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetorontosun.xml)|
 |[Vancouver Sun](https://palewi.re/docs/news-homepages/sites/vancouversun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vancouversun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/vancouversun.xml)|

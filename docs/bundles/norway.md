@@ -39,21 +39,21 @@ The most recent homepages from 8 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/dagsavisen.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dagsavisen.jpg"
-     alt="Dagsavisen"
-     loading="lazy">
- </a>
- <p><a href="../sites/dagsavisen.html">Dagsavisen</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/dn_no.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dn_no.jpg"
      alt="Dagens Næringsliv"
      loading="lazy">
  </a>
  <p><a href="../sites/dn_no.html">Dagens Næringsliv</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dagsavisen.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dagsavisen.jpg"
+     alt="Dagsavisen"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dagsavisen.html">Dagsavisen</a></p>
 </div>
 
 <div class="latest-child">
@@ -101,8 +101,8 @@ The most recent homepages from 8 news sites in this bundle.
 |[Aftenposten](https://palewi.re/docs/news-homepages/sites/aftenposten.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aftenposten.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aftenposten.xml)|
 |[Bergens Tidende](https://palewi.re/docs/news-homepages/sites/btno.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/btno.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/btno.xml)|
 |[Dagbladet](https://palewi.re/docs/news-homepages/sites/dagbladet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dagbladet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dagbladet.xml)|
-|[Dagsavisen](https://palewi.re/docs/news-homepages/sites/dagsavisen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dagsavisen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dagsavisen.xml)|
 |[Dagens Næringsliv](https://palewi.re/docs/news-homepages/sites/dn_no.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dn_no.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dn_no.xml)|
+|[Dagsavisen](https://palewi.re/docs/news-homepages/sites/dagsavisen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dagsavisen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dagsavisen.xml)|
 |[Nettavisen](https://palewi.re/docs/news-homepages/sites/nettavisen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nettavisen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nettavisen.xml)|
 |[NRK](https://palewi.re/docs/news-homepages/sites/nrk.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nrk.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nrk.xml)|
 |[VG](https://palewi.re/docs/news-homepages/sites/vgnett.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vgnett.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/vgnett.xml)|

@@ -12,21 +12,21 @@ The most recent homepages from 4 news sites in this bundle.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/startribune.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startribune.jpg"
+     alt="Minneapolis Star Tribune"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/startribune.html">Minneapolis Star Tribune</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/minnpost.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/minnpost.jpg"
      alt="MinnPost"
      loading="lazy">
  </a>
  <p><a href="../sites/minnpost.html">MinnPost</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/pioneerpress.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pioneerpress.jpg"
-     alt="Twin Cities Pioneer Press"
-     loading="lazy">
- </a>
- <p><a href="../sites/pioneerpress.html">Twin Cities Pioneer Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -39,12 +39,12 @@ The most recent homepages from 4 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/startribune.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startribune.jpg"
-     alt="Minneapolis Star Tribune"
+ <a href="https://palewi.re/docs/news-homepages/sites/pioneerpress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pioneerpress.jpg"
+     alt="Twin Cities Pioneer Press"
      loading="lazy">
  </a>
- <p><a href="../sites/startribune.html">Minneapolis Star Tribune</a></p>
+ <p><a href="../sites/pioneerpress.html">Twin Cities Pioneer Press</a></p>
 </div>
 
 </div>
@@ -62,7 +62,7 @@ The most recent homepages from 4 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
-|[MinnPost](https://palewi.re/docs/news-homepages/sites/minnpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/minnpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/minnpost.xml)|
-|[Twin Cities Pioneer Press](https://palewi.re/docs/news-homepages/sites/pioneerpress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pioneerpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pioneerpress.xml)|
-|[Sahan Journal](https://palewi.re/docs/news-homepages/sites/sahanjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sahanjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sahanjournal.xml)|
 |[Minneapolis Star Tribune](https://palewi.re/docs/news-homepages/sites/startribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/startribune.xml)|
+|[MinnPost](https://palewi.re/docs/news-homepages/sites/minnpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/minnpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/minnpost.xml)|
+|[Sahan Journal](https://palewi.re/docs/news-homepages/sites/sahanjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sahanjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sahanjournal.xml)|
+|[Twin Cities Pioneer Press](https://palewi.re/docs/news-homepages/sites/pioneerpress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pioneerpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pioneerpress.xml)|

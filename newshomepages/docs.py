@@ -76,7 +76,7 @@ def bundle_detail():
         site_list = utils.get_sites_in_bundle(bundle["slug"])
         context = {
             "bundle": bundle,
-            "site_list": site_list,
+            "site_list": sorted(site_list, key=lambda x: x["name"].lower()),
         }
         template = TEMPLATE_ENV.get_template("bundle_detail.md.tmpl")
         md = template.render(**context)

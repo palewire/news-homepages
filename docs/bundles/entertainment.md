@@ -30,6 +30,15 @@ The most recent homepages from 10 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thr.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thr.jpg"
+     alt="Hollywood Reporter"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thr.html">Hollywood Reporter</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/mtvnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtvnews.jpg"
      alt="MTV News"
@@ -54,24 +63,6 @@ The most recent homepages from 10 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/rollingstone.html">Rolling Stone</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/thewrap.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thewrap.jpg"
-     alt="Wrap"
-     loading="lazy">
- </a>
- <p><a href="../sites/thewrap.html">Wrap</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/thr.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thr.jpg"
-     alt="Hollywood Reporter"
-     loading="lazy">
- </a>
- <p><a href="../sites/thr.html">Hollywood Reporter</a></p>
 </div>
 
 <div class="latest-child">
@@ -101,6 +92,15 @@ The most recent homepages from 10 news sites in this bundle.
  <p><a href="../sites/variety.html">Variety</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thewrap.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thewrap.jpg"
+     alt="Wrap"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thewrap.html">Wrap</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -118,11 +118,11 @@ The most recent homepages from 10 news sites in this bundle.
 | :---- | :---------------: | :-- |
 |[Deadline](https://palewi.re/docs/news-homepages/sites/deadline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/deadline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/deadline.xml)|
 |[Fandom](https://palewi.re/docs/news-homepages/sites/getfandom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/getfandom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/getfandom.xml)|
+|[Hollywood Reporter](https://palewi.re/docs/news-homepages/sites/thr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thr.xml)|
 |[MTV News](https://palewi.re/docs/news-homepages/sites/mtvnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtvnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtvnews.xml)|
 |[okayplayer](https://palewi.re/docs/news-homepages/sites/okayplayer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/okayplayer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/okayplayer.xml)|
 |[Rolling Stone](https://palewi.re/docs/news-homepages/sites/rollingstone.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollingstone.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rollingstone.xml)|
-|[Wrap](https://palewi.re/docs/news-homepages/sites/thewrap.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thewrap.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thewrap.xml)|
-|[Hollywood Reporter](https://palewi.re/docs/news-homepages/sites/thr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thr.xml)|
 |[TMZ](https://palewi.re/docs/news-homepages/sites/tmz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tmz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tmz.xml)|
 |[Us Weekly](https://palewi.re/docs/news-homepages/sites/usweekly.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usweekly.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/usweekly.xml)|
 |[Variety](https://palewi.re/docs/news-homepages/sites/variety.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/variety.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/variety.xml)|
+|[Wrap](https://palewi.re/docs/news-homepages/sites/thewrap.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thewrap.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thewrap.xml)|

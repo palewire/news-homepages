@@ -66,6 +66,15 @@ The most recent homepages from 10 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thephilacitizen.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thephilacitizen.jpg"
+     alt="Philadelphia Citizen"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thephilacitizen.html">Philadelphia Citizen</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/phillyinquirer.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/phillyinquirer.jpg"
      alt="Philadelphia Inquirer"
@@ -81,15 +90,6 @@ The most recent homepages from 10 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/phillytrib.html">Philadelphia Tribune</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/thephilacitizen.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thephilacitizen.jpg"
-     alt="Philadelphia Citizen"
-     loading="lazy">
- </a>
- <p><a href="../sites/thephilacitizen.html">Philadelphia Citizen</a></p>
 </div>
 
 <div class="latest-child">
@@ -122,7 +122,7 @@ The most recent homepages from 10 news sites in this bundle.
 |[Hidden City Daily](https://palewi.re/docs/news-homepages/sites/hiddencityphila.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hiddencityphila.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hiddencityphila.xml)|
 |[NBC10 Philadelphia](https://palewi.re/docs/news-homepages/sites/nbcphiladelphia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcphiladelphia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcphiladelphia.xml)|
 |[Next City](https://palewi.re/docs/news-homepages/sites/nextcityorg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nextcityorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nextcityorg.xml)|
+|[Philadelphia Citizen](https://palewi.re/docs/news-homepages/sites/thephilacitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thephilacitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thephilacitizen.xml)|
 |[Philadelphia Inquirer](https://palewi.re/docs/news-homepages/sites/phillyinquirer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/phillyinquirer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/phillyinquirer.xml)|
 |[Philadelphia Tribune](https://palewi.re/docs/news-homepages/sites/phillytrib.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/phillytrib.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/phillytrib.xml)|
-|[Philadelphia Citizen](https://palewi.re/docs/news-homepages/sites/thephilacitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thephilacitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thephilacitizen.xml)|
 |[WHYY](https://palewi.re/docs/news-homepages/sites/whyynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/whyynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/whyynews.xml)|

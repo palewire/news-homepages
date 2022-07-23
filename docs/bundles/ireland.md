@@ -48,21 +48,21 @@ The most recent homepages from 6 news sites in this bundle.
 </div>
 
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/rtenews.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rtenews.jpg"
-     alt="RTE"
-     loading="lazy">
- </a>
- <p><a href="../sites/rtenews.html">RTE</a></p>
-</div>
-
-<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thejournal_ie.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thejournal_ie.jpg"
      alt="Journal.ie"
      loading="lazy">
  </a>
  <p><a href="../sites/thejournal_ie.html">Journal.ie</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/rtenews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rtenews.jpg"
+     alt="RTE"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/rtenews.html">RTE</a></p>
 </div>
 
 </div>
@@ -84,5 +84,5 @@ The most recent homepages from 6 news sites in this bundle.
 |[Irish Catholic](https://palewi.re/docs/news-homepages/sites/irishcathnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/irishcathnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/irishcathnews.xml)|
 |[Irish Examiner](https://palewi.re/docs/news-homepages/sites/irishexaminer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/irishexaminer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/irishexaminer.xml)|
 |[Irish Times](https://palewi.re/docs/news-homepages/sites/irishtimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/irishtimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/irishtimes.xml)|
-|[RTE](https://palewi.re/docs/news-homepages/sites/rtenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rtenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rtenews.xml)|
 |[Journal.ie](https://palewi.re/docs/news-homepages/sites/thejournal_ie.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thejournal_ie.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thejournal_ie.xml)|
+|[RTE](https://palewi.re/docs/news-homepages/sites/rtenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rtenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rtenews.xml)|
