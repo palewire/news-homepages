@@ -1,5 +1,5 @@
 {
-  "created": 1658520684,
+  "created": 1658611550,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/1/items/oregonian-2022",
@@ -1570,31 +1570,115 @@
       "sha1": "3dd5712732b4a8efb41bcf01dace09f52a980c4f"
     },
     {
+      "name": "oregonian-2022-07-22T20:35:27.599175-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658547331",
+      "size": "48007",
+      "md5": "6724c1b8760c3f4e9e4ed4a43556424d",
+      "crc32": "64e3a748",
+      "sha1": "2799465aa54d68023660a53fe9ac298defe3c531",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-22T20:35:27.599175-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658547333",
+      "size": "46073",
+      "md5": "81aa6fe4db057d6ae1583d2241d17c1a",
+      "crc32": "2018006b",
+      "sha1": "2fc3b56bd0e7d1aeb5b364fe27d00d99f34106f2",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-22T20:35:27.599175-07:00.jpg",
+      "source": "original",
+      "mtime": "1658547329",
+      "size": "208370",
+      "md5": "ffbc770561736636c0110dab5eefefc0",
+      "crc32": "4ce10934",
+      "sha1": "c70352a1caf22c2d655aff1f0b9039f3233f2bbe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-07-22T20:35:27.599175-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-07-22T20:35:27.599175-07:00.jpg",
+      "mtime": "1658551467",
+      "size": "8117",
+      "md5": "0b19487e5c4daf0795cb43b1d8174c23",
+      "crc32": "3f7b3f1f",
+      "sha1": "db6cff019d787dd00d5c0fa20df316d72ee117db"
+    },
+    {
+      "name": "oregonian-2022-07-23T08:05:24.995166-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658588728",
+      "size": "47072",
+      "md5": "f33b7055021278f9c4361d533f8f58d8",
+      "crc32": "ca97ee02",
+      "sha1": "3e6541335f52f751e34bcb52f47c09d119cf82d1",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-23T08:05:24.995166-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658588730",
+      "size": "46395",
+      "md5": "978fc0e5b21e20eb5f61698108bf58d4",
+      "crc32": "11c7595d",
+      "sha1": "be61c55ea16282fa0fa3356c9acf9232d07579cf",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-07-23T08:05:24.995166-07:00.jpg",
+      "source": "original",
+      "mtime": "1658588726",
+      "size": "216714",
+      "md5": "c26baef8a0cb7d108113f793e8564c89",
+      "crc32": "ee11d416",
+      "sha1": "7ca04136d2d59f945dd8206863fb312ad3cacf5e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-07-23T08:05:24.995166-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-07-23T08:05:24.995166-07:00.jpg",
+      "mtime": "1658588827",
+      "size": "8262",
+      "md5": "63a82816791cbde9b186d1b4217a744d",
+      "crc32": "2e94a439",
+      "sha1": "1a9f3b34a1b1e47410bfe19caf703b61ec4eabd6"
+    },
+    {
       "name": "oregonian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "82ab4f1f499c47646376b8490aa98285799d12f0",
-      "mtime": "1658520661",
-      "size": "32915",
-      "md5": "a7960361fd8e3684868ace67f68b1f33",
-      "crc32": "17bfc6d5",
-      "sha1": "cfb3f382872e9f13158b1f85feea5192c10a422b",
+      "btih": "3e12851713dfab8e01b855b57ce8efd1ae6b21f3",
+      "mtime": "1658588854",
+      "size": "34601",
+      "md5": "11e6a30439e61b93adf9bc831647db91",
+      "crc32": "540c5aa4",
+      "sha1": "d67f0e7ef2d2ae1bf2b15494723eb9edd306e569",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oregonian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ab073c8d6887482d93b1024a47eedbb0",
+      "md5": "88b855e11be51ef59466f3d13c4fe6bd",
       "summation": "md5"
     },
     {
       "name": "oregonian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658502096",
-      "size": "192512",
-      "md5": "031ef528bcda8c4d33ff2be89730cda7",
-      "crc32": "4dddc9a5",
-      "sha1": "a925b3fd4d6eb81d63d73159a42d7e607538ac02",
+      "mtime": "1658588732",
+      "size": "200704",
+      "md5": "03f0d7f5a69afae55c1d849cd03bcda8",
+      "crc32": "d4cb9025",
+      "sha1": "14ff0bd012f531c39ac110b861fc4d4aa62dbf41",
       "format": "Metadata"
     },
     {
@@ -1608,9 +1692,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 153,
-  "item_last_updated": 1658520661,
-  "item_size": 12479991,
+  "files_count": 161,
+  "item_last_updated": 1658588854,
+  "item_size": 13118879,
   "metadata": {
     "identifier": "oregonian-2022",
     "collection": [
@@ -1627,8 +1711,1366 @@
     "publicdate": "2022-07-04 21:50:57",
     "addeddate": "2022-07-04 21:50:57"
   },
+  "oregonian-2022": [
+    {
+      "text": "Home",
+      "url": "https://www.oregonlive.com"
+    },
+    {
+      "text": "News/COVID-19 updates",
+      "url": "https://www.oregonlive.com/news/"
+    },
+    {
+      "text": "All News",
+      "url": "https://www.oregonlive.com/news/"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://www.oregonlive.com/coronavirus"
+    },
+    {
+      "text": "Portland",
+      "url": "https://www.oregonlive.com/portland/"
+    },
+    {
+      "text": "Washington County",
+      "url": "https://www.oregonlive.com/washingtoncounty/"
+    },
+    {
+      "text": "Clackamas County",
+      "url": "https://www.oregonlive.com/clackamascounty/"
+    },
+    {
+      "text": "Clark County",
+      "url": "https://www.oregonlive.com/clark-county/"
+    },
+    {
+      "text": "East of Portland",
+      "url": "https://www.oregonlive.com/eastportland"
+    },
+    {
+      "text": "Pacific Northwest",
+      "url": "https://www.oregonlive.com/pacific-northwest-news/"
+    },
+    {
+      "text": "National and World News",
+      "url": "https://www.oregonlive.com/nation"
+    },
+    {
+      "text": "Commuting",
+      "url": "https://www.oregonlive.com/commuting/"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.oregonlive.com/education/"
+    },
+    {
+      "text": "Education Home",
+      "url": "http://www.oregonlive.com/education/"
+    },
+    {
+      "text": "School Data",
+      "url": "http://schools.oregonlive.com/"
+    },
+    {
+      "text": "Investigations",
+      "url": "https://www.oregonlive.com/watchdog/"
+    },
+    {
+      "text": "Environment",
+      "url": "https://www.oregonlive.com/environment/"
+    },
+    {
+      "text": "Wildfires",
+      "url": "https://www.oregonlive.com/wildfires/"
+    },
+    {
+      "text": "Steve Duin",
+      "url": "https://www.oregonlive.com/staff/sduin/posts.html"
+    },
+    {
+      "text": "Add our News App",
+      "url": "https://www.oregonlive.com/mobile-device/#394812078"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.oregonlive.com/politics/"
+    },
+    {
+      "text": "Politics Home",
+      "url": "http://www.oregonlive.com/politics/"
+    },
+    {
+      "text": "Election Results Data",
+      "url": "https://gov.oregonlive.com/election/"
+    },
+    {
+      "text": "My Government",
+      "url": "http://gov.oregonlive.com/"
+    },
+    {
+      "text": "PERS Database",
+      "url": "https://gov.oregonlive.com/pers/"
+    },
+    {
+      "text": "Crime & Safety",
+      "url": "https://www.oregonlive.com/crime/"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.oregonlive.com/business/"
+    },
+    {
+      "text": "Business News Home",
+      "url": "http://www.oregonlive.com/business/"
+    },
+    {
+      "text": "Oregon Tech",
+      "url": "https://www.oregonlive.com/silicon-forest/"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.oregonlive.com/sports/"
+    },
+    {
+      "text": "Oregon Sports",
+      "url": "http://www.oregonlive.com/sports/"
+    },
+    {
+      "text": "High School Sports",
+      "url": "http://oregonlive.com/highschoolsports"
+    },
+    {
+      "text": "Ducks",
+      "url": "https://www.oregonlive.com/ducks/"
+    },
+    {
+      "text": "Ducks News",
+      "url": "https://www.oregonlive.com/ducks/"
+    },
+    {
+      "text": "Ducks Football News App",
+      "url": "https://www.oregonlive.com/mobile-device/#550155110"
+    },
+    {
+      "text": "Ducks Basketball News App",
+      "url": "https://www.oregonlive.com/mobile-device/#578740397"
+    },
+    {
+      "text": "Beavers",
+      "url": "https://www.oregonlive.com/beavers/"
+    },
+    {
+      "text": "Beavers News",
+      "url": "https://www.oregonlive.com/beavers/"
+    },
+    {
+      "text": "Beavers Football News App",
+      "url": "https://www.oregonlive.com/mobile-device/#550158274"
+    },
+    {
+      "text": "Beavers Basketball News App",
+      "url": "https://www.oregonlive.com/mobile-device/#578699578"
+    },
+    {
+      "text": "Blazers",
+      "url": "https://www.oregonlive.com/blazers/"
+    },
+    {
+      "text": "Blazers News",
+      "url": "https://www.oregonlive.com/blazers/"
+    },
+    {
+      "text": "Blazers News App",
+      "url": "https://www.oregonlive.com/mobile-device/#580131474"
+    },
+    {
+      "text": "Timbers",
+      "url": "https://www.oregonlive.com/timbers/"
+    },
+    {
+      "text": "Thorns",
+      "url": "https://www.oregonlive.com/portland-thorns/"
+    },
+    {
+      "text": "Track and Field",
+      "url": "https://www.oregonlive.com/trackandfield/"
+    },
+    {
+      "text": "Recruiting",
+      "url": "https://www.oregonlive.com/recruiting/"
+    },
+    {
+      "text": "NFL",
+      "url": "https://www.oregonlive.com/nfl/"
+    },
+    {
+      "text": "NBA",
+      "url": "https://www.oregonlive.com/nba/"
+    },
+    {
+      "text": "Sports on TV",
+      "url": "http://topics.oregonlive.com/tag/sports%20on%20the%20air/"
+    },
+    {
+      "text": "More Sports",
+      "url": "https://www.oregonlive.com/sports/"
+    },
+    {
+      "text": "College Football",
+      "url": "https://www.oregonlive.com/collegefootball/"
+    },
+    {
+      "text": "College Basketball",
+      "url": "https://www.oregonlive.com/collegebasketball/"
+    },
+    {
+      "text": "Pilots",
+      "url": "https://www.oregonlive.com/pilots/"
+    },
+    {
+      "text": "Vikings",
+      "url": "https://www.oregonlive.com/vikings/"
+    },
+    {
+      "text": "MLB",
+      "url": "https://www.oregonlive.com/mlb/"
+    },
+    {
+      "text": "Winterhawks",
+      "url": "https://www.oregonlive.com/hawks/"
+    },
+    {
+      "text": "Oregon22: World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22"
+    },
+    {
+      "text": "Life & Culture",
+      "url": "https://www.oregonlive.com/entertainment/"
+    },
+    {
+      "text": "Real Estate Resources",
+      "url": "https://realestate.oregonlive.com/"
+    },
+    {
+      "text": "Real Estate News",
+      "url": "https://www.oregonlive.com/realestate/"
+    },
+    {
+      "text": "Homes & Gardens",
+      "url": "https://www.oregonlive.com/hg/"
+    },
+    {
+      "text": "Travel & Outdoors",
+      "url": "https://www.oregonlive.com/travel/"
+    },
+    {
+      "text": "TV",
+      "url": "https://www.oregonlive.com/tv/"
+    },
+    {
+      "text": "Living",
+      "url": "https://www.oregonlive.com/living/"
+    },
+    {
+      "text": "Oregon History",
+      "url": "https://www.oregonlive.com/history/"
+    },
+    {
+      "text": "D.B. Cooper",
+      "url": "https://www.oregonlive.com/dbcooper/"
+    },
+    {
+      "text": "Tom Hallman Jr.",
+      "url": "https://www.oregonlive.com/staff/thallman/index.html"
+    },
+    {
+      "text": "Books",
+      "url": "https://www.oregonlive.com/books/"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.oregonlive.com/events/"
+    },
+    {
+      "text": "Advice Columns",
+      "url": "https://www.oregonlive.com/advice"
+    },
+    {
+      "text": "Shopping Tips and Deals",
+      "url": "https://www.oregonlive.com/shopping-deals/"
+    },
+    {
+      "text": "Comics & Puzzles",
+      "url": "https://www.oregonlive.com/comics-puzzles/"
+    },
+    {
+      "text": "Comics Kingdom",
+      "url": "https://www.oregonlive.com/comics-kingdom"
+    },
+    {
+      "text": "Go Comics",
+      "url": "https://www.oregonlive.com/comics/"
+    },
+    {
+      "text": "Puzzles Palace",
+      "url": "https://www.oregonlive.com/puzzle-palace/"
+    },
+    {
+      "text": "Puzzle Society",
+      "url": "https://www.oregonlive.com/puzzle-society"
+    },
+    {
+      "text": "Eat, Drink, Cook",
+      "url": "https://www.oregonlive.com/food/"
+    },
+    {
+      "text": "Dining Out",
+      "url": "https://www.oregonlive.com/dining/"
+    },
+    {
+      "text": "Recipes",
+      "url": "http://recipes.oregonlive.com/"
+    },
+    {
+      "text": "Beer",
+      "url": "https://www.oregonlive.com/beer/"
+    },
+    {
+      "text": "Wine",
+      "url": "https://www.oregonlive.com/wine/"
+    },
+    {
+      "text": "Here is Oregon",
+      "url": "https://www.hereisoregon.com"
+    },
+    {
+      "text": "Weather",
+      "url": "https://www.oregonlive.com/weather/"
+    },
+    {
+      "text": "Opinion",
+      "url": "https://www.oregonlive.com/opinion/"
+    },
+    {
+      "text": "Editorials",
+      "url": "https://www.oregonlive.com/editorials/"
+    },
+    {
+      "text": "Meet the Editorial Board",
+      "url": "https://www.oregonlive.com/opinion/2020/01/meet-the-editorial-board-of-the-oregonianoregonlive.html"
+    },
+    {
+      "text": "Our Editorial Board's Mission",
+      "url": "https://www.oregonlive.com/opinion/2020/01/editorial-a-2020-view-of-our-editorial-boards-mission.html"
+    },
+    {
+      "text": "2022 Editorial Board Endorsements",
+      "url": "https://www.oregonlive.com/opinion/2022/04/editorial-endorsements-may-2022-our-editorial-boards-voting-recommendations.html"
+    },
+    {
+      "text": "Op-eds",
+      "url": "https://www.oregonlive.com/staff/oliveguestop/posts.html"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "https://www.oregonlive.com/staff/oliveoreglet/posts.html"
+    },
+    {
+      "text": "Submit a Letter to the Editor/Op-ed",
+      "url": "https://www.oregonlive.com/opinion/2019/09/submitting-a-commentary-piece-or-letter-to-the-editor-to-the-oregonianoregonlive.html"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.youtube.com/user/oregoniannews"
+    },
+    {
+      "text": "Conde Nast video",
+      "url": "https://www.oregonlive.com/cne-video/"
+    },
+    {
+      "text": "Subscribe to The Oregonian",
+      "url": "https://subscribe.oregonlive.com"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.oregonlive.com/podcasts/"
+    },
+    {
+      "text": "All our Podcasts",
+      "url": "https://www.oregonlive.com/podcasts/2019/12/subscribe-to-the-oregonianoregonlives-podcasts.html"
+    },
+    {
+      "text": "News on Alexa or Google Home",
+      "url": "https://www.oregonlive.com/podcasts/2019/12/get-daily-news-updates-from-the-oregonianoregonlive-on-alexa-google-home-or-your-podcasting-app.html"
+    },
+    {
+      "text": "News Updates",
+      "url": "https://play.acast.com/s/oregonlive/"
+    },
+    {
+      "text": "Beat Check",
+      "url": "https://play.acast.com/s/nextquestion"
+    },
+    {
+      "text": "Peak Northwest",
+      "url": "https://play.acast.com/s/peaknorthwest/"
+    },
+    {
+      "text": "Blazer Focused",
+      "url": "https://play.acast.com/s/blazer-focused/"
+    },
+    {
+      "text": "Beaver Banter",
+      "url": "https://play.acast.com/s/beaver-banter"
+    },
+    {
+      "text": "Ducks Confidential",
+      "url": "https://play.acast.com/s/ducksconfidential/"
+    },
+    {
+      "text": "Soccer Made in Portland",
+      "url": "https://play.acast.com/s/soccermadeinportland"
+    },
+    {
+      "text": "Email Newsletters",
+      "url": "https://subscription.oregonlive.com/newsletters/"
+    },
+    {
+      "text": "Mobile Apps",
+      "url": "https://www.oregonlive.com/mobile-device/"
+    },
+    {
+      "text": "Obituaries",
+      "url": "https://obits.oregonlive.com/obituaries/oregon/"
+    },
+    {
+      "text": "Advertising",
+      "url": "http://www.oregonlive.com/placead/"
+    },
+    {
+      "text": "OregonLive Ads",
+      "url": "https://www.advancelocaladmanager.com/oregon-live"
+    },
+    {
+      "text": "Classified Ads",
+      "url": "http://www.oregonlive.com/placead/"
+    },
+    {
+      "text": "Manage Ads",
+      "url": "https://secure.adpay.com/login.aspx?p=9083"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://realestate.oregonlive.com/"
+    },
+    {
+      "text": "Homes for Sale",
+      "url": "http://realestate.oregonlive.com/homes-for-sale/"
+    },
+    {
+      "text": "New Homes",
+      "url": "http://realestate.oregonlive.com/new-homes/"
+    },
+    {
+      "text": "For Rent",
+      "url": "http://realestate.oregonlive.com/for-rent"
+    },
+    {
+      "text": "Foreclosures",
+      "url": "http://foreclosures.oregonlive.com/"
+    },
+    {
+      "text": "Commercial",
+      "url": "http://classifieds.oregonlive.com/?cur_cat=&orig_cat=&orig_prop=oregonlive.com&temp_type=browse&category=results&tp=ME_olive&property=oregonlive.com&classification=Commercial+Real+Estate"
+    },
+    {
+      "text": "Resources",
+      "url": "http://realestate.oregonlive.com/"
+    },
+    {
+      "text": "Home Buying",
+      "url": "http://realestate.oregonlive.com/homebuying"
+    },
+    {
+      "text": "Sell My Home",
+      "url": "http://realestate.oregonlive.com/sellmyhome"
+    },
+    {
+      "text": "Rental Living",
+      "url": "http://realestate.oregonlive.com/rentalliving"
+    },
+    {
+      "text": "Home Ideas",
+      "url": "http://realestate.oregonlive.com/homeideas"
+    },
+    {
+      "text": "Mortgages and Loans",
+      "url": "http://realestate.oregonlive.com/mortgagesandloans"
+    },
+    {
+      "text": "I\u2019m Moving",
+      "url": "http://realestate.oregonlive.com/immoving"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://classifieds.oregonlive.com/oregonlive"
+    },
+    {
+      "text": "Extras",
+      "url": "https://www.oregonlive.com"
+    },
+    {
+      "text": "Local Businesses",
+      "url": "http://businessfinder.oregonlive.com/"
+    },
+    {
+      "text": "Autos",
+      "url": "https://autos.oregonlive.com/"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.oregonlive.com/jobs/"
+    },
+    {
+      "text": "Connect With Us",
+      "url": "https://www.oregonlive.com"
+    },
+    {
+      "text": "Our Staff",
+      "url": "http://www.oregonianmediagroup.com/our-journalists/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/Oregonian"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/theoregonian"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/theoregonian/"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://member.oregonlive.com/"
+    },
+    {
+      "text": "Buy an ad",
+      "url": "http://www.oregonlive.com/placead/"
+    },
+    {
+      "text": "Technical Support",
+      "url": "https://www.oregonianmediagroup.com/contact/contact-oregonlive-support/"
+    },
+    {
+      "text": "Search Our Archives",
+      "url": "https://www.oregonlive.com/archives/"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com"
+    },
+    {
+      "text": "Sign in",
+      "url": "#"
+    },
+    {
+      "text": "Create account",
+      "url": "#"
+    },
+    {
+      "text": "Newsletters",
+      "url": "http://subscription.oregonlive.com/newsletters/"
+    },
+    {
+      "text": "Custom Alerts",
+      "url": "/customalerts/"
+    },
+    {
+      "text": "Help/FAQ",
+      "url": "/digitalsubscription/faq/"
+    },
+    {
+      "text": "Top Stories",
+      "url": "#section__top_stories"
+    },
+    {
+      "text": "News",
+      "url": "#section__news"
+    },
+    {
+      "text": "Sports",
+      "url": "#section__sports"
+    },
+    {
+      "text": "Life",
+      "url": "#section__life_and_culture"
+    },
+    {
+      "text": "Spencer Webb\u2019s family, Oregon Ducks football teammates celebrate his life, mourn his death",
+      "url": "https://www.oregonlive.com/ducks/2022/07/spencer-webbs-family-oregon-ducks-football-teammates-celebrate-his-life-mourn-his-death.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/recapping-day-9-at-world-athletics-championships-what-to-watch-on-saturday.html"
+    },
+    {
+      "text": "Recapping Day 8 at World Athletics Championships, what to watch on Saturday",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/recapping-day-9-at-world-athletics-championships-what-to-watch-on-saturday.html"
+    },
+    {
+      "text": "World Athletics Championships 2022 Day 9 schedule, results (7/23)",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/world-athletics-championships-2022-day-9-schedule-results-athletes-competing-how-to-watch-every-track-and-field-event-today-72322.html"
+    },
+    {
+      "text": "World Athletics Championships 2022 medal count (through Day 8): United States get 2 more golds Friday ",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/world-athletics-championships-2022-medal-count-united-states-get-two-more-golds-in-final-friday-through-day-8.html"
+    },
+    {
+      "text": "Sydney McLaughlin blows away her own world record to win 400-meter hurdles gold at World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/sydney-mclaughlin-blows-away-her-own-world-record-to-win-400-meter-hurdles-gold-at-world-athletics-championships.html"
+    },
+    {
+      "text": "View more coverage",
+      "url": "https://www.oregonlive.com/oregon22/"
+    },
+    {
+      "text": "Spencer Webb\u2019s family, Oregon Ducks football teammates celebrate his life, mourn his death",
+      "url": "https://www.oregonlive.com/ducks/2022/07/spencer-webbs-family-oregon-ducks-football-teammates-celebrate-his-life-mourn-his-death.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/news/2022/07/police-identify-42-year-old-man-fatally-shot-at-ne-portland-home.html"
+    },
+    {
+      "text": "Police identify 42-year-old man fatally shot at NE Portland home",
+      "url": "https://www.oregonlive.com/news/2022/07/police-identify-42-year-old-man-fatally-shot-at-ne-portland-home.html"
+    },
+    {
+      "text": "Fired West Linn cop who pursued wrongful arrest of Michael Fesser sentenced to probation, diversity training",
+      "url": "https://www.oregonlive.com/crime/2022/07/fired-west-linn-sergeant-who-pursued-wrongful-arrest-of-michael-fesser-sentenced-to-probation-diversity-training.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/coronavirus/2022/07/oregon-shakespeare-festival-cancels-shows-due-to-unprecedented-covid-case-numbers.html"
+    },
+    {
+      "text": "Oregon Shakespeare Festival cancels shows due to \u2018unprecedented\u2019 COVID case numbers",
+      "url": "https://www.oregonlive.com/coronavirus/2022/07/oregon-shakespeare-festival-cancels-shows-due-to-unprecedented-covid-case-numbers.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/environment/2022/07/judge-pulled-from-oswego-lake-public-access-case-after-old-emails-from-advocates-surface.html"
+    },
+    {
+      "text": "Judge pulled from Oswego Lake public access case after old emails from advocates surface",
+      "url": "https://www.oregonlive.com/environment/2022/07/judge-pulled-from-oswego-lake-public-access-case-after-old-emails-from-advocates-surface.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/dining/2022/07/yardy-chef-isaiah-martinez-and-the-future-of-eugene-food.html"
+    },
+    {
+      "text": "Yardy chef Isaiah Martinez and the future of Eugene food",
+      "url": "https://www.oregonlive.com/dining/2022/07/yardy-chef-isaiah-martinez-and-the-future-of-eugene-food.html"
+    },
+    {
+      "text": "\u2018American Pickers\u2019 is returning to Oregon, and looking for interesting people and collections",
+      "url": "https://www.oregonlive.com/entertainment/2022/07/american-pickers-is-returning-to-oregon-and-looking-for-interesting-people-and-collections.html"
+    },
+    {
+      "text": "How to make the most out of 3 nights in Joseph, Oregon\u2019s scenic mountain getaway",
+      "url": "https://www.oregonlive.com/travel/2022/07/how-to-make-the-most-out-of-3-nights-in-joseph-oregons-scenic-mountain-getaway.html"
+    },
+    {
+      "text": "Today\u2019s Jumble word puzzle for July 23, 2022",
+      "url": "https://www.oregonlive.com/editors/2022/07/todays-jumble-word-puzzle-for-july-23-2022.html"
+    },
+    {
+      "text": "This summer has been tough on tomatoes; here\u2019s how to get the most from your Oregon crop",
+      "url": "https://www.oregonlive.com/advice/2022/07/this-summer-has-been-tough-on-tomatoes-heres-how-to-get-the-most-from-your-oregon-crop.html"
+    },
+    {
+      "text": "Liz Weston: Does a 65-year-old worker need to sign up for Medicare now to avoid penalties?",
+      "url": "https://www.oregonlive.com/business/2022/07/liz-weston-does-a-65-year-old-worker-need-to-sign-up-for-medicare-now-to-avoid-penalties.html"
+    },
+    {
+      "text": "As World Athletics Championships launched, where were Eugene\u2019s unhoused residents? ",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/as-world-athletics-championships-launched-where-were-eugenes-unhoused-residents.html"
+    },
+    {
+      "text": "Ask Amy: Twice handed down clothing gift goes unacknowledged",
+      "url": "https://www.oregonlive.com/advice/2022/07/ask-amy-twice-handed-down-clothing-gift-goes-unacknowledged.html"
+    },
+    {
+      "text": "Dear Abby: My cheating, lying husband is at it again. What should I do?",
+      "url": "https://www.oregonlive.com/advice/2022/07/dear-abby-my-cheating-lying-husband-is-at-it-again-what-should-i-do.html"
+    },
+    {
+      "text": "Michael Norman digs deep, wins men\u2019s 400 at World Athletics Championships for his 1st individual global gold",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/michael-norman-digs-deep-wins-mens-400-at-world-athletics-championships-for-his-1st-global-gold.html"
+    },
+    {
+      "text": "Kara Winger\u2019s last stand: Vancouver star is 1st American woman to medal in javelin at World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/kara-wingers-last-stand-vancouver-star-is-first-american-woman-to-medal-in-javelin-at-world-athletics-championship.html"
+    },
+    {
+      "text": "Read about it here",
+      "url": "https://www.hereisoregon.com/places/2022/07/portland-has-one-of-the-top-5-comic-book-shops-in-the-world.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/advice/2022/07/ask-amy-our-planned-annual-hiking-trip-turned-to-tears-when-friends-brought-along-their-young-children.html"
+    },
+    {
+      "text": "Ask Amy: Our friend\u2019s small kids cried through our planned hiking trip. But they insist they\u2019ll come again this year",
+      "url": "https://www.oregonlive.com/advice/2022/07/ask-amy-our-planned-annual-hiking-trip-turned-to-tears-when-friends-brought-along-their-young-children.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/top-us-decathlete-garrett-scantling-banned-from-world-athletics-championships.html"
+    },
+    {
+      "text": "Top U.S. decathlete Garrett Scantling banned from World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/top-us-decathlete-garrett-scantling-banned-from-world-athletics-championships.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/pacific-northwest-news/2022/07/michael-wolfe-sentenced-to-life-in-prison-for-2019-murders.html"
+    },
+    {
+      "text": "Michael Wolfe sentenced to life in prison for 2019 murders",
+      "url": "https://www.oregonlive.com/pacific-northwest-news/2022/07/michael-wolfe-sentenced-to-life-in-prison-for-2019-murders.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/clackamascounty/2022/07/gladstone-residents-targeted-by-mayors-sister-far-right.html"
+    },
+    {
+      "text": "Mayor\u2019s sister, others on far-right harass residents who raise concerns in Gladstone",
+      "url": "https://www.oregonlive.com/clackamascounty/2022/07/gladstone-residents-targeted-by-mayors-sister-far-right.html"
+    },
+    {
+      "text": "Man found dead in fire-ravaged Lloyd District duplex died from natural causes, officials say",
+      "url": "https://www.oregonlive.com/portland/2022/07/man-found-dead-in-fire-ravaged-lloyd-district-duplex-died-from-natural-causes-officials-say.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/crime/2022/07/road-rage-shooting-claims-tigard-father-while-driving-from-the-oregon-coast.html"
+    },
+    {
+      "text": "Road-rage shooting claims Tigard father while driving from the Oregon coast",
+      "url": "https://www.oregonlive.com/crime/2022/07/road-rage-shooting-claims-tigard-father-while-driving-from-the-oregon-coast.html"
+    },
+    {
+      "text": "Vatican says they\u2019re gifts; Indigenous groups want them back",
+      "url": "https://www.oregonlive.com/native-american-news/2022/07/vatican-says-theyre-gifts-indigenous-groups-want-them-back.html"
+    },
+    {
+      "text": "Interstate Bridge replacement proposal hits major milestone with state, local endorsements",
+      "url": "https://www.oregonlive.com/commuting/2022/07/interstate-bridge-replacement-proposal-hits-major-milestone-with-state-local-endorsements.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/environment/2022/07/oregon-couple-sentenced-for-shooting-into-fleeing-elk-herd-leaving-5-to-rot.html"
+    },
+    {
+      "text": "Oregon couple sentenced for shooting into fleeing elk herd, leaving 5 to rot",
+      "url": "https://www.oregonlive.com/environment/2022/07/oregon-couple-sentenced-for-shooting-into-fleeing-elk-herd-leaving-5-to-rot.html"
+    },
+    {
+      "text": "One dead after fire destroys Lloyd District duplex",
+      "url": "https://www.oregonlive.com/crime/2022/07/one-dead-after-fire-destroys-lloyd-district-duplex.html"
+    },
+    {
+      "text": "State urges Oregonians to mask up against COVID-19 as hospitals face another \u2018crisis\u2019",
+      "url": "https://www.oregonlive.com/coronavirus/2022/07/state-urges-oregonians-to-mask-up-against-covid-19-as-hospitals-face-another-crisis.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/business/2022/07/portland-tourism-is-bouncing-back-from-covid-but-hiring-challenges-may-hold-back-full-recovery.html"
+    },
+    {
+      "text": "Portland tourism is bouncing back from COVID, but hiring challenges may hold back full recovery",
+      "url": "https://www.oregonlive.com/business/2022/07/portland-tourism-is-bouncing-back-from-covid-but-hiring-challenges-may-hold-back-full-recovery.html"
+    },
+    {
+      "text": "Portland paid its housing director $88K to leave",
+      "url": "https://www.oregonlive.com/politics/2022/07/portland-paid-its-housing-director-88k-to-leave.html"
+    },
+    {
+      "text": "Former Forest Grove cop gets community service for drunken disturbance at stranger\u2019s house displaying Black Lives Matter flag",
+      "url": "https://www.oregonlive.com/crime/2022/07/former-forest-grove-cop-gets-community-service-for-drunken-disturbance-at-strangers-house-displaying-black-lives-matter-flag.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/crime/2022/07/portlands-mayor-declares-state-of-emergency-due-to-historic-levels-of-gun-violence.html"
+    },
+    {
+      "text": "Portland\u2019s mayor declares state of emergency due to historic levels of gun violence",
+      "url": "https://www.oregonlive.com/crime/2022/07/portlands-mayor-declares-state-of-emergency-due-to-historic-levels-of-gun-violence.html"
+    },
+    {
+      "text": "Smarsh, big Portland tech company, is cutting jobs",
+      "url": "https://www.oregonlive.com/silicon-forest/2022/07/smarsh-big-portland-tech-company-is-cutting-jobs.html"
+    },
+    {
+      "text": "Steve Bannon convicted of contempt of Congress for defying Jan. 6 subpoena",
+      "url": "https://www.oregonlive.com/nation/2022/07/steve-bannon-convicted-of-contempt-of-congress-for-defying-jan-6-subpoena.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/business/2022/07/judge-dismisses-case-against-oregon-finds-state-met-settlement-requiring-it-to-move-people-with-developmental-disabilities-into-mainstream-jobs.html"
+    },
+    {
+      "text": "Judge finds Oregon moved people with developmental disabilities from sheltered workshops into mainstream jobs; dismisses suit",
+      "url": "https://www.oregonlive.com/business/2022/07/judge-dismisses-case-against-oregon-finds-state-met-settlement-requiring-it-to-move-people-with-developmental-disabilities-into-mainstream-jobs.html"
+    },
+    {
+      "text": "US House passes bill to codify same-sex marriage",
+      "url": "https://www.oregonlive.com/nation/2022/07/us-house-passes-bill-to-codify-same-sex-marriage.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/world-athletics-championships-2022-day-8-schedule-results-athletes-competing-how-to-watch-every-track-and-field-event-today-72222.html"
+    },
+    {
+      "text": "World Athletics Championships 2022 Day 8 schedule, results (7/22)",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/world-athletics-championships-2022-day-8-schedule-results-athletes-competing-how-to-watch-every-track-and-field-event-today-72222.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/oregons-kemba-nelson-jamaica-qualify-for-womens-4x100-relay-finals-at-world-athletics-championships.html"
+    },
+    {
+      "text": "Oregon\u2019s Kemba Nelson, Jenna Prandini help their women\u2019s 4x100 relay teams advance at World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/oregons-kemba-nelson-jamaica-qualify-for-womens-4x100-relay-finals-at-world-athletics-championships.html"
+    },
+    {
+      "text": "Sydney McLaughlin\u2019s \u2018unreal\u2019 400-meter hurdles victory sets social media on fire",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/sydney-mclaughlins-world-record-shattering-400-meter-hurdles-victory-sets-social-media-on-fire-we-are-witnessing-greatness.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/allyson-felix-postpones-retirement-to-run-womens-4x400-relay-at-world-athletics-championships.html"
+    },
+    {
+      "text": "Allyson Felix postpones retirement to run women\u2019s 4x400 relay at World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/allyson-felix-postpones-retirement-to-run-womens-4x400-relay-at-world-athletics-championships.html"
+    },
+    {
+      "text": "Oregon Ducks report 5 NCAA secondary violations in 2021-22",
+      "url": "https://www.oregonlive.com/ducks/2022/07/oregon-ducks-report-5-ncaa-secondary-violations-in-2021-22.html"
+    },
+    {
+      "text": "American Michael Norman wins gold in men\u2019s 400  at World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/american-michael-norman-wins-gold-in-the-mens-400-meters-at-the-world-athletics-championships.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/shaunae-miller-uibo-wins-the-gold-in-the-womens-400-meters-at-the-world-athletics-championships.html"
+    },
+    {
+      "text": "Shaunae Miller-Uibo wins women\u2019s 400 at World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/shaunae-miller-uibo-wins-the-gold-in-the-womens-400-meters-at-the-world-athletics-championships.html"
+    },
+    {
+      "text": "Sydney McLaughlin sets a world record in women\u2019s 400 hurdles",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/sydney-mclaughlin-sets-a-world-record-and-wins-the-gold-in-the-womens-400-meter-hurdles-at-the-world-athletics-championships.html"
+    },
+    {
+      "text": "Instant medals are a big hit with World Athletics Championships\u2019 athletes",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/instant-medals-are-a-big-hit-with-world-athletics-championships-athletes.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/christopher-nilsen-qualifies-for-mens-pole-vault-finals-with-flawless-round-at-world-athletics-championships.html"
+    },
+    {
+      "text": "Christopher Nilsen qualifies for men\u2019s pole vault final with flawless round at World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/christopher-nilsen-qualifies-for-mens-pole-vault-finals-with-flawless-round-at-world-athletics-championships.html"
+    },
+    {
+      "text": "World Athletics Championships 2022 medal count: United States, Jamaica have big Thursday in sprints (through Day 7)",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/world-athletics-championships-2022-medal-count-united-states-jamaica-have-big-thursday-in-sprints-through-day-7.html"
+    },
+    {
+      "text": "World Athletics Championships 2022 Day 7 schedule, results (7/21)",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/world-athletics-championships-2022-day-7-schedule-results-athletes-competing-how-to-watch-every-track-and-field-event-today-72122.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/timbers/2022/07/portland-timbers-vs-san-jose-earthquakes-3-points-to-watch-no-blanco-jeremy-ebobisses-return-playoff-positioning.html"
+    },
+    {
+      "text": "Portland Timbers vs. San Jose Earthquakes, 3 Points to watch: No Blanco, Jeremy Ebobisse on fire, playoff positioning",
+      "url": "https://www.oregonlive.com/timbers/2022/07/portland-timbers-vs-san-jose-earthquakes-3-points-to-watch-no-blanco-jeremy-ebobisses-return-playoff-positioning.html"
+    },
+    {
+      "text": "Hotline mailbag: Options if the Pac-12 raids the Big 12, an ACC Network deal, the Apple-12 Conference and more",
+      "url": "https://www.oregonlive.com/collegefootball/2022/07/hotline-mailbag-options-if-the-pac-12-raids-the-big-12-an-acc-network-deal-the-apple-12-conference-and-more.html"
+    },
+    {
+      "text": "Marvin Bracy surges, leads U.S. men\u2019s 4x100 relay team in heats at World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/marvin-bracy-surges-leads-us-mens-4x100-relay-team-in-heats-at-world-athletics-championships.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/former-oregon-ducks-star-raevyn-rogers-earns-berth-in-the-final-of-womens-800-meters-at-the-world-athletics-championships.html"
+    },
+    {
+      "text": "Former Oregon Ducks star Raevyn Rogers earns berth in women\u2019s 800-meter final at the World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/former-oregon-ducks-star-raevyn-rogers-earns-berth-in-the-final-of-womens-800-meters-at-the-world-athletics-championships.html"
+    },
+    {
+      "text": "Skyview\u2019s Kara Winger powers her way to silver medal in women\u2019s javelin at World Athletics Championships",
+      "url": "https://www.oregonlive.com/oregon22/2022/07/skyviews-kara-winger-powers-her-way-to-silver-medal-in-the-javelin-throw-at-world-athletics-championships.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/environment/2022/07/images-of-new-family-of-wolves-caught-on-trail-cam-in-central-oregon.html"
+    },
+    {
+      "text": "Images of new family of wolves caught on trail cam in central Oregon",
+      "url": "https://www.oregonlive.com/environment/2022/07/images-of-new-family-of-wolves-caught-on-trail-cam-in-central-oregon.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/health/2022/07/dear-doctor-why-should-i-get-a-covid-booster-if-the-shot-wasnt-created-for-current-variants.html"
+    },
+    {
+      "text": "Dear Doctor: Why should I get a COVID booster if the shot wasn\u2019t created for current variants?",
+      "url": "https://www.oregonlive.com/health/2022/07/dear-doctor-why-should-i-get-a-covid-booster-if-the-shot-wasnt-created-for-current-variants.html"
+    },
+    {
+      "text": "Nathan Fielder\u2019s \u2018The Rehearsal\u2019 begins Oregon-filmed episodes Friday: How to stream",
+      "url": "https://www.oregonlive.com/entertainment/2022/07/nathan-fielders-the-rehearsal-begins-oregon-filmed-episodes-friday-how-to-stream.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/history/2022/07/black-owned-salon-and-barber-shop-celebrates-national-register-designation-and-its-place-in-portland-history.html"
+    },
+    {
+      "text": "Black-owned salon and barber shop celebrates National Register designation and its place in Portland history",
+      "url": "https://www.oregonlive.com/history/2022/07/black-owned-salon-and-barber-shop-celebrates-national-register-designation-and-its-place-in-portland-history.html"
+    },
+    {
+      "text": "Mount Angel Abbey Bach Festival offers more than musical attractions",
+      "url": "https://www.oregonlive.com/entertainment/2022/07/mount-angel-abbey-bach-festival-offers-more-than-musical-attractions.html"
+    },
+    {
+      "text": "Oregon wine country estates star in 2022 Street of Dreams luxury home tour",
+      "url": "https://www.oregonlive.com/hg/2022/07/oregon-wine-country-estates-star-in-2022-street-of-dreams-luxury-home-tour.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/travel/2022/07/the-gold-room-serves-fresh-pizza-from-a-beautiful-space-in-remote-northeast-oregon.html"
+    },
+    {
+      "text": "The Gold Room serves fresh pizza from a beautiful space in remote northeast Oregon",
+      "url": "https://www.oregonlive.com/travel/2022/07/the-gold-room-serves-fresh-pizza-from-a-beautiful-space-in-remote-northeast-oregon.html"
+    },
+    {
+      "text": "Garden tours, pruning workshops and walks to add to your summer calendar",
+      "url": "https://www.oregonlive.com/hg/2022/07/garden-tours-pruning-workshops-and-walks-to-add-to-your-summer-calendar.html"
+    },
+    {
+      "text": "Portland pioneering Flanders sisters\u2019 1926 Arts and Crafts house is for sale at $2,375,000",
+      "url": "https://www.oregonlive.com/realestate/2022/07/portland-pioneering-flanders-sisters-1926-arts-and-crafts-house-is-for-sale-at-2375000.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/health/2022/07/dear-doctor-are-the-magnesium-supplements-im-taking-for-leg-cramps-causing-diarrhea.html"
+    },
+    {
+      "text": "Dear Doctor: Are the magnesium supplements I\u2019m taking for leg cramps causing diarrhea?",
+      "url": "https://www.oregonlive.com/health/2022/07/dear-doctor-are-the-magnesium-supplements-im-taking-for-leg-cramps-causing-diarrhea.html"
+    },
+    {
+      "text": "After 30 years, friends and family bring Will Vinton\u2019s \u2018The Kiss\u2019 to the stage",
+      "url": "https://www.oregonlive.com/entertainment/2022/07/after-30-years-friends-and-family-bring-will-vintons-the-kiss-to-the-stage.html"
+    },
+    {
+      "text": "Dear Doctor: How do pharmaceutical companies choose the names of their drugs?",
+      "url": "https://www.oregonlive.com/health/2022/07/dear-doctor-how-do-pharmaceutical-companies-choose-the-names-of-their-drugs.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/wine/2022/07/skywater-fine-wines-opens-on-main-street-in-hillsboro.html"
+    },
+    {
+      "text": "Skywater Fine Wines opens on Main Street in Hillsboro",
+      "url": "https://www.oregonlive.com/wine/2022/07/skywater-fine-wines-opens-on-main-street-in-hillsboro.html"
+    },
+    {
+      "text": "Transitioning from an all-grass lawn to a pollinator-friendly one? Consider these challenges",
+      "url": "https://www.oregonlive.com/hg/2022/07/transitioning-from-an-all-grass-lawn-to-a-pollinator-friendly-one-consider-these-challenges.html"
+    },
+    {
+      "text": "\u2018The Real Housewives of Beverly Hills\u2019 Season 12, Episode 11: Free live stream, time, TV channel",
+      "url": "https://www.oregonlive.com/entertainment/2022/07/the-real-housewives-of-beverly-hills-season-12-episode-11-free-live-stream-time-tv-channel.html"
+    },
+    {
+      "text": "",
+      "url": "https://www.oregonlive.com/hg/2022/07/oregon-gardeners-summer-lament-this-year-has-been-terrible-what-can-you-do.html"
+    },
+    {
+      "text": "Oregon gardeners\u2019 summer lament: \u2018This year has been terrible.\u2019 What can you do?",
+      "url": "https://www.oregonlive.com/hg/2022/07/oregon-gardeners-summer-lament-this-year-has-been-terrible-what-can-you-do.html"
+    },
+    {
+      "text": "Dear Doctor: More than 20 viruses have been shown to cause congestive heart failure",
+      "url": "https://www.oregonlive.com/health/2022/07/dear-doctor-more-than-20-viruses-have-been-shown-to-cause-congestive-heart-failure.html"
+    },
+    {
+      "text": "Our Journalists",
+      "url": "https://www.oregonianmediagroup.com/our-journalists/"
+    },
+    {
+      "text": "About OregonLive.com",
+      "url": "https://www.oregonianmediagroup.com/about/our-mission/"
+    },
+    {
+      "text": "Contact The Newsroom",
+      "url": "https://www.oregonianmediagroup.com/contact/contact-news-team/"
+    },
+    {
+      "text": "Technical Support",
+      "url": "https://www.oregonianmediagroup.com/contact/contact-oregonlive-support/"
+    },
+    {
+      "text": "Search Our Archives",
+      "url": "https://oregonlive.newsbank.com/"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "https://www.oregonianmarketing.com/"
+    },
+    {
+      "text": "Subscribe to The Oregonian",
+      "url": "https://subscribe.oregonlive.com"
+    },
+    {
+      "text": "Subscriber Services",
+      "url": "https://myaccount.oregonlive.com"
+    },
+    {
+      "text": "Digital Subscription FAQ",
+      "url": "https://www.oregonlive.com/digitalsubscription/faq/"
+    },
+    {
+      "text": "Delivery Opportunities",
+      "url": "https://benefits.oregonlive.com/newspaper-delivery-drivers-wanted/"
+    },
+    {
+      "text": "The Oregonian",
+      "url": "https://subscribe.oregonlive.com"
+    },
+    {
+      "text": "eNewspaper",
+      "url": "https://enewspo.oregonlive.com/"
+    },
+    {
+      "text": "Email Newsletters",
+      "url": "https://subscription.oregonlive.com/newsletters/"
+    },
+    {
+      "text": "Manage your Subscription",
+      "url": "https://myaccount.oregonlive.com"
+    },
+    {
+      "text": "Place a Vacation Hold",
+      "url": "https://myaccount.oregonlive.com"
+    },
+    {
+      "text": "Make a Payment",
+      "url": "https://myaccount.oregonlive.com"
+    },
+    {
+      "text": "Delivery Feedback",
+      "url": "https://myaccount.oregonlive.com"
+    },
+    {
+      "text": "Today's Top News",
+      "url": "https://www.oregonlive.com/news"
+    },
+    {
+      "text": "Coronavirus News Home",
+      "url": "https://www.oregonlive.com/coronavirus/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://www.oregonlive.com/politics/"
+    },
+    {
+      "text": "Crime",
+      "url": "https://www.oregonlive.com/crime/"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.oregonlive.com/business/"
+    },
+    {
+      "text": "Trending News",
+      "url": "https://www.oregonlive.com/trending/"
+    },
+    {
+      "text": "Commuting",
+      "url": "https://www.oregonlive.com/commuting/"
+    },
+    {
+      "text": "Weather",
+      "url": "https://www.oregonlive.com/weather/"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.oregonlive.com/education/"
+    },
+    {
+      "text": "Homes & Gardens",
+      "url": "https://www.oregonlive.com/hg/"
+    },
+    {
+      "text": "Letters to the Editor",
+      "url": "http://connect.oregonlive.com/staff/oliveoreglet/posts.html"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.youtube.com/user/oregoniannews"
+    },
+    {
+      "text": "Environment",
+      "url": "https://www.oregonlive.com/environment/"
+    },
+    {
+      "text": "Tom Hallman",
+      "url": "https://connect.oregonlive.com/staff/thallman/posts.html"
+    },
+    {
+      "text": "Special Sections",
+      "url": "https://enewspo.oregonlive.com/"
+    },
+    {
+      "text": "Here is Oregon",
+      "url": "https://www.hereisoregon.com"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.oregonlive.com/sports/"
+    },
+    {
+      "text": "High School Sports",
+      "url": "https://www.oregonlive.com/highschoolsports/"
+    },
+    {
+      "text": "Ducks",
+      "url": "https://www.oregonlive.com/ducks/"
+    },
+    {
+      "text": "Beavers",
+      "url": "https://www.oregonlive.com/beavers/"
+    },
+    {
+      "text": "Trail Blazers",
+      "url": "https://www.oregonlive.com/blazers/"
+    },
+    {
+      "text": "Timbers",
+      "url": "https://www.oregonlive.com/timbers/"
+    },
+    {
+      "text": "Thorns",
+      "url": "https://www.oregonlive.com/portland-thorns/"
+    },
+    {
+      "text": "Recruiting News",
+      "url": "https://www.oregonlive.com/recruiting/"
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.oregonlive.com/entertainment/"
+    },
+    {
+      "text": "Travel",
+      "url": "https://www.oregonlive.com/travel/"
+    },
+    {
+      "text": "TV & Movies",
+      "url": "https://www.oregonlive.com/tv/"
+    },
+    {
+      "text": "Eat, Drink, Cook",
+      "url": "https://www.oregonlive.com/food/"
+    },
+    {
+      "text": "Best Restaurants",
+      "url": "https://expo.oregonlive.com/life-and-culture/g66l-2019/07/cfc9b36d2f3422/portlands-40-best-restaurants-ranked.html"
+    },
+    {
+      "text": "Comics",
+      "url": "https://www.oregonlive.com/comics/"
+    },
+    {
+      "text": "Archives",
+      "url": "https://www.oregonlive.com/archive/"
+    },
+    {
+      "text": "Portland",
+      "url": "https://www.oregonlive.com/portland/"
+    },
+    {
+      "text": "Washington County",
+      "url": "https://www.oregonlive.com/washingtoncounty/"
+    },
+    {
+      "text": "Clackamas County",
+      "url": "https://www.oregonlive.com/clackamascounty/"
+    },
+    {
+      "text": "Clark County",
+      "url": "https://www.oregonlive.com/clark-county/"
+    },
+    {
+      "text": "Pacific Northwest",
+      "url": "https://www.oregonlive.com/pacific-northwest-news/"
+    },
+    {
+      "text": "Email Newsletters",
+      "url": "http://subscription.oregonlive.com/newsletters/"
+    },
+    {
+      "text": "News on Alexa or Google Home",
+      "url": "https://www.oregonlive.com/podcasts/2019/12/get-daily-news-updates-from-the-oregonianoregonlive-on-alexa-google-home-or-your-podcasting-app.html"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://www.youtube.com/user/oregoniannews/videos"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/Oregonian"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/theoregonian"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/theoregonian/"
+    },
+    {
+      "text": "RSS",
+      "url": "https://www.oregonlive.com/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "text": "iPhone, Android apps",
+      "url": "https://www.oregonlive.com/mobile-device/"
+    },
+    {
+      "text": "Tablet apps",
+      "url": "https://www.oregonlive.com/mobile-device/"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://classifieds.oregonlive.com/oregonlive"
+    },
+    {
+      "text": "Autos",
+      "url": "https://autos.oregonlive.com/"
+    },
+    {
+      "text": "Rentals",
+      "url": "https://realestate.oregonlive.com/for-rent"
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.oregonlive.com/jobs/"
+    },
+    {
+      "text": "Real Estate",
+      "url": "https://realestate.oregonlive.com/"
+    },
+    {
+      "text": "Business Shopping",
+      "url": "https://shopping.oregonlive.com"
+    },
+    {
+      "text": "Post a Classified Ad",
+      "url": "https://www.oregonlive.com/placead/"
+    },
+    {
+      "text": "Local Deals",
+      "url": "https://www.oregonlive.com/shopping/"
+    },
+    {
+      "text": "Sponsor Content",
+      "url": "https://www.oregonlive.com/sponsor-content-index/?prx_adpz=1116"
+    },
+    {
+      "text": "Sell Your Car",
+      "url": "https://www.oregonlive.com/placead/"
+    },
+    {
+      "text": "Sell/Rent Your Home",
+      "url": "https://www.oregonlive.com/placead/"
+    },
+    {
+      "text": "Post a Job",
+      "url": "https://jobs.oregonlive.com/AdminNet/Employer/Marketing/3321"
+    },
+    {
+      "text": "",
+      "url": "https://www.advancelocal.com/"
+    },
+    {
+      "text": "User Agreement",
+      "url": "https://www.oregonlive.com/user-agreement/"
+    },
+    {
+      "text": "Privacy Policy and Cookie Statement",
+      "url": "https://www.oregonlive.com/privacy-policy/"
+    },
+    {
+      "text": "Your California Privacy Rights",
+      "url": "https://www.oregonlive.com/privacy-policy/#california_top"
+    },
+    {
+      "text": "Cookies Settings",
+      "url": "#"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.oregonianmediagroup.com/"
+    },
+    {
+      "text": "Community Rules",
+      "url": "https://www.oregonlive.com/communityrules/"
+    },
+    {
+      "text": "here",
+      "url": "https://www.youtube.com/intl/en-US/about/policies/"
+    },
+    {
+      "text": "here",
+      "url": "https://www.youtube.com/t/terms"
+    },
+    {
+      "text": "Ad Choices",
+      "url": "https://www.oregonlive.com/privacy-policy/#oba_top"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    },
+    {
+      "text": "",
+      "url": "https://www.onetrust.com/products/cookie-consent/"
+    }
+  ],
   "server": "ia801406.us.archive.org",
-  "uniq": 938894990,
+  "uniq": 443692101,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

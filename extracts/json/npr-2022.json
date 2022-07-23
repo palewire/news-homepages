@@ -1,5 +1,5 @@
 {
-  "created": 1658538236,
+  "created": 1658611323,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/npr-2022",
@@ -5182,31 +5182,209 @@
       "sha1": "c5f2a991cde5b6b7c6ea9b346bba5b1ba6e6bd3b"
     },
     {
+      "name": "npr-2022-07-22T23:34:18.158771-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658547263",
+      "size": "30683",
+      "md5": "30dfeb36cf4362def0d4fa442d87ee28",
+      "crc32": "70dfcc8a",
+      "sha1": "c6e58968f7d96fde831dbebc76c8406e77098aea",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-22T23:34:18.158771-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658547264",
+      "size": "47416",
+      "md5": "a7a5a00738164c693ef2db5e06d83f30",
+      "crc32": "39c8c03e",
+      "sha1": "9b1205847a27f04d506f91a33fce1fdd07ebeef2",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-22T23:34:18.158771-04:00.jpg",
+      "source": "original",
+      "mtime": "1658547261",
+      "size": "259751",
+      "md5": "3369c55b5fb01dba309a3db73ce53aeb",
+      "crc32": "cb20b735",
+      "sha1": "f7b863f23d76f0829f62f501422dfe1cf8a68999",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-22T23:34:18.158771-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-22T23:34:18.158771-04:00.jpg",
+      "mtime": "1658551530",
+      "size": "10200",
+      "md5": "ed8404e546bd26c6eac997ee15408fc6",
+      "crc32": "b89c3cb9",
+      "sha1": "e84f08e4e3e586cf7788928760add0ae3d5b123c"
+    },
+    {
+      "name": "npr-2022-07-23T10:58:18.142604-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658588305",
+      "size": "20058",
+      "md5": "f5847bfaaa65703bcdaec5a00b0c10d3",
+      "crc32": "cf2bcca7",
+      "sha1": "55fd7d5b1797ba422b71a1aabab94d46d62ca394",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-23T10:58:18.142604-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658588306",
+      "size": "34800",
+      "md5": "5bd0a12d370b690b3237c2237a71e895",
+      "crc32": "c62366f2",
+      "sha1": "caf84c84dae8b28fbd0f538a88dfb589e44a0d91",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-23T10:58:18.142604-04:00.jpg",
+      "source": "original",
+      "mtime": "1658588303",
+      "size": "242937",
+      "md5": "17393339e9cadf8556da0b22bea0e82f",
+      "crc32": "7fdb25c8",
+      "sha1": "0754cec195a719470f6a6f2df95f501d9b55d03f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-23T10:58:18.142604-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-23T10:58:18.142604-04:00.jpg",
+      "mtime": "1658588500",
+      "size": "10245",
+      "md5": "ae9046ce832a3f46e76e92bb5fbe3101",
+      "crc32": "f3040dcd",
+      "sha1": "fde582f9d523dd20d645eb84a4c4900e8b583436"
+    },
+    {
+      "name": "npr-2022-07-23T11:04:16.018662-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658588660",
+      "size": "20058",
+      "md5": "f5847bfaaa65703bcdaec5a00b0c10d3",
+      "crc32": "cf2bcca7",
+      "sha1": "55fd7d5b1797ba422b71a1aabab94d46d62ca394",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-23T11:04:16.018662-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658588661",
+      "size": "35694",
+      "md5": "0c03f5db9397c57f41b400506fac97ae",
+      "crc32": "23c099fa",
+      "sha1": "ad32ec5df1994c890457ae667516df600e7bff38",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-23T11:04:16.018662-04:00.jpg",
+      "source": "original",
+      "mtime": "1658588658",
+      "size": "242681",
+      "md5": "36a3891386040ba24e7dea1888c44a34",
+      "crc32": "ada58f3f",
+      "sha1": "aa165120c6a0cfee95d0c7112013a5cad9913afb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-23T11:04:16.018662-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-23T11:04:16.018662-04:00.jpg",
+      "mtime": "1658588739",
+      "size": "10263",
+      "md5": "f575328118d73641203162a0a47fa647",
+      "crc32": "e075107f",
+      "sha1": "f8752916a2e8269be40ab956d039d0c30ece7812"
+    },
+    {
+      "name": "npr-2022-07-23T17:16:24.785073-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658610989",
+      "size": "19089",
+      "md5": "8541c0b8dddf6e9402551179f8deeb26",
+      "crc32": "ced18629",
+      "sha1": "62408e88f87c713e4d8af080fc823bf93d5ebd60",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-23T17:16:24.785073-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658610991",
+      "size": "31897",
+      "md5": "e9dc033cc0ea5a784adb1b3286c46d07",
+      "crc32": "ce46bf79",
+      "sha1": "405321a391041491a2a99a4769560e00710b3d74",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-23T17:16:24.785073-04:00.jpg",
+      "source": "original",
+      "mtime": "1658610988",
+      "size": "255796",
+      "md5": "1bf7c96b2f6902ad20dfededdf8095ab",
+      "crc32": "409407d5",
+      "sha1": "3659871c26f2ea3dc5f502c66cf9fccc6f57e34d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "npr-2022-07-23T17:16:24.785073-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658610993",
+      "size": "1431",
+      "md5": "091870b6fbddee3244d6c4341a3d3772",
+      "crc32": "fb2d0376",
+      "sha1": "1b4cc8c0a8370151cf2afe5ecc56da9f2d571cc4",
+      "format": "JSON"
+    },
+    {
+      "name": "npr-2022-07-23T17:16:24.785073-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-07-23T17:16:24.785073-04:00.jpg",
+      "mtime": "1658611152",
+      "size": "9782",
+      "md5": "1b4797419d1d07bc4638e50d1a4509dc",
+      "crc32": "5068b2d6",
+      "sha1": "12aa301c4523dca46fc49e2cba2625d554afa8a1"
+    },
+    {
       "name": "npr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5f24b297eee750c077f08c4eb5ad08ab62af951",
-      "mtime": "1658535642",
-      "size": "102683",
-      "md5": "035e0b88292bb1949e11e98a4e6529c3",
-      "crc32": "3f4b948a",
-      "sha1": "a6f16e5d4ce70158881701dbf1c7fac6bda69ee7",
+      "btih": "e554d718f57372e87433e35547387d8090e76e5f",
+      "mtime": "1658611289",
+      "size": "106187",
+      "md5": "87ad9271242f1c2689b72fe388f20af9",
+      "crc32": "4d716a22",
+      "sha1": "0794c946cf19d2f5f08ec257716539b36dabee08",
       "format": "Archive BitTorrent"
     },
     {
       "name": "npr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "947dd5bce824e3ddc72939a8b48989c4",
+      "md5": "18b5a0984eb743c1e5abd7d595b80210",
       "summation": "md5"
     },
     {
       "name": "npr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658524169",
-      "size": "577536",
-      "md5": "71baafd01ca6dc532cda2064dd8dfcd1",
-      "crc32": "6701b3e2",
-      "sha1": "1eb4baf3d9d447de3a2937fe9a686715b1701bae",
+      "mtime": "1658610998",
+      "size": "598016",
+      "md5": "723e029f698950a28323a4d1b9eaa4ec",
+      "crc32": "c71806dc",
+      "sha1": "9d78e763bf692f5d8b0df2291ba5bdadae95c312",
       "format": "Metadata"
     },
     {
@@ -5220,9 +5398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 497,
-  "item_last_updated": 1658535642,
-  "item_size": 40895845,
+  "files_count": 514,
+  "item_last_updated": 1658611289,
+  "item_size": 42202610,
   "metadata": {
     "identifier": "npr-2022",
     "collection": [
@@ -5239,880 +5417,10 @@
     "publicdate": "2022-06-24 22:58:47",
     "addeddate": "2022-06-24 22:58:47"
   },
-  "npr-2022": [
-    {
-      "text": "Skip to main content",
-      "url": "#mainContent"
-    },
-    {
-      "text": "Keyboard shortcuts for audio player",
-      "url": "https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player"
-    },
-    {
-      "text": "\n                    \n                ",
-      "url": "/"
-    },
-    {
-      "text": "NPR Shop",
-      "url": "https://shop.npr.org"
-    },
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
-      "text": "News",
-      "url": "/sections/news/"
-    },
-    {
-      "text": "National",
-      "url": "/sections/national/"
-    },
-    {
-      "text": "World",
-      "url": "/sections/world/"
-    },
-    {
-      "text": "Politics",
-      "url": "/sections/politics/"
-    },
-    {
-      "text": "Business",
-      "url": "/sections/business/"
-    },
-    {
-      "text": "Health",
-      "url": "/sections/health/"
-    },
-    {
-      "text": "Science",
-      "url": "/sections/science/"
-    },
-    {
-      "text": "Climate",
-      "url": "/sections/climate/"
-    },
-    {
-      "text": "Race",
-      "url": "/sections/codeswitch/"
-    },
-    {
-      "text": "Culture",
-      "url": "/sections/culture/"
-    },
-    {
-      "text": "Books",
-      "url": "/books/"
-    },
-    {
-      "text": "Movies",
-      "url": "/sections/movies/"
-    },
-    {
-      "text": "Television",
-      "url": "/sections/television/"
-    },
-    {
-      "text": "Pop Culture",
-      "url": "/sections/pop-culture/"
-    },
-    {
-      "text": "Food",
-      "url": "/sections/food/"
-    },
-    {
-      "text": "Art & Design",
-      "url": "/sections/art-design/"
-    },
-    {
-      "text": "Performing Arts",
-      "url": "/sections/performing-arts/"
-    },
-    {
-      "text": "Life Kit",
-      "url": "/lifekit/"
-    },
-    {
-      "text": "Music",
-      "url": "/music/"
-    },
-    {
-      "text": "\n        Tiny Desk\n    ",
-      "url": "https://www.npr.org/series/tiny-desk-concerts/"
-    },
-    {
-      "text": "\n        #NowPlaying\n    ",
-      "url": "https://www.npr.org/series/1002643619/now-playing"
-    },
-    {
-      "text": "\n        All Songs Considered\n    ",
-      "url": "https://www.npr.org/sections/allsongs/"
-    },
-    {
-      "text": "\n        Music Features\n    ",
-      "url": "https://www.npr.org/sections/music-features"
-    },
-    {
-      "text": "\n        Live Sessions\n    ",
-      "url": "https://www.npr.org/series/770565791/npr-music-live-sessions"
-    },
-    {
-      "text": "Podcasts & Shows",
-      "url": "/podcasts-and-shows/"
-    },
-    {
-      "text": "\n                                    \n                                    Morning Edition\n                                ",
-      "url": "/programs/morning-edition/"
-    },
-    {
-      "text": "\n                                    \n                                    Weekend Edition Saturday\n                                ",
-      "url": "/programs/weekend-edition-saturday/"
-    },
-    {
-      "text": "\n                                    \n                                    Weekend Edition Sunday\n                                ",
-      "url": "/programs/weekend-edition-sunday/"
-    },
-    {
-      "text": "\n                                    \n                                    All Things Considered\n                                ",
-      "url": "/programs/all-things-considered/"
-    },
-    {
-      "text": "\n                                    \n                                    Fresh Air\n                                ",
-      "url": "/programs/fresh-air/"
-    },
-    {
-      "text": "\n                                    \n                                    Up First\n                                ",
-      "url": "/podcasts/510318/up-first/"
-    },
-    {
-      "text": "\n        \n        Pop Culture Happy Hour\n    ",
-      "url": "https://www.npr.org/podcasts/510282/pop-culture-happy-hour"
-    },
-    {
-      "text": "\n        \n        Short Wave\n    ",
-      "url": "https://www.npr.org/podcasts/510351/short-wave"
-    },
-    {
-      "text": "\n        \n        The Indicator from Planet Money\n    ",
-      "url": "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money"
-    },
-    {
-      "text": "\n        \n        State of Ukraine\n    ",
-      "url": "https://www.npr.org/podcasts/510366/state-of-ukraine"
-    },
-    {
-      "text": "More Podcasts & Shows",
-      "url": "/podcasts-and-shows/"
-    },
-    {
-      "text": "Search",
-      "url": "/search/"
-    },
-    {
-      "text": "NPR Shop",
-      "url": "https://shop.npr.org"
-    },
-    {
-      "text": "\n                        \n                        \n                    ",
-      "url": "/music/"
-    },
-    {
-      "text": "\n        Tiny Desk\n    ",
-      "url": "https://www.npr.org/series/tiny-desk-concerts/"
-    },
-    {
-      "text": "\n        #NowPlaying\n    ",
-      "url": "https://www.npr.org/series/1002643619/now-playing"
-    },
-    {
-      "text": "\n        All Songs Considered\n    ",
-      "url": "https://www.npr.org/sections/allsongs/"
-    },
-    {
-      "text": "\n        Music Features\n    ",
-      "url": "https://www.npr.org/sections/music-features"
-    },
-    {
-      "text": "\n        Live Sessions\n    ",
-      "url": "https://www.npr.org/series/770565791/npr-music-live-sessions"
-    },
-    {
-      "text": "About NPR",
-      "url": "/about/"
-    },
-    {
-      "text": "Diversity",
-      "url": "/diversity/"
-    },
-    {
-      "text": "Organization",
-      "url": "/organization/"
-    },
-    {
-      "text": "Support",
-      "url": "/support/"
-    },
-    {
-      "text": "Careers",
-      "url": "/careers/"
-    },
-    {
-      "text": "Connect",
-      "url": "/connect/"
-    },
-    {
-      "text": "Press",
-      "url": "/press/"
-    },
-    {
-      "text": "Ethics",
-      "url": "/ethics/"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112937587/steve-bannon-guilty-jan-6-committee-contempt-charges"
-    },
-    {
-      "text": "\n                        Law\n                        ",
-      "url": "https://www.npr.org/sections/law/"
-    },
-    {
-      "text": "\n                Steve Bannon is found guilty on both contempt of Congress charges\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112937587/steve-bannon-guilty-jan-6-committee-contempt-charges"
-    },
-    {
-      "text": "\n                Bannon had refused to testify or produce documents for the House committee investigating the Jan. 6 Capitol attack. His lawyers say he just made a mistake about the subpoena dates\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112937587/steve-bannon-guilty-jan-6-committee-contempt-charges"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112937054/proposed-reforms-for-the-electoral-count-act-draw-broad-support"
-    },
-    {
-      "text": "\n                            Elections\n                            ",
-      "url": "https://www.npr.org/sections/elections/"
-    },
-    {
-      "text": "\n            Proposed reforms for the Electoral Count Act draw broad support\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112937054/proposed-reforms-for-the-electoral-count-act-draw-broad-support"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112992409/rep-cheney-jan-6-suffrage-hearing"
-    },
-    {
-      "text": "\n                            House Jan. 6 committee hearings\n                            ",
-      "url": "https://www.npr.org/series/1098490189/jan-6-subcommittee-hearings"
-    },
-    {
-      "text": "\n            Rep. Cheney pays tribute to the Women's Suffrage Movement in her closing Jan. 6 remarks\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112992409/rep-cheney-jan-6-suffrage-hearing"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/22/1112444508/three-abortion-myths"
-    },
-    {
-      "text": "\n                            Shots - Health News\n                            ",
-      "url": "https://www.npr.org/sections/health-shots/"
-    },
-    {
-      "text": "\n            3 common myths about the abortion debate that many people get wrong\n            ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/22/1112444508/three-abortion-myths"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112929301/skittles-lawsuit-titanium-dioxide"
-    },
-    {
-      "text": "\n                            Food\n                            ",
-      "url": "https://www.npr.org/sections/food/"
-    },
-    {
-      "text": "\n            A Skittles lawsuit raises questions over titanium dioxide \u2014 a legal food additive\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112929301/skittles-lawsuit-titanium-dioxide"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112324462/jan-6-hearing-takeaways"
-    },
-    {
-      "text": "\n                            House Jan. 6 committee hearings\n                            ",
-      "url": "https://www.npr.org/series/1098490189/jan-6-subcommittee-hearings"
-    },
-    {
-      "text": "\n            Trump didn't act and didn't want to, plus 4 other takeaways from the Jan. 6 hearings\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112324462/jan-6-hearing-takeaways"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/21/1112634101/jordan-peele-subverts-expectations-again-with-nope"
-    },
-    {
-      "text": "\n                            Pop Culture Happy Hour\n                            ",
-      "url": "https://www.npr.org/series/pop-culture-happy-hour"
-    },
-    {
-      "text": "\n            Jordan Peele subverts expectations (again) with 'Nope'\n            ",
-      "url": "https://www.npr.org/2022/07/21/1112634101/jordan-peele-subverts-expectations-again-with-nope"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/22/1110830985/drugmakers-are-slow-to-prove-medicines-that-got-a-fast-track-to-market-really-wo"
-    },
-    {
-      "text": "\n                                    Shots - Health News\n                                ",
-      "url": "https://www.npr.org/sections/health-shots/"
-    },
-    {
-      "text": "\n                    Drugmakers are slow to prove medicines that got a fast track to market really work\n                ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/22/1110830985/drugmakers-are-slow-to-prove-medicines-that-got-a-fast-track-to-market-really-wo"
-    },
-    {
-      "text": "                    \n                    Stalled confirmatory trials and lax enforcement plague the Food and Drug Administration's accelerated approval pathway for pharmaceuticals that target urgent medical needs.\n                ",
-      "url": "https://www.npr.org/sections/health-shots/2022/07/22/1110830985/drugmakers-are-slow-to-prove-medicines-that-got-a-fast-track-to-market-really-wo"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            7:35\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220721_atc_accelerated_approvals.mp3?orgId=1&topicId=1128&d=455&story=1110830985&dl=1&sc=siteplayer&size=7285073&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220721_atc_accelerated_approvals.mp3?orgId=1&topicId=1128&d=455&story=1110830985&dl=1&sc=siteplayer&size=7285073&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://laist.com/news/arts-and-entertainment/comic-con-cosplay-masks-san-diego-ba5"
-    },
-    {
-      "text": "\n                        ComicCon's in-person return brings cosplayers back out to shine\n                    ",
-      "url": "https://laist.com/news/arts-and-entertainment/comic-con-cosplay-masks-san-diego-ba5"
-    },
-    {
-      "text": "\n                        Many cosplayers spent the pandemic perfecting costumes they had no place to wear \u2014 and it feels good to be back. \"You don't really make a big science fiction costume and then go out in public,\" said one longtime participant.\n                    ",
-      "url": "https://laist.com/news/arts-and-entertainment/comic-con-cosplay-masks-san-diego-ba5"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112894950/noah-lyles-record-200-world-championships"
-    },
-    {
-      "text": "\n                        Sports\n                        ",
-      "url": "https://www.npr.org/sections/sports/"
-    },
-    {
-      "text": "\n                Noah Lyles breaks Michael Johnson's U.S. record that stood since 1996\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112894950/noah-lyles-record-200-world-championships"
-    },
-    {
-      "text": "\n                At the finish line, Noah Lyles stared down his only true opponent: the clock. But for several moments, the unofficial time showed a tie with Johnson's mark of 19.32.\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112894950/noah-lyles-record-200-world-championships"
-    },
-    {
-      "text": "\n        \n            Meet The High School Track Prodigy Competing In The Olympic 200-Meter \n        \n    ",
-      "url": "https://www.npr.org/sections/tokyo-olympics-live-updates/2021/08/04/1024584447/high-school-track-prodigy-olympic-200-meter-erriyon-knighton"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112906389/heat-wave-tips-people-pets-buildings"
-    },
-    {
-      "text": "\n                        National\n                        ",
-      "url": "https://www.npr.org/sections/national/"
-    },
-    {
-      "text": "\n                How people, pets and infrastructure can respond to extreme heat\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112906389/heat-wave-tips-people-pets-buildings"
-    },
-    {
-      "text": "\n                Climate change is making heat waves more frequent and intense. With much of the U.S. facing a weekend of extreme temperatures, here are some tips for protecting yourself and your loved ones.\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112906389/heat-wave-tips-people-pets-buildings"
-    },
-    {
-      "text": "\n        \n            Americans connect extreme heat and climate change to their health, a survey finds\n        \n    ",
-      "url": "https://www.npr.org/2022/06/22/1106392334/extreme-heat-climate-change-health"
-    },
-    {
-      "text": "\n        \n            As a heat wave blankets much of the U.S., utilities are managing to keep up, for now\n        \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112724801/heat-warning-heat-wave-advisory-power-grid"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112950993/biden-covid-fever"
-    },
-    {
-      "text": "\n                        Politics\n                        ",
-      "url": "https://www.npr.org/sections/politics/"
-    },
-    {
-      "text": "\n                Biden's symptoms improved despite elevated temperature Thursday night, his doctor says\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112950993/biden-covid-fever"
-    },
-    {
-      "text": "\n                President Biden had a slightly elevated temperature last night but his physician says that \"his symptoms have improved\" as he receives treatment after testing positive for COVID-19 on Thursday.\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112950993/biden-covid-fever"
-    },
-    {
-      "text": "\n        \n            Even if you're the president, it's hard to avoid a breakthrough COVID infection\n        \n    ",
-      "url": "https://www.npr.org/2022/07/21/1112770591/biden-coronavirus-breakthrough-infection"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112777091/1400-tenants-water-shut-off-indianapolis"
-    },
-    {
-      "text": "\n                        National\n                        ",
-      "url": "https://www.npr.org/sections/national/"
-    },
-    {
-      "text": "\n                More than 1,000 may lose water \u2014 or even their homes \u2014 because a landlord didn't pay\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112777091/1400-tenants-water-shut-off-indianapolis"
-    },
-    {
-      "text": "\n                Officials in Indianapolis say a utility company's threat to shut off water service at four apartment complexes over the landlord's unpaid $1.7 million bill could cause a \"mass-homelessness problem.\"\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112777091/1400-tenants-water-shut-off-indianapolis"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://wpln.org/post/nashville-gospel-singer-shonka-dukureh-dies-at-44-just-one-month-after-her-movie-debut-in-elvis/"
-    },
-    {
-      "text": "\n                'Elvis' actress Shonka Dukureh dies at 44, one month after her movie debut\n            ",
-      "url": "https://wpln.org/post/nashville-gospel-singer-shonka-dukureh-dies-at-44-just-one-month-after-her-movie-debut-in-elvis/"
-    },
-    {
-      "text": "\n                The Nashville gospel singer recently portrayed the role of Big Mama Thornton in the new Elvis movie, directed by Baz Luhrmann. No foul play was evident in Dukureh's death, local authorities said.\n            ",
-      "url": "https://wpln.org/post/nashville-gospel-singer-shonka-dukureh-dies-at-44-just-one-month-after-her-movie-debut-in-elvis/"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://gothamist.com/news/man-charged-with-attempted-assault-after-rushing-at-republican-gubernatorial-candidate-lee-zeldin"
-    },
-    {
-      "text": "\n                The man who attacked Republican N.Y. governor candidate Zeldin is charged with attempted assault\n            ",
-      "url": "https://gothamist.com/news/man-charged-with-attempted-assault-after-rushing-at-republican-gubernatorial-candidate-lee-zeldin"
-    },
-    {
-      "text": "\n                The 43-year-old man jumped on stage Thursday night as Lee Zeldin gave a campaign speech on the outskirts of Rochester. No one, including Zeldin, was injured.\n            ",
-      "url": "https://gothamist.com/news/man-charged-with-attempted-assault-after-rushing-at-republican-gubernatorial-candidate-lee-zeldin"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112705301/decades-after-foster-care-she-learned-she-was-owed-benefits-where-did-the-money-"
-    },
-    {
-      "text": "\n                                    The Hidden Bill For Foster Care\n                                    ",
-      "url": "https://www.npr.org/series/1078304434/the-hidden-bill-for-foster-care"
-    },
-    {
-      "text": "\n                        Decades after foster care, she learned she was owed benefits. Where did the money go?\n                    ",
-      "url": "https://www.npr.org/2022/07/22/1112705301/decades-after-foster-care-she-learned-she-was-owed-benefits-where-did-the-money-"
-    },
-    {
-      "text": "\n                        After reading an investigation by NPR and the Marshall Project, former foster youth are asking what happened to their benefits \u2014 and the government isn't helping.\n                    ",
-      "url": "https://www.npr.org/2022/07/22/1112705301/decades-after-foster-care-she-learned-she-was-owed-benefits-where-did-the-money-"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/world-cafe/2022/07/22/1112268563/kurt-vile-talks-watch-my-moves-with-world-cafe"
-    },
-    {
-      "text": "\n                                    World Cafe\n                                ",
-      "url": "https://www.npr.org/sections/world-cafe/"
-    },
-    {
-      "text": "\n                    For Kurt Vile, 'settling down' doesn't necessarily mean 'staying still'\n                ",
-      "url": "https://www.npr.org/sections/world-cafe/2022/07/22/1112268563/kurt-vile-talks-watch-my-moves-with-world-cafe"
-    },
-    {
-      "text": "                    \n                    The Philly rocker's latest album is titled (watch my moves) and he joins me to talk about the moves he's been making, who he's been working with and lots more.\n                ",
-      "url": "https://www.npr.org/sections/world-cafe/2022/07/22/1112268563/kurt-vile-talks-watch-my-moves-with-world-cafe"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112821653/twitter-earnings-2-quarter"
-    },
-    {
-      "text": "\n                        Technology\n                        ",
-      "url": "https://www.npr.org/sections/technology/"
-    },
-    {
-      "text": "\n                Twitter reports a revenue drop, citing uncertainty over Musk deal and the economy\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112821653/twitter-earnings-2-quarter"
-    },
-    {
-      "text": "\n                Twitter's revenue for the quarter fell short of expectations. The social network cited uncertainty about Elon Musk's acquisition and advertisers worried about the economy.\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112821653/twitter-earnings-2-quarter"
-    },
-    {
-      "text": "\n        \n            Twitter's lawsuit against Elon Musk will go to trial in October\n        \n    ",
-      "url": "https://www.npr.org/2022/07/19/1112267017/elon-musk-twitter-trial-october"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112796353/wedding-dress-exchange-facebook-dream-dresses-cost-strangers-stulgis"
-    },
-    {
-      "text": "\n                                    Culture\n                                    ",
-      "url": "https://www.npr.org/sections/culture/"
-    },
-    {
-      "text": "\n                        This woman gave her wedding dress to a stranger for free, and inspired a movement\n                    ",
-      "url": "https://www.npr.org/2022/07/22/1112796353/wedding-dress-exchange-facebook-dream-dresses-cost-strangers-stulgis"
-    },
-    {
-      "text": "\n                        Gwendolyn Stulgis walked down the aisle in the dress of her dreams. But after her wedding, she decided to pay the feeling forward to a complete stranger.\n                    ",
-      "url": "https://www.npr.org/2022/07/22/1112796353/wedding-dress-exchange-facebook-dream-dresses-cost-strangers-stulgis"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            2:22\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220720_atc_this_woman_gave_her_wedding_dress_to_a_stranger_and_inspired_others_to_do_the_same.mp3?orgId=1&topicId=1008&d=142&story=1112796353&dl=1&sc=siteplayer&size=2280012&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/07/20220720_atc_this_woman_gave_her_wedding_dress_to_a_stranger_and_inspired_others_to_do_the_same.mp3?orgId=1&topicId=1008&d=142&story=1112796353&dl=1&sc=siteplayer&size=2280012&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112724801/heat-warning-heat-wave-advisory-power-grid"
-    },
-    {
-      "text": "\n                        Weather\n                        ",
-      "url": "https://www.npr.org/sections/weather"
-    },
-    {
-      "text": "\n                As a heat wave blankets much of the U.S., utilities are managing to keep up, for now\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112724801/heat-warning-heat-wave-advisory-power-grid"
-    },
-    {
-      "text": "\n                Earlier this year, there had been warnings that supply during peak summer hours might not meet demand. But there have been no reports yet of widespread outages.\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112724801/heat-warning-heat-wave-advisory-power-grid"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112880942/ukraine-grain-exports-deal"
-    },
-    {
-      "text": "\n                        Ukraine invasion \u2014 explained\n                        ",
-      "url": "https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained"
-    },
-    {
-      "text": "\n                Ukraine and Russia agree to export grain, ending a standoff that threatened food supply\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112880942/ukraine-grain-exports-deal"
-    },
-    {
-      "text": "\n                The deal allows Ukraine to resume shipments of grain from the Black Sea to world markets and Russia to export grain and fertilizers, clearing the way for the release of millions of tons of desperately needed materials.\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112880942/ukraine-grain-exports-deal"
-    },
-    {
-      "text": "\n        \n            How to get 20 million tons of grain out of Ukraine\n        \n    ",
-      "url": "https://www.npr.org/2022/05/31/1102277441/how-to-get-20-million-tons-of-grain-out-of-ukraine"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/21/1112740916/paxlovid-president-biden-covid-antiviral-treatment"
-    },
-    {
-      "text": "\n                        Politics\n                        ",
-      "url": "https://www.npr.org/sections/politics/"
-    },
-    {
-      "text": "\n                What to know about Paxlovid, the COVID drug President Biden is using to speed recovery\n            ",
-      "url": "https://www.npr.org/2022/07/21/1112740916/paxlovid-president-biden-covid-antiviral-treatment"
-    },
-    {
-      "text": "\n                Paxlovid has been highly effective at reducing the risks of hospitalization and death, but some patients report a \"Paxlovid rebound\" in which the disease returns.\n            ",
-      "url": "https://www.npr.org/2022/07/21/1112740916/paxlovid-president-biden-covid-antiviral-treatment"
-    },
-    {
-      "text": "\n        \n            President Biden tests positive for COVID-19 and is experiencing mild symptoms\n        \n    ",
-      "url": "https://www.npr.org/2022/07/21/1112721118/president-biden-tests-positive-for-covid-19-and-is-experiencing-mild-symptoms"
-    },
-    {
-      "text": "\n        \n            Even if you're the president, it's hard to avoid a breakthrough COVID infection\n        \n    ",
-      "url": "https://www.npr.org/2022/07/21/1112770591/biden-coronavirus-breakthrough-infection"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112484935/nasa-engineer-nagin-cox-mars-rover"
-    },
-    {
-      "text": "\n                                    TED Radio Hour Comics\n                                    ",
-      "url": "https://www.npr.org/series/1085173095/ted-radio-hour-comics"
-    },
-    {
-      "text": "\n                        COMIC: How living on Mars time taught me to slow down\n                    ",
-      "url": "https://www.npr.org/2022/07/22/1112484935/nasa-engineer-nagin-cox-mars-rover"
-    },
-    {
-      "text": "\n                        NASA engineer Nagin Cox lives on Earth but works on Mars time, where days are longer and time works differently. Her work with the rovers has entirely changed the way she thinks about time on Earth.\n                    ",
-      "url": "https://www.npr.org/2022/07/22/1112484935/nasa-engineer-nagin-cox-mars-rover"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            11:09\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/ted/2021/02/20210205_ted_04.mp3?orgId=1&topicId=1007&aggIds=1085173095&d=669&story=1112484935&dl=1&sc=siteplayer&size=10683957&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/ted/2021/02/20210205_ted_04.mp3?orgId=1&topicId=1007&aggIds=1085173095&d=669&story=1112484935&dl=1&sc=siteplayer&size=10683957&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112651539/after-more-than-30-years-a-multiday-womens-tour-de-france-is-back"
-    },
-    {
-      "text": "\n                        Sports\n                        ",
-      "url": "https://www.npr.org/sections/sports/"
-    },
-    {
-      "text": "\n                After more than 30 years, a multiday women's Tour de France is back\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112651539/after-more-than-30-years-a-multiday-womens-tour-de-france-is-back"
-    },
-    {
-      "text": "\n                The women's race starts Sunday in Paris and lasts for 8 stages, ending July 31. The last multiday women's race was held in 1989.\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112651539/after-more-than-30-years-a-multiday-womens-tour-de-france-is-back"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112105706/into-the-woods-broadway"
-    },
-    {
-      "text": "\n                                    Theater\n                                    ",
-      "url": "https://www.npr.org/sections/theater/"
-    },
-    {
-      "text": "\n                        'Into the Woods' returns to Broadway\n                    ",
-      "url": "https://www.npr.org/2022/07/22/1112105706/into-the-woods-broadway"
-    },
-    {
-      "text": "\n                        A concert version of Stephen Sondheim's Into the Woods stars Sara Bareilles, Brian d'Arcy James, Joshua Henry and others.\n                    ",
-      "url": "https://www.npr.org/2022/07/22/1112105706/into-the-woods-broadway"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            7:04\n                        \n                    \n                \n            ",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220722_me_into_the_woods_returns_to_broadway.mp3?orgId=1&topicId=1144&d=424&p=3&story=1112105706&dl=1&sc=siteplayer&size=6785194&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "Download",
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/07/20220722_me_into_the_woods_returns_to_broadway.mp3?orgId=1&topicId=1144&d=424&p=3&story=1112105706&dl=1&sc=siteplayer&size=6785194&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n                    \n                    Transcript\n                  ",
-      "url": "https://www.npr.org/transcripts/1112105706"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112873020/rajapaksa-ally-named-prime-minister-sri-lanka"
-    },
-    {
-      "text": "\n                        Asia\n                        ",
-      "url": "https://www.npr.org/sections/asia/"
-    },
-    {
-      "text": "\n                Rajapaksa ally named Sri Lanka's prime minister after capital protest site cleared\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112873020/rajapaksa-ally-named-prime-minister-sri-lanka"
-    },
-    {
-      "text": "\n                Sri Lankans have taken to the streets for months demanding their leaders resign over the economic crisis. The protests forced out former President Gotabaya Rajapaksa last week.\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112873020/rajapaksa-ally-named-prime-minister-sri-lanka"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/22/1112870936/deadly-raid-rio-favela-police-violence"
-    },
-    {
-      "text": "\n                        Latin America\n                        ",
-      "url": "https://www.npr.org/sections/latin-america/"
-    },
-    {
-      "text": "\n                A raid in a Rio favela left 18 dead, sparking renewed police violence complaints\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112870936/deadly-raid-rio-favela-police-violence"
-    },
-    {
-      "text": "\n                A raid of Rio de Janeiro's largest complex of favelas has sparked renewed complaints of excessive police violence and ignited debate over how to handle crime ahead of state and presidential elections.\n            ",
-      "url": "https://www.npr.org/2022/07/22/1112870936/deadly-raid-rio-favela-police-violence"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/2022/07/21/1112715639/new-music-friday-the-best-releases-out-on-july-22"
-    },
-    {
-      "text": "\n                                    All Songs Considered\n                                ",
-      "url": "https://www.npr.org/podcasts/510019/all-songs-considered"
-    },
-    {
-      "text": "\n                    New Music Friday: The best releases out on July 22\n                ",
-      "url": "https://www.npr.org/2022/07/21/1112715639/new-music-friday-the-best-releases-out-on-july-22"
-    },
-    {
-      "text": "                    \n                    NPR Music's picks for the best albums out this week include new ones from Flo Milli, Jack White, Rico Nasty, Joey Bada$$, The Sea And Cake's Sam Prekop and John McEntire, and more.\n                ",
-      "url": "https://www.npr.org/2022/07/21/1112715639/new-music-friday-the-best-releases-out-on-july-22"
-    },
-    {
-      "text": "\n                \n                    \n                    \n                        \n                            \n                            Listen\n                        \n                        \n                            \u00b7 \n                            25:32\n                        \n                    \n                \n            ",
-      "url": "https://play.podtrac.com/npr-510019/edge1.pod.npr.org/anon.npr-mp3/npr/asc/2022/07/20220722_asc_e6072119-2f7a-4de6-a08a-43b4159fc5e7.mp3?orgId=1&topicId=1108&d=1532&p=510019&story=1112715639&t=podcast&e=1112715639&dl=1&sc=siteplayer&size=49045273&awCollectionId=510019&awEpisodeId=1112715639&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "Download",
-      "url": "https://play.podtrac.com/npr-510019/edge1.pod.npr.org/anon.npr-mp3/npr/asc/2022/07/20220722_asc_e6072119-2f7a-4de6-a08a-43b4159fc5e7.mp3?orgId=1&topicId=1108&d=1532&p=510019&story=1112715639&t=podcast&e=1112715639&dl=1&sc=siteplayer&size=49045273&awCollectionId=510019&awEpisodeId=1112715639&dl=1&aw_0_1st.playerid=siteplayer"
-    },
-    {
-      "text": "\n            \n                \n                \n                \n            \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s"
-    },
-    {
-      "text": "\n                                    Shots - Health News\n                                    ",
-      "url": "https://www.npr.org/sections/health-shots/"
-    },
-    {
-      "text": "\n                        Tracking the coronavirus around the U.S.: See how your state is doing\n                    ",
-      "url": "https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s"
-    },
-    {
-      "text": "\n                        View NPR's maps and graphics to see where COVID-19 is hitting hardest in the U.S., which state outbreaks are under control and where cases are still spreading.\n                    ",
-      "url": "https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s"
-    },
-    {
-      "text": "\n        \n            Are COVID hospitalizations high where you live? Look up your hospital\n        \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2020/12/09/944379919/new-data-reveal-which-hospitals-are-dangerously-full-is-yours"
-    },
-    {
-      "text": "\n        \n            How are the COVID-19 vaccine and booster campaigns going in your state?\n        \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2021/01/28/960901166/how-is-the-covid-19-vaccination-campaign-going-in-your-state"
-    },
-    {
-      "text": "\n        \n            Do you need to wear a mask where you live? Understand the CDC's new guidance\n        \n    ",
-      "url": "https://www.npr.org/sections/health-shots/2021/07/28/1021795290/cdc-mask-guidelines-indoors-vaccinated-by-county-covid-spread"
-    },
-    {
-      "text": "news",
-      "url": "/sections/news/"
-    },
-    {
-      "text": "culture",
-      "url": "/sections/culture/"
-    },
-    {
-      "text": "music",
-      "url": "/music/"
-    },
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
-      "text": "News",
-      "url": "/sections/news/"
-    },
-    {
-      "text": "Culture",
-      "url": "/sections/culture/"
-    },
-    {
-      "text": "Music",
-      "url": "/music/"
-    },
-    {
-      "text": "Podcasts & Shows",
-      "url": "/podcasts-and-shows"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/newsletters/"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/NPR/"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/NPR"
-    },
-    {
-      "text": "Instagram",
-      "url": "https://www.instagram.com/npr/"
-    },
-    {
-      "text": "Press",
-      "url": "/press/"
-    },
-    {
-      "text": "Contact & Help",
-      "url": "https://help.npr.org/contact/s/"
-    },
-    {
-      "text": "Overview",
-      "url": "/about/"
-    },
-    {
-      "text": "Diversity",
-      "url": "/diversity/"
-    },
-    {
-      "text": "Ethics",
-      "url": "/ethics/"
-    },
-    {
-      "text": "Finances",
-      "url": "/about-npr/178660742/public-radio-finances"
-    },
-    {
-      "text": "Public Editor",
-      "url": "/sections/publiceditor/"
-    },
-    {
-      "text": "Corrections",
-      "url": "/corrections/"
-    },
-    {
-      "text": "Support Public Radio",
-      "url": "/support/"
-    },
-    {
-      "text": "Sponsor NPR",
-      "url": "/about-npr/186948703/corporate-sponsorship"
-    },
-    {
-      "text": "NPR Careers",
-      "url": "/careers/"
-    },
-    {
-      "text": "NPR Shop",
-      "url": "https://shop.npr.org/"
-    },
-    {
-      "text": "NPR Events",
-      "url": "https://www.nprpresents.org"
-    },
-    {
-      "text": "NPR Extra",
-      "url": "/sections/npr-extra/"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "/about-npr/179876898/terms-of-use"
-    },
-    {
-      "text": "Privacy",
-      "url": "/about-npr/179878450/privacy-policy"
-    },
-    {
-      "text": "Your Privacy Choices",
-      "url": "/about-npr/179878450/privacy-policy#yourchoices"
-    },
-    {
-      "text": "Text Only",
-      "url": "https://text.npr.org/"
-    },
-    {
-      "text": "Become an NPR sponsor",
-      "url": "/about-npr/186948703/corporate-sponsorship"
-    }
-  ],
-  "server": "ia801409.us.archive.org",
-  "uniq": 529136172,
+  "server": "ia601409.us.archive.org",
+  "uniq": 2023138061,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

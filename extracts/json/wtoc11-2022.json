@@ -1,5 +1,5 @@
 {
-  "created": 1658538569,
+  "created": 1658611855,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/18/items/wtoc11-2022",
@@ -226,31 +226,115 @@
       "sha1": "58850e80b7a4060912e77c9256a95bb55ae6453b"
     },
     {
+      "name": "wtoc11-2022-07-23T00:31:40.031577-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658550703",
+      "size": "35921",
+      "md5": "bd9e618709dd8b2ddef8d80151501150",
+      "crc32": "fc633b79",
+      "sha1": "6eb3e73d3bff67ee099e87411d3610313767677e",
+      "format": "JSON"
+    },
+    {
+      "name": "wtoc11-2022-07-23T00:31:40.031577-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658550705",
+      "size": "24096",
+      "md5": "1c372f044db3937d8880319e309f1467",
+      "crc32": "1dd779b6",
+      "sha1": "2450eb5b6e02cc9147546736e0f40e421e8b2aaa",
+      "format": "JSON"
+    },
+    {
+      "name": "wtoc11-2022-07-23T00:31:40.031577-04:00.jpg",
+      "source": "original",
+      "mtime": "1658550701",
+      "size": "377358",
+      "md5": "0ecb1895463f376c073dbbfc8f7bc58d",
+      "crc32": "1f32297b",
+      "sha1": "981e3f88eb8923cbc13f8087679c5fcddebb5419",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wtoc11-2022-07-23T00:31:40.031577-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wtoc11-2022-07-23T00:31:40.031577-04:00.jpg",
+      "mtime": "1658554344",
+      "size": "10843",
+      "md5": "bb06f4f3fca9828b6bfef8cfbd2735a4",
+      "crc32": "1421a737",
+      "sha1": "0f338cdf42f8d25233e388db1d49a060dfc814f5"
+    },
+    {
+      "name": "wtoc11-2022-07-23T12:10:25.321848-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658592631",
+      "size": "36119",
+      "md5": "17b99d862772b0feb3e5a65765e210b2",
+      "crc32": "dae1b78e",
+      "sha1": "09108013774f9ea1f400cca6e84f430b1dd95c91",
+      "format": "JSON"
+    },
+    {
+      "name": "wtoc11-2022-07-23T12:10:25.321848-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658592632",
+      "size": "20860",
+      "md5": "f88be8d6d75d4aece856b3ac645b8378",
+      "crc32": "b49242d4",
+      "sha1": "734cb769946d41bd7781a09ad21352d3208f2ecd",
+      "format": "JSON"
+    },
+    {
+      "name": "wtoc11-2022-07-23T12:10:25.321848-04:00.jpg",
+      "source": "original",
+      "mtime": "1658592626",
+      "size": "371279",
+      "md5": "b35ae23d9815c1305081aea7b43a66f1",
+      "crc32": "1a8f25b8",
+      "sha1": "0894602c8e5fd5f2a7bb79d19dda89d8291e2e24",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wtoc11-2022-07-23T12:10:25.321848-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wtoc11-2022-07-23T12:10:25.321848-04:00.jpg",
+      "mtime": "1658592715",
+      "size": "10800",
+      "md5": "338306bd084f42e5fba4f541be0df352",
+      "crc32": "319308f8",
+      "sha1": "6d5be222afe8b2e7eb00700048553abb2368615d"
+    },
+    {
       "name": "wtoc11-2022_archive.torrent",
       "source": "metadata",
-      "btih": "086418afe3a766e8cbf3e59a9fd2fd77495789bb",
-      "mtime": "1658525062",
-      "size": "5799",
-      "md5": "4c5984c151ca3ab64794bdfc38e10ee4",
-      "crc32": "7d7557f7",
-      "sha1": "074e7365e1adadb08d50f549dc4c569b6fad3a78",
+      "btih": "bb3deaeee665838c4183d10295e04e91ce9876cb",
+      "mtime": "1658592721",
+      "size": "7483",
+      "md5": "dabfb52a88205339586f64fd78b59902",
+      "crc32": "ccca868c",
+      "sha1": "206dd0e5ef8d347e6ef5d090b5bf39590fb1523d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wtoc11-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44d70eb461f3921ceab1499c17c861ca",
+      "md5": "6f9bd3fa227e18883f19c9c36cf5b79a",
       "summation": "md5"
     },
     {
       "name": "wtoc11-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658507017",
-      "size": "40960",
-      "md5": "501ef20d18a07032120d04ca598720d3",
-      "crc32": "536c332e",
-      "sha1": "cf52de02c9e108b411f5da3cd4578b3ca226676a",
+      "mtime": "1658592636",
+      "size": "49152",
+      "md5": "cf334c1388c4276defad67c7cf051d20",
+      "crc32": "b67358e5",
+      "sha1": "6ff0152712b91a12181412d41e5919ccae2ab15e",
       "format": "Metadata"
     },
     {
@@ -264,9 +348,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 25,
-  "item_last_updated": 1658525062,
-  "item_size": 2354787,
+  "files_count": 33,
+  "item_last_updated": 1658592721,
+  "item_size": 3251939,
   "metadata": {
     "identifier": "wtoc11-2022",
     "collection": [
@@ -283,11 +367,11 @@
     "publicdate": "2022-07-20 23:32:40",
     "addeddate": "2022-07-20 23:32:40"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 1522530255,
+  "server": "ia801500.us.archive.org",
+  "uniq": 843669356,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ],
   "wtoc11-2022": [
     {
@@ -323,7 +407,7 @@
       "url": "/"
     },
     {
-      "text": "88\u00b0Savannah, GA",
+      "text": "86\u00b0Savannah, GA",
       "url": "/weather/"
     },
     {
@@ -655,116 +739,100 @@
       "url": "https://www.twitter.com/WTOC11"
     },
     {
-      "text": " Ga. unemployment rate at all-time lowThe unemployment numbers in Georgia dropped further and just hit a record low for the state.",
-      "url": "/2022/07/22/ga-unemployment-rate-all-time-low/"
+      "text": "ALERT: WTOC to go off-air during scheduled maintenance this weekend",
+      "url": "/2022/07/22/wtoc-go-off-air-during-scheduled-maintenance-this-weekend/"
+    },
+    {
+      "text": " Wife, husband dead after apparent murder-suicide at shopping center in Hinesville, according to police chiefTwo are dead after an apparent murder-suicide at a shopping center in Hinesville.",
+      "url": "/2022/07/22/wife-husband-dead-after-apparent-murder-suicide-shopping-center-hinesville/"
     },
     {
       "text": "",
-      "url": "/2022/07/22/ga-unemployment-rate-all-time-low/"
+      "url": "/2022/07/22/wife-husband-dead-after-apparent-murder-suicide-shopping-center-hinesville/"
     },
     {
       "text": "News",
-      "url": "/2022/07/22/one-year-since-enmarket-arena-received-its-name/"
+      "url": "/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
     },
     {
       "text": "",
-      "url": "/2022/07/22/one-year-since-enmarket-arena-received-its-name/"
+      "url": "/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
     },
     {
-      "text": " One year since Enmarket Arena received its name",
-      "url": "/2022/07/22/one-year-since-enmarket-arena-received-its-name/"
+      "text": " Churches at center of FBI raid lose recommendation, removed from VA\u2019s school list",
+      "url": "/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
+    },
+    {
+      "text": "Health",
+      "url": "/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
+    },
+    {
+      "text": " Savannah City Council adopts resolution supporting women\u2019s reproductive rights",
+      "url": "/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
+    },
+    {
+      "text": "Politics",
+      "url": "/2022/07/22/fec-complaint-dismissed-against-rep-carters-ad-around-all-star-game/"
+    },
+    {
+      "text": "",
+      "url": "/2022/07/22/fec-complaint-dismissed-against-rep-carters-ad-around-all-star-game/"
+    },
+    {
+      "text": "FEC complaint dismissed against Rep. Carter\u2019s ad around All-Star Game",
+      "url": "/2022/07/22/fec-complaint-dismissed-against-rep-carters-ad-around-all-star-game/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/22/child-advocate-discusses-potential-impact-gas-heartbeat-law-foster-care/"
+    },
+    {
+      "text": " Child advocate discusses potential impact of Ga.\u2019s Heartbeat Law on foster care",
+      "url": "/2022/07/22/child-advocate-discusses-potential-impact-gas-heartbeat-law-foster-care/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/22/chatham-county-manager-lee-smith-suspended-with-pay/"
+    },
+    {
+      "text": "Chatham County Manager Lee Smith suspended with pay",
+      "url": "/2022/07/22/chatham-county-manager-lee-smith-suspended-with-pay/"
     },
     {
       "text": "Community",
-      "url": "/2022/07/22/11th-annual-savannah-ambucs-bowlapalooza-kicks-off/"
+      "url": "/2022/07/22/bulloch-co-woman-hoping-establish-boarding-school-uganda/"
     },
     {
-      "text": "",
-      "url": "/2022/07/22/11th-annual-savannah-ambucs-bowlapalooza-kicks-off/"
+      "text": " Bulloch Co. woman hoping to establish boarding school in Uganda",
+      "url": "/2022/07/22/bulloch-co-woman-hoping-establish-boarding-school-uganda/"
     },
     {
-      "text": " 11th Annual Savannah AMBUCS Bowlapalooza kicks off",
-      "url": "/2022/07/22/11th-annual-savannah-ambucs-bowlapalooza-kicks-off/"
+      "text": "News",
+      "url": "/2022/07/22/short-term-vacation-rental-moratorium-continues-tybee-island/"
     },
     {
-      "text": "",
-      "url": "/sponsored/club/win-new-car-with-club/"
+      "text": " Short-term vacation rental moratorium continues on Tybee Island",
+      "url": "/2022/07/22/short-term-vacation-rental-moratorium-continues-tybee-island/"
     },
     {
-      "text": "Win a New Car with the 200 Club",
-      "url": "/sponsored/club/win-new-car-with-club/"
+      "text": "Programming",
+      "url": "/2022/07/22/wtoc-go-off-air-during-scheduled-maintenance-this-weekend/"
     },
     {
-      "text": "Crime",
-      "url": "/2022/07/22/1-person-injured-shooting-westlake-apartments/"
+      "text": "WTOC to go off-air during scheduled maintenance this weekend",
+      "url": "/2022/07/22/wtoc-go-off-air-during-scheduled-maintenance-this-weekend/"
     },
     {
-      "text": "",
-      "url": "/2022/07/22/1-person-injured-shooting-westlake-apartments/"
+      "text": "News",
+      "url": "/2022/07/22/ga-unemployment-rate-all-time-low/"
     },
     {
-      "text": "1 person injured in shooting at Westlake Apartments",
-      "url": "/2022/07/22/1-person-injured-shooting-westlake-apartments/"
-    },
-    {
-      "text": "Murdaugh Case",
-      "url": "/2022/07/21/former-bank-ceo-murdaugh-associate-indicted-federal-fraud-charges/"
-    },
-    {
-      "text": "",
-      "url": "/2022/07/21/former-bank-ceo-murdaugh-associate-indicted-federal-fraud-charges/"
-    },
-    {
-      "text": " Former bank CEO, Murdaugh associate indicted on federal fraud charges",
-      "url": "/2022/07/21/former-bank-ceo-murdaugh-associate-indicted-federal-fraud-charges/"
-    },
-    {
-      "text": "Crime",
-      "url": "/2022/07/21/two-people-injured-shooting-robinson-circle/"
-    },
-    {
-      "text": "",
-      "url": "/2022/07/21/two-people-injured-shooting-robinson-circle/"
-    },
-    {
-      "text": " Suspect arrested after one killed, one injured in shooting on Robinson Circle",
-      "url": "/2022/07/21/two-people-injured-shooting-robinson-circle/"
-    },
-    {
-      "text": "WTOC Investigates",
-      "url": "/2022/07/21/renters-guide-why-prices-are-so-high-around-savannah-where-look/"
-    },
-    {
-      "text": "",
-      "url": "/2022/07/21/renters-guide-why-prices-are-so-high-around-savannah-where-look/"
-    },
-    {
-      "text": " Renter\u2019s Guide: Why prices are so high around Savannah and where to look",
-      "url": "/2022/07/21/renters-guide-why-prices-are-so-high-around-savannah-where-look/"
-    },
-    {
-      "text": "Crime",
-      "url": "/2022/07/21/bulloch-co-investigators-searching-leads-maria-sorrell-road-homicide-case/"
-    },
-    {
-      "text": " Bulloch Co. investigators searching for leads in Maria Sorrell Road homicide case",
-      "url": "/2022/07/21/bulloch-co-investigators-searching-leads-maria-sorrell-road-homicide-case/"
-    },
-    {
-      "text": "Crime",
-      "url": "/2022/07/21/person-shot-leg-waters-avenue-38th-street/"
-    },
-    {
-      "text": " Person shot in leg at Waters Avenue, 38th Street",
-      "url": "/2022/07/21/person-shot-leg-waters-avenue-38th-street/"
-    },
-    {
-      "text": "Back 2 School",
-      "url": "/2022/07/21/bulloch-county-schools-preparing-see-more-students-over-next-few-years/"
-    },
-    {
-      "text": " Bulloch County schools preparing to see more students over the next few years",
-      "url": "/2022/07/21/bulloch-county-schools-preparing-see-more-students-over-next-few-years/"
+      "text": " Ga. unemployment rate at all-time low",
+      "url": "/2022/07/22/ga-unemployment-rate-all-time-low/"
     },
     {
       "text": "",
@@ -824,55 +892,127 @@
     },
     {
       "text": "News",
-      "url": "/video/2022/07/22/pooler-police-crack-down-speeders-operation-southern-slow-down/"
+      "url": "/video/2022/07/23/community-reacts-murder-suicide-hinesville/"
     },
     {
       "text": "",
-      "url": "/video/2022/07/22/pooler-police-crack-down-speeders-operation-southern-slow-down/"
+      "url": "/video/2022/07/23/community-reacts-murder-suicide-hinesville/"
     },
     {
-      "text": "Pooler Police crack down on speeders for \u2018Operation Southern Slow Down\u2019",
-      "url": "/video/2022/07/22/pooler-police-crack-down-speeders-operation-southern-slow-down/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/22/one-year-since-enmarket-arena-received-its-name/"
-    },
-    {
-      "text": "",
-      "url": "/video/2022/07/22/one-year-since-enmarket-arena-received-its-name/"
-    },
-    {
-      "text": "One year since Enmarket Arena received its name",
-      "url": "/video/2022/07/22/one-year-since-enmarket-arena-received-its-name/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/21/tybee-island-first-responders-hold-community-safety-meeting/"
-    },
-    {
-      "text": "",
-      "url": "/video/2022/07/21/tybee-island-first-responders-hold-community-safety-meeting/"
-    },
-    {
-      "text": "Tybee Island first responders to hold community safety meeting",
-      "url": "/video/2022/07/21/tybee-island-first-responders-hold-community-safety-meeting/"
+      "text": "Community reacts to murder-suicide in Hinesville",
+      "url": "/video/2022/07/23/community-reacts-murder-suicide-hinesville/"
     },
     {
       "text": "Crime",
-      "url": "/video/2022/07/21/one-man-dead-one-man-injured-shooting-robinson-circle-2/"
+      "url": "/video/2022/07/22/wife-husband-dead-after-apparent-murder-suicide-shopping-center-hinesville-according-police-chief/"
     },
     {
       "text": "",
-      "url": "/video/2022/07/21/one-man-dead-one-man-injured-shooting-robinson-circle-2/"
+      "url": "/video/2022/07/22/wife-husband-dead-after-apparent-murder-suicide-shopping-center-hinesville-according-police-chief/"
     },
     {
-      "text": "One man dead, one man injured in shooting on Robinson Circle",
-      "url": "/video/2022/07/21/one-man-dead-one-man-injured-shooting-robinson-circle-2/"
+      "text": "Wife, husband dead after apparent murder-suicide at shopping center in Hinesville, according to police chief",
+      "url": "/video/2022/07/22/wife-husband-dead-after-apparent-murder-suicide-shopping-center-hinesville-according-police-chief/"
+    },
+    {
+      "text": "Health",
+      "url": "/video/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
+    },
+    {
+      "text": "",
+      "url": "/video/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
+    },
+    {
+      "text": "Savannah City Council adopts resolution supporting women\u2019s reproductive rights",
+      "url": "/video/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
+    },
+    {
+      "text": "News",
+      "url": "/video/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
+    },
+    {
+      "text": "",
+      "url": "/video/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
+    },
+    {
+      "text": "Churches at center of FBI raid lose recommendation, removed from VA\u2019s school list",
+      "url": "/video/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
     },
     {
       "text": "MORE NEWS",
       "url": "/news/"
+    },
+    {
+      "text": "News",
+      "url": "/2022/07/22/one-year-since-enmarket-arena-received-its-name/"
+    },
+    {
+      "text": " One year since Enmarket Arena received its name",
+      "url": "/2022/07/22/one-year-since-enmarket-arena-received-its-name/"
+    },
+    {
+      "text": "Community",
+      "url": "/2022/07/22/11th-annual-savannah-ambucs-bowlapalooza-kicks-off/"
+    },
+    {
+      "text": " 11th Annual Savannah AMBUCS Bowlapalooza kicks off",
+      "url": "/2022/07/22/11th-annual-savannah-ambucs-bowlapalooza-kicks-off/"
+    },
+    {
+      "text": "Crime",
+      "url": "/2022/07/22/1-person-injured-shooting-westlake-apartments/"
+    },
+    {
+      "text": "1 person injured in shooting at Westlake Apartments",
+      "url": "/2022/07/22/1-person-injured-shooting-westlake-apartments/"
+    },
+    {
+      "text": "Murdaugh Case",
+      "url": "/2022/07/21/former-bank-ceo-murdaugh-associate-indicted-federal-fraud-charges/"
+    },
+    {
+      "text": " Former bank CEO, Murdaugh associate indicted on federal fraud charges",
+      "url": "/2022/07/21/former-bank-ceo-murdaugh-associate-indicted-federal-fraud-charges/"
+    },
+    {
+      "text": "Crime",
+      "url": "/2022/07/21/two-people-injured-shooting-robinson-circle/"
+    },
+    {
+      "text": " Suspect arrested after one killed, one injured in shooting on Robinson Circle",
+      "url": "/2022/07/21/two-people-injured-shooting-robinson-circle/"
+    },
+    {
+      "text": "WTOC Investigates",
+      "url": "/2022/07/21/renters-guide-why-prices-are-so-high-around-savannah-where-look/"
+    },
+    {
+      "text": " Renter\u2019s Guide: Why prices are so high around Savannah and where to look",
+      "url": "/2022/07/21/renters-guide-why-prices-are-so-high-around-savannah-where-look/"
+    },
+    {
+      "text": "Crime",
+      "url": "/2022/07/21/bulloch-co-investigators-searching-leads-maria-sorrell-road-homicide-case/"
+    },
+    {
+      "text": " Bulloch Co. investigators searching for leads in Maria Sorrell Road homicide case",
+      "url": "/2022/07/21/bulloch-co-investigators-searching-leads-maria-sorrell-road-homicide-case/"
+    },
+    {
+      "text": "Crime",
+      "url": "/2022/07/21/person-shot-leg-waters-avenue-38th-street/"
+    },
+    {
+      "text": " Person shot in leg at Waters Avenue, 38th Street",
+      "url": "/2022/07/21/person-shot-leg-waters-avenue-38th-street/"
+    },
+    {
+      "text": "Back 2 School",
+      "url": "/2022/07/21/bulloch-county-schools-preparing-see-more-students-over-next-few-years/"
+    },
+    {
+      "text": " Bulloch County schools preparing to see more students over the next few years",
+      "url": "/2022/07/21/bulloch-county-schools-preparing-see-more-students-over-next-few-years/"
     },
     {
       "text": "News",
@@ -897,6 +1037,10 @@
     {
       "text": " Biden tests positive for COVID-19, has \u2018very mild symptoms\u2019 ",
       "url": "/2022/07/21/biden-tests-positive-covid/"
+    },
+    {
+      "text": "MORE NEWS",
+      "url": "/news/"
     },
     {
       "text": "Sports",
@@ -971,184 +1115,12 @@
       "url": "/2022/07/20/it-doesnt-take-long-30-second-most-savannah-police-warn-leaving-car-doors-unlocked/"
     },
     {
-      "text": "MORE NEWS",
-      "url": "/news/"
-    },
-    {
       "text": "Sports",
       "url": "/2022/07/20/coastal-empire-represented-during-ugas-turn-sec-media-days/"
     },
     {
       "text": " Coastal Empire represented during UGA\u2019s turn at SEC Media Days",
       "url": "/2022/07/20/coastal-empire-represented-during-ugas-turn-sec-media-days/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/20/police-asking-publics-help-finding-missing-man/"
-    },
-    {
-      "text": "UPDATE: Missing man has been located",
-      "url": "/2022/07/20/police-asking-publics-help-finding-missing-man/"
-    },
-    {
-      "text": "Back 2 School",
-      "url": "/2022/07/20/tattnall-county-students-begin-new-school-year-with-two-new-campuses/"
-    },
-    {
-      "text": " Tattnall County students begin new school year with two new campuses",
-      "url": "/2022/07/20/tattnall-county-students-begin-new-school-year-with-two-new-campuses/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/20/savannah-state-university-holds-black-business-forum/"
-    },
-    {
-      "text": " Savannah State University holds Black in Business forum",
-      "url": "/2022/07/20/savannah-state-university-holds-black-business-forum/"
-    },
-    {
-      "text": "Back 2 School",
-      "url": "/2022/07/20/new-private-school-opens-liberty-county/"
-    },
-    {
-      "text": " New private school opens in Liberty County",
-      "url": "/2022/07/20/new-private-school-opens-liberty-county/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/20/savannah-teens-involved-neighborhood-improvement-initiative/"
-    },
-    {
-      "text": " Savannah teens involved in neighborhood improvement initiative",
-      "url": "/2022/07/20/savannah-teens-involved-neighborhood-improvement-initiative/"
-    },
-    {
-      "text": "Health",
-      "url": "/2022/07/20/minority-mental-health-awareness-month-professionals-encourage-minorities-seek-therapy-if-needed/"
-    },
-    {
-      "text": " Minority Mental Health Awareness Month: Professionals encourage minorities to seek therapy if needed",
-      "url": "/2022/07/20/minority-mental-health-awareness-month-professionals-encourage-minorities-seek-therapy-if-needed/"
-    },
-    {
-      "text": "Health",
-      "url": "/2022/07/20/coastal-electric-brings-high-speed-internet-access-rural-areas/"
-    },
-    {
-      "text": " Coastal Electric brings high speed internet access to rural areas",
-      "url": "/2022/07/20/coastal-electric-brings-high-speed-internet-access-rural-areas/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/20/savannah-police-investigating-shooting-near-pennsylvania-capital-st/"
-    },
-    {
-      "text": "Man found shot near Pennsylvania and Capital St.",
-      "url": "/2022/07/20/savannah-police-investigating-shooting-near-pennsylvania-capital-st/"
-    },
-    {
-      "text": "Back 2 School",
-      "url": "/2022/07/20/screven-co-school-leaders-hopeful-productive-year/"
-    },
-    {
-      "text": " Screven Co. school leaders hopeful for a productive year",
-      "url": "/2022/07/20/screven-co-school-leaders-hopeful-productive-year/"
-    },
-    {
-      "text": "Online Shopping Tools",
-      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=graytv-wtoc&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278718&campaign=19603838&click_id=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD-_lMo_Yqxg-WknPdG&tblci=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD-_lMo_Yqxg-WknPdG#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD-_lMo_Yqxg-WknPdG"
-    },
-    {
-      "text": "Amazon Left Scrambling As Shoppers Find Out About Secret DealsOnline Shopping Tools",
-      "url": "https://traveredpripts.com/624791d8-f7c6-4add-88b0-64f4d6b97c9d?site=graytv-wtoc&title=Amazon+Left+Scrambling+As+Shoppers+Find+Out+About+Secret+Deals&thumbnail=http%3A%2F%2Fcdn.taboola.com%2Flibtrc%2Fstatic%2Fthumbnails%2F021c71e03885d6e3f6d1ceb8cc39c930.jpg&campaign_name=6H_Desktop_Top94&utm_content=3438278718&campaign=19603838&click_id=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD-_lMo_Yqxg-WknPdG&tblci=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD-_lMo_Yqxg-WknPdG#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD-_lMo_Yqxg-WknPdG"
-    },
-    {
-      "text": "Alaska Cruise Deals | sponsored searches",
-      "url": "https://gosearches.net/index.php?rgid=134812&gclid=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCjoVIo0tf41OGS4plK#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCjoVIo0tf41OGS4plK"
-    },
-    {
-      "text": "Empty Alaska Cruise Cabins Cost Almost NothingAlaska Cruise Deals | sponsored searches",
-      "url": "https://gosearches.net/index.php?rgid=134812&gclid=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCjoVIo0tf41OGS4plK#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCjoVIo0tf41OGS4plK"
-    },
-    {
-      "text": "Grammarly",
-      "url": "https://www.grammarly.com?utm_source=taboola&utm_campaign=NAPredictiveDesktopV3&utm_medium=cpc&utm_content=graytv-wtoc&utm_placement=Desktop&tblci=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD67j4o4vLp9Y21k_HnAQ#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD67j4o4vLp9Y21k_HnAQ"
-    },
-    {
-      "text": "This Desktop App Helps You Write More EffectivelyGrammarly",
-      "url": "https://www.grammarly.com?utm_source=taboola&utm_campaign=NAPredictiveDesktopV3&utm_medium=cpc&utm_content=graytv-wtoc&utm_placement=Desktop&tblci=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD67j4o4vLp9Y21k_HnAQ#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD67j4o4vLp9Y21k_HnAQ"
-    },
-    {
-      "text": "Install Now",
-      "url": "https://trc.taboola.com/graytv-wtoc/log/3/click?pi=%2Fhomepage&ri=c3810f3b965ce334105d41ce037a248c&sd=v2_7d02f44288d07b45a61b6bc008b67810_4946ca9c-baf3-42ed-8de2-0131ff61f57f-tuct9d44d22_1658505122_1658505122_CIi3jgYQi71ZGJmn77SiMCABKAEw4QE4kaQOQPzYD0iYzdkDUIEFWABgAGie4fPVv5r3zrsBcAE&ui=4946ca9c-baf3-42ed-8de2-0131ff61f57f-tuct9d44d22&it=text&ii=~~V1~~-6186868714017820481~~s-7FKc7VwUH6IOazK1UJvQQ36iP74QJ30bzv6T7-wwf6nH0OabNJtzzP-ddPU2nvK8Bm7FKD2NW1M1BCiW1-kuMDMqg65-jJbi04eURsbtqeHe1S9jo_X4timp5pCZhQIKiYZmEl3RMjJoyLcF9x2L7I5MK7B1QpyhF1wERuIDVo2Oq0RS2DNJwFtQu2bmIxeJG8FlZFpD4g5GGVz1D_cbK1JbIrjOUUWQVRcW1T0FNlRKBNOWrRoUKyyzT62uqAgZP_5RS_TMi3Hs6yLQZBaoSiBHKnn06Ac9Q0AU1njLyI8uFlupegKg4PExomzLA7RLgi0K2ZJfg8nAtJBcGBHt9-SclKaA0Frri4tfgzbgqCt9XcG0bWSkm2MyN0R1Cm56dV6xlx3p6jM36eCkEATg&pt=home&li=rbox-h2m&sig=be7446f8a2c7f6323730d35b385f03e98bffe030ac8b&redir=https%3A%2F%2Fwww.grammarly.com%3Futm_source%3Dtaboola%26utm_campaign%3DNAPredictiveDesktopV3%26utm_medium%3Dcpc%26utm_content%3Dgraytv-wtoc%26utm_placement%3DDesktop%26tblci%3DGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD67j4o4vLp9Y21k_HnAQ%23tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSD67j4o4vLp9Y21k_HnAQ&vi=1658505122713&p=grammarly-sc&r=13&lti=deflated&ppb=CIoD&cpb=EhIyMDIyMDcyMS00LVJFTEVBU0UYASCc__________8BKhl1cy50YWJvb2xhc3luZGljYXRpb24uY29tMgh0cmMxMDEzNjiAzNjGBkCRpA5I_NgPUJjN2QNYgQVjCN7__________wEQ3v__________ARgiZGMI1xYQ1B8YI2RjCOEgEMMsGAdkYwjSAxDgBhgIZGMIlhQQlxwYGGRjCMsYEKQiGAlkYwiLLRCdPhgqZGMI9BQQnh0YH2RjCNH__________wEQ0f__________ARgvZHgBgAG1iAGIAfyNrscBkAEX&cta=true"
-    },
-    {
-      "text": "Car &amp; Driver",
-      "url": "https://www.caranddriver.com/features/g37014782/these-vehicles-are-dead-for-2022/?utm_source=taboola_dda&utm_medium=cpm&utm_campaign=dda_tb_cd_d_i_g37014782&utm_content=graytv-wtoc#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCGvkYo7vz5p8bx87pN"
-    },
-    {
-      "text": "These Cars Are Out of Production and Discontinued for 2022Car & Driver",
-      "url": "https://www.caranddriver.com/features/g37014782/these-vehicles-are-dead-for-2022/?utm_source=taboola_dda&utm_medium=cpm&utm_campaign=dda_tb_cd_d_i_g37014782&utm_content=graytv-wtoc#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCGvkYo7vz5p8bx87pN"
-    },
-    {
-      "text": "Senior Offers | Search Ads",
-      "url": "https://searchtopics.net/index.php?rgid=410126&gclid=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCMt1ko1suoyOiloa2cAQ#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCMt1ko1suoyOiloa2cAQ"
-    },
-    {
-      "text": "A New SUV For Seniors Is Cheaper Than You Might ImagineSenior Offers | Search Ads",
-      "url": "https://searchtopics.net/index.php?rgid=410126&gclid=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCMt1ko1suoyOiloa2cAQ#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCMt1ko1suoyOiloa2cAQ"
-    },
-    {
-      "text": "HOKA Deals | Search Ads",
-      "url": "https://gosearches.net/index.php?rgid=217348&gclid=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSDm_FQo46Cvl7K7sMKxAQ#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSDm_FQo46Cvl7K7sMKxAQ"
-    },
-    {
-      "text": "Hoka Shoes Finally On Clearance SaleHOKA Deals | Search Ads",
-      "url": "https://gosearches.net/index.php?rgid=217348&gclid=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSDm_FQo46Cvl7K7sMKxAQ#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSDm_FQo46Cvl7K7sMKxAQ"
-    },
-    {
-      "text": "hiplatina",
-      "url": "https://hiplatina.com/el-chapo-emma-coronel-aispuro-arrested/?utm_source=taboola&utm_medium=referral&tblci=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSDs1kYox4Lq3Pm1vcW2AQ#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSDs1kYox4Lq3Pm1vcW2AQ"
-    },
-    {
-      "text": "El Chapo's Wife Emma Coronel Aispuro Sentenced to 3 Years in Prisonhiplatina",
-      "url": "https://hiplatina.com/el-chapo-emma-coronel-aispuro-arrested/?utm_source=taboola&utm_medium=referral&tblci=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSDs1kYox4Lq3Pm1vcW2AQ#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSDs1kYox4Lq3Pm1vcW2AQ"
-    },
-    {
-      "text": "Read More",
-      "url": "https://trc.taboola.com/graytv-wtoc/log/3/click?pi=%2Fhomepage&ri=c3810f3b965ce334105d41ce037a248c&sd=v2_7d02f44288d07b45a61b6bc008b67810_4946ca9c-baf3-42ed-8de2-0131ff61f57f-tuct9d44d22_1658505122_1658505122_CIi3jgYQi71ZGJmn77SiMCABKAEw4QE4kaQOQPzYD0iYzdkDUIEFWABgAGie4fPVv5r3zrsBcAE&ui=4946ca9c-baf3-42ed-8de2-0131ff61f57f-tuct9d44d22&it=photo&ii=~~V1~~7169536300755489742~~SCeaXGs05Ha-_uon0qwYHOGT0teXkOSNIGksWCuh1djTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RKOx1UyyoVNfKVbDU_mJ4cobvDaeOqPatl-v8Ze_kg3Se10nh10q9y4gBXpqT6yBH8od3A36rPkbC5_orO0P3Au9RF9sQvnUWqP_8NyD0cBRSrGgfXraZfkqzxVI8YJiN0&pt=home&li=rbox-h2m&sig=b85073a30d505db095990709bc7bbaba608e4fcc3c13&redir=https%3A%2F%2Fhiplatina.com%2Fel-chapo-emma-coronel-aispuro-arrested%2F%3Futm_source%3Dtaboola%26utm_medium%3Dreferral%26tblci%3DGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSDs1kYox4Lq3Pm1vcW2AQ%23tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSDs1kYox4Lq3Pm1vcW2AQ&vi=1658505122713&p=taboolaaccount-hiplatinahcodemediacom&r=58&lti=deflated&ppb=CIoD&cpb=EhIyMDIyMDcyMS00LVJFTEVBU0UYASCc__________8BKhl1cy50YWJvb2xhc3luZGljYXRpb24uY29tMgh0cmMxMDEzNjiAzNjGBkCRpA5I_NgPUJjN2QNYgQVjCN7__________wEQ3v__________ARgiZGMI1xYQ1B8YI2RjCOEgEMMsGAdkYwjSAxDgBhgIZGMIlhQQlxwYGGRjCMsYEKQiGAlkYwiLLRCdPhgqZGMI9BQQnh0YH2RjCNH__________wEQ0f__________ARgvZHgBgAG1iAGIAfyNrscBkAEX&cta=true"
-    },
-    {
-      "text": "Laptop Deals | Search Ads",
-      "url": "https://bestsearches.net/index.php?rgid=362266&gclid=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCk41cotKLm38eqsOTZAQ#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCk41cotKLm38eqsOTZAQ"
-    },
-    {
-      "text": "San Antonio: Unsold Never-Used Laptops Are Almost Being Given Away: See PricesLaptop Deals | Search Ads",
-      "url": "https://bestsearches.net/index.php?rgid=362266&gclid=GiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCk41cotKLm38eqsOTZAQ#tblciGiADli5Mj2SGGfQ-N6aw5fNTRJlddYOqF2reb0K_cFxJhSCk41cotKLm38eqsOTZAQ"
-    },
-    {
-      "text": "by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-wtoc&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
-    },
-    {
-      "text": "by Taboola",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-wtoc&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
-    },
-    {
-      "text": "Sponsored Links",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-wtoc&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
-    },
-    {
-      "text": "Sponsored Links",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-wtoc&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
-    },
-    {
-      "text": "Promoted Links",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-wtoc&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
-    },
-    {
-      "text": "Promoted Links",
-      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=graytv-wtoc&utm_medium=referral&utm_content=thumbs-feed-01:Below Homepage Thumbnails:"
     },
     {
       "text": "News",

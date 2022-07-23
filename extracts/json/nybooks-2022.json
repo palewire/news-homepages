@@ -1,5 +1,5 @@
 {
-  "created": 1658538246,
+  "created": 1658611525,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/32/items/nybooks-2022",
@@ -1570,31 +1570,115 @@
       "sha1": "80140a6f2cc219e5dafb848060e6c1fff3066de2"
     },
     {
+      "name": "nybooks-2022-07-22T23:34:39.783356-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658547285",
+      "size": "20695",
+      "md5": "ac44d5c60aca5c44ce4acb3f9d6c7294",
+      "crc32": "ee82ce31",
+      "sha1": "c46b5450f6d4e3cc9c1cf1e8cc2aa9a8adae33c3",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-22T23:34:39.783356-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658547286",
+      "size": "46176",
+      "md5": "544adc0b4c8e0e9c6ef3827d974a2551",
+      "crc32": "04a4db08",
+      "sha1": "b83d3560e10d4b47e6008b75771b55cf5478e70e",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-22T23:34:39.783356-04:00.jpg",
+      "source": "original",
+      "mtime": "1658547283",
+      "size": "341291",
+      "md5": "1f479ad81a10a4307fc3f0c57a7eb590",
+      "crc32": "3f03c182",
+      "sha1": "a5290042e3a8278c0aba9689510e953ba8835453",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nybooks-2022-07-22T23:34:39.783356-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nybooks-2022-07-22T23:34:39.783356-04:00.jpg",
+      "mtime": "1658551449",
+      "size": "9988",
+      "md5": "7629a16d5627ee32d48848f6eb91e17e",
+      "crc32": "e466dafa",
+      "sha1": "80140a6f2cc219e5dafb848060e6c1fff3066de2"
+    },
+    {
+      "name": "nybooks-2022-07-23T11:04:26.331359-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658588669",
+      "size": "20664",
+      "md5": "80711486df59cad83160cbe5731ecf50",
+      "crc32": "902a52fc",
+      "sha1": "4c666378a653f08a138297e7e5cdbf3f69899777",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-23T11:04:26.331359-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658588671",
+      "size": "46155",
+      "md5": "99e188b68811563f20e96595a09bf570",
+      "crc32": "b4dbc055",
+      "sha1": "2b028dff70660ece31f33f50878832adee4777e3",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-23T11:04:26.331359-04:00.jpg",
+      "source": "original",
+      "mtime": "1658588668",
+      "size": "341291",
+      "md5": "1f479ad81a10a4307fc3f0c57a7eb590",
+      "crc32": "3f03c182",
+      "sha1": "a5290042e3a8278c0aba9689510e953ba8835453",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nybooks-2022-07-23T11:04:26.331359-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nybooks-2022-07-23T11:04:26.331359-04:00.jpg",
+      "mtime": "1658588758",
+      "size": "9988",
+      "md5": "7629a16d5627ee32d48848f6eb91e17e",
+      "crc32": "e466dafa",
+      "sha1": "80140a6f2cc219e5dafb848060e6c1fff3066de2"
+    },
+    {
       "name": "nybooks-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59b2f8648012aebf0a2ddaaa4a8e192bb4f6cfbb",
-      "mtime": "1658520589",
-      "size": "32770",
-      "md5": "34d2b652951537ae75d9fbfc599d989f",
-      "crc32": "327174f8",
-      "sha1": "a29d721b933a2bfbaef39d58eed526f95ab8bc18",
+      "btih": "af8f6caf6b81aef3321d29ddb919a83e979b8dc3",
+      "mtime": "1658588775",
+      "size": "34460",
+      "md5": "4e3be4d7167f618f9723df88ba84d336",
+      "crc32": "ad1d1da7",
+      "sha1": "f1773d1b2103c532ca5c6fbd75e35b42553ee8dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nybooks-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b4deac5e074bc8443a9450ee26ae2235",
+      "md5": "1555913e3e0debc88fa879bbbca1e32b",
       "summation": "md5"
     },
     {
       "name": "nybooks-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658502054",
-      "size": "192512",
-      "md5": "236c80b79db743ff7d63c6bd9ce160be",
-      "crc32": "6dd1c47d",
-      "sha1": "19db409a907690fb9ab3e260e66c04ff098a0b84",
+      "mtime": "1658588675",
+      "size": "200704",
+      "md5": "b81052a0d1e22dbc92c5d30355313d3c",
+      "crc32": "01a189e1",
+      "sha1": "14765fe3237b8e42606cf511306a5b542a60feef",
       "format": "Metadata"
     },
     {
@@ -1608,9 +1692,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 153,
-  "item_last_updated": 1658520589,
-  "item_size": 16049851,
+  "files_count": 161,
+  "item_last_updated": 1658588775,
+  "item_size": 16895981,
   "metadata": {
     "identifier": "nybooks-2022",
     "collection": [
@@ -2133,8 +2217,8 @@
       "url": "https://www.nybooks.com/daily/2022/07/09/the-buffalo-i-knew/"
     },
     {
-      "text": "\n                                    \n                                        \n\t\n\nDavid Cole                                    \n                                    The Supreme Court\u2019s Unprecedented Turn\n                                        July 8, 2022\n\n                                ",
-      "url": "https://www.nybooks.com/daily/2022/07/08/egregiously-wrong-the-supreme-courts-unprecedented-turn/"
+      "text": "\n                                    \n                                        \n\t\n\nDavid Cole                                    \n                                    Egregiously Wrong\n                                        August 18, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/08/18/egregiously-wrong-the-supreme-courts-unprecedented-turn-david-cole/"
     },
     {
       "text": "More Politics",
@@ -2385,10 +2469,10 @@
       "url": "http://athleticsnyc.com/"
     }
   ],
-  "server": "ia802501.us.archive.org",
-  "uniq": 839748497,
+  "server": "ia902501.us.archive.org",
+  "uniq": 1381946215,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

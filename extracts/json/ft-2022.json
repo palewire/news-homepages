@@ -1,5 +1,5 @@
 {
-  "created": 1658537988,
+  "created": 1658611183,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/17/items/ft-2022",
@@ -12514,31 +12514,157 @@
       "sha1": "430a74d4b3b17dd1bfed0a7f786debc3badb7d9d"
     },
     {
+      "name": "ft-2022-07-23T03:26:28.177012+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658543191",
+      "size": "38338",
+      "md5": "1aa358e9b163cbf7b3bd09955d5e8511",
+      "crc32": "2e045d90",
+      "sha1": "9a498c539dfc5244a1993757b800a52e3ffc8016",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-23T03:26:28.177012+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658543193",
+      "size": "78525",
+      "md5": "f992f6d894c580231b1c115552636833",
+      "crc32": "e312a1f8",
+      "sha1": "5fa18021d03764b8a851474193e65e7a59e6d3d9",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-23T03:26:28.177012+01:00.jpg",
+      "source": "original",
+      "mtime": "1658543189",
+      "size": "316326",
+      "md5": "97f9668d3b239e096a3283d580bab43f",
+      "crc32": "b235d702",
+      "sha1": "c9076b1797d649b363757e93c1a18779e5bfdd9c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-07-23T03:26:28.177012+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-07-23T03:26:28.177012+01:00.jpg",
+      "mtime": "1658548629",
+      "size": "10226",
+      "md5": "fd62e64d354a61c632010e8d7ba21b35",
+      "crc32": "6ea9cbf3",
+      "sha1": "72e2aec199c2a3f12a45b332e68d78fcd2b13dc2"
+    },
+    {
+      "name": "ft-2022-07-23T10:06:33.040532+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658567195",
+      "size": "40007",
+      "md5": "b6781d2e548b6f8743a258dc46965b02",
+      "crc32": "6030d2ee",
+      "sha1": "cab8cb49168487c1e04a1023455f998b82898799",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-23T10:06:33.040532+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658567197",
+      "size": "79163",
+      "md5": "f7145f2b0b45f34f1af1c52c3072d104",
+      "crc32": "c9b94b46",
+      "sha1": "fe8b65335d3746d20aebccdea8d43e6d2d4c575b",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-23T10:06:33.040532+01:00.jpg",
+      "source": "original",
+      "mtime": "1658567194",
+      "size": "305218",
+      "md5": "c045d09037e1343c21fae19775af90dc",
+      "crc32": "5d03d93a",
+      "sha1": "f9d3050fd429867793f68cd09e96debefafdc11e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-07-23T10:06:33.040532+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-07-23T10:06:33.040532+01:00.jpg",
+      "mtime": "1658567383",
+      "size": "9753",
+      "md5": "f22619fc51962ae46f4ccfec8d835919",
+      "crc32": "bbb93b8c",
+      "sha1": "5df9473a48087cfd643bb40751035460594b1a19"
+    },
+    {
+      "name": "ft-2022-07-23T15:01:04.918195+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658584876",
+      "size": "42730",
+      "md5": "3a6acab3c671c5a6499ba21fd5c22fa4",
+      "crc32": "d57663e6",
+      "sha1": "63896577fc56d4fa4f584c04ce66004ac3107520",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-23T15:01:04.918195+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658584878",
+      "size": "79397",
+      "md5": "f86c0de4651825736e5bf5d4ba9f09b2",
+      "crc32": "8291625b",
+      "sha1": "cc04b0f272485f5686989c814145f22d48067c65",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-07-23T15:01:04.918195+01:00.jpg",
+      "source": "original",
+      "mtime": "1658584874",
+      "size": "328040",
+      "md5": "26d640874f839dea12a6140b52bad655",
+      "crc32": "4c8fe270",
+      "sha1": "e0ec9aff161e22e82a6aefa4a4f69a73df41616a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-07-23T15:01:04.918195+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-07-23T15:01:04.918195+01:00.jpg",
+      "mtime": "1658585129",
+      "size": "10123",
+      "md5": "394603db06aa68d60d05ec9ae9280ede",
+      "crc32": "8f027a43",
+      "sha1": "a4cb9dc37755b8626caa151c8cd12097d6af7444"
+    },
+    {
       "name": "ft-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1593a06abd2de98432ad2be87b7b24871cdfa3dc",
-      "mtime": "1658518163",
-      "size": "245707",
-      "md5": "7e6168aa8f61a0a6638c1f6a3f49598f",
-      "crc32": "5fcfda85",
-      "sha1": "29616481a176f764d619652da0e34bc59b207ec5",
+      "btih": "cefab78216fe0abd13be22abe46ec291d6891c65",
+      "mtime": "1658585212",
+      "size": "248164",
+      "md5": "a2cd80e0a25970b3ec3b30370739830d",
+      "crc32": "254051ba",
+      "sha1": "6fca0faa9c1b4a75f320dec4c9d58b39d09d1241",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ft-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "df38765ddf555177081dc03c4861eef6",
+      "md5": "d28035c5339c73bc8a89ec5e90422eac",
       "summation": "md5"
     },
     {
       "name": "ft-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658498759",
-      "size": "1351680",
-      "md5": "9bb7e08c4fe0b5d2300d3e1bb13e6354",
-      "crc32": "bd0c9042",
-      "sha1": "7c086f8f18c4b4ef3af938765875b8fde706066c",
+      "mtime": "1658584881",
+      "size": "1363968",
+      "md5": "50a51fb770aada54d67512021dfd47d3",
+      "crc32": "0ddf8bb8",
+      "sha1": "dbc1cbc525167365950e03279779d625ae3cc028",
       "format": "Metadata"
     },
     {
@@ -12552,7 +12678,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1194,
+  "files_count": 1206,
   "ft-2022": [
     {
       "text": "Accessibility help",
@@ -12571,27 +12697,27 @@
       "url": "#site-footer"
     },
     {
-      "text": "FTSE 100+0.32%",
+      "text": "FTSE 100+0.08%",
       "url": "https://markets.ft.com/data/indices/tearsheet/summary?s=FTSE:FSI"
     },
     {
-      "text": "S&P 500+0.99%",
+      "text": "S&P 500-0.93%",
       "url": "https://markets.ft.com/data/indices/tearsheet/summary?s=INX:IOM"
     },
     {
-      "text": "Euro/Dollar-0.44%",
+      "text": "Euro/Dollar-0.18%",
       "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=EURUSD"
     },
     {
-      "text": "Pound/Dollar-0.32%",
+      "text": "Pound/Dollar+0.08%",
       "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=GBPUSD"
     },
     {
-      "text": "Brent Crude Oil-0.32%",
+      "text": "Brent Crude Oil-0.27%",
       "url": "https://markets.ft.com/data/equities/tearsheet/summary?s=IB.1:IEU"
     },
     {
-      "text": "10 Year US Gov-4.37%",
+      "text": "10 Year US Gov-4.74%",
       "url": "https://markets.ft.com/data/indices/tearsheet/summary?s=JPMUS10YCMY:REU"
     },
     {
@@ -12715,24 +12841,24 @@
       "url": "/australia-newzealand"
     },
     {
-      "text": "Donald Trump was glued to Fox News as January 6 riot unfolded, committee hears",
-      "url": "/content/d7788f29-7278-4a22-8507-6c82a2d7d99f"
+      "text": "Sales of \u00a35mn-plus London homes hit record level ",
+      "url": "/content/49a44b12-c8e1-40bb-9c88-c87741bf5206"
     },
     {
-      "text": "MI6 chief says Russia \u2018about to run out of steam\u2019 in Ukraine",
-      "url": "/content/ecfc3ad1-4291-4609-b137-230a556fc990"
+      "text": "Passengers face chaotic trips as flight disruption sweeps Europe",
+      "url": "/content/36b2ecf1-e9c4-43d5-b14d-3c0a37be33c7"
     },
     {
-      "text": "Captured nuclear plant doubles as launch pad for relentless Russian rocket attacks",
-      "url": "/content/857ee467-c920-4ba0-b915-684e0afbf594"
+      "text": "Russia and Ukraine sign grain deal to avert global food crisis",
+      "url": "/content/126de7b0-cf7a-4703-9429-6c63cb162b02"
+    },
+    {
+      "text": "Steve Bannon found guilty in contempt of Congress trial",
+      "url": "/content/fbc4510f-4623-4d0f-9d8a-11c079e59fbf"
     },
     {
       "text": "\u2018Draghi walked into a trap\u2019: leader\u2019s ultimatum shatters Italy\u2019s stability",
       "url": "/content/f5fd0ed1-254e-4dee-8959-783a1d3883b4"
-    },
-    {
-      "text": "EU solidarity frays as some member states question plan to slash gas use",
-      "url": "/content/cf84dde3-9020-4ee7-a6d0-2809863da2d8"
     },
     {
       "text": "UK",
@@ -12763,24 +12889,24 @@
       "url": "/personal-finance"
     },
     {
-      "text": "How Liz Truss went from also-ran to frontrunner in Tory leadership race",
-      "url": "/content/54ad37e8-addc-40cd-99e3-4969c2482546"
+      "text": "Sales of \u00a35mn-plus London homes hit record level ",
+      "url": "/content/49a44b12-c8e1-40bb-9c88-c87741bf5206"
     },
     {
-      "text": "Rishi Sunak refuses to match Liz Truss on tax cuts",
-      "url": "/content/9d78750c-ebb4-4bb3-87cf-23c97b167fb5"
+      "text": "Dover set for more chaos as \u2018critical incident\u2019 declared",
+      "url": "/content/cf5d9a52-f193-4c7a-b5d0-4182b6ddcf3d"
     },
     {
-      "text": "Experts cast doubts over UK\u2019s first rare earths processing site",
-      "url": "/content/1ccd480b-4926-45ca-b70a-bd8ba3058d10"
+      "text": "Liz Truss vows to review all EU law on British statute",
+      "url": "/content/3703d4cc-4071-4f05-a885-b1d273f7766c"
     },
     {
-      "text": "EDF pushes UK government to alter Hinkley Point C penalty clauses",
-      "url": "/content/cb715de2-1c95-4a13-8b48-33717b1dcc44"
+      "text": "How do leadership rivals Liz Truss and Rishi Sunak differ on UK economic policy?",
+      "url": "/content/61b1f0a5-63cb-4ca0-8b75-e27afc00d106"
     },
     {
-      "text": "High UK inflation hits sales, confidence and activity",
-      "url": "/content/ec8c3bfb-5473-4776-b483-f0a531940c46"
+      "text": "Covid-19 infections still rising in England, latest ONS data show",
+      "url": "/content/e9f9f689-3032-4f65-9a5c-3fd2b0d09c79"
     },
     {
       "text": "Companies",
@@ -12831,24 +12957,24 @@
       "url": "/companies/transport"
     },
     {
-      "text": "Tata threatens to close Port Talbot steelworks without \u00a31.5bn of aid",
-      "url": "/content/d4ff1619-bff6-44c8-8d56-78078bf0df5b"
+      "text": "Herbert Diess ousted as Volkswagen boss",
+      "url": "/content/f73ee239-8c2a-4344-b042-2d78c646506b"
     },
     {
-      "text": "The rising risk of \u2018audit orphans\u2019 in a dysfunctional UK market",
-      "url": "/content/b70244b3-2585-49a0-beb4-973fb9faef47"
+      "text": "Howard Schultz seeks to bring Starbucks back up to full strength",
+      "url": "/content/7556b140-6002-4f87-894f-3a08b064ce7a"
     },
     {
-      "text": "Barcelona seals further \u20ac300mn from US group Sixth Street",
-      "url": "/content/31c59273-d04c-428a-80a5-d11c4c75a484"
+      "text": "Evergrande\u2019s chief executive steps down over mystery $2bn claim",
+      "url": "/content/05ace76a-8774-4d54-a07a-c689edab98b5"
     },
     {
-      "text": "HSBC installs Communist party committee in Chinese investment bank",
-      "url": "/content/eac99fd9-0c30-4141-821a-45348f61c113"
+      "text": "Carmine Di Sibio: The EY boss planning the most radical Big Four split in a generation",
+      "url": "/content/e9a3237a-514e-48b7-8451-fc4df50905f0"
     },
     {
-      "text": "Kuwait sovereign wealth fund fires head of London office",
-      "url": "/content/d48d0a44-8fee-4e34-bcfc-66edfdc85b12"
+      "text": "Fast fashion retailers end \u2018real pain\u2019 of free returns ",
+      "url": "/content/792c2893-4108-4faf-abf7-128b1aeda6c2"
     },
     {
       "text": "Tech",
@@ -12907,24 +13033,24 @@
       "url": "/cryptofinance"
     },
     {
-      "text": "China reckons with its first overseas debt crisis",
-      "url": "/content/ccbe2b80-0c3e-4d58-a182-8728b443df9a"
-    },
-    {
-      "text": "Live news updates: Musk \u2018uncertainty\u2019 contributes to second-quarter revenue fall, says Twitter",
-      "url": "/content/2b52b57e-4434-493f-a6e4-fbe64b8bc0b6"
-    },
-    {
       "text": "Pakistan\u2019s rupee falls fast as default fears intensify",
       "url": "/content/31f9fbd5-996a-4c24-8c5d-3fcf824c0d93"
     },
     {
-      "text": "Live news updates from July 21: ECB ends 11-year interest rate freeze, Mario Draghi resigns",
-      "url": "/content/fb291293-fec9-4350-9acb-1e38d13844f6"
+      "text": "China reckons with its first overseas debt crisis",
+      "url": "/content/ccbe2b80-0c3e-4d58-a182-8728b443df9a"
     },
     {
-      "text": "Italian bonds sell off after Draghi resigns and ECB boosts rates",
-      "url": "/content/78a0a6eb-f325-4527-9652-3203db4bfe16"
+      "text": "Evergrande\u2019s chief executive steps down over mystery $2bn claim",
+      "url": "/content/05ace76a-8774-4d54-a07a-c689edab98b5"
+    },
+    {
+      "text": "The Fed must emulate the tactics of Volcker\u2019s fight against inflation ",
+      "url": "/content/b82082c9-d26a-47a5-8b1a-34121f572645"
+    },
+    {
+      "text": "Government bonds rally as weak business surveys darken outlook",
+      "url": "/content/7258ec8d-3a3d-4fe2-a390-daeb12bb3b42"
     },
     {
       "text": "Climate",
@@ -12963,24 +13089,24 @@
       "url": "/letters"
     },
     {
+      "text": "The vibes theory of politics",
+      "url": "/content/0ca72be9-18c8-4b9f-9dbe-27d97b9e63e6"
+    },
+    {
+      "text": "Has New York lost its edge?",
+      "url": "/content/1ffb36b0-fd8b-4b84-9158-c86f4f4e2034"
+    },
+    {
       "text": "The semiconductor chip pendulum is slowly swinging west",
       "url": "/content/1dd8a704-9412-4f6c-a7c2-80ab171b026d"
     },
     {
-      "text": "Chronic illness makes UK workforce the sickest in developed world",
-      "url": "/content/c333a6d8-0a56-488c-aeb8-eeb1c05a34d2"
+      "text": "Draghi\u2019s undesirable exit reflects time-honoured tradition in Italian politics",
+      "url": "/content/9bf3b31e-da1a-4032-8922-a90feb767f77"
     },
     {
-      "text": "The rising risk of \u2018audit orphans\u2019 in a dysfunctional UK market",
-      "url": "/content/b70244b3-2585-49a0-beb4-973fb9faef47"
-    },
-    {
-      "text": "Planting trees is not a panacea \u2014 we need to save existing forests",
-      "url": "/content/40498048-da55-40df-883d-20e61dbe6895"
-    },
-    {
-      "text": "Abortion and women in America: what the data tells us",
-      "url": "/content/3bb70c6a-1a54-4840-bc56-234b5a0f04db"
+      "text": "The Fed must emulate the tactics of Volcker\u2019s fight against inflation ",
+      "url": "/content/b82082c9-d26a-47a5-8b1a-34121f572645"
     },
     {
       "text": "Work & Careers",
@@ -13023,16 +13149,16 @@
       "url": "/content/5f734f71-5e84-4771-b267-589359b812c7"
     },
     {
-      "text": "Corinne Le Qu\u00e9r\u00e9: \u2018Could we just adapt to climate change? The answer is no\u2019",
-      "url": "/content/94475cf3-df95-41bf-bef4-06e76a4df7df"
-    },
-    {
       "text": "Cut the meetings, make more friends",
       "url": "/content/c95da4e0-ecd3-4f4d-9faa-ac2a3dc4fc15"
     },
     {
       "text": "Personal branding: we may cringe, but it works\u2009",
       "url": "/content/6b618766-9ced-4826-b6e7-e63c14c9923e"
+    },
+    {
+      "text": "Corinne Le Qu\u00e9r\u00e9: \u2018Could we just adapt to climate change? The answer is no\u2019",
+      "url": "/content/94475cf3-df95-41bf-bef4-06e76a4df7df"
     },
     {
       "text": "Life & Arts",
@@ -13075,24 +13201,24 @@
       "url": "/globetrotter"
     },
     {
-      "text": "Positive feedback: the science of criticism that actually works",
-      "url": "/content/a681ac3c-73b8-459b-843c-0d796f15020e"
-    },
-    {
-      "text": "Abortion and women in America: what the data tells us",
-      "url": "/content/3bb70c6a-1a54-4840-bc56-234b5a0f04db"
-    },
-    {
-      "text": "Bhutan\u2019s bold plan to introduce the world\u2019s highest tourist levy",
-      "url": "/content/9baed03d-ce88-4023-a656-52e772d7864d"
+      "text": "The vibes theory of politics",
+      "url": "/content/0ca72be9-18c8-4b9f-9dbe-27d97b9e63e6"
     },
     {
       "text": "Inside Ukraine\u2019s open-source war",
       "url": "/content/297d3300-1a65-4793-982b-1ba2372241a3"
     },
     {
-      "text": "Home buyers return to the Costa Smeralda",
-      "url": "/content/47d4fbca-bbab-43fc-9b76-795b27abf7ab"
+      "text": "Has New York lost its edge?",
+      "url": "/content/1ffb36b0-fd8b-4b84-9158-c86f4f4e2034"
+    },
+    {
+      "text": "                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Melvyn Bragg: \u2018Oxford was great. But it wasn\u2019t as good as Wigton\u2019",
+      "url": "/content/6f5b99bb-e5b2-4e6b-b538-afa5ad208fc4"
+    },
+    {
+      "text": "Positive feedback: the science of criticism that actually works",
+      "url": "/content/a681ac3c-73b8-459b-843c-0d796f15020e"
     },
     {
       "text": "HTSI",
@@ -13171,68 +13297,56 @@
       "url": "https://subs.ft.com/sd33_ddd?segmentid=61895f85-b88c-ba04-7a0a-b3ca54c20651"
     },
     {
-      "text": "UK business & economy",
-      "url": "https://www.ft.com/uk-business-economy"
+      "text": "War in Ukraine",
+      "url": "https://www.ft.com/war-in-ukraine"
     },
     {
-      "text": "UK business secretary defers Tata steelworks decision to next prime minister",
-      "url": "/content/a2236a63-f829-4c36-b65f-ad03944eb66f"
+      "text": "Russian missiles hit Odesa after Moscow agrees grain export deal with Kyiv",
+      "url": "/content/3ad4fba3-79c8-4cd0-bece-9001401e6850"
     },
     {
-      "text": "Kwasi Kwarteng says next leader must decide on company\u2019s request for \u00a31.5bn in subsidies for Port Talbot plant",
-      "url": "/content/a2236a63-f829-4c36-b65f-ad03944eb66f"
+      "text": "UN condemns breach of agreement intended to avert global food crisis",
+      "url": "/content/3ad4fba3-79c8-4cd0-bece-9001401e6850"
     },
     {
-      "text": "Tata threatens to close Port Talbot steelworks without \u00a31.5bn of aid",
-      "url": "/content/d4ff1619-bff6-44c8-8d56-78078bf0df5b"
+      "text": "Europe Express. Who is losing the economic war \u2014 Ukraine, the west or Russia?",
+      "url": "/content/10d6f5cb-6a1d-4858-9d6e-dc1a9191994c"
     },
     {
-      "text": "EDF pushes UK government to alter Hinkley Point C penalty clauses",
-      "url": "/content/cb715de2-1c95-4a13-8b48-33717b1dcc44"
+      "text": "Russia cuts rates sharply as inflation outlook improves",
+      "url": "/content/aa7671a1-0589-42d1-8868-c4512661d384"
     },
     {
       "text": "",
-      "url": "/content/6f5b99bb-e5b2-4e6b-b538-afa5ad208fc4"
+      "url": "/content/297d3300-1a65-4793-982b-1ba2372241a3"
     },
     {
       "text": "Life & Arts",
       "url": "https://www.ft.com/life-arts"
     },
     {
-      "text": "Lunch with the FT.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Melvyn Bragg: \u2018Oxford was great. But it wasn\u2019t as good as Wigton\u2019",
-      "url": "/content/6f5b99bb-e5b2-4e6b-b538-afa5ad208fc4"
+      "text": "The Weekend Essay. Inside Ukraine\u2019s open-source war",
+      "url": "/content/297d3300-1a65-4793-982b-1ba2372241a3"
     },
     {
       "text": "",
-      "url": "/content/54ad37e8-addc-40cd-99e3-4969c2482546"
+      "url": "/content/9bf3b31e-da1a-4032-8922-a90feb767f77"
     },
     {
-      "text": "How Liz Truss went from also-ran to frontrunner in Tory leadership race",
-      "url": "/content/54ad37e8-addc-40cd-99e3-4969c2482546"
+      "text": " opinion content.\u00a0Draghi\u2019s undesirable exit reflects time-honoured tradition in Italian politics",
+      "url": "/content/9bf3b31e-da1a-4032-8922-a90feb767f77"
     },
     {
-      "text": " opinion content.\u00a0The Fed must emulate the tactics of Volcker\u2019s fight against inflation ",
-      "url": "/content/b82082c9-d26a-47a5-8b1a-34121f572645"
+      "text": "Tony Barber",
+      "url": "https://www.ft.com/tony-barber"
     },
     {
-      "text": "Sheila Bair",
-      "url": "https://www.ft.com/stream/7e123ef0-c152-48bf-8008-3d96ed06978a"
+      "text": " opinion content.\u00a0The vibes theory of politics",
+      "url": "/content/0ca72be9-18c8-4b9f-9dbe-27d97b9e63e6"
     },
     {
-      "text": "",
-      "url": "/content/2b52b57e-4434-493f-a6e4-fbe64b8bc0b6"
-    },
-    {
-      "text": "FT live news",
-      "url": "https://www.ft.com/stream/71da3673-1793-4e83-a4b1-2d08639fe0f6"
-    },
-    {
-      "text": "Live: American Express pushes up revenue guidance as consumers keep spending",
-      "url": "/content/2b52b57e-4434-493f-a6e4-fbe64b8bc0b6"
-    },
-    {
-      "text": " markets content.\u00a0Markets Briefing. Euro drops and German debt rallies as weak survey data darken outlook",
-      "url": "/content/7258ec8d-3a3d-4fe2-a390-daeb12bb3b42"
+      "text": "Janan Ganesh",
+      "url": "https://www.ft.com/janan-ganesh"
     },
     {
       "text": "",
@@ -13243,52 +13357,96 @@
       "url": "https://www.ft.com/companies/transport"
     },
     {
-      "text": "Port of Dover declares \u2018critical incident\u2019 as UK summer getaway kicks off",
+      "text": "Dover set for more chaos as \u2018critical incident\u2019 declared",
       "url": "/content/cf5d9a52-f193-4c7a-b5d0-4182b6ddcf3d"
     },
     {
-      "text": "Holidaymakers warned to expect long delays as British port authority criticises French agency",
+      "text": "Holidaymakers told to expect long delays as French authority\u2019s \u2018woefully inadequate\u2019 staffing comes under fire",
       "url": "/content/cf5d9a52-f193-4c7a-b5d0-4182b6ddcf3d"
     },
     {
-      "text": "",
-      "url": "/content/ec8c3bfb-5473-4776-b483-f0a531940c46"
-    },
-    {
-      "text": "UK economic growth",
-      "url": "https://www.ft.com/stream/dd22f655-9202-4325-9c06-b25edf3650dc"
-    },
-    {
-      "text": "High UK inflation hits sales, confidence and activity",
-      "url": "/content/ec8c3bfb-5473-4776-b483-f0a531940c46"
-    },
-    {
-      "text": "Volume of goods bought falls for second consecutive month, as economists warn of economic recession later this year ",
-      "url": "/content/ec8c3bfb-5473-4776-b483-f0a531940c46"
-    },
-    {
-      "text": "Eurozone business activity falls to 17-month low, raising recession fears",
-      "url": "/content/38aabcaa-e954-4d51-b2ab-780f2fcf1462"
+      "text": "Passengers face chaotic trips as flight disruption sweeps Europe",
+      "url": "/content/36b2ecf1-e9c4-43d5-b14d-3c0a37be33c7"
     },
     {
       "text": "",
-      "url": "/content/9d85b78f-070f-4de6-a62d-95a1bf7b08ab"
+      "url": "/content/f73ee239-8c2a-4344-b042-2d78c646506b"
     },
     {
-      "text": "Twitter Inc",
-      "url": "https://www.ft.com/stream/a54ba68e-4aa3-4aa0-8a11-61456f4dfaa1"
+      "text": "Volkswagen AG",
+      "url": "https://www.ft.com/stream/616d18a5-b3b0-4586-b4b3-dd0cfc625b1a"
     },
     {
-      "text": "Twitter blames Elon Musk and advertising slump for revenue miss",
-      "url": "/content/9d85b78f-070f-4de6-a62d-95a1bf7b08ab"
+      "text": "Herbert Diess ousted as Volkswagen boss",
+      "url": "/content/f73ee239-8c2a-4344-b042-2d78c646506b"
     },
     {
-      "text": "Second-quarter figure falls 1 per cent while costs surge as company is shaken by on-off sale",
-      "url": "/content/9d85b78f-070f-4de6-a62d-95a1bf7b08ab"
+      "text": "CEO forced out after supervisory board vote will be replaced by Porsche chief Oliver Blume",
+      "url": "/content/f73ee239-8c2a-4344-b042-2d78c646506b"
     },
     {
-      "text": "Durham",
-      "url": "https://www.ft.com/stream/335ddba7-b527-3bf5-8d01-4816a0e39181"
+      "text": "VW faces union and shareholder calls to examine China human rights allegations",
+      "url": "/content/c8edbdbf-220a-447a-b182-a54bcb4aaff5"
+    },
+    {
+      "text": "",
+      "url": "/content/49a44b12-c8e1-40bb-9c88-c87741bf5206"
+    },
+    {
+      "text": "Property sector",
+      "url": "https://www.ft.com/companies/property"
+    },
+    {
+      "text": "Sales of \u00a35mn-plus London homes hit record level ",
+      "url": "/content/49a44b12-c8e1-40bb-9c88-c87741bf5206"
+    },
+    {
+      "text": "Wealthy investors seek sanctuary in bricks and mortar amid choppy markets",
+      "url": "/content/49a44b12-c8e1-40bb-9c88-c87741bf5206"
+    },
+    {
+      "text": "News in-depth. Rising rents mean no shelter for Americans from inflation storm",
+      "url": "/content/afdc756d-a6da-4482-8d9b-d9c22fdc8968"
+    },
+    {
+      "text": "",
+      "url": "/content/05ace76a-8774-4d54-a07a-c689edab98b5"
+    },
+    {
+      "text": "Evergrande Real Estate Group",
+      "url": "https://www.ft.com/stream/e6b30a32-d0fa-4316-b172-ff5f48b18574"
+    },
+    {
+      "text": "Evergrande\u2019s chief executive steps down over mystery $2bn claim",
+      "url": "/content/05ace76a-8774-4d54-a07a-c689edab98b5"
+    },
+    {
+      "text": "The indebted developer was probing how deposits were pledged as security for third party guarantees",
+      "url": "/content/05ace76a-8774-4d54-a07a-c689edab98b5"
+    },
+    {
+      "text": "Climate change",
+      "url": "https://www.ft.com/stream/24ad2c58-14fb-4217-b6f7-7ef88ac51375"
+    },
+    {
+      "text": "The Big Read. Can cities adapt to an era of extreme heat?",
+      "url": "/content/8efa341b-f447-4027-8e62-ca06dfe930dc"
+    },
+    {
+      "text": "Urban centres across Europe are seeking solutions as record summer temperatures threaten to become an annual event  ",
+      "url": "/content/8efa341b-f447-4027-8e62-ca06dfe930dc"
+    },
+    {
+      "text": "",
+      "url": "/content/8efa341b-f447-4027-8e62-ca06dfe930dc"
+    },
+    {
+      "text": "",
+      "url": "/content/6aa489d8-32bb-4ac7-b064-d2efb9329eff"
+    },
+    {
+      "text": "Trade unions",
+      "url": "https://www.ft.com/stream/61b3414d-9e45-4962-a2d1-134453f5af02"
     },
     {
       "text": "FT Magazine. A uniquely British festival of the working class welcomes its new hero",
@@ -13299,292 +13457,300 @@
       "url": "/content/6aa489d8-32bb-4ac7-b064-d2efb9329eff"
     },
     {
-      "text": "",
-      "url": "/content/6aa489d8-32bb-4ac7-b064-d2efb9329eff"
+      "text": "Life & Arts",
+      "url": "https://www.ft.com/life-arts"
+    },
+    {
+      "text": "Lunch with the FT.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Melvyn Bragg: \u2018Oxford was great. But it wasn\u2019t as good as Wigton\u2019",
+      "url": "/content/6f5b99bb-e5b2-4e6b-b538-afa5ad208fc4"
+    },
+    {
+      "text": "The British broadcaster and novelist on the secrets of his Cumbrian childhood, his 50 years of championing the arts \u2014 and what cut short his movie career",
+      "url": "/content/6f5b99bb-e5b2-4e6b-b538-afa5ad208fc4"
     },
     {
       "text": "",
-      "url": "/content/f5fd0ed1-254e-4dee-8959-783a1d3883b4"
+      "url": "/content/6f5b99bb-e5b2-4e6b-b538-afa5ad208fc4"
     },
     {
-      "text": "Italian politics",
-      "url": "https://www.ft.com/stream/1696aff8-4f3e-4caf-92e2-bc7ec940cd0e"
+      "text": " opinion content.\u00a0FT Magazine. Why Swedes get better jobs than Lithuanians",
+      "url": "/content/2e75c837-c92b-4f2c-b891-8bbb1041553b"
+    },
+    {
+      "text": "Simon Kuper",
+      "url": "https://www.ft.com/simon-kuper"
+    },
+    {
+      "text": "Investing in Europe\u2019s holiday hotspots",
+      "url": "/content/5326d5e3-29ca-49f0-90a0-949d1cb99775"
+    },
+    {
+      "text": "FT Magazine. The secret to honest feedback that actually works",
+      "url": "/content/a681ac3c-73b8-459b-843c-0d796f15020e"
+    },
+    {
+      "text": " opinion content.\u00a0Has New York lost its edge?",
+      "url": "/content/1ffb36b0-fd8b-4b84-9158-c86f4f4e2034"
+    },
+    {
+      "text": "Jo Ellison",
+      "url": "https://www.ft.com/jo-ellison"
+    },
+    {
+      "text": "",
+      "url": "/content/e3e91313-fc53-495b-9281-0e80096c0a4b"
+    },
+    {
+      "text": "Personal Finance Advice & Comment",
+      "url": "https://www.ft.com/personal-finance/advice-comment"
+    },
+    {
+      "text": " opinion content.\u00a0Serious Money. Are you due a share of \u00a350bn of lost assets? ",
+      "url": "/content/e3e91313-fc53-495b-9281-0e80096c0a4b"
+    },
+    {
+      "text": "More effort should go into tracking down the owners of lost accounts ",
+      "url": "/content/e3e91313-fc53-495b-9281-0e80096c0a4b"
+    },
+    {
+      "text": "Claer Barrett",
+      "url": "https://www.ft.com/claer-barrett"
+    },
+    {
+      "text": "Hello, folly! A 21st-century take on an 18th-century oddity",
+      "url": "/content/7ec953c9-3ac3-4720-9182-c5458b1c05fd"
+    },
+    {
+      "text": "Herbert Diess ousted as Volkswagen boss",
+      "url": "/content/f73ee239-8c2a-4344-b042-2d78c646506b"
     },
     {
       "text": "\u2018Draghi walked into a trap\u2019: leader\u2019s ultimatum shatters Italy\u2019s stability",
       "url": "/content/f5fd0ed1-254e-4dee-8959-783a1d3883b4"
     },
     {
-      "text": "Rightwing parties seek to take advantage of early elections after prime minister\u2019s departure",
-      "url": "/content/f5fd0ed1-254e-4dee-8959-783a1d3883b4"
-    },
-    {
-      "text": "",
-      "url": "/content/cf84dde3-9020-4ee7-a6d0-2809863da2d8"
-    },
-    {
-      "text": "EU energy",
-      "url": "https://www.ft.com/stream/0f9ee5f7-fc70-4677-8250-51f11483c41c"
-    },
-    {
-      "text": "EU solidarity frays as some member states question plan to slash gas use",
-      "url": "/content/cf84dde3-9020-4ee7-a6d0-2809863da2d8"
-    },
-    {
-      "text": "Spain and Portugal among those pushing back on proposal to cut consumption by 15% ahead of winter supply crunch",
-      "url": "/content/cf84dde3-9020-4ee7-a6d0-2809863da2d8"
-    },
-    {
-      "text": "Germany agrees \u20ac8bn bailout of struggling energy group Uniper",
-      "url": "/content/7c9fdaae-18d6-47af-912f-646c5ce45f42"
-    },
-    {
-      "text": "",
-      "url": "/content/857ee467-c920-4ba0-b915-684e0afbf594"
-    },
-    {
-      "text": "War in Ukraine",
-      "url": "https://www.ft.com/war-in-ukraine"
+      "text": "Trump was glued to Fox News as January 6 riot unfolded, committee hears",
+      "url": "/content/d7788f29-7278-4a22-8507-6c82a2d7d99f"
     },
     {
       "text": "Captured nuclear plant doubles as launch pad for Russian rocket attacks",
       "url": "/content/857ee467-c920-4ba0-b915-684e0afbf594"
     },
     {
-      "text": "Town of Nikopol is being targeted by missiles fired from the site of the giant Zaporizhia atomic power facility",
-      "url": "/content/857ee467-c920-4ba0-b915-684e0afbf594"
+      "text": "Spain blasts EU plan to slash gas use as bloc\u2019s solidarity tested  ",
+      "url": "/content/cf84dde3-9020-4ee7-a6d0-2809863da2d8"
     },
     {
       "text": "",
-      "url": "/content/d2f24d49-cd22-41e9-8861-b81ddded8dbc"
+      "url": "/content/e9a3237a-514e-48b7-8451-fc4df50905f0"
     },
     {
-      "text": "Cryptocurrencies",
-      "url": "https://www.ft.com/stream/b564e2c2-40f1-4d00-b3cf-6fdacbf9ab6c"
+      "text": "Accounting & Consulting services",
+      "url": "https://www.ft.com/accounting-consulting-services"
     },
     {
-      "text": "Cryptofinance. Digital asset groups rush to scoop up crypto registrations in Europe",
-      "url": "/content/d2f24d49-cd22-41e9-8861-b81ddded8dbc"
+      "text": "Carmine Di Sibio: The EY boss planning the most radical Big Four split in a generation",
+      "url": "/content/e9a3237a-514e-48b7-8451-fc4df50905f0"
     },
     {
-      "text": "A newsletter with intelligence on what\u2019s happening in digital finance and why it matters ",
-      "url": "/content/d2f24d49-cd22-41e9-8861-b81ddded8dbc"
-    },
-    {
-      "text": "China reckons with its first overseas debt crisis",
-      "url": "/content/ccbe2b80-0c3e-4d58-a182-8728b443df9a"
-    },
-    {
-      "text": "ECB raises rates for first time in more than a decade",
-      "url": "/content/42b002c0-434e-4688-bdb7-33e0a7c2323f"
-    },
-    {
-      "text": "HSBC installs Communist party committee in Chinese investment bank",
-      "url": "/content/eac99fd9-0c30-4141-821a-45348f61c113"
-    },
-    {
-      "text": "The secret to honest feedback that actually works",
-      "url": "/content/a681ac3c-73b8-459b-843c-0d796f15020e"
-    },
-    {
-      "text": "MI6 chief says Russia \u2018about to run out of steam\u2019 in Ukraine",
-      "url": "/content/ecfc3ad1-4291-4609-b137-230a556fc990"
+      "text": "Break-up of the firm\u2019s audit and advisory businesses would reshape the accounting industry",
+      "url": "/content/e9a3237a-514e-48b7-8451-fc4df50905f0"
     },
     {
       "text": "",
-      "url": "/content/551d92eb-5bb3-4d79-9d1c-ca1168eca769"
+      "url": "/content/3703d4cc-4071-4f05-a885-b1d273f7766c"
     },
     {
-      "text": "Liz Cheney",
-      "url": "https://www.ft.com/stream/427c7c02-e3f1-3915-b5ca-9f68130de7d6"
+      "text": "UK politics & policy",
+      "url": "https://www.ft.com/world/uk/politics"
     },
     {
-      "text": "\u2018Star of the show\u2019: how Liz Cheney led the charge against Donald Trump",
-      "url": "/content/551d92eb-5bb3-4d79-9d1c-ca1168eca769"
+      "text": "Liz Truss vows to review all EU law on British statute",
+      "url": "/content/3703d4cc-4071-4f05-a885-b1d273f7766c"
     },
     {
-      "text": "January 6 committee vice-chair has played a crucial role in denting support for the former US president",
-      "url": "/content/551d92eb-5bb3-4d79-9d1c-ca1168eca769"
+      "text": "UK leadership contender promised \u2018red tape bonfire\u2019 of trade rules if she becomes prime minister",
+      "url": "/content/3703d4cc-4071-4f05-a885-b1d273f7766c"
     },
     {
-      "text": "Trump was glued to Fox News as January 6 riot unfolded, committee hears",
-      "url": "/content/d7788f29-7278-4a22-8507-6c82a2d7d99f"
+      "text": " opinion content.\u00a0Conservative leadership rivals square up for a summer of sparring",
+      "url": "/content/a0459986-a8a7-48f2-93b8-3ff379d34339"
     },
     {
-      "text": "",
-      "url": "/content/9d78750c-ebb4-4bb3-87cf-23c97b167fb5"
-    },
-    {
-      "text": "Conservative Party UK",
-      "url": "https://www.ft.com/conservative-party-uk"
-    },
-    {
-      "text": "Rishi Sunak refuses to match Liz Truss on tax cuts",
-      "url": "/content/9d78750c-ebb4-4bb3-87cf-23c97b167fb5"
-    },
-    {
-      "text": "Former chancellor and foreign secretary trade policy blows as they vie for Tory leadership",
-      "url": "/content/9d78750c-ebb4-4bb3-87cf-23c97b167fb5"
+      "text": "Camilla Cavendish",
+      "url": "https://www.ft.com/camilla-cavendish"
     },
     {
       "text": "",
-      "url": "/content/31c59273-d04c-428a-80a5-d11c4c75a484"
+      "url": "/content/92a57ebf-1364-4ef0-af7a-ce7a02492ea3"
     },
     {
-      "text": "FC Barcelona",
-      "url": "https://www.ft.com/stream/da97236e-bcae-42e8-b13a-d27213223cf9"
+      "text": "Social Media",
+      "url": "https://www.ft.com/stream/03711791-2306-46a4-a5f5-1d79e57bd21d"
     },
     {
-      "text": "Barcelona seals further \u20ac300mn from US group Sixth Street",
-      "url": "/content/31c59273-d04c-428a-80a5-d11c4c75a484"
+      "text": "Twitter and Snap results send shudders through digital advertising market",
+      "url": "/content/92a57ebf-1364-4ef0-af7a-ce7a02492ea3"
     },
     {
-      "text": "Investment fund secures additional 15% of media rights as football club raises funding for summer signings",
-      "url": "/content/31c59273-d04c-428a-80a5-d11c4c75a484"
+      "text": "Weak earnings raise fears that inflation and interest rates are starting to hit social media companies",
+      "url": "/content/92a57ebf-1364-4ef0-af7a-ce7a02492ea3"
     },
     {
-      "text": "Sports rights to sports betting: what next for Blavatnik-backed DAZN?",
-      "url": "/content/0f3c28e1-7882-4532-a1f5-96b3bc15d3c4"
-    },
-    {
-      "text": "",
-      "url": "/content/a27170c3-7770-44ee-b23e-8281cebaa588"
-    },
-    {
-      "text": "Beazley PLC",
-      "url": "https://www.ft.com/stream/1e366dd4-8040-4371-a4d0-ad4452d7661b"
-    },
-    {
-      "text": "Insurer Beazley takes $193mn investment hit as markets sour",
-      "url": "/content/a27170c3-7770-44ee-b23e-8281cebaa588"
-    },
-    {
-      "text": "Lloyd\u2019s of London insurer\u2019s shares boosted by improved underwriting guidance",
-      "url": "/content/a27170c3-7770-44ee-b23e-8281cebaa588"
+      "text": "Fast fashion retailers end \u2018real pain\u2019 of free returns ",
+      "url": "/content/792c2893-4108-4faf-abf7-128b1aeda6c2"
     },
     {
       "text": "",
-      "url": "/content/bcc88757-1ce6-4510-b98a-eef1b8f4204b"
+      "url": "/content/e9f9f689-3032-4f65-9a5c-3fd2b0d09c79"
     },
     {
-      "text": "War in Ukraine",
-      "url": "https://www.ft.com/war-in-ukraine"
+      "text": "Coronavirus pandemic",
+      "url": "https://www.ft.com/coronavirus"
     },
     {
-      "text": "Pro-Putin biker gang rides into EU sanctions roadblock",
-      "url": "/content/bcc88757-1ce6-4510-b98a-eef1b8f4204b"
+      "text": "Covid-19 infections still rising in England, latest ONS data show",
+      "url": "/content/e9f9f689-3032-4f65-9a5c-3fd2b0d09c79"
     },
     {
-      "text": "Move against the Night Wolves is the latest measure targeting the Ukraine war\u2019s proponents and propagandists",
-      "url": "/content/bcc88757-1ce6-4510-b98a-eef1b8f4204b"
-    },
-    {
-      "text": "Japan sounds alarm over Russian and Chinese military co-operation",
-      "url": "/content/b0871d13-282d-4553-b4b9-d8f285326813"
+      "text": "Estimates find about one in 17 in England had virus in week to July 13, but trends elsewhere in UK are \u2018unclear\u2019",
+      "url": "/content/e9f9f689-3032-4f65-9a5c-3fd2b0d09c79"
     },
     {
       "text": "",
-      "url": "/content/55d45e64-1b23-47b6-8f48-2f68f9e9ba42"
+      "url": "/content/ab23e979-8e71-4d5c-85cd-98572d0aedc0"
     },
     {
-      "text": "Centrica PLC",
-      "url": "https://www.ft.com/stream/20fba04e-b2ef-4040-b264-27003217767a"
+      "text": "FTX Trading Ltd",
+      "url": "https://www.ft.com/stream/555b8eaf-51c0-4d66-bbf3-dfe5dd0bcaaf"
     },
     {
-      "text": "Top Centrica investors call on energy group to reinstate dividend",
-      "url": "/content/55d45e64-1b23-47b6-8f48-2f68f9e9ba42"
+      "text": "FTX in joint offer to buy Voyager Digital\u2019s assets",
+      "url": "/content/ab23e979-8e71-4d5c-85cd-98572d0aedc0"
     },
     {
-      "text": "Bringing back payout after two years would be sensitive given rising UK customer bills",
-      "url": "/content/55d45e64-1b23-47b6-8f48-2f68f9e9ba42"
+      "text": "Proposal by Sam Bankman-Fried\u2019s affiliates would offer accounts to customers of failed crypto group",
+      "url": "/content/ab23e979-8e71-4d5c-85cd-98572d0aedc0"
+    },
+    {
+      "text": " opinion content.\u00a0The Top Line. Kirkland & Ellis brings bankruptcy knowhow to crypto casualties ",
+      "url": "/content/f0ce15e2-af7a-41aa-adab-2402513ec7c3"
+    },
+    {
+      "text": "Sujeet Indap",
+      "url": "https://www.ft.com/stream/de97150d-d6e6-4b00-b998-491222d14376"
     },
     {
       "text": "",
-      "url": "/content/9baed03d-ce88-4023-a656-52e772d7864d"
+      "url": "/content/58d173b3-dc32-4a88-b36b-1f58fd396fa8"
     },
     {
-      "text": "Travel",
-      "url": "https://www.ft.com/travel"
+      "text": "European Central Bank",
+      "url": "https://www.ft.com/stream/60da3242-e372-44d6-8b46-b497ef106d88"
     },
     {
-      "text": "Bhutan\u2019s bold plan to introduce the world\u2019s highest tourist levy",
-      "url": "/content/9baed03d-ce88-4023-a656-52e772d7864d"
+      "text": "\u2018We are not offering forward guidance\u2019: ECB ditches policy that blocked earlier rate rise",
+      "url": "/content/58d173b3-dc32-4a88-b36b-1f58fd396fa8"
     },
     {
-      "text": "Himalayan kingdom will finally reopen borders in September \u2014 but with a \u2018sustainable development fee\u2019 of $200 per person per day",
-      "url": "/content/9baed03d-ce88-4023-a656-52e772d7864d"
+      "text": "Central bank hopes to regain credibility by removing protocol that was dictating decisions",
+      "url": "/content/58d173b3-dc32-4a88-b36b-1f58fd396fa8"
     },
     {
-      "text": "India elects president from tribal group for first time",
-      "url": "/content/b34ccc3d-4f2d-4cff-9762-a651ea001022"
+      "text": " opinion content.\u00a0The Long View. Markets will test the ECB\u2019s resolve",
+      "url": "/content/a9851c45-f2bb-4e00-9a8a-000038308f0e"
+    },
+    {
+      "text": "Katie Martin",
+      "url": "https://www.ft.com/katie-martin"
+    },
+    {
+      "text": "",
+      "url": "/content/7556b140-6002-4f87-894f-3a08b064ce7a"
+    },
+    {
+      "text": "Starbucks Corp",
+      "url": "https://www.ft.com/stream/8deb351d-4c02-40ce-aada-54004dd33dfc"
+    },
+    {
+      "text": "Howard Schultz seeks to bring Starbucks back up to full strength",
+      "url": "/content/7556b140-6002-4f87-894f-3a08b064ce7a"
+    },
+    {
+      "text": "The coffee chain\u2019s founder is pinning his growth hopes on the US and China while a question mark hangs over the UK ",
+      "url": "/content/7556b140-6002-4f87-894f-3a08b064ce7a"
     },
     {
       "text": "Opinion",
       "url": "/opinion"
     },
     {
-      "text": " opinion content.\u00a0Planting trees is not a panacea \u2014 we need to save existing forests",
-      "url": "/content/40498048-da55-40df-883d-20e61dbe6895"
+      "text": " opinion content.\u00a0The dishonourable history of honouring a PM\u2019s acolytes",
+      "url": "/content/589a3007-7e96-4a36-b8d6-3a21649d50b3"
     },
     {
-      "text": "Stopping deforestation is complicated but more important than making pledges that have mixed results",
-      "url": "/content/40498048-da55-40df-883d-20e61dbe6895"
-    },
-    {
-      "text": "Henry Paulson",
-      "url": "https://www.ft.com/stream/44d53b83-0a22-4677-8715-fa9b7b1cef07"
+      "text": "Boris Johnson should beware the scandal that accompanied Harold Wilson\u2019s Lavender List of knights and peers",
+      "url": "/content/589a3007-7e96-4a36-b8d6-3a21649d50b3"
     },
     {
       "text": "",
-      "url": "/content/40498048-da55-40df-883d-20e61dbe6895"
+      "url": "/content/589a3007-7e96-4a36-b8d6-3a21649d50b3"
     },
     {
-      "text": " opinion content.\u00a0The semiconductor chip pendulum is slowly swinging west",
-      "url": "/content/1dd8a704-9412-4f6c-a7c2-80ab171b026d"
+      "text": " opinion content.\u00a0Climate change has brought new dangers for firefighters",
+      "url": "/content/54020801-5298-4710-8b6a-5d5d97aa7560"
     },
     {
-      "text": "Gillian Tett",
-      "url": "https://www.ft.com/gillian-tett"
+      "text": "The heatwave has seeded wildfires on a scale we have never experienced in the UK before",
+      "url": "/content/54020801-5298-4710-8b6a-5d5d97aa7560"
     },
     {
-      "text": " opinion content.\u00a0New rules are needed for a diminished UK economy ",
-      "url": "/content/20129a92-45c3-4518-80b6-63d39c6b4aae"
+      "text": "John Roberts",
+      "url": "https://www.ft.com/stream/3c0152d9-3945-4bb2-8409-c1ecb1fe7a79"
     },
     {
-      "text": "Chris Giles",
-      "url": "https://www.ft.com/chris-giles"
+      "text": " opinion content.\u00a0The future of space exploration belongs to robots and billionaires",
+      "url": "/content/8025156f-5e82-4f14-b195-66fd08195002"
     },
     {
-      "text": " opinion content.\u00a0Data Points. Chronic illness makes UK workforce the sickest in developed world",
-      "url": "/content/c333a6d8-0a56-488c-aeb8-eeb1c05a34d2"
+      "text": "Martin Rees",
+      "url": "https://www.ft.com/stream/5ed20f90-d216-4d4a-b374-e97f3374338f"
     },
     {
-      "text": "John Burn-Murdoch",
-      "url": "https://www.ft.com/stream/e191658e-c66a-45bc-9bad-343bdc4210b3"
+      "text": " opinion content.\u00a0Lex. Births outside marriage: ring the changes",
+      "url": "/content/7c72f961-c42f-4a37-828f-341e594c8eeb"
     },
     {
-      "text": " opinion content.\u00a0Britain must raise its defences against weaponised finance",
-      "url": "/content/9e1a37ea-2afd-46a1-bd81-ba24e6961578"
+      "text": " opinion content.\u00a0On Wall Street. Jane Fraser keeps Citigroup out of harm\u2019s way \u2014 for now",
+      "url": "/content/a7bc7cba-38b2-4313-b915-7a1015577237"
     },
     {
-      "text": "Tom Keatinge",
-      "url": "https://www.ft.com/stream/b7b538f5-9637-3909-ac71-aaafa84c8467"
+      "text": "Gary Silverman",
+      "url": "https://www.ft.com/gary-silverman"
     },
     {
-      "text": " opinion content.\u00a0Inside Business. Big tech hits the pause button on hiring",
-      "url": "/content/9e0185eb-66d9-4686-afe2-e7b1d12b4920"
+      "text": " opinion content.\u00a0Twitter\u2019s problem is that it is fighting the wrong Musk persona",
+      "url": "/content/91660a81-0f07-4a5d-934d-0cd4effc4d74"
     },
     {
-      "text": "Richard Waters",
-      "url": "https://www.ft.com/richard-waters"
+      "text": "Elaine Moore",
+      "url": "https://www.ft.com/elaine-moore"
     },
     {
-      "text": " opinion content.\u00a0Instant Insight. The ECB reminds everyone who really has the authority",
-      "url": "/content/3f1e6cb3-1a63-412e-bb1f-a8624760fd86"
+      "text": " opinion content.\u00a0The FT View. The ECB arms itself against bond market pessimism ",
+      "url": "/content/aed7b9f8-87d3-4da4-83af-a476a8c2b850"
     },
     {
-      "text": "Martin Sandbu",
-      "url": "https://www.ft.com/martin-sandbu"
+      "text": "The editorial board",
+      "url": "https://www.ft.com/ft-view"
+    },
+    {
+      "text": " opinion content.\u00a0The Fed must emulate the tactics of Volcker\u2019s fight against inflation ",
+      "url": "/content/b82082c9-d26a-47a5-8b1a-34121f572645"
+    },
+    {
+      "text": "Sheila Bair",
+      "url": "https://www.ft.com/stream/7e123ef0-c152-48bf-8008-3d96ed06978a"
     },
     {
       "text": "The FT View",
@@ -13595,72 +13761,56 @@
       "url": "https://www.ft.com/lex"
     },
     {
-      "text": "Inside Business",
-      "url": "https://www.ft.com/companies/inside-business"
+      "text": "Unhedged",
+      "url": "https://www.ft.com/unhedged"
     },
     {
       "text": "Markets Insight",
       "url": "https://www.ft.com/markets/insight"
     },
     {
-      "text": "Global Insight",
-      "url": "https://www.ft.com/world/global-insight"
-    },
-    {
-      "text": "Unhedged",
-      "url": "https://www.ft.com/unhedged"
-    },
-    {
-      "text": "The Top Line",
-      "url": "https://www.ft.com/companies/the-top-line"
+      "text": "Inside Business",
+      "url": "https://www.ft.com/companies/inside-business"
     },
     {
       "text": "UK News",
       "url": "/world/uk"
     },
     {
-      "text": " opinion content.\u00a0The rising risk of \u2018audit orphans\u2019 in a dysfunctional UK market",
-      "url": "/content/b70244b3-2585-49a0-beb4-973fb9faef47"
+      "text": "Number of UK mothers in work reaches highest level for 20 years ",
+      "url": "/content/ae550d38-084e-4949-8497-e8b841a2b62b"
     },
     {
-      "text": "Regulator Sir Jon Thompson flags the increasing chance that a large listed company is left without an auditor",
-      "url": "/content/b70244b3-2585-49a0-beb4-973fb9faef47"
-    },
-    {
-      "text": "Helen Thomas",
-      "url": "https://www.ft.com/helen-thomas"
+      "text": "Three in four women with children are in jobs, showing pandemic pressures did not force women out of labour market",
+      "url": "/content/ae550d38-084e-4949-8497-e8b841a2b62b"
     },
     {
       "text": "",
-      "url": "/content/b70244b3-2585-49a0-beb4-973fb9faef47"
+      "url": "/content/ae550d38-084e-4949-8497-e8b841a2b62b"
+    },
+    {
+      "text": "UK business secretary defers Tata steelworks decision to next prime minister",
+      "url": "/content/a2236a63-f829-4c36-b65f-ad03944eb66f"
+    },
+    {
+      "text": "High UK inflation hits sales, confidence and activity",
+      "url": "/content/ec8c3bfb-5473-4776-b483-f0a531940c46"
+    },
+    {
+      "text": "Top Centrica investors call on energy group to reinstate dividend",
+      "url": "/content/55d45e64-1b23-47b6-8f48-2f68f9e9ba42"
+    },
+    {
+      "text": "EDF pushes UK government to alter Hinkley Point C penalty clauses",
+      "url": "/content/cb715de2-1c95-4a13-8b48-33717b1dcc44"
+    },
+    {
+      "text": "How Liz Truss went from also-ran to frontrunner in Tory leadership race",
+      "url": "/content/54ad37e8-addc-40cd-99e3-4969c2482546"
     },
     {
       "text": "Experts cast doubts over UK\u2019s first rare earths processing site",
       "url": "/content/1ccd480b-4926-45ca-b70a-bd8ba3058d10"
-    },
-    {
-      "text": "Who are the Tory party members picking the next UK prime minister? ",
-      "url": "/content/1454fe21-5b2e-459c-966c-65fd48d52f8f"
-    },
-    {
-      "text": " opinion content.\u00a0Data Points. Chronic illness makes UK workforce the sickest in developed world",
-      "url": "/content/c333a6d8-0a56-488c-aeb8-eeb1c05a34d2"
-    },
-    {
-      "text": "John Burn-Murdoch",
-      "url": "https://www.ft.com/stream/e191658e-c66a-45bc-9bad-343bdc4210b3"
-    },
-    {
-      "text": "SFO head criticised for failings that denied defendant fair trial",
-      "url": "/content/1703c733-044b-4992-9e42-bd2c8d22db2d"
-    },
-    {
-      "text": "No 10 accused of \u2018reheating\u2019 deals for cost of living campaign",
-      "url": "/content/78b9dd92-f98a-4c2d-85f0-51e8fbbe2f1b"
-    },
-    {
-      "text": "First use of UK law to ban foreign deal marks \u2018stark\u2019 trend, warns ex-minister ",
-      "url": "/content/dee8c799-0bbb-4869-96c2-4a733e72bd83"
     },
     {
       "text": "UK Business & Economy",
@@ -13696,11 +13846,19 @@
     },
     {
       "text": "",
-      "url": "/content/384675c9-c239-4a9b-a6d3-d71fef01c89e"
+      "url": "/content/086619c0-cb75-495e-bab6-d47aa0d2e94f"
     },
     {
-      "text": "FT News Briefing. ECB raises rates amid Italian turmoil",
-      "url": "/content/384675c9-c239-4a9b-a6d3-d71fef01c89e"
+      "text": "FT Weekend podcast. Why are tennis players fixing matches?",
+      "url": "/content/086619c0-cb75-495e-bab6-d47aa0d2e94f"
+    },
+    {
+      "text": "",
+      "url": "/content/4f5b2e22-24e9-4ac2-9413-2748876c6f39"
+    },
+    {
+      "text": "Payne's Politics. Head-to-head - Sunak and Truss fight it out to be Tory leader and PM",
+      "url": "/content/4f5b2e22-24e9-4ac2-9413-2748876c6f39"
     },
     {
       "text": "",
@@ -13717,14 +13875,6 @@
     {
       "text": "Behind the Money. Are big corporate profits to blame for inflation?",
       "url": "/content/4408a47a-6a63-4e7b-9c8f-d608aca5816b"
-    },
-    {
-      "text": "",
-      "url": "/content/1a359aa8-0cc7-476c-86a2-fc787501cc5a"
-    },
-    {
-      "text": "Working It. Sport\u2019s leadership lessons: Machismo or real skills?",
-      "url": "/content/1a359aa8-0cc7-476c-86a2-fc787501cc5a"
     },
     {
       "text": "Life & Arts",
@@ -13768,63 +13918,63 @@
     },
     {
       "text": "",
-      "url": "/content/7ec953c9-3ac3-4720-9182-c5458b1c05fd"
+      "url": "/content/99e6f985-9946-43a6-9364-525c3cba01af"
     },
     {
-      "text": "House & Home",
-      "url": "https://www.ft.com/house-home"
+      "text": "Photography",
+      "url": "https://www.ft.com/stream/06046375-e5c4-4894-9397-2cb3969e0f5b"
     },
     {
-      "text": "Hello, folly! A 21st-century take on an 18th-century oddity",
-      "url": "/content/7ec953c9-3ac3-4720-9182-c5458b1c05fd"
-    },
-    {
-      "text": "",
-      "url": "/content/ecc84493-9fcb-402a-bbe4-7e9d6bf69e06"
-    },
-    {
-      "text": "History books",
-      "url": "https://www.ft.com/stream/4de196d9-27ab-4b78-afa9-e526de04a884"
-    },
-    {
-      "text": "Review. The Wrath to Come \u2014 American myths and white supremacism",
-      "url": "/content/ecc84493-9fcb-402a-bbe4-7e9d6bf69e06"
+      "text": "FT Magazine. What Dana Lixenberg was thinking when she photographed Tupac, Ivana Trump, Kathleen Turner and more",
+      "url": "/content/99e6f985-9946-43a6-9364-525c3cba01af"
     },
     {
       "text": "",
-      "url": "/content/4dacb843-18ae-44de-ad94-bf3948abd4dc"
+      "url": "/content/00a91061-33fd-4c54-9419-c1f3eba66d7e"
     },
     {
-      "text": "Travel",
-      "url": "https://www.ft.com/travel"
+      "text": "Visual Arts",
+      "url": "https://www.ft.com/visual-arts"
     },
     {
-      "text": "How To Spend It In.... A beach-lover\u2019s guide to hidden Pembrokeshire",
-      "url": "/content/4dacb843-18ae-44de-ad94-bf3948abd4dc"
+      "text": "Lungiswa Gqunta at the Henry Moore Institute \u2014 subtly shocking sculptures",
+      "url": "/content/00a91061-33fd-4c54-9419-c1f3eba66d7e"
     },
     {
       "text": "",
-      "url": "/content/faa7923f-eba4-41e8-ad79-e7f2cf499594"
+      "url": "/content/aa3bece5-a3b8-475f-a8f9-bd8b0160b733"
+    },
+    {
+      "text": "Wine",
+      "url": "https://www.ft.com/wine"
+    },
+    {
+      "text": " opinion content.\u00a0FT Magazine. A hasty investigation into very pricey burgundies",
+      "url": "/content/aa3bece5-a3b8-475f-a8f9-bd8b0160b733"
+    },
+    {
+      "text": "",
+      "url": "/content/19b2cbcf-4db2-4f7c-ba36-94270de66989"
+    },
+    {
+      "text": "Books",
+      "url": "https://www.ft.com/books"
+    },
+    {
+      "text": "Review. The best books of the week",
+      "url": "/content/19b2cbcf-4db2-4f7c-ba36-94270de66989"
+    },
+    {
+      "text": "",
+      "url": "/content/1744809a-acb0-4691-bba5-21527d8dc544"
     },
     {
       "text": "Music",
       "url": "https://www.ft.com/music"
     },
     {
-      "text": "Review. Best new album releases of the week ",
-      "url": "/content/faa7923f-eba4-41e8-ad79-e7f2cf499594"
-    },
-    {
-      "text": "",
-      "url": "/content/957c9372-cbb9-4fd3-b999-d1b2685f0b31"
-    },
-    {
-      "text": "Film",
-      "url": "https://www.ft.com/film"
-    },
-    {
-      "text": "Interview. Iranian director Panah Panahi: \u2018I don\u2019t feel like a film-maker in my own country yet\u2019",
-      "url": "/content/957c9372-cbb9-4fd3-b999-d1b2685f0b31"
+      "text": "Review. Haim at the O2 Arena \u2014 buoyant show with a megastar cameo",
+      "url": "/content/1744809a-acb0-4691-bba5-21527d8dc544"
     },
     {
       "text": "Video",
@@ -13891,12 +14041,20 @@
       "url": "https://ig.ft.com/rebuilding-one-street-in-ukraine"
     },
     {
-      "text": "FT Magazine. SCOTUS\u2019 lurching to the extreme right \u2014 a live discussion",
-      "url": "https://twitter.com/i/spaces/1ypKdEdRZyQGW"
+      "text": "Scoreboard. Chelsea\u2019s American revolution takes shape",
+      "url": "/content/16f7533c-5423-4513-9001-94660e2cf983"
     },
     {
-      "text": "Explainer. Spread betting: how will the ECB\u2019s new bond-buying tool work?",
-      "url": "/content/c5499acd-0271-458d-8363-9e75633399ee"
+      "text": "Bhutan\u2019s bold plan to introduce the world\u2019s highest tourist levy",
+      "url": "/content/9baed03d-ce88-4023-a656-52e772d7864d"
+    },
+    {
+      "text": "Cryptofinance. Digital asset groups rush to scoop up crypto registrations in Europe",
+      "url": "/content/d2f24d49-cd22-41e9-8861-b81ddded8dbc"
+    },
+    {
+      "text": "FT Magazine. SCOTUS\u2019 lurching to the extreme right \u2014 a live discussion",
+      "url": "https://twitter.com/i/spaces/1ypKdEdRZyQGW"
     },
     {
       "text": "Why ending favouritism is the key to building a diverse workforce",
@@ -13905,14 +14063,6 @@
     {
       "text": "Sleep sounds wake-up call for business",
       "url": "/content/99946ccd-72d0-463a-a6e3-dc7b9944c723"
-    },
-    {
-      "text": "Cryptofinance. What\u2019s next after the crypto market crash? Q&A",
-      "url": "/content/f1f3197f-4e33-4dc1-99ea-1a13d765efd6"
-    },
-    {
-      "text": "The Henry Mance Interview. Corinne Le Qu\u00e9r\u00e9: \u2018Could we just adapt to climate change? The answer is no\u2019",
-      "url": "/content/94475cf3-df95-41bf-bef4-06e76a4df7df"
     },
     {
       "text": "Moral Money",
@@ -13947,16 +14097,24 @@
       "url": "/markets"
     },
     {
+      "text": " markets content.\u00a0Markets Briefing. Government bonds rally as weak business surveys darken outlook",
+      "url": "/content/7258ec8d-3a3d-4fe2-a390-daeb12bb3b42"
+    },
+    {
+      "text": "Wall Street equities slide after reports show contraction in US and eurozone business activity",
+      "url": "/content/7258ec8d-3a3d-4fe2-a390-daeb12bb3b42"
+    },
+    {
+      "text": "",
+      "url": "/content/7258ec8d-3a3d-4fe2-a390-daeb12bb3b42"
+    },
+    {
       "text": "Pakistan\u2019s rupee falls fast as default fears intensify",
       "url": "/content/31f9fbd5-996a-4c24-8c5d-3fcf824c0d93"
     },
     {
-      "text": "Currency posts worst week in more than two decades amid concerns IMF deal will not avert crisis",
-      "url": "/content/31f9fbd5-996a-4c24-8c5d-3fcf824c0d93"
-    },
-    {
-      "text": "",
-      "url": "/content/31f9fbd5-996a-4c24-8c5d-3fcf824c0d93"
+      "text": "Cryptofinance. Digital asset groups rush to scoop up crypto registrations in Europe",
+      "url": "/content/d2f24d49-cd22-41e9-8861-b81ddded8dbc"
     },
     {
       "text": "EU lawmaker calls for ban on \u2018payment for order flow\u2019",
@@ -13973,14 +14131,6 @@
     {
       "text": "Calpers records first loss since 2009 in \u2018tumultuous\u2019 markets",
       "url": "/content/86e6180e-3de2-4c1d-9033-fc4b058a2983"
-    },
-    {
-      "text": "Phantom surge in Berkshire trading caused by brokers such as Robinhood",
-      "url": "/content/71c40c08-9298-4324-a2b7-975fe68a6a49"
-    },
-    {
-      "text": "Russia resumes partial gas flows to Europe through Nord Stream 1  ",
-      "url": "/content/914f61fd-da0e-4e7a-9cbb-5fc4096bbff6"
     },
     {
       "text": "Alphaville",
@@ -14027,20 +14177,36 @@
       "url": "/technology"
     },
     {
-      "text": " opinion content.\u00a0Lex. Amazon: how ecommerce group became the world\u2019s third largest digital advertising player\u00a0",
-      "url": "/content/dd3ab99e-6d7a-4258-8759-03655af21146"
+      "text": "Airbnb hires former White House press secretary Jay Carney from Amazon",
+      "url": "/content/71345e19-c06e-47e7-a63d-47cf76ed98ff"
     },
     {
-      "text": "The group\u2019s share price fall ignores the speed with which its advertising business is growing",
-      "url": "/content/dd3ab99e-6d7a-4258-8759-03655af21146"
+      "text": "Departure marks the latest in a number of recent exits from the ecommerce group",
+      "url": "/content/71345e19-c06e-47e7-a63d-47cf76ed98ff"
     },
     {
       "text": "",
-      "url": "/content/dd3ab99e-6d7a-4258-8759-03655af21146"
+      "url": "/content/71345e19-c06e-47e7-a63d-47cf76ed98ff"
     },
     {
-      "text": "The Weekend Essay. Inside Ukraine\u2019s open-source war",
-      "url": "/content/297d3300-1a65-4793-982b-1ba2372241a3"
+      "text": "#techFT. Meta fiddles while social burns",
+      "url": "/content/75d3076f-d671-4a7d-9ca4-926f657329f1"
+    },
+    {
+      "text": " opinion content.\u00a0Twitter\u2019s problem is that it is fighting the wrong Musk persona",
+      "url": "/content/91660a81-0f07-4a5d-934d-0cd4effc4d74"
+    },
+    {
+      "text": "Elaine Moore",
+      "url": "https://www.ft.com/elaine-moore"
+    },
+    {
+      "text": "Twitter blames Elon Musk and advertising slump for revenue miss",
+      "url": "/content/9d85b78f-070f-4de6-a62d-95a1bf7b08ab"
+    },
+    {
+      "text": " opinion content.\u00a0Lex. Amazon: how ecommerce group became the world\u2019s third largest digital advertising player\u00a0",
+      "url": "/content/dd3ab99e-6d7a-4258-8759-03655af21146"
     },
     {
       "text": "Astroscale: on a mission to clean up space junk",
@@ -14049,26 +14215,6 @@
     {
       "text": "#techFT. One Medical deal is just what Amazon\u2019s doctor ordered",
       "url": "/content/a8ad569d-84d2-4847-b4dc-e8d87cc2ed09"
-    },
-    {
-      "text": "First use of UK law to ban foreign deal marks \u2018stark\u2019 trend, warns ex-minister ",
-      "url": "/content/dee8c799-0bbb-4869-96c2-4a733e72bd83"
-    },
-    {
-      "text": " opinion content.\u00a0Inside Business. Big tech hits the pause button on hiring",
-      "url": "/content/9e0185eb-66d9-4686-afe2-e7b1d12b4920"
-    },
-    {
-      "text": "Richard Waters",
-      "url": "https://www.ft.com/richard-waters"
-    },
-    {
-      "text": " opinion content.\u00a0The semiconductor chip pendulum is slowly swinging west",
-      "url": "/content/1dd8a704-9412-4f6c-a7c2-80ab171b026d"
-    },
-    {
-      "text": "Gillian Tett",
-      "url": "https://www.ft.com/gillian-tett"
     },
     {
       "text": "#techFT",
@@ -14107,8 +14253,8 @@
       "url": "https://live.ft.com"
     },
     {
-      "text": "Moral Money Summit Asia",
-      "url": "https://moralmoneyasia.live.ft.com/?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
+      "text": "FTWeekend Festival ",
+      "url": "https://ukftweekendfestival.live.ft.com/?segmentId=7f74b57b-420b-2e36-b8e4-b73badaee50d"
     },
     {
       "text": "Women In Business Forum",
@@ -14153,10 +14299,6 @@
     {
       "text": "Terms & Conditions",
       "url": "http://help.ft.com/help/legal-privacy/terms-conditions/"
-    },
-    {
-      "text": "Do Not Sell My Info",
-      "url": "https://www.ft.com/preferences/privacy-ccpa?legislation=ccpa&legislation=gdpr&referrer=www.ft.com"
     },
     {
       "text": "Privacy Policy",
@@ -14691,8 +14833,8 @@
       "url": "/login?location=/"
     }
   ],
-  "item_last_updated": 1658518163,
-  "item_size": 127163235,
+  "item_last_updated": 1658585212,
+  "item_size": 128515826,
   "metadata": {
     "identifier": "ft-2022",
     "collection": [
@@ -14709,10 +14851,10 @@
     "publicdate": "2022-03-23 08:03:16",
     "addeddate": "2022-03-23 08:03:16"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 786838800,
+  "server": "ia902502.us.archive.org",
+  "uniq": 706734638,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

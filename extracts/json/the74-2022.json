@@ -1,5 +1,5 @@
 {
-  "created": 1658538439,
+  "created": 1658611742,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/the74-2022",
@@ -1138,31 +1138,115 @@
       "sha1": "2f2a8cbf91e9f9b7bce6e9b55f8f9f5bd05958ec"
     },
     {
+      "name": "the74-2022-07-23T00:24:20.034731-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658550264",
+      "size": "30955",
+      "md5": "c9bef4907e6ed0d02c2485a3815bcfe2",
+      "crc32": "0ec58a00",
+      "sha1": "93d53dac10af74b6f0c2d3a1477351f571ad2c3d",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-23T00:24:20.034731-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658550266",
+      "size": "69321",
+      "md5": "efd2e05fb633e08bb6feaa724595169c",
+      "crc32": "9da8f721",
+      "sha1": "2aa34f42653d42ae52e383160ad3043cc60e40b4",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-23T00:24:20.034731-04:00.jpg",
+      "source": "original",
+      "mtime": "1658550262",
+      "size": "257921",
+      "md5": "4dc6a38480e940eb143a1b54f8e33883",
+      "crc32": "a92dc0ca",
+      "sha1": "858fa62f4496ed73ae93949e93095c24e631db84",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the74-2022-07-23T00:24:20.034731-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the74-2022-07-23T00:24:20.034731-04:00.jpg",
+      "mtime": "1658554037",
+      "size": "9624",
+      "md5": "5c2d97a40682d069a600c430e8f45f8b",
+      "crc32": "8fe8b48d",
+      "sha1": "71b768a06b1445aeee11b430b1a2c30ff39e29d8"
+    },
+    {
+      "name": "the74-2022-07-23T12:04:00.661169-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658592245",
+      "size": "30995",
+      "md5": "6e7416a1f1366b3caeb9ca6da59ed2ae",
+      "crc32": "da035b85",
+      "sha1": "626af4bb1f9f199ad70ef184ad1c64766f0a0d22",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-23T12:04:00.661169-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658592247",
+      "size": "69157",
+      "md5": "a774041ab5d26f20a6737e8c220b49a3",
+      "crc32": "ae786b8e",
+      "sha1": "1bf02d12cccf5aa439f972c6de1c2ea3c295f897",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-07-23T12:04:00.661169-04:00.jpg",
+      "source": "original",
+      "mtime": "1658592243",
+      "size": "258635",
+      "md5": "891f7a6dad8eb0039d4ff9c638c2a797",
+      "crc32": "6c587a43",
+      "sha1": "865d9a02361d5dddc6cccdd23a3bd9d431cf72df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the74-2022-07-23T12:04:00.661169-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the74-2022-07-23T12:04:00.661169-04:00.jpg",
+      "mtime": "1658592392",
+      "size": "9691",
+      "md5": "9430aba9af21bdfdfcefc3758783d712",
+      "crc32": "cb642ee3",
+      "sha1": "c0c581ffbd39f71a9cbeefa6e3874b48639e5945"
+    },
+    {
       "name": "the74-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a3125a6195ae2a68e528c5a76bb95facb8f98978",
-      "mtime": "1658524693",
-      "size": "23831",
-      "md5": "fafa4e8fb251fce15b8622b157e791b4",
-      "crc32": "3098d4c6",
-      "sha1": "96f1dca4201ab1f4023e1047b66d10a784300cc9",
+      "btih": "adef56d086b2412c6d9ddfde646d33a400179c1f",
+      "mtime": "1658592400",
+      "size": "25505",
+      "md5": "be1cdf14c9005bb89b5d478394277949",
+      "crc32": "5667e867",
+      "sha1": "9eec88b91d06c60c08dcf1090ab69948b013d0bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the74-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c665a4e53b18acac0134a4ddcde083db",
+      "md5": "2926d8bba3e7a6815bf872583a34f21d",
       "summation": "md5"
     },
     {
       "name": "the74-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658506608",
-      "size": "147456",
-      "md5": "252cc2352d1355eefc9720551d518597",
-      "crc32": "03c58cc9",
-      "sha1": "406e47338eb1aa8f69f7cc055bbc008c88ee3687",
+      "mtime": "1658592250",
+      "size": "155648",
+      "md5": "07fca7eb0ae0b0cd7b64bad9df86c8f8",
+      "crc32": "ce904c85",
+      "sha1": "bcd58a558b3d44b96f00f944e4f3dc7ad63722b6",
       "format": "Metadata"
     },
     {
@@ -1176,9 +1260,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 112,
-  "item_last_updated": 1658524693,
-  "item_size": 9915455,
+  "files_count": 120,
+  "item_last_updated": 1658592400,
+  "item_size": 10661620,
   "metadata": {
     "identifier": "the74-2022",
     "collection": [
@@ -1195,7 +1279,7 @@
     "publicdate": "2022-07-09 04:04:26",
     "addeddate": "2022-07-09 04:04:26"
   },
-  "server": "ia601506.us.archive.org",
+  "server": "ia801506.us.archive.org",
   "the74-2022": [
     {
       "text": "The 74",
@@ -1482,16 +1566,20 @@
       "url": "https://www.the74million.org/article/slave-money-paved-the-streets-now-this-posh-ri-city-strives-to-teach-its-past/"
     },
     {
-      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        EDlection 2022\n                    \n\n                                    \n                        2022 midterm elections\n                    \n                                                    \n                        EDlection2022\n                    \n                \n                Rash of New Polls Raises Red Flags for Democrats on Education\n                As confidence in public schools wanes, voters gravitate toward conservative classroom policies and see Democrats as out of touch\n\n                \n                                            Kevin Mahnken\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
-      "url": "https://www.the74million.org/article/rash-of-new-polls-raise-red-flags-for-democrats-on-education/"
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        4Fams\n                    \n\n                                    \n                        4Fams\n                    \n                                \n                When Grades and Test Scores Don\u2019t Add Up, Who Can Parents Trust?\n                Adams: Grade inflation has been a problem for decades. With COVID canceling standardized tests, it's gotten even worse\n\n                \n                                            Alina Adams\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/when-grades-and-test-scores-dont-add-up-who-can-parents-trust/"
     },
     {
-      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Pandemic Policy\n                    \n\n                                    \n                        covid\n                    \n                                                    \n                        COVID Policy Briefing\n                    \n                \n                COVID Classroom Recovery: California Has Spent Little to Address Learning Loss\n                A weekly roundup of headlines about how the pandemic is shaping schools and education policy, vetted by AEI Visiting Fellow John Bailey\n\n                \n                                            John Bailey\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
-      "url": "https://www.the74million.org/article/covid-classroom-recovery-california-has-spent-little-to-address-learning-loss/"
-    },
-    {
-      "text": "\n                                            \n                                                STEM                                            \n                                            North Dakota\u2019s Summer of STEM Is Attacking Learning Loss Head-On\n                                        ",
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        STEM\n                    \n\n                                    \n                        STEM\n                    \n                                \n                North Dakota\u2019s Summer of STEM Is Attacking Learning Loss Head-On\n                $200G in grants expand Gateway to Science camps and other offerings to reach 6,000 kids around the state, from the capital to rural areas\n\n                \n                                            Tim Newcomb\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
       "url": "https://www.the74million.org/article/north-dakotas-summer-of-stem-is-attacking-learning-loss-head-on/"
+    },
+    {
+      "text": "\n                                            \n                                                Iowa                                            \n                                            Iowa District: 5-Year-Old Refused to Wear Mask, Saying \u2018My Body, My Choice\u2019\n                                        ",
+      "url": "https://www.the74million.org/article/iowa-district-5-year-old-refused-to-wear-mask-saying-my-body-my-choice/"
+    },
+    {
+      "text": "\n                                            \n                                                Tribal Education                                            \n                                            Feds Award $7M for Tribal Language Programs\n                                        ",
+      "url": "https://www.the74million.org/article/feds-award-7m-for-tribal-language-programs/"
     },
     {
       "text": "\n                                            \n                                                Indiana                                            \n                                            Indiana Launches Grant Program for Special Education Students\n                                        ",
@@ -1502,12 +1590,12 @@
       "url": "https://www.the74million.org/article/wolf-administration-reveals-multi-year-plan-to-address-educator-workforce-shortage/"
     },
     {
-      "text": "\n                                            \n                                                4Fams                                            \n                                            When Grades and Test Scores Don\u2019t Add Up, Who Can Parents Trust?\n                                        ",
-      "url": "https://www.the74million.org/article/when-grades-and-test-scores-dont-add-up-who-can-parents-trust/"
-    },
-    {
       "text": "\n                                            \n                                                Florida                                            \n                                            Fl. Congressman Crist Goes After DeSantis\u2019 School System; Launches Platform\n                                        ",
       "url": "https://www.the74million.org/article/%ef%bf%bccrist-goes-after-desantis-public-school-system-launches-freedom-to-learn-policy-platform%ef%bf%bc/"
+    },
+    {
+      "text": "\n                                            \n                                                Pandemic Policy                                            \n                                            COVID Classroom Recovery: California Has Spent Little to Address Learning Loss\n                                        ",
+      "url": "https://www.the74million.org/article/covid-classroom-recovery-california-has-spent-little-to-address-learning-loss/"
     },
     {
       "text": "\n                                            \n                                                Oregon                                            \n                                            Oregon Spending $1.6 Million for Eastern College Equity Program\n                                        ",
@@ -1520,6 +1608,10 @@
     {
       "text": "\n                                            \n                                                Cincinnati                                            \n                                            ACLU Calls Out Cincinnati Schools, Police for \u2018Over-Policing,\u2019 Lack of Accountability\n                                        ",
       "url": "https://www.the74million.org/article/aclu-calls-out-cincinnati-schools-police-for-over-policing-lack-of-accountability/"
+    },
+    {
+      "text": "\n                                            \n                                                EDlection 2022                                            \n                                            Rash of New Polls Raises Red Flags for Democrats on Education\n                                        ",
+      "url": "https://www.the74million.org/article/rash-of-new-polls-raise-red-flags-for-democrats-on-education/"
     },
     {
       "text": "\n                                            \n                                                Pandemic                                            \n                                            7 Things We Learned About COVID\u2019s Impact on Education From Survey of 800 Schools\n                                        ",
@@ -1602,24 +1694,16 @@
       "url": "https://www.the74million.org/article/el-paso-teachers-to-see-largest-pay-raises-in-recent-years/"
     },
     {
-      "text": "\n                                            \n                                                Pandemic Policy                                            \n                                            U.S. Faces \u2018School Attendance and Graduation Crises\u2019\n                                        ",
-      "url": "https://www.the74million.org/article/u-s-faces-school-attendance-and-graduation-crises/"
-    },
-    {
-      "text": "\n                                            \n                                                Student Engagement                                            \n                                            Ed Dept. Announces New Push to Expand Afterschool and Summer Programs\n                                        ",
-      "url": "https://www.the74million.org/article/ed-dept-announces-new-push-to-expand-afterschool-and-summer-programs/"
-    },
-    {
       "text": "\n                                            \n                    \n                \n                        \n                                    \n                        First-Generation Students\n                    \n\n                                    \n                        college access\n                    \n                                \n                Russian Bombs Can\u2019t Keep Husband-Wife Team From College Access Mission\n                Through pandemic, relocation to Ukraine and escape to Poland, couple never stopped leveling the playing field for low-income, college-bound  students\n\n                \n                                            Brendan Lowe\n                                                                                                    \n\n                \n            \n        ",
       "url": "https://www.the74million.org/article/russian-bombs-cant-keep-husband-wife-team-from-college-access-mission/"
     },
     {
-      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Enrollment\n                    \n\n                                    \n                        CRPE\n                    \n                                \n                Enrollment Drops, Staff Shortages Cause Budget Whiplash for Top School Districts\n                Analysis: The contrasting trends underscore the pandemic\u2019s wildly variable impact on districts \u2014 and the key impact of enrollment on revenue\n\n                \n                                            Christine Pitts & Alvin Makori\n                                                                            \n\n                \n            \n        ",
-      "url": "https://www.the74million.org/article/enrollment-drops-staff-shortages-cause-budget-whiplash-for-top-school-districts/"
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Pandemic Policy\n                    \n\n                                    \n                        covid\n                    \n                                                    \n                        COVID Policy Briefing\n                    \n                \n                COVID Classroom Recovery: California Has Spent Little to Address Learning Loss\n                A weekly roundup of headlines about how the pandemic is shaping schools and education policy, vetted by AEI Visiting Fellow John Bailey\n\n                \n                                            John Bailey\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/covid-classroom-recovery-california-has-spent-little-to-address-learning-loss/"
     },
     {
-      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Student Discipline\n                    \n\n                                    \n                        Catherine Lhamon discipline\n                    \n                                \n                Feds to Schools: \u2018Redouble\u2019 Efforts to Keep Students with Disabilities in Class\n                New Ed Dept. discipline guidance warns against \u2018informal removals\u2019 and finds no evidence supporting restraint and seclusion to improve behavior\n\n                \n                                            Linda Jacobson\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
-      "url": "https://www.the74million.org/article/feds-urge-schools-to-redouble-efforts-to-keep-students-with-disabilities-in-class/"
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Enrollment\n                    \n\n                                    \n                        CRPE\n                    \n                                \n                Enrollment Drops, Staff Shortages Cause Budget Whiplash for Top School Districts\n                Analysis: The contrasting trends underscore the pandemic\u2019s wildly variable impact on districts \u2014 and the key impact of enrollment on revenue\n\n                \n                                            Christine Pitts & Alvin Makori\n                                                                            \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/enrollment-drops-staff-shortages-cause-budget-whiplash-for-top-school-districts/"
     },
     {
       "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Pandemic\n                    \n\n                                    \n                        absenteeism\n                    \n                                \n                7 Things We Learned About COVID\u2019s Impact on Education From Survey of 800 Schools\n                A series of surveys sent between January and May reveal how the pandemic has shaped absenteeism, student behavior, mental health and staffing problems\n\n                \n                                            Jasmine De Leon\n                                                                                                    \n\n                \n            \n        ",
@@ -1630,8 +1714,8 @@
       "url": "https://www.the74million.org/article/long-road-to-recovery-math-reading-scores-remain-below-pre-pandemic-levels/"
     },
     {
-      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        Union Report\n                    \n\n                                    \n                        Union Report\n                    \n                                                    \n                        Union Report\n                    \n                \n                AFT Convention Seemed More Transparent Than NEA\u2019s. But Looks Can Be Deceiving\n                There is no doubt AFT is focused on investing in public schools. The problem is that it wasn\u2019t so heavily focused on reopening schools in 2020 or 2021\n\n                \n                                            Mike Antonucci \n                                                                                                    \n\n                \n            \n        ",
-      "url": "https://www.the74million.org/article/aft-convention-seemed-more-transparent-than-neas-but-looks-can-be-deceiving/"
+      "text": "\n                                            \n                    \n                \n                        \n                                    \n                        EDlection 2022\n                    \n\n                                    \n                        2022 midterm elections\n                    \n                                                    \n                        EDlection2022\n                    \n                \n                Rash of New Polls Raises Red Flags for Democrats on Education\n                As confidence in public schools wanes, voters gravitate toward conservative classroom policies and see Democrats as out of touch\n\n                \n                                            Kevin Mahnken\n                                                    \n                                \n                            \n                                                                                                    \n\n                \n            \n        ",
+      "url": "https://www.the74million.org/article/rash-of-new-polls-raise-red-flags-for-democrats-on-education/"
     },
     {
       "text": "\n                                            \n                    \n                \n                        \n                                    \n                        First Person\n                    \n\n                                    \n                        absenteeism\n                    \n                                \n                Student Voice: Pandemic Attendance Crisis is About More Than COVID\n                When I was hospitalized, I learned about chronic absenteeism firsthand. It\u2019s not just a health issue. It\u2019s about lost friendships and burnout\n\n                \n                                            Andre Young\n                                                                                                    \n\n                \n            \n        ",
@@ -1802,8 +1886,12 @@
       "url": "https://www.the74million.org/article/million-dollar-records-request-from-covid-and-critical-race-theory-to-teachers-names-schools-minnesota-districts-flooded-with-freedom-of-information-document-demands/"
     },
     {
-      "text": "\n        \n        \n            STEM\n            North Dakota\u2019s Summer of STEM Is Attacking Learning Loss Head-On\n            \n                                    \n                        Tim Newcomb                                            \n                                            \n                            \n                        \n                                                                \n            July 22, 2022\n        \n    ",
-      "url": "https://www.the74million.org/article/north-dakotas-summer-of-stem-is-attacking-learning-loss-head-on/"
+      "text": "\n        \n        \n            Iowa\n            Iowa District: 5-Year-Old Refused to Wear Mask, Saying \u2018My Body, My Choice\u2019\n            \n                                    \n                        Clark Kauffman                        , Iowa Capital Dispatch                    \n                                                                \n            July 23, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/iowa-district-5-year-old-refused-to-wear-mask-saying-my-body-my-choice/"
+    },
+    {
+      "text": "\n        \n        \n            Tribal Education\n            Feds Award $7M for Tribal Language Programs\n            \n                                    \n                        Shaun Griswold                                            \n                                                                \n            July 22, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/feds-award-7m-for-tribal-language-programs/"
     },
     {
       "text": "\n        \n        \n            Indiana\n            Indiana Launches Grant Program for Special Education Students\n            \n                                    \n                        Casey Smith                        , Indiana Capital Chronicle                    \n                                                                \n            July 22, 2022\n        \n    ",
@@ -1828,6 +1916,14 @@
     {
       "text": "\n        \n        \n            Cincinnati\n            ACLU Calls Out Cincinnati Schools, Police for \u2018Over-Policing,\u2019 Lack of Accountability\n            \n                                    \n                        Susan  Tebben                        , Ohio Capital Journal                    \n                                                                \n            July 20, 2022\n        \n    ",
       "url": "https://www.the74million.org/article/aclu-calls-out-cincinnati-schools-police-for-over-policing-lack-of-accountability/"
+    },
+    {
+      "text": "\n        \n        \n            Student Discipline\n            Feds to Schools: \u2018Redouble\u2019 Efforts to Keep Students with Disabilities in Class\n            \n                                    \n                        Linda Jacobson                                            \n                                            \n                            \n                        \n                                                                \n            July 19, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/feds-urge-schools-to-redouble-efforts-to-keep-students-with-disabilities-in-class/"
+    },
+    {
+      "text": "\n        \n        \n            Union Report\n            AFT Convention Seemed More Transparent Than NEA\u2019s. But Looks Can Be Deceiving\n            \n                                    \n                        Mike Antonucci                                             \n                                                                \n            July 19, 2022\n        \n    ",
+      "url": "https://www.the74million.org/article/aft-convention-seemed-more-transparent-than-neas-but-looks-can-be-deceiving/"
     },
     {
       "text": "\n        \n        \n            Uvalde Shooting\n            Beyond Uvalde Parents\u2019 Anger, a Quest for Answers \u2014 and Accountability\n            \n                                    Uriel J. Garc\u00eda & Sneha Dey\n                                            \n            July 19, 2022\n        \n    ",
@@ -1868,18 +1964,6 @@
     {
       "text": "\n        \n        \n            El Paso\n            School Budget Case Study: 2022 Pay Raises & Stipends, $10 Million 2023 Deficit?\n            \n                                    \n                        Molly Smith                        ,  El Paso Matters                    \n                                                                \n            July 15, 2022\n        \n    ",
       "url": "https://www.the74million.org/article/el-paso-teachers-to-see-largest-pay-raises-in-recent-years/"
-    },
-    {
-      "text": "\n        \n        \n            Pandemic Policy\n            U.S. Faces \u2018School Attendance and Graduation Crises\u2019\n            \n                                    \n                        John Bailey                                            \n                                            \n                            \n                        \n                                                                \n            July 15, 2022\n        \n    ",
-      "url": "https://www.the74million.org/article/u-s-faces-school-attendance-and-graduation-crises/"
-    },
-    {
-      "text": "\n        \n        \n            Student Engagement\n            Ed Dept. Announces New Push to Expand Afterschool and Summer Programs\n            \n                                    \n                        Linda Jacobson                                            \n                                            \n                            \n                        \n                                                                \n            July 14, 2022\n        \n    ",
-      "url": "https://www.the74million.org/article/ed-dept-announces-new-push-to-expand-afterschool-and-summer-programs/"
-    },
-    {
-      "text": "\n        \n        \n            Idaho\n            $300 Million School Funding Item On Track For Idaho Ballot After 100K Signatures\n            \n                                    \n                        Clark Corbin                        , Idaho Capital Sun                    \n                                                                \n            July 14, 2022\n        \n    ",
-      "url": "https://www.the74million.org/article/reclaim-idaho-submits-100000-signatures-for-education-initiative-to-the-state-for-verification/"
     },
     {
       "text": "Load More",
@@ -2094,9 +2178,9 @@
       "url": "/terms-conditions"
     }
   ],
-  "uniq": 1275683051,
+  "uniq": 1931524062,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

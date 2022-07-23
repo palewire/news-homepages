@@ -1,5 +1,5 @@
 {
-  "created": 1658533599,
+  "created": 1658611227,
   "d1": "ia902206.us.archive.org",
   "d2": "ia802206.us.archive.org",
   "dir": "/20/items/guardian-2022",
@@ -12524,31 +12524,157 @@
       "sha1": "ab9c1dbcaac1173dabdded0be8f81b725940b938"
     },
     {
+      "name": "guardian-2022-07-23T03:27:31.879374+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658543255",
+      "size": "47033",
+      "md5": "5bc9ee907f8e7f7a3cdd47bdb4ec7f13",
+      "crc32": "7b776da3",
+      "sha1": "199d8d241df27f9ba758b8389d5801369d9da917",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-07-23T03:27:31.879374+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658543257",
+      "size": "100733",
+      "md5": "09ba9e1a298b73afd5160c0908ea32bf",
+      "crc32": "aef09f4a",
+      "sha1": "b6a7e2467b1eaca3e58a100b39868377a65e9d10",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-07-23T03:27:31.879374+01:00.jpg",
+      "source": "original",
+      "mtime": "1658543253",
+      "size": "376974",
+      "md5": "89edcba16effbc2cd4d1417e73b9e503",
+      "crc32": "fc1344f3",
+      "sha1": "52ee75c89b93443e88273bdc5616544c628156d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "guardian-2022-07-23T03:27:31.879374+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "guardian-2022-07-23T03:27:31.879374+01:00.jpg",
+      "mtime": "1658548717",
+      "size": "10563",
+      "md5": "27deec97332185a3f4c0650584344580",
+      "crc32": "03edfe16",
+      "sha1": "c3e992dc46a38c9af5acd1fde162b7aeb38bba27"
+    },
+    {
+      "name": "guardian-2022-07-23T10:06:19.000831+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658567183",
+      "size": "46038",
+      "md5": "240e7e3333f47d7c8eb8b94205568720",
+      "crc32": "f6fab0d1",
+      "sha1": "b0518268504d7ebe636b67ea020b956956a44938",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-07-23T10:06:19.000831+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658567184",
+      "size": "99997",
+      "md5": "4fd40c0bc00481b5cf27b468765dfaad",
+      "crc32": "2184c806",
+      "sha1": "16650bd7d662b2ae421db0dabcf5dd6a9a8924e3",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-07-23T10:06:19.000831+01:00.jpg",
+      "source": "original",
+      "mtime": "1658567181",
+      "size": "371628",
+      "md5": "9e80ec9ce1f7343501bae3e0ea06a939",
+      "crc32": "1552d61b",
+      "sha1": "61f4e7c823adecaeb9ed5afe7c7ba95c50e07ff3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "guardian-2022-07-23T10:06:19.000831+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "guardian-2022-07-23T10:06:19.000831+01:00.jpg",
+      "mtime": "1658567649",
+      "size": "10470",
+      "md5": "6fe353f7c4015202e254a56ecea04dee",
+      "crc32": "7cca92db",
+      "sha1": "1687ea44e5d1ffaad94a281102ba378965c7aa72"
+    },
+    {
+      "name": "guardian-2022-07-23T15:02:25.261493+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658584950",
+      "size": "46702",
+      "md5": "278c227f3eed052fd0a3f6ab9554eb36",
+      "crc32": "8bcedfe6",
+      "sha1": "149687a464b431a18180a2f1da1a54e8cbcc7bad",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-07-23T15:02:25.261493+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658584952",
+      "size": "100368",
+      "md5": "06735d04cc53b93ba07f154c0830dd3e",
+      "crc32": "2a8bfa51",
+      "sha1": "45f86c923b1815f1c71805c096f192a5d8e6f02f",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-07-23T15:02:25.261493+01:00.jpg",
+      "source": "original",
+      "mtime": "1658584948",
+      "size": "403802",
+      "md5": "6a1062657e9a39a9d179114a18a2eec0",
+      "crc32": "ba378371",
+      "sha1": "86c6643dfb0d9e9cc31370cf7550df0940378c86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "guardian-2022-07-23T15:02:25.261493+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "guardian-2022-07-23T15:02:25.261493+01:00.jpg",
+      "mtime": "1658585219",
+      "size": "10775",
+      "md5": "58e832728d7ebe0b1eb34da0e156183a",
+      "crc32": "30b6cdb6",
+      "sha1": "3c51d7244820c7207df05e8cb58e2820d4b767ac"
+    },
+    {
       "name": "guardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f8878fc1924713c876abe1ee72e49f2ed9d7dd7",
-      "mtime": "1658518629",
-      "size": "254533",
-      "md5": "f9d5a2d0f9b02c1e1aa205124c7560d5",
-      "crc32": "520f3d2f",
-      "sha1": "72e4d04ecb670fc3d0bf8a0a5851f5cbc67bd226",
+      "btih": "9bdb0c28317c469b0dc0357d2cda833a98beae4c",
+      "mtime": "1658585857",
+      "size": "257085",
+      "md5": "5e49c4ec06b3ebf3cacc177f25cdf2e8",
+      "crc32": "e08ff7e3",
+      "sha1": "11eeae71a6c9ebad895473b4d838ca7016f09bf9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "guardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4dcde77a2225e6f18f2107f91089a5b7",
+      "md5": "a2a9985eeae374a521e8f482fea67d98",
       "summation": "md5"
     },
     {
       "name": "guardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658498924",
-      "size": "1363968",
-      "md5": "068be5c63a8c375d5133b82f627aede1",
-      "crc32": "90ee3b4b",
-      "sha1": "6bda3bea50ed8490d8caa9eb3a08b5ca0c6e2b85",
+      "mtime": "1658584955",
+      "size": "1376256",
+      "md5": "4d8fd54b6bde03ae4923133f720ec919",
+      "crc32": "c7801bb5",
+      "sha1": "dfde8e1f910dc16e3ae46eedb5c834e3a2682b91",
       "format": "Metadata"
     },
     {
@@ -12562,9 +12688,2035 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1195,
-  "item_last_updated": 1658518629,
-  "item_size": 156806273,
+  "files_count": 1207,
+  "guardian-2022": [
+    {
+      "text": "Skip to main content",
+      "url": "#maincontent"
+    },
+    {
+      "text": "\n\n                    The Guardian - Back to home\n\n                    \n\n\n    \n        \n \n\n    \n\n\n                ",
+      "url": "https://www.theguardian.com/us"
+    },
+    {
+      "text": "\n                        Subscriptions\n                    ",
+      "url": "https://support.theguardian.com/subscribe?INTCMP=header_supporter_cta&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22header_supporter_cta%22%7D"
+    },
+    {
+      "text": "\n                        Search jobs\n                    ",
+      "url": "https://jobs.theguardian.com/?INTCMP=jobs_us_web_newheader"
+    },
+    {
+      "text": "\n        \n\n\n    \n        \n \n \n\n    \n\n\n        Sign in\n    ",
+      "url": "https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&componentEventParams=componentType%3Didentityauthentication%26componentId%3Dguardian_signin_header"
+    },
+    {
+      "text": "\n                \n                Account overview\n            ",
+      "url": "https://manage.theguardian.com"
+    },
+    {
+      "text": "\n                \n                Billing\n            ",
+      "url": "https://manage.theguardian.com/billing"
+    },
+    {
+      "text": "\n                \n                Profile\n            ",
+      "url": "https://manage.theguardian.com/public-settings"
+    },
+    {
+      "text": "\n                \n                Emails & marketing\n            ",
+      "url": "https://manage.theguardian.com/email-prefs"
+    },
+    {
+      "text": "\n                \n                Settings\n            ",
+      "url": "https://manage.theguardian.com/account-settings"
+    },
+    {
+      "text": "\n                \n                Help\n            ",
+      "url": "https://manage.theguardian.com/help"
+    },
+    {
+      "text": "\n                \n\n\n    \n        \n \n  \n \n \n  \n   \n  \n \n\n    \n\n\n                Sign out\n            ",
+      "url": "https://profile.theguardian.com/signout"
+    },
+    {
+      "text": "\n                    \n\n\n    \n        \n \n\n    \n\n\n                    Search\n                ",
+      "url": "https://www.google.co.uk/advanced_search?q=site:www.theguardian.com"
+    },
+    {
+      "text": "\n\n            switch to the \n            US edition\n        ",
+      "url": "https://www.theguardian.com/preference/edition/us"
+    },
+    {
+      "text": "\n\n            switch to the \n            UK edition\n        ",
+      "url": "https://www.theguardian.com/preference/edition/uk"
+    },
+    {
+      "text": "\n\n            switch to the \n            Australia edition\n        ",
+      "url": "https://www.theguardian.com/preference/edition/au"
+    },
+    {
+      "text": "\n\n            switch to the \n            International edition\n        ",
+      "url": "https://www.theguardian.com/preference/edition/int"
+    },
+    {
+      "text": "\n\n                        News\n                        ",
+      "url": "https://www.theguardian.com/us"
+    },
+    {
+      "text": "\n\n                        Opinion\n                        ",
+      "url": "https://www.theguardian.com/us/commentisfree"
+    },
+    {
+      "text": "\n\n                        Sport\n                        ",
+      "url": "https://www.theguardian.com/us/sport"
+    },
+    {
+      "text": "\n\n                        Culture\n                        ",
+      "url": "https://www.theguardian.com/us/culture"
+    },
+    {
+      "text": "\n\n                        Lifestyle\n                        ",
+      "url": "https://www.theguardian.com/us/lifeandstyle"
+    },
+    {
+      "text": "\n                            \n                            US news\n                    ",
+      "url": "https://www.theguardian.com/us-news"
+    },
+    {
+      "text": "\n                            \n                            World news\n                    ",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "text": "\n                            \n                            Environment\n                    ",
+      "url": "https://www.theguardian.com/us/environment"
+    },
+    {
+      "text": "\n                            \n                            Soccer\n                    ",
+      "url": "https://www.theguardian.com/football"
+    },
+    {
+      "text": "\n                            \n                            US politics\n                    ",
+      "url": "https://www.theguardian.com/us-news/us-politics"
+    },
+    {
+      "text": "\n                            \n                            Business\n                    ",
+      "url": "https://www.theguardian.com/us/business"
+    },
+    {
+      "text": "\n                            \n                            Tech\n                    ",
+      "url": "https://www.theguardian.com/us/technology"
+    },
+    {
+      "text": "\n                            \n                            Science\n                    ",
+      "url": "https://www.theguardian.com/science"
+    },
+    {
+      "text": "\n                            \n                            Newsletters\n                    ",
+      "url": "https://www.theguardian.com/email-newsletters"
+    },
+    {
+      "text": "\n                            \n                            Fight to vote\n                    ",
+      "url": "https://www.theguardian.com/us-news/series/the-fight-to-vote"
+    },
+    {
+      "text": "\n                            \n                            The Guardian view\n                    ",
+      "url": "https://www.theguardian.com/profile/editorial"
+    },
+    {
+      "text": "\n                            \n                            Columnists\n                    ",
+      "url": "https://www.theguardian.com/index/contributors"
+    },
+    {
+      "text": "\n                            \n                            Letters\n                    ",
+      "url": "https://www.theguardian.com/tone/letters"
+    },
+    {
+      "text": "\n                            \n                            Opinion videos\n                    ",
+      "url": "https://www.theguardian.com/type/video+tone/comment"
+    },
+    {
+      "text": "\n                            \n                            Cartoons\n                    ",
+      "url": "https://www.theguardian.com/cartoons/archive"
+    },
+    {
+      "text": "\n                            \n                            Soccer\n                    ",
+      "url": "https://www.theguardian.com/football"
+    },
+    {
+      "text": "\n                            \n                            NFL\n                    ",
+      "url": "https://www.theguardian.com/sport/nfl"
+    },
+    {
+      "text": "\n                            \n                            Tennis\n                    ",
+      "url": "https://www.theguardian.com/sport/tennis"
+    },
+    {
+      "text": "\n                            \n                            MLB\n                    ",
+      "url": "https://www.theguardian.com/sport/mlb"
+    },
+    {
+      "text": "\n                            \n                            MLS\n                    ",
+      "url": "https://www.theguardian.com/football/mls"
+    },
+    {
+      "text": "\n                            \n                            NBA\n                    ",
+      "url": "https://www.theguardian.com/sport/nba"
+    },
+    {
+      "text": "\n                            \n                            NHL\n                    ",
+      "url": "https://www.theguardian.com/sport/nhl"
+    },
+    {
+      "text": "\n                            \n                            F1\n                    ",
+      "url": "https://www.theguardian.com/sport/formulaone"
+    },
+    {
+      "text": "\n                            \n                            Film\n                    ",
+      "url": "https://www.theguardian.com/us/film"
+    },
+    {
+      "text": "\n                            \n                            Books\n                    ",
+      "url": "https://www.theguardian.com/books"
+    },
+    {
+      "text": "\n                            \n                            Music\n                    ",
+      "url": "https://www.theguardian.com/music"
+    },
+    {
+      "text": "\n                            \n                            Art & design\n                    ",
+      "url": "https://www.theguardian.com/artanddesign"
+    },
+    {
+      "text": "\n                            \n                            TV & radio\n                    ",
+      "url": "https://www.theguardian.com/us/tv-and-radio"
+    },
+    {
+      "text": "\n                            \n                            Stage\n                    ",
+      "url": "https://www.theguardian.com/stage"
+    },
+    {
+      "text": "\n                            \n                            Classical\n                    ",
+      "url": "https://www.theguardian.com/music/classicalmusicandopera"
+    },
+    {
+      "text": "\n                            \n                            Games\n                    ",
+      "url": "https://www.theguardian.com/games"
+    },
+    {
+      "text": "\n                            \n                            Fashion\n                    ",
+      "url": "https://www.theguardian.com/fashion"
+    },
+    {
+      "text": "\n                            \n                            Food\n                    ",
+      "url": "https://www.theguardian.com/food"
+    },
+    {
+      "text": "\n                            \n                            Recipes\n                    ",
+      "url": "https://www.theguardian.com/tone/recipes"
+    },
+    {
+      "text": "\n                            \n                            Love & sex\n                    ",
+      "url": "https://www.theguardian.com/lifeandstyle/love-and-sex"
+    },
+    {
+      "text": "\n                            \n                            Home & garden\n                    ",
+      "url": "https://www.theguardian.com/lifeandstyle/home-and-garden"
+    },
+    {
+      "text": "\n                            \n                            Health & fitness\n                    ",
+      "url": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing"
+    },
+    {
+      "text": "\n                            \n                            Family\n                    ",
+      "url": "https://www.theguardian.com/lifeandstyle/family"
+    },
+    {
+      "text": "\n                            \n                            Travel\n                    ",
+      "url": "https://www.theguardian.com/us/travel"
+    },
+    {
+      "text": "\n                            \n                            Money\n                    ",
+      "url": "https://www.theguardian.com/us/money"
+    },
+    {
+      "text": "\n                            Make a contribution\n                        ",
+      "url": "https://support.theguardian.com/contribute?INTCMP=side_menu_support_contribute&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support_contribute%22%7D"
+    },
+    {
+      "text": "\n                            Subscribe\n                        ",
+      "url": "https://support.theguardian.com/subscribe?INTCMP=side_menu_support_subscribe&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support_subscribe%22%7D"
+    },
+    {
+      "text": "\n                         switch to the \n                         UK edition\n                     ",
+      "url": "https://www.theguardian.com/preference/edition/uk"
+    },
+    {
+      "text": "\n                         switch to the \n                         Australia edition\n                     ",
+      "url": "https://www.theguardian.com/preference/edition/au"
+    },
+    {
+      "text": "\n                         switch to the \n                         International edition\n                     ",
+      "url": "https://www.theguardian.com/preference/edition/int"
+    },
+    {
+      "text": "\n                            Search jobs\n                        ",
+      "url": "https://jobs.theguardian.com?INTCMP=jobs_us_web_newheader_dropdown"
+    },
+    {
+      "text": "\n                            Digital Archive\n                        ",
+      "url": "https://theguardian.newspapers.com"
+    },
+    {
+      "text": "\n                            Guardian Puzzles app\n                        ",
+      "url": "https://puzzles.theguardian.com/download"
+    },
+    {
+      "text": "\n                            Guardian content licensing site\n                        ",
+      "url": "https://licensing.theguardian.com/"
+    },
+    {
+      "text": "\n                            The Guardian app\n                        ",
+      "url": "https://www.theguardian.com/mobile/2014/may/29/the-guardian-for-mobile-and-tablet"
+    },
+    {
+      "text": "\n                            Video\n                        ",
+      "url": "https://www.theguardian.com/video"
+    },
+    {
+      "text": "\n                            Podcasts\n                        ",
+      "url": "https://www.theguardian.com/podcasts"
+    },
+    {
+      "text": "\n                            Pictures\n                        ",
+      "url": "https://www.theguardian.com/inpictures"
+    },
+    {
+      "text": "\n                            Inside the Guardian\n                        ",
+      "url": "https://www.theguardian.com/membership"
+    },
+    {
+      "text": "\n                            Guardian Weekly\n                        ",
+      "url": "https://www.theguardian.com/weekly?INTCMP=gdnwb_mawns_editorial_gweekly_GW_TopNav_US"
+    },
+    {
+      "text": "\n                            Crosswords\n                        ",
+      "url": "https://www.theguardian.com/crosswords"
+    },
+    {
+      "text": "\n                        \n\n\n    \n        \n \n\n    \n\n\n                        Facebook\n                    ",
+      "url": "https://www.facebook.com/theguardian"
+    },
+    {
+      "text": "\n                        \n\n\n    \n        \n \n\n    \n\n\n                        Twitter\n                    ",
+      "url": "https://twitter.com/guardian"
+    },
+    {
+      "text": "\n            Search jobs\n        ",
+      "url": "https://jobs.theguardian.com?INTCMP=jobs_us_web_newheader_dropdown"
+    },
+    {
+      "text": "\n            Digital Archive\n        ",
+      "url": "https://theguardian.newspapers.com"
+    },
+    {
+      "text": "\n            Guardian Puzzles app\n        ",
+      "url": "https://puzzles.theguardian.com/download"
+    },
+    {
+      "text": "\n            Guardian content licensing site\n        ",
+      "url": "https://licensing.theguardian.com/"
+    },
+    {
+      "text": "\n\n            US\n        ",
+      "url": "https://www.theguardian.com/us-news"
+    },
+    {
+      "text": "\n\n            World\n        ",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "text": "\n\n            Environment\n        ",
+      "url": "https://www.theguardian.com/us/environment"
+    },
+    {
+      "text": "\n\n            Soccer\n        ",
+      "url": "https://www.theguardian.com/football"
+    },
+    {
+      "text": "\n\n            US Politics\n        ",
+      "url": "https://www.theguardian.com/us-news/us-politics"
+    },
+    {
+      "text": "\n\n            Business\n        ",
+      "url": "https://www.theguardian.com/us/business"
+    },
+    {
+      "text": "\n\n            Tech\n        ",
+      "url": "https://www.theguardian.com/us/technology"
+    },
+    {
+      "text": "\n\n            Science\n        ",
+      "url": "https://www.theguardian.com/science"
+    },
+    {
+      "text": "\n\n            Newsletters\n        ",
+      "url": "https://www.theguardian.com/email-newsletters"
+    },
+    {
+      "text": "\n\n            Fight to vote\n        ",
+      "url": "https://www.theguardian.com/us-news/series/the-fight-to-vote"
+    },
+    {
+      "text": "View full forecast",
+      "url": "http://www.accuweather.com/en/us/san-antonio-tx/78205/current-weather/351198?lang=en-us&partner=web_guardian_adc"
+    },
+    {
+      "text": "Live  French MP says Brexit to blame for Dover gridlock as travellers warned of delays ",
+      "url": "https://www.theguardian.com/uk-news/live/2022/jul/23/travel-chaos-live-latest-updates-dover-queues-uk-france-border"
+    },
+    {
+      "text": "Dover Brexit blamed for gridlock on second day of travel chaos",
+      "url": "https://www.theguardian.com/business/2022/jul/23/dover-travel-chaos-border-gridlock-brexit"
+    },
+    {
+      "text": "Dover Brexit blamed for gridlock on second day of travel chaos",
+      "url": "https://www.theguardian.com/business/2022/jul/23/dover-travel-chaos-border-gridlock-brexit"
+    },
+    {
+      "text": "French MP says Brexit to blame for Dover gridlock as travellers warned of delays",
+      "url": "https://www.theguardian.com/uk-news/live/2022/jul/23/travel-chaos-live-latest-updates-dover-queues-uk-france-border"
+    },
+    {
+      "text": "Live  Russia-Ukraine war: Russian missiles hit Odesa port hours after grain export deal agreed ",
+      "url": "https://www.theguardian.com/world/live/2022/jul/23/russia-ukraine-war-kharkiv-hit-by-several-powerful-strikes-says-mayor-lithuania-lifts-kaliningrad-rail-ban-live"
+    },
+    {
+      "text": "Report Airstrikes raise doubts about viability of agreement",
+      "url": "https://www.theguardian.com/world/2022/jul/23/russia-fires-missiles-odesa-port-hours-after-grain-export-deal"
+    },
+    {
+      "text": "Report Airstrikes raise doubts about viability of agreement",
+      "url": "https://www.theguardian.com/world/2022/jul/23/russia-fires-missiles-odesa-port-hours-after-grain-export-deal"
+    },
+    {
+      "text": "Russia-Ukraine war: Russian missiles hit Odesa port hours after grain export deal agreed",
+      "url": "https://www.theguardian.com/world/live/2022/jul/23/russia-ukraine-war-kharkiv-hit-by-several-powerful-strikes-says-mayor-lithuania-lifts-kaliningrad-rail-ban-live"
+    },
+    {
+      "text": "Tory leadership race  Sunak says he is underdog as \u2018forces that be\u2019 want Truss ",
+      "url": "https://www.theguardian.com/politics/2022/jul/23/rishi-sunak-vows-uk-crisis-footing-becomes-pm"
+    },
+    {
+      "text": "Analysis Would Sunak put the brakes on culture wars as a minority ethnic PM?",
+      "url": "https://www.theguardian.com/politics/2022/jul/23/would-rishi-sunak-put-the-brakes-on-culture-wars-as-a-minority-ethnic-pm"
+    },
+    {
+      "text": "Royal yacht Even the monarchy doesn\u2019t want a new one. But Liz Truss does",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/23/even-the-monarchy-doesnt-want-a-new-royal-yacht-but-liz-truss-does"
+    },
+    {
+      "text": "Analysis Would Sunak put the brakes on culture wars as a minority ethnic PM?",
+      "url": "https://www.theguardian.com/politics/2022/jul/23/would-rishi-sunak-put-the-brakes-on-culture-wars-as-a-minority-ethnic-pm"
+    },
+    {
+      "text": "Royal yacht Even the monarchy doesn\u2019t want a new one. But Liz Truss does",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/23/even-the-monarchy-doesnt-want-a-new-royal-yacht-but-liz-truss-does"
+    },
+    {
+      "text": "Sunak says he is underdog as \u2018forces that be\u2019 want Truss",
+      "url": "https://www.theguardian.com/politics/2022/jul/23/rishi-sunak-vows-uk-crisis-footing-becomes-pm"
+    },
+    {
+      "text": "Extreme heat  Low winds stopped what might have been new \u2018great fire of London\u2019, says expert ",
+      "url": "https://www.theguardian.com/environment/2022/jul/23/low-winds-stopped-what-might-have-been-new-great-fire-of-london-says-expert"
+    },
+    {
+      "text": "Low winds stopped what might have been new \u2018great fire of London\u2019, says expert",
+      "url": "https://www.theguardian.com/environment/2022/jul/23/low-winds-stopped-what-might-have-been-new-great-fire-of-london-says-expert"
+    },
+    {
+      "text": "Google  Tech firm fires software engineer who claims AI chatbot is sentient ",
+      "url": "https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
+    },
+    {
+      "text": "Tech firm fires software engineer who claims AI chatbot is sentient",
+      "url": "https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
+    },
+    {
+      "text": "WWE  CEO Vince McMahon to retire amid sexual misconduct inquiry ",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/vince-mcmahon-announces-retirement-from-wwe-amid-misconduct-probe"
+    },
+    {
+      "text": "CEO Vince McMahon to retire amid sexual misconduct inquiry",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/vince-mcmahon-announces-retirement-from-wwe-amid-misconduct-probe"
+    },
+    {
+      "text": "\u2018Male biological clock\u2019  Age of father can affect chances of birth, new research shows ",
+      "url": "https://www.theguardian.com/society/2022/jul/23/male-biological-clock-age-of-father-can-affect-chances-of-birth-new-research-shows"
+    },
+    {
+      "text": "Age of father can affect chances of birth, new research shows",
+      "url": "https://www.theguardian.com/society/2022/jul/23/male-biological-clock-age-of-father-can-affect-chances-of-birth-new-research-shows"
+    },
+    {
+      "text": "Second mortgages  Lending soars as Britons struggle to pay off debt ",
+      "url": "https://www.theguardian.com/money/2022/jul/23/second-mortgages-lending-pay-off-debt-loan-inflation-cost-of-living"
+    },
+    {
+      "text": "Lending soars as Britons struggle to pay off debt",
+      "url": "https://www.theguardian.com/money/2022/jul/23/second-mortgages-lending-pay-off-debt-loan-inflation-cost-of-living"
+    },
+    {
+      "text": "China  Man executed for murder of former wife during live stream ",
+      "url": "https://www.theguardian.com/world/2022/jul/23/chinese-man-executed-murder-former-wife-live-stream"
+    },
+    {
+      "text": "Man executed for murder of former wife during live stream",
+      "url": "https://www.theguardian.com/world/2022/jul/23/chinese-man-executed-murder-former-wife-live-stream"
+    },
+    {
+      "text": "\u2018Writing has dropped off a cliff\u2019  England\u2019s lockdown-hit pupils get extra pen lessons ",
+      "url": "https://www.theguardian.com/education/2022/jul/23/writing-has-dropped-off-a-cliff-englands-lockdown-hit-pupils-get-extra-pen-lessons"
+    },
+    {
+      "text": "England\u2019s lockdown-hit pupils get extra pen lessons",
+      "url": "https://www.theguardian.com/education/2022/jul/23/writing-has-dropped-off-a-cliff-englands-lockdown-hit-pupils-get-extra-pen-lessons"
+    },
+    {
+      "text": "Boston\u2019s new hero  Woman who jumped from burning subway car into river ",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/boston-woman-jumped-subway-car-river-fire"
+    },
+    {
+      "text": "Woman who jumped from burning subway car into river",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/boston-woman-jumped-subway-car-river-fire"
+    },
+    {
+      "text": " Ukraine invasion ",
+      "url": "https://www.theguardian.com/world/ukraine"
+    },
+    {
+      "text": "Analysis  How the war has robbed Ukraine\u2019s oligarchs of political influence ",
+      "url": "https://www.theguardian.com/world/2022/jul/23/ukraine-oligarchs-russia-war-influence"
+    },
+    {
+      "text": "How the war has robbed Ukraine\u2019s oligarchs of political influence",
+      "url": "https://www.theguardian.com/world/2022/jul/23/ukraine-oligarchs-russia-war-influence"
+    },
+    {
+      "text": "Ukraine  Kyiv and Moscow sign UN-backed deal to restart grain exports ",
+      "url": "https://www.theguardian.com/world/2022/jul/22/ukraine-russia-sign-un-backed-deal-restart-grain-exports"
+    },
+    {
+      "text": "Kyiv and Moscow sign UN-backed deal to restart grain exports",
+      "url": "https://www.theguardian.com/world/2022/jul/22/ukraine-russia-sign-un-backed-deal-restart-grain-exports"
+    },
+    {
+      "text": "At a glance  What we know on day 150 of the invasion ",
+      "url": "https://www.theguardian.com/world/2022/jul/23/russia-ukraine-war-what-we-know-on-day-150-of-the-invasion"
+    },
+    {
+      "text": "What we know on day 150 of the invasion",
+      "url": "https://www.theguardian.com/world/2022/jul/23/russia-ukraine-war-what-we-know-on-day-150-of-the-invasion"
+    },
+    {
+      "text": "What happened in the Russia-Ukraine war this week?   Catch up with the must-read news and analysis ",
+      "url": "https://www.theguardian.com/world/2022/jul/23/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis"
+    },
+    {
+      "text": "Catch up with the must-read news and analysis",
+      "url": "https://www.theguardian.com/world/2022/jul/23/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis"
+    },
+    {
+      "text": " \n        \n         \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n         \n        Crosswords ",
+      "url": "/crosswords"
+    },
+    {
+      "text": "Man talk  I\u2019ve been meeting with the same group of men for 36 years \u2013 here\u2019s what they\u2019ve taught me ",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/meeting-same-group-men-years-david-spiegelhalter"
+    },
+    {
+      "text": " 150",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/meeting-same-group-men-years-david-spiegelhalter#comments"
+    },
+    {
+      "text": "I\u2019ve been meeting with the same group of men for 36 years \u2013 here\u2019s what they\u2019ve taught me",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/meeting-same-group-men-years-david-spiegelhalter"
+    },
+    {
+      "text": "US midterms  Trump and Pence duel in Arizona in fight for Republican future ",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/trump-pence-arizona-republicans-future-election"
+    },
+    {
+      "text": "Trump and Pence duel in Arizona in fight for Republican future",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/trump-pence-arizona-republicans-future-election"
+    },
+    {
+      "text": "Bananarama look back  \u2018The dresses were fitted with chicken wire \u2013 and totally extraordinary\u2019 ",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/bananarama-sara-dallin-keren-woodward-look-back-roland-mouret"
+    },
+    {
+      "text": "\u2018The dresses were fitted with chicken wire \u2013 and totally extraordinary\u2019",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/bananarama-sara-dallin-keren-woodward-look-back-roland-mouret"
+    },
+    {
+      "text": "Tori Amos  \u2018I prefer ladies\u2019 soccer. The guys are all right, but ladies come out with bloody noses. It\u2019s gladiatorial\u2019 ",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/tori-amos-this-much-i-know-i-prefer-ladies-soccer-it-is-gladiatorial"
+    },
+    {
+      "text": "\u2018I prefer ladies\u2019 soccer. The guys are all right, but ladies come out with bloody noses. It\u2019s gladiatorial\u2019",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/tori-amos-this-much-i-know-i-prefer-ladies-soccer-it-is-gladiatorial"
+    },
+    {
+      "text": "\u2018Civility went out the window\u2019  Inside the remote California county where the far right took over ",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/california-shasta-county-far-right-extremists-politics-pandemic"
+    },
+    {
+      "text": "Inside the remote California county where the far right took over",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/california-shasta-county-far-right-extremists-politics-pandemic"
+    },
+    {
+      "text": "\u2018You can\u2019t bring my boy back'  Why are so many UK prisoners dying on remand? ",
+      "url": "https://www.theguardian.com/society/2022/jul/23/you-cant-bring-my-boy-back-why-are-so-many-uk-prisoners-dying-on-remand"
+    },
+    {
+      "text": "Why are so many UK prisoners dying on remand?",
+      "url": "https://www.theguardian.com/society/2022/jul/23/you-cant-bring-my-boy-back-why-are-so-many-uk-prisoners-dying-on-remand"
+    },
+    {
+      "text": "Dancing diggers  The curious case of the Russian JCB dealer and the millionaire ",
+      "url": "https://www.theguardian.com/business/2022/jul/23/the-curious-case-of-the-russian-jcb-dealer-and-the-millionaire"
+    },
+    {
+      "text": "The curious case of the Russian JCB dealer and the millionaire",
+      "url": "https://www.theguardian.com/business/2022/jul/23/the-curious-case-of-the-russian-jcb-dealer-and-the-millionaire"
+    },
+    {
+      "text": "\u2018Holiday hunger\u2019  Inflation adds to family strain as UK schools break for summer ",
+      "url": "https://www.theguardian.com/business/2022/jul/23/holiday-hunger-summer-break-extra-financial-strain-uk-families"
+    },
+    {
+      "text": "Inflation adds to family strain as UK schools break for summer",
+      "url": "https://www.theguardian.com/business/2022/jul/23/holiday-hunger-summer-break-extra-financial-strain-uk-families"
+    },
+    {
+      "text": "Explore all newsletters",
+      "url": "https://www.theguardian.com/email-newsletters"
+    },
+    {
+      "text": "our privacy policy",
+      "url": "/help/privacy-policy"
+    },
+    {
+      "text": "Google Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": " \n        \n         \n        Women's Euro 2022 ",
+      "url": "https://www.theguardian.com/football/women-s-euro-2022"
+    },
+    {
+      "text": "France v Netherlands  Miedema back as Les Bleues deal with Katoto blow ",
+      "url": "https://www.theguardian.com/football/2022/jul/22/netherlands-vivianne-miedema-set-to-face-france-in-euro-2022-last-eight"
+    },
+    {
+      "text": "Moving the Goalposts Sign up for our women\u2019s football email",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts"
+    },
+    {
+      "text": "Moving the Goalposts Sign up for our women\u2019s football email",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts"
+    },
+    {
+      "text": "Miedema back as Les Bleues deal with Katoto blow",
+      "url": "https://www.theguardian.com/football/2022/jul/22/netherlands-vivianne-miedema-set-to-face-france-in-euro-2022-last-eight"
+    },
+    {
+      "text": "England expects  Four key questions and lessons before their last-four test ",
+      "url": "https://www.theguardian.com/football/2022/jul/22/england-key-questions-and-lessons-before-euro-2022-semi-final-wiegman"
+    },
+    {
+      "text": "Karen Carney England\u2019s gritty win bodes well for chances",
+      "url": "https://www.theguardian.com/football/blog/2022/jul/22/englands-gritty-win-against-spain-bodes-well-for-euro-2022-chances"
+    },
+    {
+      "text": "Karen Carney England\u2019s gritty win bodes well for chances",
+      "url": "https://www.theguardian.com/football/blog/2022/jul/22/englands-gritty-win-against-spain-bodes-well-for-euro-2022-chances"
+    },
+    {
+      "text": "Four key questions and lessons before their last-four test",
+      "url": "https://www.theguardian.com/football/2022/jul/22/england-key-questions-and-lessons-before-euro-2022-semi-final-wiegman"
+    },
+    {
+      "text": "Sweden 1-0 Belgium  Sembrant's last-gasp strike sets up England semi ",
+      "url": "https://www.theguardian.com/football/2022/jul/22/sweden-belgium-womens-euro-2022-quarter-final-match-report"
+    },
+    {
+      "text": " 180",
+      "url": "https://www.theguardian.com/football/2022/jul/22/sweden-belgium-womens-euro-2022-quarter-final-match-report#comments"
+    },
+    {
+      "text": "Sembrant's last-gasp strike sets up England semi",
+      "url": "https://www.theguardian.com/football/2022/jul/22/sweden-belgium-womens-euro-2022-quarter-final-match-report"
+    },
+    {
+      "text": "Golden Boot  Top goalscorers, game by game, in Women's Euro 2022 ",
+      "url": "https://www.theguardian.com/football/ng-interactive/2022/jul/08/womens-euro-2022-golden-boot-top-goalscorers-game-by-game"
+    },
+    {
+      "text": "Top goalscorers, game by game, in Women's Euro 2022",
+      "url": "https://www.theguardian.com/football/ng-interactive/2022/jul/08/womens-euro-2022-golden-boot-top-goalscorers-game-by-game"
+    },
+    {
+      "text": "Interactive  Your complete guide to all 368 players at the tournament ",
+      "url": "https://www.theguardian.com/football/ng-interactive/2022/jun/29/womens-euro-2022-your-complete-guide-to-all-368-players"
+    },
+    {
+      "text": "Your complete guide to all 368 players at the tournament",
+      "url": "https://www.theguardian.com/football/ng-interactive/2022/jun/29/womens-euro-2022-your-complete-guide-to-all-368-players"
+    },
+    {
+      "text": " Sport ",
+      "url": "https://www.theguardian.com/us/sport"
+    },
+    {
+      "text": "Sign up to The Fiver email",
+      "url": "/info/2016/jan/05/the-fiver-email-sign-up"
+    },
+    {
+      "text": "Sign up to The Recap email",
+      "url": "/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage"
+    },
+    {
+      "text": "Football Weekly podcast",
+      "url": "/football/series/footballweekly"
+    },
+    {
+      "text": "Live  Tour de France \u2013 Vingegaard bids for glory on stage 20 time-trial ",
+      "url": "https://www.theguardian.com/sport/live/2022/jul/23/tour-de-france-2022-jonas-vingegaard-bids-for-glory-on-stage-20-time-trial-live"
+    },
+    {
+      "text": "Stage 19 Laporte wins to end home drought in Tour",
+      "url": "https://www.theguardian.com/sport/2022/jul/22/christophe-laporte-wins-stage-19-to-end-home-drought-in-tour-de-france"
+    },
+    {
+      "text": "Tour de France Femmes Race boost latest breakaway",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/womens-tour-de-france-returns-to-boost-cyclings-latest-breakaway"
+    },
+    {
+      "text": "The Recap Sign up and get our email of editors' picks",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage"
+    },
+    {
+      "text": "Stage 19 Laporte wins to end home drought in Tour",
+      "url": "https://www.theguardian.com/sport/2022/jul/22/christophe-laporte-wins-stage-19-to-end-home-drought-in-tour-de-france"
+    },
+    {
+      "text": "Tour de France Femmes Race boost latest breakaway",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/womens-tour-de-france-returns-to-boost-cyclings-latest-breakaway"
+    },
+    {
+      "text": "The Recap Sign up and get our email of editors' picks",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage"
+    },
+    {
+      "text": "Tour de France \u2013 Vingegaard bids for glory on stage 20 time-trial",
+      "url": "https://www.theguardian.com/sport/live/2022/jul/23/tour-de-france-2022-jonas-vingegaard-bids-for-glory-on-stage-20-time-trial-live"
+    },
+    {
+      "text": "Live  England v South Africa \u2013 women\u2019s T20 cricket international ",
+      "url": "https://www.theguardian.com/sport/live/2022/jul/23/england-v-south-africa-womens-t20-live"
+    },
+    {
+      "text": "Mark Ramprakash Beginning of the end for 50-over cricket?",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/ben-stokess-odi-exit-could-be-beginning-of-the-end-for-50-over-cricket"
+    },
+    {
+      "text": "Mark Ramprakash Beginning of the end for 50-over cricket?",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/ben-stokess-odi-exit-could-be-beginning-of-the-end-for-50-over-cricket"
+    },
+    {
+      "text": "England v South Africa \u2013 women\u2019s T20 cricket international",
+      "url": "https://www.theguardian.com/sport/live/2022/jul/23/england-v-south-africa-womens-t20-live"
+    },
+    {
+      "text": "Athletics  Coe hopes current stars break 1980s records that \u2018aren\u2019t safe\u2019 ",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/sebastian-coe-hopes-current-athletes-break-1980s-records-that-arent-safe"
+    },
+    {
+      "text": "400m Hudson-Smith outruns demons for bronze in final",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/bronze-warrior-matthew-hudson-smith-outruns-demons-in-400m-final"
+    },
+    {
+      "text": "400m Hudson-Smith outruns demons for bronze in final",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/bronze-warrior-matthew-hudson-smith-outruns-demons-in-400m-final"
+    },
+    {
+      "text": "Coe hopes current stars break 1980s records that \u2018aren\u2019t safe\u2019",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/sebastian-coe-hopes-current-athletes-break-1980s-records-that-arent-safe"
+    },
+    {
+      "text": "Jean Alesi   \n                   \n                    \n                    Ferrari are missing some little things to be perfect \u2013 they need time ",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/jean-alesi-ferrari-are-missing-some-little-things-to-be-perfect-they-need-time"
+    },
+    {
+      "text": " 9",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/jean-alesi-ferrari-are-missing-some-little-things-to-be-perfect-they-need-time#comments"
+    },
+    {
+      "text": "F1 Norris feels \u2018lucky\u2019 to race in era defined by Hamilton",
+      "url": "https://www.theguardian.com/sport/2022/jul/22/norris-feels-lucky-to-race-in-lewis-hamilton-era-before-french-grand-prix"
+    },
+    {
+      "text": "F1 Norris feels \u2018lucky\u2019 to race in era defined by Hamilton",
+      "url": "https://www.theguardian.com/sport/2022/jul/22/norris-feels-lucky-to-race-in-lewis-hamilton-era-before-french-grand-prix"
+    },
+    {
+      "text": "Ferrari are missing some little things to be perfect \u2013 they need time",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/jean-alesi-ferrari-are-missing-some-little-things-to-be-perfect-they-need-time"
+    },
+    {
+      "text": "Man Utd 2-2 Aston Villa  United left frustrated as Chambers grabs draw ",
+      "url": "https://www.theguardian.com/football/2022/jul/23/manchester-united-aston-villa-friendly-match-report"
+    },
+    {
+      "text": " 57",
+      "url": "https://www.theguardian.com/football/2022/jul/23/manchester-united-aston-villa-friendly-match-report#comments"
+    },
+    {
+      "text": "United left frustrated as Chambers grabs draw",
+      "url": "https://www.theguardian.com/football/2022/jul/23/manchester-united-aston-villa-friendly-match-report"
+    },
+    {
+      "text": "Football  Chelsea vow not to let Azpilicueta join Bar\u00e7a for cut-price fee ",
+      "url": "https://www.theguardian.com/football/2022/jul/23/chelsea-cesar-azpilicueta-barcelona-fee"
+    },
+    {
+      "text": "Chelsea vow not to let Azpilicueta join Bar\u00e7a for cut-price fee",
+      "url": "https://www.theguardian.com/football/2022/jul/23/chelsea-cesar-azpilicueta-barcelona-fee"
+    },
+    {
+      "text": "London 2012, 10 years on  Wrestling with a legacy built on false assumptions ",
+      "url": "https://www.theguardian.com/sport/2022/jul/22/london-2012-10-years-on-wrestling-with-a-sporting-legacy-built-on-false-assumptions"
+    },
+    {
+      "text": "Wrestling with a legacy built on false assumptions",
+      "url": "https://www.theguardian.com/sport/2022/jul/22/london-2012-10-years-on-wrestling-with-a-sporting-legacy-built-on-false-assumptions"
+    },
+    {
+      "text": "Baseball  Red Sox concede inside-the-park grand slam in record 28-5 loss ",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/boston-red-sox-toronto-blue-jays-28-5-inside-the-park-grand-slam-baseball"
+    },
+    {
+      "text": "Red Sox concede inside-the-park grand slam in record 28-5 loss",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/boston-red-sox-toronto-blue-jays-28-5-inside-the-park-grand-slam-baseball"
+    },
+    {
+      "text": " Opinion ",
+      "url": "https://www.theguardian.com/uk/commentisfree"
+    },
+    {
+      "text": "   \n                 \n                  \n                  TikTok influencers fearmongering about birth control are playing into the hands of the right ",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/23/tiktok-influencers-fearmongering-birth-control-republicans-roe-v-wade"
+    },
+    {
+      "text": "TikTok influencers fearmongering about birth control are playing into the hands of the right",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/23/tiktok-influencers-fearmongering-birth-control-republicans-roe-v-wade"
+    },
+    {
+      "text": "   \n                 \n                  \n                  Melting \u2018snowflakes\u2019? How climate change became a new front in the right\u2019s culture war ",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/23/snowflakes-climate-change-right-culture-war-daily-mail"
+    },
+    {
+      "text": "Melting \u2018snowflakes\u2019? How climate change became a new front in the right\u2019s culture war",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/23/snowflakes-climate-change-right-culture-war-daily-mail"
+    },
+    {
+      "text": "   \n                   \n                    \n                    These soaring temperatures have given Britain a taste of the dystopia to come ",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/23/temperatures-britain-dystopia-wildfires-railway"
+    },
+    {
+      "text": " 564",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/23/temperatures-britain-dystopia-wildfires-railway#comments"
+    },
+    {
+      "text": " 564",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/23/temperatures-britain-dystopia-wildfires-railway#comments"
+    },
+    {
+      "text": "These soaring temperatures have given Britain a taste of the dystopia to come",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/23/temperatures-britain-dystopia-wildfires-railway"
+    },
+    {
+      "text": "   \n                   \n                    \n                    This Covid wave may be cresting \u2013 now let\u2019s prepare for the next one ",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/covid-wave-prepare-new-variants-nhs-hospital-admissions-england"
+    },
+    {
+      "text": " 223",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/covid-wave-prepare-new-variants-nhs-hospital-admissions-england#comments"
+    },
+    {
+      "text": " 223",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/covid-wave-prepare-new-variants-nhs-hospital-admissions-england#comments"
+    },
+    {
+      "text": "This Covid wave may be cresting \u2013 now let\u2019s prepare for the next one",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/covid-wave-prepare-new-variants-nhs-hospital-admissions-england"
+    },
+    {
+      "text": "   \n                   \n                    \n                    Brexit is a mood, not a policy \u2013 and Liz Truss captures it in all its delusion ",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/brexit-liz-truss-delusion-rishi-sunak-tory-members"
+    },
+    {
+      "text": " 580",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/brexit-liz-truss-delusion-rishi-sunak-tory-members#comments"
+    },
+    {
+      "text": " 580",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/brexit-liz-truss-delusion-rishi-sunak-tory-members#comments"
+    },
+    {
+      "text": "Brexit is a mood, not a policy \u2013 and Liz Truss captures it in all its delusion",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/brexit-liz-truss-delusion-rishi-sunak-tory-members"
+    },
+    {
+      "text": "   \n                   \n                    \n                    I\u2019ve fought wildfires for decades. None of it prepared me for the UK infernos this week ",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/wildfires-fire-service-climate-crisis-staff-cut"
+    },
+    {
+      "text": "I\u2019ve fought wildfires for decades. None of it prepared me for the UK infernos this week",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/wildfires-fire-service-climate-crisis-staff-cut"
+    },
+    {
+      "text": "Cartoon  Martin Rowson on UK prime ministers, present and future ",
+      "url": "https://www.theguardian.com/commentisfree/picture/2022/jul/22/martin-rowson-on-uk-prime-ministers-present-and-future"
+    },
+    {
+      "text": " 381",
+      "url": "https://www.theguardian.com/commentisfree/picture/2022/jul/22/martin-rowson-on-uk-prime-ministers-present-and-future#comments"
+    },
+    {
+      "text": " 381",
+      "url": "https://www.theguardian.com/commentisfree/picture/2022/jul/22/martin-rowson-on-uk-prime-ministers-present-and-future#comments"
+    },
+    {
+      "text": "Martin Rowson on UK prime ministers, present and future",
+      "url": "https://www.theguardian.com/commentisfree/picture/2022/jul/22/martin-rowson-on-uk-prime-ministers-present-and-future"
+    },
+    {
+      "text": "   \n                   \n                    \n                    The real story of January 6 isn\u2019t what Trump did \u2013 it\u2019s what he didn\u2019t ",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/the-real-story-of-january-6-isnt-what-trump-did-its-what-he-didnt"
+    },
+    {
+      "text": " 225",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/the-real-story-of-january-6-isnt-what-trump-did-its-what-he-didnt#comments"
+    },
+    {
+      "text": " 225",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/the-real-story-of-january-6-isnt-what-trump-did-its-what-he-didnt#comments"
+    },
+    {
+      "text": "The real story of January 6 isn\u2019t what Trump did \u2013 it\u2019s what he didn\u2019t",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/the-real-story-of-january-6-isnt-what-trump-did-its-what-he-didnt"
+    },
+    {
+      "text": "All editorials",
+      "url": "/tone/editorials"
+    },
+    {
+      "text": "All letters",
+      "url": "/tone/letters/all"
+    },
+    {
+      "text": "The Guardian view  European democracy: central bankers are villains and heroes ",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/the-guardian-view-on-european-democracy-central-bankers-are-villains-and-heroes"
+    },
+    {
+      "text": " 31",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/the-guardian-view-on-european-democracy-central-bankers-are-villains-and-heroes#comments"
+    },
+    {
+      "text": "European democracy: central bankers are villains and heroes",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/the-guardian-view-on-european-democracy-central-bankers-are-villains-and-heroes"
+    },
+    {
+      "text": "The Guardian view  Street art: on the rise in Leicester and beyond ",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/the-guardian-view-on-street-art-on-the-rise-in-leicester-and-beyond"
+    },
+    {
+      "text": " 55",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/the-guardian-view-on-street-art-on-the-rise-in-leicester-and-beyond#comments"
+    },
+    {
+      "text": "Street art: on the rise in Leicester and beyond",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/22/the-guardian-view-on-street-art-on-the-rise-in-leicester-and-beyond"
+    },
+    {
+      "text": "Letters  In British politics, race is still the elephant in the room ",
+      "url": "https://www.theguardian.com/politics/2022/jul/22/in-british-politics-race-is-still-the-elephant-in-the-room"
+    },
+    {
+      "text": "In British politics, race is still the elephant in the room",
+      "url": "https://www.theguardian.com/politics/2022/jul/22/in-british-politics-race-is-still-the-elephant-in-the-room"
+    },
+    {
+      "text": "Letters  Legislating against lying would do more harm than good ",
+      "url": "https://www.theguardian.com/law/2022/jul/22/legislating-against-lying-would-do-more-harm-than-good"
+    },
+    {
+      "text": "Legislating against lying would do more harm than good",
+      "url": "https://www.theguardian.com/law/2022/jul/22/legislating-against-lying-would-do-more-harm-than-good"
+    },
+    {
+      "text": " Climate crisis ",
+      "url": "https://www.theguardian.com/uk/environment"
+    },
+    {
+      "text": "Environment  Dip in UK woodland\u2019s ability to capture CO2 as felled trees not replaced  ",
+      "url": "https://www.theguardian.com/environment/2022/jul/23/dip-in-uk-woodlands-ability-to-capture-co2-as-felled-trees-not-replaced"
+    },
+    {
+      "text": "Dip in UK woodland\u2019s ability to capture CO2 as felled trees not replaced ",
+      "url": "https://www.theguardian.com/environment/2022/jul/23/dip-in-uk-woodlands-ability-to-capture-co2-as-felled-trees-not-replaced"
+    },
+    {
+      "text": "Environment  How Sussex farmers plan to rewild a green corridor to the sea  ",
+      "url": "https://www.theguardian.com/environment/2022/jul/22/sussex-farmers-plan-to-create-wildlife-rich-green-corridor-to-the-sea"
+    },
+    {
+      "text": "How Sussex farmers plan to rewild a green corridor to the sea ",
+      "url": "https://www.theguardian.com/environment/2022/jul/22/sussex-farmers-plan-to-create-wildlife-rich-green-corridor-to-the-sea"
+    },
+    {
+      "text": "\u2018We have travelled for a month to find grass'  Climate crisis piles pressure on Senegal\u2019s herders  ",
+      "url": "https://www.theguardian.com/global-development/2022/jul/22/climate-crisis-piles-pressure-on-senegal-herders"
+    },
+    {
+      "text": "Climate crisis piles pressure on Senegal\u2019s herders ",
+      "url": "https://www.theguardian.com/global-development/2022/jul/22/climate-crisis-piles-pressure-on-senegal-herders"
+    },
+    {
+      "text": "Tip us off",
+      "url": "https://www.theguardian.com/help/ng-interactive/2017/mar/17/contact-the-guardian-securely"
+    },
+    {
+      "text": " \n            \n             \n             \n              \n               \n                \n               \n              \n              \n               \n                \n               \n              \n             \n             \n              \n               \n                \n               \n              \n              \n               \n                \n               \n              \n             \n            \n           \n            Share stories with the Guardian securely and confidentially\n            \n           \n             \n              \n                \n              \n            \n            ",
+      "url": "https://www.theguardian.com/help/ng-interactive/2017/mar/17/contact-the-guardian-securely"
+    },
+    {
+      "text": "",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2022/jul/13/dear-bradford-a-love-letter-to-a-misunderstood-city-documentary"
+    },
+    {
+      "text": " \n             \n              \n              \n             ",
+      "url": "https://www.theguardian.com/documentaries"
+    },
+    {
+      "text": "Parole  Changes in England and Wales present \u2018clear danger to the public\u2019, unions warn ",
+      "url": "https://www.theguardian.com/society/2022/jul/23/dominic-raab-parole-changes-present-a-clear-danger-to-the-public"
+    },
+    {
+      "text": "Changes in England and Wales present \u2018clear danger to the public\u2019, unions warn",
+      "url": "https://www.theguardian.com/society/2022/jul/23/dominic-raab-parole-changes-present-a-clear-danger-to-the-public"
+    },
+    {
+      "text": "Suicide  Two-thirds of remand prisoners who took own lives were on care plans, FoI reveals ",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/23/two-thirds-of-remand-prisoners-who-took-own-lives-were-on-care-plans-foi-reveals"
+    },
+    {
+      "text": "Two-thirds of remand prisoners who took own lives were on care plans, FoI reveals",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/23/two-thirds-of-remand-prisoners-who-took-own-lives-were-on-care-plans-foi-reveals"
+    },
+    {
+      "text": "Queues, cancellations, chaos  What has gone wrong at London's Heathrow airport? ",
+      "url": "https://www.theguardian.com/business/2022/jul/23/queues-cancellations-chaos-what-has-gone-wrong-at-heathrow"
+    },
+    {
+      "text": "What has gone wrong at London's Heathrow airport?",
+      "url": "https://www.theguardian.com/business/2022/jul/23/queues-cancellations-chaos-what-has-gone-wrong-at-heathrow"
+    },
+    {
+      "text": "Essex  Body found after man went missing in sea near Clacton pier ",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/23/body-found-man-missing-clacton-pier-essex"
+    },
+    {
+      "text": "Body found after man went missing in sea near Clacton pier",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/23/body-found-man-missing-clacton-pier-essex"
+    },
+    {
+      "text": "Travel  Bulgaria and Turkey top list of cheapest destinations for British holidaymakers ",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/23/bulgaria-and-turkey-top-list-of-cheapest-destinations-for-british-holidaymakers"
+    },
+    {
+      "text": "Bulgaria and Turkey top list of cheapest destinations for British holidaymakers",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/23/bulgaria-and-turkey-top-list-of-cheapest-destinations-for-british-holidaymakers"
+    },
+    {
+      "text": "Scotland  Man wakes up after night on sleeper train to find it never left Glasgow ",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/22/passenger-spent-night-on-scotland-to-london-sleeper-train-but-went-nowhere"
+    },
+    {
+      "text": "Man wakes up after night on sleeper train to find it never left Glasgow",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/22/passenger-spent-night-on-scotland-to-london-sleeper-train-but-went-nowhere"
+    },
+    {
+      "text": "Rail strikes  More than 40,000 workers across Britain to strike on 27 July ",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/22/rail-strike-of-over-40000-workers-across-britain-to-go-ahead-on-27-july"
+    },
+    {
+      "text": "More than 40,000 workers across Britain to strike on 27 July",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/22/rail-strike-of-over-40000-workers-across-britain-to-go-ahead-on-27-july"
+    },
+    {
+      "text": "'They should be allowed to die'  Man who killed his wife in \u2018act of love\u2019 calls for assisted dying law  ",
+      "url": "https://www.theguardian.com/society/2022/jul/22/man-who-killed-his-wife-in-act-of-love-calls-for-assisted-dying-law"
+    },
+    {
+      "text": "Man who killed his wife in \u2018act of love\u2019 calls for assisted dying law ",
+      "url": "https://www.theguardian.com/society/2022/jul/22/man-who-killed-his-wife-in-act-of-love-calls-for-assisted-dying-law"
+    },
+    {
+      "text": "West Yorkshire  Woman and partner guilty of murdering her 15-year-old son ",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/22/woman-and-partner-guilty-murder-15-year-old-son-sebastian-kalinowski"
+    },
+    {
+      "text": "Woman and partner guilty of murdering her 15-year-old son",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/22/woman-and-partner-guilty-murder-15-year-old-son-sebastian-kalinowski"
+    },
+    {
+      "text": "Covid  Levels still rising in England and Scotland with 3.5m infected ",
+      "url": "https://www.theguardian.com/world/2022/jul/22/covid-levels-still-rising-england-scotland"
+    },
+    {
+      "text": "Levels still rising in England and Scotland with 3.5m infected",
+      "url": "https://www.theguardian.com/world/2022/jul/22/covid-levels-still-rising-england-scotland"
+    },
+    {
+      "text": " Cost of living crisis ",
+      "url": "https://www.theguardian.com/business/cost-of-living-crisis"
+    },
+    {
+      "text": "\u2018I can\u2019t afford what I used to\u2019  How the cost of living has changed viewing habits ",
+      "url": "https://www.theguardian.com/tv-and-radio/2022/jul/23/i-cant-afford-what-i-used-to-how-the-cost-of-living-has-changed-viewing-habits"
+    },
+    {
+      "text": "How the cost of living has changed viewing habits",
+      "url": "https://www.theguardian.com/tv-and-radio/2022/jul/23/i-cant-afford-what-i-used-to-how-the-cost-of-living-has-changed-viewing-habits"
+    },
+    {
+      "text": "\u2018There\u2019s nothing else to give them\u2019  Liverpool food banks confront rising hunger ",
+      "url": "https://www.theguardian.com/society/2022/jul/22/liverpool-food-banks-confront-rising-hunger"
+    },
+    {
+      "text": "Liverpool food banks confront rising hunger",
+      "url": "https://www.theguardian.com/society/2022/jul/22/liverpool-food-banks-confront-rising-hunger"
+    },
+    {
+      "text": "Energy bills  Suppliers row over how to protect customers\u2019 overpaid credit ",
+      "url": "https://www.theguardian.com/money/2022/jul/21/energy-suppliers-row-over-how-to-protect-customers-overpaid-credit"
+    },
+    {
+      "text": "Suppliers row over how to protect customers\u2019 overpaid credit",
+      "url": "https://www.theguardian.com/money/2022/jul/21/energy-suppliers-row-over-how-to-protect-customers-overpaid-credit"
+    },
+    {
+      "text": "Cost of living crisis  UK relief package with free West End tickets not helping, say charities ",
+      "url": "https://www.theguardian.com/business/2022/jul/21/government-cost-of-living-package-abandons-struggling-families-say-charities"
+    },
+    {
+      "text": "UK relief package with free West End tickets not helping, say charities",
+      "url": "https://www.theguardian.com/business/2022/jul/21/government-cost-of-living-package-abandons-struggling-families-say-charities"
+    },
+    {
+      "text": " Around the world ",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "text": "Congo auction  DRC to sell off oil and gas permits in endangered gorilla habitat ",
+      "url": "https://www.theguardian.com/environment/2022/jul/23/democratic-republic-of-congo-auction-oil-gas-permits-endangered-gorilla-habitat-aoe"
+    },
+    {
+      "text": "DRC to sell off oil and gas permits in endangered gorilla habitat",
+      "url": "https://www.theguardian.com/environment/2022/jul/23/democratic-republic-of-congo-auction-oil-gas-permits-endangered-gorilla-habitat-aoe"
+    },
+    {
+      "text": "Seattle shooting  One dead and five injured in suburb atttack ",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/renton-shooting-seattle-suburb-washington"
+    },
+    {
+      "text": "One dead and five injured in suburb atttack",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/renton-shooting-seattle-suburb-washington"
+    },
+    {
+      "text": "Johnny Depp  Actor follows Amber Heard in filing appeal over defamation trial ",
+      "url": "https://www.theguardian.com/film/2022/jul/23/johnny-depp-follows-amber-heard-filing-appeal-defamation"
+    },
+    {
+      "text": "Actor follows Amber Heard in filing appeal over defamation trial",
+      "url": "https://www.theguardian.com/film/2022/jul/23/johnny-depp-follows-amber-heard-filing-appeal-defamation"
+    },
+    {
+      "text": "Greece  Lesbos tourist resort evacuated as wildfire destroys homes ",
+      "url": "https://www.theguardian.com/world/2022/jul/23/lesbos-tourist-resort-evacuated-wildfire-destroys-homes-greece"
+    },
+    {
+      "text": "Lesbos tourist resort evacuated as wildfire destroys homes",
+      "url": "https://www.theguardian.com/world/2022/jul/23/lesbos-tourist-resort-evacuated-wildfire-destroys-homes-greece"
+    },
+    {
+      "text": "Extreme weather  China braces for \u2018big heat\u2019 day with temperatures set to soar ",
+      "url": "https://www.theguardian.com/world/2022/jul/23/china-braces-for-big-heat-day-with-temperatures-set-to-soar"
+    },
+    {
+      "text": "China braces for \u2018big heat\u2019 day with temperatures set to soar",
+      "url": "https://www.theguardian.com/world/2022/jul/23/china-braces-for-big-heat-day-with-temperatures-set-to-soar"
+    },
+    {
+      "text": "London  Australian activist Drew Pavlou arrested but denies sending Chinese embassy bomb threat ",
+      "url": "https://www.theguardian.com/australia-news/2022/jul/23/australian-activist-drew-pavlou-arrested-in-london-but-denies-sending-chinese-embassy-bomb-threat"
+    },
+    {
+      "text": "Australian activist Drew Pavlou arrested but denies sending Chinese embassy bomb threat",
+      "url": "https://www.theguardian.com/australia-news/2022/jul/23/australian-activist-drew-pavlou-arrested-in-london-but-denies-sending-chinese-embassy-bomb-threat"
+    },
+    {
+      "text": "Volkswagen  VW boss Herbert Diess exits three years early after turbulent tenure ",
+      "url": "https://www.theguardian.com/business/2022/jul/22/vw-boss-herbert-diess-exits-three-years-early-after-turbulent-tenure"
+    },
+    {
+      "text": "VW boss Herbert Diess exits three years early after turbulent tenure",
+      "url": "https://www.theguardian.com/business/2022/jul/22/vw-boss-herbert-diess-exits-three-years-early-after-turbulent-tenure"
+    },
+    {
+      "text": "Steve Bannon  Former Trump strategist convicted of contempt of Congress for defying subpoena ",
+      "url": "https://www.theguardian.com/us-news/2022/jul/22/steve-bannon-trial-trump-contempt-congress-charges"
+    },
+    {
+      "text": "Former Trump strategist convicted of contempt of Congress for defying subpoena",
+      "url": "https://www.theguardian.com/us-news/2022/jul/22/steve-bannon-trial-trump-contempt-congress-charges"
+    },
+    {
+      "text": "Israel  Man dies after being sucked into swimming pool sinkhole ",
+      "url": "https://www.theguardian.com/world/2022/jul/22/man-dies-after-being-sucked-into-swimming-pool-sinkhole-in-israel"
+    },
+    {
+      "text": "Man dies after being sucked into swimming pool sinkhole",
+      "url": "https://www.theguardian.com/world/2022/jul/22/man-dies-after-being-sucked-into-swimming-pool-sinkhole-in-israel"
+    },
+    {
+      "text": "Tesla  Mexico gives dedicated lane at the border to speed up crossing into the US ",
+      "url": "https://www.theguardian.com/technology/2022/jul/22/mexico-us-tesla-border-crossing-suppliers"
+    },
+    {
+      "text": "Mexico gives dedicated lane at the border to speed up crossing into the US",
+      "url": "https://www.theguardian.com/technology/2022/jul/22/mexico-us-tesla-border-crossing-suppliers"
+    },
+    {
+      "text": "Video",
+      "url": "video"
+    },
+    {
+      "text": "Documentaries",
+      "url": "/documentaries"
+    },
+    {
+      "text": "Eight Jan 6 hearings in eight minutes  Key moments from US Capitol attack committee ",
+      "url": "https://www.theguardian.com/us-news/video/2022/jul/22/eight-jan-6-hearings-in-eight-minutes-key-moments-from-us-capitol-attack-committee-video"
+    },
+    {
+      "text": "",
+      "url": "https://www.theguardian.com/us-news/video/2022/jul/22/eight-jan-6-hearings-in-eight-minutes-key-moments-from-us-capitol-attack-committee-video"
+    },
+    {
+      "text": "Made in London  The TikTok star taking on poor social housing  ",
+      "url": "https://www.theguardian.com/uk-news/video/2022/jun/27/made-in-london-the-tiktok-star-taking-on-poor-social-housing-video"
+    },
+    {
+      "text": "",
+      "url": "https://www.theguardian.com/uk-news/video/2022/jun/27/made-in-london-the-tiktok-star-taking-on-poor-social-housing-video"
+    },
+    {
+      "text": "Environment  How Kenya is flooding in a drought ",
+      "url": "https://www.theguardian.com/world/video/2022/jul/12/how-kenya-is-flooding-in-a-drought-video"
+    },
+    {
+      "text": "",
+      "url": "https://www.theguardian.com/world/video/2022/jul/12/how-kenya-is-flooding-in-a-drought-video"
+    },
+    {
+      "text": "'Who is not afraid of death?'  Travelling into the Amazon's wild west ",
+      "url": "https://www.theguardian.com/world/video/2022/jul/01/travelling-into-the-amazons-wild-west-who-is-not-afraid-of-death-video"
+    },
+    {
+      "text": "",
+      "url": "https://www.theguardian.com/world/video/2022/jul/01/travelling-into-the-amazons-wild-west-who-is-not-afraid-of-death-video"
+    },
+    {
+      "text": "'What is stopping us becoming Ukraine 2.0?'  The Estonian women preparing for war ",
+      "url": "https://www.theguardian.com/world/video/2022/jun/23/what-is-stopping-us-becoming-ukraine-20-the-estonian-women-preparing-for-war"
+    },
+    {
+      "text": "",
+      "url": "https://www.theguardian.com/world/video/2022/jun/23/what-is-stopping-us-becoming-ukraine-20-the-estonian-women-preparing-for-war"
+    },
+    {
+      "text": "Made in North Edinburgh  Bringing a festival back to life ",
+      "url": "https://www.theguardian.com/uk-news/video/2022/jun/29/made-in-north-edinburgh-bringing-a-festival-back-to-life-video"
+    },
+    {
+      "text": "",
+      "url": "https://www.theguardian.com/uk-news/video/2022/jun/29/made-in-north-edinburgh-bringing-a-festival-back-to-life-video"
+    },
+    {
+      "text": "Made in Tredegar  The Welsh town that changed the world ",
+      "url": "https://www.theguardian.com/uk-news/video/2022/jun/09/made-in-tredegar-the-welsh-town-that-changed-the-world-video"
+    },
+    {
+      "text": "",
+      "url": "https://www.theguardian.com/uk-news/video/2022/jun/09/made-in-tredegar-the-welsh-town-that-changed-the-world-video"
+    },
+    {
+      "text": "Putin's Russia  Dictator syndrome and the rise of a 'mafia state' ",
+      "url": "https://www.theguardian.com/world/video/2022/jun/20/putins-russia-dictator-syndrome-and-the-rise-of-a-mafia-state-video"
+    },
+    {
+      "text": "",
+      "url": "https://www.theguardian.com/world/video/2022/jun/20/putins-russia-dictator-syndrome-and-the-rise-of-a-mafia-state-video"
+    },
+    {
+      "text": " Culture ",
+      "url": "https://www.theguardian.com/uk/culture"
+    },
+    {
+      "text": "\u2018I\u2019m very pleased we\u2019ve got the same name\u2019  Brian Cox meets Brian Cox ",
+      "url": "https://www.theguardian.com/culture/2022/jul/23/succession-actor-brian-cox-meets-professor-brian-cox"
+    },
+    {
+      "text": " 130",
+      "url": "https://www.theguardian.com/culture/2022/jul/23/succession-actor-brian-cox-meets-professor-brian-cox#comments"
+    },
+    {
+      "text": "Brian Cox meets Brian Cox",
+      "url": "https://www.theguardian.com/culture/2022/jul/23/succession-actor-brian-cox-meets-professor-brian-cox"
+    },
+    {
+      "text": "\u2018Our only hope is to find joy\u2019  Singer Maggie Rogers on fame and her post-pandemic album ",
+      "url": "https://www.theguardian.com/music/2022/jul/23/maggie-rogers-interview"
+    },
+    {
+      "text": "Singer Maggie Rogers on fame and her post-pandemic album",
+      "url": "https://www.theguardian.com/music/2022/jul/23/maggie-rogers-interview"
+    },
+    {
+      "text": "Down the rabbit hole  What links Joyride to The Simpsons via Bobby Gillespie? ",
+      "url": "https://www.theguardian.com/culture/2022/jul/23/what-links-joyride-to-the-simpsons-via-bobby-gillespie"
+    },
+    {
+      "text": "What links Joyride to The Simpsons via Bobby Gillespie?",
+      "url": "https://www.theguardian.com/culture/2022/jul/23/what-links-joyride-to-the-simpsons-via-bobby-gillespie"
+    },
+    {
+      "text": "Body politics  The secret history of the US anti-abortion movement ",
+      "url": "https://www.theguardian.com/books/2022/jul/23/body-politics"
+    },
+    {
+      "text": "The secret history of the US anti-abortion movement",
+      "url": "https://www.theguardian.com/books/2022/jul/23/body-politics"
+    },
+    {
+      "text": "A complete guide to this week\u2019s entertainment  From Where the Crawdads Sing to Uncoupled ",
+      "url": "https://www.theguardian.com/culture/2022/jul/23/going-out-staying-in-complete-guide-to-this-weeks-entertainment"
+    },
+    {
+      "text": "From Where the Crawdads Sing to Uncoupled",
+      "url": "https://www.theguardian.com/culture/2022/jul/23/going-out-staying-in-complete-guide-to-this-weeks-entertainment"
+    },
+    {
+      "text": "One to watch  Jitwam ",
+      "url": "https://www.theguardian.com/music/2022/jul/23/one-to-watch-jitwam-third"
+    },
+    {
+      "text": "Jitwam",
+      "url": "https://www.theguardian.com/music/2022/jul/23/one-to-watch-jitwam-third"
+    },
+    {
+      "text": " \n              \n              What\u2019s on Netflix & Amazon this month \n              ",
+      "url": "https://www.theguardian.com/tv-and-radio/ng-interactive/2022/jul/01/whats-on-netflix-and-amazon-this-month-july"
+    },
+    {
+      "text": "Learn more about Guardian Labs content  \n            \n             \n             ",
+      "url": "https://www.theguardian.com/content-funding"
+    },
+    {
+      "text": "All win",
+      "url": "/all-win"
+    },
+    {
+      "text": "  \n         \n          \n          \n          Guardian Labs ",
+      "url": "https://www.theguardian.com/guardian-labs-us"
+    },
+    {
+      "text": "  Getting a kick out of fashion The designer creating new looks from old football shirts  \n         \n          \n           \n           \n           \n           \n           \n           \n           \n           \n           \n          \n         \n        \n         Designer Sophie Hird brings flamboyance and football together in her eclectic collections, which are made from upcycled team kits\n         ",
+      "url": "/all-win/2022/jul/08/getting-a-kick-out-of-fashion-the-designer-creating-new-looks-from-old-football-shirts"
+    },
+    {
+      "text": "  Changing faces How a body artist found creative ways to adapt her business  \n         \n          \n           \n           \n           \n           \n           \n           \n           \n           \n           \n          \n         \n        \n         Amy Jones has worn many hats to earn a living, including face-painting at football matches. Here, she explains how being versatile has helped her business thrive\n         ",
+      "url": "/all-win/2022/jul/15/changing-faces-how-a-body-artist-found-creative-ways-to-adapt-her-business"
+    },
+    {
+      "text": "  Business goals How England legend Karen Carney is helping former players achieve off-the-pitch success  \n         \n          \n           \n           \n           \n           \n           \n           \n           \n           \n           \n          \n         \n        \n         The idea of life after professional football can be daunting for many women, but career-development programmes like The Second Half are helping many to strike out into new roles\n         ",
+      "url": "/all-win/2022/jun/24/business-goals-how-england-legend-karen-carney-is-helping-former-players-achieve-off-the-pitch-success"
+    },
+    {
+      "text": "  Sweet taste of success The ethical chocolate-maker doing things her way  \n         \n          \n           \n           \n           \n           \n           \n           \n           \n           \n           \n          \n         \n        \n         As a teenager, Amarachi Clarke overcame huge hurdles to follow her passion for football. Now, she\u2019s applying the same determination to her bean-to-bar chocolate business\n         ",
+      "url": "/all-win/2022/jun/24/sweet-taste-of-success-the-ethical-chocolate-maker-doing-things-her-way"
+    },
+    {
+      "text": "  ",
+      "url": "https://ad.doubleclick.net/ddm/trackclk/N6024.678589THEGUARDIAN.CO.UK/B28031249.339033436;dc_trk_aid=530943435;dc_trk_cid=173662056;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd="
+    },
+    {
+      "text": " Lifestyle ",
+      "url": "https://www.theguardian.com/uk/lifeandstyle"
+    },
+    {
+      "text": "Food  Meera Sodha\u2019s vegan recipe for fresh sweetcorn polenta with greens and hazelnuts ",
+      "url": "https://www.theguardian.com/food/2022/jul/23/vegan-recipe-sweetcorn-polenta-greens-hazelnuts-meera-sodha"
+    },
+    {
+      "text": " 8",
+      "url": "https://www.theguardian.com/food/2022/jul/23/vegan-recipe-sweetcorn-polenta-greens-hazelnuts-meera-sodha#comments"
+    },
+    {
+      "text": "Roast chicken, a yoghurt dip and crispy fritters Yotam Ottolenghi\u2019s tomato recipes",
+      "url": "https://www.theguardian.com/food/2022/jul/23/roast-chicken-a-yoghurt-dip-and-crispy-fritters-yotam-ottolenghi-tomato-recipes"
+    },
+    {
+      "text": "Food Rahel Stephanie\u2019s vegan Indonesian snacks \u2013 recipes",
+      "url": "https://www.theguardian.com/food/2022/jul/23/vegan-indonesian-snacks-recipes-mushroom-satay-corn-fritters-aubergine-sambal"
+    },
+    {
+      "text": "Summer food and drink Ravinder Bhogal\u2019s recipes for cooking with peaches",
+      "url": "https://www.theguardian.com/food/2022/jul/23/peach-recipes-pilaf-fattoush-ravinder-bhogal"
+    },
+    {
+      "text": "Roast chicken, a yoghurt dip and crispy fritters Yotam Ottolenghi\u2019s tomato recipes",
+      "url": "https://www.theguardian.com/food/2022/jul/23/roast-chicken-a-yoghurt-dip-and-crispy-fritters-yotam-ottolenghi-tomato-recipes"
+    },
+    {
+      "text": "Food Rahel Stephanie\u2019s vegan Indonesian snacks \u2013 recipes",
+      "url": "https://www.theguardian.com/food/2022/jul/23/vegan-indonesian-snacks-recipes-mushroom-satay-corn-fritters-aubergine-sambal"
+    },
+    {
+      "text": "Summer food and drink Ravinder Bhogal\u2019s recipes for cooking with peaches",
+      "url": "https://www.theguardian.com/food/2022/jul/23/peach-recipes-pilaf-fattoush-ravinder-bhogal"
+    },
+    {
+      "text": "Meera Sodha\u2019s vegan recipe for fresh sweetcorn polenta with greens and hazelnuts",
+      "url": "https://www.theguardian.com/food/2022/jul/23/vegan-recipe-sweetcorn-polenta-greens-hazelnuts-meera-sodha"
+    },
+    {
+      "text": "Blind date  \u2018We filled some awkward silences with small talk, which I hate\u2019 ",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/blind-date"
+    },
+    {
+      "text": "\u2018We filled some awkward silences with small talk, which I hate\u2019",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/blind-date"
+    },
+    {
+      "text": "'Getting away with murder'  Driver fights battle over parking fines at mother\u2019s house ",
+      "url": "https://www.theguardian.com/money/2022/jul/23/driver-parking-fines-code"
+    },
+    {
+      "text": "Driver fights battle over parking fines at mother\u2019s house",
+      "url": "https://www.theguardian.com/money/2022/jul/23/driver-parking-fines-code"
+    },
+    {
+      "text": "Sarah Perry\u2019s postcard from England  \u2018Cream tea defeats us. It\u2019s the best we ever had\u2019 ",
+      "url": "https://www.theguardian.com/travel/2022/jul/23/sarah-perry-postcard-from-england-cream-tea-defeats-us-its-the-best-we-ever-had"
+    },
+    {
+      "text": " 49",
+      "url": "https://www.theguardian.com/travel/2022/jul/23/sarah-perry-postcard-from-england-cream-tea-defeats-us-its-the-best-we-ever-had#comments"
+    },
+    {
+      "text": "\u2018Cream tea defeats us. It\u2019s the best we ever had\u2019",
+      "url": "https://www.theguardian.com/travel/2022/jul/23/sarah-perry-postcard-from-england-cream-tea-defeats-us-its-the-best-we-ever-had"
+    },
+    {
+      "text": "\u2018I wondered if they\u2019d studied old hip-hop photos\u2019  Alain Levitt\u2019s best phone picture ",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/i-wondered-if-theyd-studied-old-hip-hop-photos-alain-levitts-best-phone-picture"
+    },
+    {
+      "text": "Alain Levitt\u2019s best phone picture",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/i-wondered-if-theyd-studied-old-hip-hop-photos-alain-levitts-best-phone-picture"
+    },
+    {
+      "text": "Waste not  How to turn fish scraps into croquettes ",
+      "url": "https://www.theguardian.com/food/2022/jul/23/how-to-turn-fish-scraps-into-croquettes-recipe-zero-waste-cooking"
+    },
+    {
+      "text": " 47",
+      "url": "https://www.theguardian.com/food/2022/jul/23/how-to-turn-fish-scraps-into-croquettes-recipe-zero-waste-cooking#comments"
+    },
+    {
+      "text": "How to turn fish scraps into croquettes",
+      "url": "https://www.theguardian.com/food/2022/jul/23/how-to-turn-fish-scraps-into-croquettes-recipe-zero-waste-cooking"
+    },
+    {
+      "text": "Tell us  Have you cut your streaming service subscription? ",
+      "url": "https://www.theguardian.com/tv-and-radio/2022/jul/20/tell-us-have-you-cut-your-streaming-service-subscription"
+    },
+    {
+      "text": "Have you cut your streaming service subscription?",
+      "url": "https://www.theguardian.com/tv-and-radio/2022/jul/20/tell-us-have-you-cut-your-streaming-service-subscription"
+    },
+    {
+      "text": "Working in the UK  Have you returned to work after retiring? ",
+      "url": "https://www.theguardian.com/money/2022/jul/22/tell-us-have-you-returned-to-work-after-retiring"
+    },
+    {
+      "text": "Have you returned to work after retiring?",
+      "url": "https://www.theguardian.com/money/2022/jul/22/tell-us-have-you-returned-to-work-after-retiring"
+    },
+    {
+      "text": "Young people in the UK  How is the cost of living crisis affecting you? ",
+      "url": "https://www.theguardian.com/society/2022/jul/20/young-people-in-the-uk-how-is-the-cost-of-living-crisis-affecting-you"
+    },
+    {
+      "text": "How is the cost of living crisis affecting you?",
+      "url": "https://www.theguardian.com/society/2022/jul/20/young-people-in-the-uk-how-is-the-cost-of-living-crisis-affecting-you"
+    },
+    {
+      "text": "Monkeypox  Have you been affected by the UK monkeypox outbreak? ",
+      "url": "https://www.theguardian.com/world/2022/jun/09/tell-us-have-you-been-affected-by-the-uk-monkeypox-outbreak"
+    },
+    {
+      "text": "Have you been affected by the UK monkeypox outbreak?",
+      "url": "https://www.theguardian.com/world/2022/jun/09/tell-us-have-you-been-affected-by-the-uk-monkeypox-outbreak"
+    },
+    {
+      "text": "The long read",
+      "url": "/news/series/the-long-read"
+    },
+    {
+      "text": "\u2018The beaches belong to the people\u2019  Inside Puerto Rico\u2019s anti-gentrification protests ",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/puerto-rico-beach-anti-gentrification-protests"
+    },
+    {
+      "text": "Inside Puerto Rico\u2019s anti-gentrification protests",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/puerto-rico-beach-anti-gentrification-protests"
+    },
+    {
+      "text": "Queues, cancellations, chaos  What has gone wrong at Heathrow? ",
+      "url": "https://www.theguardian.com/business/2022/jul/23/queues-cancellations-chaos-what-has-gone-wrong-at-heathrow"
+    },
+    {
+      "text": "What has gone wrong at Heathrow?",
+      "url": "https://www.theguardian.com/business/2022/jul/23/queues-cancellations-chaos-what-has-gone-wrong-at-heathrow"
+    },
+    {
+      "text": "Coronavirus  Why do the minority who haven\u2019t had Covid account for most new infections? ",
+      "url": "https://www.theguardian.com/world/2022/jul/22/why-do-the-minority-who-havent-had-covid-account-for-most-new-infections"
+    },
+    {
+      "text": "Why do the minority who haven\u2019t had Covid account for most new infections?",
+      "url": "https://www.theguardian.com/world/2022/jul/22/why-do-the-minority-who-havent-had-covid-account-for-most-new-infections"
+    },
+    {
+      "text": "\u2018Worst it\u2019s ever been\u2019  Travellers bemoan gridlock at Dover port ",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/22/dover-traffic-travellers-bemoan-gridlock"
+    },
+    {
+      "text": "Travellers bemoan gridlock at Dover port",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/22/dover-traffic-travellers-bemoan-gridlock"
+    },
+    {
+      "text": "Analysis  \u2018Unfocused\u2019 Boris Johnson adds to image of a government giving up ",
+      "url": "https://www.theguardian.com/politics/2022/jul/22/unfocused-boris-johnson-adds-to-image-of-a-government-giving-up"
+    },
+    {
+      "text": "\u2018Unfocused\u2019 Boris Johnson adds to image of a government giving up",
+      "url": "https://www.theguardian.com/politics/2022/jul/22/unfocused-boris-johnson-adds-to-image-of-a-government-giving-up"
+    },
+    {
+      "text": "'My life was extremely complex'  A \u2018tumultuous journey\u2019 from ultra-Orthodox school to physics degree ",
+      "url": "https://www.theguardian.com/world/2022/jul/22/a-tumultuous-journey-from-ultra-orthodox-school-to-physics-degree"
+    },
+    {
+      "text": "A \u2018tumultuous journey\u2019 from ultra-Orthodox school to physics degree",
+      "url": "https://www.theguardian.com/world/2022/jul/22/a-tumultuous-journey-from-ultra-orthodox-school-to-physics-degree"
+    },
+    {
+      "text": " Newsletters ",
+      "url": "https://www.theguardian.com/email-newsletters"
+    },
+    {
+      "text": "Hear Here  Sign up for our curated weekly podcast newsletter ",
+      "url": "https://www.theguardian.com/info/2017/may/10/hear-here-podcast-recommendations-sign-up-for-unexpected-audio-pleasures"
+    },
+    {
+      "text": "Sign up for our curated weekly podcast newsletter",
+      "url": "https://www.theguardian.com/info/2017/may/10/hear-here-podcast-recommendations-sign-up-for-unexpected-audio-pleasures"
+    },
+    {
+      "text": "Design Review  Get the newsletter for the way we live now ",
+      "url": "https://www.theguardian.com/lifeandstyle/2020/sep/09/design-review-get-the-newsletter-for-the-way-we-live-now"
+    },
+    {
+      "text": "Get the newsletter for the way we live now",
+      "url": "https://www.theguardian.com/lifeandstyle/2020/sep/09/design-review-get-the-newsletter-for-the-way-we-live-now"
+    },
+    {
+      "text": "TechScape  Our weekly guide to the world of technology  ",
+      "url": "https://www.theguardian.com/info/ng-interactive/2021/jun/25/techscape-sign-up"
+    },
+    {
+      "text": "Our weekly guide to the world of technology ",
+      "url": "https://www.theguardian.com/info/ng-interactive/2021/jun/25/techscape-sign-up"
+    },
+    {
+      "text": "Pushing Buttons  Keza MacDonald\u2019s weekly look at the world of gaming ",
+      "url": "https://www.theguardian.com/info/ng-interactive/2021/nov/24/sign-up-for-pushing-buttons-keza-macdonalds-weekly-look-at-the-world-of-gaming"
+    },
+    {
+      "text": "Keza MacDonald\u2019s weekly look at the world of gaming",
+      "url": "https://www.theguardian.com/info/ng-interactive/2021/nov/24/sign-up-for-pushing-buttons-keza-macdonalds-weekly-look-at-the-world-of-gaming"
+    },
+    {
+      "text": " In pictures ",
+      "url": "https://www.theguardian.com/inpictures"
+    },
+    {
+      "text": "Best photographs",
+      "url": "/news/series/ten-best-photographs-of-the-day"
+    },
+    {
+      "text": "Photography galleries",
+      "url": "/artanddesign/photography"
+    },
+    {
+      "text": "The Guardian picture essay",
+      "url": "/artanddesign/series/guardian-picture-essay"
+    },
+    {
+      "text": "Print sales",
+      "url": "/artanddesign/series/gnm-print-sales"
+    },
+    {
+      "text": "Art and design  The week around the world in 20 pictures ",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2022/jul/22/the-week-around-the-world-in-20-pictures"
+    },
+    {
+      "text": "The week around the world in 20 pictures",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2022/jul/22/the-week-around-the-world-in-20-pictures"
+    },
+    {
+      "text": "Curiouser and curiouser  ALiCE by Jasmin Vardimon ",
+      "url": "https://www.theguardian.com/stage/gallery/2022/jul/22/alice-by-jasmin-vardimon-in-pictures"
+    },
+    {
+      "text": "ALiCE by Jasmin Vardimon",
+      "url": "https://www.theguardian.com/stage/gallery/2022/jul/22/alice-by-jasmin-vardimon-in-pictures"
+    },
+    {
+      "text": "Brazil  Deadly police raid in Rio de Janeiro ",
+      "url": "https://www.theguardian.com/world/gallery/2022/jul/22/deadly-police-raid-rio-de-janeiro-brazil-in-pictures"
+    },
+    {
+      "text": "Deadly police raid in Rio de Janeiro",
+      "url": "https://www.theguardian.com/world/gallery/2022/jul/22/deadly-police-raid-rio-de-janeiro-brazil-in-pictures"
+    },
+    {
+      "text": "Cycling  Tour de France fans line the route ",
+      "url": "https://www.theguardian.com/sport/gallery/2022/jul/22/tour-de-france-fans-line-route-in-pictures"
+    },
+    {
+      "text": "Tour de France fans line the route",
+      "url": "https://www.theguardian.com/sport/gallery/2022/jul/22/tour-de-france-fans-line-route-in-pictures"
+    },
+    {
+      "text": "The week in wildlife  Hot cows and a lost walrus ",
+      "url": "https://www.theguardian.com/environment/gallery/2022/jul/22/the-week-in-wildlife-in-pictures"
+    },
+    {
+      "text": "Hot cows and a lost walrus",
+      "url": "https://www.theguardian.com/environment/gallery/2022/jul/22/the-week-in-wildlife-in-pictures"
+    },
+    {
+      "text": "The Spirit Within  Photographer Kenro Izu\u2019s Impermanence ",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2022/jul/21/the-spirit-within-photographer-kenro-izus-impermanence-in-pictures"
+    },
+    {
+      "text": "Photographer Kenro Izu\u2019s Impermanence",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2022/jul/21/the-spirit-within-photographer-kenro-izus-impermanence-in-pictures"
+    },
+    {
+      "text": " Most viewed Most viewed in UK news ",
+      "url": "#tabs-popular-1"
+    },
+    {
+      "text": " Most viewed Across the guardian ",
+      "url": "#tabs-popular-2"
+    },
+    {
+      "text": "Live  Russia-Ukraine war: Russian missiles hit Odesa port hours after grain export deal agreed \u2013 live ",
+      "url": "https://www.theguardian.com/world/live/2022/jul/23/russia-ukraine-war-kharkiv-hit-by-several-powerful-strikes-says-mayor-lithuania-lifts-kaliningrad-rail-ban-live"
+    },
+    {
+      "text": "Russia-Ukraine war: Russian missiles hit Odesa port hours after grain export deal agreed \u2013 live",
+      "url": "https://www.theguardian.com/world/live/2022/jul/23/russia-ukraine-war-kharkiv-hit-by-several-powerful-strikes-says-mayor-lithuania-lifts-kaliningrad-rail-ban-live"
+    },
+    {
+      "text": "Live  French MP says Brexit to blame for Dover gridlock as travellers warned of delays \u2013 live ",
+      "url": "https://www.theguardian.com/uk-news/live/2022/jul/23/travel-chaos-live-latest-updates-dover-queues-uk-france-border"
+    },
+    {
+      "text": "French MP says Brexit to blame for Dover gridlock as travellers warned of delays \u2013 live",
+      "url": "https://www.theguardian.com/uk-news/live/2022/jul/23/travel-chaos-live-latest-updates-dover-queues-uk-france-border"
+    },
+    {
+      "text": "  Rishi Sunak says he is underdog in PM race as \u2018forces that be\u2019 want Truss ",
+      "url": "https://www.theguardian.com/politics/2022/jul/23/rishi-sunak-vows-uk-crisis-footing-becomes-pm"
+    },
+    {
+      "text": "Rishi Sunak says he is underdog in PM race as \u2018forces that be\u2019 want Truss",
+      "url": "https://www.theguardian.com/politics/2022/jul/23/rishi-sunak-vows-uk-crisis-footing-becomes-pm"
+    },
+    {
+      "text": "  \u2018I\u2019m very pleased we\u2019ve got the same name\u2019: Brian Cox meets Brian Cox ",
+      "url": "https://www.theguardian.com/culture/2022/jul/23/succession-actor-brian-cox-meets-professor-brian-cox"
+    },
+    {
+      "text": "\u2018I\u2019m very pleased we\u2019ve got the same name\u2019: Brian Cox meets Brian Cox",
+      "url": "https://www.theguardian.com/culture/2022/jul/23/succession-actor-brian-cox-meets-professor-brian-cox"
+    },
+    {
+      "text": "  Man wakes up after night on sleeper train to find it never left Glasgow ",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/22/passenger-spent-night-on-scotland-to-london-sleeper-train-but-went-nowhere"
+    },
+    {
+      "text": "Man wakes up after night on sleeper train to find it never left Glasgow",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/22/passenger-spent-night-on-scotland-to-london-sleeper-train-but-went-nowhere"
+    },
+    {
+      "text": "  I\u2019ve been meeting with the same group of men for 36 years \u2013 here\u2019s what they\u2019ve taught me ",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/meeting-same-group-men-years-david-spiegelhalter"
+    },
+    {
+      "text": "I\u2019ve been meeting with the same group of men for 36 years \u2013 here\u2019s what they\u2019ve taught me",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/meeting-same-group-men-years-david-spiegelhalter"
+    },
+    {
+      "text": "  Even the monarchy doesn\u2019t want a new royal yacht. But Liz Truss does ",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/23/even-the-monarchy-doesnt-want-a-new-royal-yacht-but-liz-truss-does"
+    },
+    {
+      "text": "Even the monarchy doesn\u2019t want a new royal yacht. But Liz Truss does",
+      "url": "https://www.theguardian.com/uk-news/2022/jul/23/even-the-monarchy-doesnt-want-a-new-royal-yacht-but-liz-truss-does"
+    },
+    {
+      "text": "  Chinese man executed for murder of former wife during live stream ",
+      "url": "https://www.theguardian.com/world/2022/jul/23/chinese-man-executed-murder-former-wife-live-stream"
+    },
+    {
+      "text": "Chinese man executed for murder of former wife during live stream",
+      "url": "https://www.theguardian.com/world/2022/jul/23/chinese-man-executed-murder-former-wife-live-stream"
+    },
+    {
+      "text": "  Johnny Depp follows Amber Heard in filing appeal over defamation trial ",
+      "url": "https://www.theguardian.com/film/2022/jul/23/johnny-depp-follows-amber-heard-filing-appeal-defamation"
+    },
+    {
+      "text": "Johnny Depp follows Amber Heard in filing appeal over defamation trial",
+      "url": "https://www.theguardian.com/film/2022/jul/23/johnny-depp-follows-amber-heard-filing-appeal-defamation"
+    },
+    {
+      "text": "  Second mortgages: lending soars as Britons struggle to pay off debt ",
+      "url": "https://www.theguardian.com/money/2022/jul/23/second-mortgages-lending-pay-off-debt-loan-inflation-cost-of-living"
+    },
+    {
+      "text": "Second mortgages: lending soars as Britons struggle to pay off debt",
+      "url": "https://www.theguardian.com/money/2022/jul/23/second-mortgages-lending-pay-off-debt-loan-inflation-cost-of-living"
+    },
+    {
+      "text": "\n    \n    \n    \n Inside the remote California county where the far right took over: \u2018Civility went out the window\u2019\n",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/california-shasta-county-far-right-extremists-politics-pandemic"
+    },
+    {
+      "text": "Inside the remote California county where the far right took over: \u2018Civility went out the window\u2019",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/california-shasta-county-far-right-extremists-politics-pandemic"
+    },
+    {
+      "text": "\n    \n    \n    \n \u2018It\u2019s a kangaroo court\u2019: in key state, Trump backers dismiss January 6 hearings\n",
+      "url": "https://www.theguardian.com/us-news/2022/jul/22/donald-trump-supporters-january-6-hearings"
+    },
+    {
+      "text": "\u2018It\u2019s a kangaroo court\u2019: in key state, Trump backers dismiss January 6 hearings",
+      "url": "https://www.theguardian.com/us-news/2022/jul/22/donald-trump-supporters-january-6-hearings"
+    },
+    {
+      "text": "\n    \n    \n    \n Woeful Red Sox concede inside-the-park grand slam in record 28-5 loss to Jays\n",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/boston-red-sox-toronto-blue-jays-28-5-inside-the-park-grand-slam-baseball"
+    },
+    {
+      "text": "Woeful Red Sox concede inside-the-park grand slam in record 28-5 loss to Jays",
+      "url": "https://www.theguardian.com/sport/2022/jul/23/boston-red-sox-toronto-blue-jays-28-5-inside-the-park-grand-slam-baseball"
+    },
+    {
+      "text": "\n    \n    \n    \n Boston\u2019s new hero: woman who jumped from burning subway car into river\n",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/boston-woman-jumped-subway-car-river-fire"
+    },
+    {
+      "text": "Boston\u2019s new hero: woman who jumped from burning subway car into river",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/boston-woman-jumped-subway-car-river-fire"
+    },
+    {
+      "text": "\n    \n    \n    \n Paxlovid going underused due to doctors\u2019 \u2018misperceptions\u2019, experts say\n",
+      "url": "https://www.theguardian.com/us-news/2022/jul/22/paxlovid-covid-antiviral-drug-biden-fauci"
+    },
+    {
+      "text": "Paxlovid going underused due to doctors\u2019 \u2018misperceptions\u2019, experts say",
+      "url": "https://www.theguardian.com/us-news/2022/jul/22/paxlovid-covid-antiviral-drug-biden-fauci"
+    },
+    {
+      "text": "\n    \n    \n    \n Monkeypox: US reports its first cases of virus in children\n",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/monkeypox-us-confirms-first-cases-of-virus-in-children"
+    },
+    {
+      "text": "Monkeypox: US reports its first cases of virus in children",
+      "url": "https://www.theguardian.com/us-news/2022/jul/23/monkeypox-us-confirms-first-cases-of-virus-in-children"
+    },
+    {
+      "text": "\n    \n    \n    \n Johnny Depp follows Amber Heard in filing appeal over defamation trial\n",
+      "url": "https://www.theguardian.com/film/2022/jul/23/johnny-depp-follows-amber-heard-filing-appeal-defamation"
+    },
+    {
+      "text": "Johnny Depp follows Amber Heard in filing appeal over defamation trial",
+      "url": "https://www.theguardian.com/film/2022/jul/23/johnny-depp-follows-amber-heard-filing-appeal-defamation"
+    },
+    {
+      "text": "\n    \n    \n    \n Chinese man executed for murder of former wife during live stream\n",
+      "url": "https://www.theguardian.com/world/2022/jul/23/chinese-man-executed-murder-former-wife-live-stream"
+    },
+    {
+      "text": "Chinese man executed for murder of former wife during live stream",
+      "url": "https://www.theguardian.com/world/2022/jul/23/chinese-man-executed-murder-former-wife-live-stream"
+    },
+    {
+      "text": "\n    \n    \n    \n I\u2019ve been meeting with the same group of men for 36 years \u2013 here\u2019s what they\u2019ve taught me\n",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/meeting-same-group-men-years-david-spiegelhalter"
+    },
+    {
+      "text": "I\u2019ve been meeting with the same group of men for 36 years \u2013 here\u2019s what they\u2019ve taught me",
+      "url": "https://www.theguardian.com/lifeandstyle/2022/jul/23/meeting-same-group-men-years-david-spiegelhalter"
+    },
+    {
+      "text": "Live \n    \n    \n    \n Russia-Ukraine war: Russian missiles hit Odesa port hours after grain export deal agreed \u2013 live\n",
+      "url": "https://www.theguardian.com/world/live/2022/jul/23/russia-ukraine-war-kharkiv-hit-by-several-powerful-strikes-says-mayor-lithuania-lifts-kaliningrad-rail-ban-live"
+    },
+    {
+      "text": "Russia-Ukraine war: Russian missiles hit Odesa port hours after grain export deal agreed \u2013 live",
+      "url": "https://www.theguardian.com/world/live/2022/jul/23/russia-ukraine-war-kharkiv-hit-by-several-powerful-strikes-says-mayor-lithuania-lifts-kaliningrad-rail-ban-live"
+    },
+    {
+      "text": "\n    \n    \n        These soaring temperatures have given Britain a taste of the dystopia to come\n        \n            Sophie Mackintosh\n        \n        \n            \n                \n                    \n\n\n                \n            \n        \n    \n\n    \n        \n    \n\n    \n            \n                \n\n\n    \n        \n                \n\n    \n    \n    \n        \n        \n    \n        \n        \n    \n        \n        \n    \n    \n    \n        \n    \n\n\n            \n    \n\n            \n        \n\n",
+      "url": "https://www.theguardian.com/commentisfree/2022/jul/23/temperatures-britain-dystopia-wildfires-railway"
+    },
+    {
+      "text": "\n    \n    \n        Russia-Ukraine war: Russian missiles hit Odesa port hours after grain export deal agreed \u2013 live\n        \n        \n            \n                \n                    \n\n\n                \n            \n        \n    \n\n    \n        \n    \n\n    \n            \n                \n\n\n    \n        \n                \n\n    \n    \n    \n        \n        \n    \n        \n        \n    \n        \n        \n    \n    \n    \n        \n    \n\n\n            \n    \n\n            \n        \n\n",
+      "url": "https://www.theguardian.com/world/live/2022/jul/23/russia-ukraine-war-kharkiv-hit-by-several-powerful-strikes-says-mayor-lithuania-lifts-kaliningrad-rail-ban-live"
+    },
+    {
+      "text": "All today's stories",
+      "url": "https://www.theguardian.com/tone/letters/all"
+    },
+    {
+      "text": " Europe ",
+      "url": "https://www.theguardian.com/world/europe-news"
+    },
+    {
+      "text": " Ukraine ",
+      "url": "https://www.theguardian.com/world/ukraine"
+    },
+    {
+      "text": " Conservatives ",
+      "url": "https://www.theguardian.com/politics/conservatives"
+    },
+    {
+      "text": " UK cost of living crisis ",
+      "url": "https://www.theguardian.com/business/cost-of-living-crisis"
+    },
+    {
+      "text": " Russia ",
+      "url": "https://www.theguardian.com/world/russia"
+    },
+    {
+      "text": "\n\n            US\n        ",
+      "url": "https://www.theguardian.com/us-news"
+    },
+    {
+      "text": "\n\n            World\n        ",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "text": "\n\n            Environment\n        ",
+      "url": "https://www.theguardian.com/us/environment"
+    },
+    {
+      "text": "\n\n            Soccer\n        ",
+      "url": "https://www.theguardian.com/football"
+    },
+    {
+      "text": "\n\n            US Politics\n        ",
+      "url": "https://www.theguardian.com/us-news/us-politics"
+    },
+    {
+      "text": "\n\n            Business\n        ",
+      "url": "https://www.theguardian.com/us/business"
+    },
+    {
+      "text": "\n\n            Tech\n        ",
+      "url": "https://www.theguardian.com/us/technology"
+    },
+    {
+      "text": "\n\n            Science\n        ",
+      "url": "https://www.theguardian.com/science"
+    },
+    {
+      "text": "\n\n            Newsletters\n        ",
+      "url": "https://www.theguardian.com/email-newsletters"
+    },
+    {
+      "text": "\n\n            Fight to vote\n        ",
+      "url": "https://www.theguardian.com/us-news/series/the-fight-to-vote"
+    },
+    {
+      "text": "\n\n                            News\n                            ",
+      "url": "https://www.theguardian.com/us"
+    },
+    {
+      "text": "\n\n                            Opinion\n                            ",
+      "url": "https://www.theguardian.com/us/commentisfree"
+    },
+    {
+      "text": "\n\n                            Sport\n                            ",
+      "url": "https://www.theguardian.com/us/sport"
+    },
+    {
+      "text": "\n\n                            Culture\n                            ",
+      "url": "https://www.theguardian.com/us/culture"
+    },
+    {
+      "text": "\n\n                            Lifestyle\n                            ",
+      "url": "https://www.theguardian.com/us/lifeandstyle"
+    },
+    {
+      "text": "\n\tSign up for our email \n\n\n    \n        \n \n\n    \n\n\n",
+      "url": "/info/2018/sep/17/guardian-us-morning-briefing-sign-up-to-stay-informed"
+    },
+    {
+      "text": "\n        About us\n        ",
+      "url": "https://www.theguardian.com/info/about-guardian-us"
+    },
+    {
+      "text": "\n        Contact us\n        ",
+      "url": "https://www.theguardian.com/info/about-guardian-us/contact"
+    },
+    {
+      "text": "\n        Complaints & corrections\n        ",
+      "url": "https://www.theguardian.com/info/complaints-and-corrections"
+    },
+    {
+      "text": "\n        SecureDrop\n        ",
+      "url": "https://www.theguardian.com/securedrop"
+    },
+    {
+      "text": "\n        Work for us\n        ",
+      "url": "https://workforus.theguardian.com"
+    },
+    {
+      "text": "\n        Privacy policy\n        ",
+      "url": "https://www.theguardian.com/info/privacy"
+    },
+    {
+      "text": "\n        Cookie policy\n        ",
+      "url": "https://www.theguardian.com/info/cookies"
+    },
+    {
+      "text": "\n        Terms & conditions\n        ",
+      "url": "https://www.theguardian.com/help/terms-of-service"
+    },
+    {
+      "text": "\n        Help\n        ",
+      "url": "https://www.theguardian.com/help"
+    },
+    {
+      "text": "\n        All topics\n        ",
+      "url": "https://www.theguardian.com/index/subjects/a"
+    },
+    {
+      "text": "\n        All writers\n        ",
+      "url": "https://www.theguardian.com/index/contributors"
+    },
+    {
+      "text": "\n        Digital newspaper archive\n        ",
+      "url": "https://theguardian.newspapers.com"
+    },
+    {
+      "text": "\n        Facebook\n        ",
+      "url": "https://www.facebook.com/theguardian"
+    },
+    {
+      "text": "\n        YouTube\n        ",
+      "url": "https://www.youtube.com/user/TheGuardian"
+    },
+    {
+      "text": "\n        Instagram\n        ",
+      "url": "https://www.instagram.com/guardian"
+    },
+    {
+      "text": "\n        LinkedIn\n        ",
+      "url": "https://www.linkedin.com/company/theguardian"
+    },
+    {
+      "text": "\n        Twitter\n        ",
+      "url": "https://twitter.com/guardian"
+    },
+    {
+      "text": "\n        Newsletters\n        ",
+      "url": "https://www.theguardian.com/email-newsletters?INTCMP=DOTCOM_FOOTER_NEWSLETTER_US"
+    },
+    {
+      "text": "\n        Advertise with us\n        ",
+      "url": "https://advertising.theguardian.com/us/advertising"
+    },
+    {
+      "text": "\n        Guardian Labs\n        ",
+      "url": "https://www.theguardian.com/guardian-labs-us"
+    },
+    {
+      "text": "\n        Search jobs\n        ",
+      "url": "https://jobs.theguardian.com?INTCMP=NGW_FOOTER_US_GU_JOBS"
+    },
+    {
+      "text": "\n            Contribute\n            \n\n\n    \n        \n \n\n    \n\n\n        ",
+      "url": "https://support.theguardian.com/us/contribute?INTCMP=footer_support_contribute&acquisitionData=%7B%22source%22%3A%22GUARDIAN_WEB%22%2C%22componentType%22%3A%22ACQUISITIONS_FOOTER%22%2C%22componentId%22%3A%22footer_support_contribute%22%2C%22referrerPageviewId%22%3A%22l5xxyig4d50i52ibu10r%22%2C%22referrerUrl%22%3A%22https%3A%2F%2Fwww.theguardian.com%2Fuk%22%7D"
+    },
+    {
+      "text": "\n            Subscribe\n            \n\n\n    \n        \n \n\n    \n\n\n        ",
+      "url": "https://support.theguardian.com/us/subscribe?INTCMP=footer_support_subscribe&acquisitionData=%7B%22source%22%3A%22GUARDIAN_WEB%22%2C%22componentType%22%3A%22ACQUISITIONS_FOOTER%22%2C%22componentId%22%3A%22footer_support_subscribe%22%2C%22referrerPageviewId%22%3A%22l5xxyig4d50i52ibu10r%22%2C%22referrerUrl%22%3A%22https%3A%2F%2Fwww.theguardian.com%2Fuk%22%7D"
+    },
+    {
+      "text": "\n                Back to top\n                \n                    \n\n\n    \n        \n \n\n    \n\n\n                \n            ",
+      "url": "#top"
+    }
+  ],
+  "item_last_updated": 1658585857,
+  "item_size": 158446196,
   "metadata": {
     "identifier": "guardian-2022",
     "collection": [
@@ -12582,7 +14734,7 @@
     "addeddate": "2022-03-23 08:03:23"
   },
   "server": "ia802206.us.archive.org",
-  "uniq": 28890931,
+  "uniq": 1395253955,
   "workable_servers": [
     "ia802206.us.archive.org",
     "ia902206.us.archive.org"

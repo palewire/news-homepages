@@ -54,8 +54,14 @@ def consolidate():
 
     # Set up some stuff for outputs later on
     site_output = []
+    site2bundle_output = []
     items_output = []
-    screenshot_output, a11y_output, hyperlinks_output = [], [], []
+    screenshot_output, a11y_output, hyperlinks_output, lighthouse_output = (
+        [],
+        [],
+        [],
+        [],
+    )
 
     # Loop through all the sites
     for site in utils.get_site_list():
@@ -69,6 +75,16 @@ def consolidate():
         )
         # Add to the output list
         site_output.append(site_dict)
+
+        # Normalize the links between sites and bundles
+        for b in site["bundle_list"]:
+            if not b.strip():
+                continue
+            d = dict(
+                site_handle=site["handle"],
+                bundle_slug=b,
+            )
+            site2bundle_output.append(d)
 
         # Get all the items for this site
         site_json_list = [
@@ -126,6 +142,8 @@ def consolidate():
                     a11y_output.append(file_dict)
                 elif "hyperlinks" in file["name"]:
                     hyperlinks_output.append(file_dict)
+                elif "lighthouse" in file["name"]:
+                    lighthouse_output.append(file_dict)
                 else:
                     raise ValueError(
                         f"File name {file['name']} doesn't have an output file"
@@ -139,6 +157,18 @@ def consolidate():
         writer = csv.DictWriter(fh, fieldnames=site_output[0].keys())
         writer.writeheader()
         writer.writerows(site_output)
+
+    # Bundles
+    with open(csv_dir / "bundles.csv", "w") as fh:
+        writer = csv.DictWriter(fh, fieldnames=["slug", "name", "location", "timezone"])
+        writer.writeheader()
+        writer.writerows(utils.get_bundle_list())
+
+    # Links
+    with open(csv_dir / "site_bundle_relationships.csv", "w") as fh:
+        writer = csv.DictWriter(fh, fieldnames=["site_handle", "bundle_slug"])
+        writer.writeheader()
+        writer.writerows(site2bundle_output)
 
     # Items
     with open(csv_dir / "items.csv", "w") as fh:
@@ -163,6 +193,12 @@ def consolidate():
         writer = csv.DictWriter(fh, fieldnames=hyperlinks_output[0].keys())
         writer.writeheader()
         writer.writerows(hyperlinks_output)
+
+    # Lighthouse
+    with open(csv_dir / "lighthouse-files.csv", "w") as fh:
+        writer = csv.DictWriter(fh, fieldnames=lighthouse_output[0].keys())
+        writer.writeheader()
+        writer.writerows(lighthouse_output)
 
 
 if __name__ == "__main__":

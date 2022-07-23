@@ -1,5 +1,5 @@
 {
-  "created": 1658518197,
+  "created": 1658611359,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/kyivpost-2022",
@@ -10464,31 +10464,115 @@
       "sha1": "5a546a20383be0a783c0e77ab924726b5636af18"
     },
     {
+      "name": "kyivpost-2022-07-23T05:31:59.036611+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658543524",
+      "size": "22877",
+      "md5": "91700808be5e83162323423c55a8c2e6",
+      "crc32": "0effc75a",
+      "sha1": "ed40384d04c54dde978fc723c9eb6b6722ab94dc",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-07-23T05:31:59.036611+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658543526",
+      "size": "38141",
+      "md5": "071af2317d031a2dfb18bf2ded854b99",
+      "crc32": "1817385a",
+      "sha1": "d9fcc9df51958ff0e21620eba6d852023df273c9",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-07-23T05:31:59.036611+03:00.jpg",
+      "source": "original",
+      "mtime": "1658543523",
+      "size": "238229",
+      "md5": "3cc1710051edf7d814c3f46bb4343ce5",
+      "crc32": "ca3f6c3d",
+      "sha1": "d7a4fcda08f16d5ab80ae0a2889eab83a53d16de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivpost-2022-07-23T05:31:59.036611+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivpost-2022-07-23T05:31:59.036611+03:00.jpg",
+      "mtime": "1658548919",
+      "size": "9152",
+      "md5": "d21a5130bccc81ae8cb7aa4fb31d0ee6",
+      "crc32": "f4a3cd8c",
+      "sha1": "d30b171496f6bb60e8d3c939726a72486bbbad43"
+    },
+    {
+      "name": "kyivpost-2022-07-23T17:06:27.810303+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658585194",
+      "size": "23136",
+      "md5": "b17327da9a7ecda0f44a892114c1fc68",
+      "crc32": "143987ac",
+      "sha1": "da2e2276aa0b28b6db7e93cffefb4f62363b0457",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-07-23T17:06:27.810303+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658585196",
+      "size": "38950",
+      "md5": "01bccb7011d54fa0e44e4299face54ac",
+      "crc32": "4a9ca91e",
+      "sha1": "0918eb8aa7186b42674b93afa0db5871b550ef61",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-07-23T17:06:27.810303+03:00.jpg",
+      "source": "original",
+      "mtime": "1658585193",
+      "size": "274035",
+      "md5": "58aa63524947c5c9ef2f2ccf6df90359",
+      "crc32": "12a40d7c",
+      "sha1": "e50da696bae3de7e70b6dd635ffd219c35a6ec04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivpost-2022-07-23T17:06:27.810303+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivpost-2022-07-23T17:06:27.810303+03:00.jpg",
+      "mtime": "1658585327",
+      "size": "9417",
+      "md5": "e41fde8d9ae9ac4ab6dbcfadbea95ff0",
+      "crc32": "7d5b14dc",
+      "sha1": "5ee220962c2d251adfeb2774c41057151c780d5f"
+    },
+    {
       "name": "kyivpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89f6a843ddb6e3b03189a159c1181de0723c4766",
-      "mtime": "1658518174",
-      "size": "210954",
-      "md5": "dea0a17fff2fc3f96627f9883580b045",
-      "crc32": "83b00883",
-      "sha1": "2c08c363ee502ca8525e0a60cfc19c3955c8e204",
+      "btih": "d349da99208e922ff07dbe397fb489b58254bd74",
+      "mtime": "1658585344",
+      "size": "212632",
+      "md5": "c5b53194050116dc018484cc0e3cf654",
+      "crc32": "94f21b8e",
+      "sha1": "cb68e4d715a607025b698e470531d8e1306acca7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kyivpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "817cdc5293478ece847b663f3b2d46ed",
+      "md5": "c4ca1e82bdf59c3071b4a00cb7265ca9",
       "summation": "md5"
     },
     {
       "name": "kyivpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658498804",
-      "size": "1134592",
-      "md5": "665a6eba35460007693cf46f4952a79f",
-      "crc32": "9e572721",
-      "sha1": "02695dd2e1088d8d523398d953c44c6233b65227",
+      "mtime": "1658585198",
+      "size": "1142784",
+      "md5": "24fbb67c70fc08ad1758b2215000bc3d",
+      "crc32": "878a9c1b",
+      "sha1": "625e860dfa1a3675213c346234b2011475588e1d",
       "format": "Metadata"
     },
     {
@@ -10502,9 +10586,1155 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 998,
-  "item_last_updated": 1658518174,
-  "item_size": 98926098,
+  "files_count": 1006,
+  "item_last_updated": 1658585344,
+  "item_size": 99589905,
+  "kyivpost-2022": [
+    {
+      "text": ".st0{fill:#C62040}.st1{fill:#FFF}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.st0{fill:#C62040}.st1{fill:#FFF}.st2{fill:#231F20}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "url": "https://www.kyivpost.com"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/KyivPost"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/KyivPost"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/kyivpost.official/"
+    },
+    {
+      "text": "",
+      "url": "https://t.me/Kyivpost_official"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/kyiv-post"
+    },
+    {
+      "text": "\n\n\n",
+      "url": "https://kadorrgroup.com/"
+    },
+    {
+      "text": "\n.st0{fill:#C62040}.st1{fill:#FFF}.st2{fill:#231F20}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "url": "https://www.kyivpost.com"
+    },
+    {
+      "text": "Eng",
+      "url": "#pll_switcher"
+    },
+    {
+      "text": "Eng",
+      "url": "https://www.kyivpost.com/"
+    },
+    {
+      "text": "\u0423\u043a\u0440",
+      "url": "https://www.kyivpost.com/uk/"
+    },
+    {
+      "text": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "url": "https://www.kyivpost.com/ar/"
+    },
+    {
+      "text": "Sign in",
+      "url": "/wp-login.php"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/KyivPost"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/KyivPost"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/kyivpost.official/"
+    },
+    {
+      "text": "",
+      "url": "https://t.me/Kyivpost_official"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/kyiv-post"
+    },
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://www.kyivpost.com/ukraine-politics"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.kyivpost.com/business"
+    },
+    {
+      "text": "Technology",
+      "url": "https://www.kyivpost.com/technology"
+    },
+    {
+      "text": "Op-Ed",
+      "url": "https://www.kyivpost.com/opinion"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.kyivpost.com/lifestyle"
+    },
+    {
+      "text": "Multimedia",
+      "url": "https://www.kyivpost.com/multimedia"
+    },
+    {
+      "text": "Hot topics",
+      "url": "/hot/"
+    },
+    {
+      "text": "Investigations",
+      "url": "https://www.kyivpost.com/hot/investigations"
+    },
+    {
+      "text": "KP BrandStudio",
+      "url": "https://brandstudio.kyivpost.com/"
+    },
+    {
+      "text": "Host your event in the Kyiv Post studio!",
+      "url": "https://www.kyivpost.com/business/host-your-event-in-the-kyiv-post-studio.html"
+    },
+    {
+      "text": "World",
+      "url": "https://www.kyivpost.com/world"
+    },
+    {
+      "text": "World in Ukraine",
+      "url": "/hot/world-in-ukraine"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.kyivpost.com/sport"
+    },
+    {
+      "text": "Business Wire",
+      "url": "https://www.kyivpost.com/business-wire"
+    },
+    {
+      "text": "Dying for truth",
+      "url": "https://www.kyivpost.com/dying-for-truth"
+    },
+    {
+      "text": "Ukraine on the Brink",
+      "url": "https://www.kyivpost.com/ukraine-on-the-brink"
+    },
+    {
+      "text": "Online discussions",
+      "url": "https://labs.kyivpost.com/online-discussions/"
+    },
+    {
+      "text": "KyivPost Doing Business 2021",
+      "url": "https://labs.kyivpost.com/doing-business-2021/"
+    },
+    {
+      "text": "Journalism of tolerance",
+      "url": "https://www.kyivpost.com/special-project/journalism-of-tolerance"
+    },
+    {
+      "text": "Voices of Ukraine",
+      "url": "https://www.kyivpost.com/special-project/voices-of-ukraine"
+    },
+    {
+      "text": "Surviving Ilovaisk",
+      "url": "https://www.kyivpost.com/ilovaisk"
+    },
+    {
+      "text": "Then & Now",
+      "url": "https://www.kyivpost.com/then-and-now"
+    },
+    {
+      "text": "All News",
+      "url": "https://www.kyivpost.com/all-news"
+    },
+    {
+      "text": "Exclusives",
+      "url": "/all-news/exclusive/"
+    },
+    {
+      "text": "Newspaper Archive",
+      "url": "/issue"
+    },
+    {
+      "text": "Classifieds",
+      "url": "https://www.kyivpost.com/classifieds/"
+    },
+    {
+      "text": "Advertise",
+      "url": "/advertising"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.kyivpost.com/contact-us"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.kyivpost.com/about-us"
+    },
+    {
+      "text": "Tiger Conference",
+      "url": "https://tiger.kyivpost.com/"
+    },
+    {
+      "text": "\n\n",
+      "url": ""
+    },
+    {
+      "text": "\n\n",
+      "url": ""
+    },
+    {
+      "text": "\n\n",
+      "url": ""
+    },
+    {
+      "text": "Russia's war",
+      "url": "https://www.kyivpost.com/russias-war"
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://www.kyivpost.com/ukraine-politics"
+    },
+    {
+      "text": "World",
+      "url": "https://www.kyivpost.com/world"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.kyivpost.com/business"
+    },
+    {
+      "text": "Tech",
+      "url": "/technology"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion"
+    },
+    {
+      "text": "Multimedia",
+      "url": "/multimedia"
+    },
+    {
+      "text": "More",
+      "url": ""
+    },
+    {
+      "text": "Russia's war",
+      "url": "https://www.kyivpost.com/russias-war"
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://www.kyivpost.com/ukraine-politics"
+    },
+    {
+      "text": "World",
+      "url": "https://www.kyivpost.com/world"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.kyivpost.com/business"
+    },
+    {
+      "text": "Tech",
+      "url": "/technology"
+    },
+    {
+      "text": "Opinion",
+      "url": "/opinion"
+    },
+    {
+      "text": "Multimedia",
+      "url": "/multimedia"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.kyivpost.com/sport"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.kyivpost.com/lifestyle"
+    },
+    {
+      "text": "Investigations",
+      "url": "https://www.kyivpost.com/hot/investigations"
+    },
+    {
+      "text": "Hot topics",
+      "url": "/hot/"
+    },
+    {
+      "text": "Eastern Europe",
+      "url": "https://www.kyivpost.com/eastern-europe"
+    },
+    {
+      "text": "Video",
+      "url": "/multimedia/video"
+    },
+    {
+      "text": "Exclusive news",
+      "url": "/all-news/exclusive/"
+    },
+    {
+      "text": "History",
+      "url": "https://www.kyivpost.com/then-and-now"
+    },
+    {
+      "text": "KyivPost Doing Business 2021",
+      "url": "https://labs.kyivpost.com/doing-business-2021/"
+    },
+    {
+      "text": "World in Ukraine",
+      "url": "/hot/world-in-ukraine"
+    },
+    {
+      "text": "Fact-checking 2019 presidential election",
+      "url": "https://www.kyivpost.com/factcheck"
+    },
+    {
+      "text": "Dying for truth",
+      "url": "https://www.kyivpost.com/dying-for-truth"
+    },
+    {
+      "text": "Ukraine on the Brink",
+      "url": "https://www.kyivpost.com/ukraine-on-the-brink"
+    },
+    {
+      "text": "Tip us off",
+      "url": "https://leaks.kyivpost.com/"
+    },
+    {
+      "text": "Online discussions",
+      "url": "https://labs.kyivpost.com/online-discussions/"
+    },
+    {
+      "text": "Decade in Review",
+      "url": "https://www.kyivpost.com/ukraine-politics/decade-in-review.html"
+    },
+    {
+      "text": "Journalism of Tolerance",
+      "url": "/special-project/journalism-of-tolerance"
+    },
+    {
+      "text": "Top 30 Under 30",
+      "url": "https://www.kyivpost.com/top-30-under-30-of-2020/meet-top-30-under-30-winners-of-2020.html"
+    },
+    {
+      "text": "Voices of Ukraine",
+      "url": "https://www.kyivpost.com/special-project/voices-of-ukraine"
+    },
+    {
+      "text": "Surviving Ilovaisk",
+      "url": "https://www.kyivpost.com/ilovaisk"
+    },
+    {
+      "text": "Newspaper Archive",
+      "url": "https://www.kyivpost.com/PDF-archive/issue"
+    },
+    {
+      "text": "Newspaper distribution map",
+      "url": "http://distribution.kyivpost.com/"
+    },
+    {
+      "text": "Host your event in the Kyiv Post studio!",
+      "url": "https://www.kyivpost.com/business/host-your-event-in-the-kyiv-post-studio.html"
+    },
+    {
+      "text": "Advertise",
+      "url": "/advertising"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.kyivpost.com/contact-us"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.kyivpost.com/about-us"
+    },
+    {
+      "text": "Employment",
+      "url": "/classifieds"
+    },
+    {
+      "text": "Business Wire",
+      "url": "/business-wire"
+    },
+    {
+      "text": "KP BrandStudio",
+      "url": "https://brandstudio.kyivpost.com/"
+    },
+    {
+      "text": "instructions how to enable JavaScript in your web browser",
+      "url": "https://www.enable-javascript.com/"
+    },
+    {
+      "text": "Support Ukraine!",
+      "url": "https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi"
+    },
+    {
+      "text": "Latest",
+      "url": ""
+    },
+    {
+      "text": "Popular",
+      "url": ""
+    },
+    {
+      "text": "\n\n11:57 am\n\nUkraine long-range rockets hit Russian ammo depot in south, massive explosions and fires\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/ukraine-long-range-rockets-hit-russian-ammo-depot-in-south-massive-explosions-and-fires.html"
+    },
+    {
+      "text": "Monday, July 11\n\n1:09 pm\n\nUkrainian Intelligence Agents Arrest Multiple Russian Spies Across the Country\n",
+      "url": "https://www.kyivpost.com/russias-war/ukrainian-intelligence-agents-arrest-multiple-russian-spies-across-the-country.html"
+    },
+    {
+      "text": "Thursday, July 21\n\n5:42 pm\n\nRussian Soldiers Tire of Fighting in Ukraine\n",
+      "url": "https://www.kyivpost.com/russias-war/russian-soldiers-tire-of-fighting-in-ukraine.html"
+    },
+    {
+      "text": "Friday, July 22\n\n1:24 pm\n\nUkrainian forces eliminate 35 invaders, strike five strongholds, two ammunition depots in south\n",
+      "url": "https://www.kyivpost.com/russias-war/ukrainian-forces-eliminate-35-invaders-strike-five-strongholds-two-ammunition-depots-in-south.html"
+    },
+    {
+      "text": "\n\n10:39 am\n\nU.S. Considering Fourth Generation Fighter Jets for Ukraine\n",
+      "url": "https://www.kyivpost.com/russias-war/u-s-considering-fourth-generation-fighter-jets-for-ukraine.html"
+    },
+    {
+      "text": "\n\n10:48 am\n\nRascist rats trapped in their own sinking ship\n",
+      "url": "https://www.kyivpost.com/cartoon/rascist-rats-trapped-in-their-own-sinking-ship.html"
+    },
+    {
+      "text": "Saturday, July 23\n\n10:11 am\n\nRussian Troops Urged To Leave Kherson Voluntarily\n",
+      "url": "https://www.kyivpost.com/russias-war/time-for-russian-troops-voluntary-leave-kherson.html"
+    },
+    {
+      "text": "Thursday, July 21\n\n4:23 pm\n\nBattle for Vuhlehirsk TPP \u2013 Ukrainian troops force invaders to retreat\n",
+      "url": "https://www.kyivpost.com/russias-war/battle-for-vuhlehirsk-tpp-ukrainian-troops-force-invaders-to-retreat.html"
+    },
+    {
+      "text": "Tuesday, July 12\n\n3:33 pm\n\nLiberation of Snake Island Partially Unlocks Grain Exports\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/liberation-of-snake-island-partially-unlocks-grain-exports.html"
+    },
+    {
+      "text": "Friday, July 22\n\n10:49 am\n\nUkrainian Navy Being Trained in Scotland\n",
+      "url": "https://www.kyivpost.com/russias-war/ukrainian-navy-being-trained-in-scotland.html"
+    },
+    {
+      "text": "Thursday, July 21\n\n2:39 pmEXCLUSIVEVIDEO\n\nWATCH: \u201cRussia is committing the same terrorist acts in Ukraine as it has always done\u201d \u2013 Commander of Georgian Legion in Ukraine Speaks to Kyiv Post.\n",
+      "url": "https://www.kyivpost.com/multimedia/video/russia-is-committing-the-same-terrorist-acts-in-ukraine-as-it-has-always-done-commander-of-georgian-legion-in-ukraine-speaks-to-kyiv-post"
+    },
+    {
+      "text": "Friday, July 22\n\n6:29 pmBREAKING\n\nKorban confirms he was not allowed into Ukraine, passport seized\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/korban-confirms-he-not-allowed-into-ukraine-his-passport-seized.html"
+    },
+    {
+      "text": "Tuesday, July 12\n\n12:58 pmOP-ED\n\nUkraine: 7-Day Review\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/ukraine-7-day-review.html"
+    },
+    {
+      "text": "Wednesday, July 20\n\n11:18 am\n\nHungary no longer objects to transit of weapons to Ukraine through its territory?\n",
+      "url": "https://www.kyivpost.com/europe/hungary-no-longer-objects-to-transit-of-weapons-to-ukraine-through-its-territory.html"
+    },
+    {
+      "text": "Saturday, July 23\n\n1:24 pmEXCLUSIVEOP-ED\n\nScandal in Odesa: No to City\u2019s Anchor-Heart Symbol by Putin Sympathiser\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/scandal-in-odesa-no-to-citys-anchor-heart-symbol-by-putin-sympathiser.html"
+    },
+    {
+      "text": "Friday, July 22\n\n12:54 pm\n\nIsrael provides aid to Ukraine, but military \u2013 with caution \u2013 ambassador\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/israel-provides-aid-to-ukraine-but-military-with-caution-ambassador.html"
+    },
+    {
+      "text": "Saturday, July 23\n\n12:55 pm\n\nBreaking: Russian missiles strike Ukraine\u2019s Odesa port, key to grain deal\n",
+      "url": "https://www.kyivpost.com/business-focus/agriculture/breaking-russian-missiles-strike-ukraines-odessa-port-key-to-grain-deal.html"
+    },
+    {
+      "text": "Friday, July 22\n\n12:55 pm\n\nUkraine has no choice but to become \u2018second Israel\u2019 \u2013 ambassador\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/ukraine-has-no-choice-but-to-become-second-israel-ambassador.html"
+    },
+    {
+      "text": "\n\n3:05 pmBREAKING\n\nUkraine says will only sign grain deal with UN, Not Russia\n",
+      "url": "https://www.kyivpost.com/russias-war/ukraine-says-will-only-sign-grain-deal-with-un-not-russia.html"
+    },
+    {
+      "text": "Monday, July 18\n\n4:36 pmOP-ED\n\nTo Russia With Malice\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/to-russia-with-malice.html"
+    },
+    {
+      "text": "Thursday, July 21\n\n6:55 pmBREAKING\n\nHave Kolomoisky, Rabynovych and Korban been stripped of their Ukrainian citizenship?\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/have-kolomoisky-rabynovych-and-korban-been-stripped-of-their-ukrainian-citizenship.html"
+    },
+    {
+      "text": "Tuesday, July 12\n\n4:00 pm\n\nVillage in Kherson Liberated by Ukrainian Forces\n",
+      "url": "https://www.kyivpost.com/russias-war/village-in-kherson-liberated-by-ukrainian-forces.html"
+    },
+    {
+      "text": "Friday, July 15\n\n11:30 am\n\nRussia attacked largest universities in Mykolaiv with at least 10 rockets\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/russia-attacked-largest-universities-in-mykolaiv-with-at-least-10-rockets.html"
+    },
+    {
+      "text": "Friday, July 22\n\n10:25 am\n\nJapan Defence Report Sounds Alarm on Russia, Threats to Taiwan\n",
+      "url": "https://www.kyivpost.com/russias-war/japan-defence-report-sounds-alarm-on-russia-threats-to-taiwan.html"
+    },
+    {
+      "text": "View all news",
+      "url": "/all-news"
+    },
+    {
+      "text": "\n\n1:24 pmEXCLUSIVEOP-ED\n\nScandal in Odesa: No to City\u2019s Anchor-Heart Symbol by Putin Sympathiser\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/scandal-in-odesa-no-to-citys-anchor-heart-symbol-by-putin-sympathiser.html"
+    },
+    {
+      "text": "\n\n12:55 pm\n\nBreaking: Russian missiles strike Ukraine\u2019s Odesa port, key to grain deal\n",
+      "url": "https://www.kyivpost.com/business-focus/agriculture/breaking-russian-missiles-strike-ukraines-odessa-port-key-to-grain-deal.html"
+    },
+    {
+      "text": "\n\n11:50 amIN-DEPTH\n\nUkraine\u2019s camera-shy first lady steps onto global stage\n",
+      "url": "https://www.kyivpost.com/lifestyle/ukraines-camera-shy-first-lady-steps-onto-global-stage.html"
+    },
+    {
+      "text": "\n\n11:26 am\n\nUS Urges Russia to Implement Ukraine Grain Deal \u2018Swiftly\u2019\n",
+      "url": "https://www.kyivpost.com/russias-war/us-urges-russia-to-implement-ukraine-grain-deal-swiftly.html"
+    },
+    {
+      "text": "\n\n11:21 am\n\nISW Russian Offensive Campaign Asessment, July 22\n",
+      "url": "https://www.kyivpost.com/russias-war/russian-offensive-campaign-asessment-july-22.html"
+    },
+    {
+      "text": "\n\n11:17 am\n\nEuropean Commission to Finance Cross-Border Programs Disrupted by Russian Aggression\n",
+      "url": "https://www.kyivpost.com/russias-war/european-commission-to-finance-cross-border-programs-disrupted-by-russian-aggression.html"
+    },
+    {
+      "text": "\n\n11:00 am\n\nWar in Ukraine: from Russia\u2019s invasion to grain deal\n",
+      "url": "https://www.kyivpost.com/world/war-in-ukraine-from-russias-invasion-to-grain-deal.html"
+    },
+    {
+      "text": "\n\n10:45 am\n\nUS Dollar Value Surges in Ukraine as Official Exchange Rate Raised by 25%\n",
+      "url": "https://www.kyivpost.com/economics/us-dollar-value-surges-in-ukraine-as-official-exchange-rate-raised-by-25.html"
+    },
+    {
+      "text": "\n\n10:37 am\n\nUS releases $270 mn in military aid to Ukraine including rocket systems\n",
+      "url": "https://www.kyivpost.com/russias-war/us-releases-270-mn-in-military-aid-to-ukraine-including-rocket-systems.html"
+    },
+    {
+      "text": "\n\n10:11 am\n\nRussian Troops Urged To Leave Kherson Voluntarily\n",
+      "url": "https://www.kyivpost.com/russias-war/time-for-russian-troops-voluntary-leave-kherson.html"
+    },
+    {
+      "text": "\n\n10:06 am\n\nNo Evidence 70-Year-Old Putin Suffering from illness, Says Director of CIA\n",
+      "url": "https://www.kyivpost.com/russias-war/no-evidence-70-year-old-putin-suffering-from-illness-says-director-of-cia.html"
+    },
+    {
+      "text": "\n\n9:58 am\n\nUkraine and Russian separately sign landmark grain deal with UN and Turkey\n",
+      "url": "https://www.kyivpost.com/russias-war/ukraine-and-russian-separately-sign-landmark-grain-deal-with-un-and-turkey.html"
+    },
+    {
+      "text": "Friday, July 22\n\n6:29 pmBREAKING\n\nKorban confirms he was not allowed into Ukraine, passport seized\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/korban-confirms-he-not-allowed-into-ukraine-his-passport-seized.html"
+    },
+    {
+      "text": "\n\n6:25 pmVIDEO\n\nREPORTING FROM A WAR ZONE: Kyiv Post\u2019s Chief Editor Speaks to Henry Jackson Society\n",
+      "url": "https://www.kyivpost.com/multimedia/video/reporting-from-a-war-zone-kyiv-posts-chief-editor-speaks-to-henry-jackson-society"
+    },
+    {
+      "text": "\n\n6:23 pm\n\n\u201cThe War\u2019s Inspired my Son to Become a Soldier\u201d, Says Ukraine\u2019s First Lady\n",
+      "url": "https://www.kyivpost.com/russias-war/the-wars-inspired-my-son-to-become-a-soldier-says-ukraines-first-lady.html"
+    },
+    {
+      "text": "\n\n3:05 pmBREAKING\n\nUkraine says will only sign grain deal with UN, Not Russia\n",
+      "url": "https://www.kyivpost.com/russias-war/ukraine-says-will-only-sign-grain-deal-with-un-not-russia.html"
+    },
+    {
+      "text": "\n\n1:24 pm\n\nUkrainian forces eliminate 35 invaders, strike five strongholds, two ammunition depots in south\n",
+      "url": "https://www.kyivpost.com/russias-war/ukrainian-forces-eliminate-35-invaders-strike-five-strongholds-two-ammunition-depots-in-south.html"
+    },
+    {
+      "text": "\n\n1:23 pm\n\nRussia Looting UK-Bound Steel, Says Ukrainian CEO\n",
+      "url": "https://www.kyivpost.com/russias-war/russia-looting-uk-bound-steel-says-ukrainian-ceo.html"
+    },
+    {
+      "text": "\n\n1:22 pm\n\nRussian Forces Attack Dnipro Region \u2013 One Killed, Nine Wounded\n",
+      "url": "https://www.kyivpost.com/russias-war/russian-forces-attack-dnipro-region-one-killed-nine-wounded.html"
+    },
+    {
+      "text": "\n\n1:07 pm\n\nRussian air strike on Syria kills seven: monitor\n",
+      "url": "https://www.kyivpost.com/world/russian-air-strike-on-syria-kills-seven-monitor.html"
+    },
+    {
+      "text": "\n\n1:03 pm\n\nUkrainian Government Seeks Tribunal to Punish Russian War Criminals\n",
+      "url": "https://www.kyivpost.com/russias-war/ukrainian-government-seeks-tribunal-to-punish-russian-war-criminals.html"
+    },
+    {
+      "text": "\n\n12:56 pm\n\nRussia\u2019s War Against Ukraine: Day 149, July 22 \u2013 Update 1\n",
+      "url": "https://www.kyivpost.com/russias-war/russias-war-against-ukraine-day-149-july-22-update-1.html"
+    },
+    {
+      "text": "\n\n12:55 pm\n\nUkraine has no choice but to become \u2018second Israel\u2019 \u2013 ambassador\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/ukraine-has-no-choice-but-to-become-second-israel-ambassador.html"
+    },
+    {
+      "text": "\n\n12:54 pm\n\nEast Ukraine pro-Russians block Google\n",
+      "url": "https://www.kyivpost.com/russias-war/east-ukraine-pro-russians-block-google.html"
+    },
+    {
+      "text": "View all ",
+      "url": "/all-news"
+    },
+    {
+      "text": "\nScandal in Odesa: No to City\u2019s Anchor-Heart Symbol by Putin Sympathiser\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/scandal-in-odesa-no-to-citys-anchor-heart-symbol-by-putin-sympathiser.html"
+    },
+    {
+      "text": "\nUgo Poletti\n",
+      "url": "https://www.kyivpost.com/author/ugo-poletti"
+    },
+    {
+      "text": "\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/scandal-in-odesa-no-to-citys-anchor-heart-symbol-by-putin-sympathiser.html"
+    },
+    {
+      "text": "\n\nJuly 23,\n12:55 pm\n\nBreaking: Russian missiles strike Ukraine\u2019s Odesa port, key to grain deal\n",
+      "url": "https://www.kyivpost.com/business-focus/agriculture/breaking-russian-missiles-strike-ukraines-odessa-port-key-to-grain-deal.html"
+    },
+    {
+      "text": "AFP\n",
+      "url": "https://www.kyivpost.com/author/bohdannahaylo"
+    },
+    {
+      "text": "\n\nJuly 23,\n11:50 am\nIN-DEPTH\n\nUkraine\u2019s camera-shy first lady steps onto global stage\n",
+      "url": "https://www.kyivpost.com/lifestyle/ukraines-camera-shy-first-lady-steps-onto-global-stage.html"
+    },
+    {
+      "text": "AFP\n",
+      "url": "https://www.kyivpost.com/author/bohdannahaylo"
+    },
+    {
+      "text": "\n\nJuly 23,\n11:21 am\n\nISW Russian Offensive Campaign Asessment, July 22\n",
+      "url": "https://www.kyivpost.com/russias-war/russian-offensive-campaign-asessment-july-22.html"
+    },
+    {
+      "text": "Institute for the Study of War (ISW)\n",
+      "url": "https://www.kyivpost.com/author/institute-for-the-study-of-war"
+    },
+    {
+      "text": "\n\nJuly 23,\n11:17 am\n\nEuropean Commission to Finance Cross-Border Programs Disrupted by Russian Aggression\n",
+      "url": "https://www.kyivpost.com/russias-war/european-commission-to-finance-cross-border-programs-disrupted-by-russian-aggression.html"
+    },
+    {
+      "text": "UkrInform\n",
+      "url": "https://www.kyivpost.com/author/ukrinform"
+    },
+    {
+      "text": "Support Ukraine!",
+      "url": "https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi"
+    },
+    {
+      "text": "All videos",
+      "url": "https://www.kyivpost.com/multimedia/video"
+    },
+    {
+      "text": "\n",
+      "url": "https://www.kyivpost.com/multimedia/video/azov-the-man-behind-the-myth-part-1"
+    },
+    {
+      "text": "AZOV: The Man Behind the Myth \u2013 Part 1",
+      "url": "https://www.kyivpost.com/multimedia/video/azov-the-man-behind-the-myth-part-1"
+    },
+    {
+      "text": "watch",
+      "url": "https://www.kyivpost.com/multimedia/video/azov-the-man-behind-the-myth-part-1"
+    },
+    {
+      "text": "\n",
+      "url": "https://www.kyivpost.com/russias-war/ukraines-patrol-police-high-risk-low-pay.html"
+    },
+    {
+      "text": "Ukraine\u2019s Patrol Police \u2013 High Risk, Low Pay",
+      "url": "https://www.kyivpost.com/russias-war/ukraines-patrol-police-high-risk-low-pay.html"
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://www.kyivpost.com/ukraine-politics"
+    },
+    {
+      "text": "\n\nJuly 23,\n1:24 pm\n\nScandal in Odesa: No to City\u2019s Anchor-Heart Symbol by Putin Sympathiser\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/scandal-in-odesa-no-to-citys-anchor-heart-symbol-by-putin-sympathiser.html"
+    },
+    {
+      "text": "Ugo Poletti\n",
+      "url": "https://www.kyivpost.com/author/ugo-poletti"
+    },
+    {
+      "text": "\n\nJuly 22,\n10:22 am\n\n\nJust the plain historical facts\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/just-the-plain-historical-facts.html"
+    },
+    {
+      "text": "\n\nJuly 18,\n4:15 pm\n\n\nMH17 Anniversary \u2013 Ex-security Chief\u2019s Warnings Went Unheeded\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/mh17-anniversary-former-sbus-warnings-were-not-heeded.html"
+    },
+    {
+      "text": "\n\nJuly 12,\n8:11 pm\n\n\nWhat next for Kherson and the threat of a Russian \u201creferendum\u201d?\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/what-next-for-kherson-and-the-threat-of-a-russian-referendum.html"
+    },
+    {
+      "text": "\n\nJuly 12,\n11:20 am\n\n\n\u201cNo\u201d to the Sell-Out-To-Russia Lobby\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/no-to-the-sell-out-to-russia-lobby.html"
+    },
+    {
+      "text": "\n\nJuly 11,\n10:25 am\n\n\nStupid is as stupid does\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/stupid-is-as-stupid-does.html"
+    },
+    {
+      "text": "\n\nJuly 11,\n10:10 am\n\n\nUkrainian approach to reform has to be overcome to achieve EU and NATO Membership\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/ukrainian-approach-to-reform-has-to-be-overcome-to-achieve-eu-and-nato-membership.html"
+    },
+    {
+      "text": "\n\nJuly 7,\n2:35 pm\n\n\nStop Raping Us\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/stop-raping-us.html"
+    },
+    {
+      "text": "\n\nJuly 7,\n1:33 pm\n\n\nExclusive Insight \u2013 ALBA: Light Against War\n",
+      "url": "https://www.kyivpost.com/world/exclusive-insight-alba-light-against-war.html"
+    },
+    {
+      "text": "More Ukraine news",
+      "url": "https://www.kyivpost.com/ukraine-politics"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.kyivpost.com/business"
+    },
+    {
+      "text": "\n\nJuly 23,\n9:58 am\n\nUkraine and Russian separately sign landmark grain deal with UN and Turkey\n",
+      "url": "https://www.kyivpost.com/russias-war/ukraine-and-russian-separately-sign-landmark-grain-deal-with-un-and-turkey.html"
+    },
+    {
+      "text": "AFP\n",
+      "url": "https://www.kyivpost.com/author/bohdannahaylo"
+    },
+    {
+      "text": "\n\nJuly 21,\n2:31 pm\n\n\nAkhmetov\u2019s Media Empire Whimpers to a Close\n",
+      "url": "https://www.kyivpost.com/business/akhmetovs-media-empire-whimpers-to-a-close.html"
+    },
+    {
+      "text": "\n\nJuly 21,\n11:21 am\n\n\nNord Stream 1: In-depth\n",
+      "url": "https://www.kyivpost.com/world/nord-stream-1-in-depth.html"
+    },
+    {
+      "text": "\n\nJuly 21,\n11:19 am\n\n\nRussia resumes critical gas supplies to Europe via Nord Stream 1\n",
+      "url": "https://www.kyivpost.com/world/russia-resumes-critical-gas-supplies-to-europe-via-nord-stream-1.html"
+    },
+    {
+      "text": "More Business news",
+      "url": "https://www.kyivpost.com/business"
+    },
+    {
+      "text": "Technology",
+      "url": "https://www.kyivpost.com/technology"
+    },
+    {
+      "text": "\n\nJuly 21,\n2:35 pm\n\nMinistry of Digital Transformation Expands Services for Ukrainian Refugees\n",
+      "url": "https://www.kyivpost.com/technology/ministry-of-digital-transformation-expands-services-for-ukrainian-refugees.html"
+    },
+    {
+      "text": "Jason Jay Smart\n",
+      "url": "https://www.kyivpost.com/author/jason-jay-smart"
+    },
+    {
+      "text": "\n\nJuly 19,\n5:24 pm\n\n\nGoogle Hit by Russian Censorship Fine\n",
+      "url": "https://www.kyivpost.com/technology/google-hit-by-russian-censorship-fine.html"
+    },
+    {
+      "text": "\n\nJune 27,\n1:00 pm\n\n\nUkrainian Technology that you use but don\u2019t know\n",
+      "url": "https://www.kyivpost.com/technology/ukrainian-technology-that-you-use-but-do-not-know.html"
+    },
+    {
+      "text": "\n\nMay 26,\n7:40 pm\n\n\nIT campus planned to be built in Lviv region on 8 ha\n",
+      "url": "https://www.kyivpost.com/technology/it-campus-planned-to-be-built-in-lviv-region-on-8-ha.html"
+    },
+    {
+      "text": "More Technology news",
+      "url": "https://www.kyivpost.com/technology"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.kyivpost.com/lifestyle"
+    },
+    {
+      "text": "\n\nJuly 23,\n11:50 am\n\nUkraine\u2019s camera-shy first lady steps onto global stage\n",
+      "url": "https://www.kyivpost.com/lifestyle/ukraines-camera-shy-first-lady-steps-onto-global-stage.html"
+    },
+    {
+      "text": "AFP\n",
+      "url": "https://www.kyivpost.com/author/bohdannahaylo"
+    },
+    {
+      "text": "\n\nJuly 22,\n10:19 am\n\n\nKyiv mayor receives Arthur Ashe Courage Award\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/kyiv-mayor-receives-arthur-ashe-courage-award.html"
+    },
+    {
+      "text": "\n\nJuly 14,\n6:01 pm\n\n\n\u201cWhatever Happened\u201d: British Support for Ukraine Through Art\n",
+      "url": "https://www.kyivpost.com/ukraine-politics/whatever-happened-british-support-for-ukraine-through-art.html"
+    },
+    {
+      "text": "\n\nJuly 9,\n12:35 pm\n\n\nNew War Exhibition In Kyiv Compares Putin to Hitler\n",
+      "url": "https://www.kyivpost.com/lifestyle/art/new-war-exhibition-in-kyiv-compares-putin-to-hitler.html"
+    },
+    {
+      "text": "More Lifestyle news",
+      "url": "https://www.kyivpost.com/lifestyle"
+    },
+    {
+      "text": "View all ",
+      "url": "/opinion"
+    },
+    {
+      "text": "View all ",
+      "url": "/opinions/editorial"
+    },
+    {
+      "text": "\n,,\n\nJuly 19,\n12:53 pm\n\nPutin\u2019s Useful IdiotsThere is an operational pause on the frontline, yet heavy local battles are on-going, Russia is continuing to terrorize peaceful cities and is trying to organize an attack on the information front using \u201cPutin\u2019s useful idiots.\nIhor Zhdanov\n\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/putins-useful-idiots.html"
+    },
+    {
+      "text": "\n,,\n\nJuly 23,\n1:24 pm\n\nScandal in Odesa: No to City\u2019s Anchor-Heart Symbol by Putin Sympathiser\n\nUgo Poletti\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/scandal-in-odesa-no-to-citys-anchor-heart-symbol-by-putin-sympathiser.html"
+    },
+    {
+      "text": "\n,,\n\nJuly 22,\n10:22 am\n\nJust the plain historical facts\n\nAskold S. Lozynskyj\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/just-the-plain-historical-facts.html"
+    },
+    {
+      "text": "\n,,\n\nJuly 20,\n2:41 pm\n\nRussia: A Terrorist State!\n\nOrhan Dragas\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/russia-a-terrorist-state.html"
+    },
+    {
+      "text": "\n,,\n\nJuly 20,\n11:03 am\n\nIs the West Ready for Russia at its Worst?\n\nLesia Dubenko\n",
+      "url": "https://www.kyivpost.com/article/opinion/op-ed/is-the-west-ready-for-russia-at-its-worst.html"
+    },
+    {
+      "text": "View all ",
+      "url": "/opinions/editorial"
+    },
+    {
+      "text": "\n\n\nMay 9,\n12:20 pm\n\nKyiv Post\t\n\nEditorial:   Victory celebrations \u2013 real and false\n",
+      "url": "https://www.kyivpost.com/article/opinion/editorial/victory-celebrations-real-and-false.html"
+    },
+    {
+      "text": "\n\n\nApril 14,\n11:46 pm\n\nEditorial\t\n\nIt\u2019s Not Too Late for Fascist Russia\n",
+      "url": "https://www.kyivpost.com/article/opinion/editorial/its-not-too-late-for-fascist-russia.html"
+    },
+    {
+      "text": "\n\n\nNov. 5, 2021,\n2:25 pm\n\nKyiv Post\t\n\nHold that purchase\n",
+      "url": "https://www.kyivpost.com/article/opinion/editorial/editorial-hold-that-purchase.html"
+    },
+    {
+      "text": "\n\n\nNov. 5, 2021,\n1:29 pm\n\nKyiv Post\t\n\nUseless officials\n",
+      "url": "https://www.kyivpost.com/article/opinion/editorial/editorial-useless-officials.html"
+    },
+    {
+      "text": "\n\n\nOct. 30, 2021,\n4:43 am\n\nKyiv Post\t\n\nDereliction of duty\n",
+      "url": "https://www.kyivpost.com/article/opinion/editorial/editorial-western-naivete.html"
+    },
+    {
+      "text": "\n\n\nOct. 29, 2021,\n1:32 pm\n\nKyiv Post\t\n\nKindly vaccinate\n",
+      "url": "https://www.kyivpost.com/article/opinion/editorial/kindly-vaccinate.html"
+    },
+    {
+      "text": "View all",
+      "url": "/multimedia"
+    },
+    {
+      "text": "Videos",
+      "url": "/multimedia/video"
+    },
+    {
+      "text": "\n\nJuly 22,\n6:25 pm\n\nREPORTING FROM A WAR ZONE: Kyiv Post\u2019s Chief Editor Speaks to Henry Jackson Society\n",
+      "url": "https://www.kyivpost.com/multimedia/video/reporting-from-a-war-zone-kyiv-posts-chief-editor-speaks-to-henry-jackson-society"
+    },
+    {
+      "text": "Kyiv Post\n",
+      "url": "https://www.kyivpost.com/author/kyiv-post"
+    },
+    {
+      "text": "\n\nJuly 21,\n6:04 pm\n\n\nAZOV: The Man Behind the Myth \u2013 Part 1\n",
+      "url": "https://www.kyivpost.com/multimedia/video/azov-the-man-behind-the-myth-part-1"
+    },
+    {
+      "text": "\n\nJuly 21,\n2:39 pm\n\n\nWATCH: \u201cRussia is committing the same terrorist acts in Ukraine as it has always done\u201d \u2013 \u2026\n",
+      "url": "https://www.kyivpost.com/multimedia/video/russia-is-committing-the-same-terrorist-acts-in-ukraine-as-it-has-always-done-commander-of-georgian-legion-in-ukraine-speaks-to-kyiv-post"
+    },
+    {
+      "text": "\n\nJuly 21,\n12:47 pm\n\n\n\u201cSmall women serving in the army was not expected\u201d- interview with combat medic Iryna.\n",
+      "url": "https://www.kyivpost.com/multimedia/video/small-women-serving-in-the-army-was-not-expected-interview-with-combat-medic-iryna"
+    },
+    {
+      "text": "More Videos news",
+      "url": "/multimedia/video"
+    },
+    {
+      "text": "Photos",
+      "url": "/multimedia/photo"
+    },
+    {
+      "text": "\n\nJune 10,\n4:48 pm\n\nCurrent situation in war zones \u2013 June 9, 2022\n",
+      "url": "https://www.kyivpost.com/multimedia/photo/current-situation-in-war-zones-june-9-2022"
+    },
+    {
+      "text": "Kyiv Post\n",
+      "url": "https://www.kyivpost.com/author/kyiv-post"
+    },
+    {
+      "text": "\n\nJune 9,\n11:54 am\n\n\nCurrent situation in war zones \u2013 June 8, 2022\n",
+      "url": "https://www.kyivpost.com/multimedia/photo/current-situation-in-war-zones"
+    },
+    {
+      "text": "\n\nApril 29,\n3:42 pm\n\n\nExclusive photo report on Russian airstrike on Kyiv, April 28\n",
+      "url": "https://www.kyivpost.com/multimedia/photo/exclusive-photo-report-on-russian-airstrike-on-kyiv-april-28th"
+    },
+    {
+      "text": "\n\nApril 10,\n10:56 am\n\n\nVesna#Stop War Exhibition by Ukrainian Artists Has Opened in National Museum of Art of \u2026\n",
+      "url": "https://www.kyivpost.com/multimedia/photo/vesnastop-war-exhibition-by-ukrainian-artists-has-opened-in-national-museum-of-art-of-catalonia-in-barcelon"
+    },
+    {
+      "text": "More Photos news",
+      "url": "/multimedia/photo"
+    },
+    {
+      "text": "Cartoons",
+      "url": "/cartoon"
+    },
+    {
+      "text": "\n\nJuly 22,\n10:48 am\n\nRascist rats trapped in their own sinking ship\n",
+      "url": "https://www.kyivpost.com/cartoon/rascist-rats-trapped-in-their-own-sinking-ship.html"
+    },
+    {
+      "text": "Serhiy Kolyada\n",
+      "url": "https://www.kyivpost.com/author/serhiy-kolyada"
+    },
+    {
+      "text": "\n\nJuly 19,\n4:10 pm\n\n\nMoscow\u2019s latest hire a killer scheme\n",
+      "url": "https://www.kyivpost.com/cartoon/moscows-latest-hire-a-killer-scheme.html"
+    },
+    {
+      "text": "\n\nJuly 15,\n10:54 am\n\n\nCall the Russian killers what they are!\n",
+      "url": "https://www.kyivpost.com/cartoon/call-the-russian-killers-what-they-are.html"
+    },
+    {
+      "text": "\n\nJuly 14,\n12:02 pm\n\n\nIn The Name of What \u2013 The Delusions of Power-Crazy Monsters?\n",
+      "url": "https://www.kyivpost.com/cartoon/in-the-name-of-what-the-delusions-of-power-crazy-monsters.html"
+    },
+    {
+      "text": "More Cartoons news",
+      "url": "/cartoon"
+    },
+    {
+      "text": "",
+      "url": "https://www.kyivpost.com"
+    },
+    {
+      "text": "Ukraine",
+      "url": "https://www.kyivpost.com/ukraine-politics"
+    },
+    {
+      "text": "World",
+      "url": "https://www.kyivpost.com/world"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.kyivpost.com/business"
+    },
+    {
+      "text": "Technology",
+      "url": "https://www.kyivpost.com/technology"
+    },
+    {
+      "text": "Op-Ed",
+      "url": "/opinion"
+    },
+    {
+      "text": "Lifestyle",
+      "url": "https://www.kyivpost.com/lifestyle"
+    },
+    {
+      "text": "Sports",
+      "url": "https://www.kyivpost.com/sport"
+    },
+    {
+      "text": "History",
+      "url": "https://www.kyivpost.com/then-and-now"
+    },
+    {
+      "text": "Decade in Review",
+      "url": "https://www.kyivpost.com/ukraine-politics/decade-in-review.html"
+    },
+    {
+      "text": "Photo",
+      "url": "https://www.kyivpost.com/multimedia/photo"
+    },
+    {
+      "text": "Video",
+      "url": "https://www.kyivpost.com/multimedia/video"
+    },
+    {
+      "text": "Cartoons",
+      "url": "https://www.kyivpost.com/multimedia/cartoon"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.kyivpost.com/about-us"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.kyivpost.com/contact-us"
+    },
+    {
+      "text": "Newspaper & supplements",
+      "url": "https://www.kyivpost.com/PDF-archive/issue"
+    },
+    {
+      "text": "Employment",
+      "url": "https://www.kyivpost.com/classifieds"
+    },
+    {
+      "text": "Advertising",
+      "url": "https://www.kyivpost.com/advertising"
+    },
+    {
+      "text": "KP Brand Studio",
+      "url": "https://brandstudio.kyivpost.com/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.kyivpost.com/privacy-policy"
+    },
+    {
+      "text": "Cookie Policy",
+      "url": "https://www.kyivpost.com/cookie-policy"
+    },
+    {
+      "text": "Terms & Conditions",
+      "url": "https://www.kyivpost.com/terms-and-conditions"
+    },
+    {
+      "text": "Newspaper & supplements",
+      "url": "https://www.kyivpost.com/PDF-archive/issue"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/KyivPost"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/KyivPost"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/kyivpost.official/"
+    },
+    {
+      "text": "",
+      "url": "https://t.me/Kyivpost_official"
+    },
+    {
+      "text": "",
+      "url": "https://www.youtube.com/channel/UClnEMtKghVQWqw1tOX2NeMQ"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/company/kyiv-post"
+    },
+    {
+      "text": "news@kyivpost.com.",
+      "url": "mailto:news@kyivpost.com"
+    },
+    {
+      "text": "\n\n",
+      "url": "#"
+    },
+    {
+      "text": "\n\n",
+      "url": "#"
+    },
+    {
+      "text": "\n\n",
+      "url": "#"
+    },
+    {
+      "text": "\n\n",
+      "url": "#"
+    },
+    {
+      "text": "\n\n",
+      "url": "#"
+    },
+    {
+      "text": "\n\n",
+      "url": "#"
+    },
+    {
+      "text": "\n\n",
+      "url": "#"
+    },
+    {
+      "text": "\n\n",
+      "url": "#"
+    },
+    {
+      "text": "\n\n",
+      "url": "#"
+    },
+    {
+      "text": "Ok",
+      "url": "#"
+    },
+    {
+      "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "url": "https://www.kyivpost.com"
+    },
+    {
+      "text": "Sign In",
+      "url": ""
+    },
+    {
+      "text": "",
+      "url": "https://www.kyivpost.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fwww.kyivpost.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://www.kyivpost.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fwww.kyivpost.com%2F"
+    },
+    {
+      "text": "Register",
+      "url": "#"
+    },
+    {
+      "text": "Forgot your password?",
+      "url": "#"
+    },
+    {
+      "text": "",
+      "url": "https://www.kyivpost.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Facebook&redirect_to=https%3A%2F%2Fwww.kyivpost.com%2F"
+    },
+    {
+      "text": "",
+      "url": "https://www.kyivpost.com/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=https%3A%2F%2Fwww.kyivpost.com%2F"
+    },
+    {
+      "text": "Sign In",
+      "url": "#"
+    }
+  ],
   "metadata": {
     "identifier": "kyivpost-2022",
     "collection": [
@@ -10521,10 +11751,10 @@
     "publicdate": "2022-03-23 02:09:01",
     "addeddate": "2022-03-23 02:09:01"
   },
-  "server": "ia902502.us.archive.org",
-  "uniq": 17448276,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1417369224,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia802502.us.archive.org",
+    "ia902502.us.archive.org"
   ]
 }

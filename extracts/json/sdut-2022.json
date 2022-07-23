@@ -1,5 +1,5 @@
 {
-  "created": 1658529222,
+  "created": 1658611685,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/4/items/sdut-2022",
@@ -11284,31 +11284,167 @@
       "sha1": "7a6c238a28a5c218e12002701c01ba0777ddd051"
     },
     {
+      "name": "sdut-2022-07-22T21:22:05.175125-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658550139",
+      "size": "52919",
+      "md5": "b74743c976d7d188307f91b3ded26fc6",
+      "crc32": "f1c12e9e",
+      "sha1": "cea0cb573d041d2d260ff11970c22e3801a7125a",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-07-22T21:22:05.175125-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658550141",
+      "size": "69378",
+      "md5": "40fd8c5c1d69b89842341329f423bfee",
+      "crc32": "9d6369ca",
+      "sha1": "c00a4f1b4c36ae92e1e33fd13520ba5765787c52",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-07-22T21:22:05.175125-07:00.jpg",
+      "source": "original",
+      "mtime": "1658550137",
+      "size": "291489",
+      "md5": "9486c80130a66b65603313054c6f964e",
+      "crc32": "d9f4bc2a",
+      "sha1": "f1a8c21057746a0af32af1d7eaef4db08c92902b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-07-22T21:22:05.175125-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-07-22T21:22:05.175125-07:00.jpg",
+      "mtime": "1658554208",
+      "size": "9150",
+      "md5": "969984f5bd1ed785a0a0849180c59fdc",
+      "crc32": "a7abbef3",
+      "sha1": "230da8870846d55271b29989fb7c5958c1046dde"
+    },
+    {
+      "name": "sdut-2022-07-23T09:01:54.210966-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658592127",
+      "size": "56146",
+      "md5": "d7b81996becd75704c9258af2c00dd42",
+      "crc32": "3d638000",
+      "sha1": "239f66397c30f262dd6f2a3701fcba25c83d5012",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-07-23T09:01:54.210966-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658592129",
+      "size": "73036",
+      "md5": "df8cb77d77e72601f731c3a377296928",
+      "crc32": "56de0481",
+      "sha1": "a3bc1a09ad92b248444e91cec49dd08d9ea706ea",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-07-23T09:01:54.210966-07:00.jpg",
+      "source": "original",
+      "mtime": "1658592125",
+      "size": "303879",
+      "md5": "b5d4de79a674b2b3ed89e38c3ecf0c20",
+      "crc32": "ae34dcb1",
+      "sha1": "2fddb650bd9b8df95804b531e153fc244c2dc6cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-07-23T09:01:54.210966-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-07-23T09:01:54.210966-07:00.jpg",
+      "mtime": "1658592249",
+      "size": "9664",
+      "md5": "a7c86b7f6f93028ba8da1b1d6337fecc",
+      "crc32": "37243234",
+      "sha1": "8d7d3b89f192896ca4f2071b8a7dbf4322e1fc1e"
+    },
+    {
+      "name": "sdut-2022-07-23T11:24:10.130591-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658600653",
+      "size": "55750",
+      "md5": "8ba745ccabfd69e8e2ad80741ccfe2bf",
+      "crc32": "910362d6",
+      "sha1": "1756faa738aa883d6278d354153fcf16b8ea9b3c",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-07-23T11:24:10.130591-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658600662",
+      "size": "72527",
+      "md5": "39bb2984c56b211a1c33f8e41df30439",
+      "crc32": "79660f71",
+      "sha1": "905b1cbc2b2a88f8a2fdfcc560faf22eb31f1518",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-07-23T11:24:10.130591-07:00.jpg",
+      "source": "original",
+      "mtime": "1658600651",
+      "size": "281672",
+      "md5": "a7aa1cac3050a9577a43888853a41066",
+      "crc32": "12e67f20",
+      "sha1": "6fd3dc441baa9c272516cad51b01451986ad3b91",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-07-23T11:24:10.130591-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658600665",
+      "size": "1585",
+      "md5": "4c887b472de7006d13cf696f844bc2ef",
+      "crc32": "cbf15bc2",
+      "sha1": "23386714c73d9e86a63f2d1cdc3c199f4eb801bb",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-07-23T11:24:10.130591-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-07-23T11:24:10.130591-07:00.jpg",
+      "mtime": "1658600861",
+      "size": "9357",
+      "md5": "946458b49176360f3bee278b8b040684",
+      "crc32": "b542b00d",
+      "sha1": "0ab7da72b7f2af170e3ef69993154e2b8e8f3ff9"
+    },
+    {
       "name": "sdut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eac946f1e1307b6a211e41fbf57d639a07bf8fe5",
-      "mtime": "1658529188",
-      "size": "223657",
-      "md5": "eaaa862db767f664373399b2146ab2fb",
-      "crc32": "10efd78a",
-      "sha1": "94ad08bb0d75842a365b8a72624747afe3528e38",
+      "btih": "1802147532b31e9514358397d61e61fd177869ca",
+      "mtime": "1658600928",
+      "size": "226362",
+      "md5": "a13b9029ae2bd1c2d0eaaa600b8fb537",
+      "crc32": "2d7984f2",
+      "sha1": "a3b5e29ff9666481647deed71639be03cf9c70f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sdut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "adfd56a9e2b04ac53cff72c92aadcf4e",
+      "md5": "7fffacc9d0f88a0f5898970c59180adf",
       "summation": "md5"
     },
     {
       "name": "sdut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658514001",
-      "size": "1224704",
-      "md5": "a0ec18cbdec279e3af11330443c808f1",
-      "crc32": "76c3ce7d",
-      "sha1": "a3e031e6d892e0d488c8b3603b31ce943e0f5aef",
+      "mtime": "1658600668",
+      "size": "1241088",
+      "md5": "fc74cd100dbb678d1f619623440f3690",
+      "crc32": "0d70bc51",
+      "sha1": "a178ee6e16032b58936ca8486e5626d6a85d869a",
       "format": "Metadata"
     },
     {
@@ -11322,9 +11458,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1077,
-  "item_last_updated": 1658529188,
-  "item_size": 113245256,
+  "files_count": 1090,
+  "item_last_updated": 1658600928,
+  "item_size": 114550897,
   "metadata": {
     "identifier": "sdut-2022",
     "collection": [
@@ -11341,10 +11477,51 @@
     "publicdate": "2022-03-23 02:09:42",
     "addeddate": "2022-03-23 02:09:42"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 1436086443,
+  "sdut-2022": [
+    {
+      "url": "https://www.sandiegouniontribune.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_23_18_21_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_23_18_21_33.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.sandiegouniontribune.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_23_18_22_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_23_18_22_00.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.sandiegouniontribune.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_23_18_21_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_07_23_18_21_05.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "server": "ia802501.us.archive.org",
+  "uniq": 1207213673,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }
