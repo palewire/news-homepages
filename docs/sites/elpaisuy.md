@@ -17,7 +17,7 @@ orphan: true
 | Location       | Montevideo                                                                 |
 | Timezone       | America/Montevideo                                                                 |
 
-The archiving routine has captured 27 screenshots stored at the Internet Archive.
+The archiving routine has captured 28 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

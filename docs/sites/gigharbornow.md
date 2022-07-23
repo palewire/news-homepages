@@ -17,7 +17,7 @@ orphan: true
 | Location       | Gig Harbor                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 27 screenshots stored at the Internet Archive.
+The archiving routine has captured 28 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
