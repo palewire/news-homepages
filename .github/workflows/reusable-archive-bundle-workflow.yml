@@ -114,6 +114,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: sources
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
     steps:
       - id: checkout
         name: Checkout
