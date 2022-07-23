@@ -34,7 +34,7 @@ jobs:
         name: Audit
         uses: ./.github/actions/lighthouse
         with:
-          source: ${{ input.handle }}
+          source: ${{ inputs.handle }}
 
 #  tweet:
 #    name: Post to Twitter
