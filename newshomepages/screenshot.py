@@ -136,11 +136,16 @@ def _screenshot(
             ".signup-box",  # Popup ad
             ".newspack-lightbox",  # Popup
             ".adunit-googleadmanager",  # Google ad
+            ".mc-modal",  # Newsletter popup
+            ".mc-modal-bg",
         ]
         target_str = ",".join(target_list)
-        javascript = (
-            f"document.querySelectorAll('{target_str}').forEach(el => el.remove())"
-        )
+        javascript = f"""
+            document.querySelectorAll('{target_str}').forEach(el => el.remove());
+            var styleSheet = document.createElement('style');
+            styleSheet.innerText = '{target_str} {{ display: none !important; }}';
+            document.head.appendChild(styleSheet);
+         """
         click.echo("Executing common JavaScript")
         page.evaluate(javascript)
 
