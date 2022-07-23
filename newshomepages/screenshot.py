@@ -57,6 +57,8 @@ def _screenshot(
                 f"--disable-extensions-except={extensions_str}",
                 f"--load-extension={extensions_str}",
                 "--disable-gpu",
+                "--disable-notifications",
+                "--disable-search-geolocation-disclosure",
                 "--enable-logging=stderr",
                 "--log-level=0",
                 "--v=1",
