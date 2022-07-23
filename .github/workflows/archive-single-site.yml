@@ -14,19 +14,15 @@ on:
         default: false
 
 jobs:
-  archive-site:
-    name: Archive site
-    uses: palewire/news-homepages/.github/workflows/reusable-archive-single-site-workflow.yml@main
-    with:
-      handle: ${{ inputs.handle }}
-    secrets: inherit
+#  archive-site:
+#    name: Archive site
+#    uses: palewire/news-homepages/.github/workflows/reusable-archive-single-site-workflow.yml@main
+#    with:
+#      handle: ${{ inputs.handle }}
+#    secrets: inherit
 
-  tweet:
-    name: Post to Twitter
+  lighthouse:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-    needs: [archive-site]
-    if: inputs.tweet == true
     steps:
       - id: checkout
         name: Checkout
@@ -36,17 +32,55 @@ jobs:
         name: Install Python dependencies
         uses: ./.github/actions/install
 
-      - uses: actions/download-artifact@v3
-        with:
-          name: screenshots
-          path: ./_input
-
-      - id: tweet
-        name: Tweet
-        run: pipenv run python -m newshomepages.tweet single ${{ inputs.handle }} -i ./_input/
+      - id: geturl
+        name: Get URL
+        run: |
+          export URL=$(pipenv run python -c "from newshomepages import utils; print(utils.get_site('${{ inputs.handle }}')['url'])")
+          echo "::set-output name=url::$(echo $URL)"
         shell: bash
-        env:
-          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
-          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
-          TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+
+      - name: Audit URL
+        uses: jakejarvis/lighthouse-action@master
+        with:
+          url: ${{ steps.geturl.outputs.url }}
+
+      - id: mv
+        name: Move report
+        run: mv ./report ./${{ inputs.handle }}
+        shell: bash
+
+      - name: Upload results as an artifact
+        uses: actions/upload-artifact@master
+        with:
+          name: lighthouse
+          path: ./${{ inputs.handle }}
+
+#  tweet:
+#    name: Post to Twitter
+#    runs-on: ubuntu-latest
+#    timeout-minutes: 15
+#    needs: [archive-site]
+#    if: inputs.tweet == true
+#    steps:
+#      - id: checkout
+#        name: Checkout
+#        uses: actions/checkout@v3
+
+#      - id: install
+#        name: Install Python dependencies
+#        uses: ./.github/actions/install
+
+#      - uses: actions/download-artifact@v3
+#        with:
+#          name: screenshots
+#          path: ./_input
+
+#      - id: tweet
+#        name: Tweet
+#        run: pipenv run python -m newshomepages.tweet single ${{ inputs.handle }} -i ./_input/
+#        shell: bash
+#        env:
+#          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+#          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+#          TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+#          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
