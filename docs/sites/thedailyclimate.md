@@ -17,7 +17,8 @@ orphan: true
 | Location       | Bozeman                                                                 |
 | Timezone       | America/Denver                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[thedailyclimate-2022](https://archive.org/details/thedailyclimate-2022)|

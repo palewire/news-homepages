@@ -17,7 +17,8 @@ orphan: true
 | Location       | Detroit                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 3 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[labornotes-2022](https://archive.org/details/labornotes-2022)|
