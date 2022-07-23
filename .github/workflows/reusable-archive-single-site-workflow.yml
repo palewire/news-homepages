@@ -71,6 +71,21 @@ jobs:
           access-key: ${{ secrets.IA_ACCESS_KEY }}
           secret-key: ${{ secrets.IA_SECRET_KEY }}
 
+  lighthouse:
+    name: Lighthouse audit
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: audit
+        name: Audit
+        uses: ./.github/actions/lighthouse
+        with:
+          source: ${{ inputs.handle }}
+
   archive:
     name: Post to archive.org
     needs: [jpg,accessibility,hyperlinks]
