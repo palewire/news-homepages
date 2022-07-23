@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Daily Beast
+
+![Daily Beast](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailybeast.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://www.thedailybeast.com/](https://www.thedailybeast.com/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailybeast.xml) |
+| Twitter handle | [@thedailybeast](https://www.twitter.com/thedailybeast)                     |
+| Location       | New York City                                                                 |
+| Timezone       | America/New_York                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |
