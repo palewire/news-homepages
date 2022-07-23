@@ -449,7 +449,7 @@
       "url": "https://translate.google.com"
     }
   ],
-  "created": 1658491702,
+  "created": 1658537807,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/canopyatl-2022",
@@ -1642,31 +1642,73 @@
       "sha1": "a3a92666907f86c4a5116f3358f8ac49bdd94192"
     },
     {
+      "name": "canopyatl-2022-07-22T09:00:26.657772-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658494830",
+      "size": "6101",
+      "md5": "ef0b0ababca2a562bf8eca4dd3498634",
+      "crc32": "0383d68e",
+      "sha1": "87172609b47a21d22c2ff410227e0596e4c13d9a",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-07-22T09:00:26.657772-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658494832",
+      "size": "9866",
+      "md5": "de4fa96e4fd8998ba85737695491b067",
+      "crc32": "e60747c9",
+      "sha1": "0b2e9d069ae548b87d1dd7a020f80b547399d693",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-07-22T09:00:26.657772-04:00.jpg",
+      "source": "original",
+      "mtime": "1658494828",
+      "size": "207214",
+      "md5": "66850d38dcd5b16b46ce1068af1266e3",
+      "crc32": "c3e2a16e",
+      "sha1": "038b3502e33d1f6a187cd58c425762bc84abdecb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "canopyatl-2022-07-22T09:00:26.657772-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "canopyatl-2022-07-22T09:00:26.657772-04:00.jpg",
+      "mtime": "1658515347",
+      "size": "9175",
+      "md5": "61ac7da582112d25beaa596f43aa1a87",
+      "crc32": "98fd4374",
+      "sha1": "b24619a4f820f886de1b395c6edac2b1dfdad9f3"
+    },
+    {
       "name": "canopyatl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "87561b3b06b179a8c92ac788c991ff3a82a03014",
-      "mtime": "1658457694",
-      "size": "25145",
-      "md5": "0f639201305e04348c9624b5dc5a4d6c",
-      "crc32": "d540f072",
-      "sha1": "25566c3bcf8fcdcb5a82c944e68d1c7275738477",
+      "btih": "74338d87698412e626e7f0020ac17348ceb9ea5f",
+      "mtime": "1658515378",
+      "size": "25996",
+      "md5": "528fcca0b5e1fe6a2ef34f8ce73e3019",
+      "crc32": "d6e34491",
+      "sha1": "343ac84b206c7a42d49e23f88d71dd37618adbad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "canopyatl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "367a2fafd134c2d4497fd0fdca27de9f",
+      "md5": "1ed44673534cfd2f69f41ecc456de65d",
       "summation": "md5"
     },
     {
       "name": "canopyatl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658452069",
-      "size": "151552",
-      "md5": "e8e61aa368eb08e9096a9b78d590906f",
-      "crc32": "854f5f2a",
-      "sha1": "239432260d9f2a8cacf39f68b5f27b511d0a1eb8",
+      "mtime": "1658494836",
+      "size": "155648",
+      "md5": "6fd4ecc6a75d192b364e96f031b043ac",
+      "crc32": "d17a71eb",
+      "sha1": "a601bbd267418c2ceeda6e86ada0da4b172e25c5",
       "format": "Metadata"
     },
     {
@@ -1680,9 +1722,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 117,
-  "item_last_updated": 1658457694,
-  "item_size": 6611484,
+  "files_count": 121,
+  "item_last_updated": 1658515378,
+  "item_size": 6848787,
   "metadata": {
     "identifier": "canopyatl-2022",
     "collection": [
@@ -1699,10 +1741,10 @@
     "publicdate": "2022-07-09 03:56:21",
     "addeddate": "2022-07-09 03:56:21"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1082370074,
+  "server": "ia601405.us.archive.org",
+  "uniq": 728542833,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

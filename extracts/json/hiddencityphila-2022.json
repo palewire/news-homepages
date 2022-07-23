@@ -1,5 +1,5 @@
 {
-  "created": 1658492000,
+  "created": 1658538016,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/hiddencityphila-2022",
@@ -1360,31 +1360,73 @@
       "sha1": "7629903c7c6fa430ef19298e655e675d25cdf01d"
     },
     {
+      "name": "hiddencityphila-2022-07-22T10:02:47.278112-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658498571",
+      "size": "8940",
+      "md5": "9e745484066949911ec692ab365eed5d",
+      "crc32": "69202d78",
+      "sha1": "3a332f0cc7e678a76ddd5feb0521525a1fdbce63",
+      "format": "JSON"
+    },
+    {
+      "name": "hiddencityphila-2022-07-22T10:02:47.278112-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658498572",
+      "size": "12239",
+      "md5": "34a3e315a99ffaa6ec3d4e0775cd4d4f",
+      "crc32": "3cf6df63",
+      "sha1": "a1140d230c0c9b180aaa5694e4128b33f8568b6f",
+      "format": "JSON"
+    },
+    {
+      "name": "hiddencityphila-2022-07-22T10:02:47.278112-04:00.jpg",
+      "source": "original",
+      "mtime": "1658498569",
+      "size": "261645",
+      "md5": "7c8804c28b875de9f019b0f1f393eaf9",
+      "crc32": "2d3bcf97",
+      "sha1": "5043355dc48e488aa86e318912d3e91027bcf49b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hiddencityphila-2022-07-22T10:02:47.278112-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hiddencityphila-2022-07-22T10:02:47.278112-04:00.jpg",
+      "mtime": "1658517900",
+      "size": "9240",
+      "md5": "b162a98299ffaa5a4574f5c771789c47",
+      "crc32": "28b4903e",
+      "sha1": "7629903c7c6fa430ef19298e655e675d25cdf01d"
+    },
+    {
       "name": "hiddencityphila-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da281f7f47d03052eb8e85d492fc4598e380c918",
-      "mtime": "1658463807",
-      "size": "29460",
-      "md5": "e5659351435176c5654f3575c47b97d0",
-      "crc32": "73ad3b0f",
-      "sha1": "f5c0e41d414011f49cc978cf6374a88cd72ef709",
+      "btih": "13bfe0fb089ea453f45f7e67824fef45249679d6",
+      "mtime": "1658517960",
+      "size": "30336",
+      "md5": "c394438c8a5eb92ca56029ab86d21150",
+      "crc32": "5b88021a",
+      "sha1": "f9b4476491555127849afb87cfd991684f49c230",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hiddencityphila-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "debcb78685b6c3d82112aea92645a981",
+      "md5": "8bdffd579f5a05eb1d831a5478a2f66a",
       "summation": "md5"
     },
     {
       "name": "hiddencityphila-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658456570",
-      "size": "167936",
-      "md5": "529844ec1ff40443c1d8f5f0a0bbfb7f",
-      "crc32": "4269653b",
-      "sha1": "cab213401267432a4cba55e47379b7d1b573f32e",
+      "mtime": "1658498579",
+      "size": "176128",
+      "md5": "64a9d85285afe4003abadf61a1967114",
+      "crc32": "ebead1a9",
+      "sha1": "0c076dd4829351d34f18174bbe70cb52f1f0b5e1",
       "format": "Metadata"
     },
     {
@@ -1398,7 +1440,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 133,
+  "files_count": 137,
   "hiddencityphila-2022": [
     {
       "text": "Skip to content",
@@ -1737,8 +1779,8 @@
       "url": "https://hiddencityphila.org/contact/"
     }
   ],
-  "item_last_updated": 1658463807,
-  "item_size": 10223136,
+  "item_last_updated": 1658517960,
+  "item_size": 10524268,
   "metadata": {
     "identifier": "hiddencityphila-2022",
     "collection": [
@@ -1755,10 +1797,10 @@
     "publicdate": "2022-07-09 03:59:31",
     "addeddate": "2022-07-09 03:59:31"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 432970882,
+  "server": "ia801405.us.archive.org",
+  "uniq": 291047092,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

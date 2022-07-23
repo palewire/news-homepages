@@ -1,5 +1,5 @@
 {
-  "created": 1658492284,
+  "created": 1658538246,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/32/items/nybooks-2022",
@@ -1528,31 +1528,73 @@
       "sha1": "40d1d722b2065a1d57f20d053b06aab4a76d7ea6"
     },
     {
+      "name": "nybooks-2022-07-22T11:00:37.313998-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658502041",
+      "size": "20276",
+      "md5": "258bca3b1f3214621446edebc88a3a27",
+      "crc32": "41de73e4",
+      "sha1": "42d334b8d7c15f90ad6518c587efd423dbc04130",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-22T11:00:37.313998-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658502043",
+      "size": "46158",
+      "md5": "74e5fbef8818b032c873ba46ad6c034a",
+      "crc32": "03e057e2",
+      "sha1": "ecaf51f2530180e2386bb5e000269c103e89f2cd",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-07-22T11:00:37.313998-04:00.jpg",
+      "source": "original",
+      "mtime": "1658502039",
+      "size": "341291",
+      "md5": "1f479ad81a10a4307fc3f0c57a7eb590",
+      "crc32": "3f03c182",
+      "sha1": "a5290042e3a8278c0aba9689510e953ba8835453",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nybooks-2022-07-22T11:00:37.313998-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nybooks-2022-07-22T11:00:37.313998-04:00.jpg",
+      "mtime": "1658520578",
+      "size": "9988",
+      "md5": "7629a16d5627ee32d48848f6eb91e17e",
+      "crc32": "e466dafa",
+      "sha1": "80140a6f2cc219e5dafb848060e6c1fff3066de2"
+    },
+    {
       "name": "nybooks-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1aa5528c7d1ace08c2591164b2e513b2ab85209",
-      "mtime": "1658470777",
-      "size": "31925",
-      "md5": "b0c7bf66b06ff3943e1171c5aa8fe864",
-      "crc32": "a028d839",
-      "sha1": "d6ba3c2d11b6c9ceb676393c405677bb70137a2d",
+      "btih": "59b2f8648012aebf0a2ddaaa4a8e192bb4f6cfbb",
+      "mtime": "1658520589",
+      "size": "32770",
+      "md5": "34d2b652951537ae75d9fbfc599d989f",
+      "crc32": "327174f8",
+      "sha1": "a29d721b933a2bfbaef39d58eed526f95ab8bc18",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nybooks-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "59b527d9a7234e348fd39285a88dd336",
+      "md5": "b4deac5e074bc8443a9450ee26ae2235",
       "summation": "md5"
     },
     {
       "name": "nybooks-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658461136",
-      "size": "184320",
-      "md5": "0cefaf6c981c3a1d797d9e1bc02630d2",
-      "crc32": "ce95246a",
-      "sha1": "4310f0025128fcddd4a6567f615254281f19d936",
+      "mtime": "1658502054",
+      "size": "192512",
+      "md5": "236c80b79db743ff7d63c6bd9ce160be",
+      "crc32": "6dd1c47d",
+      "sha1": "19db409a907690fb9ab3e260e66c04ff098a0b84",
       "format": "Metadata"
     },
     {
@@ -1566,9 +1608,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 149,
-  "item_last_updated": 1658470777,
-  "item_size": 15623101,
+  "files_count": 153,
+  "item_last_updated": 1658520589,
+  "item_size": 16049851,
   "metadata": {
     "identifier": "nybooks-2022",
     "collection": [
@@ -1609,6 +1651,14 @@
     {
       "text": "\n\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t",
       "url": "https://www.nybooks.com"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\tSign In\n\t\t\t\t\t\t\t\t\t",
+      "url": "https://www.nybooks.com/account/signin/?current_page=https%3A%2F%2Fwww.nybooks.com%2F"
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://subscribe.nybooks.info/ecom/nyb/app/live/subscriptions?org=NYB&publ=NY&key_code=EPHGNPA&type=S&gift_key=GPHGNPA"
     },
     {
       "text": "\n\t\t\t\t\t\t\t\t\tPolitics\n\t\t\t\t\t\t\t\t",
@@ -1747,12 +1797,12 @@
       "url": "https://www.nybooks.com"
     },
     {
-      "text": "My Account",
-      "url": "https://subscribe.nybooks.info/ecom/nyb/app/live/subcustserv?org=NYB&publ=NY&php=y"
+      "text": "Sign In",
+      "url": "https://www.nybooks.com/account/signin/?current_page=https%3A%2F%2Fwww.nybooks.com%2F"
     },
     {
-      "text": "Logout",
-      "url": "https://www.nybooks.com/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=c57ca6819d"
+      "text": "Subscribe",
+      "url": "https://subscribe.nybooks.info/ecom/nyb/app/live/subscriptions?org=NYB&publ=NY&key_code=EPHGNPA&type=S&gift_key=GPHGNPA"
     },
     {
       "text": "\n                    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                ",
@@ -1891,24 +1941,24 @@
       "url": "http://www.nyrb.com/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nAaron Matz\t\t\t\t\t\t\n\t\t\t\t\t\tFlaubert\u2019s Planet\n\t\t\t\t\t\tDo novelists, and their readers, bear some responsibility for the climate crisis?\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
-      "url": "https://www.nybooks.com/articles/2022/07/21/nutmegs-curse-amitav-ghosh-climate-crisis/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nRobert Kuttner\t\t\t\t\t\t\n\t\t\t\t\t\tFree Markets, Besieged Citizens\n\t\t\t\t\t\tWhy did Democratic presidents embrace an economic credo that annihilated their own public philosophy and its appeal to the electorate?\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
-      "url": "https://www.nybooks.com/articles/2022/07/21/free-markets-besieged-citizens-gerstle-kuttner/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nVicente L. Rafael\t\t\t\t\t\n\t\t\t\t\tThe Return of the Marcoses\n\t\t\t\t\tThe level of support in the Philippines for Ferdinand \u201cBongbong\u201d Marcos Jr. cannot be explained by social media disinformation or sheer coercion alone.\u00a0\n\n\t\t\t\t\t    July 21, 2022\n\n\t\t\t\t",
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nVicente L. Rafael\t\t\t\t\t\t\n\t\t\t\t\t\tThe Return of the Marcoses\n\t\t\t\t\t\tThe level of support in the Philippines for Ferdinand \u201cBongbong\u201d Marcos Jr. cannot be explained by social media disinformation or sheer coercion alone.\u00a0\n\n\t\t\t\t\t\t    July 21, 2022\n\n\t\t\t\t\t",
       "url": "https://www.nybooks.com/daily/2022/07/21/the-return-of-the-marcoses/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nFT\t\t\t\t\t\t\n\t\t\t\t\t\tApropos of Nothing\n\t\t\t\t\t\tNonbeing belongs to that category of concepts that seem self-evident and self-explanatory, but have been objects of deepest perplexity for philosophers.\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
-      "url": "https://www.nybooks.com/articles/2022/07/21/absence-and-nothing-stephen-mumford/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nAaron Matz\t\t\t\t\t\t\n\t\t\t\t\t\tFlaubert\u2019s Planet\n\t\t\t\t\t\tDo novelists, and their readers, bear some responsibility for the climate crisis?\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
+      "url": "https://www.nybooks.com/articles/2022/07/21/nutmegs-curse-amitav-ghosh-climate-crisis/"
     },
     {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nVerlyn Klinkenborg\t\t\t\t\t\t\n\t\t\t\t\t\tThe Forest\u2019s-Eye View\n\t\t\t\t\t\tTwo new books investigate the ways in which deforestation affects climate change, and climate change affects forests.\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
-      "url": "https://www.nybooks.com/articles/2022/07/21/the-forests-eye-view-ever-green-the-treeline/"
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\n\nIan Bassin and Erica Newland\t\t\t\t\t\n\t\t\t\t\tThe Attorney General\u2019s Choice\n\t\t\t\t\tMerrick Garland\u2019s job in weighing a Trump indictment is not to heal the nation.\u00a0\n\n\t\t\t\t\t    July 22, 2022\n\n\t\t\t\t",
+      "url": "https://www.nybooks.com/daily/2022/07/22/the-attorney-generals-choice/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nRobert Kuttner\t\t\t\t\t\t\n\t\t\t\t\t\tFree Markets, Besieged Citizens\n\t\t\t\t\t\tWhy did Democratic presidents embrace an economic credo that annihilated their own public philosophy and its appeal to the electorate?\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
+      "url": "https://www.nybooks.com/articles/2022/07/21/free-markets-besieged-citizens-gerstle-kuttner/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\nFT\t\t\t\t\t\t\n\t\t\t\t\t\tApropos of Nothing\n\t\t\t\t\t\tNonbeing belongs to that category of concepts that seem self-evident and self-explanatory, but have been objects of deepest perplexity for philosophers.\n\n\t\t\t\t\t\t    July 21, 2022 issue\n\n\t\t\t\t\t",
+      "url": "https://www.nybooks.com/articles/2022/07/21/absence-and-nothing-stephen-mumford/"
     },
     {
       "text": "\n                                                                                                                                                                                                                                                                        \n                                                    \n                                                \n                                                                                                                            \n                                            \n\n\nDeborah Eisenberg                                        \n                                        Condemned to Life\n                                        The austerely drawn world of Jacqueline Harpman\u2019s novel I Who Have Never Known Men provides a richly allusive consideration of human life.\n\n                                            July 21, 2022 issue\n\n                                    ",
@@ -2071,6 +2121,10 @@
       "url": "https://shop.nybooks.com/"
     },
     {
+      "text": "\n                                    \n                                        \n\t\n\nIan Bassin                                    \n                                    The Attorney General\u2019s Choice\n                                        July 22, 2022\n\n                                ",
+      "url": "https://www.nybooks.com/daily/2022/07/22/the-attorney-generals-choice/"
+    },
+    {
       "text": "\n                                    \n                                        \n\t\n\nVicente L. Rafael                                    \n                                    The Return of the Marcoses\n                                        July 21, 2022\n\n                                ",
       "url": "https://www.nybooks.com/daily/2022/07/21/the-return-of-the-marcoses/"
     },
@@ -2083,28 +2137,24 @@
       "url": "https://www.nybooks.com/daily/2022/07/08/egregiously-wrong-the-supreme-courts-unprecedented-turn/"
     },
     {
-      "text": "\n                                    \n                                        \n\t\n\nGordon F. Sander                                    \n                                    Memory Wars in Latvia\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/memory-wars-in-latvia-gordon-sander/"
-    },
-    {
       "text": "More Politics",
       "url": "politics"
     },
     {
+      "text": "\n                                    \n                                        \n\t\n\nSarah Blackwood                                    \n                                    Spiritual Exercises\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/secret-to-superhuman-strength-alison-bechdel/"
+    },
+    {
+      "text": "\n                                    \n                                        \n\t\n\nHelon Habila                                    \n                                    Crude Reality\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/crude-reality-how-beautiful-we-were-imbolo-mbue/"
+    },
+    {
+      "text": "\n                                    \n                                        \n\t\n\nSigrid Nunez                                    \n                                    The Lady Vanishes\n                                        July 21, 2022 issue\n\n                                ",
+      "url": "https://www.nybooks.com/articles/2022/07/21/the-lady-vanishes-portrait-of-an-unknown-lady-gainza/"
+    },
+    {
       "text": "\n                                    \n                                        \n\t\n\nAaron Matz                                    \n                                    Flaubert\u2019s Planet\n                                        July 21, 2022 issue\n\n                                ",
       "url": "https://www.nybooks.com/articles/2022/07/21/nutmegs-curse-amitav-ghosh-climate-crisis/"
-    },
-    {
-      "text": "\n                                    \n                                        \n\t\n\nBen Lerner                                    \n                                    Meridian Response\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/meridian-response-ben-lerner/"
-    },
-    {
-      "text": "\n                                    \n                                        \n\t\n\nShane McCrae                                    \n                                    The White People in My Blood\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/the-white-people-in-my-blood-shane-mccrae/"
-    },
-    {
-      "text": "\n                                    \n                                        \n\t\n\nJennifer Grotz                                    \n                                    Marseille\n                                        July 21, 2022 issue\n\n                                ",
-      "url": "https://www.nybooks.com/articles/2022/07/21/marseille-jennifer-grotz/"
     },
     {
       "text": "More Literature",
@@ -2335,10 +2385,10 @@
       "url": "http://athleticsnyc.com/"
     }
   ],
-  "server": "ia902501.us.archive.org",
-  "uniq": 618998174,
+  "server": "ia802501.us.archive.org",
+  "uniq": 839748497,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

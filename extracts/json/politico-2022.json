@@ -1,5 +1,5 @@
 {
-  "created": 1658471408,
+  "created": 1658520923,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/14/items/politico-2022",
@@ -2462,31 +2462,73 @@
       "sha1": "7c04b83ec54c62a54ef851e42f6219b90e61b7d4"
     },
     {
+      "name": "politico-2022-07-22T11:02:27.183528-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658502155",
+      "size": "62802",
+      "md5": "9e0c147a23626b2eb24a7290a11a37e2",
+      "crc32": "68065cee",
+      "sha1": "c747ef1d67a0345fbecc63661f93ce135a96cb3b",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-07-22T11:02:27.183528-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658502157",
+      "size": "46874",
+      "md5": "30b3aff5860a0b3e99a9a003d2877216",
+      "crc32": "4175be4e",
+      "sha1": "13aeca7abfeb370e8045ca3281ef90a6912038c6",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-07-22T11:02:27.183528-04:00.jpg",
+      "source": "original",
+      "mtime": "1658502153",
+      "size": "286013",
+      "md5": "4bfa3f5311d575d8a46a9196475f293e",
+      "crc32": "4cb32dd5",
+      "sha1": "21cf9c8baf2007d077bb31358beb91f2209215a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politico-2022-07-22T11:02:27.183528-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politico-2022-07-22T11:02:27.183528-04:00.jpg",
+      "mtime": "1658520859",
+      "size": "9239",
+      "md5": "2a06015baa9a9a2e3b288836fd6f57b5",
+      "crc32": "0b8770d3",
+      "sha1": "d85ba1463c98df858617c682d6d82cb2d4dca513"
+    },
+    {
       "name": "politico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba5f50a7ab1125cfca991288afe98743084219cf",
-      "mtime": "1658471241",
-      "size": "50803",
-      "md5": "4de74ca29cb258a38c4f0169ce1cc451",
-      "crc32": "097d12f5",
-      "sha1": "3d0b416b6d071af22f9a6a31fdc5cbf636d7b7fe",
+      "btih": "58d06a35bb303d75eb018f26d041f989b562a5eb",
+      "mtime": "1658520887",
+      "size": "51632",
+      "md5": "62868693e64c4e86a6b71a0f2152180c",
+      "crc32": "57b785b7",
+      "sha1": "857ca77acd2b47e93c57859fe344836d3a467f82",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c3154996d265c7017e7a4954a2df6d2a",
+      "md5": "4ce6b198d6acb3371945fa067b24c13c",
       "summation": "md5"
     },
     {
       "name": "politico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658461271",
-      "size": "290816",
-      "md5": "8f92681345de57831d98975c2edfcca0",
-      "crc32": "ee38f24a",
-      "sha1": "deae346a323a551471f737c0cd001c654aef5a40",
+      "mtime": "1658502161",
+      "size": "294912",
+      "md5": "c64853a88c15533ddddd34041352cb55",
+      "crc32": "8b2dd833",
+      "sha1": "379e5fffe458b0826c10102660a924c9a043ffbd",
       "format": "Metadata"
     },
     {
@@ -2500,9 +2542,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 238,
-  "item_last_updated": 1658471241,
-  "item_size": 23136740,
+  "files_count": 242,
+  "item_last_updated": 1658520887,
+  "item_size": 23546593,
   "metadata": {
     "identifier": "politico-2022",
     "collection": [
@@ -2519,10 +2561,10 @@
     "publicdate": "2022-06-27 18:09:13",
     "addeddate": "2022-06-27 18:09:13"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 1916261371,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1452508910,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

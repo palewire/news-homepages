@@ -1,5 +1,5 @@
 {
-  "created": 1658477284,
+  "created": 1658518305,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/21/items/le_parisien-2022",
@@ -8363,31 +8363,84 @@
       "rotation": "0"
     },
     {
+      "name": "le_parisien-2022-07-22T10:07:02.715032+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-07-22T10:07:02.715032+02:00.jpg",
+      "mtime": "1658499059",
+      "size": "10037",
+      "md5": "597baf9b4e12c0b2f5a8cbc1c3b80bf9",
+      "crc32": "f104995f",
+      "sha1": "d65417cdcfb93cfa6742f4de1711c386c2529ec5"
+    },
+    {
+      "name": "le_parisien-2022-07-22T16:07:47.162737+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658498871",
+      "size": "80271",
+      "md5": "bb3f4ecf61c44d9ba43ad90b339cf724",
+      "crc32": "e54d9cdf",
+      "sha1": "fc8c35d5e661f994c31b1a06511e279f7506fc17",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-07-22T16:07:47.162737+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658498873",
+      "size": "97049",
+      "md5": "cd88fcfab546dda34379e9173c64a4db",
+      "crc32": "55eed8a3",
+      "sha1": "bb9b2653a3edeac486776a13a596afca4cadc0cb",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-07-22T16:07:47.162737+02:00.jpg",
+      "source": "original",
+      "mtime": "1658498869",
+      "size": "320022",
+      "md5": "d3e2412ed2d94b290423dc404bdbe184",
+      "crc32": "331bff84",
+      "sha1": "48c2db28d62b18e7c8ae4e45a16e5284ead169f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-07-22T16:07:47.162737+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-07-22T16:07:47.162737+02:00.jpg",
+      "mtime": "1658518265",
+      "size": "9789",
+      "md5": "b5d34eda0451f2066a51d3cdc4bc820b",
+      "crc32": "55470fc1",
+      "sha1": "f1af59b2d37a9d13cd7093ff5930d0c6acd8b75b"
+    },
+    {
       "name": "le_parisien-2022_archive.torrent",
       "source": "metadata",
-      "btih": "76a364783df059dd6dae3dc2b03415d9ebe5614d",
-      "mtime": "1658477281",
-      "size": "172634",
-      "md5": "b035d1da3059055541b015bc8ba00a7d",
-      "crc32": "26f7a7ff",
-      "sha1": "6105bcdc5822d85f29bd2fb33c5a321e116e68c8",
+      "btih": "c9f86ce653a5dfacbd84eb025ac83ea5e2fa96a8",
+      "mtime": "1658518276",
+      "size": "173703",
+      "md5": "83f8fd45dd4b8e80a2c268c9df9e7cf2",
+      "crc32": "403495ad",
+      "sha1": "9b2f30713c9f5feb28d2c0543120465b4bf74f9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_parisien-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2c35d11dfe2d620c82951e1e860c17b2",
+      "md5": "f42b5bb710fe2fc209176d1427bb3459",
       "summation": "md5"
     },
     {
       "name": "le_parisien-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658477239",
-      "size": "929792",
-      "md5": "7d2be6ddb37e8b232f4202fb764dee06",
-      "crc32": "13b6635d",
-      "sha1": "3eb338fbddb033be0df12c175f758eb4ffe6c41b",
+      "mtime": "1658499115",
+      "size": "933888",
+      "md5": "9c09551d4b070fda84c32cb03e43d344",
+      "crc32": "9091444f",
+      "sha1": "0b94be827946f955e6807fc9378b922faf6ca4ba",
       "format": "Metadata"
     },
     {
@@ -8401,9 +8454,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 800,
-  "item_last_updated": 1658477281,
-  "item_size": 96392965,
+  "files_count": 805,
+  "item_last_updated": 1658518276,
+  "item_size": 96915298,
   "metadata": {
     "identifier": "le_parisien-2022",
     "collection": [
@@ -8420,21 +8473,10 @@
     "publicdate": "2022-04-09 13:42:51",
     "addeddate": "2022-04-09 13:42:51"
   },
-  "pending_tasks": true,
-  "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3340088075,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1508648714,
+  "server": "ia802501.us.archive.org",
+  "uniq": 1233079818,
   "workable_servers": [
+    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }

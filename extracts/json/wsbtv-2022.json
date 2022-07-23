@@ -1,5 +1,5 @@
 {
-  "created": 1658477410,
+  "created": 1658538567,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/27/items/wsbtv-2022",
@@ -174,31 +174,73 @@
       "sha1": "61c386340e72a77b7113b2f9ad3b02f3505bd59c"
     },
     {
+      "name": "wsbtv-2022-07-22T12:23:05.086623-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658506988",
+      "size": "20699",
+      "md5": "61e0c51c64ecb6e93fb1ea595ca1734d",
+      "crc32": "fb14e421",
+      "sha1": "605c3fcb0e9efe63f7a95a17932f7247c4574e34",
+      "format": "JSON"
+    },
+    {
+      "name": "wsbtv-2022-07-22T12:23:05.086623-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658506990",
+      "size": "20100",
+      "md5": "e52393e9c583f1fc7d6e651133a4e75d",
+      "crc32": "b18c47e7",
+      "sha1": "a47945d9a0f0b7237fa63dbee41c4ebfae7f9110",
+      "format": "JSON"
+    },
+    {
+      "name": "wsbtv-2022-07-22T12:23:05.086623-04:00.jpg",
+      "source": "original",
+      "mtime": "1658506986",
+      "size": "268522",
+      "md5": "9a432efe6514834bca6a0535d5532ed1",
+      "crc32": "100373e5",
+      "sha1": "8c553411b5767cd340f29c8983f12d95ba4f83a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsbtv-2022-07-22T12:23:05.086623-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsbtv-2022-07-22T12:23:05.086623-04:00.jpg",
+      "mtime": "1658525008",
+      "size": "10910",
+      "md5": "79fceff412523df2db1257e5418d778d",
+      "crc32": "65e33dd5",
+      "sha1": "0affd1ffa4975d15299515f288f2b1336371cadc"
+    },
+    {
       "name": "wsbtv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f442489523492ded6e0712b3d7fcbeb5da850b06",
-      "mtime": "1658477322",
-      "size": "4703",
-      "md5": "66f940749c744610ef485c465a4bb2ef",
-      "crc32": "caaf4d1a",
-      "sha1": "cb5eb1e2c5ae5a0a2e2745e0e778fa18d60ae61f",
+      "btih": "5d3e2beab75f2f82ba0b14ec3e37d3c0aa9d480e",
+      "mtime": "1658525063",
+      "size": "5541",
+      "md5": "6c4652a6d9571bc9a3336ad40f56cd93",
+      "crc32": "d3f6ad5c",
+      "sha1": "d385505b6f83c3539f96a48ad6094037d51bc232",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsbtv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "51fe424e984a8611230771a36b4ce7d0",
+      "md5": "689da9d74581f3d464a3f520d6e3a599",
       "summation": "md5"
     },
     {
       "name": "wsbtv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658464601",
-      "size": "36864",
-      "md5": "a29171d1ba6d73dfe9cb386ccabe7196",
-      "crc32": "772781dd",
-      "sha1": "16f84216034b99cef8ae26c8e8a217e112106c45",
+      "mtime": "1658506993",
+      "size": "40960",
+      "md5": "3a6790dded98c47bd8ee3296520def6c",
+      "crc32": "11408254",
+      "sha1": "3334720badd4d5e485f48b1489dbb8228fbb3115",
       "format": "Metadata"
     },
     {
@@ -212,9 +254,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1658477322,
-  "item_size": 1386206,
+  "files_count": 24,
+  "item_last_updated": 1658525063,
+  "item_size": 1711371,
   "metadata": {
     "identifier": "wsbtv-2022",
     "collection": [
@@ -231,10 +273,568 @@
     "publicdate": "2022-07-20 23:32:36",
     "addeddate": "2022-07-20 23:32:36"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1372376442,
+  "server": "ia601508.us.archive.org",
+  "uniq": 263977807,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
+  ],
+  "wsbtv-2022": [
+    {
+      "text": "",
+      "url": "/"
+    },
+    {
+      "text": "WATCH",
+      "url": "/video/"
+    },
+    {
+      "text": "81\u00b0",
+      "url": "/weather/"
+    },
+    {
+      "text": "WATCH",
+      "url": "/video/"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather/"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "Video",
+      "url": "/video/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic/"
+    },
+    {
+      "text": "Back 2 School",
+      "url": "/back-to-school/"
+    },
+    {
+      "text": "Coronavirus(Opens in new window)",
+      "url": "https://www.wsbtv.com/coronavirus-vaccine/"
+    },
+    {
+      "text": "Home Experts",
+      "url": "/HomeExperts/"
+    },
+    {
+      "text": "Community",
+      "url": "/community/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/station/"
+    },
+    {
+      "text": "Upload Photos",
+      "url": "/share-with-us/"
+    },
+    {
+      "text": "Steals and Deals",
+      "url": "/sponsored/local-steals-and-deals/"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather/"
+    },
+    {
+      "text": "Current Conditions",
+      "url": "/weather/"
+    },
+    {
+      "text": "Stormtracker 2HD Radar",
+      "url": "/weather/interactive-radar/"
+    },
+    {
+      "text": "5 Day Forecast",
+      "url": "/weather/5day/"
+    },
+    {
+      "text": "Hour by Hour",
+      "url": "/weather/hour-by-hour/"
+    },
+    {
+      "text": "Fish and Game",
+      "url": "/weather/fish-game/"
+    },
+    {
+      "text": "Pollen Count",
+      "url": "/weather/pollen-count/"
+    },
+    {
+      "text": "School Closings",
+      "url": "/weather/school-closings/"
+    },
+    {
+      "text": "Free Weather App(Opens in new window)",
+      "url": "https://wsbtvweatherapp.com/"
+    },
+    {
+      "text": "Video",
+      "url": "/video/"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/video/"
+    },
+    {
+      "text": "WSB Now",
+      "url": "/video/"
+    },
+    {
+      "text": "24/7 Severe Weather Team 2",
+      "url": "/live-weather/"
+    },
+    {
+      "text": "WSB 24/7 News",
+      "url": "/live-breaking/"
+    },
+    {
+      "text": "COVID-19 Vaccine",
+      "url": "/coronavirus-vaccine/"
+    },
+    {
+      "text": "News",
+      "url": "/news/"
+    },
+    {
+      "text": "EEO statement(Opens in new window)",
+      "url": "https://www.wsbtv.com/fp/wsb-tv-eeo-statement/"
+    },
+    {
+      "text": "Local News",
+      "url": "/news/"
+    },
+    {
+      "text": "Channel 2 Investigates",
+      "url": "/news/2-investigates/"
+    },
+    {
+      "text": "Coronavirus(Opens in new window)",
+      "url": "https://www.wsbtv.com/coronavirus-vaccine/"
+    },
+    {
+      "text": "Politics",
+      "url": "/news/politics/"
+    },
+    {
+      "text": "Consumer",
+      "url": "/news/consumer/"
+    },
+    {
+      "text": "Download News App",
+      "url": "/mobile-apps/"
+    },
+    {
+      "text": "Newsletter Sign-up(Opens in new window)",
+      "url": "https://membercenter.wsbtv.com/newsletters/"
+    },
+    {
+      "text": "Steals and Deals(Opens in new window)",
+      "url": "https://losad.shop/Channel2Banner/"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic/"
+    },
+    {
+      "text": "Back 2 School",
+      "url": "/back-to-school/"
+    },
+    {
+      "text": "Sports",
+      "url": "/sports/"
+    },
+    {
+      "text": "High School Football",
+      "url": "/sports/high-school-football/"
+    },
+    {
+      "text": "Athlete of the Week",
+      "url": "/sports/high-school-football/athlete-of-the-week/"
+    },
+    {
+      "text": "Scholar Athlete",
+      "url": "/sports/high-school-football/scholar-athlete/"
+    },
+    {
+      "text": "Lottery Results",
+      "url": "/lottery/"
+    },
+    {
+      "text": "Things 2 Do",
+      "url": "/entertainment/things-2-do/"
+    },
+    {
+      "text": "Trending",
+      "url": "/news/trending/"
+    },
+    {
+      "text": "Your pets(Opens in new window)",
+      "url": "https://www.wsbtv.com/pets/"
+    },
+    {
+      "text": "Contests",
+      "url": "/contests/"
+    },
+    {
+      "text": "Community",
+      "url": "/community/"
+    },
+    {
+      "text": "Black History Month(Opens in new window)",
+      "url": "https://www.wsbtv.com/news/black-history-month/"
+    },
+    {
+      "text": "Family 2 Family",
+      "url": "/community/"
+    },
+    {
+      "text": "Local Programs",
+      "url": "/station/programming/"
+    },
+    {
+      "text": "High Q",
+      "url": "/community/high-q/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/station/"
+    },
+    {
+      "text": "Action News Staff",
+      "url": "/station/"
+    },
+    {
+      "text": "What's On WSB-TV",
+      "url": "/station/listings/"
+    },
+    {
+      "text": "Advertise With Us",
+      "url": "/solutions/"
+    },
+    {
+      "text": "Speakers Bureau",
+      "url": "/station/wsb-tv-speakers-bureau/SYIMQDL5INDFVIXKH6MKPZCETE/"
+    },
+    {
+      "text": "Home Experts",
+      "url": "/HomeExperts/"
+    },
+    {
+      "text": "Upload Photos",
+      "url": "/share-with-us/"
+    },
+    {
+      "text": "Celebrity",
+      "url": "/news/celebrity/"
+    },
+    {
+      "text": "Breaking News|Man shot, killed by SWAT team after police say he threatened officers, roommate",
+      "url": "/news/local/suspect-shot-killed-by-officer-responding-domestic-call-gwinnett-county/G7FZDIXTDZEVNCJZAJJCTPN4PQ/"
+    },
+    {
+      "text": "Teen suspect leaps 6 stories from Buckhead parking deck to try and escape arrest, police say",
+      "url": "/news/local/atlanta/suspect-leaps-6-stories-buckhead-parking-deck-failed-attempt-escape-officers-police-say/JAAZTF437FDUPDUODVYYUZC4ZE/"
+    },
+    {
+      "text": "Video",
+      "url": "/news/local/atlanta/suspect-leaps-6-stories-buckhead-parking-deck-failed-attempt-escape-officers-police-say/JAAZTF437FDUPDUODVYYUZC4ZE/"
+    },
+    {
+      "text": "",
+      "url": "/news/local/suspect-shot-killed-by-officer-responding-domestic-call-gwinnett-county/G7FZDIXTDZEVNCJZAJJCTPN4PQ/"
+    },
+    {
+      "text": "Man shot, killed by SWAT team after police say he threatened officers, roommate",
+      "url": "/news/local/suspect-shot-killed-by-officer-responding-domestic-call-gwinnett-county/G7FZDIXTDZEVNCJZAJJCTPN4PQ/"
+    },
+    {
+      "text": "",
+      "url": "/news/local/atlanta/mega-millions-jackpot-now-whopping-660-million/IU7755RC5ZEJFEP5I2BQ75HA34/"
+    },
+    {
+      "text": "Mega Millions jackpot now a whopping $660 million -- 3rd largest in game\u2019s history",
+      "url": "/news/local/atlanta/mega-millions-jackpot-now-whopping-660-million/IU7755RC5ZEJFEP5I2BQ75HA34/"
+    },
+    {
+      "text": "",
+      "url": "/news/local/georgia-woman-dies-after-falling-out-patrol-car-after-being-arrested/335TXMGVUFCGDBIDGIZWRSBQFM/"
+    },
+    {
+      "text": "Georgia woman dies after falling out of patrol car while in custody",
+      "url": "/news/local/georgia-woman-dies-after-falling-out-patrol-car-after-being-arrested/335TXMGVUFCGDBIDGIZWRSBQFM/"
+    },
+    {
+      "text": "",
+      "url": "/news/georgia/georgia-test-scores-rise-stay-below-pre-pandemic-levels/X53L7A4ASNAGHC5QJKQRPYLTH4/"
+    },
+    {
+      "text": "Georgia test scores rise, but stay below pre-pandemic levels",
+      "url": "/news/georgia/georgia-test-scores-rise-stay-below-pre-pandemic-levels/X53L7A4ASNAGHC5QJKQRPYLTH4/"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsbtv.com/jovita/"
+    },
+    {
+      "text": "\n",
+      "url": "https://www.wsbtv.com/back-to-school/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/BMonahanWSB"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/BMonahanWSB/"
+    },
+    {
+      "text": "NOW81\u00b03 PM87\u00b06 PM85\u00b0",
+      "url": "/weather/"
+    },
+    {
+      "text": "",
+      "url": "/mobile-apps/"
+    },
+    {
+      "text": "",
+      "url": "/weather/less-stormy-day-ahead-much-metro-atlanta/b19ca9ea-2ec3-4a75-b62b-35db2c57a9f6/"
+    },
+    {
+      "text": "Less stormy day ahead for much of metro Atlanta",
+      "url": "/weather/less-stormy-day-ahead-much-metro-atlanta/b19ca9ea-2ec3-4a75-b62b-35db2c57a9f6/"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsbtv.com/community/"
+    },
+    {
+      "text": "",
+      "url": "/2019/11/11/links-mentioned-on-channel-2/"
+    },
+    {
+      "text": "Links Mentioned on Channel 2",
+      "url": "/2019/11/11/links-mentioned-on-channel-2/"
+    },
+    {
+      "text": "",
+      "url": "https://www.wsbtv.com/wsbtvgetsreal/"
+    },
+    {
+      "text": "",
+      "url": "/news/submit-tip-channel-2-action-news/RDIRK7QBSNGKDHCAQ2PSD2SKPU/"
+    },
+    {
+      "text": "Submit a Tip to Channel 2 Action News",
+      "url": "/news/submit-tip-channel-2-action-news/RDIRK7QBSNGKDHCAQ2PSD2SKPU/"
+    },
+    {
+      "text": "by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=cox-wsb-tv&utm_medium=referral&utm_content=alternating-thumbnails-a:Mid Main Column Thumbnails:"
+    },
+    {
+      "text": "by Taboola",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=cox-wsb-tv&utm_medium=referral&utm_content=alternating-thumbnails-a:Mid Main Column Thumbnails:"
+    },
+    {
+      "text": "Sponsored Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=cox-wsb-tv&utm_medium=referral&utm_content=alternating-thumbnails-a:Mid Main Column Thumbnails:"
+    },
+    {
+      "text": "Sponsored Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=cox-wsb-tv&utm_medium=referral&utm_content=alternating-thumbnails-a:Mid Main Column Thumbnails:"
+    },
+    {
+      "text": "Promoted Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=cox-wsb-tv&utm_medium=referral&utm_content=alternating-thumbnails-a:Mid Main Column Thumbnails:"
+    },
+    {
+      "text": "Promoted Links",
+      "url": "https://popup.taboola.com/en/?template=colorbox&utm_source=cox-wsb-tv&utm_medium=referral&utm_content=alternating-thumbnails-a:Mid Main Column Thumbnails:"
+    },
+    {
+      "text": "Vibriance",
+      "url": "https://tracking.uytur.com/520ac426-3e47-41b0-9c13-e3fa48ff7077?a=0&n=T&c=2a9d7b27-2d6e-4caf-9ae5-935a000e3485&i=2a9d7b27-2d6e-4caf-9ae5-935a000e3485&sn=cox-wsb-tv&si=cox-wsb-tv&p=Desktop&campid=19686239&adid=3439652722&title=%22Botox+Alternative%22+Sold+Out+At+Target+%28in+2+Days%29&tn=https%3A%2F%2Fdx6isbzrbkxjw.cloudfront.net%2Fuuid62be44fc5c8b70.08865901.jpeg&ncid=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSC__FcotYa3pf22xb-DAQ&campid=19686239#tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSC__FcotYa3pf22xb-DAQ"
+    },
+    {
+      "text": "\"Botox Alternative\" Sold Out At Target (in 2 Days)Vibriance",
+      "url": "https://tracking.uytur.com/520ac426-3e47-41b0-9c13-e3fa48ff7077?a=0&n=T&c=2a9d7b27-2d6e-4caf-9ae5-935a000e3485&i=2a9d7b27-2d6e-4caf-9ae5-935a000e3485&sn=cox-wsb-tv&si=cox-wsb-tv&p=Desktop&campid=19686239&adid=3439652722&title=%22Botox+Alternative%22+Sold+Out+At+Target+%28in+2+Days%29&tn=https%3A%2F%2Fdx6isbzrbkxjw.cloudfront.net%2Fuuid62be44fc5c8b70.08865901.jpeg&ncid=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSC__FcotYa3pf22xb-DAQ&campid=19686239#tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSC__FcotYa3pf22xb-DAQ"
+    },
+    {
+      "text": "Alaska Cruise Deals | sponsored searches",
+      "url": "https://gosearches.net/index.php?rgid=134812&gclid=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCjoVIo6t6S9eWBuMjjAQ#tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCjoVIo6t6S9eWBuMjjAQ"
+    },
+    {
+      "text": "Empty Alaska Cruise Cabins Cost Almost NothingAlaska Cruise Deals | sponsored searches",
+      "url": "https://gosearches.net/index.php?rgid=134812&gclid=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCjoVIo6t6S9eWBuMjjAQ#tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCjoVIo6t6S9eWBuMjjAQ"
+    },
+    {
+      "text": "All Things Auto | Search Ads",
+      "url": "https://searchtopics.net/index.php?rgid=206847&gclid=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCIrVQoo97er6zv5aynAQ"
+    },
+    {
+      "text": "Acura Has Done It Again. This Year's Lineup Has Left Us SpeechlessAll Things Auto | Search Ads",
+      "url": "https://searchtopics.net/index.php?rgid=206847&gclid=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCIrVQoo97er6zv5aynAQ"
+    },
+    {
+      "text": "Search Now",
+      "url": "https://trc.taboola.com/cox-wsb-tv/log/3/click?pi=%2F&ri=b3d8527beb8a16955eb1597410644b3b&sd=v2_8d7760701b2a8b2b396fea32a677efa2_953349ef-556a-46bf-ae65-c43aafec4f77-tuct9d44cf0_1658505072_1658505072_CIi3jgYQ2pA-GJGg7LSiMCABKAEw4QE4kaQOQJiuDkjAy9kDUPEFWABgAGie4fPVv5r3zrsBcAE&ui=953349ef-556a-46bf-ae65-c43aafec4f77-tuct9d44cf0&it=text&ii=~~V1~~-2610056911595963239~~Pk0BTZTk_WMvc1RvN7Rrbd3YcMXfc-9lXPqU3hnt2OvTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RL0HJW-8eoohy5l0qT4sXbgBUjmIXhy8tzvkZwHn_VKcq9aveWTzM-nzmyajBWtTtdsAGZRdfQ0XD5m0WXnPv-LRdbgwlJdnqyroTPEQNNEnyrGgfXraZfkqzxVI8YJiN0&pt=home&li=rbox-h2m&sig=0673d00632c3222e5361cfc3a4875c4aea35142ab7d3&redir=https%3A%2F%2Fsearchtopics.net%2Findex.php%3Frgid%3D206847%26gclid%3DGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCIrVQoo97er6zv5aynAQ&vi=1658505072657&p=nimble5-searchtopicstbjpowers502-sc&r=94&lti=deflated&ppb=CJAH&cpb=EhIyMDIyMDcyMS00LVJFTEVBU0UY2gkgACoZbGEudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMjAxNzY4gIqYoQFAkaQOSJiuDlDAy9kDWPEFYwjQ__________8BEND__________wEYMGRjCP4WEIogGBNkYwjXFhDVHxgjZGMIvBcQ6iAYJGRjCNIDEOAGGAhkYwiWFBCgHBgYZGMIyxgQpCIYCWRjCIstEJ0-GCpkYwjrJBDRMxgdZGMIpCcQgzUYL2RjCOH__________wEQ4f__________ARgfZHgBgAG1iAGIAfyNrscBkAEX&cta=true"
+    },
+    {
+      "text": "Luxury SUV Savings | Search Ads",
+      "url": "https://popularsearches.net/index.php?rgid=180787&gclid=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YoltH3-ujSpYyPAQ#tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YoltH3-ujSpYyPAQ"
+    },
+    {
+      "text": "The Incredible New BMW Lineup Has ArrivedLuxury SUV Savings | Search Ads",
+      "url": "https://popularsearches.net/index.php?rgid=180787&gclid=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YoltH3-ujSpYyPAQ#tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YoltH3-ujSpYyPAQ"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://trc.taboola.com/cox-wsb-tv/log/3/click?pi=%2F&ri=b3d8527beb8a16955eb1597410644b3b&sd=v2_8d7760701b2a8b2b396fea32a677efa2_953349ef-556a-46bf-ae65-c43aafec4f77-tuct9d44cf0_1658505072_1658505072_CIi3jgYQ2pA-GJGg7LSiMCABKAEw4QE4kaQOQJiuDkjAy9kDUPEFWABgAGie4fPVv5r3zrsBcAE&ui=953349ef-556a-46bf-ae65-c43aafec4f77-tuct9d44cf0&it=text&ii=~~V1~~-1040142031723536849~~JJghJDBJ6krBbuNiMc77rk6vpE5xJREOu9MigoQtPDvTxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQavImGhxk0e7psNAZxHJ9RLLJWFXJ-VokEfnnU0ENA2lBUjmIXhy8tzvkZwHn_VKcoNC9mhgM9DtMZO8VRgW61vvlbKZzRI5X2cJKoPKbNRvRdbgwlJdnqyroTPEQNNEnyrGgfXraZfkqzxVI8YJiN0&pt=home&li=rbox-h2m&sig=40a015ceb06719a5460a37a0ecd8168c78ea6aada09f&redir=https%3A%2F%2Fpopularsearches.net%2Findex.php%3Frgid%3D180787%26gclid%3DGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YoltH3-ujSpYyPAQ%23tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YoltH3-ujSpYyPAQ&vi=1658505072657&p=nimble5-popularsearchestbasims560-sc&r=67&lti=deflated&ppb=CJAH&cpb=EhIyMDIyMDcyMS00LVJFTEVBU0UY2gkgACoZbGEudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMjAxNzY4gIqYoQFAkaQOSJiuDlDAy9kDWPEFYwjQ__________8BEND__________wEYMGRjCP4WEIogGBNkYwjXFhDVHxgjZGMIvBcQ6iAYJGRjCNIDEOAGGAhkYwiWFBCgHBgYZGMIyxgQpCIYCWRjCIstEJ0-GCpkYwjrJBDRMxgdZGMIpCcQgzUYL2RjCOH__________wEQ4f__________ARgfZHgBgAG1iAGIAfyNrscBkAEX&cta=true"
+    },
+    {
+      "text": "TruthFinder",
+      "url": "https://tracking.truthfinder.com/?a=102&oc=27&c=396&s1=CM-SpeechlessMosaicTestControl&s2=AG-DesktopTablet&s3=CRE-LocateAnyoneAddicting+TamaraUnplash&s4=LP-396&s5=1017946&subtheme=&utm_source=taboola&utm_medium=referral&tblci=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCOnj8ohq30tcbOvKyFAQ#tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCOnj8ohq30tcbOvKyFAQ"
+    },
+    {
+      "text": "Locate Almost Anyone By Entering Their Name (This Is Addicting!)TruthFinder",
+      "url": "https://tracking.truthfinder.com/?a=102&oc=27&c=396&s1=CM-SpeechlessMosaicTestControl&s2=AG-DesktopTablet&s3=CRE-LocateAnyoneAddicting+TamaraUnplash&s4=LP-396&s5=1017946&subtheme=&utm_source=taboola&utm_medium=referral&tblci=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCOnj8ohq30tcbOvKyFAQ#tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCOnj8ohq30tcbOvKyFAQ"
+    },
+    {
+      "text": "Auto Savings Center | Search Ads",
+      "url": "https://popularsearches.net/index.php?rgid=178997&gclid=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YopPzjquvg6p4I#tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YopPzjquvg6p4I"
+    },
+    {
+      "text": "Volvo Has Done It Again. This Year's Lineup Left Us Speechless - See It Now.Auto Savings Center | Search Ads",
+      "url": "https://popularsearches.net/index.php?rgid=178997&gclid=GiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YopPzjquvg6p4I#tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YopPzjquvg6p4I"
+    },
+    {
+      "text": "Learn More",
+      "url": "https://trc.taboola.com/cox-wsb-tv/log/3/click?pi=%2F&ri=b3d8527beb8a16955eb1597410644b3b&sd=v2_8d7760701b2a8b2b396fea32a677efa2_953349ef-556a-46bf-ae65-c43aafec4f77-tuct9d44cf0_1658505072_1658505072_CIi3jgYQ2pA-GJGg7LSiMCABKAEw4QE4kaQOQJiuDkjAy9kDUPEFWABgAGie4fPVv5r3zrsBcAE&ui=953349ef-556a-46bf-ae65-c43aafec4f77-tuct9d44cf0&it=text&ii=~~V1~~2185202415992007465~~N3w7LCVGuy4SvB-7f_qYzH0neSdBH9EZMFqsrDVL9UUndpXq_nTToVci-tV_1bYyPVPbFHdycXfyr1VxmozLcV7JbGFbjtizQN29Zpin8p1JlawpbYFtoRw_FVSAoDPy8yoVX_ZV1DUzrU9mgEqIxVpt34vkyVLCqQj-j_6Ik-WFwt9_72reDSrMsTKuuUo5hyXF24OjjFNPNPUkxZiwjoBje1e0lZXW3Wv_BXOLjlbuZ3kZDb68osLUwsvBe2zGjy1sQkL2RevOX7nLCN-4GOEuv8fzUrcxpeFuWv9RRnbtWQ4PJW7nz3LbTbvf3t7XaG3a0sZtOEFtNEWpkRccow&pt=home&li=rbox-h2m&sig=dc21c7e92e7c735e0c3d4138598c8f8ae16b9af21ce4&redir=https%3A%2F%2Fpopularsearches.net%2Findex.php%3Frgid%3D178997%26gclid%3DGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YopPzjquvg6p4I%23tblciGiCDzjgGD_wetmsh2zoBzNUbtoKvrK_Fef3IjzdKcwSBNSCM41YopPzjquvg6p4I&vi=1658505072657&p=nimble5-popularsearchestbasims560-sc&r=38&lti=deflated&ppb=CJAH&cpb=EhIyMDIyMDcyMS00LVJFTEVBU0UY2gkgACoZbGEudGFib29sYXN5bmRpY2F0aW9uLmNvbTIIdHJjMjAxNzY4gIqYoQFAkaQOSJiuDlDAy9kDWPEFYwjQ__________8BEND__________wEYMGRjCP4WEIogGBNkYwjXFhDVHxgjZGMIvBcQ6iAYJGRjCNIDEOAGGAhkYwiWFBCgHBgYZGMIyxgQpCIYCWRjCIstEJ0-GCpkYwjrJBDRMxgdZGMIpCcQgzUYL2RjCOH__________wEQ4f__________ARgfZHgBgAG1iAGIAfyNrscBkAEX&cta=true"
+    },
+    {
+      "text": "News",
+      "url": "/news"
+    },
+    {
+      "text": "Local",
+      "url": "/news/local"
+    },
+    {
+      "text": "Watch Live",
+      "url": "/video/live-stream/"
+    },
+    {
+      "text": "Video",
+      "url": "/video"
+    },
+    {
+      "text": "Nation/World",
+      "url": "/news/"
+    },
+    {
+      "text": "Traffic",
+      "url": "/traffic"
+    },
+    {
+      "text": "Weather",
+      "url": "/weather"
+    },
+    {
+      "text": "Current Conditions",
+      "url": "/weather/"
+    },
+    {
+      "text": "Stormtracker 2HD Radar",
+      "url": "/weather/interactive-radar/"
+    },
+    {
+      "text": "5 Day Forecast",
+      "url": "/weather/5day/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "/station"
+    },
+    {
+      "text": "About WSBTV",
+      "url": "/station/"
+    },
+    {
+      "text": "What's On WSBTV",
+      "url": "/station/listings/"
+    },
+    {
+      "text": "EEO Statement",
+      "url": "https://www.wsbtv.com/fp/wsb-tv-eeo-statement/"
+    },
+    {
+      "text": "Advertise with WSBTV",
+      "url": "https://www.wsbtv.com/solutions/"
+    },
+    {
+      "text": "WSBTV Public File",
+      "url": "https://publicfiles.fcc.gov/tv-profile/wsb-tv"
+    },
+    {
+      "text": "FCC Applications",
+      "url": "https://www.wsbtv.com/fp/post-filing-announcement-transfer-control/"
+    },
+    {
+      "text": "WSB-TV Channel 2 - Atlanta facebook feed(Opens a new window)",
+      "url": "https://www.facebook.com/wsbtv/"
+    },
+    {
+      "text": "WSB-TV Channel 2 - Atlanta twitter feed(Opens a new window)",
+      "url": "https://twitter.com/wsbtv/"
+    },
+    {
+      "text": "WSB-TV Channel 2 - Atlanta instagram feed(Opens a new window)",
+      "url": "https://www.instagram.com/wsbtv/"
+    },
+    {
+      "text": "WSB-TV Channel 2 - Atlanta youtube feed(Opens a new window)",
+      "url": "https://www.youtube.com/user/Channel2ActionNews"
+    },
+    {
+      "text": "Cox Media Group",
+      "url": "https://www.cmg.com/"
+    },
+    {
+      "text": "careers",
+      "url": "https://cmg.jobs.net/"
+    },
+    {
+      "text": "Visitor Agreement",
+      "url": "/visitor-agreement/"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "/privacy-policy/"
+    },
+    {
+      "text": "Ad Choices",
+      "url": "/privacy-policy/#ad-choices"
+    },
+    {
+      "text": "Manage Cookie Preferences",
+      "url": "#manage-cookie-preferences"
+    },
+    {
+      "text": "Do Not Sell My Information",
+      "url": "/ccpa-privacy-form/"
+    }
   ]
 }

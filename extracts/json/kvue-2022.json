@@ -1,5 +1,5 @@
 {
-  "created": 1658492097,
+  "created": 1658538110,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/15/items/kvue-2022",
@@ -436,31 +436,73 @@
       "sha1": "68e4ece274643559655aa59a8466255546ab3fed"
     },
     {
+      "name": "kvue-2022-07-22T09:06:58.427247-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658498821",
+      "size": "7589",
+      "md5": "f798f88c5d88eec1637f372a0dc29336",
+      "crc32": "d1ee3f85",
+      "sha1": "9e44bb2a6a9a487e3a59eddb336e979fabfe0410",
+      "format": "JSON"
+    },
+    {
+      "name": "kvue-2022-07-22T09:06:58.427247-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658498825",
+      "size": "55576",
+      "md5": "3036a3087dbf088b588c0be63ef0592a",
+      "crc32": "4185a4c8",
+      "sha1": "6806aa8f8f3cd581d00d13a088526aee38c43353",
+      "format": "JSON"
+    },
+    {
+      "name": "kvue-2022-07-22T09:06:58.427247-05:00.jpg",
+      "source": "original",
+      "mtime": "1658498820",
+      "size": "219344",
+      "md5": "a56de049ab38a3d171ed9f4e80b10f04",
+      "crc32": "bd8678bc",
+      "sha1": "82e842cbdf9a0b115805dd1187bcfe0dbd81359c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvue-2022-07-22T09:06:58.427247-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvue-2022-07-22T09:06:58.427247-05:00.jpg",
+      "mtime": "1658518133",
+      "size": "9139",
+      "md5": "8f332917b110eb519eef9b0bba5c09ec",
+      "crc32": "80f172b4",
+      "sha1": "31ed8dc25085970ab31ee994e49b58cdb8486077"
+    },
+    {
       "name": "kvue-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3c946ae34004ae53a4b14ad5ac92fc45b2fd7972",
-      "mtime": "1658463930",
-      "size": "9829",
-      "md5": "ad2bd4fc9adfbbf0e797214f6bbcfe82",
-      "crc32": "1c7f6527",
-      "sha1": "5f8588abbce36c100685ba69bc31c214e028d7da",
+      "btih": "0f9ea8f12bfa7421a636828ae9e6cee3fc40ab95",
+      "mtime": "1658518143",
+      "size": "10641",
+      "md5": "757fa1f1ece6b2b3c2beb077ff71b094",
+      "crc32": "a55647cd",
+      "sha1": "8fc3fcd58cc2aaf93d08f47d108bde94a77ec25c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvue-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c5c72c9ad7df4a5438e2f1be297ef50b",
+      "md5": "9d4c3e2ec393de85a2fc6f203523d7da",
       "summation": "md5"
     },
     {
       "name": "kvue-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658456764",
-      "size": "61440",
-      "md5": "4b007934c4e9e7c43737657d7f9a7348",
-      "crc32": "f95391a6",
-      "sha1": "d70210997a406da8507429ce5d14900f0243d9a4",
+      "mtime": "1658498830",
+      "size": "65536",
+      "md5": "b41b5f4111793232da3d1e133cc1f02a",
+      "crc32": "1519eac9",
+      "sha1": "0014aefba76d65b15b30c4533cad30ee22686cc9",
       "format": "Metadata"
     },
     {
@@ -474,9 +516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 45,
-  "item_last_updated": 1658463930,
-  "item_size": 3242522,
+  "files_count": 49,
+  "item_last_updated": 1658518143,
+  "item_size": 3539078,
   "kvue-2022": [
     {
       "text": "Skip Navigation",
@@ -540,19 +582,19 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/samsung-taylor-adding-land/269-dc13691e-457e-41a2-ad78-7f08a82f6ba3"
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
     },
     {
-      "text": "Report: Samsung adding land to $17B semiconductor campus in Taylor, considering 11 new facilities",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/samsung-taylor-adding-land/269-dc13691e-457e-41a2-ad78-7f08a82f6ba3"
+      "text": "Check out these art exhibits opening in Austin",
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/local/policing-fastest-growing-city-us-one-on-one-georgetown-pd-chief-cory-tchida/269-8fa6d975-1075-40eb-9367-2972cbd87006"
+      "url": "https://www.kvue.com/article/news/local/emergency-water-notice-taylor-surrounding-areas/269-ad1f188b-ead3-4cb1-8984-3d8795bb33cf"
     },
     {
-      "text": "Policing the fastest growing city in the US: One-on-one with Georgetown PD Chief Cory Tchida",
-      "url": "https://www.kvue.com/article/news/local/policing-fastest-growing-city-us-one-on-one-georgetown-pd-chief-cory-tchida/269-8fa6d975-1075-40eb-9367-2972cbd87006"
+      "text": "Leak causes emergency water notice for Taylor, surrounding areas now fixed",
+      "url": "https://www.kvue.com/article/news/local/emergency-water-notice-taylor-surrounding-areas/269-ad1f188b-ead3-4cb1-8984-3d8795bb33cf"
     },
     {
       "text": "\n                                        Weather\n                            ",
@@ -639,7 +681,7 @@
       "url": "/search"
     },
     {
-      "text": "\n                    \n                        \n                            Right Now\n                            Austin, TX\u00a0\u00bb\n                        \n                        \n                            \n                                92\u00b0\n\n                                \n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                \n                            \n                            Austin, TX\u00a0\u00bb\n                        \n                    \n                ",
+      "text": "\n                    \n                        \n                            Right Now\n                            Austin, TX\u00a0\u00bb\n                        \n                        \n                            \n                                80\u00b0\n\n                                \n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                \n                            \n                            Austin, TX\u00a0\u00bb\n                        \n                    \n                ",
       "url": "/weather"
     },
     {
@@ -692,11 +734,11 @@
     },
     {
       "text": "\n                        !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                    ",
-      "url": "https://www.kvue.com/article/news/nation-world/jan-6-hearing-primetime-trump-inaction-capitol-riot/507-f3da0291-fd0c-4b30-8aef-7f84c5075ab6"
+      "url": "https://www.kvue.com/article/news/local/husband-uvalde-video-shows-robb-elementary-responders-restrain-policeman-married-to-victim/273-bdb69971-78f9-4eb4-9378-730bfe2a928f"
     },
     {
-      "text": "\n                Watch live: Jan. 6 panel probes Trump's 187 minutes as Capitol attacked\n                    This second prime-time hearing is aiming to show a \u201cminute by minute\u201d accounting of Trump\u2019s actions during the grisly Jan. 6, 2021 attack on the Capitol.\n            ",
-      "url": "https://www.kvue.com/article/news/nation-world/jan-6-hearing-primetime-trump-inaction-capitol-riot/507-f3da0291-fd0c-4b30-8aef-7f84c5075ab6"
+      "text": "\n                'She says she's shot': Body camera shows moment Robb Elementary responders restrained policeman married to victim\n                    Thousands of people have already watched the video on Reddit and Twitter.\n            ",
+      "url": "https://www.kvue.com/article/news/local/husband-uvalde-video-shows-robb-elementary-responders-restrain-policeman-married-to-victim/273-bdb69971-78f9-4eb4-9378-730bfe2a928f"
     },
     {
       "text": "Animals",
@@ -795,6 +837,10 @@
       "url": "https://www.kvue.com/article/news/weird/texas-state-professor-class-on-harry-styles/269-c2fd0eb1-b05d-4ae9-baf8-351204bee27a"
     },
     {
+      "text": "APD investigating homicide in downtown Austin",
+      "url": "https://www.kvue.com/article/news/local/apd-investigating-homicide-downtown-austin/269-82f79e9b-5a13-479b-bf81-04895c215125"
+    },
+    {
       "text": "'We are in a crisis right now.' APD Assistant Chief Jerry Bauzon speaks on patrol officer shortage",
       "url": "https://www.kvue.com/article/news/investigations/defenders/austin-police-patrol-officer-shortage/269-16f38194-2ffb-4f02-becc-3b4db6375f20"
     },
@@ -803,12 +849,8 @@
       "url": "https://www.kvue.com/article/news/local/policing-fastest-growing-city-us-one-on-one-georgetown-pd-chief-cory-tchida/269-8fa6d975-1075-40eb-9367-2972cbd87006"
     },
     {
-      "text": "Austin City Council approves resolutions protecting abortion rights",
-      "url": "https://www.kvue.com/article/news/politics/austin-mayor-and-council/austin-city-council-abortion-grace-act/269-a5950cd5-2c1c-4cc4-9798-1405bc5e57dd"
-    },
-    {
-      "text": "Emergency water notice issued for Taylor, surrounding areas",
-      "url": "https://www.kvue.com/article/news/local/emergency-water-notice-taylor-surrounding-areas/269-ad1f188b-ead3-4cb1-8984-3d8795bb33cf"
+      "text": "Texas Sen. John Cornyn creates resolution calling for Brittney Griner's release",
+      "url": "https://www.kvue.com/article/sports/texas-sen-john-cornyn-resolution-brittney-griners-release/269-100d0a7e-9637-433c-8b74-761071211675"
     },
     {
       "text": "Share your concerns: 2022 back-to-school survey",
@@ -820,75 +862,75 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/nation-world/white-house-biden-tests-positive-for-covid-19/507-20243fa3-4c9b-41e3-b105-b1dcd10e9e55"
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
     },
     {
-      "text": "President Biden tests positive for COVID-19, has 'very mild symptoms'",
-      "url": "https://www.kvue.com/article/news/nation-world/white-house-biden-tests-positive-for-covid-19/507-20243fa3-4c9b-41e3-b105-b1dcd10e9e55"
+      "text": "Check out these art exhibits opening in Austin",
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
     },
     {
-      "text": "After testing positive for COVID-19, President Biden said in a video that he's \"doing well\" and \"getting a lot of work done.\"",
-      "url": "https://www.kvue.com/article/news/nation-world/white-house-biden-tests-positive-for-covid-19/507-20243fa3-4c9b-41e3-b105-b1dcd10e9e55"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/local/kirk-watson-austin-housing-plan/269-3a29a36c-24d8-4bdf-a3f2-17a7b0afe52b"
-    },
-    {
-      "text": "Austin mayoral candidate Kirk Watson outlines plan to address housing emergency",
-      "url": "https://www.kvue.com/article/news/local/kirk-watson-austin-housing-plan/269-3a29a36c-24d8-4bdf-a3f2-17a7b0afe52b"
-    },
-    {
-      "text": "The former state senator is sharing seven key parts he thinks can help with Austin's unaffordability problem.",
-      "url": "https://www.kvue.com/article/news/local/kirk-watson-austin-housing-plan/269-3a29a36c-24d8-4bdf-a3f2-17a7b0afe52b"
+      "text": "Some of the exhibits are indoors, giving you a chance to get out of the heat.",
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
+      "url": "https://www.kvue.com/article/news/health/study-teen-mental-health-decline-covid-lockdown/269-8b36fc3e-6524-401c-938c-18a9265f202f"
     },
     {
-      "text": "Typhoon Texas dumps 15,000 pounds of ice into wave pool for the 'ultimate cool down'",
-      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
+      "text": "Study: Teen mental health decline linked to COVID-19 lockdown",
+      "url": "https://www.kvue.com/article/news/health/study-teen-mental-health-decline-covid-lockdown/269-8b36fc3e-6524-401c-938c-18a9265f202f"
     },
     {
-      "text": "Even Elsa from Disney's \"Frozen\" was in attendance.",
-      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/nation-world/white-house-biden-tests-positive-for-covid-19/507-20243fa3-4c9b-41e3-b105-b1dcd10e9e55"
-    },
-    {
-      "text": "President Biden tests positive for COVID-19, has 'very mild symptoms'",
-      "url": "https://www.kvue.com/article/news/nation-world/white-house-biden-tests-positive-for-covid-19/507-20243fa3-4c9b-41e3-b105-b1dcd10e9e55"
-    },
-    {
-      "text": "After testing positive for COVID-19, President Biden said in a video that he's \"doing well\" and \"getting a lot of work done.\"",
-      "url": "https://www.kvue.com/article/news/nation-world/white-house-biden-tests-positive-for-covid-19/507-20243fa3-4c9b-41e3-b105-b1dcd10e9e55"
+      "text": "One cause of stress was parents losing their jobs during the pandemic.",
+      "url": "https://www.kvue.com/article/news/health/study-teen-mental-health-decline-covid-lockdown/269-8b36fc3e-6524-401c-938c-18a9265f202f"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/local/kirk-watson-austin-housing-plan/269-3a29a36c-24d8-4bdf-a3f2-17a7b0afe52b"
+      "url": "https://www.kvue.com/article/news/health/coronavirus/coronavirus-numbers/3-central-texas-counties-improvement-covid-19-data/269-0f96094e-2e31-4db6-93d1-fa5282a0612f"
     },
     {
-      "text": "Austin mayoral candidate Kirk Watson outlines plan to address housing emergency",
-      "url": "https://www.kvue.com/article/news/local/kirk-watson-austin-housing-plan/269-3a29a36c-24d8-4bdf-a3f2-17a7b0afe52b"
+      "text": "3 Central Texas counties show improvement on COVID-19 data, more remain the same",
+      "url": "https://www.kvue.com/article/news/health/coronavirus/coronavirus-numbers/3-central-texas-counties-improvement-covid-19-data/269-0f96094e-2e31-4db6-93d1-fa5282a0612f"
     },
     {
-      "text": "The former state senator is sharing seven key parts he thinks can help with Austin's unaffordability problem.",
-      "url": "https://www.kvue.com/article/news/local/kirk-watson-austin-housing-plan/269-3a29a36c-24d8-4bdf-a3f2-17a7b0afe52b"
+      "text": "The CDC updated it's Community Levels on Thursday, indicating that most counties in the area stayed the same while three improved.",
+      "url": "https://www.kvue.com/article/news/health/coronavirus/coronavirus-numbers/3-central-texas-counties-improvement-covid-19-data/269-0f96094e-2e31-4db6-93d1-fa5282a0612f"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
     },
     {
-      "text": "Typhoon Texas dumps 15,000 pounds of ice into wave pool for the 'ultimate cool down'",
-      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
+      "text": "Check out these art exhibits opening in Austin",
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
     },
     {
-      "text": "Even Elsa from Disney's \"Frozen\" was in attendance.",
-      "url": "https://www.kvue.com/article/news/local/typhoon-texas-15000-pounds-ice-wave-pool-ultimate-cool-down/269-c613c31d-c30f-4a5b-a044-cdf52e63f327"
+      "text": "Some of the exhibits are indoors, giving you a chance to get out of the heat.",
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.kvue.com/article/news/health/study-teen-mental-health-decline-covid-lockdown/269-8b36fc3e-6524-401c-938c-18a9265f202f"
+    },
+    {
+      "text": "Study: Teen mental health decline linked to COVID-19 lockdown",
+      "url": "https://www.kvue.com/article/news/health/study-teen-mental-health-decline-covid-lockdown/269-8b36fc3e-6524-401c-938c-18a9265f202f"
+    },
+    {
+      "text": "One cause of stress was parents losing their jobs during the pandemic.",
+      "url": "https://www.kvue.com/article/news/health/study-teen-mental-health-decline-covid-lockdown/269-8b36fc3e-6524-401c-938c-18a9265f202f"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.kvue.com/article/news/health/coronavirus/coronavirus-numbers/3-central-texas-counties-improvement-covid-19-data/269-0f96094e-2e31-4db6-93d1-fa5282a0612f"
+    },
+    {
+      "text": "3 Central Texas counties show improvement on COVID-19 data, more remain the same",
+      "url": "https://www.kvue.com/article/news/health/coronavirus/coronavirus-numbers/3-central-texas-counties-improvement-covid-19-data/269-0f96094e-2e31-4db6-93d1-fa5282a0612f"
+    },
+    {
+      "text": "The CDC updated it's Community Levels on Thursday, indicating that most counties in the area stayed the same while three improved.",
+      "url": "https://www.kvue.com/article/news/health/coronavirus/coronavirus-numbers/3-central-texas-counties-improvement-covid-19-data/269-0f96094e-2e31-4db6-93d1-fa5282a0612f"
     },
     {
       "text": "Privacy Policy",
@@ -923,100 +965,100 @@
       "url": "https://www.kvue.com/article/syndication/heartthreads/10-most-uplifting-videos-2021-heartwarming-heartthreads/507-bbcbe78a-edc1-43c9-b722-80db1e6ab6b7"
     },
     {
-      "text": "Watch live: Jan. 6 panel probes Trump's 187 minutes as Capitol attacked",
-      "url": "https://www.kvue.com/article/news/nation-world/jan-6-hearing-primetime-trump-inaction-capitol-riot/507-f3da0291-fd0c-4b30-8aef-7f84c5075ab6"
+      "text": "Candy company looking for a head taste tester",
+      "url": "https://www.kvue.com/article/life/sweet-job-candy-company-official-taste-tester/507-41e406bc-66f2-4ee4-9eeb-fff403fb400a"
     },
     {
       "text": "NASA's rover finds spaghetti-like bundle of string on Mars",
       "url": "https://www.kvue.com/article/news/nation-world/nasas-rover-finds-bundle-of-string-on-mars/507-b97abd5f-9990-418d-8191-327fe76f9663"
     },
     {
-      "text": "President Biden tests positive for COVID-19, has 'very mild symptoms'",
-      "url": "https://www.kvue.com/article/news/nation-world/white-house-biden-tests-positive-for-covid-19/507-20243fa3-4c9b-41e3-b105-b1dcd10e9e55"
+      "text": "Monkeypox could become entrenched as new STD in the US",
+      "url": "https://www.kvue.com/article/news/health/monkeypox-std/507-2df38115-971f-4f36-984a-dbba0b4bbf29"
     },
     {
-      "text": "First R-rated movies coming to Disney+ Friday",
-      "url": "https://www.kvue.com/article/news/nation-world/disney-plus-r-rated-movies-deadpool-logan-deadpool-3-speculation-comic-con/507-a43d8b0b-968b-445a-a47f-104a2202068e"
-    },
-    {
-      "text": "Mega Millions jackpot soars to third largest prize in game's history",
-      "url": "https://www.kvue.com/article/news/nation-world/mega-millions-jackpot-third-largest-prize-ever-660-million/507-cb8a11eb-6498-4207-8c45-779c62dc9a9f"
-    },
-    {
-      "text": "One of the most recognizable butterflies in the world is now on the endangered list",
-      "url": "https://www.kvue.com/article/news/nation-world/monarch-butterflies-endangered/507-86b1b22c-4de1-4de6-b165-4adfafb85769"
-    },
-    {
-      "text": "Watch live: Jan. 6 panel probes Trump's 187 minutes as Capitol attacked",
+      "text": "Jan. 6 hearing: Trump spurned aides' pleas to call off Capitol mob",
       "url": "https://www.kvue.com/article/news/nation-world/jan-6-hearing-primetime-trump-inaction-capitol-riot/507-f3da0291-fd0c-4b30-8aef-7f84c5075ab6"
+    },
+    {
+      "text": "Jan. 6 takeaways: Trump 'could not be moved' amid violence",
+      "url": "https://www.kvue.com/article/news/nation-world/jan-6-takeaways-trumps-187-minutes/507-228754f1-dd1f-4265-a6b7-7e1369ef2487"
+    },
+    {
+      "text": "Federal authorities indict three in first cryptocurrency insider trading case",
+      "url": "https://www.kvue.com/article/money/authorities-indict-three-in-first-cryptocurrency-insider-trading-case/507-f2fd478f-c5aa-49e2-be1f-edb85d2dfdfe"
+    },
+    {
+      "text": "Candy company looking for a head taste tester",
+      "url": "https://www.kvue.com/article/life/sweet-job-candy-company-official-taste-tester/507-41e406bc-66f2-4ee4-9eeb-fff403fb400a"
     },
     {
       "text": "NASA's rover finds spaghetti-like bundle of string on Mars",
       "url": "https://www.kvue.com/article/news/nation-world/nasas-rover-finds-bundle-of-string-on-mars/507-b97abd5f-9990-418d-8191-327fe76f9663"
     },
     {
-      "text": "President Biden tests positive for COVID-19, has 'very mild symptoms'",
-      "url": "https://www.kvue.com/article/news/nation-world/white-house-biden-tests-positive-for-covid-19/507-20243fa3-4c9b-41e3-b105-b1dcd10e9e55"
+      "text": "Monkeypox could become entrenched as new STD in the US",
+      "url": "https://www.kvue.com/article/news/health/monkeypox-std/507-2df38115-971f-4f36-984a-dbba0b4bbf29"
     },
     {
-      "text": "First R-rated movies coming to Disney+ Friday",
-      "url": "https://www.kvue.com/article/news/nation-world/disney-plus-r-rated-movies-deadpool-logan-deadpool-3-speculation-comic-con/507-a43d8b0b-968b-445a-a47f-104a2202068e"
+      "text": "Jan. 6 hearing: Trump spurned aides' pleas to call off Capitol mob",
+      "url": "https://www.kvue.com/article/news/nation-world/jan-6-hearing-primetime-trump-inaction-capitol-riot/507-f3da0291-fd0c-4b30-8aef-7f84c5075ab6"
     },
     {
-      "text": "Mega Millions jackpot soars to third largest prize in game's history",
-      "url": "https://www.kvue.com/article/news/nation-world/mega-millions-jackpot-third-largest-prize-ever-660-million/507-cb8a11eb-6498-4207-8c45-779c62dc9a9f"
+      "text": "Jan. 6 takeaways: Trump 'could not be moved' amid violence",
+      "url": "https://www.kvue.com/article/news/nation-world/jan-6-takeaways-trumps-187-minutes/507-228754f1-dd1f-4265-a6b7-7e1369ef2487"
     },
     {
-      "text": "One of the most recognizable butterflies in the world is now on the endangered list",
-      "url": "https://www.kvue.com/article/news/nation-world/monarch-butterflies-endangered/507-86b1b22c-4de1-4de6-b165-4adfafb85769"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/samsung-taylor-adding-land/269-dc13691e-457e-41a2-ad78-7f08a82f6ba3"
-    },
-    {
-      "text": "Report: Samsung adding land to $17B semiconductor campus in Taylor, considering 11 new facilities",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/samsung-taylor-adding-land/269-dc13691e-457e-41a2-ad78-7f08a82f6ba3"
-    },
-    {
-      "text": "The tech giant is considering building 11 new chipmaking facilities in the Austin area.",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/samsung-taylor-adding-land/269-dc13691e-457e-41a2-ad78-7f08a82f6ba3"
+      "text": "Federal authorities indict three in first cryptocurrency insider trading case",
+      "url": "https://www.kvue.com/article/money/authorities-indict-three-in-first-cryptocurrency-insider-trading-case/507-f2fd478f-c5aa-49e2-be1f-edb85d2dfdfe"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/local/policing-fastest-growing-city-us-one-on-one-georgetown-pd-chief-cory-tchida/269-8fa6d975-1075-40eb-9367-2972cbd87006"
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
     },
     {
-      "text": "Policing the fastest growing city in the US: One-on-one with Georgetown PD Chief Cory Tchida",
-      "url": "https://www.kvue.com/article/news/local/policing-fastest-growing-city-us-one-on-one-georgetown-pd-chief-cory-tchida/269-8fa6d975-1075-40eb-9367-2972cbd87006"
+      "text": "Check out these art exhibits opening in Austin",
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
     },
     {
-      "text": "Tchida spoke about the pressure the department faces amid rapid growth, recruiting and retention and working with the community.",
-      "url": "https://www.kvue.com/article/news/local/policing-fastest-growing-city-us-one-on-one-georgetown-pd-chief-cory-tchida/269-8fa6d975-1075-40eb-9367-2972cbd87006"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/samsung-taylor-adding-land/269-dc13691e-457e-41a2-ad78-7f08a82f6ba3"
-    },
-    {
-      "text": "Report: Samsung adding land to $17B semiconductor campus in Taylor, considering 11 new facilities",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/samsung-taylor-adding-land/269-dc13691e-457e-41a2-ad78-7f08a82f6ba3"
-    },
-    {
-      "text": "The tech giant is considering building 11 new chipmaking facilities in the Austin area.",
-      "url": "https://www.kvue.com/article/money/economy/boomtown-2040/samsung-taylor-adding-land/269-dc13691e-457e-41a2-ad78-7f08a82f6ba3"
+      "text": "Some of the exhibits are indoors, giving you a chance to get out of the heat.",
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.kvue.com/article/news/local/policing-fastest-growing-city-us-one-on-one-georgetown-pd-chief-cory-tchida/269-8fa6d975-1075-40eb-9367-2972cbd87006"
+      "url": "https://www.kvue.com/article/news/local/emergency-water-notice-taylor-surrounding-areas/269-ad1f188b-ead3-4cb1-8984-3d8795bb33cf"
     },
     {
-      "text": "Policing the fastest growing city in the US: One-on-one with Georgetown PD Chief Cory Tchida",
-      "url": "https://www.kvue.com/article/news/local/policing-fastest-growing-city-us-one-on-one-georgetown-pd-chief-cory-tchida/269-8fa6d975-1075-40eb-9367-2972cbd87006"
+      "text": "Leak causes emergency water notice for Taylor, surrounding areas now fixed",
+      "url": "https://www.kvue.com/article/news/local/emergency-water-notice-taylor-surrounding-areas/269-ad1f188b-ead3-4cb1-8984-3d8795bb33cf"
     },
     {
-      "text": "Tchida spoke about the pressure the department faces amid rapid growth, recruiting and retention and working with the community.",
-      "url": "https://www.kvue.com/article/news/local/policing-fastest-growing-city-us-one-on-one-georgetown-pd-chief-cory-tchida/269-8fa6d975-1075-40eb-9367-2972cbd87006"
+      "text": "Water officials said residents will have full water capability by midnight and can resume regular water usage at that time.",
+      "url": "https://www.kvue.com/article/news/local/emergency-water-notice-taylor-surrounding-areas/269-ad1f188b-ead3-4cb1-8984-3d8795bb33cf"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
+    },
+    {
+      "text": "Check out these art exhibits opening in Austin",
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
+    },
+    {
+      "text": "Some of the exhibits are indoors, giving you a chance to get out of the heat.",
+      "url": "https://www.kvue.com/article/life/austin-art-exhibits-banksyland-sistine-chapel/269-fcc9c9c7-3a8e-4b78-a1cd-85a3f47c03d1"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.kvue.com/article/news/local/emergency-water-notice-taylor-surrounding-areas/269-ad1f188b-ead3-4cb1-8984-3d8795bb33cf"
+    },
+    {
+      "text": "Leak causes emergency water notice for Taylor, surrounding areas now fixed",
+      "url": "https://www.kvue.com/article/news/local/emergency-water-notice-taylor-surrounding-areas/269-ad1f188b-ead3-4cb1-8984-3d8795bb33cf"
+    },
+    {
+      "text": "Water officials said residents will have full water capability by midnight and can resume regular water usage at that time.",
+      "url": "https://www.kvue.com/article/news/local/emergency-water-notice-taylor-surrounding-areas/269-ad1f188b-ead3-4cb1-8984-3d8795bb33cf"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
@@ -1200,7 +1242,7 @@
     "addeddate": "2022-07-18 00:04:44"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 2078069843,
+  "uniq": 2064690297,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1658492026,
+  "created": 1658518114,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/3/items/icijorg-2022",
@@ -4340,31 +4340,73 @@
       "sha1": "28c91b33630c9d59ade2bad4725f8e4cb6223284"
     },
     {
+      "name": "icijorg-2022-07-22T10:03:28.137468-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658498612",
+      "size": "18750",
+      "md5": "21656bf537689a7eb5e175b7a0a027cc",
+      "crc32": "b0717687",
+      "sha1": "87d827390078fa69de0a12f3793466639889bdb9",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-07-22T10:03:28.137468-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658498614",
+      "size": "23881",
+      "md5": "f825987e0f0ba0f2a11bbeaccfdfb5d8",
+      "crc32": "a88258b7",
+      "sha1": "ecfdb06bb2309010cda969bb45e4db73aded68cc",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-07-22T10:03:28.137468-04:00.jpg",
+      "source": "original",
+      "mtime": "1658498611",
+      "size": "316000",
+      "md5": "aefc4a508612e2c2b3a4d25f006525d1",
+      "crc32": "44e79d04",
+      "sha1": "46270b14425a902ade20e1d31977667df6c777cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "icijorg-2022-07-22T10:03:28.137468-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "icijorg-2022-07-22T10:03:28.137468-04:00.jpg",
+      "mtime": "1658517988",
+      "size": "11267",
+      "md5": "7561b9c780c02365a3961bda13b655ac",
+      "crc32": "74488ab8",
+      "sha1": "4ede9edb0a9bb36bc486ec0bb4a96d1f79bfe686"
+    },
+    {
       "name": "icijorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74e77964585a7eee4f546ed951d2a896a28f501a",
-      "mtime": "1658463823",
-      "size": "88002",
-      "md5": "006e5188beea969154b681a310001b31",
-      "crc32": "13af4276",
-      "sha1": "5877f5357afc2bc24f1965576d007beef0a169b8",
+      "btih": "5be4bcc5f9faf53328313c6dd5b98ecfd45773fe",
+      "mtime": "1658518060",
+      "size": "88848",
+      "md5": "bff695296383efd7418b7c3b804c9753",
+      "crc32": "c009be25",
+      "sha1": "fbe5475255a48c4dcba3f992bab2bd65d0c35ea0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "icijorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e4726dae7d879ca4d55256bbae236228",
+      "md5": "50f65d8e19a6800efeaf23a638a07f95",
       "summation": "md5"
     },
     {
       "name": "icijorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658456605",
-      "size": "491520",
-      "md5": "699c59d8c17958b2304b822e23695162",
-      "crc32": "03fb8aa6",
-      "sha1": "6181815f5e756cdc56d4508322622e438d56b23b",
+      "mtime": "1658498618",
+      "size": "495616",
+      "md5": "5d8d4ff14ab7b91f7d7f728bef63d6de",
+      "crc32": "3631fbe4",
+      "sha1": "c893b881de53c6aeb3d1948de777d99e108c90fc",
       "format": "Metadata"
     },
     {
@@ -4378,783 +4420,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 417,
-  "icijorg-2022": [
-    {
-      "text": "Investigations",
-      "url": "#"
-    },
-    {
-      "text": "\n                Pandora Papers\n              ",
-      "url": "/investigations/pandora-papers"
-    },
-    {
-      "text": "\n                Panama Papers\n              ",
-      "url": "/investigations/panama-papers"
-    },
-    {
-      "text": "\n                Fincen Files\n              ",
-      "url": "/investigations/fincen-files/"
-    },
-    {
-      "text": "\n                More Investigations\n              ",
-      "url": "/investigations/"
-    },
-    {
-      "text": "Latest",
-      "url": "/inside-icij"
-    },
-    {
-      "text": "Data",
-      "url": "#"
-    },
-    {
-      "text": "\n                Offshore Leaks Database\n              ",
-      "url": "https://offshoreleaks.icij.org/"
-    },
-    {
-      "text": "\n                Medical Devices Database\n              ",
-      "url": "https://medicaldevices.icij.org/"
-    },
-    {
-      "text": "\n                Datashare\n              ",
-      "url": "https://datashare.icij.org/"
-    },
-    {
-      "text": "\n                More Data Journalism\n              ",
-      "url": "https://www.icij.org/tags/data-journalism/"
-    },
-    {
-      "text": "Journalists",
-      "url": "/journalists"
-    },
-    {
-      "text": "Leak to ICIJ",
-      "url": "https://www.icij.org/leak/"
-    },
-    {
-      "text": "About",
-      "url": "#"
-    },
-    {
-      "text": "\n                About ICIJ\n              ",
-      "url": "https://www.icij.org/about/"
-    },
-    {
-      "text": "\n                Our Team\n              ",
-      "url": "https://www.icij.org/about/our-team/"
-    },
-    {
-      "text": "\n                Our Supporters\n              ",
-      "url": "https://www.icij.org/about/our-supporters/"
-    },
-    {
-      "text": "\n                ICIJ\u2019s Awards\n              ",
-      "url": "https://www.icij.org/about/awards/"
-    },
-    {
-      "text": "\n                Corporate\n              ",
-      "url": "https://www.icij.org/about/corporate/"
-    },
-    {
-      "text": "\n                Work with us\n              ",
-      "url": "https://www.icij.org/about/work-with-us/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Investigations",
-      "url": "#"
-    },
-    {
-      "text": "\n                    Pandora Papers\n                  ",
-      "url": "/investigations/pandora-papers"
-    },
-    {
-      "text": "\n                    Panama Papers\n                  ",
-      "url": "/investigations/panama-papers"
-    },
-    {
-      "text": "\n                    Fincen Files\n                  ",
-      "url": "/investigations/fincen-files/"
-    },
-    {
-      "text": "\n                    More Investigations\n                  ",
-      "url": "/investigations/"
-    },
-    {
-      "text": "Latest",
-      "url": "/inside-icij"
-    },
-    {
-      "text": "Data",
-      "url": "#"
-    },
-    {
-      "text": "\n                    Offshore Leaks Database\n                  ",
-      "url": "https://offshoreleaks.icij.org/"
-    },
-    {
-      "text": "\n                    Medical Devices Database\n                  ",
-      "url": "https://medicaldevices.icij.org/"
-    },
-    {
-      "text": "\n                    Datashare\n                  ",
-      "url": "https://datashare.icij.org/"
-    },
-    {
-      "text": "\n                    More Data Journalism\n                  ",
-      "url": "https://www.icij.org/tags/data-journalism/"
-    },
-    {
-      "text": "Journalists",
-      "url": "/journalists"
-    },
-    {
-      "text": "Leak to ICIJ",
-      "url": "https://www.icij.org/leak/"
-    },
-    {
-      "text": "About",
-      "url": "#"
-    },
-    {
-      "text": "\n                    About ICIJ\n                  ",
-      "url": "https://www.icij.org/about/"
-    },
-    {
-      "text": "\n                    Our Team\n                  ",
-      "url": "https://www.icij.org/about/our-team/"
-    },
-    {
-      "text": "\n                    Our Supporters\n                  ",
-      "url": "https://www.icij.org/about/our-supporters/"
-    },
-    {
-      "text": "\n                    ICIJ\u2019s Awards\n                  ",
-      "url": "https://www.icij.org/about/awards/"
-    },
-    {
-      "text": "\n                    Corporate\n                  ",
-      "url": "https://www.icij.org/about/corporate/"
-    },
-    {
-      "text": "\n                    Work with us\n                  ",
-      "url": "https://www.icij.org/about/work-with-us/"
-    },
-    {
-      "text": "DONATE",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=icij&installmentPeriod=monthly&amount=10&campaign=701f4000001A4kF"
-    },
-    {
-      "text": " Facebook",
-      "url": "https://www.facebook.com/ICIJ.org"
-    },
-    {
-      "text": " Twitter",
-      "url": "https://twitter.com/icijorg"
-    },
-    {
-      "text": " Linkedin",
-      "url": "https://www.linkedin.com/company/1732242/"
-    },
-    {
-      "text": " Reddit",
-      "url": "https://www.reddit.com/user/ICIJ/"
-    },
-    {
-      "text": " Instagram",
-      "url": "https://www.instagram.com/icijorg/?hl=en"
-    },
-    {
-      "text": " Facebook",
-      "url": "https://www.facebook.com/ICIJ.org"
-    },
-    {
-      "text": " Twitter",
-      "url": "https://twitter.com/icijorg"
-    },
-    {
-      "text": " Linkedin",
-      "url": "https://www.linkedin.com/company/1732242/"
-    },
-    {
-      "text": " Reddit",
-      "url": "https://www.reddit.com/user/ICIJ/"
-    },
-    {
-      "text": " Instagram",
-      "url": "https://www.instagram.com/icijorg/?hl=en"
-    },
-    {
-      "text": "Impact",
-      "url": "https://www.icij.org/tags/impact/"
-    },
-    {
-      "text": "Panama Papers",
-      "url": "https://www.icij.org/tags/panama-papers/"
-    },
-    {
-      "text": "Accountability",
-      "url": "https://www.icij.org/tags/accountability/"
-    },
-    {
-      "text": "Offshore secrecy",
-      "url": "https://www.icij.org/tags/offshore-secrecy/"
-    },
-    {
-      "text": "Offshore finance",
-      "url": "https://www.icij.org/tags/offshore-finance/"
-    },
-    {
-      "text": "Europe",
-      "url": "https://www.icij.org/tags/europe/"
-    },
-    {
-      "text": "Tax havens",
-      "url": "https://www.icij.org/tags/tax-havens/"
-    },
-    {
-      "text": "Inside ICIJ",
-      "url": "https://www.icij.org/tags/inside-icij/"
-    },
-    {
-      "text": "Paradise Papers",
-      "url": "https://www.icij.org/tags/paradise-papers/"
-    },
-    {
-      "text": "Data journalism",
-      "url": "https://www.icij.org/tags/data-journalism/"
-    },
-    {
-      "text": "ICIJ Members",
-      "url": "https://www.icij.org/tags/icij-members/"
-    },
-    {
-      "text": "Investigative reporting",
-      "url": "https://www.icij.org/tags/investigative-reporting/"
-    },
-    {
-      "text": "Investigative journalism",
-      "url": "https://www.icij.org/tags/investigative-journalism/"
-    },
-    {
-      "text": "Africa",
-      "url": "https://www.icij.org/tags/africa/"
-    },
-    {
-      "text": "Pandora Papers",
-      "url": "https://www.icij.org/tags/pandora-papers/"
-    },
-    {
-      "text": "Press freedom",
-      "url": "https://www.icij.org/tags/press-freedom/"
-    },
-    {
-      "text": "More stories",
-      "url": "#"
-    },
-    {
-      "text": "Inside ICIJ",
-      "url": "/inside-icij"
-    },
-    {
-      "text": "Impact",
-      "url": "/tags/impact"
-    },
-    {
-      "text": "Meet the Investigators",
-      "url": "/tags/meet-the-investigators"
-    },
-    {
-      "text": "Press freedom",
-      "url": "/tags/press-freedom"
-    },
-    {
-      "text": "IMPACT  Jul 15, 2022  Major anti-money-laundering reform passes US House ",
-      "url": "https://www.icij.org/investigations/pandora-papers/major-anti-money-laundering-reform-passes-us-house/"
-    },
-    {
-      "text": "IMPACT  Jul 13, 2022  Uber Files sparks street protests, calls to investigate politicians and a rude rebuttal ",
-      "url": "https://www.icij.org/investigations/uber-files/uber-files-sparks-street-protests-calls-to-investigate-politicians-and-a-rude-rebuttal/"
-    },
-    {
-      "text": "FAQ  Jul 12, 2022  Frequently asked questions about the Uber Files ",
-      "url": "https://www.icij.org/investigations/uber-files/frequently-asked-questions-about-the-uber-files/"
-    },
-    {
-      "text": "IMPACT  Jul 11, 2022  Macron, Kroes under pressure as Uber Files puts spotlight on high power lobbying in Europe ",
-      "url": "https://www.icij.org/investigations/uber-files/macron-kroes-under-pressure-as-uber-files-puts-spotlight-on-high-power-lobbying-in-europe/"
-    },
-    {
-      "text": "WHISTLEBLOWERS  Jul 11, 2022  Ex-Uber lobbyist Mark MacGann comes forward as source of the Uber Files ",
-      "url": "https://www.icij.org/investigations/uber-files/uber-lobbyist-whistleblower-mark-macgann/"
-    },
-    {
-      "text": "TAX SHUFFLE  Jul 11, 2022  Uber shifted scrutiny to drivers as it dodged tens of millions in taxes ",
-      "url": "https://www.icij.org/investigations/uber-files/uber-tax-havens-dodge-drivers/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "DONATE",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=icij&installmentPeriod=monthly&amount=10&campaign=701f4000001A4kF"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/uber-global-rise-lobbying-violence-technology/"
-    },
-    {
-      "text": "How Uber won access to world leaders, deceived investigators and exploited violence against its drivers in battle for global dominance",
-      "url": "https://www.icij.org/investigations/uber-files/uber-global-rise-lobbying-violence-technology/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/as-uber-expanded-globally-many-drivers-felt-left-behind/"
-    },
-    {
-      "text": " As Uber expanded globally, many drivers felt left behind ",
-      "url": "https://www.icij.org/investigations/uber-files/as-uber-expanded-globally-many-drivers-felt-left-behind/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/uber-files-sparks-more-protests-and-calls-to-investigate-lobbying-efforts/"
-    },
-    {
-      "text": " Uber Files sparks more protests and calls to investigate lobbying efforts ",
-      "url": "https://www.icij.org/investigations/uber-files/uber-files-sparks-more-protests-and-calls-to-investigate-lobbying-efforts/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/pandora-papers/as-sri-lankas-ruling-rajapaksas-flee-pandora-papers-reveal-ties-to-uae-properties/"
-    },
-    {
-      "text": " As Sri Lanka\u2019s ruling Rajapaksas flee, Pandora Papers reveal ties to UAE properties ",
-      "url": "https://www.icij.org/investigations/pandora-papers/as-sri-lankas-ruling-rajapaksas-flee-pandora-papers-reveal-ties-to-uae-properties/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/dutch-politicians-call-for-probe-into-tax-authorities-handling-of-uber-audit-after-uber-files-expose/"
-    },
-    {
-      "text": " Dutch politicians call for probe into tax authorities\u2019 handling of Uber audit after Uber Files expos\u00e9 ",
-      "url": "https://www.icij.org/investigations/uber-files/dutch-politicians-call-for-probe-into-tax-authorities-handling-of-uber-audit-after-uber-files-expose/"
-    },
-    {
-      "text": "Impact",
-      "url": "https://www.icij.org/tags/impact/"
-    },
-    {
-      "text": "Panama Papers",
-      "url": "https://www.icij.org/tags/panama-papers/"
-    },
-    {
-      "text": "Accountability",
-      "url": "https://www.icij.org/tags/accountability/"
-    },
-    {
-      "text": "Offshore secrecy",
-      "url": "https://www.icij.org/tags/offshore-secrecy/"
-    },
-    {
-      "text": "Offshore finance",
-      "url": "https://www.icij.org/tags/offshore-finance/"
-    },
-    {
-      "text": "Europe",
-      "url": "https://www.icij.org/tags/europe/"
-    },
-    {
-      "text": "Tax havens",
-      "url": "https://www.icij.org/tags/tax-havens/"
-    },
-    {
-      "text": "Inside ICIJ",
-      "url": "https://www.icij.org/tags/inside-icij/"
-    },
-    {
-      "text": "Recent investigations",
-      "url": "/investigations"
-    },
-    {
-      "text": "All investigations",
-      "url": "/investigations"
-    },
-    {
-      "text": "   The Uber Files ",
-      "url": "https://www.icij.org/investigations/uber-files/"
-    },
-    {
-      "text": "   Russia Archive ",
-      "url": "https://www.icij.org/investigations/russia-archive/"
-    },
-    {
-      "text": "   The Ericsson List ",
-      "url": "https://www.icij.org/investigations/ericsson-list/"
-    },
-    {
-      "text": "   Pandora Papers ",
-      "url": "https://www.icij.org/investigations/pandora-papers/"
-    },
-    {
-      "text": "   FinCEN Files ",
-      "url": "https://www.icij.org/investigations/fincen-files/"
-    },
-    {
-      "text": "   Luanda Leaks ",
-      "url": "https://www.icij.org/investigations/luanda-leaks/"
-    },
-    {
-      "text": "   China Cables ",
-      "url": "https://www.icij.org/investigations/china-cables/"
-    },
-    {
-      "text": "   Mauritius Leaks ",
-      "url": "https://www.icij.org/investigations/mauritius-leaks/"
-    },
-    {
-      "text": "JOIN US TODAY",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=icij&installmentPeriod=monthly&amount=10&campaign=701f4000001A4kA"
-    },
-    {
-      "text": "More stories",
-      "url": "#"
-    },
-    {
-      "text": "Inside ICIJ",
-      "url": "/inside-icij"
-    },
-    {
-      "text": "Impact",
-      "url": "/tags/impact"
-    },
-    {
-      "text": "Meet the Investigators",
-      "url": "/tags/meet-the-investigators"
-    },
-    {
-      "text": "Press freedom",
-      "url": "/tags/press-freedom"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/pandora-papers/major-anti-money-laundering-reform-passes-us-house/"
-    },
-    {
-      "text": " Major anti-money-laundering reform passes US House  Jul 15, 2022",
-      "url": "https://www.icij.org/investigations/pandora-papers/major-anti-money-laundering-reform-passes-us-house/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/uber-files-sparks-street-protests-calls-to-investigate-politicians-and-a-rude-rebuttal/"
-    },
-    {
-      "text": " Uber Files sparks street protests, calls to investigate politicians and a rude rebuttal  Jul 13, 2022",
-      "url": "https://www.icij.org/investigations/uber-files/uber-files-sparks-street-protests-calls-to-investigate-politicians-and-a-rude-rebuttal/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/frequently-asked-questions-about-the-uber-files/"
-    },
-    {
-      "text": " Frequently asked questions about the Uber Files  Jul 12, 2022",
-      "url": "https://www.icij.org/investigations/uber-files/frequently-asked-questions-about-the-uber-files/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/macron-kroes-under-pressure-as-uber-files-puts-spotlight-on-high-power-lobbying-in-europe/"
-    },
-    {
-      "text": " Macron, Kroes under pressure as Uber Files puts spotlight on high power lobbying in Europe  Jul 11, 2022",
-      "url": "https://www.icij.org/investigations/uber-files/macron-kroes-under-pressure-as-uber-files-puts-spotlight-on-high-power-lobbying-in-europe/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/uber-lobbyist-whistleblower-mark-macgann/"
-    },
-    {
-      "text": " Ex-Uber lobbyist Mark MacGann comes forward as source of the Uber Files  Jul 11, 2022",
-      "url": "https://www.icij.org/investigations/uber-files/uber-lobbyist-whistleblower-mark-macgann/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/uber-tax-havens-dodge-drivers/"
-    },
-    {
-      "text": " Uber shifted scrutiny to drivers as it dodged tens of millions in taxes  Jul 11, 2022",
-      "url": "https://www.icij.org/investigations/uber-files/uber-tax-havens-dodge-drivers/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/uber-deals-russia-putin-allies/"
-    },
-    {
-      "text": " Uber forged deals with top Putin allies in failed bid to break into Russian market  Jul 11, 2022",
-      "url": "https://www.icij.org/investigations/uber-files/uber-deals-russia-putin-allies/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/video-uber-global-lobbying-machine/"
-    },
-    {
-      "text": " Watch: Inside Uber\u2019s global lobbying machine  Jul 10, 2022",
-      "url": "https://www.icij.org/investigations/uber-files/video-uber-global-lobbying-machine/"
-    },
-    {
-      "text": "Recent coverage",
-      "url": "/investigations"
-    },
-    {
-      "text": "More investigations",
-      "url": "#"
-    },
-    {
-      "text": "Panama Papers",
-      "url": "/panamapapers/"
-    },
-    {
-      "text": "Paradise Papers",
-      "url": "/paradisepapers/"
-    },
-    {
-      "text": "Implant Files",
-      "url": "/implantfiles/"
-    },
-    {
-      "text": "All Investigations",
-      "url": "/investigations/"
-    },
-    {
-      "text": "\n        The Uber Files\n      ",
-      "url": "https://www.icij.org/investigations/uber-files/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/uber-files/uber-files-sparks-more-protests-and-calls-to-investigate-lobbying-efforts/"
-    },
-    {
-      "text": "IMPACT Uber Files sparks more protests and calls to investigate lobbying efforts",
-      "url": "https://www.icij.org/investigations/uber-files/uber-files-sparks-more-protests-and-calls-to-investigate-lobbying-efforts/"
-    },
-    {
-      "text": "DRIVER PROFILES As Uber expanded globally, many drivers felt left behind",
-      "url": "https://www.icij.org/investigations/uber-files/as-uber-expanded-globally-many-drivers-felt-left-behind/"
-    },
-    {
-      "text": "IMPACT Dutch politicians call for probe into tax authorities\u2019 handling of Uber audit after Uber Files expos\u00e9",
-      "url": "https://www.icij.org/investigations/uber-files/dutch-politicians-call-for-probe-into-tax-authorities-handling-of-uber-audit-after-uber-files-expose/"
-    },
-    {
-      "text": "\n        Russia Archive\n      ",
-      "url": "https://www.icij.org/investigations/russia-archive/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/pandora-papers/congress-advances-once-in-a-generation-crackdown-on-enablers-of-financial-crime/"
-    },
-    {
-      "text": "IMPACT House committee advances \u2018once in a generation\u2019 crackdown on enablers of financial crime",
-      "url": "https://www.icij.org/investigations/pandora-papers/congress-advances-once-in-a-generation-crackdown-on-enablers-of-financial-crime/"
-    },
-    {
-      "text": "IMPACT Putin allies Mordashov and Roldugin targeted in latest round of US sanctions",
-      "url": "https://www.icij.org/investigations/russia-archive/putin-allies-mordashov-and-roldugin-targeted-in-latest-round-of-us-sanctions/"
-    },
-    {
-      "text": "RUSSIA New US sanctions target trust companies and corporate service providers for the first time",
-      "url": "https://www.icij.org/investigations/pandora-papers/new-us-sanctions-target-trust-companies-and-corporate-service-providers-for-the-first-time/"
-    },
-    {
-      "text": "\n        The Ericsson List\n      ",
-      "url": "https://www.icij.org/investigations/ericsson-list/"
-    },
-    {
-      "text": "",
-      "url": "https://www.icij.org/investigations/ericsson-list/former-ericsson-executives-acquitted-of-djibouti-bribery-charges-by-swedish-court/"
-    },
-    {
-      "text": "ERICSSON LIST Former Ericsson executives acquitted of Djibouti bribery charges by Swedish court",
-      "url": "https://www.icij.org/investigations/ericsson-list/former-ericsson-executives-acquitted-of-djibouti-bribery-charges-by-swedish-court/"
-    },
-    {
-      "text": "IMPACT Sweden\u2019s anti-corruption agency launches investigation into suspicious Ericsson payments in Iraq",
-      "url": "https://www.icij.org/investigations/ericsson-list/swedens-anti-corruption-agency-launches-investigation-into-suspicious-ericsson-payments-in-iraq/"
-    },
-    {
-      "text": "IMPACT Embattled Ericsson discloses new fines from US \u2018likely\u2019 after Iraq corruption",
-      "url": "https://www.icij.org/investigations/ericsson-list/embattled-ericsson-discloses-new-fines-from-us-likely-after-iraq-corruption/"
-    },
-    {
-      "text": "JOIN US TODAY",
-      "url": "https://checkout.fundjournalism.org/memberform?org_id=icij&installmentPeriod=monthly&amount=10&campaign=701f4000001A4kA"
-    },
-    {
-      "text": "Meet the investigators",
-      "url": "/tags/meet-the-investigators"
-    },
-    {
-      "text": "More",
-      "url": "#"
-    },
-    {
-      "text": "All interviews",
-      "url": "/tags/meet-the-investigators"
-    },
-    {
-      "text": "Journalists",
-      "url": "/journalists"
-    },
-    {
-      "text": "Media partners",
-      "url": "/about/media-partners/"
-    },
-    {
-      "text": " \n            Investigating tax dodgers and drug gangs from inside a tax haven\n          ",
-      "url": "https://www.icij.org/inside-icij/2022/06/investigating-tax-dodgers-and-drug-gangs-from-inside-a-tax-haven/"
-    },
-    {
-      "text": "On the front line of the \u2018battle for facts,\u2019 with Maria Ressa",
-      "url": "https://www.icij.org/inside-icij/2022/05/on-the-front-line-of-the-battle-for-facts-with-maria-ressa/"
-    },
-    {
-      "text": "\u2018There is no freedom and there is no press\u2019: How one Russian reporter approaches journalism in the age of Putin",
-      "url": "https://www.icij.org/investigations/russia-archive/there-is-no-freedom-and-there-is-no-press-how-one-russian-reporter-approaches-journalism-in-the-age-of-putin/"
-    },
-    {
-      "text": "Leak to us",
-      "url": "/leak/"
-    },
-    {
-      "text": "Contact ICIJ",
-      "url": "/leak/"
-    },
-    {
-      "text": "LEAK TO ICIJ",
-      "url": "/leak/"
-    },
-    {
-      "text": "let us know",
-      "url": "mailto:contact@icij.org"
-    },
-    {
-      "text": "",
-      "url": "https://icij.org"
-    },
-    {
-      "text": "contact@icij.org",
-      "url": "mailto:contact@icij.org"
-    },
-    {
-      "text": "\n                  About us\n                ",
-      "url": "/about/"
-    },
-    {
-      "text": "\n                  Our team\n                  ",
-      "url": "/about/our-team/"
-    },
-    {
-      "text": "\n                  Our supporters\n                  ",
-      "url": "/about/our-supporters/"
-    },
-    {
-      "text": "\n                  ICIJ's Awards\n                  ",
-      "url": "/about/awards/"
-    },
-    {
-      "text": "\n                  Corporate\n                  ",
-      "url": "/about/corporate/"
-    },
-    {
-      "text": "\n                  Work with us\n                  ",
-      "url": "/about/work-with-us/"
-    },
-    {
-      "text": "\n                  Journalists\n                  ",
-      "url": "/journalists/"
-    },
-    {
-      "text": "\n                    The Uber Files\n                    ",
-      "url": "https://www.icij.org/investigations/uber-files/"
-    },
-    {
-      "text": "\n                    Russia Archive\n                    ",
-      "url": "https://www.icij.org/investigations/russia-archive/"
-    },
-    {
-      "text": "\n                    The Ericsson List\n                    ",
-      "url": "https://www.icij.org/investigations/ericsson-list/"
-    },
-    {
-      "text": "\n                    Pandora Papers\n                    ",
-      "url": "https://www.icij.org/investigations/pandora-papers/"
-    },
-    {
-      "text": "\n                    FinCEN Files\n                    ",
-      "url": "https://www.icij.org/investigations/fincen-files/"
-    },
-    {
-      "text": "\n                  More investigations\n                  ",
-      "url": "/investigations/"
-    },
-    {
-      "text": "\n                    Newsletter\n                  ",
-      "url": "/signup/"
-    },
-    {
-      "text": "\n                    Instagram\n                  ",
-      "url": "https://instagram.com/icijorg"
-    },
-    {
-      "text": "\n                    Facebook\n                  ",
-      "url": "https://www.facebook.com/ICIJ.org"
-    },
-    {
-      "text": "\n                    Twitter\n                  ",
-      "url": "https://twitter.com/icijorg"
-    },
-    {
-      "text": "\n                    LinkedIn\n                  ",
-      "url": "https://www.linkedin.com/company/1732242/"
-    },
-    {
-      "text": "\n                    RSS\n                  ",
-      "url": "/feed/"
-    },
-    {
-      "text": "\n                    All topics\n                  ",
-      "url": "/topics/"
-    }
-  ],
-  "item_last_updated": 1658463823,
-  "item_size": 36068643,
+  "files_count": 421,
+  "item_last_updated": 1658518060,
+  "item_size": 36443483,
   "metadata": {
     "identifier": "icijorg-2022",
     "collection": [
@@ -5171,10 +4439,10 @@
     "publicdate": "2022-06-18 03:25:07",
     "addeddate": "2022-06-18 03:25:07"
   },
-  "server": "ia902508.us.archive.org",
-  "uniq": 637072912,
+  "server": "ia802508.us.archive.org",
+  "uniq": 2136967742,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }

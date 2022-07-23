@@ -1,5 +1,5 @@
 {
-  "created": 1658492624,
+  "created": 1658538539,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/wfaa-2022",
@@ -436,31 +436,73 @@
       "sha1": "b25204c69120e5e702c2929f134f5357c0b71e66"
     },
     {
+      "name": "wfaa-2022-07-22T11:21:51.268680-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658506915",
+      "size": "6483",
+      "md5": "efc121ed268848628da31fcf675bf2cf",
+      "crc32": "4ac73a80",
+      "sha1": "42974efc9d98fe3b8f046bee5baa644ae8f4eb38",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-07-22T11:21:51.268680-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658506917",
+      "size": "74061",
+      "md5": "80ef45155e6c78223b2a05734cf13beb",
+      "crc32": "63659830",
+      "sha1": "2b2552254c6fd6526bdd27a2829330e1b89cb428",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-07-22T11:21:51.268680-05:00.jpg",
+      "source": "original",
+      "mtime": "1658506913",
+      "size": "259304",
+      "md5": "eb175efefc2bcf291cc4b269ba987278",
+      "crc32": "9860ef37",
+      "sha1": "bd20f1fd210bbe41616172d217546f53aa6dd15c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wfaa-2022-07-22T11:21:51.268680-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wfaa-2022-07-22T11:21:51.268680-05:00.jpg",
+      "mtime": "1658525103",
+      "size": "9513",
+      "md5": "a804fac2848e988179c3db73961cfa4f",
+      "crc32": "6d7eb31c",
+      "sha1": "2e47299612747ac6460bc0bb26e5b019ca1e210b"
+    },
+    {
       "name": "wfaa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ff0978552aca5f673747c2fea0298bc9d8978b8",
-      "mtime": "1658477008",
-      "size": "9829",
-      "md5": "ac73d702f5c96c27abbffa1a0312ae98",
-      "crc32": "729958c7",
-      "sha1": "2d502ab0e00de15ad1b06b687986a07bf43992fd",
+      "btih": "d323a23792238db096ea8f9741ac7cd7a486de4d",
+      "mtime": "1658525113",
+      "size": "10661",
+      "md5": "33e692ee6e9027ac3a2677f42bf8f214",
+      "crc32": "40d6f1f2",
+      "sha1": "ed56ca6ef208bc200fe261746d0bff2fbf3aea0a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wfaa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f935fde26da3fd94cb85a2486426efd0",
+      "md5": "a8040fb170cd97f3815fd0e31ae881d1",
       "summation": "md5"
     },
     {
       "name": "wfaa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658464577",
-      "size": "61440",
-      "md5": "f6cffe6688fcd8b2f57720164ca18646",
-      "crc32": "b35cbb67",
-      "sha1": "ca503777a66d618e0922b0fd6ca7dfce62784a54",
+      "mtime": "1658506919",
+      "size": "65536",
+      "md5": "2179d9c845125ddc443f6e5c28ddd4c4",
+      "crc32": "dc30d9cb",
+      "sha1": "8ab75a9f1cc18f0dd3bec6e77f2cd47e10a58e04",
       "format": "Metadata"
     },
     {
@@ -474,9 +516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 45,
-  "item_last_updated": 1658477008,
-  "item_size": 3581811,
+  "files_count": 49,
+  "item_last_updated": 1658525113,
+  "item_size": 3936100,
   "metadata": {
     "identifier": "wfaa-2022",
     "collection": [
@@ -493,8 +535,8 @@
     "publicdate": "2022-07-18 00:06:04",
     "addeddate": "2022-07-18 00:06:04"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1543245422,
+  "server": "ia601500.us.archive.org",
+  "uniq": 1868466015,
   "wfaa-2022": [
     {
       "text": "Skip Navigation",
@@ -558,19 +600,19 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/uta-student-wins-50000-prize-fortnite-timthetatman-tailgate-frisco/287-ae49f141-f253-40af-8e3b-4816ac83c117"
+      "url": "https://www.wfaa.com/article/life/food/blue-bell-flavors-whataburger-shiner-bock-bucees-big-red-chuys/287-54806f3b-c296-43bf-8f17-1efd463f775a"
     },
     {
-      "text": "'I just wanted to have fun': UT Arlington student wins top $50,000 prize at Fortnite tournament in Frisco",
-      "url": "https://www.wfaa.com/article/news/local/uta-student-wins-50000-prize-fortnite-timthetatman-tailgate-frisco/287-ae49f141-f253-40af-8e3b-4816ac83c117"
+      "text": "We created 5 *very* Texas Blue Bell flavors you never knew you needed",
+      "url": "https://www.wfaa.com/article/life/food/blue-bell-flavors-whataburger-shiner-bock-bucees-big-red-chuys/287-54806f3b-c296-43bf-8f17-1efd463f775a"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "url": "https://www.wfaa.com/video/news/local/corinth-is-getting-a-new-park-food-trucks-included/287-7d4c7be7-52ea-4a7d-980c-8890228f9b7e"
     },
     {
-      "text": "Investigation underway after house explosion in Plano neighborhood",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "text": "Corinth is getting a new park, food trucks included",
+      "url": "https://www.wfaa.com/video/news/local/corinth-is-getting-a-new-park-food-trucks-included/287-7d4c7be7-52ea-4a7d-980c-8890228f9b7e"
     },
     {
       "text": "\n                                        Weather\n                            ",
@@ -610,19 +652,19 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/video/weather/dfw-weather-will-north-texas-see-any-rain-heading-into-the-weekend/287-9c381942-c92a-4204-8ee5-7d024835eeda"
+      "url": "https://www.wfaa.com/article/weather/dfw-weather-its-not-just-the-high-temps-setting-records-in-dfw-its-the-lows-too/287-452d2a2e-bcaa-45a6-bda4-f3aeb1709a89"
     },
     {
-      "text": "DFW weather: Will North Texas see any rain heading into the weekend?",
-      "url": "https://www.wfaa.com/video/weather/dfw-weather-will-north-texas-see-any-rain-heading-into-the-weekend/287-9c381942-c92a-4204-8ee5-7d024835eeda"
+      "text": "It's not just the high temps setting records in DFW. It's the lows, too.",
+      "url": "https://www.wfaa.com/article/weather/dfw-weather-its-not-just-the-high-temps-setting-records-in-dfw-its-the-lows-too/287-452d2a2e-bcaa-45a6-bda4-f3aeb1709a89"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/video/news/local/dallas-county-reports-first-heat-related-death-for-2022/287-1aa8fe2a-3098-4236-9817-b7ca63b412f7"
+      "url": "https://www.wfaa.com/article/weather/heating-up-again-over-the-weekend/287-44004e7d-f174-44d8-91eb-a0a61d7e243f"
     },
     {
-      "text": "Dallas County reports first heat-related death for 2022",
-      "url": "https://www.wfaa.com/video/news/local/dallas-county-reports-first-heat-related-death-for-2022/287-1aa8fe2a-3098-4236-9817-b7ca63b412f7"
+      "text": "Staying very hot for now... will we see relief in the 10 day?",
+      "url": "https://www.wfaa.com/article/weather/heating-up-again-over-the-weekend/287-44004e7d-f174-44d8-91eb-a0a61d7e243f"
     },
     {
       "text": "\n                                        Near Me\n                            ",
@@ -717,44 +759,44 @@
       "url": "#"
     },
     {
-      "text": "More (-1) \u00bb",
+      "text": "More () \u00bb",
       "url": "/breaking-news"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/korean-war-pow-72-year-journey-home-dallas/287-c2411995-12e3-45eb-b6b0-03bf66d450c0"
-    },
-    {
-      "text": "A Korean War POW and the 72-year journey home to Dallas",
-      "url": "https://www.wfaa.com/article/news/local/korean-war-pow-72-year-journey-home-dallas/287-c2411995-12e3-45eb-b6b0-03bf66d450c0"
-    },
-    {
-      "text": "R.B. Cherry was only 19 when he disappeared during the Korean War. Now, with the mystery finally solved, his family finally gets a chance to say goodbye on Friday.",
-      "url": "https://www.wfaa.com/article/news/local/korean-war-pow-72-year-journey-home-dallas/287-c2411995-12e3-45eb-b6b0-03bf66d450c0"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/nation-world/jan-6-takeaways-trumps-187-minutes/507-228754f1-dd1f-4265-a6b7-7e1369ef2487"
-    },
-    {
-      "text": "Jan. 6 takeaways: Trump 'could not be moved' amid violence",
-      "url": "https://www.wfaa.com/article/news/nation-world/jan-6-takeaways-trumps-187-minutes/507-228754f1-dd1f-4265-a6b7-7e1369ef2487"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/dallas-county-first-heat-related-death-2022/287-6e141a0d-19b9-41f9-b7c1-eac0be63a318"
-    },
-    {
-      "text": "Dallas County reports first heat-related death for 2022",
-      "url": "https://www.wfaa.com/article/news/local/dallas-county-first-heat-related-death-2022/287-6e141a0d-19b9-41f9-b7c1-eac0be63a318"
-    },
-    {
-      "text": "'Fences' artist shot while jogging on Dallas trail",
-      "url": "https://www.wfaa.com/article/news/crime/dallas-oak-cliff-artist-shot-trail/287-9ff7dcaa-1e82-4c86-8841-c25373cac176"
+      "url": "https://www.wfaa.com/article/news/health/coronavirus/new-ba5-omicron-covid-subvariant-carries-symptom-from-delta-wave/287-45a1c5d1-2c48-4904-b470-cff0e7dc3587"
     },
     {
       "text": "'It's something we haven't seen in a while': New BA.5 omicron subvariant carries a symptom from the delta variant wave",
       "url": "https://www.wfaa.com/article/news/health/coronavirus/new-ba5-omicron-covid-subvariant-carries-symptom-from-delta-wave/287-45a1c5d1-2c48-4904-b470-cff0e7dc3587"
+    },
+    {
+      "text": "\"We\u2019ve started getting anecdotal evidence that there\u2019s anosmia, which is that loss of smell,\" Dr. Shane Fernando said.",
+      "url": "https://www.wfaa.com/article/news/health/coronavirus/new-ba5-omicron-covid-subvariant-carries-symptom-from-delta-wave/287-45a1c5d1-2c48-4904-b470-cff0e7dc3587"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/news/health/dfw-monkeypox-cases-more-than-doubled-in-north-texas-this-week-according-to-new-data/287-5d1d9427-eab1-452e-b4ee-7c45a602158d"
+    },
+    {
+      "text": "Monkeypox cases more than doubled in North Texas this week, according to new data",
+      "url": "https://www.wfaa.com/article/news/health/dfw-monkeypox-cases-more-than-doubled-in-north-texas-this-week-according-to-new-data/287-5d1d9427-eab1-452e-b4ee-7c45a602158d"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/news/local/amber-alert-for-girl-abducted-in-missouri-city-texas/285-517aa1ad-2fdd-418d-9d7f-0c597f609b94"
+    },
+    {
+      "text": "AMBER Alert issued for missing 11-year-old Texas girl",
+      "url": "https://www.wfaa.com/article/news/local/amber-alert-for-girl-abducted-in-missouri-city-texas/285-517aa1ad-2fdd-418d-9d7f-0c597f609b94"
+    },
+    {
+      "text": "It's not just the high temps setting records in DFW. It's the lows, too.",
+      "url": "https://www.wfaa.com/article/weather/dfw-weather-its-not-just-the-high-temps-setting-records-in-dfw-its-the-lows-too/287-452d2a2e-bcaa-45a6-bda4-f3aeb1709a89"
+    },
+    {
+      "text": "Jan. 6 takeaways: Trump 'could not be moved' amid violence",
+      "url": "https://www.wfaa.com/article/news/nation-world/jan-6-takeaways-trumps-187-minutes/507-228754f1-dd1f-4265-a6b7-7e1369ef2487"
     },
     {
       "text": "WFAA hosting school supply drive",
@@ -769,12 +811,12 @@
       "url": "https://www.wfaa.com/article/entertainment/52-things-to-do-in-north-texas-this-weekend-kendrick-lamar-styx-national-tequila-day/287-15acbefc-81ff-433b-9eac-8f342ebd6406"
     },
     {
-      "text": "Amid ongoing heat issues, one Texas prison recently reached 149 degrees, new study shows",
-      "url": "https://www.wfaa.com/article/news/local/texas/texas-prisons-heat-issues-110-degrees-july-2022/287-9724faa7-9b6f-4661-9ca1-909c50b82b45"
+      "text": "'Not right for parents to bury their kids': Bo Jackson donated to pay for Uvalde funerals",
+      "url": "https://www.wfaa.com/article/news/special-reports/uvalde-school-shooting/bo-jackson-uvalde-victims-funerals-not-right-for-parents-to-bury-their-kids-bo-jackson-donated-to-pay-for-uvalde-funerals/287-c32ef866-82d0-4d78-b5bf-f92abbff962b"
     },
     {
-      "text": "Officials: Plano home nearly destroyed in fire while owners were away",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-fire-under-investigation/287-a73d7ec6-c798-4709-9b7c-27d768f5a4b7"
+      "text": "A Korean War POW and the 72-year journey home to Dallas",
+      "url": "https://www.wfaa.com/article/news/local/korean-war-pow-72-year-journey-home-dallas/287-c2411995-12e3-45eb-b6b0-03bf66d450c0"
     },
     {
       "text": "Privacy Policy",
@@ -926,27 +968,27 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/uta-student-wins-50000-prize-fortnite-timthetatman-tailgate-frisco/287-ae49f141-f253-40af-8e3b-4816ac83c117"
+      "url": "https://www.wfaa.com/article/news/local/dallas-county-first-heat-related-death-2022/287-6e141a0d-19b9-41f9-b7c1-eac0be63a318"
     },
     {
-      "text": "'I just wanted to have fun': UT Arlington student wins top $50,000 prize at Fortnite tournament in Frisco",
-      "url": "https://www.wfaa.com/article/news/local/uta-student-wins-50000-prize-fortnite-timthetatman-tailgate-frisco/287-ae49f141-f253-40af-8e3b-4816ac83c117"
+      "text": "Dallas County reports first heat-related death for 2022",
+      "url": "https://www.wfaa.com/article/news/local/dallas-county-first-heat-related-death-2022/287-6e141a0d-19b9-41f9-b7c1-eac0be63a318"
     },
     {
-      "text": "Benjamin Kocurek, a soon-to-be sophomore at UT Arlington, says he surprised himself when he took home the top prize on Sunday.",
-      "url": "https://www.wfaa.com/article/news/local/uta-student-wins-50000-prize-fortnite-timthetatman-tailgate-frisco/287-ae49f141-f253-40af-8e3b-4816ac83c117"
+      "text": "Although the county did not specify when the woman died, this week has seen the hottest days of the year, so far, that have broken all-time records.",
+      "url": "https://www.wfaa.com/article/news/local/dallas-county-first-heat-related-death-2022/287-6e141a0d-19b9-41f9-b7c1-eac0be63a318"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "url": "https://www.wfaa.com/article/news/crime/dallas-oak-cliff-artist-shot-trail/287-9ff7dcaa-1e82-4c86-8841-c25373cac176"
     },
     {
-      "text": "Investigation underway after house explosion in Plano neighborhood",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "text": "'Fences' artist shot while jogging on Dallas trail",
+      "url": "https://www.wfaa.com/article/news/crime/dallas-oak-cliff-artist-shot-trail/287-9ff7dcaa-1e82-4c86-8841-c25373cac176"
     },
     {
-      "text": "The fire department says this may have been a gas explosion. There were no injuries reported.",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "text": "\"It felt like someone knocked the wind out of me or hit me in the stomach with a bat,\" Lechuga wrote.",
+      "url": "https://www.wfaa.com/article/news/crime/dallas-oak-cliff-artist-shot-trail/287-9ff7dcaa-1e82-4c86-8841-c25373cac176"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
@@ -962,27 +1004,35 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/uta-student-wins-50000-prize-fortnite-timthetatman-tailgate-frisco/287-ae49f141-f253-40af-8e3b-4816ac83c117"
+      "url": "https://www.wfaa.com/article/news/local/dallas-county-first-heat-related-death-2022/287-6e141a0d-19b9-41f9-b7c1-eac0be63a318"
     },
     {
-      "text": "'I just wanted to have fun': UT Arlington student wins top $50,000 prize at Fortnite tournament in Frisco",
-      "url": "https://www.wfaa.com/article/news/local/uta-student-wins-50000-prize-fortnite-timthetatman-tailgate-frisco/287-ae49f141-f253-40af-8e3b-4816ac83c117"
+      "text": "Dallas County reports first heat-related death for 2022",
+      "url": "https://www.wfaa.com/article/news/local/dallas-county-first-heat-related-death-2022/287-6e141a0d-19b9-41f9-b7c1-eac0be63a318"
     },
     {
-      "text": "Benjamin Kocurek, a soon-to-be sophomore at UT Arlington, says he surprised himself when he took home the top prize on Sunday.",
-      "url": "https://www.wfaa.com/article/news/local/uta-student-wins-50000-prize-fortnite-timthetatman-tailgate-frisco/287-ae49f141-f253-40af-8e3b-4816ac83c117"
+      "text": "Although the county did not specify when the woman died, this week has seen the hottest days of the year, so far, that have broken all-time records.",
+      "url": "https://www.wfaa.com/article/news/local/dallas-county-first-heat-related-death-2022/287-6e141a0d-19b9-41f9-b7c1-eac0be63a318"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "url": "https://www.wfaa.com/article/news/crime/dallas-oak-cliff-artist-shot-trail/287-9ff7dcaa-1e82-4c86-8841-c25373cac176"
     },
     {
-      "text": "Investigation underway after house explosion in Plano neighborhood",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "text": "'Fences' artist shot while jogging on Dallas trail",
+      "url": "https://www.wfaa.com/article/news/crime/dallas-oak-cliff-artist-shot-trail/287-9ff7dcaa-1e82-4c86-8841-c25373cac176"
     },
     {
-      "text": "The fire department says this may have been a gas explosion. There were no injuries reported.",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "text": "\"It felt like someone knocked the wind out of me or hit me in the stomach with a bat,\" Lechuga wrote.",
+      "url": "https://www.wfaa.com/article/news/crime/dallas-oak-cliff-artist-shot-trail/287-9ff7dcaa-1e82-4c86-8841-c25373cac176"
+    },
+    {
+      "text": "Man dies after sinkhole opens under swimming pool, dragging him in",
+      "url": "https://www.wfaa.com/article/news/nation-world/israel-swimming-pool-sinkhole/507-1c0a9826-7525-4906-b9d0-4c2865ab4892"
+    },
+    {
+      "text": "NASA's rover finds spaghetti-like bundle of string on Mars",
+      "url": "https://www.wfaa.com/article/news/nation-world/nasas-rover-finds-bundle-of-string-on-mars/507-b97abd5f-9990-418d-8191-327fe76f9663"
     },
     {
       "text": "Jan. 6 hearing: Trump spurned aides' pleas to call off Capitol mob",
@@ -1001,12 +1051,12 @@
       "url": "https://www.wfaa.com/article/news/nation-world/majority-want-legal-abortion-nationally/507-e887f8f3-9999-408a-ac6a-29472b18025c"
     },
     {
-      "text": "NASA's rover finds spaghetti-like bundle of string on Mars",
-      "url": "https://www.wfaa.com/article/news/nation-world/nasas-rover-finds-bundle-of-string-on-mars/507-b97abd5f-9990-418d-8191-327fe76f9663"
+      "text": "Man dies after sinkhole opens under swimming pool, dragging him in",
+      "url": "https://www.wfaa.com/article/news/nation-world/israel-swimming-pool-sinkhole/507-1c0a9826-7525-4906-b9d0-4c2865ab4892"
     },
     {
-      "text": "Polio case reported in New York, first in US in years",
-      "url": "https://www.wfaa.com/article/news/nation-world/new-york-first-us-polio-case-in-a-decade/507-c6e0f772-8c42-472f-9701-1ee7c010c705"
+      "text": "NASA's rover finds spaghetti-like bundle of string on Mars",
+      "url": "https://www.wfaa.com/article/news/nation-world/nasas-rover-finds-bundle-of-string-on-mars/507-b97abd5f-9990-418d-8191-327fe76f9663"
     },
     {
       "text": "Jan. 6 hearing: Trump spurned aides' pleas to call off Capitol mob",
@@ -1025,12 +1075,16 @@
       "url": "https://www.wfaa.com/article/news/nation-world/majority-want-legal-abortion-nationally/507-e887f8f3-9999-408a-ac6a-29472b18025c"
     },
     {
-      "text": "NASA's rover finds spaghetti-like bundle of string on Mars",
-      "url": "https://www.wfaa.com/article/news/nation-world/nasas-rover-finds-bundle-of-string-on-mars/507-b97abd5f-9990-418d-8191-327fe76f9663"
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/features/jj-watt-helps-houston-family-pay-for-funeral/285-1e591aa4-74b9-40f3-8b22-41a95b36b273"
     },
     {
-      "text": "Polio case reported in New York, first in US in years",
-      "url": "https://www.wfaa.com/article/news/nation-world/new-york-first-us-polio-case-in-a-decade/507-c6e0f772-8c42-472f-9701-1ee7c010c705"
+      "text": "Family in shock after JJ Watt helps pay for grandpa's funeral",
+      "url": "https://www.wfaa.com/article/features/jj-watt-helps-houston-family-pay-for-funeral/285-1e591aa4-74b9-40f3-8b22-41a95b36b273"
+    },
+    {
+      "text": "A Houston Texans fan tweeted she was selling some of her JJ Watt gear to raise money to bury her grandpa. Watt told her to keep the items and he'll help with costs.",
+      "url": "https://www.wfaa.com/article/features/jj-watt-helps-houston-family-pay-for-funeral/285-1e591aa4-74b9-40f3-8b22-41a95b36b273"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
@@ -1045,20 +1099,20 @@
       "url": "https://www.wfaa.com/article/life/heartwarming/texas-dog-reunited-with-family-after-8-eight-months-missing-arlington-azle-american-bully/287-1d712a15-8e76-4e80-a475-b9e67f6ee2d9"
     },
     {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
-    },
-    {
-      "text": "'He's my miracle': Houston man with brain tumor given two months to live, but he's still alive six years later",
-      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
-    },
-    {
-      "text": "\u201cTo me, its 100% God,\" said Israel Lemus. \"The first thing I do when I wake up and the last thing I do before going to sleep is thank God for that day.\u201d",
-      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
-    },
-    {
       "text": "More Heartwarming",
       "url": "/section/heartwarming"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/features/jj-watt-helps-houston-family-pay-for-funeral/285-1e591aa4-74b9-40f3-8b22-41a95b36b273"
+    },
+    {
+      "text": "Family in shock after JJ Watt helps pay for grandpa's funeral",
+      "url": "https://www.wfaa.com/article/features/jj-watt-helps-houston-family-pay-for-funeral/285-1e591aa4-74b9-40f3-8b22-41a95b36b273"
+    },
+    {
+      "text": "A Houston Texans fan tweeted she was selling some of her JJ Watt gear to raise money to bury her grandpa. Watt told her to keep the items and he'll help with costs.",
+      "url": "https://www.wfaa.com/article/features/jj-watt-helps-houston-family-pay-for-funeral/285-1e591aa4-74b9-40f3-8b22-41a95b36b273"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
@@ -1073,20 +1127,20 @@
       "url": "https://www.wfaa.com/article/life/heartwarming/texas-dog-reunited-with-family-after-8-eight-months-missing-arlington-azle-american-bully/287-1d712a15-8e76-4e80-a475-b9e67f6ee2d9"
     },
     {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
-    },
-    {
-      "text": "'He's my miracle': Houston man with brain tumor given two months to live, but he's still alive six years later",
-      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
-    },
-    {
-      "text": "\u201cTo me, its 100% God,\" said Israel Lemus. \"The first thing I do when I wake up and the last thing I do before going to sleep is thank God for that day.\u201d",
-      "url": "https://www.wfaa.com/article/news/health/brain-tumor-survivor-miracle/285-fd76e9c7-e6b6-4d5b-bdf4-0710292bb1e4"
-    },
-    {
       "text": "More Heartwarming",
       "url": "/section/heartwarming"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/life/food/blue-bell-flavors-whataburger-shiner-bock-bucees-big-red-chuys/287-54806f3b-c296-43bf-8f17-1efd463f775a"
+    },
+    {
+      "text": "We created 5 *very* Texas Blue Bell flavors you never knew you needed",
+      "url": "https://www.wfaa.com/article/life/food/blue-bell-flavors-whataburger-shiner-bock-bucees-big-red-chuys/287-54806f3b-c296-43bf-8f17-1efd463f775a"
+    },
+    {
+      "text": "Don't lie to yourself ... you would 100% try these.",
+      "url": "https://www.wfaa.com/article/life/food/blue-bell-flavors-whataburger-shiner-bock-bucees-big-red-chuys/287-54806f3b-c296-43bf-8f17-1efd463f775a"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
@@ -1102,15 +1156,15 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "url": "https://www.wfaa.com/article/life/food/blue-bell-flavors-whataburger-shiner-bock-bucees-big-red-chuys/287-54806f3b-c296-43bf-8f17-1efd463f775a"
     },
     {
-      "text": "Investigation underway after house explosion in Plano neighborhood",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "text": "We created 5 *very* Texas Blue Bell flavors you never knew you needed",
+      "url": "https://www.wfaa.com/article/life/food/blue-bell-flavors-whataburger-shiner-bock-bucees-big-red-chuys/287-54806f3b-c296-43bf-8f17-1efd463f775a"
     },
     {
-      "text": "The fire department says this may have been a gas explosion. There were no injuries reported.",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "text": "Don't lie to yourself ... you would 100% try these.",
+      "url": "https://www.wfaa.com/article/life/food/blue-bell-flavors-whataburger-shiner-bock-bucees-big-red-chuys/287-54806f3b-c296-43bf-8f17-1efd463f775a"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
@@ -1126,63 +1180,51 @@
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "url": "https://www.wfaa.com/article/sports/soccer/mls-skills-challenge-jesus-ferreira-2022/287-e37c91a4-e7fd-4ff9-9f7e-a28c90edf2bc"
     },
     {
-      "text": "Investigation underway after house explosion in Plano neighborhood",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
+      "text": "FC Dallas striker Jesus Ferreira to compete in MLS All-Star skills challenge",
+      "url": "https://www.wfaa.com/article/sports/soccer/mls-skills-challenge-jesus-ferreira-2022/287-e37c91a4-e7fd-4ff9-9f7e-a28c90edf2bc"
     },
     {
-      "text": "The fire department says this may have been a gas explosion. There were no injuries reported.",
-      "url": "https://www.wfaa.com/article/news/local/plano-house-explosion-shantara-lane/287-b40e9458-a5b3-4ad6-a0f9-591447950f08"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
-    },
-    {
-      "text": "Alvarez homers as Astros down Yankees 7-5 for DH sweep",
-      "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
-    },
-    {
-      "text": "Yordan Alvarez and Alex Bregman both homered and combined for five RBIs as the Astros completed a doubleheader sweep of the Yankees.",
-      "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+      "text": "The MLS All-Star Skills Challenge will kick off at 7:30 p.m. on Aug. 9 from at Allianz Field in Minnesota. It will air on ESPN2.",
+      "url": "https://www.wfaa.com/article/sports/soccer/mls-skills-challenge-jesus-ferreira-2022/287-e37c91a4-e7fd-4ff9-9f7e-a28c90edf2bc"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/nation-world/texas-sen-john-cornyn-resolution-brittney-griners-release/269-100d0a7e-9637-433c-8b74-761071211675"
+      "url": "https://www.wfaa.com/article/news/politics/charles-barkley-goes-viral-for-lgbtq-support/89-d81471d0-397b-4954-b7f6-1cd71a80c0bf"
     },
     {
-      "text": "Texas Sen. John Cornyn creates resolution calling for Brittney Griner's release",
-      "url": "https://www.wfaa.com/article/news/nation-world/texas-sen-john-cornyn-resolution-brittney-griners-release/269-100d0a7e-9637-433c-8b74-761071211675"
+      "text": "NBA legend goes viral for support of LGBTQ+ community",
+      "url": "https://www.wfaa.com/article/news/politics/charles-barkley-goes-viral-for-lgbtq-support/89-d81471d0-397b-4954-b7f6-1cd71a80c0bf"
     },
     {
-      "text": "The WNBA star has been detained in Russia since February.",
-      "url": "https://www.wfaa.com/article/news/nation-world/texas-sen-john-cornyn-resolution-brittney-griners-release/269-100d0a7e-9637-433c-8b74-761071211675"
-    },
-    {
-      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
-    },
-    {
-      "text": "Alvarez homers as Astros down Yankees 7-5 for DH sweep",
-      "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
-    },
-    {
-      "text": "Yordan Alvarez and Alex Bregman both homered and combined for five RBIs as the Astros completed a doubleheader sweep of the Yankees.",
-      "url": "https://www.wfaa.com/article/sports/houston-astros/285-34b6c663-66e2-4bf8-b3e8-272b9d259af3"
+      "text": "The basketball Hall of Famer showcased his support for the LGBTQ+ community last week during a golf tournament in Lake Tahoe.",
+      "url": "https://www.wfaa.com/article/news/politics/charles-barkley-goes-viral-for-lgbtq-support/89-d81471d0-397b-4954-b7f6-1cd71a80c0bf"
     },
     {
       "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
-      "url": "https://www.wfaa.com/article/news/nation-world/texas-sen-john-cornyn-resolution-brittney-griners-release/269-100d0a7e-9637-433c-8b74-761071211675"
+      "url": "https://www.wfaa.com/article/sports/soccer/mls-skills-challenge-jesus-ferreira-2022/287-e37c91a4-e7fd-4ff9-9f7e-a28c90edf2bc"
     },
     {
-      "text": "Texas Sen. John Cornyn creates resolution calling for Brittney Griner's release",
-      "url": "https://www.wfaa.com/article/news/nation-world/texas-sen-john-cornyn-resolution-brittney-griners-release/269-100d0a7e-9637-433c-8b74-761071211675"
+      "text": "FC Dallas striker Jesus Ferreira to compete in MLS All-Star skills challenge",
+      "url": "https://www.wfaa.com/article/sports/soccer/mls-skills-challenge-jesus-ferreira-2022/287-e37c91a4-e7fd-4ff9-9f7e-a28c90edf2bc"
     },
     {
-      "text": "The WNBA star has been detained in Russia since February.",
-      "url": "https://www.wfaa.com/article/news/nation-world/texas-sen-john-cornyn-resolution-brittney-griners-release/269-100d0a7e-9637-433c-8b74-761071211675"
+      "text": "The MLS All-Star Skills Challenge will kick off at 7:30 p.m. on Aug. 9 from at Allianz Field in Minnesota. It will air on ESPN2.",
+      "url": "https://www.wfaa.com/article/sports/soccer/mls-skills-challenge-jesus-ferreira-2022/287-e37c91a4-e7fd-4ff9-9f7e-a28c90edf2bc"
+    },
+    {
+      "text": "\n                                    !function(){if (!document.hidden) {let e=document.currentScript;void 0!==window.tegna&&!0===window.tegna.loaded||new window.IntersectionObserver(function(e,a){e.forEach(function(e){if(e.isIntersecting){const a=e.target.querySelectorAll(\".lazy-image__image\")[0],t=e.target.querySelectorAll(\".lazy-image__placeholder\")[0];a.src=a.dataset.src,a.srcset=a.dataset.srcset,e.target.dataset.preloaded=\"true\",a.classList.remove(\"lazy-image__image_loaded_false\"),a.classList.add(\"lazy-image__image_loaded_true\"),a.classList.remove(\"lazy-image__image_blur_true\"),a.classList.add(\"lazy-image__image_blur_false\"),t.classList.remove(\"lazy-image__placeholder_visible_true\"),t.classList.add(\"lazy-image__placeholder_visible_false\")}a.unobserve(e.target)})}).observe(e.parentElement)}}();\n                                ",
+      "url": "https://www.wfaa.com/article/news/politics/charles-barkley-goes-viral-for-lgbtq-support/89-d81471d0-397b-4954-b7f6-1cd71a80c0bf"
+    },
+    {
+      "text": "NBA legend goes viral for support of LGBTQ+ community",
+      "url": "https://www.wfaa.com/article/news/politics/charles-barkley-goes-viral-for-lgbtq-support/89-d81471d0-397b-4954-b7f6-1cd71a80c0bf"
+    },
+    {
+      "text": "The basketball Hall of Famer showcased his support for the LGBTQ+ community last week during a golf tournament in Lake Tahoe.",
+      "url": "https://www.wfaa.com/article/news/politics/charles-barkley-goes-viral-for-lgbtq-support/89-d81471d0-397b-4954-b7f6-1cd71a80c0bf"
     },
     {
       "text": "\n             About Us",
@@ -1338,7 +1380,7 @@
     }
   ],
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }
