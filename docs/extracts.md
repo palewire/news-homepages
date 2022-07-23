@@ -79,7 +79,7 @@ Field | Description
 `handle` | The Twitter handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
-`mtime` | The time the file was last modified by the Internet Archive in [Unix time](https://en.wikipedia.org/wiki/Unix_time)
+`mtime` | The time the file was last modified by the Internet Archive in UTC time
 `size` | The size of the file in bytz
 `md5` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [md5](https://en.wikipedia.org/wiki/Md5sum) hashing
 `sha1` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [sh1](https://en.wikipedia.org/wiki/Sha1sum) hashing
@@ -97,7 +97,7 @@ Field | Description
 `handle` | The Twitter handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
-`mtime` | The time the file was last modified by the Internet Archive in [Unix time](https://en.wikipedia.org/wiki/Unix_time)
+`mtime` | The time the file was last modified by the Internet Archive in UTC time
 `size` | The size of the file in bytz
 `md5` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [md5](https://en.wikipedia.org/wiki/Md5sum) hashing
 `sha1` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [sh1](https://en.wikipedia.org/wiki/Sha1sum) hashing
@@ -115,7 +115,7 @@ Field | Description
 `handle` | The Twitter handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
-`mtime` | The time the file was last modified by the Internet Archive in [Unix time](https://en.wikipedia.org/wiki/Unix_time)
+`mtime` | The time the file was last modified by the Internet Archive in UTC time
 `size` | The size of the file in bytz
 `md5` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [md5](https://en.wikipedia.org/wiki/Md5sum) hashing
 `sha1` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [sh1](https://en.wikipedia.org/wiki/Sha1sum) hashing
@@ -132,7 +132,7 @@ Field | Description
 `handle` | The Twitter handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
-`mtime` | The time the file was last modified by the Internet Archive in [Unix time](https://en.wikipedia.org/wiki/Unix_time)
+`mtime` | The time the file was last modified by the Internet Archive in UTC time
 `size` | The size of the file in bytz
 `md5` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [md5](https://en.wikipedia.org/wiki/Md5sum) hashing
 `sha1` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [sh1](https://en.wikipedia.org/wiki/Sha1sum) hashing
