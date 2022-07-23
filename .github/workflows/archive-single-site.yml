@@ -22,7 +22,9 @@ jobs:
 #    secrets: inherit
 
   lighthouse:
+    name: Lighthouse audit
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - id: checkout
         name: Checkout
