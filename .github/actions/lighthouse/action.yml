@@ -25,6 +25,7 @@ runs:
       uses: treosh/lighthouse-ci-action@v9
       with:
         urls: ${{ steps.geturl.outputs.url }}
+        runs: 3
 
     - id: mv
       name: Move report
