@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 570 news sites.
+The most recent homepages captured from 572 news sites.
 
 <div class="latest-parent">
 
@@ -2141,6 +2141,15 @@ The most recent homepages captured from 570 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/huffpostcanada.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpostcanada.jpg"
+     alt="HuffPost Canada"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/huffpostcanada.html">HuffPost Canada</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/humanevents.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humanevents.jpg"
      alt="Human Events"
@@ -3479,6 +3488,15 @@ The most recent homepages captured from 570 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/oregonian.html">Oregonian</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/occrp.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/occrp.jpg"
+     alt="Organized Crime and Corruption Reporting Project"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/occrp.html">Organized Crime and Corruption Reporting Project</a></p>
 </div>
 
 <div class="latest-child">
