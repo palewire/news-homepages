@@ -16,7 +16,7 @@ runs:
     - id: geturl
       name: Get URL
       run: |
-        export URL=$(pipenv run python -c "from newshomepages import utils; print(utils.get_site('${{ inputs.handle }}')['url'])")
+        export URL=$(pipenv run python -c "from newshomepages import utils; print(utils.get_site('${{ inputs.source }}')['url'])")
         echo "::set-output name=url::$(echo $URL)"
       shell: bash
 
@@ -28,11 +28,11 @@ runs:
 
     - id: mv
       name: Move report
-      run: mv ${{ steps.audit.outputs.resultsPath }} ./${{ inputs.handle }}
+      run: mv ${{ steps.audit.outputs.resultsPath }} ./${{ inputs.source }}
       shell: bash
 
     - name: Upload results as an artifact
       uses: actions/upload-artifact@master
       with:
         name: lighthouse
-        path: ./${{ inputs.handle }}
+        path: ./${{ inputs.source }}
