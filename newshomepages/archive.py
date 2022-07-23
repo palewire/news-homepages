@@ -30,6 +30,7 @@ def _upload(data: dict, input_dir: str):
     image_path = input_path / f"{handle}.jpg"
     a11y_path = input_path / f"{handle}.accessibility.json"
     hyperlinks_path = input_path / f"{handle}.hyperlinks.json"
+    lighthouse_path = input_path / f"{handle}.lighthouse.json"
 
     # Get the timestamp
     now = datetime.now()
@@ -50,6 +51,8 @@ def _upload(data: dict, input_dir: str):
         file_dict[f"{handle}-{now_iso}.accessibility.json"] = a11y_path
     if hyperlinks_path.exists():
         file_dict[f"{handle}-{now_iso}.hyperlinks.json"] = hyperlinks_path
+    if lighthouse_path.exists():
+        file_dict[f"{handle}-{now_iso}.lighthouse.json"] = lighthouse_path
 
     # If there are no file, squawk but move on
     if not file_dict:

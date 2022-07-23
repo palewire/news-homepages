@@ -30,11 +30,11 @@ runs:
     - id: mv
       name: Move report
       run: |
-        mv ${{ steps.audit.outputs.resultsPath }}/manifest.json ./${{ inputs.source }}.json
+        mv ${{ steps.audit.outputs.resultsPath }}/manifest.json ./${{ inputs.source }}.lighthouse.json
       shell: bash
 
     - name: Upload results as an artifact
       uses: actions/upload-artifact@master
       with:
         name: lighthouse
-        path: ./${{ inputs.source }}.json
+        path: ./${{ inputs.source }}.lighthouse.json

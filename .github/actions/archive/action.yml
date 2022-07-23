@@ -34,6 +34,10 @@ runs:
       with:
         name: hyperlinks
 
+    - uses: actions/download-artifact@v3
+      with:
+        name: lighthouse
+
     - id: archive
       name: Archive
       run: |
