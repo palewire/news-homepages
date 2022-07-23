@@ -17,7 +17,7 @@ orphan: true
 | Location       | Palm Springs                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 269 screenshots stored at the Internet Archive.
+The archiving routine has captured 272 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

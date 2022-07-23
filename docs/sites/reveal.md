@@ -17,7 +17,7 @@ orphan: true
 | Location       | Emeryville                                                                 |
 | Timezone       | America/Los_Angeles                                                                 |
 
-The archiving routine has captured 91 screenshots stored at the Internet Archive.
+The archiving routine has captured 93 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

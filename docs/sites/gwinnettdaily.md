@@ -17,7 +17,7 @@ orphan: true
 | Location       | Lawrenceville                                                                 |
 | Timezone       | America/New_York                                                                 |
 
-The archiving routine has captured 5 screenshots stored at the Internet Archive.
+The archiving routine has captured 7 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

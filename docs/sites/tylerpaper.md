@@ -17,7 +17,7 @@ orphan: true
 | Location       | Tyler                                                                 |
 | Timezone       | America/Chicago                                                                 |
 
-The archiving routine has captured 11 screenshots stored at the Internet Archive.
+The archiving routine has captured 13 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

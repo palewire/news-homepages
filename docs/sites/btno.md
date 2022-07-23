@@ -17,7 +17,7 @@ orphan: true
 | Location       | Bergen                                                                 |
 | Timezone       | Europe/Oslo                                                                 |
 
-The archiving routine has captured 6 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

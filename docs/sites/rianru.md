@@ -17,7 +17,7 @@ orphan: true
 | Location       | Moscow                                                                 |
 | Timezone       | Europe/Moscow                                                                 |
 
-The archiving routine has captured 116 screenshots stored at the Internet Archive.
+The archiving routine has captured 119 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
