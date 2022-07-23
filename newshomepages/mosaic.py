@@ -1,3 +1,4 @@
+import json
 import math
 import random
 from pathlib import Path
@@ -22,7 +23,10 @@ def jpg(input_dir: str, output_dir: str):
     # Get a list of images
     input_path = Path(input_dir)
     input_path.mkdir(parents=True, exist_ok=True)
-    image_paths = sorted(list(input_path.glob("*.jpg")))
+    image_list = list(input_path.glob("*.jpg"))
+    image_paths = sorted(
+        image_list, key=lambda x: utils.get_site(x.stem)["name"].lower()
+    )
     click.echo(f"{len(image_paths)} images discovered in {input_path}")
 
     # Set the output path
@@ -34,7 +38,7 @@ def jpg(input_dir: str, output_dir: str):
     for i in range(slide_count):
         selected_images = []
         for _x in range(n * n):
-            selected_images.append(image_paths.pop())
+            selected_images.append(image_paths.pop(0))
 
         size = (600, 388)
         shape = (n, n)
@@ -61,6 +65,10 @@ def jpg(input_dir: str, output_dir: str):
         # Save an output
         click.echo(f"Writing mosiac {i+1} to {output_path}")
         image.save(output_path / f"{i+1}.jpg", "JPEG")
+
+        # Write a JSON file out with the names of the images, for use in alt text, etc.
+        name_list = [utils.get_site(h.stem)["name"] for h in selected_images]
+        json.dump(name_list, open(output_path / f"{i+1}.json", "w"), indent=2)
 
 
 @cli.command()

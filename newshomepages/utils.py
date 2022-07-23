@@ -67,7 +67,7 @@ def get_bundle_list() -> typing.List[typing.Dict]:
     return bundle_list
 
 
-def get_site(handle: typing.AnyStr) -> typing.Dict:
+def get_site(handle: str) -> typing.Dict:
     """Get the metadata for the provided site.
 
     Args:
@@ -76,7 +76,10 @@ def get_site(handle: typing.AnyStr) -> typing.Dict:
     Returns a dictionary.
     """
     site_list = get_site_list()
-    return next(d for d in site_list if d["handle"].lower() == handle.lower())
+    try:
+        return next(d for d in site_list if d["handle"].lower() == handle.lower())
+    except StopIteration:
+        raise ValueError(f"The handle {handle} could not be found")
 
 
 def get_bundle(slug: str) -> typing.Dict:
