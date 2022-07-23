@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 572 sites.
+The archiving routine is currently capturing 574 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -34,6 +34,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Ames Tribune](https://palewi.re/docs/news-homepages/sites/amestribnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amestribnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amestribnews.xml)|
 |[Animal Político](https://palewi.re/docs/news-homepages/sites/pajaropolitico.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pajaropolitico.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pajaropolitico.xml)|
 |[APM Reports](https://palewi.re/docs/news-homepages/sites/apmreports.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/apmreports.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/apmreports.xml)|
+|[Appeal](https://palewi.re/docs/news-homepages/sites/theappeal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theappeal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theappeal.xml)|
 |[Appleton Post Crescent](https://palewi.re/docs/news-homepages/sites/postcrescent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/postcrescent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/postcrescent.xml)|
 |[Arizona Center for Investigative Reporting](https://palewi.re/docs/news-homepages/sites/arizcir.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/arizcir.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/arizcir.xml)|
 |[Arizona Daily Star](https://palewi.re/docs/news-homepages/sites/tucsonstar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonstar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tucsonstar.xml)|
@@ -454,6 +455,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Santa Fe New Mexican](https://palewi.re/docs/news-homepages/sites/thenewmexican.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewmexican.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thenewmexican.xml)|
 |[Savannah Morning News](https://palewi.re/docs/news-homepages/sites/savannahnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/savannahnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/savannahnow.xml)|
 |[SB Nation](https://palewi.re/docs/news-homepages/sites/sbnation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sbnation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sbnation.xml)|
+|[Scalawag](https://palewi.re/docs/news-homepages/sites/scalawagmag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scalawagmag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scalawagmag.xml)|
 |[Scotsman](https://palewi.re/docs/news-homepages/sites/thescotsman.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thescotsman.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thescotsman.xml)|
 |[Scottish Sun](https://palewi.re/docs/news-homepages/sites/scottishsun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scottishsun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scottishsun.xml)|
 |[SCOTUS Blog](https://palewi.re/docs/news-homepages/sites/scotusblog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scotusblog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scotusblog.xml)|

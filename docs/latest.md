@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 572 news sites.
+The most recent homepages captured from 574 news sites.
 
 <div class="latest-parent">
 
@@ -230,6 +230,15 @@ The most recent homepages captured from 572 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/apmreports.html">APM Reports</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theappeal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theappeal.jpg"
+     alt="Appeal"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/theappeal.html">Appeal</a></p>
 </div>
 
 <div class="latest-child">
@@ -4010,6 +4019,15 @@ The most recent homepages captured from 572 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/sbnation.html">SB Nation</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/scalawagmag.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scalawagmag.jpg"
+     alt="Scalawag"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/scalawagmag.html">Scalawag</a></p>
 </div>
 
 <div class="latest-child">
