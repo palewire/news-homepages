@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 561 news sites.
+The most recent homepages captured from 567 news sites.
 
 <div class="latest-parent">
 
@@ -1070,6 +1070,15 @@ The most recent homepages captured from 561 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/climatecentral.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/climatecentral.jpg"
+     alt="Climate Central"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/climatecentral.html">Climate Central</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/cnet.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnet.jpg"
      alt="CNET"
@@ -1220,6 +1229,15 @@ The most recent homepages captured from 561 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/dailycaller.html">Daily Caller</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thedailyclimate.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailyclimate.jpg"
+     alt="Daily Climate"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/thedailyclimate.html">Daily Climate</a></p>
 </div>
 
 <div class="latest-child">
@@ -2591,6 +2609,15 @@ The most recent homepages captured from 561 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/labornotes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/labornotes.jpg"
+     alt="Labor Notes"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/labornotes.html">Labor Notes</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/lacrossetribune.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lacrossetribune.jpg"
      alt="LaCrosse Tribune"
@@ -2975,6 +3002,15 @@ The most recent homepages captured from 561 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/mtlgazette.html">Montreal Gazette</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/moreperfectus.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/moreperfectus.jpg"
+     alt="More Perfect Union"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/moreperfectus.html">More Perfect Union</a></p>
 </div>
 
 <div class="latest-child">
@@ -4121,6 +4157,15 @@ The most recent homepages captured from 561 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/statnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/statnews.jpg"
+     alt="STAT"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/statnews.html">STAT</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/stevenspointjrl.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stevenspointjrl.jpg"
      alt="Stevens Point Journal"
@@ -4145,6 +4190,15 @@ The most recent homepages captured from 561 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/sltimes.html">Storm Lake Times</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/strikewave.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/strikewave.jpg"
+     alt="Strikewave"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/strikewave.html">Strikewave</a></p>
 </div>
 
 <div class="latest-child">

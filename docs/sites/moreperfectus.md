@@ -1,0 +1,23 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# More Perfect Union
+
+![More Perfect Union](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/moreperfectus.jpg)
+
+| Attribute      | Value                                                                               |
+| :------------- | :---------------------------------------------------------------------------------- |
+| Site           | [https://perfectunion.us/](https://perfectunion.us/)                                                    |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/moreperfectus.xml) |
+| Twitter handle | [@MorePerfectUS](https://www.twitter.com/MorePerfectUS)                     |
+| Location       | Washington                                                                 |
+| Timezone       | America/New_York                                                                 |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |
