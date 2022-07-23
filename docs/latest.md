@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 567 news sites.
+The most recent homepages captured from 570 news sites.
 
 <div class="latest-parent">
 
@@ -791,6 +791,15 @@ The most recent homepages captured from 567 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/capitalandmain.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capitalandmain.jpg"
+     alt="Capital & Main"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/capitalandmain.html">Capital & Main</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/capitalb_atl.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capitalb_atl.jpg"
      alt="Capital B Atlanta"
@@ -1220,6 +1229,15 @@ The most recent homepages captured from 567 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/dagsavisen.html">Dagsavisen</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thedailybeast.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailybeast.jpg"
+     alt="Daily Beast"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/thedailybeast.html">Daily Beast</a></p>
 </div>
 
 <div class="latest-child">
@@ -5090,6 +5108,15 @@ The most recent homepages captured from 567 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/jn_japanese.html">Yomiuri shinbun</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/yorkdispatch.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yorkdispatch.jpg"
+     alt="York Dispatch"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/yorkdispatch.html">York Dispatch</a></p>
 </div>
 
 <div class="latest-child">

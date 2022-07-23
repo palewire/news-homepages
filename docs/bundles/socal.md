@@ -7,7 +7,7 @@ orphan: true
 
 # Southern California
 
-The most recent homepages from 20 news sites in this bundle.
+The most recent homepages from 21 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -18,6 +18,15 @@ The most recent homepages from 20 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/abc7.html">ABC7</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/capitalandmain.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capitalandmain.jpg"
+     alt="Capital & Main"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/capitalandmain.html">Capital & Main</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,6 +216,7 @@ The most recent homepages from 20 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[ABC7](https://palewi.re/docs/news-homepages/sites/abc7.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abc7.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abc7.xml)|
+|[Capital & Main](https://palewi.re/docs/news-homepages/sites/capitalandmain.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capitalandmain.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capitalandmain.xml)|
 |[FOX 11 Los Angeles](https://palewi.re/docs/news-homepages/sites/foxla.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxla.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foxla.xml)|
 |[inewsource](https://palewi.re/docs/news-homepages/sites/inewsource.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inewsource.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/inewsource.xml)|
 |[KCRW](https://palewi.re/docs/news-homepages/sites/kcrw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcrw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcrw.xml)|
