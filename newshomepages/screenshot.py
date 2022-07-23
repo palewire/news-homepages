@@ -110,6 +110,7 @@ def _screenshot(
             "#header-cts",
             ".pum-overlay",  # Common takeover ad
             "#pico_prompt",
+            "#pico_header",
             ".mol-ads-cmp",  # Footer toaster thing on some sites
             ".gdpr-glm-standard",  # GDPR blockers on some sites
             "#didomi-host",  # Common cookies popup
