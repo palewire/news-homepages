@@ -1,0 +1,24 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# Rajdhani Daily
+
+![Rajdhani Daily](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rajdhani_daily.jpg)
+
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://rajdhanidaily.com/](https://rajdhanidaily.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rajdhani_daily.xml)                                                              |
+| Twitter handle | [@Rajdhani_daily](https://www.twitter.com/Rajdhani_daily)                                                                                  |
+| Location       | Kathmandu                                                                                                                              |
+| Timezone       | Asia/Kathmandu                                                                                                                              |
+| Bundles        | <a href="../bundles/nepal.html">Nepal</a>  |
+
+The archiving routine has captured 0 screenshots stored at the Internet Archive.
+
+| Item  |
+| :---- |
