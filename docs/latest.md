@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 574 news sites.
+The most recent homepages captured from 577 news sites.
 
 <div class="latest-parent">
 
@@ -4616,6 +4616,15 @@ The most recent homepages captured from 574 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/timesofindia.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesofindia.jpg"
+     alt="Times of India"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/timesofindia.html">Times of India</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/tmz.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tmz.jpg"
      alt="TMZ"
@@ -4703,6 +4712,15 @@ The most recent homepages captured from 574 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/tylerpaper.html">Tyler Morning Telegraph</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/usnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usnews.jpg"
+     alt="U.S. News & World Report"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/usnews.html">U.S. News & World Report</a></p>
 </div>
 
 <div class="latest-child">
@@ -4991,6 +5009,15 @@ The most recent homepages captured from 574 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/wbez.html">WBEZ</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/uwogazette.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uwogazette.jpg"
+     alt="Western Gazette"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/uwogazette.html">Western Gazette</a></p>
 </div>
 
 <div class="latest-child">

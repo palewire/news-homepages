@@ -1,46 +1,5 @@
 {
-  "alternet-2022": [
-    {
-      "url": "https://www.alternet.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alternet_org-_-2022_07_23_18_09_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alternet_org-_-2022_07_23_18_09_31.report.json",
-      "summary": {
-        "performance": 0.34,
-        "accessibility": 0.82,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://www.alternet.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alternet_org-_-2022_07_23_18_10_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alternet_org-_-2022_07_23_18_10_03.report.json",
-      "summary": {
-        "performance": 0.4,
-        "accessibility": 0.82,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://www.alternet.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alternet_org-_-2022_07_23_18_09_49.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alternet_org-_-2022_07_23_18_09_49.report.json",
-      "summary": {
-        "performance": 0.43,
-        "accessibility": 0.82,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.9
-      }
-    }
-  ],
-  "created": 1658610877,
+  "created": 1658617250,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/alternet-2022",
@@ -823,31 +782,83 @@
       "sha1": "4255fd22dd8a586968d336ba5eeefc26c0481629"
     },
     {
+      "name": "alternet-2022-07-23T18:57:37.253843-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658617061",
+      "size": "11104",
+      "md5": "6dd06a4f157ef1a38c16b87f62dfb29e",
+      "crc32": "317690fc",
+      "sha1": "e58b5dabedcd05b24e36c2b39901a61367b1d322",
+      "format": "JSON"
+    },
+    {
+      "name": "alternet-2022-07-23T18:57:37.253843-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658617063",
+      "size": "20742",
+      "md5": "2d2404cd14ad7a94c13037c0530ec282",
+      "crc32": "5756890a",
+      "sha1": "a18ef8172554c6eb8d8fbc65f466e44e251b9a4e",
+      "format": "JSON"
+    },
+    {
+      "name": "alternet-2022-07-23T18:57:37.253843-04:00.jpg",
+      "source": "original",
+      "mtime": "1658617059",
+      "size": "269113",
+      "md5": "d98868e1df013d49431b72bf341be70a",
+      "crc32": "31cc7b1b",
+      "sha1": "92916de0bd6ef10d391c1574ad297ab6cff3fb35",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alternet-2022-07-23T18:57:37.253843-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658617064",
+      "size": "1477",
+      "md5": "71314d2ff3de4a91f3632154e353fead",
+      "crc32": "7b4a4bbc",
+      "sha1": "6df7a31b588971b256171c786f94c2bfb655b810",
+      "format": "JSON"
+    },
+    {
+      "name": "alternet-2022-07-23T18:57:37.253843-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alternet-2022-07-23T18:57:37.253843-04:00.jpg",
+      "mtime": "1658617145",
+      "size": "11165",
+      "md5": "53b25d64607b72d76c130290d576960e",
+      "crc32": "9cd561e1",
+      "sha1": "4100c2ae9283074b9844e66e18320d553fb95b85"
+    },
+    {
       "name": "alternet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ae6cc02b056728381fd1506c99d46ea8a776dc3",
-      "mtime": "1658599982",
-      "size": "16978",
-      "md5": "9842e4620785c75d08d5c8ee96333978",
-      "crc32": "0e17b5db",
-      "sha1": "53ee35e02c651cfbeda62d77c1114d0adf58fdec",
+      "btih": "844621f45e4c2e57ebb5dd7f770f667ed5f597a7",
+      "mtime": "1658617186",
+      "size": "18018",
+      "md5": "7fcf00e49b18f72334f9a9f4a3726534",
+      "crc32": "1b24bb70",
+      "sha1": "e4997ac00a4bd7f791562521044417ab65571930",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alternet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9ded6faac2e8ba7bfb0f9eb4296b4d8f",
+      "md5": "e633587d64bae2400bca0036f370c033",
       "summation": "md5"
     },
     {
       "name": "alternet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658599920",
-      "size": "106496",
-      "md5": "39f858475bf93e50696f41d915391937",
-      "crc32": "0bad2fc7",
-      "sha1": "116ff20d032c97764b4e54804034094f2f776891",
+      "mtime": "1658617068",
+      "size": "110592",
+      "md5": "c72815aebfb22b5bb2be7bedef64e001",
+      "crc32": "11415048",
+      "sha1": "2b4e5fa82b5669df018d03db1bf7763e8d916a2b",
       "format": "Metadata"
     },
     {
@@ -861,9 +872,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 78,
-  "item_last_updated": 1658599982,
-  "item_size": 5390602,
+  "files_count": 83,
+  "item_last_updated": 1658617186,
+  "item_size": 5709339,
   "metadata": {
     "identifier": "alternet-2022",
     "collection": [
@@ -881,7 +892,7 @@
     "addeddate": "2022-07-17 15:59:54"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 865606166,
+  "uniq": 1684747552,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

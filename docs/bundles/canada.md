@@ -7,7 +7,7 @@ orphan: true
 
 # Canada
 
-The most recent homepages from 18 news sites in this bundle.
+The most recent homepages from 19 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -173,6 +173,15 @@ The most recent homepages from 18 news sites in this bundle.
  <p><a href="../sites/vancouversun.html">Vancouver Sun</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/uwogazette.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uwogazette.jpg"
+     alt="Western Gazette"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/uwogazette.html">Western Gazette</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -206,3 +215,4 @@ The most recent homepages from 18 news sites in this bundle.
 |[Toronto Star](https://palewi.re/docs/news-homepages/sites/torontostar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/torontostar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/torontostar.xml)|
 |[Toronto Sun](https://palewi.re/docs/news-homepages/sites/thetorontosun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetorontosun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetorontosun.xml)|
 |[Vancouver Sun](https://palewi.re/docs/news-homepages/sites/vancouversun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vancouversun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/vancouversun.xml)|
+|[Western Gazette](https://palewi.re/docs/news-homepages/sites/uwogazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uwogazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/uwogazette.xml)|
