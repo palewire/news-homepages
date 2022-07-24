@@ -92,6 +92,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: sources
+    continue-on-error: true
     strategy:
       fail-fast: false
       matrix:
@@ -114,6 +115,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     needs: sources
+    continue-on-error: true
     strategy:
       fail-fast: false
       matrix:
