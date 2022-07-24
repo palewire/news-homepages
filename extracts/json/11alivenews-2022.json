@@ -1,5 +1,5 @@
 {
-  "created": 1658617355,
+  "created": 1658660222,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/33/items/11alivenews-2022",
@@ -351,31 +351,83 @@
       "sha1": "0c7608cd4d111afbd24f79f78d5d598f3a9afd58"
     },
     {
+      "name": "11alivenews-2022-07-24T06:55:04.076422-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658660107",
+      "size": "25503",
+      "md5": "44c9bc3d6862f377bcf7542515586eab",
+      "crc32": "111bbec5",
+      "sha1": "e11653426bc2cddd31364f466d37a34b88516e8a",
+      "format": "JSON"
+    },
+    {
+      "name": "11alivenews-2022-07-24T06:55:04.076422-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658660108",
+      "size": "81006",
+      "md5": "6c859d0612677d886c7c6c57a6443733",
+      "crc32": "3838a43c",
+      "sha1": "2bc89c9e2aae2fe00729145d90b7b57eb60dadb1",
+      "format": "JSON"
+    },
+    {
+      "name": "11alivenews-2022-07-24T06:55:04.076422-04:00.jpg",
+      "source": "original",
+      "mtime": "1658660106",
+      "size": "252732",
+      "md5": "b98475af99d2506258c4cb42bd9181bb",
+      "crc32": "cd3da5e0",
+      "sha1": "4491e04e9a3dd42b4fc149bd0324576f4df040a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "11alivenews-2022-07-24T06:55:04.076422-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658660110",
+      "size": "1465",
+      "md5": "f6e2e90bef20e9e366967137f26cb121",
+      "crc32": "e12ecbc8",
+      "sha1": "0967b1d0f05662e72100286778e71082172cf6c5",
+      "format": "JSON"
+    },
+    {
+      "name": "11alivenews-2022-07-24T06:55:04.076422-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "11alivenews-2022-07-24T06:55:04.076422-04:00.jpg",
+      "mtime": "1658660193",
+      "size": "9307",
+      "md5": "5ae17a236923a11139b4b9550b455e94",
+      "crc32": "46e9192a",
+      "sha1": "a3c284b72c905951e26e097b7a6964cf7e4446e0"
+    },
+    {
       "name": "11alivenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "150ed473718cc2710340a86c4f48f5290354f39c",
-      "mtime": "1658617261",
-      "size": "8690",
-      "md5": "e62c881bff94176c221766ad42213697",
-      "crc32": "7ccef41a",
-      "sha1": "e3ff668f8035bd264b647c5229d2e840ecb495f3",
+      "btih": "72c4dbb32ce283150931cf9da6193ade5a6fe1d6",
+      "mtime": "1658660196",
+      "size": "9764",
+      "md5": "814a322c794ae501a39f3bc01128811d",
+      "crc32": "35041de5",
+      "sha1": "0714bc5503705b414f87ab33771a6e3c2fea4e2e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "11alivenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbfe47973964ed3c795a6150483f0289",
+      "md5": "40d40623db0290bc4d61b595d2373d1d",
       "summation": "md5"
     },
     {
       "name": "11alivenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658617089",
-      "size": "57344",
-      "md5": "d3318444f52cf4681fc44b1e832fc9e3",
-      "crc32": "24494da1",
-      "sha1": "f9c320a961a9b22200f49a8248c28c0f474ae1e7",
+      "mtime": "1658660114",
+      "size": "61440",
+      "md5": "af8b6f2e00d39e36a7f7e4f2dd4a3bff",
+      "crc32": "a9a05196",
+      "sha1": "f4cc7c71fa4755ec9daffac81656088b81a6ef8f",
       "format": "Metadata"
     },
     {
@@ -400,9 +452,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 38,
-  "item_last_updated": 1658617261,
-  "item_size": 3022269,
+  "files_count": 43,
+  "item_last_updated": 1658660196,
+  "item_size": 3397452,
   "metadata": {
     "identifier": "11alivenews-2022",
     "collection": [
@@ -419,10 +471,10 @@
     "publicdate": "2022-07-20 23:30:32",
     "addeddate": "2022-07-20 23:30:32"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 847848654,
+  "server": "ia902504.us.archive.org",
+  "uniq": 1563429966,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

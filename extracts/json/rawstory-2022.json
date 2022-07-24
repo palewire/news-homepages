@@ -1,5 +1,5 @@
 {
-  "created": 1658622489,
+  "created": 1658664840,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/rawstory-2022",
@@ -782,31 +782,73 @@
       "sha1": "ce491e317dd6eab2384f128966fcbe546cf77a9d"
     },
     {
+      "name": "rawstory-2022-07-24T02:20:29.953101-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658643633",
+      "size": "32261",
+      "md5": "3deef81bac6eb3cf95ff180355dbe0ee",
+      "crc32": "bb58130b",
+      "sha1": "69553e47bf1d6ebb22a822754120319ae76743a6",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-07-24T02:20:29.953101-04:00.jpg",
+      "source": "original",
+      "mtime": "1658643631",
+      "size": "326204",
+      "md5": "72670b4be16b277e595fa59337471be7",
+      "crc32": "8b5cacf7",
+      "sha1": "22ecd35060f5d18b7b72a6d12a1589e8a22a0368",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rawstory-2022-07-24T02:20:29.953101-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658643635",
+      "size": "1477",
+      "md5": "d01d7f279704187364fcbfaa111b4330",
+      "crc32": "9c2a93ea",
+      "sha1": "76d5b23d94557a9038d89f7cd26b17f8325dc253",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-07-24T02:20:29.953101-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rawstory-2022-07-24T02:20:29.953101-04:00.jpg",
+      "mtime": "1658643697",
+      "size": "11916",
+      "md5": "749ba94cf59d74e5223857d6d168d44e",
+      "crc32": "ac2f34ff",
+      "sha1": "b1c9cc173ffef2d14697cbb2be19a84bd9c62715"
+    },
+    {
       "name": "rawstory-2022_archive.torrent",
       "source": "metadata",
-      "btih": "08dc849f51264f8c6b8fbff1df93217888e215e8",
-      "mtime": "1658600138",
-      "size": "17078",
-      "md5": "8d216d8a8ab812c27364b0e392c28a13",
-      "crc32": "183337c2",
-      "sha1": "eb8a786ca2f45d2436e5a99641994c21df522d77",
+      "btih": "719142a108e1458956cbd862b0464a6459ed14e7",
+      "mtime": "1658643701",
+      "size": "17927",
+      "md5": "076dc6ac08a9d4e24d0835994967448a",
+      "crc32": "a03fd294",
+      "sha1": "93a751d762d7ab43541fc01b1c05348c65fe74ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rawstory-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "62482bbf59d970dc390e6ac972833b7d",
+      "md5": "5d8b30fa1d4d103e5ab1612fc2d8c2e4",
       "summation": "md5"
     },
     {
       "name": "rawstory-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658599998",
-      "size": "106496",
-      "md5": "0d3a322daf1033398071e1dc8bc70082",
-      "crc32": "67140672",
-      "sha1": "c4fc6c65202c8ef566d2d866d28fe7cd7bd35d9e",
+      "mtime": "1658643638",
+      "size": "110592",
+      "md5": "e9c8258576854c0d5562ca3389bb9c02",
+      "crc32": "c9bd0f94",
+      "sha1": "96bf8b1eaeeed5619d56a8504e97cf920afcf7ff",
       "format": "Metadata"
     },
     {
@@ -820,9 +862,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 78,
-  "item_last_updated": 1658600138,
-  "item_size": 8132687,
+  "files_count": 82,
+  "item_last_updated": 1658643701,
+  "item_size": 8509490,
   "metadata": {
     "identifier": "rawstory-2022",
     "collection": [
@@ -843,10 +885,10 @@
     {
       "url": "https://www.rawstory.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_23_18_10_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_23_18_10_14.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_24_05_18_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_24_05_18_26.report.json",
       "summary": {
-        "performance": 0.53,
+        "performance": 0.54,
         "accessibility": 0.72,
         "best-practices": 0.92,
         "seo": 0.85,
@@ -856,10 +898,10 @@
     {
       "url": "https://www.rawstory.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_23_18_10_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_23_18_10_44.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_24_05_18_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_24_05_18_51.report.json",
       "summary": {
-        "performance": 0.47,
+        "performance": 0.59,
         "accessibility": 0.72,
         "best-practices": 0.92,
         "seo": 0.85,
@@ -869,10 +911,10 @@
     {
       "url": "https://www.rawstory.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_23_18_10_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_23_18_10_28.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_24_05_18_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rawstory_com-_-2022_07_24_05_18_39.report.json",
       "summary": {
-        "performance": 0.54,
+        "performance": 0.65,
         "accessibility": 0.72,
         "best-practices": 0.92,
         "seo": 0.85,
@@ -880,10 +922,10 @@
       }
     }
   ],
-  "server": "ia801407.us.archive.org",
-  "uniq": 835564055,
+  "server": "ia601407.us.archive.org",
+  "uniq": 1583851889,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

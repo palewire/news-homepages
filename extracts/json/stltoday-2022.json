@@ -1,5 +1,5 @@
 {
-  "created": 1658592265,
+  "created": 1658664931,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/stltoday-2022",
@@ -2778,31 +2778,83 @@
       "sha1": "50c7e78d6f5eacfdb5800e8b1acfbc081a1ed337"
     },
     {
+      "name": "stltoday-2022-07-24T01:24:43.548719-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658643889",
+      "size": "37047",
+      "md5": "ff9ffb6140df8f9d8e7cb68733ed428b",
+      "crc32": "3b8d2416",
+      "sha1": "c6c8423d93ecc51c4dd54d81552de6bdb5438f4e",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-07-24T01:24:43.548719-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658643891",
+      "size": "82091",
+      "md5": "19ecfdcdf2ad48450a79d88897de23f6",
+      "crc32": "5688232e",
+      "sha1": "9dbe4817d05a1b02cb2308d9610a5a43e3976912",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-07-24T01:24:43.548719-05:00.jpg",
+      "source": "original",
+      "mtime": "1658643887",
+      "size": "330672",
+      "md5": "689787d327a5765ca391100ece3026e7",
+      "crc32": "45fb7117",
+      "sha1": "641411602c8eca6683bd15fb85d744015924d051",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-07-24T01:24:43.548719-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658643892",
+      "size": "1477",
+      "md5": "1b4ec9f11fdf327dabbe4e07dd55a829",
+      "crc32": "af5b9b3b",
+      "sha1": "38faad93f1fdf957f91469618b77b16dad3bf16f",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-07-24T01:24:43.548719-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-07-24T01:24:43.548719-05:00.jpg",
+      "mtime": "1658644094",
+      "size": "12478",
+      "md5": "b61c988e6aa95b15927c11626e0068d6",
+      "crc32": "a0e11ccc",
+      "sha1": "cfc507f451b2a32e94d74a79e5908b00c449fb45"
+    },
+    {
       "name": "stltoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "26df2ee84089c8c18d66d37177f206e9d4272a22",
-      "mtime": "1658592253",
-      "size": "57070",
-      "md5": "384f741725547d688d04de1026e6dc6b",
-      "crc32": "aa73a7bd",
-      "sha1": "0ed6b08a2bee643389fc230c77b9686f2858078d",
+      "btih": "9b27e1523328d23c52e5b1936614ac148dc8435e",
+      "mtime": "1658644108",
+      "size": "58130",
+      "md5": "9eaf00e3ee6d467a41fca40e48834586",
+      "crc32": "623ad03d",
+      "sha1": "d96b6e36bd372368e037a3f4b48ab0bbec54b797",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stltoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b43d20b4623246265a1b344f44a4ee5d",
+      "md5": "a3e27387375167aa79899f5e96933596",
       "summation": "md5"
     },
     {
       "name": "stltoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658592193",
-      "size": "311296",
-      "md5": "8d1c5d847e65a3f80be6df1141e6d83b",
-      "crc32": "1c5b5cba",
-      "sha1": "015203c110aa7948de1617bbbd391d2b9cc5a46d",
+      "mtime": "1658643896",
+      "size": "315392",
+      "md5": "61d244c47f16441388b73d41536c811f",
+      "crc32": "7c4b811c",
+      "sha1": "86f079248d14cf9f2277bf5c42c76fd6556f955f",
       "format": "Metadata"
     },
     {
@@ -2816,9 +2868,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 267,
-  "item_last_updated": 1658592253,
-  "item_size": 31509202,
+  "files_count": 272,
+  "item_last_updated": 1658644108,
+  "item_size": 31978123,
   "metadata": {
     "identifier": "stltoday-2022",
     "collection": [
@@ -2835,10 +2887,51 @@
     "publicdate": "2022-06-24 23:01:32",
     "addeddate": "2022-06-24 23:01:32"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 1760062359,
+  "server": "ia902502.us.archive.org",
+  "stltoday-2022": [
+    {
+      "url": "https://www.stltoday.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stltoday_com-_-2022_07_24_05_24_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stltoday_com-_-2022_07_24_05_24_58.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.stltoday.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stltoday_com-_-2022_07_24_05_26_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stltoday_com-_-2022_07_24_05_26_48.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.stltoday.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stltoday_com-_-2022_07_24_05_25_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stltoday_com-_-2022_07_24_05_25_38.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.6
+      }
+    }
+  ],
+  "uniq": 735648719,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

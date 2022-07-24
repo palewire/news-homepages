@@ -1,5 +1,5 @@
 {
-  "created": 1658617432,
+  "created": 1658660496,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/25/items/boingboing-2022",
@@ -2748,31 +2748,83 @@
       "sha1": "ac010a8527885af1431deef868c07f9ba3f074f9"
     },
     {
+      "name": "boingboing-2022-07-24T03:59:22.224102-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658660364",
+      "size": "17423",
+      "md5": "b2aa4d3aae9cb0194dfd38180e3892e5",
+      "crc32": "028a3370",
+      "sha1": "6e48ce1887c4fd02c4a74fbc6722223e46539dc8",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-07-24T03:59:22.224102-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658660365",
+      "size": "23435",
+      "md5": "43567c6bb2a5ff83029748b77c96dcdd",
+      "crc32": "5ba5d8c0",
+      "sha1": "33b0e13fbdd274a090b8ed3a89798bf70d13f68c",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-07-24T03:59:22.224102-07:00.jpg",
+      "source": "original",
+      "mtime": "1658660363",
+      "size": "184815",
+      "md5": "3ac4318a7045da87eea960a32473dea7",
+      "crc32": "dcdb4ec4",
+      "sha1": "2887c06bb64b2aa2002d79eeca27093d760afcfc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-07-24T03:59:22.224102-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658660367",
+      "size": "1459",
+      "md5": "abacafea1c27cb9b88813ad96edbf514",
+      "crc32": "54df7804",
+      "sha1": "f1830567d576f688de9a40d3b5105a7c4aa134a2",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-07-24T03:59:22.224102-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-07-24T03:59:22.224102-07:00.jpg",
+      "mtime": "1658660465",
+      "size": "8065",
+      "md5": "2fd5bebd343fc6c2ce485d7abff40f37",
+      "crc32": "a37a9a6e",
+      "sha1": "216874cacaf92f5511a5230fb5906c87b5e63699"
+    },
+    {
       "name": "boingboing-2022_archive.torrent",
       "source": "metadata",
-      "btih": "801418f1cccf7a43143d10c004b15f0bb8b2c5e2",
-      "mtime": "1658617411",
-      "size": "56024",
-      "md5": "19a67a27a703f32141b4c5916fe68f81",
-      "crc32": "82050fd7",
-      "sha1": "7fcedf9387125695239f3042e30817f956d36187",
+      "btih": "856423ab09bd2504a95d50ed54297cc621fb25ca",
+      "mtime": "1658660477",
+      "size": "57073",
+      "md5": "62e1b8b6bf67a0e0a4a07eef7a8a1961",
+      "crc32": "1a01efc7",
+      "sha1": "4208432299229d67bf81df5d258e4dfd56ea2d73",
       "format": "Archive BitTorrent"
     },
     {
       "name": "boingboing-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5713943e36c4f7153a9559a51919be26",
+      "md5": "ddab39f98c8c4921d1788bc36162234d",
       "summation": "md5"
     },
     {
       "name": "boingboing-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658617318",
-      "size": "299008",
-      "md5": "41d5ddf8b53912acd5876afb11027b8e",
-      "crc32": "1c446e5c",
-      "sha1": "0d698c335fce044b659270813c0389ac915fab6d",
+      "mtime": "1658660371",
+      "size": "303104",
+      "md5": "575d6a7df95e433faf7f41ac5450b0ce",
+      "crc32": "972d35ac",
+      "sha1": "ed79526f0c0883aa710bfb8ddd3aed3b0f82a81f",
       "format": "Metadata"
     },
     {
@@ -2786,9 +2838,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 263,
-  "item_last_updated": 1658617411,
-  "item_size": 17081103,
+  "files_count": 268,
+  "item_last_updated": 1658660477,
+  "item_size": 17321445,
   "metadata": {
     "identifier": "boingboing-2022",
     "collection": [
@@ -2805,10 +2857,10 @@
     "publicdate": "2022-06-24 22:53:11",
     "addeddate": "2022-06-24 22:53:11"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 941439386,
+  "server": "ia801508.us.archive.org",
+  "uniq": 471466433,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

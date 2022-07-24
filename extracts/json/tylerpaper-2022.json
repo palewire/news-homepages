@@ -1,5 +1,5 @@
 {
-  "created": 1658611806,
+  "created": 1658665035,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/8/items/tylerpaper-2022",
@@ -552,31 +552,83 @@
       "sha1": "dedf284893f137b565b5d6f1f78b817a6799373d"
     },
     {
+      "name": "tylerpaper-2022-07-23T22:44:11.185894-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658634257",
+      "size": "44655",
+      "md5": "4e17c312e0f5a7446da7dc7adefa0e52",
+      "crc32": "2c1e6749",
+      "sha1": "6c4583d995f472fbb52606dbd91edbfcc48a19a5",
+      "format": "JSON"
+    },
+    {
+      "name": "tylerpaper-2022-07-23T22:44:11.185894-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658634258",
+      "size": "50097",
+      "md5": "99ceb8b65cc90ada801ccc0a89f25eaa",
+      "crc32": "75f9b731",
+      "sha1": "bef969a720c5cd96ae0969a1eb9703221a33c299",
+      "format": "JSON"
+    },
+    {
+      "name": "tylerpaper-2022-07-23T22:44:11.185894-05:00.jpg",
+      "source": "original",
+      "mtime": "1658634254",
+      "size": "299482",
+      "md5": "95da3e1d8b3eb28d42918a3068b2e3c7",
+      "crc32": "a64a64a2",
+      "sha1": "e20162a7fc9f4cfaf5b3e0cd496c9d3d546706b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tylerpaper-2022-07-23T22:44:11.185894-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658634260",
+      "size": "1459",
+      "md5": "a21c83fdc034608135f1a93984c6b517",
+      "crc32": "7077e53f",
+      "sha1": "8ac19b34956ff935470067683a6dc8ac5b83397c",
+      "format": "JSON"
+    },
+    {
+      "name": "tylerpaper-2022-07-23T22:44:11.185894-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tylerpaper-2022-07-23T22:44:11.185894-05:00.jpg",
+      "mtime": "1658634323",
+      "size": "10000",
+      "md5": "c8b073e5a9a8dc6c3c9d02959e269f08",
+      "crc32": "df12293e",
+      "sha1": "e2092aec6f1a960ee5411e369f53203eec33057b"
+    },
+    {
       "name": "tylerpaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ff10c9f7642574ea58dbebc971c264742fe9f6e1",
-      "mtime": "1658592686",
-      "size": "12523",
-      "md5": "2266529d4e1662966d8215ed691f5bcd",
-      "crc32": "a1cfd9f6",
-      "sha1": "235a6998012a9dda5dc80e1c1bb722f6cc4e63b6",
+      "btih": "95d1ae715a446456e0cdc64483124934762c3611",
+      "mtime": "1658634326",
+      "size": "13573",
+      "md5": "53e67b18ccb1b8bfb23614aec96b22b1",
+      "crc32": "18be9f7e",
+      "sha1": "c505c7e928adf3a09463049b1604efeb5270ea6a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tylerpaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9de8fccdaa6931770e3ec0bac2c036f2",
+      "md5": "73dff06ba993dd632a923ac7f1f7a6bb",
       "summation": "md5"
     },
     {
       "name": "tylerpaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658592491",
-      "size": "73728",
-      "md5": "2f8b764552c208e3ff507d2291edfd9e",
-      "crc32": "99900af6",
-      "sha1": "cdb2f5ef2c7cd35152e991b98b078f8971db3c77",
+      "mtime": "1658634267",
+      "size": "77824",
+      "md5": "a9308e2d8727df69d72b150994351c5c",
+      "crc32": "85a9b291",
+      "sha1": "144abe248ebe098e21cdf36c5a1fb005b31593ca",
       "format": "Metadata"
     },
     {
@@ -590,9 +642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 56,
-  "item_last_updated": 1658592686,
-  "item_size": 5258948,
+  "files_count": 61,
+  "item_last_updated": 1658634326,
+  "item_size": 5669787,
   "metadata": {
     "identifier": "tylerpaper-2022",
     "collection": [
@@ -609,10 +661,51 @@
     "publicdate": "2022-07-18 00:06:00",
     "addeddate": "2022-07-18 00:06:00"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1865311162,
+  "server": "ia601509.us.archive.org",
+  "tylerpaper-2022": [
+    {
+      "url": "https://tylerpaper.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_24_03_25_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_24_03_25_10.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.87,
+        "best-practices": 0.83,
+        "seo": 0.76,
+        "pwa": 0.2
+      }
+    },
+    {
+      "url": "https://tylerpaper.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_24_03_25_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_24_03_25_36.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.87,
+        "best-practices": 0.83,
+        "seo": 0.76,
+        "pwa": 0.2
+      }
+    },
+    {
+      "url": "https://tylerpaper.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_24_03_24_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tylerpaper_com-_-2022_07_24_03_24_45.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.87,
+        "best-practices": 0.83,
+        "seo": 0.76,
+        "pwa": 0.2
+      }
+    }
+  ],
+  "uniq": 190939742,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

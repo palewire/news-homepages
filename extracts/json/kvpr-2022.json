@@ -1,5 +1,5 @@
 {
-  "created": 1658611343,
+  "created": 1658664581,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/kvpr-2022",
@@ -1276,31 +1276,83 @@
       "sha1": "7df0aa60a93ca37a7661ce4fbcd78be8ee054443"
     },
     {
+      "name": "kvpr-2022-07-23T21:15:09.598007-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658636113",
+      "size": "27396",
+      "md5": "d877891511d8e43b478970b9ba3a514c",
+      "crc32": "9de60c02",
+      "sha1": "6364a21d2ddaeea7f31e70a1c90e4d94ad15106a",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-07-23T21:15:09.598007-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658636114",
+      "size": "47762",
+      "md5": "539f76ef3d4db322397c1a18f004029b",
+      "crc32": "24b8c336",
+      "sha1": "d709cb1d6f7303fedf709be26913c43da4a65b35",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-07-23T21:15:09.598007-07:00.jpg",
+      "source": "original",
+      "mtime": "1658636111",
+      "size": "277213",
+      "md5": "4bc03a21e371ae3a50d8f756177b12c9",
+      "crc32": "d1fd52ba",
+      "sha1": "0824c1eb83e6d0a406ffa97efa930443e0c06e52",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvpr-2022-07-23T21:15:09.598007-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658636116",
+      "size": "1441",
+      "md5": "ae922e4219562cf072c1c6f379b8ff5a",
+      "crc32": "4249a359",
+      "sha1": "79eedd50824156885e5e7bef540cccf7b119c315",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-07-23T21:15:09.598007-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvpr-2022-07-23T21:15:09.598007-07:00.jpg",
+      "mtime": "1658636217",
+      "size": "10482",
+      "md5": "3abd0bea33c8beb80cd69d20d68b428e",
+      "crc32": "24d7c661",
+      "sha1": "20726dc0af459ff203cad202c2d27434aa97e7f6"
+    },
+    {
       "name": "kvpr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4ea8e5fccd4704db4f44dae6a8cda78465b9572c",
-      "mtime": "1658585396",
-      "size": "26425",
-      "md5": "edbd91b0a43d0fe300afa603ac22aa4d",
-      "crc32": "7db2fe1e",
-      "sha1": "a23e012ad3bb302e13fb7598ca2c403162b7086b",
+      "btih": "3f6185e6f901c9eefc9cad7978b01233e7fe88fc",
+      "mtime": "1658636220",
+      "size": "27465",
+      "md5": "02e5dc20e3fc97c82f095fc7f2bc12dc",
+      "crc32": "cbaed512",
+      "sha1": "c31384f021bdf6a4c92254431a61b1c607e3bfcf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvpr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b1c0fbed36abed132e12d9b6eda92bf",
+      "md5": "33db3ecaf5296b9ac3ec4b479e3536fd",
       "summation": "md5"
     },
     {
       "name": "kvpr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658585160",
-      "size": "159744",
-      "md5": "40cb26e5e6006a4eaac621556ef0f1f1",
-      "crc32": "2d7ff256",
-      "sha1": "aa3c34eebb28f6c19c24093f25da76af2a1d5f46",
+      "mtime": "1658636119",
+      "size": "167936",
+      "md5": "7034724c26b8ae2839a6a093f129b3a8",
+      "crc32": "092427ca",
+      "sha1": "404934b35835f01889fba7c0040bf8d2ce634ba8",
       "format": "Metadata"
     },
     {
@@ -1314,9 +1366,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "item_last_updated": 1658585396,
-  "item_size": 11267416,
+  "files_count": 130,
+  "item_last_updated": 1658636220,
+  "item_size": 11640942,
+  "kvpr-2022": [
+    {
+      "url": "https://www.kvpr.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvpr_org-_-2022_07_24_01_03_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvpr_org-_-2022_07_24_01_03_36.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.93,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kvpr.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvpr_org-_-2022_07_24_01_03_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvpr_org-_-2022_07_24_01_03_55.report.json",
+      "summary": {
+        "performance": 0.58,
+        "accessibility": 0.93,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kvpr.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvpr_org-_-2022_07_24_01_04_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvpr_org-_-2022_07_24_01_04_09.report.json",
+      "summary": {
+        "performance": 0.55,
+        "accessibility": 0.97,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "kvpr-2022",
     "collection": [
@@ -1334,7 +1427,7 @@
     "addeddate": "2022-07-09 04:00:32"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 1388051943,
+  "uniq": 1852273235,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

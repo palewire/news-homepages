@@ -1,5 +1,5 @@
 {
-  "created": 1658588944,
+  "created": 1658661338,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/22/items/openvallejo-2022",
@@ -1654,31 +1654,83 @@
       "sha1": "e5dbd58a363a74f2e5786f93f5520b6b33991a93"
     },
     {
+      "name": "openvallejo-2022-07-23T23:17:53.203088-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658643476",
+      "size": "18121",
+      "md5": "550c2910109fe7b7ac0b0218520373cb",
+      "crc32": "77126935",
+      "sha1": "7bc2b4362a2f8ceb39418c25f31caa39ed76fee5",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-07-23T23:17:53.203088-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658643478",
+      "size": "21796",
+      "md5": "13f192efae2a1926af9f7d064d75039b",
+      "crc32": "967151d3",
+      "sha1": "b4dc1a586048b45c0c67cc8e0808620f8cf2b992",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-07-23T23:17:53.203088-07:00.jpg",
+      "source": "original",
+      "mtime": "1658643474",
+      "size": "292536",
+      "md5": "f47f4a37d0370e35650dc5b977bde7e8",
+      "crc32": "74728352",
+      "sha1": "5d69a396e787dfbfc8cb3d98b4917d66c7188b2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "openvallejo-2022-07-23T23:17:53.203088-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658643480",
+      "size": "1468",
+      "md5": "d3de8db68b5cfd9bb06c2ed25b74fe98",
+      "crc32": "4f71f7fc",
+      "sha1": "8cf47be7161fd0159d1f58e922818282e2e4c3e2",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-07-23T23:17:53.203088-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "openvallejo-2022-07-23T23:17:53.203088-07:00.jpg",
+      "mtime": "1658643546",
+      "size": "10990",
+      "md5": "48817ed6723b4167b3d356fec52fd6f3",
+      "crc32": "4c8c3beb",
+      "sha1": "e5dbd58a363a74f2e5786f93f5520b6b33991a93"
+    },
+    {
       "name": "openvallejo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "54086cb45b2ef9ed2b5491d9a7f1cffe42b89032",
-      "mtime": "1658588931",
-      "size": "34969",
-      "md5": "6287f0b9dcae3e7d79079ada07588112",
-      "crc32": "54525f59",
-      "sha1": "221a11a85ece1054362aad9a1590fbff5648000b",
+      "btih": "11a0f48b06582fde098fabda650877a6ceadb3f0",
+      "mtime": "1658643550",
+      "size": "36044",
+      "md5": "9d19749a246668283bb10b2cdf13da60",
+      "crc32": "12e8a41d",
+      "sha1": "4ce5ce71c1d2cc1b72a7a3bffe289cf757c31f69",
       "format": "Archive BitTorrent"
     },
     {
       "name": "openvallejo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3e27c806e697623d765e9d8ec40bea94",
+      "md5": "41a0d9045180faee7611193ac970be38",
       "summation": "md5"
     },
     {
       "name": "openvallejo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658588826",
-      "size": "200704",
-      "md5": "dbb9ee03e4c7cdf6a68add05be5dd75c",
-      "crc32": "2be3e391",
-      "sha1": "e302a5b6e9425998dd786a57f0ed4d5bd6ac9814",
+      "mtime": "1658643483",
+      "size": "208896",
+      "md5": "d469d7c10bbdf3bc0888cc2ab4c02837",
+      "crc32": "31ae5dc7",
+      "sha1": "6b0c0c9306b834bf877a7761daab4faf0aedf466",
       "format": "Metadata"
     },
     {
@@ -1692,9 +1744,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 161,
-  "item_last_updated": 1658588931,
-  "item_size": 13103315,
+  "files_count": 166,
+  "item_last_updated": 1658643550,
+  "item_size": 13457493,
   "metadata": {
     "identifier": "openvallejo-2022",
     "collection": [
@@ -1711,10 +1763,10 @@
     "publicdate": "2022-07-09 04:01:53",
     "addeddate": "2022-07-09 04:01:53"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 165578480,
+  "server": "ia902503.us.archive.org",
+  "uniq": 1828530825,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

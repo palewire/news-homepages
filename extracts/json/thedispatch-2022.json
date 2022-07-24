@@ -1,5 +1,5 @@
 {
-  "created": 1658622593,
+  "created": 1658664968,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/14/items/thedispatch-2022",
@@ -814,31 +814,83 @@
       "sha1": "199a8b09b611cdd62950ac9b4d3809d00efc3de0"
     },
     {
+      "name": "thedispatch-2022-07-23T23:41:19.342070-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658634082",
+      "size": "15601",
+      "md5": "041a9d9007e184899fa34087a83c7591",
+      "crc32": "8d5b6956",
+      "sha1": "b2639a54d37082d67581c477a891e20238a1b065",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-07-23T23:41:19.342070-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658634084",
+      "size": "14610",
+      "md5": "69c4fb3dde9bf251817dbb4eb72905db",
+      "crc32": "3db09f10",
+      "sha1": "6ba09b12ed12194c4b2d7610f8343c4baf5de7d8",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-07-23T23:41:19.342070-04:00.jpg",
+      "source": "original",
+      "mtime": "1658634081",
+      "size": "251826",
+      "md5": "d9d4e363efdd43b12fd778a88028a260",
+      "crc32": "b2ec8f3c",
+      "sha1": "875cd63b86e2cf69007a2794c715943ed19b420a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedispatch-2022-07-23T23:41:19.342070-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658634085",
+      "size": "1458",
+      "md5": "8a2d4a9e89432e617b105f330452d7f2",
+      "crc32": "cca7977e",
+      "sha1": "d127423385c5494a806f3a7e877b7e3412ec93b2",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-07-23T23:41:19.342070-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedispatch-2022-07-23T23:41:19.342070-04:00.jpg",
+      "mtime": "1658634146",
+      "size": "9079",
+      "md5": "52ebe042e5845b692db63b8011e44c39",
+      "crc32": "6daa83b8",
+      "sha1": "87cc8a1e7d0ea79f406ca8647f89d759ecce02dc"
+    },
+    {
       "name": "thedispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bd37861e7d470960c352b94fc554c68b6b4a259e",
-      "mtime": "1658592805",
-      "size": "17834",
-      "md5": "0ecc9f7d6a6e90cbda29b3de45985432",
-      "crc32": "fb717846",
-      "sha1": "08c4fa5a3f6662256dc8659bbbf7610695f75318",
+      "btih": "9cd44c24b3b86fe6607adfd4ee58b1757cf774f5",
+      "mtime": "1658634149",
+      "size": "18908",
+      "md5": "c3f09343936d266752ee3e19b67baf6e",
+      "crc32": "3df8888c",
+      "sha1": "44dea93f6ac2229a81b74f29581183dce73278f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3719f4a9154be94fd11940c464652653",
+      "md5": "b4dc3fe79097456184d2a16fab710410",
       "summation": "md5"
     },
     {
       "name": "thedispatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658592722",
-      "size": "106496",
-      "md5": "219f0acda4144bf803383cc5e2dab59d",
-      "crc32": "17b073ad",
-      "sha1": "6a6568145c9ab7caf2172d082bf668a8c733f7ed",
+      "mtime": "1658634089",
+      "size": "114688",
+      "md5": "57a276c1a89ef9b2b5ed589a5753cbcd",
+      "crc32": "dd235c60",
+      "sha1": "13f4ce30c1a9c2850f73c57cd17462a43e5c6ccc",
       "format": "Metadata"
     },
     {
@@ -852,9 +904,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 81,
-  "item_last_updated": 1658592805,
-  "item_size": 5682512,
+  "files_count": 86,
+  "item_last_updated": 1658634149,
+  "item_size": 5984352,
   "metadata": {
     "identifier": "thedispatch-2022",
     "collection": [
@@ -871,528 +923,51 @@
     "publicdate": "2022-07-17 15:04:01",
     "addeddate": "2022-07-17 15:04:01"
   },
-  "server": "ia601505.us.archive.org",
+  "server": "ia801505.us.archive.org",
   "thedispatch-2022": [
     {
-      "text": "",
-      "url": "https://thedispatch.com"
-    },
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
-      "text": "The G-File",
-      "url": "https://gfile.thedispatch.com"
-    },
-    {
-      "text": "The French Press",
-      "url": "https://frenchpress.thedispatch.com"
-    },
-    {
-      "text": "The Morning Dispatch",
-      "url": "https://morning.thedispatch.com"
-    },
-    {
-      "text": "The Sweep",
-      "url": "https://sweep.thedispatch.com"
-    },
-    {
-      "text": "Uphill",
-      "url": "https://uphill.thedispatch.com"
-    },
-    {
-      "text": "Vital Interests",
-      "url": "https://vitalinterests.thedispatch.com"
-    },
-    {
-      "text": "Capitolism",
-      "url": "https://capitolism.thedispatch.com"
-    },
-    {
-      "text": "The Dispatch Weekly",
-      "url": "https://weekly.thedispatch.com"
-    },
-    {
-      "text": "The Dispatch Fact Check",
-      "url": "https://factcheck.thedispatch.com"
-    },
-    {
-      "text": "The Remnant",
-      "url": "https://remnant.thedispatch.com"
-    },
-    {
-      "text": "The Dispatch Podcast",
-      "url": "https://podcast.thedispatch.com"
-    },
-    {
-      "text": "Advisory Opinions",
-      "url": "https://advisoryopinions.thedispatch.com"
-    },
-    {
-      "text": "The Hangover",
-      "url": "https://hangoverpodcast.thedispatch.com"
-    },
-    {
-      "text": "Good Faith",
-      "url": "https://goodfaith.thedispatch.com"
-    },
-    {
-      "text": "The Current",
-      "url": "https://current.thedispatch.com"
-    },
-    {
-      "text": "The Dispatch Book Club",
-      "url": "https://bookclub.thedispatch.com"
-    },
-    {
-      "text": "Store",
-      "url": "https://dispatchstore.myshopify.com"
-    },
-    {
-      "text": "Archive",
-      "url": "/archive"
-    },
-    {
-      "text": "About",
-      "url": "/about"
-    },
-    {
-      "text": "Login",
-      "url": "https://substack.com/sign-in?redirect=%2F&for_pub=thedispatch"
-    },
-    {
-      "text": "About",
-      "url": "/about"
-    },
-    {
-      "text": "Archive",
-      "url": "/archive"
-    },
-    {
-      "text": "Top posts",
-      "url": "/archive?sort=top"
-    },
-    {
-      "text": "About",
-      "url": "/about"
-    },
-    {
-      "text": "Archive",
-      "url": "/archive"
-    },
-    {
-      "text": "Authors",
-      "url": "/about?sort=people"
-    },
-    {
-      "text": "Login",
-      "url": "https://substack.com/sign-in?redirect=%2F&for_pub=thedispatch"
-    },
-    {
-      "text": "What Happened to Efforts to Reform Cash Bail? ",
-      "url": "https://thedispatch.com/p/what-happened-to-efforts-to-reform"
-    },
-    {
-      "text": "A Dispatch explainer.",
-      "url": "https://thedispatch.com/p/what-happened-to-efforts-to-reform"
-    },
-    {
-      "text": "Mary Trimble",
-      "url": "/people/96389047-mary-trimble"
-    },
-    {
-      "text": "51",
-      "url": "https://thedispatch.com/p/what-happened-to-efforts-to-reform/comments"
-    },
-    {
-      "text": "A Paradoxical Moment for the Middle East",
-      "url": "https://thedispatch.com/p/a-paradoxical-moment-for-the-middle"
-    },
-    {
-      "text": "While Iran is a looming danger, the Abraham Accords offer hope and promise.",
-      "url": "https://thedispatch.com/p/a-paradoxical-moment-for-the-middle"
-    },
-    {
-      "text": "Melissa Langsam Braunstein",
-      "url": "/people/8583149-melissa-langsam-braunstein"
-    },
-    {
-      "text": "1",
-      "url": "https://thedispatch.com/p/a-paradoxical-moment-for-the-middle/comments"
-    },
-    {
-      "text": "A Timeline of What Trump Did\u2014and Didn\u2019t Do\u2014on January 6",
-      "url": "https://thedispatch.com/p/a-timeline-of-what-trump-didand-didnt"
-    },
-    {
-      "text": "The January 6 committee details the president\u2019s lack of response to the riots at the Capitol.",
-      "url": "https://thedispatch.com/p/a-timeline-of-what-trump-didand-didnt"
-    },
-    {
-      "text": "Price St. Clair",
-      "url": "/people/39957904-price-st-clair"
-    },
-    {
-      "text": "75",
-      "url": "https://thedispatch.com/p/a-timeline-of-what-trump-didand-didnt/comments"
-    },
-    {
-      "text": "Jumping Ship",
-      "url": "https://remnant.thedispatch.com/p/jumping-ship"
-    },
-    {
-      "text": "Listen now (69 min) | Refreshed from his Adirondack vacation, Jonah begins today\u2019s Ruminant with an update on the January 6 hearings and a rant on the strange phenomenon of \u201ccapture the flag\u201d media coverage. He also explores the merits of the MAGA republicans testifying in\u2026",
-      "url": "https://remnant.thedispatch.com/p/jumping-ship"
-    },
-    {
-      "text": "Jonah Goldberg",
-      "url": "/people/4350832-jonah-goldberg"
-    },
-    {
-      "text": "11",
-      "url": "https://remnant.thedispatch.com/p/jumping-ship/comments"
-    },
-    {
-      "text": "Culture Wars End With Consequences",
-      "url": "https://frenchpress.thedispatch.com/p/culture-wars-end-with-consequences"
-    },
-    {
-      "text": "David French",
-      "url": "https://thedispatch.com/people/5849328-david-french"
-    },
-    {
-      "text": "409",
-      "url": "https://frenchpress.thedispatch.com/p/culture-wars-end-with-consequences/comments"
-    },
-    {
-      "text": "Kamala Harris, the Great Unifier",
-      "url": "https://gfile.thedispatch.com/p/kamala-harris-the-great-unifier"
-    },
-    {
-      "text": "Jonah Goldberg",
-      "url": "https://thedispatch.com/people/4350832-jonah-goldberg"
-    },
-    {
-      "text": "395",
-      "url": "https://gfile.thedispatch.com/p/kamala-harris-the-great-unifier/comments"
-    },
-    {
-      "text": "The God Gap Helps Explain a 'Seismic Shift' in American Politics",
-      "url": "https://frenchpress.thedispatch.com/p/the-most-important-religious-divide"
-    },
-    {
-      "text": "David French",
-      "url": "https://thedispatch.com/people/5849328-david-french"
-    },
-    {
-      "text": "743",
-      "url": "https://frenchpress.thedispatch.com/p/the-most-important-religious-divide/comments"
-    },
-    {
-      "text": "No, Ron DeSantis Isn\u2019t Worse than Trump",
-      "url": "https://frenchpress.thedispatch.com/p/no-ron-desantis-isnt-worse-than-trump"
-    },
-    {
-      "text": "David French",
-      "url": "https://thedispatch.com/people/5849328-david-french"
-    },
-    {
-      "text": "501",
-      "url": "https://frenchpress.thedispatch.com/p/no-ron-desantis-isnt-worse-than-trump/comments"
-    },
-    {
-      "text": "The Limits of Do-Goodery",
-      "url": "https://gfile.thedispatch.com/p/the-limits-of-do-goodery"
-    },
-    {
-      "text": "Jonah Goldberg",
-      "url": "https://thedispatch.com/people/4350832-jonah-goldberg"
-    },
-    {
-      "text": "187",
-      "url": "https://gfile.thedispatch.com/p/the-limits-of-do-goodery/comments"
-    },
-    {
-      "text": "The Case for Prosecuting Donald Trump Just Got Much Stronger",
-      "url": "https://frenchpress.thedispatch.com/p/the-case-for-prosecuting-donald-trump"
-    },
-    {
-      "text": "David French",
-      "url": "https://thedispatch.com/people/5849328-david-french"
-    },
-    {
-      "text": "564",
-      "url": "https://frenchpress.thedispatch.com/p/the-case-for-prosecuting-donald-trump/comments"
-    },
-    {
-      "text": "See all popular ",
-      "url": "/archive?sort=top"
-    },
-    {
-      "text": "",
-      "url": "javascript:void(0)"
-    },
-    {
-      "text": "The Religion of American Greatness",
-      "url": "https://goodfaith.thedispatch.com/p/the-religion-of-american-greatness"
-    },
-    {
-      "text": "Listen now | David talks to Georgetown professor and Bush administration alum Paul Miller about Paul's new book, \u201cThe Religion of American Greatness\u2026",
-      "url": "https://goodfaith.thedispatch.com/p/the-religion-of-american-greatness"
-    },
-    {
-      "text": "David French",
-      "url": "https://thedispatch.com/people/5849328-david-french"
-    },
-    {
-      "text": "2",
-      "url": "https://goodfaith.thedispatch.com/p/the-religion-of-american-greatness/comments"
-    },
-    {
-      "text": "The Limits of Do-Goodery",
-      "url": "https://gfile.thedispatch.com/p/the-limits-of-do-goodery"
-    },
-    {
-      "text": "Maybe it\u2019s better if we let institutions and individuals stay in their lanes.",
-      "url": "https://gfile.thedispatch.com/p/the-limits-of-do-goodery"
-    },
-    {
-      "text": "Jonah Goldberg",
-      "url": "https://thedispatch.com/people/4350832-jonah-goldberg"
-    },
-    {
-      "text": "187",
-      "url": "https://gfile.thedispatch.com/p/the-limits-of-do-goodery/comments"
-    },
-    {
-      "text": "Fact Check: Biden Exaggerated Vaccine Claim",
-      "url": "https://factcheck.thedispatch.com/p/fact-check-biden-exaggerated-vaccine"
-    },
-    {
-      "text": "Video from a 2021 resurfaces after the president\u2019s COVID-19 diagnosis.",
-      "url": "https://factcheck.thedispatch.com/p/fact-check-biden-exaggerated-vaccine"
-    },
-    {
-      "text": "Alec Dent",
-      "url": "https://thedispatch.com/people/7365934-alec-dent"
-    },
-    {
-      "text": "6",
-      "url": "https://factcheck.thedispatch.com/p/fact-check-biden-exaggerated-vaccine/comments"
-    },
-    {
-      "text": "January 6 Panel Details Trump's Inaction",
-      "url": "https://podcast.thedispatch.com/p/january-6-panel-details-trumps-inaction"
-    },
-    {
-      "text": "Listen now | Sarah and David are joined by The Morning Dispatch editors Declan Garvey and Esther Eaton to discuss the vivid testimonies during Thursday\u2026",
-      "url": "https://podcast.thedispatch.com/p/january-6-panel-details-trumps-inaction"
-    },
-    {
-      "text": "Sarah Isgur",
-      "url": "https://thedispatch.com/people/5849329-sarah-isgur"
-    },
-    {
-      "text": "30",
-      "url": "https://podcast.thedispatch.com/p/january-6-panel-details-trumps-inaction/comments"
-    },
-    {
-      "text": "Stirewaltisms: Trump Helps Biden, Again",
-      "url": "https://sweep.thedispatch.com/p/stirewaltisms-trump-helps-biden-again"
-    },
-    {
-      "text": "If the president is so unpopular, why aren\u2019t Republicans polling better?",
-      "url": "https://sweep.thedispatch.com/p/stirewaltisms-trump-helps-biden-again"
-    },
-    {
-      "text": "Chris Stirewalt",
-      "url": "https://thedispatch.com/people/27227492-chris-stirewalt"
-    },
-    {
-      "text": "38",
-      "url": "https://sweep.thedispatch.com/p/stirewaltisms-trump-helps-biden-again/comments"
-    },
-    {
-      "text": "Fact Check: Are Arizona Election Workers Breaking the Law with Mail-In Ballots? ",
-      "url": "https://factcheck.thedispatch.com/p/fact-check-are-arizona-election-workers"
-    },
-    {
-      "text": "No.",
-      "url": "https://factcheck.thedispatch.com/p/fact-check-are-arizona-election-workers"
-    },
-    {
-      "text": "Khaya Himmelman",
-      "url": "https://thedispatch.com/people/17455447-khaya-himmelman"
-    },
-    {
-      "text": "1",
-      "url": "https://factcheck.thedispatch.com/p/fact-check-are-arizona-election-workers/comments"
-    },
-    {
-      "text": "Trump Sat By as the Capitol Was Under Siege",
-      "url": "https://uphill.thedispatch.com/p/trump-sat-by-as-the-capitol-was-under"
-    },
-    {
-      "text": "Plus: A bipartisan group of senators wants to reform how electoral votes are certified.",
-      "url": "https://uphill.thedispatch.com/p/trump-sat-by-as-the-capitol-was-under"
-    },
-    {
-      "text": "Haley Byrd Wilt",
-      "url": "/people/21384768-haley-byrd-wilt"
-    },
-    {
-      "text": "Augustus Bayard",
-      "url": "/people/97712121-augustus-bayard"
-    },
-    {
-      "text": "23",
-      "url": "https://uphill.thedispatch.com/p/trump-sat-by-as-the-capitol-was-under/comments"
-    },
-    {
-      "text": "Fact Check: Trump Statement on Biden\u2019s COVID Diagnosis a Fake ",
-      "url": "https://factcheck.thedispatch.com/p/fact-check-trump-statement-on-bidens"
-    },
-    {
-      "text": "The former president did not make the widely shared statement.",
-      "url": "https://factcheck.thedispatch.com/p/fact-check-trump-statement-on-bidens"
-    },
-    {
-      "text": "Alec Dent",
-      "url": "https://thedispatch.com/people/7365934-alec-dent"
-    },
-    {
-      "text": "6",
-      "url": "https://factcheck.thedispatch.com/p/fact-check-trump-statement-on-bidens/comments"
-    },
-    {
-      "text": "See all ",
-      "url": "/archive?sort=new"
-    },
-    {
-      "text": "Culture Wars End With Consequences",
-      "url": "https://frenchpress.thedispatch.com/p/culture-wars-end-with-consequences"
-    },
-    {
-      "text": "David French",
-      "url": "https://thedispatch.com/people/5849328-david-french"
-    },
-    {
-      "text": "409",
-      "url": "https://frenchpress.thedispatch.com/p/culture-wars-end-with-consequences/comments"
-    },
-    {
-      "text": "Kamala Harris, the Great Unifier",
-      "url": "https://gfile.thedispatch.com/p/kamala-harris-the-great-unifier"
-    },
-    {
-      "text": "Jonah Goldberg",
-      "url": "https://thedispatch.com/people/4350832-jonah-goldberg"
-    },
-    {
-      "text": "395",
-      "url": "https://gfile.thedispatch.com/p/kamala-harris-the-great-unifier/comments"
-    },
-    {
-      "text": "The God Gap Helps Explain a 'Seismic Shift' in American Politics",
-      "url": "https://frenchpress.thedispatch.com/p/the-most-important-religious-divide"
-    },
-    {
-      "text": "David French",
-      "url": "https://thedispatch.com/people/5849328-david-french"
-    },
-    {
-      "text": "743",
-      "url": "https://frenchpress.thedispatch.com/p/the-most-important-religious-divide/comments"
-    },
-    {
-      "text": "No, Ron DeSantis Isn\u2019t Worse than Trump",
-      "url": "https://frenchpress.thedispatch.com/p/no-ron-desantis-isnt-worse-than-trump"
-    },
-    {
-      "text": "David French",
-      "url": "https://thedispatch.com/people/5849328-david-french"
-    },
-    {
-      "text": "501",
-      "url": "https://frenchpress.thedispatch.com/p/no-ron-desantis-isnt-worse-than-trump/comments"
-    },
-    {
-      "text": "The Limits of Do-Goodery",
-      "url": "https://gfile.thedispatch.com/p/the-limits-of-do-goodery"
-    },
-    {
-      "text": "Jonah Goldberg",
-      "url": "https://thedispatch.com/people/4350832-jonah-goldberg"
-    },
-    {
-      "text": "187",
-      "url": "https://gfile.thedispatch.com/p/the-limits-of-do-goodery/comments"
-    },
-    {
-      "text": "The Case for Prosecuting Donald Trump Just Got Much Stronger",
-      "url": "https://frenchpress.thedispatch.com/p/the-case-for-prosecuting-donald-trump"
-    },
-    {
-      "text": "David French",
-      "url": "https://thedispatch.com/people/5849328-david-french"
-    },
-    {
-      "text": "564",
-      "url": "https://frenchpress.thedispatch.com/p/the-case-for-prosecuting-donald-trump/comments"
-    },
-    {
-      "text": "See all popular ",
-      "url": "/archive?sort=top"
-    },
-    {
-      "text": "About",
-      "url": "/about"
-    },
-    {
-      "text": "Archive",
-      "url": "/archive"
-    },
-    {
-      "text": "Authors",
-      "url": "/about?sort=people"
-    },
-    {
-      "text": "Sitemap",
-      "url": "/sitemap"
-    },
-    {
-      "text": "Privacy",
-      "url": "https://thedispatch.com/privacy"
-    },
-    {
-      "text": "Terms",
-      "url": "/tos"
-    },
-    {
-      "text": "Collection notice",
-      "url": "https://substack.com/ccpa#personal-data-collected"
-    },
-    {
-      "text": " Publish on Substack",
-      "url": "https://substack.com/signup?utm_source=substack&utm_medium=web&utm_content=footer"
-    },
-    {
-      "text": " Get the app",
-      "url": "https://substack.com/app/app-store-redirect?utm_campaign=app-marketing&utm_content=web-footer-button"
-    },
-    {
-      "text": "Substack",
-      "url": "https://substack.com"
-    },
-    {
-      "text": "turn on JavaScript",
-      "url": "https://enable-javascript.com/"
+      "url": "https://thedispatch.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thedispatch_com-_-2022_07_24_03_19_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thedispatch_com-_-2022_07_24_03_19_43.report.json",
+      "summary": {
+        "performance": 0.34,
+        "accessibility": 0.81,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://thedispatch.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thedispatch_com-_-2022_07_24_03_19_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thedispatch_com-_-2022_07_24_03_19_58.report.json",
+      "summary": {
+        "performance": 0.5,
+        "accessibility": 0.81,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://thedispatch.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thedispatch_com-_-2022_07_24_03_20_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thedispatch_com-_-2022_07_24_03_20_11.report.json",
+      "summary": {
+        "performance": 0.51,
+        "accessibility": 0.81,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 2117822112,
+  "uniq": 1684133904,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

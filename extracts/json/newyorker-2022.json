@@ -1,5 +1,5 @@
 {
-  "created": 1658611512,
+  "created": 1658636603,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -3064,31 +3064,83 @@
       "sha1": "7dc681c4fc7ea55088905d635e30af0b677684c4"
     },
     {
+      "name": "newyorker-2022-07-24T00:21:07.117497-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658636470",
+      "size": "47725",
+      "md5": "d34e50d7c55ed896a84673fd8bf1d55d",
+      "crc32": "af23c8d9",
+      "sha1": "9c2d9aa66a6719c8e6bb08ab8341a56c25ccce3b",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-07-24T00:21:07.117497-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658636471",
+      "size": "26462",
+      "md5": "edd0558c0c1d843b020d3ad6037b6f91",
+      "crc32": "512e13f6",
+      "sha1": "47be9ff6171ad74752aad4c8612c19c7d4199450",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-07-24T00:21:07.117497-04:00.jpg",
+      "source": "original",
+      "mtime": "1658636468",
+      "size": "300301",
+      "md5": "c2c4467305f8f2be571d876eaafedc7f",
+      "crc32": "f63d2442",
+      "sha1": "c976344bc7e0f1aa830a24829298ec314ea3e7b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-07-24T00:21:07.117497-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658636473",
+      "size": "1486",
+      "md5": "62d4847277979398e0f8389c8e93b031",
+      "crc32": "5c59b37c",
+      "sha1": "61099b5318048dfe73a8e6e6e66fe0401c5bb6fd",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-07-24T00:21:07.117497-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-07-24T00:21:07.117497-04:00.jpg",
+      "mtime": "1658636548",
+      "size": "9346",
+      "md5": "60205a17db65e66d2b62996e52592606",
+      "crc32": "f5c95702",
+      "sha1": "93c0df758c3684e638a246703317048808aec6b8"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bedf2b0ba25630981076e3bb8ed7bfa5bc8e999a",
-      "mtime": "1658588917",
-      "size": "63028",
-      "md5": "c234aab21be5b010c80da08fa8c0bde7",
-      "crc32": "e315e42d",
-      "sha1": "122c293ce766cd18c0f58cb43fc260ae7922af13",
+      "btih": "99666dce0f2fe292c33cb1569faa9887ec0d5422",
+      "mtime": "1658636565",
+      "size": "64092",
+      "md5": "1e1a9d0786a8f70885114ee367ef8e73",
+      "crc32": "2db1e1d9",
+      "sha1": "b28205bf96bc2155f1ec668b58d560aab1fb4cbd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dafe231a220261912bae55512fd69a65",
+      "md5": "03c20638d50abcb2ef293fa6f3009b85",
       "summation": "md5"
     },
     {
       "name": "newyorker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658588639",
-      "size": "352256",
-      "md5": "f58e201dbe87870e1a18aa79024a049e",
-      "crc32": "a4b9b512",
-      "sha1": "d5b88401c7dd4e1b65894de461681701f6df315f",
+      "mtime": "1658636479",
+      "size": "360448",
+      "md5": "839734346f5900d00b6c304ac8ee9369",
+      "crc32": "117da618",
+      "sha1": "416978158cc66ab9b9836d41427d5376cc037b63",
       "format": "Metadata"
     },
     {
@@ -3102,9 +3154,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 295,
-  "item_last_updated": 1658588917,
-  "item_size": 27269214,
+  "files_count": 300,
+  "item_last_updated": 1658636565,
+  "item_size": 27663790,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -3121,10 +3173,10 @@
     "publicdate": "2022-06-24 22:58:35",
     "addeddate": "2022-06-24 22:58:35"
   },
-  "server": "ia601503.us.archive.org",
-  "uniq": 479313903,
+  "server": "ia801503.us.archive.org",
+  "uniq": 1974651703,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }

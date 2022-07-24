@@ -1,5 +1,5 @@
 {
-  "created": 1658611334,
+  "created": 1658664571,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/kpcc-2022",
@@ -11442,31 +11442,83 @@
       "sha1": "d51e990870a33e478c0f9ec42da5871ff425e701"
     },
     {
+      "name": "kpcc-2022-07-23T21:15:15.045983-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658636126",
+      "size": "20938",
+      "md5": "dfb7850fe7662b9616e2a6b34a6c58a2",
+      "crc32": "8d36f5df",
+      "sha1": "e0dd0c55ed8d27c8218f3019712c721aede5ac1b",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-07-23T21:15:15.045983-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658636128",
+      "size": "30247",
+      "md5": "1be24505d367b3547cfb76b67cc172cc",
+      "crc32": "b0b7e518",
+      "sha1": "b463548ee9e1abd1d34180a300115ba15e206166",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-07-23T21:15:15.045983-07:00.jpg",
+      "source": "original",
+      "mtime": "1658636124",
+      "size": "242318",
+      "md5": "0289df7f6a2f3bc73f676eb575503ae2",
+      "crc32": "21469062",
+      "sha1": "b7b2ad256fd530f1279cb9aebf1a59ec3ab28fd4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-07-23T21:15:15.045983-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658636129",
+      "size": "1423",
+      "md5": "3ab2dbc1a8e2a77e475a34850f4611d3",
+      "crc32": "70a0bdf3",
+      "sha1": "814dd02d7d65973a12f6977b7a9db50e2f439689",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-07-23T21:15:15.045983-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-07-23T21:15:15.045983-07:00.jpg",
+      "mtime": "1658636244",
+      "size": "9157",
+      "md5": "f2292e752b35d8ef8fa96e1ab132c057",
+      "crc32": "6a05c72f",
+      "sha1": "7cd9a1bf4e0fb91a8fb41cbd59b414eb6e91a5ac"
+    },
+    {
       "name": "kpcc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ddb06a365b74548481ceb645d250bbb38ba3abaa",
-      "mtime": "1658600744",
-      "size": "225711",
-      "md5": "cf8e377c2eddca2811bba2d0b33408d9",
-      "crc32": "aea1394f",
-      "sha1": "a272d2f070be2b9be154af959de4448253d94b72",
+      "btih": "b9db66b8d199a2d1799f99393e320b2dbf091265",
+      "mtime": "1658636267",
+      "size": "226750",
+      "md5": "c9a5ef17df2db02b3caabf492bd5610a",
+      "crc32": "9870908a",
+      "sha1": "d1a29cc8040bd2c57fae41144cb407ed9566794a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b99d1a15e5c3e680135c30a1ee51553a",
+      "md5": "f80569457276479019f70a09483900a1",
       "summation": "md5"
     },
     {
       "name": "kpcc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658600638",
-      "size": "1241088",
-      "md5": "d048387da17147012f925611257fc98e",
-      "crc32": "7930bd04",
-      "sha1": "4d47f28aa393d8aaae8b0b2856217e3e72599a4a",
+      "mtime": "1658636133",
+      "size": "1245184",
+      "md5": "5eb534759580de9edc1d780986fcb2d1",
+      "crc32": "6dce0996",
+      "sha1": "9e7872a65397b063e193a005fee437d2f178f9e2",
       "format": "Metadata"
     },
     {
@@ -11480,9 +11532,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1092,
-  "item_last_updated": 1658600744,
-  "item_size": 87585185,
+  "files_count": 1097,
+  "item_last_updated": 1658636267,
+  "item_size": 87894403,
+  "kpcc-2022": [
+    {
+      "url": "https://www.kpcc.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_24_01_02_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_24_01_02_52.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.82,
+        "best-practices": 1,
+        "seo": 1,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.kpcc.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_24_01_03_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_24_01_03_23.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.82,
+        "best-practices": 1,
+        "seo": 1,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.kpcc.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_24_01_03_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kpcc_org-_-2022_07_24_01_03_09.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.82,
+        "best-practices": 1,
+        "seo": 1,
+        "pwa": 0.3
+      }
+    }
+  ],
   "metadata": {
     "identifier": "kpcc-2022",
     "collection": [
@@ -11500,7 +11593,7 @@
     "addeddate": "2022-03-23 02:08:21"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 35348928,
+  "uniq": 1606223042,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

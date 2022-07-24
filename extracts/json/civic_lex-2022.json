@@ -1,5 +1,5 @@
 {
-  "created": 1658617566,
+  "created": 1658660607,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/6/items/civic_lex-2022",
@@ -1328,31 +1328,83 @@
       "sha1": "d0548306a46b87eae465b760b90b0075be73e669"
     },
     {
+      "name": "civic_lex-2022-07-24T07:01:42.729775-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658660506",
+      "size": "12458",
+      "md5": "aa38bd5ff4c7ab77b3df0252fe5cc4ae",
+      "crc32": "fcb629c9",
+      "sha1": "8131ef3ad8025882202b0f9291085255ef0e26c8",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-07-24T07:01:42.729775-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658660507",
+      "size": "9605",
+      "md5": "612c6065d865893d7bf8e40a8b00eca4",
+      "crc32": "9385f6dd",
+      "sha1": "9660ff4d97b856fc8d8e2ab80eaf20b54391b638",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-07-24T07:01:42.729775-04:00.jpg",
+      "source": "original",
+      "mtime": "1658660504",
+      "size": "158788",
+      "md5": "fa5892896c1bf0332d556a9b98460bc1",
+      "crc32": "fbe33921",
+      "sha1": "3580906b1bf3c2b5de4092ae56a5e5294f799c61",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civic_lex-2022-07-24T07:01:42.729775-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658660508",
+      "size": "1477",
+      "md5": "a873fa54b48c312631147294a6d3e2c4",
+      "crc32": "1a43d893",
+      "sha1": "96493d794d99fe3e23f68eea1e4313d5c866d077",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-07-24T07:01:42.729775-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "civic_lex-2022-07-24T07:01:42.729775-04:00.jpg",
+      "mtime": "1658660569",
+      "size": "8734",
+      "md5": "6e6b8bb86f38d53f8d4cb94a4fd4042e",
+      "crc32": "fb53eba4",
+      "sha1": "d0548306a46b87eae465b760b90b0075be73e669"
+    },
+    {
       "name": "civic_lex-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3feeff47a48d00a1d57657e36f10f8d68725900b",
-      "mtime": "1658617527",
-      "size": "27854",
-      "md5": "0527cd67e01c26af10f4d408f6028737",
-      "crc32": "69e7346f",
-      "sha1": "5c10b4c467664e5597c7e200cf97e70e68a59993",
+      "btih": "e3ab5e903d4ce5a7a056ae4f772dfc5d655d7392",
+      "mtime": "1658660573",
+      "size": "28917",
+      "md5": "1ca38295818e822aaffa9acacb3f953c",
+      "crc32": "e6b1ee44",
+      "sha1": "006def2e039251e255ac987fc471c8a60096352c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civic_lex-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86d9d6de0390324e902d6f34053da02d",
+      "md5": "e74c583e929f7c1d46535c2c0bf75b61",
       "summation": "md5"
     },
     {
       "name": "civic_lex-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658617398",
-      "size": "167936",
-      "md5": "1da56a935a94ad69ff2b2c6ee522f6b0",
-      "crc32": "6e2fe984",
-      "sha1": "5f47eec9d65907c57e83327876695a5143962c4e",
+      "mtime": "1658660512",
+      "size": "172032",
+      "md5": "ec88dcfd0f50ea2b989692fd386b2543",
+      "crc32": "938ce551",
+      "sha1": "545a9b7f62c0cb2d09ac0a311e2a75da53d6394b",
       "format": "Metadata"
     },
     {
@@ -1366,9 +1418,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 130,
-  "item_last_updated": 1658617527,
-  "item_size": 6165230,
+  "files_count": 135,
+  "item_last_updated": 1658660573,
+  "item_size": 6361451,
   "metadata": {
     "identifier": "civic_lex-2022",
     "collection": [
@@ -1385,10 +1437,10 @@
     "publicdate": "2022-07-09 03:57:14",
     "addeddate": "2022-07-09 03:57:14"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 1201227375,
+  "server": "ia601507.us.archive.org",
+  "uniq": 1956449944,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

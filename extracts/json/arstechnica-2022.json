@@ -1,5 +1,5 @@
 {
-  "created": 1658617235,
+  "created": 1658660574,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/31/items/arstechnica-2022",
@@ -2316,31 +2316,83 @@
       "sha1": "7071fda3cc842d66c8d7149c121a7bc111ff0ed8"
     },
     {
+      "name": "arstechnica-2022-07-24T06:56:28.756720-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658660192",
+      "size": "32394",
+      "md5": "da94a5c790a2c3a3dd00d43ffa8716c2",
+      "crc32": "c1fe2368",
+      "sha1": "6167325c7fccc22a4f062d972dd223276f50eca6",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-07-24T06:56:28.756720-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658660194",
+      "size": "35458",
+      "md5": "e5e95a20e9ff7b7d4b0d8afbd1ea81b6",
+      "crc32": "f4cea677",
+      "sha1": "ee1d76290e35630faefeb0a1f55a27b8a4291081",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-07-24T06:56:28.756720-04:00.jpg",
+      "source": "original",
+      "mtime": "1658660190",
+      "size": "296048",
+      "md5": "2a66045a189c27c997b70790fb1e8931",
+      "crc32": "774c83f4",
+      "sha1": "6096cfcd8660a7da524e42a2005a8794e0f83a8c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arstechnica-2022-07-24T06:56:28.756720-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658660195",
+      "size": "1466",
+      "md5": "3240cb18ee8ddd71b8fe6f864ee586fe",
+      "crc32": "5cf338e2",
+      "sha1": "ee40bf34462e0a2e6c4157941f53b857ff2a3d4e",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-07-24T06:56:28.756720-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arstechnica-2022-07-24T06:56:28.756720-04:00.jpg",
+      "mtime": "1658660428",
+      "size": "10975",
+      "md5": "3762287ae442b755ae2386d1432e1e9f",
+      "crc32": "52413d56",
+      "sha1": "fe70ece0cb38315f1a414c0ee2c19fce05021235"
+    },
+    {
       "name": "arstechnica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d2650dec8f413868a787f12f04ffd18ca4c05947",
-      "mtime": "1658617227",
-      "size": "48607",
-      "md5": "a08a2932cf16e35d473151229fc7de61",
-      "crc32": "fb46fc4d",
-      "sha1": "8859cfdf934ba861546d36a6fea60827fa3091b2",
+      "btih": "cda17b802f7194b226a3a97c8a229a3cbbd09cdd",
+      "mtime": "1658660547",
+      "size": "49682",
+      "md5": "44c17c1b42ac5a4e9129aca15de9f850",
+      "crc32": "65994dab",
+      "sha1": "00a86d7ae11a6d4f21e5293cee2733c68b5e22ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arstechnica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e91da4284a6223650ab6ed8596ee9715",
+      "md5": "a29a9271cfecb21dd639a29c86b107d3",
       "summation": "md5"
     },
     {
       "name": "arstechnica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658617154",
-      "size": "274432",
-      "md5": "e248dde9c0a1968ffe76e3f9cfeede6a",
-      "crc32": "6154ab9f",
-      "sha1": "76227d2162516d3b47fe26d7e0816966951977d1",
+      "mtime": "1658660200",
+      "size": "278528",
+      "md5": "0bc6fc46d4beb3b95721f53693b3a8e8",
+      "crc32": "f60f7393",
+      "sha1": "6183bc05d76af8950cc4b4ca8b4d0f760cb0bcb7",
       "format": "Metadata"
     },
     {
@@ -2354,9 +2406,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 224,
-  "item_last_updated": 1658617227,
-  "item_size": 23115230,
+  "files_count": 229,
+  "item_last_updated": 1658660547,
+  "item_size": 23496742,
   "metadata": {
     "identifier": "arstechnica-2022",
     "collection": [
@@ -2374,7 +2426,7 @@
     "addeddate": "2022-07-04 20:17:38"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1716406281,
+  "uniq": 1162843355,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

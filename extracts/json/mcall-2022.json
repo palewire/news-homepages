@@ -1,5 +1,5 @@
 {
-  "created": 1658588567,
+  "created": 1658664655,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/23/items/mcall-2022",
@@ -3028,31 +3028,83 @@
       "sha1": "157474e56f2018d0e216aa6f2edf6db57ca37bda"
     },
     {
+      "name": "mcall-2022-07-24T00:18:15.040852-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658636297",
+      "size": "70534",
+      "md5": "b62df11436453c2c66a4deb1ce4a4d99",
+      "crc32": "0ffc8fc3",
+      "sha1": "7dabd9179ddf60ff20851b8e62ae2535ea8ed25a",
+      "format": "JSON"
+    },
+    {
+      "name": "mcall-2022-07-24T00:18:15.040852-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658636298",
+      "size": "86132",
+      "md5": "80a396bc59cd2a101352dde361d4c497",
+      "crc32": "cfd27456",
+      "sha1": "c7563c9509e4ae941f740fa56e9596d6e5915ef7",
+      "format": "JSON"
+    },
+    {
+      "name": "mcall-2022-07-24T00:18:15.040852-04:00.jpg",
+      "source": "original",
+      "mtime": "1658636296",
+      "size": "274621",
+      "md5": "2e617b6dcbe50897c66ae73aaf022a07",
+      "crc32": "c56ff4dc",
+      "sha1": "9f75e09a55e1aa56b73a7de6afcb5caa348b4af0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcall-2022-07-24T00:18:15.040852-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658636300",
+      "size": "1450",
+      "md5": "85184f4fc990d842655b5ee484693fba",
+      "crc32": "78b49bab",
+      "sha1": "add9a79b3cdb8439f582b20c5ee09f08a1ea679e",
+      "format": "JSON"
+    },
+    {
+      "name": "mcall-2022-07-24T00:18:15.040852-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcall-2022-07-24T00:18:15.040852-04:00.jpg",
+      "mtime": "1658636465",
+      "size": "9532",
+      "md5": "d37aaa9da4aa7c6248b05283abbc3ab5",
+      "crc32": "ad193ca2",
+      "sha1": "f56b08077d54fb8860bfa286413b1bef868def76"
+    },
+    {
       "name": "mcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1993f2e5e98fa7564f579a00a29f8067d54947c8",
-      "mtime": "1658588545",
-      "size": "61423",
-      "md5": "ac33462e7892e00cefa092e118c12b7e",
-      "crc32": "371e93a4",
-      "sha1": "2e194905f3d8b71cb4f0d893ccab8bf45834ce6f",
+      "btih": "74eb5ff6a633acb5adc67fc856f326c108b3a1d6",
+      "mtime": "1658636625",
+      "size": "62467",
+      "md5": "a476e7f828b9b599c42e48ca06f4619c",
+      "crc32": "fda38aab",
+      "sha1": "247b1b9d0e27e440369fb63920aa4c48b976bf52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a0f54489525449919064785a93eab2bf",
+      "md5": "b7ceeffc47605ccd7d1e402a0cd36399",
       "summation": "md5"
     },
     {
       "name": "mcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658588447",
-      "size": "348160",
-      "md5": "4fb0fcae008dd7ff1dcabbf805f7f0e1",
-      "crc32": "864652db",
-      "sha1": "8ed5bafebc7f60d28d7dd95e96d2b37cfadccfa1",
+      "mtime": "1658636303",
+      "size": "356352",
+      "md5": "a49998a7899634491c529dc7a94ea2d3",
+      "crc32": "83ec1722",
+      "sha1": "d97f084aa7ccf47140163d6c98a11fdcf05ccdbb",
       "format": "Metadata"
     },
     {
@@ -3066,9 +3118,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 292,
-  "item_last_updated": 1658588545,
-  "item_size": 31486753,
+  "files_count": 297,
+  "item_last_updated": 1658636625,
+  "item_size": 31938258,
+  "mcall-2022": [
+    {
+      "url": "https://www.mcall.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mcall_com-_-2022_07_24_01_08_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mcall_com-_-2022_07_24_01_08_02.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.78,
+        "best-practices": 0.83,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.mcall.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mcall_com-_-2022_07_24_01_09_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mcall_com-_-2022_07_24_01_09_19.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.78,
+        "best-practices": 0.83,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.mcall.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mcall_com-_-2022_07_24_01_07_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mcall_com-_-2022_07_24_01_07_17.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.78,
+        "best-practices": 0.83,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "mcall-2022",
     "collection": [
@@ -3085,10 +3178,10 @@
     "publicdate": "2022-06-24 22:58:06",
     "addeddate": "2022-06-24 22:58:06"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 497502892,
+  "server": "ia801508.us.archive.org",
+  "uniq": 987316981,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

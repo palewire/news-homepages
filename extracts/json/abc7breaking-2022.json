@@ -1,5 +1,5 @@
 {
-  "created": 1658617140,
+  "created": 1658660262,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/5/items/abc7breaking-2022",
@@ -614,31 +614,83 @@
       "sha1": "2d93c373384ce9c72e40178c6d9b09dcac0a0079"
     },
     {
+      "name": "abc7breaking-2022-07-24T05:55:32.485303-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658660135",
+      "size": "19137",
+      "md5": "0048d6551f413408edd5ef4b33d30873",
+      "crc32": "dc3c5483",
+      "sha1": "2be16baf2a1f0a2b44550497aacb993588edd884",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-07-24T05:55:32.485303-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658660137",
+      "size": "33699",
+      "md5": "7c7909a7b008452e405af859a39f4ce8",
+      "crc32": "30bd48f6",
+      "sha1": "4a8248c15c91a8789d33c9d8f8732853212d3783",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-07-24T05:55:32.485303-05:00.jpg",
+      "source": "original",
+      "mtime": "1658660134",
+      "size": "171675",
+      "md5": "4ca40305bc866e2e15cb4e54d856b236",
+      "crc32": "7c0113df",
+      "sha1": "0dc66f943210bbb00ece7f49c416756e9629c03b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc7breaking-2022-07-24T05:55:32.485303-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658660138",
+      "size": "1405",
+      "md5": "4bc56f703079a04c22c26497a48e1f84",
+      "crc32": "71b0e2ef",
+      "sha1": "14c1c5013e015c4891775d16195da3759152ebc8",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-07-24T05:55:32.485303-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7breaking-2022-07-24T05:55:32.485303-05:00.jpg",
+      "mtime": "1658660220",
+      "size": "8796",
+      "md5": "d673c9bedfc9d1649f209b5058e67132",
+      "crc32": "910c6c15",
+      "sha1": "fcfff1fef6aa7c62d71d078905cd2ee80ac7d21d"
+    },
+    {
       "name": "abc7breaking-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92e86a8de1fa6a87b367b4329a629bd59ab84e7b",
-      "mtime": "1658617123",
-      "size": "13849",
-      "md5": "95d624feeadea51d98bed00f852825a7",
-      "crc32": "7e09513d",
-      "sha1": "c39e775ddf5752f036ea1285152e309e80d245a4",
+      "btih": "76f81b02c364afb652ec57a222889cdcbcbcd685",
+      "mtime": "1658660232",
+      "size": "14928",
+      "md5": "cb779eaf1996d859ae15955906850ddb",
+      "crc32": "23b5753e",
+      "sha1": "f7a1306b02f8059ff5329516ea581eca2fc3d6dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7breaking-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b0217c2bdd9f27dde23173870e92203",
+      "md5": "063809b5839cc0e4d90c7861b04c5fa4",
       "summation": "md5"
     },
     {
       "name": "abc7breaking-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658617069",
-      "size": "81920",
-      "md5": "64c0742e8bf4b7f9d230c2484b011bfd",
-      "crc32": "2f94bd95",
-      "sha1": "465f500ae17a41682dd3919d66b1e9b570f23c6a",
+      "mtime": "1658660141",
+      "size": "86016",
+      "md5": "99effd2cc72e960daea6a75f155a4564",
+      "crc32": "28d052cf",
+      "sha1": "241d2e13e4d037b1dd236ca35d2eb7fdf0ce9d62",
       "format": "Metadata"
     },
     {
@@ -652,9 +704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 62,
-  "item_last_updated": 1658617123,
-  "item_size": 4143011,
+  "files_count": 67,
+  "item_last_updated": 1658660232,
+  "item_size": 4382898,
   "metadata": {
     "identifier": "abc7breaking-2022",
     "collection": [
@@ -671,10 +723,10 @@
     "publicdate": "2022-07-18 00:04:35",
     "addeddate": "2022-07-18 00:04:35"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 272640292,
+  "server": "ia601507.us.archive.org",
+  "uniq": 180679549,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

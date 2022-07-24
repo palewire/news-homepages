@@ -1,5 +1,5 @@
 {
-  "created": 1658622383,
+  "created": 1658664707,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/nbcchicago-2022",
@@ -2526,31 +2526,83 @@
       "sha1": "3a40f312508e6253ef6a98ea595e251fb80de24f"
     },
     {
+      "name": "nbcchicago-2022-07-23T23:20:08.808156-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658636414",
+      "size": "48561",
+      "md5": "c4a956478e27b45cc57ae685f348d356",
+      "crc32": "16f585c9",
+      "sha1": "973ed8609a4276b82d353eba3b3e7915f4a8c24d",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-07-23T23:20:08.808156-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658636416",
+      "size": "57113",
+      "md5": "d9af63d623cd8ef03d4f0a011ce2c0f4",
+      "crc32": "6fbd999e",
+      "sha1": "ba562a7ed7acd811e853319230aa185f13acf9c4",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-07-23T23:20:08.808156-05:00.jpg",
+      "source": "original",
+      "mtime": "1658636411",
+      "size": "285160",
+      "md5": "803f24b0bcaee365a6ab12bbabca1eb9",
+      "crc32": "b0935fa1",
+      "sha1": "540dabb8e4ff5f8cabbb430b0aad5fb8e306c6bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcchicago-2022-07-23T23:20:08.808156-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658636417",
+      "size": "1495",
+      "md5": "5d405bd25e80dd8ac4af44b9286fd9d6",
+      "crc32": "7253c096",
+      "sha1": "6d9c7ce177e9f55b94cb0f2626142c615d8c0756",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-07-23T23:20:08.808156-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcchicago-2022-07-23T23:20:08.808156-05:00.jpg",
+      "mtime": "1658636645",
+      "size": "9899",
+      "md5": "48400e10d01bc8844f91ac38943ac610",
+      "crc32": "bf1f017e",
+      "sha1": "add15581e85c7b3ca471e188f65dc02b277a0ceb"
+    },
+    {
       "name": "nbcchicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6634ba615b3540df71f10f76a09ddfd7c8e0e5dd",
-      "mtime": "1658588672",
-      "size": "52657",
-      "md5": "fde4d006f16aa0b901cb64adb5b40f10",
-      "crc32": "ad72f0da",
-      "sha1": "8e1a58e953e5ffdfa648b2f08278cad1372703f4",
+      "btih": "3502b622706665c2f1d381704c4ccd61e4c090aa",
+      "mtime": "1658636652",
+      "size": "53727",
+      "md5": "0b42bf5e746ea25b846948a4c55ebf31",
+      "crc32": "2733ca84",
+      "sha1": "371426c1a184285eb448335ce505bed6dd960e08",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcchicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77dd1e8e05cb996b692c03c041be0418",
+      "md5": "dca4a137afa384b9015eb17f3fdd9042",
       "summation": "md5"
     },
     {
       "name": "nbcchicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658588610",
-      "size": "294912",
-      "md5": "cdc168dd13e2cf67c134828d3a431ca4",
-      "crc32": "1df45298",
-      "sha1": "322643cf770a3d0b70e2a64bc25175ec869bc2bd",
+      "mtime": "1658636427",
+      "size": "299008",
+      "md5": "006664c7aa2e6fcd1dbdf85b9080a952",
+      "crc32": "4e0d3df1",
+      "sha1": "71e74516c979114a8210d7952ce765daabe789a2",
       "format": "Metadata"
     },
     {
@@ -2564,9 +2616,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 244,
-  "item_last_updated": 1658588672,
-  "item_size": 25391028,
+  "files_count": 249,
+  "item_last_updated": 1658636652,
+  "item_size": 25798422,
   "metadata": {
     "identifier": "nbcchicago-2022",
     "collection": [
@@ -2585,1216 +2637,47 @@
   },
   "nbcchicago-2022": [
     {
-      "text": "Skip to content",
-      "url": "#content"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/"
-    },
-    {
-      "text": "Local",
-      "url": "/news/local/"
-    },
-    {
-      "text": "Weather",
-      "url": "/weather/"
-    },
-    {
-      "text": "Video",
-      "url": "/videos/"
-    },
-    {
-      "text": "Investigations",
-      "url": "/investigations/"
-    },
-    {
-      "text": "Entertainment",
-      "url": "/entertainment/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports/"
-    },
-    {
-      "text": "NBC 5 Responds",
-      "url": "/consumer/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://www.nbcchicago.com/newsletters/"
-    },
-    {
-      "text": "Partly Cloudy74\u00ba",
-      "url": "https://www.nbcchicago.com/weather/"
-    },
-    {
-      "text": "Live TV",
-      "url": "https://www.nbcchicago.com/live"
-    },
-    {
-      "text": "COVID Live Blog",
-      "url": "https://www.nbcchicago.com/news/coronavirus/illinois-coronavirus-updates-longer-positivity-covid-antiviral-medicine-and-more/2887420/"
-    },
-    {
-      "text": "Watch 24/7 on Roku",
-      "url": "https://www.nbcchicago.com/news/local/nbc-chicago-news-watch-local-news-on-roku-anytime/2868139/?_osource=mk_npd_nbc_chi_ot_genroku"
-    },
-    {
-      "text": "Emmett Till Trial",
-      "url": "https://www.nbcchicago.com/top-videos-home/trial-in-the-delta-watch-re-enactment-of-trial-over-emmett-tills-murder/2831612/"
-    },
-    {
-      "text": "Chicago Today",
-      "url": "https://www.nbcchicago.com/entertainment/chicago-today/"
-    },
-    {
-      "text": "The Food Guy",
-      "url": "https://www.nbcchicago.com/the-food-guy/"
-    },
-    {
-      "text": "NBC LX",
-      "url": "https://www.nbcchicago.com/lx/"
-    },
-    {
-      "text": "NBC Sports Chicago",
-      "url": "https://www.nbcsports.com/chicago"
-    },
-    {
-      "text": "28 Weather Alerts",
-      "url": "https://www.nbcchicago.com/weather/severe-weather-alerts/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/thunderstorm-warnings-issued-for-parts-of-chicago-area-amid-heavy-rainfall-high-winds/2896586/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tChicago Weather\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/chicago-weather/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tThunderstorm Warning Issued for Parts of Chicago Area Amid Heavy Rainfall, High Winds\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/thunderstorm-warnings-issued-for-parts-of-chicago-area-amid-heavy-rainfall-high-winds/2896586/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-weather-severe-thunderstorms-h60-mph-wind-gusts-possible-this-weekend/2896201/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tChicago Weather\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/chicago-weather/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tSaturday Morning Storms Leave Behind Flooding, Potential For More Severe Weather\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-weather-severe-thunderstorms-h60-mph-wind-gusts-possible-this-weekend/2896201/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tEisenhower Expressway\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/eisenhower-expressway/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tStorms Flood Portions of Eisenhower Expressway\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/top-videos-home/storms-flood-portions-of-eisenhower-expressway/2896542/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tChicago Weather\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/chicago-weather/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tTornado Confirmed in South Naperville Saturday Morning: National Weather Service\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/tornado-confirmed-in-south-naperville-storm-survey/2896565/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tCapitol Riot\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/capitol-riot/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tJan. 6 Hearings Traced Arc of Chaos and \u2018Carnage' Wrought by Trump\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/jan-6-hearings-traced-arc-of-chaos-and-carnage-wrought-by-trump/2896536/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-radar-track-rain-and-storms-as-they-move-through-your-area-2/2896514/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tChicago Radar\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/chicago-radar/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tChicago Radar: Track Rain and Storms as They Move Through Your Area\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-radar-track-rain-and-storms-as-they-move-through-your-area-2/2896514/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/bolingbrook-police-fatally-shot-man-who-reportedly-stabbed-dog-another-man-officials/2895174/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tBolingbrook\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/bolingbrook/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tBolingbrook Police Fatally Shot Man Who Reportedly Stabbed Dog, Another Man: Officials\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/bolingbrook-police-fatally-shot-man-who-reportedly-stabbed-dog-another-man-officials/2895174/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/here-are-the-winning-numbers-for-fridays-mega-millions-660m-jackpot/2896452/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tmega millions\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/mega-millions/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tNo Jackpot Winner in Friday Mega Millions; Prize Climbs to $790M for Tuesday Drawing\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/here-are-the-winning-numbers-for-fridays-mega-millions-660m-jackpot/2896452/"
-    },
-    {
-      "text": "\n\t\t\tSee all\t\t",
-      "url": "/news/local/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/weather/chicago-weather-more-storms-possible-saturday-evening/2896557/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tChicago Weather\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/chicago-weather/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tChicago Weather: More Storms Possible Saturday Evening\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/weather/chicago-weather-more-storms-possible-saturday-evening/2896557/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/growing-concerns-about-festival-safety-after-shots-ring-out-at-chicagos-shakespeare-in-the-parks/2896434/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tshakespeare in the parks\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/shakespeare-in-the-parks/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tGrowing Concerns About Festival Safety After Shots Ring Out at Chicago's Shakespeare i...\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/growing-concerns-about-festival-safety-after-shots-ring-out-at-chicagos-shakespeare-in-the-parks/2896434/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/investigations/video-shows-timeline-of-chicago-ambulance-theft-that-sparked-i-55-pursuit/2895303/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tChicago Fire Department\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/chicago-fire-department/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tVideo Shows Timeline of Chicago Ambulance Theft That Sparked I-55 Pursuit\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/investigations/video-shows-timeline-of-chicago-ambulance-theft-that-sparked-i-55-pursuit/2895303/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tChicago Weather\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/chicago-weather/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tTornado Confirmed in South Naperville Saturday Morning: National Weather Service\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/tornado-confirmed-in-south-naperville-storm-survey/2896565/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tKierra Coles\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/kierra-coles/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tNew Clues in the Case of Missing Pregnant Postal Worker Kierra Coles\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/new-clues-in-the-case-of-missing-pregnant-postal-worker-kierra-coles/2887871/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tcdc covid guidelines\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/cdc-covid-guidelines/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tIs COVID's Incubation Period Changing With BA.5 Subvariant? Chicago's Top Doctor Explains\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/coronavirus/is-covids-incubation-period-changing-with-new-ba-5-subvariant-chicagos-top-doctor-explains/2885562/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tcolleges\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/colleges/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t2 Illinois Colleges Rank Among Most Expensive in US \u2014 1 in Chicago, 1 in Suburbs: List\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/2-illinois-colleges-rank-among-most-expensive-in-us-1-in-chicago-1-in-suburbs-list/2887888/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tChicago Weather\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/chicago-weather/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tSaturday Morning Storms Leave Behind Flooding, Potential For More Severe Weather\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-weather-severe-thunderstorms-h60-mph-wind-gusts-possible-this-weekend/2896201/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tcdc covid guidelines\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/cdc-covid-guidelines/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tHow Long Can You Test Positive for COVID After Recovering From Virus?\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/coronavirus/how-long-can-you-test-positive-for-covid-after-recovering-from-virus/2883502/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-radar-track-rain-and-storms-as-they-move-through-your-area-2/2896514/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tChicago Radar\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/chicago-radar/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tChicago Radar: Track Rain and Storms as They Move Through Your Area\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-radar-track-rain-and-storms-as-they-move-through-your-area-2/2896514/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/bolingbrook-police-fatally-shot-man-who-reportedly-stabbed-dog-another-man-officials/2895174/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tBolingbrook\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/bolingbrook/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tBolingbrook Police Fatally Shot Man Who Reportedly Stabbed Dog, Another Man: Officials\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/bolingbrook-police-fatally-shot-man-who-reportedly-stabbed-dog-another-man-officials/2895174/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/here-are-the-winning-numbers-for-fridays-mega-millions-660m-jackpot/2896452/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tmega millions\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/mega-millions/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tNo Jackpot Winner in Friday Mega Millions; Prize Climbs to $790M for Tuesday Drawing\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/here-are-the-winning-numbers-for-fridays-mega-millions-660m-jackpot/2896452/"
-    },
-    {
-      "text": "\n\t\t\t\t\n                    \n\t\t\t\t\n\t\t\t",
-      "url": "https://www.nbcchicago.com/weather/?__osource=wtvj_weather_widget"
-    },
-    {
-      "text": "\n\t\t74\u00b0Partly Cloudy1.61% PrecipTonight76\u00b0Tomorrow86\u00b0\n\t",
-      "url": "https://www.nbcchicago.com/weather/"
-    },
-    {
-      "text": "28 Weather Alerts",
-      "url": "https://www.nbcchicago.com/weather/severe-weather-alerts/"
-    },
-    {
-      "text": "\n\t\t\t\tSee full forecast\t\t\t",
-      "url": "https://www.nbcchicago.com/weather/"
-    },
-    {
-      "text": "\n\t\t\t\t\tSee all\t\t\t\t",
-      "url": "https://www.nbcchicago.com/videos/"
-    },
-    {
-      "text": "",
-      "url": "#"
-    },
-    {
-      "text": "Eisenhower Expressway",
-      "url": "https://www.nbcchicago.com/tag/eisenhower-expressway/"
-    },
-    {
-      "text": "Storms Flood Portions of Eisenhower Expressway",
-      "url": "https://www.nbcchicago.com/top-videos-home/storms-flood-portions-of-eisenhower-expressway/2896542/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/nightly-update-chicago-violence-monkeypox-threat/2896411/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/nightly-update-chicago-violence-monkeypox-threat/2896411/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/nightly-update-chicago-violence-monkeypox-threat/2896411/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/nightly-update-chicago-violence-monkeypox-threat/2896411/"
-    },
-    {
-      "text": "nbc 5 nightly update",
-      "url": "https://www.nbcchicago.com/tag/nbc-5-nightly-update/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/video-shows-timeline-of-chicago-ambulance-theft-that-sparked-i-55-pursuit/2894901/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/video-shows-timeline-of-chicago-ambulance-theft-that-sparked-i-55-pursuit/2894901/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/video-shows-timeline-of-chicago-ambulance-theft-that-sparked-i-55-pursuit/2894901/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/video-shows-timeline-of-chicago-ambulance-theft-that-sparked-i-55-pursuit/2894901/"
-    },
-    {
-      "text": "Chicago Fire Department",
-      "url": "https://www.nbcchicago.com/tag/chicago-fire-department/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos/2-illinois-colleges-rank-among-most-expensive-in-us-1-in-chicago-1-in-suburbs-list/2893716/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos/2-illinois-colleges-rank-among-most-expensive-in-us-1-in-chicago-1-in-suburbs-list/2893716/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos/2-illinois-colleges-rank-among-most-expensive-in-us-1-in-chicago-1-in-suburbs-list/2893716/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos/2-illinois-colleges-rank-among-most-expensive-in-us-1-in-chicago-1-in-suburbs-list/2893716/"
-    },
-    {
-      "text": "University of Chicago",
-      "url": "https://www.nbcchicago.com/tag/university-of-chicago/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/6-arrested-after-violent-robbery-attempt-on-cta-train-near-lincoln-park/2893385/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/6-arrested-after-violent-robbery-attempt-on-cta-train-near-lincoln-park/2893385/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/6-arrested-after-violent-robbery-attempt-on-cta-train-near-lincoln-park/2893385/"
-    },
-    {
-      "text": "",
-      "url": "https://www.nbcchicago.com/top-videos-home/6-arrested-after-violent-robbery-attempt-on-cta-train-near-lincoln-park/2893385/"
-    },
-    {
-      "text": "Lincoln Park",
-      "url": "https://www.nbcchicago.com/tag/lincoln-park/"
-    },
-    {
-      "text": "See all",
-      "url": "/news/local/chicago-politics/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/pritzker-asks-feds-for-more-monkeypox-vaccine-doses-as-chicago-cases-rise/2887609/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tPritzker\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/pritzker/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tPritzker Asks Feds For More Monkeypox Vaccine Doses as Chicago Cases Rise\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/pritzker-asks-feds-for-more-monkeypox-vaccine-doses-as-chicago-cases-rise/2887609/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-politics/chicago-city-council-rejects-push-to-raise-minimum-threshold-to-trigger-citations-at-speed-cameras/2886831/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tChicago City Council\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/chicago-city-council/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tChicago City Council Rejects Push to Raise Minimum Threshold to Trigger Citations at Speed Cameras\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-politics/chicago-city-council-rejects-push-to-raise-minimum-threshold-to-trigger-citations-at-speed-cameras/2886831/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/top-videos-home/chicago-city-council-members-wave-caution-flag-on-nascar-race/2885884/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tNASCAR\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/nascar/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tChicago City Council Members Wave Caution Flag on NASCAR Race\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/top-videos-home/chicago-city-council-members-wave-caution-flag-on-nascar-race/2885884/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-politics/gov-jb-pritzker-tests-positive-for-covid/2885432/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tPritzker\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/pritzker/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tIllinois Gov. JB Pritzker Tests Positive for COVID\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-politics/gov-jb-pritzker-tests-positive-for-covid/2885432/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/top-videos-home/chicago-city-council-to-vote-on-street-racing-ordinance/2884747/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tchicago street racing\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/chicago-street-racing/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tChicago City Council to Vote on Street Racing Ordinance\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/top-videos-home/chicago-city-council-to-vote-on-street-racing-ordinance/2884747/"
-    },
-    {
-      "text": "See all",
-      "url": "/news/coronavirus/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/coronavirus/cdph-issues-warning-as-cook-county-stays-at-high-covid-level-for-another-week/2893551/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tCoronavirus Illinois Vaccinations\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/coronavirus-illinois-vaccinations/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tCDPH Issues Warning as Cook County Stays at \u2018High' COVID Level for Another Week\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/coronavirus/cdph-issues-warning-as-cook-county-stays-at-high-covid-level-for-another-week/2893551/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/coronavirus/how-long-do-you-have-to-quarantine-chicagos-top-doc-weighs-in-on-guidance-as-ba-5-spreads/2888846/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tcdc covid guidelines\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/cdc-covid-guidelines/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tHow Long Do You Have to Quarantine? Chicago's Top Doc Weighs in on Guidance as BA.5 Spreads\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/coronavirus/how-long-do-you-have-to-quarantine-chicagos-top-doc-weighs-in-on-guidance-as-ba-5-spreads/2888846/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/coronavirus/how-accurate-are-at-home-covid-tests-with-ba-5-chicagos-top-doc-explains/2889574/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tat-home covid tests\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/at-home-covid-tests/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tHow Accurate Are At-Home COVID Tests With BA.5? Chicago's Top Doc Explains\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/coronavirus/how-accurate-are-at-home-covid-tests-with-ba-5-chicagos-top-doc-explains/2889574/"
-    },
-    {
-      "text": "See all",
-      "url": "/lxnews/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.lx.com/climate/tiktok-wants-you-to-make-an-ecobrick-from-plastic-trash-should-you/55946/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tsocial media\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/social-media/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tTikTok Wants You to Make \u2018Ecobricks' From Plastic Trash. Should You?\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.lx.com/climate/tiktok-wants-you-to-make-an-ecobrick-from-plastic-trash-should-you/55946/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/how-one-mental-health-expert-talked-to-her-daughter-about-allegations-of-bias-at-sesame-place/2888577/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tracism\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/racism/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tHow One Mental Health Expert Talked to Her Daughter About Allegations of Bias at Sesame Place\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/how-one-mental-health-expert-talked-to-her-daughter-about-allegations-of-bias-at-sesame-place/2888577/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/trump-watched-tv-as-rioters-besieged-the-capitol/2888172/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tCapitol Riot\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/capitol-riot/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tTrump Watched TV as Rioters Besieged the Capitol\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/trump-watched-tv-as-rioters-besieged-the-capitol/2888172/"
-    },
-    {
-      "text": "See all",
-      "url": "/news/national-international/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/un-health-agency-declares-monkeypox-a-global-emergency/2896590/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tUN Health Agency Declares Monkeypox a Global Emergency\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/un-health-agency-declares-monkeypox-a-global-emergency/2896590/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/russia-ukraine-trade-missile-strikes-on-wars-150th-day/2896497/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tRussia\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/russia/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tRussia Hits Ukraine's Black Sea Port Despite Grain Deal\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/russia-ukraine-trade-missile-strikes-on-wars-150th-day/2896497/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/sequoias-california-wildfires/2896492/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tCalifornia\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/california/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tUS Takes Emergency Action to Save Sequoias From Wildfires\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/sequoias-california-wildfires/2896492/"
-    },
-    {
-      "text": "See all",
-      "url": "/entertainment/entertainment-news/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/entertainment/entertainment-news/ricky-martin-returns-to-the-stage-after-nephew-accuser-drops-case/2896570/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tRicky Martin\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/ricky-martin/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tRicky Martin Returns to the Stage After Nephew Accuser Drops Case\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/entertainment/entertainment-news/ricky-martin-returns-to-the-stage-after-nephew-accuser-drops-case/2896570/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/entertainment/entertainment-news/disney-swaps-fairy-godmother-in-training-title-for-gender-neutral-apprentices/2896445/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tdisney\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/disney/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tDisney Swaps \u2018Fairy Godmother in Training' Title for Gender-Neutral \u2018Apprentices'\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/entertainment/entertainment-news/disney-swaps-fairy-godmother-in-training-title-for-gender-neutral-apprentices/2896445/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/entertainment/entertainment-news/amazon-studios-debuts-lord-of-the-rings-series-trailer-at-san-diego-comic-con/2894871/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tSan Diego Comic-Con\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/san-diego-comic-con/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\u2018Lord of the Rings: The Rings of Power' Series Trailer Debuts at Comic-Con\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/entertainment/entertainment-news/amazon-studios-debuts-lord-of-the-rings-series-trailer-at-san-diego-comic-con/2894871/"
-    },
-    {
-      "text": "See all",
-      "url": "/investigations/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/new-clues-in-the-case-of-missing-pregnant-postal-worker-kierra-coles/2887871/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tKierra Coles\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/kierra-coles/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tNew Clues in the Case of Missing Pregnant Postal Worker Kierra Coles\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/new-clues-in-the-case-of-missing-pregnant-postal-worker-kierra-coles/2887871/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/investigations/emails-reveal-chaos-assistance-tips-in-hours-after-highland-park-shooting/2881141/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\thighland park shooting\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/highland-park-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tEmails Reveal Chaos, Assistance, Tips in Hours After Highland Park Shooting\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/investigations/emails-reveal-chaos-assistance-tips-in-hours-after-highland-park-shooting/2881141/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/investigations/how-effective-is-a-municipal-assault-weapons-ban-like-the-one-in-highland-park/2880035/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\thighland park shooting\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/highland-park-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tHow Effective Is a Municipal Assault Weapons Ban Like the One in Highland Park?\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/investigations/how-effective-is-a-municipal-assault-weapons-ban-like-the-one-in-highland-park/2880035/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/investigations/foid-denials-and-revocations-based-on-clear-and-present-danger-reports-have-steadily-increased-since-2015-data-shows/2878779/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\thighland park shooting\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/highland-park-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tFOID Denials and Revocations Based on \u2018Clear and Present Danger' Reports Have Steadily Increased Since 2015, Data Shows\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/investigations/foid-denials-and-revocations-based-on-clear-and-present-danger-reports-have-steadily-increased-since-2015-data-shows/2878779/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/investigations/reports-shed-light-on-highland-park-police-interactions-with-shooting-suspects-childhood-home/2877301/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\thighland park shooting\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/highland-park-shooting/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tReports Shed Light on Highland Park Police Interactions With Shooting Suspect's Childhood Home\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/investigations/reports-shed-light-on-highland-park-police-interactions-with-shooting-suspects-childhood-home/2877301/"
-    },
-    {
-      "text": "See all",
-      "url": "/news/sports/triple-crown/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/sports/triple-crown/2022-belmont-stakes-triple-crown/2855254/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tbelmont stakes\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/belmont-stakes/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tMo Donegal Wins 154th Belmont Stakes, Nest and Skippylongstocking Follow\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/sports/triple-crown/2022-belmont-stakes-triple-crown/2855254/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/sports/triple-crown/creative-minister-preps-for-belmont-with-half-mile-workout/2846267/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tbelmont stakes\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/belmont-stakes/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tCreative Minister Preps for Belmont With Half-mile Workout\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/sports/triple-crown/creative-minister-preps-for-belmont-with-half-mile-workout/2846267/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/sports/2022-preakness-stakes-races-pimlico-race-course/2838707/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tPreakness Stakes\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/preakness-stakes/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t2022 Preakness Stakes: Early Voting Wins at Pimlico Race Course\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/sports/2022-preakness-stakes-races-pimlico-race-course/2838707/"
-    },
-    {
-      "text": "See all",
-      "url": "/consumer/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/nbc-5-responds-the-case-of-the-missing-whiskey/2886868/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tNBC 5 Responds\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/nbc-5-responds/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tNBC 5 Responds: The Case of the Missing Whiskey\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/nbc-5-responds-the-case-of-the-missing-whiskey/2886868/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/for-the-second-time-carvana-is-banned-from-selling-cars-in-illinois/2884770/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tNBC 5 Responds\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/nbc-5-responds/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tFor The Second Time, Carvana is Banned From Selling Cars in Illinois\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/for-the-second-time-carvana-is-banned-from-selling-cars-in-illinois/2884770/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/sleep-relief-new-sleep-aid-devices-replacing-machines-recalled-for-risks/2884465/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\tNBC 5 Responds\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/tag/nbc-5-responds/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\tSleep Relief: New Sleep-Aid Devices Replacing Machines Recalled for Risks\t\t\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/sleep-relief-new-sleep-aid-devices-replacing-machines-recalled-for-risks/2884465/"
-    },
-    {
-      "text": "\n                        Chicago-Area News\n                    ",
-      "url": "/news/local/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/photos-see-inside-worlds-largest-bounce-house-coming-to-a-chicago-suburb-this-weekend/2895055/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tPHOTOS: See Inside \u2018World's Largest Bounce House' Coming to a Chicago Suburb This Weekend\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/photos-see-inside-worlds-largest-bounce-house-coming-to-a-chicago-suburb-this-weekend/2895055/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/when-are-you-no-longer-contagious-with-covid-heres-what-doctors-say/2892724/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tWhen Are You No Longer Contagious With COVID? Here's What Doctors Say\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/when-are-you-no-longer-contagious-with-covid-heres-what-doctors-say/2892724/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-real-estate/see-it-homer-glen-mansion-with-barbie-museum-inside-sells-for-record-price/2892766/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tSee It: Homer Glen Mansion With Barbie Museum Inside Sells for Record Price\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-real-estate/see-it-homer-glen-mansion-with-barbie-museum-inside-sells-for-record-price/2892766/"
-    },
-    {
-      "text": "\n                        Money Report\n                    ",
-      "url": "/news/business/money-report/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/business/money-report/nfts-are-coming-for-the-loyalty-perks-programs-at-brands-like-budweiser/2896597/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tNFTs Are Coming for the Loyalty Perks Programs at Brands Like Budweiser\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/business/money-report/nfts-are-coming-for-the-loyalty-perks-programs-at-brands-like-budweiser/2896597/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/business/money-report/early-retiree-shares-13-stupid-simple-money-rules-that-helped-him-save-1-million-i-wasnt-born-rich/2896592/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tEarly Retiree Shares 13 \u2018Stupid Simple' Money Rules That Helped Him Save $1 Million: \u2018I Wasn't Born Rich'\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/business/money-report/early-retiree-shares-13-stupid-simple-money-rules-that-helped-him-save-1-million-i-wasnt-born-rich/2896592/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/business/money-report/who-declares-rapidly-spreading-monkeypox-outbreak-a-global-health-emergency/2896584/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tWHO Declares Rapidly Spreading Monkeypox Outbreak a Global Health Emergency\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/business/money-report/who-declares-rapidly-spreading-monkeypox-outbreak-a-global-health-emergency/2896584/"
-    },
-    {
-      "text": "\n                        US & World\n                    ",
-      "url": "/news/national-international/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/a-drugstore-worker-refused-to-sell-his-partner-condoms-now-hes-scheduled-a-vasectomy/2896472/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tA Drugstore Worker Refused to Sell His Partner Condoms. Now He's Scheduled a Vasectomy\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/a-drugstore-worker-refused-to-sell-his-partner-condoms-now-hes-scheduled-a-vasectomy/2896472/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/cvs-asks-pharmacists-to-check-if-some-drugs-will-be-used-for-abortions/2895791/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tCVS Asks Pharmacists to Check If Some Drugs Will Be Used for Abortions\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/cvs-asks-pharmacists-to-check-if-some-drugs-will-be-used-for-abortions/2895791/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/historic-drought-drives-las-vegas-to-limit-size-of-home-swimming-pools/2895634/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tHistoric Drought Drives Las Vegas to Limit Size of Home Swimming Pools\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/historic-drought-drives-las-vegas-to-limit-size-of-home-swimming-pools/2895634/"
-    },
-    {
-      "text": "\n                        Chicago Real Estate\n                    ",
-      "url": "/news/local/chicago-real-estate/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/see-inside-this-indiana-home-with-a-high-school-gyms-basketball-court-inside/2884647/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tSee Inside This Indiana Home With a High School Gym's Basketball Court In It\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/see-inside-this-indiana-home-with-a-high-school-gyms-basketball-court-inside/2884647/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-real-estate/see-inside-this-fairytale-home-with-unique-roof-for-sale-in-chicago-suburb/2860369/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tSee Inside This \u2018Fairytale' Home With Unique Roof For Sale in Chicago Suburb\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/chicago-real-estate/see-inside-this-fairytale-home-with-unique-roof-for-sale-in-chicago-suburb/2860369/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/see-inside-4-2m-lake-house-in-madison-with-a-giant-indoor-slide-in-the-entryway/2854627/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tSee Inside $4.2M Lake House in Madison With a Giant Indoor Slide in the Entryway\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/see-inside-4-2m-lake-house-in-madison-with-a-giant-indoor-slide-in-the-entryway/2854627/"
-    },
-    {
-      "text": "\n                        Making A Difference\n                    ",
-      "url": "/news/local/making-a-difference/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/making-a-difference/nba-star-max-strus-basketball-camp-attendees-team-up-for-incredible-charitable-act/2882117/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tNBA Star Max Strus, Basketball Camp Attendees Team Up for Incredible Charitable Act\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/making-a-difference/nba-star-max-strus-basketball-camp-attendees-team-up-for-incredible-charitable-act/2882117/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/making-a-difference/community-food-pantry-holds-pop-up-event-in-englewood-to-address-need/2880684/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tCommunity Food Pantry Holds Pop-Up Event in Englewood to Address Need\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/making-a-difference/community-food-pantry-holds-pop-up-event-in-englewood-to-address-need/2880684/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/making-a-difference/palm-sunday-concert-series-pays-homage-to-the-palm-tavern/2879877/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tPalm Sunday Concert Series Pays Homage to the Palm Tavern\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/making-a-difference/palm-sunday-concert-series-pays-homage-to-the-palm-tavern/2879877/"
-    },
-    {
-      "text": "\n                        Worth the Trip\n                    ",
-      "url": "/news/local/worth-the-trip/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/taste-of-chicago-2022-tickets-food-lineup-what-you-need-to-know-this-weekend/2877552/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tTaste of Chicago 2022: Tickets, Food Lineup, What You Need to Know This Weekend\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/taste-of-chicago-2022-tickets-food-lineup-what-you-need-to-know-this-weekend/2877552/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/2022-taste-of-chicago-when-where-and-all-the-food-that-will-be-there/2876673/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t2022 Taste of Chicago: When, Where, and All the Food That Will Be There\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/2022-taste-of-chicago-when-where-and-all-the-food-that-will-be-there/2876673/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/whats-at-the-taste-of-chicago-this-year/2876618/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tWhat's at the Taste of Chicago This Year?\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/whats-at-the-taste-of-chicago-this-year/2876618/"
-    },
-    {
-      "text": "\n                        Changing Climate\n                    ",
-      "url": "/changing-climate/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/changing-climate/in-clean-energy-push-joe-biden-announces-modest-climate-actions-and-pledges-more-at-massachusetts-ex-coal-plant/2886850/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tIn Clean Energy Push, Biden Announces Climate Actions at Ex-Coal Plant\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/changing-climate/in-clean-energy-push-joe-biden-announces-modest-climate-actions-and-pledges-more-at-massachusetts-ex-coal-plant/2886850/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/biden-pledges-climate-action-this-is-an-emergency/2886843/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tBiden Pledges Climate Action: \u2018This Is an Emergency'\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/biden-pledges-climate-action-this-is-an-emergency/2886843/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/changing-climate/ap-source-biden-holds-off-on-climate-emergency-declaration/2885926/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tDespite Pressure, Biden Could Hold Off on Federal Climate Emergency Declaration\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/national-international/changing-climate/ap-source-biden-holds-off-on-climate-emergency-declaration/2885926/"
-    },
-    {
-      "text": "\n                        NBC 5 Responds\n                    ",
-      "url": "/consumer/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/testing-troubles-some-covid-testing-labs-certified-too-easily-with-little-scrutiny/2881179/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tTesting Troubles: Some COVID Testing Labs Certified Too Easily, With \u2018Little Scrutiny'\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/testing-troubles-some-covid-testing-labs-certified-too-easily-with-little-scrutiny/2881179/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/rented-then-arrested-hertz-offering-settlements-to-some-customers/2878655/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tRented Then Arrested: Hertz Offers Settlements to Some  Customers\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/rented-then-arrested-hertz-offering-settlements-to-some-customers/2878655/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/family-fights-for-2-1-million-treatment-for-baby/2869606/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tFamily Fights For $2.1 Million Treatment for Baby\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/consumer/family-fights-for-2-1-million-treatment-for-baby/2869606/"
-    },
-    {
-      "text": "\n                        Illinois Transit\n                    ",
-      "url": "/traffic/transit/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/illinois-secretary-of-state-extends-drivers-license-id-card-expiration-date-once-more/2888760/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tIllinois Secretary of State Extends Driver's License, ID Card Expiration Date Once More\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/illinois-secretary-of-state-extends-drivers-license-id-card-expiration-date-once-more/2888760/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/illinois-secretary-of-state-extends-drivers-license-id-card-expiration-date-again/2780712/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tIllinois Secretary of State Extends Driver's License, ID Card Expiration Date Again\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/illinois-secretary-of-state-extends-drivers-license-id-card-expiration-date-again/2780712/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/deadline-youll-need-to-renew-your-expiring-illinois-drivers-license-id-card-this-month/2774511/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\tDeadline: You'll Need to Renew Your Expiring Illinois Driver's License, ID Card This Month\t\t\t\t\t\t\t",
-      "url": "https://www.nbcchicago.com/news/local/deadline-youll-need-to-renew-your-expiring-illinois-drivers-license-id-card-this-month/2774511/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t",
-      "url": "https://www.nbcchicago.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tFacebook\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "http://www.facebook.com/nbcchicago"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tTwitter\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://twitter.com/nbcchicago"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tInstagram\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://instagram.com/nbcchicago"
-    },
-    {
-      "text": "Submit Tips for Investigations",
-      "url": "/investigations/submit-tip/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "/newsletters/"
-    },
-    {
-      "text": "Connect With Us",
-      "url": "https://www.nbcchicago.com/contact-us/"
-    },
-    {
-      "text": "Send Feedback",
-      "url": "https://www.nbcchicago.com/send-feedback/"
-    },
-    {
-      "text": "WMAQ Employment Information",
-      "url": "https://www.nbcchicago.com/wmaq-employment-information/"
-    },
-    {
-      "text": "FCC Applications",
-      "url": "https://www.nbcchicago.com/fcc-applications/"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "https://www.nbcchicago.com/terms-of-service/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.nbcuniversal.com/privacy/?brandA=Owned_Stations&intake=NBC_Chicago/"
-    },
-    {
-      "text": "Advertise with us",
-      "url": "https://together.nbcuni.com/advertise/?utm_source=nbcchicago&utm_medium=referral&utm_campaign=property_ad_pages"
-    },
-    {
-      "text": "WMAQ Public Inspection File",
-      "url": "https://publicfiles.fcc.gov/tv-profile/WMAQ-TV"
-    },
-    {
-      "text": "CA Notice",
-      "url": "https://www.nbcuniversal.com/privacy/california-consumer-privacy-act?intake=NBC_Chicago"
-    },
-    {
-      "text": "Ad Choices",
-      "url": "https://www.nbcuniversal.com/privacy/cookies#accordionheader2"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t",
-      "url": "https://www.nbcchicago.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\tCoronavirus Pandemic\t\t\t\t",
-      "url": "/news/coronavirus/"
-    },
-    {
-      "text": "\n\t\t\t\t\tLocal\t\t\t\t",
-      "url": "/news/local/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWeather\t\t\t\t",
-      "url": "/weather/"
-    },
-    {
-      "text": "\n\t\t\t\t\tWeather Alerts\t\t\t\t",
-      "url": "/weather/severe-weather-alerts/"
-    },
-    {
-      "text": "\n\t\t\t\t\tSchool Closings\t\t\t\t",
-      "url": "http://www.emergencyclosingcenter.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\tInvestigations\t\t\t\t",
-      "url": "/investigations/"
-    },
-    {
-      "text": "\n\t\t\t\t\tNBC 5 Responds\t\t\t\t",
-      "url": "/consumer/"
-    },
-    {
-      "text": "\n\t\t\t\t\tEntertainment\t\t\t\t",
-      "url": "/entertainment/"
-    },
-    {
-      "text": "\n\t\t\t\t\tTraffic\t\t\t\t",
-      "url": "/traffic/"
-    },
-    {
-      "text": "\n\t\t\t\t\tSports\t\t\t\t",
-      "url": "/news/sports/"
-    },
-    {
-      "text": "\n\t\t\t\t\tChicago Baseball\t\t\t\t",
-      "url": "/news/sports/chicago-baseball/"
-    },
-    {
-      "text": "\n\t\t\t\t\tChicago Football\t\t\t\t",
-      "url": "/news/sports/chicago-football/"
-    },
-    {
-      "text": "\n\t\t\t\t\tChicago Hockey\t\t\t\t",
-      "url": "/news/sports/chicago-hockey/"
-    },
-    {
-      "text": "\n\t\t\t\t\tLX News\t\t\t\t",
-      "url": "/lxnews/"
-    },
-    {
-      "text": "\n\t\t\t\t\tHealth\t\t\t\t",
-      "url": "/news/health/"
-    },
-    {
-      "text": "\n\t\t\t\t\tU.S. & World\t\t\t\t",
-      "url": "/news/national-international/"
-    },
-    {
-      "text": "\n\t\t\t\t\tMaking A Difference\t\t\t\t",
-      "url": "/news/local/making-a-difference/"
-    },
-    {
-      "text": "\n\t\t\t\t\tChicago Today\t\t\t\t",
-      "url": "/entertainment/chicago-today/"
-    },
-    {
-      "text": "\n\t\t\t\t\tSubmit a Consumer Complaint\t\t\t\t",
-      "url": "/consumer-form/"
-    },
-    {
-      "text": "\n\t\t\t\t\tSubmit Photos and Video\t\t\t\t",
-      "url": "https://www.nbcchicago.com/ugc/"
-    },
-    {
-      "text": "\n\t\t\t\t\tContests\t\t\t\t",
-      "url": "/on-air/contests/"
-    },
-    {
-      "text": "\n\t\t\t\t\tNewsletters\t\t\t\t",
-      "url": "https://www.nbcchicago.com/newsletters/"
-    },
-    {
-      "text": "\n\t\t\t\t\tOur Apps\t\t\t\t",
-      "url": "/products/"
-    },
-    {
-      "text": "\n\t\t\t\t\tCozi TV\t\t\t\t",
-      "url": "https://cozitv.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "http://www.facebook.com/nbcchicago"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://twitter.com/nbcchicago"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://instagram.com/nbcchicago"
-    },
-    {
-      "text": "\n\tContact Us",
-      "url": "/contact-us"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://www.nbcuniversal.com/privacy"
-    },
-    {
-      "text": "here",
-      "url": "https://www.nbcuniversal.com/privacy/cookies#accordionheader2"
-    },
-    {
-      "text": "",
-      "url": "https://www.onetrust.com/products/cookie-consent/"
+      "url": "https://www.nbcchicago.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_10_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_10_38.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nbcchicago.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_11_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_11_04.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nbcchicago.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_11_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_11_26.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
     }
   ],
   "server": "ia801501.us.archive.org",
-  "uniq": 1681702090,
+  "uniq": 477798294,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

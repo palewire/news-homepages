@@ -1,5 +1,5 @@
 {
-  "created": 1658592963,
+  "created": 1658634436,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/3/items/umd_sbs-2022",
@@ -1066,31 +1066,83 @@
       "sha1": "262670ee6106e6ff292b71ececba30de2844fce9"
     },
     {
+      "name": "umd_sbs-2022-07-23T23:44:27.899029-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658634273",
+      "size": "17168",
+      "md5": "bc59e1cad7b8b8ae6bf81518d6095c14",
+      "crc32": "85eeee10",
+      "sha1": "53e697b323256762a10912db511d015a756a0d4c",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-07-23T23:44:27.899029-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658634275",
+      "size": "15477",
+      "md5": "7b6d525fade55804f39e7c4b9aa908bc",
+      "crc32": "33e3e378",
+      "sha1": "e7c3f685bca4ab052fab767a82d7220cccfdc93f",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-07-23T23:44:27.899029-04:00.jpg",
+      "source": "original",
+      "mtime": "1658634269",
+      "size": "241903",
+      "md5": "e249bd0955ed8de4933d55e85855b65a",
+      "crc32": "a4bf03c0",
+      "sha1": "9786cfb3b1d6754a7083af7653a2bb1e393d6592",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "umd_sbs-2022-07-23T23:44:27.899029-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658634277",
+      "size": "1504",
+      "md5": "920a16bdbdcbee9fc62c2e05c68d9029",
+      "crc32": "fe910b8d",
+      "sha1": "58c07885b3ccafb5243a139427c1c7d15ae23688",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-07-23T23:44:27.899029-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "umd_sbs-2022-07-23T23:44:27.899029-04:00.jpg",
+      "mtime": "1658634377",
+      "size": "7812",
+      "md5": "fbc371892577e554e53fb96691e2a30b",
+      "crc32": "39a889af",
+      "sha1": "262670ee6106e6ff292b71ececba30de2844fce9"
+    },
+    {
       "name": "umd_sbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c3a6fd8268c94d2ecb369cc61b892c43b8a831ce",
-      "mtime": "1658592887",
-      "size": "22501",
-      "md5": "0c2b6c332363f11f5300a38d81260caa",
-      "crc32": "309301ab",
-      "sha1": "38957cf467135a932f613eb250bfbc24e2783466",
+      "btih": "eb09a5cca2cfb07f8aa82588a098a7865d703c7e",
+      "mtime": "1658634415",
+      "size": "23555",
+      "md5": "8416d318cf34bbe0509e81606837f4ff",
+      "crc32": "e6d07ccf",
+      "sha1": "0565c675407b1d483fa61b80b72e10e7b8295835",
       "format": "Archive BitTorrent"
     },
     {
       "name": "umd_sbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94a3de3a9fad6a37180034f307ba6b30",
+      "md5": "5b8314136b137efcbbb0dd853f968c51",
       "summation": "md5"
     },
     {
       "name": "umd_sbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658592491",
-      "size": "139264",
-      "md5": "133e10aa1dbbcc1f2bc17b80ff040131",
-      "crc32": "50a7d550",
-      "sha1": "5fb67895f29c247d78e4facab230c79315fe7214",
+      "mtime": "1658634281",
+      "size": "147456",
+      "md5": "591ad7af0a66c4d4acbfb8d7b2abe5e7",
+      "crc32": "5294471d",
+      "sha1": "9a57fb0222a383eb12f1b425563c56162b55079e",
       "format": "Metadata"
     },
     {
@@ -1104,9 +1156,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 105,
-  "item_last_updated": 1658592887,
-  "item_size": 7232939,
+  "files_count": 110,
+  "item_last_updated": 1658634415,
+  "item_size": 7526049,
   "metadata": {
     "identifier": "umd_sbs-2022",
     "collection": [
@@ -1124,7 +1176,7 @@
     "addeddate": "2022-07-12 20:46:23"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 167248410,
+  "uniq": 108984076,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

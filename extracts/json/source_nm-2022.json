@@ -1,5 +1,5 @@
 {
-  "created": 1658622545,
+  "created": 1658664912,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/22/items/source_nm-2022",
@@ -7750,31 +7750,83 @@
       "sha1": "f778869f4fde34fd7c37775137d72ec672e04b2e"
     },
     {
+      "name": "source_nm-2022-07-24T00:24:29.293077-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658643875",
+      "size": "15721",
+      "md5": "355c2fdcce0c70f3c0cc9847919985f6",
+      "crc32": "0ea0e18f",
+      "sha1": "482865fbcb0cad87988930b2f5e79e06a1a82f71",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-07-24T00:24:29.293077-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658643876",
+      "size": "12657",
+      "md5": "ee5d597fccf87a1a67f99dc3d6815271",
+      "crc32": "62f78da3",
+      "sha1": "500099864224032757c27fd3c773693f35740827",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-07-24T00:24:29.293077-06:00.jpg",
+      "source": "original",
+      "mtime": "1658643873",
+      "size": "304111",
+      "md5": "5b9d74f3b4fe3ac9fae0a2b2d1f91eb2",
+      "crc32": "47ec8732",
+      "sha1": "504fa77f9c658607e0fb6da52ccd6c0e99a37257",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "source_nm-2022-07-24T00:24:29.293077-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658643878",
+      "size": "1441",
+      "md5": "091f90f77b92e0c9d97b5ceba2a6bba0",
+      "crc32": "29ab19f5",
+      "sha1": "18324fc97f7cb7276434ea4183547abbf513e4ba",
+      "format": "JSON"
+    },
+    {
+      "name": "source_nm-2022-07-24T00:24:29.293077-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "source_nm-2022-07-24T00:24:29.293077-06:00.jpg",
+      "mtime": "1658644133",
+      "size": "10082",
+      "md5": "cec400c448a4ec7c353786fae8e2c34d",
+      "crc32": "ca72739b",
+      "sha1": "f778869f4fde34fd7c37775137d72ec672e04b2e"
+    },
+    {
       "name": "source_nm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "76f7fa4e42b1d340ec0318de56591843d6dd8c53",
-      "mtime": "1658592295",
-      "size": "157568",
-      "md5": "c81a08ae2672d706854bd4c10b3269b4",
-      "crc32": "240929f6",
-      "sha1": "2d654cbdff9eec42babbaf7c2b7a77b4279712dc",
+      "btih": "cfc08de3bc1deb936de7a18bc80c5d3d85f4b1a8",
+      "mtime": "1658644144",
+      "size": "158633",
+      "md5": "4d76211da73c142f45f0702fb5fcd6b1",
+      "crc32": "a3b6c663",
+      "sha1": "e4d4bffbf843184cf5923874f4509f574fb23be0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "source_nm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e02011c10951a6eafedfa64c7670bf99",
+      "md5": "c182fc7f42d3f4262fc0ddc2729e241e",
       "summation": "md5"
     },
     {
       "name": "source_nm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658592154",
-      "size": "856064",
-      "md5": "987112441f17c3e73347923400dab4ed",
-      "crc32": "371eab24",
-      "sha1": "d383ec2f4954cb8f8b48a0ed47bd55e811a2e515",
+      "mtime": "1658643881",
+      "size": "864256",
+      "md5": "6e26dba7d6170a46661f2a8754e96797",
+      "crc32": "580e237f",
+      "sha1": "84541a95f4a3e26cf808976a27ada308fa1fe737",
       "format": "Metadata"
     },
     {
@@ -7788,9 +7840,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 741,
-  "item_last_updated": 1658592295,
-  "item_size": 68194088,
+  "files_count": 746,
+  "item_last_updated": 1658644144,
+  "item_size": 68547357,
   "metadata": {
     "identifier": "source_nm-2022",
     "collection": [
@@ -7807,436 +7859,51 @@
     "publicdate": "2022-03-25 03:48:20",
     "addeddate": "2022-03-25 03:48:20"
   },
-  "server": "ia802508.us.archive.org",
+  "server": "ia902508.us.archive.org",
   "source_nm-2022": [
     {
-      "text": "\n                \n            ",
-      "url": "/"
-    },
-    {
-      "text": "HOME",
-      "url": "/"
-    },
-    {
-      "text": "NEWS",
-      "url": "/news"
-    },
-    {
-      "text": "Education",
-      "url": "https://sourcenm.com/category/education/"
-    },
-    {
-      "text": "Environment & Climate Change",
-      "url": "https://sourcenm.com/category/environment-climate-change/"
-    },
-    {
-      "text": "Police & Prison",
-      "url": "https://sourcenm.com/category/police-prison/"
-    },
-    {
-      "text": "Election 2022",
-      "url": "https://sourcenm.com/category/election-2022/"
-    },
-    {
-      "text": "Health",
-      "url": "https://sourcenm.com/category/health/"
-    },
-    {
-      "text": "Native America",
-      "url": "https://sourcenm.com/category/native-america/"
-    },
-    {
-      "text": "COMMENTARY",
-      "url": "/commentary"
-    },
-    {
-      "text": "ABOUT",
-      "url": "/about"
-    },
-    {
-      "text": "SUBSCRIBE",
-      "url": "/subscribe"
-    },
-    {
-      "text": "DONATE",
-      "url": "/donate"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/source_nm"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/sourcenm"
-    },
-    {
-      "text": "\n                    \n                ",
-      "url": "https://sourcenm.com"
-    },
-    {
-      "text": "Education",
-      "url": "https://sourcenm.com/category/education/"
-    },
-    {
-      "text": "Environment & Climate Change",
-      "url": "https://sourcenm.com/category/environment-climate-change/"
-    },
-    {
-      "text": "Police & Prison",
-      "url": "https://sourcenm.com/category/police-prison/"
-    },
-    {
-      "text": "Election 2022",
-      "url": "https://sourcenm.com/category/election-2022/"
-    },
-    {
-      "text": "Health",
-      "url": "https://sourcenm.com/category/health/"
-    },
-    {
-      "text": "Native America",
-      "url": "https://sourcenm.com/category/native-america/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/07/22/hed-most-nm-police-departments-fail-to-report-crime-data-lfc-analysts-say/"
-    },
-    {
-      "text": " Most NM police departments fail to report crime data, LFC analysts say",
-      "url": "https://sourcenm.com/2022/07/22/hed-most-nm-police-departments-fail-to-report-crime-data-lfc-analysts-say/"
-    },
-    {
-      "text": "Austin Fisher",
-      "url": "https://sourcenm.com/author/austinfisher/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/07/22/misogyny-is-fueling-the-countrys-gun-violence-epidemic-experts-say/"
-    },
-    {
-      "text": " Misogyny is fueling the country\u2019s gun violence epidemic, experts say",
-      "url": "https://sourcenm.com/2022/07/22/misogyny-is-fueling-the-countrys-gun-violence-epidemic-experts-say/"
-    },
-    {
-      "text": "Anna Gustafson, Michigan Advance",
-      "url": "https://sourcenm.com/author/annagustafson/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/briefs/state-works-to-protect-las-vegas-threatened-drinking-water-supply/"
-    },
-    {
-      "text": " State works to protect Las Vegas\u2019 threatened drinking water supply",
-      "url": "https://sourcenm.com/briefs/state-works-to-protect-las-vegas-threatened-drinking-water-supply/"
-    },
-    {
-      "text": "Megan Gleason",
-      "url": "https://sourcenm.com/author/mgleason/"
-    },
-    {
-      "text": " Trump \u2018chose not to act\u2019 as U.S. Capitol underwent attack, Jan. 6 panel says",
-      "url": "https://sourcenm.com/2022/07/22/trump-chose-not-to-act-as-u-s-capitol-underwent-attack-jan-6-panel-says/"
-    },
-    {
-      "text": "Jacob Fischler",
-      "url": "https://sourcenm.com/author/jacob-fischler/"
-    },
-    {
-      "text": " U.S. House panel advances assault weapons ban on party-line vote",
-      "url": "https://sourcenm.com/2022/07/22/u-s-house-panel-advances-assault-weapons-ban-on-party-line-vote/"
-    },
-    {
-      "text": "Ariana Figueroa",
-      "url": "https://sourcenm.com/author/ariana-figueroa/"
-    },
-    {
-      "text": " Source NM staff and contributors recognized in this year\u2019s NAJA contest",
-      "url": "https://sourcenm.com/briefs/source-nm-staff-and-contributors-recognized-in-this-years-naja-contest/"
-    },
-    {
-      "text": "Marisa Demarco",
-      "url": "https://sourcenm.com/author/marisademarco/"
-    },
-    {
-      "text": " Wasted food is a climate threat that hurts agriculture, Democratic lawmakers say",
-      "url": "https://sourcenm.com/2022/07/22/wasted-food-is-a-climate-threat-that-hurts-agriculture-democratic-lawmakers-say/"
-    },
-    {
-      "text": "Jared Strong, Iowa Capital Dispatch",
-      "url": "https://sourcenm.com/author/jaredstrong/"
-    },
-    {
-      "text": " As aging farmers retire, lawmakers explore how to boost beginning producers",
-      "url": "https://sourcenm.com/2022/07/22/as-aging-farmers-retire-lawmakers-explore-how-to-boost-beginning-producers/"
-    },
-    {
-      "text": "Allison Winter",
-      "url": "https://sourcenm.com/author/allison-winter/"
-    },
-    {
-      "text": " U.S. House passes bill guaranteeing contraception access, with eight GOP votes",
-      "url": "https://sourcenm.com/2022/07/22/u-s-house-passes-bill-guaranteeing-contraception-access-with-eight-gop-votes/"
-    },
-    {
-      "text": "Jennifer Shutt",
-      "url": "https://sourcenm.com/author/jennifer-shutt/"
-    },
-    {
-      "text": "Subscribe",
-      "url": "/subscribe"
-    },
-    {
-      "text": "Commentary",
-      "url": "/commentary"
-    },
-    {
-      "text": " On the word \u2018lie\u2019 and passive voice in covering the SWAT raid",
-      "url": "https://sourcenm.com/2022/07/15/on-the-word-lie-and-passive-voice-in-covering-the-swat-raid/"
-    },
-    {
-      "text": "Marisa Demarco",
-      "url": "https://sourcenm.com/author/marisademarco/"
-    },
-    {
-      "text": " Analysis: Police with lots of military gear kill civilians more often",
-      "url": "https://sourcenm.com/2022/07/12/analysis-police-with-lots-of-military-gear-kill-civilians-more-often/"
-    },
-    {
-      "text": "Casey Delehanty for The Conversation",
-      "url": "https://sourcenm.com/author/caseydelehanty/"
-    },
-    {
-      "text": " More justice, more safety",
-      "url": "https://sourcenm.com/2022/07/05/more-justice-more-safety/"
-    },
-    {
-      "text": "Ben Jealous",
-      "url": "https://sourcenm.com/author/benjealous/"
-    },
-    {
-      "text": " Will the Jan. 6 hearings change anyone\u2019s mind?",
-      "url": "https://sourcenm.com/2022/07/04/will-the-jan-6-hearings-change-anyones-mind/"
-    },
-    {
-      "text": "Stephen Engelberg, ProPublica",
-      "url": "https://sourcenm.com/author/stephen-engelberg/"
-    },
-    {
-      "text": "READ MORE ",
-      "url": "/commentary"
-    },
-    {
-      "text": "Briefs",
-      "url": "briefs"
-    },
-    {
-      "text": " Biden tests positive for COVID-19",
-      "url": "https://sourcenm.com/briefs/biden-tests-positive-for-covid-19/"
-    },
-    {
-      "text": "Jennifer Shutt",
-      "url": "https://sourcenm.com/author/jennifer-shutt/"
-    },
-    {
-      "text": "Ariana Figueroa",
-      "url": "https://sourcenm.com/author/ariana-figueroa/"
-    },
-    {
-      "text": " Target of SWAT raid charged with murder",
-      "url": "https://sourcenm.com/briefs/target-of-swat-raid-charged-with-murder/"
-    },
-    {
-      "text": "Austin Fisher",
-      "url": "https://sourcenm.com/author/austinfisher/"
-    },
-    {
-      "text": " State to hire two uranium mine officials, a first step in cleanup effort",
-      "url": "https://sourcenm.com/briefs/state-to-hire-two-uranium-mine-officials-a-first-step-in-cleanup-effort/"
-    },
-    {
-      "text": "Patrick Lohmann",
-      "url": "https://sourcenm.com/author/patricklohmann/"
-    },
-    {
-      "text": " State bans on abortion don\u2019t apply to emergency health care, White House reminds providers",
-      "url": "https://sourcenm.com/briefs/state-bans-on-abortion-dont-apply-to-emergency-health-care-white-house-reminds-providers/"
-    },
-    {
-      "text": "Jennifer Shutt",
-      "url": "https://sourcenm.com/author/jennifer-shutt/"
-    },
-    {
-      "text": "READ MORE ",
-      "url": "/briefs"
-    },
-    {
-      "text": "DONATE",
-      "url": "/donate"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/07/21/the-legacy-of-a-taos-pueblo-poet-traced-through-what-she-touched/"
-    },
-    {
-      "text": " The legacy of a Taos Pueblo poet traced through what she touched",
-      "url": "https://sourcenm.com/2022/07/21/the-legacy-of-a-taos-pueblo-poet-traced-through-what-she-touched/"
-    },
-    {
-      "text": "Shaun Griswold",
-      "url": "https://sourcenm.com/author/shaungriswold/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/07/21/election-officials-risk-criminal-charges-under-31-new-gop-imposed-penalties/"
-    },
-    {
-      "text": " Election officials risk criminal charges under 31 new GOP-imposed penalties",
-      "url": "https://sourcenm.com/2022/07/21/election-officials-risk-criminal-charges-under-31-new-gop-imposed-penalties/"
-    },
-    {
-      "text": "Kira Lerner",
-      "url": "https://sourcenm.com/author/kiralerner/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/07/21/jan-6-panel-to-detail-trumps-187-minutes-of-delay-as-insurrection-grew/"
-    },
-    {
-      "text": " Jan. 6 panel to detail Trump\u2019s 187 minutes of delay as insurrection grew",
-      "url": "https://sourcenm.com/2022/07/21/jan-6-panel-to-detail-trumps-187-minutes-of-delay-as-insurrection-grew/"
-    },
-    {
-      "text": "Jacob Fischler",
-      "url": "https://sourcenm.com/author/jacob-fischler/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/07/21/nm-secretary-of-state-testifies-before-congress-about-threats-against-election-officials/"
-    },
-    {
-      "text": " NM Secretary of State testifies before Congress about threats against election officials",
-      "url": "https://sourcenm.com/2022/07/21/nm-secretary-of-state-testifies-before-congress-about-threats-against-election-officials/"
-    },
-    {
-      "text": "Andrew Beale",
-      "url": "https://sourcenm.com/author/andrewbeale/"
-    },
-    {
-      "text": "",
-      "url": "https://sourcenm.com/2022/07/21/u-s-senate-bills-would-ban-fake-electors-clear-up-electoral-college-procedures/"
-    },
-    {
-      "text": " U.S. Senate bills would ban fake electors, clear up Electoral College procedures",
-      "url": "https://sourcenm.com/2022/07/21/u-s-senate-bills-would-ban-fake-electors-clear-up-electoral-college-procedures/"
-    },
-    {
-      "text": "Jennifer Shutt",
-      "url": "https://sourcenm.com/author/jennifer-shutt/"
-    },
-    {
-      "text": "READ MORE ",
-      "url": "/news"
-    },
-    {
-      "text": "Weigh in on redistricting",
-      "url": "https://portal.newmexico-mapping.org/"
-    },
-    {
-      "text": "Register to vote online",
-      "url": "https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx"
-    },
-    {
-      "text": "Request an absentee ballot",
-      "url": "https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx"
-    },
-    {
-      "text": "Hit up your state legislator",
-      "url": "https://www.nmlegis.gov/Members/Find_My_Legislator"
-    },
-    {
-      "text": "Look up a bill",
-      "url": "https://www.nmlegis.gov/Legislation/Bill_Finder"
-    },
-    {
-      "text": "Weigh in on redistricting",
-      "url": "https://portal.newmexico-mapping.org/"
-    },
-    {
-      "text": "Register to vote online",
-      "url": "https://portal.sos.state.nm.us/OVR/WebPages/InstructionsStep1.aspx"
-    },
-    {
-      "text": "Request an absentee ballot",
-      "url": "https://portal.sos.state.nm.us/OVR/WebPages/AbsenteeApplication.aspx"
-    },
-    {
-      "text": "Hit up your state legislator",
-      "url": "https://www.nmlegis.gov/Members/Find_My_Legislator"
-    },
-    {
-      "text": "Look up a bill",
-      "url": "https://www.nmlegis.gov/Legislation/Bill_Finder"
-    },
-    {
-      "text": "",
-      "url": "mailto:info@sourcenm.com"
-    },
-    {
-      "text": "DEIJ Policy",
-      "url": "/deij-policy"
-    },
-    {
-      "text": "Ethics Policy",
-      "url": "/ethics-policy"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy-policy"
-    },
-    {
-      "text": "\n                                \n                            ",
-      "url": "https://twitter.com/source_nm"
-    },
-    {
-      "text": "\n                                \n                            ",
-      "url": "https://www.facebook.com/sourcenm"
-    },
-    {
-      "text": "\n                                \n                            ",
-      "url": "https://apple.news/Tv7k8sPIjSYWXut82PAi2PA"
-    },
-    {
-      "text": "DEIJ Policy",
-      "url": "/deij-policy"
-    },
-    {
-      "text": "Ethics Policy",
-      "url": "/ethics-policy"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy-policy"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "mailto:info@sourcenm.com"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://twitter.com/source_nm"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://www.facebook.com/sourcenm"
-    },
-    {
-      "text": "\n                            \n                        ",
-      "url": "https://apple.news/Tv7k8sPIjSYWXut82PAi2PA"
+      "url": "https://sourcenm.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sourcenm_com-_-2022_07_24_05_23_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sourcenm_com-_-2022_07_24_05_23_58.report.json",
+      "summary": {
+        "performance": 0.68,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://sourcenm.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sourcenm_com-_-2022_07_24_05_24_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sourcenm_com-_-2022_07_24_05_24_10.report.json",
+      "summary": {
+        "performance": 0.72,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://sourcenm.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sourcenm_com-_-2022_07_24_05_24_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sourcenm_com-_-2022_07_24_05_24_21.report.json",
+      "summary": {
+        "performance": 0.71,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 395754424,
+  "uniq": 1969915471,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

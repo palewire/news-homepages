@@ -1,5 +1,5 @@
 {
-  "created": 1658617418,
+  "created": 1658660488,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/brecktexan-2022",
@@ -1328,31 +1328,83 @@
       "sha1": "d2edc1a1dd31c2ba9fb61d021d43a95d8c6ca903"
     },
     {
+      "name": "brecktexan-2022-07-24T05:59:23.456720-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658660366",
+      "size": "57561",
+      "md5": "ed609459b6c5192061e81868dc4fa974",
+      "crc32": "0ae05a46",
+      "sha1": "3f739b060cd2a48762e346d57ed2615836cb6c6c",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-07-24T05:59:23.456720-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658660367",
+      "size": "47994",
+      "md5": "befbdc26dd9288fe4447ab688d780d26",
+      "crc32": "fd349c5a",
+      "sha1": "39eb8e773d8472bde7f4a30a22eda8dea55ba792",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-07-24T05:59:23.456720-05:00.jpg",
+      "source": "original",
+      "mtime": "1658660365",
+      "size": "437785",
+      "md5": "f51f75221a35a7c7e69c9d81a2cbcc17",
+      "crc32": "8b570a85",
+      "sha1": "507c360cd6f6b8bcb6e2fab803bdd0f28723db62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-07-24T05:59:23.456720-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658660369",
+      "size": "1522",
+      "md5": "462c861e01fa37b01e91fd50dd89b088",
+      "crc32": "1c6c22cb",
+      "sha1": "40a232c6c6b7a83cd73ad27a7c3372aa42e6177d",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-07-24T05:59:23.456720-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-07-24T05:59:23.456720-05:00.jpg",
+      "mtime": "1658660447",
+      "size": "10277",
+      "md5": "70347e816a607e81369ec2a616e68431",
+      "crc32": "e4574743",
+      "sha1": "81b2bd36428cad2b42bc474ebdd39c0ff8a2390c"
+    },
+    {
       "name": "brecktexan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00f5bca626c3537be28cf89b0fd4531990863809",
-      "mtime": "1658617404",
-      "size": "28495",
-      "md5": "d6068f0b9d32fae9b27916b0b428fd3b",
-      "crc32": "39341a41",
-      "sha1": "f46cd2601a9e7592a84b2aeb9b3542a470b2f249",
+      "btih": "a7cc88ebfbf38f30f2bf2b02c1dec384ad99e5fd",
+      "mtime": "1658660476",
+      "size": "29565",
+      "md5": "4d3b742762fc062d8d806b8739408848",
+      "crc32": "ccca9eda",
+      "sha1": "8e8c337d3bc256b52e4a40fd90853e527eee4640",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brecktexan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac26cb9a579f358db0f59cdf2e296769",
+      "md5": "4dbde31aa6e195a60a7fb5dfb1b82998",
       "summation": "md5"
     },
     {
       "name": "brecktexan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658617292",
-      "size": "167936",
-      "md5": "95c48c18d82d3ac3dd9c69389d028efc",
-      "crc32": "ea642e31",
-      "sha1": "122af4dc778e5f3c1f807f68a0c519dd14cf8e40",
+      "mtime": "1658660372",
+      "size": "172032",
+      "md5": "d7d4460ded1c9b0b952ab72de0850201",
+      "crc32": "e8a07fe8",
+      "sha1": "88eeb9f8b27a02f1073368199e5b210d28b197a6",
       "format": "Metadata"
     },
     {
@@ -1366,9 +1418,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 130,
-  "item_last_updated": 1658617404,
-  "item_size": 17453798,
+  "files_count": 135,
+  "item_last_updated": 1658660476,
+  "item_size": 18014103,
   "metadata": {
     "identifier": "brecktexan-2022",
     "collection": [
@@ -1385,10 +1437,10 @@
     "publicdate": "2022-07-09 03:56:32",
     "addeddate": "2022-07-09 03:56:32"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1209932486,
+  "server": "ia601505.us.archive.org",
+  "uniq": 944283199,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

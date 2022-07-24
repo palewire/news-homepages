@@ -1,5 +1,5 @@
 {
-  "created": 1658611389,
+  "created": 1658636268,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/12/items/lasvegassun-2022",
@@ -1654,31 +1654,83 @@
       "sha1": "b6027c7a0c472e902a6b31021bed26d65f5c5c3b"
     },
     {
+      "name": "lasvegassun-2022-07-23T21:16:21.231919-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658636184",
+      "size": "2403",
+      "md5": "b0c4633fe1561d54c1cd3d40f15709d1",
+      "crc32": "9aad6352",
+      "sha1": "ca1ba77444b73bac40facb8fbb165b783075f336",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-07-23T21:16:21.231919-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658636185",
+      "size": "13117",
+      "md5": "1194a8c79d1fcd4c8cc10f55ea8fb368",
+      "crc32": "69628463",
+      "sha1": "e4c85ae37c80531dbeeaeedb472cf79cbcafbe94",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-07-23T21:16:21.231919-07:00.jpg",
+      "source": "original",
+      "mtime": "1658636182",
+      "size": "339827",
+      "md5": "a6973187e2a5334689b58c7d5cc6d5aa",
+      "crc32": "2ee3c1f7",
+      "sha1": "99be2c02dfa504cb391d3c36f6146ebb737a4db8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lasvegassun-2022-07-23T21:16:21.231919-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658636187",
+      "size": "1483",
+      "md5": "ebf9b1f52548a2b3c0ee023a28da2dee",
+      "crc32": "66f06610",
+      "sha1": "a01f0bf3985a588a6ab61a51258103bdbe1fa9af",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-07-23T21:16:21.231919-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lasvegassun-2022-07-23T21:16:21.231919-07:00.jpg",
+      "mtime": "1658636249",
+      "size": "10110",
+      "md5": "d52e04ef2945891736727e56780812b3",
+      "crc32": "32733612",
+      "sha1": "2b795efbe1865262a235353fa6baf374b537b334"
+    },
+    {
       "name": "lasvegassun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f17e101f39c79ce17a4b63f088c3729e3f681d5d",
-      "mtime": "1658585316",
-      "size": "34980",
-      "md5": "19e47aa21b035d294a4e9b16c0b6f08c",
-      "crc32": "6aa67e6d",
-      "sha1": "478d778926ea334078bbc241d423e5a85f7e646a",
+      "btih": "e58dbdccac256f2eed0026a69f2bf785fff4dfe8",
+      "mtime": "1658636255",
+      "size": "36034",
+      "md5": "64bf985ef7fba11d2ba27f16d11d053d",
+      "crc32": "3116681f",
+      "sha1": "d5544b4e7d51d9ef323c9ec683bedf25ce0dd0c1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lasvegassun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2891535c25feba2f777a38271511682e",
+      "md5": "ac29ab232655f109b83aacde71f46d5b",
       "summation": "md5"
     },
     {
       "name": "lasvegassun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658585214",
-      "size": "200704",
-      "md5": "3b5aea25de429133f299bdaab809fd74",
-      "crc32": "87e71dd8",
-      "sha1": "04647b81b76f3576852e0787d575fa5a1a301b53",
+      "mtime": "1658636189",
+      "size": "208896",
+      "md5": "aa082e83afee233315d0b6413e3ffd5c",
+      "crc32": "05cb6664",
+      "sha1": "f384fe168c13885f349272c5f93456c270814d38",
       "format": "Metadata"
     },
     {
@@ -1692,9 +1744,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 161,
-  "item_last_updated": 1658585316,
-  "item_size": 14823955,
+  "files_count": 166,
+  "item_last_updated": 1658636255,
+  "item_size": 15200141,
   "metadata": {
     "identifier": "lasvegassun-2022",
     "collection": [
@@ -1711,10 +1763,10 @@
     "publicdate": "2022-07-04 21:55:34",
     "addeddate": "2022-07-04 21:55:34"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 2024130445,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1481332060,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

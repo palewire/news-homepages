@@ -1,5 +1,5 @@
 {
-  "created": 1658600773,
+  "created": 1658664613,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/35/items/lataco-2022",
@@ -1896,31 +1896,83 @@
       "sha1": "3ece8327dfddfe0ef50598bbdef6c4f86abfc90e"
     },
     {
+      "name": "lataco-2022-07-23T21:16:17.115429-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658636180",
+      "size": "19527",
+      "md5": "daf85b9c45c2693ac8f2510aebc138fb",
+      "crc32": "3ea6681b",
+      "sha1": "39c9e2c56c335b2bca4f493b58e660b9a99b3207",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-23T21:16:17.115429-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658636182",
+      "size": "12335",
+      "md5": "460499fb300bd59f46622e634585916d",
+      "crc32": "30f3ca56",
+      "sha1": "9bb76d2d801a9c2cf18a0f2a73fa77dbae1049ee",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-23T21:16:17.115429-07:00.jpg",
+      "source": "original",
+      "mtime": "1658636178",
+      "size": "277583",
+      "md5": "744ee1e3d72de6c9fc7a6288cd535c84",
+      "crc32": "adbe416e",
+      "sha1": "f0184b48ac3cf24bdbac65a0c1d9e6bafa6a0087",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-07-23T21:16:17.115429-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658636183",
+      "size": "1459",
+      "md5": "732ec465eb85e780279239af7358574e",
+      "crc32": "fa4d1797",
+      "sha1": "243ed11185a99c0634ac945b1d6783e10cf135bc",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-07-23T21:16:17.115429-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-07-23T21:16:17.115429-07:00.jpg",
+      "mtime": "1658636252",
+      "size": "10009",
+      "md5": "2c67507d23811075d76ca2c65ceaf52f",
+      "crc32": "80db15d5",
+      "sha1": "3ece8327dfddfe0ef50598bbdef6c4f86abfc90e"
+    },
+    {
       "name": "lataco-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b84b4c559393e55b28325b17e2ab0908e93bc6a8",
-      "mtime": "1658600747",
-      "size": "38890",
-      "md5": "596200b64d35716061b56a26448f7943",
-      "crc32": "2d5ab446",
-      "sha1": "6fbd0ed5756e5a0ad4ade35b564670023f50e29d",
+      "btih": "0cf8a3ca7f2fac4f6a6aeb5f82d5292f97b7fe6f",
+      "mtime": "1658636256",
+      "size": "39940",
+      "md5": "0d5018c622f758247f7f0cefae7140bf",
+      "crc32": "e6713f1d",
+      "sha1": "6a4d3c41486336a8b270feaa11e660bcdd8a57f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lataco-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2672101d84b5d6f87cf20d2b0cdbbe84",
+      "md5": "f0b2fb3275583fb9fe34dd6828619101",
       "summation": "md5"
     },
     {
       "name": "lataco-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658600641",
-      "size": "225280",
-      "md5": "6f2c7f5b6c4cbf263933615722a34c02",
-      "crc32": "3094a3ee",
-      "sha1": "170ea5fc044fa23ef0370b1cd20688c7f137bab1",
+      "mtime": "1658636186",
+      "size": "233472",
+      "md5": "7d5cbbd0f38d0f0f68d04e2cba098716",
+      "crc32": "33f5ce41",
+      "sha1": "30915204cb7bec146256c96b26cf97ff338ccb7a",
       "format": "Metadata"
     },
     {
@@ -1934,9 +1986,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 184,
-  "item_last_updated": 1658600747,
-  "item_size": 14190019,
+  "files_count": 189,
+  "item_last_updated": 1658636256,
+  "item_size": 14520174,
+  "lataco-2022": [
+    {
+      "url": "https://www.lataco.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_01_04_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_01_04_37.report.json",
+      "summary": {
+        "performance": 0.38,
+        "accessibility": 0.83,
+        "best-practices": 0.75,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.lataco.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_01_06_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_01_06_10.report.json",
+      "summary": {
+        "performance": 0.38,
+        "accessibility": 0.83,
+        "best-practices": 0.83,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.lataco.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_01_05_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lataco_com-_-2022_07_24_01_05_44.report.json",
+      "summary": {
+        "performance": 0.39,
+        "accessibility": 0.83,
+        "best-practices": 0.75,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "lataco-2022",
     "collection": [
@@ -1953,10 +2046,10 @@
     "publicdate": "2022-07-09 04:00:32",
     "addeddate": "2022-07-09 04:00:32"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 72417784,
+  "server": "ia902509.us.archive.org",
+  "uniq": 542252000,
   "workable_servers": [
-    "ia802509.us.archive.org",
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }

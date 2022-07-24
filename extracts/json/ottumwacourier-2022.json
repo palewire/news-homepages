@@ -1,5 +1,5 @@
 {
-  "created": 1658611555,
+  "created": 1658643660,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/17/items/ottumwacourier-2022",
@@ -2888,31 +2888,83 @@
       "sha1": "ca70cc8808dd045f35fd019684098c933bd6dd4c"
     },
     {
+      "name": "ottumwacourier-2022-07-24T01:18:44.171363-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658643528",
+      "size": "53117",
+      "md5": "a119e1a6e4cba7e7764335429b1c718a",
+      "crc32": "af0a1bda",
+      "sha1": "61cdc21cea00a1f1f1f3cdef5717b9eef535c25a",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-07-24T01:18:44.171363-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658643529",
+      "size": "77741",
+      "md5": "21a876bb388be16f4547c30b08af7db8",
+      "crc32": "6cbc313d",
+      "sha1": "1c282e1b25b59bf3a9019eab0424da633e5d54f9",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-07-24T01:18:44.171363-05:00.jpg",
+      "source": "original",
+      "mtime": "1658643526",
+      "size": "358711",
+      "md5": "a1cf9475bfdf51b9be89f9f7a0023a0c",
+      "crc32": "3e793196",
+      "sha1": "c23f70a51ab3a4855604989691d876bb7b0dc4b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottumwacourier-2022-07-24T01:18:44.171363-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658643532",
+      "size": "1531",
+      "md5": "68e3e8bfeb08b9adab48388629c68891",
+      "crc32": "37514f4e",
+      "sha1": "8a6bc8be2292b05c193768629c0ab78e1d67dd40",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-07-24T01:18:44.171363-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-07-24T01:18:44.171363-05:00.jpg",
+      "mtime": "1658643636",
+      "size": "10036",
+      "md5": "a5555220bd51cef8fff519b7ef050122",
+      "crc32": "98ad9ba4",
+      "sha1": "2135a30d8332cfa46643088658456e623ae0a93e"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "41131880762080bdd3ae37927ef31fa623186226",
-      "mtime": "1658588866",
-      "size": "60570",
-      "md5": "a059eec55c7c95320781485549befa21",
-      "crc32": "4eb0a07d",
-      "sha1": "a226f765f25f1bc392910d69f2fcc8486782b2c1",
+      "btih": "69f7d6e47d6ddb43632b24d64552eb3e43d1f304",
+      "mtime": "1658643641",
+      "size": "61660",
+      "md5": "f7c48218f68d94d59b3c0fe7130ce994",
+      "crc32": "9bb7d893",
+      "sha1": "77fd124190156631c03558bfb22c7c2a15f76bb6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28cd6c290ab7596012f826d722db7a6d",
+      "md5": "038314380f78b063639a2eac949e36b9",
       "summation": "md5"
     },
     {
       "name": "ottumwacourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658588807",
-      "size": "315392",
-      "md5": "619f470b66109eceb8f61a4c7a4826d0",
-      "crc32": "e6d8c640",
-      "sha1": "0b09eec3dbdd4f135ba6a161d24f6c78f0e8ef14",
+      "mtime": "1658643535",
+      "size": "319488",
+      "md5": "8b99d8ce98c78fc94f055e900ff25b95",
+      "crc32": "154ffea4",
+      "sha1": "5c8e943196d21489d4720dd28cd7ad1bc7a87548",
       "format": "Metadata"
     },
     {
@@ -2926,9 +2978,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 276,
-  "item_last_updated": 1658588866,
-  "item_size": 35350889,
+  "files_count": 281,
+  "item_last_updated": 1658643641,
+  "item_size": 35857211,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -2945,10 +2997,10 @@
     "publicdate": "2022-06-24 22:59:27",
     "addeddate": "2022-06-24 22:59:27"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 1363855130,
+  "server": "ia902501.us.archive.org",
+  "uniq": 1522879337,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

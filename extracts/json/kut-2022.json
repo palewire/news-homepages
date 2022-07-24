@@ -1,5 +1,5 @@
 {
-  "created": 1658620748,
+  "created": 1658664578,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/5/items/kut-2022",
@@ -562,31 +562,83 @@
       "sha1": "2c639b480c7445d9b3c9a0e72bdb3af640d8fa10"
     },
     {
+      "name": "kut-2022-07-23T23:15:06.629437-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658636110",
+      "size": "22771",
+      "md5": "d30c9ef5e76d70688ae8076f95ebca63",
+      "crc32": "c1cbe4b3",
+      "sha1": "d65a89b9ebb575ec381643b7cd39d1d89b8bb141",
+      "format": "JSON"
+    },
+    {
+      "name": "kut-2022-07-23T23:15:06.629437-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658636113",
+      "size": "38562",
+      "md5": "36ff4f8fb9c0dbc1101fe8d28311de67",
+      "crc32": "8b999934",
+      "sha1": "524941bf3b4ea74ff0e95ca5d20185d2b1f6898f",
+      "format": "JSON"
+    },
+    {
+      "name": "kut-2022-07-23T23:15:06.629437-05:00.jpg",
+      "source": "original",
+      "mtime": "1658636108",
+      "size": "267023",
+      "md5": "5bbbc631a0b2d1e18d707c1a935de177",
+      "crc32": "81f6d31a",
+      "sha1": "44cdd82b4ec9abb7cf5585a408d4e50a10a3b803",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kut-2022-07-23T23:15:06.629437-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658636115",
+      "size": "1423",
+      "md5": "60aa411d21c43f77e9bf4f2f3af3bd15",
+      "crc32": "52767e31",
+      "sha1": "d33c79a6a6a8e53559b97f5d2b3c9b361a27ea30",
+      "format": "JSON"
+    },
+    {
+      "name": "kut-2022-07-23T23:15:06.629437-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kut-2022-07-23T23:15:06.629437-05:00.jpg",
+      "mtime": "1658636185",
+      "size": "10322",
+      "md5": "4f70fdcd64ae29739ad510d6f985ac79",
+      "crc32": "3189f2fe",
+      "sha1": "1b84ce156ce4a2e6c63f3f9ef2dcb9e7331637a8"
+    },
+    {
       "name": "kut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98927b67c830d2cf6e9bac07968b8728e049445b",
-      "mtime": "1658585305",
-      "size": "12287",
-      "md5": "eb4ea308800af249241ecc7a37b0c24a",
-      "crc32": "77bc125e",
-      "sha1": "e524be673e831ca12ee97bdbe690521745fe9413",
+      "btih": "bb08cfff6a7f0c41ef725bdfd4cc6cd9767910c8",
+      "mtime": "1658636188",
+      "size": "13322",
+      "md5": "67e27a444eaa4805cec6b9f76a600da0",
+      "crc32": "dc8e975f",
+      "sha1": "ef774ff86a782d03067314bef6750c78b5e4c9db",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a6d7e617885f160f05caa43101beb95",
+      "md5": "51799b69e19cfa6c878acd6489accb68",
       "summation": "md5"
     },
     {
       "name": "kut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658585186",
-      "size": "73728",
-      "md5": "34d4e6116cac55ea69c15fda8f205b1d",
-      "crc32": "05a547ed",
-      "sha1": "0a9917c333535a06cd58807f1ad52c2743290401",
+      "mtime": "1658636119",
+      "size": "81920",
+      "md5": "aeeeececdcfa2a6664942c5f84871b63",
+      "crc32": "574d36c8",
+      "sha1": "b402a615c804748a1692c7f0283eb024fb59d8eb",
       "format": "Metadata"
     },
     {
@@ -600,9 +652,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 57,
-  "item_last_updated": 1658585305,
-  "item_size": 4916696,
+  "files_count": 62,
+  "item_last_updated": 1658636188,
+  "item_size": 5266024,
+  "kut-2022": [
+    {
+      "url": "https://www.kut.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_24_01_03_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_24_01_03_26.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.96,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kut.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_24_01_04_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_24_01_04_02.report.json",
+      "summary": {
+        "performance": 0.37,
+        "accessibility": 0.96,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kut.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_24_01_03_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_07_24_01_03_46.report.json",
+      "summary": {
+        "performance": 0.55,
+        "accessibility": 0.96,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "kut-2022",
     "collection": [
@@ -620,7 +713,7 @@
     "addeddate": "2022-07-18 00:04:57"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 688463301,
+  "uniq": 1671931401,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

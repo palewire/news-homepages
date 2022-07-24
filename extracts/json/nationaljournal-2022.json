@@ -1,5 +1,5 @@
 {
-  "created": 1658622378,
+  "created": 1658664703,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/nationaljournal-2022",
@@ -1654,31 +1654,83 @@
       "sha1": "607775d2187ebb5407f01767014aa120df97cc54"
     },
     {
+      "name": "nationaljournal-2022-07-24T00:20:07.516697-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658636411",
+      "size": "8798",
+      "md5": "c5a9131e9fb403e349fc14c5c4dad192",
+      "crc32": "5125fbdf",
+      "sha1": "1ce2726055d4c8a08ede503f0a2fa0b652179500",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-07-24T00:20:07.516697-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658636412",
+      "size": "6170",
+      "md5": "d2b5480316adc305777c52d534ec34a8",
+      "crc32": "de5025fb",
+      "sha1": "f319b0ec7cf7e1bb2e00565b5f7fafd597797b3a",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-07-24T00:20:07.516697-04:00.jpg",
+      "source": "original",
+      "mtime": "1658636409",
+      "size": "207522",
+      "md5": "f5df6c3276f9f3736510bb01a3f6da97",
+      "crc32": "8024c339",
+      "sha1": "245b636e742b862891e2f00a7b57a6405d85b289",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationaljournal-2022-07-24T00:20:07.516697-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658636414",
+      "size": "1525",
+      "md5": "af3ba6c6f4fbf8dd3b02811a88fff148",
+      "crc32": "d6c67fc9",
+      "sha1": "2f59618d5bc65691f04e876c61889e6dd884c73d",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-07-24T00:20:07.516697-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationaljournal-2022-07-24T00:20:07.516697-04:00.jpg",
+      "mtime": "1658636461",
+      "size": "9324",
+      "md5": "ba02709f78b76ed68644fa06352e7f50",
+      "crc32": "30a4b44c",
+      "sha1": "cd3a466ed2716b4f944fa12475a95d374260d877"
+    },
+    {
       "name": "nationaljournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d76ebbf4c72616d87c2066cf7b7be696f58313d",
-      "mtime": "1658588687",
-      "size": "35376",
-      "md5": "b45467b3f0802707618e91cdc67f7b6d",
-      "crc32": "5a0000e2",
-      "sha1": "49e2556c114698e108b0aeb522664f6531945665",
+      "btih": "4be548fcba0dd3da0e2967e386e528610508a6d5",
+      "mtime": "1658636468",
+      "size": "36468",
+      "md5": "12e0bc694f0d07df68918b85025f1025",
+      "crc32": "f1c15994",
+      "sha1": "158824c7d4a193c1bd866ac1ddb2f2ec5e71a6ca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nationaljournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "53fdaf60b255e3c561b6263008518069",
+      "md5": "2f94c966c597165e0037709f721bfc58",
       "summation": "md5"
     },
     {
       "name": "nationaljournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658588592",
-      "size": "200704",
-      "md5": "8e033e72cb44f216b0117a89e0e86415",
-      "crc32": "48ede190",
-      "sha1": "38d10fb0bb0e92970e68b48e82abd84d5c03dac1",
+      "mtime": "1658636417",
+      "size": "212992",
+      "md5": "9a88dca496755d75a6ea36dae7327370",
+      "crc32": "f99ec641",
+      "sha1": "45894b6012e5a530bdca98267cbfc5f7d38a16d5",
       "format": "Metadata"
     },
     {
@@ -1692,9 +1744,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 161,
-  "item_last_updated": 1658588687,
-  "item_size": 9299516,
+  "files_count": 166,
+  "item_last_updated": 1658636468,
+  "item_size": 9546235,
   "metadata": {
     "identifier": "nationaljournal-2022",
     "collection": [
@@ -1713,240 +1765,47 @@
   },
   "nationaljournal-2022": [
     {
-      "text": "Privacy Policy",
-      "url": "https://www.nationaljournal.com/privacy-policy"
+      "url": "https://www.nationaljournal.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationaljournal_com-_-2022_07_24_01_10_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationaljournal_com-_-2022_07_24_01_10_09.report.json",
+      "summary": {
+        "performance": 0.59,
+        "accessibility": 0.8,
+        "best-practices": 1,
+        "seo": 0.9,
+        "pwa": 0.3
+      }
     },
     {
-      "text": "\n\t\t\t\t\n\n\n\t.st0{fill:#34373A;}\n\t.st1{fill:#09A6E0;}\n\t.st2{fill:#FFFFFF;}\n\n\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\t\n\t\n\n\n\t\t\t",
-      "url": "/"
+      "url": "https://www.nationaljournal.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationaljournal_com-_-2022_07_24_01_10_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationaljournal_com-_-2022_07_24_01_10_41.report.json",
+      "summary": {
+        "performance": 0.59,
+        "accessibility": 0.8,
+        "best-practices": 1,
+        "seo": 0.9,
+        "pwa": 0.3
+      }
     },
     {
-      "text": "Login",
-      "url": "/login"
-    },
-    {
-      "text": "Request a Demo",
-      "url": "https://go.nationaljournal.com/Request-a-Demo"
-    },
-    {
-      "text": "Skip to content",
-      "url": "#content"
-    },
-    {
-      "text": "Home",
-      "url": "/home"
-    },
-    {
-      "text": "About ",
-      "url": "#"
-    },
-    {
-      "text": "About Us",
-      "url": "/about/about-us/"
-    },
-    {
-      "text": "Careers",
-      "url": "/about/careers/"
-    },
-    {
-      "text": "Our Culture",
-      "url": "/about/our-culture/"
-    },
-    {
-      "text": "Contact",
-      "url": "/about/contact/"
-    },
-    {
-      "text": "Products ",
-      "url": "#"
-    },
-    {
-      "text": "Membership",
-      "url": "/products/membership/"
-    },
-    {
-      "text": "Presentation Center",
-      "url": "/products/presentation-center/"
-    },
-    {
-      "text": "News & Tools",
-      "url": "/products/news-tools/"
-    },
-    {
-      "text": "Network Science Initiative",
-      "url": "/products/network-science-initiative/"
-    },
-    {
-      "text": "Latest ",
-      "url": "#"
-    },
-    {
-      "text": "News",
-      "url": "/latest/news/"
-    },
-    {
-      "text": "Podcasts",
-      "url": "https://go.nationaljournal.com/podcasts.html"
-    },
-    {
-      "text": "Events",
-      "url": "/events"
-    },
-    {
-      "text": "Login",
-      "url": "/login"
-    },
-    {
-      "text": "Request a Demo",
-      "url": "https://go.nationaljournal.com/Request-a-Demo"
-    },
-    {
-      "text": "Elections & Politics Offering",
-      "url": "https://go.nationaljournal.com/elections-offer"
-    },
-    {
-      "text": "Try Vignette",
-      "url": "/vignette"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\tPresentations and Content Support\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "/products/presentation-center/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\tNews & Analysis\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "/products/news-tools/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\tNetwork & Stakeholder Mapping\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "/products/network-science-initiative/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\tCustom Research\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "/products/network-science-initiative/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\tPeople Intelligence\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "/vignette"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://go.nationaljournal.com/ad-spotlight"
-    },
-    {
-      "text": "Subscribe \u2192",
-      "url": "https://go.nationaljournal.com/ad-spotlight"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://go.nationaljournal.com/government-affairs-toolbox"
-    },
-    {
-      "text": "Download Slides \u2192",
-      "url": "https://go.nationaljournal.com/government-affairs-toolbox"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://go.nationaljournal.com/PAC-Manager-Toolbox-2022"
-    },
-    {
-      "text": "Access Toolbox \u2192",
-      "url": "https://go.nationaljournal.com/PAC-Manager-Toolbox-2022"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://go.nationaljournal.com/societal-issues"
-    },
-    {
-      "text": "Learn More \u2192",
-      "url": "https://go.nationaljournal.com/societal-issues"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "/md/714809/2022-midterm-election-polling/?unlock=NXUWEWA2HYLEUEAF"
-    },
-    {
-      "text": "Download Slides \u2192",
-      "url": "/md/714809/2022-midterm-election-polling/?unlock=NXUWEWA2HYLEUEAF"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "/bp/659170/washington-in-the-information-age/"
-    },
-    {
-      "text": "Purchase Report \u2192",
-      "url": "/bp/659170/washington-in-the-information-age/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "/vignette"
-    },
-    {
-      "text": "Start a Free Trial \u2192",
-      "url": "/vignette"
-    },
-    {
-      "text": "View Replay \u2192",
-      "url": "https://go.nationaljournal.com/BidensFirstYear-Replay.html"
-    },
-    {
-      "text": "Request a Demo",
-      "url": "https://go.nationaljournal.com/Request-a-Demo"
-    },
-    {
-      "text": "\n\n    \n        \n            \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                \n            \n        \n    \n",
-      "url": "/"
-    },
-    {
-      "text": "Advertise with Us",
-      "url": "/bp/617230/advertise-with-us"
-    },
-    {
-      "text": "Press",
-      "url": "/bp/622711/press"
-    },
-    {
-      "text": "Staff",
-      "url": "/staff"
-    },
-    {
-      "text": "Washington in the Information Age",
-      "url": "/wia"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy-policy"
-    },
-    {
-      "text": "Terms and Conditions",
-      "url": "/terms-and-conditions"
-    },
-    {
-      "text": "Reprints & Permissions",
-      "url": "https://www.parsintl.com/publication/national-journal/"
-    },
-    {
-      "text": "FAQs",
-      "url": "/faq"
-    },
-    {
-      "text": "NJ and CPR",
-      "url": "/cookpoliticalreport"
-    },
-    {
-      "text": "",
-      "url": "https://twitter.com/nationaljournal"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/NationalJournal/"
-    },
-    {
-      "text": "",
-      "url": "https://www.linkedin.com/company/national-journal"
+      "url": "https://www.nationaljournal.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationaljournal_com-_-2022_07_24_01_10_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationaljournal_com-_-2022_07_24_01_10_25.report.json",
+      "summary": {
+        "performance": 0.61,
+        "accessibility": 0.8,
+        "best-practices": 1,
+        "seo": 0.9,
+        "pwa": 0.3
+      }
     }
   ],
   "server": "ia601406.us.archive.org",
-  "uniq": 1073155836,
+  "uniq": 1821317911,
   "workable_servers": [
     "ia601406.us.archive.org",
     "ia801406.us.archive.org"

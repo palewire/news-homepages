@@ -1,5 +1,5 @@
 {
-  "created": 1658622281,
+  "created": 1658664593,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/labornotes-2022",
@@ -152,31 +152,83 @@
       "sha1": "619e58e7e8e3153f6b1b0f6bfa2cc661eabd376d"
     },
     {
+      "name": "labornotes-2022-07-23T23:16:11.018336-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658636174",
+      "size": "13468",
+      "md5": "fff7ef7e9f3cdd355ccc79570174eecd",
+      "crc32": "cd731148",
+      "sha1": "3937e6e70f46173355faf2424af9bfb8d4956a7d",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-07-23T23:16:11.018336-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658636176",
+      "size": "8307",
+      "md5": "d8af4c837d94d5cebebdffd3184bcfea",
+      "crc32": "a5ff2bfc",
+      "sha1": "14670d1402b9923075e1f7760e996cddf5c4d0fd",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-07-23T23:16:11.018336-05:00.jpg",
+      "source": "original",
+      "mtime": "1658636173",
+      "size": "304358",
+      "md5": "9af3a63863744d3c53810bf86a82fb84",
+      "crc32": "32d12496",
+      "sha1": "bbe56c82a9ceff47158a91f6a2749035e76554d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "labornotes-2022-07-23T23:16:11.018336-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658636177",
+      "size": "1495",
+      "md5": "65cd19663fb81fb220e9b9910fb8960c",
+      "crc32": "0633ca8f",
+      "sha1": "e6940074b4bd7259e5be1064c88f66f8b40e302d",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-07-23T23:16:11.018336-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "labornotes-2022-07-23T23:16:11.018336-05:00.jpg",
+      "mtime": "1658636231",
+      "size": "10424",
+      "md5": "0eab9007e78d7481f1eab0434133b507",
+      "crc32": "8eb3c71b",
+      "sha1": "619e58e7e8e3153f6b1b0f6bfa2cc661eabd376d"
+    },
+    {
       "name": "labornotes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e111549c70a918c8684b174a9e29e498518c526c",
-      "mtime": "1658600088",
-      "size": "4404",
-      "md5": "7b30f219f193b28320a4667f826c63d9",
-      "crc32": "99ad00e0",
-      "sha1": "35141d7379bb9945b5b0c9409b4f3a6b56edf77b",
+      "btih": "02905eba51d3d2079baedf226c9ac04c5795935d",
+      "mtime": "1658636234",
+      "size": "5453",
+      "md5": "fd40e122cefa83edd9604e4ac33fa07f",
+      "crc32": "134ae75e",
+      "sha1": "21bb8cacacb754cee7ede1ae5aea905f10f0d411",
       "format": "Archive BitTorrent"
     },
     {
       "name": "labornotes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db5c4f71d740720231ea60561841bb92",
+      "md5": "eeec40489e90c9981391cacf0fe3435f",
       "summation": "md5"
     },
     {
       "name": "labornotes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658600013",
-      "size": "36864",
-      "md5": "488ae5dd0c11bd2f2e29c80068914e0b",
-      "crc32": "bbf9ec28",
-      "sha1": "42d16e40064a4715ec1903498d6c910f4338dca4",
+      "mtime": "1658636180",
+      "size": "40960",
+      "md5": "ec0d1186d77fafec9327cdb8602454fd",
+      "crc32": "e0d42cf3",
+      "sha1": "63249c2981017234a54a31b2412dbaa62b1ebbb3",
       "format": "Metadata"
     },
     {
@@ -190,15 +242,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 18,
-  "item_last_updated": 1658600088,
-  "item_size": 1071300,
+  "files_count": 23,
+  "item_last_updated": 1658636234,
+  "item_size": 1414497,
   "labornotes-2022": [
     {
       "url": "https://www.labornotes.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_23_18_10_11.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_23_18_10_11.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_24_01_04_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_24_01_04_21.report.json",
       "summary": {
         "performance": 0.41,
         "accessibility": 0.76,
@@ -210,10 +262,10 @@
     {
       "url": "https://www.labornotes.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_23_18_10_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_23_18_10_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_24_01_04_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_24_01_04_36.report.json",
       "summary": {
-        "performance": 0.45,
+        "performance": 0.52,
         "accessibility": 0.76,
         "best-practices": 0.75,
         "seo": 0.84,
@@ -223,10 +275,10 @@
     {
       "url": "https://www.labornotes.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_23_18_10_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_23_18_10_39.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_24_01_04_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_labornotes_org-_-2022_07_24_01_04_06.report.json",
       "summary": {
-        "performance": 0.49,
+        "performance": 0.43,
         "accessibility": 0.76,
         "best-practices": 0.75,
         "seo": 0.84,
@@ -250,10 +302,10 @@
     "publicdate": "2022-07-23 02:31:50",
     "addeddate": "2022-07-23 02:31:50"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 914998996,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1205000290,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

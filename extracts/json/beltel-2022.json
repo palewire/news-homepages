@@ -1,5 +1,5 @@
 {
-  "created": 1658617342,
+  "created": 1658660388,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/28/items/beltel-2022",
@@ -572,31 +572,83 @@
       "sha1": "8aa0c21c04e2d387f1937faca056b9cb15346426"
     },
     {
+      "name": "beltel-2022-07-24T11:58:45.742839+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658660328",
+      "size": "38181",
+      "md5": "6ce5c081ae3954931f6f829895232dbd",
+      "crc32": "787b4eef",
+      "sha1": "a12330c2a629e51e90094553adf2834de1b9b8a0",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-07-24T11:58:45.742839+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658660330",
+      "size": "87364",
+      "md5": "26086ab9505dd86564d8902bfb52d6cb",
+      "crc32": "0da59c18",
+      "sha1": "ecf9db113d530ffd20ae8c13b846ffe371581290",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-07-24T11:58:45.742839+01:00.jpg",
+      "source": "original",
+      "mtime": "1658660327",
+      "size": "249096",
+      "md5": "b72f46bcb9d3942d450bcd270dda69c5",
+      "crc32": "6537d9b9",
+      "sha1": "acebaaae8c8df99f305eb5b431fff00324293842",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "beltel-2022-07-24T11:58:45.742839+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658660332",
+      "size": "1548",
+      "md5": "7cdbdef4b4f09c4e7b35d4e8a13b339c",
+      "crc32": "f28b1f54",
+      "sha1": "4d9c3f1c3415dd5f18f7bfd320b52c96e7334640",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-07-24T11:58:45.742839+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "beltel-2022-07-24T11:58:45.742839+01:00.jpg",
+      "mtime": "1658660376",
+      "size": "9144",
+      "md5": "09251dfff3259b4196ba402b3a5fe180",
+      "crc32": "27793d96",
+      "sha1": "3aa441c4d94a4f7c529056caac4bc146b11e6034"
+    },
+    {
       "name": "beltel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c468f25ec047d1f552a462954d325ba227214fd3",
-      "mtime": "1658617327",
-      "size": "12670",
-      "md5": "3b31838ccf87c3a07744a74fee5a7ed1",
-      "crc32": "5600c432",
-      "sha1": "5abea2cbff7e9e68b27b215d2cc61af3b204e0d2",
+      "btih": "5d072b6055aaa5ec9e66ed5afa4b9bf9c4613368",
+      "mtime": "1658660380",
+      "size": "13719",
+      "md5": "3235eac1b36298f655ecad2e855a231d",
+      "crc32": "5af759d1",
+      "sha1": "9939c4bef276cf7af46137cbc7699c36ed42162d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "beltel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f25e128f4cca12b6ce6f5958daf69c3",
+      "md5": "2b31e43f7847a1d077ac5ee434c927a6",
       "summation": "md5"
     },
     {
       "name": "beltel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658617235",
-      "size": "77824",
-      "md5": "7ee73072a28ca15cb068747609336a1b",
-      "crc32": "7e6831aa",
-      "sha1": "df44a1196110edab2013b043fe6da05e6f897ef0",
+      "mtime": "1658660335",
+      "size": "81920",
+      "md5": "ecccf398c9c7c2ca8c322860382bd247",
+      "crc32": "15c040ad",
+      "sha1": "21837e0aeab52d15681d7a9f4c12612f1aa32e62",
       "format": "Metadata"
     },
     {
@@ -610,9 +662,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 58,
-  "item_last_updated": 1658617327,
-  "item_size": 5100947,
+  "files_count": 63,
+  "item_last_updated": 1658660380,
+  "item_size": 5491425,
   "metadata": {
     "identifier": "beltel-2022",
     "collection": [
@@ -629,10 +681,10 @@
     "publicdate": "2022-07-18 00:59:08",
     "addeddate": "2022-07-18 00:59:08"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 40377991,
+  "server": "ia601508.us.archive.org",
+  "uniq": 789638570,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

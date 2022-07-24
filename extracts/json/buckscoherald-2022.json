@@ -1,5 +1,5 @@
 {
-  "created": 1658617417,
+  "created": 1658660472,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/12/items/buckscoherald-2022",
@@ -1328,31 +1328,83 @@
       "sha1": "02958edf26ea2259f280e9660ad77a0a6e60a0ad"
     },
     {
+      "name": "buckscoherald-2022-07-24T07:00:02.922958-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658660406",
+      "size": "42083",
+      "md5": "0ba70f7750f9f99899080c4842da4dbf",
+      "crc32": "aa11414d",
+      "sha1": "33c7cc3067123fcb0846265d5e7e1d20e8c27cf8",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-07-24T07:00:02.922958-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658660408",
+      "size": "51477",
+      "md5": "a7ccfc65b1fac11b21c58bdf2dcfd861",
+      "crc32": "fb504f0d",
+      "sha1": "1b8753557945b0ea8af5d63a952bb5acef338e2d",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-07-24T07:00:02.922958-04:00.jpg",
+      "source": "original",
+      "mtime": "1658660404",
+      "size": "321255",
+      "md5": "e32bd721de2a12fe69aaae8818197abd",
+      "crc32": "c00cd4d9",
+      "sha1": "b49151127a7dfc18a8acb32898d32c54aea06809",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buckscoherald-2022-07-24T07:00:02.922958-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658660409",
+      "size": "1519",
+      "md5": "3421070522bf542a8e20009ee260907b",
+      "crc32": "b1fc00af",
+      "sha1": "20e3c4762818dcec228495401b32a6cfee8b8474",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-07-24T07:00:02.922958-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buckscoherald-2022-07-24T07:00:02.922958-04:00.jpg",
+      "mtime": "1658660460",
+      "size": "10081",
+      "md5": "fd62aa81813dc8e4d121049fa93f54be",
+      "crc32": "b7bd95d7",
+      "sha1": "47c793a22f8d17665aa9fc4284c494741012e2e5"
+    },
+    {
       "name": "buckscoherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c3defb006457e4677bf57539573d65be6fa329f",
-      "mtime": "1658617404",
-      "size": "28690",
-      "md5": "79f13abacfb48f7e4c345ebd4a16d92a",
-      "crc32": "342817a0",
-      "sha1": "9b6803998248c83885abb15f0c76512c95e69da5",
+      "btih": "9b8b0397dd91e0a571faf039228067b3e9acfef2",
+      "mtime": "1658660463",
+      "size": "29775",
+      "md5": "738ff55e1df12cae99f2eecdbbd3164d",
+      "crc32": "53189625",
+      "sha1": "ea5b7d01266027ec648984bbe7e74ae123f61ee9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buckscoherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8e82d2af7ed1907d326455df11a6e9a7",
+      "md5": "4c898fb6db2baea099f584ec0923d2e7",
       "summation": "md5"
     },
     {
       "name": "buckscoherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658617307",
-      "size": "167936",
-      "md5": "b136d03fed927a3e45b4608061f99e66",
-      "crc32": "82bd4048",
-      "sha1": "b0a35787fcfa3502d9b51be2ebe4f5ac1033daf0",
+      "mtime": "1658660414",
+      "size": "172032",
+      "md5": "9583980dbe1d142449bbf1c153fd93ce",
+      "crc32": "d27af827",
+      "sha1": "08d724b787eebf805886615e2e79531ff05c7274",
       "format": "Metadata"
     },
     {
@@ -1366,9 +1418,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 130,
-  "item_last_updated": 1658617404,
-  "item_size": 12889074,
+  "files_count": 135,
+  "item_last_updated": 1658660463,
+  "item_size": 13320670,
   "metadata": {
     "identifier": "buckscoherald-2022",
     "collection": [
@@ -1385,10 +1437,10 @@
     "publicdate": "2022-07-09 03:57:03",
     "addeddate": "2022-07-09 03:57:03"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 815807843,
+  "server": "ia902506.us.archive.org",
+  "uniq": 1558378669,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658622724,
+  "created": 1658665128,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/18/items/wtoc11-2022",
@@ -310,31 +310,83 @@
       "sha1": "6d5be222afe8b2e7eb00700048553abb2368615d"
     },
     {
+      "name": "wtoc11-2022-07-23T23:47:48.492545-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658634472",
+      "size": "33946",
+      "md5": "2e451cb42d190361c8c8ba2fc7276339",
+      "crc32": "98a84aa4",
+      "sha1": "57fa1f011856117c13142095f398abcf5e024fa4",
+      "format": "JSON"
+    },
+    {
+      "name": "wtoc11-2022-07-23T23:47:48.492545-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658634473",
+      "size": "23162",
+      "md5": "2c8a02ac924ac9844d0b5f5b6c0d6e3f",
+      "crc32": "2854fe86",
+      "sha1": "50dfcbef0d4f1db2e914a09d2d821be6ae86802e",
+      "format": "JSON"
+    },
+    {
+      "name": "wtoc11-2022-07-23T23:47:48.492545-04:00.jpg",
+      "source": "original",
+      "mtime": "1658634470",
+      "size": "366184",
+      "md5": "5bbe64104415966582a7a230fcd37c5d",
+      "crc32": "a2e91665",
+      "sha1": "ebd76fa814477b5b7c13f7009d436cb9b03bd181",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wtoc11-2022-07-23T23:47:48.492545-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658634475",
+      "size": "1441",
+      "md5": "ff26094031343935fdb944ac67999bf9",
+      "crc32": "ec5aab14",
+      "sha1": "b50274bdb795cb4c1a314fbf8db259ca7749c150",
+      "format": "JSON"
+    },
+    {
+      "name": "wtoc11-2022-07-23T23:47:48.492545-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wtoc11-2022-07-23T23:47:48.492545-04:00.jpg",
+      "mtime": "1658634658",
+      "size": "10664",
+      "md5": "df93acded17b992348f30fb1949bc4ea",
+      "crc32": "6b9fa89b",
+      "sha1": "badb406d43d48135a1698ecd2ce54172a1160542"
+    },
+    {
       "name": "wtoc11-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb3deaeee665838c4183d10295e04e91ce9876cb",
-      "mtime": "1658592721",
-      "size": "7483",
-      "md5": "dabfb52a88205339586f64fd78b59902",
-      "crc32": "ccca868c",
-      "sha1": "206dd0e5ef8d347e6ef5d090b5bf39590fb1523d",
+      "btih": "d42456d55fd091a1e1e3a247ee9acad9ceda72c7",
+      "mtime": "1658634666",
+      "size": "8533",
+      "md5": "c42c6f9e17697d110b61ba2076bed13f",
+      "crc32": "a94cca82",
+      "sha1": "df62294fce0e7799b8e08b26814d0944779589a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wtoc11-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f9bd3fa227e18883f19c9c36cf5b79a",
+      "md5": "7c2a30d4edc375ee2a8f6f3b2ecb91a8",
       "summation": "md5"
     },
     {
       "name": "wtoc11-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658592636",
-      "size": "49152",
-      "md5": "cf334c1388c4276defad67c7cf051d20",
-      "crc32": "b67358e5",
-      "sha1": "6ff0152712b91a12181412d41e5919ccae2ab15e",
+      "mtime": "1658634477",
+      "size": "57344",
+      "md5": "abcb13725bbb5ff5fae608bf52d1b9ea",
+      "crc32": "eb41c540",
+      "sha1": "ea9665cca0583f59f78eb190d7763781b40f6b24",
       "format": "Metadata"
     },
     {
@@ -348,9 +400,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 33,
-  "item_last_updated": 1658592721,
-  "item_size": 3251939,
+  "files_count": 38,
+  "item_last_updated": 1658634666,
+  "item_size": 3696578,
   "metadata": {
     "identifier": "wtoc11-2022",
     "collection": [
@@ -368,835 +420,50 @@
     "addeddate": "2022-07-20 23:32:40"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 1175416049,
+  "uniq": 1824934319,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"
   ],
   "wtoc11-2022": [
     {
-      "text": "Skip to content",
-      "url": "#main"
-    },
-    {
-      "text": "Sky Cams",
-      "url": "/weather/cams"
-    },
-    {
-      "text": "Business Partners",
-      "url": "/business/partners"
-    },
-    {
-      "text": "Community Calendar",
-      "url": "/community/calendar/"
-    },
-    {
-      "text": "Top Teacher",
-      "url": "/news/education/top-teacher"
-    },
-    {
-      "text": "Live Healthy",
-      "url": "/memoriallivehealthy"
-    },
-    {
-      "text": "Books to Kids",
-      "url": "/page/books-to-kids"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "86\u00b0Savannah, GA",
-      "url": "/weather/"
-    },
-    {
-      "text": "",
-      "url": "/"
-    },
-    {
-      "text": "Live",
-      "url": "/livestream"
-    },
-    {
-      "text": "News",
-      "url": "/news"
-    },
-    {
-      "text": "Weather",
-      "url": "/weather"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports"
-    },
-    {
-      "text": "Morning Break",
-      "url": "/morningbreak/"
-    },
-    {
-      "text": "Investigates",
-      "url": "/news/investigate"
-    },
-    {
-      "text": "Community",
-      "url": "/community"
-    },
-    {
-      "text": "Home",
-      "url": "/homepage"
-    },
-    {
-      "text": "Programming Schedule",
-      "url": "/programming/schedule"
-    },
-    {
-      "text": "Download Our Apps",
-      "url": "/page/apps"
-    },
-    {
-      "text": "Submit Photos & Videos",
-      "url": "/community/user-content/"
-    },
-    {
-      "text": "News",
-      "url": "/news"
-    },
-    {
-      "text": "Health",
-      "url": "https://www.wtoc.com/health/"
-    },
-    {
-      "text": "Back 2 School",
-      "url": "/back2school"
-    },
-    {
-      "text": "Coronavirus",
-      "url": "/health/coronavirus"
-    },
-    {
-      "text": "Tracking the Vaccine",
-      "url": "/health/tracking-the-vaccine"
-    },
-    {
-      "text": "Crime",
-      "url": "/news/crime"
-    },
-    {
-      "text": "Murdaugh Case",
-      "url": "/news/lowcountry/murdaugh-case"
-    },
-    {
-      "text": "Lowcountry News",
-      "url": "/news/lowcountry"
-    },
-    {
-      "text": "WTOC Investigates",
-      "url": "/news/investigate"
-    },
-    {
-      "text": "Education",
-      "url": "/news/education"
-    },
-    {
-      "text": "Elections Center",
-      "url": "/politics/elections"
-    },
-    {
-      "text": "Traffic",
-      "url": "/traffic"
-    },
-    {
-      "text": "Gas Prices",
-      "url": "/traffic/gas-prices"
-    },
-    {
-      "text": "National",
-      "url": "/news/national"
-    },
-    {
-      "text": "First Alert Weather",
-      "url": "/weather"
-    },
-    {
-      "text": "Headlines",
-      "url": "/weather/headlines"
-    },
-    {
-      "text": "Sky Cams",
-      "url": "/weather/cams"
-    },
-    {
-      "text": "Hurricane Center",
-      "url": "/weather/hurricane"
-    },
-    {
-      "text": "Astronomical Tide And River Data",
-      "url": "http://www.wtoc.com/story/38936600/astronomical-tide-river-data"
-    },
-    {
-      "text": "Summer Weather Tips",
-      "url": "/page/summer-weather-tips/"
-    },
-    {
-      "text": "What Is A First Alert Weather Day?",
-      "url": "http://www.wtoc.com/video/2019/03/08/what-is-first-alert-weather-day/"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports"
-    },
-    {
-      "text": "End Zone",
-      "url": "/sports/high-school/football"
-    },
-    {
-      "text": "Eagle Report",
-      "url": "/sports/ncaa/georgia-southern"
-    },
-    {
-      "text": "Ghost Pirates",
-      "url": "/sports/savannah-ghost-pirates"
-    },
-    {
-      "text": "Clovers",
-      "url": "/sports/clovers"
-    },
-    {
-      "text": "Tormenta",
-      "url": "/sports/tormenta"
-    },
-    {
-      "text": "Play of the Week",
-      "url": "/page/play-of-the-week-2/"
-    },
-    {
-      "text": "Golf",
-      "url": "/sports/golf"
-    },
-    {
-      "text": "Bananas",
-      "url": "/sports/bananas"
-    },
-    {
-      "text": "Community",
-      "url": "/community"
-    },
-    {
-      "text": "Birthday Club",
-      "url": "/page/birthday-club/"
-    },
-    {
-      "text": "Hometown Hero",
-      "url": "/community/hometown-hero"
-    },
-    {
-      "text": "Spring Spruce Up",
-      "url": "/springspruceup"
-    },
-    {
-      "text": "Pet Pics",
-      "url": "/page/pet-pics"
-    },
-    {
-      "text": "Calendar",
-      "url": "/community/calendar"
-    },
-    {
-      "text": "Morning Break",
-      "url": "/morningbreak"
-    },
-    {
-      "text": "Top Teacher",
-      "url": "/news/education/top-teacher"
-    },
-    {
-      "text": "Books to Kids",
-      "url": "/page/books-to-kids"
-    },
-    {
-      "text": "Morning Break",
-      "url": "/morningbreak"
-    },
-    {
-      "text": "Music",
-      "url": "/morningbreak/music"
-    },
-    {
-      "text": "Health",
-      "url": "/morningbreak/health"
-    },
-    {
-      "text": "DIY",
-      "url": "/morningbreak/diy"
-    },
-    {
-      "text": "Vacation",
-      "url": "/morningbreak/vacation"
-    },
-    {
-      "text": "Style",
-      "url": "/morningbreak/style"
-    },
-    {
-      "text": "Food",
-      "url": "/morningbreak/food"
-    },
-    {
-      "text": "Outdoor",
-      "url": "/morningbreak/outdoor"
-    },
-    {
-      "text": "Art",
-      "url": "/morningbreak/art"
-    },
-    {
-      "text": "Events",
-      "url": "/morningbreak/events"
-    },
-    {
-      "text": "Podcasts",
-      "url": "/podcasts"
-    },
-    {
-      "text": "WTOC News Podcast",
-      "url": "/2020/07/29/wtoc-news-podcast/"
-    },
-    {
-      "text": "First Alert Weather Podcast",
-      "url": "/2019/10/10/first-alert-weather-podcast/"
-    },
-    {
-      "text": "WTOC Sports Podcast",
-      "url": "/2020/01/23/wtoc-sports-podcast/"
-    },
-    {
-      "text": "WTOC Inside Lane Podcast",
-      "url": "/2022/02/11/wtocs-inside-lane/"
-    },
-    {
-      "text": "About Us",
-      "url": "/about-us"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/about-us/contact-us"
-    },
-    {
-      "text": "Download Our Apps",
-      "url": "/page/apps"
-    },
-    {
-      "text": "Meet The Team",
-      "url": "/about-us/meet-the-team"
-    },
-    {
-      "text": "Internships",
-      "url": "/2018/12/27/internships-wtoc"
-    },
-    {
-      "text": "Antenna Tips",
-      "url": "/story/36467588/tune-us-in-antenna-tips-reception-troubleshooting"
-    },
-    {
-      "text": "Contests",
-      "url": "/contests"
-    },
-    {
-      "text": "Latest Newscasts",
-      "url": "https://www.vuit.com/publishers/277/wtoc"
-    },
-    {
-      "text": "Investigate TV",
-      "url": "https://www.investigatetv.com/"
-    },
-    {
-      "text": "Circle Country Music & Lifestyle",
-      "url": "http://www.circleallaccess.com/"
-    },
-    {
-      "text": "Gray DC Bureau",
-      "url": "https://www.graydc.com/"
-    },
-    {
-      "text": "PowerNation",
-      "url": "/powernation"
-    },
-    {
-      "text": "Press Releases",
-      "url": "/wires/press-releases"
-    },
-    {
-      "text": "",
-      "url": "https://www.facebook.com/wtoc11"
-    },
-    {
-      "text": "",
-      "url": "https://www.instagram.com/WTOC11"
-    },
-    {
-      "text": "",
-      "url": "https://www.twitter.com/WTOC11"
-    },
-    {
-      "text": "ALERT: WTOC to go off-air during scheduled maintenance this weekend",
-      "url": "/2022/07/22/wtoc-go-off-air-during-scheduled-maintenance-this-weekend/"
-    },
-    {
-      "text": " Wife, husband dead after apparent murder-suicide at shopping center in Hinesville, according to police chiefTwo are dead after an apparent murder-suicide at a shopping center in Hinesville.",
-      "url": "/2022/07/22/wife-husband-dead-after-apparent-murder-suicide-shopping-center-hinesville/"
-    },
-    {
-      "text": "",
-      "url": "/2022/07/22/wife-husband-dead-after-apparent-murder-suicide-shopping-center-hinesville/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
-    },
-    {
-      "text": "",
-      "url": "/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
-    },
-    {
-      "text": " Churches at center of FBI raid lose recommendation, removed from VA\u2019s school list",
-      "url": "/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
-    },
-    {
-      "text": "Health",
-      "url": "/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
-    },
-    {
-      "text": "",
-      "url": "/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
-    },
-    {
-      "text": " Savannah City Council adopts resolution supporting women\u2019s reproductive rights",
-      "url": "/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
-    },
-    {
-      "text": "Politics",
-      "url": "/2022/07/22/fec-complaint-dismissed-against-rep-carters-ad-around-all-star-game/"
-    },
-    {
-      "text": "",
-      "url": "/2022/07/22/fec-complaint-dismissed-against-rep-carters-ad-around-all-star-game/"
-    },
-    {
-      "text": "FEC complaint dismissed against Rep. Carter\u2019s ad around All-Star Game",
-      "url": "/2022/07/22/fec-complaint-dismissed-against-rep-carters-ad-around-all-star-game/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/22/child-advocate-discusses-potential-impact-gas-heartbeat-law-foster-care/"
-    },
-    {
-      "text": " Child advocate discusses potential impact of Ga.\u2019s Heartbeat Law on foster care",
-      "url": "/2022/07/22/child-advocate-discusses-potential-impact-gas-heartbeat-law-foster-care/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/22/chatham-county-manager-lee-smith-suspended-with-pay/"
-    },
-    {
-      "text": "Chatham County Manager Lee Smith suspended with pay",
-      "url": "/2022/07/22/chatham-county-manager-lee-smith-suspended-with-pay/"
-    },
-    {
-      "text": "Community",
-      "url": "/2022/07/22/bulloch-co-woman-hoping-establish-boarding-school-uganda/"
-    },
-    {
-      "text": " Bulloch Co. woman hoping to establish boarding school in Uganda",
-      "url": "/2022/07/22/bulloch-co-woman-hoping-establish-boarding-school-uganda/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/22/short-term-vacation-rental-moratorium-continues-tybee-island/"
-    },
-    {
-      "text": " Short-term vacation rental moratorium continues on Tybee Island",
-      "url": "/2022/07/22/short-term-vacation-rental-moratorium-continues-tybee-island/"
-    },
-    {
-      "text": "Programming",
-      "url": "/2022/07/22/wtoc-go-off-air-during-scheduled-maintenance-this-weekend/"
-    },
-    {
-      "text": "WTOC to go off-air during scheduled maintenance this weekend",
-      "url": "/2022/07/22/wtoc-go-off-air-during-scheduled-maintenance-this-weekend/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/22/ga-unemployment-rate-all-time-low/"
-    },
-    {
-      "text": " Ga. unemployment rate at all-time low",
-      "url": "/2022/07/22/ga-unemployment-rate-all-time-low/"
-    },
-    {
-      "text": "",
-      "url": "/weather/"
-    },
-    {
-      "text": "",
-      "url": "/livestream"
-    },
-    {
-      "text": "",
-      "url": "/livestream"
-    },
-    {
-      "text": "",
-      "url": "/page/apps"
-    },
-    {
-      "text": "",
-      "url": "/page/apps"
-    },
-    {
-      "text": "",
-      "url": "/page/apps/"
-    },
-    {
-      "text": "",
-      "url": "/page/apps/"
-    },
-    {
-      "text": "",
-      "url": "/podcasts/"
-    },
-    {
-      "text": "",
-      "url": "/podcasts/"
-    },
-    {
-      "text": "",
-      "url": "/news/investigate/"
-    },
-    {
-      "text": "",
-      "url": "/news/investigate/"
-    },
-    {
-      "text": "",
-      "url": "/morningbreak/"
-    },
-    {
-      "text": "",
-      "url": "/morningbreak/"
-    },
-    {
-      "text": "LATEST VIDEO",
-      "url": "/video-gallery/news"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/23/community-reacts-murder-suicide-hinesville/"
-    },
-    {
-      "text": "",
-      "url": "/video/2022/07/23/community-reacts-murder-suicide-hinesville/"
-    },
-    {
-      "text": "Community reacts to murder-suicide in Hinesville",
-      "url": "/video/2022/07/23/community-reacts-murder-suicide-hinesville/"
-    },
-    {
-      "text": "Crime",
-      "url": "/video/2022/07/22/wife-husband-dead-after-apparent-murder-suicide-shopping-center-hinesville-according-police-chief/"
-    },
-    {
-      "text": "",
-      "url": "/video/2022/07/22/wife-husband-dead-after-apparent-murder-suicide-shopping-center-hinesville-according-police-chief/"
-    },
-    {
-      "text": "Wife, husband dead after apparent murder-suicide at shopping center in Hinesville, according to police chief",
-      "url": "/video/2022/07/22/wife-husband-dead-after-apparent-murder-suicide-shopping-center-hinesville-according-police-chief/"
-    },
-    {
-      "text": "Health",
-      "url": "/video/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
-    },
-    {
-      "text": "",
-      "url": "/video/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
-    },
-    {
-      "text": "Savannah City Council adopts resolution supporting women\u2019s reproductive rights",
-      "url": "/video/2022/07/22/savannah-city-council-adopts-resolution-supporting-womens-reproductive-rights/"
-    },
-    {
-      "text": "News",
-      "url": "/video/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
-    },
-    {
-      "text": "",
-      "url": "/video/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
-    },
-    {
-      "text": "Churches at center of FBI raid lose recommendation, removed from VA\u2019s school list",
-      "url": "/video/2022/07/22/churches-center-fbi-raid-lose-recommendation-removed-vas-school-list/"
-    },
-    {
-      "text": "MORE NEWS",
-      "url": "/news/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/22/one-year-since-enmarket-arena-received-its-name/"
-    },
-    {
-      "text": " One year since Enmarket Arena received its name",
-      "url": "/2022/07/22/one-year-since-enmarket-arena-received-its-name/"
-    },
-    {
-      "text": "Community",
-      "url": "/2022/07/22/11th-annual-savannah-ambucs-bowlapalooza-kicks-off/"
-    },
-    {
-      "text": " 11th Annual Savannah AMBUCS Bowlapalooza kicks off",
-      "url": "/2022/07/22/11th-annual-savannah-ambucs-bowlapalooza-kicks-off/"
-    },
-    {
-      "text": "Crime",
-      "url": "/2022/07/22/1-person-injured-shooting-westlake-apartments/"
-    },
-    {
-      "text": "1 person injured in shooting at Westlake Apartments",
-      "url": "/2022/07/22/1-person-injured-shooting-westlake-apartments/"
-    },
-    {
-      "text": "Murdaugh Case",
-      "url": "/2022/07/21/former-bank-ceo-murdaugh-associate-indicted-federal-fraud-charges/"
-    },
-    {
-      "text": " Former bank CEO, Murdaugh associate indicted on federal fraud charges",
-      "url": "/2022/07/21/former-bank-ceo-murdaugh-associate-indicted-federal-fraud-charges/"
-    },
-    {
-      "text": "Crime",
-      "url": "/2022/07/21/two-people-injured-shooting-robinson-circle/"
-    },
-    {
-      "text": " Suspect arrested after one killed, one injured in shooting on Robinson Circle",
-      "url": "/2022/07/21/two-people-injured-shooting-robinson-circle/"
-    },
-    {
-      "text": "WTOC Investigates",
-      "url": "/2022/07/21/renters-guide-why-prices-are-so-high-around-savannah-where-look/"
-    },
-    {
-      "text": " Renter\u2019s Guide: Why prices are so high around Savannah and where to look",
-      "url": "/2022/07/21/renters-guide-why-prices-are-so-high-around-savannah-where-look/"
-    },
-    {
-      "text": "Crime",
-      "url": "/2022/07/21/bulloch-co-investigators-searching-leads-maria-sorrell-road-homicide-case/"
-    },
-    {
-      "text": " Bulloch Co. investigators searching for leads in Maria Sorrell Road homicide case",
-      "url": "/2022/07/21/bulloch-co-investigators-searching-leads-maria-sorrell-road-homicide-case/"
-    },
-    {
-      "text": "Crime",
-      "url": "/2022/07/21/person-shot-leg-waters-avenue-38th-street/"
-    },
-    {
-      "text": " Person shot in leg at Waters Avenue, 38th Street",
-      "url": "/2022/07/21/person-shot-leg-waters-avenue-38th-street/"
-    },
-    {
-      "text": "Back 2 School",
-      "url": "/2022/07/21/bulloch-county-schools-preparing-see-more-students-over-next-few-years/"
-    },
-    {
-      "text": " Bulloch County schools preparing to see more students over the next few years",
-      "url": "/2022/07/21/bulloch-county-schools-preparing-see-more-students-over-next-few-years/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/21/crews-repairing-large-hole-jones-avenue-tybee-island/"
-    },
-    {
-      "text": " Crews repairing large hole on Jones Avenue on Tybee Island",
-      "url": "/2022/07/21/crews-repairing-large-hole-jones-avenue-tybee-island/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/21/pooler-police-crack-down-speeders-operation-southern-slow-down/"
-    },
-    {
-      "text": " Pooler Police crack down on speeders for \u2018Operation Southern Slow Down\u2019",
-      "url": "/2022/07/21/pooler-police-crack-down-speeders-operation-southern-slow-down/"
-    },
-    {
-      "text": "National",
-      "url": "/2022/07/21/biden-tests-positive-covid/"
-    },
-    {
-      "text": " Biden tests positive for COVID-19, has \u2018very mild symptoms\u2019 ",
-      "url": "/2022/07/21/biden-tests-positive-covid/"
-    },
-    {
-      "text": "MORE NEWS",
-      "url": "/news/"
-    },
-    {
-      "text": "Sports",
-      "url": "/2022/07/21/fresh-off-national-title-smart-signs-contract-extension-through-2031-season/"
-    },
-    {
-      "text": "Fresh off national title, Smart signs contract extension through 2031 season",
-      "url": "/2022/07/21/fresh-off-national-title-smart-signs-contract-extension-through-2031-season/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/21/tybee-island-first-responders-hold-community-safety-meeting/"
-    },
-    {
-      "text": " Tybee Island first responders to hold community safety meeting",
-      "url": "/2022/07/21/tybee-island-first-responders-hold-community-safety-meeting/"
-    },
-    {
-      "text": "Lowcountry News",
-      "url": "/2022/07/21/sc-dot-making-progress-hwy-17-expansion-project/"
-    },
-    {
-      "text": "S.C. DOT making progress on Hwy. 17 expansion project",
-      "url": "/2022/07/21/sc-dot-making-progress-hwy-17-expansion-project/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/21/mayor-johnson-responds-calls-his-resignation-following-shooting-by-an-spd-officer/"
-    },
-    {
-      "text": " Mayor Johnson responds to calls for his resignation following shooting by an SPD officer",
-      "url": "/2022/07/21/mayor-johnson-responds-calls-his-resignation-following-shooting-by-an-spd-officer/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/21/georgetown-residents-opposed-potential-housing-development/"
-    },
-    {
-      "text": " Georgetown residents opposed to potential housing development",
-      "url": "/2022/07/21/georgetown-residents-opposed-potential-housing-development/"
-    },
-    {
-      "text": "Murdaugh Case",
-      "url": "/2022/07/20/watch-live-alex-murdaugh-bond-hearing-murder-charges-killing-wife-son/"
-    },
-    {
-      "text": " Alex Murdaugh pleads not guilty to murder of wife, son",
-      "url": "/2022/07/20/watch-live-alex-murdaugh-bond-hearing-murder-charges-killing-wife-son/"
-    },
-    {
-      "text": "Health",
-      "url": "/2022/07/20/court-lifts-injunction-georgias-abortion-law/"
-    },
-    {
-      "text": "Georgia abortion law takes effect immediately | Federal court lifts injunction ",
-      "url": "/2022/07/20/court-lifts-injunction-georgias-abortion-law/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/20/bryan-co-recreation-director-fired-after-claims-sexual-harassment/"
-    },
-    {
-      "text": " Bryan Co. recreation director fired after claims of sexual harassment",
-      "url": "/2022/07/20/bryan-co-recreation-director-fired-after-claims-sexual-harassment/"
-    },
-    {
-      "text": "News",
-      "url": "/2022/07/20/it-doesnt-take-long-30-second-most-savannah-police-warn-leaving-car-doors-unlocked/"
-    },
-    {
-      "text": " \u2018It doesn\u2019t take long, 30 seconds at the most\u2019: Savannah Police warn of leaving car doors unlocked",
-      "url": "/2022/07/20/it-doesnt-take-long-30-second-most-savannah-police-warn-leaving-car-doors-unlocked/"
-    },
-    {
-      "text": "Sports",
-      "url": "/2022/07/20/coastal-empire-represented-during-ugas-turn-sec-media-days/"
-    },
-    {
-      "text": " Coastal Empire represented during UGA\u2019s turn at SEC Media Days",
-      "url": "/2022/07/20/coastal-empire-represented-during-ugas-turn-sec-media-days/"
-    },
-    {
-      "text": "News",
-      "url": "/news"
-    },
-    {
-      "text": "First Alert Weather",
-      "url": "/weather"
-    },
-    {
-      "text": "Sports",
-      "url": "/sports"
-    },
-    {
-      "text": "WTOC Investigates",
-      "url": "/news/investigate"
-    },
-    {
-      "text": "Community",
-      "url": "/community"
-    },
-    {
-      "text": "Watch Live",
-      "url": "/livestream/"
-    },
-    {
-      "text": "Programming Schedule",
-      "url": "/programming/schedule"
-    },
-    {
-      "text": "Contact Us",
-      "url": "/about-us/contact-us"
-    },
-    {
-      "text": "FCC Public File",
-      "url": "http://publicfiles.fcc.gov/tv-profile/WTOC-TV"
-    },
-    {
-      "text": "publicfile@wtoc.com - (912) 234-1111",
-      "url": "mailto:publicfile@wtoc.com"
-    },
-    {
-      "text": "FCC Applications",
-      "url": "https://webpubcontent.gray.tv/gdm/fcc/wtoc-fcc_applications.pdf"
-    },
-    {
-      "text": "EEO Report",
-      "url": "https://publicfiles.fcc.gov/api/manager/download/2f54f7fc-5e40-01cb-58a1-97f5bc936a4d/65fc1886-f0a8-4e4e-8e55-ecc4cecf0be6.pdf"
-    },
-    {
-      "text": "Closed Captioning/Audio Description",
-      "url": "/story/19331528/closed-captioning-contact"
-    },
-    {
-      "text": "WTOC Careers",
-      "url": "https://gray.tv/careers#currentopenings"
-    },
-    {
-      "text": "Terms of Service",
-      "url": "/terms-of-service"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "/privacy-policy"
-    },
-    {
-      "text": "Advertising",
-      "url": "/advertising"
-    },
-    {
-      "text": "search by queryly ",
-      "url": "https://www.queryly.com/"
-    },
-    {
-      "text": "Advanced Search",
-      "url": "#"
+      "url": "https://www.wtoc.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtoc_com-_-2022_07_24_03_30_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtoc_com-_-2022_07_24_03_30_40.report.json",
+      "summary": {
+        "performance": 0.28,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.wtoc.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtoc_com-_-2022_07_24_03_31_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtoc_com-_-2022_07_24_03_31_00.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.wtoc.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtoc_com-_-2022_07_24_03_31_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wtoc_com-_-2022_07_24_03_31_20.report.json",
+      "summary": {
+        "performance": 0.28,
+        "accessibility": 0.83,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
     }
   ]
 }

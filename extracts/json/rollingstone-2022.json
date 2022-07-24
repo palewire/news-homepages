@@ -1,5 +1,5 @@
 {
-  "created": 1658622508,
+  "created": 1658664870,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/rollingstone-2022",
@@ -2964,31 +2964,83 @@
       "sha1": "57c49a2ec65dface34609907e35de99478ed321c"
     },
     {
+      "name": "rollingstone-2022-07-24T02:21:48.798862-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658643712",
+      "size": "25545",
+      "md5": "5e15b5825bce15861ffaebac303eebdb",
+      "crc32": "d72a68cb",
+      "sha1": "7cb1ed21dc3b34688305b936e13ea1b70887dd50",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-07-24T02:21:48.798862-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658643714",
+      "size": "53972",
+      "md5": "8772fe5365034580209c8db2402caa42",
+      "crc32": "9b184124",
+      "sha1": "ca6cfefab407259892d90ff44e17f9b08a5e67d4",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-07-24T02:21:48.798862-04:00.jpg",
+      "source": "original",
+      "mtime": "1658643711",
+      "size": "363222",
+      "md5": "e608582cdf1bbf22fb3ba86f02636ed2",
+      "crc32": "5045cd69",
+      "sha1": "28dd793e33582f4d245bab11479fafbbb6af8012",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollingstone-2022-07-24T02:21:48.798862-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658643715",
+      "size": "1513",
+      "md5": "61f45575d5e56c014f4a49688fbb91ff",
+      "crc32": "65de7426",
+      "sha1": "13786a2828a763ceb7f7d8955624791abc069921",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-07-24T02:21:48.798862-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollingstone-2022-07-24T02:21:48.798862-04:00.jpg",
+      "mtime": "1658643846",
+      "size": "11717",
+      "md5": "4413a379663e987e25b7d680c0d48b7e",
+      "crc32": "8493eadd",
+      "sha1": "5067185c88fdfbaea2cafba301e390e21efa9c70"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "243ff3fbe0d8d5d202806163ae63018d68ccb7dc",
-      "mtime": "1658589098",
-      "size": "61968",
-      "md5": "09e1245fd5ea4c1dc3645a31447a1a37",
-      "crc32": "ba1f94b2",
-      "sha1": "0eda66727ef166f2a60038f42377090b7050d1c3",
+      "btih": "f7210509759451f50f545ff2f8fb7a332fc92efe",
+      "mtime": "1658643923",
+      "size": "63048",
+      "md5": "682a3ddba158750b40ccf2019bcdc761",
+      "crc32": "ec4c06c7",
+      "sha1": "a217b0d03b27cc95fcc78b0c2a4cb6e35a8c3917",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "49cab7f14b321245547873fa0700b551",
+      "md5": "8c5e9b30fb1b62755defb75c5529e626",
       "summation": "md5"
     },
     {
       "name": "rollingstone-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658588882",
-      "size": "339968",
-      "md5": "c2f15f75f33059318410e8d522dc189f",
-      "crc32": "0aef0ee5",
-      "sha1": "8a46e6512b09451882423a31f8eb6b69cfd40b61",
+      "mtime": "1658643719",
+      "size": "344064",
+      "md5": "34a179596dcc3924595535b94b00533c",
+      "crc32": "0c5afe97",
+      "sha1": "0cab775cb758a4e3e0a0645265f59af7a0df0b94",
       "format": "Metadata"
     },
     {
@@ -3002,9 +3054,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 285,
-  "item_last_updated": 1658589098,
-  "item_size": 30716782,
+  "files_count": 290,
+  "item_last_updated": 1658643923,
+  "item_size": 31177927,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -3023,944 +3075,47 @@
   },
   "rollingstone-2022": [
     {
-      "text": "\u00d7",
-      "url": "#"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tRolling Stone\n\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\tSend a Tip\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/tips"
-    },
-    {
-      "text": "\n\t\t\t\tLog In\t\t\t",
-      "url": "https://api.pmc.com/authorization/login?returnTo=https%3A%2F%2Fwww.rollingstone.com%2F&brand=rs&source=website"
-    },
-    {
-      "text": "\n\t\t\t\tSubscribe\t\t\t",
-      "url": "https://api.cxense.com/public/widget/click/wQjR4SJYr4xpRHSbMKQG__xi3j7M6gwy6yMiQH_UYoN6VVVyVpMI_awEf4sm1KzkxOf4aaYHy94K-cNAyGrCZUDjwW0WOFaFWCIyUvk7RT9LTnD34lYaOt4rE11PSgDljhGtoAMAY9Jvzwh6hPsKrmknmAAN9J_Cj0pG2TT1CKqNr8jUThD7mran5a7vssItAzOGiSB6Te2_M8O-SD9EKNTAPASUKsJLW_a_BljPyUvTvadC6diSRTJzQ6iBjAkGpczEQ0ukhCCUkGjOJYRsPebjC7p3nrjdk9bIz3uRztCK43f1YWrL5oKfSewMGvP4cfEVkahcycGRbV-kslDYeMomsaF0hMUGlQBkmcK5sdn38KjEG1M5adtUfcOdXUmaHewTWQnaRDQmHqxEMFAoWfZlvukBipTQ1Ps4l0eTGBmDqQMQr9O2eBZyiz-NHNNO0_OxhuKK3vE0tPDDqjqzM2lpZ7V58a50NGgjQsRczs5u7fR7h4UWJQ-iTbfWZLlVuPAS3mPo783LOTqgpdObjmWgYxykrZ_hR4V0Wkk69qxYiNlqsZ7oyhWi7k3mY5gtJhLUFPQphi0CwzjS4bDYqli5bO7AN3GTOMryOyp4fu_oSL-tQXRrWAdx2TfRVVUYZBgaMsTXTqOW0_Z4vDor7WVQ66JIXWQMzRkQod73DICZDDPzkYs0?cx_testId=78&cx_testVariant=cx_2&cx_artPos=0&cx_productId=8newff57xtlo&cx_navSource=pmc-cx-subscribe-header-button"
-    },
-    {
-      "text": "Music",
-      "url": "https://www.rollingstone.com/music/"
-    },
-    {
-      "text": "TV & Movies",
-      "url": "https://www.rollingstone.com/tv-movies/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.rollingstone.com/politics/"
-    },
-    {
-      "text": "Culture",
-      "url": "https://www.rollingstone.com/culture/"
-    },
-    {
-      "text": "Pro",
-      "url": "https://www.rollingstone.com/pro/"
-    },
-    {
-      "text": "Newsletters",
-      "url": "https://pages.email.rollingstone.com/signup"
-    },
-    {
-      "text": "Shop",
-      "url": "https://shop.rollingstone.com"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/"
-    },
-    {
-      "text": "\n\tRead Next\n\t\n\t\tPregnant on the Other Side of the Border\t\n",
-      "url": "https://www.rollingstone.com/culture/culture-features/border-wall-migrants-trump-pregnant-1386901/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tLog In\t\t\t\t\t\t",
-      "url": "https://api.pmc.com/authorization/login?returnTo=https%3A%2F%2Fwww.rollingstone.com%2F&brand=rs&source=website"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tSubscribe\t\t\t\t\t\t",
-      "url": "https://api.cxense.com/public/widget/click/wQjR4SJYr4xpRHSbMKQG__xi3j7M6gwy6yMiQH_UYoN6VVVyVpMI_awEf4sm1KzkxOf4aaYHy94K-cNAyGrCZUDjwW0WOFaFWCIyUvk7RT9LTnD34lYaOt4rE11PSgDljhGtoAMAY9Jvzwh6hPsKrmknmAAN9J_Cj0pG2TT1CKqNr8jUThD7mran5a7vssItAzOGiSB6Te2_M8O-SD9EKNTAPASUKsJLW_a_BljPyUvTvadC6diSRTJzQ6iBjAkGpczEQ0ukhCCUkGjOJYRsPebjC7p3nrjdk9bIz3uRztCK43f1YWrL5oKfSewMGvP4cfEVkahcycGRbV-kslDYeMomsaF0hMUGlQBkmcK5sdn38KjEG1M5adtUfcOdXUmaHewTWQnaRDQmHqxEMFAoWfZlvukBipTQ1Ps4l0eTGBmDqQMQr9O2eBZyiz-NHNNO0_OxhuKK3vE0tPDDqjqzM2lpZ7V58a50NGgjQsRczs5u7fR7h4UWJQ-iTbfWZLlVuPAS3mPo783LOTqgpdObjmWgYxykrZ_hR4V0Wkk69qxYiNlqsZ7oyhWi7k3mY5gtJhLUFPQphi0CwzjS4bDYqli5bO7AN3GTOMryOyp4fu_oSL-tQXRrWAdx2TfRVVUYZBgaMsTXTqOW0_Z4vDor7WVQ66JIXWQMzRkQod73DICZDDPzkYs0?cx_testId=78&cx_testVariant=cx_2&cx_artPos=0&cx_productId=8newff57xtlo&cx_navSource=pmc-cx-subscribe-header-button-sticky"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\tSend a Tip\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/tips/"
-    },
-    {
-      "text": "\n\t\t\tGet Digital Access\t\t",
-      "url": "https://api.cxense.com/public/widget/click/wQjR4SJYr4xpRHSbMKQG__xi3j7M6gwy6yMiQH_UYoN6VVVyVpMI_awEf4sm1KzkxOf4aaYHy94K-cNAyGrCZUDjwW0WOFaFWCIyUvk7RT9LTnD34lYaOt4rE11PSgDljhGtoAMAY9Jvzwh6hPsKrmknmAAN9J_Cj0pG2TT1CKqNr8jUThD7mran5a7vssItAzOGiSB6Te2_M8O-SD9EKNTAPASUKsJLW_a_BljPyUvTvadC6diSRTJzQ6iBjAkGpczEQ0ukhCCUkGjOJYRsPebjC7p3nrjdk9bIz3uRztCK43f1YWrL5oKfSewMGvP4cfEVkahcycGRbV-kslDYeMomsaF0hMUGlQBkmcK5sdn38KjEG1M5adtUfcOdXUmaHewTWQnaRDQmHqxEMFAoWfZlvukBipTQ1Ps4l0eTGBmDqQMQr9O2eBZyiz-NHNNO0_OxhuKK3vE0tPDDqjqzM2lpZ7V58a50NGgjQsRczs5u7fR7h4UWJQ-iTbfWZLlVuPAS3mPo783LOTqgpdObjmWgYxykrZ_hR4V0Wkk69qxYiNlqsZ7oyhWi7k3mY5gtJhLUFPQphi0CwzjS4bDYqli5bO7AN3GTOMryOyp4fu_oSL-tQXRrWAdx2TfRVVUYZBgaMsTXTqOW0_Z4vDor7WVQ66JIXWQMzRkQod73DICZDDPzkYs0?cx_testId=78&cx_testVariant=cx_2&cx_artPos=0&cx_productId=8newff57xtlo&cx_navSource=dynamic-link"
-    },
-    {
-      "text": "\n\t\t\tManage Digital Account\t\t",
-      "url": "https://myaccount.pmc.com/"
-    },
-    {
-      "text": "\n\t\t\tManage Print Account\t\t",
-      "url": "https://w1.buysub.com/pubs/FR/RLS/login.jsp?cds_page_id=234415&cds_mag_code=RLS&id=1594683118400&lsid=31951831583076169&vid=1"
-    },
-    {
-      "text": "\n\t\t\tLogout\t\t",
-      "url": "https://api.pmc.com/authorization/logout?returnTo=https%3A%2F%2Fwww.rollingstone.com%2F"
-    },
-    {
-      "text": "SEE MY OPTIONS",
-      "url": "https://subscribe.rollingstone.com"
-    },
-    {
-      "text": "\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\n\t\n\n\n\t\n\tPregnant on the Other Side of the Border\n\n\n\tPosted in:\n\t\t Culture Features\n\t\n\n\n\tAs the migrant population swells in Northern Mexico, expectant mothers there are being denied care and falling prey to horrific violence, according to a two-year investigation by the journalism nonprofit Capital & Main\n\n\n\t\t\t\n\t\t",
-      "url": "https://www.rollingstone.com/culture/culture-features/border-wall-migrants-trump-pregnant-1386901/"
-    },
-    {
-      "text": "\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\n\t\n\n\n\t\n\tRolling Loud: Kid Cudi Walks Offstage as Kanye Appears With Lil Durk\n\n\n\tPosted in:\n\t\t Music News\n\t\n\t\t\t\n\t\t",
-      "url": "https://www.rollingstone.com/music/music-news/rolling-loud-kid-cudi-kanye-west-lil-durk-1387184/"
-    },
-    {
-      "text": "\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\n\n\t\t\t\n\n\t\t\t\t\n\n\n\t\n\n\n\t\n\tTrump Blasts Jan. 6 Committee \u2018Persecution\u2019\n\n\n\tPosted in:\n\t\t Politics News\n\t\n\t\t\t\n\t\t",
-      "url": "https://www.rollingstone.com/politics/politics-news/donald-trump-jan-6-committee-arizona-rally-1387177/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tU2 to Stage Las Vegas Residency at New Arena in 2023: Report\n\n\t\t\t\n\n\tPosted in:\n\t\t Music News\n\t\n\n\n\t\t\n\t\t\n\t\t\t2 hours ago\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-news/u2-las-vegas-residency-mgm-sphere-1387211/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tPregnant on the Other Side of the Border\n\n\t\t\t\n\n\tPosted in:\n\t\t Culture Features\n\t\n\n\n\t\t\n\t\t\n\t\t\t2 hours ago\t\t\n\t",
-      "url": "https://www.rollingstone.com/culture/culture-features/border-wall-migrants-trump-pregnant-1386901/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\t\u2018I Have Too Much Respect for the White House\u2019: Donald Trump Blasts Jan. 6 Committee \u2018Persecution\u2019\n\n\t\t\t\n\n\tPosted in:\n\t\t Politics News\n\t\n\n\n\t\t\n\t\t\n\t\t\t7 hours ago\t\t\n\t",
-      "url": "https://www.rollingstone.com/politics/politics-news/donald-trump-jan-6-committee-arizona-rally-1387177/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tRolling Loud: Kid Cudi Walks Offstage as Kanye Appears With Lil Durk\n\n\t\t\t\n\n\tPosted in:\n\t\t Music News\n\t\n\n\n\t\t\n\t\t\n\t\t\t9 hours ago\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-news/rolling-loud-kid-cudi-kanye-west-lil-durk-1387184/"
-    },
-    {
-      "text": "\n\t\tMore News\n\t",
-      "url": "https://www.rollingstone.com/2022/07/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tTrump Has Floated Giving MAGA Extremists \u2014 Including Lou Dobbs \u2014 Cabinet Gigs if He Wins in 2024\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/politics/politics-news/trump-plotting-stock-government-loyalists-lou-dobbs-1387008/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tBillie Eilish Achieves \u2018Dance Cam\u2019 Glory by Dancing to Her Own Song at Dodgers Game\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/music/music-news/billie-eilish-dance-cam-bad-guy-dodgers-game-1386733/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tDrew Barrymore Is Undergoing a Glorious Himbo Renaissance\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/culture/culture-news/drew-barrymore-dont-let-this-flop-podcast-1386467/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tA True-Crime Star Lost His Podcast Over Misconduct Allegations. Then, More Women Came Forward\u00a0\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/culture/culture-features/billy-jensen-murder-squad-misconduct-allegation-investigation-1384950/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tA Toddler on TikTok Is Spawning a Massive Mom-Led Movement\n\t\t\t\t\t\t\n\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/culture/culture-news/tiktok-wren-eleanor-moms-controversy-1385182/"
-    },
-    {
-      "text": "\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tFeatures\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tFake Accounts Fueled the \u2018Snyder Cut\u2019 Online Army\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA WarnerMedia report reveals that bots and other inauthentic users bolstered the fan-led campaign for director Zack Snyder\u2019s  Justice League  do-over\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/justice-league-the-snyder-cut-bots-fans-1384231/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
-      "url": ""
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
-      "url": ""
-    },
-    {
-      "text": "\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tMegan Thee Stallion Will Not Back Down\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/music/music-features/megan-thee-stallion-new-album-1366025/"
-    },
-    {
-      "text": "\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLady Gaga\u2019s Longtime Choreographer Accused of Toxic Behavior\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/music/music-features/lady-gaga-richard-richy-jackson-choreographer-dancers-1386175/"
-    },
-    {
-      "text": "\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHow Noah Cyrus Saved Herself\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/music/music-features/noah-cyrus-new-album-hardest-part-1371223/"
-    },
-    {
-      "text": "\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tThe Brilliant Voice and Too-Short Life of Nicolette Larson\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/music/music-features/nicolette-larson-lotta-love-neil-young-1286895/"
-    },
-    {
-      "text": "View All",
-      "url": "https://www.rollingstone.com/t/rs-reports/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\n\t\n\n\n\t\n\tInside Misconduct Allegations Against True-Crime Star\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/culture/culture-features/billy-jensen-murder-squad-misconduct-allegation-investigation-1384950/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\n\t\n\n\n\t\n\t\u2018We Will Kill Them Again\u2019: As Russia Advances, Ukrainians Dig In\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/politics/politics-features/ukraine-russia-putin-invasion-1382198/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\n\t\n\n\n\t\n\tThese Mormons Have Found a New Faith \u2014 in Magic Mushrooms\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/culture/culture-features/psychedelics-mormon-church-divine-assembly-1375027/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\n\t\n\n\n\t\n\tMAGA Preacher Sean Feucht Scored Millions From His Trump-Loving Flock\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/politics/politics-features/maga-preacher-sean-feucht-scored-millions-from-his-trump-loving-flock-1380126/"
-    },
-    {
-      "text": "\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\n\t\n\n\n\t\n\tHow \u2018Baby Al Capone\u2019 Pulled Off a $24 Million Crypto Heist\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
-      "url": "https://www.rollingstone.com/culture/culture-features/crypto-heist-teenage-hacker-ellis-pinsky-1367400/"
-    },
-    {
-      "text": "\n\t\t\t\t\tView All\t\t\t\t",
-      "url": "/music/"
-    },
-    {
-      "text": "\n\t\t\t\tHide\n\t\t\t\tShow\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
-      "url": "#"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tU2 to Stage Las Vegas Residency at New Arena in 2023: Report\n\n\n\tPosted in:\n\t\t Music News\n\t\n\n\n\tBy\n\tDaniel Kreps\n\n\n\tBono and company set to open newly built MGM Sphere, perform throughout the year at $1.8 billion venue\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-news/u2-las-vegas-residency-mgm-sphere-1387211/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tRolling Loud: Kid Cudi Walks Offstage as Kanye Appears With Lil Durk\n\n\n\tPosted in:\n\t\t Music News\n\t\n\n\n\tBy\n\tKat Bouza\n\n\n\tRapper cuts late-minute headlining set short after being pelted by water bottles from crowd\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-news/rolling-loud-kid-cudi-kanye-west-lil-durk-1387184/"
-    },
-    {
-      "text": "\n         \n            \n                 \n            \n            \n         \n         \n         \n            \n            \n           \n           \t\t\n           \n            \n            \n               RS Recommends: The Best HEPA Air Purifiers for Smoke, Germs and Viruses\n            \n            \n            \n               We review top-rated HEPA air purifiers for the home and office, with filters to eliminate viruses, germs, allergens and more\n            \n            \n         \n         \n      ",
-      "url": "https://www.rollingstone.com/product-recommendations/electronics/best-hepa-air-purifier-reviews-1086229/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tTri Star Exec Accused of Spying on Britney Spears Fails to Win Delay of Key Hearing\n\n\n\tPosted in:\n\t\t Music News\n\t\n\n\n\tBy\n\tNancy Dillon\n\n\n\tRobin Greenhill sought a last-minute postponement to add additional lawyers, but judge saw no \u201cirreparable harm\u201d keeping July 27 court showdown over Britney\u2019s deposition demand\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-news/britney-spears-spying-court-case-tri-star-robin-greenhill-1387040/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tTainy, Rauw Alejandro Live Out Their Cyber Rave Dreams in New \u2018Sci-Fi\u2019 Video\n\n\n\tPosted in:\n\t\t Latin Music\n\t\n\n\n\tBy\n\tJulyssa Lopez\n\n\n\tThe futuristic electro-pop song showcases Tainy's experimental production\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-latin/tainy-rauw-alejandro-sci-fi-song-video-1386982/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tTomorrow x Together and Iann Dior Walk Through a \u2018Valley of Lies\u2019 on New Collab\n\n\n\tPosted in:\n\t\t Music News\n\t\n\n\n\tBy\n\tTom\u00e1s Mier\n\n\n\tNew English-language track follows their Minisode 2 EP\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-news/tomorrow-x-together-iann-dior-drop-valley-of-lies-1387001/"
-    },
-    {
-      "text": "\n\n",
-      "url": "https://eb2.3lift.com/pass?tl_clickthrough=true&redir=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F530761082%3B338796125%3Bl&pr=0.721&bc=2.48&aid=3923832556382695368770&bmid=3658&biid=3658&sid=23278&did=43044&tid=12568033&clid=12169796&brid=9238&adid=12537834&crid=42070966&ts=1658587769&bcud=2480&ss=12&cb=11196"
-    },
-    {
-      "text": "\nSponsored\n",
-      "url": "https://eb2.3lift.com/pass?tl_clickthrough=true&redir=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F530761082%3B338796125%3Bl&pr=0.721&bc=2.48&aid=3923832556382695368770&bmid=3658&biid=3658&sid=23278&did=43044&tid=12568033&clid=12169796&brid=9238&adid=12537834&crid=42070966&ts=1658587769&bcud=2480&ss=12&cb=11196"
-    },
-    {
-      "text": "Nitro Cold Brew Coffee Beer",
-      "url": "https://eb2.3lift.com/pass?tl_clickthrough=true&redir=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F530761082%3B338796125%3Bl&pr=0.721&bc=2.48&aid=3923832556382695368770&bmid=3658&biid=3658&sid=23278&did=43044&tid=12568033&clid=12169796&brid=9238&adid=12537834&crid=42070966&ts=1658587769&bcud=2480&ss=12&cb=11196"
-    },
-    {
-      "text": "\nBy  Guinness\n",
-      "url": "https://eb2.3lift.com/pass?tl_clickthrough=true&redir=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F530761082%3B338796125%3Bl&pr=0.721&bc=2.48&aid=3923832556382695368770&bmid=3658&biid=3658&sid=23278&did=43044&tid=12568033&clid=12169796&brid=9238&adid=12537834&crid=42070966&ts=1658587769&bcud=2480&ss=12&cb=11196"
-    },
-    {
-      "text": "Learn more",
-      "url": "https://eb2.3lift.com/pass?tl_clickthrough=true&redir=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F530761082%3B338796125%3Bl&pr=0.721&bc=2.48&aid=3923832556382695368770&bmid=3658&biid=3658&sid=23278&did=43044&tid=12568033&clid=12169796&brid=9238&adid=12537834&crid=42070966&ts=1658587769&bcud=2480&ss=12&cb=11196"
-    },
-    {
-      "text": "\n\t\n\t\t\n\t\t\tThe 100 Greatest Debut Singles of All Time\t\t\n\t\n",
-      "url": "https://www.rollingstone.com/music/music-lists/greatest-debut-songs-singles-990470/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\n\n\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\n\n\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLizzo\t\t\t\t\t\t\t\t\t\n\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSpecial\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tIt\u2019s a radical political statement \u2026 and the best music she\u2019s ever made.\n\t\t\t\n\n\t\t\t\n\t\t\t\tRead More\n\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-album-reviews/lizzo-review-special-1381012/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\n\n\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\n\n\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tJ-Hope\t\t\t\t\t\t\t\t\t\n\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tJack in the Box\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tThe first member of the pop megastars to go solo after their big announcement shows that he's got a lot more to him than meets the eye\n\t\t\t\n\n\t\t\t\n\t\t\t\tRead More\n\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-album-reviews/bts-j-hope-jack-box-1380578/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\n\n\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\n\n\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tSteve Lacy\t\t\t\t\t\t\t\t\t\n\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tGemini Rights\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tThe guitarist and producer for the Internet delivers a meditation on multiplicity\n\t\t\t\n\n\t\t\t\n\t\t\t\tRead More\n\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-album-reviews/review-steve-lacys-gemini-rights-1378646/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\n\n\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\n\n\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tSoccer Mommy\t\t\t\t\t\t\t\t\t\n\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tSometimes, Forever\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tOn her third album, Sophie Allison proves herself to be one of the sharpest songwriters around\n\t\t\t\n\n\t\t\t\n\t\t\t\tRead More\n\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-album-reviews/soccer-mommy-sometimes-forever-review-1377176/"
-    },
-    {
-      "text": "\n\t\t\t\t\tView All\t\t\t\t",
-      "url": "/politics/"
-    },
-    {
-      "text": "\n\t\t\t\tHide\n\t\t\t\tShow\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
-      "url": "#"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\t\u2018I Have Too Much Respect for the White House\u2019: Donald Trump Blasts Jan. 6 Committee \u2018Persecution\u2019\n\n\n\tPosted in:\n\t\t Politics News\n\t\n\n\n\tBy\n\tKat Bouza\n\n\n\t\"I had a very good and luxurious life before entering the wonderful world of politics,\" the beleaguered ex-president said\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/politics/politics-news/donald-trump-jan-6-committee-arizona-rally-1387177/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tTrump Has Floated Giving MAGA Extremists \u2014 Including Lou Dobbs \u2014 Cabinet Gigs if He Wins in 2024\n\n\n\tPosted in:\n\t\t Politics News\n\t\n\n\n\tBy\n\tNikki McCann Ramirez, Asawin Suebsaeng\n\n\n\tThe former president is considering gutting the government and installing loyalists like the former Fox Business lackey should he win back the White House\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/politics/politics-news/trump-plotting-stock-government-loyalists-lou-dobbs-1387008/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tSteve Bannon Found Guilty of Contempt of Congress\n\n\n\tPosted in:\n\t\t Politics News\n\t\n\n\n\tBy\n\tNikki McCann Ramirez\n\n\n\tIt didn't take long for a jury to convict the former Trump adviser, who failed to comply with a subpoena from the Jan. 6 committee\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/politics/politics-news/steve-bannon-guilty-verdict-contempt-congress-1386844/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tThe 8 Biggest Revelations From the Jan. 6 Hearing on What Trump Did During the Capitol Attack\n\n\n\tPosted in:\n\t\t Politics News\n\t\n\n\n\tBy\n\tNikki McCann Ramirez, Ryan Bort\n\n\n\tThe panel investigating the Capitol attack painted a damning portrait of a president who not only didn't do anything to stop the violence, but chose not to do anything\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/politics/politics-news/the-8-biggest-revelations-from-the-jan-6-hearing-on-trumps-inaction-1386656/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tWatch: Josh Hawley Frantically Fled From the Jan. 6 Riot He Helped Stoke\n\n\n\tPosted in:\n\t\t Politics News\n\t\n\n\n\tBy\n\tNikki McCann Ramirez\n\n\n\tThe senator from Missouri raised a fist in solidarity with the mob storming the Capitol. The Jan. 6 committee played video of him running away\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/politics/politics-news/josh-hawley-fled-jan-6-riot-he-stoked-1386641/"
-    },
-    {
-      "text": "\n\t\n\t\t\n\t\t\tThe 500 Greatest Songs of All Time\t\t\n\t\n",
-      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"
-    },
-    {
-      "text": "\n\t\t\t\tView All\t\t\t",
-      "url": "https://www.rollingstone.com/video/"
-    },
-    {
-      "text": "\n\t\t\t\t\tOn Deck: Watch Noah Cyrus Perform Three New Songs in This Dreamy Mini-Concert\t\t\t\t",
-      "url": "https://www.rollingstone.com/music/music-news/noah-cyrus-performs-video-hardest-part-1385858/"
-    },
-    {
-      "text": "\n\t\t\n\t",
-      "url": ""
-    },
-    {
-      "text": "\n\t\t\n\t",
-      "url": ""
-    },
-    {
-      "text": "\n\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\tSyd on Her Journey Through Heartbreak and Her Perfect Day: \u2018I Love What I Do\u2019\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-news/syd-details-her-journey-through-heartbreak-with-rolling-stone-1362214/"
-    },
-    {
-      "text": "\n\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\tToxic Friendships and Kate Bush: King Princess Breaks Down Her New Banger \u2018Cursed\u2019\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-news/king-princess-too-bad-cursed-breakdown-video-1357598/"
-    },
-    {
-      "text": "\n\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\tOn Deck: Watch Noah Cyrus Perform Three New Songs in This Dreamy Mini-Concert\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-news/noah-cyrus-performs-video-hardest-part-1385858/"
-    },
-    {
-      "text": "\n\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\u2018The Breakdown\u2019 With Emmy Rossum\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/the-breakdown-emmy-rossum-1356050/"
-    },
-    {
-      "text": "\n\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\tThe Making of SZA\u2019s \u2018Good Days\u2019\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-features/making-szas-good-days-1329402/"
-    },
-    {
-      "text": "\n\t\t\t\t\tView All\t\t\t\t",
-      "url": "/tv-movies/"
-    },
-    {
-      "text": "\n\t\t\t\tHide\n\t\t\t\tShow\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
-      "url": "#"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\tBranded Content\n\n\n\n\t\n\tYour Ultimate Guide to Shark Week 2022: Where, How, and When to Watch\n\n\n\tPosted in:\n\t\t TV & Movies News\n\t\n\n\n\tBy\n\tSage Anderson\n\n\n\tBreaching sharks, walking sharks, biting sharks, oh my \u2014 Dwayne \"The Rock\" Johnson hosts the 34th annual summer week of programs. Here's how to stream them online\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/how-to-watch-shark-week-stream-online-1385207/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\t\u2018How Do You Say \u2018Oh Sh-t\u2019 in Elvish\u2019?: \u2018Lord of the Rings\u2019 TV Series Previews at Comic-Con\n\n\n\tPosted in:\n\t\t TV & Movies News\n\t\n\n\n\tBy\n\tEthan Millman\n\n\n\t\"It\u2019s the forging of the rings of power, the rise and fall of Sauron, the last glance of elves and men to come together,\" says 'Rings of Power' co-showrunner JD Payne at the 'LOTR' Comic-Con panel\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/lord-of-the-rings-san-diego-comic-con-1386877/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tDonald Glover Gets Ready for a Final Mic Drop in \u2018Atlanta\u2019 Season Four Teaser\n\n\n\tPosted in:\n\t\t TV & Movies News\n\t\n\n\n\tBy\n\tJon Blistein\n\n\n\tHit series will return for its final season in September\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/atlanta-season-four-teaser-donald-glover-1386940/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\t\u2018Elvis\u2019 Actress and Singer Shonka Dukureh Dead at 44\n\n\n\tPosted in:\n\t\t TV & Movies News\n\t\n\n\n\tBy\n\tEmily Zemler\n\n\n\tCharlotte native played 'Big Mama' Thornton in Baz Luhrmann's recent biopic.\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/shonka-dukureh-obituary-1386713/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tComic-Con Day One: Dungeons, Dragons, Elementary Schools and Office Mysteries\n\n\n\tPosted in:\n\t\t TV & Movies News\n\t\n\n\n\tBy\n\tEthan Millman\n\n\n\tNerd culture's biggest weekend returns after the pandemic stopped the in-person conference in 2020 and 2021\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/comic-con-dungeons-and-dragons-severance-abbott-elementary-1386592/"
-    },
-    {
-      "text": "\n\t\n\t\t\n\t\t\t100 Best Sitcoms of All Time\t\t\n\t\n",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/best-tv-sitcoms-1162237/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tThe Last Movie Stars\t\t\t\t\t\t\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\tEthan Hawke's six-episode docuseries pays tribute to Paul Newman and Joanne Woodward \u2014 and gets into the good, bad and ugly of a classic Hollywood couple\n\t\t\t\n\n\t\t\t\n\t\t\t\tRead More\n\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/last-movie-stars-review-ethan-hawke-paul-newman-1381168/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tNope\t\t\t\t\t\t\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\tBlending horses, aliens, and horror \u2014 plus a healthy dose of film history \u2014 the director puts his signature twist on a classic genre\n\t\t\t\n\n\t\t\t\n\t\t\t\tRead More\n\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/nope-review-jordan-peele-1385403/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tThor: Love & Thunder\t\t\t\t\t\t\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\tTaika Waititi\u2019s follow-up to \u2018Thor: Ragnarok\u2019 tries to blend his trademark zaniness with pathos and melodrama, and ends up with several different movies competing for space\n\t\t\t\n\n\t\t\t\n\t\t\t\tRead More\n\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/thor-love-and-thunder-marvel-1374631/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tThe Rehearsal\t\t\t\t\t\t\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\tThe creator of Nathan for You is back with a series that\u2019s even more absurd, funnier, and strangely affecting\n\t\t\t\n\n\t\t\t\n\t\t\t\tRead More\n\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/the-rehearsal-review-nathan-fielder-1380068/"
-    },
-    {
-      "text": "\n\t\tView All\t",
-      "url": "https://www.rollingstone.com/pictures/"
-    },
-    {
-      "text": "\n\t\tHide\n\t\tShow\n\t\t\n\t",
-      "url": "#"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t",
-      "url": ""
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t",
-      "url": ""
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\n\n\t\n\n\t\n\t\n\t\t14 Photos\t\n\n\n\n\n\n\t\t\n\t\t\n\n\t\t\tThe Polo Shirt Turns 50\n\t\t\t\n\t\t\t\tWhen Ralph Lauren created his short-sleeved, two-button, collared shirt in 1972, he did not imagine it [\u2026]\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-pictures/polo-ralph-lauren-50-years-1380748/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\n\n\t\n\n\t\n\t\n\t\t21 Photos\t\n\n\n\n\n\n\t\t\n\t\t\n\n\t\t\tRS Recommends: The Best Gifts For Gamers\n\t\t\t\n\t\t\t\tFrom VR to consoles, here's how to impress the gamers on your gifting list\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/product-recommendations/product-recommendations-pictures/best-gifts-for-gamers-1086048/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\n\n\t\n\n\t\n\t\n\t\t19 Photos\t\n\n\n\n\n\n\t\t\n\t\t\n\n\t\t\tRS Recommends: 19 Best Food Gifts, From DIY Hot Sauce to Edible Arrangements\n\t\t\t\n\t\t\t\tIndulge your loved one with one of these delectable food gifts\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/product-recommendations/product-recommendations-pictures/best-food-gifts-1293895/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\n\n\n\t\n\n\t\n\t\n\t\t17 Photos\t\n\n\n\n\n\n\t\t\n\t\t\n\n\t\t\tPeach Music Festival 2022: Billy Strings, Goose Bring Fire to the Mountain\n\t\t\t\n\t\t\t\tThe Peach Music Festival on Montage Mountain in Scranton, Pennsylvania, celebrated its 10th anniversary this Fourth [\u2026]\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/music/music-pictures/peach-music-festival-2022-billy-strings-goose-1377816/"
-    },
-    {
-      "text": "council.rollingstone.com",
-      "url": "https://council.rollingstone.com/"
-    },
-    {
-      "text": "concierge@rollingstonecouncil.com",
-      "url": "mailto:concierge@rollingstonecouncil.com"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\t13 Business Leaders Share Their Top Traits for \u2018Modern Leaders\u2019 in Today\u2019s Professional Climate\n\n\tRead More >\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/culture-council/panels/traits-modern-leaders-today-1383642/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\tSaving the Cannabis Industry From a Downward Trajectory\n\n\tRead More >\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/culture-council/articles/saving-cannabis-industry-from-a-downward-trajectory-1385836/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\t5 Ways to Spark Creativity and Find Inspiration in a Content-Driven World\n\n\tRead More >\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/culture-council/articles/5-ways-spark-creativity-and-find-inspiration-in-a-content-driven-world-1383819/"
-    },
-    {
-      "text": "\n\t\t\n\n\t\t\t\n\t\t\t\n\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\n\t\t\t\n\n\n\t\n\n\n\t\n\t10 Ways to Get Out of \u2018Hustle Culture\u2019 and Find Better Balance\n\n\tRead More >\n\n\n\t\t\n\t",
-      "url": "https://www.rollingstone.com/culture-council/panels/hustle-culture-better-balance-1383454/"
-    },
-    {
-      "text": "\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\n\n\t\t\t\n\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\u2018Live PD\u2019 Reboot \u2018On Patrol: Live\u2019: Series Premiere Delayed 70 Minutes Due to Technical Difficulties\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\tPosted on: Variety\t\t\t\t\n\n\t\t\t\n\t\t",
-      "url": "https://variety.com/2022/tv/news/on-patrol-live-delay-technical-difficulties-1235323701/"
-    },
-    {
-      "text": "\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\n\n\t\t\t\n\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\tThe Creative Minds Propelling Press-On\u00a0Nails\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\tPosted on: WWD\t\t\t\t\n\n\t\t\t\n\t\t",
-      "url": "https://wwd.com/beauty-industry-news/beauty-features/press-on-nails-creative-artist-1235252519/"
-    },
-    {
-      "text": "\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\n\n\t\t\t\n\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\tTriton Luxury Villa from \u2018The Real Housewives: Ultimate Girls Trip\u2019 Can Now Be Yours\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\tPosted on: Dirt\t\t\t\t\n\n\t\t\t\n\t\t",
-      "url": "https://www.dirt.com/gallery/locations/filming-locations/triton-luxury-villa-the-real-housewives-ultimate-girls-trip-turks-and-caicos-1203572252/"
-    },
-    {
-      "text": "\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\n\n\t\t\t\n\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\u2018Nope\u2019 Composer Michael Abels Knows Exactly What He Wants Chaos to Sound Like\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\tPosted on: Indiewire\t\t\t\t\n\n\t\t\t\n\t\t",
-      "url": "https://www.indiewire.com/2022/07/nope-jordan-peele-michael-abels-score-1234743718/"
-    },
-    {
-      "text": "\n\t\t\t\n\n\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\n\n\t\t\t\n\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\tVince McMahon Announces Retirement From\u00a0WWE\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\tPosted on: Sportico\t\t\t\t\n\n\t\t\t\n\t\t",
-      "url": "https://www.sportico.com/business/commerce/2022/vince-mcmahon-announces-retirement-from-wwe-1234683318/"
-    },
-    {
-      "text": "Music",
-      "url": "https://www.rollingstone.com/music/"
-    },
-    {
-      "text": "TV & Movies",
-      "url": "https://www.rollingstone.com/tv-movies/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.rollingstone.com/politics/"
-    },
-    {
-      "text": "Culture",
-      "url": "https://www.rollingstone.com/culture/"
-    },
-    {
-      "text": "RS Pro",
-      "url": "https://www.rollingstone.com/rs-pro/"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://sales.rollingstone.com/"
-    },
-    {
-      "text": "Contact",
-      "url": "https://www.rollingstone.com/contact/"
-    },
-    {
-      "text": "Live Media Events",
-      "url": "https://www.rollingstone.com/rs-live-media/"
-    },
-    {
-      "text": "Accessibility Statement",
-      "url": "https://www.rollingstone.com/accessibility/"
-    },
-    {
-      "text": "Privacy Policy",
-      "url": "https://pmc.com/privacy-policy"
-    },
-    {
-      "text": "Terms of Use",
-      "url": "https://pmc.com/terms-of-use/"
-    },
-    {
-      "text": "AdChoices",
-      "url": "http://optout.aboutads.info/"
-    },
-    {
-      "text": "PMC Entertainment",
-      "url": "https://pmc.com"
-    },
-    {
-      "text": "Facebook",
-      "url": "https://www.facebook.com/RollingStone/"
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/RollingStone"
-    },
-    {
-      "text": "YouTube",
-      "url": "https://www.youtube.com/channel/UC-JblcinswY50lrUdSaRNEg"
-    },
-    {
-      "text": "\n\t\t\tGET THE MAGAZINE\n\t\t",
-      "url": "https://api.cxense.com/public/widget/click/wQjR4SJYr4xpRHSbMKQG__xi3j7M6gwy6yMiQH_UYoN6VVVyVpMI_awEf4sm1KzkxOf4aaYHy94K-cNAyGrCZUDjwW0WOFaFWCIyUvk7RT9LTnD34lYaOt4rE11PSgDljhGtoAMAY9Jvzwh6hPsKrmknmAAN9J_Cj0pG2TT1CKqNr8jUThD7mran5a7vssItAzOGiSB6Te2_M8O-SD9EKNTAPASUKsJLW_a_BljPyUvTvadC6diSRTJzQ6iBjAkGpczEQ0ukhCCUkGjOJYRsPebjC7p3nrjdk9bIz3uRztCK43f1YWrL5oKfSewMGvP4cfEVkahcycGRbV-kslDYeMomsaF0hMUGlQBkmcK5sdn38KjEG1M5adtUfcOdXUmaHewTWQnaRDQmHqxEMFAoWfZlvukBipTQ1Ps4l0eTGBmDqQMQr9O2eBZyiz-NHNNO0_OxhuKK3vE0tPDDqjqzM2lpZ7V58a50NGgjQsRczs5u7fR7h4UWJQ-iTbfWZLlVuPAS3mPo783LOTqgpdObjmWgYxykrZ_hR4V0Wkk69qxYiNlqsZ7oyhWi7k3mY5gtJhLUFPQphi0CwzjS4bDYqli5bO7AN3GTOMryOyp4fu_oSL-tQXRrWAdx2TfRVVUYZBgaMsTXTqOW0_Z4vDor7WVQ66JIXWQMzRkQod73DICZDDPzkYs0?cx_testId=78&cx_testVariant=cx_2&cx_artPos=0&cx_productId=8newff57xtlo&cx_navSource=dynamic-link"
-    },
-    {
-      "text": "\n\t\t\tGET DIGITAL ACCESS\n\t\t",
-      "url": "https://api.cxense.com/public/widget/click/wQjR4SJYr4xpRHSbMKQG__xi3j7M6gwy6yMiQH_UYoN6VVVyVpMI_awEf4sm1KzkxOf4aaYHy94K-cNAyGrCZUDjwW0WOFaFWCIyUvk7RT9LTnD34lYaOt4rE11PSgDljhGtoAMAY9Jvzwh6hPsKrmknmAAN9J_Cj0pG2TT1CKqNr8jUThD7mran5a7vssItAzOGiSB6Te2_M8O-SD9EKNTAPASUKsJLW_a_BljPyUvTvadC6diSRTJzQ6iBjAkGpczEQ0ukhCCUkGjOJYRsPebjC7p3nrjdk9bIz3uRztCK43f1YWrL5oKfSewMGvP4cfEVkahcycGRbV-kslDYeMomsaF0hMUGlQBkmcK5sdn38KjEG1M5adtUfcOdXUmaHewTWQnaRDQmHqxEMFAoWfZlvukBipTQ1Ps4l0eTGBmDqQMQr9O2eBZyiz-NHNNO0_OxhuKK3vE0tPDDqjqzM2lpZ7V58a50NGgjQsRczs5u7fR7h4UWJQ-iTbfWZLlVuPAS3mPo783LOTqgpdObjmWgYxykrZ_hR4V0Wkk69qxYiNlqsZ7oyhWi7k3mY5gtJhLUFPQphi0CwzjS4bDYqli5bO7AN3GTOMryOyp4fu_oSL-tQXRrWAdx2TfRVVUYZBgaMsTXTqOW0_Z4vDor7WVQ66JIXWQMzRkQod73DICZDDPzkYs0?cx_testId=78&cx_testVariant=cx_2&cx_artPos=0&cx_productId=8newff57xtlo&cx_navSource=cXLinkIdl5y0c09zr454x77t"
-    },
-    {
-      "text": "\n\t\t\tGIVE A GIFT\n\t\t",
-      "url": "https://rollingstonesubscriptions.com/pubs/FR/RLS/rs-gift-4995.jsp?cds_page_id=234059&cds_mag_code=RLS&id=1602275626611&lsid=32831533466068422&vid=1"
-    },
-    {
-      "text": "\n\t\t\tCUSTOMER SERVICE\n\t\t",
-      "url": "https://www.rollingstone.com/customer-service-subscriptions/"
-    },
-    {
-      "text": "Send Us a Tip",
-      "url": "https://www.rollingstone.com/tips/"
-    },
-    {
-      "text": "\n\t\t\t",
-      "url": "https://api.cxense.com/public/widget/click/wQjR4SJYr4xpRHSbMKQG__xi3j7M6gwy6yMiQH_UYoN6VVVyVpMI_awEf4sm1KzkxOf4aaYHy94K-cNAyGrCZUDjwW0WOFaFWCIyUvk7RT9LTnD34lYaOt4rE11PSgDljhGtoAMAY9Jvzwh6hPsKrmknmAAN9J_Cj0pG2TT1CKqNr8jUThD7mran5a7vssItAzOGiSB6Te2_M8O-SD9EKNTAPASUKsJLW_a_BljPyUvTvadC6diSRTJzQ6iBjAkGpczEQ0ukhCCUkGjOJYRsPebjC7p3nrjdk9bIz3uRztCK43f1YWrL5oKfSewMGvP4cfEVkahcycGRbV-kslDYeMomsaF0hMUGlQBkmcK5sdn38KjEG1M5adtUfcOdXUmaHewTWQnaRDQmHqxEMFAoWfZlvukBipTQ1Ps4l0eTGBmDqQMQr9O2eBZyiz-NHNNO0_OxhuKK3vE0tPDDqjqzM2lpZ7V58a50NGgjQsRczs5u7fR7h4UWJQ-iTbfWZLlVuPAS3mPo783LOTqgpdObjmWgYxykrZ_hR4V0Wkk69qxYiNlqsZ7oyhWi7k3mY5gtJhLUFPQphi0CwzjS4bDYqli5bO7AN3GTOMryOyp4fu_oSL-tQXRrWAdx2TfRVVUYZBgaMsTXTqOW0_Z4vDor7WVQ66JIXWQMzRkQod73DICZDDPzkYs0?cx_testId=78&cx_testVariant=cx_2&cx_artPos=0&cx_productId=8newff57xtlo&cx_navSource=pmc-cx-subscribe-footer-button"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t",
-      "url": "https://www.pmc.com"
-    },
-    {
-      "text": "Variety",
-      "url": "https://variety.com/"
-    },
-    {
-      "text": "Deadline",
-      "url": "https://deadline.com/"
-    },
-    {
-      "text": "Rolling Stone",
-      "url": "https://www.rollingstone.com/"
-    },
-    {
-      "text": "WWD",
-      "url": "https://wwd.com/"
-    },
-    {
-      "text": "HollywoodLife",
-      "url": "https://hollywoodlife.com/"
-    },
-    {
-      "text": "Gold Derby",
-      "url": "https://www.goldderby.com/"
-    },
-    {
-      "text": "Spy",
-      "url": "https://spy.com/"
-    },
-    {
-      "text": "Robb Report",
-      "url": "https://robbreport.com/"
-    },
-    {
-      "text": "Footwear News",
-      "url": "https://footwearnews.com/"
-    },
-    {
-      "text": "BGR",
-      "url": "https://bgr.com/"
-    },
-    {
-      "text": "IndieWire",
-      "url": "https://www.indiewire.com/"
-    },
-    {
-      "text": "Sourcing Journal",
-      "url": "https://sourcingjournal.com/"
-    },
-    {
-      "text": "TVLine",
-      "url": "https://tvline.com/"
-    },
-    {
-      "text": "Fairchild Media",
-      "url": "https://fairchildlive.com/"
-    },
-    {
-      "text": "She Knows",
-      "url": "https://www.sheknows.com/"
-    },
-    {
-      "text": "Variety",
-      "url": "https://variety.com/"
-    },
-    {
-      "text": "Deadline",
-      "url": "https://deadline.com/"
-    },
-    {
-      "text": "Rolling Stone",
-      "url": "https://www.rollingstone.com/"
-    },
-    {
-      "text": "WWD",
-      "url": "https://wwd.com/"
-    },
-    {
-      "text": "HollywoodLife",
-      "url": "https://hollywoodlife.com/"
-    },
-    {
-      "text": "Gold Derby",
-      "url": "https://www.goldderby.com/"
-    },
-    {
-      "text": "Spy",
-      "url": "https://spy.com/"
-    },
-    {
-      "text": "Robb Report",
-      "url": "https://robbreport.com/"
-    },
-    {
-      "text": "Footwear News",
-      "url": "https://footwearnews.com/"
-    },
-    {
-      "text": "BGR",
-      "url": "https://bgr.com/"
-    },
-    {
-      "text": "IndieWire",
-      "url": "https://www.indiewire.com/"
-    },
-    {
-      "text": "Sourcing Journal",
-      "url": "https://sourcingjournal.com/"
-    },
-    {
-      "text": "TVLine",
-      "url": "https://tvline.com/"
-    },
-    {
-      "text": "Fairchild Media",
-      "url": "https://fairchildlive.com/"
-    },
-    {
-      "text": "She Knows",
-      "url": "https://www.sheknows.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\n\t\t\t\tRolling Stone\n\t\t\t",
-      "url": "https://www.rollingstone.com/"
-    },
-    {
-      "text": "\n\t\t\t\t\tLog In\t\t\t\t",
-      "url": "https://api.pmc.com/authorization/login?returnTo=https%3A%2F%2Fwww.rollingstone.com%2F&brand=rs&source=website"
-    },
-    {
-      "text": "\n\t\t\t\t\tAccount\n\t\t\t\t",
-      "url": "#"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\tExpand the sub menu\n\t\t\t\t",
-      "url": "#"
-    },
-    {
-      "text": "\n\t\t\tGet Digital Access\t\t",
-      "url": "https://api.cxense.com/public/widget/click/wQjR4SJYr4xpRHSbMKQG__xi3j7M6gwy6yMiQH_UYoN6VVVyVpMI_awEf4sm1KzkxOf4aaYHy94K-cNAyGrCZUDjwW0WOFaFWCIyUvk7RT9LTnD34lYaOt4rE11PSgDljhGtoAMAY9Jvzwh6hPsKrmknmAAN9J_Cj0pG2TT1CKqNr8jUThD7mran5a7vssItAzOGiSB6Te2_M8O-SD9EKNTAPASUKsJLW_a_BljPyUvTvadC6diSRTJzQ6iBjAkGpczEQ0ukhCCUkGjOJYRsPebjC7p3nrjdk9bIz3uRztCK43f1YWrL5oKfSewMGvP4cfEVkahcycGRbV-kslDYeMomsaF0hMUGlQBkmcK5sdn38KjEG1M5adtUfcOdXUmaHewTWQnaRDQmHqxEMFAoWfZlvukBipTQ1Ps4l0eTGBmDqQMQr9O2eBZyiz-NHNNO0_OxhuKK3vE0tPDDqjqzM2lpZ7V58a50NGgjQsRczs5u7fR7h4UWJQ-iTbfWZLlVuPAS3mPo783LOTqgpdObjmWgYxykrZ_hR4V0Wkk69qxYiNlqsZ7oyhWi7k3mY5gtJhLUFPQphi0CwzjS4bDYqli5bO7AN3GTOMryOyp4fu_oSL-tQXRrWAdx2TfRVVUYZBgaMsTXTqOW0_Z4vDor7WVQ66JIXWQMzRkQod73DICZDDPzkYs0?cx_testId=78&cx_testVariant=cx_2&cx_artPos=0&cx_productId=8newff57xtlo&cx_navSource=dynamic-link"
-    },
-    {
-      "text": "\n\t\t\tManage Digital Account\t\t",
-      "url": "https://myaccount.pmc.com/"
-    },
-    {
-      "text": "\n\t\t\tManage Print Account\t\t",
-      "url": "https://w1.buysub.com/pubs/FR/RLS/login.jsp?cds_page_id=234415&cds_mag_code=RLS&id=1594683118400&lsid=31951831583076169&vid=1"
-    },
-    {
-      "text": "\n\t\t\tLogout\t\t",
-      "url": "https://api.pmc.com/authorization/logout?returnTo=https%3A%2F%2Fwww.rollingstone.com%2F"
-    },
-    {
-      "text": "Music",
-      "url": "https://www.rollingstone.com/music/"
-    },
-    {
-      "text": "Expand the sub menu",
-      "url": "#"
-    },
-    {
-      "text": "News",
-      "url": "https://www.rollingstone.com/music/music-news/"
-    },
-    {
-      "text": "Lists",
-      "url": "https://www.rollingstone.com/music/music-lists/"
-    },
-    {
-      "text": "Album Reviews",
-      "url": "https://www.rollingstone.com/music/music-album-reviews/"
-    },
-    {
-      "text": "Artist You Need to Know",
-      "url": "https://www.rollingstone.com/t/artist-you-need-to-know/"
-    },
-    {
-      "text": "Song You Need to Know",
-      "url": "https://www.rollingstone.com/t/song-to-know/"
-    },
-    {
-      "text": "RS Country",
-      "url": "https://www.rollingstone.com/music/music-country/"
-    },
-    {
-      "text": "RS Latin",
-      "url": "https://www.rollingstone.com/music/music-latin/"
-    },
-    {
-      "text": "Pictures",
-      "url": "https://www.rollingstone.com/music/music-pictures/"
-    },
-    {
-      "text": "Features",
-      "url": "https://www.rollingstone.com/music/music-features/"
-    },
-    {
-      "text": "Live Reviews",
-      "url": "https://www.rollingstone.com/music/music-live-reviews/"
-    },
-    {
-      "text": "Videos",
-      "url": "https://www.rollingstone.com/music/music-videos/"
-    },
-    {
-      "text": "TV & Movies",
-      "url": "https://www.rollingstone.com/tv-movies/"
-    },
-    {
-      "text": "Expand the sub menu",
-      "url": "#"
-    },
-    {
-      "text": "Lists",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/"
-    },
-    {
-      "text": "Features",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/"
-    },
-    {
-      "text": "Pictures",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-pictures/"
-    },
-    {
-      "text": "Recaps",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-recaps/"
-    },
-    {
-      "text": "Reviews",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/"
-    },
-    {
-      "text": "Videos",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-videos/"
-    },
-    {
-      "text": "Politics",
-      "url": "https://www.rollingstone.com/politics/"
-    },
-    {
-      "text": "Expand the sub menu",
-      "url": "#"
-    },
-    {
-      "text": "Features",
-      "url": "https://www.rollingstone.com/politics/politics-features/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.rollingstone.com/politics/politics-news/"
-    },
-    {
-      "text": "Lists",
-      "url": "https://www.rollingstone.com/politics/politics-lists/"
-    },
-    {
-      "text": "Pictures",
-      "url": "https://www.rollingstone.com/politics/politics-pictures/"
-    },
-    {
-      "text": "Videos",
-      "url": "https://www.rollingstone.com/politics/politics-videos/"
-    },
-    {
-      "text": "RS Pro",
-      "url": "https://www.rollingstone.com/pro/"
-    },
-    {
-      "text": "Expand the sub menu",
-      "url": "#"
-    },
-    {
-      "text": "Music Biz Features",
-      "url": "https://www.rollingstone.com/pro/features/"
-    },
-    {
-      "text": "Music Biz Lists",
-      "url": "https://www.rollingstone.com/pro/lists/"
-    },
-    {
-      "text": "Music Biz News",
-      "url": "https://www.rollingstone.com/pro/news/"
-    },
-    {
-      "text": "Culture",
-      "url": "https://www.rollingstone.com/culture/"
-    },
-    {
-      "text": "Expand the sub menu",
-      "url": "#"
-    },
-    {
-      "text": "Features",
-      "url": "https://www.rollingstone.com/culture/culture-features/"
-    },
-    {
-      "text": "Lists",
-      "url": "https://www.rollingstone.com/culture/culture-lists/"
-    },
-    {
-      "text": "News",
-      "url": "https://www.rollingstone.com/culture/culture-news/"
-    },
-    {
-      "text": "Videos",
-      "url": "https://www.rollingstone.com/culture/culture-videos/"
-    },
-    {
-      "text": "Sports",
-      "url": "https://www.rollingstone.com/culture/culture-sports/"
-    },
-    {
-      "text": "More",
-      "url": "#"
-    },
-    {
-      "text": "Expand the sub menu",
-      "url": "#"
-    },
-    {
-      "text": "Culture Council",
-      "url": "https://www.rollingstone.com/culture-council/"
-    },
-    {
-      "text": "RS Recommends",
-      "url": "https://www.rollingstone.com/product-recommendations/"
-    },
-    {
-      "text": "Shop",
-      "url": "https://shop.rollingstone.com"
-    },
-    {
-      "text": "\n\t\t\tSubscribe Now\t\t",
-      "url": "https://api.cxense.com/public/widget/click/wQjR4SJYr4xpRHSbMKQG__xi3j7M6gwy6yMiQH_UYoN6VVVyVpMI_awEf4sm1KzkxOf4aaYHy94K-cNAyGrCZUDjwW0WOFaFWCIyUvk7RT9LTnD34lYaOt4rE11PSgDljhGtoAMAY9Jvzwh6hPsKrmknmAAN9J_Cj0pG2TT1CKqNr8jUThD7mran5a7vssItAzOGiSB6Te2_M8O-SD9EKNTAPASUKsJLW_a_BljPyUvTvadC6diSRTJzQ6iBjAkGpczEQ0ukhCCUkGjOJYRsPebjC7p3nrjdk9bIz3uRztCK43f1YWrL5oKfSewMGvP4cfEVkahcycGRbV-kslDYeMomsaF0hMUGlQBkmcK5sdn38KjEG1M5adtUfcOdXUmaHewTWQnaRDQmHqxEMFAoWfZlvukBipTQ1Ps4l0eTGBmDqQMQr9O2eBZyiz-NHNNO0_OxhuKK3vE0tPDDqjqzM2lpZ7V58a50NGgjQsRczs5u7fR7h4UWJQ-iTbfWZLlVuPAS3mPo783LOTqgpdObjmWgYxykrZ_hR4V0Wkk69qxYiNlqsZ7oyhWi7k3mY5gtJhLUFPQphi0CwzjS4bDYqli5bO7AN3GTOMryOyp4fu_oSL-tQXRrWAdx2TfRVVUYZBgaMsTXTqOW0_Z4vDor7WVQ66JIXWQMzRkQod73DICZDDPzkYs0?cx_testId=78&cx_testVariant=cx_2&cx_artPos=0&cx_productId=8newff57xtlo&cx_navSource=pmc-cx-subscribe-mega-header-button"
-    },
-    {
-      "text": "\n\t\t\t\t\t",
-      "url": "https://api.cxense.com/public/widget/click/wQjR4SJYr4xpRHSbMKQG__xi3j7M6gwy6yMiQH_UYoN6VVVyVpMI_awEf4sm1KzkxOf4aaYHy94K-cNAyGrCZUDjwW0WOFaFWCIyUvk7RT9LTnD34lYaOt4rE11PSgDljhGtoAMAY9Jvzwh6hPsKrmknmAAN9J_Cj0pG2TT1CKqNr8jUThD7mran5a7vssItAzOGiSB6Te2_M8O-SD9EKNTAPASUKsJLW_a_BljPyUvTvadC6diSRTJzQ6iBjAkGpczEQ0ukhCCUkGjOJYRsPebjC7p3nrjdk9bIz3uRztCK43f1YWrL5oKfSewMGvP4cfEVkahcycGRbV-kslDYeMomsaF0hMUGlQBkmcK5sdn38KjEG1M5adtUfcOdXUmaHewTWQnaRDQmHqxEMFAoWfZlvukBipTQ1Ps4l0eTGBmDqQMQr9O2eBZyiz-NHNNO0_OxhuKK3vE0tPDDqjqzM2lpZ7V58a50NGgjQsRczs5u7fR7h4UWJQ-iTbfWZLlVuPAS3mPo783LOTqgpdObjmWgYxykrZ_hR4V0Wkk69qxYiNlqsZ7oyhWi7k3mY5gtJhLUFPQphi0CwzjS4bDYqli5bO7AN3GTOMryOyp4fu_oSL-tQXRrWAdx2TfRVVUYZBgaMsTXTqOW0_Z4vDor7WVQ66JIXWQMzRkQod73DICZDDPzkYs0?cx_testId=78&cx_testVariant=cx_2&cx_artPos=0&cx_productId=8newff57xtlo&cx_navSource=pmc-cx-subscribe-header-mega-cover-img"
-    },
-    {
-      "text": "Share onFacebook",
-      "url": "https://www.facebook.com/RollingStone/"
-    },
-    {
-      "text": "Share onTwitter",
-      "url": "https://twitter.com/RollingStone"
-    },
-    {
-      "text": "Share onYouTube",
-      "url": "https://www.youtube.com/channel/UC-JblcinswY50lrUdSaRNEg"
-    },
-    {
-      "text": "Advertise",
-      "url": "https://sales.rollingstone.com/"
-    },
-    {
-      "text": "Contact",
-      "url": "https://www.rollingstone.com/contact/"
-    },
-    {
-      "text": "Customer Service",
-      "url": "/customerservice"
-    },
-    {
-      "text": "Submit a Tip",
-      "url": "https://www.rollingstone.com/tips/"
-    },
-    {
-      "text": "\n\t\t\t\t\tLog-In\n\t\t\t\t",
-      "url": "https://api.pmc.com/authorization/login?returnTo=https%3A%2F%2Fwww.rollingstone.com%2F&brand=rs&source=website"
-    },
-    {
-      "text": "\n\t\t\t\t\t\n\t\t\t\t\t\tLog-In\t\t\t\t\t\n\t\t\t\t",
-      "url": "https://api.pmc.com/authorization/login?returnTo=https%3A%2F%2Fwww.rollingstone.com%2F&brand=rs&source=website"
-    },
-    {
-      "text": "More information",
-      "url": "https://cookiepedia.co.uk/giving-consent-to-cookies"
-    },
-    {
-      "text": "",
-      "url": "https://onetrust.com/poweredbyonetrust"
+      "url": "https://www.rollingstone.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_24_05_20_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_24_05_20_34.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.rollingstone.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_24_05_24_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_24_05_24_25.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.rollingstone.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_24_05_22_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_rollingstone_com-_-2022_07_24_05_22_30.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.86,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.7
+      }
     }
   ],
   "server": "ia601500.us.archive.org",
-  "uniq": 1108537966,
+  "uniq": 1875321004,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"

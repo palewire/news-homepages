@@ -1,5 +1,5 @@
 {
-  "created": 1658611537,
+  "created": 1658665045,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/4/items/usatoday-2022",
@@ -13116,31 +13116,83 @@
       "sha1": "303cf38423a7e3e533dfa460637c9b552c673d35"
     },
     {
+      "name": "usatoday-2022-07-23T23:44:18.927869-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658634269",
+      "size": "29414",
+      "md5": "0e48d512fd4dda0f88435be82b949aa5",
+      "crc32": "9d01928e",
+      "sha1": "57933b29acb7f29102c43bee6f512efcf1a8da79",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-23T23:44:18.927869-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658634270",
+      "size": "38764",
+      "md5": "30b53f547ad805879b9fa41bbcac62c6",
+      "crc32": "1b024f21",
+      "sha1": "e876bba71bb15e7606baac4634f2b15f65bb4d30",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-23T23:44:18.927869-04:00.jpg",
+      "source": "original",
+      "mtime": "1658634267",
+      "size": "294304",
+      "md5": "a8623460808c85abe14de2f5296f4e94",
+      "crc32": "1d5bb0f6",
+      "sha1": "0b29e41ed79de08fe7234e8caf30064e76b7a112",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-07-23T23:44:18.927869-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658634272",
+      "size": "1477",
+      "md5": "c28d14a4c9b43e6ba05c5ef24a027389",
+      "crc32": "8543f7fd",
+      "sha1": "6914e3c8b066bc32ca3844505f7c96eb5aad1818",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-07-23T23:44:18.927869-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-07-23T23:44:18.927869-04:00.jpg",
+      "mtime": "1658634362",
+      "size": "9688",
+      "md5": "652b8bc8a793e1af0240d6e0e5f13ffb",
+      "crc32": "63b262b3",
+      "sha1": "5fc120450c8bb325aa389cfa9dc1716137755deb"
+    },
+    {
       "name": "usatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "354c91934338e5f26d4fb72b583d1cffff91d487",
-      "mtime": "1658611505",
-      "size": "264638",
-      "md5": "408b137b080d82f87e9768a19a14691c",
-      "crc32": "7334af2e",
-      "sha1": "965eedc60541a113eac1bfa39ccadb79a8ac5f1c",
+      "btih": "6ff4fb6005a842a717a75a865835d9573ba51181",
+      "mtime": "1658634377",
+      "size": "265677",
+      "md5": "741dd2f5aa369f6104e74668c263e84a",
+      "crc32": "5ceb965f",
+      "sha1": "19f71210d5ff1ab01b8f67ac01504172fd16db52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "22549b991abbd77f7d6e3a44bbcf6018",
+      "md5": "5eeee4294de7944ba5f686c94a45dfed",
       "summation": "md5"
     },
     {
       "name": "usatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658610998",
-      "size": "1425408",
-      "md5": "3df8017e81d4a0c8b888cf251ab885c8",
-      "crc32": "90a54ea1",
-      "sha1": "2f04e508e5ea5045f6ee4ecfe1b8884ff56997f2",
+      "mtime": "1658634276",
+      "size": "1429504",
+      "md5": "4b62504b1184c9a33c7237c214a23721",
+      "crc32": "17892626",
+      "sha1": "2e12de3495732709972c268f175d9cf9b2bbe011",
       "format": "Metadata"
     },
     {
@@ -13154,9 +13206,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1251,
-  "item_last_updated": 1658611505,
-  "item_size": 130398102,
+  "files_count": 1256,
+  "item_last_updated": 1658634377,
+  "item_size": 130776884,
   "metadata": {
     "identifier": "usatoday-2022",
     "collection": [
@@ -13174,7 +13226,48 @@
     "addeddate": "2022-03-23 12:05:23"
   },
   "server": "ia902501.us.archive.org",
-  "uniq": 796214656,
+  "uniq": 1795572889,
+  "usatoday-2022": [
+    {
+      "url": "https://www.usatoday.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_24_03_25_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_24_03_25_43.report.json",
+      "summary": {
+        "performance": 0.39,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.usatoday.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_24_03_26_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_24_03_26_06.report.json",
+      "summary": {
+        "performance": 0.48,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.usatoday.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_24_03_26_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usatoday_com-_-2022_07_24_03_26_28.report.json",
+      "summary": {
+        "performance": 0.44,
+        "accessibility": 0.91,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.3
+      }
+    }
+  ],
   "workable_servers": [
     "ia902501.us.archive.org",
     "ia802501.us.archive.org"

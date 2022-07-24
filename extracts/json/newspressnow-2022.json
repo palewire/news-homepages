@@ -1,5 +1,5 @@
 {
-  "created": 1658622394,
+  "created": 1658664732,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/newspressnow-2022",
@@ -1194,31 +1194,83 @@
       "sha1": "0ee159eafa86c60bc5ff2b18c9b4d4edec378f60"
     },
     {
+      "name": "newspressnow-2022-07-23T23:20:57.299677-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658636459",
+      "size": "28680",
+      "md5": "e3781d023fa1b0168ddcc863ede16658",
+      "crc32": "43e2afe7",
+      "sha1": "a6569e2a4dc3bc4b05c0a68568fc0efb4b3dbe37",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-23T23:20:57.299677-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658636462",
+      "size": "34720",
+      "md5": "840884e73c34170d497203e740ef1ee9",
+      "crc32": "ae4b9a78",
+      "sha1": "c75fe7d22146cb238db5f7d8a39eba1a332f5d2f",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-23T23:20:57.299677-05:00.jpg",
+      "source": "original",
+      "mtime": "1658636458",
+      "size": "377668",
+      "md5": "1c8359353673af41950addfb75ff6513",
+      "crc32": "b24c6ea2",
+      "sha1": "d0034bbe252a1932c45fabed2db6d269d07bf426",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newspressnow-2022-07-23T23:20:57.299677-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658636463",
+      "size": "1513",
+      "md5": "c2dfab905fee65b7baa10f9bc099c8d0",
+      "crc32": "e0975ba9",
+      "sha1": "ec2744332f2962fdb0b357d336f7644b35240dd5",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-07-23T23:20:57.299677-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newspressnow-2022-07-23T23:20:57.299677-05:00.jpg",
+      "mtime": "1658636690",
+      "size": "11316",
+      "md5": "300a8b552191dea63bffe3dbed1c0a3f",
+      "crc32": "9f2f44c3",
+      "sha1": "0cd298efdb7e914c46e51700be30335b24502495"
+    },
+    {
       "name": "newspressnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c6046fcccae84f008bc1b46ab290c16a0182075a",
-      "mtime": "1658588764",
-      "size": "25281",
-      "md5": "488b14f21856b38adac65843247b8cf9",
-      "crc32": "dba2f27c",
-      "sha1": "77d4e70a905a8868f447c112215f59573b0d1008",
+      "btih": "54b5dbf1d3c6fab8bffedddccc528071fbc7e5d6",
+      "mtime": "1658636698",
+      "size": "26361",
+      "md5": "6e37f173129ced4f5ccdc57346c3368f",
+      "crc32": "ad7d3979",
+      "sha1": "984cdfd92c83e0ee93fc21bb71591cd8adf681bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newspressnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a41a972f4834965a89f1e960f53ac6b",
+      "md5": "e351b4828c2e7fb975d539f2bb9c84b0",
       "summation": "md5"
     },
     {
       "name": "newspressnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658588612",
-      "size": "135168",
-      "md5": "0cc99e12422bdbfc948813bf10fd329d",
-      "crc32": "ae541bc9",
-      "sha1": "4c1cca153e17c62a20a60a356df55787f60f6640",
+      "mtime": "1658636468",
+      "size": "139264",
+      "md5": "bc41b2aff2ef85ba9a32038678efc612",
+      "crc32": "3f521927",
+      "sha1": "84ded462417fd8d2624d91d57f94a27fa46ecf82",
       "format": "Metadata"
     },
     {
@@ -1232,9 +1284,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 115,
-  "item_last_updated": 1658588764,
-  "item_size": 15374228,
+  "files_count": 120,
+  "item_last_updated": 1658636698,
+  "item_size": 15833301,
   "metadata": {
     "identifier": "newspressnow-2022",
     "collection": [
@@ -1251,1083 +1303,51 @@
     "publicdate": "2022-07-04 21:49:25",
     "addeddate": "2022-07-04 21:49:25"
   },
-  "newspressnow-2022": {
-    "role": "WebArea",
-    "name": "News-Press NOW | St. Joseph news, sports, entertainment and business.",
-    "children": [
-      {
-        "role": "Iframe",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "Skip to main content"
-      },
-      {
-        "role": "complementary",
-        "name": "Left Main Menu"
-      },
-      {
-        "role": "button",
-        "name": "Left Main Menu"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": "eEDITION"
-      },
-      {
-        "role": "link",
-        "name": "WATCH"
-      },
-      {
-        "role": "link",
-        "name": "Weather"
-      },
-      {
-        "role": "link",
-        "name": "SUBSCRIBE"
-      },
-      {
-        "role": "link",
-        "name": "LOG IN"
-      },
-      {
-        "role": "link",
-        "name": "News"
-      },
-      {
-        "role": "link",
-        "name": "Sports"
-      },
-      {
-        "role": "link",
-        "name": "Obituaries"
-      },
-      {
-        "role": "link",
-        "name": "Marketplace"
-      },
-      {
-        "role": "link",
-        "name": "Local Links"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "heading",
-        "name": "TOP VIDEOS",
-        "level": 3
-      },
-      {
-        "role": "Iframe",
-        "name": ""
-      },
-      {
-        "role": "heading",
-        "name": "TOP STORIES",
-        "level": 4
-      },
-      {
-        "role": "link",
-        "name": "Musicians reflect on Carnegie Hall achievement"
-      },
-      {
-        "role": "link",
-        "name": "Musicians reflect on Carnegie Hall achievement"
-      },
-      {
-        "role": "text",
-        "name": "9 HRS AGO"
-      },
-      {
-        "role": "text",
-        "name": "In the nine years since he founded the St. Joseph Christian School Concert Band, Joe Voga has set high standards for pupils, with no inkling of the stars they would one day reach."
-      },
-      {
-        "role": "link",
-        "name": "Two Habitat for Humanity projects benefit from ARPA funds"
-      },
-      {
-        "role": "link",
-        "name": "Two Habitat for Humanity projects benefit from ARPA funds"
-      },
-      {
-        "role": "text",
-        "name": "9 HRS AGO"
-      },
-      {
-        "role": "text",
-        "name": "St. Joseph Habitat for Humanity was the recipient of $425,000 in American Rescue Plan Act funds which were distributed by Buchanan County, and the money will go toward two big projects."
-      },
-      {
-        "role": "link",
-        "name": "Local gyms, stores helping people begin fitness journeys"
-      },
-      {
-        "role": "link",
-        "name": "Local gyms, stores helping people begin fitness journeys"
-      },
-      {
-        "role": "text",
-        "name": "9 HRS AGO"
-      },
-      {
-        "role": "text",
-        "name": "Kickstarting a fitness journey can be a hard process, but local stores and gyms are working to be a resource for those who are struggling to find a routine."
-      },
-      {
-        "role": "link",
-        "name": "St. Joseph church uses musicals to talk about God"
-      },
-      {
-        "role": "link",
-        "name": "St. Joseph church uses musicals to talk about God"
-      },
-      {
-        "role": "text",
-        "name": "9 HRS AGO"
-      },
-      {
-        "role": "text",
-        "name": "From \u201cThe Phantom of the Opera\u201d to \u201cSister Act,\u201d a St. Joseph church is using popular musicals to teach about God\u2019s love and forgiveness."
-      },
-      {
-        "role": "text",
-        "name": "Kevin Cash on 7-3 win"
-      },
-      {
-        "role": "button",
-        "name": ""
-      },
-      {
-        "role": "button",
-        "name": "volume_offvolume_up"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "text",
-        "name": "volume_off"
-      },
-      {
-        "role": "slider",
-        "name": "",
-        "valuetext": "",
-        "valuemax": 0,
-        "valuemin": 0,
-        "orientation": "horizontal",
-        "value": 0
-      },
-      {
-        "role": "text",
-        "name": "-0:00"
-      },
-      {
-        "role": "text",
-        "name": "share"
-      },
-      {
-        "role": "text",
-        "name": "fullscreen"
-      },
-      {
-        "role": "text",
-        "name": "Auto (nullp)"
-      },
-      {
-        "role": "text",
-        "name": "Subtitles Off"
-      },
-      {
-        "role": "text",
-        "name": "Kevin Cash on 7-3 win"
-      },
-      {
-        "role": "text",
-        "name": "MLB"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "3:00"
-      },
-      {
-        "role": "text",
-        "name": "Matheny on Keller, 7-3 loss"
-      },
-      {
-        "role": "text",
-        "name": "MLB"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "1:19"
-      },
-      {
-        "role": "text",
-        "name": "Rays vs. Royals Highlights - Yandy D\u00edaz drove in three runs and Francisco Mej\u00eda drove in two runs to lead the Rays in a 7-3 win over the Royals"
-      },
-      {
-        "role": "text",
-        "name": "MLB"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "0:30"
-      },
-      {
-        "role": "text",
-        "name": "Yandy D\u00edaz's three-run double"
-      },
-      {
-        "role": "text",
-        "name": "MLB"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "0:34"
-      },
-      {
-        "role": "text",
-        "name": "Francisco Mej\u00eda's RBI single"
-      },
-      {
-        "role": "text",
-        "name": "MLB"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "0:27"
-      },
-      {
-        "role": "text",
-        "name": "Andrew Benintendi's RBI single"
-      },
-      {
-        "role": "text",
-        "name": "MLB"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "0:24"
-      },
-      {
-        "role": "text",
-        "name": "Nicky Lopez snares liner"
-      },
-      {
-        "role": "text",
-        "name": "MLB"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "0:19"
-      },
-      {
-        "role": "text",
-        "name": "Is this the year the Dolphins take a major step forward? 'NFL Total Access'"
-      },
-      {
-        "role": "text",
-        "name": "NFL"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "3:15"
-      },
-      {
-        "role": "text",
-        "name": "Is this a \"Super Bowl or Bust\" season for Bills? 'NFL Total Access'"
-      },
-      {
-        "role": "text",
-        "name": "NFL"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "2:32"
-      },
-      {
-        "role": "text",
-        "name": "Can Mike Tomlin avoid his first losing season without Ben Roethlisberger?"
-      },
-      {
-        "role": "text",
-        "name": "NFL"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "text",
-        "name": "2:52"
-      },
-      {
-        "role": "link",
-        "name": "SPECIAL REPORTS"
-      },
-      {
-        "role": "link",
-        "name": "Clergy react as ruling shields school prayer"
-      },
-      {
-        "role": "link",
-        "name": "Clergy react as ruling shields school prayer"
-      },
-      {
-        "role": "text",
-        "name": "UPDATED"
-      },
-      {
-        "role": "text",
-        "name": "JUL 6, 2022"
-      },
-      {
-        "role": "link",
-        "name": "City budget hit hard by rising gas prices"
-      },
-      {
-        "role": "link",
-        "name": "City budget hit hard by rising gas prices"
-      },
-      {
-        "role": "text",
-        "name": "UPDATED"
-      },
-      {
-        "role": "text",
-        "name": "JUL 6, 2022"
-      },
-      {
-        "role": "link",
-        "name": "Turner revitalizing Mustangs baseball in debut season as owner"
-      },
-      {
-        "role": "link",
-        "name": "Turner revitalizing Mustangs baseball in debut season as owner"
-      },
-      {
-        "role": "text",
-        "name": "MAY 28, 2022"
-      },
-      {
-        "role": "link",
-        "name": "More Special Reports \u2192"
-      },
-      {
-        "role": "link",
-        "name": "REGIONAL NEWS"
-      },
-      {
-        "role": "link",
-        "name": "Columbia/Boone County Public Health and Human Services to hold vaccine clinic"
-      },
-      {
-        "role": "link",
-        "name": "Columbia/Boone County Public Health and Human Services to hold vaccine clinic"
-      },
-      {
-        "role": "text",
-        "name": "1 HR AGO"
-      },
-      {
-        "role": "link",
-        "name": "Kingdom City man charged after chase from Callaway County ends in Boone County"
-      },
-      {
-        "role": "link",
-        "name": "Inmate charged after attacking corrections officer at Western Missouri Correctional Center"
-      },
-      {
-        "role": "link",
-        "name": "Lawn care companies facing strain from excessive heat and drought"
-      },
-      {
-        "role": "link",
-        "name": "Man arrested after 5-year-old injured during shooting"
-      },
-      {
-        "role": "link",
-        "name": "More Regional News \u2192"
-      },
-      {
-        "role": "link",
-        "name": "SPORTS"
-      },
-      {
-        "role": "link",
-        "name": "Kansas City Chiefs quarterbacks and rookies officially arrive in St. Joe ahead of Chiefs training camp"
-      },
-      {
-        "role": "link",
-        "name": "Kansas City Chiefs quarterbacks and rookies officially arrive in St. Joe ahead of Chiefs training camp"
-      },
-      {
-        "role": "text",
-        "name": "UPDATED"
-      },
-      {
-        "role": "text",
-        "name": "9 HRS AGO"
-      },
-      {
-        "role": "link",
-        "name": "Mustangs roll to fifth-straight win"
-      },
-      {
-        "role": "link",
-        "name": "Mustangs blow out Mudcats in 11-0 victory"
-      },
-      {
-        "role": "link",
-        "name": "Staunch defense gives Mustangs 5-2 victory over Mudcats"
-      },
-      {
-        "role": "link",
-        "name": "Northwest Missouri State quarterback to hold a wide receiver and quarterback football camp"
-      },
-      {
-        "role": "link",
-        "name": "More Local Sports \u2192"
-      },
-      {
-        "role": "link",
-        "name": "LIFE"
-      },
-      {
-        "role": "link",
-        "name": "1960: Kennedy ekes out victory"
-      },
-      {
-        "role": "link",
-        "name": "1960: Kennedy ekes out victory"
-      },
-      {
-        "role": "text",
-        "name": "9 HRS AGO"
-      },
-      {
-        "role": "link",
-        "name": "St. Joseph church uses musicals to talk about God"
-      },
-      {
-        "role": "link",
-        "name": "Pet of the Week: Energetic, playful pets ready for family life!"
-      },
-      {
-        "role": "link",
-        "name": "Strong cast lifts 'Nope' to a yes"
-      },
-      {
-        "role": "link",
-        "name": "\u201872: Nixon win not even close"
-      },
-      {
-        "role": "link",
-        "name": "More Life Stories \u2192"
-      },
-      {
-        "role": "link",
-        "name": "OPINION"
-      },
-      {
-        "role": "link",
-        "name": "A modest ask deserves support"
-      },
-      {
-        "role": "text",
-        "name": "As the new leader at the helm of the St. Joseph School District, Dr. Gabe Edgar finds himsel\u2026"
-      },
-      {
-        "role": "link",
-        "name": "A modest ask deserves support"
-      },
-      {
-        "role": "link",
-        "name": "Use tax should be extended"
-      },
-      {
-        "role": "text",
-        "name": "In 2013, Buchanan County officials expressed a sense of relief when voters finally approved \u2026"
-      },
-      {
-        "role": "link",
-        "name": "Use tax should be extended"
-      },
-      {
-        "role": "img",
-        "name": "Charles Christian"
-      },
-      {
-        "role": "link",
-        "name": "Living all our days"
-      },
-      {
-        "role": "text",
-        "name": "By Charles Christian News-Press NOW"
-      },
-      {
-        "role": "text",
-        "name": "A little girl who was new to the art of writing birthday cards sent her grandma a card that \u2026"
-      },
-      {
-        "role": "link",
-        "name": "Living all our days"
-      },
-      {
-        "role": "link",
-        "name": "Move past bumper sticker slogans on guns"
-      },
-      {
-        "role": "text",
-        "name": "Shawn Harper"
-      },
-      {
-        "role": "text",
-        "name": "We have reached maximum gun madness."
-      },
-      {
-        "role": "link",
-        "name": "Move past bumper sticker slogans on guns"
-      },
-      {
-        "role": "link",
-        "name": "More Opinion \u2192"
-      },
-      {
-        "role": "link",
-        "name": "NATION AND WORLD NEWS"
-      },
-      {
-        "role": "link",
-        "name": "Girl, 6, among 3 fatally shot in tent at Iowa state park"
-      },
-      {
-        "role": "link",
-        "name": "Girl, 6, among 3 fatally shot in tent at Iowa state park"
-      },
-      {
-        "role": "text",
-        "name": "UPDATED"
-      },
-      {
-        "role": "text",
-        "name": "7 MIN AGO"
-      },
-      {
-        "role": "link",
-        "name": "Pope's Indigenous tour signals a rethink of mission legacy"
-      },
-      {
-        "role": "link",
-        "name": "Russia hits Ukraine's Black Sea port despite grain deal"
-      },
-      {
-        "role": "link",
-        "name": "In Uvalde, closeness complicates accountability for shooting"
-      },
-      {
-        "role": "link",
-        "name": "Has Florida Man finally met his match? Meet Florida Sheriff"
-      },
-      {
-        "role": "link",
-        "name": "See more Nation and World News \u2192"
-      },
-      {
-        "role": "link",
-        "name": "LOCAL NEWS"
-      },
-      {
-        "role": "link",
-        "name": "Volunteer organizations using social media to further mission"
-      },
-      {
-        "role": "link",
-        "name": "SOCIAL SERVICES"
-      },
-      {
-        "role": "link",
-        "name": "Volunteer organizations using social media to further mission"
-      },
-      {
-        "role": "link",
-        "name": "Chiefs player reconnects with Bartlett Center"
-      },
-      {
-        "role": "link",
-        "name": "LOCAL NEWS"
-      },
-      {
-        "role": "link",
-        "name": "Chiefs player reconnects with Bartlett Center"
-      },
-      {
-        "role": "link",
-        "name": "Public reacts to upcoming Children's Discovery Center vote"
-      },
-      {
-        "role": "link",
-        "name": "GOVERNMENT"
-      },
-      {
-        "role": "link",
-        "name": "Public reacts to upcoming Children's Discovery Center vote"
-      },
-      {
-        "role": "link",
-        "name": "Efforts continue to codify same-sex, interacial marriage"
-      },
-      {
-        "role": "link",
-        "name": "GOVERNMENT"
-      },
-      {
-        "role": "link",
-        "name": "Efforts continue to codify same-sex, interacial marriage"
-      },
-      {
-        "role": "link",
-        "name": "More Local News \u2192"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "link",
-        "name": "Local Forecast"
-      },
-      {
-        "role": "text",
-        "name": "JUL 22, 2022"
-      },
-      {
-        "role": "heading",
-        "name": "MOST POPULAR",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "New SJPD officer arrested for domestic assault"
-      },
-      {
-        "role": "link",
-        "name": "New I-229 alternative added to the four other proposals"
-      },
-      {
-        "role": "link",
-        "name": "Motorcyclist killed in Wednesday evening crash"
-      },
-      {
-        "role": "link",
-        "name": "No answers 18 years after Ashley Martinez disappeared"
-      },
-      {
-        "role": "link",
-        "name": "Business helps people 'sort it out'"
-      },
-      {
-        "role": "link",
-        "name": "St. Joseph woman seriously injured in Tuesday crash"
-      },
-      {
-        "role": "link",
-        "name": "Woman killed in crash Thursday morning"
-      },
-      {
-        "role": "link",
-        "name": "Sunday morning shooting results in fatality"
-      },
-      {
-        "role": "link",
-        "name": "Motorcyclist seriously injured in Wednesday crash"
-      },
-      {
-        "role": "link",
-        "name": "Man charged with murder in shooting on Kickapoo Reservation"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "heading",
-        "name": "TRENDING RECIPE EXCHANGE",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "This chicken spaghetti is a great comfort dish. If you want more of a kick, add some more jalapeno on it, but regardless it has to right amount of spice."
-      },
-      {
-        "role": "link",
-        "name": "Chicken Spaghetti",
-        "description": "This chicken spaghetti is a great comfort dish. If you want more of a kick, add some more jalapeno on it, but regardless it has to right amount of spice."
-      },
-      {
-        "role": "link",
-        "name": "This easy low carb recipe would take first place based on taste. The combination of beef and sausage is a great base for the dish and adds so much flavor."
-      },
-      {
-        "role": "link",
-        "name": "Hamburger, Sausage, Broccoli Alfredo - Low Carb",
-        "description": "This easy low carb recipe would take first place based on taste. The combination of beef and sausage is a great base for the dish and adds so much flavor."
-      },
-      {
-        "role": "link",
-        "name": "The blend of meat and spices make for an authentic Mexican flavor that's sure to put a smile on your face. This enchilada pie will be your new family favorite."
-      },
-      {
-        "role": "link",
-        "name": "Robin's Enchilada Pie",
-        "description": "The blend of meat and spices make for an authentic Mexican flavor that's sure to put a smile on your face. This enchilada pie will be your new family favorite."
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "Iframe",
-        "name": "Primis Frame"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "Iframe",
-        "name": ""
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "heading",
-        "name": "MORE TOP VIDEOS",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "Three candidates vie for Andrew County associate circuit judge position"
-      },
-      {
-        "role": "link",
-        "name": "Three candidates vie for Andrew County associate circuit judge position"
-      },
-      {
-        "role": "link",
-        "name": "Efforts continue to codify same-sex, interacial marriage"
-      },
-      {
-        "role": "link",
-        "name": "Efforts continue to codify same-sex, interacial marriage"
-      },
-      {
-        "role": "link",
-        "name": "Community Conversation: Bryan Carter, City Manager"
-      },
-      {
-        "role": "link",
-        "name": "Community Conversation: Bryan Carter, City Manager"
-      },
-      {
-        "role": "link",
-        "name": "Kids, reptiles make for good chemistry"
-      },
-      {
-        "role": "link",
-        "name": "Kids, reptiles make for good chemistry"
-      },
-      {
-        "role": "link",
-        "name": "Missouri director of ag visits St. Joseph"
-      },
-      {
-        "role": "link",
-        "name": "Missouri director of ag visits St. Joseph"
-      },
-      {
-        "role": "link",
-        "name": "Conserving energy important as temperatures rise"
-      },
-      {
-        "role": "link",
-        "name": "Conserving energy important as temperatures rise"
-      },
-      {
-        "role": "link",
-        "name": "Looming bus changes draw concerns from residents"
-      },
-      {
-        "role": "link",
-        "name": "Looming bus changes draw concerns from residents"
-      },
-      {
-        "role": "link",
-        "name": "No answers 18 years after Ashley Martinez disappeared"
-      },
-      {
-        "role": "link",
-        "name": "No answers 18 years after Ashley Martinez disappeared"
-      },
-      {
-        "role": "link",
-        "name": "See more Top Videos \u2192"
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
-      },
-      {
-        "role": "heading",
-        "name": "NPG NEWSPAPERS",
-        "level": 4
-      },
-      {
-        "role": "link",
-        "name": "Atchison Globe"
-      },
-      {
-        "role": "link",
-        "name": "Courier-Tribune"
-      },
-      {
-        "role": "link",
-        "name": "Gladstone Dispatch"
-      },
-      {
-        "role": "link",
-        "name": "Green Acres Publication"
-      },
-      {
-        "role": "link",
-        "name": "Hiawatha World"
-      },
-      {
-        "role": "link",
-        "name": "Miami County Republic"
-      },
-      {
-        "role": "link",
-        "name": "Save Now"
-      },
-      {
-        "role": "link",
-        "name": "St. Joseph News-Press"
-      },
-      {
-        "role": "heading",
-        "name": "NPG BROADCAST",
-        "level": 4
-      },
-      {
-        "role": "link",
-        "name": "KCJO - St. Joseph, Mo"
-      },
-      {
-        "role": "link",
-        "name": "KECY - Yuma, Az / El Centro, Ca"
-      },
-      {
-        "role": "link",
-        "name": "KESQ - Thousand Palms, Ca"
-      },
-      {
-        "role": "link",
-        "name": "KEYT - Santa Barbara, Ca"
-      },
-      {
-        "role": "link",
-        "name": "KIFI - Idaho Falls, Id"
-      },
-      {
-        "role": "link",
-        "name": "KION - Salinas, Ca"
-      },
-      {
-        "role": "link",
-        "name": "KMIZ - Columbia, Mo"
-      },
-      {
-        "role": "link",
-        "name": "KNPG - St. Joseph, Mo"
-      },
-      {
-        "role": "link",
-        "name": "KNPN - St. Joseph, Mo"
-      },
-      {
-        "role": "link",
-        "name": "KRDO - Colorado Springs, Co"
-      },
-      {
-        "role": "link",
-        "name": "KTVZ - Bend, Or"
-      },
-      {
-        "role": "link",
-        "name": "KVIA - El Paso, Tx"
-      },
-      {
-        "role": "heading",
-        "name": "NPG COMPANIES",
-        "level": 4
-      },
-      {
-        "role": "link",
-        "name": "News-Press Media Group"
-      },
-      {
-        "role": "link",
-        "name": "BERKS Group"
-      },
-      {
-        "role": "link",
-        "name": "News-Press & Gazette Co."
-      },
-      {
-        "role": "link",
-        "name": "SUBSCRIBE"
-      },
-      {
-        "role": "link",
-        "name": "ADVERTISE"
-      },
-      {
-        "role": "link",
-        "name": "FEEDBACK"
-      },
-      {
-        "role": "link",
-        "name": "CAREERS"
-      },
-      {
-        "role": "link",
-        "name": "CONTACT"
-      },
-      {
-        "role": "link",
-        "name": "PRIVACY"
-      },
-      {
-        "role": "link",
-        "name": "TERMS"
-      },
-      {
-        "role": "link",
-        "name": "CLOSED CAPTIONING"
-      },
-      {
-        "role": "link",
-        "name": ""
-      },
-      {
-        "role": "text",
-        "name": "\u00a9 2021 NEWS-PRESS & GAZETTE CO."
-      },
-      {
-        "role": "text",
-        "name": "Powered by"
-      },
-      {
-        "role": "link",
-        "name": "BLOX Content Management System",
-        "description": "BLOX Content Management System"
-      },
-      {
-        "role": "text",
-        "name": "from"
-      },
-      {
-        "role": "link",
-        "name": "TownNews.com",
-        "description": "TownNews.com BLOX Newspaper Content Management"
-      },
-      {
-        "role": "text",
-        "name": "."
-      },
-      {
-        "role": "region",
-        "name": "Advertisement",
-        "description": "3rd party ad content"
+  "newspressnow-2022": [
+    {
+      "url": "https://www.newspressnow.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_24_01_11_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_24_01_11_54.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.94,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.2
       }
-    ]
-  },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1415375018,
+    },
+    {
+      "url": "https://www.newspressnow.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_24_01_13_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_24_01_13_49.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.94,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.2
+      }
+    },
+    {
+      "url": "https://www.newspressnow.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_24_01_12_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newspressnow_com-_-2022_07_24_01_12_53.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.94,
+        "best-practices": 0.75,
+        "seo": 0.84,
+        "pwa": 0.2
+      }
+    }
+  ],
+  "server": "ia601500.us.archive.org",
+  "uniq": 493447871,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }
