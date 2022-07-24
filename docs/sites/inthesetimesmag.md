@@ -5,7 +5,7 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# In These Times
+# In These Times 
 
 ![In These Times ](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inthesetimesmag.jpg)
 
