@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 39 bundles of sites.
+The archiving routine is currently organized into 42 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -26,6 +26,7 @@ The archiving routine is currently organized into 39 bundles of sites.
 |[Maryland](https://palewi.re/docs/news-homepages/bundles/maryland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/maryland.xml)|
 |[Mexico](https://palewi.re/docs/news-homepages/bundles/mexico.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/mexico.xml)|
 |[Minnesota](https://palewi.re/docs/news-homepages/bundles/minnesota.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/minnesota.xml)|
+|[Mississippi](https://palewi.re/docs/news-homepages/bundles/mississippi.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/mississippi.xml)|
 |[Missouri](https://palewi.re/docs/news-homepages/bundles/missouri.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/missouri.xml)|
 |[New Mexico](https://palewi.re/docs/news-homepages/bundles/new-mexico.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-mexico.xml)|
 |[New York City](https://palewi.re/docs/news-homepages/bundles/new-york-city.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-york-city.xml)|
@@ -34,6 +35,8 @@ The archiving routine is currently organized into 39 bundles of sites.
 |[Oregon](https://palewi.re/docs/news-homepages/bundles/oregon.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/oregon.xml)|
 |[Philadelphia](https://palewi.re/docs/news-homepages/bundles/philadelphia.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/philadelphia.xml)|
 |[Russia](https://palewi.re/docs/news-homepages/bundles/russia.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/russia.xml)|
+|[Satire](https://palewi.re/docs/news-homepages/bundles/satire.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/satire.xml)|
+|[Science](https://palewi.re/docs/news-homepages/bundles/science.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/science.xml)|
 |[Scotland](https://palewi.re/docs/news-homepages/bundles/scotland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/scotland.xml)|
 |[Southern California](https://palewi.re/docs/news-homepages/bundles/socal.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/socal.xml)|
 |[Sports](https://palewi.re/docs/news-homepages/bundles/sports.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/sports.xml)|

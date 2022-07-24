@@ -5,7 +5,7 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# Politifact
+# Politifact 
 
 ![Politifact ](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politifact.jpg)
 
