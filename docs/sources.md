@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 574 sites.
+The archiving routine is currently capturing 577 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -521,6 +521,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Tiempo](https://palewi.re/docs/news-homepages/sites/eltiempo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eltiempo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eltiempo.xml)|
 |[Tifton Gazette](https://palewi.re/docs/news-homepages/sites/tiftongazette1.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tiftongazette1.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tiftongazette1.xml)|
 |[TIME](https://palewi.re/docs/news-homepages/sites/time.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/time.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/time.xml)|
+|[Times of India](https://palewi.re/docs/news-homepages/sites/timesofindia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesofindia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timesofindia.xml)|
 |[TMZ](https://palewi.re/docs/news-homepages/sites/tmz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tmz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tmz.xml)|
 |[Toronto Star](https://palewi.re/docs/news-homepages/sites/torontostar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/torontostar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/torontostar.xml)|
 |[Toronto Sun](https://palewi.re/docs/news-homepages/sites/thetorontosun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetorontosun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetorontosun.xml)|
@@ -531,6 +532,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Tucson Sentinel](https://palewi.re/docs/news-homepages/sites/tucsonsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tucsonsentinel.xml)|
 |[Twin Cities Pioneer Press](https://palewi.re/docs/news-homepages/sites/pioneerpress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pioneerpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pioneerpress.xml)|
 |[Tyler Morning Telegraph](https://palewi.re/docs/news-homepages/sites/tylerpaper.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tylerpaper.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tylerpaper.xml)|
+|[U.S. News & World Report](https://palewi.re/docs/news-homepages/sites/usnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/usnews.xml)|
 |[Ukrinform](https://palewi.re/docs/news-homepages/sites/ukrinform.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ukrinform.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ukrinform.xml)|
 |[Unicorn Riot](https://palewi.re/docs/news-homepages/sites/ur_ninja.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ur_ninja.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ur_ninja.xml)|
 |[Us Weekly](https://palewi.re/docs/news-homepages/sites/usweekly.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usweekly.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/usweekly.xml)|
@@ -563,6 +565,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Waterloo-Cedar Falls Courier](https://palewi.re/docs/news-homepages/sites/wcfcourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wcfcourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wcfcourier.xml)|
 |[Wausau Daily Herald](https://palewi.re/docs/news-homepages/sites/wausauherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wausauherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wausauherald.xml)|
 |[WBEZ](https://palewi.re/docs/news-homepages/sites/wbez.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wbez.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wbez.xml)|
+|[Western Gazette](https://palewi.re/docs/news-homepages/sites/uwogazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uwogazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/uwogazette.xml)|
 |[WFAA](https://palewi.re/docs/news-homepages/sites/wfaa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wfaa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wfaa.xml)|
 |[WHYY](https://palewi.re/docs/news-homepages/sites/whyynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/whyynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/whyynews.xml)|
 |[Wired](https://palewi.re/docs/news-homepages/sites/wired.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wired.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wired.xml)|

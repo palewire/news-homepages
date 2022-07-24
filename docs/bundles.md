@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 37 bundles of sites.
+The archiving routine is currently organized into 39 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -18,6 +18,7 @@ The archiving routine is currently organized into 37 bundles of sites.
 |[Florida](https://palewi.re/docs/news-homepages/bundles/florida.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/florida.xml)|
 |[France](https://palewi.re/docs/news-homepages/bundles/france.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/france.xml)|
 |[Georgia](https://palewi.re/docs/news-homepages/bundles/georgia.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/georgia.xml)|
+|[India](https://palewi.re/docs/news-homepages/bundles/india.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/india.xml)|
 |[Iowa](https://palewi.re/docs/news-homepages/bundles/iowa.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/iowa.xml)|
 |[Ireland](https://palewi.re/docs/news-homepages/bundles/ireland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/ireland.xml)|
 |[Japan](https://palewi.re/docs/news-homepages/bundles/japan.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/japan.xml)|
@@ -36,6 +37,7 @@ The archiving routine is currently organized into 37 bundles of sites.
 |[Scotland](https://palewi.re/docs/news-homepages/bundles/scotland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/scotland.xml)|
 |[Southern California](https://palewi.re/docs/news-homepages/bundles/socal.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/socal.xml)|
 |[Sports](https://palewi.re/docs/news-homepages/bundles/sports.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/sports.xml)|
+|[Student](https://palewi.re/docs/news-homepages/bundles/student.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/student.xml)|
 |[Technology](https://palewi.re/docs/news-homepages/bundles/tech.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/tech.xml)|
 |[Texas](https://palewi.re/docs/news-homepages/bundles/texas.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/texas.xml)|
 |[U.K. national news](https://palewi.re/docs/news-homepages/bundles/uk-national.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/uk-national.xml)|
