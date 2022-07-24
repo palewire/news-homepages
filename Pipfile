@@ -20,6 +20,8 @@ shot-scraper = "*"
 csvkit = "*"
 pillow = "*"
 aiohttp = ">=3.7.4"
+pandas = "*"
+altair = "*"
 
 [dev-packages]
 pre-commit = "*"
@@ -38,8 +40,6 @@ types-pyyaml = "*"
 sphinxcontrib-napoleon = "*"
 sphinx-click = "*"
 jupyterlab = "*"
-pandas = "*"
-altair = "*"
 altair-saver = "*"
 selenium = "<4.3.0"
 
