@@ -1,6 +1,5 @@
 {
-  "conflict": 1658611222,
-  "created": 1658611222,
+  "created": 1658622209,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/huffpost-2022",
@@ -4542,6 +4541,47 @@
     }
   ],
   "files_count": 432,
+  "huffpost-2022": [
+    {
+      "url": "https://www.huffpost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_23_21_08_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_23_21_08_48.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.92,
+        "best-practices": 0.75,
+        "seo": 0.98,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.huffpost.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_23_21_09_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_23_21_09_55.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.92,
+        "best-practices": 0.75,
+        "seo": 0.98,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.huffpost.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_23_21_11_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_huffpost_com-_-2022_07_23_21_11_02.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.92,
+        "best-practices": 0.75,
+        "seo": 0.98,
+        "pwa": 0.3
+      }
+    }
+  ],
   "item_last_updated": 1658611221,
   "item_size": 35495615,
   "metadata": {
@@ -4560,29 +4600,10 @@
     "publicdate": "2022-06-24 22:56:52",
     "addeddate": "2022-06-24 22:56:52"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3341600982,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3341602764,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 196598538,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1725083019,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

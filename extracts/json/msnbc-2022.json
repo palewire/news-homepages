@@ -1,6 +1,5 @@
 {
-  "conflict": 1658611457,
-  "created": 1658611457,
+  "created": 1658611587,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/23/items/msnbc-2022",
@@ -19273,24 +19272,29 @@
       "name": "msnbc-2022-07-23T17:16:31.946935-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "msnbc-2022-07-23T17:16:31.946935-04:00.jpg"
+      "original": "msnbc-2022-07-23T17:16:31.946935-04:00.jpg",
+      "mtime": "1658611445",
+      "size": "10400",
+      "md5": "db7da73312c21b7d78a557127a882fbf",
+      "crc32": "b3315eaf",
+      "sha1": "eb4665131e3235b963ad71b60e3b412d8ed78435"
     },
     {
       "name": "msnbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f61d1bf13ee6d6d7c0509c30f0914c9e65f2336",
-      "mtime": "1658611077",
-      "size": "383588",
-      "md5": "e3635ff8cbc8761e254a37af383841ee",
-      "crc32": "86d0ef34",
-      "sha1": "58a52185b488a05ab6ca1eec0d7dd07440d52f09",
+      "btih": "64997e59528e179ed93e0201636eeb776a481740",
+      "mtime": "1658611517",
+      "size": "383790",
+      "md5": "006a29f2e1fe1666b0fd09277519cba8",
+      "crc32": "677dd5d6",
+      "sha1": "8577e6cd8d5ae43450cc7315af910ef61bdeadd9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msnbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0516d7c9f4b1b8f6252cbb43a799ce2a",
+      "md5": "a71e00919d7c37b600044c40172d525f",
       "summation": "md5"
     },
     {
@@ -19315,8 +19319,8 @@
     }
   ],
   "files_count": 1837,
-  "item_last_updated": 1658611077,
-  "item_size": 206127216,
+  "item_last_updated": 1658611517,
+  "item_size": 206137818,
   "metadata": {
     "identifier": "msnbc-2022",
     "collection": [
@@ -19333,21 +19337,10 @@
     "publicdate": "2022-03-23 01:46:13",
     "addeddate": "2022-03-23 01:46:13"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3341601191,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 606531096,
+  "uniq": 760612502,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

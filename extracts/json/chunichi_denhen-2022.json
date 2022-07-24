@@ -1,5 +1,5 @@
 {
-  "created": 1658581484,
+  "created": 1658617973,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/chunichi_denhen-2022",
@@ -1928,31 +1928,83 @@
       "sha1": "4ec2b8c90d8059b2b72c4bde6bf36d53f8bca784"
     },
     {
+      "name": "chunichi_denhen-2022-07-24T08:03:18.698613+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658617401",
+      "size": "68295",
+      "md5": "1dc898ad3fa7acd20a130bb2d510e3c7",
+      "crc32": "706e6272",
+      "sha1": "d83363ac8ba5493156023d670a09a92b06e146de",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-07-24T08:03:18.698613+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658617403",
+      "size": "96641",
+      "md5": "ead0ed5c9947e65c54035d6c5d9d4f1e",
+      "crc32": "1a68bf73",
+      "sha1": "855d168e23d7d9d6e4f6db0a039d3060b7c2d6ff",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-07-24T08:03:18.698613+09:00.jpg",
+      "source": "original",
+      "mtime": "1658617400",
+      "size": "294828",
+      "md5": "9440c46cffe083e386a35c1b77b14f58",
+      "crc32": "34f1af74",
+      "sha1": "193e61b29aa18f340016d1e92d443eccabb2d8d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chunichi_denhen-2022-07-24T08:03:18.698613+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658617404",
+      "size": "1494",
+      "md5": "b87d256fea87dd6cff07597be666f2a8",
+      "crc32": "ba74ba24",
+      "sha1": "d170b0a788ed07cc92ffc3808de1b46939062f8d",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-07-24T08:03:18.698613+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chunichi_denhen-2022-07-24T08:03:18.698613+09:00.jpg",
+      "mtime": "1658617709",
+      "size": "10153",
+      "md5": "8f4ed1d8bbd9754ea1d3bfa90290160b",
+      "crc32": "0a58c858",
+      "sha1": "538b543272c384098fcbf960634d2cda4d93c10c"
+    },
+    {
       "name": "chunichi_denhen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "80772eadc8ab17614ff757d8ac99033d52dda0b8",
-      "mtime": "1658581444",
-      "size": "41533",
-      "md5": "4d846950d1e9b8275a91b012237c1c14",
-      "crc32": "08a62e25",
-      "sha1": "7fd65da931ef808a42324e753e8805606f4af95a",
+      "btih": "ec6d5c03ffb7940e6f8c365e44e80c9729956422",
+      "mtime": "1658617869",
+      "size": "42628",
+      "md5": "aab5ff6b9dba6a96a1b82e3dfcb222b1",
+      "crc32": "107a0f46",
+      "sha1": "ec01778788d084d2dbab8ef7c6072d857f521002",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chunichi_denhen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7530d952a96be62b44506d08234737b6",
+      "md5": "9049fbf29c1fc86e5e44c80b77c6631c",
       "summation": "md5"
     },
     {
       "name": "chunichi_denhen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658581265",
-      "size": "233472",
-      "md5": "f9d5ac79781d372313c3aedb9b33f6f9",
-      "crc32": "b3b7896c",
-      "sha1": "ba5f423351811fd7b1eb46b325fde49d14a7c9d5",
+      "mtime": "1658617413",
+      "size": "237568",
+      "md5": "d87b94df1f0bc8c7829b59d5610be72a",
+      "crc32": "b0230af7",
+      "sha1": "27ec55183ea1699c5e1dfd1ed99f6d73a910909d",
       "format": "Metadata"
     },
     {
@@ -1966,9 +2018,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 187,
-  "item_last_updated": 1658581444,
-  "item_size": 21830897,
+  "files_count": 192,
+  "item_last_updated": 1658617869,
+  "item_size": 22307499,
   "metadata": {
     "identifier": "chunichi_denhen-2022",
     "collection": [
@@ -1985,10 +2037,10 @@
     "publicdate": "2022-07-09 02:39:14",
     "addeddate": "2022-07-09 02:39:14"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1470325144,
+  "server": "ia601509.us.archive.org",
+  "uniq": 1836691508,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }
