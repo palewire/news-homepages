@@ -9,15 +9,16 @@ orphan: true
 
 ![Left Bench](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theleftbench.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://theleftbench.com/](https://theleftbench.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theleftbench.xml) |
-| Twitter handle | [@TheLeftBench](https://www.twitter.com/TheLeftBench)                     |
-| Location       | College Park                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://theleftbench.com/](https://theleftbench.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theleftbench.xml)                                                              |
+| Twitter handle | [@TheLeftBench](https://www.twitter.com/TheLeftBench)                                                                                  |
+| Location       | College Park                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/maryland.html">Maryland</a>  |
 
-The archiving routine has captured 25 screenshots stored at the Internet Archive.
+The archiving routine has captured 26 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

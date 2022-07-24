@@ -9,15 +9,16 @@ orphan: true
 
 ![Miami Herald](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miamiherald.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.miamiherald.com/](https://www.miamiherald.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/miamiherald.xml) |
-| Twitter handle | [@MiamiHerald](https://www.twitter.com/MiamiHerald)                     |
-| Location       | Miami                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.miamiherald.com/](https://www.miamiherald.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/miamiherald.xml)                                                              |
+| Twitter handle | [@MiamiHerald](https://www.twitter.com/MiamiHerald)                                                                                  |
+| Location       | Miami                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/florida.html">Florida</a>  |
 
-The archiving routine has captured 40 screenshots stored at the Internet Archive.
+The archiving routine has captured 41 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

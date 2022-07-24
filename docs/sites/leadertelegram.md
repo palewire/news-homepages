@@ -9,15 +9,16 @@ orphan: true
 
 ![Eau Claire Leader-Telegram](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/leadertelegram.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.leadertelegram.com/](https://www.leadertelegram.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/leadertelegram.xml) |
-| Twitter handle | [@leadertelegram](https://www.twitter.com/leadertelegram)                     |
-| Location       | Eau Claire                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.leadertelegram.com/](https://www.leadertelegram.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/leadertelegram.xml)                                                              |
+| Twitter handle | [@leadertelegram](https://www.twitter.com/leadertelegram)                                                                                  |
+| Location       | Eau Claire                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/wisconsin.html">Wisconsin</a>  |
 
-The archiving routine has captured 182 screenshots stored at the Internet Archive.
+The archiving routine has captured 183 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

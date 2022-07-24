@@ -9,15 +9,16 @@ orphan: true
 
 ![KCRG](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcrg.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.kcrg.com/](https://www.kcrg.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kcrg.xml) |
-| Twitter handle | [@KCRG](https://www.twitter.com/KCRG)                     |
-| Location       | Cedar Rapids                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.kcrg.com/](https://www.kcrg.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kcrg.xml)                                                              |
+| Twitter handle | [@KCRG](https://www.twitter.com/KCRG)                                                                                  |
+| Location       | Cedar Rapids                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
-The archiving routine has captured 181 screenshots stored at the Internet Archive.
+The archiving routine has captured 182 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

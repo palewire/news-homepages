@@ -9,15 +9,16 @@ orphan: true
 
 ![Texas Monthly](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/texasmonthly.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.texasmonthly.com/](https://www.texasmonthly.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/texasmonthly.xml) |
-| Twitter handle | [@TexasMonthly](https://www.twitter.com/TexasMonthly)                     |
-| Location       | Austin                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.texasmonthly.com/](https://www.texasmonthly.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/texasmonthly.xml)                                                              |
+| Twitter handle | [@TexasMonthly](https://www.twitter.com/TexasMonthly)                                                                                  |
+| Location       | Austin                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 40 screenshots stored at the Internet Archive.
+The archiving routine has captured 41 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![KUT](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kut.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.kut.org/](https://www.kut.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kut.xml) |
-| Twitter handle | [@KUT](https://www.twitter.com/KUT)                     |
-| Location       | Austin                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.kut.org/](https://www.kut.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kut.xml)                                                              |
+| Twitter handle | [@KUT](https://www.twitter.com/KUT)                                                                                  |
+| Location       | Austin                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

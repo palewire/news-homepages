@@ -9,15 +9,16 @@ orphan: true
 
 ![KPCC](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kpcc.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.kpcc.org/](https://www.kpcc.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kpcc.xml) |
-| Twitter handle | [@kpcc](https://www.twitter.com/kpcc)                     |
-| Location       | Los Angeles                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.kpcc.org/](https://www.kpcc.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kpcc.xml)                                                              |
+| Twitter handle | [@kpcc](https://www.twitter.com/kpcc)                                                                                  |
+| Location       | Los Angeles                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/socal.html">Southern California</a>  |
 
-The archiving routine has captured 278 screenshots stored at the Internet Archive.
+The archiving routine has captured 279 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

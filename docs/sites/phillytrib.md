@@ -9,15 +9,16 @@ orphan: true
 
 ![Philadelphia Tribune](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/phillytrib.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.phillytrib.com/](https://www.phillytrib.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/phillytrib.xml) |
-| Twitter handle | [@PhillyTrib](https://www.twitter.com/PhillyTrib)                     |
-| Location       | Philadelphia                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.phillytrib.com/](https://www.phillytrib.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/phillytrib.xml)                                                              |
+| Twitter handle | [@PhillyTrib](https://www.twitter.com/PhillyTrib)                                                                                  |
+| Location       | Philadelphia                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/philadelphia.html">Philadelphia</a>  |
 
-The archiving routine has captured 49 screenshots stored at the Internet Archive.
+The archiving routine has captured 50 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

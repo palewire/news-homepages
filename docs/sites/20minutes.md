@@ -9,15 +9,16 @@ orphan: true
 
 ![20 Minutes](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/20minutes.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.20minutes.fr/](https://www.20minutes.fr/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/20minutes.xml) |
-| Twitter handle | [@20Minutes](https://www.twitter.com/20Minutes)                     |
-| Location       | Paris                                                                 |
-| Timezone       | Europe/Paris                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.20minutes.fr/](https://www.20minutes.fr/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/20minutes.xml)                                                              |
+| Twitter handle | [@20Minutes](https://www.twitter.com/20Minutes)                                                                                  |
+| Location       | Paris                                                                                                                              |
+| Timezone       | Europe/Paris                                                                                                                              |
+| Bundles        | <a href="../bundles/france.html">France</a>  |
 
-The archiving routine has captured 204 screenshots stored at the Internet Archive.
+The archiving routine has captured 206 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

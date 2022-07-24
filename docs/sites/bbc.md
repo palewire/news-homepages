@@ -9,15 +9,16 @@ orphan: true
 
 ![BBC](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bbc.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.bbc.com/news](https://www.bbc.com/news)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bbc.xml) |
-| Twitter handle | [@bbc](https://www.twitter.com/bbc)                     |
-| Location       | London                                                                 |
-| Timezone       | Europe/London                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.bbc.com/news](https://www.bbc.com/news)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bbc.xml)                                                              |
+| Twitter handle | [@bbc](https://www.twitter.com/bbc)                                                                                  |
+| Location       | London                                                                                                                              |
+| Timezone       | Europe/London                                                                                                                              |
+| Bundles        | <a href="../bundles/uk-national.html">U.K. national news</a>  |
 
-The archiving routine has captured 312 screenshots stored at the Internet Archive.
+The archiving routine has captured 314 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

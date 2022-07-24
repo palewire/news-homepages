@@ -9,15 +9,16 @@ orphan: true
 
 ![Atlanta Civic Circle](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atlciviccircle.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://atlantaciviccircle.org/](https://atlantaciviccircle.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/atlciviccircle.xml) |
-| Twitter handle | [@atlciviccircle](https://www.twitter.com/atlciviccircle)                     |
-| Location       | Atlanta                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://atlantaciviccircle.org/](https://atlantaciviccircle.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/atlciviccircle.xml)                                                              |
+| Twitter handle | [@atlciviccircle](https://www.twitter.com/atlciviccircle)                                                                                  |
+| Location       | Atlanta                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
-The archiving routine has captured 32 screenshots stored at the Internet Archive.
+The archiving routine has captured 33 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

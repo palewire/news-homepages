@@ -9,15 +9,16 @@ orphan: true
 
 ![Vancouver Sun](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vancouversun.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://vancouversun.com/](https://vancouversun.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/vancouversun.xml) |
-| Twitter handle | [@vancouversun](https://www.twitter.com/vancouversun)                     |
-| Location       | Vancouver                                                                 |
-| Timezone       | America/Vancouver                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://vancouversun.com/](https://vancouversun.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/vancouversun.xml)                                                              |
+| Twitter handle | [@vancouversun](https://www.twitter.com/vancouversun)                                                                                  |
+| Location       | Vancouver                                                                                                                              |
+| Timezone       | America/Vancouver                                                                                                                              |
+| Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
-The archiving routine has captured 65 screenshots stored at the Internet Archive.
+The archiving routine has captured 66 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

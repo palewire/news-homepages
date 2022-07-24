@@ -9,15 +9,16 @@ orphan: true
 
 ![Harper’s](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/harpers.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://harpers.org/](https://harpers.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/harpers.xml) |
-| Twitter handle | [@Harpers](https://www.twitter.com/Harpers)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://harpers.org/](https://harpers.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/harpers.xml)                                                              |
+| Twitter handle | [@Harpers](https://www.twitter.com/Harpers)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 71 screenshots stored at the Internet Archive.
+The archiving routine has captured 73 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

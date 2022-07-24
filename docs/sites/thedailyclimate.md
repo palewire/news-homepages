@@ -9,15 +9,16 @@ orphan: true
 
 ![Daily Climate](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailyclimate.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.dailyclimate.org/](https://www.dailyclimate.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailyclimate.xml) |
-| Twitter handle | [@TheDailyClimate](https://www.twitter.com/TheDailyClimate)                     |
-| Location       | Bozeman                                                                 |
-| Timezone       | America/Denver                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.dailyclimate.org/](https://www.dailyclimate.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailyclimate.xml)                                                              |
+| Twitter handle | [@TheDailyClimate](https://www.twitter.com/TheDailyClimate)                                                                                  |
+| Location       | Bozeman                                                                                                                              |
+| Timezone       | America/Denver                                                                                                                              |
+| Bundles        | <a href="../bundles/science.html">Science</a>  |
 
-The archiving routine has captured 2 screenshots stored at the Internet Archive.
+The archiving routine has captured 3 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

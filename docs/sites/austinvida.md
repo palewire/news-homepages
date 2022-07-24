@@ -9,15 +9,16 @@ orphan: true
 
 ![Austin Vida](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/austinvida.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.austinvida.com/](https://www.austinvida.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/austinvida.xml) |
-| Twitter handle | [@AustinVida](https://www.twitter.com/AustinVida)                     |
-| Location       | Austin                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.austinvida.com/](https://www.austinvida.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/austinvida.xml)                                                              |
+| Twitter handle | [@AustinVida](https://www.twitter.com/AustinVida)                                                                                  |
+| Location       | Austin                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 29 screenshots stored at the Internet Archive.
+The archiving routine has captured 30 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

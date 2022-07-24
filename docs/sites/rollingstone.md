@@ -9,15 +9,16 @@ orphan: true
 
 ![Rolling Stone](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollingstone.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.rollingstone.com/](https://www.rollingstone.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rollingstone.xml) |
-| Twitter handle | [@RollingStone](https://www.twitter.com/RollingStone)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.rollingstone.com/](https://www.rollingstone.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rollingstone.xml)                                                              |
+| Twitter handle | [@RollingStone](https://www.twitter.com/RollingStone)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/entertainment.html">Entertainment</a>  |
 
-The archiving routine has captured 74 screenshots stored at the Internet Archive.
+The archiving routine has captured 75 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

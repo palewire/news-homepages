@@ -9,15 +9,16 @@ orphan: true
 
 ![Ukrinform](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ukrinform.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.ukrinform.ua/](https://www.ukrinform.ua/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ukrinform.xml) |
-| Twitter handle | [@ukrinform](https://www.twitter.com/ukrinform)                     |
-| Location       | Kiev                                                                 |
-| Timezone       | Europe/Kiev                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.ukrinform.ua/](https://www.ukrinform.ua/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ukrinform.xml)                                                              |
+| Twitter handle | [@ukrinform](https://www.twitter.com/ukrinform)                                                                                  |
+| Location       | Kiev                                                                                                                              |
+| Timezone       | Europe/Kiev                                                                                                                              |
+| Bundles        | <a href="../bundles/eastern-europe.html">Eastern Europe</a>  |
 
-The archiving routine has captured 248 screenshots stored at the Internet Archive.
+The archiving routine has captured 249 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

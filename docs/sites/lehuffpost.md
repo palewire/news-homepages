@@ -9,15 +9,16 @@ orphan: true
 
 ![Le Huffington Post](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lehuffpost.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.huffingtonpost.fr/](https://www.huffingtonpost.fr/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lehuffpost.xml) |
-| Twitter handle | [@LeHuffPost](https://www.twitter.com/LeHuffPost)                     |
-| Location       | Paris                                                                 |
-| Timezone       | Europe/Paris                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.huffingtonpost.fr/](https://www.huffingtonpost.fr/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lehuffpost.xml)                                                              |
+| Twitter handle | [@LeHuffPost](https://www.twitter.com/LeHuffPost)                                                                                  |
+| Location       | Paris                                                                                                                              |
+| Timezone       | Europe/Paris                                                                                                                              |
+| Bundles        | <a href="../bundles/france.html">France</a>  |
 
-The archiving routine has captured 200 screenshots stored at the Internet Archive.
+The archiving routine has captured 202 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Jiji](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jijicom.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.jiji.com/](https://www.jiji.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jijicom.xml) |
-| Twitter handle | [@jijicom](https://www.twitter.com/jijicom)                     |
-| Location       | Tokyo                                                                 |
-| Timezone       | Asia/Tokyo                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.jiji.com/](https://www.jiji.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jijicom.xml)                                                              |
+| Twitter handle | [@jijicom](https://www.twitter.com/jijicom)                                                                                  |
+| Location       | Tokyo                                                                                                                              |
+| Timezone       | Asia/Tokyo                                                                                                                              |
+| Bundles        | <a href="../bundles/japan.html">Japan</a>  |
 
-The archiving routine has captured 46 screenshots stored at the Internet Archive.
+The archiving routine has captured 48 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![The Telegraph](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/telegraph.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.telegraph.co.uk/](https://www.telegraph.co.uk/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/telegraph.xml) |
-| Twitter handle | [@Telegraph](https://www.twitter.com/Telegraph)                     |
-| Location       | London                                                                 |
-| Timezone       | Europe/London                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.telegraph.co.uk/](https://www.telegraph.co.uk/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/telegraph.xml)                                                              |
+| Twitter handle | [@Telegraph](https://www.twitter.com/Telegraph)                                                                                  |
+| Location       | London                                                                                                                              |
+| Timezone       | Europe/London                                                                                                                              |
+| Bundles        | <a href="../bundles/uk-national.html">U.K. national news</a>  |
 
-The archiving routine has captured 302 screenshots stored at the Internet Archive.
+The archiving routine has captured 304 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

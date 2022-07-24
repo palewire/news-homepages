@@ -9,15 +9,16 @@ orphan: true
 
 ![National](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scotnational.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.thenational.scot/](https://www.thenational.scot/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/scotnational.xml) |
-| Twitter handle | [@ScotNational](https://www.twitter.com/ScotNational)                     |
-| Location       | Scotland                                                                 |
-| Timezone       | Europe/London                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.thenational.scot/](https://www.thenational.scot/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/scotnational.xml)                                                              |
+| Twitter handle | [@ScotNational](https://www.twitter.com/ScotNational)                                                                                  |
+| Location       | Scotland                                                                                                                              |
+| Timezone       | Europe/London                                                                                                                              |
+| Bundles        | <a href="../bundles/scotland.html">Scotland</a>  |
 
-The archiving routine has captured 36 screenshots stored at the Internet Archive.
+The archiving routine has captured 37 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

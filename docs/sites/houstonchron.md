@@ -9,15 +9,16 @@ orphan: true
 
 ![Houston Chronicle](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/houstonchron.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.houstonchronicle.com/](https://www.houstonchronicle.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/houstonchron.xml) |
-| Twitter handle | [@HoustonChron](https://www.twitter.com/HoustonChron)                     |
-| Location       | Houston                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.houstonchronicle.com/](https://www.houstonchronicle.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/houstonchron.xml)                                                              |
+| Twitter handle | [@HoustonChron](https://www.twitter.com/HoustonChron)                                                                                  |
+| Location       | Houston                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 37 screenshots stored at the Internet Archive.
+The archiving routine has captured 39 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

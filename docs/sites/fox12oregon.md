@@ -9,15 +9,16 @@ orphan: true
 
 ![Fox 12 Oregon](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fox12oregon.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.kptv.com/](https://www.kptv.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/fox12oregon.xml) |
-| Twitter handle | [@fox12oregon](https://www.twitter.com/fox12oregon)                     |
-| Location       | Beaverton                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.kptv.com/](https://www.kptv.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/fox12oregon.xml)                                                              |
+| Twitter handle | [@fox12oregon](https://www.twitter.com/fox12oregon)                                                                                  |
+| Location       | Beaverton                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/oregon.html">Oregon</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 41 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

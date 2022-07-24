@@ -9,15 +9,16 @@ orphan: true
 
 ![NHK](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhk_news.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www3.nhk.or.jp/news/](https://www3.nhk.or.jp/news/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nhk_news.xml) |
-| Twitter handle | [@NHK_news](https://www.twitter.com/NHK_news)                     |
-| Location       | Tokyo                                                                 |
-| Timezone       | Asia/Tokyo                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www3.nhk.or.jp/news/](https://www3.nhk.or.jp/news/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nhk_news.xml)                                                              |
+| Twitter handle | [@NHK_news](https://www.twitter.com/NHK_news)                                                                                  |
+| Location       | Tokyo                                                                                                                              |
+| Timezone       | Asia/Tokyo                                                                                                                              |
+| Bundles        | <a href="../bundles/japan.html">Japan</a>  |
 
-The archiving routine has captured 46 screenshots stored at the Internet Archive.
+The archiving routine has captured 48 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

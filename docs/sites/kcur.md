@@ -9,15 +9,16 @@ orphan: true
 
 ![KCUR](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcur.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [http://www.kcur.org/](http://www.kcur.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kcur.xml) |
-| Twitter handle | [@kcur](https://www.twitter.com/kcur)                     |
-| Location       | Kansas City                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [http://www.kcur.org/](http://www.kcur.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kcur.xml)                                                              |
+| Twitter handle | [@kcur](https://www.twitter.com/kcur)                                                                                  |
+| Location       | Kansas City                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/missouri.html">Missouri</a>  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

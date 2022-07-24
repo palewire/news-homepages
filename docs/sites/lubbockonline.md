@@ -9,15 +9,16 @@ orphan: true
 
 ![Lubbock Avalanche-Journal](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lubbockonline.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.lubbockonline.com/](https://www.lubbockonline.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lubbockonline.xml) |
-| Twitter handle | [@lubbockonline](https://www.twitter.com/lubbockonline)                     |
-| Location       | Lubbock                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.lubbockonline.com/](https://www.lubbockonline.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lubbockonline.xml)                                                              |
+| Twitter handle | [@lubbockonline](https://www.twitter.com/lubbockonline)                                                                                  |
+| Location       | Lubbock                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 11 screenshots stored at the Internet Archive.
+The archiving routine has captured 12 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

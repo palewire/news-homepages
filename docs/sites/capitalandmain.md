@@ -9,15 +9,16 @@ orphan: true
 
 ![Capital & Main](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capitalandmain.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://capitalandmain.com/](https://capitalandmain.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/capitalandmain.xml) |
-| Twitter handle | [@capitalandmain](https://www.twitter.com/capitalandmain)                     |
-| Location       | Los Angeles                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://capitalandmain.com/](https://capitalandmain.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/capitalandmain.xml)                                                              |
+| Twitter handle | [@capitalandmain](https://www.twitter.com/capitalandmain)                                                                                  |
+| Location       | Los Angeles                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/socal.html">Southern California</a>  |
 
-The archiving routine has captured 2 screenshots stored at the Internet Archive.
+The archiving routine has captured 3 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

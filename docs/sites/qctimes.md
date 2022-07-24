@@ -9,15 +9,16 @@ orphan: true
 
 ![Quad City Times](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/qctimes.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://qctimes.com/](https://qctimes.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/qctimes.xml) |
-| Twitter handle | [@qctimes](https://www.twitter.com/qctimes)                     |
-| Location       | Davenport                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://qctimes.com/](https://qctimes.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/qctimes.xml)                                                              |
+| Twitter handle | [@qctimes](https://www.twitter.com/qctimes)                                                                                  |
+| Location       | Davenport                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
-The archiving routine has captured 180 screenshots stored at the Internet Archive.
+The archiving routine has captured 181 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

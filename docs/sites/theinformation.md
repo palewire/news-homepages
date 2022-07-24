@@ -9,15 +9,16 @@ orphan: true
 
 ![The Information](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theinformation.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.theinformation.com/](https://www.theinformation.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theinformation.xml) |
-| Twitter handle | [@theinformation](https://www.twitter.com/theinformation)                     |
-| Location       | Silicon Valley                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.theinformation.com/](https://www.theinformation.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theinformation.xml)                                                              |
+| Twitter handle | [@theinformation](https://www.twitter.com/theinformation)                                                                                  |
+| Location       | Silicon Valley                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
-The archiving routine has captured 53 screenshots stored at the Internet Archive.
+The archiving routine has captured 54 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

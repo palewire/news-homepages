@@ -9,15 +9,16 @@ orphan: true
 
 ![Kansas City Defender](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcdefender.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.kansascitydefender.com/](https://www.kansascitydefender.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kcdefender.xml) |
-| Twitter handle | [@KCDefender](https://www.twitter.com/KCDefender)                     |
-| Location       | Kansas City                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.kansascitydefender.com/](https://www.kansascitydefender.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kcdefender.xml)                                                              |
+| Twitter handle | [@KCDefender](https://www.twitter.com/KCDefender)                                                                                  |
+| Location       | Kansas City                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/missouri.html">Missouri</a>  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

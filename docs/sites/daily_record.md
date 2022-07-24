@@ -9,15 +9,16 @@ orphan: true
 
 ![Daily Record](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/daily_record.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.dailyrecord.co.uk/](https://www.dailyrecord.co.uk/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/daily_record.xml) |
-| Twitter handle | [@Daily_Record](https://www.twitter.com/Daily_Record)                     |
-| Location       | Glasgow                                                                 |
-| Timezone       | Europe/London                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.dailyrecord.co.uk/](https://www.dailyrecord.co.uk/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/daily_record.xml)                                                              |
+| Twitter handle | [@Daily_Record](https://www.twitter.com/Daily_Record)                                                                                  |
+| Location       | Glasgow                                                                                                                              |
+| Timezone       | Europe/London                                                                                                                              |
+| Bundles        | <a href="../bundles/scotland.html">Scotland</a>  |
 
-The archiving routine has captured 38 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

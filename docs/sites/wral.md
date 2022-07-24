@@ -9,15 +9,16 @@ orphan: true
 
 ![WRAL](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wral.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.wral.com/](https://www.wral.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wral.xml) |
-| Twitter handle | [@wral](https://www.twitter.com/wral)                     |
-| Location       | Raleigh                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.wral.com/](https://www.wral.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wral.xml)                                                              |
+| Twitter handle | [@wral](https://www.twitter.com/wral)                                                                                  |
+| Location       | Raleigh                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/north-carolina.html">North Carolina</a>  |
 
-The archiving routine has captured 184 screenshots stored at the Internet Archive.
+The archiving routine has captured 185 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

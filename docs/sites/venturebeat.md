@@ -9,15 +9,16 @@ orphan: true
 
 ![VentureBeat](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/venturebeat.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://venturebeat.com/](https://venturebeat.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/venturebeat.xml) |
-| Twitter handle | [@VentureBeat](https://www.twitter.com/VentureBeat)                     |
-| Location       | San Francisco                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://venturebeat.com/](https://venturebeat.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/venturebeat.xml)                                                              |
+| Twitter handle | [@VentureBeat](https://www.twitter.com/VentureBeat)                                                                                  |
+| Location       | San Francisco                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
-The archiving routine has captured 53 screenshots stored at the Internet Archive.
+The archiving routine has captured 54 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

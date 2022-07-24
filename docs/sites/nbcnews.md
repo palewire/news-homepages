@@ -9,15 +9,16 @@ orphan: true
 
 ![NBC News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcnews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.nbcnews.com/](https://www.nbcnews.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcnews.xml) |
-| Twitter handle | [@NBCNews](https://www.twitter.com/NBCNews)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.nbcnews.com/](https://www.nbcnews.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcnews.xml)                                                              |
+| Twitter handle | [@NBCNews](https://www.twitter.com/NBCNews)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-national.html">U.S. national news</a>  |
 
-The archiving routine has captured 455 screenshots stored at the Internet Archive.
+The archiving routine has captured 456 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

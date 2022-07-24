@@ -9,15 +9,16 @@ orphan: true
 
 ![Kyiv Independent](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kyivindependent.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://kyivindependent.com/](https://kyivindependent.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kyivindependent.xml) |
-| Twitter handle | [@kyivindependent](https://www.twitter.com/kyivindependent)                     |
-| Location       | Kiev                                                                 |
-| Timezone       | Europe/Kiev                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://kyivindependent.com/](https://kyivindependent.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kyivindependent.xml)                                                              |
+| Twitter handle | [@kyivindependent](https://www.twitter.com/kyivindependent)                                                                                  |
+| Location       | Kiev                                                                                                                              |
+| Timezone       | Europe/Kiev                                                                                                                              |
+| Bundles        | <a href="../bundles/eastern-europe.html">Eastern Europe</a>  |
 
-The archiving routine has captured 265 screenshots stored at the Internet Archive.
+The archiving routine has captured 266 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

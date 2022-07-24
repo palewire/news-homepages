@@ -9,15 +9,16 @@ orphan: true
 
 ![Daily Tarheel](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailytarheel.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.dailytarheel.com](https://www.dailytarheel.com)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/dailytarheel.xml) |
-| Twitter handle | [@dailytarheel](https://www.twitter.com/dailytarheel)                     |
-| Location       | Chapel Hill                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.dailytarheel.com](https://www.dailytarheel.com)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/dailytarheel.xml)                                                              |
+| Twitter handle | [@dailytarheel](https://www.twitter.com/dailytarheel)                                                                                  |
+| Location       | Chapel Hill                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/north-carolina.html">North Carolina</a>  |
 
-The archiving routine has captured 33 screenshots stored at the Internet Archive.
+The archiving routine has captured 35 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![KXAN](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kxan_news.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.kxan.com/](https://www.kxan.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kxan_news.xml) |
-| Twitter handle | [@KXAN_News](https://www.twitter.com/KXAN_News)                     |
-| Location       | Austin                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.kxan.com/](https://www.kxan.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kxan_news.xml)                                                              |
+| Twitter handle | [@KXAN_News](https://www.twitter.com/KXAN_News)                                                                                  |
+| Location       | Austin                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

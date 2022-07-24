@@ -9,15 +9,16 @@ orphan: true
 
 ![Common Dreams](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/commondreams.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.commondreams.org/](https://www.commondreams.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/commondreams.xml) |
-| Twitter handle | [@commondreams](https://www.twitter.com/commondreams)                     |
-| Location       | Maine                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.commondreams.org/](https://www.commondreams.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/commondreams.xml)                                                              |
+| Twitter handle | [@commondreams](https://www.twitter.com/commondreams)                                                                                  |
+| Location       | Maine                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 
-The archiving routine has captured 19 screenshots stored at the Internet Archive.
+The archiving routine has captured 20 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

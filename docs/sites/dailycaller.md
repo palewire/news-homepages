@@ -9,15 +9,16 @@ orphan: true
 
 ![Daily Caller](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycaller.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://dailycaller.com/](https://dailycaller.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/dailycaller.xml) |
-| Twitter handle | [@DailyCaller](https://www.twitter.com/DailyCaller)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://dailycaller.com/](https://dailycaller.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/dailycaller.xml)                                                              |
+| Twitter handle | [@DailyCaller](https://www.twitter.com/DailyCaller)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
-The archiving routine has captured 202 screenshots stored at the Internet Archive.
+The archiving routine has captured 204 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

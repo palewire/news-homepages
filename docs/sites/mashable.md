@@ -9,15 +9,16 @@ orphan: true
 
 ![Mashable](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mashable.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://mashable.com/](https://mashable.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mashable.xml) |
-| Twitter handle | [@mashable](https://www.twitter.com/mashable)                     |
-| Location       | Silicon Valley                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://mashable.com/](https://mashable.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mashable.xml)                                                              |
+| Twitter handle | [@mashable](https://www.twitter.com/mashable)                                                                                  |
+| Location       | Silicon Valley                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
-The archiving routine has captured 53 screenshots stored at the Internet Archive.
+The archiving routine has captured 54 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

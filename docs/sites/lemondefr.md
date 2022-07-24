@@ -9,15 +9,16 @@ orphan: true
 
 ![Le Monde](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lemondefr.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.lemonde.fr/](https://www.lemonde.fr/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lemondefr.xml) |
-| Twitter handle | [@lemondefr](https://www.twitter.com/lemondefr)                     |
-| Location       | Paris                                                                 |
-| Timezone       | Europe/Paris                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.lemonde.fr/](https://www.lemonde.fr/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lemondefr.xml)                                                              |
+| Twitter handle | [@lemondefr](https://www.twitter.com/lemondefr)                                                                                  |
+| Location       | Paris                                                                                                                              |
+| Timezone       | Europe/Paris                                                                                                                              |
+| Bundles        | <a href="../bundles/france.html">France</a>  |
 
-The archiving routine has captured 200 screenshots stored at the Internet Archive.
+The archiving routine has captured 202 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

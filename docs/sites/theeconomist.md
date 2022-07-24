@@ -9,15 +9,16 @@ orphan: true
 
 ![Economist](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theeconomist.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.economist.com/](https://www.economist.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theeconomist.xml) |
-| Twitter handle | [@TheEconomist](https://www.twitter.com/TheEconomist)                     |
-| Location       | London                                                                 |
-| Timezone       | Europe/London                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.economist.com/](https://www.economist.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theeconomist.xml)                                                              |
+| Twitter handle | [@TheEconomist](https://www.twitter.com/TheEconomist)                                                                                  |
+| Location       | London                                                                                                                              |
+| Timezone       | Europe/London                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

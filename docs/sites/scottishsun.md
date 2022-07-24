@@ -9,15 +9,16 @@ orphan: true
 
 ![Scottish Sun](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scottishsun.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.thescottishsun.co.uk/](https://www.thescottishsun.co.uk/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/scottishsun.xml) |
-| Twitter handle | [@ScottishSun](https://www.twitter.com/ScottishSun)                     |
-| Location       | Glasgow                                                                 |
-| Timezone       | Europe/London                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.thescottishsun.co.uk/](https://www.thescottishsun.co.uk/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/scottishsun.xml)                                                              |
+| Twitter handle | [@ScottishSun](https://www.twitter.com/ScottishSun)                                                                                  |
+| Location       | Glasgow                                                                                                                              |
+| Timezone       | Europe/London                                                                                                                              |
+| Bundles        | <a href="../bundles/scotland.html">Scotland</a>  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

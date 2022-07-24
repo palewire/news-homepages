@@ -9,15 +9,16 @@ orphan: true
 
 ![The Oaklandside](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oaklandside.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://oaklandside.org/](https://oaklandside.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/oaklandside.xml) |
-| Twitter handle | [@Oaklandside](https://www.twitter.com/Oaklandside)                     |
-| Location       | Oakland                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://oaklandside.org/](https://oaklandside.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/oaklandside.xml)                                                              |
+| Twitter handle | [@Oaklandside](https://www.twitter.com/Oaklandside)                                                                                  |
+| Location       | Oakland                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/bay-area.html">California Bay Area</a>  |
 
-The archiving routine has captured 217 screenshots stored at the Internet Archive.
+The archiving routine has captured 218 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Scotsman](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thescotsman.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.scotsman.com/](https://www.scotsman.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thescotsman.xml) |
-| Twitter handle | [@TheScotsman](https://www.twitter.com/TheScotsman)                     |
-| Location       | Scotland                                                                 |
-| Timezone       | Europe/London                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.scotsman.com/](https://www.scotsman.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thescotsman.xml)                                                              |
+| Twitter handle | [@TheScotsman](https://www.twitter.com/TheScotsman)                                                                                  |
+| Location       | Scotland                                                                                                                              |
+| Timezone       | Europe/London                                                                                                                              |
+| Bundles        | <a href="../bundles/scotland.html">Scotland</a>  |
 
-The archiving routine has captured 35 screenshots stored at the Internet Archive.
+The archiving routine has captured 36 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

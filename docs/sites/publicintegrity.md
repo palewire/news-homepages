@@ -9,15 +9,16 @@ orphan: true
 
 ![Center for Public Integrity](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/publicintegrity.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://publicintegrity.org/](https://publicintegrity.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/publicintegrity.xml) |
-| Twitter handle | [@publicintegrity](https://www.twitter.com/publicintegrity)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://publicintegrity.org/](https://publicintegrity.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/publicintegrity.xml)                                                              |
+| Twitter handle | [@publicintegrity](https://www.twitter.com/publicintegrity)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 105 screenshots stored at the Internet Archive.
+The archiving routine has captured 106 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Asahi Shimbun](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/asahi.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.asahi.com/](https://www.asahi.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/asahi.xml) |
-| Twitter handle | [@asahi](https://www.twitter.com/asahi)                     |
-| Location       | Osaka                                                                 |
-| Timezone       | Asia/Tokyo                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.asahi.com/](https://www.asahi.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/asahi.xml)                                                              |
+| Twitter handle | [@asahi](https://www.twitter.com/asahi)                                                                                  |
+| Location       | Osaka                                                                                                                              |
+| Timezone       | Asia/Tokyo                                                                                                                              |
+| Bundles        | <a href="../bundles/japan.html">Japan</a>  |
 
-The archiving routine has captured 47 screenshots stored at the Internet Archive.
+The archiving routine has captured 49 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

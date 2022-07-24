@@ -9,15 +9,16 @@ orphan: true
 
 ![Daily Herald](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldscotland.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.heraldscotland.com/](https://www.heraldscotland.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/heraldscotland.xml) |
-| Twitter handle | [@heraldscotland](https://www.twitter.com/heraldscotland)                     |
-| Location       | Scotland                                                                 |
-| Timezone       | Europe/London                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.heraldscotland.com/](https://www.heraldscotland.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/heraldscotland.xml)                                                              |
+| Twitter handle | [@heraldscotland](https://www.twitter.com/heraldscotland)                                                                                  |
+| Location       | Scotland                                                                                                                              |
+| Timezone       | Europe/London                                                                                                                              |
+| Bundles        | <a href="../bundles/scotland.html">Scotland</a>  |
 
-The archiving routine has captured 37 screenshots stored at the Internet Archive.
+The archiving routine has captured 39 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

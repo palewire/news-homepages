@@ -9,15 +9,16 @@ orphan: true
 
 ![Newsweek](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsweek.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.newsweek.com/](https://www.newsweek.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/newsweek.xml) |
-| Twitter handle | [@Newsweek](https://www.twitter.com/Newsweek)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.newsweek.com/](https://www.newsweek.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/newsweek.xml)                                                              |
+| Twitter handle | [@Newsweek](https://www.twitter.com/Newsweek)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

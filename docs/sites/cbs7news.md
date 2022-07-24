@@ -9,15 +9,16 @@ orphan: true
 
 ![CBS7](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbs7news.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.cbs7.com/](https://www.cbs7.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/cbs7news.xml) |
-| Twitter handle | [@CBS7News](https://www.twitter.com/CBS7News)                     |
-| Location       | Odessa                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.cbs7.com/](https://www.cbs7.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/cbs7news.xml)                                                              |
+| Twitter handle | [@CBS7News](https://www.twitter.com/CBS7News)                                                                                  |
+| Location       | Odessa                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 14 screenshots stored at the Internet Archive.
+The archiving routine has captured 15 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

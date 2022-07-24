@@ -9,15 +9,16 @@ orphan: true
 
 ![CBS 17](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wncn.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.cbs17.com/](https://www.cbs17.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wncn.xml) |
-| Twitter handle | [@WNCN](https://www.twitter.com/WNCN)                     |
-| Location       | Raleigh                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.cbs17.com/](https://www.cbs17.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wncn.xml)                                                              |
+| Twitter handle | [@WNCN](https://www.twitter.com/WNCN)                                                                                  |
+| Location       | Raleigh                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/north-carolina.html">North Carolina</a>  |
 
-The archiving routine has captured 177 screenshots stored at the Internet Archive.
+The archiving routine has captured 178 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Cicero Independiente](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ciceronoticias.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.ciceroindependiente.com/](https://www.ciceroindependiente.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ciceronoticias.xml) |
-| Twitter handle | [@CiceroNoticias](https://www.twitter.com/CiceroNoticias)                     |
-| Location       | Cicero                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.ciceroindependiente.com/](https://www.ciceroindependiente.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ciceronoticias.xml)                                                              |
+| Twitter handle | [@CiceroNoticias](https://www.twitter.com/CiceroNoticias)                                                                                  |
+| Location       | Cicero                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
 
-The archiving routine has captured 34 screenshots stored at the Internet Archive.
+The archiving routine has captured 35 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

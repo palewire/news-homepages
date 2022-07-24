@@ -9,15 +9,16 @@ orphan: true
 
 ![National Journal](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nationaljournal.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.nationaljournal.com/](https://www.nationaljournal.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nationaljournal.xml) |
-| Twitter handle | [@nationaljournal](https://www.twitter.com/nationaljournal)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.nationaljournal.com/](https://www.nationaljournal.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nationaljournal.xml)                                                              |
+| Twitter handle | [@nationaljournal](https://www.twitter.com/nationaljournal)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/capitol-hill.html">Capitol Hill</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

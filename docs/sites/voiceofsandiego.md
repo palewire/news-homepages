@@ -9,15 +9,16 @@ orphan: true
 
 ![Voice of San Diego](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voiceofsandiego.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://voiceofsandiego.org/](https://voiceofsandiego.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/voiceofsandiego.xml) |
-| Twitter handle | [@voiceofsandiego](https://www.twitter.com/voiceofsandiego)                     |
-| Location       | San Diego                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://voiceofsandiego.org/](https://voiceofsandiego.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/voiceofsandiego.xml)                                                              |
+| Twitter handle | [@voiceofsandiego](https://www.twitter.com/voiceofsandiego)                                                                                  |
+| Location       | San Diego                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/socal.html">Southern California</a>  |
 
-The archiving routine has captured 269 screenshots stored at the Internet Archive.
+The archiving routine has captured 270 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

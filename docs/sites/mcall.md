@@ -9,15 +9,16 @@ orphan: true
 
 ![The Morning Call](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mcall.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.mcall.com/](https://www.mcall.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mcall.xml) |
-| Twitter handle | [@mcall](https://www.twitter.com/mcall)                     |
-| Location       | Allentown                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.mcall.com/](https://www.mcall.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mcall.xml)                                                              |
+| Twitter handle | [@mcall](https://www.twitter.com/mcall)                                                                                  |
+| Location       | Allentown                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 71 screenshots stored at the Internet Archive.
+The archiving routine has captured 72 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

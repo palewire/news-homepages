@@ -9,15 +9,16 @@ orphan: true
 
 ![Baltimore Beat](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltbeat.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://baltimorebeat.com/](https://baltimorebeat.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/baltbeat.xml) |
-| Twitter handle | [@baltbeat](https://www.twitter.com/baltbeat)                     |
-| Location       | Baltimore                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://baltimorebeat.com/](https://baltimorebeat.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/baltbeat.xml)                                                              |
+| Twitter handle | [@baltbeat](https://www.twitter.com/baltbeat)                                                                                  |
+| Location       | Baltimore                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/maryland.html">Maryland</a>  |
 
-The archiving routine has captured 24 screenshots stored at the Internet Archive.
+The archiving routine has captured 25 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

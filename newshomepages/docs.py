@@ -98,6 +98,7 @@ def site_detail():
 
     # For each site ...
     for site in site_list:
+        site["bundle_list"] = [utils.get_bundle(b) for b in site["bundle_list"] if b]
         context = {
             "site": site,
             "screenshots": [

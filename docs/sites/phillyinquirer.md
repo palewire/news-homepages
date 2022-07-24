@@ -9,15 +9,16 @@ orphan: true
 
 ![Philadelphia Inquirer](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/phillyinquirer.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.inquirer.com/](https://www.inquirer.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/phillyinquirer.xml) |
-| Twitter handle | [@PhillyInquirer](https://www.twitter.com/PhillyInquirer)                     |
-| Location       | Philadelphia                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.inquirer.com/](https://www.inquirer.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/phillyinquirer.xml)                                                              |
+| Twitter handle | [@PhillyInquirer](https://www.twitter.com/PhillyInquirer)                                                                                  |
+| Location       | Philadelphia                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/philadelphia.html">Philadelphia</a>  |
 
-The archiving routine has captured 47 screenshots stored at the Internet Archive.
+The archiving routine has captured 48 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

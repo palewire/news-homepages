@@ -9,15 +9,16 @@ orphan: true
 
 ![NY1](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ny1.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.ny1.com/](https://www.ny1.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ny1.xml) |
-| Twitter handle | [@NY1](https://www.twitter.com/NY1)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.ny1.com/](https://www.ny1.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ny1.xml)                                                              |
+| Twitter handle | [@NY1](https://www.twitter.com/NY1)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 
-The archiving routine has captured 43 screenshots stored at the Internet Archive.
+The archiving routine has captured 44 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![The Diamondback](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedbk.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://dbknews.com/](https://dbknews.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thedbk.xml) |
-| Twitter handle | [@thedbk](https://www.twitter.com/thedbk)                     |
-| Location       | College Park                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://dbknews.com/](https://dbknews.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thedbk.xml)                                                              |
+| Twitter handle | [@thedbk](https://www.twitter.com/thedbk)                                                                                  |
+| Location       | College Park                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/maryland.html">Maryland</a>  |
 
-The archiving routine has captured 186 screenshots stored at the Internet Archive.
+The archiving routine has captured 187 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

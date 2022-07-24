@@ -9,15 +9,16 @@ orphan: true
 
 ![Discover](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/discovermag.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.discovermagazine.com/](https://www.discovermagazine.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/discovermag.xml) |
-| Twitter handle | [@DiscoverMag](https://www.twitter.com/DiscoverMag)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.discovermagazine.com/](https://www.discovermagazine.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/discovermag.xml)                                                              |
+| Twitter handle | [@DiscoverMag](https://www.twitter.com/DiscoverMag)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 40 screenshots stored at the Internet Archive.
+The archiving routine has captured 42 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

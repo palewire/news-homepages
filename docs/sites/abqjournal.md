@@ -9,15 +9,16 @@ orphan: true
 
 ![Albuquerque Journal](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqjournal.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.abqjournal.com/](https://www.abqjournal.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/abqjournal.xml) |
-| Twitter handle | [@ABQJournal](https://www.twitter.com/ABQJournal)                     |
-| Location       | Albuquerque                                                                 |
-| Timezone       | America/Denver                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.abqjournal.com/](https://www.abqjournal.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/abqjournal.xml)                                                              |
+| Twitter handle | [@ABQJournal](https://www.twitter.com/ABQJournal)                                                                                  |
+| Location       | Albuquerque                                                                                                                              |
+| Timezone       | America/Denver                                                                                                                              |
+| Bundles        | <a href="../bundles/new-mexico.html">New Mexico</a>  |
 
-The archiving routine has captured 187 screenshots stored at the Internet Archive.
+The archiving routine has captured 188 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

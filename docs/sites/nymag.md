@@ -9,15 +9,16 @@ orphan: true
 
 ![New York](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nymag.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://nymag.com/](https://nymag.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nymag.xml) |
-| Twitter handle | [@NYMag](https://www.twitter.com/NYMag)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://nymag.com/](https://nymag.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nymag.xml)                                                              |
+| Twitter handle | [@NYMag](https://www.twitter.com/NYMag)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 
-The archiving routine has captured 43 screenshots stored at the Internet Archive.
+The archiving routine has captured 44 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

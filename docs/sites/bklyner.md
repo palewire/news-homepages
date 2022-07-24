@@ -9,15 +9,16 @@ orphan: true
 
 ![Bklyner](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bklyner.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://bklyner.com/](https://bklyner.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bklyner.xml) |
-| Twitter handle | [@bklyner](https://www.twitter.com/bklyner)                     |
-| Location       | Brooklyn                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://bklyner.com/](https://bklyner.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bklyner.xml)                                                              |
+| Twitter handle | [@bklyner](https://www.twitter.com/bklyner)                                                                                  |
+| Location       | Brooklyn                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 
-The archiving routine has captured 96 screenshots stored at the Internet Archive.
+The archiving routine has captured 97 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

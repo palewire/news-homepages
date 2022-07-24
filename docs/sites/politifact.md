@@ -5,19 +5,20 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# Politifact 
+# Politifact
 
 ![Politifact ](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politifact.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.politifact.com/](https://www.politifact.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/politifact.xml) |
-| Twitter handle | [@PolitiFact](https://www.twitter.com/PolitiFact)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.politifact.com/](https://www.politifact.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/politifact.xml)                                                              |
+| Twitter handle | [@PolitiFact](https://www.twitter.com/PolitiFact)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/capitol-hill.html">Capitol Hill</a>  |
 
-The archiving routine has captured 74 screenshots stored at the Internet Archive.
+The archiving routine has captured 75 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Dubuque Telegraph Herald](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/telegraphherald.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.telegraphherald.com/](https://www.telegraphherald.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/telegraphherald.xml) |
-| Twitter handle | [@TelegraphHerald](https://www.twitter.com/TelegraphHerald)                     |
-| Location       | Dubuque                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.telegraphherald.com/](https://www.telegraphherald.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/telegraphherald.xml)                                                              |
+| Twitter handle | [@TelegraphHerald](https://www.twitter.com/TelegraphHerald)                                                                                  |
+| Location       | Dubuque                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
-The archiving routine has captured 184 screenshots stored at the Internet Archive.
+The archiving routine has captured 185 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

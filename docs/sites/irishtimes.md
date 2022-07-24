@@ -9,15 +9,16 @@ orphan: true
 
 ![Irish Times](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/irishtimes.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.irishtimes.com/](https://www.irishtimes.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/irishtimes.xml) |
-| Twitter handle | [@IrishTimes](https://www.twitter.com/IrishTimes)                     |
-| Location       | Dublin                                                                 |
-| Timezone       | Europe/Dublin                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.irishtimes.com/](https://www.irishtimes.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/irishtimes.xml)                                                              |
+| Twitter handle | [@IrishTimes](https://www.twitter.com/IrishTimes)                                                                                  |
+| Location       | Dublin                                                                                                                              |
+| Timezone       | Europe/Dublin                                                                                                                              |
+| Bundles        | <a href="../bundles/ireland.html">Ireland</a>  |
 
-The archiving routine has captured 12 screenshots stored at the Internet Archive.
+The archiving routine has captured 13 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

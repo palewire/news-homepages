@@ -9,15 +9,16 @@ orphan: true
 
 ![Trace](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/teamtrace.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.thetrace.org/](https://www.thetrace.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/teamtrace.xml) |
-| Twitter handle | [@teamtrace](https://www.twitter.com/teamtrace)                     |
-| Location       | Brooklyn                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.thetrace.org/](https://www.thetrace.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/teamtrace.xml)                                                              |
+| Twitter handle | [@teamtrace](https://www.twitter.com/teamtrace)                                                                                  |
+| Location       | Brooklyn                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 29 screenshots stored at the Internet Archive.
+The archiving routine has captured 30 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Canopy Atlanta](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/canopyatl.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [http://canopyatlanta.org/](http://canopyatlanta.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/canopyatl.xml) |
-| Twitter handle | [@canopyatl](https://www.twitter.com/canopyatl)                     |
-| Location       | Atlanta                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [http://canopyatlanta.org/](http://canopyatlanta.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/canopyatl.xml)                                                              |
+| Twitter handle | [@canopyatl](https://www.twitter.com/canopyatl)                                                                                  |
+| Location       | Atlanta                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
-The archiving routine has captured 32 screenshots stored at the Internet Archive.
+The archiving routine has captured 33 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

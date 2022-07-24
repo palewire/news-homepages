@@ -9,15 +9,16 @@ orphan: true
 
 ![Gizmodo](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gizmodo.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://gizmodo.com/](https://gizmodo.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gizmodo.xml) |
-| Twitter handle | [@gizmodo](https://www.twitter.com/gizmodo)                     |
-| Location       | San Francisco                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://gizmodo.com/](https://gizmodo.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gizmodo.xml)                                                              |
+| Twitter handle | [@gizmodo](https://www.twitter.com/gizmodo)                                                                                  |
+| Location       | San Francisco                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
-The archiving routine has captured 53 screenshots stored at the Internet Archive.
+The archiving routine has captured 55 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

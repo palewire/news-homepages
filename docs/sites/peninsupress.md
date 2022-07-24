@@ -9,15 +9,16 @@ orphan: true
 
 ![Peninsula Press](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/peninsupress.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://peninsulapress.com/](https://peninsulapress.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/peninsupress.xml) |
-| Twitter handle | [@PeninsuPress](https://www.twitter.com/PeninsuPress)                     |
-| Location       | Palo Alto                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://peninsulapress.com/](https://peninsulapress.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/peninsupress.xml)                                                              |
+| Twitter handle | [@PeninsuPress](https://www.twitter.com/PeninsuPress)                                                                                  |
+| Location       | Palo Alto                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/bay-area.html">California Bay Area</a>  |
 
-The archiving routine has captured 67 screenshots stored at the Internet Archive.
+The archiving routine has captured 68 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

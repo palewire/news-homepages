@@ -9,15 +9,16 @@ orphan: true
 
 ![Centro de Periodismo Investigativo](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cpipr.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://periodismoinvestigativo.com/](https://periodismoinvestigativo.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/cpipr.xml) |
-| Twitter handle | [@cpipr](https://www.twitter.com/cpipr)                     |
-| Location       | San Juan                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://periodismoinvestigativo.com/](https://periodismoinvestigativo.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/cpipr.xml)                                                              |
+| Twitter handle | [@cpipr](https://www.twitter.com/cpipr)                                                                                  |
+| Location       | San Juan                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

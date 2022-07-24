@@ -9,15 +9,16 @@ orphan: true
 
 ![Documented](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/documentedny.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://documentedny.com/](https://documentedny.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/documentedny.xml) |
-| Twitter handle | [@documentedny](https://www.twitter.com/documentedny)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://documentedny.com/](https://documentedny.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/documentedny.xml)                                                              |
+| Twitter handle | [@documentedny](https://www.twitter.com/documentedny)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 
-The archiving routine has captured 33 screenshots stored at the Internet Archive.
+The archiving routine has captured 35 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

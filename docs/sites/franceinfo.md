@@ -9,15 +9,16 @@ orphan: true
 
 ![franceinfo](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/franceinfo.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.francetvinfo.fr/](https://www.francetvinfo.fr/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/franceinfo.xml) |
-| Twitter handle | [@franceinfo](https://www.twitter.com/franceinfo)                     |
-| Location       | Paris                                                                 |
-| Timezone       | Europe/Paris                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.francetvinfo.fr/](https://www.francetvinfo.fr/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/franceinfo.xml)                                                              |
+| Twitter handle | [@franceinfo](https://www.twitter.com/franceinfo)                                                                                  |
+| Location       | Paris                                                                                                                              |
+| Timezone       | Europe/Paris                                                                                                                              |
+| Bundles        | <a href="../bundles/france.html">France</a>  |
 
-The archiving routine has captured 202 screenshots stored at the Internet Archive.
+The archiving routine has captured 205 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![The Georgia Straight](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/georgiastraight.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.straight.com/](https://www.straight.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/georgiastraight.xml) |
-| Twitter handle | [@georgiastraight](https://www.twitter.com/georgiastraight)                     |
-| Location       | Vancouver                                                                 |
-| Timezone       | America/Vancouver                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.straight.com/](https://www.straight.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/georgiastraight.xml)                                                              |
+| Twitter handle | [@georgiastraight](https://www.twitter.com/georgiastraight)                                                                                  |
+| Location       | Vancouver                                                                                                                              |
+| Timezone       | America/Vancouver                                                                                                                              |
+| Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
-The archiving routine has captured 65 screenshots stored at the Internet Archive.
+The archiving routine has captured 67 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

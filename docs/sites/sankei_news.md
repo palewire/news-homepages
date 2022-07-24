@@ -9,15 +9,16 @@ orphan: true
 
 ![Sankei Shimbun](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sankei_news.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.sankei.com/](https://www.sankei.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sankei_news.xml) |
-| Twitter handle | [@Sankei_news](https://www.twitter.com/Sankei_news)                     |
-| Location       | Tokyo                                                                 |
-| Timezone       | Asia/Tokyo                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.sankei.com/](https://www.sankei.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sankei_news.xml)                                                              |
+| Twitter handle | [@Sankei_news](https://www.twitter.com/Sankei_news)                                                                                  |
+| Location       | Tokyo                                                                                                                              |
+| Timezone       | Asia/Tokyo                                                                                                                              |
+| Bundles        | <a href="../bundles/japan.html">Japan</a>  |
 
-The archiving routine has captured 46 screenshots stored at the Internet Archive.
+The archiving routine has captured 48 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![National Geographic](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/natgeo.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.nationalgeographic.com/](https://www.nationalgeographic.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/natgeo.xml) |
-| Twitter handle | [@NatGeo](https://www.twitter.com/NatGeo)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.nationalgeographic.com/](https://www.nationalgeographic.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/natgeo.xml)                                                              |
+| Twitter handle | [@NatGeo](https://www.twitter.com/NatGeo)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

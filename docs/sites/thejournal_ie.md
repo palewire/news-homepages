@@ -9,15 +9,16 @@ orphan: true
 
 ![Journal.ie](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thejournal_ie.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.thejournal.ie/](https://www.thejournal.ie/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thejournal_ie.xml) |
-| Twitter handle | [@thejournal_ie](https://www.twitter.com/thejournal_ie)                     |
-| Location       | Dublin                                                                 |
-| Timezone       | Europe/Dublin                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.thejournal.ie/](https://www.thejournal.ie/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thejournal_ie.xml)                                                              |
+| Twitter handle | [@thejournal_ie](https://www.twitter.com/thejournal_ie)                                                                                  |
+| Location       | Dublin                                                                                                                              |
+| Timezone       | Europe/Dublin                                                                                                                              |
+| Bundles        | <a href="../bundles/ireland.html">Ireland</a>  |
 
-The archiving routine has captured 12 screenshots stored at the Internet Archive.
+The archiving routine has captured 13 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

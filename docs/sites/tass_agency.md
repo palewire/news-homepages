@@ -9,15 +9,16 @@ orphan: true
 
 ![TASS](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tass_agency.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://tass.ru/](https://tass.ru/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tass_agency.xml) |
-| Twitter handle | [@tass_agency](https://www.twitter.com/tass_agency)                     |
-| Location       | Moscow                                                                 |
-| Timezone       | Europe/Moscow                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://tass.ru/](https://tass.ru/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tass_agency.xml)                                                              |
+| Twitter handle | [@tass_agency](https://www.twitter.com/tass_agency)                                                                                  |
+| Location       | Moscow                                                                                                                              |
+| Timezone       | Europe/Moscow                                                                                                                              |
+| Bundles        | <a href="../bundles/russia.html">Russia</a>  |
 
-The archiving routine has captured 23 screenshots stored at the Internet Archive.
+The archiving routine has captured 25 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

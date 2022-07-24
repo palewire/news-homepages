@@ -9,15 +9,16 @@ orphan: true
 
 ![Al Jazeera English](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ajenglish.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.aljazeera.com/](https://www.aljazeera.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ajenglish.xml) |
-| Twitter handle | [@AJEnglish](https://www.twitter.com/AJEnglish)                     |
-| Location       | Doha                                                                 |
-| Timezone       | Asia/Qatar                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.aljazeera.com/](https://www.aljazeera.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ajenglish.xml)                                                              |
+| Twitter handle | [@AJEnglish](https://www.twitter.com/AJEnglish)                                                                                  |
+| Location       | Doha                                                                                                                              |
+| Timezone       | Asia/Qatar                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 76 screenshots stored at the Internet Archive.
+The archiving routine has captured 77 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

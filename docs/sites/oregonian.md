@@ -9,15 +9,16 @@ orphan: true
 
 ![Oregonian](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oregonian.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.oregonlive.com/](https://www.oregonlive.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/oregonian.xml) |
-| Twitter handle | [@Oregonian](https://www.twitter.com/Oregonian)                     |
-| Location       | Portland                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.oregonlive.com/](https://www.oregonlive.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/oregonian.xml)                                                              |
+| Twitter handle | [@Oregonian](https://www.twitter.com/Oregonian)                                                                                  |
+| Location       | Portland                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/oregon.html">Oregon</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

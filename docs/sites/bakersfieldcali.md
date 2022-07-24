@@ -9,15 +9,16 @@ orphan: true
 
 ![Bakersfield Californian](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bakersfieldcali.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.bakersfield.com/](https://www.bakersfield.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bakersfieldcali.xml) |
-| Twitter handle | [@Bakersfieldcali](https://www.twitter.com/Bakersfieldcali)                     |
-| Location       | Bakersfield                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.bakersfield.com/](https://www.bakersfield.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bakersfieldcali.xml)                                                              |
+| Twitter handle | [@Bakersfieldcali](https://www.twitter.com/Bakersfieldcali)                                                                                  |
+| Location       | Bakersfield                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

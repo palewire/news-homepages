@@ -9,15 +9,16 @@ orphan: true
 
 ![Lenta.ru](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lentaruofficial.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://lenta.ru/](https://lenta.ru/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lentaruofficial.xml) |
-| Twitter handle | [@lentaruofficial](https://www.twitter.com/lentaruofficial)                     |
-| Location       | Moscow                                                                 |
-| Timezone       | Europe/Moscow                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://lenta.ru/](https://lenta.ru/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lentaruofficial.xml)                                                              |
+| Twitter handle | [@lentaruofficial](https://www.twitter.com/lentaruofficial)                                                                                  |
+| Location       | Moscow                                                                                                                              |
+| Timezone       | Europe/Moscow                                                                                                                              |
+| Bundles        | <a href="../bundles/russia.html">Russia</a>  |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 24 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

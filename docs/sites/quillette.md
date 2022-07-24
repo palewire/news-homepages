@@ -9,15 +9,16 @@ orphan: true
 
 ![Quillette](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/quillette.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://quillette.com/](https://quillette.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/quillette.xml) |
-| Twitter handle | [@Quillette](https://www.twitter.com/Quillette)                     |
-| Location       | London                                                                 |
-| Timezone       | Europe/London                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://quillette.com/](https://quillette.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/quillette.xml)                                                              |
+| Twitter handle | [@Quillette](https://www.twitter.com/Quillette)                                                                                  |
+| Location       | London                                                                                                                              |
+| Timezone       | Europe/London                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 12 screenshots stored at the Internet Archive.
+The archiving routine has captured 13 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![TPM](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tpm.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://talkingpointsmemo.com/?](https://talkingpointsmemo.com/?)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tpm.xml) |
-| Twitter handle | [@tpm](https://www.twitter.com/tpm)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://talkingpointsmemo.com/?](https://talkingpointsmemo.com/?)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tpm.xml)                                                              |
+| Twitter handle | [@tpm](https://www.twitter.com/tpm)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/capitol-hill.html">Capitol Hill</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![The Baltimore Sun](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoresun.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.baltimoresun.com/](https://www.baltimoresun.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimoresun.xml) |
-| Twitter handle | [@baltimoresun](https://www.twitter.com/baltimoresun)                     |
-| Location       | Baltimore                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.baltimoresun.com/](https://www.baltimoresun.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimoresun.xml)                                                              |
+| Twitter handle | [@baltimoresun](https://www.twitter.com/baltimoresun)                                                                                  |
+| Location       | Baltimore                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/maryland.html">Maryland</a>  |
 
-The archiving routine has captured 231 screenshots stored at the Internet Archive.
+The archiving routine has captured 233 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

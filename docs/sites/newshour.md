@@ -9,15 +9,16 @@ orphan: true
 
 ![PBS News Hour](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.pbs.org/newshour/](https://www.pbs.org/newshour/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/newshour.xml) |
-| Twitter handle | [@NewsHour](https://www.twitter.com/NewsHour)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.pbs.org/newshour/](https://www.pbs.org/newshour/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/newshour.xml)                                                              |
+| Twitter handle | [@NewsHour](https://www.twitter.com/NewsHour)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-national.html">U.S. national news</a>  |
 
-The archiving routine has captured 125 screenshots stored at the Internet Archive.
+The archiving routine has captured 126 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

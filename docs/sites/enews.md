@@ -9,15 +9,16 @@ orphan: true
 
 ![E!](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/enews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.eonline.com/](https://www.eonline.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/enews.xml) |
-| Twitter handle | [@enews](https://www.twitter.com/enews)                     |
-| Location       | Los Angeles                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.eonline.com/](https://www.eonline.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/enews.xml)                                                              |
+| Twitter handle | [@enews](https://www.twitter.com/enews)                                                                                  |
+| Location       | Los Angeles                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 40 screenshots stored at the Internet Archive.
+The archiving routine has captured 42 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![RIA Novosti](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rianru.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://ria.ru/](https://ria.ru/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rianru.xml) |
-| Twitter handle | [@rianru](https://www.twitter.com/rianru)                     |
-| Location       | Moscow                                                                 |
-| Timezone       | Europe/Moscow                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://ria.ru/](https://ria.ru/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rianru.xml)                                                              |
+| Twitter handle | [@rianru](https://www.twitter.com/rianru)                                                                                  |
+| Location       | Moscow                                                                                                                              |
+| Timezone       | Europe/Moscow                                                                                                                              |
+| Bundles        | <a href="../bundles/russia.html">Russia</a>  |
 
-The archiving routine has captured 119 screenshots stored at the Internet Archive.
+The archiving routine has captured 121 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

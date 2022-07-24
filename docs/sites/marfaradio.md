@@ -9,15 +9,16 @@ orphan: true
 
 ![Marfa Public Radio](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marfaradio.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://marfapublicradio.org/](https://marfapublicradio.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/marfaradio.xml) |
-| Twitter handle | [@MarfaRadio](https://www.twitter.com/MarfaRadio)                     |
-| Location       | Marfa                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://marfapublicradio.org/](https://marfapublicradio.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/marfaradio.xml)                                                              |
+| Twitter handle | [@MarfaRadio](https://www.twitter.com/MarfaRadio)                                                                                  |
+| Location       | Marfa                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

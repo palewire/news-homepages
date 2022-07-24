@@ -9,15 +9,16 @@ orphan: true
 
 ![Yomiuri shinbun](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jn_japanese.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.yomiuri.co.jp/](https://www.yomiuri.co.jp/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jn_japanese.xml) |
-| Twitter handle | [@JN_Japanese](https://www.twitter.com/JN_Japanese)                     |
-| Location       | Tokyo                                                                 |
-| Timezone       | Asia/Tokyo                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.yomiuri.co.jp/](https://www.yomiuri.co.jp/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jn_japanese.xml)                                                              |
+| Twitter handle | [@JN_Japanese](https://www.twitter.com/JN_Japanese)                                                                                  |
+| Location       | Tokyo                                                                                                                              |
+| Timezone       | Asia/Tokyo                                                                                                                              |
+| Bundles        | <a href="../bundles/japan.html">Japan</a>  |
 
-The archiving routine has captured 46 screenshots stored at the Internet Archive.
+The archiving routine has captured 48 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

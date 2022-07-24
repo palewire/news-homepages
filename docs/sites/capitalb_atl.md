@@ -9,15 +9,16 @@ orphan: true
 
 ![Capital B Atlanta](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capitalb_atl.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://atlanta.capitalbnews.org/](https://atlanta.capitalbnews.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/capitalb_atl.xml) |
-| Twitter handle | [@CapitalB_ATL](https://www.twitter.com/CapitalB_ATL)                     |
-| Location       | Atlanta                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://atlanta.capitalbnews.org/](https://atlanta.capitalbnews.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/capitalb_atl.xml)                                                              |
+| Twitter handle | [@CapitalB_ATL](https://www.twitter.com/CapitalB_ATL)                                                                                  |
+| Location       | Atlanta                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
-The archiving routine has captured 8 screenshots stored at the Internet Archive.
+The archiving routine has captured 9 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

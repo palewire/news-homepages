@@ -9,15 +9,16 @@ orphan: true
 
 ![Ames Tribune](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amestribnews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.amestrib.com/](https://www.amestrib.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/amestribnews.xml) |
-| Twitter handle | [@AmesTribNews](https://www.twitter.com/AmesTribNews)                     |
-| Location       | Ames                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.amestrib.com/](https://www.amestrib.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/amestribnews.xml)                                                              |
+| Twitter handle | [@AmesTribNews](https://www.twitter.com/AmesTribNews)                                                                                  |
+| Location       | Ames                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
-The archiving routine has captured 103 screenshots stored at the Internet Archive.
+The archiving routine has captured 104 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

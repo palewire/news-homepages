@@ -9,15 +9,16 @@ orphan: true
 
 ![Capitol News Illinois](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capitolnewsil.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.capitolnewsillinois.com/](https://www.capitolnewsillinois.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/capitolnewsil.xml) |
-| Twitter handle | [@CapitolNewsIL](https://www.twitter.com/CapitolNewsIL)                     |
-| Location       | Springfield                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.capitolnewsillinois.com/](https://www.capitolnewsillinois.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/capitolnewsil.xml)                                                              |
+| Twitter handle | [@CapitolNewsIL](https://www.twitter.com/CapitolNewsIL)                                                                                  |
+| Location       | Springfield                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

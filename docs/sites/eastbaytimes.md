@@ -9,15 +9,16 @@ orphan: true
 
 ![East Bay Times](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eastbaytimes.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.eastbaytimes.com/](https://www.eastbaytimes.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/eastbaytimes.xml) |
-| Twitter handle | [@EastBayTimes](https://www.twitter.com/EastBayTimes)                     |
-| Location       | Walnut Creek                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.eastbaytimes.com/](https://www.eastbaytimes.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/eastbaytimes.xml)                                                              |
+| Twitter handle | [@EastBayTimes](https://www.twitter.com/EastBayTimes)                                                                                  |
+| Location       | Walnut Creek                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/bay-area.html">California Bay Area</a>  |
 
-The archiving routine has captured 217 screenshots stored at the Internet Archive.
+The archiving routine has captured 219 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Vanity Fair](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vanityfair.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.vanityfair.com/](https://www.vanityfair.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/vanityfair.xml) |
-| Twitter handle | [@VanityFair](https://www.twitter.com/VanityFair)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.vanityfair.com/](https://www.vanityfair.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/vanityfair.xml)                                                              |
+| Twitter handle | [@VanityFair](https://www.twitter.com/VanityFair)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 38 screenshots stored at the Internet Archive.
+The archiving routine has captured 39 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

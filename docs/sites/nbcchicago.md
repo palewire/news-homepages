@@ -9,15 +9,16 @@ orphan: true
 
 ![NBC Chicago](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcchicago.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.nbcchicago.com/](https://www.nbcchicago.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcchicago.xml) |
-| Twitter handle | [@nbcchicago](https://www.twitter.com/nbcchicago)                     |
-| Location       | Chicago                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.nbcchicago.com/](https://www.nbcchicago.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcchicago.xml)                                                              |
+| Twitter handle | [@nbcchicago](https://www.twitter.com/nbcchicago)                                                                                  |
+| Location       | Chicago                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
 
-The archiving routine has captured 60 screenshots stored at the Internet Archive.
+The archiving routine has captured 61 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Indian Country Today](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/indiancountry.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://indiancountrytoday.com/](https://indiancountrytoday.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/indiancountry.xml) |
-| Twitter handle | [@IndianCountry](https://www.twitter.com/IndianCountry)                     |
-| Location       | Phoenix                                                                 |
-| Timezone       | America/Phoenix                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://indiancountrytoday.com/](https://indiancountrytoday.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/indiancountry.xml)                                                              |
+| Twitter handle | [@IndianCountry](https://www.twitter.com/IndianCountry)                                                                                  |
+| Location       | Phoenix                                                                                                                              |
+| Timezone       | America/Phoenix                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 29 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

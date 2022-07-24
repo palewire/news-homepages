@@ -9,15 +9,16 @@ orphan: true
 
 ![Discovery](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/discovery.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.discovery.com/](https://www.discovery.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/discovery.xml) |
-| Twitter handle | [@Discovery](https://www.twitter.com/Discovery)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.discovery.com/](https://www.discovery.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/discovery.xml)                                                              |
+| Twitter handle | [@Discovery](https://www.twitter.com/Discovery)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 41 screenshots stored at the Internet Archive.
+The archiving routine has captured 43 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

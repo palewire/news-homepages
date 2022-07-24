@@ -9,15 +9,16 @@ orphan: true
 
 ![Grist](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/grist.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://grist.org/](https://grist.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/grist.xml) |
-| Twitter handle | [@grist](https://www.twitter.com/grist)                     |
-| Location       | Seattle                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://grist.org/](https://grist.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/grist.xml)                                                              |
+| Twitter handle | [@grist](https://www.twitter.com/grist)                                                                                  |
+| Location       | Seattle                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

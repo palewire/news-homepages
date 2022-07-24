@@ -9,15 +9,16 @@ orphan: true
 
 ![SCOTUS Blog](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scotusblog.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.scotusblog.com/](https://www.scotusblog.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/scotusblog.xml) |
-| Twitter handle | [@SCOTUSblog](https://www.twitter.com/SCOTUSblog)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.scotusblog.com/](https://www.scotusblog.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/scotusblog.xml)                                                              |
+| Twitter handle | [@SCOTUSblog](https://www.twitter.com/SCOTUSblog)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/capitol-hill.html">Capitol Hill</a>  |
 
-The archiving routine has captured 71 screenshots stored at the Internet Archive.
+The archiving routine has captured 72 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

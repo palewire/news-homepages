@@ -9,15 +9,16 @@ orphan: true
 
 ![More Perfect Union](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/moreperfectus.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://perfectunion.us/](https://perfectunion.us/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/moreperfectus.xml) |
-| Twitter handle | [@MorePerfectUS](https://www.twitter.com/MorePerfectUS)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://perfectunion.us/](https://perfectunion.us/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/moreperfectus.xml)                                                              |
+| Twitter handle | [@MorePerfectUS](https://www.twitter.com/MorePerfectUS)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 
-The archiving routine has captured 3 screenshots stored at the Internet Archive.
+The archiving routine has captured 4 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

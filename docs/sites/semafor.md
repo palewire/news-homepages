@@ -9,15 +9,16 @@ orphan: true
 
 ![Semafor](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/semafor.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.semafor.com/](https://www.semafor.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/semafor.xml) |
-| Twitter handle | [@semafor](https://www.twitter.com/semafor)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.semafor.com/](https://www.semafor.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/semafor.xml)                                                              |
+| Twitter handle | [@semafor](https://www.twitter.com/semafor)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 72 screenshots stored at the Internet Archive.
+The archiving routine has captured 73 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

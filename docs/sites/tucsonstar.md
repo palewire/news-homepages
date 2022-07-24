@@ -9,15 +9,16 @@ orphan: true
 
 ![Arizona Daily Star](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonstar.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://tucson.com/](https://tucson.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tucsonstar.xml) |
-| Twitter handle | [@TucsonStar](https://www.twitter.com/TucsonStar)                     |
-| Location       | Tucson                                                                 |
-| Timezone       | America/Phoenix                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://tucson.com/](https://tucson.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tucsonstar.xml)                                                              |
+| Twitter handle | [@TucsonStar](https://www.twitter.com/TucsonStar)                                                                                  |
+| Location       | Tucson                                                                                                                              |
+| Timezone       | America/Phoenix                                                                                                                              |
+| Bundles        | <a href="../bundles/arizona.html">Arizona</a>  |
 
-The archiving routine has captured 37 screenshots stored at the Internet Archive.
+The archiving routine has captured 38 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

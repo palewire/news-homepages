@@ -9,15 +9,16 @@ orphan: true
 
 ![Roll Call](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollcall.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://rollcall.com/](https://rollcall.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rollcall.xml) |
-| Twitter handle | [@rollcall](https://www.twitter.com/rollcall)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://rollcall.com/](https://rollcall.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rollcall.xml)                                                              |
+| Twitter handle | [@rollcall](https://www.twitter.com/rollcall)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/capitol-hill.html">Capitol Hill</a>  |
 
-The archiving routine has captured 38 screenshots stored at the Internet Archive.
+The archiving routine has captured 39 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

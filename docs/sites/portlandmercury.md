@@ -9,13 +9,14 @@ orphan: true
 
 ![Portland Mercury](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/portlandmercury.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.portlandmercury.com/](https://www.portlandmercury.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/portlandmercury.xml) |
-| Twitter handle | [@portlandmercury](https://www.twitter.com/portlandmercury)                     |
-| Location       | Portland                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.portlandmercury.com/](https://www.portlandmercury.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/portlandmercury.xml)                                                              |
+| Twitter handle | [@portlandmercury](https://www.twitter.com/portlandmercury)                                                                                  |
+| Location       | Portland                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/oregon.html">Oregon</a>  |
 
 The archiving routine has captured 28 screenshots stored at the Internet Archive.
 

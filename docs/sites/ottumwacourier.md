@@ -9,15 +9,16 @@ orphan: true
 
 ![Ottumwa Courier](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottumwacourier.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.ottumwacourier.com/](https://www.ottumwacourier.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ottumwacourier.xml) |
-| Twitter handle | [@OttumwaCourier](https://www.twitter.com/OttumwaCourier)                     |
-| Location       | Ottumwa                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.ottumwacourier.com/](https://www.ottumwacourier.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ottumwacourier.xml)                                                              |
+| Twitter handle | [@OttumwaCourier](https://www.twitter.com/OttumwaCourier)                                                                                  |
+| Location       | Ottumwa                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
-The archiving routine has captured 81 screenshots stored at the Internet Archive.
+The archiving routine has captured 82 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Le Figaro](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/le_figaro.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.lefigaro.fr/](https://www.lefigaro.fr/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/le_figaro.xml) |
-| Twitter handle | [@Le_Figaro](https://www.twitter.com/Le_Figaro)                     |
-| Location       | Paris                                                                 |
-| Timezone       | Europe/Paris                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.lefigaro.fr/](https://www.lefigaro.fr/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/le_figaro.xml)                                                              |
+| Twitter handle | [@Le_Figaro](https://www.twitter.com/Le_Figaro)                                                                                  |
+| Location       | Paris                                                                                                                              |
+| Timezone       | Europe/Paris                                                                                                                              |
+| Bundles        | <a href="../bundles/france.html">France</a>  |
 
-The archiving routine has captured 203 screenshots stored at the Internet Archive.
+The archiving routine has captured 205 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

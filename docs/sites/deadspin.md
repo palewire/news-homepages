@@ -9,15 +9,16 @@ orphan: true
 
 ![Deadspin](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/deadspin.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://deadspin.com/](https://deadspin.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/deadspin.xml) |
-| Twitter handle | [@Deadspin](https://www.twitter.com/Deadspin)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://deadspin.com/](https://deadspin.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/deadspin.xml)                                                              |
+| Twitter handle | [@Deadspin](https://www.twitter.com/Deadspin)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/sports.html">Sports</a>  |
 
-The archiving routine has captured 40 screenshots stored at the Internet Archive.
+The archiving routine has captured 42 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

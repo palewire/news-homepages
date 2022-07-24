@@ -9,15 +9,16 @@ orphan: true
 
 ![San Antonio Express-News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/expressnews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.expressnews.com/](https://www.expressnews.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/expressnews.xml) |
-| Twitter handle | [@ExpressNews](https://www.twitter.com/ExpressNews)                     |
-| Location       | San Antonio                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.expressnews.com/](https://www.expressnews.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/expressnews.xml)                                                              |
+| Twitter handle | [@ExpressNews](https://www.twitter.com/ExpressNews)                                                                                  |
+| Location       | San Antonio                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 40 screenshots stored at the Internet Archive.
+The archiving routine has captured 42 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

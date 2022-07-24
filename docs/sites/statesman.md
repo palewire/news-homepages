@@ -9,15 +9,16 @@ orphan: true
 
 ![Austin Statesman](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/statesman.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.statesman.com/](https://www.statesman.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/statesman.xml) |
-| Twitter handle | [@statesman](https://www.twitter.com/statesman)                     |
-| Location       | Austin                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.statesman.com/](https://www.statesman.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/statesman.xml)                                                              |
+| Twitter handle | [@statesman](https://www.twitter.com/statesman)                                                                                  |
+| Location       | Austin                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

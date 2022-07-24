@@ -9,15 +9,16 @@ orphan: true
 
 ![Beaumont Enterprise](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bmtenterprise.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.beaumontenterprise.com/](https://www.beaumontenterprise.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bmtenterprise.xml) |
-| Twitter handle | [@BmtEnterprise](https://www.twitter.com/BmtEnterprise)                     |
-| Location       | Beaumont                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.beaumontenterprise.com/](https://www.beaumontenterprise.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bmtenterprise.xml)                                                              |
+| Twitter handle | [@BmtEnterprise](https://www.twitter.com/BmtEnterprise)                                                                                  |
+| Location       | Beaumont                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Central Oregon Daily](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/codaily.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://centraloregondaily.com/](https://centraloregondaily.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/codaily.xml) |
-| Twitter handle | [@CODaily](https://www.twitter.com/CODaily)                     |
-| Location       | Bend                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://centraloregondaily.com/](https://centraloregondaily.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/codaily.xml)                                                              |
+| Twitter handle | [@CODaily](https://www.twitter.com/CODaily)                                                                                  |
+| Location       | Bend                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/oregon.html">Oregon</a>  |
 
-The archiving routine has captured 41 screenshots stored at the Internet Archive.
+The archiving routine has captured 42 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

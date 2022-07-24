@@ -9,15 +9,16 @@ orphan: true
 
 ![NRK](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nrk.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.nrk.no/](https://www.nrk.no/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nrk.xml) |
-| Twitter handle | [@NRK](https://www.twitter.com/NRK)                     |
-| Location       | Oslo                                                                 |
-| Timezone       | Europe/Oslo                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.nrk.no/](https://www.nrk.no/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nrk.xml)                                                              |
+| Twitter handle | [@NRK](https://www.twitter.com/NRK)                                                                                  |
+| Location       | Oslo                                                                                                                              |
+| Timezone       | Europe/Oslo                                                                                                                              |
+| Bundles        | <a href="../bundles/norway.html">Norway</a>  |
 
-The archiving routine has captured 7 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

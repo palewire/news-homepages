@@ -9,15 +9,16 @@ orphan: true
 
 ![Ars Technica](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/arstechnica.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://arstechnica.com/](https://arstechnica.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/arstechnica.xml) |
-| Twitter handle | [@arstechnica](https://www.twitter.com/arstechnica)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://arstechnica.com/](https://arstechnica.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/arstechnica.xml)                                                              |
+| Twitter handle | [@arstechnica](https://www.twitter.com/arstechnica)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
-The archiving routine has captured 55 screenshots stored at the Internet Archive.
+The archiving routine has captured 56 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

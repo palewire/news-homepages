@@ -9,15 +9,16 @@ orphan: true
 
 ![KOMU](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/komunews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.komu.com/](https://www.komu.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/komunews.xml) |
-| Twitter handle | [@KOMUnews](https://www.twitter.com/KOMUnews)                     |
-| Location       | Columbia                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.komu.com/](https://www.komu.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/komunews.xml)                                                              |
+| Twitter handle | [@KOMUnews](https://www.twitter.com/KOMUnews)                                                                                  |
+| Location       | Columbia                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/missouri.html">Missouri</a>  |
 
-The archiving routine has captured 73 screenshots stored at the Internet Archive.
+The archiving routine has captured 74 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

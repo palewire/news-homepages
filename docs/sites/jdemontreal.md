@@ -9,15 +9,16 @@ orphan: true
 
 ![La Journal de Montréal](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jdemontreal.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.journaldemontreal.com/](https://www.journaldemontreal.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jdemontreal.xml) |
-| Twitter handle | [@jdemontreal](https://www.twitter.com/jdemontreal)                     |
-| Location       | Montreal                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.journaldemontreal.com/](https://www.journaldemontreal.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jdemontreal.xml)                                                              |
+| Twitter handle | [@jdemontreal](https://www.twitter.com/jdemontreal)                                                                                  |
+| Location       | Montreal                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
-The archiving routine has captured 65 screenshots stored at the Internet Archive.
+The archiving routine has captured 66 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

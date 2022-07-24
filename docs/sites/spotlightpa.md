@@ -9,15 +9,16 @@ orphan: true
 
 ![Spotlight PA](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spotlightpa.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.spotlightpa.org/](https://www.spotlightpa.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/spotlightpa.xml) |
-| Twitter handle | [@SpotlightPA](https://www.twitter.com/SpotlightPA)                     |
-| Location       | Harrisburg                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.spotlightpa.org/](https://www.spotlightpa.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/spotlightpa.xml)                                                              |
+| Twitter handle | [@SpotlightPA](https://www.twitter.com/SpotlightPA)                                                                                  |
+| Location       | Harrisburg                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Injustice Watch](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/injusticewatch.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.injusticewatch.org/](https://www.injusticewatch.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/injusticewatch.xml) |
-| Twitter handle | [@injusticewatch](https://www.twitter.com/injusticewatch)                     |
-| Location       | Chicago                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.injusticewatch.org/](https://www.injusticewatch.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/injusticewatch.xml)                                                              |
+| Twitter handle | [@injusticewatch](https://www.twitter.com/injusticewatch)                                                                                  |
+| Location       | Chicago                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
 
-The archiving routine has captured 43 screenshots stored at the Internet Archive.
+The archiving routine has captured 45 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

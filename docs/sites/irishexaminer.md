@@ -9,15 +9,16 @@ orphan: true
 
 ![Irish Examiner](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/irishexaminer.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.irishexaminer.com/](https://www.irishexaminer.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/irishexaminer.xml) |
-| Twitter handle | [@irishexaminer](https://www.twitter.com/irishexaminer)                     |
-| Location       | Dublin                                                                 |
-| Timezone       | Europe/Dublin                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.irishexaminer.com/](https://www.irishexaminer.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/irishexaminer.xml)                                                              |
+| Twitter handle | [@irishexaminer](https://www.twitter.com/irishexaminer)                                                                                  |
+| Location       | Dublin                                                                                                                              |
+| Timezone       | Europe/Dublin                                                                                                                              |
+| Bundles        | <a href="../bundles/ireland.html">Ireland</a>  |
 
-The archiving routine has captured 12 screenshots stored at the Internet Archive.
+The archiving routine has captured 13 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

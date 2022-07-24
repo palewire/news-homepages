@@ -9,15 +9,16 @@ orphan: true
 
 ![New York Post](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nypost.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://nypost.com/](https://nypost.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nypost.xml) |
-| Twitter handle | [@nypost](https://www.twitter.com/nypost)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://nypost.com/](https://nypost.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nypost.xml)                                                              |
+| Twitter handle | [@nypost](https://www.twitter.com/nypost)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 
-The archiving routine has captured 43 screenshots stored at the Internet Archive.
+The archiving routine has captured 44 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

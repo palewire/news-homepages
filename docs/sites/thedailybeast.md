@@ -9,15 +9,16 @@ orphan: true
 
 ![Daily Beast](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailybeast.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.thedailybeast.com/](https://www.thedailybeast.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailybeast.xml) |
-| Twitter handle | [@thedailybeast](https://www.twitter.com/thedailybeast)                     |
-| Location       | New York City                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.thedailybeast.com/](https://www.thedailybeast.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailybeast.xml)                                                              |
+| Twitter handle | [@thedailybeast](https://www.twitter.com/thedailybeast)                                                                                  |
+| Location       | New York City                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 1 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

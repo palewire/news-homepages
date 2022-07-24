@@ -9,15 +9,16 @@ orphan: true
 
 ![Oklahoma Watch](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oklahomawatch.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://oklahomawatch.org/](https://oklahomawatch.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/oklahomawatch.xml) |
-| Twitter handle | [@OklahomaWatch](https://www.twitter.com/OklahomaWatch)                     |
-| Location       | Oklahoma City                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://oklahomawatch.org/](https://oklahomawatch.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/oklahomawatch.xml)                                                              |
+| Twitter handle | [@OklahomaWatch](https://www.twitter.com/OklahomaWatch)                                                                                  |
+| Location       | Oklahoma City                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Fort Worth Star-Telegram](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startelegram.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.star-telegram.com/](https://www.star-telegram.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/startelegram.xml) |
-| Twitter handle | [@startelegram](https://www.twitter.com/startelegram)                     |
-| Location       | Fort Worth                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.star-telegram.com/](https://www.star-telegram.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/startelegram.xml)                                                              |
+| Twitter handle | [@startelegram](https://www.twitter.com/startelegram)                                                                                  |
+| Location       | Fort Worth                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

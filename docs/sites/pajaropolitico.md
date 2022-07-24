@@ -9,15 +9,16 @@ orphan: true
 
 ![Animal Político](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pajaropolitico.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.animalpolitico.com/](https://www.animalpolitico.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/pajaropolitico.xml) |
-| Twitter handle | [@Pajaropolitico](https://www.twitter.com/Pajaropolitico)                     |
-| Location       | Mexico City                                                                 |
-| Timezone       | America/Mexico_City                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.animalpolitico.com/](https://www.animalpolitico.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/pajaropolitico.xml)                                                              |
+| Twitter handle | [@Pajaropolitico](https://www.twitter.com/Pajaropolitico)                                                                                  |
+| Location       | Mexico City                                                                                                                              |
+| Timezone       | America/Mexico_City                                                                                                                              |
+| Bundles        | <a href="../bundles/mexico.html">Mexico</a>  |
 
-The archiving routine has captured 450 screenshots stored at the Internet Archive.
+The archiving routine has captured 451 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

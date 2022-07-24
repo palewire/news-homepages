@@ -9,15 +9,16 @@ orphan: true
 
 ![Charlotte Observer](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theobserver.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.charlotteobserver.com/](https://www.charlotteobserver.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theobserver.xml) |
-| Twitter handle | [@theobserver](https://www.twitter.com/theobserver)                     |
-| Location       | Charlotte                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.charlotteobserver.com/](https://www.charlotteobserver.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theobserver.xml)                                                              |
+| Twitter handle | [@theobserver](https://www.twitter.com/theobserver)                                                                                  |
+| Location       | Charlotte                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/north-carolina.html">North Carolina</a>  |
 
-The archiving routine has captured 29 screenshots stored at the Internet Archive.
+The archiving routine has captured 30 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

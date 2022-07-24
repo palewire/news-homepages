@@ -9,15 +9,16 @@ orphan: true
 
 ![John Combest](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/johncombest.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://johncombest.com/](https://johncombest.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/johncombest.xml) |
-| Twitter handle | [@johncombest](https://www.twitter.com/johncombest)                     |
-| Location       | Jefferson City                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://johncombest.com/](https://johncombest.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/johncombest.xml)                                                              |
+| Twitter handle | [@johncombest](https://www.twitter.com/johncombest)                                                                                  |
+| Location       | Jefferson City                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/missouri.html">Missouri</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

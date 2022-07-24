@@ -9,15 +9,16 @@ orphan: true
 
 ![Common Sense](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bariweiss.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.commonsense.news/](https://www.commonsense.news/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bariweiss.xml) |
-| Twitter handle | [@bariweiss](https://www.twitter.com/bariweiss)                     |
-| Location       | Los Angeles                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.commonsense.news/](https://www.commonsense.news/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bariweiss.xml)                                                              |
+| Twitter handle | [@bariweiss](https://www.twitter.com/bariweiss)                                                                                  |
+| Location       | Los Angeles                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
-The archiving routine has captured 19 screenshots stored at the Internet Archive.
+The archiving routine has captured 20 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

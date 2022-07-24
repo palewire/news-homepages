@@ -9,15 +9,16 @@ orphan: true
 
 ![National Catholic Reporter](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ncronline.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.ncronline.org/](https://www.ncronline.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ncronline.xml) |
-| Twitter handle | [@NCRonline](https://www.twitter.com/NCRonline)                     |
-| Location       | Kansas City                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.ncronline.org/](https://www.ncronline.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ncronline.xml)                                                              |
+| Twitter handle | [@NCRonline](https://www.twitter.com/NCRonline)                                                                                  |
+| Location       | Kansas City                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![TechCrunch](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techcrunch.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://techcrunch.com/](https://techcrunch.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/techcrunch.xml) |
-| Twitter handle | [@techcrunch](https://www.twitter.com/techcrunch)                     |
-| Location       | San Francisco                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://techcrunch.com/](https://techcrunch.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/techcrunch.xml)                                                              |
+| Twitter handle | [@techcrunch](https://www.twitter.com/techcrunch)                                                                                  |
+| Location       | San Francisco                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
-The archiving routine has captured 105 screenshots stored at the Internet Archive.
+The archiving routine has captured 106 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

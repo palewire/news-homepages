@@ -9,15 +9,16 @@ orphan: true
 
 ![ESPN](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/espn.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.espn.com/](https://www.espn.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/espn.xml) |
-| Twitter handle | [@espn](https://www.twitter.com/espn)                     |
-| Location       | Stamford                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.espn.com/](https://www.espn.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/espn.xml)                                                              |
+| Twitter handle | [@espn](https://www.twitter.com/espn)                                                                                  |
+| Location       | Stamford                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/sports.html">Sports</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 41 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

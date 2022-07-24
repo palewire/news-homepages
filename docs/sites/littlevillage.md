@@ -9,15 +9,16 @@ orphan: true
 
 ![Little Village](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/littlevillage.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://littlevillagemag.com/](https://littlevillagemag.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/littlevillage.xml) |
-| Twitter handle | [@LittleVillage](https://www.twitter.com/LittleVillage)                     |
-| Location       | Iowa City                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://littlevillagemag.com/](https://littlevillagemag.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/littlevillage.xml)                                                              |
+| Twitter handle | [@LittleVillage](https://www.twitter.com/LittleVillage)                                                                                  |
+| Location       | Iowa City                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
-The archiving routine has captured 80 screenshots stored at the Internet Archive.
+The archiving routine has captured 81 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![New Scientist](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newscientist.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.newscientist.com/](https://www.newscientist.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/newscientist.xml) |
-| Twitter handle | [@newscientist](https://www.twitter.com/newscientist)                     |
-| Location       | London                                                                 |
-| Timezone       | Europe/London                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.newscientist.com/](https://www.newscientist.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/newscientist.xml)                                                              |
+| Twitter handle | [@newscientist](https://www.twitter.com/newscientist)                                                                                  |
+| Location       | London                                                                                                                              |
+| Timezone       | Europe/London                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

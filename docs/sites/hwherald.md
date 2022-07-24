@@ -9,15 +9,16 @@ orphan: true
 
 ![Harvey World Herald](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hwherald.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://harveyworld.org/](https://harveyworld.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/hwherald.xml) |
-| Twitter handle | [@hwherald](https://www.twitter.com/hwherald)                     |
-| Location       | Harvey                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://harveyworld.org/](https://harveyworld.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/hwherald.xml)                                                              |
+| Twitter handle | [@hwherald](https://www.twitter.com/hwherald)                                                                                  |
+| Location       | Harvey                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 27 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![STAT](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/statnews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.statnews.com/](https://www.statnews.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/statnews.xml) |
-| Twitter handle | [@statnews](https://www.twitter.com/statnews)                     |
-| Location       | Boston                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.statnews.com/](https://www.statnews.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/statnews.xml)                                                              |
+| Twitter handle | [@statnews](https://www.twitter.com/statnews)                                                                                  |
+| Location       | Boston                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/science.html">Science</a>  |
 
-The archiving routine has captured 2 screenshots stored at the Internet Archive.
+The archiving routine has captured 3 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

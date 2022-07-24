@@ -9,15 +9,16 @@ orphan: true
 
 ![Arizona Daily Sun](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/azds.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://azdailysun.com/](https://azdailysun.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/azds.xml) |
-| Twitter handle | [@azds](https://www.twitter.com/azds)                     |
-| Location       | Flagstaff                                                                 |
-| Timezone       | America/Phoenix                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://azdailysun.com/](https://azdailysun.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/azds.xml)                                                              |
+| Twitter handle | [@azds](https://www.twitter.com/azds)                                                                                  |
+| Location       | Flagstaff                                                                                                                              |
+| Timezone       | America/Phoenix                                                                                                                              |
+| Bundles        | <a href="../bundles/arizona.html">Arizona</a>  |
 
-The archiving routine has captured 40 screenshots stored at the Internet Archive.
+The archiving routine has captured 41 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

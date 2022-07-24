@@ -91,7 +91,10 @@ def get_bundle(slug: str) -> typing.Dict:
     Returns a dictionary.
     """
     bundle_list = get_bundle_list()
-    return next(d for d in bundle_list if d["slug"].lower() == slug.lower())
+    try:
+        return next(d for d in bundle_list if d["slug"].lower() == slug.lower())
+    except StopIteration:
+        raise ValueError(f"The slug {slug} could not be found")
 
 
 def get_sites_in_bundle(slug: str) -> typing.List[typing.Dict]:

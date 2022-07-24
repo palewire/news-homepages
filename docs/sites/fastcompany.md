@@ -9,15 +9,16 @@ orphan: true
 
 ![Fast Company](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fastcompany.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.fastcompany.com/](https://www.fastcompany.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/fastcompany.xml) |
-| Twitter handle | [@fastcompany](https://www.twitter.com/fastcompany)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.fastcompany.com/](https://www.fastcompany.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/fastcompany.xml)                                                              |
+| Twitter handle | [@fastcompany](https://www.twitter.com/fastcompany)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 40 screenshots stored at the Internet Archive.
+The archiving routine has captured 42 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

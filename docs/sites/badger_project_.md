@@ -9,15 +9,16 @@ orphan: true
 
 ![Badger Project](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/badger_project_.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://thebadgerproject.org/](https://thebadgerproject.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/badger_project_.xml) |
-| Twitter handle | [@badger_project_](https://www.twitter.com/badger_project_)                     |
-| Location       | Madison                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://thebadgerproject.org/](https://thebadgerproject.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/badger_project_.xml)                                                              |
+| Twitter handle | [@badger_project_](https://www.twitter.com/badger_project_)                                                                                  |
+| Location       | Madison                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/wisconsin.html">Wisconsin</a>  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

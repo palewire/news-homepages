@@ -9,15 +9,16 @@ orphan: true
 
 ![Independent.ie](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/independent_ie.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.independent.ie/](https://www.independent.ie/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/independent_ie.xml) |
-| Twitter handle | [@Independent_ie](https://www.twitter.com/Independent_ie)                     |
-| Location       | Dublin                                                                 |
-| Timezone       | Europe/Dublin                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.independent.ie/](https://www.independent.ie/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/independent_ie.xml)                                                              |
+| Twitter handle | [@Independent_ie](https://www.twitter.com/Independent_ie)                                                                                  |
+| Location       | Dublin                                                                                                                              |
+| Timezone       | Europe/Dublin                                                                                                                              |
+| Bundles        | <a href="../bundles/ireland.html">Ireland</a>  |
 
-The archiving routine has captured 12 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

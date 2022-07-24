@@ -9,15 +9,16 @@ orphan: true
 
 ![Gothamist](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gothamist.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://gothamist.com/](https://gothamist.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gothamist.xml) |
-| Twitter handle | [@Gothamist](https://www.twitter.com/Gothamist)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://gothamist.com/](https://gothamist.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gothamist.xml)                                                              |
+| Twitter handle | [@Gothamist](https://www.twitter.com/Gothamist)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 
-The archiving routine has captured 43 screenshots stored at the Internet Archive.
+The archiving routine has captured 45 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

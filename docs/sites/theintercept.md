@@ -9,15 +9,16 @@ orphan: true
 
 ![Intercept](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theintercept.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://theintercept.com/](https://theintercept.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theintercept.xml) |
-| Twitter handle | [@theintercept](https://www.twitter.com/theintercept)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://theintercept.com/](https://theintercept.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theintercept.xml)                                                              |
+| Twitter handle | [@theintercept](https://www.twitter.com/theintercept)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 
-The archiving routine has captured 101 screenshots stored at the Internet Archive.
+The archiving routine has captured 102 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

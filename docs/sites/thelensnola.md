@@ -9,15 +9,16 @@ orphan: true
 
 ![Lens](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thelensnola.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [http://thelensnola.org/](http://thelensnola.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thelensnola.xml) |
-| Twitter handle | [@thelensNOLA](https://www.twitter.com/thelensNOLA)                     |
-| Location       | New Orleans                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [http://thelensnola.org/](http://thelensnola.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thelensnola.xml)                                                              |
+| Twitter handle | [@thelensNOLA](https://www.twitter.com/thelensNOLA)                                                                                  |
+| Location       | New Orleans                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

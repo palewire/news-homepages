@@ -9,15 +9,16 @@ orphan: true
 
 ![Ottawa Citizen](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottawacitizen.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://ottawacitizen.com/](https://ottawacitizen.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ottawacitizen.xml) |
-| Twitter handle | [@ottawacitizen](https://www.twitter.com/ottawacitizen)                     |
-| Location       | Ottawa                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://ottawacitizen.com/](https://ottawacitizen.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ottawacitizen.xml)                                                              |
+| Twitter handle | [@ottawacitizen](https://www.twitter.com/ottawacitizen)                                                                                  |
+| Location       | Ottawa                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
-The archiving routine has captured 65 screenshots stored at the Internet Archive.
+The archiving routine has captured 66 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

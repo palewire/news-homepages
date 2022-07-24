@@ -9,15 +9,16 @@ orphan: true
 
 ![Desert Oracle](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/desert_oracle.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.desertoracle.com/](https://www.desertoracle.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/desert_oracle.xml) |
-| Twitter handle | [@Desert_Oracle](https://www.twitter.com/Desert_Oracle)                     |
-| Location       | Joshua Tree                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.desertoracle.com/](https://www.desertoracle.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/desert_oracle.xml)                                                              |
+| Twitter handle | [@Desert_Oracle](https://www.twitter.com/Desert_Oracle)                                                                                  |
+| Location       | Joshua Tree                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 41 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

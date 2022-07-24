@@ -9,15 +9,16 @@ orphan: true
 
 ![Conversation U.S.](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/conversationus.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://theconversation.com/us](https://theconversation.com/us)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/conversationus.xml) |
-| Twitter handle | [@conversationus](https://www.twitter.com/conversationus)                     |
-| Location       | Waltham                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://theconversation.com/us](https://theconversation.com/us)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/conversationus.xml)                                                              |
+| Twitter handle | [@conversationus](https://www.twitter.com/conversationus)                                                                                  |
+| Location       | Waltham                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

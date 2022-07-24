@@ -9,15 +9,16 @@ orphan: true
 
 ![Las Vegas Review-Journal](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reviewjournal.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.reviewjournal.com/](https://www.reviewjournal.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/reviewjournal.xml) |
-| Twitter handle | [@reviewjournal](https://www.twitter.com/reviewjournal)                     |
-| Location       | Las Vegas                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.reviewjournal.com/](https://www.reviewjournal.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/reviewjournal.xml)                                                              |
+| Twitter handle | [@reviewjournal](https://www.twitter.com/reviewjournal)                                                                                  |
+| Location       | Las Vegas                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/las-vegas.html">Las Vegas</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

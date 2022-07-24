@@ -9,15 +9,16 @@ orphan: true
 
 ![Local News Matters](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [http://www.localnewsmatters.org/](http://www.localnewsmatters.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bcn_foundation.xml) |
-| Twitter handle | [@bcn_foundation](https://www.twitter.com/bcn_foundation)                     |
-| Location       | Berkeley                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [http://www.localnewsmatters.org/](http://www.localnewsmatters.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bcn_foundation.xml)                                                              |
+| Twitter handle | [@bcn_foundation](https://www.twitter.com/bcn_foundation)                                                                                  |
+| Location       | Berkeley                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/bay-area.html">California Bay Area</a>  |
 
-The archiving routine has captured 40 screenshots stored at the Internet Archive.
+The archiving routine has captured 41 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

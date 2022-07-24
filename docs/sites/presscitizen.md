@@ -9,15 +9,16 @@ orphan: true
 
 ![Iowa City Press-Citizen](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/presscitizen.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.press-citizen.com/](https://www.press-citizen.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/presscitizen.xml) |
-| Twitter handle | [@presscitizen](https://www.twitter.com/presscitizen)                     |
-| Location       | Iowa City                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.press-citizen.com/](https://www.press-citizen.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/presscitizen.xml)                                                              |
+| Twitter handle | [@presscitizen](https://www.twitter.com/presscitizen)                                                                                  |
+| Location       | Iowa City                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
-The archiving routine has captured 185 screenshots stored at the Internet Archive.
+The archiving routine has captured 186 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

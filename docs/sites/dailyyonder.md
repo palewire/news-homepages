@@ -9,15 +9,16 @@ orphan: true
 
 ![Daily Yonder](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyyonder.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.dailyyonder.com/](https://www.dailyyonder.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyyonder.xml) |
-| Twitter handle | [@dailyyonder](https://www.twitter.com/dailyyonder)                     |
-| Location       | Whitesburg                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.dailyyonder.com/](https://www.dailyyonder.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyyonder.xml)                                                              |
+| Twitter handle | [@dailyyonder](https://www.twitter.com/dailyyonder)                                                                                  |
+| Location       | Whitesburg                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 29 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

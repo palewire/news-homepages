@@ -9,15 +9,16 @@ orphan: true
 
 ![Prism](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/prismreports.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://prismreports.org/](https://prismreports.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/prismreports.xml) |
-| Twitter handle | [@prismreports](https://www.twitter.com/prismreports)                     |
-| Location       | Oakland                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://prismreports.org/](https://prismreports.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/prismreports.xml)                                                              |
+| Twitter handle | [@prismreports](https://www.twitter.com/prismreports)                                                                                  |
+| Location       | Oakland                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

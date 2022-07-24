@@ -9,15 +9,16 @@ orphan: true
 
 ![Atlanta Journal-Constitution](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ajc.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.ajc.com/](https://www.ajc.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ajc.xml) |
-| Twitter handle | [@ajc](https://www.twitter.com/ajc)                     |
-| Location       | Atlanta                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.ajc.com/](https://www.ajc.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ajc.xml)                                                              |
+| Twitter handle | [@ajc](https://www.twitter.com/ajc)                                                                                  |
+| Location       | Atlanta                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 33 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Georgia Public Broadcasting](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gpbnews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.gpb.org/news](https://www.gpb.org/news)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gpbnews.xml) |
-| Twitter handle | [@gpbnews](https://www.twitter.com/gpbnews)                     |
-| Location       | Atlanta                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.gpb.org/news](https://www.gpb.org/news)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gpbnews.xml)                                                              |
+| Twitter handle | [@gpbnews](https://www.twitter.com/gpbnews)                                                                                  |
+| Location       | Atlanta                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
-The archiving routine has captured 7 screenshots stored at the Internet Archive.
+The archiving routine has captured 9 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

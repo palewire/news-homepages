@@ -9,15 +9,16 @@ orphan: true
 
 ![Fortune](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fortunemagazine.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://fortune.com/](https://fortune.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/fortunemagazine.xml) |
-| Twitter handle | [@FortuneMagazine](https://www.twitter.com/FortuneMagazine)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://fortune.com/](https://fortune.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/fortunemagazine.xml)                                                              |
+| Twitter handle | [@FortuneMagazine](https://www.twitter.com/FortuneMagazine)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 90 screenshots stored at the Internet Archive.
+The archiving routine has captured 92 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

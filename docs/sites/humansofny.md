@@ -9,15 +9,16 @@ orphan: true
 
 ![Humans of New York](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humansofny.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.humansofnewyork.com/](https://www.humansofnewyork.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/humansofny.xml) |
-| Twitter handle | [@humansofny](https://www.twitter.com/humansofny)                     |
-| Location       | New York City                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.humansofnewyork.com/](https://www.humansofnewyork.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/humansofny.xml)                                                              |
+| Twitter handle | [@humansofny](https://www.twitter.com/humansofny)                                                                                  |
+| Location       | New York City                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 
-The archiving routine has captured 6 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

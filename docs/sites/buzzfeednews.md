@@ -9,15 +9,16 @@ orphan: true
 
 ![Buzzfeed News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/buzzfeednews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.buzzfeednews.com/](https://www.buzzfeednews.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/buzzfeednews.xml) |
-| Twitter handle | [@BuzzFeedNews](https://www.twitter.com/BuzzFeedNews)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.buzzfeednews.com/](https://www.buzzfeednews.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/buzzfeednews.xml)                                                              |
+| Twitter handle | [@BuzzFeedNews](https://www.twitter.com/BuzzFeedNews)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 96 screenshots stored at the Internet Archive.
+The archiving routine has captured 97 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

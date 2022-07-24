@@ -9,15 +9,16 @@ orphan: true
 
 ![Arkansas Nonprofit News Network](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/arknewsorg.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://arknews.org/](https://arknews.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/arknewsorg.xml) |
-| Twitter handle | [@ArkNewsOrg](https://www.twitter.com/ArkNewsOrg)                     |
-| Location       | Little Rock                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://arknews.org/](https://arknews.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/arknewsorg.xml)                                                              |
+| Twitter handle | [@ArkNewsOrg](https://www.twitter.com/ArkNewsOrg)                                                                                  |
+| Location       | Little Rock                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

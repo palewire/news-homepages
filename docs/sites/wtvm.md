@@ -9,15 +9,16 @@ orphan: true
 
 ![WTVM News Leader 9](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wtvm.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.wtvm.com](https://www.wtvm.com)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wtvm.xml) |
-| Twitter handle | [@WTVM](https://www.twitter.com/WTVM)                     |
-| Location       | Columbus                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.wtvm.com](https://www.wtvm.com)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wtvm.xml)                                                              |
+| Twitter handle | [@WTVM](https://www.twitter.com/WTVM)                                                                                  |
+| Location       | Columbus                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
-The archiving routine has captured 7 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

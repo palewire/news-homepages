@@ -9,15 +9,16 @@ orphan: true
 
 ![WJBF](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wjbf.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.wjbf.com](https://www.wjbf.com)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wjbf.xml) |
-| Twitter handle | [@WJBF](https://www.twitter.com/WJBF)                     |
-| Location       | Augusta                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.wjbf.com](https://www.wjbf.com)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wjbf.xml)                                                              |
+| Twitter handle | [@WJBF](https://www.twitter.com/WJBF)                                                                                  |
+| Location       | Augusta                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
-The archiving routine has captured 7 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

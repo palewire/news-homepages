@@ -9,15 +9,16 @@ orphan: true
 
 ![The Hill Times](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thehilltimes.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.hilltimes.com/](https://www.hilltimes.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thehilltimes.xml) |
-| Twitter handle | [@thehilltimes](https://www.twitter.com/thehilltimes)                     |
-| Location       | Ottawa                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.hilltimes.com/](https://www.hilltimes.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thehilltimes.xml)                                                              |
+| Twitter handle | [@thehilltimes](https://www.twitter.com/thehilltimes)                                                                                  |
+| Location       | Ottawa                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
-The archiving routine has captured 65 screenshots stored at the Internet Archive.
+The archiving routine has captured 66 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

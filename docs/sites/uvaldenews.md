@@ -9,15 +9,16 @@ orphan: true
 
 ![Uvalde News-Leader](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uvaldenews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.uvaldeleadernews.com/](https://www.uvaldeleadernews.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/uvaldenews.xml) |
-| Twitter handle | [@UvaldeNews](https://www.twitter.com/UvaldeNews)                     |
-| Location       | Uvalde                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.uvaldeleadernews.com/](https://www.uvaldeleadernews.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/uvaldenews.xml)                                                              |
+| Twitter handle | [@UvaldeNews](https://www.twitter.com/UvaldeNews)                                                                                  |
+| Location       | Uvalde                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

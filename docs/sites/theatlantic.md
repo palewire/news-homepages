@@ -9,15 +9,16 @@ orphan: true
 
 ![Atlantic](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theatlantic.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.theatlantic.com/](https://www.theatlantic.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theatlantic.xml) |
-| Twitter handle | [@TheAtlantic](https://www.twitter.com/TheAtlantic)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.theatlantic.com/](https://www.theatlantic.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theatlantic.xml)                                                              |
+| Twitter handle | [@TheAtlantic](https://www.twitter.com/TheAtlantic)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 72 screenshots stored at the Internet Archive.
+The archiving routine has captured 73 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Above the Law](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atlblog.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://abovethelaw.com/](https://abovethelaw.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/atlblog.xml) |
-| Twitter handle | [@atlblog](https://www.twitter.com/atlblog)                     |
-| Location       | New York City                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://abovethelaw.com/](https://abovethelaw.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/atlblog.xml)                                                              |
+| Twitter handle | [@atlblog](https://www.twitter.com/atlblog)                                                                                  |
+| Location       | New York City                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 
-The archiving routine has captured 16 screenshots stored at the Internet Archive.
+The archiving routine has captured 17 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

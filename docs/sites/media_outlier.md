@@ -9,15 +9,16 @@ orphan: true
 
 ![Outlier Media](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/media_outlier.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://outliermedia.org/](https://outliermedia.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/media_outlier.xml) |
-| Twitter handle | [@media_outlier](https://www.twitter.com/media_outlier)                     |
-| Location       | Detroit                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://outliermedia.org/](https://outliermedia.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/media_outlier.xml)                                                              |
+| Twitter handle | [@media_outlier](https://www.twitter.com/media_outlier)                                                                                  |
+| Location       | Detroit                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

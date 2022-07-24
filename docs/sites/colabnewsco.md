@@ -9,15 +9,16 @@ orphan: true
 
 ![Colorado News Collaborative](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/colabnewsco.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://colabnews.co/](https://colabnews.co/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/colabnewsco.xml) |
-| Twitter handle | [@colabnewsco](https://www.twitter.com/colabnewsco)                     |
-| Location       | Denver                                                                 |
-| Timezone       | America/Denver                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://colabnews.co/](https://colabnews.co/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/colabnewsco.xml)                                                              |
+| Twitter handle | [@colabnewsco](https://www.twitter.com/colabnewsco)                                                                                  |
+| Location       | Denver                                                                                                                              |
+| Timezone       | America/Denver                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![POLITICO](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politico.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.politico.com/](https://www.politico.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/politico.xml) |
-| Twitter handle | [@politico](https://www.twitter.com/politico)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.politico.com/](https://www.politico.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/politico.xml)                                                              |
+| Twitter handle | [@politico](https://www.twitter.com/politico)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/capitol-hill.html">Capitol Hill</a>  |
 
-The archiving routine has captured 61 screenshots stored at the Internet Archive.
+The archiving routine has captured 62 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,13 +9,14 @@ orphan: true
 
 ![San Francisco Chronicle](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sfchronicle.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.sfchronicle.com/](https://www.sfchronicle.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sfchronicle.xml) |
-| Twitter handle | [@sfchronicle](https://www.twitter.com/sfchronicle)                     |
-| Location       | San Francisco                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.sfchronicle.com/](https://www.sfchronicle.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sfchronicle.xml)                                                              |
+| Twitter handle | [@sfchronicle](https://www.twitter.com/sfchronicle)                                                                                  |
+| Location       | San Francisco                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/bay-area.html">California Bay Area</a>  |
 
 The archiving routine has captured 214 screenshots stored at the Internet Archive.
 

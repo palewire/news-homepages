@@ -9,15 +9,16 @@ orphan: true
 
 ![Fort Worth Report](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fortworthreport.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://fortworthreport.org/](https://fortworthreport.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/fortworthreport.xml) |
-| Twitter handle | [@FortWorthReport](https://www.twitter.com/FortWorthReport)                     |
-| Location       | Fort Worth                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://fortworthreport.org/](https://fortworthreport.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/fortworthreport.xml)                                                              |
+| Twitter handle | [@FortWorthReport](https://www.twitter.com/FortWorthReport)                                                                                  |
+| Location       | Fort Worth                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 33 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

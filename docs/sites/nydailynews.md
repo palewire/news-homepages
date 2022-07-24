@@ -9,15 +9,16 @@ orphan: true
 
 ![Daily News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nydailynews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.nydailynews.com/](https://www.nydailynews.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nydailynews.xml) |
-| Twitter handle | [@NYDailyNews](https://www.twitter.com/NYDailyNews)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.nydailynews.com/](https://www.nydailynews.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nydailynews.xml)                                                              |
+| Twitter handle | [@NYDailyNews](https://www.twitter.com/NYDailyNews)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 
-The archiving routine has captured 43 screenshots stored at the Internet Archive.
+The archiving routine has captured 44 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

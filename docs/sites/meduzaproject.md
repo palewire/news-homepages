@@ -9,15 +9,16 @@ orphan: true
 
 ![Meduza](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/meduzaproject.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://meduza.io/](https://meduza.io/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/meduzaproject.xml) |
-| Twitter handle | [@meduzaproject](https://www.twitter.com/meduzaproject)                     |
-| Location       | Riga                                                                 |
-| Timezone       | Europe/Riga                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://meduza.io/](https://meduza.io/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/meduzaproject.xml)                                                              |
+| Twitter handle | [@meduzaproject](https://www.twitter.com/meduzaproject)                                                                                  |
+| Location       | Riga                                                                                                                              |
+| Timezone       | Europe/Riga                                                                                                                              |
+| Bundles        | <a href="../bundles/eastern-europe.html">Eastern Europe</a>  |
 
-The archiving routine has captured 261 screenshots stored at the Internet Archive.
+The archiving routine has captured 262 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

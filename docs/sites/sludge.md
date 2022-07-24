@@ -9,15 +9,16 @@ orphan: true
 
 ![Sludge](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sludge.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://readsludge.com/](https://readsludge.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sludge.xml) |
-| Twitter handle | [@sludge](https://www.twitter.com/sludge)                     |
-| Location       | Brooklyn                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://readsludge.com/](https://readsludge.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sludge.xml)                                                              |
+| Twitter handle | [@sludge](https://www.twitter.com/sludge)                                                                                  |
+| Location       | Brooklyn                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 95 screenshots stored at the Internet Archive.
+The archiving routine has captured 96 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

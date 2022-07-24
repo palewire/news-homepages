@@ -9,15 +9,16 @@ orphan: true
 
 ![Jacobin](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jacobin.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://jacobin.com/](https://jacobin.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jacobin.xml) |
-| Twitter handle | [@jacobin](https://www.twitter.com/jacobin)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://jacobin.com/](https://jacobin.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jacobin.xml)                                                              |
+| Twitter handle | [@jacobin](https://www.twitter.com/jacobin)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 
-The archiving routine has captured 45 screenshots stored at the Internet Archive.
+The archiving routine has captured 46 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

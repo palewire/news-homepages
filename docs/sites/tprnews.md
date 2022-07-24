@@ -9,15 +9,16 @@ orphan: true
 
 ![Texas Public Radio](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tprnews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.tpr.org/](https://www.tpr.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tprnews.xml) |
-| Twitter handle | [@TPRNews](https://www.twitter.com/TPRNews)                     |
-| Location       | San Antonio                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.tpr.org/](https://www.tpr.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tprnews.xml)                                                              |
+| Twitter handle | [@TPRNews](https://www.twitter.com/TPRNews)                                                                                  |
+| Location       | San Antonio                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 40 screenshots stored at the Internet Archive.
+The archiving routine has captured 41 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

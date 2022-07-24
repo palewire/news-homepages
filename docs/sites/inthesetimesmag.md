@@ -5,19 +5,20 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# In These Times 
+# In These Times
 
 ![In These Times ](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inthesetimesmag.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://inthesetimes.com/](https://inthesetimes.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/inthesetimesmag.xml) |
-| Twitter handle | [@inthesetimesmag](https://www.twitter.com/inthesetimesmag)                     |
-| Location       | Chicago                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://inthesetimes.com/](https://inthesetimes.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/inthesetimesmag.xml)                                                              |
+| Twitter handle | [@inthesetimesmag](https://www.twitter.com/inthesetimesmag)                                                                                  |
+| Location       | Chicago                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 
-The archiving routine has captured 36 screenshots stored at the Internet Archive.
+The archiving routine has captured 38 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

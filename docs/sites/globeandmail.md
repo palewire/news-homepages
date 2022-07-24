@@ -9,15 +9,16 @@ orphan: true
 
 ![The Globe and Mail](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/globeandmail.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.theglobeandmail.com/](https://www.theglobeandmail.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/globeandmail.xml) |
-| Twitter handle | [@globeandmail](https://www.twitter.com/globeandmail)                     |
-| Location       | Toronto                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.theglobeandmail.com/](https://www.theglobeandmail.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/globeandmail.xml)                                                              |
+| Twitter handle | [@globeandmail](https://www.twitter.com/globeandmail)                                                                                  |
+| Location       | Toronto                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
-The archiving routine has captured 63 screenshots stored at the Internet Archive.
+The archiving routine has captured 65 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

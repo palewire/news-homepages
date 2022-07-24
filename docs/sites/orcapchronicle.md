@@ -9,15 +9,16 @@ orphan: true
 
 ![Oregon Capital Chronicle](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/orcapchronicle.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://oregoncapitalchronicle.com/](https://oregoncapitalchronicle.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/orcapchronicle.xml) |
-| Twitter handle | [@ORCapChronicle](https://www.twitter.com/ORCapChronicle)                     |
-| Location       | Salem                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://oregoncapitalchronicle.com/](https://oregoncapitalchronicle.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/orcapchronicle.xml)                                                              |
+| Twitter handle | [@ORCapChronicle](https://www.twitter.com/ORCapChronicle)                                                                                  |
+| Location       | Salem                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/oregon.html">Oregon</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

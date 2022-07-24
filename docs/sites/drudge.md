@@ -9,15 +9,16 @@ orphan: true
 
 ![Drudge Report](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/drudge.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://drudgereport.com/](https://drudgereport.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/drudge.xml) |
-| Twitter handle | [@DRUDGE](https://www.twitter.com/DRUDGE)                     |
-| Location       | Miami                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://drudgereport.com/](https://drudgereport.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/drudge.xml)                                                              |
+| Twitter handle | [@DRUDGE](https://www.twitter.com/DRUDGE)                                                                                  |
+| Location       | Miami                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
-The archiving routine has captured 206 screenshots stored at the Internet Archive.
+The archiving routine has captured 208 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

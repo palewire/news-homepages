@@ -9,15 +9,16 @@ orphan: true
 
 ![Mission Local](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mlnow.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://missionlocal.org/](https://missionlocal.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mlnow.xml) |
-| Twitter handle | [@mlnow](https://www.twitter.com/mlnow)                     |
-| Location       | San Francisco                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://missionlocal.org/](https://missionlocal.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mlnow.xml)                                                              |
+| Twitter handle | [@mlnow](https://www.twitter.com/mlnow)                                                                                  |
+| Location       | San Francisco                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/bay-area.html">California Bay Area</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

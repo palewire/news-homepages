@@ -9,15 +9,16 @@ orphan: true
 
 ![Waterloo-Cedar Falls Courier](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wcfcourier.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://wcfcourier.com/](https://wcfcourier.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wcfcourier.xml) |
-| Twitter handle | [@wcfcourier](https://www.twitter.com/wcfcourier)                     |
-| Location       | Waterloo                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://wcfcourier.com/](https://wcfcourier.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wcfcourier.xml)                                                              |
+| Twitter handle | [@wcfcourier](https://www.twitter.com/wcfcourier)                                                                                  |
+| Location       | Waterloo                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
-The archiving routine has captured 179 screenshots stored at the Internet Archive.
+The archiving routine has captured 180 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

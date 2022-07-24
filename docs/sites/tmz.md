@@ -9,15 +9,16 @@ orphan: true
 
 ![TMZ](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tmz.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.tmz.com/](https://www.tmz.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tmz.xml) |
-| Twitter handle | [@TMZ](https://www.twitter.com/TMZ)                     |
-| Location       | Los Angeles                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.tmz.com/](https://www.tmz.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tmz.xml)                                                              |
+| Twitter handle | [@TMZ](https://www.twitter.com/TMZ)                                                                                  |
+| Location       | Los Angeles                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/entertainment.html">Entertainment</a>  |
 
-The archiving routine has captured 12 screenshots stored at the Internet Archive.
+The archiving routine has captured 13 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

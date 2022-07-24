@@ -9,15 +9,16 @@ orphan: true
 
 ![Inside Climate News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/insideclimate.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://insideclimatenews.org/](https://insideclimatenews.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/insideclimate.xml) |
-| Twitter handle | [@insideclimate](https://www.twitter.com/insideclimate)                     |
-| Location       | Brooklyn                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://insideclimatenews.org/](https://insideclimatenews.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/insideclimate.xml)                                                              |
+| Twitter handle | [@insideclimate](https://www.twitter.com/insideclimate)                                                                                  |
+| Location       | Brooklyn                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 29 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

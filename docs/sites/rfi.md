@@ -9,15 +9,16 @@ orphan: true
 
 ![RFI](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rfi.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.rfi.fr/fr/](https://www.rfi.fr/fr/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rfi.xml) |
-| Twitter handle | [@RFI](https://www.twitter.com/RFI)                     |
-| Location       | Paris                                                                 |
-| Timezone       | Europe/Paris                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.rfi.fr/fr/](https://www.rfi.fr/fr/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rfi.xml)                                                              |
+| Twitter handle | [@RFI](https://www.twitter.com/RFI)                                                                                  |
+| Location       | Paris                                                                                                                              |
+| Timezone       | Europe/Paris                                                                                                                              |
+| Bundles        | <a href="../bundles/france.html">France</a>  |
 
-The archiving routine has captured 72 screenshots stored at the Internet Archive.
+The archiving routine has captured 74 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

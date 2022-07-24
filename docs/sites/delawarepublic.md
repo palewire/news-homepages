@@ -9,15 +9,16 @@ orphan: true
 
 ![Delaware Public Media](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawarepublic.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.delawarepublic.org/](https://www.delawarepublic.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/delawarepublic.xml) |
-| Twitter handle | [@DelawarePublic](https://www.twitter.com/DelawarePublic)                     |
-| Location       | Dover                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.delawarepublic.org/](https://www.delawarepublic.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/delawarepublic.xml)                                                              |
+| Twitter handle | [@DelawarePublic](https://www.twitter.com/DelawarePublic)                                                                                  |
+| Location       | Dover                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

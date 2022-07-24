@@ -9,15 +9,16 @@ orphan: true
 
 ![National Post](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nationalpost.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://nationalpost.com/](https://nationalpost.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nationalpost.xml) |
-| Twitter handle | [@nationalpost](https://www.twitter.com/nationalpost)                     |
-| Location       | Toronto                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://nationalpost.com/](https://nationalpost.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nationalpost.xml)                                                              |
+| Twitter handle | [@nationalpost](https://www.twitter.com/nationalpost)                                                                                  |
+| Location       | Toronto                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
-The archiving routine has captured 89 screenshots stored at the Internet Archive.
+The archiving routine has captured 90 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

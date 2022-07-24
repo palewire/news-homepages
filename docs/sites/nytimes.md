@@ -9,15 +9,16 @@ orphan: true
 
 ![New York Times](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.nytimes.com](https://www.nytimes.com)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml) |
-| Twitter handle | [@nytimes](https://www.twitter.com/nytimes)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.nytimes.com](https://www.nytimes.com)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml)                                                              |
+| Twitter handle | [@nytimes](https://www.twitter.com/nytimes)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-national.html">U.S. national news</a>,  <a href="../bundles/new-york-city.html">New York City</a>  |
 
-The archiving routine has captured 818 screenshots stored at the Internet Archive.
+The archiving routine has captured 819 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

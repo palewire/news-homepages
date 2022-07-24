@@ -9,15 +9,16 @@ orphan: true
 
 ![Breitbart](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/breitbartnews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.breitbart.com/](https://www.breitbart.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/breitbartnews.xml) |
-| Twitter handle | [@BreitbartNews](https://www.twitter.com/BreitbartNews)                     |
-| Location       | Los Angeles                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.breitbart.com/](https://www.breitbart.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/breitbartnews.xml)                                                              |
+| Twitter handle | [@BreitbartNews](https://www.twitter.com/BreitbartNews)                                                                                  |
+| Location       | Los Angeles                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
-The archiving routine has captured 204 screenshots stored at the Internet Archive.
+The archiving routine has captured 205 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![VT Digger](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vtdigger.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://vtdigger.org/](https://vtdigger.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/vtdigger.xml) |
-| Twitter handle | [@vtdigger](https://www.twitter.com/vtdigger)                     |
-| Location       | Burlington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://vtdigger.org/](https://vtdigger.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/vtdigger.xml)                                                              |
+| Twitter handle | [@vtdigger](https://www.twitter.com/vtdigger)                                                                                  |
+| Location       | Burlington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 95 screenshots stored at the Internet Archive.
+The archiving routine has captured 96 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

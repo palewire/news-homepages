@@ -9,15 +9,16 @@ orphan: true
 
 ![APM Reports](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/apmreports.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.apmreports.org/](https://www.apmreports.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/apmreports.xml) |
-| Twitter handle | [@apmreports](https://www.twitter.com/apmreports)                     |
-| Location       | St. Paul                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.apmreports.org/](https://www.apmreports.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/apmreports.xml)                                                              |
+| Twitter handle | [@apmreports](https://www.twitter.com/apmreports)                                                                                  |
+| Location       | St. Paul                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 96 screenshots stored at the Internet Archive.
+The archiving routine has captured 97 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

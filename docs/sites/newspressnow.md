@@ -9,15 +9,16 @@ orphan: true
 
 ![St. Joseph News Press](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newspressnow.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.newspressnow.com/](https://www.newspressnow.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/newspressnow.xml) |
-| Twitter handle | [@newspressnow](https://www.twitter.com/newspressnow)                     |
-| Location       | St. Joseph                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.newspressnow.com/](https://www.newspressnow.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/newspressnow.xml)                                                              |
+| Twitter handle | [@newspressnow](https://www.twitter.com/newspressnow)                                                                                  |
+| Location       | St. Joseph                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/missouri.html">Missouri</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

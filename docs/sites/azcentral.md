@@ -9,15 +9,16 @@ orphan: true
 
 ![Arizona Republic](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/azcentral.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.azcentral.com/](https://www.azcentral.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/azcentral.xml) |
-| Twitter handle | [@azcentral](https://www.twitter.com/azcentral)                     |
-| Location       | Phoenix                                                                 |
-| Timezone       | America/Phoenix                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.azcentral.com/](https://www.azcentral.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/azcentral.xml)                                                              |
+| Twitter handle | [@azcentral](https://www.twitter.com/azcentral)                                                                                  |
+| Location       | Phoenix                                                                                                                              |
+| Timezone       | America/Phoenix                                                                                                                              |
+| Bundles        | <a href="../bundles/arizona.html">Arizona</a>  |
 
-The archiving routine has captured 41 screenshots stored at the Internet Archive.
+The archiving routine has captured 42 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

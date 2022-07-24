@@ -9,15 +9,16 @@ orphan: true
 
 ![Dispatch](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedispatch.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://thedispatch.com/](https://thedispatch.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thedispatch.xml) |
-| Twitter handle | [@thedispatch](https://www.twitter.com/thedispatch)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://thedispatch.com/](https://thedispatch.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thedispatch.xml)                                                              |
+| Twitter handle | [@thedispatch](https://www.twitter.com/thedispatch)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
-The archiving routine has captured 19 screenshots stored at the Internet Archive.
+The archiving routine has captured 20 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

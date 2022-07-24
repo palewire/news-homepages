@@ -9,15 +9,16 @@ orphan: true
 
 ![Ashland.news](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ashlandornews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://ashland.news/](https://ashland.news/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ashlandornews.xml) |
-| Twitter handle | [@AshlandORNews](https://www.twitter.com/AshlandORNews)                     |
-| Location       | Ashland                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://ashland.news/](https://ashland.news/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ashlandornews.xml)                                                              |
+| Twitter handle | [@AshlandORNews](https://www.twitter.com/AshlandORNews)                                                                                  |
+| Location       | Ashland                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/oregon.html">Oregon</a>  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![74th](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/the74.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.the74million.org/](https://www.the74million.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/the74.xml) |
-| Twitter handle | [@The74](https://www.twitter.com/The74)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.the74million.org/](https://www.the74million.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/the74.xml)                                                              |
+| Twitter handle | [@The74](https://www.twitter.com/The74)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 28 screenshots stored at the Internet Archive.
+The archiving routine has captured 29 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

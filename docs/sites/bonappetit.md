@@ -9,15 +9,16 @@ orphan: true
 
 ![Bon Appetit](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bonappetit.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.bonappetit.com/](https://www.bonappetit.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bonappetit.xml) |
-| Twitter handle | [@bonappetit](https://www.twitter.com/bonappetit)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.bonappetit.com/](https://www.bonappetit.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bonappetit.xml)                                                              |
+| Twitter handle | [@bonappetit](https://www.twitter.com/bonappetit)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 74 screenshots stored at the Internet Archive.
+The archiving routine has captured 75 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

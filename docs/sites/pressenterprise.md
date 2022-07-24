@@ -9,15 +9,16 @@ orphan: true
 
 ![Riverside Press-Enterprise](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pressenterprise.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.pe.com/](https://www.pe.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/pressenterprise.xml) |
-| Twitter handle | [@pressenterprise](https://www.twitter.com/pressenterprise)                     |
-| Location       | Riverside                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.pe.com/](https://www.pe.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/pressenterprise.xml)                                                              |
+| Twitter handle | [@pressenterprise](https://www.twitter.com/pressenterprise)                                                                                  |
+| Location       | Riverside                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/socal.html">Southern California</a>  |
 
-The archiving routine has captured 276 screenshots stored at the Internet Archive.
+The archiving routine has captured 277 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

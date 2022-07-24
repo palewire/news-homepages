@@ -9,15 +9,16 @@ orphan: true
 
 ![Daily Echo](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyecho.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.dailyecho.co.uk/](https://www.dailyecho.co.uk/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyecho.xml) |
-| Twitter handle | [@dailyecho](https://www.twitter.com/dailyecho)                     |
-| Location       | Southampton                                                                 |
-| Timezone       | Europe/London                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.dailyecho.co.uk/](https://www.dailyecho.co.uk/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyecho.xml)                                                              |
+| Twitter handle | [@dailyecho](https://www.twitter.com/dailyecho)                                                                                  |
+| Location       | Southampton                                                                                                                              |
+| Timezone       | Europe/London                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 26 screenshots stored at the Internet Archive.
+The archiving routine has captured 28 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![CBC News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbcnews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.cbc.ca/news](https://www.cbc.ca/news)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/cbcnews.xml) |
-| Twitter handle | [@cbcnews](https://www.twitter.com/cbcnews)                     |
-| Location       | Toronto                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.cbc.ca/news](https://www.cbc.ca/news)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/cbcnews.xml)                                                              |
+| Twitter handle | [@cbcnews](https://www.twitter.com/cbcnews)                                                                                  |
+| Location       | Toronto                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
-The archiving routine has captured 60 screenshots stored at the Internet Archive.
+The archiving routine has captured 61 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

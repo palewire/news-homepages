@@ -9,15 +9,16 @@ orphan: true
 
 ![Verge](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/verge.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.theverge.com/](https://www.theverge.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/verge.xml) |
-| Twitter handle | [@verge](https://www.twitter.com/verge)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.theverge.com/](https://www.theverge.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/verge.xml)                                                              |
+| Twitter handle | [@verge](https://www.twitter.com/verge)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
-The archiving routine has captured 87 screenshots stored at the Internet Archive.
+The archiving routine has captured 88 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

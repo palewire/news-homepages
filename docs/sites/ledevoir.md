@@ -9,15 +9,16 @@ orphan: true
 
 ![Le Devoir](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ledevoir.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.ledevoir.com/](https://www.ledevoir.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ledevoir.xml) |
-| Twitter handle | [@ledevoir](https://www.twitter.com/ledevoir)                     |
-| Location       | Montreal                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.ledevoir.com/](https://www.ledevoir.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/ledevoir.xml)                                                              |
+| Twitter handle | [@ledevoir](https://www.twitter.com/ledevoir)                                                                                  |
+| Location       | Montreal                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
-The archiving routine has captured 65 screenshots stored at the Internet Archive.
+The archiving routine has captured 66 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

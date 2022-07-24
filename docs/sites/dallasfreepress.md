@@ -9,15 +9,16 @@ orphan: true
 
 ![Dallas Free Press](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasfreepress.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.dallasfreepress.com/](https://www.dallasfreepress.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasfreepress.xml) |
-| Twitter handle | [@dallasfreepress](https://www.twitter.com/dallasfreepress)                     |
-| Location       | Dallas                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.dallasfreepress.com/](https://www.dallasfreepress.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasfreepress.xml)                                                              |
+| Twitter handle | [@dallasfreepress](https://www.twitter.com/dallasfreepress)                                                                                  |
+| Location       | Dallas                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 33 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

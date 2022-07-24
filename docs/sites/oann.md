@@ -9,15 +9,16 @@ orphan: true
 
 ![One America News Network](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oann.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.oann.com/](https://www.oann.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/oann.xml) |
-| Twitter handle | [@OANN](https://www.twitter.com/OANN)                     |
-| Location       | San Diego                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.oann.com/](https://www.oann.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/oann.xml)                                                              |
+| Twitter handle | [@OANN](https://www.twitter.com/OANN)                                                                                  |
+| Location       | San Diego                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
-The archiving routine has captured 197 screenshots stored at the Internet Archive.
+The archiving routine has captured 198 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

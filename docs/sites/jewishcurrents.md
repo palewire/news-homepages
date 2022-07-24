@@ -9,15 +9,16 @@ orphan: true
 
 ![Jewish Currents](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jewishcurrents.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.jewishcurrents.org/](https://www.jewishcurrents.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jewishcurrents.xml) |
-| Twitter handle | [@JewishCurrents](https://www.twitter.com/JewishCurrents)                     |
-| Location       | Brooklyn                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.jewishcurrents.org/](https://www.jewishcurrents.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jewishcurrents.xml)                                                              |
+| Twitter handle | [@JewishCurrents](https://www.twitter.com/JewishCurrents)                                                                                  |
+| Location       | Brooklyn                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 29 screenshots stored at the Internet Archive.
+The archiving routine has captured 30 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

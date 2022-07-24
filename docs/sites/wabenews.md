@@ -9,15 +9,16 @@ orphan: true
 
 ![WABE News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wabenews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.wabe.org](https://www.wabe.org)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wabenews.xml) |
-| Twitter handle | [@wabenews](https://www.twitter.com/wabenews)                     |
-| Location       | Atlanta                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.wabe.org](https://www.wabe.org)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wabenews.xml)                                                              |
+| Twitter handle | [@wabenews](https://www.twitter.com/wabenews)                                                                                  |
+| Location       | Atlanta                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
-The archiving routine has captured 7 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

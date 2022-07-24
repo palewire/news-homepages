@@ -9,15 +9,16 @@ orphan: true
 
 ![RT](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rt_com.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.rt.com/](https://www.rt.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rt_com.xml) |
-| Twitter handle | [@rt_com](https://www.twitter.com/rt_com)                     |
-| Location       | Moscow                                                                 |
-| Timezone       | Europe/Moscow                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.rt.com/](https://www.rt.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rt_com.xml)                                                              |
+| Twitter handle | [@rt_com](https://www.twitter.com/rt_com)                                                                                  |
+| Location       | Moscow                                                                                                                              |
+| Timezone       | Europe/Moscow                                                                                                                              |
+| Bundles        | <a href="../bundles/russia.html">Russia</a>  |
 
-The archiving routine has captured 23 screenshots stored at the Internet Archive.
+The archiving routine has captured 25 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

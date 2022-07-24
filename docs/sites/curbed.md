@@ -9,15 +9,16 @@ orphan: true
 
 ![Curbed](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/curbed.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.curbed.com/](https://www.curbed.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/curbed.xml) |
-| Twitter handle | [@curbed](https://www.twitter.com/curbed)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.curbed.com/](https://www.curbed.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/curbed.xml)                                                              |
+| Twitter handle | [@curbed](https://www.twitter.com/curbed)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

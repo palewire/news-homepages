@@ -9,15 +9,16 @@ orphan: true
 
 ![Segodnya](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/segodnya_online.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.segodnya.ua/allnews.html](https://www.segodnya.ua/allnews.html)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/segodnya_online.xml) |
-| Twitter handle | [@segodnya_online](https://www.twitter.com/segodnya_online)                     |
-| Location       | Kiev                                                                 |
-| Timezone       | Europe/Kiev                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.segodnya.ua/allnews.html](https://www.segodnya.ua/allnews.html)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/segodnya_online.xml)                                                              |
+| Twitter handle | [@segodnya_online](https://www.twitter.com/segodnya_online)                                                                                  |
+| Location       | Kiev                                                                                                                              |
+| Timezone       | Europe/Kiev                                                                                                                              |
+| Bundles        | <a href="../bundles/eastern-europe.html">Eastern Europe</a>  |
 
-The archiving routine has captured 19 screenshots stored at the Internet Archive.
+The archiving routine has captured 20 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

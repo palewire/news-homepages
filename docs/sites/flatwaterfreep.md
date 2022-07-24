@@ -9,15 +9,16 @@ orphan: true
 
 ![Flatwater Free Press](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/flatwaterfreep.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.flatwaterfreepress.org/](https://www.flatwaterfreepress.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/flatwaterfreep.xml) |
-| Twitter handle | [@flatwaterfreep](https://www.twitter.com/flatwaterfreep)                     |
-| Location       | Omaha                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.flatwaterfreepress.org/](https://www.flatwaterfreepress.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/flatwaterfreep.xml)                                                              |
+| Twitter handle | [@flatwaterfreep](https://www.twitter.com/flatwaterfreep)                                                                                  |
+| Location       | Omaha                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

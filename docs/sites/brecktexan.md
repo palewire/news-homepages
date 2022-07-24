@@ -9,15 +9,16 @@ orphan: true
 
 ![Breckenridge Texan](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brecktexan.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://breckenridgetexan.com/](https://breckenridgetexan.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/brecktexan.xml) |
-| Twitter handle | [@BreckTexan](https://www.twitter.com/BreckTexan)                     |
-| Location       | Breckenridge                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://breckenridgetexan.com/](https://breckenridgetexan.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/brecktexan.xml)                                                              |
+| Twitter handle | [@BreckTexan](https://www.twitter.com/BreckTexan)                                                                                  |
+| Location       | Breckenridge                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

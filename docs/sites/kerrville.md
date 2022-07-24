@@ -9,15 +9,16 @@ orphan: true
 
 ![Kerrville Daily Times](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kerrville.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://dailytimes.com/](https://dailytimes.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kerrville.xml) |
-| Twitter handle | [@kerrville](https://www.twitter.com/kerrville)                     |
-| Location       | Kerrville                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://dailytimes.com/](https://dailytimes.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kerrville.xml)                                                              |
+| Twitter handle | [@kerrville](https://www.twitter.com/kerrville)                                                                                  |
+| Location       | Kerrville                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

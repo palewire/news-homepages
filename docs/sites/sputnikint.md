@@ -9,15 +9,16 @@ orphan: true
 
 ![Sputnik](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sputnikint.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://sputniknews.com/](https://sputniknews.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sputnikint.xml) |
-| Twitter handle | [@SputnikInt](https://www.twitter.com/SputnikInt)                     |
-| Location       | Moscow                                                                 |
-| Timezone       | Europe/Moscow                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://sputniknews.com/](https://sputniknews.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sputnikint.xml)                                                              |
+| Twitter handle | [@SputnikInt](https://www.twitter.com/SputnikInt)                                                                                  |
+| Location       | Moscow                                                                                                                              |
+| Timezone       | Europe/Moscow                                                                                                                              |
+| Bundles        | <a href="../bundles/russia.html">Russia</a>  |
 
-The archiving routine has captured 23 screenshots stored at the Internet Archive.
+The archiving routine has captured 25 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

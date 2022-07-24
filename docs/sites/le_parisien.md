@@ -9,15 +9,16 @@ orphan: true
 
 ![Le Parisien](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/le_parisien.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.leparisien.fr/](https://www.leparisien.fr/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/le_parisien.xml) |
-| Twitter handle | [@le_Parisien](https://www.twitter.com/le_Parisien)                     |
-| Location       | Paris                                                                 |
-| Timezone       | Europe/Paris                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.leparisien.fr/](https://www.leparisien.fr/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/le_parisien.xml)                                                              |
+| Twitter handle | [@le_Parisien](https://www.twitter.com/le_Parisien)                                                                                  |
+| Location       | Paris                                                                                                                              |
+| Timezone       | Europe/Paris                                                                                                                              |
+| Bundles        | <a href="../bundles/france.html">France</a>  |
 
-The archiving routine has captured 203 screenshots stored at the Internet Archive.
+The archiving routine has captured 205 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

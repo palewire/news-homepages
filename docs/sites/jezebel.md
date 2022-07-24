@@ -9,15 +9,16 @@ orphan: true
 
 ![Jezebel](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jezebel.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://jezebel.com/](https://jezebel.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jezebel.xml) |
-| Twitter handle | [@Jezebel](https://www.twitter.com/Jezebel)                     |
-| Location       | New York City                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://jezebel.com/](https://jezebel.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/jezebel.xml)                                                              |
+| Twitter handle | [@Jezebel](https://www.twitter.com/Jezebel)                                                                                  |
+| Location       | New York City                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 
-The archiving routine has captured 16 screenshots stored at the Internet Archive.
+The archiving routine has captured 17 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

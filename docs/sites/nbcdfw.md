@@ -9,15 +9,16 @@ orphan: true
 
 ![NBC DFW](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcdfw.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.nbcdfw.com/](https://www.nbcdfw.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcdfw.xml) |
-| Twitter handle | [@NBCDFW](https://www.twitter.com/NBCDFW)                     |
-| Location       | Dallas                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.nbcdfw.com/](https://www.nbcdfw.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcdfw.xml)                                                              |
+| Twitter handle | [@NBCDFW](https://www.twitter.com/NBCDFW)                                                                                  |
+| Location       | Dallas                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

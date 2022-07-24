@@ -9,15 +9,16 @@ orphan: true
 
 ![Bucks County Herald](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/buckscoherald.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://buckscountyherald.com/](https://buckscountyherald.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/buckscoherald.xml) |
-| Twitter handle | [@BucksCoHerald](https://www.twitter.com/BucksCoHerald)                     |
-| Location       | Lahaska                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://buckscountyherald.com/](https://buckscountyherald.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/buckscoherald.xml)                                                              |
+| Twitter handle | [@BucksCoHerald](https://www.twitter.com/BucksCoHerald)                                                                                  |
+| Location       | Lahaska                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

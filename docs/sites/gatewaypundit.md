@@ -9,15 +9,16 @@ orphan: true
 
 ![Gateway Pundit](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gatewaypundit.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.thegatewaypundit.com/](https://www.thegatewaypundit.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gatewaypundit.xml) |
-| Twitter handle | [@gatewaypundit](https://www.twitter.com/gatewaypundit)                     |
-| Location       | St. Louis                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.thegatewaypundit.com/](https://www.thegatewaypundit.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gatewaypundit.xml)                                                              |
+| Twitter handle | [@gatewaypundit](https://www.twitter.com/gatewaypundit)                                                                                  |
+| Location       | St. Louis                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
-The archiving routine has captured 64 screenshots stored at the Internet Archive.
+The archiving routine has captured 66 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

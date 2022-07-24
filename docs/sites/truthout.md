@@ -9,15 +9,16 @@ orphan: true
 
 ![Truthout](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/truthout.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://truthout.org/](https://truthout.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/truthout.xml) |
-| Twitter handle | [@truthout](https://www.twitter.com/truthout)                     |
-| Location       | San Francisco                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://truthout.org/](https://truthout.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/truthout.xml)                                                              |
+| Twitter handle | [@truthout](https://www.twitter.com/truthout)                                                                                  |
+| Location       | San Francisco                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 
-The archiving routine has captured 18 screenshots stored at the Internet Archive.
+The archiving routine has captured 19 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![WTTW](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wttw.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.wttw.com/](https://www.wttw.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wttw.xml) |
-| Twitter handle | [@wttw](https://www.twitter.com/wttw)                     |
-| Location       | Chicago                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.wttw.com/](https://www.wttw.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/wttw.xml)                                                              |
+| Twitter handle | [@wttw](https://www.twitter.com/wttw)                                                                                  |
+| Location       | Chicago                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
 
-The archiving routine has captured 93 screenshots stored at the Internet Archive.
+The archiving routine has captured 94 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Mississippi Today](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mstodaynews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://mississippitoday.org/](https://mississippitoday.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mstodaynews.xml) |
-| Twitter handle | [@MSTODAYnews](https://www.twitter.com/MSTODAYnews)                     |
-| Location       | Jackson                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://mississippitoday.org/](https://mississippitoday.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/mstodaynews.xml)                                                              |
+| Twitter handle | [@MSTODAYnews](https://www.twitter.com/MSTODAYnews)                                                                                  |
+| Location       | Jackson                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/mississippi.html">Mississippi</a>  |
 
-The archiving routine has captured 4 screenshots stored at the Internet Archive.
+The archiving routine has captured 5 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

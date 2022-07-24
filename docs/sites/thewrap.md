@@ -9,15 +9,16 @@ orphan: true
 
 ![Wrap](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thewrap.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.thewrap.com/](https://www.thewrap.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thewrap.xml) |
-| Twitter handle | [@TheWrap](https://www.twitter.com/TheWrap)                     |
-| Location       | Los Angeles                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.thewrap.com/](https://www.thewrap.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thewrap.xml)                                                              |
+| Twitter handle | [@TheWrap](https://www.twitter.com/TheWrap)                                                                                  |
+| Location       | Los Angeles                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/entertainment.html">Entertainment</a>  |
 
-The archiving routine has captured 12 screenshots stored at the Internet Archive.
+The archiving routine has captured 13 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

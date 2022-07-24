@@ -9,15 +9,16 @@ orphan: true
 
 ![Ventura County Star](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vcstar.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.vcstar.com/](https://www.vcstar.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/vcstar.xml) |
-| Twitter handle | [@vcstar](https://www.twitter.com/vcstar)                     |
-| Location       | Camarillo                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.vcstar.com/](https://www.vcstar.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/vcstar.xml)                                                              |
+| Twitter handle | [@vcstar](https://www.twitter.com/vcstar)                                                                                  |
+| Location       | Camarillo                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/socal.html">Southern California</a>  |
 
-The archiving routine has captured 276 screenshots stored at the Internet Archive.
+The archiving routine has captured 277 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

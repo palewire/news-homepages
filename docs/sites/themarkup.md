@@ -9,15 +9,16 @@ orphan: true
 
 ![The Markup](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/themarkup.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://themarkup.org/](https://themarkup.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/themarkup.xml) |
-| Twitter handle | [@themarkup](https://www.twitter.com/themarkup)                     |
-| Location       | New York                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://themarkup.org/](https://themarkup.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/themarkup.xml)                                                              |
+| Twitter handle | [@themarkup](https://www.twitter.com/themarkup)                                                                                  |
+| Location       | New York                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
-The archiving routine has captured 94 screenshots stored at the Internet Archive.
+The archiving routine has captured 95 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

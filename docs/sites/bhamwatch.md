@@ -9,15 +9,16 @@ orphan: true
 
 ![BirminghamWatch](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bhamwatch.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [http://birminghamwatch.org/](http://birminghamwatch.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bhamwatch.xml) |
-| Twitter handle | [@BhamWatch](https://www.twitter.com/BhamWatch)                     |
-| Location       | Birmingham                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [http://birminghamwatch.org/](http://birminghamwatch.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/bhamwatch.xml)                                                              |
+| Twitter handle | [@BhamWatch](https://www.twitter.com/BhamWatch)                                                                                  |
+| Location       | Birmingham                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

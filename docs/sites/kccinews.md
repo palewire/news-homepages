@@ -9,15 +9,16 @@ orphan: true
 
 ![KCCI](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kccinews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.kcci.com/](https://www.kcci.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kccinews.xml) |
-| Twitter handle | [@KCCINews](https://www.twitter.com/KCCINews)                     |
-| Location       | Des Moines                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.kcci.com/](https://www.kcci.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kccinews.xml)                                                              |
+| Twitter handle | [@KCCINews](https://www.twitter.com/KCCINews)                                                                                  |
+| Location       | Des Moines                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
-The archiving routine has captured 184 screenshots stored at the Internet Archive.
+The archiving routine has captured 185 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

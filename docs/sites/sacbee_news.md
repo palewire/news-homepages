@@ -9,15 +9,16 @@ orphan: true
 
 ![Sacramento Bee](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sacbee_news.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.sacbee.com/](https://www.sacbee.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sacbee_news.xml) |
-| Twitter handle | [@sacbee_news](https://www.twitter.com/sacbee_news)                     |
-| Location       | Sacramento                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.sacbee.com/](https://www.sacbee.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/sacbee_news.xml)                                                              |
+| Twitter handle | [@sacbee_news](https://www.twitter.com/sacbee_news)                                                                                  |
+| Location       | Sacramento                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/bay-area.html">California Bay Area</a>  |
 
-The archiving routine has captured 52 screenshots stored at the Internet Archive.
+The archiving routine has captured 53 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

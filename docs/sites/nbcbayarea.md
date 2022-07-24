@@ -9,15 +9,16 @@ orphan: true
 
 ![NBC Bay Area](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcbayarea.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.nbcbayarea.com/](https://www.nbcbayarea.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcbayarea.xml) |
-| Twitter handle | [@nbcbayarea](https://www.twitter.com/nbcbayarea)                     |
-| Location       | San Francisco                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.nbcbayarea.com/](https://www.nbcbayarea.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcbayarea.xml)                                                              |
+| Twitter handle | [@nbcbayarea](https://www.twitter.com/nbcbayarea)                                                                                  |
+| Location       | San Francisco                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/bay-area.html">California Bay Area</a>  |
 
-The archiving routine has captured 67 screenshots stored at the Internet Archive.
+The archiving routine has captured 68 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

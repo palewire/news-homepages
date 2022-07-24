@@ -9,15 +9,16 @@ orphan: true
 
 ![News 4](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kvoa.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.kvoa.com/](https://www.kvoa.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kvoa.xml) |
-| Twitter handle | [@KVOA](https://www.twitter.com/KVOA)                     |
-| Location       | Tucson                                                                 |
-| Timezone       | America/Phoenix                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.kvoa.com/](https://www.kvoa.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kvoa.xml)                                                              |
+| Twitter handle | [@KVOA](https://www.twitter.com/KVOA)                                                                                  |
+| Location       | Tucson                                                                                                                              |
+| Timezone       | America/Phoenix                                                                                                                              |
+| Bundles        | <a href="../bundles/arizona.html">Arizona</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

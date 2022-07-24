@@ -9,15 +9,16 @@ orphan: true
 
 ![Vogue](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voguemagazine.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.vogue.com/](https://www.vogue.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/voguemagazine.xml) |
-| Twitter handle | [@voguemagazine](https://www.twitter.com/voguemagazine)                     |
-| Location       | New York City                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.vogue.com/](https://www.vogue.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/voguemagazine.xml)                                                              |
+| Twitter handle | [@voguemagazine](https://www.twitter.com/voguemagazine)                                                                                  |
+| Location       | New York City                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 12 screenshots stored at the Internet Archive.
+The archiving routine has captured 13 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

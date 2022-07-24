@@ -9,15 +9,16 @@ orphan: true
 
 ![WHYY](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/whyynews.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://whyy.org/news](https://whyy.org/news)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/whyynews.xml) |
-| Twitter handle | [@WHYYNews](https://www.twitter.com/WHYYNews)                     |
-| Location       | Philadelphia                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://whyy.org/news](https://whyy.org/news)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/whyynews.xml)                                                              |
+| Twitter handle | [@WHYYNews](https://www.twitter.com/WHYYNews)                                                                                  |
+| Location       | Philadelphia                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/philadelphia.html">Philadelphia</a>  |
 
-The archiving routine has captured 49 screenshots stored at the Internet Archive.
+The archiving routine has captured 50 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

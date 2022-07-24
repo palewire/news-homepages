@@ -9,15 +9,16 @@ orphan: true
 
 ![Nettavisen](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nettavisen.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.nettavisen.no/](https://www.nettavisen.no/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nettavisen.xml) |
-| Twitter handle | [@Nettavisen](https://www.twitter.com/Nettavisen)                     |
-| Location       | Oslo                                                                 |
-| Timezone       | Europe/Oslo                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.nettavisen.no/](https://www.nettavisen.no/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/nettavisen.xml)                                                              |
+| Twitter handle | [@Nettavisen](https://www.twitter.com/Nettavisen)                                                                                  |
+| Location       | Oslo                                                                                                                              |
+| Timezone       | Europe/Oslo                                                                                                                              |
+| Bundles        | <a href="../bundles/norway.html">Norway</a>  |
 
-The archiving routine has captured 8 screenshots stored at the Internet Archive.
+The archiving routine has captured 9 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

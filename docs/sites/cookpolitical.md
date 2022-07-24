@@ -9,15 +9,16 @@ orphan: true
 
 ![Cook Political Report](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cookpolitical.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.cookpolitical.com/](https://www.cookpolitical.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/cookpolitical.xml) |
-| Twitter handle | [@CookPolitical](https://www.twitter.com/CookPolitical)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.cookpolitical.com/](https://www.cookpolitical.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/cookpolitical.xml)                                                              |
+| Twitter handle | [@CookPolitical](https://www.twitter.com/CookPolitical)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/capitol-hill.html">Capitol Hill</a>  |
 
-The archiving routine has captured 41 screenshots stored at the Internet Archive.
+The archiving routine has captured 42 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Austin Weekly News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gcm_nf.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.growingcommunitymedia.org/](https://www.growingcommunitymedia.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gcm_nf.xml) |
-| Twitter handle | [@GCM_nf](https://www.twitter.com/GCM_nf)                     |
-| Location       | Oak Park                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.growingcommunitymedia.org/](https://www.growingcommunitymedia.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gcm_nf.xml)                                                              |
+| Twitter handle | [@GCM_nf](https://www.twitter.com/GCM_nf)                                                                                  |
+| Location       | Oak Park                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
 
-The archiving routine has captured 43 screenshots stored at the Internet Archive.
+The archiving routine has captured 45 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Billy Penn](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/billy_penn.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://billypenn.com/](https://billypenn.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/billy_penn.xml) |
-| Twitter handle | [@billy_penn](https://www.twitter.com/billy_penn)                     |
-| Location       | Philadelphia                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://billypenn.com/](https://billypenn.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/billy_penn.xml)                                                              |
+| Twitter handle | [@billy_penn](https://www.twitter.com/billy_penn)                                                                                  |
+| Location       | Philadelphia                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/philadelphia.html">Philadelphia</a>  |
 
-The archiving routine has captured 51 screenshots stored at the Internet Archive.
+The archiving routine has captured 52 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -9,15 +9,16 @@ orphan: true
 
 ![Pulitzer Center](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pulitzercenter.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [http://www.pulitzercenter.org/](http://www.pulitzercenter.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/pulitzercenter.xml) |
-| Twitter handle | [@Pulitzercenter](https://www.twitter.com/Pulitzercenter)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [http://www.pulitzercenter.org/](http://www.pulitzercenter.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/pulitzercenter.xml)                                                              |
+| Twitter handle | [@Pulitzercenter](https://www.twitter.com/Pulitzercenter)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 30 screenshots stored at the Internet Archive.
+The archiving routine has captured 31 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

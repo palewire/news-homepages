@@ -9,15 +9,16 @@ orphan: true
 
 ![Paris Review](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/parisreview.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.theparisreview.org/](https://www.theparisreview.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/parisreview.xml) |
-| Twitter handle | [@parisreview](https://www.twitter.com/parisreview)                     |
-| Location       | Paris                                                                 |
-| Timezone       | Europe/Paris                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.theparisreview.org/](https://www.theparisreview.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/parisreview.xml)                                                              |
+| Twitter handle | [@parisreview](https://www.twitter.com/parisreview)                                                                                  |
+| Location       | Paris                                                                                                                              |
+| Timezone       | Europe/Paris                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

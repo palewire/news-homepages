@@ -9,15 +9,16 @@ orphan: true
 
 ![Onion](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theonion.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://theonion.com](https://theonion.com)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theonion.xml) |
-| Twitter handle | [@TheOnion](https://www.twitter.com/TheOnion)                     |
-| Location       | Chicago                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://theonion.com](https://theonion.com)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/theonion.xml)                                                              |
+| Twitter handle | [@TheOnion](https://www.twitter.com/TheOnion)                                                                                  |
+| Location       | Chicago                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/satire.html">Satire</a>  |
 
-The archiving routine has captured 133 screenshots stored at the Internet Archive.
+The archiving routine has captured 134 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

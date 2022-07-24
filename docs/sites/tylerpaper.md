@@ -9,15 +9,16 @@ orphan: true
 
 ![Tyler Morning Telegraph](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tylerpaper.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://tylerpaper.com/](https://tylerpaper.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tylerpaper.xml) |
-| Twitter handle | [@Tylerpaper](https://www.twitter.com/Tylerpaper)                     |
-| Location       | Tyler                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://tylerpaper.com/](https://tylerpaper.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/tylerpaper.xml)                                                              |
+| Twitter handle | [@Tylerpaper](https://www.twitter.com/Tylerpaper)                                                                                  |
+| Location       | Tyler                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

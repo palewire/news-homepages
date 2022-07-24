@@ -9,15 +9,16 @@ orphan: true
 
 ![Appleton Post Crescent](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/postcrescent.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.postcrescent.com/](https://www.postcrescent.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/postcrescent.xml) |
-| Twitter handle | [@PostCrescent](https://www.twitter.com/PostCrescent)                     |
-| Location       | Appleton                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.postcrescent.com/](https://www.postcrescent.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/postcrescent.xml)                                                              |
+| Twitter handle | [@PostCrescent](https://www.twitter.com/PostCrescent)                                                                                  |
+| Location       | Appleton                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/wisconsin.html">Wisconsin</a>  |
 
-The archiving routine has captured 183 screenshots stored at the Internet Archive.
+The archiving routine has captured 184 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

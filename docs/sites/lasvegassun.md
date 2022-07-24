@@ -9,15 +9,16 @@ orphan: true
 
 ![Las Vegas Sun](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lasvegassun.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://lasvegassun.com/](https://lasvegassun.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lasvegassun.xml) |
-| Twitter handle | [@LasVegasSun](https://www.twitter.com/LasVegasSun)                     |
-| Location       | Las Vegas                                                                 |
-| Timezone       | America/Los_Angeles                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://lasvegassun.com/](https://lasvegassun.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/lasvegassun.xml)                                                              |
+| Twitter handle | [@LasVegasSun](https://www.twitter.com/LasVegasSun)                                                                                  |
+| Location       | Las Vegas                                                                                                                              |
+| Timezone       | America/Los_Angeles                                                                                                                              |
+| Bundles        | <a href="../bundles/las-vegas.html">Las Vegas</a>  |
 
-The archiving routine has captured 39 screenshots stored at the Internet Archive.
+The archiving routine has captured 40 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

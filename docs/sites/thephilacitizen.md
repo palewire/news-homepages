@@ -9,15 +9,16 @@ orphan: true
 
 ![Philadelphia Citizen](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thephilacitizen.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://thephiladelphiacitizen.org/](https://thephiladelphiacitizen.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thephilacitizen.xml) |
-| Twitter handle | [@thephilacitizen](https://www.twitter.com/thephilacitizen)                     |
-| Location       | Philadelphia                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://thephiladelphiacitizen.org/](https://thephiladelphiacitizen.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/thephilacitizen.xml)                                                              |
+| Twitter handle | [@thephilacitizen](https://www.twitter.com/thephilacitizen)                                                                                  |
+| Location       | Philadelphia                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/philadelphia.html">Philadelphia</a>  |
 
-The archiving routine has captured 48 screenshots stored at the Internet Archive.
+The archiving routine has captured 49 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

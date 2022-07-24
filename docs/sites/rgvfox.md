@@ -9,15 +9,16 @@ orphan: true
 
 ![Fox South Texas](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rgvfox.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://foxnewssouthtexas.com/](https://foxnewssouthtexas.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rgvfox.xml) |
-| Twitter handle | [@rgvfox](https://www.twitter.com/rgvfox)                     |
-| Location       | McAllen                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://foxnewssouthtexas.com/](https://foxnewssouthtexas.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/rgvfox.xml)                                                              |
+| Twitter handle | [@rgvfox](https://www.twitter.com/rgvfox)                                                                                  |
+| Location       | McAllen                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
-The archiving routine has captured 13 screenshots stored at the Internet Archive.
+The archiving routine has captured 14 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

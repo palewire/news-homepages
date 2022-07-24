@@ -9,15 +9,16 @@ orphan: true
 
 ![Evanston RoundTable](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/evroundtable.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://evanstonroundtable.com/](https://evanstonroundtable.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/evroundtable.xml) |
-| Twitter handle | [@EvRoundTable](https://www.twitter.com/EvRoundTable)                     |
-| Location       | Evanston                                                                 |
-| Timezone       | America/Chicago                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://evanstonroundtable.com/](https://evanstonroundtable.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/evroundtable.xml)                                                              |
+| Twitter handle | [@EvRoundTable](https://www.twitter.com/EvRoundTable)                                                                                  |
+| Location       | Evanston                                                                                                                              |
+| Timezone       | America/Chicago                                                                                                                              |
+| Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
 
-The archiving routine has captured 42 screenshots stored at the Internet Archive.
+The archiving routine has captured 44 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

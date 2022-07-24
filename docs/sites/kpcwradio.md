@@ -9,15 +9,16 @@ orphan: true
 
 ![KPCW](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kpcwradio.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.kpcw.org/](https://www.kpcw.org/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kpcwradio.xml) |
-| Twitter handle | [@kpcwradio](https://www.twitter.com/kpcwradio)                     |
-| Location       | Park City                                                                 |
-| Timezone       | America/Denver                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.kpcw.org/](https://www.kpcw.org/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kpcwradio.xml)                                                              |
+| Twitter handle | [@kpcwradio](https://www.twitter.com/kpcwradio)                                                                                  |
+| Location       | Park City                                                                                                                              |
+| Timezone       | America/Denver                                                                                                                              |
+| Bundles        |  |
 
-The archiving routine has captured 29 screenshots stored at the Internet Archive.
+The archiving routine has captured 30 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

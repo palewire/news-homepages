@@ -9,15 +9,16 @@ orphan: true
 
 ![Calgary Herald](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/calgaryherald.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://calgaryherald.com/](https://calgaryherald.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/calgaryherald.xml) |
-| Twitter handle | [@calgaryherald](https://www.twitter.com/calgaryherald)                     |
-| Location       | Calgary                                                                 |
-| Timezone       | America/Edmonton                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://calgaryherald.com/](https://calgaryherald.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/calgaryherald.xml)                                                              |
+| Twitter handle | [@calgaryherald](https://www.twitter.com/calgaryherald)                                                                                  |
+| Location       | Calgary                                                                                                                              |
+| Timezone       | America/Edmonton                                                                                                                              |
+| Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
-The archiving routine has captured 67 screenshots stored at the Internet Archive.
+The archiving routine has captured 68 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

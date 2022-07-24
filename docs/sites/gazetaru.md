@@ -9,15 +9,16 @@ orphan: true
 
 ![Gazeta.Ru](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gazetaru.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.gazeta.ru/](https://www.gazeta.ru/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gazetaru.xml) |
-| Twitter handle | [@gazetaru](https://www.twitter.com/gazetaru)                     |
-| Location       | Moscow                                                                 |
-| Timezone       | Europe/Moscow                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.gazeta.ru/](https://www.gazeta.ru/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/gazetaru.xml)                                                              |
+| Twitter handle | [@gazetaru](https://www.twitter.com/gazetaru)                                                                                  |
+| Location       | Moscow                                                                                                                              |
+| Timezone       | Europe/Moscow                                                                                                                              |
+| Bundles        | <a href="../bundles/russia.html">Russia</a>  |
 
-The archiving routine has captured 22 screenshots stored at the Internet Archive.
+The archiving routine has captured 25 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

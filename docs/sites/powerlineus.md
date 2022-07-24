@@ -9,15 +9,16 @@ orphan: true
 
 ![Power Line](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/powerlineus.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.powerlineblog.com/](https://www.powerlineblog.com/)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/powerlineus.xml) |
-| Twitter handle | [@powerlineus](https://www.twitter.com/powerlineus)                     |
-| Location       | Washington                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.powerlineblog.com/](https://www.powerlineblog.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/powerlineus.xml)                                                              |
+| Twitter handle | [@powerlineus](https://www.twitter.com/powerlineus)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
-The archiving routine has captured 18 screenshots stored at the Internet Archive.
+The archiving routine has captured 19 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

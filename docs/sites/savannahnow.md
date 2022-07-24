@@ -9,15 +9,16 @@ orphan: true
 
 ![Savannah Morning News](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/savannahnow.jpg)
 
-| Attribute      | Value                                                                               |
-| :------------- | :---------------------------------------------------------------------------------- |
-| Site           | [https://www.savannahnow.com](https://www.savannahnow.com)                                                    |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/savannahnow.xml) |
-| Twitter handle | [@SavannahNow](https://www.twitter.com/SavannahNow)                     |
-| Location       | Savannah                                                                 |
-| Timezone       | America/New_York                                                                 |
+| Attribute      | Value                                                                                                                                            |
+| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Site           | [https://www.savannahnow.com](https://www.savannahnow.com)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/savannahnow.xml)                                                              |
+| Twitter handle | [@SavannahNow](https://www.twitter.com/SavannahNow)                                                                                  |
+| Location       | Savannah                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
+| Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
-The archiving routine has captured 7 screenshots stored at the Internet Archive.
+The archiving routine has captured 8 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
