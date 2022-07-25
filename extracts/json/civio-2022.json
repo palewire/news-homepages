@@ -1,5 +1,6 @@
 {
-  "created": 1658660657,
+  "conflict": 1658710677,
+  "created": 1658710677,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/32/items/civio-2022",
@@ -4152,31 +4153,72 @@
       "sha1": "53d3a4ea6685dc71823f57ee945346be69476fbd"
     },
     {
+      "name": "civio-2022-07-25T02:55:09.904148+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658710512",
+      "size": "94468",
+      "md5": "a0966f898ebb5a7b50219b38dc5a5e95",
+      "crc32": "eb2c0691",
+      "sha1": "83a61f0f0d4d5b39e2e022d9b6072e316cf1d823",
+      "format": "JSON"
+    },
+    {
+      "name": "civio-2022-07-25T02:55:09.904148+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658710514",
+      "size": "49640",
+      "md5": "3b16fda73af23bc19d229b8fc263f579",
+      "crc32": "2010fc98",
+      "sha1": "7cb57739f9f884062a3e8187d96ea30db918c001",
+      "format": "JSON"
+    },
+    {
+      "name": "civio-2022-07-25T02:55:09.904148+02:00.jpg",
+      "source": "original",
+      "mtime": "1658710511",
+      "size": "418768",
+      "md5": "eea1edd98c3e14e35e9cd8b2aade1eef",
+      "crc32": "8b526c97",
+      "sha1": "9c516104cd4ba80411467ee7d6d2946e3a0d2607",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civio-2022-07-25T02:55:09.904148+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658710516",
+      "size": "1405",
+      "md5": "2bb9ce669b4b408479a164737f3c4d69",
+      "crc32": "e47ff4b6",
+      "sha1": "d2bc2207da8c1be364b414ede80f39a864b8e520",
+      "format": "JSON"
+    },
+    {
       "name": "civio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3dbef89a6b70fa39c465ae61dff93c5f38730c54",
-      "mtime": "1658660624",
-      "size": "83847",
-      "md5": "4f0d490348d276c410096b5b3fa5e0af",
-      "crc32": "68fbe5ff",
-      "sha1": "def0d79fd93ef56565a48ed1bcc50e0a2d24f561",
+      "btih": "3062bc4a13a67820b02f8b38aa7b2a2ff1c7f26f",
+      "mtime": "1658710559",
+      "size": "84690",
+      "md5": "ef4e25b11d8be98073ead9ab40de8315",
+      "crc32": "e836eee2",
+      "sha1": "1ea5c259559f8096021c89aa8ab5d1f6a39eb24b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7cdf784f1f5f23c27a379d2656d0d80",
+      "md5": "c857f2166489996b28b914e090cab7f9",
       "summation": "md5"
     },
     {
       "name": "civio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658660498",
-      "size": "471040",
-      "md5": "b32a2d79a46d4ae4695c5e81ca1dffc0",
-      "crc32": "6da5960c",
-      "sha1": "f7e1e5d5e657d0013fd01aaa8d808a7065143a6d",
+      "mtime": "1658710521",
+      "size": "475136",
+      "md5": "df1863bce0310b1ac1f88388ee288686",
+      "crc32": "b6e96d7f",
+      "sha1": "80de089a86e529ac0199df1f942885b7ec57d877",
       "format": "Metadata"
     },
     {
@@ -4190,9 +4232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 399,
-  "item_last_updated": 1658660624,
-  "item_size": 46134915,
+  "files_count": 403,
+  "item_last_updated": 1658710559,
+  "item_size": 46704135,
   "metadata": {
     "identifier": "civio-2022",
     "collection": [
@@ -4209,10 +4251,21 @@
     "publicdate": "2022-06-19 23:23:36",
     "addeddate": "2022-06-19 23:23:36"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 332011460,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3342806252,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 139515998,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

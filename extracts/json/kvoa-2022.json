@@ -1,5 +1,5 @@
 {
-  "created": 1658664580,
+  "created": 1658710948,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/25/items/kvoa-2022",
@@ -1556,31 +1556,63 @@
       "sha1": "8e4f4f5a893ece76a75fffc10917669e6b3f605f"
     },
     {
+      "name": "kvoa-2022-07-24T05:59:59.782379-07:00.jpg",
+      "source": "original",
+      "mtime": "1658667601",
+      "size": "278899",
+      "md5": "d67076ef007836a277239563c575c019",
+      "crc32": "73a02c2d",
+      "sha1": "8753f9ad39f21fdd3b87d6f4301e9965669d5abd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvoa-2022-07-24T05:59:59.782379-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658667603",
+      "size": "1441",
+      "md5": "31c506f23ea4b6874cf2084f5f29448b",
+      "crc32": "30b4f1a2",
+      "sha1": "fdc9ad5b6560211663e2dbef926133512500e970",
+      "format": "JSON"
+    },
+    {
+      "name": "kvoa-2022-07-24T05:59:59.782379-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvoa-2022-07-24T05:59:59.782379-07:00.jpg",
+      "mtime": "1658667677",
+      "size": "10255",
+      "md5": "e7840e133d454596fa4738ec4a91dc69",
+      "crc32": "75ba4fce",
+      "sha1": "2093d85fb67644d221077494845e03b43b912070"
+    },
+    {
       "name": "kvoa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "48fd2692e2ae70ad9fc5c2cf1d1bb489ad6b5098",
-      "mtime": "1658636190",
-      "size": "31794",
-      "md5": "72bc5fe9b8be55f88590165b8badfd53",
-      "crc32": "1473162f",
-      "sha1": "9ea418527991735ae02674b737a4a25ce685d9dc",
+      "btih": "4ec8974f9b9039f7349b6293bcc0e4ceff26f7cb",
+      "mtime": "1658667680",
+      "size": "32397",
+      "md5": "fdaec14fdd516e75e7c0c7ad3f9d1a74",
+      "crc32": "444da6a1",
+      "sha1": "32d17c6ea1e631417d047ac0eebd7569b2daba11",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvoa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6be7638c039b5dfd59ed6576289ce363",
+      "md5": "b62f23dc996d2da2f880f4388e68ae22",
       "summation": "md5"
     },
     {
       "name": "kvoa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658636136",
+      "mtime": "1658667606",
       "size": "184320",
-      "md5": "bc14706dafa5aa5c769b925cb67a834d",
-      "crc32": "4221a884",
-      "sha1": "f225487283fa660ad93eeaf965254f322b92f9c1",
+      "md5": "ca60f666cecc7a947f45d3517273c88b",
+      "crc32": "b3dcdea8",
+      "sha1": "897377e2a5c9dc1d994ce6d8701ce4a4dff80336",
       "format": "Metadata"
     },
     {
@@ -1594,17 +1626,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 151,
-  "item_last_updated": 1658636190,
-  "item_size": 15285531,
+  "files_count": 154,
+  "item_last_updated": 1658667680,
+  "item_size": 15576729,
   "kvoa-2022": [
     {
       "url": "https://www.kvoa.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_01_04_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_01_04_21.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_41_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_41_28.report.json",
       "summary": {
-        "performance": 0.17,
+        "performance": 0.14,
         "accessibility": 0.81,
         "best-practices": 0.75,
         "seo": 0.84,
@@ -1614,10 +1646,10 @@
     {
       "url": "https://www.kvoa.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_01_05_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_01_05_13.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_43_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_43_47.report.json",
       "summary": {
-        "performance": 0.17,
+        "performance": 0.15,
         "accessibility": 0.81,
         "best-practices": 0.75,
         "seo": 0.84,
@@ -1627,10 +1659,10 @@
     {
       "url": "https://www.kvoa.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_01_03_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_01_03_30.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_42_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kvoa_com-_-2022_07_24_12_42_40.report.json",
       "summary": {
-        "performance": 0.16,
+        "performance": 0.17,
         "accessibility": 0.81,
         "best-practices": 0.75,
         "seo": 0.84,
@@ -1655,7 +1687,7 @@
     "addeddate": "2022-07-04 21:55:29"
   },
   "server": "ia601505.us.archive.org",
-  "uniq": 1861787483,
+  "uniq": 1741544015,
   "workable_servers": [
     "ia601505.us.archive.org",
     "ia801505.us.archive.org"

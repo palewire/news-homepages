@@ -1,5 +1,5 @@
 {
-  "created": 1658660516,
+  "created": 1658710521,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/30/items/billy_penn-2022",
@@ -2220,31 +2220,83 @@
       "sha1": "7d1833cbf6b6727e4a7a3bff04987b4f27f352e6"
     },
     {
+      "name": "billy_penn-2022-07-24T20:50:20.487062-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658710224",
+      "size": "28575",
+      "md5": "171ad16e0b6990d57b6523f526f470b0",
+      "crc32": "941e2533",
+      "sha1": "e80f92fd79ce7761e8029b1d822c9c5d4caad904",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-07-24T20:50:20.487062-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658710226",
+      "size": "29548",
+      "md5": "3587dc021f8ffefc1b89d74161df1ae9",
+      "crc32": "106aff4d",
+      "sha1": "6aa03e695da882719b1917e839eca979a4fd731a",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-07-24T20:50:20.487062-04:00.jpg",
+      "source": "original",
+      "mtime": "1658710222",
+      "size": "341459",
+      "md5": "ddba0757f7101ec8faa4806ec6db2e9a",
+      "crc32": "502a08c9",
+      "sha1": "0005ad94243acf046292f0b7ad017d2b74d4aa2f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "billy_penn-2022-07-24T20:50:20.487062-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658710227",
+      "size": "1450",
+      "md5": "74eba7dc10b3d97d3db6cde5c7435890",
+      "crc32": "274e06de",
+      "sha1": "5e7c4324faef80c5a593ec50d433a4d175d59958",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-07-24T20:50:20.487062-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "billy_penn-2022-07-24T20:50:20.487062-04:00.jpg",
+      "mtime": "1658710309",
+      "size": "9841",
+      "md5": "02b9310817ff34b85529092cf7f0755b",
+      "crc32": "c9224db3",
+      "sha1": "1e7522ab30c06d471eaa825aed3cc683a33611a7"
+    },
+    {
       "name": "billy_penn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb1f3e5ce99703e716d4b4b16c98c26b7f7acaa4",
-      "mtime": "1658660479",
-      "size": "46393",
-      "md5": "64c82e16039bd0e752686b88e8b7b09c",
-      "crc32": "647f68b9",
-      "sha1": "620afbed1c03ff974aa5d34a2d59bdb172737b96",
+      "btih": "b080e50dcac9fda52800d4460efe258737d6abd4",
+      "mtime": "1658710318",
+      "size": "47462",
+      "md5": "e711265b4d6a5444189f6d29518ceec9",
+      "crc32": "1fe6f891",
+      "sha1": "92a925a2a9ba4166db8d52f890873dab2ca4a5dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "billy_penn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe4b012572ec2d9e5c0b35f423038c21",
+      "md5": "958e43c990ffbe5de51dfa7887a1867a",
       "summation": "md5"
     },
     {
       "name": "billy_penn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658660345",
-      "size": "266240",
-      "md5": "2eccdfe69fdf18b6124f37fe80690afc",
-      "crc32": "5cc2b71f",
-      "sha1": "311df30dce327629f6494330a069cbd39648963c",
+      "mtime": "1658710232",
+      "size": "270336",
+      "md5": "730bb6be2c7604bb9fe3c6046d768d61",
+      "crc32": "40b5fd02",
+      "sha1": "592b77eb23159b51df59b75e6273f5fc1079d18c",
       "format": "Metadata"
     },
     {
@@ -2258,9 +2310,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 215,
-  "item_last_updated": 1658660479,
-  "item_size": 20771306,
+  "files_count": 220,
+  "item_last_updated": 1658710318,
+  "item_size": 21187344,
   "metadata": {
     "identifier": "billy_penn-2022",
     "collection": [
@@ -2277,10 +2329,10 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 695002311,
+  "server": "ia801506.us.archive.org",
+  "uniq": 2051572885,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1658664557,
+  "created": 1658710922,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/26/items/kcur-2022",
@@ -1328,31 +1328,83 @@
       "sha1": "3e1eb36a664bf52988ad8a59b89eaaa676bb7fa8"
     },
     {
+      "name": "kcur-2022-07-24T07:58:59.850307-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658667543",
+      "size": "21877",
+      "md5": "2db6a5b00d488a0db9e6ab2ce2231494",
+      "crc32": "6a732d95",
+      "sha1": "f22fed29520c883dcf93687b6891e6584a070b8c",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-07-24T07:58:59.850307-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658667545",
+      "size": "37394",
+      "md5": "fb0244257f60ee405cb895410c48e071",
+      "crc32": "6803f007",
+      "sha1": "d34f6554f6bb78a3e71ec1cdc8ca5eaca9a1c8e8",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-07-24T07:58:59.850307-05:00.jpg",
+      "source": "original",
+      "mtime": "1658667541",
+      "size": "244812",
+      "md5": "defe2dc24eddab07f461cf47a6241e08",
+      "crc32": "8543156f",
+      "sha1": "427c98408ddbdb69dc6f7c98395485dce0101685",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcur-2022-07-24T07:58:59.850307-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658667546",
+      "size": "1441",
+      "md5": "ddc094e9c0ca18bba1f290c931be2652",
+      "crc32": "fe4ac369",
+      "sha1": "be08461eea7025021535a316fab63d31b8cb69c7",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-07-24T07:58:59.850307-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcur-2022-07-24T07:58:59.850307-05:00.jpg",
+      "mtime": "1658667650",
+      "size": "10764",
+      "md5": "157112eb552307699640a89a57dbf46c",
+      "crc32": "fc3b25b9",
+      "sha1": "9ceff4ea0e71286492aed4e25d3349053378dc4e"
+    },
+    {
       "name": "kcur-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0c48d8c9f4fde9c0753eb8babe2d23de072a8a70",
-      "mtime": "1658636220",
-      "size": "27450",
-      "md5": "5996312170e0fcb3cba79180151f9905",
-      "crc32": "c07b22fe",
-      "sha1": "6fc6eff74b36f1a4859efa3d62732d7b855eaa80",
+      "btih": "2d9b923fa6796e5b5caee077222d50e4c90d5d70",
+      "mtime": "1658667656",
+      "size": "28490",
+      "md5": "d50a23677131706008ce75d82797cde3",
+      "crc32": "4bc0d37e",
+      "sha1": "950f02c7e6f184332ecd062e5f0695bd8c55fdab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcur-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "98aaf430192b9d1001efeb721a9f8907",
+      "md5": "6e63a544471342cbd5b10f704ce01eff",
       "summation": "md5"
     },
     {
       "name": "kcur-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658636113",
-      "size": "167936",
-      "md5": "aecf062e0e14821096f1f15cec3955fc",
-      "crc32": "27291beb",
-      "sha1": "b4a57dedf3ead6b7b0cd709cc42c3fc6c3e39cb6",
+      "mtime": "1658667552",
+      "size": "172032",
+      "md5": "818287d5499edbcf6ac5a06fd8b66ca1",
+      "crc32": "8ea3da41",
+      "sha1": "9486137d5b532150e256999403cd0586a8733dd6",
       "format": "Metadata"
     },
     {
@@ -1366,17 +1418,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 130,
-  "item_last_updated": 1658636220,
-  "item_size": 11452533,
+  "files_count": 135,
+  "item_last_updated": 1658667656,
+  "item_size": 11773957,
   "kcur-2022": [
     {
       "url": "https://www.kcur.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_01_01_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_01_01_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_12_38_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_12_38_55.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.26,
         "accessibility": 0.94,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -1386,10 +1438,10 @@
     {
       "url": "https://www.kcur.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_01_01_51.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_01_01_51.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_12_39_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_12_39_11.report.json",
       "summary": {
-        "performance": 0.51,
+        "performance": 0.42,
         "accessibility": 0.94,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -1399,10 +1451,10 @@
     {
       "url": "https://www.kcur.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_01_01_37.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_01_01_37.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_12_39_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcur_org-_-2022_07_24_12_39_26.report.json",
       "summary": {
-        "performance": 0.52,
+        "performance": 0.44,
         "accessibility": 0.94,
         "best-practices": 0.92,
         "seo": 0.98,
@@ -1427,7 +1479,7 @@
     "addeddate": "2022-07-09 03:59:38"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 1650461002,
+  "uniq": 1735843415,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

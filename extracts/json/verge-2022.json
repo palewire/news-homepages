@@ -1,5 +1,5 @@
 {
-  "created": 1658665058,
+  "created": 1658675945,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/verge-2022",
@@ -3732,31 +3732,83 @@
       "sha1": "7a4f412c1b555ace39cf048fe8db7ed0fff274ea"
     },
     {
+      "name": "verge-2022-07-24T11:10:21.118584-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658675425",
+      "size": "35496",
+      "md5": "b118bd4b1dc1b32cc8fb21edc3d35e45",
+      "crc32": "67138dce",
+      "sha1": "386956a2e6703c68a83939c8547bdd09f0873792",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-07-24T11:10:21.118584-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658675426",
+      "size": "61373",
+      "md5": "6a521a0f36b7805f364a6a9697d12eed",
+      "crc32": "8fc3e571",
+      "sha1": "9bcd2859d456730f03aa555966e4ef3e6e9bb065",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-07-24T11:10:21.118584-04:00.jpg",
+      "source": "original",
+      "mtime": "1658675423",
+      "size": "345873",
+      "md5": "e456167ce72e266a03a17679671bb15d",
+      "crc32": "3a5d6760",
+      "sha1": "8aacbc14bc4015bf52061132ba1f9f22c6e8a430",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "verge-2022-07-24T11:10:21.118584-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658675428",
+      "size": "1473",
+      "md5": "f7ede99997fc4f0940625e68076d036f",
+      "crc32": "d89e046e",
+      "sha1": "5471ab4087769b62b0bd5ea5c13b5b170662c3ed",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-07-24T11:10:21.118584-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verge-2022-07-24T11:10:21.118584-04:00.jpg",
+      "mtime": "1658675676",
+      "size": "12979",
+      "md5": "ee43c545288d837c98de35a78e7d34d7",
+      "crc32": "bc455293",
+      "sha1": "d8a013482d54dfcdbdc6d1a9a63b42c5b11f96c4"
+    },
+    {
       "name": "verge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eb8b622d908fd51dedcf0169f9028fa51982d087",
-      "mtime": "1658634713",
-      "size": "75484",
-      "md5": "4a4baafa78d7d798c071628d49d2fd77",
-      "crc32": "2635562a",
-      "sha1": "1e032416d8e684a77e00984e162bedee9f04d52c",
+      "btih": "98ba9028ae4970237c92acf3a863484167c82dc5",
+      "mtime": "1658675913",
+      "size": "76529",
+      "md5": "22a26b98fc2bf94cbd8c531c8726caf0",
+      "crc32": "18e856f3",
+      "sha1": "77a363a8cc387fcffb5e69de05709cee3d23b632",
       "format": "Archive BitTorrent"
     },
     {
       "name": "verge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af10e0e7ccebe11183fbca0266bac957",
+      "md5": "c6f910adee3377725d9f4a45d066148b",
       "summation": "md5"
     },
     {
       "name": "verge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658634365",
-      "size": "421888",
-      "md5": "00b81056442a9b9de57cf6d80ac70b6d",
-      "crc32": "cbd21acc",
-      "sha1": "d8ef16345e6a4a3dfde42610ea96c25e1f99b796",
+      "mtime": "1658675432",
+      "size": "425984",
+      "md5": "02a2b5795135c41fc3e4a0b2abd78bea",
+      "crc32": "21ebffa5",
+      "sha1": "43a63ef730d98b49690fbea8a31145d64d565122",
       "format": "Metadata"
     },
     {
@@ -3770,9 +3822,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 359,
-  "item_last_updated": 1658634713,
-  "item_size": 39124831,
+  "files_count": 364,
+  "item_last_updated": 1658675913,
+  "item_size": 39587166,
   "metadata": {
     "identifier": "verge-2022",
     "collection": [
@@ -3790,48 +3842,7 @@
     "addeddate": "2022-06-24 23:03:27"
   },
   "server": "ia601400.us.archive.org",
-  "uniq": 997809038,
-  "verge-2022": [
-    {
-      "url": "https://www.theverge.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_24_03_26_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_24_03_26_55.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.91,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.theverge.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_24_03_27_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_24_03_27_24.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.91,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.theverge.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_24_03_26_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theverge_com-_-2022_07_24_03_26_20.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.91,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "uniq": 1766263355,
   "workable_servers": [
     "ia601400.us.archive.org",
     "ia801400.us.archive.org"

@@ -1,5 +1,6 @@
 {
-  "created": 1658664007,
+  "conflict": 1658710675,
+  "created": 1658710675,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/3/items/ctmirror-2022",
@@ -1437,10 +1438,21 @@
     "publicdate": "2022-07-09 03:58:07",
     "addeddate": "2022-07-09 03:58:07"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 690372141,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3342807389,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1681695294,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

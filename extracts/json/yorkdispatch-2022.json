@@ -1,5 +1,5 @@
 {
-  "created": 1658665135,
+  "created": 1658711525,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/26/items/yorkdispatch-2022",
@@ -110,31 +110,83 @@
       "sha1": "9f297a69aa18774e176fe299cfae546c5c73adec"
     },
     {
+      "name": "yorkdispatch-2022-07-24T11:12:17.665477-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658675540",
+      "size": "20615",
+      "md5": "58c74d6a03fb5856c81cf25418309fc6",
+      "crc32": "4a699dc6",
+      "sha1": "dc553411ad76548f82a4b01027a0326245c1cd10",
+      "format": "JSON"
+    },
+    {
+      "name": "yorkdispatch-2022-07-24T11:12:17.665477-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658675542",
+      "size": "28271",
+      "md5": "b039d47cb27c22214793755894f4c76c",
+      "crc32": "df5ff240",
+      "sha1": "60ff3dda5735f5c9cee9ee3c91632b95b2147fd3",
+      "format": "JSON"
+    },
+    {
+      "name": "yorkdispatch-2022-07-24T11:12:17.665477-04:00.jpg",
+      "source": "original",
+      "mtime": "1658675539",
+      "size": "265660",
+      "md5": "fde8d194c9d2b148a253604004c64ad6",
+      "crc32": "67fa3601",
+      "sha1": "931dce139f0793055e9a21d1ba1b1a3d5bed84b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yorkdispatch-2022-07-24T11:12:17.665477-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658675544",
+      "size": "1503",
+      "md5": "34d1aba70475069c9c1c5eb76b0b8795",
+      "crc32": "aef84604",
+      "sha1": "29fc322e4e7603735c252e135124905b7576425a",
+      "format": "JSON"
+    },
+    {
+      "name": "yorkdispatch-2022-07-24T11:12:17.665477-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yorkdispatch-2022-07-24T11:12:17.665477-04:00.jpg",
+      "mtime": "1658675663",
+      "size": "9303",
+      "md5": "984fcaa778b99037de92e8fbeb93c8ea",
+      "crc32": "63ae2c24",
+      "sha1": "116a3db44cf9b18a165fd466484d29163c0eb895"
+    },
+    {
       "name": "yorkdispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6ec6d784577a008a8585faf9b695e16df83a417",
-      "mtime": "1658634610",
-      "size": "3586",
-      "md5": "18c581ce67ea248d1873ce0f40e0799f",
-      "crc32": "460e522a",
-      "sha1": "f028b71b89e87e851bf2bab787a30f50d64f8420",
+      "btih": "eb3177a75ea35c4270b4b0a452159e720436f7b8",
+      "mtime": "1658675667",
+      "size": "4645",
+      "md5": "200f728ee8f546b7690c234d10d1ec96",
+      "crc32": "2fbf057f",
+      "sha1": "83c7c25cb65c29664369607e1925d4e1d5d80bff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yorkdispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03e8337e19ae24c6d2dc32993e18cc31",
+      "md5": "304e0dd608ef9c86f52ad5ca93d971d3",
       "summation": "md5"
     },
     {
       "name": "yorkdispatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658634511",
-      "size": "32768",
-      "md5": "918382979132bf0ce1053529f3bcfa18",
-      "crc32": "76f47d1c",
-      "sha1": "b9e7ad636542f9c5887b59ddc29c1c1db78fe4c9",
+      "mtime": "1658675548",
+      "size": "36864",
+      "md5": "eafd40dcd6c6efa094ff75b340ab09ef",
+      "crc32": "71012ce0",
+      "sha1": "1e88544951a077198d3f57a5e73f82a8d64afb8e",
       "format": "Metadata"
     },
     {
@@ -148,9 +200,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 14,
-  "item_last_updated": 1658634610,
-  "item_size": 719089,
+  "files_count": 19,
+  "item_last_updated": 1658675667,
+  "item_size": 1049596,
   "metadata": {
     "identifier": "yorkdispatch-2022",
     "collection": [
@@ -167,22 +219,22 @@
     "publicdate": "2022-07-23 16:10:31",
     "addeddate": "2022-07-23 16:10:31"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1993104020,
+  "server": "ia601506.us.archive.org",
+  "uniq": 642926486,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ],
   "yorkdispatch-2022": [
     {
       "url": "https://www.yorkdispatch.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_03_31_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_03_31_42.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_14_31_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_14_31_39.report.json",
       "summary": {
-        "performance": 0.82,
+        "performance": 0.7,
         "accessibility": 0.88,
-        "best-practices": 0.92,
+        "best-practices": 1,
         "seo": 0.93,
         "pwa": 0.3
       }
@@ -190,10 +242,10 @@
     {
       "url": "https://www.yorkdispatch.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_03_32_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_03_32_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_14_34_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_14_34_29.report.json",
       "summary": {
-        "performance": 0.78,
+        "performance": 0.86,
         "accessibility": 0.88,
         "best-practices": 1,
         "seo": 0.93,
@@ -203,10 +255,10 @@
     {
       "url": "https://www.yorkdispatch.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_03_32_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_03_32_03.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_14_33_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yorkdispatch_com-_-2022_07_24_14_33_02.report.json",
       "summary": {
-        "performance": 0.8,
+        "performance": 0.85,
         "accessibility": 0.88,
         "best-practices": 1,
         "seo": 0.93,

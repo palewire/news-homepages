@@ -1,5 +1,5 @@
 {
-  "created": 1658643698,
+  "created": 1658671292,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/29/items/phillytrib-2022",
@@ -2126,31 +2126,83 @@
       "sha1": "95afc63b52391cb7fc35623b13cd0cc2753d3c31"
     },
     {
+      "name": "phillytrib-2022-07-24T09:59:57.382958-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658671200",
+      "size": "25614",
+      "md5": "f7c572599d0d64fd335747045230db2d",
+      "crc32": "682b5059",
+      "sha1": "f8c4a24d7badda693699bd5f87886a46c060e652",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-07-24T09:59:57.382958-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658671203",
+      "size": "52681",
+      "md5": "b2487c9d4a035ae8bb01820dc4700a4c",
+      "crc32": "22b126c3",
+      "sha1": "3273ec857ca5f1ee0b658ab5bdef4723668adbcd",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-07-24T09:59:57.382958-04:00.jpg",
+      "source": "original",
+      "mtime": "1658671198",
+      "size": "360669",
+      "md5": "8f43cf270c5757bd00be633b2ac614b9",
+      "crc32": "792cdf7a",
+      "sha1": "3d3d2ada2a21a8d8c03cde7a5a1ac09e2bdebcd2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "phillytrib-2022-07-24T09:59:57.382958-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658671204",
+      "size": "1495",
+      "md5": "7a4f102d3b02612b8aba8dd51e742c9f",
+      "crc32": "d475b14e",
+      "sha1": "c4a0b13f1102ade71b216176b1f02b2924f3b16c",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-07-24T09:59:57.382958-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillytrib-2022-07-24T09:59:57.382958-04:00.jpg",
+      "mtime": "1658671276",
+      "size": "11111",
+      "md5": "210055874145e35ee91547dcfacf348b",
+      "crc32": "e1909772",
+      "sha1": "95afc63b52391cb7fc35623b13cd0cc2753d3c31"
+    },
+    {
       "name": "phillytrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fb1383348cef537424183bdfff30e403ae9f8740",
-      "mtime": "1658643677",
-      "size": "44578",
-      "md5": "0bc5293d660d0b4bab30f5dde8c34231",
-      "crc32": "738bdbe9",
-      "sha1": "25c96bfc3e42e9da760962d8ebb3f19d01c499ee",
+      "btih": "7a3b7e86919ef89d279261a893f8c55e896ec9d5",
+      "mtime": "1658671280",
+      "size": "45648",
+      "md5": "8cb6e72edcaa463875787c82553afbd1",
+      "crc32": "4541b005",
+      "sha1": "5f7ddd023e1b0d422a1909020eb7ce4a21abca5c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillytrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e8cf219cf18ba21dc37631f733333441",
+      "md5": "32487790e886e3b070ae1ad03f1b2e8a",
       "summation": "md5"
     },
     {
       "name": "phillytrib-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658643571",
-      "size": "253952",
-      "md5": "b09f6e05477a48c2a7cde48abd0401ab",
-      "crc32": "8e4c242d",
-      "sha1": "d82cc1d44b8a8b1eb10b7e0f6074f0c7d6dafff6",
+      "mtime": "1658671208",
+      "size": "258048",
+      "md5": "ac6e3370201393297c7225654a21ace1",
+      "crc32": "1c742502",
+      "sha1": "f1fed767e343634542237860d9f75cdc1eceba7f",
       "format": "Metadata"
     },
     {
@@ -2164,9 +2216,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 206,
-  "item_last_updated": 1658643677,
-  "item_size": 21814332,
+  "files_count": 211,
+  "item_last_updated": 1658671280,
+  "item_size": 22271068,
   "metadata": {
     "identifier": "phillytrib-2022",
     "collection": [
@@ -2183,10 +2235,10 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "server": "ia902506.us.archive.org",
-  "uniq": 1774473622,
+  "server": "ia802506.us.archive.org",
+  "uniq": 1745347282,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }

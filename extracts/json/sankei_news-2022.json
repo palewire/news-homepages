@@ -1,5 +1,5 @@
 {
-  "created": 1658664880,
+  "created": 1658711279,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/26/items/sankei_news-2022",
@@ -1892,31 +1892,73 @@
       "sha1": "96bc24dd297e647ced45a2aaa45a7351b443a970"
     },
     {
+      "name": "sankei_news-2022-07-24T23:03:09.153158+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658671392",
+      "size": "56267",
+      "md5": "2ea4257f84e2361e1f9fff93228d48fd",
+      "crc32": "e49a69f8",
+      "sha1": "90fcb7553577fce8f7149a9f86eee36aa81a95ec",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-07-24T23:03:09.153158+09:00.jpg",
+      "source": "original",
+      "mtime": "1658671390",
+      "size": "362630",
+      "md5": "f10dbd97234b3d4ac755af1cae846b28",
+      "crc32": "d9c8b15d",
+      "sha1": "ae1565fa6d0c58687ab81eb980476ced8e6b407f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sankei_news-2022-07-24T23:03:09.153158+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658671393",
+      "size": "1458",
+      "md5": "f5e9ebabc6695c3579c3c74a1ba4cda3",
+      "crc32": "25492c84",
+      "sha1": "91a28a4e37a9577f3b9d05c1dcda81a4a3fa80a9",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-07-24T23:03:09.153158+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sankei_news-2022-07-24T23:03:09.153158+09:00.jpg",
+      "mtime": "1658671457",
+      "size": "10778",
+      "md5": "28f27d0a1abae093d869e8ae415ec647",
+      "crc32": "4bd9ee00",
+      "sha1": "acf319b258b0e3c82b893b1284259d6c583e10c3"
+    },
+    {
       "name": "sankei_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f50533bd0fd094068fb3e98e86f9ee2872f00874",
-      "mtime": "1658643988",
-      "size": "39966",
-      "md5": "a58bfd3f2e6aedd33487c287bac35fb1",
-      "crc32": "90eb89a1",
-      "sha1": "00b5430972337488e2e13a17b0ab483af58153eb",
+      "btih": "3eeed560ef3679b7d47dbf5c14a539bf26698db1",
+      "mtime": "1658671463",
+      "size": "40827",
+      "md5": "21777813ae846e20a6effaa1369a13bf",
+      "crc32": "04616573",
+      "sha1": "e4e8add0afe650b386c84b106c7fbfbd69319a47",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sankei_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94079ffb124e1da83b4e75521c4c9e4b",
+      "md5": "9156ec85a059f91f9166a712afcf47b7",
       "summation": "md5"
     },
     {
       "name": "sankei_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658643735",
-      "size": "225280",
-      "md5": "b97cc0f10913e1254e19fe3390538c27",
-      "crc32": "5c40267a",
-      "sha1": "a6fd8b43bcbc829ea036cf18fc70b5b1add1831e",
+      "mtime": "1658671397",
+      "size": "229376",
+      "md5": "1fa8ccce80120c4486375e1e5feb1920",
+      "crc32": "3f74a6e0",
+      "sha1": "4a2c449ab50265661f14e4439e750943bc6943a0",
       "format": "Metadata"
     },
     {
@@ -1930,9 +1972,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 183,
-  "item_last_updated": 1658643988,
-  "item_size": 24642341,
+  "files_count": 187,
+  "item_last_updated": 1658671463,
+  "item_size": 25078431,
   "metadata": {
     "identifier": "sankei_news-2022",
     "collection": [
@@ -1953,12 +1995,12 @@
     {
       "url": "https://www.sankei.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_05_20_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_05_20_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_13_46_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_13_46_53.report.json",
       "summary": {
-        "performance": 0.21,
+        "performance": 0.2,
         "accessibility": 0.77,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.82,
         "pwa": 0.4
       }
@@ -1966,12 +2008,12 @@
     {
       "url": "https://www.sankei.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_05_21_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_05_21_32.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_13_47_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_13_47_41.report.json",
       "summary": {
-        "performance": 0.22,
+        "performance": 0.23,
         "accessibility": 0.77,
-        "best-practices": 0.75,
+        "best-practices": 0.83,
         "seo": 0.82,
         "pwa": 0.4
       }
@@ -1979,21 +2021,21 @@
     {
       "url": "https://www.sankei.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_05_21_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_05_21_00.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_13_48_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sankei_com-_-2022_07_24_13_48_25.report.json",
       "summary": {
         "performance": 0.22,
-        "accessibility": 0.77,
+        "accessibility": 0.79,
         "best-practices": 0.83,
         "seo": 0.82,
         "pwa": 0.4
       }
     }
   ],
-  "server": "ia902507.us.archive.org",
-  "uniq": 1488549525,
+  "server": "ia802507.us.archive.org",
+  "uniq": 386599311,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

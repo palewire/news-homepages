@@ -1,5 +1,5 @@
 {
-  "created": 1658664236,
+  "created": 1658710847,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/16/items/hotairblog-2022",
@@ -876,31 +876,83 @@
       "sha1": "2c439b25a1fdfea2d2594f0cec6a9fe94c27a333"
     },
     {
+      "name": "hotairblog-2022-07-24T11:44:21.503572-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658677465",
+      "size": "38530",
+      "md5": "3853538980bbb2f64d1b2f3f8abf03d5",
+      "crc32": "652e4457",
+      "sha1": "88da4c1db62fa42765840117389f2997f42d2dde",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-07-24T11:44:21.503572-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658677467",
+      "size": "29929",
+      "md5": "8adca9fad2a744b4f107362edd08ec79",
+      "crc32": "158f1059",
+      "sha1": "5d806935c684e3a5d20012894941f461ed333292",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-07-24T11:44:21.503572-04:00.jpg",
+      "source": "original",
+      "mtime": "1658677463",
+      "size": "247933",
+      "md5": "e8d6b3ddecb782a4bb20a331abb36522",
+      "crc32": "52e81136",
+      "sha1": "c1f429967fd6990d21753e1f4b15751019080508",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hotairblog-2022-07-24T11:44:21.503572-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658677469",
+      "size": "1419",
+      "md5": "1d335a2284f529f779dd11ba728d47e6",
+      "crc32": "2e52b6fe",
+      "sha1": "e9aa5e5e1753ad1e213640ebd7c01ca505883937",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-07-24T11:44:21.503572-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hotairblog-2022-07-24T11:44:21.503572-04:00.jpg",
+      "mtime": "1658677617",
+      "size": "9488",
+      "md5": "4295116aaf7560ec7950c5b0b70a1088",
+      "crc32": "dfe0cbc6",
+      "sha1": "890301464f9a12040f47c04194feb99d062e5146"
+    },
+    {
       "name": "hotairblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4354208728e7f7f64b735b2448a81e77358913a9",
-      "mtime": "1658664226",
-      "size": "19070",
-      "md5": "7e0ab2afeeefd8c39f5458801ab3667b",
-      "crc32": "f618aee0",
-      "sha1": "e1a8d64a6735ba0db05c16de15be084c93405507",
+      "btih": "4b45fbaf5bca93ceb9383df4747df80196f70518",
+      "mtime": "1658677631",
+      "size": "20119",
+      "md5": "4a99c235ef965ebf72644e316c1dab70",
+      "crc32": "20905f7f",
+      "sha1": "d2ee9880d448e9b8b6a3b0854372da6922ad10a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hotairblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1735ec3197b2681e0d169abcc2efcce4",
+      "md5": "13fa9179886a1c31c2a481892d64c4a7",
       "summation": "md5"
     },
     {
       "name": "hotairblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658664166",
-      "size": "114688",
-      "md5": "86f8c46307446169b4230abf6d31d79a",
-      "crc32": "68756b7a",
-      "sha1": "af6fcb27f7ab3c16bb4909648dc10a1e5fcb5602",
+      "mtime": "1658677472",
+      "size": "126976",
+      "md5": "f363c91c8e93fbae46ac65b66c9c775c",
+      "crc32": "ac4febb7",
+      "sha1": "5fb615e0e18faba72d856d046266bad95fe1f7fe",
       "format": "Metadata"
     },
     {
@@ -914,9 +966,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 87,
-  "item_last_updated": 1658664226,
-  "item_size": 6971307,
+  "files_count": 92,
+  "hotairblog-2022": [
+    {
+      "url": "https://hotair.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_24_15_33_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_24_15_33_17.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.68,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://hotair.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_24_15_33_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_24_15_33_51.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.68,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://hotair.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_24_15_33_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/hotair_com-_-2022_07_24_15_33_35.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.68,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.8
+      }
+    }
+  ],
+  "item_last_updated": 1658677631,
+  "item_size": 7311943,
   "metadata": {
     "identifier": "hotairblog-2022",
     "collection": [
@@ -933,10 +1026,10 @@
     "publicdate": "2022-07-17 15:03:29",
     "addeddate": "2022-07-17 15:03:29"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 827022602,
+  "server": "ia601506.us.archive.org",
+  "uniq": 1027125032,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

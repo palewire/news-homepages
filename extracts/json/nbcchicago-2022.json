@@ -1,5 +1,5 @@
 {
-  "created": 1658664707,
+  "created": 1658677783,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/nbcchicago-2022",
@@ -2578,31 +2578,135 @@
       "sha1": "add15581e85c7b3ca471e188f65dc02b277a0ceb"
     },
     {
+      "name": "nbcchicago-2022-07-24T08:04:26.104028-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658667870",
+      "size": "48681",
+      "md5": "c75483c647b440404e6fc40608c9503f",
+      "crc32": "946e7538",
+      "sha1": "d74fbd3ed6dedc9208468529953c0a6a1b97db53",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-07-24T08:04:26.104028-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658667872",
+      "size": "57261",
+      "md5": "9be3dc44907aa965889bd48839eb8ff4",
+      "crc32": "cce1d9b6",
+      "sha1": "7024c6dc1836ac785682294778e36a1135aafbb5",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-07-24T08:04:26.104028-05:00.jpg",
+      "source": "original",
+      "mtime": "1658667869",
+      "size": "308543",
+      "md5": "60e02b98ce5242031733d4c1be66c4d8",
+      "crc32": "f8bc5046",
+      "sha1": "63f74db1660756266b4578ea08f028d5f8df2750",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcchicago-2022-07-24T08:04:26.104028-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658667873",
+      "size": "1495",
+      "md5": "8913ecea2e4222a744dd335bd0c3880e",
+      "crc32": "20b26644",
+      "sha1": "da3167aa3c5f53e68759820a95bf4a9722ddcdbc",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-07-24T08:04:26.104028-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcchicago-2022-07-24T08:04:26.104028-05:00.jpg",
+      "mtime": "1658667966",
+      "size": "10189",
+      "md5": "8fa894a07b4f049f793bf48e484d62b3",
+      "crc32": "eeae5259",
+      "sha1": "3bcd219973cca746bb42d63cc631a49b8e5f31a0"
+    },
+    {
+      "name": "nbcchicago-2022-07-24T10:46:06.928070-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658677571",
+      "size": "47996",
+      "md5": "9101fa5b19448fc54429ac3369ddb182",
+      "crc32": "90e70266",
+      "sha1": "0fdff46c05e89e81a01e03c7a1f2a09131f5124b",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-07-24T10:46:06.928070-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658677572",
+      "size": "56618",
+      "md5": "0c0ac8bc70dca7a44a33723bbf3a3e7f",
+      "crc32": "9782a063",
+      "sha1": "2bdb6569b581698b19d396e998f988cb2224289a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-07-24T10:46:06.928070-05:00.jpg",
+      "source": "original",
+      "mtime": "1658677569",
+      "size": "321922",
+      "md5": "9ed44eb4b0f9001fb47b4fef7e8e6620",
+      "crc32": "891d9eed",
+      "sha1": "9329d90f353c2015b830849ebc456f4cd4546c3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcchicago-2022-07-24T10:46:06.928070-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658677574",
+      "size": "1495",
+      "md5": "ef3b693cebf1b04de393bfef71d326a1",
+      "crc32": "9fe9f40d",
+      "sha1": "9e4418797089e2c2ac57505211b1601a73646f23",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-07-24T10:46:06.928070-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcchicago-2022-07-24T10:46:06.928070-05:00.jpg",
+      "mtime": "1658677760",
+      "size": "10169",
+      "md5": "4d5eceda7f7d585dc624793a2783071e",
+      "crc32": "fb2930be",
+      "sha1": "aa4ed530ebb7462a3045ad53a34d62c66301e618"
+    },
+    {
       "name": "nbcchicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3502b622706665c2f1d381704c4ccd61e4c090aa",
-      "mtime": "1658636652",
-      "size": "53727",
-      "md5": "0b42bf5e746ea25b846948a4c55ebf31",
-      "crc32": "2733ca84",
-      "sha1": "371426c1a184285eb448335ce505bed6dd960e08",
+      "btih": "1c3ff0ff339f7daf0ec58749426eb8d4c7517b7b",
+      "mtime": "1658677764",
+      "size": "55847",
+      "md5": "d8d4b2c9fe7267d87cc2276fa81dadde",
+      "crc32": "5648de3f",
+      "sha1": "a1c11ed0906726c18aaa6ca34d4b146320fa571e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcchicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dca4a137afa384b9015eb17f3fdd9042",
+      "md5": "e17564347f23a6e64f32a94d87c04305",
       "summation": "md5"
     },
     {
       "name": "nbcchicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658636427",
-      "size": "299008",
-      "md5": "006664c7aa2e6fcd1dbdf85b9080a952",
-      "crc32": "4e0d3df1",
-      "sha1": "71e74516c979114a8210d7952ce765daabe789a2",
+      "mtime": "1658677580",
+      "size": "311296",
+      "md5": "c939e49c7a6820f42858c3662a0db564",
+      "crc32": "4af8d859",
+      "sha1": "e1f188772397a2ec19376648c8bf441a3886bc8b",
       "format": "Metadata"
     },
     {
@@ -2616,9 +2720,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 249,
-  "item_last_updated": 1658636652,
-  "item_size": 25798422,
+  "files_count": 259,
+  "item_last_updated": 1658677764,
+  "item_size": 26677199,
   "metadata": {
     "identifier": "nbcchicago-2022",
     "collection": [
@@ -2635,49 +2739,8 @@
     "publicdate": "2022-07-03 15:31:29",
     "addeddate": "2022-07-03 15:31:29"
   },
-  "nbcchicago-2022": [
-    {
-      "url": "https://www.nbcchicago.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_10_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_10_38.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.83,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nbcchicago.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_11_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_11_04.report.json",
-      "summary": {
-        "performance": 0.25,
-        "accessibility": 0.83,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nbcchicago.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_11_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcchicago_com-_-2022_07_24_01_11_26.report.json",
-      "summary": {
-        "performance": 0.25,
-        "accessibility": 0.83,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    }
-  ],
   "server": "ia801501.us.archive.org",
-  "uniq": 477798294,
+  "uniq": 17252482,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

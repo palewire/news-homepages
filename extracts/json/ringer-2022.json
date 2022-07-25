@@ -1,5 +1,5 @@
 {
-  "created": 1658643974,
+  "created": 1658711267,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/29/items/ringer-2022",
@@ -4036,31 +4036,83 @@
       "sha1": "8771bb88f4805d1db0b9370c4fff56fd79a86999"
     },
     {
+      "name": "ringer-2022-07-24T07:02:19.113950-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658671344",
+      "size": "49294",
+      "md5": "71faebfb04e37b709c2cf3c6e4a914f4",
+      "crc32": "8cd91bf7",
+      "sha1": "bc7e4f3685834eb02bf74535e651ad2491d89125",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-24T07:02:19.113950-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658671345",
+      "size": "59551",
+      "md5": "878d792f7393053d37e9f45eb4b5dcfa",
+      "crc32": "050c1c76",
+      "sha1": "ae54019dfa345ad9796e1fac8ca87030f54a1e8e",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-24T07:02:19.113950-07:00.jpg",
+      "source": "original",
+      "mtime": "1658671341",
+      "size": "309687",
+      "md5": "f0ad33058bd12e52400881927a59f101",
+      "crc32": "797ef91f",
+      "sha1": "71451f26c928bed3a744465fe8404e33d1dcdbb1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ringer-2022-07-24T07:02:19.113950-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658671350",
+      "size": "1483",
+      "md5": "a898c32c6cf2bccc2a90d6fdad1b3ab6",
+      "crc32": "7c68294e",
+      "sha1": "d90720d0f13b2c1e3a80a0605163984f50cb5df7",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-07-24T07:02:19.113950-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ringer-2022-07-24T07:02:19.113950-07:00.jpg",
+      "mtime": "1658671433",
+      "size": "10228",
+      "md5": "4c4333231ed57f3bb1ce34808540042e",
+      "crc32": "ab9f08ce",
+      "sha1": "8771bb88f4805d1db0b9370c4fff56fd79a86999"
+    },
+    {
       "name": "ringer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b164122923d98b2255888f79c05f00eca98e4263",
-      "mtime": "1658643947",
-      "size": "81923",
-      "md5": "c32e9313aa394c69c2d427f62a4038ab",
-      "crc32": "942cbe47",
-      "sha1": "fc24c1326ef596b9ef6f5f49a64bb7e3fdb77ea8",
+      "btih": "e8a1dd17ea889f78c48e0e5fcba506c75951e954",
+      "mtime": "1658671443",
+      "size": "82973",
+      "md5": "40d6ffe62f03802a953a41614de0cd2c",
+      "crc32": "d5bd623f",
+      "sha1": "b1cc7285c1eb5301a5915f623d23b1ac03476acd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ringer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "02e20f25314b48e384ccde1f400bbf95",
+      "md5": "2eab88763eeb668cc572864750ce7ed0",
       "summation": "md5"
     },
     {
       "name": "ringer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658643733",
-      "size": "458752",
-      "md5": "f6e4f00a27e981cc0a7df03d80318409",
-      "crc32": "b1522569",
-      "sha1": "c22ca07241c5ad020f5501d0fcb64d1370e144df",
+      "mtime": "1658671354",
+      "size": "466944",
+      "md5": "f52856eb2274257f6e316e4b97392ebc",
+      "crc32": "6a665fa4",
+      "sha1": "86baa70043d3c61fd983a0b541eb21d24b5c1bb0",
       "format": "Metadata"
     },
     {
@@ -4074,9 +4126,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 388,
-  "item_last_updated": 1658643947,
-  "item_size": 42136793,
+  "files_count": 393,
+  "item_last_updated": 1658671443,
+  "item_size": 42576278,
   "metadata": {
     "identifier": "ringer-2022",
     "collection": [
@@ -4093,8 +4145,49 @@
     "publicdate": "2022-06-19 23:27:48",
     "addeddate": "2022-06-19 23:27:48"
   },
+  "ringer-2022": [
+    {
+      "url": "https://www.theringer.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theringer_com-_-2022_07_24_13_44_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theringer_com-_-2022_07_24_13_44_59.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.93,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.theringer.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theringer_com-_-2022_07_24_13_45_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theringer_com-_-2022_07_24_13_45_26.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.93,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.theringer.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theringer_com-_-2022_07_24_13_45_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theringer_com-_-2022_07_24_13_45_52.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.93,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    }
+  ],
   "server": "ia802504.us.archive.org",
-  "uniq": 1289525040,
+  "uniq": 1547167401,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

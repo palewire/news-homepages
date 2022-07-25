@@ -1,5 +1,5 @@
 {
-  "created": 1658664546,
+  "created": 1658694370,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/27/items/kccinews-2022",
@@ -7696,31 +7696,83 @@
       "sha1": "f19a5ca58308f196960bbd1b0c192ca508f5607b"
     },
     {
+      "name": "kccinews-2022-07-24T07:59:13.591012-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658667557",
+      "size": "25821",
+      "md5": "d57e710db35996d59713f6c069d0c6c3",
+      "crc32": "b3806bb2",
+      "sha1": "879b0002924a8f4db58892f17c2d4cc80cee78fe",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-07-24T07:59:13.591012-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658667558",
+      "size": "24457",
+      "md5": "67b4c0a0bda8529a7ac9c8b970201d46",
+      "crc32": "21178ca4",
+      "sha1": "c79387f736940ba5c3fa76945ab30d2409873802",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-07-24T07:59:13.591012-05:00.jpg",
+      "source": "original",
+      "mtime": "1658667555",
+      "size": "273385",
+      "md5": "f257212ce52d280d0bac6ba98409fcc6",
+      "crc32": "ae62deed",
+      "sha1": "f5297570e3414b3123a9d4f1ed2b8b727b00ece7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kccinews-2022-07-24T07:59:13.591012-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658667560",
+      "size": "1441",
+      "md5": "57c931671c9d71cf6701ac453ae6ca2e",
+      "crc32": "fb7cca85",
+      "sha1": "6ddb76698c47e9b5e29fd52464b8c80da2106754",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-07-24T07:59:13.591012-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kccinews-2022-07-24T07:59:13.591012-05:00.jpg",
+      "mtime": "1658667622",
+      "size": "10287",
+      "md5": "94e77365e1cee3431aee1808927b8318",
+      "crc32": "3db63320",
+      "sha1": "a27bb956a42d3065c07697690135c7d46fc5d084"
+    },
+    {
       "name": "kccinews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da6d339a22820b00f07f4057fc3d3f9727cdc427",
-      "mtime": "1658636172",
-      "size": "155843",
-      "md5": "e1c7e2883b80589c5953a91d0ab9d834",
-      "crc32": "965d65c5",
-      "sha1": "bd5bb9f5313c39038bd012fe31e27b999cef1e53",
+      "btih": "9c707181c71234df34d67a3abd6f7513c690e85e",
+      "mtime": "1658667629",
+      "size": "156903",
+      "md5": "7c2400e40d4a5840a05741e15aafff89",
+      "crc32": "eea278bc",
+      "sha1": "98c0bff2cf6dbe529b268c0f81ff725693a55311",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kccinews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8177dc1b96b912ff7679599a83f2cfba",
+      "md5": "3ba24f0b1dad210e0fe04a4c9deeb2fb",
       "summation": "md5"
     },
     {
       "name": "kccinews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658636059",
-      "size": "847872",
-      "md5": "1194296ce1f5a776bdda68a084709a72",
-      "crc32": "33ffef88",
-      "sha1": "f699b175628dc921c4a168ad03be3e7addf758b2",
+      "mtime": "1658667565",
+      "size": "856064",
+      "md5": "b5015eefbef8a9d673381f906c08d4a9",
+      "crc32": "e1f14c22",
+      "sha1": "958c75c21d0b3725e57397ec317e417b9c9fb7a9",
       "format": "Metadata"
     },
     {
@@ -7734,50 +7786,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 736,
-  "item_last_updated": 1658636172,
-  "item_size": 68037388,
-  "kccinews-2022": [
-    {
-      "url": "https://www.kcci.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcci_com-_-2022_07_24_01_01_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcci_com-_-2022_07_24_01_01_22.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.98,
-        "best-practices": 0.83,
-        "seo": 0.86,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.kcci.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcci_com-_-2022_07_24_01_02_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcci_com-_-2022_07_24_01_02_22.report.json",
-      "summary": {
-        "performance": 0.13,
-        "accessibility": 0.98,
-        "best-practices": 0.83,
-        "seo": 0.86,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.kcci.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcci_com-_-2022_07_24_01_02_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kcci_com-_-2022_07_24_01_02_44.report.json",
-      "summary": {
-        "performance": 0.29,
-        "accessibility": 0.98,
-        "best-practices": 0.67,
-        "seo": 0.86,
-        "pwa": 0.6
-      }
-    }
-  ],
+  "files_count": 741,
+  "item_last_updated": 1658667629,
+  "item_size": 68382031,
   "metadata": {
     "identifier": "kccinews-2022",
     "collection": [
@@ -7794,10 +7805,10 @@
     "publicdate": "2022-03-25 03:36:10",
     "addeddate": "2022-03-25 03:36:10"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 2023946971,
+  "server": "ia802501.us.archive.org",
+  "uniq": 2134589083,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }

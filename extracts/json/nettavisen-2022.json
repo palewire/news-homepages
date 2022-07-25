@@ -1,5 +1,5 @@
 {
-  "created": 1658636574,
+  "created": 1658667966,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/nettavisen-2022",
@@ -404,31 +404,83 @@
       "sha1": "5f294ea856094954d87177c3df61553c910cb333"
     },
     {
+      "name": "nettavisen-2022-07-24T15:04:54.619366+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658667897",
+      "size": "26016",
+      "md5": "c125ea77f80b48af8cef5453865f65b0",
+      "crc32": "6318a95f",
+      "sha1": "f4e4fef5a9992efc21566ac229f22f5e306c57c4",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-07-24T15:04:54.619366+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658667898",
+      "size": "83645",
+      "md5": "7bde2c41fc2c66c55eed4f8c652741df",
+      "crc32": "12111a3e",
+      "sha1": "be16dcf16252141bd148f5bf7bd01f789f572267",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-07-24T15:04:54.619366+02:00.jpg",
+      "source": "original",
+      "mtime": "1658667895",
+      "size": "270055",
+      "md5": "04fcef8bd7794d8fc93ab64aacd29b5b",
+      "crc32": "e18d8bf7",
+      "sha1": "d620b3719f2c02b4fb9c31f6778a3400ffa7aebe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-07-24T15:04:54.619366+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658667899",
+      "size": "1486",
+      "md5": "cae4e767076a1bf8094728f83220474b",
+      "crc32": "8df68373",
+      "sha1": "336d37c24437d4dd6075f2628a38aa43eae6a823",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-07-24T15:04:54.619366+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-07-24T15:04:54.619366+02:00.jpg",
+      "mtime": "1658667950",
+      "size": "11045",
+      "md5": "73a75d5b99b3fc91c79d3c531721e3ae",
+      "crc32": "50de3869",
+      "sha1": "f2ae00af6f73235747337fd5363cbbd109203e21"
+    },
+    {
       "name": "nettavisen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "21c10cc2c1c5be6724372145b7148f142123d8c2",
-      "mtime": "1658636550",
-      "size": "9519",
-      "md5": "90205fbc7f964468501305d5b6ccebe1",
-      "crc32": "b7f5472f",
-      "sha1": "407fbedc6fdf82ff26ad5781619bdd205c13db93",
+      "btih": "3e80edfc4724b7290d471d833c1d0e4bbd25b9be",
+      "mtime": "1658667954",
+      "size": "10589",
+      "md5": "e7ed887f6901a16b8245c961b3bab5c6",
+      "crc32": "cf30aaa1",
+      "sha1": "18712f8f234bcbb3bcbad50cb525c98fedc278db",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nettavisen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0828f4c2e7b625171b151b7b483f717d",
+      "md5": "4ed746fb3a451b96d8636e80a67822c4",
       "summation": "md5"
     },
     {
       "name": "nettavisen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658636419",
-      "size": "61440",
-      "md5": "d4b8c28c7389f69a22253ae4da156f48",
-      "crc32": "37d6f71e",
-      "sha1": "93067d2f5b278c79882eed554e9301f81d04c3cb",
+      "mtime": "1658667903",
+      "size": "65536",
+      "md5": "45a2fe761b6f0612c42a2f5faf90b877",
+      "crc32": "eb1bbd19",
+      "sha1": "51d88ca09837622d49afd6b6a9f1ef1c83e51d05",
       "format": "Metadata"
     },
     {
@@ -442,9 +494,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 42,
-  "item_last_updated": 1658636550,
-  "item_size": 3648013,
+  "files_count": 47,
+  "item_last_updated": 1658667954,
+  "item_size": 4045426,
   "metadata": {
     "identifier": "nettavisen-2022",
     "collection": [
@@ -461,10 +513,10 @@
     "publicdate": "2022-07-20 11:37:15",
     "addeddate": "2022-07-20 11:37:15"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 878349989,
+  "server": "ia601503.us.archive.org",
+  "uniq": 2076230121,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

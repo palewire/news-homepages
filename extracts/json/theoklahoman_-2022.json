@@ -1,5 +1,5 @@
 {
-  "created": 1658634396,
+  "created": 1658711387,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/7/items/theoklahoman_-2022",
@@ -3146,31 +3146,73 @@
       "sha1": "c1828ffe40f6759eee41afd77b767603003e9417"
     },
     {
+      "name": "theoklahoman_-2022-07-24T10:06:54.917810-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658675218",
+      "size": "25782",
+      "md5": "439654bf3c2cad495ad8f94186f7b953",
+      "crc32": "a577255d",
+      "sha1": "a85e6606c3dcdb8126d1c88820e16e5fb4ba1550",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-07-24T10:06:54.917810-05:00.jpg",
+      "source": "original",
+      "mtime": "1658675216",
+      "size": "243928",
+      "md5": "50d67ff56e22c7af8a19c55462d8374a",
+      "crc32": "e3b814d0",
+      "sha1": "5b0203f43739939a8d87657c52d6d472573732be",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theoklahoman_-2022-07-24T10:06:54.917810-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658675219",
+      "size": "1477",
+      "md5": "283d750ada1d81cd6e97e5d9d74ea1b1",
+      "crc32": "1c509970",
+      "sha1": "9842d5f16ebea50fdc4669f8ebfa63b0d51077ef",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-07-24T10:06:54.917810-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theoklahoman_-2022-07-24T10:06:54.917810-05:00.jpg",
+      "mtime": "1658675309",
+      "size": "9229",
+      "md5": "039ae0be32bf44f9f5aec2d9bc998c34",
+      "crc32": "dce465cf",
+      "sha1": "a0a436fa54832ae2b8eb4b2805e13508fa8e88fe"
+    },
+    {
       "name": "theoklahoman_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da09fbca8f18fa9379fa1aeba1c7a382902c8f34",
-      "mtime": "1658634365",
-      "size": "65853",
-      "md5": "737cf3e8a26c9b47f25b7f48076303d5",
-      "crc32": "b45c3167",
-      "sha1": "d2c06c6924e859d49b3b8869c0af36a0c887551d",
+      "btih": "dad4eb659647bc08a32cda665a0b3994469c7c02",
+      "mtime": "1658675327",
+      "size": "66701",
+      "md5": "7f02063f6f5e78759f71e62f0fd99654",
+      "crc32": "67a55969",
+      "sha1": "262b2981430d0cb7140bb887fed2b6ccda77eb28",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theoklahoman_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5aae7504f52d9ab9a7371ee54cb4b3a3",
+      "md5": "5a09fc956299e3f075ec315f2d101f27",
       "summation": "md5"
     },
     {
       "name": "theoklahoman_-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658634173",
-      "size": "364544",
-      "md5": "fde5270ee47a756ace25dca6523ace4f",
-      "crc32": "64808241",
-      "sha1": "a724ee002ff798f1b2c6f3d2459eefeeb083c840",
+      "mtime": "1658675224",
+      "size": "368640",
+      "md5": "d607837a39c9b3fb27f0097fd880cec9",
+      "crc32": "04e8e702",
+      "sha1": "57c54bd805f0c680dccb6a690aa42a172497385b",
       "format": "Metadata"
     },
     {
@@ -3184,9 +3226,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 303,
-  "item_last_updated": 1658634365,
-  "item_size": 24917968,
+  "files_count": 307,
+  "item_last_updated": 1658675327,
+  "item_size": 25203328,
   "metadata": {
     "identifier": "theoklahoman_-2022",
     "collection": [
@@ -3203,10 +3245,51 @@
     "publicdate": "2022-06-24 23:02:53",
     "addeddate": "2022-06-24 23:02:53"
   },
-  "server": "ia601404.us.archive.org",
-  "uniq": 2094022337,
+  "server": "ia801404.us.archive.org",
+  "theoklahoman_-2022": [
+    {
+      "url": "https://www.oklahoman.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oklahoman_com-_-2022_07_24_14_20_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oklahoman_com-_-2022_07_24_14_20_41.report.json",
+      "summary": {
+        "performance": 0.87,
+        "accessibility": 0.79,
+        "best-practices": 1,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.oklahoman.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oklahoman_com-_-2022_07_24_14_21_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oklahoman_com-_-2022_07_24_14_21_02.report.json",
+      "summary": {
+        "performance": 0.86,
+        "accessibility": 0.86,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.oklahoman.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oklahoman_com-_-2022_07_24_14_20_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oklahoman_com-_-2022_07_24_14_20_19.report.json",
+      "summary": {
+        "performance": 0.82,
+        "accessibility": 0.86,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "uniq": 338284069,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia801404.us.archive.org",
+    "ia601404.us.archive.org"
   ]
 }

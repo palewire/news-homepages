@@ -1,5 +1,5 @@
 {
-  "created": 1658658850,
+  "created": 1658711111,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/9/items/niemanlab-2022",
@@ -530,31 +530,83 @@
       "sha1": "451e26218433a700c8008a6fb2857504a5862329"
     },
     {
+      "name": "niemanlab-2022-07-24T09:05:32.132671-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658667936",
+      "size": "14978",
+      "md5": "7b17b994b44c2547b0e17d4329186069",
+      "crc32": "0a94c15b",
+      "sha1": "f6ec8cc043ab7edc3f3fa0409b58e1e3228ada79",
+      "format": "JSON"
+    },
+    {
+      "name": "niemanlab-2022-07-24T09:05:32.132671-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658667939",
+      "size": "19635",
+      "md5": "c4ca7b8e1e1fb7dead30136a567a1c4a",
+      "crc32": "01b7def3",
+      "sha1": "f9e7ca78aade66827eabe4fb6a5493d36a6c392c",
+      "format": "JSON"
+    },
+    {
+      "name": "niemanlab-2022-07-24T09:05:32.132671-04:00.jpg",
+      "source": "original",
+      "mtime": "1658667933",
+      "size": "263624",
+      "md5": "be778dea1a626a9a4e77b409c2851e06",
+      "crc32": "1d3d486e",
+      "sha1": "321d730dfba25236e3da74543859302e982d4b4c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "niemanlab-2022-07-24T09:05:32.132671-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658667941",
+      "size": "1486",
+      "md5": "e1193d99296829f0ffc46349a66743fc",
+      "crc32": "a096a63c",
+      "sha1": "8666989c1c3f08ef8bf2b3260b3325c4881edcdb",
+      "format": "JSON"
+    },
+    {
+      "name": "niemanlab-2022-07-24T09:05:32.132671-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "niemanlab-2022-07-24T09:05:32.132671-04:00.jpg",
+      "mtime": "1658667989",
+      "size": "9718",
+      "md5": "75695672440f2c3ad2f83b37716926ca",
+      "crc32": "7877e857",
+      "sha1": "451e26218433a700c8008a6fb2857504a5862329"
+    },
+    {
       "name": "niemanlab-2022_archive.torrent",
       "source": "metadata",
-      "btih": "716d69afce3aafb0bebec4abd83a2391a901e69d",
-      "mtime": "1658636559",
-      "size": "11980",
-      "md5": "53ce555d8533f1e782927682791611e3",
-      "crc32": "a2f4c78d",
-      "sha1": "d19791ef40e7bc3887584a02634ccabbcd80b808",
+      "btih": "3b3bf20a3b2ef4dd2664c36ec12e0c9d758db6e7",
+      "mtime": "1658667992",
+      "size": "13024",
+      "md5": "ac553841be0efb4fa78dddb4a7562050",
+      "crc32": "7bd023a8",
+      "sha1": "3198c74d84c0f5a74e6d9710bc9c1aa9a5f7879b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "niemanlab-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "acbc614e214827eaf4ffcc9ee693f690",
+      "md5": "1ffe68ad9f726d7ff5aa7f4d726f5ec6",
       "summation": "md5"
     },
     {
       "name": "niemanlab-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658636440",
-      "size": "73728",
-      "md5": "04485dbed4ddd3c3777e7d716175b4ce",
-      "crc32": "4179f5d3",
-      "sha1": "979397e4fc9786f4cff6e66d20ee5c8a56e24e24",
+      "mtime": "1658667944",
+      "size": "77824",
+      "md5": "8fc560570aa45da6c16e19b3f18b5671",
+      "crc32": "3c344401",
+      "sha1": "4d6e85eb5684ddcbde2df942c763c211860c4f64",
       "format": "Metadata"
     },
     {
@@ -568,9 +620,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 54,
-  "item_last_updated": 1658636559,
-  "item_size": 3883548,
+  "files_count": 59,
+  "item_last_updated": 1658667992,
+  "item_size": 4198129,
   "metadata": {
     "identifier": "niemanlab-2022",
     "collection": [
@@ -587,10 +639,51 @@
     "publicdate": "2022-07-18 17:57:47",
     "addeddate": "2022-07-18 17:57:47"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 1600604912,
+  "niemanlab-2022": [
+    {
+      "url": "https://www.niemanlab.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_niemanlab_org-_-2022_07_24_12_51_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_niemanlab_org-_-2022_07_24_12_51_23.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.66,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.niemanlab.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_niemanlab_org-_-2022_07_24_12_51_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_niemanlab_org-_-2022_07_24_12_51_48.report.json",
+      "summary": {
+        "performance": 0.49,
+        "accessibility": 0.66,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.niemanlab.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_niemanlab_org-_-2022_07_24_12_51_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_niemanlab_org-_-2022_07_24_12_51_36.report.json",
+      "summary": {
+        "performance": 0.51,
+        "accessibility": 0.66,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "server": "ia802500.us.archive.org",
+  "uniq": 1634179649,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

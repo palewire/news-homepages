@@ -1,5 +1,5 @@
 {
-  "created": 1658660262,
+  "created": 1658710107,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/5/items/abc7breaking-2022",
@@ -666,31 +666,83 @@
       "sha1": "fcfff1fef6aa7c62d71d078905cd2ee80ac7d21d"
     },
     {
+      "name": "abc7breaking-2022-07-24T19:46:01.897559-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658709964",
+      "size": "19391",
+      "md5": "6bac3fa2c44171b83572ea74dc1fb34a",
+      "crc32": "b1dfdbc7",
+      "sha1": "a2f1a2050a1f34474cec0abd959b4d750ffdd340",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-07-24T19:46:01.897559-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658709966",
+      "size": "32763",
+      "md5": "fddef4939c8451da05e8b1b1be68a3c9",
+      "crc32": "7637e3fa",
+      "sha1": "5bc77e6d4744181ddc90c7e3f927418b71bdf0a7",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-07-24T19:46:01.897559-05:00.jpg",
+      "source": "original",
+      "mtime": "1658709963",
+      "size": "192298",
+      "md5": "50d987c2b2c4c2f120025d0dcd4c3255",
+      "crc32": "f041dcf9",
+      "sha1": "0afba121c6511c3b196f3e7fddb3bd041d236262",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc7breaking-2022-07-24T19:46:01.897559-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658709967",
+      "size": "1405",
+      "md5": "e971b4d74ab0e2931d078e9727418278",
+      "crc32": "6927c9e0",
+      "sha1": "260d1205e822126279099f9a4ce03ee7139ed3cb",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-07-24T19:46:01.897559-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7breaking-2022-07-24T19:46:01.897559-05:00.jpg",
+      "mtime": "1658710088",
+      "size": "8704",
+      "md5": "a5b9e5e707dbcc670fc97230f6b0825f",
+      "crc32": "3bd7351b",
+      "sha1": "795ebe2dbdc42b8795a0a64c1a01f18278f392a9"
+    },
+    {
       "name": "abc7breaking-2022_archive.torrent",
       "source": "metadata",
-      "btih": "76f81b02c364afb652ec57a222889cdcbcbcd685",
-      "mtime": "1658660232",
-      "size": "14928",
-      "md5": "cb779eaf1996d859ae15955906850ddb",
-      "crc32": "23b5753e",
-      "sha1": "f7a1306b02f8059ff5329516ea581eca2fc3d6dd",
+      "btih": "9a4e4ebb48130a8c02e9bf3c6582a72a4b1c489e",
+      "mtime": "1658710096",
+      "size": "15987",
+      "md5": "2a7b07c8f3588ed28d7092e78d994b9c",
+      "crc32": "8f348bf1",
+      "sha1": "19f9f5ec2008575891bfa7d9bf4863e2e2a20901",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7breaking-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "063809b5839cc0e4d90c7861b04c5fa4",
+      "md5": "4a2a190dd7b0ce3a0f9116e173a8584f",
       "summation": "md5"
     },
     {
       "name": "abc7breaking-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658660141",
-      "size": "86016",
-      "md5": "99effd2cc72e960daea6a75f155a4564",
-      "crc32": "28d052cf",
-      "sha1": "241d2e13e4d037b1dd236ca35d2eb7fdf0ce9d62",
+      "mtime": "1658709978",
+      "size": "90112",
+      "md5": "28a06de11f86d59b3634eb24a5a1f945",
+      "crc32": "7bec55dc",
+      "sha1": "8de0577f30ea5ef4fa5536b4d370cf648681824d",
       "format": "Metadata"
     },
     {
@@ -704,9 +756,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 67,
-  "item_last_updated": 1658660232,
-  "item_size": 4382898,
+  "files_count": 72,
+  "item_last_updated": 1658710096,
+  "item_size": 4642614,
   "metadata": {
     "identifier": "abc7breaking-2022",
     "collection": [
@@ -723,10 +775,10 @@
     "publicdate": "2022-07-18 00:04:35",
     "addeddate": "2022-07-18 00:04:35"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 180679549,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1151161267,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

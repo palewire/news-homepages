@@ -1,5 +1,5 @@
 {
-  "created": 1658664622,
+  "created": 1658710983,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/5/items/le_figaro-2022",
@@ -8626,31 +8626,83 @@
       "sha1": "a4cf97c89a467e34510b0888981dd2797a0027ad"
     },
     {
+      "name": "le_figaro-2022-07-24T15:01:28.068874+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658667691",
+      "size": "99019",
+      "md5": "a740a9c0f558819ab76c1aa3a5145c1c",
+      "crc32": "52f2d18a",
+      "sha1": "978a6fd5ef30896d1282f87ebf2fc142c7aa1e80",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-07-24T15:01:28.068874+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1658667693",
+      "size": "115745",
+      "md5": "a4170ee3943129154d100c38f7b8b88d",
+      "crc32": "2b2e6e03",
+      "sha1": "7bdf71c5ed0543ac7d7ddad8473a526a1de519ef",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-07-24T15:01:28.068874+02:00.jpg",
+      "source": "original",
+      "mtime": "1658667689",
+      "size": "290541",
+      "md5": "3bd5ec07024c09e825feab521956b3ed",
+      "crc32": "74cae060",
+      "sha1": "87902b7673b9d0e599cb289ab68e985c439e2a3f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-07-24T15:01:28.068874+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658667694",
+      "size": "1468",
+      "md5": "071d6ce95e1e77de0e15aa31f096e79a",
+      "crc32": "ca46ddf5",
+      "sha1": "14e0bfae7d8a99929d501588f38646addc1c38f2",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-07-24T15:01:28.068874+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-07-24T15:01:28.068874+02:00.jpg",
+      "mtime": "1658667784",
+      "size": "9397",
+      "md5": "a186652096bdd5cb9e132d50350dd49d",
+      "crc32": "f84ff498",
+      "sha1": "92dfe19102fb1d71b43c4ce910ecea84b1ba67c8"
+    },
+    {
       "name": "le_figaro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "addf94e6b2f1c25a11418188f50d671153518571",
-      "mtime": "1658650340",
-      "size": "176714",
-      "md5": "040e8c77eb5aee7530e5190e7b69eba2",
-      "crc32": "0a13ec1c",
-      "sha1": "9dd788cfff1982697ef608d73bd36c19be6135ab",
+      "btih": "42b85c06e1720dd29add6fd02314b15e14fd5be9",
+      "mtime": "1658667794",
+      "size": "177779",
+      "md5": "8cf4974fcec4d9add9dcf7af227b1f01",
+      "crc32": "e75177e5",
+      "sha1": "b82a1fd0c8ea08af7ef2967220883a88ae467b1c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_figaro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01a8b2c335ddd82ccee84e3d1753ac65",
+      "md5": "009bf81ec26192042ef1f99f654aceb2",
       "summation": "md5"
     },
     {
       "name": "le_figaro-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658650200",
-      "size": "954368",
-      "md5": "0717ef33a6c55bec40ca0793dda6deb7",
-      "crc32": "f431eacc",
-      "sha1": "6a7f8eaa62bb8bdc39ba111651395b474f9d8c89",
+      "mtime": "1658667711",
+      "size": "962560",
+      "md5": "9a0083971faafafb15865cc4983d864a",
+      "crc32": "05c5eedc",
+      "sha1": "e78bda1c8da4ffb096ae53c2a68168a9c8c06234",
       "format": "Metadata"
     },
     {
@@ -8664,15 +8716,28 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 825,
-  "item_last_updated": 1658650340,
-  "item_size": 105397025,
+  "files_count": 830,
+  "item_last_updated": 1658667794,
+  "item_size": 105922452,
   "le_figaro-2022": [
     {
       "url": "https://www.lefigaro.fr/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_08_05_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_08_05_44.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_12_43_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_12_43_05.report.json",
+      "summary": {
+        "performance": 0.28,
+        "accessibility": 0.88,
+        "best-practices": 0.75,
+        "seo": 0.99,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.lefigaro.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_12_43_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_12_43_31.report.json",
       "summary": {
         "performance": 0.24,
         "accessibility": 0.88,
@@ -8683,24 +8748,11 @@
     },
     {
       "url": "https://www.lefigaro.fr/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_08_06_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_08_06_12.report.json",
-      "summary": {
-        "performance": 0.18,
-        "accessibility": 0.88,
-        "best-practices": 0.75,
-        "seo": 0.99,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://www.lefigaro.fr/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_08_06_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_08_06_36.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_12_43_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_07_24_12_43_54.report.json",
       "summary": {
-        "performance": 0.28,
+        "performance": 0.37,
         "accessibility": 0.88,
         "best-practices": 0.75,
         "seo": 0.99,
@@ -8725,7 +8777,7 @@
     "addeddate": "2022-04-09 13:41:47"
   },
   "server": "ia902501.us.archive.org",
-  "uniq": 1058996281,
+  "uniq": 1171745294,
   "workable_servers": [
     "ia902501.us.archive.org",
     "ia802501.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1658664753,
+  "created": 1658711128,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nydailynews-2022",
@@ -1844,31 +1844,73 @@
       "sha1": "0710581800235bd4cbdf76da1668c3cfe0948082"
     },
     {
+      "name": "nydailynews-2022-07-24T09:59:33.543409-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1658671177",
+      "size": "72879",
+      "md5": "bd869f3aa8927cf1d3efa40d304b7041",
+      "crc32": "206a9842",
+      "sha1": "400f9f119065dcddf4ed0d6bb5d2175be06dc998",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-07-24T09:59:33.543409-04:00.jpg",
+      "source": "original",
+      "mtime": "1658671175",
+      "size": "211230",
+      "md5": "aa4fb6d88a76316d800b91fe0772d22d",
+      "crc32": "0ec8881f",
+      "sha1": "a51c42f2f1d9c7fb279e36b9cbf0c33deefc5749",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nydailynews-2022-07-24T09:59:33.543409-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1658671178",
+      "size": "1504",
+      "md5": "fd2d88f826bcacc5a6d106b689af2c42",
+      "crc32": "0350a3b9",
+      "sha1": "caad7c02e0eda3df6747aa0e73f5a79a8ec51a7d",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-07-24T09:59:33.543409-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nydailynews-2022-07-24T09:59:33.543409-04:00.jpg",
+      "mtime": "1658671270",
+      "size": "9418",
+      "md5": "20f12bc729463d7598b038fcd5506312",
+      "crc32": "61983be6",
+      "sha1": "0710581800235bd4cbdf76da1668c3cfe0948082"
+    },
+    {
       "name": "nydailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0432dbb72eb33c1621d9f12047882f9e616726e4",
-      "mtime": "1658643539",
-      "size": "39008",
-      "md5": "86338b514b97dd4185d5531e1b657b06",
-      "crc32": "e82ef4ed",
-      "sha1": "d53dae340a663497a2f000b1bb556479f174172a",
+      "btih": "6ccbff61ddf59a1b22991e1dd2db6556689800b2",
+      "mtime": "1658671280",
+      "size": "39848",
+      "md5": "fb8ff188e5cce799a9e0d09ae1271e7c",
+      "crc32": "0cdd9396",
+      "sha1": "c7b7764468a122aadc7794b7d8ddc67e442b330b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nydailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9cbfa575d645c9f852427c635b4a3ec9",
+      "md5": "e814115d670d54270b435e1afaa267cc",
       "summation": "md5"
     },
     {
       "name": "nydailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1658643468",
-      "size": "225280",
-      "md5": "d694bd5898fe90f11a7a7c610b60857c",
-      "crc32": "db019e99",
-      "sha1": "3a9afc3f882a248fc4d962f75f4803bb821fb65b",
+      "mtime": "1658671186",
+      "size": "229376",
+      "md5": "3f4792c41526285a5d6527fd7d293af8",
+      "crc32": "ec5c1b9a",
+      "sha1": "d465e6a26106c549b9f0fb1a7a73dc42bc3fa909",
       "format": "Metadata"
     },
     {
@@ -1882,9 +1924,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 179,
-  "item_last_updated": 1658643539,
-  "item_size": 19481277,
+  "files_count": 183,
+  "item_last_updated": 1658671280,
+  "item_size": 19781244,
   "metadata": {
     "identifier": "nydailynews-2022",
     "collection": [
@@ -1905,10 +1947,10 @@
     {
       "url": "https://www.nydailynews.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_05_13_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_05_13_28.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_13_38_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_13_38_41.report.json",
       "summary": {
-        "performance": 0.16,
+        "performance": 0.18,
         "accessibility": 0.87,
         "best-practices": 0.75,
         "seo": 0.84,
@@ -1918,10 +1960,10 @@
     {
       "url": "https://www.nydailynews.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_05_14_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_05_14_03.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_13_39_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_13_39_13.report.json",
       "summary": {
-        "performance": 0.17,
+        "performance": 0.18,
         "accessibility": 0.87,
         "best-practices": 0.83,
         "seo": 0.84,
@@ -1931,8 +1973,8 @@
     {
       "url": "https://www.nydailynews.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_05_14_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_05_14_40.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_13_38_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nydailynews_com-_-2022_07_24_13_38_08.report.json",
       "summary": {
         "performance": 0.17,
         "accessibility": 0.87,
@@ -1942,10 +1984,10 @@
       }
     }
   ],
-  "server": "ia801501.us.archive.org",
-  "uniq": 193260073,
+  "server": "ia601501.us.archive.org",
+  "uniq": 1552054439,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }
