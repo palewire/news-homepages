@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T08:23:03.958330+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T08:23:03.958330+03:00.jpg"
-     alt="Sputnik at 2022-07-25 15:23:05+03:00 local time"
+     alt="Sputnik at 2022-07-25 08:23:05+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T08:23:03.958330+03:00.jpg">July 25 at 3:23 PM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T08:23:03.958330+03:00.jpg">July 25 at 8:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T06:44:14.853459+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T06:44:14.853459+03:00.jpg"
-     alt="Sputnik at 2022-07-25 13:44:16+03:00 local time"
+     alt="Sputnik at 2022-07-25 06:44:16+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T06:44:14.853459+03:00.jpg">July 25 at 1:44 PM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-25T06:44:14.853459+03:00.jpg">July 25 at 6:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T17:04:27.925239+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T17:04:27.925239+03:00.jpg"
-     alt="Sputnik at 2022-07-25 00:04:29+03:00 local time"
+     alt="Sputnik at 2022-07-24 17:04:29+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T17:04:27.925239+03:00.jpg">July 25 at 12:04 AM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T17:04:27.925239+03:00.jpg">July 24 at 5:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:47:25.015246+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:47:25.015246+03:00.jpg"
-     alt="Sputnik at 2022-07-24 16:47:26+03:00 local time"
+     alt="Sputnik at 2022-07-24 09:47:26+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:47:25.015246+03:00.jpg">July 24 at 4:47 PM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:47:25.015246+03:00.jpg">July 24 at 9:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:24:29.481529+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:24:29.481529+03:00.jpg"
-     alt="Sputnik at 2022-07-24 16:24:35+03:00 local time"
+     alt="Sputnik at 2022-07-24 09:24:35+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:24:29.481529+03:00.jpg">July 24 at 4:24 PM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-24T09:24:29.481529+03:00.jpg">July 24 at 9:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T19:02:50.737005+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T19:02:50.737005+03:00.jpg"
-     alt="Sputnik at 2022-07-24 02:02:52+03:00 local time"
+     alt="Sputnik at 2022-07-23 19:02:52+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T19:02:50.737005+03:00.jpg">July 24 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T19:02:50.737005+03:00.jpg">July 23 at 7:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T08:11:25.584170+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T08:11:25.584170+03:00.jpg"
-     alt="Sputnik at 2022-07-23 15:11:28+03:00 local time"
+     alt="Sputnik at 2022-07-23 08:11:28+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T08:11:25.584170+03:00.jpg">July 23 at 3:11 PM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T08:11:25.584170+03:00.jpg">July 23 at 8:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T07:23:07.590514+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T07:23:07.590514+03:00.jpg"
-     alt="Sputnik at 2022-07-23 14:23:08+03:00 local time"
+     alt="Sputnik at 2022-07-23 07:23:08+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T07:23:07.590514+03:00.jpg">July 23 at 2:23 PM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-23T07:23:07.590514+03:00.jpg">July 23 at 7:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T19:15:30.808034+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T19:15:30.808034+03:00.jpg"
-     alt="Sputnik at 2022-07-23 02:15:33+03:00 local time"
+     alt="Sputnik at 2022-07-22 19:15:33+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T19:15:30.808034+03:00.jpg">July 23 at 2:15 AM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T19:15:30.808034+03:00.jpg">July 22 at 7:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T08:17:58.316396+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T08:17:58.316396+03:00.jpg"
-     alt="Sputnik at 2022-07-22 15:18:01+03:00 local time"
+     alt="Sputnik at 2022-07-22 08:18:01+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T08:17:58.316396+03:00.jpg">July 22 at 3:18 PM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T08:17:58.316396+03:00.jpg">July 22 at 8:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T07:29:21.843868+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T07:29:21.843868+03:00.jpg"
-     alt="Sputnik at 2022-07-22 14:29:24+03:00 local time"
+     alt="Sputnik at 2022-07-22 07:29:24+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T07:29:21.843868+03:00.jpg">July 22 at 2:29 PM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-22T07:29:21.843868+03:00.jpg">July 22 at 7:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-21T19:53:33.760338+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-21T19:53:33.760338+03:00.jpg"
-     alt="Sputnik at 2022-07-22 02:53:35+03:00 local time"
+     alt="Sputnik at 2022-07-21 19:53:35+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-21T19:53:33.760338+03:00.jpg">July 22 at 2:53 AM</a></p>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-07-21T19:53:33.760338+03:00.jpg">July 21 at 7:53 PM</a></p>
 </div>
 
 </div>

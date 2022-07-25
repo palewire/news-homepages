@@ -31,28 +31,28 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T17:45:13.774015+05:45.jpg">
   <img src="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T17:45:13.774015+05:45.jpg"
-     alt="Ekantipur at 2022-07-26 00:45:15+05:45 local time"
+     alt="Ekantipur at 2022-07-25 17:45:15+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T17:45:13.774015+05:45.jpg">July 26 at 12:45 AM</a></p>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T17:45:13.774015+05:45.jpg">July 25 at 5:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T06:47:37.764350+05:45.jpg">
   <img src="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T06:47:37.764350+05:45.jpg"
-     alt="Ekantipur at 2022-07-25 13:47:39+05:45 local time"
+     alt="Ekantipur at 2022-07-25 06:47:39+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T06:47:37.764350+05:45.jpg">July 25 at 1:47 PM</a></p>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T06:47:37.764350+05:45.jpg">July 25 at 6:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T02:22:32.185673+05:45.jpg">
   <img src="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T02:22:32.185673+05:45.jpg"
-     alt="Ekantipur at 2022-07-25 09:22:38+05:45 local time"
+     alt="Ekantipur at 2022-07-25 02:22:38+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T02:22:32.185673+05:45.jpg">July 25 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-07-25T02:22:32.185673+05:45.jpg">July 25 at 2:22 AM</a></p>
 </div>
 
 </div>

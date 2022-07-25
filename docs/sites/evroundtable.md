@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-25T07:01:17.233390-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-25T07:01:17.233390-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-25 14:01:18-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-25 07:01:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-25T07:01:17.233390-05:00.jpg">July 25 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-25T07:01:17.233390-05:00.jpg">July 25 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T20:03:35.741747-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T20:03:35.741747-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-25 03:03:38-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-24 20:03:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T20:03:35.741747-05:00.jpg">July 25 at 3:03 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T20:03:35.741747-05:00.jpg">July 24 at 8:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T10:45:42.299897-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T10:45:42.299897-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-24 17:45:44-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-24 10:45:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T10:45:42.299897-05:00.jpg">July 24 at 5:45 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T10:45:42.299897-05:00.jpg">July 24 at 10:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T06:58:35.311547-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T06:58:35.311547-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-24 13:58:38-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-24 06:58:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T06:58:35.311547-05:00.jpg">July 24 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T06:58:35.311547-05:00.jpg">July 24 at 6:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T01:28:42.646681-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T01:28:42.646681-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-24 08:28:44-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-24 01:28:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T01:28:42.646681-05:00.jpg">July 24 at 8:28 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T01:28:42.646681-05:00.jpg">July 24 at 1:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-23T08:57:54.905820-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-23T08:57:54.905820-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-23 15:57:56-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-23 08:57:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-23T08:57:54.905820-05:00.jpg">July 23 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-23T08:57:54.905820-05:00.jpg">July 23 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T21:24:38.486775-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T21:24:38.486775-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-23 04:24:40-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-22 21:24:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T21:24:38.486775-05:00.jpg">July 23 at 4:24 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T21:24:38.486775-05:00.jpg">July 22 at 9:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T11:23:50.355887-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T11:23:50.355887-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-22 18:23:52-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-22 11:23:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T11:23:50.355887-05:00.jpg">July 22 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T11:23:50.355887-05:00.jpg">July 22 at 11:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T08:59:00.246762-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T08:59:00.246762-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-22 15:59:02-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-22 08:59:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T08:59:00.246762-05:00.jpg">July 22 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T08:59:00.246762-05:00.jpg">July 22 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T21:19:28.708198-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T21:19:28.708198-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-22 04:19:30-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-21 21:19:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T21:19:28.708198-05:00.jpg">July 22 at 4:19 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T21:19:28.708198-05:00.jpg">July 21 at 9:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T11:49:03.546999-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T11:49:03.546999-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-21 18:49:05-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-21 11:49:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T11:49:03.546999-05:00.jpg">July 21 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T11:49:03.546999-05:00.jpg">July 21 at 11:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T09:05:18.766563-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T09:05:18.766563-05:00.jpg"
-     alt="Evanston RoundTable at 2022-07-21 16:05:20-05:00 local time"
+     alt="Evanston RoundTable at 2022-07-21 09:05:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T09:05:18.766563-05:00.jpg">July 21 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T09:05:18.766563-05:00.jpg">July 21 at 9:05 AM</a></p>
 </div>
 
 </div>

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T23:36:24.745526-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T23:36:24.745526-04:00.jpg"
-     alt="Newsweek at 2022-07-25 06:36:28-04:00 local time"
+     alt="Newsweek at 2022-07-24 23:36:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T23:36:24.745526-04:00.jpg">July 25 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T23:36:24.745526-04:00.jpg">July 24 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T09:05:33.314219-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T09:05:33.314219-04:00.jpg"
-     alt="Newsweek at 2022-07-24 16:05:35-04:00 local time"
+     alt="Newsweek at 2022-07-24 09:05:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T09:05:33.314219-04:00.jpg">July 24 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T09:05:33.314219-04:00.jpg">July 24 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T00:21:00.710497-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T00:21:00.710497-04:00.jpg"
-     alt="Newsweek at 2022-07-24 07:21:03-04:00 local time"
+     alt="Newsweek at 2022-07-24 00:21:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T00:21:00.710497-04:00.jpg">July 24 at 7:21 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-24T00:21:00.710497-04:00.jpg">July 24 at 12:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-23T11:03:33.721255-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-23T11:03:33.721255-04:00.jpg"
-     alt="Newsweek at 2022-07-23 18:03:35-04:00 local time"
+     alt="Newsweek at 2022-07-23 11:03:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-23T11:03:33.721255-04:00.jpg">July 23 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-23T11:03:33.721255-04:00.jpg">July 23 at 11:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-22T23:34:07.288945-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-22T23:34:07.288945-04:00.jpg"
-     alt="Newsweek at 2022-07-23 06:34:09-04:00 local time"
+     alt="Newsweek at 2022-07-22 23:34:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-22T23:34:07.288945-04:00.jpg">July 23 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-22T23:34:07.288945-04:00.jpg">July 22 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-22T10:58:53.132077-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-22T10:58:53.132077-04:00.jpg"
-     alt="Newsweek at 2022-07-22 17:58:56-04:00 local time"
+     alt="Newsweek at 2022-07-22 10:58:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-22T10:58:53.132077-04:00.jpg">July 22 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-22T10:58:53.132077-04:00.jpg">July 22 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-21T23:37:49.524520-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-21T23:37:49.524520-04:00.jpg"
-     alt="Newsweek at 2022-07-22 06:37:54-04:00 local time"
+     alt="Newsweek at 2022-07-21 23:37:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-21T23:37:49.524520-04:00.jpg">July 22 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-21T23:37:49.524520-04:00.jpg">July 21 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-21T11:34:44.198929-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-21T11:34:44.198929-04:00.jpg"
-     alt="Newsweek at 2022-07-21 18:34:46-04:00 local time"
+     alt="Newsweek at 2022-07-21 11:34:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-21T11:34:44.198929-04:00.jpg">July 21 at 6:34 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-21T11:34:44.198929-04:00.jpg">July 21 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-20T23:36:41.461105-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-20T23:36:41.461105-04:00.jpg"
-     alt="Newsweek at 2022-07-21 06:36:42-04:00 local time"
+     alt="Newsweek at 2022-07-20 23:36:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-20T23:36:41.461105-04:00.jpg">July 21 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-20T23:36:41.461105-04:00.jpg">July 20 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-20T12:10:28.713962-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-20T12:10:28.713962-04:00.jpg"
-     alt="Newsweek at 2022-07-20 19:10:30-04:00 local time"
+     alt="Newsweek at 2022-07-20 12:10:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-20T12:10:28.713962-04:00.jpg">July 20 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-20T12:10:28.713962-04:00.jpg">July 20 at 12:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-19T23:34:23.566399-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-19T23:34:23.566399-04:00.jpg"
-     alt="Newsweek at 2022-07-20 06:34:25-04:00 local time"
+     alt="Newsweek at 2022-07-19 23:34:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-19T23:34:23.566399-04:00.jpg">July 20 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-19T23:34:23.566399-04:00.jpg">July 19 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-19T11:44:17.676391-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-07-19T11:44:17.676391-04:00.jpg"
-     alt="Newsweek at 2022-07-19 18:44:20-04:00 local time"
+     alt="Newsweek at 2022-07-19 11:44:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-19T11:44:17.676391-04:00.jpg">July 19 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-07-19T11:44:17.676391-04:00.jpg">July 19 at 11:44 AM</a></p>
 </div>
 
 </div>

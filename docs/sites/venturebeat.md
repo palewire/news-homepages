@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T23:47:42.560293-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T23:47:42.560293-07:00.jpg"
-     alt="VentureBeat at 2022-07-25 06:47:44-07:00 local time"
+     alt="VentureBeat at 2022-07-24 23:47:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T23:47:42.560293-07:00.jpg">July 25 at 6:47 AM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T23:47:42.560293-07:00.jpg">July 24 at 11:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T21:39:50.281419-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T21:39:50.281419-07:00.jpg"
-     alt="VentureBeat at 2022-07-25 04:39:55-07:00 local time"
+     alt="VentureBeat at 2022-07-24 21:39:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T21:39:50.281419-07:00.jpg">July 25 at 4:39 AM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T21:39:50.281419-07:00.jpg">July 24 at 9:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T08:10:14.663476-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T08:10:14.663476-07:00.jpg"
-     alt="VentureBeat at 2022-07-24 15:10:16-07:00 local time"
+     alt="VentureBeat at 2022-07-24 08:10:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T08:10:14.663476-07:00.jpg">July 24 at 3:10 PM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-24T08:10:14.663476-07:00.jpg">July 24 at 8:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-23T20:45:16.999308-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-23T20:45:16.999308-07:00.jpg"
-     alt="VentureBeat at 2022-07-24 03:45:19-07:00 local time"
+     alt="VentureBeat at 2022-07-23 20:45:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-23T20:45:16.999308-07:00.jpg">July 24 at 3:45 AM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-23T20:45:16.999308-07:00.jpg">July 23 at 8:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-23T09:07:57.618484-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-23T09:07:57.618484-07:00.jpg"
-     alt="VentureBeat at 2022-07-23 16:08:00-07:00 local time"
+     alt="VentureBeat at 2022-07-23 09:08:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-23T09:07:57.618484-07:00.jpg">July 23 at 4:08 PM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-23T09:07:57.618484-07:00.jpg">July 23 at 9:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-22T21:28:31.842704-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-22T21:28:31.842704-07:00.jpg"
-     alt="VentureBeat at 2022-07-23 04:28:33-07:00 local time"
+     alt="VentureBeat at 2022-07-22 21:28:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-22T21:28:31.842704-07:00.jpg">July 23 at 4:28 AM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-22T21:28:31.842704-07:00.jpg">July 22 at 9:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-22T09:20:40.687285-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-22T09:20:40.687285-07:00.jpg"
-     alt="VentureBeat at 2022-07-22 16:20:43-07:00 local time"
+     alt="VentureBeat at 2022-07-22 09:20:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-22T09:20:40.687285-07:00.jpg">July 22 at 4:20 PM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-22T09:20:40.687285-07:00.jpg">July 22 at 9:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-21T21:34:43.588555-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-21T21:34:43.588555-07:00.jpg"
-     alt="VentureBeat at 2022-07-22 04:34:46-07:00 local time"
+     alt="VentureBeat at 2022-07-21 21:34:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-21T21:34:43.588555-07:00.jpg">July 22 at 4:34 AM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-21T21:34:43.588555-07:00.jpg">July 21 at 9:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-21T09:58:09.985310-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-21T09:58:09.985310-07:00.jpg"
-     alt="VentureBeat at 2022-07-21 16:58:11-07:00 local time"
+     alt="VentureBeat at 2022-07-21 09:58:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-21T09:58:09.985310-07:00.jpg">July 21 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-21T09:58:09.985310-07:00.jpg">July 21 at 9:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-20T21:32:17.825365-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-20T21:32:17.825365-07:00.jpg"
-     alt="VentureBeat at 2022-07-21 04:32:21-07:00 local time"
+     alt="VentureBeat at 2022-07-20 21:32:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-20T21:32:17.825365-07:00.jpg">July 21 at 4:32 AM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-20T21:32:17.825365-07:00.jpg">July 20 at 9:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-20T09:49:07.198836-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-20T09:49:07.198836-07:00.jpg"
-     alt="VentureBeat at 2022-07-20 16:49:10-07:00 local time"
+     alt="VentureBeat at 2022-07-20 09:49:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-20T09:49:07.198836-07:00.jpg">July 20 at 4:49 PM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-20T09:49:07.198836-07:00.jpg">July 20 at 9:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-19T21:23:56.429789-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-19T21:23:56.429789-07:00.jpg"
-     alt="VentureBeat at 2022-07-20 04:23:58-07:00 local time"
+     alt="VentureBeat at 2022-07-19 21:23:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-19T21:23:56.429789-07:00.jpg">July 20 at 4:23 AM</a></p>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-07-19T21:23:56.429789-07:00.jpg">July 19 at 9:23 PM</a></p>
 </div>
 
 </div>

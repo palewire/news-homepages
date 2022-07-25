@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T21:38:36.974202-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T21:38:36.974202-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-25 04:38:39-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-24 21:38:39-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T21:38:36.974202-07:00.jpg">July 25 at 4:38 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T21:38:36.974202-07:00.jpg">July 24 at 9:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T08:08:58.137384-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T08:08:58.137384-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-24 15:09:00-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-24 08:09:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T08:08:58.137384-07:00.jpg">July 24 at 3:09 PM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-24T08:08:58.137384-07:00.jpg">July 24 at 8:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T20:43:59.888484-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T20:43:59.888484-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-24 03:44:02-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-23 20:44:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T20:43:59.888484-07:00.jpg">July 24 at 3:44 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T20:43:59.888484-07:00.jpg">July 23 at 8:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T09:07:32.653046-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T09:07:32.653046-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-23 16:07:34-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-23 09:07:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T09:07:32.653046-07:00.jpg">July 23 at 4:07 PM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-23T09:07:32.653046-07:00.jpg">July 23 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-22T21:27:17.895588-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-22T21:27:17.895588-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-23 04:27:19-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-22 21:27:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-22T21:27:17.895588-07:00.jpg">July 23 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-22T21:27:17.895588-07:00.jpg">July 22 at 9:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T21:33:48.991069-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T21:33:48.991069-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-22 04:33:51-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-21 21:33:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T21:33:48.991069-07:00.jpg">July 22 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T21:33:48.991069-07:00.jpg">July 21 at 9:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T09:56:59.923508-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T09:56:59.923508-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-21 16:57:03-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-21 09:57:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T09:56:59.923508-07:00.jpg">July 21 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-21T09:56:59.923508-07:00.jpg">July 21 at 9:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-20T21:31:14.901113-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-20T21:31:14.901113-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-21 04:31:16-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-20 21:31:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-20T21:31:14.901113-07:00.jpg">July 21 at 4:31 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-20T21:31:14.901113-07:00.jpg">July 20 at 9:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-20T09:48:08.698437-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-20T09:48:08.698437-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-20 16:48:12-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-20 09:48:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-20T09:48:08.698437-07:00.jpg">July 20 at 4:48 PM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-20T09:48:08.698437-07:00.jpg">July 20 at 9:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-19T21:23:29.408046-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-19T21:23:29.408046-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-20 04:23:31-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-19 21:23:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-19T21:23:29.408046-07:00.jpg">July 20 at 4:23 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-19T21:23:29.408046-07:00.jpg">July 19 at 9:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-19T10:03:20.737551-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-19T10:03:20.737551-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-19 17:03:22-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-19 10:03:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-19T10:03:20.737551-07:00.jpg">July 19 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-19T10:03:20.737551-07:00.jpg">July 19 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-18T21:28:23.102066-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-18T21:28:23.102066-07:00.jpg"
-     alt="Arizona Daily Star at 2022-07-19 04:28:24-07:00 local time"
+     alt="Arizona Daily Star at 2022-07-18 21:28:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-18T21:28:23.102066-07:00.jpg">July 19 at 4:28 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-07-18T21:28:23.102066-07:00.jpg">July 18 at 9:28 PM</a></p>
 </div>
 
 </div>

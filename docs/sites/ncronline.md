@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-24T22:35:01.585618-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-24T22:35:01.585618-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-25 05:35:03-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-24 22:35:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-24T22:35:01.585618-05:00.jpg">July 25 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-24T22:35:01.585618-05:00.jpg">July 24 at 10:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-24T08:04:39.795247-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-24T08:04:39.795247-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-24 15:04:41-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-24 08:04:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-24T08:04:39.795247-05:00.jpg">July 24 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-24T08:04:39.795247-05:00.jpg">July 24 at 8:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-23T23:20:15.720806-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-23T23:20:15.720806-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-24 06:20:19-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-23 23:20:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-23T23:20:15.720806-05:00.jpg">July 24 at 6:20 AM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-23T23:20:15.720806-05:00.jpg">July 23 at 11:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-23T10:02:48.974978-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-23T10:02:48.974978-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-23 17:02:53-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-23 10:02:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-23T10:02:48.974978-05:00.jpg">July 23 at 5:02 PM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-23T10:02:48.974978-05:00.jpg">July 23 at 10:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-22T22:32:42.829564-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-22T22:32:42.829564-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-23 05:32:44-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-22 22:32:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-22T22:32:42.829564-05:00.jpg">July 23 at 5:32 AM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-22T22:32:42.829564-05:00.jpg">July 22 at 10:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-22T09:58:45.364782-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-22T09:58:45.364782-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-22 16:58:47-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-22 09:58:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-22T09:58:45.364782-05:00.jpg">July 22 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-22T09:58:45.364782-05:00.jpg">July 22 at 9:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-21T22:37:30.259636-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-21T22:37:30.259636-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-22 05:37:31-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-21 22:37:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-21T22:37:30.259636-05:00.jpg">July 22 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-21T22:37:30.259636-05:00.jpg">July 21 at 10:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-21T10:33:32.586905-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-21T10:33:32.586905-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-21 17:33:35-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-21 10:33:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-21T10:33:32.586905-05:00.jpg">July 21 at 5:33 PM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-21T10:33:32.586905-05:00.jpg">July 21 at 10:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-20T22:35:36.996735-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-20T22:35:36.996735-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-21 05:35:40-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-20 22:35:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-20T22:35:36.996735-05:00.jpg">July 21 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-20T22:35:36.996735-05:00.jpg">July 20 at 10:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-20T11:09:36.832579-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-20T11:09:36.832579-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-20 18:09:39-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-20 11:09:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-20T11:09:36.832579-05:00.jpg">July 20 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-20T11:09:36.832579-05:00.jpg">July 20 at 11:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-19T22:33:50.465652-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-19T22:33:50.465652-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-20 05:33:52-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-19 22:33:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-19T22:33:50.465652-05:00.jpg">July 20 at 5:33 AM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-19T22:33:50.465652-05:00.jpg">July 19 at 10:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-19T10:43:49.471130-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-07-19T10:43:49.471130-05:00.jpg"
-     alt="National Catholic Reporter at 2022-07-19 17:43:51-05:00 local time"
+     alt="National Catholic Reporter at 2022-07-19 10:43:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-19T10:43:49.471130-05:00.jpg">July 19 at 5:43 PM</a></p>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-07-19T10:43:49.471130-05:00.jpg">July 19 at 10:43 AM</a></p>
 </div>
 
 </div>

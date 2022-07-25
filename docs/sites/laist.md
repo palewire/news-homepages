@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-24T20:28:51.922334-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-24T20:28:51.922334-07:00.jpg"
-     alt="LAist at 2022-07-25 03:28:56-07:00 local time"
+     alt="LAist at 2022-07-24 20:28:56-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-24T20:28:51.922334-07:00.jpg">July 25 at 3:28 AM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-24T20:28:51.922334-07:00.jpg">July 24 at 8:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-24T11:20:41.472090-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-24T11:20:41.472090-07:00.jpg"
-     alt="LAist at 2022-07-24 18:20:45-07:00 local time"
+     alt="LAist at 2022-07-24 11:20:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-24T11:20:41.472090-07:00.jpg">July 24 at 6:20 PM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-24T11:20:41.472090-07:00.jpg">July 24 at 11:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-24T06:01:12.860572-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-24T06:01:12.860572-07:00.jpg"
-     alt="LAist at 2022-07-24 13:01:19-07:00 local time"
+     alt="LAist at 2022-07-24 06:01:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-24T06:01:12.860572-07:00.jpg">July 24 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-24T06:01:12.860572-07:00.jpg">July 24 at 6:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-23T21:16:32.337695-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-23T21:16:32.337695-07:00.jpg"
-     alt="LAist at 2022-07-24 04:16:34-07:00 local time"
+     alt="LAist at 2022-07-23 21:16:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-23T21:16:32.337695-07:00.jpg">July 24 at 4:16 AM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-23T21:16:32.337695-07:00.jpg">July 23 at 9:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-23T11:23:40.226020-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-23T11:23:40.226020-07:00.jpg"
-     alt="LAist at 2022-07-23 18:23:44-07:00 local time"
+     alt="LAist at 2022-07-23 11:23:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-23T11:23:40.226020-07:00.jpg">July 23 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-23T11:23:40.226020-07:00.jpg">July 23 at 11:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-23T07:07:00.408298-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-23T07:07:00.408298-07:00.jpg"
-     alt="LAist at 2022-07-23 14:07:01-07:00 local time"
+     alt="LAist at 2022-07-23 07:07:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-23T07:07:00.408298-07:00.jpg">July 23 at 2:07 PM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-23T07:07:00.408298-07:00.jpg">July 23 at 7:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-22T19:32:15.240084-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-22T19:32:15.240084-07:00.jpg"
-     alt="LAist at 2022-07-23 02:32:17-07:00 local time"
+     alt="LAist at 2022-07-22 19:32:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-22T19:32:15.240084-07:00.jpg">July 23 at 2:32 AM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-22T19:32:15.240084-07:00.jpg">July 22 at 7:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-22T11:08:42.541293-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-22T11:08:42.541293-07:00.jpg"
-     alt="LAist at 2022-07-22 18:08:44-07:00 local time"
+     alt="LAist at 2022-07-22 11:08:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-22T11:08:42.541293-07:00.jpg">July 22 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-22T11:08:42.541293-07:00.jpg">July 22 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-22T07:06:55.070012-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-22T07:06:55.070012-07:00.jpg"
-     alt="LAist at 2022-07-22 14:06:57-07:00 local time"
+     alt="LAist at 2022-07-22 07:06:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-22T07:06:55.070012-07:00.jpg">July 22 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-22T07:06:55.070012-07:00.jpg">July 22 at 7:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-21T19:26:27.253184-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-21T19:26:27.253184-07:00.jpg"
-     alt="LAist at 2022-07-22 02:26:31-07:00 local time"
+     alt="LAist at 2022-07-21 19:26:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-21T19:26:27.253184-07:00.jpg">July 22 at 2:26 AM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-21T19:26:27.253184-07:00.jpg">July 21 at 7:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-21T11:08:45.104765-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-21T11:08:45.104765-07:00.jpg"
-     alt="LAist at 2022-07-21 18:08:51-07:00 local time"
+     alt="LAist at 2022-07-21 11:08:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-21T11:08:45.104765-07:00.jpg">July 21 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-21T11:08:45.104765-07:00.jpg">July 21 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-07-21T07:16:41.281011-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-07-21T07:16:41.281011-07:00.jpg"
-     alt="LAist at 2022-07-21 14:16:47-07:00 local time"
+     alt="LAist at 2022-07-21 07:16:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-07-21T07:16:41.281011-07:00.jpg">July 21 at 2:16 PM</a></p>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-07-21T07:16:41.281011-07:00.jpg">July 21 at 7:16 AM</a></p>
 </div>
 
 </div>

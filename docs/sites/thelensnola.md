@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T23:36:40.100982-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T23:36:40.100982-05:00.jpg"
-     alt="Lens at 2022-07-25 06:36:43-05:00 local time"
+     alt="Lens at 2022-07-24 23:36:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T23:36:40.100982-05:00.jpg">July 25 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T23:36:40.100982-05:00.jpg">July 24 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T10:06:47.197199-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T10:06:47.197199-05:00.jpg"
-     alt="Lens at 2022-07-24 17:06:48-05:00 local time"
+     alt="Lens at 2022-07-24 10:06:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T10:06:47.197199-05:00.jpg">July 24 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-24T10:06:47.197199-05:00.jpg">July 24 at 10:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-23T22:41:54.924635-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-23T22:41:54.924635-05:00.jpg"
-     alt="Lens at 2022-07-24 05:41:55-05:00 local time"
+     alt="Lens at 2022-07-23 22:41:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-23T22:41:54.924635-05:00.jpg">July 24 at 5:41 AM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-23T22:41:54.924635-05:00.jpg">July 23 at 10:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-23T11:05:04.431829-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-23T11:05:04.431829-05:00.jpg"
-     alt="Lens at 2022-07-23 18:05:07-05:00 local time"
+     alt="Lens at 2022-07-23 11:05:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-23T11:05:04.431829-05:00.jpg">July 23 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-23T11:05:04.431829-05:00.jpg">July 23 at 11:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T23:25:48.125744-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T23:25:48.125744-05:00.jpg"
-     alt="Lens at 2022-07-23 06:25:49-05:00 local time"
+     alt="Lens at 2022-07-22 23:25:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T23:25:48.125744-05:00.jpg">July 23 at 6:25 AM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T23:25:48.125744-05:00.jpg">July 22 at 11:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T11:18:27.985155-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T11:18:27.985155-05:00.jpg"
-     alt="Lens at 2022-07-22 18:18:29-05:00 local time"
+     alt="Lens at 2022-07-22 11:18:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T11:18:27.985155-05:00.jpg">July 22 at 6:18 PM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-22T11:18:27.985155-05:00.jpg">July 22 at 11:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T23:31:50.329730-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T23:31:50.329730-05:00.jpg"
-     alt="Lens at 2022-07-22 06:31:52-05:00 local time"
+     alt="Lens at 2022-07-21 23:31:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T23:31:50.329730-05:00.jpg">July 22 at 6:31 AM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T23:31:50.329730-05:00.jpg">July 21 at 11:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T11:55:52.223931-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T11:55:52.223931-05:00.jpg"
-     alt="Lens at 2022-07-21 18:55:53-05:00 local time"
+     alt="Lens at 2022-07-21 11:55:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T11:55:52.223931-05:00.jpg">July 21 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-21T11:55:52.223931-05:00.jpg">July 21 at 11:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T23:29:10.072877-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T23:29:10.072877-05:00.jpg"
-     alt="Lens at 2022-07-21 06:29:12-05:00 local time"
+     alt="Lens at 2022-07-20 23:29:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T23:29:10.072877-05:00.jpg">July 21 at 6:29 AM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T23:29:10.072877-05:00.jpg">July 20 at 11:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T11:45:57.550406-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T11:45:57.550406-05:00.jpg"
-     alt="Lens at 2022-07-20 18:46:00-05:00 local time"
+     alt="Lens at 2022-07-20 11:46:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T11:45:57.550406-05:00.jpg">July 20 at 6:46 PM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-20T11:45:57.550406-05:00.jpg">July 20 at 11:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T23:21:37.522092-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T23:21:37.522092-05:00.jpg"
-     alt="Lens at 2022-07-20 06:21:39-05:00 local time"
+     alt="Lens at 2022-07-19 23:21:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T23:21:37.522092-05:00.jpg">July 20 at 6:21 AM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T23:21:37.522092-05:00.jpg">July 19 at 11:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T12:01:24.103658-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T12:01:24.103658-05:00.jpg"
-     alt="Lens at 2022-07-19 19:01:25-05:00 local time"
+     alt="Lens at 2022-07-19 12:01:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T12:01:24.103658-05:00.jpg">July 19 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-07-19T12:01:24.103658-05:00.jpg">July 19 at 12:01 PM</a></p>
 </div>
 
 </div>

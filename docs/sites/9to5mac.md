@@ -31,19 +31,19 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.jpg">
   <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.jpg"
-     alt="9to5Mac at 2022-07-25 10:56:22-07:00 local time"
+     alt="9to5Mac at 2022-07-25 03:56:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.jpg">July 25 at 10:56 AM</a></p>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-25T03:56:21.013694-07:00.jpg">July 25 at 3:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-24T23:46:50.095729-07:00.jpg">
   <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-24T23:46:50.095729-07:00.jpg"
-     alt="9to5Mac at 2022-07-25 06:46:55-07:00 local time"
+     alt="9to5Mac at 2022-07-24 23:46:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-24T23:46:50.095729-07:00.jpg">July 25 at 6:46 AM</a></p>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-07-24T23:46:50.095729-07:00.jpg">July 24 at 11:46 PM</a></p>
 </div>
 
 </div>

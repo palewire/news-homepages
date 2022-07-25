@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-25T05:58:25.457868-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-25T05:58:25.457868-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-25 12:58:37-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-25 05:58:37-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-25T05:58:25.457868-06:00.jpg">July 25 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-25T05:58:25.457868-06:00.jpg">July 25 at 5:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T18:57:22.961860-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T18:57:22.961860-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-25 01:57:27-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-24 18:57:27-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T18:57:22.961860-06:00.jpg">July 25 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T18:57:22.961860-06:00.jpg">July 24 at 6:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T05:56:06.424717-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T05:56:06.424717-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-24 12:56:09-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-24 05:56:09-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T05:56:06.424717-06:00.jpg">July 24 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T05:56:06.424717-06:00.jpg">July 24 at 5:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T00:26:52.796665-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T00:26:52.796665-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-24 07:26:57-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-24 00:26:57-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T00:26:52.796665-06:00.jpg">July 24 at 7:26 AM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-24T00:26:52.796665-06:00.jpg">July 24 at 12:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-23T07:02:06.382789-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-23T07:02:06.382789-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-23 14:02:08-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-23 07:02:08-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-23T07:02:06.382789-06:00.jpg">July 23 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-23T07:02:06.382789-06:00.jpg">July 23 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T19:02:51.875334-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T19:02:51.875334-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-23 02:02:53-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-22 19:02:53-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T19:02:51.875334-06:00.jpg">July 23 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T19:02:51.875334-06:00.jpg">July 22 at 7:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T07:02:07.950402-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T07:02:07.950402-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-22 14:02:15-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-22 07:02:15-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T07:02:07.950402-06:00.jpg">July 22 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-22T07:02:07.950402-06:00.jpg">July 22 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-21T19:10:26.219581-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-21T19:10:26.219581-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-22 02:10:29-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-21 19:10:29-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-21T19:10:26.219581-06:00.jpg">July 22 at 2:10 AM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-21T19:10:26.219581-06:00.jpg">July 21 at 7:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-21T06:56:18.086225-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-21T06:56:18.086225-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-21 13:56:20-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-21 06:56:20-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-21T06:56:18.086225-06:00.jpg">July 21 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-21T06:56:18.086225-06:00.jpg">July 21 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-20T19:09:01.607280-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-20T19:09:01.607280-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-21 02:09:05-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-20 19:09:05-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-20T19:09:01.607280-06:00.jpg">July 21 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-20T19:09:01.607280-06:00.jpg">July 20 at 7:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-20T06:56:37.983334-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-20T06:56:37.983334-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-20 13:56:39-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-20 06:56:39-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-20T06:56:37.983334-06:00.jpg">July 20 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-20T06:56:37.983334-06:00.jpg">July 20 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-19T19:04:08.485295-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-19T19:04:08.485295-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-20 02:04:09-06:00 local time"
+     alt="Las Cruces Sun News at 2022-07-19 19:04:09-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-19T19:04:08.485295-06:00.jpg">July 20 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-19T19:04:08.485295-06:00.jpg">July 19 at 7:04 PM</a></p>
 </div>
 
 </div>

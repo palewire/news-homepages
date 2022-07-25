@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T23:40:04.638682-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T23:40:04.638682-04:00.jpg"
-     alt="Post and Courier at 2022-07-25 06:40:06-04:00 local time"
+     alt="Post and Courier at 2022-07-24 23:40:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T23:40:04.638682-04:00.jpg">July 25 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T23:40:04.638682-04:00.jpg">July 24 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T10:00:10.836146-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T10:00:10.836146-04:00.jpg"
-     alt="Post and Courier at 2022-07-24 17:00:12-04:00 local time"
+     alt="Post and Courier at 2022-07-24 10:00:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T10:00:10.836146-04:00.jpg">July 24 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T10:00:10.836146-04:00.jpg">July 24 at 10:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T02:19:00.268012-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T02:19:00.268012-04:00.jpg"
-     alt="Post and Courier at 2022-07-24 09:19:02-04:00 local time"
+     alt="Post and Courier at 2022-07-24 02:19:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T02:19:00.268012-04:00.jpg">July 24 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-24T02:19:00.268012-04:00.jpg">July 24 at 2:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-23T11:06:54.181440-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-23T11:06:54.181440-04:00.jpg"
-     alt="Post and Courier at 2022-07-23 18:06:56-04:00 local time"
+     alt="Post and Courier at 2022-07-23 11:06:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-23T11:06:54.181440-04:00.jpg">July 23 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-23T11:06:54.181440-04:00.jpg">July 23 at 11:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-22T23:36:22.415834-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-22T23:36:22.415834-04:00.jpg"
-     alt="Post and Courier at 2022-07-23 06:36:25-04:00 local time"
+     alt="Post and Courier at 2022-07-22 23:36:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-22T23:36:22.415834-04:00.jpg">July 23 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-22T23:36:22.415834-04:00.jpg">July 22 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-22T11:02:31.763500-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-22T11:02:31.763500-04:00.jpg"
-     alt="Post and Courier at 2022-07-22 18:02:35-04:00 local time"
+     alt="Post and Courier at 2022-07-22 11:02:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-22T11:02:31.763500-04:00.jpg">July 22 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-22T11:02:31.763500-04:00.jpg">July 22 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-21T23:41:02.927606-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-21T23:41:02.927606-04:00.jpg"
-     alt="Post and Courier at 2022-07-22 06:41:04-04:00 local time"
+     alt="Post and Courier at 2022-07-21 23:41:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-21T23:41:02.927606-04:00.jpg">July 22 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-21T23:41:02.927606-04:00.jpg">July 21 at 11:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-21T11:37:09.184902-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-21T11:37:09.184902-04:00.jpg"
-     alt="Post and Courier at 2022-07-21 18:37:11-04:00 local time"
+     alt="Post and Courier at 2022-07-21 11:37:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-21T11:37:09.184902-04:00.jpg">July 21 at 6:37 PM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-21T11:37:09.184902-04:00.jpg">July 21 at 11:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T23:39:46.369731-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T23:39:46.369731-04:00.jpg"
-     alt="Post and Courier at 2022-07-21 06:39:47-04:00 local time"
+     alt="Post and Courier at 2022-07-20 23:39:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T23:39:46.369731-04:00.jpg">July 21 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T23:39:46.369731-04:00.jpg">July 20 at 11:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T12:13:38.052174-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T12:13:38.052174-04:00.jpg"
-     alt="Post and Courier at 2022-07-20 19:13:40-04:00 local time"
+     alt="Post and Courier at 2022-07-20 12:13:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T12:13:38.052174-04:00.jpg">July 20 at 7:13 PM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-20T12:13:38.052174-04:00.jpg">July 20 at 12:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-19T23:36:59.516094-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-19T23:36:59.516094-04:00.jpg"
-     alt="Post and Courier at 2022-07-20 06:37:01-04:00 local time"
+     alt="Post and Courier at 2022-07-19 23:37:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-19T23:36:59.516094-04:00.jpg">July 20 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-19T23:36:59.516094-04:00.jpg">July 19 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-19T11:47:11.741203-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-19T11:47:11.741203-04:00.jpg"
-     alt="Post and Courier at 2022-07-19 18:47:13-04:00 local time"
+     alt="Post and Courier at 2022-07-19 11:47:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-19T11:47:11.741203-04:00.jpg">July 19 at 6:47 PM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-07-19T11:47:11.741203-04:00.jpg">July 19 at 11:47 AM</a></p>
 </div>
 
 </div>

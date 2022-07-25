@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-24T23:42:15.112687-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-24T23:42:15.112687-05:00.jpg"
-     alt="WTTW at 2022-07-25 06:42:17-05:00 local time"
+     alt="WTTW at 2022-07-24 23:42:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-24T23:42:15.112687-05:00.jpg">July 25 at 6:42 AM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-24T23:42:15.112687-05:00.jpg">July 24 at 11:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-24T10:46:29.042072-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-24T10:46:29.042072-05:00.jpg"
-     alt="WTTW at 2022-07-24 17:46:30-05:00 local time"
+     alt="WTTW at 2022-07-24 10:46:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-24T10:46:29.042072-05:00.jpg">July 24 at 5:46 PM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-24T10:46:29.042072-05:00.jpg">July 24 at 10:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-24T10:11:57.907596-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-24T10:11:57.907596-05:00.jpg"
-     alt="WTTW at 2022-07-24 17:11:59-05:00 local time"
+     alt="WTTW at 2022-07-24 10:11:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-24T10:11:57.907596-05:00.jpg">July 24 at 5:11 PM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-24T10:11:57.907596-05:00.jpg">July 24 at 10:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-23T22:48:46.803205-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-23T22:48:46.803205-05:00.jpg"
-     alt="WTTW at 2022-07-24 05:48:49-05:00 local time"
+     alt="WTTW at 2022-07-23 22:48:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-23T22:48:46.803205-05:00.jpg">July 24 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-23T22:48:46.803205-05:00.jpg">July 23 at 10:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-23T11:10:34.051422-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-23T11:10:34.051422-05:00.jpg"
-     alt="WTTW at 2022-07-23 18:10:35-05:00 local time"
+     alt="WTTW at 2022-07-23 11:10:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-23T11:10:34.051422-05:00.jpg">July 23 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-23T11:10:34.051422-05:00.jpg">July 23 at 11:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-22T23:30:57.927699-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-22T23:30:57.927699-05:00.jpg"
-     alt="WTTW at 2022-07-23 06:30:58-05:00 local time"
+     alt="WTTW at 2022-07-22 23:30:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-22T23:30:57.927699-05:00.jpg">July 23 at 6:30 AM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-22T23:30:57.927699-05:00.jpg">July 22 at 11:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-22T11:24:01.911617-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-22T11:24:01.911617-05:00.jpg"
-     alt="WTTW at 2022-07-22 18:24:05-05:00 local time"
+     alt="WTTW at 2022-07-22 11:24:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-22T11:24:01.911617-05:00.jpg">July 22 at 6:24 PM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-22T11:24:01.911617-05:00.jpg">July 22 at 11:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-22T11:22:59.588783-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-22T11:22:59.588783-05:00.jpg"
-     alt="WTTW at 2022-07-22 18:23:05-05:00 local time"
+     alt="WTTW at 2022-07-22 11:23:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-22T11:22:59.588783-05:00.jpg">July 22 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-22T11:22:59.588783-05:00.jpg">July 22 at 11:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-21T23:37:15.763614-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-21T23:37:15.763614-05:00.jpg"
-     alt="WTTW at 2022-07-22 06:37:20-05:00 local time"
+     alt="WTTW at 2022-07-21 23:37:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-21T23:37:15.763614-05:00.jpg">July 22 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-21T23:37:15.763614-05:00.jpg">July 21 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-21T12:01:11.323102-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-21T12:01:11.323102-05:00.jpg"
-     alt="WTTW at 2022-07-21 19:01:12-05:00 local time"
+     alt="WTTW at 2022-07-21 12:01:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-21T12:01:11.323102-05:00.jpg">July 21 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-21T12:01:11.323102-05:00.jpg">July 21 at 12:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-21T11:49:09.751892-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-21T11:49:09.751892-05:00.jpg"
-     alt="WTTW at 2022-07-21 18:49:15-05:00 local time"
+     alt="WTTW at 2022-07-21 11:49:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-21T11:49:09.751892-05:00.jpg">July 21 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-21T11:49:09.751892-05:00.jpg">July 21 at 11:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-07-20T23:34:16.007111-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-07-20T23:34:16.007111-05:00.jpg"
-     alt="WTTW at 2022-07-21 06:34:19-05:00 local time"
+     alt="WTTW at 2022-07-20 23:34:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-20T23:34:16.007111-05:00.jpg">July 21 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-07-20T23:34:16.007111-05:00.jpg">July 20 at 11:34 PM</a></p>
 </div>
 
 </div>

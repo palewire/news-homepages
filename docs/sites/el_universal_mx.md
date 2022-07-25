@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-25T07:01:23.650469-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-25T07:01:23.650469-05:00.jpg"
-     alt="El Universal at 2022-07-25 14:01:32-05:00 local time"
+     alt="El Universal at 2022-07-25 07:01:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-25T07:01:23.650469-05:00.jpg">July 25 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-25T07:01:23.650469-05:00.jpg">July 25 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T20:03:27.567879-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T20:03:27.567879-05:00.jpg"
-     alt="El Universal at 2022-07-25 03:03:28-05:00 local time"
+     alt="El Universal at 2022-07-24 20:03:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T20:03:27.567879-05:00.jpg">July 25 at 3:03 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T20:03:27.567879-05:00.jpg">July 24 at 8:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T06:58:08.137167-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T06:58:08.137167-05:00.jpg"
-     alt="El Universal at 2022-07-24 13:58:20-05:00 local time"
+     alt="El Universal at 2022-07-24 06:58:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T06:58:08.137167-05:00.jpg">July 24 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T06:58:08.137167-05:00.jpg">July 24 at 6:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T01:28:24.530336-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T01:28:24.530336-05:00.jpg"
-     alt="El Universal at 2022-07-24 08:28:34-05:00 local time"
+     alt="El Universal at 2022-07-24 01:28:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T01:28:24.530336-05:00.jpg">July 24 at 8:28 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-24T01:28:24.530336-05:00.jpg">July 24 at 1:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-23T08:57:34.811859-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-23T08:57:34.811859-05:00.jpg"
-     alt="El Universal at 2022-07-23 15:57:37-05:00 local time"
+     alt="El Universal at 2022-07-23 08:57:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-23T08:57:34.811859-05:00.jpg">July 23 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-23T08:57:34.811859-05:00.jpg">July 23 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-22T21:24:39.497748-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-22T21:24:39.497748-05:00.jpg"
-     alt="El Universal at 2022-07-23 04:24:50-05:00 local time"
+     alt="El Universal at 2022-07-22 21:24:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-22T21:24:39.497748-05:00.jpg">July 23 at 4:24 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-22T21:24:39.497748-05:00.jpg">July 22 at 9:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-22T08:59:21.278920-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-22T08:59:21.278920-05:00.jpg"
-     alt="El Universal at 2022-07-22 15:59:30-05:00 local time"
+     alt="El Universal at 2022-07-22 08:59:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-22T08:59:21.278920-05:00.jpg">July 22 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-22T08:59:21.278920-05:00.jpg">July 22 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-21T21:18:22.165908-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-21T21:18:22.165908-05:00.jpg"
-     alt="El Universal at 2022-07-22 04:18:32-05:00 local time"
+     alt="El Universal at 2022-07-21 21:18:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-21T21:18:22.165908-05:00.jpg">July 22 at 4:18 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-21T21:18:22.165908-05:00.jpg">July 21 at 9:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-21T09:04:00.236578-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-21T09:04:00.236578-05:00.jpg"
-     alt="El Universal at 2022-07-21 16:04:01-05:00 local time"
+     alt="El Universal at 2022-07-21 09:04:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-21T09:04:00.236578-05:00.jpg">July 21 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-21T09:04:00.236578-05:00.jpg">July 21 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-20T21:21:25.916769-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-20T21:21:25.916769-05:00.jpg"
-     alt="El Universal at 2022-07-21 04:21:37-05:00 local time"
+     alt="El Universal at 2022-07-20 21:21:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-20T21:21:25.916769-05:00.jpg">July 21 at 4:21 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-20T21:21:25.916769-05:00.jpg">July 20 at 9:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-20T09:21:30.873572-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-20T09:21:30.873572-05:00.jpg"
-     alt="El Universal at 2022-07-20 16:21:59-05:00 local time"
+     alt="El Universal at 2022-07-20 09:21:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-20T09:21:30.873572-05:00.jpg">July 20 at 4:21 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-20T09:21:30.873572-05:00.jpg">July 20 at 9:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-19T21:16:17.545290-05:00.jpg">
   <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-19T21:16:17.545290-05:00.jpg"
-     alt="El Universal at 2022-07-20 04:16:18-05:00 local time"
+     alt="El Universal at 2022-07-19 21:16:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-19T21:16:17.545290-05:00.jpg">July 20 at 4:16 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-07-19T21:16:17.545290-05:00.jpg">July 19 at 9:16 PM</a></p>
 </div>
 
 </div>

@@ -31,55 +31,55 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T07:02:54.076645-04:00.jpg">
   <img src="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T07:02:54.076645-04:00.jpg"
-     alt="Climate Central at 2022-07-25 14:02:55-04:00 local time"
+     alt="Climate Central at 2022-07-25 07:02:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T07:02:54.076645-04:00.jpg">July 25 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-25T07:02:54.076645-04:00.jpg">July 25 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-24T20:55:49.154866-04:00.jpg">
   <img src="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-24T20:55:49.154866-04:00.jpg"
-     alt="Climate Central at 2022-07-25 03:55:56-04:00 local time"
+     alt="Climate Central at 2022-07-24 20:55:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-24T20:55:49.154866-04:00.jpg">July 25 at 3:55 AM</a></p>
+ <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-24T20:55:49.154866-04:00.jpg">July 24 at 8:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-24T07:01:44.096044-04:00.jpg">
   <img src="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-24T07:01:44.096044-04:00.jpg"
-     alt="Climate Central at 2022-07-24 14:01:46-04:00 local time"
+     alt="Climate Central at 2022-07-24 07:01:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-24T07:01:44.096044-04:00.jpg">July 24 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-24T07:01:44.096044-04:00.jpg">July 24 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-23T19:04:02.811399-04:00.jpg">
   <img src="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-23T19:04:02.811399-04:00.jpg"
-     alt="Climate Central at 2022-07-24 02:04:04-04:00 local time"
+     alt="Climate Central at 2022-07-23 19:04:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-23T19:04:02.811399-04:00.jpg">July 24 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-23T19:04:02.811399-04:00.jpg">July 23 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-23T09:01:06.799594-04:00.jpg">
   <img src="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-23T09:01:06.799594-04:00.jpg"
-     alt="Climate Central at 2022-07-23 16:01:08-04:00 local time"
+     alt="Climate Central at 2022-07-23 09:01:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-23T09:01:06.799594-04:00.jpg">July 23 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-23T09:01:06.799594-04:00.jpg">July 23 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-22T21:01:33.654126-04:00.jpg">
   <img src="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-22T21:01:33.654126-04:00.jpg"
-     alt="Climate Central at 2022-07-23 04:01:39-04:00 local time"
+     alt="Climate Central at 2022-07-22 21:01:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-22T21:01:33.654126-04:00.jpg">July 23 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/climatecentral-2022/climatecentral-2022-07-22T21:01:33.654126-04:00.jpg">July 22 at 9:01 PM</a></p>
 </div>
 
 </div>

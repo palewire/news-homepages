@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-24T22:30:26.764809-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-24T22:30:26.764809-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-25 05:30:28-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-24 22:30:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-24T22:30:26.764809-05:00.jpg">July 25 at 5:30 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-24T22:30:26.764809-05:00.jpg">July 24 at 10:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-24T08:03:00.219432-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-24T08:03:00.219432-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-24 15:03:01-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-24 08:03:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-24T08:03:00.219432-05:00.jpg">July 24 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-24T08:03:00.219432-05:00.jpg">July 24 at 8:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T23:18:13.185847-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T23:18:13.185847-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-24 06:18:15-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-23 23:18:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T23:18:13.185847-05:00.jpg">July 24 at 6:18 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T23:18:13.185847-05:00.jpg">July 23 at 11:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T10:00:56.447440-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T10:00:56.447440-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-23 17:00:57-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-23 10:00:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T10:00:56.447440-05:00.jpg">July 23 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-23T10:00:56.447440-05:00.jpg">July 23 at 10:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T22:30:30.076133-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T22:30:30.076133-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-23 05:30:31-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-22 22:30:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T22:30:30.076133-05:00.jpg">July 23 at 5:30 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T22:30:30.076133-05:00.jpg">July 22 at 10:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T09:55:58.362566-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T09:55:58.362566-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-22 16:56:00-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-22 09:56:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T09:55:58.362566-05:00.jpg">July 22 at 4:56 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-22T09:55:58.362566-05:00.jpg">July 22 at 9:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T22:35:48.344904-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T22:35:48.344904-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-22 05:35:49-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-21 22:35:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T22:35:48.344904-05:00.jpg">July 22 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T22:35:48.344904-05:00.jpg">July 21 at 10:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T10:32:12.577205-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T10:32:12.577205-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-21 17:32:15-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-21 10:32:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T10:32:12.577205-05:00.jpg">July 21 at 5:32 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-21T10:32:12.577205-05:00.jpg">July 21 at 10:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-20T22:33:29.237573-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-20T22:33:29.237573-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-21 05:33:30-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-20 22:33:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-20T22:33:29.237573-05:00.jpg">July 21 at 5:33 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-20T22:33:29.237573-05:00.jpg">July 20 at 10:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-20T11:06:45.876116-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-20T11:06:45.876116-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-20 18:06:47-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-20 11:06:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-20T11:06:45.876116-05:00.jpg">July 20 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-20T11:06:45.876116-05:00.jpg">July 20 at 11:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-19T22:31:56.938231-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-19T22:31:56.938231-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-20 05:31:58-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-19 22:31:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-19T22:31:56.938231-05:00.jpg">July 20 at 5:31 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-19T22:31:56.938231-05:00.jpg">July 19 at 10:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-19T10:40:43.527553-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-19T10:40:43.527553-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-07-19 17:40:45-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-07-19 10:40:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-19T10:40:43.527553-05:00.jpg">July 19 at 5:40 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-07-19T10:40:43.527553-05:00.jpg">July 19 at 10:40 AM</a></p>
 </div>
 
 </div>

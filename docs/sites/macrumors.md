@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T02:46:50.093923-04:00.jpg">
   <img src="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T02:46:50.093923-04:00.jpg"
-     alt="MacRumors at 2022-07-25 09:46:56-04:00 local time"
+     alt="MacRumors at 2022-07-25 02:46:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T02:46:50.093923-04:00.jpg">July 25 at 9:46 AM</a></p>
+ <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-07-25T02:46:50.093923-04:00.jpg">July 25 at 2:46 AM</a></p>
 </div>
 
 </div>
