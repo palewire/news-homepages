@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-25 05:32:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-24T22:32:02.657420-05:00.jpg">Jul 25 at 5:32 AM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-24T22:32:02.657420-05:00.jpg">July 25 at 5:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-24 15:02:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-24T08:02:53.718829-05:00.jpg">Jul 24 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-24T08:02:53.718829-05:00.jpg">July 24 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-24 06:19:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-23T23:19:08.040201-05:00.jpg">Jul 24 at 6:19 AM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-23T23:19:08.040201-05:00.jpg">July 24 at 6:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-23 17:01:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-23T10:01:30.432710-05:00.jpg">Jul 23 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-23T10:01:30.432710-05:00.jpg">July 23 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-23 05:31:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-22T22:31:37.960222-05:00.jpg">Jul 23 at 5:31 AM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-22T22:31:37.960222-05:00.jpg">July 23 at 5:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-22 16:57:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-22T09:57:19.788996-05:00.jpg">Jul 22 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-22T09:57:19.788996-05:00.jpg">July 22 at 4:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-22 05:35:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-21T22:35:49.798228-05:00.jpg">Jul 22 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-21T22:35:49.798228-05:00.jpg">July 22 at 5:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-21 17:30:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-21T10:30:21.625781-05:00.jpg">Jul 21 at 5:30 PM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-21T10:30:21.625781-05:00.jpg">July 21 at 5:30 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-21 05:34:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-20T22:34:16.277758-05:00.jpg">Jul 21 at 5:34 AM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-20T22:34:16.277758-05:00.jpg">July 21 at 5:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-20 18:08:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-20T11:08:50.638746-05:00.jpg">Jul 20 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-20T11:08:50.638746-05:00.jpg">July 20 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-20 05:32:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-19T22:32:37.961161-05:00.jpg">Jul 20 at 5:32 AM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-19T22:32:37.961161-05:00.jpg">July 20 at 5:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Missouri Independent at 2022-07-19 17:42:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-19T10:42:05.034866-05:00.jpg">Jul 19 at 5:42 PM</a></p>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-07-19T10:42:05.034866-05:00.jpg">July 19 at 5:42 PM</a></p>
 </div>
 
 </div>

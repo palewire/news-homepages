@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-25 03:44:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-24T20:44:02.605267-07:00.jpg">Jul 25 at 3:44 AM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-24T20:44:02.605267-07:00.jpg">July 25 at 3:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-24 14:04:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-24T07:04:38.907709-07:00.jpg">Jul 24 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-24T07:04:38.907709-07:00.jpg">July 24 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-24 06:24:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-23T23:24:26.776205-07:00.jpg">Jul 24 at 6:24 AM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-23T23:24:26.776205-07:00.jpg">July 24 at 6:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-23 16:02:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-23T09:02:12.572227-07:00.jpg">Jul 23 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-23T09:02:12.572227-07:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-23 04:23:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-22T21:23:23.570307-07:00.jpg">Jul 23 at 4:23 AM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-22T21:23:23.570307-07:00.jpg">July 23 at 4:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-22 16:15:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-22T09:15:13.105212-07:00.jpg">Jul 22 at 4:15 PM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-22T09:15:13.105212-07:00.jpg">July 22 at 4:15 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-22 04:29:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-21T21:29:24.359084-07:00.jpg">Jul 22 at 4:29 AM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-21T21:29:24.359084-07:00.jpg">July 22 at 4:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-21 16:53:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-21T09:53:06.928318-07:00.jpg">Jul 21 at 4:53 PM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-21T09:53:06.928318-07:00.jpg">July 21 at 4:53 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-21 04:26:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-20T21:26:29.907971-07:00.jpg">Jul 21 at 4:26 AM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-20T21:26:29.907971-07:00.jpg">July 21 at 4:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-20 16:43:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-20T09:43:24.333078-07:00.jpg">Jul 20 at 4:43 PM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-20T09:43:24.333078-07:00.jpg">July 20 at 4:43 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-20 04:19:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-19T21:19:32.445082-07:00.jpg">Jul 20 at 4:19 AM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-19T21:19:32.445082-07:00.jpg">July 20 at 4:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Spokesman-Review at 2022-07-19 16:58:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-19T09:58:08.003329-07:00.jpg">Jul 19 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-07-19T09:58:08.003329-07:00.jpg">July 19 at 4:58 PM</a></p>
 </div>
 
 </div>

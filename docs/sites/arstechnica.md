@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-25 13:57:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-25T06:57:15.993182-04:00.jpg">Jul 25 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-25T06:57:15.993182-04:00.jpg">July 25 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-25 09:46:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-25T02:46:42.208350-04:00.jpg">Jul 25 at 9:46 AM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-25T02:46:42.208350-04:00.jpg">July 25 at 9:46 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-25 03:48:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-24T20:48:02.964908-04:00.jpg">Jul 25 at 3:48 AM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-24T20:48:02.964908-04:00.jpg">July 25 at 3:48 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-24 13:56:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-24T06:56:28.756720-04:00.jpg">Jul 24 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-24T06:56:28.756720-04:00.jpg">July 24 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-24 01:59:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-23T18:59:05.274540-04:00.jpg">Jul 24 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-23T18:59:05.274540-04:00.jpg">July 24 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-23 15:55:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-23T08:55:34.246068-04:00.jpg">Jul 23 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-23T08:55:34.246068-04:00.jpg">July 23 at 3:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-23 03:56:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-22T20:56:02.511040-04:00.jpg">Jul 23 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-22T20:56:02.511040-04:00.jpg">July 23 at 3:56 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-22 15:56:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-22T08:56:19.457038-04:00.jpg">Jul 22 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-22T08:56:19.457038-04:00.jpg">July 22 at 3:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-22 04:03:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-21T21:03:57.992805-04:00.jpg">Jul 22 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-21T21:03:57.992805-04:00.jpg">July 22 at 4:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-21 15:50:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-21T08:50:53.840437-04:00.jpg">Jul 21 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-21T08:50:53.840437-04:00.jpg">July 21 at 3:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-21 04:02:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-20T21:02:49.481638-04:00.jpg">Jul 21 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-20T21:02:49.481638-04:00.jpg">July 21 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Ars Technica at 2022-07-20 15:51:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-20T08:51:21.819589-04:00.jpg">Jul 20 at 3:51 PM</a></p>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-07-20T08:51:21.819589-04:00.jpg">July 20 at 3:51 PM</a></p>
 </div>
 
 </div>

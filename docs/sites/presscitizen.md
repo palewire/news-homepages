@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-25 05:40:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-24T22:40:07.115778-05:00.jpg">Jul 25 at 5:40 AM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-24T22:40:07.115778-05:00.jpg">July 25 at 5:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-24 16:00:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-24T09:00:40.742305-05:00.jpg">Jul 24 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-24T09:00:40.742305-05:00.jpg">July 24 at 4:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-24 08:20:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-24T01:20:17.637346-05:00.jpg">Jul 24 at 8:20 AM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-24T01:20:17.637346-05:00.jpg">July 24 at 8:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-23 17:07:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-23T10:07:17.914471-05:00.jpg">Jul 23 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-23T10:07:17.914471-05:00.jpg">July 23 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-23 05:36:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-22T22:36:34.537365-05:00.jpg">Jul 23 at 5:36 AM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-22T22:36:34.537365-05:00.jpg">July 23 at 5:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-22 18:13:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-22T11:13:23.531082-05:00.jpg">Jul 22 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-22T11:13:23.531082-05:00.jpg">July 22 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-22 17:02:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-22T10:02:27.525597-05:00.jpg">Jul 22 at 5:02 PM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-22T10:02:27.525597-05:00.jpg">July 22 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-22 05:41:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-21T22:41:27.910081-05:00.jpg">Jul 22 at 5:41 AM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-21T22:41:27.910081-05:00.jpg">July 22 at 5:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-21 17:37:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-21T10:37:17.562303-05:00.jpg">Jul 21 at 5:37 PM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-21T10:37:17.562303-05:00.jpg">July 21 at 5:37 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-21 05:39:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T22:39:27.888820-05:00.jpg">Jul 21 at 5:39 AM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T22:39:27.888820-05:00.jpg">July 21 at 5:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-20 18:54:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T11:54:56.377063-05:00.jpg">Jul 20 at 6:54 PM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T11:54:56.377063-05:00.jpg">July 20 at 6:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Iowa City Press-Citizen at 2022-07-20 18:14:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T11:14:27.070087-05:00.jpg">Jul 20 at 6:14 PM</a></p>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-07-20T11:14:27.070087-05:00.jpg">July 20 at 6:14 PM</a></p>
 </div>
 
 </div>

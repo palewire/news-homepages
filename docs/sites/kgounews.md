@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-25 05:26:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.jpg">Jul 25 at 5:26 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T22:26:16.344567-05:00.jpg">July 25 at 5:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-24 15:00:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.jpg">Jul 24 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-24T08:00:09.195628-05:00.jpg">July 24 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-24 06:15:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.jpg">Jul 24 at 6:15 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T23:15:10.028434-05:00.jpg">July 24 at 6:15 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-23 16:05:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.jpg">Jul 23 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-23T09:05:05.769916-05:00.jpg">July 23 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-23 04:30:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T21:30:38.432135-05:00.jpg">Jul 23 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T21:30:38.432135-05:00.jpg">July 23 at 4:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-22 16:05:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T09:05:26.065607-05:00.jpg">Jul 22 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-22T09:05:26.065607-05:00.jpg">July 22 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-22 04:25:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T21:25:11.274185-05:00.jpg">Jul 22 at 4:25 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T21:25:11.274185-05:00.jpg">July 22 at 4:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-21 16:14:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T09:14:42.714439-05:00.jpg">Jul 21 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-21T09:14:42.714439-05:00.jpg">July 21 at 4:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-21 04:27:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T21:27:38.626403-05:00.jpg">Jul 21 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T21:27:38.626403-05:00.jpg">July 21 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-20 16:28:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T09:28:31.255789-05:00.jpg">Jul 20 at 4:28 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-20T09:28:31.255789-05:00.jpg">July 20 at 4:28 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-20 04:20:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-19T21:20:57.197740-05:00.jpg">Jul 20 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-19T21:20:57.197740-05:00.jpg">July 20 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="KGOU at 2022-07-19 16:25:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-19T09:25:09.059718-05:00.jpg">Jul 19 at 4:25 PM</a></p>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-07-19T09:25:09.059718-05:00.jpg">July 19 at 4:25 PM</a></p>
 </div>
 
 </div>

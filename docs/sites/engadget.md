@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-25 12:01:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-25T05:01:23.142149-07:00.jpg">Jul 25 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-25T05:01:23.142149-07:00.jpg">July 25 at 12:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-25 06:46:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-24T23:46:48.762115-07:00.jpg">Jul 25 at 6:46 AM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-24T23:46:48.762115-07:00.jpg">July 25 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-25 01:02:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-24T18:02:57.249544-07:00.jpg">Jul 25 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-24T18:02:57.249544-07:00.jpg">July 25 at 1:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-24 11:58:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-24T04:58:35.158394-07:00.jpg">Jul 24 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-24T04:58:35.158394-07:00.jpg">July 24 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-24 06:28:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-23T23:28:25.971800-07:00.jpg">Jul 24 at 6:28 AM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-23T23:28:25.971800-07:00.jpg">July 24 at 6:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-23 13:57:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-23T06:57:47.046624-07:00.jpg">Jul 23 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-23T06:57:47.046624-07:00.jpg">July 23 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-23 02:24:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-22T19:24:35.307456-07:00.jpg">Jul 23 at 2:24 AM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-22T19:24:35.307456-07:00.jpg">July 23 at 2:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-22 13:59:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-22T06:59:19.091640-07:00.jpg">Jul 22 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-22T06:59:19.091640-07:00.jpg">July 22 at 1:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-22 02:18:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-21T19:18:42.303544-07:00.jpg">Jul 22 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-21T19:18:42.303544-07:00.jpg">July 22 at 2:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-21 14:04:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-21T07:04:05.929703-07:00.jpg">Jul 21 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-21T07:04:05.929703-07:00.jpg">July 21 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-21 02:21:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-20T19:21:34.960318-07:00.jpg">Jul 21 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-20T19:21:34.960318-07:00.jpg">July 21 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Engadget at 2022-07-20 14:23:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-20T07:23:26.837807-07:00.jpg">Jul 20 at 2:23 PM</a></p>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-07-20T07:23:26.837807-07:00.jpg">July 20 at 2:23 PM</a></p>
 </div>
 
 </div>

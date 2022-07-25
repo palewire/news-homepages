@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-25 12:06:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-25T05:06:30.134374-07:00.jpg">Jul 25 at 12:06 PM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-25T05:06:30.134374-07:00.jpg">July 25 at 12:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-25 01:12:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-24T18:12:42.567485-07:00.jpg">Jul 25 at 1:12 AM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-24T18:12:42.567485-07:00.jpg">July 25 at 1:12 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-24 18:20:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-24T11:20:23.806988-07:00.jpg">Jul 24 at 6:20 PM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-24T11:20:23.806988-07:00.jpg">July 24 at 6:20 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-24 12:03:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-24T05:03:14.910964-07:00.jpg">Jul 24 at 12:03 PM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-24T05:03:14.910964-07:00.jpg">July 24 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-24 06:33:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-23T23:33:47.367702-07:00.jpg">Jul 24 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-23T23:33:47.367702-07:00.jpg">July 24 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-23 18:23:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-23T11:23:27.854245-07:00.jpg">Jul 23 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-23T11:23:27.854245-07:00.jpg">July 23 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-23 14:02:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-23T07:02:47.466471-07:00.jpg">Jul 23 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-23T07:02:47.466471-07:00.jpg">July 23 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-23 02:28:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T19:28:48.520622-07:00.jpg">Jul 23 at 2:28 AM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T19:28:48.520622-07:00.jpg">July 23 at 2:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-22 18:08:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T11:08:52.461373-07:00.jpg">Jul 22 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T11:08:52.461373-07:00.jpg">July 22 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-22 14:03:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T07:03:52.817756-07:00.jpg">Jul 22 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-22T07:03:52.817756-07:00.jpg">July 22 at 2:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-22 02:23:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-21T19:23:09.150370-07:00.jpg">Jul 22 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-21T19:23:09.150370-07:00.jpg">July 22 at 2:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="inewsource at 2022-07-21 18:08:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-21T11:08:41.085443-07:00.jpg">Jul 21 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-21T11:08:41.085443-07:00.jpg">July 21 at 6:08 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-25 03:26:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-24T20:26:17.494380-07:00.jpg">Jul 25 at 3:26 AM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-24T20:26:17.494380-07:00.jpg">July 25 at 3:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-24 18:20:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-24T11:20:24.192927-07:00.jpg">Jul 24 at 6:20 PM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-24T11:20:24.192927-07:00.jpg">July 24 at 6:20 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-24 13:00:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-24T05:59:59.813566-07:00.jpg">Jul 24 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-24T05:59:59.813566-07:00.jpg">July 24 at 1:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-24 04:15:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-23T21:15:12.844625-07:00.jpg">Jul 24 at 4:15 AM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-23T21:15:12.844625-07:00.jpg">July 24 at 4:15 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-23 18:23:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-23T11:23:38.925665-07:00.jpg">Jul 23 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-23T11:23:38.925665-07:00.jpg">July 23 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-23 14:05:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-23T07:05:29.365340-07:00.jpg">Jul 23 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-23T07:05:29.365340-07:00.jpg">July 23 at 2:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-23 02:31:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T19:31:32.175081-07:00.jpg">Jul 23 at 2:31 AM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T19:31:32.175081-07:00.jpg">July 23 at 2:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-22 18:08:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T11:08:37.047759-07:00.jpg">Jul 22 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T11:08:37.047759-07:00.jpg">July 22 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-22 14:06:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T07:05:51.657826-07:00.jpg">Jul 22 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-22T07:05:51.657826-07:00.jpg">July 22 at 2:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-22 02:26:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-21T19:26:53.066625-07:00.jpg">Jul 22 at 2:26 AM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-21T19:26:53.066625-07:00.jpg">July 22 at 2:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-21 18:08:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-21T11:08:44.896177-07:00.jpg">Jul 21 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-21T11:08:44.896177-07:00.jpg">July 21 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="KPBS at 2022-07-21 14:15:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-21T07:15:28.986668-07:00.jpg">Jul 21 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-07-21T07:15:28.986668-07:00.jpg">July 21 at 2:15 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-25 06:37:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-24T23:37:13.569094-04:00.jpg">Jul 25 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-24T23:37:13.569094-04:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-24 16:59:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-24T09:59:33.543409-04:00.jpg">Jul 24 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-24T09:59:33.543409-04:00.jpg">July 24 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-24 09:17:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-24T02:17:33.474103-04:00.jpg">Jul 24 at 9:17 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-24T02:17:33.474103-04:00.jpg">July 24 at 9:17 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-23 18:04:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-23T11:04:39.782077-04:00.jpg">Jul 23 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-23T11:04:39.782077-04:00.jpg">July 23 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-23 06:34:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-22T23:34:20.852087-04:00.jpg">Jul 23 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-22T23:34:20.852087-04:00.jpg">July 23 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-22 18:00:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-22T10:59:59.134296-04:00.jpg">Jul 22 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-22T10:59:59.134296-04:00.jpg">July 22 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-22 06:38:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T23:38:53.349664-04:00.jpg">Jul 22 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T23:38:53.349664-04:00.jpg">July 22 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-21 18:34:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T11:34:39.243913-04:00.jpg">Jul 21 at 6:34 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-21T11:34:39.243913-04:00.jpg">July 21 at 6:34 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-21 06:37:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-20T23:37:37.797793-04:00.jpg">Jul 21 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-20T23:37:37.797793-04:00.jpg">July 21 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-20 19:11:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-20T12:11:21.602975-04:00.jpg">Jul 20 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-20T12:11:21.602975-04:00.jpg">July 20 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-20 06:34:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-19T23:34:48.477510-04:00.jpg">Jul 20 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-19T23:34:48.477510-04:00.jpg">July 20 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Daily News at 2022-07-19 18:44:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-19T11:44:53.085767-04:00.jpg">Jul 19 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-07-19T11:44:53.085767-04:00.jpg">July 19 at 6:44 PM</a></p>
 </div>
 
 </div>

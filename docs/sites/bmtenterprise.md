@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-25 13:00:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-25T06:00:35.113058-05:00.jpg">Jul 25 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-25T06:00:35.113058-05:00.jpg">July 25 at 1:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-25 02:51:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-24T19:51:21.439098-05:00.jpg">Jul 25 at 2:51 AM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-24T19:51:21.439098-05:00.jpg">July 25 at 2:51 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-24 12:58:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-24T05:58:45.204029-05:00.jpg">Jul 24 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-24T05:58:45.204029-05:00.jpg">July 24 at 12:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-24 01:02:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-23T18:02:06.109513-05:00.jpg">Jul 24 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-23T18:02:06.109513-05:00.jpg">July 24 at 1:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-23 14:58:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-23T07:58:40.012456-05:00.jpg">Jul 23 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-23T07:58:40.012456-05:00.jpg">July 23 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-22 14:58:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-22T07:58:54.273991-05:00.jpg">Jul 22 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-22T07:58:54.273991-05:00.jpg">July 22 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -88,7 +88,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-22 03:07:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-21T20:07:03.870722-05:00.jpg">Jul 22 at 3:07 AM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-21T20:07:03.870722-05:00.jpg">July 22 at 3:07 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,7 +97,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-21 14:53:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-21T07:53:14.980074-05:00.jpg">Jul 21 at 2:53 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-21T07:53:14.980074-05:00.jpg">July 21 at 2:53 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -106,7 +106,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-21 03:05:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-20T20:05:08.700253-05:00.jpg">Jul 21 at 3:05 AM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-20T20:05:08.700253-05:00.jpg">July 21 at 3:05 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -115,7 +115,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-20 14:53:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-20T07:53:32.261129-05:00.jpg">Jul 20 at 2:53 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-20T07:53:32.261129-05:00.jpg">July 20 at 2:53 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -124,7 +124,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-20 03:00:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-19T20:00:54.142555-05:00.jpg">Jul 20 at 3:00 AM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-19T20:00:54.142555-05:00.jpg">July 20 at 3:00 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -133,7 +133,7 @@ Here are the 12 most recent screenshots.
      alt="Beaumont Enterprise at 2022-07-19 14:50:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-19T07:50:04.709486-05:00.jpg">Jul 19 at 2:50 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-19T07:50:04.709486-05:00.jpg">July 19 at 2:50 PM</a></p>
 </div>
 
 </div>

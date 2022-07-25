@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-25 13:31:47+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.jpg">Jul 25 at 1:31 PM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-25T06:31:45.839931+03:00.jpg">July 25 at 1:31 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-24 23:02:58+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.jpg">Jul 24 at 11:02 PM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T16:02:57.060679+03:00.jpg">July 24 at 11:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-24 14:18:42+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.jpg">Jul 24 at 2:18 PM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-24T07:18:37.091050+03:00.jpg">July 24 at 2:18 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-24 01:01:08+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T18:01:06.682876+03:00.jpg">Jul 24 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T18:01:06.682876+03:00.jpg">July 24 at 1:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-23 13:30:31+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T06:30:25.962153+03:00.jpg">Jul 23 at 1:30 PM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-23T06:30:25.962153+03:00.jpg">July 23 at 1:30 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-23 00:56:57+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-22T17:56:51.140169+03:00.jpg">Jul 23 at 12:56 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-22T17:56:51.140169+03:00.jpg">July 23 at 12:56 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-22 13:36:47+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-22T06:36:42.273047+03:00.jpg">Jul 22 at 1:36 PM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-22T06:36:42.273047+03:00.jpg">July 22 at 1:36 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-22 01:29:02+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-21T18:28:58.119822+03:00.jpg">Jul 22 at 1:29 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-21T18:28:58.119822+03:00.jpg">July 22 at 1:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-21 13:33:58+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-21T06:33:56.935583+03:00.jpg">Jul 21 at 1:33 PM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-21T06:33:56.935583+03:00.jpg">July 21 at 1:33 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-21 02:07:17+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-20T19:07:12.349238+03:00.jpg">Jul 21 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-20T19:07:12.349238+03:00.jpg">July 21 at 2:07 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-20 13:32:43+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-20T06:32:41.668856+03:00.jpg">Jul 20 at 1:32 PM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-20T06:32:41.668856+03:00.jpg">July 20 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Meduza at 2022-07-20 01:42:29+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-19T18:42:24.417974+03:00.jpg">Jul 20 at 1:42 AM</a></p>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-07-19T18:42:24.417974+03:00.jpg">July 20 at 1:42 AM</a></p>
 </div>
 
 </div>

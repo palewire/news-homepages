@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Climate at 2022-07-25 05:36:07-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-24T22:36:06.141487-06:00.jpg">Jul 25 at 5:36 AM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-24T22:36:06.141487-06:00.jpg">July 25 at 5:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Climate at 2022-07-24 16:06:48-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-24T09:06:46.613620-06:00.jpg">Jul 24 at 4:06 PM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-24T09:06:46.613620-06:00.jpg">July 24 at 4:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Climate at 2022-07-24 04:40:58-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-23T21:40:56.740750-06:00.jpg">Jul 24 at 4:40 AM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-23T21:40:56.740750-06:00.jpg">July 24 at 4:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Climate at 2022-07-23 17:04:29-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-23T10:04:27.284221-06:00.jpg">Jul 23 at 5:04 PM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-23T10:04:27.284221-06:00.jpg">July 23 at 5:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Climate at 2022-07-23 05:24:45-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-22T22:24:39.961493-06:00.jpg">Jul 23 at 5:24 AM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-22T22:24:39.961493-06:00.jpg">July 23 at 5:24 AM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-25 07:39:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-25T00:39:48.676354-04:00.jpg">Jul 25 at 7:39 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-25T00:39:48.676354-04:00.jpg">July 25 at 7:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-25 00:20:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-24T17:20:20.352041-04:00.jpg">Jul 25 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-24T17:20:20.352041-04:00.jpg">July 25 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-24 18:13:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-24T11:13:41.553755-04:00.jpg">Jul 24 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-24T11:13:41.553755-04:00.jpg">July 24 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-24 18:09:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-24T11:09:04.107541-04:00.jpg">Jul 24 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-24T11:09:04.107541-04:00.jpg">July 24 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-24 06:44:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T23:44:18.927869-04:00.jpg">Jul 24 at 6:44 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T23:44:18.927869-04:00.jpg">July 24 at 6:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-24 00:16:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T17:16:27.947870-04:00.jpg">Jul 24 at 12:16 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T17:16:27.947870-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-23 19:08:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T12:08:13.985231-04:00.jpg">Jul 23 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T12:08:13.985231-04:00.jpg">July 23 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-23 17:59:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T10:59:30.876467-04:00.jpg">Jul 23 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T10:59:30.876467-04:00.jpg">July 23 at 5:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-23 07:27:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T00:27:53.358939-04:00.jpg">Jul 23 at 7:27 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-23T00:27:53.358939-04:00.jpg">July 23 at 7:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-23 00:09:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-22T17:09:15.043471-04:00.jpg">Jul 23 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-22T17:09:15.043471-04:00.jpg">July 23 at 12:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-22 19:20:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-22T12:20:31.033155-04:00.jpg">Jul 22 at 7:20 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-22T12:20:31.033155-04:00.jpg">July 22 at 7:20 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="USA Today at 2022-07-22 18:05:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-22T11:05:43.218745-04:00.jpg">Jul 22 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-07-22T11:05:43.218745-04:00.jpg">July 22 at 6:05 PM</a></p>
 </div>
 
 </div>

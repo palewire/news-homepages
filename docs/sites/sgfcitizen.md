@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-25 05:44:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.jpg">Jul 25 at 5:44 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T22:44:04.687440-05:00.jpg">July 25 at 5:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-24 16:04:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.jpg">Jul 24 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T09:04:14.124155-05:00.jpg">July 24 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-24 08:23:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.jpg">Jul 24 at 8:23 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-24T01:23:19.193729-05:00.jpg">July 24 at 8:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-23 18:02:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-23T11:02:22.547261-05:00.jpg">Jul 23 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-23T11:02:22.547261-05:00.jpg">July 23 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-23 06:22:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T23:22:00.079885-05:00.jpg">Jul 23 at 6:22 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T23:22:00.079885-05:00.jpg">July 23 at 6:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-22 18:14:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T11:14:26.359554-05:00.jpg">Jul 22 at 6:14 PM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-22T11:14:26.359554-05:00.jpg">July 22 at 6:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-22 06:28:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-21T23:28:26.054216-05:00.jpg">Jul 22 at 6:28 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-21T23:28:26.054216-05:00.jpg">July 22 at 6:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-21 18:51:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-21T11:51:37.247725-05:00.jpg">Jul 21 at 6:51 PM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-21T11:51:37.247725-05:00.jpg">July 21 at 6:51 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-21 06:26:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-20T23:26:38.179412-05:00.jpg">Jul 21 at 6:26 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-20T23:26:38.179412-05:00.jpg">July 21 at 6:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-20 18:42:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-20T11:42:02.125158-05:00.jpg">Jul 20 at 6:42 PM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-20T11:42:02.125158-05:00.jpg">July 20 at 6:42 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-20 06:18:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-19T23:18:30.879801-05:00.jpg">Jul 20 at 6:18 AM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-19T23:18:30.879801-05:00.jpg">July 20 at 6:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Springfield Daily Citizen at 2022-07-19 18:58:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-19T11:58:37.072348-05:00.jpg">Jul 19 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-07-19T11:58:37.072348-05:00.jpg">July 19 at 6:58 PM</a></p>
 </div>
 
 </div>

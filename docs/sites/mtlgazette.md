@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-25 06:33:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T23:32:56.214499-04:00.jpg">Jul 25 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T23:32:56.214499-04:00.jpg">July 25 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-24 16:04:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T09:04:17.524858-04:00.jpg">Jul 24 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T09:04:17.524858-04:00.jpg">July 24 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-24 07:19:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T00:19:18.988664-04:00.jpg">Jul 24 at 7:19 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-24T00:19:18.988664-04:00.jpg">July 24 at 7:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-23 18:02:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-23T11:02:16.649308-04:00.jpg">Jul 23 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-23T11:02:16.649308-04:00.jpg">July 23 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-23 06:32:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T23:32:12.463142-04:00.jpg">Jul 23 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T23:32:12.463142-04:00.jpg">July 23 at 6:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-22 17:57:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T10:57:57.309164-04:00.jpg">Jul 22 at 5:57 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-22T10:57:57.309164-04:00.jpg">July 22 at 5:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-22 06:36:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T23:36:29.762370-04:00.jpg">Jul 22 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T23:36:29.762370-04:00.jpg">July 22 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-21 18:30:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T11:30:45.469099-04:00.jpg">Jul 21 at 6:30 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-21T11:30:45.469099-04:00.jpg">July 21 at 6:30 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-21 06:34:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T23:34:44.604825-04:00.jpg">Jul 21 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T23:34:44.604825-04:00.jpg">July 21 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-20 19:08:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T12:08:36.910713-04:00.jpg">Jul 20 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-20T12:08:36.910713-04:00.jpg">July 20 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-20 06:32:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T23:32:52.969013-04:00.jpg">Jul 20 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T23:32:52.969013-04:00.jpg">July 20 at 6:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Montreal Gazette at 2022-07-19 18:43:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T11:43:03.755016-04:00.jpg">Jul 19 at 6:43 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-07-19T11:43:03.755016-04:00.jpg">July 19 at 6:43 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-25 12:57:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-25T05:57:35.392453-05:00.jpg">Jul 25 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-25T05:57:35.392453-05:00.jpg">July 25 at 12:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-25 02:47:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-24T19:47:19.003586-05:00.jpg">Jul 25 at 2:47 AM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-24T19:47:19.003586-05:00.jpg">July 25 at 2:47 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-24 12:56:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-24T05:56:19.217072-05:00.jpg">Jul 24 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-24T05:56:19.217072-05:00.jpg">July 24 at 12:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-24 00:59:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-23T17:59:03.515030-05:00.jpg">Jul 24 at 12:59 AM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-23T17:59:03.515030-05:00.jpg">July 24 at 12:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-23 14:55:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-23T07:55:50.185631-05:00.jpg">Jul 23 at 2:55 PM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-23T07:55:50.185631-05:00.jpg">July 23 at 2:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-23 02:56:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-22T19:56:05.480984-05:00.jpg">Jul 23 at 2:56 AM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-22T19:56:05.480984-05:00.jpg">July 23 at 2:56 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-22 14:56:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-22T07:56:23.984656-05:00.jpg">Jul 22 at 2:56 PM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-22T07:56:23.984656-05:00.jpg">July 22 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-22 03:03:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-21T20:03:54.084371-05:00.jpg">Jul 22 at 3:03 AM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-21T20:03:54.084371-05:00.jpg">July 22 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-21 14:50:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-21T07:50:27.620395-05:00.jpg">Jul 21 at 2:50 PM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-21T07:50:27.620395-05:00.jpg">July 21 at 2:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-21 03:03:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-20T20:03:00.356476-05:00.jpg">Jul 21 at 3:03 AM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-20T20:03:00.356476-05:00.jpg">July 21 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-20 14:51:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-20T07:51:29.647979-05:00.jpg">Jul 20 at 2:51 PM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-20T07:51:29.647979-05:00.jpg">July 20 at 2:51 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Arkansas Nonprofit News Network at 2022-07-20 02:57:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-19T19:57:41.419113-05:00.jpg">Jul 20 at 2:57 AM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-07-19T19:57:41.419113-05:00.jpg">July 20 at 2:57 AM</a></p>
 </div>
 
 </div>

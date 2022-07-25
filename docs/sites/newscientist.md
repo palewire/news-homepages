@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-25 11:35:41+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-25T04:35:39.892925+01:00.jpg">Jul 25 at 11:35 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-25T04:35:39.892925+01:00.jpg">July 25 at 11:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-24 21:05:05+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T14:05:02.828735+01:00.jpg">Jul 24 at 9:05 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T14:05:02.828735+01:00.jpg">July 24 at 9:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-24 12:20:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T05:20:38.354978+01:00.jpg">Jul 24 at 12:20 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-24T05:20:38.354978+01:00.jpg">July 24 at 12:20 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-23 23:03:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T16:03:18.636555+01:00.jpg">Jul 23 at 11:03 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T16:03:18.636555+01:00.jpg">July 23 at 11:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-23 11:33:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T04:33:13.794594+01:00.jpg">Jul 23 at 11:33 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-23T04:33:13.794594+01:00.jpg">July 23 at 11:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-22 22:59:02+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T15:58:58.972154+01:00.jpg">Jul 22 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T15:58:58.972154+01:00.jpg">July 22 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-22 11:37:37+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T04:37:34.883181+01:00.jpg">Jul 22 at 11:37 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-22T04:37:34.883181+01:00.jpg">July 22 at 11:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-21 23:32:19+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T16:32:15.160855+01:00.jpg">Jul 21 at 11:32 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T16:32:15.160855+01:00.jpg">July 21 at 11:32 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-21 11:35:54+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T04:35:51.210949+01:00.jpg">Jul 21 at 11:35 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-21T04:35:51.210949+01:00.jpg">July 21 at 11:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-21 00:10:08+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-20T17:10:06.800480+01:00.jpg">Jul 21 at 12:10 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-20T17:10:06.800480+01:00.jpg">July 21 at 12:10 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-20 11:33:45+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-20T04:33:43.633779+01:00.jpg">Jul 20 at 11:33 AM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-20T04:33:43.633779+01:00.jpg">July 20 at 11:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="New Scientist at 2022-07-19 23:43:32+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-19T16:43:29.766522+01:00.jpg">Jul 19 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-07-19T16:43:29.766522+01:00.jpg">July 19 at 11:43 PM</a></p>
 </div>
 
 </div>

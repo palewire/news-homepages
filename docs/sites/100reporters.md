@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-25 13:55:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-25T06:55:35.889244-04:00.jpg">Jul 25 at 1:55 PM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-25T06:55:35.889244-04:00.jpg">July 25 at 1:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-25 03:42:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-24T20:42:10.329862-04:00.jpg">Jul 25 at 3:42 AM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-24T20:42:10.329862-04:00.jpg">July 25 at 3:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-24 13:55:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-24T06:55:11.568072-04:00.jpg">Jul 24 at 1:55 PM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-24T06:55:11.568072-04:00.jpg">July 24 at 1:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-24 01:57:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-23T18:57:57.075410-04:00.jpg">Jul 24 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-23T18:57:57.075410-04:00.jpg">July 24 at 1:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-23 15:54:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-23T08:54:17.398635-04:00.jpg">Jul 23 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-23T08:54:17.398635-04:00.jpg">July 23 at 3:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-23 03:54:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-22T20:54:46.391782-04:00.jpg">Jul 23 at 3:54 AM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-22T20:54:46.391782-04:00.jpg">July 23 at 3:54 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-22 15:54:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-22T08:54:41.185346-04:00.jpg">Jul 22 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-22T08:54:41.185346-04:00.jpg">July 22 at 3:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-22 04:02:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-21T21:02:47.853938-04:00.jpg">Jul 22 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-21T21:02:47.853938-04:00.jpg">July 22 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-21 15:49:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-21T08:49:44.542341-04:00.jpg">Jul 21 at 3:49 PM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-21T08:49:44.542341-04:00.jpg">July 21 at 3:49 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-21 04:01:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-20T21:01:27.302401-04:00.jpg">Jul 21 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-20T21:01:27.302401-04:00.jpg">July 21 at 4:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-20 15:50:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-20T08:50:23.776299-04:00.jpg">Jul 20 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-20T08:50:23.776299-04:00.jpg">July 20 at 3:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="100Reporters at 2022-07-20 03:56:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-19T20:56:49.893738-04:00.jpg">Jul 20 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-07-19T20:56:49.893738-04:00.jpg">July 20 at 3:56 AM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-25 05:25:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.jpg">Jul 25 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-24T22:25:53.577372-05:00.jpg">July 25 at 5:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-24 14:59:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.jpg">Jul 24 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-24T07:58:59.850307-05:00.jpg">July 24 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-24 06:14:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.jpg">Jul 24 at 6:14 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-23T23:14:56.947085-05:00.jpg">July 24 at 6:14 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-23 16:05:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-23T09:05:03.723447-05:00.jpg">Jul 23 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-23T09:05:03.723447-05:00.jpg">July 23 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-23 04:30:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-22T21:30:30.234951-05:00.jpg">Jul 23 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-22T21:30:30.234951-05:00.jpg">July 23 at 4:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-22 16:05:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-22T09:05:11.711812-05:00.jpg">Jul 22 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-22T09:05:11.711812-05:00.jpg">July 22 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-22 04:24:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-21T21:24:25.279810-05:00.jpg">Jul 22 at 4:24 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-21T21:24:25.279810-05:00.jpg">July 22 at 4:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-21 16:15:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-21T09:15:16.470883-05:00.jpg">Jul 21 at 4:15 PM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-21T09:15:16.470883-05:00.jpg">July 21 at 4:15 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-21 04:27:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-20T21:27:16.200855-05:00.jpg">Jul 21 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-20T21:27:16.200855-05:00.jpg">July 21 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-20 16:28:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-20T09:27:59.232927-05:00.jpg">Jul 20 at 4:28 PM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-20T09:27:59.232927-05:00.jpg">July 20 at 4:28 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-20 04:20:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-19T21:20:41.919637-05:00.jpg">Jul 20 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-19T21:20:41.919637-05:00.jpg">July 20 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="KCUR at 2022-07-19 16:18:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-19T09:17:59.954228-05:00.jpg">Jul 19 at 4:18 PM</a></p>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-07-19T09:17:59.954228-05:00.jpg">July 19 at 4:18 PM</a></p>
 </div>
 
 </div>

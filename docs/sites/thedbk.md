@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-25 07:36:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-25T00:36:09.034212-04:00.jpg">Jul 25 at 7:36 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-25T00:36:09.034212-04:00.jpg">July 25 at 7:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-24 18:06:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-24T11:06:20.108082-04:00.jpg">Jul 24 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-24T11:06:20.108082-04:00.jpg">July 24 at 6:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-24 06:41:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-23T23:41:17.118864-04:00.jpg">Jul 24 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-23T23:41:17.118864-04:00.jpg">July 24 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-23 19:04:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-23T12:04:26.650212-04:00.jpg">Jul 23 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-23T12:04:26.650212-04:00.jpg">July 23 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-23 07:24:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-23T00:24:12.705854-04:00.jpg">Jul 23 at 7:24 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-23T00:24:12.705854-04:00.jpg">July 23 at 7:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-22 19:17:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-22T12:17:31.948141-04:00.jpg">Jul 22 at 7:17 PM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-22T12:17:31.948141-04:00.jpg">July 22 at 7:17 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-22 07:31:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-22T00:31:16.821768-04:00.jpg">Jul 22 at 7:31 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-22T00:31:16.821768-04:00.jpg">July 22 at 7:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-21 19:54:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-21T12:54:26.390808-04:00.jpg">Jul 21 at 7:54 PM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-21T12:54:26.390808-04:00.jpg">July 21 at 7:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-21 07:29:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-21T00:28:59.587096-04:00.jpg">Jul 21 at 7:29 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-21T00:28:59.587096-04:00.jpg">July 21 at 7:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-20 19:45:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-20T12:45:02.733327-04:00.jpg">Jul 20 at 7:45 PM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-20T12:45:02.733327-04:00.jpg">July 20 at 7:45 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-20 07:33:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-20T00:33:28.248375-04:00.jpg">Jul 20 at 7:33 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-20T00:33:28.248375-04:00.jpg">July 20 at 7:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="The Diamondback at 2022-07-20 07:20:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-20T00:20:48.301307-04:00.jpg">Jul 20 at 7:20 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-20T00:20:48.301307-04:00.jpg">July 20 at 7:20 AM</a></p>
 </div>
 
 </div>

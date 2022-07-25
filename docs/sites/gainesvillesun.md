@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Gainesville Sun at 2022-07-25 15:03:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-25T08:03:22.659445-04:00.jpg">Jul 25 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-25T08:03:22.659445-04:00.jpg">July 25 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Gainesville Sun at 2022-07-25 04:07:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-24T21:07:40.499099-04:00.jpg">Jul 25 at 4:07 AM</a></p>
+ <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-24T21:07:40.499099-04:00.jpg">July 25 at 4:07 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Gainesville Sun at 2022-07-24 15:00:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-24T08:00:03.569499-04:00.jpg">Jul 24 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-24T08:00:03.569499-04:00.jpg">July 24 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="Gainesville Sun at 2022-07-24 09:31:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-24T02:31:01.356198-04:00.jpg">Jul 24 at 9:31 AM</a></p>
+ <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-24T02:31:01.356198-04:00.jpg">July 24 at 9:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="Gainesville Sun at 2022-07-23 17:00:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-23T10:00:49.304485-04:00.jpg">Jul 23 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-23T10:00:49.304485-04:00.jpg">July 23 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="Gainesville Sun at 2022-07-23 05:26:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-22T22:26:40.120761-04:00.jpg">Jul 23 at 5:26 AM</a></p>
+ <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-22T22:26:40.120761-04:00.jpg">July 23 at 5:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -88,7 +88,7 @@ Here are the 12 most recent screenshots.
      alt="Gainesville Sun at 2022-07-22 17:01:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-22T10:01:44.955213-04:00.jpg">Jul 22 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-22T10:01:44.955213-04:00.jpg">July 22 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,7 +97,7 @@ Here are the 12 most recent screenshots.
      alt="Gainesville Sun at 2022-07-22 05:21:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-21T22:21:15.323172-04:00.jpg">Jul 22 at 5:21 AM</a></p>
+ <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-21T22:21:15.323172-04:00.jpg">July 22 at 5:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -106,7 +106,7 @@ Here are the 12 most recent screenshots.
      alt="Gainesville Sun at 2022-07-21 17:07:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-21T10:07:56.869533-04:00.jpg">Jul 21 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-21T10:07:56.869533-04:00.jpg">July 21 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -115,7 +115,7 @@ Here are the 12 most recent screenshots.
      alt="Gainesville Sun at 2022-07-21 05:23:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-20T22:23:35.497888-04:00.jpg">Jul 21 at 5:23 AM</a></p>
+ <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-07-20T22:23:35.497888-04:00.jpg">July 21 at 5:23 AM</a></p>
 </div>
 
 </div>

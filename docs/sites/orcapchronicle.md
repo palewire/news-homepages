@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-25 03:38:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-24T20:38:44.372828-07:00.jpg">Jul 25 at 3:38 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-24T20:38:44.372828-07:00.jpg">July 25 at 3:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-24 13:59:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-24T06:59:42.725192-07:00.jpg">Jul 24 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-24T06:59:42.725192-07:00.jpg">July 24 at 1:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-24 06:18:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-23T23:18:05.123332-07:00.jpg">Jul 24 at 6:18 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-23T23:18:05.123332-07:00.jpg">July 24 at 6:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-23 15:05:56-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-23T08:05:54.636106-07:00.jpg">Jul 23 at 3:05 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-23T08:05:54.636106-07:00.jpg">July 23 at 3:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-23 03:35:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-22T20:35:31.345516-07:00.jpg">Jul 23 at 3:35 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-22T20:35:31.345516-07:00.jpg">July 23 at 3:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-22 15:01:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-22T08:01:30.311999-07:00.jpg">Jul 22 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-22T08:01:30.311999-07:00.jpg">July 22 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-22 03:39:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-21T20:39:44.638320-07:00.jpg">Jul 22 at 3:39 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-21T20:39:44.638320-07:00.jpg">July 22 at 3:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-21 15:36:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-21T08:36:04.386278-07:00.jpg">Jul 21 at 3:36 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-21T08:36:04.386278-07:00.jpg">July 21 at 3:36 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-21 03:38:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-20T20:38:18.869748-07:00.jpg">Jul 21 at 3:38 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-20T20:38:18.869748-07:00.jpg">July 21 at 3:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-20 16:12:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-20T09:12:30.885095-07:00.jpg">Jul 20 at 4:12 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-20T09:12:30.885095-07:00.jpg">July 20 at 4:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-20 03:35:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-19T20:35:44.719558-07:00.jpg">Jul 20 at 3:35 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-19T20:35:44.719558-07:00.jpg">July 20 at 3:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Oregon Capital Chronicle at 2022-07-19 15:46:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-19T08:46:12.729295-07:00.jpg">Jul 19 at 3:46 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-07-19T08:46:12.729295-07:00.jpg">July 19 at 3:46 PM</a></p>
 </div>
 
 </div>

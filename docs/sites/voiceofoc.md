@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-25 04:40:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T21:40:32.588736-07:00.jpg">Jul 25 at 4:40 AM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T21:40:32.588736-07:00.jpg">July 25 at 4:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-24 18:22:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T11:22:30.095297-07:00.jpg">Jul 24 at 6:22 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T11:22:30.095297-07:00.jpg">July 24 at 6:22 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-24 15:10:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T08:10:10.716392-07:00.jpg">Jul 24 at 3:10 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-24T08:10:10.716392-07:00.jpg">July 24 at 3:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-24 03:45:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T20:45:38.840055-07:00.jpg">Jul 24 at 3:45 AM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T20:45:38.840055-07:00.jpg">July 24 at 3:45 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-23 18:24:56-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T11:24:55.348898-07:00.jpg">Jul 23 at 6:24 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T11:24:55.348898-07:00.jpg">July 23 at 6:24 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-23 16:08:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T09:08:44.869608-07:00.jpg">Jul 23 at 4:08 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-23T09:08:44.869608-07:00.jpg">July 23 at 4:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-23 04:28:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-22T21:28:05.180163-07:00.jpg">Jul 23 at 4:28 AM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-22T21:28:05.180163-07:00.jpg">July 23 at 4:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-22 18:09:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-22T11:09:22.009459-07:00.jpg">Jul 22 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-22T11:09:22.009459-07:00.jpg">July 22 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-22 16:21:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-22T09:21:51.548826-07:00.jpg">Jul 22 at 4:21 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-22T09:21:51.548826-07:00.jpg">July 22 at 4:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-22 04:35:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-21T21:35:13.076631-07:00.jpg">Jul 22 at 4:35 AM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-21T21:35:13.076631-07:00.jpg">July 22 at 4:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-21 18:10:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-21T11:09:57.933953-07:00.jpg">Jul 21 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-21T11:09:57.933953-07:00.jpg">July 21 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Voice of OC at 2022-07-21 16:58:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-21T09:58:22.747374-07:00.jpg">Jul 21 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-07-21T09:58:22.747374-07:00.jpg">July 21 at 4:58 PM</a></p>
 </div>
 
 </div>

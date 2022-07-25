@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-25 12:59:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-25T05:59:42.029615-05:00.jpg">Jul 25 at 12:59 PM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-25T05:59:42.029615-05:00.jpg">July 25 at 12:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-25 02:50:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-24T19:50:46.671732-05:00.jpg">Jul 25 at 2:50 AM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-24T19:50:46.671732-05:00.jpg">July 25 at 2:50 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-24 17:45:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-24T10:45:17.879362-05:00.jpg">Jul 24 at 5:45 PM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-24T10:45:17.879362-05:00.jpg">July 24 at 5:45 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-24 12:59:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-24T05:59:01.322248-05:00.jpg">Jul 24 at 12:59 PM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-24T05:59:01.322248-05:00.jpg">July 24 at 12:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-24 01:00:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-23T18:00:50.536106-05:00.jpg">Jul 24 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-23T18:00:50.536106-05:00.jpg">July 24 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-23 14:58:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-23T07:58:16.959428-05:00.jpg">Jul 23 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-23T07:58:16.959428-05:00.jpg">July 23 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-23 02:58:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-22T19:58:50.376009-05:00.jpg">Jul 23 at 2:58 AM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-22T19:58:50.376009-05:00.jpg">July 23 at 2:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-22 18:23:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-22T11:23:17.294438-05:00.jpg">Jul 22 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-22T11:23:17.294438-05:00.jpg">July 22 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-22 14:57:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-22T07:57:21.749361-05:00.jpg">Jul 22 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-22T07:57:21.749361-05:00.jpg">July 22 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-22 03:06:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-21T20:06:01.591350-05:00.jpg">Jul 22 at 3:06 AM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-21T20:06:01.591350-05:00.jpg">July 22 at 3:06 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-21 18:49:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-21T11:49:09.623731-05:00.jpg">Jul 21 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-21T11:49:09.623731-05:00.jpg">July 21 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Better Government Association at 2022-07-21 14:52:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-21T07:52:44.626637-05:00.jpg">Jul 21 at 2:52 PM</a></p>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-07-21T07:52:44.626637-05:00.jpg">July 21 at 2:52 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-25 06:41:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T23:40:55.727327-05:00.jpg">Jul 25 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T23:40:55.727327-05:00.jpg">July 25 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-24 17:11:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T10:11:48.972260-05:00.jpg">Jul 24 at 5:11 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-24T10:11:48.972260-05:00.jpg">July 24 at 5:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-24 05:47:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T22:46:56.412008-05:00.jpg">Jul 24 at 5:47 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T22:46:56.412008-05:00.jpg">July 24 at 5:47 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-23 18:09:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T11:09:00.643086-05:00.jpg">Jul 23 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-23T11:09:00.643086-05:00.jpg">July 23 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-23 06:28:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T23:28:29.992503-05:00.jpg">Jul 23 at 6:28 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T23:28:29.992503-05:00.jpg">July 23 at 6:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-22 18:21:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T11:21:31.211906-05:00.jpg">Jul 22 at 6:21 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-22T11:21:31.211906-05:00.jpg">July 22 at 6:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-22 06:35:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T23:35:42.733861-05:00.jpg">Jul 22 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T23:35:42.733861-05:00.jpg">July 22 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-21 18:59:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T11:59:35.927946-05:00.jpg">Jul 21 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-21T11:59:35.927946-05:00.jpg">July 21 at 6:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-21 06:33:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T23:33:08.792112-05:00.jpg">Jul 21 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T23:33:08.792112-05:00.jpg">July 21 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-20 18:50:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T11:50:12.324913-05:00.jpg">Jul 20 at 6:50 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-20T11:50:12.324913-05:00.jpg">July 20 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-20 06:25:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-19T23:25:15.101613-05:00.jpg">Jul 20 at 6:25 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-19T23:25:15.101613-05:00.jpg">July 20 at 6:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Wausau Daily Herald at 2022-07-19 19:04:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-19T12:04:40.839807-05:00.jpg">Jul 19 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-07-19T12:04:40.839807-05:00.jpg">July 19 at 7:04 PM</a></p>
 </div>
 
 </div>

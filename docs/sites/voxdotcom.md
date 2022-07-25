@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-25 07:41:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-25T00:41:03.942359-04:00.jpg">Jul 25 at 7:41 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-25T00:41:03.942359-04:00.jpg">July 25 at 7:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-24 18:10:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-24T11:10:08.607616-04:00.jpg">Jul 24 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-24T11:10:08.607616-04:00.jpg">July 24 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-24 06:45:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-23T23:45:48.746097-04:00.jpg">Jul 24 at 6:45 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-23T23:45:48.746097-04:00.jpg">July 24 at 6:45 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-23 21:14:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-23T14:13:58.880905-04:00.jpg">Jul 23 at 9:14 PM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-23T14:13:58.880905-04:00.jpg">July 23 at 9:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-23 19:08:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-23T12:08:42.219372-04:00.jpg">Jul 23 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-23T12:08:42.219372-04:00.jpg">July 23 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-23 07:28:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-23T00:28:17.945067-04:00.jpg">Jul 23 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-23T00:28:17.945067-04:00.jpg">July 23 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-22 19:21:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-22T12:21:26.491538-04:00.jpg">Jul 22 at 7:21 PM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-22T12:21:26.491538-04:00.jpg">July 22 at 7:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-22 19:13:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-22T12:13:00.750031-04:00.jpg">Jul 22 at 7:13 PM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-22T12:13:00.750031-04:00.jpg">July 22 at 7:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-22 07:35:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-22T00:35:32.850538-04:00.jpg">Jul 22 at 7:35 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-22T00:35:32.850538-04:00.jpg">July 22 at 7:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-21 19:58:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-21T12:58:47.600205-04:00.jpg">Jul 21 at 7:58 PM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-21T12:58:47.600205-04:00.jpg">July 21 at 7:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-21 19:50:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-21T12:50:46.910188-04:00.jpg">Jul 21 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-21T12:50:46.910188-04:00.jpg">July 21 at 7:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Vox at 2022-07-21 07:32:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-21T00:32:27.561017-04:00.jpg">Jul 21 at 7:32 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-07-21T00:32:27.561017-04:00.jpg">July 21 at 7:32 AM</a></p>
 </div>
 
 </div>

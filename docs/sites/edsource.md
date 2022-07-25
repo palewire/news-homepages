@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-25 12:00:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-25T05:00:10.675880-07:00.jpg">Jul 25 at 12:00 PM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-25T05:00:10.675880-07:00.jpg">July 25 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-25 01:02:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-24T18:02:54.297128-07:00.jpg">Jul 25 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-24T18:02:54.297128-07:00.jpg">July 25 at 1:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-24 11:57:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-24T04:57:41.703606-07:00.jpg">Jul 24 at 11:57 AM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-24T04:57:41.703606-07:00.jpg">July 24 at 11:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-24 06:27:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-23T23:27:14.979717-07:00.jpg">Jul 24 at 6:27 AM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-23T23:27:14.979717-07:00.jpg">July 24 at 6:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-23 13:58:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-23T06:58:10.176707-07:00.jpg">Jul 23 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-23T06:58:10.176707-07:00.jpg">July 23 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-23 02:24:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-22T19:24:29.987621-07:00.jpg">Jul 23 at 2:24 AM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-22T19:24:29.987621-07:00.jpg">July 23 at 2:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-22 13:59:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-22T06:59:00.866205-07:00.jpg">Jul 22 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-22T06:59:00.866205-07:00.jpg">July 22 at 1:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-22 02:18:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-21T19:18:17.200822-07:00.jpg">Jul 22 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-21T19:18:17.200822-07:00.jpg">July 22 at 2:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-21 14:04:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-21T07:04:04.828541-07:00.jpg">Jul 21 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-21T07:04:04.828541-07:00.jpg">July 21 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-21 02:21:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-20T19:21:39.820201-07:00.jpg">Jul 21 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-20T19:21:39.820201-07:00.jpg">July 21 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-20 14:23:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-20T07:23:18.894228-07:00.jpg">Jul 20 at 2:23 PM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-20T07:23:18.894228-07:00.jpg">July 20 at 2:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="EdSource at 2022-07-20 02:15:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-19T19:15:16.012153-07:00.jpg">Jul 20 at 2:15 AM</a></p>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-07-19T19:15:16.012153-07:00.jpg">July 20 at 2:15 AM</a></p>
 </div>
 
 </div>

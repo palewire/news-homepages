@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-25 12:56:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.jpg">Jul 25 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-25T05:56:10.701825-05:00.jpg">July 25 at 12:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-25 02:45:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.jpg">Jul 25 at 2:45 AM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T19:44:59.768555-05:00.jpg">July 25 at 2:45 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-24 17:45:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T10:45:26.623372-05:00.jpg">Jul 24 at 5:45 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T10:45:26.623372-05:00.jpg">July 24 at 5:45 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-24 12:55:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T05:54:54.300547-05:00.jpg">Jul 24 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-24T05:54:54.300547-05:00.jpg">July 24 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-24 00:57:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-23T17:57:39.090501-05:00.jpg">Jul 24 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-23T17:57:39.090501-05:00.jpg">July 24 at 12:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-23 14:54:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-23T07:54:20.909705-05:00.jpg">Jul 23 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-23T07:54:20.909705-05:00.jpg">July 23 at 2:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-23 02:55:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T19:55:20.515890-05:00.jpg">Jul 23 at 2:55 AM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T19:55:20.515890-05:00.jpg">July 23 at 2:55 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-22 18:23:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T11:23:31.773820-05:00.jpg">Jul 22 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T11:23:31.773820-05:00.jpg">July 22 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-22 14:54:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T07:54:32.296712-05:00.jpg">Jul 22 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-22T07:54:32.296712-05:00.jpg">July 22 at 2:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-22 03:02:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-21T20:02:20.510623-05:00.jpg">Jul 22 at 3:02 AM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-21T20:02:20.510623-05:00.jpg">July 22 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-21 18:48:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-21T11:48:11.435024-05:00.jpg">Jul 21 at 6:48 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-21T11:48:11.435024-05:00.jpg">July 21 at 6:48 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="14 East at 2022-07-21 14:49:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-21T07:49:39.737442-05:00.jpg">Jul 21 at 2:49 PM</a></p>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-07-21T07:49:39.737442-05:00.jpg">July 21 at 2:49 PM</a></p>
 </div>
 
 </div>

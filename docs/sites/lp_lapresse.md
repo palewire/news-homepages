@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-25 06:31:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.jpg">Jul 25 at 6:31 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T23:31:22.176762-04:00.jpg">July 25 at 6:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-24 16:02:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T09:02:46.947836-04:00.jpg">Jul 24 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T09:02:46.947836-04:00.jpg">July 24 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-24 07:17:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.jpg">Jul 24 at 7:17 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-24T00:17:55.175380-04:00.jpg">July 24 at 7:17 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-23 18:00:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.jpg">Jul 23 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-23T11:00:16.899606-04:00.jpg">July 23 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-23 06:30:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.jpg">Jul 23 at 6:30 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T23:30:37.420138-04:00.jpg">July 23 at 6:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-22 17:56:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T10:56:52.706452-04:00.jpg">Jul 22 at 5:56 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-22T10:56:52.706452-04:00.jpg">July 22 at 5:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-22 06:34:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T23:34:36.031256-04:00.jpg">Jul 22 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T23:34:36.031256-04:00.jpg">July 22 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-21 18:28:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T11:28:55.272228-04:00.jpg">Jul 21 at 6:28 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-21T11:28:55.272228-04:00.jpg">July 21 at 6:28 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-21 06:33:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-20T23:33:20.023270-04:00.jpg">Jul 21 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-20T23:33:20.023270-04:00.jpg">July 21 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-20 19:07:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-20T12:07:29.278666-04:00.jpg">Jul 20 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-20T12:07:29.278666-04:00.jpg">July 20 at 7:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-20 06:31:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-19T23:31:40.239204-04:00.jpg">Jul 20 at 6:31 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-19T23:31:40.239204-04:00.jpg">July 20 at 6:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="La Presse at 2022-07-19 18:40:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-19T11:40:39.319891-04:00.jpg">Jul 19 at 6:40 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-07-19T11:40:39.319891-04:00.jpg">July 19 at 6:40 PM</a></p>
 </div>
 
 </div>

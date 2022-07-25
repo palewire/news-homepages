@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-25 05:35:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T22:35:57.825947-05:00.jpg">Jul 25 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T22:35:57.825947-05:00.jpg">July 25 at 5:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-24 15:05:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T08:05:36.129307-05:00.jpg">Jul 24 at 3:05 PM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-24T08:05:36.129307-05:00.jpg">July 24 at 3:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-24 06:20:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T23:20:40.778358-05:00.jpg">Jul 24 at 6:20 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T23:20:40.778358-05:00.jpg">July 24 at 6:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-23 17:03:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T10:03:47.390155-05:00.jpg">Jul 23 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-23T10:03:47.390155-05:00.jpg">July 23 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-23 05:33:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T22:33:42.269527-05:00.jpg">Jul 23 at 5:33 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T22:33:42.269527-05:00.jpg">July 23 at 5:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-22 16:59:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T09:59:00.675997-05:00.jpg">Jul 22 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-22T09:59:00.675997-05:00.jpg">July 22 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-22 05:37:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T22:37:53.183720-05:00.jpg">Jul 22 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T22:37:53.183720-05:00.jpg">July 22 at 5:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-21 17:33:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T10:33:23.385582-05:00.jpg">Jul 21 at 5:33 PM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-21T10:33:23.385582-05:00.jpg">July 21 at 5:33 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-21 05:36:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-20T22:36:16.319310-05:00.jpg">Jul 21 at 5:36 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-20T22:36:16.319310-05:00.jpg">July 21 at 5:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-20 18:10:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-20T11:10:10.160242-05:00.jpg">Jul 20 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-20T11:10:10.160242-05:00.jpg">July 20 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-20 05:34:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-19T22:34:00.661330-05:00.jpg">Jul 20 at 5:34 AM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-19T22:34:00.661330-05:00.jpg">July 20 at 5:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Jefferson City News Tribune at 2022-07-19 17:44:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-19T10:44:26.161779-05:00.jpg">Jul 19 at 5:44 PM</a></p>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-07-19T10:44:26.161779-05:00.jpg">July 19 at 5:44 PM</a></p>
 </div>
 
 </div>

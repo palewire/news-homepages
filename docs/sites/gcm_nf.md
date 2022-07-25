@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-25 14:04:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-25T07:04:16.886247-05:00.jpg">Jul 25 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-25T07:04:16.886247-05:00.jpg">July 25 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-25 03:07:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-24T20:07:47.625390-05:00.jpg">Jul 25 at 3:07 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-24T20:07:47.625390-05:00.jpg">July 25 at 3:07 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-24 17:45:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-24T10:45:49.083922-05:00.jpg">Jul 24 at 5:45 PM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-24T10:45:49.083922-05:00.jpg">July 24 at 5:45 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-24 14:01:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-24T07:01:35.794361-05:00.jpg">Jul 24 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-24T07:01:35.794361-05:00.jpg">July 24 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-24 08:31:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-24T01:31:01.103016-05:00.jpg">Jul 24 at 8:31 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-24T01:31:01.103016-05:00.jpg">July 24 at 8:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-23 16:00:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-23T09:00:22.201574-05:00.jpg">Jul 23 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-23T09:00:22.201574-05:00.jpg">July 23 at 4:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-23 04:27:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-22T21:26:58.661092-05:00.jpg">Jul 23 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-22T21:26:58.661092-05:00.jpg">July 23 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-22 18:23:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-22T11:23:52.875271-05:00.jpg">Jul 22 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-22T11:23:52.875271-05:00.jpg">July 22 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-22 16:01:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-22T09:01:47.184509-05:00.jpg">Jul 22 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-22T09:01:47.184509-05:00.jpg">July 22 at 4:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-22 04:21:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T21:21:05.365717-05:00.jpg">Jul 22 at 4:21 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T21:21:05.365717-05:00.jpg">July 22 at 4:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-21 18:49:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T11:49:10.618140-05:00.jpg">Jul 21 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T11:49:10.618140-05:00.jpg">July 21 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Austin Weekly News at 2022-07-21 16:08:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T09:08:27.769207-05:00.jpg">Jul 21 at 4:08 PM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-07-21T09:08:27.769207-05:00.jpg">July 21 at 4:08 PM</a></p>
 </div>
 
 </div>

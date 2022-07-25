@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-25 15:00:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.jpg">Jul 25 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-25T08:00:21.853427-04:00.jpg">July 25 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-25 04:00:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.jpg">Jul 25 at 4:00 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T21:00:19.372491-04:00.jpg">July 25 at 4:00 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-24 14:57:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.jpg">Jul 24 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T07:57:20.451446-04:00.jpg">July 24 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-24 09:27:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.jpg">Jul 24 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-24T02:27:29.111911-04:00.jpg">July 24 at 9:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-23 16:03:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-23T09:03:50.839951-04:00.jpg">Jul 23 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-23T09:03:50.839951-04:00.jpg">July 23 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-23 04:04:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T21:04:11.476680-04:00.jpg">Jul 23 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T21:04:11.476680-04:00.jpg">July 23 at 4:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-22 16:03:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T09:03:49.717131-04:00.jpg">Jul 22 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-22T09:03:49.717131-04:00.jpg">July 22 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-22 04:12:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T21:12:10.307347-04:00.jpg">Jul 22 at 4:12 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T21:12:10.307347-04:00.jpg">July 22 at 4:12 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-21 15:57:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T08:57:38.991863-04:00.jpg">Jul 21 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-21T08:57:38.991863-04:00.jpg">July 21 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-21 04:10:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T21:10:28.158152-04:00.jpg">Jul 21 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T21:10:28.158152-04:00.jpg">July 21 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-20 15:57:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T08:57:24.854281-04:00.jpg">Jul 20 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-20T08:57:24.854281-04:00.jpg">July 20 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Delaware Public Media at 2022-07-20 04:05:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-19T21:05:18.244513-04:00.jpg">Jul 20 at 4:05 AM</a></p>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-07-19T21:05:18.244513-04:00.jpg">July 20 at 4:05 AM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-25 14:05:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.jpg">Jul 25 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-25T07:05:27.362379-05:00.jpg">July 25 at 2:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-25 03:11:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T20:11:34.224176-05:00.jpg">Jul 25 at 3:11 AM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T20:11:34.224176-05:00.jpg">July 25 at 3:11 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-24 14:02:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.jpg">Jul 24 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T07:02:51.643683-05:00.jpg">July 24 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-24 08:32:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.jpg">Jul 24 at 8:32 AM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-24T01:32:48.737873-05:00.jpg">July 24 at 8:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-23 16:01:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-23T09:01:51.037399-05:00.jpg">Jul 23 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-23T09:01:51.037399-05:00.jpg">July 23 at 4:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-22 16:03:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-22T09:03:24.684705-05:00.jpg">Jul 22 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-22T09:03:24.684705-05:00.jpg">July 22 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-21 16:11:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-21T09:11:18.799404-05:00.jpg">Jul 21 at 4:11 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-21T09:11:18.799404-05:00.jpg">July 21 at 4:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-21 04:25:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-20T21:25:10.583881-05:00.jpg">Jul 21 at 4:25 AM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-20T21:25:10.583881-05:00.jpg">July 21 at 4:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-20 16:25:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-20T09:25:37.202871-05:00.jpg">Jul 20 at 4:25 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-20T09:25:37.202871-05:00.jpg">July 20 at 4:25 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-20 04:18:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-19T21:18:45.629084-05:00.jpg">Jul 20 at 4:18 AM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-19T21:18:45.629084-05:00.jpg">July 20 at 4:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-19 04:25:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-18T21:25:37.625149-05:00.jpg">Jul 19 at 4:25 AM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-18T21:25:37.625149-05:00.jpg">July 19 at 4:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Houston Chronicle at 2022-07-18 19:49:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-18T12:49:08.231461-05:00.jpg">Jul 18 at 7:49 PM</a></p>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-07-18T12:49:08.231461-05:00.jpg">July 18 at 7:49 PM</a></p>
 </div>
 
 </div>

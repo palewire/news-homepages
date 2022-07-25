@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-25 06:43:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T23:43:57.086923-04:00.jpg">Jul 25 at 6:43 AM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T23:43:57.086923-04:00.jpg">July 25 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-24 18:43:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T11:43:16.019586-04:00.jpg">Jul 24 at 6:43 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T11:43:16.019586-04:00.jpg">July 24 at 6:43 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-24 17:03:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T10:03:56.167997-04:00.jpg">Jul 24 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T10:03:56.167997-04:00.jpg">July 24 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-24 09:23:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T02:23:22.372756-04:00.jpg">Jul 24 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-24T02:23:22.372756-04:00.jpg">July 24 at 9:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-23 21:13:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T14:13:53.388927-04:00.jpg">Jul 23 at 9:13 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T14:13:53.388927-04:00.jpg">July 23 at 9:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-23 19:02:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T12:02:04.464165-04:00.jpg">Jul 23 at 7:02 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T12:02:04.464165-04:00.jpg">July 23 at 7:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-23 07:21:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T00:21:49.683818-04:00.jpg">Jul 23 at 7:21 AM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-23T00:21:49.683818-04:00.jpg">July 23 at 7:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-22 19:14:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-22T12:14:31.045648-04:00.jpg">Jul 22 at 7:14 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-22T12:14:31.045648-04:00.jpg">July 22 at 7:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-22 19:12:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-22T12:11:58.726232-04:00.jpg">Jul 22 at 7:12 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-22T12:11:58.726232-04:00.jpg">July 22 at 7:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-22 07:28:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-22T00:28:13.112688-04:00.jpg">Jul 22 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-22T00:28:13.112688-04:00.jpg">July 22 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-21 19:51:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-21T12:51:51.485535-04:00.jpg">Jul 21 at 7:51 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-21T12:51:51.485535-04:00.jpg">July 21 at 7:51 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Slate at 2022-07-21 19:50:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-07-21T12:49:59.187214-04:00.jpg">Jul 21 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-07-21T12:49:59.187214-04:00.jpg">July 21 at 7:50 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-25 07:41:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T00:41:25.734502-04:00.jpg">Jul 25 at 7:41 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-25T00:41:25.734502-04:00.jpg">July 25 at 7:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-24 18:10:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-24T11:10:40.113074-04:00.jpg">Jul 24 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-24T11:10:40.113074-04:00.jpg">July 24 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-24 06:46:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T23:46:04.652403-04:00.jpg">Jul 24 at 6:46 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T23:46:04.652403-04:00.jpg">July 24 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-23 19:08:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T12:08:41.943173-04:00.jpg">Jul 23 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T12:08:41.943173-04:00.jpg">July 23 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-23 07:28:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T00:28:11.225778-04:00.jpg">Jul 23 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-23T00:28:11.225778-04:00.jpg">July 23 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-22 19:22:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T12:22:25.710555-04:00.jpg">Jul 22 at 7:22 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T12:22:25.710555-04:00.jpg">July 22 at 7:22 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-22 07:35:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T00:35:39.795241-04:00.jpg">Jul 22 at 7:35 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-22T00:35:39.795241-04:00.jpg">July 22 at 7:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-21 19:58:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T12:58:51.519172-04:00.jpg">Jul 21 at 7:58 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T12:58:51.519172-04:00.jpg">July 21 at 7:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-21 07:32:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T00:32:17.144048-04:00.jpg">Jul 21 at 7:32 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-21T00:32:17.144048-04:00.jpg">July 21 at 7:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-20 19:50:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T12:50:26.225680-04:00.jpg">Jul 20 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T12:50:26.225680-04:00.jpg">July 20 at 7:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-20 07:24:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T00:24:45.565433-04:00.jpg">Jul 20 at 7:24 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-20T00:24:45.565433-04:00.jpg">July 20 at 7:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="VT Digger at 2022-07-19 20:04:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-19T13:04:48.679141-04:00.jpg">Jul 19 at 8:04 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-07-19T13:04:48.679141-04:00.jpg">July 19 at 8:04 PM</a></p>
 </div>
 
 </div>

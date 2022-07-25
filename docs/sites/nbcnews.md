@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-25 06:35:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T23:34:58.420239-04:00.jpg">Jul 25 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T23:34:58.420239-04:00.jpg">July 25 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-25 00:20:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T17:20:32.604867-04:00.jpg">Jul 25 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T17:20:32.604867-04:00.jpg">July 25 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-24 18:13:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T11:13:10.392181-04:00.jpg">Jul 24 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T11:13:10.392181-04:00.jpg">July 24 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-24 16:04:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T09:04:42.100381-04:00.jpg">Jul 24 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T09:04:42.100381-04:00.jpg">July 24 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-24 07:20:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T00:20:04.112160-04:00.jpg">Jul 24 at 7:20 AM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-24T00:20:04.112160-04:00.jpg">July 24 at 7:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-24 00:16:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-23T17:16:34.353458-04:00.jpg">Jul 24 at 12:16 AM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-23T17:16:34.353458-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-23 18:03:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-23T11:03:27.889680-04:00.jpg">Jul 23 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-23T11:03:27.889680-04:00.jpg">July 23 at 6:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-23 17:58:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-23T10:58:17.461102-04:00.jpg">Jul 23 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-23T10:58:17.461102-04:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-23 06:32:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T23:32:42.522004-04:00.jpg">Jul 23 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T23:32:42.522004-04:00.jpg">July 23 at 6:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-23 00:09:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T17:09:15.976003-04:00.jpg">Jul 23 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T17:09:15.976003-04:00.jpg">July 23 at 12:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-22 18:05:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T11:05:36.366601-04:00.jpg">Jul 22 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T11:05:36.366601-04:00.jpg">July 22 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="NBC News at 2022-07-22 17:58:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T10:58:36.236336-04:00.jpg">Jul 22 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-07-22T10:58:36.236336-04:00.jpg">July 22 at 5:58 PM</a></p>
 </div>
 
 </div>

@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Artha Sarokar at 2022-07-25 23:42:52+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T16:42:50.781619+05:45.jpg">Jul 25 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T16:42:50.781619+05:45.jpg">July 25 at 11:42 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Artha Sarokar at 2022-07-25 13:32:02+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T06:32:00.383217+05:45.jpg">Jul 25 at 1:32 PM</a></p>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T06:32:00.383217+05:45.jpg">July 25 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Artha Sarokar at 2022-07-25 09:21:35+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T02:21:29.135132+05:45.jpg">Jul 25 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-07-25T02:21:29.135132+05:45.jpg">July 25 at 9:21 AM</a></p>
 </div>
 
 </div>

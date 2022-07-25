@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-25 15:02:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-25T08:02:11.180824-04:00.jpg">Jul 25 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-25T08:02:11.180824-04:00.jpg">July 25 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-25 04:04:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-24T21:04:55.029530-04:00.jpg">Jul 25 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-24T21:04:55.029530-04:00.jpg">July 25 at 4:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-24 14:59:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-24T07:59:08.001988-04:00.jpg">Jul 24 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-24T07:59:08.001988-04:00.jpg">July 24 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-24 09:29:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-24T02:29:25.339734-04:00.jpg">Jul 24 at 9:29 AM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-24T02:29:25.339734-04:00.jpg">July 24 at 9:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-23 16:59:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-23T09:59:14.877448-04:00.jpg">Jul 23 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-23T09:59:14.877448-04:00.jpg">July 23 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-23 05:25:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-22T22:25:50.513709-04:00.jpg">Jul 23 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-22T22:25:50.513709-04:00.jpg">July 23 at 5:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-22 17:00:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-22T10:00:30.334631-04:00.jpg">Jul 22 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-22T10:00:30.334631-04:00.jpg">July 22 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-22 05:19:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-21T22:19:43.019173-04:00.jpg">Jul 22 at 5:19 AM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-21T22:19:43.019173-04:00.jpg">July 22 at 5:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-21 17:05:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-21T10:05:36.417647-04:00.jpg">Jul 21 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-21T10:05:36.417647-04:00.jpg">July 21 at 5:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-21 05:22:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-20T22:22:56.832611-04:00.jpg">Jul 21 at 5:22 AM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-20T22:22:56.832611-04:00.jpg">July 21 at 5:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-20 17:21:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-20T10:21:33.943391-04:00.jpg">Jul 20 at 5:21 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-20T10:21:33.943391-04:00.jpg">July 20 at 5:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Bulldog at 2022-07-20 05:16:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-19T22:16:47.267282-04:00.jpg">Jul 20 at 5:16 AM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-07-19T22:16:47.267282-04:00.jpg">July 20 at 5:16 AM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-25 11:56:20-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.jpg">Jul 25 at 11:56 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-25T04:56:16.169444-06:00.jpg">July 25 at 11:56 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-25 01:45:22-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.jpg">Jul 25 at 1:45 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T18:45:18.198813-06:00.jpg">July 25 at 1:45 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-24 11:55:01-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.jpg">Jul 24 at 11:55 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-24T04:54:57.019628-06:00.jpg">July 24 at 11:55 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-23 23:57:58-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.jpg">Jul 23 at 11:57 PM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T16:57:56.377771-06:00.jpg">July 23 at 11:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-23 13:54:19-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T06:54:17.746605-06:00.jpg">Jul 23 at 1:54 PM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-23T06:54:17.746605-06:00.jpg">July 23 at 1:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-23 01:56:07-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-22T18:56:05.851031-06:00.jpg">Jul 23 at 1:56 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-22T18:56:05.851031-06:00.jpg">July 23 at 1:56 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-22 13:54:39-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-22T06:54:34.454059-06:00.jpg">Jul 22 at 1:54 PM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-22T06:54:34.454059-06:00.jpg">July 22 at 1:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-22 02:02:42-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-21T19:02:38.109823-06:00.jpg">Jul 22 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-21T19:02:38.109823-06:00.jpg">July 22 at 2:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-21 13:49:44-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-21T06:49:42.884995-06:00.jpg">Jul 21 at 1:49 PM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-21T06:49:42.884995-06:00.jpg">July 21 at 1:49 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-21 02:01:36-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-20T19:01:34.563642-06:00.jpg">Jul 21 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-20T19:01:34.563642-06:00.jpg">July 21 at 2:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-20 13:50:49-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-20T06:50:48.489604-06:00.jpg">Jul 20 at 1:50 PM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-20T06:50:48.489604-06:00.jpg">July 20 at 1:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Albuquerque Journal at 2022-07-20 01:57:04-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-19T18:57:02.645061-06:00.jpg">Jul 20 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-07-19T18:57:02.645061-06:00.jpg">July 20 at 1:57 AM</a></p>
 </div>
 
 </div>

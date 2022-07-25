@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-25 04:44:15-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.jpg">Jul 25 at 4:44 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T21:44:14.030476-06:00.jpg">July 25 at 4:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-24 15:04:19-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.jpg">Jul 24 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T08:04:18.327457-06:00.jpg">July 24 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-24 07:24:33-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.jpg">Jul 24 at 7:24 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-24T00:24:29.293077-06:00.jpg">July 24 at 7:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-23 17:02:27-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-23T10:02:25.236187-06:00.jpg">Jul 23 at 5:02 PM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-23T10:02:25.236187-06:00.jpg">July 23 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-23 05:22:08-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-22T22:22:04.236403-06:00.jpg">Jul 23 at 5:22 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-22T22:22:04.236403-06:00.jpg">July 23 at 5:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-22 17:16:53-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-22T10:16:52.118647-06:00.jpg">Jul 22 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-22T10:16:52.118647-06:00.jpg">July 22 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-22 05:28:48-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-21T22:28:47.539151-06:00.jpg">Jul 22 at 5:28 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-21T22:28:47.539151-06:00.jpg">July 22 at 5:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-21 17:52:59-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-21T10:52:55.647904-06:00.jpg">Jul 21 at 5:52 PM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-21T10:52:55.647904-06:00.jpg">July 21 at 5:52 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-21 05:26:36-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-20T22:26:34.959337-06:00.jpg">Jul 21 at 5:26 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-20T22:26:34.959337-06:00.jpg">July 21 at 5:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-20 17:42:25-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-20T10:42:23.381884-06:00.jpg">Jul 20 at 5:42 PM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-20T10:42:23.381884-06:00.jpg">July 20 at 5:42 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-20 05:19:35-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-19T22:19:33.173546-06:00.jpg">Jul 20 at 5:19 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-19T22:19:33.173546-06:00.jpg">July 20 at 5:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Source New Mexico at 2022-07-19 05:23:27-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-18T22:23:25.641450-06:00.jpg">Jul 19 at 5:23 AM</a></p>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-18T22:23:25.641450-06:00.jpg">July 19 at 5:23 AM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-25 14:01:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-25T07:01:31.108518-05:00.jpg">Jul 25 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-25T07:01:31.108518-05:00.jpg">July 25 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-25 03:04:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-24T20:04:23.548076-05:00.jpg">Jul 25 at 3:04 AM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-24T20:04:23.548076-05:00.jpg">July 25 at 3:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-24 13:59:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-24T06:59:14.064015-05:00.jpg">Jul 24 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-24T06:59:14.064015-05:00.jpg">July 24 at 1:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-24 08:28:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-24T01:28:57.360076-05:00.jpg">Jul 24 at 8:28 AM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-24T01:28:57.360076-05:00.jpg">July 24 at 8:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-23 04:24:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-22T21:24:31.717272-05:00.jpg">Jul 23 at 4:24 AM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-22T21:24:31.717272-05:00.jpg">July 23 at 4:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-22 15:59:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-22T08:59:53.390121-05:00.jpg">Jul 22 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-22T08:59:53.390121-05:00.jpg">July 22 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-22 04:18:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-21T21:18:52.623629-05:00.jpg">Jul 22 at 4:18 AM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-21T21:18:52.623629-05:00.jpg">July 22 at 4:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-21 16:07:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-21T09:07:51.920909-05:00.jpg">Jul 21 at 4:07 PM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-21T09:07:51.920909-05:00.jpg">July 21 at 4:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-21 04:22:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-20T21:22:35.780192-05:00.jpg">Jul 21 at 4:22 AM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-20T21:22:35.780192-05:00.jpg">July 21 at 4:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-20 16:20:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-20T09:20:21.409704-05:00.jpg">Jul 20 at 4:20 PM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-20T09:20:21.409704-05:00.jpg">July 20 at 4:20 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-20 04:16:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-19T21:16:33.460413-05:00.jpg">Jul 20 at 4:16 AM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-19T21:16:33.460413-05:00.jpg">July 20 at 4:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="San Antonio Express-News at 2022-07-19 16:09:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-19T09:09:57.666225-05:00.jpg">Jul 19 at 4:09 PM</a></p>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-07-19T09:09:57.666225-05:00.jpg">July 19 at 4:09 PM</a></p>
 </div>
 
 </div>

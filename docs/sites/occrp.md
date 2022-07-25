@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Organized Crime and Corruption Reporting Project at 2022-07-25 12:38:45+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/occrp-2022/occrp-2022-07-25T05:38:44.242579+02:00.jpg">Jul 25 at 12:38 PM</a></p>
+ <p><a href="https://archive.org/download/occrp-2022/occrp-2022-07-25T05:38:44.242579+02:00.jpg">July 25 at 12:38 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Organized Crime and Corruption Reporting Project at 2022-07-24 22:58:38+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/occrp-2022/occrp-2022-07-24T15:58:37.009085+02:00.jpg">Jul 24 at 10:58 PM</a></p>
+ <p><a href="https://archive.org/download/occrp-2022/occrp-2022-07-24T15:58:37.009085+02:00.jpg">July 24 at 10:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Organized Crime and Corruption Reporting Project at 2022-07-24 15:17:53+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/occrp-2022/occrp-2022-07-24T08:17:47.386573+02:00.jpg">Jul 24 at 3:17 PM</a></p>
+ <p><a href="https://archive.org/download/occrp-2022/occrp-2022-07-24T08:17:47.386573+02:00.jpg">July 24 at 3:17 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-25 03:26:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-24T20:26:57.575870-07:00.jpg">Jul 25 at 3:26 AM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-24T20:26:57.575870-07:00.jpg">July 25 at 3:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-24 13:00:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-24T05:59:59.798725-07:00.jpg">Jul 24 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-24T05:59:59.798725-07:00.jpg">July 24 at 1:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-24 04:15:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-23T21:15:09.598007-07:00.jpg">Jul 24 at 4:15 AM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-23T21:15:09.598007-07:00.jpg">July 24 at 4:15 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-23 14:05:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-23T07:05:51.625894-07:00.jpg">Jul 23 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-23T07:05:51.625894-07:00.jpg">July 23 at 2:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-23 02:31:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-22T19:31:43.258425-07:00.jpg">Jul 23 at 2:31 AM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-22T19:31:43.258425-07:00.jpg">July 23 at 2:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-22 14:06:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-22T07:06:38.947929-07:00.jpg">Jul 22 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-22T07:06:38.947929-07:00.jpg">July 22 at 2:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-22 02:25:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-21T19:25:57.568846-07:00.jpg">Jul 22 at 2:25 AM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-21T19:25:57.568846-07:00.jpg">July 22 at 2:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-21 14:15:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-21T07:15:57.152622-07:00.jpg">Jul 21 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-21T07:15:57.152622-07:00.jpg">July 21 at 2:15 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-21 02:28:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-20T19:28:27.589603-07:00.jpg">Jul 21 at 2:28 AM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-20T19:28:27.589603-07:00.jpg">July 21 at 2:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-20 14:29:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-20T07:29:10.896969-07:00.jpg">Jul 20 at 2:29 PM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-20T07:29:10.896969-07:00.jpg">July 20 at 2:29 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-20 02:21:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-19T19:21:52.423802-07:00.jpg">Jul 20 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-19T19:21:52.423802-07:00.jpg">July 20 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Valley Public Radio at 2022-07-19 14:24:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-19T07:24:18.988104-07:00.jpg">Jul 19 at 2:24 PM</a></p>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-07-19T07:24:18.988104-07:00.jpg">July 19 at 2:24 PM</a></p>
 </div>
 
 </div>

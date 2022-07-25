@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-25 17:09:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.jpg">Jul 25 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T10:09:33.485321+01:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-25 11:30:43+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.jpg">Jul 25 at 11:30 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-25T04:30:38.423888+01:00.jpg">July 25 at 11:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-24 21:02:38+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.jpg">Jul 24 at 9:02 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T14:02:32.403340+01:00.jpg">July 24 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-24 17:10:14+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T10:10:07.901329+01:00.jpg">Jul 24 at 5:10 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T10:10:07.901329+01:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-24 12:17:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.jpg">Jul 24 at 12:17 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-24T05:17:38.355076+01:00.jpg">July 24 at 12:17 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-23 23:00:50+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.jpg">Jul 23 at 11:00 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T16:00:48.687110+01:00.jpg">July 23 at 11:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-23 17:06:30+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T10:06:23.070273+01:00.jpg">Jul 23 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T10:06:23.070273+01:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-23 11:30:59+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T04:30:56.222323+01:00.jpg">Jul 23 at 11:30 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-23T04:30:56.222323+01:00.jpg">July 23 at 11:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-22 22:56:10+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T15:56:06.604844+01:00.jpg">Jul 22 at 10:56 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T15:56:06.604844+01:00.jpg">July 22 at 10:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-22 17:07:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T10:07:12.118416+01:00.jpg">Jul 22 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T10:07:12.118416+01:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-22 11:34:49+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T04:34:44.286327+01:00.jpg">Jul 22 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-22T04:34:44.286327+01:00.jpg">July 22 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mail at 2022-07-21 23:29:05+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-21T16:28:59.957600+01:00.jpg">Jul 21 at 11:29 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-07-21T16:28:59.957600+01:00.jpg">July 21 at 11:29 PM</a></p>
 </div>
 
 </div>

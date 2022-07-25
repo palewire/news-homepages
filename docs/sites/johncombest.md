@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-25 05:23:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-24T22:23:38.542020-05:00.jpg">Jul 25 at 5:23 AM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-24T22:23:38.542020-05:00.jpg">July 25 at 5:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-24 14:59:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-24T07:59:03.251353-05:00.jpg">Jul 24 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-24T07:59:03.251353-05:00.jpg">July 24 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-24 06:13:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-23T23:13:46.474828-05:00.jpg">Jul 24 at 6:13 AM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-23T23:13:46.474828-05:00.jpg">July 24 at 6:13 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-23 16:03:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-23T09:03:41.651290-05:00.jpg">Jul 23 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-23T09:03:41.651290-05:00.jpg">July 23 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-23 04:29:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-22T21:29:53.904655-05:00.jpg">Jul 23 at 4:29 AM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-22T21:29:53.904655-05:00.jpg">July 23 at 4:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-22 16:05:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-22T09:05:17.657011-05:00.jpg">Jul 22 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-22T09:05:17.657011-05:00.jpg">July 22 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-22 04:23:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-21T21:23:28.058228-05:00.jpg">Jul 22 at 4:23 AM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-21T21:23:28.058228-05:00.jpg">July 22 at 4:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-21 16:14:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-21T09:13:52.050956-05:00.jpg">Jul 21 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-21T09:13:52.050956-05:00.jpg">July 21 at 4:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-21 04:26:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-20T21:26:52.452506-05:00.jpg">Jul 21 at 4:26 AM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-20T21:26:52.452506-05:00.jpg">July 21 at 4:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-20 16:27:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-20T09:27:30.614613-05:00.jpg">Jul 20 at 4:27 PM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-20T09:27:30.614613-05:00.jpg">July 20 at 4:27 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-20 04:20:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-19T21:20:03.551817-05:00.jpg">Jul 20 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-19T21:20:03.551817-05:00.jpg">July 20 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="John Combest at 2022-07-19 16:16:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-19T09:15:55.221940-05:00.jpg">Jul 19 at 4:16 PM</a></p>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-07-19T09:15:55.221940-05:00.jpg">July 19 at 4:16 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-25 06:37:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T23:37:52.906184-05:00.jpg">Jul 25 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T23:37:52.906184-05:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-24 17:46:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:46:25.498616-05:00.jpg">Jul 24 at 5:46 PM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:46:25.498616-05:00.jpg">July 24 at 5:46 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-24 17:07:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:07:47.692205-05:00.jpg">Jul 24 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-24T10:07:47.692205-05:00.jpg">July 24 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-24 05:42:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T22:42:25.215070-05:00.jpg">Jul 24 at 5:42 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T22:42:25.215070-05:00.jpg">July 24 at 5:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-23 18:06:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T11:06:47.716056-05:00.jpg">Jul 23 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-23T11:06:47.716056-05:00.jpg">July 23 at 6:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-23 06:26:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T23:26:06.591621-05:00.jpg">Jul 23 at 6:26 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T23:26:06.591621-05:00.jpg">July 23 at 6:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-22 18:24:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:24:18.374917-05:00.jpg">Jul 22 at 6:24 PM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:24:18.374917-05:00.jpg">July 22 at 6:24 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-22 18:19:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:19:12.187673-05:00.jpg">Jul 22 at 6:19 PM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-22T11:19:12.187673-05:00.jpg">July 22 at 6:19 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-22 06:33:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T23:33:14.946611-05:00.jpg">Jul 22 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T23:33:14.946611-05:00.jpg">July 22 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-21 18:56:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T11:56:33.713486-05:00.jpg">Jul 21 at 6:56 PM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T11:56:33.713486-05:00.jpg">July 21 at 6:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-21 18:49:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T11:49:06.466470-05:00.jpg">Jul 21 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-21T11:49:06.466470-05:00.jpg">July 21 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="The TriiBE at 2022-07-21 06:30:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-20T23:30:03.213639-05:00.jpg">Jul 21 at 6:30 AM</a></p>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-07-20T23:30:03.213639-05:00.jpg">July 21 at 6:30 AM</a></p>
 </div>
 
 </div>

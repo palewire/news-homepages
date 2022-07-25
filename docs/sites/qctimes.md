@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-25 05:40:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-24T22:40:53.888049-05:00.jpg">Jul 25 at 5:40 AM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-24T22:40:53.888049-05:00.jpg">July 25 at 5:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-24 16:01:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-24T09:01:40.884105-05:00.jpg">Jul 24 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-24T09:01:40.884105-05:00.jpg">July 24 at 4:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-24 08:19:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-24T01:19:11.109740-05:00.jpg">Jul 24 at 8:19 AM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-24T01:19:11.109740-05:00.jpg">July 24 at 8:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-23 17:08:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-23T10:08:17.590532-05:00.jpg">Jul 23 at 5:08 PM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-23T10:08:17.590532-05:00.jpg">July 23 at 5:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-23 05:37:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-22T22:37:42.683940-05:00.jpg">Jul 23 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-22T22:37:42.683940-05:00.jpg">July 23 at 5:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-22 18:12:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-22T11:12:55.500404-05:00.jpg">Jul 22 at 6:12 PM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-22T11:12:55.500404-05:00.jpg">July 22 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-22 05:42:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-21T22:42:01.057970-05:00.jpg">Jul 22 at 5:42 AM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-21T22:42:01.057970-05:00.jpg">July 22 at 5:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-21 17:38:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-21T10:38:28.734461-05:00.jpg">Jul 21 at 5:38 PM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-21T10:38:28.734461-05:00.jpg">July 21 at 5:38 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-21 05:40:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-20T22:40:17.875293-05:00.jpg">Jul 21 at 5:40 AM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-20T22:40:17.875293-05:00.jpg">July 21 at 5:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-20 18:55:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-20T11:55:20.531476-05:00.jpg">Jul 20 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-20T11:55:20.531476-05:00.jpg">July 20 at 6:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-20 18:14:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-20T11:14:28.602116-05:00.jpg">Jul 20 at 6:14 PM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-20T11:14:28.602116-05:00.jpg">July 20 at 6:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Quad City Times at 2022-07-20 05:37:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-19T22:37:37.821022-05:00.jpg">Jul 20 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-07-19T22:37:37.821022-05:00.jpg">July 20 at 5:37 AM</a></p>
 </div>
 
 </div>

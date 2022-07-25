@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-25 15:02:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-25T08:02:26.700046-04:00.jpg">Jul 25 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-25T08:02:26.700046-04:00.jpg">July 25 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-25 04:05:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-24T21:05:44.987147-04:00.jpg">Jul 25 at 4:05 AM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-24T21:05:44.987147-04:00.jpg">July 25 at 4:05 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-24 14:59:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-24T07:59:09.905851-04:00.jpg">Jul 24 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-24T07:59:09.905851-04:00.jpg">July 24 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-24 09:29:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-24T02:29:40.228298-04:00.jpg">Jul 24 at 9:29 AM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-24T02:29:40.228298-04:00.jpg">July 24 at 9:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-23 16:59:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-23T09:59:00.503903-04:00.jpg">Jul 23 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-23T09:59:00.503903-04:00.jpg">July 23 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-23 05:25:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-22T22:25:55.674045-04:00.jpg">Jul 23 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-22T22:25:55.674045-04:00.jpg">July 23 at 5:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-22 17:00:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-22T10:00:28.385442-04:00.jpg">Jul 22 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-22T10:00:28.385442-04:00.jpg">July 22 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-22 05:19:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-21T22:19:30.616071-04:00.jpg">Jul 22 at 5:19 AM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-21T22:19:30.616071-04:00.jpg">July 22 at 5:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-21 17:05:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-21T10:05:43.899244-04:00.jpg">Jul 21 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-21T10:05:43.899244-04:00.jpg">July 21 at 5:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-21 05:22:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-20T22:22:32.604684-04:00.jpg">Jul 21 at 5:22 AM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-20T22:22:32.604684-04:00.jpg">July 21 at 5:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-20 17:21:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-20T10:21:19.703899-04:00.jpg">Jul 20 at 5:21 PM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-20T10:21:19.703899-04:00.jpg">July 20 at 5:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Fortune at 2022-07-20 05:17:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-19T22:16:59.260539-04:00.jpg">Jul 20 at 5:17 AM</a></p>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-07-19T22:16:59.260539-04:00.jpg">July 20 at 5:17 AM</a></p>
 </div>
 
 </div>

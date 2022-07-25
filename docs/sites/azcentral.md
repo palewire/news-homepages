@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-25 10:58:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T03:58:17.563266-07:00.jpg">Jul 25 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-25T03:58:17.563266-07:00.jpg">July 25 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-25 00:48:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.jpg">Jul 25 at 12:48 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T17:48:44.721522-07:00.jpg">July 25 at 12:48 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-24 10:57:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T03:57:04.544721-07:00.jpg">Jul 24 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-24T03:57:04.544721-07:00.jpg">July 24 at 10:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-23 22:59:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T15:59:12.428779-07:00.jpg">Jul 23 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T15:59:12.428779-07:00.jpg">July 23 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-23 12:56:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T05:56:01.702089-07:00.jpg">Jul 23 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-23T05:56:01.702089-07:00.jpg">July 23 at 12:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-23 00:57:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-22T17:57:22.095638-07:00.jpg">Jul 23 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-22T17:57:22.095638-07:00.jpg">July 23 at 12:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-22 12:56:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-22T05:56:19.514768-07:00.jpg">Jul 22 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-22T05:56:19.514768-07:00.jpg">July 22 at 12:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-22 01:04:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-21T18:04:27.672926-07:00.jpg">Jul 22 at 1:04 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-21T18:04:27.672926-07:00.jpg">July 22 at 1:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-21 12:51:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-21T05:51:03.590056-07:00.jpg">Jul 21 at 12:51 PM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-21T05:51:03.590056-07:00.jpg">July 21 at 12:51 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-21 01:04:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-20T18:04:16.870434-07:00.jpg">Jul 21 at 1:04 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-20T18:04:16.870434-07:00.jpg">July 21 at 1:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-20 12:51:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-20T05:51:31.938083-07:00.jpg">Jul 20 at 12:51 PM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-20T05:51:31.938083-07:00.jpg">July 20 at 12:51 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Arizona Republic at 2022-07-20 00:58:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-19T17:58:41.529937-07:00.jpg">Jul 20 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-19T17:58:41.529937-07:00.jpg">July 20 at 12:58 AM</a></p>
 </div>
 
 </div>

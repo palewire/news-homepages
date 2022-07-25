@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-25 12:57:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-25T05:57:01.771413-05:00.jpg">Jul 25 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-25T05:57:01.771413-05:00.jpg">July 25 at 12:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-25 02:44:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-24T19:44:48.971608-05:00.jpg">Jul 25 at 2:44 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-24T19:44:48.971608-05:00.jpg">July 25 at 2:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-24 12:55:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-24T05:55:00.639271-05:00.jpg">Jul 24 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-24T05:55:00.639271-05:00.jpg">July 24 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-24 00:58:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-23T17:58:16.300975-05:00.jpg">Jul 24 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-23T17:58:16.300975-05:00.jpg">July 24 at 12:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-23 14:54:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-23T07:54:16.779488-05:00.jpg">Jul 23 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-23T07:54:16.779488-05:00.jpg">July 23 at 2:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-23 02:54:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-22T19:54:54.149627-05:00.jpg">Jul 23 at 2:54 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-22T19:54:54.149627-05:00.jpg">July 23 at 2:54 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-22 14:54:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-22T07:54:31.975952-05:00.jpg">Jul 22 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-22T07:54:31.975952-05:00.jpg">July 22 at 2:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-22 03:02:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-21T20:02:56.963390-05:00.jpg">Jul 22 at 3:02 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-21T20:02:56.963390-05:00.jpg">July 22 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-21 14:49:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-21T07:49:45.751531-05:00.jpg">Jul 21 at 2:49 PM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-21T07:49:45.751531-05:00.jpg">July 21 at 2:49 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-21 03:01:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-20T20:01:29.595290-05:00.jpg">Jul 21 at 3:01 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-20T20:01:29.595290-05:00.jpg">July 21 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-20 14:50:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-20T07:50:12.212613-05:00.jpg">Jul 20 at 2:50 PM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-20T07:50:12.212613-05:00.jpg">July 20 at 2:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="19th at 2022-07-20 02:56:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-19T19:56:44.421323-05:00.jpg">Jul 20 at 2:56 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-07-19T19:56:44.421323-05:00.jpg">July 20 at 2:56 AM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-25 06:40:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.jpg">Jul 25 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T23:40:18.472828-04:00.jpg">July 25 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-24 17:01:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.jpg">Jul 24 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T10:01:21.510919-04:00.jpg">July 24 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-24 09:20:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.jpg">Jul 24 at 9:20 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-24T02:20:39.441079-04:00.jpg">July 24 at 9:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-23 18:07:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-23T11:07:24.820316-04:00.jpg">Jul 23 at 6:07 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-23T11:07:24.820316-04:00.jpg">July 23 at 6:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-23 06:36:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-22T23:36:34.754406-04:00.jpg">Jul 23 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-22T23:36:34.754406-04:00.jpg">July 23 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-22 18:02:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-22T11:02:18.941654-04:00.jpg">Jul 22 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-22T11:02:18.941654-04:00.jpg">July 22 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-22 06:41:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-21T23:41:19.015714-04:00.jpg">Jul 22 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-21T23:41:19.015714-04:00.jpg">July 22 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-21 18:38:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-21T11:38:11.422282-04:00.jpg">Jul 21 at 6:38 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-21T11:38:11.422282-04:00.jpg">July 21 at 6:38 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-21 06:39:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-20T23:39:48.699290-04:00.jpg">Jul 21 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-20T23:39:48.699290-04:00.jpg">July 21 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-20 19:14:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-20T12:14:18.187341-04:00.jpg">Jul 20 at 7:14 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-20T12:14:18.187341-04:00.jpg">July 20 at 7:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-20 06:37:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-19T23:37:10.121505-04:00.jpg">Jul 20 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-19T23:37:10.121505-04:00.jpg">July 20 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="ProPublica at 2022-07-19 18:47:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-19T11:47:31.821393-04:00.jpg">Jul 19 at 6:47 PM</a></p>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-19T11:47:31.821393-04:00.jpg">July 19 at 6:47 PM</a></p>
 </div>
 
 </div>

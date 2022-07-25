@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Scalawag at 2022-07-25 06:43:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T23:43:07.660344-04:00.jpg">Jul 25 at 6:43 AM</a></p>
+ <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T23:43:07.660344-04:00.jpg">July 25 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Scalawag at 2022-07-24 17:03:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T10:03:03.148648-04:00.jpg">Jul 24 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T10:03:03.148648-04:00.jpg">July 24 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Scalawag at 2022-07-24 09:22:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T02:22:38.522046-04:00.jpg">Jul 24 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-24T02:22:38.522046-04:00.jpg">July 24 at 9:22 AM</a></p>
 </div>
 
 </div>

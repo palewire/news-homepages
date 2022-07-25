@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-25 06:43:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T23:43:19.519764-04:00.jpg">Jul 25 at 6:43 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T23:43:19.519764-04:00.jpg">July 25 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-24 17:04:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T10:03:58.299176-04:00.jpg">Jul 24 at 5:04 PM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T10:03:58.299176-04:00.jpg">July 24 at 5:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-24 09:23:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T02:23:05.818816-04:00.jpg">Jul 24 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-24T02:23:05.818816-04:00.jpg">July 24 at 9:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-23 19:01:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-23T12:01:44.967039-04:00.jpg">Jul 23 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-23T12:01:44.967039-04:00.jpg">July 23 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-23 07:22:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-23T00:21:59.242032-04:00.jpg">Jul 23 at 7:22 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-23T00:21:59.242032-04:00.jpg">July 23 at 7:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-22 19:14:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-22T12:14:53.430065-04:00.jpg">Jul 22 at 7:14 PM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-22T12:14:53.430065-04:00.jpg">July 22 at 7:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-22 07:28:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-22T00:28:07.927668-04:00.jpg">Jul 22 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-22T00:28:07.927668-04:00.jpg">July 22 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-21 19:52:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-21T12:52:26.703538-04:00.jpg">Jul 21 at 7:52 PM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-21T12:52:26.703538-04:00.jpg">July 21 at 7:52 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-21 07:26:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-21T00:26:22.507118-04:00.jpg">Jul 21 at 7:26 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-21T00:26:22.507118-04:00.jpg">July 21 at 7:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-20 19:43:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-20T12:43:18.179704-04:00.jpg">Jul 20 at 7:43 PM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-20T12:43:18.179704-04:00.jpg">July 20 at 7:43 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-20 07:18:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-20T00:18:27.161794-04:00.jpg">Jul 20 at 7:18 AM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-20T00:18:27.161794-04:00.jpg">July 20 at 7:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Semafor at 2022-07-19 19:57:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-19T12:57:46.314534-04:00.jpg">Jul 19 at 7:57 PM</a></p>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-07-19T12:57:46.314534-04:00.jpg">July 19 at 7:57 PM</a></p>
 </div>
 
 </div>

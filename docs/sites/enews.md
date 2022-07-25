@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-25 12:01:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-25T05:01:21.671012-07:00.jpg">Jul 25 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-25T05:01:21.671012-07:00.jpg">July 25 at 12:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-25 01:03:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-24T18:03:11.553953-07:00.jpg">Jul 25 at 1:03 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-24T18:03:11.553953-07:00.jpg">July 25 at 1:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-24 11:58:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-24T04:58:43.710008-07:00.jpg">Jul 24 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-24T04:58:43.710008-07:00.jpg">July 24 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-24 06:28:56-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-23T23:28:55.424866-07:00.jpg">Jul 24 at 6:28 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-23T23:28:55.424866-07:00.jpg">July 24 at 6:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-23 13:58:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-23T06:58:15.011155-07:00.jpg">Jul 23 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-23T06:58:15.011155-07:00.jpg">July 23 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-23 02:24:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-22T19:24:46.065520-07:00.jpg">Jul 23 at 2:24 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-22T19:24:46.065520-07:00.jpg">July 23 at 2:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-22 13:59:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-22T06:59:15.104744-07:00.jpg">Jul 22 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-22T06:59:15.104744-07:00.jpg">July 22 at 1:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-22 02:18:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-21T19:18:49.798511-07:00.jpg">Jul 22 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-21T19:18:49.798511-07:00.jpg">July 22 at 2:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-21 14:04:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-21T07:04:05.041342-07:00.jpg">Jul 21 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-21T07:04:05.041342-07:00.jpg">July 21 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-21 02:21:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-20T19:21:40.034760-07:00.jpg">Jul 21 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-20T19:21:40.034760-07:00.jpg">July 21 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-20 14:19:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-20T07:19:17.963446-07:00.jpg">Jul 20 at 2:19 PM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-20T07:19:17.963446-07:00.jpg">July 20 at 2:19 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="E! at 2022-07-20 02:16:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-07-19T19:16:35.345745-07:00.jpg">Jul 20 at 2:16 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-07-19T19:16:35.345745-07:00.jpg">July 20 at 2:16 AM</a></p>
 </div>
 
 </div>

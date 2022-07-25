@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-25 15:00:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.jpg">Jul 25 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-25T08:00:13.488302-04:00.jpg">July 25 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-25 04:01:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.jpg">Jul 25 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T21:01:32.514785-04:00.jpg">July 25 at 4:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-24 14:57:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.jpg">Jul 24 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T07:57:29.912688-04:00.jpg">July 24 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-24 09:27:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.jpg">Jul 24 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-24T02:27:15.576068-04:00.jpg">July 24 at 9:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-23 16:03:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-23T09:03:20.909175-04:00.jpg">Jul 23 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-23T09:03:20.909175-04:00.jpg">July 23 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-23 04:04:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T21:04:25.522500-04:00.jpg">Jul 23 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T21:04:25.522500-04:00.jpg">July 23 at 4:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-22 16:04:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T09:04:28.652427-04:00.jpg">Jul 22 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-22T09:04:28.652427-04:00.jpg">July 22 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-22 04:11:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T21:11:43.257143-04:00.jpg">Jul 22 at 4:11 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T21:11:43.257143-04:00.jpg">July 22 at 4:11 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-21 15:57:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T08:57:35.998908-04:00.jpg">Jul 21 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-21T08:57:35.998908-04:00.jpg">July 21 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-21 04:10:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T21:10:21.070259-04:00.jpg">Jul 21 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T21:10:21.070259-04:00.jpg">July 21 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-20 15:57:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T08:57:38.835813-04:00.jpg">Jul 20 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-20T08:57:38.835813-04:00.jpg">July 20 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Defector at 2022-07-20 04:04:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-19T21:04:57.082081-04:00.jpg">Jul 20 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-07-19T21:04:57.082081-04:00.jpg">July 20 at 4:04 AM</a></p>
 </div>
 
 </div>

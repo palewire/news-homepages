@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-25 06:41:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.jpg">Jul 25 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T23:41:24.959680-04:00.jpg">July 25 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-24 18:44:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T11:44:38.412507-04:00.jpg">Jul 24 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T11:44:38.412507-04:00.jpg">July 24 at 6:44 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-24 17:01:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T10:01:36.460003-04:00.jpg">Jul 24 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T10:01:36.460003-04:00.jpg">July 24 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-24 09:21:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T02:21:20.249819-04:00.jpg">Jul 24 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-24T02:21:20.249819-04:00.jpg">July 24 at 9:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-23 19:11:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-23T12:11:31.938869-04:00.jpg">Jul 23 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-23T12:11:31.938869-04:00.jpg">July 23 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-23 18:08:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-23T11:08:03.992944-04:00.jpg">Jul 23 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-23T11:08:03.992944-04:00.jpg">July 23 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -88,7 +88,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-23 06:37:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-22T23:37:52.995684-04:00.jpg">Jul 23 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-22T23:37:52.995684-04:00.jpg">July 23 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,7 +97,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-22 19:25:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-22T12:25:56.218414-04:00.jpg">Jul 22 at 7:25 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-22T12:25:56.218414-04:00.jpg">July 22 at 7:25 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -106,7 +106,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-22 18:04:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-22T11:03:58.356212-04:00.jpg">Jul 22 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-22T11:03:58.356212-04:00.jpg">July 22 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -115,7 +115,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-22 06:42:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T23:42:16.882208-04:00.jpg">Jul 22 at 6:42 AM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T23:42:16.882208-04:00.jpg">July 22 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -124,7 +124,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-21 20:02:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T13:02:30.555575-04:00.jpg">Jul 21 at 8:02 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T13:02:30.555575-04:00.jpg">July 21 at 8:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -133,7 +133,7 @@ Here are the 12 most recent screenshots.
      alt="RedState at 2022-07-21 18:39:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T11:39:28.889400-04:00.jpg">Jul 21 at 6:39 PM</a></p>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-07-21T11:39:28.889400-04:00.jpg">July 21 at 6:39 PM</a></p>
 </div>
 
 </div>

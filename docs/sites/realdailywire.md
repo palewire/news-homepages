@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-25 06:41:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.jpg">Jul 25 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T23:41:23.326128-04:00.jpg">July 25 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-24 18:45:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T11:45:03.762668-04:00.jpg">Jul 24 at 6:45 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T11:45:03.762668-04:00.jpg">July 24 at 6:45 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-24 17:01:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T10:01:56.770252-04:00.jpg">Jul 24 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T10:01:56.770252-04:00.jpg">July 24 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-24 09:20:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T02:20:17.320846-04:00.jpg">Jul 24 at 9:20 AM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-24T02:20:17.320846-04:00.jpg">July 24 at 9:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-23 19:11:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-23T12:11:32.949872-04:00.jpg">Jul 23 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-23T12:11:32.949872-04:00.jpg">July 23 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-23 18:08:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-23T11:08:13.510192-04:00.jpg">Jul 23 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-23T11:08:13.510192-04:00.jpg">July 23 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-23 06:38:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-22T23:38:02.086276-04:00.jpg">Jul 23 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-22T23:38:02.086276-04:00.jpg">July 23 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-22 19:25:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-22T12:25:32.082319-04:00.jpg">Jul 22 at 7:25 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-22T12:25:32.082319-04:00.jpg">July 22 at 7:25 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-22 18:03:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-22T11:03:16.265261-04:00.jpg">Jul 22 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-22T11:03:16.265261-04:00.jpg">July 22 at 6:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-22 06:42:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-21T23:42:04.499554-04:00.jpg">Jul 22 at 6:42 AM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-21T23:42:04.499554-04:00.jpg">July 22 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-21 20:02:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-21T13:02:15.166278-04:00.jpg">Jul 21 at 8:02 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-21T13:02:15.166278-04:00.jpg">July 21 at 8:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Wire at 2022-07-21 18:38:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-21T11:38:19.705909-04:00.jpg">Jul 21 at 6:38 PM</a></p>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-07-21T11:38:19.705909-04:00.jpg">July 21 at 6:38 PM</a></p>
 </div>
 
 </div>

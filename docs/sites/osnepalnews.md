@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="OSNepal at 2022-07-25 16:23:35+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T09:23:33.488950+05:45.jpg">Jul 25 at 4:23 PM</a></p>
+ <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T09:23:33.488950+05:45.jpg">July 25 at 4:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="OSNepal at 2022-07-25 09:23:46+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.jpg">Jul 25 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/osnepalnews-2022/osnepalnews-2022-07-25T02:23:40.333371+05:45.jpg">July 25 at 9:23 AM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-25 14:01:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-25T07:01:09.117438-04:00.jpg">Jul 25 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-25T07:01:09.117438-04:00.jpg">July 25 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-25 03:53:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-24T20:53:25.082949-04:00.jpg">Jul 25 at 3:53 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-24T20:53:25.082949-04:00.jpg">July 25 at 3:53 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-25 00:20:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-24T17:20:38.612746-04:00.jpg">Jul 25 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-24T17:20:38.612746-04:00.jpg">July 25 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-24 18:12:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-24T11:12:27.054785-04:00.jpg">Jul 24 at 6:12 PM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-24T11:12:27.054785-04:00.jpg">July 24 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-24 14:00:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-24T07:00:16.690331-04:00.jpg">Jul 24 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-24T07:00:16.690331-04:00.jpg">July 24 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-24 02:02:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-23T19:02:05.444743-04:00.jpg">Jul 24 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-23T19:02:05.444743-04:00.jpg">July 24 at 2:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-24 00:16:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-23T17:16:32.006537-04:00.jpg">Jul 24 at 12:16 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-23T17:16:32.006537-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-23 17:58:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-23T10:58:15.744486-04:00.jpg">Jul 23 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-23T10:58:15.744486-04:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-23 15:59:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-23T08:59:16.377073-04:00.jpg">Jul 23 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-23T08:59:16.377073-04:00.jpg">July 23 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-23 03:59:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-22T20:59:53.723680-04:00.jpg">Jul 23 at 3:59 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-22T20:59:53.723680-04:00.jpg">July 23 at 3:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-23 00:09:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-22T17:09:10.969339-04:00.jpg">Jul 23 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-22T17:09:10.969339-04:00.jpg">July 23 at 12:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Bloomberg at 2022-07-22 18:04:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-07-22T11:04:44.484297-04:00.jpg">Jul 22 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-07-22T11:04:44.484297-04:00.jpg">July 22 at 6:04 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-25 21:02:53+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-25T14:02:50.957557+02:00.jpg">Jul 25 at 9:02 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-25T14:02:50.957557+02:00.jpg">July 25 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-25 17:09:15+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-25T10:09:08.622583+02:00.jpg">Jul 25 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-25T10:09:08.622583+02:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-25 10:07:38+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-25T03:07:36.956734+02:00.jpg">Jul 25 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-25T03:07:36.956734+02:00.jpg">July 25 at 10:07 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-24 21:00:05+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-24T13:59:57.530528+02:00.jpg">Jul 24 at 9:00 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-24T13:59:57.530528+02:00.jpg">July 24 at 9:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-24 17:09:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-24T10:09:44.296222+02:00.jpg">Jul 24 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-24T10:09:44.296222+02:00.jpg">July 24 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-24 15:30:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-24T08:30:27.276991+02:00.jpg">Jul 24 at 3:30 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-24T08:30:27.276991+02:00.jpg">July 24 at 3:30 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-23 22:59:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-23T15:59:46.509398+02:00.jpg">Jul 23 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-23T15:59:46.509398+02:00.jpg">July 23 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-23 17:07:10+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-23T10:07:01.915623+02:00.jpg">Jul 23 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-23T10:07:01.915623+02:00.jpg">July 23 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-23 11:26:11+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-23T04:26:03.428683+02:00.jpg">Jul 23 at 11:26 AM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-23T04:26:03.428683+02:00.jpg">July 23 at 11:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-22 23:01:08+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-22T16:01:06.964343+02:00.jpg">Jul 22 at 11:01 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-22T16:01:06.964343+02:00.jpg">July 22 at 11:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-22 17:07:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-22T10:07:00.803542+02:00.jpg">Jul 22 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-22T10:07:00.803542+02:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="franceinfo at 2022-07-22 11:20:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-22T04:20:48.577964+02:00.jpg">Jul 22 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-07-22T04:20:48.577964+02:00.jpg">July 22 at 11:20 AM</a></p>
 </div>
 
 </div>

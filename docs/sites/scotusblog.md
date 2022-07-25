@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-25 06:42:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T23:42:56.209448-04:00.jpg">Jul 25 at 6:42 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T23:42:56.209448-04:00.jpg">July 25 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-24 17:03:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T10:03:13.976218-04:00.jpg">Jul 24 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T10:03:13.976218-04:00.jpg">July 24 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-24 09:22:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T02:22:46.110965-04:00.jpg">Jul 24 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-24T02:22:46.110965-04:00.jpg">July 24 at 9:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-23 06:39:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T23:39:06.703817-04:00.jpg">Jul 23 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T23:39:06.703817-04:00.jpg">July 23 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-22 19:13:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T12:13:55.309254-04:00.jpg">Jul 22 at 7:13 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T12:13:55.309254-04:00.jpg">July 22 at 7:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-22 07:28:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T00:28:25.476222-04:00.jpg">Jul 22 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-22T00:28:25.476222-04:00.jpg">July 22 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-21 19:51:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T12:50:57.994232-04:00.jpg">Jul 21 at 7:51 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T12:50:57.994232-04:00.jpg">July 21 at 7:51 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-21 07:25:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T00:25:33.212238-04:00.jpg">Jul 21 at 7:25 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-21T00:25:33.212238-04:00.jpg">July 21 at 7:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-20 19:42:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T12:42:00.374673-04:00.jpg">Jul 20 at 7:42 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T12:42:00.374673-04:00.jpg">July 20 at 7:42 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-20 07:18:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T00:18:11.135732-04:00.jpg">Jul 20 at 7:18 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-20T00:18:11.135732-04:00.jpg">July 20 at 7:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-19 19:56:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-19T12:56:51.130701-04:00.jpg">Jul 19 at 7:56 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-19T12:56:51.130701-04:00.jpg">July 19 at 7:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="SCOTUS Blog at 2022-07-19 07:22:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-19T00:22:32.277215-04:00.jpg">Jul 19 at 7:22 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-19T00:22:32.277215-04:00.jpg">July 19 at 7:22 AM</a></p>
 </div>
 
 </div>

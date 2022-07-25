@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-25 15:03:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T08:03:30.222887-04:00.jpg">Jul 25 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-25T08:03:30.222887-04:00.jpg">July 25 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-25 04:07:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T21:07:04.496350-04:00.jpg">Jul 25 at 4:07 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T21:07:04.496350-04:00.jpg">July 25 at 4:07 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-25 00:20:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T17:20:19.993434-04:00.jpg">Jul 25 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T17:20:19.993434-04:00.jpg">July 25 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-24 18:44:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:44:31.689494-04:00.jpg">Jul 24 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:44:31.689494-04:00.jpg">July 24 at 6:44 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-24 18:13:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:12:57.550693-04:00.jpg">Jul 24 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T11:12:57.550693-04:00.jpg">July 24 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-24 15:01:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T08:00:39.621504-04:00.jpg">Jul 24 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T08:00:39.621504-04:00.jpg">July 24 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-24 09:30:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T02:30:16.057549-04:00.jpg">Jul 24 at 9:30 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-24T02:30:16.057549-04:00.jpg">July 24 at 9:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-24 00:16:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T17:16:36.138511-04:00.jpg">Jul 24 at 12:16 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T17:16:36.138511-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-23 19:11:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T12:11:16.064861-04:00.jpg">Jul 23 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T12:11:16.064861-04:00.jpg">July 23 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-23 17:58:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T10:58:14.970196-04:00.jpg">Jul 23 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T10:58:14.970196-04:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-23 16:59:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T09:59:30.802371-04:00.jpg">Jul 23 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-23T09:59:30.802371-04:00.jpg">July 23 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Fox News at 2022-07-23 05:25:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-22T22:25:38.562539-04:00.jpg">Jul 23 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-22T22:25:38.562539-04:00.jpg">July 23 at 5:25 AM</a></p>
 </div>
 
 </div>

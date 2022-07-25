@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-25 06:38:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-24T23:38:39.137800-04:00.jpg">Jul 25 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-24T23:38:39.137800-04:00.jpg">July 25 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-24 18:44:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-24T11:44:37.465608-04:00.jpg">Jul 24 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-24T11:44:37.465608-04:00.jpg">July 24 at 6:44 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-24 16:58:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-24T09:58:50.879477-04:00.jpg">Jul 24 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-24T09:58:50.879477-04:00.jpg">July 24 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-24 09:17:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-24T02:17:21.218629-04:00.jpg">Jul 24 at 9:17 AM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-24T02:17:21.218629-04:00.jpg">July 24 at 9:17 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-23 19:11:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-23T12:11:25.847716-04:00.jpg">Jul 23 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-23T12:11:25.847716-04:00.jpg">July 23 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-23 18:04:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-23T11:04:54.488243-04:00.jpg">Jul 23 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-23T11:04:54.488243-04:00.jpg">July 23 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-23 06:34:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-22T23:34:46.854912-04:00.jpg">Jul 23 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-22T23:34:46.854912-04:00.jpg">July 23 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-22 19:25:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-22T12:25:21.103985-04:00.jpg">Jul 22 at 7:25 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-22T12:25:21.103985-04:00.jpg">July 22 at 7:25 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-22 18:00:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-22T11:00:46.837949-04:00.jpg">Jul 22 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-22T11:00:46.837949-04:00.jpg">July 22 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-22 06:40:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-21T23:40:02.142003-04:00.jpg">Jul 22 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-21T23:40:02.142003-04:00.jpg">July 22 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-21 20:02:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-21T13:02:02.549820-04:00.jpg">Jul 21 at 8:02 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-21T13:02:02.549820-04:00.jpg">July 21 at 8:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="One America News Network at 2022-07-21 18:35:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-21T11:35:26.977952-04:00.jpg">Jul 21 at 6:35 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-07-21T11:35:26.977952-04:00.jpg">July 21 at 6:35 PM</a></p>
 </div>
 
 </div>

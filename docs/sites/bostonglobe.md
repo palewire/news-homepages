@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-25 14:00:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-25T07:00:31.202920-04:00.jpg">Jul 25 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-25T07:00:31.202920-04:00.jpg">July 25 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-25 03:51:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-24T20:51:21.373472-04:00.jpg">Jul 25 at 3:51 AM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-24T20:51:21.373472-04:00.jpg">July 25 at 3:51 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-24 13:59:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-24T06:59:24.661242-04:00.jpg">Jul 24 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-24T06:59:24.661242-04:00.jpg">July 24 at 1:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-24 02:01:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-23T19:01:19.385635-04:00.jpg">Jul 24 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-23T19:01:19.385635-04:00.jpg">July 24 at 2:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-23 15:58:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-23T08:58:37.044757-04:00.jpg">Jul 23 at 3:58 PM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-23T08:58:37.044757-04:00.jpg">July 23 at 3:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-23 03:59:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-22T20:59:02.440304-04:00.jpg">Jul 23 at 3:59 AM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-22T20:59:02.440304-04:00.jpg">July 23 at 3:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-22 15:58:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-22T08:58:46.722871-04:00.jpg">Jul 22 at 3:58 PM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-22T08:58:46.722871-04:00.jpg">July 22 at 3:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-22 04:06:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-21T21:06:50.314618-04:00.jpg">Jul 22 at 4:06 AM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-21T21:06:50.314618-04:00.jpg">July 22 at 4:06 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-21 15:53:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-21T08:53:19.751686-04:00.jpg">Jul 21 at 3:53 PM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-21T08:53:19.751686-04:00.jpg">July 21 at 3:53 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-21 04:05:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-20T21:05:07.652278-04:00.jpg">Jul 21 at 4:05 AM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-20T21:05:07.652278-04:00.jpg">July 21 at 4:05 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-20 15:54:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-20T08:54:11.131980-04:00.jpg">Jul 20 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-20T08:54:11.131980-04:00.jpg">July 20 at 3:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Boston Globe at 2022-07-20 04:00:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-19T21:00:55.970659-04:00.jpg">Jul 20 at 4:00 AM</a></p>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-07-19T21:00:55.970659-04:00.jpg">July 20 at 4:00 AM</a></p>
 </div>
 
 </div>

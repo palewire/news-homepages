@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-25 06:44:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T23:44:06.056230-04:00.jpg">Jul 25 at 6:44 AM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T23:44:06.056230-04:00.jpg">July 25 at 6:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-24 17:03:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T10:03:53.804424-04:00.jpg">Jul 24 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T10:03:53.804424-04:00.jpg">July 24 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-24 09:23:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T02:23:35.341528-04:00.jpg">Jul 24 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-24T02:23:35.341528-04:00.jpg">July 24 at 9:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-23 19:01:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-23T12:01:47.567673-04:00.jpg">Jul 23 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-23T12:01:47.567673-04:00.jpg">July 23 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-23 07:22:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-23T00:22:04.025744-04:00.jpg">Jul 23 at 7:22 AM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-23T00:22:04.025744-04:00.jpg">July 23 at 7:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-22 19:14:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-22T12:14:11.459526-04:00.jpg">Jul 22 at 7:14 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-22T12:14:11.459526-04:00.jpg">July 22 at 7:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-22 07:28:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-22T00:28:08.901903-04:00.jpg">Jul 22 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-22T00:28:08.901903-04:00.jpg">July 22 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-21 19:51:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-21T12:51:54.440636-04:00.jpg">Jul 21 at 7:51 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-21T12:51:54.440636-04:00.jpg">July 21 at 7:51 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-21 07:26:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-21T00:26:47.417935-04:00.jpg">Jul 21 at 7:26 AM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-21T00:26:47.417935-04:00.jpg">July 21 at 7:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-20 19:42:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-20T12:42:14.436031-04:00.jpg">Jul 20 at 7:42 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-20T12:42:14.436031-04:00.jpg">July 20 at 7:42 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-20 07:18:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-20T00:18:38.296432-04:00.jpg">Jul 20 at 7:18 AM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-20T00:18:38.296432-04:00.jpg">July 20 at 7:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Sports Illustrated at 2022-07-19 19:57:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-19T12:57:36.829945-04:00.jpg">Jul 19 at 7:57 PM</a></p>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-07-19T12:57:36.829945-04:00.jpg">July 19 at 7:57 PM</a></p>
 </div>
 
 </div>

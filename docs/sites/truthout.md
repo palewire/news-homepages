@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-25 04:38:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T21:38:36.563948-07:00.jpg">Jul 25 at 4:38 AM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T21:38:36.563948-07:00.jpg">July 25 at 4:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-24 15:43:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:43:20.749210-07:00.jpg">Jul 24 at 3:43 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:43:20.749210-07:00.jpg">July 24 at 3:43 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-24 15:08:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:08:33.317453-07:00.jpg">Jul 24 at 3:08 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-24T08:08:33.317453-07:00.jpg">July 24 at 3:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-24 03:44:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T20:44:16.184902-07:00.jpg">Jul 24 at 3:44 AM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T20:44:16.184902-07:00.jpg">July 24 at 3:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-23 18:14:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T11:14:10.163463-07:00.jpg">Jul 23 at 6:14 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T11:14:10.163463-07:00.jpg">July 23 at 6:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-23 16:07:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T09:07:30.821780-07:00.jpg">Jul 23 at 4:07 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-23T09:07:30.821780-07:00.jpg">July 23 at 4:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -88,7 +88,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-23 04:27:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T21:27:18.430867-07:00.jpg">Jul 23 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T21:27:18.430867-07:00.jpg">July 23 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,7 +97,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-22 16:20:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T09:20:17.564204-07:00.jpg">Jul 22 at 4:20 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T09:20:17.564204-07:00.jpg">July 22 at 4:20 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -106,7 +106,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-22 16:12:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T09:12:55.945992-07:00.jpg">Jul 22 at 4:12 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-22T09:12:55.945992-07:00.jpg">July 22 at 4:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -115,7 +115,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-22 04:33:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-21T21:33:39.192158-07:00.jpg">Jul 22 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-21T21:33:39.192158-07:00.jpg">July 22 at 4:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -124,7 +124,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-21 16:57:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-21T09:57:36.026718-07:00.jpg">Jul 21 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-21T09:57:36.026718-07:00.jpg">July 21 at 4:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -133,7 +133,7 @@ Here are the 12 most recent screenshots.
      alt="Truthout at 2022-07-21 16:50:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-21T09:50:36.822963-07:00.jpg">Jul 21 at 4:50 PM</a></p>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-07-21T09:50:36.822963-07:00.jpg">July 21 at 4:50 PM</a></p>
 </div>
 
 </div>

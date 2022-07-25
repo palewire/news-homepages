@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-25 15:06:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-25T08:06:07.308297-04:00.jpg">Jul 25 at 3:06 PM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-25T08:06:07.308297-04:00.jpg">July 25 at 3:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-25 04:11:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T21:11:38.889451-04:00.jpg">Jul 25 at 4:11 AM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T21:11:38.889451-04:00.jpg">July 25 at 4:11 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-25 00:21:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T17:21:34.038040-04:00.jpg">Jul 25 at 12:21 AM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T17:21:34.038040-04:00.jpg">July 25 at 12:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-24 18:42:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T11:42:39.794571-04:00.jpg">Jul 24 at 6:42 PM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T11:42:39.794571-04:00.jpg">July 24 at 6:42 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-24 18:12:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T11:12:57.468759-04:00.jpg">Jul 24 at 6:12 PM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T11:12:57.468759-04:00.jpg">July 24 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-24 15:02:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T08:02:53.209109-04:00.jpg">Jul 24 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T08:02:53.209109-04:00.jpg">July 24 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-24 09:32:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T02:32:50.677020-04:00.jpg">Jul 24 at 9:32 AM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-24T02:32:50.677020-04:00.jpg">July 24 at 9:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-24 00:16:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-23T17:16:47.517843-04:00.jpg">Jul 24 at 12:16 AM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-23T17:16:47.517843-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-23 21:12:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-23T14:12:37.200744-04:00.jpg">Jul 23 at 9:12 PM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-23T14:12:37.200744-04:00.jpg">July 23 at 9:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-23 17:58:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-23T10:58:21.278709-04:00.jpg">Jul 23 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-23T10:58:21.278709-04:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-23 17:02:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-23T10:02:21.582626-04:00.jpg">Jul 23 at 5:02 PM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-23T10:02:21.582626-04:00.jpg">July 23 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Huffington Post at 2022-07-23 05:28:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-22T22:28:10.754004-04:00.jpg">Jul 23 at 5:28 AM</a></p>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-07-22T22:28:10.754004-04:00.jpg">July 23 at 5:28 AM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-25 15:04:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-25T08:04:24.195762-04:00.jpg">Jul 25 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-25T08:04:24.195762-04:00.jpg">July 25 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-25 04:09:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-24T21:09:01.872568-04:00.jpg">Jul 25 at 4:09 AM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-24T21:09:01.872568-04:00.jpg">July 25 at 4:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-24 15:01:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-24T08:01:35.723712-04:00.jpg">Jul 24 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-24T08:01:35.723712-04:00.jpg">July 24 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-24 09:32:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-24T02:32:01.826946-04:00.jpg">Jul 24 at 9:32 AM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-24T02:32:01.826946-04:00.jpg">July 24 at 9:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-23 17:00:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-23T10:00:30.574739-04:00.jpg">Jul 23 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-23T10:00:30.574739-04:00.jpg">July 23 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-23 05:27:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-22T22:27:34.301624-04:00.jpg">Jul 23 at 5:27 AM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-22T22:27:34.301624-04:00.jpg">July 23 at 5:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-22 17:02:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-22T10:02:27.094524-04:00.jpg">Jul 22 at 5:02 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-22T10:02:27.094524-04:00.jpg">July 22 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-22 05:22:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-21T22:22:06.776197-04:00.jpg">Jul 22 at 5:22 AM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-21T22:22:06.776197-04:00.jpg">July 22 at 5:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-21 17:09:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-21T10:09:40.471969-04:00.jpg">Jul 21 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-21T10:09:40.471969-04:00.jpg">July 21 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-21 05:24:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-20T22:24:17.616237-04:00.jpg">Jul 21 at 5:24 AM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-20T22:24:17.616237-04:00.jpg">July 21 at 5:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-20 17:24:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-20T10:24:21.749122-04:00.jpg">Jul 20 at 5:24 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-20T10:24:21.749122-04:00.jpg">July 20 at 5:24 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Global News at 2022-07-20 05:18:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-19T22:18:26.529435-04:00.jpg">Jul 20 at 5:18 AM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-19T22:18:26.529435-04:00.jpg">July 20 at 5:18 AM</a></p>
 </div>
 
 </div>

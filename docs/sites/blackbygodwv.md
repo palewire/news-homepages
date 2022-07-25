@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-25 14:00:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.jpg">Jul 25 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-25T06:59:59.169741-04:00.jpg">July 25 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-25 03:51:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.jpg">Jul 25 at 3:51 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T20:51:41.565144-04:00.jpg">July 25 at 3:51 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-24 13:58:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.jpg">Jul 24 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-24T06:58:45.034456-04:00.jpg">July 24 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-24 02:01:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.jpg">Jul 24 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T19:01:06.451619-04:00.jpg">July 24 at 2:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-23 15:58:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T08:58:30.668979-04:00.jpg">Jul 23 at 3:58 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-23T08:58:30.668979-04:00.jpg">July 23 at 3:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-23 03:58:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T20:58:30.822799-04:00.jpg">Jul 23 at 3:58 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T20:58:30.822799-04:00.jpg">July 23 at 3:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-22 15:59:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T08:59:14.668719-04:00.jpg">Jul 22 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-22T08:59:14.668719-04:00.jpg">July 22 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-22 04:06:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T21:06:49.815042-04:00.jpg">Jul 22 at 4:06 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T21:06:49.815042-04:00.jpg">July 22 at 4:06 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-21 15:53:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T08:53:23.100670-04:00.jpg">Jul 21 at 3:53 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-21T08:53:23.100670-04:00.jpg">July 21 at 3:53 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-21 04:05:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-20T21:05:43.788816-04:00.jpg">Jul 21 at 4:05 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-20T21:05:43.788816-04:00.jpg">July 21 at 4:05 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-20 15:53:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-20T08:53:12.963713-04:00.jpg">Jul 20 at 3:53 PM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-20T08:53:12.963713-04:00.jpg">July 20 at 3:53 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Black by God at 2022-07-20 04:00:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-19T21:00:57.618031-04:00.jpg">Jul 20 at 4:00 AM</a></p>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-07-19T21:00:57.618031-04:00.jpg">July 20 at 4:00 AM</a></p>
 </div>
 
 </div>

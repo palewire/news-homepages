@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-25 14:06:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-25T07:06:35.253036-05:00.jpg">Jul 25 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-25T07:06:35.253036-05:00.jpg">July 25 at 2:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-25 03:12:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-24T20:12:02.384187-05:00.jpg">Jul 25 at 3:12 AM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-24T20:12:02.384187-05:00.jpg">July 25 at 3:12 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-24 17:45:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-24T10:45:48.782083-05:00.jpg">Jul 24 at 5:45 PM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-24T10:45:48.782083-05:00.jpg">July 24 at 5:45 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-24 14:03:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-24T07:03:21.059244-05:00.jpg">Jul 24 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-24T07:03:21.059244-05:00.jpg">July 24 at 2:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-24 08:33:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-24T01:33:39.394623-05:00.jpg">Jul 24 at 8:33 AM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-24T01:33:39.394623-05:00.jpg">July 24 at 8:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-23 16:03:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-23T09:03:13.984304-05:00.jpg">Jul 23 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-23T09:03:13.984304-05:00.jpg">July 23 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-23 04:28:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-22T21:28:52.789418-05:00.jpg">Jul 23 at 4:28 AM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-22T21:28:52.789418-05:00.jpg">July 23 at 4:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-22 18:23:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-22T11:23:43.719083-05:00.jpg">Jul 22 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-22T11:23:43.719083-05:00.jpg">July 22 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-22 16:03:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-22T09:03:46.585951-05:00.jpg">Jul 22 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-22T09:03:46.585951-05:00.jpg">July 22 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-22 04:23:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-21T21:23:12.331391-05:00.jpg">Jul 22 at 4:23 AM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-21T21:23:12.331391-05:00.jpg">July 22 at 4:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-21 18:49:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-21T11:49:52.742108-05:00.jpg">Jul 21 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-21T11:49:52.742108-05:00.jpg">July 21 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Injustice Watch at 2022-07-21 16:13:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-21T09:13:25.220411-05:00.jpg">Jul 21 at 4:13 PM</a></p>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-07-21T09:13:25.220411-05:00.jpg">July 21 at 4:13 PM</a></p>
 </div>
 
 </div>

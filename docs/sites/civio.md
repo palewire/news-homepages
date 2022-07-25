@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-25 20:03:19+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-25T13:03:11.323583+02:00.jpg">Jul 25 at 8:03 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-25T13:03:11.323583+02:00.jpg">July 25 at 8:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-25 09:55:11+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-25T02:55:09.904148+02:00.jpg">Jul 25 at 9:55 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-25T02:55:09.904148+02:00.jpg">July 25 at 9:55 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-24 20:01:29+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-24T13:01:27.233146+02:00.jpg">Jul 24 at 8:01 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-24T13:01:27.233146+02:00.jpg">July 24 at 8:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-24 08:03:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-24T01:03:50.762602+02:00.jpg">Jul 24 at 8:03 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-24T01:03:50.762602+02:00.jpg">July 24 at 8:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-23 22:01:59+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-23T15:01:57.799326+02:00.jpg">Jul 23 at 10:01 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-23T15:01:57.799326+02:00.jpg">July 23 at 10:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-23 10:01:39+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-23T03:01:37.844309+02:00.jpg">Jul 23 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-23T03:01:37.844309+02:00.jpg">July 23 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-22 22:01:26+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-22T15:01:25.420518+02:00.jpg">Jul 22 at 10:01 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-22T15:01:25.420518+02:00.jpg">July 22 at 10:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-22 10:09:32+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-22T03:09:30.689468+02:00.jpg">Jul 22 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-22T03:09:30.689468+02:00.jpg">July 22 at 10:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-21 21:55:12+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-21T14:55:10.382015+02:00.jpg">Jul 21 at 9:55 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-21T14:55:10.382015+02:00.jpg">July 21 at 9:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-21 10:07:39+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-21T03:07:37.606661+02:00.jpg">Jul 21 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-21T03:07:37.606661+02:00.jpg">July 21 at 10:07 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-20 21:55:42+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-20T14:55:40.534138+02:00.jpg">Jul 20 at 9:55 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-20T14:55:40.534138+02:00.jpg">July 20 at 9:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Civio at 2022-07-20 10:03:05+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-07-20T03:03:04.966251+02:00.jpg">Jul 20 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-07-20T03:03:04.966251+02:00.jpg">July 20 at 10:03 AM</a></p>
 </div>
 
 </div>

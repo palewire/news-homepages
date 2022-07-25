@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-25 14:04:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-25T07:03:52.104994-05:00.jpg">Jul 25 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-25T07:03:52.104994-05:00.jpg">July 25 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-25 03:08:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-24T20:08:02.935720-05:00.jpg">Jul 25 at 3:08 AM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-24T20:08:02.935720-05:00.jpg">July 25 at 3:08 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-24 14:01:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-24T07:01:04.203700-05:00.jpg">Jul 24 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-24T07:01:04.203700-05:00.jpg">July 24 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-24 08:31:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-24T01:31:42.127761-05:00.jpg">Jul 24 at 8:31 AM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-24T01:31:42.127761-05:00.jpg">July 24 at 8:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-23 16:00:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-23T09:00:30.691566-05:00.jpg">Jul 23 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-23T09:00:30.691566-05:00.jpg">July 23 at 4:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-23 04:27:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-22T21:27:08.295522-05:00.jpg">Jul 23 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-22T21:27:08.295522-05:00.jpg">July 23 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-22 16:01:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-22T09:01:30.648209-05:00.jpg">Jul 22 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-22T09:01:30.648209-05:00.jpg">July 22 at 4:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-22 04:20:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-21T21:20:54.147819-05:00.jpg">Jul 22 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-21T21:20:54.147819-05:00.jpg">July 22 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-21 16:08:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-21T09:08:15.152022-05:00.jpg">Jul 21 at 4:08 PM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-21T09:08:15.152022-05:00.jpg">July 21 at 4:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-21 04:24:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-20T21:24:22.579651-05:00.jpg">Jul 21 at 4:24 AM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-20T21:24:22.579651-05:00.jpg">July 21 at 4:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-20 16:24:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-20T09:24:11.210507-05:00.jpg">Jul 20 at 4:24 PM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-20T09:24:11.210507-05:00.jpg">July 20 at 4:24 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Green Bay Press-Gazette at 2022-07-20 04:18:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-19T21:18:04.167780-05:00.jpg">Jul 20 at 4:18 AM</a></p>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-07-19T21:18:04.167780-05:00.jpg">July 20 at 4:18 AM</a></p>
 </div>
 
 </div>

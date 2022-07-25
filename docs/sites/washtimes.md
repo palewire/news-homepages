@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-25 07:41:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T00:41:04.334981-04:00.jpg">Jul 25 at 7:41 AM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-25T00:41:04.334981-04:00.jpg">July 25 at 7:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-24 18:45:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-24T11:45:19.400786-04:00.jpg">Jul 24 at 6:45 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-24T11:45:19.400786-04:00.jpg">July 24 at 6:45 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-24 18:10:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-24T11:10:50.052090-04:00.jpg">Jul 24 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-24T11:10:50.052090-04:00.jpg">July 24 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-24 06:46:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T23:46:47.571987-04:00.jpg">Jul 24 at 6:46 AM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T23:46:47.571987-04:00.jpg">July 24 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-23 19:11:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T12:11:55.294820-04:00.jpg">Jul 23 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T12:11:55.294820-04:00.jpg">July 23 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-23 19:09:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T12:09:02.140651-04:00.jpg">Jul 23 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T12:09:02.140651-04:00.jpg">July 23 at 7:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-23 07:29:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T00:29:52.377572-04:00.jpg">Jul 23 at 7:29 AM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-23T00:29:52.377572-04:00.jpg">July 23 at 7:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-22 19:25:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-22T12:25:55.105034-04:00.jpg">Jul 22 at 7:25 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-22T12:25:55.105034-04:00.jpg">July 22 at 7:25 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-22 19:21:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-22T12:21:24.882669-04:00.jpg">Jul 22 at 7:21 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-22T12:21:24.882669-04:00.jpg">July 22 at 7:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-22 07:35:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-22T00:35:48.023681-04:00.jpg">Jul 22 at 7:35 AM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-22T00:35:48.023681-04:00.jpg">July 22 at 7:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-21 20:02:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-21T13:02:21.477339-04:00.jpg">Jul 21 at 8:02 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-21T13:02:21.477339-04:00.jpg">July 21 at 8:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Washington Times at 2022-07-21 19:59:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-21T12:59:19.169920-04:00.jpg">Jul 21 at 7:59 PM</a></p>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-07-21T12:59:19.169920-04:00.jpg">July 21 at 7:59 PM</a></p>
 </div>
 
 </div>

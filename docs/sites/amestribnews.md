@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-25 12:57:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-25T05:57:20.011879-05:00.jpg">Jul 25 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-25T05:57:20.011879-05:00.jpg">July 25 at 12:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-25 02:46:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-24T19:46:04.887845-05:00.jpg">Jul 25 at 2:46 AM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-24T19:46:04.887845-05:00.jpg">July 25 at 2:46 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-24 12:56:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-24T05:56:01.609249-05:00.jpg">Jul 24 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-24T05:56:01.609249-05:00.jpg">July 24 at 12:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-24 00:57:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-23T17:57:38.674882-05:00.jpg">Jul 24 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-23T17:57:38.674882-05:00.jpg">July 24 at 12:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-23 14:55:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-23T07:55:28.709831-05:00.jpg">Jul 23 at 2:55 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-23T07:55:28.709831-05:00.jpg">July 23 at 2:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-23 02:55:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-22T19:55:46.437394-05:00.jpg">Jul 23 at 2:55 AM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-22T19:55:46.437394-05:00.jpg">July 23 at 2:55 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-22 18:12:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-22T11:12:52.773301-05:00.jpg">Jul 22 at 6:12 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-22T11:12:52.773301-05:00.jpg">July 22 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-22 14:54:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-22T07:54:30.425197-05:00.jpg">Jul 22 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-22T07:54:30.425197-05:00.jpg">July 22 at 2:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-22 03:03:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-21T20:03:44.100822-05:00.jpg">Jul 22 at 3:03 AM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-21T20:03:44.100822-05:00.jpg">July 22 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-21 14:50:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-21T07:50:42.617493-05:00.jpg">Jul 21 at 2:50 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-21T07:50:42.617493-05:00.jpg">July 21 at 2:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-21 03:02:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-20T20:02:51.060238-05:00.jpg">Jul 21 at 3:02 AM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-20T20:02:51.060238-05:00.jpg">July 21 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Ames Tribune at 2022-07-20 18:54:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-20T11:54:26.072249-05:00.jpg">Jul 20 at 6:54 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-20T11:54:26.072249-05:00.jpg">July 20 at 6:54 PM</a></p>
 </div>
 
 </div>

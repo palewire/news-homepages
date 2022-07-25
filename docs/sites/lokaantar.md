@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Lokantar at 2022-07-25 16:15:43+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-07-25T09:15:42.689739+05:45.jpg">Jul 25 at 4:15 PM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-07-25T09:15:42.689739+05:45.jpg">July 25 at 4:15 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Lokantar at 2022-07-25 09:22:32+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-07-25T02:22:26.616585+05:45.jpg">Jul 25 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-07-25T02:22:26.616585+05:45.jpg">July 25 at 9:22 AM</a></p>
 </div>
 
 </div>

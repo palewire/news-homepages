@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-25 06:37:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T23:37:11.135722-05:00.jpg">Jul 25 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T23:37:11.135722-05:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-24 17:06:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T10:06:54.917810-05:00.jpg">Jul 24 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-24T10:06:54.917810-05:00.jpg">July 24 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-24 05:42:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T22:42:38.803485-05:00.jpg">Jul 24 at 5:42 AM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T22:42:38.803485-05:00.jpg">July 24 at 5:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-23 18:06:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T11:06:36.724182-05:00.jpg">Jul 23 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-23T11:06:36.724182-05:00.jpg">July 23 at 6:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-23 06:25:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T23:25:38.373353-05:00.jpg">Jul 23 at 6:25 AM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T23:25:38.373353-05:00.jpg">July 23 at 6:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-22 18:18:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T11:18:12.272115-05:00.jpg">Jul 22 at 6:18 PM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-22T11:18:12.272115-05:00.jpg">July 22 at 6:18 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-22 06:32:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T23:32:10.261216-05:00.jpg">Jul 22 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T23:32:10.261216-05:00.jpg">July 22 at 6:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-21 18:55:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T11:55:40.833738-05:00.jpg">Jul 21 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-21T11:55:40.833738-05:00.jpg">July 21 at 6:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-21 06:29:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T23:29:49.397501-05:00.jpg">Jul 21 at 6:29 AM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T23:29:49.397501-05:00.jpg">July 21 at 6:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-20 18:46:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T11:46:27.046968-05:00.jpg">Jul 20 at 6:46 PM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-20T11:46:27.046968-05:00.jpg">July 20 at 6:46 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-20 06:22:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-19T23:22:23.070117-05:00.jpg">Jul 20 at 6:22 AM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-19T23:22:23.070117-05:00.jpg">July 20 at 6:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Oklahoman at 2022-07-19 19:01:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-19T12:01:39.204077-05:00.jpg">Jul 19 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-07-19T12:01:39.204077-05:00.jpg">July 19 at 7:01 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-25 03:41:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-24T20:41:23.835237-07:00.jpg">Jul 25 at 3:41 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-24T20:41:23.835237-07:00.jpg">July 25 at 3:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-24 14:01:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-24T07:01:54.249034-07:00.jpg">Jul 24 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-24T07:01:54.249034-07:00.jpg">July 24 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-24 06:21:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-23T23:21:58.212035-07:00.jpg">Jul 24 at 6:21 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-23T23:21:58.212035-07:00.jpg">July 24 at 6:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-23 15:08:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-23T08:07:58.019146-07:00.jpg">Jul 23 at 3:08 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-23T08:07:58.019146-07:00.jpg">July 23 at 3:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-23 03:37:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-22T20:37:51.317443-07:00.jpg">Jul 23 at 3:37 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-22T20:37:51.317443-07:00.jpg">July 23 at 3:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-22 15:03:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-22T08:03:42.686430-07:00.jpg">Jul 22 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-22T08:03:42.686430-07:00.jpg">July 22 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-22 03:42:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-21T20:42:27.859188-07:00.jpg">Jul 22 at 3:42 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-21T20:42:27.859188-07:00.jpg">July 22 at 3:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-21 15:39:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-21T08:39:19.242916-07:00.jpg">Jul 21 at 3:39 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-21T08:39:19.242916-07:00.jpg">July 21 at 3:39 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-21 03:40:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-20T20:40:43.040551-07:00.jpg">Jul 21 at 3:40 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-20T20:40:43.040551-07:00.jpg">July 21 at 3:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-20 16:15:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-20T09:15:26.754095-07:00.jpg">Jul 20 at 4:15 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-20T09:15:26.754095-07:00.jpg">July 20 at 4:15 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-20 03:38:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-19T20:38:01.086030-07:00.jpg">Jul 20 at 3:38 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-19T20:38:01.086030-07:00.jpg">July 20 at 3:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Las Vegas Review-Journal at 2022-07-19 15:49:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-19T08:48:59.456284-07:00.jpg">Jul 19 at 3:49 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-07-19T08:48:59.456284-07:00.jpg">July 19 at 3:49 PM</a></p>
 </div>
 
 </div>

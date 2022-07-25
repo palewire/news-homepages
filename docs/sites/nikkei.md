@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-25 19:37:06+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-25T12:37:04.957262+09:00.jpg">Jul 25 at 7:37 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-25T12:37:04.957262+09:00.jpg">July 25 at 7:37 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-25 19:36:45+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-25T12:36:44.736339+09:00.jpg">Jul 25 at 7:36 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-25T12:36:44.736339+09:00.jpg">July 25 at 7:36 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-25 05:05:36+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-24T22:05:34.724229+09:00.jpg">Jul 25 at 5:05 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-24T22:05:34.724229+09:00.jpg">July 25 at 5:05 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-24 20:21:42+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-24T13:21:40.530734+09:00.jpg">Jul 24 at 8:21 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-24T13:21:40.530734+09:00.jpg">July 24 at 8:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-24 18:26:07+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-24T11:26:05.529197+09:00.jpg">Jul 24 at 6:26 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-24T11:26:05.529197+09:00.jpg">July 24 at 6:26 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-24 07:04:18+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-24T00:04:17.830999+09:00.jpg">Jul 24 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-24T00:04:17.830999+09:00.jpg">July 24 at 7:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-23 19:34:05+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-23T12:34:03.637378+09:00.jpg">Jul 23 at 7:34 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-23T12:34:03.637378+09:00.jpg">July 23 at 7:34 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-23 17:34:55+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-23T10:34:53.618855+09:00.jpg">Jul 23 at 5:34 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-23T10:34:53.618855+09:00.jpg">July 23 at 5:34 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-23 06:59:58+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-22T23:59:57.586764+09:00.jpg">Jul 23 at 6:59 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-22T23:59:57.586764+09:00.jpg">July 23 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-22 19:38:30+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-22T12:38:28.941622+09:00.jpg">Jul 22 at 7:38 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-22T12:38:28.941622+09:00.jpg">July 22 at 7:38 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-22 17:33:58+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-22T10:33:56.775199+09:00.jpg">Jul 22 at 5:33 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-22T10:33:56.775199+09:00.jpg">July 22 at 5:33 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Nikkei at 2022-07-22 07:33:41+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-22T00:33:39.634344+09:00.jpg">Jul 22 at 7:33 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-07-22T00:33:39.634344+09:00.jpg">July 22 at 7:33 AM</a></p>
 </div>
 
 </div>

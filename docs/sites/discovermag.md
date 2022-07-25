@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-25 15:00:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-25T07:59:58.394443-04:00.jpg">Jul 25 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-25T07:59:58.394443-04:00.jpg">July 25 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-25 04:00:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-24T21:00:26.322760-04:00.jpg">Jul 25 at 4:00 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-24T21:00:26.322760-04:00.jpg">July 25 at 4:00 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-24 14:57:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-24T07:57:38.217953-04:00.jpg">Jul 24 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-24T07:57:38.217953-04:00.jpg">July 24 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-24 09:27:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-24T02:27:21.622149-04:00.jpg">Jul 24 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-24T02:27:21.622149-04:00.jpg">July 24 at 9:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-23 16:03:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-23T09:03:36.961059-04:00.jpg">Jul 23 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-23T09:03:36.961059-04:00.jpg">July 23 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-23 04:04:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-22T21:04:25.117913-04:00.jpg">Jul 23 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-22T21:04:25.117913-04:00.jpg">July 23 at 4:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-22 16:04:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-22T09:04:37.351096-04:00.jpg">Jul 22 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-22T09:04:37.351096-04:00.jpg">July 22 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-22 04:12:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-21T21:12:23.097158-04:00.jpg">Jul 22 at 4:12 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-21T21:12:23.097158-04:00.jpg">July 22 at 4:12 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-21 15:57:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-21T08:57:39.722504-04:00.jpg">Jul 21 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-21T08:57:39.722504-04:00.jpg">July 21 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-21 04:12:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-20T21:12:00.699677-04:00.jpg">Jul 21 at 4:12 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-20T21:12:00.699677-04:00.jpg">July 21 at 4:12 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-20 15:57:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-20T08:57:46.546270-04:00.jpg">Jul 20 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-20T08:57:46.546270-04:00.jpg">July 20 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Discover at 2022-07-20 04:05:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-19T21:05:10.727962-04:00.jpg">Jul 20 at 4:05 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-07-19T21:05:10.727962-04:00.jpg">July 20 at 4:05 AM</a></p>
 </div>
 
 </div>

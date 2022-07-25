@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-25 07:34:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-25T00:34:55.725171-04:00.jpg">Jul 25 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-25T00:34:55.725171-04:00.jpg">July 25 at 7:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-24 18:05:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-24T11:05:14.653289-04:00.jpg">Jul 24 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-24T11:05:14.653289-04:00.jpg">July 24 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-24 06:40:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-23T23:40:04.966952-04:00.jpg">Jul 24 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-23T23:40:04.966952-04:00.jpg">July 24 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-23 19:04:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-23T12:04:00.661169-04:00.jpg">Jul 23 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-23T12:04:00.661169-04:00.jpg">July 23 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-23 07:24:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-23T00:24:20.034731-04:00.jpg">Jul 23 at 7:24 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-23T00:24:20.034731-04:00.jpg">July 23 at 7:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-22 19:16:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-22T12:16:34.104700-04:00.jpg">Jul 22 at 7:16 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-22T12:16:34.104700-04:00.jpg">July 22 at 7:16 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-22 07:30:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-22T00:30:38.396239-04:00.jpg">Jul 22 at 7:30 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-22T00:30:38.396239-04:00.jpg">July 22 at 7:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-21 19:53:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-21T12:53:55.974993-04:00.jpg">Jul 21 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-21T12:53:55.974993-04:00.jpg">July 21 at 7:53 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-21 07:28:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-21T00:28:30.576214-04:00.jpg">Jul 21 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-21T00:28:30.576214-04:00.jpg">July 21 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-20 19:44:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-20T12:44:47.572109-04:00.jpg">Jul 20 at 7:44 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-20T12:44:47.572109-04:00.jpg">July 20 at 7:44 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-19 20:00:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-19T13:00:55.078197-04:00.jpg">Jul 19 at 8:00 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-19T13:00:55.078197-04:00.jpg">July 19 at 8:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="74th at 2022-07-19 07:25:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-07-19T00:25:23.021418-04:00.jpg">Jul 19 at 7:25 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-07-19T00:25:23.021418-04:00.jpg">July 19 at 7:25 AM</a></p>
 </div>
 
 </div>

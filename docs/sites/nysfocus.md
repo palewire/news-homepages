@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-25 06:37:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-24T23:37:49.331021-04:00.jpg">Jul 25 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-24T23:37:49.331021-04:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-24 16:58:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-24T09:58:23.183458-04:00.jpg">Jul 24 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-24T09:58:23.183458-04:00.jpg">July 24 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-24 09:17:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-24T02:17:27.698653-04:00.jpg">Jul 24 at 9:17 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-24T02:17:27.698653-04:00.jpg">July 24 at 9:17 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-23 18:04:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-23T11:04:57.652039-04:00.jpg">Jul 23 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-23T11:04:57.652039-04:00.jpg">July 23 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-23 06:34:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-22T23:34:45.694010-04:00.jpg">Jul 23 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-22T23:34:45.694010-04:00.jpg">July 23 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-22 18:00:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-22T11:00:08.513421-04:00.jpg">Jul 22 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-22T11:00:08.513421-04:00.jpg">July 22 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-22 06:39:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-21T23:39:31.040275-04:00.jpg">Jul 22 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-21T23:39:31.040275-04:00.jpg">July 22 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-21 18:35:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-21T11:34:56.673025-04:00.jpg">Jul 21 at 6:35 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-21T11:34:56.673025-04:00.jpg">July 21 at 6:35 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-21 06:37:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-20T23:37:38.317046-04:00.jpg">Jul 21 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-20T23:37:38.317046-04:00.jpg">July 21 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-20 19:11:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-20T12:11:36.412445-04:00.jpg">Jul 20 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-20T12:11:36.412445-04:00.jpg">July 20 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-20 06:35:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-19T23:35:00.332895-04:00.jpg">Jul 20 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-19T23:35:00.332895-04:00.jpg">July 20 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="New York Focus at 2022-07-19 18:45:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-19T11:45:48.278586-04:00.jpg">Jul 19 at 6:45 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-07-19T11:45:48.278586-04:00.jpg">July 19 at 6:45 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-25 15:01:37-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-25T08:01:33.441047-03:00.jpg">Jul 25 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-25T08:01:33.441047-03:00.jpg">July 25 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-25 04:54:11-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-24T21:54:07.643168-03:00.jpg">Jul 25 at 4:54 AM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-24T21:54:07.643168-03:00.jpg">July 25 at 4:54 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-24 15:02:03-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-24T08:01:54.308910-03:00.jpg">Jul 24 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-24T08:01:54.308910-03:00.jpg">July 24 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-24 03:02:53-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-23T20:02:51.601251-03:00.jpg">Jul 24 at 3:02 AM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-23T20:02:51.601251-03:00.jpg">July 24 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-23 16:59:45-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-23T09:59:44.021268-03:00.jpg">Jul 23 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-23T09:59:44.021268-03:00.jpg">July 23 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-23 05:00:25-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-22T22:00:23.728671-03:00.jpg">Jul 23 at 5:00 AM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-22T22:00:23.728671-03:00.jpg">July 23 at 5:00 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-22 17:00:03-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-22T10:00:01.675374-03:00.jpg">Jul 22 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-22T10:00:01.675374-03:00.jpg">July 22 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-22 05:08:00-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-21T22:07:58.608254-03:00.jpg">Jul 22 at 5:08 AM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-21T22:07:58.608254-03:00.jpg">July 22 at 5:08 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-21 16:54:26-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-21T09:54:24.628987-03:00.jpg">Jul 21 at 4:54 PM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-21T09:54:24.628987-03:00.jpg">July 21 at 4:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-21 05:06:44-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-20T22:06:42.687891-03:00.jpg">Jul 21 at 5:06 AM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-20T22:06:42.687891-03:00.jpg">July 21 at 5:06 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-20 16:54:33-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-20T09:54:31.920260-03:00.jpg">Jul 20 at 4:54 PM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-20T09:54:31.920260-03:00.jpg">July 20 at 4:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Chequeado at 2022-07-20 05:01:57-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-19T22:01:56.127293-03:00.jpg">Jul 20 at 5:01 AM</a></p>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-07-19T22:01:56.127293-03:00.jpg">July 20 at 5:01 AM</a></p>
 </div>
 
 </div>

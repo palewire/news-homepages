@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-25 17:09:15+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-25T10:09:11.784770+02:00.jpg">Jul 25 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-25T10:09:11.784770+02:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-25 12:30:15+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-25T05:30:12.979691+02:00.jpg">Jul 25 at 12:30 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-25T05:30:12.979691+02:00.jpg">July 25 at 12:30 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-24 22:01:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-24T15:01:46.791991+02:00.jpg">Jul 24 at 10:01 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-24T15:01:46.791991+02:00.jpg">July 24 at 10:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-24 17:09:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-24T10:09:40.476502+02:00.jpg">Jul 24 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-24T10:09:40.476502+02:00.jpg">July 24 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-24 13:17:26+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-24T06:17:20.229772+02:00.jpg">Jul 24 at 1:17 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-24T06:17:20.229772+02:00.jpg">July 24 at 1:17 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-24 00:00:25+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-23T17:00:19.675017+02:00.jpg">Jul 24 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-23T17:00:19.675017+02:00.jpg">July 24 at 12:00 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-23 17:06:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-23T10:06:48.342504+02:00.jpg">Jul 23 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-23T10:06:48.342504+02:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-23 12:30:38+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-23T05:30:34.795939+02:00.jpg">Jul 23 at 12:30 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-23T05:30:34.795939+02:00.jpg">July 23 at 12:30 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-22 23:55:47+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-22T16:55:45.997581+02:00.jpg">Jul 22 at 11:55 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-22T16:55:45.997581+02:00.jpg">July 22 at 11:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-22 17:07:23+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-22T10:07:20.854001+02:00.jpg">Jul 22 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-22T10:07:20.854001+02:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-22 12:34:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-22T05:34:45.230011+02:00.jpg">Jul 22 at 12:34 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-22T05:34:45.230011+02:00.jpg">July 22 at 12:34 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="L’Obs at 2022-07-22 00:27:45+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-21T17:27:41.865826+02:00.jpg">Jul 22 at 12:27 AM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-07-21T17:27:41.865826+02:00.jpg">July 22 at 12:27 AM</a></p>
 </div>
 
 </div>

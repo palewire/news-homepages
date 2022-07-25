@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Setopati at 2022-07-25 16:28:13+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T09:28:12.225560+05:45.jpg">Jul 25 at 4:28 PM</a></p>
+ <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T09:28:12.225560+05:45.jpg">July 25 at 4:28 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Setopati at 2022-07-25 09:24:23+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T02:24:17.646796+05:45.jpg">Jul 25 at 9:24 AM</a></p>
+ <p><a href="https://archive.org/download/setopati-2022/setopati-2022-07-25T02:24:17.646796+05:45.jpg">July 25 at 9:24 AM</a></p>
 </div>
 
 </div>

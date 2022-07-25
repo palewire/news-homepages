@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-25 12:03:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.jpg">Jul 25 at 12:03 PM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-25T05:03:10.688231-07:00.jpg">July 25 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-25 01:05:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.jpg">Jul 25 at 1:05 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T18:05:22.234044-07:00.jpg">July 25 at 1:05 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-24 18:20:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T11:20:46.043389-07:00.jpg">Jul 24 at 6:20 PM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T11:20:46.043389-07:00.jpg">July 24 at 6:20 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-24 11:59:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T04:59:55.796372-07:00.jpg">Jul 24 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-24T04:59:55.796372-07:00.jpg">July 24 at 11:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-24 06:30:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-23T23:30:01.698889-07:00.jpg">Jul 24 at 6:30 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-23T23:30:01.698889-07:00.jpg">July 24 at 6:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-23 18:23:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-23T11:23:13.155499-07:00.jpg">Jul 23 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-23T11:23:13.155499-07:00.jpg">July 23 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-23 13:59:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-23T06:59:17.420446-07:00.jpg">Jul 23 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-23T06:59:17.420446-07:00.jpg">July 23 at 1:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-23 02:25:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-22T19:25:47.541761-07:00.jpg">Jul 23 at 2:25 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-22T19:25:47.541761-07:00.jpg">July 23 at 2:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-22 18:08:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-22T11:08:50.931776-07:00.jpg">Jul 22 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-22T11:08:50.931776-07:00.jpg">July 22 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-22 14:00:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-22T07:00:56.859825-07:00.jpg">Jul 22 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-22T07:00:56.859825-07:00.jpg">July 22 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-22 02:21:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-21T19:21:05.986187-07:00.jpg">Jul 22 at 2:21 AM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-21T19:21:05.986187-07:00.jpg">July 22 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="FOX 11 Los Angeles at 2022-07-21 18:08:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-21T11:08:48.501912-07:00.jpg">Jul 21 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-07-21T11:08:48.501912-07:00.jpg">July 21 at 6:08 PM</a></p>
 </div>
 
 </div>

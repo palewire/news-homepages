@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-25 14:58:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T07:58:41.966177-04:00.jpg">Jul 25 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-25T07:58:41.966177-04:00.jpg">July 25 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-25 03:57:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T20:57:54.464942-04:00.jpg">Jul 25 at 3:57 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T20:57:54.464942-04:00.jpg">July 25 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-24 14:56:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T07:56:10.145792-04:00.jpg">Jul 24 at 2:56 PM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T07:56:10.145792-04:00.jpg">July 24 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-24 09:25:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T02:25:55.478427-04:00.jpg">Jul 24 at 9:25 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-24T02:25:55.478427-04:00.jpg">July 24 at 9:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-23 16:02:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-23T09:02:10.134718-04:00.jpg">Jul 23 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-23T09:02:10.134718-04:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-23 04:02:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T21:02:56.222154-04:00.jpg">Jul 23 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T21:02:56.222154-04:00.jpg">July 23 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-22 16:02:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T09:02:44.574772-04:00.jpg">Jul 22 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-22T09:02:44.574772-04:00.jpg">July 22 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-22 04:10:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T21:10:15.554896-04:00.jpg">Jul 22 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T21:10:15.554896-04:00.jpg">July 22 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-21 15:56:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T08:56:26.811562-04:00.jpg">Jul 21 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-21T08:56:26.811562-04:00.jpg">July 21 at 3:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-21 04:09:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-20T21:09:10.378921-04:00.jpg">Jul 21 at 4:09 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-20T21:09:10.378921-04:00.jpg">July 21 at 4:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-20 15:56:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-20T08:56:40.046740-04:00.jpg">Jul 20 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-20T08:56:40.046740-04:00.jpg">July 20 at 3:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="CTV News at 2022-07-20 04:04:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-19T21:04:10.065593-04:00.jpg">Jul 20 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-07-19T21:04:10.065593-04:00.jpg">July 20 at 4:04 AM</a></p>
 </div>
 
 </div>

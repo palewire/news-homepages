@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-25 07:42:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T00:42:14.640339-04:00.jpg">Jul 25 at 7:42 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-25T00:42:14.640339-04:00.jpg">July 25 at 7:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-25 00:47:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-24T17:47:43.659778-04:00.jpg">Jul 25 at 12:47 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-24T17:47:43.659778-04:00.jpg">July 25 at 12:47 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-25 00:41:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-24T17:41:03.107271-04:00.jpg">Jul 25 at 12:41 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-24T17:41:03.107271-04:00.jpg">July 25 at 12:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-25 00:20:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-24T17:20:25.903827-04:00.jpg">Jul 25 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-24T17:20:25.903827-04:00.jpg">July 25 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-24 18:13:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-24T11:13:47.593054-04:00.jpg">Jul 24 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-24T11:13:47.593054-04:00.jpg">July 24 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-24 18:12:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-24T11:12:20.173965-04:00.jpg">Jul 24 at 6:12 PM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-24T11:12:20.173965-04:00.jpg">July 24 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-24 06:47:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T23:47:40.366126-04:00.jpg">Jul 24 at 6:47 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T23:47:40.366126-04:00.jpg">July 24 at 6:47 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-24 00:16:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T17:16:34.738394-04:00.jpg">Jul 24 at 12:16 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T17:16:34.738394-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-23 19:10:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T12:10:27.132274-04:00.jpg">Jul 23 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T12:10:27.132274-04:00.jpg">July 23 at 7:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-23 17:59:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T10:59:26.716031-04:00.jpg">Jul 23 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T10:59:26.716031-04:00.jpg">July 23 at 5:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-23 07:29:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T00:29:31.361636-04:00.jpg">Jul 23 at 7:29 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-23T00:29:31.361636-04:00.jpg">July 23 at 7:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Wall Street Journal at 2022-07-23 00:09:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-22T17:09:08.265385-04:00.jpg">Jul 23 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-07-22T17:09:08.265385-04:00.jpg">July 23 at 12:09 AM</a></p>
 </div>
 
 </div>

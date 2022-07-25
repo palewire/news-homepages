@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-25 04:39:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-24T21:39:46.612503-07:00.jpg">Jul 25 at 4:39 AM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-24T21:39:46.612503-07:00.jpg">July 25 at 4:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-24 18:21:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-24T11:21:26.205134-07:00.jpg">Jul 24 at 6:21 PM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-24T11:21:26.205134-07:00.jpg">July 24 at 6:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-24 15:09:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-24T08:09:46.056707-07:00.jpg">Jul 24 at 3:09 PM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-24T08:09:46.056707-07:00.jpg">July 24 at 3:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-24 03:45:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-23T20:45:36.831687-07:00.jpg">Jul 24 at 3:45 AM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-23T20:45:36.831687-07:00.jpg">July 24 at 3:45 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-23 18:24:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-23T11:24:35.325109-07:00.jpg">Jul 23 at 6:24 PM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-23T11:24:35.325109-07:00.jpg">July 23 at 6:24 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-23 16:08:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-23T09:08:15.732636-07:00.jpg">Jul 23 at 4:08 PM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-23T09:08:15.732636-07:00.jpg">July 23 at 4:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-23 04:28:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T21:28:06.424655-07:00.jpg">Jul 23 at 4:28 AM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T21:28:06.424655-07:00.jpg">July 23 at 4:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-22 18:08:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T11:08:35.771047-07:00.jpg">Jul 22 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T11:08:35.771047-07:00.jpg">July 22 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-22 16:21:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T09:21:04.296616-07:00.jpg">Jul 22 at 4:21 PM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-22T09:21:04.296616-07:00.jpg">July 22 at 4:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-22 04:34:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T21:34:30.736104-07:00.jpg">Jul 22 at 4:34 AM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T21:34:30.736104-07:00.jpg">July 22 at 4:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-21 18:09:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T11:09:47.951069-07:00.jpg">Jul 21 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T11:09:47.951069-07:00.jpg">July 21 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Ventura County Star at 2022-07-21 16:58:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T09:58:20.904069-07:00.jpg">Jul 21 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-07-21T09:58:20.904069-07:00.jpg">July 21 at 4:58 PM</a></p>
 </div>
 
 </div>

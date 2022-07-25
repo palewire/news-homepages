@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-25 05:38:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T22:38:48.502833-05:00.jpg">Jul 25 at 5:38 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T22:38:48.502833-05:00.jpg">July 25 at 5:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-24 15:59:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T08:59:34.545174-05:00.jpg">Jul 24 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T08:59:34.545174-05:00.jpg">July 24 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-24 08:18:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T01:18:44.171363-05:00.jpg">Jul 24 at 8:18 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-24T01:18:44.171363-05:00.jpg">July 24 at 8:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-23 17:06:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-23T10:06:39.185355-05:00.jpg">Jul 23 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-23T10:06:39.185355-05:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-23 05:35:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T22:35:31.388238-05:00.jpg">Jul 23 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T22:35:31.388238-05:00.jpg">July 23 at 5:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-22 18:13:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T11:13:21.964690-05:00.jpg">Jul 22 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T11:13:21.964690-05:00.jpg">July 22 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-22 17:01:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T10:01:11.389072-05:00.jpg">Jul 22 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-22T10:01:11.389072-05:00.jpg">July 22 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-22 05:39:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T22:39:48.827433-05:00.jpg">Jul 22 at 5:39 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T22:39:48.827433-05:00.jpg">July 22 at 5:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-21 17:36:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T10:36:02.189744-05:00.jpg">Jul 21 at 5:36 PM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-21T10:36:02.189744-05:00.jpg">July 21 at 5:36 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-21 05:38:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T22:38:55.955328-05:00.jpg">Jul 21 at 5:38 AM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T22:38:55.955328-05:00.jpg">July 21 at 5:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-20 18:55:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T11:55:04.298343-05:00.jpg">Jul 20 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T11:55:04.298343-05:00.jpg">July 20 at 6:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Ottumwa Courier at 2022-07-20 18:12:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T11:12:55.041278-05:00.jpg">Jul 20 at 6:12 PM</a></p>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-07-20T11:12:55.041278-05:00.jpg">July 20 at 6:12 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-25 17:09:09+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-25T10:09:07.464354+02:00.jpg">Jul 25 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-25T10:09:07.464354+02:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-25 12:41:25+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-25T05:41:19.894158+02:00.jpg">Jul 25 at 12:41 PM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-25T05:41:19.894158+02:00.jpg">July 25 at 12:41 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-24 23:02:04+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-24T16:02:03.133604+02:00.jpg">Jul 24 at 11:02 PM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-24T16:02:03.133604+02:00.jpg">July 24 at 11:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-24 17:10:49+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-24T10:10:48.385113+02:00.jpg">Jul 24 at 5:10 PM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-24T10:10:48.385113+02:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-24 15:22:00+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-24T08:21:59.435354+02:00.jpg">Jul 24 at 3:22 PM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-24T08:21:59.435354+02:00.jpg">July 24 at 3:22 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-24 00:08:31+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-23T17:08:30.175217+02:00.jpg">Jul 24 at 12:08 AM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-23T17:08:30.175217+02:00.jpg">July 24 at 12:08 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-23 17:07:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-23T10:07:50.313036+02:00.jpg">Jul 23 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-23T10:07:50.313036+02:00.jpg">July 23 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-23 12:37:57+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-23T05:37:56.207725+02:00.jpg">Jul 23 at 12:37 PM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-23T05:37:56.207725+02:00.jpg">July 23 at 12:37 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-23 00:04:04+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-22T17:04:03.558490+02:00.jpg">Jul 23 at 12:04 AM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-22T17:04:03.558490+02:00.jpg">July 23 at 12:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-22 17:07:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-22T10:07:04.957249+02:00.jpg">Jul 22 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-22T10:07:04.957249+02:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-22 12:42:41+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-22T05:42:39.609119+02:00.jpg">Jul 22 at 12:42 PM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-22T05:42:39.609119+02:00.jpg">July 22 at 12:42 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="RFI at 2022-07-22 00:38:53+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-21T17:38:49.672644+02:00.jpg">Jul 22 at 12:38 AM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-07-21T17:38:49.672644+02:00.jpg">July 22 at 12:38 AM</a></p>
 </div>
 
 </div>

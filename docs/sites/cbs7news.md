@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-25 13:01:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-25T06:01:38.712304-05:00.jpg">Jul 25 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-25T06:01:38.712304-05:00.jpg">July 25 at 1:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-25 02:53:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-24T19:53:10.733186-05:00.jpg">Jul 25 at 2:53 AM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-24T19:53:10.733186-05:00.jpg">July 25 at 2:53 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-24 13:00:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-24T06:00:56.970079-05:00.jpg">Jul 24 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-24T06:00:56.970079-05:00.jpg">July 24 at 1:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-24 01:03:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-23T18:03:06.186583-05:00.jpg">Jul 24 at 1:03 AM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-23T18:03:06.186583-05:00.jpg">July 24 at 1:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-23 14:59:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-23T07:59:30.809608-05:00.jpg">Jul 23 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-23T07:59:30.809608-05:00.jpg">July 23 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-23 03:00:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-22T20:00:28.017373-05:00.jpg">Jul 23 at 3:00 AM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-22T20:00:28.017373-05:00.jpg">July 23 at 3:00 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -88,7 +88,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-22 15:00:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-22T08:00:08.116883-05:00.jpg">Jul 22 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-22T08:00:08.116883-05:00.jpg">July 22 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,7 +97,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-22 03:08:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-21T20:08:04.409703-05:00.jpg">Jul 22 at 3:08 AM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-21T20:08:04.409703-05:00.jpg">July 22 at 3:08 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -106,7 +106,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-21 14:54:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-21T07:54:08.055991-05:00.jpg">Jul 21 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-21T07:54:08.055991-05:00.jpg">July 21 at 2:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -115,7 +115,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-21 03:06:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-20T20:06:29.616086-05:00.jpg">Jul 21 at 3:06 AM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-20T20:06:29.616086-05:00.jpg">July 21 at 3:06 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -124,7 +124,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-20 14:55:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-20T07:55:09.354746-05:00.jpg">Jul 20 at 2:55 PM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-20T07:55:09.354746-05:00.jpg">July 20 at 2:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -133,7 +133,7 @@ Here are the 12 most recent screenshots.
      alt="CBS7 at 2022-07-20 03:01:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-19T20:01:51.884258-05:00.jpg">Jul 20 at 3:01 AM</a></p>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-07-19T20:01:51.884258-05:00.jpg">July 20 at 3:01 AM</a></p>
 </div>
 
 </div>

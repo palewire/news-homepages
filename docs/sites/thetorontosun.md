@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-25 07:37:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-25T00:37:49.743773-04:00.jpg">Jul 25 at 7:37 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-25T00:37:49.743773-04:00.jpg">July 25 at 7:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-24 18:07:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-24T11:07:31.523245-04:00.jpg">Jul 24 at 6:07 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-24T11:07:31.523245-04:00.jpg">July 24 at 6:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-24 06:42:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T23:42:24.537011-04:00.jpg">Jul 24 at 6:42 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T23:42:24.537011-04:00.jpg">July 24 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-23 19:07:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T12:07:02.534093-04:00.jpg">Jul 23 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T12:07:02.534093-04:00.jpg">July 23 at 7:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-23 07:26:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T00:26:02.831798-04:00.jpg">Jul 23 at 7:26 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-23T00:26:02.831798-04:00.jpg">July 23 at 7:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-22 19:19:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-22T12:19:06.752663-04:00.jpg">Jul 22 at 7:19 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-22T12:19:06.752663-04:00.jpg">July 22 at 7:19 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-22 07:32:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-22T00:32:48.701801-04:00.jpg">Jul 22 at 7:32 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-22T00:32:48.701801-04:00.jpg">July 22 at 7:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-21 19:55:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-21T12:55:52.517951-04:00.jpg">Jul 21 at 7:55 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-21T12:55:52.517951-04:00.jpg">July 21 at 7:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-21 07:30:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-21T00:30:14.023541-04:00.jpg">Jul 21 at 7:30 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-21T00:30:14.023541-04:00.jpg">July 21 at 7:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-20 19:47:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-20T12:47:08.476591-04:00.jpg">Jul 20 at 7:47 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-20T12:47:08.476591-04:00.jpg">July 20 at 7:47 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-20 07:22:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-20T00:22:31.009224-04:00.jpg">Jul 20 at 7:22 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-20T00:22:31.009224-04:00.jpg">July 20 at 7:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Toronto Sun at 2022-07-19 20:01:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-19T13:01:38.160114-04:00.jpg">Jul 19 at 8:01 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-07-19T13:01:38.160114-04:00.jpg">July 19 at 8:01 PM</a></p>
 </div>
 
 </div>

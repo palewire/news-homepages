@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-25 14:59:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T07:59:41.075055-04:00.jpg">Jul 25 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-25T07:59:41.075055-04:00.jpg">July 25 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-25 04:01:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T21:01:12.268770-04:00.jpg">Jul 25 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T21:01:12.268770-04:00.jpg">July 25 at 4:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-24 14:57:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T07:57:39.263386-04:00.jpg">Jul 24 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T07:57:39.263386-04:00.jpg">July 24 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-24 09:27:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T02:27:23.594468-04:00.jpg">Jul 24 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-24T02:27:23.594468-04:00.jpg">July 24 at 9:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-23 16:04:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-23T09:04:43.621210-04:00.jpg">Jul 23 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-23T09:04:43.621210-04:00.jpg">July 23 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-23 04:04:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T21:04:00.136526-04:00.jpg">Jul 23 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T21:04:00.136526-04:00.jpg">July 23 at 4:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-22 16:03:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T09:03:46.227115-04:00.jpg">Jul 22 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-22T09:03:46.227115-04:00.jpg">July 22 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-22 04:11:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T21:11:49.296472-04:00.jpg">Jul 22 at 4:11 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T21:11:49.296472-04:00.jpg">July 22 at 4:11 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-21 15:57:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T08:57:14.477478-04:00.jpg">Jul 21 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-21T08:57:14.477478-04:00.jpg">July 21 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-21 04:10:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-20T21:10:47.202604-04:00.jpg">Jul 21 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-20T21:10:47.202604-04:00.jpg">July 21 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-20 15:58:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-20T08:58:13.116055-04:00.jpg">Jul 20 at 3:58 PM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-20T08:58:13.116055-04:00.jpg">July 20 at 3:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Decision Desk HQ at 2022-07-20 04:05:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-19T21:05:00.429157-04:00.jpg">Jul 20 at 4:05 AM</a></p>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-07-19T21:05:00.429157-04:00.jpg">July 20 at 4:05 AM</a></p>
 </div>
 
 </div>

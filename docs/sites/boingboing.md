@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-25 11:00:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-25T04:00:05.073213-07:00.jpg">Jul 25 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-25T04:00:05.073213-07:00.jpg">July 25 at 11:00 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-25 06:46:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-24T23:46:48.279316-07:00.jpg">Jul 25 at 6:46 AM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-24T23:46:48.279316-07:00.jpg">July 25 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-25 00:51:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-24T17:51:28.950547-07:00.jpg">Jul 25 at 12:51 AM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-24T17:51:28.950547-07:00.jpg">July 25 at 12:51 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-24 10:59:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-24T03:59:22.224102-07:00.jpg">Jul 24 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-24T03:59:22.224102-07:00.jpg">July 24 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-23 23:01:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-23T16:01:51.741692-07:00.jpg">Jul 23 at 11:01 PM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-23T16:01:51.741692-07:00.jpg">July 23 at 11:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-23 12:58:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-23T05:58:42.990398-07:00.jpg">Jul 23 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-23T05:58:42.990398-07:00.jpg">July 23 at 12:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-23 00:58:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-22T17:58:30.526288-07:00.jpg">Jul 23 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-22T17:58:30.526288-07:00.jpg">July 23 at 12:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-22 12:58:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-22T05:58:33.907392-07:00.jpg">Jul 22 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-22T05:58:33.907392-07:00.jpg">July 22 at 12:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-22 01:06:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-21T18:06:41.326958-07:00.jpg">Jul 22 at 1:06 AM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-21T18:06:41.326958-07:00.jpg">July 22 at 1:06 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-21 12:53:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-21T05:53:02.051677-07:00.jpg">Jul 21 at 12:53 PM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-21T05:53:02.051677-07:00.jpg">July 21 at 12:53 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-21 01:05:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-20T18:05:46.203619-07:00.jpg">Jul 21 at 1:05 AM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-20T18:05:46.203619-07:00.jpg">July 21 at 1:05 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Boing Boing at 2022-07-20 12:53:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-20T05:53:53.939136-07:00.jpg">Jul 20 at 12:53 PM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-07-20T05:53:53.939136-07:00.jpg">July 20 at 12:53 PM</a></p>
 </div>
 
 </div>

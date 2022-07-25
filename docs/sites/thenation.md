@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-25 07:37:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-25T00:36:59.531958-04:00.jpg">Jul 25 at 7:37 AM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-25T00:36:59.531958-04:00.jpg">July 25 at 7:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-24 18:43:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-24T11:43:33.438603-04:00.jpg">Jul 24 at 6:43 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-24T11:43:33.438603-04:00.jpg">July 24 at 6:43 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-24 18:06:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-24T11:06:52.110222-04:00.jpg">Jul 24 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-24T11:06:52.110222-04:00.jpg">July 24 at 6:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-24 06:41:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-23T23:41:39.279942-04:00.jpg">Jul 24 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-23T23:41:39.279942-04:00.jpg">July 24 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-23 21:13:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-23T14:13:57.812616-04:00.jpg">Jul 23 at 9:13 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-23T14:13:57.812616-04:00.jpg">July 23 at 9:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-23 19:05:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-23T12:05:50.726846-04:00.jpg">Jul 23 at 7:05 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-23T12:05:50.726846-04:00.jpg">July 23 at 7:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-23 07:26:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-23T00:26:01.404755-04:00.jpg">Jul 23 at 7:26 AM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-23T00:26:01.404755-04:00.jpg">July 23 at 7:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-22 19:18:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-22T12:18:08.042984-04:00.jpg">Jul 22 at 7:18 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-22T12:18:08.042984-04:00.jpg">July 22 at 7:18 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-22 19:12:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-22T12:12:39.912657-04:00.jpg">Jul 22 at 7:12 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-22T12:12:39.912657-04:00.jpg">July 22 at 7:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-22 07:32:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-22T00:32:10.546712-04:00.jpg">Jul 22 at 7:32 AM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-22T00:32:10.546712-04:00.jpg">July 22 at 7:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-21 19:55:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-21T12:55:31.003196-04:00.jpg">Jul 21 at 7:55 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-21T12:55:31.003196-04:00.jpg">July 21 at 7:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="The Nation at 2022-07-21 19:50:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-21T12:50:32.319209-04:00.jpg">Jul 21 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-07-21T12:50:32.319209-04:00.jpg">July 21 at 7:50 PM</a></p>
 </div>
 
 </div>

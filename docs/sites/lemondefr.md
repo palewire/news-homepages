@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-25 17:09:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T10:09:19.050791+02:00.jpg">Jul 25 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T10:09:19.050791+02:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-25 12:29:04+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T05:29:02.777522+02:00.jpg">Jul 25 at 12:29 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-25T05:29:02.777522+02:00.jpg">July 25 at 12:29 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-24 22:01:32+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T15:01:30.501365+02:00.jpg">Jul 24 at 10:01 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T15:01:30.501365+02:00.jpg">July 24 at 10:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-24 17:09:40+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T10:09:38.642350+02:00.jpg">Jul 24 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T10:09:38.642350+02:00.jpg">July 24 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-24 13:17:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T06:17:33.108890+02:00.jpg">Jul 24 at 1:17 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-24T06:17:33.108890+02:00.jpg">July 24 at 1:17 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-24 00:00:26+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T17:00:21.664550+02:00.jpg">Jul 24 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T17:00:21.664550+02:00.jpg">July 24 at 12:00 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-23 17:10:14+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T10:10:09.196104+02:00.jpg">Jul 23 at 5:10 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T10:10:09.196104+02:00.jpg">July 23 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-23 12:30:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T05:30:29.714977+02:00.jpg">Jul 23 at 12:30 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-23T05:30:29.714977+02:00.jpg">July 23 at 12:30 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-22 23:55:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T16:55:31.956425+02:00.jpg">Jul 22 at 11:55 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T16:55:31.956425+02:00.jpg">July 22 at 11:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-22 17:10:02+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T10:09:58.128275+02:00.jpg">Jul 22 at 5:10 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T10:09:58.128275+02:00.jpg">July 22 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-22 12:35:02+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T05:34:57.449811+02:00.jpg">Jul 22 at 12:35 PM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-22T05:34:57.449811+02:00.jpg">July 22 at 12:35 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Le Monde at 2022-07-22 00:28:01+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-21T17:28:00.465120+02:00.jpg">Jul 22 at 12:28 AM</a></p>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-07-21T17:28:00.465120+02:00.jpg">July 22 at 12:28 AM</a></p>
 </div>
 
 </div>

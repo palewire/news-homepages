@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-25 06:34:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-24T23:34:00.317071-04:00.jpg">Jul 25 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-24T23:34:00.317071-04:00.jpg">July 25 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-24 16:04:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-24T09:04:03.506104-04:00.jpg">Jul 24 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-24T09:04:03.506104-04:00.jpg">July 24 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-24 07:19:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-24T00:19:54.402410-04:00.jpg">Jul 24 at 7:19 AM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-24T00:19:54.402410-04:00.jpg">July 24 at 7:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-23 18:02:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-23T11:02:55.863430-04:00.jpg">Jul 23 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-23T11:02:55.863430-04:00.jpg">July 23 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-23 06:33:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-22T23:33:06.884028-04:00.jpg">Jul 23 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-22T23:33:06.884028-04:00.jpg">July 23 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-22 17:58:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-22T10:58:19.389411-04:00.jpg">Jul 22 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-22T10:58:19.389411-04:00.jpg">July 22 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-22 06:37:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-21T23:37:38.758892-04:00.jpg">Jul 22 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-21T23:37:38.758892-04:00.jpg">July 22 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-21 18:31:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-21T11:31:50.949471-04:00.jpg">Jul 21 at 6:31 PM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-21T11:31:50.949471-04:00.jpg">July 21 at 6:31 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-21 06:35:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-20T23:35:28.882359-04:00.jpg">Jul 21 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-20T23:35:28.882359-04:00.jpg">July 21 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-20 19:09:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-20T12:09:11.641740-04:00.jpg">Jul 20 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-20T12:09:11.641740-04:00.jpg">July 20 at 7:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-20 06:33:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-19T23:33:28.804755-04:00.jpg">Jul 20 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-19T23:33:28.804755-04:00.jpg">July 20 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="National Post at 2022-07-19 18:44:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-19T11:44:12.479475-04:00.jpg">Jul 19 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-07-19T11:44:12.479475-04:00.jpg">July 19 at 6:44 PM</a></p>
 </div>
 
 </div>

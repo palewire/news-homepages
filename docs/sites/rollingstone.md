@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-25 06:42:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-24T23:42:07.438643-04:00.jpg">Jul 25 at 6:42 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-24T23:42:07.438643-04:00.jpg">July 25 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-24 17:03:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-24T10:03:34.259582-04:00.jpg">Jul 24 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-24T10:03:34.259582-04:00.jpg">July 24 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-24 09:21:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-24T02:21:48.798862-04:00.jpg">Jul 24 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-24T02:21:48.798862-04:00.jpg">July 24 at 9:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-23 18:07:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-23T11:07:53.013930-04:00.jpg">Jul 23 at 6:07 PM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-23T11:07:53.013930-04:00.jpg">July 23 at 6:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-23 06:39:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-22T23:39:05.218095-04:00.jpg">Jul 23 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-22T23:39:05.218095-04:00.jpg">July 23 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-22 18:04:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-22T11:04:45.290927-04:00.jpg">Jul 22 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-22T11:04:45.290927-04:00.jpg">July 22 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-22 06:42:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-21T23:42:48.550764-04:00.jpg">Jul 22 at 6:42 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-21T23:42:48.550764-04:00.jpg">July 22 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-21 18:39:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-21T11:39:51.241313-04:00.jpg">Jul 21 at 6:39 PM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-21T11:39:51.241313-04:00.jpg">July 21 at 6:39 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-21 06:41:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-20T23:41:18.982616-04:00.jpg">Jul 21 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-20T23:41:18.982616-04:00.jpg">July 21 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-20 19:16:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-20T12:15:55.231153-04:00.jpg">Jul 20 at 7:16 PM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-20T12:15:55.231153-04:00.jpg">July 20 at 7:16 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-20 06:38:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-19T23:38:21.917578-04:00.jpg">Jul 20 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-19T23:38:21.917578-04:00.jpg">July 20 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Rolling Stone at 2022-07-19 18:49:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-19T11:49:47.072338-04:00.jpg">Jul 19 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-07-19T11:49:47.072338-04:00.jpg">July 19 at 6:49 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-25 13:59:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-25T06:59:55.926988-05:00.jpg">Jul 25 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-25T06:59:55.926988-05:00.jpg">July 25 at 1:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-25 03:01:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-24T20:01:57.991537-05:00.jpg">Jul 25 at 3:01 AM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-24T20:01:57.991537-05:00.jpg">July 25 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-24 13:57:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-24T06:57:34.780583-05:00.jpg">Jul 24 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-24T06:57:34.780583-05:00.jpg">July 24 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-24 08:27:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-24T01:27:07.475357-05:00.jpg">Jul 24 at 8:27 AM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-24T01:27:07.475357-05:00.jpg">July 24 at 8:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-23 15:56:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-23T08:56:36.422319-05:00.jpg">Jul 23 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-23T08:56:36.422319-05:00.jpg">July 23 at 3:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-23 04:24:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-22T21:24:04.445822-05:00.jpg">Jul 23 at 4:24 AM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-22T21:24:04.445822-05:00.jpg">July 23 at 4:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-22 15:59:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-22T08:59:33.900768-05:00.jpg">Jul 22 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-22T08:59:33.900768-05:00.jpg">July 22 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-22 04:18:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-21T21:18:17.117386-05:00.jpg">Jul 22 at 4:18 AM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-21T21:18:17.117386-05:00.jpg">July 22 at 4:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-21 16:03:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-21T09:03:55.734202-05:00.jpg">Jul 21 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-21T09:03:55.734202-05:00.jpg">July 21 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-21 04:21:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-20T21:21:16.693162-05:00.jpg">Jul 21 at 4:21 AM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-20T21:21:16.693162-05:00.jpg">July 21 at 4:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-20 16:18:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-20T09:18:10.858159-05:00.jpg">Jul 20 at 4:18 PM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-20T09:18:10.858159-05:00.jpg">July 20 at 4:18 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Door County Knock at 2022-07-20 03:05:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-19T20:05:40.523485-05:00.jpg">Jul 20 at 3:05 AM</a></p>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-07-19T20:05:40.523485-05:00.jpg">July 20 at 3:05 AM</a></p>
 </div>
 
 </div>

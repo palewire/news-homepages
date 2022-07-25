@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-25 14:58:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-25T07:58:40.496524-04:00.jpg">Jul 25 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-25T07:58:40.496524-04:00.jpg">July 25 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-25 03:59:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-24T20:59:25.302024-04:00.jpg">Jul 25 at 3:59 AM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-24T20:59:25.302024-04:00.jpg">July 25 at 3:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-24 14:56:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-24T07:56:14.608467-04:00.jpg">Jul 24 at 2:56 PM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-24T07:56:14.608467-04:00.jpg">July 24 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-24 09:25:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-24T02:25:43.813626-04:00.jpg">Jul 24 at 9:25 AM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-24T02:25:43.813626-04:00.jpg">July 24 at 9:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-23 16:03:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-23T09:03:12.619342-04:00.jpg">Jul 23 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-23T09:03:12.619342-04:00.jpg">July 23 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-23 04:03:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-22T21:03:40.453776-04:00.jpg">Jul 23 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-22T21:03:40.453776-04:00.jpg">July 23 at 4:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-22 16:03:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-22T09:02:59.309591-04:00.jpg">Jul 22 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-22T09:02:59.309591-04:00.jpg">July 22 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-22 04:10:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-21T21:10:49.475198-04:00.jpg">Jul 22 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-21T21:10:49.475198-04:00.jpg">July 22 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-21 15:56:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-21T08:56:48.311472-04:00.jpg">Jul 21 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-21T08:56:48.311472-04:00.jpg">July 21 at 3:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-21 04:09:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-20T21:09:38.193091-04:00.jpg">Jul 21 at 4:09 AM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-20T21:09:38.193091-04:00.jpg">July 21 at 4:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-20 15:57:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-20T08:57:46.592402-04:00.jpg">Jul 20 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-20T08:57:46.592402-04:00.jpg">July 20 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Yonder at 2022-07-20 04:04:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-19T21:04:37.533427-04:00.jpg">Jul 20 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-07-19T21:04:37.533427-04:00.jpg">July 20 at 4:04 AM</a></p>
 </div>
 
 </div>

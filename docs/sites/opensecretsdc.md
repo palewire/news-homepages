@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-25 06:38:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.jpg">Jul 25 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T23:38:47.284605-04:00.jpg">July 25 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-24 16:59:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.jpg">Jul 24 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T09:59:31.715069-04:00.jpg">July 24 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-24 09:17:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.jpg">Jul 24 at 9:17 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-24T02:17:53.046037-04:00.jpg">July 24 at 9:17 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-23 18:05:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-23T11:05:25.395423-04:00.jpg">Jul 23 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-23T11:05:25.395423-04:00.jpg">July 23 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-23 06:35:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T23:35:22.412873-04:00.jpg">Jul 23 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T23:35:22.412873-04:00.jpg">July 23 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-22 18:01:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T11:01:12.090888-04:00.jpg">Jul 22 at 6:01 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-22T11:01:12.090888-04:00.jpg">July 22 at 6:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-22 06:39:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-21T23:39:51.641577-04:00.jpg">Jul 22 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-21T23:39:51.641577-04:00.jpg">July 22 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-21 18:36:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-21T11:36:02.988677-04:00.jpg">Jul 21 at 6:36 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-21T11:36:02.988677-04:00.jpg">July 21 at 6:36 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-21 06:38:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-20T23:38:36.549105-04:00.jpg">Jul 21 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-20T23:38:36.549105-04:00.jpg">July 21 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-20 19:12:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-20T12:12:40.640651-04:00.jpg">Jul 20 at 7:12 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-20T12:12:40.640651-04:00.jpg">July 20 at 7:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-20 06:36:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-19T23:36:22.389510-04:00.jpg">Jul 20 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-19T23:36:22.389510-04:00.jpg">July 20 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="OpenSecrets at 2022-07-19 18:46:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-19T11:46:07.512892-04:00.jpg">Jul 19 at 6:46 PM</a></p>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-07-19T11:46:07.512892-04:00.jpg">July 19 at 6:46 PM</a></p>
 </div>
 
 </div>

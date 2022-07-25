@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-25 14:58:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T07:58:26.814214-04:00.jpg">Jul 25 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-25T07:58:26.814214-04:00.jpg">July 25 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-25 03:58:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T20:58:37.272180-04:00.jpg">Jul 25 at 3:58 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T20:58:37.272180-04:00.jpg">July 25 at 3:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-24 14:56:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T07:56:08.157857-04:00.jpg">Jul 24 at 2:56 PM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T07:56:08.157857-04:00.jpg">July 24 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-24 09:25:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T02:25:50.314342-04:00.jpg">Jul 24 at 9:25 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-24T02:25:50.314342-04:00.jpg">July 24 at 9:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-23 16:02:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-23T09:02:49.660748-04:00.jpg">Jul 23 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-23T09:02:49.660748-04:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-23 04:03:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T21:03:43.828317-04:00.jpg">Jul 23 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T21:03:43.828317-04:00.jpg">July 23 at 4:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-22 16:02:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T09:02:51.383281-04:00.jpg">Jul 22 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-22T09:02:51.383281-04:00.jpg">July 22 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-22 04:11:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-21T21:11:03.291036-04:00.jpg">Jul 22 at 4:11 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-21T21:11:03.291036-04:00.jpg">July 22 at 4:11 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-21 15:57:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-21T08:57:14.655907-04:00.jpg">Jul 21 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-21T08:57:14.655907-04:00.jpg">July 21 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-21 04:09:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-20T21:09:28.296785-04:00.jpg">Jul 21 at 4:09 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-20T21:09:28.296785-04:00.jpg">July 21 at 4:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-20 15:56:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-20T08:56:47.969858-04:00.jpg">Jul 20 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-20T08:56:47.969858-04:00.jpg">July 20 at 3:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Tarheel at 2022-07-20 04:04:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-19T21:04:25.832546-04:00.jpg">Jul 20 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/dailytarheel-2022/dailytarheel-2022-07-19T21:04:25.832546-04:00.jpg">July 20 at 4:04 AM</a></p>
 </div>
 
 </div>

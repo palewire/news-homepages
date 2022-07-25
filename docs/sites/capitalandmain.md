@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Capital & Main at 2022-07-25 11:01:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-25T04:01:17.051898-07:00.jpg">Jul 25 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-25T04:01:17.051898-07:00.jpg">July 25 at 11:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Capital & Main at 2022-07-25 00:53:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T17:52:59.146414-07:00.jpg">Jul 25 at 12:53 AM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T17:52:59.146414-07:00.jpg">July 25 at 12:53 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Capital & Main at 2022-07-24 18:20:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T11:20:31.626996-07:00.jpg">Jul 24 at 6:20 PM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T11:20:31.626996-07:00.jpg">July 24 at 6:20 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="Capital & Main at 2022-07-24 11:00:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T04:00:20.554987-07:00.jpg">Jul 24 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-24T04:00:20.554987-07:00.jpg">July 24 at 11:00 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="Capital & Main at 2022-07-23 23:02:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-23T16:02:28.993734-07:00.jpg">Jul 23 at 11:02 PM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-23T16:02:28.993734-07:00.jpg">July 23 at 11:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="Capital & Main at 2022-07-23 18:23:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-23T11:23:38.895796-07:00.jpg">Jul 23 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-07-23T11:23:38.895796-07:00.jpg">July 23 at 6:23 PM</a></p>
 </div>
 
 </div>

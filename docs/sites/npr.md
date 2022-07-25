@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-25 06:37:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T23:37:20.964617-04:00.jpg">Jul 25 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T23:37:20.964617-04:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-25 00:20:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T17:20:32.272560-04:00.jpg">Jul 25 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T17:20:32.272560-04:00.jpg">July 25 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-24 18:13:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T11:13:07.245501-04:00.jpg">Jul 24 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T11:13:07.245501-04:00.jpg">July 24 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-24 16:58:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T09:58:12.047304-04:00.jpg">Jul 24 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T09:58:12.047304-04:00.jpg">July 24 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-24 09:16:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T02:16:35.762132-04:00.jpg">Jul 24 at 9:16 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-24T02:16:35.762132-04:00.jpg">July 24 at 9:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-24 00:16:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-23T17:16:24.785073-04:00.jpg">Jul 24 at 12:16 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-23T17:16:24.785073-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-23 18:04:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-23T11:04:16.018662-04:00.jpg">Jul 23 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-23T11:04:16.018662-04:00.jpg">July 23 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-23 17:58:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-23T10:58:18.142604-04:00.jpg">Jul 23 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-23T10:58:18.142604-04:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-23 06:34:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T23:34:18.158771-04:00.jpg">Jul 23 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T23:34:18.158771-04:00.jpg">July 23 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-23 00:09:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T17:09:18.563225-04:00.jpg">Jul 23 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T17:09:18.563225-04:00.jpg">July 23 at 12:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-22 18:05:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T11:05:45.405089-04:00.jpg">Jul 22 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T11:05:45.405089-04:00.jpg">July 22 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="NPR at 2022-07-22 18:00:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T10:59:56.522681-04:00.jpg">Jul 22 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-07-22T10:59:56.522681-04:00.jpg">July 22 at 6:00 PM</a></p>
 </div>
 
 </div>

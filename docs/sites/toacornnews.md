@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-25 04:38:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T21:38:45.458292-07:00.jpg">Jul 25 at 4:38 AM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T21:38:45.458292-07:00.jpg">July 25 at 4:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-24 18:21:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T11:21:16.627927-07:00.jpg">Jul 24 at 6:21 PM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T11:21:16.627927-07:00.jpg">July 24 at 6:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-24 15:08:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T08:08:40.928319-07:00.jpg">Jul 24 at 3:08 PM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-24T08:08:40.928319-07:00.jpg">July 24 at 3:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-24 03:44:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-23T20:43:56.721579-07:00.jpg">Jul 24 at 3:44 AM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-23T20:43:56.721579-07:00.jpg">July 24 at 3:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-23 18:24:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-23T11:24:52.211489-07:00.jpg">Jul 23 at 6:24 PM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-23T11:24:52.211489-07:00.jpg">July 23 at 6:24 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-23 16:06:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-23T09:06:45.650147-07:00.jpg">Jul 23 at 4:06 PM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-23T09:06:45.650147-07:00.jpg">July 23 at 4:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-23 04:27:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-22T21:27:00.375230-07:00.jpg">Jul 23 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-22T21:27:00.375230-07:00.jpg">July 23 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-22 18:08:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-22T11:08:41.033827-07:00.jpg">Jul 22 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-22T11:08:41.033827-07:00.jpg">July 22 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-22 16:19:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-22T09:19:29.676861-07:00.jpg">Jul 22 at 4:19 PM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-22T09:19:29.676861-07:00.jpg">July 22 at 4:19 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-22 04:33:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T21:33:23.930180-07:00.jpg">Jul 22 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T21:33:23.930180-07:00.jpg">July 22 at 4:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-21 18:09:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T11:09:44.705474-07:00.jpg">Jul 21 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T11:09:44.705474-07:00.jpg">July 21 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Thousand Oaks Acorn at 2022-07-21 16:57:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T09:57:05.989937-07:00.jpg">Jul 21 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-21T09:57:05.989937-07:00.jpg">July 21 at 4:57 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-25 14:03:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-25T07:03:02.747698-04:00.jpg">Jul 25 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-25T07:03:02.747698-04:00.jpg">July 25 at 2:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-25 03:55:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-24T20:55:01.910845-04:00.jpg">Jul 25 at 3:55 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-24T20:55:01.910845-04:00.jpg">July 25 at 3:55 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-24 14:02:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-24T07:02:42.089427-04:00.jpg">Jul 24 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-24T07:02:42.089427-04:00.jpg">July 24 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-24 02:03:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-23T19:03:51.695539-04:00.jpg">Jul 24 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-23T19:03:51.695539-04:00.jpg">July 24 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-23 16:00:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-23T09:00:49.343389-04:00.jpg">Jul 23 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-23T09:00:49.343389-04:00.jpg">July 23 at 4:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-23 04:02:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-22T21:02:06.025413-04:00.jpg">Jul 23 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-22T21:02:06.025413-04:00.jpg">July 23 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-22 16:02:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-22T09:02:45.690820-04:00.jpg">Jul 22 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-22T09:02:45.690820-04:00.jpg">July 22 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-22 04:09:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-21T21:09:07.023485-04:00.jpg">Jul 22 at 4:09 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-21T21:09:07.023485-04:00.jpg">July 22 at 4:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-21 15:55:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-21T08:55:50.858156-04:00.jpg">Jul 21 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-21T08:55:50.858156-04:00.jpg">July 21 at 3:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-21 04:08:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-20T21:08:20.191700-04:00.jpg">Jul 21 at 4:08 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-20T21:08:20.191700-04:00.jpg">July 21 at 4:08 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-20 15:55:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-20T08:55:43.476775-04:00.jpg">Jul 20 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-20T08:55:43.476775-04:00.jpg">July 20 at 3:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Clayton Crescent at 2022-07-20 04:03:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-19T21:03:28.931947-04:00.jpg">Jul 20 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-07-19T21:03:28.931947-04:00.jpg">July 20 at 4:03 AM</a></p>
 </div>
 
 </div>

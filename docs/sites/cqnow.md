@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-25 14:04:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.jpg">Jul 25 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-25T07:04:29.118281-04:00.jpg">July 25 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-25 03:57:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T20:56:56.308242-04:00.jpg">Jul 25 at 3:57 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T20:56:56.308242-04:00.jpg">July 25 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-24 14:56:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T07:56:17.203313-04:00.jpg">Jul 24 at 2:56 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T07:56:17.203313-04:00.jpg">July 24 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-24 09:26:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T02:26:17.180000-04:00.jpg">Jul 24 at 9:26 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-24T02:26:17.180000-04:00.jpg">July 24 at 9:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-23 16:02:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-23T09:02:21.437340-04:00.jpg">Jul 23 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-23T09:02:21.437340-04:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-23 04:03:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-22T21:03:01.368656-04:00.jpg">Jul 23 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-22T21:03:01.368656-04:00.jpg">July 23 at 4:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-22 16:02:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-22T09:02:16.892667-04:00.jpg">Jul 22 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-22T09:02:16.892667-04:00.jpg">July 22 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-22 04:10:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-21T21:10:38.371165-04:00.jpg">Jul 22 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-21T21:10:38.371165-04:00.jpg">July 22 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-21 15:55:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-21T08:55:43.904814-04:00.jpg">Jul 21 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-21T08:55:43.904814-04:00.jpg">July 21 at 3:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-21 04:08:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-20T21:08:48.099548-04:00.jpg">Jul 21 at 4:08 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-20T21:08:48.099548-04:00.jpg">July 21 at 4:08 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-20 15:56:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-20T08:56:30.355853-04:00.jpg">Jul 20 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-20T08:56:30.355853-04:00.jpg">July 20 at 3:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="CQ at 2022-07-20 04:03:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-19T21:03:57.403402-04:00.jpg">Jul 20 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-07-19T21:03:57.403402-04:00.jpg">July 20 at 4:03 AM</a></p>
 </div>
 
 </div>

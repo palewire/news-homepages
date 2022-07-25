@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-25 05:28:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.jpg">Jul 25 at 5:28 AM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T22:28:41.879560-05:00.jpg">July 25 at 5:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-24 15:01:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.jpg">Jul 24 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-24T08:01:15.538295-05:00.jpg">July 24 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-24 06:16:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.jpg">Jul 24 at 6:16 AM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T23:16:30.121570-05:00.jpg">July 24 at 6:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-23 16:07:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.jpg">Jul 23 at 4:07 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-23T09:07:01.518677-05:00.jpg">July 23 at 4:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-23 04:33:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T21:33:06.892864-05:00.jpg">Jul 23 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T21:33:06.892864-05:00.jpg">July 23 at 4:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-22 16:07:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T09:07:32.153163-05:00.jpg">Jul 22 at 4:07 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-22T09:07:32.153163-05:00.jpg">July 22 at 4:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-22 04:27:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-21T21:27:02.668726-05:00.jpg">Jul 22 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-21T21:27:02.668726-05:00.jpg">July 22 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-21 16:17:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-21T09:17:34.025999-05:00.jpg">Jul 21 at 4:17 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-21T09:17:34.025999-05:00.jpg">July 21 at 4:17 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-21 04:29:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-20T21:29:48.576321-05:00.jpg">Jul 21 at 4:29 AM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-20T21:29:48.576321-05:00.jpg">July 21 at 4:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-20 18:05:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-20T11:05:48.279027-05:00.jpg">Jul 20 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-20T11:05:48.279027-05:00.jpg">July 20 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-20 04:22:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-19T21:22:29.064676-05:00.jpg">Jul 20 at 4:22 AM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-19T21:22:29.064676-05:00.jpg">July 20 at 4:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Eau Claire Leader-Telegram at 2022-07-19 16:21:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-19T09:21:30.617125-05:00.jpg">Jul 19 at 4:21 PM</a></p>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-07-19T09:21:30.617125-05:00.jpg">July 19 at 4:21 PM</a></p>
 </div>
 
 </div>

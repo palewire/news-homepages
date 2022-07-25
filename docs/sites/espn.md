@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-25 15:01:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-25T08:01:25.959274-04:00.jpg">Jul 25 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-25T08:01:25.959274-04:00.jpg">July 25 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-25 04:03:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-24T21:03:22.490132-04:00.jpg">Jul 25 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-24T21:03:22.490132-04:00.jpg">July 25 at 4:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-24 14:58:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-24T07:58:47.775663-04:00.jpg">Jul 24 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-24T07:58:47.775663-04:00.jpg">July 24 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-24 09:28:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-24T02:28:23.300539-04:00.jpg">Jul 24 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-24T02:28:23.300539-04:00.jpg">July 24 at 9:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-23 16:58:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-23T09:57:59.846677-04:00.jpg">Jul 23 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-23T09:57:59.846677-04:00.jpg">July 23 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-23 05:24:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-22T22:24:36.127661-04:00.jpg">Jul 23 at 5:24 AM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-22T22:24:36.127661-04:00.jpg">July 23 at 5:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-22 16:59:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-22T09:59:04.163048-04:00.jpg">Jul 22 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-22T09:59:04.163048-04:00.jpg">July 22 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-22 05:18:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-21T22:18:16.302737-04:00.jpg">Jul 22 at 5:18 AM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-21T22:18:16.302737-04:00.jpg">July 22 at 5:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-21 17:04:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-21T10:04:03.549760-04:00.jpg">Jul 21 at 5:04 PM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-21T10:04:03.549760-04:00.jpg">July 21 at 5:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-21 05:21:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-20T22:21:15.019511-04:00.jpg">Jul 21 at 5:21 AM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-20T22:21:15.019511-04:00.jpg">July 21 at 5:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-20 17:24:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-20T10:24:22.223828-04:00.jpg">Jul 20 at 5:24 PM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-20T10:24:22.223828-04:00.jpg">July 20 at 5:24 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="ESPN at 2022-07-20 05:16:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-07-19T22:16:09.987405-04:00.jpg">Jul 20 at 5:16 AM</a></p>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-07-19T22:16:09.987405-04:00.jpg">July 20 at 5:16 AM</a></p>
 </div>
 
 </div>

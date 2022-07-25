@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-25 06:37:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T23:37:39.460553-04:00.jpg">Jul 25 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T23:37:39.460553-04:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-25 00:22:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T17:21:39.909842-04:00.jpg">Jul 25 at 12:22 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T17:21:39.909842-04:00.jpg">July 25 at 12:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-24 18:13:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T11:13:28.355517-04:00.jpg">Jul 24 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T11:13:28.355517-04:00.jpg">July 24 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-24 16:58:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T09:58:20.713778-04:00.jpg">Jul 24 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T09:58:20.713778-04:00.jpg">July 24 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-24 09:18:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T02:17:45.651666-04:00.jpg">Jul 24 at 9:18 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-24T02:17:45.651666-04:00.jpg">July 24 at 9:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-24 00:16:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-23T17:16:26.770736-04:00.jpg">Jul 24 at 12:16 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-23T17:16:26.770736-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-23 18:04:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-23T11:04:46.102142-04:00.jpg">Jul 23 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-23T11:04:46.102142-04:00.jpg">July 23 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-23 17:58:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-23T10:58:28.010619-04:00.jpg">Jul 23 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-23T10:58:28.010619-04:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-23 06:34:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T23:34:14.539769-04:00.jpg">Jul 23 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T23:34:14.539769-04:00.jpg">July 23 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-23 00:09:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T17:09:04.906126-04:00.jpg">Jul 23 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T17:09:04.906126-04:00.jpg">July 23 at 12:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-22 18:05:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T11:05:39.103124-04:00.jpg">Jul 22 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T11:05:39.103124-04:00.jpg">July 22 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="New York Times at 2022-07-22 18:00:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T11:00:41.451534-04:00.jpg">Jul 22 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-07-22T11:00:41.451534-04:00.jpg">July 22 at 6:00 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-25 07:40:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T00:40:47.248315-04:00.jpg">Jul 25 at 7:40 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-25T00:40:47.248315-04:00.jpg">July 25 at 7:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-24 18:10:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-24T11:10:14.083373-04:00.jpg">Jul 24 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-24T11:10:14.083373-04:00.jpg">July 24 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-24 06:45:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T23:45:35.071322-04:00.jpg">Jul 24 at 6:45 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T23:45:35.071322-04:00.jpg">July 24 at 6:45 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-23 19:09:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T12:09:15.287709-04:00.jpg">Jul 23 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T12:09:15.287709-04:00.jpg">July 23 at 7:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-23 07:28:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T00:28:31.602343-04:00.jpg">Jul 23 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-23T00:28:31.602343-04:00.jpg">July 23 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-22 19:22:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-22T12:22:17.214447-04:00.jpg">Jul 22 at 7:22 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-22T12:22:17.214447-04:00.jpg">July 22 at 7:22 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-22 07:35:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-22T00:35:05.273389-04:00.jpg">Jul 22 at 7:35 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-22T00:35:05.273389-04:00.jpg">July 22 at 7:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-21 19:59:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-21T12:58:55.945407-04:00.jpg">Jul 21 at 7:59 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-21T12:58:55.945407-04:00.jpg">July 21 at 7:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-21 07:32:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-21T00:32:42.899878-04:00.jpg">Jul 21 at 7:32 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-21T00:32:42.899878-04:00.jpg">July 21 at 7:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-20 19:49:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-20T12:49:48.887767-04:00.jpg">Jul 20 at 7:49 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-20T12:49:48.887767-04:00.jpg">July 20 at 7:49 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-20 07:24:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-20T00:24:29.411258-04:00.jpg">Jul 20 at 7:24 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-20T00:24:29.411258-04:00.jpg">July 20 at 7:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Votebeat at 2022-07-19 07:29:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-19T00:28:52.436146-04:00.jpg">Jul 19 at 7:29 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-19T00:28:52.436146-04:00.jpg">July 19 at 7:29 AM</a></p>
 </div>
 
 </div>

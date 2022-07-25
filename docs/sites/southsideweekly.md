@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-25 05:44:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-24T22:44:16.788878-05:00.jpg">Jul 25 at 5:44 AM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-24T22:44:16.788878-05:00.jpg">July 25 at 5:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-24 17:46:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-24T10:46:01.690963-05:00.jpg">Jul 24 at 5:46 PM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-24T10:46:01.690963-05:00.jpg">July 24 at 5:46 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-24 16:04:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-24T09:04:21.969304-05:00.jpg">Jul 24 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-24T09:04:21.969304-05:00.jpg">July 24 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-24 08:24:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-24T01:24:17.134504-05:00.jpg">Jul 24 at 8:24 AM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-24T01:24:17.134504-05:00.jpg">July 24 at 8:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-23 18:02:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-23T11:02:07.356478-05:00.jpg">Jul 23 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-23T11:02:07.356478-05:00.jpg">July 23 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-23 06:23:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-22T23:23:18.638988-05:00.jpg">Jul 23 at 6:23 AM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-22T23:23:18.638988-05:00.jpg">July 23 at 6:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-22 18:23:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-22T11:23:55.453242-05:00.jpg">Jul 22 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-22T11:23:55.453242-05:00.jpg">July 22 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-22 18:15:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-22T11:15:16.019291-05:00.jpg">Jul 22 at 6:15 PM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-22T11:15:16.019291-05:00.jpg">July 22 at 6:15 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-22 06:29:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-21T23:29:22.975771-05:00.jpg">Jul 22 at 6:29 AM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-21T23:29:22.975771-05:00.jpg">July 22 at 6:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-21 18:52:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-21T11:52:24.626827-05:00.jpg">Jul 21 at 6:52 PM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-21T11:52:24.626827-05:00.jpg">July 21 at 6:52 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-21 18:49:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-21T11:49:02.495793-05:00.jpg">Jul 21 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-21T11:49:02.495793-05:00.jpg">July 21 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="South Side Weekly at 2022-07-21 06:26:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-20T23:26:36.902233-05:00.jpg">Jul 21 at 6:26 AM</a></p>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-07-20T23:26:36.902233-05:00.jpg">July 21 at 6:26 AM</a></p>
 </div>
 
 </div>

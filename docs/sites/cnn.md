@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-25 14:03:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-25T07:03:04.760809-04:00.jpg">Jul 25 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-25T07:03:04.760809-04:00.jpg">July 25 at 2:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-25 03:56:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-24T20:55:55.499865-04:00.jpg">Jul 25 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-24T20:55:55.499865-04:00.jpg">July 25 at 3:56 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-25 00:20:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-24T17:20:22.618823-04:00.jpg">Jul 25 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-24T17:20:22.618823-04:00.jpg">July 25 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-24 18:13:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-24T11:12:59.215149-04:00.jpg">Jul 24 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-24T11:12:59.215149-04:00.jpg">July 24 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-24 14:03:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-24T07:02:50.767703-04:00.jpg">Jul 24 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-24T07:02:50.767703-04:00.jpg">July 24 at 2:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-24 02:03:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-23T19:03:49.785930-04:00.jpg">Jul 24 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-23T19:03:49.785930-04:00.jpg">July 24 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-24 00:16:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-23T17:16:31.308580-04:00.jpg">Jul 24 at 12:16 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-23T17:16:31.308580-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-23 17:58:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-23T10:58:14.707677-04:00.jpg">Jul 23 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-23T10:58:14.707677-04:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-23 16:00:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-23T09:00:44.964475-04:00.jpg">Jul 23 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-23T09:00:44.964475-04:00.jpg">July 23 at 4:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-23 04:02:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-22T21:02:22.292026-04:00.jpg">Jul 23 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-22T21:02:22.292026-04:00.jpg">July 23 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-23 00:09:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-22T17:09:02.791956-04:00.jpg">Jul 23 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-22T17:09:02.791956-04:00.jpg">July 23 at 12:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="CNN at 2022-07-22 18:05:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-22T11:05:26.858603-04:00.jpg">Jul 22 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-07-22T11:05:26.858603-04:00.jpg">July 22 at 6:05 PM</a></p>
 </div>
 
 </div>

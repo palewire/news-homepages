@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-25 17:09:28+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.jpg">Jul 25 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T10:09:21.043722+02:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-25 12:28:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T05:28:14.889547+02:00.jpg">Jul 25 at 12:28 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-25T05:28:14.889547+02:00.jpg">July 25 at 12:28 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-24 22:01:29+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T15:01:28.068874+02:00.jpg">Jul 24 at 10:01 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T15:01:28.068874+02:00.jpg">July 24 at 10:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-24 17:09:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T10:09:45.818528+02:00.jpg">Jul 24 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T10:09:45.818528+02:00.jpg">July 24 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-24 13:16:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T06:16:30.657045+02:00.jpg">Jul 24 at 1:16 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-24T06:16:30.657045+02:00.jpg">July 24 at 1:16 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-23 23:07:05+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-23T16:07:03.583006+02:00.jpg">Jul 23 at 11:07 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-23T16:07:03.583006+02:00.jpg">July 23 at 11:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-23 17:06:58+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-23T10:06:46.144553+02:00.jpg">Jul 23 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-23T10:06:46.144553+02:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-23 11:32:12+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-23T04:32:10.162361+02:00.jpg">Jul 23 at 11:32 AM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-23T04:32:10.162361+02:00.jpg">July 23 at 11:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-22 23:07:47+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-22T16:07:41.876605+02:00.jpg">Jul 22 at 11:07 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-22T16:07:41.876605+02:00.jpg">July 22 at 11:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-22 17:07:19+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-22T10:07:17.813639+02:00.jpg">Jul 22 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-22T10:07:17.813639+02:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-22 11:26:58+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-22T04:26:51.922307+02:00.jpg">Jul 22 at 11:26 AM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-22T04:26:51.922307+02:00.jpg">July 22 at 11:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Le Figaro at 2022-07-21 23:17:17+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-21T16:17:09.221397+02:00.jpg">Jul 21 at 11:17 PM</a></p>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-07-21T16:17:09.221397+02:00.jpg">July 21 at 11:17 PM</a></p>
 </div>
 
 </div>

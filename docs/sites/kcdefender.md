@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-25 05:24:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-24T22:23:59.802977-05:00.jpg">Jul 25 at 5:24 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-24T22:23:59.802977-05:00.jpg">July 25 at 5:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-24 14:58:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-24T07:58:55.356910-05:00.jpg">Jul 24 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-24T07:58:55.356910-05:00.jpg">July 24 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-24 06:14:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-23T23:14:08.012635-05:00.jpg">Jul 24 at 6:14 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-23T23:14:08.012635-05:00.jpg">July 24 at 6:14 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-23 16:04:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-23T09:04:46.961283-05:00.jpg">Jul 23 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-23T09:04:46.961283-05:00.jpg">July 23 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-23 04:30:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-22T21:30:40.792187-05:00.jpg">Jul 23 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-22T21:30:40.792187-05:00.jpg">July 23 at 4:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-22 16:05:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-22T09:05:14.410135-05:00.jpg">Jul 22 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-22T09:05:14.410135-05:00.jpg">July 22 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-22 04:24:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-21T21:24:47.679755-05:00.jpg">Jul 22 at 4:24 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-21T21:24:47.679755-05:00.jpg">July 22 at 4:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-21 16:14:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-21T09:14:34.155856-05:00.jpg">Jul 21 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-21T09:14:34.155856-05:00.jpg">July 21 at 4:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-21 04:27:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-20T21:27:16.169171-05:00.jpg">Jul 21 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-20T21:27:16.169171-05:00.jpg">July 21 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-20 16:28:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-20T09:28:15.315070-05:00.jpg">Jul 20 at 4:28 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-20T09:28:15.315070-05:00.jpg">July 20 at 4:28 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-20 04:20:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-19T21:20:31.206577-05:00.jpg">Jul 20 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-19T21:20:31.206577-05:00.jpg">July 20 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Defender at 2022-07-19 16:16:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-19T09:16:42.047354-05:00.jpg">Jul 19 at 4:16 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-07-19T09:16:42.047354-05:00.jpg">July 19 at 4:16 PM</a></p>
 </div>
 
 </div>

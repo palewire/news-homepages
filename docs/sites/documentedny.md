@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-25 14:59:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.jpg">Jul 25 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-25T07:59:55.323274-04:00.jpg">July 25 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-25 04:02:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.jpg">Jul 25 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T21:02:16.793602-04:00.jpg">July 25 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-24 14:57:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.jpg">Jul 24 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T07:57:53.867535-04:00.jpg">July 24 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-24 09:27:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.jpg">Jul 24 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-24T02:27:31.510539-04:00.jpg">July 24 at 9:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-23 16:57:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-23T09:57:10.304958-04:00.jpg">Jul 23 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-23T09:57:10.304958-04:00.jpg">July 23 at 4:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-23 05:24:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T22:24:15.893448-04:00.jpg">Jul 23 at 5:24 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T22:24:15.893448-04:00.jpg">July 23 at 5:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-22 16:59:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T09:59:17.320482-04:00.jpg">Jul 22 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-22T09:59:17.320482-04:00.jpg">July 22 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-22 05:18:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-21T22:18:05.657831-04:00.jpg">Jul 22 at 5:18 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-21T22:18:05.657831-04:00.jpg">July 22 at 5:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-21 17:05:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-21T10:04:57.011159-04:00.jpg">Jul 21 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-21T10:04:57.011159-04:00.jpg">July 21 at 5:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-21 05:21:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-20T22:21:46.483466-04:00.jpg">Jul 21 at 5:21 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-20T22:21:46.483466-04:00.jpg">July 21 at 5:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-20 17:21:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-20T10:21:02.763419-04:00.jpg">Jul 20 at 5:21 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-20T10:21:02.763419-04:00.jpg">July 20 at 5:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Documented at 2022-07-20 04:06:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-19T21:06:09.851246-04:00.jpg">Jul 20 at 4:06 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-07-19T21:06:09.851246-04:00.jpg">July 20 at 4:06 AM</a></p>
 </div>
 
 </div>

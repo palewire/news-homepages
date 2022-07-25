@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. right wing
 
-The most recent homepages from 27 news sites in this bundle.
+The most recent homepages from 28 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -165,6 +165,15 @@ The most recent homepages from 27 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newsmax.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsmax.jpg"
+     alt="Newsmax"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/newsmax.html">Newsmax</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/oann.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oann.jpg"
      alt="One America News Network"
@@ -286,6 +295,7 @@ The most recent homepages from 27 news sites in this bundle.
 |[Human Events](https://palewi.re/docs/news-homepages/sites/humanevents.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humanevents.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humanevents.xml)|
 |[Infowars](https://palewi.re/docs/news-homepages/sites/infowars.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/infowars.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/infowars.xml)|
 |[National Review](https://palewi.re/docs/news-homepages/sites/nro.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nro.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nro.xml)|
+|[Newsmax](https://palewi.re/docs/news-homepages/sites/newsmax.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsmax.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsmax.xml)|
 |[One America News Network](https://palewi.re/docs/news-homepages/sites/oann.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oann.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oann.xml)|
 |[Power Line](https://palewi.re/docs/news-homepages/sites/powerlineus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/powerlineus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/powerlineus.xml)|
 |[Reason](https://palewi.re/docs/news-homepages/sites/reason.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reason.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reason.xml)|

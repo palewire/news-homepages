@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-25 03:38:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T20:38:27.118104-07:00.jpg">Jul 25 at 3:38 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T20:38:27.118104-07:00.jpg">July 25 at 3:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-24 13:58:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T06:58:38.763007-07:00.jpg">Jul 24 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-24T06:58:38.763007-07:00.jpg">July 24 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-24 06:17:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T23:17:30.007858-07:00.jpg">Jul 24 at 6:17 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T23:17:30.007858-07:00.jpg">July 24 at 6:17 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-23 15:04:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T08:04:53.481042-07:00.jpg">Jul 23 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-23T08:04:53.481042-07:00.jpg">July 23 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-23 03:35:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T20:35:00.135461-07:00.jpg">Jul 23 at 3:35 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T20:35:00.135461-07:00.jpg">July 23 at 3:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-22 15:00:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T08:00:21.899322-07:00.jpg">Jul 22 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-22T08:00:21.899322-07:00.jpg">July 22 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-22 03:40:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T20:40:06.065293-07:00.jpg">Jul 22 at 3:40 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T20:40:06.065293-07:00.jpg">July 22 at 3:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-21 15:35:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T08:34:55.592178-07:00.jpg">Jul 21 at 3:35 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-21T08:34:55.592178-07:00.jpg">July 21 at 3:35 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-21 03:38:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T20:38:21.142268-07:00.jpg">Jul 21 at 3:38 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T20:38:21.142268-07:00.jpg">July 21 at 3:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-20 16:12:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T09:12:07.163202-07:00.jpg">Jul 20 at 4:12 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-20T09:12:07.163202-07:00.jpg">July 20 at 4:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-20 03:35:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-19T20:35:18.892067-07:00.jpg">Jul 20 at 3:35 AM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-19T20:35:18.892067-07:00.jpg">July 20 at 3:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Objective at 2022-07-19 15:45:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-19T08:45:39.668626-07:00.jpg">Jul 19 at 3:45 PM</a></p>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-07-19T08:45:39.668626-07:00.jpg">July 19 at 3:45 PM</a></p>
 </div>
 
 </div>

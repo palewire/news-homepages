@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-25 11:24:17+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-25T04:24:15.330932+01:00.jpg">Jul 25 at 11:24 AM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-25T04:24:15.330932+01:00.jpg">July 25 at 11:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-24 20:58:38+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-24T13:58:37.575736+01:00.jpg">Jul 24 at 8:58 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-24T13:58:37.575736+01:00.jpg">July 24 at 8:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-24 12:14:02+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-24T05:14:00.005511+01:00.jpg">Jul 24 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-24T05:14:00.005511+01:00.jpg">July 24 at 12:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-23 22:03:42+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-23T15:03:41.195753+01:00.jpg">Jul 23 at 10:03 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-23T15:03:41.195753+01:00.jpg">July 23 at 10:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-23 10:29:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-23T03:29:19.992648+01:00.jpg">Jul 23 at 10:29 AM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-23T03:29:19.992648+01:00.jpg">July 23 at 10:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-22 22:04:11+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-22T15:04:09.468527+01:00.jpg">Jul 22 at 10:04 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-22T15:04:09.468527+01:00.jpg">July 22 at 10:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -88,7 +88,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-22 10:24:01+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-22T03:24:00.642317+01:00.jpg">Jul 22 at 10:24 AM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-22T03:24:00.642317+01:00.jpg">July 22 at 10:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,7 +97,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-21 22:13:26+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-21T15:13:25.229782+01:00.jpg">Jul 21 at 10:13 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-21T15:13:25.229782+01:00.jpg">July 21 at 10:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -106,7 +106,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-21 10:26:31+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-21T03:26:30.025060+01:00.jpg">Jul 21 at 10:26 AM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-21T03:26:30.025060+01:00.jpg">July 21 at 10:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -115,7 +115,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-20 22:26:56+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-20T15:26:54.395247+01:00.jpg">Jul 20 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-20T15:26:54.395247+01:00.jpg">July 20 at 10:26 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -124,7 +124,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-20 10:19:55+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-20T03:19:53.473236+01:00.jpg">Jul 20 at 10:19 AM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-20T03:19:53.473236+01:00.jpg">July 20 at 10:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -133,7 +133,7 @@ Here are the 12 most recent screenshots.
      alt="Irish Examiner at 2022-07-19 22:21:32+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-19T15:21:31.345587+01:00.jpg">Jul 19 at 10:21 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-07-19T15:21:31.345587+01:00.jpg">July 19 at 10:21 PM</a></p>
 </div>
 
 </div>

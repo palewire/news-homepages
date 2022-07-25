@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-25 19:59:04+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-25T12:59:01.920933+01:00.jpg">Jul 25 at 7:59 PM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-25T12:59:01.920933+01:00.jpg">July 25 at 7:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-25 17:09:36+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-25T10:09:34.511098+01:00.jpg">Jul 25 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-25T10:09:34.511098+01:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-25 08:58:49+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-25T01:58:47.537365+01:00.jpg">Jul 25 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-25T01:58:47.537365+01:00.jpg">July 25 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-24 19:56:44+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T12:56:42.235293+01:00.jpg">Jul 24 at 7:56 PM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T12:56:42.235293+01:00.jpg">July 24 at 7:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-24 17:10:06+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T10:10:01.002170+01:00.jpg">Jul 24 at 5:10 PM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T10:10:01.002170+01:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-24 14:25:52+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T07:25:47.451903+01:00.jpg">Jul 24 at 2:25 PM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-24T07:25:47.451903+01:00.jpg">July 24 at 2:25 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-23 21:03:04+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T14:03:03.427493+01:00.jpg">Jul 23 at 9:03 PM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T14:03:03.427493+01:00.jpg">July 23 at 9:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-23 17:06:35+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T10:06:34.319591+01:00.jpg">Jul 23 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T10:06:34.319591+01:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-23 09:03:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T02:03:15.511837+01:00.jpg">Jul 23 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-23T02:03:15.511837+01:00.jpg">July 23 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-22 21:02:41+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-22T14:02:39.396856+01:00.jpg">Jul 22 at 9:02 PM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-22T14:02:39.396856+01:00.jpg">July 22 at 9:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-22 17:07:17+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-22T10:07:14.589183+01:00.jpg">Jul 22 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-22T10:07:14.589183+01:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Mirror at 2022-07-22 09:10:51+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-22T02:10:49.815503+01:00.jpg">Jul 22 at 9:10 AM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-22T02:10:49.815503+01:00.jpg">July 22 at 9:10 AM</a></p>
 </div>
 
 </div>

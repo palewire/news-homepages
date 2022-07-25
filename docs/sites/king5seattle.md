@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-25 03:26:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T20:26:23.081396-07:00.jpg">Jul 25 at 3:26 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T20:26:23.081396-07:00.jpg">July 25 at 3:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-24 13:00:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T06:00:13.357206-07:00.jpg">Jul 24 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-24T06:00:13.357206-07:00.jpg">July 24 at 1:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-24 04:15:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T21:15:42.171005-07:00.jpg">Jul 24 at 4:15 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T21:15:42.171005-07:00.jpg">July 24 at 4:15 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-23 14:05:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T07:05:03.402094-07:00.jpg">Jul 23 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-23T07:05:03.402094-07:00.jpg">July 23 at 2:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-23 02:31:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T19:31:18.047293-07:00.jpg">Jul 23 at 2:31 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T19:31:18.047293-07:00.jpg">July 23 at 2:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-22 14:06:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T07:06:14.844242-07:00.jpg">Jul 22 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-22T07:06:14.844242-07:00.jpg">July 22 at 2:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-22 02:25:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T19:24:57.096092-07:00.jpg">Jul 22 at 2:25 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T19:24:57.096092-07:00.jpg">July 22 at 2:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-21 14:18:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T07:18:05.602288-07:00.jpg">Jul 21 at 2:18 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-21T07:18:05.602288-07:00.jpg">July 21 at 2:18 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-21 02:27:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-20T19:27:33.504802-07:00.jpg">Jul 21 at 2:27 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-20T19:27:33.504802-07:00.jpg">July 21 at 2:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-20 14:29:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-20T07:29:11.193955-07:00.jpg">Jul 20 at 2:29 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-20T07:29:11.193955-07:00.jpg">July 20 at 2:29 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-20 02:20:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-19T19:20:53.940817-07:00.jpg">Jul 20 at 2:20 AM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-19T19:20:53.940817-07:00.jpg">July 20 at 2:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="KING5 at 2022-07-19 14:17:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-19T07:17:52.029334-07:00.jpg">Jul 19 at 2:17 PM</a></p>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-07-19T07:17:52.029334-07:00.jpg">July 19 at 2:17 PM</a></p>
 </div>
 
 </div>

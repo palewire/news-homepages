@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Nagarik News at 2022-07-25 16:19:06+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T09:19:04.859834+05:45.jpg">Jul 25 at 4:19 PM</a></p>
+ <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T09:19:04.859834+05:45.jpg">July 25 at 4:19 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Nagarik News at 2022-07-25 09:23:19+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T02:23:13.656785+05:45.jpg">Jul 25 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-07-25T02:23:13.656785+05:45.jpg">July 25 at 9:23 AM</a></p>
 </div>
 
 </div>

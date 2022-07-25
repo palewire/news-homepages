@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-25 06:37:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T23:37:07.729146-04:00.jpg">Jul 25 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T23:37:07.729146-04:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-24 16:58:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T09:58:27.410915-04:00.jpg">Jul 24 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T09:58:27.410915-04:00.jpg">July 24 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-24 09:16:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T02:16:38.989263-04:00.jpg">Jul 24 at 9:16 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-24T02:16:38.989263-04:00.jpg">July 24 at 9:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-23 18:04:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-23T11:04:40.016970-04:00.jpg">Jul 23 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-23T11:04:40.016970-04:00.jpg">July 23 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-23 06:34:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-22T23:34:17.100653-04:00.jpg">Jul 23 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-22T23:34:17.100653-04:00.jpg">July 23 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-22 18:00:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-22T11:00:15.910792-04:00.jpg">Jul 22 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-22T11:00:15.910792-04:00.jpg">July 22 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-22 06:38:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-21T23:38:47.686080-04:00.jpg">Jul 22 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-21T23:38:47.686080-04:00.jpg">July 22 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-21 18:34:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-21T11:34:29.723258-04:00.jpg">Jul 21 at 6:34 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-21T11:34:29.723258-04:00.jpg">July 21 at 6:34 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-21 06:36:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-20T23:36:57.835661-04:00.jpg">Jul 21 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-20T23:36:57.835661-04:00.jpg">July 21 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-20 19:11:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-20T12:11:42.608295-04:00.jpg">Jul 20 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-20T12:11:42.608295-04:00.jpg">July 20 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-20 06:34:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-19T23:34:49.934735-04:00.jpg">Jul 20 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-19T23:34:49.934735-04:00.jpg">July 20 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="NY1 at 2022-07-19 18:44:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-19T11:44:49.057509-04:00.jpg">Jul 19 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-07-19T11:44:49.057509-04:00.jpg">July 19 at 6:44 PM</a></p>
 </div>
 
 </div>

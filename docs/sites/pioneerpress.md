@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-25 05:39:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-24T22:39:40.423650-05:00.jpg">Jul 25 at 5:39 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-24T22:39:40.423650-05:00.jpg">July 25 at 5:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-24 16:00:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-24T09:00:20.889299-05:00.jpg">Jul 24 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-24T09:00:20.889299-05:00.jpg">July 24 at 4:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-24 08:18:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-24T01:18:51.243264-05:00.jpg">Jul 24 at 8:18 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-24T01:18:51.243264-05:00.jpg">July 24 at 8:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-23 17:06:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-23T10:06:47.930565-05:00.jpg">Jul 23 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-23T10:06:47.930565-05:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-23 05:36:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-22T22:36:12.758638-05:00.jpg">Jul 23 at 5:36 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-22T22:36:12.758638-05:00.jpg">July 23 at 5:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-22 17:01:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-22T10:01:42.221591-05:00.jpg">Jul 22 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-22T10:01:42.221591-05:00.jpg">July 22 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-22 05:40:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-21T22:40:47.378928-05:00.jpg">Jul 22 at 5:40 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-21T22:40:47.378928-05:00.jpg">July 22 at 5:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-21 17:36:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-21T10:36:47.342546-05:00.jpg">Jul 21 at 5:36 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-21T10:36:47.342546-05:00.jpg">July 21 at 5:36 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-21 05:38:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-20T22:38:54.724895-05:00.jpg">Jul 21 at 5:38 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-20T22:38:54.724895-05:00.jpg">July 21 at 5:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-20 18:13:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-20T11:13:47.403822-05:00.jpg">Jul 20 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-20T11:13:47.403822-05:00.jpg">July 20 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-20 05:36:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-19T22:36:38.276794-05:00.jpg">Jul 20 at 5:36 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-19T22:36:38.276794-05:00.jpg">July 20 at 5:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Twin Cities Pioneer Press at 2022-07-19 17:47:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-19T10:47:26.368795-05:00.jpg">Jul 19 at 5:47 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-07-19T10:47:26.368795-05:00.jpg">July 19 at 5:47 PM</a></p>
 </div>
 
 </div>

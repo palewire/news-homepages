@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Appeal at 2022-07-25 07:35:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-07-25T00:34:59.554211-04:00.jpg">Jul 25 at 7:35 AM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-07-25T00:34:59.554211-04:00.jpg">July 25 at 7:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Appeal at 2022-07-24 18:05:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-07-24T11:05:03.275229-04:00.jpg">Jul 24 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-07-24T11:05:03.275229-04:00.jpg">July 24 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Appeal at 2022-07-24 06:40:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-07-23T23:40:11.478191-04:00.jpg">Jul 24 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-07-23T23:40:11.478191-04:00.jpg">July 24 at 6:40 AM</a></p>
 </div>
 
 </div>

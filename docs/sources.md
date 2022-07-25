@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 625 sites.
+The archiving routine is currently capturing 626 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -406,6 +406,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[News 12 NBC 26](https://palewi.re/docs/news-homepages/sites/wrdw_wagt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrdw_wagt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wrdw_wagt.xml)|
 |[News 4](https://palewi.re/docs/news-homepages/sites/kvoa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kvoa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kvoa.xml)|
 |[News12NJ](https://palewi.re/docs/news-homepages/sites/news12nj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/news12nj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/news12nj.xml)|
+|[Newsmax](https://palewi.re/docs/news-homepages/sites/newsmax.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsmax.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsmax.xml)|
 |[Newsweek](https://palewi.re/docs/news-homepages/sites/newsweek.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsweek.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsweek.xml)|
 |[Next City](https://palewi.re/docs/news-homepages/sites/nextcityorg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nextcityorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nextcityorg.xml)|
 |[NHK](https://palewi.re/docs/news-homepages/sites/nhk_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhk_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nhk_news.xml)|

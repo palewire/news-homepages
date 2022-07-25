@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-25 11:42:55+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T04:42:54.143106+01:00.jpg">Jul 25 at 11:42 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-25T04:42:54.143106+01:00.jpg">July 25 at 11:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-24 22:02:55+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T15:02:54.003777+01:00.jpg">Jul 24 at 10:02 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T15:02:54.003777+01:00.jpg">July 24 at 10:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-24 14:23:03+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T07:23:02.080958+01:00.jpg">Jul 24 at 2:23 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-24T07:23:02.080958+01:00.jpg">July 24 at 2:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-23 23:09:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T16:09:18.846154+01:00.jpg">Jul 23 at 11:09 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T16:09:18.846154+01:00.jpg">July 23 at 11:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-23 11:39:09+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T04:39:06.872193+01:00.jpg">Jul 23 at 11:39 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-23T04:39:06.872193+01:00.jpg">July 23 at 11:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-22 23:04:54+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T16:04:52.118181+01:00.jpg">Jul 22 at 11:04 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T16:04:52.118181+01:00.jpg">July 22 at 11:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-22 11:43:25+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.jpg">Jul 22 at 11:43 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-22T04:43:23.583689+01:00.jpg">July 22 at 11:43 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-21 23:40:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T16:40:14.229016+01:00.jpg">Jul 21 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T16:40:14.229016+01:00.jpg">July 21 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-21 11:42:04+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T04:42:01.250209+01:00.jpg">Jul 21 at 11:42 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-21T04:42:01.250209+01:00.jpg">July 21 at 11:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-21 00:41:18+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-20T17:41:15.344001+01:00.jpg">Jul 21 at 12:41 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-20T17:41:15.344001+01:00.jpg">July 21 at 12:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-20 00:56:25+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-19T17:56:23.295592+01:00.jpg">Jul 20 at 12:56 AM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-19T17:56:23.295592+01:00.jpg">July 20 at 12:56 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="National at 2022-07-19 12:22:29+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-19T05:22:27.425883+01:00.jpg">Jul 19 at 12:22 PM</a></p>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-07-19T05:22:27.425883+01:00.jpg">July 19 at 12:22 PM</a></p>
 </div>
 
 </div>

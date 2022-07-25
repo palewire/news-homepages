@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-25 03:34:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-24T20:34:34.895268-07:00.jpg">Jul 25 at 3:34 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-24T20:34:34.895268-07:00.jpg">July 25 at 3:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-24 13:04:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-24T06:04:07.631549-07:00.jpg">Jul 24 at 1:04 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-24T06:04:07.631549-07:00.jpg">July 24 at 1:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-24 04:20:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-23T21:20:35.214658-07:00.jpg">Jul 24 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-23T21:20:35.214658-07:00.jpg">July 24 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-23 15:03:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-23T08:03:10.474413-07:00.jpg">Jul 23 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-23T08:03:10.474413-07:00.jpg">July 23 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-23 03:32:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-22T20:32:56.929900-07:00.jpg">Jul 23 at 3:32 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-22T20:32:56.929900-07:00.jpg">July 23 at 3:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-22 14:58:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-22T07:58:50.831001-07:00.jpg">Jul 22 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-22T07:58:50.831001-07:00.jpg">July 22 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-22 03:38:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-21T20:38:15.862770-07:00.jpg">Jul 22 at 3:38 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-21T20:38:15.862770-07:00.jpg">July 22 at 3:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-21 15:31:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-21T08:31:34.908599-07:00.jpg">Jul 21 at 3:31 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-21T08:31:34.908599-07:00.jpg">July 21 at 3:31 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-21 03:35:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-20T20:35:39.786799-07:00.jpg">Jul 21 at 3:35 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-20T20:35:39.786799-07:00.jpg">July 21 at 3:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-20 16:09:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-20T09:09:05.860778-07:00.jpg">Jul 20 at 4:09 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-20T09:09:05.860778-07:00.jpg">July 20 at 4:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-20 03:33:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-19T20:33:03.126171-07:00.jpg">Jul 20 at 3:33 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-19T20:33:03.126171-07:00.jpg">July 20 at 3:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="NBC Bay Area at 2022-07-19 15:43:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-19T08:43:08.392470-07:00.jpg">Jul 19 at 3:43 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-07-19T08:43:08.392470-07:00.jpg">July 19 at 3:43 PM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-25 14:04:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T07:04:18.718718-05:00.jpg">Jul 25 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-25T07:04:18.718718-05:00.jpg">July 25 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-25 03:08:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-24T20:08:25.367768-05:00.jpg">Jul 25 at 3:08 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-24T20:08:25.367768-05:00.jpg">July 25 at 3:08 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-24 17:44:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-24T10:44:34.773693-05:00.jpg">Jul 24 at 5:44 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-24T10:44:34.773693-05:00.jpg">July 24 at 5:44 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-24 14:01:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-24T07:01:00.249527-05:00.jpg">Jul 24 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-24T07:01:00.249527-05:00.jpg">July 24 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-24 08:31:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-24T01:31:08.453786-05:00.jpg">Jul 24 at 8:31 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-24T01:31:08.453786-05:00.jpg">July 24 at 8:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-23 18:11:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-23T11:11:31.562012-05:00.jpg">Jul 23 at 6:11 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-23T11:11:31.562012-05:00.jpg">July 23 at 6:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-23 16:00:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-23T09:00:58.012168-05:00.jpg">Jul 23 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-23T09:00:58.012168-05:00.jpg">July 23 at 4:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-23 04:27:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T21:27:01.473943-05:00.jpg">Jul 23 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T21:27:01.473943-05:00.jpg">July 23 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-22 18:25:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T11:25:01.282107-05:00.jpg">Jul 22 at 6:25 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T11:25:01.282107-05:00.jpg">July 22 at 6:25 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-22 16:01:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T09:01:37.206613-05:00.jpg">Jul 22 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-22T09:01:37.206613-05:00.jpg">July 22 at 4:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-22 04:21:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-21T21:20:58.070058-05:00.jpg">Jul 22 at 4:21 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-21T21:20:58.070058-05:00.jpg">July 22 at 4:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Gateway Pundit at 2022-07-21 19:01:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-21T12:01:18.684469-05:00.jpg">Jul 21 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-07-21T12:01:18.684469-05:00.jpg">July 21 at 7:01 PM</a></p>
 </div>
 
 </div>

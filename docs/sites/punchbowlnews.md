@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-25 06:41:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg">Jul 25 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T23:41:02.600627-04:00.jpg">July 25 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-24 17:02:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.jpg">Jul 24 at 5:02 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T10:02:15.600737-04:00.jpg">July 24 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-24 09:21:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.jpg">Jul 24 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-24T02:21:31.331110-04:00.jpg">July 24 at 9:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-23 18:08:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.jpg">Jul 23 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-23T11:08:26.384622-04:00.jpg">July 23 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-23 06:36:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T23:36:53.976452-04:00.jpg">Jul 23 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T23:36:53.976452-04:00.jpg">July 23 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-22 18:03:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T11:03:13.518252-04:00.jpg">Jul 22 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-22T11:03:13.518252-04:00.jpg">July 22 at 6:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-22 06:42:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T23:42:05.469053-04:00.jpg">Jul 22 at 6:42 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T23:42:05.469053-04:00.jpg">July 22 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-21 18:38:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T11:38:19.728440-04:00.jpg">Jul 21 at 6:38 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-21T11:38:19.728440-04:00.jpg">July 21 at 6:38 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-21 06:40:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T23:40:26.886472-04:00.jpg">Jul 21 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T23:40:26.886472-04:00.jpg">July 21 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-20 19:14:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T12:14:27.185531-04:00.jpg">Jul 20 at 7:14 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-20T12:14:27.185531-04:00.jpg">July 20 at 7:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-20 06:37:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-19T23:37:23.816249-04:00.jpg">Jul 20 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-19T23:37:23.816249-04:00.jpg">July 20 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Punchbowl News at 2022-07-19 18:48:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-19T11:48:18.154908-04:00.jpg">Jul 19 at 6:48 PM</a></p>
+ <p><a href="https://archive.org/download/punchbowlnews-2022/punchbowlnews-2022-07-19T11:48:18.154908-04:00.jpg">July 19 at 6:48 PM</a></p>
 </div>
 
 </div>

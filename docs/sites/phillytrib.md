@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-25 06:39:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.jpg">Jul 25 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T23:39:37.947170-04:00.jpg">July 25 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-24 16:59:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.jpg">Jul 24 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T09:59:57.382958-04:00.jpg">July 24 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-24 09:19:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T02:19:18.554197-04:00.jpg">Jul 24 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-24T02:19:18.554197-04:00.jpg">July 24 at 9:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-23 18:06:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-23T11:06:51.204446-04:00.jpg">Jul 23 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-23T11:06:51.204446-04:00.jpg">July 23 at 6:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-23 06:35:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T23:35:51.005820-04:00.jpg">Jul 23 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T23:35:51.005820-04:00.jpg">July 23 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-22 18:01:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T11:01:34.098932-04:00.jpg">Jul 22 at 6:01 PM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-22T11:01:34.098932-04:00.jpg">July 22 at 6:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-22 06:40:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-21T23:40:24.649611-04:00.jpg">Jul 22 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-21T23:40:24.649611-04:00.jpg">July 22 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-21 18:37:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-21T11:37:18.044272-04:00.jpg">Jul 21 at 6:37 PM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-21T11:37:18.044272-04:00.jpg">July 21 at 6:37 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-21 06:38:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-20T23:38:44.880592-04:00.jpg">Jul 21 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-20T23:38:44.880592-04:00.jpg">July 21 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-20 19:13:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-20T12:13:02.927426-04:00.jpg">Jul 20 at 7:13 PM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-20T12:13:02.927426-04:00.jpg">July 20 at 7:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-20 06:36:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-19T23:36:17.607308-04:00.jpg">Jul 20 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-19T23:36:17.607308-04:00.jpg">July 20 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Philadelphia Tribune at 2022-07-19 18:46:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-19T11:46:55.241574-04:00.jpg">Jul 19 at 6:46 PM</a></p>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-07-19T11:46:55.241574-04:00.jpg">July 19 at 6:46 PM</a></p>
 </div>
 
 </div>

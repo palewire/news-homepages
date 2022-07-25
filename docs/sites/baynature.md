@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-25 10:59:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-25T03:59:14.650251-07:00.jpg">Jul 25 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-25T03:59:14.650251-07:00.jpg">July 25 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-25 00:49:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-24T17:49:20.818862-07:00.jpg">Jul 25 at 12:49 AM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-24T17:49:20.818862-07:00.jpg">July 25 at 12:49 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-24 10:58:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-24T03:57:57.607946-07:00.jpg">Jul 24 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-24T03:57:57.607946-07:00.jpg">July 24 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-23 23:00:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-23T16:00:31.440881-07:00.jpg">Jul 23 at 11:00 PM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-23T16:00:31.440881-07:00.jpg">July 23 at 11:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-23 12:57:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-23T05:57:21.408154-07:00.jpg">Jul 23 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-23T05:57:21.408154-07:00.jpg">July 23 at 12:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-23 00:57:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-22T17:57:37.486817-07:00.jpg">Jul 23 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-22T17:57:37.486817-07:00.jpg">July 23 at 12:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-22 12:57:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-22T05:57:11.217053-07:00.jpg">Jul 22 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-22T05:57:11.217053-07:00.jpg">July 22 at 12:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-22 01:05:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-21T18:05:31.126287-07:00.jpg">Jul 22 at 1:05 AM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-21T18:05:31.126287-07:00.jpg">July 22 at 1:05 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-21 12:52:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-21T05:52:02.290821-07:00.jpg">Jul 21 at 12:52 PM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-21T05:52:02.290821-07:00.jpg">July 21 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-21 01:04:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-20T18:03:58.842044-07:00.jpg">Jul 21 at 1:04 AM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-20T18:03:58.842044-07:00.jpg">July 21 at 1:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-20 12:52:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-20T05:52:27.018533-07:00.jpg">Jul 20 at 12:52 PM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-20T05:52:27.018533-07:00.jpg">July 20 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Bay Nature at 2022-07-20 00:59:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-19T17:59:46.864754-07:00.jpg">Jul 20 at 12:59 AM</a></p>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-07-19T17:59:46.864754-07:00.jpg">July 20 at 12:59 AM</a></p>
 </div>
 
 </div>

@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Annapurna Post at 2022-07-25 13:31:10+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg">Jul 25 at 1:31 PM</a></p>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T06:31:08.498425+05:45.jpg">July 25 at 1:31 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Annapurna Post at 2022-07-25 09:22:04+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg">Jul 25 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-07-25T02:21:57.909910+05:45.jpg">July 25 at 9:22 AM</a></p>
 </div>
 
 </div>

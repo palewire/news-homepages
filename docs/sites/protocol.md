@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-25 06:46:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-24T23:46:47.963362-07:00.jpg">Jul 25 at 6:46 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-24T23:46:47.963362-07:00.jpg">July 25 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-25 03:40:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-24T20:40:55.295169-07:00.jpg">Jul 25 at 3:40 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-24T20:40:55.295169-07:00.jpg">July 25 at 3:40 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-24 14:01:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-24T07:00:54.924876-07:00.jpg">Jul 24 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-24T07:00:54.924876-07:00.jpg">July 24 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-24 06:20:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-23T23:20:16.906682-07:00.jpg">Jul 24 at 6:20 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-23T23:20:16.906682-07:00.jpg">July 24 at 6:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-23 15:07:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-23T08:07:12.356850-07:00.jpg">Jul 23 at 3:07 PM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-23T08:07:12.356850-07:00.jpg">July 23 at 3:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-23 03:37:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-22T20:36:56.985671-07:00.jpg">Jul 23 at 3:37 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-22T20:36:56.985671-07:00.jpg">July 23 at 3:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-22 15:03:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-22T08:03:19.754176-07:00.jpg">Jul 22 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-22T08:03:19.754176-07:00.jpg">July 22 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-22 03:41:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-21T20:41:08.301927-07:00.jpg">Jul 22 at 3:41 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-21T20:41:08.301927-07:00.jpg">July 22 at 3:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-21 15:38:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-21T08:38:13.667684-07:00.jpg">Jul 21 at 3:38 PM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-21T08:38:13.667684-07:00.jpg">July 21 at 3:38 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-21 03:39:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-20T20:39:33.738443-07:00.jpg">Jul 21 at 3:39 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-20T20:39:33.738443-07:00.jpg">July 21 at 3:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-20 16:14:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-20T09:14:41.839834-07:00.jpg">Jul 20 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-20T09:14:41.839834-07:00.jpg">July 20 at 4:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Protocol at 2022-07-20 03:36:56-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-19T20:36:53.717901-07:00.jpg">Jul 20 at 3:36 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-07-19T20:36:53.717901-07:00.jpg">July 20 at 3:36 AM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-25 06:42:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T23:42:48.763782-04:00.jpg">Jul 25 at 6:42 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T23:42:48.763782-04:00.jpg">July 25 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-24 17:03:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T10:03:11.221047-04:00.jpg">Jul 24 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T10:03:11.221047-04:00.jpg">July 24 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-24 09:22:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T02:22:29.731017-04:00.jpg">Jul 24 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-24T02:22:29.731017-04:00.jpg">July 24 at 9:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-23 18:09:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-23T11:09:29.346840-04:00.jpg">Jul 23 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-23T11:09:29.346840-04:00.jpg">July 23 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-23 06:39:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T23:39:07.005230-04:00.jpg">Jul 23 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T23:39:07.005230-04:00.jpg">July 23 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-22 18:05:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T11:05:09.877907-04:00.jpg">Jul 22 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-22T11:05:09.877907-04:00.jpg">July 22 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-22 06:43:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T23:43:35.853375-04:00.jpg">Jul 22 at 6:43 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T23:43:35.853375-04:00.jpg">July 22 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-21 18:40:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T11:40:22.991053-04:00.jpg">Jul 21 at 6:40 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-21T11:40:22.991053-04:00.jpg">July 21 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-21 06:41:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T23:41:56.021579-04:00.jpg">Jul 21 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T23:41:56.021579-04:00.jpg">July 21 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-20 19:41:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T12:41:06.667666-04:00.jpg">Jul 20 at 7:41 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T12:41:06.667666-04:00.jpg">July 20 at 7:41 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-20 07:18:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T00:18:15.267664-04:00.jpg">Jul 20 at 7:18 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-20T00:18:15.267664-04:00.jpg">July 20 at 7:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="SB Nation at 2022-07-19 19:56:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-19T12:56:15.517637-04:00.jpg">Jul 19 at 7:56 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-07-19T12:56:15.517637-04:00.jpg">July 19 at 7:56 PM</a></p>
 </div>
 
 </div>

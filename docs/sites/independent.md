@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-25 20:06:37+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-25T13:06:35.569359+01:00.jpg">Jul 25 at 8:06 PM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-25T13:06:35.569359+01:00.jpg">July 25 at 8:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-25 17:09:57+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-25T10:09:50.406228+01:00.jpg">Jul 25 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-25T10:09:50.406228+01:00.jpg">July 25 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-25 09:11:29+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-25T02:11:27.591016+01:00.jpg">Jul 25 at 9:11 AM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-25T02:11:27.591016+01:00.jpg">July 25 at 9:11 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-24 20:03:09+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-24T13:03:08.268259+01:00.jpg">Jul 24 at 8:03 PM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-24T13:03:08.268259+01:00.jpg">July 24 at 8:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-24 17:10:01+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-24T10:09:59.294749+01:00.jpg">Jul 24 at 5:10 PM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-24T10:09:59.294749+01:00.jpg">July 24 at 5:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-24 14:34:01+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-24T07:33:45.251685+01:00.jpg">Jul 24 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-24T07:33:45.251685+01:00.jpg">July 24 at 2:34 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-23 22:03:03+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-23T15:03:02.251910+01:00.jpg">Jul 23 at 10:03 PM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-23T15:03:02.251910+01:00.jpg">July 23 at 10:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-23 17:06:32+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-23T10:06:30.502116+01:00.jpg">Jul 23 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-23T10:06:30.502116+01:00.jpg">July 23 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-23 10:28:53+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-23T03:28:45.537969+01:00.jpg">Jul 23 at 10:28 AM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-23T03:28:45.537969+01:00.jpg">July 23 at 10:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-22 22:03:42+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-22T15:03:40.994080+01:00.jpg">Jul 22 at 10:03 PM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-22T15:03:40.994080+01:00.jpg">July 22 at 10:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-22 17:07:15+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-22T10:07:13.824815+01:00.jpg">Jul 22 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-22T10:07:13.824815+01:00.jpg">July 22 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="The Independent at 2022-07-22 10:23:22+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-07-22T03:23:14.500783+01:00.jpg">Jul 22 at 10:23 AM</a></p>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-07-22T03:23:14.500783+01:00.jpg">July 22 at 10:23 AM</a></p>
 </div>
 
 </div>

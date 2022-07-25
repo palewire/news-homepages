@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-25 12:59:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T05:59:36.027069-05:00.jpg">Jul 25 at 12:59 PM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-25T05:59:36.027069-05:00.jpg">July 25 at 12:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-25 02:50:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T19:50:44.431975-05:00.jpg">Jul 25 at 2:50 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T19:50:44.431975-05:00.jpg">July 25 at 2:50 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-24 12:58:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T05:58:44.713313-05:00.jpg">Jul 24 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-24T05:58:44.713313-05:00.jpg">July 24 at 12:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-24 01:01:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T18:01:46.735766-05:00.jpg">Jul 24 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T18:01:46.735766-05:00.jpg">July 24 at 1:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-23 14:57:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T07:57:35.183220-05:00.jpg">Jul 23 at 2:57 PM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-23T07:57:35.183220-05:00.jpg">July 23 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-23 02:58:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-22T19:58:18.758064-05:00.jpg">Jul 23 at 2:58 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-22T19:58:18.758064-05:00.jpg">July 23 at 2:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-22 14:58:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-22T07:58:02.432068-05:00.jpg">Jul 22 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-22T07:58:02.432068-05:00.jpg">July 22 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-22 03:06:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-21T20:06:42.220401-05:00.jpg">Jul 22 at 3:06 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-21T20:06:42.220401-05:00.jpg">July 22 at 3:06 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-21 14:52:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-21T07:52:50.229420-05:00.jpg">Jul 21 at 2:52 PM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-21T07:52:50.229420-05:00.jpg">July 21 at 2:52 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-21 03:05:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-20T20:05:20.653458-05:00.jpg">Jul 21 at 3:05 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-20T20:05:20.653458-05:00.jpg">July 21 at 3:05 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-20 14:53:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-20T07:53:40.406967-05:00.jpg">Jul 20 at 2:53 PM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-20T07:53:40.406967-05:00.jpg">July 20 at 2:53 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="BirminghamWatch at 2022-07-20 02:59:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-19T19:59:55.268111-05:00.jpg">Jul 20 at 2:59 AM</a></p>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-19T19:59:55.268111-05:00.jpg">July 20 at 2:59 AM</a></p>
 </div>
 
 </div>

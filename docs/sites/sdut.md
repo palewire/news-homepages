@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-25 03:43:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-24T20:43:02.427133-07:00.jpg">Jul 25 at 3:43 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-24T20:43:02.427133-07:00.jpg">July 25 at 3:43 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-24 18:20:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-24T11:20:24.470396-07:00.jpg">Jul 24 at 6:20 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-24T11:20:24.470396-07:00.jpg">July 24 at 6:20 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-24 14:03:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-24T07:03:31.053571-07:00.jpg">Jul 24 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-24T07:03:31.053571-07:00.jpg">July 24 at 2:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-24 06:23:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-23T23:23:08.938810-07:00.jpg">Jul 24 at 6:23 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-23T23:23:08.938810-07:00.jpg">July 24 at 6:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-23 18:24:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-23T11:24:10.130591-07:00.jpg">Jul 23 at 6:24 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-23T11:24:10.130591-07:00.jpg">July 23 at 6:24 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-23 16:02:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-23T09:01:54.210966-07:00.jpg">Jul 23 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-23T09:01:54.210966-07:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-23 04:22:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-22T21:22:05.175125-07:00.jpg">Jul 23 at 4:22 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-22T21:22:05.175125-07:00.jpg">July 23 at 4:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-22 18:08:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-22T11:08:48.296492-07:00.jpg">Jul 22 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-22T11:08:48.296492-07:00.jpg">July 22 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-22 16:14:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-22T09:14:14.458072-07:00.jpg">Jul 22 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-22T09:14:14.458072-07:00.jpg">July 22 at 4:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-22 04:28:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-21T21:28:11.580544-07:00.jpg">Jul 22 at 4:28 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-21T21:28:11.580544-07:00.jpg">July 22 at 4:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-21 18:08:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-21T11:08:35.818781-07:00.jpg">Jul 21 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-21T11:08:35.818781-07:00.jpg">July 21 at 6:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="San Diego Union Tribune at 2022-07-21 16:51:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-21T09:51:17.668135-07:00.jpg">Jul 21 at 4:51 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-07-21T09:51:17.668135-07:00.jpg">July 21 at 4:51 PM</a></p>
 </div>
 
 </div>

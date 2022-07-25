@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-25 13:56:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-25T06:56:12.723206-04:00.jpg">Jul 25 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-25T06:56:12.723206-04:00.jpg">July 25 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-25 03:44:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-24T20:44:45.054182-04:00.jpg">Jul 25 at 3:44 AM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-24T20:44:45.054182-04:00.jpg">July 25 at 3:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-24 13:54:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-24T06:54:51.497176-04:00.jpg">Jul 24 at 1:54 PM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-24T06:54:51.497176-04:00.jpg">July 24 at 1:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-24 01:58:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-23T18:58:18.315175-04:00.jpg">Jul 24 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-23T18:58:18.315175-04:00.jpg">July 24 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-23 15:54:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-23T08:54:15.266519-04:00.jpg">Jul 23 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-23T08:54:15.266519-04:00.jpg">July 23 at 3:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-23 03:55:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-22T20:55:09.011661-04:00.jpg">Jul 23 at 3:55 AM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-22T20:55:09.011661-04:00.jpg">July 23 at 3:55 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-22 15:54:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-22T08:54:35.563246-04:00.jpg">Jul 22 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-22T08:54:35.563246-04:00.jpg">July 22 at 3:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-22 04:02:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-21T21:02:53.799472-04:00.jpg">Jul 22 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-21T21:02:53.799472-04:00.jpg">July 22 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-21 04:01:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-20T21:01:30.394168-04:00.jpg">Jul 21 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-20T21:01:30.394168-04:00.jpg">July 21 at 4:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-20 15:50:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-20T08:50:26.666194-04:00.jpg">Jul 20 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-20T08:50:26.666194-04:00.jpg">July 20 at 3:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-20 03:57:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-19T20:57:09.433417-04:00.jpg">Jul 20 at 3:57 AM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-19T20:57:09.433417-04:00.jpg">July 20 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="6abc at 2022-07-19 15:47:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-19T08:47:22.502783-04:00.jpg">Jul 19 at 3:47 PM</a></p>
+ <p><a href="https://archive.org/download/6abc-2022/6abc-2022-07-19T08:47:22.502783-04:00.jpg">July 19 at 3:47 PM</a></p>
 </div>
 
 </div>

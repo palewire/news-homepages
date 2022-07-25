@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-25 03:42:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.jpg">Jul 25 at 3:42 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-24T20:41:58.859073-07:00.jpg">July 25 at 3:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-24 14:02:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.jpg">Jul 24 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-24T07:01:56.621972-07:00.jpg">July 24 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-24 06:21:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.jpg">Jul 24 at 6:21 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-23T23:21:23.114699-07:00.jpg">July 24 at 6:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-23 15:08:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-23T08:08:27.757733-07:00.jpg">Jul 23 at 3:08 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-23T08:08:27.757733-07:00.jpg">July 23 at 3:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-23 03:37:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-22T20:37:55.921503-07:00.jpg">Jul 23 at 3:37 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-22T20:37:55.921503-07:00.jpg">July 23 at 3:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-22 15:04:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-22T08:04:18.981519-07:00.jpg">Jul 22 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-22T08:04:18.981519-07:00.jpg">July 22 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-22 03:42:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-21T20:42:15.780489-07:00.jpg">Jul 22 at 3:42 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-21T20:42:15.780489-07:00.jpg">July 22 at 3:42 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-21 15:39:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-21T08:39:28.054148-07:00.jpg">Jul 21 at 3:39 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-21T08:39:28.054148-07:00.jpg">July 21 at 3:39 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-21 03:41:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-20T20:41:47.971472-07:00.jpg">Jul 21 at 3:41 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-20T20:41:47.971472-07:00.jpg">July 21 at 3:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-20 16:15:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-20T09:15:51.350586-07:00.jpg">Jul 20 at 4:15 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-20T09:15:51.350586-07:00.jpg">July 20 at 4:15 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-20 03:38:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-19T20:37:57.960280-07:00.jpg">Jul 20 at 3:38 AM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-19T20:37:57.960280-07:00.jpg">July 20 at 3:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Reveal at 2022-07-19 15:49:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-19T08:49:00.619604-07:00.jpg">Jul 19 at 3:49 PM</a></p>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-07-19T08:49:00.619604-07:00.jpg">July 19 at 3:49 PM</a></p>
 </div>
 
 </div>

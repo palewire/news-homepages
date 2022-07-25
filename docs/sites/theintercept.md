@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-25 07:36:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-25T00:36:10.517039-04:00.jpg">Jul 25 at 7:36 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-25T00:36:10.517039-04:00.jpg">July 25 at 7:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-24 18:43:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-24T11:43:44.560025-04:00.jpg">Jul 24 at 6:43 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-24T11:43:44.560025-04:00.jpg">July 24 at 6:43 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-24 18:06:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-24T11:06:39.214324-04:00.jpg">Jul 24 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-24T11:06:39.214324-04:00.jpg">July 24 at 6:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-24 06:41:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T23:41:25.896376-04:00.jpg">Jul 24 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T23:41:25.896376-04:00.jpg">July 24 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-23 21:13:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T14:13:53.075784-04:00.jpg">Jul 23 at 9:13 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T14:13:53.075784-04:00.jpg">July 23 at 9:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-23 19:04:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T12:04:47.283823-04:00.jpg">Jul 23 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T12:04:47.283823-04:00.jpg">July 23 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-23 07:25:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T00:25:36.333963-04:00.jpg">Jul 23 at 7:25 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-23T00:25:36.333963-04:00.jpg">July 23 at 7:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-22 19:17:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-22T12:17:54.582847-04:00.jpg">Jul 22 at 7:17 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-22T12:17:54.582847-04:00.jpg">July 22 at 7:17 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-22 19:12:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-22T12:12:30.726284-04:00.jpg">Jul 22 at 7:12 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-22T12:12:30.726284-04:00.jpg">July 22 at 7:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-22 07:31:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-22T00:31:31.883336-04:00.jpg">Jul 22 at 7:31 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-22T00:31:31.883336-04:00.jpg">July 22 at 7:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-21 19:55:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-21T12:55:03.038411-04:00.jpg">Jul 21 at 7:55 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-21T12:55:03.038411-04:00.jpg">July 21 at 7:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Intercept at 2022-07-21 19:50:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-21T12:50:16.030749-04:00.jpg">Jul 21 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-07-21T12:50:16.030749-04:00.jpg">July 21 at 7:50 PM</a></p>
 </div>
 
 </div>

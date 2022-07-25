@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-25 05:27:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-24T22:27:38.496707-05:00.jpg">Jul 25 at 5:27 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-24T22:27:38.496707-05:00.jpg">July 25 at 5:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-24 15:00:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-24T08:00:02.017399-05:00.jpg">Jul 24 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-24T08:00:02.017399-05:00.jpg">July 24 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-24 06:16:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-23T23:16:26.419764-05:00.jpg">Jul 24 at 6:16 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-23T23:16:26.419764-05:00.jpg">July 24 at 6:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-23 16:06:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-23T09:06:22.364677-05:00.jpg">Jul 23 at 4:06 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-23T09:06:22.364677-05:00.jpg">July 23 at 4:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-23 04:32:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-22T21:32:01.706838-05:00.jpg">Jul 23 at 4:32 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-22T21:32:01.706838-05:00.jpg">July 23 at 4:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-22 16:07:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-22T09:06:58.427247-05:00.jpg">Jul 22 at 4:07 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-22T09:06:58.427247-05:00.jpg">July 22 at 4:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -88,7 +88,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-22 04:25:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-21T21:25:56.017910-05:00.jpg">Jul 22 at 4:25 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-21T21:25:56.017910-05:00.jpg">July 22 at 4:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,7 +97,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-21 16:21:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-21T09:21:05.475735-05:00.jpg">Jul 21 at 4:21 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-21T09:21:05.475735-05:00.jpg">July 21 at 4:21 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -106,7 +106,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-21 04:28:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-20T21:28:15.724545-05:00.jpg">Jul 21 at 4:28 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-20T21:28:15.724545-05:00.jpg">July 21 at 4:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -115,7 +115,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-20 16:29:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-20T09:29:02.660377-05:00.jpg">Jul 20 at 4:29 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-20T09:29:02.660377-05:00.jpg">July 20 at 4:29 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -124,7 +124,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-20 04:21:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-19T21:21:48.035795-05:00.jpg">Jul 20 at 4:21 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-19T21:21:48.035795-05:00.jpg">July 20 at 4:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -133,7 +133,7 @@ Here are the 12 most recent screenshots.
      alt="KVUE at 2022-07-19 16:19:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-19T09:19:47.066587-05:00.jpg">Jul 19 at 4:19 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-07-19T09:19:47.066587-05:00.jpg">July 19 at 4:19 PM</a></p>
 </div>
 
 </div>

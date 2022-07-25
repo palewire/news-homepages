@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-25 06:33:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T23:33:53.364161-04:00.jpg">Jul 25 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T23:33:53.364161-04:00.jpg">July 25 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-24 16:04:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T09:04:02.625696-04:00.jpg">Jul 24 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T09:04:02.625696-04:00.jpg">July 24 at 4:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-24 07:19:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T00:19:29.406661-04:00.jpg">Jul 24 at 7:19 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-24T00:19:29.406661-04:00.jpg">July 24 at 7:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-23 18:02:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-23T11:02:20.606442-04:00.jpg">Jul 23 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-23T11:02:20.606442-04:00.jpg">July 23 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-23 06:32:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T23:32:28.726404-04:00.jpg">Jul 23 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T23:32:28.726404-04:00.jpg">July 23 at 6:32 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-22 17:58:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T10:58:20.567145-04:00.jpg">Jul 22 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-22T10:58:20.567145-04:00.jpg">July 22 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-22 06:36:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T23:36:53.094262-04:00.jpg">Jul 22 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T23:36:53.094262-04:00.jpg">July 22 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-21 18:34:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T11:34:41.045053-04:00.jpg">Jul 21 at 6:34 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-21T11:34:41.045053-04:00.jpg">July 21 at 6:34 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-21 06:35:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T23:35:12.430576-04:00.jpg">Jul 21 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T23:35:12.430576-04:00.jpg">July 21 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-20 19:08:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T12:08:57.570150-04:00.jpg">Jul 20 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-20T12:08:57.570150-04:00.jpg">July 20 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-20 06:33:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-19T23:33:03.857127-04:00.jpg">Jul 20 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-19T23:33:03.857127-04:00.jpg">July 20 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="National Geographic at 2022-07-19 18:43:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-19T11:43:24.611784-04:00.jpg">Jul 19 at 6:43 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-07-19T11:43:24.611784-04:00.jpg">July 19 at 6:43 PM</a></p>
 </div>
 
 </div>

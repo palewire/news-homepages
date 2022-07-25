@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-25 15:02:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-25T08:02:52.458385-04:00.jpg">Jul 25 at 3:02 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-25T08:02:52.458385-04:00.jpg">July 25 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-25 04:05:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-24T21:05:44.257794-04:00.jpg">Jul 25 at 4:05 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-24T21:05:44.257794-04:00.jpg">July 25 at 4:05 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-24 14:59:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-24T07:59:49.290671-04:00.jpg">Jul 24 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-24T07:59:49.290671-04:00.jpg">July 24 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-24 09:29:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-24T02:29:35.420115-04:00.jpg">Jul 24 at 9:29 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-24T02:29:35.420115-04:00.jpg">July 24 at 9:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-23 16:59:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-23T09:59:24.593941-04:00.jpg">Jul 23 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-23T09:59:24.593941-04:00.jpg">July 23 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-23 05:25:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-22T22:25:48.451414-04:00.jpg">Jul 23 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-22T22:25:48.451414-04:00.jpg">July 23 at 5:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-22 17:00:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-22T10:00:32.685546-04:00.jpg">Jul 22 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-22T10:00:32.685546-04:00.jpg">July 22 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-22 05:19:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-21T22:19:55.654103-04:00.jpg">Jul 22 at 5:19 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-21T22:19:55.654103-04:00.jpg">July 22 at 5:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-21 17:06:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-21T10:06:19.066225-04:00.jpg">Jul 21 at 5:06 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-21T10:06:19.066225-04:00.jpg">July 21 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-21 05:22:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-20T22:22:21.975910-04:00.jpg">Jul 21 at 5:22 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-20T22:22:21.975910-04:00.jpg">July 21 at 5:22 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-20 17:23:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-20T10:23:01.787117-04:00.jpg">Jul 20 at 5:23 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-20T10:23:01.787117-04:00.jpg">July 20 at 5:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Florida Phoenix at 2022-07-20 05:17:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-19T22:17:12.510684-04:00.jpg">Jul 20 at 5:17 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-07-19T22:17:12.510684-04:00.jpg">July 20 at 5:17 AM</a></p>
 </div>
 
 </div>

@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-25 14:01:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-25T07:01:17.233390-05:00.jpg">Jul 25 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-25T07:01:17.233390-05:00.jpg">July 25 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-25 03:03:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T20:03:35.741747-05:00.jpg">Jul 25 at 3:03 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T20:03:35.741747-05:00.jpg">July 25 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-24 17:45:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T10:45:42.299897-05:00.jpg">Jul 24 at 5:45 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T10:45:42.299897-05:00.jpg">July 24 at 5:45 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-24 13:58:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T06:58:35.311547-05:00.jpg">Jul 24 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T06:58:35.311547-05:00.jpg">July 24 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-24 08:28:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T01:28:42.646681-05:00.jpg">Jul 24 at 8:28 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-24T01:28:42.646681-05:00.jpg">July 24 at 8:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-23 15:57:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-23T08:57:54.905820-05:00.jpg">Jul 23 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-23T08:57:54.905820-05:00.jpg">July 23 at 3:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-23 04:24:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T21:24:38.486775-05:00.jpg">Jul 23 at 4:24 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T21:24:38.486775-05:00.jpg">July 23 at 4:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-22 18:23:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T11:23:50.355887-05:00.jpg">Jul 22 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T11:23:50.355887-05:00.jpg">July 22 at 6:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-22 15:59:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T08:59:00.246762-05:00.jpg">Jul 22 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-22T08:59:00.246762-05:00.jpg">July 22 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-22 04:19:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T21:19:28.708198-05:00.jpg">Jul 22 at 4:19 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T21:19:28.708198-05:00.jpg">July 22 at 4:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-21 18:49:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T11:49:03.546999-05:00.jpg">Jul 21 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T11:49:03.546999-05:00.jpg">July 21 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Evanston RoundTable at 2022-07-21 16:05:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T09:05:18.766563-05:00.jpg">Jul 21 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-07-21T09:05:18.766563-05:00.jpg">July 21 at 4:05 PM</a></p>
 </div>
 
 </div>

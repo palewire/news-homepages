@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-25 19:43:09+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-25T12:43:08.298443+09:00.jpg">Jul 25 at 7:43 PM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-25T12:43:08.298443+09:00.jpg">July 25 at 7:43 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-25 19:36:28+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-25T12:36:27.209912+09:00.jpg">Jul 25 at 7:36 PM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-25T12:36:27.209912+09:00.jpg">July 25 at 7:36 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-25 06:03:48+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-24T23:03:46.736280+09:00.jpg">Jul 25 at 6:03 AM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-24T23:03:46.736280+09:00.jpg">July 25 at 6:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-24 22:23:26+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-24T15:23:24.256257+09:00.jpg">Jul 24 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-24T15:23:24.256257+09:00.jpg">July 24 at 10:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-24 18:26:19+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-24T11:26:17.234382+09:00.jpg">Jul 24 at 6:26 PM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-24T11:26:17.234382+09:00.jpg">July 24 at 6:26 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-24 08:01:41+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-24T01:01:39.267667+09:00.jpg">Jul 24 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-24T01:01:39.267667+09:00.jpg">July 24 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-23 20:22:01+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-23T13:21:59.441705+09:00.jpg">Jul 23 at 8:22 PM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-23T13:21:59.441705+09:00.jpg">July 23 at 8:22 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-23 17:34:56+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-23T10:34:54.867862+09:00.jpg">Jul 23 at 5:34 PM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-23T10:34:54.867862+09:00.jpg">July 23 at 5:34 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-23 08:14:21+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-23T01:14:15.579332+09:00.jpg">Jul 23 at 8:14 AM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-23T01:14:15.579332+09:00.jpg">July 23 at 8:14 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-22 20:28:10+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-22T13:28:08.210386+09:00.jpg">Jul 22 at 8:28 PM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-22T13:28:08.210386+09:00.jpg">July 22 at 8:28 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-22 17:33:55+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-22T10:33:53.701234+09:00.jpg">Jul 22 at 5:33 PM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-22T10:33:53.701234+09:00.jpg">July 22 at 5:33 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Seikyo Shimbun at 2022-07-22 08:52:13+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-22T01:52:12.653329+09:00.jpg">Jul 22 at 8:52 AM</a></p>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-07-22T01:52:12.653329+09:00.jpg">July 22 at 8:52 AM</a></p>
 </div>
 
 </div>

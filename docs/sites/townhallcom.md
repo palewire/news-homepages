@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-25 07:38:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T00:38:32.665938-04:00.jpg">Jul 25 at 7:38 AM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-25T00:38:32.665938-04:00.jpg">July 25 at 7:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-24 18:45:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-24T11:45:35.716975-04:00.jpg">Jul 24 at 6:45 PM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-24T11:45:35.716975-04:00.jpg">July 24 at 6:45 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-24 18:09:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-24T11:09:04.514594-04:00.jpg">Jul 24 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-24T11:09:04.514594-04:00.jpg">July 24 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-24 06:44:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-23T23:44:03.028037-04:00.jpg">Jul 24 at 6:44 AM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-23T23:44:03.028037-04:00.jpg">July 24 at 6:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-23 19:11:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-23T12:11:57.449483-04:00.jpg">Jul 23 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-23T12:11:57.449483-04:00.jpg">July 23 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-23 19:07:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-23T12:06:59.214370-04:00.jpg">Jul 23 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-23T12:06:59.214370-04:00.jpg">July 23 at 7:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -88,7 +88,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-23 07:27:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-23T00:27:02.598668-04:00.jpg">Jul 23 at 7:27 AM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-23T00:27:02.598668-04:00.jpg">July 23 at 7:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,7 +97,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-22 19:25:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-22T12:25:46.318233-04:00.jpg">Jul 22 at 7:25 PM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-22T12:25:46.318233-04:00.jpg">July 22 at 7:25 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -106,7 +106,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-22 19:19:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-22T12:19:54.205405-04:00.jpg">Jul 22 at 7:19 PM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-22T12:19:54.205405-04:00.jpg">July 22 at 7:19 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -115,7 +115,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-22 07:33:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-22T00:33:36.349143-04:00.jpg">Jul 22 at 7:33 AM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-22T00:33:36.349143-04:00.jpg">July 22 at 7:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -124,7 +124,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-21 20:02:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-21T13:02:12.811486-04:00.jpg">Jul 21 at 8:02 PM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-21T13:02:12.811486-04:00.jpg">July 21 at 8:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -133,7 +133,7 @@ Here are the 12 most recent screenshots.
      alt="Townhall at 2022-07-21 19:57:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-21T12:57:06.293278-04:00.jpg">Jul 21 at 7:57 PM</a></p>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-07-21T12:57:06.293278-04:00.jpg">July 21 at 7:57 PM</a></p>
 </div>
 
 </div>

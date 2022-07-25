@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-25 13:58:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T06:58:14.328526-04:00.jpg">Jul 25 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-25T06:58:14.328526-04:00.jpg">July 25 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-25 03:48:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T20:47:59.435206-04:00.jpg">Jul 25 at 3:48 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T20:47:59.435206-04:00.jpg">July 25 at 3:48 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-24 13:57:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T06:57:10.543251-04:00.jpg">Jul 24 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-24T06:57:10.543251-04:00.jpg">July 24 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-24 01:59:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T18:59:04.601804-04:00.jpg">Jul 24 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T18:59:04.601804-04:00.jpg">July 24 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-23 15:55:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T08:55:54.923747-04:00.jpg">Jul 23 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-23T08:55:54.923747-04:00.jpg">July 23 at 3:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-23 03:57:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T20:57:04.723719-04:00.jpg">Jul 23 at 3:57 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T20:57:04.723719-04:00.jpg">July 23 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-22 15:56:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T08:56:01.295859-04:00.jpg">Jul 22 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-22T08:56:01.295859-04:00.jpg">July 22 at 3:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-22 04:04:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T21:04:14.091409-04:00.jpg">Jul 22 at 4:04 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T21:04:14.091409-04:00.jpg">July 22 at 4:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-21 15:50:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T08:50:56.814459-04:00.jpg">Jul 21 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-21T08:50:56.814459-04:00.jpg">July 21 at 3:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-21 04:02:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-20T21:02:42.350431-04:00.jpg">Jul 21 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-20T21:02:42.350431-04:00.jpg">July 21 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-20 15:51:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-20T08:51:19.960168-04:00.jpg">Jul 20 at 3:51 PM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-20T08:51:19.960168-04:00.jpg">July 20 at 3:51 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Asheville Watchdog at 2022-07-20 03:58:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-19T20:58:18.877378-04:00.jpg">Jul 20 at 3:58 AM</a></p>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-07-19T20:58:18.877378-04:00.jpg">July 20 at 3:58 AM</a></p>
 </div>
 
 </div>

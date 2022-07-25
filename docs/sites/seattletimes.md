@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-25 03:43:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-24T20:43:23.981749-07:00.jpg">Jul 25 at 3:43 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-24T20:43:23.981749-07:00.jpg">July 25 at 3:43 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-24 14:03:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-24T07:03:55.048280-07:00.jpg">Jul 24 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-24T07:03:55.048280-07:00.jpg">July 24 at 2:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-24 06:23:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-23T23:23:08.417559-07:00.jpg">Jul 24 at 6:23 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-23T23:23:08.417559-07:00.jpg">July 24 at 6:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-23 16:01:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-23T09:01:38.263048-07:00.jpg">Jul 23 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-23T09:01:38.263048-07:00.jpg">July 23 at 4:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-23 04:21:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-22T21:21:48.860726-07:00.jpg">Jul 23 at 4:21 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-22T21:21:48.860726-07:00.jpg">July 23 at 4:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-22 16:14:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-22T09:14:25.752819-07:00.jpg">Jul 22 at 4:14 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-22T09:14:25.752819-07:00.jpg">July 22 at 4:14 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-22 04:28:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-21T21:28:09.399211-07:00.jpg">Jul 22 at 4:28 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-21T21:28:09.399211-07:00.jpg">July 22 at 4:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-21 16:51:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-21T09:51:41.506018-07:00.jpg">Jul 21 at 4:51 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-21T09:51:41.506018-07:00.jpg">July 21 at 4:51 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-21 04:25:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-20T21:25:55.364382-07:00.jpg">Jul 21 at 4:25 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-20T21:25:55.364382-07:00.jpg">July 21 at 4:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-20 16:42:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-20T09:42:44.352818-07:00.jpg">Jul 20 at 4:42 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-20T09:42:44.352818-07:00.jpg">July 20 at 4:42 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-20 04:18:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-19T21:18:44.707605-07:00.jpg">Jul 20 at 4:18 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-19T21:18:44.707605-07:00.jpg">July 20 at 4:18 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Seattle Times at 2022-07-19 16:56:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-19T09:56:54.415550-07:00.jpg">Jul 19 at 4:56 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-07-19T09:56:54.415550-07:00.jpg">July 19 at 4:56 PM</a></p>
 </div>
 
 </div>

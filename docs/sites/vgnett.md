@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="VG at 2022-07-25 13:40:05+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T06:40:02.679981+02:00.jpg">Jul 25 at 1:40 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-25T06:40:02.679981+02:00.jpg">July 25 at 1:40 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="VG at 2022-07-25 00:09:55+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T17:09:53.623650+02:00.jpg">Jul 25 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T17:09:53.623650+02:00.jpg">July 25 at 12:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="VG at 2022-07-24 12:45:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T05:45:49.866394+02:00.jpg">Jul 24 at 12:45 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-24T05:45:49.866394+02:00.jpg">July 24 at 12:45 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="VG at 2022-07-24 01:08:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T18:08:17.911722+02:00.jpg">Jul 24 at 1:08 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T18:08:17.911722+02:00.jpg">July 24 at 1:08 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="VG at 2022-07-23 13:28:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T06:28:06.205071+02:00.jpg">Jul 23 at 1:28 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-23T06:28:06.205071+02:00.jpg">July 23 at 1:28 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="VG at 2022-07-23 01:21:10+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T18:21:08.485881+02:00.jpg">Jul 23 at 1:21 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T18:21:08.485881+02:00.jpg">July 23 at 1:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -88,7 +88,7 @@ Here are the 12 most recent screenshots.
      alt="VG at 2022-07-22 13:34:55+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T06:34:52.512232+02:00.jpg">Jul 22 at 1:34 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-22T06:34:52.512232+02:00.jpg">July 22 at 1:34 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,7 +97,7 @@ Here are the 12 most recent screenshots.
      alt="VG at 2022-07-22 01:58:05+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T18:58:04.240393+02:00.jpg">Jul 22 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T18:58:04.240393+02:00.jpg">July 22 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -106,7 +106,7 @@ Here are the 12 most recent screenshots.
      alt="VG at 2022-07-21 13:32:34+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T06:32:32.539192+02:00.jpg">Jul 21 at 1:32 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-21T06:32:32.539192+02:00.jpg">July 21 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -115,7 +115,7 @@ Here are the 12 most recent screenshots.
      alt="VG at 2022-07-21 01:49:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-20T18:49:18.815072+02:00.jpg">Jul 21 at 1:49 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-20T18:49:18.815072+02:00.jpg">July 21 at 1:49 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -124,7 +124,7 @@ Here are the 12 most recent screenshots.
      alt="VG at 2022-07-20 20:37:08+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-20T13:37:03.031400+02:00.jpg">Jul 20 at 8:37 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-07-20T13:37:03.031400+02:00.jpg">July 20 at 8:37 PM</a></p>
 </div>
 
 </div>

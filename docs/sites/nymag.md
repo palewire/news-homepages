@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-25 06:37:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.jpg">Jul 25 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T23:37:34.889450-04:00.jpg">July 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-24 16:58:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.jpg">Jul 24 at 4:58 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T09:58:12.166481-04:00.jpg">July 24 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-24 09:17:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.jpg">Jul 24 at 9:17 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-24T02:17:27.522432-04:00.jpg">July 24 at 9:17 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-23 18:04:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.jpg">Jul 23 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-23T11:04:44.675159-04:00.jpg">July 23 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-23 06:34:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T23:34:37.529170-04:00.jpg">Jul 23 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T23:34:37.529170-04:00.jpg">July 23 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-22 18:00:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T11:00:12.949201-04:00.jpg">Jul 22 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-22T11:00:12.949201-04:00.jpg">July 22 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-22 06:39:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-21T23:39:18.711714-04:00.jpg">Jul 22 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-21T23:39:18.711714-04:00.jpg">July 22 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-21 18:34:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-21T11:34:52.888266-04:00.jpg">Jul 21 at 6:34 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-21T11:34:52.888266-04:00.jpg">July 21 at 6:34 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-21 06:37:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T23:37:08.362941-04:00.jpg">Jul 21 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T23:37:08.362941-04:00.jpg">July 21 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-20 19:11:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T12:11:16.311567-04:00.jpg">Jul 20 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-20T12:11:16.311567-04:00.jpg">July 20 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-20 06:34:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-19T23:34:48.035995-04:00.jpg">Jul 20 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-19T23:34:48.035995-04:00.jpg">July 20 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="New York at 2022-07-19 18:45:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-19T11:45:11.674018-04:00.jpg">Jul 19 at 6:45 PM</a></p>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-07-19T11:45:11.674018-04:00.jpg">July 19 at 6:45 PM</a></p>
 </div>
 
 </div>

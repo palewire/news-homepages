@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-25 07:39:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T00:39:13.818554-04:00.jpg">Jul 25 at 7:39 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-25T00:39:13.818554-04:00.jpg">July 25 at 7:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-24 18:09:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-24T11:09:40.443011-04:00.jpg">Jul 24 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-24T11:09:40.443011-04:00.jpg">July 24 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-24 06:44:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T23:44:27.899029-04:00.jpg">Jul 24 at 6:44 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T23:44:27.899029-04:00.jpg">July 24 at 6:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-23 19:08:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T12:08:01.542305-04:00.jpg">Jul 23 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T12:08:01.542305-04:00.jpg">July 23 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-23 07:27:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T00:27:00.463321-04:00.jpg">Jul 23 at 7:27 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-23T00:27:00.463321-04:00.jpg">July 23 at 7:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-22 19:20:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T12:20:23.579626-04:00.jpg">Jul 22 at 7:20 PM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T12:20:23.579626-04:00.jpg">July 22 at 7:20 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -88,7 +88,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-22 07:34:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.jpg">Jul 22 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-22T00:34:04.896705-04:00.jpg">July 22 at 7:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,7 +97,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-21 19:57:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T12:57:42.594946-04:00.jpg">Jul 21 at 7:57 PM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T12:57:42.594946-04:00.jpg">July 21 at 7:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -106,7 +106,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-21 07:31:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T00:31:13.341797-04:00.jpg">Jul 21 at 7:31 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-21T00:31:13.341797-04:00.jpg">July 21 at 7:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -115,7 +115,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-20 19:48:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-20T12:48:30.954652-04:00.jpg">Jul 20 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-20T12:48:30.954652-04:00.jpg">July 20 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -124,7 +124,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-20 07:33:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-20T00:33:30.879797-04:00.jpg">Jul 20 at 7:33 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-20T00:33:30.879797-04:00.jpg">July 20 at 7:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -133,7 +133,7 @@ Here are the 12 most recent screenshots.
      alt="Stories Beneath the Shell at 2022-07-20 07:23:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-20T00:23:39.891640-04:00.jpg">Jul 20 at 7:23 AM</a></p>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-07-20T00:23:39.891640-04:00.jpg">July 20 at 7:23 AM</a></p>
 </div>
 
 </div>

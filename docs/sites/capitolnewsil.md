@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-25 13:01:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-25T06:01:34.010039-05:00.jpg">Jul 25 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-25T06:01:34.010039-05:00.jpg">July 25 at 1:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-25 02:53:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-24T19:53:25.489356-05:00.jpg">Jul 25 at 2:53 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-24T19:53:25.489356-05:00.jpg">July 25 at 2:53 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-24 13:00:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-24T06:00:21.799556-05:00.jpg">Jul 24 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-24T06:00:21.799556-05:00.jpg">July 24 at 1:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-24 01:02:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-23T18:02:44.323065-05:00.jpg">Jul 24 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-23T18:02:44.323065-05:00.jpg">July 24 at 1:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-23 14:59:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-23T07:59:40.825869-05:00.jpg">Jul 23 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-23T07:59:40.825869-05:00.jpg">July 23 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-23 02:59:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-22T19:59:46.119694-05:00.jpg">Jul 23 at 2:59 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-22T19:59:46.119694-05:00.jpg">July 23 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-22 14:59:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-22T07:59:55.790346-05:00.jpg">Jul 22 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-22T07:59:55.790346-05:00.jpg">July 22 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-22 03:07:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-21T20:07:48.103165-05:00.jpg">Jul 22 at 3:07 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-21T20:07:48.103165-05:00.jpg">July 22 at 3:07 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-21 14:54:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-21T07:54:37.978024-05:00.jpg">Jul 21 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-21T07:54:37.978024-05:00.jpg">July 21 at 2:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-21 03:06:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-20T20:06:37.629156-05:00.jpg">Jul 21 at 3:06 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-20T20:06:37.629156-05:00.jpg">July 21 at 3:06 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-20 14:54:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-20T07:54:26.629050-05:00.jpg">Jul 20 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-20T07:54:26.629050-05:00.jpg">July 20 at 2:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Capitol News Illinois at 2022-07-20 03:01:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-19T20:01:21.065459-05:00.jpg">Jul 20 at 3:01 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-07-19T20:01:21.065459-05:00.jpg">July 20 at 3:01 AM</a></p>
 </div>
 
 </div>

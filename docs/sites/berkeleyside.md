@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-25 10:59:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-25T03:59:22.280440-07:00.jpg">Jul 25 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-25T03:59:22.280440-07:00.jpg">July 25 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-25 00:50:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-24T17:50:27.823276-07:00.jpg">Jul 25 at 12:50 AM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-24T17:50:27.823276-07:00.jpg">July 25 at 12:50 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-24 10:58:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-24T03:58:37.498269-07:00.jpg">Jul 24 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-24T03:58:37.498269-07:00.jpg">July 24 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-23 23:00:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-23T16:00:34.490134-07:00.jpg">Jul 23 at 11:00 PM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-23T16:00:34.490134-07:00.jpg">July 23 at 11:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-23 12:57:39-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-23T05:57:37.935190-07:00.jpg">Jul 23 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-23T05:57:37.935190-07:00.jpg">July 23 at 12:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-23 00:58:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-22T17:58:16.132192-07:00.jpg">Jul 23 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-22T17:58:16.132192-07:00.jpg">July 23 at 12:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-22 12:57:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-22T05:57:56.598090-07:00.jpg">Jul 22 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-22T05:57:56.598090-07:00.jpg">July 22 at 12:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-22 01:06:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-21T18:06:05.802719-07:00.jpg">Jul 22 at 1:06 AM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-21T18:06:05.802719-07:00.jpg">July 22 at 1:06 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-21 12:52:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-21T05:52:24.814797-07:00.jpg">Jul 21 at 12:52 PM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-21T05:52:24.814797-07:00.jpg">July 21 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-21 01:04:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-20T18:04:31.043475-07:00.jpg">Jul 21 at 1:04 AM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-20T18:04:31.043475-07:00.jpg">July 21 at 1:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-20 12:52:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-20T05:52:39.049782-07:00.jpg">Jul 20 at 12:52 PM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-20T05:52:39.049782-07:00.jpg">July 20 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="The Berkeleyside at 2022-07-20 01:00:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-19T18:00:09.380788-07:00.jpg">Jul 20 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-07-19T18:00:09.380788-07:00.jpg">July 20 at 1:00 AM</a></p>
 </div>
 
 </div>

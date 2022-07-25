@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-25 05:26:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.jpg">Jul 25 at 5:26 AM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T22:26:37.487377-05:00.jpg">July 25 at 5:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-24 14:58:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T07:58:57.991673-05:00.jpg">Jul 24 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-24T07:58:57.991673-05:00.jpg">July 24 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-24 06:15:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T23:15:03.459342-05:00.jpg">Jul 24 at 6:15 AM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T23:15:03.459342-05:00.jpg">July 24 at 6:15 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-23 16:05:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T09:05:06.157207-05:00.jpg">Jul 23 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-23T09:05:06.157207-05:00.jpg">July 23 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-23 04:30:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-22T21:30:42.883547-05:00.jpg">Jul 23 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-22T21:30:42.883547-05:00.jpg">July 23 at 4:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-22 16:05:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-22T09:05:20.016466-05:00.jpg">Jul 22 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-22T09:05:20.016466-05:00.jpg">July 22 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-22 04:25:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-21T21:25:07.055638-05:00.jpg">Jul 22 at 4:25 AM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-21T21:25:07.055638-05:00.jpg">July 22 at 4:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-21 16:15:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-21T09:15:06.831608-05:00.jpg">Jul 21 at 4:15 PM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-21T09:15:06.831608-05:00.jpg">July 21 at 4:15 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-21 04:27:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-20T21:27:49.428412-05:00.jpg">Jul 21 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-20T21:27:49.428412-05:00.jpg">July 21 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-20 16:27:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-20T09:27:55.326721-05:00.jpg">Jul 20 at 4:27 PM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-20T09:27:55.326721-05:00.jpg">July 20 at 4:27 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-20 04:20:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-19T21:20:48.032735-05:00.jpg">Jul 20 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-19T21:20:48.032735-05:00.jpg">July 20 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Kansas City Star at 2022-07-19 16:19:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-19T09:18:59.331710-05:00.jpg">Jul 19 at 4:19 PM</a></p>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-07-19T09:18:59.331710-05:00.jpg">July 19 at 4:19 PM</a></p>
 </div>
 
 </div>

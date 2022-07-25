@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="CoinDesk at 2022-07-25 14:03:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T07:03:03.739211-04:00.jpg">Jul 25 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T07:03:03.739211-04:00.jpg">July 25 at 2:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="CoinDesk at 2022-07-25 09:46:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T02:46:43.427323-04:00.jpg">Jul 25 at 9:46 AM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-07-25T02:46:43.427323-04:00.jpg">July 25 at 9:46 AM</a></p>
 </div>
 
 </div>

@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="The Albany Herald at 2022-07-25 03:45:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-24T20:45:40.712315-04:00.jpg">Jul 25 at 3:45 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-24T20:45:40.712315-04:00.jpg">July 25 at 3:45 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="The Albany Herald at 2022-07-24 13:56:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-24T06:56:21.090343-04:00.jpg">Jul 24 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-24T06:56:21.090343-04:00.jpg">July 24 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="The Albany Herald at 2022-07-24 01:57:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-23T18:57:39.375972-04:00.jpg">Jul 24 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-23T18:57:39.375972-04:00.jpg">July 24 at 1:57 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -61,7 +61,7 @@ Here are the 12 most recent screenshots.
      alt="The Albany Herald at 2022-07-23 15:54:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-23T08:53:59.547319-04:00.jpg">Jul 23 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-23T08:53:59.547319-04:00.jpg">July 23 at 3:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -70,7 +70,7 @@ Here are the 12 most recent screenshots.
      alt="The Albany Herald at 2022-07-23 03:55:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-22T20:55:54.444305-04:00.jpg">Jul 23 at 3:55 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-22T20:55:54.444305-04:00.jpg">July 23 at 3:55 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -79,7 +79,7 @@ Here are the 12 most recent screenshots.
      alt="The Albany Herald at 2022-07-22 15:54:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-22T08:54:45.832071-04:00.jpg">Jul 22 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-22T08:54:45.832071-04:00.jpg">July 22 at 3:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -88,7 +88,7 @@ Here are the 12 most recent screenshots.
      alt="The Albany Herald at 2022-07-22 04:02:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-21T21:02:47.443036-04:00.jpg">Jul 22 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-21T21:02:47.443036-04:00.jpg">July 22 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -97,7 +97,7 @@ Here are the 12 most recent screenshots.
      alt="The Albany Herald at 2022-07-21 15:50:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-21T08:50:22.513716-04:00.jpg">Jul 21 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-21T08:50:22.513716-04:00.jpg">July 21 at 3:50 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -106,7 +106,7 @@ Here are the 12 most recent screenshots.
      alt="The Albany Herald at 2022-07-21 04:02:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-20T21:02:01.252548-04:00.jpg">Jul 21 at 4:02 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-20T21:02:01.252548-04:00.jpg">July 21 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -115,7 +115,7 @@ Here are the 12 most recent screenshots.
      alt="The Albany Herald at 2022-07-21 02:30:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-20T19:30:15.707844-04:00.jpg">Jul 21 at 2:30 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-07-20T19:30:15.707844-04:00.jpg">July 21 at 2:30 AM</a></p>
 </div>
 
 </div>

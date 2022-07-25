@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Windows Central at 2022-07-25 06:47:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-24T23:47:46.515861-07:00.jpg">Jul 25 at 6:47 AM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-07-24T23:47:46.515861-07:00.jpg">July 25 at 6:47 AM</a></p>
 </div>
 
 </div>

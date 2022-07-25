@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-25 06:38:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T23:38:30.876687-04:00.jpg">Jul 25 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T23:38:30.876687-04:00.jpg">July 25 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-24 16:59:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T09:59:44.099530-04:00.jpg">Jul 24 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T09:59:44.099530-04:00.jpg">July 24 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-24 09:19:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T02:19:12.103458-04:00.jpg">Jul 24 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-24T02:19:12.103458-04:00.jpg">July 24 at 9:19 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-23 18:05:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-23T11:05:55.210054-04:00.jpg">Jul 23 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-23T11:05:55.210054-04:00.jpg">July 23 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-23 06:35:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T23:35:36.622235-04:00.jpg">Jul 23 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T23:35:36.622235-04:00.jpg">July 23 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-22 18:01:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T11:01:45.961889-04:00.jpg">Jul 22 at 6:01 PM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-22T11:01:45.961889-04:00.jpg">July 22 at 6:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-22 06:39:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T23:39:58.044131-04:00.jpg">Jul 22 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T23:39:58.044131-04:00.jpg">July 22 at 6:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-21 18:36:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T11:36:23.069082-04:00.jpg">Jul 21 at 6:36 PM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-21T11:36:23.069082-04:00.jpg">July 21 at 6:36 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-21 06:38:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T23:38:02.935441-04:00.jpg">Jul 21 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T23:38:02.935441-04:00.jpg">July 21 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-20 19:13:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T12:13:04.722245-04:00.jpg">Jul 20 at 7:13 PM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-20T12:13:04.722245-04:00.jpg">July 20 at 7:13 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-20 06:35:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-19T23:35:56.917429-04:00.jpg">Jul 20 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-19T23:35:56.917429-04:00.jpg">July 20 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Ottawa Citizen at 2022-07-19 18:46:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-19T11:46:11.796594-04:00.jpg">Jul 19 at 6:46 PM</a></p>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-07-19T11:46:11.796594-04:00.jpg">July 19 at 6:46 PM</a></p>
 </div>
 
 </div>

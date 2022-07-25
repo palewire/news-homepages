@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-25 13:57:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T06:57:14.155240-04:00.jpg">Jul 25 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-25T06:57:14.155240-04:00.jpg">July 25 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-25 03:46:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T20:46:20.036831-04:00.jpg">Jul 25 at 3:46 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T20:46:20.036831-04:00.jpg">July 25 at 3:46 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-25 00:20:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T17:20:16.708223-04:00.jpg">Jul 25 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T17:20:16.708223-04:00.jpg">July 25 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-24 18:12:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T11:12:25.821043-04:00.jpg">Jul 24 at 6:12 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T11:12:25.821043-04:00.jpg">July 24 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-24 13:56:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T06:56:21.973415-04:00.jpg">Jul 24 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-24T06:56:21.973415-04:00.jpg">July 24 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-24 01:59:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T18:59:05.332866-04:00.jpg">Jul 24 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T18:59:05.332866-04:00.jpg">July 24 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-24 00:16:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T17:16:24.500179-04:00.jpg">Jul 24 at 12:16 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T17:16:24.500179-04:00.jpg">July 24 at 12:16 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-23 17:58:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T10:58:31.703395-04:00.jpg">Jul 23 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T10:58:31.703395-04:00.jpg">July 23 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-23 15:55:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T08:55:11.520674-04:00.jpg">Jul 23 at 3:55 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-23T08:55:11.520674-04:00.jpg">July 23 at 3:55 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-23 03:56:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-22T20:56:24.930513-04:00.jpg">Jul 23 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-22T20:56:24.930513-04:00.jpg">July 23 at 3:56 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-23 00:09:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-22T17:09:07.277577-04:00.jpg">Jul 23 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-22T17:09:07.277577-04:00.jpg">July 23 at 12:09 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Associated Press at 2022-07-22 18:05:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-07-22T11:05:08.328466-04:00.jpg">Jul 22 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-07-22T11:05:08.328466-04:00.jpg">July 22 at 6:05 PM</a></p>
 </div>
 
 </div>

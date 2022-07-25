@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-25 18:59:23+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T11:59:22.187081+01:00.jpg">Jul 25 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T11:59:22.187081+01:00.jpg">July 25 at 6:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-25 08:49:57+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T01:49:55.050610+01:00.jpg">Jul 25 at 8:49 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-25T01:49:55.050610+01:00.jpg">July 25 at 8:49 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-24 18:58:18+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T11:58:16.884458+01:00.jpg">Jul 24 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T11:58:16.884458+01:00.jpg">July 24 at 6:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-24 07:00:10+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T00:00:08.231036+01:00.jpg">Jul 24 at 7:00 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-24T00:00:08.231036+01:00.jpg">July 24 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-23 20:57:23+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T13:57:22.522056+01:00.jpg">Jul 23 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T13:57:22.522056+01:00.jpg">July 23 at 8:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-23 08:58:07+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T01:58:05.759408+01:00.jpg">Jul 23 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-23T01:58:05.759408+01:00.jpg">July 23 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-22 20:57:26+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T13:57:24.497763+01:00.jpg">Jul 22 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T13:57:24.497763+01:00.jpg">July 22 at 8:57 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-22 09:05:35+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T02:05:33.754654+01:00.jpg">Jul 22 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-22T02:05:33.754654+01:00.jpg">July 22 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-21 20:52:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T13:52:14.879816+01:00.jpg">Jul 21 at 8:52 PM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T13:52:14.879816+01:00.jpg">July 21 at 8:52 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-21 09:04:09+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T02:04:07.632205+01:00.jpg">Jul 21 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-21T02:04:07.632205+01:00.jpg">July 21 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-20 20:52:49+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-20T13:52:47.678801+01:00.jpg">Jul 20 at 8:52 PM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-20T13:52:47.678801+01:00.jpg">July 20 at 8:52 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Bellingcat at 2022-07-20 08:59:36+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-20T01:59:34.835852+01:00.jpg">Jul 20 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/bellingcat-2022/bellingcat-2022-07-20T01:59:34.835852+01:00.jpg">July 20 at 8:59 AM</a></p>
 </div>
 
 </div>

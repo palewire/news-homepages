@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-25 15:03:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-25T08:03:11.036179-04:00.jpg">Jul 25 at 3:03 PM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-25T08:03:11.036179-04:00.jpg">July 25 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-25 04:07:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-24T21:07:26.986815-04:00.jpg">Jul 25 at 4:07 AM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-24T21:07:26.986815-04:00.jpg">July 25 at 4:07 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-24 14:59:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-24T07:59:54.481812-04:00.jpg">Jul 24 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-24T07:59:54.481812-04:00.jpg">July 24 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-24 09:29:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-24T02:29:52.334574-04:00.jpg">Jul 24 at 9:29 AM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-24T02:29:52.334574-04:00.jpg">July 24 at 9:29 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-23 17:00:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-23T10:00:13.304758-04:00.jpg">Jul 23 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-23T10:00:13.304758-04:00.jpg">July 23 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-23 05:26:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-22T22:26:22.210120-04:00.jpg">Jul 23 at 5:26 AM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-22T22:26:22.210120-04:00.jpg">July 23 at 5:26 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-22 17:01:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-22T10:01:36.921375-04:00.jpg">Jul 22 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-22T10:01:36.921375-04:00.jpg">July 22 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-22 05:21:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-21T22:21:05.686949-04:00.jpg">Jul 22 at 5:21 AM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-21T22:21:05.686949-04:00.jpg">July 22 at 5:21 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-21 17:07:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-21T10:07:06.297353-04:00.jpg">Jul 21 at 5:07 PM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-21T10:07:06.297353-04:00.jpg">July 21 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-21 05:23:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-20T22:23:31.388916-04:00.jpg">Jul 21 at 5:23 AM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-20T22:23:31.388916-04:00.jpg">July 21 at 5:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-20 17:23:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-20T10:23:07.978109-04:00.jpg">Jul 20 at 5:23 PM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-20T10:23:07.978109-04:00.jpg">July 20 at 5:23 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Frederick News-Post at 2022-07-20 07:33:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-20T00:33:31.408223-04:00.jpg">Jul 20 at 7:33 AM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-07-20T00:33:31.408223-04:00.jpg">July 20 at 7:33 AM</a></p>
 </div>
 
 </div>

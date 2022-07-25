@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-25 12:06:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T05:06:32.332943-07:00.jpg">Jul 25 at 12:06 PM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-25T05:06:32.332943-07:00.jpg">July 25 at 12:06 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-25 01:12:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T18:12:11.371694-07:00.jpg">Jul 25 at 1:12 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T18:12:11.371694-07:00.jpg">July 25 at 1:12 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-24 12:03:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T05:03:10.736679-07:00.jpg">Jul 24 at 12:03 PM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-24T05:03:10.736679-07:00.jpg">July 24 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-24 06:33:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T23:33:41.477762-07:00.jpg">Jul 24 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T23:33:41.477762-07:00.jpg">July 24 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-23 14:02:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T07:02:31.248162-07:00.jpg">Jul 23 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-23T07:02:31.248162-07:00.jpg">July 23 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-23 02:28:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T19:28:53.844014-07:00.jpg">Jul 23 at 2:28 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T19:28:53.844014-07:00.jpg">July 23 at 2:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-22 14:04:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T07:03:59.482614-07:00.jpg">Jul 22 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-22T07:03:59.482614-07:00.jpg">July 22 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-22 02:23:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T19:23:29.788062-07:00.jpg">Jul 22 at 2:23 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T19:23:29.788062-07:00.jpg">July 22 at 2:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-21 14:12:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T07:12:55.641149-07:00.jpg">Jul 21 at 2:12 PM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-21T07:12:55.641149-07:00.jpg">July 21 at 2:12 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-21 02:25:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-20T19:25:43.047568-07:00.jpg">Jul 21 at 2:25 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-20T19:25:43.047568-07:00.jpg">July 21 at 2:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-20 14:26:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-20T07:26:45.837726-07:00.jpg">Jul 20 at 2:26 PM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-20T07:26:45.837726-07:00.jpg">July 20 at 2:26 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Indian Country Today at 2022-07-20 02:19:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-19T19:19:10.893807-07:00.jpg">Jul 20 at 2:19 AM</a></p>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-07-19T19:19:10.893807-07:00.jpg">July 20 at 2:19 AM</a></p>
 </div>
 
 </div>

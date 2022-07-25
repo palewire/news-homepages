@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-25 07:39:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T00:39:51.794049-04:00.jpg">Jul 25 at 7:39 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-25T00:39:51.794049-04:00.jpg">July 25 at 7:39 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-24 18:09:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-24T11:09:42.354670-04:00.jpg">Jul 24 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-24T11:09:42.354670-04:00.jpg">July 24 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-24 06:44:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T23:44:54.817033-04:00.jpg">Jul 24 at 6:44 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T23:44:54.817033-04:00.jpg">July 24 at 6:44 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-23 19:07:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T12:07:56.732290-04:00.jpg">Jul 23 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T12:07:56.732290-04:00.jpg">July 23 at 7:07 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-23 07:28:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T00:28:15.419052-04:00.jpg">Jul 23 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-23T00:28:15.419052-04:00.jpg">July 23 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-22 19:20:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-22T12:20:19.525260-04:00.jpg">Jul 22 at 7:20 PM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-22T12:20:19.525260-04:00.jpg">July 22 at 7:20 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-22 07:34:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-22T00:34:12.369676-04:00.jpg">Jul 22 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-22T00:34:12.369676-04:00.jpg">July 22 at 7:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-21 19:58:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-21T12:58:17.723398-04:00.jpg">Jul 21 at 7:58 PM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-21T12:58:17.723398-04:00.jpg">July 21 at 7:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-21 07:31:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-21T00:31:42.245334-04:00.jpg">Jul 21 at 7:31 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-21T00:31:42.245334-04:00.jpg">July 21 at 7:31 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-20 19:48:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-20T12:48:47.205495-04:00.jpg">Jul 20 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-20T12:48:47.205495-04:00.jpg">July 20 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-20 07:23:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-20T00:23:41.572013-04:00.jpg">Jul 20 at 7:23 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-20T00:23:41.572013-04:00.jpg">July 20 at 7:23 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Vanity Fair at 2022-07-19 07:28:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-19T00:28:04.788460-04:00.jpg">Jul 19 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-19T00:28:04.788460-04:00.jpg">July 19 at 7:28 AM</a></p>
 </div>
 
 </div>

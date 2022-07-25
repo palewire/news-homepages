@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-25 06:34:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.jpg">Jul 25 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T23:34:43.487327-05:00.jpg">July 25 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-24 17:04:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.jpg">Jul 24 at 5:04 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-24T10:04:43.811064-05:00.jpg">July 24 at 5:04 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-24 05:41:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T22:41:29.148211-05:00.jpg">Jul 24 at 5:41 AM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T22:41:29.148211-05:00.jpg">July 24 at 5:41 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-23 18:03:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T11:03:52.704411-05:00.jpg">Jul 23 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-23T11:03:52.704411-05:00.jpg">July 23 at 6:03 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-23 06:24:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-22T23:24:22.907155-05:00.jpg">Jul 23 at 6:24 AM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-22T23:24:22.907155-05:00.jpg">July 23 at 6:24 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-22 18:16:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-22T11:16:51.540568-05:00.jpg">Jul 22 at 6:16 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-22T11:16:51.540568-05:00.jpg">July 22 at 6:16 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-22 06:30:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-21T23:30:53.395352-05:00.jpg">Jul 22 at 6:30 AM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-21T23:30:53.395352-05:00.jpg">July 22 at 6:30 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-21 18:54:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-21T11:54:03.427978-05:00.jpg">Jul 21 at 6:54 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-21T11:54:03.427978-05:00.jpg">July 21 at 6:54 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-21 06:28:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-20T23:28:07.995363-05:00.jpg">Jul 21 at 6:28 AM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-20T23:28:07.995363-05:00.jpg">July 21 at 6:28 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-20 18:44:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-20T11:44:49.157415-05:00.jpg">Jul 20 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-20T11:44:49.157415-05:00.jpg">July 20 at 6:44 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-19 18:59:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-19T11:59:41.133923-05:00.jpg">Jul 19 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-19T11:59:41.133923-05:00.jpg">July 19 at 6:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Texas Tribune at 2022-07-19 06:25:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-18T23:25:22.572523-05:00.jpg">Jul 19 at 6:25 AM</a></p>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-07-18T23:25:22.572523-05:00.jpg">July 19 at 6:25 AM</a></p>
 </div>
 
 </div>

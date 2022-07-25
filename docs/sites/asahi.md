@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-26 02:58:01+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-25T19:58:00.347995+09:00.jpg">Jul 26 at 2:58 AM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-25T19:58:00.347995+09:00.jpg">July 26 at 2:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-25 19:36:04+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-25T12:36:02.621553+09:00.jpg">Jul 25 at 7:36 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-25T12:36:02.621553+09:00.jpg">July 25 at 7:36 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-25 16:47:04+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-25T09:47:00.556716+09:00.jpg">Jul 25 at 4:47 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-25T09:47:00.556716+09:00.jpg">July 25 at 4:47 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-25 02:56:27+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-24T19:56:24.336570+09:00.jpg">Jul 25 at 2:56 AM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-24T19:56:24.336570+09:00.jpg">July 25 at 2:56 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-24 18:25:27+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-24T11:25:24.986550+09:00.jpg">Jul 24 at 6:25 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-24T11:25:24.986550+09:00.jpg">July 24 at 6:25 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-24 14:59:25+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-24T07:59:23.583594+09:00.jpg">Jul 24 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-24T07:59:23.583594+09:00.jpg">July 24 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-24 04:55:26+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-23T21:55:24.017914+09:00.jpg">Jul 24 at 4:55 AM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-23T21:55:24.017914+09:00.jpg">July 24 at 4:55 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-23 17:35:19+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-23T10:35:18.235917+09:00.jpg">Jul 23 at 5:35 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-23T10:35:18.235917+09:00.jpg">July 23 at 5:35 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-23 16:56:04+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-23T09:56:02.834407+09:00.jpg">Jul 23 at 4:56 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-23T09:56:02.834407+09:00.jpg">July 23 at 4:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-23 04:55:46+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-22T21:55:44.655484+09:00.jpg">Jul 23 at 4:55 AM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-22T21:55:44.655484+09:00.jpg">July 23 at 4:55 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-22 17:34:06+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-22T10:34:05.052957+09:00.jpg">Jul 22 at 5:34 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-22T10:34:05.052957+09:00.jpg">July 22 at 5:34 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Asahi Shimbun at 2022-07-22 17:03:45+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-22T10:03:44.151120+09:00.jpg">Jul 22 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-07-22T10:03:44.151120+09:00.jpg">July 22 at 5:03 PM</a></p>
 </div>
 
 </div>

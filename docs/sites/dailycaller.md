@@ -117,7 +117,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-25 14:58:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-25T07:58:42.523404-04:00.jpg">Jul 25 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-25T07:58:42.523404-04:00.jpg">July 25 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -126,7 +126,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-25 03:58:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-24T20:58:12.086113-04:00.jpg">Jul 25 at 3:58 AM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-24T20:58:12.086113-04:00.jpg">July 25 at 3:58 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -135,7 +135,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-24 18:44:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-24T11:44:16.136225-04:00.jpg">Jul 24 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-24T11:44:16.136225-04:00.jpg">July 24 at 6:44 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -144,7 +144,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-24 14:56:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-24T07:56:19.982049-04:00.jpg">Jul 24 at 2:56 PM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-24T07:56:19.982049-04:00.jpg">July 24 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +153,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-24 09:25:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-24T02:25:40.849231-04:00.jpg">Jul 24 at 9:25 AM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-24T02:25:40.849231-04:00.jpg">July 24 at 9:25 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -162,7 +162,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-23 19:10:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-23T12:10:54.021400-04:00.jpg">Jul 23 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-23T12:10:54.021400-04:00.jpg">July 23 at 7:10 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,7 +171,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-23 16:02:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-23T09:02:02.222739-04:00.jpg">Jul 23 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-23T09:02:02.222739-04:00.jpg">July 23 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -180,7 +180,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-23 04:03:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-22T21:03:42.861845-04:00.jpg">Jul 23 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-22T21:03:42.861845-04:00.jpg">July 23 at 4:03 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -189,7 +189,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-22 19:24:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-22T12:24:51.980749-04:00.jpg">Jul 22 at 7:24 PM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-22T12:24:51.980749-04:00.jpg">July 22 at 7:24 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -198,7 +198,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-22 16:02:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-22T09:02:53.128234-04:00.jpg">Jul 22 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-22T09:02:53.128234-04:00.jpg">July 22 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -207,7 +207,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-22 04:10:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-21T21:10:25.507821-04:00.jpg">Jul 22 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-21T21:10:25.507821-04:00.jpg">July 22 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -216,7 +216,7 @@ Here are the 12 most recent screenshots.
      alt="Daily Caller at 2022-07-21 20:01:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-21T13:01:17.307182-04:00.jpg">Jul 21 at 8:01 PM</a></p>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-07-21T13:01:17.307182-04:00.jpg">July 21 at 8:01 PM</a></p>
 </div>
 
 </div>

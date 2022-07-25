@@ -34,7 +34,7 @@ Here are the 12 most recent screenshots.
      alt="Times of India at 2022-07-25 17:08:54+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-25T10:08:53.048910+05:30.jpg">Jul 25 at 5:08 PM</a></p>
+ <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-25T10:08:53.048910+05:30.jpg">July 25 at 5:08 PM</a></p>
 </div>
 
 <div class="latest-child">
@@ -43,7 +43,7 @@ Here are the 12 most recent screenshots.
      alt="Times of India at 2022-07-25 03:38:00+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-24T20:37:58.619976+05:30.jpg">Jul 25 at 3:38 AM</a></p>
+ <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-24T20:37:58.619976+05:30.jpg">July 25 at 3:38 AM</a></p>
 </div>
 
 <div class="latest-child">
@@ -52,7 +52,7 @@ Here are the 12 most recent screenshots.
      alt="Times of India at 2022-07-24 16:13:25+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-24T09:13:19.947930+05:30.jpg">Jul 24 at 4:13 PM</a></p>
+ <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-07-24T09:13:19.947930+05:30.jpg">July 24 at 4:13 PM</a></p>
 </div>
 
 </div>
