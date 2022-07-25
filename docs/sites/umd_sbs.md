@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/maryland.html">Maryland</a>  |
 
-The archiving routine has captured 26 screenshots stored at the Internet Archive.
+The archiving routine has captured 27 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

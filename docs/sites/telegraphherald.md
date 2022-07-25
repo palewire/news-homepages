@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Chicago                                                                                                                              |
 | Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
-The archiving routine has captured 185 screenshots stored at the Internet Archive.
+The archiving routine has captured 186 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/London                                                                                                                              |
 | Bundles        | <a href="../bundles/scotland.html">Scotland</a>  |
 
-The archiving routine has captured 36 screenshots stored at the Internet Archive.
+The archiving routine has captured 37 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

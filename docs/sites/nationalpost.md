@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
-The archiving routine has captured 90 screenshots stored at the Internet Archive.
+The archiving routine has captured 91 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

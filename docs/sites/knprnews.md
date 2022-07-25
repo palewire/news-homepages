@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Los_Angeles                                                                                                                              |
 | Bundles        | <a href="../bundles/las-vegas.html">Las Vegas</a>  |
 
-The archiving routine has captured 31 screenshots stored at the Internet Archive.
+The archiving routine has captured 32 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

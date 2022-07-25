@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Los_Angeles                                                                                                                              |
 | Bundles        | <a href="../bundles/socal.html">Southern California</a>  |
 
-The archiving routine has captured 270 screenshots stored at the Internet Archive.
+The archiving routine has captured 272 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

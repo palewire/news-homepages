@@ -18,7 +18,8 @@ orphan: true
 | Timezone       | Asia/Kathmandu                                                                                                                              |
 | Bundles        | <a href="../bundles/nepal.html">Nepal</a>  |
 
-The archiving routine has captured 0 screenshots stored at the Internet Archive.
+The archiving routine has captured 2 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
+|[arthasarokar-2022](https://archive.org/details/arthasarokar-2022)|

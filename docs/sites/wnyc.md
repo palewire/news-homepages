@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/new-york-city.html">New York City</a>  |
 
-The archiving routine has captured 69 screenshots stored at the Internet Archive.
+The archiving routine has captured 70 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

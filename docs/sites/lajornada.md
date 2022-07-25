@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Mexico_City                                                                                                                              |
 | Bundles        | <a href="../bundles/mexico.html">Mexico</a>  |
 
-The archiving routine has captured 438 screenshots stored at the Internet Archive.
+The archiving routine has captured 439 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

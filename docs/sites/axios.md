@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/capitol-hill.html">Capitol Hill</a>  |
 
-The archiving routine has captured 98 screenshots stored at the Internet Archive.
+The archiving routine has captured 99 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

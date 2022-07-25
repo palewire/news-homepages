@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Oslo                                                                                                                              |
 | Bundles        | <a href="../bundles/norway.html">Norway</a>  |
 
-The archiving routine has captured 10 screenshots stored at the Internet Archive.
+The archiving routine has captured 11 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/north-carolina.html">North Carolina</a>  |
 
-The archiving routine has captured 185 screenshots stored at the Internet Archive.
+The archiving routine has captured 186 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

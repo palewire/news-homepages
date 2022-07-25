@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/London                                                                                                                              |
 | Bundles        | <a href="../bundles/uk-national.html">U.K. national news</a>  |
 
-The archiving routine has captured 92 screenshots stored at the Internet Archive.
+The archiving routine has captured 93 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

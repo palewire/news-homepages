@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Chicago                                                                                                                              |
 | Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
 
-The archiving routine has captured 115 screenshots stored at the Internet Archive.
+The archiving routine has captured 117 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

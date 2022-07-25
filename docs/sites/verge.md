@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
-The archiving routine has captured 88 screenshots stored at the Internet Archive.
+The archiving routine has captured 89 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |

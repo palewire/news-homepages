@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Bundles        | <a href="../bundles/entertainment.html">Entertainment</a>  |
 
-The archiving routine has captured 75 screenshots stored at the Internet Archive.
+The archiving routine has captured 76 screenshots stored at the Internet Archive.
 
 | Item  |
 | :---- |
