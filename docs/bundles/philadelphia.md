@@ -7,7 +7,7 @@ orphan: true
 
 # Philadelphia
 
-The most recent homepages from 10 news sites in this bundle.
+The most recent homepages from 11 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -27,6 +27,15 @@ The most recent homepages from 10 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/billy_penn.html">Billy Penn</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailypenn.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailypenn.jpg"
+     alt="Daily Penn"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dailypenn.html">Daily Penn</a></p>
 </div>
 
 <div class="latest-child">
@@ -118,6 +127,7 @@ The most recent homepages from 10 news sites in this bundle.
 | :---- | :---------------: | :-- |
 |[6abc](https://palewi.re/docs/news-homepages/sites/6abc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/6abc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/6abc.xml)|
 |[Billy Penn](https://palewi.re/docs/news-homepages/sites/billy_penn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/billy_penn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/billy_penn.xml)|
+|[Daily Penn](https://palewi.re/docs/news-homepages/sites/dailypenn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailypenn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailypenn.xml)|
 |[FOX29 Philly](https://palewi.re/docs/news-homepages/sites/fox29philly.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fox29philly.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fox29philly.xml)|
 |[Hidden City Daily](https://palewi.re/docs/news-homepages/sites/hiddencityphila.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hiddencityphila.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hiddencityphila.xml)|
 |[NBC10 Philadelphia](https://palewi.re/docs/news-homepages/sites/nbcphiladelphia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcphiladelphia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcphiladelphia.xml)|

@@ -7,7 +7,7 @@ orphan: true
 
 # Japan
 
-The most recent homepages from 8 news sites in this bundle.
+The most recent homepages from 9 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -18,6 +18,15 @@ The most recent homepages from 8 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/asahi.html">Asahi Shimbun</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bloombergjapan.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bloombergjapan.jpg"
+     alt="Bloomberg Japan"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/bloombergjapan.html">Bloomberg Japan</a></p>
 </div>
 
 <div class="latest-child">
@@ -99,6 +108,7 @@ The most recent homepages from 8 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[Asahi Shimbun](https://palewi.re/docs/news-homepages/sites/asahi.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/asahi.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/asahi.xml)|
+|[Bloomberg Japan](https://palewi.re/docs/news-homepages/sites/bloombergjapan.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bloombergjapan.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bloombergjapan.xml)|
 |[Chunichi Shimbun](https://palewi.re/docs/news-homepages/sites/chunichi_denhen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chunichi_denhen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chunichi_denhen.xml)|
 |[Jiji](https://palewi.re/docs/news-homepages/sites/jijicom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jijicom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jijicom.xml)|
 |[NHK](https://palewi.re/docs/news-homepages/sites/nhk_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhk_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nhk_news.xml)|

@@ -7,7 +7,7 @@ orphan: true
 
 # Florida
 
-The most recent homepages from 2 news sites in this bundle.
+The most recent homepages from 3 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -29,6 +29,15 @@ The most recent homepages from 2 news sites in this bundle.
  <p><a href="../sites/miamiherald.html">Miami Herald</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/tb_times.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tb_times.jpg"
+     alt="Tampa Bay Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/tb_times.html">Tampa Bay Times</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -46,3 +55,4 @@ The most recent homepages from 2 news sites in this bundle.
 | :---- | :---------------: | :-- |
 |[Gainesville Sun](https://palewi.re/docs/news-homepages/sites/gainesvillesun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gainesvillesun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gainesvillesun.xml)|
 |[Miami Herald](https://palewi.re/docs/news-homepages/sites/miamiherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miamiherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/miamiherald.xml)|
+|[Tampa Bay Times](https://palewi.re/docs/news-homepages/sites/tb_times.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tb_times.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tb_times.xml)|

@@ -7,7 +7,7 @@ orphan: true
 
 # Georgia
 
-The most recent homepages from 35 news sites in this bundle.
+The most recent homepages from 36 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -126,6 +126,15 @@ The most recent homepages from 35 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/gpbnews.html">Georgia Public Broadcasting</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gradynewsource.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gradynewsource.jpg"
+     alt="Grady Newsource"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gradynewsource.html">Grady Newsource</a></p>
 </div>
 
 <div class="latest-child">
@@ -354,6 +363,7 @@ The most recent homepages from 35 news sites in this bundle.
 |[Fox 31 WFXL-TV](https://palewi.re/docs/news-homepages/sites/wfxl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wfxl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wfxl.xml)|
 |[Fox 5 Atlanta](https://palewi.re/docs/news-homepages/sites/fox5atlanta.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fox5atlanta.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fox5atlanta.xml)|
 |[Georgia Public Broadcasting](https://palewi.re/docs/news-homepages/sites/gpbnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gpbnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gpbnews.xml)|
+|[Grady Newsource](https://palewi.re/docs/news-homepages/sites/gradynewsource.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gradynewsource.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gradynewsource.xml)|
 |[Gwinnett Daily Post](https://palewi.re/docs/news-homepages/sites/gwinnettdaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gwinnettdaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gwinnettdaily.xml)|
 |[Marietta Daily Journal](https://palewi.re/docs/news-homepages/sites/mdjonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mdjonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mdjonline.xml)|
 |[News 12 NBC 26](https://palewi.re/docs/news-homepages/sites/wrdw_wagt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrdw_wagt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wrdw_wagt.xml)|
