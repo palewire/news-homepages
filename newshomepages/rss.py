@@ -3,6 +3,8 @@ from datetime import datetime
 import click
 import jinja2
 import pytz
+from rich import print
+from rich.progress import track
 
 from . import utils
 
@@ -21,28 +23,46 @@ def cli():
 @cli.command()
 def bundles():
     """Create bundle feeds."""
+    # Get data
     bundle_list = utils.get_bundle_list()
     screenshot_list = utils.get_screenshot_list()
+    print(f":basket: Creating RSS feeds for {len(bundle_list)} bundles")
+
+    # Set timestamp for feeds
     now = datetime.now(pytz.utc)
-    for bundle in bundle_list:
+
+    # Loop through all bundles
+    for bundle in track(bundle_list):
+
+        # Get all of its sites
         site_list = utils.get_sites_in_bundle(bundle["slug"])
+
+        # Pull all of the screenshots for the sites
         handle_list = [s["handle"].lower() for s in site_list]
         file_list = [s for s in screenshot_list if s["handle"].lower() in handle_list]
-        click.echo(f"Building RSS for {bundle['name']}")
-        template = TEMPLATE_ENV.get_template("bundle.rss.tmpl")
-        bundle_tz = pytz.timezone(bundle["timezone"])
-        for file in file_list:
-            file["local_time"] = file["mtime"].astimezone(bundle_tz)
-            file["name"] = next(
-                s for s in site_list if s["handle"].lower() == file["handle"].lower()
-            )["name"]
+
+        # Sort reverse chron
         sorted_list = sorted(file_list, key=lambda x: x["mtime"], reverse=True)
 
+        # Trim to the latest 50 items
+        trimmed_list = sorted_list[:50]
+
+        # Localize the the timestamp in each file
+        bundle_tz = pytz.timezone(bundle["timezone"])
+        for f in trimmed_list:
+            f["local_time"] = f["mtime"].astimezone(bundle_tz)
+
+            # Set a clean name too
+            f["name"] = next(
+                s for s in site_list if s["handle"].lower() == f["handle"].lower()
+            )["name"]
+
         # Render the template
+        template = TEMPLATE_ENV.get_template("bundle.rss.tmpl")
         rss = template.render(
             now=now,
             obj=bundle,
-            file_list=sorted_list[:50],
+            file_list=trimmed_list,
         )
 
         # Write it out

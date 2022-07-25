@@ -40,7 +40,7 @@ def latest_screenshots():
 def source_list():
     """Create source list."""
     site_list = sorted(utils.get_site_list(), key=lambda x: x["name"].lower())
-    print(":basket: Creating site list page")
+    print(":newspaper: Creating site list page")
 
     template = TEMPLATE_ENV.get_template("sources.md.tmpl")
     md = template.render(site_list=site_list)
